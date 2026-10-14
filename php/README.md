@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [phphone/phphone](./phphone-phphone.md) | ⭐ 3 | Objective-C | 32/100 |
+| 1 | [phphone/phphone](./phphone-phphone.md) | ⭐ 3 | Objective-C | 29/100 |
 | 2 | [yourrepo/dbm-framework](./yourrepo-dbm-framework.md) | ⭐ — | — | 28/100 |
 
 ---

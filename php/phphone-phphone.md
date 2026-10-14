@@ -1,6 +1,6 @@
 # phphone/phphone
 
-[![Stars](https://img.shields.io/github/stars/phphone/phphone?style=flat-square&color=yellow)](https://github.com/phphone/phphone/stargazers) [![Forks](https://img.shields.io/github/forks/phphone/phphone?style=flat-square&color=blue)](https://github.com/phphone/phphone/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/phphone/phphone?style=flat-square&color=yellow)](https://github.com/phphone/phphone/stargazers) [![Forks](https://img.shields.io/github/forks/phphone/phphone?style=flat-square&color=blue)](https://github.com/phphone/phphone/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-29%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 29/100 |
 | 🗓️ **Last push** | 2026-09-14 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ phphone/phphone：phphone/phphone may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 30/100 |
+| quality | 25/100 |
 | integration | 18/100 |
-| production | 42/100 |
-| outlook | 39/100 |
+| production | 35/100 |
+| outlook | 32/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 800/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

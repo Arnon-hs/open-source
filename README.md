@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40144** |
+| **Projects** | **40145** |
 | **Categories** | **468** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -24,9 +24,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 15749 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4352 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4353 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2752 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2322 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2323 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1575 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1398 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 932 | [Browse →](./backend/) |
@@ -54,8 +54,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Content-creation** | 144 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 110 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 87 | [Browse →](./ai/) |
-| 🏷️ **Offline** | 37 | [Browse →](./offline/) |
-| 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
+| 🏷️ **Offline** | 36 | [Browse →](./offline/) |
+| 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 22 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
@@ -137,7 +137,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Speechtotext** | 2 | [Browse →](./speechtotext/) |
 | 🏷️ **Data-contamination** | 2 | [Browse →](./data-contamination/) |
 | 🏷️ **Cli** | 2 | [Browse →](./cli/) |
-| 🏷️ **Figma** | 2 | [Browse →](./figma/) |
 | 🏷️ **Yaml** | 2 | [Browse →](./yaml/) |
 | 🏷️ **Api-security** | 2 | [Browse →](./api-security/) |
 | 🏷️ **Astro** | 2 | [Browse →](./astro/) |
@@ -249,6 +248,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ollama** | 1 | [Browse →](./ollama/) |
 | 🏷️ **Facebook** | 1 | [Browse →](./facebook/) |
 | 🏷️ **Net-10** | 1 | [Browse →](./net-10/) |
+| 🏷️ **Figma** | 1 | [Browse →](./figma/) |
 | 🏷️ **Personal-agent** | 1 | [Browse →](./personal-agent/) |
 | 🏷️ **Network-monitoring** | 1 | [Browse →](./network-monitoring/) |
 | 🏷️ **Compiler** | 1 | [Browse →](./compiler/) |

@@ -1,6 +1,6 @@
 # Wolfe-Jam/mcp-context-card
 
-[![Stars](https://img.shields.io/github/stars/Wolfe-Jam/mcp-context-card?style=flat-square&color=yellow)](https://github.com/Wolfe-Jam/mcp-context-card/stargazers) [![Forks](https://img.shields.io/github/forks/Wolfe-Jam/mcp-context-card?style=flat-square&color=blue)](https://github.com/Wolfe-Jam/mcp-context-card/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wolfe-Jam/mcp-context-card?style=flat-square&color=yellow)](https://github.com/Wolfe-Jam/mcp-context-card/stargazers) [![Forks](https://img.shields.io/github/forks/Wolfe-Jam/mcp-context-card?style=flat-square&color=blue)](https://github.com/Wolfe-Jam/mcp-context-card/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that makes a project's context (AGENTS.md), memory, and identity discoverable to any MCP client — via the Server Card _meta block and ai-catalog.json
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ Wolfe-Jam/mcp-context-card：Wolfe-Jam/mcp-context-card helps connect AI assista
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 72/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 600/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # cordango/cordango
 
-[![Stars](https://img.shields.io/github/stars/cordango/cordango?style=flat-square&color=yellow)](https://github.com/cordango/cordango/stargazers) [![Forks](https://img.shields.io/github/forks/cordango/cordango?style=flat-square&color=blue)](https://github.com/cordango/cordango/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cordango/cordango?style=flat-square&color=yellow)](https://github.com/cordango/cordango/stargazers) [![Forks](https://img.shields.io/github/forks/cordango/cordango?style=flat-square&color=blue)](https://github.com/cordango/cordango/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source compiler for full-stack applications. Define your app in YAML, then generate standalone .NET + Vue or Node + Vue applications with APIs, authentication, permissions and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ cordango/cordango：cordango/cordango may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 60/100 |
+| outlook | 66/100 |
 | adoption | 12/100 |
 | categoryMatchCount | 600/100 |
 | stars | 17/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
