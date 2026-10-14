@@ -1,6 +1,6 @@
 # SikamikanikoBG/patzer
 
-[![Stars](https://img.shields.io/github/stars/SikamikanikoBG/patzer?style=flat-square&color=yellow)](https://github.com/SikamikanikoBG/patzer/stargazers) [![Forks](https://img.shields.io/github/forks/SikamikanikoBG/patzer?style=flat-square&color=blue)](https://github.com/SikamikanikoBG/patzer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SikamikanikoBG/patzer?style=flat-square&color=yellow)](https://github.com/SikamikanikoBG/patzer/stargazers) [![Forks](https://img.shields.io/github/forks/SikamikanikoBG/patzer?style=flat-square&color=blue)](https://github.com/SikamikanikoBG/patzer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted Chess.com alternative: Game Review for your Chess.com & Lichess games, play vs Stockfish or a friend, lessons + opening trainer, AI coach on your own Ollama/vLLM, EN·BG·ES·DE·RU, one Docker container
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 37 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ SikamikanikoBG/patzer：SikamikanikoBG/patzer may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 72/100 |
+| production | 64/100 |
+| outlook | 65/100 |
 | adoption | 32/100 |
 | categoryMatchCount | 600/100 |
 | stars | 34/100 |
 | forks | 28/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -506,9 +506,9 @@
 | 496 | [chrisryugj/Docufinder](./chrisryugj-docufinder.md) | ⭐ 258 | Rust | 49/100 |
 | 497 | [torrua/loglan-bench](./torrua-loglan-bench.md) | ⭐ — | Python | 48/100 |
 | 498 | [Christopher22/charon](./christopher22-charon.md) | ⭐ — | — | 48/100 |
-| 499 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
+| 499 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
 | 500 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
-| 501 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 501 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
 | 502 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
 | 503 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
 | 504 | [SeekStorm/SeekStorm](./seekstorm-seekstorm.md) | ⭐ 1.9k | Rust | 48/100 |

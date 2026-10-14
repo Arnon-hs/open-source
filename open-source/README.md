@@ -14,8 +14,8 @@
 | 4 | [Yashgurav002/sitspot](./yashgurav002-sitspot.md) | ⭐ — | TypeScript | 42/100 |
 | 5 | [BartoszOsiej/pqbit](./bartoszosiej-pqbit.md) | ⭐ 1 | Rust | 41/100 |
 | 6 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 40/100 |
-| 7 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 39/100 |
-| 8 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
+| 7 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
+| 8 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 36/100 |
 | 9 | [Piwe/jacaranda-scout](./piwe-jacaranda-scout.md) | ⭐ — | Java | 36/100 |
 | 10 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 36/100 |
 | 11 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 36/100 |

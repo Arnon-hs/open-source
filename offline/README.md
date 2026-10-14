@@ -23,10 +23,10 @@
 | 13 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 40/100 |
 | 14 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 39/100 |
 | 15 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 39/100 |
-| 16 | [DhirajB05/HacktoberFest_C2](./dhirajb05-hacktoberfest-c2.md) | ⭐ — | Python | 39/100 |
-| 17 | [k1ng0mar/gona](./k1ng0mar-gona.md) | ⭐ — | JavaScript | 39/100 |
-| 18 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 37/100 |
-| 19 | [disanalam2/trailecho](./disanalam2-trailecho.md) | ⭐ — | JavaScript | 36/100 |
+| 16 | [k1ng0mar/gona](./k1ng0mar-gona.md) | ⭐ — | JavaScript | 39/100 |
+| 17 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 37/100 |
+| 18 | [disanalam2/trailecho](./disanalam2-trailecho.md) | ⭐ — | JavaScript | 36/100 |
+| 19 | [DhirajB05/HacktoberFest_C2](./dhirajb05-hacktoberfest-c2.md) | ⭐ — | Python | 36/100 |
 | 20 | [Shreyansh00987/Sidequest](./shreyansh00987-sidequest.md) | ⭐ — | TypeScript | 36/100 |
 | 21 | [praneshnikhar/wanderlog](./praneshnikhar-wanderlog.md) | ⭐ — | TypeScript | 36/100 |
 | 22 | [mohit01-beep/floraquest](./mohit01-beep-floraquest.md) | ⭐ — | Python | 36/100 |

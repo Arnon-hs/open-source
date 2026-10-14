@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [anythic/anythic-ui](./anythic-anythic-ui.md) | ⭐ 2 | TypeScript | 65/100 |
+| 1 | [anythic/anythic-ui](./anythic-anythic-ui.md) | ⭐ 2 | TypeScript | 62/100 |
 
 ---
 

@@ -623,10 +623,10 @@
 | 613 | [wuxudong/react-native-chart-kit](./wuxudong-react-native-chart-kit.md) | ⭐ — | — | 36/100 |
 | 614 | [lunarr-app/vlc-player](./lunarr-app-vlc-player.md) | ⭐ — | — | 36/100 |
 | 615 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 36/100 |
-| 616 | [Divyansh0208/Tuft](./divyansh0208-tuft.md) | ⭐ — | HTML | 36/100 |
-| 617 | [Malvin555/touch-grass](./malvin555-touch-grass.md) | ⭐ — | Vue | 36/100 |
-| 618 | [Aniruddhashirke/TerraQuest](./aniruddhashirke-terraquest.md) | ⭐ — | TypeScript | 36/100 |
-| 619 | [ABHISIKTAcommits/GrassWhisper](./abhisiktacommits-grasswhisper.md) | ⭐ — | HTML | 36/100 |
+| 616 | [Malvin555/touch-grass](./malvin555-touch-grass.md) | ⭐ — | Vue | 36/100 |
+| 617 | [Aniruddhashirke/TerraQuest](./aniruddhashirke-terraquest.md) | ⭐ — | TypeScript | 36/100 |
+| 618 | [ABHISIKTAcommits/GrassWhisper](./abhisiktacommits-grasswhisper.md) | ⭐ — | HTML | 36/100 |
+| 619 | [Divyansh0208/Tuft](./divyansh0208-tuft.md) | ⭐ — | HTML | 33/100 |
 | 620 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ — | — | 32/100 |
 | 621 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
 | 622 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
