@@ -390,8 +390,8 @@
 | 380 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ — | — | 38/100 |
 | 381 | [openai/codex-security](./openai-codex-security.md) | ⭐ — | — | 38/100 |
 | 382 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 38/100 |
-| 383 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
-| 384 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 383 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 384 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
 | 385 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ — | — | 38/100 |
 | 386 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
 | 387 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 38/100 |
@@ -421,8 +421,8 @@
 | 411 | [Nightmare-Eclipse/YellowKey](./nightmare-eclipse-yellowkey.md) | ⭐ — | — | 38/100 |
 | 412 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 38/100 |
 | 413 | [TemujinCalidius/FediHome](./temujincalidius-fedihome.md) | ⭐ — | — | 37/100 |
-| 414 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
-| 415 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ — | — | 37/100 |
+| 414 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ — | — | 37/100 |
+| 415 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
 | 416 | [jaredhanson/passport](./jaredhanson-passport.md) | ⭐ — | — | 37/100 |
 | 417 | [shark-auth/shark](./shark-auth-shark.md) | ⭐ — | — | 36/100 |
 

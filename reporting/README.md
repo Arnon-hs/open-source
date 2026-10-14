@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MrArun005/reportwright](./mrarun005-reportwright.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [MrArun005/reportwright](./mrarun005-reportwright.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 

@@ -192,8 +192,8 @@
 | 182 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.3k | Go | 62/100 |
 | 183 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 303 | Go | 62/100 |
 | 184 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.6k | Go | 62/100 |
-| 185 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 185 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
 | 187 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 2.7k | Go | 62/100 |
 | 188 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 15.6k | Shell | 62/100 |
 | 189 | [krallin/tini](./krallin-tini.md) | ⭐ 11.2k | C | 61/100 |
@@ -215,8 +215,8 @@
 | 205 | [stefanpejcic/OpenPanel](./stefanpejcic-openpanel.md) | ⭐ 687 | TypeScript | 61/100 |
 | 206 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 31.8k | Go | 61/100 |
 | 207 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 690 | Svelte | 60/100 |
-| 208 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
-| 209 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
+| 208 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 142 | Go | 60/100 |
+| 209 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 170 | Go | 60/100 |
 | 210 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 824 | JavaScript | 60/100 |
 | 211 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 31 | Nix | 60/100 |
 | 212 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 399 | Go | 60/100 |

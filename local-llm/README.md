@@ -11,8 +11,8 @@
 | 1 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 3 | Python | 59/100 |
 | 2 | [KunalSiyag/fieldcards](./kunalsiyag-fieldcards.md) | ⭐ — | TypeScript | 44/100 |
 | 3 | [Karishma-Das/porchlight](./karishma-das-porchlight.md) | ⭐ — | Python | 39/100 |
-| 4 | [sleepyaishik69/ChromaWild](./sleepyaishik69-chromawild.md) | ⭐ — | TypeScript | 39/100 |
-| 5 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
+| 4 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
+| 5 | [sleepyaishik69/ChromaWild](./sleepyaishik69-chromawild.md) | ⭐ — | TypeScript | 36/100 |
 | 6 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 36/100 |
 | 7 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
 | 8 | [block/goose](./block-goose.md) | ⭐ — | — | 27/100 |
