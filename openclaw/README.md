@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [brightbrothers/openclaw-ollama-decision](./brightbrothers-openclaw-ollama-decision.md) | ⭐ — | JavaScript | 59/100 |
+| 1 | [brightbrothers/openclaw-ollama-decision](./brightbrothers-openclaw-ollama-decision.md) | ⭐ — | JavaScript | 56/100 |
 
 ---
 
