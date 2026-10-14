@@ -1,6 +1,6 @@
 # minitooldesk/minitooldesk-core
 
-[![Stars](https://img.shields.io/github/stars/minitooldesk/minitooldesk-core?style=flat-square&color=yellow)](https://github.com/minitooldesk/minitooldesk-core/stargazers) [![Forks](https://img.shields.io/github/forks/minitooldesk/minitooldesk-core?style=flat-square&color=blue)](https://github.com/minitooldesk/minitooldesk-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/minitooldesk/minitooldesk-core?style=flat-square&color=yellow)](https://github.com/minitooldesk/minitooldesk-core/stargazers) [![Forks](https://img.shields.io/github/forks/minitooldesk/minitooldesk-core?style=flat-square&color=blue)](https://github.com/minitooldesk/minitooldesk-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 100% Client-side developer utility SDK & CLI. Zero server storage. Powering 30+ tools at minitooldesk.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ minitooldesk/minitooldesk-core：minitooldesk/minitooldesk-core may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 78/100 |
-| production | 63/100 |
-| outlook | 63/100 |
+| production | 56/100 |
+| outlook | 56/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

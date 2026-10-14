@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [minitooldesk/minitooldesk-core](./minitooldesk-minitooldesk-core.md) | ⭐ 1 | TypeScript | 65/100 |
+| 1 | [minitooldesk/minitooldesk-core](./minitooldesk-minitooldesk-core.md) | ⭐ 1 | TypeScript | 62/100 |
 | 2 | [MikeKovarik/exifr](./mikekovarik-exifr.md) | ⭐ 1.2k | JavaScript | 55/100 |
 | 3 | [kazuhikoarase/qrcode-generator](./kazuhikoarase-qrcode-generator.md) | ⭐ 2.4k | HTML | 52/100 |
 | 4 | [raviseta/edgefit](./raviseta-edgefit.md) | ⭐ — | TypeScript | 51/100 |
