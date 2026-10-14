@@ -1,6 +1,6 @@
 # termux/termux-api
 
-[![Stars](https://img.shields.io/github/stars/termux/termux-api?style=flat-square&color=yellow)](https://github.com/termux/termux-api/stargazers) [![Forks](https://img.shields.io/github/forks/termux/termux-api?style=flat-square&color=blue)](https://github.com/termux/termux-api/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/termux/termux-api?style=flat-square&color=yellow)](https://github.com/termux/termux-api/stargazers) [![Forks](https://img.shields.io/github/forks/termux/termux-api?style=flat-square&color=blue)](https://github.com/termux/termux-api/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Termux add-on app which exposes device functionality as API to command line programs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.5k |
 | 🍴 **Forks** | 955 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ termux/termux-api：termux/termux-api may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 77/100 |
 | categoryMatchCount | 600/100 |
 | stars | 78/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 

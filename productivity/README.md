@@ -292,8 +292,8 @@
 | 282 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 557 | QML | 45/100 |
 | 283 | [Mancasvel/FlowSight.AI](./mancasvel-flowsight.ai.md) | ⭐ 1 | Rust | 44/100 |
 | 284 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 4 | C# | 43/100 |
-| 285 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
-| 286 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
+| 285 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
+| 286 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
 | 287 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ — | — | 43/100 |
 | 288 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 43/100 |
 | 289 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 17 | Zig | 42/100 |
@@ -315,8 +315,8 @@
 | 305 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 306 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
 | 307 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 308 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
-| 309 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
+| 308 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
+| 309 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
 | 310 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 311 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
 | 312 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
