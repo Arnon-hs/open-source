@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Abhyudaysharma/TAHAL](./abhyudaysharma-tahal.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [Abhyudaysharma/TAHAL](./abhyudaysharma-tahal.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 
