@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39980** |
-| **Categories** | **465** |
+| **Projects** | **39984** |
+| **Categories** | **461** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15660 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4341 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15665 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4342 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2748 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2320 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1570 | [Browse →](./devtools/) |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 781 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 674 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 638 | [Browse →](./networking/) |
-| 📱 **Mobile** | 622 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 623 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 600 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 588 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 524 | [Browse →](./database/) |
@@ -95,6 +95,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Rag** | 3 | [Browse →](./rag/) |
 | 🏷️ **Freelance** | 3 | [Browse →](./freelance/) |
 | 🏷️ **Claude** | 3 | [Browse →](./claude/) |
 | 🏷️ **Ai-testing** | 3 | [Browse →](./ai-testing/) |
@@ -142,7 +143,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Jsonpath** | 2 | [Browse →](./jsonpath/) |
 | 🏷️ **Data-quality** | 2 | [Browse →](./data-quality/) |
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
-| 🏷️ **Rag** | 2 | [Browse →](./rag/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **3d** | 2 | [Browse →](./3d/) |
 | 🏷️ **Browser-automation** | 2 | [Browse →](./browser-automation/) |
@@ -360,10 +360,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Video-processing** | 1 | [Browse →](./video-processing/) |
 | 🏷️ **Forecasting** | 1 | [Browse →](./forecasting/) |
 | 🏷️ **Demo** | 1 | [Browse →](./demo/) |
-| 🏷️ **Aurora** | 1 | [Browse →](./aurora/) |
-| 🏷️ **Casaos** | 1 | [Browse →](./casaos/) |
-| 🏷️ **Harmonyos** | 1 | [Browse →](./harmonyos/) |
-| 🏷️ **Weather** | 1 | [Browse →](./weather/) |
 | 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
 | 🏷️ **Chromium** | 1 | [Browse →](./chromium/) |
