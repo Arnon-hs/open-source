@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MuhammadMurtuzaHussain/return-route](./muhammadmurtuzahussain-return-route.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [MuhammadMurtuzaHussain/return-route](./muhammadmurtuzahussain-return-route.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 
