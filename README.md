@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40059** |
-| **Categories** | **461** |
+| **Projects** | **40070** |
+| **Categories** | **462** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15703 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4349 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15707 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4350 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2749 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2321 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1572 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1573 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1396 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 932 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 882 | [Browse →](./frontend/) |
@@ -35,10 +35,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documents** | 674 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 639 | [Browse →](./networking/) |
 | 📱 **Mobile** | 623 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 601 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 602 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 591 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 527 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 504 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 505 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 473 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 446 | [Browse →](./templates/) |
 | 🔐 **Security** | 418 | [Browse →](./security/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 174 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 144 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 110 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 87 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 89 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 39 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
@@ -61,12 +61,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
 | 🏷️ **Privacy** | 18 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
-| 🏷️ **Llm** | 15 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 16 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |
-| 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
+| 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
@@ -82,7 +82,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
 | 🏷️ **Net** | 4 | [Browse →](./net/) |
 | 🏷️ **Embedding** | 4 | [Browse →](./embedding/) |
-| 🏷️ **Ai-safety** | 4 | [Browse →](./ai-safety/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Git** | 4 | [Browse →](./git/) |
 | 🏷️ **Node** | 4 | [Browse →](./node/) |
@@ -99,6 +98,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Whatsapp** | 3 | [Browse →](./whatsapp/) |
 | 🏷️ **Rag** | 3 | [Browse →](./rag/) |
 | 🏷️ **Freelance** | 3 | [Browse →](./freelance/) |
+| 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |
 | 🏷️ **Ai-testing** | 3 | [Browse →](./ai-testing/) |
 | 🏷️ **Linux** | 3 | [Browse →](./linux/) |
@@ -134,7 +134,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Data-contamination** | 2 | [Browse →](./data-contamination/) |
 | 🏷️ **Cli** | 2 | [Browse →](./cli/) |
 | 🏷️ **Figma** | 2 | [Browse →](./figma/) |
-| 🏷️ **Compiler** | 2 | [Browse →](./compiler/) |
 | 🏷️ **Yaml** | 2 | [Browse →](./yaml/) |
 | 🏷️ **Api-security** | 2 | [Browse →](./api-security/) |
 | 🏷️ **Hacktoberfest** | 2 | [Browse →](./hacktoberfest/) |
@@ -185,6 +184,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Companies-house** | 1 | [Browse →](./companies-house/) |
+| 🏷️ **Cross-device** | 1 | [Browse →](./cross-device/) |
+| 🏷️ **Feature-reuse** | 1 | [Browse →](./feature-reuse/) |
 | 🏷️ **Symfony** | 1 | [Browse →](./symfony/) |
 | 🏷️ **Forecasting** | 1 | [Browse →](./forecasting/) |
 | 🏷️ **Azure-logic-apps** | 1 | [Browse →](./azure-logic-apps/) |
@@ -237,6 +239,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Net-10** | 1 | [Browse →](./net-10/) |
 | 🏷️ **Personal-agent** | 1 | [Browse →](./personal-agent/) |
 | 🏷️ **Network-monitoring** | 1 | [Browse →](./network-monitoring/) |
+| 🏷️ **Compiler** | 1 | [Browse →](./compiler/) |
 | 🏷️ **Shrinkflation** | 1 | [Browse →](./shrinkflation/) |
 | 🏷️ **Triage** | 1 | [Browse →](./triage/) |
 | 🏷️ **Social-media** | 1 | [Browse →](./social-media/) |
@@ -357,8 +360,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Prospect-research** | 1 | [Browse →](./prospect-research/) |
 | 🏷️ **Sanctions** | 1 | [Browse →](./sanctions/) |
 | 🏷️ **Microsoft-entra-id** | 1 | [Browse →](./microsoft-entra-id/) |
-| 🏷️ **Hotel** | 1 | [Browse →](./hotel/) |
-| 🏷️ **Java** | 1 | [Browse →](./java/) |
 | 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
 | 🏷️ **Chromium** | 1 | [Browse →](./chromium/) |

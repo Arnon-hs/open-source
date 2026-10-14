@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [conflint/conflint](./conflint-conflint.md) | ⭐ — | Python | 65/100 |
+| 1 | [conflint/conflint](./conflint-conflint.md) | ⭐ — | Python | 62/100 |
 
 ---
 
