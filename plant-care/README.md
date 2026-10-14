@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Jha-2022/leafyApp](./jha-2022-leafyapp.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [Jha-2022/leafyApp](./jha-2022-leafyapp.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

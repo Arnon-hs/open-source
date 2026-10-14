@@ -1,6 +1,6 @@
 # hmdsefi/gograph
 
-[![Stars](https://img.shields.io/github/stars/hmdsefi/gograph?style=flat-square&color=yellow)](https://github.com/hmdsefi/gograph/stargazers) [![Forks](https://img.shields.io/github/forks/hmdsefi/gograph?style=flat-square&color=blue)](https://github.com/hmdsefi/gograph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hmdsefi/gograph?style=flat-square&color=yellow)](https://github.com/hmdsefi/gograph/stargazers) [![Forks](https://img.shields.io/github/forks/hmdsefi/gograph?style=flat-square&color=blue)](https://github.com/hmdsefi/gograph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Generic graph data structures and algorithms for Go (Golang): dependency graphs (DAGs) with cycle checks and topological sort, BFS and DFS traversal, Dijkstra and other shortest paths, connectivity and partitioning. No dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ hmdsefi/gograph：hmdsefi/gograph may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 65/100 |
+| outlook | 67/100 |
 | adoption | 43/100 |
 | categoryMatchCount | 400/100 |
 | stars | 45/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

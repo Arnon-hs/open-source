@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [allenai/ai2-scholarqa-lib](./allenai-ai2-scholarqa-lib.md) | ⭐ 282 | Python | 49/100 |
+| 1 | [openai/gpt-oss-20b](./openai-gpt-oss-20b.md) | ⭐ — | — | 24/100 |
 
 ---
 
