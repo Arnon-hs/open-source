@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40136** |
-| **Categories** | **465** |
+| **Projects** | **40144** |
+| **Categories** | **468** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15744 | [Browse →](./misc/) |
+| 📦 **Misc** | 15749 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4352 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2752 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2322 | [Browse →](./orchestration/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 174 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 144 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 110 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 88 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 87 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 37 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 31 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
@@ -116,6 +116,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Supabase** | 2 | [Browse →](./supabase/) |
 | 🏷️ **Scraping** | 2 | [Browse →](./scraping/) |
 | 🏷️ **Codex** | 2 | [Browse →](./codex/) |
 | 🏷️ **Accessibility** | 2 | [Browse →](./accessibility/) |
@@ -183,6 +184,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ecommerce** | 1 | [Browse →](./ecommerce/) |
+| 🏷️ **Aliexpress** | 1 | [Browse →](./aliexpress/) |
 | 🏷️ **Readme** | 1 | [Browse →](./readme/) |
 | 🏷️ **Ai-assistant** | 1 | [Browse →](./ai-assistant/) |
 | 🏷️ **Birdwatching** | 1 | [Browse →](./birdwatching/) |

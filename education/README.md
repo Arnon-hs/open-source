@@ -37,7 +37,7 @@
 | 27 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 366 | Rust | 45/100 |
 | 28 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 321 | Mojo | 44/100 |
 | 29 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 156 | Rust | 44/100 |
-| 30 | [mukul9116/fieldclass-ai](./mukul9116-fieldclass-ai.md) | ⭐ 1 | Python | 43/100 |
+| 30 | [mukul9116/fieldclass-ai](./mukul9116-fieldclass-ai.md) | ⭐ 1 | Python | 40/100 |
 
 ---
 

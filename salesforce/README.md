@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [topoteretes/cognee-community](./topoteretes-cognee-community.md) | ⭐ 100 | Python | 56/100 |
+| 1 | [topoteretes/cognee-community](./topoteretes-cognee-community.md) | ⭐ 100 | Python | 53/100 |
 
 ---
 
