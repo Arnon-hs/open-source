@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fxsjy/jieba](./fxsjy-jieba.md) | ⭐ 35.2k | Python | 64/100 |
-| 2 | [mozillazg/python-pinyin](./mozillazg-python-pinyin.md) | ⭐ 5.4k | Python | 62/100 |
+| 1 | [mozillazg/python-pinyin](./mozillazg-python-pinyin.md) | ⭐ 5.4k | Python | 62/100 |
+| 2 | [fxsjy/jieba](./fxsjy-jieba.md) | ⭐ 35.2k | Python | 61/100 |
 
 ---
 
