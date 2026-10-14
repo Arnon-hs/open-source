@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40040** |
+| **Projects** | **40043** |
 | **Categories** | **459** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -24,13 +24,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 15693 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4347 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4348 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2749 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2321 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1571 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1396 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 932 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 881 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 882 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 781 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 674 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 639 | [Browse →](./networking/) |
@@ -80,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🌐 **Open Source** | 5 | [Browse →](./opensource/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
+| 🏷️ **Net** | 4 | [Browse →](./net/) |
 | 🏷️ **Embedding** | 4 | [Browse →](./embedding/) |
 | 🏷️ **Ai-safety** | 4 | [Browse →](./ai-safety/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
@@ -95,7 +96,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Whatsapp** | 3 | [Browse →](./whatsapp/) |
-| 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Rag** | 3 | [Browse →](./rag/) |
 | 🏷️ **Freelance** | 3 | [Browse →](./freelance/) |
 | 🏷️ **Android** | 3 | [Browse →](./android/) |

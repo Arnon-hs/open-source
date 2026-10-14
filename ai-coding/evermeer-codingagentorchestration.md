@@ -1,6 +1,6 @@
 # evermeer/CodingAgentOrchestration
 
-[![Stars](https://img.shields.io/github/stars/evermeer/CodingAgentOrchestration?style=flat-square&color=yellow)](https://github.com/evermeer/CodingAgentOrchestration/stargazers) [![Forks](https://img.shields.io/github/forks/evermeer/CodingAgentOrchestration?style=flat-square&color=blue)](https://github.com/evermeer/CodingAgentOrchestration/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/evermeer/CodingAgentOrchestration?style=flat-square&color=yellow)](https://github.com/evermeer/CodingAgentOrchestration/stargazers) [![Forks](https://img.shields.io/github/forks/evermeer/CodingAgentOrchestration?style=flat-square&color=blue)](https://github.com/evermeer/CodingAgentOrchestration/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Quick start for using an AI Coding Agent - OpenCode Setup Guide / Orchestration
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ evermeer/CodingAgentOrchestration：evermeer/CodingAgentOrchestration may be use
 - 1 forks
 - updated 2026-10-11
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 26/100 |
 | categoryMatchCount | 700/100 |
 | stars | 33/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
