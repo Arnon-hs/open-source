@@ -1,6 +1,6 @@
 # electron/fiddle
 
-[![Stars](https://img.shields.io/github/stars/electron/fiddle?style=flat-square&color=yellow)](https://github.com/electron/fiddle/stargazers) [![Forks](https://img.shields.io/github/forks/electron/fiddle?style=flat-square&color=blue)](https://github.com/electron/fiddle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/electron/fiddle?style=flat-square&color=yellow)](https://github.com/electron/fiddle/stargazers) [![Forks](https://img.shields.io/github/forks/electron/fiddle?style=flat-square&color=blue)](https://github.com/electron/fiddle/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > :electron: 🚀 The easiest way to get started with Electron
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.8k |
 | 🍴 **Forks** | 767 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ electron/fiddle：electron/fiddle may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 66/100 |
+| outlook | 68/100 |
 | adoption | 80/100 |
 | categoryMatchCount | 600/100 |
 | stars | 83/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

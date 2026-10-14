@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [electron/fiddle](./electron-fiddle.md) | ⭐ 7.8k | TypeScript | 63/100 |
+| 1 | [electron/fiddle](./electron-fiddle.md) | ⭐ 7.8k | TypeScript | 60/100 |
 
 ---
 

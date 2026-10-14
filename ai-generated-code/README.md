@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [awss1i/assay](./awss1i-assay.md) | ⭐ — | HTML | 63/100 |
+| 1 | [AmintaCCCP/GithubStarsManager](./amintacccp-githubstarsmanager.md) | ⭐ 3.7k | TypeScript | 82/100 |
 
 ---
 
