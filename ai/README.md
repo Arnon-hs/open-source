@@ -30,16 +30,16 @@
 | 20 | [ashwintemkar/opentrips](./ashwintemkar-opentrips.md) | ⭐ — | TypeScript | 46/100 |
 | 21 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |
 | 22 | [ayush-agrawal001/cloutCall](./ayush-agrawal001-cloutcall.md) | ⭐ 1 | TypeScript | 43/100 |
-| 23 | [codewithvishuuu/verdantra](./codewithvishuuu-verdantra.md) | ⭐ — | Python | 42/100 |
-| 24 | [secure-systems-lab/dsse](./secure-systems-lab-dsse.md) | ⭐ 112 | Jupyter Notebook | 42/100 |
-| 25 | [quangvinhlee/Outwards-Days](./quangvinhlee-outwards-days.md) | ⭐ — | TypeScript | 40/100 |
-| 26 | [LakSHyaMudgal1/CargoTrip](./lakshyamudgal1-cargotrip.md) | ⭐ — | TypeScript | 40/100 |
-| 27 | [PRAVIN-KUMAR-295/local-seller-ai](./pravin-kumar-295-local-seller-ai.md) | ⭐ — | Python | 39/100 |
-| 28 | [farhanmallik05/naturequest-audio-explorer](./farhanmallik05-naturequest-audio-explorer.md) | ⭐ — | TypeScript | 39/100 |
-| 29 | [akshat0042005/TrailMate-AI](./akshat0042005-trailmate-ai.md) | ⭐ — | Python | 39/100 |
-| 30 | [akshatbnsl426/Trailmate-AI](./akshatbnsl426-trailmate-ai.md) | ⭐ — | Python | 39/100 |
-| 31 | [prarthanas9917/trailbuddy-ai](./prarthanas9917-trailbuddy-ai.md) | ⭐ — | Python | 39/100 |
-| 32 | [NitinGangwal/touchgrass-quest](./nitingangwal-touchgrass-quest.md) | ⭐ — | Python | 39/100 |
+| 23 | [secure-systems-lab/dsse](./secure-systems-lab-dsse.md) | ⭐ 112 | Jupyter Notebook | 42/100 |
+| 24 | [quangvinhlee/Outwards-Days](./quangvinhlee-outwards-days.md) | ⭐ — | TypeScript | 40/100 |
+| 25 | [LakSHyaMudgal1/CargoTrip](./lakshyamudgal1-cargotrip.md) | ⭐ — | TypeScript | 40/100 |
+| 26 | [PRAVIN-KUMAR-295/local-seller-ai](./pravin-kumar-295-local-seller-ai.md) | ⭐ — | Python | 39/100 |
+| 27 | [farhanmallik05/naturequest-audio-explorer](./farhanmallik05-naturequest-audio-explorer.md) | ⭐ — | TypeScript | 39/100 |
+| 28 | [akshat0042005/TrailMate-AI](./akshat0042005-trailmate-ai.md) | ⭐ — | Python | 39/100 |
+| 29 | [akshatbnsl426/Trailmate-AI](./akshatbnsl426-trailmate-ai.md) | ⭐ — | Python | 39/100 |
+| 30 | [prarthanas9917/trailbuddy-ai](./prarthanas9917-trailbuddy-ai.md) | ⭐ — | Python | 39/100 |
+| 31 | [NitinGangwal/touchgrass-quest](./nitingangwal-touchgrass-quest.md) | ⭐ — | Python | 39/100 |
+| 32 | [codewithvishuuu/verdantra](./codewithvishuuu-verdantra.md) | ⭐ — | Python | 39/100 |
 | 33 | [shashank03-dev/Paper-Trail-WEEK-1](./shashank03-dev-paper-trail-week-1.md) | ⭐ — | TypeScript | 39/100 |
 | 34 | [abhimanyubhtt-hue/touch-grass-ai](./abhimanyubhtt-hue-touch-grass-ai.md) | ⭐ — | Python | 39/100 |
 | 35 | [PRAVIN-KUMAR-295/touchgrass-ai](./pravin-kumar-295-touchgrass-ai.md) | ⭐ — | Python | 39/100 |
