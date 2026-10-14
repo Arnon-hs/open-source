@@ -2,7 +2,7 @@
 
 > 
 
-**38 projects** in this category.
+**37 projects** in this category.
 
 ## Projects
 
@@ -30,22 +30,21 @@
 | 20 | [praneshnikhar/wanderlog](./praneshnikhar-wanderlog.md) | ⭐ — | TypeScript | 36/100 |
 | 21 | [mohit01-beep/floraquest](./mohit01-beep-floraquest.md) | ⭐ — | Python | 36/100 |
 | 22 | [AdityaAneNenu/touchgrass-garden](./adityaanenenu-touchgrass-garden.md) | ⭐ — | Python | 36/100 |
-| 23 | [aditya-prog-bit/groundfall](./aditya-prog-bit-groundfall.md) | ⭐ — | HTML | 36/100 |
-| 24 | [devkumar2313/TrailMind](./devkumar2313-trailmind.md) | ⭐ — | HTML | 33/100 |
-| 25 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 33/100 |
-| 26 | [Priti2008/touch-grass-quest](./priti2008-touch-grass-quest.md) | ⭐ — | HTML | 33/100 |
-| 27 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 33/100 |
-| 28 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
-| 29 | [onnx-community/Qwen2.5-0.5B-Instruct](./onnx-community-qwen2.5-0.5b-instruct.md) | ⭐ — | — | 24/100 |
-| 30 | [BirdNET-Dev/BirdNET](./birdnet-dev-birdnet.md) | ⭐ — | — | 24/100 |
-| 31 | [cactus-compute/whistle](./cactus-compute-whistle.md) | ⭐ — | — | 24/100 |
-| 32 | [stanfordmlgroup/TabPFN](./stanfordmlgroup-tabpfn.md) | ⭐ — | — | 24/100 |
-| 33 | [Tanishq964/trail-kit](./tanishq964-trail-kit.md) | ⭐ — | — | 24/100 |
-| 34 | [Tanishq_964/trail-kit](./tanishq-964-trail-kit.md) | ⭐ — | — | 24/100 |
-| 35 | [Deci-AI/ctranslate2](./deci-ai-ctranslate2.md) | ⭐ — | — | 24/100 |
-| 36 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
-| 37 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
-| 38 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
+| 23 | [devkumar2313/TrailMind](./devkumar2313-trailmind.md) | ⭐ — | HTML | 33/100 |
+| 24 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 33/100 |
+| 25 | [Priti2008/touch-grass-quest](./priti2008-touch-grass-quest.md) | ⭐ — | HTML | 33/100 |
+| 26 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 33/100 |
+| 27 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 33/100 |
+| 28 | [onnx-community/Qwen2.5-0.5B-Instruct](./onnx-community-qwen2.5-0.5b-instruct.md) | ⭐ — | — | 24/100 |
+| 29 | [BirdNET-Dev/BirdNET](./birdnet-dev-birdnet.md) | ⭐ — | — | 24/100 |
+| 30 | [cactus-compute/whistle](./cactus-compute-whistle.md) | ⭐ — | — | 24/100 |
+| 31 | [stanfordmlgroup/TabPFN](./stanfordmlgroup-tabpfn.md) | ⭐ — | — | 24/100 |
+| 32 | [Tanishq964/trail-kit](./tanishq964-trail-kit.md) | ⭐ — | — | 24/100 |
+| 33 | [Tanishq_964/trail-kit](./tanishq-964-trail-kit.md) | ⭐ — | — | 24/100 |
+| 34 | [Deci-AI/ctranslate2](./deci-ai-ctranslate2.md) | ⭐ — | — | 24/100 |
+| 35 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 24/100 |
+| 36 | [smol-ai/smol](./smol-ai-smol.md) | ⭐ — | — | 24/100 |
+| 37 | [xenova/transformers.js](./xenova-transformers.js.md) | ⭐ — | — | 24/100 |
 
 ---
 
