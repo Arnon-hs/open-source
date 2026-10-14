@@ -888,8 +888,8 @@
 | 878 | [samerfarida/mcp-ssh-orchestrator](./samerfarida-mcp-ssh-orchestrator.md) | ⭐ 26 | Python | 72/100 |
 | 879 | [rehan1020/MCP-India-Stack](./rehan1020-mcp-india-stack.md) | ⭐ 31 | Python | 72/100 |
 | 880 | [cyanheads/workflows-mcp-server](./cyanheads-workflows-mcp-server.md) | ⭐ 31 | TypeScript | 72/100 |
-| 881 | [rak7777/mythic-mcp-proxy](./rak7777-mythic-mcp-proxy.md) | ⭐ 105 | HTML | 72/100 |
-| 882 | [claudioemmanuel/squeez](./claudioemmanuel-squeez.md) | ⭐ 160 | Rust | 72/100 |
+| 881 | [claudioemmanuel/squeez](./claudioemmanuel-squeez.md) | ⭐ 160 | Rust | 72/100 |
+| 882 | [rak7777/mythic-mcp-proxy](./rak7777-mythic-mcp-proxy.md) | ⭐ 105 | HTML | 72/100 |
 | 883 | [corezoid/simulator-ai-plugin](./corezoid-simulator-ai-plugin.md) | ⭐ 54 | Go | 72/100 |
 | 884 | [containers/kubernetes-mcp-server](./containers-kubernetes-mcp-server.md) | ⭐ 1.7k | Go | 72/100 |
 | 885 | [PrismorSec/prismor](./prismorsec-prismor.md) | ⭐ 214 | Python | 72/100 |
@@ -1405,8 +1405,8 @@
 | 1395 | [Azure/aks-mcp](./azure-aks-mcp.md) | ⭐ 132 | Go | 68/100 |
 | 1396 | [garfiec/Librechat-Mobile](./garfiec-librechat-mobile.md) | ⭐ 25 | Kotlin | 68/100 |
 | 1397 | [ember-tooling/ember-mcp](./ember-tooling-ember-mcp.md) | ⭐ 26 | JavaScript | 68/100 |
-| 1398 | [ywatanabe1989/scitex-python](./ywatanabe1989-scitex-python.md) | ⭐ 84 | Python | 68/100 |
-| 1399 | [Auriti-Labs/geo-optimizer-skill](./auriti-labs-geo-optimizer-skill.md) | ⭐ 396 | Python | 68/100 |
+| 1398 | [Auriti-Labs/geo-optimizer-skill](./auriti-labs-geo-optimizer-skill.md) | ⭐ 396 | Python | 68/100 |
+| 1399 | [ywatanabe1989/scitex-python](./ywatanabe1989-scitex-python.md) | ⭐ 84 | Python | 68/100 |
 | 1400 | [Vasco0x4/AIDA](./vasco0x4-aida.md) | ⭐ 371 | JavaScript | 68/100 |
 | 1401 | [datawhalechina/easy-vibe](./datawhalechina-easy-vibe.md) | ⭐ 8.8k | JavaScript | 68/100 |
 | 1402 | [shuymn/gh-mcp](./shuymn-gh-mcp.md) | ⭐ 26 | Go | 68/100 |
@@ -2027,9 +2027,9 @@
 | 2017 | [modelcontextprotocol/rust-sdk](./modelcontextprotocol-rust-sdk.md) | ⭐ 3.4k | Rust | 62/100 |
 | 2018 | [linggen/linggen-memory](./linggen-linggen-memory.md) | ⭐ 106 | Rust | 62/100 |
 | 2019 | [cagataycali/devduck](./cagataycali-devduck.md) | ⭐ 38 | Python | 62/100 |
-| 2020 | [erwinkramer/bank-api](./erwinkramer-bank-api.md) | ⭐ 831 | C# | 62/100 |
-| 2021 | [etairl/parallel-browser-mcp](./etairl-parallel-browser-mcp.md) | ⭐ 45 | TypeScript | 62/100 |
-| 2022 | [runzhliu/welink](./runzhliu-welink.md) | ⭐ 135 | TypeScript | 62/100 |
+| 2020 | [etairl/parallel-browser-mcp](./etairl-parallel-browser-mcp.md) | ⭐ 45 | TypeScript | 62/100 |
+| 2021 | [runzhliu/welink](./runzhliu-welink.md) | ⭐ 135 | TypeScript | 62/100 |
+| 2022 | [erwinkramer/bank-api](./erwinkramer-bank-api.md) | ⭐ 831 | C# | 62/100 |
 | 2023 | [shivasurya/code-pathfinder](./shivasurya-code-pathfinder.md) | ⭐ 128 | Go | 62/100 |
 | 2024 | [ory/lumen](./ory-lumen.md) | ⭐ 185 | Go | 62/100 |
 | 2025 | [tae0y/real-estate-mcp](./tae0y-real-estate-mcp.md) | ⭐ 346 | Python | 62/100 |
@@ -2559,8 +2559,8 @@
 | 2549 | [luke-fairbanks/broll](./luke-fairbanks-broll.md) | ⭐ — | — | 49/100 |
 | 2550 | [seaworthy-io/seaworthy-mcp](./seaworthy-io-seaworthy-mcp.md) | ⭐ — | — | 49/100 |
 | 2551 | [gaemi/agentic-fc](./gaemi-agentic-fc.md) | ⭐ — | — | 49/100 |
-| 2552 | [rakshasa-1729/agentic-paved-roads](./rakshasa-1729-agentic-paved-roads.md) | ⭐ — | — | 49/100 |
-| 2553 | [johnhalloran321/mcp_safety_training](./johnhalloran321-mcp-safety-training.md) | ⭐ — | — | 49/100 |
+| 2552 | [johnhalloran321/mcp_safety_training](./johnhalloran321-mcp-safety-training.md) | ⭐ — | — | 49/100 |
+| 2553 | [rakshasa-1729/agentic-paved-roads](./rakshasa-1729-agentic-paved-roads.md) | ⭐ — | — | 49/100 |
 | 2554 | [roriau0422/AgentBus](./roriau0422-agentbus.md) | ⭐ — | — | 49/100 |
 | 2555 | [orgs/modelcontextprotocol](./orgs-modelcontextprotocol.md) | ⭐ — | — | 49/100 |
 | 2556 | [zachlikefolio/tunnel-mcp](./zachlikefolio-tunnel-mcp.md) | ⭐ — | — | 49/100 |
