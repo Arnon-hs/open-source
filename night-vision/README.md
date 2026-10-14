@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [IshekKhal/nakshatra](./ishekkhal-nakshatra.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [IshekKhal/nakshatra](./ishekkhal-nakshatra.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
