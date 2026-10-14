@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cobaltspiral/mochi-the-explorer](./cobaltspiral-mochi-the-explorer.md) | ⭐ — | Python | 45/100 |
+| 1 | [cobaltspiral/mochi-the-explorer](./cobaltspiral-mochi-the-explorer.md) | ⭐ — | Python | 41/100 |
 
 ---
 

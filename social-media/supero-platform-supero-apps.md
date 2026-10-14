@@ -1,6 +1,6 @@
 # supero-platform/supero-apps
 
-[![Stars](https://img.shields.io/github/stars/supero-platform/supero-apps?style=flat-square&color=yellow)](https://github.com/supero-platform/supero-apps/stargazers) [![Forks](https://img.shields.io/github/forks/supero-platform/supero-apps?style=flat-square&color=blue)](https://github.com/supero-platform/supero-apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supero-platform/supero-apps?style=flat-square&color=yellow)](https://github.com/supero-platform/supero-apps/stargazers) [![Forks](https://img.shields.io/github/forks/supero-platform/supero-apps?style=flat-square&color=blue)](https://github.com/supero-platform/supero-apps/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > 19 multi-tenant SaaS reference apps in Python. One schema file gives you a REST API, an admin panel and role-based access. No build step. All 19 run live.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ supero-platform/supero-apps：supero-platform/supero-apps may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 63/100 |
+| outlook | 67/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
