@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ai-resource-radar/ai-resource-radar](./ai-resource-radar-ai-resource-radar.md) | ⭐ 8 | Python | 63/100 |
+| 1 | [ai-resource-radar/ai-resource-radar](./ai-resource-radar-ai-resource-radar.md) | ⭐ 8 | Python | 60/100 |
 
 ---
 

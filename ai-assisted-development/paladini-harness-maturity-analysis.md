@@ -1,6 +1,6 @@
 # paladini/harness-maturity-analysis
 
-[![Stars](https://img.shields.io/github/stars/paladini/harness-maturity-analysis?style=flat-square&color=yellow)](https://github.com/paladini/harness-maturity-analysis/stargazers) [![Forks](https://img.shields.io/github/forks/paladini/harness-maturity-analysis?style=flat-square&color=blue)](https://github.com/paladini/harness-maturity-analysis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/paladini/harness-maturity-analysis?style=flat-square&color=yellow)](https://github.com/paladini/harness-maturity-analysis/stargazers) [![Forks](https://img.shields.io/github/forks/paladini/harness-maturity-analysis?style=flat-square&color=blue)](https://github.com/paladini/harness-maturity-analysis/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A reproducible study of AI-harness maturity across notable open-source repositories — scored with harness-score, checked against blind human review.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ paladini/harness-maturity-analysis：paladini/harness-maturity-analysis may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
