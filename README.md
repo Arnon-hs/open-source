@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **39991** |
+| **Projects** | **39996** |
 | **Categories** | **460** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15669 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4342 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15671 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4343 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2748 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2320 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1571 | [Browse →](./devtools/) |
@@ -74,6 +74,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Go** | 6 | [Browse →](./go/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
+| 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🌐 **Open Source** | 5 | [Browse →](./opensource/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
@@ -94,7 +95,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
-| 🏷️ **Aws** | 4 | [Browse →](./aws/) |
+| 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Rag** | 3 | [Browse →](./rag/) |
 | 🏷️ **Freelance** | 3 | [Browse →](./freelance/) |
 | 🏷️ **Claude** | 3 | [Browse →](./claude/) |
@@ -159,7 +160,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Postgresql** | 2 | [Browse →](./postgresql/) |
 | 🏷️ **Family** | 2 | [Browse →](./family/) |
 | 🏷️ **Tls** | 2 | [Browse →](./tls/) |
-| 🏷️ **Net** | 2 | [Browse →](./net/) |
 | 🏷️ **Devchallenge** | 2 | [Browse →](./devchallenge/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
@@ -186,6 +186,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Geology** | 1 | [Browse →](./geology/) |
 | 🏷️ **Solana** | 1 | [Browse →](./solana/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
 | 🏷️ **Tabular** | 1 | [Browse →](./tabular/) |
@@ -358,7 +359,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mysql** | 1 | [Browse →](./mysql/) |
 | 🏷️ **Post-quantum** | 1 | [Browse →](./post-quantum/) |
 | 🏷️ **Video-processing** | 1 | [Browse →](./video-processing/) |
-| 🏷️ **Forecasting** | 1 | [Browse →](./forecasting/) |
 | 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
 | 🏷️ **Chromium** | 1 | [Browse →](./chromium/) |

@@ -16,11 +16,11 @@
 | 6 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 55/100 |
 | 7 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 54/100 |
 | 8 | [Anandb71/kadacard](./anandb71-kadacard.md) | ⭐ — | TypeScript | 49/100 |
-| 9 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 43/100 |
-| 10 | [narko4u/never-leaves](./narko4u-never-leaves.md) | ⭐ — | Python | 43/100 |
-| 11 | [kookiiedough/trail-buddy](./kookiiedough-trail-buddy.md) | ⭐ — | Python | 42/100 |
-| 12 | [k1ng0mar/gona](./k1ng0mar-gona.md) | ⭐ — | JavaScript | 42/100 |
-| 13 | [vinksgoyal/birdbuddy](./vinksgoyal-birdbuddy.md) | ⭐ — | Python | 42/100 |
+| 9 | [narko4u/never-leaves](./narko4u-never-leaves.md) | ⭐ — | Python | 43/100 |
+| 10 | [kookiiedough/trail-buddy](./kookiiedough-trail-buddy.md) | ⭐ — | Python | 42/100 |
+| 11 | [k1ng0mar/gona](./k1ng0mar-gona.md) | ⭐ — | JavaScript | 42/100 |
+| 12 | [vinksgoyal/birdbuddy](./vinksgoyal-birdbuddy.md) | ⭐ — | Python | 42/100 |
+| 13 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 40/100 |
 | 14 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 39/100 |
 | 15 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 39/100 |
 | 16 | [DhirajB05/HacktoberFest_C2](./dhirajb05-hacktoberfest-c2.md) | ⭐ — | Python | 39/100 |

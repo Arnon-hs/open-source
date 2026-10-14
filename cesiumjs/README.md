@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ZhuNemo/locus-earth](./zhunemo-locus-earth.md) | ⭐ 3 | JavaScript | 49/100 |
+| 1 | [ZhuNemo/locus-earth](./zhunemo-locus-earth.md) | ⭐ 3 | JavaScript | 46/100 |
 
 ---
 
