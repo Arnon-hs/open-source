@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [expressjs/multer](./expressjs-multer.md) | ⭐ 12.1k | JavaScript | 55/100 |
 | 2 | [abhisek247767/free-time-agent](./abhisek247767-free-time-agent.md) | ⭐ — | Python | 49/100 |
-| 3 | [sundaysebasidian-byte/sundaysebasidian-byte.github.io](./sundaysebasidian-byte-sundaysebasidian-byte.github.io.md) | ⭐ — | TypeScript | 42/100 |
-| 4 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
-| 5 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 41/100 |
+| 3 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
+| 4 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 41/100 |
+| 5 | [sundaysebasidian-byte/sundaysebasidian-byte.github.io](./sundaysebasidian-byte-sundaysebasidian-byte.github.io.md) | ⭐ — | TypeScript | 39/100 |
 | 6 | [hardikgaikwad/FieldDex](./hardikgaikwad-fielddex.md) | ⭐ — | Python | 39/100 |
 | 7 | [Nivin-Sithija/ShadeWindow](./nivin-sithija-shadewindow.md) | ⭐ — | CSS | 36/100 |
 | 8 | [DinukaEk/grassquest-local](./dinukaek-grassquest-local.md) | ⭐ — | CSS | 36/100 |

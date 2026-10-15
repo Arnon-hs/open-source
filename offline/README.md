@@ -17,10 +17,10 @@
 | 7 | [Anandb71/kadacard](./anandb71-kadacard.md) | ⭐ — | TypeScript | 49/100 |
 | 8 | [narko4u/never-leaves](./narko4u-never-leaves.md) | ⭐ — | Python | 43/100 |
 | 9 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 40/100 |
-| 10 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 39/100 |
-| 11 | [kookiiedough/trail-buddy](./kookiiedough-trail-buddy.md) | ⭐ — | Python | 39/100 |
-| 12 | [k1ng0mar/gona](./k1ng0mar-gona.md) | ⭐ — | JavaScript | 39/100 |
-| 13 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 37/100 |
+| 10 | [kookiiedough/trail-buddy](./kookiiedough-trail-buddy.md) | ⭐ — | Python | 39/100 |
+| 11 | [k1ng0mar/gona](./k1ng0mar-gona.md) | ⭐ — | JavaScript | 39/100 |
+| 12 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 37/100 |
+| 13 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 36/100 |
 | 14 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 36/100 |
 | 15 | [DhirajB05/HacktoberFest_C2](./dhirajb05-hacktoberfest-c2.md) | ⭐ — | Python | 36/100 |
 | 16 | [Shreyansh00987/Sidequest](./shreyansh00987-sidequest.md) | ⭐ — | TypeScript | 36/100 |

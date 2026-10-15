@@ -1,6 +1,6 @@
 # ollama/ollama-python
 
-[![Stars](https://img.shields.io/github/stars/ollama/ollama-python?style=flat-square&color=yellow)](https://github.com/ollama/ollama-python/stargazers) [![Forks](https://img.shields.io/github/forks/ollama/ollama-python?style=flat-square&color=blue)](https://github.com/ollama/ollama-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ollama/ollama-python?style=flat-square&color=yellow)](https://github.com/ollama/ollama-python/stargazers) [![Forks](https://img.shields.io/github/forks/ollama/ollama-python?style=flat-square&color=blue)](https://github.com/ollama/ollama-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Ollama Python library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.6k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ ollama/ollama-python：ollama/ollama-python may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 83/100 |
 | categoryMatchCount | 800/100 |
 | stars | 86/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 
