@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40167** |
-| **Categories** | **472** |
+| **Projects** | **40171** |
+| **Categories** | **473** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15758 | [Browse →](./misc/) |
+| 📦 **Misc** | 15759 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4355 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2752 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2324 | [Browse →](./orchestration/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 591 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 528 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 507 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 475 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 476 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 447 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 419 | [Browse →](./communication/) |
 | 🔐 **Security** | 419 | [Browse →](./security/) |
@@ -65,7 +65,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 13 | [Browse →](./offline-first/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
-| 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |
+| 🏷️ **Claude-code** | 10 | [Browse →](./claude-code/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
@@ -185,6 +185,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Voice-ordering** | 1 | [Browse →](./voice-ordering/) |
 | 🏷️ **Scope-management** | 1 | [Browse →](./scope-management/) |
 | 🏷️ **Google-antigravity** | 1 | [Browse →](./google-antigravity/) |
 | 🏷️ **Localization** | 1 | [Browse →](./localization/) |
