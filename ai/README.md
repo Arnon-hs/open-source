@@ -26,9 +26,9 @@
 | 16 | [gemkids275/AIShortcuts](./gemkids275-aishortcuts.md) | ⭐ 11 | Swift | 49/100 |
 | 17 | [HarshAggarwal1/touchgrass](./harshaggarwal1-touchgrass.md) | ⭐ — | JavaScript | 49/100 |
 | 18 | [rudratoshs/honest-lister](./rudratoshs-honest-lister.md) | ⭐ — | Python | 46/100 |
-| 19 | [ashwintemkar/opentrips](./ashwintemkar-opentrips.md) | ⭐ — | TypeScript | 46/100 |
-| 20 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |
-| 21 | [ayush-agrawal001/cloutCall](./ayush-agrawal001-cloutcall.md) | ⭐ 1 | TypeScript | 43/100 |
+| 19 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |
+| 20 | [ayush-agrawal001/cloutCall](./ayush-agrawal001-cloutcall.md) | ⭐ 1 | TypeScript | 43/100 |
+| 21 | [ashwintemkar/opentrips](./ashwintemkar-opentrips.md) | ⭐ — | TypeScript | 43/100 |
 | 22 | [LakSHyaMudgal1/CargoTrip](./lakshyamudgal1-cargotrip.md) | ⭐ — | TypeScript | 40/100 |
 | 23 | [Prabhashasachinthana/ai-product-generator](./prabhashasachinthana-ai-product-generator.md) | ⭐ — | Python | 39/100 |
 | 24 | [PRAVIN-KUMAR-295/local-seller-ai](./pravin-kumar-295-local-seller-ai.md) | ⭐ — | Python | 39/100 |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [CodewithJha/shadeloop](./codewithjha-shadeloop.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [CodewithJha/shadeloop](./codewithjha-shadeloop.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

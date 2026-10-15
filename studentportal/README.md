@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Aditya8369/CampusQuest](./aditya8369-campusquest.md) | ⭐ — | CSS | 30/100 |
+| 1 | [Aditya8369/CampusQuest](./aditya8369-campusquest.md) | ⭐ — | CSS | 27/100 |
 
 ---
 

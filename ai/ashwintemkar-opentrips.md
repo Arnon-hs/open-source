@@ -1,6 +1,6 @@
 # ashwintemkar/opentrips
 
-[![Stars](https://img.shields.io/github/stars/ashwintemkar/opentrips?style=flat-square&color=yellow)](https://github.com/ashwintemkar/opentrips/stargazers) [![Forks](https://img.shields.io/github/forks/ashwintemkar/opentrips?style=flat-square&color=blue)](https://github.com/ashwintemkar/opentrips/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ashwintemkar/opentrips?style=flat-square&color=yellow)](https://github.com/ashwintemkar/opentrips/stargazers) [![Forks](https://img.shields.io/github/forks/ashwintemkar/opentrips?style=flat-square&color=blue)](https://github.com/ashwintemkar/opentrips/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Should I go out this weekend? Rain/landslide risk + AI trip planning, anywhere in the world. Built for Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ ashwintemkar/opentrips：ashwintemkar/opentrips may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 51/100 |
+| production | 53/100 |
+| outlook | 44/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
