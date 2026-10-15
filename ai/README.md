@@ -24,10 +24,10 @@
 | 14 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
 | 15 | [AncientiCe/mcp-warden](./ancientice-mcp-warden.md) | ⭐ 1 | Rust | 53/100 |
 | 16 | [tanaikech/alphaevolve-multi-hazard](./tanaikech-alphaevolve-multi-hazard.md) | ⭐ — | Python | 50/100 |
-| 17 | [Tchesseludovic17-cloud/ingravity](./tchesseludovic17-cloud-ingravity.md) | ⭐ — | TypeScript | 49/100 |
-| 18 | [gemkids275/AIShortcuts](./gemkids275-aishortcuts.md) | ⭐ 11 | Swift | 49/100 |
-| 19 | [HarshAggarwal1/touchgrass](./harshaggarwal1-touchgrass.md) | ⭐ — | JavaScript | 49/100 |
-| 20 | [rudratoshs/honest-lister](./rudratoshs-honest-lister.md) | ⭐ — | Python | 46/100 |
+| 17 | [gemkids275/AIShortcuts](./gemkids275-aishortcuts.md) | ⭐ 11 | Swift | 49/100 |
+| 18 | [HarshAggarwal1/touchgrass](./harshaggarwal1-touchgrass.md) | ⭐ — | JavaScript | 49/100 |
+| 19 | [rudratoshs/honest-lister](./rudratoshs-honest-lister.md) | ⭐ — | Python | 46/100 |
+| 20 | [Tchesseludovic17-cloud/ingravity](./tchesseludovic17-cloud-ingravity.md) | ⭐ — | TypeScript | 46/100 |
 | 21 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |
 | 22 | [hafeezmt/listingwriter](./hafeezmt-listingwriter.md) | ⭐ — | Python | 43/100 |
 | 23 | [ayush-agrawal001/cloutCall](./ayush-agrawal001-cloutcall.md) | ⭐ 1 | TypeScript | 43/100 |

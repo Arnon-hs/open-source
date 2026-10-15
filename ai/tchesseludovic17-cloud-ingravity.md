@@ -1,6 +1,6 @@
 # Tchesseludovic17-cloud/ingravity
 
-[![Stars](https://img.shields.io/github/stars/Tchesseludovic17-cloud/ingravity?style=flat-square&color=yellow)](https://github.com/Tchesseludovic17-cloud/ingravity/stargazers) [![Forks](https://img.shields.io/github/forks/Tchesseludovic17-cloud/ingravity?style=flat-square&color=blue)](https://github.com/Tchesseludovic17-cloud/ingravity/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tchesseludovic17-cloud/ingravity?style=flat-square&color=yellow)](https://github.com/Tchesseludovic17-cloud/ingravity/stargazers) [![Forks](https://img.shields.io/github/forks/Tchesseludovic17-cloud/ingravity?style=flat-square&color=blue)](https://github.com/Tchesseludovic17-cloud/ingravity/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source system that enables governance of AI agents’ action
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ Tchesseludovic17-cloud/ingravity：Tchesseludovic17-cloud/ingravity may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 54/100 |
+| production | 53/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

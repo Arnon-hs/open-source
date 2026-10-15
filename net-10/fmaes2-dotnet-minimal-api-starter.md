@@ -1,6 +1,6 @@
 # Fmaes2/dotnet-minimal-api-starter
 
-[![Stars](https://img.shields.io/github/stars/Fmaes2/dotnet-minimal-api-starter?style=flat-square&color=yellow)](https://github.com/Fmaes2/dotnet-minimal-api-starter/stargazers) [![Forks](https://img.shields.io/github/forks/Fmaes2/dotnet-minimal-api-starter?style=flat-square&color=blue)](https://github.com/Fmaes2/dotnet-minimal-api-starter/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fmaes2/dotnet-minimal-api-starter?style=flat-square&color=yellow)](https://github.com/Fmaes2/dotnet-minimal-api-starter/stargazers) [![Forks](https://img.shields.io/github/forks/Fmaes2/dotnet-minimal-api-starter?style=flat-square&color=blue)](https://github.com/Fmaes2/dotnet-minimal-api-starter/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > .NET 10 Web API starter template: Minimal APIs, JWT auth, EF Core + PostgreSQL, Docker, tests and CI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Fmaes2/dotnet-minimal-api-starter：Fmaes2/dotnet-minimal-api-starter may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 94/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 1000/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

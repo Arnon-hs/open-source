@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Fmaes2/dotnet-minimal-api-starter](./fmaes2-dotnet-minimal-api-starter.md) | ⭐ — | C# | 70/100 |
+| 1 | [Fmaes2/dotnet-minimal-api-starter](./fmaes2-dotnet-minimal-api-starter.md) | ⭐ — | C# | 67/100 |
 
 ---
 

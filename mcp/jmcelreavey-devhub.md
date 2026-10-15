@@ -1,6 +1,6 @@
 # jmcelreavey/devhub
 
-[![Stars](https://img.shields.io/github/stars/jmcelreavey/devhub?style=flat-square&color=yellow)](https://github.com/jmcelreavey/devhub/stargazers) [![Forks](https://img.shields.io/github/forks/jmcelreavey/devhub?style=flat-square&color=blue)](https://github.com/jmcelreavey/devhub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jmcelreavey/devhub?style=flat-square&color=yellow)](https://github.com/jmcelreavey/devhub/stargazers) [![Forks](https://img.shields.io/github/forks/jmcelreavey/devhub?style=flat-square&color=blue)](https://github.com/jmcelreavey/devhub/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop workspace for your dev day: Jira, GitHub PRs, notes and AI coding agents (Claude, Cursor, Codex via Paseo) in one place. Mac, Windows, Linux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ jmcelreavey/devhub：jmcelreavey/devhub helps connect AI assistants to real tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 60/100 |
+| outlook | 66/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 400/100 |
 | stars | 15/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
