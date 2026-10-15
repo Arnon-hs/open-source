@@ -1,6 +1,6 @@
 # arkintof/n8n-ai-agent-workflows
 
-[![Stars](https://img.shields.io/github/stars/arkintof/n8n-ai-agent-workflows?style=flat-square&color=yellow)](https://github.com/arkintof/n8n-ai-agent-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/arkintof/n8n-ai-agent-workflows?style=flat-square&color=blue)](https://github.com/arkintof/n8n-ai-agent-workflows/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arkintof/n8n-ai-agent-workflows?style=flat-square&color=yellow)](https://github.com/arkintof/n8n-ai-agent-workflows/stargazers) [![Forks](https://img.shields.io/github/forks/arkintof/n8n-ai-agent-workflows?style=flat-square&color=blue)](https://github.com/arkintof/n8n-ai-agent-workflows/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Free n8n LLM agent workflows: AI lead qualifier + review reply agent. Import and run in minutes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ arkintof/n8n-ai-agent-workflows：arkintof/n8n-ai-agent-workflows may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 65/100 |
+| production | 51/100 |
+| outlook | 58/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
