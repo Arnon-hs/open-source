@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sagaga144/claude-harness-bootstrap](./sagaga144-claude-harness-bootstrap.md) | ⭐ 1 | JavaScript | 61/100 |
+| 1 | [sagaga144/claude-harness-bootstrap](./sagaga144-claude-harness-bootstrap.md) | ⭐ 1 | JavaScript | 58/100 |
 | 2 | [shanjeevrajendran/cloakroom](./shanjeevrajendran-cloakroom.md) | ⭐ — | Python | 54/100 |
 | 3 | [orvi2014/hatswap](./orvi2014-hatswap.md) | ⭐ — | Shell | 54/100 |
 | 4 | [Kruhlikau/subagent-tuner](./kruhlikau-subagent-tuner.md) | ⭐ — | TypeScript | 53/100 |

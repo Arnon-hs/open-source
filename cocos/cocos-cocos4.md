@@ -1,6 +1,6 @@
 # cocos/cocos4
 
-[![Stars](https://img.shields.io/github/stars/cocos/cocos4?style=flat-square&color=yellow)](https://github.com/cocos/cocos4/stargazers) [![Forks](https://img.shields.io/github/forks/cocos/cocos4?style=flat-square&color=blue)](https://github.com/cocos/cocos4/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cocos/cocos4?style=flat-square&color=yellow)](https://github.com/cocos/cocos4/stargazers) [![Forks](https://img.shields.io/github/forks/cocos/cocos4?style=flat-square&color=blue)](https://github.com/cocos/cocos4/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > COCOS 4
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.5k |
 | 🍴 **Forks** | 265 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ cocos/cocos4：cocos/cocos4 may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 67/100 |
+| production | 59/100 |
+| outlook | 60/100 |
 | adoption | 66/100 |
 | categoryMatchCount | 800/100 |
 | stars | 68/100 |
 | forks | 61/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

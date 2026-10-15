@@ -1,6 +1,6 @@
 # sagaga144/claude-harness-bootstrap
 
-[![Stars](https://img.shields.io/github/stars/sagaga144/claude-harness-bootstrap?style=flat-square&color=yellow)](https://github.com/sagaga144/claude-harness-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/sagaga144/claude-harness-bootstrap?style=flat-square&color=blue)](https://github.com/sagaga144/claude-harness-bootstrap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sagaga144/claude-harness-bootstrap?style=flat-square&color=yellow)](https://github.com/sagaga144/claude-harness-bootstrap/stargazers) [![Forks](https://img.shields.io/github/forks/sagaga144/claude-harness-bootstrap?style=flat-square&color=blue)](https://github.com/sagaga144/claude-harness-bootstrap/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Generate a project-specific Claude Code harness (CLAUDE.md, hooks, subagents, commands) from one paragraph. Any stack. Eval-tested.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ sagaga144/claude-harness-bootstrap：sagaga144/claude-harness-bootstrap may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 71/100 |
+| production | 57/100 |
+| outlook | 64/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 800/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

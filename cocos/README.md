@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cocos/cocos4](./cocos-cocos4.md) | ⭐ 1.5k | C++ | 54/100 |
+| 1 | [cocos/cocos4](./cocos-cocos4.md) | ⭐ 1.5k | C++ | 51/100 |
 
 ---
 
