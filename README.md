@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40171** |
-| **Categories** | **473** |
+| **Projects** | **40177** |
+| **Categories** | **474** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15759 | [Browse →](./misc/) |
+| 📦 **Misc** | 15760 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4355 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2752 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2324 | [Browse →](./orchestration/) |
@@ -37,12 +37,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 623 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 603 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 591 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 528 | [Browse →](./database/) |
+| 🏷️ **Database** | 529 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 507 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 476 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 478 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 447 | [Browse →](./templates/) |
+| 🔐 **Security** | 420 | [Browse →](./security/) |
 | 🏷️ **Communication** | 419 | [Browse →](./communication/) |
-| 🔐 **Security** | 419 | [Browse →](./security/) |
 | 📊 **Data** | 336 | [Browse →](./data/) |
 | 💳 **Payments** | 333 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 330 | [Browse →](./games--graphics/) |
@@ -185,6 +185,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Dual-write** | 1 | [Browse →](./dual-write/) |
 | 🏷️ **Voice-ordering** | 1 | [Browse →](./voice-ordering/) |
 | 🏷️ **Scope-management** | 1 | [Browse →](./scope-management/) |
 | 🏷️ **Google-antigravity** | 1 | [Browse →](./google-antigravity/) |

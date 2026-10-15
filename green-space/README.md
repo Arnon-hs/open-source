@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [x-tahosin/groundstate](./x-tahosin-groundstate.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [x-tahosin/groundstate](./x-tahosin-groundstate.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
