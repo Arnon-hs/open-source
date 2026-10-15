@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40201** |
+| **Projects** | **40206** |
 | **Categories** | **474** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15772 | [Browse →](./misc/) |
+| 📦 **Misc** | 15774 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4358 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2754 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2755 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2324 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1575 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1399 | [Browse →](./automation/) |
@@ -46,14 +46,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 336 | [Browse →](./data/) |
 | 💳 **Payments** | 333 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 330 | [Browse →](./games--graphics/) |
-| 🏷️ **Productivity** | 322 | [Browse →](./productivity/) |
+| 🏷️ **Productivity** | 323 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 297 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 259 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 199 | [Browse →](./trading/) |
 | ✨ **Design** | 174 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 144 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 111 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 87 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 88 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 34 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
@@ -184,6 +184,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Githubactions** | 1 | [Browse →](./githubactions/) |
 | 🏷️ **Catalog-continuity** | 1 | [Browse →](./catalog-continuity/) |
 | 🏷️ **Azure** | 1 | [Browse →](./azure/) |
 | 🏷️ **Recycling** | 1 | [Browse →](./recycling/) |
@@ -370,7 +371,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-security** | 1 | [Browse →](./ai-security/) |
 | 🏷️ **Console-development** | 1 | [Browse →](./console-development/) |
 | 🏷️ **Dependency-security** | 1 | [Browse →](./dependency-security/) |
-| 🏷️ **Desktop-launcher** | 1 | [Browse →](./desktop-launcher/) |
 | 🏷️ **Autofill** | 1 | [Browse →](./autofill/) |
 | 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
