@@ -1,6 +1,6 @@
 # ssekyanzijackson/laravel-agent-web-search
 
-[![Stars](https://img.shields.io/github/stars/ssekyanzijackson/laravel-agent-web-search?style=flat-square&color=yellow)](https://github.com/ssekyanzijackson/laravel-agent-web-search/stargazers) [![Forks](https://img.shields.io/github/forks/ssekyanzijackson/laravel-agent-web-search?style=flat-square&color=blue)](https://github.com/ssekyanzijackson/laravel-agent-web-search/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ssekyanzijackson/laravel-agent-web-search?style=flat-square&color=yellow)](https://github.com/ssekyanzijackson/laravel-agent-web-search/stargazers) [![Forks](https://img.shields.io/github/forks/ssekyanzijackson/laravel-agent-web-search?style=flat-square&color=blue)](https://github.com/ssekyanzijackson/laravel-agent-web-search/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ laravel · ai · web-search · automation · php
 
 ### English
 
-ssekyanzijackson/laravel-agent-web-search: ssekyanzijackson/laravel-agent-web-search may be useful when its README and activity match a concrete workflow.. Use it for laravel, ai, web-search, automation, php. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ssekyanzijackson/laravel-agent-web-search: ssekyanzijackson/laravel-agent-web-search may be useful when its README and activity match a concrete workflow.. Use it for laravel, ai, web-search, automation, php. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-ssekyanzijackson/laravel-agent-web-search: open-source проект в категориях laravel, ai, web-search, automation, php. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ssekyanzijackson/laravel-agent-web-search: open-source проект в категориях laravel, ai, web-search, automation, php. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-ssekyanzijackson/laravel-agent-web-search：ssekyanzijackson/laravel-agent-web-search may be useful when its README and activity match a concrete workflow.。适合用于laravel、ai、web-search、automation、php。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ssekyanzijackson/laravel-agent-web-search：ssekyanzijackson/laravel-agent-web-search may be useful when its README and activity match a concrete workflow.。适合用于laravel、ai、web-search、automation、php。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ ssekyanzijackson/laravel-agent-web-search：ssekyanzijackson/laravel-agent-web-s
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ ssekyanzijackson/laravel-agent-web-search：ssekyanzijackson/laravel-agent-web-s
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 18/100 |
-| production | 54/100 |
-| outlook | 55/100 |
+| production | 48/100 |
+| outlook | 48/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

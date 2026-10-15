@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40228** |
+| **Projects** | **40235** |
 | **Categories** | **479** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15781 | [Browse →](./misc/) |
+| 📦 **Misc** | 15787 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4362 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2756 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2324 | [Browse →](./orchestration/) |
@@ -81,6 +81,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
+| 🏷️ **3d** | 4 | [Browse →](./3d/) |
 | 🏷️ **Self-hosted** | 4 | [Browse →](./self-hosted/) |
 | 🏷️ **Whatsapp** | 4 | [Browse →](./whatsapp/) |
 | 🏷️ **Net** | 4 | [Browse →](./net/) |
@@ -109,7 +110,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agents** | 3 | [Browse →](./coding-agents/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Ai-ops** | 3 | [Browse →](./ai-ops/) |
-| 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
@@ -141,6 +141,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Yaml** | 2 | [Browse →](./yaml/) |
 | 🏷️ **Api-security** | 2 | [Browse →](./api-security/) |
 | 🏷️ **Astro** | 2 | [Browse →](./astro/) |
+| 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Pomodoro** | 2 | [Browse →](./pomodoro/) |
 | 🏷️ **Chinese-nlp** | 2 | [Browse →](./chinese-nlp/) |
 | 🏷️ **Open-weight-ai** | 2 | [Browse →](./open-weight-ai/) |
@@ -151,7 +152,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Data-quality** | 2 | [Browse →](./data-quality/) |
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
-| 🏷️ **3d** | 2 | [Browse →](./3d/) |
 | 🏷️ **Migration** | 2 | [Browse →](./migration/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
@@ -184,6 +184,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Vs-code** | 1 | [Browse →](./vs-code/) |
 | 🏷️ **Container** | 1 | [Browse →](./container/) |
 | 🏷️ **Cacao** | 1 | [Browse →](./cacao/) |
 | 🏷️ **Search-console** | 1 | [Browse →](./search-console/) |
@@ -374,7 +375,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Nas** | 1 | [Browse →](./nas/) |
 | 🏷️ **Architecture** | 1 | [Browse →](./architecture/) |
-| 🏷️ **Ai-security** | 1 | [Browse →](./ai-security/) |
 | 🏷️ **Console-development** | 1 | [Browse →](./console-development/) |
 | 🏷️ **Autofill** | 1 | [Browse →](./autofill/) |
 | 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |

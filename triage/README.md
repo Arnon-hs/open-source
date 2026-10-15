@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dev48v/shelf](./dev48v-shelf.md) | ⭐ — | Python | 42/100 |
+| 1 | [dev48v/shelf](./dev48v-shelf.md) | ⭐ — | Python | 39/100 |
 
 ---
 

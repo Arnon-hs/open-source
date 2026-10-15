@@ -65,18 +65,18 @@ oh-my-mermaid/oh-my-mermaid：oh-my-mermaid/oh-my-mermaid helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 76/100 |
-| integration | 62/100 |
-| production | 69/100 |
-| outlook | 77/100 |
-| adoption | 68/100 |
-| categoryMatchCount | 300/100 |
-| stars | 71/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| stars | 71/100 |
 | topics | 100/100 |
+| outlook | 77/100 |
+| quality | 76/100 |
+| recency | 80/100 |
+| adoption | 68/100 |
+| production | 69/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

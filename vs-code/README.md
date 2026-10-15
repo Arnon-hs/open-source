@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [j-a-y-e-s-h/mangabar](./j-a-y-e-s-h-mangabar.md) | ⭐ 2 | TypeScript | 46/100 |
+| 1 | [saad-works/plain-sight-reader](./saad-works-plain-sight-reader.md) | ⭐ — | TypeScript | 51/100 |
 
 ---
 

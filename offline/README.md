@@ -12,8 +12,8 @@
 | 2 | [jakearchibald/idb](./jakearchibald-idb.md) | ⭐ 7.4k | TypeScript | 57/100 |
 | 3 | [Zhiyilang/localledger](./zhiyilang-localledger.md) | ⭐ — | Python | 55/100 |
 | 4 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 55/100 |
-| 5 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 54/100 |
-| 6 | [naudio/NAudio](./naudio-naudio.md) | ⭐ 6.2k | C# | 54/100 |
+| 5 | [naudio/NAudio](./naudio-naudio.md) | ⭐ 6.2k | C# | 54/100 |
+| 6 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 7 | [Anandb71/kadacard](./anandb71-kadacard.md) | ⭐ — | TypeScript | 49/100 |
 | 8 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 40/100 |
 | 9 | [kookiiedough/trail-buddy](./kookiiedough-trail-buddy.md) | ⭐ — | Python | 39/100 |

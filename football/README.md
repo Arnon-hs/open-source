@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Zhiyilang/matchlens](./zhiyilang-matchlens.md) | ⭐ — | Python | 50/100 |
+| 1 | [Zhiyilang/matchlens](./zhiyilang-matchlens.md) | ⭐ — | Python | 47/100 |
 
 ---
 
