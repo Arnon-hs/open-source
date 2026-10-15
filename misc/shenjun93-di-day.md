@@ -60,18 +60,18 @@ ShenJun93/di-day：ShenJun93/di-day may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 31/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 43/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 0/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 0/100 |
+| outlook | 43/100 |
+| quality | 31/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
