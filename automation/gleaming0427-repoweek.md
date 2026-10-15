@@ -1,6 +1,6 @@
 # Gleaming0427/repoweek
 
-[![Stars](https://img.shields.io/github/stars/Gleaming0427/repoweek?style=flat-square&color=yellow)](https://github.com/Gleaming0427/repoweek/stargazers) [![Forks](https://img.shields.io/github/forks/Gleaming0427/repoweek?style=flat-square&color=blue)](https://github.com/Gleaming0427/repoweek/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gleaming0427/repoweek?style=flat-square&color=yellow)](https://github.com/Gleaming0427/repoweek/stargazers) [![Forks](https://img.shields.io/github/forks/Gleaming0427/repoweek?style=flat-square&color=blue)](https://github.com/Gleaming0427/repoweek/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Turn your README into an animated launch page and a 30-second trailer. Agent skill for Claude Code, Codex and Cursor.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Gleaming0427/repoweek：Gleaming0427/repoweek may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 68/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 400/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

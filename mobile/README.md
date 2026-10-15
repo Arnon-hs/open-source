@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**623 projects** in this category.
+**622 projects** in this category.
 
 ## Projects
 
@@ -270,8 +270,8 @@
 | 260 | [IReaderorg/IReader](./ireaderorg-ireader.md) | ⭐ 859 | Kotlin | 56/100 |
 | 261 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 56/100 |
 | 262 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.1k | Kotlin | 56/100 |
-| 263 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 55/100 |
-| 264 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
+| 263 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
+| 264 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 55/100 |
 | 265 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 527 | Kotlin | 55/100 |
 | 266 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 527 | Python | 55/100 |
 | 267 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 582 | JavaScript | 55/100 |
@@ -610,8 +610,8 @@
 | 600 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 601 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 38/100 |
 | 602 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 603 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
-| 604 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
+| 603 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
+| 604 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
 | 605 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 38/100 |
 | 606 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 38/100 |
 | 607 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 38/100 |
@@ -625,12 +625,11 @@
 | 615 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 36/100 |
 | 616 | [Malvin555/touch-grass](./malvin555-touch-grass.md) | ⭐ — | Vue | 36/100 |
 | 617 | [Aniruddhashirke/TerraQuest](./aniruddhashirke-terraquest.md) | ⭐ — | TypeScript | 36/100 |
-| 618 | [ABHISIKTAcommits/GrassWhisper](./abhisiktacommits-grasswhisper.md) | ⭐ — | HTML | 36/100 |
-| 619 | [Divyansh0208/Tuft](./divyansh0208-tuft.md) | ⭐ — | HTML | 33/100 |
-| 620 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ — | — | 32/100 |
-| 621 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
-| 622 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
-| 623 | [termish/herdr](./termish-herdr.md) | ⭐ — | — | 24/100 |
+| 618 | [Divyansh0208/Tuft](./divyansh0208-tuft.md) | ⭐ — | HTML | 33/100 |
+| 619 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ — | — | 32/100 |
+| 620 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
+| 621 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 622 | [termish/herdr](./termish-herdr.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40249** |
-| **Categories** | **479** |
+| **Projects** | **40253** |
+| **Categories** | **480** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15797 | [Browse →](./misc/) |
+| 📦 **Misc** | 15801 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4363 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2757 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2325 | [Browse →](./orchestration/) |
@@ -34,14 +34,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 781 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 675 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 639 | [Browse →](./networking/) |
-| 📱 **Mobile** | 623 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 622 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 604 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 591 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 529 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 507 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 479 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 447 | [Browse →](./templates/) |
-| 🔐 **Security** | 421 | [Browse →](./security/) |
+| 🔐 **Security** | 422 | [Browse →](./security/) |
 | 🏷️ **Communication** | 419 | [Browse →](./communication/) |
 | 📊 **Data** | 336 | [Browse →](./data/) |
 | 💳 **Payments** | 333 | [Browse →](./payments/) |
@@ -57,7 +57,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 34 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
-| 🏷️ **Open-source** | 26 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 25 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
@@ -114,10 +114,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
-| 🏷️ **Desktop-automation** | 3 | [Browse →](./desktop-automation/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Banking** | 2 | [Browse →](./banking/) |
 | 🏷️ **Visualization** | 2 | [Browse →](./visualization/) |
 | 🏷️ **Supabase** | 2 | [Browse →](./supabase/) |
 | 🏷️ **Scraping** | 2 | [Browse →](./scraping/) |
@@ -158,6 +158,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
 | 🏷️ **Jax** | 2 | [Browse →](./jax/) |
 | 🏷️ **Career-change** | 2 | [Browse →](./career-change/) |
+| 🏷️ **Desktop-automation** | 2 | [Browse →](./desktop-automation/) |
 | 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Devchallenge** | 2 | [Browse →](./devchallenge/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |

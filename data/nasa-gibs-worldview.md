@@ -1,6 +1,6 @@
 # nasa-gibs/worldview
 
-[![Stars](https://img.shields.io/github/stars/nasa-gibs/worldview?style=flat-square&color=yellow)](https://github.com/nasa-gibs/worldview/stargazers) [![Forks](https://img.shields.io/github/forks/nasa-gibs/worldview?style=flat-square&color=blue)](https://github.com/nasa-gibs/worldview/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nasa-gibs/worldview?style=flat-square&color=yellow)](https://github.com/nasa-gibs/worldview/stargazers) [![Forks](https://img.shields.io/github/forks/nasa-gibs/worldview?style=flat-square&color=blue)](https://github.com/nasa-gibs/worldview/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Browse over 1000 global satellite imagery layers with NASA Worldview.  https://t.co/mtDk5Xq1Ca https://t.co/X1UkY3A5EK https://github.com/nasa-gibs/worldview
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 352 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ nasa-gibs/worldview：nasa-gibs/worldview helps convert raw data into searchable
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 76/100 |
+| production | 64/100 |
+| outlook | 69/100 |
 | adoption | 68/100 |
 | categoryMatchCount | 100/100 |
 | stars | 70/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
