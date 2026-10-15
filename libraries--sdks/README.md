@@ -2,7 +2,7 @@
 
 > 
 
-**259 projects** in this category.
+**260 projects** in this category.
 
 ## Projects
 
@@ -265,8 +265,9 @@
 | 255 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ — | — | 41/100 |
 | 256 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
 | 257 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 127 | Rust | 39/100 |
-| 258 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
-| 259 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ — | — | 37/100 |
+| 258 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 4 | Rust | 38/100 |
+| 259 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
+| 260 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ — | — | 37/100 |
 
 ---
 
