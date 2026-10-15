@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AndreaRicchi/cxvm](./andrearicchi-cxvm.md) | ⭐ — | Rust | 46/100 |
+| 1 | [AndreaRicchi/cxvm](./andrearicchi-cxvm.md) | ⭐ — | Rust | 43/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [violintvex/ViolinNext](./violintvex-violinnext.md) | ⭐ — | — | 52/100 |
+| 1 | [violintvex/ViolinNext](./violintvex-violinnext.md) | ⭐ — | — | 49/100 |
 
 ---
 
