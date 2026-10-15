@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [Pink-Agentic-Payments/overspend-challenge](./pink-agentic-payments-overspend-challenge.md) | ⭐ — | Python | 56/100 |
-| 2 | [freema/drobek-module-counter](./freema-drobek-module-counter.md) | ⭐ — | TypeScript | 55/100 |
+| 2 | [freema/drobek-module-counter](./freema-drobek-module-counter.md) | ⭐ — | TypeScript | 52/100 |
 
 ---
 

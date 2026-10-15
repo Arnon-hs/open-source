@@ -12,9 +12,9 @@
 | 2 | [esp8266/Arduino](./esp8266-arduino.md) | ⭐ 16.7k | C++ | 57/100 |
 | 3 | [onkar-cybersec/TraceGuard](./onkar-cybersec-traceguard.md) | ⭐ — | TypeScript | 46/100 |
 | 4 | [Yashgurav002/sitspot](./yashgurav002-sitspot.md) | ⭐ — | TypeScript | 42/100 |
-| 5 | [BartoszOsiej/pqbit](./bartoszosiej-pqbit.md) | ⭐ 1 | Rust | 41/100 |
-| 6 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 40/100 |
-| 7 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 39/100 |
+| 5 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 40/100 |
+| 6 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 39/100 |
+| 7 | [BartoszOsiej/pqbit](./bartoszosiej-pqbit.md) | ⭐ 1 | Rust | 38/100 |
 | 8 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
 | 9 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 36/100 |
 | 10 | [Piwe/jacaranda-scout](./piwe-jacaranda-scout.md) | ⭐ — | Java | 36/100 |

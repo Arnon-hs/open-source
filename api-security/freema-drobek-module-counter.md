@@ -1,6 +1,6 @@
 # freema/drobek-module-counter
 
-[![Stars](https://img.shields.io/github/stars/freema/drobek-module-counter?style=flat-square&color=yellow)](https://github.com/freema/drobek-module-counter/stargazers) [![Forks](https://img.shields.io/github/forks/freema/drobek-module-counter?style=flat-square&color=blue)](https://github.com/freema/drobek-module-counter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/freema/drobek-module-counter?style=flat-square&color=yellow)](https://github.com/freema/drobek-module-counter/stargazers) [![Forks](https://img.shields.io/github/forks/freema/drobek-module-counter?style=flat-square&color=blue)](https://github.com/freema/drobek-module-counter/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > A drobek platform module: named counters per app (page views, likes, downloads)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-10-01 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ freema/drobek-module-counter：freema/drobek-module-counter may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 44/100 |
+| quality | 39/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 59/100 |
+| production | 51/100 |
+| outlook | 52/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
