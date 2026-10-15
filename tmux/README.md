@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Thurbeen/thurbox](./thurbeen-thurbox.md) | ⭐ 60 | Rust | 48/100 |
-| 2 | [Thurbeen/fleet](./thurbeen-fleet.md) | ⭐ — | Python | 47/100 |
+| 1 | [jedisct1/minisign](./jedisct1-minisign.md) | ⭐ 2.9k | C | 63/100 |
+| 2 | [pkarr/pkarr](./pkarr-pkarr.md) | ⭐ — | — | 24/100 |
 
 ---
 

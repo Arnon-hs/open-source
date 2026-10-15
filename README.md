@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40324** |
-| **Categories** | **481** |
+| **Projects** | **40330** |
+| **Categories** | **483** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15841 | [Browse →](./misc/) |
+| 📦 **Misc** | 15844 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4364 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2759 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2327 | [Browse →](./orchestration/) |
@@ -117,6 +117,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Tmux** | 2 | [Browse →](./tmux/) |
 | 🏷️ **Forecasting** | 2 | [Browse →](./forecasting/) |
 | 🏷️ **Small-business** | 2 | [Browse →](./small-business/) |
 | 🏷️ **Birdwatching** | 2 | [Browse →](./birdwatching/) |
@@ -187,6 +188,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Policy** | 1 | [Browse →](./policy/) |
 | 🏷️ **Tiffin** | 1 | [Browse →](./tiffin/) |
 | 🏷️ **Lease-abstraction** | 1 | [Browse →](./lease-abstraction/) |
 | 🏷️ **Ai-agent-payments** | 1 | [Browse →](./ai-agent-payments/) |
