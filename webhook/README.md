@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hahahahahahahahah6/webhook-tap](./hahahahahahahahah6-webhook-tap.md) | ⭐ — | Python | 36/100 |
+| 1 | [hahahahahahahahah6/webhook-tap](./hahahahahahahahah6-webhook-tap.md) | ⭐ — | Python | 33/100 |
 
 ---
 

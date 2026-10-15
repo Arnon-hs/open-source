@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [openai/openai-agent-sdk](./openai-openai-agent-sdk.md) | ⭐ — | — | 36/100 |
+| 1 | [rafaelherik/azure-lupa](./rafaelherik-azure-lupa.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 
