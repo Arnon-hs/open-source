@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40314** |
+| **Projects** | **40318** |
 | **Categories** | **481** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15836 | [Browse →](./misc/) |
+| 📦 **Misc** | 15838 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4364 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2759 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2327 | [Browse →](./orchestration/) |
@@ -75,6 +75,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ci** | 6 | [Browse →](./ci/) |
 | 🏷️ **Go** | 6 | [Browse →](./go/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
+| 🏷️ **Rust** | 5 | [Browse →](./rust/) |
 | 🏷️ **Github** | 5 | [Browse →](./github/) |
 | 🏷️ **Macos** | 5 | [Browse →](./macos/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
@@ -91,7 +92,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Air-quality** | 4 | [Browse →](./air-quality/) |
 | 🏷️ **Open-source-ai** | 4 | [Browse →](./open-source-ai/) |
 | 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
-| 🏷️ **Rust** | 4 | [Browse →](./rust/) |
 | 🏷️ **Apple-ads** | 4 | [Browse →](./apple-ads/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
@@ -117,6 +117,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Forecasting** | 2 | [Browse →](./forecasting/) |
 | 🏷️ **Small-business** | 2 | [Browse →](./small-business/) |
 | 🏷️ **Birdwatching** | 2 | [Browse →](./birdwatching/) |
 | 🏷️ **Ai-code-review** | 2 | [Browse →](./ai-code-review/) |
@@ -225,7 +226,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cross-device** | 1 | [Browse →](./cross-device/) |
 | 🏷️ **Feature-reuse** | 1 | [Browse →](./feature-reuse/) |
 | 🏷️ **Symfony** | 1 | [Browse →](./symfony/) |
-| 🏷️ **Forecasting** | 1 | [Browse →](./forecasting/) |
 | 🏷️ **Azure-logic-apps** | 1 | [Browse →](./azure-logic-apps/) |
 | 🏷️ **Web-utilities** | 1 | [Browse →](./web-utilities/) |
 | 🏷️ **Federal-prizes** | 1 | [Browse →](./federal-prizes/) |

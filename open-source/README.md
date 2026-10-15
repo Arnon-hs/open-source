@@ -21,8 +21,8 @@
 | 11 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 36/100 |
 | 12 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 36/100 |
 | 13 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 33/100 |
-| 14 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 33/100 |
-| 15 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 33/100 |
+| 14 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 33/100 |
+| 15 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 30/100 |
 | 16 | [artcraft/effectcraft](./artcraft-effectcraft.md) | ⭐ — | — | 24/100 |
 | 17 | [artcraft/filmcraft](./artcraft-filmcraft.md) | ⭐ — | — | 24/100 |
 | 18 | [artcraft/photocraft](./artcraft-photocraft.md) | ⭐ — | — | 24/100 |

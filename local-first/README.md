@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [al2m4n/TheYgent](./al2m4n-theygent.md) | ⭐ 4 | Python | 72/100 |
+| 1 | [al2m4n/TheYgent](./al2m4n-theygent.md) | ⭐ 4 | Python | 69/100 |
 | 2 | [federicolaterra/knemora](./federicolaterra-knemora.md) | ⭐ 3 | Python | 58/100 |
 | 3 | [remarkjs/react-markdown](./remarkjs-react-markdown.md) | ⭐ 15.9k | JavaScript | 58/100 |
 | 4 | [remarkjs/remark-gfm](./remarkjs-remark-gfm.md) | ⭐ 1.2k | JavaScript | 57/100 |

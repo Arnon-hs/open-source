@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [GokalpHizmetleri/GHDraw](./gokalphizmetleri-ghdraw.md) | ⭐ — | HTML | 45/100 |
+| 1 | [GokalpHizmetleri/GHDraw](./gokalphizmetleri-ghdraw.md) | ⭐ — | HTML | 41/100 |
 
 ---
 
