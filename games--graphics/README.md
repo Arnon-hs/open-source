@@ -2,7 +2,7 @@
 
 > 
 
-**329 projects** in this category.
+**330 projects** in this category.
 
 ## Projects
 
@@ -293,50 +293,51 @@
 | 283 | [GaijinEntertainment/daScript](./gaijinentertainment-dascript.md) | ⭐ 1.1k | C | 46/100 |
 | 284 | [ash-rs/ash](./ash-rs-ash.md) | ⭐ 2.3k | Rust | 46/100 |
 | 285 | [thunder-engine/thunder](./thunder-engine-thunder.md) | ⭐ 652 | C++ | 46/100 |
-| 286 | [BuildABrowser/BuildABrowser](./buildabrowser-buildabrowser.md) | ⭐ — | — | 45/100 |
-| 287 | [maanHimself/OpenDLSS-NR](./maanhimself-opendlss-nr.md) | ⭐ — | — | 45/100 |
-| 288 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 45/100 |
-| 289 | [betasharp-official/betasharp](./betasharp-official-betasharp.md) | ⭐ 435 | C# | 45/100 |
-| 290 | [ryanpcmcquen/basque](./ryanpcmcquen-basque.md) | ⭐ 449 | C | 45/100 |
-| 291 | [guangzhoueven/fps](./guangzhoueven-fps.md) | ⭐ 4 | JavaScript | 44/100 |
-| 292 | [Vibra-Ingenn/Janus](./vibra-ingenn-janus.md) | ⭐ — | — | 44/100 |
-| 293 | [oasys-works/oecs](./oasys-works-oecs.md) | ⭐ — | — | 44/100 |
-| 294 | [ZQuestClassic/ZQuestClassic](./zquestclassic-zquestclassic.md) | ⭐ 536 | C++ | 44/100 |
-| 295 | [optozorax/portal](./optozorax-portal.md) | ⭐ 527 | Rust | 44/100 |
-| 296 | [KhronosGroup/Vulkan-ValidationLayers](./khronosgroup-vulkan-validationlayers.md) | ⭐ 994 | C++ | 44/100 |
-| 297 | [renzora/engine](./renzora-engine.md) | ⭐ 135 | Rust | 43/100 |
-| 298 | [Far-Beyond-Pulsar/Pulsar-Native](./far-beyond-pulsar-pulsar-native.md) | ⭐ 314 | Rust | 43/100 |
-| 299 | [G00dS0ul/G00dS0ul](./g00ds0ul-g00ds0ul.md) | ⭐ — | — | 42/100 |
-| 300 | [vanyle/vectarine](./vanyle-vectarine.md) | ⭐ 122 | Rust | 42/100 |
-| 301 | [OpenDreamProject/OpenDream](./opendreamproject-opendream.md) | ⭐ 262 | C# | 42/100 |
-| 302 | [mariuz/castle-doom](./mariuz-castle-doom.md) | ⭐ — | — | 41/100 |
-| 303 | [oriaj-nocrala/rust_so_kernel](./oriaj-nocrala-rust-so-kernel.md) | ⭐ — | — | 41/100 |
-| 304 | [FlowComputeClient/flowcompute](./flowcomputeclient-flowcompute.md) | ⭐ — | — | 41/100 |
-| 305 | [enkiruntime/enki](./enkiruntime-enki.md) | ⭐ — | — | 41/100 |
-| 306 | [xanpavle/rocmfix](./xanpavle-rocmfix.md) | ⭐ — | — | 41/100 |
-| 307 | [rccmb/oracle](./rccmb-oracle.md) | ⭐ — | — | 41/100 |
-| 308 | [aethelisdev/aeon-engine](./aethelisdev-aeon-engine.md) | ⭐ — | — | 41/100 |
-| 309 | [asallay/godot-llm](./asallay-godot-llm.md) | ⭐ — | — | 41/100 |
-| 310 | [leejet/stable-diffusion.cpp](./leejet-stable-diffusion.cpp.md) | ⭐ — | — | 40/100 |
-| 311 | [Ishan5hrestha/SapanaEngine](./ishan5hrestha-sapanaengine.md) | ⭐ — | C++ | 39/100 |
-| 312 | [alwaysaladdin/queens-game-engine](./alwaysaladdin-queens-game-engine.md) | ⭐ — | TypeScript | 39/100 |
-| 313 | [111nation/TinyEngine](./111nation-tinyengine.md) | ⭐ — | — | 38/100 |
-| 314 | [serjster/neowon](./serjster-neowon.md) | ⭐ — | — | 38/100 |
-| 315 | [David-OConnor/graphics](./david-oconnor-graphics.md) | ⭐ — | — | 38/100 |
-| 316 | [float64co/Phi](./float64co-phi.md) | ⭐ — | — | 38/100 |
-| 317 | [AmelieHeinrich/agfx](./amelieheinrich-agfx.md) | ⭐ — | — | 38/100 |
-| 318 | [ErikBuer/Fugl.jl](./erikbuer-fugl.jl.md) | ⭐ — | — | 38/100 |
-| 319 | [ArcadeMakerSources/ArcadeMaker](./arcademakersources-arcademaker.md) | ⭐ — | — | 38/100 |
-| 320 | [andrewfader/crtulum](./andrewfader-crtulum.md) | ⭐ — | — | 38/100 |
-| 321 | [BobbyAnguelov/Esoterica](./bobbyanguelov-esoterica.md) | ⭐ — | — | 38/100 |
-| 322 | [Wimacs/trellis2.c](./wimacs-trellis2.c.md) | ⭐ — | — | 38/100 |
-| 323 | [petergpt/doomql](./petergpt-doomql.md) | ⭐ — | — | 38/100 |
-| 324 | [Is-Daouda/is-Engine](./is-daouda-is-engine.md) | ⭐ — | — | 38/100 |
-| 325 | [rwusmm-dc/4x11Engine](./rwusmm-dc-4x11engine.md) | ⭐ — | — | 38/100 |
-| 326 | [WinterSnowfall/d7vk](./wintersnowfall-d7vk.md) | ⭐ — | — | 38/100 |
-| 327 | [carnworkstudios/boxwood](./carnworkstudios-boxwood.md) | ⭐ — | — | 38/100 |
-| 328 | [segaboy/vulkan-netbsd](./segaboy-vulkan-netbsd.md) | ⭐ — | — | 38/100 |
-| 329 | [scosman/cursed_browser](./scosman-cursed-browser.md) | ⭐ — | — | 33/100 |
+| 286 | [tyleruploads/code-ware](./tyleruploads-code-ware.md) | ⭐ — | — | 45/100 |
+| 287 | [BuildABrowser/BuildABrowser](./buildabrowser-buildabrowser.md) | ⭐ — | — | 45/100 |
+| 288 | [maanHimself/OpenDLSS-NR](./maanhimself-opendlss-nr.md) | ⭐ — | — | 45/100 |
+| 289 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ — | — | 45/100 |
+| 290 | [betasharp-official/betasharp](./betasharp-official-betasharp.md) | ⭐ 435 | C# | 45/100 |
+| 291 | [ryanpcmcquen/basque](./ryanpcmcquen-basque.md) | ⭐ 449 | C | 45/100 |
+| 292 | [guangzhoueven/fps](./guangzhoueven-fps.md) | ⭐ 4 | JavaScript | 44/100 |
+| 293 | [Vibra-Ingenn/Janus](./vibra-ingenn-janus.md) | ⭐ — | — | 44/100 |
+| 294 | [oasys-works/oecs](./oasys-works-oecs.md) | ⭐ — | — | 44/100 |
+| 295 | [ZQuestClassic/ZQuestClassic](./zquestclassic-zquestclassic.md) | ⭐ 536 | C++ | 44/100 |
+| 296 | [optozorax/portal](./optozorax-portal.md) | ⭐ 527 | Rust | 44/100 |
+| 297 | [KhronosGroup/Vulkan-ValidationLayers](./khronosgroup-vulkan-validationlayers.md) | ⭐ 994 | C++ | 44/100 |
+| 298 | [renzora/engine](./renzora-engine.md) | ⭐ 135 | Rust | 43/100 |
+| 299 | [Far-Beyond-Pulsar/Pulsar-Native](./far-beyond-pulsar-pulsar-native.md) | ⭐ 314 | Rust | 43/100 |
+| 300 | [G00dS0ul/G00dS0ul](./g00ds0ul-g00ds0ul.md) | ⭐ — | — | 42/100 |
+| 301 | [vanyle/vectarine](./vanyle-vectarine.md) | ⭐ 122 | Rust | 42/100 |
+| 302 | [OpenDreamProject/OpenDream](./opendreamproject-opendream.md) | ⭐ 262 | C# | 42/100 |
+| 303 | [mariuz/castle-doom](./mariuz-castle-doom.md) | ⭐ — | — | 41/100 |
+| 304 | [oriaj-nocrala/rust_so_kernel](./oriaj-nocrala-rust-so-kernel.md) | ⭐ — | — | 41/100 |
+| 305 | [FlowComputeClient/flowcompute](./flowcomputeclient-flowcompute.md) | ⭐ — | — | 41/100 |
+| 306 | [enkiruntime/enki](./enkiruntime-enki.md) | ⭐ — | — | 41/100 |
+| 307 | [xanpavle/rocmfix](./xanpavle-rocmfix.md) | ⭐ — | — | 41/100 |
+| 308 | [rccmb/oracle](./rccmb-oracle.md) | ⭐ — | — | 41/100 |
+| 309 | [aethelisdev/aeon-engine](./aethelisdev-aeon-engine.md) | ⭐ — | — | 41/100 |
+| 310 | [asallay/godot-llm](./asallay-godot-llm.md) | ⭐ — | — | 41/100 |
+| 311 | [leejet/stable-diffusion.cpp](./leejet-stable-diffusion.cpp.md) | ⭐ — | — | 40/100 |
+| 312 | [Ishan5hrestha/SapanaEngine](./ishan5hrestha-sapanaengine.md) | ⭐ — | C++ | 39/100 |
+| 313 | [alwaysaladdin/queens-game-engine](./alwaysaladdin-queens-game-engine.md) | ⭐ — | TypeScript | 39/100 |
+| 314 | [111nation/TinyEngine](./111nation-tinyengine.md) | ⭐ — | — | 38/100 |
+| 315 | [serjster/neowon](./serjster-neowon.md) | ⭐ — | — | 38/100 |
+| 316 | [David-OConnor/graphics](./david-oconnor-graphics.md) | ⭐ — | — | 38/100 |
+| 317 | [float64co/Phi](./float64co-phi.md) | ⭐ — | — | 38/100 |
+| 318 | [AmelieHeinrich/agfx](./amelieheinrich-agfx.md) | ⭐ — | — | 38/100 |
+| 319 | [ErikBuer/Fugl.jl](./erikbuer-fugl.jl.md) | ⭐ — | — | 38/100 |
+| 320 | [ArcadeMakerSources/ArcadeMaker](./arcademakersources-arcademaker.md) | ⭐ — | — | 38/100 |
+| 321 | [andrewfader/crtulum](./andrewfader-crtulum.md) | ⭐ — | — | 38/100 |
+| 322 | [BobbyAnguelov/Esoterica](./bobbyanguelov-esoterica.md) | ⭐ — | — | 38/100 |
+| 323 | [Wimacs/trellis2.c](./wimacs-trellis2.c.md) | ⭐ — | — | 38/100 |
+| 324 | [petergpt/doomql](./petergpt-doomql.md) | ⭐ — | — | 38/100 |
+| 325 | [Is-Daouda/is-Engine](./is-daouda-is-engine.md) | ⭐ — | — | 38/100 |
+| 326 | [rwusmm-dc/4x11Engine](./rwusmm-dc-4x11engine.md) | ⭐ — | — | 38/100 |
+| 327 | [WinterSnowfall/d7vk](./wintersnowfall-d7vk.md) | ⭐ — | — | 38/100 |
+| 328 | [carnworkstudios/boxwood](./carnworkstudios-boxwood.md) | ⭐ — | — | 38/100 |
+| 329 | [segaboy/vulkan-netbsd](./segaboy-vulkan-netbsd.md) | ⭐ — | — | 38/100 |
+| 330 | [scosman/cursed_browser](./scosman-cursed-browser.md) | ⭐ — | — | 33/100 |
 
 ---
 

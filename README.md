@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40159** |
-| **Categories** | **469** |
+| **Projects** | **40167** |
+| **Categories** | **472** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15756 | [Browse →](./misc/) |
+| 📦 **Misc** | 15758 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4355 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2752 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2324 | [Browse →](./orchestration/) |
@@ -39,13 +39,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 591 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 528 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 507 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 474 | [Browse →](./video-editing/) |
-| 🏷️ **Templates** | 446 | [Browse →](./templates/) |
+| 🏷️ **Video-editing** | 475 | [Browse →](./video-editing/) |
+| 🏷️ **Templates** | 447 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 419 | [Browse →](./communication/) |
 | 🔐 **Security** | 419 | [Browse →](./security/) |
 | 📊 **Data** | 336 | [Browse →](./data/) |
 | 💳 **Payments** | 333 | [Browse →](./payments/) |
-| 🏷️ **Games--graphics** | 329 | [Browse →](./games--graphics/) |
+| 🏷️ **Games--graphics** | 330 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 322 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 297 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 259 | [Browse →](./libraries--sdks/) |
@@ -53,14 +53,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 174 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 144 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 110 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 87 | [Browse →](./ai/) |
-| 🏷️ **Offline** | 36 | [Browse →](./offline/) |
+| 🏷️ **Ai** | 86 | [Browse →](./ai/) |
+| 🏷️ **Offline** | 35 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 22 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
+| 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
-| 🏷️ **Privacy** | 18 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
 | 🏷️ **Offline-first** | 13 | [Browse →](./offline-first/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
@@ -91,12 +91,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Air-quality** | 4 | [Browse →](./air-quality/) |
 | 🏷️ **Npm** | 4 | [Browse →](./npm/) |
 | 🏷️ **Open-source-ai** | 4 | [Browse →](./open-source-ai/) |
-| 🌐 **Open Source** | 4 | [Browse →](./opensource/) |
 | 🏷️ **Self-hosted** | 4 | [Browse →](./self-hosted/) |
 | 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
 | 🏷️ **Apple-ads** | 4 | [Browse →](./apple-ads/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Invoice-generation** | 3 | [Browse →](./invoice-generation/) |
 | 🏷️ **Hacktoberfest** | 3 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Browser-automation** | 3 | [Browse →](./browser-automation/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
@@ -108,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agents** | 3 | [Browse →](./coding-agents/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Ai-ops** | 3 | [Browse →](./ai-ops/) |
+| 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
@@ -184,6 +185,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Scope-management** | 1 | [Browse →](./scope-management/) |
+| 🏷️ **Google-antigravity** | 1 | [Browse →](./google-antigravity/) |
 | 🏷️ **Localization** | 1 | [Browse →](./localization/) |
 | 🏷️ **Ecommerce** | 1 | [Browse →](./ecommerce/) |
 | 🏷️ **Aliexpress** | 1 | [Browse →](./aliexpress/) |

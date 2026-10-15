@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yasircs4/antigravity-autopilot](./yasircs4-antigravity-autopilot.md) | ⭐ 1 | Python | 43/100 |
+| 1 | [tawroot/antigravity-cleaner](./tawroot-antigravity-cleaner.md) | ⭐ 166 | HTML | 61/100 |
 
 ---
 

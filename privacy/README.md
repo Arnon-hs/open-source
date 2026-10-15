@@ -2,7 +2,7 @@
 
 > 
 
-**18 projects** in this category.
+**19 projects** in this category.
 
 ## Projects
 
@@ -24,8 +24,9 @@
 | 14 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 33/100 |
 | 15 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 33/100 |
 | 16 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 33/100 |
-| 17 | [ibrahim-iqbal/wllama](./ibrahim-iqbal-wllama.md) | ⭐ — | — | 24/100 |
-| 18 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
+| 17 | [statsinsta/stats-insta](./statsinsta-stats-insta.md) | ⭐ — | — | 24/100 |
+| 18 | [ibrahim-iqbal/wllama](./ibrahim-iqbal-wllama.md) | ⭐ — | — | 24/100 |
+| 19 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
 
 ---
 
