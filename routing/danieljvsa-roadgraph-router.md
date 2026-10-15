@@ -1,6 +1,6 @@
 # danieljvsa/roadgraph-router
 
-[![Stars](https://img.shields.io/github/stars/danieljvsa/roadgraph-router?style=flat-square&color=yellow)](https://github.com/danieljvsa/roadgraph-router/stargazers) [![Forks](https://img.shields.io/github/forks/danieljvsa/roadgraph-router?style=flat-square&color=blue)](https://github.com/danieljvsa/roadgraph-router/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/danieljvsa/roadgraph-router?style=flat-square&color=yellow)](https://github.com/danieljvsa/roadgraph-router/stargazers) [![Forks](https://img.shields.io/github/forks/danieljvsa/roadgraph-router?style=flat-square&color=blue)](https://github.com/danieljvsa/roadgraph-router/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight TypeScript routing engine that compiles OpenStreetMap data into compact, browser-ready road graphs with offline A* routing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ danieljvsa/roadgraph-router：danieljvsa/roadgraph-router may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 60/100 |
+| production | 58/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
