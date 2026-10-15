@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40224** |
-| **Categories** | **478** |
+| **Projects** | **40228** |
+| **Categories** | **479** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15780 | [Browse →](./misc/) |
+| 📦 **Misc** | 15781 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4362 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2756 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2324 | [Browse →](./orchestration/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 507 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 478 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 447 | [Browse →](./templates/) |
-| 🔐 **Security** | 420 | [Browse →](./security/) |
+| 🔐 **Security** | 421 | [Browse →](./security/) |
 | 🏷️ **Communication** | 419 | [Browse →](./communication/) |
 | 📊 **Data** | 336 | [Browse →](./data/) |
 | 💳 **Payments** | 333 | [Browse →](./payments/) |
@@ -64,8 +64,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 16 | [Browse →](./llm/) |
 | 🏷️ **Offline-first** | 13 | [Browse →](./offline-first/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
+| 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
-| 🏷️ **Claude-code** | 10 | [Browse →](./claude-code/) |
 | 🏷️ **Freelance** | 8 | [Browse →](./freelance/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
@@ -184,6 +184,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Container** | 1 | [Browse →](./container/) |
+| 🏷️ **Cacao** | 1 | [Browse →](./cacao/) |
 | 🏷️ **Search-console** | 1 | [Browse →](./search-console/) |
 | 🏷️ **Nonprofit** | 1 | [Browse →](./nonprofit/) |
 | 🏷️ **Bug-triage** | 1 | [Browse →](./bug-triage/) |
@@ -374,7 +376,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Architecture** | 1 | [Browse →](./architecture/) |
 | 🏷️ **Ai-security** | 1 | [Browse →](./ai-security/) |
 | 🏷️ **Console-development** | 1 | [Browse →](./console-development/) |
-| 🏷️ **Dependency-security** | 1 | [Browse →](./dependency-security/) |
 | 🏷️ **Autofill** | 1 | [Browse →](./autofill/) |
 | 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |
