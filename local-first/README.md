@@ -2,7 +2,7 @@
 
 > 
 
-**20 projects** in this category.
+**18 projects** in this category.
 
 ## Projects
 
@@ -15,19 +15,17 @@
 | 5 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
 | 6 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 43/100 |
 | 7 | [tharun634/listinglift](./tharun634-listinglift.md) | ⭐ — | JavaScript | 39/100 |
-| 8 | [xDanielQ/offline-adventures](./xdanielq-offline-adventures.md) | ⭐ — | Python | 39/100 |
-| 9 | [Nainish3115/WildStep-AI](./nainish3115-wildstep-ai.md) | ⭐ — | Python | 39/100 |
-| 10 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 36/100 |
-| 11 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 36/100 |
-| 12 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 36/100 |
-| 13 | [FreemanBoss/bayaan](./freemanboss-bayaan.md) | ⭐ — | JavaScript | 33/100 |
-| 14 | [Jagrat567/wanderwise-ai](./jagrat567-wanderwise-ai.md) | ⭐ — | — | 33/100 |
-| 15 | [RathnamS089/secondmind](./rathnams089-secondmind.md) | ⭐ — | HTML | 33/100 |
-| 16 | [ashab683/studybudy-ai](./ashab683-studybudy-ai.md) | ⭐ — | JavaScript | 33/100 |
-| 17 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 31/100 |
-| 18 | [TabPFN/TabPFN](./tabpfn-tabpfn.md) | ⭐ — | — | 24/100 |
-| 19 | [ggerganov/whisper.cpp](./ggerganov-whisper.cpp.md) | ⭐ — | — | 24/100 |
-| 20 | [onnx/Kokoro](./onnx-kokoro.md) | ⭐ — | — | 24/100 |
+| 8 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 36/100 |
+| 9 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 36/100 |
+| 10 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 36/100 |
+| 11 | [FreemanBoss/bayaan](./freemanboss-bayaan.md) | ⭐ — | JavaScript | 33/100 |
+| 12 | [Jagrat567/wanderwise-ai](./jagrat567-wanderwise-ai.md) | ⭐ — | — | 33/100 |
+| 13 | [RathnamS089/secondmind](./rathnams089-secondmind.md) | ⭐ — | HTML | 33/100 |
+| 14 | [ashab683/studybudy-ai](./ashab683-studybudy-ai.md) | ⭐ — | JavaScript | 33/100 |
+| 15 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 31/100 |
+| 16 | [TabPFN/TabPFN](./tabpfn-tabpfn.md) | ⭐ — | — | 24/100 |
+| 17 | [ggerganov/whisper.cpp](./ggerganov-whisper.cpp.md) | ⭐ — | — | 24/100 |
+| 18 | [onnx/Kokoro](./onnx-kokoro.md) | ⭐ — | — | 24/100 |
 
 ---
 

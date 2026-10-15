@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40332** |
+| **Projects** | **40338** |
 | **Categories** | **483** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15846 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4364 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15851 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4366 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2759 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2327 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
@@ -58,23 +58,24 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 27 | [Browse →](./open-source/) |
-| 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
-| 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
+| 🏷️ **Privacy** | 18 | [Browse →](./privacy/) |
+| 🏷️ **Local-first** | 18 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 17 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
 | 🏷️ **Offline-first** | 13 | [Browse →](./offline-first/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
+| 🏷️ **Freelance** | 11 | [Browse →](./freelance/) |
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
-| 🏷️ **Freelance** | 10 | [Browse →](./freelance/) |
 | 🏷️ **Local-ai** | 10 | [Browse →](./local-ai/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
-| 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Ci** | 6 | [Browse →](./ci/) |
 | 🏷️ **Go** | 6 | [Browse →](./go/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
+| 🏷️ **Offline-ai** | 6 | [Browse →](./offline-ai/) |
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
 | 🏷️ **Github** | 5 | [Browse →](./github/) |
 | 🏷️ **Macos** | 5 | [Browse →](./macos/) |
@@ -87,7 +88,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Net** | 4 | [Browse →](./net/) |
 | 🏷️ **Embedding** | 4 | [Browse →](./embedding/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
-| 🏷️ **Git** | 4 | [Browse →](./git/) |
 | 🏷️ **Node** | 4 | [Browse →](./node/) |
 | 🏷️ **Air-quality** | 4 | [Browse →](./air-quality/) |
 | 🏷️ **Open-source-ai** | 4 | [Browse →](./open-source-ai/) |

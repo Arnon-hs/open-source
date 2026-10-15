@@ -2,7 +2,7 @@
 
 > 
 
-**10 projects** in this category.
+**11 projects** in this category.
 
 ## Projects
 
@@ -14,10 +14,11 @@
 | 4 | [NavyaPachigolla/FreelanceFlow](./navyapachigolla-freelanceflow.md) | ⭐ — | Python | 45/100 |
 | 5 | [Eternity0207/shoebox](./eternity0207-shoebox.md) | ⭐ — | JavaScript | 42/100 |
 | 6 | [shikharahirwar489-ui/quoteforge-local](./shikharahirwar489-ui-quoteforge-local.md) | ⭐ — | Python | 42/100 |
-| 7 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 39/100 |
-| 8 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 36/100 |
-| 9 | [xenova/transformers](./xenova-transformers.md) | ⭐ 11 | Python | 35/100 |
-| 10 | [youchen-builds/scopesmith](./youchen-builds-scopesmith.md) | ⭐ — | — | 24/100 |
+| 7 | [Kushaal-k/ScopeKit](./kushaal-k-scopekit.md) | ⭐ — | Python | 39/100 |
+| 8 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 39/100 |
+| 9 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 36/100 |
+| 10 | [xenova/transformers](./xenova-transformers.md) | ⭐ 11 | Python | 35/100 |
+| 11 | [youchen-builds/scopesmith](./youchen-builds-scopesmith.md) | ⭐ — | — | 24/100 |
 
 ---
 

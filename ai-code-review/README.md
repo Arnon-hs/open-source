@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [withmartian/code-review-benchmark](./withmartian-code-review-benchmark.md) | ⭐ 282 | Python | 48/100 |
+| 1 | [withmartian/code-review-benchmark](./withmartian-code-review-benchmark.md) | ⭐ 282 | Python | 45/100 |
 | 2 | [ghostty/ghostty](./ghostty-ghostty.md) | ⭐ — | — | 24/100 |
 
 ---
