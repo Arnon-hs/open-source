@@ -16,9 +16,9 @@
 | 6 | [naudio/NAudio](./naudio-naudio.md) | ⭐ 6.2k | C# | 54/100 |
 | 7 | [Anandb71/kadacard](./anandb71-kadacard.md) | ⭐ — | TypeScript | 49/100 |
 | 8 | [narko4u/never-leaves](./narko4u-never-leaves.md) | ⭐ — | Python | 43/100 |
-| 9 | [kookiiedough/trail-buddy](./kookiiedough-trail-buddy.md) | ⭐ — | Python | 42/100 |
-| 10 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 40/100 |
-| 11 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 39/100 |
+| 9 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 40/100 |
+| 10 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 39/100 |
+| 11 | [kookiiedough/trail-buddy](./kookiiedough-trail-buddy.md) | ⭐ — | Python | 39/100 |
 | 12 | [k1ng0mar/gona](./k1ng0mar-gona.md) | ⭐ — | JavaScript | 39/100 |
 | 13 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 37/100 |
 | 14 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 36/100 |
