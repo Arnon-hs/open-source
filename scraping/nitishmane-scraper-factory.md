@@ -1,6 +1,6 @@
 # Nitishmane/scraper-factory
 
-[![Stars](https://img.shields.io/github/stars/Nitishmane/scraper-factory?style=flat-square&color=yellow)](https://github.com/Nitishmane/scraper-factory/stargazers) [![Forks](https://img.shields.io/github/forks/Nitishmane/scraper-factory?style=flat-square&color=blue)](https://github.com/Nitishmane/scraper-factory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nitishmane/scraper-factory?style=flat-square&color=yellow)](https://github.com/Nitishmane/scraper-factory/stargazers) [![Forks](https://img.shields.io/github/forks/Nitishmane/scraper-factory?style=flat-square&color=blue)](https://github.com/Nitishmane/scraper-factory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Nitishmane/scraper-factory：Nitishmane/scraper-factory may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 34/100 |
-| production | 57/100 |
-| outlook | 52/100 |
+| production | 50/100 |
+| outlook | 45/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

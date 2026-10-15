@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [Aquil1401/ziara-lead-scrapper](./aquil1401-ziara-lead-scrapper.md) | ⭐ — | TypeScript | 71/100 |
-| 2 | [Nitishmane/scraper-factory](./nitishmane-scraper-factory.md) | ⭐ 1 | Python | 41/100 |
+| 2 | [Nitishmane/scraper-factory](./nitishmane-scraper-factory.md) | ⭐ 1 | Python | 38/100 |
 
 ---
 
