@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [torana-edge/torana-edge](./torana-edge-torana-edge.md) | ⭐ 1 | Go | 65/100 |
-| 2 | [ashishthete/kaiju](./ashishthete-kaiju.md) | ⭐ — | Rust | 27/100 |
+| 1 | [ashishthete/kaiju](./ashishthete-kaiju.md) | ⭐ — | Rust | 27/100 |
 
 ---
 

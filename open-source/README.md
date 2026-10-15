@@ -2,7 +2,7 @@
 
 > 
 
-**22 projects** in this category.
+**26 projects** in this category.
 
 ## Projects
 
@@ -25,11 +25,15 @@
 | 15 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 33/100 |
 | 16 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 33/100 |
 | 17 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 33/100 |
-| 18 | [harness-community/harness-score](./harness-community-harness-score.md) | ⭐ — | — | 24/100 |
-| 19 | [meta-llama/Meta-Llama-3.1](./meta-llama-meta-llama-3.1.md) | ⭐ — | — | 24/100 |
-| 20 | [features/codespaces](./features-codespaces.md) | ⭐ — | — | 24/100 |
-| 21 | [owner/repo](./owner-repo.md) | ⭐ — | — | 24/100 |
-| 22 | [openclaw-ai/openclaw](./openclaw-ai-openclaw.md) | ⭐ — | — | 24/100 |
+| 18 | [awesome-llm/awesome-local-llm](./awesome-llm-awesome-local-llm.md) | ⭐ — | — | 24/100 |
+| 19 | [awesome-llm/awesome-generative-ai](./awesome-llm-awesome-generative-ai.md) | ⭐ — | — | 24/100 |
+| 20 | [awesome-ml/awesome-machine-learning](./awesome-ml-awesome-machine-learning.md) | ⭐ — | — | 24/100 |
+| 21 | [awesome-llm/awesome-llm](./awesome-llm-awesome-llm.md) | ⭐ — | — | 24/100 |
+| 22 | [harness-community/harness-score](./harness-community-harness-score.md) | ⭐ — | — | 24/100 |
+| 23 | [meta-llama/Meta-Llama-3.1](./meta-llama-meta-llama-3.1.md) | ⭐ — | — | 24/100 |
+| 24 | [features/codespaces](./features-codespaces.md) | ⭐ — | — | 24/100 |
+| 25 | [owner/repo](./owner-repo.md) | ⭐ — | — | 24/100 |
+| 26 | [openclaw-ai/openclaw](./openclaw-ai-openclaw.md) | ⭐ — | — | 24/100 |
 
 ---
 

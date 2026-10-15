@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40187** |
-| **Categories** | **474** |
+| **Projects** | **40195** |
+| **Categories** | **473** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15765 | [Browse →](./misc/) |
+| 📦 **Misc** | 15768 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4357 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2753 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2754 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2324 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1575 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1399 | [Browse →](./automation/) |
@@ -57,7 +57,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 35 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
-| 🏷️ **Open-source** | 22 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 26 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
@@ -67,12 +67,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-ai** | 11 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 10 | [Browse →](./claude-code/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
+| 🏷️ **Freelance** | 7 | [Browse →](./freelance/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
-| 🏷️ **Freelance** | 6 | [Browse →](./freelance/) |
 | 🏷️ **Go** | 6 | [Browse →](./go/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
+| 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Github** | 5 | [Browse →](./github/) |
 | 🏷️ **Macos** | 5 | [Browse →](./macos/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
@@ -91,7 +92,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Air-quality** | 4 | [Browse →](./air-quality/) |
 | 🏷️ **Npm** | 4 | [Browse →](./npm/) |
 | 🏷️ **Open-source-ai** | 4 | [Browse →](./open-source-ai/) |
-| 🏷️ **Self-hosted** | 4 | [Browse →](./self-hosted/) |
 | 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
 | 🏷️ **Apple-ads** | 4 | [Browse →](./apple-ads/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
@@ -133,7 +133,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Hextelegram** | 2 | [Browse →](./hextelegram/) |
-| 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **React** | 2 | [Browse →](./react/) |
 | 🏷️ **On-device-ai** | 2 | [Browse →](./on-device-ai/) |
 | 🏷️ **Speechtotext** | 2 | [Browse →](./speechtotext/) |
@@ -228,6 +227,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Link-checking** | 1 | [Browse →](./link-checking/) |
 | 🏷️ **Ui-testing** | 1 | [Browse →](./ui-testing/) |
 | 🏷️ **Malware** | 1 | [Browse →](./malware/) |
+| 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
 | 🏷️ **Enterprise** | 1 | [Browse →](./enterprise/) |
 | 🏷️ **Conventional-commits** | 1 | [Browse →](./conventional-commits/) |
 | 🏷️ **Upgrade** | 1 | [Browse →](./upgrade/) |
@@ -370,7 +370,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Dependency-security** | 1 | [Browse →](./dependency-security/) |
 | 🏷️ **Desktop-launcher** | 1 | [Browse →](./desktop-launcher/) |
 | 🏷️ **Reactive-ui** | 1 | [Browse →](./reactive-ui/) |
-| 🏷️ **Decision-model** | 1 | [Browse →](./decision-model/) |
 | 🏷️ **Autofill** | 1 | [Browse →](./autofill/) |
 | 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |

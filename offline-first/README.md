@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [I1gorr/touch_grass](./i1gorr-touch-grass.md) | ⭐ — | TypeScript | 43/100 |
+| 1 | [I1gorr/touch_grass](./i1gorr-touch-grass.md) | ⭐ — | TypeScript | 40/100 |
 | 2 | [Esu05/WildLens](./esu05-wildlens.md) | ⭐ — | TypeScript | 39/100 |
 | 3 | [Mohammad1sami/gym_ledger](./mohammad1sami-gym-ledger.md) | ⭐ — | Dart | 36/100 |
 | 4 | [Kings-creation/nature-quest](./kings-creation-nature-quest.md) | ⭐ — | JavaScript | 36/100 |
