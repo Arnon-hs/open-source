@@ -2,7 +2,7 @@
 
 > 
 
-**9 projects** in this category.
+**10 projects** in this category.
 
 ## Projects
 
@@ -17,6 +17,7 @@
 | 7 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 39/100 |
 | 8 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 36/100 |
 | 9 | [xenova/transformers](./xenova-transformers.md) | ⭐ 11 | Python | 35/100 |
+| 10 | [youchen-builds/scopesmith](./youchen-builds-scopesmith.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**199 projects** in this category.
+**200 projects** in this category.
 
 ## Projects
 
@@ -175,38 +175,39 @@
 | 165 | [HimanshuJ16/Algo-Trading-Skills](./himanshuj16-algo-trading-skills.md) | ⭐ — | — | 48/100 |
 | 166 | [xxczaki/cashify](./xxczaki-cashify.md) | ⭐ 404 | TypeScript | 48/100 |
 | 167 | [microsoft/CSS-Exchange](./microsoft-css-exchange.md) | ⭐ 1.3k | PowerShell | 48/100 |
-| 168 | [eminsk/yfinance-ta-patterns](./eminsk-yfinance-ta-patterns.md) | ⭐ — | Python | 47/100 |
-| 169 | [AION-Analytics-India/aion-lithuanian-market-calendar](./aion-analytics-india-aion-lithuanian-market-calendar.md) | ⭐ — | Python | 47/100 |
-| 170 | [open-data-fabric/open-data-fabric](./open-data-fabric-open-data-fabric.md) | ⭐ 144 | Rust | 47/100 |
-| 171 | [Julian-dev28/hermes-trader](./julian-dev28-hermes-trader.md) | ⭐ — | — | 47/100 |
-| 172 | [freqtrade/frequi](./freqtrade-frequi.md) | ⭐ 978 | Vue | 47/100 |
-| 173 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 720 | Java | 47/100 |
-| 174 | [Open-Markets-Initiative/Directory](./open-markets-initiative-directory.md) | ⭐ 42 | — | 46/100 |
-| 175 | [radioman/OpenClaw-Trading-Hub](./radioman-openclaw-trading-hub.md) | ⭐ 977 | — | 46/100 |
-| 176 | [pkMinhas/walkytalky-private-messenger](./pkminhas-walkytalky-private-messenger.md) | ⭐ — | — | 45/100 |
-| 177 | [Dakkshin/hyperliquid-mcp](./dakkshin-hyperliquid-mcp.md) | ⭐ — | — | 45/100 |
-| 178 | [Wammero/polymarket-sdk-cpp](./wammero-polymarket-sdk-cpp.md) | ⭐ — | — | 45/100 |
-| 179 | [Felixwang007/a-share-signal-lab](./felixwang007-a-share-signal-lab.md) | ⭐ — | Python | 43/100 |
-| 180 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 159 | Rust | 43/100 |
-| 181 | [krasserm/agent-exchange](./krasserm-agent-exchange.md) | ⭐ — | — | 42/100 |
-| 182 | [PredictionMarketTrader/openthomas](./predictionmarkettrader-openthomas.md) | ⭐ — | — | 42/100 |
-| 183 | [bagoldbe/form4lab](./bagoldbe-form4lab.md) | ⭐ — | — | 42/100 |
-| 184 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ — | — | 42/100 |
-| 185 | [BubbleParticles/Planar.jl](./bubbleparticles-planar.jl.md) | ⭐ — | — | 41/100 |
-| 186 | [vincent212/kaspar-hft](./vincent212-kaspar-hft.md) | ⭐ — | — | 41/100 |
-| 187 | [strahinjastojanovic826-code/quant](./strahinjastojanovic826-code-quant.md) | ⭐ — | — | 41/100 |
-| 188 | [SaratAngajalaoffl/jeeva](./saratangajalaoffl-jeeva.md) | ⭐ — | — | 41/100 |
-| 189 | [jmelo11/quantsupport](./jmelo11-quantsupport.md) | ⭐ — | — | 41/100 |
-| 190 | [maddogfinance/dsh-trading](./maddogfinance-dsh-trading.md) | ⭐ — | — | 41/100 |
-| 191 | [rkang30/open-trade-bot](./rkang30-open-trade-bot.md) | ⭐ — | — | 41/100 |
-| 192 | [Rob-bio4/degeneretfly](./rob-bio4-degeneretfly.md) | ⭐ — | TypeScript | 39/100 |
-| 193 | [nicklaunches/builders-backlinks.com](./nicklaunches-builders-backlinks.com.md) | ⭐ — | — | 38/100 |
-| 194 | [cmatthwilkes-debug/trading-strategy-graveyard](./cmatthwilkes-debug-trading-strategy-graveyard.md) | ⭐ — | — | 38/100 |
-| 195 | [mrhustlex/TradingSpy-TradingAgentService](./mrhustlex-tradingspy-tradingagentservice.md) | ⭐ — | — | 38/100 |
-| 196 | [mohamadomar-ai/kairos-engine](./mohamadomar-ai-kairos-engine.md) | ⭐ — | — | 38/100 |
-| 197 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 38/100 |
-| 198 | [virattt/openbb-financialdatasets-backend](./virattt-openbb-financialdatasets-backend.md) | ⭐ — | — | 28/100 |
-| 199 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 28/100 |
+| 168 | [rowfirehq/rowfire](./rowfirehq-rowfire.md) | ⭐ 1 | Python | 47/100 |
+| 169 | [eminsk/yfinance-ta-patterns](./eminsk-yfinance-ta-patterns.md) | ⭐ — | Python | 47/100 |
+| 170 | [AION-Analytics-India/aion-lithuanian-market-calendar](./aion-analytics-india-aion-lithuanian-market-calendar.md) | ⭐ — | Python | 47/100 |
+| 171 | [open-data-fabric/open-data-fabric](./open-data-fabric-open-data-fabric.md) | ⭐ 144 | Rust | 47/100 |
+| 172 | [Julian-dev28/hermes-trader](./julian-dev28-hermes-trader.md) | ⭐ — | — | 47/100 |
+| 173 | [freqtrade/frequi](./freqtrade-frequi.md) | ⭐ 978 | Vue | 47/100 |
+| 174 | [mguessan/davmail](./mguessan-davmail.md) | ⭐ 720 | Java | 47/100 |
+| 175 | [Open-Markets-Initiative/Directory](./open-markets-initiative-directory.md) | ⭐ 42 | — | 46/100 |
+| 176 | [radioman/OpenClaw-Trading-Hub](./radioman-openclaw-trading-hub.md) | ⭐ 977 | — | 46/100 |
+| 177 | [pkMinhas/walkytalky-private-messenger](./pkminhas-walkytalky-private-messenger.md) | ⭐ — | — | 45/100 |
+| 178 | [Dakkshin/hyperliquid-mcp](./dakkshin-hyperliquid-mcp.md) | ⭐ — | — | 45/100 |
+| 179 | [Wammero/polymarket-sdk-cpp](./wammero-polymarket-sdk-cpp.md) | ⭐ — | — | 45/100 |
+| 180 | [Felixwang007/a-share-signal-lab](./felixwang007-a-share-signal-lab.md) | ⭐ — | Python | 43/100 |
+| 181 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 159 | Rust | 43/100 |
+| 182 | [krasserm/agent-exchange](./krasserm-agent-exchange.md) | ⭐ — | — | 42/100 |
+| 183 | [PredictionMarketTrader/openthomas](./predictionmarkettrader-openthomas.md) | ⭐ — | — | 42/100 |
+| 184 | [bagoldbe/form4lab](./bagoldbe-form4lab.md) | ⭐ — | — | 42/100 |
+| 185 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ — | — | 42/100 |
+| 186 | [BubbleParticles/Planar.jl](./bubbleparticles-planar.jl.md) | ⭐ — | — | 41/100 |
+| 187 | [vincent212/kaspar-hft](./vincent212-kaspar-hft.md) | ⭐ — | — | 41/100 |
+| 188 | [strahinjastojanovic826-code/quant](./strahinjastojanovic826-code-quant.md) | ⭐ — | — | 41/100 |
+| 189 | [SaratAngajalaoffl/jeeva](./saratangajalaoffl-jeeva.md) | ⭐ — | — | 41/100 |
+| 190 | [jmelo11/quantsupport](./jmelo11-quantsupport.md) | ⭐ — | — | 41/100 |
+| 191 | [maddogfinance/dsh-trading](./maddogfinance-dsh-trading.md) | ⭐ — | — | 41/100 |
+| 192 | [rkang30/open-trade-bot](./rkang30-open-trade-bot.md) | ⭐ — | — | 41/100 |
+| 193 | [Rob-bio4/degeneretfly](./rob-bio4-degeneretfly.md) | ⭐ — | TypeScript | 39/100 |
+| 194 | [nicklaunches/builders-backlinks.com](./nicklaunches-builders-backlinks.com.md) | ⭐ — | — | 38/100 |
+| 195 | [cmatthwilkes-debug/trading-strategy-graveyard](./cmatthwilkes-debug-trading-strategy-graveyard.md) | ⭐ — | — | 38/100 |
+| 196 | [mrhustlex/TradingSpy-TradingAgentService](./mrhustlex-tradingspy-tradingagentservice.md) | ⭐ — | — | 38/100 |
+| 197 | [mohamadomar-ai/kairos-engine](./mohamadomar-ai-kairos-engine.md) | ⭐ — | — | 38/100 |
+| 198 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 38/100 |
+| 199 | [virattt/openbb-financialdatasets-backend](./virattt-openbb-financialdatasets-backend.md) | ⭐ — | — | 28/100 |
+| 200 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 28/100 |
 
 ---
 

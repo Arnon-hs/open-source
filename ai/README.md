@@ -17,9 +17,9 @@
 | 7 | [TangGee/aiopsterm](./tanggee-aiopsterm.md) | ⭐ 5 | TypeScript | 62/100 |
 | 8 | [invarislabs/invaris-agentsec](./invarislabs-invaris-agentsec.md) | ⭐ 2 | Python | 62/100 |
 | 9 | [dennisonbertram/agentic-hosting](./dennisonbertram-agentic-hosting.md) | ⭐ 31 | Go | 60/100 |
-| 10 | [auliamnaufal/agent-janitor](./auliamnaufal-agent-janitor.md) | ⭐ — | TypeScript | 59/100 |
-| 11 | [RobinaMirbahar/cozy-ai-agent-cafe-game](./robinamirbahar-cozy-ai-agent-cafe-game.md) | ⭐ — | JavaScript | 57/100 |
-| 12 | [AnonymousOnyx22/brightspace-d2l-mcp](./anonymousonyx22-brightspace-d2l-mcp.md) | ⭐ 2 | TypeScript | 56/100 |
+| 10 | [RobinaMirbahar/cozy-ai-agent-cafe-game](./robinamirbahar-cozy-ai-agent-cafe-game.md) | ⭐ — | JavaScript | 57/100 |
+| 11 | [AnonymousOnyx22/brightspace-d2l-mcp](./anonymousonyx22-brightspace-d2l-mcp.md) | ⭐ 2 | TypeScript | 56/100 |
+| 12 | [auliamnaufal/agent-janitor](./auliamnaufal-agent-janitor.md) | ⭐ — | TypeScript | 56/100 |
 | 13 | [sirmmo/stairway](./sirmmo-stairway.md) | ⭐ — | Python | 56/100 |
 | 14 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
 | 15 | [AncientiCe/mcp-warden](./ancientice-mcp-warden.md) | ⭐ 1 | Rust | 53/100 |
