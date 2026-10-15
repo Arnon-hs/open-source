@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Kotlin/kotlinx.serialization](./kotlin-kotlinx.serialization.md) | ⭐ 6k | Kotlin | 60/100 |
+| 1 | [Kotlin/kotlinx.serialization](./kotlin-kotlinx.serialization.md) | ⭐ 6k | Kotlin | 57/100 |
 
 ---
 

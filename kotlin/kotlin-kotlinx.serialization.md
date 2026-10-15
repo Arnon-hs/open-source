@@ -1,6 +1,6 @@
 # Kotlin/kotlinx.serialization
 
-[![Stars](https://img.shields.io/github/stars/Kotlin/kotlinx.serialization?style=flat-square&color=yellow)](https://github.com/Kotlin/kotlinx.serialization/stargazers) [![Forks](https://img.shields.io/github/forks/Kotlin/kotlinx.serialization?style=flat-square&color=blue)](https://github.com/Kotlin/kotlinx.serialization/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kotlin/kotlinx.serialization?style=flat-square&color=yellow)](https://github.com/Kotlin/kotlinx.serialization/stargazers) [![Forks](https://img.shields.io/github/forks/Kotlin/kotlinx.serialization?style=flat-square&color=blue)](https://github.com/Kotlin/kotlinx.serialization/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Kotlin multiplatform / multi-format serialization
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6k |
 | 🍴 **Forks** | 688 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Kotlin/kotlinx.serialization：Kotlin/kotlinx.serialization may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 80/100 |
+| quality | 75/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 76/100 |
+| production | 65/100 |
+| outlook | 69/100 |
 | adoption | 78/100 |
 | categoryMatchCount | 900/100 |
 | stars | 80/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
