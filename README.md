@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40181** |
-| **Categories** | **473** |
+| **Projects** | **40184** |
+| **Categories** | **474** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15761 | [Browse →](./misc/) |
+| 📦 **Misc** | 15762 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4357 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2753 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2324 | [Browse →](./orchestration/) |
@@ -96,6 +96,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apple-ads** | 4 | [Browse →](./apple-ads/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Claude** | 3 | [Browse →](./claude/) |
 | 🏷️ **Invoice-generation** | 3 | [Browse →](./invoice-generation/) |
 | 🏷️ **Hacktoberfest** | 3 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Browser-automation** | 3 | [Browse →](./browser-automation/) |
@@ -126,7 +127,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Digital-products** | 2 | [Browse →](./digital-products/) |
 | 🏷️ **E-commerce** | 2 | [Browse →](./e-commerce/) |
 | 🏷️ **Upi** | 2 | [Browse →](./upi/) |
-| 🏷️ **Claude** | 2 | [Browse →](./claude/) |
 | 🏷️ **Leadgeneration** | 2 | [Browse →](./leadgeneration/) |
 | 🏷️ **Raft** | 2 | [Browse →](./raft/) |
 | 🏷️ **Multi-agent** | 2 | [Browse →](./multi-agent/) |
@@ -185,6 +185,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Recycling** | 1 | [Browse →](./recycling/) |
 | 🏷️ **Dev** | 1 | [Browse →](./dev/) |
 | 🏷️ **Dual-write** | 1 | [Browse →](./dual-write/) |
 | 🏷️ **Voice-ordering** | 1 | [Browse →](./voice-ordering/) |

@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-mcp · linter · tool-description · ai-agent · ci · open-source
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-forecall/forecall-cli: forecall/forecall-cli may be useful when its README and activity match a concrete workflow.. Use it for mcp, linter, tool-description, ai-agent, ci, open-source. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+forecall/forecall-cli: forecall/forecall-cli helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-forecall/forecall-cli: open-source проект в категориях mcp, linter, tool-description, ai-agent, ci, open-source. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+forecall/forecall-cli: open-source проект в категориях MCP, AI/ML, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-forecall/forecall-cli：forecall/forecall-cli may be useful when its README and activity match a concrete workflow.。适合用于mcp、linter、tool-description、ai-agent、ci、open-source。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+forecall/forecall-cli：forecall/forecall-cli helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** forecall/forecall-cli may be useful when its README and activity match a concrete workflow.
+**Value:** forecall/forecall-cli helps connect AI assistants to real tools and data through a standard protocol.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -61,18 +63,18 @@ forecall/forecall-cli：forecall/forecall-cli may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 45/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 65/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 600/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 61/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

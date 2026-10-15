@@ -1,6 +1,6 @@
 # defiantlydefying/outside
 
-[![Stars](https://img.shields.io/github/stars/defiantlydefying/outside?style=flat-square&color=yellow)](https://github.com/defiantlydefying/outside/stargazers) [![Forks](https://img.shields.io/github/forks/defiantlydefying/outside?style=flat-square&color=blue)](https://github.com/defiantlydefying/outside/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/defiantlydefying/outside?style=flat-square&color=yellow)](https://github.com/defiantlydefying/outside/stargazers) [![Forks](https://img.shields.io/github/forks/defiantlydefying/outside?style=flat-square&color=blue)](https://github.com/defiantlydefying/outside/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Short outdoor meditations led by an open-weight Gemma model. Say the breathing isn't working and it switches — and never offers it again. Eyes open, no GPS, nothing to come back for.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ defiantlydefying/outside：defiantlydefying/outside may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 62/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
