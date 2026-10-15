@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [zaydmulani09/shrinkwatch](./zaydmulani09-shrinkwatch.md) | ⭐ — | TypeScript | 49/100 |
+| 1 | [zaydmulani09/shrinkwatch](./zaydmulani09-shrinkwatch.md) | ⭐ — | TypeScript | 46/100 |
 
 ---
 

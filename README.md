@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40177** |
-| **Categories** | **474** |
+| **Projects** | **40181** |
+| **Categories** | **473** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15760 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4355 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2752 | [Browse →](./mcp/) |
+| 📦 **Misc** | 15761 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4357 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2753 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2324 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1575 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1399 | [Browse →](./automation/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 199 | [Browse →](./trading/) |
 | ✨ **Design** | 174 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 144 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 110 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 111 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 86 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 35 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
@@ -185,6 +185,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Dev** | 1 | [Browse →](./dev/) |
 | 🏷️ **Dual-write** | 1 | [Browse →](./dual-write/) |
 | 🏷️ **Voice-ordering** | 1 | [Browse →](./voice-ordering/) |
 | 🏷️ **Scope-management** | 1 | [Browse →](./scope-management/) |
@@ -369,8 +370,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Desktop-launcher** | 1 | [Browse →](./desktop-launcher/) |
 | 🏷️ **Reactive-ui** | 1 | [Browse →](./reactive-ui/) |
 | 🏷️ **Decision-model** | 1 | [Browse →](./decision-model/) |
-| 🏷️ **Browser-extension** | 1 | [Browse →](./browser-extension/) |
-| 🏷️ **Remote-desktop** | 1 | [Browse →](./remote-desktop/) |
 | 🏷️ **Autofill** | 1 | [Browse →](./autofill/) |
 | 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |
 | 🏷️ **Audio-guide** | 1 | [Browse →](./audio-guide/) |

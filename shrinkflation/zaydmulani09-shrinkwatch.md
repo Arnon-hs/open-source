@@ -1,6 +1,6 @@
 # zaydmulani09/shrinkwatch
 
-[![Stars](https://img.shields.io/github/stars/zaydmulani09/shrinkwatch?style=flat-square&color=yellow)](https://github.com/zaydmulani09/shrinkwatch/stargazers) [![Forks](https://img.shields.io/github/forks/zaydmulani09/shrinkwatch?style=flat-square&color=blue)](https://github.com/zaydmulani09/shrinkwatch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zaydmulani09/shrinkwatch?style=flat-square&color=yellow)](https://github.com/zaydmulani09/shrinkwatch/stargazers) [![Forks](https://img.shields.io/github/forks/zaydmulani09/shrinkwatch?style=flat-square&color=blue)](https://github.com/zaydmulani09/shrinkwatch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Find the groceries you rebuy that quietly got smaller, from your own order history. Chrome extension, runs fully on your device.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ zaydmulani09/shrinkwatch：zaydmulani09/shrinkwatch may be useful when its READM
 - primary language: TypeScript
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 58/100 |
+| production | 57/100 |
+| outlook | 51/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
