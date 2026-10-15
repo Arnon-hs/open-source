@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40307** |
-| **Categories** | **482** |
+| **Projects** | **40314** |
+| **Categories** | **481** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15833 | [Browse →](./misc/) |
+| 📦 **Misc** | 15836 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4364 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2759 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2326 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2327 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1398 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1399 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 932 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 883 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 781 | [Browse →](./crypto/) |
@@ -37,14 +37,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 623 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 604 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 591 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 529 | [Browse →](./database/) |
+| 🏷️ **Database** | 530 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 508 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 481 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 447 | [Browse →](./templates/) |
 | 🔐 **Security** | 422 | [Browse →](./security/) |
 | 🏷️ **Communication** | 421 | [Browse →](./communication/) |
 | 📊 **Data** | 336 | [Browse →](./data/) |
-| 💳 **Payments** | 333 | [Browse →](./payments/) |
+| 💳 **Payments** | 334 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 330 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 323 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 297 | [Browse →](./observability/) |
@@ -57,11 +57,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 34 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
-| 🏷️ **Open-source** | 28 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 27 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
+| 🏷️ **Llm** | 17 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
-| 🏷️ **Llm** | 16 | [Browse →](./llm/) |
 | 🏷️ **Offline-first** | 13 | [Browse →](./offline-first/) |
 | 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
@@ -71,13 +71,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Offline-ai** | 7 | [Browse →](./offline-ai/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Ci** | 6 | [Browse →](./ci/) |
 | 🏷️ **Go** | 6 | [Browse →](./go/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **Github** | 5 | [Browse →](./github/) |
 | 🏷️ **Macos** | 5 | [Browse →](./macos/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
-| 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
 | 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
 | 🏷️ **3d** | 4 | [Browse →](./3d/) |
@@ -89,7 +89,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 4 | [Browse →](./git/) |
 | 🏷️ **Node** | 4 | [Browse →](./node/) |
 | 🏷️ **Air-quality** | 4 | [Browse →](./air-quality/) |
-| 🏷️ **Npm** | 4 | [Browse →](./npm/) |
 | 🏷️ **Open-source-ai** | 4 | [Browse →](./open-source-ai/) |
 | 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
 | 🏷️ **Rust** | 4 | [Browse →](./rust/) |
@@ -110,6 +109,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agents** | 3 | [Browse →](./coding-agents/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Ai-ops** | 3 | [Browse →](./ai-ops/) |
+| 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Stargazing** | 3 | [Browse →](./stargazing/) |
@@ -117,6 +117,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Small-business** | 2 | [Browse →](./small-business/) |
 | 🏷️ **Birdwatching** | 2 | [Browse →](./birdwatching/) |
 | 🏷️ **Ai-code-review** | 2 | [Browse →](./ai-code-review/) |
 | 🏷️ **Banking** | 2 | [Browse →](./banking/) |
@@ -218,7 +219,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-generated-code** | 1 | [Browse →](./ai-generated-code/) |
 | 🏷️ **Release-notes** | 1 | [Browse →](./release-notes/) |
 | 🏷️ **Fastmcp** | 1 | [Browse →](./fastmcp/) |
-| 🏷️ **Small-business** | 1 | [Browse →](./small-business/) |
 | 🏷️ **Us-business-registry** | 1 | [Browse →](./us-business-registry/) |
 | 🏷️ **Oh-my-graph** | 1 | [Browse →](./oh-my-graph/) |
 | 🏷️ **Companies-house** | 1 | [Browse →](./companies-house/) |
@@ -375,7 +375,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mobile-ai** | 1 | [Browse →](./mobile-ai/) |
 | 🏷️ **Programming-language** | 1 | [Browse →](./programming-language/) |
 | 🏷️ **Agentic** | 1 | [Browse →](./agentic/) |
-| 🏷️ **Stripe** | 1 | [Browse →](./stripe/) |
 | 🏷️ **Food-safety** | 1 | [Browse →](./food-safety/) |
 | 🏷️ **Ai-governance** | 1 | [Browse →](./ai-governance/) |
 | 🏷️ **Architecture** | 1 | [Browse →](./architecture/) |

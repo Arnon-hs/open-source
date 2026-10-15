@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yatuk/tamga](./yatuk-tamga.md) | ⭐ 39 | Go | 58/100 |
+| 1 | [yatuk/tamga](./yatuk-tamga.md) | ⭐ 39 | Go | 55/100 |
 
 ---
 
