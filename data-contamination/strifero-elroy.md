@@ -1,6 +1,6 @@
 # strifero/elroy
 
-[![Stars](https://img.shields.io/github/stars/strifero/elroy?style=flat-square&color=yellow)](https://github.com/strifero/elroy/stargazers) [![Forks](https://img.shields.io/github/forks/strifero/elroy?style=flat-square&color=blue)](https://github.com/strifero/elroy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strifero/elroy?style=flat-square&color=yellow)](https://github.com/strifero/elroy/stargazers) [![Forks](https://img.shields.io/github/forks/strifero/elroy?style=flat-square&color=blue)](https://github.com/strifero/elroy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Elroy: a small Python language model built from scratch in plain PyTorch, documented end to end
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ strifero/elroy：strifero/elroy may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 53/100 |
+| production | 52/100 |
+| outlook | 46/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 400/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
