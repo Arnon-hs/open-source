@@ -1,6 +1,6 @@
 # saidMounaim/figma-wp-blueprint
 
-[![Stars](https://img.shields.io/github/stars/saidMounaim/figma-wp-blueprint?style=flat-square&color=yellow)](https://github.com/saidMounaim/figma-wp-blueprint/stargazers) [![Forks](https://img.shields.io/github/forks/saidMounaim/figma-wp-blueprint?style=flat-square&color=blue)](https://github.com/saidMounaim/figma-wp-blueprint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saidMounaim/figma-wp-blueprint?style=flat-square&color=yellow)](https://github.com/saidMounaim/figma-wp-blueprint/stargazers) [![Forks](https://img.shields.io/github/forks/saidMounaim/figma-wp-blueprint?style=flat-square&color=blue)](https://github.com/saidMounaim/figma-wp-blueprint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Spec-driven AI workflow for building custom WordPress themes from Figma.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Figma · WordPress · ACF · Claude Code · visual regression · automation
 
 ### English
 
-saidMounaim/figma-wp-blueprint: saidMounaim/figma-wp-blueprint may be useful when its README and activity match a concrete workflow.. Use it for Figma, WordPress, ACF, Claude Code, visual regression, automation. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+saidMounaim/figma-wp-blueprint: saidMounaim/figma-wp-blueprint may be useful when its README and activity match a concrete workflow.. Use it for Figma, WordPress, ACF, Claude Code, visual regression, automation. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-saidMounaim/figma-wp-blueprint: open-source проект в категориях Figma, WordPress, ACF, Claude Code, visual regression, automation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+saidMounaim/figma-wp-blueprint: open-source проект в категориях Figma, WordPress, ACF, Claude Code, visual regression, automation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-saidMounaim/figma-wp-blueprint：saidMounaim/figma-wp-blueprint may be useful when its README and activity match a concrete workflow.。适合用于Figma、WordPress、ACF、Claude Code、visual regression、automation。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+saidMounaim/figma-wp-blueprint：saidMounaim/figma-wp-blueprint may be useful when its README and activity match a concrete workflow.。适合用于Figma、WordPress、ACF、Claude Code、visual regression、automation。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ saidMounaim/figma-wp-blueprint：saidMounaim/figma-wp-blueprint may be useful wh
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,15 +61,15 @@ saidMounaim/figma-wp-blueprint：saidMounaim/figma-wp-blueprint may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

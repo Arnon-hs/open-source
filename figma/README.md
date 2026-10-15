@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [saidMounaim/figma-wp-blueprint](./saidmounaim-figma-wp-blueprint.md) | ⭐ — | JavaScript | 43/100 |
+| 1 | [saidMounaim/figma-wp-blueprint](./saidmounaim-figma-wp-blueprint.md) | ⭐ — | JavaScript | 40/100 |
 
 ---
 
