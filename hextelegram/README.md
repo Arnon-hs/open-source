@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [HexZoNetwork/HexTelegram](./hexzonetwork-hextelegram.md) | ⭐ 2 | JavaScript | 55/100 |
-| 2 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 46/100 |
+| 2 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 43/100 |
 
 ---
 

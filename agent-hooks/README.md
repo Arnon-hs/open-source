@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [responsibleai/agent-hooks](./responsibleai-agent-hooks.md) | ⭐ 19 | Rust | 68/100 |
+| 1 | [responsibleai/agent-hooks](./responsibleai-agent-hooks.md) | ⭐ 19 | Rust | 65/100 |
 
 ---
 
