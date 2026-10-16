@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fralsare/fralculator](./fralsare-fralculator.md) | ⭐ — | TypeScript | 48/100 |
+| 1 | [maximilianfeix/hexvero](./maximilianfeix-hexvero.md) | ⭐ 5 | TypeScript | 72/100 |
 
 ---
 

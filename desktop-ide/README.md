@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Arizt00/Zenit](./arizt00-zenit.md) | ⭐ 1 | Python | 52/100 |
+| 1 | [Arizt00/Zenit](./arizt00-zenit.md) | ⭐ 1 | Python | 49/100 |
 
 ---
 
