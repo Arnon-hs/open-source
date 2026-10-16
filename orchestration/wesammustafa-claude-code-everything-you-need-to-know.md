@@ -65,18 +65,18 @@ wesammustafa/Claude-Code-Everything-You-Need-to-Know：wesammustafa/Claude-Code-
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 78/100 |
-| integration | 62/100 |
-| production | 70/100 |
-| outlook | 83/100 |
-| adoption | 71/100 |
-| categoryMatchCount | 500/100 |
-| stars | 74/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| stars | 74/100 |
 | topics | 100/100 |
+| outlook | 83/100 |
+| quality | 78/100 |
+| recency | 80/100 |
+| adoption | 71/100 |
+| production | 70/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
