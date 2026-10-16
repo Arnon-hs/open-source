@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40356** |
+| **Projects** | **40359** |
 | **Categories** | **486** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 15861 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4367 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4369 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2759 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2327 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
@@ -45,19 +45,19 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Communication** | 421 | [Browse →](./communication/) |
 | 📊 **Data** | 336 | [Browse →](./data/) |
 | 💳 **Payments** | 334 | [Browse →](./payments/) |
-| 🏷️ **Games--graphics** | 330 | [Browse →](./games--graphics/) |
+| 🏷️ **Games--graphics** | 331 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 323 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 298 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 260 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 200 | [Browse →](./trading/) |
 | ✨ **Design** | 175 | [Browse →](./design/) |
-| 🏷️ **Content-creation** | 145 | [Browse →](./content-creation/) |
+| 🏷️ **Content-creation** | 146 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 112 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 91 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 34 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
-| 🏷️ **Open-source** | 27 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 28 | [Browse →](./open-source/) |
 | 🏷️ **Privacy** | 18 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 18 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 17 | [Browse →](./llm/) |
@@ -161,8 +161,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Migration** | 2 | [Browse →](./migration/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
-| 🏷️ **Wordpress** | 2 | [Browse →](./wordpress/) |
-| 🏷️ **Jax** | 2 | [Browse →](./jax/) |
 | 🏷️ **Desktop-automation** | 2 | [Browse →](./desktop-automation/) |
 | 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
 | 🏷️ **Devchallenge** | 2 | [Browse →](./devchallenge/) |
@@ -189,6 +187,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Streaming** | 1 | [Browse →](./streaming/) |
+| 🏷️ **Devsec** | 1 | [Browse →](./devsec/) |
 | 🏷️ **Aiclaw** | 1 | [Browse →](./aiclaw/) |
 | 🏷️ **Flight-search** | 1 | [Browse →](./flight-search/) |
 | 🏷️ **Audio-drama** | 1 | [Browse →](./audio-drama/) |
@@ -377,7 +377,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Dapr** | 1 | [Browse →](./dapr/) |
 | 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
 | 🏷️ **Tender** | 1 | [Browse →](./tender/) |
-| 🏷️ **Mobile-ai** | 1 | [Browse →](./mobile-ai/) |
 | 🏷️ **Programming-language** | 1 | [Browse →](./programming-language/) |
 | 🏷️ **Agentic** | 1 | [Browse →](./agentic/) |
 | 🏷️ **Food-safety** | 1 | [Browse →](./food-safety/) |
@@ -477,6 +476,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Igaming** | 1 | [Browse →](./igaming/) |
 | 🏷️ **Learning** | 1 | [Browse →](./learning/) |
 | 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
+| 🏷️ **Wordpress** | 1 | [Browse →](./wordpress/) |
 | 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |

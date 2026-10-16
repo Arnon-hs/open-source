@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tigerops-win/scout-packs](./tigerops-win-scout-packs.md) | ⭐ — | Python | 51/100 |
+| 1 | [tigerops-win/scout-packs](./tigerops-win-scout-packs.md) | ⭐ — | Python | 48/100 |
 
 ---
 

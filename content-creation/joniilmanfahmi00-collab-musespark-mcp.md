@@ -1,0 +1,80 @@
+# joniilmanfahmi00-collab/musespark-mcp
+
+[![Stars](https://img.shields.io/github/stars/joniilmanfahmi00-collab/musespark-mcp?style=flat-square&color=yellow)](https://github.com/joniilmanfahmi00-collab/musespark-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/joniilmanfahmi00-collab/musespark-mcp?style=flat-square&color=blue)](https://github.com/joniilmanfahmi00-collab/musespark-mcp/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+
+> MuseSpark MCP Bridge exposes your WordPress business (posts, Yoast SEO, WooCommerce products & stock, newsletter, daily reports) as standardized MCP tools, with a built-in OAuth 2.1 authorization server and a human-in-the-loop approval queue for every sensitive write action.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | PHP |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-10-08 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+Content Creation · MCP · Security · Marketing
+
+## 📝 Summary
+
+### English
+
+joniilmanfahmi00-collab/musespark-mcp: joniilmanfahmi00-collab/musespark-mcp helps creators research, generate, repurpose, and publish content with less manual work.. Use it for research and produce content; repurpose assets across channels. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+joniilmanfahmi00-collab/musespark-mcp: open-source проект в категориях Content Creation, MCP, Security, Marketing. Практическое применение: research and produce content; repurpose assets across channels. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+joniilmanfahmi00-collab/musespark-mcp：joniilmanfahmi00-collab/musespark-mcp helps creators research, generate, repurpose, and publish content with less manual work.。适合用于research and produce content、repurpose assets across channels。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** joniilmanfahmi00-collab/musespark-mcp helps creators research, generate, repurpose, and publish content with less manual work.
+
+**Best use cases**
+
+- research and produce content
+- repurpose assets across channels
+- automate a creator production pipeline
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-10-08
+- primary language: PHP
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 0/100 |
+| stars | 0/100 |
+| topics | 0/100 |
+| outlook | 50/100 |
+| quality | 31/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
+| sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-09 · [View on GitHub](https://github.com/joniilmanfahmi00-collab/musespark-mcp) · [← Back to Content-creation](./README.md)</sub>
