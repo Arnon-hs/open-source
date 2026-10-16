@@ -20,8 +20,8 @@
 | 10 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 36/100 |
 | 11 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 36/100 |
 | 12 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 36/100 |
-| 13 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 36/100 |
-| 14 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 33/100 |
+| 13 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 33/100 |
+| 14 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 33/100 |
 | 15 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 33/100 |
 | 16 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 30/100 |
 | 17 | [artcraft/effectcraft](./artcraft-effectcraft.md) | ⭐ — | — | 24/100 |

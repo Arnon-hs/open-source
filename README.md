@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40369** |
+| **Projects** | **40370** |
 | **Categories** | **486** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 200 | [Browse →](./trading/) |
 | ✨ **Design** | 175 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 146 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 114 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 115 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 91 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 34 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
