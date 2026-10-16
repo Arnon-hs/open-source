@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [superko-com/joomla-snippet-include](./superko-com-joomla-snippet-include.md) | ⭐ — | PHP | 42/100 |
+| 1 | [superko-com/joomla-snippet-include](./superko-com-joomla-snippet-include.md) | ⭐ — | PHP | 39/100 |
 
 ---
 

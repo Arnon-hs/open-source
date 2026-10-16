@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dagoSte/squadra](./dagoste-squadra.md) | ⭐ — | Python | 63/100 |
+| 1 | [dagoSte/squadra](./dagoste-squadra.md) | ⭐ — | Python | 60/100 |
 | 2 | [your-repo/agent-board](./your-repo-agent-board.md) | ⭐ — | — | 28/100 |
 | 3 | [yourrepo/claude-code](./yourrepo-claude-code.md) | ⭐ — | — | 24/100 |
 
