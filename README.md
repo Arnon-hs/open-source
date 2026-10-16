@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40379** |
-| **Categories** | **489** |
+| **Projects** | **40382** |
+| **Categories** | **490** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15865 | [Browse →](./misc/) |
+| 📦 **Misc** | 15867 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4370 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2760 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
@@ -188,6 +188,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Used-electronics** | 1 | [Browse →](./used-electronics/) |
 | 🏷️ **Github-copilot** | 1 | [Browse →](./github-copilot/) |
 | 🏷️ **Small-retail** | 1 | [Browse →](./small-retail/) |
 | 🏷️ **Winget** | 1 | [Browse →](./winget/) |
