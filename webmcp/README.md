@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hahahahahahahahah6/browser-buddy](./hahahahahahahahah6-browser-buddy.md) | ⭐ — | Python | 59/100 |
+| 1 | [hahahahahahahahah6/browser-buddy](./hahahahahahahahah6-browser-buddy.md) | ⭐ — | Python | 56/100 |
 
 ---
 

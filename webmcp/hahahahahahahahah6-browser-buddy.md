@@ -1,6 +1,6 @@
 # hahahahahahahahah6/browser-buddy
 
-[![Stars](https://img.shields.io/github/stars/hahahahahahahahah6/browser-buddy?style=flat-square&color=yellow)](https://github.com/hahahahahahahahah6/browser-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/hahahahahahahahah6/browser-buddy?style=flat-square&color=blue)](https://github.com/hahahahahahahahah6/browser-buddy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hahahahahahahahah6/browser-buddy?style=flat-square&color=yellow)](https://github.com/hahahahahahahahah6/browser-buddy/stargazers) [![Forks](https://img.shields.io/github/forks/hahahahahahahahah6/browser-buddy?style=flat-square&color=blue)](https://github.com/hahahahahahahahah6/browser-buddy/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Let your coding agent read your real, logged-in Chrome: MV3 extension + native host + MCP server (read_active_tab, open_and_read_url). Zero dependencies, MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ hahahahahahahahah6/browser-buddy：hahahahahahahahah6/browser-buddy may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 54/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

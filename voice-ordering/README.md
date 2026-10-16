@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Lingikaushikreddy/indicorderbench](./lingikaushikreddy-indicorderbench.md) | ⭐ — | Python | 53/100 |
+| 1 | [Lingikaushikreddy/indicorderbench](./lingikaushikreddy-indicorderbench.md) | ⭐ — | Python | 50/100 |
 
 ---
 
