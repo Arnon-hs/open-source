@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40488** |
-| **Categories** | **495** |
+| **Projects** | **40497** |
+| **Categories** | **496** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15913 | [Browse →](./misc/) |
+| 📦 **Misc** | 15917 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4375 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2767 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
@@ -39,13 +39,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 591 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 531 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 508 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 483 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 484 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 449 | [Browse →](./templates/) |
 | 🔐 **Security** | 423 | [Browse →](./security/) |
 | 🏷️ **Communication** | 421 | [Browse →](./communication/) |
 | 📊 **Data** | 339 | [Browse →](./data/) |
 | 💳 **Payments** | 335 | [Browse →](./payments/) |
-| 🏷️ **Games--graphics** | 333 | [Browse →](./games--graphics/) |
+| 🏷️ **Games--graphics** | 334 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 324 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 298 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 261 | [Browse →](./libraries--sdks/) |
@@ -79,6 +79,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
+| 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
 | 🏷️ **Openapi** | 4 | [Browse →](./openapi/) |
 | 🏷️ **Devsecops** | 4 | [Browse →](./devsecops/) |
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
@@ -101,7 +102,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-checks** | 3 | [Browse →](./offline-checks/) |
 | 🏷️ **Salesforce** | 3 | [Browse →](./salesforce/) |
 | 🏷️ **React** | 3 | [Browse →](./react/) |
-| 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
 | 🏷️ **Minecraft** | 3 | [Browse →](./minecraft/) |
 | 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
 | 🏷️ **Invoice-generation** | 3 | [Browse →](./invoice-generation/) |
@@ -120,6 +120,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Llamaindex** | 2 | [Browse →](./llamaindex/) |
 | 🏷️ **Ocr** | 2 | [Browse →](./ocr/) |
 | 🏷️ **Architecture** | 2 | [Browse →](./architecture/) |
 | 🏷️ **File-transfer** | 2 | [Browse →](./file-transfer/) |
