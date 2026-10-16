@@ -65,18 +65,18 @@ ParthJadhav/app-store-screenshots：ParthJadhav/app-store-screenshots helps add 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 81/100 |
-| integration | 62/100 |
-| production | 71/100 |
-| outlook | 76/100 |
-| adoption | 78/100 |
-| categoryMatchCount | 500/100 |
-| stars | 82/100 |
 | forks | 68/100 |
-| recency | 80/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 76/100 |
+| quality | 81/100 |
+| recency | 80/100 |
+| adoption | 78/100 |
+| production | 71/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
