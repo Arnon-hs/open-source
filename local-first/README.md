@@ -15,7 +15,7 @@
 | 5 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
 | 6 | [utkarshydv27/DukaanFlow-AI](./utkarshydv27-dukaanflow-ai.md) | ⭐ — | Python | 42/100 |
 | 7 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 40/100 |
-| 8 | [tharun634/listinglift](./tharun634-listinglift.md) | ⭐ — | JavaScript | 39/100 |
+| 8 | [tharun634/listinglift](./tharun634-listinglift.md) | ⭐ — | JavaScript | 36/100 |
 | 9 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 36/100 |
 | 10 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 36/100 |
 | 11 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 36/100 |

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40456** |
-| **Categories** | **495** |
+| **Projects** | **40458** |
+| **Categories** | **494** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15897 | [Browse →](./misc/) |
+| 📦 **Misc** | 15898 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4374 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2763 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
@@ -35,7 +35,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documents** | 677 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 639 | [Browse →](./networking/) |
 | 📱 **Mobile** | 623 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 604 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 605 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 591 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 531 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 508 | [Browse →](./devopsinfra/) |
@@ -97,6 +97,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
+| 🏷️ **Salesforce** | 3 | [Browse →](./salesforce/) |
 | 🏷️ **React** | 3 | [Browse →](./react/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
 | 🏷️ **Minecraft** | 3 | [Browse →](./minecraft/) |
@@ -107,7 +108,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Browser-automation** | 3 | [Browse →](./browser-automation/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
 | 🏷️ **Macos** | 3 | [Browse →](./macos/) |
-| 🏷️ **Rag** | 3 | [Browse →](./rag/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Ai-testing** | 3 | [Browse →](./ai-testing/) |
 | 🏷️ **Linux** | 3 | [Browse →](./linux/) |
@@ -139,6 +139,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Codex** | 2 | [Browse →](./codex/) |
 | 🏷️ **Accessibility** | 2 | [Browse →](./accessibility/) |
 | 🏷️ **Ui** | 2 | [Browse →](./ui/) |
+| 🏷️ **Rag** | 2 | [Browse →](./rag/) |
 | 🏷️ **Digital-products** | 2 | [Browse →](./digital-products/) |
 | 🏷️ **E-commerce** | 2 | [Browse →](./e-commerce/) |
 | 🏷️ **Upi** | 2 | [Browse →](./upi/) |
@@ -279,7 +280,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Record-matching** | 1 | [Browse →](./record-matching/) |
 | 🏷️ **Contract-review** | 1 | [Browse →](./contract-review/) |
 | 🏷️ **Ai-research** | 1 | [Browse →](./ai-research/) |
-| 🏷️ **Salesforce** | 1 | [Browse →](./salesforce/) |
 | 🏷️ **Cocos** | 1 | [Browse →](./cocos/) |
 | 🏷️ **Smart-agriculture** | 1 | [Browse →](./smart-agriculture/) |
 | 🏷️ **Freight** | 1 | [Browse →](./freight/) |
@@ -384,7 +384,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rate-limiting** | 1 | [Browse →](./rate-limiting/) |
 | 🏷️ **Air-gapped** | 1 | [Browse →](./air-gapped/) |
 | 🏷️ **Mindfulness** | 1 | [Browse →](./mindfulness/) |
-| 🏷️ **Xpost** | 1 | [Browse →](./xpost/) |
 | 🏷️ **Erc-8004** | 1 | [Browse →](./erc-8004/) |
 | 🏷️ **Web** | 1 | [Browse →](./web/) |
 | 🏷️ **Dapr** | 1 | [Browse →](./dapr/) |
