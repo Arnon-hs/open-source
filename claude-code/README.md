@@ -2,7 +2,7 @@
 
 > 
 
-**11 projects** in this category.
+**12 projects** in this category.
 
 ## Projects
 
@@ -17,8 +17,9 @@
 | 7 | [hahahahahahahahah6/frontmatter-guard](./hahahahahahahahah6-frontmatter-guard.md) | ⭐ — | Python | 42/100 |
 | 8 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |
 | 9 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 30/100 |
-| 10 | [uehara/context-drop](./uehara-context-drop.md) | ⭐ — | — | 24/100 |
-| 11 | [anthropic/codex](./anthropic-codex.md) | ⭐ — | — | 24/100 |
+| 10 | [volvox-ltd/claude-docs-watch](./volvox-ltd-claude-docs-watch.md) | ⭐ — | — | 24/100 |
+| 11 | [uehara/context-drop](./uehara-context-drop.md) | ⭐ — | — | 24/100 |
+| 12 | [anthropic/codex](./anthropic-codex.md) | ⭐ — | — | 24/100 |
 
 ---
 

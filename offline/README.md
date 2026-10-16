@@ -14,7 +14,7 @@
 | 4 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 55/100 |
 | 5 | [naudio/NAudio](./naudio-naudio.md) | ⭐ 6.2k | C# | 54/100 |
 | 6 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
-| 7 | [Anandb71/kadacard](./anandb71-kadacard.md) | ⭐ — | TypeScript | 49/100 |
+| 7 | [Anandb71/kadacard](./anandb71-kadacard.md) | ⭐ — | TypeScript | 46/100 |
 | 8 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 40/100 |
 | 9 | [kookiiedough/trail-buddy](./kookiiedough-trail-buddy.md) | ⭐ — | Python | 39/100 |
 | 10 | [k1ng0mar/gona](./k1ng0mar-gona.md) | ⭐ — | JavaScript | 39/100 |

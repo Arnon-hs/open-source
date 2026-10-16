@@ -65,18 +65,18 @@ miqdadbadjuber/anti-slop：miqdadbadjuber/anti-slop helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 79/100 |
-| integration | 30/100 |
-| production | 66/100 |
-| outlook | 75/100 |
-| adoption | 75/100 |
-| categoryMatchCount | 400/100 |
-| stars | 79/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| stars | 79/100 |
 | topics | 100/100 |
+| outlook | 75/100 |
+| quality | 79/100 |
+| recency | 80/100 |
+| adoption | 75/100 |
+| production | 66/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
