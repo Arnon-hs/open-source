@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [opencode-ai/opencode](./opencode-ai-opencode.md) | ⭐ 13.8k | Go | 70/100 |
+| 1 | [opencode-ai/opencode](./opencode-ai-opencode.md) | ⭐ 13.8k | Go | 67/100 |
 
 ---
 
