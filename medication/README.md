@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kinnuworks/concord](./kinnuworks-concord.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [kinnuworks/concord](./kinnuworks-concord.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # hugoj0s3/NaturalCron
 
-[![Stars](https://img.shields.io/github/stars/hugoj0s3/NaturalCron?style=flat-square&color=yellow)](https://github.com/hugoj0s3/NaturalCron/stargazers) [![Forks](https://img.shields.io/github/forks/hugoj0s3/NaturalCron?style=flat-square&color=blue)](https://github.com/hugoj0s3/NaturalCron/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hugoj0s3/NaturalCron?style=flat-square&color=yellow)](https://github.com/hugoj0s3/NaturalCron/stargazers) [![Forks](https://img.shields.io/github/forks/hugoj0s3/NaturalCron?style=flat-square&color=blue)](https://github.com/hugoj0s3/NaturalCron/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Human-readable schedule expressions for .NET (C#): write "every day at 9am except sunday" instead of cron. Time zones, fluent builder, custom keywords, cron converter.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 142 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ hugoj0s3/NaturalCron：hugoj0s3/NaturalCron may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 72/100 |
+| production | 64/100 |
+| outlook | 65/100 |
 | adoption | 35/100 |
 | categoryMatchCount | 500/100 |
 | stars | 46/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

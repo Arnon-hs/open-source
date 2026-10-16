@@ -1,6 +1,6 @@
 # kinnuworks/concord
 
-[![Stars](https://img.shields.io/github/stars/kinnuworks/concord?style=flat-square&color=yellow)](https://github.com/kinnuworks/concord/stargazers) [![Forks](https://img.shields.io/github/forks/kinnuworks/concord?style=flat-square&color=blue)](https://github.com/kinnuworks/concord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kinnuworks/concord?style=flat-square&color=yellow)](https://github.com/kinnuworks/concord/stargazers) [![Forks](https://img.shields.io/github/forks/kinnuworks/concord?style=flat-square&color=blue)](https://github.com/kinnuworks/concord/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Discharge instructions as picture cards that must pass a read-back check before anyone sees them. Banana Hacks 2026.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ kinnuworks/concord：kinnuworks/concord may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 50/100 |
+| production | 51/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
