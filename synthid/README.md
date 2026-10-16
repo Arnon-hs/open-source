@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [contentauth/c2pa-python](./contentauth-c2pa-python.md) | ⭐ 106 | Python | 48/100 |
+| 1 | [contentauth/c2pa-python](./contentauth-c2pa-python.md) | ⭐ 106 | Python | 45/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ziuus/settings-tui
 
-[![Stars](https://img.shields.io/github/stars/ziuus/settings-tui?style=flat-square&color=yellow)](https://github.com/ziuus/settings-tui/stargazers) [![Forks](https://img.shields.io/github/forks/ziuus/settings-tui?style=flat-square&color=blue)](https://github.com/ziuus/settings-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ziuus/settings-tui?style=flat-square&color=yellow)](https://github.com/ziuus/settings-tui/stargazers) [![Forks](https://img.shields.io/github/forks/ziuus/settings-tui?style=flat-square&color=blue)](https://github.com/ziuus/settings-tui/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > The Missing Native Control Center for Linux Power Users
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ ziuus/settings-tui：ziuus/settings-tui may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 62/100 |
+| production | 55/100 |
+| outlook | 55/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 1000/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # Pink-Agentic-Payments/agent-spend-edge-cases
 
-[![Stars](https://img.shields.io/github/stars/Pink-Agentic-Payments/agent-spend-edge-cases?style=flat-square&color=yellow)](https://github.com/Pink-Agentic-Payments/agent-spend-edge-cases/stargazers) [![Forks](https://img.shields.io/github/forks/Pink-Agentic-Payments/agent-spend-edge-cases?style=flat-square&color=blue)](https://github.com/Pink-Agentic-Payments/agent-spend-edge-cases/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pink-Agentic-Payments/agent-spend-edge-cases?style=flat-square&color=yellow)](https://github.com/Pink-Agentic-Payments/agent-spend-edge-cases/stargazers) [![Forks](https://img.shields.io/github/forks/Pink-Agentic-Payments/agent-spend-edge-cases?style=flat-square&color=blue)](https://github.com/Pink-Agentic-Payments/agent-spend-edge-cases/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Pink: open test suite of edge-case inputs that break AI agent spending rules (currency strings, sub-cent amounts, client clocks, replays). Built from the Pink Overspend Challenge findings.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Pink-Agentic-Payments/agent-spend-edge-cases：Pink-Agentic-Payments/agent-spend
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 78/100 |
-| production | 65/100 |
-| outlook | 66/100 |
+| production | 59/100 |
+| outlook | 59/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

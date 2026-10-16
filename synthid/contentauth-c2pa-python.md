@@ -1,6 +1,6 @@
 # contentauth/c2pa-python
 
-[![Stars](https://img.shields.io/github/stars/contentauth/c2pa-python?style=flat-square&color=yellow)](https://github.com/contentauth/c2pa-python/stargazers) [![Forks](https://img.shields.io/github/forks/contentauth/c2pa-python?style=flat-square&color=blue)](https://github.com/contentauth/c2pa-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/contentauth/c2pa-python?style=flat-square&color=yellow)](https://github.com/contentauth/c2pa-python/stargazers) [![Forks](https://img.shields.io/github/forks/contentauth/c2pa-python?style=flat-square&color=blue)](https://github.com/contentauth/c2pa-python/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Python binding for c2pa-rs library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 106 |
 | 🍴 **Forks** | 37 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-02 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ contentauth/c2pa-python：contentauth/c2pa-python may be useful when its README 
 - updated 2026-10-02
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 54/100 |
+| production | 51/100 |
+| outlook | 47/100 |
 | adoption | 42/100 |
 | categoryMatchCount | 500/100 |
 | stars | 43/100 |
 | forks | 39/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Redocly/redocly-cli](./redocly-redocly-cli.md) | ⭐ 1.5k | TypeScript | 80/100 |
+| 1 | [Redocly/redocly-cli](./redocly-redocly-cli.md) | ⭐ 1.5k | TypeScript | 77/100 |
 
 ---
 
