@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40446** |
-| **Categories** | **495** |
+| **Projects** | **40453** |
+| **Categories** | **496** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15894 | [Browse →](./misc/) |
+| 📦 **Misc** | 15897 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4373 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2763 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
@@ -60,14 +60,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-source** | 29 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
-| 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 17 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 13 | [Browse →](./freelance/) |
 | 🏷️ **Offline-first** | 13 | [Browse →](./offline-first/) |
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Local-ai** | 10 | [Browse →](./local-ai/) |
-| 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
+| 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
@@ -79,6 +79,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
+| 🏷️ **Devsecops** | 4 | [Browse →](./devsecops/) |
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
 | 🏷️ **3d** | 4 | [Browse →](./3d/) |
@@ -118,8 +119,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
-| 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Architecture** | 2 | [Browse →](./architecture/) |
 | 🏷️ **File-transfer** | 2 | [Browse →](./file-transfer/) |
 | 🏷️ **Agent-based-development** | 2 | [Browse →](./agent-based-development/) |
 | 🏷️ **Text-to-speech** | 2 | [Browse →](./text-to-speech/) |
@@ -166,7 +167,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Migration** | 2 | [Browse →](./migration/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
-| 🏷️ **Web** | 2 | [Browse →](./web/) |
 | 🏷️ **Desktop-automation** | 2 | [Browse →](./desktop-automation/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
@@ -191,6 +191,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-payments** | 1 | [Browse →](./ai-payments/) |
 | 🏷️ **Note-taking** | 1 | [Browse →](./note-taking/) |
 | 🏷️ **Canvas** | 1 | [Browse →](./canvas/) |
 | 🏷️ **Bike-fitting** | 1 | [Browse →](./bike-fitting/) |
@@ -387,12 +388,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Xpost** | 1 | [Browse →](./xpost/) |
 | 🏷️ **Data-extraction** | 1 | [Browse →](./data-extraction/) |
 | 🏷️ **Erc-8004** | 1 | [Browse →](./erc-8004/) |
+| 🏷️ **Web** | 1 | [Browse →](./web/) |
 | 🏷️ **Dapr** | 1 | [Browse →](./dapr/) |
 | 🏷️ **Programming-language** | 1 | [Browse →](./programming-language/) |
 | 🏷️ **Agentic** | 1 | [Browse →](./agentic/) |
 | 🏷️ **Food-safety** | 1 | [Browse →](./food-safety/) |
 | 🏷️ **Ai-governance** | 1 | [Browse →](./ai-governance/) |
-| 🏷️ **Architecture** | 1 | [Browse →](./architecture/) |
 | 🏷️ **Console-development** | 1 | [Browse →](./console-development/) |
 | 🏷️ **Autofill** | 1 | [Browse →](./autofill/) |
 | 🏷️ **Quiz** | 1 | [Browse →](./quiz/) |

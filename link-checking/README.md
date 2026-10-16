@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [msalihk/apify-actor-examples](./msalihk-apify-actor-examples.md) | ⭐ — | Shell | 66/100 |
+| 1 | [msalihk/apify-actor-examples](./msalihk-apify-actor-examples.md) | ⭐ — | Shell | 63/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [alegauss/winwright](./alegauss-winwright.md) | ⭐ 1 | C# | 53/100 |
+| 1 | [alegauss/winwright](./alegauss-winwright.md) | ⭐ 1 | C# | 50/100 |
 
 ---
 
