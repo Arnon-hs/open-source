@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [repobenchmarks/tabupulse-ai](./repobenchmarks-tabupulse-ai.md) | ⭐ — | Python | 69/100 |
+| 1 | [repobenchmarks/tabupulse-ai](./repobenchmarks-tabupulse-ai.md) | ⭐ — | Python | 66/100 |
 
 ---
 

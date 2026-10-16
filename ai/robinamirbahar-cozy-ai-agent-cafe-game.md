@@ -1,6 +1,6 @@
 # RobinaMirbahar/cozy-ai-agent-cafe-game
 
-[![Stars](https://img.shields.io/github/stars/RobinaMirbahar/cozy-ai-agent-cafe-game?style=flat-square&color=yellow)](https://github.com/RobinaMirbahar/cozy-ai-agent-cafe-game/stargazers) [![Forks](https://img.shields.io/github/forks/RobinaMirbahar/cozy-ai-agent-cafe-game?style=flat-square&color=blue)](https://github.com/RobinaMirbahar/cozy-ai-agent-cafe-game/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RobinaMirbahar/cozy-ai-agent-cafe-game?style=flat-square&color=yellow)](https://github.com/RobinaMirbahar/cozy-ai-agent-cafe-game/stargazers) [![Forks](https://img.shields.io/github/forks/RobinaMirbahar/cozy-ai-agent-cafe-game?style=flat-square&color=blue)](https://github.com/RobinaMirbahar/cozy-ai-agent-cafe-game/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Prompt Paws: The Cozy AI Agent Cafe & Bakery - A cute 60FPS kawaii simulation game teaching RAG, Guardrails, Context Caching, Tool Calling & Multi-Agent Workflows! @google-deepmind
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ RobinaMirbahar/cozy-ai-agent-cafe-game：RobinaMirbahar/cozy-ai-agent-cafe-game 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 62/100 |
+| production | 51/100 |
+| outlook | 55/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 900/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

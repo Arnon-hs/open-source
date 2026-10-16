@@ -1,6 +1,6 @@
 # aryanshaurya1012-collab/ScopeMate-AI
 
-[![Stars](https://img.shields.io/github/stars/aryanshaurya1012-collab/ScopeMate-AI?style=flat-square&color=yellow)](https://github.com/aryanshaurya1012-collab/ScopeMate-AI/stargazers) [![Forks](https://img.shields.io/github/forks/aryanshaurya1012-collab/ScopeMate-AI?style=flat-square&color=blue)](https://github.com/aryanshaurya1012-collab/ScopeMate-AI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aryanshaurya1012-collab/ScopeMate-AI?style=flat-square&color=yellow)](https://github.com/aryanshaurya1012-collab/ScopeMate-AI/stargazers) [![Forks](https://img.shields.io/github/forks/aryanshaurya1012-collab/ScopeMate-AI?style=flat-square&color=blue)](https://github.com/aryanshaurya1012-collab/ScopeMate-AI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > ScopeMate turns rough client briefs into structured project scopes, editable estimates, client-ready proposals, and clear change requests using the open-weight Gemma model
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ aryanshaurya1012-collab/ScopeMate-AI：aryanshaurya1012-collab/ScopeMate-AI may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 54/100 |
+| production | 53/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

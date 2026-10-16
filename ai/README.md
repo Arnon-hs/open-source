@@ -17,10 +17,10 @@
 | 7 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 8 | [dennisonbertram/agentic-hosting](./dennisonbertram-agentic-hosting.md) | ⭐ 31 | Go | 60/100 |
 | 9 | [onloopdev/spark-triage](./onloopdev-spark-triage.md) | ⭐ — | Python | 58/100 |
-| 10 | [RobinaMirbahar/cozy-ai-agent-cafe-game](./robinamirbahar-cozy-ai-agent-cafe-game.md) | ⭐ — | JavaScript | 57/100 |
-| 11 | [auliamnaufal/agent-janitor](./auliamnaufal-agent-janitor.md) | ⭐ — | TypeScript | 56/100 |
-| 12 | [sirmmo/stairway](./sirmmo-stairway.md) | ⭐ — | Python | 56/100 |
-| 13 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
+| 10 | [auliamnaufal/agent-janitor](./auliamnaufal-agent-janitor.md) | ⭐ — | TypeScript | 56/100 |
+| 11 | [sirmmo/stairway](./sirmmo-stairway.md) | ⭐ — | Python | 56/100 |
+| 12 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
+| 13 | [RobinaMirbahar/cozy-ai-agent-cafe-game](./robinamirbahar-cozy-ai-agent-cafe-game.md) | ⭐ — | JavaScript | 54/100 |
 | 14 | [AnonymousOnyx22/brightspace-d2l-mcp](./anonymousonyx22-brightspace-d2l-mcp.md) | ⭐ 2 | TypeScript | 53/100 |
 | 15 | [AncientiCe/mcp-warden](./ancientice-mcp-warden.md) | ⭐ 1 | Rust | 53/100 |
 | 16 | [tanaikech/alphaevolve-multi-hazard](./tanaikech-alphaevolve-multi-hazard.md) | ⭐ — | Python | 50/100 |
