@@ -566,8 +566,8 @@
 | 556 | [gradle/gradle](./gradle-gradle.md) | ⭐ 18.5k | Groovy | 66/100 |
 | 557 | [cline/cline](./cline-cline.md) | ⭐ 61.5k | TypeScript | 66/100 |
 | 558 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.1k | AutoHotkey | 65/100 |
-| 559 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
-| 560 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
+| 559 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
+| 560 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
 | 561 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 562 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 46 | TypeScript | 65/100 |
 | 563 | [askbudi/juno-code](./askbudi-juno-code.md) | ⭐ 55 | TypeScript | 65/100 |
@@ -637,8 +637,8 @@
 | 627 | [qwen-code-dev-bot/oh-my-cli](./qwen-code-dev-bot-oh-my-cli.md) | ⭐ 339 | TypeScript | 64/100 |
 | 628 | [mworldorg/markdown-memory](./mworldorg-markdown-memory.md) | ⭐ 23 | Python | 64/100 |
 | 629 | [M507/RamiGPT](./m507-ramigpt.md) | ⭐ 860 | Python | 64/100 |
-| 630 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 64/100 |
-| 631 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 64/100 |
+| 630 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 64/100 |
+| 631 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 64/100 |
 | 632 | [nestjs/bull](./nestjs-bull.md) | ⭐ 699 | TypeScript | 64/100 |
 | 633 | [terrakube-io/terrakube](./terrakube-io-terrakube.md) | ⭐ 927 | Java | 64/100 |
 | 634 | [VyomKulshrestha/Heliox-OS](./vyomkulshrestha-heliox-os.md) | ⭐ 59 | Python | 64/100 |
@@ -796,8 +796,8 @@
 | 786 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.7k | Go | 62/100 |
 | 787 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 31 | Rust | 62/100 |
 | 788 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.2k | Rust | 62/100 |
-| 789 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
-| 790 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 789 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 790 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
 | 791 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 112 | Shell | 62/100 |
 | 792 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 543 | Python | 62/100 |
 | 793 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 133 | TypeScript | 62/100 |
@@ -1291,8 +1291,8 @@
 | 1281 | [AlejandroSilvaMendez/fail-closed-python-assessment](./alejandrosilvamendez-fail-closed-python-assessment.md) | ⭐ — | Python | 43/100 |
 | 1282 | [truongsontung/pr-monitor](./truongsontung-pr-monitor.md) | ⭐ — | Python | 43/100 |
 | 1283 | [aws/n8n-nodes-agentcore](./aws-n8n-nodes-agentcore.md) | ⭐ 15 | TypeScript | 43/100 |
-| 1284 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
-| 1285 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
+| 1284 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
+| 1285 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
 | 1286 | [etkecc/baibot](./etkecc-baibot.md) | ⭐ 222 | Rust | 43/100 |
 | 1287 | [simplynadaf/self-host-n8n-on-ec2](./simplynadaf-self-host-n8n-on-ec2.md) | ⭐ — | Shell | 42/100 |
 | 1288 | [hamsavartn/raptor](./hamsavartn-raptor.md) | ⭐ — | Go | 42/100 |
@@ -1374,8 +1374,8 @@
 | 1364 | [unkeyed/keanu-reviews](./unkeyed-keanu-reviews.md) | ⭐ — | — | 38/100 |
 | 1365 | [madebywelch/guaca](./madebywelch-guaca.md) | ⭐ — | — | 38/100 |
 | 1366 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ — | — | 38/100 |
-| 1367 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
-| 1368 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 38/100 |
+| 1367 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 38/100 |
+| 1368 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
 | 1369 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 38/100 |
 | 1370 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 38/100 |
 | 1371 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ — | — | 38/100 |
