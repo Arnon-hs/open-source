@@ -61,18 +61,18 @@ liquidslr/system-design-notes：liquidslr/system-design-notes may be useful when
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 64/100 |
-| outlook | 67/100 |
-| adoption | 93/100 |
-| categoryMatchCount | 100/100 |
-| stars | 94/100 |
 | forks | 92/100 |
-| recency | 80/100 |
+| stars | 94/100 |
 | topics | 0/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 80/100 |
+| adoption | 93/100 |
+| production | 64/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

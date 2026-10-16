@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40510** |
+| **Projects** | **40512** |
 | **Categories** | **499** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -25,17 +25,17 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 15926 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4376 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2767 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2768 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1405 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1406 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 934 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 884 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 781 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 677 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 640 | [Browse →](./networking/) |
 | 📱 **Mobile** | 624 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 605 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 606 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 592 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 531 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 508 | [Browse →](./devopsinfra/) |
@@ -141,7 +141,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Codex** | 2 | [Browse →](./codex/) |
 | 🏷️ **Accessibility** | 2 | [Browse →](./accessibility/) |
 | 🏷️ **Ui** | 2 | [Browse →](./ui/) |
-| 🏷️ **Rag** | 2 | [Browse →](./rag/) |
 | 🏷️ **Digital-products** | 2 | [Browse →](./digital-products/) |
 | 🏷️ **E-commerce** | 2 | [Browse →](./e-commerce/) |
 | 🏷️ **Upi** | 2 | [Browse →](./upi/) |
@@ -262,6 +261,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Clinical-trials** | 1 | [Browse →](./clinical-trials/) |
 | 🏷️ **Geology** | 1 | [Browse →](./geology/) |
 | 🏷️ **Solana** | 1 | [Browse →](./solana/) |
+| 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Tabular** | 1 | [Browse →](./tabular/) |
 | 🏷️ **Desktop-ide** | 1 | [Browse →](./desktop-ide/) |
 | 🏷️ **Agent-hooks** | 1 | [Browse →](./agent-hooks/) |
