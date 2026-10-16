@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vinimabreu/betorskip](./vinimabreu-betorskip.md) | ⭐ — | Python | 47/100 |
+| 1 | [vinimabreu/betorskip](./vinimabreu-betorskip.md) | ⭐ — | Python | 44/100 |
 
 ---
 
