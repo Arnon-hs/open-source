@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Canzz0/glitchback](./canzz0-glitchback.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [Canzz0/glitchback](./canzz0-glitchback.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 

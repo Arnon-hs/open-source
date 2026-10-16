@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [RedSamerai/pr-conventional](./redsamerai-pr-conventional.md) | ⭐ 1 | TypeScript | 43/100 |
+| 1 | [RedSamerai/pr-conventional](./redsamerai-pr-conventional.md) | ⭐ 1 | TypeScript | 40/100 |
 
 ---
 

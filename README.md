@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40417** |
-| **Categories** | **490** |
+| **Projects** | **40420** |
+| **Categories** | **491** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15883 | [Browse →](./misc/) |
+| 📦 **Misc** | 15884 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4372 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2761 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
@@ -79,6 +79,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
+| 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
 | 🏷️ **3d** | 4 | [Browse →](./3d/) |
 | 🏷️ **Self-hosted** | 4 | [Browse →](./self-hosted/) |
@@ -97,7 +98,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
-| 🏷️ **Devchallenge** | 3 | [Browse →](./devchallenge/) |
 | 🏷️ **Minecraft** | 3 | [Browse →](./minecraft/) |
 | 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
 | 🏷️ **Invoice-generation** | 3 | [Browse →](./invoice-generation/) |
@@ -190,6 +190,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Knowledge-graph** | 1 | [Browse →](./knowledge-graph/) |
 | 🏷️ **Gpu** | 1 | [Browse →](./gpu/) |
 | 🏷️ **Identity** | 1 | [Browse →](./identity/) |
 | 🏷️ **Fastgpt** | 1 | [Browse →](./fastgpt/) |
