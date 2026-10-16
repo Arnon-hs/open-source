@@ -1,6 +1,6 @@
 # apex-freen/fde-mcp-blade
 
-[![Stars](https://img.shields.io/github/stars/apex-freen/fde-mcp-blade?style=flat-square&color=yellow)](https://github.com/apex-freen/fde-mcp-blade/stargazers) [![Forks](https://img.shields.io/github/forks/apex-freen/fde-mcp-blade?style=flat-square&color=blue)](https://github.com/apex-freen/fde-mcp-blade/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apex-freen/fde-mcp-blade?style=flat-square&color=yellow)](https://github.com/apex-freen/fde-mcp-blade/stargazers) [![Forks](https://img.shields.io/github/forks/apex-freen/fde-mcp-blade?style=flat-square&color=blue)](https://github.com/apex-freen/fde-mcp-blade/network) [![Language](https://img.shields.io/badge/lang-Vue-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The AI toolbox you deploy inside your customer's data center — one unified MCP entry with five-layer security and full audit trails. Plugin engine turns Feishu / DingTalk / WeCom / intranet APIs into agent tools. One Docker command, 1-core/1GB min, data never leaves your network. Apache 2.0.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Vue |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ apex-freen/fde-mcp-blade：apex-freen/fde-mcp-blade may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 100/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 65/100 |
+| outlook | 67/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 700/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

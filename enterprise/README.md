@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [apex-freen/fde-mcp-blade](./apex-freen-fde-mcp-blade.md) | ⭐ 3 | Vue | 76/100 |
+| 1 | [apex-freen/fde-mcp-blade](./apex-freen-fde-mcp-blade.md) | ⭐ 3 | Vue | 73/100 |
 
 ---
 
