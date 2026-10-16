@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40413** |
-| **Categories** | **492** |
+| **Projects** | **40415** |
+| **Categories** | **490** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -25,7 +25,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 15881 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4372 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2760 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2761 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1403 | [Browse →](./automation/) |
@@ -43,16 +43,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 448 | [Browse →](./templates/) |
 | 🔐 **Security** | 422 | [Browse →](./security/) |
 | 🏷️ **Communication** | 421 | [Browse →](./communication/) |
-| 📊 **Data** | 337 | [Browse →](./data/) |
+| 📊 **Data** | 338 | [Browse →](./data/) |
 | 💳 **Payments** | 335 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 332 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 323 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 298 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 260 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 200 | [Browse →](./trading/) |
-| ✨ **Design** | 175 | [Browse →](./design/) |
+| ✨ **Design** | 176 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 146 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 115 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 116 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 93 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 35 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
@@ -190,6 +190,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Gpu** | 1 | [Browse →](./gpu/) |
 | 🏷️ **Identity** | 1 | [Browse →](./identity/) |
 | 🏷️ **Fastgpt** | 1 | [Browse →](./fastgpt/) |
 | 🏷️ **Visual-observability** | 1 | [Browse →](./visual-observability/) |
@@ -381,9 +382,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Xpost** | 1 | [Browse →](./xpost/) |
 | 🏷️ **Data-extraction** | 1 | [Browse →](./data-extraction/) |
 | 🏷️ **Erc-8004** | 1 | [Browse →](./erc-8004/) |
-| 🏷️ **Ai-generated-sites** | 1 | [Browse →](./ai-generated-sites/) |
-| 🏷️ **Activemq** | 1 | [Browse →](./activemq/) |
-| 🏷️ **Browser** | 1 | [Browse →](./browser/) |
 | 🏷️ **Dapr** | 1 | [Browse →](./dapr/) |
 | 🏷️ **Programming-language** | 1 | [Browse →](./programming-language/) |
 | 🏷️ **Agentic** | 1 | [Browse →](./agentic/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vast-ai/vast-cli](./vast-ai-vast-cli.md) | ⭐ 223 | Python | 73/100 |
+| 1 | [fabrikalunnogosveta-del/checkpointed-task-pipeline](./fabrikalunnogosveta-del-checkpointed-task-pipeline.md) | ⭐ — | Python | 55/100 |
 
 ---
 
