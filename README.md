@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40466** |
-| **Categories** | **495** |
+| **Projects** | **40472** |
+| **Categories** | **496** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15903 | [Browse →](./misc/) |
+| 📦 **Misc** | 15905 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4374 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2764 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
@@ -97,6 +97,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
+| 🏷️ **Offline-checks** | 3 | [Browse →](./offline-checks/) |
 | 🏷️ **Salesforce** | 3 | [Browse →](./salesforce/) |
 | 🏷️ **React** | 3 | [Browse →](./react/) |
 | 🏷️ **Github-actions** | 3 | [Browse →](./github-actions/) |
@@ -120,6 +121,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ocr** | 2 | [Browse →](./ocr/) |
 | 🏷️ **Architecture** | 2 | [Browse →](./architecture/) |
 | 🏷️ **File-transfer** | 2 | [Browse →](./file-transfer/) |
 | 🏷️ **Agent-based-development** | 2 | [Browse →](./agent-based-development/) |
@@ -256,7 +258,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Clinical-trials** | 1 | [Browse →](./clinical-trials/) |
 | 🏷️ **Geology** | 1 | [Browse →](./geology/) |
 | 🏷️ **Solana** | 1 | [Browse →](./solana/) |
-| 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
 | 🏷️ **Tabular** | 1 | [Browse →](./tabular/) |
 | 🏷️ **Desktop-ide** | 1 | [Browse →](./desktop-ide/) |
 | 🏷️ **Agent-hooks** | 1 | [Browse →](./agent-hooks/) |

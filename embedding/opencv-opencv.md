@@ -1,6 +1,6 @@
 # opencv/opencv
 
-[![Stars](https://img.shields.io/github/stars/opencv/opencv?style=flat-square&color=yellow)](https://github.com/opencv/opencv/stargazers) [![Forks](https://img.shields.io/github/forks/opencv/opencv?style=flat-square&color=blue)](https://github.com/opencv/opencv/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opencv/opencv?style=flat-square&color=yellow)](https://github.com/opencv/opencv/stargazers) [![Forks](https://img.shields.io/github/forks/opencv/opencv?style=flat-square&color=blue)](https://github.com/opencv/opencv/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Open Source Computer Vision Library
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 91.2k |
 | 🍴 **Forks** | 57k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ opencv/opencv：opencv/opencv may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 90/100 |
+| quality | 85/100 |
 | integration | 30/100 |
-| production | 75/100 |
-| outlook | 82/100 |
+| production | 68/100 |
+| outlook | 75/100 |
 | adoption | 100/100 |
 | categoryMatchCount | 600/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
