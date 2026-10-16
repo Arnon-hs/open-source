@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vikashruhilgit/loomwright](./vikashruhilgit-loomwright.md) | ⭐ 5 | Shell | 30/100 |
+| 1 | [openai/symphony](./openai-symphony.md) | ⭐ 27.7k | Elixir | 64/100 |
+| 2 | [vikashruhilgit/loomwright](./vikashruhilgit-loomwright.md) | ⭐ 5 | Shell | 30/100 |
 
 ---
 
