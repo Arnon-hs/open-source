@@ -1,6 +1,6 @@
 # Samyrrrrrr990/openleads
 
-[![Stars](https://img.shields.io/github/stars/Samyrrrrrr990/openleads?style=flat-square&color=yellow)](https://github.com/Samyrrrrrr990/openleads/stargazers) [![Forks](https://img.shields.io/github/forks/Samyrrrrrr990/openleads?style=flat-square&color=blue)](https://github.com/Samyrrrrrr990/openleads/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Samyrrrrrr990/openleads?style=flat-square&color=yellow)](https://github.com/Samyrrrrrr990/openleads/stargazers) [![Forks](https://img.shields.io/github/forks/Samyrrrrrr990/openleads?style=flat-square&color=blue)](https://github.com/Samyrrrrrr990/openleads/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source lead finder and cold email workspace. Describe a customer, get named people with labeled emails, then write, send, and automate it. No API keys, runs locally. Free Apollo and Hunter alternative.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Samyrrrrrr990/openleads：Samyrrrrrr990/openleads may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 94/100 |
-| production | 74/100 |
-| outlook | 79/100 |
+| production | 68/100 |
+| outlook | 72/100 |
 | adoption | 30/100 |
 | categoryMatchCount | 500/100 |
 | stars | 32/100 |
 | forks | 24/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

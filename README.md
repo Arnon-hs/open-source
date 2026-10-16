@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40459** |
-| **Categories** | **494** |
+| **Projects** | **40466** |
+| **Categories** | **495** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,13 +23,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15899 | [Browse →](./misc/) |
+| 📦 **Misc** | 15903 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4374 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2763 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2764 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1403 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 933 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 934 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 884 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 781 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 677 | [Browse →](./documents/) |
@@ -58,7 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 29 | [Browse →](./open-source/) |
-| 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
+| 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 17 | [Browse →](./llm/) |
@@ -166,7 +166,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Jsonpath** | 2 | [Browse →](./jsonpath/) |
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
-| 🏷️ **Migration** | 2 | [Browse →](./migration/) |
 | 🏷️ **Desktop-automation** | 2 | [Browse →](./desktop-automation/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
@@ -191,6 +190,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agentgateway** | 1 | [Browse →](./agentgateway/) |
+| 🏷️ **Gemma** | 1 | [Browse →](./gemma/) |
 | 🏷️ **Ai-payments** | 1 | [Browse →](./ai-payments/) |
 | 🏷️ **Note-taking** | 1 | [Browse →](./note-taking/) |
 | 🏷️ **Canvas** | 1 | [Browse →](./canvas/) |
@@ -383,7 +384,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hotel-distribution** | 1 | [Browse →](./hotel-distribution/) |
 | 🏷️ **Rate-limiting** | 1 | [Browse →](./rate-limiting/) |
 | 🏷️ **Air-gapped** | 1 | [Browse →](./air-gapped/) |
-| 🏷️ **Mindfulness** | 1 | [Browse →](./mindfulness/) |
 | 🏷️ **Erc-8004** | 1 | [Browse →](./erc-8004/) |
 | 🏷️ **Web** | 1 | [Browse →](./web/) |
 | 🏷️ **Dapr** | 1 | [Browse →](./dapr/) |
@@ -468,6 +468,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Chatbot** | 1 | [Browse →](./chatbot/) |
 | 🏷️ **Sidecar** | 1 | [Browse →](./sidecar/) |
 | 🏷️ **Claude-desktop** | 1 | [Browse →](./claude-desktop/) |
+| 🏷️ **Migration** | 1 | [Browse →](./migration/) |
 | 🏷️ **Background-removal** | 1 | [Browse →](./background-removal/) |
 | 🏷️ **Dependency-management** | 1 | [Browse →](./dependency-management/) |
 | 🏷️ **Job-search** | 1 | [Browse →](./job-search/) |

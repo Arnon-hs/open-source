@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Samyrrrrrr990/openleads](./samyrrrrrr990-openleads.md) | ⭐ 32 | Python | 79/100 |
+| 1 | [Samyrrrrrr990/openleads](./samyrrrrrr990-openleads.md) | ⭐ 32 | Python | 76/100 |
 | 2 | [shivaysinghrajput/livelead](./shivaysinghrajput-livelead.md) | ⭐ — | — | 24/100 |
 
 ---
