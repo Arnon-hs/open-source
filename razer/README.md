@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [gian0052/DemonNapse](./gian0052-demonnapse.md) | ⭐ 1 | Rust | 45/100 |
+| 1 | [gian0052/DemonNapse](./gian0052-demonnapse.md) | ⭐ 1 | Rust | 42/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # AnassKartit/embeddinggemma2-photo-sweep
 
-[![Stars](https://img.shields.io/github/stars/AnassKartit/embeddinggemma2-photo-sweep?style=flat-square&color=yellow)](https://github.com/AnassKartit/embeddinggemma2-photo-sweep/stargazers) [![Forks](https://img.shields.io/github/forks/AnassKartit/embeddinggemma2-photo-sweep?style=flat-square&color=blue)](https://github.com/AnassKartit/embeddinggemma2-photo-sweep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnassKartit/embeddinggemma2-photo-sweep?style=flat-square&color=yellow)](https://github.com/AnassKartit/embeddinggemma2-photo-sweep/stargazers) [![Forks](https://img.shields.io/github/forks/AnassKartit/embeddinggemma2-photo-sweep?style=flat-square&color=blue)](https://github.com/AnassKartit/embeddinggemma2-photo-sweep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > EmbeddingGemma 2 on a Mac, measured: clean WhatsApp photos, find your family from one photo, ask your files offline (30/30 vs Spotlight 5/30), analyze bills locally.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ AnassKartit/embeddinggemma2-photo-sweep：AnassKartit/embeddinggemma2-photo-swee
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 50/100 |
+| production | 51/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
