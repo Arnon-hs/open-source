@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40349** |
-| **Categories** | **483** |
+| **Projects** | **40355** |
+| **Categories** | **486** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15858 | [Browse →](./misc/) |
+| 📦 **Misc** | 15860 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4367 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2759 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2327 | [Browse →](./orchestration/) |
@@ -118,6 +118,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Hysteria2** | 2 | [Browse →](./hysteria2/) |
 | 🏷️ **Ecommerce** | 2 | [Browse →](./ecommerce/) |
 | 🏷️ **Tmux** | 2 | [Browse →](./tmux/) |
 | 🏷️ **Forecasting** | 2 | [Browse →](./forecasting/) |
@@ -188,6 +189,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Aiclaw** | 1 | [Browse →](./aiclaw/) |
+| 🏷️ **Flight-search** | 1 | [Browse →](./flight-search/) |
 | 🏷️ **Audio-drama** | 1 | [Browse →](./audio-drama/) |
 | 🏷️ **Policy** | 1 | [Browse →](./policy/) |
 | 🏷️ **Tiffin** | 1 | [Browse →](./tiffin/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Freeky7819/research-ledger](./freeky7819-research-ledger.md) | ⭐ — | — | 42/100 |
+| 1 | [Freeky7819/research-ledger](./freeky7819-research-ledger.md) | ⭐ — | — | 39/100 |
 
 ---
 

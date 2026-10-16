@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [FluidInference/FluidAudio](./fluidinference-fluidaudio.md) | ⭐ 3k | Swift | 60/100 |
+| 1 | [FluidInference/FluidAudio](./fluidinference-fluidaudio.md) | ⭐ 3k | Swift | 57/100 |
 | 2 | [argmaxinc/WhisperKit](./argmaxinc-whisperkit.md) | ⭐ — | — | 24/100 |
 
 ---
