@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Pink-Agentic-Payments/agent-payment-protocols-tracker](./pink-agentic-payments-agent-payment-protocols-tracker.md) | ⭐ — | Python | 59/100 |
+| 1 | [Pink-Agentic-Payments/agent-payment-protocols-tracker](./pink-agentic-payments-agent-payment-protocols-tracker.md) | ⭐ — | Python | 56/100 |
 
 ---
 

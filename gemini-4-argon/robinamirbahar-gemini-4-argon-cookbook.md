@@ -1,6 +1,6 @@
 # RobinaMirbahar/gemini-4-argon-cookbook
 
-[![Stars](https://img.shields.io/github/stars/RobinaMirbahar/gemini-4-argon-cookbook?style=flat-square&color=yellow)](https://github.com/RobinaMirbahar/gemini-4-argon-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/RobinaMirbahar/gemini-4-argon-cookbook?style=flat-square&color=blue)](https://github.com/RobinaMirbahar/gemini-4-argon-cookbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RobinaMirbahar/gemini-4-argon-cookbook?style=flat-square&color=yellow)](https://github.com/RobinaMirbahar/gemini-4-argon-cookbook/stargazers) [![Forks](https://img.shields.io/github/forks/RobinaMirbahar/gemini-4-argon-cookbook?style=flat-square&color=blue)](https://github.com/RobinaMirbahar/gemini-4-argon-cookbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Gemini 4 Argon Cookbook & Starter Kit - 1M Unified Token Long-Decode Continuation, Deep Reasoning Thought Signatures, Autonomous Cyber/Code Auditor, and Pure-Python 3D Raytracer @google-deepmind
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ RobinaMirbahar/gemini-4-argon-cookbook：RobinaMirbahar/gemini-4-argon-cookbook 
 - primary language: HTML
 - 7 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 94/100 |
-| production | 69/100 |
-| outlook | 66/100 |
+| production | 62/100 |
+| outlook | 59/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
