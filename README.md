@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40378** |
+| **Projects** | **40379** |
 | **Categories** | **489** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 15865 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4369 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4370 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2760 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
@@ -95,6 +95,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apple-ads** | 4 | [Browse →](./apple-ads/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Devchallenge** | 3 | [Browse →](./devchallenge/) |
 | 🏷️ **Minecraft** | 3 | [Browse →](./minecraft/) |
 | 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
 | 🏷️ **Claude** | 3 | [Browse →](./claude/) |
@@ -157,7 +158,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Outdoor** | 2 | [Browse →](./outdoor/) |
 | 🏷️ **Bluetooth** | 2 | [Browse →](./bluetooth/) |
 | 🏷️ **Jsonpath** | 2 | [Browse →](./jsonpath/) |
-| 🏷️ **Data-quality** | 2 | [Browse →](./data-quality/) |
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Migration** | 2 | [Browse →](./migration/) |
@@ -165,7 +165,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
 | 🏷️ **Desktop-automation** | 2 | [Browse →](./desktop-automation/) |
 | 🏷️ **Github-actions** | 2 | [Browse →](./github-actions/) |
-| 🏷️ **Devchallenge** | 2 | [Browse →](./devchallenge/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
@@ -364,6 +363,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Garden** | 1 | [Browse →](./garden/) |
 | 🏷️ **Karaoke** | 1 | [Browse →](./karaoke/) |
 | 🏷️ **Iso-286** | 1 | [Browse →](./iso-286/) |
+| 🏷️ **Data-quality** | 1 | [Browse →](./data-quality/) |
 | 🏷️ **Rails** | 1 | [Browse →](./rails/) |
 | 🏷️ **Tableau** | 1 | [Browse →](./tableau/) |
 | 🏷️ **Sales** | 1 | [Browse →](./sales/) |

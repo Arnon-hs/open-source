@@ -1,6 +1,6 @@
 # AnonymousOnyx22/brightspace-d2l-mcp
 
-[![Stars](https://img.shields.io/github/stars/AnonymousOnyx22/brightspace-d2l-mcp?style=flat-square&color=yellow)](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/AnonymousOnyx22/brightspace-d2l-mcp?style=flat-square&color=blue)](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnonymousOnyx22/brightspace-d2l-mcp?style=flat-square&color=yellow)](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/AnonymousOnyx22/brightspace-d2l-mcp?style=flat-square&color=blue)](https://github.com/AnonymousOnyx22/brightspace-d2l-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Brightspace D2L MCP server for Claude, ChatGPT, Cursor and Copilot. Knows what you already handed in, so it only tells you what is actually left. Due dates, grades and course files at any school with normal SSO sign-in.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ AnonymousOnyx22/brightspace-d2l-mcp：AnonymousOnyx22/brightspace-d2l-mcp may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 65/100 |
+| production | 60/100 |
+| outlook | 58/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
