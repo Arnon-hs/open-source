@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nonsense3/Basalt](./nonsense3-basalt.md) | ⭐ — | TypeScript | 56/100 |
+| 1 | [nonsense3/Basalt](./nonsense3-basalt.md) | ⭐ — | TypeScript | 53/100 |
 | 2 | [HuzaifaAbdulRehman/checkilex](./huzaifaabdulrehman-checkilex.md) | ⭐ — | TypeScript | 49/100 |
 | 3 | [aryanshaurya1012-collab/ScopeMate-AI](./aryanshaurya1012-collab-scopemate-ai.md) | ⭐ — | TypeScript | 49/100 |
 | 4 | [NavyaPachigolla/FreelanceFlow](./navyapachigolla-freelanceflow.md) | ⭐ — | Python | 45/100 |

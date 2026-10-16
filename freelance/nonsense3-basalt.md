@@ -1,6 +1,6 @@
 # nonsense3/Basalt
 
-[![Stars](https://img.shields.io/github/stars/nonsense3/Basalt?style=flat-square&color=yellow)](https://github.com/nonsense3/Basalt/stargazers) [![Forks](https://img.shields.io/github/forks/nonsense3/Basalt?style=flat-square&color=blue)](https://github.com/nonsense3/Basalt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nonsense3/Basalt?style=flat-square&color=yellow)](https://github.com/nonsense3/Basalt/stargazers) [![Forks](https://img.shields.io/github/forks/nonsense3/Basalt?style=flat-square&color=blue)](https://github.com/nonsense3/Basalt/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Freelancer command bar powered by open-weight Gemma 4.  Basalt turns messy client notes into invoices, proposals, follow-ups, and scoped briefs — in one command. Built for the
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ nonsense3/Basalt：nonsense3/Basalt may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 62/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
