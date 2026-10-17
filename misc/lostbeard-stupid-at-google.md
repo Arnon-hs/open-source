@@ -60,18 +60,18 @@ LostBeard/stupid-at-google：LostBeard/stupid-at-google may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 33/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 45/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 0/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 33/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

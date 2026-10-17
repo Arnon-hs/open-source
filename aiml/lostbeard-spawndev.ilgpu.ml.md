@@ -65,18 +65,18 @@ LostBeard/SpawnDev.ILGPU.ML：LostBeard/SpawnDev.ILGPU.ML helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 57/100 |
-| integration | 30/100 |
-| production | 58/100 |
-| outlook | 60/100 |
-| adoption | 25/100 |
-| categoryMatchCount | 200/100 |
-| stars | 29/100 |
 | forks | 17/100 |
-| recency | 80/100 |
+| stars | 29/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 57/100 |
+| recency | 80/100 |
+| adoption | 25/100 |
+| production | 58/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

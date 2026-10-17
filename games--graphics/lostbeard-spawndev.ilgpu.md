@@ -63,18 +63,18 @@ LostBeard/SpawnDev.ILGPU：LostBeard/SpawnDev.ILGPU may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 59/100 |
-| integration | 30/100 |
-| production | 59/100 |
-| outlook | 61/100 |
-| adoption | 29/100 |
-| categoryMatchCount | 100/100 |
-| stars | 33/100 |
 | forks | 19/100 |
-| recency | 80/100 |
+| stars | 33/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 59/100 |
+| recency | 80/100 |
+| adoption | 29/100 |
+| production | 59/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Labreo/KTCL-CommuteShield](./labreo-ktcl-commuteshield.md) | ⭐ — | Python | 36/100 |
+| 1 | [Labreo/KTCL-CommuteShield](./labreo-ktcl-commuteshield.md) | ⭐ — | Python | 33/100 |
 | 2 | [google/gemma-2](./google-gemma-2.md) | ⭐ — | — | 27/100 |
 | 3 | [pri/TabPFN](./pri-tabpfn.md) | ⭐ — | — | 24/100 |
 | 4 | [evanbloom/biomusic](./evanbloom-biomusic.md) | ⭐ — | — | 24/100 |

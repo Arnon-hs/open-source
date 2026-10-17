@@ -61,18 +61,18 @@ LostBeard/SpawnDev.SpawnJS.BrowserExtension：LostBeard/SpawnDev.SpawnJS.Browser
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 33/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 45/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 0/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 33/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

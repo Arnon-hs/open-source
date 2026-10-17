@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40583** |
-| **Categories** | **502** |
+| **Projects** | **40590** |
+| **Categories** | **501** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15967 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4383 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15972 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4384 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2771 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2330 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
@@ -34,8 +34,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 781 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 679 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 640 | [Browse →](./networking/) |
-| 📱 **Mobile** | 624 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 606 | [Browse →](./knowledgerag/) |
+| 📱 **Mobile** | 626 | [Browse →](./mobile/) |
+| 🏷️ **Knowledgerag** | 607 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 593 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 531 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 508 | [Browse →](./devopsinfra/) |
@@ -64,7 +64,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 15 | [Browse →](./privacy/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
-| 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
+| 🏷️ **Claude-code** | 13 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
@@ -74,11 +74,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Go** | 6 | [Browse →](./go/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
-| 🏷️ **Offline-ai** | 6 | [Browse →](./offline-ai/) |
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
+| 🏷️ **Offline-ai** | 5 | [Browse →](./offline-ai/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
 | 🏷️ **Openapi** | 4 | [Browse →](./openapi/) |
@@ -167,7 +167,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Chinese-nlp** | 2 | [Browse →](./chinese-nlp/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Outdoor** | 2 | [Browse →](./outdoor/) |
-| 🏷️ **Bluetooth** | 2 | [Browse →](./bluetooth/) |
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
 | 🏷️ **Desktop-automation** | 2 | [Browse →](./desktop-automation/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
@@ -194,6 +193,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Graph-database** | 1 | [Browse →](./graph-database/) |
 | 🏷️ **Citationaudit** | 1 | [Browse →](./citationaudit/) |
 | 🏷️ **Menu-translation** | 1 | [Browse →](./menu-translation/) |
 | 🏷️ **Metadata** | 1 | [Browse →](./metadata/) |
@@ -382,7 +382,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Nlp** | 1 | [Browse →](./nlp/) |
 | 🏷️ **Recommendation** | 1 | [Browse →](./recommendation/) |
 | 🏷️ **Dataset-provenance** | 1 | [Browse →](./dataset-provenance/) |
-| 🏷️ **Hardware-diagnostics** | 1 | [Browse →](./hardware-diagnostics/) |
 | 🏷️ **Ai-workflow** | 1 | [Browse →](./ai-workflow/) |
 | 🏷️ **Privacy-first** | 1 | [Browse →](./privacy-first/) |
 | 🏷️ **Webdev** | 1 | [Browse →](./webdev/) |
