@@ -62,18 +62,18 @@ apple/container：apple/container may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 64/100 |
-| outlook | 70/100 |
-| adoption | 95/100 |
-| categoryMatchCount | 0/100 |
-| stars | 100/100 |
 | forks | 81/100 |
-| recency | 80/100 |
+| stars | 100/100 |
 | topics | 0/100 |
+| outlook | 70/100 |
+| quality | 73/100 |
+| recency | 80/100 |
+| adoption | 95/100 |
+| production | 64/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

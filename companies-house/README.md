@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Alessandro114/uk-fastest-growing-companies](./alessandro114-uk-fastest-growing-companies.md) | ⭐ — | JavaScript | 59/100 |
+| 1 | [Alessandro114/uk-fastest-growing-companies](./alessandro114-uk-fastest-growing-companies.md) | ⭐ — | JavaScript | 56/100 |
 
 ---
 
