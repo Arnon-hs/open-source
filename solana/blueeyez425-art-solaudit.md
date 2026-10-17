@@ -1,6 +1,6 @@
 # blueeyez425-art/solaudit
 
-[![Stars](https://img.shields.io/github/stars/blueeyez425-art/solaudit?style=flat-square&color=yellow)](https://github.com/blueeyez425-art/solaudit/stargazers) [![Forks](https://img.shields.io/github/forks/blueeyez425-art/solaudit?style=flat-square&color=blue)](https://github.com/blueeyez425-art/solaudit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/blueeyez425-art/solaudit?style=flat-square&color=yellow)](https://github.com/blueeyez425-art/solaudit/stargazers) [![Forks](https://img.shields.io/github/forks/blueeyez425-art/solaudit?style=flat-square&color=blue)](https://github.com/blueeyez425-art/solaudit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source static analysis CLI for Anchor/Solana programs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ blueeyez425-art/solaudit：blueeyez425-art/solaudit may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 54/100 |
+| production | 53/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

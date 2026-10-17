@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [blueeyez425-art/solaudit](./blueeyez425-art-solaudit.md) | ⭐ — | TypeScript | 49/100 |
+| 1 | [blueeyez425-art/solaudit](./blueeyez425-art-solaudit.md) | ⭐ — | TypeScript | 46/100 |
 
 ---
 
