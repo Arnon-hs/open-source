@@ -1,6 +1,6 @@
 # nirmaljosephukken/pylon-player
 
-[![Stars](https://img.shields.io/github/stars/nirmaljosephukken/pylon-player?style=flat-square&color=yellow)](https://github.com/nirmaljosephukken/pylon-player/stargazers) [![Forks](https://img.shields.io/github/forks/nirmaljosephukken/pylon-player?style=flat-square&color=blue)](https://github.com/nirmaljosephukken/pylon-player/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nirmaljosephukken/pylon-player?style=flat-square&color=yellow)](https://github.com/nirmaljosephukken/pylon-player/stargazers) [![Forks](https://img.shields.io/github/forks/nirmaljosephukken/pylon-player?style=flat-square&color=blue)](https://github.com/nirmaljosephukken/pylon-player/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A calmer, redesigned interface for the VLC engine on Windows. Hover-only controls, drag-to-sync subtitle timeline, per-show presets, library and queue. Based on Juxtopposed's VLC redesign.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ nirmaljosephukken/pylon-player：nirmaljosephukken/pylon-player helps turn media
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sea2709/career-exploration-agent](./sea2709-career-exploration-agent.md) | ⭐ — | TypeScript | 41/100 |
-| 2 | [sea2709/career-exploration-studio](./sea2709-career-exploration-studio.md) | ⭐ — | TypeScript | 36/100 |
+| 1 | [sea2709/career-exploration-agent](./sea2709-career-exploration-agent.md) | ⭐ — | TypeScript | 38/100 |
+| 2 | [sea2709/career-exploration-studio](./sea2709-career-exploration-studio.md) | ⭐ — | TypeScript | 33/100 |
 
 ---
 
