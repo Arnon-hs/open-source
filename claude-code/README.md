@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [sagaga144/claude-harness-bootstrap](./sagaga144-claude-harness-bootstrap.md) | ⭐ 1 | JavaScript | 58/100 |
 | 2 | [yahav10/plan-live](./yahav10-plan-live.md) | ⭐ — | JavaScript | 56/100 |
-| 3 | [shanjeevrajendran/cloakroom](./shanjeevrajendran-cloakroom.md) | ⭐ — | Python | 54/100 |
+| 3 | [shanjeevrajendran/cloakroom](./shanjeevrajendran-cloakroom.md) | ⭐ — | Python | 51/100 |
 | 4 | [orvi2014/hatswap](./orvi2014-hatswap.md) | ⭐ — | Shell | 51/100 |
 | 5 | [Kruhlikau/subagent-tuner](./kruhlikau-subagent-tuner.md) | ⭐ — | TypeScript | 50/100 |
 | 6 | [Gleaming0427/monument](./gleaming0427-monument.md) | ⭐ 1 | JavaScript | 47/100 |

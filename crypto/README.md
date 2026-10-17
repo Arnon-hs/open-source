@@ -167,8 +167,8 @@
 | 157 | [drduh/YubiKey-Guide](./drduh-yubikey-guide.md) | ⭐ 12.4k | HTML | 66/100 |
 | 158 | [zeriontech/zerion-ai](./zeriontech-zerion-ai.md) | ⭐ 54 | JavaScript | 66/100 |
 | 159 | [TraderAlice/OpenAlice](./traderalice-openalice.md) | ⭐ 6.1k | TypeScript | 66/100 |
-| 160 | [tradingstrategy-ai/trading-strategy](./tradingstrategy-ai-trading-strategy.md) | ⭐ 371 | Python | 66/100 |
-| 161 | [squidKid-deluxe/QTradeX-Algo-Trading-SDK](./squidkid-deluxe-qtradex-algo-trading-sdk.md) | ⭐ 82 | Python | 66/100 |
+| 160 | [squidKid-deluxe/QTradeX-Algo-Trading-SDK](./squidkid-deluxe-qtradex-algo-trading-sdk.md) | ⭐ 82 | Python | 66/100 |
+| 161 | [tradingstrategy-ai/trading-strategy](./tradingstrategy-ai-trading-strategy.md) | ⭐ 371 | Python | 66/100 |
 | 162 | [PFund-Software-Ltd/pfund](./pfund-software-ltd-pfund.md) | ⭐ 66 | Python | 66/100 |
 | 163 | [TorchTrade/torchtrade](./torchtrade-torchtrade.md) | ⭐ 400 | Python | 66/100 |
 | 164 | [xca-sh/xcash](./xca-sh-xcash.md) | ⭐ 145 | Python | 66/100 |
@@ -258,8 +258,8 @@
 | 248 | [planetarium/NineChronicles](./planetarium-ninechronicles.md) | ⭐ 402 | C# | 63/100 |
 | 249 | [blockscout/blockscout](./blockscout-blockscout.md) | ⭐ 4.5k | Elixir | 63/100 |
 | 250 | [apibara/dna](./apibara-dna.md) | ⭐ 217 | Rust | 63/100 |
-| 251 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 63/100 |
-| 252 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 63/100 |
+| 251 | [freqtrade/freqtrade](./freqtrade-freqtrade.md) | ⭐ 50k | Python | 63/100 |
+| 252 | [Drakkar-Software/OctoBot](./drakkar-software-octobot.md) | ⭐ 5.9k | Python | 63/100 |
 | 253 | [graphprotocol/graph-node](./graphprotocol-graph-node.md) | ⭐ 3.1k | Rust | 63/100 |
 | 254 | [thegeronimo/hyperopen](./thegeronimo-hyperopen.md) | ⭐ 45 | Clojure | 62/100 |
 | 255 | [binance/binance-skills-hub](./binance-binance-skills-hub.md) | ⭐ 956 | Python | 62/100 |
@@ -301,9 +301,9 @@
 | 291 | [WINwwwwww/agent-social](./winwwwwww-agent-social.md) | ⭐ 33 | JavaScript | 61/100 |
 | 292 | [solana-foundation/program-examples](./solana-foundation-program-examples.md) | ⭐ 1.4k | TypeScript | 61/100 |
 | 293 | [0xcregis/anychain](./0xcregis-anychain.md) | ⭐ 252 | Rust | 61/100 |
-| 294 | [besu-eth/besu-docs](./besu-eth-besu-docs.md) | ⭐ 88 | JavaScript | 61/100 |
-| 295 | [rodrigo-brito/ninjabot](./rodrigo-brito-ninjabot.md) | ⭐ 1.6k | Go | 61/100 |
-| 296 | [DimensionDev/Maskbook](./dimensiondev-maskbook.md) | ⭐ 1.6k | TypeScript | 61/100 |
+| 294 | [DimensionDev/Maskbook](./dimensiondev-maskbook.md) | ⭐ 1.6k | TypeScript | 61/100 |
+| 295 | [besu-eth/besu-docs](./besu-eth-besu-docs.md) | ⭐ 88 | JavaScript | 61/100 |
+| 296 | [rodrigo-brito/ninjabot](./rodrigo-brito-ninjabot.md) | ⭐ 1.6k | Go | 61/100 |
 | 297 | [openwisp/django-x509](./openwisp-django-x509.md) | ⭐ 351 | Python | 61/100 |
 | 298 | [protofire/solhint](./protofire-solhint.md) | ⭐ 1.1k | JavaScript | 61/100 |
 | 299 | [MIgHTy-alIeN/Trading-Bot](./mighty-alien-trading-bot.md) | ⭐ 89 | Solidity | 61/100 |

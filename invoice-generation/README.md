@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [pymupdf/PyMuPDF](./pymupdf-pymupdf.md) | ⭐ 10.9k | Python | 70/100 |
-| 2 | [abhinavnayak21/BillCraft-ai-x-MLH](./abhinavnayak21-billcraft-ai-x-mlh.md) | ⭐ — | TypeScript | 39/100 |
+| 2 | [abhinavnayak21/BillCraft-ai-x-MLH](./abhinavnayak21-billcraft-ai-x-mlh.md) | ⭐ — | TypeScript | 36/100 |
 | 3 | [LEWIS-LEO/RapidOCR](./lewis-leo-rapidocr.md) | ⭐ — | — | 32/100 |
 
 ---
