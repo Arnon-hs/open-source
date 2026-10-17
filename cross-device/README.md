@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Guxiaodong941005/skepAgent](./guxiaodong941005-skepagent.md) | ⭐ 3 | TypeScript | 62/100 |
+| 1 | [Guxiaodong941005/skepAgent](./guxiaodong941005-skepagent.md) | ⭐ 3 | TypeScript | 58/100 |
 
 ---
 

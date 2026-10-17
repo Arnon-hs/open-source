@@ -1,6 +1,6 @@
 # Guxiaodong941005/skepAgent
 
-[![Stars](https://img.shields.io/github/stars/Guxiaodong941005/skepAgent?style=flat-square&color=yellow)](https://github.com/Guxiaodong941005/skepAgent/stargazers) [![Forks](https://img.shields.io/github/forks/Guxiaodong941005/skepAgent?style=flat-square&color=blue)](https://github.com/Guxiaodong941005/skepAgent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Guxiaodong941005/skepAgent?style=flat-square&color=yellow)](https://github.com/Guxiaodong941005/skepAgent/stargazers) [![Forks](https://img.shields.io/github/forks/Guxiaodong941005/skepAgent?style=flat-square&color=blue)](https://github.com/Guxiaodong941005/skepAgent/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-device live sessions for AI coding agents (Claude / Codex / Pi). Master + join code; keys stay on each device.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Guxiaodong941005/skepAgent：Guxiaodong941005/skepAgent may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 70/100 |
+| production | 60/100 |
+| outlook | 63/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 400/100 |
 | stars | 13/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
