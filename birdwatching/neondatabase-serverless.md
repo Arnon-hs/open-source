@@ -1,6 +1,6 @@
 # neondatabase/serverless
 
-[![Stars](https://img.shields.io/github/stars/neondatabase/serverless?style=flat-square&color=yellow)](https://github.com/neondatabase/serverless/stargazers) [![Forks](https://img.shields.io/github/forks/neondatabase/serverless?style=flat-square&color=blue)](https://github.com/neondatabase/serverless/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neondatabase/serverless?style=flat-square&color=yellow)](https://github.com/neondatabase/serverless/stargazers) [![Forks](https://img.shields.io/github/forks/neondatabase/serverless?style=flat-square&color=blue)](https://github.com/neondatabase/serverless/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Connect to Neon PostgreSQL from serverless/worker/edge functions
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 552 |
 | 🍴 **Forks** | 84 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ neondatabase/serverless：neondatabase/serverless may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 65/100 |
+| outlook | 67/100 |
 | adoption | 56/100 |
 | categoryMatchCount | 700/100 |
 | stars | 58/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
