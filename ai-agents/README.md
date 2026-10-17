@@ -11,7 +11,7 @@
 | 1 | [DroBov1Tya/PentaCore](./drobov1tya-pentacore.md) | ⭐ 3 | Rust | 61/100 |
 | 2 | [juandelossantos/another-agent-skills](./juandelossantos-another-agent-skills.md) | ⭐ 1 | Shell | 61/100 |
 | 3 | [AgenticFinanceGraph/agentic-finance-graph-mcp](./agenticfinancegraph-agentic-finance-graph-mcp.md) | ⭐ — | JavaScript | 60/100 |
-| 4 | [Superstos/Eonrise](./superstos-eonrise.md) | ⭐ — | Python | 59/100 |
+| 4 | [Superstos/Eonrise](./superstos-eonrise.md) | ⭐ — | Python | 56/100 |
 | 5 | [furoute/acp-lite](./furoute-acp-lite.md) | ⭐ — | Python | 51/100 |
 | 6 | [retailbox-automation/fleetmemory](./retailbox-automation-fleetmemory.md) | ⭐ — | Python | 48/100 |
 | 7 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
