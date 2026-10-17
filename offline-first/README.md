@@ -9,11 +9,11 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [I1gorr/touch_grass](./i1gorr-touch-grass.md) | ⭐ — | TypeScript | 40/100 |
-| 2 | [Mohammad1sami/gym_ledger](./mohammad1sami-gym-ledger.md) | ⭐ — | Dart | 36/100 |
-| 3 | [Kings-creation/nature-quest](./kings-creation-nature-quest.md) | ⭐ — | JavaScript | 36/100 |
-| 4 | [MeetMittan/PlantGuard](./meetmittan-plantguard.md) | ⭐ — | TypeScript | 36/100 |
-| 5 | [LakshChinchmalatpure/HacktroberFest_dev_challenge](./lakshchinchmalatpure-hacktroberfest-dev-challenge.md) | ⭐ — | TypeScript | 36/100 |
-| 6 | [karanray06/trailhead](./karanray06-trailhead.md) | ⭐ — | TypeScript | 36/100 |
+| 2 | [Kings-creation/nature-quest](./kings-creation-nature-quest.md) | ⭐ — | JavaScript | 36/100 |
+| 3 | [MeetMittan/PlantGuard](./meetmittan-plantguard.md) | ⭐ — | TypeScript | 36/100 |
+| 4 | [LakshChinchmalatpure/HacktroberFest_dev_challenge](./lakshchinchmalatpure-hacktroberfest-dev-challenge.md) | ⭐ — | TypeScript | 36/100 |
+| 5 | [karanray06/trailhead](./karanray06-trailhead.md) | ⭐ — | TypeScript | 36/100 |
+| 6 | [Mohammad1sami/gym_ledger](./mohammad1sami-gym-ledger.md) | ⭐ — | Dart | 33/100 |
 | 7 | [Yash990-bit/WildPulse](./yash990-bit-wildpulse.md) | ⭐ — | JavaScript | 33/100 |
 | 8 | [mahip1111/hacktoberfest_2](./mahip1111-hacktoberfest-2.md) | ⭐ — | — | 24/100 |
 | 9 | [sohaibtausif141/sit-spot](./sohaibtausif141-sit-spot.md) | ⭐ — | — | 24/100 |
