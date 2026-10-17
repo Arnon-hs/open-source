@@ -2,7 +2,7 @@
 
 > 
 
-**298 projects** in this category.
+**299 projects** in this category.
 
 ## Projects
 
@@ -280,32 +280,33 @@
 | 270 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ — | — | 41/100 |
 | 271 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 41/100 |
 | 272 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 337 | Rust | 41/100 |
-| 273 | [nixys/nxs-anomaly](./nixys-nxs-anomaly.md) | ⭐ — | — | 40/100 |
-| 274 | [reachjalil/jevlogs](./reachjalil-jevlogs.md) | ⭐ 1 | TypeScript | 40/100 |
-| 275 | [arywk40-hue/citetutor](./arywk40-hue-citetutor.md) | ⭐ — | Python | 39/100 |
-| 276 | [Rishikesh-glitch/Cloakwall-v0.1](./rishikesh-glitch-cloakwall-v0.1.md) | ⭐ — | — | 38/100 |
-| 277 | [llm-measurement/otelcol-genai-sketches](./llm-measurement-otelcol-genai-sketches.md) | ⭐ — | — | 38/100 |
-| 278 | [ykjit/yk](./ykjit-yk.md) | ⭐ — | — | 38/100 |
-| 279 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ — | — | 38/100 |
-| 280 | [superwired-labs/Pulp](./superwired-labs-pulp.md) | ⭐ — | — | 38/100 |
-| 281 | [Rehanrana11/evidence-verify](./rehanrana11-evidence-verify.md) | ⭐ — | — | 38/100 |
-| 282 | [HimitsuShell/HimitsuShell](./himitsushell-himitsushell.md) | ⭐ — | — | 38/100 |
-| 283 | [mcindi/siematic](./mcindi-siematic.md) | ⭐ — | — | 38/100 |
-| 284 | [ctrlb-hq/ctrlb-decompose](./ctrlb-hq-ctrlb-decompose.md) | ⭐ — | — | 38/100 |
-| 285 | [swiftlogicsystems/swifttopology](./swiftlogicsystems-swifttopology.md) | ⭐ — | — | 38/100 |
-| 286 | [JustinNarracott/ShadowGlass](./justinnarracott-shadowglass.md) | ⭐ — | — | 38/100 |
-| 287 | [endformdev/playwright-opentelemetry](./endformdev-playwright-opentelemetry.md) | ⭐ — | — | 38/100 |
-| 288 | [sanitizeai/logguardai](./sanitizeai-logguardai.md) | ⭐ — | — | 38/100 |
-| 289 | [skuznetsov/tokenomics-viewer](./skuznetsov-tokenomics-viewer.md) | ⭐ — | — | 38/100 |
-| 290 | [hieuha/LazyCamHUD](./hieuha-lazycamhud.md) | ⭐ — | — | 38/100 |
-| 291 | [halidecx/fmetrics](./halidecx-fmetrics.md) | ⭐ — | — | 38/100 |
-| 292 | [OmarH-creator/ShareClean](./omarh-creator-shareclean.md) | ⭐ — | — | 38/100 |
-| 293 | [superlinked/synty](./superlinked-synty.md) | ⭐ — | — | 38/100 |
-| 294 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 38/100 |
-| 295 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 38/100 |
-| 296 | [Claven07/dsh-plugin-agent-insights](./claven07-dsh-plugin-agent-insights.md) | ⭐ — | TypeScript | 38/100 |
-| 297 | [AyushSingh110/Failure_Intelligence_System](./ayushsingh110-failure-intelligence-system.md) | ⭐ 4 | Jupyter Notebook | 35/100 |
-| 298 | [Claven07/cordis](./claven07-cordis.md) | ⭐ — | — | 24/100 |
+| 273 | [Pager-dot/AeroVision](./pager-dot-aerovision.md) | ⭐ — | HTML | 40/100 |
+| 274 | [nixys/nxs-anomaly](./nixys-nxs-anomaly.md) | ⭐ — | — | 40/100 |
+| 275 | [reachjalil/jevlogs](./reachjalil-jevlogs.md) | ⭐ 1 | TypeScript | 40/100 |
+| 276 | [arywk40-hue/citetutor](./arywk40-hue-citetutor.md) | ⭐ — | Python | 39/100 |
+| 277 | [Rishikesh-glitch/Cloakwall-v0.1](./rishikesh-glitch-cloakwall-v0.1.md) | ⭐ — | — | 38/100 |
+| 278 | [llm-measurement/otelcol-genai-sketches](./llm-measurement-otelcol-genai-sketches.md) | ⭐ — | — | 38/100 |
+| 279 | [ykjit/yk](./ykjit-yk.md) | ⭐ — | — | 38/100 |
+| 280 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ — | — | 38/100 |
+| 281 | [superwired-labs/Pulp](./superwired-labs-pulp.md) | ⭐ — | — | 38/100 |
+| 282 | [Rehanrana11/evidence-verify](./rehanrana11-evidence-verify.md) | ⭐ — | — | 38/100 |
+| 283 | [HimitsuShell/HimitsuShell](./himitsushell-himitsushell.md) | ⭐ — | — | 38/100 |
+| 284 | [mcindi/siematic](./mcindi-siematic.md) | ⭐ — | — | 38/100 |
+| 285 | [ctrlb-hq/ctrlb-decompose](./ctrlb-hq-ctrlb-decompose.md) | ⭐ — | — | 38/100 |
+| 286 | [swiftlogicsystems/swifttopology](./swiftlogicsystems-swifttopology.md) | ⭐ — | — | 38/100 |
+| 287 | [JustinNarracott/ShadowGlass](./justinnarracott-shadowglass.md) | ⭐ — | — | 38/100 |
+| 288 | [endformdev/playwright-opentelemetry](./endformdev-playwright-opentelemetry.md) | ⭐ — | — | 38/100 |
+| 289 | [sanitizeai/logguardai](./sanitizeai-logguardai.md) | ⭐ — | — | 38/100 |
+| 290 | [skuznetsov/tokenomics-viewer](./skuznetsov-tokenomics-viewer.md) | ⭐ — | — | 38/100 |
+| 291 | [hieuha/LazyCamHUD](./hieuha-lazycamhud.md) | ⭐ — | — | 38/100 |
+| 292 | [halidecx/fmetrics](./halidecx-fmetrics.md) | ⭐ — | — | 38/100 |
+| 293 | [OmarH-creator/ShareClean](./omarh-creator-shareclean.md) | ⭐ — | — | 38/100 |
+| 294 | [superlinked/synty](./superlinked-synty.md) | ⭐ — | — | 38/100 |
+| 295 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 38/100 |
+| 296 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 38/100 |
+| 297 | [Claven07/dsh-plugin-agent-insights](./claven07-dsh-plugin-agent-insights.md) | ⭐ — | TypeScript | 38/100 |
+| 298 | [AyushSingh110/Failure_Intelligence_System](./ayushsingh110-failure-intelligence-system.md) | ⭐ 4 | Jupyter Notebook | 35/100 |
+| 299 | [Claven07/cordis](./claven07-cordis.md) | ⭐ — | — | 24/100 |
 
 ---
 

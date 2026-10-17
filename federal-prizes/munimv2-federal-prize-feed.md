@@ -1,6 +1,6 @@
 # munimv2/federal-prize-feed
 
-[![Stars](https://img.shields.io/github/stars/munimv2/federal-prize-feed?style=flat-square&color=yellow)](https://github.com/munimv2/federal-prize-feed/stargazers) [![Forks](https://img.shields.io/github/forks/munimv2/federal-prize-feed?style=flat-square&color=blue)](https://github.com/munimv2/federal-prize-feed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/munimv2/federal-prize-feed?style=flat-square&color=yellow)](https://github.com/munimv2/federal-prize-feed/stargazers) [![Forks](https://img.shields.io/github/forks/munimv2/federal-prize-feed?style=flat-square&color=blue)](https://github.com/munimv2/federal-prize-feed/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Open U.S. federal prize competitions as JSON, CSV, Atom and a deadline calendar: USA.gov's list (Challenge.gov's successor), agency-only challenges and Federal Register prize notices. By MV2 of Munim, Inc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ munimv2/federal-prize-feed：munimv2/federal-prize-feed may be useful when its R
 - primary language: Python
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 58/100 |
+| production | 57/100 |
+| outlook | 51/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

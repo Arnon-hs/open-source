@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [munimv2/gems-fault-mapping](./munimv2-gems-fault-mapping.md) | ⭐ — | Python | 50/100 |
+| 1 | [munimv2/gems-fault-mapping](./munimv2-gems-fault-mapping.md) | ⭐ — | Python | 47/100 |
 
 ---
 

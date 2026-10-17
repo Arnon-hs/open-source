@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [munimv2/federal-prize-feed](./munimv2-federal-prize-feed.md) | ⭐ — | Python | 49/100 |
+| 1 | [munimv2/federal-prize-feed](./munimv2-federal-prize-feed.md) | ⭐ — | Python | 46/100 |
 
 ---
 

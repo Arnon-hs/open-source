@@ -62,18 +62,18 @@ cassandra/home-information：cassandra/home-information may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 54/100 |
-| adoption | 57/100 |
-| categoryMatchCount | 0/100 |
-| stars | 62/100 |
 | forks | 45/100 |
-| recency | 60/100 |
+| stars | 62/100 |
 | topics | 0/100 |
+| outlook | 54/100 |
+| quality | 51/100 |
+| recency | 60/100 |
+| adoption | 57/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
