@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40545** |
-| **Categories** | **498** |
+| **Projects** | **40548** |
+| **Categories** | **497** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15946 | [Browse →](./misc/) |
+| 📦 **Misc** | 15950 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4380 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2770 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
@@ -59,15 +59,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 29 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
-| 🏷️ **Privacy** | 18 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
+| 🏷️ **Privacy** | 17 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 17 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
+| 🏷️ **Local-ai** | 10 | [Browse →](./local-ai/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
-| 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
@@ -381,7 +381,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Webdev** | 1 | [Browse →](./webdev/) |
 | 🏷️ **Agent-debugging** | 1 | [Browse →](./agent-debugging/) |
 | 🏷️ **Hermes-agent** | 1 | [Browse →](./hermes-agent/) |
-| 🏷️ **Home-network** | 1 | [Browse →](./home-network/) |
 | 🏷️ **Repo-stars** | 1 | [Browse →](./repo-stars/) |
 | 🏷️ **Karaoke** | 1 | [Browse →](./karaoke/) |
 | 🏷️ **Muse-code** | 1 | [Browse →](./muse-code/) |
