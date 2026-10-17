@@ -26,11 +26,11 @@
 | 16 | [gemkids275/AIShortcuts](./gemkids275-aishortcuts.md) | ⭐ 11 | Swift | 49/100 |
 | 17 | [tanaikech/alphaevolve-multi-hazard](./tanaikech-alphaevolve-multi-hazard.md) | ⭐ — | Python | 47/100 |
 | 18 | [indra112f/claimcheck](./indra112f-claimcheck.md) | ⭐ — | Python | 46/100 |
-| 19 | [rudratoshs/honest-lister](./rudratoshs-honest-lister.md) | ⭐ — | Python | 46/100 |
-| 20 | [Tchesseludovic17-cloud/ingravity](./tchesseludovic17-cloud-ingravity.md) | ⭐ — | TypeScript | 46/100 |
-| 21 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |
-| 22 | [ssanaullahrais/Chat-Vault](./ssanaullahrais-chat-vault.md) | ⭐ 1 | TypeScript | 43/100 |
-| 23 | [hafeezmt/listingwriter](./hafeezmt-listingwriter.md) | ⭐ — | Python | 43/100 |
+| 19 | [Tchesseludovic17-cloud/ingravity](./tchesseludovic17-cloud-ingravity.md) | ⭐ — | TypeScript | 46/100 |
+| 20 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |
+| 21 | [ssanaullahrais/Chat-Vault](./ssanaullahrais-chat-vault.md) | ⭐ 1 | TypeScript | 43/100 |
+| 22 | [hafeezmt/listingwriter](./hafeezmt-listingwriter.md) | ⭐ — | Python | 43/100 |
+| 23 | [rudratoshs/honest-lister](./rudratoshs-honest-lister.md) | ⭐ — | Python | 43/100 |
 | 24 | [ashwintemkar/opentrips](./ashwintemkar-opentrips.md) | ⭐ — | TypeScript | 43/100 |
 | 25 | [gandhiprey13/FRIDAY-STARK-OS](./gandhiprey13-friday-stark-os.md) | ⭐ — | — | 42/100 |
 | 26 | [rudrakshk25060-csds/solobooks-ai](./rudrakshk25060-csds-solobooks-ai.md) | ⭐ — | Python | 42/100 |

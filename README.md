@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40596** |
+| **Projects** | **40598** |
 | **Categories** | **502** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15975 | [Browse →](./misc/) |
+| 📦 **Misc** | 15976 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4384 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2771 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2330 | [Browse →](./orchestration/) |
@@ -61,7 +61,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 17 | [Browse →](./llm/) |
-| 🏷️ **Privacy** | 15 | [Browse →](./privacy/) |
+| 🏷️ **Privacy** | 16 | [Browse →](./privacy/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Claude-code** | 13 | [Browse →](./claude-code/) |

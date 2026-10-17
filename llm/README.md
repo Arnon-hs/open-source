@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Ashveil1/dot-mcp](./ashveil1-dot-mcp.md) | ⭐ 2 | Python | 59/100 |
+| 1 | [Ashveil1/dot-mcp](./ashveil1-dot-mcp.md) | ⭐ 2 | Python | 56/100 |
 | 2 | [scrapy/protego](./scrapy-protego.md) | ⭐ 94 | DIGITAL Command Language | 54/100 |
 | 3 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 54/100 |
 | 4 | [prashijain-ai/SponsorPulse-](./prashijain-ai-sponsorpulse-.md) | ⭐ — | HTML | 46/100 |

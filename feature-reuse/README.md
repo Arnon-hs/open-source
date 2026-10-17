@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [punsnprotons/portsmith](./punsnprotons-portsmith.md) | ⭐ 1 | JavaScript | 73/100 |
+| 1 | [punsnprotons/portsmith](./punsnprotons-portsmith.md) | ⭐ 1 | JavaScript | 70/100 |
 
 ---
 
