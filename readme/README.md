@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 56/100 |
+| 1 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 
 ---
 

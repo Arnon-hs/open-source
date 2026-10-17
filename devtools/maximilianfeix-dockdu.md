@@ -1,6 +1,6 @@
 # maximilianfeix/dockdu
 
-[![Stars](https://img.shields.io/github/stars/maximilianfeix/dockdu?style=flat-square&color=yellow)](https://github.com/maximilianfeix/dockdu/stargazers) [![Forks](https://img.shields.io/github/forks/maximilianfeix/dockdu?style=flat-square&color=blue)](https://github.com/maximilianfeix/dockdu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maximilianfeix/dockdu?style=flat-square&color=yellow)](https://github.com/maximilianfeix/dockdu/stargazers) [![Forks](https://img.shields.io/github/forks/maximilianfeix/dockdu?style=flat-square&color=blue)](https://github.com/maximilianfeix/dockdu/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Find out where Docker's disk space actually went, and what prune would NOT give back. Read-only, one command.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ maximilianfeix/dockdu：maximilianfeix/dockdu helps engineers save time in daily
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 94/100 |
-| production | 70/100 |
-| outlook | 67/100 |
+| production | 63/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

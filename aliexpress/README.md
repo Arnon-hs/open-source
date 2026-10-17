@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [helgard-orlm/pricehunt](./helgard-orlm-pricehunt.md) | ⭐ — | Python | 42/100 |
+| 1 | [helgard-orlm/pricehunt](./helgard-orlm-pricehunt.md) | ⭐ — | Python | 39/100 |
 
 ---
 

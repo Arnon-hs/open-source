@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40661** |
+| **Projects** | **40665** |
 | **Categories** | **511** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16006 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4386 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16008 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4387 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2773 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2330 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 177 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 146 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 103 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 102 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Open-source** | 32 | [Browse →](./open-source/) |
 | 🏷️ **Offline** | 32 | [Browse →](./offline/) |
@@ -96,6 +96,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
+| 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Php** | 3 | [Browse →](./php/) |
 | 🏷️ **Embedded** | 3 | [Browse →](./embedded/) |
 | 🏷️ **Small-business** | 3 | [Browse →](./small-business/) |
@@ -121,6 +122,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Graph-database** | 2 | [Browse →](./graph-database/) |
 | 🏷️ **Xapi** | 2 | [Browse →](./xapi/) |
 | 🏷️ **Evm** | 2 | [Browse →](./evm/) |
 | 🏷️ **Secondhand** | 2 | [Browse →](./secondhand/) |
@@ -177,7 +179,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
 | 🏷️ **Desktop-automation** | 2 | [Browse →](./desktop-automation/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
-| 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
 | 🏷️ **Webgpu** | 2 | [Browse →](./webgpu/) |
@@ -198,6 +199,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Blood-donation** | 1 | [Browse →](./blood-donation/) |
 | 🏷️ **Family-tree** | 1 | [Browse →](./family-tree/) |
 | 🏷️ **Cashflow** | 1 | [Browse →](./cashflow/) |
 | 🏷️ **Receipt** | 1 | [Browse →](./receipt/) |
@@ -207,7 +209,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Government-tender** | 1 | [Browse →](./government-tender/) |
 | 🏷️ **Distributed-computing** | 1 | [Browse →](./distributed-computing/) |
 | 🏷️ **Video** | 1 | [Browse →](./video/) |
-| 🏷️ **Graph-database** | 1 | [Browse →](./graph-database/) |
 | 🏷️ **Citationaudit** | 1 | [Browse →](./citationaudit/) |
 | 🏷️ **Menu-translation** | 1 | [Browse →](./menu-translation/) |
 | 🏷️ **Metadata** | 1 | [Browse →](./metadata/) |
@@ -389,7 +390,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hash-chain** | 1 | [Browse →](./hash-chain/) |
 | 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
 | 🏷️ **Doomscroll** | 1 | [Browse →](./doomscroll/) |
-| 🏷️ **Nature** | 1 | [Browse →](./nature/) |
 | 🏷️ **Coding-assistants** | 1 | [Browse →](./coding-assistants/) |
 | 🏷️ **Apple-ads** | 1 | [Browse →](./apple-ads/) |
 | 🏷️ **Nlp** | 1 | [Browse →](./nlp/) |
