@@ -1,6 +1,6 @@
 # tanaikech/alphaevolve-multi-hazard
 
-[![Stars](https://img.shields.io/github/stars/tanaikech/alphaevolve-multi-hazard?style=flat-square&color=yellow)](https://github.com/tanaikech/alphaevolve-multi-hazard/stargazers) [![Forks](https://img.shields.io/github/forks/tanaikech/alphaevolve-multi-hazard?style=flat-square&color=blue)](https://github.com/tanaikech/alphaevolve-multi-hazard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tanaikech/alphaevolve-multi-hazard?style=flat-square&color=yellow)](https://github.com/tanaikech/alphaevolve-multi-hazard/stargazers) [![Forks](https://img.shields.io/github/forks/tanaikech/alphaevolve-multi-hazard?style=flat-square&color=blue)](https://github.com/tanaikech/alphaevolve-multi-hazard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Autonomous discovery of a unified multi-hazard prediction theory (convective rainstorms, earthquake LAIC precursors, and volcanic Lamb waves) from crowdsourced IoT weather sensor networks via AlphaEvolve (Gemini 3.8 Flash).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ tanaikech/alphaevolve-multi-hazard：tanaikech/alphaevolve-multi-hazard may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 60/100 |
+| production | 58/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

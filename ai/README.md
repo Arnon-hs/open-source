@@ -23,9 +23,9 @@
 | 13 | [RobinaMirbahar/cozy-ai-agent-cafe-game](./robinamirbahar-cozy-ai-agent-cafe-game.md) | ⭐ — | JavaScript | 54/100 |
 | 14 | [AnonymousOnyx22/brightspace-d2l-mcp](./anonymousonyx22-brightspace-d2l-mcp.md) | ⭐ 2 | TypeScript | 53/100 |
 | 15 | [AncientiCe/mcp-warden](./ancientice-mcp-warden.md) | ⭐ 1 | Rust | 53/100 |
-| 16 | [tanaikech/alphaevolve-multi-hazard](./tanaikech-alphaevolve-multi-hazard.md) | ⭐ — | Python | 50/100 |
-| 17 | [gemkids275/AIShortcuts](./gemkids275-aishortcuts.md) | ⭐ 11 | Swift | 49/100 |
-| 18 | [HarshAggarwal1/touchgrass](./harshaggarwal1-touchgrass.md) | ⭐ — | JavaScript | 49/100 |
+| 16 | [gemkids275/AIShortcuts](./gemkids275-aishortcuts.md) | ⭐ 11 | Swift | 49/100 |
+| 17 | [HarshAggarwal1/touchgrass](./harshaggarwal1-touchgrass.md) | ⭐ — | JavaScript | 49/100 |
+| 18 | [tanaikech/alphaevolve-multi-hazard](./tanaikech-alphaevolve-multi-hazard.md) | ⭐ — | Python | 47/100 |
 | 19 | [rudratoshs/honest-lister](./rudratoshs-honest-lister.md) | ⭐ — | Python | 46/100 |
 | 20 | [Tchesseludovic17-cloud/ingravity](./tchesseludovic17-cloud-ingravity.md) | ⭐ — | TypeScript | 46/100 |
 | 21 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |

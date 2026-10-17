@@ -1,6 +1,6 @@
 # P4Software/SheetStream
 
-[![Stars](https://img.shields.io/github/stars/P4Software/SheetStream?style=flat-square&color=yellow)](https://github.com/P4Software/SheetStream/stargazers) [![Forks](https://img.shields.io/github/forks/P4Software/SheetStream?style=flat-square&color=blue)](https://github.com/P4Software/SheetStream/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/P4Software/SheetStream?style=flat-square&color=yellow)](https://github.com/P4Software/SheetStream/stargazers) [![Forks](https://img.shields.io/github/forks/P4Software/SheetStream?style=flat-square&color=blue)](https://github.com/P4Software/SheetStream/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Fast, zero-dependency, MIT-licensed .xlsx library for .NET. Streams millions of rows with flat memory: tables, charts, conditional formatting, templates and a streaming reader. A free EPPlus alternative.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ P4Software/SheetStream：P4Software/SheetStream may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 57/100 |
+| outlook | 57/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
