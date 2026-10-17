@@ -1,6 +1,6 @@
 # chowyu12/aiclaw
 
-[![Stars](https://img.shields.io/github/stars/chowyu12/aiclaw?style=flat-square&color=yellow)](https://github.com/chowyu12/aiclaw/stargazers) [![Forks](https://img.shields.io/github/forks/chowyu12/aiclaw?style=flat-square&color=blue)](https://github.com/chowyu12/aiclaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chowyu12/aiclaw?style=flat-square&color=yellow)](https://github.com/chowyu12/aiclaw/stargazers) [![Forks](https://img.shields.io/github/forks/chowyu12/aiclaw?style=flat-square&color=blue)](https://github.com/chowyu12/aiclaw/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A local-first Agent control plane for tools, skills, plans, and multi-channel automation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ chowyu12/aiclaw：chowyu12/aiclaw may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 71/100 |
+| production | 57/100 |
+| outlook | 64/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

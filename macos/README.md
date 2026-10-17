@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [s3onghyun/bulchimbeon](./s3onghyun-bulchimbeon.md) | ⭐ 1 | Swift | 49/100 |
+| 1 | [s3onghyun/bulchimbeon](./s3onghyun-bulchimbeon.md) | ⭐ 1 | Swift | 46/100 |
 | 2 | [adfd3ewdf3/FinderBack](./adfd3ewdf3-finderback.md) | ⭐ — | Swift | 44/100 |
 | 3 | [orlandoascanio/Bare](./orlandoascanio-bare.md) | ⭐ — | Swift | 42/100 |
 | 4 | [siliconbag/under-the-rug](./siliconbag-under-the-rug.md) | ⭐ 7 | Swift | 42/100 |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [chowyu12/aiclaw](./chowyu12-aiclaw.md) | ⭐ 3 | Go | 62/100 |
+| 1 | [chowyu12/aiclaw](./chowyu12-aiclaw.md) | ⭐ 3 | Go | 58/100 |
 
 ---
 

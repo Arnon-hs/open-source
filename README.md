@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40542** |
-| **Categories** | **500** |
+| **Projects** | **40545** |
+| **Categories** | **498** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15942 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4379 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15946 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4380 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2770 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
@@ -57,7 +57,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 34 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
-| 🏷️ **Open-source** | 28 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 29 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Privacy** | 18 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
@@ -65,7 +65,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
-| 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
+| 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
@@ -382,8 +382,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-debugging** | 1 | [Browse →](./agent-debugging/) |
 | 🏷️ **Hermes-agent** | 1 | [Browse →](./hermes-agent/) |
 | 🏷️ **Home-network** | 1 | [Browse →](./home-network/) |
-| 🏷️ **Ai-debugging** | 1 | [Browse →](./ai-debugging/) |
-| 🏷️ **Capture** | 1 | [Browse →](./capture/) |
 | 🏷️ **Repo-stars** | 1 | [Browse →](./repo-stars/) |
 | 🏷️ **Karaoke** | 1 | [Browse →](./karaoke/) |
 | 🏷️ **Muse-code** | 1 | [Browse →](./muse-code/) |

@@ -1,6 +1,6 @@
 # s3onghyun/bulchimbeon
 
-[![Stars](https://img.shields.io/github/stars/s3onghyun/bulchimbeon?style=flat-square&color=yellow)](https://github.com/s3onghyun/bulchimbeon/stargazers) [![Forks](https://img.shields.io/github/forks/s3onghyun/bulchimbeon?style=flat-square&color=blue)](https://github.com/s3onghyun/bulchimbeon/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/s3onghyun/bulchimbeon?style=flat-square&color=yellow)](https://github.com/s3onghyun/bulchimbeon/stargazers) [![Forks](https://img.shields.io/github/forks/s3onghyun/bulchimbeon?style=flat-square&color=blue)](https://github.com/s3onghyun/bulchimbeon/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > 🪖 불침번 — Your Mac's night-watch soldier. Keeps your Mac awake only while AI agents work. No hooks, no daemon, macOS 13+.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ s3onghyun/bulchimbeon：s3onghyun/bulchimbeon may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 65/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

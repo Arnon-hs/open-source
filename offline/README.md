@@ -9,10 +9,10 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [jakearchibald/idb](./jakearchibald-idb.md) | ⭐ 7.4k | TypeScript | 57/100 |
-| 2 | [Zhiyilang/localledger](./zhiyilang-localledger.md) | ⭐ — | Python | 55/100 |
-| 3 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 55/100 |
-| 4 | [naudio/NAudio](./naudio-naudio.md) | ⭐ 6.2k | C# | 54/100 |
-| 5 | [magicstack-llp/zim-pro](./magicstack-llp-zim-pro.md) | ⭐ 2 | Python | 52/100 |
+| 2 | [facebookresearch/dinov2](./facebookresearch-dinov2.md) | ⭐ 13.4k | Jupyter Notebook | 55/100 |
+| 3 | [naudio/NAudio](./naudio-naudio.md) | ⭐ 6.2k | C# | 54/100 |
+| 4 | [magicstack-llp/zim-pro](./magicstack-llp-zim-pro.md) | ⭐ 2 | Python | 52/100 |
+| 5 | [Zhiyilang/localledger](./zhiyilang-localledger.md) | ⭐ — | Python | 52/100 |
 | 6 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 7 | [Anandb71/kadacard](./anandb71-kadacard.md) | ⭐ — | TypeScript | 46/100 |
 | 8 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 40/100 |
