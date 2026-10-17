@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jitokim/oh-my-graph](./jitokim-oh-my-graph.md) | ⭐ 11 | Go | 63/100 |
+| 1 | [jitokim/oh-my-graph](./jitokim-oh-my-graph.md) | ⭐ 11 | Go | 60/100 |
 
 ---
 

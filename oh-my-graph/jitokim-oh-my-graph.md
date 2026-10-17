@@ -1,6 +1,6 @@
 # jitokim/oh-my-graph
 
-[![Stars](https://img.shields.io/github/stars/jitokim/oh-my-graph?style=flat-square&color=yellow)](https://github.com/jitokim/oh-my-graph/stargazers) [![Forks](https://img.shields.io/github/forks/jitokim/oh-my-graph?style=flat-square&color=blue)](https://github.com/jitokim/oh-my-graph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jitokim/oh-my-graph?style=flat-square&color=yellow)](https://github.com/jitokim/oh-my-graph/stargazers) [![Forks](https://img.shields.io/github/forks/jitokim/oh-my-graph?style=flat-square&color=blue)](https://github.com/jitokim/oh-my-graph/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Each node of a graph you write runs as a real subprocess of your own logged-in claude or codex CLI — your settings, your skills, running in parallel.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ jitokim/oh-my-graph：jitokim/oh-my-graph may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 61/100 |
+| outlook | 64/100 |
 | adoption | 20/100 |
 | categoryMatchCount | 500/100 |
 | stars | 23/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
