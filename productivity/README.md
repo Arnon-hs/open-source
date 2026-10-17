@@ -2,7 +2,7 @@
 
 > 
 
-**324 projects** in this category.
+**325 projects** in this category.
 
 ## Projects
 
@@ -292,8 +292,8 @@
 | 282 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 339 | Kotlin | 45/100 |
 | 283 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 557 | QML | 45/100 |
 | 284 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 4 | C# | 43/100 |
-| 285 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
-| 286 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
+| 285 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
+| 286 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
 | 287 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ — | — | 43/100 |
 | 288 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 43/100 |
 | 289 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 17 | Zig | 42/100 |
@@ -317,21 +317,22 @@
 | 307 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
 | 308 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
 | 309 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
-| 310 | [tbtb07/GreenLock](./tbtb07-greenlock.md) | ⭐ — | JavaScript | 39/100 |
-| 311 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
-| 312 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
-| 313 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ — | — | 38/100 |
-| 314 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ — | — | 38/100 |
-| 315 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ — | — | 38/100 |
-| 316 | [github/app](./github-app.md) | ⭐ — | — | 38/100 |
-| 317 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |
-| 318 | [maitriii08/FlowOutside](./maitriii08-flowoutside.md) | ⭐ 1 | HTML | 37/100 |
-| 319 | [ikagzy/k-launcher](./ikagzy-k-launcher.md) | ⭐ — | C# | 36/100 |
-| 320 | [herbertyeung/SingLilt](./herbertyeung-singlilt.md) | ⭐ — | C++ | 36/100 |
-| 321 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
-| 322 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
-| 323 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
-| 324 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 28/100 |
+| 310 | [Thrizzio/Focus67Dumby](./thrizzio-focus67dumby.md) | ⭐ — | — | 39/100 |
+| 311 | [tbtb07/GreenLock](./tbtb07-greenlock.md) | ⭐ — | JavaScript | 39/100 |
+| 312 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
+| 313 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
+| 314 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ — | — | 38/100 |
+| 315 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ — | — | 38/100 |
+| 316 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ — | — | 38/100 |
+| 317 | [github/app](./github-app.md) | ⭐ — | — | 38/100 |
+| 318 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |
+| 319 | [maitriii08/FlowOutside](./maitriii08-flowoutside.md) | ⭐ 1 | HTML | 37/100 |
+| 320 | [ikagzy/k-launcher](./ikagzy-k-launcher.md) | ⭐ — | C# | 36/100 |
+| 321 | [herbertyeung/SingLilt](./herbertyeung-singlilt.md) | ⭐ — | C++ | 36/100 |
+| 322 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
+| 323 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
+| 324 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
+| 325 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 28/100 |
 
 ---
 

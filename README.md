@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40647** |
-| **Categories** | **509** |
+| **Projects** | **40653** |
+| **Categories** | **510** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16001 | [Browse →](./misc/) |
+| 📦 **Misc** | 16003 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4386 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2773 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2330 | [Browse →](./orchestration/) |
@@ -31,10 +31,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Automation** | 1407 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 932 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 884 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 781 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 782 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 679 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 640 | [Browse →](./networking/) |
-| 📱 **Mobile** | 625 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 626 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 607 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 593 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 531 | [Browse →](./database/) |
@@ -46,7 +46,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 340 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 337 | [Browse →](./games--graphics/) |
 | 💳 **Payments** | 335 | [Browse →](./payments/) |
-| 🏷️ **Productivity** | 324 | [Browse →](./productivity/) |
+| 🏷️ **Productivity** | 325 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 301 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 262 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 201 | [Browse →](./trading/) |
@@ -198,6 +198,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Cashflow** | 1 | [Browse →](./cashflow/) |
 | 🏷️ **Receipt** | 1 | [Browse →](./receipt/) |
 | 🏷️ **Decision-model** | 1 | [Browse →](./decision-model/) |
 | 🏷️ **Quantization** | 1 | [Browse →](./quantization/) |

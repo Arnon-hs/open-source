@@ -1,6 +1,6 @@
 # supabase/postgrest-js
 
-[![Stars](https://img.shields.io/github/stars/supabase/postgrest-js?style=flat-square&color=yellow)](https://github.com/supabase/postgrest-js/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/postgrest-js?style=flat-square&color=blue)](https://github.com/supabase/postgrest-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supabase/postgrest-js?style=flat-square&color=yellow)](https://github.com/supabase/postgrest-js/stargazers) [![Forks](https://img.shields.io/github/forks/supabase/postgrest-js?style=flat-square&color=blue)](https://github.com/supabase/postgrest-js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > The postgrest-js repo now has a new home: https://github.com/supabase/supabase-js/tree/master/packages/core/postgrest-js
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 178 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ supabase/postgrest-js：supabase/postgrest-js may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 62/100 |
+| outlook | 62/100 |
 | adoption | 63/100 |
 | categoryMatchCount | 500/100 |
 | stars | 66/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 
