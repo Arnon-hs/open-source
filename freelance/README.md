@@ -2,7 +2,7 @@
 
 > 
 
-**13 projects** in this category.
+**14 projects** in this category.
 
 ## Projects
 
@@ -19,8 +19,9 @@
 | 9 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 39/100 |
 | 10 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 36/100 |
 | 11 | [xenova/transformers](./xenova-transformers.md) | ⭐ 11 | Python | 35/100 |
-| 12 | [ai-forever/tabpfn](./ai-forever-tabpfn.md) | ⭐ — | — | 24/100 |
-| 13 | [youchen-builds/scopesmith](./youchen-builds-scopesmith.md) | ⭐ — | — | 24/100 |
+| 12 | [google/gemma-3-4b-it](./google-gemma-3-4b-it.md) | ⭐ — | — | 27/100 |
+| 13 | [ai-forever/tabpfn](./ai-forever-tabpfn.md) | ⭐ — | — | 24/100 |
+| 14 | [youchen-builds/scopesmith](./youchen-builds-scopesmith.md) | ⭐ — | — | 24/100 |
 
 ---
 

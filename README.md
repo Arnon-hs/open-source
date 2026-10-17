@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40537** |
+| **Projects** | **40541** |
 | **Categories** | **500** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15939 | [Browse →](./misc/) |
+| 📦 **Misc** | 15941 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4379 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2770 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
@@ -62,10 +62,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 18 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 17 | [Browse →](./llm/) |
-| 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
-| 🏷️ **Freelance** | 13 | [Browse →](./freelance/) |
-| 🏷️ **Offline-first** | 13 | [Browse →](./offline-first/) |
+| 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
+| 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
+| 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
 | 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
@@ -119,6 +119,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Auth** | 2 | [Browse →](./auth/) |
 | 🏷️ **Rails** | 2 | [Browse →](./rails/) |
 | 🏷️ **Llamaindex** | 2 | [Browse →](./llamaindex/) |
@@ -193,6 +194,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Photo-editing** | 1 | [Browse →](./photo-editing/) |
 | 🏷️ **Monitoring** | 1 | [Browse →](./monitoring/) |
 | 🏷️ **Epub** | 1 | [Browse →](./epub/) |
 | 🏷️ **Performance-testing** | 1 | [Browse →](./performance-testing/) |
@@ -383,7 +385,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-debugging** | 1 | [Browse →](./ai-debugging/) |
 | 🏷️ **Capture** | 1 | [Browse →](./capture/) |
 | 🏷️ **Repo-stars** | 1 | [Browse →](./repo-stars/) |
-| 🏷️ **Garden** | 1 | [Browse →](./garden/) |
 | 🏷️ **Karaoke** | 1 | [Browse →](./karaoke/) |
 | 🏷️ **Muse-code** | 1 | [Browse →](./muse-code/) |
 | 🏷️ **Openweight-models** | 1 | [Browse →](./openweight-models/) |
@@ -441,7 +442,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Goaltracking** | 1 | [Browse →](./goaltracking/) |
 | 🏷️ **Live-streaming** | 1 | [Browse →](./live-streaming/) |
 | 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
-| 🏷️ **Static-analysis** | 1 | [Browse →](./static-analysis/) |
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
 | 🏷️ **Speech-recognition** | 1 | [Browse →](./speech-recognition/) |
 | 🏷️ **Certification** | 1 | [Browse →](./certification/) |

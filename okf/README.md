@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Lmalviya/okf-sql-knowledge](./lmalviya-okf-sql-knowledge.md) | ⭐ — | Python | 36/100 |
+| 1 | [Lmalviya/okf-sql-knowledge](./lmalviya-okf-sql-knowledge.md) | ⭐ — | Python | 33/100 |
 
 ---
 

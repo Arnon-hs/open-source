@@ -64,18 +64,18 @@ rebornace/baize：rebornace/baize helps turn isolated prompts and tools into rep
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 75/100 |
+| outlook | 58/100 |
+| quality | 44/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

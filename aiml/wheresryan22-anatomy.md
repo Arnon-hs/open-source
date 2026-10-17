@@ -1,6 +1,6 @@
 # wheresryan22/anatomy
 
-[![Stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=flat-square&color=yellow)](https://github.com/wheresryan22/anatomy/stargazers) [![Forks](https://img.shields.io/github/forks/wheresryan22/anatomy?style=flat-square&color=blue)](https://github.com/wheresryan22/anatomy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wheresryan22/anatomy?style=flat-square&color=yellow)](https://github.com/wheresryan22/anatomy/stargazers) [![Forks](https://img.shields.io/github/forks/wheresryan22/anatomy?style=flat-square&color=blue)](https://github.com/wheresryan22/anatomy/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8.5k |
 | 🍴 **Forks** | 620 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ wheresryan22/anatomy：wheresryan22/anatomy helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 79/100 |
+| production | 64/100 |
+| outlook | 72/100 |
 | adoption | 80/100 |
 | categoryMatchCount | 200/100 |
 | stars | 84/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
