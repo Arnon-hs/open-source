@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Phocinae/Phocinae-Largha-150M-v1](./phocinae-phocinae-largha-150m-v1.md) | ⭐ — | Python | 44/100 |
+| 1 | [typesafe-io/jev](./typesafe-io-jev.md) | ⭐ — | — | 24/100 |
 
 ---
 

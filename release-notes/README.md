@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Mystical89/relnotes](./mystical89-relnotes.md) | ⭐ — | Python | 42/100 |
+| 1 | [Mystical89/relnotes](./mystical89-relnotes.md) | ⭐ — | Python | 39/100 |
 
 ---
 
