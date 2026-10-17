@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40653** |
-| **Categories** | **510** |
+| **Projects** | **40661** |
+| **Categories** | **511** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16003 | [Browse →](./misc/) |
+| 📦 **Misc** | 16006 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4386 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2773 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2330 | [Browse →](./orchestration/) |
@@ -40,9 +40,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 531 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 508 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 487 | [Browse →](./video-editing/) |
-| 🏷️ **Templates** | 449 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 450 | [Browse →](./templates/) |
+| 🏷️ **Communication** | 424 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
-| 🏷️ **Communication** | 423 | [Browse →](./communication/) |
 | 📊 **Data** | 340 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 337 | [Browse →](./games--graphics/) |
 | 💳 **Payments** | 335 | [Browse →](./payments/) |
@@ -80,6 +80,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
 | 🏷️ **Offline-ai** | 5 | [Browse →](./offline-ai/) |
+| 🏷️ **Ecommerce** | 4 | [Browse →](./ecommerce/) |
 | 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
 | 🏷️ **Openapi** | 4 | [Browse →](./openapi/) |
 | 🏷️ **Devsecops** | 4 | [Browse →](./devsecops/) |
@@ -95,8 +96,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
+| 🏷️ **Php** | 3 | [Browse →](./php/) |
 | 🏷️ **Embedded** | 3 | [Browse →](./embedded/) |
-| 🏷️ **Ecommerce** | 3 | [Browse →](./ecommerce/) |
 | 🏷️ **Small-business** | 3 | [Browse →](./small-business/) |
 | 🏷️ **Macos** | 3 | [Browse →](./macos/) |
 | 🏷️ **Offline-checks** | 3 | [Browse →](./offline-checks/) |
@@ -181,7 +182,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
 | 🏷️ **Webgpu** | 2 | [Browse →](./webgpu/) |
 | 🏷️ **Career-advice** | 2 | [Browse →](./career-advice/) |
-| 🏷️ **Php** | 2 | [Browse →](./php/) |
 | 🏷️ **Showdev** | 2 | [Browse →](./showdev/) |
 | 🏷️ **Angular** | 2 | [Browse →](./angular/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
@@ -198,6 +198,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Family-tree** | 1 | [Browse →](./family-tree/) |
 | 🏷️ **Cashflow** | 1 | [Browse →](./cashflow/) |
 | 🏷️ **Receipt** | 1 | [Browse →](./receipt/) |
 | 🏷️ **Decision-model** | 1 | [Browse →](./decision-model/) |

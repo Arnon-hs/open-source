@@ -15,10 +15,10 @@
 | 5 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 40/100 |
 | 6 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 39/100 |
 | 7 | [faujisot26-sketch/openforge](./faujisot26-sketch-openforge.md) | ⭐ — | JavaScript | 39/100 |
-| 8 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 39/100 |
-| 9 | [BartoszOsiej/pqbit](./bartoszosiej-pqbit.md) | ⭐ 1 | Rust | 38/100 |
-| 10 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
-| 11 | [pixelcrisscross/PrivaLedger-AI](./pixelcrisscross-privaledger-ai.md) | ⭐ — | JavaScript | 36/100 |
+| 8 | [BartoszOsiej/pqbit](./bartoszosiej-pqbit.md) | ⭐ 1 | Rust | 38/100 |
+| 9 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
+| 10 | [pixelcrisscross/PrivaLedger-AI](./pixelcrisscross-privaledger-ai.md) | ⭐ — | JavaScript | 36/100 |
+| 11 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 36/100 |
 | 12 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 36/100 |
 | 13 | [Piwe/jacaranda-scout](./piwe-jacaranda-scout.md) | ⭐ — | Java | 36/100 |
 | 14 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 36/100 |
