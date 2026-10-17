@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40609** |
-| **Categories** | **503** |
+| **Projects** | **40619** |
+| **Categories** | **504** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15986 | [Browse →](./misc/) |
+| 📦 **Misc** | 15991 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4384 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2771 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2330 | [Browse →](./orchestration/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 177 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 146 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 100 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 102 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 33 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
@@ -74,6 +74,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Go** | 6 | [Browse →](./go/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
+| 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
@@ -85,7 +86,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 4 | [Browse →](./devsecops/) |
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
-| 🏷️ **Self-hosted** | 4 | [Browse →](./self-hosted/) |
 | 🏷️ **Whatsapp** | 4 | [Browse →](./whatsapp/) |
 | 🏷️ **Net** | 4 | [Browse →](./net/) |
 | 🏷️ **Embedding** | 4 | [Browse →](./embedding/) |
@@ -97,6 +97,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
+| 🏷️ **Embedded** | 3 | [Browse →](./embedded/) |
 | 🏷️ **Ecommerce** | 3 | [Browse →](./ecommerce/) |
 | 🏷️ **Small-business** | 3 | [Browse →](./small-business/) |
 | 🏷️ **Offline-checks** | 3 | [Browse →](./offline-checks/) |
@@ -187,7 +188,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documentation** | 2 | [Browse →](./documentation/) |
 | 🏷️ **Video-generation** | 2 | [Browse →](./video-generation/) |
 | 🏷️ **Resume** | 2 | [Browse →](./resume/) |
-| 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
 | 🏷️ **Agentic-workflows** | 2 | [Browse →](./agentic-workflows/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
@@ -195,6 +195,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Government-tender** | 1 | [Browse →](./government-tender/) |
 | 🏷️ **Distributed-computing** | 1 | [Browse →](./distributed-computing/) |
 | 🏷️ **Video** | 1 | [Browse →](./video/) |
 | 🏷️ **Graph-database** | 1 | [Browse →](./graph-database/) |
