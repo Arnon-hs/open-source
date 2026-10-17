@@ -12,8 +12,8 @@
 | 2 | [RiyaDhami13/vaultdocs-ai](./riyadhami13-vaultdocs-ai.md) | ⭐ — | Python | 49/100 |
 | 3 | [raviseta/edgefit](./raviseta-edgefit.md) | ⭐ — | TypeScript | 48/100 |
 | 4 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 47/100 |
-| 5 | [ibrahim-iqbal/hushquote](./ibrahim-iqbal-hushquote.md) | ⭐ — | JavaScript | 39/100 |
-| 6 | [swarnnim/locallens](./swarnnim-locallens.md) | ⭐ — | Python | 39/100 |
+| 5 | [swarnnim/locallens](./swarnnim-locallens.md) | ⭐ — | Python | 39/100 |
+| 6 | [ibrahim-iqbal/hushquote](./ibrahim-iqbal-hushquote.md) | ⭐ — | JavaScript | 36/100 |
 | 7 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 33/100 |
 | 8 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 33/100 |
 | 9 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 33/100 |
