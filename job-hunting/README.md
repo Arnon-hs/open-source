@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [shubhamkumbhalkar/lever-auto-apply](./shubhamkumbhalkar-lever-auto-apply.md) | ⭐ 4 | Python | 46/100 |
+| 1 | [kc-2705/job-hunt-copilot](./kc-2705-job-hunt-copilot.md) | ⭐ — | JavaScript | 51/100 |
 
 ---
 
