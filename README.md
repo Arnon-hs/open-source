@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40557** |
-| **Categories** | **499** |
+| **Projects** | **40564** |
+| **Categories** | **501** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15953 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4381 | [Browse →](./aiml/) |
+| 📦 **Misc** | 15956 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4382 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2770 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
@@ -52,16 +52,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 200 | [Browse →](./trading/) |
 | ✨ **Design** | 177 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 146 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 118 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 119 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 98 | [Browse →](./ai/) |
 | 🏷️ **Offline** | 34 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
-| 🏷️ **Open-source** | 29 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 30 | [Browse →](./open-source/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
-| 🏷️ **Ai-agents** | 17 | [Browse →](./ai-agents/) |
-| 🏷️ **Privacy** | 17 | [Browse →](./privacy/) |
+| 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 17 | [Browse →](./llm/) |
+| 🏷️ **Privacy** | 15 | [Browse →](./privacy/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
@@ -194,6 +194,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Link-extraction** | 1 | [Browse →](./link-extraction/) |
+| 🏷️ **Kitchen** | 1 | [Browse →](./kitchen/) |
+| 🏷️ **Allergy** | 1 | [Browse →](./allergy/) |
 | 🏷️ **Recalls** | 1 | [Browse →](./recalls/) |
 | 🏷️ **Lead-generation** | 1 | [Browse →](./lead-generation/) |
 | 🏷️ **Photo-editing** | 1 | [Browse →](./photo-editing/) |
@@ -382,7 +385,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy-first** | 1 | [Browse →](./privacy-first/) |
 | 🏷️ **Webdev** | 1 | [Browse →](./webdev/) |
 | 🏷️ **Agent-debugging** | 1 | [Browse →](./agent-debugging/) |
-| 🏷️ **Hermes-agent** | 1 | [Browse →](./hermes-agent/) |
 | 🏷️ **Repo-stars** | 1 | [Browse →](./repo-stars/) |
 | 🏷️ **Karaoke** | 1 | [Browse →](./karaoke/) |
 | 🏷️ **Muse-code** | 1 | [Browse →](./muse-code/) |

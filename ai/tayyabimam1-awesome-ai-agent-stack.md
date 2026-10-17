@@ -1,6 +1,6 @@
 # tayyabimam1/awesome-ai-agent-stack
 
-[![Stars](https://img.shields.io/github/stars/tayyabimam1/awesome-ai-agent-stack?style=flat-square&color=yellow)](https://github.com/tayyabimam1/awesome-ai-agent-stack/stargazers) [![Forks](https://img.shields.io/github/forks/tayyabimam1/awesome-ai-agent-stack?style=flat-square&color=blue)](https://github.com/tayyabimam1/awesome-ai-agent-stack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tayyabimam1/awesome-ai-agent-stack?style=flat-square&color=yellow)](https://github.com/tayyabimam1/awesome-ai-agent-stack/stargazers) [![Forks](https://img.shields.io/github/forks/tayyabimam1/awesome-ai-agent-stack?style=flat-square&color=blue)](https://github.com/tayyabimam1/awesome-ai-agent-stack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Curated map of 3,000+ open-source AI agent tools: coding agents, agent frameworks, MCP servers, RAG, memory and local LLMs, sorted by layer and ranked by GitHub stars.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ tayyabimam1/awesome-ai-agent-stack：tayyabimam1/awesome-ai-agent-stack may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 70/100 |
-| outlook | 79/100 |
+| production | 63/100 |
+| outlook | 72/100 |
 | adoption | 28/100 |
 | categoryMatchCount | 500/100 |
 | stars | 31/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

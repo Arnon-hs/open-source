@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tayyabimam1/awesome-ai-agent-stack](./tayyabimam1-awesome-ai-agent-stack.md) | ⭐ 28 | TypeScript | 72/100 |
+| 1 | [tayyabimam1/awesome-ai-agent-stack](./tayyabimam1-awesome-ai-agent-stack.md) | ⭐ 28 | TypeScript | 69/100 |
 | 2 | [openai/CLIP](./openai-clip.md) | ⭐ 34.4k | Jupyter Notebook | 66/100 |
 | 3 | [kaggle/kaggle-cli](./kaggle-kaggle-cli.md) | ⭐ 7.6k | Python | 65/100 |
 | 4 | [EleutherAI/gpt-neo](./eleutherai-gpt-neo.md) | ⭐ 8.3k | Python | 64/100 |
