@@ -388,8 +388,8 @@
 | 378 | [ServiceStack/llms](./servicestack-llms.md) | ⭐ 626 | JavaScript | 65/100 |
 | 379 | [gbtami/pychess-variants](./gbtami-pychess-variants.md) | ⭐ 301 | Python | 65/100 |
 | 380 | [inventree/InvenTree](./inventree-inventree.md) | ⭐ 7.4k | Python | 65/100 |
-| 381 | [line/promgen](./line-promgen.md) | ⭐ 1.1k | Python | 65/100 |
-| 382 | [stashapp/stash](./stashapp-stash.md) | ⭐ 12.8k | Go | 65/100 |
+| 381 | [stashapp/stash](./stashapp-stash.md) | ⭐ 12.8k | Go | 65/100 |
+| 382 | [line/promgen](./line-promgen.md) | ⭐ 1.1k | Python | 65/100 |
 | 383 | [keygen-sh/keygen-api](./keygen-sh-keygen-api.md) | ⭐ 1.5k | Gherkin | 65/100 |
 | 384 | [zostera/django-bootstrap4](./zostera-django-bootstrap4.md) | ⭐ 1k | Python | 65/100 |
 | 385 | [sindresorhus/meow](./sindresorhus-meow.md) | ⭐ 3.7k | JavaScript | 65/100 |

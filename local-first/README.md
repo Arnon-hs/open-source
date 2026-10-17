@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [al2m4n/TheYgent](./al2m4n-theygent.md) | ⭐ 4 | Python | 69/100 |
 | 2 | [aaryanrwt/athena](./aaryanrwt-athena.md) | ⭐ — | Python | 58/100 |
-| 3 | [federicolaterra/knemora](./federicolaterra-knemora.md) | ⭐ 3 | Python | 58/100 |
-| 4 | [remarkjs/react-markdown](./remarkjs-react-markdown.md) | ⭐ 15.9k | JavaScript | 58/100 |
-| 5 | [remarkjs/remark-gfm](./remarkjs-remark-gfm.md) | ⭐ 1.2k | JavaScript | 57/100 |
+| 3 | [remarkjs/react-markdown](./remarkjs-react-markdown.md) | ⭐ 15.9k | JavaScript | 58/100 |
+| 4 | [remarkjs/remark-gfm](./remarkjs-remark-gfm.md) | ⭐ 1.2k | JavaScript | 57/100 |
+| 5 | [federicolaterra/knemora](./federicolaterra-knemora.md) | ⭐ 3 | Python | 55/100 |
 | 6 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
 | 7 | [Pager-dot/ledgerlocal](./pager-dot-ledgerlocal.md) | ⭐ — | Python | 42/100 |
 | 8 | [utkarshydv27/DukaanFlow-AI](./utkarshydv27-dukaanflow-ai.md) | ⭐ — | Python | 42/100 |
