@@ -1,6 +1,6 @@
 # appium/WebDriverAgent
 
-[![Stars](https://img.shields.io/github/stars/appium/WebDriverAgent?style=flat-square&color=yellow)](https://github.com/appium/WebDriverAgent/stargazers) [![Forks](https://img.shields.io/github/forks/appium/WebDriverAgent?style=flat-square&color=blue)](https://github.com/appium/WebDriverAgent/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/appium/WebDriverAgent?style=flat-square&color=yellow)](https://github.com/appium/WebDriverAgent/stargazers) [![Forks](https://img.shields.io/github/forks/appium/WebDriverAgent?style=flat-square&color=blue)](https://github.com/appium/WebDriverAgent/network) [![Language](https://img.shields.io/badge/lang-Objective-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A WebDriver server for iOS, tvOS and watchOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.9k |
 | 🍴 **Forks** | 670 |
 | 💻 **Language** | Objective-C |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ appium/WebDriverAgent：appium/WebDriverAgent may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 78/100 |
+| production | 62/100 |
+| outlook | 71/100 |
 | adoption | 70/100 |
 | categoryMatchCount | 700/100 |
 | stars | 70/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 

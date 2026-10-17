@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bradraylucas-eng/ai-agent-tools-free-samples](./bradraylucas-eng-ai-agent-tools-free-samples.md) | ⭐ — | — | 60/100 |
+| 1 | [bradraylucas-eng/ai-agent-tools-free-samples](./bradraylucas-eng-ai-agent-tools-free-samples.md) | ⭐ — | — | 57/100 |
 
 ---
 

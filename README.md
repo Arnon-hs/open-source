@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40590** |
-| **Categories** | **501** |
+| **Projects** | **40596** |
+| **Categories** | **502** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15972 | [Browse →](./misc/) |
+| 📦 **Misc** | 15975 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4384 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2771 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2330 | [Browse →](./orchestration/) |
@@ -52,9 +52,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 201 | [Browse →](./trading/) |
 | ✨ **Design** | 177 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 146 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 120 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 98 | [Browse →](./ai/) |
-| 🏷️ **Offline** | 34 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 33 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 30 | [Browse →](./open-source/) |
@@ -98,6 +98,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
+| 🏷️ **Ecommerce** | 3 | [Browse →](./ecommerce/) |
 | 🏷️ **Small-business** | 3 | [Browse →](./small-business/) |
 | 🏷️ **Offline-checks** | 3 | [Browse →](./offline-checks/) |
 | 🏷️ **Salesforce** | 3 | [Browse →](./salesforce/) |
@@ -120,6 +121,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Wayland** | 2 | [Browse →](./wayland/) |
 | 🏷️ **Allergen-labeling** | 2 | [Browse →](./allergen-labeling/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Auth** | 2 | [Browse →](./auth/) |
@@ -132,7 +134,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Text-to-speech** | 2 | [Browse →](./text-to-speech/) |
 | 🏷️ **C** | 2 | [Browse →](./c/) |
 | 🏷️ **Hysteria2** | 2 | [Browse →](./hysteria2/) |
-| 🏷️ **Ecommerce** | 2 | [Browse →](./ecommerce/) |
 | 🏷️ **Tmux** | 2 | [Browse →](./tmux/) |
 | 🏷️ **Forecasting** | 2 | [Browse →](./forecasting/) |
 | 🏷️ **Birdwatching** | 2 | [Browse →](./birdwatching/) |
@@ -193,6 +194,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Video** | 1 | [Browse →](./video/) |
 | 🏷️ **Graph-database** | 1 | [Browse →](./graph-database/) |
 | 🏷️ **Citationaudit** | 1 | [Browse →](./citationaudit/) |
 | 🏷️ **Menu-translation** | 1 | [Browse →](./menu-translation/) |
@@ -381,7 +383,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Inventory** | 1 | [Browse →](./inventory/) |
 | 🏷️ **Nlp** | 1 | [Browse →](./nlp/) |
 | 🏷️ **Recommendation** | 1 | [Browse →](./recommendation/) |
-| 🏷️ **Dataset-provenance** | 1 | [Browse →](./dataset-provenance/) |
 | 🏷️ **Ai-workflow** | 1 | [Browse →](./ai-workflow/) |
 | 🏷️ **Privacy-first** | 1 | [Browse →](./privacy-first/) |
 | 🏷️ **Webdev** | 1 | [Browse →](./webdev/) |
