@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [slametarifin262/rumah_tools_pub](./slametarifin262-rumah-tools-pub.md) | ⭐ 1 | EJS | 44/100 |
+| 1 | [slametarifin262/rumah_tools_pub](./slametarifin262-rumah-tools-pub.md) | ⭐ 1 | EJS | 41/100 |
 
 ---
 
