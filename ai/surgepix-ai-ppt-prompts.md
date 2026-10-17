@@ -1,6 +1,6 @@
 # SurgePix/ai-ppt-prompts
 
-[![Stars](https://img.shields.io/github/stars/SurgePix/ai-ppt-prompts?style=flat-square&color=yellow)](https://github.com/SurgePix/ai-ppt-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/SurgePix/ai-ppt-prompts?style=flat-square&color=blue)](https://github.com/SurgePix/ai-ppt-prompts/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SurgePix/ai-ppt-prompts?style=flat-square&color=yellow)](https://github.com/SurgePix/ai-ppt-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/SurgePix/ai-ppt-prompts?style=flat-square&color=blue)](https://github.com/SurgePix/ai-ppt-prompts/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Curated AI presentation prompt library — 120+ copy-ready PPT & slide prompts with real slide previews, 1-click copy and direct generate. Filter by use case (pitch deck, QBR, research, sales) and style (minimal, dark, corporate, editorial...). Multi-language (EN/ZH/JA/KO/VI/ID/TR/...). Free & regularly updated.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ SurgePix/ai-ppt-prompts：SurgePix/ai-ppt-prompts may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 71/100 |
+| production | 63/100 |
+| outlook | 64/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 500/100 |
 | stars | 23/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

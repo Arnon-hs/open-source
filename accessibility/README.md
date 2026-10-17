@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [DhanushNehru/altcheck](./dhanushnehru-altcheck.md) | ⭐ — | Python | 55/100 |
+| 1 | [DhanushNehru/altcheck](./dhanushnehru-altcheck.md) | ⭐ — | Python | 52/100 |
 | 2 | [lewisawe/one-curb](./lewisawe-one-curb.md) | ⭐ — | Python | 39/100 |
 
 ---

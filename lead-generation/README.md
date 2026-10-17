@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ShayanSpiel/Lead-Researcher](./shayanspiel-lead-researcher.md) | ⭐ — | Python | 42/100 |
+| 1 | [MachGTM/lead-finder](./machgtm-lead-finder.md) | ⭐ — | Python | 50/100 |
 
 ---
 
