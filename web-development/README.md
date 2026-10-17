@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [NOTAM-bobk/base31](./notam-bobk-base31.md) | ⭐ 1 | HTML | 47/100 |
+| 1 | [NOTAM-bobk/base31](./notam-bobk-base31.md) | ⭐ 1 | HTML | 44/100 |
 
 ---
 

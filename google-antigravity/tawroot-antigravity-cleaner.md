@@ -1,6 +1,6 @@
 # tawroot/antigravity-cleaner
 
-[![Stars](https://img.shields.io/github/stars/tawroot/antigravity-cleaner?style=flat-square&color=yellow)](https://github.com/tawroot/antigravity-cleaner/stargazers) [![Forks](https://img.shields.io/github/forks/tawroot/antigravity-cleaner?style=flat-square&color=blue)](https://github.com/tawroot/antigravity-cleaner/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tawroot/antigravity-cleaner?style=flat-square&color=yellow)](https://github.com/tawroot/antigravity-cleaner/stargazers) [![Forks](https://img.shields.io/github/forks/tawroot/antigravity-cleaner?style=flat-square&color=blue)](https://github.com/tawroot/antigravity-cleaner/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Bypass Google Sanctions, Region Lock & 403/429 Errors in Antigravity IDE & 2.x. Zero-TUN SOCKS5 Smart Injector, Doctor & Surgical Quota Reset.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ tawroot/antigravity-cleaner：tawroot/antigravity-cleaner may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 63/100 |
+| outlook | 67/100 |
 | adoption | 43/100 |
 | categoryMatchCount | 800/100 |
 | stars | 47/100 |
 | forks | 34/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

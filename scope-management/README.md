@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mir-quadri/scopeledger](./mir-quadri-scopeledger.md) | ⭐ — | Python | 42/100 |
+| 1 | [mir-quadri/scopeledger](./mir-quadri-scopeledger.md) | ⭐ — | Python | 39/100 |
 
 ---
 
