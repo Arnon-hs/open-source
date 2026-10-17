@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [figueiredoluiz/cuke-dedup](./figueiredoluiz-cuke-dedup.md) | ⭐ 4 | Rust | 53/100 |
+| 1 | [figueiredoluiz/cuke-dedup](./figueiredoluiz-cuke-dedup.md) | ⭐ 4 | Rust | 49/100 |
 
 ---
 

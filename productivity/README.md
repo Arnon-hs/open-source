@@ -292,8 +292,8 @@
 | 282 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 339 | Kotlin | 45/100 |
 | 283 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 557 | QML | 45/100 |
 | 284 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 4 | C# | 43/100 |
-| 285 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
-| 286 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
+| 285 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
+| 286 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
 | 287 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ — | — | 43/100 |
 | 288 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 43/100 |
 | 289 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 17 | Zig | 42/100 |
@@ -331,7 +331,7 @@
 | 321 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
 | 322 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
 | 323 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
-| 324 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 31/100 |
+| 324 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 28/100 |
 
 ---
 

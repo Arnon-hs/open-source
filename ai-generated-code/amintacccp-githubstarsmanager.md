@@ -1,6 +1,6 @@
 # AmintaCCCP/GithubStarsManager
 
-[![Stars](https://img.shields.io/github/stars/AmintaCCCP/GithubStarsManager?style=flat-square&color=yellow)](https://github.com/AmintaCCCP/GithubStarsManager/stargazers) [![Forks](https://img.shields.io/github/forks/AmintaCCCP/GithubStarsManager?style=flat-square&color=blue)](https://github.com/AmintaCCCP/GithubStarsManager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmintaCCCP/GithubStarsManager?style=flat-square&color=yellow)](https://github.com/AmintaCCCP/GithubStarsManager/stargazers) [![Forks](https://img.shields.io/github/forks/AmintaCCCP/GithubStarsManager?style=flat-square&color=blue)](https://github.com/AmintaCCCP/GithubStarsManager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.7k |
 | 🍴 **Forks** | 183 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 82/100 |
+| 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI-generated code · CI quality gates · open-source · product management · i1
 
 ### English
 
-AmintaCCCP/GithubStarsManager: AmintaCCCP/GithubStarsManager may be useful when its README and activity match a concrete workflow.. Use it for AI-generated code, CI quality gates, open-source, product management, i18n, plugin validation. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+AmintaCCCP/GithubStarsManager: AmintaCCCP/GithubStarsManager may be useful when its README and activity match a concrete workflow.. Use it for AI-generated code, CI quality gates, open-source, product management, i18n, plugin validation. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-AmintaCCCP/GithubStarsManager: open-source проект в категориях AI-generated code, CI quality gates, open-source, product management, i18n, plugin validation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+AmintaCCCP/GithubStarsManager: open-source проект в категориях AI-generated code, CI quality gates, open-source, product management, i18n, plugin validation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-AmintaCCCP/GithubStarsManager：AmintaCCCP/GithubStarsManager may be useful when its README and activity match a concrete workflow.。适合用于AI-generated code、CI quality gates、open-source、product management、i18n、plugin validation。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+AmintaCCCP/GithubStarsManager：AmintaCCCP/GithubStarsManager may be useful when its README and activity match a concrete workflow.。适合用于AI-generated code、CI quality gates、open-source、product management、i18n、plugin validation。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ AmintaCCCP/GithubStarsManager：AmintaCCCP/GithubStarsManager may be useful when
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ AmintaCCCP/GithubStarsManager：AmintaCCCP/GithubStarsManager may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 94/100 |
-| production | 81/100 |
-| outlook | 84/100 |
+| production | 74/100 |
+| outlook | 77/100 |
 | adoption | 70/100 |
 | categoryMatchCount | 600/100 |
 | stars | 76/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

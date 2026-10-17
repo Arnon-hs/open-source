@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [onyxaholguin-cyber/lease-lens](./onyxaholguin-cyber-lease-lens.md) | ⭐ — | Python | 47/100 |
+| 1 | [onyxaholguin-cyber/lease-lens](./onyxaholguin-cyber-lease-lens.md) | ⭐ — | Python | 44/100 |
 
 ---
 
