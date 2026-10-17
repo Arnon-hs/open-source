@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40531** |
+| **Projects** | **40536** |
 | **Categories** | **500** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 15935 | [Browse →](./misc/) |
+| 📦 **Misc** | 15938 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4379 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2770 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2329 | [Browse →](./orchestration/) |
@@ -119,6 +119,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Auth** | 2 | [Browse →](./auth/) |
+| 🏷️ **Rails** | 2 | [Browse →](./rails/) |
 | 🏷️ **Llamaindex** | 2 | [Browse →](./llamaindex/) |
 | 🏷️ **Ocr** | 2 | [Browse →](./ocr/) |
 | 🏷️ **Architecture** | 2 | [Browse →](./architecture/) |
@@ -191,6 +193,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Monitoring** | 1 | [Browse →](./monitoring/) |
 | 🏷️ **Epub** | 1 | [Browse →](./epub/) |
 | 🏷️ **Performance-testing** | 1 | [Browse →](./performance-testing/) |
 | 🏷️ **Threat-modeling** | 1 | [Browse →](./threat-modeling/) |
@@ -358,7 +361,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-ai** | 1 | [Browse →](./free-ai/) |
 | 🏷️ **Mcdonalds** | 1 | [Browse →](./mcdonalds/) |
 | 🏷️ **Small-gardens** | 1 | [Browse →](./small-gardens/) |
-| 🏷️ **Auth** | 1 | [Browse →](./auth/) |
 | 🏷️ **Chatwoot** | 1 | [Browse →](./chatwoot/) |
 | 🏷️ **Hash-chain** | 1 | [Browse →](./hash-chain/) |
 | 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
@@ -383,8 +385,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Repo-stars** | 1 | [Browse →](./repo-stars/) |
 | 🏷️ **Garden** | 1 | [Browse →](./garden/) |
 | 🏷️ **Karaoke** | 1 | [Browse →](./karaoke/) |
-| 🏷️ **Iso-286** | 1 | [Browse →](./iso-286/) |
-| 🏷️ **Rails** | 1 | [Browse →](./rails/) |
 | 🏷️ **Muse-code** | 1 | [Browse →](./muse-code/) |
 | 🏷️ **Openweight-models** | 1 | [Browse →](./openweight-models/) |
 | 🏷️ **Air-gapped** | 1 | [Browse →](./air-gapped/) |
