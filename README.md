@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40671** |
-| **Categories** | **512** |
+| **Projects** | **40675** |
+| **Categories** | **513** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16008 | [Browse →](./misc/) |
+| 📦 **Misc** | 16010 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4387 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2773 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2774 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2330 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1576 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1407 | [Browse →](./automation/) |
@@ -61,12 +61,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 18 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
+| 🏷️ **Freelance** | 16 | [Browse →](./freelance/) |
 | 🏷️ **Privacy** | 16 | [Browse →](./privacy/) |
-| 🏷️ **Freelance** | 15 | [Browse →](./freelance/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Claude-code** | 13 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
-| 🏷️ **Local-ai** | 9 | [Browse →](./local-ai/) |
+| 🏷️ **Local-ai** | 10 | [Browse →](./local-ai/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
@@ -79,7 +79,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
-| 🏷️ **Offline-ai** | 5 | [Browse →](./offline-ai/) |
 | 🏷️ **Ecommerce** | 4 | [Browse →](./ecommerce/) |
 | 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
 | 🏷️ **Openapi** | 4 | [Browse →](./openapi/) |
@@ -93,6 +92,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Node** | 4 | [Browse →](./node/) |
 | 🏷️ **Open-source-ai** | 4 | [Browse →](./open-source-ai/) |
 | 🏷️ **React-native** | 4 | [Browse →](./react-native/) |
+| 🏷️ **Offline-ai** | 4 | [Browse →](./offline-ai/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
@@ -119,7 +119,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-ops** | 3 | [Browse →](./ai-ops/) |
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
-| 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
 | 🏷️ **K3s** | 2 | [Browse →](./k3s/) |
@@ -173,6 +172,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Api-security** | 2 | [Browse →](./api-security/) |
 | 🏷️ **Astro** | 2 | [Browse →](./astro/) |
 | 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
+| 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
 | 🏷️ **Pomodoro** | 2 | [Browse →](./pomodoro/) |
 | 🏷️ **Chinese-nlp** | 2 | [Browse →](./chinese-nlp/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
@@ -200,6 +200,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Telegram** | 1 | [Browse →](./telegram/) |
+| 🏷️ **Pdf** | 1 | [Browse →](./pdf/) |
 | 🏷️ **Job-hunting** | 1 | [Browse →](./job-hunting/) |
 | 🏷️ **Blood-donation** | 1 | [Browse →](./blood-donation/) |
 | 🏷️ **Family-tree** | 1 | [Browse →](./family-tree/) |
@@ -389,7 +391,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mcdonalds** | 1 | [Browse →](./mcdonalds/) |
 | 🏷️ **Small-gardens** | 1 | [Browse →](./small-gardens/) |
 | 🏷️ **Chatwoot** | 1 | [Browse →](./chatwoot/) |
-| 🏷️ **Hash-chain** | 1 | [Browse →](./hash-chain/) |
 | 🏷️ **Doomscroll** | 1 | [Browse →](./doomscroll/) |
 | 🏷️ **Coding-assistants** | 1 | [Browse →](./coding-assistants/) |
 | 🏷️ **Apple-ads** | 1 | [Browse →](./apple-ads/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bukeeastrey/starboy](./bukeeastrey-starboy.md) | ⭐ — | Python | 42/100 |
+| 1 | [gracelee087/farm-post](./gracelee087-farm-post.md) | ⭐ — | Python | 46/100 |
 
 ---
 
