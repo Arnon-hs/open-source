@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ArturoCutipaFlores/db-backup-strategies](./arturocutipaflores-db-backup-strategies.md) | ⭐ — | HTML | 33/100 |
+| 1 | [ArturoCutipaFlores/db-backup-strategies](./arturocutipaflores-db-backup-strategies.md) | ⭐ — | HTML | 30/100 |
 
 ---
 
