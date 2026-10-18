@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [munimtechnologies/dev-ai-disclosure](./munimtechnologies-dev-ai-disclosure.md) | ⭐ — | Python | 42/100 |
+| 1 | [munimtechnologies/dev-ai-disclosure](./munimtechnologies-dev-ai-disclosure.md) | ⭐ — | Python | 39/100 |
 
 ---
 

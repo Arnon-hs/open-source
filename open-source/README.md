@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [excalibase/excalibase-graphql](./excalibase-excalibase-graphql.md) | ⭐ 32 | Java | 66/100 |
 | 2 | [mortennordbye/headroom](./mortennordbye-headroom.md) | ⭐ 10 | TypeScript | 63/100 |
-| 3 | [MathFe/leitor-notas-local](./mathfe-leitor-notas-local.md) | ⭐ — | Python | 46/100 |
+| 3 | [MathFe/leitor-notas-local](./mathfe-leitor-notas-local.md) | ⭐ — | Python | 43/100 |
 | 4 | [sanskarIN/SpeedPulse](./sanskarin-speedpulse.md) | ⭐ — | HTML | 42/100 |
 | 5 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 40/100 |
 | 6 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 39/100 |

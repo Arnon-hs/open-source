@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40697** |
-| **Categories** | **515** |
+| **Projects** | **40702** |
+| **Categories** | **514** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,16 +23,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16018 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4388 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16021 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4389 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2778 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2330 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2331 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1577 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1407 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 932 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 884 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 782 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 679 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 681 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 640 | [Browse →](./networking/) |
 | 📱 **Mobile** | 626 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 607 | [Browse →](./knowledgerag/) |
@@ -58,9 +58,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-source** | 32 | [Browse →](./open-source/) |
 | 🏷️ **Offline** | 32 | [Browse →](./offline/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
-| 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
-| 🏷️ **Ai-agents** | 19 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 18 | [Browse →](./ai-agents/) |
 | 🏷️ **Llm** | 18 | [Browse →](./llm/) |
+| 🏷️ **Local-first** | 18 | [Browse →](./local-first/) |
 | 🏷️ **Freelance** | 17 | [Browse →](./freelance/) |
 | 🏷️ **Privacy** | 16 | [Browse →](./privacy/) |
 | 🏷️ **Claude-code** | 14 | [Browse →](./claude-code/) |
@@ -71,6 +71,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
 | 🎯 **Product** | 6 | [Browse →](./product/) |
+| 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
@@ -86,7 +87,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 4 | [Browse →](./devsecops/) |
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
-| 🏷️ **Whatsapp** | 4 | [Browse →](./whatsapp/) |
 | 🏷️ **Net** | 4 | [Browse →](./net/) |
 | 🏷️ **Embedding** | 4 | [Browse →](./embedding/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
@@ -121,6 +121,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Deployment** | 2 | [Browse →](./deployment/) |
 | 🏷️ **Telegram** | 2 | [Browse →](./telegram/) |
 | 🏷️ **Privacy-first** | 2 | [Browse →](./privacy-first/) |
 | 🏷️ **K3s** | 2 | [Browse →](./k3s/) |
@@ -391,7 +392,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cesiumjs** | 1 | [Browse →](./cesiumjs/) |
 | 🏷️ **Mlx** | 1 | [Browse →](./mlx/) |
 | 🏷️ **Mobile-web** | 1 | [Browse →](./mobile-web/) |
-| 🏷️ **Free-ai** | 1 | [Browse →](./free-ai/) |
 | 🏷️ **Mcdonalds** | 1 | [Browse →](./mcdonalds/) |
 | 🏷️ **Chatwoot** | 1 | [Browse →](./chatwoot/) |
 | 🏷️ **Doomscroll** | 1 | [Browse →](./doomscroll/) |
@@ -449,7 +449,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Atlassian** | 1 | [Browse →](./atlassian/) |
 | 🏷️ **Smart-home** | 1 | [Browse →](./smart-home/) |
 | 🏷️ **Vanilla-js** | 1 | [Browse →](./vanilla-js/) |
-| 🏷️ **Deployment** | 1 | [Browse →](./deployment/) |
 | 🏷️ **Readability** | 1 | [Browse →](./readability/) |
 | 🏷️ **Environment-variables** | 1 | [Browse →](./environment-variables/) |
 | 🏷️ **Media-player** | 1 | [Browse →](./media-player/) |
