@@ -2,16 +2,15 @@
 
 > 
 
-**4 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [452Harsh/outward](./452harsh-outward.md) | ⭐ — | JavaScript | 36/100 |
-| 2 | [AdibaNaushad/outside.exe](./adibanaushad-outside.exe.md) | ⭐ — | JavaScript | 33/100 |
-| 3 | [tsayen/html-to-image](./tsayen-html-to-image.md) | ⭐ — | — | 24/100 |
-| 4 | [Mohammad1sami/animix](./mohammad1sami-animix.md) | ⭐ — | — | 24/100 |
+| 1 | [AdibaNaushad/outside.exe](./adibanaushad-outside.exe.md) | ⭐ — | JavaScript | 33/100 |
+| 2 | [tsayen/html-to-image](./tsayen-html-to-image.md) | ⭐ — | — | 24/100 |
+| 3 | [Mohammad1sami/animix](./mohammad1sami-animix.md) | ⭐ — | — | 24/100 |
 
 ---
 
