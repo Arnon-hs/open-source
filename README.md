@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40827** |
-| **Categories** | **524** |
+| **Projects** | **40832** |
+| **Categories** | **526** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16066 | [Browse →](./misc/) |
+| 📦 **Misc** | 16068 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4398 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2778 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2331 | [Browse →](./orchestration/) |
@@ -45,7 +45,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔐 **Security** | 424 | [Browse →](./security/) |
 | 📊 **Data** | 340 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 338 | [Browse →](./games--graphics/) |
-| 💳 **Payments** | 336 | [Browse →](./payments/) |
+| 💳 **Payments** | 337 | [Browse →](./payments/) |
 | 🏷️ **Productivity** | 325 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 301 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 262 | [Browse →](./libraries--sdks/) |
@@ -126,6 +126,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Storageoptimization** | 2 | [Browse →](./storageoptimization/) |
 | 🏷️ **Code-graph** | 2 | [Browse →](./code-graph/) |
 | 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
 | 🏷️ **Exactmatch** | 2 | [Browse →](./exactmatch/) |
@@ -176,7 +177,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Data-contamination** | 2 | [Browse →](./data-contamination/) |
 | 🏷️ **Cli** | 2 | [Browse →](./cli/) |
 | 🏷️ **Yaml** | 2 | [Browse →](./yaml/) |
-| 🏷️ **Api-security** | 2 | [Browse →](./api-security/) |
 | 🏷️ **Astro** | 2 | [Browse →](./astro/) |
 | 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
@@ -205,6 +205,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **On-chain-audit** | 1 | [Browse →](./on-chain-audit/) |
 | 🏷️ **Desktop-ai** | 1 | [Browse →](./desktop-ai/) |
 | 🏷️ **Pii** | 1 | [Browse →](./pii/) |
 | 🏷️ **Stateless** | 1 | [Browse →](./stateless/) |
@@ -383,6 +384,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Polymarket** | 1 | [Browse →](./polymarket/) |
 | 🏷️ **Financial-automation** | 1 | [Browse →](./financial-automation/) |
 | 🏷️ **Field-journal** | 1 | [Browse →](./field-journal/) |
+| 🏷️ **Api-security** | 1 | [Browse →](./api-security/) |
 | 🏷️ **Crash-recovery** | 1 | [Browse →](./crash-recovery/) |
 | 🏷️ **Measurement** | 1 | [Browse →](./measurement/) |
 | 🏷️ **Apple-health** | 1 | [Browse →](./apple-health/) |

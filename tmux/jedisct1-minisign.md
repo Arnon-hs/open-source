@@ -1,6 +1,6 @@
 # jedisct1/minisign
 
-[![Stars](https://img.shields.io/github/stars/jedisct1/minisign?style=flat-square&color=yellow)](https://github.com/jedisct1/minisign/stargazers) [![Forks](https://img.shields.io/github/forks/jedisct1/minisign?style=flat-square&color=blue)](https://github.com/jedisct1/minisign/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jedisct1/minisign?style=flat-square&color=yellow)](https://github.com/jedisct1/minisign/stargazers) [![Forks](https://img.shields.io/github/forks/jedisct1/minisign?style=flat-square&color=blue)](https://github.com/jedisct1/minisign/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > A dead simple tool to sign files and verify digital signatures.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 155 |
 | 💻 **Language** | C |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-15 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ jedisct1/minisign：jedisct1/minisign may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 79/100 |
+| quality | 74/100 |
 | integration | 30/100 |
-| production | 71/100 |
-| outlook | 79/100 |
+| production | 64/100 |
+| outlook | 72/100 |
 | adoption | 68/100 |
 | categoryMatchCount | 800/100 |
 | stars | 74/100 |
 | forks | 55/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

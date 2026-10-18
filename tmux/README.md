@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jedisct1/minisign](./jedisct1-minisign.md) | ⭐ 2.9k | C | 63/100 |
+| 1 | [jedisct1/minisign](./jedisct1-minisign.md) | ⭐ 2.9k | C | 60/100 |
 | 2 | [pkarr/pkarr](./pkarr-pkarr.md) | ⭐ — | — | 24/100 |
 
 ---
