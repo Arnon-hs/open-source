@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [princejain756/slopsieve](./princejain756-slopsieve.md) | ⭐ — | JavaScript | 50/100 |
+| 1 | [princejain756/slopsieve](./princejain756-slopsieve.md) | ⭐ — | JavaScript | 47/100 |
 
 ---
 

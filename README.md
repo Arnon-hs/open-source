@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40779** |
-| **Categories** | **520** |
+| **Projects** | **40787** |
+| **Categories** | **521** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16048 | [Browse →](./misc/) |
+| 📦 **Misc** | 16054 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4394 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2778 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2331 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1579 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1407 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1408 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 933 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 885 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 783 | [Browse →](./crypto/) |
@@ -58,7 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-source** | 31 | [Browse →](./open-source/) |
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
 | 🏷️ **Education** | 30 | [Browse →](./education/) |
-| 🏷️ **Llm** | 22 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 21 | [Browse →](./llm/) |
 | 🏷️ **Ai-agents** | 20 | [Browse →](./ai-agents/) |
 | 🏷️ **Freelance** | 19 | [Browse →](./freelance/) |
 | 🏷️ **Local-first** | 18 | [Browse →](./local-first/) |
@@ -77,6 +77,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
+| 🏷️ **Github-actions** | 5 | [Browse →](./github-actions/) |
 | 🏷️ **Claude** | 5 | [Browse →](./claude/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
@@ -85,7 +86,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Small-business** | 4 | [Browse →](./small-business/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Ecommerce** | 4 | [Browse →](./ecommerce/) |
-| 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
 | 🏷️ **Openapi** | 4 | [Browse →](./openapi/) |
 | 🏷️ **Devsecops** | 4 | [Browse →](./devsecops/) |
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
@@ -97,6 +97,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
+| 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **Telegram** | 3 | [Browse →](./telegram/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
 | 🏷️ **Agent-memory** | 3 | [Browse →](./agent-memory/) |
@@ -163,7 +164,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Upi** | 2 | [Browse →](./upi/) |
 | 🏷️ **Leadgeneration** | 2 | [Browse →](./leadgeneration/) |
 | 🏷️ **Raft** | 2 | [Browse →](./raft/) |
-| 🏷️ **Multi-agent** | 2 | [Browse →](./multi-agent/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
 | 🏷️ **Hextelegram** | 2 | [Browse →](./hextelegram/) |
 | 🏷️ **Android** | 2 | [Browse →](./android/) |
@@ -178,7 +178,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
 | 🏷️ **Pomodoro** | 2 | [Browse →](./pomodoro/) |
-| 🏷️ **Chinese-nlp** | 2 | [Browse →](./chinese-nlp/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Outdoor** | 2 | [Browse →](./outdoor/) |
 | 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
@@ -203,6 +202,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Nda** | 1 | [Browse →](./nda/) |
+| 🏷️ **Testing** | 1 | [Browse →](./testing/) |
 | 🏷️ **I18n** | 1 | [Browse →](./i18n/) |
 | 🏷️ **Visa-bulletin** | 1 | [Browse →](./visa-bulletin/) |
 | 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |

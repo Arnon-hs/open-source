@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [GeorgievAlex/revcheck](./georgievalex-revcheck.md) | ⭐ 1 | JavaScript | 44/100 |
+| 1 | [GeorgievAlex/revcheck](./georgievalex-revcheck.md) | ⭐ 1 | JavaScript | 41/100 |
 
 ---
 

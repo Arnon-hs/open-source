@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fabrikalunnogosveta-del/checkpointed-task-pipeline](./fabrikalunnogosveta-del-checkpointed-task-pipeline.md) | ⭐ — | Python | 55/100 |
+| 1 | [fabrikalunnogosveta-del/checkpointed-task-pipeline](./fabrikalunnogosveta-del-checkpointed-task-pipeline.md) | ⭐ — | Python | 52/100 |
 
 ---
 
