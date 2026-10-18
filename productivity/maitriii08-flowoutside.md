@@ -21,21 +21,21 @@ _no topics_
 
 ## 🎯 Categories
 
-productivity · pomodoro · AI · outdoor · burnout · webapp
+Productivity
 
 ## 📝 Summary
 
 ### English
 
-maitriii08/FlowOutside: maitriii08/FlowOutside may be useful when its README and activity match a concrete workflow.. Use it for productivity, pomodoro, AI, outdoor, burnout, webapp. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+maitriii08/FlowOutside: maitriii08/FlowOutside may be useful when its README and activity match a concrete workflow.. Use it for Productivity. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-maitriii08/FlowOutside: open-source проект в категориях productivity, pomodoro, AI, outdoor, burnout, webapp. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+maitriii08/FlowOutside: open-source проект в категориях Productivity. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-maitriii08/FlowOutside：maitriii08/FlowOutside may be useful when its README and activity match a concrete workflow.。适合用于productivity、pomodoro、AI、outdoor、burnout、webapp。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+maitriii08/FlowOutside：maitriii08/FlowOutside may be useful when its README and activity match a concrete workflow.。适合用于Productivity。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -61,18 +61,18 @@ maitriii08/FlowOutside：maitriii08/FlowOutside may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 33/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 45/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 600/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 0/100 |
+| outlook | 45/100 |
+| quality | 33/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

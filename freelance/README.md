@@ -18,10 +18,10 @@
 | 8 | [radhikaaa25/ScopeGuard](./radhikaaa25-scopeguard.md) | ⭐ — | TypeScript | 39/100 |
 | 9 | [jaivintretiya16-04/freelance-shield-os](./jaivintretiya16-04-freelance-shield-os.md) | ⭐ — | Python | 39/100 |
 | 10 | [vibhanshu-s/briefmint](./vibhanshu-s-briefmint.md) | ⭐ — | HTML | 39/100 |
-| 11 | [Kushaal-k/ScopeKit](./kushaal-k-scopekit.md) | ⭐ — | Python | 39/100 |
-| 12 | [Eternity0207/shoebox](./eternity0207-shoebox.md) | ⭐ — | JavaScript | 39/100 |
-| 13 | [shikharahirwar489-ui/quoteforge-local](./shikharahirwar489-ui-quoteforge-local.md) | ⭐ — | Python | 39/100 |
-| 14 | [Aryan1092raj/ScopeShield](./aryan1092raj-scopeshield.md) | ⭐ — | Python | 36/100 |
+| 11 | [Eternity0207/shoebox](./eternity0207-shoebox.md) | ⭐ — | JavaScript | 39/100 |
+| 12 | [shikharahirwar489-ui/quoteforge-local](./shikharahirwar489-ui-quoteforge-local.md) | ⭐ — | Python | 39/100 |
+| 13 | [Aryan1092raj/ScopeShield](./aryan1092raj-scopeshield.md) | ⭐ — | Python | 36/100 |
+| 14 | [Kushaal-k/ScopeKit](./kushaal-k-scopekit.md) | ⭐ — | Python | 36/100 |
 | 15 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 36/100 |
 | 16 | [xenova/transformers](./xenova-transformers.md) | ⭐ 11 | Python | 35/100 |
 | 17 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 33/100 |
