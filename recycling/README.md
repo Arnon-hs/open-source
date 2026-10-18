@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aniket-work/ResidueDesk-AI](./aniket-work-residuedesk-ai.md) | ⭐ — | Python | 54/100 |
+| 1 | [aniket-work/ResidueDesk-AI](./aniket-work-residuedesk-ai.md) | ⭐ — | Python | 51/100 |
 
 ---
 
