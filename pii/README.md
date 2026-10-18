@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Monsieur-Nico/textConvert](./monsieur-nico-textconvert.md) | ⭐ — | TypeScript | 48/100 |
+| 1 | [sakshi-db/local-med-redactor](./sakshi-db-local-med-redactor.md) | ⭐ — | Python | 42/100 |
 
 ---
 
