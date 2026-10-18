@@ -2,7 +2,7 @@
 
 > 
 
-**4 projects** in this category.
+**5 projects** in this category.
 
 ## Projects
 
@@ -11,7 +11,8 @@
 | 1 | [Yashgurav002/hearsay](./yashgurav002-hearsay.md) | ⭐ — | TypeScript | 45/100 |
 | 2 | [revanth2444-cmyk/keystone-graph](./revanth2444-cmyk-keystone-graph.md) | ⭐ — | Python | 42/100 |
 | 3 | [Mike-Demo/gaming-multiverse-reasoner](./mike-demo-gaming-multiverse-reasoner.md) | ⭐ — | Python | 42/100 |
-| 4 | [SalesforceAIResearch/HERB](./salesforceairesearch-herb.md) | ⭐ 3 | Python | 33/100 |
+| 4 | [aditya052003/teamrescue](./aditya052003-teamrescue.md) | ⭐ — | JavaScript | 39/100 |
+| 5 | [SalesforceAIResearch/HERB](./salesforceairesearch-herb.md) | ⭐ 3 | Python | 33/100 |
 
 ---
 

@@ -63,18 +63,18 @@ protomaps/PMTiles：protomaps/PMTiles may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 70/100 |
-| categoryMatchCount | 100/100 |
-| stars | 74/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| stars | 74/100 |
 | topics | 25/100 |
+| outlook | 66/100 |
+| quality | 66/100 |
+| recency | 80/100 |
+| adoption | 70/100 |
+| production | 63/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

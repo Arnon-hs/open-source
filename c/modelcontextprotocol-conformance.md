@@ -1,6 +1,6 @@
 # modelcontextprotocol/conformance
 
-[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/conformance?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/conformance/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/conformance?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/conformance/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/conformance?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/conformance/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/conformance?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/conformance/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Conformance Tests for MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 115 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-15 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ modelcontextprotocol/conformance：modelcontextprotocol/conformance may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 65/100 |
+| production | 61/100 |
+| outlook | 58/100 |
 | adoption | 47/100 |
 | categoryMatchCount | 800/100 |
 | stars | 45/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

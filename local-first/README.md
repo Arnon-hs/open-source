@@ -13,8 +13,8 @@
 | 3 | [federicolaterra/knemora](./federicolaterra-knemora.md) | ⭐ 3 | Python | 55/100 |
 | 4 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 43/100 |
 | 5 | [Pager-dot/ledgerlocal](./pager-dot-ledgerlocal.md) | ⭐ — | Python | 42/100 |
-| 6 | [utkarshydv27/DukaanFlow-AI](./utkarshydv27-dukaanflow-ai.md) | ⭐ — | Python | 42/100 |
-| 7 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 40/100 |
+| 6 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 40/100 |
+| 7 | [utkarshydv27/DukaanFlow-AI](./utkarshydv27-dukaanflow-ai.md) | ⭐ — | Python | 39/100 |
 | 8 | [tharun634/listinglift](./tharun634-listinglift.md) | ⭐ — | JavaScript | 36/100 |
 | 9 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 36/100 |
 | 10 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 36/100 |
