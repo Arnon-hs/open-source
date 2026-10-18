@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | 1 | [tayyabimam1/awesome-ai-agent-stack](./tayyabimam1-awesome-ai-agent-stack.md) | ⭐ 28 | TypeScript | 69/100 |
 | 2 | [manhquydev/flow-skill](./manhquydev-flow-skill.md) | ⭐ 9 | Shell | 64/100 |
-| 3 | [EleutherAI/gpt-neo](./eleutherai-gpt-neo.md) | ⭐ 8.3k | Python | 64/100 |
-| 4 | [SurgePix/ai-ppt-prompts](./surgepix-ai-ppt-prompts.md) | ⭐ 11 | JavaScript | 63/100 |
+| 3 | [SurgePix/ai-ppt-prompts](./surgepix-ai-ppt-prompts.md) | ⭐ 11 | JavaScript | 63/100 |
+| 4 | [EleutherAI/gpt-neo](./eleutherai-gpt-neo.md) | ⭐ 8.3k | Python | 61/100 |
 | 5 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 6 | [dennisonbertram/agentic-hosting](./dennisonbertram-agentic-hosting.md) | ⭐ 31 | Go | 57/100 |
 | 7 | [auliamnaufal/agent-janitor](./auliamnaufal-agent-janitor.md) | ⭐ — | TypeScript | 56/100 |
