@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40925** |
-| **Categories** | **539** |
+| **Projects** | **40928** |
+| **Categories** | **538** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16107 | [Browse →](./misc/) |
+| 📦 **Misc** | 16108 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4403 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2780 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2331 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2781 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2332 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1580 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1411 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 933 | [Browse →](./backend/) |
@@ -129,6 +129,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Pdf** | 2 | [Browse →](./pdf/) |
 | 🏷️ **Cybersecurity** | 2 | [Browse →](./cybersecurity/) |
 | 🏷️ **Resume-tailoring** | 2 | [Browse →](./resume-tailoring/) |
 | 🏷️ **Iam** | 2 | [Browse →](./iam/) |
@@ -248,7 +249,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Urdb** | 1 | [Browse →](./urdb/) |
 | 🏷️ **Receipt-ocr** | 1 | [Browse →](./receipt-ocr/) |
 | 🏷️ **Scam-ad-checker** | 1 | [Browse →](./scam-ad-checker/) |
-| 🏷️ **Pdf** | 1 | [Browse →](./pdf/) |
 | 🏷️ **Job-hunting** | 1 | [Browse →](./job-hunting/) |
 | 🏷️ **Blood-donation** | 1 | [Browse →](./blood-donation/) |
 | 🏷️ **Family-tree** | 1 | [Browse →](./family-tree/) |
@@ -404,7 +404,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Api-security** | 1 | [Browse →](./api-security/) |
 | 🏷️ **Crash-recovery** | 1 | [Browse →](./crash-recovery/) |
 | 🏷️ **Measurement** | 1 | [Browse →](./measurement/) |
-| 🏷️ **Apple-health** | 1 | [Browse →](./apple-health/) |
 | 🏷️ **Litter-collection** | 1 | [Browse →](./litter-collection/) |
 | 🏷️ **Agent-cost** | 1 | [Browse →](./agent-cost/) |
 | 🏷️ **Localfirst** | 1 | [Browse →](./localfirst/) |
