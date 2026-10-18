@@ -10,10 +10,10 @@
 |---|---|---|---|---|
 | 1 | [souptik4572/tuition-setu](./souptik4572-tuition-setu.md) | ⭐ — | TypeScript | 42/100 |
 | 2 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
-| 3 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 41/100 |
-| 4 | [Charlie-ai786/LocalAI-Sidekick](./charlie-ai786-localai-sidekick.md) | ⭐ — | TypeScript | 39/100 |
-| 5 | [SaifuddinM23/printbrief](./saifuddinm23-printbrief.md) | ⭐ — | JavaScript | 39/100 |
-| 6 | [sundaysebasidian-byte/sundaysebasidian-byte.github.io](./sundaysebasidian-byte-sundaysebasidian-byte.github.io.md) | ⭐ — | TypeScript | 39/100 |
+| 3 | [Charlie-ai786/LocalAI-Sidekick](./charlie-ai786-localai-sidekick.md) | ⭐ — | TypeScript | 39/100 |
+| 4 | [SaifuddinM23/printbrief](./saifuddinm23-printbrief.md) | ⭐ — | JavaScript | 39/100 |
+| 5 | [sundaysebasidian-byte/sundaysebasidian-byte.github.io](./sundaysebasidian-byte-sundaysebasidian-byte.github.io.md) | ⭐ — | TypeScript | 39/100 |
+| 6 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 38/100 |
 | 7 | [Gautam5514/hack_week3](./gautam5514-hack-week3.md) | ⭐ — | JavaScript | 36/100 |
 | 8 | [Nivin-Sithija/ShadeWindow](./nivin-sithija-shadewindow.md) | ⭐ — | CSS | 36/100 |
 | 9 | [SaifuddinM23/gardenfix](./saifuddinm23-gardenfix.md) | ⭐ — | JavaScript | 33/100 |

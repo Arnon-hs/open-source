@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ntsd/pomodoro-chad](./ntsd-pomodoro-chad.md) | ⭐ — | Astro | 45/100 |
-| 2 | [rgmey/pomodoro](./rgmey-pomodoro.md) | ⭐ — | Python | 30/100 |
+| 1 | [rgmey/pomodoro](./rgmey-pomodoro.md) | ⭐ — | Python | 30/100 |
 
 ---
 
