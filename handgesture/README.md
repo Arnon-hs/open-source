@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AMAN240310/gesture-voice-presenter-remote](./aman240310-gesture-voice-presenter-remote.md) | ⭐ — | Python | 36/100 |
+| 1 | [AMAN240310/gesture-voice-presenter-remote](./aman240310-gesture-voice-presenter-remote.md) | ⭐ — | Python | 33/100 |
 
 ---
 

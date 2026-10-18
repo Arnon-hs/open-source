@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [quonaro/minimin](./quonaro-minimin.md) | ⭐ 7 | Vue | 73/100 |
+| 1 | [quonaro/minimin](./quonaro-minimin.md) | ⭐ 7 | Vue | 70/100 |
 | 2 | [WalnutIcecream/Nomad](./walnuticecream-nomad.md) | ⭐ 1 | Python | 31/100 |
 | 3 | [quonaro/minimin-sync](./quonaro-minimin-sync.md) | ⭐ — | — | 24/100 |
 
