@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [humbertovillanueva/garu](./humbertovillanueva-garu.md) | ⭐ — | TypeScript | 63/100 |
+| 1 | [humbertovillanueva/garu](./humbertovillanueva-garu.md) | ⭐ — | TypeScript | 60/100 |
 
 ---
 
