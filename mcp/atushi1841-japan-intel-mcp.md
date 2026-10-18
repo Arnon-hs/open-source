@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Japanese public data · keyless · weather · earthquake · typhoon · EDINET · postal code
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ atushi1841/japan-intel-mcp: atushi1841/japan-intel-mcp helps connect AI assistan
 
 ### Русский
 
-atushi1841/japan-intel-mcp: open-source проект в категориях MCP, Japanese public data, keyless, weather, earthquake, typhoon, EDINET, postal code. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+atushi1841/japan-intel-mcp: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,18 +62,18 @@ atushi1841/japan-intel-mcp：atushi1841/japan-intel-mcp helps connect AI assista
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 31/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 47/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 800/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 0/100 |
+| outlook | 47/100 |
+| quality | 31/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 53/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40832** |
-| **Categories** | **526** |
+| **Projects** | **40844** |
+| **Categories** | **528** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16068 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4398 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16072 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4399 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2778 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2331 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1580 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1409 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1410 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 933 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 885 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 783 | [Browse →](./crypto/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 509 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 489 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 451 | [Browse →](./templates/) |
-| 🏷️ **Communication** | 424 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 425 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
 | 📊 **Data** | 340 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 338 | [Browse →](./games--graphics/) |
@@ -55,11 +55,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 112 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 34 | [Browse →](./open-source/) |
-| 🏷️ **Offline** | 34 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 33 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 31 | [Browse →](./education/) |
-| 🏷️ **Ai-agents** | 22 | [Browse →](./ai-agents/) |
-| 🏷️ **Privacy** | 21 | [Browse →](./privacy/) |
+| 🏷️ **Ai-agents** | 23 | [Browse →](./ai-agents/) |
+| 🏷️ **Privacy** | 22 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 21 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
 | 🏷️ **Freelance** | 19 | [Browse →](./freelance/) |
@@ -126,6 +126,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Iam** | 2 | [Browse →](./iam/) |
+| 🏷️ **Inventory-forecasting** | 2 | [Browse →](./inventory-forecasting/) |
 | 🏷️ **Storageoptimization** | 2 | [Browse →](./storageoptimization/) |
 | 🏷️ **Code-graph** | 2 | [Browse →](./code-graph/) |
 | 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
@@ -205,6 +207,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agent-based-systems** | 1 | [Browse →](./agent-based-systems/) |
+| 🏷️ **Online-sellers** | 1 | [Browse →](./online-sellers/) |
 | 🏷️ **On-chain-audit** | 1 | [Browse →](./on-chain-audit/) |
 | 🏷️ **Desktop-ai** | 1 | [Browse →](./desktop-ai/) |
 | 🏷️ **Pii** | 1 | [Browse →](./pii/) |
@@ -396,8 +400,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Localfirst** | 1 | [Browse →](./localfirst/) |
 | 🏷️ **Map-based** | 1 | [Browse →](./map-based/) |
 | 🏷️ **Plant-care** | 1 | [Browse →](./plant-care/) |
-| 🏷️ **Ai-chat** | 1 | [Browse →](./ai-chat/) |
-| 🏷️ **Local-exploration** | 1 | [Browse →](./local-exploration/) |
 | 🏷️ **Voice-first** | 1 | [Browse →](./voice-first/) |
 | 🏷️ **Voicefirst** | 1 | [Browse →](./voicefirst/) |
 | 🏷️ **Desktop-app** | 1 | [Browse →](./desktop-app/) |

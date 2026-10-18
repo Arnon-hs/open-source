@@ -1,6 +1,6 @@
 # RiyaDhami13/vaultdocs-ai
 
-[![Stars](https://img.shields.io/github/stars/RiyaDhami13/vaultdocs-ai?style=flat-square&color=yellow)](https://github.com/RiyaDhami13/vaultdocs-ai/stargazers) [![Forks](https://img.shields.io/github/forks/RiyaDhami13/vaultdocs-ai?style=flat-square&color=blue)](https://github.com/RiyaDhami13/vaultdocs-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RiyaDhami13/vaultdocs-ai?style=flat-square&color=yellow)](https://github.com/RiyaDhami13/vaultdocs-ai/stargazers) [![Forks](https://img.shields.io/github/forks/RiyaDhami13/vaultdocs-ai?style=flat-square&color=blue)](https://github.com/RiyaDhami13/vaultdocs-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > VaultDocs AI solves this by running 100% on the user's local machine. No PDF text, embeddings, or prompts ever leave local memory. It parses client contracts, retrieves high-risk clauses in milliseconds using a hybrid BM25 and dense ranking engine, performs local open-weight LLM screening, verifies citations directly against extracted PDF text to e
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-15 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ RiyaDhami13/vaultdocs-ai：RiyaDhami13/vaultdocs-ai may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 54/100 |
+| production | 53/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
