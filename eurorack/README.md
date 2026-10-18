@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Kavinhbn/Eurostack](./kavinhbn-eurostack.md) | ⭐ — | TypeScript | 36/100 |
+| 1 | [Kavinhbn/Eurostack](./kavinhbn-eurostack.md) | ⭐ — | TypeScript | 33/100 |
 
 ---
 
