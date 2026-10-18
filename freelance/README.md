@@ -2,7 +2,7 @@
 
 > 
 
-**17 projects** in this category.
+**19 projects** in this category.
 
 ## Projects
 
@@ -19,12 +19,14 @@
 | 9 | [Kushaal-k/ScopeKit](./kushaal-k-scopekit.md) | ⭐ — | Python | 39/100 |
 | 10 | [Eternity0207/shoebox](./eternity0207-shoebox.md) | ⭐ — | JavaScript | 39/100 |
 | 11 | [shikharahirwar489-ui/quoteforge-local](./shikharahirwar489-ui-quoteforge-local.md) | ⭐ — | Python | 39/100 |
-| 12 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 36/100 |
-| 13 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 36/100 |
-| 14 | [xenova/transformers](./xenova-transformers.md) | ⭐ 11 | Python | 35/100 |
-| 15 | [google/gemma-3-4b-it](./google-gemma-3-4b-it.md) | ⭐ — | — | 27/100 |
-| 16 | [ai-forever/tabpfn](./ai-forever-tabpfn.md) | ⭐ — | — | 24/100 |
-| 17 | [youchen-builds/scopesmith](./youchen-builds-scopesmith.md) | ⭐ — | — | 24/100 |
+| 12 | [Aryan1092raj/ScopeShield](./aryan1092raj-scopeshield.md) | ⭐ — | Python | 36/100 |
+| 13 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 36/100 |
+| 14 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 36/100 |
+| 15 | [xenova/transformers](./xenova-transformers.md) | ⭐ 11 | Python | 35/100 |
+| 16 | [google/gemma-3-4b-it](./google-gemma-3-4b-it.md) | ⭐ — | — | 27/100 |
+| 17 | [allenai/tabpfn](./allenai-tabpfn.md) | ⭐ — | — | 24/100 |
+| 18 | [ai-forever/tabpfn](./ai-forever-tabpfn.md) | ⭐ — | — | 24/100 |
+| 19 | [youchen-builds/scopesmith](./youchen-builds-scopesmith.md) | ⭐ — | — | 24/100 |
 
 ---
 

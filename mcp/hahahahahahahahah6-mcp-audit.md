@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · security · config-audit · CVE · runtime-scanner
+MCP · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ hahahahahahahahah6/mcp-audit: hahahahahahahahah6/mcp-audit helps connect AI assi
 
 ### Русский
 
-hahahahahahahahah6/mcp-audit: open-source проект в категориях MCP, security, config-audit, CVE, runtime-scanner. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+hahahahahahahahah6/mcp-audit: open-source проект в категориях MCP, Security. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,18 +62,18 @@ hahahahahahahahah6/mcp-audit：hahahahahahahahah6/mcp-audit helps connect AI ass
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 31/100 |
-| integration | 78/100 |
-| production | 55/100 |
-| outlook | 50/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 500/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 0/100 |
+| outlook | 50/100 |
+| quality | 31/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 55/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

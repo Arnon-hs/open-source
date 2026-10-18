@@ -2,7 +2,7 @@
 
 > 
 
-**14 projects** in this category.
+**13 projects** in this category.
 
 ## Projects
 
@@ -16,12 +16,11 @@
 | 6 | [Kruhlikau/subagent-tuner](./kruhlikau-subagent-tuner.md) | ⭐ — | TypeScript | 50/100 |
 | 7 | [hahahahahahahahah6/skill-tax-cli](./hahahahahahahahah6-skill-tax-cli.md) | ⭐ — | Python | 46/100 |
 | 8 | [Gleaming0427/monument](./gleaming0427-monument.md) | ⭐ 1 | JavaScript | 44/100 |
-| 9 | [hahahahahahahahah6/frontmatter-guard](./hahahahahahahahah6-frontmatter-guard.md) | ⭐ — | Python | 42/100 |
-| 10 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |
-| 11 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 30/100 |
-| 12 | [volvox-ltd/claude-docs-watch](./volvox-ltd-claude-docs-watch.md) | ⭐ — | — | 24/100 |
-| 13 | [uehara/context-drop](./uehara-context-drop.md) | ⭐ — | — | 24/100 |
-| 14 | [anthropic/codex](./anthropic-codex.md) | ⭐ — | — | 24/100 |
+| 9 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |
+| 10 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 30/100 |
+| 11 | [volvox-ltd/claude-docs-watch](./volvox-ltd-claude-docs-watch.md) | ⭐ — | — | 24/100 |
+| 12 | [uehara/context-drop](./uehara-context-drop.md) | ⭐ — | — | 24/100 |
+| 13 | [anthropic/codex](./anthropic-codex.md) | ⭐ — | — | 24/100 |
 
 ---
 
