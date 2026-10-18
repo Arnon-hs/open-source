@@ -1,0 +1,15 @@
+# 🏷️ Side-project
+
+> 
+
+**1 projects** in this category.
+
+## Projects
+
+| # | Project | Stars | Language | Score |
+|---|---|---|---|---|
+| 1 | [imarpanpatra/moonlight](./imarpanpatra-moonlight.md) | ⭐ — | JavaScript | 39/100 |
+
+---
+
+[← Back to main catalog](../README.md)
