@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40706** |
-| **Categories** | **515** |
+| **Projects** | **40713** |
+| **Categories** | **518** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16024 | [Browse →](./misc/) |
+| 📦 **Misc** | 16026 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4389 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2778 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2331 | [Browse →](./orchestration/) |
@@ -79,6 +79,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
+| 🏷️ **Go** | 4 | [Browse →](./go/) |
 | 🏷️ **Small-business** | 4 | [Browse →](./small-business/) |
 | 🏷️ **Macos** | 4 | [Browse →](./macos/) |
 | 🏷️ **Ecommerce** | 4 | [Browse →](./ecommerce/) |
@@ -111,7 +112,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 3 | [Browse →](./terminal/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
-| 🏷️ **Go** | 3 | [Browse →](./go/) |
 | 🏷️ **Ai-testing** | 3 | [Browse →](./ai-testing/) |
 | 🏷️ **Linux** | 3 | [Browse →](./linux/) |
 | 🏷️ **Coding-agents** | 3 | [Browse →](./coding-agents/) |
@@ -121,6 +121,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Tcg** | 2 | [Browse →](./tcg/) |
 | 🏷️ **Deployment** | 2 | [Browse →](./deployment/) |
 | 🏷️ **Telegram** | 2 | [Browse →](./telegram/) |
 | 🏷️ **Privacy-first** | 2 | [Browse →](./privacy-first/) |
@@ -202,6 +203,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Audit** | 1 | [Browse →](./audit/) |
+| 🏷️ **Portfolio-backtesting** | 1 | [Browse →](./portfolio-backtesting/) |
 | 🏷️ **Authorization** | 1 | [Browse →](./authorization/) |
 | 🏷️ **Urdb** | 1 | [Browse →](./urdb/) |
 | 🏷️ **Receipt-ocr** | 1 | [Browse →](./receipt-ocr/) |
