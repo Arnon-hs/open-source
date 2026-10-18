@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40861** |
-| **Categories** | **530** |
+| **Projects** | **40872** |
+| **Categories** | **534** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16078 | [Browse →](./misc/) |
+| 📦 **Misc** | 16082 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4399 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2778 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2331 | [Browse →](./orchestration/) |
@@ -53,8 +53,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 178 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 146 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 114 | [Browse →](./ai/) |
-| 🏷️ **Open-source** | 34 | [Browse →](./open-source/) |
+| 🏷️ **Ai** | 115 | [Browse →](./ai/) |
+| 🏷️ **Open-source** | 35 | [Browse →](./open-source/) |
 | 🏷️ **Offline** | 33 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 31 | [Browse →](./education/) |
@@ -128,6 +128,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Cybersecurity** | 2 | [Browse →](./cybersecurity/) |
 | 🏷️ **Resume-tailoring** | 2 | [Browse →](./resume-tailoring/) |
 | 🏷️ **Iam** | 2 | [Browse →](./iam/) |
 | 🏷️ **Inventory-forecasting** | 2 | [Browse →](./inventory-forecasting/) |
@@ -209,6 +210,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-supervision** | 1 | [Browse →](./ai-supervision/) |
+| 🏷️ **Home-assistant** | 1 | [Browse →](./home-assistant/) |
+| 🏷️ **Ai-receptionist** | 1 | [Browse →](./ai-receptionist/) |
+| 🏷️ **Shopify** | 1 | [Browse →](./shopify/) |
 | 🏷️ **Agent-based-systems** | 1 | [Browse →](./agent-based-systems/) |
 | 🏷️ **Online-sellers** | 1 | [Browse →](./online-sellers/) |
 | 🏷️ **On-chain-audit** | 1 | [Browse →](./on-chain-audit/) |
@@ -441,7 +446,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Notion** | 1 | [Browse →](./notion/) |
 | 🏷️ **Browser-based** | 1 | [Browse →](./browser-based/) |
 | 🏷️ **Document-management** | 1 | [Browse →](./document-management/) |
-| 🏷️ **Cybersecurity** | 1 | [Browse →](./cybersecurity/) |
 | 🏷️ **Study** | 1 | [Browse →](./study/) |
 | 🏷️ **Nodejs** | 1 | [Browse →](./nodejs/) |
 | 🏷️ **Handgesture** | 1 | [Browse →](./handgesture/) |
