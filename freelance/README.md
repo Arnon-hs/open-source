@@ -13,11 +13,11 @@
 | 3 | [nonsense3/Basalt](./nonsense3-basalt.md) | ⭐ — | TypeScript | 53/100 |
 | 4 | [HuzaifaAbdulRehman/checkilex](./huzaifaabdulrehman-checkilex.md) | ⭐ — | TypeScript | 46/100 |
 | 5 | [aryanshaurya1012-collab/ScopeMate-AI](./aryanshaurya1012-collab-scopemate-ai.md) | ⭐ — | TypeScript | 46/100 |
-| 6 | [Eternity0207/shoebox](./eternity0207-shoebox.md) | ⭐ — | JavaScript | 42/100 |
-| 7 | [NavyaPachigolla/FreelanceFlow](./navyapachigolla-freelanceflow.md) | ⭐ — | Python | 42/100 |
-| 8 | [jaivintretiya16-04/freelance-shield-os](./jaivintretiya16-04-freelance-shield-os.md) | ⭐ — | Python | 39/100 |
-| 9 | [vibhanshu-s/briefmint](./vibhanshu-s-briefmint.md) | ⭐ — | HTML | 39/100 |
-| 10 | [Kushaal-k/ScopeKit](./kushaal-k-scopekit.md) | ⭐ — | Python | 39/100 |
+| 6 | [NavyaPachigolla/FreelanceFlow](./navyapachigolla-freelanceflow.md) | ⭐ — | Python | 42/100 |
+| 7 | [jaivintretiya16-04/freelance-shield-os](./jaivintretiya16-04-freelance-shield-os.md) | ⭐ — | Python | 39/100 |
+| 8 | [vibhanshu-s/briefmint](./vibhanshu-s-briefmint.md) | ⭐ — | HTML | 39/100 |
+| 9 | [Kushaal-k/ScopeKit](./kushaal-k-scopekit.md) | ⭐ — | Python | 39/100 |
+| 10 | [Eternity0207/shoebox](./eternity0207-shoebox.md) | ⭐ — | JavaScript | 39/100 |
 | 11 | [shikharahirwar489-ui/quoteforge-local](./shikharahirwar489-ui-quoteforge-local.md) | ⭐ — | Python | 39/100 |
 | 12 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 36/100 |
 | 13 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 36/100 |

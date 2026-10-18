@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [todoforai/voiceloop](./todoforai-voiceloop.md) | ⭐ 5 | JavaScript | 48/100 |
-| 2 | [todoforai/voice-agent-bench](./todoforai-voice-agent-bench.md) | ⭐ 1 | JavaScript | 45/100 |
+| 1 | [SripadaError101/Great_Sage](./sripadaerror101-great-sage.md) | ⭐ — | Python | 39/100 |
 
 ---
 
