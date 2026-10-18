@@ -157,8 +157,8 @@
 | 147 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 105 | Swift | 67/100 |
 | 148 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 25 | Python | 67/100 |
 | 149 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 272 | TypeScript | 67/100 |
-| 150 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 67/100 |
-| 151 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 67/100 |
+| 150 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 67/100 |
+| 151 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 67/100 |
 | 152 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 201 | Go | 67/100 |
 | 153 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 4.5k | TypeScript | 67/100 |
 | 154 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 172 | Python | 67/100 |
@@ -443,8 +443,8 @@
 | 433 | [Salesforce/blip-image-captioning-large](./salesforce-blip-image-captioning-large.md) | ⭐ 1.5k | transformers | 49/100 |
 | 434 | [gladiaio/gladia-cli](./gladiaio-gladia-cli.md) | ⭐ — | — | 49/100 |
 | 435 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 588 | JavaScript | 49/100 |
-| 436 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
-| 437 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
+| 436 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
+| 437 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
 | 438 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 439 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ — | — | 48/100 |
 | 440 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ — | — | 48/100 |
