@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40743** |
-| **Categories** | **520** |
+| **Projects** | **40746** |
+| **Categories** | **522** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 783 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 681 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 640 | [Browse →](./networking/) |
-| 📱 **Mobile** | 627 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 628 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 607 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 594 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 532 | [Browse →](./database/) |
@@ -76,6 +76,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
+| 🏷️ **Claude** | 5 | [Browse →](./claude/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
@@ -87,7 +88,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Openapi** | 4 | [Browse →](./openapi/) |
 | 🏷️ **Devsecops** | 4 | [Browse →](./devsecops/) |
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
-| 🏷️ **Claude** | 4 | [Browse →](./claude/) |
 | 🏷️ **Net** | 4 | [Browse →](./net/) |
 | 🏷️ **Embedding** | 4 | [Browse →](./embedding/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
@@ -143,7 +143,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llamaindex** | 2 | [Browse →](./llamaindex/) |
 | 🏷️ **Ocr** | 2 | [Browse →](./ocr/) |
 | 🏷️ **Architecture** | 2 | [Browse →](./architecture/) |
-| 🏷️ **File-transfer** | 2 | [Browse →](./file-transfer/) |
 | 🏷️ **Agent-based-development** | 2 | [Browse →](./agent-based-development/) |
 | 🏷️ **Text-to-speech** | 2 | [Browse →](./text-to-speech/) |
 | 🏷️ **C** | 2 | [Browse →](./c/) |
@@ -204,6 +203,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Browser-extension** | 1 | [Browse →](./browser-extension/) |
+| 🏷️ **Ai-translation** | 1 | [Browse →](./ai-translation/) |
 | 🏷️ **Cloud-security** | 1 | [Browse →](./cloud-security/) |
 | 🏷️ **Voiceassistant** | 1 | [Browse →](./voiceassistant/) |
 | 🏷️ **Ssl** | 1 | [Browse →](./ssl/) |
@@ -249,6 +250,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agentgateway** | 1 | [Browse →](./agentgateway/) |
 | 🏷️ **Gemma** | 1 | [Browse →](./gemma/) |
 | 🏷️ **Ai-payments** | 1 | [Browse →](./ai-payments/) |
+| 🏷️ **File-transfer** | 1 | [Browse →](./file-transfer/) |
 | 🏷️ **Note-taking** | 1 | [Browse →](./note-taking/) |
 | 🏷️ **Canvas** | 1 | [Browse →](./canvas/) |
 | 🏷️ **Bike-fitting** | 1 | [Browse →](./bike-fitting/) |

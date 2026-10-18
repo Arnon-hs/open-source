@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · record/replay · contract-gating · linting · CI
+MCP · DevTools · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ivermin1123/mcp-cassette: ivermin1123/mcp-cassette helps connect AI assistants t
 
 ### Русский
 
-ivermin1123/mcp-cassette: open-source проект в категориях MCP, record/replay, contract-gating, linting, CI. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ivermin1123/mcp-cassette: open-source проект в категориях MCP, DevTools, Security. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ ivermin1123/mcp-cassette：ivermin1123/mcp-cassette helps connect AI assistants 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 60/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 500/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [onlymoein/google-search-console-mcp](./onlymoein-google-search-console-mcp.md) | ⭐ 2 | Python | 66/100 |
+| 1 | [onlymoein/google-search-console-mcp](./onlymoein-google-search-console-mcp.md) | ⭐ 2 | Python | 63/100 |
 
 ---
 
