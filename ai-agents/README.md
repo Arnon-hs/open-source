@@ -2,7 +2,7 @@
 
 > 
 
-**18 projects** in this category.
+**19 projects** in this category.
 
 ## Projects
 
@@ -20,12 +20,13 @@
 | 10 | [waiaas/cli](./waiaas-cli.md) | ⭐ — | — | 32/100 |
 | 11 | [waiaas/sdk](./waiaas-sdk.md) | ⭐ — | — | 32/100 |
 | 12 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 32/100 |
-| 13 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
-| 14 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
-| 15 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
-| 16 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
-| 17 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
-| 18 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
+| 13 | [falkor-db/falkor-db](./falkor-db-falkor-db.md) | ⭐ — | — | 24/100 |
+| 14 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
+| 15 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
+| 16 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
+| 17 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
+| 18 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
+| 19 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
 
 ---
 

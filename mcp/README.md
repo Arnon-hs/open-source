@@ -2,7 +2,7 @@
 
 > 
 
-**2777 projects** in this category.
+**2778 projects** in this category.
 
 ## Projects
 
@@ -643,8 +643,8 @@
 | 633 | [matlab/matlab-mcp-server](./matlab-matlab-mcp-server.md) | ⭐ 1.2k | Go | 74/100 |
 | 634 | [idimetrix/idimetrix](./idimetrix-idimetrix.md) | ⭐ 102 | — | 74/100 |
 | 635 | [suryast/indonesia-gov-apis](./suryast-indonesia-gov-apis.md) | ⭐ 155 | HTML | 74/100 |
-| 636 | [douglasmonsky/codex-usage-tracker](./douglasmonsky-codex-usage-tracker.md) | ⭐ 149 | Python | 74/100 |
-| 637 | [JUNKDOGE-JOE/after-effects-mcp](./junkdoge-joe-after-effects-mcp.md) | ⭐ 24 | JavaScript | 74/100 |
+| 636 | [JUNKDOGE-JOE/after-effects-mcp](./junkdoge-joe-after-effects-mcp.md) | ⭐ 24 | JavaScript | 74/100 |
+| 637 | [douglasmonsky/codex-usage-tracker](./douglasmonsky-codex-usage-tracker.md) | ⭐ 149 | Python | 74/100 |
 | 638 | [GenAIwithMS/twitter-mcp](./genaiwithms-twitter-mcp.md) | ⭐ 21 | TypeScript | 74/100 |
 | 639 | [arturogarrido/claudinho](./arturogarrido-claudinho.md) | ⭐ 23 | TypeScript | 74/100 |
 | 640 | [olostep/olostep-mcp-server](./olostep-olostep-mcp-server.md) | ⭐ 21 | TypeScript | 74/100 |
@@ -717,8 +717,8 @@
 | 707 | [ax128/AegisGate](./ax128-aegisgate.md) | ⭐ 58 | Python | 73/100 |
 | 708 | [HenryZ838978/deepseek-harness](./henryz838978-deepseek-harness.md) | ⭐ 43 | Python | 73/100 |
 | 709 | [southleft/figma-console-mcp-skills](./southleft-figma-console-mcp-skills.md) | ⭐ 71 | JavaScript | 73/100 |
-| 710 | [sattyamjjain/agent-audit-kit](./sattyamjjain-agent-audit-kit.md) | ⭐ 13 | Python | 73/100 |
-| 711 | [ninemindai/agentback](./ninemindai-agentback.md) | ⭐ 35 | TypeScript | 73/100 |
+| 710 | [ninemindai/agentback](./ninemindai-agentback.md) | ⭐ 35 | TypeScript | 73/100 |
+| 711 | [sattyamjjain/agent-audit-kit](./sattyamjjain-agent-audit-kit.md) | ⭐ 13 | Python | 73/100 |
 | 712 | [nicknisi/sessions](./nicknisi-sessions.md) | ⭐ 26 | TypeScript | 73/100 |
 | 713 | [Arch1eSUN/Arcgentic](./arch1esun-arcgentic.md) | ⭐ 32 | Python | 73/100 |
 | 714 | [yyjeqhc/webcodex](./yyjeqhc-webcodex.md) | ⭐ 82 | Rust | 73/100 |
@@ -734,8 +734,8 @@
 | 724 | [jlsookiki/secondhand-mcp](./jlsookiki-secondhand-mcp.md) | ⭐ 34 | TypeScript | 73/100 |
 | 725 | [drewburchfield/help-scout-mcp-server](./drewburchfield-help-scout-mcp-server.md) | ⭐ 46 | TypeScript | 73/100 |
 | 726 | [nwiizo/tfmcp](./nwiizo-tfmcp.md) | ⭐ 371 | Rust | 73/100 |
-| 727 | [CelestoAI/agentor](./celestoai-agentor.md) | ⭐ 192 | Python | 73/100 |
-| 728 | [isdaniel/mcp_weather_server](./isdaniel-mcp-weather-server.md) | ⭐ 55 | Python | 73/100 |
+| 727 | [isdaniel/mcp_weather_server](./isdaniel-mcp-weather-server.md) | ⭐ 55 | Python | 73/100 |
+| 728 | [CelestoAI/agentor](./celestoai-agentor.md) | ⭐ 192 | Python | 73/100 |
 | 729 | [wgt19861219/godot-mcp-enhanced](./wgt19861219-godot-mcp-enhanced.md) | ⭐ 75 | TypeScript | 73/100 |
 | 730 | [covagashi/eplan-rag-mcp](./covagashi-eplan-rag-mcp.md) | ⭐ 56 | Python | 73/100 |
 | 731 | [Tapetide-hq/nse-bse-indian-stock-market-data-mcp](./tapetide-hq-nse-bse-indian-stock-market-data-mcp.md) | ⭐ 51 | JavaScript | 73/100 |
@@ -861,8 +861,8 @@
 | 851 | [noemica-io/open-claude-in-chrome](./noemica-io-open-claude-in-chrome.md) | ⭐ 155 | HTML | 72/100 |
 | 852 | [universal-tool-calling-protocol/utcp-specification](./universal-tool-calling-protocol-utcp-specification.md) | ⭐ 301 | TypeScript | 72/100 |
 | 853 | [dbcodeio/public](./dbcodeio-public.md) | ⭐ 317 | — | 72/100 |
-| 854 | [lbiceman/iceCoder](./lbiceman-icecoder.md) | ⭐ 66 | TypeScript | 72/100 |
-| 855 | [jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software](./jianbaorui07-dot-codex-integration-with-creative-industry-software.md) | ⭐ 31 | Python | 72/100 |
+| 854 | [jianbaorui07-dot/Codex-Integration-with-Creative-Industry-Software](./jianbaorui07-dot-codex-integration-with-creative-industry-software.md) | ⭐ 31 | Python | 72/100 |
+| 855 | [lbiceman/iceCoder](./lbiceman-icecoder.md) | ⭐ 66 | TypeScript | 72/100 |
 | 856 | [Adancurusul/embedded-debugger-mcp](./adancurusul-embedded-debugger-mcp.md) | ⭐ 124 | Rust | 72/100 |
 | 857 | [kimtth/mcp-aoai-web-browsing](./kimtth-mcp-aoai-web-browsing.md) | ⭐ 34 | Python | 72/100 |
 | 858 | [actionhero/keryx](./actionhero-keryx.md) | ⭐ 32 | TypeScript | 72/100 |
@@ -884,13 +884,13 @@
 | 874 | [rrezartprebreza/spring-boot-skills](./rrezartprebreza-spring-boot-skills.md) | ⭐ 130 | Java | 72/100 |
 | 875 | [glidea/zenfeed](./glidea-zenfeed.md) | ⭐ 1.7k | Go | 72/100 |
 | 876 | [tarunlnmiit/autopilot-jobhunt](./tarunlnmiit-autopilot-jobhunt.md) | ⭐ 102 | Python | 72/100 |
-| 877 | [rhel-lightspeed/linux-mcp-server](./rhel-lightspeed-linux-mcp-server.md) | ⭐ 252 | Python | 72/100 |
-| 878 | [hi-godot/godot-ai](./hi-godot-godot-ai.md) | ⭐ 795 | GDScript | 72/100 |
+| 877 | [hi-godot/godot-ai](./hi-godot-godot-ai.md) | ⭐ 795 | GDScript | 72/100 |
+| 878 | [rhel-lightspeed/linux-mcp-server](./rhel-lightspeed-linux-mcp-server.md) | ⭐ 252 | Python | 72/100 |
 | 879 | [samerfarida/mcp-ssh-orchestrator](./samerfarida-mcp-ssh-orchestrator.md) | ⭐ 26 | Python | 72/100 |
 | 880 | [rehan1020/MCP-India-Stack](./rehan1020-mcp-india-stack.md) | ⭐ 31 | Python | 72/100 |
 | 881 | [cyanheads/workflows-mcp-server](./cyanheads-workflows-mcp-server.md) | ⭐ 31 | TypeScript | 72/100 |
-| 882 | [rak7777/mythic-mcp-proxy](./rak7777-mythic-mcp-proxy.md) | ⭐ 105 | HTML | 72/100 |
-| 883 | [claudioemmanuel/squeez](./claudioemmanuel-squeez.md) | ⭐ 160 | Rust | 72/100 |
+| 882 | [claudioemmanuel/squeez](./claudioemmanuel-squeez.md) | ⭐ 160 | Rust | 72/100 |
+| 883 | [rak7777/mythic-mcp-proxy](./rak7777-mythic-mcp-proxy.md) | ⭐ 105 | HTML | 72/100 |
 | 884 | [corezoid/simulator-ai-plugin](./corezoid-simulator-ai-plugin.md) | ⭐ 54 | Go | 72/100 |
 | 885 | [containers/kubernetes-mcp-server](./containers-kubernetes-mcp-server.md) | ⭐ 1.7k | Go | 72/100 |
 | 886 | [PrismorSec/prismor](./prismorsec-prismor.md) | ⭐ 214 | Python | 72/100 |
@@ -912,12 +912,12 @@
 | 902 | [hmmhmmhm/daiso-mcp](./hmmhmmhm-daiso-mcp.md) | ⭐ 305 | TypeScript | 72/100 |
 | 903 | [7xuanlu/wenlan](./7xuanlu-wenlan.md) | ⭐ 45 | Rust | 72/100 |
 | 904 | [osaurus-ai/osaurus](./osaurus-ai-osaurus.md) | ⭐ 6k | Swift | 72/100 |
-| 905 | [danmartuszewski/hop](./danmartuszewski-hop.md) | ⭐ 54 | Go | 72/100 |
-| 906 | [msaad00/agent-bom](./msaad00-agent-bom.md) | ⭐ 22 | Python | 72/100 |
+| 905 | [msaad00/agent-bom](./msaad00-agent-bom.md) | ⭐ 22 | Python | 72/100 |
+| 906 | [danmartuszewski/hop](./danmartuszewski-hop.md) | ⭐ 54 | Go | 72/100 |
 | 907 | [yogthos/chiasmus](./yogthos-chiasmus.md) | ⭐ 177 | TypeScript | 72/100 |
 | 908 | [zhimaAi/ChatClaw](./zhimaai-chatclaw.md) | ⭐ 282 | Go | 72/100 |
-| 909 | [unif-api/unifapi](./unif-api-unifapi.md) | ⭐ 476 | — | 72/100 |
-| 910 | [bug-ops/mcpls](./bug-ops-mcpls.md) | ⭐ 34 | Rust | 72/100 |
+| 909 | [bug-ops/mcpls](./bug-ops-mcpls.md) | ⭐ 34 | Rust | 72/100 |
+| 910 | [unif-api/unifapi](./unif-api-unifapi.md) | ⭐ 476 | — | 72/100 |
 | 911 | [roampal-ai/roampal](./roampal-ai-roampal.md) | ⭐ 120 | Python | 72/100 |
 | 912 | [meta-quest/agentic-tools](./meta-quest-agentic-tools.md) | ⭐ 45 | — | 72/100 |
 | 913 | [raphasouthall/neurostack](./raphasouthall-neurostack.md) | ⭐ 41 | Python | 72/100 |
@@ -1030,8 +1030,8 @@
 | 1020 | [Tom-Ryder/AgentRunKit](./tom-ryder-agentrunkit.md) | ⭐ 25 | Swift | 71/100 |
 | 1021 | [genomoncology/biomcp](./genomoncology-biomcp.md) | ⭐ 529 | Rust | 71/100 |
 | 1022 | [nailuoGG/anki-mcp-server](./nailuogg-anki-mcp-server.md) | ⭐ 238 | TypeScript | 71/100 |
-| 1023 | [shopwareLabs/ai-coding-tools](./shopwarelabs-ai-coding-tools.md) | ⭐ 28 | Shell | 71/100 |
-| 1024 | [aaronsb/knowledge-graph-system](./aaronsb-knowledge-graph-system.md) | ⭐ 38 | Python | 71/100 |
+| 1023 | [aaronsb/knowledge-graph-system](./aaronsb-knowledge-graph-system.md) | ⭐ 38 | Python | 71/100 |
+| 1024 | [shopwareLabs/ai-coding-tools](./shopwarelabs-ai-coding-tools.md) | ⭐ 28 | Shell | 71/100 |
 | 1025 | [plasmate-labs/plasmate](./plasmate-labs-plasmate.md) | ⭐ 21 | HTML | 71/100 |
 | 1026 | [yeahhe365/gemini-nexus](./yeahhe365-gemini-nexus.md) | ⭐ 976 | JavaScript | 71/100 |
 | 1027 | [jfarcand/mirroir-mcp](./jfarcand-mirroir-mcp.md) | ⭐ 88 | Swift | 71/100 |
@@ -1161,8 +1161,8 @@
 | 1151 | [martin-ger/esp32_nat_router](./martin-ger-esp32-nat-router.md) | ⭐ 1.9k | C | 70/100 |
 | 1152 | [GoPlausible/algorand-mcp](./goplausible-algorand-mcp.md) | ⭐ 45 | TypeScript | 70/100 |
 | 1153 | [paolobietolini/gtm-mcp-server](./paolobietolini-gtm-mcp-server.md) | ⭐ 83 | Go | 70/100 |
-| 1154 | [OHNLP/omop_mcp](./ohnlp-omop-mcp.md) | ⭐ 34 | Python | 70/100 |
-| 1155 | [PatrickSys/codebase-context](./patricksys-codebase-context.md) | ⭐ 44 | TypeScript | 70/100 |
+| 1154 | [PatrickSys/codebase-context](./patricksys-codebase-context.md) | ⭐ 44 | TypeScript | 70/100 |
+| 1155 | [OHNLP/omop_mcp](./ohnlp-omop-mcp.md) | ⭐ 34 | Python | 70/100 |
 | 1156 | [Sylinko/Everywhere](./sylinko-everywhere.md) | ⭐ 5.9k | C# | 70/100 |
 | 1157 | [NPC-Worldwide/npcpy](./npc-worldwide-npcpy.md) | ⭐ 1.3k | Python | 70/100 |
 | 1158 | [optave/ops-codegraph-tool](./optave-ops-codegraph-tool.md) | ⭐ 48 | TypeScript | 70/100 |
@@ -1214,8 +1214,8 @@
 | 1204 | [AminForou/mcp-gsc](./aminforou-mcp-gsc.md) | ⭐ 1.3k | Python | 69/100 |
 | 1205 | [voska/hass-mcp](./voska-hass-mcp.md) | ⭐ 309 | Python | 69/100 |
 | 1206 | [uarlouski/testrail-mcp-server](./uarlouski-testrail-mcp-server.md) | ⭐ 27 | TypeScript | 69/100 |
-| 1207 | [Epistates/MCPSafari](./epistates-mcpsafari.md) | ⭐ 42 | Swift | 69/100 |
-| 1208 | [fxa3bah/OneBrain](./fxa3bah-onebrain.md) | ⭐ 34 | Shell | 69/100 |
+| 1207 | [fxa3bah/OneBrain](./fxa3bah-onebrain.md) | ⭐ 34 | Shell | 69/100 |
+| 1208 | [Epistates/MCPSafari](./epistates-mcpsafari.md) | ⭐ 42 | Swift | 69/100 |
 | 1209 | [Flux159/mcp-server-kubernetes](./flux159-mcp-server-kubernetes.md) | ⭐ 1.5k | TypeScript | 69/100 |
 | 1210 | [marmutapp/superbased-observer](./marmutapp-superbased-observer.md) | ⭐ 31 | Go | 69/100 |
 | 1211 | [Choeng-Rayu/rayu-cli](./choeng-rayu-rayu-cli.md) | ⭐ 21 | TypeScript | 69/100 |
@@ -1260,8 +1260,8 @@
 | 1250 | [ThinkyMiner/codeTree](./thinkyminer-codetree.md) | ⭐ 26 | Python | 69/100 |
 | 1251 | [goern/forgejo-mcp](./goern-forgejo-mcp.md) | ⭐ 86 | Go | 69/100 |
 | 1252 | [spences10/mcp-omnisearch](./spences10-mcp-omnisearch.md) | ⭐ 328 | TypeScript | 69/100 |
-| 1253 | [silenceper/mcp-k8s](./silenceper-mcp-k8s.md) | ⭐ 146 | Go | 69/100 |
-| 1254 | [datagouv/datagouv-mcp](./datagouv-datagouv-mcp.md) | ⭐ 1.5k | Python | 69/100 |
+| 1253 | [datagouv/datagouv-mcp](./datagouv-datagouv-mcp.md) | ⭐ 1.5k | Python | 69/100 |
+| 1254 | [silenceper/mcp-k8s](./silenceper-mcp-k8s.md) | ⭐ 146 | Go | 69/100 |
 | 1255 | [gensecaihq/Wazuh-Openclaw-Autopilot](./gensecaihq-wazuh-openclaw-autopilot.md) | ⭐ 35 | JavaScript | 69/100 |
 | 1256 | [devlint/GitWand](./devlint-gitwand.md) | ⭐ 101 | TypeScript | 69/100 |
 | 1257 | [UI5/mcp-server](./ui5-mcp-server.md) | ⭐ 89 | TypeScript | 69/100 |
@@ -1269,8 +1269,8 @@
 | 1259 | [orcasecurity/orca-skills](./orcasecurity-orca-skills.md) | ⭐ 42 | — | 69/100 |
 | 1260 | [Doist/todoist-mcp](./doist-todoist-mcp.md) | ⭐ 478 | TypeScript | 69/100 |
 | 1261 | [neondatabase/mcp-server-neon](./neondatabase-mcp-server-neon.md) | ⭐ 596 | TypeScript | 69/100 |
-| 1262 | [kawayiYokami/P-ai](./kawayiyokami-p-ai.md) | ⭐ 43 | Rust | 69/100 |
-| 1263 | [BinaryHB0916/iSparto](./binaryhb0916-isparto.md) | ⭐ 53 | Shell | 69/100 |
+| 1262 | [BinaryHB0916/iSparto](./binaryhb0916-isparto.md) | ⭐ 53 | Shell | 69/100 |
+| 1263 | [kawayiYokami/P-ai](./kawayiyokami-p-ai.md) | ⭐ 43 | Rust | 69/100 |
 | 1264 | [dylanroscover/Embody](./dylanroscover-embody.md) | ⭐ 101 | Python | 69/100 |
 | 1265 | [dannote/pi-elixir](./dannote-pi-elixir.md) | ⭐ 69 | TypeScript | 69/100 |
 | 1266 | [provos/ironcurtain](./provos-ironcurtain.md) | ⭐ 399 | TypeScript | 69/100 |
@@ -1487,8 +1487,8 @@
 | 1477 | [CQMHV/ALCOMD3](./cqmhv-alcomd3.md) | ⭐ 21 | Rust | 67/100 |
 | 1478 | [agent-sh/agent-workspace-linux](./agent-sh-agent-workspace-linux.md) | ⭐ 67 | Rust | 67/100 |
 | 1479 | [h1papc11/voice-mcp-agent](./h1papc11-voice-mcp-agent.md) | ⭐ 51 | TypeScript | 67/100 |
-| 1480 | [beycom/onetool-mcp](./beycom-onetool-mcp.md) | ⭐ 21 | Python | 67/100 |
-| 1481 | [aristoapp/awesome-second-brain](./aristoapp-awesome-second-brain.md) | ⭐ 453 | — | 67/100 |
+| 1480 | [aristoapp/awesome-second-brain](./aristoapp-awesome-second-brain.md) | ⭐ 453 | — | 67/100 |
+| 1481 | [beycom/onetool-mcp](./beycom-onetool-mcp.md) | ⭐ 21 | Python | 67/100 |
 | 1482 | [bx33661/Wireshark-MCP](./bx33661-wireshark-mcp.md) | ⭐ 159 | Python | 67/100 |
 | 1483 | [github/gh-aw-mcpg](./github-gh-aw-mcpg.md) | ⭐ 142 | Go | 67/100 |
 | 1484 | [docsector/docsector-reader](./docsector-docsector-reader.md) | ⭐ 21 | JavaScript | 67/100 |
@@ -1728,9 +1728,9 @@
 | 1718 | [SigNoz/signoz-mcp-server](./signoz-signoz-mcp-server.md) | ⭐ 92 | Go | 65/100 |
 | 1719 | [agntcy/identity-service](./agntcy-identity-service.md) | ⭐ 64 | TypeScript | 65/100 |
 | 1720 | [cafferychen777/ChatSpatial](./cafferychen777-chatspatial.md) | ⭐ 36 | Python | 65/100 |
-| 1721 | [SonarSource/sonarqube-mcp-server](./sonarsource-sonarqube-mcp-server.md) | ⭐ 550 | Java | 65/100 |
-| 1722 | [stippi/code-assistant](./stippi-code-assistant.md) | ⭐ 163 | Rust | 65/100 |
-| 1723 | [samyama-ai/samyama-graph](./samyama-ai-samyama-graph.md) | ⭐ 61 | Rust | 65/100 |
+| 1721 | [samyama-ai/samyama-graph](./samyama-ai-samyama-graph.md) | ⭐ 61 | Rust | 65/100 |
+| 1722 | [SonarSource/sonarqube-mcp-server](./sonarsource-sonarqube-mcp-server.md) | ⭐ 550 | Java | 65/100 |
+| 1723 | [stippi/code-assistant](./stippi-code-assistant.md) | ⭐ 163 | Rust | 65/100 |
 | 1724 | [symgraph/GhidrAssistMCP](./symgraph-ghidrassistmcp.md) | ⭐ 601 | Java | 65/100 |
 | 1725 | [carterlasalle/mac_messages_mcp](./carterlasalle-mac-messages-mcp.md) | ⭐ 279 | Python | 65/100 |
 | 1726 | [universal-tool-calling-protocol/typescript-utcp](./universal-tool-calling-protocol-typescript-utcp.md) | ⭐ 110 | TypeScript | 65/100 |
@@ -1743,15 +1743,15 @@
 | 1733 | [theihtisham/agent-shadow-brain](./theihtisham-agent-shadow-brain.md) | ⭐ 22 | TypeScript | 65/100 |
 | 1734 | [pyrate-llama/hermes-ui](./pyrate-llama-hermes-ui.md) | ⭐ 107 | HTML | 65/100 |
 | 1735 | [giantswarm/muster](./giantswarm-muster.md) | ⭐ 21 | Go | 65/100 |
-| 1736 | [UPinar/contrastapi](./upinar-contrastapi.md) | ⭐ 23 | Python | 65/100 |
-| 1737 | [MasuRii/pi-tool-display](./masurii-pi-tool-display.md) | ⭐ 138 | TypeScript | 65/100 |
+| 1736 | [MasuRii/pi-tool-display](./masurii-pi-tool-display.md) | ⭐ 138 | TypeScript | 65/100 |
+| 1737 | [UPinar/contrastapi](./upinar-contrastapi.md) | ⭐ 23 | Python | 65/100 |
 | 1738 | [Wolfe-Jam/faf-cli](./wolfe-jam-faf-cli.md) | ⭐ 29 | TypeScript | 65/100 |
 | 1739 | [usewhale/whale](./usewhale-whale.md) | ⭐ 31 | Go | 65/100 |
 | 1740 | [anipotts/claude-code-tips](./anipotts-claude-code-tips.md) | ⭐ 24 | Python | 65/100 |
 | 1741 | [sirkirby/unifi-mcp](./sirkirby-unifi-mcp.md) | ⭐ 300 | Python | 65/100 |
 | 1742 | [cyanheads/mcp-ts-core](./cyanheads-mcp-ts-core.md) | ⭐ 137 | TypeScript | 65/100 |
-| 1743 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.5k | Markdown | 65/100 |
-| 1744 | [spool-lab/spool](./spool-lab-spool.md) | ⭐ 435 | TypeScript | 65/100 |
+| 1743 | [spool-lab/spool](./spool-lab-spool.md) | ⭐ 435 | TypeScript | 65/100 |
+| 1744 | [amitshekhariitbhu/ai-engineering-interview-questions](./amitshekhariitbhu-ai-engineering-interview-questions.md) | ⭐ 1.5k | Markdown | 65/100 |
 | 1745 | [MLT-OSS/FirstData](./mlt-oss-firstdata.md) | ⭐ 158 | Python | 65/100 |
 | 1746 | [browserwing/browserwing](./browserwing-browserwing.md) | ⭐ 1.3k | Go | 65/100 |
 | 1747 | [hashgraph-online/ai-plugin-scanner](./hashgraph-online-ai-plugin-scanner.md) | ⭐ 302 | Python | 65/100 |
@@ -1875,8 +1875,8 @@
 | 1865 | [anilloutombam/mcp-failure-lab](./anilloutombam-mcp-failure-lab.md) | ⭐ — | TypeScript | 63/100 |
 | 1866 | [blwfish/freecad-mcp](./blwfish-freecad-mcp.md) | ⭐ 27 | Python | 63/100 |
 | 1867 | [thrixel/build-world](./thrixel-build-world.md) | ⭐ 59 | JavaScript | 63/100 |
-| 1868 | [nikita-rulenko/Helixir](./nikita-rulenko-helixir.md) | ⭐ 86 | Rust | 63/100 |
-| 1869 | [bloknayrb/tandem](./bloknayrb-tandem.md) | ⭐ 12 | TypeScript | 63/100 |
+| 1868 | [bloknayrb/tandem](./bloknayrb-tandem.md) | ⭐ 12 | TypeScript | 63/100 |
+| 1869 | [nikita-rulenko/Helixir](./nikita-rulenko-helixir.md) | ⭐ 86 | Rust | 63/100 |
 | 1870 | [motherduckdb/mcp-server-motherduck](./motherduckdb-mcp-server-motherduck.md) | ⭐ 508 | Python | 63/100 |
 | 1871 | [AI-QL/chat-ui](./ai-ql-chat-ui.md) | ⭐ 94 | HTML | 63/100 |
 | 1872 | [Beezi-AI/beezi-claude-plugin](./beezi-ai-beezi-claude-plugin.md) | ⭐ 27 | JavaScript | 63/100 |
@@ -1897,8 +1897,8 @@
 | 1887 | [aka-kika/hig-mcp](./aka-kika-hig-mcp.md) | ⭐ 35 | Python | 63/100 |
 | 1888 | [joreilly/GalwayBus](./joreilly-galwaybus.md) | ⭐ 583 | Kotlin | 63/100 |
 | 1889 | [beilusaiying/always-accompany](./beilusaiying-always-accompany.md) | ⭐ 112 | JavaScript | 63/100 |
-| 1890 | [uber/ADR](./uber-adr.md) | ⭐ 22 | Python | 63/100 |
-| 1891 | [vintasoftware/django-ai-boost](./vintasoftware-django-ai-boost.md) | ⭐ 108 | Python | 63/100 |
+| 1890 | [vintasoftware/django-ai-boost](./vintasoftware-django-ai-boost.md) | ⭐ 108 | Python | 63/100 |
+| 1891 | [uber/ADR](./uber-adr.md) | ⭐ 22 | Python | 63/100 |
 | 1892 | [Offsend/Offsend](./offsend-offsend.md) | ⭐ 11 | Swift | 63/100 |
 | 1893 | [themotionmachine/OmniFocus-MCP](./themotionmachine-omnifocus-mcp.md) | ⭐ 225 | TypeScript | 63/100 |
 | 1894 | [andy-portmen/external-application-button](./andy-portmen-external-application-button.md) | ⭐ 247 | JavaScript | 63/100 |
@@ -2201,8 +2201,8 @@
 | 2191 | [PhiFever/AfdianToMarkdown](./phifever-afdiantomarkdown.md) | ⭐ 65 | Go | 60/100 |
 | 2192 | [pubnub/pubnub-mcp-server](./pubnub-pubnub-mcp-server.md) | ⭐ 31 | TypeScript | 60/100 |
 | 2193 | [tolkonepiu/best-of-mcp-servers](./tolkonepiu-best-of-mcp-servers.md) | ⭐ 75 | — | 60/100 |
-| 2194 | [macuse-app/macuse-mcp](./macuse-app-macuse-mcp.md) | ⭐ 26 | JavaScript | 60/100 |
-| 2195 | [alondmnt/joplin-mcp](./alondmnt-joplin-mcp.md) | ⭐ 110 | Python | 60/100 |
+| 2194 | [alondmnt/joplin-mcp](./alondmnt-joplin-mcp.md) | ⭐ 110 | Python | 60/100 |
+| 2195 | [macuse-app/macuse-mcp](./macuse-app-macuse-mcp.md) | ⭐ 26 | JavaScript | 60/100 |
 | 2196 | [janbjorge/rekal](./janbjorge-rekal.md) | ⭐ 46 | Python | 60/100 |
 | 2197 | [EBISPOT/ols4](./ebispot-ols4.md) | ⭐ 88 | Java | 60/100 |
 | 2198 | [fastly/mcp](./fastly-mcp.md) | ⭐ 36 | JavaScript | 60/100 |
@@ -2324,8 +2324,8 @@
 | 2314 | [Agent-Threat-Rule/agent-threat-rules](./agent-threat-rule-agent-threat-rules.md) | ⭐ 109 | TypeScript | 58/100 |
 | 2315 | [eresende/pitlane-mcp](./eresende-pitlane-mcp.md) | ⭐ 73 | Rust | 58/100 |
 | 2316 | [cbcoutinho/nextcloud-mcp-server](./cbcoutinho-nextcloud-mcp-server.md) | ⭐ 212 | Python | 58/100 |
-| 2317 | [elara-labs/code-context-engine](./elara-labs-code-context-engine.md) | ⭐ 92 | Python | 58/100 |
-| 2318 | [jgravelle/jcodemunch-mcp](./jgravelle-jcodemunch-mcp.md) | ⭐ 1.8k | Python | 58/100 |
+| 2317 | [jgravelle/jcodemunch-mcp](./jgravelle-jcodemunch-mcp.md) | ⭐ 1.8k | Python | 58/100 |
+| 2318 | [elara-labs/code-context-engine](./elara-labs-code-context-engine.md) | ⭐ 92 | Python | 58/100 |
 | 2319 | [rikkahub/rikkahub](./rikkahub-rikkahub.md) | ⭐ 4.4k | Kotlin | 58/100 |
 | 2320 | [plimsollmark/plimsoll](./plimsollmark-plimsoll.md) | ⭐ 1 | Go | 57/100 |
 | 2321 | [shitianfang/jev-use](./shitianfang-jev-use.md) | ⭐ 1 | JavaScript | 57/100 |
@@ -2348,8 +2348,8 @@
 | 2338 | [xbill9/nb2lite-skill-agy](./xbill9-nb2lite-skill-agy.md) | ⭐ — | — | 57/100 |
 | 2339 | [prometheus/prometheus-mcp](./prometheus-prometheus-mcp.md) | ⭐ 66 | Go | 57/100 |
 | 2340 | [Averyy/pcbparts-mcp](./averyy-pcbparts-mcp.md) | ⭐ 83 | Python | 57/100 |
-| 2341 | [nulab/backlog-mcp-server](./nulab-backlog-mcp-server.md) | ⭐ 218 | TypeScript | 57/100 |
-| 2342 | [jgravelle/jdatamunch-mcp](./jgravelle-jdatamunch-mcp.md) | ⭐ 74 | Python | 57/100 |
+| 2341 | [jgravelle/jdatamunch-mcp](./jgravelle-jdatamunch-mcp.md) | ⭐ 74 | Python | 57/100 |
+| 2342 | [nulab/backlog-mcp-server](./nulab-backlog-mcp-server.md) | ⭐ 218 | TypeScript | 57/100 |
 | 2343 | [lrstanley/context7-http](./lrstanley-context7-http.md) | ⭐ 24 | Go | 57/100 |
 | 2344 | [Episkey-G/GrokSearch-rs](./episkey-g-groksearch-rs.md) | ⭐ 328 | Rust | 57/100 |
 | 2345 | [austin-starks/Public-Portfolio-Challenge](./austin-starks-public-portfolio-challenge.md) | ⭐ 41 | Shell | 57/100 |
@@ -2459,8 +2459,8 @@
 | 2449 | [wanaku-ai/wanaku](./wanaku-ai-wanaku.md) | ⭐ 112 | Java | 54/100 |
 | 2450 | [dsphper/lanhu-mcp](./dsphper-lanhu-mcp.md) | ⭐ 1.3k | Python | 54/100 |
 | 2451 | [scouzi1966/vesta-mac-dist](./scouzi1966-vesta-mac-dist.md) | ⭐ 80 | — | 54/100 |
-| 2452 | [verygoodplugins/whatsapp-mcp](./verygoodplugins-whatsapp-mcp.md) | ⭐ 39 | Go | 54/100 |
-| 2453 | [domdomegg/airtable-mcp-server](./domdomegg-airtable-mcp-server.md) | ⭐ 444 | TypeScript | 54/100 |
+| 2452 | [domdomegg/airtable-mcp-server](./domdomegg-airtable-mcp-server.md) | ⭐ 444 | TypeScript | 54/100 |
+| 2453 | [verygoodplugins/whatsapp-mcp](./verygoodplugins-whatsapp-mcp.md) | ⭐ 39 | Go | 54/100 |
 | 2454 | [getsentry/sentry-mcp](./getsentry-sentry-mcp.md) | ⭐ 678 | TypeScript | 54/100 |
 | 2455 | [stefanoamorelli/fred-mcp-server](./stefanoamorelli-fred-mcp-server.md) | ⭐ 87 | TypeScript | 54/100 |
 | 2456 | [hahahahahahahahah6/mcp-cve-watch](./hahahahahahahahah6-mcp-cve-watch.md) | ⭐ — | Python | 54/100 |
@@ -2541,8 +2541,8 @@
 | 2531 | [MasihMoafi/rag-mcp](./masihmoafi-rag-mcp.md) | ⭐ 5 | Jupyter Notebook | 50/100 |
 | 2532 | [MasihMoafi/rag-mcp](./masihmoafi-rag-mcp.md) | ⭐ 5 | Jupyter Notebook | 50/100 |
 | 2533 | [internetworklab/cloudping](./internetworklab-cloudping.md) | ⭐ 21 | Go | 50/100 |
-| 2534 | [cl0nazepamm/3dsmax-mcp](./cl0nazepamm-3dsmax-mcp.md) | ⭐ 70 | Python | 50/100 |
-| 2535 | [cameronrye/openzim-mcp](./cameronrye-openzim-mcp.md) | ⭐ 57 | Python | 50/100 |
+| 2534 | [cameronrye/openzim-mcp](./cameronrye-openzim-mcp.md) | ⭐ 57 | Python | 50/100 |
+| 2535 | [cl0nazepamm/3dsmax-mcp](./cl0nazepamm-3dsmax-mcp.md) | ⭐ 70 | Python | 50/100 |
 | 2536 | [veelenga/claude-mermaid](./veelenga-claude-mermaid.md) | ⭐ 140 | TypeScript | 50/100 |
 | 2537 | [pcescato/shared-knowledge](./pcescato-shared-knowledge.md) | ⭐ — | — | 49/100 |
 | 2538 | [Abidit/phi-guard-mcp](./abidit-phi-guard-mcp.md) | ⭐ — | TypeScript | 49/100 |
@@ -2776,15 +2776,16 @@
 | 2766 | [getmcpulse/mcp-schema-study](./getmcpulse-mcp-schema-study.md) | ⭐ — | Python | 38/100 |
 | 2767 | [lekssays/codebadger](./lekssays-codebadger.md) | ⭐ — | — | 36/100 |
 | 2768 | [NitroRCr/gread](./nitrorcr-gread.md) | ⭐ — | — | 36/100 |
-| 2769 | [402signalhq/402signal](./402signalhq-402signal.md) | ⭐ — | — | 35/100 |
-| 2770 | [GarphenGate/moltline-mcp](./garphengate-moltline-mcp.md) | ⭐ — | — | 35/100 |
-| 2771 | [Correctover/mcp-server](./correctover-mcp-server.md) | ⭐ — | — | 35/100 |
-| 2772 | [vinkius/vinkius-mcp-catalog](./vinkius-vinkius-mcp-catalog.md) | ⭐ — | — | 32/100 |
-| 2773 | [yourrepo/cost-guard-mcp](./yourrepo-cost-guard-mcp.md) | ⭐ — | — | 32/100 |
-| 2774 | [modelcontextprotocol/mcp](./modelcontextprotocol-mcp.md) | ⭐ — | — | 32/100 |
-| 2775 | [modelcontextprotocol/server-github](./modelcontextprotocol-server-github.md) | ⭐ — | — | 24/100 |
-| 2776 | [vinkius/devrel-voice-prover](./vinkius-devrel-voice-prover.md) | ⭐ — | — | 24/100 |
-| 2777 | [modelcontextprotocol/server-filesystem](./modelcontextprotocol-server-filesystem.md) | ⭐ — | — | 24/100 |
+| 2769 | [inth3shadows/terse](./inth3shadows-terse.md) | ⭐ — | — | 35/100 |
+| 2770 | [402signalhq/402signal](./402signalhq-402signal.md) | ⭐ — | — | 35/100 |
+| 2771 | [GarphenGate/moltline-mcp](./garphengate-moltline-mcp.md) | ⭐ — | — | 35/100 |
+| 2772 | [Correctover/mcp-server](./correctover-mcp-server.md) | ⭐ — | — | 35/100 |
+| 2773 | [vinkius/vinkius-mcp-catalog](./vinkius-vinkius-mcp-catalog.md) | ⭐ — | — | 32/100 |
+| 2774 | [yourrepo/cost-guard-mcp](./yourrepo-cost-guard-mcp.md) | ⭐ — | — | 32/100 |
+| 2775 | [modelcontextprotocol/mcp](./modelcontextprotocol-mcp.md) | ⭐ — | — | 32/100 |
+| 2776 | [modelcontextprotocol/server-github](./modelcontextprotocol-server-github.md) | ⭐ — | — | 24/100 |
+| 2777 | [vinkius/devrel-voice-prover](./vinkius-devrel-voice-prover.md) | ⭐ — | — | 24/100 |
+| 2778 | [modelcontextprotocol/server-filesystem](./modelcontextprotocol-server-filesystem.md) | ⭐ — | — | 24/100 |
 
 ---
 

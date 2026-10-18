@@ -65,18 +65,18 @@ slsa-framework/slsa-github-generator：slsa-framework/slsa-github-generator help
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 71/100 |
-| adoption | 59/100 |
-| categoryMatchCount | 100/100 |
-| stars | 59/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| stars | 59/100 |
 | topics | 63/100 |
+| outlook | 71/100 |
+| quality | 66/100 |
+| recency | 80/100 |
+| adoption | 59/100 |
+| production | 64/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

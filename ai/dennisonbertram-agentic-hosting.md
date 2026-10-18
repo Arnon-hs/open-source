@@ -1,6 +1,6 @@
 # dennisonbertram/agentic-hosting
 
-[![Stars](https://img.shields.io/github/stars/dennisonbertram/agentic-hosting?style=flat-square&color=yellow)](https://github.com/dennisonbertram/agentic-hosting/stargazers) [![Forks](https://img.shields.io/github/forks/dennisonbertram/agentic-hosting?style=flat-square&color=blue)](https://github.com/dennisonbertram/agentic-hosting/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dennisonbertram/agentic-hosting?style=flat-square&color=yellow)](https://github.com/dennisonbertram/agentic-hosting/stargazers) [![Forks](https://img.shields.io/github/forks/dennisonbertram/agentic-hosting?style=flat-square&color=blue)](https://github.com/dennisonbertram/agentic-hosting/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Agentic-first self-hosted PaaS — Docker + gVisor + Traefik + Nixpacks + SQLite, operated by AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 31 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-15 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ dennisonbertram/agentic-hosting：dennisonbertram/agentic-hosting may be useful 
 - updated 2026-10-15
 - primary language: Go
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 57/100 |
+| outlook | 56/100 |
 | adoption | 26/100 |
 | categoryMatchCount | 400/100 |
 | stars | 32/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
