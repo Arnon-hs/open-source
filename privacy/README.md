@@ -2,7 +2,7 @@
 
 > 
 
-**15 projects** in this category.
+**16 projects** in this category.
 
 ## Projects
 
@@ -19,10 +19,11 @@
 | 9 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 33/100 |
 | 10 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 33/100 |
 | 11 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 33/100 |
-| 12 | [Muchaziwepi/Acme-Studio](./muchaziwepi-acme-studio.md) | ⭐ — | — | 24/100 |
-| 13 | [statsinsta/stats-insta](./statsinsta-stats-insta.md) | ⭐ — | — | 24/100 |
-| 14 | [ibrahim-iqbal/wllama](./ibrahim-iqbal-wllama.md) | ⭐ — | — | 24/100 |
-| 15 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
+| 12 | [yaansa/udhaar-khata](./yaansa-udhaar-khata.md) | ⭐ — | — | 24/100 |
+| 13 | [Muchaziwepi/Acme-Studio](./muchaziwepi-acme-studio.md) | ⭐ — | — | 24/100 |
+| 14 | [statsinsta/stats-insta](./statsinsta-stats-insta.md) | ⭐ — | — | 24/100 |
+| 15 | [ibrahim-iqbal/wllama](./ibrahim-iqbal-wllama.md) | ⭐ — | — | 24/100 |
+| 16 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tucodigocotidiano/deception-mesh](./tucodigocotidiano-deception-mesh.md) | ⭐ 1 | Shell | 35/100 |
+| 1 | [tucodigocotidiano/deception-mesh](./tucodigocotidiano-deception-mesh.md) | ⭐ 1 | Shell | 32/100 |
 
 ---
 

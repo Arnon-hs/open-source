@@ -1,6 +1,6 @@
 # tucodigocotidiano/deception-mesh
 
-[![Stars](https://img.shields.io/github/stars/tucodigocotidiano/deception-mesh?style=flat-square&color=yellow)](https://github.com/tucodigocotidiano/deception-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/tucodigocotidiano/deception-mesh?style=flat-square&color=blue)](https://github.com/tucodigocotidiano/deception-mesh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tucodigocotidiano/deception-mesh?style=flat-square&color=yellow)](https://github.com/tucodigocotidiano/deception-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/tucodigocotidiano/deception-mesh?style=flat-square&color=blue)](https://github.com/tucodigocotidiano/deception-mesh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 35/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ tucodigocotidiano/deception-mesh：tucodigocotidiano/deception-mesh may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 29/100 |
+| quality | 24/100 |
 | integration | 34/100 |
-| production | 44/100 |
-| outlook | 38/100 |
+| production | 37/100 |
+| outlook | 31/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
