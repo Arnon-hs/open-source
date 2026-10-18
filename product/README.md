@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**6 projects** in this category.
+**7 projects** in this category.
 
 ## Projects
 
@@ -14,6 +14,7 @@
 | 4 | [lsfusion-solutions/mycompany](./lsfusion-solutions-mycompany.md) | ⭐ 310 | JavaScript | 59/100 |
 | 5 | [fastly/Viceroy](./fastly-viceroy.md) | ⭐ 175 | Rust | 54/100 |
 | 6 | [orbivort/scrumooth](./orbivort-scrumooth.md) | ⭐ 1 | TypeScript | 53/100 |
+| 7 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
 
 ---
 
