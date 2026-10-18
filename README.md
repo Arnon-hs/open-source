@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40848** |
-| **Categories** | **528** |
+| **Projects** | **40861** |
+| **Categories** | **530** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16074 | [Browse →](./misc/) |
+| 📦 **Misc** | 16078 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4399 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2778 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2331 | [Browse →](./orchestration/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 178 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 146 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 112 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 114 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 34 | [Browse →](./open-source/) |
 | 🏷️ **Offline** | 33 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
@@ -81,6 +81,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Whatsapp** | 5 | [Browse →](./whatsapp/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Android** | 4 | [Browse →](./android/) |
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
 | 🏷️ **Go** | 4 | [Browse →](./go/) |
 | 🏷️ **Small-business** | 4 | [Browse →](./small-business/) |
@@ -97,6 +98,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
+| 🏷️ **Dj** | 3 | [Browse →](./dj/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **Telegram** | 3 | [Browse →](./telegram/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
@@ -126,6 +128,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Resume-tailoring** | 2 | [Browse →](./resume-tailoring/) |
 | 🏷️ **Iam** | 2 | [Browse →](./iam/) |
 | 🏷️ **Inventory-forecasting** | 2 | [Browse →](./inventory-forecasting/) |
 | 🏷️ **Storageoptimization** | 2 | [Browse →](./storageoptimization/) |
@@ -171,7 +174,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Raft** | 2 | [Browse →](./raft/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
 | 🏷️ **Hextelegram** | 2 | [Browse →](./hextelegram/) |
-| 🏷️ **Android** | 2 | [Browse →](./android/) |
 | 🏷️ **Ai-testing** | 2 | [Browse →](./ai-testing/) |
 | 🏷️ **Linux** | 2 | [Browse →](./linux/) |
 | 🏷️ **On-device-ai** | 2 | [Browse →](./on-device-ai/) |
