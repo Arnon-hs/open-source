@@ -1,6 +1,6 @@
 # saad-works/plain-sight-reader
 
-[![Stars](https://img.shields.io/github/stars/saad-works/plain-sight-reader?style=flat-square&color=yellow)](https://github.com/saad-works/plain-sight-reader/stargazers) [![Forks](https://img.shields.io/github/forks/saad-works/plain-sight-reader?style=flat-square&color=blue)](https://github.com/saad-works/plain-sight-reader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saad-works/plain-sight-reader?style=flat-square&color=yellow)](https://github.com/saad-works/plain-sight-reader/stargazers) [![Forks](https://img.shields.io/github/forks/saad-works/plain-sight-reader?style=flat-square&color=blue)](https://github.com/saad-works/plain-sight-reader/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A VS Code extension for reading e-books (PDF/EPUB) in your editor — rendered as code, docs, or logs. Discreet PDF & EPUB e-book reader for VS Code. Offline, keyboard-driven, remembers your place.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-15 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ saad-works/plain-sight-reader：saad-works/plain-sight-reader may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

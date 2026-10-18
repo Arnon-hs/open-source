@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [gartox/mazorca](./gartox-mazorca.md) | ⭐ — | JavaScript | 43/100 |
+| 1 | [gartox/mazorca](./gartox-mazorca.md) | ⭐ — | JavaScript | 40/100 |
 
 ---
 

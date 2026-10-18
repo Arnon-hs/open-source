@@ -1,6 +1,6 @@
 # haproxytech/haproxy
 
-[![Stars](https://img.shields.io/github/stars/haproxytech/haproxy?style=flat-square&color=yellow)](https://github.com/haproxytech/haproxy/stargazers) [![Forks](https://img.shields.io/github/forks/haproxytech/haproxy?style=flat-square&color=blue)](https://github.com/haproxytech/haproxy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haproxytech/haproxy?style=flat-square&color=yellow)](https://github.com/haproxytech/haproxy/stargazers) [![Forks](https://img.shields.io/github/forks/haproxytech/haproxy?style=flat-square&color=blue)](https://github.com/haproxytech/haproxy/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > HAProxy related stuff: scripts, configs, etc...
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 120 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ haproxytech/haproxy：haproxytech/haproxy may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 47/100 |
+| production | 42/100 |
+| outlook | 40/100 |
 | adoption | 43/100 |
 | categoryMatchCount | 700/100 |
 | stars | 44/100 |
 | forks | 40/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -14,8 +14,8 @@
 | 4 | [shanjeevrajendran/cloakroom](./shanjeevrajendran-cloakroom.md) | ⭐ — | Python | 51/100 |
 | 5 | [orvi2014/hatswap](./orvi2014-hatswap.md) | ⭐ — | Shell | 51/100 |
 | 6 | [Kruhlikau/subagent-tuner](./kruhlikau-subagent-tuner.md) | ⭐ — | TypeScript | 50/100 |
-| 7 | [Gleaming0427/monument](./gleaming0427-monument.md) | ⭐ 1 | JavaScript | 47/100 |
-| 8 | [hahahahahahahahah6/skill-tax-cli](./hahahahahahahahah6-skill-tax-cli.md) | ⭐ — | Python | 46/100 |
+| 7 | [hahahahahahahahah6/skill-tax-cli](./hahahahahahahahah6-skill-tax-cli.md) | ⭐ — | Python | 46/100 |
+| 8 | [Gleaming0427/monument](./gleaming0427-monument.md) | ⭐ 1 | JavaScript | 44/100 |
 | 9 | [hahahahahahahahah6/frontmatter-guard](./hahahahahahahahah6-frontmatter-guard.md) | ⭐ — | Python | 42/100 |
 | 10 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |
 | 11 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 30/100 |
