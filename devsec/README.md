@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sercanvr/devsec-status](./sercanvr-devsec-status.md) | ⭐ 6 | TypeScript | 66/100 |
+| 1 | [sercanvr/devsec-status](./sercanvr-devsec-status.md) | ⭐ 6 | TypeScript | 63/100 |
 
 ---
 

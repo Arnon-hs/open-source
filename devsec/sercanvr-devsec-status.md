@@ -1,6 +1,6 @@
 # sercanvr/devsec-status
 
-[![Stars](https://img.shields.io/github/stars/sercanvr/devsec-status?style=flat-square&color=yellow)](https://github.com/sercanvr/devsec-status/stargazers) [![Forks](https://img.shields.io/github/forks/sercanvr/devsec-status?style=flat-square&color=blue)](https://github.com/sercanvr/devsec-status/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sercanvr/devsec-status?style=flat-square&color=yellow)](https://github.com/sercanvr/devsec-status/stargazers) [![Forks](https://img.shields.io/github/forks/sercanvr/devsec-status?style=flat-square&color=blue)](https://github.com/sercanvr/devsec-status/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > An informational platform that provides live GitHub data for programming languages, frameworks, libraries, and database technologies. This project displays real-time star counts, total repository volumes, and 30-day momentum in a single view. It is designed to help developers track trends and easily compare popular technologies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-15 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ sercanvr/devsec-status：sercanvr/devsec-status may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 61/100 |
+| outlook | 66/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 400/100 |
 | stars | 18/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
