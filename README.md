@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40713** |
-| **Categories** | **518** |
+| **Projects** | **40718** |
+| **Categories** | **522** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -121,6 +121,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Monitoring** | 2 | [Browse →](./monitoring/) |
 | 🏷️ **Tcg** | 2 | [Browse →](./tcg/) |
 | 🏷️ **Deployment** | 2 | [Browse →](./deployment/) |
 | 🏷️ **Telegram** | 2 | [Browse →](./telegram/) |
@@ -203,6 +204,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ssl** | 1 | [Browse →](./ssl/) |
+| 🏷️ **Learning-system** | 1 | [Browse →](./learning-system/) |
+| 🏷️ **Evaluation** | 1 | [Browse →](./evaluation/) |
+| 🏷️ **Product-audit** | 1 | [Browse →](./product-audit/) |
 | 🏷️ **Audit** | 1 | [Browse →](./audit/) |
 | 🏷️ **Portfolio-backtesting** | 1 | [Browse →](./portfolio-backtesting/) |
 | 🏷️ **Authorization** | 1 | [Browse →](./authorization/) |
@@ -231,7 +236,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Lead-generation** | 1 | [Browse →](./lead-generation/) |
 | 🏷️ **Photo-editing** | 1 | [Browse →](./photo-editing/) |
 | 🏷️ **Auth** | 1 | [Browse →](./auth/) |
-| 🏷️ **Monitoring** | 1 | [Browse →](./monitoring/) |
 | 🏷️ **Epub** | 1 | [Browse →](./epub/) |
 | 🏷️ **Performance-testing** | 1 | [Browse →](./performance-testing/) |
 | 🏷️ **Threat-modeling** | 1 | [Browse →](./threat-modeling/) |
