@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | 1 | [opencv/opencv_zoo](./opencv-opencv-zoo.md) | ⭐ 1.1k | Python | 59/100 |
 | 2 | [tylan2001ody-del/merchant-ai-draft](./tylan2001ody-del-merchant-ai-draft.md) | ⭐ — | Python | 53/100 |
-| 3 | [magicstack-llp/zim-pro](./magicstack-llp-zim-pro.md) | ⭐ 2 | Python | 52/100 |
-| 4 | [Zhiyilang/localledger](./zhiyilang-localledger.md) | ⭐ — | Python | 52/100 |
+| 3 | [Zhiyilang/localledger](./zhiyilang-localledger.md) | ⭐ — | Python | 52/100 |
+| 4 | [magicstack-llp/zim-pro](./magicstack-llp-zim-pro.md) | ⭐ 2 | Python | 49/100 |
 | 5 | [ItsPriyamSri/sourcerer](./itspriyamsri-sourcerer.md) | ⭐ — | TypeScript | 47/100 |
 | 6 | [Anandb71/kadacard](./anandb71-kadacard.md) | ⭐ — | TypeScript | 46/100 |
 | 7 | [Wandercoil/lensit](./wandercoil-lensit.md) | ⭐ — | Python | 42/100 |

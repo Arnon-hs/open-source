@@ -1,6 +1,6 @@
 # magicstack-llp/zim-pro
 
-[![Stars](https://img.shields.io/github/stars/magicstack-llp/zim-pro?style=flat-square&color=yellow)](https://github.com/magicstack-llp/zim-pro/stargazers) [![Forks](https://img.shields.io/github/forks/magicstack-llp/zim-pro?style=flat-square&color=blue)](https://github.com/magicstack-llp/zim-pro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/magicstack-llp/zim-pro?style=flat-square&color=yellow)](https://github.com/magicstack-llp/zim-pro/stargazers) [![Forks](https://img.shields.io/github/forks/magicstack-llp/zim-pro?style=flat-square&color=blue)](https://github.com/magicstack-llp/zim-pro/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Offline AI knowledge base. Read, search and ask your own library of ZIM files (Wikipedia, Stack Exchange, DevDocs, the Kiwix catalog) with a local or hosted model, get cited answers, keep books updated, and serve it all to LLM apps over MCP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ magicstack-llp/zim-pro：magicstack-llp/zim-pro may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 56/100 |
+| production | 55/100 |
+| outlook | 49/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 700/100 |
 | stars | 10/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

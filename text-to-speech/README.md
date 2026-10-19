@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [Loudness-ai/loudness-tts](./loudness-ai-loudness-tts.md) | ⭐ — | TypeScript | 63/100 |
-| 2 | [espeak-ng/espeak-ng](./espeak-ng-espeak-ng.md) | ⭐ 7k | C | 60/100 |
+| 2 | [espeak-ng/espeak-ng](./espeak-ng-espeak-ng.md) | ⭐ 7k | C | 57/100 |
 
 ---
 

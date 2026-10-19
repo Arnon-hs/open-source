@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Shed-engineering/gzip-threshold-json-api](./shed-engineering-gzip-threshold-json-api.md) | ⭐ 1 | JavaScript | 41/100 |
+| 1 | [Shed-engineering/gzip-threshold-json-api](./shed-engineering-gzip-threshold-json-api.md) | ⭐ 1 | JavaScript | 38/100 |
 
 ---
 

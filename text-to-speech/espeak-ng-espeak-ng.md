@@ -1,6 +1,6 @@
 # espeak-ng/espeak-ng
 
-[![Stars](https://img.shields.io/github/stars/espeak-ng/espeak-ng?style=flat-square&color=yellow)](https://github.com/espeak-ng/espeak-ng/stargazers) [![Forks](https://img.shields.io/github/forks/espeak-ng/espeak-ng?style=flat-square&color=blue)](https://github.com/espeak-ng/espeak-ng/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/espeak-ng/espeak-ng?style=flat-square&color=yellow)](https://github.com/espeak-ng/espeak-ng/stargazers) [![Forks](https://img.shields.io/github/forks/espeak-ng/espeak-ng?style=flat-square&color=blue)](https://github.com/espeak-ng/espeak-ng/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | C |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ espeak-ng/espeak-ng：espeak-ng/espeak-ng may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 77/100 |
+| production | 65/100 |
+| outlook | 70/100 |
 | adoption | 81/100 |
 | categoryMatchCount | 800/100 |
 | stars | 82/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
