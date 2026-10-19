@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41113** |
-| **Categories** | **541** |
+| **Projects** | **41116** |
+| **Categories** | **542** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16202 | [Browse →](./misc/) |
+| 📦 **Misc** | 16204 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4419 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2789 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2337 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1580 | [Browse →](./devtools/) |
+| 🏷️ **Mcp** | 2790 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2338 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 1581 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1415 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 939 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 886 | [Browse →](./frontend/) |
@@ -121,7 +121,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hacktoberfest** | 3 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Terminal** | 3 | [Browse →](./terminal/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
-| 🏷️ **Coding-agents** | 3 | [Browse →](./coding-agents/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
@@ -184,8 +183,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Raft** | 2 | [Browse →](./raft/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
 | 🏷️ **Hextelegram** | 2 | [Browse →](./hextelegram/) |
-| 🏷️ **Ai-testing** | 2 | [Browse →](./ai-testing/) |
-| 🏷️ **Linux** | 2 | [Browse →](./linux/) |
 | 🏷️ **On-device-ai** | 2 | [Browse →](./on-device-ai/) |
 | 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
 | 🏷️ **Ai-ops** | 2 | [Browse →](./ai-ops/) |
@@ -200,6 +197,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Webgpu** | 2 | [Browse →](./webgpu/) |
 | 🏷️ **Career-advice** | 2 | [Browse →](./career-advice/) |
 | 🏷️ **Showdev** | 2 | [Browse →](./showdev/) |
+| 🏷️ **Coding-agents** | 2 | [Browse →](./coding-agents/) |
 | 🏷️ **Angular** | 2 | [Browse →](./angular/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
@@ -212,6 +210,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Cost-reduction** | 1 | [Browse →](./cost-reduction/) |
+| 🏷️ **Cra** | 1 | [Browse →](./cra/) |
 | 🏷️ **Android-tv** | 1 | [Browse →](./android-tv/) |
 | 🏷️ **B2b** | 1 | [Browse →](./b2b/) |
 | 🏷️ **Tokenization** | 1 | [Browse →](./tokenization/) |
@@ -394,7 +394,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Upgrade** | 1 | [Browse →](./upgrade/) |
 | 🏷️ **Betting** | 1 | [Browse →](./betting/) |
 | 🏷️ **Spectral** | 1 | [Browse →](./spectral/) |
-| 🏷️ **Json-ld** | 1 | [Browse →](./json-ld/) |
 | 🏷️ **Record-matching** | 1 | [Browse →](./record-matching/) |
 | 🏷️ **Speechtotext** | 1 | [Browse →](./speechtotext/) |
 | 🏷️ **Smart-agriculture** | 1 | [Browse →](./smart-agriculture/) |
@@ -412,6 +411,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Plant-care** | 1 | [Browse →](./plant-care/) |
 | 🏷️ **Voice-first** | 1 | [Browse →](./voice-first/) |
 | 🏷️ **Voicefirst** | 1 | [Browse →](./voicefirst/) |
+| 🏷️ **Ai-testing** | 1 | [Browse →](./ai-testing/) |
 | 🏷️ **Desktop-app** | 1 | [Browse →](./desktop-app/) |
 | 🏷️ **Agent-framework** | 1 | [Browse →](./agent-framework/) |
 | 🏷️ **Bird-identification** | 1 | [Browse →](./bird-identification/) |
@@ -514,6 +514,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-desktop** | 1 | [Browse →](./claude-desktop/) |
 | 🏷️ **Migration** | 1 | [Browse →](./migration/) |
 | 🏷️ **Background-removal** | 1 | [Browse →](./background-removal/) |
+| 🏷️ **Linux** | 1 | [Browse →](./linux/) |
 | 🏷️ **Dependency-management** | 1 | [Browse →](./dependency-management/) |
 | 🏷️ **Job-search** | 1 | [Browse →](./job-search/) |
 | 🏷️ **Invoice** | 1 | [Browse →](./invoice/) |

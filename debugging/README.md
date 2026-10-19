@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [abhishekash/agent-observatory](./abhishekash-agent-observatory.md) | ⭐ 1 | Python | 64/100 |
+| 1 | [abhishekash/agent-observatory](./abhishekash-agent-observatory.md) | ⭐ 1 | Python | 61/100 |
 
 ---
 
