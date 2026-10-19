@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sanskarIN/RepoDNA](./sanskarin-repodna.md) | ⭐ 6 | Rust | 63/100 |
+| 1 | [sanskarIN/RepoDNA](./sanskarin-repodna.md) | ⭐ 6 | Rust | 60/100 |
 
 ---
 

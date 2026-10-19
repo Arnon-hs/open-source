@@ -1,6 +1,6 @@
 # sanskarIN/RepoDNA
 
-[![Stars](https://img.shields.io/github/stars/sanskarIN/RepoDNA?style=flat-square&color=yellow)](https://github.com/sanskarIN/RepoDNA/stargazers) [![Forks](https://img.shields.io/github/forks/sanskarIN/RepoDNA?style=flat-square&color=blue)](https://github.com/sanskarIN/RepoDNA/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sanskarIN/RepoDNA?style=flat-square&color=yellow)](https://github.com/sanskarIN/RepoDNA/stargazers) [![Forks](https://img.shields.io/github/forks/sanskarIN/RepoDNA?style=flat-square&color=blue)](https://github.com/sanskarIN/RepoDNA/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Understand any GitHub repository before you clone it.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ sanskarIN/RepoDNA：sanskarIN/RepoDNA may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 61/100 |
+| outlook | 64/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 500/100 |
 | stars | 18/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

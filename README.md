@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40955** |
-| **Categories** | **539** |
+| **Projects** | **40959** |
+| **Categories** | **540** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -26,9 +26,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📦 **Misc** | 16123 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4404 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2784 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2332 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2333 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1580 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1411 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1412 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 933 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 886 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 783 | [Browse →](./crypto/) |
@@ -38,7 +38,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 608 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 596 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 532 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 509 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 510 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 491 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 451 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 425 | [Browse →](./communication/) |
@@ -208,6 +208,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Invoice-processing** | 1 | [Browse →](./invoice-processing/) |
+| 🏷️ **Ndis** | 1 | [Browse →](./ndis/) |
+| 🏷️ **Archive** | 1 | [Browse →](./archive/) |
 | 🏷️ **Artisans** | 1 | [Browse →](./artisans/) |
 | 🏷️ **Timeout** | 1 | [Browse →](./timeout/) |
 | 🏷️ **Finance** | 1 | [Browse →](./finance/) |
@@ -401,8 +404,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledge-work** | 1 | [Browse →](./knowledge-work/) |
 | 🏷️ **Contract-analysis** | 1 | [Browse →](./contract-analysis/) |
 | 🏷️ **Crm** | 1 | [Browse →](./crm/) |
-| 🏷️ **Polymarket** | 1 | [Browse →](./polymarket/) |
-| 🏷️ **Financial-automation** | 1 | [Browse →](./financial-automation/) |
 | 🏷️ **Measurement** | 1 | [Browse →](./measurement/) |
 | 🏷️ **Litter-collection** | 1 | [Browse →](./litter-collection/) |
 | 🏷️ **Agent-cost** | 1 | [Browse →](./agent-cost/) |

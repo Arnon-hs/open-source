@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jaiswalabhishek377/praxis-agent](./jaiswalabhishek377-praxis-agent.md) | ⭐ 1 | TypeScript | 61/100 |
+| 1 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 39/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [subhranshudash13-dotcom/Kaagaz](./subhranshudash13-dotcom-kaagaz.md) | ⭐ — | TypeScript | 36/100 |
+| 1 | [subhranshudash13-dotcom/Kaagaz](./subhranshudash13-dotcom-kaagaz.md) | ⭐ — | TypeScript | 33/100 |
 
 ---
 
