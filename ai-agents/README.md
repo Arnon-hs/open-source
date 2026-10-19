@@ -11,8 +11,8 @@
 | 1 | [DroBov1Tya/PentaCore](./drobov1tya-pentacore.md) | ⭐ 3 | Rust | 61/100 |
 | 2 | [AgenticFinanceGraph/agentic-finance-graph-mcp](./agenticfinancegraph-agentic-finance-graph-mcp.md) | ⭐ — | JavaScript | 60/100 |
 | 3 | [Superstos/Eonrise](./superstos-eonrise.md) | ⭐ — | Python | 56/100 |
-| 4 | [furoute/acp-lite](./furoute-acp-lite.md) | ⭐ — | Python | 51/100 |
-| 5 | [retailbox-automation/fleetmemory](./retailbox-automation-fleetmemory.md) | ⭐ — | Python | 48/100 |
+| 4 | [retailbox-automation/fleetmemory](./retailbox-automation-fleetmemory.md) | ⭐ — | Python | 48/100 |
+| 5 | [furoute/acp-lite](./furoute-acp-lite.md) | ⭐ — | Python | 48/100 |
 | 6 | [saifmodan2006/agenttrace](./saifmodan2006-agenttrace.md) | ⭐ — | Python | 46/100 |
 | 7 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 41/100 |
 | 8 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 39/100 |
