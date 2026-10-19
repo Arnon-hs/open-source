@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bhargavambati09-crypto/CLAIM-GRAPH](./bhargavambati09-crypto-claim-graph.md) | ⭐ — | HTML | 36/100 |
+| 1 | [bhargavambati09-crypto/CLAIM-GRAPH](./bhargavambati09-crypto-claim-graph.md) | ⭐ — | HTML | 33/100 |
 
 ---
 
