@@ -241,8 +241,8 @@
 | 231 | [bgreenwell/lstr](./bgreenwell-lstr.md) | ⭐ 1.5k | Rust | 68/100 |
 | 232 | [hatoo/oha](./hatoo-oha.md) | ⭐ 10.4k | Rust | 68/100 |
 | 233 | [stepchowfun/toast](./stepchowfun-toast.md) | ⭐ 1.6k | Rust | 68/100 |
-| 234 | [kubernetes/cli-runtime](./kubernetes-cli-runtime.md) | ⭐ 307 | Go | 68/100 |
-| 235 | [kubernetes/sample-cli-plugin](./kubernetes-sample-cli-plugin.md) | ⭐ 306 | Go | 68/100 |
+| 234 | [kubernetes/sample-cli-plugin](./kubernetes-sample-cli-plugin.md) | ⭐ 306 | Go | 68/100 |
+| 235 | [kubernetes/cli-runtime](./kubernetes-cli-runtime.md) | ⭐ 307 | Go | 68/100 |
 | 236 | [chenquan/diskusage](./chenquan-diskusage.md) | ⭐ 309 | Go | 68/100 |
 | 237 | [charmbracelet/ultraviolet](./charmbracelet-ultraviolet.md) | ⭐ 358 | Go | 68/100 |
 | 238 | [Albert-Weasker/niubi_guard](./albert-weasker-niubi-guard.md) | ⭐ 1.2k | TypeScript | 68/100 |
@@ -389,8 +389,8 @@
 | 379 | [julesklord/mangofetch](./julesklord-mangofetch.md) | ⭐ 111 | Rust | 66/100 |
 | 380 | [xx4h/hctl](./xx4h-hctl.md) | ⭐ 79 | Go | 66/100 |
 | 381 | [microsoft/testfx](./microsoft-testfx.md) | ⭐ 1k | C# | 66/100 |
-| 382 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 66/100 |
-| 383 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 66/100 |
+| 382 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.4k | Python | 66/100 |
+| 383 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 832 | Python | 66/100 |
 | 384 | [onotelli/justniffer](./onotelli-justniffer.md) | ⭐ 228 | C | 66/100 |
 | 385 | [Icinga/icingaweb2](./icinga-icingaweb2.md) | ⭐ 839 | PHP | 66/100 |
 | 386 | [SAP/jenkins-library](./sap-jenkins-library.md) | ⭐ 819 | Go | 66/100 |
@@ -1076,8 +1076,8 @@
 | 1066 | [chenxin-yan/crust](./chenxin-yan-crust.md) | ⭐ 381 | TypeScript | 58/100 |
 | 1067 | [AstraeLabs/VibraVid](./astraelabs-vibravid.md) | ⭐ 1.1k | Python | 58/100 |
 | 1068 | [1jehuang/mermaid-rs-renderer](./1jehuang-mermaid-rs-renderer.md) | ⭐ 1.3k | Rust | 58/100 |
-| 1069 | [dyatko/arkit](./dyatko-arkit.md) | ⭐ 967 | JavaScript | 58/100 |
-| 1070 | [patrickhoefler/dockerfilegraph](./patrickhoefler-dockerfilegraph.md) | ⭐ 263 | Go | 58/100 |
+| 1069 | [patrickhoefler/dockerfilegraph](./patrickhoefler-dockerfilegraph.md) | ⭐ 263 | Go | 58/100 |
+| 1070 | [dyatko/arkit](./dyatko-arkit.md) | ⭐ 967 | JavaScript | 58/100 |
 | 1071 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 395 | Go | 58/100 |
 | 1072 | [nikolaydubina/go-recipes](./nikolaydubina-go-recipes.md) | ⭐ 4.5k | Go | 58/100 |
 | 1073 | [GitoxideLabs/gitoxide](./gitoxidelabs-gitoxide.md) | ⭐ 11.3k | Rust | 58/100 |
@@ -1238,8 +1238,8 @@
 | 1228 | [maximecb/uvm](./maximecb-uvm.md) | ⭐ 587 | Rust | 55/100 |
 | 1229 | [rust-fuzz/afl.rs](./rust-fuzz-afl.rs.md) | ⭐ 1.8k | Rust | 55/100 |
 | 1230 | [inko-lang/inko](./inko-lang-inko.md) | ⭐ 1.3k | Rust | 55/100 |
-| 1231 | [pkgforge/soar](./pkgforge-soar.md) | ⭐ 792 | Rust | 55/100 |
-| 1232 | [nico81/iContainer](./nico81-icontainer.md) | ⭐ 132 | Swift | 55/100 |
+| 1231 | [nico81/iContainer](./nico81-icontainer.md) | ⭐ 132 | Swift | 55/100 |
+| 1232 | [pkgforge/soar](./pkgforge-soar.md) | ⭐ 792 | Rust | 55/100 |
 | 1233 | [phpstan/phpstan-phpunit](./phpstan-phpstan-phpunit.md) | ⭐ 533 | PHP | 55/100 |
 | 1234 | [kaelzhang/shell-safe-rm](./kaelzhang-shell-safe-rm.md) | ⭐ 599 | JavaScript | 55/100 |
 | 1235 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 55/100 |
@@ -1538,8 +1538,8 @@
 | 1528 | [Bharathcoorg/interenv](./bharathcoorg-interenv.md) | ⭐ 1 | Rust | 46/100 |
 | 1529 | [aristocratos/btop](./aristocratos-btop.md) | ⭐ — | — | 46/100 |
 | 1530 | [geturbackend/urBackend](./geturbackend-urbackend.md) | ⭐ — | — | 46/100 |
-| 1531 | [charmbracelet/lipgloss](./charmbracelet-lipgloss.md) | ⭐ — | — | 46/100 |
-| 1532 | [fini-net/gh-observer](./fini-net-gh-observer.md) | ⭐ — | — | 46/100 |
+| 1531 | [fini-net/gh-observer](./fini-net-gh-observer.md) | ⭐ — | — | 46/100 |
+| 1532 | [charmbracelet/lipgloss](./charmbracelet-lipgloss.md) | ⭐ — | — | 46/100 |
 | 1533 | [sdiehl/typechecker-zoo](./sdiehl-typechecker-zoo.md) | ⭐ 416 | Rust | 46/100 |
 | 1534 | [coolxv/cpp-stub](./coolxv-cpp-stub.md) | ⭐ 326 | C++ | 46/100 |
 | 1535 | [trovu/trovu](./trovu-trovu.md) | ⭐ 70 | TypeScript | 46/100 |

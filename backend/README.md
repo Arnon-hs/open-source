@@ -465,8 +465,8 @@
 | 455 | [elastic/apm-server](./elastic-apm-server.md) | ⭐ 1.3k | Go | 63/100 |
 | 456 | [MicroPyramid/opensource-job-portal](./micropyramid-opensource-job-portal.md) | ⭐ 480 | HTML | 63/100 |
 | 457 | [joreilly/BikeShare](./joreilly-bikeshare.md) | ⭐ 826 | Jupyter Notebook | 63/100 |
-| 458 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
-| 459 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 368 | TypeScript | 63/100 |
+| 458 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 368 | TypeScript | 63/100 |
+| 459 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
 | 460 | [Karben233/bili-hardcore](./karben233-bili-hardcore.md) | ⭐ 2.2k | Rust | 63/100 |
 | 461 | [markitosgv/JWTRefreshTokenBundle](./markitosgv-jwtrefreshtokenbundle.md) | ⭐ 710 | PHP | 63/100 |
 | 462 | [ansible/vscode-ansible](./ansible-vscode-ansible.md) | ⭐ 480 | TypeScript | 63/100 |
@@ -748,8 +748,8 @@
 | 738 | [inducer/relate](./inducer-relate.md) | ⭐ 423 | Python | 56/100 |
 | 739 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 476 | Go | 56/100 |
 | 740 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 197 | TypeScript | 56/100 |
-| 741 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
-| 742 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
+| 741 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
+| 742 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
 | 743 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 682 | Rust | 56/100 |
 | 744 | [nodejs/undici](./nodejs-undici.md) | ⭐ 7.6k | JavaScript | 56/100 |
 | 745 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 350 | Go | 56/100 |
@@ -783,11 +783,11 @@
 | 773 | [sozercan/kaset](./sozercan-kaset.md) | ⭐ 1.1k | Swift | 55/100 |
 | 774 | [ClickHouse/clickhouse-js](./clickhouse-clickhouse-js.md) | ⭐ 311 | TypeScript | 55/100 |
 | 775 | [typegoose/typegoose](./typegoose-typegoose.md) | ⭐ 2.3k | TypeScript | 55/100 |
-| 776 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
-| 777 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 384 | Python | 55/100 |
+| 776 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 384 | Python | 55/100 |
+| 777 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
 | 778 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2k | JavaScript | 55/100 |
-| 779 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
-| 780 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
+| 779 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
+| 780 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
 | 781 | [Suwayomi/Suwayomi-Server](./suwayomi-suwayomi-server.md) | ⭐ 6.9k | Java | 55/100 |
 | 782 | [trailbaseio/trailbase](./trailbaseio-trailbase.md) | ⭐ 4.9k | Rust | 55/100 |
 | 783 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 55/100 |
