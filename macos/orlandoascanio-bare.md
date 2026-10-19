@@ -1,6 +1,6 @@
 # orlandoascanio/Bare
 
-[![Stars](https://img.shields.io/github/stars/orlandoascanio/Bare?style=flat-square&color=yellow)](https://github.com/orlandoascanio/Bare/stargazers) [![Forks](https://img.shields.io/github/forks/orlandoascanio/Bare?style=flat-square&color=blue)](https://github.com/orlandoascanio/Bare/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orlandoascanio/Bare?style=flat-square&color=yellow)](https://github.com/orlandoascanio/Bare/stargazers) [![Forks](https://img.shields.io/github/forks/orlandoascanio/Bare?style=flat-square&color=blue)](https://github.com/orlandoascanio/Bare/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Bare: a free, open-source macOS menu bar app that hides your Desktop icons. Everything, or just folders, screenshots, photos and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ orlandoascanio/Bare：orlandoascanio/Bare may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 57/100 |
+| production | 52/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
