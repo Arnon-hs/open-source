@@ -1,0 +1,81 @@
+# AlteredParadox/pmss-fleet-manager
+
+[![Stars](https://img.shields.io/github/stars/AlteredParadox/pmss-fleet-manager?style=flat-square&color=yellow)](https://github.com/AlteredParadox/pmss-fleet-manager/stargazers) [![Forks](https://img.shields.io/github/forks/AlteredParadox/pmss-fleet-manager?style=flat-square&color=blue)](https://github.com/AlteredParadox/pmss-fleet-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+
+> Fleet Management for Pulsedmedia PMSS seedboxes/storageboxes
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1 |
+| 🍴 **Forks** | 2 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-10-19 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`dashboard` `go` `pulsedmedia` `qbittorrent` `seedbox` `vibe-coded`
+
+## 🎯 Categories
+
+API · JSON · Go · Dashboard · BugFix · PulsedMedia · pmss-fleet-manager
+
+## 📝 Summary
+
+### English
+
+AlteredParadox/pmss-fleet-manager: AlteredParadox/pmss-fleet-manager may be useful when its README and activity match a concrete workflow.. Use it for API, JSON, Go, Dashboard, BugFix, PulsedMedia, pmss-fleet-manager. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+AlteredParadox/pmss-fleet-manager: open-source проект в категориях API, JSON, Go, Dashboard, BugFix, PulsedMedia, pmss-fleet-manager. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+AlteredParadox/pmss-fleet-manager：AlteredParadox/pmss-fleet-manager may be useful when its README and activity match a concrete workflow.。适合用于API、JSON、Go、Dashboard、BugFix、PulsedMedia、pmss-fleet-manager。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** AlteredParadox/pmss-fleet-manager may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1 GitHub stars
+- 2 forks
+- updated 2026-10-19
+- primary language: Go
+- 6 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 74/100 |
+| quality | 50/100 |
+| integration | 46/100 |
+| production | 63/100 |
+| outlook | 66/100 |
+| adoption | 8/100 |
+| categoryMatchCount | 700/100 |
+| stars | 6/100 |
+| forks | 12/100 |
+| recency | 100/100 |
+| topics | 75/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-19 · [View on GitHub](https://github.com/AlteredParadox/pmss-fleet-manager) · [← Back to Api](./README.md)</sub>

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mohitdebian/relay](./mohitdebian-relay.md) | ⭐ — | TypeScript | 46/100 |
+| 1 | [AlteredParadox/pmss-fleet-manager](./alteredparadox-pmss-fleet-manager.md) | ⭐ 1 | Go | 56/100 |
 
 ---
 
