@@ -2,15 +2,14 @@
 
 > 
 
-**3 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 135 | Go | 61/100 |
-| 2 | [rewtools/rew](./rewtools-rew.md) | ⭐ 1 | Go | 60/100 |
-| 3 | [oklog/oklog](./oklog-oklog.md) | ⭐ 3k | Go | 58/100 |
+| 1 | [rewtools/rew](./rewtools-rew.md) | ⭐ 1 | Go | 60/100 |
+| 2 | [oklog/oklog](./oklog-oklog.md) | ⭐ 3k | Go | 58/100 |
 
 ---
 
