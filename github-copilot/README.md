@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pnkj006/ToDoList-Using_Copilot](./pnkj006-todolist-using-copilot.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [pnkj006/ToDoList-Using_Copilot](./pnkj006-todolist-using-copilot.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

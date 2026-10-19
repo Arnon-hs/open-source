@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AbisoyeOnanuga/price-wire](./abisoyeonanuga-price-wire.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [AbisoyeOnanuga/price-wire](./abisoyeonanuga-price-wire.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

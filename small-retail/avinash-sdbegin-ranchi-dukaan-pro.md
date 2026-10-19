@@ -1,6 +1,6 @@
 # Avinash-sdbegin/ranchi-dukaan-pro
 
-[![Stars](https://img.shields.io/github/stars/Avinash-sdbegin/ranchi-dukaan-pro?style=flat-square&color=yellow)](https://github.com/Avinash-sdbegin/ranchi-dukaan-pro/stargazers) [![Forks](https://img.shields.io/github/forks/Avinash-sdbegin/ranchi-dukaan-pro?style=flat-square&color=blue)](https://github.com/Avinash-sdbegin/ranchi-dukaan-pro/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Avinash-sdbegin/ranchi-dukaan-pro?style=flat-square&color=yellow)](https://github.com/Avinash-sdbegin/ranchi-dukaan-pro/stargazers) [![Forks](https://img.shields.io/github/forks/Avinash-sdbegin/ranchi-dukaan-pro?style=flat-square&color=blue)](https://github.com/Avinash-sdbegin/ranchi-dukaan-pro/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > 🏪 AI-powered inventory and 7-day demand forecasting dashboard for small retailers, built with TabPFN-TS, Python, and Gradio.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ Avinash-sdbegin/ranchi-dukaan-pro：Avinash-sdbegin/ranchi-dukaan-pro may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 54/100 |
+| production | 51/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

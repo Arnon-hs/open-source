@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Avinash-sdbegin/ranchi-dukaan-pro](./avinash-sdbegin-ranchi-dukaan-pro.md) | ⭐ — | HTML | 46/100 |
+| 1 | [Avinash-sdbegin/ranchi-dukaan-pro](./avinash-sdbegin-ranchi-dukaan-pro.md) | ⭐ — | HTML | 43/100 |
 
 ---
 

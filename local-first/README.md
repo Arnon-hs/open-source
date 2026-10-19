@@ -19,9 +19,9 @@
 | 9 | [utkarshydv27/DukaanFlow-AI](./utkarshydv27-dukaanflow-ai.md) | ⭐ — | Python | 39/100 |
 | 10 | [tharun634/listinglift](./tharun634-listinglift.md) | ⭐ — | JavaScript | 36/100 |
 | 11 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 36/100 |
-| 12 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 36/100 |
-| 13 | [FreemanBoss/bayaan](./freemanboss-bayaan.md) | ⭐ — | JavaScript | 33/100 |
-| 14 | [Jagrat567/wanderwise-ai](./jagrat567-wanderwise-ai.md) | ⭐ — | — | 33/100 |
+| 12 | [FreemanBoss/bayaan](./freemanboss-bayaan.md) | ⭐ — | JavaScript | 33/100 |
+| 13 | [Jagrat567/wanderwise-ai](./jagrat567-wanderwise-ai.md) | ⭐ — | — | 33/100 |
+| 14 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 33/100 |
 | 15 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 33/100 |
 | 16 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 31/100 |
 | 17 | [RathnamS089/secondmind](./rathnams089-secondmind.md) | ⭐ — | HTML | 30/100 |
