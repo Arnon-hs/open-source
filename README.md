@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41025** |
-| **Categories** | **538** |
+| **Projects** | **41036** |
+| **Categories** | **539** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16150 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4414 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16155 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4415 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2787 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2335 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1580 | [Browse →](./devtools/) |
@@ -34,12 +34,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 783 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 683 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 642 | [Browse →](./networking/) |
-| 📱 **Mobile** | 631 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 632 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 609 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 596 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 533 | [Browse →](./database/) |
+| 🏷️ **Database** | 534 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 511 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 491 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 492 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 452 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 426 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
@@ -127,6 +127,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Matrixos** | 2 | [Browse →](./matrixos/) |
 | 🏷️ **Lease-management** | 2 | [Browse →](./lease-management/) |
 | 🏷️ **Testing** | 2 | [Browse →](./testing/) |
@@ -211,6 +212,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Google-calendar** | 1 | [Browse →](./google-calendar/) |
 | 🏷️ **Static-site** | 1 | [Browse →](./static-site/) |
 | 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |
 | 🏷️ **Proxy** | 1 | [Browse →](./proxy/) |
@@ -380,7 +382,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Link-checking** | 1 | [Browse →](./link-checking/) |
 | 🏷️ **Ui-testing** | 1 | [Browse →](./ui-testing/) |
 | 🏷️ **Malware** | 1 | [Browse →](./malware/) |
-| 🏷️ **Coding-agent** | 1 | [Browse →](./coding-agent/) |
 | 🏷️ **Enterprise** | 1 | [Browse →](./enterprise/) |
 | 🏷️ **Conventional-commits** | 1 | [Browse →](./conventional-commits/) |
 | 🏷️ **Upgrade** | 1 | [Browse →](./upgrade/) |
