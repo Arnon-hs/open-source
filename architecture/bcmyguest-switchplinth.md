@@ -1,6 +1,6 @@
 # bcmyguest/switchplinth
 
-[![Stars](https://img.shields.io/github/stars/bcmyguest/switchplinth?style=flat-square&color=yellow)](https://github.com/bcmyguest/switchplinth/stargazers) [![Forks](https://img.shields.io/github/forks/bcmyguest/switchplinth?style=flat-square&color=blue)](https://github.com/bcmyguest/switchplinth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bcmyguest/switchplinth?style=flat-square&color=yellow)](https://github.com/bcmyguest/switchplinth/stargazers) [![Forks](https://img.shields.io/github/forks/bcmyguest/switchplinth?style=flat-square&color=blue)](https://github.com/bcmyguest/switchplinth/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Find out why a component exists and what changes if a decision went the other way. Reads the ADRs, RFCs and design notes already in your repo, cites the passage behind every inferred claim, keeps human review on top, and previews option switches on a map. Local-first, Markdown only, MCP tools for agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ bcmyguest/switchplinth：bcmyguest/switchplinth may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 94/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

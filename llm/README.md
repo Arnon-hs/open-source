@@ -15,8 +15,8 @@
 | 5 | [vellumlabs/llm-wiki-kit](./vellumlabs-llm-wiki-kit.md) | ⭐ — | — | 47/100 |
 | 6 | [prashijain-ai/SponsorPulse-](./prashijain-ai-sponsorpulse-.md) | ⭐ — | HTML | 43/100 |
 | 7 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 36/100 |
-| 8 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 33/100 |
-| 9 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 30/100 |
+| 8 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 30/100 |
+| 9 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 30/100 |
 | 10 | [huggingface/bitsandbytes](./huggingface-bitsandbytes.md) | ⭐ — | — | 24/100 |
 | 11 | [karpathy/magika](./karpathy-magika.md) | ⭐ — | — | 24/100 |
 | 12 | [onnx-community/gemma-3-270m-it-ONNX](./onnx-community-gemma-3-270m-it-onnx.md) | ⭐ — | — | 24/100 |

@@ -2,7 +2,7 @@
 
 > 
 
-**23 projects** in this category.
+**24 projects** in this category.
 
 ## Projects
 
@@ -20,17 +20,18 @@
 | 10 | [krishsf5/Graph-Hack-Hackathon-Team-7vengers](./krishsf5-graph-hack-hackathon-team-7vengers.md) | ⭐ 1 | JavaScript | 37/100 |
 | 11 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 33/100 |
 | 12 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 33/100 |
-| 13 | [waiaas/cli](./waiaas-cli.md) | ⭐ — | — | 32/100 |
-| 14 | [waiaas/sdk](./waiaas-sdk.md) | ⭐ — | — | 32/100 |
-| 15 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 32/100 |
-| 16 | [agent-colony/join-agent](./agent-colony-join-agent.md) | ⭐ — | — | 28/100 |
-| 17 | [falkor-db/falkor-db](./falkor-db-falkor-db.md) | ⭐ — | — | 24/100 |
-| 18 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
-| 19 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
-| 20 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
-| 21 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
-| 22 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
-| 23 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
+| 13 | [pachca/cli](./pachca-cli.md) | ⭐ — | — | 32/100 |
+| 14 | [waiaas/cli](./waiaas-cli.md) | ⭐ — | — | 32/100 |
+| 15 | [waiaas/sdk](./waiaas-sdk.md) | ⭐ — | — | 32/100 |
+| 16 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 32/100 |
+| 17 | [agent-colony/join-agent](./agent-colony-join-agent.md) | ⭐ — | — | 28/100 |
+| 18 | [falkor-db/falkor-db](./falkor-db-falkor-db.md) | ⭐ — | — | 24/100 |
+| 19 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
+| 20 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
+| 21 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
+| 22 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
+| 23 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
+| 24 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
 
 ---
 
