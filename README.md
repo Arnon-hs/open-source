@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40928** |
-| **Categories** | **538** |
+| **Projects** | **40934** |
+| **Categories** | **539** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16108 | [Browse →](./misc/) |
+| 📦 **Misc** | 16112 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4403 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2781 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2332 | [Browse →](./orchestration/) |
@@ -55,17 +55,17 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 121 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 35 | [Browse →](./open-source/) |
-| 🏷️ **Offline** | 33 | [Browse →](./offline/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
+| 🏷️ **Offline** | 32 | [Browse →](./offline/) |
 | 🏷️ **Education** | 31 | [Browse →](./education/) |
 | 🏷️ **Privacy** | 24 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 23 | [Browse →](./ai-agents/) |
 | 🏷️ **Freelance** | 22 | [Browse →](./freelance/) |
-| 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
+| 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 19 | [Browse →](./llm/) |
 | 🏷️ **Local-ai** | 15 | [Browse →](./local-ai/) |
+| 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Claude-code** | 13 | [Browse →](./claude-code/) |
-| 🏷️ **Local-llm** | 13 | [Browse →](./local-llm/) |
 | 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
 | 🏷️ **Python** | 8 | [Browse →](./python/) |
 | 🏷️ **N8n** | 8 | [Browse →](./n8n/) |
@@ -82,6 +82,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Whatsapp** | 5 | [Browse →](./whatsapp/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **React** | 4 | [Browse →](./react/) |
 | 🏷️ **Npm** | 4 | [Browse →](./npm/) |
 | 🏷️ **Android** | 4 | [Browse →](./android/) |
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
@@ -113,7 +114,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Embedded** | 3 | [Browse →](./embedded/) |
 | 🏷️ **Offline-checks** | 3 | [Browse →](./offline-checks/) |
 | 🏷️ **Salesforce** | 3 | [Browse →](./salesforce/) |
-| 🏷️ **React** | 3 | [Browse →](./react/) |
 | 🏷️ **Minecraft** | 3 | [Browse →](./minecraft/) |
 | 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
 | 🏷️ **3d** | 3 | [Browse →](./3d/) |
@@ -183,7 +183,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Data-contamination** | 2 | [Browse →](./data-contamination/) |
 | 🏷️ **Cli** | 2 | [Browse →](./cli/) |
 | 🏷️ **Yaml** | 2 | [Browse →](./yaml/) |
-| 🏷️ **Astro** | 2 | [Browse →](./astro/) |
 | 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Outdoor** | 2 | [Browse →](./outdoor/) |
@@ -209,6 +208,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Review-analysis** | 1 | [Browse →](./review-analysis/) |
 | 🏷️ **Deduplication** | 1 | [Browse →](./deduplication/) |
 | 🏷️ **Personal-finance** | 1 | [Browse →](./personal-finance/) |
 | 🏷️ **Side-project** | 1 | [Browse →](./side-project/) |
@@ -546,6 +546,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ide** | 1 | [Browse →](./ide/) |
 | 🏷️ **Quantum-computing** | 1 | [Browse →](./quantum-computing/) |
 | 🏷️ **Rpa** | 1 | [Browse →](./rpa/) |
+| 🏷️ **Astro** | 1 | [Browse →](./astro/) |
 | 🏷️ **Expense-management** | 1 | [Browse →](./expense-management/) |
 | 🏷️ **Bot-protection** | 1 | [Browse →](./bot-protection/) |
 | 🏷️ **Ttrpg** | 1 | [Browse →](./ttrpg/) |
