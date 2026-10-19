@@ -1409,8 +1409,8 @@
 | 1399 | [sharkwani/instinct_openCode_bridge](./sharkwani-instinct-opencode-bridge.md) | ⭐ — | JavaScript | 33/100 |
 | 1400 | [stepanogil/autonomous-hr-chatbot](./stepanogil-autonomous-hr-chatbot.md) | ⭐ — | — | 32/100 |
 | 1401 | [RazorBlade74/Michaele-tutoring-books](./razorblade74-michaele-tutoring-books.md) | ⭐ — | JavaScript | 31/100 |
-| 1402 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
-| 1403 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
+| 1402 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
+| 1403 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
 | 1404 | [strands-ai/agents](./strands-ai-agents.md) | ⭐ — | — | 28/100 |
 | 1405 | [openai/agents](./openai-agents.md) | ⭐ — | — | 28/100 |
 | 1406 | [kresohr/youtube-summary](./kresohr-youtube-summary.md) | ⭐ — | TypeScript | 27/100 |

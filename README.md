@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41014** |
-| **Categories** | **537** |
+| **Projects** | **41022** |
+| **Categories** | **538** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16144 | [Browse →](./misc/) |
+| 📦 **Misc** | 16149 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4414 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2787 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2335 | [Browse →](./orchestration/) |
@@ -46,7 +46,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 341 | [Browse →](./data/) |
 | 💳 **Payments** | 338 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 338 | [Browse →](./games--graphics/) |
-| 🏷️ **Productivity** | 326 | [Browse →](./productivity/) |
+| 🏷️ **Productivity** | 327 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 301 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 262 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 205 | [Browse →](./trading/) |
@@ -68,9 +68,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
 | 🏷️ **N8n** | 9 | [Browse →](./n8n/) |
+| 🏷️ **Ci** | 8 | [Browse →](./ci/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
-| 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Python** | 7 | [Browse →](./python/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
@@ -211,6 +211,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Static-site** | 1 | [Browse →](./static-site/) |
 | 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |
 | 🏷️ **Proxy** | 1 | [Browse →](./proxy/) |
 | 🏷️ **Api** | 1 | [Browse →](./api/) |

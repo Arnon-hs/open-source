@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cuculhart/kimetron](./cuculhart-kimetron.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [cuculhart/kimetron](./cuculhart-kimetron.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

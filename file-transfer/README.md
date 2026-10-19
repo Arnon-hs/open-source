@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [M5Devs/Total-Connect](./m5devs-total-connect.md) | ⭐ 1 | Go | 60/100 |
+| 1 | [M5Devs/Total-Connect](./m5devs-total-connect.md) | ⭐ 1 | Go | 57/100 |
 
 ---
 
