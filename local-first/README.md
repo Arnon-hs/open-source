@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aaryanrwt/athena](./aaryanrwt-athena.md) | ⭐ — | Python | 58/100 |
+| 1 | [aaryanrwt/athena](./aaryanrwt-athena.md) | ⭐ — | Python | 55/100 |
 | 2 | [federicolaterra/knemora](./federicolaterra-knemora.md) | ⭐ 3 | Python | 55/100 |
 | 3 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 43/100 |
 | 4 | [pyarchana/folio-ai](./pyarchana-folio-ai.md) | ⭐ — | Python | 42/100 |
