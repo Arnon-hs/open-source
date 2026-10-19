@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**935 projects** in this category.
+**937 projects** in this category.
 
 ## Projects
 
@@ -250,8 +250,8 @@
 | 240 | [BenLorantfy/nestjs-zod](./benlorantfy-nestjs-zod.md) | ⭐ 1.1k | TypeScript | 68/100 |
 | 241 | [DeepL/deepl-python](./deepl-deepl-python.md) | ⭐ 1.3k | Python | 68/100 |
 | 242 | [nwjs/nw.js](./nwjs-nw.js.md) | ⭐ 41.2k | JavaScript | 68/100 |
-| 243 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2k | Go | 68/100 |
-| 244 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 68/100 |
+| 243 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 68/100 |
+| 244 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2k | Go | 68/100 |
 | 245 | [DnsChanger/dnsChanger-desktop](./dnschanger-dnschanger-desktop.md) | ⭐ 1.3k | TypeScript | 68/100 |
 | 246 | [launchdarkly/rust-eventsource-client](./launchdarkly-rust-eventsource-client.md) | ⭐ 113 | Rust | 68/100 |
 | 247 | [sequelize/sequelize](./sequelize-sequelize.md) | ⭐ 30.4k | TypeScript | 68/100 |
@@ -389,8 +389,8 @@
 | 379 | [ServiceStack/llms](./servicestack-llms.md) | ⭐ 626 | JavaScript | 65/100 |
 | 380 | [gbtami/pychess-variants](./gbtami-pychess-variants.md) | ⭐ 301 | Python | 65/100 |
 | 381 | [inventree/InvenTree](./inventree-inventree.md) | ⭐ 7.4k | Python | 65/100 |
-| 382 | [line/promgen](./line-promgen.md) | ⭐ 1.1k | Python | 65/100 |
-| 383 | [stashapp/stash](./stashapp-stash.md) | ⭐ 12.8k | Go | 65/100 |
+| 382 | [stashapp/stash](./stashapp-stash.md) | ⭐ 12.8k | Go | 65/100 |
+| 383 | [line/promgen](./line-promgen.md) | ⭐ 1.1k | Python | 65/100 |
 | 384 | [keygen-sh/keygen-api](./keygen-sh-keygen-api.md) | ⭐ 1.5k | Gherkin | 65/100 |
 | 385 | [zostera/django-bootstrap4](./zostera-django-bootstrap4.md) | ⭐ 1k | Python | 65/100 |
 | 386 | [sindresorhus/meow](./sindresorhus-meow.md) | ⭐ 3.7k | JavaScript | 65/100 |
@@ -465,8 +465,8 @@
 | 455 | [elastic/apm-server](./elastic-apm-server.md) | ⭐ 1.3k | Go | 63/100 |
 | 456 | [MicroPyramid/opensource-job-portal](./micropyramid-opensource-job-portal.md) | ⭐ 480 | HTML | 63/100 |
 | 457 | [joreilly/BikeShare](./joreilly-bikeshare.md) | ⭐ 826 | Jupyter Notebook | 63/100 |
-| 458 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
-| 459 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 368 | TypeScript | 63/100 |
+| 458 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 368 | TypeScript | 63/100 |
+| 459 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
 | 460 | [Karben233/bili-hardcore](./karben233-bili-hardcore.md) | ⭐ 2.2k | Rust | 63/100 |
 | 461 | [markitosgv/JWTRefreshTokenBundle](./markitosgv-jwtrefreshtokenbundle.md) | ⭐ 710 | PHP | 63/100 |
 | 462 | [ansible/vscode-ansible](./ansible-vscode-ansible.md) | ⭐ 480 | TypeScript | 63/100 |
@@ -786,8 +786,8 @@
 | 776 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
 | 777 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 384 | Python | 55/100 |
 | 778 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2k | JavaScript | 55/100 |
-| 779 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
-| 780 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
+| 779 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |
+| 780 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
 | 781 | [Suwayomi/Suwayomi-Server](./suwayomi-suwayomi-server.md) | ⭐ 6.9k | Java | 55/100 |
 | 782 | [trailbaseio/trailbase](./trailbaseio-trailbase.md) | ⭐ 4.9k | Rust | 55/100 |
 | 783 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 55/100 |
@@ -886,63 +886,65 @@
 | 876 | [pelican-dev/panel](./pelican-dev-panel.md) | ⭐ 2k | PHP | 50/100 |
 | 877 | [wundergraph/cosmo](./wundergraph-cosmo.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 878 | [rust-lang/rust-analyzer](./rust-lang-rust-analyzer.md) | ⭐ 16.4k | Rust | 50/100 |
-| 879 | [codewithshahan/self-healing-ai-data-pipeline](./codewithshahan-self-healing-ai-data-pipeline.md) | ⭐ 1 | JavaScript | 49/100 |
-| 880 | [AubaidFarrukh/smart-retry](./aubaidfarrukh-smart-retry.md) | ⭐ 2 | TypeScript | 49/100 |
-| 881 | [joeyarcisz/dev-server-activity](./joeyarcisz-dev-server-activity.md) | ⭐ — | Swift | 49/100 |
-| 882 | [axium-lab/llm-mock](./axium-lab-llm-mock.md) | ⭐ — | — | 49/100 |
-| 883 | [coder3101/protols](./coder3101-protols.md) | ⭐ 193 | Rust | 49/100 |
-| 884 | [PedroL3m0z/Flux-Api](./pedrol3m0z-flux-api.md) | ⭐ — | — | 49/100 |
-| 885 | [Myriad-Dreamin/tinymist](./myriad-dreamin-tinymist.md) | ⭐ 3.2k | Rust | 49/100 |
-| 886 | [EricLBuehler/candle-vllm](./ericlbuehler-candle-vllm.md) | ⭐ 656 | Rust | 49/100 |
-| 887 | [magda-io/magda](./magda-io-magda.md) | ⭐ 597 | JavaScript | 49/100 |
-| 888 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 49/100 |
-| 889 | [AJenbo/phpantom_lsp](./ajenbo-phpantom-lsp.md) | ⭐ 658 | Rust | 49/100 |
-| 890 | [ventstream/ventstream](./ventstream-ventstream.md) | ⭐ 9 | Rust | 48/100 |
-| 891 | [JustiNoel/LLM-Prompt-Injection](./justinoel-llm-prompt-injection.md) | ⭐ — | — | 48/100 |
-| 892 | [vetis-server/vetis](./vetis-server-vetis.md) | ⭐ 113 | Rust | 48/100 |
-| 893 | [Winds-Studio/Leaf](./winds-studio-leaf.md) | ⭐ 964 | Java | 48/100 |
-| 894 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 48/100 |
-| 895 | [ferronweb/ferron](./ferronweb-ferron.md) | ⭐ 2k | Rust | 48/100 |
-| 896 | [LandSandBoat/server](./landsandboat-server.md) | ⭐ 471 | Lua | 48/100 |
-| 897 | [avaraline/incarnator](./avaraline-incarnator.md) | ⭐ — | — | 47/100 |
-| 898 | [Arthur031221/cachewhy](./arthur031221-cachewhy.md) | ⭐ — | JavaScript | 47/100 |
-| 899 | [flyingsquirrel0419/layercache](./flyingsquirrel0419-layercache.md) | ⭐ 26 | TypeScript | 47/100 |
-| 900 | [iedr/goodfirstissues](./iedr-goodfirstissues.md) | ⭐ 433 | JavaScript | 47/100 |
-| 901 | [sebadob/rauthy](./sebadob-rauthy.md) | ⭐ 1.1k | Rust | 47/100 |
-| 902 | [eXist-db/exist](./exist-db-exist.md) | ⭐ 464 | Java | 47/100 |
-| 903 | [DatanoiseTV/tinyice](./datanoisetv-tinyice.md) | ⭐ 320 | Go | 47/100 |
-| 904 | [stac-utils/rustac](./stac-utils-rustac.md) | ⭐ 139 | Rust | 47/100 |
-| 905 | [proftpd/proftpd](./proftpd-proftpd.md) | ⭐ 584 | C | 47/100 |
-| 906 | [adysec/tracker](./adysec-tracker.md) | ⭐ 1.3k | Rust | 47/100 |
-| 907 | [keniel13-ui/ai-memory-judgment-demo](./keniel13-ui-ai-memory-judgment-demo.md) | ⭐ — | — | 46/100 |
-| 908 | [tacoda/keystone](./tacoda-keystone.md) | ⭐ — | — | 46/100 |
-| 909 | [dheijl/swyh-rs](./dheijl-swyh-rs.md) | ⭐ 566 | Rust | 46/100 |
-| 910 | [webpack/webpack-dev-middleware](./webpack-webpack-dev-middleware.md) | ⭐ 2.5k | JavaScript | 46/100 |
-| 911 | [greenbone/gvmd](./greenbone-gvmd.md) | ⭐ 359 | C | 46/100 |
-| 912 | [caiderek/LogCarver](./caiderek-logcarver.md) | ⭐ — | C# | 45/100 |
-| 913 | [On13uka/sanctions-screener-api](./on13uka-sanctions-screener-api.md) | ⭐ — | Python | 45/100 |
-| 914 | [madahzadeh/schema-audit](./madahzadeh-schema-audit.md) | ⭐ — | JavaScript | 45/100 |
-| 915 | [axium-lab/llm-specs-api](./axium-lab-llm-specs-api.md) | ⭐ — | — | 45/100 |
-| 916 | [madahzadeh/hreflang-audit](./madahzadeh-hreflang-audit.md) | ⭐ — | JavaScript | 45/100 |
-| 917 | [minutemailco/bifrost-dns](./minutemailco-bifrost-dns.md) | ⭐ — | — | 45/100 |
-| 918 | [bastion-framework/bast](./bastion-framework-bast.md) | ⭐ — | — | 45/100 |
-| 919 | [joshuadavidthomas/django-language-server](./joshuadavidthomas-django-language-server.md) | ⭐ 184 | Rust | 45/100 |
-| 920 | [dibdot/DoH-IP-blocklists](./dibdot-doh-ip-blocklists.md) | ⭐ 333 | Shell | 45/100 |
-| 921 | [TencentCloudBase/awesome-cloudbase-examples](./tencentcloudbase-awesome-cloudbase-examples.md) | ⭐ 377 | JavaScript | 45/100 |
-| 922 | [Arthur031221/Beholden](./arthur031221-beholden.md) | ⭐ — | JavaScript | 44/100 |
-| 923 | [amirhasanzadehpy/Pogo](./amirhasanzadehpy-pogo.md) | ⭐ — | — | 44/100 |
-| 924 | [JohnnyMorganz/luau-lsp](./johnnymorganz-luau-lsp.md) | ⭐ 479 | Luau | 44/100 |
-| 925 | [SwiftPackageIndex/SwiftPackageIndex-Server](./swiftpackageindex-swiftpackageindex-server.md) | ⭐ 659 | Swift | 44/100 |
-| 926 | [containers/aardvark-dns](./containers-aardvark-dns.md) | ⭐ 264 | Rust | 44/100 |
-| 927 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 44/100 |
-| 928 | [MR-RAHAD/rahad-all-downloader-v2](./mr-rahad-rahad-all-downloader-v2.md) | ⭐ 1 | JavaScript | 42/100 |
-| 929 | [yarnpkg/zpm](./yarnpkg-zpm.md) | ⭐ 185 | Rust | 41/100 |
-| 930 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 41/100 |
-| 931 | [iwadjp/timewitness](./iwadjp-timewitness.md) | ⭐ — | JavaScript | 39/100 |
-| 932 | [8Protons/POWBlock](./8protons-powblock.md) | ⭐ — | — | 38/100 |
-| 933 | [orgs/community](./orgs-community.md) | ⭐ — | — | 37/100 |
-| 934 | [hyperlane-dev/hyperlane](./hyperlane-dev-hyperlane.md) | ⭐ 116 | Rust | 37/100 |
-| 935 | [ravikisha/rustdns](./ravikisha-rustdns.md) | ⭐ 1 | Rust | 32/100 |
+| 879 | [LibVNC/x11vnc](./libvnc-x11vnc.md) | ⭐ 858 | C | 49/100 |
+| 880 | [codewithshahan/self-healing-ai-data-pipeline](./codewithshahan-self-healing-ai-data-pipeline.md) | ⭐ 1 | JavaScript | 49/100 |
+| 881 | [AubaidFarrukh/smart-retry](./aubaidfarrukh-smart-retry.md) | ⭐ 2 | TypeScript | 49/100 |
+| 882 | [joeyarcisz/dev-server-activity](./joeyarcisz-dev-server-activity.md) | ⭐ — | Swift | 49/100 |
+| 883 | [axium-lab/llm-mock](./axium-lab-llm-mock.md) | ⭐ — | — | 49/100 |
+| 884 | [coder3101/protols](./coder3101-protols.md) | ⭐ 193 | Rust | 49/100 |
+| 885 | [PedroL3m0z/Flux-Api](./pedrol3m0z-flux-api.md) | ⭐ — | — | 49/100 |
+| 886 | [Myriad-Dreamin/tinymist](./myriad-dreamin-tinymist.md) | ⭐ 3.2k | Rust | 49/100 |
+| 887 | [EricLBuehler/candle-vllm](./ericlbuehler-candle-vllm.md) | ⭐ 656 | Rust | 49/100 |
+| 888 | [magda-io/magda](./magda-io-magda.md) | ⭐ 597 | JavaScript | 49/100 |
+| 889 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 505 | Rust | 49/100 |
+| 890 | [AJenbo/phpantom_lsp](./ajenbo-phpantom-lsp.md) | ⭐ 658 | Rust | 49/100 |
+| 891 | [ventstream/ventstream](./ventstream-ventstream.md) | ⭐ 9 | Rust | 48/100 |
+| 892 | [JustiNoel/LLM-Prompt-Injection](./justinoel-llm-prompt-injection.md) | ⭐ — | — | 48/100 |
+| 893 | [vetis-server/vetis](./vetis-server-vetis.md) | ⭐ 113 | Rust | 48/100 |
+| 894 | [Winds-Studio/Leaf](./winds-studio-leaf.md) | ⭐ 964 | Java | 48/100 |
+| 895 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 506 | Go | 48/100 |
+| 896 | [ferronweb/ferron](./ferronweb-ferron.md) | ⭐ 2k | Rust | 48/100 |
+| 897 | [LandSandBoat/server](./landsandboat-server.md) | ⭐ 471 | Lua | 48/100 |
+| 898 | [avaraline/incarnator](./avaraline-incarnator.md) | ⭐ — | — | 47/100 |
+| 899 | [Arthur031221/cachewhy](./arthur031221-cachewhy.md) | ⭐ — | JavaScript | 47/100 |
+| 900 | [flyingsquirrel0419/layercache](./flyingsquirrel0419-layercache.md) | ⭐ 26 | TypeScript | 47/100 |
+| 901 | [iedr/goodfirstissues](./iedr-goodfirstissues.md) | ⭐ 433 | JavaScript | 47/100 |
+| 902 | [sebadob/rauthy](./sebadob-rauthy.md) | ⭐ 1.1k | Rust | 47/100 |
+| 903 | [eXist-db/exist](./exist-db-exist.md) | ⭐ 464 | Java | 47/100 |
+| 904 | [DatanoiseTV/tinyice](./datanoisetv-tinyice.md) | ⭐ 320 | Go | 47/100 |
+| 905 | [stac-utils/rustac](./stac-utils-rustac.md) | ⭐ 139 | Rust | 47/100 |
+| 906 | [proftpd/proftpd](./proftpd-proftpd.md) | ⭐ 584 | C | 47/100 |
+| 907 | [adysec/tracker](./adysec-tracker.md) | ⭐ 1.3k | Rust | 47/100 |
+| 908 | [XD-MHLOO/facebook-gql-scraper](./xd-mhloo-facebook-gql-scraper.md) | ⭐ — | Python | 46/100 |
+| 909 | [keniel13-ui/ai-memory-judgment-demo](./keniel13-ui-ai-memory-judgment-demo.md) | ⭐ — | — | 46/100 |
+| 910 | [tacoda/keystone](./tacoda-keystone.md) | ⭐ — | — | 46/100 |
+| 911 | [dheijl/swyh-rs](./dheijl-swyh-rs.md) | ⭐ 566 | Rust | 46/100 |
+| 912 | [webpack/webpack-dev-middleware](./webpack-webpack-dev-middleware.md) | ⭐ 2.5k | JavaScript | 46/100 |
+| 913 | [greenbone/gvmd](./greenbone-gvmd.md) | ⭐ 359 | C | 46/100 |
+| 914 | [caiderek/LogCarver](./caiderek-logcarver.md) | ⭐ — | C# | 45/100 |
+| 915 | [On13uka/sanctions-screener-api](./on13uka-sanctions-screener-api.md) | ⭐ — | Python | 45/100 |
+| 916 | [madahzadeh/schema-audit](./madahzadeh-schema-audit.md) | ⭐ — | JavaScript | 45/100 |
+| 917 | [axium-lab/llm-specs-api](./axium-lab-llm-specs-api.md) | ⭐ — | — | 45/100 |
+| 918 | [madahzadeh/hreflang-audit](./madahzadeh-hreflang-audit.md) | ⭐ — | JavaScript | 45/100 |
+| 919 | [minutemailco/bifrost-dns](./minutemailco-bifrost-dns.md) | ⭐ — | — | 45/100 |
+| 920 | [bastion-framework/bast](./bastion-framework-bast.md) | ⭐ — | — | 45/100 |
+| 921 | [joshuadavidthomas/django-language-server](./joshuadavidthomas-django-language-server.md) | ⭐ 184 | Rust | 45/100 |
+| 922 | [dibdot/DoH-IP-blocklists](./dibdot-doh-ip-blocklists.md) | ⭐ 333 | Shell | 45/100 |
+| 923 | [TencentCloudBase/awesome-cloudbase-examples](./tencentcloudbase-awesome-cloudbase-examples.md) | ⭐ 377 | JavaScript | 45/100 |
+| 924 | [Arthur031221/Beholden](./arthur031221-beholden.md) | ⭐ — | JavaScript | 44/100 |
+| 925 | [amirhasanzadehpy/Pogo](./amirhasanzadehpy-pogo.md) | ⭐ — | — | 44/100 |
+| 926 | [JohnnyMorganz/luau-lsp](./johnnymorganz-luau-lsp.md) | ⭐ 479 | Luau | 44/100 |
+| 927 | [SwiftPackageIndex/SwiftPackageIndex-Server](./swiftpackageindex-swiftpackageindex-server.md) | ⭐ 659 | Swift | 44/100 |
+| 928 | [containers/aardvark-dns](./containers-aardvark-dns.md) | ⭐ 264 | Rust | 44/100 |
+| 929 | [komapper/komapper](./komapper-komapper.md) | ⭐ 339 | Kotlin | 44/100 |
+| 930 | [MR-RAHAD/rahad-all-downloader-v2](./mr-rahad-rahad-all-downloader-v2.md) | ⭐ 1 | JavaScript | 42/100 |
+| 931 | [yarnpkg/zpm](./yarnpkg-zpm.md) | ⭐ 185 | Rust | 41/100 |
+| 932 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 101 | Rust | 41/100 |
+| 933 | [iwadjp/timewitness](./iwadjp-timewitness.md) | ⭐ — | JavaScript | 39/100 |
+| 934 | [8Protons/POWBlock](./8protons-powblock.md) | ⭐ — | — | 38/100 |
+| 935 | [orgs/community](./orgs-community.md) | ⭐ — | — | 37/100 |
+| 936 | [hyperlane-dev/hyperlane](./hyperlane-dev-hyperlane.md) | ⭐ 116 | Rust | 37/100 |
+| 937 | [ravikisha/rustdns](./ravikisha-rustdns.md) | ⭐ 1 | Rust | 32/100 |
 
 ---
 

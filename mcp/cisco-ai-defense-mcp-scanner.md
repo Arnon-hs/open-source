@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · security · tool poisoning · gateway rule · static analysis
+MCP · AI/ML · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ cisco-ai-defense/mcp-scanner: cisco-ai-defense/mcp-scanner helps connect AI assi
 
 ### Русский
 
-cisco-ai-defense/mcp-scanner: open-source проект в категориях MCP, security, tool poisoning, gateway rule, static analysis. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+cisco-ai-defense/mcp-scanner: open-source проект в категориях MCP, AI/ML, Security. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,18 +65,18 @@ cisco-ai-defense/mcp-scanner：cisco-ai-defense/mcp-scanner helps connect AI ass
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 66/100 |
-| integration | 62/100 |
-| production | 66/100 |
-| outlook | 70/100 |
-| adoption | 62/100 |
-| categoryMatchCount | 500/100 |
-| stars | 65/100 |
 | forks | 54/100 |
-| recency | 80/100 |
+| stars | 65/100 |
 | topics | 50/100 |
+| outlook | 70/100 |
+| quality | 66/100 |
+| recency | 80/100 |
+| adoption | 62/100 |
+| production | 66/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
