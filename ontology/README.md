@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aniket-work/LaneSchema](./aniket-work-laneschema.md) | ⭐ — | Python | 42/100 |
+| 1 | [aniket-work/LaneSchema](./aniket-work-laneschema.md) | ⭐ — | Python | 39/100 |
 
 ---
 
