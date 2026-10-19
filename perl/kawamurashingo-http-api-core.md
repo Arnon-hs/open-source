@@ -1,6 +1,6 @@
 # kawamurashingo/HTTP-API-Core
 
-[![Stars](https://img.shields.io/github/stars/kawamurashingo/HTTP-API-Core?style=flat-square&color=yellow)](https://github.com/kawamurashingo/HTTP-API-Core/stargazers) [![Forks](https://img.shields.io/github/forks/kawamurashingo/HTTP-API-Core?style=flat-square&color=blue)](https://github.com/kawamurashingo/HTTP-API-Core/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kawamurashingo/HTTP-API-Core?style=flat-square&color=yellow)](https://github.com/kawamurashingo/HTTP-API-Core/stargazers) [![Forks](https://img.shields.io/github/forks/kawamurashingo/HTTP-API-Core?style=flat-square&color=blue)](https://github.com/kawamurashingo/HTTP-API-Core/network) [![Language](https://img.shields.io/badge/lang-Perl-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Perl |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-09-19 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ kawamurashingo/HTTP-API-Core：kawamurashingo/HTTP-API-Core may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 28/100 |
+| quality | 23/100 |
 | integration | 50/100 |
-| production | 46/100 |
-| outlook | 41/100 |
+| production | 39/100 |
+| outlook | 34/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 800/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
