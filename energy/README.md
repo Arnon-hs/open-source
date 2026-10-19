@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [munimtechnologies/eia860m-slip](./munimtechnologies-eia860m-slip.md) | ⭐ — | Python | 42/100 |
+| 1 | [munimtechnologies/eia860m-slip](./munimtechnologies-eia860m-slip.md) | ⭐ — | Python | 39/100 |
 
 ---
 

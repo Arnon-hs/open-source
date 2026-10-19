@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41061** |
-| **Categories** | **540** |
+| **Projects** | **41071** |
+| **Categories** | **541** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16168 | [Browse →](./misc/) |
+| 📦 **Misc** | 16175 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4415 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2787 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2336 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1580 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1413 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1414 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 938 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 886 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 783 | [Browse →](./crypto/) |
@@ -93,10 +93,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Net** | 4 | [Browse →](./net/) |
 | 🏷️ **Embedding** | 4 | [Browse →](./embedding/) |
-| 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Ai-agent** | 4 | [Browse →](./ai-agent/) |
+| 🏷️ **Docker** | 3 | [Browse →](./docker/) |
+| 🏷️ **Nextjs** | 3 | [Browse →](./nextjs/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Dj** | 3 | [Browse →](./dj/) |
@@ -126,7 +127,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
+| 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Kodi** | 2 | [Browse →](./kodi/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Matrixos** | 2 | [Browse →](./matrixos/) |
 | 🏷️ **Lease-management** | 2 | [Browse →](./lease-management/) |
@@ -185,11 +188,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Linux** | 2 | [Browse →](./linux/) |
 | 🏷️ **On-device-ai** | 2 | [Browse →](./on-device-ai/) |
 | 🏷️ **Speechtotext** | 2 | [Browse →](./speechtotext/) |
-| 🏷️ **Data-contamination** | 2 | [Browse →](./data-contamination/) |
 | 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Outdoor** | 2 | [Browse →](./outdoor/) |
-| 🏷️ **Nextjs** | 2 | [Browse →](./nextjs/) |
 | 🏷️ **Desktop-automation** | 2 | [Browse →](./desktop-automation/) |
 | 🏷️ **Node** | 2 | [Browse →](./node/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
@@ -202,7 +203,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Angular** | 2 | [Browse →](./angular/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
-| 🏷️ **Docker** | 2 | [Browse →](./docker/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
 | 🏷️ **Video-generation** | 2 | [Browse →](./video-generation/) |
 | 🏷️ **Resume** | 2 | [Browse →](./resume/) |
@@ -212,6 +212,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ffmpeg** | 1 | [Browse →](./ffmpeg/) |
 | 🏷️ **Sync** | 1 | [Browse →](./sync/) |
 | 🏷️ **Google-calendar** | 1 | [Browse →](./google-calendar/) |
 | 🏷️ **Static-site** | 1 | [Browse →](./static-site/) |
@@ -397,7 +398,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-research** | 1 | [Browse →](./ai-research/) |
 | 🏷️ **Cocos** | 1 | [Browse →](./cocos/) |
 | 🏷️ **Smart-agriculture** | 1 | [Browse →](./smart-agriculture/) |
-| 🏷️ **Freight** | 1 | [Browse →](./freight/) |
+| 🏷️ **Data-contamination** | 1 | [Browse →](./data-contamination/) |
 | 🏷️ **Context-management** | 1 | [Browse →](./context-management/) |
 | 🏷️ **Error-tracking** | 1 | [Browse →](./error-tracking/) |
 | 🏷️ **Manim** | 1 | [Browse →](./manim/) |

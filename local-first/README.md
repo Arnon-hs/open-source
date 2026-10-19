@@ -13,8 +13,8 @@
 | 3 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 43/100 |
 | 4 | [pyarchana/folio-ai](./pyarchana-folio-ai.md) | ⭐ — | Python | 42/100 |
 | 5 | [harsh8398/saathi-yoga-copilot](./harsh8398-saathi-yoga-copilot.md) | ⭐ — | TypeScript | 42/100 |
-| 6 | [Pager-dot/ledgerlocal](./pager-dot-ledgerlocal.md) | ⭐ — | Python | 42/100 |
-| 7 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 40/100 |
+| 6 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 40/100 |
+| 7 | [Pager-dot/ledgerlocal](./pager-dot-ledgerlocal.md) | ⭐ — | Python | 39/100 |
 | 8 | [utkarshydv27/DukaanFlow-AI](./utkarshydv27-dukaanflow-ai.md) | ⭐ — | Python | 39/100 |
 | 9 | [tharun634/listinglift](./tharun634-listinglift.md) | ⭐ — | JavaScript | 36/100 |
 | 10 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 36/100 |
