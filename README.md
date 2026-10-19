@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40944** |
-| **Categories** | **538** |
+| **Projects** | **40950** |
+| **Categories** | **539** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16118 | [Browse →](./misc/) |
+| 📦 **Misc** | 16119 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4404 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2784 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2332 | [Browse →](./orchestration/) |
@@ -52,17 +52,17 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 204 | [Browse →](./trading/) |
 | ✨ **Design** | 178 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 146 | [Browse →](./content-creation/) |
+| 🏷️ **Ai** | 123 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 121 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 35 | [Browse →](./open-source/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 32 | [Browse →](./offline/) |
 | 🏷️ **Privacy** | 24 | [Browse →](./privacy/) |
+| 🏷️ **Freelance** | 23 | [Browse →](./freelance/) |
 | 🏷️ **Ai-agents** | 23 | [Browse →](./ai-agents/) |
-| 🏷️ **Freelance** | 22 | [Browse →](./freelance/) |
+| 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
-| 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Local-ai** | 14 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 13 | [Browse →](./claude-code/) |
@@ -208,6 +208,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Artisans** | 1 | [Browse →](./artisans/) |
 | 🏷️ **Timeout** | 1 | [Browse →](./timeout/) |
 | 🏷️ **Finance** | 1 | [Browse →](./finance/) |
 | 🏷️ **Review-analysis** | 1 | [Browse →](./review-analysis/) |
