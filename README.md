@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41092** |
-| **Categories** | **544** |
+| **Projects** | **41096** |
+| **Categories** | **543** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16190 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4417 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16191 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4418 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2788 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2337 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1580 | [Browse →](./devtools/) |
@@ -33,13 +33,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎨 **Frontend** | 886 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 783 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 684 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 643 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 644 | [Browse →](./networking/) |
 | 📱 **Mobile** | 633 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 610 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 596 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 535 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 511 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 493 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 494 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 453 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 426 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
@@ -54,7 +54,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Content-creation** | 147 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 126 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
-| 🏷️ **Open-source** | 36 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 37 | [Browse →](./open-source/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
@@ -398,7 +398,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Webmcp** | 1 | [Browse →](./webmcp/) |
 | 🏷️ **Record-matching** | 1 | [Browse →](./record-matching/) |
 | 🏷️ **Contract-review** | 1 | [Browse →](./contract-review/) |
-| 🏷️ **Ai-research** | 1 | [Browse →](./ai-research/) |
 | 🏷️ **Speechtotext** | 1 | [Browse →](./speechtotext/) |
 | 🏷️ **Smart-agriculture** | 1 | [Browse →](./smart-agriculture/) |
 | 🏷️ **Data-contamination** | 1 | [Browse →](./data-contamination/) |
