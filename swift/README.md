@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ — | Swift | 38/100 |
+| 1 | [gbrasil720/sorcerer](./gbrasil720-sorcerer.md) | ⭐ 1 | Swift | 49/100 |
+| 2 | [anthropic/claude](./anthropic-claude.md) | ⭐ — | — | 24/100 |
 
 ---
 
