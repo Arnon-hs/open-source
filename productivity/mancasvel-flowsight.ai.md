@@ -21,21 +21,21 @@ _no topics_
 
 ## 🎯 Categories
 
-productivity · focus · local AI · workflow
+Productivity
 
 ## 📝 Summary
 
 ### English
 
-Mancasvel/FlowSight.AI: Mancasvel/FlowSight.AI may be useful when its README and activity match a concrete workflow.. Use it for productivity, focus, local AI, workflow. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Mancasvel/FlowSight.AI: Mancasvel/FlowSight.AI may be useful when its README and activity match a concrete workflow.. Use it for Productivity. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Mancasvel/FlowSight.AI: open-source проект в категориях productivity, focus, local AI, workflow. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Mancasvel/FlowSight.AI: open-source проект в категориях Productivity. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Mancasvel/FlowSight.AI：Mancasvel/FlowSight.AI may be useful when its README and activity match a concrete workflow.。适合用于productivity、focus、local AI、workflow。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Mancasvel/FlowSight.AI：Mancasvel/FlowSight.AI may be useful when its README and activity match a concrete workflow.。适合用于Productivity。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -61,18 +61,18 @@ Mancasvel/FlowSight.AI：Mancasvel/FlowSight.AI may be useful when its README an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 33/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 48/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 400/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 33/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 49/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

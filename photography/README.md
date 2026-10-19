@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mourner/suncalc](./mourner-suncalc.md) | ⭐ 3.5k | JavaScript | 52/100 |
+| 1 | [AmitSahoo45/biblocal](./amitsahoo45-biblocal.md) | ⭐ — | Python | 39/100 |
 
 ---
 

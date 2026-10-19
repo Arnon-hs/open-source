@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Kishan324/fitcal-flutter-ui-kit-boilerplate](./kishan324-fitcal-flutter-ui-kit-boilerplate.md) | ⭐ — | Dart | 36/100 |
+| 1 | [parth-lightning/HacktoberFest-Week-2](./parth-lightning-hacktoberfest-week-2.md) | ⭐ — | Dart | 36/100 |
 
 ---
 
