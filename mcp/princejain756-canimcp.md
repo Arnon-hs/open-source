@@ -1,6 +1,6 @@
 # princejain756/canimcp
 
-[![Stars](https://img.shields.io/github/stars/princejain756/canimcp?style=flat-square&color=yellow)](https://github.com/princejain756/canimcp/stargazers) [![Forks](https://img.shields.io/github/forks/princejain756/canimcp?style=flat-square&color=blue)](https://github.com/princejain756/canimcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/princejain756/canimcp?style=flat-square&color=yellow)](https://github.com/princejain756/canimcp/stargazers) [![Forks](https://img.shields.io/github/forks/princejain756/canimcp?style=flat-square&color=blue)](https://github.com/princejain756/canimcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Caniuse for MCP servers: check which clients (Claude Code, Codex, ...) silently drop or mangle your tools - a static preflight against a versioned quirks corpus.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ princejain756/canimcp：princejain756/canimcp helps connect AI assistants to rea
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 72/100 |
+| production | 58/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

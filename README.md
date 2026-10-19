@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41089** |
+| **Projects** | **41092** |
 | **Categories** | **544** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16187 | [Browse →](./misc/) |
+| 📦 **Misc** | 16190 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4417 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2788 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2337 | [Browse →](./orchestration/) |

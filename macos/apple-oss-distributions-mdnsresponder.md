@@ -1,6 +1,6 @@
 # apple-oss-distributions/mDNSResponder
 
-[![Stars](https://img.shields.io/github/stars/apple-oss-distributions/mDNSResponder?style=flat-square&color=yellow)](https://github.com/apple-oss-distributions/mDNSResponder/stargazers) [![Forks](https://img.shields.io/github/forks/apple-oss-distributions/mDNSResponder?style=flat-square&color=blue)](https://github.com/apple-oss-distributions/mDNSResponder/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/apple-oss-distributions/mDNSResponder?style=flat-square&color=yellow)](https://github.com/apple-oss-distributions/mDNSResponder/stargazers) [![Forks](https://img.shields.io/github/forks/apple-oss-distributions/mDNSResponder?style=flat-square&color=blue)](https://github.com/apple-oss-distributions/mDNSResponder/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 404 |
 | 🍴 **Forks** | 86 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ apple-oss-distributions/mDNSResponder：apple-oss-distributions/mDNSResponder ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 18/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 54/100 |
 | categoryMatchCount | 600/100 |
 | stars | 55/100 |
 | forks | 48/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # livastic-vm5-primary-20260911/x402-openapi-lint
 
-[![Stars](https://img.shields.io/github/stars/livastic-vm5-primary-20260911/x402-openapi-lint?style=flat-square&color=yellow)](https://github.com/livastic-vm5-primary-20260911/x402-openapi-lint/stargazers) [![Forks](https://img.shields.io/github/forks/livastic-vm5-primary-20260911/x402-openapi-lint?style=flat-square&color=blue)](https://github.com/livastic-vm5-primary-20260911/x402-openapi-lint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/livastic-vm5-primary-20260911/x402-openapi-lint?style=flat-square&color=yellow)](https://github.com/livastic-vm5-primary-20260911/x402-openapi-lint/stargazers) [![Forks](https://img.shields.io/github/forks/livastic-vm5-primary-20260911/x402-openapi-lint?style=flat-square&color=blue)](https://github.com/livastic-vm5-primary-20260911/x402-openapi-lint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Agent-callable OpenAPI YAML/JSON lint: $0.02 x402 Base USDC quote, testable offline, Redocly reports
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ livastic-vm5-primary-20260911/x402-openapi-lint：livastic-vm5-primary-20260911/
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

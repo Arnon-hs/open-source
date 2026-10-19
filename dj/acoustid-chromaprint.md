@@ -1,6 +1,6 @@
 # acoustid/chromaprint
 
-[![Stars](https://img.shields.io/github/stars/acoustid/chromaprint?style=flat-square&color=yellow)](https://github.com/acoustid/chromaprint/stargazers) [![Forks](https://img.shields.io/github/forks/acoustid/chromaprint?style=flat-square&color=blue)](https://github.com/acoustid/chromaprint/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/acoustid/chromaprint?style=flat-square&color=yellow)](https://github.com/acoustid/chromaprint/stargazers) [![Forks](https://img.shields.io/github/forks/acoustid/chromaprint?style=flat-square&color=blue)](https://github.com/acoustid/chromaprint/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > C library for generating audio fingerprints used by AcoustID
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.4k |
 | 🍴 **Forks** | 180 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ acoustid/chromaprint：acoustid/chromaprint may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 76/100 |
+| quality | 71/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 63/100 |
+| outlook | 67/100 |
 | adoption | 64/100 |
 | categoryMatchCount | 600/100 |
 | stars | 67/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
