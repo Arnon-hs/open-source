@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41008** |
-| **Categories** | **540** |
+| **Projects** | **41010** |
+| **Categories** | **537** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,18 +23,18 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16141 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4412 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16142 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4413 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2787 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2335 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1580 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1412 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1413 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 938 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 886 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 783 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 683 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 642 | [Browse →](./networking/) |
-| 📱 **Mobile** | 630 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 631 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 609 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 596 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 533 | [Browse →](./database/) |
@@ -65,7 +65,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Local-ai** | 14 | [Browse →](./local-ai/) |
-| 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
+| 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
 | 🏷️ **N8n** | 9 | [Browse →](./n8n/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
@@ -212,6 +212,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |
 | 🏷️ **Proxy** | 1 | [Browse →](./proxy/) |
 | 🏷️ **Api** | 1 | [Browse →](./api/) |
 | 🏷️ **Financial** | 1 | [Browse →](./financial/) |
@@ -397,10 +398,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Freight** | 1 | [Browse →](./freight/) |
 | 🏷️ **Context-management** | 1 | [Browse →](./context-management/) |
 | 🏷️ **Error-tracking** | 1 | [Browse →](./error-tracking/) |
-| 🏷️ **Prompt-injection** | 1 | [Browse →](./prompt-injection/) |
-| 🏷️ **Keywordspotting** | 1 | [Browse →](./keywordspotting/) |
-| 🏷️ **Devops** | 1 | [Browse →](./devops/) |
-| 🏷️ **Synthid** | 1 | [Browse →](./synthid/) |
 | 🏷️ **Manim** | 1 | [Browse →](./manim/) |
 | 🏷️ **Laravel** | 1 | [Browse →](./laravel/) |
 | 🏷️ **Knowledge-work** | 1 | [Browse →](./knowledge-work/) |
