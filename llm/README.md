@@ -11,8 +11,8 @@
 | 1 | [Mattbusel/tokio-prompt-orchestrator](./mattbusel-tokio-prompt-orchestrator.md) | ⭐ 59 | Rust | 63/100 |
 | 2 | [Ashveil1/dot-mcp](./ashveil1-dot-mcp.md) | ⭐ 2 | Python | 56/100 |
 | 3 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 54/100 |
-| 4 | [yushman/slimspec](./yushman-slimspec.md) | ⭐ — | — | 49/100 |
-| 5 | [vellumlabs/llm-wiki-kit](./vellumlabs-llm-wiki-kit.md) | ⭐ — | — | 47/100 |
+| 4 | [vellumlabs/llm-wiki-kit](./vellumlabs-llm-wiki-kit.md) | ⭐ — | — | 47/100 |
+| 5 | [yushman/slimspec](./yushman-slimspec.md) | ⭐ — | — | 46/100 |
 | 6 | [prashijain-ai/SponsorPulse-](./prashijain-ai-sponsorpulse-.md) | ⭐ — | HTML | 43/100 |
 | 7 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 36/100 |
 | 8 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 35/100 |

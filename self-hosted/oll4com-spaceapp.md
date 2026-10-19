@@ -1,6 +1,6 @@
 # oll4com/spaceapp
 
-[![Stars](https://img.shields.io/github/stars/oll4com/spaceapp?style=flat-square&color=yellow)](https://github.com/oll4com/spaceapp/stargazers) [![Forks](https://img.shields.io/github/forks/oll4com/spaceapp?style=flat-square&color=blue)](https://github.com/oll4com/spaceapp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oll4com/spaceapp?style=flat-square&color=yellow)](https://github.com/oll4com/spaceapp/stargazers) [![Forks](https://img.shields.io/github/forks/oll4com/spaceapp?style=flat-square&color=blue)](https://github.com/oll4com/spaceapp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted workspace that runs several AI coding CLIs (OpenCode, Codex, Claude Code, Gemini) side by side in persistent rooms.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ oll4com/spaceapp：oll4com/spaceapp may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 94/100 |
-| production | 74/100 |
-| outlook | 79/100 |
+| production | 68/100 |
+| outlook | 72/100 |
 | adoption | 29/100 |
 | categoryMatchCount | 600/100 |
 | stars | 24/100 |
 | forks | 44/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

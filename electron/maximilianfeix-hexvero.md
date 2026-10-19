@@ -1,6 +1,6 @@
 # maximilianfeix/hexvero
 
-[![Stars](https://img.shields.io/github/stars/maximilianfeix/hexvero?style=flat-square&color=yellow)](https://github.com/maximilianfeix/hexvero/stargazers) [![Forks](https://img.shields.io/github/forks/maximilianfeix/hexvero?style=flat-square&color=blue)](https://github.com/maximilianfeix/hexvero/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/maximilianfeix/hexvero?style=flat-square&color=yellow)](https://github.com/maximilianfeix/hexvero/stargazers) [![Forks](https://img.shields.io/github/forks/maximilianfeix/hexvero?style=flat-square&color=blue)](https://github.com/maximilianfeix/hexvero/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Know what changed inside your app: inspect Electron apps and binaries, trace findings to file and line, compare releases. Locally, without executing the target. CLI, MCP server, web UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ maximilianfeix/hexvero：maximilianfeix/hexvero may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 75/100 |
+| production | 63/100 |
+| outlook | 68/100 |
 | adoption | 12/100 |
 | categoryMatchCount | 500/100 |
 | stars | 17/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
