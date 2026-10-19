@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41010** |
+| **Projects** | **41014** |
 | **Categories** | **537** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16142 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4413 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16144 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4414 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2787 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2335 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1580 | [Browse →](./devtools/) |
@@ -70,13 +70,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **N8n** | 9 | [Browse →](./n8n/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
+| 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Python** | 7 | [Browse →](./python/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
-| 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Macos** | 5 | [Browse →](./macos/) |
 | 🏷️ **Graph-database** | 5 | [Browse →](./graph-database/) |
 | 🏷️ **Open-source-ai** | 5 | [Browse →](./open-source-ai/) |
@@ -185,7 +185,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **On-device-ai** | 2 | [Browse →](./on-device-ai/) |
 | 🏷️ **Speechtotext** | 2 | [Browse →](./speechtotext/) |
 | 🏷️ **Data-contamination** | 2 | [Browse →](./data-contamination/) |
-| 🏷️ **Cli** | 2 | [Browse →](./cli/) |
 | 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
 | 🏷️ **Benchmark** | 2 | [Browse →](./benchmark/) |
 | 🏷️ **Outdoor** | 2 | [Browse →](./outdoor/) |
@@ -515,6 +514,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Job-search** | 1 | [Browse →](./job-search/) |
 | 🏷️ **Invoice** | 1 | [Browse →](./invoice/) |
 | 🏷️ **Meeting-notes** | 1 | [Browse →](./meeting-notes/) |
+| 🏷️ **Cli** | 1 | [Browse →](./cli/) |
 | 🏷️ **Cosmic** | 1 | [Browse →](./cosmic/) |
 | 🏷️ **Postgres** | 1 | [Browse →](./postgres/) |
 | 🏷️ **Nestjs** | 1 | [Browse →](./nestjs/) |

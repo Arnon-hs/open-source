@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [excalibase/excalibase-graphql](./excalibase-excalibase-graphql.md) | ⭐ 32 | Java | 66/100 |
-| 2 | [mortennordbye/headroom](./mortennordbye-headroom.md) | ⭐ 10 | TypeScript | 63/100 |
+| 2 | [mortennordbye/headroom](./mortennordbye-headroom.md) | ⭐ 10 | TypeScript | 60/100 |
 | 3 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 56/100 |
 | 4 | [mohit01-beep/bistro-translate-ai](./mohit01-beep-bistro-translate-ai.md) | ⭐ — | JavaScript | 44/100 |
 | 5 | [MathFe/leitor-notas-local](./mathfe-leitor-notas-local.md) | ⭐ — | Python | 43/100 |

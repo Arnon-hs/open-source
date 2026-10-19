@@ -1,6 +1,6 @@
 # jessybrenenstahl/agent-ops-samples
 
-[![Stars](https://img.shields.io/github/stars/jessybrenenstahl/agent-ops-samples?style=flat-square&color=yellow)](https://github.com/jessybrenenstahl/agent-ops-samples/stargazers) [![Forks](https://img.shields.io/github/forks/jessybrenenstahl/agent-ops-samples?style=flat-square&color=blue)](https://github.com/jessybrenenstahl/agent-ops-samples/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jessybrenenstahl/agent-ops-samples?style=flat-square&color=yellow)](https://github.com/jessybrenenstahl/agent-ops-samples/stargazers) [![Forks](https://img.shields.io/github/forks/jessybrenenstahl/agent-ops-samples?style=flat-square&color=blue)](https://github.com/jessybrenenstahl/agent-ops-samples/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Free checklists and templates for running multiple AI coding agents (Claude, Codex, Cursor) on one repo and on macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ jessybrenenstahl/agent-ops-samples：jessybrenenstahl/agent-ops-samples helps te
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
