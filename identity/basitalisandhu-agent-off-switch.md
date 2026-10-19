@@ -1,6 +1,6 @@
 # basitalisandhu/agent-off-switch
 
-[![Stars](https://img.shields.io/github/stars/basitalisandhu/agent-off-switch?style=flat-square&color=yellow)](https://github.com/basitalisandhu/agent-off-switch/stargazers) [![Forks](https://img.shields.io/github/forks/basitalisandhu/agent-off-switch?style=flat-square&color=blue)](https://github.com/basitalisandhu/agent-off-switch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/basitalisandhu/agent-off-switch?style=flat-square&color=yellow)](https://github.com/basitalisandhu/agent-off-switch/stargazers) [![Forks](https://img.shields.io/github/forks/basitalisandhu/agent-off-switch?style=flat-square&color=blue)](https://github.com/basitalisandhu/agent-off-switch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Find every AI agent identity in Microsoft 365, AWS and GitHub, see what it can reach, and switch it off. Inventory, blast-radius review with SARIF, an ordered off-switch runbook per identity, and a drift gate for CI. Offline on saved read-only exports; it prints commands and never runs them.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ basitalisandhu/agent-off-switch：basitalisandhu/agent-off-switch may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 70/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

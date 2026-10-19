@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [basitalisandhu/agent-off-switch](./basitalisandhu-agent-off-switch.md) | ⭐ — | Python | 66/100 |
+| 1 | [basitalisandhu/agent-off-switch](./basitalisandhu-agent-off-switch.md) | ⭐ — | Python | 63/100 |
 
 ---
 
