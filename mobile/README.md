@@ -160,8 +160,8 @@
 | 150 | [jiangtian616/JHenTai](./jiangtian616-jhentai.md) | ⭐ 5.2k | Dart | 59/100 |
 | 151 | [komikku-app/komikku](./komikku-app-komikku.md) | ⭐ 4.2k | Kotlin | 59/100 |
 | 152 | [florisboard/florisboard](./florisboard-florisboard.md) | ⭐ 8.4k | Kotlin | 59/100 |
-| 153 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 59/100 |
-| 154 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 153 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 154 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.3k | Kotlin | 59/100 |
 | 155 | [bonigarcia/mastering-junit5](./bonigarcia-mastering-junit5.md) | ⭐ 431 | Java | 59/100 |
 | 156 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.6k | Java | 59/100 |
 | 157 | [patrykandpatrick/vico](./patrykandpatrick-vico.md) | ⭐ 3.1k | Kotlin | 59/100 |
@@ -617,8 +617,8 @@
 | 607 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 608 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 38/100 |
 | 609 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 610 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
-| 611 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
+| 610 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
+| 611 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
 | 612 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 38/100 |
 | 613 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 38/100 |
 | 614 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 38/100 |

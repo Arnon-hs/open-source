@@ -65,18 +65,18 @@ ParisNeo/lollms_hub：ParisNeo/lollms_hub helps remove repetitive manual operati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 71/100 |
-| integration | 62/100 |
-| production | 68/100 |
-| outlook | 77/100 |
-| adoption | 57/100 |
-| categoryMatchCount | 500/100 |
-| stars | 60/100 |
 | forks | 50/100 |
-| recency | 80/100 |
+| stars | 60/100 |
 | topics | 100/100 |
+| outlook | 77/100 |
+| quality | 71/100 |
+| recency | 80/100 |
+| adoption | 57/100 |
+| production | 68/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

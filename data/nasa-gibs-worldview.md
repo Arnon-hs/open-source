@@ -65,18 +65,18 @@ nasa-gibs/worldview：nasa-gibs/worldview helps convert raw data into searchable
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 74/100 |
-| integration | 30/100 |
-| production | 64/100 |
-| outlook | 69/100 |
-| adoption | 68/100 |
-| categoryMatchCount | 100/100 |
-| stars | 70/100 |
 | forks | 64/100 |
-| recency | 80/100 |
+| stars | 70/100 |
 | topics | 88/100 |
+| outlook | 69/100 |
+| quality | 74/100 |
+| recency | 80/100 |
+| adoption | 68/100 |
+| production | 64/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
