@@ -1,6 +1,6 @@
 # openai/symphony
 
-[![Stars](https://img.shields.io/github/stars/openai/symphony?style=flat-square&color=yellow)](https://github.com/openai/symphony/stargazers) [![Forks](https://img.shields.io/github/forks/openai/symphony?style=flat-square&color=blue)](https://github.com/openai/symphony/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/symphony?style=flat-square&color=yellow)](https://github.com/openai/symphony/stargazers) [![Forks](https://img.shields.io/github/forks/openai/symphony?style=flat-square&color=blue)](https://github.com/openai/symphony/network) [![Language](https://img.shields.io/badge/lang-Elixir-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 27.7k |
 | 🍴 **Forks** | 2.9k |
 | 💻 **Language** | Elixir |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ openai/symphony：openai/symphony may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 77/100 |
+| production | 64/100 |
+| outlook | 70/100 |
 | adoption | 92/100 |
 | categoryMatchCount | 500/100 |
 | stars | 95/100 |
 | forks | 86/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
