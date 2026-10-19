@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **40934** |
-| **Categories** | **539** |
+| **Projects** | **40936** |
+| **Categories** | **537** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16112 | [Browse →](./misc/) |
+| 📦 **Misc** | 16114 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4403 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2781 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2783 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2332 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1580 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1411 | [Browse →](./automation/) |
@@ -61,10 +61,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 24 | [Browse →](./privacy/) |
 | 🏷️ **Ai-agents** | 23 | [Browse →](./ai-agents/) |
 | 🏷️ **Freelance** | 22 | [Browse →](./freelance/) |
+| 🏷️ **Llm** | 20 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
-| 🏷️ **Llm** | 19 | [Browse →](./llm/) |
-| 🏷️ **Local-ai** | 15 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
+| 🏷️ **Local-ai** | 14 | [Browse →](./local-ai/) |
 | 🏷️ **Claude-code** | 13 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
 | 🏷️ **Python** | 8 | [Browse →](./python/) |
@@ -401,8 +401,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Polymarket** | 1 | [Browse →](./polymarket/) |
 | 🏷️ **Financial-automation** | 1 | [Browse →](./financial-automation/) |
 | 🏷️ **Field-journal** | 1 | [Browse →](./field-journal/) |
-| 🏷️ **Api-security** | 1 | [Browse →](./api-security/) |
-| 🏷️ **Crash-recovery** | 1 | [Browse →](./crash-recovery/) |
 | 🏷️ **Measurement** | 1 | [Browse →](./measurement/) |
 | 🏷️ **Litter-collection** | 1 | [Browse →](./litter-collection/) |
 | 🏷️ **Agent-cost** | 1 | [Browse →](./agent-cost/) |
