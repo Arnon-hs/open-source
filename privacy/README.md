@@ -11,9 +11,9 @@
 | 1 | [xuebinqin/U-2-Net](./xuebinqin-u-2-net.md) | ⭐ 9.9k | Python | 69/100 |
 | 2 | [ZhengPeng7/BiRefNet](./zhengpeng7-birefnet.md) | ⭐ 4.3k | Python | 63/100 |
 | 3 | [mattdesl/gifenc](./mattdesl-gifenc.md) | ⭐ 342 | JavaScript | 47/100 |
-| 4 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 47/100 |
-| 5 | [RiyaDhami13/vaultdocs-ai](./riyadhami13-vaultdocs-ai.md) | ⭐ — | Python | 46/100 |
-| 6 | [matt-way/gifuct-js](./matt-way-gifuct-js.md) | ⭐ 519 | JavaScript | 45/100 |
+| 4 | [RiyaDhami13/vaultdocs-ai](./riyadhami13-vaultdocs-ai.md) | ⭐ — | Python | 46/100 |
+| 5 | [matt-way/gifuct-js](./matt-way-gifuct-js.md) | ⭐ 519 | JavaScript | 45/100 |
+| 6 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 44/100 |
 | 7 | [ntsd/zerocoach](./ntsd-zerocoach.md) | ⭐ — | TypeScript | 42/100 |
 | 8 | [asosa933/gig-scam-shield](./asosa933-gig-scam-shield.md) | ⭐ — | JavaScript | 41/100 |
 | 9 | [aashutoshkumarbhardwaj/openSearch](./aashutoshkumarbhardwaj-opensearch.md) | ⭐ — | TypeScript | 39/100 |
