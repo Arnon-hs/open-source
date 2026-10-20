@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [YaroslavBaienko/marma-crypto-protocol](./yaroslavbaienko-marma-crypto-protocol.md) | ⭐ 1 | Python | 55/100 |
-| 2 | [mantasu/pdf-editor](./mantasu-pdf-editor.md) | ⭐ — | JavaScript | 39/100 |
+| 2 | [mantasu/pdf-editor](./mantasu-pdf-editor.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 

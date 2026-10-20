@@ -1,0 +1,80 @@
+# brunnojob/devstart-lab
+
+[![Stars](https://img.shields.io/github/stars/brunnojob/devstart-lab?style=flat-square&color=yellow)](https://github.com/brunnojob/devstart-lab/stargazers) [![Forks](https://img.shields.io/github/forks/brunnojob/devstart-lab?style=flat-square&color=blue)](https://github.com/brunnojob/devstart-lab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+
+> Guia interativo em português para começar no GitHub: roadmap, ideias de projetos, pull requests e conquistas.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 20 |
+| 🍴 **Forks** | — |
+| 💻 **Language** | TypeScript |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-10-20 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`github-pages` `portuguese` `typescript`
+
+## 🎯 Categories
+
+opensource · github · beginners · webdev
+
+## 📝 Summary
+
+### English
+
+brunnojob/devstart-lab: brunnojob/devstart-lab may be useful when its README and activity match a concrete workflow.. Use it for opensource, github, beginners, webdev. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+brunnojob/devstart-lab: open-source проект в категориях opensource, github, beginners, webdev. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+brunnojob/devstart-lab：brunnojob/devstart-lab may be useful when its README and activity match a concrete workflow.。适合用于opensource、github、beginners、webdev。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** brunnojob/devstart-lab may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 20 GitHub stars
+- updated 2026-10-20
+- primary language: TypeScript
+- 3 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 50/100 |
+| integration | 46/100 |
+| production | 63/100 |
+| outlook | 59/100 |
+| adoption | 20/100 |
+| categoryMatchCount | 400/100 |
+| stars | 28/100 |
+| forks | 0/100 |
+| recency | 100/100 |
+| topics | 38/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-20 · [View on GitHub](https://github.com/brunnojob/devstart-lab) · [← Back to Open Source](./README.md)</sub>

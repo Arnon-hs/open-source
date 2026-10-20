@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ude-p/tailk3s](./ude-p-tailk3s.md) | ⭐ — | Go | 42/100 |
+| 1 | [ude-p/tailk3s](./ude-p-tailk3s.md) | ⭐ — | Go | 39/100 |
 | 2 | [mozilla/sops](./mozilla-sops.md) | ⭐ — | — | 24/100 |
 
 ---
