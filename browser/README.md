@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bryceelliot/website-launch-checklist](./bryceelliot-website-launch-checklist.md) | ⭐ — | — | 39/100 |
+| 1 | [tarunvashishth/screenshot-sloth](./tarunvashishth-screenshot-sloth.md) | ⭐ — | TypeScript | 42/100 |
 
 ---
 

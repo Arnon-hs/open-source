@@ -17,9 +17,9 @@
 | 7 | [OWASP/BLT](./owasp-blt.md) | ⭐ — | HTML | 42/100 |
 | 8 | [sank8-2/listing-studio](./sank8-2-listing-studio.md) | ⭐ — | Python | 42/100 |
 | 9 | [kushpatel8274/BizPilot-AI](./kushpatel8274-bizpilot-ai.md) | ⭐ — | Python | 42/100 |
-| 10 | [sanskarIN/SpeedPulse](./sanskarin-speedpulse.md) | ⭐ — | HTML | 42/100 |
-| 11 | [joeylukoji/PanlyackErp](./joeylukoji-panlyackerp.md) | ⭐ — | Python | 39/100 |
-| 12 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 39/100 |
+| 10 | [joeylukoji/PanlyackErp](./joeylukoji-panlyackerp.md) | ⭐ — | Python | 39/100 |
+| 11 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 39/100 |
+| 12 | [sanskarIN/SpeedPulse](./sanskarin-speedpulse.md) | ⭐ — | HTML | 39/100 |
 | 13 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
 | 14 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 37/100 |
 | 15 | [Dev-Suraj-Dhawal/terraforge-studio](./dev-suraj-dhawal-terraforge-studio.md) | ⭐ — | JavaScript | 36/100 |

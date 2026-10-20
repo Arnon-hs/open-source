@@ -65,18 +65,18 @@ wheresryan22/anatomy：wheresryan22/anatomy helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 30/100 |
-| production | 64/100 |
-| outlook | 72/100 |
-| adoption | 80/100 |
-| categoryMatchCount | 200/100 |
-| stars | 84/100 |
 | forks | 70/100 |
-| recency | 80/100 |
+| stars | 84/100 |
 | topics | 50/100 |
+| outlook | 72/100 |
+| quality | 74/100 |
+| recency | 80/100 |
+| adoption | 80/100 |
+| production | 64/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
