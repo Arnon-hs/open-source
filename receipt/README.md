@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [maltheshhh/receiptsort](./maltheshhh-receiptsort.md) | ⭐ — | Python | 39/100 |
+| 1 | [maltheshhh/receiptsort](./maltheshhh-receiptsort.md) | ⭐ — | Python | 36/100 |
 
 ---
 

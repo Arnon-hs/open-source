@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41260** |
-| **Categories** | **552** |
+| **Projects** | **41267** |
+| **Categories** | **551** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,18 +23,18 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16276 | [Browse →](./misc/) |
+| 📦 **Misc** | 16279 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4432 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2798 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2341 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1583 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1421 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1423 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 940 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 887 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 785 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 687 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 688 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 647 | [Browse →](./networking/) |
-| 📱 **Mobile** | 636 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 637 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 612 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 600 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 536 | [Browse →](./database/) |
@@ -44,7 +44,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Communication** | 428 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
 | 📊 **Data** | 341 | [Browse →](./data/) |
-| 💳 **Payments** | 339 | [Browse →](./payments/) |
+| 💳 **Payments** | 340 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 339 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 327 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 301 | [Browse →](./observability/) |
@@ -52,12 +52,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 206 | [Browse →](./trading/) |
 | ✨ **Design** | 179 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 147 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 122 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 123 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
 | 🏷️ **Open-source** | 38 | [Browse →](./open-source/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
-| 🏷️ **Offline** | 31 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Ai-agents** | 25 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 21 | [Browse →](./llm/) |
@@ -397,7 +397,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Symfony** | 1 | [Browse →](./symfony/) |
 | 🏷️ **Azure-logic-apps** | 1 | [Browse →](./azure-logic-apps/) |
 | 🏷️ **Accessibility** | 1 | [Browse →](./accessibility/) |
-| 🏷️ **Web-utilities** | 1 | [Browse →](./web-utilities/) |
 | 🏷️ **Clinical-trials** | 1 | [Browse →](./clinical-trials/) |
 | 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Call-center** | 1 | [Browse →](./call-center/) |

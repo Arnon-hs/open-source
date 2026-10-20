@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sumitrmardy/email-verifier-api](./sumitrmardy-email-verifier-api.md) | ⭐ — | JavaScript | 69/100 |
+| 1 | [sumitrmardy/email-verifier-api](./sumitrmardy-email-verifier-api.md) | ⭐ — | JavaScript | 66/100 |
 | 2 | [ichkifokkus/data-recipes](./ichkifokkus-data-recipes.md) | ⭐ — | — | 54/100 |
 | 3 | [mohsinakramchandia91-bit/AgentKit](./mohsinakramchandia91-bit-agentkit.md) | ⭐ — | — | 54/100 |
 | 4 | [tophmeee/reddit-to-csv](./tophmeee-reddit-to-csv.md) | ⭐ — | Python | 49/100 |
