@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41151** |
-| **Categories** | **540** |
+| **Projects** | **41152** |
+| **Categories** | **541** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16220 | [Browse →](./misc/) |
+| 📦 **Misc** | 16221 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4422 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2795 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2340 | [Browse →](./orchestration/) |
@@ -98,7 +98,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 4 | [Browse →](./devsecops/) |
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Net** | 4 | [Browse →](./net/) |
-| 🏷️ **Embedding** | 4 | [Browse →](./embedding/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
@@ -120,6 +119,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **3d** | 3 | [Browse →](./3d/) |
 | 🏷️ **Invoice-generation** | 3 | [Browse →](./invoice-generation/) |
 | 🏷️ **Terminal** | 3 | [Browse →](./terminal/) |
+| 🏷️ **Embedding** | 3 | [Browse →](./embedding/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
@@ -208,6 +208,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Standup** | 1 | [Browse →](./standup/) |
 | 🏷️ **Developer-tooling** | 1 | [Browse →](./developer-tooling/) |
 | 🏷️ **Alternate-history** | 1 | [Browse →](./alternate-history/) |
 | 🏷️ **Design-workflow** | 1 | [Browse →](./design-workflow/) |

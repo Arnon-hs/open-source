@@ -1,6 +1,6 @@
 # mohsinakramchandia91-bit/AgentKit
 
-[![Stars](https://img.shields.io/github/stars/mohsinakramchandia91-bit/AgentKit?style=flat-square&color=yellow)](https://github.com/mohsinakramchandia91-bit/AgentKit/stargazers) [![Forks](https://img.shields.io/github/forks/mohsinakramchandia91-bit/AgentKit?style=flat-square&color=blue)](https://github.com/mohsinakramchandia91-bit/AgentKit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mohsinakramchandia91-bit/AgentKit?style=flat-square&color=yellow)](https://github.com/mohsinakramchandia91-bit/AgentKit/stargazers) [![Forks](https://img.shields.io/github/forks/mohsinakramchandia91-bit/AgentKit?style=flat-square&color=blue)](https://github.com/mohsinakramchandia91-bit/AgentKit/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 5 local-first AI agents as n8n workflows — Telegram assistant, content repurposer, lead qualifier, daily researcher, support bot. No cloud, no monthly fees. Free community edition.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ mohsinakramchandia91-bit/AgentKit：mohsinakramchandia91-bit/AgentKit may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 70/100 |
+| production | 54/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
