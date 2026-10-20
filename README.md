@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41303** |
+| **Projects** | **41307** |
 | **Categories** | **555** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16294 | [Browse →](./misc/) |
+| 📦 **Misc** | 16298 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4435 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2801 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2802 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2342 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1584 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1423 | [Browse →](./automation/) |
@@ -60,8 +60,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Ai-agents** | 25 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 22 | [Browse →](./privacy/) |
-| 🏷️ **Llm** | 21 | [Browse →](./llm/) |
 | 🏷️ **Freelance** | 21 | [Browse →](./freelance/) |
+| 🏷️ **Llm** | 20 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
 | 🏷️ **Local-ai** | 17 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |

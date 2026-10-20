@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Itz-Agasta/kintsugi](./itz-agasta-kintsugi.md) | ⭐ — | TypeScript | 62/100 |
+| 1 | [Itz-Agasta/kintsugi](./itz-agasta-kintsugi.md) | ⭐ — | TypeScript | 59/100 |
 
 ---
 

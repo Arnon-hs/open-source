@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Mohamed-Almarag/locale-guard](./mohamed-almarag-locale-guard.md) | ⭐ 3 | TypeScript | 53/100 |
+| 1 | [Mohamed-Almarag/locale-guard](./mohamed-almarag-locale-guard.md) | ⭐ 3 | TypeScript | 50/100 |
 
 ---
 

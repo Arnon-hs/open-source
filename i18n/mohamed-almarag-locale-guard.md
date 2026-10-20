@@ -1,6 +1,6 @@
 # Mohamed-Almarag/locale-guard
 
-[![Stars](https://img.shields.io/github/stars/Mohamed-Almarag/locale-guard?style=flat-square&color=yellow)](https://github.com/Mohamed-Almarag/locale-guard/stargazers) [![Forks](https://img.shields.io/github/forks/Mohamed-Almarag/locale-guard?style=flat-square&color=blue)](https://github.com/Mohamed-Almarag/locale-guard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mohamed-Almarag/locale-guard?style=flat-square&color=yellow)](https://github.com/Mohamed-Almarag/locale-guard/stargazers) [![Forks](https://img.shields.io/github/forks/Mohamed-Almarag/locale-guard?style=flat-square&color=blue)](https://github.com/Mohamed-Almarag/locale-guard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Action that checks translation files on every pull request: missing keys, broken placeholders, plural forms and untranslated text for vue-i18n, Nuxt, next-intl, react-intl, i18next and Rails.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Mohamed-Almarag/locale-guard：Mohamed-Almarag/locale-guard may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 66/100 |
+| production | 58/100 |
+| outlook | 59/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
