@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [KunalSiyag/gpu-recorder-rs](./kunalsiyag-gpu-recorder-rs.md) | ⭐ — | Rust | 55/100 |
+| 1 | [KunalSiyag/gpu-recorder-rs](./kunalsiyag-gpu-recorder-rs.md) | ⭐ — | Rust | 52/100 |
 | 2 | [KhronosGroup/libdrm](./khronosgroup-libdrm.md) | ⭐ — | — | 24/100 |
 
 ---

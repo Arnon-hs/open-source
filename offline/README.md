@@ -27,7 +27,7 @@
 | 17 | [devkumar2313/TrailMind](./devkumar2313-trailmind.md) | ⭐ — | HTML | 33/100 |
 | 18 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 33/100 |
 | 19 | [Priti2008/touch-grass-quest](./priti2008-touch-grass-quest.md) | ⭐ — | HTML | 33/100 |
-| 20 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 33/100 |
+| 20 | [RUSHILPATEL33/garden-planner](./rushilpatel33-garden-planner.md) | ⭐ — | HTML | 30/100 |
 | 21 | [meawdak/Trek-Organizer](./meawdak-trek-organizer.md) | ⭐ — | JavaScript | 30/100 |
 | 22 | [onnx-community/Qwen2.5-0.5B-Instruct](./onnx-community-qwen2.5-0.5b-instruct.md) | ⭐ — | — | 24/100 |
 | 23 | [BirdNET-Dev/BirdNET](./birdnet-dev-birdnet.md) | ⭐ — | — | 24/100 |

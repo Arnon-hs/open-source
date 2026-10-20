@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41208** |
+| **Projects** | **41217** |
 | **Categories** | **546** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,16 +23,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16246 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4428 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16251 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4429 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2797 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2341 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1583 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1419 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1421 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 940 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 887 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 785 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 686 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 687 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 646 | [Browse →](./networking/) |
 | 📱 **Mobile** | 636 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 612 | [Browse →](./knowledgerag/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Graph-database** | 5 | [Browse →](./graph-database/) |
 | 🏷️ **Open-source-ai** | 5 | [Browse →](./open-source-ai/) |
 | 🏷️ **Github-actions** | 5 | [Browse →](./github-actions/) |
+| 🏷️ **Documentation** | 4 | [Browse →](./documentation/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Hacktoberfest** | 4 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Ios** | 4 | [Browse →](./ios/) |
@@ -97,7 +98,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Openapi** | 4 | [Browse →](./openapi/) |
 | 🏷️ **Devsecops** | 4 | [Browse →](./devsecops/) |
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
-| 🏷️ **Net** | 4 | [Browse →](./net/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **X402** | 3 | [Browse →](./x402/) |
@@ -109,7 +109,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
-| 🏷️ **Documentation** | 3 | [Browse →](./documentation/) |
 | 🏷️ **Agentic-workflows** | 3 | [Browse →](./agentic-workflows/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Php** | 3 | [Browse →](./php/) |
@@ -120,6 +119,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **3d** | 3 | [Browse →](./3d/) |
 | 🏷️ **Invoice-generation** | 3 | [Browse →](./invoice-generation/) |
 | 🏷️ **Terminal** | 3 | [Browse →](./terminal/) |
+| 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
@@ -207,6 +207,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Peertopeer** | 1 | [Browse →](./peertopeer/) |
 | 🏷️ **Mercedesbenz** | 1 | [Browse →](./mercedesbenz/) |
 | 🏷️ **Test-automation** | 1 | [Browse →](./test-automation/) |
 | 🏷️ **Poa** | 1 | [Browse →](./poa/) |
@@ -392,7 +393,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Web-utilities** | 1 | [Browse →](./web-utilities/) |
 | 🏷️ **Federal-prizes** | 1 | [Browse →](./federal-prizes/) |
 | 🏷️ **Clinical-trials** | 1 | [Browse →](./clinical-trials/) |
-| 🏷️ **Geology** | 1 | [Browse →](./geology/) |
 | 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Call-center** | 1 | [Browse →](./call-center/) |
 | 🏷️ **Malware** | 1 | [Browse →](./malware/) |

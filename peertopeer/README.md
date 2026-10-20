@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [royalpinto007/Kabootar](./royalpinto007-kabootar.md) | ⭐ 2 | Dart | 43/100 |
+| 1 | [pandeyvishwas51-oss/wokitoki](./pandeyvishwas51-oss-wokitoki.md) | ⭐ — | TypeScript | 69/100 |
 
 ---
 

@@ -429,8 +429,8 @@
 | 419 | [Threekiii/Awesome-POC](./threekiii-awesome-poc.md) | ⭐ 5k | Java | 56/100 |
 | 420 | [sysid/bkmr](./sysid-bkmr.md) | ⭐ 251 | Rust | 56/100 |
 | 421 | [jeffreylanters/react-unity-webgl](./jeffreylanters-react-unity-webgl.md) | ⭐ 1.9k | TypeScript | 56/100 |
-| 422 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
-| 423 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
+| 422 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
+| 423 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
 | 424 | [aws-samples/generative-ai-use-cases](./aws-samples-generative-ai-use-cases.md) | ⭐ 1.3k | TypeScript | 56/100 |
 | 425 | [tetherto/qvac](./tetherto-qvac.md) | ⭐ 163 | JavaScript | 56/100 |
 | 426 | [neo4j/neo4j-graphrag-python](./neo4j-neo4j-graphrag-python.md) | ⭐ 1.2k | Python | 56/100 |
