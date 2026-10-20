@@ -11,8 +11,8 @@
 | 1 | [Insideofcub/job-hunter-agent](./insideofcub-job-hunter-agent.md) | ⭐ 1 | Python | 73/100 |
 | 2 | [tayyabimam1/awesome-ai-agent-stack](./tayyabimam1-awesome-ai-agent-stack.md) | ⭐ 28 | TypeScript | 69/100 |
 | 3 | [Folkbench/folkbench](./folkbench-folkbench.md) | ⭐ 1.9k | Rust | 64/100 |
-| 4 | [manhquydev/flow-skill](./manhquydev-flow-skill.md) | ⭐ 9 | Shell | 64/100 |
-| 5 | [SurgePix/ai-ppt-prompts](./surgepix-ai-ppt-prompts.md) | ⭐ 11 | JavaScript | 63/100 |
+| 4 | [SurgePix/ai-ppt-prompts](./surgepix-ai-ppt-prompts.md) | ⭐ 11 | JavaScript | 63/100 |
+| 5 | [manhquydev/flow-skill](./manhquydev-flow-skill.md) | ⭐ 9 | Shell | 61/100 |
 | 6 | [EleutherAI/gpt-neo](./eleutherai-gpt-neo.md) | ⭐ 8.3k | Python | 61/100 |
 | 7 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 8 | [dennisonbertram/agentic-hosting](./dennisonbertram-agentic-hosting.md) | ⭐ 31 | Go | 57/100 |

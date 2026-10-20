@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41161** |
+| **Projects** | **41166** |
 | **Categories** | **542** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16224 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4424 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16227 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4425 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2795 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2340 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1583 | [Browse →](./devtools/) |
@@ -44,8 +44,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Communication** | 426 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
 | 📊 **Data** | 341 | [Browse →](./data/) |
+| 💳 **Payments** | 339 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 339 | [Browse →](./games--graphics/) |
-| 💳 **Payments** | 338 | [Browse →](./payments/) |
 | 🏷️ **Productivity** | 327 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 301 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 263 | [Browse →](./libraries--sdks/) |
@@ -54,7 +54,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Content-creation** | 147 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 126 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
-| 🏷️ **Open-source** | 37 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 38 | [Browse →](./open-source/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
@@ -178,7 +178,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Codex** | 2 | [Browse →](./codex/) |
 | 🏷️ **Ui** | 2 | [Browse →](./ui/) |
 | 🏷️ **Digital-products** | 2 | [Browse →](./digital-products/) |
-| 🏷️ **Upi** | 2 | [Browse →](./upi/) |
 | 🏷️ **Embedding** | 2 | [Browse →](./embedding/) |
 | 🏷️ **On-device-ai** | 2 | [Browse →](./on-device-ai/) |
 | 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
@@ -208,6 +207,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Data-feeds** | 1 | [Browse →](./data-feeds/) |
 | 🏷️ **Geospatial** | 1 | [Browse →](./geospatial/) |
 | 🏷️ **Standup** | 1 | [Browse →](./standup/) |
 | 🏷️ **Developer-tooling** | 1 | [Browse →](./developer-tooling/) |
