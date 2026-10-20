@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [CodersAcademy006/raktsetu](./codersacademy006-raktsetu.md) | ⭐ — | TypeScript | 45/100 |
+| 1 | [CodersAcademy006/raktsetu](./codersacademy006-raktsetu.md) | ⭐ — | TypeScript | 42/100 |
 
 ---
 
