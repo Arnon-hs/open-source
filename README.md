@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41281** |
-| **Categories** | **553** |
+| **Projects** | **41287** |
+| **Categories** | **554** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16284 | [Browse →](./misc/) |
+| 📦 **Misc** | 16287 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4435 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2800 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2342 | [Browse →](./orchestration/) |
@@ -34,11 +34,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 785 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 688 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 647 | [Browse →](./networking/) |
-| 📱 **Mobile** | 637 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 638 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 612 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 601 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 536 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 513 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 514 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 496 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 456 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 428 | [Browse →](./communication/) |
@@ -207,6 +207,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agentic-workflow** | 1 | [Browse →](./agentic-workflow/) |
 | 🏷️ **Asyncio** | 1 | [Browse →](./asyncio/) |
 | 🏷️ **Receipt-processing** | 1 | [Browse →](./receipt-processing/) |
 | 🏷️ **Model-selection** | 1 | [Browse →](./model-selection/) |

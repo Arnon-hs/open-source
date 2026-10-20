@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ish1416/ListerCraft-AI](./ish1416-listercraft-ai.md) | ⭐ — | JavaScript | 42/100 |
+| 1 | [ish1416/ListerCraft-AI](./ish1416-listercraft-ai.md) | ⭐ — | JavaScript | 39/100 |
 | 2 | [Imbiber/listing-genius](./imbiber-listing-genius.md) | ⭐ — | TypeScript | 36/100 |
 | 3 | [hitesh-kumar123/cartspark-ai](./hitesh-kumar123-cartspark-ai.md) | ⭐ — | JavaScript | 33/100 |
 | 4 | [saquib-shahid/vendorforge-ai](./saquib-shahid-vendorforge-ai.md) | ⭐ — | JavaScript | 33/100 |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [moshcoder/family.ancestry](./moshcoder-family.ancestry.md) | ⭐ — | TypeScript | 69/100 |
+| 1 | [moshcoder/family.ancestry](./moshcoder-family.ancestry.md) | ⭐ — | TypeScript | 66/100 |
 
 ---
 

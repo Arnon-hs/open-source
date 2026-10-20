@@ -267,8 +267,8 @@
 | 257 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 51 | Rust | 50/100 |
 | 258 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 50/100 |
 | 259 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 198 | Rust | 50/100 |
-| 260 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 85 | Java | 50/100 |
-| 261 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 88 | Java | 50/100 |
+| 260 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 88 | Java | 50/100 |
+| 261 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 85 | Java | 50/100 |
 | 262 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 263 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 65 | HTML | 50/100 |
 | 264 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 30 | HTML | 50/100 |
