@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [ms-singh83/SkyGap](./ms-singh83-skygap.md) | ⭐ — | Python | 36/100 |
 | 2 | [Abeera81/clear-hour](./abeera81-clear-hour.md) | ⭐ — | Python | 36/100 |
-| 3 | [IshlokDwivedi-coder/AQI_System](./ishlokdwivedi-coder-aqi-system.md) | ⭐ — | JavaScript | 33/100 |
+| 3 | [IshlokDwivedi-coder/AQI_System](./ishlokdwivedi-coder-aqi-system.md) | ⭐ — | JavaScript | 30/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vinmay/cleartolist](./vinmay-cleartolist.md) | ⭐ — | Python | 39/100 |
+| 1 | [vinmay/cleartolist](./vinmay-cleartolist.md) | ⭐ — | Python | 36/100 |
 | 2 | [google-research/siglip](./google-research-siglip.md) | ⭐ — | — | 27/100 |
 
 ---
