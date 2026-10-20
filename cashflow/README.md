@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [BOTPranav-01/ledgerpilot](./botpranav-01-ledgerpilot.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [BOTPranav-01/ledgerpilot](./botpranav-01-ledgerpilot.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 

@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41280** |
+| **Projects** | **41281** |
 | **Categories** | **553** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -25,8 +25,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 16284 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4435 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2799 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2341 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2800 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2342 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1584 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1423 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 940 | [Browse →](./backend/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 536 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 513 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 496 | [Browse →](./video-editing/) |
-| 🏷️ **Templates** | 455 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 456 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 428 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
 | 📊 **Data** | 341 | [Browse →](./data/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 206 | [Browse →](./trading/) |
 | ✨ **Design** | 179 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 147 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 123 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 122 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
 | 🏷️ **Open-source** | 38 | [Browse →](./open-source/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
@@ -120,7 +120,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **3d** | 3 | [Browse →](./3d/) |
 | 🏷️ **Invoice-generation** | 3 | [Browse →](./invoice-generation/) |
 | 🏷️ **Terminal** | 3 | [Browse →](./terminal/) |
-| 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
@@ -186,6 +185,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Outdoor** | 2 | [Browse →](./outdoor/) |
 | 🏷️ **Desktop-automation** | 2 | [Browse →](./desktop-automation/) |
 | 🏷️ **Node** | 2 | [Browse →](./node/) |
+| 🏷️ **Net** | 2 | [Browse →](./net/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
