@@ -1,6 +1,6 @@
 # kleogeos/awesome-freelance-tools
 
-[![Stars](https://img.shields.io/github/stars/kleogeos/awesome-freelance-tools?style=flat-square&color=yellow)](https://github.com/kleogeos/awesome-freelance-tools/stargazers) [![Forks](https://img.shields.io/github/forks/kleogeos/awesome-freelance-tools?style=flat-square&color=blue)](https://github.com/kleogeos/awesome-freelance-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kleogeos/awesome-freelance-tools?style=flat-square&color=yellow)](https://github.com/kleogeos/awesome-freelance-tools/stargazers) [![Forks](https://img.shields.io/github/forks/kleogeos/awesome-freelance-tools?style=flat-square&color=blue)](https://github.com/kleogeos/awesome-freelance-tools/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Curated list of free & open-source tools for freelancers: invoicing, contracts, time tracking, taxes, crypto payments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ kleogeos/awesome-freelance-tools：kleogeos/awesome-freelance-tools may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 66/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 3/100 |
 | categoryMatchCount | 900/100 |
 | stars | 0/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

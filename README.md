@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41126** |
+| **Projects** | **41129** |
 | **Categories** | **543** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16208 | [Browse →](./misc/) |
+| 📦 **Misc** | 16209 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4419 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2790 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2338 | [Browse →](./orchestration/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 535 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 511 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 495 | [Browse →](./video-editing/) |
-| 🏷️ **Templates** | 453 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 454 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 426 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
 | 📊 **Data** | 341 | [Browse →](./data/) |
@@ -99,6 +99,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Embedding** | 4 | [Browse →](./embedding/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Text-to-speech** | 3 | [Browse →](./text-to-speech/) |
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
 | 🏷️ **Docker** | 3 | [Browse →](./docker/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
@@ -164,7 +165,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Salesforce** | 2 | [Browse →](./salesforce/) |
 | 🏷️ **Architecture** | 2 | [Browse →](./architecture/) |
 | 🏷️ **Agent-based-development** | 2 | [Browse →](./agent-based-development/) |
-| 🏷️ **Text-to-speech** | 2 | [Browse →](./text-to-speech/) |
 | 🏷️ **C** | 2 | [Browse →](./c/) |
 | 🏷️ **Hysteria2** | 2 | [Browse →](./hysteria2/) |
 | 🏷️ **Tmux** | 2 | [Browse →](./tmux/) |

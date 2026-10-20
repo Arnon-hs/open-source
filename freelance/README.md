@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kleogeos/awesome-freelance-tools](./kleogeos-awesome-freelance-tools.md) | ⭐ — | — | 56/100 |
-| 2 | [susmitaPersonal/soloops-ai](./susmitapersonal-soloops-ai.md) | ⭐ — | TypeScript | 53/100 |
+| 1 | [susmitaPersonal/soloops-ai](./susmitapersonal-soloops-ai.md) | ⭐ — | TypeScript | 53/100 |
+| 2 | [kleogeos/awesome-freelance-tools](./kleogeos-awesome-freelance-tools.md) | ⭐ — | — | 53/100 |
 | 3 | [Moin105/briefquote](./moin105-briefquote.md) | ⭐ — | Python | 51/100 |
 | 4 | [Razorbillworks/scopecheck](./razorbillworks-scopecheck.md) | ⭐ — | Python | 46/100 |
 | 5 | [HuzaifaAbdulRehman/checkilex](./huzaifaabdulrehman-checkilex.md) | ⭐ — | TypeScript | 46/100 |
