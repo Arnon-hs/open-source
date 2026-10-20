@@ -1,6 +1,6 @@
 # omsenjalia/repobuddy
 
-[![Stars](https://img.shields.io/github/stars/omsenjalia/repobuddy?style=flat-square&color=yellow)](https://github.com/omsenjalia/repobuddy/stargazers) [![Forks](https://img.shields.io/github/forks/omsenjalia/repobuddy?style=flat-square&color=blue)](https://github.com/omsenjalia/repobuddy/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/omsenjalia/repobuddy?style=flat-square&color=yellow)](https://github.com/omsenjalia/repobuddy/stargazers) [![Forks](https://img.shields.io/github/forks/omsenjalia/repobuddy?style=flat-square&color=blue)](https://github.com/omsenjalia/repobuddy/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Paste a GitHub repo, Graphify maps it, Gemma 4 tells you where to start contributing
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ GitHub · AI · Gemma · Graphify · FastAPI · Next.js · Open-source · Hackto
 
 ### English
 
-omsenjalia/repobuddy: omsenjalia/repobuddy may be useful when its README and activity match a concrete workflow.. Use it for GitHub, AI, Gemma, Graphify, FastAPI, Next.js, Open-source, Hacktoberfest. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+omsenjalia/repobuddy: omsenjalia/repobuddy may be useful when its README and activity match a concrete workflow.. Use it for GitHub, AI, Gemma, Graphify, FastAPI, Next.js, Open-source, Hacktoberfest. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-omsenjalia/repobuddy: open-source проект в категориях GitHub, AI, Gemma, Graphify, FastAPI, Next.js, Open-source, Hacktoberfest. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+omsenjalia/repobuddy: open-source проект в категориях GitHub, AI, Gemma, Graphify, FastAPI, Next.js, Open-source, Hacktoberfest. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-omsenjalia/repobuddy：omsenjalia/repobuddy may be useful when its README and activity match a concrete workflow.。适合用于GitHub、AI、Gemma、Graphify、FastAPI、Next.js、Open-source、Hacktoberfest。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+omsenjalia/repobuddy：omsenjalia/repobuddy may be useful when its README and activity match a concrete workflow.。适合用于GitHub、AI、Gemma、Graphify、FastAPI、Next.js、Open-source、Hacktoberfest。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ omsenjalia/repobuddy：omsenjalia/repobuddy may be useful when its README and ac
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ omsenjalia/repobuddy：omsenjalia/repobuddy may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 52/100 |
+| production | 49/100 |
+| outlook | 45/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 800/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

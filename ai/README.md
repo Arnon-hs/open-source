@@ -19,9 +19,9 @@
 | 9 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
 | 10 | [SandeepAi369/searchwala](./sandeepai369-searchwala.md) | ⭐ 17 | Rust | 55/100 |
 | 11 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 55/100 |
-| 12 | [moshcoder/moshcode](./moshcoder-moshcode.md) | ⭐ 3 | JavaScript | 55/100 |
-| 13 | [onloopdev/spark-triage](./onloopdev-spark-triage.md) | ⭐ — | Python | 55/100 |
-| 14 | [RobinaMirbahar/cozy-ai-agent-cafe-game](./robinamirbahar-cozy-ai-agent-cafe-game.md) | ⭐ — | JavaScript | 54/100 |
+| 12 | [onloopdev/spark-triage](./onloopdev-spark-triage.md) | ⭐ — | Python | 55/100 |
+| 13 | [RobinaMirbahar/cozy-ai-agent-cafe-game](./robinamirbahar-cozy-ai-agent-cafe-game.md) | ⭐ — | JavaScript | 54/100 |
+| 14 | [moshcoder/moshcode](./moshcoder-moshcode.md) | ⭐ 3 | JavaScript | 52/100 |
 | 15 | [Divyansh0208/GigLift](./divyansh0208-giglift.md) | ⭐ — | Python | 49/100 |
 | 16 | [amrit-dash/testmadeeasy](./amrit-dash-testmadeeasy.md) | ⭐ — | TypeScript | 47/100 |
 | 17 | [NullClassifier/nocturne](./nullclassifier-nocturne.md) | ⭐ — | Python | 47/100 |
