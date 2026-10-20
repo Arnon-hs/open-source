@@ -25,11 +25,11 @@
 | 15 | [amrit-dash/testmadeeasy](./amrit-dash-testmadeeasy.md) | ⭐ — | TypeScript | 47/100 |
 | 16 | [NullClassifier/nocturne](./nullclassifier-nocturne.md) | ⭐ — | Python | 47/100 |
 | 17 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 47/100 |
-| 18 | [compteccharan/TrustIntern](./compteccharan-trustintern.md) | ⭐ — | Python | 46/100 |
-| 19 | [jhusk003/multi-workflow-ai](./jhusk003-multi-workflow-ai.md) | ⭐ — | Python | 44/100 |
-| 20 | [miilo-ai/miilo-sdk](./miilo-ai-miilo-sdk.md) | ⭐ — | Rust | 44/100 |
-| 21 | [miilo-ai/miilo-cli](./miilo-ai-miilo-cli.md) | ⭐ — | Rust | 44/100 |
-| 22 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |
+| 18 | [jhusk003/multi-workflow-ai](./jhusk003-multi-workflow-ai.md) | ⭐ — | Python | 44/100 |
+| 19 | [miilo-ai/miilo-sdk](./miilo-ai-miilo-sdk.md) | ⭐ — | Rust | 44/100 |
+| 20 | [miilo-ai/miilo-cli](./miilo-ai-miilo-cli.md) | ⭐ — | Rust | 44/100 |
+| 21 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |
+| 22 | [compteccharan/TrustIntern](./compteccharan-trustintern.md) | ⭐ — | Python | 43/100 |
 | 23 | [indra112f/claimcheck](./indra112f-claimcheck.md) | ⭐ — | Python | 43/100 |
 | 24 | [rudratoshs/honest-lister](./rudratoshs-honest-lister.md) | ⭐ — | Python | 43/100 |
 | 25 | [yansudarshan/ListLocal](./yansudarshan-listlocal.md) | ⭐ — | TypeScript | 42/100 |

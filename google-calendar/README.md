@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [googleapis/google-api-nodejs-client](./googleapis-google-api-nodejs-client.md) | ⭐ 12.3k | TypeScript | 83/100 |
+| 1 | [googleapis/google-api-nodejs-client](./googleapis-google-api-nodejs-client.md) | ⭐ 12.3k | TypeScript | 80/100 |
 
 ---
 

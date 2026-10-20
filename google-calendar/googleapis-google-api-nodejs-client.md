@@ -1,6 +1,6 @@
 # googleapis/google-api-nodejs-client
 
-[![Stars](https://img.shields.io/github/stars/googleapis/google-api-nodejs-client?style=flat-square&color=yellow)](https://github.com/googleapis/google-api-nodejs-client/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-api-nodejs-client?style=flat-square&color=blue)](https://github.com/googleapis/google-api-nodejs-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/googleapis/google-api-nodejs-client?style=flat-square&color=yellow)](https://github.com/googleapis/google-api-nodejs-client/stargazers) [![Forks](https://img.shields.io/github/forks/googleapis/google-api-nodejs-client?style=flat-square&color=blue)](https://github.com/googleapis/google-api-nodejs-client/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Google's officially supported Node.js client library for accessing Google APIs. Support for authorization and authentication with OAuth 2.0, API Keys and JWT (Service Tokens) is included.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.3k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ google-calendar · oauth · local-emulator · testing · ai-agents · mcp · ope
 
 ### English
 
-googleapis/google-api-nodejs-client: googleapis/google-api-nodejs-client may be useful when its README and activity match a concrete workflow.. Use it for google-calendar, oauth, local-emulator, testing, ai-agents, mcp, open-source. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+googleapis/google-api-nodejs-client: googleapis/google-api-nodejs-client may be useful when its README and activity match a concrete workflow.. Use it for google-calendar, oauth, local-emulator, testing, ai-agents, mcp, open-source. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-googleapis/google-api-nodejs-client: open-source проект в категориях google-calendar, oauth, local-emulator, testing, ai-agents, mcp, open-source. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+googleapis/google-api-nodejs-client: open-source проект в категориях google-calendar, oauth, local-emulator, testing, ai-agents, mcp, open-source. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-googleapis/google-api-nodejs-client：googleapis/google-api-nodejs-client may be useful when its README and activity match a concrete workflow.。适合用于google-calendar、oauth、local-emulator、testing、ai-agents、mcp、open-source。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+googleapis/google-api-nodejs-client：googleapis/google-api-nodejs-client may be useful when its README and activity match a concrete workflow.。适合用于google-calendar、oauth、local-emulator、testing、ai-agents、mcp、open-source。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ googleapis/google-api-nodejs-client：googleapis/google-api-nodejs-client may be
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ googleapis/google-api-nodejs-client：googleapis/google-api-nodejs-client may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 94/100 |
-| production | 81/100 |
-| outlook | 85/100 |
+| production | 75/100 |
+| outlook | 78/100 |
 | adoption | 86/100 |
 | categoryMatchCount | 700/100 |
 | stars | 87/100 |
 | forks | 83/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
