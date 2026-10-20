@@ -1,6 +1,6 @@
 # ibnweb3/bedrock
 
-[![Stars](https://img.shields.io/github/stars/ibnweb3/bedrock?style=flat-square&color=yellow)](https://github.com/ibnweb3/bedrock/stargazers) [![Forks](https://img.shields.io/github/forks/ibnweb3/bedrock?style=flat-square&color=blue)](https://github.com/ibnweb3/bedrock/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ibnweb3/bedrock?style=flat-square&color=yellow)](https://github.com/ibnweb3/bedrock/stargazers) [![Forks](https://img.shields.io/github/forks/ibnweb3/bedrock?style=flat-square&color=blue)](https://github.com/ibnweb3/bedrock/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Bedrock: graph-grounded research-integrity agent on FalkorDB (Graph Hacks 2026, Track 01)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ ibnweb3/bedrock：ibnweb3/bedrock may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 54/100 |
+| production | 51/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

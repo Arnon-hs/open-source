@@ -15,9 +15,9 @@
 | 5 | [matt-way/gifuct-js](./matt-way-gifuct-js.md) | ⭐ 519 | JavaScript | 45/100 |
 | 6 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 44/100 |
 | 7 | [ntsd/zerocoach](./ntsd-zerocoach.md) | ⭐ — | TypeScript | 42/100 |
-| 8 | [asosa933/gig-scam-shield](./asosa933-gig-scam-shield.md) | ⭐ — | JavaScript | 41/100 |
-| 9 | [aashutoshkumarbhardwaj/openSearch](./aashutoshkumarbhardwaj-opensearch.md) | ⭐ — | TypeScript | 39/100 |
-| 10 | [devanshu-puri/BaseBuildStack](./devanshu-puri-basebuildstack.md) | ⭐ — | TypeScript | 39/100 |
+| 8 | [aashutoshkumarbhardwaj/openSearch](./aashutoshkumarbhardwaj-opensearch.md) | ⭐ — | TypeScript | 39/100 |
+| 9 | [devanshu-puri/BaseBuildStack](./devanshu-puri-basebuildstack.md) | ⭐ — | TypeScript | 39/100 |
+| 10 | [asosa933/gig-scam-shield](./asosa933-gig-scam-shield.md) | ⭐ — | JavaScript | 38/100 |
 | 11 | [ibrahim-iqbal/hushquote](./ibrahim-iqbal-hushquote.md) | ⭐ — | JavaScript | 36/100 |
 | 12 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 33/100 |
 | 13 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 33/100 |

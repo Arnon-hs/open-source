@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Prekshabarjatya/dharohar-agent](./prekshabarjatya-dharohar-agent.md) | ⭐ — | TypeScript | 41/100 |
+| 1 | [Prekshabarjatya/dharohar-agent](./prekshabarjatya-dharohar-agent.md) | ⭐ — | TypeScript | 38/100 |
 
 ---
 

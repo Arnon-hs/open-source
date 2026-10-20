@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ibnweb3/bedrock](./ibnweb3-bedrock.md) | ⭐ — | Python | 46/100 |
+| 1 | [ibnweb3/bedrock](./ibnweb3-bedrock.md) | ⭐ — | Python | 43/100 |
 
 ---
 
