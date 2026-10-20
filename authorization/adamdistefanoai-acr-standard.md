@@ -1,6 +1,6 @@
 # AdamDiStefanoAI/acr-standard
 
-[![Stars](https://img.shields.io/github/stars/AdamDiStefanoAI/acr-standard?style=flat-square&color=yellow)](https://github.com/AdamDiStefanoAI/acr-standard/stargazers) [![Forks](https://img.shields.io/github/forks/AdamDiStefanoAI/acr-standard?style=flat-square&color=blue)](https://github.com/AdamDiStefanoAI/acr-standard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AdamDiStefanoAI/acr-standard?style=flat-square&color=yellow)](https://github.com/AdamDiStefanoAI/acr-standard/stargazers) [![Forks](https://img.shields.io/github/forks/AdamDiStefanoAI/acr-standard?style=flat-square&color=blue)](https://github.com/AdamDiStefanoAI/acr-standard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > The ACR Standard: Agentic Control at Runtime — enforce AI governance at the execution path, with reference implementation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ AdamDiStefanoAI/acr-standard：AdamDiStefanoAI/acr-standard may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 66/100 |
+| production | 60/100 |
+| outlook | 59/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

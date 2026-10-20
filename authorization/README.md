@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AdamDiStefanoAI/acr-standard](./adamdistefanoai-acr-standard.md) | ⭐ 2 | Python | 57/100 |
+| 1 | [AdamDiStefanoAI/acr-standard](./adamdistefanoai-acr-standard.md) | ⭐ 2 | Python | 54/100 |
 
 ---
 

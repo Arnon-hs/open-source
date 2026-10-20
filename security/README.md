@@ -395,8 +395,8 @@
 | 385 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ — | — | 38/100 |
 | 386 | [openai/codex-security](./openai-codex-security.md) | ⭐ — | — | 38/100 |
 | 387 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
-| 388 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 38/100 |
-| 389 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 388 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 389 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 38/100 |
 | 390 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ — | — | 38/100 |
 | 391 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
 | 392 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 38/100 |
@@ -411,8 +411,8 @@
 | 401 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ — | — | 38/100 |
 | 402 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ — | — | 38/100 |
 | 403 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ — | — | 38/100 |
-| 404 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 38/100 |
-| 405 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ — | — | 38/100 |
+| 404 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ — | — | 38/100 |
+| 405 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 38/100 |
 | 406 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ — | — | 38/100 |
 | 407 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 38/100 |
 | 408 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ — | — | 38/100 |

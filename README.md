@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41317** |
-| **Categories** | **554** |
+| **Projects** | **41320** |
+| **Categories** | **553** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16303 | [Browse →](./misc/) |
+| 📦 **Misc** | 16305 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4437 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2803 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2344 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2345 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1584 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1423 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 940 | [Browse →](./backend/) |
@@ -101,6 +101,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Monitoring** | 3 | [Browse →](./monitoring/) |
 | 🏷️ **X402** | 3 | [Browse →](./x402/) |
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
@@ -149,7 +150,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
 | 🏷️ **Exactmatch** | 2 | [Browse →](./exactmatch/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
-| 🏷️ **Monitoring** | 2 | [Browse →](./monitoring/) |
 | 🏷️ **Tcg** | 2 | [Browse →](./tcg/) |
 | 🏷️ **Deployment** | 2 | [Browse →](./deployment/) |
 | 🏷️ **Privacy-first** | 2 | [Browse →](./privacy-first/) |
@@ -399,7 +399,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Release-notes** | 1 | [Browse →](./release-notes/) |
 | 🏷️ **Fastmcp** | 1 | [Browse →](./fastmcp/) |
 | 🏷️ **Us-business-registry** | 1 | [Browse →](./us-business-registry/) |
-| 🏷️ **Oh-my-graph** | 1 | [Browse →](./oh-my-graph/) |
 | 🏷️ **Clinical-trials** | 1 | [Browse →](./clinical-trials/) |
 | 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Call-center** | 1 | [Browse →](./call-center/) |
