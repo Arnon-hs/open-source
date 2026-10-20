@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41307** |
-| **Categories** | **555** |
+| **Projects** | **41314** |
+| **Categories** | **554** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16298 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4435 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16301 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4437 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2802 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2342 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2344 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1584 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1423 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 940 | [Browse →](./backend/) |
@@ -43,8 +43,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 458 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 428 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
+| 💳 **Payments** | 341 | [Browse →](./payments/) |
 | 📊 **Data** | 341 | [Browse →](./data/) |
-| 💳 **Payments** | 340 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 339 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 327 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 302 | [Browse →](./observability/) |
@@ -52,20 +52,20 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 206 | [Browse →](./trading/) |
 | ✨ **Design** | 179 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 147 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 123 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
+| 🏷️ **Ai** | 121 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 38 | [Browse →](./open-source/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Ai-agents** | 25 | [Browse →](./ai-agents/) |
-| 🏷️ **Privacy** | 22 | [Browse →](./privacy/) |
+| 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Freelance** | 21 | [Browse →](./freelance/) |
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
 | 🏷️ **Local-ai** | 17 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
-| 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
+| 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
 | 🏷️ **N8n** | 9 | [Browse →](./n8n/) |
 | 🏷️ **Ci** | 9 | [Browse →](./ci/) |
@@ -209,6 +209,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Chrome-extension** | 1 | [Browse →](./chrome-extension/) |
+| 🏷️ **Defi** | 1 | [Browse →](./defi/) |
 | 🏷️ **Bytechef** | 1 | [Browse →](./bytechef/) |
 | 🏷️ **Human-in-the-loop** | 1 | [Browse →](./human-in-the-loop/) |
 | 🏷️ **Agentic-workflow** | 1 | [Browse →](./agentic-workflow/) |
@@ -398,9 +400,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Fastmcp** | 1 | [Browse →](./fastmcp/) |
 | 🏷️ **Us-business-registry** | 1 | [Browse →](./us-business-registry/) |
 | 🏷️ **Oh-my-graph** | 1 | [Browse →](./oh-my-graph/) |
-| 🏷️ **Companies-house** | 1 | [Browse →](./companies-house/) |
-| 🏷️ **Cross-device** | 1 | [Browse →](./cross-device/) |
-| 🏷️ **Feature-reuse** | 1 | [Browse →](./feature-reuse/) |
 | 🏷️ **Clinical-trials** | 1 | [Browse →](./clinical-trials/) |
 | 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Call-center** | 1 | [Browse →](./call-center/) |
