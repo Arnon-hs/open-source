@@ -12,7 +12,7 @@
 | 2 | [JamshidS/aiset](./jamshids-aiset.md) | ⭐ 10 | Python | 63/100 |
 | 3 | [Arthur031221/Blinkling](./arthur031221-blinkling.md) | ⭐ 1 | JavaScript | 63/100 |
 | 4 | [sagaga144/claude-harness-bootstrap](./sagaga144-claude-harness-bootstrap.md) | ⭐ 1 | JavaScript | 58/100 |
-| 5 | [yahav10/plan-live](./yahav10-plan-live.md) | ⭐ — | JavaScript | 56/100 |
+| 5 | [yahav10/plan-live](./yahav10-plan-live.md) | ⭐ — | JavaScript | 53/100 |
 | 6 | [shanjeevrajendran/cloakroom](./shanjeevrajendran-cloakroom.md) | ⭐ — | Python | 51/100 |
 | 7 | [Gleaming0427/monument](./gleaming0427-monument.md) | ⭐ 1 | JavaScript | 44/100 |
 | 8 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |
