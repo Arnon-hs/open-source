@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [DroBov1Tya/PentaCore](./drobov1tya-pentacore.md) | ⭐ 3 | Rust | 61/100 |
+| 1 | [DroBov1Tya/PentaCore](./drobov1tya-pentacore.md) | ⭐ 3 | Rust | 58/100 |
 | 2 | [Superstos/Eonrise](./superstos-eonrise.md) | ⭐ — | Python | 56/100 |
 | 3 | [mrsergeiluzhnov/xonta](./mrsergeiluzhnov-xonta.md) | ⭐ — | JavaScript | 55/100 |
 | 4 | [retailbox-automation/fleetmemory](./retailbox-automation-fleetmemory.md) | ⭐ — | Python | 48/100 |

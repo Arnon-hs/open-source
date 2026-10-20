@@ -1,6 +1,6 @@
 # DroBov1Tya/PentaCore
 
-[![Stars](https://img.shields.io/github/stars/DroBov1Tya/PentaCore?style=flat-square&color=yellow)](https://github.com/DroBov1Tya/PentaCore/stargazers) [![Forks](https://img.shields.io/github/forks/DroBov1Tya/PentaCore?style=flat-square&color=blue)](https://github.com/DroBov1Tya/PentaCore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DroBov1Tya/PentaCore?style=flat-square&color=yellow)](https://github.com/DroBov1Tya/PentaCore/stargazers) [![Forks](https://img.shields.io/github/forks/DroBov1Tya/PentaCore?style=flat-square&color=blue)](https://github.com/DroBov1Tya/PentaCore/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent working memory for AI agents over MCP: goals, attempts, findings and entities. Rust, SQLite FTS5
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ DroBov1Tya/PentaCore：DroBov1Tya/PentaCore may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 700/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41155** |
-| **Categories** | **541** |
+| **Projects** | **41158** |
+| **Categories** | **542** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 16222 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4422 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4424 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2795 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2340 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1583 | [Browse →](./devtools/) |
@@ -35,7 +35,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documents** | 685 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 645 | [Browse →](./networking/) |
 | 📱 **Mobile** | 636 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 610 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 611 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 597 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 536 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 512 | [Browse →](./devopsinfra/) |
@@ -65,7 +65,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
 | 🏷️ **Local-ai** | 14 | [Browse →](./local-ai/) |
-| 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
+| 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
 | 🏷️ **N8n** | 8 | [Browse →](./n8n/) |
 | 🏷️ **Ci** | 8 | [Browse →](./ci/) |
@@ -85,13 +85,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Graph-database** | 5 | [Browse →](./graph-database/) |
 | 🏷️ **Open-source-ai** | 5 | [Browse →](./open-source-ai/) |
 | 🏷️ **Github-actions** | 5 | [Browse →](./github-actions/) |
-| 🏷️ **Claude** | 5 | [Browse →](./claude/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
 | 🏷️ **Hacktoberfest** | 4 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Ios** | 4 | [Browse →](./ios/) |
 | 🏷️ **React** | 4 | [Browse →](./react/) |
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
+| 🏷️ **Claude** | 4 | [Browse →](./claude/) |
 | 🏷️ **Small-business** | 4 | [Browse →](./small-business/) |
 | 🏷️ **Ecommerce** | 4 | [Browse →](./ecommerce/) |
 | 🏷️ **Openapi** | 4 | [Browse →](./openapi/) |
@@ -119,7 +119,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **3d** | 3 | [Browse →](./3d/) |
 | 🏷️ **Invoice-generation** | 3 | [Browse →](./invoice-generation/) |
 | 🏷️ **Terminal** | 3 | [Browse →](./terminal/) |
-| 🏷️ **Embedding** | 3 | [Browse →](./embedding/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
@@ -180,6 +179,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ui** | 2 | [Browse →](./ui/) |
 | 🏷️ **Digital-products** | 2 | [Browse →](./digital-products/) |
 | 🏷️ **Upi** | 2 | [Browse →](./upi/) |
+| 🏷️ **Embedding** | 2 | [Browse →](./embedding/) |
 | 🏷️ **On-device-ai** | 2 | [Browse →](./on-device-ai/) |
 | 🏷️ **Open-weight-model** | 2 | [Browse →](./open-weight-model/) |
 | 🏷️ **Ai-ops** | 2 | [Browse →](./ai-ops/) |
@@ -208,6 +208,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Geospatial** | 1 | [Browse →](./geospatial/) |
 | 🏷️ **Standup** | 1 | [Browse →](./standup/) |
 | 🏷️ **Developer-tooling** | 1 | [Browse →](./developer-tooling/) |
 | 🏷️ **Alternate-history** | 1 | [Browse →](./alternate-history/) |
