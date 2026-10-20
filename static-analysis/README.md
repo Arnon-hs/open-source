@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [harshitethic/clonepeek](./harshitethic-clonepeek.md) | ⭐ — | Python | 66/100 |
+| 1 | [harshitethic/clonepeek](./harshitethic-clonepeek.md) | ⭐ — | Python | 63/100 |
 | 2 | [GapHunterLabs/background-readaction-freeze-companion](./gaphunterlabs-background-readaction-freeze-companion.md) | ⭐ — | Kotlin | 30/100 |
 
 ---

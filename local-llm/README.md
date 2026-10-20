@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kotewar/parchi](./kotewar-parchi.md) | ⭐ — | Python | 55/100 |
+| 1 | [kotewar/parchi](./kotewar-parchi.md) | ⭐ — | Python | 52/100 |
 | 2 | [drevendev/PatchPitch](./drevendev-patchpitch.md) | ⭐ 1 | Python | 43/100 |
 | 3 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
 | 4 | [Abishethvarman/CiteWise](./abishethvarman-citewise.md) | ⭐ — | Python | 36/100 |
