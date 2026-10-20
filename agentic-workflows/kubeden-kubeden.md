@@ -1,6 +1,6 @@
 # kubeden/kubeden
 
-[![Stars](https://img.shields.io/github/stars/kubeden/kubeden?style=flat-square&color=yellow)](https://github.com/kubeden/kubeden/stargazers) [![Forks](https://img.shields.io/github/forks/kubeden/kubeden?style=flat-square&color=blue)](https://github.com/kubeden/kubeden/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeden/kubeden?style=flat-square&color=yellow)](https://github.com/kubeden/kubeden/stargazers) [![Forks](https://img.shields.io/github/forks/kubeden/kubeden?style=flat-square&color=blue)](https://github.com/kubeden/kubeden/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ agentic workflows · preview environments · database branching · Neon · ArgoC
 
 ### English
 
-kubeden/kubeden: kubeden/kubeden may be useful when its README and activity match a concrete workflow.. Use it for agentic workflows, preview environments, database branching, Neon, ArgoCD, GitHub Actions, AI agents. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kubeden/kubeden: kubeden/kubeden may be useful when its README and activity match a concrete workflow.. Use it for agentic workflows, preview environments, database branching, Neon, ArgoCD, GitHub Actions, AI agents. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-kubeden/kubeden: open-source проект в категориях agentic workflows, preview environments, database branching, Neon, ArgoCD, GitHub Actions, AI agents. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+kubeden/kubeden: open-source проект в категориях agentic workflows, preview environments, database branching, Neon, ArgoCD, GitHub Actions, AI agents. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-kubeden/kubeden：kubeden/kubeden may be useful when its README and activity match a concrete workflow.。适合用于agentic workflows、preview environments、database branching、Neon、ArgoCD、GitHub Actions、AI agents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kubeden/kubeden：kubeden/kubeden may be useful when its README and activity match a concrete workflow.。适合用于agentic workflows、preview environments、database branching、Neon、ArgoCD、GitHub Actions、AI agents。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ kubeden/kubeden：kubeden/kubeden may be useful when its README and activity mat
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,15 +63,15 @@ kubeden/kubeden：kubeden/kubeden may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 44/100 |
+| quality | 39/100 |
 | integration | 18/100 |
-| production | 57/100 |
-| outlook | 55/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 19/100 |
 | categoryMatchCount | 700/100 |
 | stars | 20/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
