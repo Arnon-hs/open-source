@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ElikplimSunu/threatsketch](./elikplimsunu-threatsketch.md) | ⭐ 2 | Python | 60/100 |
+| 1 | [ElikplimSunu/threatsketch](./elikplimsunu-threatsketch.md) | ⭐ 2 | Python | 57/100 |
 
 ---
 
