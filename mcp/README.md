@@ -1745,8 +1745,8 @@
 | 1735 | [theihtisham/agent-shadow-brain](./theihtisham-agent-shadow-brain.md) | ⭐ 22 | TypeScript | 65/100 |
 | 1736 | [pyrate-llama/hermes-ui](./pyrate-llama-hermes-ui.md) | ⭐ 107 | HTML | 65/100 |
 | 1737 | [giantswarm/muster](./giantswarm-muster.md) | ⭐ 21 | Go | 65/100 |
-| 1738 | [MasuRii/pi-tool-display](./masurii-pi-tool-display.md) | ⭐ 138 | TypeScript | 65/100 |
-| 1739 | [UPinar/contrastapi](./upinar-contrastapi.md) | ⭐ 23 | Python | 65/100 |
+| 1738 | [UPinar/contrastapi](./upinar-contrastapi.md) | ⭐ 23 | Python | 65/100 |
+| 1739 | [MasuRii/pi-tool-display](./masurii-pi-tool-display.md) | ⭐ 138 | TypeScript | 65/100 |
 | 1740 | [Wolfe-Jam/faf-cli](./wolfe-jam-faf-cli.md) | ⭐ 29 | TypeScript | 65/100 |
 | 1741 | [usewhale/whale](./usewhale-whale.md) | ⭐ 31 | Go | 65/100 |
 | 1742 | [anipotts/claude-code-tips](./anipotts-claude-code-tips.md) | ⭐ 24 | Python | 65/100 |
@@ -1879,8 +1879,8 @@
 | 1869 | [anilloutombam/mcp-failure-lab](./anilloutombam-mcp-failure-lab.md) | ⭐ — | TypeScript | 63/100 |
 | 1870 | [blwfish/freecad-mcp](./blwfish-freecad-mcp.md) | ⭐ 27 | Python | 63/100 |
 | 1871 | [thrixel/build-world](./thrixel-build-world.md) | ⭐ 59 | JavaScript | 63/100 |
-| 1872 | [bloknayrb/tandem](./bloknayrb-tandem.md) | ⭐ 12 | TypeScript | 63/100 |
-| 1873 | [nikita-rulenko/Helixir](./nikita-rulenko-helixir.md) | ⭐ 86 | Rust | 63/100 |
+| 1872 | [nikita-rulenko/Helixir](./nikita-rulenko-helixir.md) | ⭐ 86 | Rust | 63/100 |
+| 1873 | [bloknayrb/tandem](./bloknayrb-tandem.md) | ⭐ 12 | TypeScript | 63/100 |
 | 1874 | [motherduckdb/mcp-server-motherduck](./motherduckdb-mcp-server-motherduck.md) | ⭐ 508 | Python | 63/100 |
 | 1875 | [AI-QL/chat-ui](./ai-ql-chat-ui.md) | ⭐ 94 | HTML | 63/100 |
 | 1876 | [Beezi-AI/beezi-claude-plugin](./beezi-ai-beezi-claude-plugin.md) | ⭐ 27 | JavaScript | 63/100 |

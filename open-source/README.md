@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [open-nvr/open-nvr](./open-nvr-open-nvr.md) | ⭐ 167 | Python | 76/100 |
-| 2 | [excalibase/excalibase-graphql](./excalibase-excalibase-graphql.md) | ⭐ 32 | Java | 66/100 |
+| 2 | [excalibase/excalibase-graphql](./excalibase-excalibase-graphql.md) | ⭐ 32 | Java | 63/100 |
 | 3 | [mortennordbye/headroom](./mortennordbye-headroom.md) | ⭐ 10 | TypeScript | 60/100 |
 | 4 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 56/100 |
 | 5 | [mohit01-beep/bistro-translate-ai](./mohit01-beep-bistro-translate-ai.md) | ⭐ — | JavaScript | 44/100 |

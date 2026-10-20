@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SoumyaEXE/recalldesk](./soumyaexe-recalldesk.md) | ⭐ — | TypeScript | 49/100 |
+| 1 | [SoumyaEXE/recalldesk](./soumyaexe-recalldesk.md) | ⭐ — | TypeScript | 46/100 |
 
 ---
 
