@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41181** |
-| **Categories** | **543** |
+| **Projects** | **41182** |
+| **Categories** | **544** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -208,6 +208,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Jquery** | 1 | [Browse →](./jquery/) |
 | 🏷️ **Pack-size-parsing** | 1 | [Browse →](./pack-size-parsing/) |
 | 🏷️ **Email** | 1 | [Browse →](./email/) |
 | 🏷️ **Browser-checkout** | 1 | [Browse →](./browser-checkout/) |
