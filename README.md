@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41166** |
-| **Categories** | **542** |
+| **Projects** | **41178** |
+| **Categories** | **543** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16227 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4425 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2795 | [Browse →](./mcp/) |
+| 📦 **Misc** | 16234 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4427 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2796 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2340 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1583 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1417 | [Browse →](./automation/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 536 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 512 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 495 | [Browse →](./video-editing/) |
-| 🏷️ **Templates** | 454 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 455 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 426 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
 | 📊 **Data** | 341 | [Browse →](./data/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 205 | [Browse →](./trading/) |
 | ✨ **Design** | 178 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 147 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 126 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 125 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 121 | [Browse →](./vertical-video/) |
 | 🏷️ **Open-source** | 38 | [Browse →](./open-source/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
@@ -100,6 +100,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Net** | 4 | [Browse →](./net/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **X402** | 3 | [Browse →](./x402/) |
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
 | 🏷️ **Text-to-speech** | 3 | [Browse →](./text-to-speech/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
@@ -154,7 +155,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Evm** | 2 | [Browse →](./evm/) |
 | 🏷️ **Secondhand** | 2 | [Browse →](./secondhand/) |
 | 🏷️ **Secret-scanning** | 2 | [Browse →](./secret-scanning/) |
-| 🏷️ **X402** | 2 | [Browse →](./x402/) |
 | 🏷️ **Wayland** | 2 | [Browse →](./wayland/) |
 | 🏷️ **Allergen-labeling** | 2 | [Browse →](./allergen-labeling/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
@@ -207,6 +207,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Pack-size-parsing** | 1 | [Browse →](./pack-size-parsing/) |
+| 🏷️ **Email** | 1 | [Browse →](./email/) |
+| 🏷️ **Browser-checkout** | 1 | [Browse →](./browser-checkout/) |
+| 🏷️ **Base** | 1 | [Browse →](./base/) |
 | 🏷️ **Data-feeds** | 1 | [Browse →](./data-feeds/) |
 | 🏷️ **Geospatial** | 1 | [Browse →](./geospatial/) |
 | 🏷️ **Standup** | 1 | [Browse →](./standup/) |
@@ -386,9 +390,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Solana** | 1 | [Browse →](./solana/) |
 | 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Tabular** | 1 | [Browse →](./tabular/) |
-| 🏷️ **Desktop-ide** | 1 | [Browse →](./desktop-ide/) |
-| 🏷️ **Agent-hooks** | 1 | [Browse →](./agent-hooks/) |
-| 🏷️ **Gemini-4-argon** | 1 | [Browse →](./gemini-4-argon/) |
 | 🏷️ **Call-center** | 1 | [Browse →](./call-center/) |
 | 🏷️ **Malware** | 1 | [Browse →](./malware/) |
 | 🏷️ **Betting** | 1 | [Browse →](./betting/) |

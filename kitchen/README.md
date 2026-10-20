@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AnshMeshram/dabbaiq](./anshmeshram-dabbaiq.md) | ⭐ — | TypeScript | 57/100 |
+| 1 | [AnshMeshram/dabbaiq](./anshmeshram-dabbaiq.md) | ⭐ — | TypeScript | 54/100 |
 
 ---
 

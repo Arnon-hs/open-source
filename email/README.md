@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nodemailer/nodemailer](./nodemailer-nodemailer.md) | ⭐ 17.7k | TypeScript | 61/100 |
+| 1 | [yema7582-code/namake](./yema7582-code-namake.md) | ⭐ — | Python | 42/100 |
 
 ---
 

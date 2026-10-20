@@ -1,6 +1,6 @@
 # AnshMeshram/dabbaiq
 
-[![Stars](https://img.shields.io/github/stars/AnshMeshram/dabbaiq?style=flat-square&color=yellow)](https://github.com/AnshMeshram/dabbaiq/stargazers) [![Forks](https://img.shields.io/github/forks/AnshMeshram/dabbaiq?style=flat-square&color=blue)](https://github.com/AnshMeshram/dabbaiq/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AnshMeshram/dabbaiq?style=flat-square&color=yellow)](https://github.com/AnshMeshram/dabbaiq/stargazers) [![Forks](https://img.shields.io/github/forks/AnshMeshram/dabbaiq?style=flat-square&color=blue)](https://github.com/AnshMeshram/dabbaiq/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered kitchen prep & food waste planner for tiffin services and caterers. Cuts food waste with smart demand forecasting, live SerpAPI wholesale ingredient price discovery, MongoDB Atlas persistence, and resilient Temporal-orchestrated preparation workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ AnshMeshram/dabbaiq：AnshMeshram/dabbaiq may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 57/100 |
+| production | 55/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
