@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [edycutjong/awas](./edycutjong-awas.md) | ⭐ — | TypeScript | 51/100 |
+| 1 | [edycutjong/awas](./edycutjong-awas.md) | ⭐ — | TypeScript | 48/100 |
 
 ---
 
