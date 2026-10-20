@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41231** |
-| **Categories** | **548** |
+| **Projects** | **41244** |
+| **Categories** | **552** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16260 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4429 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2797 | [Browse →](./mcp/) |
+| 📦 **Misc** | 16265 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4430 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2798 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2341 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1583 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1421 | [Browse →](./automation/) |
@@ -36,12 +36,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 647 | [Browse →](./networking/) |
 | 📱 **Mobile** | 636 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 612 | [Browse →](./knowledgerag/) |
-| 🏷️ **Cloud--storage** | 598 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 599 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 536 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 513 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 495 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 455 | [Browse →](./templates/) |
-| 🏷️ **Communication** | 427 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 428 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
 | 📊 **Data** | 341 | [Browse →](./data/) |
 | 💳 **Payments** | 339 | [Browse →](./payments/) |
@@ -207,6 +207,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Redaction** | 1 | [Browse →](./redaction/) |
+| 🏷️ **Java** | 1 | [Browse →](./java/) |
+| 🏷️ **Lean4** | 1 | [Browse →](./lean4/) |
+| 🏷️ **Contract-management** | 1 | [Browse →](./contract-management/) |
+| 🏷️ **Autodesk-inventor** | 1 | [Browse →](./autodesk-inventor/) |
 | 🏷️ **Nix** | 1 | [Browse →](./nix/) |
 | 🏷️ **Browser** | 1 | [Browse →](./browser/) |
 | 🏷️ **Peertopeer** | 1 | [Browse →](./peertopeer/) |
@@ -393,7 +398,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Azure-logic-apps** | 1 | [Browse →](./azure-logic-apps/) |
 | 🏷️ **Accessibility** | 1 | [Browse →](./accessibility/) |
 | 🏷️ **Web-utilities** | 1 | [Browse →](./web-utilities/) |
-| 🏷️ **Federal-prizes** | 1 | [Browse →](./federal-prizes/) |
 | 🏷️ **Clinical-trials** | 1 | [Browse →](./clinical-trials/) |
 | 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Call-center** | 1 | [Browse →](./call-center/) |

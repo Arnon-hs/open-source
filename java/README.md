@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
+| 1 | [nunosilva-dev/letter-generator](./nunosilva-dev-letter-generator.md) | ⭐ — | Java | 46/100 |
 
 ---
 
