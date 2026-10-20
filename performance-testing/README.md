@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [chrisvasqm/bencho](./chrisvasqm-bencho.md) | ⭐ 1 | TypeScript | 54/100 |
+| 1 | [chrisvasqm/bencho](./chrisvasqm-bencho.md) | ⭐ 1 | TypeScript | 51/100 |
 
 ---
 

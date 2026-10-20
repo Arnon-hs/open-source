@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41131** |
+| **Projects** | **41135** |
 | **Categories** | **543** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16209 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4419 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16212 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4420 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2790 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2338 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1581 | [Browse →](./devtools/) |
@@ -211,6 +211,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Text-to-sql** | 1 | [Browse →](./text-to-sql/) |
 | 🏷️ **Local-file-management** | 1 | [Browse →](./local-file-management/) |
 | 🏷️ **Remote-connection** | 1 | [Browse →](./remote-connection/) |
 | 🏷️ **Cost-reduction** | 1 | [Browse →](./cost-reduction/) |
@@ -393,7 +394,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Malware** | 1 | [Browse →](./malware/) |
 | 🏷️ **Enterprise** | 1 | [Browse →](./enterprise/) |
 | 🏷️ **Conventional-commits** | 1 | [Browse →](./conventional-commits/) |
-| 🏷️ **Upgrade** | 1 | [Browse →](./upgrade/) |
 | 🏷️ **Betting** | 1 | [Browse →](./betting/) |
 | 🏷️ **Record-matching** | 1 | [Browse →](./record-matching/) |
 | 🏷️ **Speechtotext** | 1 | [Browse →](./speechtotext/) |
