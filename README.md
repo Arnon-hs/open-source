@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41121** |
-| **Categories** | **542** |
+| **Projects** | **41124** |
+| **Categories** | **543** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -73,12 +73,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Python** | 7 | [Browse →](./python/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
+| 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Android** | 6 | [Browse →](./android/) |
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
-| 🏷️ **Ai-agent** | 5 | [Browse →](./ai-agent/) |
 | 🏷️ **Nextjs** | 5 | [Browse →](./nextjs/) |
 | 🏷️ **Macos** | 5 | [Browse →](./macos/) |
 | 🏷️ **Graph-database** | 5 | [Browse →](./graph-database/) |
@@ -127,6 +127,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Vs-code** | 2 | [Browse →](./vs-code/) |
 | 🏷️ **Swift** | 2 | [Browse →](./swift/) |
 | 🏷️ **Kodi** | 2 | [Browse →](./kodi/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
@@ -210,6 +211,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Local-file-management** | 1 | [Browse →](./local-file-management/) |
 | 🏷️ **Remote-connection** | 1 | [Browse →](./remote-connection/) |
 | 🏷️ **Cost-reduction** | 1 | [Browse →](./cost-reduction/) |
 | 🏷️ **Cra** | 1 | [Browse →](./cra/) |
@@ -341,7 +343,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Image-processing** | 1 | [Browse →](./image-processing/) |
 | 🏷️ **Used-car** | 1 | [Browse →](./used-car/) |
-| 🏷️ **Vs-code** | 1 | [Browse →](./vs-code/) |
 | 🏷️ **Container** | 1 | [Browse →](./container/) |
 | 🏷️ **Cacao** | 1 | [Browse →](./cacao/) |
 | 🏷️ **Search-console** | 1 | [Browse →](./search-console/) |
