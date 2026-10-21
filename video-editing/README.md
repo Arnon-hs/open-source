@@ -448,8 +448,8 @@
 | 438 | [Salesforce/blip-image-captioning-large](./salesforce-blip-image-captioning-large.md) | ⭐ 1.5k | transformers | 49/100 |
 | 439 | [gladiaio/gladia-cli](./gladiaio-gladia-cli.md) | ⭐ — | — | 49/100 |
 | 440 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 588 | JavaScript | 49/100 |
-| 441 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
-| 442 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
+| 441 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
+| 442 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
 | 443 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 444 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ — | — | 48/100 |
 | 445 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ — | — | 48/100 |
