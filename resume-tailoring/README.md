@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [foliojs/pdfkit](./foliojs-pdfkit.md) | ⭐ 10.7k | JavaScript | 58/100 |
+| 1 | [foliojs/pdfkit](./foliojs-pdfkit.md) | ⭐ 10.7k | JavaScript | 55/100 |
 | 2 | [Inkesk-Dozing/Resume-and-Thread](./inkesk-dozing-resume-and-thread.md) | ⭐ — | TypeScript | 39/100 |
 
 ---

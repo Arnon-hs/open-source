@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41457** |
+| **Projects** | **41458** |
 | **Categories** | **551** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -127,6 +127,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Debugging** | 2 | [Browse →](./debugging/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
 | 🏷️ **Linux** | 2 | [Browse →](./linux/) |
 | 🏷️ **Bash** | 2 | [Browse →](./bash/) |
@@ -355,7 +356,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Performance-testing** | 1 | [Browse →](./performance-testing/) |
 | 🏷️ **Threat-modeling** | 1 | [Browse →](./threat-modeling/) |
 | 🏷️ **Local-inference** | 1 | [Browse →](./local-inference/) |
-| 🏷️ **Debugging** | 1 | [Browse →](./debugging/) |
 | 🏷️ **Image-generation** | 1 | [Browse →](./image-generation/) |
 | 🏷️ **Electron** | 1 | [Browse →](./electron/) |
 | 🏷️ **Energy** | 1 | [Browse →](./energy/) |

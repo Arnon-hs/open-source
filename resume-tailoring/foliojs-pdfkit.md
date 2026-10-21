@@ -1,6 +1,6 @@
 # foliojs/pdfkit
 
-[![Stars](https://img.shields.io/github/stars/foliojs/pdfkit?style=flat-square&color=yellow)](https://github.com/foliojs/pdfkit/stargazers) [![Forks](https://img.shields.io/github/forks/foliojs/pdfkit?style=flat-square&color=blue)](https://github.com/foliojs/pdfkit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foliojs/pdfkit?style=flat-square&color=yellow)](https://github.com/foliojs/pdfkit/stargazers) [![Forks](https://img.shields.io/github/forks/foliojs/pdfkit?style=flat-square&color=blue)](https://github.com/foliojs/pdfkit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > A JavaScript PDF generation library for Node and the browser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.7k |
 | 🍴 **Forks** | 1.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ foliojs/pdfkit：foliojs/pdfkit may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 71/100 |
+| production | 62/100 |
+| outlook | 64/100 |
 | adoption | 83/100 |
 | categoryMatchCount | 700/100 |
 | stars | 86/100 |
 | forks | 77/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

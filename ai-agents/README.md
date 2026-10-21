@@ -18,9 +18,9 @@
 | 8 | [furoute/acp-lite](./furoute-acp-lite.md) | ⭐ — | Python | 48/100 |
 | 9 | [kulehq/kule](./kulehq-kule.md) | ⭐ 1 | Rust | 45/100 |
 | 10 | [saifmodan2006/agenttrace](./saifmodan2006-agenttrace.md) | ⭐ — | Python | 43/100 |
-| 11 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 39/100 |
-| 12 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
-| 13 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 37/100 |
+| 11 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
+| 12 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 37/100 |
+| 13 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 36/100 |
 | 14 | [krishsf5/Graph-Hack-Hackathon-Team-7vengers](./krishsf5-graph-hack-hackathon-team-7vengers.md) | ⭐ 1 | JavaScript | 34/100 |
 | 15 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 33/100 |
 | 16 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 33/100 |

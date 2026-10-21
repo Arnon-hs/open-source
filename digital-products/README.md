@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [icesurf666/progress-cut](./icesurf666-progress-cut.md) | ⭐ — | TypeScript | 36/100 |
+| 1 | [icesurf666/progress-cut](./icesurf666-progress-cut.md) | ⭐ — | TypeScript | 33/100 |
 | 2 | [ollama/gemma](./ollama-gemma.md) | ⭐ — | — | 24/100 |
 
 ---
