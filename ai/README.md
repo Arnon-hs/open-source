@@ -16,8 +16,8 @@
 | 6 | [dennisonbertram/agentic-hosting](./dennisonbertram-agentic-hosting.md) | ⭐ 31 | Go | 57/100 |
 | 7 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
 | 8 | [SandeepAi369/searchwala](./sandeepai369-searchwala.md) | ⭐ 17 | Rust | 55/100 |
-| 9 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 55/100 |
-| 10 | [onloopdev/spark-triage](./onloopdev-spark-triage.md) | ⭐ — | Python | 55/100 |
+| 9 | [onloopdev/spark-triage](./onloopdev-spark-triage.md) | ⭐ — | Python | 55/100 |
+| 10 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 52/100 |
 | 11 | [moshcoder/moshcode](./moshcoder-moshcode.md) | ⭐ 3 | JavaScript | 52/100 |
 | 12 | [farouqaldori/yapsketch](./farouqaldori-yapsketch.md) | ⭐ 11 | Swift | 51/100 |
 | 13 | [Divyansh0208/GigLift](./divyansh0208-giglift.md) | ⭐ — | Python | 49/100 |

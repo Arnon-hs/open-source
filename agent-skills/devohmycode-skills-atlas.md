@@ -1,6 +1,6 @@
 # devohmycode/skills-atlas
 
-[![Stars](https://img.shields.io/github/stars/devohmycode/skills-atlas?style=flat-square&color=yellow)](https://github.com/devohmycode/skills-atlas/stargazers) [![Forks](https://img.shields.io/github/forks/devohmycode/skills-atlas?style=flat-square&color=blue)](https://github.com/devohmycode/skills-atlas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/devohmycode/skills-atlas?style=flat-square&color=yellow)](https://github.com/devohmycode/skills-atlas/stargazers) [![Forks](https://img.shields.io/github/forks/devohmycode/skills-atlas?style=flat-square&color=blue)](https://github.com/devohmycode/skills-atlas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Browse every public Agent Skill grouped by theme, multi-select and install them through npx skills add.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 24 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ devohmycode/skills-atlas：devohmycode/skills-atlas may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 94/100 |
-| production | 74/100 |
-| outlook | 76/100 |
+| production | 67/100 |
+| outlook | 69/100 |
 | adoption | 26/100 |
 | categoryMatchCount | 600/100 |
 | stars | 30/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

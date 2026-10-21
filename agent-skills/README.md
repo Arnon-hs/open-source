@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [devohmycode/skills-atlas](./devohmycode-skills-atlas.md) | ⭐ 24 | TypeScript | 76/100 |
+| 1 | [devohmycode/skills-atlas](./devohmycode-skills-atlas.md) | ⭐ 24 | TypeScript | 73/100 |
 
 ---
 
