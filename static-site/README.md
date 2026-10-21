@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ninepointlabs/linkguard](./ninepointlabs-linkguard.md) | ⭐ — | TypeScript | 48/100 |
+| 1 | [ninepointlabs/linkguard](./ninepointlabs-linkguard.md) | ⭐ — | TypeScript | 45/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Horosheff/hyperion-reels
 
-[![Stars](https://img.shields.io/github/stars/Horosheff/hyperion-reels?style=flat-square&color=yellow)](https://github.com/Horosheff/hyperion-reels/stargazers) [![Forks](https://img.shields.io/github/forks/Horosheff/hyperion-reels?style=flat-square&color=blue)](https://github.com/Horosheff/hyperion-reels/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Horosheff/hyperion-reels?style=flat-square&color=yellow)](https://github.com/Horosheff/hyperion-reels/stargazers) [![Forks](https://img.shields.io/github/forks/Horosheff/hyperion-reels?style=flat-square&color=blue)](https://github.com/Horosheff/hyperion-reels/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Гиперион — субагентская нарезка Shorts/Reels: 20+ агентов Cursor, Whisper, FFmpeg, 4 режима монтажа, publish desk и параллельная публикация в YouTube, Instagram, TikTok, VK, RuTube и Дзен.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 25 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | github |
 
@@ -68,11 +68,11 @@ Horosheff/hyperion-reels 是一款自动化 Shorts/Reels 编辑工具，集视�
 | forks | 35/100 |
 | stars | 33/100 |
 | topics | 100/100 |
-| outlook | 75/100 |
-| quality | 70/100 |
-| recency | 100/100 |
+| outlook | 61/100 |
+| quality | 60/100 |
+| recency | 60/100 |
 | adoption | 33/100 |
-| production | 75/100 |
+| production | 62/100 |
 | usefulness | 58/100 |
 | integration | 62/100 |
 | sourceTrust | 100/100 |

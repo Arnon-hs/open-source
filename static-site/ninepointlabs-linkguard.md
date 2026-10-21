@@ -1,6 +1,6 @@
 # ninepointlabs/linkguard
 
-[![Stars](https://img.shields.io/github/stars/ninepointlabs/linkguard?style=flat-square&color=yellow)](https://github.com/ninepointlabs/linkguard/stargazers) [![Forks](https://img.shields.io/github/forks/ninepointlabs/linkguard?style=flat-square&color=blue)](https://github.com/ninepointlabs/linkguard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ninepointlabs/linkguard?style=flat-square&color=yellow)](https://github.com/ninepointlabs/linkguard/stargazers) [![Forks](https://img.shields.io/github/forks/ninepointlabs/linkguard?style=flat-square&color=blue)](https://github.com/ninepointlabs/linkguard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Action that checks outbound links in Jekyll, Hugo and folderblog sites and finds Wayback Machine snapshots for dead ones.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ ninepointlabs/linkguard：ninepointlabs/linkguard may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 57/100 |
+| production | 56/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41483** |
-| **Categories** | **555** |
+| **Projects** | **41488** |
+| **Categories** | **556** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16386 | [Browse →](./misc/) |
+| 📦 **Misc** | 16388 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4459 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2805 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2350 | [Browse →](./orchestration/) |
@@ -35,8 +35,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documents** | 692 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 648 | [Browse →](./networking/) |
 | 📱 **Mobile** | 640 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 614 | [Browse →](./knowledgerag/) |
-| 🏷️ **Cloud--storage** | 603 | [Browse →](./cloud--storage/) |
+| 🏷️ **Knowledgerag** | 615 | [Browse →](./knowledgerag/) |
+| 🏷️ **Cloud--storage** | 604 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 538 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 516 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 497 | [Browse →](./video-editing/) |
@@ -207,6 +207,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Code-analysis** | 1 | [Browse →](./code-analysis/) |
+| 🏷️ **Consumer-safety** | 1 | [Browse →](./consumer-safety/) |
 | 🏷️ **Leetcode** | 1 | [Browse →](./leetcode/) |
 | 🏷️ **Deepseek** | 1 | [Browse →](./deepseek/) |
 | 🏷️ **Knowledge-management** | 1 | [Browse →](./knowledge-management/) |
@@ -390,7 +392,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Policy** | 1 | [Browse →](./policy/) |
 | 🏷️ **Tiffin** | 1 | [Browse →](./tiffin/) |
 | 🏷️ **Lease-abstraction** | 1 | [Browse →](./lease-abstraction/) |
-| 🏷️ **Birdwatching** | 1 | [Browse →](./birdwatching/) |
 | 🏷️ **Image-processing** | 1 | [Browse →](./image-processing/) |
 | 🏷️ **Banking** | 1 | [Browse →](./banking/) |
 | 🏷️ **Container** | 1 | [Browse →](./container/) |
@@ -583,16 +584,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | # | Project | Stars | Category |
 |---|---|---|---|
-| 1 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 42.6k | Orchestration |
-| 2 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
-| 3 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
-| 4 | [wasp-lang/open-saas](./templates/wasp-lang-open-saas.md) | ⭐ 14.9k | Templates |
-| 5 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
-| 6 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
-| 7 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
-| 8 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
-| 9 | [zeromicro/go-zero](./aiml/zeromicro-go-zero.md) | ⭐ 33.2k | AI/ML |
-| 10 | [firerpa/lamda](./mcp/firerpa-lamda.md) | ⭐ 7.9k | Mcp |
+| 1 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | ⭐ 208.2k | Mcp |
+| 2 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | ⭐ 42.6k | Orchestration |
+| 3 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | ⭐ 44.7k | Mcp |
+| 4 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | ⭐ 46.8k | Orchestration |
+| 5 | [wasp-lang/open-saas](./templates/wasp-lang-open-saas.md) | ⭐ 14.9k | Templates |
+| 6 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | ⭐ 8.5k | Mcp |
+| 7 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | ⭐ 8.5k | Mcp |
+| 8 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | ⭐ 6.7k | Mcp |
+| 9 | [langgenius/dify](./orchestration/langgenius-dify.md) | ⭐ 146.2k | Orchestration |
+| 10 | [zeromicro/go-zero](./aiml/zeromicro-go-zero.md) | ⭐ 33.2k | AI/ML |
 
 ## What each entry includes
 

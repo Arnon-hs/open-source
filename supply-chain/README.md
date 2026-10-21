@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [soumya-narang/Plumbline](./soumya-narang-plumbline.md) | ⭐ — | Python | 39/100 |
+| 1 | [soumya-narang/Plumbline](./soumya-narang-plumbline.md) | ⭐ — | Python | 36/100 |
 
 ---
 

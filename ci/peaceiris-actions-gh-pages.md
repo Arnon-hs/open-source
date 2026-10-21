@@ -1,6 +1,6 @@
 # peaceiris/actions-gh-pages
 
-[![Stars](https://img.shields.io/github/stars/peaceiris/actions-gh-pages?style=flat-square&color=yellow)](https://github.com/peaceiris/actions-gh-pages/stargazers) [![Forks](https://img.shields.io/github/forks/peaceiris/actions-gh-pages?style=flat-square&color=blue)](https://github.com/peaceiris/actions-gh-pages/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/peaceiris/actions-gh-pages?style=flat-square&color=yellow)](https://github.com/peaceiris/actions-gh-pages/stargazers) [![Forks](https://img.shields.io/github/forks/peaceiris/actions-gh-pages?style=flat-square&color=blue)](https://github.com/peaceiris/actions-gh-pages/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.4k |
 | 🍴 **Forks** | 449 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ CI · GitHub Actions · IPTV · validation · caching · parallelism
 
 ### English
 
-peaceiris/actions-gh-pages: peaceiris/actions-gh-pages may be useful when its README and activity match a concrete workflow.. Use it for CI, GitHub Actions, IPTV, validation, caching, parallelism. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+peaceiris/actions-gh-pages: peaceiris/actions-gh-pages may be useful when its README and activity match a concrete workflow.. Use it for CI, GitHub Actions, IPTV, validation, caching, parallelism. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-peaceiris/actions-gh-pages: open-source проект в категориях CI, GitHub Actions, IPTV, validation, caching, parallelism. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+peaceiris/actions-gh-pages: open-source проект в категориях CI, GitHub Actions, IPTV, validation, caching, parallelism. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-peaceiris/actions-gh-pages：peaceiris/actions-gh-pages may be useful when its README and activity match a concrete workflow.。适合用于CI、GitHub Actions、IPTV、validation、caching、parallelism。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+peaceiris/actions-gh-pages：peaceiris/actions-gh-pages may be useful when its README and activity match a concrete workflow.。适合用于CI、GitHub Actions、IPTV、validation、caching、parallelism。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ peaceiris/actions-gh-pages：peaceiris/actions-gh-pages may be useful when its R
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ peaceiris/actions-gh-pages：peaceiris/actions-gh-pages may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 85/100 |
+| quality | 80/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 79/100 |
+| production | 71/100 |
+| outlook | 72/100 |
 | adoption | 76/100 |
 | categoryMatchCount | 600/100 |
 | stars | 79/100 |
 | forks | 66/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
