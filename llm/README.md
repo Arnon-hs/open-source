@@ -13,8 +13,8 @@
 | 3 | [vellumlabs/llm-wiki-kit](./vellumlabs-llm-wiki-kit.md) | ⭐ — | — | 47/100 |
 | 4 | [yushman/slimspec](./yushman-slimspec.md) | ⭐ — | — | 46/100 |
 | 5 | [prashijain-ai/SponsorPulse-](./prashijain-ai-sponsorpulse-.md) | ⭐ — | HTML | 43/100 |
-| 6 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 36/100 |
-| 7 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 35/100 |
+| 6 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 35/100 |
+| 7 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 33/100 |
 | 8 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 30/100 |
 | 9 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 30/100 |
 | 10 | [huggingface/bitsandbytes](./huggingface-bitsandbytes.md) | ⭐ — | — | 24/100 |

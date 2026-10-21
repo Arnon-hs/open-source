@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SripadaError101/Great_Sage](./sripadaerror101-great-sage.md) | ⭐ — | Python | 39/100 |
+| 1 | [SripadaError101/Great_Sage](./sripadaerror101-great-sage.md) | ⭐ — | Python | 36/100 |
 
 ---
 

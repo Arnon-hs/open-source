@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AKSA119/breachpath](./aksa119-breachpath.md) | ⭐ — | Python | 39/100 |
+| 1 | [AKSA119/breachpath](./aksa119-breachpath.md) | ⭐ — | Python | 36/100 |
 
 ---
 
