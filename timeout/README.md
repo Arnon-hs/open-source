@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rain6fish/KeelBase](./rain6fish-keelbase.md) | ⭐ 2 | TypeScript | 64/100 |
+| 1 | [rain6fish/KeelBase](./rain6fish-keelbase.md) | ⭐ 2 | TypeScript | 61/100 |
 
 ---
 

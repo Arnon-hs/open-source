@@ -1,6 +1,6 @@
 # WebDecoy/geomcp
 
-[![Stars](https://img.shields.io/github/stars/WebDecoy/geomcp?style=flat-square&color=yellow)](https://github.com/WebDecoy/geomcp/stargazers) [![Forks](https://img.shields.io/github/forks/WebDecoy/geomcp?style=flat-square&color=blue)](https://github.com/WebDecoy/geomcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WebDecoy/geomcp?style=flat-square&color=yellow)](https://github.com/WebDecoy/geomcp/stargazers) [![Forks](https://img.shields.io/github/forks/WebDecoy/geomcp?style=flat-square&color=blue)](https://github.com/WebDecoy/geomcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-first GEO & SEO audits for AI assistants. Five MCP tools for HTML, structured data, crawler policies, sitemaps and before/after verification. Local-first. MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ WebDecoy/geomcp：WebDecoy/geomcp may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 59/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

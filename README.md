@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41335** |
-| **Categories** | **557** |
+| **Projects** | **41338** |
+| **Categories** | **554** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -24,10 +24,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 16314 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4440 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4442 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2804 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2345 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1585 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1586 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1425 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 940 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 887 | [Browse →](./frontend/) |
@@ -35,14 +35,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documents** | 688 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 647 | [Browse →](./networking/) |
 | 📱 **Mobile** | 639 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 612 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 613 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 601 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 536 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 514 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 496 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 459 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 428 | [Browse →](./communication/) |
-| 🔐 **Security** | 424 | [Browse →](./security/) |
+| 🔐 **Security** | 425 | [Browse →](./security/) |
 | 💳 **Payments** | 341 | [Browse →](./payments/) |
 | 📊 **Data** | 341 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 339 | [Browse →](./games--graphics/) |
@@ -61,7 +61,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 24 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
-| 🏷️ **Freelance** | 19 | [Browse →](./freelance/) |
+| 🏷️ **Freelance** | 18 | [Browse →](./freelance/) |
 | 🏷️ **Local-first** | 18 | [Browse →](./local-first/) |
 | 🏷️ **Local-ai** | 17 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 15 | [Browse →](./local-llm/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Graph-database** | 5 | [Browse →](./graph-database/) |
 | 🏷️ **Open-source-ai** | 5 | [Browse →](./open-source-ai/) |
 | 🏷️ **Github-actions** | 5 | [Browse →](./github-actions/) |
+| 🏷️ **Pdf** | 4 | [Browse →](./pdf/) |
 | 🏷️ **X402** | 4 | [Browse →](./x402/) |
 | 🏷️ **Text-to-speech** | 4 | [Browse →](./text-to-speech/) |
 | 🏷️ **Resume-parsing** | 4 | [Browse →](./resume-parsing/) |
@@ -140,7 +141,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Testing** | 2 | [Browse →](./testing/) |
 | 🏷️ **Github-copilot** | 2 | [Browse →](./github-copilot/) |
 | 🏷️ **Resume-analysis** | 2 | [Browse →](./resume-analysis/) |
-| 🏷️ **Pdf** | 2 | [Browse →](./pdf/) |
 | 🏷️ **Cybersecurity** | 2 | [Browse →](./cybersecurity/) |
 | 🏷️ **Resume-tailoring** | 2 | [Browse →](./resume-tailoring/) |
 | 🏷️ **Iam** | 2 | [Browse →](./iam/) |
@@ -397,9 +397,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Readme** | 1 | [Browse →](./readme/) |
 | 🏷️ **Ai-assistant** | 1 | [Browse →](./ai-assistant/) |
 | 🏷️ **Openweights** | 1 | [Browse →](./openweights/) |
-| 🏷️ **Cucumber** | 1 | [Browse →](./cucumber/) |
-| 🏷️ **Ai-generated-code** | 1 | [Browse →](./ai-generated-code/) |
-| 🏷️ **Release-notes** | 1 | [Browse →](./release-notes/) |
 | 🏷️ **Fastmcp** | 1 | [Browse →](./fastmcp/) |
 | 🏷️ **Clinical-trials** | 1 | [Browse →](./clinical-trials/) |
 | 🏷️ **Rag** | 1 | [Browse →](./rag/) |

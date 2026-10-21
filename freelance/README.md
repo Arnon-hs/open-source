@@ -2,7 +2,7 @@
 
 > 
 
-**19 projects** in this category.
+**18 projects** in this category.
 
 ## Projects
 
@@ -21,12 +21,11 @@
 | 11 | [vibhanshu-s/briefmint](./vibhanshu-s-briefmint.md) | ⭐ — | HTML | 36/100 |
 | 12 | [Kushaal-k/ScopeKit](./kushaal-k-scopekit.md) | ⭐ — | Python | 36/100 |
 | 13 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 36/100 |
-| 14 | [xenova/transformers](./xenova-transformers.md) | ⭐ 11 | Python | 35/100 |
-| 15 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 33/100 |
-| 16 | [google/gemma-3-4b-it](./google-gemma-3-4b-it.md) | ⭐ — | — | 27/100 |
-| 17 | [allenai/tabpfn](./allenai-tabpfn.md) | ⭐ — | — | 24/100 |
-| 18 | [ai-forever/tabpfn](./ai-forever-tabpfn.md) | ⭐ — | — | 24/100 |
-| 19 | [youchen-builds/scopesmith](./youchen-builds-scopesmith.md) | ⭐ — | — | 24/100 |
+| 14 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 33/100 |
+| 15 | [google/gemma-3-4b-it](./google-gemma-3-4b-it.md) | ⭐ — | — | 27/100 |
+| 16 | [allenai/tabpfn](./allenai-tabpfn.md) | ⭐ — | — | 24/100 |
+| 17 | [ai-forever/tabpfn](./ai-forever-tabpfn.md) | ⭐ — | — | 24/100 |
+| 18 | [youchen-builds/scopesmith](./youchen-builds-scopesmith.md) | ⭐ — | — | 24/100 |
 
 ---
 
