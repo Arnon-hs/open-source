@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [huzaifa-devpk/MenuMate-AI](./huzaifa-devpk-menumate-ai.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [huzaifa-devpk/MenuMate-AI](./huzaifa-devpk-menumate-ai.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 

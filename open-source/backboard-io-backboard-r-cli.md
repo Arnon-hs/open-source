@@ -1,6 +1,6 @@
 # Backboard-io/Backboard-R-CLI
 
-[![Stars](https://img.shields.io/github/stars/Backboard-io/Backboard-R-CLI?style=flat-square&color=yellow)](https://github.com/Backboard-io/Backboard-R-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/Backboard-io/Backboard-R-CLI?style=flat-square&color=blue)](https://github.com/Backboard-io/Backboard-R-CLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Backboard-io/Backboard-R-CLI?style=flat-square&color=yellow)](https://github.com/Backboard-io/Backboard-R-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/Backboard-io/Backboard-R-CLI?style=flat-square&color=blue)](https://github.com/Backboard-io/Backboard-R-CLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Backboard-io/Backboard-R-CLI：Backboard-io/Backboard-R-CLI may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 50/100 |
-| production | 64/100 |
-| outlook | 64/100 |
+| production | 58/100 |
+| outlook | 57/100 |
 | adoption | 40/100 |
 | categoryMatchCount | 600/100 |
 | stars | 43/100 |
 | forks | 32/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
