@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Omar8345/IMPACT](./omar8345-impact.md) | ⭐ — | Python | 46/100 |
+| 1 | [Omar8345/IMPACT](./omar8345-impact.md) | ⭐ — | Python | 43/100 |
 | 2 | [Omar8345/impact-checkout-demo](./omar8345-impact-checkout-demo.md) | ⭐ — | Python | 39/100 |
 
 ---

@@ -1,6 +1,6 @@
 # ZhengPeng7/BiRefNet
 
-[![Stars](https://img.shields.io/github/stars/ZhengPeng7/BiRefNet?style=flat-square&color=yellow)](https://github.com/ZhengPeng7/BiRefNet/stargazers) [![Forks](https://img.shields.io/github/forks/ZhengPeng7/BiRefNet?style=flat-square&color=blue)](https://github.com/ZhengPeng7/BiRefNet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZhengPeng7/BiRefNet?style=flat-square&color=yellow)](https://github.com/ZhengPeng7/BiRefNet/stargazers) [![Forks](https://img.shields.io/github/forks/ZhengPeng7/BiRefNet?style=flat-square&color=blue)](https://github.com/ZhengPeng7/BiRefNet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > [CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 342 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ ZhengPeng7/BiRefNet：ZhengPeng7/BiRefNet may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 78/100 |
+| production | 67/100 |
+| outlook | 71/100 |
 | adoption | 73/100 |
 | categoryMatchCount | 800/100 |
 | stars | 77/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

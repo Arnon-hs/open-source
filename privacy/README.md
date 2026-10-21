@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [gorakhargosh/watchdog](./gorakhargosh-watchdog.md) | ⭐ 7.4k | Python | 68/100 |
 | 2 | [xuebinqin/U-2-Net](./xuebinqin-u-2-net.md) | ⭐ 9.9k | Python | 66/100 |
-| 3 | [ZhengPeng7/BiRefNet](./zhengpeng7-birefnet.md) | ⭐ 4.3k | Python | 63/100 |
+| 3 | [ZhengPeng7/BiRefNet](./zhengpeng7-birefnet.md) | ⭐ 4.3k | Python | 60/100 |
 | 4 | [mattdesl/gifenc](./mattdesl-gifenc.md) | ⭐ 342 | JavaScript | 47/100 |
 | 5 | [RiyaDhami13/vaultdocs-ai](./riyadhami13-vaultdocs-ai.md) | ⭐ — | Python | 46/100 |
 | 6 | [matt-way/gifuct-js](./matt-way-gifuct-js.md) | ⭐ 519 | JavaScript | 45/100 |
