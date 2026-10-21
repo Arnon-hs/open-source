@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · tool count · Claude Code · Codex · Gemini · cost optimization · accuracy · tool naming · tool search
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ worklore/worklore-mcp: worklore/worklore-mcp helps connect AI assistants to real
 
 ### Русский
 
-worklore/worklore-mcp: open-source проект в категориях MCP, tool count, Claude Code, Codex, Gemini, cost optimization, accuracy, tool naming, tool search. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+worklore/worklore-mcp: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,18 +62,18 @@ worklore/worklore-mcp：worklore/worklore-mcp helps connect AI assistants to rea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 31/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 50/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 900/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 0/100 |
+| outlook | 50/100 |
+| quality | 31/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

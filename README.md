@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41346** |
+| **Projects** | **41353** |
 | **Categories** | **555** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16318 | [Browse →](./misc/) |
+| 📦 **Misc** | 16322 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4443 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2804 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2345 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1586 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1587 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1426 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 940 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 887 | [Browse →](./frontend/) |
@@ -58,7 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
-| 🏷️ **Ai-agents** | 24 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 27 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
 | 🏷️ **Freelance** | 18 | [Browse →](./freelance/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Graph-database** | 5 | [Browse →](./graph-database/) |
 | 🏷️ **Open-source-ai** | 5 | [Browse →](./open-source-ai/) |
 | 🏷️ **Github-actions** | 5 | [Browse →](./github-actions/) |
+| 🏷️ **Php** | 4 | [Browse →](./php/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Pdf** | 4 | [Browse →](./pdf/) |
 | 🏷️ **X402** | 4 | [Browse →](./x402/) |
@@ -114,14 +115,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agentic-workflows** | 3 | [Browse →](./agentic-workflows/) |
 | 🏷️ **Small-business** | 3 | [Browse →](./small-business/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
-| 🏷️ **Php** | 3 | [Browse →](./php/) |
 | 🏷️ **Embedded** | 3 | [Browse →](./embedded/) |
 | 🏷️ **Offline-checks** | 3 | [Browse →](./offline-checks/) |
 | 🏷️ **Minecraft** | 3 | [Browse →](./minecraft/) |
 | 🏷️ **Bug-bounty** | 3 | [Browse →](./bug-bounty/) |
 | 🏷️ **3d** | 3 | [Browse →](./3d/) |
 | 🏷️ **Invoice-generation** | 3 | [Browse →](./invoice-generation/) |
-| 🏷️ **Terminal** | 3 | [Browse →](./terminal/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
@@ -170,7 +169,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hysteria2** | 2 | [Browse →](./hysteria2/) |
 | 🏷️ **Tmux** | 2 | [Browse →](./tmux/) |
 | 🏷️ **Forecasting** | 2 | [Browse →](./forecasting/) |
-| 🏷️ **Birdwatching** | 2 | [Browse →](./birdwatching/) |
 | 🏷️ **Ai-code-review** | 2 | [Browse →](./ai-code-review/) |
 | 🏷️ **Banking** | 2 | [Browse →](./banking/) |
 | 🏷️ **Visualization** | 2 | [Browse →](./visualization/) |
@@ -201,6 +199,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
 | 🏷️ **Video-generation** | 2 | [Browse →](./video-generation/) |
 | 🏷️ **Resume** | 2 | [Browse →](./resume/) |
+| 🏷️ **Terminal** | 2 | [Browse →](./terminal/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
@@ -374,6 +373,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Policy** | 1 | [Browse →](./policy/) |
 | 🏷️ **Tiffin** | 1 | [Browse →](./tiffin/) |
 | 🏷️ **Lease-abstraction** | 1 | [Browse →](./lease-abstraction/) |
+| 🏷️ **Birdwatching** | 1 | [Browse →](./birdwatching/) |
 | 🏷️ **Ai-agent-payments** | 1 | [Browse →](./ai-agent-payments/) |
 | 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Image-processing** | 1 | [Browse →](./image-processing/) |

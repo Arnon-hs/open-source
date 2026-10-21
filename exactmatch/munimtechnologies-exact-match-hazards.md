@@ -1,6 +1,6 @@
 # munimtechnologies/exact-match-hazards
 
-[![Stars](https://img.shields.io/github/stars/munimtechnologies/exact-match-hazards?style=flat-square&color=yellow)](https://github.com/munimtechnologies/exact-match-hazards/stargazers) [![Forks](https://img.shields.io/github/forks/munimtechnologies/exact-match-hazards?style=flat-square&color=blue)](https://github.com/munimtechnologies/exact-match-hazards/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/munimtechnologies/exact-match-hazards?style=flat-square&color=yellow)](https://github.com/munimtechnologies/exact-match-hazards/stargazers) [![Forks](https://img.shields.io/github/forks/munimtechnologies/exact-match-hazards?style=flat-square&color=blue)](https://github.com/munimtechnologies/exact-match-hazards/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Execution-verified hazard corpus for HuggingFace evaluate exact_match text normalization. Made with AI by MV2 of Munim, Inc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ munimtechnologies/exact-match-hazards：munimtechnologies/exact-match-hazards ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 50/100 |
+| production | 51/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

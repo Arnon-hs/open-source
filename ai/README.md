@@ -23,8 +23,8 @@
 | 13 | [Divyansh0208/GigLift](./divyansh0208-giglift.md) | ⭐ — | Python | 49/100 |
 | 14 | [amrit-dash/testmadeeasy](./amrit-dash-testmadeeasy.md) | ⭐ — | TypeScript | 47/100 |
 | 15 | [NullClassifier/nocturne](./nullclassifier-nocturne.md) | ⭐ — | Python | 47/100 |
-| 16 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 47/100 |
-| 17 | [jhusk003/multi-workflow-ai](./jhusk003-multi-workflow-ai.md) | ⭐ — | Python | 44/100 |
+| 16 | [jhusk003/multi-workflow-ai](./jhusk003-multi-workflow-ai.md) | ⭐ — | Python | 44/100 |
+| 17 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 44/100 |
 | 18 | [miilo-ai/miilo-cli](./miilo-ai-miilo-cli.md) | ⭐ — | Rust | 44/100 |
 | 19 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |
 | 20 | [compteccharan/TrustIntern](./compteccharan-trustintern.md) | ⭐ — | Python | 43/100 |
