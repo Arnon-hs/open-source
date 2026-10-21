@@ -662,8 +662,8 @@
 | 652 | [hetznercloud/cli](./hetznercloud-cli.md) | ⭐ 1.7k | Go | 63/100 |
 | 653 | [GoogleChrome/lighthouse](./googlechrome-lighthouse.md) | ⭐ 30.2k | JavaScript | 63/100 |
 | 654 | [noborus/ov](./noborus-ov.md) | ⭐ 1.9k | Go | 63/100 |
-| 655 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
-| 656 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.1k | C# | 63/100 |
+| 655 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.1k | C# | 63/100 |
+| 656 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
 | 657 | [backstage/backstage](./backstage-backstage.md) | ⭐ 33.3k | TypeScript | 63/100 |
 | 658 | [maximilianfeix/dockdu](./maximilianfeix-dockdu.md) | ⭐ — | Go | 62/100 |
 | 659 | [conflint/conflint](./conflint-conflint.md) | ⭐ — | Python | 62/100 |
@@ -815,8 +815,8 @@
 | 805 | [techouse/mysql-to-sqlite3](./techouse-mysql-to-sqlite3.md) | ⭐ 268 | Python | 61/100 |
 | 806 | [joknarf/pgtree](./joknarf-pgtree.md) | ⭐ 39 | Shell | 61/100 |
 | 807 | [swiftlang/swift-build](./swiftlang-swift-build.md) | ⭐ 2.2k | Swift | 61/100 |
-| 808 | [wp-cli/profile-command](./wp-cli-profile-command.md) | ⭐ 293 | PHP | 61/100 |
-| 809 | [wp-cli/entity-command](./wp-cli-entity-command.md) | ⭐ 105 | PHP | 61/100 |
+| 808 | [wp-cli/entity-command](./wp-cli-entity-command.md) | ⭐ 105 | PHP | 61/100 |
+| 809 | [wp-cli/profile-command](./wp-cli-profile-command.md) | ⭐ 293 | PHP | 61/100 |
 | 810 | [ad-si/TaskLite](./ad-si-tasklite.md) | ⭐ 282 | Elm | 61/100 |
 | 811 | [MicrosoftDocs/edge-developer](./microsoftdocs-edge-developer.md) | ⭐ 434 | JavaScript | 61/100 |
 | 812 | [alexdlaird/amazon-orders](./alexdlaird-amazon-orders.md) | ⭐ 143 | Python | 61/100 |
@@ -1241,8 +1241,8 @@
 | 1231 | [maximecb/uvm](./maximecb-uvm.md) | ⭐ 587 | Rust | 55/100 |
 | 1232 | [rust-fuzz/afl.rs](./rust-fuzz-afl.rs.md) | ⭐ 1.8k | Rust | 55/100 |
 | 1233 | [inko-lang/inko](./inko-lang-inko.md) | ⭐ 1.3k | Rust | 55/100 |
-| 1234 | [pkgforge/soar](./pkgforge-soar.md) | ⭐ 792 | Rust | 55/100 |
-| 1235 | [nico81/iContainer](./nico81-icontainer.md) | ⭐ 132 | Swift | 55/100 |
+| 1234 | [nico81/iContainer](./nico81-icontainer.md) | ⭐ 132 | Swift | 55/100 |
+| 1235 | [pkgforge/soar](./pkgforge-soar.md) | ⭐ 792 | Rust | 55/100 |
 | 1236 | [phpstan/phpstan-phpunit](./phpstan-phpstan-phpunit.md) | ⭐ 533 | PHP | 55/100 |
 | 1237 | [kaelzhang/shell-safe-rm](./kaelzhang-shell-safe-rm.md) | ⭐ 599 | JavaScript | 55/100 |
 | 1238 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 55/100 |
