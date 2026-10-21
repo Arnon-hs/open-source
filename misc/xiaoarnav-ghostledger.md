@@ -1,6 +1,6 @@
 # XiaoArnav/ghostledger
 
-[![Stars](https://img.shields.io/github/stars/XiaoArnav/ghostledger?style=flat-square&color=yellow)](https://github.com/XiaoArnav/ghostledger/stargazers) [![Forks](https://img.shields.io/github/forks/XiaoArnav/ghostledger?style=flat-square&color=blue)](https://github.com/XiaoArnav/ghostledger/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XiaoArnav/ghostledger?style=flat-square&color=yellow)](https://github.com/XiaoArnav/ghostledger/stargazers) [![Forks](https://img.shields.io/github/forks/XiaoArnav/ghostledger?style=flat-square&color=blue)](https://github.com/XiaoArnav/ghostledger/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ XiaoArnav/ghostledger：XiaoArnav/ghostledger may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 18/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 53/100 |
+| outlook | 55/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 0/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

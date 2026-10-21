@@ -1,6 +1,6 @@
 # Nethusha2007/ballerina-bookstore-api
 
-[![Stars](https://img.shields.io/github/stars/Nethusha2007/ballerina-bookstore-api?style=flat-square&color=yellow)](https://github.com/Nethusha2007/ballerina-bookstore-api/stargazers) [![Forks](https://img.shields.io/github/forks/Nethusha2007/ballerina-bookstore-api?style=flat-square&color=blue)](https://github.com/Nethusha2007/ballerina-bookstore-api/network) [![Language](https://img.shields.io/badge/lang-Ballerina-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nethusha2007/ballerina-bookstore-api?style=flat-square&color=yellow)](https://github.com/Nethusha2007/ballerina-bookstore-api/stargazers) [![Forks](https://img.shields.io/github/forks/Nethusha2007/ballerina-bookstore-api?style=flat-square&color=blue)](https://github.com/Nethusha2007/ballerina-bookstore-api/network) [![Language](https://img.shields.io/badge/lang-Ballerina-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Ballerina |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | 2026-09-21 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ Nethusha2007/ballerina-bookstore-api：Nethusha2007/ballerina-bookstore-api may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 26/100 |
+| quality | 21/100 |
 | integration | 34/100 |
-| production | 43/100 |
-| outlook | 40/100 |
+| production | 36/100 |
+| outlook | 33/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

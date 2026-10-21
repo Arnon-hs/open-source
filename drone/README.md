@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [lily1c/la-hacks-2026](./lily1c-la-hacks-2026.md) | ⭐ — | Python | 42/100 |
+| 1 | [lily1c/la-hacks-2026](./lily1c-la-hacks-2026.md) | ⭐ — | Python | 39/100 |
 
 ---
 
