@@ -13,8 +13,8 @@
 | 3 | [Moin105/briefquote](./moin105-briefquote.md) | ⭐ — | Python | 51/100 |
 | 4 | [Razorbillworks/scopecheck](./razorbillworks-scopecheck.md) | ⭐ — | Python | 46/100 |
 | 5 | [VIKRAM-009/quotecraft](./vikram-009-quotecraft.md) | ⭐ — | Python | 39/100 |
-| 6 | [RajJasani/contractguard](./rajjasani-contractguard.md) | ⭐ — | Python | 39/100 |
-| 7 | [radhikaaa25/ScopeGuard](./radhikaaa25-scopeguard.md) | ⭐ — | TypeScript | 39/100 |
+| 6 | [RajJasani/contractguard](./rajjasani-contractguard.md) | ⭐ — | Python | 36/100 |
+| 7 | [radhikaaa25/ScopeGuard](./radhikaaa25-scopeguard.md) | ⭐ — | TypeScript | 36/100 |
 | 8 | [Aryan1092raj/ScopeShield](./aryan1092raj-scopeshield.md) | ⭐ — | Python | 36/100 |
 | 9 | [jaivintretiya16-04/freelance-shield-os](./jaivintretiya16-04-freelance-shield-os.md) | ⭐ — | Python | 36/100 |
 | 10 | [vibhanshu-s/briefmint](./vibhanshu-s-briefmint.md) | ⭐ — | HTML | 36/100 |

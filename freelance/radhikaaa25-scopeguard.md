@@ -1,6 +1,6 @@
 # radhikaaa25/ScopeGuard
 
-[![Stars](https://img.shields.io/github/stars/radhikaaa25/ScopeGuard?style=flat-square&color=yellow)](https://github.com/radhikaaa25/ScopeGuard/stargazers) [![Forks](https://img.shields.io/github/forks/radhikaaa25/ScopeGuard?style=flat-square&color=blue)](https://github.com/radhikaaa25/ScopeGuard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/radhikaaa25/ScopeGuard?style=flat-square&color=yellow)](https://github.com/radhikaaa25/ScopeGuard/stargazers) [![Forks](https://img.shields.io/github/forks/radhikaaa25/ScopeGuard?style=flat-square&color=blue)](https://github.com/radhikaaa25/ScopeGuard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ freelance · scope creep · privacy · local AI · open source · contract manag
 
 ### English
 
-radhikaaa25/ScopeGuard: radhikaaa25/ScopeGuard may be useful when its README and activity match a concrete workflow.. Use it for freelance, scope creep, privacy, local AI, open source, contract management. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+radhikaaa25/ScopeGuard: radhikaaa25/ScopeGuard may be useful when its README and activity match a concrete workflow.. Use it for freelance, scope creep, privacy, local AI, open source, contract management. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-radhikaaa25/ScopeGuard: open-source проект в категориях freelance, scope creep, privacy, local AI, open source, contract management. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+radhikaaa25/ScopeGuard: open-source проект в категориях freelance, scope creep, privacy, local AI, open source, contract management. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-radhikaaa25/ScopeGuard：radhikaaa25/ScopeGuard may be useful when its README and activity match a concrete workflow.。适合用于freelance、scope creep、privacy、local AI、open source、contract management。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+radhikaaa25/ScopeGuard：radhikaaa25/ScopeGuard may be useful when its README and activity match a concrete workflow.。适合用于freelance、scope creep、privacy、local AI、open source、contract management。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ radhikaaa25/ScopeGuard：radhikaaa25/ScopeGuard may be useful when its README an
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,15 +61,15 @@ radhikaaa25/ScopeGuard：radhikaaa25/ScopeGuard may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 34/100 |
-| production | 56/100 |
-| outlook | 50/100 |
+| production | 49/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

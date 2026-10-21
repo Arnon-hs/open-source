@@ -1,6 +1,6 @@
 # open-ani/mediamp
 
-[![Stars](https://img.shields.io/github/stars/open-ani/mediamp?style=flat-square&color=yellow)](https://github.com/open-ani/mediamp/stargazers) [![Forks](https://img.shields.io/github/forks/open-ani/mediamp?style=flat-square&color=blue)](https://github.com/open-ani/mediamp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-ani/mediamp?style=flat-square&color=yellow)](https://github.com/open-ani/mediamp/stargazers) [![Forks](https://img.shields.io/github/forks/open-ani/mediamp?style=flat-square&color=blue)](https://github.com/open-ani/mediamp/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Video / audio player for Compose Multiplatform.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 30 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ open-ani/mediamp：open-ani/mediamp may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 61/100 |
+| outlook | 64/100 |
 | adoption | 44/100 |
 | categoryMatchCount | 900/100 |
 | stars | 46/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
