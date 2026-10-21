@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [roshcompanylabs/cra-kit](./roshcompanylabs-cra-kit.md) | ⭐ — | JavaScript | 46/100 |
+| 1 | [roshcompanylabs/cra-kit](./roshcompanylabs-cra-kit.md) | ⭐ — | JavaScript | 43/100 |
 
 ---
 

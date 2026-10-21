@@ -1,6 +1,6 @@
 # susmitaPersonal/soloops-ai
 
-[![Stars](https://img.shields.io/github/stars/susmitaPersonal/soloops-ai?style=flat-square&color=yellow)](https://github.com/susmitaPersonal/soloops-ai/stargazers) [![Forks](https://img.shields.io/github/forks/susmitaPersonal/soloops-ai?style=flat-square&color=blue)](https://github.com/susmitaPersonal/soloops-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/susmitaPersonal/soloops-ai?style=flat-square&color=yellow)](https://github.com/susmitaPersonal/soloops-ai/stargazers) [![Forks](https://img.shields.io/github/forks/susmitaPersonal/soloops-ai?style=flat-square&color=blue)](https://github.com/susmitaPersonal/soloops-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source ops assistant for freelance developers: baseline scope, version change requests, record client approvals against a content hash, and bill only approved work. AI suggestions are optional and advisory. Next.js, Hono, MongoDB.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ susmitaPersonal/soloops-ai：susmitaPersonal/soloops-ai may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 54/100 |
+| production | 55/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
