@@ -1,6 +1,6 @@
 # Mi-Bee-Studio/MiBeeNvr
 
-[![Stars](https://img.shields.io/github/stars/Mi-Bee-Studio/MiBeeNvr?style=flat-square&color=yellow)](https://github.com/Mi-Bee-Studio/MiBeeNvr/stargazers) [![Forks](https://img.shields.io/github/forks/Mi-Bee-Studio/MiBeeNvr?style=flat-square&color=blue)](https://github.com/Mi-Bee-Studio/MiBeeNvr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mi-Bee-Studio/MiBeeNvr?style=flat-square&color=yellow)](https://github.com/Mi-Bee-Studio/MiBeeNvr/stargazers) [![Forks](https://img.shields.io/github/forks/Mi-Bee-Studio/MiBeeNvr?style=flat-square&color=blue)](https://github.com/Mi-Bee-Studio/MiBeeNvr/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight self-hosted NVR in Go — single static binary, zero dependencies, embedded web UI. RTSP/ONVIF/Xiaomi/GB28181/WHIP cameras, RTMP/SRT push-in, WebRTC/HLS/FLV live view, audio, timelapse, continuous playback, S3 offload, browser-side AI detection. Runs on low-power ARM.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 154 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Mi-Bee-Studio/MiBeeNvr：Mi-Bee-Studio/MiBeeNvr may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 65/100 |
+| outlook | 67/100 |
 | adoption | 43/100 |
 | categoryMatchCount | 600/100 |
 | stars | 47/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
