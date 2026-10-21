@@ -1,6 +1,6 @@
 # bikrampun/restock
 
-[![Stars](https://img.shields.io/github/stars/bikrampun/restock?style=flat-square&color=yellow)](https://github.com/bikrampun/restock/stargazers) [![Forks](https://img.shields.io/github/forks/bikrampun/restock?style=flat-square&color=blue)](https://github.com/bikrampun/restock/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bikrampun/restock?style=flat-square&color=yellow)](https://github.com/bikrampun/restock/stargazers) [![Forks](https://img.shields.io/github/forks/bikrampun/restock?style=flat-square&color=blue)](https://github.com/bikrampun/restock/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Next week's demand per item for small shops, forecast with TabPFN (open-weight tabular model). Hacktoberfest 2026 DEV challenge.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ bikrampun/restock：bikrampun/restock may be useful when its README and activity
 - primary language: Python
 - 7 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 62/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

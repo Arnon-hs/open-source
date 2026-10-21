@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [anshvarshney1502/parcelproof](./anshvarshney1502-parcelproof.md) | ⭐ 1 | TypeScript | 51/100 |
+| 1 | [anshvarshney1502/parcelproof](./anshvarshney1502-parcelproof.md) | ⭐ 1 | TypeScript | 48/100 |
 
 ---
 

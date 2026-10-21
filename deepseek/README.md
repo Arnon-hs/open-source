@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [extracurricular-ai/dsh-filesnap](./extracurricular-ai-dsh-filesnap.md) | ⭐ 43 | TypeScript | 63/100 |
+| 1 | [mw00/project-maya](./mw00-project-maya.md) | ⭐ 1.4k | C++ | 77/100 |
 
 ---
 

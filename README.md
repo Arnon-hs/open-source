@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41458** |
-| **Categories** | **551** |
+| **Projects** | **41469** |
+| **Categories** | **554** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16373 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4458 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16378 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4459 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2805 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2350 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1588 | [Browse →](./devtools/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 941 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 887 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 786 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 690 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 691 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 648 | [Browse →](./networking/) |
 | 📱 **Mobile** | 640 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 614 | [Browse →](./knowledgerag/) |
@@ -127,6 +127,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Excel** | 2 | [Browse →](./excel/) |
 | 🏷️ **Debugging** | 2 | [Browse →](./debugging/) |
 | 🏷️ **Audio** | 2 | [Browse →](./audio/) |
 | 🏷️ **Linux** | 2 | [Browse →](./linux/) |
@@ -206,6 +207,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Deepseek** | 1 | [Browse →](./deepseek/) |
+| 🏷️ **Knowledge-management** | 1 | [Browse →](./knowledge-management/) |
+| 🏷️ **Decision-making** | 1 | [Browse →](./decision-making/) |
 | 🏷️ **Firefox** | 1 | [Browse →](./firefox/) |
 | 🏷️ **Hash-verification** | 1 | [Browse →](./hash-verification/) |
 | 🏷️ **Discord** | 1 | [Browse →](./discord/) |
@@ -568,7 +572,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
 | 🏷️ **Tiny-llm** | 1 | [Browse →](./tiny-llm/) |
 | 🏷️ **Pomodoro** | 1 | [Browse →](./pomodoro/) |
-| 🏷️ **Excel** | 1 | [Browse →](./excel/) |
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
 | 🏷️ **Cost-estimation** | 1 | [Browse →](./cost-estimation/) |
