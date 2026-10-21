@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41492** |
-| **Categories** | **556** |
+| **Projects** | **41495** |
+| **Categories** | **555** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16390 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4459 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16391 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4460 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2805 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2350 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1588 | [Browse →](./devtools/) |
@@ -35,7 +35,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Documents** | 692 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 648 | [Browse →](./networking/) |
 | 📱 **Mobile** | 640 | [Browse →](./mobile/) |
-| 🏷️ **Knowledgerag** | 615 | [Browse →](./knowledgerag/) |
+| 🏷️ **Knowledgerag** | 616 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 606 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 538 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 516 | [Browse →](./devopsinfra/) |
@@ -76,11 +76,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted** | 7 | [Browse →](./self-hosted/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **Python** | 7 | [Browse →](./python/) |
+| 🏷️ **Macos** | 6 | [Browse →](./macos/) |
 | 🏷️ **Telegram** | 6 | [Browse →](./telegram/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Rust** | 6 | [Browse →](./rust/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
-| 🏷️ **Macos** | 5 | [Browse →](./macos/) |
 | 🏷️ **Nextjs** | 5 | [Browse →](./nextjs/) |
 | 🏷️ **Android** | 5 | [Browse →](./android/) |
 | 🏷️ **Whatsapp** | 5 | [Browse →](./whatsapp/) |
@@ -391,7 +391,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Audio-drama** | 1 | [Browse →](./audio-drama/) |
 | 🏷️ **Policy** | 1 | [Browse →](./policy/) |
 | 🏷️ **Tiffin** | 1 | [Browse →](./tiffin/) |
-| 🏷️ **Lease-abstraction** | 1 | [Browse →](./lease-abstraction/) |
 | 🏷️ **Image-processing** | 1 | [Browse →](./image-processing/) |
 | 🏷️ **Banking** | 1 | [Browse →](./banking/) |
 | 🏷️ **Container** | 1 | [Browse →](./container/) |

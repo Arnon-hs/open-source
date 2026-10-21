@@ -12,11 +12,11 @@
 | 2 | [Yadnu14/LazySort-AI](./yadnu14-lazysort-ai.md) | ⭐ — | Python | 42/100 |
 | 3 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
 | 4 | [yagnik-satani-otelier/pausepoint-ai](./yagnik-satani-otelier-pausepoint-ai.md) | ⭐ — | JavaScript | 39/100 |
-| 5 | [rishabh-hasija/stockentry-guard](./rishabh-hasija-stockentry-guard.md) | ⭐ — | Python | 39/100 |
-| 6 | [ishavishwakarma29/WalkguideStudio](./ishavishwakarma29-walkguidestudio.md) | ⭐ — | Python | 39/100 |
-| 7 | [anshraj3060/snaplist](./anshraj3060-snaplist.md) | ⭐ — | JavaScript | 39/100 |
-| 8 | [souptik4572/tuition-setu](./souptik4572-tuition-setu.md) | ⭐ — | TypeScript | 39/100 |
-| 9 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 38/100 |
+| 5 | [ishavishwakarma29/WalkguideStudio](./ishavishwakarma29-walkguidestudio.md) | ⭐ — | Python | 39/100 |
+| 6 | [anshraj3060/snaplist](./anshraj3060-snaplist.md) | ⭐ — | JavaScript | 39/100 |
+| 7 | [souptik4572/tuition-setu](./souptik4572-tuition-setu.md) | ⭐ — | TypeScript | 39/100 |
+| 8 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 38/100 |
+| 9 | [rishabh-hasija/stockentry-guard](./rishabh-hasija-stockentry-guard.md) | ⭐ — | Python | 36/100 |
 | 10 | [Charlie-ai786/LocalAI-Sidekick](./charlie-ai786-localai-sidekick.md) | ⭐ — | TypeScript | 36/100 |
 | 11 | [SaifuddinM23/printbrief](./saifuddinm23-printbrief.md) | ⭐ — | JavaScript | 36/100 |
 | 12 | [Nivin-Sithija/ShadeWindow](./nivin-sithija-shadewindow.md) | ⭐ — | CSS | 36/100 |
