@@ -1,0 +1,82 @@
+# openziti/zrok
+
+[![Stars](https://img.shields.io/github/stars/openziti/zrok?style=flat-square&color=yellow)](https://github.com/openziti/zrok/stargazers) [![Forks](https://img.shields.io/github/forks/openziti/zrok?style=flat-square&color=blue)](https://github.com/openziti/zrok/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+
+> Secure internet sharing made simple.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 4.8k |
+| 🍴 **Forks** | 228 |
+| 💻 **Language** | Go |
+| 📈 **Score** | 63/100 |
+| 🗓️ **Last push** | 2026-10-21 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`file-sharing` `golang` `network` `peer-to-peer` `reverse-proxy` `security` `zero-trust`
+
+## 🎯 Categories
+
+AI agents · network tunneling · zrok · Vinkius · MCP · automation
+
+## 📝 Summary
+
+### English
+
+openziti/zrok: openziti/zrok may be useful when its README and activity match a concrete workflow.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+openziti/zrok: open-source проект в категориях AI agents, network tunneling, zrok, Vinkius, MCP, automation. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+openziti/zrok：openziti/zrok may be useful when its README and activity match a concrete workflow.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** openziti/zrok may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- connect AI agents to tools
+- ship Model Context Protocol servers
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 4783 GitHub stars
+- 228 forks
+- updated 2026-10-21
+- primary language: Go
+- 7 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 81/100 |
+| integration | 46/100 |
+| production | 74/100 |
+| outlook | 77/100 |
+| adoption | 73/100 |
+| categoryMatchCount | 600/100 |
+| stars | 78/100 |
+| forks | 59/100 |
+| recency | 100/100 |
+| topics | 88/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-21 · [View on GitHub](https://github.com/openziti/zrok) · [← Back to Ai-agents](./README.md)</sub>

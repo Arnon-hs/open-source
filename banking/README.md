@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [luoy16002-svg/tickmark](./luoy16002-svg-tickmark.md) | ⭐ — | TypeScript | 44/100 |
-| 2 | [google/gemma-4](./google-gemma-4.md) | ⭐ — | — | 27/100 |
+| 1 | [google/gemma-4](./google-gemma-4.md) | ⭐ — | — | 27/100 |
 
 ---
 
