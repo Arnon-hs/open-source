@@ -18,8 +18,8 @@
 | 8 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 52/100 |
 | 9 | [moshcoder/moshcode](./moshcoder-moshcode.md) | ⭐ 3 | JavaScript | 52/100 |
 | 10 | [farouqaldori/yapsketch](./farouqaldori-yapsketch.md) | ⭐ 11 | Swift | 51/100 |
-| 11 | [Divyansh0208/GigLift](./divyansh0208-giglift.md) | ⭐ — | Python | 49/100 |
-| 12 | [amrit-dash/testmadeeasy](./amrit-dash-testmadeeasy.md) | ⭐ — | TypeScript | 47/100 |
+| 11 | [amrit-dash/testmadeeasy](./amrit-dash-testmadeeasy.md) | ⭐ — | TypeScript | 47/100 |
+| 12 | [Divyansh0208/GigLift](./divyansh0208-giglift.md) | ⭐ — | Python | 46/100 |
 | 13 | [jhusk003/multi-workflow-ai](./jhusk003-multi-workflow-ai.md) | ⭐ — | Python | 44/100 |
 | 14 | [NullClassifier/nocturne](./nullclassifier-nocturne.md) | ⭐ — | Python | 44/100 |
 | 15 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 44/100 |
