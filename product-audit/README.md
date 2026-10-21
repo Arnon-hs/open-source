@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Emmimal/product-autopsy](./emmimal-product-autopsy.md) | ⭐ — | Python | 46/100 |
+| 1 | [Emmimal/product-autopsy](./emmimal-product-autopsy.md) | ⭐ — | Python | 43/100 |
 
 ---
 
