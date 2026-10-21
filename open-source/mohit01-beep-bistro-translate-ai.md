@@ -1,6 +1,6 @@
 # mohit01-beep/bistro-translate-ai
 
-[![Stars](https://img.shields.io/github/stars/mohit01-beep/bistro-translate-ai?style=flat-square&color=yellow)](https://github.com/mohit01-beep/bistro-translate-ai/stargazers) [![Forks](https://img.shields.io/github/forks/mohit01-beep/bistro-translate-ai?style=flat-square&color=blue)](https://github.com/mohit01-beep/bistro-translate-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mohit01-beep/bistro-translate-ai?style=flat-square&color=yellow)](https://github.com/mohit01-beep/bistro-translate-ai/stargazers) [![Forks](https://img.shields.io/github/forks/mohit01-beep/bistro-translate-ai?style=flat-square&color=blue)](https://github.com/mohit01-beep/bistro-translate-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Cultural Menu Translator & Allergen Sentinel for Independent Restaurants (Hacktoberfest 2026: Side Hustle)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ mohit01-beep/bistro-translate-ai：mohit01-beep/bistro-translate-ai may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fabwaseem/benchline](./fabwaseem-benchline.md) | ⭐ — | TypeScript | 63/100 |
+| 1 | [fabwaseem/benchline](./fabwaseem-benchline.md) | ⭐ — | TypeScript | 60/100 |
 
 ---
 

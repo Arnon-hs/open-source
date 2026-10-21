@@ -1,6 +1,6 @@
 # fabwaseem/benchline
 
-[![Stars](https://img.shields.io/github/stars/fabwaseem/benchline?style=flat-square&color=yellow)](https://github.com/fabwaseem/benchline/stargazers) [![Forks](https://img.shields.io/github/forks/fabwaseem/benchline?style=flat-square&color=blue)](https://github.com/fabwaseem/benchline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fabwaseem/benchline?style=flat-square&color=yellow)](https://github.com/fabwaseem/benchline/stargazers) [![Forks](https://img.shields.io/github/forks/fabwaseem/benchline?style=flat-square&color=blue)](https://github.com/fabwaseem/benchline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Free browser tools for developers, SEO and files, each also callable by AI agents through an MCP server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ fabwaseem/benchline：fabwaseem/benchline may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 70/100 |
+| production | 58/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

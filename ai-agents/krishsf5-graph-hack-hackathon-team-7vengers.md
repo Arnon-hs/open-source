@@ -1,6 +1,6 @@
 # krishsf5/Graph-Hack-Hackathon-Team-7vengers
 
-[![Stars](https://img.shields.io/github/stars/krishsf5/Graph-Hack-Hackathon-Team-7vengers?style=flat-square&color=yellow)](https://github.com/krishsf5/Graph-Hack-Hackathon-Team-7vengers/stargazers) [![Forks](https://img.shields.io/github/forks/krishsf5/Graph-Hack-Hackathon-Team-7vengers?style=flat-square&color=blue)](https://github.com/krishsf5/Graph-Hack-Hackathon-Team-7vengers/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krishsf5/Graph-Hack-Hackathon-Team-7vengers?style=flat-square&color=yellow)](https://github.com/krishsf5/Graph-Hack-Hackathon-Team-7vengers/stargazers) [![Forks](https://img.shields.io/github/forks/krishsf5/Graph-Hack-Hackathon-Team-7vengers?style=flat-square&color=blue)](https://github.com/krishsf5/Graph-Hack-Hackathon-Team-7vengers/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI agents · knowledge graph · multi-hop reasoning · explainability · Model C
 
 ### English
 
-krishsf5/Graph-Hack-Hackathon-Team-7vengers: krishsf5/Graph-Hack-Hackathon-Team-7vengers may be useful when its README and activity match a concrete workflow.. Use it for AI agents, knowledge graph, multi-hop reasoning, explainability, Model Context Protocol, JavaScript, TypeScript, Babel, FalkorDB. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+krishsf5/Graph-Hack-Hackathon-Team-7vengers: krishsf5/Graph-Hack-Hackathon-Team-7vengers may be useful when its README and activity match a concrete workflow.. Use it for AI agents, knowledge graph, multi-hop reasoning, explainability, Model Context Protocol, JavaScript, TypeScript, Babel, FalkorDB. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-krishsf5/Graph-Hack-Hackathon-Team-7vengers: open-source проект в категориях AI agents, knowledge graph, multi-hop reasoning, explainability, Model Context Protocol, JavaScript, TypeScript, Babel, FalkorDB. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+krishsf5/Graph-Hack-Hackathon-Team-7vengers: open-source проект в категориях AI agents, knowledge graph, multi-hop reasoning, explainability, Model Context Protocol, JavaScript, TypeScript, Babel, FalkorDB. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-krishsf5/Graph-Hack-Hackathon-Team-7vengers：krishsf5/Graph-Hack-Hackathon-Team-7vengers may be useful when its README and activity match a concrete workflow.。适合用于AI agents、knowledge graph、multi-hop reasoning、explainability、Model Context Protocol、JavaScript、TypeScript、Babel、FalkorDB。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+krishsf5/Graph-Hack-Hackathon-Team-7vengers：krishsf5/Graph-Hack-Hackathon-Team-7vengers may be useful when its README and activity match a concrete workflow.。适合用于AI agents、knowledge graph、multi-hop reasoning、explainability、Model Context Protocol、JavaScript、TypeScript、Babel、FalkorDB。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ krishsf5/Graph-Hack-Hackathon-Team-7vengers：krishsf5/Graph-Hack-Hackathon-Team
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ krishsf5/Graph-Hack-Hackathon-Team-7vengers：krishsf5/Graph-Hack-Hackathon-Team
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 18/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 48/100 |
+| outlook | 45/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 900/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

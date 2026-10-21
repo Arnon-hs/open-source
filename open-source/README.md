@@ -13,16 +13,16 @@
 | 3 | [excalibase/excalibase-graphql](./excalibase-excalibase-graphql.md) | ⭐ 32 | Java | 63/100 |
 | 4 | [mortennordbye/headroom](./mortennordbye-headroom.md) | ⭐ 10 | TypeScript | 60/100 |
 | 5 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 53/100 |
-| 6 | [mohit01-beep/bistro-translate-ai](./mohit01-beep-bistro-translate-ai.md) | ⭐ — | JavaScript | 44/100 |
-| 7 | [MathFe/leitor-notas-local](./mathfe-leitor-notas-local.md) | ⭐ — | Python | 43/100 |
-| 8 | [OWASP/BLT](./owasp-blt.md) | ⭐ — | HTML | 42/100 |
-| 9 | [sank8-2/listing-studio](./sank8-2-listing-studio.md) | ⭐ — | Python | 42/100 |
-| 10 | [joeylukoji/PanlyackErp](./joeylukoji-panlyackerp.md) | ⭐ — | Python | 39/100 |
-| 11 | [kushpatel8274/BizPilot-AI](./kushpatel8274-bizpilot-ai.md) | ⭐ — | Python | 39/100 |
-| 12 | [sanskarIN/SpeedPulse](./sanskarin-speedpulse.md) | ⭐ — | HTML | 39/100 |
-| 13 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
-| 14 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 37/100 |
-| 15 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 36/100 |
+| 6 | [MathFe/leitor-notas-local](./mathfe-leitor-notas-local.md) | ⭐ — | Python | 43/100 |
+| 7 | [OWASP/BLT](./owasp-blt.md) | ⭐ — | HTML | 42/100 |
+| 8 | [sank8-2/listing-studio](./sank8-2-listing-studio.md) | ⭐ — | Python | 42/100 |
+| 9 | [mohit01-beep/bistro-translate-ai](./mohit01-beep-bistro-translate-ai.md) | ⭐ — | JavaScript | 41/100 |
+| 10 | [kushpatel8274/BizPilot-AI](./kushpatel8274-bizpilot-ai.md) | ⭐ — | Python | 39/100 |
+| 11 | [sanskarIN/SpeedPulse](./sanskarin-speedpulse.md) | ⭐ — | HTML | 39/100 |
+| 12 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
+| 13 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 37/100 |
+| 14 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 36/100 |
+| 15 | [joeylukoji/PanlyackErp](./joeylukoji-panlyackerp.md) | ⭐ — | Python | 36/100 |
 | 16 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 36/100 |
 | 17 | [faujisot26-sketch/openforge](./faujisot26-sketch-openforge.md) | ⭐ — | JavaScript | 36/100 |
 | 18 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 36/100 |
