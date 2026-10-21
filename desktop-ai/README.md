@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [HuseynDeveloper/Mintu](./huseyndeveloper-mintu.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [HuseynDeveloper/Mintu](./huseyndeveloper-mintu.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 

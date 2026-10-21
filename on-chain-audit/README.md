@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [F-seal/claimproof](./f-seal-claimproof.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [F-seal/claimproof](./f-seal-claimproof.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

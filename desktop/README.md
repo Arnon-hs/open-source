@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [livrasand/Updainium](./livrasand-updainium.md) | ⭐ 15 | Svelte | 56/100 |
+| 1 | [livrasand/Updainium](./livrasand-updainium.md) | ⭐ 15 | Svelte | 53/100 |
 | 2 | [nodejs/sea](./nodejs-sea.md) | ⭐ — | — | 24/100 |
 
 ---

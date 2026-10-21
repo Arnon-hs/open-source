@@ -1,6 +1,6 @@
 # livrasand/Updainium
 
-[![Stars](https://img.shields.io/github/stars/livrasand/Updainium?style=flat-square&color=yellow)](https://github.com/livrasand/Updainium/stargazers) [![Forks](https://img.shields.io/github/forks/livrasand/Updainium?style=flat-square&color=blue)](https://github.com/livrasand/Updainium/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/livrasand/Updainium?style=flat-square&color=yellow)](https://github.com/livrasand/Updainium/stargazers) [![Forks](https://img.shields.io/github/forks/livrasand/Updainium?style=flat-square&color=blue)](https://github.com/livrasand/Updainium/network) [![Language](https://img.shields.io/badge/lang-Svelte-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Get desktop app updates straight from the source.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Svelte |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ livrasand/Updainium：livrasand/Updainium may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 69/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 22/100 |
 | categoryMatchCount | 700/100 |
 | stars | 26/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

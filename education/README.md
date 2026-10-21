@@ -39,7 +39,7 @@
 | 29 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 156 | Rust | 44/100 |
 | 30 | [mukul9116/fieldclass-ai](./mukul9116-fieldclass-ai.md) | ⭐ 1 | Python | 40/100 |
 | 31 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 39/100 |
-| 32 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 37/100 |
+| 32 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 34/100 |
 
 ---
 
