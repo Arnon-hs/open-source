@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [krotname/NppMarkdownTableEditor](./krotname-nppmarkdowntableeditor.md) | ⭐ 4 | C++ | 52/100 |
+| 1 | [godlymane/markdown-table-generator](./godlymane-markdown-table-generator.md) | ⭐ — | — | 27/100 |
 
 ---
 

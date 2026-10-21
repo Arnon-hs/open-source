@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [onkar-cybersec/AegisExec](./onkar-cybersec-aegisexec.md) | ⭐ — | — | 40/100 |
+| 1 | [chrismsmr-celcom/cerbere-AG](./chrismsmr-celcom-cerbere-ag.md) | ⭐ 7 | Python | 55/100 |
 
 ---
 

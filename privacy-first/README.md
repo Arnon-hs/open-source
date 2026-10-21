@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ronitsolanki-01/VaultExam](./ronitsolanki-01-vaultexam.md) | ⭐ — | Java | 39/100 |
+| 1 | [ronitsolanki-01/VaultExam](./ronitsolanki-01-vaultexam.md) | ⭐ — | Java | 36/100 |
 | 2 | [tejask011/Hacktober_TInyGarden](./tejask011-hacktober-tinygarden.md) | ⭐ — | JavaScript | 33/100 |
 
 ---

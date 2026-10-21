@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Mattbusel/tokio-prompt-orchestrator](./mattbusel-tokio-prompt-orchestrator.md) | ⭐ 59 | Rust | 63/100 |
+| 1 | [Mattbusel/tokio-prompt-orchestrator](./mattbusel-tokio-prompt-orchestrator.md) | ⭐ 59 | Rust | 60/100 |
 | 2 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 54/100 |
 | 3 | [vellumlabs/llm-wiki-kit](./vellumlabs-llm-wiki-kit.md) | ⭐ — | — | 47/100 |
 | 4 | [yushman/slimspec](./yushman-slimspec.md) | ⭐ — | — | 46/100 |
