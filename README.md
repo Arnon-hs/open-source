@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41353** |
+| **Projects** | **41355** |
 | **Categories** | **555** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16322 | [Browse →](./misc/) |
+| 📦 **Misc** | 16323 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4443 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2804 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2345 | [Browse →](./orchestration/) |
@@ -69,11 +69,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
 | 🏷️ **N8n** | 9 | [Browse →](./n8n/) |
 | 🏷️ **Ci** | 9 | [Browse →](./ci/) |
+| 🏷️ **Git** | 8 | [Browse →](./git/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **Python** | 7 | [Browse →](./python/) |
-| 🏷️ **Git** | 7 | [Browse →](./git/) |
 | 🏷️ **Telegram** | 6 | [Browse →](./telegram/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
