@@ -1,6 +1,6 @@
 # antoniahp/alma-receptionist
 
-[![Stars](https://img.shields.io/github/stars/antoniahp/alma-receptionist?style=flat-square&color=yellow)](https://github.com/antoniahp/alma-receptionist/stargazers) [![Forks](https://img.shields.io/github/forks/antoniahp/alma-receptionist?style=flat-square&color=blue)](https://github.com/antoniahp/alma-receptionist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antoniahp/alma-receptionist?style=flat-square&color=yellow)](https://github.com/antoniahp/alma-receptionist/stargazers) [![Forks](https://img.shields.io/github/forks/antoniahp/alma-receptionist?style=flat-square&color=blue)](https://github.com/antoniahp/alma-receptionist/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI receptionist for a one-person beauty salon. Aura (Gemma) answers clients 24/7 in Spanish and English, books appointments and hands health questions to the owner. Plus a simple dashboard: appointments, payments, client files and stock.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ antoniahp/alma-receptionist：antoniahp/alma-receptionist may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 57/100 |
+| production | 53/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 1000/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

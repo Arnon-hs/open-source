@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [antoniahp/alma-receptionist](./antoniahp-alma-receptionist.md) | ⭐ — | Python | 54/100 |
+| 1 | [antoniahp/alma-receptionist](./antoniahp-alma-receptionist.md) | ⭐ — | Python | 51/100 |
 
 ---
 
