@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41324** |
-| **Categories** | **554** |
+| **Projects** | **41329** |
+| **Categories** | **556** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16310 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4438 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2804 | [Browse →](./mcp/) |
+| 📦 **Misc** | 16312 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4439 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2805 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2345 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1584 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1424 | [Browse →](./automation/) |
@@ -61,7 +61,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 25 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
-| 🏷️ **Freelance** | 20 | [Browse →](./freelance/) |
+| 🏷️ **Freelance** | 19 | [Browse →](./freelance/) |
 | 🏷️ **Local-first** | 18 | [Browse →](./local-first/) |
 | 🏷️ **Local-ai** | 17 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Graph-database** | 5 | [Browse →](./graph-database/) |
 | 🏷️ **Open-source-ai** | 5 | [Browse →](./open-source-ai/) |
 | 🏷️ **Github-actions** | 5 | [Browse →](./github-actions/) |
+| 🏷️ **X402** | 4 | [Browse →](./x402/) |
 | 🏷️ **Text-to-speech** | 4 | [Browse →](./text-to-speech/) |
 | 🏷️ **Resume-parsing** | 4 | [Browse →](./resume-parsing/) |
 | 🏷️ **Documentation** | 4 | [Browse →](./documentation/) |
@@ -94,7 +95,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React** | 4 | [Browse →](./react/) |
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
-| 🏷️ **Small-business** | 4 | [Browse →](./small-business/) |
 | 🏷️ **Ecommerce** | 4 | [Browse →](./ecommerce/) |
 | 🏷️ **Openapi** | 4 | [Browse →](./openapi/) |
 | 🏷️ **Devsecops** | 4 | [Browse →](./devsecops/) |
@@ -102,7 +102,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Monitoring** | 3 | [Browse →](./monitoring/) |
-| 🏷️ **X402** | 3 | [Browse →](./x402/) |
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
@@ -111,6 +110,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
 | 🏷️ **Agentic-workflows** | 3 | [Browse →](./agentic-workflows/) |
+| 🏷️ **Small-business** | 3 | [Browse →](./small-business/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Php** | 3 | [Browse →](./php/) |
 | 🏷️ **Embedded** | 3 | [Browse →](./embedded/) |
@@ -207,6 +207,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Aiax** | 1 | [Browse →](./aiax/) |
+| 🏷️ **Postquantum** | 1 | [Browse →](./postquantum/) |
 | 🏷️ **Markdown** | 1 | [Browse →](./markdown/) |
 | 🏷️ **Ai-security** | 1 | [Browse →](./ai-security/) |
 | 🏷️ **Chrome-extension** | 1 | [Browse →](./chrome-extension/) |

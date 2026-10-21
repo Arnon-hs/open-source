@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [munimtechnologies/urdb-audit](./munimtechnologies-urdb-audit.md) | ⭐ — | Python | 42/100 |
+| 1 | [munimtechnologies/urdb-audit](./munimtechnologies-urdb-audit.md) | ⭐ — | Python | 39/100 |
 
 ---
 
