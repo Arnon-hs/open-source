@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [themsquared/agent-egress-rate-limits](./themsquared-agent-egress-rate-limits.md) | ⭐ — | Shell | 62/100 |
+| 1 | [hahahahahahahahah6/tool-throttle](./hahahahahahahahah6-tool-throttle.md) | ⭐ — | Python | 55/100 |
 
 ---
 

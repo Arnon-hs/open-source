@@ -2,15 +2,14 @@
 
 > 
 
-**3 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [koalaman/shellcheck](./koalaman-shellcheck.md) | ⭐ 40.1k | Haskell | 65/100 |
-| 2 | [bats-core/bats-core](./bats-core-bats-core.md) | ⭐ 6.3k | Shell | 63/100 |
-| 3 | [mvdan/sh](./mvdan-sh.md) | ⭐ 9.1k | Go | 62/100 |
+| 1 | [hahahahahahahahah6/agent-guard](./hahahahahahahahah6-agent-guard.md) | ⭐ 51 | Python | 61/100 |
+| 2 | [hahahahahahahahah6/bash-write-targets](./hahahahahahahahah6-bash-write-targets.md) | ⭐ — | Python | 36/100 |
 
 ---
 
