@@ -1,6 +1,6 @@
 # Y-elv/tapwait-waiter-api
 
-[![Stars](https://img.shields.io/github/stars/Y-elv/tapwait-waiter-api?style=flat-square&color=yellow)](https://github.com/Y-elv/tapwait-waiter-api/stargazers) [![Forks](https://img.shields.io/github/forks/Y-elv/tapwait-waiter-api?style=flat-square&color=blue)](https://github.com/Y-elv/tapwait-waiter-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Y-elv/tapwait-waiter-api?style=flat-square&color=yellow)](https://github.com/Y-elv/tapwait-waiter-api/stargazers) [![Forks](https://img.shields.io/github/forks/Y-elv/tapwait-waiter-api?style=flat-square&color=blue)](https://github.com/Y-elv/tapwait-waiter-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ restaurant · waitstaff · AI marketing · Flutter · Node.js · Gemini · Whats
 
 ### English
 
-Y-elv/tapwait-waiter-api: Y-elv/tapwait-waiter-api may be useful when its README and activity match a concrete workflow.. Use it for restaurant, waitstaff, AI marketing, Flutter, Node.js, Gemini, WhatsApp. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Y-elv/tapwait-waiter-api: Y-elv/tapwait-waiter-api may be useful when its README and activity match a concrete workflow.. Use it for restaurant, waitstaff, AI marketing, Flutter, Node.js, Gemini, WhatsApp. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Y-elv/tapwait-waiter-api: open-source проект в категориях restaurant, waitstaff, AI marketing, Flutter, Node.js, Gemini, WhatsApp. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Y-elv/tapwait-waiter-api: open-source проект в категориях restaurant, waitstaff, AI marketing, Flutter, Node.js, Gemini, WhatsApp. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Y-elv/tapwait-waiter-api：Y-elv/tapwait-waiter-api may be useful when its README and activity match a concrete workflow.。适合用于restaurant、waitstaff、AI marketing、Flutter、Node.js、Gemini、WhatsApp。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Y-elv/tapwait-waiter-api：Y-elv/tapwait-waiter-api may be useful when its README and activity match a concrete workflow.。适合用于restaurant、waitstaff、AI marketing、Flutter、Node.js、Gemini、WhatsApp。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Y-elv/tapwait-waiter-api：Y-elv/tapwait-waiter-api may be useful when its READM
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,15 +61,15 @@ Y-elv/tapwait-waiter-api：Y-elv/tapwait-waiter-api may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 34/100 |
-| production | 56/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

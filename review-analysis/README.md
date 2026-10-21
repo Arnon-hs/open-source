@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [KrAG2000/perforvisor](./krag2000-perforvisor.md) | ⭐ — | TypeScript | 46/100 |
+| 1 | [KrAG2000/perforvisor](./krag2000-perforvisor.md) | ⭐ — | TypeScript | 43/100 |
 
 ---
 
