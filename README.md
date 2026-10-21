@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41330** |
-| **Categories** | **556** |
+| **Projects** | **41335** |
+| **Categories** | **557** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16313 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4439 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2805 | [Browse →](./mcp/) |
+| 📦 **Misc** | 16314 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4440 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2804 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2345 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1584 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1424 | [Browse →](./automation/) |
+| 🔧 **DevTools** | 1585 | [Browse →](./devtools/) |
+| 🏷️ **Automation** | 1425 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 940 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 887 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 785 | [Browse →](./crypto/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 536 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 514 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 496 | [Browse →](./video-editing/) |
-| 🏷️ **Templates** | 458 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 459 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 428 | [Browse →](./communication/) |
 | 🔐 **Security** | 424 | [Browse →](./security/) |
 | 💳 **Payments** | 341 | [Browse →](./payments/) |
@@ -58,13 +58,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
-| 🏷️ **Ai-agents** | 25 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 24 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
 | 🏷️ **Freelance** | 19 | [Browse →](./freelance/) |
 | 🏷️ **Local-first** | 18 | [Browse →](./local-first/) |
 | 🏷️ **Local-ai** | 17 | [Browse →](./local-ai/) |
-| 🏷️ **Local-llm** | 14 | [Browse →](./local-llm/) |
+| 🏷️ **Local-llm** | 15 | [Browse →](./local-llm/) |
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
 | 🏷️ **N8n** | 9 | [Browse →](./n8n/) |
@@ -126,6 +126,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Audio-separation** | 2 | [Browse →](./audio-separation/) |
 | 🏷️ **Sync** | 2 | [Browse →](./sync/) |
 | 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
@@ -174,7 +175,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Banking** | 2 | [Browse →](./banking/) |
 | 🏷️ **Visualization** | 2 | [Browse →](./visualization/) |
 | 🏷️ **Supabase** | 2 | [Browse →](./supabase/) |
-| 🏷️ **Browser-automation** | 2 | [Browse →](./browser-automation/) |
 | 🏷️ **Ui** | 2 | [Browse →](./ui/) |
 | 🏷️ **Digital-products** | 2 | [Browse →](./digital-products/) |
 | 🏷️ **Embedding** | 2 | [Browse →](./embedding/) |
@@ -479,6 +479,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Raspberrypi** | 1 | [Browse →](./raspberrypi/) |
 | 🏷️ **Okf** | 1 | [Browse →](./okf/) |
 | 🏷️ **Raspberry-pi** | 1 | [Browse →](./raspberry-pi/) |
+| 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
 | 🏷️ **Neuroscience** | 1 | [Browse →](./neuroscience/) |
 | 🏷️ **Agent-evaluation** | 1 | [Browse →](./agent-evaluation/) |
 | 🏷️ **Clientside-validation** | 1 | [Browse →](./clientside-validation/) |
