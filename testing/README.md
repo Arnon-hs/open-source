@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [figueiredoluiz/vitest-dedup](./figueiredoluiz-vitest-dedup.md) | ⭐ 4 | Rust | 41/100 |
+| 1 | [figueiredoluiz/vitest-dedup](./figueiredoluiz-vitest-dedup.md) | ⭐ 4 | Rust | 38/100 |
 | 2 | [agentic-suite/agentwatch](./agentic-suite-agentwatch.md) | ⭐ — | — | 28/100 |
 
 ---
