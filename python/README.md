@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kiarashsardari/LYM](./kiarashsardari-lym.md) | ⭐ 1 | Python | 60/100 |
+| 1 | [kiarashsardari/LYM](./kiarashsardari-lym.md) | ⭐ 1 | Python | 57/100 |
 | 2 | [AmaLS367/InferWeave](./amals367-inferweave.md) | ⭐ 1 | Python | 53/100 |
 | 3 | [kraim0vv/patchlint](./kraim0vv-patchlint.md) | ⭐ 1 | Python | 44/100 |
 | 4 | [AmaLS367/CredWeave](./amals367-credweave.md) | ⭐ — | Python | 36/100 |

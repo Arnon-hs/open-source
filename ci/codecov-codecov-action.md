@@ -1,6 +1,6 @@
 # codecov/codecov-action
 
-[![Stars](https://img.shields.io/github/stars/codecov/codecov-action?style=flat-square&color=yellow)](https://github.com/codecov/codecov-action/stargazers) [![Forks](https://img.shields.io/github/forks/codecov/codecov-action?style=flat-square&color=blue)](https://github.com/codecov/codecov-action/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codecov/codecov-action?style=flat-square&color=yellow)](https://github.com/codecov/codecov-action/stargazers) [![Forks](https://img.shields.io/github/forks/codecov/codecov-action?style=flat-square&color=blue)](https://github.com/codecov/codecov-action/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > GitHub Action that uploads coverage to Codecov :open_umbrella:
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 258 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ codecov/codecov-action：codecov/codecov-action may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 64/100 |
+| outlook | 68/100 |
 | adoption | 66/100 |
 | categoryMatchCount | 800/100 |
 | stars | 69/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

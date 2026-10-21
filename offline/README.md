@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [opencv/opencv_zoo](./opencv-opencv-zoo.md) | ⭐ 1.1k | Python | 56/100 |
-| 2 | [tylan2001ody-del/merchant-ai-draft](./tylan2001ody-del-merchant-ai-draft.md) | ⭐ — | Python | 53/100 |
+| 2 | [tylan2001ody-del/merchant-ai-draft](./tylan2001ody-del-merchant-ai-draft.md) | ⭐ — | Python | 50/100 |
 | 3 | [magicstack-llp/zim-pro](./magicstack-llp-zim-pro.md) | ⭐ 2 | Python | 49/100 |
 | 4 | [ItsPriyamSri/sourcerer](./itspriyamsri-sourcerer.md) | ⭐ — | TypeScript | 47/100 |
 | 5 | [Wandercoil/lensit](./wandercoil-lensit.md) | ⭐ — | Python | 42/100 |

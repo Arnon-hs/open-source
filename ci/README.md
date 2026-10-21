@@ -11,7 +11,7 @@
 | 1 | [PramodBasavarajMenasi/siftwise](./pramodbasavarajmenasi-siftwise.md) | ⭐ 2 | Python | 68/100 |
 | 2 | [peaceiris/actions-gh-pages](./peaceiris-actions-gh-pages.md) | ⭐ 5.4k | TypeScript | 68/100 |
 | 3 | [gotestyourself/gotestsum](./gotestyourself-gotestsum.md) | ⭐ 2.7k | Go | 67/100 |
-| 4 | [codecov/codecov-action](./codecov-codecov-action.md) | ⭐ 1.7k | Python | 64/100 |
+| 4 | [codecov/codecov-action](./codecov-codecov-action.md) | ⭐ 1.7k | Python | 61/100 |
 | 5 | [oven-sh/setup-bun](./oven-sh-setup-bun.md) | ⭐ 728 | TypeScript | 60/100 |
 | 6 | [awalsh128/cache-apt-pkgs-action](./awalsh128-cache-apt-pkgs-action.md) | ⭐ 365 | Shell | 48/100 |
 | 7 | [JunaidAhamed-7777/groundhog-ci](./junaidahamed-7777-groundhog-ci.md) | ⭐ — | JavaScript | 42/100 |

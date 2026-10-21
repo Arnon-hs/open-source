@@ -23,14 +23,14 @@
 | 13 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
 | 14 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 37/100 |
 | 15 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 36/100 |
-| 16 | [Dev-Suraj-Dhawal/terraforge-studio](./dev-suraj-dhawal-terraforge-studio.md) | ⭐ — | JavaScript | 36/100 |
-| 17 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 36/100 |
-| 18 | [faujisot26-sketch/openforge](./faujisot26-sketch-openforge.md) | ⭐ — | JavaScript | 36/100 |
-| 19 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 36/100 |
-| 20 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 36/100 |
-| 21 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 36/100 |
-| 22 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 36/100 |
-| 23 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 36/100 |
+| 16 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 36/100 |
+| 17 | [faujisot26-sketch/openforge](./faujisot26-sketch-openforge.md) | ⭐ — | JavaScript | 36/100 |
+| 18 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 36/100 |
+| 19 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 36/100 |
+| 20 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 36/100 |
+| 21 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 36/100 |
+| 22 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 36/100 |
+| 23 | [Dev-Suraj-Dhawal/terraforge-studio](./dev-suraj-dhawal-terraforge-studio.md) | ⭐ — | JavaScript | 33/100 |
 | 24 | [pixelcrisscross/PrivaLedger-AI](./pixelcrisscross-privaledger-ai.md) | ⭐ — | JavaScript | 33/100 |
 | 25 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 33/100 |
 | 26 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 33/100 |
