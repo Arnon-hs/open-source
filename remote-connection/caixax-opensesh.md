@@ -1,6 +1,6 @@
 # caixax/opensesh
 
-[![Stars](https://img.shields.io/github/stars/caixax/opensesh?style=flat-square&color=yellow)](https://github.com/caixax/opensesh/stargazers) [![Forks](https://img.shields.io/github/forks/caixax/opensesh?style=flat-square&color=blue)](https://github.com/caixax/opensesh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caixax/opensesh?style=flat-square&color=yellow)](https://github.com/caixax/opensesh/stargazers) [![Forks](https://img.shields.io/github/forks/caixax/opensesh?style=flat-square&color=blue)](https://github.com/caixax/opensesh/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Open source, cross-platform remote connections client (SSH, SFTP, tunnels, terminal, RDP, VNC) in Rust and Qt 6/QML
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ remote-connection · open-source · rust · qt · cross-platform · security
 
 ### English
 
-caixax/opensesh: caixax/opensesh may be useful when its README and activity match a concrete workflow.. Use it for remote-connection, open-source, rust, qt, cross-platform, security. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+caixax/opensesh: caixax/opensesh may be useful when its README and activity match a concrete workflow.. Use it for remote-connection, open-source, rust, qt, cross-platform, security. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-caixax/opensesh: open-source проект в категориях remote-connection, open-source, rust, qt, cross-platform, security. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+caixax/opensesh: open-source проект в категориях remote-connection, open-source, rust, qt, cross-platform, security. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-caixax/opensesh：caixax/opensesh may be useful when its README and activity match a concrete workflow.。适合用于remote-connection、open-source、rust、qt、cross-platform、security。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+caixax/opensesh：caixax/opensesh may be useful when its README and activity match a concrete workflow.。适合用于remote-connection、open-source、rust、qt、cross-platform、security。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ caixax/opensesh：caixax/opensesh may be useful when its README and activity mat
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ caixax/opensesh：caixax/opensesh may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 53/100 |
+| production | 48/100 |
+| outlook | 46/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

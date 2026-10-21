@@ -11,7 +11,7 @@
 | 1 | [susmitaPersonal/soloops-ai](./susmitapersonal-soloops-ai.md) | ⭐ — | TypeScript | 53/100 |
 | 2 | [kleogeos/awesome-freelance-tools](./kleogeos-awesome-freelance-tools.md) | ⭐ — | — | 53/100 |
 | 3 | [Moin105/briefquote](./moin105-briefquote.md) | ⭐ — | Python | 51/100 |
-| 4 | [Razorbillworks/scopecheck](./razorbillworks-scopecheck.md) | ⭐ — | Python | 46/100 |
+| 4 | [Razorbillworks/scopecheck](./razorbillworks-scopecheck.md) | ⭐ — | Python | 43/100 |
 | 5 | [VIKRAM-009/quotecraft](./vikram-009-quotecraft.md) | ⭐ — | Python | 39/100 |
 | 6 | [RajJasani/contractguard](./rajjasani-contractguard.md) | ⭐ — | Python | 36/100 |
 | 7 | [radhikaaa25/ScopeGuard](./radhikaaa25-scopeguard.md) | ⭐ — | TypeScript | 36/100 |

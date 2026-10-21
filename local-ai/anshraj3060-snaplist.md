@@ -1,6 +1,6 @@
 # anshraj3060/snaplist
 
-[![Stars](https://img.shields.io/github/stars/anshraj3060/snaplist?style=flat-square&color=yellow)](https://github.com/anshraj3060/snaplist/stargazers) [![Forks](https://img.shields.io/github/forks/anshraj3060/snaplist?style=flat-square&color=blue)](https://github.com/anshraj3060/snaplist/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anshraj3060/snaplist?style=flat-square&color=yellow)](https://github.com/anshraj3060/snaplist/stargazers) [![Forks](https://img.shields.io/github/forks/anshraj3060/snaplist?style=flat-square&color=blue)](https://github.com/anshraj3060/snaplist/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Photos in, store-ready listing out. A local AI listing writer for Etsy/eBay sellers, built on open-weight Gemma 3 via Ollama. No data leaves your machine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ local-ai · vision-model · Etsy · eBay · product-listing · Gemma3 · Ollama 
 
 ### English
 
-anshraj3060/snaplist: anshraj3060/snaplist may be useful when its README and activity match a concrete workflow.. Use it for local-ai, vision-model, Etsy, eBay, product-listing, Gemma3, Ollama, desktop-app. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+anshraj3060/snaplist: anshraj3060/snaplist may be useful when its README and activity match a concrete workflow.. Use it for local-ai, vision-model, Etsy, eBay, product-listing, Gemma3, Ollama, desktop-app. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-anshraj3060/snaplist: open-source проект в категориях local-ai, vision-model, Etsy, eBay, product-listing, Gemma3, Ollama, desktop-app. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+anshraj3060/snaplist: open-source проект в категориях local-ai, vision-model, Etsy, eBay, product-listing, Gemma3, Ollama, desktop-app. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-anshraj3060/snaplist：anshraj3060/snaplist may be useful when its README and activity match a concrete workflow.。适合用于local-ai、vision-model、Etsy、eBay、product-listing、Gemma3、Ollama、desktop-app。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+anshraj3060/snaplist：anshraj3060/snaplist may be useful when its README and activity match a concrete workflow.。适合用于local-ai、vision-model、Etsy、eBay、product-listing、Gemma3、Ollama、desktop-app。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ anshraj3060/snaplist：anshraj3060/snaplist may be useful when its README and ac
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,15 +61,15 @@ anshraj3060/snaplist：anshraj3060/snaplist may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 50/100 |
+| production | 49/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

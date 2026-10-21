@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [caixax/opensesh](./caixax-opensesh.md) | ⭐ — | Rust | 46/100 |
+| 1 | [caixax/opensesh](./caixax-opensesh.md) | ⭐ — | Rust | 43/100 |
 
 ---
 
