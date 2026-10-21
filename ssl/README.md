@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [acmesh-official/acme.sh](./acmesh-official-acme.sh.md) | ⭐ 47.8k | Shell | 78/100 |
+| 1 | [acmesh-official/acme.sh](./acmesh-official-acme.sh.md) | ⭐ 47.8k | Shell | 75/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41340** |
-| **Categories** | **554** |
+| **Projects** | **41345** |
+| **Categories** | **555** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16316 | [Browse →](./misc/) |
+| 📦 **Misc** | 16318 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4442 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2804 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2345 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1586 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1425 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1426 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 940 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 887 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 785 | [Browse →](./crypto/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Graph-database** | 5 | [Browse →](./graph-database/) |
 | 🏷️ **Open-source-ai** | 5 | [Browse →](./open-source-ai/) |
 | 🏷️ **Github-actions** | 5 | [Browse →](./github-actions/) |
+| 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Pdf** | 4 | [Browse →](./pdf/) |
 | 🏷️ **X402** | 4 | [Browse →](./x402/) |
 | 🏷️ **Text-to-speech** | 4 | [Browse →](./text-to-speech/) |
@@ -125,7 +126,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
-| 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
 | 🏷️ **Audio-separation** | 2 | [Browse →](./audio-separation/) |
 | 🏷️ **Sync** | 2 | [Browse →](./sync/) |
@@ -207,6 +207,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Pc-engine** | 1 | [Browse →](./pc-engine/) |
 | 🏷️ **Aiax** | 1 | [Browse →](./aiax/) |
 | 🏷️ **Postquantum** | 1 | [Browse →](./postquantum/) |
 | 🏷️ **Markdown** | 1 | [Browse →](./markdown/) |

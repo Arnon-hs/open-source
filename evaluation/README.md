@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [munimtechnologies/squad-normalize-hazards](./munimtechnologies-squad-normalize-hazards.md) | ⭐ — | Python | 42/100 |
+| 1 | [munimtechnologies/squad-normalize-hazards](./munimtechnologies-squad-normalize-hazards.md) | ⭐ — | Python | 39/100 |
 
 ---
 
