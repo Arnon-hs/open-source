@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nazboyko/channel-tongues](./nazboyko-channel-tongues.md) | ⭐ — | Go | 42/100 |
+| 1 | [nazboyko/channel-tongues](./nazboyko-channel-tongues.md) | ⭐ — | Go | 39/100 |
 
 ---
 

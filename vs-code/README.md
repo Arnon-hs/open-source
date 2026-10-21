@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ricardomoratomateos/stack](./ricardomoratomateos-stack.md) | ⭐ 1 | TypeScript | 52/100 |
+| 1 | [ricardomoratomateos/stack](./ricardomoratomateos-stack.md) | ⭐ 1 | TypeScript | 49/100 |
 | 2 | [saad-works/plain-sight-reader](./saad-works-plain-sight-reader.md) | ⭐ — | TypeScript | 48/100 |
 
 ---

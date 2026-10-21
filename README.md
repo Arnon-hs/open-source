@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41355** |
-| **Categories** | **555** |
+| **Projects** | **41356** |
+| **Categories** | **552** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16323 | [Browse →](./misc/) |
+| 📦 **Misc** | 16325 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4443 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2804 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2345 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2346 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1587 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1426 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 940 | [Browse →](./backend/) |
@@ -43,7 +43,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 459 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 428 | [Browse →](./communication/) |
 | 🔐 **Security** | 425 | [Browse →](./security/) |
-| 💳 **Payments** | 341 | [Browse →](./payments/) |
+| 💳 **Payments** | 342 | [Browse →](./payments/) |
 | 📊 **Data** | 341 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 339 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 327 | [Browse →](./productivity/) |
@@ -58,7 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
-| 🏷️ **Ai-agents** | 27 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 28 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
 | 🏷️ **Freelance** | 18 | [Browse →](./freelance/) |
@@ -94,7 +94,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Resume-parsing** | 4 | [Browse →](./resume-parsing/) |
 | 🏷️ **Documentation** | 4 | [Browse →](./documentation/) |
 | 🏷️ **Docker** | 4 | [Browse →](./docker/) |
-| 🏷️ **Hacktoberfest** | 4 | [Browse →](./hacktoberfest/) |
 | 🏷️ **React** | 4 | [Browse →](./react/) |
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
@@ -106,6 +105,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Monitoring** | 3 | [Browse →](./monitoring/) |
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
+| 🏷️ **Hacktoberfest** | 3 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
@@ -394,9 +394,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Scope-management** | 1 | [Browse →](./scope-management/) |
 | 🏷️ **Google-antigravity** | 1 | [Browse →](./google-antigravity/) |
 | 🏷️ **Localization** | 1 | [Browse →](./localization/) |
-| 🏷️ **Aliexpress** | 1 | [Browse →](./aliexpress/) |
-| 🏷️ **Readme** | 1 | [Browse →](./readme/) |
-| 🏷️ **Ai-assistant** | 1 | [Browse →](./ai-assistant/) |
 | 🏷️ **Openweights** | 1 | [Browse →](./openweights/) |
 | 🏷️ **Fastmcp** | 1 | [Browse →](./fastmcp/) |
 | 🏷️ **Clinical-trials** | 1 | [Browse →](./clinical-trials/) |
