@@ -1,6 +1,6 @@
 # sandeepji11/sellspark-ai
 
-[![Stars](https://img.shields.io/github/stars/sandeepji11/sellspark-ai?style=flat-square&color=yellow)](https://github.com/sandeepji11/sellspark-ai/stargazers) [![Forks](https://img.shields.io/github/forks/sandeepji11/sellspark-ai?style=flat-square&color=blue)](https://github.com/sandeepji11/sellspark-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sandeepji11/sellspark-ai?style=flat-square&color=yellow)](https://github.com/sandeepji11/sellspark-ai/stargazers) [![Forks](https://img.shields.io/github/forks/sandeepji11/sellspark-ai?style=flat-square&color=blue)](https://github.com/sandeepji11/sellspark-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered product listing generator using Qwen 2.5 and Ollama
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ sandeepji11/sellspark-ai：sandeepji11/sellspark-ai may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 50/100 |
+| production | 51/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 900/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -38,14 +38,14 @@
 | 28 | [Marker-Inc-Korea/AutoRAG](./marker-inc-korea-autorag.md) | ⭐ 4.8k | Python | 76/100 |
 | 29 | [Giskard-AI/giskard-oss](./giskard-ai-giskard-oss.md) | ⭐ 5.3k | Python | 76/100 |
 | 30 | [403errors/repomind](./403errors-repomind.md) | ⭐ 246 | TypeScript | 76/100 |
-| 31 | [px0-ai/px0](./px0-ai-px0.md) | ⭐ 212 | Python | 75/100 |
-| 32 | [Text2SqlAgent/text2sql-framework](./text2sqlagent-text2sql-framework.md) | ⭐ 149 | Python | 75/100 |
-| 33 | [AccumulateMore/CV](./accumulatemore-cv.md) | ⭐ 22.3k | Jupyter Notebook | 75/100 |
-| 34 | [AlmanacCode/codealmanac](./almanaccode-codealmanac.md) | ⭐ 132 | TypeScript | 75/100 |
-| 35 | [shenmintao/marginalia](./shenmintao-marginalia.md) | ⭐ 105 | Python | 75/100 |
-| 36 | [crmne/ruby_llm](./crmne-ruby-llm.md) | ⭐ 4k | Ruby | 75/100 |
-| 37 | [smallcloudai/refact](./smallcloudai-refact.md) | ⭐ 3.5k | Rust | 75/100 |
-| 38 | [Faceplugin-ltd/Open-Source-Face-Recognition-SDK](./faceplugin-ltd-open-source-face-recognition-sdk.md) | ⭐ 2.5k | Python | 75/100 |
+| 31 | [Faceplugin-ltd/Open-Source-Face-Recognition-SDK](./faceplugin-ltd-open-source-face-recognition-sdk.md) | ⭐ 2.5k | Python | 75/100 |
+| 32 | [px0-ai/px0](./px0-ai-px0.md) | ⭐ 212 | Python | 75/100 |
+| 33 | [Text2SqlAgent/text2sql-framework](./text2sqlagent-text2sql-framework.md) | ⭐ 149 | Python | 75/100 |
+| 34 | [AccumulateMore/CV](./accumulatemore-cv.md) | ⭐ 22.3k | Jupyter Notebook | 75/100 |
+| 35 | [AlmanacCode/codealmanac](./almanaccode-codealmanac.md) | ⭐ 132 | TypeScript | 75/100 |
+| 36 | [shenmintao/marginalia](./shenmintao-marginalia.md) | ⭐ 105 | Python | 75/100 |
+| 37 | [crmne/ruby_llm](./crmne-ruby-llm.md) | ⭐ 4k | Ruby | 75/100 |
+| 38 | [smallcloudai/refact](./smallcloudai-refact.md) | ⭐ 3.5k | Rust | 75/100 |
 | 39 | [nomic-ai/nomic](./nomic-ai-nomic.md) | ⭐ 1.9k | Python | 74/100 |
 | 40 | [vcmf/dim0](./vcmf-dim0.md) | ⭐ 103 | TypeScript | 74/100 |
 | 41 | [infinri/Writ](./infinri-writ.md) | ⭐ 161 | Python | 74/100 |
@@ -514,9 +514,9 @@
 | 504 | [chrisryugj/Docufinder](./chrisryugj-docufinder.md) | ⭐ 258 | Rust | 49/100 |
 | 505 | [torrua/loglan-bench](./torrua-loglan-bench.md) | ⭐ — | Python | 48/100 |
 | 506 | [Christopher22/charon](./christopher22-charon.md) | ⭐ — | — | 48/100 |
-| 507 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
-| 508 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
-| 509 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 507 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 508 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 509 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
 | 510 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
 | 511 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
 | 512 | [SeekStorm/SeekStorm](./seekstorm-seekstorm.md) | ⭐ 1.9k | Rust | 48/100 |
@@ -551,8 +551,8 @@
 | 541 | [intel/ScalableVectorSearch](./intel-scalablevectorsearch.md) | ⭐ 223 | C++ | 44/100 |
 | 542 | [neromtoobad/aliquot](./neromtoobad-aliquot.md) | ⭐ — | TypeScript | 43/100 |
 | 543 | [GiulioDER/RE-call](./giulioder-re-call.md) | ⭐ — | — | 43/100 |
-| 544 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 43/100 |
-| 545 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 43/100 |
+| 544 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 43/100 |
+| 545 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 43/100 |
 | 546 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ — | — | 43/100 |
 | 547 | [aryamore05/Somewhere](./aryamore05-somewhere.md) | ⭐ — | Python | 42/100 |
 | 548 | [oak-invest/kiso](./oak-invest-kiso.md) | ⭐ — | — | 42/100 |

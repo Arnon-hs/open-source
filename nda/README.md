@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Rish-51/ScopeLock](./rish-51-scopelock.md) | ⭐ — | Python | 39/100 |
+| 1 | [Rish-51/ScopeLock](./rish-51-scopelock.md) | ⭐ — | Python | 36/100 |
 
 ---
 
