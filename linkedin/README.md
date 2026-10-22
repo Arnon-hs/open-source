@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [gacabartosz/linkedin-mcp-server](./gacabartosz-linkedin-mcp-server.md) | ⭐ 5 | JavaScript | 58/100 |
+| 1 | [SantiagoMV42/linkedin-jobs-scraper](./santiagomv42-linkedin-jobs-scraper.md) | ⭐ — | Python | 58/100 |
 
 ---
 

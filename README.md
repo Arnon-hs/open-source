@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41646** |
+| **Projects** | **41657** |
 | **Categories** | **567** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16471 | [Browse →](./misc/) |
+| 📦 **Misc** | 16478 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4467 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2811 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2355 | [Browse →](./orchestration/) |
@@ -33,13 +33,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎨 **Frontend** | 889 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 788 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 692 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 650 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 651 | [Browse →](./networking/) |
 | 📱 **Mobile** | 643 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 617 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 607 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 538 | [Browse →](./database/) |
+| 🏷️ **Database** | 539 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 516 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 500 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 502 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 461 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 429 | [Browse →](./communication/) |
 | 🔐 **Security** | 428 | [Browse →](./security/) |
@@ -211,6 +211,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Linkedin** | 1 | [Browse →](./linkedin/) |
 | 🏷️ **Launch-readiness** | 1 | [Browse →](./launch-readiness/) |
 | 🏷️ **Local-seo** | 1 | [Browse →](./local-seo/) |
 | 🏷️ **Folder-tidier** | 1 | [Browse →](./folder-tidier/) |
@@ -396,7 +397,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Note-taking** | 1 | [Browse →](./note-taking/) |
 | 🏷️ **Canvas** | 1 | [Browse →](./canvas/) |
 | 🏷️ **Bike-fitting** | 1 | [Browse →](./bike-fitting/) |
-| 🏷️ **Video-downloading** | 1 | [Browse →](./video-downloading/) |
 | 🏷️ **Knowledge-graph** | 1 | [Browse →](./knowledge-graph/) |
 | 🏷️ **Fastgpt** | 1 | [Browse →](./fastgpt/) |
 | 🏷️ **C** | 1 | [Browse →](./c/) |
