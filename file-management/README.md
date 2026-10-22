@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mahdyarmonfared/cleandrop](./mahdyarmonfared-cleandrop.md) | ⭐ — | JavaScript | 43/100 |
+| 1 | [vikasfine17/sloth-sorter](./vikasfine17-sloth-sorter.md) | ⭐ — | Python | 39/100 |
 
 ---
 

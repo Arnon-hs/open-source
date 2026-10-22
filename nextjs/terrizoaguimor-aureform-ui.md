@@ -1,6 +1,6 @@
 # terrizoaguimor/aureform-ui
 
-[![Stars](https://img.shields.io/github/stars/terrizoaguimor/aureform-ui?style=flat-square&color=yellow)](https://github.com/terrizoaguimor/aureform-ui/stargazers) [![Forks](https://img.shields.io/github/forks/terrizoaguimor/aureform-ui?style=flat-square&color=blue)](https://github.com/terrizoaguimor/aureform-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terrizoaguimor/aureform-ui?style=flat-square&color=yellow)](https://github.com/terrizoaguimor/aureform-ui/stargazers) [![Forks](https://img.shields.io/github/forks/terrizoaguimor/aureform-ui?style=flat-square&color=blue)](https://github.com/terrizoaguimor/aureform-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Open source Next.js UI kit: 69 views, an appearance studio, six palettes, GSAP, Lenis and editable Figma resources. Apache 2.0.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-19 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ terrizoaguimor/aureform-ui：terrizoaguimor/aureform-ui may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

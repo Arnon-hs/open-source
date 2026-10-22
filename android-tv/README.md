@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Gathin23/cleanyourtv](./gathin23-cleanyourtv.md) | ⭐ 4.6k | Java | 64/100 |
+| 1 | [Gathin23/cleanyourtv](./gathin23-cleanyourtv.md) | ⭐ 4.6k | Java | 61/100 |
 
 ---
 
