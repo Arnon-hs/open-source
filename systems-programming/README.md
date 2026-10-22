@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tek-sys-hub/Rubix-lang](./tek-sys-hub-rubix-lang.md) | ⭐ 2 | Assembly | 40/100 |
+| 1 | [tek-sys-hub/Rubix-lang](./tek-sys-hub-rubix-lang.md) | ⭐ 2 | Assembly | 37/100 |
 
 ---
 

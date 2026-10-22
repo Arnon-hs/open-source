@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hikmahtech/aegis](./hikmahtech-aegis.md) | ⭐ 4 | Python | 49/100 |
+| 1 | [hikmahtech/aegis](./hikmahtech-aegis.md) | ⭐ 4 | Python | 46/100 |
 
 ---
 
