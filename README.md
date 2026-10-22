@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41723** |
-| **Categories** | **568** |
+| **Projects** | **41731** |
+| **Categories** | **569** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16511 | [Browse →](./misc/) |
+| 📦 **Misc** | 16512 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4473 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2817 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2358 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2816 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2359 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1589 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1436 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 943 | [Browse →](./backend/) |
@@ -41,8 +41,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 516 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 504 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 461 | [Browse →](./templates/) |
-| 🏷️ **Communication** | 430 | [Browse →](./communication/) |
-| 🔐 **Security** | 429 | [Browse →](./security/) |
+| 🏷️ **Communication** | 431 | [Browse →](./communication/) |
+| 🔐 **Security** | 431 | [Browse →](./security/) |
 | 💳 **Payments** | 349 | [Browse →](./payments/) |
 | 📊 **Data** | 342 | [Browse →](./data/) |
 | 🏷️ **Games--graphics** | 339 | [Browse →](./games--graphics/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 179 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 148 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 122 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 120 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 121 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 39 | [Browse →](./open-source/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
@@ -69,9 +69,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
 | 🏷️ **N8n** | 9 | [Browse →](./n8n/) |
+| 🏷️ **Ai-agent** | 8 | [Browse →](./ai-agent/) |
 | 🏷️ **Kubernetes** | 8 | [Browse →](./kubernetes/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
-| 🏷️ **Ai-agent** | 7 | [Browse →](./ai-agent/) |
 | 🏷️ **Android** | 7 | [Browse →](./android/) |
 | 🏷️ **Self-hosted** | 7 | [Browse →](./self-hosted/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
@@ -103,6 +103,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Email** | 3 | [Browse →](./email/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Pixrestore** | 3 | [Browse →](./pixrestore/) |
 | 🏷️ **Audio** | 3 | [Browse →](./audio/) |
@@ -125,7 +126,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
-| 🏷️ **Email** | 2 | [Browse →](./email/) |
 | 🏷️ **Github** | 2 | [Browse →](./github/) |
 | 🏷️ **Openweight-ai** | 2 | [Browse →](./openweight-ai/) |
 | 🏷️ **Audit** | 2 | [Browse →](./audit/) |
@@ -213,6 +213,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Requirements-engineering** | 1 | [Browse →](./requirements-engineering/) |
+| 🏷️ **Cs2** | 1 | [Browse →](./cs2/) |
 | 🏷️ **Background-jobs** | 1 | [Browse →](./background-jobs/) |
 | 🏷️ **Job-queue** | 1 | [Browse →](./job-queue/) |
 | 🏷️ **Alarm** | 1 | [Browse →](./alarm/) |
@@ -390,7 +392,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Auth** | 1 | [Browse →](./auth/) |
 | 🏷️ **Epub** | 1 | [Browse →](./epub/) |
 | 🏷️ **Performance-testing** | 1 | [Browse →](./performance-testing/) |
-| 🏷️ **Threat-modeling** | 1 | [Browse →](./threat-modeling/) |
 | 🏷️ **Local-inference** | 1 | [Browse →](./local-inference/) |
 | 🏷️ **Image-generation** | 1 | [Browse →](./image-generation/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
