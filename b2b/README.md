@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rakeshrkrk56-sketch/stackmatrix](./rakeshrkrk56-sketch-stackmatrix.md) | ⭐ — | HTML | 36/100 |
+| 1 | [rakeshrkrk56-sketch/stackmatrix](./rakeshrkrk56-sketch-stackmatrix.md) | ⭐ — | HTML | 33/100 |
 
 ---
 
