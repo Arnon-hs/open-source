@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [repobenchmarks/tabupulse-ai](./repobenchmarks-tabupulse-ai.md) | ⭐ — | Python | 66/100 |
+| 1 | [Mocca130604/tabify.ai](./mocca130604-tabify.ai.md) | ⭐ — | Vue | 36/100 |
 
 ---
 

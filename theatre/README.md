@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [antunishdPursuit/Roolin](./antunishdpursuit-roolin.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [antunishdPursuit/Roolin](./antunishdpursuit-roolin.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 

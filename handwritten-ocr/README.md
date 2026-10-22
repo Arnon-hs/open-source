@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wkkny/ledger-lift](./wkkny-ledger-lift.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [wkkny/ledger-lift](./wkkny-ledger-lift.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

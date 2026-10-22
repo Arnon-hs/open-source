@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41552** |
-| **Categories** | **558** |
+| **Projects** | **41558** |
+| **Categories** | **561** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -28,12 +28,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mcp** | 2807 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2351 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1589 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1432 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1433 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 941 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 887 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 888 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 788 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 692 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 648 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 649 | [Browse →](./networking/) |
 | 📱 **Mobile** | 640 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 616 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 607 | [Browse →](./cloud--storage/) |
@@ -126,6 +126,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Deduplication** | 2 | [Browse →](./deduplication/) |
 | 🏷️ **Vs-code** | 2 | [Browse →](./vs-code/) |
 | 🏷️ **Agent** | 2 | [Browse →](./agent/) |
 | 🏷️ **Excel** | 2 | [Browse →](./excel/) |
@@ -171,7 +172,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Architecture** | 2 | [Browse →](./architecture/) |
 | 🏷️ **Agent-based-development** | 2 | [Browse →](./agent-based-development/) |
 | 🏷️ **C** | 2 | [Browse →](./c/) |
-| 🏷️ **Hysteria2** | 2 | [Browse →](./hysteria2/) |
 | 🏷️ **Ai-code-review** | 2 | [Browse →](./ai-code-review/) |
 | 🏷️ **Invoice-generation** | 2 | [Browse →](./invoice-generation/) |
 | 🏷️ **Ui** | 2 | [Browse →](./ui/) |
@@ -207,6 +207,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Phishing** | 1 | [Browse →](./phishing/) |
+| 🏷️ **Tabular** | 1 | [Browse →](./tabular/) |
+| 🏷️ **Vram** | 1 | [Browse →](./vram/) |
+| 🏷️ **Commit-message-generation** | 1 | [Browse →](./commit-message-generation/) |
+| 🏷️ **Monolith** | 1 | [Browse →](./monolith/) |
 | 🏷️ **Podcast** | 1 | [Browse →](./podcast/) |
 | 🏷️ **Health-alerts** | 1 | [Browse →](./health-alerts/) |
 | 🏷️ **Pix** | 1 | [Browse →](./pix/) |
@@ -303,7 +308,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Timeout** | 1 | [Browse →](./timeout/) |
 | 🏷️ **Finance** | 1 | [Browse →](./finance/) |
 | 🏷️ **Review-analysis** | 1 | [Browse →](./review-analysis/) |
-| 🏷️ **Deduplication** | 1 | [Browse →](./deduplication/) |
 | 🏷️ **Personal-finance** | 1 | [Browse →](./personal-finance/) |
 | 🏷️ **Side-project** | 1 | [Browse →](./side-project/) |
 | 🏷️ **Gpustack** | 1 | [Browse →](./gpustack/) |
@@ -390,9 +394,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Winget** | 1 | [Browse →](./winget/) |
 | 🏷️ **Ontology** | 1 | [Browse →](./ontology/) |
 | 🏷️ **Streaming** | 1 | [Browse →](./streaming/) |
-| 🏷️ **Devsec** | 1 | [Browse →](./devsec/) |
-| 🏷️ **Aiclaw** | 1 | [Browse →](./aiclaw/) |
 | 🏷️ **Flight-search** | 1 | [Browse →](./flight-search/) |
+| 🏷️ **Hysteria2** | 1 | [Browse →](./hysteria2/) |
 | 🏷️ **Tmux** | 1 | [Browse →](./tmux/) |
 | 🏷️ **Image-processing** | 1 | [Browse →](./image-processing/) |
 | 🏷️ **Banking** | 1 | [Browse →](./banking/) |
