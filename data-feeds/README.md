@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [HopperHopper/PulseWatch](./hopperhopper-pulsewatch.md) | ⭐ — | Python | 40/100 |
+| 1 | [HopperHopper/PulseWatch](./hopperhopper-pulsewatch.md) | ⭐ — | Python | 37/100 |
 
 ---
 
