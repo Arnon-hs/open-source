@@ -2,15 +2,14 @@
 
 > 
 
-**3 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [LubuSeb/before-report](./lubuseb-before-report.md) | ⭐ — | Python | 39/100 |
-| 2 | [features/issues](./features-issues.md) | ⭐ — | — | 24/100 |
-| 3 | [aresius/aresius](./aresius-aresius.md) | ⭐ — | — | 24/100 |
+| 1 | [features/issues](./features-issues.md) | ⭐ — | — | 24/100 |
+| 2 | [aresius/aresius](./aresius-aresius.md) | ⭐ — | — | 24/100 |
 
 ---
 

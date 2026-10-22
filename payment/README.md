@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [PayIntLab/psp-drift-watch](./payintlab-psp-drift-watch.md) | ⭐ — | Python | 33/100 |
+| 1 | [PayIntLab/psp-drift-watch](./payintlab-psp-drift-watch.md) | ⭐ — | Python | 30/100 |
 
 ---
 
