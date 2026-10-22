@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Kunal-CodeLab/Kunal-CodeLab-allergy-guard](./kunal-codelab-kunal-codelab-allergy-guard.md) | ⭐ — | JavaScript | 33/100 |
+| 1 | [Kunal-CodeLab/Kunal-CodeLab-allergy-guard](./kunal-codelab-kunal-codelab-allergy-guard.md) | ⭐ — | JavaScript | 30/100 |
 
 ---
 
