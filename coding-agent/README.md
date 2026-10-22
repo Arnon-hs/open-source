@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [suirindo/agent-role-contracts](./suirindo-agent-role-contracts.md) | ⭐ 1 | JavaScript | 67/100 |
+| 1 | [suirindo/agent-role-contracts](./suirindo-agent-role-contracts.md) | ⭐ 1 | JavaScript | 64/100 |
 | 2 | [ashishthete/kaiju](./ashishthete-kaiju.md) | ⭐ — | Rust | 27/100 |
 
 ---
