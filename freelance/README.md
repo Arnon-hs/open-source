@@ -12,7 +12,7 @@
 | 2 | [Moin105/briefquote](./moin105-briefquote.md) | ⭐ — | Python | 51/100 |
 | 3 | [susmitaPersonal/soloops-ai](./susmitapersonal-soloops-ai.md) | ⭐ — | TypeScript | 50/100 |
 | 4 | [Razorbillworks/scopecheck](./razorbillworks-scopecheck.md) | ⭐ — | Python | 43/100 |
-| 5 | [VIKRAM-009/quotecraft](./vikram-009-quotecraft.md) | ⭐ — | Python | 39/100 |
+| 5 | [VIKRAM-009/quotecraft](./vikram-009-quotecraft.md) | ⭐ — | Python | 36/100 |
 | 6 | [RajJasani/contractguard](./rajjasani-contractguard.md) | ⭐ — | Python | 36/100 |
 | 7 | [radhikaaa25/ScopeGuard](./radhikaaa25-scopeguard.md) | ⭐ — | TypeScript | 36/100 |
 | 8 | [Aryan1092raj/ScopeShield](./aryan1092raj-scopeshield.md) | ⭐ — | Python | 36/100 |

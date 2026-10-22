@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41560** |
+| **Projects** | **41564** |
 | **Categories** | **561** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16427 | [Browse →](./misc/) |
+| 📦 **Misc** | 16428 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4460 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2807 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2351 | [Browse →](./orchestration/) |
@@ -62,7 +62,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 21 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
-| 🏷️ **Local-ai** | 18 | [Browse →](./local-ai/) |
+| 🏷️ **Local-ai** | 19 | [Browse →](./local-ai/) |
 | 🏷️ **Freelance** | 17 | [Browse →](./freelance/) |
 | 🏷️ **Local-llm** | 16 | [Browse →](./local-llm/) |
 | 🏷️ **Ci** | 13 | [Browse →](./ci/) |
@@ -72,13 +72,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Kubernetes** | 8 | [Browse →](./kubernetes/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
+| 🏷️ **Ai-agent** | 7 | [Browse →](./ai-agent/) |
+| 🏷️ **Android** | 7 | [Browse →](./android/) |
 | 🏷️ **Self-hosted** | 7 | [Browse →](./self-hosted/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
-| 🏷️ **Android** | 6 | [Browse →](./android/) |
 | 🏷️ **Macos** | 6 | [Browse →](./macos/) |
 | 🏷️ **Telegram** | 6 | [Browse →](./telegram/) |
-| 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
