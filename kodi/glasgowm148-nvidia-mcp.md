@@ -1,6 +1,6 @@
 # glasgowm148/nvidia-MCP
 
-[![Stars](https://img.shields.io/github/stars/glasgowm148/nvidia-MCP?style=flat-square&color=yellow)](https://github.com/glasgowm148/nvidia-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/glasgowm148/nvidia-MCP?style=flat-square&color=blue)](https://github.com/glasgowm148/nvidia-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/glasgowm148/nvidia-MCP?style=flat-square&color=yellow)](https://github.com/glasgowm148/nvidia-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/glasgowm148/nvidia-MCP?style=flat-square&color=blue)](https://github.com/glasgowm148/nvidia-MCP/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Let your AI assistant inspect Kodi, diagnose playback problems and make reversible changes. Built for NVIDIA Shield.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-10-19 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ glasgowm148/nvidia-MCP：glasgowm148/nvidia-MCP may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 67/100 |
+| production | 63/100 |
+| outlook | 60/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 500/100 |
 | stars | 17/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

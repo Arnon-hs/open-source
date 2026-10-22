@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41542** |
-| **Categories** | **557** |
+| **Projects** | **41547** |
+| **Categories** | **559** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16419 | [Browse →](./misc/) |
+| 📦 **Misc** | 16421 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4460 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2807 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2351 | [Browse →](./orchestration/) |
@@ -75,13 +75,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted** | 7 | [Browse →](./self-hosted/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
+| 🏷️ **Android** | 6 | [Browse →](./android/) |
 | 🏷️ **Macos** | 6 | [Browse →](./macos/) |
 | 🏷️ **Telegram** | 6 | [Browse →](./telegram/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **Nextjs** | 5 | [Browse →](./nextjs/) |
-| 🏷️ **Android** | 5 | [Browse →](./android/) |
 | 🏷️ **Whatsapp** | 5 | [Browse →](./whatsapp/) |
 | 🏷️ **Graph-database** | 5 | [Browse →](./graph-database/) |
 | 🏷️ **Open-source-ai** | 5 | [Browse →](./open-source-ai/) |
@@ -207,6 +207,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Podcast** | 1 | [Browse →](./podcast/) |
+| 🏷️ **Health-alerts** | 1 | [Browse →](./health-alerts/) |
 | 🏷️ **Pix** | 1 | [Browse →](./pix/) |
 | 🏷️ **Root-cause-analysis** | 1 | [Browse →](./root-cause-analysis/) |
 | 🏷️ **Coolify** | 1 | [Browse →](./coolify/) |
