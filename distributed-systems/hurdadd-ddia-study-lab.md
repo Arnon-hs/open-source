@@ -1,6 +1,6 @@
 # Hurdadd/ddia-study-lab
 
-[![Stars](https://img.shields.io/github/stars/Hurdadd/ddia-study-lab?style=flat-square&color=yellow)](https://github.com/Hurdadd/ddia-study-lab/stargazers) [![Forks](https://img.shields.io/github/forks/Hurdadd/ddia-study-lab?style=flat-square&color=blue)](https://github.com/Hurdadd/ddia-study-lab/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Hurdadd/ddia-study-lab?style=flat-square&color=yellow)](https://github.com/Hurdadd/ddia-study-lab/stargazers) [![Forks](https://img.shields.io/github/forks/Hurdadd/ddia-study-lab?style=flat-square&color=blue)](https://github.com/Hurdadd/ddia-study-lab/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > DDIA (Designing Data-Intensive Applications, 2nd ed.) study guide in Persian & English — 14 chapters, 100+ interactive diagrams, exercises, AI-platform capstone | راهنمای مطالعهٔ DDIA فارسی
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-19 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Hurdadd/ddia-study-lab：Hurdadd/ddia-study-lab may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

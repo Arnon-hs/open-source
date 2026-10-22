@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [namrata1613/aiid_harm_classification](./namrata1613-aiid-harm-classification.md) | ⭐ — | Python | 33/100 |
+| 1 | [namrata1613/aiid_harm_classification](./namrata1613-aiid-harm-classification.md) | ⭐ — | Python | 30/100 |
 | 2 | [ivegotahunnitonit/bartholomew-guard](./ivegotahunnitonit-bartholomew-guard.md) | ⭐ — | — | 27/100 |
 
 ---

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Hurdadd/ddia-study-lab](./hurdadd-ddia-study-lab.md) | ⭐ — | HTML | 44/100 |
+| 1 | [Hurdadd/ddia-study-lab](./hurdadd-ddia-study-lab.md) | ⭐ — | HTML | 41/100 |
 
 ---
 
