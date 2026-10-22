@@ -16,8 +16,8 @@
 | 6 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 53/100 |
 | 7 | [MathFe/leitor-notas-local](./mathfe-leitor-notas-local.md) | ⭐ — | Python | 43/100 |
 | 8 | [OWASP/BLT](./owasp-blt.md) | ⭐ — | HTML | 42/100 |
-| 9 | [sank8-2/listing-studio](./sank8-2-listing-studio.md) | ⭐ — | Python | 42/100 |
-| 10 | [mohit01-beep/bistro-translate-ai](./mohit01-beep-bistro-translate-ai.md) | ⭐ — | JavaScript | 41/100 |
+| 9 | [mohit01-beep/bistro-translate-ai](./mohit01-beep-bistro-translate-ai.md) | ⭐ — | JavaScript | 41/100 |
+| 10 | [sank8-2/listing-studio](./sank8-2-listing-studio.md) | ⭐ — | Python | 39/100 |
 | 11 | [kushpatel8274/BizPilot-AI](./kushpatel8274-bizpilot-ai.md) | ⭐ — | Python | 39/100 |
 | 12 | [sanskarIN/SpeedPulse](./sanskarin-speedpulse.md) | ⭐ — | HTML | 39/100 |
 | 13 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 37/100 |
