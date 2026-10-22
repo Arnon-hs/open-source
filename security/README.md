@@ -258,9 +258,9 @@
 | 248 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 406 | HTML | 50/100 |
 | 249 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 500 | — | 50/100 |
 | 250 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 122 | Rust | 50/100 |
-| 251 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 252 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 253 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
+| 251 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
+| 252 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 253 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
 | 254 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 272 | Rust | 50/100 |
 | 255 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 511 | JavaScript | 50/100 |
 | 256 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 50/100 |
@@ -398,8 +398,8 @@
 | 388 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 38/100 |
 | 389 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ — | — | 38/100 |
 | 390 | [openai/codex-security](./openai-codex-security.md) | ⭐ — | — | 38/100 |
-| 391 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 38/100 |
-| 392 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 391 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 392 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 38/100 |
 | 393 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
 | 394 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ — | — | 38/100 |
 | 395 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
@@ -431,8 +431,8 @@
 | 421 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 38/100 |
 | 422 | [SertaCanbey/IDSignal](./sertacanbey-idsignal.md) | ⭐ 1 | JavaScript | 37/100 |
 | 423 | [TemujinCalidius/FediHome](./temujincalidius-fedihome.md) | ⭐ — | — | 37/100 |
-| 424 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ — | — | 37/100 |
-| 425 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 424 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 425 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ — | — | 37/100 |
 | 426 | [jaredhanson/passport](./jaredhanson-passport.md) | ⭐ — | — | 37/100 |
 | 427 | [IWEBai/railo-action](./iwebai-railo-action.md) | ⭐ — | — | 36/100 |
 | 428 | [Tetra4ge/GitHygiene](./tetra4ge-githygiene.md) | ⭐ — | JavaScript | 36/100 |
