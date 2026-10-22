@@ -1,6 +1,6 @@
 # calccentrals/financial-math-formulas
 
-[![Stars](https://img.shields.io/github/stars/calccentrals/financial-math-formulas?style=flat-square&color=yellow)](https://github.com/calccentrals/financial-math-formulas/stargazers) [![Forks](https://img.shields.io/github/forks/calccentrals/financial-math-formulas?style=flat-square&color=blue)](https://github.com/calccentrals/financial-math-formulas/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calccentrals/financial-math-formulas?style=flat-square&color=yellow)](https://github.com/calccentrals/financial-math-formulas/stargazers) [![Forks](https://img.shields.io/github/forks/calccentrals/financial-math-formulas?style=flat-square&color=blue)](https://github.com/calccentrals/financial-math-formulas/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-dependency JavaScript algorithms for loan amortization schedules, reducing-balance EMI, SIP return, and CAGR.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-19 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ calccentrals/financial-math-formulas：calccentrals/financial-math-formulas may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

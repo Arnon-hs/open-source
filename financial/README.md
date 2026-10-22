@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [calccentrals/financial-math-formulas](./calccentrals-financial-math-formulas.md) | ⭐ — | — | 51/100 |
+| 1 | [calccentrals/financial-math-formulas](./calccentrals-financial-math-formulas.md) | ⭐ — | — | 48/100 |
 
 ---
 
