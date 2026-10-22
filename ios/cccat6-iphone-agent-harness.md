@@ -1,6 +1,6 @@
 # cccat6/iphone-agent-harness
 
-[![Stars](https://img.shields.io/github/stars/cccat6/iphone-agent-harness?style=flat-square&color=yellow)](https://github.com/cccat6/iphone-agent-harness/stargazers) [![Forks](https://img.shields.io/github/forks/cccat6/iphone-agent-harness?style=flat-square&color=blue)](https://github.com/cccat6/iphone-agent-harness/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cccat6/iphone-agent-harness?style=flat-square&color=yellow)](https://github.com/cccat6/iphone-agent-harness/stargazers) [![Forks](https://img.shields.io/github/forks/cccat6/iphone-agent-harness?style=flat-square&color=blue)](https://github.com/cccat6/iphone-agent-harness/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Automate your iPhone from Safari with a low-cost ESP32 Bluetooth bridge. Local conversations, your choice of AI, and community skills.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-19 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ cccat6/iphone-agent-harness：cccat6/iphone-agent-harness may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 67/100 |
+| production | 54/100 |
+| outlook | 60/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

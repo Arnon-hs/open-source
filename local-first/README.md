@@ -2,7 +2,7 @@
 
 > 
 
-**21 projects** in this category.
+**22 projects** in this category.
 
 ## Projects
 
@@ -26,9 +26,10 @@
 | 16 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 31/100 |
 | 17 | [RathnamS089/secondmind](./rathnams089-secondmind.md) | ⭐ — | HTML | 30/100 |
 | 18 | [ashab683/studybudy-ai](./ashab683-studybudy-ai.md) | ⭐ — | JavaScript | 30/100 |
-| 19 | [TabPFN/TabPFN](./tabpfn-tabpfn.md) | ⭐ — | — | 24/100 |
-| 20 | [ggerganov/whisper.cpp](./ggerganov-whisper.cpp.md) | ⭐ — | — | 24/100 |
-| 21 | [onnx/Kokoro](./onnx-kokoro.md) | ⭐ — | — | 24/100 |
+| 19 | [pri-labs/tabpfn](./pri-labs-tabpfn.md) | ⭐ — | — | 24/100 |
+| 20 | [TabPFN/TabPFN](./tabpfn-tabpfn.md) | ⭐ — | — | 24/100 |
+| 21 | [ggerganov/whisper.cpp](./ggerganov-whisper.cpp.md) | ⭐ — | — | 24/100 |
+| 22 | [onnx/Kokoro](./onnx-kokoro.md) | ⭐ — | — | 24/100 |
 
 ---
 

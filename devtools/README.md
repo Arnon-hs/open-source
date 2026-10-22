@@ -1576,8 +1576,8 @@
 | 1566 | [mainak55512/flint](./mainak55512-flint.md) | ⭐ — | — | 42/100 |
 | 1567 | [coder/wush](./coder-wush.md) | ⭐ — | — | 42/100 |
 | 1568 | [berggren/tss](./berggren-tss.md) | ⭐ — | — | 42/100 |
-| 1569 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 42/100 |
-| 1570 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 42/100 |
+| 1569 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 42/100 |
+| 1570 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 42/100 |
 | 1571 | [mozilla/web-ext](./mozilla-web-ext.md) | ⭐ — | — | 42/100 |
 | 1572 | [scascino4/dither](./scascino4-dither.md) | ⭐ — | — | 42/100 |
 | 1573 | [crawshaw/yeah](./crawshaw-yeah.md) | ⭐ — | — | 42/100 |
