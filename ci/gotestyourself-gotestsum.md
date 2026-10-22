@@ -1,6 +1,6 @@
 # gotestyourself/gotestsum
 
-[![Stars](https://img.shields.io/github/stars/gotestyourself/gotestsum?style=flat-square&color=yellow)](https://github.com/gotestyourself/gotestsum/stargazers) [![Forks](https://img.shields.io/github/forks/gotestyourself/gotestsum?style=flat-square&color=blue)](https://github.com/gotestyourself/gotestsum/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gotestyourself/gotestsum?style=flat-square&color=yellow)](https://github.com/gotestyourself/gotestsum/stargazers) [![Forks](https://img.shields.io/github/forks/gotestyourself/gotestsum?style=flat-square&color=blue)](https://github.com/gotestyourself/gotestsum/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 'go test' runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.7k |
 | 🍴 **Forks** | 174 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-10-19 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ gotestyourself/gotestsum：gotestyourself/gotestsum may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 81/100 |
+| production | 67/100 |
+| outlook | 74/100 |
 | adoption | 68/100 |
 | categoryMatchCount | 500/100 |
 | stars | 73/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

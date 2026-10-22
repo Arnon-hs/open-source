@@ -3912,8 +3912,8 @@
 | 3902 | [jordanhubbard/nanolang](./jordanhubbard-nanolang.md) | ⭐ 596 | C | 44/100 |
 | 3903 | [haoruilee/awesome-agent-native-services](./haoruilee-awesome-agent-native-services.md) | ⭐ 351 | Shell | 44/100 |
 | 3904 | [ProjectViVy/agent-diva](./projectvivy-agent-diva.md) | ⭐ 50 | Rust | 44/100 |
-| 3905 | [neohaskell/NeoHaskell](./neohaskell-neohaskell.md) | ⭐ 346 | Haskell | 44/100 |
-| 3906 | [meridianlabs-ai/inspect_scout](./meridianlabs-ai-inspect-scout.md) | ⭐ 41 | Python | 44/100 |
+| 3905 | [meridianlabs-ai/inspect_scout](./meridianlabs-ai-inspect-scout.md) | ⭐ 41 | Python | 44/100 |
+| 3906 | [neohaskell/NeoHaskell](./neohaskell-neohaskell.md) | ⭐ 346 | Haskell | 44/100 |
 | 3907 | [amitshekhariitbhu/machine-learning-interview-questions](./amitshekhariitbhu-machine-learning-interview-questions.md) | ⭐ 191 | Markdown | 44/100 |
 | 3908 | [codedeliveryservice/Reckless](./codedeliveryservice-reckless.md) | ⭐ 312 | Rust | 44/100 |
 | 3909 | [tkellogg/open-strix](./tkellogg-open-strix.md) | ⭐ 68 | Python | 44/100 |

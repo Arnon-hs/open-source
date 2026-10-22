@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cipoklean/kwota](./cipoklean-kwota.md) | ⭐ — | Python | 39/100 |
+| 1 | [cipoklean/kwota](./cipoklean-kwota.md) | ⭐ — | Python | 36/100 |
 
 ---
 
