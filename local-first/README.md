@@ -11,10 +11,10 @@
 | 1 | [aaryanrwt/athena](./aaryanrwt-athena.md) | ⭐ — | Python | 55/100 |
 | 2 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 52/100 |
 | 3 | [sayuj5/SlothSec](./sayuj5-slothsec.md) | ⭐ — | TypeScript | 42/100 |
-| 4 | [pyarchana/folio-ai](./pyarchana-folio-ai.md) | ⭐ — | Python | 42/100 |
-| 5 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 40/100 |
-| 6 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 40/100 |
-| 7 | [GSuryaP/LazyDeskAI](./gsuryap-lazydeskai.md) | ⭐ — | Python | 39/100 |
+| 4 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 40/100 |
+| 5 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 40/100 |
+| 6 | [GSuryaP/LazyDeskAI](./gsuryap-lazydeskai.md) | ⭐ — | Python | 39/100 |
+| 7 | [pyarchana/folio-ai](./pyarchana-folio-ai.md) | ⭐ — | Python | 39/100 |
 | 8 | [harsh8398/saathi-yoga-copilot](./harsh8398-saathi-yoga-copilot.md) | ⭐ — | TypeScript | 39/100 |
 | 9 | [Pager-dot/ledgerlocal](./pager-dot-ledgerlocal.md) | ⭐ — | Python | 39/100 |
 | 10 | [utkarshydv27/DukaanFlow-AI](./utkarshydv27-dukaanflow-ai.md) | ⭐ — | Python | 39/100 |

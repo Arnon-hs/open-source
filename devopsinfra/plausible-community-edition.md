@@ -1,6 +1,6 @@
 # plausible/community-edition
 
-[![Stars](https://img.shields.io/github/stars/plausible/community-edition?style=flat-square&color=yellow)](https://github.com/plausible/community-edition/stargazers) [![Forks](https://img.shields.io/github/forks/plausible/community-edition?style=flat-square&color=blue)](https://github.com/plausible/community-edition/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/plausible/community-edition?style=flat-square&color=yellow)](https://github.com/plausible/community-edition/stargazers) [![Forks](https://img.shields.io/github/forks/plausible/community-edition?style=flat-square&color=blue)](https://github.com/plausible/community-edition/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Example Docker Compose setup for hosting Plausible Community Edition
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 466 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-19 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ plausible/community-edition：plausible/community-edition helps make deployment 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 68/100 |
+| production | 62/100 |
+| outlook | 61/100 |
 | adoption | 72/100 |
 | categoryMatchCount | 100/100 |
 | stars | 74/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
