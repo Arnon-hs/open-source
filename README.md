@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41687** |
+| **Projects** | **41697** |
 | **Categories** | **565** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,13 +23,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16494 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4472 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16500 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4473 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2813 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2357 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1589 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1436 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 941 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 942 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 889 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 788 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 692 | [Browse →](./documents/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 608 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 541 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 516 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 503 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 504 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 461 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 430 | [Browse →](./communication/) |
 | 🔐 **Security** | 429 | [Browse →](./security/) |
@@ -66,8 +66,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 18 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 16 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 13 | [Browse →](./ci/) |
+| 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
-| 🏷️ **Offline-first** | 10 | [Browse →](./offline-first/) |
 | 🏷️ **N8n** | 9 | [Browse →](./n8n/) |
 | 🏷️ **Kubernetes** | 8 | [Browse →](./kubernetes/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |

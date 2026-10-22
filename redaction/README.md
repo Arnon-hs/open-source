@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [shreya-oeo/veil](./shreya-oeo-veil.md) | ⭐ 2 | JavaScript | 40/100 |
+| 1 | [shreya-oeo/veil](./shreya-oeo-veil.md) | ⭐ 2 | JavaScript | 37/100 |
 
 ---
 
