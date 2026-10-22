@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [Insideofcub/job-hunter-agent](./insideofcub-job-hunter-agent.md) | ⭐ 1 | Python | 73/100 |
-| 2 | [Folkbench/folkbench](./folkbench-folkbench.md) | ⭐ 1.9k | Rust | 64/100 |
+| 2 | [Folkbench/folkbench](./folkbench-folkbench.md) | ⭐ 1.9k | Rust | 61/100 |
 | 3 | [manhquydev/flow-skill](./manhquydev-flow-skill.md) | ⭐ 9 | Shell | 61/100 |
 | 4 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
 | 5 | [SandeepAi369/searchwala](./sandeepai369-searchwala.md) | ⭐ 17 | Rust | 55/100 |
