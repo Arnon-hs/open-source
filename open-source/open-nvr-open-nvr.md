@@ -1,6 +1,6 @@
 # open-nvr/open-nvr
 
-[![Stars](https://img.shields.io/github/stars/open-nvr/open-nvr?style=flat-square&color=yellow)](https://github.com/open-nvr/open-nvr/stargazers) [![Forks](https://img.shields.io/github/forks/open-nvr/open-nvr?style=flat-square&color=blue)](https://github.com/open-nvr/open-nvr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/open-nvr/open-nvr?style=flat-square&color=yellow)](https://github.com/open-nvr/open-nvr/stargazers) [![Forks](https://img.shields.io/github/forks/open-nvr/open-nvr?style=flat-square&color=blue)](https://github.com/open-nvr/open-nvr/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > The open platform for AI on your cameras: a self-hosted NVR (ONVIF/RTSP, recording, WebRTC) running any AI model through one open contract, with an app SDK and one-click apps. New capabilities arrive as software, not new boxes. Air-gapped or connected, audited end to end. Home Assistant built in. AGPLv3. A Frigate/ZoneMinder alternative.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 167 |
 | 🍴 **Forks** | 24 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-10-19 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ open-nvr/open-nvr：open-nvr/open-nvr may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 78/100 |
-| production | 74/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 44/100 |
 | categoryMatchCount | 500/100 |
 | stars | 47/100 |
 | forks | 35/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

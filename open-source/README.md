@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [open-nvr/open-nvr](./open-nvr-open-nvr.md) | ⭐ 167 | Python | 76/100 |
-| 2 | [ridemountainpig/threads-analytics](./ridemountainpig-threads-analytics.md) | ⭐ 55 | TypeScript | 75/100 |
+| 1 | [ridemountainpig/threads-analytics](./ridemountainpig-threads-analytics.md) | ⭐ 55 | TypeScript | 75/100 |
+| 2 | [open-nvr/open-nvr](./open-nvr-open-nvr.md) | ⭐ 167 | Python | 73/100 |
 | 3 | [pandeyvishwas51-oss/forma-chat](./pandeyvishwas51-oss-forma-chat.md) | ⭐ — | Go | 63/100 |
 | 4 | [excalibase/excalibase-graphql](./excalibase-excalibase-graphql.md) | ⭐ 32 | Java | 63/100 |
 | 5 | [mortennordbye/headroom](./mortennordbye-headroom.md) | ⭐ 10 | TypeScript | 60/100 |
