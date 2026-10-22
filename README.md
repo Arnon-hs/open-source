@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41722** |
+| **Projects** | **41723** |
 | **Categories** | **568** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -125,6 +125,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Email** | 2 | [Browse →](./email/) |
 | 🏷️ **Github** | 2 | [Browse →](./github/) |
 | 🏷️ **Openweight-ai** | 2 | [Browse →](./openweight-ai/) |
 | 🏷️ **Audit** | 2 | [Browse →](./audit/) |
@@ -287,7 +288,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Eip-712** | 1 | [Browse →](./eip-712/) |
 | 🏷️ **Jquery** | 1 | [Browse →](./jquery/) |
 | 🏷️ **Pack-size-parsing** | 1 | [Browse →](./pack-size-parsing/) |
-| 🏷️ **Email** | 1 | [Browse →](./email/) |
 | 🏷️ **Browser-checkout** | 1 | [Browse →](./browser-checkout/) |
 | 🏷️ **Base** | 1 | [Browse →](./base/) |
 | 🏷️ **Data-feeds** | 1 | [Browse →](./data-feeds/) |
