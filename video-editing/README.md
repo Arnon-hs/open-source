@@ -158,8 +158,8 @@
 | 148 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 105 | Swift | 67/100 |
 | 149 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 25 | Python | 67/100 |
 | 150 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 272 | TypeScript | 67/100 |
-| 151 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 67/100 |
-| 152 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 67/100 |
+| 151 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 67/100 |
+| 152 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 67/100 |
 | 153 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 201 | Go | 67/100 |
 | 154 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 4.5k | TypeScript | 67/100 |
 | 155 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 172 | Python | 67/100 |
@@ -414,8 +414,8 @@
 | 404 | [TheAcharya/MarkersExtractor](./theacharya-markersextractor.md) | ⭐ 47 | Swift | 54/100 |
 | 405 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 346 | C++ | 54/100 |
 | 406 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 54/100 |
-| 407 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
-| 408 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 407 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 408 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
 | 409 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 410 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 252 | — | 53/100 |
 | 411 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |

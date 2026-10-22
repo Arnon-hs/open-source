@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41580** |
-| **Categories** | **562** |
+| **Projects** | **41583** |
+| **Categories** | **564** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 16432 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4463 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4464 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2808 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2352 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1589 | [Browse →](./devtools/) |
@@ -207,6 +207,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Fontengineering** | 1 | [Browse →](./fontengineering/) |
+| 🏷️ **Offline-transcription** | 1 | [Browse →](./offline-transcription/) |
 | 🏷️ **Web-accessibility** | 1 | [Browse →](./web-accessibility/) |
 | 🏷️ **Deepinfer** | 1 | [Browse →](./deepinfer/) |
 | 🏷️ **Embeddinggemma2** | 1 | [Browse →](./embeddinggemma2/) |
