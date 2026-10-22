@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jedisct1/minisign](./jedisct1-minisign.md) | ⭐ 2.9k | C | 60/100 |
-| 2 | [pkarr/pkarr](./pkarr-pkarr.md) | ⭐ — | — | 24/100 |
+| 1 | [pkarr/pkarr](./pkarr-pkarr.md) | ⭐ — | — | 24/100 |
 
 ---
 

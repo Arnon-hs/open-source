@@ -11,7 +11,7 @@
 | 1 | [scs0209/dropzone-zero](./scs0209-dropzone-zero.md) | ⭐ — | TypeScript | 55/100 |
 | 2 | [kotewar/parchi](./kotewar-parchi.md) | ⭐ — | Python | 52/100 |
 | 3 | [oleg-vdv/sloth-ledger](./oleg-vdv-sloth-ledger.md) | ⭐ — | Python | 46/100 |
-| 4 | [drevendev/PatchPitch](./drevendev-patchpitch.md) | ⭐ 1 | Python | 43/100 |
+| 4 | [drevendev/PatchPitch](./drevendev-patchpitch.md) | ⭐ 1 | Python | 40/100 |
 | 5 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
 | 6 | [Abishethvarman/CiteWise](./abishethvarman-citewise.md) | ⭐ — | Python | 36/100 |
 | 7 | [Karishma-Das/porchlight](./karishma-das-porchlight.md) | ⭐ — | Python | 36/100 |

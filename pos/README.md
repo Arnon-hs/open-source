@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dannwaneri/mama-pos-daybook](./dannwaneri-mama-pos-daybook.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [dannwaneri/mama-pos-daybook](./dannwaneri-mama-pos-daybook.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 

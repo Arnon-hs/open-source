@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Victoria-vee/Ledger_2](./victoria-vee-ledger-2.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [Victoria-vee/Ledger_2](./victoria-vee-ledger-2.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 
