@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pandayv/mad-platform-community](./pandayv-mad-platform-community.md) | ⭐ — | Python | 51/100 |
+| 1 | [sagive/israeli-accessibility-extension](./sagive-israeli-accessibility-extension.md) | ⭐ 1 | HTML | 40/100 |
 
 ---
 
