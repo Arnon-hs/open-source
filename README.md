@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41624** |
+| **Projects** | **41637** |
 | **Categories** | **566** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16455 | [Browse →](./misc/) |
+| 📦 **Misc** | 16466 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4466 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2810 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2355 | [Browse →](./orchestration/) |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 788 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 692 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 650 | [Browse →](./networking/) |
-| 📱 **Mobile** | 642 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 643 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 617 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 607 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 538 | [Browse →](./database/) |
@@ -125,6 +125,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Nodejs** | 2 | [Browse →](./nodejs/) |
 | 🏷️ **Flutter** | 2 | [Browse →](./flutter/) |
 | 🏷️ **Migration** | 2 | [Browse →](./migration/) |
 | 🏷️ **Agent-skill** | 2 | [Browse →](./agent-skill/) |
@@ -475,7 +476,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Browser-based** | 1 | [Browse →](./browser-based/) |
 | 🏷️ **Document-management** | 1 | [Browse →](./document-management/) |
 | 🏷️ **Study** | 1 | [Browse →](./study/) |
-| 🏷️ **Nodejs** | 1 | [Browse →](./nodejs/) |
 | 🏷️ **Handgesture** | 1 | [Browse →](./handgesture/) |
 | 🏷️ **Studentportal** | 1 | [Browse →](./studentportal/) |
 | 🏷️ **Politics** | 1 | [Browse →](./politics/) |
