@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-payments · merchant of record · AI coding assistant · subscription · Stripe alternative
+Payments · MCP · AI/ML · Frontend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-AgentaOS/agentaos: AgentaOS/agentaos may be useful when its README and activity match a concrete workflow.. Use it for payments, merchant of record, AI coding assistant, subscription, Stripe alternative. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AgentaOS/agentaos: AgentaOS/agentaos helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-AgentaOS/agentaos: open-source проект в категориях payments, merchant of record, AI coding assistant, subscription, Stripe alternative. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+AgentaOS/agentaos: open-source проект в категориях Payments, MCP, AI/ML, Frontend, DevTools. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-AgentaOS/agentaos：AgentaOS/agentaos may be useful when its README and activity match a concrete workflow.。适合用于payments、merchant of record、AI coding assistant、subscription、Stripe alternative。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AgentaOS/agentaos：AgentaOS/agentaos helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** AgentaOS/agentaos may be useful when its README and activity match a concrete workflow.
+**Value:** AgentaOS/agentaos helps integrate monetization, billing, or PSP flows faster.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- integrate billing or checkout
+- evaluate PSP flows
+- automate payment operations
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -63,18 +65,18 @@ AgentaOS/agentaos：AgentaOS/agentaos may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 51/100 |
-| integration | 94/100 |
-| production | 65/100 |
-| outlook | 68/100 |
-| adoption | 13/100 |
-| categoryMatchCount | 500/100 |
-| stars | 15/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 15/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 51/100 |
+| recency | 80/100 |
+| adoption | 13/100 |
+| production | 65/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
