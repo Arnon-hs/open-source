@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41699** |
-| **Categories** | **564** |
+| **Projects** | **41706** |
+| **Categories** | **565** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,13 +23,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16503 | [Browse →](./misc/) |
+| 📦 **Misc** | 16506 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4473 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2814 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2358 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1589 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1437 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 942 | [Browse →](./backend/) |
+| 🏷️ **Automation** | 1436 | [Browse →](./automation/) |
+| ⚙️ **Backend** | 943 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 889 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 788 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 692 | [Browse →](./documents/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 179 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 147 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 122 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 119 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 120 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 39 | [Browse →](./open-source/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
@@ -90,6 +90,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Graph-database** | 5 | [Browse →](./graph-database/) |
 | 🏷️ **Open-source-ai** | 5 | [Browse →](./open-source-ai/) |
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
+| 🏷️ **Offline-ai** | 4 | [Browse →](./offline-ai/) |
 | 🏷️ **Hacktoberfest** | 4 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
@@ -101,6 +102,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Pixrestore** | 3 | [Browse →](./pixrestore/) |
 | 🏷️ **Audio** | 3 | [Browse →](./audio/) |
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
@@ -118,7 +120,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Embedded** | 3 | [Browse →](./embedded/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
-| 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
@@ -197,7 +198,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Bug-bounty** | 2 | [Browse →](./bug-bounty/) |
 | 🏷️ **Career-advice** | 2 | [Browse →](./career-advice/) |
 | 🏷️ **Showdev** | 2 | [Browse →](./showdev/) |
-| 🏷️ **Ai-safety** | 2 | [Browse →](./ai-safety/) |
 | 🏷️ **Angular** | 2 | [Browse →](./angular/) |
 | 🏷️ **System-one** | 2 | [Browse →](./system-one/) |
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
@@ -210,6 +210,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Alarm** | 1 | [Browse →](./alarm/) |
 | 🏷️ **File-management** | 1 | [Browse →](./file-management/) |
 | 🏷️ **Photogrammetry** | 1 | [Browse →](./photogrammetry/) |
 | 🏷️ **Theme** | 1 | [Browse →](./theme/) |

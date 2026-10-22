@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yema7582-code/namake](./yema7582-code-namake.md) | ⭐ — | Python | 42/100 |
+| 1 | [yema7582-code/namake](./yema7582-code-namake.md) | ⭐ — | Python | 39/100 |
 
 ---
 
