@@ -22,8 +22,8 @@
 | 12 | [SaifuddinM23/printbrief](./saifuddinm23-printbrief.md) | ⭐ — | JavaScript | 36/100 |
 | 13 | [Nivin-Sithija/ShadeWindow](./nivin-sithija-shadewindow.md) | ⭐ — | CSS | 36/100 |
 | 14 | [Gautam5514/hack_week3](./gautam5514-hack-week3.md) | ⭐ — | JavaScript | 33/100 |
-| 15 | [SaifuddinM23/gardenfix](./saifuddinm23-gardenfix.md) | ⭐ — | JavaScript | 33/100 |
-| 16 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 33/100 |
+| 15 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 33/100 |
+| 16 | [SaifuddinM23/gardenfix](./saifuddinm23-gardenfix.md) | ⭐ — | JavaScript | 30/100 |
 | 17 | [UniTools/recipes](./unitools-recipes.md) | ⭐ — | — | 28/100 |
 | 18 | [0xShugo/audio.cpp](./0xshugo-audio.cpp.md) | ⭐ — | — | 27/100 |
 | 19 | [unsloth-ai/unsloth](./unsloth-ai-unsloth.md) | ⭐ — | — | 24/100 |

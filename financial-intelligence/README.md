@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Stephen804-creator/Exprofit](./stephen804-creator-exprofit.md) | ⭐ — | Python | 39/100 |
+| 1 | [Stephen804-creator/Exprofit](./stephen804-creator-exprofit.md) | ⭐ — | Python | 36/100 |
 
 ---
 

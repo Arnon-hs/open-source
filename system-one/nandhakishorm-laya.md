@@ -1,6 +1,6 @@
 # NandhaKishorM/laya
 
-[![Stars](https://img.shields.io/github/stars/NandhaKishorM/laya?style=flat-square&color=yellow)](https://github.com/NandhaKishorM/laya/stargazers) [![Forks](https://img.shields.io/github/forks/NandhaKishorM/laya?style=flat-square&color=blue)](https://github.com/NandhaKishorM/laya/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NandhaKishorM/laya?style=flat-square&color=yellow)](https://github.com/NandhaKishorM/laya/stargazers) [![Forks](https://img.shields.io/github/forks/NandhaKishorM/laya?style=flat-square&color=blue)](https://github.com/NandhaKishorM/laya/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.3k |
 | 🍴 **Forks** | 996 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-09-22 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ system-one · multilingual · decision-model · Japanese · synthetic-data · be
 
 ### English
 
-NandhaKishorM/laya: NandhaKishorM/laya may be useful when its README and activity match a concrete workflow.. Use it for system-one, multilingual, decision-model, Japanese, synthetic-data, benchmark. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+NandhaKishorM/laya: NandhaKishorM/laya may be useful when its README and activity match a concrete workflow.. Use it for system-one, multilingual, decision-model, Japanese, synthetic-data, benchmark. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-NandhaKishorM/laya: open-source проект в категориях system-one, multilingual, decision-model, Japanese, synthetic-data, benchmark. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+NandhaKishorM/laya: open-source проект в категориях system-one, multilingual, decision-model, Japanese, synthetic-data, benchmark. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-NandhaKishorM/laya：NandhaKishorM/laya may be useful when its README and activity match a concrete workflow.。适合用于system-one、multilingual、decision-model、Japanese、synthetic-data、benchmark。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+NandhaKishorM/laya：NandhaKishorM/laya may be useful when its README and activity match a concrete workflow.。适合用于system-one、multilingual、decision-model、Japanese、synthetic-data、benchmark。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ NandhaKishorM/laya：NandhaKishorM/laya may be useful when its README and activi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,15 +63,15 @@ NandhaKishorM/laya：NandhaKishorM/laya may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 34/100 |
-| production | 56/100 |
-| outlook | 57/100 |
+| production | 49/100 |
+| outlook | 50/100 |
 | adoption | 84/100 |
 | categoryMatchCount | 600/100 |
 | stars | 87/100 |
 | forks | 75/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

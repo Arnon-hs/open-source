@@ -2,7 +2,7 @@
 
 > Payment processing, billing, checkout, invoicing
 
-**344 projects** in this category.
+**345 projects** in this category.
 
 ## Projects
 
@@ -75,8 +75,8 @@
 | 65 | [ethibox/ethibox](./ethibox-ethibox.md) | ⭐ 258 | JavaScript | 66/100 |
 | 66 | [samber/ro](./samber-ro.md) | ⭐ 645 | Go | 66/100 |
 | 67 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.4k | TypeScript | 66/100 |
-| 68 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
-| 69 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
+| 68 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
+| 69 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
 | 70 | [librae8226/nexus4cc](./librae8226-nexus4cc.md) | ⭐ 126 | TypeScript | 65/100 |
 | 71 | [hugoii/llm-agent-audit](./hugoii-llm-agent-audit.md) | ⭐ 38 | Python | 65/100 |
 | 72 | [zmievsa/cadwyn](./zmievsa-cadwyn.md) | ⭐ 303 | Python | 65/100 |
@@ -262,16 +262,16 @@
 | 252 | [killbill/killbill-commons](./killbill-killbill-commons.md) | ⭐ 144 | Java | 51/100 |
 | 253 | [Franlinozz/Sluice](./franlinozz-sluice.md) | ⭐ 32 | TypeScript | 51/100 |
 | 254 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 132 | PHP | 51/100 |
-| 255 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 51/100 |
-| 256 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 51/100 |
+| 255 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 51/100 |
+| 256 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 51/100 |
 | 257 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 51/100 |
 | 258 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 51/100 |
 | 259 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 51/100 |
 | 260 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 51 | Rust | 50/100 |
 | 261 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 50/100 |
 | 262 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 198 | Rust | 50/100 |
-| 263 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 88 | Java | 50/100 |
-| 264 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 85 | Java | 50/100 |
+| 263 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 85 | Java | 50/100 |
+| 264 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 88 | Java | 50/100 |
 | 265 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 266 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 65 | HTML | 50/100 |
 | 267 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 30 | HTML | 50/100 |
@@ -339,19 +339,20 @@
 | 329 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 51 | Elixir | 41/100 |
 | 330 | [Msalways/Translatron](./msalways-translatron.md) | ⭐ — | — | 40/100 |
 | 331 | [itsyebekhe/PSG](./itsyebekhe-psg.md) | ⭐ 341 | HTML | 40/100 |
-| 332 | [ujjavala/docgrity-vscode](./ujjavala-docgrity-vscode.md) | ⭐ — | TypeScript | 39/100 |
-| 333 | [felixpg13-glitch/spendshield](./felixpg13-glitch-spendshield.md) | ⭐ — | — | 38/100 |
-| 334 | [k7cfo/remove-your-data](./k7cfo-remove-your-data.md) | ⭐ — | — | 38/100 |
-| 335 | [paoloanzn/pi-black](./paoloanzn-pi-black.md) | ⭐ — | — | 38/100 |
-| 336 | [quyumkehinde/driftless](./quyumkehinde-driftless.md) | ⭐ — | — | 38/100 |
-| 337 | [palamim/usagent](./palamim-usagent.md) | ⭐ — | — | 38/100 |
-| 338 | [rtsdque/sentinel](./rtsdque-sentinel.md) | ⭐ — | — | 38/100 |
-| 339 | [hkc5/cursor-bridge](./hkc5-cursor-bridge.md) | ⭐ — | — | 38/100 |
-| 340 | [joverman/xrplink](./joverman-xrplink.md) | ⭐ — | — | 38/100 |
-| 341 | [paycan-app/paycan](./paycan-app-paycan.md) | ⭐ — | — | 38/100 |
-| 342 | [inferock/inferock-bench](./inferock-inferock-bench.md) | ⭐ — | — | 38/100 |
-| 343 | [edyiaeonian/eu-einvoice-bridge](./edyiaeonian-eu-einvoice-bridge.md) | ⭐ — | XSLT | 36/100 |
-| 344 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ — | — | 36/100 |
+| 332 | [Talha-Tahir2001/ledger-room](./talha-tahir2001-ledger-room.md) | ⭐ — | — | 39/100 |
+| 333 | [ujjavala/docgrity-vscode](./ujjavala-docgrity-vscode.md) | ⭐ — | TypeScript | 39/100 |
+| 334 | [felixpg13-glitch/spendshield](./felixpg13-glitch-spendshield.md) | ⭐ — | — | 38/100 |
+| 335 | [k7cfo/remove-your-data](./k7cfo-remove-your-data.md) | ⭐ — | — | 38/100 |
+| 336 | [paoloanzn/pi-black](./paoloanzn-pi-black.md) | ⭐ — | — | 38/100 |
+| 337 | [quyumkehinde/driftless](./quyumkehinde-driftless.md) | ⭐ — | — | 38/100 |
+| 338 | [palamim/usagent](./palamim-usagent.md) | ⭐ — | — | 38/100 |
+| 339 | [rtsdque/sentinel](./rtsdque-sentinel.md) | ⭐ — | — | 38/100 |
+| 340 | [hkc5/cursor-bridge](./hkc5-cursor-bridge.md) | ⭐ — | — | 38/100 |
+| 341 | [joverman/xrplink](./joverman-xrplink.md) | ⭐ — | — | 38/100 |
+| 342 | [paycan-app/paycan](./paycan-app-paycan.md) | ⭐ — | — | 38/100 |
+| 343 | [inferock/inferock-bench](./inferock-inferock-bench.md) | ⭐ — | — | 38/100 |
+| 344 | [edyiaeonian/eu-einvoice-bridge](./edyiaeonian-eu-einvoice-bridge.md) | ⭐ — | XSLT | 36/100 |
+| 345 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ — | — | 36/100 |
 
 ---
 
