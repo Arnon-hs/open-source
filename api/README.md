@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AlteredParadox/pmss-fleet-manager](./alteredparadox-pmss-fleet-manager.md) | ⭐ 1 | Go | 56/100 |
+| 1 | [AlteredParadox/pmss-fleet-manager](./alteredparadox-pmss-fleet-manager.md) | ⭐ 1 | Go | 53/100 |
 
 ---
 

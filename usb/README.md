@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [emirmrkaljevic/usb-rea](./emirmrkaljevic-usb-rea.md) | ⭐ 1 | Python | 63/100 |
+| 1 | [emirmrkaljevic/usb-rea](./emirmrkaljevic-usb-rea.md) | ⭐ 1 | Python | 60/100 |
 
 ---
 

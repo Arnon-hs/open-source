@@ -1,6 +1,6 @@
 # emirmrkaljevic/usb-rea
 
-[![Stars](https://img.shields.io/github/stars/emirmrkaljevic/usb-rea?style=flat-square&color=yellow)](https://github.com/emirmrkaljevic/usb-rea/stargazers) [![Forks](https://img.shields.io/github/forks/emirmrkaljevic/usb-rea?style=flat-square&color=blue)](https://github.com/emirmrkaljevic/usb-rea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emirmrkaljevic/usb-rea?style=flat-square&color=yellow)](https://github.com/emirmrkaljevic/usb-rea/stargazers) [![Forks](https://img.shields.io/github/forks/emirmrkaljevic/usb-rea?style=flat-square&color=blue)](https://github.com/emirmrkaljevic/usb-rea/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, generate an open Python/libusb driver. CLI + MCP server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-19 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ emirmrkaljevic/usb-rea：emirmrkaljevic/usb-rea may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 61/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

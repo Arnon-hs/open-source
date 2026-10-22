@@ -1,6 +1,6 @@
 # AlteredParadox/pmss-fleet-manager
 
-[![Stars](https://img.shields.io/github/stars/AlteredParadox/pmss-fleet-manager?style=flat-square&color=yellow)](https://github.com/AlteredParadox/pmss-fleet-manager/stargazers) [![Forks](https://img.shields.io/github/forks/AlteredParadox/pmss-fleet-manager?style=flat-square&color=blue)](https://github.com/AlteredParadox/pmss-fleet-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AlteredParadox/pmss-fleet-manager?style=flat-square&color=yellow)](https://github.com/AlteredParadox/pmss-fleet-manager/stargazers) [![Forks](https://img.shields.io/github/forks/AlteredParadox/pmss-fleet-manager?style=flat-square&color=blue)](https://github.com/AlteredParadox/pmss-fleet-manager/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Fleet Management for Pulsedmedia PMSS seedboxes/storageboxes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-19 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ AlteredParadox/pmss-fleet-manager：AlteredParadox/pmss-fleet-manager may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 66/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 8/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

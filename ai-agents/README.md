@@ -12,8 +12,8 @@
 | 2 | [openziti/zrok](./openziti-zrok.md) | ⭐ 4.8k | Go | 63/100 |
 | 3 | [DroBov1Tya/PentaCore](./drobov1tya-pentacore.md) | ⭐ 3 | Rust | 58/100 |
 | 4 | [cleitonaugusto/cleimesh](./cleitonaugusto-cleimesh.md) | ⭐ — | Rust | 56/100 |
-| 5 | [mrsergeiluzhnov/xonta](./mrsergeiluzhnov-xonta.md) | ⭐ — | JavaScript | 55/100 |
-| 6 | [Jfernandez27/deskmates](./jfernandez27-deskmates.md) | ⭐ — | TypeScript | 54/100 |
+| 5 | [Jfernandez27/deskmates](./jfernandez27-deskmates.md) | ⭐ — | TypeScript | 54/100 |
+| 6 | [mrsergeiluzhnov/xonta](./mrsergeiluzhnov-xonta.md) | ⭐ — | JavaScript | 52/100 |
 | 7 | [Artificialxtrax/agentgate](./artificialxtrax-agentgate.md) | ⭐ — | Python | 51/100 |
 | 8 | [retailbox-automation/fleetmemory](./retailbox-automation-fleetmemory.md) | ⭐ — | Python | 48/100 |
 | 9 | [furoute/acp-lite](./furoute-acp-lite.md) | ⭐ — | Python | 48/100 |

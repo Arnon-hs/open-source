@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Astro-naut/Loopcall](./astro-naut-loopcall.md) | ⭐ — | Python | 42/100 |
+| 1 | [Astro-naut/Loopcall](./astro-naut-loopcall.md) | ⭐ — | Python | 39/100 |
 
 ---
 

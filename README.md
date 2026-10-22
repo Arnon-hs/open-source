@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41573** |
-| **Categories** | **562** |
+| **Projects** | **41579** |
+| **Categories** | **561** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,18 +23,18 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16429 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4462 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16432 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4463 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2808 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2351 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2352 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1589 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1433 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 941 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 888 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 889 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 788 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 692 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 649 | [Browse →](./networking/) |
-| 📱 **Mobile** | 640 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 641 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 616 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 607 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 538 | [Browse →](./database/) |
@@ -81,6 +81,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Telegram** | 6 | [Browse →](./telegram/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
+| 🏷️ **Php** | 5 | [Browse →](./php/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
 | 🏷️ **Nextjs** | 5 | [Browse →](./nextjs/) |
 | 🏷️ **Whatsapp** | 5 | [Browse →](./whatsapp/) |
@@ -90,7 +91,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
 | 🏷️ **Hacktoberfest** | 4 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
-| 🏷️ **Php** | 4 | [Browse →](./php/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
 | 🏷️ **Pdf** | 4 | [Browse →](./pdf/) |
 | 🏷️ **X402** | 4 | [Browse →](./x402/) |
@@ -120,7 +120,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Embedded** | 3 | [Browse →](./embedded/) |
 | 🏷️ **Offline-checks** | 3 | [Browse →](./offline-checks/) |
-| 🏷️ **Minecraft** | 3 | [Browse →](./minecraft/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Offline-ai** | 3 | [Browse →](./offline-ai/) |
@@ -172,6 +171,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Salesforce** | 2 | [Browse →](./salesforce/) |
 | 🏷️ **Architecture** | 2 | [Browse →](./architecture/) |
 | 🏷️ **Agent-based-development** | 2 | [Browse →](./agent-based-development/) |
+| 🏷️ **Minecraft** | 2 | [Browse →](./minecraft/) |
 | 🏷️ **Ai-code-review** | 2 | [Browse →](./ai-code-review/) |
 | 🏷️ **Invoice-generation** | 2 | [Browse →](./invoice-generation/) |
 | 🏷️ **Ui** | 2 | [Browse →](./ui/) |
@@ -207,6 +207,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Deepinfer** | 1 | [Browse →](./deepinfer/) |
 | 🏷️ **Embeddinggemma2** | 1 | [Browse →](./embeddinggemma2/) |
 | 🏷️ **Fileorganizer** | 1 | [Browse →](./fileorganizer/) |
 | 🏷️ **Phishing** | 1 | [Browse →](./phishing/) |
@@ -391,8 +392,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Fastgpt** | 1 | [Browse →](./fastgpt/) |
 | 🏷️ **Visual-observability** | 1 | [Browse →](./visual-observability/) |
 | 🏷️ **Used-electronics** | 1 | [Browse →](./used-electronics/) |
-| 🏷️ **Small-retail** | 1 | [Browse →](./small-retail/) |
-| 🏷️ **Winget** | 1 | [Browse →](./winget/) |
 | 🏷️ **C** | 1 | [Browse →](./c/) |
 | 🏷️ **Streaming** | 1 | [Browse →](./streaming/) |
 | 🏷️ **Flight-search** | 1 | [Browse →](./flight-search/) |
