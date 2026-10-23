@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41827** |
+| **Projects** | **41836** |
 | **Categories** | **572** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16561 | [Browse →](./misc/) |
+| 📦 **Misc** | 16566 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4481 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2820 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2360 | [Browse →](./orchestration/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 516 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 507 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 461 | [Browse →](./templates/) |
-| 🔐 **Security** | 433 | [Browse →](./security/) |
+| 🔐 **Security** | 434 | [Browse →](./security/) |
 | 🏷️ **Communication** | 432 | [Browse →](./communication/) |
 | 💳 **Payments** | 350 | [Browse →](./payments/) |
 | 📊 **Data** | 342 | [Browse →](./data/) |
@@ -51,7 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 263 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 208 | [Browse →](./trading/) |
 | ✨ **Design** | 180 | [Browse →](./design/) |
-| 🏷️ **Content-creation** | 148 | [Browse →](./content-creation/) |
+| 🏷️ **Content-creation** | 150 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 123 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 120 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 38 | [Browse →](./open-source/) |
@@ -90,6 +90,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Nextjs** | 5 | [Browse →](./nextjs/) |
 | 🏷️ **Open-source-ai** | 5 | [Browse →](./open-source-ai/) |
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
+| 🏷️ **Agentic-workflows** | 4 | [Browse →](./agentic-workflows/) |
 | 🏷️ **2d-animation** | 4 | [Browse →](./2d-animation/) |
 | 🏷️ **Speech-recognition** | 4 | [Browse →](./speech-recognition/) |
 | 🏷️ **Offline-ai** | 4 | [Browse →](./offline-ai/) |
@@ -123,7 +124,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Dj** | 3 | [Browse →](./dj/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
-| 🏷️ **Agentic-workflows** | 3 | [Browse →](./agentic-workflows/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Embedded** | 3 | [Browse →](./embedded/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
