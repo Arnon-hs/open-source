@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nullabletype/dot-finance](./nullabletype-dot-finance.md) | ⭐ — | C# | 43/100 |
+| 1 | [nullabletype/dot-finance](./nullabletype-dot-finance.md) | ⭐ — | C# | 40/100 |
 
 ---
 
