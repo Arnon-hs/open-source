@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mehrdadxzaker/Koto](./mehrdadxzaker-koto.md) | ⭐ — | Python | 66/100 |
+| 1 | [mehrdadxzaker/Koto](./mehrdadxzaker-koto.md) | ⭐ — | Python | 63/100 |
 
 ---
 

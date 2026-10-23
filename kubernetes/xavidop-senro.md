@@ -1,6 +1,6 @@
 # xavidop/senro
 
-[![Stars](https://img.shields.io/github/stars/xavidop/senro?style=flat-square&color=yellow)](https://github.com/xavidop/senro/stargazers) [![Forks](https://img.shields.io/github/forks/xavidop/senro?style=flat-square&color=blue)](https://github.com/xavidop/senro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xavidop/senro?style=flat-square&color=yellow)](https://github.com/xavidop/senro/stargazers) [![Forks](https://img.shields.io/github/forks/xavidop/senro?style=flat-square&color=blue)](https://github.com/xavidop/senro/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Pipeline engine for Go: define typed, testable CI/CD and automation workflows as code, then run them locally, in containers, on Kubernetes or over SSH, with live attach, caching, retries and monorepo support.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ xavidop/senro：xavidop/senro may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 19/100 |
 | categoryMatchCount | 800/100 |
 | stars | 21/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

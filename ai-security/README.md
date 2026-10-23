@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [chrismsmr-celcom/cerbere-AG](./chrismsmr-celcom-cerbere-ag.md) | ⭐ 7 | Python | 55/100 |
+| 1 | [chrismsmr-celcom/cerbere-AG](./chrismsmr-celcom-cerbere-ag.md) | ⭐ 7 | Python | 52/100 |
 
 ---
 
