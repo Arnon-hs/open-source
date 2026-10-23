@@ -16,7 +16,7 @@
 | 6 | [cleitonaugusto/cleimesh](./cleitonaugusto-cleimesh.md) | ⭐ — | Rust | 56/100 |
 | 7 | [Jfernandez27/deskmates](./jfernandez27-deskmates.md) | ⭐ — | TypeScript | 54/100 |
 | 8 | [mrsergeiluzhnov/xonta](./mrsergeiluzhnov-xonta.md) | ⭐ — | JavaScript | 52/100 |
-| 9 | [Artificialxtrax/agentgate](./artificialxtrax-agentgate.md) | ⭐ — | Python | 51/100 |
+| 9 | [Artificialxtrax/agentgate](./artificialxtrax-agentgate.md) | ⭐ — | Python | 48/100 |
 | 10 | [kulehq/kule](./kulehq-kule.md) | ⭐ 1 | Rust | 45/100 |
 | 11 | [saifmodan2006/agenttrace](./saifmodan2006-agenttrace.md) | ⭐ — | Python | 43/100 |
 | 12 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |

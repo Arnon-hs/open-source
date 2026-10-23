@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sealkit-org/pdfseal](./sealkit-org-pdfseal.md) | ⭐ 1 | Vue | 41/100 |
+| 1 | [wuchunjie00/devtools](./wuchunjie00-devtools.md) | ⭐ — | HTML | 38/100 |
 
 ---
 

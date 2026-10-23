@@ -1,6 +1,6 @@
 # scidonia/leanin
 
-[![Stars](https://img.shields.io/github/stars/scidonia/leanin?style=flat-square&color=yellow)](https://github.com/scidonia/leanin/stargazers) [![Forks](https://img.shields.io/github/forks/scidonia/leanin?style=flat-square&color=blue)](https://github.com/scidonia/leanin/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scidonia/leanin?style=flat-square&color=yellow)](https://github.com/scidonia/leanin/stargazers) [![Forks](https://img.shields.io/github/forks/scidonia/leanin?style=flat-square&color=blue)](https://github.com/scidonia/leanin/network) [![Language](https://img.shields.io/badge/lang-Lean-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > A Tokio-inspired concurrency library and work-stealing scheduler for Lean 4, with machine-checked proofs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Lean |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ scidonia/leanin：scidonia/leanin may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 54/100 |
+| production | 51/100 |
+| outlook | 47/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 900/100 |
 | stars | 22/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

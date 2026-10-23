@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [calumk/InventorBetterScreenshotTool](./calumk-inventorbetterscreenshottool.md) | ⭐ — | C# | 43/100 |
+| 1 | [calumk/InventorBetterScreenshotTool](./calumk-inventorbetterscreenshottool.md) | ⭐ — | C# | 40/100 |
 
 ---
 

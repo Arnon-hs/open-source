@@ -1,6 +1,6 @@
 # calumk/InventorBetterScreenshotTool
 
-[![Stars](https://img.shields.io/github/stars/calumk/InventorBetterScreenshotTool?style=flat-square&color=yellow)](https://github.com/calumk/InventorBetterScreenshotTool/stargazers) [![Forks](https://img.shields.io/github/forks/calumk/InventorBetterScreenshotTool?style=flat-square&color=blue)](https://github.com/calumk/InventorBetterScreenshotTool/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/calumk/InventorBetterScreenshotTool?style=flat-square&color=yellow)](https://github.com/calumk/InventorBetterScreenshotTool/stargazers) [![Forks](https://img.shields.io/github/forks/calumk/InventorBetterScreenshotTool?style=flat-square&color=blue)](https://github.com/calumk/InventorBetterScreenshotTool/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Lightweight Autodesk Inventor 2025 add-in for clean white-background PNG screenshots (.ipt/.iam) with exact dimensions, preview, and per-user installer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Autodesk Inventor · Screenshot · Add‑in · Open‑source · C# · WinForms
 
 ### English
 
-calumk/InventorBetterScreenshotTool: calumk/InventorBetterScreenshotTool may be useful when its README and activity match a concrete workflow.. Use it for Autodesk Inventor, Screenshot, Add‑in, Open‑source, C#, WinForms. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+calumk/InventorBetterScreenshotTool: calumk/InventorBetterScreenshotTool may be useful when its README and activity match a concrete workflow.. Use it for Autodesk Inventor, Screenshot, Add‑in, Open‑source, C#, WinForms. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-calumk/InventorBetterScreenshotTool: open-source проект в категориях Autodesk Inventor, Screenshot, Add‑in, Open‑source, C#, WinForms. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+calumk/InventorBetterScreenshotTool: open-source проект в категориях Autodesk Inventor, Screenshot, Add‑in, Open‑source, C#, WinForms. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-calumk/InventorBetterScreenshotTool：calumk/InventorBetterScreenshotTool may be useful when its README and activity match a concrete workflow.。适合用于Autodesk Inventor、Screenshot、Add‑in、Open‑source、C#、WinForms。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+calumk/InventorBetterScreenshotTool：calumk/InventorBetterScreenshotTool may be useful when its README and activity match a concrete workflow.。适合用于Autodesk Inventor、Screenshot、Add‑in、Open‑source、C#、WinForms。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ calumk/InventorBetterScreenshotTool：calumk/InventorBetterScreenshotTool may be
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,15 +61,15 @@ calumk/InventorBetterScreenshotTool：calumk/InventorBetterScreenshotTool may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

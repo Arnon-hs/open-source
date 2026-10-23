@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [scidonia/leanin](./scidonia-leanin.md) | ⭐ 10 | Lean | 42/100 |
+| 1 | [scidonia/leanin](./scidonia-leanin.md) | ⭐ 10 | Lean | 39/100 |
 
 ---
 
