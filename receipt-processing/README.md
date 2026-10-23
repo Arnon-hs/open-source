@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [luoy16002-svg/shoebox](./luoy16002-svg-shoebox.md) | ⭐ — | TypeScript | 50/100 |
+| 1 | [luoy16002-svg/shoebox](./luoy16002-svg-shoebox.md) | ⭐ — | TypeScript | 47/100 |
 
 ---
 
