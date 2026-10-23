@@ -1,0 +1,80 @@
+# vicheanath/crudbooster-contrib
+
+[![Stars](https://img.shields.io/github/stars/vicheanath/crudbooster-contrib?style=flat-square&color=yellow)](https://github.com/vicheanath/crudbooster-contrib/stargazers) [![Forks](https://img.shields.io/github/forks/vicheanath/crudbooster-contrib?style=flat-square&color=blue)](https://github.com/vicheanath/crudbooster-contrib/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+
+> Version 7.0 Laravel CRUD Generator, Make an Advanced Web Application Quickly
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 1 |
+| 🍴 **Forks** | — |
+| 💻 **Language** | JavaScript |
+| 📈 **Score** | 48/100 |
+| 🗓️ **Last push** | 2026-10-23 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`crudbooster` `crudbooster-module` `crudbooster-package` `laravel` `laravel-framework` `laravel-package`
+
+## 🎯 Categories
+
+Laravel · PHP · legacy-maintenance · CRUDBooster · open-source-fork · admin-panels
+
+## 📝 Summary
+
+### English
+
+vicheanath/crudbooster-contrib: vicheanath/crudbooster-contrib may be useful when its README and activity match a concrete workflow.. Use it for Laravel, PHP, legacy-maintenance, CRUDBooster, open-source-fork, admin-panels. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+vicheanath/crudbooster-contrib: open-source проект в категориях Laravel, PHP, legacy-maintenance, CRUDBooster, open-source-fork, admin-panels. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+vicheanath/crudbooster-contrib：vicheanath/crudbooster-contrib may be useful when its README and activity match a concrete workflow.。适合用于Laravel、PHP、legacy-maintenance、CRUDBooster、open-source-fork、admin-panels。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** vicheanath/crudbooster-contrib may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 1 GitHub stars
+- updated 2026-10-23
+- primary language: JavaScript
+- 6 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 49/100 |
+| integration | 30/100 |
+| production | 60/100 |
+| outlook | 62/100 |
+| adoption | 5/100 |
+| categoryMatchCount | 600/100 |
+| stars | 6/100 |
+| forks | 0/100 |
+| recency | 100/100 |
+| topics | 75/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-23 · [View on GitHub](https://github.com/vicheanath/crudbooster-contrib) · [← Back to Laravel](./README.md)</sub>

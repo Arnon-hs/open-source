@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41756** |
+| **Projects** | **41760** |
 | **Categories** | **568** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16523 | [Browse →](./misc/) |
+| 📦 **Misc** | 16525 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4476 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2820 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2359 | [Browse →](./orchestration/) |
@@ -62,8 +62,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 21 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
-| 🏷️ **Local-ai** | 19 | [Browse →](./local-ai/) |
-| 🏷️ **Local-llm** | 17 | [Browse →](./local-llm/) |
+| 🏷️ **Local-llm** | 18 | [Browse →](./local-llm/) |
+| 🏷️ **Local-ai** | 18 | [Browse →](./local-ai/) |
 | 🏷️ **Freelance** | 16 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 13 | [Browse →](./ci/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
@@ -127,6 +127,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Blockchain** | 2 | [Browse →](./blockchain/) |
+| 🏷️ **Laravel** | 2 | [Browse →](./laravel/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
 | 🏷️ **Github** | 2 | [Browse →](./github/) |
 | 🏷️ **Openweight-ai** | 2 | [Browse →](./openweight-ai/) |
@@ -429,7 +431,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Error-tracking** | 1 | [Browse →](./error-tracking/) |
 | 🏷️ **Scraping** | 1 | [Browse →](./scraping/) |
 | 🏷️ **Manim** | 1 | [Browse →](./manim/) |
-| 🏷️ **Laravel** | 1 | [Browse →](./laravel/) |
 | 🏷️ **Knowledge-work** | 1 | [Browse →](./knowledge-work/) |
 | 🏷️ **Measurement** | 1 | [Browse →](./measurement/) |
 | 🏷️ **Litter-collection** | 1 | [Browse →](./litter-collection/) |
@@ -580,7 +581,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Expense-management** | 1 | [Browse →](./expense-management/) |
 | 🏷️ **Bot-protection** | 1 | [Browse →](./bot-protection/) |
 | 🏷️ **Ttrpg** | 1 | [Browse →](./ttrpg/) |
-| 🏷️ **Blockchain** | 1 | [Browse →](./blockchain/) |
 | 🏷️ **Open-data** | 1 | [Browse →](./open-data/) |
 | 🏷️ **Dart** | 1 | [Browse →](./dart/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |

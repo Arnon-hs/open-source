@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SrilalS/ForkPath](./srilals-forkpath.md) | ⭐ 1 | TypeScript | 48/100 |
+| 1 | [SrilalS/ForkPath](./srilals-forkpath.md) | ⭐ 1 | TypeScript | 45/100 |
 
 ---
 
