@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Abbagigo13/agentcredit](./abbagigo13-agentcredit.md) | ⭐ — | JavaScript | 41/100 |
+| 1 | [Abbagigo13/agentcredit](./abbagigo13-agentcredit.md) | ⭐ — | JavaScript | 38/100 |
 
 ---
 
