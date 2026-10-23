@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [indirect-b/chat-app](./indirect-b-chat-app.md) | ⭐ 1 | TypeScript | 48/100 |
+| 1 | [indirect-b/chat-app](./indirect-b-chat-app.md) | ⭐ 1 | TypeScript | 45/100 |
 
 ---
 
