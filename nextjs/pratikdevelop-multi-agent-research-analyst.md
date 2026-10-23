@@ -1,6 +1,6 @@
 # pratikdevelop/multi-agent-research-analyst
 
-[![Stars](https://img.shields.io/github/stars/pratikdevelop/multi-agent-research-analyst?style=flat-square&color=yellow)](https://github.com/pratikdevelop/multi-agent-research-analyst/stargazers) [![Forks](https://img.shields.io/github/forks/pratikdevelop/multi-agent-research-analyst?style=flat-square&color=blue)](https://github.com/pratikdevelop/multi-agent-research-analyst/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pratikdevelop/multi-agent-research-analyst?style=flat-square&color=yellow)](https://github.com/pratikdevelop/multi-agent-research-analyst/stargazers) [![Forks](https://img.shields.io/github/forks/pratikdevelop/multi-agent-research-analyst?style=flat-square&color=blue)](https://github.com/pratikdevelop/multi-agent-research-analyst/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-09-23 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ pratikdevelop/multi-agent-research-analyst：pratikdevelop/multi-agent-research-
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 28/100 |
+| quality | 23/100 |
 | integration | 34/100 |
-| production | 43/100 |
-| outlook | 41/100 |
+| production | 37/100 |
+| outlook | 34/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

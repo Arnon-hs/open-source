@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [gorakhargosh/watchdog](./gorakhargosh-watchdog.md) | ⭐ 7.4k | Python | 68/100 |
-| 2 | [xuebinqin/U-2-Net](./xuebinqin-u-2-net.md) | ⭐ 9.9k | Python | 66/100 |
+| 1 | [xuebinqin/U-2-Net](./xuebinqin-u-2-net.md) | ⭐ 9.9k | Python | 66/100 |
+| 2 | [gorakhargosh/watchdog](./gorakhargosh-watchdog.md) | ⭐ 7.4k | Python | 65/100 |
 | 3 | [ZhengPeng7/BiRefNet](./zhengpeng7-birefnet.md) | ⭐ 4.3k | Python | 60/100 |
 | 4 | [soundmandt-dot/the-vault](./soundmandt-dot-the-vault.md) | ⭐ — | JavaScript | 48/100 |
 | 5 | [mattdesl/gifenc](./mattdesl-gifenc.md) | ⭐ 342 | JavaScript | 47/100 |

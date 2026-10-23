@@ -11,7 +11,7 @@
 | 1 | [zeestack/dendra](./zeestack-dendra.md) | ⭐ 1 | HTML | 67/100 |
 | 2 | [darkroomengineering/lenis](./darkroomengineering-lenis.md) | ⭐ 16.7k | TypeScript | 63/100 |
 | 3 | [terrizoaguimor/aureform-ui](./terrizoaguimor-aureform-ui.md) | ⭐ — | TypeScript | 48/100 |
-| 4 | [pratikdevelop/multi-agent-research-analyst](./pratikdevelop-multi-agent-research-analyst.md) | ⭐ 1 | TypeScript | 39/100 |
+| 4 | [pratikdevelop/multi-agent-research-analyst](./pratikdevelop-multi-agent-research-analyst.md) | ⭐ 1 | TypeScript | 36/100 |
 | 5 | [apps/nextperf](./apps-nextperf.md) | ⭐ — | — | 24/100 |
 
 ---
