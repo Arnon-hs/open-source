@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-crypto · desktop-app · winui · open-source · price-ticker · wallet-watcher
+Crypto · Productivity · Data
 
 ## 📝 Summary
 
 ### English
 
-gautamgpt1/TrenchHQ: gautamgpt1/TrenchHQ may be useful when its README and activity match a concrete workflow.. Use it for crypto, desktop-app, winui, open-source, price-ticker, wallet-watcher. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+gautamgpt1/TrenchHQ: gautamgpt1/TrenchHQ helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-gautamgpt1/TrenchHQ: open-source проект в категориях crypto, desktop-app, winui, open-source, price-ticker, wallet-watcher. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+gautamgpt1/TrenchHQ: open-source проект в категориях Crypto, Productivity, Data. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-gautamgpt1/TrenchHQ：gautamgpt1/TrenchHQ may be useful when its README and activity match a concrete workflow.。适合用于crypto、desktop-app、winui、open-source、price-ticker、wallet-watcher。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+gautamgpt1/TrenchHQ：gautamgpt1/TrenchHQ helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** gautamgpt1/TrenchHQ may be useful when its README and activity match a concrete workflow.
+**Value:** gautamgpt1/TrenchHQ helps prototype or inspect blockchain workflows with open implementation details.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -62,18 +64,18 @@ gautamgpt1/TrenchHQ：gautamgpt1/TrenchHQ may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 43/100 |
-| integration | 30/100 |
-| production | 48/100 |
-| outlook | 54/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 600/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 54/100 |
+| quality | 43/100 |
+| recency | 60/100 |
+| adoption | 5/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

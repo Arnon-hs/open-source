@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AmintaCCCP/GithubStarsManager](./amintacccp-githubstarsmanager.md) | ⭐ 3.7k | TypeScript | 78/100 |
+| 1 | [burhanarif472-lgtm/fixproof](./burhanarif472-lgtm-fixproof.md) | ⭐ — | JavaScript | 52/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hiroki-abe-58/ComfyUI-DBS](./hiroki-abe-58-comfyui-dbs.md) | ⭐ 41 | Python | 53/100 |
+| 1 | [hiroki-abe-58/ComfyUI-DBS](./hiroki-abe-58-comfyui-dbs.md) | ⭐ 41 | Python | 50/100 |
 | 2 | [JusperLee/Dynamic-Band-Splitting](./jusperlee-dynamic-band-splitting.md) | ⭐ 30 | Python | 45/100 |
 
 ---
