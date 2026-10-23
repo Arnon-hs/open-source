@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41842** |
-| **Categories** | **572** |
+| **Projects** | **41851** |
+| **Categories** | **575** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16569 | [Browse →](./misc/) |
+| 📦 **Misc** | 16572 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4481 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2820 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2360 | [Browse →](./orchestration/) |
@@ -51,7 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 263 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 208 | [Browse →](./trading/) |
 | ✨ **Design** | 180 | [Browse →](./design/) |
-| 🏷️ **Content-creation** | 150 | [Browse →](./content-creation/) |
+| 🏷️ **Content-creation** | 151 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 123 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 120 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 38 | [Browse →](./open-source/) |
@@ -59,8 +59,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Ai-agents** | 32 | [Browse →](./ai-agents/) |
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
-| 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 22 | [Browse →](./llm/) |
+| 🏷️ **Privacy** | 22 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 18 | [Browse →](./local-llm/) |
 | 🏷️ **Local-ai** | 18 | [Browse →](./local-ai/) |
@@ -106,6 +106,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
 | 🏷️ **Cli** | 3 | [Browse →](./cli/) |
 | 🏷️ **Claude** | 3 | [Browse →](./claude/) |
 | 🏷️ **Resume** | 3 | [Browse →](./resume/) |
@@ -132,6 +133,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Alarm** | 2 | [Browse →](./alarm/) |
+| 🏷️ **On-premise** | 2 | [Browse →](./on-premise/) |
 | 🏷️ **Chrome-extension** | 2 | [Browse →](./chrome-extension/) |
 | 🏷️ **Job-search** | 2 | [Browse →](./job-search/) |
 | 🏷️ **Blockchain** | 2 | [Browse →](./blockchain/) |
@@ -155,7 +158,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monitoring** | 2 | [Browse →](./monitoring/) |
 | 🏷️ **Sync** | 2 | [Browse →](./sync/) |
 | 🏷️ **Text-to-speech** | 2 | [Browse →](./text-to-speech/) |
-| 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Ai-assisted-development** | 2 | [Browse →](./ai-assisted-development/) |
 | 🏷️ **Swift** | 2 | [Browse →](./swift/) |
 | 🏷️ **Kodi** | 2 | [Browse →](./kodi/) |
@@ -219,6 +221,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Reminder** | 1 | [Browse →](./reminder/) |
+| 🏷️ **Ai-detection** | 1 | [Browse →](./ai-detection/) |
 | 🏷️ **Slow-productivity** | 1 | [Browse →](./slow-productivity/) |
 | 🏷️ **Readlater** | 1 | [Browse →](./readlater/) |
 | 🏷️ **Sqlite** | 1 | [Browse →](./sqlite/) |
@@ -232,7 +236,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cs2** | 1 | [Browse →](./cs2/) |
 | 🏷️ **Background-jobs** | 1 | [Browse →](./background-jobs/) |
 | 🏷️ **Job-queue** | 1 | [Browse →](./job-queue/) |
-| 🏷️ **Alarm** | 1 | [Browse →](./alarm/) |
 | 🏷️ **File-management** | 1 | [Browse →](./file-management/) |
 | 🏷️ **Photogrammetry** | 1 | [Browse →](./photogrammetry/) |
 | 🏷️ **Theme** | 1 | [Browse →](./theme/) |

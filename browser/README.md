@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tarunvashishth/screenshot-sloth](./tarunvashishth-screenshot-sloth.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [tarunvashishth/screenshot-sloth](./tarunvashishth-screenshot-sloth.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

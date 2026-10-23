@@ -2,7 +2,7 @@
 
 > 
 
-**150 projects** in this category.
+**151 projects** in this category.
 
 ## Projects
 
@@ -120,44 +120,45 @@
 | 110 | [kaketiti/magickit](./kaketiti-magickit.md) | ⭐ — | HTML | 53/100 |
 | 111 | [Ali-Cheikh/nosey-agent](./ali-cheikh-nosey-agent.md) | ⭐ 1 | JavaScript | 53/100 |
 | 112 | [worldbench/awesome-agentic-world-model](./worldbench-awesome-agentic-world-model.md) | ⭐ 47 | HTML | 53/100 |
-| 113 | [MixItUpBot/Desktop](./mixitupbot-desktop.md) | ⭐ 34 | C# | 51/100 |
-| 114 | [SamurAIGPT/seedance-2-generator](./samuraigpt-seedance-2-generator.md) | ⭐ 52 | JavaScript | 51/100 |
-| 115 | [Gleaming0427/repoweek](./gleaming0427-repoweek.md) | ⭐ 1 | JavaScript | 50/100 |
-| 116 | [contraptionco/postcard](./contraptionco-postcard.md) | ⭐ 598 | Ruby | 50/100 |
-| 117 | [voxell-tech/velyst](./voxell-tech-velyst.md) | ⭐ 247 | Rust | 50/100 |
-| 118 | [farukkolip/xtapdown-mcp](./farukkolip-xtapdown-mcp.md) | ⭐ — | — | 49/100 |
-| 119 | [forwardemail/forwardemail.net](./forwardemail-forwardemail.net.md) | ⭐ 1.6k | JavaScript | 49/100 |
-| 120 | [lightx2v/Minimax-h3-Turbo](./lightx2v-minimax-h3-turbo.md) | ⭐ 764 | diffusers | 48/100 |
-| 121 | [joniilmanfahmi00-collab/musespark-mcp](./joniilmanfahmi00-collab-musespark-mcp.md) | ⭐ — | PHP | 47/100 |
-| 122 | [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](./fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree.md) | ⭐ 296 | diffusers | 46/100 |
-| 123 | [walterwritesai/walter-skills](./walterwritesai-walter-skills.md) | ⭐ 8 | — | 46/100 |
-| 124 | [Lightricks/LTX-2.5](./lightricks-ltx-2.5.md) | ⭐ 1.6k | diffusion-single-file | 46/100 |
-| 125 | [Lightricks/LTX-2.3](./lightricks-ltx-2.3.md) | ⭐ 1.8k | diffusers | 46/100 |
-| 126 | [Comfy-Org/Wan-2.2](./comfy-org-wan-2.2.md) | ⭐ 963 | diffusion-single-file | 45/100 |
-| 127 | [DeveloperPuneet/Crowdwide](./developerpuneet-crowdwide.md) | ⭐ 1 | JavaScript | 45/100 |
-| 128 | [Comfy-Org/Wan_2.2_ComfyUI_Repackaged](./comfy-org-wan-2.2-comfyui-repackaged.md) | ⭐ 842 | diffusion-single-file | 45/100 |
-| 129 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
-| 130 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 666 | HTML | 45/100 |
-| 131 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ — | — | 43/100 |
-| 132 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ — | — | 43/100 |
-| 133 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ — | — | 43/100 |
-| 134 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
-| 135 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
-| 136 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
-| 137 | [worldlabsai/atlas-camera-studio](./worldlabsai-atlas-camera-studio.md) | ⭐ — | — | 41/100 |
-| 138 | [ai/size-limit](./ai-size-limit.md) | ⭐ — | — | 40/100 |
-| 139 | [BigoudOps/Libre-financement](./bigoudops-libre-financement.md) | ⭐ — | — | 40/100 |
-| 140 | [Lightricks/LTX-Video](./lightricks-ltx-video.md) | ⭐ 2.3k | diffusers | 40/100 |
-| 141 | [pelazas/p2pmux](./pelazas-p2pmux.md) | ⭐ — | — | 40/100 |
-| 142 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ — | — | 38/100 |
-| 143 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 38/100 |
-| 144 | [QuantStack/Wan2.2-TI2V-5B-GGUF](./quantstack-wan2.2-ti2v-5b-gguf.md) | ⭐ 231 | gguf | 37/100 |
-| 145 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
-| 146 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
-| 147 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 148 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
-| 149 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 150 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
+| 113 | [PrismPoster/creator-tools](./prismposter-creator-tools.md) | ⭐ — | — | 52/100 |
+| 114 | [MixItUpBot/Desktop](./mixitupbot-desktop.md) | ⭐ 34 | C# | 51/100 |
+| 115 | [SamurAIGPT/seedance-2-generator](./samuraigpt-seedance-2-generator.md) | ⭐ 52 | JavaScript | 51/100 |
+| 116 | [Gleaming0427/repoweek](./gleaming0427-repoweek.md) | ⭐ 1 | JavaScript | 50/100 |
+| 117 | [contraptionco/postcard](./contraptionco-postcard.md) | ⭐ 598 | Ruby | 50/100 |
+| 118 | [voxell-tech/velyst](./voxell-tech-velyst.md) | ⭐ 247 | Rust | 50/100 |
+| 119 | [farukkolip/xtapdown-mcp](./farukkolip-xtapdown-mcp.md) | ⭐ — | — | 49/100 |
+| 120 | [forwardemail/forwardemail.net](./forwardemail-forwardemail.net.md) | ⭐ 1.6k | JavaScript | 49/100 |
+| 121 | [lightx2v/Minimax-h3-Turbo](./lightx2v-minimax-h3-turbo.md) | ⭐ 764 | diffusers | 48/100 |
+| 122 | [joniilmanfahmi00-collab/musespark-mcp](./joniilmanfahmi00-collab-musespark-mcp.md) | ⭐ — | PHP | 47/100 |
+| 123 | [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](./fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree.md) | ⭐ 296 | diffusers | 46/100 |
+| 124 | [walterwritesai/walter-skills](./walterwritesai-walter-skills.md) | ⭐ 8 | — | 46/100 |
+| 125 | [Lightricks/LTX-2.5](./lightricks-ltx-2.5.md) | ⭐ 1.6k | diffusion-single-file | 46/100 |
+| 126 | [Lightricks/LTX-2.3](./lightricks-ltx-2.3.md) | ⭐ 1.8k | diffusers | 46/100 |
+| 127 | [Comfy-Org/Wan-2.2](./comfy-org-wan-2.2.md) | ⭐ 963 | diffusion-single-file | 45/100 |
+| 128 | [DeveloperPuneet/Crowdwide](./developerpuneet-crowdwide.md) | ⭐ 1 | JavaScript | 45/100 |
+| 129 | [Comfy-Org/Wan_2.2_ComfyUI_Repackaged](./comfy-org-wan-2.2-comfyui-repackaged.md) | ⭐ 842 | diffusion-single-file | 45/100 |
+| 130 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
+| 131 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 666 | HTML | 45/100 |
+| 132 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ — | — | 43/100 |
+| 133 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ — | — | 43/100 |
+| 134 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ — | — | 43/100 |
+| 135 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
+| 136 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
+| 137 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
+| 138 | [worldlabsai/atlas-camera-studio](./worldlabsai-atlas-camera-studio.md) | ⭐ — | — | 41/100 |
+| 139 | [ai/size-limit](./ai-size-limit.md) | ⭐ — | — | 40/100 |
+| 140 | [BigoudOps/Libre-financement](./bigoudops-libre-financement.md) | ⭐ — | — | 40/100 |
+| 141 | [Lightricks/LTX-Video](./lightricks-ltx-video.md) | ⭐ 2.3k | diffusers | 40/100 |
+| 142 | [pelazas/p2pmux](./pelazas-p2pmux.md) | ⭐ — | — | 40/100 |
+| 143 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ — | — | 38/100 |
+| 144 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 38/100 |
+| 145 | [QuantStack/Wan2.2-TI2V-5B-GGUF](./quantstack-wan2.2-ti2v-5b-gguf.md) | ⭐ 231 | gguf | 37/100 |
+| 146 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
+| 147 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
+| 148 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
+| 149 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 150 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 151 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 
 ---
 
