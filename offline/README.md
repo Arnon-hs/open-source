@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [opencv/opencv_zoo](./opencv-opencv-zoo.md) | ⭐ 1.1k | Python | 56/100 |
 | 2 | [tylan2001ody-del/merchant-ai-draft](./tylan2001ody-del-merchant-ai-draft.md) | ⭐ — | Python | 50/100 |
-| 3 | [Shishir2405/shelf](./shishir2405-shelf.md) | ⭐ — | TypeScript | 45/100 |
-| 4 | [ItsPriyamSri/sourcerer](./itspriyamsri-sourcerer.md) | ⭐ — | TypeScript | 44/100 |
-| 5 | [Burthcer/Wisperno](./burthcer-wisperno.md) | ⭐ — | Python | 43/100 |
+| 3 | [ItsPriyamSri/sourcerer](./itspriyamsri-sourcerer.md) | ⭐ — | TypeScript | 44/100 |
+| 4 | [Burthcer/Wisperno](./burthcer-wisperno.md) | ⭐ — | Python | 43/100 |
+| 5 | [Shishir2405/shelf](./shishir2405-shelf.md) | ⭐ — | TypeScript | 41/100 |
 | 6 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 40/100 |
 | 7 | [Wandercoil/lensit](./wandercoil-lensit.md) | ⭐ — | Python | 39/100 |
 | 8 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 36/100 |

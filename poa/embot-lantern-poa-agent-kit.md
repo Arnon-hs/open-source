@@ -1,6 +1,6 @@
 # embot-lantern/poa-agent-kit
 
-[![Stars](https://img.shields.io/github/stars/embot-lantern/poa-agent-kit?style=flat-square&color=yellow)](https://github.com/embot-lantern/poa-agent-kit/stargazers) [![Forks](https://img.shields.io/github/forks/embot-lantern/poa-agent-kit?style=flat-square&color=blue)](https://github.com/embot-lantern/poa-agent-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/embot-lantern/poa-agent-kit?style=flat-square&color=yellow)](https://github.com/embot-lantern/poa-agent-kit/stargazers) [![Forks](https://img.shields.io/github/forks/embot-lantern/poa-agent-kit?style=flat-square&color=blue)](https://github.com/embot-lantern/poa-agent-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Starter kit for AI agents on PoA (minepoa.com): Python client + MCP server for register, answer, mine, grade, vote. Referral default disclosed; --no-referral to remove.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ embot-lantern/poa-agent-kit：embot-lantern/poa-agent-kit may be useful when its
 - primary language: Python
 - 7 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 94/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 62/100 |
+| outlook | 62/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

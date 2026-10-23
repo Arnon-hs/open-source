@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [embot-lantern/poa-agent-kit](./embot-lantern-poa-agent-kit.md) | ⭐ — | Python | 69/100 |
+| 1 | [embot-lantern/poa-agent-kit](./embot-lantern-poa-agent-kit.md) | ⭐ — | Python | 66/100 |
 
 ---
 

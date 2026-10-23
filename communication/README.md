@@ -2,7 +2,7 @@
 
 > 
 
-**431 projects** in this category.
+**432 projects** in this category.
 
 ## Projects
 
@@ -82,8 +82,8 @@
 | 72 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.2k | Python | 65/100 |
 | 73 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 1.9k | C++ | 65/100 |
 | 74 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.5k | C++ | 65/100 |
-| 75 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 76 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 75 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 76 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 77 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 725 | TypeScript | 65/100 |
 | 78 | [logto-io/logto](./logto-io-logto.md) | ⭐ 12.7k | TypeScript | 65/100 |
 | 79 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 348 | TypeScript | 65/100 |
@@ -384,61 +384,62 @@
 | 374 | [chattocorp/chatto](./chattocorp-chatto.md) | ⭐ — | — | 41/100 |
 | 375 | [rajibbora1965/WhatsAppCoding](./rajibbora1965-whatsappcoding.md) | ⭐ — | — | 41/100 |
 | 376 | [djc/tokio-imap](./djc-tokio-imap.md) | ⭐ 132 | Rust | 41/100 |
-| 377 | [allure-framework/allure3](./allure-framework-allure3.md) | ⭐ — | — | 40/100 |
-| 378 | [sakethbalijepalli/NannaDesk](./sakethbalijepalli-nannadesk.md) | ⭐ — | Python | 39/100 |
-| 379 | [MihaiMotoi/SifEdge](./mihaimotoi-sifedge.md) | ⭐ — | JavaScript | 39/100 |
-| 380 | [ulofiai/ulofi-alias](./ulofiai-ulofi-alias.md) | ⭐ — | — | 39/100 |
-| 381 | [Anmol-Baranwal/hndigest](./anmol-baranwal-hndigest.md) | ⭐ — | — | 39/100 |
-| 382 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 39/100 |
-| 383 | [cod3rboy/docchat](./cod3rboy-docchat.md) | ⭐ — | — | 38/100 |
-| 384 | [ChangemakerStudios/Papercut-SMTP](./changemakerstudios-papercut-smtp.md) | ⭐ — | — | 38/100 |
-| 385 | [EbodShojaei/EMLViewer](./ebodshojaei-emlviewer.md) | ⭐ — | — | 38/100 |
-| 386 | [SunnyLich/OpenWand](./sunnylich-openwand.md) | ⭐ — | — | 38/100 |
-| 387 | [flovoice53-tech/otp-watch](./flovoice53-tech-otp-watch.md) | ⭐ — | — | 38/100 |
-| 388 | [DouglasdeMoura/chroncal](./douglasdemoura-chroncal.md) | ⭐ — | — | 38/100 |
-| 389 | [luoxiprovo/bearmail](./luoxiprovo-bearmail.md) | ⭐ — | — | 38/100 |
-| 390 | [john-abah/ABAH_CHAT](./john-abah-abah-chat.md) | ⭐ — | — | 38/100 |
-| 391 | [beescuit/chatflare](./beescuit-chatflare.md) | ⭐ — | — | 38/100 |
-| 392 | [alejandrocora/WhatsAppMediaEnumeration](./alejandrocora-whatsappmediaenumeration.md) | ⭐ — | — | 38/100 |
-| 393 | [3kh0/slack-datamine](./3kh0-slack-datamine.md) | ⭐ — | — | 38/100 |
-| 394 | [MatrAIx-ai/MatrAIx-Persona-8B](./matraix-ai-matraix-persona-8b.md) | ⭐ — | — | 38/100 |
-| 395 | [Tonterias/h2aichat`](./tonterias-h2aichat-.md) | ⭐ — | — | 38/100 |
-| 396 | [Fake4d/claude-school](./fake4d-claude-school.md) | ⭐ — | — | 38/100 |
-| 397 | [Nellix/sonic-chat](./nellix-sonic-chat.md) | ⭐ — | — | 38/100 |
-| 398 | [Tonterias/h2aichat](./tonterias-h2aichat.md) | ⭐ — | — | 38/100 |
-| 399 | [chddaniel/chatpack](./chddaniel-chatpack.md) | ⭐ — | — | 38/100 |
-| 400 | [EvanZhouDev/calendar-tetris](./evanzhoudev-calendar-tetris.md) | ⭐ — | — | 38/100 |
-| 401 | [bctnry/OpenSyzygy](./bctnry-opensyzygy.md) | ⭐ — | — | 38/100 |
-| 402 | [Emn4tor/Seal](./emn4tor-seal.md) | ⭐ — | — | 38/100 |
-| 403 | [mmcs-work/git-explain-tui](./mmcs-work-git-explain-tui.md) | ⭐ — | — | 38/100 |
-| 404 | [ZM-BAD/headroom](./zm-bad-headroom.md) | ⭐ — | — | 38/100 |
-| 405 | [mohamed--abdel-maksoud/pisiguard](./mohamed--abdel-maksoud-pisiguard.md) | ⭐ — | — | 38/100 |
-| 406 | [lascauje/callmar](./lascauje-callmar.md) | ⭐ — | — | 38/100 |
-| 407 | [mihirshaikbugs/kid-compass](./mihirshaikbugs-kid-compass.md) | ⭐ — | — | 38/100 |
-| 408 | [jeninh/openotp](./jeninh-openotp.md) | ⭐ — | — | 38/100 |
-| 409 | [gianlucamazza/xllama](./gianlucamazza-xllama.md) | ⭐ — | — | 38/100 |
-| 410 | [bounce-chat/bounce](./bounce-chat-bounce.md) | ⭐ — | — | 38/100 |
-| 411 | [docbrain-ai/docbrain](./docbrain-ai-docbrain.md) | ⭐ — | — | 38/100 |
-| 412 | [knguyenanhoa/lifecalwall](./knguyenanhoa-lifecalwall.md) | ⭐ — | — | 38/100 |
-| 413 | [glenncalleja/wakewire](./glenncalleja-wakewire.md) | ⭐ — | — | 38/100 |
-| 414 | [leapmemory/memory-bench](./leapmemory-memory-bench.md) | ⭐ — | — | 38/100 |
-| 415 | [laserlemon/slack_progress_bar](./laserlemon-slack-progress-bar.md) | ⭐ — | — | 38/100 |
-| 416 | [sectapunterx/heap](./sectapunterx-heap.md) | ⭐ — | — | 38/100 |
-| 417 | [vorjdux/monocoque](./vorjdux-monocoque.md) | ⭐ — | — | 38/100 |
-| 418 | [deepanwadhwa/samosa-chat](./deepanwadhwa-samosa-chat.md) | ⭐ — | — | 38/100 |
-| 419 | [hparadiz/yoman](./hparadiz-yoman.md) | ⭐ — | — | 38/100 |
-| 420 | [thrinz/agentpeek](./thrinz-agentpeek.md) | ⭐ — | — | 38/100 |
-| 421 | [benri-ai/slack-debloat](./benri-ai-slack-debloat.md) | ⭐ — | — | 38/100 |
-| 422 | [croit/llm-gateway](./croit-llm-gateway.md) | ⭐ — | — | 38/100 |
-| 423 | [warmbly/warmbly](./warmbly-warmbly.md) | ⭐ — | — | 38/100 |
-| 424 | [simplex-chat/simplex-chat](./simplex-chat-simplex-chat.md) | ⭐ — | — | 38/100 |
-| 425 | [derekmpeterson/paige](./derekmpeterson-paige.md) | ⭐ — | — | 38/100 |
-| 426 | [CopilotKit/OpenTag](./copilotkit-opentag.md) | ⭐ — | — | 38/100 |
-| 427 | [erabytse/CryptoLogin](./erabytse-cryptologin.md) | ⭐ — | — | 38/100 |
-| 428 | [terrordrummer/robyx-ai](./terrordrummer-robyx-ai.md) | ⭐ — | — | 38/100 |
-| 429 | [danube-messaging/danube](./danube-messaging-danube.md) | ⭐ 161 | Rust | 37/100 |
-| 430 | [EbotGT/chat-memory-protocol](./ebotgt-chat-memory-protocol.md) | ⭐ — | — | 36/100 |
-| 431 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 28/100 |
+| 377 | [ssanaullahrais/Chat-Vault](./ssanaullahrais-chat-vault.md) | ⭐ 1 | TypeScript | 40/100 |
+| 378 | [allure-framework/allure3](./allure-framework-allure3.md) | ⭐ — | — | 40/100 |
+| 379 | [sakethbalijepalli/NannaDesk](./sakethbalijepalli-nannadesk.md) | ⭐ — | Python | 39/100 |
+| 380 | [MihaiMotoi/SifEdge](./mihaimotoi-sifedge.md) | ⭐ — | JavaScript | 39/100 |
+| 381 | [ulofiai/ulofi-alias](./ulofiai-ulofi-alias.md) | ⭐ — | — | 39/100 |
+| 382 | [Anmol-Baranwal/hndigest](./anmol-baranwal-hndigest.md) | ⭐ — | — | 39/100 |
+| 383 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 39/100 |
+| 384 | [cod3rboy/docchat](./cod3rboy-docchat.md) | ⭐ — | — | 38/100 |
+| 385 | [ChangemakerStudios/Papercut-SMTP](./changemakerstudios-papercut-smtp.md) | ⭐ — | — | 38/100 |
+| 386 | [EbodShojaei/EMLViewer](./ebodshojaei-emlviewer.md) | ⭐ — | — | 38/100 |
+| 387 | [SunnyLich/OpenWand](./sunnylich-openwand.md) | ⭐ — | — | 38/100 |
+| 388 | [flovoice53-tech/otp-watch](./flovoice53-tech-otp-watch.md) | ⭐ — | — | 38/100 |
+| 389 | [DouglasdeMoura/chroncal](./douglasdemoura-chroncal.md) | ⭐ — | — | 38/100 |
+| 390 | [luoxiprovo/bearmail](./luoxiprovo-bearmail.md) | ⭐ — | — | 38/100 |
+| 391 | [john-abah/ABAH_CHAT](./john-abah-abah-chat.md) | ⭐ — | — | 38/100 |
+| 392 | [beescuit/chatflare](./beescuit-chatflare.md) | ⭐ — | — | 38/100 |
+| 393 | [alejandrocora/WhatsAppMediaEnumeration](./alejandrocora-whatsappmediaenumeration.md) | ⭐ — | — | 38/100 |
+| 394 | [3kh0/slack-datamine](./3kh0-slack-datamine.md) | ⭐ — | — | 38/100 |
+| 395 | [MatrAIx-ai/MatrAIx-Persona-8B](./matraix-ai-matraix-persona-8b.md) | ⭐ — | — | 38/100 |
+| 396 | [Tonterias/h2aichat`](./tonterias-h2aichat-.md) | ⭐ — | — | 38/100 |
+| 397 | [Fake4d/claude-school](./fake4d-claude-school.md) | ⭐ — | — | 38/100 |
+| 398 | [Nellix/sonic-chat](./nellix-sonic-chat.md) | ⭐ — | — | 38/100 |
+| 399 | [Tonterias/h2aichat](./tonterias-h2aichat.md) | ⭐ — | — | 38/100 |
+| 400 | [chddaniel/chatpack](./chddaniel-chatpack.md) | ⭐ — | — | 38/100 |
+| 401 | [EvanZhouDev/calendar-tetris](./evanzhoudev-calendar-tetris.md) | ⭐ — | — | 38/100 |
+| 402 | [bctnry/OpenSyzygy](./bctnry-opensyzygy.md) | ⭐ — | — | 38/100 |
+| 403 | [Emn4tor/Seal](./emn4tor-seal.md) | ⭐ — | — | 38/100 |
+| 404 | [mmcs-work/git-explain-tui](./mmcs-work-git-explain-tui.md) | ⭐ — | — | 38/100 |
+| 405 | [ZM-BAD/headroom](./zm-bad-headroom.md) | ⭐ — | — | 38/100 |
+| 406 | [mohamed--abdel-maksoud/pisiguard](./mohamed--abdel-maksoud-pisiguard.md) | ⭐ — | — | 38/100 |
+| 407 | [lascauje/callmar](./lascauje-callmar.md) | ⭐ — | — | 38/100 |
+| 408 | [mihirshaikbugs/kid-compass](./mihirshaikbugs-kid-compass.md) | ⭐ — | — | 38/100 |
+| 409 | [jeninh/openotp](./jeninh-openotp.md) | ⭐ — | — | 38/100 |
+| 410 | [gianlucamazza/xllama](./gianlucamazza-xllama.md) | ⭐ — | — | 38/100 |
+| 411 | [bounce-chat/bounce](./bounce-chat-bounce.md) | ⭐ — | — | 38/100 |
+| 412 | [docbrain-ai/docbrain](./docbrain-ai-docbrain.md) | ⭐ — | — | 38/100 |
+| 413 | [knguyenanhoa/lifecalwall](./knguyenanhoa-lifecalwall.md) | ⭐ — | — | 38/100 |
+| 414 | [glenncalleja/wakewire](./glenncalleja-wakewire.md) | ⭐ — | — | 38/100 |
+| 415 | [leapmemory/memory-bench](./leapmemory-memory-bench.md) | ⭐ — | — | 38/100 |
+| 416 | [laserlemon/slack_progress_bar](./laserlemon-slack-progress-bar.md) | ⭐ — | — | 38/100 |
+| 417 | [sectapunterx/heap](./sectapunterx-heap.md) | ⭐ — | — | 38/100 |
+| 418 | [vorjdux/monocoque](./vorjdux-monocoque.md) | ⭐ — | — | 38/100 |
+| 419 | [deepanwadhwa/samosa-chat](./deepanwadhwa-samosa-chat.md) | ⭐ — | — | 38/100 |
+| 420 | [hparadiz/yoman](./hparadiz-yoman.md) | ⭐ — | — | 38/100 |
+| 421 | [thrinz/agentpeek](./thrinz-agentpeek.md) | ⭐ — | — | 38/100 |
+| 422 | [benri-ai/slack-debloat](./benri-ai-slack-debloat.md) | ⭐ — | — | 38/100 |
+| 423 | [croit/llm-gateway](./croit-llm-gateway.md) | ⭐ — | — | 38/100 |
+| 424 | [warmbly/warmbly](./warmbly-warmbly.md) | ⭐ — | — | 38/100 |
+| 425 | [simplex-chat/simplex-chat](./simplex-chat-simplex-chat.md) | ⭐ — | — | 38/100 |
+| 426 | [derekmpeterson/paige](./derekmpeterson-paige.md) | ⭐ — | — | 38/100 |
+| 427 | [CopilotKit/OpenTag](./copilotkit-opentag.md) | ⭐ — | — | 38/100 |
+| 428 | [erabytse/CryptoLogin](./erabytse-cryptologin.md) | ⭐ — | — | 38/100 |
+| 429 | [terrordrummer/robyx-ai](./terrordrummer-robyx-ai.md) | ⭐ — | — | 38/100 |
+| 430 | [danube-messaging/danube](./danube-messaging-danube.md) | ⭐ 161 | Rust | 37/100 |
+| 431 | [EbotGT/chat-memory-protocol](./ebotgt-chat-memory-protocol.md) | ⭐ — | — | 36/100 |
+| 432 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 28/100 |
 
 ---
 

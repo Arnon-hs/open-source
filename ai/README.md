@@ -27,11 +27,11 @@
 | 17 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 44/100 |
 | 18 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 44/100 |
 | 19 | [compteccharan/TrustIntern](./compteccharan-trustintern.md) | ⭐ — | Python | 43/100 |
-| 20 | [Booyaka101/doze](./booyaka101-doze.md) | ⭐ — | Python | 42/100 |
-| 21 | [jhusk003/multi-workflow-ai](./jhusk003-multi-workflow-ai.md) | ⭐ — | Python | 41/100 |
-| 22 | [miilo-ai/miilo-sdk](./miilo-ai-miilo-sdk.md) | ⭐ — | Rust | 41/100 |
-| 23 | [miilo-ai/miilo-cli](./miilo-ai-miilo-cli.md) | ⭐ — | Rust | 41/100 |
-| 24 | [ssanaullahrais/Chat-Vault](./ssanaullahrais-chat-vault.md) | ⭐ 1 | TypeScript | 40/100 |
+| 20 | [Naitik-xd/Ghost-Writer-](./naitik-xd-ghost-writer-.md) | ⭐ — | TypeScript | 42/100 |
+| 21 | [Booyaka101/doze](./booyaka101-doze.md) | ⭐ — | Python | 42/100 |
+| 22 | [jhusk003/multi-workflow-ai](./jhusk003-multi-workflow-ai.md) | ⭐ — | Python | 41/100 |
+| 23 | [miilo-ai/miilo-sdk](./miilo-ai-miilo-sdk.md) | ⭐ — | Rust | 41/100 |
+| 24 | [miilo-ai/miilo-cli](./miilo-ai-miilo-cli.md) | ⭐ — | Rust | 41/100 |
 | 25 | [hafeezmt/listingwriter](./hafeezmt-listingwriter.md) | ⭐ — | Python | 40/100 |
 | 26 | [shashank03-dev/RakeLess](./shashank03-dev-rakeless.md) | ⭐ — | TypeScript | 39/100 |
 | 27 | [yansudarshan/ListLocal](./yansudarshan-listlocal.md) | ⭐ — | TypeScript | 39/100 |

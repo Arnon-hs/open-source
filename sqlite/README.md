@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hypernexus/sqlite-vec](./hypernexus-sqlite-vec.md) | ⭐ — | — | 24/100 |
+| 1 | [amgio38/Y20260923](./amgio38-y20260923.md) | ⭐ 1 | Go | 68/100 |
 
 ---
 

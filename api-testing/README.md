@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [redfireforge/redfireforge-public](./redfireforge-redfireforge-public.md) | ⭐ 3 | TypeScript | 69/100 |
+| 1 | [lgponlylove/reqX](./lgponlylove-reqx.md) | ⭐ 1 | TypeScript | 41/100 |
 
 ---
 
