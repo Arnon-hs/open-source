@@ -2,14 +2,15 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [author/mochi](./author-mochi.md) | ⭐ — | — | 24/100 |
-| 2 | [author/keyflip](./author-keyflip.md) | ⭐ — | — | 24/100 |
+| 1 | [TrinkieYinkie/html-cv-kit](./trinkieyinkie-html-cv-kit.md) | ⭐ — | HTML | 46/100 |
+| 2 | [author/mochi](./author-mochi.md) | ⭐ — | — | 24/100 |
+| 3 | [author/keyflip](./author-keyflip.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41785** |
+| **Projects** | **41787** |
 | **Categories** | **568** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16540 | [Browse →](./misc/) |
+| 📦 **Misc** | 16541 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4478 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2820 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2360 | [Browse →](./orchestration/) |
@@ -104,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Resume** | 3 | [Browse →](./resume/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Sat** | 3 | [Browse →](./sat/) |
 | 🏷️ **Email** | 3 | [Browse →](./email/) |
@@ -212,7 +213,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
 | 🏷️ **Video-generation** | 2 | [Browse →](./video-generation/) |
-| 🏷️ **Resume** | 2 | [Browse →](./resume/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |

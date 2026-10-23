@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [xmor/ara](./xmor-ara.md) | ⭐ 6 | Java | 63/100 |
+| 1 | [xmor/ara](./xmor-ara.md) | ⭐ 6 | Java | 60/100 |
 | 2 | [Mattbusel/tokio-prompt-orchestrator](./mattbusel-tokio-prompt-orchestrator.md) | ⭐ 59 | Rust | 60/100 |
 | 3 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 54/100 |
 | 4 | [Ton-Llop/Jaull](./ton-llop-jaull.md) | ⭐ 3 | Python | 49/100 |
