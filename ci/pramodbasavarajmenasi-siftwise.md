@@ -1,6 +1,6 @@
 # PramodBasavarajMenasi/siftwise
 
-[![Stars](https://img.shields.io/github/stars/PramodBasavarajMenasi/siftwise?style=flat-square&color=yellow)](https://github.com/PramodBasavarajMenasi/siftwise/stargazers) [![Forks](https://img.shields.io/github/forks/PramodBasavarajMenasi/siftwise?style=flat-square&color=blue)](https://github.com/PramodBasavarajMenasi/siftwise/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/PramodBasavarajMenasi/siftwise?style=flat-square&color=yellow)](https://github.com/PramodBasavarajMenasi/siftwise/stargazers) [![Forks](https://img.shields.io/github/forks/PramodBasavarajMenasi/siftwise?style=flat-square&color=blue)](https://github.com/PramodBasavarajMenasi/siftwise/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source test impact analysis for agent-driven CI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ PramodBasavarajMenasi/siftwise：PramodBasavarajMenasi/siftwise may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 72/100 |
+| production | 62/100 |
+| outlook | 65/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

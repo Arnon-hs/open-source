@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [PramodBasavarajMenasi/siftwise](./pramodbasavarajmenasi-siftwise.md) | ⭐ 2 | Python | 68/100 |
+| 1 | [PramodBasavarajMenasi/siftwise](./pramodbasavarajmenasi-siftwise.md) | ⭐ 2 | Python | 65/100 |
 | 2 | [peaceiris/actions-gh-pages](./peaceiris-actions-gh-pages.md) | ⭐ 5.4k | TypeScript | 65/100 |
 | 3 | [gotestyourself/gotestsum](./gotestyourself-gotestsum.md) | ⭐ 2.7k | Go | 64/100 |
 | 4 | [codecov/codecov-action](./codecov-codecov-action.md) | ⭐ 1.7k | Python | 61/100 |

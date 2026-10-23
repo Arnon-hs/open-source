@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41788** |
-| **Categories** | **568** |
+| **Projects** | **41798** |
+| **Categories** | **569** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16542 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4478 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16549 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4479 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2820 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2360 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1590 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1591 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1436 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 943 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 889 | [Browse →](./frontend/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 180 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 148 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 123 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 121 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 120 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 38 | [Browse →](./open-source/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
@@ -104,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Claude** | 3 | [Browse →](./claude/) |
 | 🏷️ **Resume** | 3 | [Browse →](./resume/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Sat** | 3 | [Browse →](./sat/) |
@@ -172,7 +173,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
 | 🏷️ **Exactmatch** | 2 | [Browse →](./exactmatch/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
-| 🏷️ **Claude** | 2 | [Browse →](./claude/) |
 | 🏷️ **Tcg** | 2 | [Browse →](./tcg/) |
 | 🏷️ **Deployment** | 2 | [Browse →](./deployment/) |
 | 🏷️ **Small-business** | 2 | [Browse →](./small-business/) |
@@ -219,6 +219,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Vectorization** | 1 | [Browse →](./vectorization/) |
 | 🏷️ **Remote-terminal** | 1 | [Browse →](./remote-terminal/) |
 | 🏷️ **Release-management** | 1 | [Browse →](./release-management/) |
 | 🏷️ **Repository-auditing** | 1 | [Browse →](./repository-auditing/) |
