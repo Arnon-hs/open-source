@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [veinpsycoo/lastwarbotu-indir](./veinpsycoo-lastwarbotu-indir.md) | ⭐ — | — | 44/100 |
+| 1 | [veinpsycoo/lastwarbotu-indir](./veinpsycoo-lastwarbotu-indir.md) | ⭐ — | — | 41/100 |
 
 ---
 

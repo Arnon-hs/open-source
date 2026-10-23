@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [techdevfun/ggufit](./techdevfun-ggufit.md) | ⭐ — | Python | 42/100 |
+| 1 | [techdevfun/ggufit](./techdevfun-ggufit.md) | ⭐ — | Python | 39/100 |
 
 ---
 
