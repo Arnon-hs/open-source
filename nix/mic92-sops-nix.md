@@ -1,6 +1,6 @@
 # Mic92/sops-nix
 
-[![Stars](https://img.shields.io/github/stars/Mic92/sops-nix?style=flat-square&color=yellow)](https://github.com/Mic92/sops-nix/stargazers) [![Forks](https://img.shields.io/github/forks/Mic92/sops-nix?style=flat-square&color=blue)](https://github.com/Mic92/sops-nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Mic92/sops-nix?style=flat-square&color=yellow)](https://github.com/Mic92/sops-nix/stargazers) [![Forks](https://img.shields.io/github/forks/Mic92/sops-nix?style=flat-square&color=blue)](https://github.com/Mic92/sops-nix/network) [![Language](https://img.shields.io/badge/lang-Nix-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Atomic secret provisioning for NixOS based on sops
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.2k |
 | 🍴 **Forks** | 236 |
 | 💻 **Language** | Nix |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Mic92/sops-nix：Mic92/sops-nix may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 63/100 |
+| outlook | 66/100 |
 | adoption | 70/100 |
 | categoryMatchCount | 1000/100 |
 | stars | 75/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

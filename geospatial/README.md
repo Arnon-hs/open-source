@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [gaopengbin/geod-global](./gaopengbin-geod-global.md) | ⭐ 1 | Rust | 60/100 |
+| 1 | [gaopengbin/geod-global](./gaopengbin-geod-global.md) | ⭐ 1 | Rust | 57/100 |
 
 ---
 

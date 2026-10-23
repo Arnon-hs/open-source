@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Mic92/sops-nix](./mic92-sops-nix.md) | ⭐ 3.2k | Nix | 57/100 |
+| 1 | [Mic92/sops-nix](./mic92-sops-nix.md) | ⭐ 3.2k | Nix | 54/100 |
 
 ---
 

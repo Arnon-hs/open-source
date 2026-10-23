@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41768** |
+| **Projects** | **41770** |
 | **Categories** | **568** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -76,6 +76,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted** | 7 | [Browse →](./self-hosted/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
+| 🏷️ **Php** | 6 | [Browse →](./php/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Telegram** | 6 | [Browse →](./telegram/) |
@@ -84,7 +85,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Governance** | 5 | [Browse →](./governance/) |
 | 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Pdf** | 5 | [Browse →](./pdf/) |
-| 🏷️ **Php** | 5 | [Browse →](./php/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
 | 🏷️ **Macos** | 5 | [Browse →](./macos/) |
 | 🏷️ **Nextjs** | 5 | [Browse →](./nextjs/) |
@@ -104,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Sat** | 3 | [Browse →](./sat/) |
 | 🏷️ **Email** | 3 | [Browse →](./email/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
@@ -131,7 +132,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Blockchain** | 2 | [Browse →](./blockchain/) |
 | 🏷️ **Laravel** | 2 | [Browse →](./laravel/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
-| 🏷️ **Github** | 2 | [Browse →](./github/) |
 | 🏷️ **Openweight-ai** | 2 | [Browse →](./openweight-ai/) |
 | 🏷️ **Audit** | 2 | [Browse →](./audit/) |
 | 🏷️ **Personal-finance** | 2 | [Browse →](./personal-finance/) |
