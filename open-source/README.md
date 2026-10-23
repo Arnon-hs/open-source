@@ -13,8 +13,8 @@
 | 3 | [pandeyvishwas51-oss/forma-chat](./pandeyvishwas51-oss-forma-chat.md) | ⭐ — | Go | 63/100 |
 | 4 | [excalibase/excalibase-graphql](./excalibase-excalibase-graphql.md) | ⭐ 32 | Java | 63/100 |
 | 5 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 53/100 |
-| 6 | [OWASP/BLT](./owasp-blt.md) | ⭐ — | HTML | 42/100 |
-| 7 | [mohit01-beep/bistro-translate-ai](./mohit01-beep-bistro-translate-ai.md) | ⭐ — | JavaScript | 41/100 |
+| 6 | [mohit01-beep/bistro-translate-ai](./mohit01-beep-bistro-translate-ai.md) | ⭐ — | JavaScript | 41/100 |
+| 7 | [OWASP/BLT](./owasp-blt.md) | ⭐ — | HTML | 39/100 |
 | 8 | [sank8-2/listing-studio](./sank8-2-listing-studio.md) | ⭐ — | Python | 39/100 |
 | 9 | [kushpatel8274/BizPilot-AI](./kushpatel8274-bizpilot-ai.md) | ⭐ — | Python | 39/100 |
 | 10 | [sanskarIN/SpeedPulse](./sanskarin-speedpulse.md) | ⭐ — | HTML | 39/100 |

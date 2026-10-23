@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41784** |
+| **Projects** | **41785** |
 | **Categories** | **568** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -72,11 +72,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 8 | [Browse →](./ai-agent/) |
 | 🏷️ **Kubernetes** | 8 | [Browse →](./kubernetes/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
+| 🏷️ **Php** | 7 | [Browse →](./php/) |
 | 🏷️ **Android** | 7 | [Browse →](./android/) |
 | 🏷️ **Self-hosted** | 7 | [Browse →](./self-hosted/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
-| 🏷️ **Php** | 6 | [Browse →](./php/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Telegram** | 6 | [Browse →](./telegram/) |
