@@ -1,6 +1,6 @@
 # ridemountainpig/threads-analytics
 
-[![Stars](https://img.shields.io/github/stars/ridemountainpig/threads-analytics?style=flat-square&color=yellow)](https://github.com/ridemountainpig/threads-analytics/stargazers) [![Forks](https://img.shields.io/github/forks/ridemountainpig/threads-analytics?style=flat-square&color=blue)](https://github.com/ridemountainpig/threads-analytics/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ridemountainpig/threads-analytics?style=flat-square&color=yellow)](https://github.com/ridemountainpig/threads-analytics/stargazers) [![Forks](https://img.shields.io/github/forks/ridemountainpig/threads-analytics?style=flat-square&color=blue)](https://github.com/ridemountainpig/threads-analytics/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A self-hosted Threads analytics dashboard. Connect your access token and explore post performance with detailed charts and metrics
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 55 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ ridemountainpig/threads-analytics：ridemountainpig/threads-analytics may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 71/100 |
-| outlook | 78/100 |
+| production | 65/100 |
+| outlook | 71/100 |
 | adoption | 33/100 |
 | categoryMatchCount | 600/100 |
 | stars | 37/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # TheGaf/quiet-sentinel
 
-[![Stars](https://img.shields.io/github/stars/TheGaf/quiet-sentinel?style=flat-square&color=yellow)](https://github.com/TheGaf/quiet-sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/TheGaf/quiet-sentinel?style=flat-square&color=blue)](https://github.com/TheGaf/quiet-sentinel/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TheGaf/quiet-sentinel?style=flat-square&color=yellow)](https://github.com/TheGaf/quiet-sentinel/stargazers) [![Forks](https://img.shields.io/github/forks/TheGaf/quiet-sentinel?style=flat-square&color=blue)](https://github.com/TheGaf/quiet-sentinel/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Compact server monitoring with low-noise alerts and optional Ollama or OpenAI explanations
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ monitoring · AI-explanation · open-weight · private · Python · Ollama · Qw
 
 ### English
 
-TheGaf/quiet-sentinel: TheGaf/quiet-sentinel may be useful when its README and activity match a concrete workflow.. Use it for monitoring, AI-explanation, open-weight, private, Python, Ollama, Qwen. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+TheGaf/quiet-sentinel: TheGaf/quiet-sentinel may be useful when its README and activity match a concrete workflow.. Use it for monitoring, AI-explanation, open-weight, private, Python, Ollama, Qwen. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-TheGaf/quiet-sentinel: open-source проект в категориях monitoring, AI-explanation, open-weight, private, Python, Ollama, Qwen. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+TheGaf/quiet-sentinel: open-source проект в категориях monitoring, AI-explanation, open-weight, private, Python, Ollama, Qwen. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-TheGaf/quiet-sentinel：TheGaf/quiet-sentinel may be useful when its README and activity match a concrete workflow.。适合用于monitoring、AI-explanation、open-weight、private、Python、Ollama、Qwen。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+TheGaf/quiet-sentinel：TheGaf/quiet-sentinel may be useful when its README and activity match a concrete workflow.。适合用于monitoring、AI-explanation、open-weight、private、Python、Ollama、Qwen。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ TheGaf/quiet-sentinel：TheGaf/quiet-sentinel may be useful when its README and 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,15 +61,15 @@ TheGaf/quiet-sentinel：TheGaf/quiet-sentinel may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

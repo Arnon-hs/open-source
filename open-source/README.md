@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ridemountainpig/threads-analytics](./ridemountainpig-threads-analytics.md) | ⭐ 55 | TypeScript | 75/100 |
-| 2 | [open-nvr/open-nvr](./open-nvr-open-nvr.md) | ⭐ 167 | Python | 73/100 |
+| 1 | [open-nvr/open-nvr](./open-nvr-open-nvr.md) | ⭐ 167 | Python | 73/100 |
+| 2 | [ridemountainpig/threads-analytics](./ridemountainpig-threads-analytics.md) | ⭐ 55 | TypeScript | 72/100 |
 | 3 | [pandeyvishwas51-oss/forma-chat](./pandeyvishwas51-oss-forma-chat.md) | ⭐ — | Go | 63/100 |
 | 4 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 53/100 |
 | 5 | [mohit01-beep/bistro-translate-ai](./mohit01-beep-bistro-translate-ai.md) | ⭐ — | JavaScript | 41/100 |
