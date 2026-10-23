@@ -13,7 +13,7 @@
 | 3 | [Shashank0701-byte/agent-bridge](./shashank0701-byte-agent-bridge.md) | ⭐ 1 | Python | 63/100 |
 | 4 | [JamshidS/aiset](./jamshids-aiset.md) | ⭐ 10 | Python | 60/100 |
 | 5 | [Arthur031221/Blinkling](./arthur031221-blinkling.md) | ⭐ 1 | JavaScript | 60/100 |
-| 6 | [KashifManzer/clear-caption](./kashifmanzer-clear-caption.md) | ⭐ — | TypeScript | 53/100 |
+| 6 | [KashifManzer/clear-caption](./kashifmanzer-clear-caption.md) | ⭐ — | TypeScript | 50/100 |
 | 7 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |
 | 8 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 30/100 |
 | 9 | [volvox-ltd/claude-docs-watch](./volvox-ltd-claude-docs-watch.md) | ⭐ — | — | 24/100 |

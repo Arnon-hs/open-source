@@ -1,6 +1,6 @@
 # Wolfe-Jam/mcp-server-card-check
 
-[![Stars](https://img.shields.io/github/stars/Wolfe-Jam/mcp-server-card-check?style=flat-square&color=yellow)](https://github.com/Wolfe-Jam/mcp-server-card-check/stargazers) [![Forks](https://img.shields.io/github/forks/Wolfe-Jam/mcp-server-card-check?style=flat-square&color=blue)](https://github.com/Wolfe-Jam/mcp-server-card-check/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Wolfe-Jam/mcp-server-card-check?style=flat-square&color=yellow)](https://github.com/Wolfe-Jam/mcp-server-card-check/stargazers) [![Forks](https://img.shields.io/github/forks/Wolfe-Jam/mcp-server-card-check?style=flat-square&color=blue)](https://github.com/Wolfe-Jam/mcp-server-card-check/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Check an MCP server's Server Card (SEP-2127) and AI Catalog discovery against the spec, rule by rule. Read-only.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -57,22 +57,22 @@ Wolfe-Jam/mcp-server-card-check：Wolfe-Jam/mcp-server-card-check helps connect 
 - primary language: TypeScript
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 61/100 |
+| production | 57/100 |
+| outlook | 54/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
