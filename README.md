@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41770** |
+| **Projects** | **41773** |
 | **Categories** | **568** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16528 | [Browse →](./misc/) |
+| 📦 **Misc** | 16530 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4478 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2820 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2360 | [Browse →](./orchestration/) |
@@ -128,6 +128,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Chrome-extension** | 2 | [Browse →](./chrome-extension/) |
 | 🏷️ **Job-search** | 2 | [Browse →](./job-search/) |
 | 🏷️ **Blockchain** | 2 | [Browse →](./blockchain/) |
 | 🏷️ **Laravel** | 2 | [Browse →](./laravel/) |
@@ -277,7 +278,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Aiax** | 1 | [Browse →](./aiax/) |
 | 🏷️ **Postquantum** | 1 | [Browse →](./postquantum/) |
 | 🏷️ **Ai-security** | 1 | [Browse →](./ai-security/) |
-| 🏷️ **Chrome-extension** | 1 | [Browse →](./chrome-extension/) |
 | 🏷️ **Defi** | 1 | [Browse →](./defi/) |
 | 🏷️ **Bytechef** | 1 | [Browse →](./bytechef/) |
 | 🏷️ **Human-in-the-loop** | 1 | [Browse →](./human-in-the-loop/) |
