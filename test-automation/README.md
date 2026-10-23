@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mozarkai/optics-framework](./mozarkai-optics-framework.md) | ⭐ 57 | Python | 74/100 |
+| 1 | [mozarkai/optics-framework](./mozarkai-optics-framework.md) | ⭐ 57 | Python | 71/100 |
 
 ---
 

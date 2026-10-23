@@ -1,6 +1,6 @@
 # mozarkai/optics-framework
 
-[![Stars](https://img.shields.io/github/stars/mozarkai/optics-framework?style=flat-square&color=yellow)](https://github.com/mozarkai/optics-framework/stargazers) [![Forks](https://img.shields.io/github/forks/mozarkai/optics-framework?style=flat-square&color=blue)](https://github.com/mozarkai/optics-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mozarkai/optics-framework?style=flat-square&color=yellow)](https://github.com/mozarkai/optics-framework/stargazers) [![Forks](https://img.shields.io/github/forks/mozarkai/optics-framework?style=flat-square&color=blue)](https://github.com/mozarkai/optics-framework/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source test automation for Android, iOS, web, smart TV (Android TV, Tizen, webOS) and Bluetooth (BLE) devices. Write tests as CSV/YAML, record them live, or let an AI agent build them over MCP. Self-healing locators: XPath, text, OCR, image.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 57 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ mozarkai/optics-framework：mozarkai/optics-framework may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 81/100 |
+| production | 64/100 |
+| outlook | 74/100 |
 | adoption | 36/100 |
 | categoryMatchCount | 700/100 |
 | stars | 38/100 |
 | forks | 32/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
