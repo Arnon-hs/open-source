@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41738** |
-| **Categories** | **569** |
+| **Projects** | **41746** |
+| **Categories** | **567** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,16 +23,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16516 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4473 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2817 | [Browse →](./mcp/) |
+| 📦 **Misc** | 16519 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4474 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2819 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2359 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1589 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1590 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1436 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 943 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 889 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 788 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 692 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 693 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 651 | [Browse →](./networking/) |
 | 📱 **Mobile** | 644 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 617 | [Browse →](./knowledgerag/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 179 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 148 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 122 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 121 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 122 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 39 | [Browse →](./open-source/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
@@ -77,7 +77,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
-| 🏷️ **Macos** | 6 | [Browse →](./macos/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Telegram** | 6 | [Browse →](./telegram/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
@@ -87,10 +86,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Pdf** | 5 | [Browse →](./pdf/) |
 | 🏷️ **Php** | 5 | [Browse →](./php/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
+| 🏷️ **Macos** | 5 | [Browse →](./macos/) |
 | 🏷️ **Nextjs** | 5 | [Browse →](./nextjs/) |
 | 🏷️ **Graph-database** | 5 | [Browse →](./graph-database/) |
 | 🏷️ **Open-source-ai** | 5 | [Browse →](./open-source-ai/) |
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
+| 🏷️ **Speech-recognition** | 4 | [Browse →](./speech-recognition/) |
 | 🏷️ **Offline-ai** | 4 | [Browse →](./offline-ai/) |
 | 🏷️ **Hacktoberfest** | 4 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
@@ -109,7 +110,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Audio** | 3 | [Browse →](./audio/) |
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Flaky-tests** | 3 | [Browse →](./flaky-tests/) |
-| 🏷️ **Monitoring** | 3 | [Browse →](./monitoring/) |
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
@@ -142,6 +142,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Linux** | 2 | [Browse →](./linux/) |
 | 🏷️ **Bash** | 2 | [Browse →](./bash/) |
 | 🏷️ **Audio-separation** | 2 | [Browse →](./audio-separation/) |
+| 🏷️ **Monitoring** | 2 | [Browse →](./monitoring/) |
 | 🏷️ **Sync** | 2 | [Browse →](./sync/) |
 | 🏷️ **Text-to-speech** | 2 | [Browse →](./text-to-speech/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
@@ -390,8 +391,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Lead-generation** | 1 | [Browse →](./lead-generation/) |
 | 🏷️ **Photo-editing** | 1 | [Browse →](./photo-editing/) |
 | 🏷️ **Auth** | 1 | [Browse →](./auth/) |
-| 🏷️ **Epub** | 1 | [Browse →](./epub/) |
-| 🏷️ **Performance-testing** | 1 | [Browse →](./performance-testing/) |
 | 🏷️ **Local-inference** | 1 | [Browse →](./local-inference/) |
 | 🏷️ **Image-generation** | 1 | [Browse →](./image-generation/) |
 | 🏷️ **Ocr** | 1 | [Browse →](./ocr/) |
@@ -511,7 +510,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Live-streaming** | 1 | [Browse →](./live-streaming/) |
 | 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
-| 🏷️ **Speech-recognition** | 1 | [Browse →](./speech-recognition/) |
 | 🏷️ **Visualization** | 1 | [Browse →](./visualization/) |
 | 🏷️ **Certification** | 1 | [Browse →](./certification/) |
 | 🏷️ **Decision-models** | 1 | [Browse →](./decision-models/) |
