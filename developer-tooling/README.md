@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AnkanJU/Hacktoberfest2026](./ankanju-hacktoberfest2026.md) | ⭐ — | Python | 42/100 |
+| 1 | [AnkanJU/Hacktoberfest2026](./ankanju-hacktoberfest2026.md) | ⭐ — | Python | 39/100 |
 
 ---
 

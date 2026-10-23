@@ -14,8 +14,8 @@
 | 4 | [Ton-Llop/Jaull](./ton-llop-jaull.md) | ⭐ 3 | Python | 49/100 |
 | 5 | [vellumlabs/llm-wiki-kit](./vellumlabs-llm-wiki-kit.md) | ⭐ — | — | 47/100 |
 | 6 | [yushman/slimspec](./yushman-slimspec.md) | ⭐ — | — | 46/100 |
-| 7 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 35/100 |
-| 8 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 33/100 |
+| 7 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 33/100 |
+| 8 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 32/100 |
 | 9 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 30/100 |
 | 10 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 30/100 |
 | 11 | [huggingface/bitsandbytes](./huggingface-bitsandbytes.md) | ⭐ — | — | 24/100 |

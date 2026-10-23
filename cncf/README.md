@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Willey2003/golden-kubestronaut](./willey2003-golden-kubestronaut.md) | ⭐ — | Python | 42/100 |
+| 1 | [Willey2003/golden-kubestronaut](./willey2003-golden-kubestronaut.md) | ⭐ — | Python | 39/100 |
 
 ---
 
