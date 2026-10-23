@@ -1,6 +1,6 @@
 # rudra496/porichoy
 
-[![Stars](https://img.shields.io/github/stars/rudra496/porichoy?style=flat-square&color=yellow)](https://github.com/rudra496/porichoy/stargazers) [![Forks](https://img.shields.io/github/forks/rudra496/porichoy?style=flat-square&color=blue)](https://github.com/rudra496/porichoy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rudra496/porichoy?style=flat-square&color=yellow)](https://github.com/rudra496/porichoy/stargazers) [![Forks](https://img.shields.io/github/forks/rudra496/porichoy?style=flat-square&color=blue)](https://github.com/rudra496/porichoy/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Porichoy (পরিচয়) — DPP-in-a-Box: factory records to EU Digital Product Passports, powered by women data stewards. NIC 3.0 entry.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ rudra496/porichoy：rudra496/porichoy may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 50/100 |
+| production | 51/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 900/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

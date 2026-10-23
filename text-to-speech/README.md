@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kyutai-labs/pocket-tts](./kyutai-labs-pocket-tts.md) | ⭐ 10k | Python | 61/100 |
+| 1 | [kyutai-labs/pocket-tts](./kyutai-labs-pocket-tts.md) | ⭐ 10k | Python | 58/100 |
 | 2 | [jiaaro/pydub](./jiaaro-pydub.md) | ⭐ 9.8k | Python | 58/100 |
 
 ---

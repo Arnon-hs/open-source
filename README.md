@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41904** |
-| **Categories** | **582** |
+| **Projects** | **41909** |
+| **Categories** | **583** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,13 +23,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16599 | [Browse →](./misc/) |
+| 📦 **Misc** | 16600 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4485 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2823 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2362 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1591 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1440 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 944 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 945 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 889 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 789 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 695 | [Browse →](./documents/) |
@@ -108,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Spring-boot** | 3 | [Browse →](./spring-boot/) |
 | 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
 | 🏷️ **Claude** | 3 | [Browse →](./claude/) |
 | 🏷️ **Resume** | 3 | [Browse →](./resume/) |
@@ -180,7 +181,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Deployment** | 2 | [Browse →](./deployment/) |
 | 🏷️ **Privacy-first** | 2 | [Browse →](./privacy-first/) |
 | 🏷️ **K3s** | 2 | [Browse →](./k3s/) |
-| 🏷️ **Xapi** | 2 | [Browse →](./xapi/) |
 | 🏷️ **Secondhand** | 2 | [Browse →](./secondhand/) |
 | 🏷️ **Secret-scanning** | 2 | [Browse →](./secret-scanning/) |
 | 🏷️ **Allergen-labeling** | 2 | [Browse →](./allergen-labeling/) |
@@ -220,6 +220,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Tls** | 1 | [Browse →](./tls/) |
+| 🏷️ **Excalidraw** | 1 | [Browse →](./excalidraw/) |
 | 🏷️ **Browser-game** | 1 | [Browse →](./browser-game/) |
 | 🏷️ **Cost-optimization** | 1 | [Browse →](./cost-optimization/) |
 | 🏷️ **Stablecoin** | 1 | [Browse →](./stablecoin/) |
@@ -546,7 +548,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Template** | 1 | [Browse →](./template/) |
 | 🏷️ **Video-encoding** | 1 | [Browse →](./video-encoding/) |
 | 🏷️ **Cabin-rules** | 1 | [Browse →](./cabin-rules/) |
-| 🏷️ **Spring-boot** | 1 | [Browse →](./spring-boot/) |
 | 🏷️ **Browser-based-ai** | 1 | [Browse →](./browser-based-ai/) |
 | 🏷️ **Batch-processing** | 1 | [Browse →](./batch-processing/) |
 | 🏷️ **Perl** | 1 | [Browse →](./perl/) |

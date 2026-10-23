@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rudra496/jolsetu](./rudra496-jolsetu.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [rudra496/jolsetu](./rudra496-jolsetu.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 

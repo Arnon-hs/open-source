@@ -1,6 +1,6 @@
 # kyutai-labs/pocket-tts
 
-[![Stars](https://img.shields.io/github/stars/kyutai-labs/pocket-tts?style=flat-square&color=yellow)](https://github.com/kyutai-labs/pocket-tts/stargazers) [![Forks](https://img.shields.io/github/forks/kyutai-labs/pocket-tts?style=flat-square&color=blue)](https://github.com/kyutai-labs/pocket-tts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kyutai-labs/pocket-tts?style=flat-square&color=yellow)](https://github.com/kyutai-labs/pocket-tts/stargazers) [![Forks](https://img.shields.io/github/forks/kyutai-labs/pocket-tts?style=flat-square&color=blue)](https://github.com/kyutai-labs/pocket-tts/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A TTS that fits in your CPU (and pocket)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ kyutai-labs/pocket-tts：kyutai-labs/pocket-tts may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 82/100 |
 | categoryMatchCount | 500/100 |
 | stars | 85/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

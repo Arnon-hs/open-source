@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rudra496/porichoy](./rudra496-porichoy.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [rudra496/porichoy](./rudra496-porichoy.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 
