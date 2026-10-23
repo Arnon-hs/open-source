@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Ashutoshranjan195/clone-to-confidence](./ashutoshranjan195-clone-to-confidence.md) | ⭐ — | Python | 53/100 |
+| 1 | [Ashutoshranjan195/clone-to-confidence](./ashutoshranjan195-clone-to-confidence.md) | ⭐ — | Python | 50/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Ashutoshranjan195/clone-to-confidence
 
-[![Stars](https://img.shields.io/github/stars/Ashutoshranjan195/clone-to-confidence?style=flat-square&color=yellow)](https://github.com/Ashutoshranjan195/clone-to-confidence/stargazers) [![Forks](https://img.shields.io/github/forks/Ashutoshranjan195/clone-to-confidence?style=flat-square&color=blue)](https://github.com/Ashutoshranjan195/clone-to-confidence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ashutoshranjan195/clone-to-confidence?style=flat-square&color=yellow)](https://github.com/Ashutoshranjan195/clone-to-confidence/stargazers) [![Forks](https://img.shields.io/github/forks/Ashutoshranjan195/clone-to-confidence?style=flat-square&color=blue)](https://github.com/Ashutoshranjan195/clone-to-confidence/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Clone to Confidence is an offline-first CLI that audits GitHub repositories for clean-machine rebuildability. It checks dependency lockfiles, pinned runtimes, Docker support, test instructions, README quality, environment examples, Git history, and machine-specific paths—then explains failures with evidence and proposes safe fixes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ Ashutoshranjan195/clone-to-confidence：Ashutoshranjan195/clone-to-confidence ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 54/100 |
+| production | 55/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

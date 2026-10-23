@@ -1,6 +1,6 @@
 # nunosilva-dev/letter-generator
 
-[![Stars](https://img.shields.io/github/stars/nunosilva-dev/letter-generator?style=flat-square&color=yellow)](https://github.com/nunosilva-dev/letter-generator/stargazers) [![Forks](https://img.shields.io/github/forks/nunosilva-dev/letter-generator?style=flat-square&color=blue)](https://github.com/nunosilva-dev/letter-generator/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nunosilva-dev/letter-generator?style=flat-square&color=yellow)](https://github.com/nunosilva-dev/letter-generator/stargazers) [![Forks](https://img.shields.io/github/forks/nunosilva-dev/letter-generator?style=flat-square&color=blue)](https://github.com/nunosilva-dev/letter-generator/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Java 17 library for generating PDF letters with fluent Java, typed models, JSON or HTML templates. Supports styling, tables, stationery and pagination.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Java |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ nunosilva-dev/letter-generator：nunosilva-dev/letter-generator may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 54/100 |
+| production | 51/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
