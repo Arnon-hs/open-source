@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41909** |
-| **Categories** | **583** |
+| **Projects** | **41914** |
+| **Categories** | **584** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16600 | [Browse →](./misc/) |
+| 📦 **Misc** | 16602 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4485 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2823 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2362 | [Browse →](./orchestration/) |
@@ -66,18 +66,18 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-ai** | 18 | [Browse →](./local-ai/) |
 | 🏷️ **Freelance** | 15 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 13 | [Browse →](./ci/) |
-| 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
+| 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
 | 🏷️ **Kubernetes** | 8 | [Browse →](./kubernetes/) |
 | 🏷️ **N8n** | 8 | [Browse →](./n8n/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
+| 🏷️ **Macos** | 7 | [Browse →](./macos/) |
 | 🏷️ **Self-hosted** | 7 | [Browse →](./self-hosted/) |
 | 🏷️ **Php** | 7 | [Browse →](./php/) |
 | 🏷️ **Android** | 7 | [Browse →](./android/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
-| 🏷️ **Macos** | 6 | [Browse →](./macos/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Telegram** | 6 | [Browse →](./telegram/) |
@@ -220,6 +220,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Pull-request** | 1 | [Browse →](./pull-request/) |
 | 🏷️ **Tls** | 1 | [Browse →](./tls/) |
 | 🏷️ **Excalidraw** | 1 | [Browse →](./excalidraw/) |
 | 🏷️ **Browser-game** | 1 | [Browse →](./browser-game/) |

@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [scs0209/dropzone-zero](./scs0209-dropzone-zero.md) | ⭐ — | TypeScript | 55/100 |
 | 2 | [byjameson/lcga-local](./byjameson-lcga-local.md) | ⭐ — | Python | 46/100 |
-| 3 | [oleg-vdv/sloth-ledger](./oleg-vdv-sloth-ledger.md) | ⭐ — | Python | 46/100 |
+| 3 | [oleg-vdv/sloth-ledger](./oleg-vdv-sloth-ledger.md) | ⭐ — | Python | 43/100 |
 | 4 | [ohyoseok92/loose-ends-local](./ohyoseok92-loose-ends-local.md) | ⭐ — | Python | 42/100 |
 | 5 | [sank8-2/tidy-sloth](./sank8-2-tidy-sloth.md) | ⭐ — | Python | 42/100 |
 | 6 | [drevendev/PatchPitch](./drevendev-patchpitch.md) | ⭐ 1 | Python | 40/100 |

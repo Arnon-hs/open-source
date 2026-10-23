@@ -1,6 +1,6 @@
 # EnchStyle/JobAgent
 
-[![Stars](https://img.shields.io/github/stars/EnchStyle/JobAgent?style=flat-square&color=yellow)](https://github.com/EnchStyle/JobAgent/stargazers) [![Forks](https://img.shields.io/github/forks/EnchStyle/JobAgent?style=flat-square&color=blue)](https://github.com/EnchStyle/JobAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/EnchStyle/JobAgent?style=flat-square&color=yellow)](https://github.com/EnchStyle/JobAgent/stargazers) [![Forks](https://img.shields.io/github/forks/EnchStyle/JobAgent?style=flat-square&color=blue)](https://github.com/EnchStyle/JobAgent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A JobAgent that helps you to land a dream job with a simple Claude subscription and no need to write the code.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI · job search · automation · Claude · CV tailoring · UK graduate roles
 
 ### English
 
-EnchStyle/JobAgent: EnchStyle/JobAgent may be useful when its README and activity match a concrete workflow.. Use it for AI, job search, automation, Claude, CV tailoring, UK graduate roles. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EnchStyle/JobAgent: EnchStyle/JobAgent may be useful when its README and activity match a concrete workflow.. Use it for AI, job search, automation, Claude, CV tailoring, UK graduate roles. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-EnchStyle/JobAgent: open-source проект в категориях AI, job search, automation, Claude, CV tailoring, UK graduate roles. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+EnchStyle/JobAgent: open-source проект в категориях AI, job search, automation, Claude, CV tailoring, UK graduate roles. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-EnchStyle/JobAgent：EnchStyle/JobAgent may be useful when its README and activity match a concrete workflow.。适合用于AI、job search、automation、Claude、CV tailoring、UK graduate roles。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EnchStyle/JobAgent：EnchStyle/JobAgent may be useful when its README and activity match a concrete workflow.。适合用于AI、job search、automation、Claude、CV tailoring、UK graduate roles。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ EnchStyle/JobAgent：EnchStyle/JobAgent may be useful when its README and activi
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ EnchStyle/JobAgent：EnchStyle/JobAgent may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 33/100 |
+| quality | 28/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 48/100 |
+| production | 45/100 |
+| outlook | 41/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

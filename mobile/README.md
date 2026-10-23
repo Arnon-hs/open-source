@@ -293,8 +293,8 @@
 | 283 | [solkin/appteka-android](./solkin-appteka-android.md) | ⭐ 991 | Kotlin | 55/100 |
 | 284 | [tabletseeker/mobian](./tabletseeker-mobian.md) | ⭐ 214 | Shell | 55/100 |
 | 285 | [square/wire](./square-wire.md) | ⭐ 4.4k | Kotlin | 55/100 |
-| 286 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 694 | Kotlin | 55/100 |
-| 287 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 905 | Kotlin | 55/100 |
+| 286 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 905 | Kotlin | 55/100 |
+| 287 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 694 | Kotlin | 55/100 |
 | 288 | [CatimaLoyalty/Android](./catimaloyalty-android.md) | ⭐ 1.6k | Java | 55/100 |
 | 289 | [facebook/redex](./facebook-redex.md) | ⭐ 6.3k | C++ | 55/100 |
 | 290 | [OneBusAway/onebusaway-android](./onebusaway-onebusaway-android.md) | ⭐ 559 | Kotlin | 55/100 |
