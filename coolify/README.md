@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mtalavi/coolify-mirror](./mtalavi-coolify-mirror.md) | ⭐ 17 | Go | 60/100 |
+| 1 | [mtalavi/coolify-mirror](./mtalavi-coolify-mirror.md) | ⭐ 17 | Go | 57/100 |
 
 ---
 

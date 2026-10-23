@@ -1,6 +1,6 @@
 # mtalavi/coolify-mirror
 
-[![Stars](https://img.shields.io/github/stars/mtalavi/coolify-mirror?style=flat-square&color=yellow)](https://github.com/mtalavi/coolify-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/mtalavi/coolify-mirror?style=flat-square&color=blue)](https://github.com/mtalavi/coolify-mirror/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mtalavi/coolify-mirror?style=flat-square&color=yellow)](https://github.com/mtalavi/coolify-mirror/stargazers) [![Forks](https://img.shields.io/github/forks/mtalavi/coolify-mirror?style=flat-square&color=blue)](https://github.com/mtalavi/coolify-mirror/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Coolify Mirror: super fast to get started, super easy to use. Move Coolify apps and data to another server with one restore command. Encrypted and verified.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 17 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ mtalavi/coolify-mirror：mtalavi/coolify-mirror may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 62/100 |
+| outlook | 62/100 |
 | adoption | 23/100 |
 | categoryMatchCount | 500/100 |
 | stars | 27/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
