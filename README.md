@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41887** |
-| **Categories** | **580** |
+| **Projects** | **41896** |
+| **Categories** | **581** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,15 +23,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16590 | [Browse →](./misc/) |
+| 📦 **Misc** | 16595 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4484 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2821 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2822 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2362 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1591 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1440 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 944 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 889 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 788 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 789 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 694 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 652 | [Browse →](./networking/) |
 | 📱 **Mobile** | 644 | [Browse →](./mobile/) |
@@ -68,7 +68,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ci** | 13 | [Browse →](./ci/) |
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
-| 🏷️ **Ai-agent** | 8 | [Browse →](./ai-agent/) |
+| 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
 | 🏷️ **Kubernetes** | 8 | [Browse →](./kubernetes/) |
 | 🏷️ **N8n** | 8 | [Browse →](./n8n/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
@@ -181,7 +181,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy-first** | 2 | [Browse →](./privacy-first/) |
 | 🏷️ **K3s** | 2 | [Browse →](./k3s/) |
 | 🏷️ **Xapi** | 2 | [Browse →](./xapi/) |
-| 🏷️ **Evm** | 2 | [Browse →](./evm/) |
 | 🏷️ **Secondhand** | 2 | [Browse →](./secondhand/) |
 | 🏷️ **Secret-scanning** | 2 | [Browse →](./secret-scanning/) |
 | 🏷️ **Allergen-labeling** | 2 | [Browse →](./allergen-labeling/) |
@@ -221,6 +220,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Cost-optimization** | 1 | [Browse →](./cost-optimization/) |
 | 🏷️ **Stablecoin** | 1 | [Browse →](./stablecoin/) |
 | 🏷️ **Ai-evaluation** | 1 | [Browse →](./ai-evaluation/) |
 | 🏷️ **Ddcci** | 1 | [Browse →](./ddcci/) |
@@ -399,6 +399,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cashflow** | 1 | [Browse →](./cashflow/) |
 | 🏷️ **Receipt** | 1 | [Browse →](./receipt/) |
 | 🏷️ **Decision-model** | 1 | [Browse →](./decision-model/) |
+| 🏷️ **Evm** | 1 | [Browse →](./evm/) |
 | 🏷️ **Ai-writing** | 1 | [Browse →](./ai-writing/) |
 | 🏷️ **Government-tender** | 1 | [Browse →](./government-tender/) |
 | 🏷️ **Distributed-computing** | 1 | [Browse →](./distributed-computing/) |

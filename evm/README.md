@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [superwavvy/Wallet-Firewall](./superwavvy-wallet-firewall.md) | ⭐ — | TypeScript | 39/100 |
-| 2 | [wagmi-dev/wagmi](./wagmi-dev-wagmi.md) | ⭐ — | — | 24/100 |
+| 1 | [wagmi-dev/wagmi](./wagmi-dev-wagmi.md) | ⭐ — | — | 24/100 |
 
 ---
 
