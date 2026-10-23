@@ -2,7 +2,7 @@
 
 > 
 
-**504 projects** in this category.
+**505 projects** in this category.
 
 ## Projects
 
@@ -455,8 +455,8 @@
 | 445 | [gladiaio/gladia-cli](./gladiaio-gladia-cli.md) | ⭐ — | — | 49/100 |
 | 446 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 588 | JavaScript | 49/100 |
 | 447 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 1 | Python | 48/100 |
-| 448 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
-| 449 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
+| 448 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
+| 449 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
 | 450 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 451 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ — | — | 48/100 |
 | 452 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ — | — | 48/100 |
@@ -472,46 +472,47 @@
 | 462 | [cclank/lanshu-create-ai-presenter-video](./cclank-lanshu-create-ai-presenter-video.md) | ⭐ — | — | 46/100 |
 | 463 | [SteliyanH/kadr](./steliyanh-kadr.md) | ⭐ 48 | Swift | 46/100 |
 | 464 | [michaelwilhelmsen/humla](./michaelwilhelmsen-humla.md) | ⭐ 106 | Rust | 46/100 |
-| 465 | [waldo-van-der-code/whatyousay-oss](./waldo-van-der-code-whatyousay-oss.md) | ⭐ — | — | 45/100 |
-| 466 | [wutlu/notchsub](./wutlu-notchsub.md) | ⭐ — | — | 45/100 |
-| 467 | [openfilm/openfilm](./openfilm-openfilm.md) | ⭐ — | — | 45/100 |
-| 468 | [iterative-computer/powermove](./iterative-computer-powermove.md) | ⭐ — | — | 45/100 |
-| 469 | [google/ExoPlayer](./google-exoplayer.md) | ⭐ — | — | 45/100 |
-| 470 | [videojs/video.js](./videojs-video.js.md) | ⭐ — | — | 45/100 |
-| 471 | [Netflix/vmaf](./netflix-vmaf.md) | ⭐ — | — | 45/100 |
-| 472 | [gdavila/easyVmaf](./gdavila-easyvmaf.md) | ⭐ — | — | 45/100 |
-| 473 | [0xhappyboy/SoulCut](./0xhappyboy-soulcut.md) | ⭐ — | — | 45/100 |
-| 474 | [nfishel48/Jotter](./nfishel48-jotter.md) | ⭐ — | — | 45/100 |
-| 475 | [amekusa03/mp3-to-ac3-converter](./amekusa03-mp3-to-ac3-converter.md) | ⭐ — | — | 45/100 |
-| 476 | [skrylkovs/trippi-oss](./skrylkovs-trippi-oss.md) | ⭐ — | — | 45/100 |
-| 477 | [thiagoalbrecht/weave](./thiagoalbrecht-weave.md) | ⭐ — | — | 45/100 |
-| 478 | [shareefmx/minomeet](./shareefmx-minomeet.md) | ⭐ 3 | TypeScript | 44/100 |
-| 479 | [diffusionstudio/editor](./diffusionstudio-editor.md) | ⭐ — | — | 42/100 |
-| 480 | [ronak-create/FableCut](./ronak-create-fablecut.md) | ⭐ — | — | 42/100 |
-| 481 | [JeffreyHamilton6399/ShrinkRay](./jeffreyhamilton6399-shrinkray.md) | ⭐ — | — | 42/100 |
-| 482 | [wojciechowskiapp/Kaption](./wojciechowskiapp-kaption.md) | ⭐ — | — | 42/100 |
-| 483 | [DeegoFronk/Auto-Vod-Trimmer](./deegofronk-auto-vod-trimmer.md) | ⭐ — | — | 42/100 |
-| 484 | [hydope/shortsmash](./hydope-shortsmash.md) | ⭐ — | — | 41/100 |
-| 485 | [effessdev/GiffyPy](./effessdev-giffypy.md) | ⭐ 2 | Python | 41/100 |
-| 486 | [ranahaani/i-hate-editing](./ranahaani-i-hate-editing.md) | ⭐ — | — | 41/100 |
-| 487 | [soirihiroka/shrimply](./soirihiroka-shrimply.md) | ⭐ — | — | 41/100 |
-| 488 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ — | — | 41/100 |
-| 489 | [Vanilagy/turbores](./vanilagy-turbores.md) | ⭐ — | — | 41/100 |
-| 490 | [lethanhvietctt5/lightshot](./lethanhvietctt5-lightshot.md) | ⭐ — | Swift | 40/100 |
-| 491 | [krgpi/fennec](./krgpi-fennec.md) | ⭐ 1 | Rust | 40/100 |
-| 492 | [bart6114/loofah](./bart6114-loofah.md) | ⭐ — | — | 38/100 |
-| 493 | [karamuhammet/Open-Editor-Dika-Studio-Community](./karamuhammet-open-editor-dika-studio-community.md) | ⭐ — | — | 38/100 |
-| 494 | [DonkeyCut/Donkey](./donkeycut-donkey.md) | ⭐ — | — | 38/100 |
-| 495 | [akshinmrv/Voxa](./akshinmrv-voxa.md) | ⭐ — | — | 38/100 |
-| 496 | [heng30/wayshot](./heng30-wayshot.md) | ⭐ — | — | 38/100 |
-| 497 | [rokib16x/listnr](./rokib16x-listnr.md) | ⭐ — | — | 38/100 |
-| 498 | [VladUZH/qwen-scribe](./vladuzh-qwen-scribe.md) | ⭐ — | — | 38/100 |
-| 499 | [Relo-video/SynthCut](./relo-video-synthcut.md) | ⭐ — | — | 38/100 |
-| 500 | [khaledalam/avatoon](./khaledalam-avatoon.md) | ⭐ — | — | 38/100 |
-| 501 | [HeyMeco/MecoScribe](./heymeco-mecoscribe.md) | ⭐ — | — | 38/100 |
-| 502 | [google-deepmind/speech-compass](./google-deepmind-speech-compass.md) | ⭐ — | — | 38/100 |
-| 503 | [arthiccc/gcolab-whisper](./arthiccc-gcolab-whisper.md) | ⭐ — | — | 38/100 |
-| 504 | [loopedautomation/whisper](./loopedautomation-whisper.md) | ⭐ — | — | 38/100 |
+| 465 | [live-miracles/bunryu](./live-miracles-bunryu.md) | ⭐ — | — | 45/100 |
+| 466 | [waldo-van-der-code/whatyousay-oss](./waldo-van-der-code-whatyousay-oss.md) | ⭐ — | — | 45/100 |
+| 467 | [wutlu/notchsub](./wutlu-notchsub.md) | ⭐ — | — | 45/100 |
+| 468 | [openfilm/openfilm](./openfilm-openfilm.md) | ⭐ — | — | 45/100 |
+| 469 | [iterative-computer/powermove](./iterative-computer-powermove.md) | ⭐ — | — | 45/100 |
+| 470 | [google/ExoPlayer](./google-exoplayer.md) | ⭐ — | — | 45/100 |
+| 471 | [videojs/video.js](./videojs-video.js.md) | ⭐ — | — | 45/100 |
+| 472 | [Netflix/vmaf](./netflix-vmaf.md) | ⭐ — | — | 45/100 |
+| 473 | [gdavila/easyVmaf](./gdavila-easyvmaf.md) | ⭐ — | — | 45/100 |
+| 474 | [0xhappyboy/SoulCut](./0xhappyboy-soulcut.md) | ⭐ — | — | 45/100 |
+| 475 | [nfishel48/Jotter](./nfishel48-jotter.md) | ⭐ — | — | 45/100 |
+| 476 | [amekusa03/mp3-to-ac3-converter](./amekusa03-mp3-to-ac3-converter.md) | ⭐ — | — | 45/100 |
+| 477 | [skrylkovs/trippi-oss](./skrylkovs-trippi-oss.md) | ⭐ — | — | 45/100 |
+| 478 | [thiagoalbrecht/weave](./thiagoalbrecht-weave.md) | ⭐ — | — | 45/100 |
+| 479 | [shareefmx/minomeet](./shareefmx-minomeet.md) | ⭐ 3 | TypeScript | 44/100 |
+| 480 | [diffusionstudio/editor](./diffusionstudio-editor.md) | ⭐ — | — | 42/100 |
+| 481 | [ronak-create/FableCut](./ronak-create-fablecut.md) | ⭐ — | — | 42/100 |
+| 482 | [JeffreyHamilton6399/ShrinkRay](./jeffreyhamilton6399-shrinkray.md) | ⭐ — | — | 42/100 |
+| 483 | [wojciechowskiapp/Kaption](./wojciechowskiapp-kaption.md) | ⭐ — | — | 42/100 |
+| 484 | [DeegoFronk/Auto-Vod-Trimmer](./deegofronk-auto-vod-trimmer.md) | ⭐ — | — | 42/100 |
+| 485 | [hydope/shortsmash](./hydope-shortsmash.md) | ⭐ — | — | 41/100 |
+| 486 | [effessdev/GiffyPy](./effessdev-giffypy.md) | ⭐ 2 | Python | 41/100 |
+| 487 | [ranahaani/i-hate-editing](./ranahaani-i-hate-editing.md) | ⭐ — | — | 41/100 |
+| 488 | [soirihiroka/shrimply](./soirihiroka-shrimply.md) | ⭐ — | — | 41/100 |
+| 489 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ — | — | 41/100 |
+| 490 | [Vanilagy/turbores](./vanilagy-turbores.md) | ⭐ — | — | 41/100 |
+| 491 | [lethanhvietctt5/lightshot](./lethanhvietctt5-lightshot.md) | ⭐ — | Swift | 40/100 |
+| 492 | [krgpi/fennec](./krgpi-fennec.md) | ⭐ 1 | Rust | 40/100 |
+| 493 | [bart6114/loofah](./bart6114-loofah.md) | ⭐ — | — | 38/100 |
+| 494 | [karamuhammet/Open-Editor-Dika-Studio-Community](./karamuhammet-open-editor-dika-studio-community.md) | ⭐ — | — | 38/100 |
+| 495 | [DonkeyCut/Donkey](./donkeycut-donkey.md) | ⭐ — | — | 38/100 |
+| 496 | [akshinmrv/Voxa](./akshinmrv-voxa.md) | ⭐ — | — | 38/100 |
+| 497 | [heng30/wayshot](./heng30-wayshot.md) | ⭐ — | — | 38/100 |
+| 498 | [rokib16x/listnr](./rokib16x-listnr.md) | ⭐ — | — | 38/100 |
+| 499 | [VladUZH/qwen-scribe](./vladuzh-qwen-scribe.md) | ⭐ — | — | 38/100 |
+| 500 | [Relo-video/SynthCut](./relo-video-synthcut.md) | ⭐ — | — | 38/100 |
+| 501 | [khaledalam/avatoon](./khaledalam-avatoon.md) | ⭐ — | — | 38/100 |
+| 502 | [HeyMeco/MecoScribe](./heymeco-mecoscribe.md) | ⭐ — | — | 38/100 |
+| 503 | [google-deepmind/speech-compass](./google-deepmind-speech-compass.md) | ⭐ — | — | 38/100 |
+| 504 | [arthiccc/gcolab-whisper](./arthiccc-gcolab-whisper.md) | ⭐ — | — | 38/100 |
+| 505 | [loopedautomation/whisper](./loopedautomation-whisper.md) | ⭐ — | — | 38/100 |
 
 ---
 
