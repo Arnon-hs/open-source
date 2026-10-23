@@ -9,9 +9,9 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [gal-agent/gal-release](./gal-agent-gal-release.md) | ⭐ 4 | — | 62/100 |
-| 2 | [Yadnu14/LazySort-AI](./yadnu14-lazysort-ai.md) | ⭐ — | Python | 42/100 |
-| 3 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
-| 4 | [Imbiber/sloth-sort](./imbiber-sloth-sort.md) | ⭐ — | TypeScript | 39/100 |
+| 2 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
+| 3 | [Imbiber/sloth-sort](./imbiber-sloth-sort.md) | ⭐ — | TypeScript | 39/100 |
+| 4 | [Yadnu14/LazySort-AI](./yadnu14-lazysort-ai.md) | ⭐ — | Python | 39/100 |
 | 5 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 38/100 |
 | 6 | [yagnik-satani-otelier/pausepoint-ai](./yagnik-satani-otelier-pausepoint-ai.md) | ⭐ — | JavaScript | 36/100 |
 | 7 | [rishabh-hasija/stockentry-guard](./rishabh-hasija-stockentry-guard.md) | ⭐ — | Python | 36/100 |

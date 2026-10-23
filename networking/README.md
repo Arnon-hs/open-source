@@ -2,7 +2,7 @@
 
 > 
 
-**651 projects** in this category.
+**652 projects** in this category.
 
 ## Projects
 
@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 546 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 498 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 10.9k | C++ | 70/100 |
-| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 70/100 |
-| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.5k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.2k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -612,53 +612,54 @@
 | 602 | [shlima/keneetic-antifilter](./shlima-keneetic-antifilter.md) | ⭐ 378 | Batchfile | 41/100 |
 | 603 | [mmpx12/proxy-list](./mmpx12-proxy-list.md) | ⭐ 422 | — | 41/100 |
 | 604 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 41/100 |
-| 605 | [Mrtracker-new/NetPlus](./mrtracker-new-netplus.md) | ⭐ — | — | 39/100 |
-| 606 | [cloudflare/cbpfc](./cloudflare-cbpfc.md) | ⭐ — | — | 39/100 |
-| 607 | [kushal1o1/ZeroRelay](./kushal1o1-zerorelay.md) | ⭐ — | — | 39/100 |
-| 608 | [ABHIRAM-CREATOR06/Halonyx](./abhiram-creator06-halonyx.md) | ⭐ — | — | 39/100 |
-| 609 | [spongebob888/shadowquic](./spongebob888-shadowquic.md) | ⭐ 204 | Rust | 39/100 |
-| 610 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 39/100 |
-| 611 | [darksworm/doormouse](./darksworm-doormouse.md) | ⭐ — | — | 38/100 |
-| 612 | [EntityChurch/entity-core-keystone](./entitychurch-entity-core-keystone.md) | ⭐ — | — | 38/100 |
-| 613 | [kaizen-hq/mesh](./kaizen-hq-mesh.md) | ⭐ — | — | 38/100 |
-| 614 | [bartei/wiregui](./bartei-wiregui.md) | ⭐ — | — | 38/100 |
-| 615 | [shivnathtathe/UnlimitedNIM](./shivnathtathe-unlimitednim.md) | ⭐ — | — | 38/100 |
-| 616 | [ytkoka/impersonate-proxy](./ytkoka-impersonate-proxy.md) | ⭐ — | — | 38/100 |
-| 617 | [linxiv-dev/linXiv](./linxiv-dev-linxiv.md) | ⭐ — | — | 38/100 |
-| 618 | [aikitoria/open-gpu-kernel-modules](./aikitoria-open-gpu-kernel-modules.md) | ⭐ — | — | 38/100 |
-| 619 | [clevotec/cleversocks](./clevotec-cleversocks.md) | ⭐ — | — | 38/100 |
-| 620 | [ryanzhou/dsv4-codex-proxy](./ryanzhou-dsv4-codex-proxy.md) | ⭐ — | — | 38/100 |
-| 621 | [chriscohnen/islandr](./chriscohnen-islandr.md) | ⭐ — | — | 38/100 |
-| 622 | [ninadphalak/LLM-Shield-Proxy](./ninadphalak-llm-shield-proxy.md) | ⭐ — | — | 38/100 |
-| 623 | [Liana64/eek](./liana64-eek.md) | ⭐ — | — | 38/100 |
-| 624 | [robolamp/smol-llm-proxy](./robolamp-smol-llm-proxy.md) | ⭐ — | — | 38/100 |
-| 625 | [bruno-de-queiroz/hoop](./bruno-de-queiroz-hoop.md) | ⭐ — | — | 38/100 |
-| 626 | [numinous-technology/open-ultra](./numinous-technology-open-ultra.md) | ⭐ — | — | 38/100 |
-| 627 | [itsVentie/Latch](./itsventie-latch.md) | ⭐ — | — | 38/100 |
-| 628 | [magik6k/git-remote-iroh](./magik6k-git-remote-iroh.md) | ⭐ — | — | 38/100 |
-| 629 | [jamkernel/jamkernelp2p](./jamkernel-jamkernelp2p.md) | ⭐ — | — | 38/100 |
-| 630 | [proxybasehq/socks5-bridge](./proxybasehq-socks5-bridge.md) | ⭐ — | — | 38/100 |
-| 631 | [ktock/llmlet](./ktock-llmlet.md) | ⭐ — | — | 38/100 |
-| 632 | [aashish-thapa/wlctl](./aashish-thapa-wlctl.md) | ⭐ — | — | 38/100 |
-| 633 | [Realman78/Kiyeovo](./realman78-kiyeovo.md) | ⭐ — | — | 38/100 |
-| 634 | [hajoon22/icmp-p2p](./hajoon22-icmp-p2p.md) | ⭐ — | — | 38/100 |
-| 635 | [thomasunise/visionbridge](./thomasunise-visionbridge.md) | ⭐ — | — | 38/100 |
-| 636 | [atauenis/webone](./atauenis-webone.md) | ⭐ — | — | 38/100 |
-| 637 | [pjperez/proxyboy](./pjperez-proxyboy.md) | ⭐ — | — | 38/100 |
-| 638 | [yagop/sandbox](./yagop-sandbox.md) | ⭐ — | — | 38/100 |
-| 639 | [0xFA11/MultiplayerNetworkingResources](./0xfa11-multiplayernetworkingresources.md) | ⭐ — | — | 38/100 |
-| 640 | [joepie91/5a9909939e6ce7d09e29](./joepie91-5a9909939e6ce7d09e29.md) | ⭐ — | — | 38/100 |
-| 641 | [intellideep/nlproxy](./intellideep-nlproxy.md) | ⭐ — | — | 38/100 |
-| 642 | [femboyisp/purroute](./femboyisp-purroute.md) | ⭐ — | — | 38/100 |
-| 643 | [xtellect/vibe](./xtellect-vibe.md) | ⭐ — | — | 38/100 |
-| 644 | [apernet/hysteria](./apernet-hysteria.md) | ⭐ — | — | 38/100 |
-| 645 | [TimoKats/roxy](./timokats-roxy.md) | ⭐ — | — | 38/100 |
-| 646 | [wink-run/local-llm-proxy](./wink-run-local-llm-proxy.md) | ⭐ — | — | 38/100 |
-| 647 | [veshutov/shadowzig](./veshutov-shadowzig.md) | ⭐ — | — | 37/100 |
-| 648 | [mmalmi/nostr-vpn](./mmalmi-nostr-vpn.md) | ⭐ 321 | Rust | 37/100 |
-| 649 | [Open-J-Proxy/ojp](./open-j-proxy-ojp.md) | ⭐ 210 | Java | 37/100 |
-| 650 | [FardeenSayyed/NetShield](./fardeensayyed-netshield.md) | ⭐ — | Kotlin | 36/100 |
-| 651 | [jasonmayes/file-proxy-cache](./jasonmayes-file-proxy-cache.md) | ⭐ — | — | 36/100 |
+| 605 | [sanskarIN/SpeedPulse](./sanskarin-speedpulse.md) | ⭐ — | HTML | 39/100 |
+| 606 | [Mrtracker-new/NetPlus](./mrtracker-new-netplus.md) | ⭐ — | — | 39/100 |
+| 607 | [cloudflare/cbpfc](./cloudflare-cbpfc.md) | ⭐ — | — | 39/100 |
+| 608 | [kushal1o1/ZeroRelay](./kushal1o1-zerorelay.md) | ⭐ — | — | 39/100 |
+| 609 | [ABHIRAM-CREATOR06/Halonyx](./abhiram-creator06-halonyx.md) | ⭐ — | — | 39/100 |
+| 610 | [spongebob888/shadowquic](./spongebob888-shadowquic.md) | ⭐ 204 | Rust | 39/100 |
+| 611 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 39/100 |
+| 612 | [darksworm/doormouse](./darksworm-doormouse.md) | ⭐ — | — | 38/100 |
+| 613 | [EntityChurch/entity-core-keystone](./entitychurch-entity-core-keystone.md) | ⭐ — | — | 38/100 |
+| 614 | [kaizen-hq/mesh](./kaizen-hq-mesh.md) | ⭐ — | — | 38/100 |
+| 615 | [bartei/wiregui](./bartei-wiregui.md) | ⭐ — | — | 38/100 |
+| 616 | [shivnathtathe/UnlimitedNIM](./shivnathtathe-unlimitednim.md) | ⭐ — | — | 38/100 |
+| 617 | [ytkoka/impersonate-proxy](./ytkoka-impersonate-proxy.md) | ⭐ — | — | 38/100 |
+| 618 | [linxiv-dev/linXiv](./linxiv-dev-linxiv.md) | ⭐ — | — | 38/100 |
+| 619 | [aikitoria/open-gpu-kernel-modules](./aikitoria-open-gpu-kernel-modules.md) | ⭐ — | — | 38/100 |
+| 620 | [clevotec/cleversocks](./clevotec-cleversocks.md) | ⭐ — | — | 38/100 |
+| 621 | [ryanzhou/dsv4-codex-proxy](./ryanzhou-dsv4-codex-proxy.md) | ⭐ — | — | 38/100 |
+| 622 | [chriscohnen/islandr](./chriscohnen-islandr.md) | ⭐ — | — | 38/100 |
+| 623 | [ninadphalak/LLM-Shield-Proxy](./ninadphalak-llm-shield-proxy.md) | ⭐ — | — | 38/100 |
+| 624 | [Liana64/eek](./liana64-eek.md) | ⭐ — | — | 38/100 |
+| 625 | [robolamp/smol-llm-proxy](./robolamp-smol-llm-proxy.md) | ⭐ — | — | 38/100 |
+| 626 | [bruno-de-queiroz/hoop](./bruno-de-queiroz-hoop.md) | ⭐ — | — | 38/100 |
+| 627 | [numinous-technology/open-ultra](./numinous-technology-open-ultra.md) | ⭐ — | — | 38/100 |
+| 628 | [itsVentie/Latch](./itsventie-latch.md) | ⭐ — | — | 38/100 |
+| 629 | [magik6k/git-remote-iroh](./magik6k-git-remote-iroh.md) | ⭐ — | — | 38/100 |
+| 630 | [jamkernel/jamkernelp2p](./jamkernel-jamkernelp2p.md) | ⭐ — | — | 38/100 |
+| 631 | [proxybasehq/socks5-bridge](./proxybasehq-socks5-bridge.md) | ⭐ — | — | 38/100 |
+| 632 | [ktock/llmlet](./ktock-llmlet.md) | ⭐ — | — | 38/100 |
+| 633 | [aashish-thapa/wlctl](./aashish-thapa-wlctl.md) | ⭐ — | — | 38/100 |
+| 634 | [Realman78/Kiyeovo](./realman78-kiyeovo.md) | ⭐ — | — | 38/100 |
+| 635 | [hajoon22/icmp-p2p](./hajoon22-icmp-p2p.md) | ⭐ — | — | 38/100 |
+| 636 | [thomasunise/visionbridge](./thomasunise-visionbridge.md) | ⭐ — | — | 38/100 |
+| 637 | [atauenis/webone](./atauenis-webone.md) | ⭐ — | — | 38/100 |
+| 638 | [pjperez/proxyboy](./pjperez-proxyboy.md) | ⭐ — | — | 38/100 |
+| 639 | [yagop/sandbox](./yagop-sandbox.md) | ⭐ — | — | 38/100 |
+| 640 | [0xFA11/MultiplayerNetworkingResources](./0xfa11-multiplayernetworkingresources.md) | ⭐ — | — | 38/100 |
+| 641 | [joepie91/5a9909939e6ce7d09e29](./joepie91-5a9909939e6ce7d09e29.md) | ⭐ — | — | 38/100 |
+| 642 | [intellideep/nlproxy](./intellideep-nlproxy.md) | ⭐ — | — | 38/100 |
+| 643 | [femboyisp/purroute](./femboyisp-purroute.md) | ⭐ — | — | 38/100 |
+| 644 | [xtellect/vibe](./xtellect-vibe.md) | ⭐ — | — | 38/100 |
+| 645 | [apernet/hysteria](./apernet-hysteria.md) | ⭐ — | — | 38/100 |
+| 646 | [TimoKats/roxy](./timokats-roxy.md) | ⭐ — | — | 38/100 |
+| 647 | [wink-run/local-llm-proxy](./wink-run-local-llm-proxy.md) | ⭐ — | — | 38/100 |
+| 648 | [veshutov/shadowzig](./veshutov-shadowzig.md) | ⭐ — | — | 37/100 |
+| 649 | [mmalmi/nostr-vpn](./mmalmi-nostr-vpn.md) | ⭐ 321 | Rust | 37/100 |
+| 650 | [Open-J-Proxy/ojp](./open-j-proxy-ojp.md) | ⭐ 210 | Java | 37/100 |
+| 651 | [FardeenSayyed/NetShield](./fardeensayyed-netshield.md) | ⭐ — | Kotlin | 36/100 |
+| 652 | [jasonmayes/file-proxy-cache](./jasonmayes-file-proxy-cache.md) | ⭐ — | — | 36/100 |
 
 ---
 

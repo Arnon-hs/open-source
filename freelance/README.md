@@ -2,7 +2,7 @@
 
 > 
 
-**16 projects** in this category.
+**15 projects** in this category.
 
 ## Projects
 
@@ -16,14 +16,13 @@
 | 6 | [radhikaaa25/ScopeGuard](./radhikaaa25-scopeguard.md) | ⭐ — | TypeScript | 36/100 |
 | 7 | [Aryan1092raj/ScopeShield](./aryan1092raj-scopeshield.md) | ⭐ — | Python | 36/100 |
 | 8 | [jaivintretiya16-04/freelance-shield-os](./jaivintretiya16-04-freelance-shield-os.md) | ⭐ — | Python | 36/100 |
-| 9 | [vibhanshu-s/briefmint](./vibhanshu-s-briefmint.md) | ⭐ — | HTML | 36/100 |
-| 10 | [Kushaal-k/ScopeKit](./kushaal-k-scopekit.md) | ⭐ — | Python | 36/100 |
-| 11 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 36/100 |
-| 12 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 33/100 |
-| 13 | [google/gemma-3-4b-it](./google-gemma-3-4b-it.md) | ⭐ — | — | 27/100 |
-| 14 | [allenai/tabpfn](./allenai-tabpfn.md) | ⭐ — | — | 24/100 |
-| 15 | [ai-forever/tabpfn](./ai-forever-tabpfn.md) | ⭐ — | — | 24/100 |
-| 16 | [youchen-builds/scopesmith](./youchen-builds-scopesmith.md) | ⭐ — | — | 24/100 |
+| 9 | [Kushaal-k/ScopeKit](./kushaal-k-scopekit.md) | ⭐ — | Python | 36/100 |
+| 10 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 36/100 |
+| 11 | [Naeemk10/scopeshield-ai](./naeemk10-scopeshield-ai.md) | ⭐ — | HTML | 33/100 |
+| 12 | [google/gemma-3-4b-it](./google-gemma-3-4b-it.md) | ⭐ — | — | 27/100 |
+| 13 | [allenai/tabpfn](./allenai-tabpfn.md) | ⭐ — | — | 24/100 |
+| 14 | [ai-forever/tabpfn](./ai-forever-tabpfn.md) | ⭐ — | — | 24/100 |
+| 15 | [youchen-builds/scopesmith](./youchen-builds-scopesmith.md) | ⭐ — | — | 24/100 |
 
 ---
 

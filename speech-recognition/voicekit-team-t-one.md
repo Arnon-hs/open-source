@@ -1,6 +1,6 @@
 # voicekit-team/T-one
 
-[![Stars](https://img.shields.io/github/stars/voicekit-team/T-one?style=flat-square&color=yellow)](https://github.com/voicekit-team/T-one/stargazers) [![Forks](https://img.shields.io/github/forks/voicekit-team/T-one?style=flat-square&color=blue)](https://github.com/voicekit-team/T-one/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/voicekit-team/T-one?style=flat-square&color=yellow)](https://github.com/voicekit-team/T-one/stargazers) [![Forks](https://img.shields.io/github/forks/voicekit-team/T-one?style=flat-square&color=blue)](https://github.com/voicekit-team/T-one/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > T-one is a high-performance streaming ASR pipeline for Russian, specialized for the telephony domain.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 280 |
 | 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-20 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ voicekit-team/T-one：voicekit-team/T-one may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 73/100 |
+| production | 64/100 |
+| outlook | 66/100 |
 | adoption | 49/100 |
 | categoryMatchCount | 600/100 |
 | stars | 52/100 |
 | forks | 40/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
