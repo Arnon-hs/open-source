@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [adityareddy-dev/deskstudio](./adityareddy-dev-deskstudio.md) | ⭐ 1 | HTML | 64/100 |
+| 1 | [adityareddy-dev/deskstudio](./adityareddy-dev-deskstudio.md) | ⭐ 1 | HTML | 61/100 |
 
 ---
 

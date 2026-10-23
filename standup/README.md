@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [DhanushNehru/standup-sloth](./dhanushnehru-standup-sloth.md) | ⭐ — | Go | 53/100 |
+| 1 | [DhanushNehru/standup-sloth](./dhanushnehru-standup-sloth.md) | ⭐ — | Go | 50/100 |
 
 ---
 
