@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41870** |
-| **Categories** | **578** |
+| **Projects** | **41875** |
+| **Categories** | **580** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16582 | [Browse →](./misc/) |
+| 📦 **Misc** | 16585 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4482 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2820 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2360 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2821 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2361 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1591 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1438 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 944 | [Browse →](./backend/) |
@@ -74,10 +74,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Php** | 7 | [Browse →](./php/) |
 | 🏷️ **Android** | 7 | [Browse →](./android/) |
-| 🏷️ **Self-hosted** | 7 | [Browse →](./self-hosted/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
+| 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Telegram** | 6 | [Browse →](./telegram/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
@@ -126,7 +126,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
-| 🏷️ **Embedded** | 3 | [Browse →](./embedded/) |
 | 🏷️ **Cloudflare** | 3 | [Browse →](./cloudflare/) |
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
@@ -215,12 +214,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud-native** | 2 | [Browse →](./cloud-native/) |
 | 🏷️ **Local-models** | 2 | [Browse →](./local-models/) |
 | 🏷️ **Video-generation** | 2 | [Browse →](./video-generation/) |
+| 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-evaluation** | 1 | [Browse →](./ai-evaluation/) |
+| 🏷️ **Ddcci** | 1 | [Browse →](./ddcci/) |
 | 🏷️ **Readme** | 1 | [Browse →](./readme/) |
 | 🏷️ **Code-maintainability** | 1 | [Browse →](./code-maintainability/) |
 | 🏷️ **Clientside** | 1 | [Browse →](./clientside/) |

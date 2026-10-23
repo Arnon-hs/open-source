@@ -1,6 +1,6 @@
 # vznjs/vx
 
-[![Stars](https://img.shields.io/github/stars/vznjs/vx?style=flat-square&color=yellow)](https://github.com/vznjs/vx/stargazers) [![Forks](https://img.shields.io/github/forks/vznjs/vx?style=flat-square&color=blue)](https://github.com/vznjs/vx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vznjs/vx?style=flat-square&color=yellow)](https://github.com/vznjs/vx/stargazers) [![Forks](https://img.shields.io/github/forks/vznjs/vx?style=flat-square&color=blue)](https://github.com/vznjs/vx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ ci · github-actions · task-runner · cache · summary
 
 ### English
 
-vznjs/vx: vznjs/vx may be useful when its README and activity match a concrete workflow.. Use it for ci, github-actions, task-runner, cache, summary. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vznjs/vx: vznjs/vx may be useful when its README and activity match a concrete workflow.. Use it for ci, github-actions, task-runner, cache, summary. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-vznjs/vx: open-source проект в категориях ci, github-actions, task-runner, cache, summary. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+vznjs/vx: open-source проект в категориях ci, github-actions, task-runner, cache, summary. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-vznjs/vx：vznjs/vx may be useful when its README and activity match a concrete workflow.。适合用于ci、github-actions、task-runner、cache、summary。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+vznjs/vx：vznjs/vx may be useful when its README and activity match a concrete workflow.。适合用于ci、github-actions、task-runner、cache、summary。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ vznjs/vx：vznjs/vx may be useful when its README and activity match a concrete 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,15 +63,15 @@ vznjs/vx：vznjs/vx may be useful when its README and activity match a concrete 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 34/100 |
-| production | 51/100 |
-| outlook | 47/100 |
+| production | 45/100 |
+| outlook | 40/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 500/100 |
 | stars | 15/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
