@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [open-nvr/open-nvr](./open-nvr-open-nvr.md) | ⭐ 167 | Python | 73/100 |
 | 2 | [ridemountainpig/threads-analytics](./ridemountainpig-threads-analytics.md) | ⭐ 55 | TypeScript | 72/100 |
-| 3 | [pandeyvishwas51-oss/forma-chat](./pandeyvishwas51-oss-forma-chat.md) | ⭐ — | Go | 63/100 |
-| 4 | [VyxorDev/starterqueue](./vyxordev-starterqueue.md) | ⭐ 1 | TypeScript | 62/100 |
-| 5 | [flash-source/sloth-contributor](./flash-source-sloth-contributor.md) | ⭐ — | Python | 62/100 |
+| 3 | [VyxorDev/starterqueue](./vyxordev-starterqueue.md) | ⭐ 1 | TypeScript | 62/100 |
+| 4 | [flash-source/sloth-contributor](./flash-source-sloth-contributor.md) | ⭐ — | Python | 62/100 |
+| 5 | [pandeyvishwas51-oss/forma-chat](./pandeyvishwas51-oss-forma-chat.md) | ⭐ — | Go | 60/100 |
 | 6 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 53/100 |
 | 7 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 44/100 |
 | 8 | [mohit01-beep/bistro-translate-ai](./mohit01-beep-bistro-translate-ai.md) | ⭐ — | JavaScript | 41/100 |

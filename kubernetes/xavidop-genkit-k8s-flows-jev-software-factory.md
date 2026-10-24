@@ -1,6 +1,6 @@
 # xavidop/genkit-k8s-flows-jev-software-factory
 
-[![Stars](https://img.shields.io/github/stars/xavidop/genkit-k8s-flows-jev-software-factory?style=flat-square&color=yellow)](https://github.com/xavidop/genkit-k8s-flows-jev-software-factory/stargazers) [![Forks](https://img.shields.io/github/forks/xavidop/genkit-k8s-flows-jev-software-factory?style=flat-square&color=blue)](https://github.com/xavidop/genkit-k8s-flows-jev-software-factory/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xavidop/genkit-k8s-flows-jev-software-factory?style=flat-square&color=yellow)](https://github.com/xavidop/genkit-k8s-flows-jev-software-factory/stargazers) [![Forks](https://img.shields.io/github/forks/xavidop/genkit-k8s-flows-jev-software-factory?style=flat-square&color=blue)](https://github.com/xavidop/genkit-k8s-flows-jev-software-factory/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A software factory on Kubernetes: Gemini designs, plans and writes Go code as senro steps in pods, jev (a System One decision model) decides at every gate. Companion code for the xavidop.me article.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ xavidop/genkit-k8s-flows-jev-software-factory：xavidop/genkit-k8s-flows-jev-sof
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 50/100 |
+| production | 53/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

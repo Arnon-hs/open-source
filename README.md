@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41973** |
-| **Categories** | **585** |
+| **Projects** | **41975** |
+| **Categories** | **581** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16633 | [Browse →](./misc/) |
+| 📦 **Misc** | 16636 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4489 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2827 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2363 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1444 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1445 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 945 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 889 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 790 | [Browse →](./crypto/) |
@@ -36,7 +36,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 652 | [Browse →](./networking/) |
 | 📱 **Mobile** | 645 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 618 | [Browse →](./knowledgerag/) |
-| 🏷️ **Cloud--storage** | 609 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 610 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 545 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 517 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 509 | [Browse →](./video-editing/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 208 | [Browse →](./trading/) |
 | ✨ **Design** | 180 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 151 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 124 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 125 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 118 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 39 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 34 | [Browse →](./ai-agents/) |
@@ -105,7 +105,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
-| 🏷️ **Monitoring** | 3 | [Browse →](./monitoring/) |
 | 🏷️ **Spring-boot** | 3 | [Browse →](./spring-boot/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
@@ -133,8 +132,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **File-management** | 2 | [Browse →](./file-management/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
 | 🏷️ **Smtp** | 2 | [Browse →](./smtp/) |
+| 🏷️ **Monitoring** | 2 | [Browse →](./monitoring/) |
 | 🏷️ **Agentic** | 2 | [Browse →](./agentic/) |
 | 🏷️ **Standup** | 2 | [Browse →](./standup/) |
 | 🏷️ **Document-management** | 2 | [Browse →](./document-management/) |
@@ -254,7 +255,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cs2** | 1 | [Browse →](./cs2/) |
 | 🏷️ **Background-jobs** | 1 | [Browse →](./background-jobs/) |
 | 🏷️ **Job-queue** | 1 | [Browse →](./job-queue/) |
-| 🏷️ **File-management** | 1 | [Browse →](./file-management/) |
 | 🏷️ **Audit** | 1 | [Browse →](./audit/) |
 | 🏷️ **Photogrammetry** | 1 | [Browse →](./photogrammetry/) |
 | 🏷️ **Theme** | 1 | [Browse →](./theme/) |
@@ -395,10 +395,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-translation** | 1 | [Browse →](./ai-translation/) |
 | 🏷️ **Cloud-security** | 1 | [Browse →](./cloud-security/) |
 | 🏷️ **Voiceassistant** | 1 | [Browse →](./voiceassistant/) |
-| 🏷️ **Ssl** | 1 | [Browse →](./ssl/) |
-| 🏷️ **Learning-system** | 1 | [Browse →](./learning-system/) |
-| 🏷️ **Evaluation** | 1 | [Browse →](./evaluation/) |
-| 🏷️ **Product-audit** | 1 | [Browse →](./product-audit/) |
 | 🏷️ **Portfolio-backtesting** | 1 | [Browse →](./portfolio-backtesting/) |
 | 🏷️ **Tcg** | 1 | [Browse →](./tcg/) |
 | 🏷️ **Receipt-ocr** | 1 | [Browse →](./receipt-ocr/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Bytewave1/dkit](./bytewave1-dkit.md) | ⭐ — | Python | 66/100 |
+| 1 | [Bytewave1/dkit](./bytewave1-dkit.md) | ⭐ — | Python | 63/100 |
 
 ---
 
