@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41920** |
+| **Projects** | **41924** |
 | **Categories** | **582** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16608 | [Browse →](./misc/) |
+| 📦 **Misc** | 16611 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4486 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2824 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2362 | [Browse →](./orchestration/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 544 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 517 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 508 | [Browse →](./video-editing/) |
-| 🏷️ **Templates** | 461 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 462 | [Browse →](./templates/) |
 | 🔐 **Security** | 435 | [Browse →](./security/) |
 | 🏷️ **Communication** | 433 | [Browse →](./communication/) |
 | 💳 **Payments** | 350 | [Browse →](./payments/) |
@@ -62,8 +62,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 22 | [Browse →](./llm/) |
 | 🏷️ **Privacy** | 22 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
+| 🏷️ **Local-ai** | 19 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 18 | [Browse →](./local-llm/) |
-| 🏷️ **Local-ai** | 18 | [Browse →](./local-ai/) |
 | 🏷️ **Freelance** | 15 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 13 | [Browse →](./ci/) |
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
@@ -182,7 +182,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Tcg** | 2 | [Browse →](./tcg/) |
 | 🏷️ **Deployment** | 2 | [Browse →](./deployment/) |
 | 🏷️ **Privacy-first** | 2 | [Browse →](./privacy-first/) |
-| 🏷️ **K3s** | 2 | [Browse →](./k3s/) |
 | 🏷️ **Secondhand** | 2 | [Browse →](./secondhand/) |
 | 🏷️ **Secret-scanning** | 2 | [Browse →](./secret-scanning/) |
 | 🏷️ **Allergen-labeling** | 2 | [Browse →](./allergen-labeling/) |
@@ -400,6 +399,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Receipt-ocr** | 1 | [Browse →](./receipt-ocr/) |
 | 🏷️ **Scam-ad-checker** | 1 | [Browse →](./scam-ad-checker/) |
 | 🏷️ **Job-hunting** | 1 | [Browse →](./job-hunting/) |
+| 🏷️ **K3s** | 1 | [Browse →](./k3s/) |
 | 🏷️ **Receipt** | 1 | [Browse →](./receipt/) |
 | 🏷️ **Decision-model** | 1 | [Browse →](./decision-model/) |
 | 🏷️ **Evm** | 1 | [Browse →](./evm/) |

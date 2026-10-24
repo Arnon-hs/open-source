@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ude-p/tailk3s](./ude-p-tailk3s.md) | ⭐ — | Go | 39/100 |
-| 2 | [mozilla/sops](./mozilla-sops.md) | ⭐ — | — | 24/100 |
+| 1 | [mozilla/sops](./mozilla-sops.md) | ⭐ — | — | 24/100 |
 
 ---
 

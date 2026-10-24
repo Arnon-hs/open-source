@@ -1,6 +1,6 @@
 # livastic-vm2-primary-20260911/x402-manifest-import-preflight
 
-[![Stars](https://img.shields.io/github/stars/livastic-vm2-primary-20260911/x402-manifest-import-preflight?style=flat-square&color=yellow)](https://github.com/livastic-vm2-primary-20260911/x402-manifest-import-preflight/stargazers) [![Forks](https://img.shields.io/github/forks/livastic-vm2-primary-20260911/x402-manifest-import-preflight?style=flat-square&color=blue)](https://github.com/livastic-vm2-primary-20260911/x402-manifest-import-preflight/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/livastic-vm2-primary-20260911/x402-manifest-import-preflight?style=flat-square&color=yellow)](https://github.com/livastic-vm2-primary-20260911/x402-manifest-import-preflight/stargazers) [![Forks](https://img.shields.io/github/forks/livastic-vm2-primary-20260911/x402-manifest-import-preflight?style=flat-square&color=blue)](https://github.com/livastic-vm2-primary-20260911/x402-manifest-import-preflight/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Free local-only x402 v2 manifest diagnostic + opt-in manual USDC QA review
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ livastic-vm2-primary-20260911/x402-manifest-import-preflight：livastic-vm2-prim
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 67/100 |
+| production | 56/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
