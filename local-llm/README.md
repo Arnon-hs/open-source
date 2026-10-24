@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [scs0209/dropzone-zero](./scs0209-dropzone-zero.md) | ⭐ — | TypeScript | 55/100 |
+| 1 | [scs0209/dropzone-zero](./scs0209-dropzone-zero.md) | ⭐ — | TypeScript | 52/100 |
 | 2 | [herinpatel15/toolcallbench](./herinpatel15-toolcallbench.md) | ⭐ — | Python | 46/100 |
 | 3 | [byjameson/lcga-local](./byjameson-lcga-local.md) | ⭐ — | Python | 46/100 |
 | 4 | [oleg-vdv/sloth-ledger](./oleg-vdv-sloth-ledger.md) | ⭐ — | Python | 43/100 |
