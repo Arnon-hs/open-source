@@ -1,6 +1,6 @@
 # pngz-dev/vlac
 
-[![Stars](https://img.shields.io/github/stars/pngz-dev/vlac?style=flat-square&color=yellow)](https://github.com/pngz-dev/vlac/stargazers) [![Forks](https://img.shields.io/github/forks/pngz-dev/vlac?style=flat-square&color=blue)](https://github.com/pngz-dev/vlac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pngz-dev/vlac?style=flat-square&color=yellow)](https://github.com/pngz-dev/vlac/stargazers) [![Forks](https://img.shields.io/github/forks/pngz-dev/vlac?style=flat-square&color=blue)](https://github.com/pngz-dev/vlac/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Lossless audio codec for voice. Combines LPC prediction, Zstandard compression, and trained dictionaries. Written in Rust. Saves 26%+ over WAV, bit-perfect.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ pngz-dev/vlac：pngz-dev/vlac may be useful when its README and activity match a
 - primary language: Rust
 - 6 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 58/100 |
+| production | 53/100 |
+| outlook | 51/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

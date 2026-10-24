@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41971** |
+| **Projects** | **41973** |
 | **Categories** | **585** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -25,7 +25,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 16633 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4489 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2826 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2827 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2363 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1444 | [Browse →](./automation/) |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 790 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 697 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 652 | [Browse →](./networking/) |
-| 📱 **Mobile** | 644 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 645 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 618 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 609 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 545 | [Browse →](./database/) |
@@ -77,12 +77,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Android** | 7 | [Browse →](./android/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
+| 🏷️ **Hacktoberfest** | 6 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **Php** | 6 | [Browse →](./php/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
-| 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Governance** | 5 | [Browse →](./governance/) |
 | 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
@@ -146,7 +146,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Laravel** | 2 | [Browse →](./laravel/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
 | 🏷️ **Openweight-ai** | 2 | [Browse →](./openweight-ai/) |
-| 🏷️ **Audit** | 2 | [Browse →](./audit/) |
 | 🏷️ **Personal-finance** | 2 | [Browse →](./personal-finance/) |
 | 🏷️ **Nodejs** | 2 | [Browse →](./nodejs/) |
 | 🏷️ **Flutter** | 2 | [Browse →](./flutter/) |
@@ -256,6 +255,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Background-jobs** | 1 | [Browse →](./background-jobs/) |
 | 🏷️ **Job-queue** | 1 | [Browse →](./job-queue/) |
 | 🏷️ **File-management** | 1 | [Browse →](./file-management/) |
+| 🏷️ **Audit** | 1 | [Browse →](./audit/) |
 | 🏷️ **Photogrammetry** | 1 | [Browse →](./photogrammetry/) |
 | 🏷️ **Theme** | 1 | [Browse →](./theme/) |
 | 🏷️ **Personal-vault** | 1 | [Browse →](./personal-vault/) |
