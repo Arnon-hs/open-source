@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mao2009/oss-pce-cd-bios](./mao2009-oss-pce-cd-bios.md) | ⭐ 1 | Python | 46/100 |
+| 1 | [mao2009/oss-pce-cd-bios](./mao2009-oss-pce-cd-bios.md) | ⭐ 1 | Python | 43/100 |
 
 ---
 

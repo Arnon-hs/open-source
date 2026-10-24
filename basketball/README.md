@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [GabrieleGiudic/E-BARD](./gabrielegiudic-e-bard.md) | ⭐ 8 | Python | 46/100 |
+| 1 | [GabrieleGiudic/E-BARD](./gabrielegiudic-e-bard.md) | ⭐ 8 | Python | 43/100 |
 
 ---
 

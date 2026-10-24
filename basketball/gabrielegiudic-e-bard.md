@@ -1,6 +1,6 @@
 # GabrieleGiudic/E-BARD
 
-[![Stars](https://img.shields.io/github/stars/GabrieleGiudic/E-BARD?style=flat-square&color=yellow)](https://github.com/GabrieleGiudic/E-BARD/stargazers) [![Forks](https://img.shields.io/github/forks/GabrieleGiudic/E-BARD?style=flat-square&color=blue)](https://github.com/GabrieleGiudic/E-BARD/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GabrieleGiudic/E-BARD?style=flat-square&color=yellow)](https://github.com/GabrieleGiudic/E-BARD/stargazers) [![Forks](https://img.shields.io/github/forks/GabrieleGiudic/E-BARD?style=flat-square&color=blue)](https://github.com/GabrieleGiudic/E-BARD/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > E-BARD: A Multi-Task Extension of the Basketball Action Recognition Dataset for Player Detection, Team Attribution and Jersey Number Recognition official repository
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ GabrieleGiudic/E-BARD：GabrieleGiudic/E-BARD may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 55/100 |
+| production | 54/100 |
+| outlook | 48/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 700/100 |
 | stars | 20/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

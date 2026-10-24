@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sunerpy/voltip](./sunerpy-voltip.md) | ⭐ 2 | Rust | 50/100 |
+| 1 | [sunerpy/voltip](./sunerpy-voltip.md) | ⭐ 2 | Rust | 47/100 |
 
 ---
 

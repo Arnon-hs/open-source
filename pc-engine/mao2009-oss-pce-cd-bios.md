@@ -1,6 +1,6 @@
 # mao2009/oss-pce-cd-bios
 
-[![Stars](https://img.shields.io/github/stars/mao2009/oss-pce-cd-bios?style=flat-square&color=yellow)](https://github.com/mao2009/oss-pce-cd-bios/stargazers) [![Forks](https://img.shields.io/github/forks/mao2009/oss-pce-cd-bios?style=flat-square&color=blue)](https://github.com/mao2009/oss-pce-cd-bios/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mao2009/oss-pce-cd-bios?style=flat-square&color=yellow)](https://github.com/mao2009/oss-pce-cd-bios/stargazers) [![Forks](https://img.shields.io/github/forks/mao2009/oss-pce-cd-bios?style=flat-square&color=blue)](https://github.com/mao2009/oss-pce-cd-bios/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source System Card BIOS replacement for PC Engine / TurboGrafx-CD, featuring original HuC6280 code, reproducible builds, and emulator-based testing. (WIP)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ mao2009/oss-pce-cd-bios：mao2009/oss-pce-cd-bios may be useful when its README 
 - primary language: Python
 - 4 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 57/100 |
+| production | 54/100 |
+| outlook | 50/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
