@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AreevAI/areev](./areevai-areev.md) | ⭐ 27 | Rust | 79/100 |
+| 1 | [AreevAI/areev](./areevai-areev.md) | ⭐ 27 | Rust | 76/100 |
 | 2 | [randomgitsrc/agate](./randomgitsrc-agate.md) | ⭐ — | — | 24/100 |
 
 ---
