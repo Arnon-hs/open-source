@@ -11,8 +11,8 @@
 | 1 | [netizen4-bit/leaddirect-mcp](./netizen4-bit-leaddirect-mcp.md) | ⭐ 2 | Python | 74/100 |
 | 2 | [netizen4-bit/reach_direct-mcp](./netizen4-bit-reach-direct-mcp.md) | ⭐ 2 | Python | 70/100 |
 | 3 | [netizen4-bit/jobs-direct](./netizen4-bit-jobs-direct.md) | ⭐ — | Python | 66/100 |
-| 4 | [Moha2005269/agentgo](./moha2005269-agentgo.md) | ⭐ 2 | Rust | 65/100 |
-| 5 | [openziti/zrok](./openziti-zrok.md) | ⭐ 4.8k | Go | 63/100 |
+| 4 | [openziti/zrok](./openziti-zrok.md) | ⭐ 4.8k | Go | 63/100 |
+| 5 | [Moha2005269/agentgo](./moha2005269-agentgo.md) | ⭐ 2 | Rust | 62/100 |
 | 6 | [cleitonaugusto/cleimesh](./cleitonaugusto-cleimesh.md) | ⭐ — | Rust | 56/100 |
 | 7 | [mrsergeiluzhnov/xonta](./mrsergeiluzhnov-xonta.md) | ⭐ — | JavaScript | 52/100 |
 | 8 | [Jfernandez27/deskmates](./jfernandez27-deskmates.md) | ⭐ — | TypeScript | 51/100 |

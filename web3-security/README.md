@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rdin777/slither-cex-detector](./rdin777-slither-cex-detector.md) | ⭐ — | Python | 47/100 |
+| 1 | [rdin777/slither-cex-detector](./rdin777-slither-cex-detector.md) | ⭐ — | Python | 44/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [emersion/grim](./emersion-grim.md) | ⭐ 1k | C | 62/100 |
+| 1 | [emersion/grim](./emersion-grim.md) | ⭐ 1k | C | 59/100 |
 
 ---
 
