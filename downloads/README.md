@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [xexpertai/sloth-sort](./xexpertai-sloth-sort.md) | ⭐ — | Python | 42/100 |
+| 1 | [xexpertai/sloth-sort](./xexpertai-sloth-sort.md) | ⭐ — | Python | 39/100 |
 
 ---
 

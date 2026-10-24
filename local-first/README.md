@@ -9,11 +9,11 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 52/100 |
-| 2 | [sayuj5/SlothSec](./sayuj5-slothsec.md) | ⭐ — | TypeScript | 42/100 |
-| 3 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 40/100 |
-| 4 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 40/100 |
-| 5 | [Ani0811/slothdesk](./ani0811-slothdesk.md) | ⭐ — | Python | 39/100 |
-| 6 | [GSuryaP/LazyDeskAI](./gsuryap-lazydeskai.md) | ⭐ — | Python | 39/100 |
+| 2 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 40/100 |
+| 3 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 40/100 |
+| 4 | [Ani0811/slothdesk](./ani0811-slothdesk.md) | ⭐ — | Python | 39/100 |
+| 5 | [GSuryaP/LazyDeskAI](./gsuryap-lazydeskai.md) | ⭐ — | Python | 39/100 |
+| 6 | [sayuj5/SlothSec](./sayuj5-slothsec.md) | ⭐ — | TypeScript | 39/100 |
 | 7 | [pyarchana/folio-ai](./pyarchana-folio-ai.md) | ⭐ — | Python | 39/100 |
 | 8 | [harsh8398/saathi-yoga-copilot](./harsh8398-saathi-yoga-copilot.md) | ⭐ — | TypeScript | 39/100 |
 | 9 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 36/100 |
