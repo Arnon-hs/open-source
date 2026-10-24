@@ -1,6 +1,6 @@
 # JunaidAhamed-7777/groundhog-ci
 
-[![Stars](https://img.shields.io/github/stars/JunaidAhamed-7777/groundhog-ci?style=flat-square&color=yellow)](https://github.com/JunaidAhamed-7777/groundhog-ci/stargazers) [![Forks](https://img.shields.io/github/forks/JunaidAhamed-7777/groundhog-ci?style=flat-square&color=blue)](https://github.com/JunaidAhamed-7777/groundhog-ci/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JunaidAhamed-7777/groundhog-ci?style=flat-square&color=yellow)](https://github.com/JunaidAhamed-7777/groundhog-ci/stargazers) [![Forks](https://img.shields.io/github/forks/JunaidAhamed-7777/groundhog-ci?style=flat-square&color=blue)](https://github.com/JunaidAhamed-7777/groundhog-ci/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Fix it once. Local-first CI failure memory with open-weight semantic retrieval, evidence-first review, and reproducible evaluations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ JunaidAhamed-7777/groundhog-ci：JunaidAhamed-7777/groundhog-ci may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 57/100 |
+| production | 52/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

@@ -1,0 +1,83 @@
+# AdamDiStefanoAI/acr-standard
+
+[![Stars](https://img.shields.io/github/stars/AdamDiStefanoAI/acr-standard?style=flat-square&color=yellow)](https://github.com/AdamDiStefanoAI/acr-standard/stargazers) [![Forks](https://img.shields.io/github/forks/AdamDiStefanoAI/acr-standard?style=flat-square&color=blue)](https://github.com/AdamDiStefanoAI/acr-standard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+
+> The ACR Standard: Agentic Control at Runtime — enforce AI governance at the execution path, with reference implementation.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 2 |
+| 🍴 **Forks** | 2 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 54/100 |
+| 🗓️ **Last push** | 2026-10-17 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`agent-security` `agentic-ai` `ai-control-plane` `ai-governance` `ai-governance-standard` `ai-runtime-governance` `ai-runtime-security` `ai-security` `ai-standard` `ai-trust` `ai-trust-infrastructure` `audit-telemetry`
+
+## 🎯 Categories
+
+Automation · AI/ML · Security
+
+## 📝 Summary
+
+### English
+
+AdamDiStefanoAI/acr-standard: AdamDiStefanoAI/acr-standard helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+AdamDiStefanoAI/acr-standard: open-source проект в категориях Automation, AI/ML, Security. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+AdamDiStefanoAI/acr-standard：AdamDiStefanoAI/acr-standard helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** AdamDiStefanoAI/acr-standard helps remove repetitive manual operations from a workflow.
+
+**Best use cases**
+
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 2 GitHub stars
+- 2 forks
+- updated 2026-10-17
+- primary language: Python
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 12/100 |
+| stars | 10/100 |
+| topics | 100/100 |
+| outlook | 59/100 |
+| quality | 50/100 |
+| recency | 80/100 |
+| adoption | 11/100 |
+| production | 60/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
+| sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-18 · [View on GitHub](https://github.com/AdamDiStefanoAI/acr-standard) · [← Back to Automation](./README.md)</sub>

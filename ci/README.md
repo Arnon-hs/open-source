@@ -14,7 +14,7 @@
 | 4 | [codecov/codecov-action](./codecov-codecov-action.md) | ⭐ 1.7k | Python | 61/100 |
 | 5 | [oven-sh/setup-bun](./oven-sh-setup-bun.md) | ⭐ 728 | TypeScript | 60/100 |
 | 6 | [awalsh128/cache-apt-pkgs-action](./awalsh128-cache-apt-pkgs-action.md) | ⭐ 365 | Shell | 48/100 |
-| 7 | [JunaidAhamed-7777/groundhog-ci](./junaidahamed-7777-groundhog-ci.md) | ⭐ — | JavaScript | 42/100 |
+| 7 | [JunaidAhamed-7777/groundhog-ci](./junaidahamed-7777-groundhog-ci.md) | ⭐ — | JavaScript | 39/100 |
 | 8 | [techdevfun/testguard](./techdevfun-testguard.md) | ⭐ — | Python | 39/100 |
 | 9 | [hahahahahahahahah6/script-chain-walk](./hahahahahahahahah6-script-chain-walk.md) | ⭐ — | Python | 36/100 |
 | 10 | [vznjs/vx](./vznjs-vx.md) | ⭐ 4 | TypeScript | 36/100 |

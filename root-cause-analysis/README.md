@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [victorisaacchinta-eng/antibody](./victorisaacchinta-eng-antibody.md) | ⭐ — | HTML | 33/100 |
+| 1 | [victorisaacchinta-eng/antibody](./victorisaacchinta-eng-antibody.md) | ⭐ — | HTML | 30/100 |
 
 ---
 
