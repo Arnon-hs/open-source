@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ahsplore/hue-outside](./ahsplore-hue-outside.md) | ⭐ — | TypeScript | 36/100 |
+| 1 | [ahsplore/hue-outside](./ahsplore-hue-outside.md) | ⭐ — | TypeScript | 33/100 |
 | 2 | [fflate/fflate](./fflate-fflate.md) | ⭐ — | — | 24/100 |
 
 ---
