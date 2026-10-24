@@ -1,6 +1,6 @@
 # fonttools/fonttools
 
-[![Stars](https://img.shields.io/github/stars/fonttools/fonttools?style=flat-square&color=yellow)](https://github.com/fonttools/fonttools/stargazers) [![Forks](https://img.shields.io/github/forks/fonttools/fonttools?style=flat-square&color=blue)](https://github.com/fonttools/fonttools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fonttools/fonttools?style=flat-square&color=yellow)](https://github.com/fonttools/fonttools/stargazers) [![Forks](https://img.shields.io/github/forks/fonttools/fonttools?style=flat-square&color=blue)](https://github.com/fonttools/fonttools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A library to manipulate font files from Python.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.3k |
 | 🍴 **Forks** | 562 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ fonttools/fonttools：fonttools/fonttools may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 76/100 |
+| production | 65/100 |
+| outlook | 69/100 |
 | adoption | 76/100 |
 | categoryMatchCount | 500/100 |
 | stars | 79/100 |
 | forks | 69/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |
 

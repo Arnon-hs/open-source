@@ -30,9 +30,9 @@
 | 20 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 33/100 |
 | 21 | [Dev-Suraj-Dhawal/terraforge-studio](./dev-suraj-dhawal-terraforge-studio.md) | ⭐ — | JavaScript | 33/100 |
 | 22 | [pixelcrisscross/PrivaLedger-AI](./pixelcrisscross-privaledger-ai.md) | ⭐ — | JavaScript | 33/100 |
-| 23 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 33/100 |
-| 24 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 33/100 |
-| 25 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 33/100 |
+| 23 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 33/100 |
+| 24 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 33/100 |
+| 25 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 30/100 |
 | 26 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 30/100 |
 | 27 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 30/100 |
 | 28 | [artcraft/effectcraft](./artcraft-effectcraft.md) | ⭐ — | — | 24/100 |

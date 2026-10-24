@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fonttools/fonttools](./fonttools-fonttools.md) | ⭐ 5.3k | Python | 66/100 |
+| 1 | [fonttools/fonttools](./fonttools-fonttools.md) | ⭐ 5.3k | Python | 62/100 |
 
 ---
 
