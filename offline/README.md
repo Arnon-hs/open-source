@@ -18,10 +18,10 @@
 | 8 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 36/100 |
 | 9 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 36/100 |
 | 10 | [DhirajB05/HacktoberFest_C2](./dhirajb05-hacktoberfest-c2.md) | ⭐ — | Python | 36/100 |
-| 11 | [Shreyansh00987/Sidequest](./shreyansh00987-sidequest.md) | ⭐ — | TypeScript | 36/100 |
-| 12 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 34/100 |
-| 13 | [disanalam2/trailecho](./disanalam2-trailecho.md) | ⭐ — | JavaScript | 33/100 |
-| 14 | [devkumar2313/TrailMind](./devkumar2313-trailmind.md) | ⭐ — | HTML | 33/100 |
+| 11 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 34/100 |
+| 12 | [disanalam2/trailecho](./disanalam2-trailecho.md) | ⭐ — | JavaScript | 33/100 |
+| 13 | [devkumar2313/TrailMind](./devkumar2313-trailmind.md) | ⭐ — | HTML | 33/100 |
+| 14 | [Shreyansh00987/Sidequest](./shreyansh00987-sidequest.md) | ⭐ — | TypeScript | 33/100 |
 | 15 | [praneshnikhar/wanderlog](./praneshnikhar-wanderlog.md) | ⭐ — | TypeScript | 33/100 |
 | 16 | [mohit01-beep/floraquest](./mohit01-beep-floraquest.md) | ⭐ — | Python | 33/100 |
 | 17 | [AdityaAneNenu/touchgrass-garden](./adityaanenenu-touchgrass-garden.md) | ⭐ — | Python | 33/100 |
