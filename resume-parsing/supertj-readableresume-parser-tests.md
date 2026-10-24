@@ -1,6 +1,6 @@
 # supertj/readableresume-parser-tests
 
-[![Stars](https://img.shields.io/github/stars/supertj/readableresume-parser-tests?style=flat-square&color=yellow)](https://github.com/supertj/readableresume-parser-tests/stargazers) [![Forks](https://img.shields.io/github/forks/supertj/readableresume-parser-tests?style=flat-square&color=blue)](https://github.com/supertj/readableresume-parser-tests/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/supertj/readableresume-parser-tests?style=flat-square&color=yellow)](https://github.com/supertj/readableresume-parser-tests/stargazers) [![Forks](https://img.shields.io/github/forks/supertj/readableresume-parser-tests?style=flat-square&color=blue)](https://github.com/supertj/readableresume-parser-tests/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Reproducible tests of how an open-source resume parser reads Google Docs resume templates (OpenResume, pdfminer.six, python-docx)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ supertj/readableresume-parser-tests：supertj/readableresume-parser-tests may be
 - primary language: TypeScript
 - 13 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 41/100 |
 | integration | 94/100 |
-| production | 63/100 |
-| outlook | 57/100 |
+| production | 56/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

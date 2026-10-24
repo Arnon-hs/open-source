@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [madebyzan/knovum](./madebyzan-knovum.md) | ⭐ 3 | Rust | 46/100 |
+| 1 | [madebyzan/knovum](./madebyzan-knovum.md) | ⭐ 3 | Rust | 43/100 |
 
 ---
 
