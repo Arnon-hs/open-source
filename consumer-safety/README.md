@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mikey92/recall-sloth](./mikey92-recall-sloth.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [mikey92/recall-sloth](./mikey92-recall-sloth.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

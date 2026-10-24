@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42027** |
+| **Projects** | **42031** |
 | **Categories** | **587** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16661 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4490 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16662 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4491 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2828 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2363 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2364 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1445 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1446 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 945 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 889 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 790 | [Browse →](./crypto/) |

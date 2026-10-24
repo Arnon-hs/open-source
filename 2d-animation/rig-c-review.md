@@ -1,6 +1,6 @@
 # rig-c/review
 
-[![Stars](https://img.shields.io/github/stars/rig-c/review?style=flat-square&color=yellow)](https://github.com/rig-c/review/stargazers) [![Forks](https://img.shields.io/github/forks/rig-c/review?style=flat-square&color=blue)](https://github.com/rig-c/review/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rig-c/review?style=flat-square&color=yellow)](https://github.com/rig-c/review/stargazers) [![Forks](https://img.shields.io/github/forks/rig-c/review?style=flat-square&color=blue)](https://github.com/rig-c/review/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Inspect rigs and motion, compare references, and export source-bound review feedback.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ rig-c/review：rig-c/review may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 57/100 |
+| outlook | 57/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
