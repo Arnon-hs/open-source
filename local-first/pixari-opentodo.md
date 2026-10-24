@@ -1,6 +1,6 @@
 # pixari/opentodo
 
-[![Stars](https://img.shields.io/github/stars/pixari/opentodo?style=flat-square&color=yellow)](https://github.com/pixari/opentodo/stargazers) [![Forks](https://img.shields.io/github/forks/pixari/opentodo?style=flat-square&color=blue)](https://github.com/pixari/opentodo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pixari/opentodo?style=flat-square&color=yellow)](https://github.com/pixari/opentodo/stargazers) [![Forks](https://img.shields.io/github/forks/pixari/opentodo?style=flat-square&color=blue)](https://github.com/pixari/opentodo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Your tasks, your server. An open-source, local-first task manager you can host yourself. Everything you expect from a commercial task app, without the subscription or the lock-in.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 84 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ pixari/opentodo：pixari/opentodo may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 64/100 |
+| production | 59/100 |
+| outlook | 57/100 |
 | adoption | 34/100 |
 | categoryMatchCount | 500/100 |
 | stars | 41/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

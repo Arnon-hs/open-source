@@ -1,6 +1,6 @@
 # Ton-Llop/Jaull
 
-[![Stars](https://img.shields.io/github/stars/Ton-Llop/Jaull?style=flat-square&color=yellow)](https://github.com/Ton-Llop/Jaull/stargazers) [![Forks](https://img.shields.io/github/forks/Ton-Llop/Jaull?style=flat-square&color=blue)](https://github.com/Ton-Llop/Jaull/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ton-Llop/Jaull?style=flat-square&color=yellow)](https://github.com/Ton-Llop/Jaull/stargazers) [![Forks](https://img.shields.io/github/forks/Ton-Llop/Jaull?style=flat-square&color=blue)](https://github.com/Ton-Llop/Jaull/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-driven qualification and validation of local LLM deployments.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Ton-Llop/Jaull：Ton-Llop/Jaull may be useful when its README and activity match
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 58/100 |
+| outlook | 56/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

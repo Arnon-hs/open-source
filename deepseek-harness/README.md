@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [grloper/dsh-claude-oauth](./grloper-dsh-claude-oauth.md) | ⭐ — | JavaScript | 51/100 |
+| 1 | [Charles950311/dsh-plugin-hub](./charles950311-dsh-plugin-hub.md) | ⭐ — | PowerShell | 56/100 |
 
 ---
 

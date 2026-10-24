@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 52/100 |
+| 1 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 49/100 |
 | 2 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 40/100 |
 | 3 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 40/100 |
 | 4 | [Ani0811/slothdesk](./ani0811-slothdesk.md) | ⭐ — | Python | 39/100 |

@@ -12,9 +12,9 @@
 | 2 | [xmor/ara](./xmor-ara.md) | ⭐ 6 | Java | 60/100 |
 | 3 | [Mattbusel/tokio-prompt-orchestrator](./mattbusel-tokio-prompt-orchestrator.md) | ⭐ 59 | Rust | 60/100 |
 | 4 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 54/100 |
-| 5 | [Ton-Llop/Jaull](./ton-llop-jaull.md) | ⭐ 3 | Python | 49/100 |
-| 6 | [vellumlabs/llm-wiki-kit](./vellumlabs-llm-wiki-kit.md) | ⭐ — | — | 47/100 |
-| 7 | [rytjy/slothaudit](./rytjy-slothaudit.md) | ⭐ — | Python | 46/100 |
+| 5 | [vellumlabs/llm-wiki-kit](./vellumlabs-llm-wiki-kit.md) | ⭐ — | — | 47/100 |
+| 6 | [rytjy/slothaudit](./rytjy-slothaudit.md) | ⭐ — | Python | 46/100 |
+| 7 | [Ton-Llop/Jaull](./ton-llop-jaull.md) | ⭐ 3 | Python | 46/100 |
 | 8 | [CodersAcademy006/graphsloth](./codersacademy006-graphsloth.md) | ⭐ — | HTML | 39/100 |
 | 9 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 33/100 |
 | 10 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 32/100 |

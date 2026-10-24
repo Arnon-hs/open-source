@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dbottrader/ASIN-HHC-Agent-Mesh](./dbottrader-asin-hhc-agent-mesh.md) | ⭐ — | — | 43/100 |
+| 1 | [dbottrader/ASIN-HHC-Agent-Mesh](./dbottrader-asin-hhc-agent-mesh.md) | ⭐ — | — | 40/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # ifmelate/SharpCell
 
-[![Stars](https://img.shields.io/github/stars/ifmelate/SharpCell?style=flat-square&color=yellow)](https://github.com/ifmelate/SharpCell/stargazers) [![Forks](https://img.shields.io/github/forks/ifmelate/SharpCell?style=flat-square&color=blue)](https://github.com/ifmelate/SharpCell/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ifmelate/SharpCell?style=flat-square&color=yellow)](https://github.com/ifmelate/SharpCell/stargazers) [![Forks](https://img.shields.io/github/forks/ifmelate/SharpCell?style=flat-square&color=blue)](https://github.com/ifmelate/SharpCell/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Free (MIT) Excel engine for .NET: reads, recalculates and writes .xlsx. 467 functions checked against Excel, dynamic arrays, LET/LAMBDA, tables, styles, hyperlinks, data validation, protection, custom C# functions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ ifmelate/SharpCell：ifmelate/SharpCell may be useful when its README and activi
 - primary language: C#
 - 6 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 59/100 |
+| production | 53/100 |
+| outlook | 52/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
