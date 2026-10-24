@@ -1,6 +1,6 @@
 # rudra496/cnc
 
-[![Stars](https://img.shields.io/github/stars/rudra496/cnc?style=flat-square&color=yellow)](https://github.com/rudra496/cnc/stargazers) [![Forks](https://img.shields.io/github/forks/rudra496/cnc?style=flat-square&color=blue)](https://github.com/rudra496/cnc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rudra496/cnc?style=flat-square&color=yellow)](https://github.com/rudra496/cnc/stargazers) [![Forks](https://img.shields.io/github/forks/rudra496/cnc?style=flat-square&color=blue)](https://github.com/rudra496/cnc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > CNC Simulator Pro — Free browser-based 3-axis CNC milling & G-code simulator. Real-time 3D machining, G/M-code animation, DRO control bar, feeds and speeds calculator, tool library and 26 example programs. Built with Next.js, Three.js and react-three-fiber. No install, 100 percent client-side.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ rudra496/cnc：rudra496/cnc may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 61/100 |
+| outlook | 64/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 600/100 |
 | stars | 24/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
