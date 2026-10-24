@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42006** |
-| **Categories** | **585** |
+| **Projects** | **42011** |
+| **Categories** | **586** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16651 | [Browse →](./misc/) |
+| 📦 **Misc** | 16654 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4489 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2828 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2363 | [Browse →](./orchestration/) |
@@ -61,7 +61,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 23 | [Browse →](./llm/) |
-| 🏷️ **Local-ai** | 21 | [Browse →](./local-ai/) |
+| 🏷️ **Local-ai** | 22 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
@@ -110,7 +110,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
 | 🏷️ **Claude** | 3 | [Browse →](./claude/) |
 | 🏷️ **Resume** | 3 | [Browse →](./resume/) |
-| 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **Sat** | 3 | [Browse →](./sat/) |
 | 🏷️ **Email** | 3 | [Browse →](./email/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
@@ -132,6 +131,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ai-feedback** | 2 | [Browse →](./ai-feedback/) |
 | 🏷️ **Java** | 2 | [Browse →](./java/) |
 | 🏷️ **File-management** | 2 | [Browse →](./file-management/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
@@ -143,6 +143,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Alarm** | 2 | [Browse →](./alarm/) |
 | 🏷️ **On-premise** | 2 | [Browse →](./on-premise/) |
 | 🏷️ **Chrome-extension** | 2 | [Browse →](./chrome-extension/) |
+| 🏷️ **Github** | 2 | [Browse →](./github/) |
 | 🏷️ **Job-search** | 2 | [Browse →](./job-search/) |
 | 🏷️ **Blockchain** | 2 | [Browse →](./blockchain/) |
 | 🏷️ **Laravel** | 2 | [Browse →](./laravel/) |
