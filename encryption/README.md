@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Vebat/sealbox](./vebat-sealbox.md) | ⭐ — | Go | 47/100 |
+| 1 | [uragenky/MagDrive](./uragenky-magdrive.md) | ⭐ — | TypeScript | 44/100 |
 
 ---
 

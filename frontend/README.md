@@ -2,7 +2,7 @@
 
 > Web frameworks, UI libraries, browser tooling
 
-**889 projects** in this category.
+**890 projects** in this category.
 
 ## Projects
 
@@ -260,8 +260,8 @@
 | 250 | [lynx-family/lynx-stack](./lynx-family-lynx-stack.md) | ⭐ 711 | TypeScript | 65/100 |
 | 251 | [zhenorzz/goploy](./zhenorzz-goploy.md) | ⭐ 1.2k | Go | 65/100 |
 | 252 | [ng-doc/ng-doc](./ng-doc-ng-doc.md) | ⭐ 319 | TypeScript | 65/100 |
-| 253 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.2k | Rust | 65/100 |
-| 254 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 8.5k | PHP | 65/100 |
+| 253 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 8.5k | PHP | 65/100 |
+| 254 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.2k | Rust | 65/100 |
 | 255 | [magicuidesign/magicui](./magicuidesign-magicui.md) | ⭐ 20.9k | MDX | 65/100 |
 | 256 | [mealie-recipes/mealie](./mealie-recipes-mealie.md) | ⭐ 12.2k | Python | 65/100 |
 | 257 | [marko-js/marko](./marko-js-marko.md) | ⭐ 14.4k | JavaScript | 65/100 |
@@ -514,8 +514,8 @@
 | 504 | [sveltejs/eslint-plugin-svelte](./sveltejs-eslint-plugin-svelte.md) | ⭐ 400 | TypeScript | 59/100 |
 | 505 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 890 | TypeScript | 59/100 |
 | 506 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 803 | TypeScript | 59/100 |
-| 507 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
-| 508 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.1k | TypeScript | 59/100 |
+| 507 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.1k | TypeScript | 59/100 |
+| 508 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
 | 509 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2k | TypeScript | 59/100 |
 | 510 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 320 | TypeScript | 59/100 |
 | 511 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 637 | Rust | 59/100 |
@@ -749,8 +749,8 @@
 | 739 | [sanusart/react-dropdown-select](./sanusart-react-dropdown-select.md) | ⭐ 366 | JavaScript | 54/100 |
 | 740 | [blackfyre/wga](./blackfyre-wga.md) | ⭐ 190 | Go | 54/100 |
 | 741 | [IT-BAER/proxmorph](./it-baer-proxmorph.md) | ⭐ 524 | CSS | 54/100 |
-| 742 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
-| 743 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 841 | Rust | 54/100 |
+| 742 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 841 | Rust | 54/100 |
+| 743 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
 | 744 | [coi/coi](./coi-coi.md) | ⭐ 559 | C++ | 54/100 |
 | 745 | [lvzhenbo/115-plus-desktop](./lvzhenbo-115-plus-desktop.md) | ⭐ 292 | Rust | 54/100 |
 | 746 | [rust-ui/ui](./rust-ui-ui.md) | ⭐ 305 | Rust | 54/100 |
@@ -874,29 +874,30 @@
 | 864 | [dhutaryan/ngx-signal-query](./dhutaryan-ngx-signal-query.md) | ⭐ — | — | 42/100 |
 | 865 | [11suixing11/mindnotes-pro](./11suixing11-mindnotes-pro.md) | ⭐ — | — | 42/100 |
 | 866 | [vyshakh/react-jsonschema-ui](./vyshakh-react-jsonschema-ui.md) | ⭐ — | — | 41/100 |
-| 867 | [ndop-ui/ui](./ndop-ui-ui.md) | ⭐ — | — | 41/100 |
-| 868 | [BernardoGiordano/srl](./bernardogiordano-srl.md) | ⭐ — | — | 41/100 |
-| 869 | [shader-effects-inc/shaders](./shader-effects-inc-shaders.md) | ⭐ — | — | 41/100 |
-| 870 | [hyper-serve/video-uploader](./hyper-serve-video-uploader.md) | ⭐ — | — | 41/100 |
-| 871 | [TiltedLunar123/clearline](./tiltedlunar123-clearline.md) | ⭐ 2 | JavaScript | 41/100 |
-| 872 | [spiritov/ds.css](./spiritov-ds.css.md) | ⭐ — | — | 41/100 |
-| 873 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 64 | Java | 40/100 |
-| 874 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ — | — | 39/100 |
-| 875 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ — | — | 39/100 |
-| 876 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ — | — | 39/100 |
+| 867 | [emirmrkaljevic/truediscount](./emirmrkaljevic-truediscount.md) | ⭐ — | JavaScript | 41/100 |
+| 868 | [ndop-ui/ui](./ndop-ui-ui.md) | ⭐ — | — | 41/100 |
+| 869 | [BernardoGiordano/srl](./bernardogiordano-srl.md) | ⭐ — | — | 41/100 |
+| 870 | [shader-effects-inc/shaders](./shader-effects-inc-shaders.md) | ⭐ — | — | 41/100 |
+| 871 | [hyper-serve/video-uploader](./hyper-serve-video-uploader.md) | ⭐ — | — | 41/100 |
+| 872 | [TiltedLunar123/clearline](./tiltedlunar123-clearline.md) | ⭐ 2 | JavaScript | 41/100 |
+| 873 | [spiritov/ds.css](./spiritov-ds.css.md) | ⭐ — | — | 41/100 |
+| 874 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 64 | Java | 40/100 |
+| 875 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ — | — | 39/100 |
+| 876 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ — | — | 39/100 |
 | 877 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ — | — | 39/100 |
-| 878 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
-| 879 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ — | — | 39/100 |
-| 880 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |
-| 881 | [Lanthanum89/dev.to-Frontend-Challenge-Comfort-Food-Edition](./lanthanum89-dev.to-frontend-challenge-comfort-food-edition.md) | ⭐ — | — | 39/100 |
-| 882 | [nobuo-miura/github-ui-translator](./nobuo-miura-github-ui-translator.md) | ⭐ — | — | 39/100 |
-| 883 | [Shadorux/shadow-the-hedgehog-css](./shadorux-shadow-the-hedgehog-css.md) | ⭐ — | HTML | 37/100 |
-| 884 | [viditx/sketchmorphism](./viditx-sketchmorphism.md) | ⭐ 1 | HTML | 37/100 |
-| 885 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ — | — | 37/100 |
-| 886 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 34/100 |
-| 887 | [ravikisha/relaxicons](./ravikisha-relaxicons.md) | ⭐ 2 | JavaScript | 33/100 |
-| 888 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 30/100 |
-| 889 | [shadcn/ui](./shadcn-ui.md) | ⭐ — | — | 24/100 |
+| 878 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ — | — | 39/100 |
+| 879 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
+| 880 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ — | — | 39/100 |
+| 881 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |
+| 882 | [Lanthanum89/dev.to-Frontend-Challenge-Comfort-Food-Edition](./lanthanum89-dev.to-frontend-challenge-comfort-food-edition.md) | ⭐ — | — | 39/100 |
+| 883 | [nobuo-miura/github-ui-translator](./nobuo-miura-github-ui-translator.md) | ⭐ — | — | 39/100 |
+| 884 | [Shadorux/shadow-the-hedgehog-css](./shadorux-shadow-the-hedgehog-css.md) | ⭐ — | HTML | 37/100 |
+| 885 | [viditx/sketchmorphism](./viditx-sketchmorphism.md) | ⭐ 1 | HTML | 37/100 |
+| 886 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ — | — | 37/100 |
+| 887 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 34/100 |
+| 888 | [ravikisha/relaxicons](./ravikisha-relaxicons.md) | ⭐ 2 | JavaScript | 33/100 |
+| 889 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ — | — | 30/100 |
+| 890 | [shadcn/ui](./shadcn-ui.md) | ⭐ — | — | 24/100 |
 
 ---
 
