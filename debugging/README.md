@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [LuisPeixoto/ProxyZip](./luispeixoto-proxyzip.md) | ⭐ — | Rust | 63/100 |
+| 1 | [LuisPeixoto/ProxyZip](./luispeixoto-proxyzip.md) | ⭐ — | Rust | 60/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # LuisPeixoto/ProxyZip
 
-[![Stars](https://img.shields.io/github/stars/LuisPeixoto/ProxyZip?style=flat-square&color=yellow)](https://github.com/LuisPeixoto/ProxyZip/stargazers) [![Forks](https://img.shields.io/github/forks/LuisPeixoto/ProxyZip?style=flat-square&color=blue)](https://github.com/LuisPeixoto/ProxyZip/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LuisPeixoto/ProxyZip?style=flat-square&color=yellow)](https://github.com/LuisPeixoto/ProxyZip/stargazers) [![Forks](https://img.shields.io/github/forks/LuisPeixoto/ProxyZip?style=flat-square&color=blue)](https://github.com/LuisPeixoto/ProxyZip/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source HTTP & HTTPS debugging proxy for macOS, Windows and Linux. Inspect traffic, mock APIs, run API tests, decode gRPC. Built with Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ LuisPeixoto/ProxyZip：LuisPeixoto/ProxyZip may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 70/100 |
+| production | 58/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
