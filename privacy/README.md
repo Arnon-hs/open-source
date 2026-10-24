@@ -2,7 +2,7 @@
 
 > 
 
-**22 projects** in this category.
+**23 projects** in this category.
 
 ## Projects
 
@@ -24,12 +24,13 @@
 | 14 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 30/100 |
 | 15 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 | 16 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 30/100 |
-| 17 | [ntsd/llama.rn](./ntsd-llama.rn.md) | ⭐ — | — | 24/100 |
-| 18 | [yaansa/udhaar-khata](./yaansa-udhaar-khata.md) | ⭐ — | — | 24/100 |
-| 19 | [Muchaziwepi/Acme-Studio](./muchaziwepi-acme-studio.md) | ⭐ — | — | 24/100 |
-| 20 | [statsinsta/stats-insta](./statsinsta-stats-insta.md) | ⭐ — | — | 24/100 |
-| 21 | [ibrahim-iqbal/wllama](./ibrahim-iqbal-wllama.md) | ⭐ — | — | 24/100 |
-| 22 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
+| 17 | [yourrepo/pyxis](./yourrepo-pyxis.md) | ⭐ — | — | 24/100 |
+| 18 | [ntsd/llama.rn](./ntsd-llama.rn.md) | ⭐ — | — | 24/100 |
+| 19 | [yaansa/udhaar-khata](./yaansa-udhaar-khata.md) | ⭐ — | — | 24/100 |
+| 20 | [Muchaziwepi/Acme-Studio](./muchaziwepi-acme-studio.md) | ⭐ — | — | 24/100 |
+| 21 | [statsinsta/stats-insta](./statsinsta-stats-insta.md) | ⭐ — | — | 24/100 |
+| 22 | [ibrahim-iqbal/wllama](./ibrahim-iqbal-wllama.md) | ⭐ — | — | 24/100 |
+| 23 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
 
 ---
 

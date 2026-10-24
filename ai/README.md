@@ -16,10 +16,10 @@
 | 6 | [SandeepAi369/searchwala](./sandeepai369-searchwala.md) | ⭐ 17 | Rust | 55/100 |
 | 7 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 52/100 |
 | 8 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 50/100 |
-| 9 | [draconnn/session-profiler](./draconnn-session-profiler.md) | ⭐ — | Python | 50/100 |
-| 10 | [Madesh-cse/AI-Document-Approval-system-backend](./madesh-cse-ai-document-approval-system-backend.md) | ⭐ 1 | Python | 48/100 |
-| 11 | [Madesh-cse/AI-Document-Approval-system-frontend](./madesh-cse-ai-document-approval-system-frontend.md) | ⭐ 1 | TypeScript | 48/100 |
-| 12 | [farouqaldori/yapsketch](./farouqaldori-yapsketch.md) | ⭐ 11 | Swift | 48/100 |
+| 9 | [Madesh-cse/AI-Document-Approval-system-backend](./madesh-cse-ai-document-approval-system-backend.md) | ⭐ 1 | Python | 48/100 |
+| 10 | [Madesh-cse/AI-Document-Approval-system-frontend](./madesh-cse-ai-document-approval-system-frontend.md) | ⭐ 1 | TypeScript | 48/100 |
+| 11 | [farouqaldori/yapsketch](./farouqaldori-yapsketch.md) | ⭐ 11 | Swift | 48/100 |
+| 12 | [draconnn/session-profiler](./draconnn-session-profiler.md) | ⭐ — | Python | 47/100 |
 | 13 | [Divyansh0208/GigLift](./divyansh0208-giglift.md) | ⭐ — | Python | 46/100 |
 | 14 | [amrit-dash/testmadeeasy](./amrit-dash-testmadeeasy.md) | ⭐ — | TypeScript | 44/100 |
 | 15 | [NullClassifier/nocturne](./nullclassifier-nocturne.md) | ⭐ — | Python | 44/100 |
