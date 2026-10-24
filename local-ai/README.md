@@ -2,7 +2,7 @@
 
 > 
 
-**20 projects** in this category.
+**21 projects** in this category.
 
 ## Projects
 
@@ -27,7 +27,8 @@
 | 17 | [SaifuddinM23/gardenfix](./saifuddinm23-gardenfix.md) | ⭐ — | JavaScript | 30/100 |
 | 18 | [UniTools/recipes](./unitools-recipes.md) | ⭐ — | — | 28/100 |
 | 19 | [0xShugo/audio.cpp](./0xshugo-audio.cpp.md) | ⭐ — | — | 27/100 |
-| 20 | [unsloth-ai/unsloth](./unsloth-ai-unsloth.md) | ⭐ — | — | 24/100 |
+| 20 | [Manish010325/slothsort-ai](./manish010325-slothsort-ai.md) | ⭐ — | — | 24/100 |
+| 21 | [unsloth-ai/unsloth](./unsloth-ai-unsloth.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Ashwin-S-10/Leetvision_extension
 
-[![Stars](https://img.shields.io/github/stars/Ashwin-S-10/Leetvision_extension?style=flat-square&color=yellow)](https://github.com/Ashwin-S-10/Leetvision_extension/stargazers) [![Forks](https://img.shields.io/github/forks/Ashwin-S-10/Leetvision_extension?style=flat-square&color=blue)](https://github.com/Ashwin-S-10/Leetvision_extension/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ashwin-S-10/Leetvision_extension?style=flat-square&color=yellow)](https://github.com/Ashwin-S-10/Leetvision_extension/stargazers) [![Forks](https://img.shields.io/github/forks/Ashwin-S-10/Leetvision_extension?style=flat-square&color=blue)](https://github.com/Ashwin-S-10/Leetvision_extension/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Leetvision is your LeetCode revision system: a companion website and browser extension that captures every submission, analyzes your code approaches and attempts, and helps you prepare effectively without forgetting approaches.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Leetcode · revision · automation · browser-extension · web-application
 
 ### English
 
-Ashwin-S-10/Leetvision_extension: Ashwin-S-10/Leetvision_extension may be useful when its README and activity match a concrete workflow.. Use it for Leetcode, revision, automation, browser-extension, web-application. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Ashwin-S-10/Leetvision_extension: Ashwin-S-10/Leetvision_extension may be useful when its README and activity match a concrete workflow.. Use it for Leetcode, revision, automation, browser-extension, web-application. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Ashwin-S-10/Leetvision_extension: open-source проект в категориях Leetcode, revision, automation, browser-extension, web-application. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Ashwin-S-10/Leetvision_extension: open-source проект в категориях Leetcode, revision, automation, browser-extension, web-application. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Ashwin-S-10/Leetvision_extension：Ashwin-S-10/Leetvision_extension may be useful when its README and activity match a concrete workflow.。适合用于Leetcode、revision、automation、browser-extension、web-application。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Ashwin-S-10/Leetvision_extension：Ashwin-S-10/Leetvision_extension may be useful when its README and activity match a concrete workflow.。适合用于Leetcode、revision、automation、browser-extension、web-application。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Ashwin-S-10/Leetvision_extension：Ashwin-S-10/Leetvision_extension may be usefu
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,15 +63,15 @@ Ashwin-S-10/Leetvision_extension：Ashwin-S-10/Leetvision_extension may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 52/100 |
+| production | 50/100 |
+| outlook | 45/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

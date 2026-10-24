@@ -1,6 +1,6 @@
 # frankzch/ai-news-skill
 
-[![Stars](https://img.shields.io/github/stars/frankzch/ai-news-skill?style=flat-square&color=yellow)](https://github.com/frankzch/ai-news-skill/stargazers) [![Forks](https://img.shields.io/github/forks/frankzch/ai-news-skill?style=flat-square&color=blue)](https://github.com/frankzch/ai-news-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/frankzch/ai-news-skill?style=flat-square&color=yellow)](https://github.com/frankzch/ai-news-skill/stargazers) [![Forks](https://img.shields.io/github/forks/frankzch/ai-news-skill?style=flat-square&color=blue)](https://github.com/frankzch/ai-news-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skill for Claude Code, Codex, OpenClaw & Antigravity: ask for today's AI news in plain language — 370+ curated sources incl. ~310 AI builders on X, Reddit/HN, YouTube, GitHub Trending. Free, no API key. EN/中文.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ frankzch/ai-news-skill：frankzch/ai-news-skill may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 62/100 |
+| outlook | 66/100 |
 | adoption | 23/100 |
 | categoryMatchCount | 500/100 |
 | stars | 29/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

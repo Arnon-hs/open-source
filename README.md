@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41987** |
-| **Categories** | **582** |
+| **Projects** | **41995** |
+| **Categories** | **585** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16641 | [Browse →](./misc/) |
+| 📦 **Misc** | 16644 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4489 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2828 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2363 | [Browse →](./orchestration/) |
@@ -61,9 +61,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
 | 🏷️ **Llm** | 23 | [Browse →](./llm/) |
 | 🏷️ **Privacy** | 22 | [Browse →](./privacy/) |
+| 🏷️ **Local-ai** | 21 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
-| 🏷️ **Local-ai** | 20 | [Browse →](./local-ai/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 13 | [Browse →](./ci/) |
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
@@ -132,6 +132,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Java** | 2 | [Browse →](./java/) |
 | 🏷️ **File-management** | 2 | [Browse →](./file-management/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
 | 🏷️ **Smtp** | 2 | [Browse →](./smtp/) |
@@ -221,6 +222,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Terminal-app** | 1 | [Browse →](./terminal-app/) |
+| 🏷️ **Edtech** | 1 | [Browse →](./edtech/) |
+| 🏷️ **Edr** | 1 | [Browse →](./edr/) |
 | 🏷️ **Deepseek-harness** | 1 | [Browse →](./deepseek-harness/) |
 | 🏷️ **Debt-tracking** | 1 | [Browse →](./debt-tracking/) |
 | 🏷️ **Machine-learning** | 1 | [Browse →](./machine-learning/) |
@@ -314,7 +318,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Receipt-processing** | 1 | [Browse →](./receipt-processing/) |
 | 🏷️ **Model-selection** | 1 | [Browse →](./model-selection/) |
 | 🏷️ **Redaction** | 1 | [Browse →](./redaction/) |
-| 🏷️ **Java** | 1 | [Browse →](./java/) |
 | 🏷️ **Lean4** | 1 | [Browse →](./lean4/) |
 | 🏷️ **Contract-management** | 1 | [Browse →](./contract-management/) |
 | 🏷️ **Autodesk-inventor** | 1 | [Browse →](./autodesk-inventor/) |
