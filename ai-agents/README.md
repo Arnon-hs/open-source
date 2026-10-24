@@ -2,7 +2,7 @@
 
 > 
 
-**32 projects** in this category.
+**33 projects** in this category.
 
 ## Projects
 
@@ -21,25 +21,26 @@
 | 11 | [saifmodan2006/agenttrace](./saifmodan2006-agenttrace.md) | ⭐ — | Python | 43/100 |
 | 12 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
 | 13 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 37/100 |
-| 14 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 36/100 |
-| 15 | [krishsf5/Graph-Hack-Hackathon-Team-7vengers](./krishsf5-graph-hack-hackathon-team-7vengers.md) | ⭐ 1 | JavaScript | 34/100 |
-| 16 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 33/100 |
-| 17 | [example/cli-seat](./example-cli-seat.md) | ⭐ — | — | 32/100 |
-| 18 | [pachca/cli](./pachca-cli.md) | ⭐ — | — | 32/100 |
-| 19 | [waiaas/cli](./waiaas-cli.md) | ⭐ — | — | 32/100 |
-| 20 | [waiaas/sdk](./waiaas-sdk.md) | ⭐ — | — | 32/100 |
-| 21 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 32/100 |
-| 22 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 30/100 |
-| 23 | [agent-colony/join-agent](./agent-colony-join-agent.md) | ⭐ — | — | 28/100 |
-| 24 | [openai/openclaw](./openai-openclaw.md) | ⭐ — | — | 24/100 |
-| 25 | [yourrepo/browser-use](./yourrepo-browser-use.md) | ⭐ — | — | 24/100 |
-| 26 | [falkor-db/falkor-db](./falkor-db-falkor-db.md) | ⭐ — | — | 24/100 |
-| 27 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
-| 28 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
-| 29 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
-| 30 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
-| 31 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
-| 32 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
+| 14 | [CarGDev/codetyper.a2a](./cargdev-codetyper.a2a.md) | ⭐ — | Rust | 36/100 |
+| 15 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 36/100 |
+| 16 | [krishsf5/Graph-Hack-Hackathon-Team-7vengers](./krishsf5-graph-hack-hackathon-team-7vengers.md) | ⭐ 1 | JavaScript | 34/100 |
+| 17 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 33/100 |
+| 18 | [example/cli-seat](./example-cli-seat.md) | ⭐ — | — | 32/100 |
+| 19 | [pachca/cli](./pachca-cli.md) | ⭐ — | — | 32/100 |
+| 20 | [waiaas/cli](./waiaas-cli.md) | ⭐ — | — | 32/100 |
+| 21 | [waiaas/sdk](./waiaas-sdk.md) | ⭐ — | — | 32/100 |
+| 22 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 32/100 |
+| 23 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 30/100 |
+| 24 | [agent-colony/join-agent](./agent-colony-join-agent.md) | ⭐ — | — | 28/100 |
+| 25 | [openai/openclaw](./openai-openclaw.md) | ⭐ — | — | 24/100 |
+| 26 | [yourrepo/browser-use](./yourrepo-browser-use.md) | ⭐ — | — | 24/100 |
+| 27 | [falkor-db/falkor-db](./falkor-db-falkor-db.md) | ⭐ — | — | 24/100 |
+| 28 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
+| 29 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
+| 30 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
+| 31 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
+| 32 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
+| 33 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
 
 ---
 
