@@ -14,7 +14,7 @@
 | 4 | [Moha2005269/agentgo](./moha2005269-agentgo.md) | ⭐ 2 | Rust | 62/100 |
 | 5 | [openziti/zrok](./openziti-zrok.md) | ⭐ 4.8k | Go | 60/100 |
 | 6 | [xX-its-amit-Xx/knowledgeispower](./xx-its-amit-xx-knowledgeispower.md) | ⭐ — | Python | 59/100 |
-| 7 | [cleitonaugusto/cleimesh](./cleitonaugusto-cleimesh.md) | ⭐ — | Rust | 56/100 |
+| 7 | [cleitonaugusto/cleimesh](./cleitonaugusto-cleimesh.md) | ⭐ — | Rust | 53/100 |
 | 8 | [mrsergeiluzhnov/xonta](./mrsergeiluzhnov-xonta.md) | ⭐ — | JavaScript | 52/100 |
 | 9 | [Jfernandez27/deskmates](./jfernandez27-deskmates.md) | ⭐ — | TypeScript | 51/100 |
 | 10 | [Artificialxtrax/agentgate](./artificialxtrax-agentgate.md) | ⭐ — | Python | 48/100 |
