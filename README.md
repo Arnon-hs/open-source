@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42054** |
-| **Categories** | **590** |
+| **Projects** | **42060** |
+| **Categories** | **591** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16675 | [Browse →](./misc/) |
+| 📦 **Misc** | 16677 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4493 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2829 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2364 | [Browse →](./orchestration/) |
@@ -38,8 +38,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 619 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 610 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 545 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 518 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 509 | [Browse →](./video-editing/) |
+| 🚀 **DevOps & Infra** | 519 | [Browse →](./devopsinfra/) |
+| 🏷️ **Video-editing** | 510 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 462 | [Browse →](./templates/) |
 | 🔐 **Security** | 437 | [Browse →](./security/) |
 | 🏷️ **Communication** | 435 | [Browse →](./communication/) |
@@ -69,12 +69,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
+| 🏷️ **Macos** | 9 | [Browse →](./macos/) |
 | 🏷️ **Android** | 8 | [Browse →](./android/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
-| 🏷️ **Macos** | 8 | [Browse →](./macos/) |
-| 🏷️ **Kubernetes** | 8 | [Browse →](./kubernetes/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Whatsapp** | 7 | [Browse →](./whatsapp/) |
+| 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Hacktoberfest** | 6 | [Browse →](./hacktoberfest/) |
@@ -132,6 +132,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Fileorganizer** | 2 | [Browse →](./fileorganizer/) |
 | 🏷️ **Api** | 2 | [Browse →](./api/) |
 | 🏷️ **Ai-feedback** | 2 | [Browse →](./ai-feedback/) |
 | 🏷️ **Java** | 2 | [Browse →](./java/) |
@@ -223,6 +224,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Shadcnui** | 1 | [Browse →](./shadcnui/) |
+| 🏷️ **Automotive** | 1 | [Browse →](./automotive/) |
 | 🏷️ **Image-search** | 1 | [Browse →](./image-search/) |
 | 🏷️ **Plugin** | 1 | [Browse →](./plugin/) |
 | 🏷️ **Assistant** | 1 | [Browse →](./assistant/) |
@@ -282,7 +285,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Web-accessibility** | 1 | [Browse →](./web-accessibility/) |
 | 🏷️ **Deepinfer** | 1 | [Browse →](./deepinfer/) |
 | 🏷️ **Embeddinggemma2** | 1 | [Browse →](./embeddinggemma2/) |
-| 🏷️ **Fileorganizer** | 1 | [Browse →](./fileorganizer/) |
 | 🏷️ **Phishing** | 1 | [Browse →](./phishing/) |
 | 🏷️ **Tabular** | 1 | [Browse →](./tabular/) |
 | 🏷️ **Vram** | 1 | [Browse →](./vram/) |
@@ -399,7 +401,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Arxiv** | 1 | [Browse →](./arxiv/) |
 | 🏷️ **Nda** | 1 | [Browse →](./nda/) |
 | 🏷️ **I18n** | 1 | [Browse →](./i18n/) |
-| 🏷️ **Visa-bulletin** | 1 | [Browse →](./visa-bulletin/) |
 | 🏷️ **Ai-translation** | 1 | [Browse →](./ai-translation/) |
 | 🏷️ **Cloud-security** | 1 | [Browse →](./cloud-security/) |
 | 🏷️ **Voiceassistant** | 1 | [Browse →](./voiceassistant/) |

@@ -1,0 +1,79 @@
+# prateek11rai/munshi
+
+[![Stars](https://img.shields.io/github/stars/prateek11rai/munshi?style=flat-square&color=yellow)](https://github.com/prateek11rai/munshi/stargazers) [![Forks](https://img.shields.io/github/forks/prateek11rai/munshi?style=flat-square&color=blue)](https://github.com/prateek11rai/munshi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+
+> A desktop buddy for your Mac that keeps your daily register with a local open-weight model (Gemma 4 via Ollama). No screenshots, no keystrokes, nothing leaves your Mac.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Python |
+| 📈 **Score** | 47/100 |
+| 🗓️ **Last push** | 2026-10-24 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`desktop-app` `gemma` `hacktoberfest` `journal` `local-first` `macos` `ollama` `open-source-ai` `privacy` `python` `pywebview` `time-tracking`
+
+## 🎯 Categories
+
+macOS · local-LLM · time-tracking · privacy · Gemma4 · Ollama · pywebview
+
+## 📝 Summary
+
+### English
+
+prateek11rai/munshi: prateek11rai/munshi may be useful when its README and activity match a concrete workflow.. Use it for macOS, local-LLM, time-tracking, privacy, Gemma4, Ollama, pywebview. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+prateek11rai/munshi: open-source проект в категориях macOS, local-LLM, time-tracking, privacy, Gemma4, Ollama, pywebview. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+prateek11rai/munshi：prateek11rai/munshi may be useful when its README and activity match a concrete workflow.。适合用于macOS、local-LLM、time-tracking、privacy、Gemma4、Ollama、pywebview。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** prateek11rai/munshi may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-10-24
+- primary language: Python
+- 12 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 51/100 |
+| integration | 46/100 |
+| production | 63/100 |
+| outlook | 60/100 |
+| adoption | 0/100 |
+| categoryMatchCount | 700/100 |
+| stars | 0/100 |
+| forks | 0/100 |
+| recency | 100/100 |
+| topics | 100/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-24 · [View on GitHub](https://github.com/prateek11rai/munshi) · [← Back to Macos](./README.md)</sub>
