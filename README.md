@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42040** |
-| **Categories** | **588** |
+| **Projects** | **42045** |
+| **Categories** | **589** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16667 | [Browse →](./misc/) |
+| 📦 **Misc** | 16670 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4491 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2829 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2364 | [Browse →](./orchestration/) |
@@ -69,12 +69,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
+| 🏷️ **Android** | 8 | [Browse →](./android/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🏷️ **Macos** | 8 | [Browse →](./macos/) |
 | 🏷️ **Kubernetes** | 8 | [Browse →](./kubernetes/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Whatsapp** | 7 | [Browse →](./whatsapp/) |
-| 🏷️ **Android** | 7 | [Browse →](./android/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Hacktoberfest** | 6 | [Browse →](./hacktoberfest/) |
@@ -222,6 +222,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Plugin** | 1 | [Browse →](./plugin/) |
 | 🏷️ **Assistant** | 1 | [Browse →](./assistant/) |
 | 🏷️ **Digital-clutter** | 1 | [Browse →](./digital-clutter/) |
 | 🏷️ **Encryption** | 1 | [Browse →](./encryption/) |

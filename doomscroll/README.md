@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [lillygrace-l/touchwood](./lillygrace-l-touchwood.md) | ⭐ — | JavaScript | 33/100 |
+| 1 | [lillygrace-l/touchwood](./lillygrace-l-touchwood.md) | ⭐ — | JavaScript | 30/100 |
 
 ---
 

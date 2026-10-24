@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yesbert/WeavePort](./yesbert-weaveport.md) | ⭐ 1 | C# | 63/100 |
+| 1 | [RobinaMirbahar/antigravity-science-plugin-cookbook](./robinamirbahar-antigravity-science-plugin-cookbook.md) | ⭐ — | HTML | 56/100 |
 
 ---
 
