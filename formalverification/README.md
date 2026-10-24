@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [quod-lang/quod](./quod-lang-quod.md) | ⭐ — | Python | 55/100 |
+| 1 | [quod-lang/quod](./quod-lang-quod.md) | ⭐ — | Python | 52/100 |
 
 ---
 

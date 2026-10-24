@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nyharena25/0xTsoa](./nyharena25-0xtsoa.md) | ⭐ 2 | Astro | 50/100 |
+| 1 | [nyharena25/0xTsoa](./nyharena25-0xtsoa.md) | ⭐ 2 | Astro | 47/100 |
 | 2 | [mikachu/keyflip](./mikachu-keyflip.md) | ⭐ — | — | 24/100 |
 
 ---

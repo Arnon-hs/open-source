@@ -1,6 +1,6 @@
 # Armansiddiqui9/slumberbloom
 
-[![Stars](https://img.shields.io/github/stars/Armansiddiqui9/slumberbloom?style=flat-square&color=yellow)](https://github.com/Armansiddiqui9/slumberbloom/stargazers) [![Forks](https://img.shields.io/github/forks/Armansiddiqui9/slumberbloom?style=flat-square&color=blue)](https://github.com/Armansiddiqui9/slumberbloom/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Armansiddiqui9/slumberbloom?style=flat-square&color=yellow)](https://github.com/Armansiddiqui9/slumberbloom/stargazers) [![Forks](https://img.shields.io/github/forks/Armansiddiqui9/slumberbloom?style=flat-square&color=blue)](https://github.com/Armansiddiqui9/slumberbloom/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > Proof-of-patience garden - your sleep becomes verifiable Night Blocks with SHA-256 + Merkle
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | 2026-10-10 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ Armansiddiqui9/slumberbloom：Armansiddiqui9/slumberbloom may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 31/100 |
+| quality | 26/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 43/100 |
+| production | 42/100 |
+| outlook | 36/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
