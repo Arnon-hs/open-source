@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mw00/project-maya](./mw00-project-maya.md) | ⭐ 1.4k | C++ | 77/100 |
+| 1 | [mw00/project-maya](./mw00-project-maya.md) | ⭐ 1.4k | C++ | 74/100 |
 
 ---
 
