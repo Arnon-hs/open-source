@@ -1,6 +1,6 @@
 # itw-creative-works/workkit
 
-[![Stars](https://img.shields.io/github/stars/itw-creative-works/workkit?style=flat-square&color=yellow)](https://github.com/itw-creative-works/workkit/stargazers) [![Forks](https://img.shields.io/github/forks/itw-creative-works/workkit?style=flat-square&color=blue)](https://github.com/itw-creative-works/workkit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/itw-creative-works/workkit?style=flat-square&color=yellow)](https://github.com/itw-creative-works/workkit/stargazers) [![Forks](https://img.shields.io/github/forks/itw-creative-works/workkit?style=flat-square&color=blue)](https://github.com/itw-creative-works/workkit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > The issue-pipeline workflow system as a Claude Code plugin: GitHub Issues as the work-item SSOT, labels as the pipeline, guard hooks, a manager crew, and the skills from build to ship.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ itw-creative-works/workkit：itw-creative-works/workkit may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 75/100 |
+| production | 58/100 |
+| outlook | 68/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 500/100 |
 | stars | 15/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
