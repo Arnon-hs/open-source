@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [masyoudi/release-weave](./masyoudi-release-weave.md) | ⭐ — | Rust | 36/100 |
+| 1 | [masyoudi/release-weave](./masyoudi-release-weave.md) | ⭐ — | Rust | 33/100 |
 
 ---
 

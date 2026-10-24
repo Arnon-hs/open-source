@@ -1,6 +1,6 @@
 # csslc/PixRestore
 
-[![Stars](https://img.shields.io/github/stars/csslc/PixRestore?style=flat-square&color=yellow)](https://github.com/csslc/PixRestore/stargazers) [![Forks](https://img.shields.io/github/forks/csslc/PixRestore?style=flat-square&color=blue)](https://github.com/csslc/PixRestore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/csslc/PixRestore?style=flat-square&color=yellow)](https://github.com/csslc/PixRestore/stargazers) [![Forks](https://img.shields.io/github/forks/csslc/PixRestore?style=flat-square&color=blue)](https://github.com/csslc/PixRestore/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Official code repository for "PixRestore: Unified Image Restoration via Pixel Diffusion Transformer".
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 147 |
 | 🍴 **Forks** | 11 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ csslc/PixRestore：csslc/PixRestore may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 61/100 |
+| production | 57/100 |
+| outlook | 54/100 |
 | adoption | 41/100 |
 | categoryMatchCount | 1100/100 |
 | stars | 46/100 |
 | forks | 27/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

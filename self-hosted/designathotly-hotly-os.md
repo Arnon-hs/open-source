@@ -1,6 +1,6 @@
 # designAtHotly/hotly-os
 
-[![Stars](https://img.shields.io/github/stars/designAtHotly/hotly-os?style=flat-square&color=yellow)](https://github.com/designAtHotly/hotly-os/stargazers) [![Forks](https://img.shields.io/github/forks/designAtHotly/hotly-os?style=flat-square&color=blue)](https://github.com/designAtHotly/hotly-os/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/designAtHotly/hotly-os?style=flat-square&color=yellow)](https://github.com/designAtHotly/hotly-os/stargazers) [![Forks](https://img.shields.io/github/forks/designAtHotly/hotly-os?style=flat-square&color=blue)](https://github.com/designAtHotly/hotly-os/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Get paid to answer your DMs. A self-hosted paid inbox: people pay to send you a note, you reply when it suits you.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ designAtHotly/hotly-os：designAtHotly/hotly-os may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 94/100 |
-| production | 70/100 |
-| outlook | 64/100 |
+| production | 64/100 |
+| outlook | 57/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 800/100 |
 | stars | 15/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

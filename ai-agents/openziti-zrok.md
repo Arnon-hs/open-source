@@ -1,6 +1,6 @@
 # openziti/zrok
 
-[![Stars](https://img.shields.io/github/stars/openziti/zrok?style=flat-square&color=yellow)](https://github.com/openziti/zrok/stargazers) [![Forks](https://img.shields.io/github/forks/openziti/zrok?style=flat-square&color=blue)](https://github.com/openziti/zrok/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openziti/zrok?style=flat-square&color=yellow)](https://github.com/openziti/zrok/stargazers) [![Forks](https://img.shields.io/github/forks/openziti/zrok?style=flat-square&color=blue)](https://github.com/openziti/zrok/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Secure internet sharing made simple.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.8k |
 | 🍴 **Forks** | 228 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-21 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ openziti/zrok：openziti/zrok may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 81/100 |
+| quality | 76/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 77/100 |
+| production | 67/100 |
+| outlook | 70/100 |
 | adoption | 73/100 |
 | categoryMatchCount | 600/100 |
 | stars | 78/100 |
 | forks | 59/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
