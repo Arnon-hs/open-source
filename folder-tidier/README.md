@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sanpeita/slow-sorter](./sanpeita-slow-sorter.md) | ⭐ — | Python | 42/100 |
+| 1 | [sanpeita/slow-sorter](./sanpeita-slow-sorter.md) | ⭐ — | Python | 39/100 |
 
 ---
 
