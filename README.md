@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41947** |
+| **Projects** | **41949** |
 | **Categories** | **583** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16621 | [Browse →](./misc/) |
+| 📦 **Misc** | 16623 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4487 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2825 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2362 | [Browse →](./orchestration/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 180 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 151 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 123 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 120 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 119 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 38 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 34 | [Browse →](./ai-agents/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
@@ -133,6 +133,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Agentic** | 2 | [Browse →](./agentic/) |
 | 🏷️ **Standup** | 2 | [Browse →](./standup/) |
 | 🏷️ **Document-management** | 2 | [Browse →](./document-management/) |
 | 🏷️ **Alarm** | 2 | [Browse →](./alarm/) |
@@ -483,7 +484,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Web** | 1 | [Browse →](./web/) |
 | 🏷️ **Dapr** | 1 | [Browse →](./dapr/) |
 | 🏷️ **Programming-language** | 1 | [Browse →](./programming-language/) |
-| 🏷️ **Agentic** | 1 | [Browse →](./agentic/) |
 | 🏷️ **Food-safety** | 1 | [Browse →](./food-safety/) |
 | 🏷️ **Ai-governance** | 1 | [Browse →](./ai-governance/) |
 | 🏷️ **Architecture** | 1 | [Browse →](./architecture/) |
