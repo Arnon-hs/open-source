@@ -2,7 +2,7 @@
 
 > 
 
-**7 projects** in this category.
+**8 projects** in this category.
 
 ## Projects
 
@@ -15,6 +15,7 @@
 | 5 | [MattSenter/despacer](./mattsenter-despacer.md) | ⭐ 3 | Swift | 41/100 |
 | 6 | [adfd3ewdf3/FinderBack](./adfd3ewdf3-finderback.md) | ⭐ — | Swift | 41/100 |
 | 7 | [MattSenter/commandh](./mattsenter-commandh.md) | ⭐ 1 | Swift | 37/100 |
+| 8 | [satinath-nit/Nathstar](./satinath-nit-nathstar.md) | ⭐ — | Swift | 36/100 |
 
 ---
 

@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **41940** |
+| **Projects** | **41943** |
 | **Categories** | **583** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16618 | [Browse →](./misc/) |
+| 📦 **Misc** | 16619 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4487 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2825 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2362 | [Browse →](./orchestration/) |
@@ -62,18 +62,18 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 22 | [Browse →](./llm/) |
 | 🏷️ **Privacy** | 22 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
-| 🏷️ **Local-ai** | 18 | [Browse →](./local-ai/) |
+| 🏷️ **Local-ai** | 19 | [Browse →](./local-ai/) |
 | 🏷️ **Local-llm** | 18 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 13 | [Browse →](./ci/) |
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
+| 🏷️ **Macos** | 8 | [Browse →](./macos/) |
 | 🏷️ **Kubernetes** | 8 | [Browse →](./kubernetes/) |
 | 🏷️ **N8n** | 8 | [Browse →](./n8n/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Whatsapp** | 7 | [Browse →](./whatsapp/) |
-| 🏷️ **Macos** | 7 | [Browse →](./macos/) |
 | 🏷️ **Android** | 7 | [Browse →](./android/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
