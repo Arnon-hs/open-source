@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42237** |
+| **Projects** | **42240** |
 | **Categories** | **600** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,14 +23,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16757 | [Browse →](./misc/) |
+| 📦 **Misc** | 16760 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4510 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2840 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1450 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 946 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 891 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 892 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 792 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 699 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 654 | [Browse →](./networking/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 546 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 519 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 518 | [Browse →](./video-editing/) |
-| 🏷️ **Templates** | 462 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 463 | [Browse →](./templates/) |
 | 🔐 **Security** | 438 | [Browse →](./security/) |
 | 🏷️ **Communication** | 435 | [Browse →](./communication/) |
 | 💳 **Payments** | 354 | [Browse →](./payments/) |
@@ -60,13 +60,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 32 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 31 | [Browse →](./local-ai/) |
-| 🏷️ **Llm** | 23 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 22 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
-| 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
 | 🏷️ **Privacy** | 20 | [Browse →](./privacy/) |
+| 🏷️ **Local-llm** | 20 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 15 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 14 | [Browse →](./ci/) |
-| 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
+| 🏷️ **Claude-code** | 13 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Macos** | 10 | [Browse →](./macos/) |
 | 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
@@ -176,7 +176,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Go** | 2 | [Browse →](./go/) |
 | 🏷️ **Swift** | 2 | [Browse →](./swift/) |
 | 🏷️ **Kodi** | 2 | [Browse →](./kodi/) |
-| 🏷️ **React** | 2 | [Browse →](./react/) |
 | 🏷️ **Matrixos** | 2 | [Browse →](./matrixos/) |
 | 🏷️ **Lease-management** | 2 | [Browse →](./lease-management/) |
 | 🏷️ **Github-copilot** | 2 | [Browse →](./github-copilot/) |
@@ -222,6 +221,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Electricity** | 1 | [Browse →](./electricity/) |
 | 🏷️ **Image-forensics** | 1 | [Browse →](./image-forensics/) |
 | 🏷️ **Javascript** | 1 | [Browse →](./javascript/) |
 | 🏷️ **Sandbox** | 1 | [Browse →](./sandbox/) |
@@ -376,6 +376,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Distributed-systems** | 1 | [Browse →](./distributed-systems/) |
 | 🏷️ **Hono** | 1 | [Browse →](./hono/) |
 | 🏷️ **Ffmpeg** | 1 | [Browse →](./ffmpeg/) |
+| 🏷️ **React** | 1 | [Browse →](./react/) |
 | 🏷️ **Google-calendar** | 1 | [Browse →](./google-calendar/) |
 | 🏷️ **Static-site** | 1 | [Browse →](./static-site/) |
 | 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |
@@ -398,7 +399,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Artisans** | 1 | [Browse →](./artisans/) |
 | 🏷️ **Timeout** | 1 | [Browse →](./timeout/) |
 | 🏷️ **Finance** | 1 | [Browse →](./finance/) |
-| 🏷️ **Review-analysis** | 1 | [Browse →](./review-analysis/) |
 | 🏷️ **Side-project** | 1 | [Browse →](./side-project/) |
 | 🏷️ **Gpustack** | 1 | [Browse →](./gpustack/) |
 | 🏷️ **Handwriting-recognition** | 1 | [Browse →](./handwriting-recognition/) |

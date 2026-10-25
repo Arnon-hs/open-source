@@ -1,6 +1,6 @@
 # ting-hong-shieh/snooze-oracle
 
-[![Stars](https://img.shields.io/github/stars/ting-hong-shieh/snooze-oracle?style=flat-square&color=yellow)](https://github.com/ting-hong-shieh/snooze-oracle/stargazers) [![Forks](https://img.shields.io/github/forks/ting-hong-shieh/snooze-oracle?style=flat-square&color=blue)](https://github.com/ting-hong-shieh/snooze-oracle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ting-hong-shieh/snooze-oracle?style=flat-square&color=yellow)](https://github.com/ting-hong-shieh/snooze-oracle/stargazers) [![Forks](https://img.shields.io/github/forks/ting-hong-shieh/snooze-oracle?style=flat-square&color=blue)](https://github.com/ting-hong-shieh/snooze-oracle/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > An alarm that lets you snooze only while you'll still make it. TabPFN-3.5 on NYC Uber trips.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ ting-hong-shieh/snooze-oracle：ting-hong-shieh/snooze-oracle may be useful when
 - primary language: Python
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 58/100 |
+| production | 55/100 |
+| outlook | 51/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

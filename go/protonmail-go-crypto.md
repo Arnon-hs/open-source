@@ -1,6 +1,6 @@
 # ProtonMail/go-crypto
 
-[![Stars](https://img.shields.io/github/stars/ProtonMail/go-crypto?style=flat-square&color=yellow)](https://github.com/ProtonMail/go-crypto/stargazers) [![Forks](https://img.shields.io/github/forks/ProtonMail/go-crypto?style=flat-square&color=blue)](https://github.com/ProtonMail/go-crypto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ProtonMail/go-crypto?style=flat-square&color=yellow)](https://github.com/ProtonMail/go-crypto/stargazers) [![Forks](https://img.shields.io/github/forks/ProtonMail/go-crypto?style=flat-square&color=blue)](https://github.com/ProtonMail/go-crypto/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Fork of go/x/crypto, providing an up-to-date OpenPGP implementation
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 422 |
 | 🍴 **Forks** | 137 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ ProtonMail/go-crypto：ProtonMail/go-crypto may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 57/100 |
+| production | 53/100 |
+| outlook | 50/100 |
 | adoption | 55/100 |
 | categoryMatchCount | 500/100 |
 | stars | 56/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
