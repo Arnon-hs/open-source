@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [i-am-jyotirmaya/haven-vault](./i-am-jyotirmaya-haven-vault.md) | ⭐ 1 | TypeScript | 41/100 |
+| 1 | [i-am-jyotirmaya/haven-vault](./i-am-jyotirmaya-haven-vault.md) | ⭐ 1 | TypeScript | 37/100 |
 
 ---
 
