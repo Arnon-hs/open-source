@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [reachjalil/jevlogs](./reachjalil-jevlogs.md) | ⭐ 1 | TypeScript | 40/100 |
+| 1 | [metafab/otel-gui](./metafab-otel-gui.md) | ⭐ 195 | TypeScript | 53/100 |
 
 ---
 

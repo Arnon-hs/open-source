@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42269** |
-| **Categories** | **601** |
+| **Projects** | **42276** |
+| **Categories** | **603** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -25,7 +25,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 16767 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4511 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2842 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2844 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1452 | [Browse →](./automation/) |
@@ -52,13 +52,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 210 | [Browse →](./trading/) |
 | ✨ **Design** | 180 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 152 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 127 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 128 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 126 | [Browse →](./vertical-video/) |
 | 🏷️ **Open-source** | 37 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 35 | [Browse →](./ai-agents/) |
+| 🏷️ **Local-ai** | 33 | [Browse →](./local-ai/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
-| 🏷️ **Local-ai** | 32 | [Browse →](./local-ai/) |
 | 🏷️ **Offline** | 32 | [Browse →](./offline/) |
 | 🏷️ **Llm** | 22 | [Browse →](./llm/) |
 | 🏷️ **Privacy** | 20 | [Browse →](./privacy/) |
@@ -135,6 +135,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Rag** | 2 | [Browse →](./rag/) |
 | 🏷️ **Fitness** | 2 | [Browse →](./fitness/) |
 | 🏷️ **File-organization** | 2 | [Browse →](./file-organization/) |
 | 🏷️ **Screenshot-management** | 2 | [Browse →](./screenshot-management/) |
@@ -222,6 +223,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Opentelemetry** | 1 | [Browse →](./opentelemetry/) |
+| 🏷️ **Helm** | 1 | [Browse →](./helm/) |
 | 🏷️ **Refactor** | 1 | [Browse →](./refactor/) |
 | 🏷️ **Neomorphism** | 1 | [Browse →](./neomorphism/) |
 | 🏷️ **Electricity** | 1 | [Browse →](./electricity/) |
@@ -457,7 +460,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Fastmcp** | 1 | [Browse →](./fastmcp/) |
 | 🏷️ **Forecasting** | 1 | [Browse →](./forecasting/) |
 | 🏷️ **Clinical-trials** | 1 | [Browse →](./clinical-trials/) |
-| 🏷️ **Rag** | 1 | [Browse →](./rag/) |
 | 🏷️ **Call-center** | 1 | [Browse →](./call-center/) |
 | 🏷️ **Malware** | 1 | [Browse →](./malware/) |
 | 🏷️ **Betting** | 1 | [Browse →](./betting/) |
