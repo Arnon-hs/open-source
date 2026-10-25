@@ -1,6 +1,6 @@
 # dsalvado/shuttlescp
 
-[![Stars](https://img.shields.io/github/stars/dsalvado/shuttlescp?style=flat-square&color=yellow)](https://github.com/dsalvado/shuttlescp/stargazers) [![Forks](https://img.shields.io/github/forks/dsalvado/shuttlescp?style=flat-square&color=blue)](https://github.com/dsalvado/shuttlescp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dsalvado/shuttlescp?style=flat-square&color=yellow)](https://github.com/dsalvado/shuttlescp/stargazers) [![Forks](https://img.shields.io/github/forks/dsalvado/shuttlescp?style=flat-square&color=blue)](https://github.com/dsalvado/shuttlescp/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A graphical SFTP, SCP and FTP/FTPS client for Linux, macOS and Windows, inspired by WinSCP. Two panes, drag and drop, resumable transfers. Rust and GTK 4.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ dsalvado/shuttlescp：dsalvado/shuttlescp may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 68/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 0/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
