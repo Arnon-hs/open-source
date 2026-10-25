@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yuvrajaasarwa/SlothSort](./yuvrajaasarwa-slothsort.md) | ⭐ — | Python | 46/100 |
+| 1 | [yuvrajaasarwa/SlothSort](./yuvrajaasarwa-slothsort.md) | ⭐ — | Python | 43/100 |
 | 2 | [abhinavgautam08/Sloth.ai](./abhinavgautam08-sloth.ai.md) | ⭐ — | TypeScript | 39/100 |
 | 3 | [AdibaNaushad/outside.exe](./adibanaushad-outside.exe.md) | ⭐ — | JavaScript | 30/100 |
 | 4 | [tsayen/html-to-image](./tsayen-html-to-image.md) | ⭐ — | — | 24/100 |

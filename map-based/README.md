@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [asadalpha/parallel](./asadalpha-parallel.md) | ⭐ — | Python | 36/100 |
+| 1 | [asadalpha/parallel](./asadalpha-parallel.md) | ⭐ — | Python | 33/100 |
 
 ---
 

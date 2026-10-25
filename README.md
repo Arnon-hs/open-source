@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42229** |
+| **Projects** | **42237** |
 | **Categories** | **600** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16753 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4509 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2839 | [Browse →](./mcp/) |
+| 📦 **Misc** | 16757 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4510 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2840 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1450 | [Browse →](./automation/) |
@@ -36,8 +36,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 654 | [Browse →](./networking/) |
 | 📱 **Mobile** | 646 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 619 | [Browse →](./knowledgerag/) |
-| 🏷️ **Cloud--storage** | 611 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 545 | [Browse →](./database/) |
+| 🏷️ **Cloud--storage** | 612 | [Browse →](./cloud--storage/) |
+| 🏷️ **Database** | 546 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 519 | [Browse →](./devopsinfra/) |
 | 🏷️ **Video-editing** | 518 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 462 | [Browse →](./templates/) |
@@ -61,9 +61,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 32 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 31 | [Browse →](./local-ai/) |
 | 🏷️ **Llm** | 23 | [Browse →](./llm/) |
-| 🏷️ **Local-first** | 22 | [Browse →](./local-first/) |
+| 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
-| 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
+| 🏷️ **Privacy** | 20 | [Browse →](./privacy/) |
 | 🏷️ **Freelance** | 15 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 14 | [Browse →](./ci/) |
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
