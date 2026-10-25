@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42167** |
-| **Categories** | **596** |
+| **Projects** | **42178** |
+| **Categories** | **597** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16725 | [Browse →](./misc/) |
+| 📦 **Misc** | 16727 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4507 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2837 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2838 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2369 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1450 | [Browse →](./automation/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 611 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 545 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 519 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 516 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 518 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 462 | [Browse →](./templates/) |
 | 🔐 **Security** | 438 | [Browse →](./security/) |
 | 🏷️ **Communication** | 435 | [Browse →](./communication/) |
@@ -53,19 +53,19 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 180 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 152 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 126 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 125 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 126 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 37 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 35 | [Browse →](./ai-agents/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
-| 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
+| 🏷️ **Local-ai** | 29 | [Browse →](./local-ai/) |
 | 🏷️ **Llm** | 23 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 22 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
-| 🏷️ **Privacy** | 18 | [Browse →](./privacy/) |
+| 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
+| 🏷️ **Ci** | 14 | [Browse →](./ci/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
-| 🏷️ **Ci** | 13 | [Browse →](./ci/) |
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Macos** | 11 | [Browse →](./macos/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
@@ -83,6 +83,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
+| 🏷️ **Offline-ai** | 5 | [Browse →](./offline-ai/) |
 | 🏷️ **Governance** | 5 | [Browse →](./governance/) |
 | 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
@@ -97,7 +98,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agentic-workflows** | 4 | [Browse →](./agentic-workflows/) |
 | 🏷️ **2d-animation** | 4 | [Browse →](./2d-animation/) |
 | 🏷️ **Speech-recognition** | 4 | [Browse →](./speech-recognition/) |
-| 🏷️ **Offline-ai** | 4 | [Browse →](./offline-ai/) |
 | 🏷️ **Pdf** | 4 | [Browse →](./pdf/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Home-automation** | 4 | [Browse →](./home-automation/) |
@@ -219,6 +219,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Cancellation** | 1 | [Browse →](./cancellation/) |
 | 🏷️ **Gemma-4** | 1 | [Browse →](./gemma-4/) |
 | 🏷️ **Meal-planning** | 1 | [Browse →](./meal-planning/) |
 | 🏷️ **Ai-adoption** | 1 | [Browse →](./ai-adoption/) |

@@ -2,7 +2,7 @@
 
 > 
 
-**18 projects** in this category.
+**19 projects** in this category.
 
 ## Projects
 
@@ -19,13 +19,14 @@
 | 9 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 30/100 |
 | 10 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 | 11 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 30/100 |
-| 12 | [yourrepo/pyxis](./yourrepo-pyxis.md) | ⭐ — | — | 24/100 |
-| 13 | [ntsd/llama.rn](./ntsd-llama.rn.md) | ⭐ — | — | 24/100 |
-| 14 | [yaansa/udhaar-khata](./yaansa-udhaar-khata.md) | ⭐ — | — | 24/100 |
-| 15 | [Muchaziwepi/Acme-Studio](./muchaziwepi-acme-studio.md) | ⭐ — | — | 24/100 |
-| 16 | [statsinsta/stats-insta](./statsinsta-stats-insta.md) | ⭐ — | — | 24/100 |
-| 17 | [ibrahim-iqbal/wllama](./ibrahim-iqbal-wllama.md) | ⭐ — | — | 24/100 |
-| 18 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
+| 12 | [graphify/graphify](./graphify-graphify.md) | ⭐ — | — | 24/100 |
+| 13 | [yourrepo/pyxis](./yourrepo-pyxis.md) | ⭐ — | — | 24/100 |
+| 14 | [ntsd/llama.rn](./ntsd-llama.rn.md) | ⭐ — | — | 24/100 |
+| 15 | [yaansa/udhaar-khata](./yaansa-udhaar-khata.md) | ⭐ — | — | 24/100 |
+| 16 | [Muchaziwepi/Acme-Studio](./muchaziwepi-acme-studio.md) | ⭐ — | — | 24/100 |
+| 17 | [statsinsta/stats-insta](./statsinsta-stats-insta.md) | ⭐ — | — | 24/100 |
+| 18 | [ibrahim-iqbal/wllama](./ibrahim-iqbal-wllama.md) | ⭐ — | — | 24/100 |
+| 19 | [microsoft/presidio](./microsoft-presidio.md) | ⭐ — | — | 24/100 |
 
 ---
 

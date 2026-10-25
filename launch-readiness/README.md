@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [R-iddhi/launchlazy](./r-iddhi-launchlazy.md) | ⭐ — | Python | 42/100 |
+| 1 | [R-iddhi/launchlazy](./r-iddhi-launchlazy.md) | ⭐ — | Python | 39/100 |
 
 ---
 
