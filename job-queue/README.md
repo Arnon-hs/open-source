@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ciperx/slothqueue-patient](./ciperx-slothqueue-patient.md) | ⭐ — | Python | 42/100 |
+| 1 | [ciperx/slothqueue-patient](./ciperx-slothqueue-patient.md) | ⭐ — | Python | 39/100 |
 
 ---
 
