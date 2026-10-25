@@ -17,10 +17,10 @@
 | 7 | [vectoredgex/lazy-syllabus-planner](./vectoredgex-lazy-syllabus-planner.md) | ⭐ — | Python | 42/100 |
 | 8 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
 | 9 | [itsnazaretdev/sleepy-coder](./itsnazaretdev-sleepy-coder.md) | ⭐ — | TypeScript | 39/100 |
-| 10 | [Imbiber/sloth-sort](./imbiber-sloth-sort.md) | ⭐ — | TypeScript | 39/100 |
-| 11 | [Yadnu14/LazySort-AI](./yadnu14-lazysort-ai.md) | ⭐ — | Python | 39/100 |
-| 12 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 38/100 |
-| 13 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 37/100 |
+| 10 | [Yadnu14/LazySort-AI](./yadnu14-lazysort-ai.md) | ⭐ — | Python | 39/100 |
+| 11 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 38/100 |
+| 12 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 37/100 |
+| 13 | [Imbiber/sloth-sort](./imbiber-sloth-sort.md) | ⭐ — | TypeScript | 36/100 |
 | 14 | [yagnik-satani-otelier/pausepoint-ai](./yagnik-satani-otelier-pausepoint-ai.md) | ⭐ — | JavaScript | 36/100 |
 | 15 | [rishabh-hasija/stockentry-guard](./rishabh-hasija-stockentry-guard.md) | ⭐ — | Python | 36/100 |
 | 16 | [ishavishwakarma29/WalkguideStudio](./ishavishwakarma29-walkguidestudio.md) | ⭐ — | Python | 36/100 |

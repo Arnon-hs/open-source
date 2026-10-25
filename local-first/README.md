@@ -11,10 +11,10 @@
 | 1 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 49/100 |
 | 2 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 40/100 |
 | 3 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 40/100 |
-| 4 | [Ani0811/slothdesk](./ani0811-slothdesk.md) | ⭐ — | Python | 39/100 |
-| 5 | [sayuj5/SlothSec](./sayuj5-slothsec.md) | ⭐ — | TypeScript | 39/100 |
-| 6 | [pyarchana/folio-ai](./pyarchana-folio-ai.md) | ⭐ — | Python | 39/100 |
-| 7 | [harsh8398/saathi-yoga-copilot](./harsh8398-saathi-yoga-copilot.md) | ⭐ — | TypeScript | 39/100 |
+| 4 | [sayuj5/SlothSec](./sayuj5-slothsec.md) | ⭐ — | TypeScript | 39/100 |
+| 5 | [pyarchana/folio-ai](./pyarchana-folio-ai.md) | ⭐ — | Python | 39/100 |
+| 6 | [harsh8398/saathi-yoga-copilot](./harsh8398-saathi-yoga-copilot.md) | ⭐ — | TypeScript | 39/100 |
+| 7 | [Ani0811/slothdesk](./ani0811-slothdesk.md) | ⭐ — | Python | 36/100 |
 | 8 | [GSuryaP/LazyDeskAI](./gsuryap-lazydeskai.md) | ⭐ — | Python | 36/100 |
 | 9 | [FreemanBoss/bayaan](./freemanboss-bayaan.md) | ⭐ — | JavaScript | 33/100 |
 | 10 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 33/100 |
