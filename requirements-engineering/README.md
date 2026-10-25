@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SenseiNate/slothspec](./senseinate-slothspec.md) | ⭐ — | Python | 46/100 |
+| 1 | [SenseiNate/slothspec](./senseinate-slothspec.md) | ⭐ — | Python | 43/100 |
 
 ---
 
