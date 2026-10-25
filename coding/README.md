@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [matrixswarm/hornet](./matrixswarm-hornet.md) | ⭐ — | Python | 58/100 |
+| 1 | [matrixswarm/hornet](./matrixswarm-hornet.md) | ⭐ — | Python | 55/100 |
 
 ---
 

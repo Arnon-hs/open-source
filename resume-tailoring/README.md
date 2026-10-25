@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [foliojs/pdfkit](./foliojs-pdfkit.md) | ⭐ 10.7k | JavaScript | 55/100 |
-| 2 | [Inkesk-Dozing/Resume-and-Thread](./inkesk-dozing-resume-and-thread.md) | ⭐ — | TypeScript | 36/100 |
+| 1 | [Inkesk-Dozing/Resume-and-Thread](./inkesk-dozing-resume-and-thread.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 

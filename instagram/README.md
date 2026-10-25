@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AmitDas4321/EngagePilot](./amitdas4321-engagepilot.md) | ⭐ — | TypeScript | 56/100 |
+| 1 | [kuntal0901/reel-sloth](./kuntal0901-reel-sloth.md) | ⭐ — | Python | 39/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ldeng83/Sealshot](./ldeng83-sealshot.md) | ⭐ 11 | Swift | 45/100 |
+| 1 | [poron2356-a11y/SnapBolt](./poron2356-a11y-snapbolt.md) | ⭐ 1 | — | 57/100 |
 
 ---
 

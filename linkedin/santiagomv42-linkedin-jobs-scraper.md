@@ -1,6 +1,6 @@
 # SantiagoMV42/linkedin-jobs-scraper
 
-[![Stars](https://img.shields.io/github/stars/SantiagoMV42/linkedin-jobs-scraper?style=flat-square&color=yellow)](https://github.com/SantiagoMV42/linkedin-jobs-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/SantiagoMV42/linkedin-jobs-scraper?style=flat-square&color=blue)](https://github.com/SantiagoMV42/linkedin-jobs-scraper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SantiagoMV42/linkedin-jobs-scraper?style=flat-square&color=yellow)](https://github.com/SantiagoMV42/linkedin-jobs-scraper/stargazers) [![Forks](https://img.shields.io/github/forks/SantiagoMV42/linkedin-jobs-scraper?style=flat-square&color=blue)](https://github.com/SantiagoMV42/linkedin-jobs-scraper/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > LinkedIn Jobs, Company & Posts scrapers + Greenhouse/Lever/Ashby career-site jobs: Python, Node.js, cURL and n8n examples. No login. Runs on Apify.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ SantiagoMV42/linkedin-jobs-scraper：SantiagoMV42/linkedin-jobs-scraper may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 64/100 |
+| production | 61/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

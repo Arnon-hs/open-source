@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42144** |
-| **Categories** | **591** |
+| **Projects** | **42146** |
+| **Categories** | **593** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -26,13 +26,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📦 **Misc** | 16719 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4502 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2837 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2367 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2369 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1450 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 945 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 891 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 791 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 697 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 698 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 652 | [Browse →](./networking/) |
 | 📱 **Mobile** | 645 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 619 | [Browse →](./knowledgerag/) |
@@ -72,12 +72,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
 | 🏷️ **Php** | 8 | [Browse →](./php/) |
-| 🏷️ **Android** | 8 | [Browse →](./android/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Whatsapp** | 7 | [Browse →](./whatsapp/) |
 | 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
+| 🏷️ **Android** | 6 | [Browse →](./android/) |
 | 🏷️ **Hacktoberfest** | 6 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
@@ -179,7 +179,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github-copilot** | 2 | [Browse →](./github-copilot/) |
 | 🏷️ **Resume-analysis** | 2 | [Browse →](./resume-analysis/) |
 | 🏷️ **Cybersecurity** | 2 | [Browse →](./cybersecurity/) |
-| 🏷️ **Resume-tailoring** | 2 | [Browse →](./resume-tailoring/) |
 | 🏷️ **Secondhand** | 2 | [Browse →](./secondhand/) |
 | 🏷️ **Secret-scanning** | 2 | [Browse →](./secret-scanning/) |
 | 🏷️ **Allergen-labeling** | 2 | [Browse →](./allergen-labeling/) |
@@ -219,6 +218,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Screenshot** | 1 | [Browse →](./screenshot/) |
+| 🏷️ **Instagram** | 1 | [Browse →](./instagram/) |
 | 🏷️ **Activity-tracking** | 1 | [Browse →](./activity-tracking/) |
 | 🏷️ **Local-search** | 1 | [Browse →](./local-search/) |
 | 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
@@ -396,6 +397,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-assistant** | 1 | [Browse →](./home-assistant/) |
 | 🏷️ **Ai-receptionist** | 1 | [Browse →](./ai-receptionist/) |
 | 🏷️ **Shopify** | 1 | [Browse →](./shopify/) |
+| 🏷️ **Resume-tailoring** | 1 | [Browse →](./resume-tailoring/) |
 | 🏷️ **Iam** | 1 | [Browse →](./iam/) |
 | 🏷️ **On-chain-audit** | 1 | [Browse →](./on-chain-audit/) |
 | 🏷️ **Storageoptimization** | 1 | [Browse →](./storageoptimization/) |
