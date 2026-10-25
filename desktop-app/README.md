@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass](./sunbal822-pip-the-desktop-penguin-that-makes-you-touch-grass.md) | ⭐ — | Python | 36/100 |
+| 1 | [sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass](./sunbal822-pip-the-desktop-penguin-that-makes-you-touch-grass.md) | ⭐ — | Python | 33/100 |
 
 ---
 
