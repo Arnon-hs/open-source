@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 45/100 |
+| 1 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
 
 ---
 

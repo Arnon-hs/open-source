@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [BrowyHQ/browy](./browyhq-browy.md) | ⭐ 6 | JavaScript | 67/100 |
-| 2 | [brasspage/sloth-watch](./brasspage-sloth-watch.md) | ⭐ — | JavaScript | 55/100 |
+| 2 | [brasspage/sloth-watch](./brasspage-sloth-watch.md) | ⭐ — | JavaScript | 52/100 |
 | 3 | [john-claude-1337/agent-memory-files](./john-claude-1337-agent-memory-files.md) | ⭐ — | JavaScript | 51/100 |
 | 4 | [alexar76/esim-operator-kit](./alexar76-esim-operator-kit.md) | ⭐ — | JavaScript | 44/100 |
 | 5 | [praneshnikhar/off-peak](./praneshnikhar-off-peak.md) | ⭐ — | Python | 42/100 |

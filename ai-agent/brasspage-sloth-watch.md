@@ -1,6 +1,6 @@
 # brasspage/sloth-watch
 
-[![Stars](https://img.shields.io/github/stars/brasspage/sloth-watch?style=flat-square&color=yellow)](https://github.com/brasspage/sloth-watch/stargazers) [![Forks](https://img.shields.io/github/forks/brasspage/sloth-watch?style=flat-square&color=blue)](https://github.com/brasspage/sloth-watch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brasspage/sloth-watch?style=flat-square&color=yellow)](https://github.com/brasspage/sloth-watch/stargazers) [![Forks](https://img.shields.io/github/forks/brasspage/sloth-watch?style=flat-square&color=blue)](https://github.com/brasspage/sloth-watch/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > An overnight agent that reads the news about the tools a small business runs on, and wakes the owner only when one needs action. Temporal + SerpApi + an open-weight model.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ brasspage/sloth-watch：brasspage/sloth-watch may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| production | 51/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
