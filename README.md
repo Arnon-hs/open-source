@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42135** |
+| **Projects** | **42143** |
 | **Categories** | **591** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16713 | [Browse →](./misc/) |
+| 📦 **Misc** | 16718 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4502 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2836 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2366 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2837 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2367 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1450 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 945 | [Browse →](./backend/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 180 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 152 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 126 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 123 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 126 | [Browse →](./ai/) |
 | 🏷️ **Open-source** | 37 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 35 | [Browse →](./ai-agents/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
@@ -71,9 +71,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
+| 🏷️ **Php** | 8 | [Browse →](./php/) |
 | 🏷️ **Android** | 8 | [Browse →](./android/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
-| 🏷️ **Php** | 7 | [Browse →](./php/) |
 | 🏷️ **Whatsapp** | 7 | [Browse →](./whatsapp/) |
 | 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
@@ -124,7 +124,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Flaky-tests** | 3 | [Browse →](./flaky-tests/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
-| 🏷️ **Dj** | 3 | [Browse →](./dj/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
 | 🏷️ **Ecommerce** | 3 | [Browse →](./ecommerce/) |
@@ -181,7 +180,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Resume-analysis** | 2 | [Browse →](./resume-analysis/) |
 | 🏷️ **Cybersecurity** | 2 | [Browse →](./cybersecurity/) |
 | 🏷️ **Resume-tailoring** | 2 | [Browse →](./resume-tailoring/) |
-| 🏷️ **Iam** | 2 | [Browse →](./iam/) |
 | 🏷️ **Secondhand** | 2 | [Browse →](./secondhand/) |
 | 🏷️ **Secret-scanning** | 2 | [Browse →](./secret-scanning/) |
 | 🏷️ **Allergen-labeling** | 2 | [Browse →](./allergen-labeling/) |
@@ -221,6 +219,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Activity-tracking** | 1 | [Browse →](./activity-tracking/) |
+| 🏷️ **Local-search** | 1 | [Browse →](./local-search/) |
 | 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Task-extraction** | 1 | [Browse →](./task-extraction/) |
 | 🏷️ **Model-compression** | 1 | [Browse →](./model-compression/) |
@@ -396,7 +396,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Home-assistant** | 1 | [Browse →](./home-assistant/) |
 | 🏷️ **Ai-receptionist** | 1 | [Browse →](./ai-receptionist/) |
 | 🏷️ **Shopify** | 1 | [Browse →](./shopify/) |
-| 🏷️ **Agent-based-systems** | 1 | [Browse →](./agent-based-systems/) |
+| 🏷️ **Iam** | 1 | [Browse →](./iam/) |
 | 🏷️ **On-chain-audit** | 1 | [Browse →](./on-chain-audit/) |
 | 🏷️ **Storageoptimization** | 1 | [Browse →](./storageoptimization/) |
 | 🏷️ **Desktop-ai** | 1 | [Browse →](./desktop-ai/) |

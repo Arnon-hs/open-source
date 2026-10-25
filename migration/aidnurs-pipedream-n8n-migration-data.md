@@ -1,6 +1,6 @@
 # aidnurs/pipedream-n8n-migration-data
 
-[![Stars](https://img.shields.io/github/stars/aidnurs/pipedream-n8n-migration-data?style=flat-square&color=yellow)](https://github.com/aidnurs/pipedream-n8n-migration-data/stargazers) [![Forks](https://img.shields.io/github/forks/aidnurs/pipedream-n8n-migration-data?style=flat-square&color=blue)](https://github.com/aidnurs/pipedream-n8n-migration-data/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aidnurs/pipedream-n8n-migration-data?style=flat-square&color=yellow)](https://github.com/aidnurs/pipedream-n8n-migration-data/stargazers) [![Forks](https://img.shields.io/github/forks/aidnurs/pipedream-n8n-migration-data?style=flat-square&color=blue)](https://github.com/aidnurs/pipedream-n8n-migration-data/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > 92 public Pipedream workflows converted, imported and run in n8n 2.44.5: per-workflow data (CSV/JSON) and a Code node globals probe
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ aidnurs/pipedream-n8n-migration-data：aidnurs/pipedream-n8n-migration-data may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 59/100 |
+| production | 51/100 |
+| outlook | 52/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 900/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

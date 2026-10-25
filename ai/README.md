@@ -2,7 +2,7 @@
 
 > 
 
-**123 projects** in this category.
+**126 projects** in this category.
 
 ## Projects
 
@@ -15,7 +15,7 @@
 | 5 | [adonai-labs/agent-runway](./adonai-labs-agent-runway.md) | ⭐ 2 | TypeScript | 58/100 |
 | 6 | [GgauravJ05/decklume](./ggauravj05-decklume.md) | ⭐ 3 | HTML | 58/100 |
 | 7 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
-| 8 | [magery-ai/triz-skill](./magery-ai-triz-skill.md) | ⭐ — | Python | 55/100 |
+| 8 | [magery-ai/triz-skill](./magery-ai-triz-skill.md) | ⭐ — | Python | 52/100 |
 | 9 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 52/100 |
 | 10 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 50/100 |
 | 11 | [AbdulrahmanMasoud/comprende](./abdulrahmanmasoud-comprende.md) | ⭐ 2 | JavaScript | 48/100 |
@@ -84,53 +84,56 @@
 | 74 | [ritikahirwar8168-dev/campus-chatbot](./ritikahirwar8168-dev-campus-chatbot.md) | ⭐ — | Python | 33/100 |
 | 75 | [bhgo0114050-cpu/my-first-ai-app](./bhgo0114050-cpu-my-first-ai-app.md) | ⭐ — | HTML | 33/100 |
 | 76 | [Zura1555/whatbin](./zura1555-whatbin.md) | ⭐ — | JavaScript | 33/100 |
-| 77 | [FreeLLMAPI/FreeLLMAPI](./freellmapi-freellmapi.md) | ⭐ — | — | 32/100 |
-| 78 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
-| 79 | [atharvachaudhari1/innovhacks4.0_arka](./atharvachaudhari1-innovhacks4.0-arka.md) | ⭐ — | Swift | 30/100 |
-| 80 | [Sutharsan11308-git/hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club](./sutharsan11308-git-hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club.md) | ⭐ — | — | 30/100 |
-| 81 | [divyaghodke407-code/Quiz-Master](./divyaghodke407-code-quiz-master.md) | ⭐ — | JavaScript | 30/100 |
-| 82 | [ayushg-1506/studyspark](./ayushg-1506-studyspark.md) | ⭐ — | JavaScript | 30/100 |
-| 83 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
-| 84 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
-| 85 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
-| 86 | [google-gemma/gemma](./google-gemma-gemma.md) | ⭐ — | — | 27/100 |
-| 87 | [google/generative-ai-js](./google-generative-ai-js.md) | ⭐ — | — | 27/100 |
-| 88 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
-| 89 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
-| 90 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
-| 91 | [forgeflows/respan](./forgeflows-respan.md) | ⭐ — | — | 24/100 |
-| 92 | [automl/TabPFN](./automl-tabpfn.md) | ⭐ — | — | 24/100 |
-| 93 | [teofurlan/pricor](./teofurlan-pricor.md) | ⭐ — | — | 24/100 |
-| 94 | [FasterCompute/litellm](./fastercompute-litellm.md) | ⭐ — | — | 24/100 |
-| 95 | [run-llama/langgraph](./run-llama-langgraph.md) | ⭐ — | — | 24/100 |
-| 96 | [openai/openai](./openai-openai.md) | ⭐ — | — | 24/100 |
-| 97 | [openai/text](./openai-text.md) | ⭐ — | — | 24/100 |
-| 98 | [openai/vision](./openai-vision.md) | ⭐ — | — | 24/100 |
-| 99 | [apps/dco](./apps-dco.md) | ⭐ — | — | 24/100 |
-| 100 | [RishabhRaj120/CrumbY](./rishabhraj120-crumby.md) | ⭐ — | — | 24/100 |
-| 101 | [org/repo](./org-repo.md) | ⭐ — | — | 24/100 |
-| 102 | [meta-llama/llama-3](./meta-llama-llama-3.md) | ⭐ — | — | 24/100 |
-| 103 | [nextlevelbuilder/senzu](./nextlevelbuilder-senzu.md) | ⭐ — | — | 24/100 |
-| 104 | [mastra-io/mastra](./mastra-io-mastra.md) | ⭐ — | — | 24/100 |
-| 105 | [modesty/pdf-parse](./modesty-pdf-parse.md) | ⭐ — | — | 24/100 |
-| 106 | [ollama/opencode](./ollama-opencode.md) | ⭐ — | — | 24/100 |
-| 107 | [your/repo](./your-repo.md) | ⭐ — | — | 24/100 |
-| 108 | [Breakthrough-Lab/BLIMPY](./breakthrough-lab-blimpy.md) | ⭐ — | — | 24/100 |
-| 109 | [priobio/TabPFN](./priobio-tabpfn.md) | ⭐ — | — | 24/100 |
-| 110 | [Rohitisavailable/trailside](./rohitisavailable-trailside.md) | ⭐ — | — | 24/100 |
-| 111 | [novafabric/novafabric](./novafabric-novafabric.md) | ⭐ — | — | 24/100 |
-| 112 | [mohamed-osama-aboelkheir/appsec-untangled](./mohamed-osama-aboelkheir-appsec-untangled.md) | ⭐ — | — | 24/100 |
-| 113 | [onnx-community/gemma-3-1b-it-ONNX](./onnx-community-gemma-3-1b-it-onnx.md) | ⭐ — | — | 24/100 |
-| 114 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
-| 115 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
-| 116 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
-| 117 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
-| 118 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
-| 119 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
-| 120 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
-| 121 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
-| 122 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
-| 123 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
+| 77 | [mlightcad/cad-agent-plugin](./mlightcad-cad-agent-plugin.md) | ⭐ — | — | 32/100 |
+| 78 | [mlightcad/cad-mcp-server](./mlightcad-cad-mcp-server.md) | ⭐ — | — | 32/100 |
+| 79 | [FreeLLMAPI/FreeLLMAPI](./freellmapi-freellmapi.md) | ⭐ — | — | 32/100 |
+| 80 | [impri/mcp](./impri-mcp.md) | ⭐ — | — | 32/100 |
+| 81 | [atharvachaudhari1/innovhacks4.0_arka](./atharvachaudhari1-innovhacks4.0-arka.md) | ⭐ — | Swift | 30/100 |
+| 82 | [Sutharsan11308-git/hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club](./sutharsan11308-git-hacktoberfest-hack-day-coimbatore-x-init-club-and-idea-club.md) | ⭐ — | — | 30/100 |
+| 83 | [divyaghodke407-code/Quiz-Master](./divyaghodke407-code-quiz-master.md) | ⭐ — | JavaScript | 30/100 |
+| 84 | [ayushg-1506/studyspark](./ayushg-1506-studyspark.md) | ⭐ — | JavaScript | 30/100 |
+| 85 | [dannwaneri/shot-delivery-guardian](./dannwaneri-shot-delivery-guardian.md) | ⭐ — | Python | 30/100 |
+| 86 | [liza-studio/skillmem](./liza-studio-skillmem.md) | ⭐ — | Python | 30/100 |
+| 87 | [mlightcad/cad-agent-core](./mlightcad-cad-agent-core.md) | ⭐ — | — | 28/100 |
+| 88 | [strands-ai/agentcore](./strands-ai-agentcore.md) | ⭐ — | — | 28/100 |
+| 89 | [google-gemma/gemma](./google-gemma-gemma.md) | ⭐ — | — | 27/100 |
+| 90 | [google/generative-ai-js](./google-generative-ai-js.md) | ⭐ — | — | 27/100 |
+| 91 | [google/generative-ai-nodejs](./google-generative-ai-nodejs.md) | ⭐ — | — | 27/100 |
+| 92 | [copyleftdev/cascade-article](./copyleftdev-cascade-article.md) | ⭐ — | — | 27/100 |
+| 93 | [google/antigravity](./google-antigravity.md) | ⭐ — | — | 27/100 |
+| 94 | [forgeflows/respan](./forgeflows-respan.md) | ⭐ — | — | 24/100 |
+| 95 | [automl/TabPFN](./automl-tabpfn.md) | ⭐ — | — | 24/100 |
+| 96 | [teofurlan/pricor](./teofurlan-pricor.md) | ⭐ — | — | 24/100 |
+| 97 | [FasterCompute/litellm](./fastercompute-litellm.md) | ⭐ — | — | 24/100 |
+| 98 | [run-llama/langgraph](./run-llama-langgraph.md) | ⭐ — | — | 24/100 |
+| 99 | [openai/openai](./openai-openai.md) | ⭐ — | — | 24/100 |
+| 100 | [openai/text](./openai-text.md) | ⭐ — | — | 24/100 |
+| 101 | [openai/vision](./openai-vision.md) | ⭐ — | — | 24/100 |
+| 102 | [apps/dco](./apps-dco.md) | ⭐ — | — | 24/100 |
+| 103 | [RishabhRaj120/CrumbY](./rishabhraj120-crumby.md) | ⭐ — | — | 24/100 |
+| 104 | [org/repo](./org-repo.md) | ⭐ — | — | 24/100 |
+| 105 | [meta-llama/llama-3](./meta-llama-llama-3.md) | ⭐ — | — | 24/100 |
+| 106 | [nextlevelbuilder/senzu](./nextlevelbuilder-senzu.md) | ⭐ — | — | 24/100 |
+| 107 | [mastra-io/mastra](./mastra-io-mastra.md) | ⭐ — | — | 24/100 |
+| 108 | [modesty/pdf-parse](./modesty-pdf-parse.md) | ⭐ — | — | 24/100 |
+| 109 | [ollama/opencode](./ollama-opencode.md) | ⭐ — | — | 24/100 |
+| 110 | [your/repo](./your-repo.md) | ⭐ — | — | 24/100 |
+| 111 | [Breakthrough-Lab/BLIMPY](./breakthrough-lab-blimpy.md) | ⭐ — | — | 24/100 |
+| 112 | [priobio/TabPFN](./priobio-tabpfn.md) | ⭐ — | — | 24/100 |
+| 113 | [Rohitisavailable/trailside](./rohitisavailable-trailside.md) | ⭐ — | — | 24/100 |
+| 114 | [novafabric/novafabric](./novafabric-novafabric.md) | ⭐ — | — | 24/100 |
+| 115 | [mohamed-osama-aboelkheir/appsec-untangled](./mohamed-osama-aboelkheir-appsec-untangled.md) | ⭐ — | — | 24/100 |
+| 116 | [onnx-community/gemma-3-1b-it-ONNX](./onnx-community-gemma-3-1b-it-onnx.md) | ⭐ — | — | 24/100 |
+| 117 | [mkash25/atrium](./mkash25-atrium.md) | ⭐ — | — | 24/100 |
+| 118 | [litellm/litellm](./litellm-litellm.md) | ⭐ — | — | 24/100 |
+| 119 | [omniroute/omniroute](./omniroute-omniroute.md) | ⭐ — | — | 24/100 |
+| 120 | [yourorg/nexa](./yourorg-nexa.md) | ⭐ — | — | 24/100 |
+| 121 | [openai/gpt-live](./openai-gpt-live.md) | ⭐ — | — | 24/100 |
+| 122 | [robinhood/open-tui](./robinhood-open-tui.md) | ⭐ — | — | 24/100 |
+| 123 | [sergiocorruchaga/d-engine](./sergiocorruchaga-d-engine.md) | ⭐ — | — | 24/100 |
+| 124 | [base-org/USDC](./base-org-usdc.md) | ⭐ — | — | 24/100 |
+| 125 | [coinbase/x402-js](./coinbase-x402-js.md) | ⭐ — | — | 24/100 |
+| 126 | [omihealth/medical-note-eval](./omihealth-medical-note-eval.md) | ⭐ — | — | 24/100 |
 
 ---
 

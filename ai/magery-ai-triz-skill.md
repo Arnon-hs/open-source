@@ -1,6 +1,6 @@
 # magery-ai/triz-skill
 
-[![Stars](https://img.shields.io/github/stars/magery-ai/triz-skill?style=flat-square&color=yellow)](https://github.com/magery-ai/triz-skill/stargazers) [![Forks](https://img.shields.io/github/forks/magery-ai/triz-skill?style=flat-square&color=blue)](https://github.com/magery-ai/triz-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/magery-ai/triz-skill?style=flat-square&color=yellow)](https://github.com/magery-ai/triz-skill/stargazers) [![Forks](https://img.shields.io/github/forks/magery-ai/triz-skill?style=flat-square&color=blue)](https://github.com/magery-ai/triz-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Agent skill for TRIZ problem solving: finds the contradiction, applies the 40 principles and contradiction matrix, and turns them into a validated action plan.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ magery-ai/triz-skill：magery-ai/triz-skill may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 64/100 |
+| production | 58/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
