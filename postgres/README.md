@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [.../rehearsal.sh](./...-rehearsal.sh.md) | ⭐ — | — | 24/100 |
+| 1 | [Agata-Proxima/proxima-engine](./agata-proxima-proxima-engine.md) | ⭐ — | Rust | 39/100 |
+| 2 | [.../rehearsal.sh](./...-rehearsal.sh.md) | ⭐ — | — | 24/100 |
 
 ---
 

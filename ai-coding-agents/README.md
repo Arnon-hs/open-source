@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [osmanahmadxai/agent-derby](./osmanahmadxai-agent-derby.md) | ⭐ — | TypeScript | 60/100 |
+| 1 | [KingAbe1/blueprint](./kingabe1-blueprint.md) | ⭐ 4 | Makefile | 58/100 |
 
 ---
 
