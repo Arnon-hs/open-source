@@ -1,6 +1,6 @@
 # debashis-sharingan-21/usually
 
-[![Stars](https://img.shields.io/github/stars/debashis-sharingan-21/usually?style=flat-square&color=yellow)](https://github.com/debashis-sharingan-21/usually/stargazers) [![Forks](https://img.shields.io/github/forks/debashis-sharingan-21/usually?style=flat-square&color=blue)](https://github.com/debashis-sharingan-21/usually/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/debashis-sharingan-21/usually?style=flat-square&color=yellow)](https://github.com/debashis-sharingan-21/usually/stargazers) [![Forks](https://img.shields.io/github/forks/debashis-sharingan-21/usually?style=flat-square&color=blue)](https://github.com/debashis-sharingan-21/usually/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Your money has habits. Usually knows them.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ debashis-sharingan-21/usually：debashis-sharingan-21/usually may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 37/100 |
+| quality | 32/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 52/100 |
+| production | 51/100 |
+| outlook | 45/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 70/100 |
 
