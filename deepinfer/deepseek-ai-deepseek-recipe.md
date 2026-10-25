@@ -1,6 +1,6 @@
 # deepseek-ai/deepseek-recipe
 
-[![Stars](https://img.shields.io/github/stars/deepseek-ai/deepseek-recipe?style=flat-square&color=yellow)](https://github.com/deepseek-ai/deepseek-recipe/stargazers) [![Forks](https://img.shields.io/github/forks/deepseek-ai/deepseek-recipe?style=flat-square&color=blue)](https://github.com/deepseek-ai/deepseek-recipe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepseek-ai/deepseek-recipe?style=flat-square&color=yellow)](https://github.com/deepseek-ai/deepseek-recipe/stargazers) [![Forks](https://img.shields.io/github/forks/deepseek-ai/deepseek-recipe?style=flat-square&color=blue)](https://github.com/deepseek-ai/deepseek-recipe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 257 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ deepseek-ai/deepseek-recipe：deepseek-ai/deepseek-recipe may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 18/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 68/100 |
 | categoryMatchCount | 700/100 |
 | stars | 70/100 |
 | forks | 60/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

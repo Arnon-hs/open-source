@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [deepseek-ai/deepseek-recipe](./deepseek-ai-deepseek-recipe.md) | ⭐ 2k | Rust | 52/100 |
+| 1 | [deepseek-ai/deepseek-recipe](./deepseek-ai-deepseek-recipe.md) | ⭐ 2k | Rust | 49/100 |
 
 ---
 
