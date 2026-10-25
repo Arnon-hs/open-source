@@ -1,6 +1,6 @@
 # RevealWire/rsb-1000
 
-[![Stars](https://img.shields.io/github/stars/RevealWire/rsb-1000?style=flat-square&color=yellow)](https://github.com/RevealWire/rsb-1000/stargazers) [![Forks](https://img.shields.io/github/forks/RevealWire/rsb-1000?style=flat-square&color=blue)](https://github.com/RevealWire/rsb-1000/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RevealWire/rsb-1000?style=flat-square&color=yellow)](https://github.com/RevealWire/rsb-1000/stargazers) [![Forks](https://img.shields.io/github/forks/RevealWire/rsb-1000?style=flat-square&color=blue)](https://github.com/RevealWire/rsb-1000/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > RSB-1000: a frozen 1,000-record synthetic benchmark for scam/phishing detection (780 scam / 220 legit, incl. 60 AiTM cases). Data: CC-BY-4.0, code: MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ RevealWire/rsb-1000：RevealWire/rsb-1000 may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 57/100 |
+| production | 54/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

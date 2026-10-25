@@ -1,6 +1,6 @@
 # transmitly/transmitly
 
-[![Stars](https://img.shields.io/github/stars/transmitly/transmitly?style=flat-square&color=yellow)](https://github.com/transmitly/transmitly/stargazers) [![Forks](https://img.shields.io/github/forks/transmitly/transmitly?style=flat-square&color=blue)](https://github.com/transmitly/transmitly/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/transmitly/transmitly?style=flat-square&color=yellow)](https://github.com/transmitly/transmitly/stargazers) [![Forks](https://img.shields.io/github/forks/transmitly/transmitly?style=flat-square&color=blue)](https://github.com/transmitly/transmitly/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Model transactional email, SMS, push and voice as domain intents in .NET, then deliver through SMTP, SendGrid, Twilio, Firebase and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ transmitly/transmitly：transmitly/transmitly may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 25/100 |
 | categoryMatchCount | 500/100 |
 | stars | 30/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
