@@ -2,7 +2,7 @@
 
 > 
 
-**151 projects** in this category.
+**152 projects** in this category.
 
 ## Projects
 
@@ -154,11 +154,12 @@
 | 144 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 38/100 |
 | 145 | [QuantStack/Wan2.2-TI2V-5B-GGUF](./quantstack-wan2.2-ti2v-5b-gguf.md) | ⭐ 231 | gguf | 37/100 |
 | 146 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
-| 147 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
-| 148 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 149 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 147 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
+| 148 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
+| 149 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
 | 150 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 151 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
+| 151 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 152 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 
 ---
 

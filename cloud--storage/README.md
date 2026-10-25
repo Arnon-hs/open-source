@@ -505,8 +505,8 @@
 | 495 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 359 | Rust | 50/100 |
 | 496 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 134 | Rust | 50/100 |
 | 497 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 335 | Java | 50/100 |
-| 498 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 50/100 |
-| 499 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 50/100 |
+| 498 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 50/100 |
+| 499 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 50/100 |
 | 500 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1k | Go | 50/100 |
 | 501 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 589 | Rust | 50/100 |
 | 502 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 639 | Python | 50/100 |
