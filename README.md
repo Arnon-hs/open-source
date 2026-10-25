@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42158** |
-| **Categories** | **595** |
+| **Projects** | **42163** |
+| **Categories** | **596** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16722 | [Browse →](./misc/) |
+| 📦 **Misc** | 16723 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4507 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2837 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2369 | [Browse →](./orchestration/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 611 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 545 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 519 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 514 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 515 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 462 | [Browse →](./templates/) |
 | 🔐 **Security** | 438 | [Browse →](./security/) |
 | 🏷️ **Communication** | 435 | [Browse →](./communication/) |
@@ -77,12 +77,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
+| 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Android** | 6 | [Browse →](./android/) |
 | 🏷️ **Hacktoberfest** | 6 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
-| 🏷️ **Python** | 5 | [Browse →](./python/) |
 | 🏷️ **Governance** | 5 | [Browse →](./governance/) |
 | 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
@@ -134,6 +134,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
 | 🏷️ **Postgres** | 2 | [Browse →](./postgres/) |
 | 🏷️ **Commit-message-generation** | 2 | [Browse →](./commit-message-generation/) |
 | 🏷️ **Raspberry-pi** | 2 | [Browse →](./raspberry-pi/) |
@@ -218,6 +219,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Gemma-4** | 1 | [Browse →](./gemma-4/) |
+| 🏷️ **Meal-planning** | 1 | [Browse →](./meal-planning/) |
 | 🏷️ **Ai-adoption** | 1 | [Browse →](./ai-adoption/) |
 | 🏷️ **Contract-review** | 1 | [Browse →](./contract-review/) |
 | 🏷️ **Chess** | 1 | [Browse →](./chess/) |
@@ -395,7 +398,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Handwriting-recognition** | 1 | [Browse →](./handwriting-recognition/) |
 | 🏷️ **Drone** | 1 | [Browse →](./drone/) |
 | 🏷️ **Supply-chain** | 1 | [Browse →](./supply-chain/) |
-| 🏷️ **Youtube** | 1 | [Browse →](./youtube/) |
 | 🏷️ **Ai-supervision** | 1 | [Browse →](./ai-supervision/) |
 | 🏷️ **Home-assistant** | 1 | [Browse →](./home-assistant/) |
 | 🏷️ **Shopify** | 1 | [Browse →](./shopify/) |
@@ -588,7 +590,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Learning** | 1 | [Browse →](./learning/) |
 | 🏷️ **Mutation-testing** | 1 | [Browse →](./mutation-testing/) |
 | 🏷️ **Wordpress** | 1 | [Browse →](./wordpress/) |
-| 🏷️ **Desktop** | 1 | [Browse →](./desktop/) |
 | 🏷️ **Koha** | 1 | [Browse →](./koha/) |
 | 🏷️ **Agent-loop** | 1 | [Browse →](./agent-loop/) |
 | 🏷️ **Performance** | 1 | [Browse →](./performance/) |

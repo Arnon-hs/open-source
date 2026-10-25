@@ -1,6 +1,6 @@
 # dgesteves/ondocs
 
-[![Stars](https://img.shields.io/github/stars/dgesteves/ondocs?style=flat-square&color=yellow)](https://github.com/dgesteves/ondocs/stargazers) [![Forks](https://img.shields.io/github/forks/dgesteves/ondocs?style=flat-square&color=blue)](https://github.com/dgesteves/ondocs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dgesteves/ondocs?style=flat-square&color=yellow)](https://github.com/dgesteves/ondocs/stargazers) [![Forks](https://img.shields.io/github/forks/dgesteves/ondocs?style=flat-square&color=blue)](https://github.com/dgesteves/ondocs/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source Ask AI for your docs, with an MCP server for agents: cited answers on your own model key, from one static index built with your site. No vendor, no vector database. Starlight, Docusaurus and VitePress plugins, Next.js, or one script tag.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ dgesteves/ondocs：dgesteves/ondocs may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 94/100 |
-| production | 71/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

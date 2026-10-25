@@ -1,6 +1,6 @@
 # xynorash/xynovim
 
-[![Stars](https://img.shields.io/github/stars/xynorash/xynovim?style=flat-square&color=yellow)](https://github.com/xynorash/xynovim/stargazers) [![Forks](https://img.shields.io/github/forks/xynorash/xynovim?style=flat-square&color=blue)](https://github.com/xynorash/xynovim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xynorash/xynovim?style=flat-square&color=yellow)](https://github.com/xynorash/xynovim/stargazers) [![Forks](https://img.shields.io/github/forks/xynorash/xynovim?style=flat-square&color=blue)](https://github.com/xynorash/xynovim/network) [![Language](https://img.shields.io/badge/lang-Lua-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > xynovim: a personal Neovim 0.12 configuration for Rust on LazyVim: instant rust-analyzer and clippy diagnostics, nvim-dap debugger, test UI with coverage, git safety net. Inspired by JetBrains tools. Developed on Linux; Windows passes the portable parts in CI, macOS is not reliably green.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Lua |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ xynorash/xynovim：xynorash/xynovim helps engineers save time in daily developme
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 72/100 |
+| production | 60/100 |
+| outlook | 65/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 100/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

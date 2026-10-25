@@ -1,6 +1,6 @@
 # dgesteves/signoff-ui
 
-[![Stars](https://img.shields.io/github/stars/dgesteves/signoff-ui?style=flat-square&color=yellow)](https://github.com/dgesteves/signoff-ui/stargazers) [![Forks](https://img.shields.io/github/forks/dgesteves/signoff-ui?style=flat-square&color=blue)](https://github.com/dgesteves/signoff-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dgesteves/signoff-ui?style=flat-square&color=yellow)](https://github.com/dgesteves/signoff-ui/stargazers) [![Forks](https://img.shields.io/github/forks/dgesteves/signoff-ui?style=flat-square&color=blue)](https://github.com/dgesteves/signoff-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Review what your agent changed and approve what it may do: React components for multi-file diff review and tool approvals that return a result your agent acts on, for AI SDK 6 & 7, AG-UI and ACP agents, inside assistant-ui, AI Elements or your own chat.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ dgesteves/signoff-ui：dgesteves/signoff-ui may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 60/100 |
+| outlook | 66/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 500/100 |
 | stars | 15/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
