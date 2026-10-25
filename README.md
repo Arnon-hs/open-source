@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42197** |
-| **Categories** | **596** |
+| **Projects** | **42204** |
+| **Categories** | **597** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16738 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4507 | [Browse →](./aiml/) |
+| 📦 **Misc** | 16742 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4509 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2838 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
@@ -33,7 +33,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎨 **Frontend** | 891 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 791 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 699 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 653 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 654 | [Browse →](./networking/) |
 | 📱 **Mobile** | 645 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 619 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 611 | [Browse →](./cloud--storage/) |
@@ -65,7 +65,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
 | 🏷️ **Privacy** | 19 | [Browse →](./privacy/) |
 | 🏷️ **Ci** | 14 | [Browse →](./ci/) |
-| 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
+| 🏷️ **Freelance** | 13 | [Browse →](./freelance/) |
 | 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Macos** | 11 | [Browse →](./macos/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
@@ -90,6 +90,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
 | 🏷️ **Nextjs** | 5 | [Browse →](./nextjs/) |
 | 🏷️ **Rust** | 5 | [Browse →](./rust/) |
+| 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Email** | 4 | [Browse →](./email/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
 | 🏷️ **Ios** | 4 | [Browse →](./ios/) |
@@ -109,7 +110,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Chrome-extension** | 3 | [Browse →](./chrome-extension/) |
-| 🏷️ **Ai-coding** | 3 | [Browse →](./ai-coding/) |
 | 🏷️ **Voice-control** | 3 | [Browse →](./voice-control/) |
 | 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
 | 🏷️ **Spring-boot** | 3 | [Browse →](./spring-boot/) |
@@ -123,7 +123,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Flaky-tests** | 3 | [Browse →](./flaky-tests/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
-| 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
 | 🏷️ **Ecommerce** | 3 | [Browse →](./ecommerce/) |
@@ -220,7 +219,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 2 | [Browse →](./monorepo/) |
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
+| 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Sandbox** | 1 | [Browse →](./sandbox/) |
 | 🏷️ **Cancellation** | 1 | [Browse →](./cancellation/) |
 | 🏷️ **Gemma-4** | 1 | [Browse →](./gemma-4/) |
 | 🏷️ **Meal-planning** | 1 | [Browse →](./meal-planning/) |

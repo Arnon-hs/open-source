@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [plimsollmark/plimsoll](./plimsollmark-plimsoll.md) | ⭐ 1 | Go | 57/100 |
+| 1 | [bobbyhalljr/tiny-credential-gateway](./bobbyhalljr-tiny-credential-gateway.md) | ⭐ — | TypeScript | 54/100 |
 
 ---
 
