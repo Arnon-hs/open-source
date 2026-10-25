@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [emersion/go-smtp](./emersion-go-smtp.md) | ⭐ 2.1k | Go | 69/100 |
+| 1 | [emersion/go-smtp](./emersion-go-smtp.md) | ⭐ 2.1k | Go | 66/100 |
 | 2 | [jhillyerd/enmime](./jhillyerd-enmime.md) | ⭐ 526 | Go | 57/100 |
 
 ---
