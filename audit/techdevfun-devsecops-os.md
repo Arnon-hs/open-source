@@ -1,6 +1,6 @@
 # techdevfun/devsecops-os
 
-[![Stars](https://img.shields.io/github/stars/techdevfun/devsecops-os?style=flat-square&color=yellow)](https://github.com/techdevfun/devsecops-os/stargazers) [![Forks](https://img.shields.io/github/forks/techdevfun/devsecops-os?style=flat-square&color=blue)](https://github.com/techdevfun/devsecops-os/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/techdevfun/devsecops-os?style=flat-square&color=yellow)](https://github.com/techdevfun/devsecops-os/stargazers) [![Forks](https://img.shields.io/github/forks/techdevfun/devsecops-os?style=flat-square&color=blue)](https://github.com/techdevfun/devsecops-os/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Open vendor-neutral DevSecOps operating layer: reference architecture, policy-as-code packs, CI security gates and audit-evidence automation for regulated organisations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ techdevfun/devsecops-os：techdevfun/devsecops-os may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

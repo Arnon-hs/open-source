@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [voicekit-team/T-one](./voicekit-team-t-one.md) | ⭐ 280 | Python | 55/100 |
 | 2 | [kpu/kenlm](./kpu-kenlm.md) | ⭐ 2.8k | C++ | 52/100 |
-| 3 | [meshoklv/ru-speech-bench](./meshoklv-ru-speech-bench.md) | ⭐ — | Python | 47/100 |
+| 3 | [meshoklv/ru-speech-bench](./meshoklv-ru-speech-bench.md) | ⭐ — | Python | 44/100 |
 | 4 | [NVIDIA/NeMo](./nvidia-nemo.md) | ⭐ — | — | 24/100 |
 
 ---

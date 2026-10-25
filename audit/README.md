@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [techdevfun/devsecops-os](./techdevfun-devsecops-os.md) | ⭐ — | Python | 51/100 |
+| 1 | [techdevfun/devsecops-os](./techdevfun-devsecops-os.md) | ⭐ — | Python | 48/100 |
 
 ---
 
