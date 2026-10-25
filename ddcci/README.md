@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [samuelcecilio/multi-display-adjustment](./samuelcecilio-multi-display-adjustment.md) | ⭐ 5 | JavaScript | 46/100 |
+| 1 | [samuelcecilio/multi-display-adjustment](./samuelcecilio-multi-display-adjustment.md) | ⭐ 5 | JavaScript | 43/100 |
 
 ---
 

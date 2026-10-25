@@ -1,6 +1,6 @@
 # samuelcecilio/multi-display-adjustment
 
-[![Stars](https://img.shields.io/github/stars/samuelcecilio/multi-display-adjustment?style=flat-square&color=yellow)](https://github.com/samuelcecilio/multi-display-adjustment/stargazers) [![Forks](https://img.shields.io/github/forks/samuelcecilio/multi-display-adjustment?style=flat-square&color=blue)](https://github.com/samuelcecilio/multi-display-adjustment/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samuelcecilio/multi-display-adjustment?style=flat-square&color=yellow)](https://github.com/samuelcecilio/multi-display-adjustment/stargazers) [![Forks](https://img.shields.io/github/forks/samuelcecilio/multi-display-adjustment?style=flat-square&color=blue)](https://github.com/samuelcecilio/multi-display-adjustment/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > GNOME Shell extension with per-display brightness and contrast sliders over DDC/CI. Fork of w8jcik/display-adjustment focused on multi-monitor setups.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ samuelcecilio/multi-display-adjustment：samuelcecilio/multi-display-adjustment 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 15/100 |
 | categoryMatchCount | 600/100 |
 | stars | 17/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

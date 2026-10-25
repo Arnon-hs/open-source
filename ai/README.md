@@ -8,10 +8,10 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [iazaran/orchevia](./iazaran-orchevia.md) | ⭐ — | Rust | 72/100 |
-| 2 | [onelpawarai-X/ZYRAXON-AI](./onelpawarai-x-zyraxon-ai.md) | ⭐ 9 | TypeScript | 70/100 |
-| 3 | [Insideofcub/job-hunter-agent](./insideofcub-job-hunter-agent.md) | ⭐ 1 | Python | 70/100 |
-| 4 | [MGdaasLab/WHartTest](./mgdaaslab-wharttest.md) | ⭐ 1.1k | Python | 69/100 |
+| 1 | [onelpawarai-X/ZYRAXON-AI](./onelpawarai-x-zyraxon-ai.md) | ⭐ 9 | TypeScript | 70/100 |
+| 2 | [Insideofcub/job-hunter-agent](./insideofcub-job-hunter-agent.md) | ⭐ 1 | Python | 70/100 |
+| 3 | [MGdaasLab/WHartTest](./mgdaaslab-wharttest.md) | ⭐ 1.1k | Python | 69/100 |
+| 4 | [iazaran/orchevia](./iazaran-orchevia.md) | ⭐ — | Rust | 69/100 |
 | 5 | [Folkbench/folkbench](./folkbench-folkbench.md) | ⭐ 1.9k | Rust | 61/100 |
 | 6 | [JohnWayneeee/casely-qa-skill](./johnwayneeee-casely-qa-skill.md) | ⭐ 11 | Python | 59/100 |
 | 7 | [adonai-labs/agent-runway](./adonai-labs-agent-runway.md) | ⭐ 2 | TypeScript | 58/100 |
