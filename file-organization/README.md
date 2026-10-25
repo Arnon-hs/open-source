@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [P44-code/sloth-tidy](./p44-code-sloth-tidy.md) | ⭐ — | Jupyter Notebook | 36/100 |
+| 1 | [shrey04kaitke-sys/LazyDeskAI](./shrey04kaitke-sys-lazydeskai.md) | ⭐ — | Python | 49/100 |
+| 2 | [P44-code/sloth-tidy](./p44-code-sloth-tidy.md) | ⭐ — | Jupyter Notebook | 36/100 |
 
 ---
 
