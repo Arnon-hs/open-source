@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42178** |
-| **Categories** | **597** |
+| **Projects** | **42182** |
+| **Categories** | **596** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16727 | [Browse →](./misc/) |
+| 📦 **Misc** | 16729 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4507 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2838 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2369 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1450 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 945 | [Browse →](./backend/) |
@@ -45,7 +45,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Communication** | 435 | [Browse →](./communication/) |
 | 💳 **Payments** | 354 | [Browse →](./payments/) |
 | 📊 **Data** | 342 | [Browse →](./data/) |
-| 🏷️ **Games--graphics** | 341 | [Browse →](./games--graphics/) |
+| 🏷️ **Games--graphics** | 342 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 331 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 304 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 264 | [Browse →](./libraries--sdks/) |
@@ -134,6 +134,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Browser-automation** | 2 | [Browse →](./browser-automation/) |
 | 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
 | 🏷️ **Postgres** | 2 | [Browse →](./postgres/) |
 | 🏷️ **Commit-message-generation** | 2 | [Browse →](./commit-message-generation/) |
@@ -397,7 +398,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Side-project** | 1 | [Browse →](./side-project/) |
 | 🏷️ **Gpustack** | 1 | [Browse →](./gpustack/) |
 | 🏷️ **Handwriting-recognition** | 1 | [Browse →](./handwriting-recognition/) |
-| 🏷️ **Drone** | 1 | [Browse →](./drone/) |
 | 🏷️ **Supply-chain** | 1 | [Browse →](./supply-chain/) |
 | 🏷️ **Ai-supervision** | 1 | [Browse →](./ai-supervision/) |
 | 🏷️ **Home-assistant** | 1 | [Browse →](./home-assistant/) |
@@ -526,7 +526,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vscode** | 1 | [Browse →](./vscode/) |
 | 🏷️ **Raspberrypi** | 1 | [Browse →](./raspberrypi/) |
 | 🏷️ **Okf** | 1 | [Browse →](./okf/) |
-| 🏷️ **Browser-automation** | 1 | [Browse →](./browser-automation/) |
 | 🏷️ **Neuroscience** | 1 | [Browse →](./neuroscience/) |
 | 🏷️ **Agent-evaluation** | 1 | [Browse →](./agent-evaluation/) |
 | 🏷️ **Clientside-validation** | 1 | [Browse →](./clientside-validation/) |
