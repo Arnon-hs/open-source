@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [245678000000/clauseguard](./245678000000-clauseguard.md) | ⭐ — | Python | 39/100 |
+| 1 | [samashech/weirdClauses](./samashech-weirdclauses.md) | ⭐ — | Python | 39/100 |
 
 ---
 
