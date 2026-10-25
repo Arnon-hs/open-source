@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ — | Dart | 51/100 |
+| 1 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ — | Dart | 48/100 |
 
 ---
 

@@ -8,11 +8,11 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [opencv/opencv_zoo](./opencv-opencv-zoo.md) | ⭐ 1.1k | Python | 56/100 |
-| 2 | [ItsPriyamSri/sourcerer](./itspriyamsri-sourcerer.md) | ⭐ — | TypeScript | 44/100 |
-| 3 | [Burthcer/Wisperno](./burthcer-wisperno.md) | ⭐ — | Python | 43/100 |
-| 4 | [Shishir2405/shelf](./shishir2405-shelf.md) | ⭐ — | TypeScript | 41/100 |
-| 5 | [Wandercoil/lensit](./wandercoil-lensit.md) | ⭐ — | Python | 39/100 |
+| 1 | [MinishLab/model2vec](./minishlab-model2vec.md) | ⭐ 2.3k | Python | 62/100 |
+| 2 | [Jainil26/sloth-sorter](./jainil26-sloth-sorter.md) | ⭐ 1 | Python | 44/100 |
+| 3 | [ItsPriyamSri/sourcerer](./itspriyamsri-sourcerer.md) | ⭐ — | TypeScript | 44/100 |
+| 4 | [Burthcer/Wisperno](./burthcer-wisperno.md) | ⭐ — | Python | 43/100 |
+| 5 | [Shishir2405/shelf](./shishir2405-shelf.md) | ⭐ — | TypeScript | 41/100 |
 | 6 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 37/100 |
 | 7 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 36/100 |
 | 8 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 36/100 |
