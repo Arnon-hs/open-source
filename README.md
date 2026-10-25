@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42085** |
-| **Categories** | **592** |
+| **Projects** | **42087** |
+| **Categories** | **593** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16687 | [Browse →](./misc/) |
+| 📦 **Misc** | 16688 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4495 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2830 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2365 | [Browse →](./orchestration/) |
@@ -58,7 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 36 | [Browse →](./ai-agents/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
-| 🏷️ **Offline** | 31 | [Browse →](./offline/) |
+| 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 26 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 22 | [Browse →](./llm/) |
@@ -73,13 +73,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Android** | 8 | [Browse →](./android/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
+| 🏷️ **Php** | 7 | [Browse →](./php/) |
 | 🏷️ **Whatsapp** | 7 | [Browse →](./whatsapp/) |
 | 🏷️ **Kubernetes** | 7 | [Browse →](./kubernetes/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Hacktoberfest** | 6 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
-| 🏷️ **Php** | 6 | [Browse →](./php/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **Governance** | 5 | [Browse →](./governance/) |
@@ -224,6 +224,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Linter** | 1 | [Browse →](./linter/) |
 | 🏷️ **Jobsearch** | 1 | [Browse →](./jobsearch/) |
 | 🏷️ **Shadcnui** | 1 | [Browse →](./shadcnui/) |
 | 🏷️ **Automotive** | 1 | [Browse →](./automotive/) |

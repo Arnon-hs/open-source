@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [quintetkit/quartet](./quintetkit-quartet.md) | ⭐ — | Shell | 51/100 |
+| 1 | [bayuh85/tastelint](./bayuh85-tastelint.md) | ⭐ — | Python | 51/100 |
 
 ---
 
