@@ -15,8 +15,8 @@
 | 5 | [dekita-dev/five-things](./dekita-dev-five-things.md) | ⭐ — | Python | 42/100 |
 | 6 | [C12isme945/pausedock](./c12isme945-pausedock.md) | ⭐ — | Python | 42/100 |
 | 7 | [ohyoseok92/loose-ends-local](./ohyoseok92-loose-ends-local.md) | ⭐ — | Python | 42/100 |
-| 8 | [sank8-2/tidy-sloth](./sank8-2-tidy-sloth.md) | ⭐ — | Python | 42/100 |
-| 9 | [drevendev/PatchPitch](./drevendev-patchpitch.md) | ⭐ 1 | Python | 40/100 |
+| 8 | [drevendev/PatchPitch](./drevendev-patchpitch.md) | ⭐ 1 | Python | 40/100 |
+| 9 | [sank8-2/tidy-sloth](./sank8-2-tidy-sloth.md) | ⭐ — | Python | 39/100 |
 | 10 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
 | 11 | [Abishethvarman/CiteWise](./abishethvarman-citewise.md) | ⭐ — | Python | 36/100 |
 | 12 | [Karishma-Das/porchlight](./karishma-das-porchlight.md) | ⭐ — | Python | 36/100 |

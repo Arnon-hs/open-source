@@ -1,6 +1,6 @@
 # arminbiere/cadical
 
-[![Stars](https://img.shields.io/github/stars/arminbiere/cadical?style=flat-square&color=yellow)](https://github.com/arminbiere/cadical/stargazers) [![Forks](https://img.shields.io/github/forks/arminbiere/cadical?style=flat-square&color=blue)](https://github.com/arminbiere/cadical/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arminbiere/cadical?style=flat-square&color=yellow)](https://github.com/arminbiere/cadical/stargazers) [![Forks](https://img.shields.io/github/forks/arminbiere/cadical?style=flat-square&color=blue)](https://github.com/arminbiere/cadical/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > CaDiCaL SAT Solver
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 624 |
 | 🍴 **Forks** | 192 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ arminbiere/cadical：arminbiere/cadical may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 65/100 |
-| outlook | 65/100 |
+| production | 58/100 |
+| outlook | 58/100 |
 | adoption | 59/100 |
 | categoryMatchCount | 500/100 |
 | stars | 59/100 |
 | forks | 57/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
