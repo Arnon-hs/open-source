@@ -1,6 +1,6 @@
 # ggml-org/ggml
 
-[![Stars](https://img.shields.io/github/stars/ggml-org/ggml?style=flat-square&color=yellow)](https://github.com/ggml-org/ggml/stargazers) [![Forks](https://img.shields.io/github/forks/ggml-org/ggml?style=flat-square&color=blue)](https://github.com/ggml-org/ggml/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ggml-org/ggml?style=flat-square&color=yellow)](https://github.com/ggml-org/ggml/stargazers) [![Forks](https://img.shields.io/github/forks/ggml-org/ggml?style=flat-square&color=blue)](https://github.com/ggml-org/ggml/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Tensor library for machine learning
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15.5k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ ggml-org/ggml：ggml-org/ggml may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 70/100 |
-| outlook | 73/100 |
+| production | 63/100 |
+| outlook | 66/100 |
 | adoption | 87/100 |
 | categoryMatchCount | 600/100 |
 | stars | 89/100 |
 | forks | 82/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 70/100 |
 

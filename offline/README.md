@@ -12,8 +12,8 @@
 | 2 | [ItsPriyamSri/sourcerer](./itspriyamsri-sourcerer.md) | ⭐ — | TypeScript | 44/100 |
 | 3 | [Burthcer/Wisperno](./burthcer-wisperno.md) | ⭐ — | Python | 43/100 |
 | 4 | [Shishir2405/shelf](./shishir2405-shelf.md) | ⭐ — | TypeScript | 41/100 |
-| 5 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 40/100 |
-| 6 | [Wandercoil/lensit](./wandercoil-lensit.md) | ⭐ — | Python | 39/100 |
+| 5 | [Wandercoil/lensit](./wandercoil-lensit.md) | ⭐ — | Python | 39/100 |
+| 6 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 37/100 |
 | 7 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 36/100 |
 | 8 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 36/100 |
 | 9 | [DhirajB05/HacktoberFest_C2](./dhirajb05-hacktoberfest-c2.md) | ⭐ — | Python | 36/100 |

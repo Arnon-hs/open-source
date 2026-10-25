@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Mocca130604/tabify.ai](./mocca130604-tabify.ai.md) | ⭐ — | Vue | 36/100 |
+| 1 | [Mocca130604/tabify.ai](./mocca130604-tabify.ai.md) | ⭐ — | Vue | 33/100 |
 
 ---
 

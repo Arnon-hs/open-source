@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MRNOWSHIRWAN/lazycommit](./mrnowshirwan-lazycommit.md) | ⭐ — | Python | 42/100 |
+| 1 | [MRNOWSHIRWAN/lazycommit](./mrnowshirwan-lazycommit.md) | ⭐ — | Python | 39/100 |
 
 ---
 

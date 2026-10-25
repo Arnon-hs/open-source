@@ -1,6 +1,6 @@
 # alexar76/esim-operator-kit
 
-[![Stars](https://img.shields.io/github/stars/alexar76/esim-operator-kit?style=flat-square&color=yellow)](https://github.com/alexar76/esim-operator-kit/stargazers) [![Forks](https://img.shields.io/github/forks/alexar76/esim-operator-kit?style=flat-square&color=blue)](https://github.com/alexar76/esim-operator-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexar76/esim-operator-kit?style=flat-square&color=yellow)](https://github.com/alexar76/esim-operator-kit/stargazers) [![Forks](https://img.shields.io/github/forks/alexar76/esim-operator-kit?style=flat-square&color=blue)](https://github.com/alexar76/esim-operator-kit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Onboard any eSIM operator, including ones already selling. They offer travel eSIMs to people and AI agents on AIMarket rails and get paid however they already take payment. Storefront in 5 languages. Demo: esim.modelmarket.dev.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ alexar76/esim-operator-kit：alexar76/esim-operator-kit may be useful when its R
 - primary language: JavaScript
 - 7 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 53/100 |
+| outlook | 55/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
