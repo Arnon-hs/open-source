@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42078** |
-| **Categories** | **593** |
+| **Projects** | **42079** |
+| **Categories** | **592** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -24,13 +24,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 16683 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4494 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4495 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2830 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2364 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2365 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1446 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 945 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 890 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 891 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 791 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 697 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 652 | [Browse →](./networking/) |
@@ -61,7 +61,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 26 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
-| 🏷️ **Llm** | 23 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 22 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
@@ -402,7 +402,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cncf** | 1 | [Browse →](./cncf/) |
 | 🏷️ **Arxiv** | 1 | [Browse →](./arxiv/) |
 | 🏷️ **Nda** | 1 | [Browse →](./nda/) |
-| 🏷️ **I18n** | 1 | [Browse →](./i18n/) |
 | 🏷️ **Ai-translation** | 1 | [Browse →](./ai-translation/) |
 | 🏷️ **Cloud-security** | 1 | [Browse →](./cloud-security/) |
 | 🏷️ **Voiceassistant** | 1 | [Browse →](./voiceassistant/) |
