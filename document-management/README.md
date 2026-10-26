@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hrishu802/TidyByte](./hrishu802-tidybyte.md) | ⭐ — | TypeScript | 53/100 |
+| 1 | [hrishu802/TidyByte](./hrishu802-tidybyte.md) | ⭐ — | TypeScript | 50/100 |
 | 2 | [subhranshudash13-dotcom/Kaagaz](./subhranshudash13-dotcom-kaagaz.md) | ⭐ — | TypeScript | 33/100 |
 
 ---

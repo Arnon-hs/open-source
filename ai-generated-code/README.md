@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [burhanarif472-lgtm/fixproof](./burhanarif472-lgtm-fixproof.md) | ⭐ — | JavaScript | 52/100 |
+| 1 | [burhanarif472-lgtm/fixproof](./burhanarif472-lgtm-fixproof.md) | ⭐ — | JavaScript | 49/100 |
 
 ---
 

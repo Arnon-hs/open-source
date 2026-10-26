@@ -1,6 +1,6 @@
 # oguzhankrcb/syncSCP
 
-[![Stars](https://img.shields.io/github/stars/oguzhankrcb/syncSCP?style=flat-square&color=yellow)](https://github.com/oguzhankrcb/syncSCP/stargazers) [![Forks](https://img.shields.io/github/forks/oguzhankrcb/syncSCP?style=flat-square&color=blue)](https://github.com/oguzhankrcb/syncSCP/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oguzhankrcb/syncSCP?style=flat-square&color=yellow)](https://github.com/oguzhankrcb/syncSCP/stargazers) [![Forks](https://img.shields.io/github/forks/oguzhankrcb/syncSCP?style=flat-square&color=blue)](https://github.com/oguzhankrcb/syncSCP/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Native macOS file manager and SSH terminal for SFTP, SCP, FTP/FTPS, WebDAV and S3 — WinSCP's two-pane Commander workflow on the Mac
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ oguzhankrcb/syncSCP：oguzhankrcb/syncSCP may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 64/100 |
+| production | 54/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 1000/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

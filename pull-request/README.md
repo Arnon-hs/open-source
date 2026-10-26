@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [HuzaifaAbdulRehman/prilizer](./huzaifaabdulrehman-prilizer.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [HuzaifaAbdulRehman/prilizer](./huzaifaabdulrehman-prilizer.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

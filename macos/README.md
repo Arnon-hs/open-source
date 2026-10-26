@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | 1 | [yrangana/fm-mcp](./yrangana-fm-mcp.md) | ⭐ 5 | Rust | 53/100 |
 | 2 | [joeystdio/PortRadar](./joeystdio-portradar.md) | ⭐ — | Swift | 51/100 |
-| 3 | [oguzhankrcb/syncSCP](./oguzhankrcb-syncscp.md) | ⭐ — | Swift | 48/100 |
-| 4 | [prateek11rai/munshi](./prateek11rai-munshi.md) | ⭐ — | Python | 47/100 |
+| 3 | [prateek11rai/munshi](./prateek11rai-munshi.md) | ⭐ — | Python | 47/100 |
+| 4 | [oguzhankrcb/syncSCP](./oguzhankrcb-syncscp.md) | ⭐ — | Swift | 45/100 |
 | 5 | [apple-oss-distributions/mDNSResponder](./apple-oss-distributions-mdnsresponder.md) | ⭐ 404 | C | 45/100 |
 | 6 | [joeystdio/GhostMouse](./joeystdio-ghostmouse.md) | ⭐ — | Swift | 44/100 |
 | 7 | [adfd3ewdf3/FinderBack](./adfd3ewdf3-finderback.md) | ⭐ — | Swift | 41/100 |
