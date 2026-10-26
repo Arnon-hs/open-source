@@ -430,8 +430,8 @@
 | 420 | [TheAcharya/MarkersExtractor](./theacharya-markersextractor.md) | ⭐ 47 | Swift | 54/100 |
 | 421 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 346 | C++ | 54/100 |
 | 422 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 54/100 |
-| 423 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
-| 424 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
+| 423 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
+| 424 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
 | 425 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 426 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 252 | — | 53/100 |
 | 427 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |

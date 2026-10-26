@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [KrishnanKamatchi/deadhand](./krishnankamatchi-deadhand.md) | ⭐ — | Rust | 59/100 |
+| 1 | [KrishnanKamatchi/deadhand](./krishnankamatchi-deadhand.md) | ⭐ — | Rust | 56/100 |
 
 ---
 

@@ -380,8 +380,8 @@
 | 370 | [INRIA/spoon](./inria-spoon.md) | ⭐ 1.9k | Java | 66/100 |
 | 371 | [praetorian-inc/titus](./praetorian-inc-titus.md) | ⭐ 600 | Go | 66/100 |
 | 372 | [jcouture/nv](./jcouture-nv.md) | ⭐ 76 | Go | 66/100 |
-| 373 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 240 | Go | 66/100 |
-| 374 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 748 | Go | 66/100 |
+| 373 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 748 | Go | 66/100 |
+| 374 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 240 | Go | 66/100 |
 | 375 | [fastify/fastify-cli](./fastify-fastify-cli.md) | ⭐ 730 | JavaScript | 66/100 |
 | 376 | [justcallmekoko/ESP32Marauder](./justcallmekoko-esp32marauder.md) | ⭐ 11.2k | C++ | 66/100 |
 | 377 | [fiatjaf/nak](./fiatjaf-nak.md) | ⭐ 388 | Go | 66/100 |
@@ -463,8 +463,8 @@
 | 453 | [fiso64/sockseek](./fiso64-sockseek.md) | ⭐ 967 | C# | 65/100 |
 | 454 | [olavolav/uniplot](./olavolav-uniplot.md) | ⭐ 455 | Python | 65/100 |
 | 455 | [BrianPugh/cyclopts](./brianpugh-cyclopts.md) | ⭐ 1.2k | Python | 65/100 |
-| 456 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 65/100 |
-| 457 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 65/100 |
+| 456 | [wp-cli/php-cli-tools](./wp-cli-php-cli-tools.md) | ⭐ 683 | PHP | 65/100 |
+| 457 | [wp-cli/i18n-command](./wp-cli-i18n-command.md) | ⭐ 116 | Gherkin | 65/100 |
 | 458 | [Canop/broot](./canop-broot.md) | ⭐ 12.7k | Rust | 65/100 |
 | 459 | [kainctl/isd](./kainctl-isd.md) | ⭐ 2.1k | Python | 65/100 |
 | 460 | [netlify/cli](./netlify-cli.md) | ⭐ 1.9k | TypeScript | 65/100 |
@@ -1550,8 +1550,8 @@
 | 1540 | [Bharathcoorg/interenv](./bharathcoorg-interenv.md) | ⭐ 1 | Rust | 46/100 |
 | 1541 | [aristocratos/btop](./aristocratos-btop.md) | ⭐ — | — | 46/100 |
 | 1542 | [geturbackend/urBackend](./geturbackend-urbackend.md) | ⭐ — | — | 46/100 |
-| 1543 | [fini-net/gh-observer](./fini-net-gh-observer.md) | ⭐ — | — | 46/100 |
-| 1544 | [charmbracelet/lipgloss](./charmbracelet-lipgloss.md) | ⭐ — | — | 46/100 |
+| 1543 | [charmbracelet/lipgloss](./charmbracelet-lipgloss.md) | ⭐ — | — | 46/100 |
+| 1544 | [fini-net/gh-observer](./fini-net-gh-observer.md) | ⭐ — | — | 46/100 |
 | 1545 | [sdiehl/typechecker-zoo](./sdiehl-typechecker-zoo.md) | ⭐ 416 | Rust | 46/100 |
 | 1546 | [coolxv/cpp-stub](./coolxv-cpp-stub.md) | ⭐ 326 | C++ | 46/100 |
 | 1547 | [trovu/trovu](./trovu-trovu.md) | ⭐ 70 | TypeScript | 46/100 |

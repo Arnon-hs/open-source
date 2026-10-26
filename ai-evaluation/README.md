@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [virginiamwega2-svg/openai-sdk-docs-practice](./virginiamwega2-svg-openai-sdk-docs-practice.md) | ⭐ — | JavaScript | 59/100 |
+| 1 | [virginiamwega2-svg/openai-sdk-docs-practice](./virginiamwega2-svg-openai-sdk-docs-practice.md) | ⭐ — | JavaScript | 56/100 |
 
 ---
 

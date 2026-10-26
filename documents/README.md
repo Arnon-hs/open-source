@@ -422,8 +422,8 @@
 | 412 | [ttu-ttu/ebook-reader](./ttu-ttu-ebook-reader.md) | ⭐ 1k | Svelte | 51/100 |
 | 413 | [spawnia/md-to-pdf](./spawnia-md-to-pdf.md) | ⭐ 167 | Rust | 51/100 |
 | 414 | [messense/mupdf-rs](./messense-mupdf-rs.md) | ⭐ 200 | Rust | 51/100 |
-| 415 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 172 | Rust | 51/100 |
-| 416 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 591 | Rust | 51/100 |
+| 415 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 591 | Rust | 51/100 |
+| 416 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 172 | Rust | 51/100 |
 | 417 | [CultivateLabs/storytime](./cultivatelabs-storytime.md) | ⭐ 747 | Ruby | 51/100 |
 | 418 | [clerkma/ptex-ng](./clerkma-ptex-ng.md) | ⭐ 305 | C | 51/100 |
 | 419 | [3xxx/engineercms](./3xxx-engineercms.md) | ⭐ 1.4k | Go | 51/100 |
@@ -663,10 +663,10 @@
 | 653 | [newptcai/repy](./newptcai-repy.md) | ⭐ — | — | 38/100 |
 | 654 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 655 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ — | — | 38/100 |
-| 656 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ — | — | 38/100 |
-| 657 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 658 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ — | — | 38/100 |
-| 659 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ — | — | 38/100 |
+| 656 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 657 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ — | — | 38/100 |
+| 658 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ — | — | 38/100 |
+| 659 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ — | — | 38/100 |
 | 660 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ — | — | 38/100 |
 | 661 | [grinev/boardown](./grinev-boardown.md) | ⭐ — | — | 38/100 |
 | 662 | [dsbitor/technotes-releases](./dsbitor-technotes-releases.md) | ⭐ — | — | 38/100 |
