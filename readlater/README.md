@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [simplynadaf/unpile-read-later-triage](./simplynadaf-unpile-read-later-triage.md) | ⭐ — | Python | 51/100 |
+| 1 | [simplynadaf/unpile-read-later-triage](./simplynadaf-unpile-read-later-triage.md) | ⭐ — | Python | 48/100 |
 
 ---
 

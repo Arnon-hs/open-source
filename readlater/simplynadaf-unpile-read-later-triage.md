@@ -1,6 +1,6 @@
 # simplynadaf/unpile-read-later-triage
 
-[![Stars](https://img.shields.io/github/stars/simplynadaf/unpile-read-later-triage?style=flat-square&color=yellow)](https://github.com/simplynadaf/unpile-read-later-triage/stargazers) [![Forks](https://img.shields.io/github/forks/simplynadaf/unpile-read-later-triage?style=flat-square&color=blue)](https://github.com/simplynadaf/unpile-read-later-triage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/simplynadaf/unpile-read-later-triage?style=flat-square&color=yellow)](https://github.com/simplynadaf/unpile-read-later-triage/stargazers) [![Forks](https://img.shields.io/github/forks/simplynadaf/unpile-read-later-triage?style=flat-square&color=blue)](https://github.com/simplynadaf/unpile-read-later-triage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A 100% local agent that triages your read-later backlog with TabPFN-v2 and Gemma 3, keeping only the few articles worth your morning. Open-weight, offline, $0. Hacktoberfest 2026 Week 3.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ simplynadaf/unpile-read-later-triage：simplynadaf/unpile-read-later-triage may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
