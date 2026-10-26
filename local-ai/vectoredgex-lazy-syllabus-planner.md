@@ -1,6 +1,6 @@
 # vectoredgex/lazy-syllabus-planner
 
-[![Stars](https://img.shields.io/github/stars/vectoredgex/lazy-syllabus-planner?style=flat-square&color=yellow)](https://github.com/vectoredgex/lazy-syllabus-planner/stargazers) [![Forks](https://img.shields.io/github/forks/vectoredgex/lazy-syllabus-planner?style=flat-square&color=blue)](https://github.com/vectoredgex/lazy-syllabus-planner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vectoredgex/lazy-syllabus-planner?style=flat-square&color=yellow)](https://github.com/vectoredgex/lazy-syllabus-planner/stargazers) [![Forks](https://img.shields.io/github/forks/vectoredgex/lazy-syllabus-planner?style=flat-square&color=blue)](https://github.com/vectoredgex/lazy-syllabus-planner/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Reads your course syllabi with a local open-weight model (Qwen 2.5 via Ollama) and tells you the least you need to do this week. Offline, private, free.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ vectoredgex/lazy-syllabus-planner：vectoredgex/lazy-syllabus-planner may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 50/100 |
+| production | 51/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 900/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
