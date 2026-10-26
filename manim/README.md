@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AzadKshitij/manim-studio](./azadkshitij-manim-studio.md) | ⭐ 1 | Python | 37/100 |
+| 1 | [AzadKshitij/manim-studio](./azadkshitij-manim-studio.md) | ⭐ 1 | Python | 34/100 |
 
 ---
 

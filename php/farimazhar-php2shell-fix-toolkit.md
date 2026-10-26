@@ -1,6 +1,6 @@
 # farimazhar/php2shell-fix-toolkit
 
-[![Stars](https://img.shields.io/github/stars/farimazhar/php2shell-fix-toolkit?style=flat-square&color=yellow)](https://github.com/farimazhar/php2shell-fix-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/farimazhar/php2shell-fix-toolkit?style=flat-square&color=blue)](https://github.com/farimazhar/php2shell-fix-toolkit/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/farimazhar/php2shell-fix-toolkit?style=flat-square&color=yellow)](https://github.com/farimazhar/php2shell-fix-toolkit/stargazers) [![Forks](https://img.shields.io/github/forks/farimazhar/php2shell-fix-toolkit?style=flat-square&color=blue)](https://github.com/farimazhar/php2shell-fix-toolkit/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > 🚨 Emergency toolkit for PHP2Shell (CVE-2026-109618 & CVE-2026-109619) CVSS 9.2 - Unauthenticated RCE in PHP Core. Scanner + Temporary Mitigation + Permanent Fix Guide. Fixed: 8.2.35 / 8.3.36 / 8.4.27 / 8.5.12
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ farimazhar/php2shell-fix-toolkit：farimazhar/php2shell-fix-toolkit may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 64/100 |
+| production | 54/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

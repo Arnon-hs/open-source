@@ -9,10 +9,10 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [MinishLab/model2vec](./minishlab-model2vec.md) | ⭐ 2.3k | Python | 62/100 |
-| 2 | [Jainil26/sloth-sorter](./jainil26-sloth-sorter.md) | ⭐ 1 | Python | 44/100 |
-| 3 | [Burthcer/Wisperno](./burthcer-wisperno.md) | ⭐ — | Python | 43/100 |
-| 4 | [RZEROSTERN/hacktoberfest-week4](./rzerostern-hacktoberfest-week4.md) | ⭐ — | Python | 42/100 |
-| 5 | [parnita-Singh/PDFme-week3](./parnita-singh-pdfme-week3.md) | ⭐ 1 | Python | 41/100 |
+| 2 | [Burthcer/Wisperno](./burthcer-wisperno.md) | ⭐ — | Python | 43/100 |
+| 3 | [RZEROSTERN/hacktoberfest-week4](./rzerostern-hacktoberfest-week4.md) | ⭐ — | Python | 42/100 |
+| 4 | [parnita-Singh/PDFme-week3](./parnita-singh-pdfme-week3.md) | ⭐ 1 | Python | 41/100 |
+| 5 | [Jainil26/sloth-sorter](./jainil26-sloth-sorter.md) | ⭐ 1 | Python | 41/100 |
 | 6 | [Shishir2405/shelf](./shishir2405-shelf.md) | ⭐ — | TypeScript | 41/100 |
 | 7 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 37/100 |
 | 8 | [ish1416/SlothSnooze-AI](./ish1416-slothsnooze-ai.md) | ⭐ — | JavaScript | 36/100 |
