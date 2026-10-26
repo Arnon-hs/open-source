@@ -2,7 +2,7 @@
 
 > 
 
-**35 projects** in this category.
+**36 projects** in this category.
 
 ## Projects
 
@@ -40,9 +40,10 @@
 | 30 | [SaifuddinM23/gardenfix](./saifuddinm23-gardenfix.md) | ⭐ — | JavaScript | 30/100 |
 | 31 | [UniTools/recipes](./unitools-recipes.md) | ⭐ — | — | 28/100 |
 | 32 | [0xShugo/audio.cpp](./0xshugo-audio.cpp.md) | ⭐ — | — | 27/100 |
-| 33 | [karpathy/openwakeword](./karpathy-openwakeword.md) | ⭐ — | — | 24/100 |
-| 34 | [Manish010325/slothsort-ai](./manish010325-slothsort-ai.md) | ⭐ — | — | 24/100 |
-| 35 | [unsloth-ai/unsloth](./unsloth-ai-unsloth.md) | ⭐ — | — | 24/100 |
+| 33 | [dkoyi/ScreenshotSeance](./dkoyi-screenshotseance.md) | ⭐ — | — | 24/100 |
+| 34 | [karpathy/openwakeword](./karpathy-openwakeword.md) | ⭐ — | — | 24/100 |
+| 35 | [Manish010325/slothsort-ai](./manish010325-slothsort-ai.md) | ⭐ — | — | 24/100 |
+| 36 | [unsloth-ai/unsloth](./unsloth-ai-unsloth.md) | ⭐ — | — | 24/100 |
 
 ---
 
