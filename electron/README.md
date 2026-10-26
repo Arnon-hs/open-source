@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [maximilianfeix/hexvero](./maximilianfeix-hexvero.md) | ⭐ 5 | TypeScript | 69/100 |
+| 1 | [sonorahq/sonora](./sonorahq-sonora.md) | ⭐ 2.4k | Rust | 67/100 |
 
 ---
 
