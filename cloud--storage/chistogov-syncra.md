@@ -1,6 +1,6 @@
 # Chistogov/syncra
 
-[![Stars](https://img.shields.io/github/stars/Chistogov/syncra?style=flat-square&color=yellow)](https://github.com/Chistogov/syncra/stargazers) [![Forks](https://img.shields.io/github/forks/Chistogov/syncra?style=flat-square&color=blue)](https://github.com/Chistogov/syncra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Chistogov/syncra?style=flat-square&color=yellow)](https://github.com/Chistogov/syncra/stargazers) [![Forks](https://img.shields.io/github/forks/Chistogov/syncra?style=flat-square&color=blue)](https://github.com/Chistogov/syncra/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Syncra - Fast, modern desktop client & GUI for MinIO, AWS S3, Ceph & Yandex Cloud. Sleek Cyberduck & WinSCP alternative. In-place Word/Excel editing (Ctrl+S to S3), visual MinIO IAM admin, Monaco code editor, and instant file preview. Cross-platform.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Chistogov/syncra：Chistogov/syncra may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 73/100 |
+| production | 61/100 |
+| outlook | 66/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

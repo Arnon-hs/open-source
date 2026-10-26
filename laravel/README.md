@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [vicheanath/crudbooster-contrib](./vicheanath-crudbooster-contrib.md) | ⭐ 1 | JavaScript | 45/100 |
-| 2 | [ssekyanzijackson/laravel-agent-web-search](./ssekyanzijackson-laravel-agent-web-search.md) | ⭐ 1 | PHP | 39/100 |
+| 2 | [ssekyanzijackson/laravel-agent-web-search](./ssekyanzijackson-laravel-agent-web-search.md) | ⭐ 1 | PHP | 35/100 |
 
 ---
 

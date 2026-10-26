@@ -8,9 +8,9 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [netizen4-bit/leaddirect-mcp](./netizen4-bit-leaddirect-mcp.md) | ⭐ 2 | Python | 74/100 |
-| 2 | [netizen4-bit/reach_direct-mcp](./netizen4-bit-reach-direct-mcp.md) | ⭐ 2 | Python | 70/100 |
-| 3 | [netizen4-bit/jobs-direct](./netizen4-bit-jobs-direct.md) | ⭐ — | Python | 66/100 |
+| 1 | [netizen4-bit/leaddirect-mcp](./netizen4-bit-leaddirect-mcp.md) | ⭐ 2 | Python | 71/100 |
+| 2 | [netizen4-bit/reach_direct-mcp](./netizen4-bit-reach-direct-mcp.md) | ⭐ 2 | Python | 67/100 |
+| 3 | [netizen4-bit/jobs-direct](./netizen4-bit-jobs-direct.md) | ⭐ — | Python | 63/100 |
 | 4 | [Moha2005269/agentgo](./moha2005269-agentgo.md) | ⭐ 2 | Rust | 62/100 |
 | 5 | [openziti/zrok](./openziti-zrok.md) | ⭐ 4.8k | Go | 60/100 |
 | 6 | [xX-its-amit-Xx/knowledgeispower](./xx-its-amit-xx-knowledgeispower.md) | ⭐ — | Python | 56/100 |

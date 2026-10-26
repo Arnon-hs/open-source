@@ -1,6 +1,6 @@
 # netizen4-bit/leaddirect-mcp
 
-[![Stars](https://img.shields.io/github/stars/netizen4-bit/leaddirect-mcp?style=flat-square&color=yellow)](https://github.com/netizen4-bit/leaddirect-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/netizen4-bit/leaddirect-mcp?style=flat-square&color=blue)](https://github.com/netizen4-bit/leaddirect-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/netizen4-bit/leaddirect-mcp?style=flat-square&color=yellow)](https://github.com/netizen4-bit/leaddirect-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/netizen4-bit/leaddirect-mcp?style=flat-square&color=blue)](https://github.com/netizen4-bit/leaddirect-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > An autonomous Model Context Protocol (MCP) server for scraping B2B leads, finding distributors, and extracting direct contact info.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ netizen4-bit/leaddirect-mcp：netizen4-bit/leaddirect-mcp may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 94/100 |
-| production | 71/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

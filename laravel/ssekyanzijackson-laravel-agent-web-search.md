@@ -1,6 +1,6 @@
 # ssekyanzijackson/laravel-agent-web-search
 
-[![Stars](https://img.shields.io/github/stars/ssekyanzijackson/laravel-agent-web-search?style=flat-square&color=yellow)](https://github.com/ssekyanzijackson/laravel-agent-web-search/stargazers) [![Forks](https://img.shields.io/github/forks/ssekyanzijackson/laravel-agent-web-search?style=flat-square&color=blue)](https://github.com/ssekyanzijackson/laravel-agent-web-search/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ssekyanzijackson/laravel-agent-web-search?style=flat-square&color=yellow)](https://github.com/ssekyanzijackson/laravel-agent-web-search/stargazers) [![Forks](https://img.shields.io/github/forks/ssekyanzijackson/laravel-agent-web-search?style=flat-square&color=blue)](https://github.com/ssekyanzijackson/laravel-agent-web-search/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ ssekyanzijackson/laravel-agent-web-search：ssekyanzijackson/laravel-agent-web-s
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 33/100 |
+| quality | 28/100 |
 | integration | 18/100 |
-| production | 48/100 |
-| outlook | 48/100 |
+| production | 41/100 |
+| outlook | 41/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
