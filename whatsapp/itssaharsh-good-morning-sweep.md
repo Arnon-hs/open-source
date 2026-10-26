@@ -1,0 +1,78 @@
+# itssaharsh/good-morning-sweep
+
+[![Stars](https://img.shields.io/github/stars/itssaharsh/good-morning-sweep?style=flat-square&color=yellow)](https://github.com/itssaharsh/good-morning-sweep/stargazers) [![Forks](https://img.shields.io/github/forks/itssaharsh/good-morning-sweep?style=flat-square&color=blue)](https://github.com/itssaharsh/good-morning-sweep/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+
+> Frees a parent's phone of WhatsApp Good Morning forwards, copies and mistakes, with Gemma 4 running on the family laptop. It reads before it deletes.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Python |
+| 📈 **Score** | 45/100 |
+| 🗓️ **Last push** | 2026-10-26 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+_no topics_
+
+## 🎯 Categories
+
+WhatsApp · image‑classification · local‑AI · data‑privacy · mobile‑automation
+
+## 📝 Summary
+
+### English
+
+itssaharsh/good-morning-sweep: itssaharsh/good-morning-sweep may be useful when its README and activity match a concrete workflow.. Use it for WhatsApp, image‑classification, local‑AI, data‑privacy, mobile‑automation. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+itssaharsh/good-morning-sweep: open-source проект в категориях WhatsApp, image‑classification, local‑AI, data‑privacy, mobile‑automation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+itssaharsh/good-morning-sweep：itssaharsh/good-morning-sweep may be useful when its README and activity match a concrete workflow.。适合用于WhatsApp、image‑classification、local‑AI、data‑privacy、mobile‑automation。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** itssaharsh/good-morning-sweep may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- updated 2026-10-26
+- primary language: Python
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 36/100 |
+| integration | 62/100 |
+| production | 60/100 |
+| outlook | 50/100 |
+| adoption | 0/100 |
+| categoryMatchCount | 500/100 |
+| stars | 0/100 |
+| forks | 0/100 |
+| recency | 100/100 |
+| topics | 0/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-26 · [View on GitHub](https://github.com/itssaharsh/good-morning-sweep) · [← Back to Whatsapp](./README.md)</sub>

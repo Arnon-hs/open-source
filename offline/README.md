@@ -16,8 +16,8 @@
 | 6 | [Shishir2405/shelf](./shishir2405-shelf.md) | ⭐ — | TypeScript | 41/100 |
 | 7 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 37/100 |
 | 8 | [ish1416/SlothSnooze-AI](./ish1416-slothsnooze-ai.md) | ⭐ — | JavaScript | 36/100 |
-| 9 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 36/100 |
-| 10 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 34/100 |
+| 9 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 34/100 |
+| 10 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 33/100 |
 | 11 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 33/100 |
 | 12 | [DhirajB05/HacktoberFest_C2](./dhirajb05-hacktoberfest-c2.md) | ⭐ — | Python | 33/100 |
 | 13 | [Shreyansh00987/Sidequest](./shreyansh00987-sidequest.md) | ⭐ — | TypeScript | 33/100 |
