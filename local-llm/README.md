@@ -14,7 +14,7 @@
 | 4 | [oleg-vdv/sloth-ledger](./oleg-vdv-sloth-ledger.md) | ⭐ — | Python | 43/100 |
 | 5 | [dekita-dev/five-things](./dekita-dev-five-things.md) | ⭐ — | Python | 42/100 |
 | 6 | [C12isme945/pausedock](./c12isme945-pausedock.md) | ⭐ — | Python | 42/100 |
-| 7 | [ohyoseok92/loose-ends-local](./ohyoseok92-loose-ends-local.md) | ⭐ — | Python | 42/100 |
+| 7 | [ohyoseok92/loose-ends-local](./ohyoseok92-loose-ends-local.md) | ⭐ — | Python | 39/100 |
 | 8 | [sank8-2/tidy-sloth](./sank8-2-tidy-sloth.md) | ⭐ — | Python | 39/100 |
 | 9 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
 | 10 | [Abishethvarman/CiteWise](./abishethvarman-citewise.md) | ⭐ — | Python | 36/100 |
