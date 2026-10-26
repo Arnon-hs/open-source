@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [OneClickDBA/harry-performance-scraper](./oneclickdba-harry-performance-scraper.md) | ⭐ 3 | Go | 52/100 |
+| 1 | [pyaroslav/night-shift](./pyaroslav-night-shift.md) | ⭐ — | Python | 42/100 |
 
 ---
 
