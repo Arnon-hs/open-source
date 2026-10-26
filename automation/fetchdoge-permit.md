@@ -1,6 +1,6 @@
 # FetchDoge/permit
 
-[![Stars](https://img.shields.io/github/stars/FetchDoge/permit?style=flat-square&color=yellow)](https://github.com/FetchDoge/permit/stargazers) [![Forks](https://img.shields.io/github/forks/FetchDoge/permit?style=flat-square&color=blue)](https://github.com/FetchDoge/permit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/FetchDoge/permit?style=flat-square&color=yellow)](https://github.com/FetchDoge/permit/stargazers) [![Forks](https://img.shields.io/github/forks/FetchDoge/permit?style=flat-square&color=blue)](https://github.com/FetchDoge/permit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Authority layer between AI agents and PayPal: spend caps, merchant allowlist, expiry, revocation and e-stop, with a hash-chained receipt for every decision. 389 tests.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ FetchDoge/permit：FetchDoge/permit may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 65/100 |
+| production | 57/100 |
+| outlook | 58/100 |
 | adoption | 4/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -2,7 +2,7 @@
 
 > 
 
-**475 projects** in this category.
+**476 projects** in this category.
 
 ## Projects
 
@@ -468,21 +468,22 @@
 | 458 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 45/100 |
 | 459 | [hannah-wright/saas-landing-page-template](./hannah-wright-saas-landing-page-template.md) | ⭐ — | — | 45/100 |
 | 460 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 45/100 |
-| 461 | [nunosilva-dev/letter-generator](./nunosilva-dev-letter-generator.md) | ⭐ — | Java | 43/100 |
-| 462 | [singap2002-code/sheetvault-free-templates](./singap2002-code-sheetvault-free-templates.md) | ⭐ — | — | 43/100 |
-| 463 | [gojko/lights-on-software-factory](./gojko-lights-on-software-factory.md) | ⭐ — | — | 41/100 |
-| 464 | [Shokun123/binance-pay-saas-starter](./shokun123-binance-pay-saas-starter.md) | ⭐ — | — | 41/100 |
-| 465 | [biopoetic/foveon-lab](./biopoetic-foveon-lab.md) | ⭐ — | — | 41/100 |
-| 466 | [launchapp-studio/launchpaywall-ios](./launchapp-studio-launchpaywall-ios.md) | ⭐ — | — | 41/100 |
-| 467 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ — | — | 41/100 |
-| 468 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ — | — | 41/100 |
-| 469 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 41/100 |
-| 470 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 41/100 |
-| 471 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
-| 472 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
-| 473 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
-| 474 | [Kishan324/fitcal-flutter-ui-kit-boilerplate](./kishan324-fitcal-flutter-ui-kit-boilerplate.md) | ⭐ — | Dart | 36/100 |
-| 475 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
+| 461 | [TrinkieYinkie/html-cv-kit](./trinkieyinkie-html-cv-kit.md) | ⭐ — | HTML | 43/100 |
+| 462 | [nunosilva-dev/letter-generator](./nunosilva-dev-letter-generator.md) | ⭐ — | Java | 43/100 |
+| 463 | [singap2002-code/sheetvault-free-templates](./singap2002-code-sheetvault-free-templates.md) | ⭐ — | — | 43/100 |
+| 464 | [gojko/lights-on-software-factory](./gojko-lights-on-software-factory.md) | ⭐ — | — | 41/100 |
+| 465 | [Shokun123/binance-pay-saas-starter](./shokun123-binance-pay-saas-starter.md) | ⭐ — | — | 41/100 |
+| 466 | [biopoetic/foveon-lab](./biopoetic-foveon-lab.md) | ⭐ — | — | 41/100 |
+| 467 | [launchapp-studio/launchpaywall-ios](./launchapp-studio-launchpaywall-ios.md) | ⭐ — | — | 41/100 |
+| 468 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ — | — | 41/100 |
+| 469 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ — | — | 41/100 |
+| 470 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ — | — | 41/100 |
+| 471 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ — | — | 41/100 |
+| 472 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
+| 473 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
+| 474 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
+| 475 | [Kishan324/fitcal-flutter-ui-kit-boilerplate](./kishan324-fitcal-flutter-ui-kit-boilerplate.md) | ⭐ — | Dart | 36/100 |
+| 476 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
 
 ---
 

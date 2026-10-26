@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [asadani/output-contracts](./asadani-output-contracts.md) | ⭐ — | Python | 42/100 |
+| 1 | [asadani/output-contracts](./asadani-output-contracts.md) | ⭐ — | Python | 39/100 |
 
 ---
 

@@ -63,18 +63,18 @@ mfussenegger/nvim-dap：mfussenegger/nvim-dap may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 72/100 |
-| integration | 62/100 |
-| production | 68/100 |
-| outlook | 71/100 |
-| adoption | 76/100 |
-| categoryMatchCount | 0/100 |
-| stars | 82/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| stars | 82/100 |
 | topics | 50/100 |
+| outlook | 71/100 |
+| quality | 72/100 |
+| recency | 80/100 |
+| adoption | 76/100 |
+| production | 68/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
