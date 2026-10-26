@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42340** |
+| **Projects** | **42344** |
 | **Categories** | **609** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -25,7 +25,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 16788 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4516 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2849 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2850 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1456 | [Browse →](./automation/) |
@@ -38,8 +38,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 620 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 612 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 547 | [Browse →](./database/) |
+| 🏷️ **Video-editing** | 520 | [Browse →](./video-editing/) |
 | 🚀 **DevOps & Infra** | 520 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 519 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 463 | [Browse →](./templates/) |
 | 🔐 **Security** | 440 | [Browse →](./security/) |
 | 🏷️ **Communication** | 436 | [Browse →](./communication/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 210 | [Browse →](./trading/) |
 | ✨ **Design** | 181 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 152 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 128 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 129 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 126 | [Browse →](./vertical-video/) |
 | 🏷️ **Local-ai** | 36 | [Browse →](./local-ai/) |
 | 🏷️ **Open-source** | 36 | [Browse →](./open-source/) |
@@ -75,13 +75,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Kubernetes** | 8 | [Browse →](./kubernetes/) |
 | 🏷️ **Php** | 8 | [Browse →](./php/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
+| 🏷️ **Coding-agents** | 7 | [Browse →](./coding-agents/) |
 | 🏷️ **Git** | 7 | [Browse →](./git/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Hacktoberfest** | 7 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Rust** | 7 | [Browse →](./rust/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **Nextjs** | 6 | [Browse →](./nextjs/) |
-| 🏷️ **Coding-agents** | 6 | [Browse →](./coding-agents/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Android** | 6 | [Browse →](./android/) |
 | 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
@@ -224,6 +224,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Openagentforum** | 1 | [Browse →](./openagentforum/) |
 | 🏷️ **Newsletter** | 1 | [Browse →](./newsletter/) |
 | 🏷️ **Document-analysis** | 1 | [Browse →](./document-analysis/) |
 | 🏷️ **Healthcare** | 1 | [Browse →](./healthcare/) |
@@ -398,7 +399,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |
 | 🏷️ **Proxy** | 1 | [Browse →](./proxy/) |
 | 🏷️ **Financial** | 1 | [Browse →](./financial/) |
-| 🏷️ **Usb** | 1 | [Browse →](./usb/) |
 | 🏷️ **Contentrepurposing** | 1 | [Browse →](./contentrepurposing/) |
 | 🏷️ **Captioning** | 1 | [Browse →](./captioning/) |
 | 🏷️ **Financial-intelligence** | 1 | [Browse →](./financial-intelligence/) |

@@ -1,6 +1,6 @@
 # runout77/test_contrek
 
-[![Stars](https://img.shields.io/github/stars/runout77/test_contrek?style=flat-square&color=yellow)](https://github.com/runout77/test_contrek/stargazers) [![Forks](https://img.shields.io/github/forks/runout77/test_contrek?style=flat-square&color=blue)](https://github.com/runout77/test_contrek/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/runout77/test_contrek?style=flat-square&color=yellow)](https://github.com/runout77/test_contrek/stargazers) [![Forks](https://img.shields.io/github/forks/runout77/test_contrek?style=flat-square&color=blue)](https://github.com/runout77/test_contrek/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Contrek Benchmark & Techniques Suite
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ runout77/test_contrek：runout77/test_contrek may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 53/100 |
+| production | 50/100 |
+| outlook | 46/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 500/100 |
 | stars | 15/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
