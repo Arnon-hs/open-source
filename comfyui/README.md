@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Sergeypruddkyi/ComfyUI-Terminal-Log](./sergeypruddkyi-comfyui-terminal-log.md) | ⭐ 1 | Python | 40/100 |
-| 2 | [comfyanonymous/ComfyUI](./comfyanonymous-comfyui.md) | ⭐ — | — | 24/100 |
+| 1 | [comfyanonymous/ComfyUI-for-Nuke](./comfyanonymous-comfyui-for-nuke.md) | ⭐ — | — | 24/100 |
 
 ---
 

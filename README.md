@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42295** |
-| **Categories** | **604** |
+| **Projects** | **42300** |
+| **Categories** | **605** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16773 | [Browse →](./misc/) |
+| 📦 **Misc** | 16774 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4514 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2845 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2846 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1454 | [Browse →](./automation/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 612 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 547 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 520 | [Browse →](./devopsinfra/) |
-| 🏷️ **Video-editing** | 518 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 519 | [Browse →](./video-editing/) |
 | 🏷️ **Templates** | 463 | [Browse →](./templates/) |
 | 🔐 **Security** | 440 | [Browse →](./security/) |
 | 🏷️ **Communication** | 435 | [Browse →](./communication/) |
@@ -67,8 +67,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 14 | [Browse →](./claude-code/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 14 | [Browse →](./ci/) |
+| 🏷️ **Macos** | 11 | [Browse →](./macos/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
-| 🏷️ **Macos** | 10 | [Browse →](./macos/) |
 | 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
 | 🏷️ **Kubernetes** | 8 | [Browse →](./kubernetes/) |
@@ -223,6 +223,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Comfyui** | 1 | [Browse →](./comfyui/) |
 | 🏷️ **Android-auto** | 1 | [Browse →](./android-auto/) |
 | 🏷️ **Godot** | 1 | [Browse →](./godot/) |
 | 🏷️ **Oracle** | 1 | [Browse →](./oracle/) |

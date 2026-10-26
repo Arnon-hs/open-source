@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [miilo-ai/miilo-release-caretaker](./miilo-ai-miilo-release-caretaker.md) | ⭐ — | TypeScript | 46/100 |
+| 1 | [miilo-ai/miilo-release-caretaker](./miilo-ai-miilo-release-caretaker.md) | ⭐ — | TypeScript | 43/100 |
 
 ---
 

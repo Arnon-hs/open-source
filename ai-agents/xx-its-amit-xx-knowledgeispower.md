@@ -1,6 +1,6 @@
 # xX-its-amit-Xx/knowledgeispower
 
-[![Stars](https://img.shields.io/github/stars/xX-its-amit-Xx/knowledgeispower?style=flat-square&color=yellow)](https://github.com/xX-its-amit-Xx/knowledgeispower/stargazers) [![Forks](https://img.shields.io/github/forks/xX-its-amit-Xx/knowledgeispower?style=flat-square&color=blue)](https://github.com/xX-its-amit-Xx/knowledgeispower/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/xX-its-amit-Xx/knowledgeispower?style=flat-square&color=yellow)](https://github.com/xX-its-amit-Xx/knowledgeispower/stargazers) [![Forks](https://img.shields.io/github/forks/xX-its-amit-Xx/knowledgeispower?style=flat-square&color=blue)](https://github.com/xX-its-amit-Xx/knowledgeispower/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Winning OSI Team ;) Proteins that are physically built into the same machine rise and fall together. We give AI agents that knowledge and test whether it helps fill in missing single-cell measurements. Curated protein-complex priors for single-cell proteomics, as MCP tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ xX-its-amit-Xx/knowledgeispower：xX-its-amit-Xx/knowledgeispower may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 54/100 |
+| outlook | 54/100 |
 | adoption | 6/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
