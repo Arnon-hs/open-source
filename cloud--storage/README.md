@@ -538,8 +538,8 @@
 | 528 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ — | — | 45/100 |
 | 529 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ — | — | 45/100 |
 | 530 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 531 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 532 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
+| 531 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
+| 532 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 533 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ — | — | 45/100 |
 | 534 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ — | — | 45/100 |
 | 535 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ — | — | 45/100 |

@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42365** |
+| **Projects** | **42368** |
 | **Categories** | **608** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,16 +23,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16807 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4518 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2850 | [Browse →](./mcp/) |
+| 📦 **Misc** | 16809 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4519 | [Browse →](./aiml/) |
+| 🏷️ **Mcp** | 2851 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1456 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 946 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 892 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 794 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 701 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 702 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 654 | [Browse →](./networking/) |
 | 📱 **Mobile** | 646 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 620 | [Browse →](./knowledgerag/) |
@@ -60,13 +60,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 33 | [Browse →](./offline/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
+| 🏷️ **Llm** | 23 | [Browse →](./llm/) |
 | 🏷️ **Privacy** | 22 | [Browse →](./privacy/) |
 | 🏷️ **Local-llm** | 22 | [Browse →](./local-llm/) |
-| 🏷️ **Llm** | 22 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
-| 🏷️ **Ci** | 14 | [Browse →](./ci/) |
-| 🏷️ **Claude-code** | 14 | [Browse →](./claude-code/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
+| 🏷️ **Claude-code** | 13 | [Browse →](./claude-code/) |
+| 🏷️ **Ci** | 12 | [Browse →](./ci/) |
 | 🏷️ **Macos** | 12 | [Browse →](./macos/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
@@ -224,6 +224,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Mixture-of-experts** | 1 | [Browse →](./mixture-of-experts/) |
 | 🏷️ **Samsung** | 1 | [Browse →](./samsung/) |
 | 🏷️ **Openagentforum** | 1 | [Browse →](./openagentforum/) |
 | 🏷️ **Newsletter** | 1 | [Browse →](./newsletter/) |
@@ -397,7 +398,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React** | 1 | [Browse →](./react/) |
 | 🏷️ **Google-calendar** | 1 | [Browse →](./google-calendar/) |
 | 🏷️ **Static-site** | 1 | [Browse →](./static-site/) |
-| 🏷️ **Systems-programming** | 1 | [Browse →](./systems-programming/) |
 | 🏷️ **Contentrepurposing** | 1 | [Browse →](./contentrepurposing/) |
 | 🏷️ **Captioning** | 1 | [Browse →](./captioning/) |
 | 🏷️ **Financial-intelligence** | 1 | [Browse →](./financial-intelligence/) |

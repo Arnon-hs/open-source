@@ -752,8 +752,8 @@
 | 742 | [inducer/relate](./inducer-relate.md) | ⭐ 423 | Python | 56/100 |
 | 743 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 476 | Go | 56/100 |
 | 744 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 197 | TypeScript | 56/100 |
-| 745 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
-| 746 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
+| 745 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
+| 746 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
 | 747 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 682 | Rust | 56/100 |
 | 748 | [nodejs/undici](./nodejs-undici.md) | ⭐ 7.6k | JavaScript | 56/100 |
 | 749 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 350 | Go | 56/100 |
