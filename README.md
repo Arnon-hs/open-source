@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42285** |
+| **Projects** | **42291** |
 | **Categories** | **603** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16771 | [Browse →](./misc/) |
+| 📦 **Misc** | 16772 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4512 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2845 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
@@ -32,7 +32,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 946 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 892 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 793 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 700 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 701 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 654 | [Browse →](./networking/) |
 | 📱 **Mobile** | 646 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 620 | [Browse →](./knowledgerag/) |
@@ -61,12 +61,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 32 | [Browse →](./offline/) |
 | 🏷️ **Llm** | 22 | [Browse →](./llm/) |
-| 🏷️ **Privacy** | 20 | [Browse →](./privacy/) |
+| 🏷️ **Privacy** | 21 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 20 | [Browse →](./local-llm/) |
+| 🏷️ **Claude-code** | 14 | [Browse →](./claude-code/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 14 | [Browse →](./ci/) |
-| 🏷️ **Claude-code** | 13 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Macos** | 10 | [Browse →](./macos/) |
 | 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
@@ -91,6 +91,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 5 | [Browse →](./offline-ai/) |
 | 🏷️ **Governance** | 5 | [Browse →](./governance/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
+| 🏷️ **Ai-security** | 4 | [Browse →](./ai-security/) |
 | 🏷️ **Agent** | 4 | [Browse →](./agent/) |
 | 🏷️ **Chrome-extension** | 4 | [Browse →](./chrome-extension/) |
 | 🏷️ **Api** | 4 | [Browse →](./api/) |
@@ -181,7 +182,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Matrixos** | 2 | [Browse →](./matrixos/) |
 | 🏷️ **Lease-management** | 2 | [Browse →](./lease-management/) |
 | 🏷️ **Github-copilot** | 2 | [Browse →](./github-copilot/) |
-| 🏷️ **Resume-analysis** | 2 | [Browse →](./resume-analysis/) |
 | 🏷️ **Cybersecurity** | 2 | [Browse →](./cybersecurity/) |
 | 🏷️ **Secondhand** | 2 | [Browse →](./secondhand/) |
 | 🏷️ **Secret-scanning** | 2 | [Browse →](./secret-scanning/) |
@@ -223,6 +223,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Godot** | 1 | [Browse →](./godot/) |
 | 🏷️ **Oracle** | 1 | [Browse →](./oracle/) |
 | 🏷️ **Website-research** | 1 | [Browse →](./website-research/) |
 | 🏷️ **Opentelemetry** | 1 | [Browse →](./opentelemetry/) |
@@ -344,7 +345,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Pc-engine** | 1 | [Browse →](./pc-engine/) |
 | 🏷️ **Aiax** | 1 | [Browse →](./aiax/) |
 | 🏷️ **Postquantum** | 1 | [Browse →](./postquantum/) |
-| 🏷️ **Ai-security** | 1 | [Browse →](./ai-security/) |
 | 🏷️ **Defi** | 1 | [Browse →](./defi/) |
 | 🏷️ **Bytechef** | 1 | [Browse →](./bytechef/) |
 | 🏷️ **Human-in-the-loop** | 1 | [Browse →](./human-in-the-loop/) |
@@ -396,7 +396,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Captioning** | 1 | [Browse →](./captioning/) |
 | 🏷️ **Financial-intelligence** | 1 | [Browse →](./financial-intelligence/) |
 | 🏷️ **Testing** | 1 | [Browse →](./testing/) |
-| 🏷️ **Pos** | 1 | [Browse →](./pos/) |
+| 🏷️ **Resume-analysis** | 1 | [Browse →](./resume-analysis/) |
 | 🏷️ **Whatsapp-bot** | 1 | [Browse →](./whatsapp-bot/) |
 | 🏷️ **Photography** | 1 | [Browse →](./photography/) |
 | 🏷️ **Invoice-processing** | 1 | [Browse →](./invoice-processing/) |
