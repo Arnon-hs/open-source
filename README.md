@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42740** |
+| **Projects** | **42744** |
 | **Categories** | **515** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,15 +23,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17084 | [Browse →](./misc/) |
+| 📦 **Misc** | 17087 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4583 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2887 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2399 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1601 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1484 | [Browse →](./automation/) |
-| ⚙️ **Backend** | 955 | [Browse →](./backend/) |
+| ⚙️ **Backend** | 956 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 899 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 811 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 812 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 710 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 663 | [Browse →](./networking/) |
 | 📱 **Mobile** | 656 | [Browse →](./mobile/) |
@@ -109,7 +109,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude** | 3 | [Browse →](./claude/) |
 | 🏷️ **Spring-boot** | 3 | [Browse →](./spring-boot/) |
 | 🏷️ **Cli** | 3 | [Browse →](./cli/) |
-| 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
@@ -170,6 +169,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Node** | 2 | [Browse →](./node/) |
 | 🏷️ **Net** | 2 | [Browse →](./net/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
+| 🏷️ **Windows** | 2 | [Browse →](./windows/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
 | 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
@@ -193,6 +193,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Logistics** | 1 | [Browse →](./logistics/) |
 | 🏷️ **Bun** | 1 | [Browse →](./bun/) |
 | 🏷️ **Osint** | 1 | [Browse →](./osint/) |
 | 🏷️ **Ontology** | 1 | [Browse →](./ontology/) |
@@ -268,7 +269,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Excalidraw** | 1 | [Browse →](./excalidraw/) |
 | 🏷️ **Browser-game** | 1 | [Browse →](./browser-game/) |
 | 🏷️ **Cost-optimization** | 1 | [Browse →](./cost-optimization/) |
-| 🏷️ **Stablecoin** | 1 | [Browse →](./stablecoin/) |
 | 🏷️ **Alarm** | 1 | [Browse →](./alarm/) |
 | 🏷️ **On-premise** | 1 | [Browse →](./on-premise/) |
 | 🏷️ **Ai-detection** | 1 | [Browse →](./ai-detection/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sajjadcodes/baloot-neomorphic-ui](./sajjadcodes-baloot-neomorphic-ui.md) | ⭐ 1 | TypeScript | 43/100 |
+| 1 | [sajjadcodes/baloot-neomorphic-ui](./sajjadcodes-baloot-neomorphic-ui.md) | ⭐ 1 | TypeScript | 40/100 |
 
 ---
 

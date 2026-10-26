@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [marcosblg/certscope](./marcosblg-certscope.md) | ⭐ 1 | HTML | 45/100 |
+| 1 | [marcosblg/certscope](./marcosblg-certscope.md) | ⭐ 1 | HTML | 42/100 |
 
 ---
 
