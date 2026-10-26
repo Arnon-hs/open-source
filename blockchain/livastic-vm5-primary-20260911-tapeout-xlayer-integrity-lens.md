@@ -1,6 +1,6 @@
 # livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens
 
-[![Stars](https://img.shields.io/github/stars/livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens?style=flat-square&color=yellow)](https://github.com/livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens/stargazers) [![Forks](https://img.shields.io/github/forks/livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens?style=flat-square&color=blue)](https://github.com/livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens?style=flat-square&color=yellow)](https://github.com/livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens/stargazers) [![Forks](https://img.shields.io/github/forks/livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens?style=flat-square&color=blue)](https://github.com/livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Free read-only X Layer TapeOut contract, factory, market and CPU onchain evidence; block-pinned public RPC. Optional 0.005 Base USDC x402 JSON API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ livastic-vm5-primary-20260911/tapeout-xlayer-integrity-lens：livastic-vm5-prima
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # thinhledev/simem
 
-[![Stars](https://img.shields.io/github/stars/thinhledev/simem?style=flat-square&color=yellow)](https://github.com/thinhledev/simem/stargazers) [![Forks](https://img.shields.io/github/forks/thinhledev/simem?style=flat-square&color=blue)](https://github.com/thinhledev/simem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thinhledev/simem?style=flat-square&color=yellow)](https://github.com/thinhledev/simem/stargazers) [![Forks](https://img.shields.io/github/forks/thinhledev/simem?style=flat-square&color=blue)](https://github.com/thinhledev/simem/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > simem — Super Intelligence Memory for AI coding agents. Local project memory shared across Claude Code, Codex and Cursor (every account, every worktree), and fewer tokens per session.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ thinhledev/simem：thinhledev/simem may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 94/100 |
-| production | 71/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

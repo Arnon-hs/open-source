@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [agenthof/agenthof](./agenthof-agenthof.md) | ⭐ — | Go | 58/100 |
+| 1 | [agenthof/agenthof](./agenthof-agenthof.md) | ⭐ — | Go | 55/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42291** |
-| **Categories** | **603** |
+| **Projects** | **42294** |
+| **Categories** | **604** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 16772 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4512 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4514 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2845 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 210 | [Browse →](./trading/) |
 | ✨ **Design** | 180 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 152 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 128 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 127 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 126 | [Browse →](./vertical-video/) |
 | 🏷️ **Open-source** | 36 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 35 | [Browse →](./ai-agents/) |
@@ -112,6 +112,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Fileorganizer** | 3 | [Browse →](./fileorganizer/) |
 | 🏷️ **Voice-control** | 3 | [Browse →](./voice-control/) |
 | 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
 | 🏷️ **Spring-boot** | 3 | [Browse →](./spring-boot/) |
@@ -146,7 +147,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Postgres** | 2 | [Browse →](./postgres/) |
 | 🏷️ **Commit-message-generation** | 2 | [Browse →](./commit-message-generation/) |
 | 🏷️ **Raspberry-pi** | 2 | [Browse →](./raspberry-pi/) |
-| 🏷️ **Fileorganizer** | 2 | [Browse →](./fileorganizer/) |
 | 🏷️ **Ai-feedback** | 2 | [Browse →](./ai-feedback/) |
 | 🏷️ **Java** | 2 | [Browse →](./java/) |
 | 🏷️ **File-management** | 2 | [Browse →](./file-management/) |
@@ -223,6 +223,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Android-auto** | 1 | [Browse →](./android-auto/) |
 | 🏷️ **Godot** | 1 | [Browse →](./godot/) |
 | 🏷️ **Oracle** | 1 | [Browse →](./oracle/) |
 | 🏷️ **Website-research** | 1 | [Browse →](./website-research/) |
