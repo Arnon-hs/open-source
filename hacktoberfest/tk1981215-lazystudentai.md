@@ -1,6 +1,6 @@
 # tk1981215/LazyStudentAI
 
-[![Stars](https://img.shields.io/github/stars/tk1981215/LazyStudentAI?style=flat-square&color=yellow)](https://github.com/tk1981215/LazyStudentAI/stargazers) [![Forks](https://img.shields.io/github/forks/tk1981215/LazyStudentAI?style=flat-square&color=blue)](https://github.com/tk1981215/LazyStudentAI/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tk1981215/LazyStudentAI?style=flat-square&color=yellow)](https://github.com/tk1981215/LazyStudentAI/stargazers) [![Forks](https://img.shields.io/github/forks/tk1981215/LazyStudentAI?style=flat-square&color=blue)](https://github.com/tk1981215/LazyStudentAI/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source AI study assistant that transforms study notes into simple summaries, viva questions, flashcards, and revision checklists using open-weight language models. Built with Python and Google Colab to make studying easier and save time.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ tk1981215/LazyStudentAI：tk1981215/LazyStudentAI may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 50/100 |
+| production | 53/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -63,18 +63,18 @@ Chistogov/syncra：Chistogov/syncra may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 48/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 66/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 48/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 61/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

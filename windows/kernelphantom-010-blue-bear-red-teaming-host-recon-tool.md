@@ -1,6 +1,6 @@
 # KernelPhantom-010/blue-bear-Red-Teaming-Host-Recon-Tool
 
-[![Stars](https://img.shields.io/github/stars/KernelPhantom-010/blue-bear-Red-Teaming-Host-Recon-Tool?style=flat-square&color=yellow)](https://github.com/KernelPhantom-010/blue-bear-Red-Teaming-Host-Recon-Tool/stargazers) [![Forks](https://img.shields.io/github/forks/KernelPhantom-010/blue-bear-Red-Teaming-Host-Recon-Tool?style=flat-square&color=blue)](https://github.com/KernelPhantom-010/blue-bear-Red-Teaming-Host-Recon-Tool/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KernelPhantom-010/blue-bear-Red-Teaming-Host-Recon-Tool?style=flat-square&color=yellow)](https://github.com/KernelPhantom-010/blue-bear-Red-Teaming-Host-Recon-Tool/stargazers) [![Forks](https://img.shields.io/github/forks/KernelPhantom-010/blue-bear-Red-Teaming-Host-Recon-Tool?style=flat-square&color=blue)](https://github.com/KernelPhantom-010/blue-bear-Red-Teaming-Host-Recon-Tool/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight C++ recon tool for red team engagements. Displays a dashboard of key host and network information — logged-in users, domain name, OS details — to speed up initial reconnaissance during assessments. More enumeration features planned for future releases.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ KernelPhantom-010/blue-bear-Red-Teaming-Host-Recon-Tool：KernelPhantom-010/blue
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 68/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
