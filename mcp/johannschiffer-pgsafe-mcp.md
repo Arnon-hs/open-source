@@ -1,6 +1,6 @@
 # johannschiffer/pgsafe-mcp
 
-[![Stars](https://img.shields.io/github/stars/johannschiffer/pgsafe-mcp?style=flat-square&color=yellow)](https://github.com/johannschiffer/pgsafe-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/johannschiffer/pgsafe-mcp?style=flat-square&color=blue)](https://github.com/johannschiffer/pgsafe-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johannschiffer/pgsafe-mcp?style=flat-square&color=yellow)](https://github.com/johannschiffer/pgsafe-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/johannschiffer/pgsafe-mcp?style=flat-square&color=blue)](https://github.com/johannschiffer/pgsafe-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-trust PostgreSQL/SQLite guard, live PII masking, zero-downtime migration checks
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -57,22 +57,22 @@ johannschiffer/pgsafe-mcp：johannschiffer/pgsafe-mcp helps connect AI assistant
 - primary language: Python
 - 7 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 66/100 |
+| production | 58/100 |
+| outlook | 59/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

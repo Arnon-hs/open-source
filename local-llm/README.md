@@ -18,8 +18,8 @@
 | 8 | [sank8-2/tidy-sloth](./sank8-2-tidy-sloth.md) | ⭐ — | Python | 39/100 |
 | 9 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
 | 10 | [Abishethvarman/CiteWise](./abishethvarman-citewise.md) | ⭐ — | Python | 36/100 |
-| 11 | [Karishma-Das/porchlight](./karishma-das-porchlight.md) | ⭐ — | Python | 36/100 |
-| 12 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
+| 11 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
+| 12 | [Karishma-Das/porchlight](./karishma-das-porchlight.md) | ⭐ — | Python | 33/100 |
 | 13 | [sleepyaishik69/ChromaWild](./sleepyaishik69-chromawild.md) | ⭐ — | TypeScript | 33/100 |
 | 14 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 33/100 |
 | 15 | [block/goose](./block-goose.md) | ⭐ — | — | 27/100 |
