@@ -259,8 +259,8 @@
 | 249 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 406 | HTML | 50/100 |
 | 250 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 500 | — | 50/100 |
 | 251 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 122 | Rust | 50/100 |
-| 252 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 253 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 252 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 253 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
 | 254 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
 | 255 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 272 | Rust | 50/100 |
 | 256 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 511 | JavaScript | 50/100 |
@@ -441,8 +441,8 @@
 | 431 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 127 | Rust | 38/100 |
 | 432 | [SertaCanbey/IDSignal](./sertacanbey-idsignal.md) | ⭐ 1 | JavaScript | 37/100 |
 | 433 | [TemujinCalidius/FediHome](./temujincalidius-fedihome.md) | ⭐ — | — | 37/100 |
-| 434 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ — | — | 37/100 |
-| 435 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 434 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 435 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ — | — | 37/100 |
 | 436 | [jaredhanson/passport](./jaredhanson-passport.md) | ⭐ — | — | 37/100 |
 | 437 | [IWEBai/railo-action](./iwebai-railo-action.md) | ⭐ — | — | 36/100 |
 | 438 | [Tetra4ge/GitHygiene](./tetra4ge-githygiene.md) | ⭐ — | JavaScript | 36/100 |

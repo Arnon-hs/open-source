@@ -14,7 +14,7 @@
 | 4 | [rytjy/slothaudit](./rytjy-slothaudit.md) | ⭐ — | Python | 46/100 |
 | 5 | [Ton-Llop/Jaull](./ton-llop-jaull.md) | ⭐ 3 | Python | 46/100 |
 | 6 | [saixiong/nightscout](./saixiong-nightscout.md) | ⭐ — | Python | 42/100 |
-| 7 | [CodersAcademy006/graphsloth](./codersacademy006-graphsloth.md) | ⭐ — | HTML | 39/100 |
+| 7 | [CodersAcademy006/graphsloth](./codersacademy006-graphsloth.md) | ⭐ — | HTML | 36/100 |
 | 8 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 33/100 |
 | 9 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 32/100 |
 | 10 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 30/100 |

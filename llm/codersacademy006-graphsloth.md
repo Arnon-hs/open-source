@@ -1,6 +1,6 @@
 # CodersAcademy006/graphsloth
 
-[![Stars](https://img.shields.io/github/stars/CodersAcademy006/graphsloth?style=flat-square&color=yellow)](https://github.com/CodersAcademy006/graphsloth/stargazers) [![Forks](https://img.shields.io/github/forks/CodersAcademy006/graphsloth?style=flat-square&color=blue)](https://github.com/CodersAcademy006/graphsloth/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CodersAcademy006/graphsloth?style=flat-square&color=yellow)](https://github.com/CodersAcademy006/graphsloth/stargazers) [![Forks](https://img.shields.io/github/forks/CodersAcademy006/graphsloth?style=flat-square&color=blue)](https://github.com/CodersAcademy006/graphsloth/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > Graphify + local Gemma 4 (+ Temporal) audit of abandoned project folders, Hacktoberfest Week 3
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ LLM · Git · AST · Temporal · Open Source · Privacy · Automation
 
 ### English
 
-CodersAcademy006/graphsloth: CodersAcademy006/graphsloth may be useful when its README and activity match a concrete workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CodersAcademy006/graphsloth: CodersAcademy006/graphsloth may be useful when its README and activity match a concrete workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-CodersAcademy006/graphsloth: open-source проект в категориях LLM, Git, AST, Temporal, Open Source, Privacy, Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+CodersAcademy006/graphsloth: open-source проект в категориях LLM, Git, AST, Temporal, Open Source, Privacy, Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-CodersAcademy006/graphsloth：CodersAcademy006/graphsloth may be useful when its README and activity match a concrete workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CodersAcademy006/graphsloth：CodersAcademy006/graphsloth may be useful when its README and activity match a concrete workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ CodersAcademy006/graphsloth：CodersAcademy006/graphsloth may be useful when its
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ CodersAcademy006/graphsloth：CodersAcademy006/graphsloth may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 50/100 |
+| production | 49/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

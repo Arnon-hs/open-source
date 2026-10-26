@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [Panth977/code-shell](./panth977-code-shell.md) | ⭐ — | Svelte | 45/100 |
-| 2 | [Panth977/on-premise-manager](./panth977-on-premise-manager.md) | ⭐ — | TypeScript | 39/100 |
+| 2 | [Panth977/on-premise-manager](./panth977-on-premise-manager.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 
