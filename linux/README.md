@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nyharena25/0xTsoa](./nyharena25-0xtsoa.md) | ⭐ 2 | Astro | 47/100 |
-| 2 | [mikachu/keyflip](./mikachu-keyflip.md) | ⭐ — | — | 24/100 |
+| 1 | [mikachu/keyflip](./mikachu-keyflip.md) | ⭐ — | — | 24/100 |
 
 ---
 

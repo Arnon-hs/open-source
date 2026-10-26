@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · Server Card · CORS · AI Catalog · CI · Open Source
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Wolfe-Jam/mcp-server-card-check: Wolfe-Jam/mcp-server-card-check helps connect A
 
 ### Русский
 
-Wolfe-Jam/mcp-server-card-check: open-source проект в категориях MCP, Server Card, CORS, AI Catalog, CI, Open Source. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Wolfe-Jam/mcp-server-card-check: open-source проект в категориях MCP, AI/ML, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ Wolfe-Jam/mcp-server-card-check：Wolfe-Jam/mcp-server-card-check helps connect 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 42/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 54/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 600/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 75/100 |
+| outlook | 54/100 |
+| quality | 42/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

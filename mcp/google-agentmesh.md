@@ -65,18 +65,18 @@ google/agentmesh：google/agentmesh helps connect AI assistants to real tools an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 74/100 |
-| integration | 62/100 |
-| production | 69/100 |
-| outlook | 75/100 |
-| adoption | 63/100 |
-| categoryMatchCount | 400/100 |
-| stars | 65/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| stars | 65/100 |
 | topics | 100/100 |
+| outlook | 75/100 |
+| quality | 74/100 |
+| recency | 80/100 |
+| adoption | 63/100 |
+| production | 69/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-automation · scraping · startup outreach · contact extraction
+Automation · Marketing
 
 ## 📝 Summary
 
 ### English
 
-mamangwarkop/startup-leads-free-sample: mamangwarkop/startup-leads-free-sample may be useful when its README and activity match a concrete workflow.. Use it for automation, scraping, startup outreach, contact extraction. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mamangwarkop/startup-leads-free-sample: mamangwarkop/startup-leads-free-sample helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-mamangwarkop/startup-leads-free-sample: open-source проект в категориях automation, scraping, startup outreach, contact extraction. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mamangwarkop/startup-leads-free-sample: open-source проект в категориях Automation, Marketing. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-mamangwarkop/startup-leads-free-sample：mamangwarkop/startup-leads-free-sample may be useful when its README and activity match a concrete workflow.。适合用于automation、scraping、startup outreach、contact extraction。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mamangwarkop/startup-leads-free-sample：mamangwarkop/startup-leads-free-sample helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** mamangwarkop/startup-leads-free-sample may be useful when its README and activity match a concrete workflow.
+**Value:** mamangwarkop/startup-leads-free-sample helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -61,18 +63,18 @@ mamangwarkop/startup-leads-free-sample：mamangwarkop/startup-leads-free-sample 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 57/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 400/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

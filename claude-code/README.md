@@ -2,7 +2,7 @@
 
 > 
 
-**13 projects** in this category.
+**10 projects** in this category.
 
 ## Projects
 
@@ -12,15 +12,12 @@
 | 2 | [dvwinck/capybara-toolbox](./dvwinck-capybara-toolbox.md) | ⭐ 31 | Python | 67/100 |
 | 3 | [Gerrux/claude-load](./gerrux-claude-load.md) | ⭐ 1 | TypeScript | 67/100 |
 | 4 | [SamStull9007/limitcast](./samstull9007-limitcast.md) | ⭐ — | JavaScript | 63/100 |
-| 5 | [itw-creative-works/workkit](./itw-creative-works-workkit.md) | ⭐ 4 | JavaScript | 62/100 |
-| 6 | [JamshidS/aiset](./jamshids-aiset.md) | ⭐ 10 | Python | 60/100 |
-| 7 | [team-humaki/token-diet-lite](./team-humaki-token-diet-lite.md) | ⭐ — | Python | 55/100 |
-| 8 | [KashifManzer/clear-caption](./kashifmanzer-clear-caption.md) | ⭐ — | TypeScript | 50/100 |
-| 9 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |
-| 10 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 30/100 |
-| 11 | [volvox-ltd/claude-docs-watch](./volvox-ltd-claude-docs-watch.md) | ⭐ — | — | 24/100 |
-| 12 | [uehara/context-drop](./uehara-context-drop.md) | ⭐ — | — | 24/100 |
-| 13 | [anthropic/codex](./anthropic-codex.md) | ⭐ — | — | 24/100 |
+| 5 | [team-humaki/token-diet-lite](./team-humaki-token-diet-lite.md) | ⭐ — | Python | 55/100 |
+| 6 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |
+| 7 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 30/100 |
+| 8 | [volvox-ltd/claude-docs-watch](./volvox-ltd-claude-docs-watch.md) | ⭐ — | — | 24/100 |
+| 9 | [uehara/context-drop](./uehara-context-drop.md) | ⭐ — | — | 24/100 |
+| 10 | [anthropic/codex](./anthropic-codex.md) | ⭐ — | — | 24/100 |
 
 ---
 

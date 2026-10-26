@@ -63,18 +63,18 @@ livastic-vm2-primary-20260911/defi-yield-switch：livastic-vm2-primary-20260911/
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 52/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 44/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

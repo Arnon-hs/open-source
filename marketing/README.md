@@ -2,7 +2,7 @@
 
 > 
 
-**32 projects** in this category.
+**35 projects** in this category.
 
 ## Projects
 
@@ -21,25 +21,28 @@
 | 11 | [dvygolov/YellowTDS](./dvygolov-yellowtds.md) | ⭐ 358 | JavaScript | 53/100 |
 | 12 | [Yoast/wordpress-seo](./yoast-wordpress-seo.md) | ⭐ 1.9k | JavaScript | 53/100 |
 | 13 | [angelotc/antigravity-seo](./angelotc-antigravity-seo.md) | ⭐ — | — | 51/100 |
-| 14 | [lix-project/lix](./lix-project-lix.md) | ⭐ 607 | C++ | 50/100 |
-| 15 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 478 | — | 48/100 |
-| 16 | [neodevpro/neodevhost](./neodevpro-neodevhost.md) | ⭐ 1.3k | Adblock Filter List | 48/100 |
-| 17 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 1.7k | JavaScript | 47/100 |
-| 18 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 47/100 |
-| 19 | [crevas/Apple-Ads-CLI](./crevas-apple-ads-cli.md) | ⭐ — | — | 45/100 |
-| 20 | [othy19904-eng/conversionguard](./othy19904-eng-conversionguard.md) | ⭐ — | Python | 42/100 |
-| 21 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 42/100 |
-| 22 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ — | — | 42/100 |
-| 23 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ — | — | 42/100 |
-| 24 | [zachbrown29/lintel-marketing-playbooks](./zachbrown29-lintel-marketing-playbooks.md) | ⭐ — | — | 41/100 |
-| 25 | [clicksdynastyincali/local-seo-lint](./clicksdynastyincali-local-seo-lint.md) | ⭐ — | — | 41/100 |
-| 26 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 39/100 |
-| 27 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ — | — | 38/100 |
-| 28 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 38/100 |
-| 29 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ — | — | 38/100 |
-| 30 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 38/100 |
-| 31 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 38/100 |
-| 32 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 38/100 |
+| 14 | [okou-ai/okou](./okou-ai-okou.md) | ⭐ 1.2k | TypeScript | 50/100 |
+| 15 | [lix-project/lix](./lix-project-lix.md) | ⭐ 607 | C++ | 50/100 |
+| 16 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 478 | — | 48/100 |
+| 17 | [neodevpro/neodevhost](./neodevpro-neodevhost.md) | ⭐ 1.3k | Adblock Filter List | 48/100 |
+| 18 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 1.7k | JavaScript | 47/100 |
+| 19 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 47/100 |
+| 20 | [crevas/Apple-Ads-CLI](./crevas-apple-ads-cli.md) | ⭐ — | — | 45/100 |
+| 21 | [othy19904-eng/conversionguard](./othy19904-eng-conversionguard.md) | ⭐ — | Python | 42/100 |
+| 22 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 42/100 |
+| 23 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ — | — | 42/100 |
+| 24 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ — | — | 42/100 |
+| 25 | [zachbrown29/lintel-marketing-playbooks](./zachbrown29-lintel-marketing-playbooks.md) | ⭐ — | — | 41/100 |
+| 26 | [clicksdynastyincali/local-seo-lint](./clicksdynastyincali-local-seo-lint.md) | ⭐ — | — | 41/100 |
+| 27 | [imlotso/discourse-indexnow](./imlotso-discourse-indexnow.md) | ⭐ 2 | Ruby | 39/100 |
+| 28 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 39/100 |
+| 29 | [Illyism/seo-skills](./illyism-seo-skills.md) | ⭐ 595 | — | 38/100 |
+| 30 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ — | — | 38/100 |
+| 31 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 38/100 |
+| 32 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ — | — | 38/100 |
+| 33 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 38/100 |
+| 34 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 38/100 |
+| 35 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 38/100 |
 
 ---
 

@@ -64,18 +64,18 @@ Daksh-create349/Contradiction-MCP：Daksh-create349/Contradiction-MCP helps conn
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 41/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 53/100 |
-| adoption | 12/100 |
-| categoryMatchCount | 300/100 |
-| stars | 17/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 17/100 |
 | topics | 38/100 |
+| outlook | 53/100 |
+| quality | 41/100 |
+| recency | 80/100 |
+| adoption | 12/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

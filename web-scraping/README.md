@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [YOLOW92/pagesift](./yolow92-pagesift.md) | ⭐ 39 | Rust | 72/100 |
+| 1 | [YOLOW92/pagesift](./yolow92-pagesift.md) | ⭐ 39 | Rust | 69/100 |
 | 2 | [israelfreitas/ttkbootstrap](./israelfreitas-ttkbootstrap.md) | ⭐ — | — | 24/100 |
 | 3 | [mtb/trafilatura](./mtb-trafilatura.md) | ⭐ — | — | 24/100 |
 

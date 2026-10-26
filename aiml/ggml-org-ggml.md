@@ -1,6 +1,6 @@
 # ggml-org/ggml
 
-[![Stars](https://img.shields.io/github/stars/ggml-org/ggml?style=flat-square&color=yellow)](https://github.com/ggml-org/ggml/stargazers) [![Forks](https://img.shields.io/github/forks/ggml-org/ggml?style=flat-square&color=blue)](https://github.com/ggml-org/ggml/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-95%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ggml-org/ggml?style=flat-square&color=yellow)](https://github.com/ggml-org/ggml/stargazers) [![Forks](https://img.shields.io/github/forks/ggml-org/ggml?style=flat-square&color=blue)](https://github.com/ggml-org/ggml/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Tensor library for machine learning
 
@@ -8,16 +8,16 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.6k |
-| 🍴 **Forks** | 1.6k |
+| ⭐ **Stars** | 15.5k |
+| 🍴 **Forks** | 1.9k |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 95/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| 📈 **Score** | 56/100 |
+| 🗓️ **Last push** | 2026-10-22 |
+| 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
 
-_no topics_
+`machine-learning`
 
 ## 🎯 Categories
 
@@ -25,8 +25,59 @@ AI/ML
 
 ## 📝 Summary
 
-The ggml project is an open-source tensor library designed specifically for machine learning applications. It provides a comprehensive set of tools and functions for efficient tensor operations, enabling developers to build and train complex machine learning models. With ggml, users can leverage high-performance tensor manipulation and optimization, accelerating their AI/ML workflows.
+### English
+
+ggml-org/ggml: ggml-org/ggml helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+ggml-org/ggml: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+ggml-org/ggml：ggml-org/ggml helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** ggml-org/ggml helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 15516 GitHub stars
+- 1883 forks
+- updated 2026-10-22
+- primary language: C++
+- 1 topics
+
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 82/100 |
+| stars | 89/100 |
+| topics | 13/100 |
+| outlook | 66/100 |
+| quality | 72/100 |
+| recency | 80/100 |
+| adoption | 87/100 |
+| production | 63/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
+| sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-05-02 · [View on GitHub](https://github.com/ggml-org/ggml) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-10-22 · [View on GitHub](https://github.com/ggml-org/ggml) · [← Back to AI/ML](./README.md)</sub>

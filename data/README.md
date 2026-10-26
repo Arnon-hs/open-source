@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**342 projects** in this category.
+**343 projects** in this category.
 
 ## Projects
 
@@ -342,14 +342,15 @@
 | 332 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
 | 333 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 113 | Rust | 43/100 |
 | 334 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 43/100 |
-| 335 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |
-| 336 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ — | — | 41/100 |
-| 337 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
-| 338 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 41/100 |
-| 339 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ — | Swift | 38/100 |
-| 340 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
-| 341 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
-| 342 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
+| 335 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
+| 336 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |
+| 337 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ — | — | 41/100 |
+| 338 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
+| 339 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 41/100 |
+| 340 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ — | Swift | 38/100 |
+| 341 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
+| 342 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
+| 343 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
 
 ---
 

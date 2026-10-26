@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kumudasrip/Break-Buddy](./kumudasrip-break-buddy.md) | ⭐ — | Python | 45/100 |
+| 1 | [kumudasrip/Break-Buddy](./kumudasrip-break-buddy.md) | ⭐ — | Python | 42/100 |
 
 ---
 
