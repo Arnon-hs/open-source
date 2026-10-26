@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aniket-work/LaneSchema](./aniket-work-laneschema.md) | ⭐ — | Python | 39/100 |
+| 1 | [vishalmysore/ontolive](./vishalmysore-ontolive.md) | ⭐ — | TypeScript | 46/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42698** |
-| **Categories** | **520** |
+| **Projects** | **42704** |
+| **Categories** | **521** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17060 | [Browse →](./misc/) |
+| 📦 **Misc** | 17063 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4577 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2881 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2882 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2396 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1600 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1483 | [Browse →](./automation/) |
@@ -36,7 +36,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 663 | [Browse →](./networking/) |
 | 📱 **Mobile** | 655 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 625 | [Browse →](./knowledgerag/) |
-| 🏷️ **Cloud--storage** | 615 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 616 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 555 | [Browse →](./database/) |
 | 🏷️ **Video-editing** | 528 | [Browse →](./video-editing/) |
 | 🚀 **DevOps & Infra** | 523 | [Browse →](./devopsinfra/) |
@@ -193,6 +193,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Osint** | 1 | [Browse →](./osint/) |
+| 🏷️ **Ontology** | 1 | [Browse →](./ontology/) |
 | 🏷️ **Django** | 1 | [Browse →](./django/) |
 | 🏷️ **Deep-learning** | 1 | [Browse →](./deep-learning/) |
 | 🏷️ **Webrtc** | 1 | [Browse →](./webrtc/) |
@@ -276,7 +278,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-detection** | 1 | [Browse →](./ai-detection/) |
 | 🏷️ **Slow-productivity** | 1 | [Browse →](./slow-productivity/) |
 | 🏷️ **Readlater** | 1 | [Browse →](./readlater/) |
-| 🏷️ **Sqlite** | 1 | [Browse →](./sqlite/) |
 | 🏷️ **Api-testing** | 1 | [Browse →](./api-testing/) |
 | 🏷️ **Sat** | 1 | [Browse →](./sat/) |
 | 🏷️ **Openweight-ai** | 1 | [Browse →](./openweight-ai/) |

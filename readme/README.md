@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [chromoany/readme-atlas](./chromoany-readme-atlas.md) | ⭐ 3 | Python | 53/100 |
+| 1 | [chromoany/readme-atlas](./chromoany-readme-atlas.md) | ⭐ 3 | Python | 50/100 |
 
 ---
 
