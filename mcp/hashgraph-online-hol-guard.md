@@ -27,80 +27,55 @@ MCP · AI/ML · DevTools · Security
 
 ### English
 
-**Brief Summary (2‑3 sentences)**  
-hashgraph‑online/hol‑guard is an open‑source “AI antivirus” that shields developer‑focused AI agents (e.g., Codex, Claude Code, Cursor, Gemini, OpenCode) and their plug‑ins, MCP servers, and other harnesses from malicious or malformed tool calls. By exposing a standard Model Context Protocol (MCP) interface, it lets AI assistants safely invoke real‑world tools and data while the guard validates and sanitizes each request. With 370 ★, recent commits, and a Python‑first implementation, it is positioned as a production‑ready security layer for AI‑driven development pipelines.
+**Summary**  
+HOL Guard is an Apache-2.0 open-source security tool for AI coding agents. It uses supported agent and harness integration points to review selected risky actions against local policy. Depending on the available event hooks, it can allow an action, block it, or request approval and keep a local decision record. Coverage varies by agent, adapter, version, and event. HOL Guard does not intercept every tool invocation, file read, or external API call.
 
-**Value**  
-- **Security‑by‑design**: intercepts and validates every tool invocation, preventing code injection, data leakage, or unintended side‑effects before they reach the underlying service.  
-- **Standardised integration**: implements the Model Context Protocol, giving developers a single, language‑agnostic contract to connect any AI agent to any backend tool or service.  
-- **Accelerated AI tooling**: teams can expose internal APIs, CI/CD pipelines, or proprietary utilities to LLM‑based assistants without reinventing safety checks for each integration.
+**Value**
 
-**Practical Adoption Path**  
-1. **Prototype** – Clone the repo, run the provided CLI/SDK in a sandbox, and point an existing LLM‑assistant (e.g., OpenAI Codex) to the guard’s endpoint.  
-2. **Define policies** – Use the Python configuration files to whitelist allowed commands, set resource quotas, and map tool‑specific schemas.  
-3. **Deploy** – Containerise the guard (Dockerfile is included) and run it as a side‑car or as a dedicated MCP server in your CI/CD or cloud environment.  
-4. **Integrate** – Update your AI agent’s tool‑calling layer to route all tool requests through the guard’s API; the guard will forward only validated calls to the actual backend.  
-5. **Monitor & iterate** – Leverage built‑in logging and metrics to tune policies and add new tool adapters as your stack evolves.
+- **Bounded runtime controls:** apply local policy to supported events such as selected commands, package operations, and MCP configuration or tool interactions when the installed integration exposes them.
+- **Review and evidence:** request approval or block covered operations and inspect available local receipts.
+- **Clear scope:** consult the current agent/event coverage documentation rather than assuming universal interception or prompt-injection prevention.
 
-**Production Readiness**  
-- **Activity & community**: last commit on 2026‑06‑22, 370 stars, active issue discussions, and a growing ecosystem of MCP‑compatible tools.  
-- **Maturity**: the codebase is primarily Python, well‑documented, and includes both SDK and CLI entry points, making integration straightforward for most DevOps pipelines.  
-- **Stability**: no open critical bugs reported; the guard has already been adopted in several internal pilots, indicating real‑world viability.  
-- **Remaining checks**: a final review of the licensing terms, formal security audit, and confirmation of long‑term maintainer commitment are recommended before enterprise‑scale rollout.  
+**Practical adoption path**
 
-Overall, hol‑guard offers a ready‑to‑use, standards‑based security layer that can be dropped into existing AI‑assistant workflows with minimal friction, making it a solid candidate for production deployments.
+1. Read the maintained [HOL Guard documentation](https://hol.org/guard) and determine which agent, version, and event types are supported.
+2. Install HOL Guard using the current official instructions in the [source repository](https://github.com/hashgraph-online/hol-guard).
+3. In a safe test workspace, check the Guard status, enabled protection and local policy, then exercise a benign supported action to inspect its decision and receipt.
+4. Review the limits for the chosen adapter and plan additional controls for actions outside the supported hook surface.
+
+**MCP server scope**  
+The optional local stdio MCP server exposes sanitized Guard status, receipts, inventory, policy validation and approval-backed policy workflows. The documented command is `uvx --from hol-guard hol-guard mcp serve --stdio`. This server is not a universal MCP-to-backend gateway, generic API router, or transparent proxy for every agent tool call.
+
+**Production readiness**  
+This automatically maintained catalog provides discovery metadata, not an independent security audit or proof of customer pilots, complete coverage, or production deployments. Confirm current releases, actual event coverage, failure behavior, data-handling requirements and operational fit before production use.
 
 ### Русский
 
-**hashgraph-online/hol-guard** — это open‑source‑антивирус для AI‑агентов разработчиков, который проверяет и изолирует запросы к Codex, Claude Code, Cursor, Gemini, OpenCode, плагинам, навыкам и MCP‑серверам до их исполнения. Типичный сценарий: интегрировать протокол Model Context Protocol через предоставляемый API/SDK/CLI, чтобы безопасно подключать AI‑ассистентов к реальным инструментам и данным, а также развернуть собственный MCP‑сервер. Проект уже имеет 370 звёзд, активные коммиты (обновление 2026‑06‑22), хорошую экосистемную поддержку и готов к пилотному запуску в продакшн, хотя лицензия и детали безопасности требуют окончательной проверки.
+**Кратко**  
+HOL Guard — открытый инструмент безопасности для ИИ-ассистентов разработчика под лицензией Apache-2.0. Он проверяет определённые действия через доступные интеграции и хуки агента, применяет локальные политики и может разрешать, блокировать или запрашивать подтверждение с записью решения. Охват зависит от агента, версии и типа события: не все вызовы инструментов, чтения файлов или API-запросы перехватываются. Локальный MCP-сервер предоставляет сведения о состоянии Guard, журналы решений и операции с политиками; он не является универсальным шлюзом к сторонним инструментам. Для оценки следует сверить [официальную документацию](https://hol.org/guard) с конкретной конфигурацией и провести безопасные тесты. Данных для утверждения о полной защите, независимом аудите или подтверждённых внедрениях в продакшене здесь нет.
 
 ### 中文
 
-**项目简介**  
-hashgraph-online/hol-guard 是一款面向开发者代理的 AI 防病毒系统，能够在 Codex、Claude Code、Cursor、Gemini、OpenCode、插件、技能、MCP 服务器以及其他 AI Harness 在实际调用工具前进行安全检测与隔离。
-
-**价值**  
-- 为 AI 助手提供统一的“安全入口”，防止恶意代码、泄露和资源滥用。  
-- 通过标准化的 Model Context Protocol（MCP）把 AI 与真实工具、数据安全地连接起来，降低集成复杂度。  
-- 让企业在使用 LLM 辅助编程、自动化运维等场景时，拥有可审计、可管控的安全层。
-
-**典型接入方式**  
-1. **API/SDK**：在 AI 代理的调用链前加入 hol‑guard 提供的 HTTP API，所有工具请求先经过安全审查。  
-2. **CLI**：使用 `hol-guard-cli` 包装本地或容器化的工具，适合 CI/CD 流水线快速集成。  
-3. **语言元数据**：通过 Python 包（`hol_guard`）直接在代码中注册拦截器，支持自定义策略和插件。  
-4. **MCP 服务器**：部署 hol‑guard 作为 Model Context Protocol 服务器，所有符合 MCP 规范的 AI 客户端自动走安全通道。
-
-**生产可用性**  
-- **活跃度**：最近一次提交于 2026‑06‑22，仓库拥有 370+ 星、7+ 分叉，社区活跃。  
-- **技术成熟度**：核心实现基于 Python，提供完整的 API、SDK 与 CLI，文档齐全，易于在现有后端服务中嵌入。  
-- **安全与合规**：虽然许可证和维护者信息仍需最终确认，但目前未发现重大元数据风险，代码审计通过度高。  
-- **适配性**：支持多种 AI 平台（Codex、Claude、Gemini 等）和常见 DevTools，已在若干内部项目中验证，可直接用于生产环境的试点或正式部署。  
-
-综上，hol‑guard 具备较高的生产就绪度，适合作为企业在 AI‑驱动开发工具链中引入的首选安全层。
+**简介**  
+HOL Guard 是采用 Apache-2.0 许可证的开源 AI 编码代理安全工具。它通过受支持的代理集成和事件钩子，依据本地策略检查特定高风险操作，并可允许、拦截或请求批准，同时记录本地决策。覆盖范围取决于代理、版本及事件类型；它不能保证拦截所有工具调用、文件读取或 API 请求。其本地 MCP stdio 服务用于查询 Guard 状态、经过处理的记录及策略操作，并非通用第三方工具网关或 API 代理。评估时应先核对[官方文档](https://hol.org/guard)中的适配范围，再在隔离环境中测试具体操作。当前目录记录不能证明完整安全防护、独立审计或实际生产部署。
 
 ## 🧭 Practical evaluation
 
-**Value:** hashgraph-online/hol-guard helps connect AI assistants to real tools and data through a standard protocol.
+**Value:** Local policy checks, approvals, and inspectable evidence for supported AI coding-agent actions.
 
 **Best use cases**
 
-- connect AI agents to tools
-- ship Model Context Protocol servers
-- standardize integrations
+- review selected risky actions in supported coding-agent workflows;
+- inspect local policy decisions and sanitized Guard receipts;
+- evaluate specific agent/event combinations before expanding deployment.
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** Use an officially supported adapter and the documented installation flow. The optional Guard MCP server serves Guard's own status, receipts, inventory and policy operations; it does not forward arbitrary backend tool requests.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Requires a fresh, agent-specific coverage review, benign integration tests, and an independent operational/security assessment. Catalog popularity and score figures are not evidence of security guarantees or deployed customer pilots.
 
-**Quality signals**
+**Quality signals:** Snapshot star, fork, date and topic counts above are third-party catalog metadata and may lag behind the source repository.
 
-- 370 GitHub stars
-- 7 forks
-- updated 2026-06-22
-- primary language: Python
-- 8 topics
-
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Unsupported event paths and differences among adapters, plus no established universal interception, full prompt-injection prevention, or audited production-readiness guarantee.
 
 ## 🧮 Score breakdown
 
