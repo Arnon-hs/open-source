@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [gtindo/task-view](./gtindo-task-view.md) | ⭐ — | Go | 46/100 |
+| 1 | [gtindo/task-view](./gtindo-task-view.md) | ⭐ — | Go | 43/100 |
 
 ---
 
