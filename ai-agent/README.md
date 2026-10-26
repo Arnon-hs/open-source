@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [praneshnikhar/off-peak](./praneshnikhar-off-peak.md) | ⭐ — | Python | 42/100 |
+| 1 | [praneshnikhar/off-peak](./praneshnikhar-off-peak.md) | ⭐ — | Python | 39/100 |
 | 2 | [Bits232/Truespecs](./bits232-truespecs.md) | ⭐ — | TypeScript | 33/100 |
 | 3 | [imarpanpatra/claimback](./imarpanpatra-claimback.md) | ⭐ — | JavaScript | 27/100 |
 | 4 | [andrew-wood/xprintidle](./andrew-wood-xprintidle.md) | ⭐ — | — | 24/100 |

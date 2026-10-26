@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Arthur031221/Token-Beggar](./arthur031221-token-beggar.md) | ⭐ — | Python | 55/100 |
+| 1 | [Arthur031221/Token-Beggar](./arthur031221-token-beggar.md) | ⭐ — | Python | 52/100 |
 
 ---
 

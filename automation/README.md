@@ -720,8 +720,8 @@
 | 710 | [umputun/ralphex](./umputun-ralphex.md) | ⭐ 1.3k | Go | 63/100 |
 | 711 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 63/100 |
 | 712 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 63/100 |
-| 713 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
-| 714 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
+| 713 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
+| 714 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
 | 715 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 63/100 |
 | 716 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 63/100 |
 | 717 | [hustcer/deepseek-review](./hustcer-deepseek-review.md) | ⭐ 379 | Nushell | 63/100 |
@@ -1343,8 +1343,8 @@
 | 1333 | [AlejandroSilvaMendez/fail-closed-python-assessment](./alejandrosilvamendez-fail-closed-python-assessment.md) | ⭐ — | Python | 43/100 |
 | 1334 | [truongsontung/pr-monitor](./truongsontung-pr-monitor.md) | ⭐ — | Python | 43/100 |
 | 1335 | [aws/n8n-nodes-agentcore](./aws-n8n-nodes-agentcore.md) | ⭐ 15 | TypeScript | 43/100 |
-| 1336 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
-| 1337 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
+| 1336 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
+| 1337 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
 | 1338 | [etkecc/baibot](./etkecc-baibot.md) | ⭐ 222 | Rust | 43/100 |
 | 1339 | [aidnurs/pipedream-n8n-migration-data](./aidnurs-pipedream-n8n-migration-data.md) | ⭐ — | — | 42/100 |
 | 1340 | [manoelmartins1980/netbox-sync](./manoelmartins1980-netbox-sync.md) | ⭐ — | Python | 42/100 |
@@ -1445,8 +1445,8 @@
 | 1435 | [unkeyed/keanu-reviews](./unkeyed-keanu-reviews.md) | ⭐ — | — | 38/100 |
 | 1436 | [madebywelch/guaca](./madebywelch-guaca.md) | ⭐ — | — | 38/100 |
 | 1437 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ — | — | 38/100 |
-| 1438 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
-| 1439 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 38/100 |
+| 1438 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ — | — | 38/100 |
+| 1439 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
 | 1440 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ — | — | 38/100 |
 | 1441 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ — | — | 38/100 |
 | 1442 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ — | — | 38/100 |
@@ -1456,8 +1456,8 @@
 | 1446 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 38/100 |
 | 1447 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 38/100 |
 | 1448 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 38/100 |
-| 1449 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
-| 1450 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
+| 1449 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
+| 1450 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
 | 1451 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 38/100 |
 | 1452 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 38/100 |
 | 1453 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 38/100 |
@@ -1475,8 +1475,8 @@
 | 1465 | [facebook/WebDriverAgent](./facebook-webdriveragent.md) | ⭐ — | — | 33/100 |
 | 1466 | [stepanogil/autonomous-hr-chatbot](./stepanogil-autonomous-hr-chatbot.md) | ⭐ — | — | 32/100 |
 | 1467 | [RazorBlade74/Michaele-tutoring-books](./razorblade74-michaele-tutoring-books.md) | ⭐ — | JavaScript | 31/100 |
-| 1468 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
-| 1469 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1468 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ — | — | 30/100 |
+| 1469 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
 | 1470 | [sharkwani/instinct_openCode_bridge](./sharkwani-instinct-opencode-bridge.md) | ⭐ — | JavaScript | 30/100 |
 | 1471 | [RomanSlack/jev-drone](./romanslack-jev-drone.md) | ⭐ — | — | 29/100 |
 | 1472 | [strands-ai/agents](./strands-ai-agents.md) | ⭐ — | — | 28/100 |
