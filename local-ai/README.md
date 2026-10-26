@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | 1 | [amangithub01/refund-sloth](./amangithub01-refund-sloth.md) | ⭐ — | TypeScript | 66/100 |
 | 2 | [gal-agent/gal-release](./gal-agent-gal-release.md) | ⭐ 4 | — | 62/100 |
-| 3 | [cmusphinx/pocketsphinx](./cmusphinx-pocketsphinx.md) | ⭐ 4.4k | C | 61/100 |
-| 4 | [nateshmbhat/pyttsx3](./nateshmbhat-pyttsx3.md) | ⭐ 2.5k | Python | 59/100 |
+| 3 | [nateshmbhat/pyttsx3](./nateshmbhat-pyttsx3.md) | ⭐ 2.5k | Python | 59/100 |
+| 4 | [cmusphinx/pocketsphinx](./cmusphinx-pocketsphinx.md) | ⭐ 4.4k | C | 58/100 |
 | 5 | [Helsinki-NLP/Opus-MT](./helsinki-nlp-opus-mt.md) | ⭐ 870 | Python | 57/100 |
 | 6 | [kanan-pm07/LifeAdmin-AI](./kanan-pm07-lifeadmin-ai.md) | ⭐ — | Python | 42/100 |
 | 7 | [gmcode-lab/slow-and-steady-](./gmcode-lab-slow-and-steady-.md) | ⭐ — | Python | 42/100 |

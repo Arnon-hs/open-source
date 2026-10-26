@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [rig-c/play](./rig-c-play.md) | ⭐ 5 | TypeScript | 54/100 |
 | 2 | [rig-c/parts](./rig-c-parts.md) | ⭐ 5 | TypeScript | 54/100 |
-| 3 | [rig-c/pose](./rig-c-pose.md) | ⭐ 2 | TypeScript | 53/100 |
+| 3 | [rig-c/pose](./rig-c-pose.md) | ⭐ 2 | TypeScript | 50/100 |
 | 4 | [rig-c/review](./rig-c-review.md) | ⭐ 2 | TypeScript | 49/100 |
 
 ---

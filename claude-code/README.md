@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [JayPokale/Chisle](./jaypokale-chisle.md) | ⭐ 697 | JavaScript | 76/100 |
+| 1 | [JayPokale/Chisle](./jaypokale-chisle.md) | ⭐ 697 | JavaScript | 73/100 |
 | 2 | [dvwinck/capybara-toolbox](./dvwinck-capybara-toolbox.md) | ⭐ 31 | Python | 67/100 |
 | 3 | [Gerrux/claude-load](./gerrux-claude-load.md) | ⭐ 1 | TypeScript | 67/100 |
 | 4 | [SamStull9007/limitcast](./samstull9007-limitcast.md) | ⭐ — | JavaScript | 63/100 |
