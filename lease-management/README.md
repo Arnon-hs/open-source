@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [abubakar-ahmed-dev/tickler](./abubakar-ahmed-dev-tickler.md) | ⭐ — | JavaScript | 53/100 |
-| 2 | [falkor-graph/falkor-db](./falkor-graph-falkor-db.md) | ⭐ — | — | 24/100 |
+| 1 | [falkor-graph/falkor-db](./falkor-graph-falkor-db.md) | ⭐ — | — | 24/100 |
 
 ---
 

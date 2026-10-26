@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nazboyko/channel-tongues](./nazboyko-channel-tongues.md) | ⭐ — | Go | 39/100 |
+| 1 | [jdewit/youtube-transcript-api](./jdewit-youtube-transcript-api.md) | ⭐ — | — | 32/100 |
 
 ---
 

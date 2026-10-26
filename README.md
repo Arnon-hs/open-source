@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42312** |
-| **Categories** | **606** |
+| **Projects** | **42319** |
+| **Categories** | **607** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16776 | [Browse →](./misc/) |
+| 📦 **Misc** | 16778 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4515 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2847 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2848 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1592 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1454 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1456 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 946 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 892 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 794 | [Browse →](./crypto/) |
@@ -60,14 +60,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
 | 🏷️ **Offline** | 32 | [Browse →](./offline/) |
+| 🏷️ **Local-llm** | 22 | [Browse →](./local-llm/) |
 | 🏷️ **Llm** | 22 | [Browse →](./llm/) |
-| 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
 | 🏷️ **Privacy** | 21 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Claude-code** | 14 | [Browse →](./claude-code/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 14 | [Browse →](./ci/) |
-| 🏷️ **Macos** | 11 | [Browse →](./macos/) |
+| 🏷️ **Macos** | 12 | [Browse →](./macos/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Ai-agent** | 10 | [Browse →](./ai-agent/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
@@ -181,7 +181,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Swift** | 2 | [Browse →](./swift/) |
 | 🏷️ **Kodi** | 2 | [Browse →](./kodi/) |
 | 🏷️ **Matrixos** | 2 | [Browse →](./matrixos/) |
-| 🏷️ **Lease-management** | 2 | [Browse →](./lease-management/) |
 | 🏷️ **Github-copilot** | 2 | [Browse →](./github-copilot/) |
 | 🏷️ **Cybersecurity** | 2 | [Browse →](./cybersecurity/) |
 | 🏷️ **Secondhand** | 2 | [Browse →](./secondhand/) |
@@ -224,6 +223,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Youtube** | 1 | [Browse →](./youtube/) |
 | 🏷️ **Jetpack-compose** | 1 | [Browse →](./jetpack-compose/) |
 | 🏷️ **Comfyui** | 1 | [Browse →](./comfyui/) |
 | 🏷️ **Android-auto** | 1 | [Browse →](./android-auto/) |
@@ -399,6 +399,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Contentrepurposing** | 1 | [Browse →](./contentrepurposing/) |
 | 🏷️ **Captioning** | 1 | [Browse →](./captioning/) |
 | 🏷️ **Financial-intelligence** | 1 | [Browse →](./financial-intelligence/) |
+| 🏷️ **Lease-management** | 1 | [Browse →](./lease-management/) |
 | 🏷️ **Resume-analysis** | 1 | [Browse →](./resume-analysis/) |
 | 🏷️ **Whatsapp-bot** | 1 | [Browse →](./whatsapp-bot/) |
 | 🏷️ **Photography** | 1 | [Browse →](./photography/) |
