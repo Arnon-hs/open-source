@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [I1gorr/touch_grass](./i1gorr-touch-grass.md) | ⭐ — | TypeScript | 40/100 |
+| 1 | [I1gorr/touch_grass](./i1gorr-touch-grass.md) | ⭐ — | TypeScript | 37/100 |
 | 2 | [Mohammad1sami/gym_ledger](./mohammad1sami-gym-ledger.md) | ⭐ — | Dart | 33/100 |
 | 3 | [MeetMittan/PlantGuard](./meetmittan-plantguard.md) | ⭐ — | TypeScript | 33/100 |
 | 4 | [LakshChinchmalatpure/HacktroberFest_dev_challenge](./lakshchinchmalatpure-hacktroberfest-dev-challenge.md) | ⭐ — | TypeScript | 33/100 |
