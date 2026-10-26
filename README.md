@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42300** |
+| **Projects** | **42307** |
 | **Categories** | **605** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 16774 | [Browse →](./misc/) |
+| 📦 **Misc** | 16775 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4514 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2846 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2370 | [Browse →](./orchestration/) |
@@ -31,7 +31,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Automation** | 1454 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 946 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 892 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 793 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 794 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 701 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 654 | [Browse →](./networking/) |
 | 📱 **Mobile** | 646 | [Browse →](./mobile/) |
@@ -55,15 +55,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 127 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 126 | [Browse →](./vertical-video/) |
 | 🏷️ **Open-source** | 36 | [Browse →](./open-source/) |
+| 🏷️ **Local-ai** | 35 | [Browse →](./local-ai/) |
 | 🏷️ **Ai-agents** | 35 | [Browse →](./ai-agents/) |
-| 🏷️ **Local-ai** | 33 | [Browse →](./local-ai/) |
+| 🏷️ **Offline** | 33 | [Browse →](./offline/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
 | 🏷️ **Marketing** | 32 | [Browse →](./marketing/) |
-| 🏷️ **Offline** | 32 | [Browse →](./offline/) |
 | 🏷️ **Llm** | 22 | [Browse →](./llm/) |
+| 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
 | 🏷️ **Privacy** | 21 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
-| 🏷️ **Local-llm** | 20 | [Browse →](./local-llm/) |
 | 🏷️ **Claude-code** | 14 | [Browse →](./claude-code/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Ci** | 14 | [Browse →](./ci/) |
@@ -137,6 +137,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 3 | [Browse →](./hackathon/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Testing** | 2 | [Browse →](./testing/) |
 | 🏷️ **Rag** | 2 | [Browse →](./rag/) |
 | 🏷️ **Fitness** | 2 | [Browse →](./fitness/) |
 | 🏷️ **File-organization** | 2 | [Browse →](./file-organization/) |
@@ -397,7 +398,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Contentrepurposing** | 1 | [Browse →](./contentrepurposing/) |
 | 🏷️ **Captioning** | 1 | [Browse →](./captioning/) |
 | 🏷️ **Financial-intelligence** | 1 | [Browse →](./financial-intelligence/) |
-| 🏷️ **Testing** | 1 | [Browse →](./testing/) |
 | 🏷️ **Resume-analysis** | 1 | [Browse →](./resume-analysis/) |
 | 🏷️ **Whatsapp-bot** | 1 | [Browse →](./whatsapp-bot/) |
 | 🏷️ **Photography** | 1 | [Browse →](./photography/) |

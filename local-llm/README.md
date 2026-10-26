@@ -2,7 +2,7 @@
 
 > 
 
-**20 projects** in this category.
+**21 projects** in this category.
 
 ## Projects
 
@@ -22,12 +22,13 @@
 | 12 | [Karishma-Das/porchlight](./karishma-das-porchlight.md) | ⭐ — | Python | 33/100 |
 | 13 | [sleepyaishik69/ChromaWild](./sleepyaishik69-chromawild.md) | ⭐ — | TypeScript | 33/100 |
 | 14 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 33/100 |
-| 15 | [block/goose](./block-goose.md) | ⭐ — | — | 27/100 |
-| 16 | [google/ai-demos](./google-ai-demos.md) | ⭐ — | — | 27/100 |
-| 17 | [jerryjliu/llama_index](./jerryjliu-llama-index.md) | ⭐ — | — | 24/100 |
-| 18 | [open-code/open-code](./open-code-open-code.md) | ⭐ — | — | 24/100 |
-| 19 | [peakaistack/lm](./peakaistack-lm.md) | ⭐ — | — | 24/100 |
-| 20 | [vittoriozz/litellm](./vittoriozz-litellm.md) | ⭐ — | — | 24/100 |
+| 15 | [maxbachmann/rapidfuzz](./maxbachmann-rapidfuzz.md) | ⭐ — | — | 32/100 |
+| 16 | [block/goose](./block-goose.md) | ⭐ — | — | 27/100 |
+| 17 | [google/ai-demos](./google-ai-demos.md) | ⭐ — | — | 27/100 |
+| 18 | [jerryjliu/llama_index](./jerryjliu-llama-index.md) | ⭐ — | — | 24/100 |
+| 19 | [open-code/open-code](./open-code-open-code.md) | ⭐ — | — | 24/100 |
+| 20 | [peakaistack/lm](./peakaistack-lm.md) | ⭐ — | — | 24/100 |
+| 21 | [vittoriozz/litellm](./vittoriozz-litellm.md) | ⭐ — | — | 24/100 |
 
 ---
 

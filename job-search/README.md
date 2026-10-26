@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [career-ops-hq/career-ops](./career-ops-hq-career-ops.md) | ⭐ 76.6k | JavaScript | 83/100 |
+| 1 | [career-ops-hq/career-ops](./career-ops-hq-career-ops.md) | ⭐ 76.6k | JavaScript | 80/100 |
 | 2 | [UprightCode-hub/SeenDisJob](./uprightcode-hub-seendisjob.md) | ⭐ 2 | JavaScript | 31/100 |
 
 ---

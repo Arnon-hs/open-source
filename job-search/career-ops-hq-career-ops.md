@@ -1,6 +1,6 @@
 # career-ops-hq/career-ops
 
-[![Stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat-square&color=yellow)](https://github.com/career-ops-hq/career-ops/stargazers) [![Forks](https://img.shields.io/github/forks/career-ops-hq/career-ops?style=flat-square&color=blue)](https://github.com/career-ops-hq/career-ops/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-83%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat-square&color=yellow)](https://github.com/career-ops-hq/career-ops/stargazers) [![Forks](https://img.shields.io/github/forks/career-ops-hq/career-ops?style=flat-square&color=blue)](https://github.com/career-ops-hq/career-ops/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-80%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 76.6k |
 | 🍴 **Forks** | 14.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 83/100 |
+| 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ job-search · liveness-checker · DNS-filter · Playwright · CI · open-source
 
 ### English
 
-career-ops-hq/career-ops: career-ops-hq/career-ops may be useful when its README and activity match a concrete workflow.. Use it for job-search, liveness-checker, DNS-filter, Playwright, CI, open-source. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+career-ops-hq/career-ops: career-ops-hq/career-ops may be useful when its README and activity match a concrete workflow.. Use it for job-search, liveness-checker, DNS-filter, Playwright, CI, open-source. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-career-ops-hq/career-ops: open-source проект в категориях job-search, liveness-checker, DNS-filter, Playwright, CI, open-source. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+career-ops-hq/career-ops: open-source проект в категориях job-search, liveness-checker, DNS-filter, Playwright, CI, open-source. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-career-ops-hq/career-ops：career-ops-hq/career-ops may be useful when its README and activity match a concrete workflow.。适合用于job-search、liveness-checker、DNS-filter、Playwright、CI、open-source。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+career-ops-hq/career-ops：career-ops-hq/career-ops may be useful when its README and activity match a concrete workflow.。适合用于job-search、liveness-checker、DNS-filter、Playwright、CI、open-source。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ career-ops-hq/career-ops：career-ops-hq/career-ops may be useful when its READM
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ career-ops-hq/career-ops：career-ops-hq/career-ops may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 96/100 |
+| quality | 91/100 |
 | integration | 46/100 |
-| production | 79/100 |
-| outlook | 95/100 |
+| production | 72/100 |
+| outlook | 88/100 |
 | adoption | 100/100 |
 | categoryMatchCount | 600/100 |
 | stars | 100/100 |
 | forks | 100/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
