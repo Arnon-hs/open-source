@@ -1,6 +1,6 @@
 # Gerrux/claude-load
 
-[![Stars](https://img.shields.io/github/stars/Gerrux/claude-load?style=flat-square&color=yellow)](https://github.com/Gerrux/claude-load/stargazers) [![Forks](https://img.shields.io/github/forks/Gerrux/claude-load?style=flat-square&color=blue)](https://github.com/Gerrux/claude-load/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gerrux/claude-load?style=flat-square&color=yellow)](https://github.com/Gerrux/claude-load/stargazers) [![Forks](https://img.shields.io/github/forks/Gerrux/claude-load?style=flat-square&color=blue)](https://github.com/Gerrux/claude-load/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > See which Claude Code session eats your CPU and memory: per-session load, orphaned dev processes, graphs, filters and one-click cleanup. Windows, macOS, Linux; 8 languages.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Gerrux/claude-load：Gerrux/claude-load may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 70/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [dvwinck/capybara-toolbox](./dvwinck-capybara-toolbox.md) | ⭐ 31 | Python | 67/100 |
-| 2 | [Gerrux/claude-load](./gerrux-claude-load.md) | ⭐ 1 | TypeScript | 67/100 |
+| 2 | [Gerrux/claude-load](./gerrux-claude-load.md) | ⭐ 1 | TypeScript | 64/100 |
 | 3 | [SamStull9007/limitcast](./samstull9007-limitcast.md) | ⭐ — | JavaScript | 63/100 |
 | 4 | [ntinosgkiou-code/agentdryrun](./ntinosgkiou-code-agentdryrun.md) | ⭐ — | Python | 56/100 |
 | 5 | [team-humaki/token-diet-lite](./team-humaki-token-diet-lite.md) | ⭐ — | Python | 55/100 |

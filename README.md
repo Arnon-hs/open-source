@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42735** |
+| **Projects** | **42740** |
 | **Categories** | **515** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17080 | [Browse →](./misc/) |
+| 📦 **Misc** | 17084 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4583 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2887 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2399 | [Browse →](./orchestration/) |
@@ -73,19 +73,19 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Rust** | 7 | [Browse →](./rust/) |
+| 🏷️ **Self-hosted** | 6 | [Browse →](./self-hosted/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **N8n** | 5 | [Browse →](./n8n/) |
-| 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
-| 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
 | 🏷️ **Api** | 4 | [Browse →](./api/) |
 | 🏷️ **Ios** | 4 | [Browse →](./ios/) |
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Documentation** | 4 | [Browse →](./documentation/) |
+| 🏷️ **Hacktoberfest** | 4 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Offline-ai** | 4 | [Browse →](./offline-ai/) |
 | 🏷️ **Php** | 4 | [Browse →](./php/) |
@@ -95,6 +95,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Asr** | 3 | [Browse →](./asr/) |
 | 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
 | 🏷️ **Browser-automation** | 3 | [Browse →](./browser-automation/) |
@@ -144,7 +145,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Smtp** | 2 | [Browse →](./smtp/) |
 | 🏷️ **Agentic** | 2 | [Browse →](./agentic/) |
 | 🏷️ **Document-management** | 2 | [Browse →](./document-management/) |
-| 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Flaky-tests** | 2 | [Browse →](./flaky-tests/) |
 | 🏷️ **Matrixos** | 2 | [Browse →](./matrixos/) |
 | 🏷️ **Github-copilot** | 2 | [Browse →](./github-copilot/) |
