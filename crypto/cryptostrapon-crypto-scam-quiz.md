@@ -1,6 +1,6 @@
 # cryptostrapon/crypto-scam-quiz
 
-[![Stars](https://img.shields.io/github/stars/cryptostrapon/crypto-scam-quiz?style=flat-square&color=yellow)](https://github.com/cryptostrapon/crypto-scam-quiz/stargazers) [![Forks](https://img.shields.io/github/forks/cryptostrapon/crypto-scam-quiz?style=flat-square&color=blue)](https://github.com/cryptostrapon/crypto-scam-quiz/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cryptostrapon/crypto-scam-quiz?style=flat-square&color=yellow)](https://github.com/cryptostrapon/crypto-scam-quiz/stargazers) [![Forks](https://img.shields.io/github/forks/cryptostrapon/crypto-scam-quiz?style=flat-square&color=blue)](https://github.com/cryptostrapon/crypto-scam-quiz/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open-source crypto scam detection quiz: 50 scenarios based on observed scam patterns covering drainers, approval phishing, rug pulls, AI scams and more. Maintained by CryptoStrapon.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ crypto · scam-awareness · quiz · open-source · education
 
 ### English
 
-cryptostrapon/crypto-scam-quiz: cryptostrapon/crypto-scam-quiz may be useful when its README and activity match a concrete workflow.. Use it for crypto, scam-awareness, quiz, open-source, education. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+cryptostrapon/crypto-scam-quiz: cryptostrapon/crypto-scam-quiz may be useful when its README and activity match a concrete workflow.. Use it for crypto, scam-awareness, quiz, open-source, education. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-cryptostrapon/crypto-scam-quiz: open-source проект в категориях crypto, scam-awareness, quiz, open-source, education. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+cryptostrapon/crypto-scam-quiz: open-source проект в категориях crypto, scam-awareness, quiz, open-source, education. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-cryptostrapon/crypto-scam-quiz：cryptostrapon/crypto-scam-quiz may be useful when its README and activity match a concrete workflow.。适合用于crypto、scam-awareness、quiz、open-source、education。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+cryptostrapon/crypto-scam-quiz：cryptostrapon/crypto-scam-quiz may be useful when its README and activity match a concrete workflow.。适合用于crypto、scam-awareness、quiz、open-source、education。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ cryptostrapon/crypto-scam-quiz：cryptostrapon/crypto-scam-quiz may be useful wh
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -55,22 +55,22 @@ cryptostrapon/crypto-scam-quiz：cryptostrapon/crypto-scam-quiz may be useful wh
 - primary language: HTML
 - 13 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 41/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 53/100 |
+| production | 47/100 |
+| outlook | 46/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

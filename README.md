@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42754** |
+| **Projects** | **42759** |
 | **Categories** | **516** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17091 | [Browse →](./misc/) |
+| 📦 **Misc** | 17093 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4584 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2887 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2888 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2399 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1601 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1484 | [Browse →](./automation/) |
@@ -50,7 +50,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Observability** | 308 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 269 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 217 | [Browse →](./trading/) |
-| ✨ **Design** | 184 | [Browse →](./design/) |
+| ✨ **Design** | 185 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 154 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 128 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai** | 121 | [Browse →](./ai/) |
@@ -62,8 +62,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agents** | 29 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 20 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 19 | [Browse →](./llm/) |
+| 🏷️ **Local-llm** | 18 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 18 | [Browse →](./local-first/) |
-| 🏷️ **Local-llm** | 17 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Claude-code** | 10 | [Browse →](./claude-code/) |
