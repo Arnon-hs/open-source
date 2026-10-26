@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Nitishmane/scraper-factory](./nitishmane-scraper-factory.md) | ⭐ 1 | Python | 38/100 |
+| 1 | [Nitishmane/scraper-factory](./nitishmane-scraper-factory.md) | ⭐ 1 | Python | 35/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Nitishmane/scraper-factory
 
-[![Stars](https://img.shields.io/github/stars/Nitishmane/scraper-factory?style=flat-square&color=yellow)](https://github.com/Nitishmane/scraper-factory/stargazers) [![Forks](https://img.shields.io/github/forks/Nitishmane/scraper-factory?style=flat-square&color=blue)](https://github.com/Nitishmane/scraper-factory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nitishmane/scraper-factory?style=flat-square&color=yellow)](https://github.com/Nitishmane/scraper-factory/stargazers) [![Forks](https://img.shields.io/github/forks/Nitishmane/scraper-factory?style=flat-square&color=blue)](https://github.com/Nitishmane/scraper-factory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ scraping · self‑healing · automation · Bright Data · Port · SigNoz
 
 ### English
 
-Nitishmane/scraper-factory: Nitishmane/scraper-factory may be useful when its README and activity match a concrete workflow.. Use it for scraping, self‑healing, automation, Bright Data, Port, SigNoz. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Nitishmane/scraper-factory: Nitishmane/scraper-factory may be useful when its README and activity match a concrete workflow.. Use it for scraping, self‑healing, automation, Bright Data, Port, SigNoz. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Nitishmane/scraper-factory: open-source проект в категориях scraping, self‑healing, automation, Bright Data, Port, SigNoz. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Nitishmane/scraper-factory: open-source проект в категориях scraping, self‑healing, automation, Bright Data, Port, SigNoz. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Nitishmane/scraper-factory：Nitishmane/scraper-factory may be useful when its README and activity match a concrete workflow.。适合用于scraping、self‑healing、automation、Bright Data、Port、SigNoz。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Nitishmane/scraper-factory：Nitishmane/scraper-factory may be useful when its README and activity match a concrete workflow.。适合用于scraping、self‑healing、automation、Bright Data、Port、SigNoz。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ Nitishmane/scraper-factory：Nitishmane/scraper-factory may be useful when its R
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,15 +63,15 @@ Nitishmane/scraper-factory：Nitishmane/scraper-factory may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 34/100 |
+| quality | 29/100 |
 | integration | 34/100 |
-| production | 50/100 |
-| outlook | 45/100 |
+| production | 44/100 |
+| outlook | 38/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
