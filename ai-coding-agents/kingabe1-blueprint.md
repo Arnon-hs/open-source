@@ -1,6 +1,6 @@
 # KingAbe1/blueprint
 
-[![Stars](https://img.shields.io/github/stars/KingAbe1/blueprint?style=flat-square&color=yellow)](https://github.com/KingAbe1/blueprint/stargazers) [![Forks](https://img.shields.io/github/forks/KingAbe1/blueprint?style=flat-square&color=blue)](https://github.com/KingAbe1/blueprint/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/KingAbe1/blueprint?style=flat-square&color=yellow)](https://github.com/KingAbe1/blueprint/stargazers) [![Forks](https://img.shields.io/github/forks/KingAbe1/blueprint?style=flat-square&color=blue)](https://github.com/KingAbe1/blueprint/network) [![Language](https://img.shields.io/badge/lang-Makefile-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Local studio to plan new products or scan existing repos: agent handoffs and codebase quality reports, on your machine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Makefile |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ KingAbe1/blueprint：KingAbe1/blueprint may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 500/100 |
 | stars | 15/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
