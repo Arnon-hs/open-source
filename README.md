@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42697** |
-| **Categories** | **521** |
+| **Projects** | **42698** |
+| **Categories** | **520** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17058 | [Browse →](./misc/) |
+| 📦 **Misc** | 17060 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4577 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2880 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2881 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2396 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1600 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1483 | [Browse →](./automation/) |
@@ -89,7 +89,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Offline-ai** | 4 | [Browse →](./offline-ai/) |
 | 🏷️ **Php** | 4 | [Browse →](./php/) |
-| 🏷️ **Claude** | 4 | [Browse →](./claude/) |
 | 🏷️ **Android** | 4 | [Browse →](./android/) |
 | 🏷️ **Cli** | 4 | [Browse →](./cli/) |
 | 🏷️ **Agentic-workflows** | 4 | [Browse →](./agentic-workflows/) |
@@ -108,6 +107,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Api** | 3 | [Browse →](./api/) |
 | 🏷️ **Telegram** | 3 | [Browse →](./telegram/) |
 | 🏷️ **Voice-control** | 3 | [Browse →](./voice-control/) |
+| 🏷️ **Claude** | 3 | [Browse →](./claude/) |
 | 🏷️ **Spring-boot** | 3 | [Browse →](./spring-boot/) |
 | 🏷️ **Windows** | 3 | [Browse →](./windows/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
@@ -278,7 +278,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Readlater** | 1 | [Browse →](./readlater/) |
 | 🏷️ **Sqlite** | 1 | [Browse →](./sqlite/) |
 | 🏷️ **Api-testing** | 1 | [Browse →](./api-testing/) |
-| 🏷️ **Vectorization** | 1 | [Browse →](./vectorization/) |
 | 🏷️ **Sat** | 1 | [Browse →](./sat/) |
 | 🏷️ **Openweight-ai** | 1 | [Browse →](./openweight-ai/) |
 | 🏷️ **Personal-vault** | 1 | [Browse →](./personal-vault/) |

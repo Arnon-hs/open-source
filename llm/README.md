@@ -11,7 +11,7 @@
 | 1 | [gtalarico/pyairtable](./gtalarico-pyairtable.md) | ⭐ 890 | Python | 71/100 |
 | 2 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 51/100 |
 | 3 | [linklbee/scan](./linklbee-scan.md) | ⭐ — | Python | 46/100 |
-| 4 | [rytjy/slothaudit](./rytjy-slothaudit.md) | ⭐ — | Python | 46/100 |
+| 4 | [rytjy/slothaudit](./rytjy-slothaudit.md) | ⭐ — | Python | 43/100 |
 | 5 | [saixiong/nightscout](./saixiong-nightscout.md) | ⭐ — | Python | 42/100 |
 | 6 | [CodersAcademy006/graphsloth](./codersacademy006-graphsloth.md) | ⭐ — | HTML | 36/100 |
 | 7 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 33/100 |
