@@ -65,18 +65,18 @@ hashicorp/agent-skills：hashicorp/agent-skills helps turn isolated prompts and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 59/100 |
-| integration | 46/100 |
-| production | 61/100 |
-| outlook | 63/100 |
-| adoption | 60/100 |
-| categoryMatchCount | 200/100 |
-| stars | 63/100 |
 | forks | 53/100 |
-| recency | 80/100 |
+| stars | 63/100 |
 | topics | 13/100 |
+| outlook | 63/100 |
+| quality | 59/100 |
+| recency | 80/100 |
+| adoption | 60/100 |
+| production | 61/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
