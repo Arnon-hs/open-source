@@ -19,9 +19,9 @@
 | 9 | [Ulk0r0/skillsentry](./ulk0r0-skillsentry.md) | ⭐ — | TypeScript | 54/100 |
 | 10 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 52/100 |
 | 11 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 47/100 |
-| 12 | [DainoJung/omni-verify](./dainojung-omni-verify.md) | ⭐ — | TypeScript | 46/100 |
-| 13 | [MasterFloppa/Chore-Starter](./masterfloppa-chore-starter.md) | ⭐ — | TypeScript | 45/100 |
-| 14 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 44/100 |
+| 12 | [MasterFloppa/Chore-Starter](./masterfloppa-chore-starter.md) | ⭐ — | TypeScript | 45/100 |
+| 13 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 44/100 |
+| 14 | [DainoJung/omni-verify](./dainojung-omni-verify.md) | ⭐ — | TypeScript | 43/100 |
 | 15 | [comzzy/sloth-butler](./comzzy-sloth-butler.md) | ⭐ — | TypeScript | 42/100 |
 | 16 | [GaffaAI/gaffa-cli](./gaffaai-gaffa-cli.md) | ⭐ — | TypeScript | 41/100 |
 | 17 | [jhusk003/multi-workflow-ai](./jhusk003-multi-workflow-ai.md) | ⭐ — | Python | 41/100 |
