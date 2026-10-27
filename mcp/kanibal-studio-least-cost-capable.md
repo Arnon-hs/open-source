@@ -1,6 +1,6 @@
 # kanibal-studio/least-cost-capable
 
-[![Stars](https://img.shields.io/github/stars/kanibal-studio/least-cost-capable?style=flat-square&color=yellow)](https://github.com/kanibal-studio/least-cost-capable/stargazers) [![Forks](https://img.shields.io/github/forks/kanibal-studio/least-cost-capable?style=flat-square&color=blue)](https://github.com/kanibal-studio/least-cost-capable/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kanibal-studio/least-cost-capable?style=flat-square&color=yellow)](https://github.com/kanibal-studio/least-cost-capable/stargazers) [![Forks](https://img.shields.io/github/forks/kanibal-studio/least-cost-capable?style=flat-square&color=blue)](https://github.com/kanibal-studio/least-cost-capable/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Portable Agent Skill to compare declared model cost ranks with capability and evidence checks. No provider calls.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ kanibal-studio/least-cost-capable：kanibal-studio/least-cost-capable helps conn
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

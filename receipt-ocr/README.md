@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [GurminderKaur/ShoeBox](./gurminderkaur-shoebox.md) | ⭐ — | C# | 33/100 |
+| 1 | [GurminderKaur/ShoeBox](./gurminderkaur-shoebox.md) | ⭐ — | C# | 30/100 |
 
 ---
 

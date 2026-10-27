@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [wiseman/py-webrtcvad](./wiseman-py-webrtcvad.md) | ⭐ 2.5k | C | 55/100 |
-| 2 | [Bennykillua/couch-commander](./bennykillua-couch-commander.md) | ⭐ — | Python | 46/100 |
+| 2 | [Bennykillua/couch-commander](./bennykillua-couch-commander.md) | ⭐ — | Python | 43/100 |
 | 3 | [openwakeword/openwakeword](./openwakeword-openwakeword.md) | ⭐ — | — | 24/100 |
 
 ---
