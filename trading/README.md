@@ -164,8 +164,8 @@
 | 154 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 800 | Rust | 53/100 |
 | 155 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
 | 156 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 52/100 |
-| 157 | [waditu/czsc](./waditu-czsc.md) | ⭐ 5k | Python | 52/100 |
-| 158 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 5k | Jupyter Notebook | 52/100 |
+| 157 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 5k | Jupyter Notebook | 52/100 |
+| 158 | [waditu/czsc](./waditu-czsc.md) | ⭐ 5k | Python | 52/100 |
 | 159 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 160 | [uselayer/uselayer-sdk](./uselayer-uselayer-sdk.md) | ⭐ — | — | 51/100 |
 | 161 | [weirdapps/etorotrade](./weirdapps-etorotrade.md) | ⭐ 36 | Python | 51/100 |
