@@ -1,6 +1,6 @@
 # GgauravJ05/decklume
 
-[![Stars](https://img.shields.io/github/stars/GgauravJ05/decklume?style=flat-square&color=yellow)](https://github.com/GgauravJ05/decklume/stargazers) [![Forks](https://img.shields.io/github/forks/GgauravJ05/decklume?style=flat-square&color=blue)](https://github.com/GgauravJ05/decklume/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GgauravJ05/decklume?style=flat-square&color=yellow)](https://github.com/GgauravJ05/decklume/stargazers) [![Forks](https://img.shields.io/github/forks/GgauravJ05/decklume?style=flat-square&color=blue)](https://github.com/GgauravJ05/decklume/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Decklume — a Claude Code skill that turns any topic, notes or PowerPoint into a designed, animated HTML presentation. 13 designer themes, 30 tested layouts, Magic Move transitions, presenter view and automated design QA.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ GgauravJ05/decklume：GgauravJ05/decklume may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 70/100 |
+| production | 58/100 |
+| outlook | 63/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 600/100 |
 | stars | 13/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

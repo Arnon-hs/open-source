@@ -15,8 +15,8 @@
 | 5 | [skibuff22/agent-ops-kit-lite](./skibuff22-agent-ops-kit-lite.md) | ⭐ — | Python | 60/100 |
 | 6 | [JohnWayneeee/casely-qa-skill](./johnwayneeee-casely-qa-skill.md) | ⭐ 11 | Python | 59/100 |
 | 7 | [adonai-labs/agent-runway](./adonai-labs-agent-runway.md) | ⭐ 2 | TypeScript | 58/100 |
-| 8 | [GgauravJ05/decklume](./ggauravj05-decklume.md) | ⭐ 3 | HTML | 58/100 |
-| 9 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
+| 8 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
+| 9 | [GgauravJ05/decklume](./ggauravj05-decklume.md) | ⭐ 3 | HTML | 55/100 |
 | 10 | [Ulk0r0/skillsentry](./ulk0r0-skillsentry.md) | ⭐ — | TypeScript | 54/100 |
 | 11 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 52/100 |
 | 12 | [AbdulrahmanMasoud/comprende](./abdulrahmanmasoud-comprende.md) | ⭐ 2 | JavaScript | 48/100 |
