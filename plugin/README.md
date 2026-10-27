@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [RobinaMirbahar/antigravity-science-plugin-cookbook](./robinamirbahar-antigravity-science-plugin-cookbook.md) | ⭐ — | HTML | 56/100 |
+| 1 | [RobinaMirbahar/antigravity-science-plugin-cookbook](./robinamirbahar-antigravity-science-plugin-cookbook.md) | ⭐ — | HTML | 53/100 |
 
 ---
 

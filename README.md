@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42955** |
+| **Projects** | **42956** |
 | **Categories** | **525** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17193 | [Browse →](./misc/) |
+| 📦 **Misc** | 17194 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4599 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2893 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2894 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2403 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1603 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1488 | [Browse →](./automation/) |
@@ -58,7 +58,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 32 | [Browse →](./open-source/) |
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
-| 🏷️ **Ai-agents** | 30 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 29 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 22 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
@@ -98,6 +98,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Serverless** | 3 | [Browse →](./serverless/) |
 | 🏷️ **Email** | 3 | [Browse →](./email/) |
 | 🏷️ **Secret-scanning** | 3 | [Browse →](./secret-scanning/) |
 | 🏷️ **Linux** | 3 | [Browse →](./linux/) |
@@ -130,7 +131,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Shared-memory** | 2 | [Browse →](./shared-memory/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Legal** | 2 | [Browse →](./legal/) |
-| 🏷️ **Serverless** | 2 | [Browse →](./serverless/) |
 | 🏷️ **Image-generation** | 2 | [Browse →](./image-generation/) |
 | 🏷️ **Local-inference** | 2 | [Browse →](./local-inference/) |
 | 🏷️ **Encryption** | 2 | [Browse →](./encryption/) |
@@ -149,7 +149,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Desktop** | 2 | [Browse →](./desktop/) |
 | 🏷️ **Postgres** | 2 | [Browse →](./postgres/) |
 | 🏷️ **Raspberry-pi** | 2 | [Browse →](./raspberry-pi/) |
-| 🏷️ **Github** | 2 | [Browse →](./github/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
 | 🏷️ **Flaky-tests** | 2 | [Browse →](./flaky-tests/) |
@@ -267,6 +266,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Peak-finder** | 1 | [Browse →](./peak-finder/) |
 | 🏷️ **Steam** | 1 | [Browse →](./steam/) |
 | 🏷️ **Linter** | 1 | [Browse →](./linter/) |
+| 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Jobsearch** | 1 | [Browse →](./jobsearch/) |
 | 🏷️ **Shadcnui** | 1 | [Browse →](./shadcnui/) |
 | 🏷️ **Automotive** | 1 | [Browse →](./automotive/) |

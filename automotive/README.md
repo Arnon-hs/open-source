@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Tom7668h/oem-part-normalizer](./tom7668h-oem-part-normalizer.md) | ⭐ — | TypeScript | 47/100 |
+| 1 | [Tom7668h/oem-part-normalizer](./tom7668h-oem-part-normalizer.md) | ⭐ — | TypeScript | 44/100 |
 
 ---
 
