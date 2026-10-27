@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [astera-io/astera](./astera-io-astera.md) | ⭐ — | — | 24/100 |
+| 1 | [MotleyAI/living-architecture](./motleyai-living-architecture.md) | ⭐ 6 | Python | 68/100 |
 
 ---
 

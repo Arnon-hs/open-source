@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42879** |
-| **Categories** | **522** |
+| **Projects** | **42887** |
+| **Categories** | **524** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17150 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4592 | [Browse →](./aiml/) |
+| 📦 **Misc** | 17155 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4593 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2891 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2401 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1602 | [Browse →](./devtools/) |
@@ -195,6 +195,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Focus** | 1 | [Browse →](./focus/) |
+| 🏷️ **Agentic-coding** | 1 | [Browse →](./agentic-coding/) |
 | 🏷️ **Privatebin** | 1 | [Browse →](./privatebin/) |
 | 🏷️ **Browser-management** | 1 | [Browse →](./browser-management/) |
 | 🏷️ **Real-estate** | 1 | [Browse →](./real-estate/) |
