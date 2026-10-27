@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dannwaneri/mama-pos-daybook](./dannwaneri-mama-pos-daybook.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [Raktim94/nodedr-restaurant-pos](./raktim94-nodedr-restaurant-pos.md) | ⭐ 179 | TypeScript | 66/100 |
 
 ---
 

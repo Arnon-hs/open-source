@@ -1,6 +1,6 @@
 # jstedfast/MailKit
 
-[![Stars](https://img.shields.io/github/stars/jstedfast/MailKit?style=flat-square&color=yellow)](https://github.com/jstedfast/MailKit/stargazers) [![Forks](https://img.shields.io/github/forks/jstedfast/MailKit?style=flat-square&color=blue)](https://github.com/jstedfast/MailKit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jstedfast/MailKit?style=flat-square&color=yellow)](https://github.com/jstedfast/MailKit/stargazers) [![Forks](https://img.shields.io/github/forks/jstedfast/MailKit?style=flat-square&color=blue)](https://github.com/jstedfast/MailKit/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A cross-platform .NET library for IMAP, POP3, and SMTP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.9k |
 | 🍴 **Forks** | 864 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ email · automation · local-llm · serpapi · dotnet · imap · privacy
 
 ### English
 
-jstedfast/MailKit: jstedfast/MailKit may be useful when its README and activity match a concrete workflow.. Use it for email, automation, local-llm, serpapi, dotnet, imap, privacy. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jstedfast/MailKit: jstedfast/MailKit may be useful when its README and activity match a concrete workflow.. Use it for email, automation, local-llm, serpapi, dotnet, imap, privacy. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-jstedfast/MailKit: open-source проект в категориях email, automation, local-llm, serpapi, dotnet, imap, privacy. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+jstedfast/MailKit: open-source проект в категориях email, automation, local-llm, serpapi, dotnet, imap, privacy. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-jstedfast/MailKit：jstedfast/MailKit may be useful when its README and activity match a concrete workflow.。适合用于email、automation、local-llm、serpapi、dotnet、imap、privacy。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+jstedfast/MailKit：jstedfast/MailKit may be useful when its README and activity match a concrete workflow.。适合用于email、automation、local-llm、serpapi、dotnet、imap、privacy。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ jstedfast/MailKit：jstedfast/MailKit may be useful when its README and activity
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ jstedfast/MailKit：jstedfast/MailKit may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 69/100 |
+| outlook | 76/100 |
 | adoption | 79/100 |
 | categoryMatchCount | 700/100 |
 | stars | 82/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # AbdulrahmanMasoud/comprende
 
-[![Stars](https://img.shields.io/github/stars/AbdulrahmanMasoud/comprende?style=flat-square&color=yellow)](https://github.com/AbdulrahmanMasoud/comprende/stargazers) [![Forks](https://img.shields.io/github/forks/AbdulrahmanMasoud/comprende?style=flat-square&color=blue)](https://github.com/AbdulrahmanMasoud/comprende/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AbdulrahmanMasoud/comprende?style=flat-square&color=yellow)](https://github.com/AbdulrahmanMasoud/comprende/stargazers) [![Forks](https://img.shields.io/github/forks/AbdulrahmanMasoud/comprende?style=flat-square&color=blue)](https://github.com/AbdulrahmanMasoud/comprende/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > AI writes the code. Comprende makes sure you understand it
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ AbdulrahmanMasoud/comprende：AbdulrahmanMasoud/comprende may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 61/100 |
+| production | 57/100 |
+| outlook | 54/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
