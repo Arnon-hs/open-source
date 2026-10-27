@@ -1,6 +1,6 @@
 # GhaziAlibi/helixsync
 
-[![Stars](https://img.shields.io/github/stars/GhaziAlibi/helixsync?style=flat-square&color=yellow)](https://github.com/GhaziAlibi/helixsync/stargazers) [![Forks](https://img.shields.io/github/forks/GhaziAlibi/helixsync?style=flat-square&color=blue)](https://github.com/GhaziAlibi/helixsync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GhaziAlibi/helixsync?style=flat-square&color=yellow)](https://github.com/GhaziAlibi/helixsync/stargazers) [![Forks](https://img.shields.io/github/forks/GhaziAlibi/helixsync?style=flat-square&color=blue)](https://github.com/GhaziAlibi/helixsync/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Keep your bookmarks, browsing history, and tabs in sync across your devices. Your data stays yours.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 33 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ GhaziAlibi/helixsync：GhaziAlibi/helixsync may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 66/100 |
+| production | 58/100 |
+| outlook | 59/100 |
 | adoption | 23/100 |
 | categoryMatchCount | 400/100 |
 | stars | 33/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

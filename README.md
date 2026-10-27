@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42887** |
-| **Categories** | **524** |
+| **Projects** | **42898** |
+| **Categories** | **523** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17155 | [Browse →](./misc/) |
+| 📦 **Misc** | 17166 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4593 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2891 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2401 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2892 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2402 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1602 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1487 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 956 | [Browse →](./backend/) |
@@ -38,7 +38,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 626 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 616 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 558 | [Browse →](./database/) |
-| 🏷️ **Video-editing** | 535 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 538 | [Browse →](./video-editing/) |
 | 🚀 **DevOps & Infra** | 524 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 477 | [Browse →](./templates/) |
 | 🔐 **Security** | 447 | [Browse →](./security/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 185 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 129 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 122 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 121 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 35 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 32 | [Browse →](./open-source/) |
@@ -63,7 +63,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 21 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 19 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
-| 🏷️ **Local-llm** | 18 | [Browse →](./local-llm/) |
+| 🏷️ **Local-llm** | 15 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Macos** | 10 | [Browse →](./macos/) |
@@ -273,7 +273,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal-app** | 1 | [Browse →](./terminal-app/) |
 | 🏷️ **Edtech** | 1 | [Browse →](./edtech/) |
 | 🏷️ **Edr** | 1 | [Browse →](./edr/) |
-| 🏷️ **Deepseek-harness** | 1 | [Browse →](./deepseek-harness/) |
 | 🏷️ **Debt-tracking** | 1 | [Browse →](./debt-tracking/) |
 | 🏷️ **Machine-learning** | 1 | [Browse →](./machine-learning/) |
 | 🏷️ **Standup** | 1 | [Browse →](./standup/) |

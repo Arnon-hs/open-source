@@ -1,6 +1,6 @@
 # libyal/libpff
 
-[![Stars](https://img.shields.io/github/stars/libyal/libpff?style=flat-square&color=yellow)](https://github.com/libyal/libpff/stargazers) [![Forks](https://img.shields.io/github/forks/libyal/libpff?style=flat-square&color=blue)](https://github.com/libyal/libpff/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/libyal/libpff?style=flat-square&color=yellow)](https://github.com/libyal/libpff/stargazers) [![Forks](https://img.shields.io/github/forks/libyal/libpff?style=flat-square&color=blue)](https://github.com/libyal/libpff/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Library and tools to access the Personal Folder File (PFF) and the Offline Folder File (OFF) format
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 374 |
 | 🍴 **Forks** | 104 |
 | 💻 **Language** | C |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ libyal/libpff：libyal/libpff may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 67/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 54/100 |
 | categoryMatchCount | 800/100 |
 | stars | 55/100 |
 | forks | 51/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
