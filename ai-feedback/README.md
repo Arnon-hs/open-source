@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [munimtechnologies/feedback-commons](./munimtechnologies-feedback-commons.md) | ⭐ — | Python | 46/100 |
+| 1 | [munimtechnologies/feedback-commons](./munimtechnologies-feedback-commons.md) | ⭐ — | Python | 43/100 |
 | 2 | [munimtechnologies/quote-check](./munimtechnologies-quote-check.md) | ⭐ — | HTML | 39/100 |
 
 ---

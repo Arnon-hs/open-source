@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [codeswithroh/baad-mein](./codeswithroh-baad-mein.md) | ⭐ — | TypeScript | 57/100 |
+| 1 | [codeswithroh/baad-mein](./codeswithroh-baad-mein.md) | ⭐ — | TypeScript | 54/100 |
 | 2 | [itssaharsh/good-morning-sweep](./itssaharsh-good-morning-sweep.md) | ⭐ — | Python | 45/100 |
 | 3 | [AnthonyASBaptiste/tenderlens](./anthonyasbaptiste-tenderlens.md) | ⭐ — | Python | 43/100 |
 | 4 | [Tamajit-005/Amar-Khobor](./tamajit-005-amar-khobor.md) | ⭐ — | Python | 42/100 |

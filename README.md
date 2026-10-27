@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42781** |
-| **Categories** | **515** |
+| **Projects** | **42788** |
+| **Categories** | **516** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17107 | [Browse →](./misc/) |
+| 📦 **Misc** | 17109 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4586 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2888 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2400 | [Browse →](./orchestration/) |
@@ -45,11 +45,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Communication** | 443 | [Browse →](./communication/) |
 | 💳 **Payments** | 371 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 345 | [Browse →](./games--graphics/) |
-| 📊 **Data** | 343 | [Browse →](./data/) |
+| 📊 **Data** | 344 | [Browse →](./data/) |
 | 🏷️ **Productivity** | 335 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 308 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 269 | [Browse →](./libraries--sdks/) |
-| 📈 **Trading** | 217 | [Browse →](./trading/) |
+| 📈 **Trading** | 220 | [Browse →](./trading/) |
 | ✨ **Design** | 185 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 154 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 128 | [Browse →](./vertical-video/) |
@@ -192,6 +192,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agent-skill-security** | 1 | [Browse →](./agent-skill-security/) |
 | 🏷️ **Email-validation** | 1 | [Browse →](./email-validation/) |
 | 🏷️ **Fine-tuning** | 1 | [Browse →](./fine-tuning/) |
 | 🏷️ **Cicd** | 1 | [Browse →](./cicd/) |
