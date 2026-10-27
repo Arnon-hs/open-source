@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sanjaysah101/sloandesk](./sanjaysah101-sloandesk.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [sanjaysah101/sloandesk](./sanjaysah101-sloandesk.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ronaksarda/couch](./ronaksarda-couch.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [ronaksarda/couch](./ronaksarda-couch.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 

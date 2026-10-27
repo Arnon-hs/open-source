@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aipdv/tonesearch](./aipdv-tonesearch.md) | ⭐ — | Python | 36/100 |
+| 1 | [aipdv/tonesearch](./aipdv-tonesearch.md) | ⭐ — | Python | 33/100 |
 
 ---
 
