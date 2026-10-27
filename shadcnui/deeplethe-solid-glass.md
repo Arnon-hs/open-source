@@ -1,6 +1,6 @@
 # deeplethe/solid-glass
 
-[![Stars](https://img.shields.io/github/stars/deeplethe/solid-glass?style=flat-square&color=yellow)](https://github.com/deeplethe/solid-glass/stargazers) [![Forks](https://img.shields.io/github/forks/deeplethe/solid-glass?style=flat-square&color=blue)](https://github.com/deeplethe/solid-glass/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deeplethe/solid-glass?style=flat-square&color=yellow)](https://github.com/deeplethe/solid-glass/stargazers) [![Forks](https://img.shields.io/github/forks/deeplethe/solid-glass?style=flat-square&color=blue)](https://github.com/deeplethe/solid-glass/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > A design system for AI applications. Material, physical, tactile, technical.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ deeplethe/solid-glass：deeplethe/solid-glass may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 79/100 |
+| production | 66/100 |
+| outlook | 72/100 |
 | adoption | 62/100 |
 | categoryMatchCount | 600/100 |
 | stars | 71/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

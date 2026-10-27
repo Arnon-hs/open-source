@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [zish-s/EZsearch](./zish-s-ezsearch.md) | ⭐ — | Python | 49/100 |
+| 1 | [zish-s/EZsearch](./zish-s-ezsearch.md) | ⭐ — | Python | 46/100 |
 
 ---
 

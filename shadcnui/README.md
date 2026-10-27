@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [deeplethe/solid-glass](./deeplethe-solid-glass.md) | ⭐ 2.2k | TypeScript | 66/100 |
+| 1 | [deeplethe/solid-glass](./deeplethe-solid-glass.md) | ⭐ 2.2k | TypeScript | 62/100 |
 
 ---
 
