@@ -1,6 +1,6 @@
 # Charles950311/dsh-plugin-hub
 
-[![Stars](https://img.shields.io/github/stars/Charles950311/dsh-plugin-hub?style=flat-square&color=yellow)](https://github.com/Charles950311/dsh-plugin-hub/stargazers) [![Forks](https://img.shields.io/github/forks/Charles950311/dsh-plugin-hub?style=flat-square&color=blue)](https://github.com/Charles950311/dsh-plugin-hub/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Charles950311/dsh-plugin-hub?style=flat-square&color=yellow)](https://github.com/Charles950311/dsh-plugin-hub/stargazers) [![Forks](https://img.shields.io/github/forks/Charles950311/dsh-plugin-hub?style=flat-square&color=blue)](https://github.com/Charles950311/dsh-plugin-hub/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Control hub for DeepSeek Harness (dsh) plugins and skills: one routing table, one status check, one manifest. MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Charles950311/dsh-plugin-hub：Charles950311/dsh-plugin-hub may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 67/100 |
+| production | 56/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

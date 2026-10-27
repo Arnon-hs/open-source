@@ -32,10 +32,10 @@
 | 22 | [hyperframes/hyperframes](./hyperframes-hyperframes.md) | ⭐ 5 | — | 40/100 |
 | 23 | [hafeezmt/listingwriter](./hafeezmt-listingwriter.md) | ⭐ — | Python | 40/100 |
 | 24 | [Neet2516/PatchGarden](./neet2516-patchgarden.md) | ⭐ — | TypeScript | 39/100 |
-| 25 | [Kuki-09/file-tidier](./kuki-09-file-tidier.md) | ⭐ — | Python | 39/100 |
-| 26 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 38/100 |
-| 27 | [LakSHyaMudgal1/CargoTrip](./lakshyamudgal1-cargotrip.md) | ⭐ — | TypeScript | 37/100 |
-| 28 | [adibafna/FridgeSloth](./adibafna-fridgesloth.md) | ⭐ — | JavaScript | 36/100 |
+| 25 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 38/100 |
+| 26 | [LakSHyaMudgal1/CargoTrip](./lakshyamudgal1-cargotrip.md) | ⭐ — | TypeScript | 37/100 |
+| 27 | [adibafna/FridgeSloth](./adibafna-fridgesloth.md) | ⭐ — | JavaScript | 36/100 |
+| 28 | [Kuki-09/file-tidier](./kuki-09-file-tidier.md) | ⭐ — | Python | 36/100 |
 | 29 | [shashank03-dev/RakeLess](./shashank03-dev-rakeless.md) | ⭐ — | TypeScript | 36/100 |
 | 30 | [siddg1161/HacktoberfestSage](./siddg1161-hacktoberfestsage.md) | ⭐ — | TypeScript | 36/100 |
 | 31 | [nora-programadora/mano-en-mano-fichas-ia](./nora-programadora-mano-en-mano-fichas-ia.md) | ⭐ — | TypeScript | 36/100 |
