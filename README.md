@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42796** |
-| **Categories** | **517** |
+| **Projects** | **42802** |
+| **Categories** | **518** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17111 | [Browse →](./misc/) |
+| 📦 **Misc** | 17115 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4588 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2888 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2400 | [Browse →](./orchestration/) |
@@ -56,8 +56,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 122 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 35 | [Browse →](./marketing/) |
 | 🏷️ **Open-source** | 33 | [Browse →](./open-source/) |
-| 🏷️ **Local-ai** | 33 | [Browse →](./local-ai/) |
 | 🏷️ **Education** | 32 | [Browse →](./education/) |
+| 🏷️ **Local-ai** | 32 | [Browse →](./local-ai/) |
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
 | 🏷️ **Ai-agents** | 30 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 20 | [Browse →](./privacy/) |
@@ -66,10 +66,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 18 | [Browse →](./local-first/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
+| 🏷️ **Macos** | 10 | [Browse →](./macos/) |
 | 🏷️ **Rust** | 9 | [Browse →](./rust/) |
 | 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |
 | 🏷️ **Whatsapp** | 9 | [Browse →](./whatsapp/) |
-| 🏷️ **Macos** | 9 | [Browse →](./macos/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
@@ -123,6 +123,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Pst** | 2 | [Browse →](./pst/) |
 | 🏷️ **Nestjs** | 2 | [Browse →](./nestjs/) |
 | 🏷️ **Invoice-processing** | 2 | [Browse →](./invoice-processing/) |
 | 🏷️ **Laravel** | 2 | [Browse →](./laravel/) |
@@ -192,6 +193,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ted** | 1 | [Browse →](./ted/) |
+| 🏷️ **Zsh** | 1 | [Browse →](./zsh/) |
 | 🏷️ **Wayback-machine** | 1 | [Browse →](./wayback-machine/) |
 | 🏷️ **Agent-skill-security** | 1 | [Browse →](./agent-skill-security/) |
 | 🏷️ **Email-validation** | 1 | [Browse →](./email-validation/) |
@@ -265,8 +268,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Attention** | 1 | [Browse →](./attention/) |
 | 🏷️ **Support** | 1 | [Browse →](./support/) |
 | 🏷️ **Monitoring** | 1 | [Browse →](./monitoring/) |
-| 🏷️ **Output-contract** | 1 | [Browse →](./output-contract/) |
-| 🏷️ **Ai-coding-agent** | 1 | [Browse →](./ai-coding-agent/) |
 | 🏷️ **Standup** | 1 | [Browse →](./standup/) |
 | 🏷️ **Excalidraw** | 1 | [Browse →](./excalidraw/) |
 | 🏷️ **Browser-game** | 1 | [Browse →](./browser-game/) |
