@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [theinsidecoder/beamdrop](./theinsidecoder-beamdrop.md) | ⭐ — | HTML | 39/100 |
+| 1 | [theinsidecoder/beamdrop](./theinsidecoder-beamdrop.md) | ⭐ — | HTML | 36/100 |
 
 ---
 

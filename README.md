@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42918** |
-| **Categories** | **521** |
+| **Projects** | **42929** |
+| **Categories** | **522** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17175 | [Browse →](./misc/) |
+| 📦 **Misc** | 17183 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4597 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2892 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2402 | [Browse →](./orchestration/) |
@@ -53,14 +53,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 185 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 130 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 121 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 123 | [Browse →](./ai/) |
 | 🏷️ **Marketing** | 35 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Open-source** | 32 | [Browse →](./open-source/) |
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
-| 🏷️ **Local-ai** | 30 | [Browse →](./local-ai/) |
-| 🏷️ **Ai-agents** | 29 | [Browse →](./ai-agents/) |
-| 🏷️ **Privacy** | 21 | [Browse →](./privacy/) |
+| 🏷️ **Ai-agents** | 30 | [Browse →](./ai-agents/) |
+| 🏷️ **Local-ai** | 29 | [Browse →](./local-ai/) |
+| 🏷️ **Privacy** | 22 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 15 | [Browse →](./local-llm/) |
@@ -148,7 +148,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Raspberry-pi** | 2 | [Browse →](./raspberry-pi/) |
 | 🏷️ **Github** | 2 | [Browse →](./github/) |
 | 🏷️ **Coding-agent** | 2 | [Browse →](./coding-agent/) |
-| 🏷️ **Ai-feedback** | 2 | [Browse →](./ai-feedback/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
 | 🏷️ **Flaky-tests** | 2 | [Browse →](./flaky-tests/) |
 | 🏷️ **Matrixos** | 2 | [Browse →](./matrixos/) |
@@ -196,6 +195,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ebook-reader** | 1 | [Browse →](./ebook-reader/) |
+| 🏷️ **Da-de-los-muertos** | 1 | [Browse →](./da-de-los-muertos/) |
 | 🏷️ **Focus** | 1 | [Browse →](./focus/) |
 | 🏷️ **Agentic-coding** | 1 | [Browse →](./agentic-coding/) |
 | 🏷️ **Privatebin** | 1 | [Browse →](./privatebin/) |
