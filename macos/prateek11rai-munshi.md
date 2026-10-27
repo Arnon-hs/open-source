@@ -1,6 +1,6 @@
 # prateek11rai/munshi
 
-[![Stars](https://img.shields.io/github/stars/prateek11rai/munshi?style=flat-square&color=yellow)](https://github.com/prateek11rai/munshi/stargazers) [![Forks](https://img.shields.io/github/forks/prateek11rai/munshi?style=flat-square&color=blue)](https://github.com/prateek11rai/munshi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prateek11rai/munshi?style=flat-square&color=yellow)](https://github.com/prateek11rai/munshi/stargazers) [![Forks](https://img.shields.io/github/forks/prateek11rai/munshi?style=flat-square&color=blue)](https://github.com/prateek11rai/munshi/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop buddy for your Mac that keeps your daily register with a local open-weight model (Gemma 4 via Ollama). No screenshots, no keystrokes, nothing leaves your Mac.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ prateek11rai/munshi：prateek11rai/munshi may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
