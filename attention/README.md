@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Dao-AILab/flash-attention](./dao-ailab-flash-attention.md) | ⭐ 25.2k | Python | 63/100 |
+| 1 | [Dao-AILab/flash-attention](./dao-ailab-flash-attention.md) | ⭐ 25.2k | Python | 60/100 |
 
 ---
 

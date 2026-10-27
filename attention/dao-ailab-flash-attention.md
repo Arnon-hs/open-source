@@ -1,6 +1,6 @@
 # Dao-AILab/flash-attention
 
-[![Stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=flat-square&color=yellow)](https://github.com/Dao-AILab/flash-attention/stargazers) [![Forks](https://img.shields.io/github/forks/Dao-AILab/flash-attention?style=flat-square&color=blue)](https://github.com/Dao-AILab/flash-attention/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dao-AILab/flash-attention?style=flat-square&color=yellow)](https://github.com/Dao-AILab/flash-attention/stargazers) [![Forks](https://img.shields.io/github/forks/Dao-AILab/flash-attention?style=flat-square&color=blue)](https://github.com/Dao-AILab/flash-attention/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Fast and memory-efficient exact attention
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 25.2k |
 | 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Dao-AILab/flash-attention：Dao-AILab/flash-attention may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 92/100 |
 | categoryMatchCount | 700/100 |
 | stars | 94/100 |
 | forks | 88/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

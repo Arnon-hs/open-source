@@ -14,8 +14,8 @@
 | 4 | [apple-oss-distributions/mDNSResponder](./apple-oss-distributions-mdnsresponder.md) | ⭐ 404 | C | 45/100 |
 | 5 | [joeystdio/GhostMouse](./joeystdio-ghostmouse.md) | ⭐ — | Swift | 44/100 |
 | 6 | [adfd3ewdf3/FinderBack](./adfd3ewdf3-finderback.md) | ⭐ — | Swift | 41/100 |
-| 7 | [satinath-nit/Nathstar](./satinath-nit-nathstar.md) | ⭐ — | Swift | 36/100 |
-| 8 | [MattSenter/commandh](./mattsenter-commandh.md) | ⭐ 1 | Swift | 34/100 |
+| 7 | [MattSenter/commandh](./mattsenter-commandh.md) | ⭐ 1 | Swift | 34/100 |
+| 8 | [satinath-nit/Nathstar](./satinath-nit-nathstar.md) | ⭐ — | Swift | 33/100 |
 | 9 | [contexts/OpenContexts](./contexts-opencontexts.md) | ⭐ — | — | 24/100 |
 
 ---

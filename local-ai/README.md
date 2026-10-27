@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [amangithub01/refund-sloth](./amangithub01-refund-sloth.md) | ⭐ — | TypeScript | 66/100 |
+| 1 | [amangithub01/refund-sloth](./amangithub01-refund-sloth.md) | ⭐ — | TypeScript | 63/100 |
 | 2 | [nateshmbhat/pyttsx3](./nateshmbhat-pyttsx3.md) | ⭐ 2.5k | Python | 59/100 |
 | 3 | [cmusphinx/pocketsphinx](./cmusphinx-pocketsphinx.md) | ⭐ 4.4k | C | 58/100 |
 | 4 | [Helsinki-NLP/Opus-MT](./helsinki-nlp-opus-mt.md) | ⭐ 870 | Python | 57/100 |

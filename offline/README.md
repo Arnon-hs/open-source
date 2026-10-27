@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MinishLab/model2vec](./minishlab-model2vec.md) | ⭐ 2.3k | Python | 62/100 |
+| 1 | [MinishLab/model2vec](./minishlab-model2vec.md) | ⭐ 2.3k | Python | 59/100 |
 | 2 | [zyakuhq/holdsend](./zyakuhq-holdsend.md) | ⭐ — | TypeScript | 42/100 |
 | 3 | [RZEROSTERN/hacktoberfest-week4](./rzerostern-hacktoberfest-week4.md) | ⭐ — | Python | 42/100 |
 | 4 | [parnita-Singh/PDFme-week3](./parnita-singh-pdfme-week3.md) | ⭐ 1 | Python | 41/100 |

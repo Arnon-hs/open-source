@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [VyxorDev/starterqueue](./vyxordev-starterqueue.md) | ⭐ 1 | TypeScript | 62/100 |
-| 2 | [flash-source/sloth-contributor](./flash-source-sloth-contributor.md) | ⭐ — | Python | 62/100 |
+| 2 | [flash-source/sloth-contributor](./flash-source-sloth-contributor.md) | ⭐ — | Python | 59/100 |
 | 3 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 53/100 |
 | 4 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 41/100 |
 | 5 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 37/100 |
