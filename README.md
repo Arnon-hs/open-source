@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42814** |
+| **Projects** | **42819** |
 | **Categories** | **519** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17119 | [Browse →](./misc/) |
+| 📦 **Misc** | 17121 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4590 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2889 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2401 | [Browse →](./orchestration/) |
@@ -37,10 +37,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 657 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 625 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 616 | [Browse →](./cloud--storage/) |
-| 🏷️ **Database** | 556 | [Browse →](./database/) |
+| 🏷️ **Database** | 557 | [Browse →](./database/) |
 | 🏷️ **Video-editing** | 533 | [Browse →](./video-editing/) |
 | 🚀 **DevOps & Infra** | 523 | [Browse →](./devopsinfra/) |
-| 🏷️ **Templates** | 476 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 477 | [Browse →](./templates/) |
 | 🔐 **Security** | 447 | [Browse →](./security/) |
 | 🏷️ **Communication** | 444 | [Browse →](./communication/) |
 | 💳 **Payments** | 371 | [Browse →](./payments/) |
@@ -61,9 +61,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-ai** | 31 | [Browse →](./local-ai/) |
 | 🏷️ **Ai-agents** | 29 | [Browse →](./ai-agents/) |
 | 🏷️ **Privacy** | 20 | [Browse →](./privacy/) |
+| 🏷️ **Llm** | 19 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 18 | [Browse →](./local-llm/) |
-| 🏷️ **Llm** | 18 | [Browse →](./llm/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Macos** | 10 | [Browse →](./macos/) |

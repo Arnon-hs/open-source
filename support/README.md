@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [openai-lover/replyshelf](./openai-lover-replyshelf.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [openai-lover/replyshelf](./openai-lover-replyshelf.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
