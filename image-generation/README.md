@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [allenai/mflux](./allenai-mflux.md) | ⭐ — | — | 24/100 |
+| 1 | [fal-ai/moss-image](./fal-ai-moss-image.md) | ⭐ — | — | 24/100 |
+| 2 | [allenai/mflux](./allenai-mflux.md) | ⭐ — | — | 24/100 |
 
 ---
 

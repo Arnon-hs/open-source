@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [jahnavist04/lazydesk-ai](./jahnavist04-lazydesk-ai.md) | ⭐ — | Python | 42/100 |
-| 2 | [ABhattacharya-dev/LazyRename](./abhattacharya-dev-lazyrename.md) | ⭐ — | Python | 42/100 |
+| 2 | [ABhattacharya-dev/LazyRename](./abhattacharya-dev-lazyrename.md) | ⭐ — | Python | 39/100 |
 | 3 | [vikasfine17/sloth-sorter](./vikasfine17-sloth-sorter.md) | ⭐ — | Python | 36/100 |
 
 ---

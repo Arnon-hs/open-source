@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [badgujarkunal93-blip/sarasai](./badgujarkunal93-blip-sarasai.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [badgujarkunal93-blip/sarasai](./badgujarkunal93-blip-sarasai.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 

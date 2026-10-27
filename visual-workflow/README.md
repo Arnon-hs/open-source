@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [VladB-evs/Fuse](./vladb-evs-fuse.md) | ⭐ — | TypeScript | 57/100 |
+| 1 | [VynelixAI/Agent-Studio](./vynelixai-agent-studio.md) | ⭐ 1 | TypeScript | 42/100 |
 
 ---
 
