@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AryanGarg-beep/sloth](./aryangarg-beep-sloth.md) | ⭐ — | Python | 39/100 |
-| 2 | [Charlie-ai786/tidydesk-ai](./charlie-ai786-tidydesk-ai.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [Charlie-ai786/tidydesk-ai](./charlie-ai786-tidydesk-ai.md) | ⭐ — | TypeScript | 39/100 |
+| 2 | [AryanGarg-beep/sloth](./aryangarg-beep-sloth.md) | ⭐ — | Python | 36/100 |
 
 ---
 
