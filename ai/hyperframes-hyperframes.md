@@ -1,6 +1,6 @@
 # hyperframes/hyperframes
 
-[![Stars](https://img.shields.io/github/stars/hyperframes/hyperframes?style=flat-square&color=yellow)](https://github.com/hyperframes/hyperframes/stargazers) [![Forks](https://img.shields.io/github/forks/hyperframes/hyperframes?style=flat-square&color=blue)](https://github.com/hyperframes/hyperframes/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperframes/hyperframes?style=flat-square&color=yellow)](https://github.com/hyperframes/hyperframes/stargazers) [![Forks](https://img.shields.io/github/forks/hyperframes/hyperframes?style=flat-square&color=blue)](https://github.com/hyperframes/hyperframes/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI · image generation · video production · Apple Silicon · free tools
 
 ### English
 
-hyperframes/hyperframes: hyperframes/hyperframes may be useful when its README and activity match a concrete workflow.. Use it for AI, image generation, video production, Apple Silicon, free tools. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hyperframes/hyperframes: hyperframes/hyperframes may be useful when its README and activity match a concrete workflow.. Use it for AI, image generation, video production, Apple Silicon, free tools. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-hyperframes/hyperframes: open-source проект в категориях AI, image generation, video production, Apple Silicon, free tools. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+hyperframes/hyperframes: open-source проект в категориях AI, image generation, video production, Apple Silicon, free tools. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-hyperframes/hyperframes：hyperframes/hyperframes may be useful when its README and activity match a concrete workflow.。适合用于AI、image generation、video production、Apple Silicon、free tools。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hyperframes/hyperframes：hyperframes/hyperframes may be useful when its README and activity match a concrete workflow.。适合用于AI、image generation、video production、Apple Silicon、free tools。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ hyperframes/hyperframes：hyperframes/hyperframes may be useful when its README 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ hyperframes/hyperframes：hyperframes/hyperframes may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 18/100 |
-| production | 56/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 15/100 |
 | categoryMatchCount | 500/100 |
 | stars | 17/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

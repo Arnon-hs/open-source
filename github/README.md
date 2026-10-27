@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [juanNH/ReadmeGenerator](./juannh-readmegenerator.md) | ⭐ 2 | TypeScript | 44/100 |
+| 1 | [juanNH/ReadmeGenerator](./juannh-readmegenerator.md) | ⭐ 2 | TypeScript | 41/100 |
 | 2 | [VanshajPoonia/already-filed](./vanshajpoonia-already-filed.md) | ⭐ — | JavaScript | 39/100 |
 
 ---
