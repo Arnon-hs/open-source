@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42963** |
+| **Projects** | **42966** |
 | **Categories** | **523** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17199 | [Browse →](./misc/) |
+| 📦 **Misc** | 17201 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4600 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2894 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2404 | [Browse →](./orchestration/) |
@@ -60,13 +60,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
 | 🏷️ **Ai-agents** | 29 | [Browse →](./ai-agents/) |
 | 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
-| 🏷️ **Privacy** | 22 | [Browse →](./privacy/) |
+| 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 15 | [Browse →](./local-llm/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
+| 🏷️ **Rust** | 11 | [Browse →](./rust/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
-| 🏷️ **Rust** | 10 | [Browse →](./rust/) |
 | 🏷️ **Macos** | 10 | [Browse →](./macos/) |
 | 🏷️ **Ci** | 9 | [Browse →](./ci/) |
 | 🏷️ **Claude-code** | 9 | [Browse →](./claude-code/) |
@@ -78,13 +78,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
-| 🏷️ **Claude** | 5 | [Browse →](./claude/) |
 | 🏷️ **Android** | 5 | [Browse →](./android/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Claude** | 4 | [Browse →](./claude/) |
 | 🏷️ **Windows** | 4 | [Browse →](./windows/) |
 | 🏷️ **Agent** | 4 | [Browse →](./agent/) |
 | 🏷️ **Api** | 4 | [Browse →](./api/) |

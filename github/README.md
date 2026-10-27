@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [VanshajPoonia/already-filed](./vanshajpoonia-already-filed.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [VanshajPoonia/already-filed](./vanshajpoonia-already-filed.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
