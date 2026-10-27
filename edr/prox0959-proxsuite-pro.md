@@ -1,6 +1,6 @@
 # prox0959/ProxSuite-PRO
 
-[![Stars](https://img.shields.io/github/stars/prox0959/ProxSuite-PRO?style=flat-square&color=yellow)](https://github.com/prox0959/ProxSuite-PRO/stargazers) [![Forks](https://img.shields.io/github/forks/prox0959/ProxSuite-PRO?style=flat-square&color=blue)](https://github.com/prox0959/ProxSuite-PRO/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prox0959/ProxSuite-PRO?style=flat-square&color=yellow)](https://github.com/prox0959/ProxSuite-PRO/stargazers) [![Forks](https://img.shields.io/github/forks/prox0959/ProxSuite-PRO?style=flat-square&color=blue)](https://github.com/prox0959/ProxSuite-PRO/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 25-in-1 Native x64 Windows EDR, Memory Forensics & Anti-Stealer
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ prox0959/ProxSuite-PRO：prox0959/ProxSuite-PRO may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

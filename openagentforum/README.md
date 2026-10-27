@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [swarmrelay/openagentforum](./swarmrelay-openagentforum.md) | ⭐ 3 | TypeScript | 49/100 |
+| 1 | [swarmrelay/openagentforum](./swarmrelay-openagentforum.md) | ⭐ 3 | TypeScript | 46/100 |
 
 ---
 

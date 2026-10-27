@@ -9,10 +9,10 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [herinpatel15/toolcallbench](./herinpatel15-toolcallbench.md) | ⭐ — | Python | 43/100 |
-| 2 | [dekita-dev/five-things](./dekita-dev-five-things.md) | ⭐ — | Python | 42/100 |
-| 3 | [C12isme945/pausedock](./c12isme945-pausedock.md) | ⭐ — | Python | 42/100 |
-| 4 | [Shashank-blip/Ofrenda](./shashank-blip-ofrenda.md) | ⭐ — | Python | 39/100 |
-| 5 | [laiba-Ashfaq/lazy-downloads-tidier](./laiba-ashfaq-lazy-downloads-tidier.md) | ⭐ — | Python | 39/100 |
+| 2 | [Shashank-blip/Ofrenda](./shashank-blip-ofrenda.md) | ⭐ — | Python | 39/100 |
+| 3 | [laiba-Ashfaq/lazy-downloads-tidier](./laiba-ashfaq-lazy-downloads-tidier.md) | ⭐ — | Python | 39/100 |
+| 4 | [dekita-dev/five-things](./dekita-dev-five-things.md) | ⭐ — | Python | 39/100 |
+| 5 | [C12isme945/pausedock](./c12isme945-pausedock.md) | ⭐ — | Python | 39/100 |
 | 6 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
 | 7 | [Abishethvarman/CiteWise](./abishethvarman-citewise.md) | ⭐ — | Python | 36/100 |
 | 8 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |

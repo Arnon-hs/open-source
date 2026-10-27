@@ -566,8 +566,8 @@
 | 556 | [GSManagerXZ/GameServerManager](./gsmanagerxz-gameservermanager.md) | ⭐ 1k | TypeScript | 61/100 |
 | 557 | [vehagn/homelab](./vehagn-homelab.md) | ⭐ 399 | HCL | 61/100 |
 | 558 | [mesamirh/MovieBox-Tui](./mesamirh-moviebox-tui.md) | ⭐ 696 | Rust | 61/100 |
-| 559 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.3k | C++ | 61/100 |
-| 560 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
+| 559 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
+| 560 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.3k | C++ | 61/100 |
 | 561 | [simonepri/sympact](./simonepri-sympact.md) | ⭐ 441 | JavaScript | 61/100 |
 | 562 | [chung-leong/zigar](./chung-leong-zigar.md) | ⭐ 415 | Zig | 61/100 |
 | 563 | [rejetto/hfs](./rejetto-hfs.md) | ⭐ 3.8k | TypeScript | 61/100 |
@@ -793,8 +793,8 @@
 | 783 | [sozercan/kaset](./sozercan-kaset.md) | ⭐ 1.1k | Swift | 55/100 |
 | 784 | [ClickHouse/clickhouse-js](./clickhouse-clickhouse-js.md) | ⭐ 311 | TypeScript | 55/100 |
 | 785 | [typegoose/typegoose](./typegoose-typegoose.md) | ⭐ 2.3k | TypeScript | 55/100 |
-| 786 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
-| 787 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 384 | Python | 55/100 |
+| 786 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 384 | Python | 55/100 |
+| 787 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
 | 788 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2k | JavaScript | 55/100 |
 | 789 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 10.1k | Rust | 55/100 |
 | 790 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 229 | — | 55/100 |

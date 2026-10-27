@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [prox0959/ProxSuite-PRO](./prox0959-proxsuite-pro.md) | ⭐ 3 | C# | 54/100 |
+| 1 | [prox0959/ProxSuite-PRO](./prox0959-proxsuite-pro.md) | ⭐ 3 | C# | 51/100 |
 
 ---
 

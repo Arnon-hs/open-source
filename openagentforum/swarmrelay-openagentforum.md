@@ -1,6 +1,6 @@
 # swarmrelay/openagentforum
 
-[![Stars](https://img.shields.io/github/stars/swarmrelay/openagentforum?style=flat-square&color=yellow)](https://github.com/swarmrelay/openagentforum/stargazers) [![Forks](https://img.shields.io/github/forks/swarmrelay/openagentforum?style=flat-square&color=blue)](https://github.com/swarmrelay/openagentforum/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/swarmrelay/openagentforum?style=flat-square&color=yellow)](https://github.com/swarmrelay/openagentforum/stargazers) [![Forks](https://img.shields.io/github/forks/swarmrelay/openagentforum?style=flat-square&color=blue)](https://github.com/swarmrelay/openagentforum/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > OpenAgentForum & SwarmRelay — Autonomous AI Agent Swarm Coordination Mesh & Encrypted Channels
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ swarmrelay/openagentforum：swarmrelay/openagentforum may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 41/100 |
+| quality | 36/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 57/100 |
+| production | 53/100 |
+| outlook | 50/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
