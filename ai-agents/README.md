@@ -11,8 +11,8 @@
 | 1 | [ppcvote/mindthread-cli](./ppcvote-mindthread-cli.md) | ⭐ — | TypeScript | 66/100 |
 | 2 | [xX-its-amit-Xx/knowledgeispower](./xx-its-amit-xx-knowledgeispower.md) | ⭐ — | Python | 56/100 |
 | 3 | [profullstack/redeem-credits](./profullstack-redeem-credits.md) | ⭐ — | TypeScript | 49/100 |
-| 4 | [dynokore/DynoInvoice](./dynokore-dynoinvoice.md) | ⭐ 1 | Kotlin | 47/100 |
-| 5 | [profullstack/group-call](./profullstack-group-call.md) | ⭐ — | TypeScript | 46/100 |
+| 4 | [profullstack/group-call](./profullstack-group-call.md) | ⭐ — | TypeScript | 46/100 |
+| 5 | [dynokore/DynoInvoice](./dynokore-dynoinvoice.md) | ⭐ 1 | Kotlin | 44/100 |
 | 6 | [profullstack/affiliates](./profullstack-affiliates.md) | ⭐ — | TypeScript | 42/100 |
 | 7 | [RamyaRamachandran-driod/emergency-caller](./ramyaramachandran-driod-emergency-caller.md) | ⭐ — | TypeScript | 39/100 |
 | 8 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |

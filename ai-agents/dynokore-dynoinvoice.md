@@ -1,6 +1,6 @@
 # dynokore/DynoInvoice
 
-[![Stars](https://img.shields.io/github/stars/dynokore/DynoInvoice?style=flat-square&color=yellow)](https://github.com/dynokore/DynoInvoice/stargazers) [![Forks](https://img.shields.io/github/forks/dynokore/DynoInvoice?style=flat-square&color=blue)](https://github.com/dynokore/DynoInvoice/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dynokore/DynoInvoice?style=flat-square&color=yellow)](https://github.com/dynokore/DynoInvoice/stargazers) [![Forks](https://img.shields.io/github/forks/dynokore/DynoInvoice?style=flat-square&color=blue)](https://github.com/dynokore/DynoInvoice/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > DynoInvoice — an invoicing system built by AI agents under Keel governance. Source for study only (PolyForm Strict 1.0.0).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ dynokore/DynoInvoice：dynokore/DynoInvoice may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 55/100 |
+| production | 52/100 |
+| outlook | 48/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
