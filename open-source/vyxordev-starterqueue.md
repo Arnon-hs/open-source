@@ -1,6 +1,6 @@
 # VyxorDev/starterqueue
 
-[![Stars](https://img.shields.io/github/stars/VyxorDev/starterqueue?style=flat-square&color=yellow)](https://github.com/VyxorDev/starterqueue/stargazers) [![Forks](https://img.shields.io/github/forks/VyxorDev/starterqueue?style=flat-square&color=blue)](https://github.com/VyxorDev/starterqueue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VyxorDev/starterqueue?style=flat-square&color=yellow)](https://github.com/VyxorDev/starterqueue/stargazers) [![Forks](https://img.shields.io/github/forks/VyxorDev/starterqueue?style=flat-square&color=blue)](https://github.com/VyxorDev/starterqueue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Audit your good first issue queue for stale, assigned, blocked, or already-being-fixed issues.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ VyxorDev/starterqueue：VyxorDev/starterqueue may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 94/100 |
-| production | 70/100 |
-| outlook | 64/100 |
+| production | 63/100 |
+| outlook | 57/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 
