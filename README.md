@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42971** |
+| **Projects** | **42972** |
 | **Categories** | **520** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 813 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 715 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 663 | [Browse →](./networking/) |
-| 📱 **Mobile** | 658 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 659 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 626 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 616 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 558 | [Browse →](./database/) |
@@ -43,7 +43,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 478 | [Browse →](./templates/) |
 | 🔐 **Security** | 448 | [Browse →](./security/) |
 | 🏷️ **Communication** | 447 | [Browse →](./communication/) |
-| 💳 **Payments** | 371 | [Browse →](./payments/) |
+| 💳 **Payments** | 372 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 346 | [Browse →](./games--graphics/) |
 | 📊 **Data** | 344 | [Browse →](./data/) |
 | 🏷️ **Productivity** | 336 | [Browse →](./productivity/) |
@@ -88,7 +88,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Windows** | 4 | [Browse →](./windows/) |
 | 🏷️ **Agent** | 4 | [Browse →](./agent/) |
 | 🏷️ **Api** | 4 | [Browse →](./api/) |
-| 🏷️ **Ios** | 4 | [Browse →](./ios/) |
 | 🏷️ **Documentation** | 4 | [Browse →](./documentation/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Offline-ai** | 4 | [Browse →](./offline-ai/) |
@@ -105,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Asr** | 3 | [Browse →](./asr/) |
 | 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
+| 🏷️ **Ios** | 3 | [Browse →](./ios/) |
 | 🏷️ **Browser-automation** | 3 | [Browse →](./browser-automation/) |
 | 🏷️ **Ai-security** | 3 | [Browse →](./ai-security/) |
 | 🏷️ **Hacktoberfest** | 3 | [Browse →](./hacktoberfest/) |
