@@ -1,6 +1,6 @@
 # MGdaasLab/WHartTest
 
-[![Stars](https://img.shields.io/github/stars/MGdaasLab/WHartTest?style=flat-square&color=yellow)](https://github.com/MGdaasLab/WHartTest/stargazers) [![Forks](https://img.shields.io/github/forks/MGdaasLab/WHartTest?style=flat-square&color=blue)](https://github.com/MGdaasLab/WHartTest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MGdaasLab/WHartTest?style=flat-square&color=yellow)](https://github.com/MGdaasLab/WHartTest/stargazers) [![Forks](https://img.shields.io/github/forks/MGdaasLab/WHartTest?style=flat-square&color=blue)](https://github.com/MGdaasLab/WHartTest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > WHartTest 是一款AI驱动的测试自动化平台，实现从需求到可执行测试用例的自动化生成与管理，帮助测试团队提升效率与覆盖率。 (WHartTest is an AI-driven test automation platform that automates the generation and management of executable test cases from requirements, helping testing teams improve efficiency and coverage.)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ MGdaasLab/WHartTest：MGdaasLab/WHartTest may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 80/100 |
+| production | 65/100 |
+| outlook | 73/100 |
 | adoption | 62/100 |
 | categoryMatchCount | 600/100 |
 | stars | 65/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

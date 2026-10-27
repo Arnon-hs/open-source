@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hariomlohardev/mini-sklearn](./hariomlohardev-mini-sklearn.md) | ⭐ 1 | Python | 41/100 |
+| 1 | [hariomlohardev/mini-sklearn](./hariomlohardev-mini-sklearn.md) | ⭐ 1 | Python | 37/100 |
 
 ---
 

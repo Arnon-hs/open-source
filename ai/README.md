@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [onelpawarai-X/ZYRAXON-AI](./onelpawarai-x-zyraxon-ai.md) | ⭐ 9 | TypeScript | 70/100 |
-| 2 | [MGdaasLab/WHartTest](./mgdaaslab-wharttest.md) | ⭐ 1.1k | Python | 69/100 |
-| 3 | [machenh001-pixel/agent-colony](./machenh001-pixel-agent-colony.md) | ⭐ 2 | JavaScript | 68/100 |
+| 2 | [machenh001-pixel/agent-colony](./machenh001-pixel-agent-colony.md) | ⭐ 2 | JavaScript | 68/100 |
+| 3 | [MGdaasLab/WHartTest](./mgdaaslab-wharttest.md) | ⭐ 1.1k | Python | 66/100 |
 | 4 | [skibuff22/agent-ops-kit-lite](./skibuff22-agent-ops-kit-lite.md) | ⭐ — | Python | 60/100 |
 | 5 | [JohnWayneeee/casely-qa-skill](./johnwayneeee-casely-qa-skill.md) | ⭐ 11 | Python | 59/100 |
 | 6 | [adonai-labs/agent-runway](./adonai-labs-agent-runway.md) | ⭐ 2 | TypeScript | 58/100 |

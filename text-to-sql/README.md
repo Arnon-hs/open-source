@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [JerryGao818/UniQL](./jerrygao818-uniql.md) | ⭐ 1 | Python | 37/100 |
+| 1 | [JerryGao818/UniQL](./jerrygao818-uniql.md) | ⭐ 1 | Python | 34/100 |
 
 ---
 
