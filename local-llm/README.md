@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [herinpatel15/toolcallbench](./herinpatel15-toolcallbench.md) | ⭐ — | Python | 46/100 |
+| 1 | [herinpatel15/toolcallbench](./herinpatel15-toolcallbench.md) | ⭐ — | Python | 43/100 |
 | 2 | [dekita-dev/five-things](./dekita-dev-five-things.md) | ⭐ — | Python | 42/100 |
 | 3 | [C12isme945/pausedock](./c12isme945-pausedock.md) | ⭐ — | Python | 42/100 |
 | 4 | [Shashank-blip/Ofrenda](./shashank-blip-ofrenda.md) | ⭐ — | Python | 39/100 |
