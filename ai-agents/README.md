@@ -17,9 +17,9 @@
 | 7 | [RamyaRamachandran-driod/emergency-caller](./ramyaramachandran-driod-emergency-caller.md) | ⭐ — | TypeScript | 39/100 |
 | 8 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
 | 9 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 37/100 |
-| 10 | [CarGDev/codetyper.a2a](./cargdev-codetyper.a2a.md) | ⭐ — | Rust | 36/100 |
-| 11 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 36/100 |
-| 12 | [krishsf5/Graph-Hack-Hackathon-Team-7vengers](./krishsf5-graph-hack-hackathon-team-7vengers.md) | ⭐ 1 | JavaScript | 34/100 |
+| 10 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 36/100 |
+| 11 | [krishsf5/Graph-Hack-Hackathon-Team-7vengers](./krishsf5-graph-hack-hackathon-team-7vengers.md) | ⭐ 1 | JavaScript | 34/100 |
+| 12 | [CarGDev/codetyper.a2a](./cargdev-codetyper.a2a.md) | ⭐ — | Rust | 33/100 |
 | 13 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 33/100 |
 | 14 | [example/cli-seat](./example-cli-seat.md) | ⭐ — | — | 32/100 |
 | 15 | [pachca/cli](./pachca-cli.md) | ⭐ — | — | 32/100 |
