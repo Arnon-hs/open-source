@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [carla800/lazy-screenshot-namer](./carla800-lazy-screenshot-namer.md) | ⭐ — | Python | 42/100 |
+| 1 | [carla800/lazy-screenshot-namer](./carla800-lazy-screenshot-namer.md) | ⭐ — | Python | 39/100 |
 
 ---
 

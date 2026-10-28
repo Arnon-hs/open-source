@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rafaelherik/azure-lupa](./rafaelherik-azure-lupa.md) | ⭐ — | TypeScript | 36/100 |
+| 1 | [rafaelherik/azure-lupa](./rafaelherik-azure-lupa.md) | ⭐ — | TypeScript | 33/100 |
 
 ---
 

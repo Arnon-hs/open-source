@@ -1,6 +1,6 @@
 # onelpawarai-X/ZYRAXON-AI
 
-[![Stars](https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=yellow)](https://github.com/onelpawarai-X/ZYRAXON-AI/stargazers) [![Forks](https://img.shields.io/github/forks/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=blue)](https://github.com/onelpawarai-X/ZYRAXON-AI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=yellow)](https://github.com/onelpawarai-X/ZYRAXON-AI/stargazers) [![Forks](https://img.shields.io/github/forks/onelpawarai-X/ZYRAXON-AI?style=flat-square&color=blue)](https://github.com/onelpawarai-X/ZYRAXON-AI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > ZYRAXON AI — The World's Most Advanced Desktop AI Agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-10-25 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ onelpawarai-X/ZYRAXON-AI：onelpawarai-X/ZYRAXON-AI may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 77/100 |
+| production | 61/100 |
+| outlook | 70/100 |
 | adoption | 19/100 |
 | categoryMatchCount | 600/100 |
 | stars | 21/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
