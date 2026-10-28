@@ -14,9 +14,9 @@
 | 4 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
 | 5 | [kusalar/nova-local](./kusalar-nova-local.md) | ⭐ — | Python | 39/100 |
 | 6 | [padmalochini27-del/SlothSort](./padmalochini27-del-slothsort.md) | ⭐ — | Python | 39/100 |
-| 7 | [YuvrajSHAD/Desktop-Companion](./yuvrajshad-desktop-companion.md) | ⭐ — | Python | 39/100 |
-| 8 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 38/100 |
-| 9 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 37/100 |
+| 7 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 38/100 |
+| 8 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 37/100 |
+| 9 | [YuvrajSHAD/Desktop-Companion](./yuvrajshad-desktop-companion.md) | ⭐ — | Python | 36/100 |
 | 10 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 36/100 |
 | 11 | [Krishna5567/SlothSort](./krishna5567-slothsort.md) | ⭐ — | HTML | 36/100 |
 | 12 | [itsnazaretdev/sleepy-coder](./itsnazaretdev-sleepy-coder.md) | ⭐ — | TypeScript | 36/100 |

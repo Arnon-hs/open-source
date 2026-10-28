@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [swastik21/oil-on-silicon](./swastik21-oil-on-silicon.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [swastik21/oil-on-silicon](./swastik21-oil-on-silicon.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
