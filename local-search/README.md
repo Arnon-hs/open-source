@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kaminariouji/slothbox](./kaminariouji-slothbox.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [kaminariouji/slothbox](./kaminariouji-slothbox.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
