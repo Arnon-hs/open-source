@@ -1,6 +1,6 @@
 # bobbyhalljr/tiny-single-loop
 
-[![Stars](https://img.shields.io/github/stars/bobbyhalljr/tiny-single-loop?style=flat-square&color=yellow)](https://github.com/bobbyhalljr/tiny-single-loop/stargazers) [![Forks](https://img.shields.io/github/forks/bobbyhalljr/tiny-single-loop?style=flat-square&color=blue)](https://github.com/bobbyhalljr/tiny-single-loop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bobbyhalljr/tiny-single-loop?style=flat-square&color=yellow)](https://github.com/bobbyhalljr/tiny-single-loop/stargazers) [![Forks](https://img.shields.io/github/forks/bobbyhalljr/tiny-single-loop?style=flat-square&color=blue)](https://github.com/bobbyhalljr/tiny-single-loop/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Tiny TypeScript single agent loop with progressive disclosure. Skills and tools start as one-line descriptions, load on demand, and run under harness limits: a turn budget and a write gate. Fake model. No API key. No network.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-10-25 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ bobbyhalljr/tiny-single-loop：bobbyhalljr/tiny-single-loop may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

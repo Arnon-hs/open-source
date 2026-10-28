@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yrangana/fm-mcp](./yrangana-fm-mcp.md) | ⭐ 5 | Rust | 53/100 |
+| 1 | [yrangana/fm-mcp](./yrangana-fm-mcp.md) | ⭐ 5 | Rust | 50/100 |
 | 2 | [joeystdio/PortRadar](./joeystdio-portradar.md) | ⭐ — | Swift | 48/100 |
 | 3 | [apple-oss-distributions/mDNSResponder](./apple-oss-distributions-mdnsresponder.md) | ⭐ 404 | C | 45/100 |
 | 4 | [MilkmanAbi/MSL](./milkmanabi-msl.md) | ⭐ 3 | Swift | 42/100 |
