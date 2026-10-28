@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [zorexsalvo/still](./zorexsalvo-still.md) | ⭐ — | Python | 39/100 |
+| 1 | [zorexsalvo/still](./zorexsalvo-still.md) | ⭐ — | Python | 36/100 |
 | 2 | [cdr/code](./cdr-code.md) | ⭐ — | — | 24/100 |
 
 ---
