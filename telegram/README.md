@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Peiprjs/Ontspoord](./peiprjs-ontspoord.md) | ⭐ — | Python | 42/100 |
+| 1 | [Peiprjs/Ontspoord](./peiprjs-ontspoord.md) | ⭐ — | Python | 39/100 |
 | 2 | [nextlib/ffmpeg](./nextlib-ffmpeg.md) | ⭐ — | — | 27/100 |
 
 ---
