@@ -14,8 +14,8 @@
 | 4 | [Jainil26/sloth-sorter](./jainil26-sloth-sorter.md) | ⭐ 1 | Python | 41/100 |
 | 5 | [parnita-Singh/PDFme-week3](./parnita-singh-pdfme-week3.md) | ⭐ 1 | Python | 37/100 |
 | 6 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 37/100 |
-| 7 | [ish1416/SlothSnooze-AI](./ish1416-slothsnooze-ai.md) | ⭐ — | JavaScript | 36/100 |
-| 8 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 34/100 |
+| 7 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 34/100 |
+| 8 | [ish1416/SlothSnooze-AI](./ish1416-slothsnooze-ai.md) | ⭐ — | JavaScript | 33/100 |
 | 9 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 33/100 |
 | 10 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 33/100 |
 | 11 | [DhirajB05/HacktoberFest_C2](./dhirajb05-hacktoberfest-c2.md) | ⭐ — | Python | 33/100 |
