@@ -14,8 +14,8 @@
 | 4 | [MGdaasLab/WHartTest](./mgdaaslab-wharttest.md) | ⭐ 1.1k | Python | 66/100 |
 | 5 | [easyeda/easyeda-api-skill](./easyeda-easyeda-api-skill.md) | ⭐ 977 | JavaScript | 64/100 |
 | 6 | [skibuff22/agent-ops-kit-lite](./skibuff22-agent-ops-kit-lite.md) | ⭐ — | Python | 60/100 |
-| 7 | [JohnWayneeee/casely-qa-skill](./johnwayneeee-casely-qa-skill.md) | ⭐ 11 | Python | 59/100 |
-| 8 | [langchain-ai/openevals](./langchain-ai-openevals.md) | ⭐ 1.2k | Python | 56/100 |
+| 7 | [langchain-ai/openevals](./langchain-ai-openevals.md) | ⭐ 1.2k | Python | 56/100 |
+| 8 | [JohnWayneeee/casely-qa-skill](./johnwayneeee-casely-qa-skill.md) | ⭐ 11 | Python | 56/100 |
 | 9 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
 | 10 | [Ulk0r0/skillsentry](./ulk0r0-skillsentry.md) | ⭐ — | TypeScript | 54/100 |
 | 11 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 52/100 |

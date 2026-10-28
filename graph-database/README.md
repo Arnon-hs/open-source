@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SalesforceAIResearch/HERB](./salesforceairesearch-herb.md) | ⭐ 3 | Python | 33/100 |
+| 1 | [SalesforceAIResearch/HERB](./salesforceairesearch-herb.md) | ⭐ 3 | Python | 30/100 |
 
 ---
 
