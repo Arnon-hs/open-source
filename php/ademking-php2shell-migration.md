@@ -1,6 +1,6 @@
 # Ademking/php2shell-migration
 
-[![Stars](https://img.shields.io/github/stars/Ademking/php2shell-migration?style=flat-square&color=yellow)](https://github.com/Ademking/php2shell-migration/stargazers) [![Forks](https://img.shields.io/github/forks/Ademking/php2shell-migration?style=flat-square&color=blue)](https://github.com/Ademking/php2shell-migration/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Ademking/php2shell-migration?style=flat-square&color=yellow)](https://github.com/Ademking/php2shell-migration/stargazers) [![Forks](https://img.shields.io/github/forks/Ademking/php2shell-migration?style=flat-square&color=blue)](https://github.com/Ademking/php2shell-migration/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skills skill to detect, patch and verify PHP apps affected by PHP2Shell (CVE-2026-109618, CVE-2026-109619) or outdated PHP. Works with Claude Code, Codex, Copilot, Cursor, Gemini CLI, OpenCode.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-10-25 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Ademking/php2shell-migration：Ademking/php2shell-migration may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 700/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
