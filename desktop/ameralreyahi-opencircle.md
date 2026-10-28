@@ -1,6 +1,6 @@
 # AmerAlreyahi/OpenCircle
 
-[![Stars](https://img.shields.io/github/stars/AmerAlreyahi/OpenCircle?style=flat-square&color=yellow)](https://github.com/AmerAlreyahi/OpenCircle/stargazers) [![Forks](https://img.shields.io/github/forks/AmerAlreyahi/OpenCircle?style=flat-square&color=blue)](https://github.com/AmerAlreyahi/OpenCircle/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AmerAlreyahi/OpenCircle?style=flat-square&color=yellow)](https://github.com/AmerAlreyahi/OpenCircle/stargazers) [![Forks](https://img.shields.io/github/forks/AmerAlreyahi/OpenCircle?style=flat-square&color=blue)](https://github.com/AmerAlreyahi/OpenCircle/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source alternative to Google's Circle to Search for Windows & Linux: circle anything to search, translate the whole screen in place (great for games), ask AI, or snip & annotate. Rust, private, lightweight.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-25 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ AmerAlreyahi/OpenCircle：AmerAlreyahi/OpenCircle may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 64/100 |
+| production | 58/100 |
+| outlook | 57/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 700/100 |
 | stars | 19/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
