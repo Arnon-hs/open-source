@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ThanziaPatelRaheem/lazyflow-ai](./thanziapatelraheem-lazyflow-ai.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [ThanziaPatelRaheem/lazyflow-ai](./thanziapatelraheem-lazyflow-ai.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
