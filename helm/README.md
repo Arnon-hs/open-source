@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [EdwinJdevops/upgrade-review-brief](./edwinjdevops-upgrade-review-brief.md) | ⭐ — | Python | 39/100 |
+| 1 | [EdwinJdevops/upgrade-review-brief](./edwinjdevops-upgrade-review-brief.md) | ⭐ — | Python | 36/100 |
 
 ---
 
