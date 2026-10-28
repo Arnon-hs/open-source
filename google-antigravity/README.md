@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tawroot/antigravity-cleaner](./tawroot-antigravity-cleaner.md) | ⭐ 166 | HTML | 58/100 |
+| 1 | [tawroot/antigravity-cleaner](./tawroot-antigravity-cleaner.md) | ⭐ 166 | HTML | 55/100 |
 
 ---
 
