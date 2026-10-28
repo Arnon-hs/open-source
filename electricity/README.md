@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ArqamWaheed/slabwatch](./arqamwaheed-slabwatch.md) | ⭐ — | Python | 54/100 |
+| 1 | [ArqamWaheed/slabwatch](./arqamwaheed-slabwatch.md) | ⭐ — | Python | 51/100 |
 
 ---
 

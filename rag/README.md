@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Iddrisusalima/ask-my-docs](./iddrisusalima-ask-my-docs.md) | ⭐ 1 | Python | 64/100 |
+| 1 | [Iddrisusalima/ask-my-docs](./iddrisusalima-ask-my-docs.md) | ⭐ 1 | Python | 61/100 |
 | 2 | [UKPLab/fastembed](./ukplab-fastembed.md) | ⭐ — | — | 24/100 |
 
 ---
