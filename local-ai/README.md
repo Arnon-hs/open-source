@@ -10,9 +10,9 @@
 |---|---|---|---|---|
 | 1 | [nateshmbhat/pyttsx3](./nateshmbhat-pyttsx3.md) | ⭐ 2.5k | Python | 59/100 |
 | 2 | [Helsinki-NLP/Opus-MT](./helsinki-nlp-opus-mt.md) | ⭐ 870 | Python | 57/100 |
-| 3 | [kanan-pm07/LifeAdmin-AI](./kanan-pm07-lifeadmin-ai.md) | ⭐ — | Python | 42/100 |
-| 4 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
-| 5 | [kusalar/nova-local](./kusalar-nova-local.md) | ⭐ — | Python | 39/100 |
+| 3 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
+| 4 | [kusalar/nova-local](./kusalar-nova-local.md) | ⭐ — | Python | 39/100 |
+| 5 | [kanan-pm07/LifeAdmin-AI](./kanan-pm07-lifeadmin-ai.md) | ⭐ — | Python | 39/100 |
 | 6 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 38/100 |
 | 7 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 37/100 |
 | 8 | [padmalochini27-del/SlothSort](./padmalochini27-del-slothsort.md) | ⭐ — | Python | 36/100 |
