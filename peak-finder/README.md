@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Arthur031221/WhichPeak](./arthur031221-whichpeak.md) | ⭐ — | TypeScript | 47/100 |
+| 1 | [Arthur031221/WhichPeak](./arthur031221-whichpeak.md) | ⭐ — | TypeScript | 44/100 |
 
 ---
 
