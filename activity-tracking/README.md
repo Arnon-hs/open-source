@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [JASWANT-KUMAR-NAYAK/Hirune](./jaswant-kumar-nayak-hirune.md) | ⭐ — | Python | 42/100 |
+| 1 | [JASWANT-KUMAR-NAYAK/Hirune](./jaswant-kumar-nayak-hirune.md) | ⭐ — | Python | 39/100 |
 
 ---
 

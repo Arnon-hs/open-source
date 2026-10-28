@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ishaan-jindal/sloth](./ishaan-jindal-sloth.md) | ⭐ — | Rust | 36/100 |
+| 1 | [ishaan-jindal/sloth](./ishaan-jindal-sloth.md) | ⭐ — | Rust | 33/100 |
 
 ---
 

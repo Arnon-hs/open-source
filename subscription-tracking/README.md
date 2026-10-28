@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [HarshDev-07/slowly--Hacktober](./harshdev-07-slowly--hacktober.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [HarshDev-07/slowly--Hacktober](./harshdev-07-slowly--hacktober.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 
