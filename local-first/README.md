@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ashtonckj/Purrrfessorrr-Slothhh](./ashtonckj-purrrfessorrr-slothhh.md) | ⭐ 2 | Python | 49/100 |
+| 1 | [ashtonckj/Purrrfessorrr-Slothhh](./ashtonckj-purrrfessorrr-slothhh.md) | ⭐ 2 | Python | 46/100 |
 | 2 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 40/100 |
 | 3 | [yagnik-satani-otelier/echolantern-ai](./yagnik-satani-otelier-echolantern-ai.md) | ⭐ — | JavaScript | 39/100 |
 | 4 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 37/100 |
