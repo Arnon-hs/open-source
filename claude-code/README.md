@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dvwinck/capybara-toolbox](./dvwinck-capybara-toolbox.md) | ⭐ 31 | Python | 67/100 |
+| 1 | [dvwinck/capybara-toolbox](./dvwinck-capybara-toolbox.md) | ⭐ 31 | Python | 64/100 |
 | 2 | [SamStull9007/limitcast](./samstull9007-limitcast.md) | ⭐ — | JavaScript | 63/100 |
 | 3 | [ntinosgkiou-code/agentdryrun](./ntinosgkiou-code-agentdryrun.md) | ⭐ — | Python | 56/100 |
 | 4 | [team-humaki/token-diet-lite](./team-humaki-token-diet-lite.md) | ⭐ — | Python | 55/100 |
