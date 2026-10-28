@@ -76,8 +76,8 @@
 | 66 | [ethibox/ethibox](./ethibox-ethibox.md) | ⭐ 258 | JavaScript | 66/100 |
 | 67 | [samber/ro](./samber-ro.md) | ⭐ 645 | Go | 66/100 |
 | 68 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.4k | TypeScript | 66/100 |
-| 69 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
-| 70 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
+| 69 | [saleor/saleor](./saleor-saleor.md) | ⭐ 22.9k | Python | 66/100 |
+| 70 | [polarsource/polar](./polarsource-polar.md) | ⭐ 9.8k | Python | 66/100 |
 | 71 | [librae8226/nexus4cc](./librae8226-nexus4cc.md) | ⭐ 126 | TypeScript | 65/100 |
 | 72 | [hugoii/llm-agent-audit](./hugoii-llm-agent-audit.md) | ⭐ 38 | Python | 65/100 |
 | 73 | [zmievsa/cadwyn](./zmievsa-cadwyn.md) | ⭐ 303 | Python | 65/100 |
@@ -269,8 +269,8 @@
 | 259 | [killbill/killbill-commons](./killbill-killbill-commons.md) | ⭐ 144 | Java | 51/100 |
 | 260 | [Franlinozz/Sluice](./franlinozz-sluice.md) | ⭐ 32 | TypeScript | 51/100 |
 | 261 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 132 | PHP | 51/100 |
-| 262 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 51/100 |
-| 263 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 51/100 |
+| 262 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 165 | Java | 51/100 |
+| 263 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 171 | Ruby | 51/100 |
 | 264 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 51/100 |
 | 265 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 719 | Rust | 51/100 |
 | 266 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 502 | PHP | 51/100 |
