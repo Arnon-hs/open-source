@@ -78,15 +78,15 @@
 | 68 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 823 | — | 65/100 |
 | 69 | [arhancanli/canlicapital](./arhancanli-canlicapital.md) | ⭐ — | HTML | 64/100 |
 | 70 | [HKUDS/AI-Trader](./hkuds-ai-trader.md) | ⭐ 21.8k | Python | 64/100 |
-| 71 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 64/100 |
-| 72 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 64/100 |
+| 71 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.6k | — | 64/100 |
+| 72 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 64/100 |
 | 73 | [HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](./harrieronchain-prediction-markets-trading-bot-toolkits.md) | ⭐ 354 | Rust | 64/100 |
 | 74 | [Travisun/Opptrix](./travisun-opptrix.md) | ⭐ 32 | TypeScript | 64/100 |
 | 75 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 184 | Rust | 64/100 |
 | 76 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 77 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 78 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 63/100 |
-| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 63/100 |
+| 78 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 275 | Go | 63/100 |
+| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 554 | Jupyter Notebook | 63/100 |
 | 80 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2k | Python | 63/100 |
 | 81 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 127 | Python | 63/100 |
 | 82 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4k | TypeScript | 63/100 |
@@ -218,13 +218,13 @@
 | 208 | [ayush-agrawal001/cloutCall](./ayush-agrawal001-cloutcall.md) | ⭐ 1 | TypeScript | 40/100 |
 | 209 | [advaricorp/Polymarketbot](./advaricorp-polymarketbot.md) | ⭐ 48 | Python | 39/100 |
 | 210 | [Rob-bio4/degeneretfly](./rob-bio4-degeneretfly.md) | ⭐ — | TypeScript | 39/100 |
-| 211 | [rohit-8a/steadytrade-ai](./rohit-8a-steadytrade-ai.md) | ⭐ — | Python | 39/100 |
-| 212 | [nicklaunches/builders-backlinks.com](./nicklaunches-builders-backlinks.com.md) | ⭐ — | — | 38/100 |
-| 213 | [cmatthwilkes-debug/trading-strategy-graveyard](./cmatthwilkes-debug-trading-strategy-graveyard.md) | ⭐ — | — | 38/100 |
-| 214 | [mrhustlex/TradingSpy-TradingAgentService](./mrhustlex-tradingspy-tradingagentservice.md) | ⭐ — | — | 38/100 |
-| 215 | [mohamadomar-ai/kairos-engine](./mohamadomar-ai-kairos-engine.md) | ⭐ — | — | 38/100 |
-| 216 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 38/100 |
-| 217 | [IamViditAgarwal/csgoviral](./iamviditagarwal-csgoviral.md) | ⭐ 17 | PHP | 37/100 |
+| 211 | [nicklaunches/builders-backlinks.com](./nicklaunches-builders-backlinks.com.md) | ⭐ — | — | 38/100 |
+| 212 | [cmatthwilkes-debug/trading-strategy-graveyard](./cmatthwilkes-debug-trading-strategy-graveyard.md) | ⭐ — | — | 38/100 |
+| 213 | [mrhustlex/TradingSpy-TradingAgentService](./mrhustlex-tradingspy-tradingagentservice.md) | ⭐ — | — | 38/100 |
+| 214 | [mohamadomar-ai/kairos-engine](./mohamadomar-ai-kairos-engine.md) | ⭐ — | — | 38/100 |
+| 215 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 38/100 |
+| 216 | [IamViditAgarwal/csgoviral](./iamviditagarwal-csgoviral.md) | ⭐ 17 | PHP | 37/100 |
+| 217 | [rohit-8a/steadytrade-ai](./rohit-8a-steadytrade-ai.md) | ⭐ — | Python | 36/100 |
 | 218 | [irfndi/prism-liquidity-agent](./irfndi-prism-liquidity-agent.md) | ⭐ — | — | 33/100 |
 | 219 | [jarrodwatts/jev-trader](./jarrodwatts-jev-trader.md) | ⭐ — | — | 29/100 |
 | 220 | [virattt/openbb-financialdatasets-backend](./virattt-openbb-financialdatasets-backend.md) | ⭐ — | — | 28/100 |
