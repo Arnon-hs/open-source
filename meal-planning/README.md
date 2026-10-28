@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Leafyte/LazyListAI](./leafyte-lazylistai.md) | ⭐ — | JavaScript | 42/100 |
+| 1 | [Leafyte/LazyListAI](./leafyte-lazylistai.md) | ⭐ — | JavaScript | 39/100 |
 
 ---
 

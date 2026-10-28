@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [onpont/godot-save-value-cli](./onpont-godot-save-value-cli.md) | ⭐ — | — | 49/100 |
+| 1 | [onpont/godot-save-value-cli](./onpont-godot-save-value-cli.md) | ⭐ — | — | 46/100 |
 
 ---
 
