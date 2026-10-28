@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [puri-adityakumar/raincheck](./puri-adityakumar-raincheck.md) | ⭐ — | Python | 58/100 |
+| 1 | [puri-adityakumar/raincheck](./puri-adityakumar-raincheck.md) | ⭐ — | Python | 55/100 |
 
 ---
 
