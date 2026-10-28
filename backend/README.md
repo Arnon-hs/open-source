@@ -254,8 +254,8 @@
 | 244 | [BenLorantfy/nestjs-zod](./benlorantfy-nestjs-zod.md) | ⭐ 1.1k | TypeScript | 68/100 |
 | 245 | [DeepL/deepl-python](./deepl-deepl-python.md) | ⭐ 1.3k | Python | 68/100 |
 | 246 | [nwjs/nw.js](./nwjs-nw.js.md) | ⭐ 41.2k | JavaScript | 68/100 |
-| 247 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2k | Go | 68/100 |
-| 248 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 68/100 |
+| 247 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 68/100 |
+| 248 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2k | Go | 68/100 |
 | 249 | [DnsChanger/dnsChanger-desktop](./dnschanger-dnschanger-desktop.md) | ⭐ 1.3k | TypeScript | 68/100 |
 | 250 | [launchdarkly/rust-eventsource-client](./launchdarkly-rust-eventsource-client.md) | ⭐ 113 | Rust | 68/100 |
 | 251 | [sequelize/sequelize](./sequelize-sequelize.md) | ⭐ 30.4k | TypeScript | 68/100 |
@@ -757,8 +757,8 @@
 | 747 | [inducer/relate](./inducer-relate.md) | ⭐ 423 | Python | 56/100 |
 | 748 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 476 | Go | 56/100 |
 | 749 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 197 | TypeScript | 56/100 |
-| 750 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
-| 751 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
+| 750 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
+| 751 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
 | 752 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 682 | Rust | 56/100 |
 | 753 | [nodejs/undici](./nodejs-undici.md) | ⭐ 7.6k | JavaScript | 56/100 |
 | 754 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 350 | Go | 56/100 |
