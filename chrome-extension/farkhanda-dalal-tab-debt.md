@@ -1,6 +1,6 @@
 # Farkhanda-Dalal/TAB_DEBT
 
-[![Stars](https://img.shields.io/github/stars/Farkhanda-Dalal/TAB_DEBT?style=flat-square&color=yellow)](https://github.com/Farkhanda-Dalal/TAB_DEBT/stargazers) [![Forks](https://img.shields.io/github/forks/Farkhanda-Dalal/TAB_DEBT?style=flat-square&color=blue)](https://github.com/Farkhanda-Dalal/TAB_DEBT/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Farkhanda-Dalal/TAB_DEBT?style=flat-square&color=yellow)](https://github.com/Farkhanda-Dalal/TAB_DEBT/stargazers) [![Forks](https://img.shields.io/github/forks/Farkhanda-Dalal/TAB_DEBT?style=flat-square&color=blue)](https://github.com/Farkhanda-Dalal/TAB_DEBT/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > MLH HACTOBERFEST 2026 WEEK 3 CHALLENGE
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-25 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Farkhanda-Dalal/TAB_DEBT：Farkhanda-Dalal/TAB_DEBT may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 51/100 |
+| production | 51/100 |
+| outlook | 44/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
