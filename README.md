@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **42972** |
+| **Projects** | **42978** |
 | **Categories** | **520** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17204 | [Browse →](./misc/) |
+| 📦 **Misc** | 17211 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4603 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2894 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2404 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2405 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1603 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1488 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 957 | [Browse →](./backend/) |
@@ -59,7 +59,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-source** | 32 | [Browse →](./open-source/) |
 | 🏷️ **Offline** | 31 | [Browse →](./offline/) |
 | 🏷️ **Ai-agents** | 30 | [Browse →](./ai-agents/) |
-| 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
+| 🏷️ **Local-ai** | 27 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 23 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 20 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 19 | [Browse →](./local-first/) |
@@ -73,18 +73,17 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Whatsapp** | 8 | [Browse →](./whatsapp/) |
 | 🏷️ **Self-hosting** | 8 | [Browse →](./self-hosting/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
-| 🏷️ **N8n** | 6 | [Browse →](./n8n/) |
+| 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
+| 🏷️ **Android** | 6 | [Browse →](./android/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Git** | 6 | [Browse →](./git/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
-| 🏷️ **Android** | 5 | [Browse →](./android/) |
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Self-hosted** | 5 | [Browse →](./self-hosted/) |
 | 🏷️ **Kubernetes** | 5 | [Browse →](./kubernetes/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
-| 🏷️ **Claude** | 4 | [Browse →](./claude/) |
 | 🏷️ **Windows** | 4 | [Browse →](./windows/) |
 | 🏷️ **Agent** | 4 | [Browse →](./agent/) |
 | 🏷️ **Api** | 4 | [Browse →](./api/) |
@@ -98,6 +97,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
 | 🏷️ **Serverless** | 3 | [Browse →](./serverless/) |
+| 🏷️ **Claude** | 3 | [Browse →](./claude/) |
 | 🏷️ **Email** | 3 | [Browse →](./email/) |
 | 🏷️ **Secret-scanning** | 3 | [Browse →](./secret-scanning/) |
 | 🏷️ **Linux** | 3 | [Browse →](./linux/) |
@@ -110,7 +110,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hacktoberfest** | 3 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Nextjs** | 3 | [Browse →](./nextjs/) |
 | 🏷️ **Chrome-extension** | 3 | [Browse →](./chrome-extension/) |
-| 🏷️ **Voice-control** | 3 | [Browse →](./voice-control/) |
 | 🏷️ **Cli** | 3 | [Browse →](./cli/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
@@ -266,6 +265,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Peak-finder** | 1 | [Browse →](./peak-finder/) |
 | 🏷️ **Steam** | 1 | [Browse →](./steam/) |
 | 🏷️ **Linter** | 1 | [Browse →](./linter/) |
+| 🏷️ **Voice-control** | 1 | [Browse →](./voice-control/) |
 | 🏷️ **Assistant** | 1 | [Browse →](./assistant/) |
 | 🏷️ **Digital-clutter** | 1 | [Browse →](./digital-clutter/) |
 | 🏷️ **Edtech** | 1 | [Browse →](./edtech/) |

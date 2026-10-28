@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tuzhechen2005/DiffWitness](./tuzhechen2005-diffwitness.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [tuzhechen2005/DiffWitness](./tuzhechen2005-diffwitness.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 

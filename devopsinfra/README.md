@@ -294,8 +294,8 @@
 | 284 | [rancher/k3k](./rancher-k3k.md) | ⭐ 877 | Go | 57/100 |
 | 285 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 434 | Dockerfile | 57/100 |
 | 286 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.3k | PHP | 57/100 |
-| 287 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
-| 288 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
+| 287 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 477 | JavaScript | 57/100 |
+| 288 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 758 | Go | 57/100 |
 | 289 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10k | Go | 57/100 |
 | 290 | [dtan4/k8stail](./dtan4-k8stail.md) | ⭐ 150 | Go | 56/100 |
 | 291 | [sentry-kubernetes/charts](./sentry-kubernetes-charts.md) | ⭐ 1.4k | Mustache | 56/100 |

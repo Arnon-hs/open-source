@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [HackersHostel/AgentWebUI](./hackershostel-agentwebui.md) | ⭐ 3 | JavaScript | 55/100 |
+| 1 | [HackersHostel/AgentWebUI](./hackershostel-agentwebui.md) | ⭐ 3 | JavaScript | 52/100 |
 | 2 | [vercel/nixpacks](./vercel-nixpacks.md) | ⭐ — | — | 24/100 |
 | 3 | [openai/openhands](./openai-openhands.md) | ⭐ — | — | 24/100 |
 | 4 | [coolifyhq/coolify](./coolifyhq-coolify.md) | ⭐ — | — | 24/100 |

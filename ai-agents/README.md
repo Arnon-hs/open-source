@@ -15,9 +15,9 @@
 | 5 | [profullstack/redeem-credits](./profullstack-redeem-credits.md) | ⭐ — | TypeScript | 49/100 |
 | 6 | [profullstack/group-call](./profullstack-group-call.md) | ⭐ — | TypeScript | 46/100 |
 | 7 | [profullstack/affiliates](./profullstack-affiliates.md) | ⭐ — | TypeScript | 42/100 |
-| 8 | [RamyaRamachandran-driod/emergency-caller](./ramyaramachandran-driod-emergency-caller.md) | ⭐ — | TypeScript | 39/100 |
-| 9 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
-| 10 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 37/100 |
+| 8 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
+| 9 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 37/100 |
+| 10 | [RamyaRamachandran-driod/emergency-caller](./ramyaramachandran-driod-emergency-caller.md) | ⭐ — | TypeScript | 36/100 |
 | 11 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 36/100 |
 | 12 | [krishsf5/Graph-Hack-Hackathon-Team-7vengers](./krishsf5-graph-hack-hackathon-team-7vengers.md) | ⭐ 1 | JavaScript | 34/100 |
 | 13 | [CarGDev/codetyper.a2a](./cargdev-codetyper.a2a.md) | ⭐ — | Rust | 33/100 |
