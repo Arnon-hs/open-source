@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ashishthete/kaiju](./ashishthete-kaiju.md) | ⭐ — | Rust | 27/100 |
+| 1 | [ashishthete/kaiju](./ashishthete-kaiju.md) | ⭐ — | Rust | 24/100 |
 
 ---
 
