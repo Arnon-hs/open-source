@@ -1,6 +1,6 @@
 # kuscholar/iDeck
 
-[![Stars](https://img.shields.io/github/stars/kuscholar/iDeck?style=flat-square&color=yellow)](https://github.com/kuscholar/iDeck/stargazers) [![Forks](https://img.shields.io/github/forks/kuscholar/iDeck?style=flat-square&color=blue)](https://github.com/kuscholar/iDeck/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kuscholar/iDeck?style=flat-square&color=yellow)](https://github.com/kuscholar/iDeck/stargazers) [![Forks](https://img.shields.io/github/forks/kuscholar/iDeck?style=flat-square&color=blue)](https://github.com/kuscholar/iDeck/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > iDeck brings the SteamOS experience to iOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-25 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ kuscholar/iDeck：kuscholar/iDeck may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 63/100 |
+| production | 56/100 |
+| outlook | 56/100 |
 | adoption | 12/100 |
 | categoryMatchCount | 700/100 |
 | stars | 17/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

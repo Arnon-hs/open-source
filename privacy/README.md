@@ -17,9 +17,9 @@
 | 7 | [qife422/chief-of-staff](./qife422-chief-of-staff.md) | ⭐ — | HTML | 36/100 |
 | 8 | [aashutoshkumarbhardwaj/openSearch](./aashutoshkumarbhardwaj-opensearch.md) | ⭐ — | TypeScript | 36/100 |
 | 9 | [devanshu-puri/BaseBuildStack](./devanshu-puri-basebuildstack.md) | ⭐ — | TypeScript | 36/100 |
-| 10 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 33/100 |
-| 11 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 33/100 |
-| 12 | [libsql/libsql-client](./libsql-libsql-client.md) | ⭐ — | — | 32/100 |
+| 10 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 33/100 |
+| 11 | [libsql/libsql-client](./libsql-libsql-client.md) | ⭐ — | — | 32/100 |
+| 12 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 30/100 |
 | 13 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 30/100 |
 | 14 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 | 15 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 30/100 |
