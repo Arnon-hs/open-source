@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [openshiye/binflare](./openshiye-binflare.md) | ⭐ 1 | TypeScript | 48/100 |
+| 1 | [openshiye/binflare](./openshiye-binflare.md) | ⭐ 1 | TypeScript | 45/100 |
 
 ---
 

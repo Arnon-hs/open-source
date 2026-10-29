@@ -1,6 +1,6 @@
 # JALAL591/compose-bridge
 
-[![Stars](https://img.shields.io/github/stars/JALAL591/compose-bridge?style=flat-square&color=yellow)](https://github.com/JALAL591/compose-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/JALAL591/compose-bridge?style=flat-square&color=blue)](https://github.com/JALAL591/compose-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JALAL591/compose-bridge?style=flat-square&color=yellow)](https://github.com/JALAL591/compose-bridge/stargazers) [![Forks](https://img.shields.io/github/forks/JALAL591/compose-bridge?style=flat-square&color=blue)](https://github.com/JALAL591/compose-bridge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Real-time on-device visual editor for Jetpack Compose + MCP Server for AI agents. Live UI tuning, AST-guided surgical source splicing, and standalone AI-driven code edits — no phone needed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ JALAL591/compose-bridge：JALAL591/compose-bridge may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 75/100 |
+| production | 62/100 |
+| outlook | 68/100 |
 | adoption | 21/100 |
 | categoryMatchCount | 700/100 |
 | stars | 24/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

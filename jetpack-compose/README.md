@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [JALAL591/compose-bridge](./jalal591-compose-bridge.md) | ⭐ 13 | Python | 68/100 |
+| 1 | [JALAL591/compose-bridge](./jalal591-compose-bridge.md) | ⭐ 13 | Python | 65/100 |
 
 ---
 

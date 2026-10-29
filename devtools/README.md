@@ -265,8 +265,8 @@
 | 255 | [antoniorodr/memo](./antoniorodr-memo.md) | ⭐ 256 | Python | 68/100 |
 | 256 | [mobile-next/mobilecli](./mobile-next-mobilecli.md) | ⭐ 179 | Go | 68/100 |
 | 257 | [bensadeh/circumflex](./bensadeh-circumflex.md) | ⭐ 2k | Go | 68/100 |
-| 258 | [symfony/console](./symfony-console.md) | ⭐ 9.8k | PHP | 68/100 |
-| 259 | [mermaid-js/mermaid-cli](./mermaid-js-mermaid-cli.md) | ⭐ 4.5k | JavaScript | 68/100 |
+| 258 | [mermaid-js/mermaid-cli](./mermaid-js-mermaid-cli.md) | ⭐ 4.5k | JavaScript | 68/100 |
+| 259 | [symfony/console](./symfony-console.md) | ⭐ 9.8k | PHP | 68/100 |
 | 260 | [projectdiscovery/katana](./projectdiscovery-katana.md) | ⭐ 16.7k | Go | 68/100 |
 | 261 | [web-infra-dev/rspack](./web-infra-dev-rspack.md) | ⭐ 12.7k | Rust | 68/100 |
 | 262 | [grafana/pyroscope](./grafana-pyroscope.md) | ⭐ 11.4k | Go | 68/100 |
@@ -307,8 +307,8 @@
 | 297 | [wolph/python-progressbar](./wolph-python-progressbar.md) | ⭐ 877 | Python | 67/100 |
 | 298 | [all-contributors/cli](./all-contributors-cli.md) | ⭐ 426 | JavaScript | 67/100 |
 | 299 | [tuna-f1sh/cyme](./tuna-f1sh-cyme.md) | ⭐ 1.2k | Rust | 67/100 |
-| 300 | [orhun/halp](./orhun-halp.md) | ⭐ 760 | Rust | 67/100 |
-| 301 | [hugovk/em-keyboard](./hugovk-em-keyboard.md) | ⭐ 334 | Python | 67/100 |
+| 300 | [hugovk/em-keyboard](./hugovk-em-keyboard.md) | ⭐ 334 | Python | 67/100 |
+| 301 | [orhun/halp](./orhun-halp.md) | ⭐ 760 | Rust | 67/100 |
 | 302 | [rosetta-rs/argparse-rosetta-rs](./rosetta-rs-argparse-rosetta-rs.md) | ⭐ 189 | Python | 67/100 |
 | 303 | [contentful-userland/cf-content-types-generator](./contentful-userland-cf-content-types-generator.md) | ⭐ 142 | TypeScript | 67/100 |
 | 304 | [jenkinsci/build-monitor-plugin](./jenkinsci-build-monitor-plugin.md) | ⭐ 726 | Java | 67/100 |
@@ -664,8 +664,8 @@
 | 654 | [hetznercloud/cli](./hetznercloud-cli.md) | ⭐ 1.7k | Go | 63/100 |
 | 655 | [GoogleChrome/lighthouse](./googlechrome-lighthouse.md) | ⭐ 30.2k | JavaScript | 63/100 |
 | 656 | [noborus/ov](./noborus-ov.md) | ⭐ 1.9k | Go | 63/100 |
-| 657 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
-| 658 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.1k | C# | 63/100 |
+| 657 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.1k | C# | 63/100 |
+| 658 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
 | 659 | [backstage/backstage](./backstage-backstage.md) | ⭐ 33.3k | TypeScript | 63/100 |
 | 660 | [xynorash/xynovim](./xynorash-xynovim.md) | ⭐ 2 | Lua | 62/100 |
 | 661 | [maximilianfeix/dockdu](./maximilianfeix-dockdu.md) | ⭐ — | Go | 62/100 |
@@ -730,8 +730,8 @@
 | 720 | [home-assistant/cli](./home-assistant-cli.md) | ⭐ 254 | Go | 62/100 |
 | 721 | [columnar-tech/databow](./columnar-tech-databow.md) | ⭐ 209 | Rust | 62/100 |
 | 722 | [techouse/sqlite3-to-mysql](./techouse-sqlite3-to-mysql.md) | ⭐ 466 | Python | 62/100 |
-| 723 | [RSeidelsohn/license-checker-rseidelsohn](./rseidelsohn-license-checker-rseidelsohn.md) | ⭐ 194 | TypeScript | 62/100 |
-| 724 | [chromaui/chromatic-cli](./chromaui-chromatic-cli.md) | ⭐ 337 | TypeScript | 62/100 |
+| 723 | [chromaui/chromatic-cli](./chromaui-chromatic-cli.md) | ⭐ 337 | TypeScript | 62/100 |
+| 724 | [RSeidelsohn/license-checker-rseidelsohn](./rseidelsohn-license-checker-rseidelsohn.md) | ⭐ 194 | TypeScript | 62/100 |
 | 725 | [ozwaldorf/lutgen-rs](./ozwaldorf-lutgen-rs.md) | ⭐ 550 | Rust | 62/100 |
 | 726 | [apricote/hcloud-upload-image](./apricote-hcloud-upload-image.md) | ⭐ 141 | Go | 62/100 |
 | 727 | [conan-io/conan-center-index](./conan-io-conan-center-index.md) | ⭐ 1.2k | Python | 62/100 |
@@ -818,8 +818,8 @@
 | 808 | [techouse/mysql-to-sqlite3](./techouse-mysql-to-sqlite3.md) | ⭐ 268 | Python | 61/100 |
 | 809 | [joknarf/pgtree](./joknarf-pgtree.md) | ⭐ 39 | Shell | 61/100 |
 | 810 | [swiftlang/swift-build](./swiftlang-swift-build.md) | ⭐ 2.2k | Swift | 61/100 |
-| 811 | [wp-cli/entity-command](./wp-cli-entity-command.md) | ⭐ 105 | PHP | 61/100 |
-| 812 | [wp-cli/profile-command](./wp-cli-profile-command.md) | ⭐ 293 | PHP | 61/100 |
+| 811 | [wp-cli/profile-command](./wp-cli-profile-command.md) | ⭐ 293 | PHP | 61/100 |
+| 812 | [wp-cli/entity-command](./wp-cli-entity-command.md) | ⭐ 105 | PHP | 61/100 |
 | 813 | [ad-si/TaskLite](./ad-si-tasklite.md) | ⭐ 282 | Elm | 61/100 |
 | 814 | [MicrosoftDocs/edge-developer](./microsoftdocs-edge-developer.md) | ⭐ 434 | JavaScript | 61/100 |
 | 815 | [alexdlaird/amazon-orders](./alexdlaird-amazon-orders.md) | ⭐ 143 | Python | 61/100 |
@@ -1249,8 +1249,8 @@
 | 1239 | [maximecb/uvm](./maximecb-uvm.md) | ⭐ 587 | Rust | 55/100 |
 | 1240 | [rust-fuzz/afl.rs](./rust-fuzz-afl.rs.md) | ⭐ 1.8k | Rust | 55/100 |
 | 1241 | [inko-lang/inko](./inko-lang-inko.md) | ⭐ 1.3k | Rust | 55/100 |
-| 1242 | [pkgforge/soar](./pkgforge-soar.md) | ⭐ 792 | Rust | 55/100 |
-| 1243 | [nico81/iContainer](./nico81-icontainer.md) | ⭐ 132 | Swift | 55/100 |
+| 1242 | [nico81/iContainer](./nico81-icontainer.md) | ⭐ 132 | Swift | 55/100 |
+| 1243 | [pkgforge/soar](./pkgforge-soar.md) | ⭐ 792 | Rust | 55/100 |
 | 1244 | [phpstan/phpstan-phpunit](./phpstan-phpstan-phpunit.md) | ⭐ 533 | PHP | 55/100 |
 | 1245 | [kaelzhang/shell-safe-rm](./kaelzhang-shell-safe-rm.md) | ⭐ 599 | JavaScript | 55/100 |
 | 1246 | [paul-j-lucas/cdecl](./paul-j-lucas-cdecl.md) | ⭐ 338 | C | 55/100 |
@@ -1590,8 +1590,8 @@
 | 1580 | [mainak55512/flint](./mainak55512-flint.md) | ⭐ — | — | 42/100 |
 | 1581 | [coder/wush](./coder-wush.md) | ⭐ — | — | 42/100 |
 | 1582 | [berggren/tss](./berggren-tss.md) | ⭐ — | — | 42/100 |
-| 1583 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 42/100 |
-| 1584 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 42/100 |
+| 1583 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ — | — | 42/100 |
+| 1584 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ — | — | 42/100 |
 | 1585 | [mozilla/web-ext](./mozilla-web-ext.md) | ⭐ — | — | 42/100 |
 | 1586 | [scascino4/dither](./scascino4-dither.md) | ⭐ — | — | 42/100 |
 | 1587 | [crawshaw/yeah](./crawshaw-yeah.md) | ⭐ — | — | 42/100 |
