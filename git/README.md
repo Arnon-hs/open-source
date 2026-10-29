@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [TohruSu/RepoPort](./tohrusu-repoport.md) | ⭐ 2 | Python | 61/100 |
+| 1 | [TohruSu/RepoPort](./tohrusu-repoport.md) | ⭐ 2 | Python | 58/100 |
 | 2 | [Saez520/worktree-manager](./saez520-worktree-manager.md) | ⭐ — | Shell | 33/100 |
 | 3 | [amrit-dash/MLH-touch-grass](./amrit-dash-mlh-touch-grass.md) | ⭐ — | Python | 33/100 |
 | 4 | [jamesjfoong/conventional-revert-hook](./jamesjfoong-conventional-revert-hook.md) | ⭐ — | Shell | 27/100 |

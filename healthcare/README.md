@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Hotragn/secondlook](./hotragn-secondlook.md) | ⭐ — | Python | 46/100 |
+| 1 | [Hotragn/secondlook](./hotragn-secondlook.md) | ⭐ — | Python | 43/100 |
 
 ---
 
