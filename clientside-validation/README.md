@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wrium/password-strength](./wrium-password-strength.md) | ⭐ — | JavaScript | 30/100 |
+| 1 | [wrium/password-strength](./wrium-password-strength.md) | ⭐ — | JavaScript | 27/100 |
 
 ---
 
