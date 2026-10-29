@@ -109,8 +109,8 @@
 | 99 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.3k | Kotlin | 61/100 |
 | 100 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 627 | Kotlin | 61/100 |
 | 101 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 234 | Kotlin | 61/100 |
-| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 61/100 |
-| 103 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 61/100 |
+| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 61/100 |
+| 103 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 61/100 |
 | 104 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 800 | JavaScript | 61/100 |
 | 105 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13k | Swift | 61/100 |
 | 106 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.4k | Kotlin | 61/100 |
@@ -276,8 +276,8 @@
 | 266 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.6k | Kotlin | 56/100 |
 | 267 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.1k | Kotlin | 56/100 |
 | 268 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
-| 270 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 55/100 |
+| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 395 | Swift | 55/100 |
+| 270 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 567 | — | 55/100 |
 | 271 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 527 | Kotlin | 55/100 |
 | 272 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 527 | Python | 55/100 |
 | 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
