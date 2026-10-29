@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [shivammusic/phantom-trace](./shivammusic-phantom-trace.md) | ⭐ — | Python | 42/100 |
+| 1 | [shivammusic/phantom-trace](./shivammusic-phantom-trace.md) | ⭐ — | Python | 39/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [2db2du-byte/hitchhikers-guide](./2db2du-byte-hitchhikers-guide.md) | ⭐ — | Python | 42/100 |
+| 1 | [2db2du-byte/hitchhikers-guide](./2db2du-byte-hitchhikers-guide.md) | ⭐ — | Python | 39/100 |
 
 ---
 
