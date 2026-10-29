@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [CrystalPlatforms/klepai](./crystalplatforms-klepai.md) | ⭐ — | Rust | 43/100 |
+| 1 | [CrystalPlatforms/klepai](./crystalplatforms-klepai.md) | ⭐ — | Rust | 40/100 |
 | 2 | [garage/garage](./garage-garage.md) | ⭐ — | — | 28/100 |
 | 3 | [cdr/code-server](./cdr-code-server.md) | ⭐ — | — | 24/100 |
 | 4 | [yourrepo/locomo](./yourrepo-locomo.md) | ⭐ — | — | 24/100 |
