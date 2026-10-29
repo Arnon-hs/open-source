@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [r0liveir/AirGem](./r0liveir-airgem.md) | ⭐ — | Python | 36/100 |
+| 1 | [r0liveir/AirGem](./r0liveir-airgem.md) | ⭐ — | Python | 33/100 |
 
 ---
 
