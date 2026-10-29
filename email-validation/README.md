@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [RivierGrullon/mailrules](./riviergrullon-mailrules.md) | ⭐ — | TypeScript | 42/100 |
+| 1 | [RivierGrullon/mailrules](./riviergrullon-mailrules.md) | ⭐ — | TypeScript | 39/100 |
 
 ---
 
