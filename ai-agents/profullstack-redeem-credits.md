@@ -1,6 +1,6 @@
 # profullstack/redeem-credits
 
-[![Stars](https://img.shields.io/github/stars/profullstack/redeem-credits?style=flat-square&color=yellow)](https://github.com/profullstack/redeem-credits/stargazers) [![Forks](https://img.shields.io/github/forks/profullstack/redeem-credits?style=flat-square&color=blue)](https://github.com/profullstack/redeem-credits/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/profullstack/redeem-credits?style=flat-square&color=yellow)](https://github.com/profullstack/redeem-credits/stargazers) [![Forks](https://img.shields.io/github/forks/profullstack/redeem-credits?style=flat-square&color=blue)](https://github.com/profullstack/redeem-credits/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Redeemable credit codes for every Profullstack site: scarce hashed codes, one-off and monthly grants, SQLite/Postgres stores, CLI
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ profullstack/redeem-credits：profullstack/redeem-credits may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 54/100 |
+| production | 53/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

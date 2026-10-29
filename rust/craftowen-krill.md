@@ -1,6 +1,6 @@
 # craftowen/krill
 
-[![Stars](https://img.shields.io/github/stars/craftowen/krill?style=flat-square&color=yellow)](https://github.com/craftowen/krill/stargazers) [![Forks](https://img.shields.io/github/forks/craftowen/krill?style=flat-square&color=blue)](https://github.com/craftowen/krill/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/craftowen/krill?style=flat-square&color=yellow)](https://github.com/craftowen/krill/stargazers) [![Forks](https://img.shields.io/github/forks/craftowen/krill?style=flat-square&color=blue)](https://github.com/craftowen/krill/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A native Rust workspace for parallel AI coding agents, with persistent terminal sessions and Git worktrees.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ craftowen/krill：craftowen/krill may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 65/100 |
+| production | 55/100 |
+| outlook | 58/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 700/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
