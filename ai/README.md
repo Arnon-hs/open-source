@@ -17,8 +17,8 @@
 | 7 | [langchain-ai/openevals](./langchain-ai-openevals.md) | ⭐ 1.2k | Python | 56/100 |
 | 8 | [JohnWayneeee/casely-qa-skill](./johnwayneeee-casely-qa-skill.md) | ⭐ 11 | Python | 56/100 |
 | 9 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
-| 10 | [Ulk0r0/skillsentry](./ulk0r0-skillsentry.md) | ⭐ — | TypeScript | 54/100 |
-| 11 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 52/100 |
+| 10 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 52/100 |
+| 11 | [Ulk0r0/skillsentry](./ulk0r0-skillsentry.md) | ⭐ — | TypeScript | 51/100 |
 | 12 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 47/100 |
 | 13 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 44/100 |
 | 14 | [DainoJung/omni-verify](./dainojung-omni-verify.md) | ⭐ — | TypeScript | 43/100 |
