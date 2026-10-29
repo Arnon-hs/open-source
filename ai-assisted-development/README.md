@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [challengepost/learn-ai-basics](./challengepost-learn-ai-basics.md) | ⭐ 63 | — | 41/100 |
+| 1 | [challengepost/learn-ai-basics](./challengepost-learn-ai-basics.md) | ⭐ 63 | — | 38/100 |
 
 ---
 

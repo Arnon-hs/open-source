@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jahnavist04/lazydesk-ai](./jahnavist04-lazydesk-ai.md) | ⭐ — | Python | 42/100 |
+| 1 | [jahnavist04/lazydesk-ai](./jahnavist04-lazydesk-ai.md) | ⭐ — | Python | 39/100 |
 | 2 | [vikasfine17/sloth-sorter](./vikasfine17-sloth-sorter.md) | ⭐ — | Python | 36/100 |
 
 ---
