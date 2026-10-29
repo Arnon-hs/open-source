@@ -1,6 +1,6 @@
 # alkhatibdev/dpolens
 
-[![Stars](https://img.shields.io/github/stars/alkhatibdev/dpolens?style=flat-square&color=yellow)](https://github.com/alkhatibdev/dpolens/stargazers) [![Forks](https://img.shields.io/github/forks/alkhatibdev/dpolens?style=flat-square&color=blue)](https://github.com/alkhatibdev/dpolens/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alkhatibdev/dpolens?style=flat-square&color=yellow)](https://github.com/alkhatibdev/dpolens/stargazers) [![Forks](https://img.shields.io/github/forks/alkhatibdev/dpolens?style=flat-square&color=blue)](https://github.com/alkhatibdev/dpolens/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted MCP server that gives AI coding assistants your privacy policies and the law, with exact, versioned citations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ alkhatibdev/dpolens：alkhatibdev/dpolens may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 74/100 |
+| production | 62/100 |
+| outlook | 67/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
