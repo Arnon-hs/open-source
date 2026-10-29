@@ -29,11 +29,11 @@
 | 19 | [miilo-ai/miilo-cli](./miilo-ai-miilo-cli.md) | ⭐ — | Rust | 41/100 |
 | 20 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 41/100 |
 | 21 | [hafeezmt/listingwriter](./hafeezmt-listingwriter.md) | ⭐ — | Python | 40/100 |
-| 22 | [Neet2516/PatchGarden](./neet2516-patchgarden.md) | ⭐ — | TypeScript | 39/100 |
-| 23 | [comzzy/sloth-butler](./comzzy-sloth-butler.md) | ⭐ — | TypeScript | 39/100 |
-| 24 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 38/100 |
-| 25 | [hyperframes/hyperframes](./hyperframes-hyperframes.md) | ⭐ 5 | — | 37/100 |
-| 26 | [LakSHyaMudgal1/CargoTrip](./lakshyamudgal1-cargotrip.md) | ⭐ — | TypeScript | 37/100 |
+| 22 | [comzzy/sloth-butler](./comzzy-sloth-butler.md) | ⭐ — | TypeScript | 39/100 |
+| 23 | [MoradMoqbel/apipatch](./moradmoqbel-apipatch.md) | ⭐ — | Python | 38/100 |
+| 24 | [hyperframes/hyperframes](./hyperframes-hyperframes.md) | ⭐ 5 | — | 37/100 |
+| 25 | [LakSHyaMudgal1/CargoTrip](./lakshyamudgal1-cargotrip.md) | ⭐ — | TypeScript | 37/100 |
+| 26 | [Neet2516/PatchGarden](./neet2516-patchgarden.md) | ⭐ — | TypeScript | 36/100 |
 | 27 | [Kuki-09/file-tidier](./kuki-09-file-tidier.md) | ⭐ — | Python | 36/100 |
 | 28 | [shashank03-dev/RakeLess](./shashank03-dev-rakeless.md) | ⭐ — | TypeScript | 36/100 |
 | 29 | [siddg1161/HacktoberfestSage](./siddg1161-hacktoberfestsage.md) | ⭐ — | TypeScript | 36/100 |
