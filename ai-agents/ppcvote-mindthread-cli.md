@@ -1,6 +1,6 @@
 # ppcvote/mindthread-cli
 
-[![Stars](https://img.shields.io/github/stars/ppcvote/mindthread-cli?style=flat-square&color=yellow)](https://github.com/ppcvote/mindthread-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ppcvote/mindthread-cli?style=flat-square&color=blue)](https://github.com/ppcvote/mindthread-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ppcvote/mindthread-cli?style=flat-square&color=yellow)](https://github.com/ppcvote/mindthread-cli/stargazers) [![Forks](https://img.shields.io/github/forks/ppcvote/mindthread-cli?style=flat-square&color=blue)](https://github.com/ppcvote/mindthread-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Threads scheduler built for AI agents: CLI with JSON output to write, schedule and publish Threads posts, review replies and read insights.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ ppcvote/mindthread-cli：ppcvote/mindthread-cli may be useful when its README an
 - primary language: TypeScript
 - 7 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [1picassoai/kraits](./1picassoai-kraits.md) | ⭐ 12 | Shell | 51/100 |
+| 1 | [1picassoai/kraits](./1picassoai-kraits.md) | ⭐ 12 | Shell | 48/100 |
 
 ---
 

@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [probita-ai/agent-work-layer](./probita-ai-agent-work-layer.md) | ⭐ — | TypeScript | 67/100 |
-| 2 | [ppcvote/mindthread-cli](./ppcvote-mindthread-cli.md) | ⭐ — | TypeScript | 66/100 |
-| 3 | [ahmad-codex/workstream-mcp](./ahmad-codex-workstream-mcp.md) | ⭐ 3 | C# | 65/100 |
+| 2 | [ahmad-codex/workstream-mcp](./ahmad-codex-workstream-mcp.md) | ⭐ 3 | C# | 65/100 |
+| 3 | [ppcvote/mindthread-cli](./ppcvote-mindthread-cli.md) | ⭐ — | TypeScript | 63/100 |
 | 4 | [gkasinath2020/baton](./gkasinath2020-baton.md) | ⭐ — | Python | 51/100 |
 | 5 | [profullstack/redeem-credits](./profullstack-redeem-credits.md) | ⭐ — | TypeScript | 49/100 |
 | 6 | [profullstack/group-call](./profullstack-group-call.md) | ⭐ — | TypeScript | 46/100 |
