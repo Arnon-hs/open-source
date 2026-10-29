@@ -1,6 +1,6 @@
 # krishanth7/EveryO
 
-[![Stars](https://img.shields.io/github/stars/krishanth7/EveryO?style=flat-square&color=yellow)](https://github.com/krishanth7/EveryO/stargazers) [![Forks](https://img.shields.io/github/forks/krishanth7/EveryO?style=flat-square&color=blue)](https://github.com/krishanth7/EveryO/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krishanth7/EveryO?style=flat-square&color=yellow)](https://github.com/krishanth7/EveryO/stargazers) [![Forks](https://img.shields.io/github/forks/krishanth7/EveryO?style=flat-square&color=blue)](https://github.com/krishanth7/EveryO/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > EveryO is an open-source neural computing and AI experimentation framework built with Python, NumPy, TensorFlow, CUDA and C++. Build, train, evaluate and benchmark neural networks locally with CPU/GPU acceleration, automatic differentiation, visualization and zero external AI APIs or API keys.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ krishanth7/EveryO：krishanth7/EveryO may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 70/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 600/100 |
 | stars | 17/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

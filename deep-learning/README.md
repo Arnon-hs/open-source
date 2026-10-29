@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [krishanth7/EveryO](./krishanth7-everyo.md) | ⭐ 5 | Python | 62/100 |
+| 1 | [krishanth7/EveryO](./krishanth7-everyo.md) | ⭐ 5 | Python | 59/100 |
 
 ---
 

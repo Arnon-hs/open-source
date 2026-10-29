@@ -2,7 +2,7 @@
 
 > 
 
-**270 projects** in this category.
+**271 projects** in this category.
 
 ## Projects
 
@@ -240,44 +240,45 @@
 | 230 | [Ralith/openxrs](./ralith-openxrs.md) | ⭐ 335 | Rust | 49/100 |
 | 231 | [jonhoo/rust-ibverbs](./jonhoo-rust-ibverbs.md) | ⭐ 215 | Rust | 49/100 |
 | 232 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 219 | JavaScript | 49/100 |
-| 233 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |
-| 234 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ — | — | 48/100 |
-| 235 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ — | — | 48/100 |
-| 236 | [DisplayLink/displaylink-direct](./displaylink-displaylink-direct.md) | ⭐ — | — | 48/100 |
-| 237 | [Q-ANT-GmbH/qant_native_computing_toolkit](./q-ant-gmbh-qant-native-computing-toolkit.md) | ⭐ — | — | 48/100 |
-| 238 | [QAInsights/typesafe-java-sdk](./qainsights-typesafe-java-sdk.md) | ⭐ — | — | 48/100 |
-| 239 | [ne-app-open/src](./ne-app-open-src.md) | ⭐ — | — | 48/100 |
-| 240 | [ydb-platform/ydb-go-sdk](./ydb-platform-ydb-go-sdk.md) | ⭐ — | — | 48/100 |
-| 241 | [ChristopherDond/9router-python](./christopherdond-9router-python.md) | ⭐ — | — | 48/100 |
-| 242 | [jmisilo/imessage-sdk](./jmisilo-imessage-sdk.md) | ⭐ — | — | 48/100 |
-| 243 | [lyfeninja/lyfeninja_blkseal_python_sdk](./lyfeninja-lyfeninja-blkseal-python-sdk.md) | ⭐ — | — | 48/100 |
-| 244 | [georust/netcdf](./georust-netcdf.md) | ⭐ 102 | Rust | 47/100 |
-| 245 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 47/100 |
-| 246 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 4.6k | Rust | 47/100 |
-| 247 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 120 | Rust | 46/100 |
-| 248 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.5k | Rust | 46/100 |
-| 249 | [sandrpod/sandrpod](./sandrpod-sandrpod.md) | ⭐ — | — | 45/100 |
-| 250 | [RanjithRagavan/Noctua](./ranjithragavan-noctua.md) | ⭐ — | — | 45/100 |
-| 251 | [BandarLabs/Cobalt](./bandarlabs-cobalt.md) | ⭐ — | — | 45/100 |
-| 252 | [Vivek76760/shatachandra-shield-sdk](./vivek76760-shatachandra-shield-sdk.md) | ⭐ — | — | 45/100 |
-| 253 | [bbenchoff/AGaMEMnon](./bbenchoff-agamemnon.md) | ⭐ — | — | 45/100 |
-| 254 | [s2-streamstore/nfs-crust](./s2-streamstore-nfs-crust.md) | ⭐ — | — | 45/100 |
-| 255 | [steel-experiments/atlas-demo](./steel-experiments-atlas-demo.md) | ⭐ — | — | 45/100 |
-| 256 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |
-| 257 | [egoisutolabs/scipgo](./egoisutolabs-scipgo.md) | ⭐ — | — | 44/100 |
-| 258 | [anthropic-ai/sdk](./anthropic-ai-sdk.md) | ⭐ — | — | 44/100 |
-| 259 | [rust-lang/git2-rs](./rust-lang-git2-rs.md) | ⭐ 2k | Rust | 44/100 |
-| 260 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 43/100 |
-| 261 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 154 | Rust | 43/100 |
-| 262 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
-| 263 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ — | — | 41/100 |
-| 264 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ — | — | 41/100 |
-| 265 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
-| 266 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 127 | Rust | 39/100 |
-| 267 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 4 | Rust | 38/100 |
-| 268 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
-| 269 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ — | — | 37/100 |
-| 270 | [storj-thirdparty/uplink-php](./storj-thirdparty-uplink-php.md) | ⭐ 31 | PHP | 35/100 |
+| 233 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ — | — | 48/100 |
+| 234 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |
+| 235 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ — | — | 48/100 |
+| 236 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ — | — | 48/100 |
+| 237 | [DisplayLink/displaylink-direct](./displaylink-displaylink-direct.md) | ⭐ — | — | 48/100 |
+| 238 | [Q-ANT-GmbH/qant_native_computing_toolkit](./q-ant-gmbh-qant-native-computing-toolkit.md) | ⭐ — | — | 48/100 |
+| 239 | [QAInsights/typesafe-java-sdk](./qainsights-typesafe-java-sdk.md) | ⭐ — | — | 48/100 |
+| 240 | [ne-app-open/src](./ne-app-open-src.md) | ⭐ — | — | 48/100 |
+| 241 | [ydb-platform/ydb-go-sdk](./ydb-platform-ydb-go-sdk.md) | ⭐ — | — | 48/100 |
+| 242 | [ChristopherDond/9router-python](./christopherdond-9router-python.md) | ⭐ — | — | 48/100 |
+| 243 | [jmisilo/imessage-sdk](./jmisilo-imessage-sdk.md) | ⭐ — | — | 48/100 |
+| 244 | [lyfeninja/lyfeninja_blkseal_python_sdk](./lyfeninja-lyfeninja-blkseal-python-sdk.md) | ⭐ — | — | 48/100 |
+| 245 | [georust/netcdf](./georust-netcdf.md) | ⭐ 102 | Rust | 47/100 |
+| 246 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 47/100 |
+| 247 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 4.6k | Rust | 47/100 |
+| 248 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 120 | Rust | 46/100 |
+| 249 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.5k | Rust | 46/100 |
+| 250 | [sandrpod/sandrpod](./sandrpod-sandrpod.md) | ⭐ — | — | 45/100 |
+| 251 | [RanjithRagavan/Noctua](./ranjithragavan-noctua.md) | ⭐ — | — | 45/100 |
+| 252 | [BandarLabs/Cobalt](./bandarlabs-cobalt.md) | ⭐ — | — | 45/100 |
+| 253 | [Vivek76760/shatachandra-shield-sdk](./vivek76760-shatachandra-shield-sdk.md) | ⭐ — | — | 45/100 |
+| 254 | [bbenchoff/AGaMEMnon](./bbenchoff-agamemnon.md) | ⭐ — | — | 45/100 |
+| 255 | [s2-streamstore/nfs-crust](./s2-streamstore-nfs-crust.md) | ⭐ — | — | 45/100 |
+| 256 | [steel-experiments/atlas-demo](./steel-experiments-atlas-demo.md) | ⭐ — | — | 45/100 |
+| 257 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |
+| 258 | [egoisutolabs/scipgo](./egoisutolabs-scipgo.md) | ⭐ — | — | 44/100 |
+| 259 | [anthropic-ai/sdk](./anthropic-ai-sdk.md) | ⭐ — | — | 44/100 |
+| 260 | [rust-lang/git2-rs](./rust-lang-git2-rs.md) | ⭐ 2k | Rust | 44/100 |
+| 261 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 43/100 |
+| 262 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 154 | Rust | 43/100 |
+| 263 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
+| 264 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ — | — | 41/100 |
+| 265 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ — | — | 41/100 |
+| 266 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
+| 267 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 127 | Rust | 39/100 |
+| 268 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 4 | Rust | 38/100 |
+| 269 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
+| 270 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ — | — | 37/100 |
+| 271 | [storj-thirdparty/uplink-php](./storj-thirdparty-uplink-php.md) | ⭐ 31 | PHP | 35/100 |
 
 ---
 
