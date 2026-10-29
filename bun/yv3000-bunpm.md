@@ -1,6 +1,6 @@
 # yv3000/bunpm
 
-[![Stars](https://img.shields.io/github/stars/yv3000/bunpm?style=flat-square&color=yellow)](https://github.com/yv3000/bunpm/stargazers) [![Forks](https://img.shields.io/github/forks/yv3000/bunpm?style=flat-square&color=blue)](https://github.com/yv3000/bunpm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yv3000/bunpm?style=flat-square&color=yellow)](https://github.com/yv3000/bunpm/stargazers) [![Forks](https://img.shields.io/github/forks/yv3000/bunpm?style=flat-square&color=blue)](https://github.com/yv3000/bunpm/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-runtime-dependency npm, npx, yarn and pnpm CLI wrapper for Bun
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ yv3000/bunpm：yv3000/bunpm may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 69/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 20/100 |
 | categoryMatchCount | 700/100 |
 | stars | 25/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

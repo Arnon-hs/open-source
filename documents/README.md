@@ -711,8 +711,8 @@
 | 701 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ — | — | 38/100 |
 | 702 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 703 | [bruits/satteri](./bruits-satteri.md) | ⭐ — | — | 38/100 |
-| 704 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
-| 705 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ — | — | 38/100 |
+| 704 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ — | — | 38/100 |
+| 705 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
 | 706 | [JagaTheGhost/visualmark-studio](./jagatheghost-visualmark-studio.md) | ⭐ 1 | JavaScript | 37/100 |
 | 707 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 708 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |

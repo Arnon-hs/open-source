@@ -1,6 +1,6 @@
 # Pythondeveloper6/django-vantage
 
-[![Stars](https://img.shields.io/github/stars/Pythondeveloper6/django-vantage?style=flat-square&color=yellow)](https://github.com/Pythondeveloper6/django-vantage/stargazers) [![Forks](https://img.shields.io/github/forks/Pythondeveloper6/django-vantage?style=flat-square&color=blue)](https://github.com/Pythondeveloper6/django-vantage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pythondeveloper6/django-vantage?style=flat-square&color=yellow)](https://github.com/Pythondeveloper6/django-vantage/stargazers) [![Forks](https://img.shields.io/github/forks/Pythondeveloper6/django-vantage?style=flat-square&color=blue)](https://github.com/Pythondeveloper6/django-vantage/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A smart, beautiful admin panel for Django. Zero config to start, one line to override anything.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Pythondeveloper6/django-vantage：Pythondeveloper6/django-vantage may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 56/100 |
+| production | 56/100 |
+| outlook | 49/100 |
 | adoption | 21/100 |
 | categoryMatchCount | 500/100 |
 | stars | 26/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

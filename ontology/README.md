@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vishalmysore/ontolive](./vishalmysore-ontolive.md) | ⭐ — | TypeScript | 46/100 |
+| 1 | [vishalmysore/ontolive](./vishalmysore-ontolive.md) | ⭐ — | TypeScript | 43/100 |
 
 ---
 

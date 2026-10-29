@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yv3000/bunpm](./yv3000-bunpm.md) | ⭐ 14 | JavaScript | 59/100 |
+| 1 | [yv3000/bunpm](./yv3000-bunpm.md) | ⭐ 14 | JavaScript | 56/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Pythondeveloper6/django-vantage](./pythondeveloper6-django-vantage.md) | ⭐ 16 | Python | 50/100 |
+| 1 | [Pythondeveloper6/django-vantage](./pythondeveloper6-django-vantage.md) | ⭐ 16 | Python | 47/100 |
 
 ---
 

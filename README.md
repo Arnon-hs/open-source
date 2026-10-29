@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43117** |
+| **Projects** | **43120** |
 | **Categories** | **520** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17312 | [Browse →](./misc/) |
+| 📦 **Misc** | 17314 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4608 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2896 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2407 | [Browse →](./orchestration/) |
@@ -38,7 +38,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 626 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 618 | [Browse →](./cloud--storage/) |
 | 🏷️ **Database** | 560 | [Browse →](./database/) |
-| 🏷️ **Video-editing** | 545 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 546 | [Browse →](./video-editing/) |
 | 🚀 **DevOps & Infra** | 526 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 479 | [Browse →](./templates/) |
 | 🔐 **Security** | 451 | [Browse →](./security/) |
