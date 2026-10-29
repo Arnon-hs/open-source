@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [GaffaAI/gaffa-for-ai](./gaffaai-gaffa-for-ai.md) | ⭐ — | Shell | 70/100 |
+| 1 | [GaffaAI/gaffa-for-ai](./gaffaai-gaffa-for-ai.md) | ⭐ — | Shell | 67/100 |
 | 2 | [onelpawarai-X/ZYRAXON-AI](./onelpawarai-x-zyraxon-ai.md) | ⭐ 9 | TypeScript | 67/100 |
 | 3 | [MGdaasLab/WHartTest](./mgdaaslab-wharttest.md) | ⭐ 1.1k | Python | 66/100 |
 | 4 | [machenh001-pixel/agent-colony](./machenh001-pixel-agent-colony.md) | ⭐ 2 | JavaScript | 65/100 |

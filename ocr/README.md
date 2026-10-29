@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 55/100 |
+| 1 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 2 | [ghostmk/shelfcheck](./ghostmk-shelfcheck.md) | ⭐ — | HTML | 33/100 |
 
 ---
