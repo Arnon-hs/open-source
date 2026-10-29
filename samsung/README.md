@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [alexjune1206-maker/samsung-300k-tool-4-linux](./alexjune1206-maker-samsung-300k-tool-4-linux.md) | ⭐ — | C | 56/100 |
+| 1 | [alexjune1206-maker/samsung-300k-tool-4-linux](./alexjune1206-maker-samsung-300k-tool-4-linux.md) | ⭐ — | C | 53/100 |
 
 ---
 
