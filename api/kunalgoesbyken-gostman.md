@@ -1,6 +1,6 @@
 # kunalgoesbyken/gostman
 
-[![Stars](https://img.shields.io/github/stars/kunalgoesbyken/gostman?style=flat-square&color=yellow)](https://github.com/kunalgoesbyken/gostman/stargazers) [![Forks](https://img.shields.io/github/forks/kunalgoesbyken/gostman?style=flat-square&color=blue)](https://github.com/kunalgoesbyken/gostman/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kunalgoesbyken/gostman?style=flat-square&color=yellow)](https://github.com/kunalgoesbyken/gostman/stargazers) [![Forks](https://img.shields.io/github/forks/kunalgoesbyken/gostman?style=flat-square&color=blue)](https://github.com/kunalgoesbyken/gostman/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open source API client for REST, GraphQL, gRPC and WebSocket. Desktop, web and CLI. No account.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 51 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ kunalgoesbyken/gostman：kunalgoesbyken/gostman may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 65/100 |
+| quality | 60/100 |
 | integration | 94/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 32/100 |
 | categoryMatchCount | 700/100 |
 | stars | 37/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
