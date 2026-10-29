@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [internetarchive/wayback](./internetarchive-wayback.md) | ⭐ 868 | Java | 53/100 |
+| 1 | [internetarchive/wayback](./internetarchive-wayback.md) | ⭐ 868 | Java | 49/100 |
 
 ---
 
