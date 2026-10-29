@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [muvatec/switch-phone-aa](./muvatec-switch-phone-aa.md) | ⭐ — | Kotlin | 36/100 |
+| 1 | [muvatec/switch-phone-aa](./muvatec-switch-phone-aa.md) | ⭐ — | Kotlin | 33/100 |
 
 ---
 
