@@ -1,6 +1,6 @@
 # iriscomputing/webpack-prism-plugin
 
-[![Stars](https://img.shields.io/github/stars/iriscomputing/webpack-prism-plugin?style=flat-square&color=yellow)](https://github.com/iriscomputing/webpack-prism-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/iriscomputing/webpack-prism-plugin?style=flat-square&color=blue)](https://github.com/iriscomputing/webpack-prism-plugin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/iriscomputing/webpack-prism-plugin?style=flat-square&color=yellow)](https://github.com/iriscomputing/webpack-prism-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/iriscomputing/webpack-prism-plugin?style=flat-square&color=blue)](https://github.com/iriscomputing/webpack-prism-plugin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A production Webpack plugin that transmutes JavaScript and React bundles into encrypted optical shard containers. The client decrypts and evaluates runtime code strictly inside volatile browser RAM using the Web Crypto API (crypto.subtle) and ephemeral blob descriptors—ensuring proprietary code and algorithms never persist to local disk or cache.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ iriscomputing/webpack-prism-plugin：iriscomputing/webpack-prism-plugin may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 94/100 |
-| production | 64/100 |
-| outlook | 57/100 |
+| production | 58/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

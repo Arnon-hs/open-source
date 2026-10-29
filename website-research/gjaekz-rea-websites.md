@@ -1,6 +1,6 @@
 # gjaekz/rea-websites
 
-[![Stars](https://img.shields.io/github/stars/gjaekz/rea-websites?style=flat-square&color=yellow)](https://github.com/gjaekz/rea-websites/stargazers) [![Forks](https://img.shields.io/github/forks/gjaekz/rea-websites?style=flat-square&color=blue)](https://github.com/gjaekz/rea-websites/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gjaekz/rea-websites?style=flat-square&color=yellow)](https://github.com/gjaekz/rea-websites/stargazers) [![Forks](https://img.shields.io/github/forks/gjaekz/rea-websites?style=flat-square&color=blue)](https://github.com/gjaekz/rea-websites/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > REA-powered website research, evidence capture, and reusable reference documentation for user-directed recreation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -54,22 +54,22 @@ gjaekz/rea-websites：gjaekz/rea-websites may be useful when its README and acti
 - updated 2026-10-26
 - 7 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 59/100 |
+| production | 53/100 |
+| outlook | 52/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

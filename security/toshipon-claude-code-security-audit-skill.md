@@ -1,6 +1,6 @@
 # toshipon/claude-code-security-audit-skill
 
-[![Stars](https://img.shields.io/github/stars/toshipon/claude-code-security-audit-skill?style=flat-square&color=yellow)](https://github.com/toshipon/claude-code-security-audit-skill/stargazers) [![Forks](https://img.shields.io/github/forks/toshipon/claude-code-security-audit-skill?style=flat-square&color=blue)](https://github.com/toshipon/claude-code-security-audit-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/toshipon/claude-code-security-audit-skill?style=flat-square&color=yellow)](https://github.com/toshipon/claude-code-security-audit-skill/stargazers) [![Forks](https://img.shields.io/github/forks/toshipon/claude-code-security-audit-skill?style=flat-square&color=blue)](https://github.com/toshipon/claude-code-security-audit-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive, full-stack security audit skill for Claude Code. Run /security-audit all and get an end-to-end vulnerability assessment across your entire stack.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ toshipon/claude-code-security-audit-skill：toshipon/claude-code-security-audit-
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 44/100 |
+| quality | 39/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 55/100 |
+| production | 54/100 |
+| outlook | 48/100 |
 | adoption | 19/100 |
 | categoryMatchCount | 600/100 |
 | stars | 21/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [gjaekz/rea-websites](./gjaekz-rea-websites.md) | ⭐ — | — | 43/100 |
+| 1 | [gjaekz/rea-websites](./gjaekz-rea-websites.md) | ⭐ — | — | 40/100 |
 
 ---
 

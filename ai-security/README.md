@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [iriscomputing/webpack-prism-plugin](./iriscomputing-webpack-prism-plugin.md) | ⭐ — | JavaScript | 60/100 |
-| 2 | [iriscomputing/pyprism](./iriscomputing-pyprism.md) | ⭐ — | Python | 42/100 |
+| 1 | [iriscomputing/webpack-prism-plugin](./iriscomputing-webpack-prism-plugin.md) | ⭐ — | JavaScript | 57/100 |
+| 2 | [iriscomputing/pyprism](./iriscomputing-pyprism.md) | ⭐ — | Python | 39/100 |
 | 3 | [iriscomputing/iris-sentinel-saas](./iriscomputing-iris-sentinel-saas.md) | ⭐ — | — | 24/100 |
 
 ---

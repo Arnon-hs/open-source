@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [pyaroslav/night-shift](./pyaroslav-night-shift.md) | ⭐ — | Python | 42/100 |
+| 1 | [pyaroslav/night-shift](./pyaroslav-night-shift.md) | ⭐ — | Python | 39/100 |
 
 ---
 

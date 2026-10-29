@@ -83,8 +83,8 @@
 | 73 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.2k | Python | 65/100 |
 | 74 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 1.9k | C++ | 65/100 |
 | 75 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.5k | C++ | 65/100 |
-| 76 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 77 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 76 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 77 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 78 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 725 | TypeScript | 65/100 |
 | 79 | [logto-io/logto](./logto-io-logto.md) | ⭐ 12.7k | TypeScript | 65/100 |
 | 80 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 348 | TypeScript | 65/100 |
@@ -345,8 +345,8 @@
 | 335 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ — | — | 42/100 |
 | 336 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ — | — | 42/100 |
 | 337 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ — | — | 42/100 |
-| 338 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ — | — | 42/100 |
-| 339 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ — | — | 42/100 |
+| 338 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ — | — | 42/100 |
+| 339 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ — | — | 42/100 |
 | 340 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ — | — | 42/100 |
 | 341 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ — | — | 42/100 |
 | 342 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ — | — | 42/100 |
