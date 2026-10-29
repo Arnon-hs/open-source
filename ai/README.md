@@ -9,9 +9,9 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [GaffaAI/gaffa-for-ai](./gaffaai-gaffa-for-ai.md) | ⭐ — | Shell | 70/100 |
-| 2 | [machenh001-pixel/agent-colony](./machenh001-pixel-agent-colony.md) | ⭐ 2 | JavaScript | 68/100 |
-| 3 | [onelpawarai-X/ZYRAXON-AI](./onelpawarai-x-zyraxon-ai.md) | ⭐ 9 | TypeScript | 67/100 |
-| 4 | [MGdaasLab/WHartTest](./mgdaaslab-wharttest.md) | ⭐ 1.1k | Python | 66/100 |
+| 2 | [onelpawarai-X/ZYRAXON-AI](./onelpawarai-x-zyraxon-ai.md) | ⭐ 9 | TypeScript | 67/100 |
+| 3 | [MGdaasLab/WHartTest](./mgdaaslab-wharttest.md) | ⭐ 1.1k | Python | 66/100 |
+| 4 | [machenh001-pixel/agent-colony](./machenh001-pixel-agent-colony.md) | ⭐ 2 | JavaScript | 65/100 |
 | 5 | [easyeda/easyeda-api-skill](./easyeda-easyeda-api-skill.md) | ⭐ 977 | JavaScript | 64/100 |
 | 6 | [skibuff22/agent-ops-kit-lite](./skibuff22-agent-ops-kit-lite.md) | ⭐ — | Python | 60/100 |
 | 7 | [langchain-ai/openevals](./langchain-ai-openevals.md) | ⭐ 1.2k | Python | 56/100 |
