@@ -11,8 +11,8 @@
 | 1 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
 | 2 | [Shashank-blip/Ofrenda](./shashank-blip-ofrenda.md) | ⭐ — | Python | 36/100 |
 | 3 | [laiba-Ashfaq/lazy-downloads-tidier](./laiba-ashfaq-lazy-downloads-tidier.md) | ⭐ — | Python | 36/100 |
-| 4 | [Abishethvarman/CiteWise](./abishethvarman-citewise.md) | ⭐ — | Python | 36/100 |
-| 5 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
+| 4 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
+| 5 | [Abishethvarman/CiteWise](./abishethvarman-citewise.md) | ⭐ — | Python | 33/100 |
 | 6 | [Karishma-Das/porchlight](./karishma-das-porchlight.md) | ⭐ — | Python | 33/100 |
 | 7 | [sleepyaishik69/ChromaWild](./sleepyaishik69-chromawild.md) | ⭐ — | TypeScript | 33/100 |
 | 8 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 33/100 |
