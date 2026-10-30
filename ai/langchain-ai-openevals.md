@@ -1,6 +1,6 @@
 # langchain-ai/openevals
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/openevals?style=flat-square&color=yellow)](https://github.com/langchain-ai/openevals/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/openevals?style=flat-square&color=blue)](https://github.com/langchain-ai/openevals/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/openevals?style=flat-square&color=yellow)](https://github.com/langchain-ai/openevals/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/openevals?style=flat-square&color=blue)](https://github.com/langchain-ai/openevals/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Readymade evaluators for your LLM apps
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 134 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ langchain-ai/openevals：langchain-ai/openevals may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 66/100 |
+| production | 61/100 |
+| outlook | 59/100 |
 | adoption | 62/100 |
 | categoryMatchCount | 600/100 |
 | stars | 66/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

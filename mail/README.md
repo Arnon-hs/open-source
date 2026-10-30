@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [docker-mailserver/docker-mailserver](./docker-mailserver-docker-mailserver.md) | ⭐ 19.7k | Shell | 67/100 |
+| 1 | [docker-mailserver/docker-mailserver](./docker-mailserver-docker-mailserver.md) | ⭐ 19.7k | Shell | 64/100 |
 
 ---
 
