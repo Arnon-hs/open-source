@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [lede-lang/lede](./lede-lang-lede.md) | ⭐ 1 | HTML | 40/100 |
+| 1 | [lede-lang/lede](./lede-lang-lede.md) | ⭐ 1 | HTML | 37/100 |
 
 ---
 

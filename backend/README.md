@@ -469,8 +469,8 @@
 | 459 | [elastic/apm-server](./elastic-apm-server.md) | ⭐ 1.3k | Go | 63/100 |
 | 460 | [MicroPyramid/opensource-job-portal](./micropyramid-opensource-job-portal.md) | ⭐ 480 | HTML | 63/100 |
 | 461 | [joreilly/BikeShare](./joreilly-bikeshare.md) | ⭐ 826 | Jupyter Notebook | 63/100 |
-| 462 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
-| 463 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 368 | TypeScript | 63/100 |
+| 462 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 368 | TypeScript | 63/100 |
+| 463 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
 | 464 | [Karben233/bili-hardcore](./karben233-bili-hardcore.md) | ⭐ 2.2k | Rust | 63/100 |
 | 465 | [markitosgv/JWTRefreshTokenBundle](./markitosgv-jwtrefreshtokenbundle.md) | ⭐ 710 | PHP | 63/100 |
 | 466 | [ansible/vscode-ansible](./ansible-vscode-ansible.md) | ⭐ 480 | TypeScript | 63/100 |
@@ -757,8 +757,8 @@
 | 747 | [inducer/relate](./inducer-relate.md) | ⭐ 423 | Python | 56/100 |
 | 748 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 476 | Go | 56/100 |
 | 749 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 197 | TypeScript | 56/100 |
-| 750 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
-| 751 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 750 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 751 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 376 | Java | 56/100 |
 | 752 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 682 | Rust | 56/100 |
 | 753 | [nodejs/undici](./nodejs-undici.md) | ⭐ 7.6k | JavaScript | 56/100 |
 | 754 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 350 | Go | 56/100 |
