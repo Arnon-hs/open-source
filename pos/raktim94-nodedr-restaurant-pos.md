@@ -1,6 +1,6 @@
 # Raktim94/nodedr-restaurant-pos
 
-[![Stars](https://img.shields.io/github/stars/Raktim94/nodedr-restaurant-pos?style=flat-square&color=yellow)](https://github.com/Raktim94/nodedr-restaurant-pos/stargazers) [![Forks](https://img.shields.io/github/forks/Raktim94/nodedr-restaurant-pos?style=flat-square&color=blue)](https://github.com/Raktim94/nodedr-restaurant-pos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Raktim94/nodedr-restaurant-pos?style=flat-square&color=yellow)](https://github.com/Raktim94/nodedr-restaurant-pos/stargazers) [![Forks](https://img.shields.io/github/forks/Raktim94/nodedr-restaurant-pos?style=flat-square&color=blue)](https://github.com/Raktim94/nodedr-restaurant-pos/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted restaurant POS with tables, kitchen display, reservations, QR ordering, loyalty and local-network operation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 179 |
 | 🍴 **Forks** | 120 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Raktim94/nodedr-restaurant-pos：Raktim94/nodedr-restaurant-pos may be useful wh
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 73/100 |
+| quality | 68/100 |
 | integration | 62/100 |
-| production | 73/100 |
-| outlook | 76/100 |
+| production | 66/100 |
+| outlook | 69/100 |
 | adoption | 49/100 |
 | categoryMatchCount | 500/100 |
 | stars | 48/100 |
 | forks | 52/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
