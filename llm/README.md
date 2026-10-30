@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | 1 | [sulci-io/sulci-oss](./sulci-io-sulci-oss.md) | ⭐ 11 | Python | 64/100 |
 | 2 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 51/100 |
-| 3 | [OddlyGoods/peep-note](./oddlygoods-peep-note.md) | ⭐ — | TypeScript | 45/100 |
-| 4 | [linklbee/scan](./linklbee-scan.md) | ⭐ — | Python | 43/100 |
+| 3 | [linklbee/scan](./linklbee-scan.md) | ⭐ — | Python | 43/100 |
+| 4 | [OddlyGoods/peep-note](./oddlygoods-peep-note.md) | ⭐ — | TypeScript | 42/100 |
 | 5 | [saixiong/nightscout](./saixiong-nightscout.md) | ⭐ — | Python | 39/100 |
 | 6 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 33/100 |
 | 7 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 32/100 |
