@@ -1,6 +1,6 @@
 # easyeda/easyeda-api-skill
 
-[![Stars](https://img.shields.io/github/stars/easyeda/easyeda-api-skill?style=flat-square&color=yellow)](https://github.com/easyeda/easyeda-api-skill/stargazers) [![Forks](https://img.shields.io/github/forks/easyeda/easyeda-api-skill?style=flat-square&color=blue)](https://github.com/easyeda/easyeda-api-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/easyeda/easyeda-api-skill?style=flat-square&color=yellow)](https://github.com/easyeda/easyeda-api-skill/stargazers) [![Forks](https://img.shields.io/github/forks/easyeda/easyeda-api-skill?style=flat-square&color=blue)](https://github.com/easyeda/easyeda-api-skill/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > 嘉立创EDA专业版AI SKILL，为AI编程工具提供完整的EasyEDA Pro API接口和WebSocket桥接能力。EasyEDA Pro AI SKILL provides a complete EasyEDA Pro API interface and WebSocket bridging capability for AI programming tools.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 977 |
 | 🍴 **Forks** | 78 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ easyeda/easyeda-api-skill：easyeda/easyeda-api-skill may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 46/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 60/100 |
+| outlook | 65/100 |
 | adoption | 59/100 |
 | categoryMatchCount | 600/100 |
 | stars | 64/100 |
 | forks | 47/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Nahid-mahmud555/term-undo](./nahid-mahmud555-term-undo.md) | ⭐ 2 | Shell | 50/100 |
+| 1 | [Nahid-mahmud555/term-undo](./nahid-mahmud555-term-undo.md) | ⭐ 2 | Shell | 47/100 |
 
 ---
 
