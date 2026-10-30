@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43203** |
+| **Projects** | **43206** |
 | **Categories** | **520** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17369 | [Browse →](./misc/) |
+| 📦 **Misc** | 17371 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4615 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2899 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2407 | [Browse →](./orchestration/) |
@@ -43,7 +43,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 479 | [Browse →](./templates/) |
 | 🔐 **Security** | 454 | [Browse →](./security/) |
 | 🏷️ **Communication** | 450 | [Browse →](./communication/) |
-| 💳 **Payments** | 372 | [Browse →](./payments/) |
+| 💳 **Payments** | 373 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 346 | [Browse →](./games--graphics/) |
 | 📊 **Data** | 344 | [Browse →](./data/) |
 | 🏷️ **Productivity** | 339 | [Browse →](./productivity/) |
