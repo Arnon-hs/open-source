@@ -1,6 +1,6 @@
 # techdevfun/context-diet
 
-[![Stars](https://img.shields.io/github/stars/techdevfun/context-diet?style=flat-square&color=yellow)](https://github.com/techdevfun/context-diet/stargazers) [![Forks](https://img.shields.io/github/forks/techdevfun/context-diet?style=flat-square&color=blue)](https://github.com/techdevfun/context-diet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/techdevfun/context-diet?style=flat-square&color=yellow)](https://github.com/techdevfun/context-diet/stargazers) [![Forks](https://img.shields.io/github/forks/techdevfun/context-diet?style=flat-square&color=blue)](https://github.com/techdevfun/context-diet/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A deterministic diet for agent context: shrink logs, outputs, and repeated turns with an exact manifest. No model, no network, nothing invented.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ techdevfun/context-diet：techdevfun/context-diet may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 66/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

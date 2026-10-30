@@ -1,6 +1,6 @@
 # techdevfun/ci-failure-detective
 
-[![Stars](https://img.shields.io/github/stars/techdevfun/ci-failure-detective?style=flat-square&color=yellow)](https://github.com/techdevfun/ci-failure-detective/stargazers) [![Forks](https://img.shields.io/github/forks/techdevfun/ci-failure-detective?style=flat-square&color=blue)](https://github.com/techdevfun/ci-failure-detective/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/techdevfun/ci-failure-detective?style=flat-square&color=yellow)](https://github.com/techdevfun/ci-failure-detective/stargazers) [![Forks](https://img.shields.io/github/forks/techdevfun/ci-failure-detective?style=flat-square&color=blue)](https://github.com/techdevfun/ci-failure-detective/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Find the first real error in a failed CI log, tell flaky tests apart from real breakage, and cluster repeat failures. Zero dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ techdevfun/ci-failure-detective：techdevfun/ci-failure-detective may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
