@@ -9,9 +9,9 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 44/100 |
-| 2 | [Bhavya4523/still-charging](./bhavya4523-still-charging.md) | ⭐ — | JavaScript | 39/100 |
-| 3 | [jeffreyturov-dev/memoria-local](./jeffreyturov-dev-memoria-local.md) | ⭐ — | Python | 39/100 |
-| 4 | [ExPl0iT-29/slothsort](./expl0it-29-slothsort.md) | ⭐ — | Python | 39/100 |
+| 2 | [jeffreyturov-dev/memoria-local](./jeffreyturov-dev-memoria-local.md) | ⭐ — | Python | 39/100 |
+| 3 | [ExPl0iT-29/slothsort](./expl0it-29-slothsort.md) | ⭐ — | Python | 39/100 |
+| 4 | [Bhavya4523/still-charging](./bhavya4523-still-charging.md) | ⭐ — | JavaScript | 36/100 |
 | 5 | [anshraj3060/fridge-to-list](./anshraj3060-fridge-to-list.md) | ⭐ — | JavaScript | 36/100 |
 | 6 | [aashutoshkumarbhardwaj/openSearch](./aashutoshkumarbhardwaj-opensearch.md) | ⭐ — | TypeScript | 36/100 |
 | 7 | [devanshu-puri/BaseBuildStack](./devanshu-puri-basebuildstack.md) | ⭐ — | TypeScript | 36/100 |
