@@ -1,6 +1,6 @@
 # MotleyAI/living-architecture
 
-[![Stars](https://img.shields.io/github/stars/MotleyAI/living-architecture?style=flat-square&color=yellow)](https://github.com/MotleyAI/living-architecture/stargazers) [![Forks](https://img.shields.io/github/forks/MotleyAI/living-architecture?style=flat-square&color=blue)](https://github.com/MotleyAI/living-architecture/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MotleyAI/living-architecture?style=flat-square&color=yellow)](https://github.com/MotleyAI/living-architecture/stargazers) [![Forks](https://img.shields.io/github/forks/MotleyAI/living-architecture?style=flat-square&color=blue)](https://github.com/MotleyAI/living-architecture/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code plugin + CLI that keeps coding agents from eroding your architecture: normative principles attached to a LikeC4 model, which is also the import law for Python and TypeScript, plus an OpenSpec-generating PR flow.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ MotleyAI/living-architecture：MotleyAI/living-architecture may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 94/100 |
-| production | 72/100 |
-| outlook | 70/100 |
+| production | 65/100 |
+| outlook | 63/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 500/100 |
 | stars | 18/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

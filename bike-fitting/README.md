@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dsiacci/bikefit](./dsiacci-bikefit.md) | ⭐ — | JavaScript | 33/100 |
+| 1 | [dsiacci/bikefit](./dsiacci-bikefit.md) | ⭐ — | JavaScript | 30/100 |
 
 ---
 
