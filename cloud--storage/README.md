@@ -2,7 +2,7 @@
 
 > 
 
-**620 projects** in this category.
+**621 projects** in this category.
 
 ## Projects
 
@@ -568,66 +568,67 @@
 | 558 | [sthalatech/atropim-s3-storage](./sthalatech-atropim-s3-storage.md) | ⭐ — | — | 42/100 |
 | 559 | [gordonmurray/firnflow](./gordonmurray-firnflow.md) | ⭐ — | — | 42/100 |
 | 560 | [s3s-project/s3s](./s3s-project-s3s.md) | ⭐ 277 | Rust | 42/100 |
-| 561 | [bompus/sigflint](./bompus-sigflint.md) | ⭐ — | — | 41/100 |
-| 562 | [Millillion/lasm](./millillion-lasm.md) | ⭐ — | — | 41/100 |
-| 563 | [amazonlinux/amazon-linux-2023](./amazonlinux-amazon-linux-2023.md) | ⭐ — | — | 41/100 |
-| 564 | [genbs/reactive-leds](./genbs-reactive-leds.md) | ⭐ — | — | 41/100 |
-| 565 | [Whospr/Whospair](./whospr-whospair.md) | ⭐ — | — | 41/100 |
-| 566 | [Annora998/Wardkey](./annora998-wardkey.md) | ⭐ — | — | 41/100 |
-| 567 | [dev2ex/twig](./dev2ex-twig.md) | ⭐ — | — | 41/100 |
-| 568 | [ioflux-org/armite](./ioflux-org-armite.md) | ⭐ — | — | 41/100 |
-| 569 | [arabo11/zombiecost](./arabo11-zombiecost.md) | ⭐ — | — | 41/100 |
-| 570 | [omerfeyzioglu/glider](./omerfeyzioglu-glider.md) | ⭐ — | — | 41/100 |
-| 571 | [Fazel94/floret-torch](./fazel94-floret-torch.md) | ⭐ — | — | 41/100 |
-| 572 | [Ace7-coder/aws-finops-auditor-lite](./ace7-coder-aws-finops-auditor-lite.md) | ⭐ — | — | 41/100 |
-| 573 | [silicium369-spec/silicium-benchmarker](./silicium369-spec-silicium-benchmarker.md) | ⭐ — | — | 41/100 |
-| 574 | [ubunye-ai-ecosystems/ubunye_engine](./ubunye-ai-ecosystems-ubunye-engine.md) | ⭐ — | — | 41/100 |
-| 575 | [danthegoodman1/s3-accelerator](./danthegoodman1-s3-accelerator.md) | ⭐ — | — | 41/100 |
-| 576 | [lokutor-ai/ito](./lokutor-ai-ito.md) | ⭐ — | — | 41/100 |
-| 577 | [omwah/esp-vim](./omwah-esp-vim.md) | ⭐ — | — | 41/100 |
-| 578 | [lokutor-ai/oido](./lokutor-ai-oido.md) | ⭐ — | — | 41/100 |
-| 579 | [therezor/cardputer-ai](./therezor-cardputer-ai.md) | ⭐ — | — | 41/100 |
-| 580 | [sbalmt/ez4](./sbalmt-ez4.md) | ⭐ — | — | 41/100 |
-| 581 | [HQarroum/laymbda](./hqarroum-laymbda.md) | ⭐ — | — | 41/100 |
-| 582 | [NetGadz/NodeX](./netgadz-nodex.md) | ⭐ — | — | 41/100 |
-| 583 | [dashersw/coyopedal](./dashersw-coyopedal.md) | ⭐ — | — | 41/100 |
-| 584 | [seacloud-lab/seasearch](./seacloud-lab-seasearch.md) | ⭐ — | — | 41/100 |
-| 585 | [paguasmar/veloxml-deploy](./paguasmar-veloxml-deploy.md) | ⭐ — | — | 41/100 |
-| 586 | [archiecobbs/s3backer](./archiecobbs-s3backer.md) | ⭐ — | — | 41/100 |
-| 587 | [mrhardlint/Hard-Chat](./mrhardlint-hard-chat.md) | ⭐ — | — | 41/100 |
-| 588 | [oauth2-proxy/oauth2-proxy](./oauth2-proxy-oauth2-proxy.md) | ⭐ — | — | 41/100 |
-| 589 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 333 | Bicep | 41/100 |
-| 590 | [suzuki0430/kro-crossplane-eks-idp-lab](./suzuki0430-kro-crossplane-eks-idp-lab.md) | ⭐ — | Shell | 40/100 |
-| 591 | [rendyachmad-dev/ark](./rendyachmad-dev-ark.md) | ⭐ 7 | Shell | 39/100 |
-| 592 | [earlgreyhot1701D/madame-minou](./earlgreyhot1701d-madame-minou.md) | ⭐ — | — | 39/100 |
-| 593 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 39/100 |
-| 594 | [crabbuild/crab](./crabbuild-crab.md) | ⭐ — | — | 38/100 |
-| 595 | [fregacmols/RotaryCell](./fregacmols-rotarycell.md) | ⭐ — | — | 38/100 |
-| 596 | [robertpitt/git3](./robertpitt-git3.md) | ⭐ — | — | 38/100 |
-| 597 | [danthegoodman1/waltier](./danthegoodman1-waltier.md) | ⭐ — | — | 38/100 |
-| 598 | [themew2/FreeRDP-to-Entra-Connected-Windows-Device](./themew2-freerdp-to-entra-connected-windows-device.md) | ⭐ — | — | 38/100 |
-| 599 | [tombaldwin/ebman](./tombaldwin-ebman.md) | ⭐ — | — | 38/100 |
-| 600 | [aws/dotnet-foss](./aws-dotnet-foss.md) | ⭐ — | — | 38/100 |
-| 601 | [melastmohican/rust-reterminal-e1002-examples](./melastmohican-rust-reterminal-e1002-examples.md) | ⭐ — | — | 38/100 |
-| 602 | [Carloscodix/qapla](./carloscodix-qapla.md) | ⭐ — | — | 38/100 |
-| 603 | [varveio/swath](./varveio-swath.md) | ⭐ — | — | 38/100 |
-| 604 | [harmansingh4163-ai/R-457](./harmansingh4163-ai-r-457.md) | ⭐ — | — | 38/100 |
-| 605 | [wladimiravila/esp32s3-distributed-ai](./wladimiravila-esp32s3-distributed-ai.md) | ⭐ — | — | 38/100 |
-| 606 | [wizenink/aethers3](./wizenink-aethers3.md) | ⭐ — | — | 38/100 |
-| 607 | [dbsystel/cdk-sops-secrets](./dbsystel-cdk-sops-secrets.md) | ⭐ — | — | 38/100 |
-| 608 | [michidk/shimesu](./michidk-shimesu.md) | ⭐ — | — | 38/100 |
-| 609 | [mickael-kerjean/fdrive](./mickael-kerjean-fdrive.md) | ⭐ — | — | 38/100 |
-| 610 | [wocdamjack/thepersonalsafe](./wocdamjack-thepersonalsafe.md) | ⭐ — | — | 38/100 |
-| 611 | [sonthonaxrk/demandmap](./sonthonaxrk-demandmap.md) | ⭐ — | — | 38/100 |
-| 612 | [Elpulgo/azdo](./elpulgo-azdo.md) | ⭐ — | — | 38/100 |
-| 613 | [RobinSrimal/irongate](./robinsrimal-irongate.md) | ⭐ — | — | 38/100 |
-| 614 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 38/100 |
-| 615 | [cgopalan/s3fileviewer](./cgopalan-s3fileviewer.md) | ⭐ — | — | 38/100 |
-| 616 | [bolt-earth/Berg](./bolt-earth-berg.md) | ⭐ — | — | 38/100 |
-| 617 | [floci-io/floci](./floci-io-floci.md) | ⭐ — | — | 38/100 |
-| 618 | [x-tahosin/groundstate](./x-tahosin-groundstate.md) | ⭐ — | JavaScript | 36/100 |
-| 619 | [psantus/aws-console-url](./psantus-aws-console-url.md) | ⭐ — | Shell | 36/100 |
-| 620 | [iandchasse/de-link](./iandchasse-de-link.md) | ⭐ — | — | 28/100 |
+| 561 | [ocelhq/ocel](./ocelhq-ocel.md) | ⭐ — | — | 41/100 |
+| 562 | [bompus/sigflint](./bompus-sigflint.md) | ⭐ — | — | 41/100 |
+| 563 | [Millillion/lasm](./millillion-lasm.md) | ⭐ — | — | 41/100 |
+| 564 | [amazonlinux/amazon-linux-2023](./amazonlinux-amazon-linux-2023.md) | ⭐ — | — | 41/100 |
+| 565 | [genbs/reactive-leds](./genbs-reactive-leds.md) | ⭐ — | — | 41/100 |
+| 566 | [Whospr/Whospair](./whospr-whospair.md) | ⭐ — | — | 41/100 |
+| 567 | [Annora998/Wardkey](./annora998-wardkey.md) | ⭐ — | — | 41/100 |
+| 568 | [dev2ex/twig](./dev2ex-twig.md) | ⭐ — | — | 41/100 |
+| 569 | [ioflux-org/armite](./ioflux-org-armite.md) | ⭐ — | — | 41/100 |
+| 570 | [arabo11/zombiecost](./arabo11-zombiecost.md) | ⭐ — | — | 41/100 |
+| 571 | [omerfeyzioglu/glider](./omerfeyzioglu-glider.md) | ⭐ — | — | 41/100 |
+| 572 | [Fazel94/floret-torch](./fazel94-floret-torch.md) | ⭐ — | — | 41/100 |
+| 573 | [Ace7-coder/aws-finops-auditor-lite](./ace7-coder-aws-finops-auditor-lite.md) | ⭐ — | — | 41/100 |
+| 574 | [silicium369-spec/silicium-benchmarker](./silicium369-spec-silicium-benchmarker.md) | ⭐ — | — | 41/100 |
+| 575 | [ubunye-ai-ecosystems/ubunye_engine](./ubunye-ai-ecosystems-ubunye-engine.md) | ⭐ — | — | 41/100 |
+| 576 | [danthegoodman1/s3-accelerator](./danthegoodman1-s3-accelerator.md) | ⭐ — | — | 41/100 |
+| 577 | [lokutor-ai/ito](./lokutor-ai-ito.md) | ⭐ — | — | 41/100 |
+| 578 | [omwah/esp-vim](./omwah-esp-vim.md) | ⭐ — | — | 41/100 |
+| 579 | [lokutor-ai/oido](./lokutor-ai-oido.md) | ⭐ — | — | 41/100 |
+| 580 | [therezor/cardputer-ai](./therezor-cardputer-ai.md) | ⭐ — | — | 41/100 |
+| 581 | [sbalmt/ez4](./sbalmt-ez4.md) | ⭐ — | — | 41/100 |
+| 582 | [HQarroum/laymbda](./hqarroum-laymbda.md) | ⭐ — | — | 41/100 |
+| 583 | [NetGadz/NodeX](./netgadz-nodex.md) | ⭐ — | — | 41/100 |
+| 584 | [dashersw/coyopedal](./dashersw-coyopedal.md) | ⭐ — | — | 41/100 |
+| 585 | [seacloud-lab/seasearch](./seacloud-lab-seasearch.md) | ⭐ — | — | 41/100 |
+| 586 | [paguasmar/veloxml-deploy](./paguasmar-veloxml-deploy.md) | ⭐ — | — | 41/100 |
+| 587 | [archiecobbs/s3backer](./archiecobbs-s3backer.md) | ⭐ — | — | 41/100 |
+| 588 | [mrhardlint/Hard-Chat](./mrhardlint-hard-chat.md) | ⭐ — | — | 41/100 |
+| 589 | [oauth2-proxy/oauth2-proxy](./oauth2-proxy-oauth2-proxy.md) | ⭐ — | — | 41/100 |
+| 590 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 333 | Bicep | 41/100 |
+| 591 | [suzuki0430/kro-crossplane-eks-idp-lab](./suzuki0430-kro-crossplane-eks-idp-lab.md) | ⭐ — | Shell | 40/100 |
+| 592 | [rendyachmad-dev/ark](./rendyachmad-dev-ark.md) | ⭐ 7 | Shell | 39/100 |
+| 593 | [earlgreyhot1701D/madame-minou](./earlgreyhot1701d-madame-minou.md) | ⭐ — | — | 39/100 |
+| 594 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 431 | Rust | 39/100 |
+| 595 | [crabbuild/crab](./crabbuild-crab.md) | ⭐ — | — | 38/100 |
+| 596 | [fregacmols/RotaryCell](./fregacmols-rotarycell.md) | ⭐ — | — | 38/100 |
+| 597 | [robertpitt/git3](./robertpitt-git3.md) | ⭐ — | — | 38/100 |
+| 598 | [danthegoodman1/waltier](./danthegoodman1-waltier.md) | ⭐ — | — | 38/100 |
+| 599 | [themew2/FreeRDP-to-Entra-Connected-Windows-Device](./themew2-freerdp-to-entra-connected-windows-device.md) | ⭐ — | — | 38/100 |
+| 600 | [tombaldwin/ebman](./tombaldwin-ebman.md) | ⭐ — | — | 38/100 |
+| 601 | [aws/dotnet-foss](./aws-dotnet-foss.md) | ⭐ — | — | 38/100 |
+| 602 | [melastmohican/rust-reterminal-e1002-examples](./melastmohican-rust-reterminal-e1002-examples.md) | ⭐ — | — | 38/100 |
+| 603 | [Carloscodix/qapla](./carloscodix-qapla.md) | ⭐ — | — | 38/100 |
+| 604 | [varveio/swath](./varveio-swath.md) | ⭐ — | — | 38/100 |
+| 605 | [harmansingh4163-ai/R-457](./harmansingh4163-ai-r-457.md) | ⭐ — | — | 38/100 |
+| 606 | [wladimiravila/esp32s3-distributed-ai](./wladimiravila-esp32s3-distributed-ai.md) | ⭐ — | — | 38/100 |
+| 607 | [wizenink/aethers3](./wizenink-aethers3.md) | ⭐ — | — | 38/100 |
+| 608 | [dbsystel/cdk-sops-secrets](./dbsystel-cdk-sops-secrets.md) | ⭐ — | — | 38/100 |
+| 609 | [michidk/shimesu](./michidk-shimesu.md) | ⭐ — | — | 38/100 |
+| 610 | [mickael-kerjean/fdrive](./mickael-kerjean-fdrive.md) | ⭐ — | — | 38/100 |
+| 611 | [wocdamjack/thepersonalsafe](./wocdamjack-thepersonalsafe.md) | ⭐ — | — | 38/100 |
+| 612 | [sonthonaxrk/demandmap](./sonthonaxrk-demandmap.md) | ⭐ — | — | 38/100 |
+| 613 | [Elpulgo/azdo](./elpulgo-azdo.md) | ⭐ — | — | 38/100 |
+| 614 | [RobinSrimal/irongate](./robinsrimal-irongate.md) | ⭐ — | — | 38/100 |
+| 615 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 38/100 |
+| 616 | [cgopalan/s3fileviewer](./cgopalan-s3fileviewer.md) | ⭐ — | — | 38/100 |
+| 617 | [bolt-earth/Berg](./bolt-earth-berg.md) | ⭐ — | — | 38/100 |
+| 618 | [floci-io/floci](./floci-io-floci.md) | ⭐ — | — | 38/100 |
+| 619 | [x-tahosin/groundstate](./x-tahosin-groundstate.md) | ⭐ — | JavaScript | 36/100 |
+| 620 | [psantus/aws-console-url](./psantus-aws-console-url.md) | ⭐ — | Shell | 36/100 |
+| 621 | [iandchasse/de-link](./iandchasse-de-link.md) | ⭐ — | — | 28/100 |
 
 ---
 
