@@ -1,6 +1,6 @@
 # alegauss/claude-tray
 
-[![Stars](https://img.shields.io/github/stars/alegauss/claude-tray?style=flat-square&color=yellow)](https://github.com/alegauss/claude-tray/stargazers) [![Forks](https://img.shields.io/github/forks/alegauss/claude-tray?style=flat-square&color=blue)](https://github.com/alegauss/claude-tray/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alegauss/claude-tray?style=flat-square&color=yellow)](https://github.com/alegauss/claude-tray/stargazers) [![Forks](https://img.shields.io/github/forks/alegauss/claude-tray?style=flat-square&color=blue)](https://github.com/alegauss/claude-tray/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Native Windows tray monitor for Claude Code usage — shows your rate-limit %, projects when you'll run out, and turns the icon red before you hit the limit. Plus a local 24h usage breakdown.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ alegauss/claude-tray：alegauss/claude-tray may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 67/100 |
+| production | 56/100 |
+| outlook | 60/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 600/100 |
 | stars | 19/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
