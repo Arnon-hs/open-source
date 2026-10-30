@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [solusops/Fast-Tabber](./solusops-fast-tabber.md) | ⭐ — | Python | 58/100 |
+| 1 | [solusops/Fast-Tabber](./solusops-fast-tabber.md) | ⭐ — | Python | 55/100 |
 
 ---
 
