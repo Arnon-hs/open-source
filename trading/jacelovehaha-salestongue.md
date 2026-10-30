@@ -1,6 +1,6 @@
 # jacelovehaha/salestongue
 
-[![Stars](https://img.shields.io/github/stars/jacelovehaha/salestongue?style=flat-square&color=yellow)](https://github.com/jacelovehaha/salestongue/stargazers) [![Forks](https://img.shields.io/github/forks/jacelovehaha/salestongue?style=flat-square&color=blue)](https://github.com/jacelovehaha/salestongue/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jacelovehaha/salestongue?style=flat-square&color=yellow)](https://github.com/jacelovehaha/salestongue/stargazers) [![Forks](https://img.shields.io/github/forks/jacelovehaha/salestongue?style=flat-square&color=blue)](https://github.com/jacelovehaha/salestongue/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Sales-talk kits for small merchants: short-video scripts, livestream talk tracks and customer Q&A from industry packs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ jacelovehaha/salestongue：jacelovehaha/salestongue may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bayuh85/vetskill](./bayuh85-vetskill.md) | ⭐ — | Python | 62/100 |
+| 1 | [bayuh85/vetskill](./bayuh85-vetskill.md) | ⭐ — | Python | 59/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # chickadee-project/chickadee_studio
 
-[![Stars](https://img.shields.io/github/stars/chickadee-project/chickadee_studio?style=flat-square&color=yellow)](https://github.com/chickadee-project/chickadee_studio/stargazers) [![Forks](https://img.shields.io/github/forks/chickadee-project/chickadee_studio?style=flat-square&color=blue)](https://github.com/chickadee-project/chickadee_studio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chickadee-project/chickadee_studio?style=flat-square&color=yellow)](https://github.com/chickadee-project/chickadee_studio/stargazers) [![Forks](https://img.shields.io/github/forks/chickadee-project/chickadee_studio?style=flat-square&color=blue)](https://github.com/chickadee-project/chickadee_studio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Desktop app for detecting and analyzing suspected hidden ads on public websites using OCR, DOM analysis, and local ML.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 16 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ chickadee-project/chickadee_studio：chickadee-project/chickadee_studio may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 61/100 |
+| outlook | 61/100 |
 | adoption | 22/100 |
 | categoryMatchCount | 500/100 |
 | stars | 26/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

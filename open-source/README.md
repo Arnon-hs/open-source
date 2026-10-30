@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [chickadee-project/chickadee_studio](./chickadee-project-chickadee-studio.md) | ⭐ 16 | Python | 59/100 |
+| 1 | [chickadee-project/chickadee_studio](./chickadee-project-chickadee-studio.md) | ⭐ 16 | Python | 56/100 |
 | 2 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 53/100 |
 | 3 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 41/100 |
 | 4 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 37/100 |
