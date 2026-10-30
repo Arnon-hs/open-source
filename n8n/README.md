@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [operantsolo-com/n8n-free-workflow-templates](./operantsolo-com-n8n-free-workflow-templates.md) | ⭐ — | JavaScript | 60/100 |
-| 2 | [blucca/n8n-check](./blucca-n8n-check.md) | ⭐ 1 | JavaScript | 58/100 |
+| 1 | [blucca/n8n-check](./blucca-n8n-check.md) | ⭐ 1 | JavaScript | 58/100 |
+| 2 | [operantsolo-com/n8n-free-workflow-templates](./operantsolo-com-n8n-free-workflow-templates.md) | ⭐ — | JavaScript | 57/100 |
 | 3 | [memorysyncio/n8n-nodes-memorysync](./memorysyncio-n8n-nodes-memorysync.md) | ⭐ — | JavaScript | 34/100 |
 | 4 | [muhammad-zulqarnain-awan/n8n-on-vercel](./muhammad-zulqarnain-awan-n8n-on-vercel.md) | ⭐ 2 | JavaScript | 32/100 |
 | 5 | [Pitambarmahato/hardnumbers-experiments](./pitambarmahato-hardnumbers-experiments.md) | ⭐ 1 | Python | 31/100 |
