@@ -1,6 +1,6 @@
 # RobinBeraud/hermes-skills
 
-[![Stars](https://img.shields.io/github/stars/RobinBeraud/hermes-skills?style=flat-square&color=yellow)](https://github.com/RobinBeraud/hermes-skills/stargazers) [![Forks](https://img.shields.io/github/forks/RobinBeraud/hermes-skills?style=flat-square&color=blue)](https://github.com/RobinBeraud/hermes-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/RobinBeraud/hermes-skills?style=flat-square&color=yellow)](https://github.com/RobinBeraud/hermes-skills/stargazers) [![Forks](https://img.shields.io/github/forks/RobinBeraud/hermes-skills?style=flat-square&color=blue)](https://github.com/RobinBeraud/hermes-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source skills library for Hermes Agent (Nous Research): 29 ready-to-use skills, a new one added daily. MIT.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ RobinBeraud/hermes-skills：RobinBeraud/hermes-skills may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 70/100 |
-| outlook | 77/100 |
+| production | 64/100 |
+| outlook | 70/100 |
 | adoption | 18/100 |
 | categoryMatchCount | 400/100 |
 | stars | 22/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

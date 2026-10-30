@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [RobinBeraud/hermes-skills](./robinberaud-hermes-skills.md) | ⭐ 10 | Python | 73/100 |
+| 1 | [RobinBeraud/hermes-skills](./robinberaud-hermes-skills.md) | ⭐ 10 | Python | 70/100 |
 
 ---
 
