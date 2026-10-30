@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [themsquared/filesystem-mcp-env-guard](./themsquared-filesystem-mcp-env-guard.md) | ⭐ — | Python | 55/100 |
+| 1 | [themsquared/filesystem-mcp-env-guard](./themsquared-filesystem-mcp-env-guard.md) | ⭐ — | Python | 52/100 |
 
 ---
 
