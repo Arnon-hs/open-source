@@ -1,6 +1,6 @@
 # SQLazy/tabularium
 
-[![Stars](https://img.shields.io/github/stars/SQLazy/tabularium?style=flat-square&color=yellow)](https://github.com/SQLazy/tabularium/stargazers) [![Forks](https://img.shields.io/github/forks/SQLazy/tabularium?style=flat-square&color=blue)](https://github.com/SQLazy/tabularium/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SQLazy/tabularium?style=flat-square&color=yellow)](https://github.com/SQLazy/tabularium/stargazers) [![Forks](https://img.shields.io/github/forks/SQLazy/tabularium?style=flat-square&color=blue)](https://github.com/SQLazy/tabularium/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Agent memory and a signed spending ledger: pay any x402 API, keep a provable receipt
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ SQLazy/tabularium：SQLazy/tabularium may be useful when its README and activity
 - primary language: JavaScript
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 68/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 900/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
