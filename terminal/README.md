@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [abhishekdpandey18/SoulKing-AI](./abhishekdpandey18-soulking-ai.md) | ⭐ — | Python | 57/100 |
+| 1 | [abhishekdpandey18/SoulKing-AI](./abhishekdpandey18-soulking-ai.md) | ⭐ — | Python | 54/100 |
 | 2 | [GAlmeidaDev/shell-ghost](./galmeidadev-shell-ghost.md) | ⭐ — | Python | 36/100 |
 | 3 | [Tuim-editor/Tuim](./tuim-editor-tuim.md) | ⭐ 4 | Zig | 30/100 |
 | 4 | [willmcgugan/rich](./willmcgugan-rich.md) | ⭐ — | — | 24/100 |
