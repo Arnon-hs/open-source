@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 546 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 498 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 10.9k | C++ | 70/100 |
-| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 70/100 |
-| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 70/100 |
+| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.7k | Shell | 70/100 |
+| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 1.8k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.5k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.2k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -573,8 +573,8 @@
 | 563 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 45/100 |
 | 564 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 462 | — | 45/100 |
 | 565 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 392 | — | 45/100 |
-| 566 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
-| 567 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 566 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 567 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
 | 568 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ — | — | 44/100 |
 | 569 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ — | — | 44/100 |
 | 570 | [aschmelyun/docker-compose-traefik](./aschmelyun-docker-compose-traefik.md) | ⭐ 59 | PHP | 43/100 |
