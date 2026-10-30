@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [facebook/zstd](./facebook-zstd.md) | ⭐ 28.1k | C | 60/100 |
-| 2 | [venturaproject/filers](./venturaproject-filers.md) | ⭐ — | TypeScript | 51/100 |
+| 2 | [venturaproject/filers](./venturaproject-filers.md) | ⭐ — | TypeScript | 48/100 |
 | 3 | [craftowen/krill](./craftowen-krill.md) | ⭐ 2 | Rust | 47/100 |
 | 4 | [Berserk-hub150/CircuitCraft](./berserk-hub150-circuitcraft.md) | ⭐ 6 | Rust | 36/100 |
 | 5 | [thisisamirv/loess-project](./thisisamirv-loess-project.md) | ⭐ 3 | Rust | 32/100 |
