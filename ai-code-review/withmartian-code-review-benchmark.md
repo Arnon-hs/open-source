@@ -1,6 +1,6 @@
 # withmartian/code-review-benchmark
 
-[![Stars](https://img.shields.io/github/stars/withmartian/code-review-benchmark?style=flat-square&color=yellow)](https://github.com/withmartian/code-review-benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/withmartian/code-review-benchmark?style=flat-square&color=blue)](https://github.com/withmartian/code-review-benchmark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/withmartian/code-review-benchmark?style=flat-square&color=yellow)](https://github.com/withmartian/code-review-benchmark/stargazers) [![Forks](https://img.shields.io/github/forks/withmartian/code-review-benchmark?style=flat-square&color=blue)](https://github.com/withmartian/code-review-benchmark/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 282 |
 | 🍴 **Forks** | 58 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-01 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI code review · Claude Code · open-source · noise reduction · benchmark
 
 ### English
 
-withmartian/code-review-benchmark: withmartian/code-review-benchmark may be useful when its README and activity match a concrete workflow.. Use it for AI code review, Claude Code, open-source, noise reduction, benchmark. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+withmartian/code-review-benchmark: withmartian/code-review-benchmark may be useful when its README and activity match a concrete workflow.. Use it for AI code review, Claude Code, open-source, noise reduction, benchmark. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-withmartian/code-review-benchmark: open-source проект в категориях AI code review, Claude Code, open-source, noise reduction, benchmark. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+withmartian/code-review-benchmark: open-source проект в категориях AI code review, Claude Code, open-source, noise reduction, benchmark. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-withmartian/code-review-benchmark：withmartian/code-review-benchmark may be useful when its README and activity match a concrete workflow.。适合用于AI code review、Claude Code、open-source、noise reduction、benchmark。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+withmartian/code-review-benchmark：withmartian/code-review-benchmark may be useful when its README and activity match a concrete workflow.。适合用于AI code review、Claude Code、open-source、noise reduction、benchmark。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ withmartian/code-review-benchmark：withmartian/code-review-benchmark may be use
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -56,22 +56,22 @@ withmartian/code-review-benchmark：withmartian/code-review-benchmark may be use
 - updated 2026-10-01
 - primary language: Python
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 34/100 |
-| production | 51/100 |
-| outlook | 49/100 |
+| production | 44/100 |
+| outlook | 42/100 |
 | adoption | 50/100 |
 | categoryMatchCount | 500/100 |
 | stars | 52/100 |
 | forks | 44/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
