@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Mahesh00234h/nodeshare-ai](./mahesh00234h-nodeshare-ai.md) | ⭐ — | Go | 36/100 |
+| 1 | [Mahesh00234h/nodeshare-ai](./mahesh00234h-nodeshare-ai.md) | ⭐ — | Go | 33/100 |
 
 ---
 
