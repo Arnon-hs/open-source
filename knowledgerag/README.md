@@ -310,8 +310,8 @@
 | 300 | [mingchen666/Reviva](./mingchen666-reviva.md) | ⭐ 39 | JavaScript | 61/100 |
 | 301 | [Anush008/fastembed-rs](./anush008-fastembed-rs.md) | ⭐ 949 | Rust | 61/100 |
 | 302 | [zilliztech/vector-graph-rag](./zilliztech-vector-graph-rag.md) | ⭐ 219 | Python | 61/100 |
-| 303 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 61/100 |
-| 304 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 61/100 |
+| 303 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 61/100 |
+| 304 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 61/100 |
 | 305 | [FutureUniant/WorkShadow](./futureuniant-workshadow.md) | ⭐ 349 | TypeScript | 61/100 |
 | 306 | [abraxas914/VESTI](./abraxas914-vesti.md) | ⭐ 284 | TypeScript | 61/100 |
 | 307 | [lux-db/lux](./lux-db-lux.md) | ⭐ 270 | Rust | 61/100 |
@@ -431,8 +431,8 @@
 | 421 | [Threekiii/Awesome-POC](./threekiii-awesome-poc.md) | ⭐ 5k | Java | 56/100 |
 | 422 | [sysid/bkmr](./sysid-bkmr.md) | ⭐ 251 | Rust | 56/100 |
 | 423 | [jeffreylanters/react-unity-webgl](./jeffreylanters-react-unity-webgl.md) | ⭐ 1.9k | TypeScript | 56/100 |
-| 424 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
-| 425 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
+| 424 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
+| 425 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
 | 426 | [aws-samples/generative-ai-use-cases](./aws-samples-generative-ai-use-cases.md) | ⭐ 1.3k | TypeScript | 56/100 |
 | 427 | [tetherto/qvac](./tetherto-qvac.md) | ⭐ 163 | JavaScript | 56/100 |
 | 428 | [neo4j/neo4j-graphrag-python](./neo4j-neo4j-graphrag-python.md) | ⭐ 1.2k | Python | 56/100 |
@@ -518,8 +518,8 @@
 | 508 | [kc-2705/job-hunt-copilot](./kc-2705-job-hunt-copilot.md) | ⭐ — | JavaScript | 48/100 |
 | 509 | [torrua/loglan-bench](./torrua-loglan-bench.md) | ⭐ — | Python | 48/100 |
 | 510 | [Christopher22/charon](./christopher22-charon.md) | ⭐ — | — | 48/100 |
-| 511 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
-| 512 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 511 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 512 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
 | 513 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
 | 514 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
 | 515 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
