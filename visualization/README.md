@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [smid191394/planisphere](./smid191394-planisphere.md) | ⭐ — | JavaScript | 30/100 |
+| 1 | [smid191394/planisphere](./smid191394-planisphere.md) | ⭐ — | JavaScript | 27/100 |
 
 ---
 
