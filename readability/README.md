@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hahahahahahahahah6/plain-speak](./hahahahahahahahah6-plain-speak.md) | ⭐ — | Python | 33/100 |
+| 1 | [hahahahahahahahah6/plain-speak](./hahahahahahahahah6-plain-speak.md) | ⭐ — | Python | 30/100 |
 
 ---
 

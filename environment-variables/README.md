@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hahahahahahahahah6/dotenv-diff](./hahahahahahahahah6-dotenv-diff.md) | ⭐ — | Python | 33/100 |
+| 1 | [hahahahahahahahah6/dotenv-diff](./hahahahahahahahah6-dotenv-diff.md) | ⭐ — | Python | 30/100 |
 
 ---
 
