@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [widechaos/voicestack-atlas](./widechaos-voicestack-atlas.md) | ⭐ — | HTML | 30/100 |
+| 1 | [widechaos/voicestack-atlas](./widechaos-voicestack-atlas.md) | ⭐ — | HTML | 27/100 |
 
 ---
 

@@ -25,9 +25,9 @@
 | 15 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 33/100 |
 | 16 | [pixelcrisscross/PrivaLedger-AI](./pixelcrisscross-privaledger-ai.md) | ⭐ — | JavaScript | 30/100 |
 | 17 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 30/100 |
-| 18 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 30/100 |
-| 19 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 30/100 |
-| 20 | [edoburu/django-bakery](./edoburu-django-bakery.md) | ⭐ — | — | 27/100 |
+| 18 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 30/100 |
+| 19 | [edoburu/django-bakery](./edoburu-django-bakery.md) | ⭐ — | — | 27/100 |
+| 20 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 27/100 |
 | 21 | [artcraft/effectcraft](./artcraft-effectcraft.md) | ⭐ — | — | 24/100 |
 | 22 | [artcraft/filmcraft](./artcraft-filmcraft.md) | ⭐ — | — | 24/100 |
 | 23 | [artcraft/photocraft](./artcraft-photocraft.md) | ⭐ — | — | 24/100 |
