@@ -25,9 +25,9 @@
 | 15 | [Charlie-ai786/LocalAI-Sidekick](./charlie-ai786-localai-sidekick.md) | ⭐ — | TypeScript | 36/100 |
 | 16 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 34/100 |
 | 17 | [surajns0033-collab/slothshift](./surajns0033-collab-slothshift.md) | ⭐ — | JavaScript | 33/100 |
-| 18 | [Gautam5514/hack_week3](./gautam5514-hack-week3.md) | ⭐ — | JavaScript | 33/100 |
-| 19 | [Nivin-Sithija/ShadeWindow](./nivin-sithija-shadewindow.md) | ⭐ — | CSS | 33/100 |
-| 20 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 33/100 |
+| 18 | [Nivin-Sithija/ShadeWindow](./nivin-sithija-shadewindow.md) | ⭐ — | CSS | 33/100 |
+| 19 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 33/100 |
+| 20 | [Gautam5514/hack_week3](./gautam5514-hack-week3.md) | ⭐ — | JavaScript | 30/100 |
 | 21 | [SaifuddinM23/gardenfix](./saifuddinm23-gardenfix.md) | ⭐ — | JavaScript | 30/100 |
 | 22 | [UniTools/recipes](./unitools-recipes.md) | ⭐ — | — | 28/100 |
 | 23 | [0xShugo/audio.cpp](./0xshugo-audio.cpp.md) | ⭐ — | — | 27/100 |
