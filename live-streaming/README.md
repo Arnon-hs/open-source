@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dszae/sportivo](./dszae-sportivo.md) | ⭐ — | JavaScript | 30/100 |
+| 1 | [dszae/sportivo](./dszae-sportivo.md) | ⭐ — | JavaScript | 27/100 |
 
 ---
 
