@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SoumyaGhosh2006/InkFlow](./soumyaghosh2006-inkflow.md) | ⭐ — | Python | 36/100 |
+| 1 | [SoumyaGhosh2006/InkFlow](./soumyaghosh2006-inkflow.md) | ⭐ — | Python | 33/100 |
 
 ---
 
