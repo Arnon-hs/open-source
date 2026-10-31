@@ -13,10 +13,10 @@
 | 3 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 41/100 |
 | 4 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 37/100 |
 | 5 | [joeylukoji/PanlyackErp](./joeylukoji-panlyackerp.md) | ⭐ — | Python | 36/100 |
-| 6 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 36/100 |
-| 7 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 34/100 |
-| 8 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 33/100 |
-| 9 | [Dev-Suraj-Dhawal/terraforge-studio](./dev-suraj-dhawal-terraforge-studio.md) | ⭐ — | JavaScript | 33/100 |
+| 6 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 34/100 |
+| 7 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 33/100 |
+| 8 | [Dev-Suraj-Dhawal/terraforge-studio](./dev-suraj-dhawal-terraforge-studio.md) | ⭐ — | JavaScript | 33/100 |
+| 9 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 33/100 |
 | 10 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 33/100 |
 | 11 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 33/100 |
 | 12 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 33/100 |
