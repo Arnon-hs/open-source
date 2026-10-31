@@ -1,6 +1,6 @@
 # yashselokar2025/Hacktoberfest-CommitShield
 
-[![Stars](https://img.shields.io/github/stars/yashselokar2025/Hacktoberfest-CommitShield?style=flat-square&color=yellow)](https://github.com/yashselokar2025/Hacktoberfest-CommitShield/stargazers) [![Forks](https://img.shields.io/github/forks/yashselokar2025/Hacktoberfest-CommitShield?style=flat-square&color=blue)](https://github.com/yashselokar2025/Hacktoberfest-CommitShield/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yashselokar2025/Hacktoberfest-CommitShield?style=flat-square&color=yellow)](https://github.com/yashselokar2025/Hacktoberfest-CommitShield/stargazers) [![Forks](https://img.shields.io/github/forks/yashselokar2025/Hacktoberfest-CommitShield?style=flat-square&color=blue)](https://github.com/yashselokar2025/Hacktoberfest-CommitShield/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ yashselokar2025/Hacktoberfest-CommitShield：yashselokar2025/Hacktoberfest-Commi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 33/100 |
+| quality | 28/100 |
 | integration | 34/100 |
-| production | 50/100 |
-| outlook | 45/100 |
+| production | 43/100 |
+| outlook | 38/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

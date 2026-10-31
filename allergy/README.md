@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Diptanil-Sen/safeplate](./diptanil-sen-safeplate.md) | ⭐ — | HTML | 33/100 |
+| 1 | [Diptanil-Sen/safeplate](./diptanil-sen-safeplate.md) | ⭐ — | HTML | 30/100 |
 
 ---
 
