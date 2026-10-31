@@ -17,13 +17,13 @@
 | 7 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 34/100 |
 | 8 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 33/100 |
 | 9 | [Dev-Suraj-Dhawal/terraforge-studio](./dev-suraj-dhawal-terraforge-studio.md) | ⭐ — | JavaScript | 33/100 |
-| 10 | [pixelcrisscross/PrivaLedger-AI](./pixelcrisscross-privaledger-ai.md) | ⭐ — | JavaScript | 33/100 |
-| 11 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 33/100 |
-| 12 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 33/100 |
-| 13 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 33/100 |
-| 14 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 33/100 |
-| 15 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 33/100 |
-| 16 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 33/100 |
+| 10 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 33/100 |
+| 11 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 33/100 |
+| 12 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 33/100 |
+| 13 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 33/100 |
+| 14 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 33/100 |
+| 15 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 33/100 |
+| 16 | [pixelcrisscross/PrivaLedger-AI](./pixelcrisscross-privaledger-ai.md) | ⭐ — | JavaScript | 30/100 |
 | 17 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 30/100 |
 | 18 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 30/100 |
 | 19 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 30/100 |
