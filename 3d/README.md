@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Ayushgupta1715/sanity-museum](./ayushgupta1715-sanity-museum.md) | ⭐ — | TypeScript | 33/100 |
+| 1 | [Ayushgupta1715/sanity-museum](./ayushgupta1715-sanity-museum.md) | ⭐ — | TypeScript | 30/100 |
 
 ---
 
