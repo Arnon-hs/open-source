@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-automation · AI · video · instagram · shorts · learning-loop
+Automation · Database
 
 ## 📝 Summary
 
 ### English
 
-citusdata/pg_cron: citusdata/pg_cron may be useful when its README and activity match a concrete workflow.. Use it for automation, AI, video, instagram, shorts, learning-loop. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+citusdata/pg_cron: citusdata/pg_cron helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-citusdata/pg_cron: open-source проект в категориях automation, AI, video, instagram, shorts, learning-loop. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+citusdata/pg_cron: open-source проект в категориях Automation, Database. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-citusdata/pg_cron：citusdata/pg_cron may be useful when its README and activity match a concrete workflow.。适合用于automation、AI、video、instagram、shorts、learning-loop。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+citusdata/pg_cron：citusdata/pg_cron helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** citusdata/pg_cron may be useful when its README and activity match a concrete workflow.
+**Value:** citusdata/pg_cron helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -63,18 +65,18 @@ citusdata/pg_cron：citusdata/pg_cron may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 70/100 |
-| integration | 30/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 72/100 |
-| categoryMatchCount | 600/100 |
-| stars | 76/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| stars | 76/100 |
 | topics | 50/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
+| adoption | 72/100 |
+| production | 63/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
