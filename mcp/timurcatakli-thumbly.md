@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP · iOS · AI agent · device control · open-source
+MCP · Automation · AI/ML · Backend · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ timurcatakli/thumbly: timurcatakli/thumbly helps connect AI assistants to real t
 
 ### Русский
 
-timurcatakli/thumbly: open-source проект в категориях MCP, iOS, AI agent, device control, open-source. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+timurcatakli/thumbly: open-source проект в категориях MCP, Automation, AI/ML, Backend, Mobile. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,18 +64,18 @@ timurcatakli/thumbly：timurcatakli/thumbly helps connect AI assistants to real 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 48/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 64/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 500/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 48/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 59/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

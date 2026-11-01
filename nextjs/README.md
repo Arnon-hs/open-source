@@ -2,15 +2,14 @@
 
 > 
 
-**3 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fabwaseem/forgekit](./fabwaseem-forgekit.md) | ⭐ — | TypeScript | 68/100 |
-| 2 | [pratikdevelop/multi-agent-research-analyst](./pratikdevelop-multi-agent-research-analyst.md) | ⭐ 1 | TypeScript | 36/100 |
-| 3 | [apps/nextperf](./apps-nextperf.md) | ⭐ — | — | 24/100 |
+| 1 | [pratikdevelop/multi-agent-research-analyst](./pratikdevelop-multi-agent-research-analyst.md) | ⭐ 1 | TypeScript | 36/100 |
+| 2 | [apps/nextperf](./apps-nextperf.md) | ⭐ — | — | 24/100 |
 
 ---
 

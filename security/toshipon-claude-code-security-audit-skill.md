@@ -21,29 +21,31 @@ _no topics_
 
 ## 🎯 Categories
 
-security · audit · automation · Claude Code · AI coding · full-stack
+Security
 
 ## 📝 Summary
 
 ### English
 
-toshipon/claude-code-security-audit-skill: toshipon/claude-code-security-audit-skill may be useful when its README and activity match a concrete workflow.. Use it for security, audit, automation, Claude Code, AI coding, full-stack. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+toshipon/claude-code-security-audit-skill: toshipon/claude-code-security-audit-skill helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-toshipon/claude-code-security-audit-skill: open-source проект в категориях security, audit, automation, Claude Code, AI coding, full-stack. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+toshipon/claude-code-security-audit-skill: open-source проект в категориях Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-toshipon/claude-code-security-audit-skill：toshipon/claude-code-security-audit-skill may be useful when its README and activity match a concrete workflow.。适合用于security、audit、automation、Claude Code、AI coding、full-stack。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+toshipon/claude-code-security-audit-skill：toshipon/claude-code-security-audit-skill helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** toshipon/claude-code-security-audit-skill may be useful when its README and activity match a concrete workflow.
+**Value:** toshipon/claude-code-security-audit-skill helps catch security and privacy issues earlier in the workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -62,18 +64,18 @@ toshipon/claude-code-security-audit-skill：toshipon/claude-code-security-audit-
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 39/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 48/100 |
-| adoption | 19/100 |
-| categoryMatchCount | 600/100 |
-| stars | 21/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| stars | 21/100 |
 | topics | 0/100 |
+| outlook | 48/100 |
+| quality | 39/100 |
+| recency | 80/100 |
+| adoption | 19/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
