@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jnreis/briojs](./jnreis-briojs.md) | ⭐ 3 | JavaScript | 54/100 |
+| 1 | [jnreis/briojs](./jnreis-briojs.md) | ⭐ 3 | JavaScript | 51/100 |
 
 ---
 

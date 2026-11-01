@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43684** |
-| **Categories** | **588** |
+| **Projects** | **43701** |
+| **Categories** | **593** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17565 | [Browse →](./misc/) |
+| 📦 **Misc** | 17568 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4641 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2903 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2415 | [Browse →](./orchestration/) |
@@ -53,26 +53,26 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 187 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 143 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 137 | [Browse →](./ai/) |
-| 🏷️ **Open-source** | 42 | [Browse →](./open-source/) |
+| 🏷️ **Ai** | 139 | [Browse →](./ai/) |
+| 🏷️ **Open-source** | 43 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 41 | [Browse →](./ai-agents/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
+| 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 26 | [Browse →](./privacy/) |
-| 🏷️ **Local-ai** | 26 | [Browse →](./local-ai/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 21 | [Browse →](./llm/) |
-| 🏷️ **Local-llm** | 17 | [Browse →](./local-llm/) |
+| 🏷️ **Local-llm** | 18 | [Browse →](./local-llm/) |
 | 🏷️ **Rust** | 14 | [Browse →](./rust/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Android** | 12 | [Browse →](./android/) |
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
+| 🏷️ **Self-hosted** | 8 | [Browse →](./self-hosted/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
-| 🏷️ **Self-hosted** | 7 | [Browse →](./self-hosted/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Aws** | 6 | [Browse →](./aws/) |
@@ -84,6 +84,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
+| 🏷️ **Cli** | 5 | [Browse →](./cli/) |
 | 🏷️ **Ios** | 5 | [Browse →](./ios/) |
 | 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
@@ -121,7 +122,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Asr** | 3 | [Browse →](./asr/) |
 | 🏷️ **Api** | 3 | [Browse →](./api/) |
 | 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
-| 🏷️ **Cli** | 3 | [Browse →](./cli/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
@@ -211,6 +211,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agent-orchestrator** | 1 | [Browse →](./agent-orchestrator/) |
+| 🏷️ **Dead-code** | 1 | [Browse →](./dead-code/) |
+| 🏷️ **Data-warehousing** | 1 | [Browse →](./data-warehousing/) |
+| 🏷️ **Crossref** | 1 | [Browse →](./crossref/) |
+| 🏷️ **Web-streaming** | 1 | [Browse →](./web-streaming/) |
 | 🏷️ **Microgrid** | 1 | [Browse →](./microgrid/) |
 | 🏷️ **Gis** | 1 | [Browse →](./gis/) |
 | 🏷️ **Llm-cost** | 1 | [Browse →](./llm-cost/) |
