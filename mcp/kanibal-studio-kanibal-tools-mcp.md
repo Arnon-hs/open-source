@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · Python · Compliance · GDPR · Telemarketing · LeadCost · Automation
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ kanibal-studio/kanibal-tools-mcp: kanibal-studio/kanibal-tools-mcp helps connect
 
 ### Русский
 
-kanibal-studio/kanibal-tools-mcp: open-source проект в категориях MCP, Python, Compliance, GDPR, Telemarketing, LeadCost, Automation. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+kanibal-studio/kanibal-tools-mcp: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,18 +62,18 @@ kanibal-studio/kanibal-tools-mcp：kanibal-studio/kanibal-tools-mcp helps connec
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 31/100 |
-| integration | 62/100 |
-| production | 53/100 |
-| outlook | 50/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 700/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 0/100 |
+| outlook | 50/100 |
+| quality | 31/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

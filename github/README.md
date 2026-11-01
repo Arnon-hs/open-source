@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [VanshajPoonia/already-filed](./vanshajpoonia-already-filed.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [tauri-apps/resvg](./tauri-apps-resvg.md) | ⭐ — | — | 24/100 |
 
 ---
 

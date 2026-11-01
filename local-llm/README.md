@@ -15,8 +15,8 @@
 | 5 | [Abishethvarman/CiteWise](./abishethvarman-citewise.md) | ⭐ — | Python | 33/100 |
 | 6 | [Karishma-Das/porchlight](./karishma-das-porchlight.md) | ⭐ — | Python | 33/100 |
 | 7 | [sleepyaishik69/ChromaWild](./sleepyaishik69-chromawild.md) | ⭐ — | TypeScript | 33/100 |
-| 8 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 33/100 |
-| 9 | [maxbachmann/rapidfuzz](./maxbachmann-rapidfuzz.md) | ⭐ — | — | 32/100 |
+| 8 | [maxbachmann/rapidfuzz](./maxbachmann-rapidfuzz.md) | ⭐ — | — | 32/100 |
+| 9 | [fengyuGbt/finance-friend](./fengyugbt-finance-friend.md) | ⭐ — | Python | 30/100 |
 | 10 | [block/goose](./block-goose.md) | ⭐ — | — | 27/100 |
 | 11 | [google/ai-demos](./google-ai-demos.md) | ⭐ — | — | 27/100 |
 | 12 | [jerryjliu/llama_index](./jerryjliu-llama-index.md) | ⭐ — | — | 24/100 |

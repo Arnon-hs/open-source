@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Martin-EG/pkm-tcg-card-scanner](./martin-eg-pkm-tcg-card-scanner.md) | ⭐ — | Python | 36/100 |
+| 1 | [Martin-EG/pkm-tcg-card-scanner](./martin-eg-pkm-tcg-card-scanner.md) | ⭐ — | Python | 33/100 |
 
 ---
 
