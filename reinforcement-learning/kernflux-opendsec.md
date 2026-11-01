@@ -1,6 +1,6 @@
 # Kernflux/opendsec
 
-[![Stars](https://img.shields.io/github/stars/Kernflux/opendsec?style=flat-square&color=yellow)](https://github.com/Kernflux/opendsec/stargazers) [![Forks](https://img.shields.io/github/forks/Kernflux/opendsec?style=flat-square&color=blue)](https://github.com/Kernflux/opendsec/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kernflux/opendsec?style=flat-square&color=yellow)](https://github.com/Kernflux/opendsec/stargazers) [![Forks](https://img.shields.io/github/forks/Kernflux/opendsec?style=flat-square&color=blue)](https://github.com/Kernflux/opendsec/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hosted sandboxes for RL rollouts and AI agents: Firecracker microVMs, containers and QEMU VMs, fork and pause with memory, E2B-compatible API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-29 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Kernflux/opendsec：Kernflux/opendsec may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 62/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 55/100 |
+| outlook | 55/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 800/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

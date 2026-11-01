@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Kernflux/opendsec](./kernflux-opendsec.md) | ⭐ 3 | Go | 60/100 |
+| 1 | [Kernflux/opendsec](./kernflux-opendsec.md) | ⭐ 3 | Go | 57/100 |
 
 ---
 
