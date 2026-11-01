@@ -2,7 +2,7 @@
 
 > 
 
-**36 projects** in this category.
+**37 projects** in this category.
 
 ## Projects
 
@@ -32,18 +32,19 @@
 | 22 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 30/100 |
 | 23 | [edoburu/django-bakery](./edoburu-django-bakery.md) | ⭐ — | — | 27/100 |
 | 24 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 27/100 |
-| 25 | [artcraft/effectcraft](./artcraft-effectcraft.md) | ⭐ — | — | 24/100 |
-| 26 | [artcraft/filmcraft](./artcraft-filmcraft.md) | ⭐ — | — | 24/100 |
-| 27 | [artcraft/photocraft](./artcraft-photocraft.md) | ⭐ — | — | 24/100 |
-| 28 | [awesome-llm/awesome-local-llm](./awesome-llm-awesome-local-llm.md) | ⭐ — | — | 24/100 |
-| 29 | [awesome-llm/awesome-generative-ai](./awesome-llm-awesome-generative-ai.md) | ⭐ — | — | 24/100 |
-| 30 | [awesome-ml/awesome-machine-learning](./awesome-ml-awesome-machine-learning.md) | ⭐ — | — | 24/100 |
-| 31 | [awesome-llm/awesome-llm](./awesome-llm-awesome-llm.md) | ⭐ — | — | 24/100 |
-| 32 | [harness-community/harness-score](./harness-community-harness-score.md) | ⭐ — | — | 24/100 |
-| 33 | [meta-llama/Meta-Llama-3.1](./meta-llama-meta-llama-3.1.md) | ⭐ — | — | 24/100 |
-| 34 | [features/codespaces](./features-codespaces.md) | ⭐ — | — | 24/100 |
-| 35 | [owner/repo](./owner-repo.md) | ⭐ — | — | 24/100 |
-| 36 | [openclaw-ai/openclaw](./openclaw-ai-openclaw.md) | ⭐ — | — | 24/100 |
+| 25 | [microsoft/onnxruntime-qnn](./microsoft-onnxruntime-qnn.md) | ⭐ — | — | 24/100 |
+| 26 | [artcraft/effectcraft](./artcraft-effectcraft.md) | ⭐ — | — | 24/100 |
+| 27 | [artcraft/filmcraft](./artcraft-filmcraft.md) | ⭐ — | — | 24/100 |
+| 28 | [artcraft/photocraft](./artcraft-photocraft.md) | ⭐ — | — | 24/100 |
+| 29 | [awesome-llm/awesome-local-llm](./awesome-llm-awesome-local-llm.md) | ⭐ — | — | 24/100 |
+| 30 | [awesome-llm/awesome-generative-ai](./awesome-llm-awesome-generative-ai.md) | ⭐ — | — | 24/100 |
+| 31 | [awesome-ml/awesome-machine-learning](./awesome-ml-awesome-machine-learning.md) | ⭐ — | — | 24/100 |
+| 32 | [awesome-llm/awesome-llm](./awesome-llm-awesome-llm.md) | ⭐ — | — | 24/100 |
+| 33 | [harness-community/harness-score](./harness-community-harness-score.md) | ⭐ — | — | 24/100 |
+| 34 | [meta-llama/Meta-Llama-3.1](./meta-llama-meta-llama-3.1.md) | ⭐ — | — | 24/100 |
+| 35 | [features/codespaces](./features-codespaces.md) | ⭐ — | — | 24/100 |
+| 36 | [owner/repo](./owner-repo.md) | ⭐ — | — | 24/100 |
+| 37 | [openclaw-ai/openclaw](./openclaw-ai-openclaw.md) | ⭐ — | — | 24/100 |
 
 ---
 

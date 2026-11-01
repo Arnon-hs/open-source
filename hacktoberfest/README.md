@@ -2,14 +2,15 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [CodewithTanzeel/touch-grasschallenge-miso](./codewithtanzeel-touch-grasschallenge-miso.md) | ⭐ — | Python | 33/100 |
-| 2 | [KrishnaGaur12/HFDEV1](./krishnagaur12-hfdev1.md) | ⭐ — | JavaScript | 30/100 |
+| 1 | [aditisingh495/GhostNote-AI](./aditisingh495-ghostnote-ai.md) | ⭐ — | JavaScript | 39/100 |
+| 2 | [CodewithTanzeel/touch-grasschallenge-miso](./codewithtanzeel-touch-grasschallenge-miso.md) | ⭐ — | Python | 33/100 |
+| 3 | [KrishnaGaur12/HFDEV1](./krishnagaur12-hfdev1.md) | ⭐ — | JavaScript | 30/100 |
 
 ---
 
