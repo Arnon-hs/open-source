@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43585** |
-| **Categories** | **561** |
+| **Projects** | **43597** |
+| **Categories** | **566** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17547 | [Browse →](./misc/) |
+| 📦 **Misc** | 17551 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4640 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2902 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2415 | [Browse →](./orchestration/) |
@@ -74,6 +74,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosted** | 7 | [Browse →](./self-hosted/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
+| 🏷️ **Windows** | 6 | [Browse →](./windows/) |
+| 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Terminal** | 6 | [Browse →](./terminal/) |
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **N8n** | 6 | [Browse →](./n8n/) |
@@ -83,10 +85,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
 | 🏷️ **Offline-ai** | 5 | [Browse →](./offline-ai/) |
 | 🏷️ **Wordpress** | 5 | [Browse →](./wordpress/) |
-| 🏷️ **Python** | 5 | [Browse →](./python/) |
-| 🏷️ **Windows** | 5 | [Browse →](./windows/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Serverless** | 4 | [Browse →](./serverless/) |
 | 🏷️ **Agent** | 4 | [Browse →](./agent/) |
 | 🏷️ **Linux** | 4 | [Browse →](./linux/) |
 | 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
@@ -111,7 +112,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Desktop-automation** | 3 | [Browse →](./desktop-automation/) |
 | 🏷️ **Ai-video-production** | 3 | [Browse →](./ai-video-production/) |
 | 🏷️ **Webview** | 3 | [Browse →](./webview/) |
-| 🏷️ **Serverless** | 3 | [Browse →](./serverless/) |
 | 🏷️ **Claude** | 3 | [Browse →](./claude/) |
 | 🏷️ **Secret-scanning** | 3 | [Browse →](./secret-scanning/) |
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
@@ -207,6 +207,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Permissions** | 1 | [Browse →](./permissions/) |
+| 🏷️ **Capability-based-security** | 1 | [Browse →](./capability-based-security/) |
+| 🏷️ **Simulation** | 1 | [Browse →](./simulation/) |
+| 🏷️ **Barcode** | 1 | [Browse →](./barcode/) |
+| 🏷️ **Typescript** | 1 | [Browse →](./typescript/) |
 | 🏷️ **Freecad** | 1 | [Browse →](./freecad/) |
 | 🏷️ **Cross-domain** | 1 | [Browse →](./cross-domain/) |
 | 🏷️ **Downloader** | 1 | [Browse →](./downloader/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ankhitlab/columna](./ankhitlab-columna.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [paladini/OpenFold](./paladini-openfold.md) | ⭐ — | TypeScript | 30/100 |
 
 ---
 

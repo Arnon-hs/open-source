@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 40/100 |
-| 2 | [Bharatefb/Ghost-Byte-AI](./bharatefb-ghost-byte-ai.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [Bharatefb/Ghost-Byte-AI](./bharatefb-ghost-byte-ai.md) | ⭐ — | JavaScript | 39/100 |
+| 2 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 37/100 |
 | 3 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 37/100 |
 | 4 | [yagnik-satani-otelier/echolantern-ai](./yagnik-satani-otelier-echolantern-ai.md) | ⭐ — | JavaScript | 36/100 |
 | 5 | [Ani0811/slothdesk](./ani0811-slothdesk.md) | ⭐ — | Python | 36/100 |
