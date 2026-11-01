@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43401** |
-| **Categories** | **525** |
+| **Projects** | **43404** |
+| **Categories** | **526** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -95,6 +95,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **File-management** | 3 | [Browse →](./file-management/) |
 | 🏷️ **Wordpress** | 3 | [Browse →](./wordpress/) |
 | 🏷️ **Serverless** | 3 | [Browse →](./serverless/) |
 | 🏷️ **Claude** | 3 | [Browse →](./claude/) |
@@ -124,6 +125,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Oracle** | 2 | [Browse →](./oracle/) |
 | 🏷️ **Scraping** | 2 | [Browse →](./scraping/) |
 | 🏷️ **Audio-processing** | 2 | [Browse →](./audio-processing/) |
 | 🏷️ **Ghost-hunting** | 2 | [Browse →](./ghost-hunting/) |
@@ -140,7 +142,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Invoice-processing** | 2 | [Browse →](./invoice-processing/) |
 | 🏷️ **Laravel** | 2 | [Browse →](./laravel/) |
 | 🏷️ **Ocr** | 2 | [Browse →](./ocr/) |
-| 🏷️ **File-management** | 2 | [Browse →](./file-management/) |
 | 🏷️ **Testing** | 2 | [Browse →](./testing/) |
 | 🏷️ **Fileorganizer** | 2 | [Browse →](./fileorganizer/) |
 | 🏷️ **Rag** | 2 | [Browse →](./rag/) |
@@ -199,6 +200,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Java** | 1 | [Browse →](./java/) |
 | 🏷️ **Webcam** | 1 | [Browse →](./webcam/) |
 | 🏷️ **Ai-trading** | 1 | [Browse →](./ai-trading/) |
 | 🏷️ **Urban-logistics** | 1 | [Browse →](./urban-logistics/) |
@@ -246,7 +248,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Comfyui** | 1 | [Browse →](./comfyui/) |
 | 🏷️ **Android-auto** | 1 | [Browse →](./android-auto/) |
 | 🏷️ **Godot** | 1 | [Browse →](./godot/) |
-| 🏷️ **Oracle** | 1 | [Browse →](./oracle/) |
 | 🏷️ **Website-research** | 1 | [Browse →](./website-research/) |
 | 🏷️ **Opentelemetry** | 1 | [Browse →](./opentelemetry/) |
 | 🏷️ **Helm** | 1 | [Browse →](./helm/) |

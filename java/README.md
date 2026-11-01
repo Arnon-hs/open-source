@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [clementezeusgabriel01-iswrtg/NIO-Pulse](./clementezeusgabriel01-iswrtg-nio-pulse.md) | ⭐ 1 | Java | 41/100 |
+| 1 | [MathFe/exorcist](./mathfe-exorcist.md) | ⭐ — | Java | 46/100 |
 
 ---
 
