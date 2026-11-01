@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Bytewave1/dkit](./bytewave1-dkit.md) | ⭐ — | Python | 63/100 |
+| 1 | [callmegautam/discord-mcp](./callmegautam-discord-mcp.md) | ⭐ — | TypeScript | 58/100 |
 
 ---
 

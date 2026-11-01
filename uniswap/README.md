@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Uniswap/hooklist](./uniswap-hooklist.md) | ⭐ 26 | Python | 49/100 |
+| 1 | [Uniswap/hooklist](./uniswap-hooklist.md) | ⭐ 26 | Python | 46/100 |
 
 ---
 

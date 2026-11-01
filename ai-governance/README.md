@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yourrepo/pull](./yourrepo-pull.md) | ⭐ — | — | 24/100 |
+| 1 | [asadani/decision-firewall](./asadani-decision-firewall.md) | ⭐ — | Python | 36/100 |
+| 2 | [yourrepo/pull](./yourrepo-pull.md) | ⭐ — | — | 24/100 |
 
 ---
 

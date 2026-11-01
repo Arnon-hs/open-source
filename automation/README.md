@@ -2,7 +2,7 @@
 
 > 
 
-**1498 projects** in this category.
+**1499 projects** in this category.
 
 ## Projects
 
@@ -569,8 +569,8 @@
 | 559 | [cline/cline](./cline-cline.md) | ⭐ 61.5k | TypeScript | 66/100 |
 | 560 | [outcrawlai/scout](./outcrawlai-scout.md) | ⭐ 939 | TypeScript | 65/100 |
 | 561 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.1k | AutoHotkey | 65/100 |
-| 562 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
-| 563 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 562 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 563 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
 | 564 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 565 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 46 | TypeScript | 65/100 |
 | 566 | [askbudi/juno-code](./askbudi-juno-code.md) | ⭐ 55 | TypeScript | 65/100 |
@@ -1496,16 +1496,17 @@
 | 1486 | [strands-ai/agents](./strands-ai-agents.md) | ⭐ — | — | 28/100 |
 | 1487 | [openai/agents](./openai-agents.md) | ⭐ — | — | 28/100 |
 | 1488 | [kresohr/youtube-summary](./kresohr-youtube-summary.md) | ⭐ — | TypeScript | 27/100 |
-| 1489 | [Prior-Labs/tabpfn](./prior-labs-tabpfn.md) | ⭐ — | — | 24/100 |
-| 1490 | [huggingface/unsloth](./huggingface-unsloth.md) | ⭐ — | — | 24/100 |
-| 1491 | [thinkingmachines/tinker](./thinkingmachines-tinker.md) | ⭐ — | — | 24/100 |
-| 1492 | [sharkwani/opencode](./sharkwani-opencode.md) | ⭐ — | — | 24/100 |
-| 1493 | [sharkwani/instinct](./sharkwani-instinct.md) | ⭐ — | — | 24/100 |
-| 1494 | [simple_memo/autopilot](./simple-memo-autopilot.md) | ⭐ — | — | 24/100 |
-| 1495 | [realiti4/agy](./realiti4-agy.md) | ⭐ — | — | 24/100 |
-| 1496 | [indutny/tldts](./indutny-tldts.md) | ⭐ — | — | 24/100 |
-| 1497 | [Raknaos/lightpanda](./raknaos-lightpanda.md) | ⭐ — | — | 24/100 |
-| 1498 | [oroborolabs/publisher](./oroborolabs-publisher.md) | ⭐ — | — | 24/100 |
+| 1489 | [yourrepo/styx](./yourrepo-styx.md) | ⭐ — | — | 24/100 |
+| 1490 | [Prior-Labs/tabpfn](./prior-labs-tabpfn.md) | ⭐ — | — | 24/100 |
+| 1491 | [huggingface/unsloth](./huggingface-unsloth.md) | ⭐ — | — | 24/100 |
+| 1492 | [thinkingmachines/tinker](./thinkingmachines-tinker.md) | ⭐ — | — | 24/100 |
+| 1493 | [sharkwani/opencode](./sharkwani-opencode.md) | ⭐ — | — | 24/100 |
+| 1494 | [sharkwani/instinct](./sharkwani-instinct.md) | ⭐ — | — | 24/100 |
+| 1495 | [simple_memo/autopilot](./simple-memo-autopilot.md) | ⭐ — | — | 24/100 |
+| 1496 | [realiti4/agy](./realiti4-agy.md) | ⭐ — | — | 24/100 |
+| 1497 | [indutny/tldts](./indutny-tldts.md) | ⭐ — | — | 24/100 |
+| 1498 | [Raknaos/lightpanda](./raknaos-lightpanda.md) | ⭐ — | — | 24/100 |
+| 1499 | [oroborolabs/publisher](./oroborolabs-publisher.md) | ⭐ — | — | 24/100 |
 
 ---
 
