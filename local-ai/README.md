@@ -19,9 +19,9 @@
 | 9 | [Imbiber/sloth-sort](./imbiber-sloth-sort.md) | ⭐ — | TypeScript | 36/100 |
 | 10 | [rishabh-hasija/stockentry-guard](./rishabh-hasija-stockentry-guard.md) | ⭐ — | Python | 36/100 |
 | 11 | [ishavishwakarma29/WalkguideStudio](./ishavishwakarma29-walkguidestudio.md) | ⭐ — | Python | 36/100 |
-| 12 | [Charlie-ai786/LocalAI-Sidekick](./charlie-ai786-localai-sidekick.md) | ⭐ — | TypeScript | 36/100 |
-| 13 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 34/100 |
-| 14 | [surajns0033-collab/slothshift](./surajns0033-collab-slothshift.md) | ⭐ — | JavaScript | 33/100 |
+| 12 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 34/100 |
+| 13 | [surajns0033-collab/slothshift](./surajns0033-collab-slothshift.md) | ⭐ — | JavaScript | 33/100 |
+| 14 | [Charlie-ai786/LocalAI-Sidekick](./charlie-ai786-localai-sidekick.md) | ⭐ — | TypeScript | 33/100 |
 | 15 | [Nivin-Sithija/ShadeWindow](./nivin-sithija-shadewindow.md) | ⭐ — | CSS | 33/100 |
 | 16 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 33/100 |
 | 17 | [Gautam5514/hack_week3](./gautam5514-hack-week3.md) | ⭐ — | JavaScript | 30/100 |

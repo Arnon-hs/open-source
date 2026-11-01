@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43524** |
+| **Projects** | **43530** |
 | **Categories** | **552** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17529 | [Browse →](./misc/) |
+| 📦 **Misc** | 17530 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4637 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2902 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2414 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2415 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1608 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1493 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1495 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 903 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 814 | [Browse →](./crypto/) |
@@ -42,7 +42,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 527 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 481 | [Browse →](./templates/) |
 | 🔐 **Security** | 459 | [Browse →](./security/) |
-| 🏷️ **Communication** | 454 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 456 | [Browse →](./communication/) |
 | 💳 **Payments** | 374 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 348 | [Browse →](./games--graphics/) |
 | 📊 **Data** | 345 | [Browse →](./data/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 187 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 141 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 124 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 123 | [Browse →](./ai/) |
 | 🏷️ **Ai-agents** | 38 | [Browse →](./ai-agents/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Open-source** | 36 | [Browse →](./open-source/) |
@@ -85,6 +85,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Aws** | 5 | [Browse →](./aws/) |
+| 🏷️ **Browser-automation** | 4 | [Browse →](./browser-automation/) |
 | 🏷️ **Linux** | 4 | [Browse →](./linux/) |
 | 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
 | 🏷️ **Wordpress** | 4 | [Browse →](./wordpress/) |
@@ -116,7 +117,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Api** | 3 | [Browse →](./api/) |
 | 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
 | 🏷️ **Ios** | 3 | [Browse →](./ios/) |
-| 🏷️ **Browser-automation** | 3 | [Browse →](./browser-automation/) |
 | 🏷️ **Cli** | 3 | [Browse →](./cli/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
@@ -203,6 +203,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Npm** | 2 | [Browse →](./npm/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Model-retirement** | 1 | [Browse →](./model-retirement/) |
 | 🏷️ **Evoting** | 1 | [Browse →](./evoting/) |
 | 🏷️ **Vision** | 1 | [Browse →](./vision/) |
 | 🏷️ **Quantization** | 1 | [Browse →](./quantization/) |
@@ -281,7 +282,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Electron** | 1 | [Browse →](./electron/) |
 | 🏷️ **Mixture-of-experts** | 1 | [Browse →](./mixture-of-experts/) |
 | 🏷️ **Samsung** | 1 | [Browse →](./samsung/) |
-| 🏷️ **Openagentforum** | 1 | [Browse →](./openagentforum/) |
 | 🏷️ **Newsletter** | 1 | [Browse →](./newsletter/) |
 | 🏷️ **Youtube** | 1 | [Browse →](./youtube/) |
 | 🏷️ **Android-auto** | 1 | [Browse →](./android-auto/) |
