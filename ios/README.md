@@ -2,15 +2,17 @@
 
 > 
 
-**3 projects** in this category.
+**5 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MystenLabs/MemWal](./mystenlabs-memwal.md) | ⭐ 113 | TypeScript | 40/100 |
-| 2 | [hxzy69/iphone-ipa-manager](./hxzy69-iphone-ipa-manager.md) | ⭐ — | Python | 39/100 |
-| 3 | [aadhyaguptacol-debug/friend-ai-ios](./aadhyaguptacol-debug-friend-ai-ios.md) | ⭐ — | Makefile | 30/100 |
+| 1 | [VadimToptunov/ChaosBank-iOS](./vadimtoptunov-chaosbank-ios.md) | ⭐ — | Swift | 48/100 |
+| 2 | [VadimToptunov/KassiOS](./vadimtoptunov-kassios.md) | ⭐ — | Swift | 45/100 |
+| 3 | [MystenLabs/MemWal](./mystenlabs-memwal.md) | ⭐ 113 | TypeScript | 40/100 |
+| 4 | [hxzy69/iphone-ipa-manager](./hxzy69-iphone-ipa-manager.md) | ⭐ — | Python | 39/100 |
+| 5 | [aadhyaguptacol-debug/friend-ai-ios](./aadhyaguptacol-debug-friend-ai-ios.md) | ⭐ — | Makefile | 30/100 |
 
 ---
 
