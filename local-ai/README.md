@@ -21,10 +21,10 @@
 | 11 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 36/100 |
 | 12 | [itsnazaretdev/sleepy-coder](./itsnazaretdev-sleepy-coder.md) | ⭐ — | TypeScript | 36/100 |
 | 13 | [Imbiber/sloth-sort](./imbiber-sloth-sort.md) | ⭐ — | TypeScript | 36/100 |
-| 14 | [rishabh-hasija/stockentry-guard](./rishabh-hasija-stockentry-guard.md) | ⭐ — | Python | 36/100 |
-| 15 | [ishavishwakarma29/WalkguideStudio](./ishavishwakarma29-walkguidestudio.md) | ⭐ — | Python | 36/100 |
-| 16 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 34/100 |
-| 17 | [surajns0033-collab/slothshift](./surajns0033-collab-slothshift.md) | ⭐ — | JavaScript | 33/100 |
+| 14 | [ishavishwakarma29/WalkguideStudio](./ishavishwakarma29-walkguidestudio.md) | ⭐ — | Python | 36/100 |
+| 15 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 34/100 |
+| 16 | [surajns0033-collab/slothshift](./surajns0033-collab-slothshift.md) | ⭐ — | JavaScript | 33/100 |
+| 17 | [rishabh-hasija/stockentry-guard](./rishabh-hasija-stockentry-guard.md) | ⭐ — | Python | 33/100 |
 | 18 | [Charlie-ai786/LocalAI-Sidekick](./charlie-ai786-localai-sidekick.md) | ⭐ — | TypeScript | 33/100 |
 | 19 | [Nivin-Sithija/ShadeWindow](./nivin-sithija-shadewindow.md) | ⭐ — | CSS | 33/100 |
 | 20 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 33/100 |

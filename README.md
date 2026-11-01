@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43725** |
+| **Projects** | **43729** |
 | **Categories** | **594** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17575 | [Browse →](./misc/) |
+| 📦 **Misc** | 17577 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4641 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2904 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2415 | [Browse →](./orchestration/) |
@@ -70,7 +70,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Android** | 12 | [Browse →](./android/) |
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
-| 🏷️ **Self-hosted** | 8 | [Browse →](./self-hosted/) |
+| 🏷️ **Self-hosted** | 9 | [Browse →](./self-hosted/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
@@ -132,6 +132,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Chrome-extension** | 2 | [Browse →](./chrome-extension/) |
 | 🏷️ **B2b** | 2 | [Browse →](./b2b/) |
 | 🏷️ **Ai-governance** | 2 | [Browse →](./ai-governance/) |
 | 🏷️ **Cloud-security** | 2 | [Browse →](./cloud-security/) |
@@ -373,7 +374,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Bash** | 1 | [Browse →](./bash/) |
 | 🏷️ **Aiax** | 1 | [Browse →](./aiax/) |
 | 🏷️ **Markdown** | 1 | [Browse →](./markdown/) |
-| 🏷️ **Chrome-extension** | 1 | [Browse →](./chrome-extension/) |
 | 🏷️ **Bytechef** | 1 | [Browse →](./bytechef/) |
 | 🏷️ **Asyncio** | 1 | [Browse →](./asyncio/) |
 | 🏷️ **Contract-management** | 1 | [Browse →](./contract-management/) |
