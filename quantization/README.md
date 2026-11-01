@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [zaydmulani09/heterodyne](./zaydmulani09-heterodyne.md) | ⭐ — | Rust | 48/100 |
+| 1 | [genrius-ai/llama.cpp](./genrius-ai-llama.cpp.md) | ⭐ — | — | 24/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Arthur031221/paper-margins](./arthur031221-paper-margins.md) | ⭐ — | JavaScript | 40/100 |
+| 1 | [sayanmondal2098/paperharbor](./sayanmondal2098-paperharbor.md) | ⭐ 1 | Python | 43/100 |
 
 ---
 

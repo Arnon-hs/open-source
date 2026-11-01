@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [chickadee-project/chickadee_studio](./chickadee-project-chickadee-studio.md) | ⭐ 16 | Python | 56/100 |
-| 2 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 53/100 |
+| 2 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 50/100 |
 | 3 | [lance-format/lance-graph](./lance-format-lance-graph.md) | ⭐ 186 | Rust | 46/100 |
 | 4 | [KomalDeep355/software-cemetery](./komaldeep355-software-cemetery.md) | ⭐ — | Python | 42/100 |
 | 5 | [oleg-vdv/shezhire](./oleg-vdv-shezhire.md) | ⭐ — | Python | 42/100 |
