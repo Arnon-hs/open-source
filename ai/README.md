@@ -14,9 +14,9 @@
 | 4 | [machenh001-pixel/agent-colony](./machenh001-pixel-agent-colony.md) | ⭐ 2 | JavaScript | 65/100 |
 | 5 | [easyeda/easyeda-api-skill](./easyeda-easyeda-api-skill.md) | ⭐ 977 | JavaScript | 61/100 |
 | 6 | [skibuff22/agent-ops-kit-lite](./skibuff22-agent-ops-kit-lite.md) | ⭐ — | Python | 60/100 |
-| 7 | [JohnWayneeee/casely-qa-skill](./johnwayneeee-casely-qa-skill.md) | ⭐ 11 | Python | 56/100 |
-| 8 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
-| 9 | [langchain-ai/openevals](./langchain-ai-openevals.md) | ⭐ 1.2k | Python | 53/100 |
+| 7 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
+| 8 | [langchain-ai/openevals](./langchain-ai-openevals.md) | ⭐ 1.2k | Python | 53/100 |
+| 9 | [firstpageseollc-lgtm/protocol-one-ai-index-v3](./firstpageseollc-lgtm-protocol-one-ai-index-v3.md) | ⭐ — | Python | 52/100 |
 | 10 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 52/100 |
 | 11 | [Ulk0r0/skillsentry](./ulk0r0-skillsentry.md) | ⭐ — | TypeScript | 51/100 |
 | 12 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 47/100 |

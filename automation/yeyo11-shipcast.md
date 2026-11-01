@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-automation · GitHub · AI · social media · newsletter · blog · open-source
+Automation · AI/ML · DevTools · Marketing
 
 ## 📝 Summary
 
 ### English
 
-yeyo11/shipcast: yeyo11/shipcast may be useful when its README and activity match a concrete workflow.. Use it for automation, GitHub, AI, social media, newsletter, blog, open-source. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+yeyo11/shipcast: yeyo11/shipcast helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-yeyo11/shipcast: open-source проект в категориях automation, GitHub, AI, social media, newsletter, blog, open-source. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+yeyo11/shipcast: open-source проект в категориях Automation, AI/ML, DevTools, Marketing. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-yeyo11/shipcast：yeyo11/shipcast may be useful when its README and activity match a concrete workflow.。适合用于automation、GitHub、AI、social media、newsletter、blog、open-source。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+yeyo11/shipcast：yeyo11/shipcast helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** yeyo11/shipcast may be useful when its README and activity match a concrete workflow.
+**Value:** yeyo11/shipcast helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -61,18 +63,18 @@ yeyo11/shipcast：yeyo11/shipcast may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 63/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 700/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
