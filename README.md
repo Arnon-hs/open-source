@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43660** |
-| **Categories** | **581** |
+| **Projects** | **43672** |
+| **Categories** | **584** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17561 | [Browse →](./misc/) |
+| 📦 **Misc** | 17564 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4641 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2903 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2415 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1609 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1499 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1500 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 903 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 814 | [Browse →](./crypto/) |
@@ -53,21 +53,21 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 187 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 143 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 135 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 136 | [Browse →](./ai/) |
+| 🏷️ **Ai-agents** | 41 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 41 | [Browse →](./open-source/) |
-| 🏷️ **Ai-agents** | 40 | [Browse →](./ai-agents/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
+| 🏷️ **Privacy** | 26 | [Browse →](./privacy/) |
 | 🏷️ **Local-ai** | 26 | [Browse →](./local-ai/) |
-| 🏷️ **Privacy** | 25 | [Browse →](./privacy/) |
+| 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 21 | [Browse →](./llm/) |
-| 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 17 | [Browse →](./local-llm/) |
 | 🏷️ **Rust** | 14 | [Browse →](./rust/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
+| 🏷️ **Android** | 12 | [Browse →](./android/) |
 | 🏷️ **Git** | 12 | [Browse →](./git/) |
-| 🏷️ **Android** | 11 | [Browse →](./android/) |
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
@@ -211,6 +211,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Data-quality** | 1 | [Browse →](./data-quality/) |
+| 🏷️ **Determinism** | 1 | [Browse →](./determinism/) |
+| 🏷️ **Contributor-onboarding** | 1 | [Browse →](./contributor-onboarding/) |
 | 🏷️ **Reactivity** | 1 | [Browse →](./reactivity/) |
 | 🏷️ **Download** | 1 | [Browse →](./download/) |
 | 🏷️ **Python2** | 1 | [Browse →](./python2/) |

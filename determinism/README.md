@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [halil_cogun/tickwise](./halil-cogun-tickwise.md) | ⭐ — | — | 24/100 |
+| 1 | [RomainCHEN/seance](./romainchen-seance.md) | ⭐ — | HTML | 58/100 |
 
 ---
 

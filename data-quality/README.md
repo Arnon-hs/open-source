@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Shahedr/data-quality-detective](./shahedr-data-quality-detective.md) | ⭐ — | Python | 56/100 |
+| 1 | [driftprobe/driftprobe](./driftprobe-driftprobe.md) | ⭐ 1 | JavaScript | 66/100 |
 
 ---
 

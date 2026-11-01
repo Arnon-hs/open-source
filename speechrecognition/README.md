@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [memeshee/so-gio](./memeshee-so-gio.md) | ⭐ — | Python | 43/100 |
+| 1 | [memeshee/so-gio](./memeshee-so-gio.md) | ⭐ — | Python | 40/100 |
 
 ---
 

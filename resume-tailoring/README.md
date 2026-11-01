@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Inkesk-Dozing/Resume-and-Thread](./inkesk-dozing-resume-and-thread.md) | ⭐ — | TypeScript | 36/100 |
+| 1 | [Inkesk-Dozing/Resume-and-Thread](./inkesk-dozing-resume-and-thread.md) | ⭐ — | TypeScript | 33/100 |
 
 ---
 
