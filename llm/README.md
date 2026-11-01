@@ -13,8 +13,8 @@
 | 3 | [linklbee/scan](./linklbee-scan.md) | ⭐ — | Python | 43/100 |
 | 4 | [OddlyGoods/peep-note](./oddlygoods-peep-note.md) | ⭐ — | TypeScript | 42/100 |
 | 5 | [T-RexBytes/phantom-packages](./t-rexbytes-phantom-packages.md) | ⭐ — | Python | 39/100 |
-| 6 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 33/100 |
-| 7 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 32/100 |
+| 6 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 32/100 |
+| 7 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 30/100 |
 | 8 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 30/100 |
 | 9 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 27/100 |
 | 10 | [uber-research/TabPFN](./uber-research-tabpfn.md) | ⭐ — | — | 24/100 |
