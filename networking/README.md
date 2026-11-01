@@ -573,8 +573,8 @@
 | 563 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 206 | TypeScript | 45/100 |
 | 564 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 462 | — | 45/100 |
 | 565 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 392 | — | 45/100 |
-| 566 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
-| 567 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 566 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 567 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
 | 568 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ — | — | 44/100 |
 | 569 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ — | — | 44/100 |
 | 570 | [aschmelyun/docker-compose-traefik](./aschmelyun-docker-compose-traefik.md) | ⭐ 59 | PHP | 43/100 |
