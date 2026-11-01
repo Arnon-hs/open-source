@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Nelsar/Axia](./nelsar-axia.md) | ⭐ 8 | C# | 69/100 |
+| 1 | [Nelsar/Axia](./nelsar-axia.md) | ⭐ 8 | C# | 66/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # Nelsar/Axia
 
-[![Stars](https://img.shields.io/github/stars/Nelsar/Axia?style=flat-square&color=yellow)](https://github.com/Nelsar/Axia/stargazers) [![Forks](https://img.shields.io/github/forks/Nelsar/Axia?style=flat-square&color=blue)](https://github.com/Nelsar/Axia/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nelsar/Axia?style=flat-square&color=yellow)](https://github.com/Nelsar/Axia/stargazers) [![Forks](https://img.shields.io/github/forks/Nelsar/Axia?style=flat-square&color=blue)](https://github.com/Nelsar/Axia/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted LDAP admin web console and REST API for Active Directory and OpenLDAP — user, group, OU and computer management with role-based access and an audit log.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-10-29 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Nelsar/Axia：Nelsar/Axia may be useful when its README and activity match a con
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 76/100 |
+| production | 61/100 |
+| outlook | 69/100 |
 | adoption | 15/100 |
 | categoryMatchCount | 800/100 |
 | stars | 20/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
