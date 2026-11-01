@@ -18,9 +18,9 @@
 | 8 | [vrRanjith/ghostcommit](./vrranjith-ghostcommit.md) | ⭐ — | Python | 39/100 |
 | 9 | [mrerror313coder/QuestLearn](./mrerror313coder-questlearn.md) | ⭐ — | Python | 39/100 |
 | 10 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 37/100 |
-| 11 | [joeylukoji/PanlyackErp](./joeylukoji-panlyackerp.md) | ⭐ — | Python | 36/100 |
-| 12 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 34/100 |
-| 13 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 33/100 |
+| 11 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 34/100 |
+| 12 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 33/100 |
+| 13 | [joeylukoji/PanlyackErp](./joeylukoji-panlyackerp.md) | ⭐ — | Python | 33/100 |
 | 14 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 33/100 |
 | 15 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 33/100 |
 | 16 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 33/100 |
