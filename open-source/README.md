@@ -2,7 +2,7 @@
 
 > 
 
-**39 projects** in this category.
+**40 projects** in this category.
 
 ## Projects
 
@@ -18,35 +18,36 @@
 | 8 | [vrRanjith/ghostcommit](./vrranjith-ghostcommit.md) | ⭐ — | Python | 39/100 |
 | 9 | [mrerror313coder/QuestLearn](./mrerror313coder-questlearn.md) | ⭐ — | Python | 39/100 |
 | 10 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 37/100 |
-| 11 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 34/100 |
-| 12 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 33/100 |
-| 13 | [joeylukoji/PanlyackErp](./joeylukoji-panlyackerp.md) | ⭐ — | Python | 33/100 |
-| 14 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 33/100 |
-| 15 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 33/100 |
-| 16 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 33/100 |
-| 17 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 33/100 |
-| 18 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 33/100 |
-| 19 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 33/100 |
-| 20 | [Dev-Suraj-Dhawal/terraforge-studio](./dev-suraj-dhawal-terraforge-studio.md) | ⭐ — | JavaScript | 30/100 |
-| 21 | [pixelcrisscross/PrivaLedger-AI](./pixelcrisscross-privaledger-ai.md) | ⭐ — | JavaScript | 30/100 |
-| 22 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 30/100 |
-| 23 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 30/100 |
-| 24 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 30/100 |
-| 25 | [edoburu/django-bakery](./edoburu-django-bakery.md) | ⭐ — | — | 27/100 |
-| 26 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 27/100 |
-| 27 | [microsoft/onnxruntime-qnn](./microsoft-onnxruntime-qnn.md) | ⭐ — | — | 24/100 |
-| 28 | [artcraft/effectcraft](./artcraft-effectcraft.md) | ⭐ — | — | 24/100 |
-| 29 | [artcraft/filmcraft](./artcraft-filmcraft.md) | ⭐ — | — | 24/100 |
-| 30 | [artcraft/photocraft](./artcraft-photocraft.md) | ⭐ — | — | 24/100 |
-| 31 | [awesome-llm/awesome-local-llm](./awesome-llm-awesome-local-llm.md) | ⭐ — | — | 24/100 |
-| 32 | [awesome-llm/awesome-generative-ai](./awesome-llm-awesome-generative-ai.md) | ⭐ — | — | 24/100 |
-| 33 | [awesome-ml/awesome-machine-learning](./awesome-ml-awesome-machine-learning.md) | ⭐ — | — | 24/100 |
-| 34 | [awesome-llm/awesome-llm](./awesome-llm-awesome-llm.md) | ⭐ — | — | 24/100 |
-| 35 | [harness-community/harness-score](./harness-community-harness-score.md) | ⭐ — | — | 24/100 |
-| 36 | [meta-llama/Meta-Llama-3.1](./meta-llama-meta-llama-3.1.md) | ⭐ — | — | 24/100 |
-| 37 | [features/codespaces](./features-codespaces.md) | ⭐ — | — | 24/100 |
-| 38 | [owner/repo](./owner-repo.md) | ⭐ — | — | 24/100 |
-| 39 | [openclaw-ai/openclaw](./openclaw-ai-openclaw.md) | ⭐ — | — | 24/100 |
+| 11 | [07Tanvi/ghoststory-ai-tanvi26](./07tanvi-ghoststory-ai-tanvi26.md) | ⭐ — | HTML | 36/100 |
+| 12 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 34/100 |
+| 13 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 33/100 |
+| 14 | [joeylukoji/PanlyackErp](./joeylukoji-panlyackerp.md) | ⭐ — | Python | 33/100 |
+| 15 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 33/100 |
+| 16 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 33/100 |
+| 17 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 33/100 |
+| 18 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 33/100 |
+| 19 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 33/100 |
+| 20 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 33/100 |
+| 21 | [Dev-Suraj-Dhawal/terraforge-studio](./dev-suraj-dhawal-terraforge-studio.md) | ⭐ — | JavaScript | 30/100 |
+| 22 | [pixelcrisscross/PrivaLedger-AI](./pixelcrisscross-privaledger-ai.md) | ⭐ — | JavaScript | 30/100 |
+| 23 | [mohithreddydonala37/plant](./mohithreddydonala37-plant.md) | ⭐ — | JavaScript | 30/100 |
+| 24 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 30/100 |
+| 25 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 30/100 |
+| 26 | [edoburu/django-bakery](./edoburu-django-bakery.md) | ⭐ — | — | 27/100 |
+| 27 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 27/100 |
+| 28 | [microsoft/onnxruntime-qnn](./microsoft-onnxruntime-qnn.md) | ⭐ — | — | 24/100 |
+| 29 | [artcraft/effectcraft](./artcraft-effectcraft.md) | ⭐ — | — | 24/100 |
+| 30 | [artcraft/filmcraft](./artcraft-filmcraft.md) | ⭐ — | — | 24/100 |
+| 31 | [artcraft/photocraft](./artcraft-photocraft.md) | ⭐ — | — | 24/100 |
+| 32 | [awesome-llm/awesome-local-llm](./awesome-llm-awesome-local-llm.md) | ⭐ — | — | 24/100 |
+| 33 | [awesome-llm/awesome-generative-ai](./awesome-llm-awesome-generative-ai.md) | ⭐ — | — | 24/100 |
+| 34 | [awesome-ml/awesome-machine-learning](./awesome-ml-awesome-machine-learning.md) | ⭐ — | — | 24/100 |
+| 35 | [awesome-llm/awesome-llm](./awesome-llm-awesome-llm.md) | ⭐ — | — | 24/100 |
+| 36 | [harness-community/harness-score](./harness-community-harness-score.md) | ⭐ — | — | 24/100 |
+| 37 | [meta-llama/Meta-Llama-3.1](./meta-llama-meta-llama-3.1.md) | ⭐ — | — | 24/100 |
+| 38 | [features/codespaces](./features-codespaces.md) | ⭐ — | — | 24/100 |
+| 39 | [owner/repo](./owner-repo.md) | ⭐ — | — | 24/100 |
+| 40 | [openclaw-ai/openclaw](./openclaw-ai-openclaw.md) | ⭐ — | — | 24/100 |
 
 ---
 
