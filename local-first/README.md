@@ -2,7 +2,7 @@
 
 > 
 
-**18 projects** in this category.
+**19 projects** in this category.
 
 ## Projects
 
@@ -21,11 +21,12 @@
 | 11 | [Jagrat567/wanderwise-ai](./jagrat567-wanderwise-ai.md) | ⭐ — | — | 30/100 |
 | 12 | [RathnamS089/secondmind](./rathnams089-secondmind.md) | ⭐ — | HTML | 30/100 |
 | 13 | [ashab683/studybudy-ai](./ashab683-studybudy-ai.md) | ⭐ — | JavaScript | 30/100 |
-| 14 | [imgly/background-removal](./imgly-background-removal.md) | ⭐ — | — | 24/100 |
-| 15 | [pri-labs/tabpfn](./pri-labs-tabpfn.md) | ⭐ — | — | 24/100 |
-| 16 | [TabPFN/TabPFN](./tabpfn-tabpfn.md) | ⭐ — | — | 24/100 |
-| 17 | [ggerganov/whisper.cpp](./ggerganov-whisper.cpp.md) | ⭐ — | — | 24/100 |
-| 18 | [onnx/Kokoro](./onnx-kokoro.md) | ⭐ — | — | 24/100 |
+| 14 | [Qwen-Chat/Qwen-2.5](./qwen-chat-qwen-2.5.md) | ⭐ — | — | 24/100 |
+| 15 | [imgly/background-removal](./imgly-background-removal.md) | ⭐ — | — | 24/100 |
+| 16 | [pri-labs/tabpfn](./pri-labs-tabpfn.md) | ⭐ — | — | 24/100 |
+| 17 | [TabPFN/TabPFN](./tabpfn-tabpfn.md) | ⭐ — | — | 24/100 |
+| 18 | [ggerganov/whisper.cpp](./ggerganov-whisper.cpp.md) | ⭐ — | — | 24/100 |
+| 19 | [onnx/Kokoro](./onnx-kokoro.md) | ⭐ — | — | 24/100 |
 
 ---
 
