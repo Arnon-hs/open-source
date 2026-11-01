@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [munimtechnologies/feedback-commons](./munimtechnologies-feedback-commons.md) | ⭐ — | Python | 43/100 |
-| 2 | [munimtechnologies/quote-check](./munimtechnologies-quote-check.md) | ⭐ — | HTML | 36/100 |
+| 1 | [munimtechnologies/feedback-quote-audit](./munimtechnologies-feedback-quote-audit.md) | ⭐ — | Python | 42/100 |
 
 ---
 
