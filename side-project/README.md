@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [imarpanpatra/moonlight](./imarpanpatra-moonlight.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [imarpanpatra/moonlight](./imarpanpatra-moonlight.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

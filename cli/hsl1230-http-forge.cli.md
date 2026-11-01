@@ -1,6 +1,6 @@
 # hsl1230/http-forge.cli
 
-[![Stars](https://img.shields.io/github/stars/hsl1230/http-forge.cli?style=flat-square&color=yellow)](https://github.com/hsl1230/http-forge.cli/stargazers) [![Forks](https://img.shields.io/github/forks/hsl1230/http-forge.cli?style=flat-square&color=blue)](https://github.com/hsl1230/http-forge.cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hsl1230/http-forge.cli?style=flat-square&color=yellow)](https://github.com/hsl1230/http-forge.cli/stargazers) [![Forks](https://img.shields.io/github/forks/hsl1230/http-forge.cli?style=flat-square&color=blue)](https://github.com/hsl1230/http-forge.cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > HTTP Forge CLI is a terminal interface for executing HTTP Forge test suites and collections without VS Code.  Run API tests from CI/CD pipelines, terminals, or integrate with other tools. Supports single requests, entire collections with iterations, test suites with full reporting, and MCP server mode for AI agent integration.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-10-29 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ hsl1230/http-forge.cli：hsl1230/http-forge.cli may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 94/100 |
-| production | 65/100 |
-| outlook | 63/100 |
+| production | 58/100 |
+| outlook | 56/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
