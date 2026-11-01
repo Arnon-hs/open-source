@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mittalhimanshu76-vicky/coldengine-os](./mittalhimanshu76-vicky-coldengine-os.md) | ⭐ — | Python | 51/100 |
+| 1 | [rthalley/dnspython](./rthalley-dnspython.md) | ⭐ 2.7k | Python | 68/100 |
 
 ---
 

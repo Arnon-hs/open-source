@@ -2,15 +2,16 @@
 
 > 
 
-**3 projects** in this category.
+**4 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Imbiber/listing-genius](./imbiber-listing-genius.md) | ⭐ — | TypeScript | 33/100 |
-| 2 | [hitesh-kumar123/cartspark-ai](./hitesh-kumar123-cartspark-ai.md) | ⭐ — | JavaScript | 30/100 |
-| 3 | [saquib-shahid/vendorforge-ai](./saquib-shahid-vendorforge-ai.md) | ⭐ — | JavaScript | 30/100 |
+| 1 | [tungnguyen84/shopify-woocommerce-product-price-scraper](./tungnguyen84-shopify-woocommerce-product-price-scraper.md) | ⭐ — | Python | 69/100 |
+| 2 | [Imbiber/listing-genius](./imbiber-listing-genius.md) | ⭐ — | TypeScript | 33/100 |
+| 3 | [hitesh-kumar123/cartspark-ai](./hitesh-kumar123-cartspark-ai.md) | ⭐ — | JavaScript | 30/100 |
+| 4 | [saquib-shahid/vendorforge-ai](./saquib-shahid-vendorforge-ai.md) | ⭐ — | JavaScript | 30/100 |
 
 ---
 

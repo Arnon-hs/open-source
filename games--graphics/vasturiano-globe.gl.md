@@ -64,18 +64,18 @@ vasturiano/globe.gl：vasturiano/globe.gl may be useful when its README and acti
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 70/100 |
-| integration | 30/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 72/100 |
-| categoryMatchCount | 200/100 |
-| stars | 75/100 |
 | forks | 66/100 |
-| recency | 80/100 |
+| stars | 75/100 |
 | topics | 50/100 |
+| outlook | 66/100 |
+| quality | 70/100 |
+| recency | 80/100 |
+| adoption | 72/100 |
+| production | 63/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
