@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nfedotenko/locsmith](./nfedotenko-locsmith.md) | ⭐ — | Python | 39/100 |
+| 1 | [backmeupplz/absplus](./backmeupplz-absplus.md) | ⭐ — | Kotlin | 48/100 |
 
 ---
 

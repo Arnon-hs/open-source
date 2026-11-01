@@ -2,7 +2,7 @@
 
 > 
 
-**8 projects** in this category.
+**9 projects** in this category.
 
 ## Projects
 
@@ -13,9 +13,10 @@
 | 3 | [pasindu-premachandra/crewrota](./pasindu-premachandra-crewrota.md) | ⭐ — | TypeScript | 49/100 |
 | 4 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |
 | 5 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 30/100 |
-| 6 | [volvox-ltd/claude-docs-watch](./volvox-ltd-claude-docs-watch.md) | ⭐ — | — | 24/100 |
-| 7 | [uehara/context-drop](./uehara-context-drop.md) | ⭐ — | — | 24/100 |
-| 8 | [anthropic/codex](./anthropic-codex.md) | ⭐ — | — | 24/100 |
+| 6 | [yourrepo/switchboard](./yourrepo-switchboard.md) | ⭐ — | — | 24/100 |
+| 7 | [volvox-ltd/claude-docs-watch](./volvox-ltd-claude-docs-watch.md) | ⭐ — | — | 24/100 |
+| 8 | [uehara/context-drop](./uehara-context-drop.md) | ⭐ — | — | 24/100 |
+| 9 | [anthropic/codex](./anthropic-codex.md) | ⭐ — | — | 24/100 |
 
 ---
 
