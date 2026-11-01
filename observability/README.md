@@ -2,7 +2,7 @@
 
 > 
 
-**310 projects** in this category.
+**311 projects** in this category.
 
 ## Projects
 
@@ -317,7 +317,8 @@
 | 307 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 38/100 |
 | 308 | [Claven07/dsh-plugin-agent-insights](./claven07-dsh-plugin-agent-insights.md) | ⭐ — | TypeScript | 38/100 |
 | 309 | [AyushSingh110/Failure_Intelligence_System](./ayushsingh110-failure-intelligence-system.md) | ⭐ 4 | Jupyter Notebook | 35/100 |
-| 310 | [Claven07/cordis](./claven07-cordis.md) | ⭐ — | — | 24/100 |
+| 310 | [SushrutVaidya/loglens](./sushrutvaidya-loglens.md) | ⭐ 1 | Java | 31/100 |
+| 311 | [Claven07/cordis](./claven07-cordis.md) | ⭐ — | — | 24/100 |
 
 ---
 

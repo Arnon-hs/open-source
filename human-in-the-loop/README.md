@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [brodyga45/human-handoff-dashboard](./brodyga45-human-handoff-dashboard.md) | ⭐ — | Python | 47/100 |
+| 1 | [TerrKot/ai-ticket-triage-demo](./terrkot-ai-ticket-triage-demo.md) | ⭐ — | Python | 36/100 |
 
 ---
 
