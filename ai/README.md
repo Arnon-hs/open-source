@@ -27,10 +27,10 @@
 | 17 | [Ulk0r0/skillsentry](./ulk0r0-skillsentry.md) | ⭐ — | TypeScript | 51/100 |
 | 18 | [Abhishek-gupta18/ContinumAI](./abhishek-gupta18-continumai.md) | ⭐ 5 | TypeScript | 49/100 |
 | 19 | [Pavel6625/PaulusAI](./pavel6625-paulusai.md) | ⭐ 3 | Python | 49/100 |
-| 20 | [jean82290/graphify-railway](./jean82290-graphify-railway.md) | ⭐ — | Python | 49/100 |
-| 21 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 49/100 |
-| 22 | [pattjoshi/om-ai-engineer-portfolio](./pattjoshi-om-ai-engineer-portfolio.md) | ⭐ — | TypeScript | 48/100 |
-| 23 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 47/100 |
+| 20 | [SandeepAi369/xel-studio](./sandeepai369-xel-studio.md) | ⭐ 7 | TypeScript | 49/100 |
+| 21 | [pattjoshi/om-ai-engineer-portfolio](./pattjoshi-om-ai-engineer-portfolio.md) | ⭐ — | TypeScript | 48/100 |
+| 22 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 47/100 |
+| 23 | [jean82290/graphify-railway](./jean82290-graphify-railway.md) | ⭐ — | Python | 46/100 |
 | 24 | [finallyjay/catrinanews](./finallyjay-catrinanews.md) | ⭐ — | Python | 42/100 |
 | 25 | [sakshiverma31103120-code/ghost-in-the-dataset](./sakshiverma31103120-code-ghost-in-the-dataset.md) | ⭐ — | Python | 42/100 |
 | 26 | [GaffaAI/gaffa-cli](./gaffaai-gaffa-cli.md) | ⭐ — | TypeScript | 41/100 |
