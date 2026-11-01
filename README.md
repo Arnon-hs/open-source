@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43710** |
-| **Categories** | **593** |
+| **Projects** | **43724** |
+| **Categories** | **594** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17572 | [Browse →](./misc/) |
+| 📦 **Misc** | 17574 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4641 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2904 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2415 | [Browse →](./orchestration/) |
@@ -52,15 +52,15 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 187 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
+| 🏷️ **Ai** | 145 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 143 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 140 | [Browse →](./ai/) |
+| 🏷️ **Ai-agents** | 44 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 43 | [Browse →](./open-source/) |
-| 🏷️ **Ai-agents** | 41 | [Browse →](./ai-agents/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
-| 🏷️ **Privacy** | 26 | [Browse →](./privacy/) |
+| 🏷️ **Privacy** | 27 | [Browse →](./privacy/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Llm** | 21 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 19 | [Browse →](./local-llm/) |
@@ -72,11 +72,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
 | 🏷️ **Self-hosted** | 8 | [Browse →](./self-hosted/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
+| 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
+| 🏷️ **Cli** | 6 | [Browse →](./cli/) |
 | 🏷️ **Offline-ai** | 6 | [Browse →](./offline-ai/) |
-| 🏷️ **Aws** | 6 | [Browse →](./aws/) |
 | 🏷️ **Windows** | 6 | [Browse →](./windows/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
 | 🏷️ **Terminal** | 6 | [Browse →](./terminal/) |
@@ -85,7 +86,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
-| 🏷️ **Cli** | 5 | [Browse →](./cli/) |
 | 🏷️ **Ios** | 5 | [Browse →](./ios/) |
 | 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
@@ -211,6 +211,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Digital-archaeology** | 1 | [Browse →](./digital-archaeology/) |
 | 🏷️ **Agent-orchestrator** | 1 | [Browse →](./agent-orchestrator/) |
 | 🏷️ **Dead-code** | 1 | [Browse →](./dead-code/) |
 | 🏷️ **Data-warehousing** | 1 | [Browse →](./data-warehousing/) |
