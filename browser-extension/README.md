@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [emirmrkaljevic/truediscount](./emirmrkaljevic-truediscount.md) | ⭐ — | JavaScript | 41/100 |
+| 1 | [paladini/x-likes-automator](./paladini-x-likes-automator.md) | ⭐ — | — | 24/100 |
 
 ---
 

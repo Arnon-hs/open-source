@@ -2,14 +2,15 @@
 
 > 
 
-**2 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SHWETANK-SAURABH/touchgrass_game_master](./shwetank-saurabh-touchgrass-game-master.md) | ⭐ — | — | 24/100 |
-| 2 | [predibase/tabpfn](./predibase-tabpfn.md) | ⭐ — | — | 24/100 |
+| 1 | [amankumarsahani/the-unmerged](./amankumarsahani-the-unmerged.md) | ⭐ — | JavaScript | 39/100 |
+| 2 | [SHWETANK-SAURABH/touchgrass_game_master](./shwetank-saurabh-touchgrass-game-master.md) | ⭐ — | — | 24/100 |
+| 3 | [predibase/tabpfn](./predibase-tabpfn.md) | ⭐ — | — | 24/100 |
 
 ---
 
