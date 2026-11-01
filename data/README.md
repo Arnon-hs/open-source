@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**344 projects** in this category.
+**345 projects** in this category.
 
 ## Projects
 
@@ -328,30 +328,31 @@
 | 318 | [MMMystery/foto-documento-specs](./mmmystery-foto-documento-specs.md) | ⭐ — | JavaScript | 47/100 |
 | 319 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 47/100 |
 | 320 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 47/100 |
-| 321 | [dmitriy-iliyov/oncebox](./dmitriy-iliyov-oncebox.md) | ⭐ 3 | Java | 46/100 |
-| 322 | [emptiesvoid-cloud/QF_solver](./emptiesvoid-cloud-qf-solver.md) | ⭐ 2 | Python | 46/100 |
-| 323 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 498 | R | 46/100 |
-| 324 | [partick33/internal-links-export](./partick33-internal-links-export.md) | ⭐ — | JavaScript | 45/100 |
-| 325 | [idk-arsh/data-agent-rules](./idk-arsh-data-agent-rules.md) | ⭐ — | — | 45/100 |
-| 326 | [GetCassis/analytics-agent-articles](./getcassis-analytics-agent-articles.md) | ⭐ — | — | 45/100 |
-| 327 | [trynova/nova](./trynova-nova.md) | ⭐ 1.9k | Rust | 45/100 |
-| 328 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 45/100 |
-| 329 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 601 | Python | 45/100 |
-| 330 | [decodeaditya/Cirqmon](./decodeaditya-cirqmon.md) | ⭐ 16 | JavaScript | 44/100 |
-| 331 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ — | — | 44/100 |
-| 332 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 116 | Rust | 44/100 |
-| 333 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
-| 334 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 113 | Rust | 43/100 |
-| 335 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 43/100 |
-| 336 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
-| 337 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |
-| 338 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ — | — | 41/100 |
-| 339 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
-| 340 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 41/100 |
-| 341 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ — | Swift | 38/100 |
-| 342 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
-| 343 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
-| 344 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
+| 321 | [ashtonckj/Purrrfessorrr-Slothhh](./ashtonckj-purrrfessorrr-slothhh.md) | ⭐ 2 | Python | 46/100 |
+| 322 | [dmitriy-iliyov/oncebox](./dmitriy-iliyov-oncebox.md) | ⭐ 3 | Java | 46/100 |
+| 323 | [emptiesvoid-cloud/QF_solver](./emptiesvoid-cloud-qf-solver.md) | ⭐ 2 | Python | 46/100 |
+| 324 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 498 | R | 46/100 |
+| 325 | [partick33/internal-links-export](./partick33-internal-links-export.md) | ⭐ — | JavaScript | 45/100 |
+| 326 | [idk-arsh/data-agent-rules](./idk-arsh-data-agent-rules.md) | ⭐ — | — | 45/100 |
+| 327 | [GetCassis/analytics-agent-articles](./getcassis-analytics-agent-articles.md) | ⭐ — | — | 45/100 |
+| 328 | [trynova/nova](./trynova-nova.md) | ⭐ 1.9k | Rust | 45/100 |
+| 329 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 45/100 |
+| 330 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 601 | Python | 45/100 |
+| 331 | [decodeaditya/Cirqmon](./decodeaditya-cirqmon.md) | ⭐ 16 | JavaScript | 44/100 |
+| 332 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ — | — | 44/100 |
+| 333 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 116 | Rust | 44/100 |
+| 334 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
+| 335 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 113 | Rust | 43/100 |
+| 336 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 43/100 |
+| 337 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
+| 338 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |
+| 339 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ — | — | 41/100 |
+| 340 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
+| 341 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 634 | Rust | 41/100 |
+| 342 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ — | Swift | 38/100 |
+| 343 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
+| 344 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
+| 345 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
 
 ---
 
