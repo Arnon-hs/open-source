@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [VynelixAI/Agent-Studio](./vynelixai-agent-studio.md) | ⭐ 1 | TypeScript | 42/100 |
+| 1 | [VynelixAI/Agent-Studio](./vynelixai-agent-studio.md) | ⭐ 1 | TypeScript | 39/100 |
 
 ---
 

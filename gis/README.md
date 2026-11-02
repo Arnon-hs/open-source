@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [adrianco/romanroads](./adrianco-romanroads.md) | ⭐ 2 | Python | 47/100 |
+| 1 | [adrianco/romanroads](./adrianco-romanroads.md) | ⭐ 2 | Python | 44/100 |
 
 ---
 
