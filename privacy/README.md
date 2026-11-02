@@ -13,10 +13,10 @@
 | 3 | [shrey04kaitke-sys/PhantomShellAI](./shrey04kaitke-sys-phantomshellai.md) | ⭐ — | Python | 39/100 |
 | 4 | [laiba-Ashfaq/ofrenda](./laiba-ashfaq-ofrenda.md) | ⭐ — | Python | 39/100 |
 | 5 | [jeffreyturov-dev/memoria-local](./jeffreyturov-dev-memoria-local.md) | ⭐ — | Python | 39/100 |
-| 6 | [Atharva1723/Lumbre](./atharva1723-lumbre.md) | ⭐ — | — | 36/100 |
-| 7 | [Abhinav-Shrivas/Ghost-in-the-machine](./abhinav-shrivas-ghost-in-the-machine.md) | ⭐ — | JavaScript | 36/100 |
-| 8 | [shivammusic/fresh-air-match](./shivammusic-fresh-air-match.md) | ⭐ — | Python | 36/100 |
-| 9 | [Bhavya4523/still-charging](./bhavya4523-still-charging.md) | ⭐ — | JavaScript | 36/100 |
+| 6 | [Abhinav-Shrivas/Ghost-in-the-machine](./abhinav-shrivas-ghost-in-the-machine.md) | ⭐ — | JavaScript | 36/100 |
+| 7 | [shivammusic/fresh-air-match](./shivammusic-fresh-air-match.md) | ⭐ — | Python | 36/100 |
+| 8 | [Bhavya4523/still-charging](./bhavya4523-still-charging.md) | ⭐ — | JavaScript | 36/100 |
+| 9 | [Atharva1723/Lumbre](./atharva1723-lumbre.md) | ⭐ — | — | 33/100 |
 | 10 | [Priti2008/haunted-terminal-whisperer](./priti2008-haunted-terminal-whisperer.md) | ⭐ — | HTML | 33/100 |
 | 11 | [qife422/chief-of-staff](./qife422-chief-of-staff.md) | ⭐ — | HTML | 33/100 |
 | 12 | [aashutoshkumarbhardwaj/openSearch](./aashutoshkumarbhardwaj-opensearch.md) | ⭐ — | TypeScript | 33/100 |

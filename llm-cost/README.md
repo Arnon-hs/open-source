@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aicostbudget/llm-cost-per-task-benchmark](./aicostbudget-llm-cost-per-task-benchmark.md) | ⭐ 1 | Python | 52/100 |
+| 1 | [aicostbudget/llm-cost-per-task-benchmark](./aicostbudget-llm-cost-per-task-benchmark.md) | ⭐ 1 | Python | 49/100 |
 
 ---
 
