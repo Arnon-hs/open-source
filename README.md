@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43879** |
-| **Categories** | **602** |
+| **Projects** | **43883** |
+| **Categories** | **601** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17665 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4643 | [Browse →](./aiml/) |
+| 📦 **Misc** | 17667 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4644 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2907 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2416 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2417 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1611 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1502 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
@@ -41,13 +41,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 566 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 528 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 481 | [Browse →](./templates/) |
+| 🏷️ **Communication** | 459 | [Browse →](./communication/) |
 | 🔐 **Security** | 459 | [Browse →](./security/) |
-| 🏷️ **Communication** | 458 | [Browse →](./communication/) |
 | 💳 **Payments** | 375 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 348 | [Browse →](./games--graphics/) |
 | 📊 **Data** | 345 | [Browse →](./data/) |
 | 🏷️ **Productivity** | 343 | [Browse →](./productivity/) |
-| 🏷️ **Observability** | 317 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 318 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 272 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 188 | [Browse →](./design/) |
@@ -86,15 +86,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
-| 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
+| 🏷️ **Claude** | 5 | [Browse →](./claude/) |
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Wordpress** | 5 | [Browse →](./wordpress/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
 | 🏷️ **Ios** | 4 | [Browse →](./ios/) |
-| 🏷️ **Claude** | 4 | [Browse →](./claude/) |
+| 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Serverless** | 4 | [Browse →](./serverless/) |
 | 🏷️ **Agent** | 4 | [Browse →](./agent/) |
-| 🏷️ **Linux** | 4 | [Browse →](./linux/) |
 | 🏷️ **Github-actions** | 4 | [Browse →](./github-actions/) |
 | 🏷️ **Ecommerce** | 4 | [Browse →](./ecommerce/) |
 | 🏷️ **Documentation** | 4 | [Browse →](./documentation/) |
@@ -112,6 +111,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Browser-automation** | 3 | [Browse →](./browser-automation/) |
 | 🏷️ **Comfyui** | 3 | [Browse →](./comfyui/) |
+| 🏷️ **Linux** | 3 | [Browse →](./linux/) |
 | 🏷️ **Nextjs** | 3 | [Browse →](./nextjs/) |
 | 🏷️ **Ai-assisted-development** | 3 | [Browse →](./ai-assisted-development/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
@@ -218,6 +218,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Dropbox** | 1 | [Browse →](./dropbox/) |
 | 🏷️ **Smart-contract** | 1 | [Browse →](./smart-contract/) |
 | 🏷️ **Biometric** | 1 | [Browse →](./biometric/) |
 | 🏷️ **Go** | 1 | [Browse →](./go/) |
@@ -337,8 +338,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agent-skill-security** | 1 | [Browse →](./agent-skill-security/) |
 | 🏷️ **Email-validation** | 1 | [Browse →](./email-validation/) |
 | 🏷️ **Fine-tuning** | 1 | [Browse →](./fine-tuning/) |
-| 🏷️ **Cicd** | 1 | [Browse →](./cicd/) |
-| 🏷️ **Ipad** | 1 | [Browse →](./ipad/) |
 | 🏷️ **Logistics** | 1 | [Browse →](./logistics/) |
 | 🏷️ **Osint** | 1 | [Browse →](./osint/) |
 | 🏷️ **Zero-trust** | 1 | [Browse →](./zero-trust/) |

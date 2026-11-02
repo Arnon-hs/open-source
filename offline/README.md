@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sunmughan/Conzyx](./sunmughan-conzyx.md) | ⭐ 1 | Kotlin | 61/100 |
+| 1 | [sunmughan/Conzyx](./sunmughan-conzyx.md) | ⭐ 1 | Kotlin | 58/100 |
 | 2 | [arjankc/ghost-in-the-code](./arjankc-ghost-in-the-code.md) | ⭐ — | TypeScript | 39/100 |
 | 3 | [RZEROSTERN/hacktoberfest-week4](./rzerostern-hacktoberfest-week4.md) | ⭐ — | Python | 39/100 |
 | 4 | [parnita-Singh/PDFme-week3](./parnita-singh-pdfme-week3.md) | ⭐ 1 | Python | 37/100 |
