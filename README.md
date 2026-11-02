@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43774** |
+| **Projects** | **43778** |
 | **Categories** | **599** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17600 | [Browse →](./misc/) |
+| 📦 **Misc** | 17602 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4641 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2905 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2415 | [Browse →](./orchestration/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 188 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 148 | [Browse →](./ai/) |
-| 🏷️ **Vertical-video** | 144 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 145 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 44 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 43 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
@@ -134,6 +134,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Migration** | 2 | [Browse →](./migration/) |
 | 🏷️ **Learning** | 2 | [Browse →](./learning/) |
 | 🏷️ **Px4** | 2 | [Browse →](./px4/) |
 | 🏷️ **Chrome-extension** | 2 | [Browse →](./chrome-extension/) |
@@ -574,7 +575,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Chatbot** | 1 | [Browse →](./chatbot/) |
 | 🏷️ **Sidecar** | 1 | [Browse →](./sidecar/) |
 | 🏷️ **Claude-desktop** | 1 | [Browse →](./claude-desktop/) |
-| 🏷️ **Migration** | 1 | [Browse →](./migration/) |
 | 🏷️ **Background-removal** | 1 | [Browse →](./background-removal/) |
 | 🏷️ **Dependency-management** | 1 | [Browse →](./dependency-management/) |
 | 🏷️ **Job-search** | 1 | [Browse →](./job-search/) |
