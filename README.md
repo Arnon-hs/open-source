@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43823** |
+| **Projects** | **43827** |
 | **Categories** | **598** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17629 | [Browse →](./misc/) |
+| 📦 **Misc** | 17630 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4643 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2906 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2416 | [Browse →](./orchestration/) |
@@ -38,7 +38,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 629 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 623 | [Browse →](./cloud--storage/) |
 | 🏷️ **Video-editing** | 569 | [Browse →](./video-editing/) |
-| 🏷️ **Database** | 564 | [Browse →](./database/) |
+| 🏷️ **Database** | 565 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 528 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 481 | [Browse →](./templates/) |
 | 🔐 **Security** | 459 | [Browse →](./security/) |
@@ -48,12 +48,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📊 **Data** | 345 | [Browse →](./data/) |
 | 🏷️ **Productivity** | 342 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 316 | [Browse →](./observability/) |
-| 🏷️ **Libraries--sdks** | 271 | [Browse →](./libraries--sdks/) |
+| 🏷️ **Libraries--sdks** | 272 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 188 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 148 | [Browse →](./ai/) |
-| 🏷️ **Vertical-video** | 145 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 146 | [Browse →](./vertical-video/) |
 | 🏷️ **Open-source** | 44 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 43 | [Browse →](./ai-agents/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
