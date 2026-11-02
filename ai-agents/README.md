@@ -12,8 +12,8 @@
 | 2 | [eliautobot/my-virtual-world](./eliautobot-my-virtual-world.md) | ⭐ 86 | JavaScript | 69/100 |
 | 3 | [nightly-labs/openbot](./nightly-labs-openbot.md) | ⭐ 4.5k | TypeScript | 68/100 |
 | 4 | [josegarridodigio/sluice](./josegarridodigio-sluice.md) | ⭐ 3 | Rust | 68/100 |
-| 5 | [arajgor1/verified-action-protocol](./arajgor1-verified-action-protocol.md) | ⭐ — | TypeScript | 66/100 |
-| 6 | [probita-ai/agent-work-layer](./probita-ai-agent-work-layer.md) | ⭐ — | TypeScript | 64/100 |
+| 5 | [probita-ai/agent-work-layer](./probita-ai-agent-work-layer.md) | ⭐ — | TypeScript | 64/100 |
+| 6 | [arajgor1/verified-action-protocol](./arajgor1-verified-action-protocol.md) | ⭐ — | TypeScript | 63/100 |
 | 7 | [ppcvote/mindthread-cli](./ppcvote-mindthread-cli.md) | ⭐ — | TypeScript | 63/100 |
 | 8 | [ahmad-codex/workstream-mcp](./ahmad-codex-workstream-mcp.md) | ⭐ 3 | C# | 62/100 |
 | 9 | [HMAKT99/ScBee](./hmakt99-scbee.md) | ⭐ 1 | TypeScript | 60/100 |

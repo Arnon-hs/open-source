@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43750** |
-| **Categories** | **595** |
+| **Projects** | **43756** |
+| **Categories** | **596** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17593 | [Browse →](./misc/) |
+| 📦 **Misc** | 17596 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4641 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2904 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2415 | [Browse →](./orchestration/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 187 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 145 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 146 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 143 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 44 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 43 | [Browse →](./open-source/) |
@@ -66,9 +66,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 19 | [Browse →](./local-llm/) |
 | 🏷️ **Rust** | 14 | [Browse →](./rust/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
+| 🏷️ **Android** | 13 | [Browse →](./android/) |
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
-| 🏷️ **Android** | 12 | [Browse →](./android/) |
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
 | 🏷️ **Self-hosted** | 9 | [Browse →](./self-hosted/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
@@ -212,6 +212,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Mistral** | 1 | [Browse →](./mistral/) |
 | 🏷️ **Duplicate-files** | 1 | [Browse →](./duplicate-files/) |
 | 🏷️ **Digital-archaeology** | 1 | [Browse →](./digital-archaeology/) |
 | 🏷️ **Agent-orchestrator** | 1 | [Browse →](./agent-orchestrator/) |

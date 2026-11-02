@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [octokit/octokit.js](./octokit-octokit.js.md) | ⭐ 7.9k | TypeScript | 72/100 |
+| 1 | [octokit/octokit.js](./octokit-octokit.js.md) | ⭐ 7.9k | TypeScript | 69/100 |
 | 2 | [Raga-V/judge-fangs](./raga-v-judge-fangs.md) | ⭐ — | Python | 44/100 |
 | 3 | [kernelKain/unfinished-business](./kernelkain-unfinished-business.md) | ⭐ — | TypeScript | 39/100 |
 | 4 | [Africa-Deep-Tech-Foundation/adtc-profiler](./africa-deep-tech-foundation-adtc-profiler.md) | ⭐ 22 | Python | 38/100 |

@@ -1,6 +1,6 @@
 # octokit/octokit.js
 
-[![Stars](https://img.shields.io/github/stars/octokit/octokit.js?style=flat-square&color=yellow)](https://github.com/octokit/octokit.js/stargazers) [![Forks](https://img.shields.io/github/forks/octokit/octokit.js?style=flat-square&color=blue)](https://github.com/octokit/octokit.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/octokit/octokit.js?style=flat-square&color=yellow)](https://github.com/octokit/octokit.js/stargazers) [![Forks](https://img.shields.io/github/forks/octokit/octokit.js?style=flat-square&color=blue)](https://github.com/octokit/octokit.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.9k |
 | 🍴 **Forks** | 1.3k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ hackathon · AI · GitHub · CI · open-source · decision intelligence
 
 ### English
 
-octokit/octokit.js: octokit/octokit.js may be useful when its README and activity match a concrete workflow.. Use it for hackathon, AI, GitHub, CI, open-source, decision intelligence. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+octokit/octokit.js: octokit/octokit.js may be useful when its README and activity match a concrete workflow.. Use it for hackathon, AI, GitHub, CI, open-source, decision intelligence. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-octokit/octokit.js: open-source проект в категориях hackathon, AI, GitHub, CI, open-source, decision intelligence. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+octokit/octokit.js: open-source проект в категориях hackathon, AI, GitHub, CI, open-source, decision intelligence. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-octokit/octokit.js：octokit/octokit.js may be useful when its README and activity match a concrete workflow.。适合用于hackathon、AI、GitHub、CI、open-source、decision intelligence。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+octokit/octokit.js：octokit/octokit.js may be useful when its README and activity match a concrete workflow.。适合用于hackathon、AI、GitHub、CI、open-source、decision intelligence。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ octokit/octokit.js：octokit/octokit.js may be useful when its README and activi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ octokit/octokit.js：octokit/octokit.js may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 62/100 |
-| production | 77/100 |
-| outlook | 81/100 |
+| production | 70/100 |
+| outlook | 74/100 |
 | adoption | 81/100 |
 | categoryMatchCount | 600/100 |
 | stars | 83/100 |
 | forks | 78/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
