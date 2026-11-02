@@ -1,6 +1,6 @@
 # spiderjad/SpiderFolio
 
-[![Stars](https://img.shields.io/github/stars/spiderjad/SpiderFolio?style=flat-square&color=yellow)](https://github.com/spiderjad/SpiderFolio/stargazers) [![Forks](https://img.shields.io/github/forks/spiderjad/SpiderFolio?style=flat-square&color=blue)](https://github.com/spiderjad/SpiderFolio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/spiderjad/SpiderFolio?style=flat-square&color=yellow)](https://github.com/spiderjad/SpiderFolio/stargazers) [![Forks](https://img.shields.io/github/forks/spiderjad/SpiderFolio?style=flat-square&color=blue)](https://github.com/spiderjad/SpiderFolio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, self-hosted internal documentation and document management system for small and mid-sized businesses, factories and workshops. Wiki, file library, controlled documents, QR codes. AGPLv3, Docker.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ spiderjad/SpiderFolio：spiderjad/SpiderFolio may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 61/100 |
+| outlook | 61/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 700/100 |
 | stars | 18/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

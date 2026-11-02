@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [spiderjad/SpiderFolio](./spiderjad-spiderfolio.md) | ⭐ 6 | TypeScript | 59/100 |
+| 1 | [spiderjad/SpiderFolio](./spiderjad-spiderfolio.md) | ⭐ 6 | TypeScript | 56/100 |
 
 ---
 
