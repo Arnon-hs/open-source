@@ -1,6 +1,6 @@
 # capacitor-community/admob
 
-[![Stars](https://img.shields.io/github/stars/capacitor-community/admob?style=flat-square&color=yellow)](https://github.com/capacitor-community/admob/stargazers) [![Forks](https://img.shields.io/github/forks/capacitor-community/admob?style=flat-square&color=blue)](https://github.com/capacitor-community/admob/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/capacitor-community/admob?style=flat-square&color=yellow)](https://github.com/capacitor-community/admob/stargazers) [![Forks](https://img.shields.io/github/forks/capacitor-community/admob?style=flat-square&color=blue)](https://github.com/capacitor-community/admob/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Community plugin for using Google AdMob
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 300 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ capacitor-community/admob：capacitor-community/admob may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 63/100 |
+| production | 61/100 |
+| outlook | 56/100 |
 | adoption | 52/100 |
 | categoryMatchCount | 800/100 |
 | stars | 53/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
