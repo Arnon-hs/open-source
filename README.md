@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43781** |
+| **Projects** | **43784** |
 | **Categories** | **599** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17604 | [Browse →](./misc/) |
+| 📦 **Misc** | 17605 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4641 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2905 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2415 | [Browse →](./orchestration/) |
@@ -134,6 +134,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Discord** | 2 | [Browse →](./discord/) |
+| 🏷️ **Ssh** | 2 | [Browse →](./ssh/) |
 | 🏷️ **Migration** | 2 | [Browse →](./migration/) |
 | 🏷️ **Learning** | 2 | [Browse →](./learning/) |
 | 🏷️ **Px4** | 2 | [Browse →](./px4/) |
@@ -237,7 +239,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python2** | 1 | [Browse →](./python2/) |
 | 🏷️ **Ai-development** | 1 | [Browse →](./ai-development/) |
 | 🏷️ **Web-mem** | 1 | [Browse →](./web-mem/) |
-| 🏷️ **Discord** | 1 | [Browse →](./discord/) |
 | 🏷️ **Legacy-machinery** | 1 | [Browse →](./legacy-machinery/) |
 | 🏷️ **Character-construction** | 1 | [Browse →](./character-construction/) |
 | 🏷️ **Prosemirror** | 1 | [Browse →](./prosemirror/) |
@@ -557,7 +558,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Argparse** | 1 | [Browse →](./argparse/) |
 | 🏷️ **Payment** | 1 | [Browse →](./payment/) |
 | 🏷️ **Anythingllm** | 1 | [Browse →](./anythingllm/) |
-| 🏷️ **Ssh** | 1 | [Browse →](./ssh/) |
 | 🏷️ **Trajectory** | 1 | [Browse →](./trajectory/) |
 | 🏷️ **Federated-learning** | 1 | [Browse →](./federated-learning/) |
 | 🏷️ **S7comm** | 1 | [Browse →](./s7comm/) |

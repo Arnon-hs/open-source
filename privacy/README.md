@@ -11,10 +11,10 @@
 | 1 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 44/100 |
 | 2 | [sametatakan0000-netizen/pergel](./sametatakan0000-netizen-pergel.md) | ⭐ 1 | Python | 43/100 |
 | 3 | [shrey04kaitke-sys/PhantomShellAI](./shrey04kaitke-sys-phantomshellai.md) | ⭐ — | Python | 39/100 |
-| 4 | [Abhinav-Shrivas/Ghost-in-the-machine](./abhinav-shrivas-ghost-in-the-machine.md) | ⭐ — | JavaScript | 39/100 |
-| 5 | [laiba-Ashfaq/ofrenda](./laiba-ashfaq-ofrenda.md) | ⭐ — | Python | 39/100 |
-| 6 | [jeffreyturov-dev/memoria-local](./jeffreyturov-dev-memoria-local.md) | ⭐ — | Python | 39/100 |
-| 7 | [Atharva1723/Lumbre](./atharva1723-lumbre.md) | ⭐ — | — | 36/100 |
+| 4 | [laiba-Ashfaq/ofrenda](./laiba-ashfaq-ofrenda.md) | ⭐ — | Python | 39/100 |
+| 5 | [jeffreyturov-dev/memoria-local](./jeffreyturov-dev-memoria-local.md) | ⭐ — | Python | 39/100 |
+| 6 | [Atharva1723/Lumbre](./atharva1723-lumbre.md) | ⭐ — | — | 36/100 |
+| 7 | [Abhinav-Shrivas/Ghost-in-the-machine](./abhinav-shrivas-ghost-in-the-machine.md) | ⭐ — | JavaScript | 36/100 |
 | 8 | [shivammusic/fresh-air-match](./shivammusic-fresh-air-match.md) | ⭐ — | Python | 36/100 |
 | 9 | [Bhavya4523/still-charging](./bhavya4523-still-charging.md) | ⭐ — | JavaScript | 36/100 |
 | 10 | [Priti2008/haunted-terminal-whisperer](./priti2008-haunted-terminal-whisperer.md) | ⭐ — | HTML | 33/100 |
