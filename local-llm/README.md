@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [ikaushik817-art/local-ai-tool-engine](./ikaushik817-art-local-ai-tool-engine.md) | ⭐ — | JavaScript | 50/100 |
-| 2 | [mayankinkk/rest-in-repo](./mayankinkk-rest-in-repo.md) | ⭐ — | Python | 42/100 |
+| 2 | [mayankinkk/rest-in-repo](./mayankinkk-rest-in-repo.md) | ⭐ — | Python | 39/100 |
 | 3 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
 | 4 | [Deshan217/ncode-ghostlog-ai-hf26](./deshan217-ncode-ghostlog-ai-hf26.md) | ⭐ — | Python | 36/100 |
 | 5 | [pr7426/ghost-in-the-machine](./pr7426-ghost-in-the-machine.md) | ⭐ — | Python | 36/100 |

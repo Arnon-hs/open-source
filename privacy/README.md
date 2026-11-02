@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 44/100 |
-| 2 | [sametatakan0000-netizen/pergel](./sametatakan0000-netizen-pergel.md) | ⭐ 1 | Python | 43/100 |
+| 2 | [sametatakan0000-netizen/pergel](./sametatakan0000-netizen-pergel.md) | ⭐ 1 | Python | 40/100 |
 | 3 | [shrey04kaitke-sys/PhantomShellAI](./shrey04kaitke-sys-phantomshellai.md) | ⭐ — | Python | 39/100 |
 | 4 | [laiba-Ashfaq/ofrenda](./laiba-ashfaq-ofrenda.md) | ⭐ — | Python | 39/100 |
 | 5 | [jeffreyturov-dev/memoria-local](./jeffreyturov-dev-memoria-local.md) | ⭐ — | Python | 39/100 |

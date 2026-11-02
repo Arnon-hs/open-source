@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hariomlohardev/mini-sklearn](./hariomlohardev-mini-sklearn.md) | ⭐ 1 | Python | 37/100 |
+| 1 | [niitsuma/scm2cpp](./niitsuma-scm2cpp.md) | ⭐ 1 | C++ | 51/100 |
+| 2 | [hariomlohardev/mini-sklearn](./hariomlohardev-mini-sklearn.md) | ⭐ 1 | Python | 37/100 |
 
 ---
 
