@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [santteegt/HacktoberFest2026](./santteegt-hacktoberfest2026.md) | ⭐ — | Python | 36/100 |
+| 1 | [santteegt/HacktoberFest2026](./santteegt-hacktoberfest2026.md) | ⭐ — | Python | 33/100 |
 
 ---
 

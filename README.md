@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43759** |
-| **Categories** | **596** |
+| **Projects** | **43763** |
+| **Categories** | **598** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17597 | [Browse →](./misc/) |
+| 📦 **Misc** | 17598 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4641 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2905 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2415 | [Browse →](./orchestration/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 187 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 146 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 147 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 143 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 44 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 43 | [Browse →](./open-source/) |
@@ -212,6 +212,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Linter** | 1 | [Browse →](./linter/) |
+| 🏷️ **Address-data** | 1 | [Browse →](./address-data/) |
 | 🏷️ **Mistral** | 1 | [Browse →](./mistral/) |
 | 🏷️ **Duplicate-files** | 1 | [Browse →](./duplicate-files/) |
 | 🏷️ **Digital-archaeology** | 1 | [Browse →](./digital-archaeology/) |

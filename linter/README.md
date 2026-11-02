@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bayuh85/tastelint](./bayuh85-tastelint.md) | ⭐ — | Python | 48/100 |
+| 1 | [Felixwang007/awesome-content-tools](./felixwang007-awesome-content-tools.md) | ⭐ — | Python | 52/100 |
 
 ---
 
