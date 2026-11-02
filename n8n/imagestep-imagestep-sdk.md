@@ -1,6 +1,6 @@
 # imagestep/imagestep-sdk
 
-[![Stars](https://img.shields.io/github/stars/imagestep/imagestep-sdk?style=flat-square&color=yellow)](https://github.com/imagestep/imagestep-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/imagestep/imagestep-sdk?style=flat-square&color=blue)](https://github.com/imagestep/imagestep-sdk/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/imagestep/imagestep-sdk?style=flat-square&color=yellow)](https://github.com/imagestep/imagestep-sdk/stargazers) [![Forks](https://img.shields.io/github/forks/imagestep/imagestep-sdk?style=flat-square&color=blue)](https://github.com/imagestep/imagestep-sdk/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > ImageStep's clients: the JavaScript and Python SDKs, the CLI, the MCP server, the n8n node and recipes. The image step for your automations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ imagestep/imagestep-sdk：imagestep/imagestep-sdk may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 94/100 |
-| production | 71/100 |
-| outlook | 74/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

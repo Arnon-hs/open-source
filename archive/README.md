@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aniket-work/FolioSchema](./aniket-work-folioschema.md) | ⭐ — | Python | 39/100 |
+| 1 | [aniket-work/FolioSchema](./aniket-work-folioschema.md) | ⭐ — | Python | 36/100 |
 
 ---
 

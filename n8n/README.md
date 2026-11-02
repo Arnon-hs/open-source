@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [imagestep/imagestep-sdk](./imagestep-imagestep-sdk.md) | ⭐ 1 | JavaScript | 74/100 |
+| 1 | [imagestep/imagestep-sdk](./imagestep-imagestep-sdk.md) | ⭐ 1 | JavaScript | 71/100 |
 | 2 | [operantsolo-com/n8n-free-workflow-templates](./operantsolo-com-n8n-free-workflow-templates.md) | ⭐ — | JavaScript | 57/100 |
 | 3 | [memorysyncio/n8n-nodes-memorysync](./memorysyncio-n8n-nodes-memorysync.md) | ⭐ — | JavaScript | 34/100 |
 | 4 | [muhammad-zulqarnain-awan/n8n-on-vercel](./muhammad-zulqarnain-awan-n8n-on-vercel.md) | ⭐ 2 | JavaScript | 32/100 |
