@@ -2,7 +2,7 @@
 
 > 
 
-**44 projects** in this category.
+**45 projects** in this category.
 
 ## Projects
 
@@ -41,17 +41,18 @@
 | 31 | [krishsf5/Graph-Hack-Hackathon-Team-7vengers](./krishsf5-graph-hack-hackathon-team-7vengers.md) | ⭐ 1 | JavaScript | 31/100 |
 | 32 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 30/100 |
 | 33 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 30/100 |
-| 34 | [agent-colony/join-agent](./agent-colony-join-agent.md) | ⭐ — | — | 28/100 |
-| 35 | [holistis/capacity-attest](./holistis-capacity-attest.md) | ⭐ — | — | 24/100 |
-| 36 | [openai/openclaw](./openai-openclaw.md) | ⭐ — | — | 24/100 |
-| 37 | [yourrepo/browser-use](./yourrepo-browser-use.md) | ⭐ — | — | 24/100 |
-| 38 | [falkor-db/falkor-db](./falkor-db-falkor-db.md) | ⭐ — | — | 24/100 |
-| 39 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
-| 40 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
-| 41 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
-| 42 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
-| 43 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
-| 44 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
+| 34 | [NVIDIA/NeMo-Agents](./nvidia-nemo-agents.md) | ⭐ — | — | 28/100 |
+| 35 | [agent-colony/join-agent](./agent-colony-join-agent.md) | ⭐ — | — | 28/100 |
+| 36 | [holistis/capacity-attest](./holistis-capacity-attest.md) | ⭐ — | — | 24/100 |
+| 37 | [openai/openclaw](./openai-openclaw.md) | ⭐ — | — | 24/100 |
+| 38 | [yourrepo/browser-use](./yourrepo-browser-use.md) | ⭐ — | — | 24/100 |
+| 39 | [falkor-db/falkor-db](./falkor-db-falkor-db.md) | ⭐ — | — | 24/100 |
+| 40 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
+| 41 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
+| 42 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
+| 43 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
+| 44 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
+| 45 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
 
 ---
 
