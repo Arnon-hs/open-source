@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [dsherret/ts-morph](./dsherret-ts-morph.md) | ⭐ 6.2k | TypeScript | 70/100 |
 | 2 | [amirhosseinkz/plane-workflow-mcp](./amirhosseinkz-plane-workflow-mcp.md) | ⭐ 6 | Python | 69/100 |
-| 3 | [XiaoArnav/necrogit](./xiaoarnav-necrogit.md) | ⭐ 1 | Python | 51/100 |
+| 3 | [XiaoArnav/necrogit](./xiaoarnav-necrogit.md) | ⭐ 1 | Python | 48/100 |
 | 4 | [NFRION/git-ghost](./nfrion-git-ghost.md) | ⭐ — | Python | 46/100 |
 | 5 | [abdulbsds25seecs-cloud/time-of-death](./abdulbsds25seecs-cloud-time-of-death.md) | ⭐ — | JavaScript | 39/100 |
 | 6 | [AryanSharma9917/repogeist](./aryansharma9917-repogeist.md) | ⭐ — | Python | 39/100 |

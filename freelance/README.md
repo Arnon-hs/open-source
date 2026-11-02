@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [VIKRAM-009/quotecraft](./vikram-009-quotecraft.md) | ⭐ — | Python | 36/100 |
-| 2 | [mannubaveja007/Syapa](./mannubaveja007-syapa.md) | ⭐ — | JavaScript | 33/100 |
+| 1 | [mannubaveja007/Syapa](./mannubaveja007-syapa.md) | ⭐ — | JavaScript | 33/100 |
+| 2 | [VIKRAM-009/quotecraft](./vikram-009-quotecraft.md) | ⭐ — | Python | 33/100 |
 | 3 | [RajJasani/contractguard](./rajjasani-contractguard.md) | ⭐ — | Python | 33/100 |
 | 4 | [radhikaaa25/ScopeGuard](./radhikaaa25-scopeguard.md) | ⭐ — | TypeScript | 33/100 |
 | 5 | [Aryan1092raj/ScopeShield](./aryan1092raj-scopeshield.md) | ⭐ — | Python | 33/100 |
