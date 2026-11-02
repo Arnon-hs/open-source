@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kaezee/Augur](./kaezee-augur.md) | ⭐ 5 | TypeScript | 54/100 |
+| 1 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 14 | TypeScript | 52/100 |
 
 ---
 
