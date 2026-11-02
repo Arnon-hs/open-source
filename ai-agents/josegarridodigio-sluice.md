@@ -1,6 +1,6 @@
 # josegarridodigio/sluice
 
-[![Stars](https://img.shields.io/github/stars/josegarridodigio/sluice?style=flat-square&color=yellow)](https://github.com/josegarridodigio/sluice/stargazers) [![Forks](https://img.shields.io/github/forks/josegarridodigio/sluice?style=flat-square&color=blue)](https://github.com/josegarridodigio/sluice/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/josegarridodigio/sluice?style=flat-square&color=yellow)](https://github.com/josegarridodigio/sluice/stargazers) [![Forks](https://img.shields.io/github/forks/josegarridodigio/sluice?style=flat-square&color=blue)](https://github.com/josegarridodigio/sluice/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > Verify each git tree once. A stack-agnostic verification queue and cache for parallel coding agents: bounded concurrency, per-tree result cache, request coalescing, CLI for git hooks and an MCP server for agents. Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ josegarridodigio/sluice：josegarridodigio/sluice may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 74/100 |
+| production | 60/100 |
+| outlook | 67/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43787** |
+| **Projects** | **43792** |
 | **Categories** | **599** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17607 | [Browse →](./misc/) |
+| 📦 **Misc** | 17611 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4641 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2905 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2415 | [Browse →](./orchestration/) |
@@ -72,6 +72,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
 | 🏷️ **Self-hosted** | 9 | [Browse →](./self-hosted/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
+| 🏷️ **Terminal** | 7 | [Browse →](./terminal/) |
 | 🏷️ **Macos** | 7 | [Browse →](./macos/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
 | 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
@@ -81,7 +82,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline-ai** | 6 | [Browse →](./offline-ai/) |
 | 🏷️ **Windows** | 6 | [Browse →](./windows/) |
 | 🏷️ **Python** | 6 | [Browse →](./python/) |
-| 🏷️ **Terminal** | 6 | [Browse →](./terminal/) |
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |

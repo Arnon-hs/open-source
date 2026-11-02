@@ -11,7 +11,7 @@
 | 1 | [hubzoid/hubzoid](./hubzoid-hubzoid.md) | ⭐ 15 | Python | 71/100 |
 | 2 | [eliautobot/my-virtual-world](./eliautobot-my-virtual-world.md) | ⭐ 86 | JavaScript | 69/100 |
 | 3 | [nightly-labs/openbot](./nightly-labs-openbot.md) | ⭐ 4.5k | TypeScript | 68/100 |
-| 4 | [josegarridodigio/sluice](./josegarridodigio-sluice.md) | ⭐ 3 | Rust | 68/100 |
+| 4 | [josegarridodigio/sluice](./josegarridodigio-sluice.md) | ⭐ 3 | Rust | 65/100 |
 | 5 | [probita-ai/agent-work-layer](./probita-ai-agent-work-layer.md) | ⭐ — | TypeScript | 64/100 |
 | 6 | [arajgor1/verified-action-protocol](./arajgor1-verified-action-protocol.md) | ⭐ — | TypeScript | 63/100 |
 | 7 | [ppcvote/mindthread-cli](./ppcvote-mindthread-cli.md) | ⭐ — | TypeScript | 63/100 |
