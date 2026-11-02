@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43903** |
+| **Projects** | **43907** |
 | **Categories** | **605** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17673 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4644 | [Browse →](./aiml/) |
+| 📦 **Misc** | 17674 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4646 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2907 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2418 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1611 | [Browse →](./devtools/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 566 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 530 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 481 | [Browse →](./templates/) |
-| 🔐 **Security** | 460 | [Browse →](./security/) |
+| 🔐 **Security** | 461 | [Browse →](./security/) |
 | 🏷️ **Communication** | 459 | [Browse →](./communication/) |
 | 💳 **Payments** | 375 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 348 | [Browse →](./games--graphics/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 188 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 147 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 149 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 146 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 45 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 45 | [Browse →](./open-source/) |
@@ -65,10 +65,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 19 | [Browse →](./local-llm/) |
 | 🏷️ **Android** | 16 | [Browse →](./android/) |
-| 🏷️ **Rust** | 14 | [Browse →](./rust/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
+| 🏷️ **Rust** | 12 | [Browse →](./rust/) |
 | 🏷️ **Claude-code** | 10 | [Browse →](./claude-code/) |
 | 🏷️ **Aws** | 9 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
@@ -221,6 +221,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Gnome** | 1 | [Browse →](./gnome/) |
 | 🏷️ **Voice-agent** | 1 | [Browse →](./voice-agent/) |
 | 🏷️ **Compiler** | 1 | [Browse →](./compiler/) |
 | 🏷️ **Daily-loop** | 1 | [Browse →](./daily-loop/) |
@@ -343,7 +344,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Wayback-machine** | 1 | [Browse →](./wayback-machine/) |
 | 🏷️ **Agent-skill-security** | 1 | [Browse →](./agent-skill-security/) |
 | 🏷️ **Email-validation** | 1 | [Browse →](./email-validation/) |
-| 🏷️ **Fine-tuning** | 1 | [Browse →](./fine-tuning/) |
 | 🏷️ **Logistics** | 1 | [Browse →](./logistics/) |
 | 🏷️ **Osint** | 1 | [Browse →](./osint/) |
 | 🏷️ **Zero-trust** | 1 | [Browse →](./zero-trust/) |

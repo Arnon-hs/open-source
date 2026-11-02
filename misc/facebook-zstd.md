@@ -1,6 +1,6 @@
 # facebook/zstd
 
-[![Stars](https://img.shields.io/github/stars/facebook/zstd?style=flat-square&color=yellow)](https://github.com/facebook/zstd/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/zstd?style=flat-square&color=blue)](https://github.com/facebook/zstd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-90%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/facebook/zstd?style=flat-square&color=yellow)](https://github.com/facebook/zstd/stargazers) [![Forks](https://img.shields.io/github/forks/facebook/zstd?style=flat-square&color=blue)](https://github.com/facebook/zstd/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Zstandard - Fast real-time compression algorithm
 
@@ -8,12 +8,12 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27.1k |
-| 🍴 **Forks** | 2.5k |
+| ⭐ **Stars** | 28.1k |
+| 🍴 **Forks** | 2.7k |
 | 💻 **Language** | C |
-| 📈 **Score** | 90/100 |
-| 🗓️ **Last push** | — |
-| 🔍 **Source** | github |
+| 📈 **Score** | 60/100 |
+| 🗓️ **Last push** | 2026-10-26 |
+| 🔍 **Source** | story-link |
 
 ## 🏷️ Topics
 
@@ -25,8 +25,56 @@ Misc
 
 ## 📝 Summary
 
-The facebook/zstd project is an open-source implementation of the Zstandard (zstd) compression algorithm, designed for fast and efficient real-time compression. Developed by Facebook, this compression library provides high speeds and compression ratios, making it suitable for various applications and use cases. It is a highly optimized and widely adopted compression solution.
+### English
+
+facebook/zstd: facebook/zstd may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+facebook/zstd: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+facebook/zstd：facebook/zstd may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** facebook/zstd may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- Not enough metadata yet.
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 28099 GitHub stars
+- 2654 forks
+- updated 2026-10-26
+- primary language: C
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 86/100 |
+| stars | 95/100 |
+| topics | 0/100 |
+| outlook | 66/100 |
+| quality | 72/100 |
+| recency | 80/100 |
+| adoption | 92/100 |
+| production | 66/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
+| sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-04-25 · [View on GitHub](https://github.com/facebook/zstd) · [← Back to Misc](./README.md)</sub>
+<sub>🔭 Discovered 2026-10-26 · [View on GitHub](https://github.com/facebook/zstd) · [← Back to Misc](./README.md)</sub>
