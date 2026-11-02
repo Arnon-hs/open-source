@@ -1,6 +1,6 @@
 # Dweep4269/sideraven
 
-[![Stars](https://img.shields.io/github/stars/Dweep4269/sideraven?style=flat-square&color=yellow)](https://github.com/Dweep4269/sideraven/stargazers) [![Forks](https://img.shields.io/github/forks/Dweep4269/sideraven?style=flat-square&color=blue)](https://github.com/Dweep4269/sideraven/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dweep4269/sideraven?style=flat-square&color=yellow)](https://github.com/Dweep4269/sideraven/stargazers) [![Forks](https://img.shields.io/github/forks/Dweep4269/sideraven?style=flat-square&color=blue)](https://github.com/Dweep4269/sideraven/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Iceraven fork with a Zen Browser- inspired vertical tab sidebar for Android tablets (not affiliated with Zen Browser or Mozilla)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 151 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Dweep4269/sideraven：Dweep4269/sideraven may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 66/100 |
-| outlook | 69/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 39/100 |
 | categoryMatchCount | 800/100 |
 | stars | 46/100 |
 | forks | 21/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

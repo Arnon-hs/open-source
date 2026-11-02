@@ -1,6 +1,6 @@
 # enzococca/pyarchinit-photogrammetry
 
-[![Stars](https://img.shields.io/github/stars/enzococca/pyarchinit-photogrammetry?style=flat-square&color=yellow)](https://github.com/enzococca/pyarchinit-photogrammetry/stargazers) [![Forks](https://img.shields.io/github/forks/enzococca/pyarchinit-photogrammetry?style=flat-square&color=blue)](https://github.com/enzococca/pyarchinit-photogrammetry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/enzococca/pyarchinit-photogrammetry?style=flat-square&color=yellow)](https://github.com/enzococca/pyarchinit-photogrammetry/stargazers) [![Forks](https://img.shields.io/github/forks/enzococca/pyarchinit-photogrammetry?style=flat-square&color=blue)](https://github.com/enzococca/pyarchinit-photogrammetry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > photogrammetry, python, rust, computer-vision, structure-from-motion, 3d-reconstruction, archaeology, gis, open-source
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ enzococca/pyarchinit-photogrammetry：enzococca/pyarchinit-photogrammetry may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 41/100 |
+| quality | 36/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 53/100 |
+| production | 53/100 |
+| outlook | 46/100 |
 | adoption | 12/100 |
 | categoryMatchCount | 700/100 |
 | stars | 17/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

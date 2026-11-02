@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43860** |
-| **Categories** | **599** |
+| **Projects** | **43870** |
+| **Categories** | **601** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17655 | [Browse →](./misc/) |
+| 📦 **Misc** | 17658 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4643 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2907 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2416 | [Browse →](./orchestration/) |
@@ -46,7 +46,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 💳 **Payments** | 375 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 348 | [Browse →](./games--graphics/) |
 | 📊 **Data** | 345 | [Browse →](./data/) |
-| 🏷️ **Productivity** | 342 | [Browse →](./productivity/) |
+| 🏷️ **Productivity** | 343 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 317 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 272 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
@@ -61,10 +61,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 27 | [Browse →](./privacy/) |
-| 🏷️ **Llm** | 22 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 23 | [Browse →](./llm/) |
 | 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 19 | [Browse →](./local-llm/) |
-| 🏷️ **Android** | 14 | [Browse →](./android/) |
+| 🏷️ **Android** | 16 | [Browse →](./android/) |
 | 🏷️ **Rust** | 14 | [Browse →](./rust/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
@@ -132,6 +132,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Reverse-engineering** | 2 | [Browse →](./reverse-engineering/) |
 | 🏷️ **Invoice** | 2 | [Browse →](./invoice/) |
 | 🏷️ **Machine-learning** | 2 | [Browse →](./machine-learning/) |
 | 🏷️ **Discord** | 2 | [Browse →](./discord/) |
@@ -216,6 +217,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Biometric** | 1 | [Browse →](./biometric/) |
 | 🏷️ **Go** | 1 | [Browse →](./go/) |
 | 🏷️ **Confidence-routing** | 1 | [Browse →](./confidence-routing/) |
 | 🏷️ **React** | 1 | [Browse →](./react/) |

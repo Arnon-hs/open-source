@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [electron/fiddle](./electron-fiddle.md) | ⭐ 7.8k | TypeScript | 60/100 |
+| 1 | [rootcastleco/rei-skills](./rootcastleco-rei-skills.md) | ⭐ 7 | Python | 73/100 |
+| 2 | [rootcastleco/Rei-Reverse-engineer](./rootcastleco-rei-reverse-engineer.md) | ⭐ — | Python | 59/100 |
 
 ---
 
