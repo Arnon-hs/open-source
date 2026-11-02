@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43843** |
+| **Projects** | **43857** |
 | **Categories** | **599** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17642 | [Browse →](./misc/) |
+| 📦 **Misc** | 17654 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4643 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2906 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2907 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2416 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1610 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1501 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1502 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 903 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 814 | [Browse →](./crypto/) |
@@ -38,7 +38,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 629 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 623 | [Browse →](./cloud--storage/) |
 | 🏷️ **Video-editing** | 569 | [Browse →](./video-editing/) |
-| 🏷️ **Database** | 565 | [Browse →](./database/) |
+| 🏷️ **Database** | 566 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 528 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 481 | [Browse →](./templates/) |
 | 🔐 **Security** | 459 | [Browse →](./security/) |
@@ -54,8 +54,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 148 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 146 | [Browse →](./vertical-video/) |
-| 🏷️ **Open-source** | 44 | [Browse →](./open-source/) |
-| 🏷️ **Ai-agents** | 43 | [Browse →](./ai-agents/) |
+| 🏷️ **Open-source** | 45 | [Browse →](./open-source/) |
+| 🏷️ **Ai-agents** | 44 | [Browse →](./ai-agents/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
@@ -122,8 +122,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Webview** | 3 | [Browse →](./webview/) |
 | 🏷️ **Secret-scanning** | 3 | [Browse →](./secret-scanning/) |
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
-| 🏷️ **Asr** | 3 | [Browse →](./asr/) |
-| 🏷️ **Api** | 3 | [Browse →](./api/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
@@ -172,6 +170,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Pst** | 2 | [Browse →](./pst/) |
 | 🏷️ **Nestjs** | 2 | [Browse →](./nestjs/) |
 | 🏷️ **Fileorganizer** | 2 | [Browse →](./fileorganizer/) |
+| 🏷️ **Api** | 2 | [Browse →](./api/) |
 | 🏷️ **Screenshot-management** | 2 | [Browse →](./screenshot-management/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
 | 🏷️ **Postgres** | 2 | [Browse →](./postgres/) |
@@ -217,6 +216,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Go** | 1 | [Browse →](./go/) |
 | 🏷️ **Confidence-routing** | 1 | [Browse →](./confidence-routing/) |
 | 🏷️ **React** | 1 | [Browse →](./react/) |
 | 🏷️ **Video-production** | 1 | [Browse →](./video-production/) |

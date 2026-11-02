@@ -260,9 +260,9 @@
 | 250 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 406 | HTML | 50/100 |
 | 251 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 500 | — | 50/100 |
 | 252 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 122 | Rust | 50/100 |
-| 253 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
+| 253 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 254 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 255 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 255 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
 | 256 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 272 | Rust | 50/100 |
 | 257 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 511 | JavaScript | 50/100 |
 | 258 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 50/100 |
@@ -443,8 +443,8 @@
 | 433 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ — | — | 38/100 |
 | 434 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ — | — | 38/100 |
 | 435 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ — | — | 38/100 |
-| 436 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 38/100 |
-| 437 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ — | — | 38/100 |
+| 436 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ — | — | 38/100 |
+| 437 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ — | — | 38/100 |
 | 438 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ — | — | 38/100 |
 | 439 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ — | — | 38/100 |
 | 440 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ — | — | 38/100 |
