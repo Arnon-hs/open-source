@@ -2,7 +2,7 @@
 
 > 
 
-**316 projects** in this category.
+**317 projects** in this category.
 
 ## Projects
 
@@ -323,7 +323,8 @@
 | 313 | [Claven07/dsh-plugin-agent-insights](./claven07-dsh-plugin-agent-insights.md) | ⭐ — | TypeScript | 38/100 |
 | 314 | [AyushSingh110/Failure_Intelligence_System](./ayushsingh110-failure-intelligence-system.md) | ⭐ 4 | Jupyter Notebook | 35/100 |
 | 315 | [SushrutVaidya/loglens](./sushrutvaidya-loglens.md) | ⭐ 1 | Java | 31/100 |
-| 316 | [Claven07/cordis](./claven07-cordis.md) | ⭐ — | — | 24/100 |
+| 316 | [graphile/graphile-worker](./graphile-graphile-worker.md) | ⭐ — | — | 24/100 |
+| 317 | [Claven07/cordis](./claven07-cordis.md) | ⭐ — | — | 24/100 |
 
 ---
 

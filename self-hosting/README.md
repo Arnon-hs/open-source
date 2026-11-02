@@ -2,19 +2,21 @@
 
 > 
 
-**7 projects** in this category.
+**9 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vercel/nixpacks](./vercel-nixpacks.md) | ⭐ — | — | 24/100 |
-| 2 | [openai/openhands](./openai-openhands.md) | ⭐ — | — | 24/100 |
-| 3 | [coolifyhq/coolify](./coolifyhq-coolify.md) | ⭐ — | — | 24/100 |
-| 4 | [ggerganov/ggml](./ggerganov-ggml.md) | ⭐ — | — | 24/100 |
-| 5 | [yourusername/layerchart](./yourusername-layerchart.md) | ⭐ — | — | 24/100 |
-| 6 | [yourusername/glance](./yourusername-glance.md) | ⭐ — | — | 24/100 |
-| 7 | [crawl4ai/crawl4ai](./crawl4ai-crawl4ai.md) | ⭐ — | — | 24/100 |
+| 1 | [tradingview/lightweight-charts](./tradingview-lightweight-charts.md) | ⭐ 17.7k | TypeScript | 67/100 |
+| 2 | [ordercraft-hq/terminal](./ordercraft-hq-terminal.md) | ⭐ 1 | TypeScript | 56/100 |
+| 3 | [vercel/nixpacks](./vercel-nixpacks.md) | ⭐ — | — | 24/100 |
+| 4 | [openai/openhands](./openai-openhands.md) | ⭐ — | — | 24/100 |
+| 5 | [coolifyhq/coolify](./coolifyhq-coolify.md) | ⭐ — | — | 24/100 |
+| 6 | [ggerganov/ggml](./ggerganov-ggml.md) | ⭐ — | — | 24/100 |
+| 7 | [yourusername/layerchart](./yourusername-layerchart.md) | ⭐ — | — | 24/100 |
+| 8 | [yourusername/glance](./yourusername-glance.md) | ⭐ — | — | 24/100 |
+| 9 | [crawl4ai/crawl4ai](./crawl4ai-crawl4ai.md) | ⭐ — | — | 24/100 |
 
 ---
 

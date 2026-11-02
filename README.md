@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43827** |
+| **Projects** | **43832** |
 | **Categories** | **598** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17630 | [Browse →](./misc/) |
+| 📦 **Misc** | 17633 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4643 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2906 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2416 | [Browse →](./orchestration/) |
@@ -43,11 +43,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Templates** | 481 | [Browse →](./templates/) |
 | 🔐 **Security** | 459 | [Browse →](./security/) |
 | 🏷️ **Communication** | 458 | [Browse →](./communication/) |
-| 💳 **Payments** | 374 | [Browse →](./payments/) |
+| 💳 **Payments** | 375 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 348 | [Browse →](./games--graphics/) |
 | 📊 **Data** | 345 | [Browse →](./data/) |
 | 🏷️ **Productivity** | 342 | [Browse →](./productivity/) |
-| 🏷️ **Observability** | 316 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 317 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 272 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 188 | [Browse →](./design/) |
@@ -70,16 +70,16 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Claude-code** | 10 | [Browse →](./claude-code/) |
+| 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
 | 🏷️ **Self-hosted** | 9 | [Browse →](./self-hosted/) |
+| 🏷️ **N8n** | 8 | [Browse →](./n8n/) |
 | 🏷️ **Macos** | 8 | [Browse →](./macos/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Python** | 7 | [Browse →](./python/) |
 | 🏷️ **Cli** | 7 | [Browse →](./cli/) |
 | 🏷️ **Terminal** | 7 | [Browse →](./terminal/) |
 | 🏷️ **Aws** | 7 | [Browse →](./aws/) |
-| 🏷️ **N8n** | 7 | [Browse →](./n8n/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
-| 🏷️ **Self-hosting** | 7 | [Browse →](./self-hosting/) |
 | 🏷️ **Offline-ai** | 6 | [Browse →](./offline-ai/) |
 | 🏷️ **Windows** | 6 | [Browse →](./windows/) |
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
@@ -124,7 +124,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Asr** | 3 | [Browse →](./asr/) |
 | 🏷️ **Api** | 3 | [Browse →](./api/) |
-| 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
 | 🏷️ **Restaurant** | 3 | [Browse →](./restaurant/) |
 | 🏷️ **Multi-agent** | 3 | [Browse →](./multi-agent/) |
 | 🏷️ **E-commerce** | 3 | [Browse →](./e-commerce/) |
@@ -150,7 +149,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Browser-based-ai** | 2 | [Browse →](./browser-based-ai/) |
 | 🏷️ **Sandbox** | 2 | [Browse →](./sandbox/) |
 | 🏷️ **Code-search** | 2 | [Browse →](./code-search/) |
-| 🏷️ **Django** | 2 | [Browse →](./django/) |
 | 🏷️ **Spring-boot** | 2 | [Browse →](./spring-boot/) |
 | 🏷️ **Ocr** | 2 | [Browse →](./ocr/) |
 | 🏷️ **Word-processing** | 2 | [Browse →](./word-processing/) |
@@ -173,7 +171,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Encryption** | 2 | [Browse →](./encryption/) |
 | 🏷️ **Pst** | 2 | [Browse →](./pst/) |
 | 🏷️ **Nestjs** | 2 | [Browse →](./nestjs/) |
-| 🏷️ **Invoice-processing** | 2 | [Browse →](./invoice-processing/) |
 | 🏷️ **Fileorganizer** | 2 | [Browse →](./fileorganizer/) |
 | 🏷️ **Screenshot-management** | 2 | [Browse →](./screenshot-management/) |
 | 🏷️ **Ai-coding** | 2 | [Browse →](./ai-coding/) |
@@ -181,6 +178,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Raspberry-pi** | 2 | [Browse →](./raspberry-pi/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
 | 🏷️ **Flaky-tests** | 2 | [Browse →](./flaky-tests/) |
+| 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Matrixos** | 2 | [Browse →](./matrixos/) |
 | 🏷️ **Github-copilot** | 2 | [Browse →](./github-copilot/) |
 | 🏷️ **Cybersecurity** | 2 | [Browse →](./cybersecurity/) |
@@ -219,6 +217,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Video-production** | 1 | [Browse →](./video-production/) |
 | 🏷️ **Design-system** | 1 | [Browse →](./design-system/) |
 | 🏷️ **Linter** | 1 | [Browse →](./linter/) |
 | 🏷️ **Address-data** | 1 | [Browse →](./address-data/) |
@@ -266,6 +265,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Localization** | 1 | [Browse →](./localization/) |
 | 🏷️ **Habit-tracking** | 1 | [Browse →](./habit-tracking/) |
 | 🏷️ **In-repo-board** | 1 | [Browse →](./in-repo-board/) |
+| 🏷️ **Django** | 1 | [Browse →](./django/) |
 | 🏷️ **Model-retirement** | 1 | [Browse →](./model-retirement/) |
 | 🏷️ **Evoting** | 1 | [Browse →](./evoting/) |
 | 🏷️ **Vision** | 1 | [Browse →](./vision/) |
@@ -336,7 +336,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Logistics** | 1 | [Browse →](./logistics/) |
 | 🏷️ **Bun** | 1 | [Browse →](./bun/) |
 | 🏷️ **Osint** | 1 | [Browse →](./osint/) |
-| 🏷️ **Ontology** | 1 | [Browse →](./ontology/) |
 | 🏷️ **Zero-trust** | 1 | [Browse →](./zero-trust/) |
 | 🏷️ **Newsletter** | 1 | [Browse →](./newsletter/) |
 | 🏷️ **Youtube** | 1 | [Browse →](./youtube/) |
@@ -400,6 +399,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Flutter** | 1 | [Browse →](./flutter/) |
 | 🏷️ **Whatsapp-bot** | 1 | [Browse →](./whatsapp-bot/) |
 | 🏷️ **Photography** | 1 | [Browse →](./photography/) |
+| 🏷️ **Invoice-processing** | 1 | [Browse →](./invoice-processing/) |
 | 🏷️ **Archive** | 1 | [Browse →](./archive/) |
 | 🏷️ **Artisans** | 1 | [Browse →](./artisans/) |
 | 🏷️ **Finance** | 1 | [Browse →](./finance/) |
