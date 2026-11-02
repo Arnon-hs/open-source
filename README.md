@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43834** |
+| **Projects** | **43843** |
 | **Categories** | **599** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17634 | [Browse →](./misc/) |
+| 📦 **Misc** | 17642 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4643 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2906 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2416 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1609 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1610 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1501 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 903 | [Browse →](./frontend/) |
@@ -217,6 +217,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Confidence-routing** | 1 | [Browse →](./confidence-routing/) |
 | 🏷️ **React** | 1 | [Browse →](./react/) |
 | 🏷️ **Video-production** | 1 | [Browse →](./video-production/) |
 | 🏷️ **Design-system** | 1 | [Browse →](./design-system/) |
@@ -335,7 +336,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cicd** | 1 | [Browse →](./cicd/) |
 | 🏷️ **Ipad** | 1 | [Browse →](./ipad/) |
 | 🏷️ **Logistics** | 1 | [Browse →](./logistics/) |
-| 🏷️ **Bun** | 1 | [Browse →](./bun/) |
 | 🏷️ **Osint** | 1 | [Browse →](./osint/) |
 | 🏷️ **Zero-trust** | 1 | [Browse →](./zero-trust/) |
 | 🏷️ **Newsletter** | 1 | [Browse →](./newsletter/) |
