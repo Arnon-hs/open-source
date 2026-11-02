@@ -1,6 +1,6 @@
 # deeprdai21-ai/practical-claude-skills
 
-[![Stars](https://img.shields.io/github/stars/deeprdai21-ai/practical-claude-skills?style=flat-square&color=yellow)](https://github.com/deeprdai21-ai/practical-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/deeprdai21-ai/practical-claude-skills?style=flat-square&color=blue)](https://github.com/deeprdai21-ai/practical-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deeprdai21-ai/practical-claude-skills?style=flat-square&color=yellow)](https://github.com/deeprdai21-ai/practical-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/deeprdai21-ai/practical-claude-skills?style=flat-square&color=blue)](https://github.com/deeprdai21-ai/practical-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Free Claude skills: reorder list from stock exports, and a claim-by-claim fact-checker. The scripts do the maths.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ deeprdai21-ai/practical-claude-skills：deeprdai21-ai/practical-claude-skills ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

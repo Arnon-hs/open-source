@@ -1,6 +1,6 @@
 # vyquocvu/rillio
 
-[![Stars](https://img.shields.io/github/stars/vyquocvu/rillio?style=flat-square&color=yellow)](https://github.com/vyquocvu/rillio/stargazers) [![Forks](https://img.shields.io/github/forks/vyquocvu/rillio?style=flat-square&color=blue)](https://github.com/vyquocvu/rillio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vyquocvu/rillio?style=flat-square&color=yellow)](https://github.com/vyquocvu/rillio/stargazers) [![Forks](https://img.shields.io/github/forks/vyquocvu/rillio?style=flat-square&color=blue)](https://github.com/vyquocvu/rillio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Rillio is an experimental addressable-DOM runtime. It preserves familiar JSX authoring, while DOM identity, structure, ownership, and lifecycle are owned by a Flat Index rather than by a Virtual DOM tree.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ vyquocvu/rillio：vyquocvu/rillio may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 52/100 |
+| production | 52/100 |
+| outlook | 45/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
