@@ -26,7 +26,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📦 **Misc** | 17673 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4644 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2907 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2417 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2418 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1611 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1502 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 188 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 148 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 147 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 146 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 45 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 45 | [Browse →](./open-source/) |
