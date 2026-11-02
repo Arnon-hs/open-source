@@ -14,7 +14,7 @@
 | 4 | [stateway-io/fly-swe](./stateway-io-fly-swe.md) | ⭐ — | Python | 56/100 |
 | 5 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 51/100 |
 | 6 | [OddlyGoods/peep-note](./oddlygoods-peep-note.md) | ⭐ — | TypeScript | 42/100 |
-| 7 | [T-RexBytes/phantom-packages](./t-rexbytes-phantom-packages.md) | ⭐ — | Python | 39/100 |
+| 7 | [T-RexBytes/phantom-packages](./t-rexbytes-phantom-packages.md) | ⭐ — | Python | 36/100 |
 | 8 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 32/100 |
 | 9 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 30/100 |
 | 10 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 30/100 |
