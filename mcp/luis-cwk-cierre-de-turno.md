@@ -1,6 +1,6 @@
 # Luis-Cwk/cierre-de-turno
 
-[![Stars](https://img.shields.io/github/stars/Luis-Cwk/cierre-de-turno?style=flat-square&color=yellow)](https://github.com/Luis-Cwk/cierre-de-turno/stargazers) [![Forks](https://img.shields.io/github/forks/Luis-Cwk/cierre-de-turno?style=flat-square&color=blue)](https://github.com/Luis-Cwk/cierre-de-turno/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Luis-Cwk/cierre-de-turno?style=flat-square&color=yellow)](https://github.com/Luis-Cwk/cierre-de-turno/stargazers) [![Forks](https://img.shields.io/github/forks/Luis-Cwk/cierre-de-turno?style=flat-square&color=blue)](https://github.com/Luis-Cwk/cierre-de-turno/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A 30-second voice note that closes your workday, from your public GitHub activity. Web free, MCP with one-time x402 payment.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Luis-Cwk/cierre-de-turno：Luis-Cwk/cierre-de-turno helps connect AI assistants 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 54/100 |
+| production | 51/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
