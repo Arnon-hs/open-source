@@ -1,0 +1,83 @@
+# krishanth7/EveryO
+
+[![Stars](https://img.shields.io/github/stars/krishanth7/EveryO?style=flat-square&color=yellow)](https://github.com/krishanth7/EveryO/stargazers) [![Forks](https://img.shields.io/github/forks/krishanth7/EveryO?style=flat-square&color=blue)](https://github.com/krishanth7/EveryO/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+
+> EveryO is an open-source neural computing and AI experimentation framework built with Python, NumPy, TensorFlow, CUDA and C++. Build, train, evaluate and benchmark neural networks locally with CPU/GPU acceleration, automatic differentiation, visualization and zero external AI APIs or API keys.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | 5 |
+| 🍴 **Forks** | 1 |
+| 💻 **Language** | Python |
+| 📈 **Score** | 59/100 |
+| 🗓️ **Last push** | 2026-10-26 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`ai-framework` `ai-frameworks` `artificial-intelligence` `computer-vision` `computer-vision-opencv` `cpp` `cuda` `deep-learning` `gpu-computing` `high-performance-computing` `machine-learning` `machine-learning-framework`
+
+## 🎯 Categories
+
+AI/ML · Data
+
+## 📝 Summary
+
+### English
+
+krishanth7/EveryO: krishanth7/EveryO helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+### Русский
+
+krishanth7/EveryO: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+
+### 中文
+
+krishanth7/EveryO：krishanth7/EveryO helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+## 🧭 Practical evaluation
+
+**Value:** krishanth7/EveryO helps add AI capability without starting from a blank model stack.
+
+**Best use cases**
+
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
+
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+
+**Quality signals**
+
+- 5 GitHub stars
+- 1 forks
+- updated 2026-10-26
+- primary language: Python
+- 20 topics
+
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| forks | 8/100 |
+| stars | 17/100 |
+| topics | 100/100 |
+| outlook | 63/100 |
+| quality | 52/100 |
+| recency | 80/100 |
+| adoption | 14/100 |
+| production | 61/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
+| sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-26 · [View on GitHub](https://github.com/krishanth7/EveryO) · [← Back to AI/ML](./README.md)</sub>
