@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hram/freecad-mcp](./hram-freecad-mcp.md) | ⭐ — | Python | 47/100 |
+| 1 | [hram/freecad-mcp](./hram-freecad-mcp.md) | ⭐ — | Python | 44/100 |
 
 ---
 

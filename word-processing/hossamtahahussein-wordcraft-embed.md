@@ -1,6 +1,6 @@
 # hossamTahaHussein/wordcraft-embed
 
-[![Stars](https://img.shields.io/github/stars/hossamTahaHussein/wordcraft-embed?style=flat-square&color=yellow)](https://github.com/hossamTahaHussein/wordcraft-embed/stargazers) [![Forks](https://img.shields.io/github/forks/hossamTahaHussein/wordcraft-embed?style=flat-square&color=blue)](https://github.com/hossamTahaHussein/wordcraft-embed/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hossamTahaHussein/wordcraft-embed?style=flat-square&color=yellow)](https://github.com/hossamTahaHussein/wordcraft-embed/stargazers) [![Forks](https://img.shields.io/github/forks/hossamTahaHussein/wordcraft-embed?style=flat-square&color=blue)](https://github.com/hossamTahaHussein/wordcraft-embed/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Embed a Word-style editor in any website: open, edit and save .docx in the page, with a Node relay server for real-time co-editing.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ hossamTahaHussein/wordcraft-embed：hossamTahaHussein/wordcraft-embed may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 65/100 |
+| production | 57/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
