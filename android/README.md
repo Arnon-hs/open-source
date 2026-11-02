@@ -19,8 +19,8 @@
 | 9 | [Hamsan2013/APK-bridge--Windows-](./hamsan2013-apk-bridge--windows-.md) | ⭐ — | C# | 36/100 |
 | 10 | [s9723651-debug/anrobeam](./s9723651-debug-anrobeam.md) | ⭐ — | HTML | 36/100 |
 | 11 | [afeemuhammodwafy1/doseleaf](./afeemuhammodwafy1-doseleaf.md) | ⭐ — | Kotlin | 33/100 |
-| 12 | [sanjay434343/Pipit](./sanjay434343-pipit.md) | ⭐ — | Dart | 33/100 |
-| 13 | [jlowin/fastmcp](./jlowin-fastmcp.md) | ⭐ — | — | 32/100 |
+| 12 | [jlowin/fastmcp](./jlowin-fastmcp.md) | ⭐ — | — | 32/100 |
+| 13 | [sanjay434343/Pipit](./sanjay434343-pipit.md) | ⭐ — | Dart | 30/100 |
 | 14 | [google/litert](./google-litert.md) | ⭐ — | — | 27/100 |
 
 ---

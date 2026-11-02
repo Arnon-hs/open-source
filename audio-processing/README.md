@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [facebookresearch/demucs](./facebookresearch-demucs.md) | ⭐ 10.4k | Python | 61/100 |
+| 1 | [facebookresearch/demucs](./facebookresearch-demucs.md) | ⭐ 10.4k | Python | 58/100 |
 | 2 | [Arthur031221/Stemwise](./arthur031221-stemwise.md) | ⭐ — | Python | 44/100 |
 
 ---
