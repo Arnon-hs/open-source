@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AndreaRicchi/cxvm](./andrearicchi-cxvm.md) | ⭐ — | Rust | 43/100 |
+| 1 | [Yassine-Jemi01/ylang](./yassine-jemi01-ylang.md) | ⭐ 14 | C | 43/100 |
 
 ---
 
