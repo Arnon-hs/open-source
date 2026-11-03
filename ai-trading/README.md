@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [edycutjong/dreamdex-pilot](./edycutjong-dreamdex-pilot.md) | ⭐ — | JavaScript | 55/100 |
+| 1 | [edycutjong/dreamdex-pilot](./edycutjong-dreamdex-pilot.md) | ⭐ — | JavaScript | 52/100 |
 
 ---
 

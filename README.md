@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43912** |
+| **Projects** | **43914** |
 | **Categories** | **605** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -42,7 +42,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 530 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 481 | [Browse →](./templates/) |
 | 🔐 **Security** | 461 | [Browse →](./security/) |
-| 🏷️ **Communication** | 459 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 460 | [Browse →](./communication/) |
 | 💳 **Payments** | 375 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 348 | [Browse →](./games--graphics/) |
 | 📊 **Data** | 345 | [Browse →](./data/) |
@@ -80,13 +80,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cli** | 7 | [Browse →](./cli/) |
 | 🏷️ **Terminal** | 7 | [Browse →](./terminal/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
+| 🏷️ **Github-actions** | 6 | [Browse →](./github-actions/) |
 | 🏷️ **Offline-ai** | 6 | [Browse →](./offline-ai/) |
 | 🏷️ **Windows** | 6 | [Browse →](./windows/) |
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
-| 🏷️ **Github-actions** | 5 | [Browse →](./github-actions/) |
 | 🏷️ **Claude** | 5 | [Browse →](./claude/) |
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Wordpress** | 5 | [Browse →](./wordpress/) |
@@ -221,6 +221,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Gnome** | 1 | [Browse →](./gnome/) |
 | 🏷️ **Voice-agent** | 1 | [Browse →](./voice-agent/) |
 | 🏷️ **Compiler** | 1 | [Browse →](./compiler/) |
@@ -343,7 +344,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Zsh** | 1 | [Browse →](./zsh/) |
 | 🏷️ **Wayback-machine** | 1 | [Browse →](./wayback-machine/) |
 | 🏷️ **Agent-skill-security** | 1 | [Browse →](./agent-skill-security/) |
-| 🏷️ **Email-validation** | 1 | [Browse →](./email-validation/) |
 | 🏷️ **Logistics** | 1 | [Browse →](./logistics/) |
 | 🏷️ **Osint** | 1 | [Browse →](./osint/) |
 | 🏷️ **Zero-trust** | 1 | [Browse →](./zero-trust/) |

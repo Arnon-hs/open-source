@@ -162,12 +162,12 @@
 | 152 | [pkjmesra/PKScreener](./pkjmesra-pkscreener.md) | ⭐ 346 | Python | 53/100 |
 | 153 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 16.9k | — | 53/100 |
 | 154 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 800 | Rust | 53/100 |
-| 155 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
-| 156 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
-| 157 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 52/100 |
-| 158 | [waditu/czsc](./waditu-czsc.md) | ⭐ 5k | Python | 52/100 |
-| 159 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 5k | Jupyter Notebook | 52/100 |
-| 160 | [jacelovehaha/cagerail](./jacelovehaha-cagerail.md) | ⭐ — | Python | 52/100 |
+| 155 | [jacelovehaha/cagerail](./jacelovehaha-cagerail.md) | ⭐ — | Python | 52/100 |
+| 156 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
+| 157 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
+| 158 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 52/100 |
+| 159 | [waditu/czsc](./waditu-czsc.md) | ⭐ 5k | Python | 52/100 |
+| 160 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 5k | Jupyter Notebook | 52/100 |
 | 161 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 162 | [uselayer/uselayer-sdk](./uselayer-uselayer-sdk.md) | ⭐ — | — | 51/100 |
 | 163 | [weirdapps/etorotrade](./weirdapps-etorotrade.md) | ⭐ 36 | Python | 51/100 |

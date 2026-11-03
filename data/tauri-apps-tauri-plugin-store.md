@@ -65,18 +65,18 @@ tauri-apps/tauri-plugin-store：tauri-apps/tauri-plugin-store helps convert raw 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
-| adoption | 49/100 |
-| categoryMatchCount | 100/100 |
-| stars | 53/100 |
 | forks | 39/100 |
-| recency | 60/100 |
+| stars | 53/100 |
 | topics | 63/100 |
+| outlook | 58/100 |
+| quality | 57/100 |
+| recency | 60/100 |
+| adoption | 49/100 |
+| production | 56/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

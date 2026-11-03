@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [KingAbe1/blueprint](./kingabe1-blueprint.md) | ⭐ 4 | Makefile | 55/100 |
+| 1 | [archdocsio/archdocs-plugin](./archdocsio-archdocs-plugin.md) | ⭐ — | JavaScript | 49/100 |
 
 ---
 

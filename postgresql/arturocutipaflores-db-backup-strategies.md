@@ -1,6 +1,6 @@
 # ArturoCutipaFlores/db-backup-strategies
 
-[![Stars](https://img.shields.io/github/stars/ArturoCutipaFlores/db-backup-strategies?style=flat-square&color=yellow)](https://github.com/ArturoCutipaFlores/db-backup-strategies/stargazers) [![Forks](https://img.shields.io/github/forks/ArturoCutipaFlores/db-backup-strategies?style=flat-square&color=blue)](https://github.com/ArturoCutipaFlores/db-backup-strategies/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ArturoCutipaFlores/db-backup-strategies?style=flat-square&color=yellow)](https://github.com/ArturoCutipaFlores/db-backup-strategies/stargazers) [![Forks](https://img.shields.io/github/forks/ArturoCutipaFlores/db-backup-strategies?style=flat-square&color=blue)](https://github.com/ArturoCutipaFlores/db-backup-strategies/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-27%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 27/100 |
 | 🗓️ **Last push** | 2026-10-04 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ ArturoCutipaFlores/db-backup-strategies：ArturoCutipaFlores/db-backup-strategie
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 26/100 |
+| quality | 21/100 |
 | integration | 18/100 |
-| production | 40/100 |
-| outlook | 36/100 |
+| production | 34/100 |
+| outlook | 29/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
