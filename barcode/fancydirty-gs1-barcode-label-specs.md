@@ -1,6 +1,6 @@
 # fancydirty/gs1-barcode-label-specs
 
-[![Stars](https://img.shields.io/github/stars/fancydirty/gs1-barcode-label-specs?style=flat-square&color=yellow)](https://github.com/fancydirty/gs1-barcode-label-specs/stargazers) [![Forks](https://img.shields.io/github/forks/fancydirty/gs1-barcode-label-specs?style=flat-square&color=blue)](https://github.com/fancydirty/gs1-barcode-label-specs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fancydirty/gs1-barcode-label-specs?style=flat-square&color=yellow)](https://github.com/fancydirty/gs1-barcode-label-specs/stargazers) [![Forks](https://img.shields.io/github/forks/fancydirty/gs1-barcode-label-specs?style=flat-square&color=blue)](https://github.com/fancydirty/gs1-barcode-label-specs/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source GS1 barcode & Avery 5160 / 5163 / 2x1 thermal label die-line geometry, quiet-zone specs, and Modulo-10 check digit calculator — https://upclabelmaker.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ fancydirty/gs1-barcode-label-specs：fancydirty/gs1-barcode-label-specs may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
