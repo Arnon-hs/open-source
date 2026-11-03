@@ -1,6 +1,6 @@
 # DreamOfXM/agent-ping
 
-[![Stars](https://img.shields.io/github/stars/DreamOfXM/agent-ping?style=flat-square&color=yellow)](https://github.com/DreamOfXM/agent-ping/stargazers) [![Forks](https://img.shields.io/github/forks/DreamOfXM/agent-ping?style=flat-square&color=blue)](https://github.com/DreamOfXM/agent-ping/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DreamOfXM/agent-ping?style=flat-square&color=yellow)](https://github.com/DreamOfXM/agent-ping/stargazers) [![Forks](https://img.shields.io/github/forks/DreamOfXM/agent-ping?style=flat-square&color=blue)](https://github.com/DreamOfXM/agent-ping/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Menu-bar panel that tells you which AI coding-agent session needs you right now. macOS + Linux, reads only the logs your tools already write, makes no network calls.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ DreamOfXM/agent-ping：DreamOfXM/agent-ping may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 73/100 |
+| production | 56/100 |
+| outlook | 66/100 |
 | adoption | 12/100 |
 | categoryMatchCount | 600/100 |
 | stars | 17/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

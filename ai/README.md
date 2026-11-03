@@ -15,7 +15,7 @@
 | 5 | [whereabot/whereabot](./whereabot-whereabot.md) | ⭐ — | JavaScript | 63/100 |
 | 6 | [easyeda/easyeda-api-skill](./easyeda-easyeda-api-skill.md) | ⭐ 977 | JavaScript | 61/100 |
 | 7 | [meta-taro/dbboard](./meta-taro-dbboard.md) | ⭐ — | Rust | 59/100 |
-| 8 | [DreamOfXM/agent-ping](./dreamofxm-agent-ping.md) | ⭐ 5 | C++ | 59/100 |
+| 8 | [DreamOfXM/agent-ping](./dreamofxm-agent-ping.md) | ⭐ 5 | C++ | 56/100 |
 | 9 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
 | 10 | [olo-labs/olo-toolgate](./olo-labs-olo-toolgate.md) | ⭐ 3 | Java | 54/100 |
 | 11 | [longwave-ai-lab/skill-commercialization-factory](./longwave-ai-lab-skill-commercialization-factory.md) | ⭐ — | JavaScript | 54/100 |
