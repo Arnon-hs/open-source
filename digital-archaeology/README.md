@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kaushanikoner20-hub/Web-Seance](./kaushanikoner20-hub-web-seance.md) | ⭐ — | Python | 45/100 |
+| 1 | [kaushanikoner20-hub/Web-Seance](./kaushanikoner20-hub-web-seance.md) | ⭐ — | Python | 41/100 |
 
 ---
 
