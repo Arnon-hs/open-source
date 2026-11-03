@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [0cv/herdr-mobile-relay](./0cv-herdr-mobile-relay.md) | ⭐ 339 | TypeScript | 70/100 |
+| 1 | [0cv/herdr-mobile-relay](./0cv-herdr-mobile-relay.md) | ⭐ 339 | TypeScript | 67/100 |
 
 ---
 

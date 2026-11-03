@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44086** |
-| **Categories** | **616** |
+| **Projects** | **44091** |
+| **Categories** | **615** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17752 | [Browse →](./misc/) |
+| 📦 **Misc** | 17755 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4669 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2914 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2429 | [Browse →](./orchestration/) |
@@ -31,7 +31,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Automation** | 1506 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 904 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 814 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 815 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 724 | [Browse →](./documents/) |
 | 🏷️ **Networking** | 667 | [Browse →](./networking/) |
 | 📱 **Mobile** | 667 | [Browse →](./mobile/) |
@@ -65,8 +65,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-llm** | 20 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Android** | 17 | [Browse →](./android/) |
+| 🏷️ **Self-hosting** | 15 | [Browse →](./self-hosting/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
-| 🏷️ **Self-hosting** | 13 | [Browse →](./self-hosting/) |
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
@@ -344,7 +344,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Blender** | 1 | [Browse →](./blender/) |
 | 🏷️ **Ui-runtime** | 1 | [Browse →](./ui-runtime/) |
 | 🏷️ **Feedback** | 1 | [Browse →](./feedback/) |
-| 🏷️ **Html** | 1 | [Browse →](./html/) |
 | 🏷️ **Filesharing** | 1 | [Browse →](./filesharing/) |
 | 🏷️ **Ebook-reader** | 1 | [Browse →](./ebook-reader/) |
 | 🏷️ **Da-de-los-muertos** | 1 | [Browse →](./da-de-los-muertos/) |
