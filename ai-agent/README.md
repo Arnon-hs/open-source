@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Bits232/Truespecs](./bits232-truespecs.md) | ⭐ — | TypeScript | 33/100 |
+| 1 | [Bits232/Truespecs](./bits232-truespecs.md) | ⭐ — | TypeScript | 30/100 |
 | 2 | [imarpanpatra/claimback](./imarpanpatra-claimback.md) | ⭐ — | JavaScript | 27/100 |
 | 3 | [scriptmasterlabs/jev](./scriptmasterlabs-jev.md) | ⭐ — | — | 24/100 |
 | 4 | [andrew-wood/xprintidle](./andrew-wood-xprintidle.md) | ⭐ — | — | 24/100 |

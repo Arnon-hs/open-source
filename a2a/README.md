@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [a2aproject/a2a-python](./a2aproject-a2a-python.md) | ⭐ 2.2k | Python | 88/100 |
+| 1 | [a2aproject/a2a-python](./a2aproject-a2a-python.md) | ⭐ 2.2k | Python | 85/100 |
 
 ---
 

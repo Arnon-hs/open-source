@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43964** |
+| **Projects** | **43967** |
 | **Categories** | **608** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -26,14 +26,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📦 **Misc** | 17700 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4665 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2909 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2421 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2422 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1614 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1502 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 903 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 814 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 722 | [Browse →](./documents/) |
-| 🏷️ **Networking** | 666 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 667 | [Browse →](./networking/) |
 | 📱 **Mobile** | 665 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 629 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 623 | [Browse →](./cloud--storage/) |
@@ -131,6 +131,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Laravel** | 2 | [Browse →](./laravel/) |
 | 🏷️ **Django** | 2 | [Browse →](./django/) |
 | 🏷️ **Ai-testing** | 2 | [Browse →](./ai-testing/) |
 | 🏷️ **System-design** | 2 | [Browse →](./system-design/) |
@@ -218,6 +219,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Crewai** | 1 | [Browse →](./crewai/) |
 | 🏷️ **Wled** | 1 | [Browse →](./wled/) |
 | 🏷️ **Token-budgeting** | 1 | [Browse →](./token-budgeting/) |
 | 🏷️ **Capacitor** | 1 | [Browse →](./capacitor/) |
@@ -340,7 +342,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agentic-coding** | 1 | [Browse →](./agentic-coding/) |
 | 🏷️ **Privatebin** | 1 | [Browse →](./privatebin/) |
 | 🏷️ **Browser-management** | 1 | [Browse →](./browser-management/) |
-| 🏷️ **Real-estate** | 1 | [Browse →](./real-estate/) |
 | 🏷️ **Visual-workflow** | 1 | [Browse →](./visual-workflow/) |
 | 🏷️ **Crashanalysis** | 1 | [Browse →](./crashanalysis/) |
 | 🏷️ **Pst** | 1 | [Browse →](./pst/) |
@@ -479,7 +480,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Context-management** | 1 | [Browse →](./context-management/) |
 | 🏷️ **Error-tracking** | 1 | [Browse →](./error-tracking/) |
 | 🏷️ **Manim** | 1 | [Browse →](./manim/) |
-| 🏷️ **Laravel** | 1 | [Browse →](./laravel/) |
 | 🏷️ **Knowledge-work** | 1 | [Browse →](./knowledge-work/) |
 | 🏷️ **Measurement** | 1 | [Browse →](./measurement/) |
 | 🏷️ **Litter-collection** | 1 | [Browse →](./litter-collection/) |

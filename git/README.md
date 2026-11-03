@@ -12,8 +12,8 @@
 | 2 | [amirhosseinkz/plane-workflow-mcp](./amirhosseinkz-plane-workflow-mcp.md) | ⭐ 6 | Python | 69/100 |
 | 3 | [XiaoArnav/necrogit](./xiaoarnav-necrogit.md) | ⭐ 1 | Python | 48/100 |
 | 4 | [NFRION/git-ghost](./nfrion-git-ghost.md) | ⭐ — | Python | 46/100 |
-| 5 | [abdulbsds25seecs-cloud/time-of-death](./abdulbsds25seecs-cloud-time-of-death.md) | ⭐ — | JavaScript | 39/100 |
-| 6 | [build996/ghostline](./build996-ghostline.md) | ⭐ — | Python | 36/100 |
+| 5 | [build996/ghostline](./build996-ghostline.md) | ⭐ — | Python | 36/100 |
+| 6 | [abdulbsds25seecs-cloud/time-of-death](./abdulbsds25seecs-cloud-time-of-death.md) | ⭐ — | JavaScript | 36/100 |
 | 7 | [AryanSharma9917/repogeist](./aryansharma9917-repogeist.md) | ⭐ — | Python | 36/100 |
 | 8 | [amrit-dash/MLH-touch-grass](./amrit-dash-mlh-touch-grass.md) | ⭐ — | Python | 33/100 |
 | 9 | [Saez520/worktree-manager](./saez520-worktree-manager.md) | ⭐ — | Shell | 30/100 |

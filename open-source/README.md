@@ -17,13 +17,13 @@
 | 7 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 41/100 |
 | 8 | [Anandb71/names-in-the-machine](./anandb71-names-in-the-machine.md) | ⭐ — | Python | 39/100 |
 | 9 | [oleg-vdv/shezhire](./oleg-vdv-shezhire.md) | ⭐ — | Python | 39/100 |
-| 10 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 37/100 |
-| 11 | [ItsRayZer/axo-ai](./itsrayzer-axo-ai.md) | ⭐ — | JavaScript | 36/100 |
-| 12 | [dotexeYash/ECO-QUEST](./dotexeyash-eco-quest.md) | ⭐ — | TypeScript | 36/100 |
-| 13 | [07Tanvi/ghoststory-ai-tanvi26](./07tanvi-ghoststory-ai-tanvi26.md) | ⭐ — | HTML | 36/100 |
-| 14 | [vrRanjith/ghostcommit](./vrranjith-ghostcommit.md) | ⭐ — | Python | 36/100 |
-| 15 | [mrerror313coder/QuestLearn](./mrerror313coder-questlearn.md) | ⭐ — | Python | 36/100 |
-| 16 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 34/100 |
+| 10 | [ItsRayZer/axo-ai](./itsrayzer-axo-ai.md) | ⭐ — | JavaScript | 36/100 |
+| 11 | [dotexeYash/ECO-QUEST](./dotexeyash-eco-quest.md) | ⭐ — | TypeScript | 36/100 |
+| 12 | [07Tanvi/ghoststory-ai-tanvi26](./07tanvi-ghoststory-ai-tanvi26.md) | ⭐ — | HTML | 36/100 |
+| 13 | [vrRanjith/ghostcommit](./vrranjith-ghostcommit.md) | ⭐ — | Python | 36/100 |
+| 14 | [mrerror313coder/QuestLearn](./mrerror313coder-questlearn.md) | ⭐ — | Python | 36/100 |
+| 15 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 34/100 |
+| 16 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 34/100 |
 | 17 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 33/100 |
 | 18 | [joeylukoji/PanlyackErp](./joeylukoji-panlyackerp.md) | ⭐ — | Python | 33/100 |
 | 19 | [subhranshudash13-dotcom/Paydirt](./subhranshudash13-dotcom-paydirt.md) | ⭐ — | TypeScript | 33/100 |
