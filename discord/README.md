@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [callmegautam/discord-mcp](./callmegautam-discord-mcp.md) | ⭐ — | TypeScript | 58/100 |
+| 1 | [callmegautam/discord-mcp](./callmegautam-discord-mcp.md) | ⭐ — | TypeScript | 55/100 |
 | 2 | [Gusarovv/discord-card-canvas](./gusarovv-discord-card-canvas.md) | ⭐ 32 | TypeScript | 54/100 |
 
 ---

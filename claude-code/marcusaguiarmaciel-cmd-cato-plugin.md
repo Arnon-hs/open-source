@@ -1,6 +1,6 @@
 # marcusaguiarmaciel-cmd/cato-plugin
 
-[![Stars](https://img.shields.io/github/stars/marcusaguiarmaciel-cmd/cato-plugin?style=flat-square&color=yellow)](https://github.com/marcusaguiarmaciel-cmd/cato-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/marcusaguiarmaciel-cmd/cato-plugin?style=flat-square&color=blue)](https://github.com/marcusaguiarmaciel-cmd/cato-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marcusaguiarmaciel-cmd/cato-plugin?style=flat-square&color=yellow)](https://github.com/marcusaguiarmaciel-cmd/cato-plugin/stargazers) [![Forks](https://img.shields.io/github/forks/marcusaguiarmaciel-cmd/cato-plugin?style=flat-square&color=blue)](https://github.com/marcusaguiarmaciel-cmd/cato-plugin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Cut Claude Code token costs by 35-80% with prompt-cache TTL tracking, pre-read structural indexing, noisy CLI pruning, and multi-session subagent ledger. Zero Python, 100% local.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ marcusaguiarmaciel-cmd/cato-plugin：marcusaguiarmaciel-cmd/cato-plugin may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 100/100 |
-| production | 72/100 |
-| outlook | 74/100 |
+| production | 65/100 |
+| outlook | 67/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 600/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

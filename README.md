@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44008** |
-| **Categories** | **611** |
+| **Projects** | **44017** |
+| **Categories** | **613** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17717 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4665 | [Browse →](./aiml/) |
+| 📦 **Misc** | 17720 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4667 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2911 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2423 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2424 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1614 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1504 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
@@ -37,12 +37,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 666 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 629 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 623 | [Browse →](./cloud--storage/) |
-| 🏷️ **Video-editing** | 576 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 577 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 567 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 530 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 483 | [Browse →](./templates/) |
-| 🔐 **Security** | 462 | [Browse →](./security/) |
-| 🏷️ **Communication** | 461 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 462 | [Browse →](./communication/) |
+| 🔐 **Security** | 461 | [Browse →](./security/) |
 | 💳 **Payments** | 376 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 348 | [Browse →](./games--graphics/) |
 | 📊 **Data** | 345 | [Browse →](./data/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 188 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 149 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 150 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 147 | [Browse →](./vertical-video/) |
 | 🏷️ **Open-source** | 45 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 45 | [Browse →](./ai-agents/) |
@@ -61,10 +61,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 26 | [Browse →](./privacy/) |
-| 🏷️ **Llm** | 24 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 23 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 20 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
-| 🏷️ **Android** | 16 | [Browse →](./android/) |
+| 🏷️ **Android** | 17 | [Browse →](./android/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
@@ -168,7 +168,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ghost-hunting** | 2 | [Browse →](./ghost-hunting/) |
 | 🏷️ **Yolo** | 2 | [Browse →](./yolo/) |
 | 🏷️ **Filesharing** | 2 | [Browse →](./filesharing/) |
-| 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Email** | 2 | [Browse →](./email/) |
 | 🏷️ **Image-generation** | 2 | [Browse →](./image-generation/) |
 | 🏷️ **Nestjs** | 2 | [Browse →](./nestjs/) |
@@ -219,6 +218,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Awx** | 1 | [Browse →](./awx/) |
+| 🏷️ **Iceberg** | 1 | [Browse →](./iceberg/) |
 | 🏷️ **Whisper** | 1 | [Browse →](./whisper/) |
 | 🏷️ **Retrieval-dilution** | 1 | [Browse →](./retrieval-dilution/) |
 | 🏷️ **Tokenization** | 1 | [Browse →](./tokenization/) |
@@ -560,6 +561,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Goaltracking** | 1 | [Browse →](./goaltracking/) |
 | 🏷️ **Live-streaming** | 1 | [Browse →](./live-streaming/) |
 | 🏷️ **Webhook** | 1 | [Browse →](./webhook/) |
+| 🏷️ **Static-analysis** | 1 | [Browse →](./static-analysis/) |
 | 🏷️ **Deception** | 1 | [Browse →](./deception/) |
 | 🏷️ **Speech-recognition** | 1 | [Browse →](./speech-recognition/) |
 | 🏷️ **Visualization** | 1 | [Browse →](./visualization/) |

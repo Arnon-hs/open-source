@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [marcusaguiarmaciel-cmd/cato-plugin](./marcusaguiarmaciel-cmd-cato-plugin.md) | ⭐ 2 | TypeScript | 75/100 |
+| 1 | [marcusaguiarmaciel-cmd/cato-plugin](./marcusaguiarmaciel-cmd-cato-plugin.md) | ⭐ 2 | TypeScript | 72/100 |
 | 2 | [openai/codex-plugin-cc](./openai-codex-plugin-cc.md) | ⭐ 34.8k | JavaScript | 63/100 |
 | 3 | [spar-x-fr/spar-x-skills](./spar-x-fr-spar-x-skills.md) | ⭐ — | Python | 51/100 |
 | 4 | [pasindu-premachandra/crewrota](./pasindu-premachandra-crewrota.md) | ⭐ — | TypeScript | 49/100 |
