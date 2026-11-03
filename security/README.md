@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**461 projects** in this category.
+**462 projects** in this category.
 
 ## Projects
 
@@ -216,8 +216,8 @@
 | 206 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 343 | Java | 53/100 |
 | 207 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 537 | Nix | 53/100 |
 | 208 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 431 | TypeScript | 53/100 |
-| 209 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 53/100 |
-| 210 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 53/100 |
+| 209 | [0xdea/augur](./0xdea-augur.md) | ⭐ 115 | Rust | 53/100 |
+| 210 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 128 | Rust | 53/100 |
 | 211 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 212 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 556 | C | 53/100 |
 | 213 | [tkhq/qos](./tkhq-qos.md) | ⭐ 114 | Rust | 53/100 |
@@ -468,7 +468,8 @@
 | 458 | [Tetra4ge/GitHygiene](./tetra4ge-githygiene.md) | ⭐ — | JavaScript | 36/100 |
 | 459 | [shark-auth/shark](./shark-auth-shark.md) | ⭐ — | — | 36/100 |
 | 460 | [dylanXM/litellm-check](./dylanxm-litellm-check.md) | ⭐ — | Python | 36/100 |
-| 461 | [vemarun/Laravel-Steam-Trade-Manager](./vemarun-laravel-steam-trade-manager.md) | ⭐ 3 | PHP | 31/100 |
+| 461 | [pradeepsng30/vanishshare-sec](./pradeepsng30-vanishshare-sec.md) | ⭐ 1 | — | 34/100 |
+| 462 | [vemarun/Laravel-Steam-Trade-Manager](./vemarun-laravel-steam-trade-manager.md) | ⭐ 3 | PHP | 31/100 |
 
 ---
 

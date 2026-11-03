@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [enhesa/big-agentic-brain](./enhesa-big-agentic-brain.md) | ⭐ 20 | TypeScript | 65/100 |
-| 2 | [artemrudenko/research-brain-public](./artemrudenko-research-brain-public.md) | ⭐ — | Python | 48/100 |
 
 ---
 
