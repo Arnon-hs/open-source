@@ -1,6 +1,6 @@
 # mustafayevt/CineVault
 
-[![Stars](https://img.shields.io/github/stars/mustafayevt/CineVault?style=flat-square&color=yellow)](https://github.com/mustafayevt/CineVault/stargazers) [![Forks](https://img.shields.io/github/forks/mustafayevt/CineVault?style=flat-square&color=blue)](https://github.com/mustafayevt/CineVault/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mustafayevt/CineVault?style=flat-square&color=yellow)](https://github.com/mustafayevt/CineVault/stargazers) [![Forks](https://img.shields.io/github/forks/mustafayevt/CineVault?style=flat-square&color=blue)](https://github.com/mustafayevt/CineVault/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A fast, free desktop movie & TV library manager. Scan, scrape and rename your library, write Kodi/Jellyfin/Emby NFO and artwork, with Undo for everything. Built with Rust and Tauri.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ mustafayevt/CineVault：mustafayevt/CineVault may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 69/100 |
+| production | 57/100 |
+| outlook | 62/100 |
 | adoption | 20/100 |
 | categoryMatchCount | 500/100 |
 | stars | 28/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
