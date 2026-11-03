@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [caivra-tech/GitHub-reminders](./caivra-tech-github-reminders.md) | ⭐ — | JavaScript | 52/100 |
-| 2 | [ilmeedesilva/patchpilot](./ilmeedesilva-patchpilot.md) | ⭐ — | Python | 51/100 |
+| 1 | [ilmeedesilva/patchpilot](./ilmeedesilva-patchpilot.md) | ⭐ — | Python | 51/100 |
+| 2 | [caivra-tech/GitHub-reminders](./caivra-tech-github-reminders.md) | ⭐ — | JavaScript | 49/100 |
 | 3 | [elaysuu/agent-preship-guard](./elaysuu-agent-preship-guard.md) | ⭐ — | Python | 48/100 |
 | 4 | [SandeepKomal/Git3D-Universe](./sandeepkomal-git3d-universe.md) | ⭐ 3 | JavaScript | 37/100 |
 | 5 | [NLBSE/NLBSE-23](./nlbse-nlbse-23.md) | ⭐ — | — | 24/100 |
