@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [download-reels/download-reels.github.io](./download-reels-download-reels.github.io.md) | ⭐ — | HTML | 39/100 |
+| 1 | [download-reels/download-reels.github.io](./download-reels-download-reels.github.io.md) | ⭐ — | HTML | 36/100 |
 
 ---
 

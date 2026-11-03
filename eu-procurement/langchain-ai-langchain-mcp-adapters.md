@@ -1,6 +1,6 @@
 # langchain-ai/langchain-mcp-adapters
 
-[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain-mcp-adapters?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain-mcp-adapters/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain-mcp-adapters?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain-mcp-adapters/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/langchain-ai/langchain-mcp-adapters?style=flat-square&color=yellow)](https://github.com/langchain-ai/langchain-mcp-adapters/stargazers) [![Forks](https://img.shields.io/github/forks/langchain-ai/langchain-mcp-adapters?style=flat-square&color=blue)](https://github.com/langchain-ai/langchain-mcp-adapters/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > LangChain 🔌 MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 499 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ langchain-ai/langchain-mcp-adapters：langchain-ai/langchain-mcp-adapters may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 62/100 |
-| production | 75/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 73/100 |
 | categoryMatchCount | 900/100 |
 | stars | 76/100 |
 | forks | 67/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

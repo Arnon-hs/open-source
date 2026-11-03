@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [glatinone/sketch2sim](./glatinone-sketch2sim.md) | ⭐ — | TypeScript | 47/100 |
+| 1 | [glatinone/sketch2sim](./glatinone-sketch2sim.md) | ⭐ — | TypeScript | 44/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43962** |
-| **Categories** | **607** |
+| **Projects** | **43964** |
+| **Categories** | **608** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17699 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4664 | [Browse →](./aiml/) |
+| 📦 **Misc** | 17700 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4665 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2909 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2421 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1613 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1614 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1502 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 903 | [Browse →](./frontend/) |
@@ -78,7 +78,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 7 | [Browse →](./python/) |
 | 🏷️ **Cli** | 7 | [Browse →](./cli/) |
 | 🏷️ **Macos** | 7 | [Browse →](./macos/) |
-| 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Docker** | 6 | [Browse →](./docker/) |
 | 🏷️ **Github-actions** | 6 | [Browse →](./github-actions/) |
 | 🏷️ **Terminal** | 6 | [Browse →](./terminal/) |
@@ -91,6 +90,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Claude** | 5 | [Browse →](./claude/) |
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Wordpress** | 5 | [Browse →](./wordpress/) |
+| 🏷️ **Ci** | 5 | [Browse →](./ci/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Ios** | 4 | [Browse →](./ios/) |
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
@@ -218,6 +218,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Wled** | 1 | [Browse →](./wled/) |
 | 🏷️ **Token-budgeting** | 1 | [Browse →](./token-budgeting/) |
 | 🏷️ **Capacitor** | 1 | [Browse →](./capacitor/) |
 | 🏷️ **Token-exchange** | 1 | [Browse →](./token-exchange/) |
