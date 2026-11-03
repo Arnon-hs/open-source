@@ -17,8 +17,8 @@
 | 7 | [BEKO2210/spyhound](./beko2210-spyhound.md) | ⭐ — | Kotlin | 44/100 |
 | 8 | [ThalzeronLabs/android-on-device-llm](./thalzeronlabs-android-on-device-llm.md) | ⭐ — | Kotlin | 43/100 |
 | 9 | [kotlinsyd/Plavio](./kotlinsyd-plavio.md) | ⭐ 11 | Kotlin | 43/100 |
-| 10 | [munimtechnologies/l10n-guard](./munimtechnologies-l10n-guard.md) | ⭐ 1 | Python | 43/100 |
-| 11 | [munimtechnologies/android-translation-crash-census](./munimtechnologies-android-translation-crash-census.md) | ⭐ — | Python | 42/100 |
+| 10 | [munimtechnologies/l10n-guard](./munimtechnologies-l10n-guard.md) | ⭐ 1 | Python | 40/100 |
+| 11 | [munimtechnologies/android-translation-crash-census](./munimtechnologies-android-translation-crash-census.md) | ⭐ — | Python | 39/100 |
 | 12 | [s9723651-debug/anrobeam](./s9723651-debug-anrobeam.md) | ⭐ — | HTML | 36/100 |
 | 13 | [Hamsan2013/APK-bridge--Windows-](./hamsan2013-apk-bridge--windows-.md) | ⭐ — | C# | 33/100 |
 | 14 | [afeemuhammodwafy1/doseleaf](./afeemuhammodwafy1-doseleaf.md) | ⭐ — | Kotlin | 33/100 |

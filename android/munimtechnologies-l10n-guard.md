@@ -1,6 +1,6 @@
 # munimtechnologies/l10n-guard
 
-[![Stars](https://img.shields.io/github/stars/munimtechnologies/l10n-guard?style=flat-square&color=yellow)](https://github.com/munimtechnologies/l10n-guard/stargazers) [![Forks](https://img.shields.io/github/forks/munimtechnologies/l10n-guard?style=flat-square&color=blue)](https://github.com/munimtechnologies/l10n-guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/munimtechnologies/l10n-guard?style=flat-square&color=yellow)](https://github.com/munimtechnologies/l10n-guard/stargazers) [![Forks](https://img.shields.io/github/forks/munimtechnologies/l10n-guard?style=flat-square&color=blue)](https://github.com/munimtechnologies/l10n-guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Catch the translation mistakes that break software and docs: placeholders, markup, code blocks, links, plurals. JSON, gettext .po, HTML, Markdown. Standard library Python. By MV2 of Munim, Inc.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ munimtechnologies/l10n-guard：munimtechnologies/l10n-guard may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 52/100 |
+| production | 52/100 |
+| outlook | 45/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dsherret/ts-morph](./dsherret-ts-morph.md) | ⭐ 6.2k | TypeScript | 70/100 |
-| 2 | [amirhosseinkz/plane-workflow-mcp](./amirhosseinkz-plane-workflow-mcp.md) | ⭐ 6 | Python | 69/100 |
+| 1 | [amirhosseinkz/plane-workflow-mcp](./amirhosseinkz-plane-workflow-mcp.md) | ⭐ 6 | Python | 69/100 |
+| 2 | [dsherret/ts-morph](./dsherret-ts-morph.md) | ⭐ 6.2k | TypeScript | 67/100 |
 | 3 | [XiaoArnav/necrogit](./xiaoarnav-necrogit.md) | ⭐ 1 | Python | 48/100 |
 | 4 | [NFRION/git-ghost](./nfrion-git-ghost.md) | ⭐ — | Python | 46/100 |
 | 5 | [build996/ghostline](./build996-ghostline.md) | ⭐ — | Python | 36/100 |
