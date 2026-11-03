@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43947** |
-| **Categories** | **606** |
+| **Projects** | **43950** |
+| **Categories** | **607** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17692 | [Browse →](./misc/) |
+| 📦 **Misc** | 17693 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4663 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2909 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2421 | [Browse →](./orchestration/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 665 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 629 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 623 | [Browse →](./cloud--storage/) |
-| 🏷️ **Video-editing** | 571 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 572 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 566 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 530 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 482 | [Browse →](./templates/) |
@@ -61,9 +61,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 27 | [Browse →](./privacy/) |
-| 🏷️ **Llm** | 24 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 23 | [Browse →](./llm/) |
+| 🏷️ **Local-llm** | 20 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
-| 🏷️ **Local-llm** | 19 | [Browse →](./local-llm/) |
 | 🏷️ **Android** | 16 | [Browse →](./android/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
@@ -217,6 +217,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Capacitor** | 1 | [Browse →](./capacitor/) |
 | 🏷️ **Token-exchange** | 1 | [Browse →](./token-exchange/) |
 | 🏷️ **Agentverse** | 1 | [Browse →](./agentverse/) |
 | 🏷️ **Quantitative-finance** | 1 | [Browse →](./quantitative-finance/) |
