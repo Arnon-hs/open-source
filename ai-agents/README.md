@@ -26,9 +26,9 @@
 | 16 | [sunfishloop/sunfishloop-mcp](./sunfishloop-sunfishloop-mcp.md) | ⭐ — | TypeScript | 41/100 |
 | 17 | [Deepanshu-2006/Summit](./deepanshu-2006-summit.md) | ⭐ — | Go | 39/100 |
 | 18 | [JakeBurwick/vow](./jakeburwick-vow.md) | ⭐ 2 | JavaScript | 39/100 |
-| 19 | [rafaeladriano-web/aurafarming](./rafaeladriano-web-aurafarming.md) | ⭐ — | TypeScript | 39/100 |
-| 20 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
-| 21 | [anthropic/claude-agent-sdk](./anthropic-claude-agent-sdk.md) | ⭐ — | — | 36/100 |
+| 19 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
+| 20 | [anthropic/claude-agent-sdk](./anthropic-claude-agent-sdk.md) | ⭐ — | — | 36/100 |
+| 21 | [rafaeladriano-web/aurafarming](./rafaeladriano-web-aurafarming.md) | ⭐ — | TypeScript | 36/100 |
 | 22 | [RamyaRamachandran-driod/emergency-caller](./ramyaramachandran-driod-emergency-caller.md) | ⭐ — | TypeScript | 36/100 |
 | 23 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 34/100 |
 | 24 | [CarGDev/codetyper.a2a](./cargdev-codetyper.a2a.md) | ⭐ — | Rust | 33/100 |
