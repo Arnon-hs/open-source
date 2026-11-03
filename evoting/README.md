@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hira8969/E-Voting-Pilot-System-for-Local-Body-Elections](./hira8969-e-voting-pilot-system-for-local-body-elections.md) | ⭐ — | HTML | 39/100 |
+| 1 | [hira8969/E-Voting-Pilot-System-for-Local-Body-Elections](./hira8969-e-voting-pilot-system-for-local-body-elections.md) | ⭐ — | HTML | 36/100 |
 
 ---
 

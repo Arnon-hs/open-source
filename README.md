@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43931** |
-| **Categories** | **605** |
+| **Projects** | **43935** |
+| **Categories** | **603** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,11 +23,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17679 | [Browse →](./misc/) |
+| 📦 **Misc** | 17685 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4662 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2907 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2418 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1611 | [Browse →](./devtools/) |
+| 🧩 **Orchestration** | 2419 | [Browse →](./orchestration/) |
+| 🔧 **DevTools** | 1612 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1502 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 903 | [Browse →](./frontend/) |
@@ -73,11 +73,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Aws** | 9 | [Browse →](./aws/) |
 | 🏷️ **Self-hosting** | 9 | [Browse →](./self-hosting/) |
 | 🏷️ **N8n** | 8 | [Browse →](./n8n/) |
-| 🏷️ **Macos** | 8 | [Browse →](./macos/) |
 | 🏷️ **Self-hosted** | 8 | [Browse →](./self-hosted/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Python** | 7 | [Browse →](./python/) |
 | 🏷️ **Cli** | 7 | [Browse →](./cli/) |
+| 🏷️ **Macos** | 7 | [Browse →](./macos/) |
 | 🏷️ **Terminal** | 7 | [Browse →](./terminal/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Github-actions** | 6 | [Browse →](./github-actions/) |
@@ -172,7 +172,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Image-generation** | 2 | [Browse →](./image-generation/) |
 | 🏷️ **Local-inference** | 2 | [Browse →](./local-inference/) |
 | 🏷️ **Encryption** | 2 | [Browse →](./encryption/) |
-| 🏷️ **Pst** | 2 | [Browse →](./pst/) |
 | 🏷️ **Nestjs** | 2 | [Browse →](./nestjs/) |
 | 🏷️ **Fileorganizer** | 2 | [Browse →](./fileorganizer/) |
 | 🏷️ **Api** | 2 | [Browse →](./api/) |
@@ -221,6 +220,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Gnome** | 1 | [Browse →](./gnome/) |
 | 🏷️ **Voice-agent** | 1 | [Browse →](./voice-agent/) |
@@ -340,9 +340,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Visual-workflow** | 1 | [Browse →](./visual-workflow/) |
 | 🏷️ **Crashanalysis** | 1 | [Browse →](./crashanalysis/) |
 | 🏷️ **Mail** | 1 | [Browse →](./mail/) |
-| 🏷️ **Ted** | 1 | [Browse →](./ted/) |
-| 🏷️ **Zsh** | 1 | [Browse →](./zsh/) |
-| 🏷️ **Wayback-machine** | 1 | [Browse →](./wayback-machine/) |
+| 🏷️ **Pst** | 1 | [Browse →](./pst/) |
 | 🏷️ **Agent-skill-security** | 1 | [Browse →](./agent-skill-security/) |
 | 🏷️ **Logistics** | 1 | [Browse →](./logistics/) |
 | 🏷️ **Osint** | 1 | [Browse →](./osint/) |

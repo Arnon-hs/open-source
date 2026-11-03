@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bayuh85/studyloop](./bayuh85-studyloop.md) | ⭐ — | Python | 66/100 |
+| 1 | [bayuh85/studyloop](./bayuh85-studyloop.md) | ⭐ — | Python | 63/100 |
 
 ---
 
