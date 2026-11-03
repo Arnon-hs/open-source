@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tungnguyen84/website-to-markdown-ai-rag-crawler](./tungnguyen84-website-to-markdown-ai-rag-crawler.md) | ⭐ — | — | 63/100 |
+| 1 | [tungnguyen84/website-to-markdown-ai-rag-crawler](./tungnguyen84-website-to-markdown-ai-rag-crawler.md) | ⭐ — | — | 60/100 |
 | 2 | [UKPLab/fastembed](./ukplab-fastembed.md) | ⭐ — | — | 24/100 |
 
 ---

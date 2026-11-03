@@ -23,9 +23,9 @@
 | 13 | [holistis/muraqib-agent-watch](./holistis-muraqib-agent-watch.md) | ⭐ — | JavaScript | 47/100 |
 | 14 | [operatecenter/operate-mcp](./operatecenter-operate-mcp.md) | ⭐ 3 | TypeScript | 46/100 |
 | 15 | [operatecenter/operator-starter](./operatecenter-operator-starter.md) | ⭐ 4 | TypeScript | 45/100 |
-| 16 | [sunfishloop/sunfishloop-mcp](./sunfishloop-sunfishloop-mcp.md) | ⭐ — | TypeScript | 44/100 |
-| 17 | [JakeBurwick/vow](./jakeburwick-vow.md) | ⭐ 2 | JavaScript | 42/100 |
-| 18 | [operatecenter/operate-hermes-plugin](./operatecenter-operate-hermes-plugin.md) | ⭐ 3 | Python | 42/100 |
+| 16 | [JakeBurwick/vow](./jakeburwick-vow.md) | ⭐ 2 | JavaScript | 42/100 |
+| 17 | [operatecenter/operate-hermes-plugin](./operatecenter-operate-hermes-plugin.md) | ⭐ 3 | Python | 42/100 |
+| 18 | [sunfishloop/sunfishloop-mcp](./sunfishloop-sunfishloop-mcp.md) | ⭐ — | TypeScript | 41/100 |
 | 19 | [rafaeladriano-web/aurafarming](./rafaeladriano-web-aurafarming.md) | ⭐ — | TypeScript | 39/100 |
 | 20 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
 | 21 | [anthropic/claude-agent-sdk](./anthropic-claude-agent-sdk.md) | ⭐ — | — | 36/100 |

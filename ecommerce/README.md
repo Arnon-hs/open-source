@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tungnguyen84/shopify-woocommerce-product-price-scraper](./tungnguyen84-shopify-woocommerce-product-price-scraper.md) | ⭐ — | Python | 69/100 |
+| 1 | [tungnguyen84/shopify-woocommerce-product-price-scraper](./tungnguyen84-shopify-woocommerce-product-price-scraper.md) | ⭐ — | Python | 66/100 |
 | 2 | [Imbiber/listing-genius](./imbiber-listing-genius.md) | ⭐ — | TypeScript | 33/100 |
 | 3 | [hitesh-kumar123/cartspark-ai](./hitesh-kumar123-cartspark-ai.md) | ⭐ — | JavaScript | 30/100 |
 | 4 | [saquib-shahid/vendorforge-ai](./saquib-shahid-vendorforge-ai.md) | ⭐ — | JavaScript | 30/100 |
