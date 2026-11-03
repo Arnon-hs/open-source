@@ -1,6 +1,6 @@
 # fedya-dev/gistly
 
-[![Stars](https://img.shields.io/github/stars/fedya-dev/gistly?style=flat-square&color=yellow)](https://github.com/fedya-dev/gistly/stargazers) [![Forks](https://img.shields.io/github/forks/fedya-dev/gistly?style=flat-square&color=blue)](https://github.com/fedya-dev/gistly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fedya-dev/gistly?style=flat-square&color=yellow)](https://github.com/fedya-dev/gistly/stargazers) [![Forks](https://img.shields.io/github/forks/fedya-dev/gistly?style=flat-square&color=blue)](https://github.com/fedya-dev/gistly/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Gistly is a lightweight, open-source alternative to GitHub Gists / OpenGist that you can run on  your own server  with a single Docker command.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ fedya-dev/gistly：fedya-dev/gistly may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 52/100 |
+| production | 54/100 |
+| outlook | 45/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 900/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

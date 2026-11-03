@@ -10,11 +10,11 @@
 |---|---|---|---|---|
 | 1 | [TheMukeshDev/Ghost-in-the-Codebase](./themukeshdev-ghost-in-the-codebase.md) | ⭐ — | TypeScript | 42/100 |
 | 2 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
-| 3 | [coderForLife-A1/Daemon](./coderforlife-a1-daemon.md) | ⭐ — | Python | 39/100 |
-| 4 | [gokulkakde/touchgrass](./gokulkakde-touchgrass.md) | ⭐ — | Python | 39/100 |
-| 5 | [antivex/hf26-week4](./antivex-hf26-week4.md) | ⭐ — | Python | 39/100 |
-| 6 | [EchoAnshu/GhostShell](./echoanshu-ghostshell.md) | ⭐ — | Python | 39/100 |
-| 7 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 38/100 |
+| 3 | [gokulkakde/touchgrass](./gokulkakde-touchgrass.md) | ⭐ — | Python | 39/100 |
+| 4 | [antivex/hf26-week4](./antivex-hf26-week4.md) | ⭐ — | Python | 39/100 |
+| 5 | [EchoAnshu/GhostShell](./echoanshu-ghostshell.md) | ⭐ — | Python | 39/100 |
+| 6 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 38/100 |
+| 7 | [coderForLife-A1/Daemon](./coderforlife-a1-daemon.md) | ⭐ — | Python | 36/100 |
 | 8 | [kusalar/nova-local](./kusalar-nova-local.md) | ⭐ — | Python | 36/100 |
 | 9 | [padmalochini27-del/SlothSort](./padmalochini27-del-slothsort.md) | ⭐ — | Python | 36/100 |
 | 10 | [YuvrajSHAD/Desktop-Companion](./yuvrajshad-desktop-companion.md) | ⭐ — | Python | 36/100 |

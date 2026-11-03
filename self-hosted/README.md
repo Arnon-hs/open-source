@@ -11,7 +11,7 @@
 | 1 | [shoodoow/kuru](./shoodoow-kuru.md) | ⭐ 2 | TypeScript | 65/100 |
 | 2 | [shikijs/shiki](./shikijs-shiki.md) | ⭐ 13.9k | TypeScript | 63/100 |
 | 3 | [kenyounot123/moneypouch](./kenyounot123-moneypouch.md) | ⭐ 3 | Ruby | 57/100 |
-| 4 | [fedya-dev/gistly](./fedya-dev-gistly.md) | ⭐ 1 | TypeScript | 46/100 |
+| 4 | [fedya-dev/gistly](./fedya-dev-gistly.md) | ⭐ 1 | TypeScript | 43/100 |
 | 5 | [garage/garage](./garage-garage.md) | ⭐ — | — | 28/100 |
 | 6 | [lobechat/lobechat](./lobechat-lobechat.md) | ⭐ — | — | 24/100 |
 | 7 | [cdr/code-server](./cdr-code-server.md) | ⭐ — | — | 24/100 |
