@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44073** |
-| **Categories** | **615** |
+| **Projects** | **44076** |
+| **Categories** | **616** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17745 | [Browse →](./misc/) |
+| 📦 **Misc** | 17746 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4669 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2914 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2428 | [Browse →](./orchestration/) |
@@ -88,10 +88,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
+| 🏷️ **Browser-automation** | 5 | [Browse →](./browser-automation/) |
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Wordpress** | 5 | [Browse →](./wordpress/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
-| 🏷️ **Browser-automation** | 4 | [Browse →](./browser-automation/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
 | 🏷️ **Ios** | 4 | [Browse →](./ios/) |
@@ -220,6 +220,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Jvm** | 1 | [Browse →](./jvm/) |
 | 🏷️ **Data-reconciliation** | 1 | [Browse →](./data-reconciliation/) |
 | 🏷️ **Shader-compiler** | 1 | [Browse →](./shader-compiler/) |
 | 🏷️ **Changelog** | 1 | [Browse →](./changelog/) |

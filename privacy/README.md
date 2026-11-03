@@ -24,8 +24,8 @@
 | 14 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 30/100 |
 | 15 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 30/100 |
 | 16 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
-| 17 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 30/100 |
-| 18 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 30/100 |
+| 17 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 30/100 |
+| 18 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 27/100 |
 | 19 | [graphify/graphify](./graphify-graphify.md) | ⭐ — | — | 24/100 |
 | 20 | [yourrepo/pyxis](./yourrepo-pyxis.md) | ⭐ — | — | 24/100 |
 | 21 | [ntsd/llama.rn](./ntsd-llama.rn.md) | ⭐ — | — | 24/100 |
