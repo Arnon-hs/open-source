@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [GabrieleDattile/agent-superpowers](./gabrieledattile-agent-superpowers.md) | ⭐ 1 | Python | 70/100 |
-| 2 | [postbye-team/postbye-mcp](./postbye-team-postbye-mcp.md) | ⭐ — | — | 69/100 |
+| 1 | [postbye-team/postbye-mcp](./postbye-team-postbye-mcp.md) | ⭐ — | — | 69/100 |
+| 2 | [GabrieleDattile/agent-superpowers](./gabrieledattile-agent-superpowers.md) | ⭐ 1 | Python | 67/100 |
 | 3 | [GaffaAI/gaffa-for-ai](./gaffaai-gaffa-for-ai.md) | ⭐ — | Shell | 67/100 |
 | 4 | [RinDig/Interpretable-Context-Methodology](./rindig-interpretable-context-methodology.md) | ⭐ 1.4k | Python | 65/100 |
 | 5 | [whereabot/whereabot](./whereabot-whereabot.md) | ⭐ — | JavaScript | 63/100 |
