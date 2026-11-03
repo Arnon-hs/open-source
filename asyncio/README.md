@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [smtherer/ChaosSloth](./smtherer-chaossloth.md) | ⭐ — | Python | 36/100 |
+| 1 | [smtherer/ChaosSloth](./smtherer-chaossloth.md) | ⭐ — | Python | 33/100 |
 
 ---
 

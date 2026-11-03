@@ -1,6 +1,6 @@
 # jchsoft/mcp4mail
 
-[![Stars](https://img.shields.io/github/stars/jchsoft/mcp4mail?style=flat-square&color=yellow)](https://github.com/jchsoft/mcp4mail/stargazers) [![Forks](https://img.shields.io/github/forks/jchsoft/mcp4mail?style=flat-square&color=blue)](https://github.com/jchsoft/mcp4mail/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jchsoft/mcp4mail?style=flat-square&color=yellow)](https://github.com/jchsoft/mcp4mail/stargazers) [![Forks](https://img.shields.io/github/forks/jchsoft/mcp4mail?style=flat-square&color=blue)](https://github.com/jchsoft/mcp4mail/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Your IMAP mailbox as an MCP server (OAuth 2.1, self-hostable). Built in public by AI coding agents orchestrated through mcptask.online.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ jchsoft/mcp4mail：jchsoft/mcp4mail may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 70/100 |
+| production | 56/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

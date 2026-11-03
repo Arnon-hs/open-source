@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jchsoft/mcp4mail](./jchsoft-mcp4mail.md) | ⭐ — | Ruby | 60/100 |
+| 1 | [jchsoft/mcp4mail](./jchsoft-mcp4mail.md) | ⭐ — | Ruby | 57/100 |
 
 ---
 
