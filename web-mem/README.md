@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [carlosjcastro/linkmortem-playground](./carlosjcastro-linkmortem-playground.md) | ⭐ — | — | 43/100 |
+| 1 | [carlosjcastro/linkmortem-playground](./carlosjcastro-linkmortem-playground.md) | ⭐ — | — | 39/100 |
 
 ---
 

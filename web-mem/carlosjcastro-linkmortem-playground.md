@@ -1,6 +1,6 @@
 # carlosjcastro/linkmortem-playground
 
-[![Stars](https://img.shields.io/github/stars/carlosjcastro/linkmortem-playground?style=flat-square&color=yellow)](https://github.com/carlosjcastro/linkmortem-playground/stargazers) [![Forks](https://img.shields.io/github/forks/carlosjcastro/linkmortem-playground?style=flat-square&color=blue)](https://github.com/carlosjcastro/linkmortem-playground/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/carlosjcastro/linkmortem-playground?style=flat-square&color=yellow)](https://github.com/carlosjcastro/linkmortem-playground/stargazers) [![Forks](https://img.shields.io/github/forks/carlosjcastro/linkmortem-playground?style=flat-square&color=blue)](https://github.com/carlosjcastro/linkmortem-playground/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Demo repository for the Linkmortem GitHub Action. Its README keeps a renamed section and a retired Unity tutorial on purpose, so the Action can open a pull request with the fixes it can prove and keep an issue with the full report.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -54,22 +54,22 @@ carlosjcastro/linkmortem-playground：carlosjcastro/linkmortem-playground may be
 - updated 2026-10-31
 - 6 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 58/100 |
+| production | 53/100 |
+| outlook | 51/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
