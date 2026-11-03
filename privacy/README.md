@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | 1 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 44/100 |
 | 2 | [sametatakan0000-netizen/pergel](./sametatakan0000-netizen-pergel.md) | ⭐ 1 | Python | 40/100 |
-| 3 | [shrey04kaitke-sys/PhantomShellAI](./shrey04kaitke-sys-phantomshellai.md) | ⭐ — | Python | 39/100 |
-| 4 | [laiba-Ashfaq/ofrenda](./laiba-ashfaq-ofrenda.md) | ⭐ — | Python | 39/100 |
+| 3 | [laiba-Ashfaq/ofrenda](./laiba-ashfaq-ofrenda.md) | ⭐ — | Python | 39/100 |
+| 4 | [shrey04kaitke-sys/PhantomShellAI](./shrey04kaitke-sys-phantomshellai.md) | ⭐ — | Python | 36/100 |
 | 5 | [Abhinav-Shrivas/Ghost-in-the-machine](./abhinav-shrivas-ghost-in-the-machine.md) | ⭐ — | JavaScript | 36/100 |
 | 6 | [shivammusic/fresh-air-match](./shivammusic-fresh-air-match.md) | ⭐ — | Python | 36/100 |
 | 7 | [Bhavya4523/still-charging](./bhavya4523-still-charging.md) | ⭐ — | JavaScript | 36/100 |

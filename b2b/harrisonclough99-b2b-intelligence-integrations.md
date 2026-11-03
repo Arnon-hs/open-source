@@ -1,6 +1,6 @@
 # harrisonclough99/b2b-intelligence-integrations
 
-[![Stars](https://img.shields.io/github/stars/harrisonclough99/b2b-intelligence-integrations?style=flat-square&color=yellow)](https://github.com/harrisonclough99/b2b-intelligence-integrations/stargazers) [![Forks](https://img.shields.io/github/forks/harrisonclough99/b2b-intelligence-integrations?style=flat-square&color=blue)](https://github.com/harrisonclough99/b2b-intelligence-integrations/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harrisonclough99/b2b-intelligence-integrations?style=flat-square&color=yellow)](https://github.com/harrisonclough99/b2b-intelligence-integrations/stargazers) [![Forks](https://img.shields.io/github/forks/harrisonclough99/b2b-intelligence-integrations?style=flat-square&color=blue)](https://github.com/harrisonclough99/b2b-intelligence-integrations/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 12 B2B Lead Enrichment, DNS MX Email Verification, MCP Server & Public Registry Apify Actors — Ready-to-Import n8n Workflows, Clay.com HTTP API Columns & Claude/Cursor MCP Configs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ harrisonclough99/b2b-intelligence-integrations：harrisonclough99/b2b-intelligen
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 61/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
