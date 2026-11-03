@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [driftprobe/driftprobe](./driftprobe-driftprobe.md) | ⭐ 1 | JavaScript | 66/100 |
+| 1 | [driftprobe/driftprobe](./driftprobe-driftprobe.md) | ⭐ 1 | JavaScript | 63/100 |
 
 ---
 

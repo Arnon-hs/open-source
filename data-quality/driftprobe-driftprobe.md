@@ -1,6 +1,6 @@
 # driftprobe/driftprobe
 
-[![Stars](https://img.shields.io/github/stars/driftprobe/driftprobe?style=flat-square&color=yellow)](https://github.com/driftprobe/driftprobe/stargazers) [![Forks](https://img.shields.io/github/forks/driftprobe/driftprobe?style=flat-square&color=blue)](https://github.com/driftprobe/driftprobe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/driftprobe/driftprobe?style=flat-square&color=yellow)](https://github.com/driftprobe/driftprobe/stargazers) [![Forks](https://img.shields.io/github/forks/driftprobe/driftprobe?style=flat-square&color=blue)](https://github.com/driftprobe/driftprobe/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Continuous data contract tests for AI agents: catch the API or MCP tool that still answers 200 but no longer delivers what your agent needs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ driftprobe/driftprobe：driftprobe/driftprobe may be useful when its README and 
 - primary language: JavaScript
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 71/100 |
+| production | 58/100 |
+| outlook | 64/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 400/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

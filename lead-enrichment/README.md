@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rthalley/dnspython](./rthalley-dnspython.md) | ⭐ 2.7k | Python | 68/100 |
+| 1 | [rthalley/dnspython](./rthalley-dnspython.md) | ⭐ 2.7k | Python | 65/100 |
 
 ---
 
