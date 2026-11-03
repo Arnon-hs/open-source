@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43992** |
-| **Categories** | **609** |
+| **Projects** | **44002** |
+| **Categories** | **611** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17708 | [Browse →](./misc/) |
+| 📦 **Misc** | 17712 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4665 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2911 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2422 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2423 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1614 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1504 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 665 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 629 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 623 | [Browse →](./cloud--storage/) |
-| 🏷️ **Video-editing** | 575 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 576 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 567 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 530 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 483 | [Browse →](./templates/) |
@@ -54,8 +54,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 149 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 147 | [Browse →](./vertical-video/) |
+| 🏷️ **Open-source** | 45 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 45 | [Browse →](./ai-agents/) |
-| 🏷️ **Open-source** | 44 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
@@ -91,6 +91,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Wordpress** | 5 | [Browse →](./wordpress/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
+| 🏷️ **Browser-automation** | 4 | [Browse →](./browser-automation/) |
 | 🏷️ **Ai-coding** | 4 | [Browse →](./ai-coding/) |
 | 🏷️ **Ios** | 4 | [Browse →](./ios/) |
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
@@ -110,7 +111,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Agent** | 3 | [Browse →](./agent/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
-| 🏷️ **Browser-automation** | 3 | [Browse →](./browser-automation/) |
 | 🏷️ **Comfyui** | 3 | [Browse →](./comfyui/) |
 | 🏷️ **Linux** | 3 | [Browse →](./linux/) |
 | 🏷️ **Nextjs** | 3 | [Browse →](./nextjs/) |
@@ -219,6 +219,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Whisper** | 1 | [Browse →](./whisper/) |
+| 🏷️ **Retrieval-dilution** | 1 | [Browse →](./retrieval-dilution/) |
+| 🏷️ **Tokenization** | 1 | [Browse →](./tokenization/) |
 | 🏷️ **Music-player** | 1 | [Browse →](./music-player/) |
 | 🏷️ **Download-manager** | 1 | [Browse →](./download-manager/) |
 | 🏷️ **Crewai** | 1 | [Browse →](./crewai/) |
@@ -341,7 +344,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ebook-reader** | 1 | [Browse →](./ebook-reader/) |
 | 🏷️ **Da-de-los-muertos** | 1 | [Browse →](./da-de-los-muertos/) |
 | 🏷️ **Focus** | 1 | [Browse →](./focus/) |
-| 🏷️ **Agentic-coding** | 1 | [Browse →](./agentic-coding/) |
 | 🏷️ **Legal** | 1 | [Browse →](./legal/) |
 | 🏷️ **Visual-workflow** | 1 | [Browse →](./visual-workflow/) |
 | 🏷️ **Crashanalysis** | 1 | [Browse →](./crashanalysis/) |

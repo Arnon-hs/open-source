@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [manish7017/Whisper-FFmpeg-Transcriber-](./manish7017-whisper-ffmpeg-transcriber-.md) | ⭐ — | Python | 46/100 |
+| 1 | [faster-whisper/faster-whisper](./faster-whisper-faster-whisper.md) | ⭐ — | — | 24/100 |
 
 ---
 

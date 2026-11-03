@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hepengju/redis-me](./hepengju-redis-me.md) | ⭐ 129 | TypeScript | 53/100 |
+| 1 | [hepengju/redis-me](./hepengju-redis-me.md) | ⭐ 129 | TypeScript | 50/100 |
 
 ---
 

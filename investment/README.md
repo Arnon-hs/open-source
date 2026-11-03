@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Heramb1221/poolfolio](./heramb1221-poolfolio.md) | ⭐ — | TypeScript | 33/100 |
+| 1 | [Heramb1221/poolfolio](./heramb1221-poolfolio.md) | ⭐ — | TypeScript | 30/100 |
 | 2 | [google-research/tabpfn](./google-research-tabpfn.md) | ⭐ — | — | 27/100 |
 
 ---
