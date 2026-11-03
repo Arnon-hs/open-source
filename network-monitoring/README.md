@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rishabh-hasija/spectarlan](./rishabh-hasija-spectarlan.md) | ⭐ — | Python | 46/100 |
+| 1 | [rishabh-hasija/spectarlan](./rishabh-hasija-spectarlan.md) | ⭐ — | Python | 43/100 |
 
 ---
 
