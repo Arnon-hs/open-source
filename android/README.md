@@ -2,7 +2,7 @@
 
 > 
 
-**18 projects** in this category.
+**17 projects** in this category.
 
 ## Projects
 
@@ -18,14 +18,13 @@
 | 8 | [ThalzeronLabs/android-on-device-llm](./thalzeronlabs-android-on-device-llm.md) | ⭐ — | Kotlin | 43/100 |
 | 9 | [kotlinsyd/Plavio](./kotlinsyd-plavio.md) | ⭐ 11 | Kotlin | 43/100 |
 | 10 | [munimtechnologies/l10n-guard](./munimtechnologies-l10n-guard.md) | ⭐ 1 | Python | 43/100 |
-| 11 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 5 | Kotlin | 43/100 |
-| 12 | [munimtechnologies/android-translation-crash-census](./munimtechnologies-android-translation-crash-census.md) | ⭐ — | Python | 42/100 |
-| 13 | [s9723651-debug/anrobeam](./s9723651-debug-anrobeam.md) | ⭐ — | HTML | 36/100 |
-| 14 | [Hamsan2013/APK-bridge--Windows-](./hamsan2013-apk-bridge--windows-.md) | ⭐ — | C# | 33/100 |
-| 15 | [afeemuhammodwafy1/doseleaf](./afeemuhammodwafy1-doseleaf.md) | ⭐ — | Kotlin | 33/100 |
-| 16 | [jlowin/fastmcp](./jlowin-fastmcp.md) | ⭐ — | — | 32/100 |
-| 17 | [sanjay434343/Pipit](./sanjay434343-pipit.md) | ⭐ — | Dart | 30/100 |
-| 18 | [google/litert](./google-litert.md) | ⭐ — | — | 27/100 |
+| 11 | [munimtechnologies/android-translation-crash-census](./munimtechnologies-android-translation-crash-census.md) | ⭐ — | Python | 42/100 |
+| 12 | [s9723651-debug/anrobeam](./s9723651-debug-anrobeam.md) | ⭐ — | HTML | 36/100 |
+| 13 | [Hamsan2013/APK-bridge--Windows-](./hamsan2013-apk-bridge--windows-.md) | ⭐ — | C# | 33/100 |
+| 14 | [afeemuhammodwafy1/doseleaf](./afeemuhammodwafy1-doseleaf.md) | ⭐ — | Kotlin | 33/100 |
+| 15 | [jlowin/fastmcp](./jlowin-fastmcp.md) | ⭐ — | — | 32/100 |
+| 16 | [sanjay434343/Pipit](./sanjay434343-pipit.md) | ⭐ — | Dart | 30/100 |
+| 17 | [google/litert](./google-litert.md) | ⭐ — | — | 27/100 |
 
 ---
 
