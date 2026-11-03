@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [backmeupplz/absplus](./backmeupplz-absplus.md) | ⭐ — | Kotlin | 48/100 |
+| 1 | [backmeupplz/absplus](./backmeupplz-absplus.md) | ⭐ — | Kotlin | 45/100 |
 
 ---
 
