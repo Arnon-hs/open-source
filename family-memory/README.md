@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [yosef7/cuentame](./yosef7-cuentame.md) | ⭐ — | Python | 42/100 |
+| 1 | [yosef7/cuentame](./yosef7-cuentame.md) | ⭐ — | Python | 39/100 |
 
 ---
 

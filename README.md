@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **43935** |
-| **Categories** | **603** |
+| **Projects** | **43940** |
+| **Categories** | **605** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17685 | [Browse →](./misc/) |
+| 📦 **Misc** | 17688 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4662 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2907 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2419 | [Browse →](./orchestration/) |
+| 🏷️ **Mcp** | 2908 | [Browse →](./mcp/) |
+| 🧩 **Orchestration** | 2420 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1612 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1502 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 958 | [Browse →](./backend/) |
@@ -62,7 +62,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 27 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 24 | [Browse →](./llm/) |
-| 🏷️ **Local-first** | 21 | [Browse →](./local-first/) |
+| 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Local-llm** | 19 | [Browse →](./local-llm/) |
 | 🏷️ **Android** | 16 | [Browse →](./android/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
@@ -94,7 +94,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ios** | 4 | [Browse →](./ios/) |
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Serverless** | 4 | [Browse →](./serverless/) |
-| 🏷️ **Agent** | 4 | [Browse →](./agent/) |
 | 🏷️ **Ecommerce** | 4 | [Browse →](./ecommerce/) |
 | 🏷️ **Documentation** | 4 | [Browse →](./documentation/) |
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
@@ -108,6 +107,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
+| 🏷️ **Agent** | 3 | [Browse →](./agent/) |
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Browser-automation** | 3 | [Browse →](./browser-automation/) |
 | 🏷️ **Comfyui** | 3 | [Browse →](./comfyui/) |
@@ -220,6 +220,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agentverse** | 1 | [Browse →](./agentverse/) |
+| 🏷️ **Quantitative-finance** | 1 | [Browse →](./quantitative-finance/) |
 | 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Gnome** | 1 | [Browse →](./gnome/) |

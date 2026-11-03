@@ -11,8 +11,8 @@
 | 1 | [GabrieleDattile/agent-superpowers](./gabrieledattile-agent-superpowers.md) | ⭐ 1 | Python | 70/100 |
 | 2 | [postbye-team/postbye-mcp](./postbye-team-postbye-mcp.md) | ⭐ — | — | 69/100 |
 | 3 | [GaffaAI/gaffa-for-ai](./gaffaai-gaffa-for-ai.md) | ⭐ — | Shell | 67/100 |
-| 4 | [whereabot/whereabot](./whereabot-whereabot.md) | ⭐ — | JavaScript | 66/100 |
-| 5 | [RinDig/Interpretable-Context-Methodology](./rindig-interpretable-context-methodology.md) | ⭐ 1.4k | Python | 65/100 |
+| 4 | [RinDig/Interpretable-Context-Methodology](./rindig-interpretable-context-methodology.md) | ⭐ 1.4k | Python | 65/100 |
+| 5 | [whereabot/whereabot](./whereabot-whereabot.md) | ⭐ — | JavaScript | 63/100 |
 | 6 | [easyeda/easyeda-api-skill](./easyeda-easyeda-api-skill.md) | ⭐ 977 | JavaScript | 61/100 |
 | 7 | [meta-taro/dbboard](./meta-taro-dbboard.md) | ⭐ — | Rust | 59/100 |
 | 8 | [DreamOfXM/agent-ping](./dreamofxm-agent-ping.md) | ⭐ 5 | C++ | 59/100 |
