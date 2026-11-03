@@ -15,10 +15,10 @@
 | 5 | [lance-format/lance-graph](./lance-format-lance-graph.md) | ⭐ 186 | Rust | 46/100 |
 | 6 | [Phantom9869/Revenant](./phantom9869-revenant.md) | ⭐ — | Python | 42/100 |
 | 7 | [KomalDeep355/software-cemetery](./komaldeep355-software-cemetery.md) | ⭐ — | Python | 42/100 |
-| 8 | [oleg-vdv/shezhire](./oleg-vdv-shezhire.md) | ⭐ — | Python | 42/100 |
-| 9 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 41/100 |
-| 10 | [Anandb71/names-in-the-machine](./anandb71-names-in-the-machine.md) | ⭐ — | Python | 39/100 |
-| 11 | [vrRanjith/ghostcommit](./vrranjith-ghostcommit.md) | ⭐ — | Python | 39/100 |
+| 8 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 41/100 |
+| 9 | [Anandb71/names-in-the-machine](./anandb71-names-in-the-machine.md) | ⭐ — | Python | 39/100 |
+| 10 | [vrRanjith/ghostcommit](./vrranjith-ghostcommit.md) | ⭐ — | Python | 39/100 |
+| 11 | [oleg-vdv/shezhire](./oleg-vdv-shezhire.md) | ⭐ — | Python | 39/100 |
 | 12 | [mrerror313coder/QuestLearn](./mrerror313coder-questlearn.md) | ⭐ — | Python | 39/100 |
 | 13 | [Adii0906/hacktoberfest-starter](./adii0906-hacktoberfest-starter.md) | ⭐ — | Python | 37/100 |
 | 14 | [ItsRayZer/axo-ai](./itsrayzer-axo-ai.md) | ⭐ — | JavaScript | 36/100 |
