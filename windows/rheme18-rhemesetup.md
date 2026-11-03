@@ -1,6 +1,6 @@
 # rheme18/RhemeSetup
 
-[![Stars](https://img.shields.io/github/stars/rheme18/RhemeSetup?style=flat-square&color=yellow)](https://github.com/rheme18/RhemeSetup/stargazers) [![Forks](https://img.shields.io/github/forks/rheme18/RhemeSetup?style=flat-square&color=blue)](https://github.com/rheme18/RhemeSetup/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rheme18/RhemeSetup?style=flat-square&color=yellow)](https://github.com/rheme18/RhemeSetup/stargazers) [![Forks](https://img.shields.io/github/forks/rheme18/RhemeSetup?style=flat-square&color=blue)](https://github.com/rheme18/RhemeSetup/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A modern, dark-themed Windows tool that streamlines post-format Windows setups: download dozens of applications with a single click, instantly uninstall programs, apply advanced tweaks, and optimize your system. No installation required; it utilizes `winget`.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ rheme18/RhemeSetup：rheme18/RhemeSetup may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 41/100 |
+| quality | 36/100 |
 | integration | 46/100 |
-| production | 59/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 12/100 |
 | categoryMatchCount | 700/100 |
 | stars | 17/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

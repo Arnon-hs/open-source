@@ -1,6 +1,6 @@
 # rdlabo-dev/ionic-theme-ios27
 
-[![Stars](https://img.shields.io/github/stars/rdlabo-dev/ionic-theme-ios27?style=flat-square&color=yellow)](https://github.com/rdlabo-dev/ionic-theme-ios27/stargazers) [![Forks](https://img.shields.io/github/forks/rdlabo-dev/ionic-theme-ios27?style=flat-square&color=blue)](https://github.com/rdlabo-dev/ionic-theme-ios27/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rdlabo-dev/ionic-theme-ios27?style=flat-square&color=yellow)](https://github.com/rdlabo-dev/ionic-theme-ios27/stargazers) [![Forks](https://img.shields.io/github/forks/rdlabo-dev/ionic-theme-ios27?style=flat-square&color=blue)](https://github.com/rdlabo-dev/ionic-theme-ios27/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > CSS/JavaScript Library for Ionic Framework
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 174 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ rdlabo-dev/ionic-theme-ios27：rdlabo-dev/ionic-theme-ios27 may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 64/100 |
+| production | 58/100 |
+| outlook | 57/100 |
 | adoption | 41/100 |
 | categoryMatchCount | 800/100 |
 | stars | 48/100 |
 | forks | 25/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

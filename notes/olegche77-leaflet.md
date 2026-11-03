@@ -1,6 +1,6 @@
 # OlegChe77/leaflet
 
-[![Stars](https://img.shields.io/github/stars/OlegChe77/leaflet?style=flat-square&color=yellow)](https://github.com/OlegChe77/leaflet/stargazers) [![Forks](https://img.shields.io/github/forks/OlegChe77/leaflet?style=flat-square&color=blue)](https://github.com/OlegChe77/leaflet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OlegChe77/leaflet?style=flat-square&color=yellow)](https://github.com/OlegChe77/leaflet/stargazers) [![Forks](https://img.shields.io/github/forks/OlegChe77/leaflet?style=flat-square&color=blue)](https://github.com/OlegChe77/leaflet/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Лёгкий заметочник для Windows на Markdown: [[ссылки]], обратные ссылки, поиск, темы. A lightweight Markdown notes app for Windows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ OlegChe77/leaflet：OlegChe77/leaflet may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 63/100 |
+| production | 56/100 |
+| outlook | 56/100 |
 | adoption | 21/100 |
 | categoryMatchCount | 600/100 |
 | stars | 26/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
