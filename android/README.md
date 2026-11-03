@@ -18,8 +18,8 @@
 | 8 | [munimtechnologies/l10n-guard](./munimtechnologies-l10n-guard.md) | ⭐ 1 | Python | 43/100 |
 | 9 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 5 | Kotlin | 43/100 |
 | 10 | [munimtechnologies/android-translation-crash-census](./munimtechnologies-android-translation-crash-census.md) | ⭐ — | Python | 42/100 |
-| 11 | [Hamsan2013/APK-bridge--Windows-](./hamsan2013-apk-bridge--windows-.md) | ⭐ — | C# | 36/100 |
-| 12 | [s9723651-debug/anrobeam](./s9723651-debug-anrobeam.md) | ⭐ — | HTML | 36/100 |
+| 11 | [s9723651-debug/anrobeam](./s9723651-debug-anrobeam.md) | ⭐ — | HTML | 36/100 |
+| 12 | [Hamsan2013/APK-bridge--Windows-](./hamsan2013-apk-bridge--windows-.md) | ⭐ — | C# | 33/100 |
 | 13 | [afeemuhammodwafy1/doseleaf](./afeemuhammodwafy1-doseleaf.md) | ⭐ — | Kotlin | 33/100 |
 | 14 | [jlowin/fastmcp](./jlowin-fastmcp.md) | ⭐ — | — | 32/100 |
 | 15 | [sanjay434343/Pipit](./sanjay434343-pipit.md) | ⭐ — | Dart | 30/100 |

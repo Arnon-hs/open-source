@@ -1,6 +1,6 @@
 # shouvik12/living-canvas
 
-[![Stars](https://img.shields.io/github/stars/shouvik12/living-canvas?style=flat-square&color=yellow)](https://github.com/shouvik12/living-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/shouvik12/living-canvas?style=flat-square&color=blue)](https://github.com/shouvik12/living-canvas/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shouvik12/living-canvas?style=flat-square&color=yellow)](https://github.com/shouvik12/living-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/shouvik12/living-canvas?style=flat-square&color=blue)](https://github.com/shouvik12/living-canvas/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Claude skill that turns any repo, doc or sentence into an animated README banner — pure SVG, no JS, ~7 KB
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ shouvik12/living-canvas：shouvik12/living-canvas may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 66/100 |
+| production | 56/100 |
+| outlook | 59/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 600/100 |
 | stars | 13/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
