@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [FWICSS/caribscope](./fwicss-caribscope.md) | ⭐ — | Python | 52/100 |
+| 1 | [FWICSS/caribscope](./fwicss-caribscope.md) | ⭐ — | Python | 49/100 |
 
 ---
 
