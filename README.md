@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44126** |
-| **Categories** | **622** |
+| **Projects** | **44130** |
+| **Categories** | **623** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Video-editing** | 578 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 571 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 530 | [Browse →](./devopsinfra/) |
-| 🏷️ **Templates** | 483 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 484 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 463 | [Browse →](./communication/) |
 | 🔐 **Security** | 462 | [Browse →](./security/) |
 | 💳 **Payments** | 376 | [Browse →](./payments/) |
@@ -54,8 +54,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 149 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 148 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai-agents** | 45 | [Browse →](./ai-agents/) |
-| 🏷️ **Open-source** | 45 | [Browse →](./open-source/) |
+| 🏷️ **Ai-agents** | 46 | [Browse →](./ai-agents/) |
+| 🏷️ **Open-source** | 46 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
@@ -221,6 +221,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Automotive** | 1 | [Browse →](./automotive/) |
 | 🏷️ **Monitor-setup** | 1 | [Browse →](./monitor-setup/) |
 | 🏷️ **Ledger** | 1 | [Browse →](./ledger/) |
 | 🏷️ **Refaster** | 1 | [Browse →](./refaster/) |
