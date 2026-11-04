@@ -9,9 +9,9 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [wangzan101/Mika](./wangzan101-mika.md) | ⭐ 3.6k | Kotlin | 66/100 |
-| 2 | [ESeungJun/droidlens](./eseungjun-droidlens.md) | ⭐ 5 | TypeScript | 62/100 |
-| 3 | [fengshihao/agent1](./fengshihao-agent1.md) | ⭐ 3 | Java | 62/100 |
-| 4 | [TeamNewPipe/NewPipeExtractor](./teamnewpipe-newpipeextractor.md) | ⭐ 2k | Java | 60/100 |
+| 2 | [fengshihao/agent1](./fengshihao-agent1.md) | ⭐ 3 | Java | 62/100 |
+| 3 | [TeamNewPipe/NewPipeExtractor](./teamnewpipe-newpipeextractor.md) | ⭐ 2k | Java | 60/100 |
+| 4 | [ESeungJun/droidlens](./eseungjun-droidlens.md) | ⭐ 5 | TypeScript | 59/100 |
 | 5 | [ThalzeronLabs/llama-kotlin](./thalzeronlabs-llama-kotlin.md) | ⭐ — | Kotlin | 51/100 |
 | 6 | [Dweep4269/sideraven](./dweep4269-sideraven.md) | ⭐ 151 | Kotlin | 49/100 |
 | 7 | [BEKO2210/spyhound](./beko2210-spyhound.md) | ⭐ — | Kotlin | 44/100 |
