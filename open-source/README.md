@@ -13,10 +13,10 @@
 | 3 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 50/100 |
 | 4 | [DeadY2J/skills-es](./deady2j-skills-es.md) | ⭐ — | Python | 48/100 |
 | 5 | [lance-format/lance-graph](./lance-format-lance-graph.md) | ⭐ 186 | Rust | 46/100 |
-| 6 | [KomalDeep355/software-cemetery](./komaldeep355-software-cemetery.md) | ⭐ — | Python | 42/100 |
-| 7 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 41/100 |
-| 8 | [Anandb71/names-in-the-machine](./anandb71-names-in-the-machine.md) | ⭐ — | Python | 39/100 |
-| 9 | [Phantom9869/Revenant](./phantom9869-revenant.md) | ⭐ — | Python | 39/100 |
+| 6 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 41/100 |
+| 7 | [Anandb71/names-in-the-machine](./anandb71-names-in-the-machine.md) | ⭐ — | Python | 39/100 |
+| 8 | [Phantom9869/Revenant](./phantom9869-revenant.md) | ⭐ — | Python | 39/100 |
+| 9 | [KomalDeep355/software-cemetery](./komaldeep355-software-cemetery.md) | ⭐ — | Python | 39/100 |
 | 10 | [oleg-vdv/shezhire](./oleg-vdv-shezhire.md) | ⭐ — | Python | 39/100 |
 | 11 | [matias1812/vyneural.cl](./matias1812-vyneural.cl.md) | ⭐ — | JavaScript | 36/100 |
 | 12 | [ItsRayZer/axo-ai](./itsrayzer-axo-ai.md) | ⭐ — | JavaScript | 36/100 |

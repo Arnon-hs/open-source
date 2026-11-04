@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bhaktika/ghost-candles](./bhaktika-ghost-candles.md) | ⭐ — | HTML | 36/100 |
+| 1 | [bhaktika/ghost-candles](./bhaktika-ghost-candles.md) | ⭐ — | HTML | 33/100 |
 
 ---
 

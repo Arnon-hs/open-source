@@ -22,8 +22,8 @@
 | 12 | [devanshu-puri/BaseBuildStack](./devanshu-puri-basebuildstack.md) | ⭐ — | TypeScript | 33/100 |
 | 13 | [libsql/libsql-client](./libsql-libsql-client.md) | ⭐ — | — | 32/100 |
 | 14 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 30/100 |
-| 15 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 30/100 |
-| 16 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 30/100 |
+| 15 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 30/100 |
+| 16 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 27/100 |
 | 17 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 27/100 |
 | 18 | [sanniv0/DocuFriend](./sanniv0-docufriend.md) | ⭐ — | JavaScript | 27/100 |
 | 19 | [graphify/graphify](./graphify-graphify.md) | ⭐ — | — | 24/100 |
