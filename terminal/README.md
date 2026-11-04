@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ziuus/orbit-tui](./ziuus-orbit-tui.md) | ⭐ 59 | Rust | 70/100 |
+| 1 | [ziuus/orbit-tui](./ziuus-orbit-tui.md) | ⭐ 59 | Rust | 67/100 |
 | 2 | [SrilalS/ghost-py](./srilals-ghost-py.md) | ⭐ — | Python | 39/100 |
 | 3 | [GAlmeidaDev/shell-ghost](./galmeidadev-shell-ghost.md) | ⭐ — | Python | 36/100 |
 | 4 | [Tuim-editor/Tuim](./tuim-editor-tuim.md) | ⭐ 4 | Zig | 30/100 |

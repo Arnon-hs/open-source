@@ -14,8 +14,8 @@
 | 4 | [josegarridodigio/sluice](./josegarridodigio-sluice.md) | ⭐ 3 | Rust | 65/100 |
 | 5 | [Abubakr-Alsheikh/qtask](./abubakr-alsheikh-qtask.md) | ⭐ — | Python | 63/100 |
 | 6 | [arajgor1/verified-action-protocol](./arajgor1-verified-action-protocol.md) | ⭐ — | TypeScript | 63/100 |
-| 7 | [HMAKT99/ScBee](./hmakt99-scbee.md) | ⭐ 1 | TypeScript | 60/100 |
-| 8 | [ganguydhrubo/sahakarmi](./ganguydhrubo-sahakarmi.md) | ⭐ 1 | TypeScript | 57/100 |
+| 7 | [ganguydhrubo/sahakarmi](./ganguydhrubo-sahakarmi.md) | ⭐ 1 | TypeScript | 57/100 |
+| 8 | [HMAKT99/ScBee](./hmakt99-scbee.md) | ⭐ 1 | TypeScript | 57/100 |
 | 9 | [BenniAlencar/agent-code-sandbox](./bennialencar-agent-code-sandbox.md) | ⭐ 1 | Python | 55/100 |
 | 10 | [holistis/agent-receipt-verify](./holistis-agent-receipt-verify.md) | ⭐ — | JavaScript | 53/100 |
 | 11 | [fainir/agent-harness](./fainir-agent-harness.md) | ⭐ — | Shell | 52/100 |

@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [capacitor-community/admob](./capacitor-community-admob.md) | ⭐ 300 | Java | 54/100 |
 | 2 | [rdlabo-dev/ionic-theme-ios27](./rdlabo-dev-ionic-theme-ios27.md) | ⭐ 174 | TypeScript | 53/100 |
-| 3 | [webview-native-ui/engine](./webview-native-ui-engine.md) | ⭐ 9 | TypeScript | 49/100 |
+| 3 | [webview-native-ui/engine](./webview-native-ui-engine.md) | ⭐ 9 | TypeScript | 46/100 |
 
 ---
 
