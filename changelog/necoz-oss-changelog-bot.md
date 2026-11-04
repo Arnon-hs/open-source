@@ -1,6 +1,6 @@
 # necoz-oss/changelog-bot
 
-[![Stars](https://img.shields.io/github/stars/necoz-oss/changelog-bot?style=flat-square&color=yellow)](https://github.com/necoz-oss/changelog-bot/stargazers) [![Forks](https://img.shields.io/github/forks/necoz-oss/changelog-bot?style=flat-square&color=blue)](https://github.com/necoz-oss/changelog-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/necoz-oss/changelog-bot?style=flat-square&color=yellow)](https://github.com/necoz-oss/changelog-bot/stargazers) [![Forks](https://img.shields.io/github/forks/necoz-oss/changelog-bot?style=flat-square&color=blue)](https://github.com/necoz-oss/changelog-bot/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic create changelog with AI. 🤖 It provides CLI and github actions. 🚀  https://www.npmjs.com/package/@nyaomaru/changelog-bot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ necoz-oss/changelog-bot：necoz-oss/changelog-bot may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 78/100 |
-| production | 72/100 |
-| outlook | 79/100 |
+| production | 66/100 |
+| outlook | 72/100 |
 | adoption | 30/100 |
 | categoryMatchCount | 600/100 |
 | stars | 32/100 |
 | forks | 24/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

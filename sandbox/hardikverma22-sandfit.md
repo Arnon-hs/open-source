@@ -1,6 +1,6 @@
 # hardikverma22/sandfit
 
-[![Stars](https://img.shields.io/github/stars/hardikverma22/sandfit?style=flat-square&color=yellow)](https://github.com/hardikverma22/sandfit/stargazers) [![Forks](https://img.shields.io/github/forks/hardikverma22/sandfit?style=flat-square&color=blue)](https://github.com/hardikverma22/sandfit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hardikverma22/sandfit?style=flat-square&color=yellow)](https://github.com/hardikverma22/sandfit/stargazers) [![Forks](https://img.shields.io/github/forks/hardikverma22/sandfit?style=flat-square&color=blue)](https://github.com/hardikverma22/sandfit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Turn on your coding agent's sandbox without breaking your workflow. Builds a least-privilege sandbox policy from your Claude Code and Codex history.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ hardikverma22/sandfit：hardikverma22/sandfit may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 72/100 |
+| production | 58/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

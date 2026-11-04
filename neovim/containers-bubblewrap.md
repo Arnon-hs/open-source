@@ -1,6 +1,6 @@
 # containers/bubblewrap
 
-[![Stars](https://img.shields.io/github/stars/containers/bubblewrap?style=flat-square&color=yellow)](https://github.com/containers/bubblewrap/stargazers) [![Forks](https://img.shields.io/github/forks/containers/bubblewrap?style=flat-square&color=blue)](https://github.com/containers/bubblewrap/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/containers/bubblewrap?style=flat-square&color=yellow)](https://github.com/containers/bubblewrap/stargazers) [![Forks](https://img.shields.io/github/forks/containers/bubblewrap?style=flat-square&color=blue)](https://github.com/containers/bubblewrap/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9.3k |
 | 🍴 **Forks** | 406 |
 | 💻 **Language** | C |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ containers/bubblewrap：containers/bubblewrap may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 30/100 |
-| production | 69/100 |
-| outlook | 76/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 79/100 |
 | categoryMatchCount | 500/100 |
 | stars | 84/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 25/100 |
 | sourceTrust | 70/100 |
 

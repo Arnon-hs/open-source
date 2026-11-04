@@ -1,6 +1,6 @@
 # amirhosseinkz/plane-workflow-mcp
 
-[![Stars](https://img.shields.io/github/stars/amirhosseinkz/plane-workflow-mcp?style=flat-square&color=yellow)](https://github.com/amirhosseinkz/plane-workflow-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/amirhosseinkz/plane-workflow-mcp?style=flat-square&color=blue)](https://github.com/amirhosseinkz/plane-workflow-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/amirhosseinkz/plane-workflow-mcp?style=flat-square&color=yellow)](https://github.com/amirhosseinkz/plane-workflow-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/amirhosseinkz/plane-workflow-mcp?style=flat-square&color=blue)](https://github.com/amirhosseinkz/plane-workflow-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server for Plane, including self-hosted. Claude Code, Codex, and Cursor can plan, start, and complete work under your team's rules, with previews, idempotent writes, and completion records.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ amirhosseinkz/plane-workflow-mcp：amirhosseinkz/plane-workflow-mcp may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 75/100 |
+| production | 61/100 |
+| outlook | 68/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 600/100 |
 | stars | 18/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

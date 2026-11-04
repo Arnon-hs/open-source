@@ -1,6 +1,6 @@
 # openai/codex-plugin-cc
 
-[![Stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=flat-square&color=yellow)](https://github.com/openai/codex-plugin-cc/stargazers) [![Forks](https://img.shields.io/github/forks/openai/codex-plugin-cc?style=flat-square&color=blue)](https://github.com/openai/codex-plugin-cc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openai/codex-plugin-cc?style=flat-square&color=yellow)](https://github.com/openai/codex-plugin-cc/stargazers) [![Forks](https://img.shields.io/github/forks/openai/codex-plugin-cc?style=flat-square&color=blue)](https://github.com/openai/codex-plugin-cc/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Use Codex from Claude Code to review code or delegate tasks.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34.8k |
 | 🍴 **Forks** | 2.4k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ openai/codex-plugin-cc：openai/codex-plugin-cc may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 74/100 |
+| production | 66/100 |
+| outlook | 67/100 |
 | adoption | 93/100 |
 | categoryMatchCount | 600/100 |
 | stars | 97/100 |
 | forks | 85/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

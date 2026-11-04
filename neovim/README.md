@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [containers/bubblewrap](./containers-bubblewrap.md) | ⭐ 9.3k | C | 62/100 |
+| 1 | [containers/bubblewrap](./containers-bubblewrap.md) | ⭐ 9.3k | C | 59/100 |
 
 ---
 

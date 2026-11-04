@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [omer73364/uTube](./omer73364-utube.md) | ⭐ 37 | JavaScript | 65/100 |
+| 1 | [omer73364/uTube](./omer73364-utube.md) | ⭐ 37 | JavaScript | 62/100 |
 
 ---
 

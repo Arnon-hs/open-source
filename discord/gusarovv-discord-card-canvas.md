@@ -1,6 +1,6 @@
 # Gusarovv/discord-card-canvas
 
-[![Stars](https://img.shields.io/github/stars/Gusarovv/discord-card-canvas?style=flat-square&color=yellow)](https://github.com/Gusarovv/discord-card-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/Gusarovv/discord-card-canvas?style=flat-square&color=blue)](https://github.com/Gusarovv/discord-card-canvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Gusarovv/discord-card-canvas?style=flat-square&color=yellow)](https://github.com/Gusarovv/discord-card-canvas/stargazers) [![Forks](https://img.shields.io/github/forks/Gusarovv/discord-card-canvas?style=flat-square&color=blue)](https://github.com/Gusarovv/discord-card-canvas/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Welcome, leave, rank, level-up and info card images for Discord bots. TypeScript builders on node-canvas.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Gusarovv/discord-card-canvas：Gusarovv/discord-card-canvas may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 61/100 |
+| outlook | 61/100 |
 | adoption | 30/100 |
 | categoryMatchCount | 600/100 |
 | stars | 32/100 |
 | forks | 24/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [necoz-oss/changelog-bot](./necoz-oss-changelog-bot.md) | ⭐ 32 | TypeScript | 76/100 |
+| 1 | [necoz-oss/changelog-bot](./necoz-oss-changelog-bot.md) | ⭐ 32 | TypeScript | 73/100 |
 
 ---
 

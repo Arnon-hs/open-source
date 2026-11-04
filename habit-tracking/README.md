@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Lakshay-exec/chrono-matrix](./lakshay-exec-chrono-matrix.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [Lakshay-exec/chrono-matrix](./lakshay-exec-chrono-matrix.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 
