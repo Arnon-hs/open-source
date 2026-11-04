@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44182** |
-| **Categories** | **631** |
+| **Projects** | **44186** |
+| **Categories** | **632** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17798 | [Browse →](./misc/) |
+| 📦 **Misc** | 17799 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4670 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2917 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 189 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 153 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 154 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 149 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 47 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 46 | [Browse →](./open-source/) |
@@ -68,8 +68,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Self-hosting** | 15 | [Browse →](./self-hosting/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
+| 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
-| 🏷️ **Claude-code** | 11 | [Browse →](./claude-code/) |
 | 🏷️ **Rust** | 11 | [Browse →](./rust/) |
 | 🏷️ **Self-hosted** | 9 | [Browse →](./self-hosted/) |
 | 🏷️ **Aws** | 9 | [Browse →](./aws/) |
@@ -222,6 +222,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **File-transfer** | 1 | [Browse →](./file-transfer/) |
 | 🏷️ **Stripe** | 1 | [Browse →](./stripe/) |
 | 🏷️ **Html** | 1 | [Browse →](./html/) |
 | 🏷️ **Backup** | 1 | [Browse →](./backup/) |
