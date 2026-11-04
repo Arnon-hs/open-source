@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44173** |
+| **Projects** | **44175** |
 | **Categories** | **631** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 17792 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4669 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4670 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2917 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1615 | [Browse →](./devtools/) |
@@ -73,9 +73,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Rust** | 11 | [Browse →](./rust/) |
 | 🏷️ **Self-hosted** | 9 | [Browse →](./self-hosted/) |
 | 🏷️ **Aws** | 9 | [Browse →](./aws/) |
+| 🏷️ **Python** | 8 | [Browse →](./python/) |
 | 🏷️ **Macos** | 8 | [Browse →](./macos/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
-| 🏷️ **Python** | 7 | [Browse →](./python/) |
 | 🏷️ **Cli** | 7 | [Browse →](./cli/) |
 | 🏷️ **Browser-automation** | 6 | [Browse →](./browser-automation/) |
 | 🏷️ **Multi-agent** | 6 | [Browse →](./multi-agent/) |
