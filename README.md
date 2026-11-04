@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44222** |
+| **Projects** | **44227** |
 | **Categories** | **641** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17812 | [Browse →](./misc/) |
+| 📦 **Misc** | 17815 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4671 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2917 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
@@ -104,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Whisper** | 3 | [Browse →](./whisper/) |
 | 🏷️ **Flutter** | 3 | [Browse →](./flutter/) |
 | 🏷️ **History** | 3 | [Browse →](./history/) |
@@ -137,6 +138,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Context-management** | 2 | [Browse →](./context-management/) |
 | 🏷️ **Incident-response** | 2 | [Browse →](./incident-response/) |
 | 🏷️ **Ai-audit** | 2 | [Browse →](./ai-audit/) |
 | 🏷️ **Linter** | 2 | [Browse →](./linter/) |
@@ -184,7 +186,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Postgres** | 2 | [Browse →](./postgres/) |
 | 🏷️ **Raspberry-pi** | 2 | [Browse →](./raspberry-pi/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
-| 🌐 **Open Source** | 2 | [Browse →](./opensource/) |
 | 🏷️ **Flaky-tests** | 2 | [Browse →](./flaky-tests/) |
 | 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Github-copilot** | 2 | [Browse →](./github-copilot/) |
@@ -509,7 +510,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Smart-agriculture** | 1 | [Browse →](./smart-agriculture/) |
 | 🏷️ **Data-contamination** | 1 | [Browse →](./data-contamination/) |
 | 🏷️ **Leadgeneration** | 1 | [Browse →](./leadgeneration/) |
-| 🏷️ **Context-management** | 1 | [Browse →](./context-management/) |
 | 🏷️ **Error-tracking** | 1 | [Browse →](./error-tracking/) |
 | 🏷️ **Manim** | 1 | [Browse →](./manim/) |
 | 🏷️ **Knowledge-work** | 1 | [Browse →](./knowledge-work/) |

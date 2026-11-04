@@ -1,6 +1,6 @@
 # Yassine-Jemi01/ylang
 
-[![Stars](https://img.shields.io/github/stars/Yassine-Jemi01/ylang?style=flat-square&color=yellow)](https://github.com/Yassine-Jemi01/ylang/stargazers) [![Forks](https://img.shields.io/github/forks/Yassine-Jemi01/ylang?style=flat-square&color=blue)](https://github.com/Yassine-Jemi01/ylang/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Yassine-Jemi01/ylang?style=flat-square&color=yellow)](https://github.com/Yassine-Jemi01/ylang/stargazers) [![Forks](https://img.shields.io/github/forks/Yassine-Jemi01/ylang?style=flat-square&color=blue)](https://github.com/Yassine-Jemi01/ylang/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > A simple Programming language
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Yassine-Jemi01/ylang：Yassine-Jemi01/ylang may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 44/100 |
+| quality | 39/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 55/100 |
+| production | 51/100 |
+| outlook | 48/100 |
 | adoption | 18/100 |
 | categoryMatchCount | 1000/100 |
 | stars | 25/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
