@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [illusionoftalha/dupelens](./illusionoftalha-dupelens.md) | ⭐ — | Java | 51/100 |
+| 1 | [illusionoftalha/dupelens](./illusionoftalha-dupelens.md) | ⭐ — | Java | 48/100 |
 
 ---
 
