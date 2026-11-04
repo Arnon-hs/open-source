@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [squirix/squirix](./squirix-squirix.md) | ⭐ — | C# | 54/100 |
+| 1 | [squirix/squirix](./squirix-squirix.md) | ⭐ — | C# | 51/100 |
 
 ---
 

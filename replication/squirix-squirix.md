@@ -1,6 +1,6 @@
 # squirix/squirix
 
-[![Stars](https://img.shields.io/github/stars/squirix/squirix?style=flat-square&color=yellow)](https://github.com/squirix/squirix/stargazers) [![Forks](https://img.shields.io/github/forks/squirix/squirix?style=flat-square&color=blue)](https://github.com/squirix/squirix/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/squirix/squirix?style=flat-square&color=yellow)](https://github.com/squirix/squirix/stargazers) [![Forks](https://img.shields.io/github/forks/squirix/squirix?style=flat-square&color=blue)](https://github.com/squirix/squirix/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > High-performance distributed cache for .NET - client SDK and server runtime
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C# |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ squirix/squirix：squirix/squirix may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 57/100 |
+| production | 53/100 |
+| outlook | 50/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

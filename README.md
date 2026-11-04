@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44120** |
-| **Categories** | **619** |
+| **Projects** | **44123** |
+| **Categories** | **620** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17769 | [Browse →](./misc/) |
+| 📦 **Misc** | 17771 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4669 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2915 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
@@ -221,6 +221,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Refaster** | 1 | [Browse →](./refaster/) |
 | 🏷️ **Proclubs** | 1 | [Browse →](./proclubs/) |
 | 🏷️ **Link-in-bio** | 1 | [Browse →](./link-in-bio/) |
 | 🏷️ **Docsgpt** | 1 | [Browse →](./docsgpt/) |
