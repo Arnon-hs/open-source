@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44245** |
-| **Categories** | **643** |
+| **Projects** | **44248** |
+| **Categories** | **645** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -71,11 +71,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Rust** | 11 | [Browse →](./rust/) |
+| 🏷️ **Macos** | 9 | [Browse →](./macos/) |
 | 🏷️ **Cli** | 9 | [Browse →](./cli/) |
 | 🏷️ **Self-hosted** | 9 | [Browse →](./self-hosted/) |
 | 🏷️ **Aws** | 9 | [Browse →](./aws/) |
 | 🏷️ **Python** | 8 | [Browse →](./python/) |
-| 🏷️ **Macos** | 8 | [Browse →](./macos/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Browser-automation** | 6 | [Browse →](./browser-automation/) |
 | 🏷️ **Multi-agent** | 6 | [Browse →](./multi-agent/) |
@@ -225,6 +225,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Runtime-security** | 1 | [Browse →](./runtime-security/) |
+| 🏷️ **Local-vault** | 1 | [Browse →](./local-vault/) |
 | 🏷️ **Scrcpy** | 1 | [Browse →](./scrcpy/) |
 | 🏷️ **Operations-research** | 1 | [Browse →](./operations-research/) |
 | 🏷️ **Websockets** | 1 | [Browse →](./websockets/) |

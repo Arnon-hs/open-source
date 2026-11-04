@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aegisora-ai/aegisora](./aegisora-ai-aegisora.md) | ⭐ 18 | Python | 68/100 |
+| 1 | [grloper/Wraith](./grloper-wraith.md) | ⭐ — | Rust | 48/100 |
 
 ---
 
