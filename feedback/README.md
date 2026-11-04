@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [BistaDinesh03/critique](./bistadinesh03-critique.md) | ⭐ 10 | Python | 65/100 |
+| 1 | [BistaDinesh03/critique](./bistadinesh03-critique.md) | ⭐ 10 | Python | 62/100 |
 
 ---
 

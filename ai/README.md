@@ -31,11 +31,11 @@
 | 21 | [pattjoshi/om-ai-engineer-portfolio](./pattjoshi-om-ai-engineer-portfolio.md) | ⭐ — | TypeScript | 48/100 |
 | 22 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 47/100 |
 | 23 | [jean82290/graphify-railway](./jean82290-graphify-railway.md) | ⭐ — | Python | 46/100 |
-| 24 | [finallyjay/catrinanews](./finallyjay-catrinanews.md) | ⭐ — | Python | 42/100 |
-| 25 | [GaffaAI/gaffa-cli](./gaffaai-gaffa-cli.md) | ⭐ — | TypeScript | 41/100 |
-| 26 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 41/100 |
-| 27 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 41/100 |
-| 28 | [NanYuJun/AIAssets](./nanyujun-aiassets.md) | ⭐ 9 | JavaScript | 40/100 |
+| 24 | [GaffaAI/gaffa-cli](./gaffaai-gaffa-cli.md) | ⭐ — | TypeScript | 41/100 |
+| 25 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 41/100 |
+| 26 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 41/100 |
+| 27 | [NanYuJun/AIAssets](./nanyujun-aiassets.md) | ⭐ 9 | JavaScript | 40/100 |
+| 28 | [finallyjay/catrinanews](./finallyjay-catrinanews.md) | ⭐ — | Python | 39/100 |
 | 29 | [sakshiverma31103120-code/ghost-in-the-dataset](./sakshiverma31103120-code-ghost-in-the-dataset.md) | ⭐ — | Python | 39/100 |
 | 30 | [Abhinav1574k/CivicAI-AI-Powered-Public-Infrastructure-Monitoring-System](./abhinav1574k-civicai-ai-powered-public-infrastructure-monitoring-system.md) | ⭐ — | TypeScript | 38/100 |
 | 31 | [jhusk003/multi-workflow-ai](./jhusk003-multi-workflow-ai.md) | ⭐ — | Python | 38/100 |
