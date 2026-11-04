@@ -1,6 +1,6 @@
 # olo-labs/olo-toolgate
 
-[![Stars](https://img.shields.io/github/stars/olo-labs/olo-toolgate?style=flat-square&color=yellow)](https://github.com/olo-labs/olo-toolgate/stargazers) [![Forks](https://img.shields.io/github/forks/olo-labs/olo-toolgate?style=flat-square&color=blue)](https://github.com/olo-labs/olo-toolgate/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/olo-labs/olo-toolgate?style=flat-square&color=yellow)](https://github.com/olo-labs/olo-toolgate/stargazers) [![Forks](https://img.shields.io/github/forks/olo-labs/olo-toolgate?style=flat-square&color=blue)](https://github.com/olo-labs/olo-toolgate/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Build, distribute, authorize and govern AI tools across users, agents and endpoints.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ olo-labs/olo-toolgate：olo-labs/olo-toolgate may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 15/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

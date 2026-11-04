@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [GokalpHizmetleri/GHDraw](./gokalphizmetleri-ghdraw.md) | ⭐ — | HTML | 41/100 |
+| 1 | [SpeedPainterOrg/explainer-video](./speedpainterorg-explainer-video.md) | ⭐ 56 | JavaScript | 62/100 |
 
 ---
 
