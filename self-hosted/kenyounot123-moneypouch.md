@@ -1,6 +1,6 @@
 # kenyounot123/moneypouch
 
-[![Stars](https://img.shields.io/github/stars/kenyounot123/moneypouch?style=flat-square&color=yellow)](https://github.com/kenyounot123/moneypouch/stargazers) [![Forks](https://img.shields.io/github/forks/kenyounot123/moneypouch?style=flat-square&color=blue)](https://github.com/kenyounot123/moneypouch/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kenyounot123/moneypouch?style=flat-square&color=yellow)](https://github.com/kenyounot123/moneypouch/stargazers) [![Forks](https://img.shields.io/github/forks/kenyounot123/moneypouch?style=flat-square&color=blue)](https://github.com/kenyounot123/moneypouch/network) [![Language](https://img.shields.io/badge/lang-Ruby-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > No budgets. No net worth. Just see where your money goes. A free, self-hosted expense tracker.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Ruby |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ kenyounot123/moneypouch：kenyounot123/moneypouch may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 66/100 |
+| production | 60/100 |
+| outlook | 59/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 700/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
