@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44164** |
-| **Categories** | **630** |
+| **Projects** | **44173** |
+| **Categories** | **631** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17785 | [Browse →](./misc/) |
+| 📦 **Misc** | 17792 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4669 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2916 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2917 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1615 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1507 | [Browse →](./automation/) |
@@ -222,6 +222,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Stripe** | 1 | [Browse →](./stripe/) |
 | 🏷️ **Html** | 1 | [Browse →](./html/) |
 | 🏷️ **Backup** | 1 | [Browse →](./backup/) |
 | 🏷️ **Shader** | 1 | [Browse →](./shader/) |

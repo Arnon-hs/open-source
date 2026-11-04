@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [oidsdev/agent-checkout-mcp](./oidsdev-agent-checkout-mcp.md) | ⭐ — | Python | 62/100 |
+| 1 | [n8n-io/n8n-nodes-community](./n8n-io-n8n-nodes-community.md) | ⭐ — | — | 24/100 |
 
 ---
 
