@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [prateek11rai/undertaker](./prateek11rai-undertaker.md) | ⭐ — | Python | 51/100 |
+| 1 | [prateek11rai/undertaker](./prateek11rai-undertaker.md) | ⭐ — | Python | 48/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [asadani/decision-firewall](./asadani-decision-firewall.md) | ⭐ — | Python | 36/100 |
+| 1 | [asadani/decision-firewall](./asadani-decision-firewall.md) | ⭐ — | Python | 33/100 |
 | 2 | [yourrepo/pull](./yourrepo-pull.md) | ⭐ — | — | 24/100 |
 
 ---

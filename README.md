@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44115** |
+| **Projects** | **44120** |
 | **Categories** | **619** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -30,7 +30,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔧 **DevTools** | 1615 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1506 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 904 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 906 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 815 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 725 | [Browse →](./documents/) |
 | 📱 **Mobile** | 668 | [Browse →](./mobile/) |
@@ -52,8 +52,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 188 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
+| 🏷️ **Ai** | 149 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 148 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 148 | [Browse →](./ai/) |
 | 🏷️ **Ai-agents** | 45 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 45 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
@@ -104,6 +104,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Whisper** | 3 | [Browse →](./whisper/) |
 | 🏷️ **Flutter** | 3 | [Browse →](./flutter/) |
 | 🏷️ **History** | 3 | [Browse →](./history/) |
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
@@ -230,7 +231,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Changelog** | 1 | [Browse →](./changelog/) |
 | 🏷️ **Awx** | 1 | [Browse →](./awx/) |
 | 🏷️ **Iceberg** | 1 | [Browse →](./iceberg/) |
-| 🏷️ **Whisper** | 1 | [Browse →](./whisper/) |
 | 🏷️ **Retrieval-dilution** | 1 | [Browse →](./retrieval-dilution/) |
 | 🏷️ **Tokenization** | 1 | [Browse →](./tokenization/) |
 | 🏷️ **Music-player** | 1 | [Browse →](./music-player/) |
