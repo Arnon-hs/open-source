@@ -311,8 +311,8 @@
 | 301 | [mingchen666/Reviva](./mingchen666-reviva.md) | ⭐ 39 | JavaScript | 61/100 |
 | 302 | [Anush008/fastembed-rs](./anush008-fastembed-rs.md) | ⭐ 949 | Rust | 61/100 |
 | 303 | [zilliztech/vector-graph-rag](./zilliztech-vector-graph-rag.md) | ⭐ 219 | Python | 61/100 |
-| 304 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 61/100 |
-| 305 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 61/100 |
+| 304 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 61/100 |
+| 305 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 61/100 |
 | 306 | [FutureUniant/WorkShadow](./futureuniant-workshadow.md) | ⭐ 349 | TypeScript | 61/100 |
 | 307 | [abraxas914/VESTI](./abraxas914-vesti.md) | ⭐ 284 | TypeScript | 61/100 |
 | 308 | [lux-db/lux](./lux-db-lux.md) | ⭐ 270 | Rust | 61/100 |
@@ -520,15 +520,15 @@
 | 510 | [kc-2705/job-hunt-copilot](./kc-2705-job-hunt-copilot.md) | ⭐ — | JavaScript | 48/100 |
 | 511 | [torrua/loglan-bench](./torrua-loglan-bench.md) | ⭐ — | Python | 48/100 |
 | 512 | [Christopher22/charon](./christopher22-charon.md) | ⭐ — | — | 48/100 |
-| 513 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
+| 513 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
 | 514 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
-| 515 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 515 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
 | 516 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
 | 517 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
 | 518 | [SeekStorm/SeekStorm](./seekstorm-seekstorm.md) | ⭐ 1.9k | Rust | 48/100 |
 | 519 | [software-mansion/react-native-executorch](./software-mansion-react-native-executorch.md) | ⭐ 1.5k | C++ | 48/100 |
-| 520 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 47/100 |
-| 521 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 47/100 |
+| 520 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 47/100 |
+| 521 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 47/100 |
 | 522 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 47/100 |
 | 523 | [intfloat/multilingual-e5-small](./intfloat-multilingual-e5-small.md) | ⭐ 374 | sentence-transformers | 47/100 |
 | 524 | [yologdev/karpathy-llm-wiki](./yologdev-karpathy-llm-wiki.md) | ⭐ 48 | TypeScript | 47/100 |
@@ -563,8 +563,8 @@
 | 553 | [madebyzan/knovum](./madebyzan-knovum.md) | ⭐ 3 | Rust | 43/100 |
 | 554 | [neromtoobad/aliquot](./neromtoobad-aliquot.md) | ⭐ — | TypeScript | 43/100 |
 | 555 | [GiulioDER/RE-call](./giulioder-re-call.md) | ⭐ — | — | 43/100 |
-| 556 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 43/100 |
-| 557 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 43/100 |
+| 556 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 43/100 |
+| 557 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 43/100 |
 | 558 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ — | — | 43/100 |
 | 559 | [aryamore05/Somewhere](./aryamore05-somewhere.md) | ⭐ — | Python | 42/100 |
 | 560 | [oak-invest/kiso](./oak-invest-kiso.md) | ⭐ — | — | 42/100 |

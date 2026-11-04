@@ -537,8 +537,8 @@
 | 527 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 38/100 |
 | 528 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 38/100 |
 | 529 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ — | — | 38/100 |
-| 530 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 38/100 |
-| 531 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 38/100 |
+| 530 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 38/100 |
+| 531 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 38/100 |
 | 532 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ — | — | 38/100 |
 | 533 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ — | — | 38/100 |
 | 534 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ — | — | 38/100 |
@@ -556,8 +556,8 @@
 | 546 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 547 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 548 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 38/100 |
-| 549 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 38/100 |
-| 550 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 38/100 |
+| 549 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 38/100 |
+| 550 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 38/100 |
 | 551 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ — | — | 38/100 |
 | 552 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ — | — | 38/100 |
 | 553 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ — | — | 38/100 |
