@@ -1,6 +1,6 @@
 # aplicy-com/guarded-trader
 
-[![Stars](https://img.shields.io/github/stars/aplicy-com/guarded-trader?style=flat-square&color=yellow)](https://github.com/aplicy-com/guarded-trader/stargazers) [![Forks](https://img.shields.io/github/forks/aplicy-com/guarded-trader?style=flat-square&color=blue)](https://github.com/aplicy-com/guarded-trader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aplicy-com/guarded-trader?style=flat-square&color=yellow)](https://github.com/aplicy-com/guarded-trader/stargazers) [![Forks](https://img.shields.io/github/forks/aplicy-com/guarded-trader?style=flat-square&color=blue)](https://github.com/aplicy-com/guarded-trader/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Safety-first framework for LLM-assisted crypto trading research. No proven edge; negative results published.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ aplicy-com/guarded-trader：aplicy-com/guarded-trader may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 65/100 |
+| production | 60/100 |
+| outlook | 58/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

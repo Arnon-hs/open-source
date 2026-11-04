@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [QoobIY/monster-forge](./qoobiy-monster-forge.md) | ⭐ — | Python | 39/100 |
+| 1 | [QoobIY/monster-forge](./qoobiy-monster-forge.md) | ⭐ — | Python | 36/100 |
 
 ---
 

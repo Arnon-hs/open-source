@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [acrossreport/barbridge](./acrossreport-barbridge.md) | ⭐ — | Java | 39/100 |
+| 1 | [acrossreport/barbridge](./acrossreport-barbridge.md) | ⭐ — | Java | 36/100 |
 
 ---
 

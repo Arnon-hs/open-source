@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44186** |
-| **Categories** | **632** |
+| **Projects** | **44195** |
+| **Categories** | **636** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17799 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4670 | [Browse →](./aiml/) |
+| 📦 **Misc** | 17800 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4671 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2917 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1615 | [Browse →](./devtools/) |
@@ -36,10 +36,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📱 **Mobile** | 669 | [Browse →](./mobile/) |
 | 🏷️ **Networking** | 667 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 630 | [Browse →](./knowledgerag/) |
-| 🏷️ **Cloud--storage** | 623 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 624 | [Browse →](./cloud--storage/) |
 | 🏷️ **Video-editing** | 579 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 571 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 530 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 531 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 484 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 463 | [Browse →](./communication/) |
 | 🔐 **Security** | 462 | [Browse →](./security/) |
@@ -137,6 +137,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ai-audit** | 2 | [Browse →](./ai-audit/) |
 | 🏷️ **Linter** | 2 | [Browse →](./linter/) |
 | 🏷️ **Prompt-caching** | 2 | [Browse →](./prompt-caching/) |
 | 🏷️ **Video** | 2 | [Browse →](./video/) |
@@ -222,6 +223,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Penetration-testing** | 1 | [Browse →](./penetration-testing/) |
+| 🏷️ **Pre-install-verification** | 1 | [Browse →](./pre-install-verification/) |
+| 🏷️ **Xml** | 1 | [Browse →](./xml/) |
 | 🏷️ **File-transfer** | 1 | [Browse →](./file-transfer/) |
 | 🏷️ **Stripe** | 1 | [Browse →](./stripe/) |
 | 🏷️ **Html** | 1 | [Browse →](./html/) |

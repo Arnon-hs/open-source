@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 44/100 |
-| 2 | [sametatakan0000-netizen/pergel](./sametatakan0000-netizen-pergel.md) | ⭐ 1 | Python | 40/100 |
+| 1 | [sametatakan0000-netizen/pergel](./sametatakan0000-netizen-pergel.md) | ⭐ 1 | Python | 40/100 |
+| 2 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 40/100 |
 | 3 | [sebklaey/openos-momo-ai](./sebklaey-openos-momo-ai.md) | ⭐ — | JavaScript | 39/100 |
 | 4 | [shrey04kaitke-sys/PhantomShellAI](./shrey04kaitke-sys-phantomshellai.md) | ⭐ — | Python | 36/100 |
 | 5 | [Abhinav-Shrivas/Ghost-in-the-machine](./abhinav-shrivas-ghost-in-the-machine.md) | ⭐ — | JavaScript | 36/100 |
