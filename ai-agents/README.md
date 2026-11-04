@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [hubzoid/hubzoid](./hubzoid-hubzoid.md) | ⭐ 15 | Python | 71/100 |
-| 2 | [nightly-labs/openbot](./nightly-labs-openbot.md) | ⭐ 4.5k | TypeScript | 68/100 |
-| 3 | [eliautobot/my-virtual-world](./eliautobot-my-virtual-world.md) | ⭐ 86 | JavaScript | 66/100 |
+| 2 | [eliautobot/my-virtual-world](./eliautobot-my-virtual-world.md) | ⭐ 86 | JavaScript | 66/100 |
+| 3 | [nightly-labs/openbot](./nightly-labs-openbot.md) | ⭐ 4.5k | TypeScript | 65/100 |
 | 4 | [josegarridodigio/sluice](./josegarridodigio-sluice.md) | ⭐ 3 | Rust | 65/100 |
 | 5 | [CognizTech/stateroot](./cogniztech-stateroot.md) | ⭐ 5 | Rust | 63/100 |
 | 6 | [Abubakr-Alsheikh/qtask](./abubakr-alsheikh-qtask.md) | ⭐ — | Python | 63/100 |

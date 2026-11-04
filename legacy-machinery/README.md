@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [devicelabvn/machinery-oee-ems-retrofit-examples](./devicelabvn-machinery-oee-ems-retrofit-examples.md) | ⭐ — | — | 48/100 |
+| 1 | [devicelabvn/machinery-oee-ems-retrofit-examples](./devicelabvn-machinery-oee-ems-retrofit-examples.md) | ⭐ — | — | 45/100 |
 
 ---
 
