@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [TanbirRamim/open-source-radar](./tanbirramim-open-source-radar.md) | ⭐ 49 | JavaScript | 61/100 |
+| 1 | [TanbirRamim/open-source-radar](./tanbirramim-open-source-radar.md) | ⭐ 49 | JavaScript | 57/100 |
 
 ---
 

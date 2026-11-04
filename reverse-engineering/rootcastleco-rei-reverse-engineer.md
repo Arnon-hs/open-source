@@ -1,6 +1,6 @@
 # rootcastleco/Rei-Reverse-engineer
 
-[![Stars](https://img.shields.io/github/stars/rootcastleco/Rei-Reverse-engineer?style=flat-square&color=yellow)](https://github.com/rootcastleco/Rei-Reverse-engineer/stargazers) [![Forks](https://img.shields.io/github/forks/rootcastleco/Rei-Reverse-engineer?style=flat-square&color=blue)](https://github.com/rootcastleco/Rei-Reverse-engineer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rootcastleco/Rei-Reverse-engineer?style=flat-square&color=yellow)](https://github.com/rootcastleco/Rei-Reverse-engineer/stargazers) [![Forks](https://img.shields.io/github/forks/rootcastleco/Rei-Reverse-engineer?style=flat-square&color=blue)](https://github.com/rootcastleco/Rei-Reverse-engineer/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-first reverse engineering workbench with bounded binary analysis, extensible static adapters, MCP and reproducible local investigations.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ rootcastleco/Rei-Reverse-engineer：rootcastleco/Rei-Reverse-engineer may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # TanbirRamim/open-source-radar
 
-[![Stars](https://img.shields.io/github/stars/TanbirRamim/open-source-radar?style=flat-square&color=yellow)](https://github.com/TanbirRamim/open-source-radar/stargazers) [![Forks](https://img.shields.io/github/forks/TanbirRamim/open-source-radar?style=flat-square&color=blue)](https://github.com/TanbirRamim/open-source-radar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TanbirRamim/open-source-radar?style=flat-square&color=yellow)](https://github.com/TanbirRamim/open-source-radar/stargazers) [![Forks](https://img.shields.io/github/forks/TanbirRamim/open-source-radar?style=flat-square&color=blue)](https://github.com/TanbirRamim/open-source-radar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Find an open source issue you can start today: unclaimed, beginner-friendly issues from active projects by language and topic, refreshed every 12 hours, plus a complete contribution guide.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 98 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ TanbirRamim/open-source-radar：TanbirRamim/open-source-radar may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 74/100 |
+| production | 63/100 |
+| outlook | 67/100 |
 | adoption | 40/100 |
 | categoryMatchCount | 500/100 |
 | stars | 36/100 |
 | forks | 50/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

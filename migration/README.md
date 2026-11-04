@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jquense/yup](./jquense-yup.md) | ⭐ 23.7k | TypeScript | 62/100 |
+| 1 | [jquense/yup](./jquense-yup.md) | ⭐ 23.7k | TypeScript | 59/100 |
 | 2 | [asciimoo/searxng](./asciimoo-searxng.md) | ⭐ — | — | 24/100 |
 
 ---

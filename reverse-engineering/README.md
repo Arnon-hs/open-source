@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [rootcastleco/rei-skills](./rootcastleco-rei-skills.md) | ⭐ 7 | Python | 73/100 |
-| 2 | [rootcastleco/Rei-Reverse-engineer](./rootcastleco-rei-reverse-engineer.md) | ⭐ — | Python | 59/100 |
+| 2 | [rootcastleco/Rei-Reverse-engineer](./rootcastleco-rei-reverse-engineer.md) | ⭐ — | Python | 56/100 |
 
 ---
 

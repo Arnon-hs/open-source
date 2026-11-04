@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [RomainCHEN/seance](./romainchen-seance.md) | ⭐ — | HTML | 58/100 |
+| 1 | [RomainCHEN/seance](./romainchen-seance.md) | ⭐ — | HTML | 55/100 |
 
 ---
 
