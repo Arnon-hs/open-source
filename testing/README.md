@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [agentic-suite/agentwatch](./agentic-suite-agentwatch.md) | ⭐ — | — | 28/100 |
+| 1 | [jeffev/hollowtest](./jeffev-hollowtest.md) | ⭐ — | JavaScript | 55/100 |
+| 2 | [agentic-suite/agentwatch](./agentic-suite-agentwatch.md) | ⭐ — | — | 28/100 |
 
 ---
 

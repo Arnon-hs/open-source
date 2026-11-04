@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44257** |
-| **Categories** | **647** |
+| **Projects** | **44264** |
+| **Categories** | **648** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17830 | [Browse →](./misc/) |
+| 📦 **Misc** | 17833 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4673 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2917 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
@@ -89,6 +89,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
 | 🏷️ **Edge-ai** | 6 | [Browse →](./edge-ai/) |
+| 🏷️ **Coding-agent** | 5 | [Browse →](./coding-agent/) |
 | 🏷️ **Ai-coding** | 5 | [Browse →](./ai-coding/) |
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Wordpress** | 5 | [Browse →](./wordpress/) |
@@ -113,7 +114,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Matrixos** | 3 | [Browse →](./matrixos/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
 | 🏷️ **Ai-code-review** | 3 | [Browse →](./ai-code-review/) |
-| 🏷️ **Coding-agent** | 3 | [Browse →](./coding-agent/) |
 | 🏷️ **Npm** | 3 | [Browse →](./npm/) |
 | 🏷️ **Open-weight-model** | 3 | [Browse →](./open-weight-model/) |
 | 🏷️ **Agent** | 3 | [Browse →](./agent/) |
@@ -138,6 +138,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Testing** | 2 | [Browse →](./testing/) |
 | 🏷️ **Context-management** | 2 | [Browse →](./context-management/) |
 | 🏷️ **Incident-response** | 2 | [Browse →](./incident-response/) |
 | 🏷️ **Ai-audit** | 2 | [Browse →](./ai-audit/) |
@@ -225,6 +226,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Data-pipeline** | 1 | [Browse →](./data-pipeline/) |
 | 🏷️ **Alfresco** | 1 | [Browse →](./alfresco/) |
 | 🏷️ **Dbt** | 1 | [Browse →](./dbt/) |
 | 🏷️ **Runtime-security** | 1 | [Browse →](./runtime-security/) |
@@ -447,7 +449,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Captioning** | 1 | [Browse →](./captioning/) |
 | 🏷️ **Financial-intelligence** | 1 | [Browse →](./financial-intelligence/) |
 | 🏷️ **Lease-management** | 1 | [Browse →](./lease-management/) |
-| 🏷️ **Testing** | 1 | [Browse →](./testing/) |
 | 🏷️ **Resume-analysis** | 1 | [Browse →](./resume-analysis/) |
 | 🏷️ **Whatsapp-bot** | 1 | [Browse →](./whatsapp-bot/) |
 | 🏷️ **Photography** | 1 | [Browse →](./photography/) |
