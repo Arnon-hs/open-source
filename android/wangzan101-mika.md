@@ -1,6 +1,6 @@
 # wangzan101/Mika
 
-[![Stars](https://img.shields.io/github/stars/wangzan101/Mika?style=flat-square&color=yellow)](https://github.com/wangzan101/Mika/stargazers) [![Forks](https://img.shields.io/github/forks/wangzan101/Mika?style=flat-square&color=blue)](https://github.com/wangzan101/Mika/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wangzan101/Mika?style=flat-square&color=yellow)](https://github.com/wangzan101/Mika/stargazers) [![Forks](https://img.shields.io/github/forks/wangzan101/Mika?style=flat-square&color=blue)](https://github.com/wangzan101/Mika/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > An on-device AI agent for Android that operates apps and the web to get things done for you.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 648 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ wangzan101/Mika：wangzan101/Mika may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 30/100 |
-| production | 73/100 |
-| outlook | 85/100 |
+| production | 66/100 |
+| outlook | 78/100 |
 | adoption | 74/100 |
 | categoryMatchCount | 400/100 |
 | stars | 76/100 |
 | forks | 70/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

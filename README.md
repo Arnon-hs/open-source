@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44214** |
-| **Categories** | **638** |
+| **Projects** | **44222** |
+| **Categories** | **641** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17810 | [Browse →](./misc/) |
+| 📦 **Misc** | 17812 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4671 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2917 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
@@ -33,7 +33,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎨 **Frontend** | 906 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 816 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 725 | [Browse →](./documents/) |
-| 📱 **Mobile** | 669 | [Browse →](./mobile/) |
+| 📱 **Mobile** | 670 | [Browse →](./mobile/) |
 | 🏷️ **Networking** | 667 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 630 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 624 | [Browse →](./cloud--storage/) |
@@ -67,8 +67,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Android** | 16 | [Browse →](./android/) |
 | 🏷️ **Self-hosting** | 15 | [Browse →](./self-hosting/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
+| 🏷️ **Claude-code** | 13 | [Browse →](./claude-code/) |
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
-| 🏷️ **Claude-code** | 12 | [Browse →](./claude-code/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Rust** | 11 | [Browse →](./rust/) |
 | 🏷️ **Cli** | 9 | [Browse →](./cli/) |
@@ -137,6 +137,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Incident-response** | 2 | [Browse →](./incident-response/) |
 | 🏷️ **Ai-audit** | 2 | [Browse →](./ai-audit/) |
 | 🏷️ **Linter** | 2 | [Browse →](./linter/) |
 | 🏷️ **Prompt-caching** | 2 | [Browse →](./prompt-caching/) |
@@ -223,6 +224,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Websockets** | 1 | [Browse →](./websockets/) |
+| 🏷️ **Agentic-programming** | 1 | [Browse →](./agentic-programming/) |
 | 🏷️ **State-tracking** | 1 | [Browse →](./state-tracking/) |
 | 🏷️ **Plc** | 1 | [Browse →](./plc/) |
 | 🏷️ **Penetration-testing** | 1 | [Browse →](./penetration-testing/) |

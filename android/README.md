@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wangzan101/Mika](./wangzan101-mika.md) | ⭐ 3.6k | Kotlin | 69/100 |
+| 1 | [wangzan101/Mika](./wangzan101-mika.md) | ⭐ 3.6k | Kotlin | 66/100 |
 | 2 | [ESeungJun/droidlens](./eseungjun-droidlens.md) | ⭐ 5 | TypeScript | 62/100 |
 | 3 | [fengshihao/agent1](./fengshihao-agent1.md) | ⭐ 3 | Java | 62/100 |
 | 4 | [TeamNewPipe/NewPipeExtractor](./teamnewpipe-newpipeextractor.md) | ⭐ 2k | Java | 60/100 |

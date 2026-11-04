@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fecklesspleb/crossref-new-works-feed](./fecklesspleb-crossref-new-works-feed.md) | ⭐ — | Python | 55/100 |
+| 1 | [fecklesspleb/crossref-new-works-feed](./fecklesspleb-crossref-new-works-feed.md) | ⭐ — | Python | 52/100 |
 
 ---
 
