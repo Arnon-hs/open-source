@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44242** |
-| **Categories** | **641** |
+| **Projects** | **44245** |
+| **Categories** | **643** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -61,7 +61,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 26 | [Browse →](./privacy/) |
-| 🏷️ **Llm** | 24 | [Browse →](./llm/) |
+| 🏷️ **Llm** | 25 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 20 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Android** | 16 | [Browse →](./android/) |
@@ -225,6 +225,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Scrcpy** | 1 | [Browse →](./scrcpy/) |
+| 🏷️ **Operations-research** | 1 | [Browse →](./operations-research/) |
 | 🏷️ **Websockets** | 1 | [Browse →](./websockets/) |
 | 🏷️ **Agentic-programming** | 1 | [Browse →](./agentic-programming/) |
 | 🏷️ **State-tracking** | 1 | [Browse →](./state-tracking/) |
