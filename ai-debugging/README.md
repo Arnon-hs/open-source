@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tk1981215/PHANTOMTRACE](./tk1981215-phantomtrace.md) | ⭐ — | Python | 46/100 |
+| 1 | [tk1981215/PHANTOMTRACE](./tk1981215-phantomtrace.md) | ⭐ — | Python | 43/100 |
 
 ---
 

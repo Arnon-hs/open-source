@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [OlegChe77/universal-downloader](./olegche77-universal-downloader.md) | ⭐ 77 | HTML | 51/100 |
+| 1 | [OlegChe77/universal-downloader](./olegche77-universal-downloader.md) | ⭐ 77 | HTML | 48/100 |
 
 ---
 

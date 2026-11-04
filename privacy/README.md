@@ -11,9 +11,9 @@
 | 1 | [hirdeshgagan/enterprise-fixer](./hirdeshgagan-enterprise-fixer.md) | ⭐ — | Python | 44/100 |
 | 2 | [sametatakan0000-netizen/pergel](./sametatakan0000-netizen-pergel.md) | ⭐ 1 | Python | 40/100 |
 | 3 | [sebklaey/openos-momo-ai](./sebklaey-openos-momo-ai.md) | ⭐ — | JavaScript | 39/100 |
-| 4 | [laiba-Ashfaq/ofrenda](./laiba-ashfaq-ofrenda.md) | ⭐ — | Python | 39/100 |
-| 5 | [shrey04kaitke-sys/PhantomShellAI](./shrey04kaitke-sys-phantomshellai.md) | ⭐ — | Python | 36/100 |
-| 6 | [Abhinav-Shrivas/Ghost-in-the-machine](./abhinav-shrivas-ghost-in-the-machine.md) | ⭐ — | JavaScript | 36/100 |
+| 4 | [shrey04kaitke-sys/PhantomShellAI](./shrey04kaitke-sys-phantomshellai.md) | ⭐ — | Python | 36/100 |
+| 5 | [Abhinav-Shrivas/Ghost-in-the-machine](./abhinav-shrivas-ghost-in-the-machine.md) | ⭐ — | JavaScript | 36/100 |
+| 6 | [laiba-Ashfaq/ofrenda](./laiba-ashfaq-ofrenda.md) | ⭐ — | Python | 36/100 |
 | 7 | [shivammusic/fresh-air-match](./shivammusic-fresh-air-match.md) | ⭐ — | Python | 36/100 |
 | 8 | [Atharva1723/Lumbre](./atharva1723-lumbre.md) | ⭐ — | — | 33/100 |
 | 9 | [Priti2008/haunted-terminal-whisperer](./priti2008-haunted-terminal-whisperer.md) | ⭐ — | HTML | 33/100 |

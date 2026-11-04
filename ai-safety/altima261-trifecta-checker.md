@@ -1,6 +1,6 @@
 # altima261/trifecta-checker
 
-[![Stars](https://img.shields.io/github/stars/altima261/trifecta-checker?style=flat-square&color=yellow)](https://github.com/altima261/trifecta-checker/stargazers) [![Forks](https://img.shields.io/github/forks/altima261/trifecta-checker?style=flat-square&color=blue)](https://github.com/altima261/trifecta-checker/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/altima261/trifecta-checker?style=flat-square&color=yellow)](https://github.com/altima261/trifecta-checker/stargazers) [![Forks](https://img.shields.io/github/forks/altima261/trifecta-checker?style=flat-square&color=blue)](https://github.com/altima261/trifecta-checker/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Safety gate for AI agents - Lethal Trifecta checker for Meta Global AI Hackathon Japan 2026
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI safety · prompt injection · data theft · API · hackathon
 
 ### English
 
-altima261/trifecta-checker: altima261/trifecta-checker may be useful when its README and activity match a concrete workflow.. Use it for AI safety, prompt injection, data theft, API, hackathon. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+altima261/trifecta-checker: altima261/trifecta-checker may be useful when its README and activity match a concrete workflow.. Use it for AI safety, prompt injection, data theft, API, hackathon. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-altima261/trifecta-checker: open-source проект в категориях AI safety, prompt injection, data theft, API, hackathon. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+altima261/trifecta-checker: open-source проект в категориях AI safety, prompt injection, data theft, API, hackathon. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-altima261/trifecta-checker：altima261/trifecta-checker may be useful when its README and activity match a concrete workflow.。适合用于AI safety、prompt injection、data theft、API、hackathon。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+altima261/trifecta-checker：altima261/trifecta-checker may be useful when its README and activity match a concrete workflow.。适合用于AI safety、prompt injection、data theft、API、hackathon。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ altima261/trifecta-checker：altima261/trifecta-checker may be useful when its R
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -60,15 +60,15 @@ altima261/trifecta-checker：altima261/trifecta-checker may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 54/100 |
+| production | 49/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
