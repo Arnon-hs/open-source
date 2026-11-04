@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [vercel-labs/agent-desktop](./vercel-labs-agent-desktop.md) | ⭐ 4.6k | Rust | 86/100 |
+| 1 | [vercel-labs/agent-desktop](./vercel-labs-agent-desktop.md) | ⭐ 4.6k | Rust | 83/100 |
 | 2 | [boo-chi/CustomTkinter](./boo-chi-customtkinter.md) | ⭐ — | — | 24/100 |
 | 3 | [yourrepo/cua-driver](./yourrepo-cua-driver.md) | ⭐ — | — | 24/100 |
 

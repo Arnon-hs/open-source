@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44123** |
-| **Categories** | **620** |
+| **Projects** | **44126** |
+| **Categories** | **622** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -38,7 +38,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Knowledgerag** | 630 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 623 | [Browse →](./cloud--storage/) |
 | 🏷️ **Video-editing** | 578 | [Browse →](./video-editing/) |
-| 🏷️ **Database** | 570 | [Browse →](./database/) |
+| 🏷️ **Database** | 571 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 530 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 483 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 463 | [Browse →](./communication/) |
@@ -221,6 +221,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Monitor-setup** | 1 | [Browse →](./monitor-setup/) |
+| 🏷️ **Ledger** | 1 | [Browse →](./ledger/) |
 | 🏷️ **Refaster** | 1 | [Browse →](./refaster/) |
 | 🏷️ **Proclubs** | 1 | [Browse →](./proclubs/) |
 | 🏷️ **Link-in-bio** | 1 | [Browse →](./link-in-bio/) |

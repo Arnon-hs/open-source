@@ -1,6 +1,6 @@
 # kotlinsyd/Plavio
 
-[![Stars](https://img.shields.io/github/stars/kotlinsyd/Plavio?style=flat-square&color=yellow)](https://github.com/kotlinsyd/Plavio/stargazers) [![Forks](https://img.shields.io/github/forks/kotlinsyd/Plavio?style=flat-square&color=blue)](https://github.com/kotlinsyd/Plavio/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kotlinsyd/Plavio?style=flat-square&color=yellow)](https://github.com/kotlinsyd/Plavio/stargazers) [![Forks](https://img.shields.io/github/forks/kotlinsyd/Plavio?style=flat-square&color=blue)](https://github.com/kotlinsyd/Plavio/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Plavio — free, open-source Android streaming app with built-in player Discord: https://discord.gg/cwzHH3r9pa
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ kotlinsyd/Plavio：kotlinsyd/Plavio may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 44/100 |
+| quality | 39/100 |
 | integration | 30/100 |
-| production | 58/100 |
-| outlook | 55/100 |
+| production | 52/100 |
+| outlook | 48/100 |
 | adoption | 19/100 |
 | categoryMatchCount | 600/100 |
 | stars | 23/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

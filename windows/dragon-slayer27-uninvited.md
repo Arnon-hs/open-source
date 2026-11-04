@@ -1,6 +1,6 @@
 # dragon-slayer27/uninvited
 
-[![Stars](https://img.shields.io/github/stars/dragon-slayer27/uninvited?style=flat-square&color=yellow)](https://github.com/dragon-slayer27/uninvited/stargazers) [![Forks](https://img.shields.io/github/forks/dragon-slayer27/uninvited?style=flat-square&color=blue)](https://github.com/dragon-slayer27/uninvited/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dragon-slayer27/uninvited?style=flat-square&color=yellow)](https://github.com/dragon-slayer27/uninvited/stargazers) [![Forks](https://img.shields.io/github/forks/dragon-slayer27/uninvited?style=flat-square&color=blue)](https://github.com/dragon-slayer27/uninvited/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > What's haunting your laptop? Finds what wakes your Windows laptop at night and what starts without asking. Explained by Gemma 4 running locally; rules decide. Read-only.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ dragon-slayer27/uninvited：dragon-slayer27/uninvited may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 64/100 |
+| production | 58/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

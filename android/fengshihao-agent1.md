@@ -1,6 +1,6 @@
 # fengshihao/agent1
 
-[![Stars](https://img.shields.io/github/stars/fengshihao/agent1?style=flat-square&color=yellow)](https://github.com/fengshihao/agent1/stargazers) [![Forks](https://img.shields.io/github/forks/fengshihao/agent1?style=flat-square&color=blue)](https://github.com/fengshihao/agent1/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fengshihao/agent1?style=flat-square&color=yellow)](https://github.com/fengshihao/agent1/stargazers) [![Forks](https://img.shields.io/github/forks/fengshihao/agent1?style=flat-square&color=blue)](https://github.com/fengshihao/agent1/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > 给低端 Android 设备的开箱即用智能体 SDK：约 3MB 内核、内置 QuickJS，能力靠 find_caps 按需检索，可自进化。A compact coding agent SDK for Android / embedded JVM.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Java |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ fengshihao/agent1：fengshihao/agent1 may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 72/100 |
+| production | 60/100 |
+| outlook | 65/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
