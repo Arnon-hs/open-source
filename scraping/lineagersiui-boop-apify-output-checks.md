@@ -1,6 +1,6 @@
 # lineagersiui-boop/apify-output-checks
 
-[![Stars](https://img.shields.io/github/stars/lineagersiui-boop/apify-output-checks?style=flat-square&color=yellow)](https://github.com/lineagersiui-boop/apify-output-checks/stargazers) [![Forks](https://img.shields.io/github/forks/lineagersiui-boop/apify-output-checks?style=flat-square&color=blue)](https://github.com/lineagersiui-boop/apify-output-checks/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lineagersiui-boop/apify-output-checks?style=flat-square&color=yellow)](https://github.com/lineagersiui-boop/apify-output-checks/stargazers) [![Forks](https://img.shields.io/github/forks/lineagersiui-boop/apify-output-checks?style=flat-square&color=blue)](https://github.com/lineagersiui-boop/apify-output-checks/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Inputs, sample outputs and automation templates for checking the content of Apify scraper runs (empty, truncated or drifting datasets).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ lineagersiui-boop/apify-output-checks：lineagersiui-boop/apify-output-checks ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

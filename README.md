@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44111** |
-| **Categories** | **618** |
+| **Projects** | **44115** |
+| **Categories** | **619** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17768 | [Browse →](./misc/) |
+| 📦 **Misc** | 17769 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4669 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2915 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
@@ -33,8 +33,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🎨 **Frontend** | 904 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 815 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 725 | [Browse →](./documents/) |
+| 📱 **Mobile** | 668 | [Browse →](./mobile/) |
 | 🏷️ **Networking** | 667 | [Browse →](./networking/) |
-| 📱 **Mobile** | 667 | [Browse →](./mobile/) |
 | 🏷️ **Knowledgerag** | 630 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 623 | [Browse →](./cloud--storage/) |
 | 🏷️ **Video-editing** | 578 | [Browse →](./video-editing/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 188 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 148 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 147 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 148 | [Browse →](./ai/) |
 | 🏷️ **Ai-agents** | 45 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 45 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
@@ -220,6 +220,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Proclubs** | 1 | [Browse →](./proclubs/) |
 | 🏷️ **Link-in-bio** | 1 | [Browse →](./link-in-bio/) |
 | 🏷️ **Docsgpt** | 1 | [Browse →](./docsgpt/) |
 | 🏷️ **Deep-research** | 1 | [Browse →](./deep-research/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [lineagersiui-boop/apify-output-checks](./lineagersiui-boop-apify-output-checks.md) | ⭐ — | JavaScript | 58/100 |
+| 1 | [lineagersiui-boop/apify-output-checks](./lineagersiui-boop-apify-output-checks.md) | ⭐ — | JavaScript | 55/100 |
 | 2 | [Nitishmane/scraper-factory](./nitishmane-scraper-factory.md) | ⭐ 1 | Python | 35/100 |
 
 ---

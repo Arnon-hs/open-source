@@ -1,6 +1,6 @@
 # Luisacaotica/ComfyUI-MiniMaxH3Mod
 
-[![Stars](https://img.shields.io/github/stars/Luisacaotica/ComfyUI-MiniMaxH3Mod?style=flat-square&color=yellow)](https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod/stargazers) [![Forks](https://img.shields.io/github/forks/Luisacaotica/ComfyUI-MiniMaxH3Mod?style=flat-square&color=blue)](https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Luisacaotica/ComfyUI-MiniMaxH3Mod?style=flat-square&color=yellow)](https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod/stargazers) [![Forks](https://img.shields.io/github/forks/Luisacaotica/ComfyUI-MiniMaxH3Mod?style=flat-square&color=blue)](https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > 🚧 Under construction — no-training RefMod reference adapters for MiniMax H3 (compress reference images/videos into tiny latents, no training needed).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 599 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Luisacaotica/ComfyUI-MiniMaxH3Mod：Luisacaotica/ComfyUI-MiniMaxH3Mod may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 72/100 |
+| production | 64/100 |
+| outlook | 65/100 |
 | adoption | 56/100 |
 | categoryMatchCount | 500/100 |
 | stars | 59/100 |
 | forks | 46/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
