@@ -1,6 +1,6 @@
 # Felixwang007/awesome-content-tools
 
-[![Stars](https://img.shields.io/github/stars/Felixwang007/awesome-content-tools?style=flat-square&color=yellow)](https://github.com/Felixwang007/awesome-content-tools/stargazers) [![Forks](https://img.shields.io/github/forks/Felixwang007/awesome-content-tools?style=flat-square&color=blue)](https://github.com/Felixwang007/awesome-content-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Felixwang007/awesome-content-tools?style=flat-square&color=yellow)](https://github.com/Felixwang007/awesome-content-tools/stargazers) [![Forks](https://img.shields.io/github/forks/Felixwang007/awesome-content-tools?style=flat-square&color=blue)](https://github.com/Felixwang007/awesome-content-tools/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > 自媒体创作者与AI工具资源导航
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Felixwang007/awesome-content-tools：Felixwang007/awesome-content-tools may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 57/100 |
+| outlook | 57/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
