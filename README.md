@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44389** |
-| **Categories** | **660** |
+| **Projects** | **44391** |
+| **Categories** | **661** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -24,7 +24,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | Category | Projects | |
 |---|---|---|
 | 📦 **Misc** | 17884 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4683 | [Browse →](./aiml/) |
+| 🤖 **AI/ML** | 4684 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2920 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2431 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1615 | [Browse →](./devtools/) |
@@ -233,6 +233,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Openstreetmap** | 1 | [Browse →](./openstreetmap/) |
 | 🏷️ **Pandas** | 1 | [Browse →](./pandas/) |
 | 🏷️ **Sse** | 1 | [Browse →](./sse/) |
 | 🏷️ **Git-worktree** | 1 | [Browse →](./git-worktree/) |

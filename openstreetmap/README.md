@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [osm-search/Nominatim](./osm-search-nominatim.md) | ⭐ 4.5k | Python | 58/100 |
+| 1 | [idimetrix/canchas-mexico](./idimetrix-canchas-mexico.md) | ⭐ — | TypeScript | 47/100 |
 
 ---
 

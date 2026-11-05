@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [NGdev2/earful](./ngdev2-earful.md) | ⭐ 6 | JavaScript | 54/100 |
+| 1 | [NGdev2/earful](./ngdev2-earful.md) | ⭐ 6 | JavaScript | 51/100 |
 
 ---
 

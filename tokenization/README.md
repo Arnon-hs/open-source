@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [aicostbudget/tokenizer-ratios](./aicostbudget-tokenizer-ratios.md) | ⭐ — | Python | 47/100 |
+| 1 | [aicostbudget/tokenizer-ratios](./aicostbudget-tokenizer-ratios.md) | ⭐ — | Python | 44/100 |
 
 ---
 
