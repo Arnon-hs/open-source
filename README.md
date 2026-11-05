@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44267** |
-| **Categories** | **648** |
+| **Projects** | **44270** |
+| **Categories** | **649** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -105,6 +105,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Nodejs** | 3 | [Browse →](./nodejs/) |
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Whisper** | 3 | [Browse →](./whisper/) |
 | 🏷️ **Flutter** | 3 | [Browse →](./flutter/) |
@@ -138,6 +139,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Student-resources** | 2 | [Browse →](./student-resources/) |
 | 🏷️ **Testing** | 2 | [Browse →](./testing/) |
 | 🏷️ **Context-management** | 2 | [Browse →](./context-management/) |
 | 🏷️ **Incident-response** | 2 | [Browse →](./incident-response/) |
@@ -150,7 +152,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Django** | 2 | [Browse →](./django/) |
 | 🏷️ **Ai-testing** | 2 | [Browse →](./ai-testing/) |
 | 🏷️ **System-design** | 2 | [Browse →](./system-design/) |
-| 🏷️ **Nodejs** | 2 | [Browse →](./nodejs/) |
 | 🏷️ **Reverse-engineering** | 2 | [Browse →](./reverse-engineering/) |
 | 🏷️ **Invoice** | 2 | [Browse →](./invoice/) |
 | 🏷️ **Machine-learning** | 2 | [Browse →](./machine-learning/) |

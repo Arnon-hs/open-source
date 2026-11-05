@@ -14,8 +14,8 @@
 | 4 | [DeadY2J/factreel](./deady2j-factreel.md) | ⭐ 2 | Python | 58/100 |
 | 5 | [stateway-io/fly-swe](./stateway-io-fly-swe.md) | ⭐ — | Python | 56/100 |
 | 6 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 51/100 |
-| 7 | [amananandrai/llm-explained](./amananandrai-llm-explained.md) | ⭐ — | JavaScript | 36/100 |
-| 8 | [T-RexBytes/phantom-packages](./t-rexbytes-phantom-packages.md) | ⭐ — | Python | 36/100 |
+| 7 | [T-RexBytes/phantom-packages](./t-rexbytes-phantom-packages.md) | ⭐ — | Python | 36/100 |
+| 8 | [amananandrai/llm-explained](./amananandrai-llm-explained.md) | ⭐ — | JavaScript | 33/100 |
 | 9 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 32/100 |
 | 10 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 30/100 |
 | 11 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 30/100 |
