@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44312** |
-| **Categories** | **653** |
+| **Projects** | **44315** |
+| **Categories** | **654** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -28,7 +28,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mcp** | 2919 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1615 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1507 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1509 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 907 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 818 | [Browse →](./crypto/) |
@@ -229,6 +229,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Monitoring** | 1 | [Browse →](./monitoring/) |
 | 🏷️ **Token-efficiency** | 1 | [Browse →](./token-efficiency/) |
 | 🏷️ **Ssms** | 1 | [Browse →](./ssms/) |
 | 🏷️ **Pdf-extraction** | 1 | [Browse →](./pdf-extraction/) |
