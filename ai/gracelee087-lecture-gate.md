@@ -1,6 +1,6 @@
 # gracelee087/lecture-gate
 
-[![Stars](https://img.shields.io/github/stars/gracelee087/lecture-gate?style=flat-square&color=yellow)](https://github.com/gracelee087/lecture-gate/stargazers) [![Forks](https://img.shields.io/github/forks/gracelee087/lecture-gate?style=flat-square&color=blue)](https://github.com/gracelee087/lecture-gate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gracelee087/lecture-gate?style=flat-square&color=yellow)](https://github.com/gracelee087/lecture-gate/stargazers) [![Forks](https://img.shields.io/github/forks/gracelee087/lecture-gate?style=flat-square&color=blue)](https://github.com/gracelee087/lecture-gate/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Open models watch the AI talks I keep missing and add what's new to my own notes, on my laptop.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ gracelee087/lecture-gate：gracelee087/lecture-gate may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 44/100 |
+| quality | 39/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 52/100 |
+| production | 51/100 |
+| outlook | 45/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

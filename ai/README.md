@@ -37,9 +37,9 @@
 | 27 | [shouvik12/living-canvas](./shouvik12-living-canvas.md) | ⭐ 3 | — | 48/100 |
 | 28 | [ting-hong-shieh/monster-telephone](./ting-hong-shieh-monster-telephone.md) | ⭐ — | JavaScript | 48/100 |
 | 29 | [pattjoshi/om-ai-engineer-portfolio](./pattjoshi-om-ai-engineer-portfolio.md) | ⭐ — | TypeScript | 48/100 |
-| 30 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 47/100 |
-| 31 | [Pavel6625/PaulusAI](./pavel6625-paulusai.md) | ⭐ 3 | Python | 46/100 |
-| 32 | [jean82290/graphify-railway](./jean82290-graphify-railway.md) | ⭐ — | Python | 46/100 |
+| 30 | [Pavel6625/PaulusAI](./pavel6625-paulusai.md) | ⭐ 3 | Python | 46/100 |
+| 31 | [jean82290/graphify-railway](./jean82290-graphify-railway.md) | ⭐ — | Python | 46/100 |
+| 32 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 44/100 |
 | 33 | [GaffaAI/gaffa-cli](./gaffaai-gaffa-cli.md) | ⭐ — | TypeScript | 41/100 |
 | 34 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 41/100 |
 | 35 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 41/100 |

@@ -12,8 +12,8 @@
 | 2 | [Domenico-Tenace-Open-Labs/web-dev-agent](./domenico-tenace-open-labs-web-dev-agent.md) | ⭐ 3 | Python | 59/100 |
 | 3 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 50/100 |
 | 4 | [thoughtpivot/scribe](./thoughtpivot-scribe.md) | ⭐ 4 | TypeScript | 49/100 |
-| 5 | [DeadY2J/skills-es](./deady2j-skills-es.md) | ⭐ — | Python | 48/100 |
-| 6 | [lance-format/lance-graph](./lance-format-lance-graph.md) | ⭐ 186 | Rust | 46/100 |
+| 5 | [lance-format/lance-graph](./lance-format-lance-graph.md) | ⭐ 186 | Rust | 46/100 |
+| 6 | [DeadY2J/skills-es](./deady2j-skills-es.md) | ⭐ — | Python | 45/100 |
 | 7 | [thoughtpivot/flight](./thoughtpivot-flight.md) | ⭐ 1 | TypeScript | 44/100 |
 | 8 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 41/100 |
 | 9 | [Anandb71/names-in-the-machine](./anandb71-names-in-the-machine.md) | ⭐ — | Python | 39/100 |
