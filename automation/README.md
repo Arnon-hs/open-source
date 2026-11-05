@@ -571,8 +571,8 @@
 | 561 | [cline/cline](./cline-cline.md) | ⭐ 61.5k | TypeScript | 66/100 |
 | 562 | [outcrawlai/scout](./outcrawlai-scout.md) | ⭐ 939 | TypeScript | 65/100 |
 | 563 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.1k | AutoHotkey | 65/100 |
-| 564 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
-| 565 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
+| 564 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 114 | TypeScript | 65/100 |
+| 565 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
 | 566 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 567 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 46 | TypeScript | 65/100 |
 | 568 | [askbudi/juno-code](./askbudi-juno-code.md) | ⭐ 55 | TypeScript | 65/100 |
@@ -642,8 +642,8 @@
 | 632 | [qwen-code-dev-bot/oh-my-cli](./qwen-code-dev-bot-oh-my-cli.md) | ⭐ 339 | TypeScript | 64/100 |
 | 633 | [mworldorg/markdown-memory](./mworldorg-markdown-memory.md) | ⭐ 23 | Python | 64/100 |
 | 634 | [M507/RamiGPT](./m507-ramigpt.md) | ⭐ 860 | Python | 64/100 |
-| 635 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 64/100 |
-| 636 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 64/100 |
+| 635 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 64/100 |
+| 636 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 64/100 |
 | 637 | [nestjs/bull](./nestjs-bull.md) | ⭐ 699 | TypeScript | 64/100 |
 | 638 | [terrakube-io/terrakube](./terrakube-io-terrakube.md) | ⭐ 927 | Java | 64/100 |
 | 639 | [VyomKulshrestha/Heliox-OS](./vyomkulshrestha-heliox-os.md) | ⭐ 59 | Python | 64/100 |
@@ -808,8 +808,8 @@
 | 798 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.7k | Go | 62/100 |
 | 799 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 31 | Rust | 62/100 |
 | 800 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.2k | Rust | 62/100 |
-| 801 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
-| 802 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 801 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 32 | Rust | 62/100 |
+| 802 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 99 | TypeScript | 62/100 |
 | 803 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 112 | Shell | 62/100 |
 | 804 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 543 | Python | 62/100 |
 | 805 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 133 | TypeScript | 62/100 |
@@ -1475,8 +1475,8 @@
 | 1465 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 38/100 |
 | 1466 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 38/100 |
 | 1467 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 38/100 |
-| 1468 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
-| 1469 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1468 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1469 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
 | 1470 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 38/100 |
 | 1471 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 38/100 |
 | 1472 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 38/100 |

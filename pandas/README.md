@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Arthur031221/polars-ready](./arthur031221-polars-ready.md) | ⭐ — | Python | 51/100 |
+| 1 | [Adel1637/hr-dashboard-lite](./adel1637-hr-dashboard-lite.md) | ⭐ — | Python | 66/100 |
 
 ---
 
