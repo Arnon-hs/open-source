@@ -474,8 +474,8 @@
 | 464 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 346 | C++ | 54/100 |
 | 465 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 54/100 |
 | 466 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ — | — | 53/100 |
-| 467 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
-| 468 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 467 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 468 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
 | 469 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 470 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 252 | — | 53/100 |
 | 471 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
