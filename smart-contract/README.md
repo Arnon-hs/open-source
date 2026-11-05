@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [holistis/bug-bounty-intelligence-mcp](./holistis-bug-bounty-intelligence-mcp.md) | ⭐ 11 | JavaScript | 61/100 |
+| 1 | [holistis/bug-bounty-intelligence-mcp](./holistis-bug-bounty-intelligence-mcp.md) | ⭐ 11 | JavaScript | 58/100 |
 
 ---
 

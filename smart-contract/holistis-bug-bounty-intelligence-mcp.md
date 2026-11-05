@@ -1,6 +1,6 @@
 # holistis/bug-bounty-intelligence-mcp
 
-[![Stars](https://img.shields.io/github/stars/holistis/bug-bounty-intelligence-mcp?style=flat-square&color=yellow)](https://github.com/holistis/bug-bounty-intelligence-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/holistis/bug-bounty-intelligence-mcp?style=flat-square&color=blue)](https://github.com/holistis/bug-bounty-intelligence-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holistis/bug-bounty-intelligence-mcp?style=flat-square&color=yellow)](https://github.com/holistis/bug-bounty-intelligence-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/holistis/bug-bounty-intelligence-mcp?style=flat-square&color=blue)](https://github.com/holistis/bug-bounty-intelligence-mcp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > MCP server that scans Solidity repos through a 7-gate verification framework (Al-Mizaan) to cut LLM false positives, benchmarked against Slither; free pattern-search from 1,032 reconciled Sherlock findings, paid full scan via x402 (USDC/Base).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ holistis/bug-bounty-intelligence-mcp：holistis/bug-bounty-intelligence-mcp may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 72/100 |
+| production | 60/100 |
+| outlook | 65/100 |
 | adoption | 22/100 |
 | categoryMatchCount | 600/100 |
 | stars | 23/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

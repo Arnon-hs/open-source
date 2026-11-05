@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Abubakr-Alsheikh/claude-account-switch](./abubakr-alsheikh-claude-account-switch.md) | ⭐ — | Python | 53/100 |
+| 1 | [Abubakr-Alsheikh/claude-account-switch](./abubakr-alsheikh-claude-account-switch.md) | ⭐ — | Python | 50/100 |
 | 2 | [celosport/agent-desk](./celosport-agent-desk.md) | ⭐ — | TypeScript | 43/100 |
 | 3 | [advancedcognitivesystems-ai/claude-usage-widgets](./advancedcognitivesystems-ai-claude-usage-widgets.md) | ⭐ — | PowerShell | 33/100 |
 | 4 | [B-Lost/litellm](./b-lost-litellm.md) | ⭐ — | — | 24/100 |
