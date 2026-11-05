@@ -15,9 +15,9 @@
 | 5 | [postbye-team/postbye-mcp](./postbye-team-postbye-mcp.md) | ⭐ — | — | 66/100 |
 | 6 | [RinDig/Interpretable-Context-Methodology](./rindig-interpretable-context-methodology.md) | ⭐ 1.4k | Python | 65/100 |
 | 7 | [kharchangai/Mocu](./kharchangai-mocu.md) | ⭐ — | — | 63/100 |
-| 8 | [meta-taro/sshboard](./meta-taro-sshboard.md) | ⭐ — | Rust | 63/100 |
-| 9 | [whereabot/whereabot](./whereabot-whereabot.md) | ⭐ — | JavaScript | 63/100 |
-| 10 | [sadrmanesh/woocommerce-mcp](./sadrmanesh-woocommerce-mcp.md) | ⭐ 1 | TypeScript | 60/100 |
+| 8 | [whereabot/whereabot](./whereabot-whereabot.md) | ⭐ — | JavaScript | 63/100 |
+| 9 | [sadrmanesh/woocommerce-mcp](./sadrmanesh-woocommerce-mcp.md) | ⭐ 1 | TypeScript | 60/100 |
+| 10 | [meta-taro/sshboard](./meta-taro-sshboard.md) | ⭐ — | Rust | 60/100 |
 | 11 | [sadrmanesh/persian-rag](./sadrmanesh-persian-rag.md) | ⭐ 1 | Python | 57/100 |
 | 12 | [meta-taro/dbboard](./meta-taro-dbboard.md) | ⭐ — | Rust | 56/100 |
 | 13 | [DreamOfXM/agent-ping](./dreamofxm-agent-ping.md) | ⭐ 5 | C++ | 56/100 |

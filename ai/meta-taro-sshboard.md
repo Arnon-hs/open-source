@@ -1,6 +1,6 @@
 # meta-taro/sshboard
 
-[![Stars](https://img.shields.io/github/stars/meta-taro/sshboard?style=flat-square&color=yellow)](https://github.com/meta-taro/sshboard/stargazers) [![Forks](https://img.shields.io/github/forks/meta-taro/sshboard?style=flat-square&color=blue)](https://github.com/meta-taro/sshboard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/meta-taro/sshboard?style=flat-square&color=yellow)](https://github.com/meta-taro/sshboard/stargazers) [![Forks](https://img.shields.io/github/forks/meta-taro/sshboard?style=flat-square&color=blue)](https://github.com/meta-taro/sshboard/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > MCP SFTP client and MCP SSH terminal — let an AI agent see your remote server over one SSH session, with files and command output on the same screen you are watching. Read-only first. Tauri desktop app with a built-in MCP server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ meta-taro/sshboard：meta-taro/sshboard may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 70/100 |
+| production | 58/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
