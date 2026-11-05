@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [RevealWire/rsb-1000](./revealwire-rsb-1000.md) | ⭐ — | Python | 42/100 |
+| 1 | [RevealWire/rsb-1000](./revealwire-rsb-1000.md) | ⭐ — | Python | 39/100 |
 
 ---
 
