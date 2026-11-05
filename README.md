@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44277** |
-| **Categories** | **649** |
+| **Projects** | **44278** |
+| **Categories** | **650** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -228,6 +228,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Password-manager** | 1 | [Browse →](./password-manager/) |
 | 🏷️ **Data-pipeline** | 1 | [Browse →](./data-pipeline/) |
 | 🏷️ **Alfresco** | 1 | [Browse →](./alfresco/) |
 | 🏷️ **Dbt** | 1 | [Browse →](./dbt/) |

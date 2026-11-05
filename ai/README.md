@@ -18,8 +18,8 @@
 | 8 | [meta-taro/sshboard](./meta-taro-sshboard.md) | ⭐ — | Rust | 63/100 |
 | 9 | [whereabot/whereabot](./whereabot-whereabot.md) | ⭐ — | JavaScript | 63/100 |
 | 10 | [sadrmanesh/woocommerce-mcp](./sadrmanesh-woocommerce-mcp.md) | ⭐ 1 | TypeScript | 60/100 |
-| 11 | [meta-taro/dbboard](./meta-taro-dbboard.md) | ⭐ — | Rust | 59/100 |
-| 12 | [sadrmanesh/persian-rag](./sadrmanesh-persian-rag.md) | ⭐ 1 | Python | 57/100 |
+| 11 | [sadrmanesh/persian-rag](./sadrmanesh-persian-rag.md) | ⭐ 1 | Python | 57/100 |
+| 12 | [meta-taro/dbboard](./meta-taro-dbboard.md) | ⭐ — | Rust | 56/100 |
 | 13 | [DreamOfXM/agent-ping](./dreamofxm-agent-ping.md) | ⭐ 5 | C++ | 56/100 |
 | 14 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
 | 15 | [longwave-ai-lab/skill-commercialization-factory](./longwave-ai-lab-skill-commercialization-factory.md) | ⭐ — | JavaScript | 54/100 |
