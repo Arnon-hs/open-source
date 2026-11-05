@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tradingview/lightweight-charts](./tradingview-lightweight-charts.md) | ⭐ 17.7k | TypeScript | 67/100 |
-| 2 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 37 | Go | 65/100 |
+| 1 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 37 | Go | 65/100 |
+| 2 | [tradingview/lightweight-charts](./tradingview-lightweight-charts.md) | ⭐ 17.7k | TypeScript | 64/100 |
 | 3 | [ordercraft-hq/terminal](./ordercraft-hq-terminal.md) | ⭐ 1 | TypeScript | 53/100 |
 | 4 | [altrudev/lullwire-relay](./altrudev-lullwire-relay.md) | ⭐ — | JavaScript | 48/100 |
 | 5 | [contextforge/contextforge-mcp](./contextforge-contextforge-mcp.md) | ⭐ — | — | 32/100 |

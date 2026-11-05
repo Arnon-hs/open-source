@@ -27,9 +27,9 @@
 | 17 | [operatecenter/operator-starter](./operatecenter-operator-starter.md) | ⭐ 4 | TypeScript | 45/100 |
 | 18 | [operatecenter/operate-hermes-plugin](./operatecenter-operate-hermes-plugin.md) | ⭐ 3 | Python | 42/100 |
 | 19 | [sunfishloop/sunfishloop-mcp](./sunfishloop-sunfishloop-mcp.md) | ⭐ — | TypeScript | 41/100 |
-| 20 | [Deepanshu-2006/Summit](./deepanshu-2006-summit.md) | ⭐ — | Go | 39/100 |
-| 21 | [JakeBurwick/vow](./jakeburwick-vow.md) | ⭐ 2 | JavaScript | 39/100 |
-| 22 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
+| 20 | [JakeBurwick/vow](./jakeburwick-vow.md) | ⭐ 2 | JavaScript | 39/100 |
+| 21 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
+| 22 | [Deepanshu-2006/Summit](./deepanshu-2006-summit.md) | ⭐ — | Go | 36/100 |
 | 23 | [anthropic/claude-agent-sdk](./anthropic-claude-agent-sdk.md) | ⭐ — | — | 36/100 |
 | 24 | [rafaeladriano-web/aurafarming](./rafaeladriano-web-aurafarming.md) | ⭐ — | TypeScript | 36/100 |
 | 25 | [RamyaRamachandran-driod/emergency-caller](./ramyaramachandran-driod-emergency-caller.md) | ⭐ — | TypeScript | 36/100 |
