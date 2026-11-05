@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/open-knowledge-format
 
-[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/open-knowledge-format?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/open-knowledge-format/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/open-knowledge-format?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/open-knowledge-format/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/GoogleCloudPlatform/open-knowledge-format?style=flat-square&color=yellow)](https://github.com/GoogleCloudPlatform/open-knowledge-format/stargazers) [![Forks](https://img.shields.io/github/forks/GoogleCloudPlatform/open-knowledge-format?style=flat-square&color=blue)](https://github.com/GoogleCloudPlatform/open-knowledge-format/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.3k |
 | 🍴 **Forks** | 90 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ GoogleCloudPlatform/open-knowledge-format：GoogleCloudPlatform/open-knowledge-f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 34/100 |
-| production | 66/100 |
-| outlook | 66/100 |
+| production | 59/100 |
+| outlook | 59/100 |
 | adoption | 61/100 |
 | categoryMatchCount | 900/100 |
 | stars | 66/100 |
 | forks | 49/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
