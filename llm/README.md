@@ -12,7 +12,7 @@
 | 2 | [aliaksandr-liapin/cloudarchitect-lite](./aliaksandr-liapin-cloudarchitect-lite.md) | ⭐ — | TypeScript | 59/100 |
 | 3 | [ngwes/skill-be](./ngwes-skill-be.md) | ⭐ — | TypeScript | 59/100 |
 | 4 | [DeadY2J/factreel](./deady2j-factreel.md) | ⭐ 2 | Python | 58/100 |
-| 5 | [stateway-io/fly-swe](./stateway-io-fly-swe.md) | ⭐ — | Python | 56/100 |
+| 5 | [stateway-io/fly-swe](./stateway-io-fly-swe.md) | ⭐ — | Python | 53/100 |
 | 6 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 51/100 |
 | 7 | [T-RexBytes/phantom-packages](./t-rexbytes-phantom-packages.md) | ⭐ — | Python | 36/100 |
 | 8 | [amananandrai/llm-explained](./amananandrai-llm-explained.md) | ⭐ — | JavaScript | 33/100 |

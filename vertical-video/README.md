@@ -2,7 +2,7 @@
 
 > 
 
-**151 projects** in this category.
+**152 projects** in this category.
 
 ## Projects
 
@@ -122,43 +122,44 @@
 | 112 | [zhuixin8/meiti-ai](./zhuixin8-meiti-ai.md) | ⭐ 26 | — | 58/100 |
 | 113 | [runesleo/claude-video-kit](./runesleo-claude-video-kit.md) | ⭐ 117 | TypeScript | 58/100 |
 | 114 | [JuneYaooo/awesome-ai-media-cn](./juneyaooo-awesome-ai-media-cn.md) | ⭐ 160 | — | 58/100 |
-| 115 | [colind0pe/Trendlume](./colind0pe-trendlume.md) | ⭐ 11 | Python | 57/100 |
-| 116 | [bianzigege/qianchuan-material-breakdown-skill](./bianzigege-qianchuan-material-breakdown-skill.md) | ⭐ 11 | Python | 57/100 |
-| 117 | [Colafornia/short-video-generator-AI](./colafornia-short-video-generator-ai.md) | ⭐ 14 | Python | 57/100 |
-| 118 | [witty-suckerpunch492/daihuo-jianshou](./witty-suckerpunch492-daihuo-jianshou.md) | ⭐ 233 | TypeScript | 57/100 |
-| 119 | [Creative-Crafter/davinci-shortform-overlays](./creative-crafter-davinci-shortform-overlays.md) | ⭐ 11 | — | 56/100 |
-| 120 | [YeJe-cpu/SeeCut](./yeje-cpu-seecut.md) | ⭐ 21 | JavaScript | 56/100 |
-| 121 | [kaomei/script-to-card-video](./kaomei-script-to-card-video.md) | ⭐ 11 | JavaScript | 56/100 |
-| 122 | [Mrshahidali420/youtube-shorts-automation](./mrshahidali420-youtube-shorts-automation.md) | ⭐ 11 | Python | 56/100 |
-| 123 | [HeyChengC/vibe-editing-guide](./heychengc-vibe-editing-guide.md) | ⭐ 16 | HTML | 55/100 |
-| 124 | [yangbin1322/hongguo-player](./yangbin1322-hongguo-player.md) | ⭐ 43 | — | 55/100 |
-| 125 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
-| 126 | [Mr-funny/hbg-hanzi-chaizi-video](./mr-funny-hbg-hanzi-chaizi-video.md) | ⭐ 87 | TypeScript | 55/100 |
-| 127 | [2282199198/zuiqiang-shifu](./2282199198-zuiqiang-shifu.md) | ⭐ 14 | — | 54/100 |
-| 128 | [gxr404/gen-short-vid](./gxr404-gen-short-vid.md) | ⭐ 33 | TypeScript | 54/100 |
-| 129 | [waterbrojx/water-koubo](./waterbrojx-water-koubo.md) | ⭐ 11 | Python | 54/100 |
-| 130 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 29 | HTML | 54/100 |
-| 131 | [wangcanyu/daihuo-fanpai](./wangcanyu-daihuo-fanpai.md) | ⭐ 26 | Python | 54/100 |
-| 132 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 430 | PHP | 54/100 |
-| 133 | [xiaoliangliang/auto-publish](./xiaoliangliang-auto-publish.md) | ⭐ 20 | JavaScript | 53/100 |
-| 134 | [SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System](./suleynanauir-omni-multimodal-intelligent-onerec-based-system.md) | ⭐ 15 | Python | 52/100 |
-| 135 | [cacity/DouyinGo](./cacity-douyingo.md) | ⭐ 51 | Python | 52/100 |
-| 136 | [dongtaowei54-sys/root-word-animation](./dongtaowei54-sys-root-word-animation.md) | ⭐ 15 | HTML | 51/100 |
-| 137 | [SilentFleetKK/vellum-reel](./silentfleetkk-vellum-reel.md) | ⭐ 13 | JavaScript | 51/100 |
-| 138 | [liuxingqitd/content-risk-detector](./liuxingqitd-content-risk-detector.md) | ⭐ 41 | — | 51/100 |
-| 139 | [TufayelLUS/TikTok-Video-Downloader-PHP](./tufayellus-tiktok-video-downloader-php.md) | ⭐ 340 | PHP | 51/100 |
-| 140 | [parallelpan/hongguo-downloader](./parallelpan-hongguo-downloader.md) | ⭐ 11 | — | 50/100 |
-| 141 | [du293/Womble-MPEG-Video-Wizard-Setup-Guide](./du293-womble-mpeg-video-wizard-setup-guide.md) | ⭐ 12 | HTML | 50/100 |
-| 142 | [nopefallacy/vertical-video-editing-skills](./nopefallacy-vertical-video-editing-skills.md) | ⭐ 45 | HTML | 50/100 |
-| 143 | [KonstantinKai/reelkit](./konstantinkai-reelkit.md) | ⭐ 39 | TypeScript | 50/100 |
-| 144 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 343 | JavaScript | 50/100 |
-| 145 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 47/100 |
-| 146 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
+| 115 | [Phucanh-MRT/mrtkeyword](./phucanh-mrt-mrtkeyword.md) | ⭐ 21 | TypeScript | 57/100 |
+| 116 | [colind0pe/Trendlume](./colind0pe-trendlume.md) | ⭐ 11 | Python | 57/100 |
+| 117 | [bianzigege/qianchuan-material-breakdown-skill](./bianzigege-qianchuan-material-breakdown-skill.md) | ⭐ 11 | Python | 57/100 |
+| 118 | [Colafornia/short-video-generator-AI](./colafornia-short-video-generator-ai.md) | ⭐ 14 | Python | 57/100 |
+| 119 | [witty-suckerpunch492/daihuo-jianshou](./witty-suckerpunch492-daihuo-jianshou.md) | ⭐ 233 | TypeScript | 57/100 |
+| 120 | [Creative-Crafter/davinci-shortform-overlays](./creative-crafter-davinci-shortform-overlays.md) | ⭐ 11 | — | 56/100 |
+| 121 | [YeJe-cpu/SeeCut](./yeje-cpu-seecut.md) | ⭐ 21 | JavaScript | 56/100 |
+| 122 | [kaomei/script-to-card-video](./kaomei-script-to-card-video.md) | ⭐ 11 | JavaScript | 56/100 |
+| 123 | [Mrshahidali420/youtube-shorts-automation](./mrshahidali420-youtube-shorts-automation.md) | ⭐ 11 | Python | 56/100 |
+| 124 | [HeyChengC/vibe-editing-guide](./heychengc-vibe-editing-guide.md) | ⭐ 16 | HTML | 55/100 |
+| 125 | [yangbin1322/hongguo-player](./yangbin1322-hongguo-player.md) | ⭐ 43 | — | 55/100 |
+| 126 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
+| 127 | [Mr-funny/hbg-hanzi-chaizi-video](./mr-funny-hbg-hanzi-chaizi-video.md) | ⭐ 87 | TypeScript | 55/100 |
+| 128 | [2282199198/zuiqiang-shifu](./2282199198-zuiqiang-shifu.md) | ⭐ 14 | — | 54/100 |
+| 129 | [gxr404/gen-short-vid](./gxr404-gen-short-vid.md) | ⭐ 33 | TypeScript | 54/100 |
+| 130 | [waterbrojx/water-koubo](./waterbrojx-water-koubo.md) | ⭐ 11 | Python | 54/100 |
+| 131 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 29 | HTML | 54/100 |
+| 132 | [wangcanyu/daihuo-fanpai](./wangcanyu-daihuo-fanpai.md) | ⭐ 26 | Python | 54/100 |
+| 133 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 430 | PHP | 54/100 |
+| 134 | [xiaoliangliang/auto-publish](./xiaoliangliang-auto-publish.md) | ⭐ 20 | JavaScript | 53/100 |
+| 135 | [SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System](./suleynanauir-omni-multimodal-intelligent-onerec-based-system.md) | ⭐ 15 | Python | 52/100 |
+| 136 | [cacity/DouyinGo](./cacity-douyingo.md) | ⭐ 51 | Python | 52/100 |
+| 137 | [dongtaowei54-sys/root-word-animation](./dongtaowei54-sys-root-word-animation.md) | ⭐ 15 | HTML | 51/100 |
+| 138 | [SilentFleetKK/vellum-reel](./silentfleetkk-vellum-reel.md) | ⭐ 13 | JavaScript | 51/100 |
+| 139 | [liuxingqitd/content-risk-detector](./liuxingqitd-content-risk-detector.md) | ⭐ 41 | — | 51/100 |
+| 140 | [TufayelLUS/TikTok-Video-Downloader-PHP](./tufayellus-tiktok-video-downloader-php.md) | ⭐ 340 | PHP | 51/100 |
+| 141 | [parallelpan/hongguo-downloader](./parallelpan-hongguo-downloader.md) | ⭐ 11 | — | 50/100 |
+| 142 | [du293/Womble-MPEG-Video-Wizard-Setup-Guide](./du293-womble-mpeg-video-wizard-setup-guide.md) | ⭐ 12 | HTML | 50/100 |
+| 143 | [nopefallacy/vertical-video-editing-skills](./nopefallacy-vertical-video-editing-skills.md) | ⭐ 45 | HTML | 50/100 |
+| 144 | [KonstantinKai/reelkit](./konstantinkai-reelkit.md) | ⭐ 39 | TypeScript | 50/100 |
+| 145 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 343 | JavaScript | 50/100 |
+| 146 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 47/100 |
 | 147 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 47/100 |
-| 148 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 47/100 |
-| 149 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ — | — | 45/100 |
-| 150 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
-| 151 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
+| 148 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
+| 149 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 47/100 |
+| 150 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ — | — | 45/100 |
+| 151 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
+| 152 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
 
 ---
 
