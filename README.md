@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44295** |
+| **Projects** | **44298** |
 | **Categories** | **652** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -31,7 +31,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Automation** | 1507 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 907 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 817 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 818 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 726 | [Browse →](./documents/) |
 | 📱 **Mobile** | 672 | [Browse →](./mobile/) |
 | 🏷️ **Networking** | 667 | [Browse →](./networking/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 190 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 155 | [Browse →](./ai/) |
-| 🏷️ **Vertical-video** | 150 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 151 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 48 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 46 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
@@ -94,6 +94,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Wordpress** | 5 | [Browse →](./wordpress/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
+| 🏷️ **Nextjs** | 4 | [Browse →](./nextjs/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
 | 🏷️ **Ios** | 4 | [Browse →](./ios/) |
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
@@ -122,7 +123,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Monorepo** | 3 | [Browse →](./monorepo/) |
 | 🏷️ **Comfyui** | 3 | [Browse →](./comfyui/) |
 | 🏷️ **Linux** | 3 | [Browse →](./linux/) |
-| 🏷️ **Nextjs** | 3 | [Browse →](./nextjs/) |
 | 🏷️ **Ai-assisted-development** | 3 | [Browse →](./ai-assisted-development/) |
 | 🏷️ **Ai-safety** | 3 | [Browse →](./ai-safety/) |
 | 🏷️ **Open-weight-models** | 3 | [Browse →](./open-weight-models/) |
