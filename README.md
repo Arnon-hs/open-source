@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44298** |
+| **Projects** | **44301** |
 | **Categories** | **652** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17843 | [Browse →](./misc/) |
+| 📦 **Misc** | 17844 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4674 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2919 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
@@ -45,8 +45,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔐 **Security** | 464 | [Browse →](./security/) |
 | 💳 **Payments** | 376 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 349 | [Browse →](./games--graphics/) |
+| 🏷️ **Productivity** | 345 | [Browse →](./productivity/) |
 | 📊 **Data** | 345 | [Browse →](./data/) |
-| 🏷️ **Productivity** | 344 | [Browse →](./productivity/) |
 | 🏷️ **Observability** | 319 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 272 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
@@ -140,6 +140,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ai-writing** | 2 | [Browse →](./ai-writing/) |
 | 🏷️ **Student-resources** | 2 | [Browse →](./student-resources/) |
 | 🏷️ **Testing** | 2 | [Browse →](./testing/) |
 | 🏷️ **Context-management** | 2 | [Browse →](./context-management/) |
@@ -485,7 +486,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Receipt** | 1 | [Browse →](./receipt/) |
 | 🏷️ **Decision-model** | 1 | [Browse →](./decision-model/) |
 | 🏷️ **Evm** | 1 | [Browse →](./evm/) |
-| 🏷️ **Ai-writing** | 1 | [Browse →](./ai-writing/) |
 | 🏷️ **Government-tender** | 1 | [Browse →](./government-tender/) |
 | 🏷️ **Distributed-computing** | 1 | [Browse →](./distributed-computing/) |
 | 🏷️ **Wayland** | 1 | [Browse →](./wayland/) |
