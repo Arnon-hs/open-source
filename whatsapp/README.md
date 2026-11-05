@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [AnthonyASBaptiste/tenderlens](./anthonyasbaptiste-tenderlens.md) | ⭐ — | Python | 40/100 |
-| 2 | [Bientechsavvy/overnight-catch-up](./bientechsavvy-overnight-catch-up.md) | ⭐ — | Python | 36/100 |
-| 3 | [google/mediapipe](./google-mediapipe.md) | ⭐ — | — | 35/100 |
+| 2 | [google/mediapipe](./google-mediapipe.md) | ⭐ — | — | 35/100 |
+| 3 | [Bientechsavvy/overnight-catch-up](./bientechsavvy-overnight-catch-up.md) | ⭐ — | Python | 33/100 |
 | 4 | [YashAdake/parchi](./yashadake-parchi.md) | ⭐ — | HTML | 30/100 |
 | 5 | [litert-community/gemma-4-E2B-it-litert-lm](./litert-community-gemma-4-e2b-it-litert-lm.md) | ⭐ — | — | 24/100 |
 | 6 | [adiwajshing/Baileys](./adiwajshing-baileys.md) | ⭐ — | — | 24/100 |

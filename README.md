@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44367** |
-| **Categories** | **658** |
+| **Projects** | **44372** |
+| **Categories** | **659** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17875 | [Browse →](./misc/) |
+| 📦 **Misc** | 17877 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4683 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2920 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2431 | [Browse →](./orchestration/) |
@@ -71,10 +71,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Rust** | 11 | [Browse →](./rust/) |
+| 🏷️ **Aws** | 10 | [Browse →](./aws/) |
 | 🏷️ **Self-hosted** | 10 | [Browse →](./self-hosted/) |
 | 🏷️ **Macos** | 9 | [Browse →](./macos/) |
 | 🏷️ **Cli** | 9 | [Browse →](./cli/) |
-| 🏷️ **Aws** | 9 | [Browse →](./aws/) |
 | 🏷️ **Python** | 8 | [Browse →](./python/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Ai-coding** | 6 | [Browse →](./ai-coding/) |
@@ -141,6 +141,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Azure** | 2 | [Browse →](./azure/) |
 | 🏷️ **Ai-writing** | 2 | [Browse →](./ai-writing/) |
 | 🏷️ **Student-resources** | 2 | [Browse →](./student-resources/) |
@@ -231,6 +232,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Sse** | 1 | [Browse →](./sse/) |
 | 🏷️ **Git-worktree** | 1 | [Browse →](./git-worktree/) |
 | 🏷️ **Token-compression** | 1 | [Browse →](./token-compression/) |
 | 🏷️ **Semantic-layer** | 1 | [Browse →](./semantic-layer/) |
@@ -573,7 +575,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mock-interviewer** | 1 | [Browse →](./mock-interviewer/) |
 | 🏷️ **Gdpr** | 1 | [Browse →](./gdpr/) |
 | 🏷️ **Notion** | 1 | [Browse →](./notion/) |
-| 🏷️ **Agent-memory** | 1 | [Browse →](./agent-memory/) |
 | 🏷️ **Document-management** | 1 | [Browse →](./document-management/) |
 | 🏷️ **Study** | 1 | [Browse →](./study/) |
 | 🏷️ **Handgesture** | 1 | [Browse →](./handgesture/) |
