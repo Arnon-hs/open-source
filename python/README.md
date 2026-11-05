@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [MeesWijnants/pelosi-trade-finder](./meeswijnants-pelosi-trade-finder.md) | ⭐ — | Python | 46/100 |
+| 1 | [MeesWijnants/pelosi-trade-finder](./meeswijnants-pelosi-trade-finder.md) | ⭐ — | Python | 43/100 |
 | 2 | [marshlw/vistest](./marshlw-vistest.md) | ⭐ — | Python | 42/100 |
 | 3 | [enzococca/pyarchinit-photogrammetry](./enzococca-pyarchinit-photogrammetry.md) | ⭐ 5 | Python | 42/100 |
 | 4 | [AayushiShinde/DeadCode-](./aayushishinde-deadcode-.md) | ⭐ — | Python | 36/100 |

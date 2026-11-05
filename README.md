@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44332** |
-| **Categories** | **654** |
+| **Projects** | **44342** |
+| **Categories** | **657** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17858 | [Browse →](./misc/) |
+| 📦 **Misc** | 17861 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4681 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2920 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 190 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 155 | [Browse →](./ai/) |
-| 🏷️ **Vertical-video** | 153 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 154 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 48 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 46 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
@@ -94,6 +94,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Wordpress** | 5 | [Browse →](./wordpress/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
+| 🏷️ **Flutter** | 4 | [Browse →](./flutter/) |
 | 🏷️ **Nextjs** | 4 | [Browse →](./nextjs/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
 | 🏷️ **Ios** | 4 | [Browse →](./ios/) |
@@ -106,11 +107,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Appium** | 3 | [Browse →](./appium/) |
 | 🏷️ **C** | 3 | [Browse →](./c/) |
 | 🏷️ **Nodejs** | 3 | [Browse →](./nodejs/) |
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Whisper** | 3 | [Browse →](./whisper/) |
-| 🏷️ **Flutter** | 3 | [Browse →](./flutter/) |
 | 🏷️ **History** | 3 | [Browse →](./history/) |
 | 🏷️ **Go** | 3 | [Browse →](./go/) |
 | 🏷️ **Secret-scanning** | 3 | [Browse →](./secret-scanning/) |
@@ -229,6 +230,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Token-compression** | 1 | [Browse →](./token-compression/) |
+| 🏷️ **Semantic-layer** | 1 | [Browse →](./semantic-layer/) |
 | 🏷️ **Monitoring** | 1 | [Browse →](./monitoring/) |
 | 🏷️ **Token-efficiency** | 1 | [Browse →](./token-efficiency/) |
 | 🏷️ **Ssms** | 1 | [Browse →](./ssms/) |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [thewh1teagle/kokoro-onnx](./thewh1teagle-kokoro-onnx.md) | ⭐ 2.8k | Python | 61/100 |
+| 1 | [thewh1teagle/kokoro-onnx](./thewh1teagle-kokoro-onnx.md) | ⭐ 2.8k | Python | 58/100 |
 
 ---
 
