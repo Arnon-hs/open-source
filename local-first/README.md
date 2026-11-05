@@ -12,7 +12,7 @@
 | 2 | [abhas20/LedgerGone](./abhas20-ledgergone.md) | ⭐ — | Python | 37/100 |
 | 3 | [AdityaAneNenu/dinelingo](./adityaanenenu-dinelingo.md) | ⭐ — | Python | 37/100 |
 | 4 | [Vaibhav-1819/RepoS-ance](./vaibhav-1819-repos-ance.md) | ⭐ — | Python | 36/100 |
-| 5 | [Ani0811/slothdesk](./ani0811-slothdesk.md) | ⭐ — | Python | 36/100 |
+| 5 | [Ani0811/slothdesk](./ani0811-slothdesk.md) | ⭐ — | Python | 33/100 |
 | 6 | [GSuryaP/LazyDeskAI](./gsuryap-lazydeskai.md) | ⭐ — | Python | 33/100 |
 | 7 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 33/100 |
 | 8 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 31/100 |

@@ -1,6 +1,6 @@
 # munimtechnologies/px4-gps-lag
 
-[![Stars](https://img.shields.io/github/stars/munimtechnologies/px4-gps-lag?style=flat-square&color=yellow)](https://github.com/munimtechnologies/px4-gps-lag/stargazers) [![Forks](https://img.shields.io/github/forks/munimtechnologies/px4-gps-lag?style=flat-square&color=blue)](https://github.com/munimtechnologies/px4-gps-lag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/munimtechnologies/px4-gps-lag?style=flat-square&color=yellow)](https://github.com/munimtechnologies/px4-gps-lag/stargazers) [![Forks](https://img.shields.io/github/forks/munimtechnologies/px4-gps-lag?style=flat-square&color=blue)](https://github.com/munimtechnologies/px4-gps-lag/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Measure how far a PX4 vehicle's GPS lags its IMU from a flight log, and compare it with EKF2_GPS_DELAY. By MV2 of Munim, Inc. Apache-2.0.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ munimtechnologies/px4-gps-lag：munimtechnologies/px4-gps-lag may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 50/100 |
+| production | 51/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

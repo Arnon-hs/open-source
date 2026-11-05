@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44282** |
-| **Categories** | **651** |
+| **Projects** | **44287** |
+| **Categories** | **652** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -25,13 +25,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 17838 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4674 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2917 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2919 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1615 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1507 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 907 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 816 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 817 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 726 | [Browse →](./documents/) |
 | 📱 **Mobile** | 671 | [Browse →](./mobile/) |
 | 🏷️ **Networking** | 667 | [Browse →](./networking/) |
@@ -53,7 +53,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ✨ **Design** | 190 | [Browse →](./design/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 155 | [Browse →](./ai/) |
-| 🏷️ **Vertical-video** | 149 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 150 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 47 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 46 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
@@ -228,6 +228,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ssms** | 1 | [Browse →](./ssms/) |
 | 🏷️ **Pdf-extraction** | 1 | [Browse →](./pdf-extraction/) |
 | 🏷️ **Password-manager** | 1 | [Browse →](./password-manager/) |
 | 🏷️ **Data-pipeline** | 1 | [Browse →](./data-pipeline/) |
