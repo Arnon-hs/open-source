@@ -1,6 +1,6 @@
 # Snorlark/plop-ui
 
-[![Stars](https://img.shields.io/github/stars/Snorlark/plop-ui?style=flat-square&color=yellow)](https://github.com/Snorlark/plop-ui/stargazers) [![Forks](https://img.shields.io/github/forks/Snorlark/plop-ui?style=flat-square&color=blue)](https://github.com/Snorlark/plop-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Snorlark/plop-ui?style=flat-square&color=yellow)](https://github.com/Snorlark/plop-ui/stargazers) [![Forks](https://img.shields.io/github/forks/Snorlark/plop-ui?style=flat-square&color=blue)](https://github.com/Snorlark/plop-ui/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > PlopUI: hand-drawn React UI kit, imperfect on purpose. Wobbly stickers, washi tape and a hand-lettered font, accessible to WCAG AA.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Snorlark/plop-ui：Snorlark/plop-ui may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 65/100 |
+| production | 59/100 |
+| outlook | 58/100 |
 | adoption | 20/100 |
 | categoryMatchCount | 800/100 |
 | stars | 25/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

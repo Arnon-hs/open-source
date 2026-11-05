@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 14 | TypeScript | 52/100 |
+| 1 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 14 | TypeScript | 49/100 |
 
 ---
 
