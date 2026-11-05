@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [scrapinghub/scrapy-poet](./scrapinghub-scrapy-poet.md) | ⭐ 129 | Python | 59/100 |
+| 1 | [scrapinghub/scrapy-poet](./scrapinghub-scrapy-poet.md) | ⭐ 129 | Python | 56/100 |
 
 ---
 
