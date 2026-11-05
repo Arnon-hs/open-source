@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [oyerohabib/dropbox-web-saver](./oyerohabib-dropbox-web-saver.md) | ⭐ 1 | TypeScript | 60/100 |
+| 1 | [oyerohabib/dropbox-web-saver](./oyerohabib-dropbox-web-saver.md) | ⭐ 1 | TypeScript | 57/100 |
 
 ---
 

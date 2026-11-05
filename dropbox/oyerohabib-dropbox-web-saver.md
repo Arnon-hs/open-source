@@ -1,6 +1,6 @@
 # oyerohabib/dropbox-web-saver
 
-[![Stars](https://img.shields.io/github/stars/oyerohabib/dropbox-web-saver?style=flat-square&color=yellow)](https://github.com/oyerohabib/dropbox-web-saver/stargazers) [![Forks](https://img.shields.io/github/forks/oyerohabib/dropbox-web-saver?style=flat-square&color=blue)](https://github.com/oyerohabib/dropbox-web-saver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/oyerohabib/dropbox-web-saver?style=flat-square&color=yellow)](https://github.com/oyerohabib/dropbox-web-saver/stargazers) [![Forks](https://img.shields.io/github/forks/oyerohabib/dropbox-web-saver?style=flat-square&color=blue)](https://github.com/oyerohabib/dropbox-web-saver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Chrome extension to save images, videos, audio and files from any web page to your Dropbox. Right-click or scan a page, choose a folder, done. Connects through your own Dropbox app (OAuth PKCE), so your key and tokens never leave your browser. Built with WXT, React and TypeScript.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ oyerohabib/dropbox-web-saver：oyerohabib/dropbox-web-saver may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 68/100 |
+| production | 59/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
