@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [2hjaito/davish](./2hjaito-davish.md) | ⭐ 13 | Go | 55/100 |
+| 1 | [2hjaito/davish](./2hjaito-davish.md) | ⭐ 13 | Go | 52/100 |
 | 2 | [triasbrata/jeansh](./triasbrata-jeansh.md) | ⭐ — | — | 24/100 |
 
 ---
