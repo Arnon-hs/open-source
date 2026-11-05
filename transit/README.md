@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [AndriiZvorygin/living-region](./andriizvorygin-living-region.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [AndriiZvorygin/living-region](./andriizvorygin-living-region.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 
