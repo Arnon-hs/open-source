@@ -1,6 +1,6 @@
 # foisalislambd/dockfin
 
-[![Stars](https://img.shields.io/github/stars/foisalislambd/dockfin?style=flat-square&color=yellow)](https://github.com/foisalislambd/dockfin/stargazers) [![Forks](https://img.shields.io/github/forks/foisalislambd/dockfin?style=flat-square&color=blue)](https://github.com/foisalislambd/dockfin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foisalislambd/dockfin?style=flat-square&color=yellow)](https://github.com/foisalislambd/dockfin/stargazers) [![Forks](https://img.shields.io/github/forks/foisalislambd/dockfin?style=flat-square&color=blue)](https://github.com/foisalislambd/dockfin/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > An open-source, self-hostable PaaS alternative to Vercel, Heroku, Netlify and coolify deploy static sites, databases, full-stack applications, and 400+ one-click apps and services on your own servers with ease.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ foisalislambd/dockfin：foisalislambd/dockfin may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 71/100 |
-| outlook | 73/100 |
+| production | 64/100 |
+| outlook | 66/100 |
 | adoption | 23/100 |
 | categoryMatchCount | 700/100 |
 | stars | 23/100 |
 | forks | 24/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
