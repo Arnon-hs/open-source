@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44356** |
+| **Projects** | **44365** |
 | **Categories** | **658** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17866 | [Browse →](./misc/) |
+| 📦 **Misc** | 17873 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4683 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2920 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2431 | [Browse →](./orchestration/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 624 | [Browse →](./cloud--storage/) |
 | 🏷️ **Video-editing** | 585 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 571 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 531 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 532 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 485 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 465 | [Browse →](./communication/) |
 | 🔐 **Security** | 465 | [Browse →](./security/) |
@@ -141,6 +141,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Azure** | 2 | [Browse →](./azure/) |
 | 🏷️ **Ai-writing** | 2 | [Browse →](./ai-writing/) |
 | 🏷️ **Student-resources** | 2 | [Browse →](./student-resources/) |
 | 🏷️ **Testing** | 2 | [Browse →](./testing/) |
@@ -513,7 +514,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Container** | 1 | [Browse →](./container/) |
 | 🏷️ **Nonprofit** | 1 | [Browse →](./nonprofit/) |
 | 🏷️ **Catalog-continuity** | 1 | [Browse →](./catalog-continuity/) |
-| 🏷️ **Azure** | 1 | [Browse →](./azure/) |
 | 🏷️ **Google-antigravity** | 1 | [Browse →](./google-antigravity/) |
 | 🏷️ **Openweights** | 1 | [Browse →](./openweights/) |
 | 🏷️ **Fastmcp** | 1 | [Browse →](./fastmcp/) |
