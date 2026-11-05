@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [berkerbatur/speechready](./berkerbatur-speechready.md) | ⭐ 1 | Python | 56/100 |
+| 1 | [berkerbatur/speechready](./berkerbatur-speechready.md) | ⭐ 1 | Python | 53/100 |
 
 ---
 

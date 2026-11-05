@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [dltframework/dlt](./dltframework-dlt.md) | ⭐ — | — | 28/100 |
+| 1 | [jhlywa/chess.js](./jhlywa-chess.js.md) | ⭐ 4.4k | TypeScript | 60/100 |
+| 2 | [dltframework/dlt](./dltframework-dlt.md) | ⭐ — | — | 28/100 |
 
 ---
 

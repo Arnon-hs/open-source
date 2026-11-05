@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44401** |
-| **Categories** | **661** |
+| **Projects** | **44407** |
+| **Categories** | **662** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17891 | [Browse →](./misc/) |
+| 📦 **Misc** | 17893 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4684 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2920 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2431 | [Browse →](./orchestration/) |
@@ -41,7 +41,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Database** | 572 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 532 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 485 | [Browse →](./templates/) |
-| 🏷️ **Communication** | 466 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 467 | [Browse →](./communication/) |
 | 🔐 **Security** | 465 | [Browse →](./security/) |
 | 💳 **Payments** | 376 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 349 | [Browse →](./games--graphics/) |
@@ -142,6 +142,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Quenya** | 2 | [Browse →](./quenya/) |
+| 🏷️ **Chess** | 2 | [Browse →](./chess/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Azure** | 2 | [Browse →](./azure/) |
 | 🏷️ **Ai-writing** | 2 | [Browse →](./ai-writing/) |
@@ -419,7 +421,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Tiktok** | 1 | [Browse →](./tiktok/) |
 | 🏷️ **Ai-adoption** | 1 | [Browse →](./ai-adoption/) |
 | 🏷️ **Contract-review** | 1 | [Browse →](./contract-review/) |
-| 🏷️ **Chess** | 1 | [Browse →](./chess/) |
 | 🏷️ **Screenshot** | 1 | [Browse →](./screenshot/) |
 | 🏷️ **Instagram** | 1 | [Browse →](./instagram/) |
 | 🏷️ **Model-compression** | 1 | [Browse →](./model-compression/) |

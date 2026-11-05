@@ -1,6 +1,6 @@
 # berkerbatur/speechready
 
-[![Stars](https://img.shields.io/github/stars/berkerbatur/speechready?style=flat-square&color=yellow)](https://github.com/berkerbatur/speechready/stargazers) [![Forks](https://img.shields.io/github/forks/berkerbatur/speechready?style=flat-square&color=blue)](https://github.com/berkerbatur/speechready/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/berkerbatur/speechready?style=flat-square&color=yellow)](https://github.com/berkerbatur/speechready/stargazers) [![Forks](https://img.shields.io/github/forks/berkerbatur/speechready?style=flat-square&color=blue)](https://github.com/berkerbatur/speechready/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Prepare text for text-to-speech. Cleans LLM output, verbalizes ambiguous tokens, compiles pauses and emphasis to each provider's syntax, and chunks under model limits. Python and TypeScript. English and Turkish first.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ berkerbatur/speechready：berkerbatur/speechready may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 65/100 |
+| production | 59/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
