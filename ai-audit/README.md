@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [datafund/provenance](./datafund-provenance.md) | ⭐ 1 | — | 75/100 |
+| 1 | [datafund/provenance](./datafund-provenance.md) | ⭐ 1 | — | 72/100 |
 | 2 | [datafund/swarm_connect](./datafund-swarm-connect.md) | ⭐ 1 | Python | 54/100 |
 
 ---

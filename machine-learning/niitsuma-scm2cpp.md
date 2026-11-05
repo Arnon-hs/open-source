@@ -1,6 +1,6 @@
 # niitsuma/scm2cpp
 
-[![Stars](https://img.shields.io/github/stars/niitsuma/scm2cpp?style=flat-square&color=yellow)](https://github.com/niitsuma/scm2cpp/stargazers) [![Forks](https://img.shields.io/github/forks/niitsuma/scm2cpp?style=flat-square&color=blue)](https://github.com/niitsuma/scm2cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/niitsuma/scm2cpp?style=flat-square&color=yellow)](https://github.com/niitsuma/scm2cpp/stargazers) [![Forks](https://img.shields.io/github/forks/niitsuma/scm2cpp?style=flat-square&color=blue)](https://github.com/niitsuma/scm2cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Scheme to readable C++. scikit-learn's algorithms written plainly in Scheme come out fast: the translator derives Gram and loop-invariant products, hands them to BLAS/cuBLAS and turns loops into CUDA kernels. pip install scm2cpp-learn (wheels for Linux, macOS, Windows).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ niitsuma/scm2cpp：niitsuma/scm2cpp may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 62/100 |
+| production | 59/100 |
+| outlook | 55/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
