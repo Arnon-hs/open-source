@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [psuvraneel-cyber/Clone-Proof](./psuvraneel-cyber-clone-proof.md) | ⭐ 1 | JavaScript | 63/100 |
+| 1 | [psuvraneel-cyber/Clone-Proof](./psuvraneel-cyber-clone-proof.md) | ⭐ 1 | JavaScript | 60/100 |
 | 2 | [isaacs/rimraf](./isaacs-rimraf.md) | ⭐ 5.9k | TypeScript | 59/100 |
 | 3 | [Monis-dev/Mailman-Relay](./monis-dev-mailman-relay.md) | ⭐ — | JavaScript | 27/100 |
 

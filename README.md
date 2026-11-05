@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44342** |
-| **Categories** | **657** |
+| **Projects** | **44349** |
+| **Categories** | **658** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,10 +23,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17861 | [Browse →](./misc/) |
+| 📦 **Misc** | 17863 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4681 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2920 | [Browse →](./mcp/) |
-| 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
+| 🧩 **Orchestration** | 2431 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1615 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1509 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
@@ -34,7 +34,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⛓️ **Crypto** | 819 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 726 | [Browse →](./documents/) |
 | 📱 **Mobile** | 672 | [Browse →](./mobile/) |
-| 🏷️ **Networking** | 667 | [Browse →](./networking/) |
+| 🏷️ **Networking** | 668 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 630 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 624 | [Browse →](./cloud--storage/) |
 | 🏷️ **Video-editing** | 584 | [Browse →](./video-editing/) |
@@ -51,8 +51,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 272 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 190 | [Browse →](./design/) |
+| 🏷️ **Ai** | 156 | [Browse →](./ai/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
-| 🏷️ **Ai** | 155 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 154 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 48 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 46 | [Browse →](./open-source/) |
@@ -66,8 +66,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Android** | 16 | [Browse →](./android/) |
 | 🏷️ **Self-hosting** | 15 | [Browse →](./self-hosting/) |
+| 🏷️ **Claude-code** | 14 | [Browse →](./claude-code/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
-| 🏷️ **Claude-code** | 13 | [Browse →](./claude-code/) |
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Rust** | 11 | [Browse →](./rust/) |
@@ -230,6 +230,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Git-worktree** | 1 | [Browse →](./git-worktree/) |
 | 🏷️ **Token-compression** | 1 | [Browse →](./token-compression/) |
 | 🏷️ **Semantic-layer** | 1 | [Browse →](./semantic-layer/) |
 | 🏷️ **Monitoring** | 1 | [Browse →](./monitoring/) |
