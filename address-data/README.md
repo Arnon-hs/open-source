@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [zhairAhmad/pakistan-address](./zhairahmad-pakistan-address.md) | ⭐ — | PHP | 36/100 |
+| 1 | [zhairAhmad/pakistan-address](./zhairahmad-pakistan-address.md) | ⭐ — | PHP | 33/100 |
 
 ---
 
