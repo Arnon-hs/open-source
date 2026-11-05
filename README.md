@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44303** |
-| **Categories** | **652** |
+| **Projects** | **44305** |
+| **Categories** | **653** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17845 | [Browse →](./misc/) |
+| 📦 **Misc** | 17846 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4674 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2919 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2430 | [Browse →](./orchestration/) |
@@ -229,6 +229,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Token-efficiency** | 1 | [Browse →](./token-efficiency/) |
 | 🏷️ **Ssms** | 1 | [Browse →](./ssms/) |
 | 🏷️ **Pdf-extraction** | 1 | [Browse →](./pdf-extraction/) |
 | 🏷️ **Password-manager** | 1 | [Browse →](./password-manager/) |
