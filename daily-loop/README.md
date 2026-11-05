@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [zambodotdev/zambo-daily-loop](./zambodotdev-zambo-daily-loop.md) | ⭐ — | Python | 63/100 |
+| 1 | [zambodotdev/zambo-daily-loop](./zambodotdev-zambo-daily-loop.md) | ⭐ — | Python | 60/100 |
 
 ---
 
