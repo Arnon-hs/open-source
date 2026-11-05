@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44410** |
+| **Projects** | **44418** |
 | **Categories** | **662** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17895 | [Browse →](./misc/) |
+| 📦 **Misc** | 17898 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4684 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2920 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2431 | [Browse →](./orchestration/) |
@@ -54,8 +54,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 156 | [Browse →](./ai/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 154 | [Browse →](./vertical-video/) |
+| 🏷️ **Open-source** | 48 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 48 | [Browse →](./ai-agents/) |
-| 🏷️ **Open-source** | 46 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
@@ -64,8 +64,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Llm** | 25 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 20 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
+| 🏷️ **Self-hosting** | 16 | [Browse →](./self-hosting/) |
 | 🏷️ **Android** | 16 | [Browse →](./android/) |
-| 🏷️ **Self-hosting** | 15 | [Browse →](./self-hosting/) |
 | 🏷️ **Claude-code** | 14 | [Browse →](./claude-code/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Git** | 13 | [Browse →](./git/) |
@@ -78,6 +78,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cli** | 9 | [Browse →](./cli/) |
 | 🏷️ **Python** | 8 | [Browse →](./python/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
+| 🏷️ **Documentation** | 6 | [Browse →](./documentation/) |
 | 🏷️ **Ai-coding** | 6 | [Browse →](./ai-coding/) |
 | 🏷️ **Browser-automation** | 6 | [Browse →](./browser-automation/) |
 | 🏷️ **Multi-agent** | 6 | [Browse →](./multi-agent/) |
@@ -101,7 +102,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Serverless** | 4 | [Browse →](./serverless/) |
 | 🏷️ **Ecommerce** | 4 | [Browse →](./ecommerce/) |
-| 🏷️ **Documentation** | 4 | [Browse →](./documentation/) |
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
 | 🏷️ **Open-source-ai** | 4 | [Browse →](./open-source-ai/) |
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
