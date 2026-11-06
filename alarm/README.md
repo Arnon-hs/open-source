@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hetairoii/drowzy](./hetairoii-drowzy.md) | ⭐ — | Python | 36/100 |
+| 1 | [hetairoii/drowzy](./hetairoii-drowzy.md) | ⭐ — | Python | 33/100 |
 
 ---
 

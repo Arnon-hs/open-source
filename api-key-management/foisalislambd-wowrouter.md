@@ -1,6 +1,6 @@
 # foisalislambd/wowrouter
 
-[![Stars](https://img.shields.io/github/stars/foisalislambd/wowrouter?style=flat-square&color=yellow)](https://github.com/foisalislambd/wowrouter/stargazers) [![Forks](https://img.shields.io/github/forks/foisalislambd/wowrouter?style=flat-square&color=blue)](https://github.com/foisalislambd/wowrouter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foisalislambd/wowrouter?style=flat-square&color=yellow)](https://github.com/foisalislambd/wowrouter/stargazers) [![Forks](https://img.shields.io/github/forks/foisalislambd/wowrouter?style=flat-square&color=blue)](https://github.com/foisalislambd/wowrouter/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Local AI router. One OpenAI-compatible endpoint for every provider you already have, and one key for opencode, claude code, Cursor and any coding agent. Keys stay on your machine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ foisalislambd/wowrouter：foisalislambd/wowrouter may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 66/100 |
+| production | 58/100 |
+| outlook | 59/100 |
 | adoption | 15/100 |
 | categoryMatchCount | 400/100 |
 | stars | 15/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

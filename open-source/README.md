@@ -16,11 +16,11 @@
 | 6 | [mukuvi/doorman](./mukuvi-doorman.md) | ⭐ — | Python | 45/100 |
 | 7 | [DeadY2J/skills-es](./deady2j-skills-es.md) | ⭐ — | Python | 45/100 |
 | 8 | [thoughtpivot/flight](./thoughtpivot-flight.md) | ⭐ 1 | TypeScript | 44/100 |
-| 9 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 41/100 |
-| 10 | [Anandb71/names-in-the-machine](./anandb71-names-in-the-machine.md) | ⭐ — | Python | 39/100 |
-| 11 | [Phantom9869/Revenant](./phantom9869-revenant.md) | ⭐ — | Python | 39/100 |
-| 12 | [KomalDeep355/software-cemetery](./komaldeep355-software-cemetery.md) | ⭐ — | Python | 39/100 |
-| 13 | [oleg-vdv/shezhire](./oleg-vdv-shezhire.md) | ⭐ — | Python | 39/100 |
+| 9 | [Anandb71/names-in-the-machine](./anandb71-names-in-the-machine.md) | ⭐ — | Python | 39/100 |
+| 10 | [Phantom9869/Revenant](./phantom9869-revenant.md) | ⭐ — | Python | 39/100 |
+| 11 | [KomalDeep355/software-cemetery](./komaldeep355-software-cemetery.md) | ⭐ — | Python | 39/100 |
+| 12 | [oleg-vdv/shezhire](./oleg-vdv-shezhire.md) | ⭐ — | Python | 39/100 |
+| 13 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 38/100 |
 | 14 | [matias1812/vyneural.cl](./matias1812-vyneural.cl.md) | ⭐ — | JavaScript | 36/100 |
 | 15 | [dotexeYash/ECO-QUEST](./dotexeyash-eco-quest.md) | ⭐ — | TypeScript | 36/100 |
 | 16 | [vrRanjith/ghostcommit](./vrranjith-ghostcommit.md) | ⭐ — | Python | 36/100 |

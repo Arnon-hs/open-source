@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [foisalislambd/wowrouter](./foisalislambd-wowrouter.md) | ⭐ 4 | Go | 54/100 |
+| 1 | [foisalislambd/wowrouter](./foisalislambd-wowrouter.md) | ⭐ 4 | Go | 51/100 |
 
 ---
 
