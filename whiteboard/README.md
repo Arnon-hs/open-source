@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SpeedPainterOrg/explainer-video](./speedpainterorg-explainer-video.md) | ⭐ 56 | JavaScript | 62/100 |
+| 1 | [SpeedPainterOrg/explainer-video](./speedpainterorg-explainer-video.md) | ⭐ 56 | JavaScript | 59/100 |
 
 ---
 
