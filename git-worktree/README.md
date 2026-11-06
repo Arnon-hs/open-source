@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Advance-Labs/ninebrains](./advance-labs-ninebrains.md) | ⭐ 3 | TypeScript | 58/100 |
+| 1 | [Advance-Labs/ninebrains](./advance-labs-ninebrains.md) | ⭐ 3 | TypeScript | 55/100 |
 
 ---
 

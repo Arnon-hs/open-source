@@ -2,7 +2,7 @@
 
 > 
 
-**8 projects** in this category.
+**9 projects** in this category.
 
 ## Projects
 
@@ -14,8 +14,9 @@
 | 4 | [AayushiShinde/DeadCode-](./aayushishinde-deadcode-.md) | ⭐ — | Python | 36/100 |
 | 5 | [Hamdialaqal/mcp_developer_stack_v1.0.0](./hamdialaqal-mcp-developer-stack-v1.0.0.md) | ⭐ — | HTML | 35/100 |
 | 6 | [AmaLS367/CredWeave](./amals367-credweave.md) | ⭐ — | Python | 33/100 |
-| 7 | [ethereum/x402-py](./ethereum-x402-py.md) | ⭐ — | — | 24/100 |
-| 8 | [KhanZia/AI-Job-Search](./khanzia-ai-job-search.md) | ⭐ — | — | 24/100 |
+| 7 | [ayushman4youctrl/pyquant](./ayushman4youctrl-pyquant.md) | ⭐ — | — | 24/100 |
+| 8 | [ethereum/x402-py](./ethereum-x402-py.md) | ⭐ — | — | 24/100 |
+| 9 | [KhanZia/AI-Job-Search](./khanzia-ai-job-search.md) | ⭐ — | — | 24/100 |
 
 ---
 

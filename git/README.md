@@ -2,7 +2,7 @@
 
 > 
 
-**13 projects** in this category.
+**14 projects** in this category.
 
 ## Projects
 
@@ -18,9 +18,10 @@
 | 8 | [amrit-dash/MLH-touch-grass](./amrit-dash-mlh-touch-grass.md) | ⭐ — | Python | 33/100 |
 | 9 | [Saez520/worktree-manager](./saez520-worktree-manager.md) | ⭐ — | Shell | 30/100 |
 | 10 | [jamesjfoong/conventional-revert-hook](./jamesjfoong-conventional-revert-hook.md) | ⭐ — | Shell | 27/100 |
-| 11 | [hariom123-dev/Shadow-Branch](./hariom123-dev-shadow-branch.md) | ⭐ — | — | 24/100 |
-| 12 | [sea-deep/gitquest](./sea-deep-gitquest.md) | ⭐ — | — | 24/100 |
-| 13 | [kiro-ai/kiro](./kiro-ai-kiro.md) | ⭐ — | — | 24/100 |
+| 11 | [osfoundry/checkpoint_store.rs](./osfoundry-checkpoint-store.rs.md) | ⭐ — | — | 24/100 |
+| 12 | [hariom123-dev/Shadow-Branch](./hariom123-dev-shadow-branch.md) | ⭐ — | — | 24/100 |
+| 13 | [sea-deep/gitquest](./sea-deep-gitquest.md) | ⭐ — | — | 24/100 |
+| 14 | [kiro-ai/kiro](./kiro-ai-kiro.md) | ⭐ — | — | 24/100 |
 
 ---
 

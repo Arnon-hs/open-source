@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [TheRealJahaan/reviewraccoon](./therealjahaan-reviewraccoon.md) | ⭐ — | JavaScript | 36/100 |
+| 1 | [TheRealJahaan/reviewraccoon](./therealjahaan-reviewraccoon.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

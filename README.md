@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44433** |
-| **Categories** | **663** |
+| **Projects** | **44438** |
+| **Categories** | **664** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17907 | [Browse →](./misc/) |
+| 📦 **Misc** | 17908 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4684 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2920 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2431 | [Browse →](./orchestration/) |
@@ -39,7 +39,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Cloud--storage** | 624 | [Browse →](./cloud--storage/) |
 | 🏷️ **Video-editing** | 588 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 572 | [Browse →](./database/) |
-| 🚀 **DevOps & Infra** | 532 | [Browse →](./devopsinfra/) |
+| 🚀 **DevOps & Infra** | 533 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 485 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 468 | [Browse →](./communication/) |
 | 🔐 **Security** | 465 | [Browse →](./security/) |
@@ -66,17 +66,17 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Self-hosting** | 17 | [Browse →](./self-hosting/) |
 | 🏷️ **Android** | 16 | [Browse →](./android/) |
+| 🏷️ **Git** | 14 | [Browse →](./git/) |
 | 🏷️ **Claude-code** | 14 | [Browse →](./claude-code/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
-| 🏷️ **Git** | 13 | [Browse →](./git/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Rust** | 11 | [Browse →](./rust/) |
 | 🏷️ **Aws** | 10 | [Browse →](./aws/) |
 | 🏷️ **Self-hosted** | 10 | [Browse →](./self-hosted/) |
+| 🏷️ **Python** | 9 | [Browse →](./python/) |
 | 🏷️ **Github-actions** | 9 | [Browse →](./github-actions/) |
 | 🏷️ **Macos** | 9 | [Browse →](./macos/) |
 | 🏷️ **Cli** | 9 | [Browse →](./cli/) |
-| 🏷️ **Python** | 8 | [Browse →](./python/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Documentation** | 6 | [Browse →](./documentation/) |
 | 🏷️ **Ai-coding** | 6 | [Browse →](./ai-coding/) |
@@ -235,6 +235,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Legal-aid** | 1 | [Browse →](./legal-aid/) |
 | 🏷️ **Jetpack-compose** | 1 | [Browse →](./jetpack-compose/) |
 | 🏷️ **Openstreetmap** | 1 | [Browse →](./openstreetmap/) |
 | 🏷️ **Pandas** | 1 | [Browse →](./pandas/) |
