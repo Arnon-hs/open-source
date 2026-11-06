@@ -1,6 +1,6 @@
 # gogpu/naga
 
-[![Stars](https://img.shields.io/github/stars/gogpu/naga?style=flat-square&color=yellow)](https://github.com/gogpu/naga/stargazers) [![Forks](https://img.shields.io/github/forks/gogpu/naga?style=flat-square&color=blue)](https://github.com/gogpu/naga/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gogpu/naga?style=flat-square&color=yellow)](https://github.com/gogpu/naga/stargazers) [![Forks](https://img.shields.io/github/forks/gogpu/naga?style=flat-square&color=blue)](https://github.com/gogpu/naga/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Pure Go Shader Compiler — WGSL to SPIR-V, MSL, GLSL, HLSL, DXIL. Zero CGO.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 13 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ gogpu/naga：gogpu/naga may be useful when its README and activity match a concr
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 66/100 |
+| quality | 61/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 69/100 |
+| production | 62/100 |
+| outlook | 62/100 |
 | adoption | 35/100 |
 | categoryMatchCount | 600/100 |
 | stars | 37/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

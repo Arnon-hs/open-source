@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [archdocsio/archdocs-plugin](./archdocsio-archdocs-plugin.md) | ⭐ — | JavaScript | 49/100 |
+| 1 | [archdocsio/archdocs-plugin](./archdocsio-archdocs-plugin.md) | ⭐ — | JavaScript | 46/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [gogpu/naga](./gogpu-naga.md) | ⭐ 56 | Go | 55/100 |
+| 1 | [gogpu/naga](./gogpu-naga.md) | ⭐ 56 | Go | 52/100 |
 
 ---
 
