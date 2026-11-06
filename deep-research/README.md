@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [BenniAlencar/agent-deep-research](./bennialencar-agent-deep-research.md) | ⭐ 1 | Python | 55/100 |
+| 1 | [BenniAlencar/agent-deep-research](./bennialencar-agent-deep-research.md) | ⭐ 1 | Python | 52/100 |
 
 ---
 

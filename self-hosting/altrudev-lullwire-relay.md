@@ -1,6 +1,6 @@
 # altrudev/lullwire-relay
 
-[![Stars](https://img.shields.io/github/stars/altrudev/lullwire-relay?style=flat-square&color=yellow)](https://github.com/altrudev/lullwire-relay/stargazers) [![Forks](https://img.shields.io/github/forks/altrudev/lullwire-relay?style=flat-square&color=blue)](https://github.com/altrudev/lullwire-relay/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/altrudev/lullwire-relay?style=flat-square&color=yellow)](https://github.com/altrudev/lullwire-relay/stargazers) [![Forks](https://img.shields.io/github/forks/altrudev/lullwire-relay?style=flat-square&color=blue)](https://github.com/altrudev/lullwire-relay/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Experimental self-hosted end-to-end encrypted messenger: installable web app and minimal PHP relay, no accounts or build step.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ altrudev/lullwire-relay：altrudev/lullwire-relay may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 64/100 |
+| production | 54/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

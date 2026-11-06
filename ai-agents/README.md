@@ -17,9 +17,9 @@
 | 7 | [arajgor1/verified-action-protocol](./arajgor1-verified-action-protocol.md) | ⭐ — | TypeScript | 63/100 |
 | 8 | [Abubakr-Alsheikh/qtask](./abubakr-alsheikh-qtask.md) | ⭐ — | Python | 60/100 |
 | 9 | [HMAKT99/ScBee](./hmakt99-scbee.md) | ⭐ 1 | TypeScript | 57/100 |
-| 10 | [BenniAlencar/agent-code-sandbox](./bennialencar-agent-code-sandbox.md) | ⭐ 1 | Python | 55/100 |
-| 11 | [ganguydhrubo/sahakarmi](./ganguydhrubo-sahakarmi.md) | ⭐ 1 | TypeScript | 54/100 |
-| 12 | [holistis/agent-receipt-verify](./holistis-agent-receipt-verify.md) | ⭐ — | JavaScript | 53/100 |
+| 10 | [ganguydhrubo/sahakarmi](./ganguydhrubo-sahakarmi.md) | ⭐ 1 | TypeScript | 54/100 |
+| 11 | [holistis/agent-receipt-verify](./holistis-agent-receipt-verify.md) | ⭐ — | JavaScript | 53/100 |
+| 12 | [BenniAlencar/agent-code-sandbox](./bennialencar-agent-code-sandbox.md) | ⭐ 1 | Python | 52/100 |
 | 13 | [frozonfreak/DesignDecesionMethod](./frozonfreak-designdecesionmethod.md) | ⭐ — | Python | 51/100 |
 | 14 | [fainir/agent-harness](./fainir-agent-harness.md) | ⭐ — | Shell | 49/100 |
 | 15 | [operatecenter/operate-mcp](./operatecenter-operate-mcp.md) | ⭐ 3 | TypeScript | 46/100 |

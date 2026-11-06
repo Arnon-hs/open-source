@@ -12,7 +12,7 @@
 | 2 | [corvus-gateway/corvus](./corvus-gateway-corvus.md) | ⭐ 1 | TypeScript | 63/100 |
 | 3 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 37 | Go | 62/100 |
 | 4 | [ordercraft-hq/terminal](./ordercraft-hq-terminal.md) | ⭐ 1 | TypeScript | 53/100 |
-| 5 | [altrudev/lullwire-relay](./altrudev-lullwire-relay.md) | ⭐ — | JavaScript | 48/100 |
+| 5 | [altrudev/lullwire-relay](./altrudev-lullwire-relay.md) | ⭐ — | JavaScript | 45/100 |
 | 6 | [aladdin0414/hellodoc](./aladdin0414-hellodoc.md) | ⭐ 1 | Java | 37/100 |
 | 7 | [opendocyai/Open-Docy](./opendocyai-open-docy.md) | ⭐ — | JavaScript | 36/100 |
 | 8 | [contextforge/contextforge-mcp](./contextforge-contextforge-mcp.md) | ⭐ — | — | 32/100 |

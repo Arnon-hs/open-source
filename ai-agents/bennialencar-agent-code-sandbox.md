@@ -1,6 +1,6 @@
 # BenniAlencar/agent-code-sandbox
 
-[![Stars](https://img.shields.io/github/stars/BenniAlencar/agent-code-sandbox?style=flat-square&color=yellow)](https://github.com/BenniAlencar/agent-code-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/BenniAlencar/agent-code-sandbox?style=flat-square&color=blue)](https://github.com/BenniAlencar/agent-code-sandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BenniAlencar/agent-code-sandbox?style=flat-square&color=yellow)](https://github.com/BenniAlencar/agent-code-sandbox/stargazers) [![Forks](https://img.shields.io/github/forks/BenniAlencar/agent-code-sandbox?style=flat-square&color=blue)](https://github.com/BenniAlencar/agent-code-sandbox/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Micro-Second Zero-Dependency Code Sandbox & Execution Shield for AI Agents & MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ BenniAlencar/agent-code-sandbox：BenniAlencar/agent-code-sandbox may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 58/100 |
+| production | 54/100 |
+| outlook | 51/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
