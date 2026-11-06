@@ -1,6 +1,6 @@
 # BEKO2210/spyhound
 
-[![Stars](https://img.shields.io/github/stars/BEKO2210/spyhound?style=flat-square&color=yellow)](https://github.com/BEKO2210/spyhound/stargazers) [![Forks](https://img.shields.io/github/forks/BEKO2210/spyhound?style=flat-square&color=blue)](https://github.com/BEKO2210/spyhound/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BEKO2210/spyhound?style=flat-square&color=yellow)](https://github.com/BEKO2210/spyhound/stargazers) [![Forks](https://img.shields.io/github/forks/BEKO2210/spyhound?style=flat-square&color=blue)](https://github.com/BEKO2210/spyhound/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > Check your Android phone for traces of known spyware and stalkerware – offline, on the phone, no PC needed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ BEKO2210/spyhound：BEKO2210/spyhound may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

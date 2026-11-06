@@ -14,7 +14,7 @@
 | 4 | [TeamNewPipe/NewPipeExtractor](./teamnewpipe-newpipeextractor.md) | ⭐ 2k | Java | 57/100 |
 | 5 | [Dweep4269/sideraven](./dweep4269-sideraven.md) | ⭐ 151 | Kotlin | 49/100 |
 | 6 | [ThalzeronLabs/llama-kotlin](./thalzeronlabs-llama-kotlin.md) | ⭐ — | Kotlin | 48/100 |
-| 7 | [BEKO2210/spyhound](./beko2210-spyhound.md) | ⭐ — | Kotlin | 44/100 |
+| 7 | [BEKO2210/spyhound](./beko2210-spyhound.md) | ⭐ — | Kotlin | 41/100 |
 | 8 | [kotlinsyd/Plavio](./kotlinsyd-plavio.md) | ⭐ 11 | Kotlin | 40/100 |
 | 9 | [munimtechnologies/l10n-guard](./munimtechnologies-l10n-guard.md) | ⭐ 1 | Python | 40/100 |
 | 10 | [ThalzeronLabs/android-on-device-llm](./thalzeronlabs-android-on-device-llm.md) | ⭐ — | Kotlin | 39/100 |
