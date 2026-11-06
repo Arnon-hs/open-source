@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44531** |
-| **Categories** | **678** |
+| **Projects** | **44537** |
+| **Categories** | **679** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17945 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4685 | [Browse →](./aiml/) |
+| 📦 **Misc** | 17948 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4686 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2921 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2432 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1615 | [Browse →](./devtools/) |
@@ -110,6 +110,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **B2b** | 3 | [Browse →](./b2b/) |
 | 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
 | 🏷️ **Laravel** | 3 | [Browse →](./laravel/) |
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
@@ -178,7 +179,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Learning** | 2 | [Browse →](./learning/) |
 | 🏷️ **Px4** | 2 | [Browse →](./px4/) |
 | 🏷️ **Chrome-extension** | 2 | [Browse →](./chrome-extension/) |
-| 🏷️ **B2b** | 2 | [Browse →](./b2b/) |
 | 🏷️ **Ai-governance** | 2 | [Browse →](./ai-governance/) |
 | 🏷️ **Cloud-security** | 2 | [Browse →](./cloud-security/) |
 | 🏷️ **Browser-based-ai** | 2 | [Browse →](./browser-based-ai/) |
@@ -240,6 +240,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ai-assisted-code** | 1 | [Browse →](./ai-assisted-code/) |
 | 🏷️ **Clipboard** | 1 | [Browse →](./clipboard/) |
 | 🏷️ **Minio** | 1 | [Browse →](./minio/) |
 | 🏷️ **Multi-model** | 1 | [Browse →](./multi-model/) |
