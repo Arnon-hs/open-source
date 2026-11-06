@@ -1,6 +1,6 @@
 # Agata-Proxima/proxima-engine
 
-[![Stars](https://img.shields.io/github/stars/Agata-Proxima/proxima-engine?style=flat-square&color=yellow)](https://github.com/Agata-Proxima/proxima-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Agata-Proxima/proxima-engine?style=flat-square&color=blue)](https://github.com/Agata-Proxima/proxima-engine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Agata-Proxima/proxima-engine?style=flat-square&color=yellow)](https://github.com/Agata-Proxima/proxima-engine/stargazers) [![Forks](https://img.shields.io/github/forks/Agata-Proxima/proxima-engine?style=flat-square&color=blue)](https://github.com/Agata-Proxima/proxima-engine/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > OWNED BY AGATA-PROXIMA
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ Agata-Proxima/proxima-engine：Agata-Proxima/proxima-engine may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 31/100 |
+| quality | 26/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 43/100 |
+| production | 42/100 |
+| outlook | 36/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

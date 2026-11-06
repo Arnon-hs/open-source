@@ -8,9 +8,9 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 37 | Go | 65/100 |
-| 2 | [tradingview/lightweight-charts](./tradingview-lightweight-charts.md) | ⭐ 17.7k | TypeScript | 64/100 |
-| 3 | [corvus-gateway/corvus](./corvus-gateway-corvus.md) | ⭐ 1 | TypeScript | 63/100 |
+| 1 | [tradingview/lightweight-charts](./tradingview-lightweight-charts.md) | ⭐ 17.7k | TypeScript | 64/100 |
+| 2 | [corvus-gateway/corvus](./corvus-gateway-corvus.md) | ⭐ 1 | TypeScript | 63/100 |
+| 3 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 37 | Go | 62/100 |
 | 4 | [ordercraft-hq/terminal](./ordercraft-hq-terminal.md) | ⭐ 1 | TypeScript | 53/100 |
 | 5 | [altrudev/lullwire-relay](./altrudev-lullwire-relay.md) | ⭐ — | JavaScript | 48/100 |
 | 6 | [aladdin0414/hellodoc](./aladdin0414-hellodoc.md) | ⭐ 1 | Java | 37/100 |
