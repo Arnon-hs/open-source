@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44456** |
-| **Categories** | **667** |
+| **Projects** | **44462** |
+| **Categories** | **668** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17912 | [Browse →](./misc/) |
+| 📦 **Misc** | 17915 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4685 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2921 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2432 | [Browse →](./orchestration/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 668 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 630 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 624 | [Browse →](./cloud--storage/) |
-| 🏷️ **Video-editing** | 589 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 590 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 572 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 533 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 485 | [Browse →](./templates/) |
@@ -54,7 +54,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 159 | [Browse →](./ai/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 154 | [Browse →](./vertical-video/) |
-| 🏷️ **Open-source** | 48 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 49 | [Browse →](./open-source/) |
 | 🏷️ **Ai-agents** | 48 | [Browse →](./ai-agents/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
@@ -235,6 +235,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Agent-desktop** | 1 | [Browse →](./agent-desktop/) |
 | 🏷️ **Background-worker** | 1 | [Browse →](./background-worker/) |
 | 🏷️ **Api-key-management** | 1 | [Browse →](./api-key-management/) |
 | 🏷️ **Sales** | 1 | [Browse →](./sales/) |

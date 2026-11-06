@@ -1,6 +1,6 @@
 # fainir/agent-harness
 
-[![Stars](https://img.shields.io/github/stars/fainir/agent-harness?style=flat-square&color=yellow)](https://github.com/fainir/agent-harness/stargazers) [![Forks](https://img.shields.io/github/forks/fainir/agent-harness?style=flat-square&color=blue)](https://github.com/fainir/agent-harness/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fainir/agent-harness?style=flat-square&color=yellow)](https://github.com/fainir/agent-harness/stargazers) [![Forks](https://img.shields.io/github/forks/fainir/agent-harness?style=flat-square&color=blue)](https://github.com/fainir/agent-harness/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Skills, rules and hooks that turn Claude Code, Codex or any AGENTS.md agent into a product team, CEO or portfolio manager: size the job, finish it, verify it, ask the owner one action at a time, improve itself.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ fainir/agent-harness：fainir/agent-harness may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 67/100 |
+| production | 54/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -20,8 +20,8 @@
 | 10 | [BenniAlencar/agent-code-sandbox](./bennialencar-agent-code-sandbox.md) | ⭐ 1 | Python | 55/100 |
 | 11 | [ganguydhrubo/sahakarmi](./ganguydhrubo-sahakarmi.md) | ⭐ 1 | TypeScript | 54/100 |
 | 12 | [holistis/agent-receipt-verify](./holistis-agent-receipt-verify.md) | ⭐ — | JavaScript | 53/100 |
-| 13 | [fainir/agent-harness](./fainir-agent-harness.md) | ⭐ — | Shell | 52/100 |
-| 14 | [frozonfreak/DesignDecesionMethod](./frozonfreak-designdecesionmethod.md) | ⭐ — | Python | 51/100 |
+| 13 | [frozonfreak/DesignDecesionMethod](./frozonfreak-designdecesionmethod.md) | ⭐ — | Python | 51/100 |
+| 14 | [fainir/agent-harness](./fainir-agent-harness.md) | ⭐ — | Shell | 49/100 |
 | 15 | [holistis/muraqib-agent-watch](./holistis-muraqib-agent-watch.md) | ⭐ — | JavaScript | 47/100 |
 | 16 | [operatecenter/operate-mcp](./operatecenter-operate-mcp.md) | ⭐ 3 | TypeScript | 46/100 |
 | 17 | [operatecenter/operator-starter](./operatecenter-operator-starter.md) | ⭐ 4 | TypeScript | 45/100 |
