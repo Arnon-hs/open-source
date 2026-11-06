@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [saeedmasoudie/PIDM](./saeedmasoudie-pidm.md) | ⭐ 22 | QML | 65/100 |
+| 1 | [saeedmasoudie/PIDM](./saeedmasoudie-pidm.md) | ⭐ 22 | QML | 62/100 |
 
 ---
 

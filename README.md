@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44477** |
-| **Categories** | **670** |
+| **Projects** | **44483** |
+| **Categories** | **673** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -145,6 +145,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Browser-extension** | 2 | [Browse →](./browser-extension/) |
+| 🏷️ **Github** | 2 | [Browse →](./github/) |
+| 🏷️ **Firmware** | 2 | [Browse →](./firmware/) |
 | 🏷️ **Quenya** | 2 | [Browse →](./quenya/) |
 | 🏷️ **Chess** | 2 | [Browse →](./chess/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
@@ -235,6 +238,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Image-recovery** | 1 | [Browse →](./image-recovery/) |
+| 🏷️ **2d-animation** | 1 | [Browse →](./2d-animation/) |
 | 🏷️ **Cms** | 1 | [Browse →](./cms/) |
 | 🏷️ **Gpt** | 1 | [Browse →](./gpt/) |
 | 🏷️ **Agent-desktop** | 1 | [Browse →](./agent-desktop/) |
@@ -344,7 +349,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Siem** | 1 | [Browse →](./siem/) |
 | 🏷️ **Redis** | 1 | [Browse →](./redis/) |
 | 🏷️ **Gs1** | 1 | [Browse →](./gs1/) |
-| 🏷️ **Browser-extension** | 1 | [Browse →](./browser-extension/) |
 | 🏷️ **Openweight** | 1 | [Browse →](./openweight/) |
 | 🏷️ **Permissions** | 1 | [Browse →](./permissions/) |
 | 🏷️ **Capability-based-security** | 1 | [Browse →](./capability-based-security/) |
@@ -396,7 +400,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Notes** | 1 | [Browse →](./notes/) |
 | 🏷️ **Temporal** | 1 | [Browse →](./temporal/) |
 | 🏷️ **Dependency-audit** | 1 | [Browse →](./dependency-audit/) |
-| 🏷️ **Github** | 1 | [Browse →](./github/) |
 | 🏷️ **Clinical-ai** | 1 | [Browse →](./clinical-ai/) |
 | 🏷️ **Oracle** | 1 | [Browse →](./oracle/) |
 | 🏷️ **Java** | 1 | [Browse →](./java/) |

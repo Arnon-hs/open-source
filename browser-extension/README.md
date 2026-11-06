@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [paladini/x-likes-automator](./paladini-x-likes-automator.md) | ⭐ — | — | 24/100 |
+| 1 | [zxcfrancyz/steam-currency-converter](./zxcfrancyz-steam-currency-converter.md) | ⭐ — | JavaScript | 44/100 |
+| 2 | [paladini/x-likes-automator](./paladini-x-likes-automator.md) | ⭐ — | — | 24/100 |
 
 ---
 
