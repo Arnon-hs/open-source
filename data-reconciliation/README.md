@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Nutts5796/logiparity](./nutts5796-logiparity.md) | ⭐ 1 | TypeScript | 51/100 |
+| 1 | [Nutts5796/logiparity](./nutts5796-logiparity.md) | ⭐ 1 | TypeScript | 47/100 |
 
 ---
 

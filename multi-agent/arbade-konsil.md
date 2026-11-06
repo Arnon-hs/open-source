@@ -1,6 +1,6 @@
 # arbade/konsil
 
-[![Stars](https://img.shields.io/github/stars/arbade/konsil?style=flat-square&color=yellow)](https://github.com/arbade/konsil/stargazers) [![Forks](https://img.shields.io/github/forks/arbade/konsil?style=flat-square&color=blue)](https://github.com/arbade/konsil/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/arbade/konsil?style=flat-square&color=yellow)](https://github.com/arbade/konsil/stargazers) [![Forks](https://img.shields.io/github/forks/arbade/konsil?style=flat-square&color=blue)](https://github.com/arbade/konsil/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Adversarial AI medical case-review board for Claude Code — blind specialist rounds, verified citations, dissent-preserving minutes, deterministic DICOM-to-3D. Not a medical device.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ arbade/konsil：arbade/konsil may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 600/100 |
 | stars | 10/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

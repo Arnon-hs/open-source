@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [arbade/konsil](./arbade-konsil.md) | ⭐ 2 | HTML | 61/100 |
+| 1 | [arbade/konsil](./arbade-konsil.md) | ⭐ 2 | HTML | 58/100 |
 | 2 | [rordenlab/dcm2niix](./rordenlab-dcm2niix.md) | ⭐ 1.2k | C++ | 55/100 |
 | 3 | [capybarist/reagentlab](./capybarist-reagentlab.md) | ⭐ — | TypeScript | 38/100 |
 | 4 | [EngJoDev/neurohive](./engjodev-neurohive.md) | ⭐ 1 | Python | 34/100 |

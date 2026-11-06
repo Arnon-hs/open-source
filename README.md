@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44537** |
-| **Categories** | **679** |
+| **Projects** | **44541** |
+| **Categories** | **680** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17948 | [Browse →](./misc/) |
+| 📦 **Misc** | 17949 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4686 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2921 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2432 | [Browse →](./orchestration/) |
@@ -70,8 +70,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 14 | [Browse →](./git/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
+| 🏷️ **Python** | 11 | [Browse →](./python/) |
 | 🏷️ **Rust** | 11 | [Browse →](./rust/) |
-| 🏷️ **Python** | 10 | [Browse →](./python/) |
 | 🏷️ **Aws** | 10 | [Browse →](./aws/) |
 | 🏷️ **Self-hosted** | 10 | [Browse →](./self-hosted/) |
 | 🏷️ **Github-actions** | 9 | [Browse →](./github-actions/) |
@@ -110,6 +110,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **B2b** | 3 | [Browse →](./b2b/) |
 | 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
 | 🏷️ **Laravel** | 3 | [Browse →](./laravel/) |
@@ -152,7 +153,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
 | 🏷️ **Sdk-generation** | 2 | [Browse →](./sdk-generation/) |
 | 🏷️ **Browser-extension** | 2 | [Browse →](./browser-extension/) |
-| 🏷️ **Github** | 2 | [Browse →](./github/) |
 | 🏷️ **Firmware** | 2 | [Browse →](./firmware/) |
 | 🏷️ **Quenya** | 2 | [Browse →](./quenya/) |
 | 🏷️ **Chess** | 2 | [Browse →](./chess/) |
@@ -240,6 +240,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Pdf** | 1 | [Browse →](./pdf/) |
 | 🏷️ **Ai-assisted-code** | 1 | [Browse →](./ai-assisted-code/) |
 | 🏷️ **Clipboard** | 1 | [Browse →](./clipboard/) |
 | 🏷️ **Minio** | 1 | [Browse →](./minio/) |
