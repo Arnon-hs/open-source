@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [b2bsearch/workflows](./b2bsearch-workflows.md) | ⭐ — | Python | 51/100 |
+| 1 | [Tthanh2k6/apify-us-healthcare-clinic-contact-enricher](./tthanh2k6-apify-us-healthcare-clinic-contact-enricher.md) | ⭐ — | Python | 61/100 |
 
 ---
 
