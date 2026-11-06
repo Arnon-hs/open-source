@@ -1,6 +1,6 @@
 # pyannote/pyannote-audio
 
-[![Stars](https://img.shields.io/github/stars/pyannote/pyannote-audio?style=flat-square&color=yellow)](https://github.com/pyannote/pyannote-audio/stargazers) [![Forks](https://img.shields.io/github/forks/pyannote/pyannote-audio?style=flat-square&color=blue)](https://github.com/pyannote/pyannote-audio/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyannote/pyannote-audio?style=flat-square&color=yellow)](https://github.com/pyannote/pyannote-audio/stargazers) [![Forks](https://img.shields.io/github/forks/pyannote/pyannote-audio?style=flat-square&color=blue)](https://github.com/pyannote/pyannote-audio/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ pyannote/pyannote-audio：pyannote/pyannote-audio may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 88/100 |
+| quality | 83/100 |
 | integration | 30/100 |
-| production | 74/100 |
-| outlook | 81/100 |
+| production | 67/100 |
+| outlook | 74/100 |
 | adoption | 83/100 |
 | categoryMatchCount | 700/100 |
 | stars | 86/100 |
 | forks | 76/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

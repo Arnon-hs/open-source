@@ -22,9 +22,9 @@
 | 12 | [holistis/agent-receipt-verify](./holistis-agent-receipt-verify.md) | ⭐ — | JavaScript | 53/100 |
 | 13 | [frozonfreak/DesignDecesionMethod](./frozonfreak-designdecesionmethod.md) | ⭐ — | Python | 51/100 |
 | 14 | [fainir/agent-harness](./fainir-agent-harness.md) | ⭐ — | Shell | 49/100 |
-| 15 | [holistis/muraqib-agent-watch](./holistis-muraqib-agent-watch.md) | ⭐ — | JavaScript | 47/100 |
-| 16 | [operatecenter/operate-mcp](./operatecenter-operate-mcp.md) | ⭐ 3 | TypeScript | 46/100 |
-| 17 | [operatecenter/operator-starter](./operatecenter-operator-starter.md) | ⭐ 4 | TypeScript | 45/100 |
+| 15 | [operatecenter/operate-mcp](./operatecenter-operate-mcp.md) | ⭐ 3 | TypeScript | 46/100 |
+| 16 | [operatecenter/operator-starter](./operatecenter-operator-starter.md) | ⭐ 4 | TypeScript | 45/100 |
+| 17 | [holistis/muraqib-agent-watch](./holistis-muraqib-agent-watch.md) | ⭐ — | JavaScript | 44/100 |
 | 18 | [operatecenter/operate-hermes-plugin](./operatecenter-operate-hermes-plugin.md) | ⭐ 3 | Python | 42/100 |
 | 19 | [sunfishloop/sunfishloop-mcp](./sunfishloop-sunfishloop-mcp.md) | ⭐ — | TypeScript | 41/100 |
 | 20 | [JakeBurwick/vow](./jakeburwick-vow.md) | ⭐ 2 | JavaScript | 39/100 |

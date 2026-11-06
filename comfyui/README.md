@@ -2,7 +2,7 @@
 
 > 
 
-**3 projects** in this category.
+**4 projects** in this category.
 
 ## Projects
 
@@ -10,7 +10,8 @@
 |---|---|---|---|---|
 | 1 | [Kosinkadink/ComfyUI-VideoHelperSuite](./kosinkadink-comfyui-videohelpersuite.md) | ⭐ 1.9k | Python | 59/100 |
 | 2 | [Luisacaotica/ComfyUI-MiniMaxH3Mod](./luisacaotica-comfyui-minimaxh3mod.md) | ⭐ 599 | Python | 55/100 |
-| 3 | [comfyanonymous/ComfyUI-for-Nuke](./comfyanonymous-comfyui-for-nuke.md) | ⭐ — | — | 24/100 |
+| 3 | [AI-KSK/KSK-Nodes](./ai-ksk-ksk-nodes.md) | ⭐ 9 | Python | 45/100 |
+| 4 | [comfyanonymous/ComfyUI-for-Nuke](./comfyanonymous-comfyui-for-nuke.md) | ⭐ — | — | 24/100 |
 
 ---
 
