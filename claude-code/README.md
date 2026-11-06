@@ -15,7 +15,7 @@
 | 5 | [openai/codex-plugin-cc](./openai-codex-plugin-cc.md) | ⭐ 34.8k | JavaScript | 60/100 |
 | 6 | [pasindu-premachandra/crewrota](./pasindu-premachandra-crewrota.md) | ⭐ — | TypeScript | 49/100 |
 | 7 | [spar-x-fr/spar-x-skills](./spar-x-fr-spar-x-skills.md) | ⭐ — | Python | 48/100 |
-| 8 | [SocialBuzzStudio/live-compact](./socialbuzzstudio-live-compact.md) | ⭐ 2 | TypeScript | 44/100 |
+| 8 | [SocialBuzzStudio/live-compact](./socialbuzzstudio-live-compact.md) | ⭐ 2 | TypeScript | 41/100 |
 | 9 | [anthropic/agent-sdk](./anthropic-agent-sdk.md) | ⭐ — | — | 36/100 |
 | 10 | [aashish-g03/crewmate](./aashish-g03-crewmate.md) | ⭐ — | JavaScript | 33/100 |
 | 11 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 30/100 |

@@ -15,7 +15,7 @@
 | 5 | [AlizayAyesha/StackSpirit](./alizayayesha-stackspirit.md) | ⭐ 1 | TypeScript | 56/100 |
 | 6 | [anthropics/anthropic-sdk-python](./anthropics-anthropic-sdk-python.md) | ⭐ 3.9k | Python | 55/100 |
 | 7 | [chenxiachan/xhs-claude-skills](./chenxiachan-xhs-claude-skills.md) | ⭐ 432 | — | 50/100 |
-| 8 | [ShubhamHagawane/Terminal-D-j-Vu](./shubhamhagawane-terminal-d-j-vu.md) | ⭐ — | JavaScript | 33/100 |
+| 8 | [ShubhamHagawane/Terminal-D-j-Vu](./shubhamhagawane-terminal-d-j-vu.md) | ⭐ — | JavaScript | 30/100 |
 | 9 | [mariusDing/sports-](./mariusding-sports-.md) | ⭐ — | — | 24/100 |
 
 ---
