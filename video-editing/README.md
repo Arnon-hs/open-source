@@ -528,8 +528,8 @@
 | 518 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 588 | JavaScript | 49/100 |
 | 519 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ — | Dart | 48/100 |
 | 520 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 1 | Python | 48/100 |
-| 521 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
-| 522 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
+| 521 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
+| 522 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
 | 523 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 524 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ — | — | 48/100 |
 | 525 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ — | — | 48/100 |
