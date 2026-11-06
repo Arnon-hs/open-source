@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ateymoori/pomelu](./ateymoori-pomelu.md) | ⭐ 5 | Dart | 63/100 |
+| 1 | [ateymoori/pomelu](./ateymoori-pomelu.md) | ⭐ 5 | Dart | 60/100 |
 | 2 | [LucasMenezeslc/flutter-dead-code-audit](./lucasmenezeslc-flutter-dead-code-audit.md) | ⭐ 1 | Python | 47/100 |
 | 3 | [UmeshRaj7/plumb](./umeshraj7-plumb.md) | ⭐ — | Dart | 46/100 |
 | 4 | [parth-lightning/HacktoberFest-Week-2](./parth-lightning-hacktoberfest-week-2.md) | ⭐ — | Dart | 30/100 |
