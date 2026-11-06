@@ -1,6 +1,6 @@
 # topojson/topojson
 
-[![Stars](https://img.shields.io/github/stars/topojson/topojson?style=flat-square&color=yellow)](https://github.com/topojson/topojson/stargazers) [![Forks](https://img.shields.io/github/forks/topojson/topojson?style=flat-square&color=blue)](https://github.com/topojson/topojson/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/topojson/topojson?style=flat-square&color=yellow)](https://github.com/topojson/topojson/stargazers) [![Forks](https://img.shields.io/github/forks/topojson/topojson?style=flat-square&color=blue)](https://github.com/topojson/topojson/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > An extension of GeoJSON that encodes topology! 🌐
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 681 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ topojson/topojson：topojson/topojson may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 69/100 |
+| production | 61/100 |
+| outlook | 62/100 |
 | adoption | 76/100 |
 | categoryMatchCount | 400/100 |
 | stars | 79/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
