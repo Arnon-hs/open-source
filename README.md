@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44492** |
+| **Projects** | **44494** |
 | **Categories** | **674** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17926 | [Browse →](./misc/) |
+| 📦 **Misc** | 17927 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4685 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2921 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2432 | [Browse →](./orchestration/) |
@@ -108,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Apify** | 3 | [Browse →](./apify/) |
 | 🏷️ **Token-accounting** | 3 | [Browse →](./token-accounting/) |
 | 🏷️ **Azure** | 3 | [Browse →](./azure/) |
 | 🏷️ **X402** | 3 | [Browse →](./x402/) |
@@ -236,7 +237,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Embedded** | 2 | [Browse →](./embedded/) |
 | 🏷️ **Agent-orchestration** | 2 | [Browse →](./agent-orchestration/) |
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
-| 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
 | 🏷️ **Image-recovery** | 1 | [Browse →](./image-recovery/) |
