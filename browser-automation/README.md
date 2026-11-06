@@ -8,9 +8,9 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [NadirAliOfficial/ghosttab](./nadiraliofficial-ghosttab.md) | ⭐ — | Python | 66/100 |
-| 2 | [aliilyas/bruster](./aliilyas-bruster.md) | ⭐ 1 | Python | 64/100 |
-| 3 | [nicedreamzapp/browser-agent](./nicedreamzapp-browser-agent.md) | ⭐ 29 | Python | 64/100 |
+| 1 | [aliilyas/bruster](./aliilyas-bruster.md) | ⭐ 1 | Python | 64/100 |
+| 2 | [nicedreamzapp/browser-agent](./nicedreamzapp-browser-agent.md) | ⭐ 29 | Python | 64/100 |
+| 3 | [NadirAliOfficial/ghosttab](./nadiraliofficial-ghosttab.md) | ⭐ — | Python | 63/100 |
 | 4 | [BenniAlencar/agent-browser-mesh](./bennialencar-agent-browser-mesh.md) | ⭐ 1 | Python | 55/100 |
 | 5 | [shagarithvik/WebSessionForge](./shagarithvik-websessionforge.md) | ⭐ — | C# | 28/100 |
 | 6 | [your-repo/browser-use](./your-repo-browser-use.md) | ⭐ — | — | 24/100 |

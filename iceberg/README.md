@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tech-pw/cryo](./tech-pw-cryo.md) | ⭐ 7 | Python | 55/100 |
+| 1 | [tech-pw/cryo](./tech-pw-cryo.md) | ⭐ 7 | Python | 52/100 |
 
 ---
 
