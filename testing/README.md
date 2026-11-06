@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jeffev/hollowtest](./jeffev-hollowtest.md) | ⭐ — | JavaScript | 55/100 |
+| 1 | [jeffev/hollowtest](./jeffev-hollowtest.md) | ⭐ — | JavaScript | 52/100 |
 | 2 | [agentic-suite/agentwatch](./agentic-suite-agentwatch.md) | ⭐ — | — | 28/100 |
 
 ---

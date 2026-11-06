@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44501** |
-| **Categories** | **674** |
+| **Projects** | **44508** |
+| **Categories** | **676** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17932 | [Browse →](./misc/) |
+| 📦 **Misc** | 17935 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4685 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2921 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2432 | [Browse →](./orchestration/) |
@@ -62,7 +62,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 26 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 25 | [Browse →](./llm/) |
-| 🏷️ **Local-llm** | 20 | [Browse →](./local-llm/) |
+| 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Self-hosting** | 18 | [Browse →](./self-hosting/) |
 | 🏷️ **Android** | 16 | [Browse →](./android/) |
@@ -108,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Laravel** | 3 | [Browse →](./laravel/) |
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
 | 🏷️ **Token-accounting** | 3 | [Browse →](./token-accounting/) |
 | 🏷️ **Azure** | 3 | [Browse →](./azure/) |
@@ -163,7 +164,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Prompt-caching** | 2 | [Browse →](./prompt-caching/) |
 | 🏷️ **Video** | 2 | [Browse →](./video/) |
 | 🏷️ **Lean4** | 2 | [Browse →](./lean4/) |
-| 🏷️ **Laravel** | 2 | [Browse →](./laravel/) |
 | 🏷️ **Django** | 2 | [Browse →](./django/) |
 | 🏷️ **Ai-testing** | 2 | [Browse →](./ai-testing/) |
 | 🏷️ **System-design** | 2 | [Browse →](./system-design/) |
@@ -239,6 +239,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Minio** | 1 | [Browse →](./minio/) |
+| 🏷️ **Multi-model** | 1 | [Browse →](./multi-model/) |
 | 🏷️ **Image-recovery** | 1 | [Browse →](./image-recovery/) |
 | 🏷️ **2d-animation** | 1 | [Browse →](./2d-animation/) |
 | 🏷️ **Cms** | 1 | [Browse →](./cms/) |

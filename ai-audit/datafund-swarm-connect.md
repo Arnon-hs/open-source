@@ -1,6 +1,6 @@
 # datafund/swarm_connect
 
-[![Stars](https://img.shields.io/github/stars/datafund/swarm_connect?style=flat-square&color=yellow)](https://github.com/datafund/swarm_connect/stargazers) [![Forks](https://img.shields.io/github/forks/datafund/swarm_connect?style=flat-square&color=blue)](https://github.com/datafund/swarm_connect/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/datafund/swarm_connect?style=flat-square&color=yellow)](https://github.com/datafund/swarm_connect/stargazers) [![Forks](https://img.shields.io/github/forks/datafund/swarm_connect?style=flat-square&color=blue)](https://github.com/datafund/swarm_connect/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Provenance Gateway — FastAPI service for Swarm network access with x402 payments, notary signing, and stamp pool management
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI audit · transcript integrity · hash verification · immutable storage · no
 
 ### English
 
-datafund/swarm_connect: datafund/swarm_connect may be useful when its README and activity match a concrete workflow.. Use it for AI audit, transcript integrity, hash verification, immutable storage, notary, blockchain anchor. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+datafund/swarm_connect: datafund/swarm_connect may be useful when its README and activity match a concrete workflow.. Use it for AI audit, transcript integrity, hash verification, immutable storage, notary, blockchain anchor. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-datafund/swarm_connect: open-source проект в категориях AI audit, transcript integrity, hash verification, immutable storage, notary, blockchain anchor. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+datafund/swarm_connect: open-source проект в категориях AI audit, transcript integrity, hash verification, immutable storage, notary, blockchain anchor. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-datafund/swarm_connect：datafund/swarm_connect may be useful when its README and activity match a concrete workflow.。适合用于AI audit、transcript integrity、hash verification、immutable storage、notary、blockchain anchor。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+datafund/swarm_connect：datafund/swarm_connect may be useful when its README and activity match a concrete workflow.。适合用于AI audit、transcript integrity、hash verification、immutable storage、notary、blockchain anchor。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ datafund/swarm_connect：datafund/swarm_connect may be useful when its README an
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,15 +63,15 @@ datafund/swarm_connect：datafund/swarm_connect may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 62/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 46/100 |
+| outlook | 47/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
