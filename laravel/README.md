@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [orangehill/driftgate](./orangehill-driftgate.md) | ⭐ — | Go | 62/100 |
+| 1 | [orangehill/driftgate](./orangehill-driftgate.md) | ⭐ — | Go | 58/100 |
 | 2 | [ssekyanzijackson/laravel-agent-web-search](./ssekyanzijackson-laravel-agent-web-search.md) | ⭐ 1 | PHP | 35/100 |
 
 ---

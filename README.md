@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44447** |
-| **Categories** | **665** |
+| **Projects** | **44455** |
+| **Categories** | **667** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -25,7 +25,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 17912 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4685 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2920 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2921 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2431 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1615 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1509 | [Browse →](./automation/) |
@@ -51,7 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 272 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 191 | [Browse →](./design/) |
-| 🏷️ **Ai** | 158 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 159 | [Browse →](./ai/) |
 | 🏷️ **Content-creation** | 155 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 154 | [Browse →](./vertical-video/) |
 | 🏷️ **Open-source** | 48 | [Browse →](./open-source/) |
@@ -78,8 +78,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Macos** | 9 | [Browse →](./macos/) |
 | 🏷️ **Cli** | 9 | [Browse →](./cli/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
+| 🏷️ **Ai-coding** | 7 | [Browse →](./ai-coding/) |
 | 🏷️ **Documentation** | 6 | [Browse →](./documentation/) |
-| 🏷️ **Ai-coding** | 6 | [Browse →](./ai-coding/) |
 | 🏷️ **Browser-automation** | 6 | [Browse →](./browser-automation/) |
 | 🏷️ **Multi-agent** | 6 | [Browse →](./multi-agent/) |
 | 🏷️ **Docker** | 6 | [Browse →](./docker/) |
@@ -96,6 +96,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Wordpress** | 5 | [Browse →](./wordpress/) |
 | 🏷️ **Ci** | 5 | [Browse →](./ci/) |
+| 🏷️ **Shell** | 4 | [Browse →](./shell/) |
 | 🏷️ **Flutter** | 4 | [Browse →](./flutter/) |
 | 🏷️ **Nextjs** | 4 | [Browse →](./nextjs/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
@@ -107,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **X402** | 3 | [Browse →](./x402/) |
 | 🏷️ **Chatbot** | 3 | [Browse →](./chatbot/) |
 | 🏷️ **Appium** | 3 | [Browse →](./appium/) |
 | 🏷️ **C** | 3 | [Browse →](./c/) |
@@ -172,7 +174,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **B2b** | 2 | [Browse →](./b2b/) |
 | 🏷️ **Ai-governance** | 2 | [Browse →](./ai-governance/) |
 | 🏷️ **Cloud-security** | 2 | [Browse →](./cloud-security/) |
-| 🏷️ **Shell** | 2 | [Browse →](./shell/) |
 | 🏷️ **Browser-based-ai** | 2 | [Browse →](./browser-based-ai/) |
 | 🏷️ **Sandbox** | 2 | [Browse →](./sandbox/) |
 | 🏷️ **Code-search** | 2 | [Browse →](./code-search/) |
@@ -201,7 +202,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github-copilot** | 2 | [Browse →](./github-copilot/) |
 | 🏷️ **Cybersecurity** | 2 | [Browse →](./cybersecurity/) |
 | 🏷️ **Secondhand** | 2 | [Browse →](./secondhand/) |
-| 🏷️ **X402** | 2 | [Browse →](./x402/) |
 | 🏷️ **Allergen-labeling** | 2 | [Browse →](./allergen-labeling/) |
 | 🏷️ **Rails** | 2 | [Browse →](./rails/) |
 | 🏷️ **Llamaindex** | 2 | [Browse →](./llamaindex/) |
@@ -235,6 +235,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Background-worker** | 1 | [Browse →](./background-worker/) |
+| 🏷️ **Api-key-management** | 1 | [Browse →](./api-key-management/) |
 | 🏷️ **Sales** | 1 | [Browse →](./sales/) |
 | 🏷️ **Legal-aid** | 1 | [Browse →](./legal-aid/) |
 | 🏷️ **Jetpack-compose** | 1 | [Browse →](./jetpack-compose/) |

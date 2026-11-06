@@ -1,6 +1,6 @@
 # gokulkakde/touchgrass
 
-[![Stars](https://img.shields.io/github/stars/gokulkakde/touchgrass?style=flat-square&color=yellow)](https://github.com/gokulkakde/touchgrass/stargazers) [![Forks](https://img.shields.io/github/forks/gokulkakde/touchgrass?style=flat-square&color=blue)](https://github.com/gokulkakde/touchgrass/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gokulkakde/touchgrass?style=flat-square&color=yellow)](https://github.com/gokulkakde/touchgrass/stargazers) [![Forks](https://img.shields.io/github/forks/gokulkakde/touchgrass?style=flat-square&color=blue)](https://github.com/gokulkakde/touchgrass/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > TouchGrass AI is a local-first AI app that turns screen breaks into short outdoor micro-adventures. It uses open-weight AI locally to create outdoor quests and verify field observations—helping users spend less time on screens and more time outside.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-10-07 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ gokulkakde/touchgrass：gokulkakde/touchgrass may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 26/100 |
+| quality | 21/100 |
 | integration | 62/100 |
-| production | 46/100 |
-| outlook | 36/100 |
+| production | 40/100 |
+| outlook | 29/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

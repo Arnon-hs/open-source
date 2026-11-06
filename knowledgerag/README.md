@@ -311,8 +311,8 @@
 | 301 | [mingchen666/Reviva](./mingchen666-reviva.md) | ⭐ 39 | JavaScript | 61/100 |
 | 302 | [Anush008/fastembed-rs](./anush008-fastembed-rs.md) | ⭐ 949 | Rust | 61/100 |
 | 303 | [zilliztech/vector-graph-rag](./zilliztech-vector-graph-rag.md) | ⭐ 219 | Python | 61/100 |
-| 304 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 61/100 |
-| 305 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 61/100 |
+| 304 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 149 | Jupyter Notebook | 61/100 |
+| 305 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 177 | C# | 61/100 |
 | 306 | [FutureUniant/WorkShadow](./futureuniant-workshadow.md) | ⭐ 349 | TypeScript | 61/100 |
 | 307 | [abraxas914/VESTI](./abraxas914-vesti.md) | ⭐ 284 | TypeScript | 61/100 |
 | 308 | [lux-db/lux](./lux-db-lux.md) | ⭐ 270 | Rust | 61/100 |
@@ -433,8 +433,8 @@
 | 423 | [Threekiii/Awesome-POC](./threekiii-awesome-poc.md) | ⭐ 5k | Java | 56/100 |
 | 424 | [sysid/bkmr](./sysid-bkmr.md) | ⭐ 251 | Rust | 56/100 |
 | 425 | [jeffreylanters/react-unity-webgl](./jeffreylanters-react-unity-webgl.md) | ⭐ 1.9k | TypeScript | 56/100 |
-| 426 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
-| 427 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
+| 426 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 6k | JavaScript | 56/100 |
+| 427 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 14k | Python | 56/100 |
 | 428 | [aws-samples/generative-ai-use-cases](./aws-samples-generative-ai-use-cases.md) | ⭐ 1.3k | TypeScript | 56/100 |
 | 429 | [tetherto/qvac](./tetherto-qvac.md) | ⭐ 163 | JavaScript | 56/100 |
 | 430 | [neo4j/neo4j-graphrag-python](./neo4j-neo4j-graphrag-python.md) | ⭐ 1.2k | Python | 56/100 |
@@ -520,16 +520,16 @@
 | 510 | [kc-2705/job-hunt-copilot](./kc-2705-job-hunt-copilot.md) | ⭐ — | JavaScript | 48/100 |
 | 511 | [torrua/loglan-bench](./torrua-loglan-bench.md) | ⭐ — | Python | 48/100 |
 | 512 | [Christopher22/charon](./christopher22-charon.md) | ⭐ — | — | 48/100 |
-| 513 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 513 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
 | 514 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
-| 515 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
-| 516 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
-| 517 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
+| 515 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 516 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 627 | TypeScript | 48/100 |
+| 517 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
 | 518 | [SeekStorm/SeekStorm](./seekstorm-seekstorm.md) | ⭐ 1.9k | Rust | 48/100 |
 | 519 | [software-mansion/react-native-executorch](./software-mansion-react-native-executorch.md) | ⭐ 1.5k | C++ | 48/100 |
 | 520 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 47/100 |
-| 521 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 47/100 |
-| 522 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 47/100 |
+| 521 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 47/100 |
+| 522 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 47/100 |
 | 523 | [intfloat/multilingual-e5-small](./intfloat-multilingual-e5-small.md) | ⭐ 374 | sentence-transformers | 47/100 |
 | 524 | [yologdev/karpathy-llm-wiki](./yologdev-karpathy-llm-wiki.md) | ⭐ 48 | TypeScript | 47/100 |
 | 525 | [qiantongtech/qKnow](./qiantongtech-qknow.md) | ⭐ 218 | Java | 47/100 |
