@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44508** |
+| **Projects** | **44514** |
 | **Categories** | **676** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17935 | [Browse →](./misc/) |
+| 📦 **Misc** | 17938 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4685 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2921 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2432 | [Browse →](./orchestration/) |
@@ -42,7 +42,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🚀 **DevOps & Infra** | 533 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 485 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 468 | [Browse →](./communication/) |
-| 🔐 **Security** | 465 | [Browse →](./security/) |
+| 🔐 **Security** | 466 | [Browse →](./security/) |
 | 💳 **Payments** | 376 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 349 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 345 | [Browse →](./productivity/) |
@@ -71,9 +71,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
 | 🏷️ **Rust** | 11 | [Browse →](./rust/) |
+| 🏷️ **Python** | 10 | [Browse →](./python/) |
 | 🏷️ **Aws** | 10 | [Browse →](./aws/) |
 | 🏷️ **Self-hosted** | 10 | [Browse →](./self-hosted/) |
-| 🏷️ **Python** | 9 | [Browse →](./python/) |
 | 🏷️ **Github-actions** | 9 | [Browse →](./github-actions/) |
 | 🏷️ **Macos** | 9 | [Browse →](./macos/) |
 | 🏷️ **Cli** | 9 | [Browse →](./cli/) |
@@ -108,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Web-scraping** | 3 | [Browse →](./web-scraping/) |
 | 🏷️ **Laravel** | 3 | [Browse →](./laravel/) |
 | 🏷️ **Apify** | 3 | [Browse →](./apify/) |
 | 🏷️ **Token-accounting** | 3 | [Browse →](./token-accounting/) |
@@ -203,7 +204,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Raspberry-pi** | 2 | [Browse →](./raspberry-pi/) |
 | 🏷️ **Web** | 2 | [Browse →](./web/) |
 | 🏷️ **Flaky-tests** | 2 | [Browse →](./flaky-tests/) |
-| 🏷️ **Web-scraping** | 2 | [Browse →](./web-scraping/) |
 | 🏷️ **Github-copilot** | 2 | [Browse →](./github-copilot/) |
 | 🏷️ **Cybersecurity** | 2 | [Browse →](./cybersecurity/) |
 | 🏷️ **Secondhand** | 2 | [Browse →](./secondhand/) |

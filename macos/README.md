@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Illyism/awake](./illyism-awake.md) | ⭐ 3 | Swift | 62/100 |
+| 1 | [Illyism/awake](./illyism-awake.md) | ⭐ 3 | Swift | 59/100 |
 | 2 | [MasterShivnath007/dronagiri](./mastershivnath007-dronagiri.md) | ⭐ — | Go | 56/100 |
 | 3 | [kiri11ko/local-ai-starter](./kiri11ko-local-ai-starter.md) | ⭐ — | Python | 48/100 |
 | 4 | [apple-oss-distributions/mDNSResponder](./apple-oss-distributions-mdnsresponder.md) | ⭐ 404 | C | 42/100 |
