@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44471** |
-| **Categories** | **669** |
+| **Projects** | **44476** |
+| **Categories** | **670** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17918 | [Browse →](./misc/) |
+| 📦 **Misc** | 17920 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4685 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2921 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2432 | [Browse →](./orchestration/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 668 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 630 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 624 | [Browse →](./cloud--storage/) |
-| 🏷️ **Video-editing** | 590 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 591 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 573 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 533 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 485 | [Browse →](./templates/) |
@@ -108,6 +108,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Azure** | 3 | [Browse →](./azure/) |
 | 🏷️ **X402** | 3 | [Browse →](./x402/) |
 | 🏷️ **Chatbot** | 3 | [Browse →](./chatbot/) |
 | 🏷️ **Appium** | 3 | [Browse →](./appium/) |
@@ -147,7 +148,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Quenya** | 2 | [Browse →](./quenya/) |
 | 🏷️ **Chess** | 2 | [Browse →](./chess/) |
 | 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
-| 🏷️ **Azure** | 2 | [Browse →](./azure/) |
 | 🏷️ **Ai-writing** | 2 | [Browse →](./ai-writing/) |
 | 🏷️ **Student-resources** | 2 | [Browse →](./student-resources/) |
 | 🏷️ **Testing** | 2 | [Browse →](./testing/) |
@@ -235,6 +235,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Apify** | 2 | [Browse →](./apify/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Cms** | 1 | [Browse →](./cms/) |
 | 🏷️ **Gpt** | 1 | [Browse →](./gpt/) |
 | 🏷️ **Agent-desktop** | 1 | [Browse →](./agent-desktop/) |
 | 🏷️ **Background-worker** | 1 | [Browse →](./background-worker/) |

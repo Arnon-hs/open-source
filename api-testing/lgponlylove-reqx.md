@@ -1,6 +1,6 @@
 # lgponlylove/reqX
 
-[![Stars](https://img.shields.io/github/stars/lgponlylove/reqX?style=flat-square&color=yellow)](https://github.com/lgponlylove/reqX/stargazers) [![Forks](https://img.shields.io/github/forks/lgponlylove/reqX?style=flat-square&color=blue)](https://github.com/lgponlylove/reqX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lgponlylove/reqX?style=flat-square&color=yellow)](https://github.com/lgponlylove/reqX/stargazers) [![Forks](https://img.shields.io/github/forks/lgponlylove/reqX?style=flat-square&color=blue)](https://github.com/lgponlylove/reqX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ lgponlylove/reqX：lgponlylove/reqX may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 33/100 |
+| quality | 28/100 |
 | integration | 34/100 |
-| production | 50/100 |
-| outlook | 45/100 |
+| production | 43/100 |
+| outlook | 38/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 600/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

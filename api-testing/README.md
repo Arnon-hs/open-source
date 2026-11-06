@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [lgponlylove/reqX](./lgponlylove-reqx.md) | ⭐ 1 | TypeScript | 37/100 |
+| 1 | [lgponlylove/reqX](./lgponlylove-reqx.md) | ⭐ 1 | TypeScript | 34/100 |
 
 ---
 
