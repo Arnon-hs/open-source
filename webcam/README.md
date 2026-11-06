@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ydjdydjfbfuduxbxiehsjd-source/vtuber-studio](./ydjdydjfbfuduxbxiehsjd-source-vtuber-studio.md) | ⭐ — | TypeScript | 39/100 |
+| 1 | [ydjdydjfbfuduxbxiehsjd-source/vtuber-studio](./ydjdydjfbfuduxbxiehsjd-source-vtuber-studio.md) | ⭐ — | TypeScript | 36/100 |
 
 ---
 

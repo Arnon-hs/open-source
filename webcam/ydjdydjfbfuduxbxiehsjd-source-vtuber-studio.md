@@ -1,6 +1,6 @@
 # ydjdydjfbfuduxbxiehsjd-source/vtuber-studio
 
-[![Stars](https://img.shields.io/github/stars/ydjdydjfbfuduxbxiehsjd-source/vtuber-studio?style=flat-square&color=yellow)](https://github.com/ydjdydjfbfuduxbxiehsjd-source/vtuber-studio/stargazers) [![Forks](https://img.shields.io/github/forks/ydjdydjfbfuduxbxiehsjd-source/vtuber-studio?style=flat-square&color=blue)](https://github.com/ydjdydjfbfuduxbxiehsjd-source/vtuber-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ydjdydjfbfuduxbxiehsjd-source/vtuber-studio?style=flat-square&color=yellow)](https://github.com/ydjdydjfbfuduxbxiehsjd-source/vtuber-studio/stargazers) [![Forks](https://img.shields.io/github/forks/ydjdydjfbfuduxbxiehsjd-source/vtuber-studio?style=flat-square&color=blue)](https://github.com/ydjdydjfbfuduxbxiehsjd-source/vtuber-studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > 3D VTuber Web Studio Pro ? Real-time Motion Capture, Position-Based Two-Bone IK, Direct 5-Finger Tracking & VRM 1.0
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ webcam · VRM · monocular tracking · avatar animation · OBS · open source
 
 ### English
 
-ydjdydjfbfuduxbxiehsjd-source/vtuber-studio: ydjdydjfbfuduxbxiehsjd-source/vtuber-studio may be useful when its README and activity match a concrete workflow.. Use it for webcam, VRM, monocular tracking, avatar animation, OBS, open source. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ydjdydjfbfuduxbxiehsjd-source/vtuber-studio: ydjdydjfbfuduxbxiehsjd-source/vtuber-studio may be useful when its README and activity match a concrete workflow.. Use it for webcam, VRM, monocular tracking, avatar animation, OBS, open source. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-ydjdydjfbfuduxbxiehsjd-source/vtuber-studio: open-source проект в категориях webcam, VRM, monocular tracking, avatar animation, OBS, open source. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ydjdydjfbfuduxbxiehsjd-source/vtuber-studio: open-source проект в категориях webcam, VRM, monocular tracking, avatar animation, OBS, open source. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-ydjdydjfbfuduxbxiehsjd-source/vtuber-studio：ydjdydjfbfuduxbxiehsjd-source/vtuber-studio may be useful when its README and activity match a concrete workflow.。适合用于webcam、VRM、monocular tracking、avatar animation、OBS、open source。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ydjdydjfbfuduxbxiehsjd-source/vtuber-studio：ydjdydjfbfuduxbxiehsjd-source/vtuber-studio may be useful when its README and activity match a concrete workflow.。适合用于webcam、VRM、monocular tracking、avatar animation、OBS、open source。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ ydjdydjfbfuduxbxiehsjd-source/vtuber-studio：ydjdydjfbfuduxbxiehsjd-source/vtub
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -61,15 +61,15 @@ ydjdydjfbfuduxbxiehsjd-source/vtuber-studio：ydjdydjfbfuduxbxiehsjd-source/vtub
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 31/100 |
+| quality | 26/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 43/100 |
+| production | 44/100 |
+| outlook | 36/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
