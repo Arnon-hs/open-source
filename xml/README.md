@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [scidonia/lexpat](./scidonia-lexpat.md) | ⭐ — | Python | 39/100 |
+| 1 | [scidonia/lexpat](./scidonia-lexpat.md) | ⭐ — | Python | 36/100 |
 
 ---
 
