@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [nickotmazgin/clipflow-pro](./nickotmazgin-clipflow-pro.md) | ⭐ 5 | JavaScript | 55/100 |
+| 1 | [dqunbp/buffera](./dqunbp-buffera.md) | ⭐ 1 | Swift | 47/100 |
 
 ---
 

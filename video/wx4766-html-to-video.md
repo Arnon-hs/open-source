@@ -1,6 +1,6 @@
 # wx4766/html-to-video
 
-[![Stars](https://img.shields.io/github/stars/wx4766/html-to-video?style=flat-square&color=yellow)](https://github.com/wx4766/html-to-video/stargazers) [![Forks](https://img.shields.io/github/forks/wx4766/html-to-video?style=flat-square&color=blue)](https://github.com/wx4766/html-to-video/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wx4766/html-to-video?style=flat-square&color=yellow)](https://github.com/wx4766/html-to-video/stargazers) [![Forks](https://img.shields.io/github/forks/wx4766/html-to-video?style=flat-square&color=blue)](https://github.com/wx4766/html-to-video/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > 用代码逐帧做视频：HTML / Canvas 动画 → MP4 / GIF / 透明层 · Deterministic HTML-to-MP4 renderer: seek to t, screenshot, encode. No framework, no build step, no GPU.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 178 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ wx4766/html-to-video：wx4766/html-to-video may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 70/100 |
+| quality | 65/100 |
 | integration | 62/100 |
-| production | 72/100 |
-| outlook | 83/100 |
+| production | 65/100 |
+| outlook | 76/100 |
 | adoption | 43/100 |
 | categoryMatchCount | 600/100 |
 | stars | 48/100 |
 | forks | 29/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
