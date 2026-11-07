@@ -1,6 +1,6 @@
 # NegiSushant/SlothAuth
 
-[![Stars](https://img.shields.io/github/stars/NegiSushant/SlothAuth?style=flat-square&color=yellow)](https://github.com/NegiSushant/SlothAuth/stargazers) [![Forks](https://img.shields.io/github/forks/NegiSushant/SlothAuth?style=flat-square&color=blue)](https://github.com/NegiSushant/SlothAuth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NegiSushant/SlothAuth?style=flat-square&color=yellow)](https://github.com/NegiSushant/SlothAuth/stargazers) [![Forks](https://img.shields.io/github/forks/NegiSushant/SlothAuth?style=flat-square&color=blue)](https://github.com/NegiSushant/SlothAuth/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ NegiSushant/SlothAuth：NegiSushant/SlothAuth may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 31/100 |
+| quality | 26/100 |
 | integration | 34/100 |
-| production | 49/100 |
-| outlook | 43/100 |
+| production | 43/100 |
+| outlook | 36/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

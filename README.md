@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44584** |
-| **Categories** | **685** |
+| **Projects** | **44590** |
+| **Categories** | **686** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17969 | [Browse →](./misc/) |
+| 📦 **Misc** | 17970 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4687 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2923 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2432 | [Browse →](./orchestration/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 668 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 630 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 625 | [Browse →](./cloud--storage/) |
-| 🏷️ **Video-editing** | 592 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 593 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 573 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 535 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 485 | [Browse →](./templates/) |
@@ -51,7 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 273 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 191 | [Browse →](./design/) |
-| 🏷️ **Ai** | 161 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 163 | [Browse →](./ai/) |
 | 🏷️ **Content-creation** | 156 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 154 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 51 | [Browse →](./ai-agents/) |
@@ -152,6 +152,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **6g** | 2 | [Browse →](./6g/) |
 | 🏷️ **Sdk-generation** | 2 | [Browse →](./sdk-generation/) |
 | 🏷️ **Browser-extension** | 2 | [Browse →](./browser-extension/) |
 | 🏷️ **Firmware** | 2 | [Browse →](./firmware/) |
