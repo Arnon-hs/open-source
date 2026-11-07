@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mayakhalil-cmd/inoscula](./mayakhalil-cmd-inoscula.md) | ⭐ — | TypeScript | 55/100 |
+| 1 | [mayakhalil-cmd/inoscula](./mayakhalil-cmd-inoscula.md) | ⭐ — | TypeScript | 52/100 |
 
 ---
 

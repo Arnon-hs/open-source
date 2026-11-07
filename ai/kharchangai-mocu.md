@@ -1,6 +1,6 @@
 # kharchangai/Mocu
 
-[![Stars](https://img.shields.io/github/stars/kharchangai/Mocu?style=flat-square&color=yellow)](https://github.com/kharchangai/Mocu/stargazers) [![Forks](https://img.shields.io/github/forks/kharchangai/Mocu?style=flat-square&color=blue)](https://github.com/kharchangai/Mocu/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kharchangai/Mocu?style=flat-square&color=yellow)](https://github.com/kharchangai/Mocu/stargazers) [![Forks](https://img.shields.io/github/forks/kharchangai/Mocu?style=flat-square&color=blue)](https://github.com/kharchangai/Mocu/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source desktop AI workspace for personal AI agents, project memory, image creation, and workflow automation.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ kharchangai/Mocu：kharchangai/Mocu may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

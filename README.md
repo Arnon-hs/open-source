@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44616** |
+| **Projects** | **44620** |
 | **Categories** | **693** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17976 | [Browse →](./misc/) |
+| 📦 **Misc** | 17978 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4687 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2433 | [Browse →](./orchestration/) |
@@ -52,8 +52,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 191 | [Browse →](./design/) |
 | 🏷️ **Ai** | 164 | [Browse →](./ai/) |
+| 🏷️ **Vertical-video** | 156 | [Browse →](./vertical-video/) |
 | 🏷️ **Content-creation** | 156 | [Browse →](./content-creation/) |
-| 🏷️ **Vertical-video** | 155 | [Browse →](./vertical-video/) |
 | 🏷️ **Ai-agents** | 52 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 50 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
@@ -112,6 +112,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **React-native** | 3 | [Browse →](./react-native/) |
 | 🏷️ **Ai-workflow** | 3 | [Browse →](./ai-workflow/) |
 | 🏷️ **Github** | 3 | [Browse →](./github/) |
 | 🏷️ **B2b** | 3 | [Browse →](./b2b/) |
@@ -227,7 +228,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Node** | 2 | [Browse →](./node/) |
 | 🏷️ **Stylometry** | 2 | [Browse →](./stylometry/) |
 | 🏷️ **Investment** | 2 | [Browse →](./investment/) |
-| 🏷️ **React-native** | 2 | [Browse →](./react-native/) |
 | 🏷️ **Landslide** | 2 | [Browse →](./landslide/) |
 | 🏷️ **Webgpu** | 2 | [Browse →](./webgpu/) |
 | 🏷️ **Bug-bounty** | 2 | [Browse →](./bug-bounty/) |
