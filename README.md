@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44641** |
+| **Projects** | **44645** |
 | **Categories** | **693** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17983 | [Browse →](./misc/) |
+| 📦 **Misc** | 17985 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4688 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2433 | [Browse →](./orchestration/) |
@@ -92,6 +92,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
+| 🏷️ **Home-automation** | 5 | [Browse →](./home-automation/) |
 | 🏷️ **Go** | 5 | [Browse →](./go/) |
 | 🏷️ **Ios** | 5 | [Browse →](./ios/) |
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
@@ -152,7 +153,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Air-quality** | 3 | [Browse →](./air-quality/) |
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
-| 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
