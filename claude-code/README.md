@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [marcusaguiarmaciel-cmd/cato-plugin](./marcusaguiarmaciel-cmd-cato-plugin.md) | ⭐ 2 | TypeScript | 72/100 |
 | 2 | [mralexivy/AutoMode](./mralexivy-automode.md) | ⭐ 8 | TypeScript | 67/100 |
-| 3 | [congptvinadic-debug/token-diet](./congptvinadic-debug-token-diet.md) | ⭐ — | JavaScript | 64/100 |
+| 3 | [congptvinadic-debug/token-diet](./congptvinadic-debug-token-diet.md) | ⭐ — | JavaScript | 61/100 |
 | 4 | [jasveerai88/permission-audit](./jasveerai88-permission-audit.md) | ⭐ — | Python | 60/100 |
 | 5 | [openai/codex-plugin-cc](./openai-codex-plugin-cc.md) | ⭐ 34.8k | JavaScript | 60/100 |
 | 6 | [pasindu-premachandra/crewrota](./pasindu-premachandra-crewrota.md) | ⭐ — | TypeScript | 49/100 |
