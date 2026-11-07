@@ -1,6 +1,6 @@
 # CognizTech/stateroot
 
-[![Stars](https://img.shields.io/github/stars/CognizTech/stateroot?style=flat-square&color=yellow)](https://github.com/CognizTech/stateroot/stargazers) [![Forks](https://img.shields.io/github/forks/CognizTech/stateroot?style=flat-square&color=blue)](https://github.com/CognizTech/stateroot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CognizTech/stateroot?style=flat-square&color=yellow)](https://github.com/CognizTech/stateroot/stargazers) [![Forks](https://img.shields.io/github/forks/CognizTech/stateroot?style=flat-square&color=blue)](https://github.com/CognizTech/stateroot/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Persistent, federated meta-harness for AI agents. Continue, delegate, fork and merge work across Claude Code, Codex, Cursor, Kimi, OpenClaw and more.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ CognizTech/stateroot：CognizTech/stateroot may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 74/100 |
+| production | 58/100 |
+| outlook | 67/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 500/100 |
 | stars | 17/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

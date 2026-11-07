@@ -13,8 +13,8 @@
 | 3 | [eliautobot/my-virtual-world](./eliautobot-my-virtual-world.md) | ⭐ 86 | JavaScript | 66/100 |
 | 4 | [nightly-labs/openbot](./nightly-labs-openbot.md) | ⭐ 4.5k | TypeScript | 65/100 |
 | 5 | [josegarridodigio/sluice](./josegarridodigio-sluice.md) | ⭐ 3 | Rust | 65/100 |
-| 6 | [CognizTech/stateroot](./cogniztech-stateroot.md) | ⭐ 5 | Rust | 63/100 |
-| 7 | [arajgor1/verified-action-protocol](./arajgor1-verified-action-protocol.md) | ⭐ — | TypeScript | 63/100 |
+| 6 | [arajgor1/verified-action-protocol](./arajgor1-verified-action-protocol.md) | ⭐ — | TypeScript | 63/100 |
+| 7 | [CognizTech/stateroot](./cogniztech-stateroot.md) | ⭐ 5 | Rust | 60/100 |
 | 8 | [Abubakr-Alsheikh/qtask](./abubakr-alsheikh-qtask.md) | ⭐ — | Python | 60/100 |
 | 9 | [lifan-builds/agent-autofill](./lifan-builds-agent-autofill.md) | ⭐ 1 | Python | 59/100 |
 | 10 | [suseendar1414/pursestring](./suseendar1414-pursestring.md) | ⭐ — | TypeScript | 58/100 |
