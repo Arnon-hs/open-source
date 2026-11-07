@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [aralde/operatorlm](./aralde-operatorlm.md) | ⭐ 4 | Go | 72/100 |
-| 2 | [aliaksandr-liapin/cloudarchitect-lite](./aliaksandr-liapin-cloudarchitect-lite.md) | ⭐ — | TypeScript | 59/100 |
-| 3 | [DeadY2J/factreel](./deady2j-factreel.md) | ⭐ 2 | Python | 58/100 |
+| 2 | [DeadY2J/factreel](./deady2j-factreel.md) | ⭐ 2 | Python | 58/100 |
+| 3 | [aliaksandr-liapin/cloudarchitect-lite](./aliaksandr-liapin-cloudarchitect-lite.md) | ⭐ — | TypeScript | 56/100 |
 | 4 | [ngwes/skill-be](./ngwes-skill-be.md) | ⭐ — | TypeScript | 56/100 |
 | 5 | [stateway-io/fly-swe](./stateway-io-fly-swe.md) | ⭐ — | Python | 53/100 |
 | 6 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 51/100 |
