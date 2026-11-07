@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44694** |
-| **Categories** | **701** |
+| **Projects** | **44697** |
+| **Categories** | **702** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 18000 | [Browse →](./misc/) |
+| 📦 **Misc** | 18001 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4689 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2433 | [Browse →](./orchestration/) |
@@ -93,6 +93,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
+| 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Home-automation** | 5 | [Browse →](./home-automation/) |
 | 🏷️ **Go** | 5 | [Browse →](./go/) |
 | 🏷️ **Ios** | 5 | [Browse →](./ios/) |
@@ -105,7 +106,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Flutter** | 4 | [Browse →](./flutter/) |
 | 🏷️ **Nextjs** | 4 | [Browse →](./nextjs/) |
 | 🏷️ **Claude** | 4 | [Browse →](./claude/) |
-| 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Serverless** | 4 | [Browse →](./serverless/) |
 | 🏷️ **Ecommerce** | 4 | [Browse →](./ecommerce/) |
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
@@ -248,6 +248,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **X** | 1 | [Browse →](./x/) |
 | 🏷️ **Slack** | 1 | [Browse →](./slack/) |
 | 🏷️ **Soc** | 1 | [Browse →](./soc/) |
 | 🏷️ **Dj** | 1 | [Browse →](./dj/) |
