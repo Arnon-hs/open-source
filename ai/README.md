@@ -46,11 +46,11 @@
 | 36 | [JonScott79/Pythos](./jonscott79-pythos.md) | ⭐ — | JavaScript | 44/100 |
 | 37 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 44/100 |
 | 38 | [apexxx01/jury](./apexxx01-jury.md) | ⭐ 1 | Python | 43/100 |
-| 39 | [GaffaAI/gaffa-cli](./gaffaai-gaffa-cli.md) | ⭐ — | TypeScript | 41/100 |
-| 40 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 41/100 |
-| 41 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 41/100 |
-| 42 | [finallyjay/catrinanews](./finallyjay-catrinanews.md) | ⭐ — | Python | 39/100 |
-| 43 | [sakshiverma31103120-code/ghost-in-the-dataset](./sakshiverma31103120-code-ghost-in-the-dataset.md) | ⭐ — | Python | 39/100 |
+| 39 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 41/100 |
+| 40 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 41/100 |
+| 41 | [finallyjay/catrinanews](./finallyjay-catrinanews.md) | ⭐ — | Python | 39/100 |
+| 42 | [sakshiverma31103120-code/ghost-in-the-dataset](./sakshiverma31103120-code-ghost-in-the-dataset.md) | ⭐ — | Python | 39/100 |
+| 43 | [GaffaAI/gaffa-cli](./gaffaai-gaffa-cli.md) | ⭐ — | TypeScript | 38/100 |
 | 44 | [jhusk003/multi-workflow-ai](./jhusk003-multi-workflow-ai.md) | ⭐ — | Python | 38/100 |
 | 45 | [miilo-ai/miilo-sdk](./miilo-ai-miilo-sdk.md) | ⭐ — | Rust | 38/100 |
 | 46 | [miilo-ai/miilo-cli](./miilo-ai-miilo-cli.md) | ⭐ — | Rust | 38/100 |

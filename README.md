@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44609** |
-| **Categories** | **689** |
+| **Projects** | **44613** |
+| **Categories** | **692** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -28,7 +28,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2433 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1616 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1510 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1511 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 907 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 821 | [Browse →](./crypto/) |
@@ -243,6 +243,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Continuous-localization** | 1 | [Browse →](./continuous-localization/) |
+| 🏷️ **Tts** | 1 | [Browse →](./tts/) |
+| 🏷️ **Railway** | 1 | [Browse →](./railway/) |
 | 🏷️ **Client-side** | 1 | [Browse →](./client-side/) |
 | 🏷️ **Gemini** | 1 | [Browse →](./gemini/) |
 | 🏷️ **Industrial-automation** | 1 | [Browse →](./industrial-automation/) |

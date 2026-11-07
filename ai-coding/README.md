@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [grloper/plumbgraph](./grloper-plumbgraph.md) | ⭐ — | Rust | 66/100 |
+| 1 | [grloper/plumbgraph](./grloper-plumbgraph.md) | ⭐ — | Rust | 63/100 |
 | 2 | [alapha888/cn-ai-coding-workflow-lite](./alapha888-cn-ai-coding-workflow-lite.md) | ⭐ — | PowerShell | 57/100 |
 | 3 | [krishansubudhi/ratchet](./krishansubudhi-ratchet.md) | ⭐ 4 | Python | 53/100 |
 | 4 | [ferrumio/pydynox](./ferrumio-pydynox.md) | ⭐ 55 | Python | 52/100 |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kokoro-tts/kokoro-tts](./kokoro-tts-kokoro-tts.md) | ⭐ — | — | 24/100 |
+| 1 | [Qwen/Qwen3-TTS](./qwen-qwen3-tts.md) | ⭐ — | — | 24/100 |
 
 ---
 
