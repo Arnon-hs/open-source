@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44707** |
-| **Categories** | **705** |
+| **Projects** | **44709** |
+| **Categories** | **706** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -77,9 +77,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Github-actions** | 9 | [Browse →](./github-actions/) |
 | 🏷️ **Macos** | 9 | [Browse →](./macos/) |
 | 🏷️ **Cli** | 9 | [Browse →](./cli/) |
+| 🏷️ **Ai-coding** | 8 | [Browse →](./ai-coding/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Edge-ai** | 7 | [Browse →](./edge-ai/) |
-| 🏷️ **Ai-coding** | 7 | [Browse →](./ai-coding/) |
 | 🏷️ **Ci** | 6 | [Browse →](./ci/) |
 | 🏷️ **Coding-agent** | 6 | [Browse →](./coding-agent/) |
 | 🏷️ **Documentation** | 6 | [Browse →](./documentation/) |
@@ -248,6 +248,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Minimax** | 1 | [Browse →](./minimax/) |
 | 🏷️ **Billing** | 1 | [Browse →](./billing/) |
 | 🏷️ **Portfolio** | 1 | [Browse →](./portfolio/) |
 | 🏷️ **Dmn** | 1 | [Browse →](./dmn/) |

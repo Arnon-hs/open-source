@@ -39,8 +39,8 @@
 | 29 | [Deepanshu-2006/Summit](./deepanshu-2006-summit.md) | ⭐ — | Go | 36/100 |
 | 30 | [anthropic/claude-agent-sdk](./anthropic-claude-agent-sdk.md) | ⭐ — | — | 36/100 |
 | 31 | [rafaeladriano-web/aurafarming](./rafaeladriano-web-aurafarming.md) | ⭐ — | TypeScript | 36/100 |
-| 32 | [RamyaRamachandran-driod/emergency-caller](./ramyaramachandran-driod-emergency-caller.md) | ⭐ — | TypeScript | 36/100 |
-| 33 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 34/100 |
+| 32 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 34/100 |
+| 33 | [RamyaRamachandran-driod/emergency-caller](./ramyaramachandran-driod-emergency-caller.md) | ⭐ — | TypeScript | 33/100 |
 | 34 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 33/100 |
 | 35 | [example/cli-seat](./example-cli-seat.md) | ⭐ — | — | 32/100 |
 | 36 | [pachca/cli](./pachca-cli.md) | ⭐ — | — | 32/100 |

@@ -1,6 +1,6 @@
 # jhlywa/chess.js
 
-[![Stars](https://img.shields.io/github/stars/jhlywa/chess.js?style=flat-square&color=yellow)](https://github.com/jhlywa/chess.js/stargazers) [![Forks](https://img.shields.io/github/forks/jhlywa/chess.js?style=flat-square&color=blue)](https://github.com/jhlywa/chess.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jhlywa/chess.js?style=flat-square&color=yellow)](https://github.com/jhlywa/chess.js/stargazers) [![Forks](https://img.shields.io/github/forks/jhlywa/chess.js?style=flat-square&color=blue)](https://github.com/jhlywa/chess.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 993 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ jhlywa/chess.js：jhlywa/chess.js may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 72/100 |
+| quality | 67/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 71/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 77/100 |
 | categoryMatchCount | 600/100 |
 | stars | 78/100 |
 | forks | 75/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 13/100 |
 | sourceTrust | 70/100 |
 

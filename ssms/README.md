@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Fargo4u/ssms-ai-assistant](./fargo4u-ssms-ai-assistant.md) | ⭐ 5 | C# | 60/100 |
+| 1 | [Fargo4u/ssms-ai-assistant](./fargo4u-ssms-ai-assistant.md) | ⭐ 5 | C# | 57/100 |
 
 ---
 
