@@ -15,7 +15,7 @@
 | 5 | [marshlw/vistest](./marshlw-vistest.md) | ⭐ — | Python | 39/100 |
 | 6 | [AayushiShinde/DeadCode-](./aayushishinde-deadcode-.md) | ⭐ — | Python | 36/100 |
 | 7 | [Hamdialaqal/mcp_developer_stack_v1.0.0](./hamdialaqal-mcp-developer-stack-v1.0.0.md) | ⭐ — | HTML | 35/100 |
-| 8 | [AmaLS367/CredWeave](./amals367-credweave.md) | ⭐ — | Python | 33/100 |
+| 8 | [AmaLS367/CredWeave](./amals367-credweave.md) | ⭐ — | Python | 30/100 |
 | 9 | [ayushman4youctrl/pyquant](./ayushman4youctrl-pyquant.md) | ⭐ — | — | 24/100 |
 | 10 | [ethereum/x402-py](./ethereum-x402-py.md) | ⭐ — | — | 24/100 |
 | 11 | [KhanZia/AI-Job-Search](./khanzia-ai-job-search.md) | ⭐ — | — | 24/100 |

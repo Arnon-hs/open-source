@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [PentestDB/vektorsec-electron](./pentestdb-vektorsec-electron.md) | ⭐ 1 | Batchfile | 44/100 |
+| 1 | [PentestDB/vektorsec-electron](./pentestdb-vektorsec-electron.md) | ⭐ 1 | Batchfile | 41/100 |
 
 ---
 
