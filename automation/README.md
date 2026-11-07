@@ -643,8 +643,8 @@
 | 633 | [qwen-code-dev-bot/oh-my-cli](./qwen-code-dev-bot-oh-my-cli.md) | ⭐ 339 | TypeScript | 64/100 |
 | 634 | [mworldorg/markdown-memory](./mworldorg-markdown-memory.md) | ⭐ 23 | Python | 64/100 |
 | 635 | [M507/RamiGPT](./m507-ramigpt.md) | ⭐ 860 | Python | 64/100 |
-| 636 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 64/100 |
-| 637 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 64/100 |
+| 636 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.1k | Java | 64/100 |
+| 637 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 502 | Ruby | 64/100 |
 | 638 | [nestjs/bull](./nestjs-bull.md) | ⭐ 699 | TypeScript | 64/100 |
 | 639 | [terrakube-io/terrakube](./terrakube-io-terrakube.md) | ⭐ 927 | Java | 64/100 |
 | 640 | [VyomKulshrestha/Heliox-OS](./vyomkulshrestha-heliox-os.md) | ⭐ 59 | Python | 64/100 |
@@ -726,8 +726,8 @@
 | 716 | [umputun/ralphex](./umputun-ralphex.md) | ⭐ 1.3k | Go | 63/100 |
 | 717 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 337 | VBA | 63/100 |
 | 718 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 63/100 |
-| 719 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
-| 720 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
+| 719 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 103 | Rust | 63/100 |
+| 720 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 105 | HTML | 63/100 |
 | 721 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 63/100 |
 | 722 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 50 | Python | 63/100 |
 | 723 | [hustcer/deepseek-review](./hustcer-deepseek-review.md) | ⭐ 379 | Nushell | 63/100 |
@@ -1479,8 +1479,8 @@
 | 1469 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ — | — | 38/100 |
 | 1470 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 38/100 |
 | 1471 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 38/100 |
-| 1472 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
-| 1473 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1472 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1473 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ — | — | 38/100 |
 | 1474 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ — | — | 38/100 |
 | 1475 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ — | — | 38/100 |
 | 1476 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ — | — | 38/100 |

@@ -1,6 +1,6 @@
 # chenxiachan/xhs-claude-skills
 
-[![Stars](https://img.shields.io/github/stars/chenxiachan/xhs-claude-skills?style=flat-square&color=yellow)](https://github.com/chenxiachan/xhs-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/chenxiachan/xhs-claude-skills?style=flat-square&color=blue)](https://github.com/chenxiachan/xhs-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chenxiachan/xhs-claude-skills?style=flat-square&color=yellow)](https://github.com/chenxiachan/xhs-claude-skills/stargazers) [![Forks](https://img.shields.io/github/forks/chenxiachan/xhs-claude-skills?style=flat-square&color=blue)](https://github.com/chenxiachan/xhs-claude-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code slash commands for extracting Xiaohongshu posts into Obsidian notes
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 432 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ chenxiachan/xhs-claude-skills：chenxiachan/xhs-claude-skills may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 30/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 57/100 |
+| outlook | 56/100 |
 | adoption | 52/100 |
 | categoryMatchCount | 700/100 |
 | stars | 56/100 |
 | forks | 40/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
