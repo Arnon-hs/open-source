@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [engjodev/ghostops](./engjodev-ghostops.md) | ⭐ — | Python | 52/100 |
+| 1 | [its-anuraj/devops-command-center-ai](./its-anuraj-devops-command-center-ai.md) | ⭐ — | TypeScript | 50/100 |
+| 2 | [switch-ai/switch](./switch-ai-switch.md) | ⭐ — | — | 24/100 |
 
 ---
 

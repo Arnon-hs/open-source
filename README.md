@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44679** |
-| **Categories** | **699** |
+| **Projects** | **44688** |
+| **Categories** | **701** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17995 | [Browse →](./misc/) |
+| 📦 **Misc** | 17997 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4689 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2433 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1616 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1516 | [Browse →](./automation/) |
+| 🔧 **DevTools** | 1617 | [Browse →](./devtools/) |
+| 🏷️ **Automation** | 1517 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 908 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 822 | [Browse →](./crypto/) |
@@ -51,10 +51,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 273 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 191 | [Browse →](./design/) |
-| 🏷️ **Ai** | 169 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 170 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 157 | [Browse →](./vertical-video/) |
 | 🏷️ **Content-creation** | 156 | [Browse →](./content-creation/) |
-| 🏷️ **Ai-agents** | 54 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 55 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 51 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
@@ -154,6 +154,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Devops** | 2 | [Browse →](./devops/) |
 | 🏷️ **Nuxt** | 2 | [Browse →](./nuxt/) |
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
@@ -247,6 +248,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Slack** | 1 | [Browse →](./slack/) |
 | 🏷️ **Soc** | 1 | [Browse →](./soc/) |
 | 🏷️ **Dj** | 1 | [Browse →](./dj/) |
 | 🏷️ **Cicd** | 1 | [Browse →](./cicd/) |
