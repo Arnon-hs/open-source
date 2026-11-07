@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [techdevfun/extverify](./techdevfun-extverify.md) | ⭐ — | TypeScript | 46/100 |
+| 1 | [techdevfun/extverify](./techdevfun-extverify.md) | ⭐ — | TypeScript | 43/100 |
 
 ---
 
