@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Schultzenator/HCTN](./schultzenator-hctn.md) | ⭐ — | TypeScript | 54/100 |
+| 1 | [Schultzenator/HCTN](./schultzenator-hctn.md) | ⭐ — | TypeScript | 51/100 |
 | 2 | [yourrepo/hindsight](./yourrepo-hindsight.md) | ⭐ — | — | 24/100 |
 | 3 | [switch-mesh/switch](./switch-mesh-switch.md) | ⭐ — | — | 24/100 |
 

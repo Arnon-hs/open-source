@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [arispacco/pixel-control-center](./arispacco-pixel-control-center.md) | ⭐ — | Dart | 36/100 |
+| 1 | [arispacco/pixel-control-center](./arispacco-pixel-control-center.md) | ⭐ — | Dart | 33/100 |
 
 ---
 

@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44647** |
-| **Categories** | **693** |
+| **Projects** | **44654** |
+| **Categories** | **696** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -28,7 +28,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2433 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1616 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1513 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1514 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 908 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 822 | [Browse →](./crypto/) |
@@ -51,7 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 273 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 191 | [Browse →](./design/) |
-| 🏷️ **Ai** | 166 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 167 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 156 | [Browse →](./vertical-video/) |
 | 🏷️ **Content-creation** | 156 | [Browse →](./content-creation/) |
 | 🏷️ **Ai-agents** | 53 | [Browse →](./ai-agents/) |
@@ -64,7 +64,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Privacy** | 26 | [Browse →](./privacy/) |
 | 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
-| 🏷️ **Self-hosting** | 18 | [Browse →](./self-hosting/) |
+| 🏷️ **Self-hosting** | 19 | [Browse →](./self-hosting/) |
 | 🏷️ **Android** | 16 | [Browse →](./android/) |
 | 🏷️ **Claude-code** | 15 | [Browse →](./claude-code/) |
 | 🏷️ **Git** | 14 | [Browse →](./git/) |
@@ -154,6 +154,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Nuxt** | 2 | [Browse →](./nuxt/) |
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Ffmpeg** | 2 | [Browse →](./ffmpeg/) |
@@ -246,6 +247,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Ansible** | 1 | [Browse →](./ansible/) |
+| 🏷️ **Lab-booking** | 1 | [Browse →](./lab-booking/) |
 | 🏷️ **Incident-management** | 1 | [Browse →](./incident-management/) |
 | 🏷️ **Continuous-localization** | 1 | [Browse →](./continuous-localization/) |
 | 🏷️ **Tts** | 1 | [Browse →](./tts/) |
