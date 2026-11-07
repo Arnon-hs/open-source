@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [SN0VV0511/web-luodi](./sn0vv0511-web-luodi.md) | ⭐ 1 | HTML | 37/100 |
+| 1 | [SN0VV0511/web-luodi](./sn0vv0511-web-luodi.md) | ⭐ 1 | HTML | 34/100 |
 
 ---
 

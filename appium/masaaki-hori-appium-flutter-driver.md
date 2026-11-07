@@ -1,6 +1,6 @@
 # masaaki-hori/appium-flutter-driver
 
-[![Stars](https://img.shields.io/github/stars/masaaki-hori/appium-flutter-driver?style=flat-square&color=yellow)](https://github.com/masaaki-hori/appium-flutter-driver/stargazers) [![Forks](https://img.shields.io/github/forks/masaaki-hori/appium-flutter-driver?style=flat-square&color=blue)](https://github.com/masaaki-hori/appium-flutter-driver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/masaaki-hori/appium-flutter-driver?style=flat-square&color=yellow)](https://github.com/masaaki-hori/appium-flutter-driver/stargazers) [![Forks](https://img.shields.io/github/forks/masaaki-hori/appium-flutter-driver?style=flat-square&color=blue)](https://github.com/masaaki-hori/appium-flutter-driver/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Appium Flutter Driver is a test automation tool for Flutter apps on multiple platforms/OSes. Appium Flutter Driver is part of the Appium mobile test automation tool maintained by community
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ masaaki-hori/appium-flutter-driver：masaaki-hori/appium-flutter-driver may be u
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
