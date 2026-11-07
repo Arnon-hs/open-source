@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44666** |
-| **Categories** | **697** |
+| **Projects** | **44673** |
+| **Categories** | **699** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17990 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4688 | [Browse →](./aiml/) |
+| 📦 **Misc** | 17992 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4689 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2433 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1616 | [Browse →](./devtools/) |
@@ -40,12 +40,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Video-editing** | 597 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 574 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 535 | [Browse →](./devopsinfra/) |
-| 🏷️ **Templates** | 485 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 486 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 468 | [Browse →](./communication/) |
 | 🔐 **Security** | 466 | [Browse →](./security/) |
 | 💳 **Payments** | 376 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 349 | [Browse →](./games--graphics/) |
-| 🏷️ **Productivity** | 345 | [Browse →](./productivity/) |
+| 🏷️ **Productivity** | 346 | [Browse →](./productivity/) |
 | 📊 **Data** | 345 | [Browse →](./data/) |
 | 🏷️ **Observability** | 320 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 273 | [Browse →](./libraries--sdks/) |
@@ -247,6 +247,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Soc** | 1 | [Browse →](./soc/) |
+| 🏷️ **Dj** | 1 | [Browse →](./dj/) |
 | 🏷️ **Cicd** | 1 | [Browse →](./cicd/) |
 | 🏷️ **Ansible** | 1 | [Browse →](./ansible/) |
 | 🏷️ **Lab-booking** | 1 | [Browse →](./lab-booking/) |

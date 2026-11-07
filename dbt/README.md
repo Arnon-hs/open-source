@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ricardoribs/pipeline-guard](./ricardoribs-pipeline-guard.md) | ⭐ — | Python | 50/100 |
+| 1 | [ricardoribs/pipeline-guard](./ricardoribs-pipeline-guard.md) | ⭐ — | Python | 47/100 |
 
 ---
 
