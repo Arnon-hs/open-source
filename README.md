@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44613** |
-| **Categories** | **692** |
+| **Projects** | **44616** |
+| **Categories** | **693** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17975 | [Browse →](./misc/) |
+| 📦 **Misc** | 17976 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4687 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2433 | [Browse →](./orchestration/) |
@@ -152,6 +152,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Ffmpeg** | 2 | [Browse →](./ffmpeg/) |
 | 🏷️ **Pdf** | 2 | [Browse →](./pdf/) |
 | 🏷️ **6g** | 2 | [Browse →](./6g/) |
 | 🏷️ **Sdk-generation** | 2 | [Browse →](./sdk-generation/) |
@@ -243,6 +244,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Incident-management** | 1 | [Browse →](./incident-management/) |
 | 🏷️ **Continuous-localization** | 1 | [Browse →](./continuous-localization/) |
 | 🏷️ **Tts** | 1 | [Browse →](./tts/) |
 | 🏷️ **Railway** | 1 | [Browse →](./railway/) |
@@ -494,7 +496,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Text-to-sql** | 1 | [Browse →](./text-to-sql/) |
 | 🏷️ **Cost-reduction** | 1 | [Browse →](./cost-reduction/) |
 | 🏷️ **Swift** | 1 | [Browse →](./swift/) |
-| 🏷️ **Ffmpeg** | 1 | [Browse →](./ffmpeg/) |
 | 🏷️ **Contentrepurposing** | 1 | [Browse →](./contentrepurposing/) |
 | 🏷️ **Captioning** | 1 | [Browse →](./captioning/) |
 | 🏷️ **Financial-intelligence** | 1 | [Browse →](./financial-intelligence/) |
