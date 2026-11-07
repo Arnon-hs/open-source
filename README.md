@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44599** |
-| **Categories** | **688** |
+| **Projects** | **44603** |
+| **Categories** | **689** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -28,7 +28,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2432 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1616 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1509 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1510 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 907 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 821 | [Browse →](./crypto/) |
@@ -59,7 +59,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
-| 🏷️ **Local-ai** | 28 | [Browse →](./local-ai/) |
+| 🏷️ **Local-ai** | 29 | [Browse →](./local-ai/) |
 | 🏷️ **Privacy** | 26 | [Browse →](./privacy/) |
 | 🏷️ **Llm** | 25 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
@@ -152,6 +152,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Pdf** | 2 | [Browse →](./pdf/) |
 | 🏷️ **6g** | 2 | [Browse →](./6g/) |
 | 🏷️ **Sdk-generation** | 2 | [Browse →](./sdk-generation/) |
 | 🏷️ **Browser-extension** | 2 | [Browse →](./browser-extension/) |
@@ -242,6 +243,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Client-side** | 1 | [Browse →](./client-side/) |
 | 🏷️ **Gemini** | 1 | [Browse →](./gemini/) |
 | 🏷️ **Industrial-automation** | 1 | [Browse →](./industrial-automation/) |
 | 🏷️ **Fleetd** | 1 | [Browse →](./fleetd/) |
@@ -249,7 +251,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-router** | 1 | [Browse →](./ai-router/) |
 | 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
 | 🏷️ **Ai-assisted-ui-design** | 1 | [Browse →](./ai-assisted-ui-design/) |
-| 🏷️ **Pdf** | 1 | [Browse →](./pdf/) |
 | 🏷️ **Ai-assisted-code** | 1 | [Browse →](./ai-assisted-code/) |
 | 🏷️ **Clipboard** | 1 | [Browse →](./clipboard/) |
 | 🏷️ **Minio** | 1 | [Browse →](./minio/) |
