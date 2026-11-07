@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [rachidmenai5588-collab/saffron-and-sage-lite](./rachidmenai5588-collab-saffron-and-sage-lite.md) | ⭐ — | HTML | 46/100 |
+| 1 | [rachidmenai5588-collab/saffron-and-sage-lite](./rachidmenai5588-collab-saffron-and-sage-lite.md) | ⭐ — | HTML | 43/100 |
 
 ---
 
