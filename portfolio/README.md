@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tarunkkumarsahu/tarun-portfolio](./tarunkkumarsahu-tarun-portfolio.md) | ⭐ — | HTML | 36/100 |
+| 1 | [portfoliablejs/portfoliable](./portfoliablejs-portfoliable.md) | ⭐ 2 | JavaScript | 40/100 |
 
 ---
 

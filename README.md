@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44697** |
-| **Categories** | **702** |
+| **Projects** | **44704** |
+| **Categories** | **705** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 18001 | [Browse →](./misc/) |
+| 📦 **Misc** | 18002 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4689 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2433 | [Browse →](./orchestration/) |
@@ -37,7 +37,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 668 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 630 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 626 | [Browse →](./cloud--storage/) |
-| 🏷️ **Video-editing** | 597 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 599 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 574 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 535 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 486 | [Browse →](./templates/) |
@@ -113,6 +113,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
 | 🏷️ **Edge-computing** | 4 | [Browse →](./edge-computing/) |
 | 🏷️ **Sanity** | 4 | [Browse →](./sanity/) |
+| 🏷️ **Agent-memory** | 3 | [Browse →](./agent-memory/) |
 | 🏷️ **Incident-response** | 3 | [Browse →](./incident-response/) |
 | 🏷️ **React-native** | 3 | [Browse →](./react-native/) |
 | 🏷️ **Ai-workflow** | 3 | [Browse →](./ai-workflow/) |
@@ -166,7 +167,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Firmware** | 2 | [Browse →](./firmware/) |
 | 🏷️ **Quenya** | 2 | [Browse →](./quenya/) |
 | 🏷️ **Chess** | 2 | [Browse →](./chess/) |
-| 🏷️ **Agent-memory** | 2 | [Browse →](./agent-memory/) |
 | 🏷️ **Ai-writing** | 2 | [Browse →](./ai-writing/) |
 | 🏷️ **Student-resources** | 2 | [Browse →](./student-resources/) |
 | 🏷️ **Testing** | 2 | [Browse →](./testing/) |
@@ -248,6 +248,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Billing** | 1 | [Browse →](./billing/) |
+| 🏷️ **Portfolio** | 1 | [Browse →](./portfolio/) |
+| 🏷️ **Dmn** | 1 | [Browse →](./dmn/) |
 | 🏷️ **X** | 1 | [Browse →](./x/) |
 | 🏷️ **Slack** | 1 | [Browse →](./slack/) |
 | 🏷️ **Soc** | 1 | [Browse →](./soc/) |
