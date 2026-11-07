@@ -2,7 +2,7 @@
 
 > 
 
-**25 projects** in this category.
+**26 projects** in this category.
 
 ## Projects
 
@@ -20,19 +20,20 @@
 | 10 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 30/100 |
 | 11 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 30/100 |
 | 12 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 27/100 |
-| 13 | [rikiyat/astralib](./rikiyat-astralib.md) | ⭐ — | — | 24/100 |
-| 14 | [uber-research/TabPFN](./uber-research-tabpfn.md) | ⭐ — | — | 24/100 |
-| 15 | [huggingface/bitsandbytes](./huggingface-bitsandbytes.md) | ⭐ — | — | 24/100 |
-| 16 | [karpathy/magika](./karpathy-magika.md) | ⭐ — | — | 24/100 |
-| 17 | [onnx-community/gemma-3-270m-it-ONNX](./onnx-community-gemma-3-270m-it-onnx.md) | ⭐ — | — | 24/100 |
-| 18 | [yourrepo/nocturne](./yourrepo-nocturne.md) | ⭐ — | — | 24/100 |
-| 19 | [luin/ioredis](./luin-ioredis.md) | ⭐ — | — | 24/100 |
-| 20 | [magnitude-engine/magnitude](./magnitude-engine-magnitude.md) | ⭐ — | — | 24/100 |
-| 21 | [markermark/marker](./markermark-marker.md) | ⭐ — | — | 24/100 |
-| 22 | [llmposter/llmposter](./llmposter-llmposter.md) | ⭐ — | — | 24/100 |
-| 23 | [simoneb/aiolimiter](./simoneb-aiolimiter.md) | ⭐ — | — | 24/100 |
-| 24 | [fjjjuv/prompt-optimizer](./fjjjuv-prompt-optimizer.md) | ⭐ — | — | 24/100 |
-| 25 | [yourrepo/llmeter](./yourrepo-llmeter.md) | ⭐ — | — | 24/100 |
+| 13 | [longloom/longloom](./longloom-longloom.md) | ⭐ — | — | 24/100 |
+| 14 | [rikiyat/astralib](./rikiyat-astralib.md) | ⭐ — | — | 24/100 |
+| 15 | [uber-research/TabPFN](./uber-research-tabpfn.md) | ⭐ — | — | 24/100 |
+| 16 | [huggingface/bitsandbytes](./huggingface-bitsandbytes.md) | ⭐ — | — | 24/100 |
+| 17 | [karpathy/magika](./karpathy-magika.md) | ⭐ — | — | 24/100 |
+| 18 | [onnx-community/gemma-3-270m-it-ONNX](./onnx-community-gemma-3-270m-it-onnx.md) | ⭐ — | — | 24/100 |
+| 19 | [yourrepo/nocturne](./yourrepo-nocturne.md) | ⭐ — | — | 24/100 |
+| 20 | [luin/ioredis](./luin-ioredis.md) | ⭐ — | — | 24/100 |
+| 21 | [magnitude-engine/magnitude](./magnitude-engine-magnitude.md) | ⭐ — | — | 24/100 |
+| 22 | [markermark/marker](./markermark-marker.md) | ⭐ — | — | 24/100 |
+| 23 | [llmposter/llmposter](./llmposter-llmposter.md) | ⭐ — | — | 24/100 |
+| 24 | [simoneb/aiolimiter](./simoneb-aiolimiter.md) | ⭐ — | — | 24/100 |
+| 25 | [fjjjuv/prompt-optimizer](./fjjjuv-prompt-optimizer.md) | ⭐ — | — | 24/100 |
+| 26 | [yourrepo/llmeter](./yourrepo-llmeter.md) | ⭐ — | — | 24/100 |
 
 ---
 

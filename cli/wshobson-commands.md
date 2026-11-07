@@ -1,6 +1,6 @@
 # wshobson/commands
 
-[![Stars](https://img.shields.io/github/stars/wshobson/commands?style=flat-square&color=yellow)](https://github.com/wshobson/commands/stargazers) [![Forks](https://img.shields.io/github/forks/wshobson/commands?style=flat-square&color=blue)](https://github.com/wshobson/commands/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wshobson/commands?style=flat-square&color=yellow)](https://github.com/wshobson/commands/stargazers) [![Forks](https://img.shields.io/github/forks/wshobson/commands?style=flat-square&color=blue)](https://github.com/wshobson/commands/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > Archived. The original Claude Code slash commands, replaced by the plugin marketplace at wshobson/agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.6k |
 | 🍴 **Forks** | 293 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 76/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ wshobson/commands：wshobson/commands may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 87/100 |
+| production | 68/100 |
+| outlook | 80/100 |
 | adoption | 70/100 |
 | categoryMatchCount | 700/100 |
 | stars | 73/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

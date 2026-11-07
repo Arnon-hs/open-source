@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44629** |
+| **Projects** | **44632** |
 | **Categories** | **693** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17980 | [Browse →](./misc/) |
+| 📦 **Misc** | 17981 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4687 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2433 | [Browse →](./orchestration/) |
@@ -55,13 +55,13 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Vertical-video** | 156 | [Browse →](./vertical-video/) |
 | 🏷️ **Content-creation** | 156 | [Browse →](./content-creation/) |
 | 🏷️ **Ai-agents** | 52 | [Browse →](./ai-agents/) |
-| 🏷️ **Open-source** | 50 | [Browse →](./open-source/) |
+| 🏷️ **Open-source** | 51 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
 | 🏷️ **Offline** | 30 | [Browse →](./offline/) |
 | 🏷️ **Local-ai** | 29 | [Browse →](./local-ai/) |
+| 🏷️ **Llm** | 26 | [Browse →](./llm/) |
 | 🏷️ **Privacy** | 26 | [Browse →](./privacy/) |
-| 🏷️ **Llm** | 25 | [Browse →](./llm/) |
 | 🏷️ **Local-llm** | 21 | [Browse →](./local-llm/) |
 | 🏷️ **Local-first** | 20 | [Browse →](./local-first/) |
 | 🏷️ **Self-hosting** | 18 | [Browse →](./self-hosting/) |
