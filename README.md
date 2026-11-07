@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44626** |
+| **Projects** | **44629** |
 | **Categories** | **693** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17979 | [Browse →](./misc/) |
+| 📦 **Misc** | 17980 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4687 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2924 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2433 | [Browse →](./orchestration/) |
@@ -31,7 +31,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Automation** | 1513 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 907 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 821 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 822 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 728 | [Browse →](./documents/) |
 | 📱 **Mobile** | 680 | [Browse →](./mobile/) |
 | 🏷️ **Networking** | 668 | [Browse →](./networking/) |
@@ -154,6 +154,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Home-automation** | 3 | [Browse →](./home-automation/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
 | 🏷️ **Static-analysis** | 2 | [Browse →](./static-analysis/) |
 | 🏷️ **Ffmpeg** | 2 | [Browse →](./ffmpeg/) |
 | 🏷️ **Pdf** | 2 | [Browse →](./pdf/) |
@@ -705,7 +706,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Bot-protection** | 1 | [Browse →](./bot-protection/) |
 | 🏷️ **Ttrpg** | 1 | [Browse →](./ttrpg/) |
 | 🏷️ **Blockchain** | 1 | [Browse →](./blockchain/) |
-| 🏷️ **Open-data** | 1 | [Browse →](./open-data/) |
 | 🏷️ **Dart** | 1 | [Browse →](./dart/) |
 | 🏷️ **Ajax** | 1 | [Browse →](./ajax/) |
 | 🏷️ **Tiny-llm** | 1 | [Browse →](./tiny-llm/) |
