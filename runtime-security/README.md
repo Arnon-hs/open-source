@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [grloper/Wraith](./grloper-wraith.md) | ⭐ — | Rust | 48/100 |
+| 1 | [grloper/Wraith](./grloper-wraith.md) | ⭐ — | Rust | 45/100 |
 
 ---
 

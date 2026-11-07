@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [derbyps/owemygod](./derbyps-owemygod.md) | ⭐ — | Python | 40/100 |
+| 1 | [derbyps/owemygod](./derbyps-owemygod.md) | ⭐ — | Python | 37/100 |
 
 ---
 
