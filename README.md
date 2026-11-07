@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44591** |
-| **Categories** | **686** |
+| **Projects** | **44596** |
+| **Categories** | **687** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 17970 | [Browse →](./misc/) |
+| 📦 **Misc** | 17971 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4687 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2923 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2432 | [Browse →](./orchestration/) |
@@ -31,12 +31,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Automation** | 1509 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 907 | [Browse →](./frontend/) |
-| ⛓️ **Crypto** | 820 | [Browse →](./crypto/) |
+| ⛓️ **Crypto** | 821 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 728 | [Browse →](./documents/) |
 | 📱 **Mobile** | 679 | [Browse →](./mobile/) |
 | 🏷️ **Networking** | 668 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 630 | [Browse →](./knowledgerag/) |
-| 🏷️ **Cloud--storage** | 625 | [Browse →](./cloud--storage/) |
+| 🏷️ **Cloud--storage** | 626 | [Browse →](./cloud--storage/) |
 | 🏷️ **Video-editing** | 593 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 573 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 535 | [Browse →](./devopsinfra/) |
@@ -54,7 +54,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai** | 163 | [Browse →](./ai/) |
 | 🏷️ **Content-creation** | 156 | [Browse →](./content-creation/) |
 | 🏷️ **Vertical-video** | 155 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai-agents** | 51 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 52 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 50 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
@@ -242,6 +242,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Industrial-automation** | 1 | [Browse →](./industrial-automation/) |
 | 🏷️ **Fleetd** | 1 | [Browse →](./fleetd/) |
 | 🏷️ **Primevue** | 1 | [Browse →](./primevue/) |
 | 🏷️ **Ai-router** | 1 | [Browse →](./ai-router/) |

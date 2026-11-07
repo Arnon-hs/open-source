@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [microsoft/monaco-editor](./microsoft-monaco-editor.md) | ⭐ 46.9k | JavaScript | 67/100 |
+| 1 | [microsoft/monaco-editor](./microsoft-monaco-editor.md) | ⭐ 46.9k | JavaScript | 64/100 |
 
 ---
 
