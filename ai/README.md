@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [geovanneb/get-things-done](./geovanneb-get-things-done.md) | ⭐ 13 | TypeScript | 71/100 |
-| 2 | [Spacexcx/pr-check](./spacexcx-pr-check.md) | ⭐ 3 | Python | 69/100 |
+| 1 | [Spacexcx/pr-check](./spacexcx-pr-check.md) | ⭐ 3 | Python | 69/100 |
+| 2 | [geovanneb/get-things-done](./geovanneb-get-things-done.md) | ⭐ 13 | TypeScript | 68/100 |
 | 3 | [Fulcrum-Enterprises/verify-proof](./fulcrum-enterprises-verify-proof.md) | ⭐ — | Python | 68/100 |
 | 4 | [GabrieleDattile/agent-superpowers](./gabrieledattile-agent-superpowers.md) | ⭐ 1 | Python | 67/100 |
 | 5 | [postbye-team/postbye-mcp](./postbye-team-postbye-mcp.md) | ⭐ — | — | 66/100 |

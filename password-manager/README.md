@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [carlosfdsn/golock](./carlosfdsn-golock.md) | ⭐ — | Go | 47/100 |
+| 1 | [carlosfdsn/golock](./carlosfdsn-golock.md) | ⭐ — | Go | 44/100 |
 
 ---
 

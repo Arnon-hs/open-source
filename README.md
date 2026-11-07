@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44578** |
-| **Categories** | **683** |
+| **Projects** | **44584** |
+| **Categories** | **685** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -25,9 +25,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 |---|---|---|
 | 📦 **Misc** | 17969 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4687 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2922 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2923 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2432 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1615 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1616 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1509 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 907 | [Browse →](./frontend/) |
@@ -91,6 +91,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 6 | [Browse →](./hackathon/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
+| 🏷️ **Go** | 5 | [Browse →](./go/) |
 | 🏷️ **Ios** | 5 | [Browse →](./ios/) |
 | 🏷️ **Coding-agent** | 5 | [Browse →](./coding-agent/) |
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
@@ -127,7 +128,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Whisper** | 3 | [Browse →](./whisper/) |
 | 🏷️ **History** | 3 | [Browse →](./history/) |
-| 🏷️ **Go** | 3 | [Browse →](./go/) |
 | 🏷️ **Secret-scanning** | 3 | [Browse →](./secret-scanning/) |
 | 🏷️ **Matrixos** | 3 | [Browse →](./matrixos/) |
 | 🏷️ **Net** | 3 | [Browse →](./net/) |
@@ -241,6 +241,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Fleetd** | 1 | [Browse →](./fleetd/) |
+| 🏷️ **Primevue** | 1 | [Browse →](./primevue/) |
 | 🏷️ **Ai-router** | 1 | [Browse →](./ai-router/) |
 | 🏷️ **Agent-skills** | 1 | [Browse →](./agent-skills/) |
 | 🏷️ **Ai-assisted-ui-design** | 1 | [Browse →](./ai-assisted-ui-design/) |
