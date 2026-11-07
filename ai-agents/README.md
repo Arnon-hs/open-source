@@ -2,7 +2,7 @@
 
 > 
 
-**53 projects** in this category.
+**54 projects** in this category.
 
 ## Projects
 
@@ -31,36 +31,37 @@
 | 21 | [EC-Roshan/refund-court](./ec-roshan-refund-court.md) | ⭐ — | — | 43/100 |
 | 22 | [operatecenter/operate-hermes-plugin](./operatecenter-operate-hermes-plugin.md) | ⭐ 3 | Python | 42/100 |
 | 23 | [sunfishloop/sunfishloop-mcp](./sunfishloop-sunfishloop-mcp.md) | ⭐ — | TypeScript | 41/100 |
-| 24 | [JakeBurwick/vow](./jakeburwick-vow.md) | ⭐ 2 | JavaScript | 39/100 |
-| 25 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
-| 26 | [checocadena/museport](./checocadena-museport.md) | ⭐ — | C++ | 36/100 |
-| 27 | [Deepanshu-2006/Summit](./deepanshu-2006-summit.md) | ⭐ — | Go | 36/100 |
-| 28 | [anthropic/claude-agent-sdk](./anthropic-claude-agent-sdk.md) | ⭐ — | — | 36/100 |
-| 29 | [rafaeladriano-web/aurafarming](./rafaeladriano-web-aurafarming.md) | ⭐ — | TypeScript | 36/100 |
-| 30 | [RamyaRamachandran-driod/emergency-caller](./ramyaramachandran-driod-emergency-caller.md) | ⭐ — | TypeScript | 36/100 |
-| 31 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 34/100 |
-| 32 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 33/100 |
-| 33 | [example/cli-seat](./example-cli-seat.md) | ⭐ — | — | 32/100 |
-| 34 | [pachca/cli](./pachca-cli.md) | ⭐ — | — | 32/100 |
-| 35 | [waiaas/cli](./waiaas-cli.md) | ⭐ — | — | 32/100 |
-| 36 | [waiaas/sdk](./waiaas-sdk.md) | ⭐ — | — | 32/100 |
-| 37 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 32/100 |
-| 38 | [krishsf5/Graph-Hack-Hackathon-Team-7vengers](./krishsf5-graph-hack-hackathon-team-7vengers.md) | ⭐ 1 | JavaScript | 31/100 |
-| 39 | [CarGDev/codetyper.a2a](./cargdev-codetyper.a2a.md) | ⭐ — | Rust | 30/100 |
-| 40 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 30/100 |
-| 41 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 30/100 |
-| 42 | [NVIDIA/NeMo-Agents](./nvidia-nemo-agents.md) | ⭐ — | — | 28/100 |
-| 43 | [agent-colony/join-agent](./agent-colony-join-agent.md) | ⭐ — | — | 28/100 |
-| 44 | [holistis/capacity-attest](./holistis-capacity-attest.md) | ⭐ — | — | 24/100 |
-| 45 | [openai/openclaw](./openai-openclaw.md) | ⭐ — | — | 24/100 |
-| 46 | [yourrepo/browser-use](./yourrepo-browser-use.md) | ⭐ — | — | 24/100 |
-| 47 | [falkor-db/falkor-db](./falkor-db-falkor-db.md) | ⭐ — | — | 24/100 |
-| 48 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
-| 49 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
-| 50 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
-| 51 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
-| 52 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
-| 53 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
+| 24 | [Xuefeng-Zhu/commitment-lab](./xuefeng-zhu-commitment-lab.md) | ⭐ — | Python | 39/100 |
+| 25 | [JakeBurwick/vow](./jakeburwick-vow.md) | ⭐ 2 | JavaScript | 39/100 |
+| 26 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
+| 27 | [checocadena/museport](./checocadena-museport.md) | ⭐ — | C++ | 36/100 |
+| 28 | [Deepanshu-2006/Summit](./deepanshu-2006-summit.md) | ⭐ — | Go | 36/100 |
+| 29 | [anthropic/claude-agent-sdk](./anthropic-claude-agent-sdk.md) | ⭐ — | — | 36/100 |
+| 30 | [rafaeladriano-web/aurafarming](./rafaeladriano-web-aurafarming.md) | ⭐ — | TypeScript | 36/100 |
+| 31 | [RamyaRamachandran-driod/emergency-caller](./ramyaramachandran-driod-emergency-caller.md) | ⭐ — | TypeScript | 36/100 |
+| 32 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 34/100 |
+| 33 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 33/100 |
+| 34 | [example/cli-seat](./example-cli-seat.md) | ⭐ — | — | 32/100 |
+| 35 | [pachca/cli](./pachca-cli.md) | ⭐ — | — | 32/100 |
+| 36 | [waiaas/cli](./waiaas-cli.md) | ⭐ — | — | 32/100 |
+| 37 | [waiaas/sdk](./waiaas-sdk.md) | ⭐ — | — | 32/100 |
+| 38 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 32/100 |
+| 39 | [krishsf5/Graph-Hack-Hackathon-Team-7vengers](./krishsf5-graph-hack-hackathon-team-7vengers.md) | ⭐ 1 | JavaScript | 31/100 |
+| 40 | [CarGDev/codetyper.a2a](./cargdev-codetyper.a2a.md) | ⭐ — | Rust | 30/100 |
+| 41 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 30/100 |
+| 42 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 30/100 |
+| 43 | [NVIDIA/NeMo-Agents](./nvidia-nemo-agents.md) | ⭐ — | — | 28/100 |
+| 44 | [agent-colony/join-agent](./agent-colony-join-agent.md) | ⭐ — | — | 28/100 |
+| 45 | [holistis/capacity-attest](./holistis-capacity-attest.md) | ⭐ — | — | 24/100 |
+| 46 | [openai/openclaw](./openai-openclaw.md) | ⭐ — | — | 24/100 |
+| 47 | [yourrepo/browser-use](./yourrepo-browser-use.md) | ⭐ — | — | 24/100 |
+| 48 | [falkor-db/falkor-db](./falkor-db-falkor-db.md) | ⭐ — | — | 24/100 |
+| 49 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
+| 50 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
+| 51 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
+| 52 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
+| 53 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
+| 54 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
 
 ---
 
