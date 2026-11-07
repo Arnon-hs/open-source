@@ -1,6 +1,6 @@
 # OpenDMA/langchain-opendma
 
-[![Stars](https://img.shields.io/github/stars/OpenDMA/langchain-opendma?style=flat-square&color=yellow)](https://github.com/OpenDMA/langchain-opendma/stargazers) [![Forks](https://img.shields.io/github/forks/OpenDMA/langchain-opendma?style=flat-square&color=blue)](https://github.com/OpenDMA/langchain-opendma/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OpenDMA/langchain-opendma?style=flat-square&color=yellow)](https://github.com/OpenDMA/langchain-opendma/stargazers) [![Forks](https://img.shields.io/github/forks/OpenDMA/langchain-opendma?style=flat-square&color=blue)](https://github.com/OpenDMA/langchain-opendma/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Integration of Enterprise Content Management (ECM) systems with LangChain through toolkits, loaders, and retrievers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ OpenDMA/langchain-opendma：OpenDMA/langchain-opendma may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 72/100 |
+| production | 56/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

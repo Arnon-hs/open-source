@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [OpenDMA/langchain-opendma](./opendma-langchain-opendma.md) | ⭐ — | Python | 63/100 |
+| 1 | [OpenDMA/langchain-opendma](./opendma-langchain-opendma.md) | ⭐ — | Python | 60/100 |
 
 ---
 

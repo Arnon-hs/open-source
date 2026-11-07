@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44636** |
+| **Projects** | **44641** |
 | **Categories** | **693** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -30,7 +30,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🔧 **DevTools** | 1616 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1513 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 907 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 908 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 822 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 728 | [Browse →](./documents/) |
 | 📱 **Mobile** | 680 | [Browse →](./mobile/) |
@@ -51,10 +51,10 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 273 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 191 | [Browse →](./design/) |
-| 🏷️ **Ai** | 164 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 166 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 156 | [Browse →](./vertical-video/) |
 | 🏷️ **Content-creation** | 156 | [Browse →](./content-creation/) |
-| 🏷️ **Ai-agents** | 52 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 53 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 51 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
@@ -70,9 +70,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 14 | [Browse →](./git/) |
 | 🏷️ **Freelance** | 14 | [Browse →](./freelance/) |
 | 🏷️ **Offline-first** | 12 | [Browse →](./offline-first/) |
+| 🏷️ **Aws** | 11 | [Browse →](./aws/) |
 | 🏷️ **Python** | 11 | [Browse →](./python/) |
 | 🏷️ **Rust** | 11 | [Browse →](./rust/) |
-| 🏷️ **Aws** | 10 | [Browse →](./aws/) |
 | 🏷️ **Self-hosted** | 10 | [Browse →](./self-hosted/) |
 | 🏷️ **Github-actions** | 9 | [Browse →](./github-actions/) |
 | 🏷️ **Macos** | 9 | [Browse →](./macos/) |
