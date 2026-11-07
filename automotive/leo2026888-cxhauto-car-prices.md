@@ -1,6 +1,6 @@
 # leo2026888/cxhauto-car-prices
 
-[![Stars](https://img.shields.io/github/stars/leo2026888/cxhauto-car-prices?style=flat-square&color=yellow)](https://github.com/leo2026888/cxhauto-car-prices/stargazers) [![Forks](https://img.shields.io/github/forks/leo2026888/cxhauto-car-prices?style=flat-square&color=blue)](https://github.com/leo2026888/cxhauto-car-prices/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/leo2026888/cxhauto-car-prices?style=flat-square&color=yellow)](https://github.com/leo2026888/cxhauto-car-prices/stargazers) [![Forks](https://img.shields.io/github/forks/leo2026888/cxhauto-car-prices?style=flat-square&color=blue)](https://github.com/leo2026888/cxhauto-car-prices/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > 车小花 CXH AUTO｜中国新车与二手车行情走势查询。公开 Skill、MCP 地址和使用说明；不含代码、密钥或服务器数据。
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -55,22 +55,22 @@ leo2026888/cxhauto-car-prices：leo2026888/cxhauto-car-prices may be useful when
 - updated 2026-11-04
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
