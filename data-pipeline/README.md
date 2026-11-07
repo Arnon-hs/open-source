@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [bejaouibechir/Hydra](./bejaouibechir-hydra.md) | ⭐ 4 | Python | 73/100 |
+| 1 | [bejaouibechir/Hydra](./bejaouibechir-hydra.md) | ⭐ 4 | Python | 70/100 |
 
 ---
 

@@ -108,8 +108,8 @@
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.3k | Kotlin | 61/100 |
 | 99 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 627 | Kotlin | 61/100 |
 | 100 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 234 | Kotlin | 61/100 |
-| 101 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 61/100 |
-| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 61/100 |
+| 101 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2k | TypeScript | 61/100 |
+| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 954 | C++ | 61/100 |
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 800 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.4k | Kotlin | 61/100 |
@@ -517,8 +517,8 @@
 | 507 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 44/100 |
 | 508 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 44/100 |
 | 509 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 5 | Kotlin | 43/100 |
-| 510 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 879 | — | 43/100 |
-| 511 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 642 | — | 43/100 |
+| 510 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 642 | — | 43/100 |
+| 511 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 879 | — | 43/100 |
 | 512 | [kuscholar/iDeck](./kuscholar-ideck.md) | ⭐ 5 | C | 43/100 |
 | 513 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 1 | JavaScript | 43/100 |
 | 514 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 7 | Kotlin | 43/100 |
@@ -682,9 +682,9 @@
 | 672 | [wuxudong/react-native-chart-kit](./wuxudong-react-native-chart-kit.md) | ⭐ — | — | 36/100 |
 | 673 | [lunarr-app/vlc-player](./lunarr-app-vlc-player.md) | ⭐ — | — | 36/100 |
 | 674 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 36/100 |
-| 675 | [Aniruddhashirke/TerraQuest](./aniruddhashirke-terraquest.md) | ⭐ — | TypeScript | 33/100 |
-| 676 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ — | — | 32/100 |
-| 677 | [Divyansh0208/Tuft](./divyansh0208-tuft.md) | ⭐ — | HTML | 30/100 |
+| 675 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ — | — | 32/100 |
+| 676 | [Divyansh0208/Tuft](./divyansh0208-tuft.md) | ⭐ — | HTML | 30/100 |
+| 677 | [Aniruddhashirke/TerraQuest](./aniruddhashirke-terraquest.md) | ⭐ — | TypeScript | 30/100 |
 | 678 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
 | 679 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
 | 680 | [termish/herdr](./termish-herdr.md) | ⭐ — | — | 24/100 |

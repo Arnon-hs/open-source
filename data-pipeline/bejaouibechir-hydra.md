@@ -1,6 +1,6 @@
 # bejaouibechir/Hydra
 
-[![Stars](https://img.shields.io/github/stars/bejaouibechir/Hydra?style=flat-square&color=yellow)](https://github.com/bejaouibechir/Hydra/stargazers) [![Forks](https://img.shields.io/github/forks/bejaouibechir/Hydra?style=flat-square&color=blue)](https://github.com/bejaouibechir/Hydra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bejaouibechir/Hydra?style=flat-square&color=yellow)](https://github.com/bejaouibechir/Hydra/stargazers) [![Forks](https://img.shields.io/github/forks/bejaouibechir/Hydra?style=flat-square&color=blue)](https://github.com/bejaouibechir/Hydra/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Declarative ETL pipelines in YAML, validated before they run. CLI, REST API, visual Studio, MCP server.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ bejaouibechir/Hydra：bejaouibechir/Hydra may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 94/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 700/100 |
 | stars | 15/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
