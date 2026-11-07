@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [cvlmtg/HUME](./cvlmtg-hume.md) | ⭐ — | Rust | 44/100 |
+| 1 | [cvlmtg/HUME](./cvlmtg-hume.md) | ⭐ — | Rust | 41/100 |
 
 ---
 

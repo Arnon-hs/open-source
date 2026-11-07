@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [uragenky/MagDrive](./uragenky-magdrive.md) | ⭐ — | TypeScript | 41/100 |
+| 1 | [uragenky/MagDrive](./uragenky-magdrive.md) | ⭐ — | TypeScript | 38/100 |
 
 ---
 

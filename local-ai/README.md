@@ -19,10 +19,10 @@
 | 9 | [padmalochini27-del/SlothSort](./padmalochini27-del-slothsort.md) | ⭐ — | Python | 36/100 |
 | 10 | [YuvrajSHAD/Desktop-Companion](./yuvrajshad-desktop-companion.md) | ⭐ — | Python | 36/100 |
 | 11 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 36/100 |
-| 12 | [itsnazaretdev/sleepy-coder](./itsnazaretdev-sleepy-coder.md) | ⭐ — | TypeScript | 36/100 |
-| 13 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 35/100 |
-| 14 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 34/100 |
-| 15 | [surajns0033-collab/slothshift](./surajns0033-collab-slothshift.md) | ⭐ — | JavaScript | 33/100 |
+| 12 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 35/100 |
+| 13 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 34/100 |
+| 14 | [surajns0033-collab/slothshift](./surajns0033-collab-slothshift.md) | ⭐ — | JavaScript | 33/100 |
+| 15 | [itsnazaretdev/sleepy-coder](./itsnazaretdev-sleepy-coder.md) | ⭐ — | TypeScript | 33/100 |
 | 16 | [Imbiber/sloth-sort](./imbiber-sloth-sort.md) | ⭐ — | TypeScript | 33/100 |
 | 17 | [rishabh-hasija/stockentry-guard](./rishabh-hasija-stockentry-guard.md) | ⭐ — | Python | 33/100 |
 | 18 | [ishavishwakarma29/WalkguideStudio](./ishavishwakarma29-walkguidestudio.md) | ⭐ — | Python | 33/100 |

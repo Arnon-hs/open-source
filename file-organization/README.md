@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [P44-code/sloth-tidy](./p44-code-sloth-tidy.md) | ⭐ — | Jupyter Notebook | 33/100 |
+| 1 | [P44-code/sloth-tidy](./p44-code-sloth-tidy.md) | ⭐ — | Jupyter Notebook | 30/100 |
 
 ---
 
