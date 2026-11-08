@@ -2,38 +2,39 @@
 
 > 
 
-**26 projects** in this category.
+**27 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [aralde/operatorlm](./aralde-operatorlm.md) | ⭐ 4 | Go | 72/100 |
-| 2 | [DeadY2J/factreel](./deady2j-factreel.md) | ⭐ 2 | Python | 58/100 |
-| 3 | [aliaksandr-liapin/cloudarchitect-lite](./aliaksandr-liapin-cloudarchitect-lite.md) | ⭐ — | TypeScript | 56/100 |
-| 4 | [ngwes/skill-be](./ngwes-skill-be.md) | ⭐ — | TypeScript | 56/100 |
-| 5 | [stateway-io/fly-swe](./stateway-io-fly-swe.md) | ⭐ — | Python | 53/100 |
-| 6 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 51/100 |
-| 7 | [T-RexBytes/phantom-packages](./t-rexbytes-phantom-packages.md) | ⭐ — | Python | 36/100 |
-| 8 | [amananandrai/llm-explained](./amananandrai-llm-explained.md) | ⭐ — | JavaScript | 33/100 |
-| 9 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 32/100 |
-| 10 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 30/100 |
-| 11 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 30/100 |
-| 12 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 27/100 |
-| 13 | [longloom/longloom](./longloom-longloom.md) | ⭐ — | — | 24/100 |
-| 14 | [rikiyat/astralib](./rikiyat-astralib.md) | ⭐ — | — | 24/100 |
-| 15 | [uber-research/TabPFN](./uber-research-tabpfn.md) | ⭐ — | — | 24/100 |
-| 16 | [huggingface/bitsandbytes](./huggingface-bitsandbytes.md) | ⭐ — | — | 24/100 |
-| 17 | [karpathy/magika](./karpathy-magika.md) | ⭐ — | — | 24/100 |
-| 18 | [onnx-community/gemma-3-270m-it-ONNX](./onnx-community-gemma-3-270m-it-onnx.md) | ⭐ — | — | 24/100 |
-| 19 | [yourrepo/nocturne](./yourrepo-nocturne.md) | ⭐ — | — | 24/100 |
-| 20 | [luin/ioredis](./luin-ioredis.md) | ⭐ — | — | 24/100 |
-| 21 | [magnitude-engine/magnitude](./magnitude-engine-magnitude.md) | ⭐ — | — | 24/100 |
-| 22 | [markermark/marker](./markermark-marker.md) | ⭐ — | — | 24/100 |
-| 23 | [llmposter/llmposter](./llmposter-llmposter.md) | ⭐ — | — | 24/100 |
-| 24 | [simoneb/aiolimiter](./simoneb-aiolimiter.md) | ⭐ — | — | 24/100 |
-| 25 | [fjjjuv/prompt-optimizer](./fjjjuv-prompt-optimizer.md) | ⭐ — | — | 24/100 |
-| 26 | [yourrepo/llmeter](./yourrepo-llmeter.md) | ⭐ — | — | 24/100 |
+| 2 | [Virat-Ghatge/hyperflash](./virat-ghatge-hyperflash.md) | ⭐ 1 | Python | 64/100 |
+| 3 | [DeadY2J/factreel](./deady2j-factreel.md) | ⭐ 2 | Python | 58/100 |
+| 4 | [aliaksandr-liapin/cloudarchitect-lite](./aliaksandr-liapin-cloudarchitect-lite.md) | ⭐ — | TypeScript | 56/100 |
+| 5 | [ngwes/skill-be](./ngwes-skill-be.md) | ⭐ — | TypeScript | 56/100 |
+| 6 | [stateway-io/fly-swe](./stateway-io-fly-swe.md) | ⭐ — | Python | 53/100 |
+| 7 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 51/100 |
+| 8 | [T-RexBytes/phantom-packages](./t-rexbytes-phantom-packages.md) | ⭐ — | Python | 36/100 |
+| 9 | [amananandrai/llm-explained](./amananandrai-llm-explained.md) | ⭐ — | JavaScript | 33/100 |
+| 10 | [themsquared/agentic-demo](./themsquared-agentic-demo.md) | ⭐ 1 | Shell | 32/100 |
+| 11 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 30/100 |
+| 12 | [akanthed/jev-watch](./akanthed-jev-watch.md) | ⭐ — | TypeScript | 30/100 |
+| 13 | [Aliyunazeer/cloudgrip-backend](./aliyunazeer-cloudgrip-backend.md) | ⭐ — | HTML | 27/100 |
+| 14 | [longloom/longloom](./longloom-longloom.md) | ⭐ — | — | 24/100 |
+| 15 | [rikiyat/astralib](./rikiyat-astralib.md) | ⭐ — | — | 24/100 |
+| 16 | [uber-research/TabPFN](./uber-research-tabpfn.md) | ⭐ — | — | 24/100 |
+| 17 | [huggingface/bitsandbytes](./huggingface-bitsandbytes.md) | ⭐ — | — | 24/100 |
+| 18 | [karpathy/magika](./karpathy-magika.md) | ⭐ — | — | 24/100 |
+| 19 | [onnx-community/gemma-3-270m-it-ONNX](./onnx-community-gemma-3-270m-it-onnx.md) | ⭐ — | — | 24/100 |
+| 20 | [yourrepo/nocturne](./yourrepo-nocturne.md) | ⭐ — | — | 24/100 |
+| 21 | [luin/ioredis](./luin-ioredis.md) | ⭐ — | — | 24/100 |
+| 22 | [magnitude-engine/magnitude](./magnitude-engine-magnitude.md) | ⭐ — | — | 24/100 |
+| 23 | [markermark/marker](./markermark-marker.md) | ⭐ — | — | 24/100 |
+| 24 | [llmposter/llmposter](./llmposter-llmposter.md) | ⭐ — | — | 24/100 |
+| 25 | [simoneb/aiolimiter](./simoneb-aiolimiter.md) | ⭐ — | — | 24/100 |
+| 26 | [fjjjuv/prompt-optimizer](./fjjjuv-prompt-optimizer.md) | ⭐ — | — | 24/100 |
+| 27 | [yourrepo/llmeter](./yourrepo-llmeter.md) | ⭐ — | — | 24/100 |
 
 ---
 
