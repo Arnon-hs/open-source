@@ -11,7 +11,7 @@
 | 1 | [bodasooqa/rootstock](./bodasooqa-rootstock.md) | ⭐ — | Rust | 43/100 |
 | 2 | [seotarek/valorex](./seotarek-valorex.md) | ⭐ — | Rust | 41/100 |
 | 3 | [Berserk-hub150/CircuitCraft](./berserk-hub150-circuitcraft.md) | ⭐ 6 | Rust | 33/100 |
-| 4 | [thisisamirv/loess-project](./thisisamirv-loess-project.md) | ⭐ 3 | Rust | 32/100 |
+| 4 | [thisisamirv/loess-project](./thisisamirv-loess-project.md) | ⭐ 3 | Rust | 29/100 |
 | 5 | [asheohto/lyricreme](./asheohto-lyricreme.md) | ⭐ — | Rust | 27/100 |
 | 6 | [taiki-e/wry](./taiki-e-wry.md) | ⭐ — | — | 24/100 |
 | 7 | [zed-industries/gpui](./zed-industries-gpui.md) | ⭐ — | — | 24/100 |
