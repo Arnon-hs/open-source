@@ -2,7 +2,7 @@
 
 > 
 
-**16 projects** in this category.
+**14 projects** in this category.
 
 ## Projects
 
@@ -16,14 +16,12 @@
 | 6 | [ThalzeronLabs/llama-kotlin](./thalzeronlabs-llama-kotlin.md) | ⭐ — | Kotlin | 48/100 |
 | 7 | [BEKO2210/spyhound](./beko2210-spyhound.md) | ⭐ — | Kotlin | 41/100 |
 | 8 | [kotlinsyd/Plavio](./kotlinsyd-plavio.md) | ⭐ 11 | Kotlin | 40/100 |
-| 9 | [munimtechnologies/l10n-guard](./munimtechnologies-l10n-guard.md) | ⭐ 1 | Python | 40/100 |
-| 10 | [ThalzeronLabs/android-on-device-llm](./thalzeronlabs-android-on-device-llm.md) | ⭐ — | Kotlin | 39/100 |
-| 11 | [munimtechnologies/android-translation-crash-census](./munimtechnologies-android-translation-crash-census.md) | ⭐ — | Python | 39/100 |
-| 12 | [Hamsan2013/APK-bridge--Windows-](./hamsan2013-apk-bridge--windows-.md) | ⭐ — | C# | 33/100 |
-| 13 | [jlowin/fastmcp](./jlowin-fastmcp.md) | ⭐ — | — | 32/100 |
-| 14 | [afeemuhammodwafy1/doseleaf](./afeemuhammodwafy1-doseleaf.md) | ⭐ — | Kotlin | 30/100 |
-| 15 | [sanjay434343/Pipit](./sanjay434343-pipit.md) | ⭐ — | Dart | 30/100 |
-| 16 | [google/litert](./google-litert.md) | ⭐ — | — | 27/100 |
+| 9 | [ThalzeronLabs/android-on-device-llm](./thalzeronlabs-android-on-device-llm.md) | ⭐ — | Kotlin | 39/100 |
+| 10 | [Hamsan2013/APK-bridge--Windows-](./hamsan2013-apk-bridge--windows-.md) | ⭐ — | C# | 33/100 |
+| 11 | [jlowin/fastmcp](./jlowin-fastmcp.md) | ⭐ — | — | 32/100 |
+| 12 | [afeemuhammodwafy1/doseleaf](./afeemuhammodwafy1-doseleaf.md) | ⭐ — | Kotlin | 30/100 |
+| 13 | [sanjay434343/Pipit](./sanjay434343-pipit.md) | ⭐ — | Dart | 30/100 |
+| 14 | [google/litert](./google-litert.md) | ⭐ — | — | 27/100 |
 
 ---
 
