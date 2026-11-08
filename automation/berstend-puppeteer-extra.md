@@ -1,6 +1,6 @@
 # berstend/puppeteer-extra
 
-[![Stars](https://img.shields.io/github/stars/berstend/puppeteer-extra?style=flat-square&color=yellow)](https://github.com/berstend/puppeteer-extra/stargazers) [![Forks](https://img.shields.io/github/forks/berstend/puppeteer-extra?style=flat-square&color=blue)](https://github.com/berstend/puppeteer-extra/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/berstend/puppeteer-extra?style=flat-square&color=yellow)](https://github.com/berstend/puppeteer-extra/stargazers) [![Forks](https://img.shields.io/github/forks/berstend/puppeteer-extra?style=flat-square&color=blue)](https://github.com/berstend/puppeteer-extra/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 💯  Teach puppeteer new tricks through plugins.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7.4k |
 | 🍴 **Forks** | 783 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Automation
 
 ### English
 
-berstend/puppeteer-extra: berstend/puppeteer-extra helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+berstend/puppeteer-extra: berstend/puppeteer-extra helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-berstend/puppeteer-extra: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+berstend/puppeteer-extra: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-berstend/puppeteer-extra：berstend/puppeteer-extra helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+berstend/puppeteer-extra：berstend/puppeteer-extra helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ berstend/puppeteer-extra：berstend/puppeteer-extra helps remove repetitive manu
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -66,15 +66,15 @@ berstend/puppeteer-extra：berstend/puppeteer-extra helps remove repetitive manu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 86/100 |
+| quality | 81/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 83/100 |
+| production | 69/100 |
+| outlook | 76/100 |
 | adoption | 80/100 |
 | categoryMatchCount | 100/100 |
 | stars | 82/100 |
 | forks | 72/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
