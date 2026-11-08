@@ -16,7 +16,7 @@
 | 6 | [altrudev/lullwire-relay](./altrudev-lullwire-relay.md) | ⭐ — | JavaScript | 45/100 |
 | 7 | [toclocoinc/dynamoat](./toclocoinc-dynamoat.md) | ⭐ — | Go | 39/100 |
 | 8 | [aladdin0414/hellodoc](./aladdin0414-hellodoc.md) | ⭐ 1 | Java | 37/100 |
-| 9 | [opendocyai/Open-Docy](./opendocyai-open-docy.md) | ⭐ — | JavaScript | 36/100 |
+| 9 | [opendocyai/Open-Docy](./opendocyai-open-docy.md) | ⭐ — | JavaScript | 33/100 |
 | 10 | [contextforge/contextforge-mcp](./contextforge-contextforge-mcp.md) | ⭐ — | — | 32/100 |
 | 11 | [altrudev/lullwire-relay-php](./altrudev-lullwire-relay-php.md) | ⭐ — | — | 24/100 |
 | 12 | [vrfrequency/lullwire-relay-php](./vrfrequency-lullwire-relay-php.md) | ⭐ — | — | 24/100 |
