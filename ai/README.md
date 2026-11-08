@@ -23,9 +23,9 @@
 | 13 | [perceptcore/ai-client-hunter](./perceptcore-ai-client-hunter.md) | ⭐ 1 | — | 56/100 |
 | 14 | [meta-taro/dbboard](./meta-taro-dbboard.md) | ⭐ — | Rust | 56/100 |
 | 15 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
-| 16 | [CtrlAltDelete-Ops/opentuple](./ctrlaltdelete-ops-opentuple.md) | ⭐ 1 | Go | 55/100 |
-| 17 | [Zoymusk/code-review-duel](./zoymusk-code-review-duel.md) | ⭐ — | — | 54/100 |
-| 18 | [sadrmanesh/persian-rag](./sadrmanesh-persian-rag.md) | ⭐ 1 | Python | 54/100 |
+| 16 | [Zoymusk/code-review-duel](./zoymusk-code-review-duel.md) | ⭐ — | — | 54/100 |
+| 17 | [sadrmanesh/persian-rag](./sadrmanesh-persian-rag.md) | ⭐ 1 | Python | 54/100 |
+| 18 | [CtrlAltDelete-Ops/opentuple](./ctrlaltdelete-ops-opentuple.md) | ⭐ 1 | Go | 52/100 |
 | 19 | [chohra-med/second-brain-starter](./chohra-med-second-brain-starter.md) | ⭐ — | JavaScript | 52/100 |
 | 20 | [BigSmallXYZ/locked](./bigsmallxyz-locked.md) | ⭐ — | TypeScript | 51/100 |
 | 21 | [anwariqbaldawar/xSypher-Stream-Zero-Trust-Kernel-log-Telemetry](./anwariqbaldawar-xsypher-stream-zero-trust-kernel-log-telemetry.md) | ⭐ — | Python | 51/100 |
