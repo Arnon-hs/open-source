@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fastmcp/fastmcp](./fastmcp-fastmcp.md) | ⭐ — | — | 32/100 |
+| 1 | [cookieMonsterDev/kafka](./cookiemonsterdev-kafka.md) | ⭐ 6 | TypeScript | 54/100 |
 
 ---
 
