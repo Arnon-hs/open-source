@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44714** |
-| **Categories** | **706** |
+| **Projects** | **44721** |
+| **Categories** | **708** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -32,8 +32,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | ⚙️ **Backend** | 959 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 908 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 822 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 728 | [Browse →](./documents/) |
-| 📱 **Mobile** | 680 | [Browse →](./mobile/) |
+| 🏷️ **Documents** | 729 | [Browse →](./documents/) |
+| 📱 **Mobile** | 681 | [Browse →](./mobile/) |
 | 🏷️ **Networking** | 668 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 630 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 626 | [Browse →](./cloud--storage/) |
@@ -51,7 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 273 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 223 | [Browse →](./trading/) |
 | ✨ **Design** | 191 | [Browse →](./design/) |
-| 🏷️ **Ai** | 171 | [Browse →](./ai/) |
+| 🏷️ **Ai** | 172 | [Browse →](./ai/) |
 | 🏷️ **Vertical-video** | 158 | [Browse →](./vertical-video/) |
 | 🏷️ **Content-creation** | 156 | [Browse →](./content-creation/) |
 | 🏷️ **Ai-agents** | 55 | [Browse →](./ai-agents/) |
@@ -99,6 +99,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ios** | 5 | [Browse →](./ios/) |
 | 🏷️ **Hacktoberfest** | 5 | [Browse →](./hacktoberfest/) |
 | 🏷️ **Wordpress** | 5 | [Browse →](./wordpress/) |
+| 🏷️ **Nodejs** | 4 | [Browse →](./nodejs/) |
 | 🏷️ **Comfyui** | 4 | [Browse →](./comfyui/) |
 | 🏷️ **Agent** | 4 | [Browse →](./agent/) |
 | 🏷️ **Npm** | 4 | [Browse →](./npm/) |
@@ -128,7 +129,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Chatbot** | 3 | [Browse →](./chatbot/) |
 | 🏷️ **Appium** | 3 | [Browse →](./appium/) |
 | 🏷️ **C** | 3 | [Browse →](./c/) |
-| 🏷️ **Nodejs** | 3 | [Browse →](./nodejs/) |
 | 🌐 **Open Source** | 3 | [Browse →](./opensource/) |
 | 🏷️ **Whisper** | 3 | [Browse →](./whisper/) |
 | 🏷️ **History** | 3 | [Browse →](./history/) |
@@ -155,6 +155,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Planetary-robotics** | 2 | [Browse →](./planetary-robotics/) |
 | 🏷️ **Devops** | 2 | [Browse →](./devops/) |
 | 🏷️ **Nuxt** | 2 | [Browse →](./nuxt/) |
 | 🏷️ **Open-data** | 2 | [Browse →](./open-data/) |
@@ -248,6 +249,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Image-compression** | 1 | [Browse →](./image-compression/) |
 | 🏷️ **Minimax** | 1 | [Browse →](./minimax/) |
 | 🏷️ **Billing** | 1 | [Browse →](./billing/) |
 | 🏷️ **Portfolio** | 1 | [Browse →](./portfolio/) |
