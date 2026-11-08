@@ -519,8 +519,8 @@
 | 509 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 458 | Java | 44/100 |
 | 510 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 510 | Kotlin | 44/100 |
 | 511 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 5 | Kotlin | 43/100 |
-| 512 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 642 | — | 43/100 |
-| 513 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 879 | — | 43/100 |
+| 512 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 879 | — | 43/100 |
+| 513 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 642 | — | 43/100 |
 | 514 | [kuscholar/iDeck](./kuscholar-ideck.md) | ⭐ 5 | C | 43/100 |
 | 515 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 1 | JavaScript | 43/100 |
 | 516 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 7 | Kotlin | 43/100 |
