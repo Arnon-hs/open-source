@@ -2,7 +2,7 @@
 
 > 
 
-**4 projects** in this category.
+**3 projects** in this category.
 
 ## Projects
 
@@ -10,8 +10,7 @@
 |---|---|---|---|---|
 | 1 | [wookat/agentgate](./wookat-agentgate.md) | ⭐ — | TypeScript | 60/100 |
 | 2 | [ZenyaDAR/humanloads](./zenyadar-humanloads.md) | ⭐ 1 | TypeScript | 48/100 |
-| 3 | [Ackberry/exorcist](./ackberry-exorcist.md) | ⭐ — | TypeScript | 39/100 |
-| 4 | [alpha018/skills](./alpha018-skills.md) | ⭐ — | — | 24/100 |
+| 3 | [alpha018/skills](./alpha018-skills.md) | ⭐ — | — | 24/100 |
 
 ---
 

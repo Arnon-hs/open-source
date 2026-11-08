@@ -2,14 +2,13 @@
 
 > 
 
-**2 projects** in this category.
+**1 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [callmegautam/discord-mcp](./callmegautam-discord-mcp.md) | ⭐ — | TypeScript | 55/100 |
-| 2 | [Gusarovv/discord-card-canvas](./gusarovv-discord-card-canvas.md) | ⭐ 32 | TypeScript | 51/100 |
+| 1 | [Gusarovv/discord-card-canvas](./gusarovv-discord-card-canvas.md) | ⭐ 32 | TypeScript | 51/100 |
 
 ---
 

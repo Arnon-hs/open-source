@@ -21,7 +21,7 @@ _no topics_
 
 ## 🎯 Categories
 
-MCP · security · CI · GitHub Actions · runtime testing · protocolprobe
+MCP · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ protocolprobe/protocolprobe-tools: protocolprobe/protocolprobe-tools helps conne
 
 ### Русский
 
-protocolprobe/protocolprobe-tools: open-source проект в категориях MCP, security, CI, GitHub Actions, runtime testing, protocolprobe. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+protocolprobe/protocolprobe-tools: open-source проект в категориях MCP, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -62,18 +62,18 @@ protocolprobe/protocolprobe-tools：protocolprobe/protocolprobe-tools helps conn
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 31/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 600/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 0/100 |
+| outlook | 50/100 |
+| quality | 31/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
