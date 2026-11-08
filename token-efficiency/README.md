@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ECG-Rudy-Glt/RELAI](./ecg-rudy-glt-relai.md) | ⭐ 1 | Go | 63/100 |
+| 1 | [ECG-Rudy-Glt/RELAI](./ecg-rudy-glt-relai.md) | ⭐ 1 | Go | 60/100 |
 
 ---
 
