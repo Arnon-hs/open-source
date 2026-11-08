@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Adel1637/hr-dashboard-lite](./adel1637-hr-dashboard-lite.md) | ⭐ — | Python | 66/100 |
+| 1 | [Adel1637/hr-dashboard-lite](./adel1637-hr-dashboard-lite.md) | ⭐ — | Python | 63/100 |
 
 ---
 
