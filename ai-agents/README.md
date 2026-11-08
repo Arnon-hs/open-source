@@ -26,11 +26,11 @@
 | 16 | [Xuefeng-Zhu/commitment-lab](./xuefeng-zhu-commitment-lab.md) | ⭐ — | Python | 39/100 |
 | 17 | [JakeBurwick/vow](./jakeburwick-vow.md) | ⭐ 2 | JavaScript | 39/100 |
 | 18 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |
-| 19 | [checocadena/museport](./checocadena-museport.md) | ⭐ — | C++ | 36/100 |
-| 20 | [Deepanshu-2006/Summit](./deepanshu-2006-summit.md) | ⭐ — | Go | 36/100 |
-| 21 | [anthropic/claude-agent-sdk](./anthropic-claude-agent-sdk.md) | ⭐ — | — | 36/100 |
-| 22 | [rafaeladriano-web/aurafarming](./rafaeladriano-web-aurafarming.md) | ⭐ — | TypeScript | 36/100 |
-| 23 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 34/100 |
+| 19 | [Deepanshu-2006/Summit](./deepanshu-2006-summit.md) | ⭐ — | Go | 36/100 |
+| 20 | [anthropic/claude-agent-sdk](./anthropic-claude-agent-sdk.md) | ⭐ — | — | 36/100 |
+| 21 | [rafaeladriano-web/aurafarming](./rafaeladriano-web-aurafarming.md) | ⭐ — | TypeScript | 36/100 |
+| 22 | [Revaldo143/time-machine](./revaldo143-time-machine.md) | ⭐ 1 | Python | 34/100 |
+| 23 | [checocadena/museport](./checocadena-museport.md) | ⭐ — | C++ | 33/100 |
 | 24 | [RamyaRamachandran-driod/emergency-caller](./ramyaramachandran-driod-emergency-caller.md) | ⭐ — | TypeScript | 33/100 |
 | 25 | [TarunMhanta30/multiverse](./tarunmhanta30-multiverse.md) | ⭐ — | Python | 33/100 |
 | 26 | [example/cli-seat](./example-cli-seat.md) | ⭐ — | — | 32/100 |
