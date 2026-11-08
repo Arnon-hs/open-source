@@ -15,8 +15,8 @@
 | 5 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 50/100 |
 | 6 | [thoughtpivot/scribe](./thoughtpivot-scribe.md) | ⭐ 4 | TypeScript | 49/100 |
 | 7 | [DeadY2J/skills-es](./deady2j-skills-es.md) | ⭐ — | Python | 45/100 |
-| 8 | [thoughtpivot/flight](./thoughtpivot-flight.md) | ⭐ 1 | TypeScript | 44/100 |
-| 9 | [mukuvi/doorman](./mukuvi-doorman.md) | ⭐ — | Python | 42/100 |
+| 8 | [mukuvi/doorman](./mukuvi-doorman.md) | ⭐ — | Python | 42/100 |
+| 9 | [thoughtpivot/flight](./thoughtpivot-flight.md) | ⭐ 1 | TypeScript | 41/100 |
 | 10 | [meshach5667/AgentMeshh](./meshach5667-agentmeshh.md) | ⭐ — | Python | 38/100 |
 | 11 | [dotexeYash/ECO-QUEST](./dotexeyash-eco-quest.md) | ⭐ — | TypeScript | 36/100 |
 | 12 | [vrRanjith/ghostcommit](./vrranjith-ghostcommit.md) | ⭐ — | Python | 36/100 |
