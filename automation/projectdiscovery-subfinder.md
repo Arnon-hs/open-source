@@ -1,6 +1,6 @@
 # projectdiscovery/subfinder
 
-[![Stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=flat-square&color=yellow)](https://github.com/projectdiscovery/subfinder/stargazers) [![Forks](https://img.shields.io/github/forks/projectdiscovery/subfinder?style=flat-square&color=blue)](https://github.com/projectdiscovery/subfinder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=flat-square&color=yellow)](https://github.com/projectdiscovery/subfinder/stargazers) [![Forks](https://img.shields.io/github/forks/projectdiscovery/subfinder?style=flat-square&color=blue)](https://github.com/projectdiscovery/subfinder/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Fast passive subdomain enumeration tool.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 14.7k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ automation · attack surface · CVEngine · subdomain enumeration · HTTP probin
 
 ### English
 
-projectdiscovery/subfinder: projectdiscovery/subfinder may be useful when its README and activity match a concrete workflow.. Use it for automation, attack surface, CVEngine, subdomain enumeration, HTTP probing. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+projectdiscovery/subfinder: projectdiscovery/subfinder may be useful when its README and activity match a concrete workflow.. Use it for automation, attack surface, CVEngine, subdomain enumeration, HTTP probing. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-projectdiscovery/subfinder: open-source проект в категориях automation, attack surface, CVEngine, subdomain enumeration, HTTP probing. Практическое применение: нужна ручная оценка сценария. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+projectdiscovery/subfinder: open-source проект в категориях automation, attack surface, CVEngine, subdomain enumeration, HTTP probing. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-projectdiscovery/subfinder：projectdiscovery/subfinder may be useful when its README and activity match a concrete workflow.。适合用于automation、attack surface、CVEngine、subdomain enumeration、HTTP probing。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+projectdiscovery/subfinder：projectdiscovery/subfinder may be useful when its README and activity match a concrete workflow.。适合用于automation、attack surface、CVEngine、subdomain enumeration、HTTP probing。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ projectdiscovery/subfinder：projectdiscovery/subfinder may be useful when its R
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ projectdiscovery/subfinder：projectdiscovery/subfinder may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 87/100 |
+| quality | 82/100 |
 | integration | 46/100 |
-| production | 76/100 |
-| outlook | 84/100 |
+| production | 70/100 |
+| outlook | 77/100 |
 | adoption | 86/100 |
 | categoryMatchCount | 500/100 |
 | stars | 89/100 |
 | forks | 80/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

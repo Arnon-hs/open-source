@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Arthur031221/OohAlive](./arthur031221-oohalive.md) | ⭐ — | JavaScript | 45/100 |
+| 1 | [Arthur031221/OohAlive](./arthur031221-oohalive.md) | ⭐ — | JavaScript | 42/100 |
 | 2 | [mudit-palvadi/still](./mudit-palvadi-still.md) | ⭐ — | TypeScript | 33/100 |
 
 ---
