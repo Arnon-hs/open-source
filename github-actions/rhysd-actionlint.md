@@ -1,6 +1,6 @@
 # rhysd/actionlint
 
-[![Stars](https://img.shields.io/github/stars/rhysd/actionlint?style=flat-square&color=yellow)](https://github.com/rhysd/actionlint/stargazers) [![Forks](https://img.shields.io/github/forks/rhysd/actionlint?style=flat-square&color=blue)](https://github.com/rhysd/actionlint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rhysd/actionlint?style=flat-square&color=yellow)](https://github.com/rhysd/actionlint/stargazers) [![Forks](https://img.shields.io/github/forks/rhysd/actionlint?style=flat-square&color=blue)](https://github.com/rhysd/actionlint/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > :octocat: Static checker for GitHub Actions workflow files
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.4k |
 | 🍴 **Forks** | 294 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ rhysd/actionlint：rhysd/actionlint may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 78/100 |
+| production | 66/100 |
+| outlook | 71/100 |
 | adoption | 73/100 |
 | categoryMatchCount | 600/100 |
 | stars | 78/100 |
 | forks | 62/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
