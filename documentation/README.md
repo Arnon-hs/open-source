@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [typicode/json-server](./typicode-json-server.md) | ⭐ 75.7k | JavaScript | 73/100 |
+| 1 | [typicode/json-server](./typicode-json-server.md) | ⭐ 75.7k | JavaScript | 70/100 |
 | 2 | [thallylabs/thally](./thallylabs-thally.md) | ⭐ 7 | TypeScript | 44/100 |
 | 3 | [N-Garai/DocDrift](./n-garai-docdrift.md) | ⭐ — | TypeScript | 36/100 |
 | 4 | [.../openapi.yaml](./...-openapi.yaml.md) | ⭐ — | — | 32/100 |

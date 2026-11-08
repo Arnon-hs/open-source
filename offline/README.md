@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 1 | JavaScript | 57/100 |
-| 2 | [RZEROSTERN/hacktoberfest-week4](./rzerostern-hacktoberfest-week4.md) | ⭐ — | Python | 39/100 |
-| 3 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 37/100 |
+| 2 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 37/100 |
+| 3 | [RZEROSTERN/hacktoberfest-week4](./rzerostern-hacktoberfest-week4.md) | ⭐ — | Python | 36/100 |
 | 4 | [parnita-Singh/PDFme-week3](./parnita-singh-pdfme-week3.md) | ⭐ 1 | Python | 34/100 |
 | 5 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 33/100 |
 | 6 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 33/100 |
