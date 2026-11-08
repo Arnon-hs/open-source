@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [codie1982/chorono-editor](./codie1982-chorono-editor.md) | ⭐ 1 | TypeScript | 56/100 |
+| 1 | [codie1982/chorono-editor](./codie1982-chorono-editor.md) | ⭐ 1 | TypeScript | 53/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [casareanderson/warden](./casareanderson-warden.md) | ⭐ — | Python | 52/100 |
+| 1 | [louislam/dockge](./louislam-dockge.md) | ⭐ 24.8k | TypeScript | 78/100 |
 
 ---
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [B2ZO0/netcockpit](./b2zo0-netcockpit.md) | ⭐ — | JavaScript | 39/100 |
+| 1 | [B2ZO0/netcockpit](./b2zo0-netcockpit.md) | ⭐ — | JavaScript | 36/100 |
 
 ---
 
