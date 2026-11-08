@@ -33,7 +33,11 @@ AI/ML
 
 **Practical Adoption Path:** To adopt PrismFlowAgent, developers need to manually inspect the system before integration due to sparse integration signals in the metadata. This involves reviewing the code, dependencies, and maintenance requirements. Once integrated, the system can be used to build prototypes, internal workflows, or even production-ready applications, depending on the level of testing and validation performed.
 
-**Production Readiness:** PrismFlowAgent has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, before deploying it in production, developers should perform thorough dependency and maintenance checks to ensure its stability and security. Additionally, a
+**Production Readiness:** PrismFlowAgent has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, before deploying it in production, developers should perform thorough dependency and maintenance checks to ensure its stability and security.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/justlovemaki/PrismFlowAgent).
 
 ### Русский
 

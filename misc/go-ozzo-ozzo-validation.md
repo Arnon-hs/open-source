@@ -41,7 +41,10 @@ go-ozzo/ozzo-validation is an open-source Go package for idiomatic validation, a
 1. **Evaluate the package**: Assess the package's features, documentation, and community support.
 2. **Start with a small proof of concept**: Implement a small project or prototype to test the package's capabilities and identify potential issues.
 3. **Read and review the README**: Understand the package's architecture, usage, and best practices.
-4. **Integrate with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/go-ozzo/ozzo-validation).
 
 ### Русский
 

@@ -37,7 +37,11 @@ Ethercrab offers significant value by automating repetitive manual tasks, reduci
 To adopt Ethercrab, users should start with a small proof of concept to evaluate its feasibility and understand the integration process. This involves reviewing the project's README documentation and assessing the setup cost before committing to a full-scale implementation. A thorough evaluation of the project's dependencies and maintenance requirements is also essential to ensure a smooth production deployment.
 
 **Production Readiness:**
-Ethercrab has a moderate production readiness score, indicating that it is suitable for prototype development or internal workflows. However, users should exercise caution and conduct thorough dependency and maintenance checks before deploying it in a production environment. With proper evaluation and
+Ethercrab has a moderate production readiness score, indicating that it is suitable for prototype development or internal workflows. However, users should exercise caution and conduct thorough dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ethercrab-rs/ethercrab).
 
 ### Русский
 

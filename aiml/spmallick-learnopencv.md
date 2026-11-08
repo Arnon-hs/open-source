@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, users can start by evaluating the code and examples in the repository, and then use them as a starting point for their own projects. A small proof of concept and a review of the README file can help ensure a smooth integration. Users can then prototype AI features, build RAG or agent workflows, and evaluate model tooling using the provided examples.
 
-**Production Readiness:** The project has a high production readiness score, indicating that it's a strong candidate for serious pilot projects. Its recent activity, strong adoption, and ecosystem signals suggest that
+**Production Readiness:** The project has a high production readiness score, indicating that it's a strong candidate for serious pilot projects.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/spmallick/learnopencv).
 
 ### Русский
 

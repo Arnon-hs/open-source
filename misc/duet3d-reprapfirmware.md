@@ -40,7 +40,9 @@ Here's a brief summary and explanation of the project:
 3. Validate the setup cost and potential maintenance requirements before committing to the project.
 4. Perform thorough dependency and maintenance checks to ensure the project's production readiness.
 
-**Production readiness:** The project's production readiness is medium, indicating that it is suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Duet3D/RepRapFirmware).
 
 ### Русский
 

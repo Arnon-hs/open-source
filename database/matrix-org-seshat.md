@@ -35,7 +35,11 @@ Here's a brief summary of the matrix-org/seshat project:
 
 **Practical Adoption Path:** To adopt matrix-org/seshat, organizations should first carefully inspect the integration requirements and validate the setup costs involved. This may involve manual configuration and testing to ensure seamless integration with existing systems. Once the setup costs are validated, organizations can begin to integrate matrix-org/seshat into their workflows, starting with small-scale prototypes or internal projects.
 
-**Production Readiness:** matrix-org/seshat has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, it may require additional dependency and maintenance checks before being considered for
+**Production Readiness:** matrix-org/seshat has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/matrix-org/seshat).
 
 ### Русский
 

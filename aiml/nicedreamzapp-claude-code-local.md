@@ -40,8 +40,9 @@ The adoption path for this project appears straightforward, with clear implement
 2. Assess the project's language metadata and focused topics to ensure alignment with their needs.
 3. Integrate the project into their existing workflows, leveraging its API/SDK/CLI.
 
-**Production Readiness:**
-The project demonstrates high production readiness, with recent activity, adoption, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nicedreamzapp/claude-code-local).
 
 ### Русский
 
@@ -51,7 +52,11 @@ nicedreamzapp/claude-code-local - это open-source проект, которы�
 
 В типовом сценарии внедрения проект помогает автоматизировать повторяющиеся задачи и соединить различные инструменты в повторяющиеся потоки. Это может быть особенно полезно для рабочих процессов, связанных с НДД, юридическими или медицинскими работами.
 
-Проект демонстрирует хорошие показатели качества, включая большую базу пользователей (3083 GitHub звезды) и регулярную поддержку. Однако необходимо провести тщательный обзор лицензии, безопасности и активности разработчиков, чтобы исключить потенци
+Проект демонстрирует хорошие показатели качества, включая большую базу пользователей (3083 GitHub звезды) и регулярную поддержку.
+
+## Перед использованием
+
+Проверьте актуальную документацию, условия лицензии, зависимости и состояние поддержки с учетом своей задачи. [Открыть источник](https://github.com/nicedreamzapp/claude-code-local).
 
 ### 中文
 

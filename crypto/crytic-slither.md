@@ -39,7 +39,11 @@ The practical adoption path for crytic/slither involves:
 2. Reviewing the README documentation to get familiar with the tool's usage and functionality.
 3. Integrating crytic/slither into existing projects or workflows to explore its benefits and potential use cases.
 
-crytic/slither's production readiness is high, thanks to its recent activity, adoption, and strong ecosystem signals. However, it's essential to
+crytic/slither's production readiness is high, thanks to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/crytic/slither).
 
 ### Русский
 

@@ -40,8 +40,9 @@ The primary value of this project lies in its ability to provide AI capabilities
 3. **Inspect Integration Notes:** Manual inspection is required before adoption due to sparse integration signals in the discovered metadata.
 4. **Verify License and Maintenance:** Ensure the model's license and maintenance are suitable for your project's needs.
 
-**Production Readiness:** 
-Due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-japanese).
 
 ### Русский
 

@@ -45,7 +45,10 @@ To adopt EmuReady, developers can follow these steps:
 
 1. Evaluate the platform through a small proof of concept to ensure it meets their needs.
 2. Review the README documentation to understand the platform's architecture and usage.
-3. Integrate EmuReady into their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Producdevity/EmuReady).
 
 ### Русский
 

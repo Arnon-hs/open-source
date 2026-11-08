@@ -41,7 +41,11 @@ To adopt josephg/diamond-types, engineers should first manually inspect the proj
 
 **Production Readiness:**
 
-The production readiness of josephg/diamond-types is medium due to the need for manual inspection and dependency checks before adoption. While the project has 1822 GitHub stars and
+The production readiness of josephg/diamond-types is medium due to the need for manual inspection and dependency checks before adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/josephg/diamond-types).
 
 ### Русский
 

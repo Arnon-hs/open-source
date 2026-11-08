@@ -67,7 +67,10 @@ aws/sagemaker-python-sdk 是一个用于在 Amazon SageMaker 上训练和部署�
 
 1. 相对活跃的维护：最近有活动，社区采用率较高。
 2. 强大的生态系统：有大量的 GitHub star 和 fork，表明该库有很强的社区支持。
-3.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/aws/sagemaker-python-sdk)。
 
 ## 🧭 Practical evaluation
 

@@ -40,7 +40,11 @@ Engramma Memory is an open-source project that enables the addition of AI capabi
 
 **Production Readiness:**
 
-Engramma Memory is considered medium production-ready, making it suitable for internal workflows and prototypes. However, it's crucial to perform thorough checks and verifications before deploying it in a production environment. This project's limited quality signals and
+Engramma Memory is considered medium production-ready, making it suitable for internal workflows and prototypes. However, it's crucial to perform thorough checks and verifications before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/engramma-ai/engramma-memory).
 
 ### Русский
 

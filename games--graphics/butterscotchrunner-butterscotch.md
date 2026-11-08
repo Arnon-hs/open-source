@@ -31,7 +31,11 @@ We need to write a brief summary (2-3 sentences) for this open-source project. S
 
 We have description: open-source re-implementation of GameMaker: Studio's runner (YoYo Runner), targeting Undertale v1.08 (WAD Version 16). Value proposition: helps add AI capability without starting from a blank model stack. Use cases: prototype AI features; build RAG or agent workflows; evaluate model tooling. Integration notes: straightforward to evaluate: exposes implementation signals. Production readiness: high for OSS candidate: recent activity, adoption, ecosystem signals strong enough for a serious pilot. Quality signals: stars, forks, updated 2026-07-14, primary language C, 20 topics. Risks: license, security, maintainers need review.
 
-We need to write a brief summary 2-3 sentences covering value, practical adoption path, production readiness. Let's craft: "ButterscotchRunner/Butterscotch provides an open‑source re‑implementation of GameMaker: Studio’s runner, enabling developers to plug AI features into Undertale‑style games without building a model stack from
+We need to write a brief summary 2-3 sentences covering value, practical adoption path, production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ButterscotchRunner/Butterscotch).
 
 ### Русский
 

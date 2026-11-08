@@ -37,7 +37,11 @@ The primary value of l0ng-ai/tty7 lies in its ability to simplify the integratio
 
 **Practical Adoption Path:**
 
-To adopt l0ng-ai/tty7, developers should start by evaluating the project's metadata, particularly the README, to understand its architecture and integration requirements. A small proof-of-concept should be built to validate the setup cost and feasibility of integration. Once these initial steps are completed, developers can begin integrating l0ng-ai/tty7 into their workflows, leveraging its features to
+To adopt l0ng-ai/tty7, developers should start by evaluating the project's metadata, particularly the README, to understand its architecture and integration requirements. A small proof-of-concept should be built to validate the setup cost and feasibility of integration.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/l0ng-ai/tty7).
 
 ### Русский
 

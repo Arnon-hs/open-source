@@ -36,8 +36,9 @@ The value proposition of Agoragentic Integrations lies in its ability to help de
 **Practical Adoption Path:**
 To adopt Agoragentic Integrations, developers can start by exploring the project's repository and documentation. They can then choose to integrate the project's adapters and SDKs into their own projects, leveraging the discovery catalog to find relevant tools and libraries. The project's straightforward evaluation process makes it easy to get started, and its recent activity and adoption signals indicate a strong and active community.
 
-**Production Readiness:**
-Agoragentic Integrations has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rhein1/agoragentic-integrations).
 
 ### Русский
 

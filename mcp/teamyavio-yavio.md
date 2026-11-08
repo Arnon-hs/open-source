@@ -41,7 +41,10 @@ To adopt teamyavio/yavio, developers can follow these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. Assess the project's production readiness, considering factors like dependency and maintenance checks.
 3. Review the project's license, security posture, and maintainers to ensure it meets their needs.
-4. Integrate teamyavio/yavio with their AI assistants and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/teamyavio/yavio).
 
 ### Русский
 

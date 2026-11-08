@@ -38,7 +38,10 @@ Here's a brief summary and analysis of the AppachiTech/suvadu project:
 1. **Evaluating the project**: Developers can evaluate suvadu by reviewing its codebase, documentation, and community activity.
 2. **Integrating with AI agents**: Developers can integrate suvadu with their AI agents using the provided API, SDK, and CLI.
 3. **Deploying the MCP server**: Developers can deploy the MCP server to enable the connection of AI agents with real tools and data.
-4. **Standardizing integrations**: Developers can
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AppachiTech/suvadu).
 
 ### Русский
 

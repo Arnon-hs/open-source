@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers should start by evaluating its feasibility through a small proof of concept and carefully reviewing the README documentation. This will help them understand the integration process and potential setup costs involved. Once they have a clear understanding of the package's functionality and requirements, they can proceed with integrating it into their project. It's essential to validate the setup cost and potential risks before committing to using the package in production.
 
-**Production Readiness:** While avishayil/react-native-restart is a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/avishayil/react-native-restart).
 
 ### Русский
 

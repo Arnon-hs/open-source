@@ -40,7 +40,10 @@ The primary value proposition of s-morgan-jeffries/apple-mail-fast-mcp lies in i
 To adopt s-morgan-jeffries/apple-mail-fast-mcp, users can follow these steps:
 
 1. **Evaluate the project**: Assess the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
-2. **Integrate with AI assistants**: Connect the project with popular AI assistants, such as Claude Desktop, to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/s-morgan-jeffries/apple-mail-fast-mcp).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Value: The project helps developers add AI capabilities to their apps without re
 
 Practical Adoption Path: To adopt this project, developers can start by evaluating its feasibility through a small proof-of-concept and checking the README documentation. This will help them validate the setup cost and potential integration challenges before committing to a larger-scale implementation.
 
-Production Readiness: The project's production readiness is medium, indicating that it can be useful for internal workflows or proof-of-concept projects but requires additional checks and validation before deployment in a production environment. This is due to the need for dependency and
+Production Readiness: The project's production readiness is medium, indicating that it can be useful for internal workflows or proof-of-concept projects but requires additional checks and validation before deployment in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wordpress-mobile/AztecEditor-iOS).
 
 ### Русский
 

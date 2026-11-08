@@ -37,8 +37,9 @@ The project offers a standardized deployment and automation of operations for Ha
 **Practical Adoption Path:**
 To adopt the bank-vaults/vault-operator, organizations can start by reviewing the project's documentation and GitHub repository. They should then perform manual inspection before adoption due to sparse integration signals in the discovered metadata. This involves careful evaluation of the project's license, security posture, and active maintainers to ensure it aligns with their organization's needs and standards.
 
-**Production Readiness:**
-The project has a moderate production readiness score of 50%, indicating that it's suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bank-vaults/vault-operator).
 
 ### Русский
 

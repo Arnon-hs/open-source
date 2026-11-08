@@ -37,7 +37,10 @@ The practical adoption path for the project involves the following steps:
 
 1. Manual inspection: Before adopting the project, users need to inspect the code and its integration signals to understand how it can be integrated into their workflow.
 2. Validation: Users should validate the setup cost and potential risks associated with integrating the project into their workflow.
-3. Dependency and maintenance checks: Users should perform dependency and maintenance checks to ensure that the project is compatible with their existing infrastructure and can be
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/XtrLumen/FS-Enhancer-Extreme).
 
 ### Русский
 

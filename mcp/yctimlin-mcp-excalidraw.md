@@ -79,7 +79,9 @@ yctimlin/mcp_excalidraw 是一个开源项目，旨在连接 AI 代理与实时�
 * 强大的开源生态系统信号
 * 高星数（2242）和 Fork 数（243）
 
-但是，
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/yctimlin/mcp_excalidraw)。
 
 ## 🧭 Practical evaluation
 

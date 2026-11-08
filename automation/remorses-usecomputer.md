@@ -40,7 +40,11 @@ Here's a brief summary of the open-source project:
 3. Schedule operational tasks and integrate the tool into your workflows.
 4. Monitor and refine the integration as needed to optimize its performance and effectiveness.
 
-**Production Readiness:** remorses/usecomputer has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows. Before deploying it in a
+**Production Readiness:** remorses/usecomputer has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/remorses/usecomputer).
 
 ### Русский
 

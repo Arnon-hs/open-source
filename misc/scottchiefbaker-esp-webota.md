@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt scottchiefbaker/ESP-WebOTA, users should start with a small proof of concept to evaluate the integration process. A thorough review of the README documentation is also recommended to ensure a smooth setup. Once the basics are understood, users can begin to integrate the project into their workflow, starting with small-scale deployments and gradually scaling up to larger projects.
 
-**Production Readiness:** While scottchiefbaker/ESP-WebOTA has a medium production readiness score, it is still a viable option for prototype development and internal workflows. However, users should exercise caution and conduct thorough dependency and
+**Production Readiness:** While scottchiefbaker/ESP-WebOTA has a medium production readiness score, it is still a viable option for prototype development and internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/scottchiefbaker/ESP-WebOTA).
 
 ### Русский
 

@@ -71,7 +71,11 @@ cryptoadvance/specter-desktop 的价值在于它提供了一个开源和可定�
 
 **生产可用性**
 
-Specter-desktop 的生产可用性是中等的。它在 GitHub 上拥有 837 个星星和 254 个分支，这表明它是一个活跃的项目。但是，
+Specter-desktop 的生产可用性是中等的。它在 GitHub 上拥有 837 个星星和 254 个分支，这表明它是一个活跃的项目。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/cryptoadvance/specter-desktop)。
 
 ## 🧭 Practical evaluation
 

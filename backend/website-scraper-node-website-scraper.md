@@ -41,7 +41,11 @@ To integrate Node-Website-Scraper into your workflow, it's recommended to start 
 
 **Production Readiness:**
 
-Node-Website-Scraper has a medium production readiness score, making it suitable for use in prototypes or internal workflows. While it has a large community following (1742 GitHub stars) and regular updates, there are some concerns regarding the integration path and
+Node-Website-Scraper has a medium production readiness score, making it suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/website-scraper/node-website-scraper).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt this project, developers can start by exploring the available plugins a
 
 **Production Readiness**
 
-The project's production readiness is high, with recent activity, adoption, and a strong ecosystem. The presence of
+The project's production readiness is high, with recent activity, adoption, and a strong ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/microsoft/power-platform-skills).
 
 ### Русский
 

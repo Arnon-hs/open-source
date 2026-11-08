@@ -35,7 +35,11 @@ Here's a summary of the project:
 
 **Practical Adoption Path:** For practical adoption, developers can start by evaluating the SDK's implementation signals, such as API, SDK, CLI, language metadata, and focused topics. They can also assess the project's production readiness, which is high due to recent activity, adoption, and ecosystem signals. To ensure a smooth adoption path, developers should review the license, security posture, and active maintainers of the project.
 
-**Production Readiness:** The production readiness of the project is high, with recent activity, adoption, and ecosystem signals indicating a strong and stable project. The project has a large number of GitHub stars (60) and
+**Production Readiness:** The production readiness of the project is high, with recent activity, adoption, and ecosystem signals indicating a strong and stable project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hiero-ledger/hiero-sdk-python).
 
 ### Русский
 
@@ -66,7 +70,10 @@ hiero-ledger/hiero-sdk-python 是一个用于 Hiero 的 Python SDK，用于创�
 该项目的生产可用性很高，因为它具有以下特点：
 
 1. 活跃维护者：项目最近有活动维护者，确保项目的稳定性和安全性。
-2. 强大的生态系统：项目具有强大的生态系统支持，包括
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/hiero-ledger/hiero-sdk-python)。
 
 ## 🧭 Practical evaluation
 

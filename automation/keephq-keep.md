@@ -38,7 +38,11 @@ Keep helps organizations streamline their workflows by eliminating manual, repet
 To adopt Keep in a production environment, it is recommended to start with a small proof of concept and a thorough review of the project's README. This will help evaluate the feasibility of integrating Keep with existing tools and workflows. With its strong ecosystem and recent activity, users can expect a relatively smooth onboarding process.
 
 **Production Readiness:**
-Keep demonstrates a high level of production readiness, with 9,195 GitHub stars, 1,423 forks, and recent activity (updated in 2026). Its primary language is Python, and it covers 10 topics, indicating a robust and versatile platform. Although a
+Keep demonstrates a high level of production readiness, with 9,195 GitHub stars, 1,423 forks, and recent activity (updated in 2026). Its primary language is Python, and it covers 10 topics, indicating a robust and versatile platform.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/keephq/keep).
 
 ### Русский
 

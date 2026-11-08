@@ -42,8 +42,9 @@ To adopt OrthoRoute, follow these steps:
 3. Evaluate the project's dependencies and perform necessary checks to ensure compatibility with your existing infrastructure.
 4. Perform a manual inspection of the routed designs to ensure accuracy and quality.
 
-**Production Readiness:**
-OrthoRoute is considered production-ready for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bbenchoff/OrthoRoute).
 
 ### Русский
 

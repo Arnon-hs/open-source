@@ -39,9 +39,9 @@ The value proposition of Plumb a PDF lies in its ability to simplify the process
 
 To adopt Plumb a PDF, developers should first verify the project's license, maintenance, documentation, issues, and release cadence to ensure it meets their needs. A manual inspection of the code and integration signals is also necessary to assess its compatibility with their existing systems. Once these checks are complete, developers can integrate Plumb a PDF into their workflows, leveraging its capabilities to enhance their AI features.
 
-**Production Readiness:**
+## Before adopting
 
-Despite its potential, Plumb a PDF's production readiness is medium due to the
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jsvine/pdfplumber).
 
 ### Русский
 

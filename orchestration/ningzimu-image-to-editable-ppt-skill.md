@@ -36,7 +36,11 @@ The value proposition of this project lies in its ability to streamline workflow
 The practical adoption path for this project involves a few steps:
 
 1. **Evaluation**: Start by evaluating the project's feasibility and potential impact on your use case. This can be done by checking the README file and creating a small proof of concept.
-2. **Integration**: Once you're satisfied with the project's potential, integrate it into your existing workflows. This may involve modifying your existing code or creating new pipelines to
+2. **Integration**: Once you're satisfied with the project's potential, integrate it into your existing workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ningzimu/image-to-editable-ppt-skill).
 
 ### Русский
 

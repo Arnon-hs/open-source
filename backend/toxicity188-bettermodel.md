@@ -48,7 +48,10 @@ To adopt BetterModel, teams can follow a straightforward integration process:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. Assess the project's production readiness, considering factors like recent activity, adoption, and ecosystem signals.
 3. Review the project's license, security posture, and active maintainers to ensure they align with the team's requirements.
-4. Integrate BetterModel into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/toxicity188/BetterModel).
 
 ### Русский
 

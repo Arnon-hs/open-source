@@ -43,7 +43,10 @@ To adopt VictoriaMetrics/helm-charts, users can follow these steps:
 2. Review the project's integration signals, such as API/SDK/CLI, language metadata, and focused topics.
 3. Assess the project's production readiness, considering factors like recent activity, adoption, and ecosystem signals.
 4. Pilot the project in a controlled environment to test its functionality and identify potential issues.
-5. Gradually integrate the project into their production environment, monitoring its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/VictoriaMetrics/helm-charts).
 
 ### Русский
 

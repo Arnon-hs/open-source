@@ -45,9 +45,9 @@ To adopt this project, users should follow these steps:
 4. Use the project for prototypes or internal workflows.
 5. Consider integrating it into production environments after thorough testing and verification.
 
-**Production Readiness:**
+## Before adopting
 
-The project has a medium production readiness score, indicating that it's suitable for prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bolt12/pet-report).
 
 ### Русский
 

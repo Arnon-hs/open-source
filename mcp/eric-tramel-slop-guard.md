@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** The adoption path for slop-guard involves evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. This project seems straightforward to evaluate, making it a good starting point for developers looking to integrate AI agents with various tools and systems. However, it's essential to conduct a final review of the license, security posture, and active maintainers before production deployment.
 
-**Production Readiness:** Slop-guard has a production-readiness score of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/eric-tramel/slop-guard).
 
 ### Русский
 

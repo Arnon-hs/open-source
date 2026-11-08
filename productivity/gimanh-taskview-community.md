@@ -38,7 +38,9 @@ Productivity · Backend
 3. **Prototype and Test:** Develop a prototype using TaskView to test its performance, scalability, and usability.
 4. **Integrate and Refine:** Once you're satisfied with the prototype, integrate TaskView into your existing workflow, refining the process as needed.
 
-**Production Readiness:** TaskView is considered medium-production ready, making it suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Gimanh/taskview-community).
 
 ### Русский
 

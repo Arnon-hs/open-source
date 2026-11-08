@@ -40,7 +40,10 @@ To adopt neplextech/commandkit, developers can follow these steps:
 2. Explore the project's GitHub repository and codebase to understand its architecture and implementation.
 3. Integrate neplextech/commandkit into their existing Discord.js application using the provided APIs, SDKs, or CLI tools.
 4. Configure and customize the project's features, such as analytics and feature flags, to meet their specific requirements.
-5. Test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/neplextech/commandkit).
 
 ### Русский
 

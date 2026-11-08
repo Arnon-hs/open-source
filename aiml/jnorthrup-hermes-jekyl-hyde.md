@@ -41,7 +41,11 @@ The project offers a convenient way to integrate AI capabilities into existing s
 4. If satisfied, integrate the project into your system and test its functionality.
 
 **Production Readiness:**
-The project is considered production-ready with medium readiness due to the need for manual inspection and verification of the project's quality signals. It is suitable for
+The project is considered production-ready with medium readiness due to the need for manual inspection and verification of the project's quality signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jnorthrup/hermes-jekyl-hyde).
 
 ### Русский
 

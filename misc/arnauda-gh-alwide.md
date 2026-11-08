@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt Alwide, developers can start by manually inspecting the project's metadata, dependencies, and documentation to ensure it meets their project's requirements. They can then integrate Alwide into their workflow, leveraging its features such as LSP and Tree-sitter to improve code completion, debugging, and analysis. However, due to the limited quality signals, it is essential to verify the project's license, maintenance, documentation, issues, and release cadence before using it in production.
 
-**Production Readiness:** Alwide is considered production-ready with a medium level of readiness. While it can be useful for prototypes or internal workflows, it is essential to
+**Production Readiness:** Alwide is considered production-ready with a medium level of readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/arnauda-gh/Alwide).
 
 ### Русский
 

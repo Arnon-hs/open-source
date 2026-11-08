@@ -45,9 +45,9 @@ To adopt AgentTerm, developers should:
 4. Evaluate the project's quality signals, such as its update frequency and topic coverage, to gauge its reliability.
 5. Consider conducting thorough testing and quality assurance before deploying AgentTerm in production.
 
-**Production Readiness**
+## Before adopting
 
-AgentTerm is considered production-ready with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/albertwujj/agent-term).
 
 ### Русский
 

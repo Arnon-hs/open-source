@@ -37,7 +37,11 @@ The ai-memory-gateway provides significant value by automating repetitive tasks,
 To adopt the ai-memory-gateway, users should start with a small proof of concept and carefully review the README documentation. This will help evaluate the project's feasibility and identify potential integration challenges. Once the proof of concept is successful, users can scale up the adoption, ensuring proper dependency and maintenance checks are in place.
 
 **Production Readiness:**
-The ai-memory-gateway has a medium production readiness level, indicating that it's suitable for prototypes or internal workflows. However, before deploying it in a production environment, users should conduct a thorough review of
+The ai-memory-gateway has a medium production readiness level, indicating that it's suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/garan0613/ai-memory-gateway).
 
 ### Русский
 

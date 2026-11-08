@@ -38,9 +38,9 @@ As for the practical adoption path:
 3. **Assess the integration complexity**: Based on your findings, determine the complexity of integrating semihalev/sdns into your project and plan accordingly.
 4. **Pilot the integration**: Once you've assessed the integration complexity, pilot the integration of semihalev/sdns into your project to ensure it meets your requirements.
 
-Regarding production readiness:
+## Before adopting
 
-* **Recent activity**: The project has been updated recently (2026-08-16), indicating active maintenance and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/semihalev/sdns).
 
 ### Русский
 
@@ -73,7 +73,10 @@ semihalev/sdns 的生产可用性较高，因为它有以下特点：
 *   有近 1073 个 GitHub Star 和 69 个 Fork。
 *   最近一次更新时间是 2026-08-16。
 *   主要语言是 Go。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/semihalev/sdns)。
 
 ## 🧭 Practical evaluation
 

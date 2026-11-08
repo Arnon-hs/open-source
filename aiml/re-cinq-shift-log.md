@@ -37,7 +37,11 @@ The value proposition of re-cinq/shift-log lies in its ability to simplify the i
 To adopt re-cinq/shift-log, developers can follow a straightforward evaluation process. The project exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics, making it easy to get started. However, before using it in production, developers should conduct dependency and maintenance checks to ensure the project's stability and security.
 
 **Production Readiness:**
-The production readiness of re-cinq/shift-log is medium, as indicated by the project's score. It is suitable for prototype development or internal workflows but may not be ready for large-scale production use without further review and testing. The project has a moderate level of
+The production readiness of re-cinq/shift-log is medium, as indicated by the project's score. It is suitable for prototype development or internal workflows but may not be ready for large-scale production use without further review and testing.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/re-cinq/shift-log).
 
 ### Русский
 

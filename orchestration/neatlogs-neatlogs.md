@@ -39,7 +39,9 @@ The practical adoption path for neatlogs/neatlogs involves:
 4. Testing and prototyping: Test the project in a controlled environment to validate its functionality and performance.
 5. Production readiness assessment: Evaluate the project's readiness for production use, considering factors like scalability, reliability, and support.
 
-Once these steps are completed, neatlogs/neatlogs can be adopted in production environments, providing teams with a powerful tool for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/neatlogs/neatlogs).
 
 ### Русский
 

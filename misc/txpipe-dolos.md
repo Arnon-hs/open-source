@@ -41,7 +41,10 @@ As for the practical adoption path, here are the steps to consider:
 
 1. **Manual inspection**: Carefully review the project's metadata to understand its capabilities and limitations.
 2. **Setup cost validation**: Assess the cost and effort required to set up and maintain the project before committing to its use.
-3. **Dependency and maintenance checks**: Verify that the project's dependencies are up-to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/txpipe/dolos).
 
 ### Русский
 

@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the open-source project GBALATRO/balat
 
 **Practical Adoption Path:** To adopt GBALATRO/balatro-gba, developers should start by reviewing the project's README and manually inspecting the code to understand the integration path. This is necessary due to the sparse integration signals in the discovered metadata. Once familiar with the project, developers can integrate it into their workflow, but it's essential to validate the setup cost before committing to production.
 
-**Production Readiness:** The production readiness of GBALATRO/balatro-gba is rated as medium, indicating that it's suitable for prototypes or internal workflows but may not be ready for production without
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GBALATRO/balatro-gba).
 
 ### Русский
 

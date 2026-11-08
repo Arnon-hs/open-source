@@ -38,7 +38,11 @@ Payments · Backend
 3. **Assess Production Readiness:** Consider the app's recent activity, adoption, and ecosystem signals to determine its suitability for production use.
 4. **Pilot or Test:** Deploy SlowBooks-Pro-2026 in a controlled environment to evaluate its performance, scalability, and security.
 
-**Production Readiness:** With recent activity, strong adoption, and a robust ecosystem, SlowBooks-Pro-2026 demonstrates high production readiness. However, it is essential to
+**Production Readiness:** With recent activity, strong adoption, and a robust ecosystem, SlowBooks-Pro-2026 demonstrates high production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/VonHoltenCodes/SlowBooks-Pro-2026).
 
 ### Русский
 

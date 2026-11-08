@@ -40,7 +40,11 @@ WhichSpace is an open-source macOS menu bar utility that allows users to view an
 3. Review the project's code, dependencies, and issues to identify potential risks or areas for improvement.
 4. Test the project in a controlled environment, such as a prototype or internal workflow, before adopting it for production use.
 
-**Production Readiness:** Medium, as the project requires manual inspection and verification of its quality signals, dependencies, and maintenance before adoption. It is suitable for prototypes or internal workflows, but may not be ready for large-scale production use without
+**Production Readiness:** Medium, as the project requires manual inspection and verification of its quality signals, dependencies, and maintenance before adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gechr/WhichSpace).
 
 ### Русский
 

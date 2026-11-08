@@ -44,7 +44,10 @@ The hex/claude-council project offers several key benefits, including:
 To adopt hex/claude-council, developers can follow these steps:
 
 1. **Evaluate the project**: Review the project's documentation, codebase, and community support to ensure it meets their needs.
-2. **Integrate with existing tools**: Integrate the hex/claude-council plugin with their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hex/claude-council).
 
 ### Русский
 

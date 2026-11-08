@@ -50,7 +50,10 @@ The planetscale/cli has a high level of production readiness, thanks to:
 - Recent activity and adoption
 - Strong ecosystem signals
 - A primary language of Go
-- Regular updates (last updated on
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/planetscale/cli).
 
 ### Русский
 

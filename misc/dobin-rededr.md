@@ -41,8 +41,9 @@ To adopt dobin/RedEdr, follow these steps:
 3. **Dependency and Maintenance Checks**: Validate the project's dependencies and maintenance costs before committing to its use.
 4. **Setup and Testing**: Set up and test the project to ensure it meets your specific needs.
 
-**Production Readiness:**
-doblin/RedEdr is considered "medium" production ready, indicating that it may be suitable for prototype development or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dobin/RedEdr).
 
 ### Русский
 

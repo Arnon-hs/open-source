@@ -44,9 +44,9 @@ To adopt MyContext, users should:
 3. Evaluate the project's maintenance and update history to ensure it remains stable and secure.
 4. Test the app in a controlled environment before deploying it in production.
 
-**Production Readiness:**
+## Before adopting
 
-MyContext has a medium production readiness level, indicating that it is suitable for prototyping or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openTrinity/mycontext).
 
 ### Русский
 

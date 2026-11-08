@@ -36,8 +36,9 @@ The primary value proposition of this project is to remove repetitive manual ope
 **Practical Adoption Path:**
 To adopt this project, users should first manually inspect the integration process to ensure a smooth adoption. The project's metadata may not provide clear integration signals, so users should be prepared to invest time and effort in validating the setup cost before committing to the project. Once the integration is complete, users can leverage the curated list of tools, papers, and datasets to enhance their security operations.
 
-**Production Readiness:**
-The project's production readiness is rated as Medium, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AmanPriyanshu/Awesome-AI-For-Security).
 
 ### Русский
 

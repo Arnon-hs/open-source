@@ -41,8 +41,9 @@ To adopt CI Forge, developers should:
 3. Verify the license, maintenance, documentation, issues, and release cadence to ensure it meets their project's needs.
 4. Test CI Forge in a prototype or internal workflow before considering production use.
 
-**Production Readiness:**
-CI Forge has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows, but more thorough checks and verifications are necessary before deploying it in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Tahiram32/ciforge).
 
 ### Русский
 

@@ -36,8 +36,9 @@ The main value of Averyy/pcbparts-mcp lies in its ability to standardize integra
 **Practical Adoption Path:**
 To adopt Averyy/pcbparts-mcp, developers can start by evaluating the project through a small proof of concept and reviewing the README documentation. They can then integrate the MCP server into their AI assistant or tool, following the standard protocol to ensure seamless communication. Before deploying the project in production, developers should conduct thorough dependency and maintenance checks to ensure stability and security.
 
-**Production Readiness:**
-Averyy/pcbparts-mcp is considered production-ready with medium readiness, meaning it is suitable for prototyping and internal workflows but requires further evaluation and maintenance checks before deployment in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Averyy/pcbparts-mcp).
 
 ### Русский
 

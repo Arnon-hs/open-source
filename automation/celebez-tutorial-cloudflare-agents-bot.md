@@ -39,9 +39,9 @@ The primary value of this project lies in its ability to automate repetitive tas
 
 To adopt this project, users can follow the provided tutorial, which guides them through the process of setting up and integrating Cloudflare Workers, Pages, Bindings, AI Agents, and Telegram Bot. While manual inspection is required before adoption due to sparse integration signals, users can leverage the provided instructions to create a custom workflow that meets their specific needs. This project is best suited for prototypes or internal workflows, where users can test and refine their automation setup before scaling it to production.
 
-**Production Readiness:**
+## Before adopting
 
-The project has a medium production readiness score, indicating that it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Celebez/tutorial-cloudflare-agents-bot).
 
 ### Русский
 

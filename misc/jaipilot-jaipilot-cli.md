@@ -45,9 +45,9 @@ To adopt this project, engineers should follow these steps:
 4. Test the project in a prototype or internal workflow environment to validate its effectiveness.
 5. Once validated, integrate the project into production environments, ensuring proper maintenance and updates.
 
-**Production Readiness:**
+## Before adopting
 
-The project's production readiness is rated as medium, indicating that it is suitable for use in
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JAIPilot/jaipilot-cli).
 
 ### Русский
 

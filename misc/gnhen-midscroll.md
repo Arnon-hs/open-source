@@ -46,7 +46,11 @@ To adopt Midscroll, users should follow these steps:
 
 **Production Readiness:**
 
-Midscroll is considered production-ready for prototypes or internal workflows, but not for production environments. Its medium production readiness score indicates that
+Midscroll is considered production-ready for prototypes or internal workflows, but not for production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gnhen/midscroll).
 
 ### Русский
 

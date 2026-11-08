@@ -33,7 +33,11 @@ Avdpro/ai2apps is an open-source project that enables users to set up AI2Apps on
 
 In terms of practical adoption, the project's value lies in its ability to simplify the process of integrating AI capabilities into existing systems. However, users should be aware that the integration path is not immediately clear from the metadata, and a manual inspection is necessary before adoption. Additionally, users should validate the setup cost before committing to the project.
 
-The project's production readiness score of medium indicates that it is suitable for internal workflows and prototyping, but may require further development and testing before being deployed in a production environment. With 435 GitHub stars and 82 forks, the project has a moderate level of community engagement and support, which can be beneficial for users who need help with
+The project's production readiness score of medium indicates that it is suitable for internal workflows and prototyping, but may require further development and testing before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Avdpro/ai2apps).
 
 ### Русский
 

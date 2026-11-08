@@ -39,7 +39,10 @@ The adoption path for DragonMCP involves several steps:
 1. **Evaluation:** Developers can evaluate the project by reviewing its implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
 2. **Prototype Development:** Once evaluated, developers can use DragonMCP to create prototypes or internal workflows, taking advantage of its medium production readiness.
 3. **Integration:** The project can be integrated into existing systems, connecting AI agents to real tools and data through the standard protocol.
-4. **Maintenance and Dependency Checks:** Before moving to production, developers should conduct dependency and maintenance checks to ensure the project's stability and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/arthurpanhku/DragonMCP).
 
 ### Русский
 

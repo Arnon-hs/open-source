@@ -39,7 +39,9 @@ MemoryPack is an open-source, high-performance binary serializer for C# that ena
 - Sparse integration signals in the discovered metadata
 - Risks associated with verifying license, maintenance, documentation, issue tracking, and release cadence before using it
 
-Therefore, teams should carefully evaluate MemoryPack's suitability for their production environments and take necessary precautions to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Cysharp/MemoryPack).
 
 ### Русский
 

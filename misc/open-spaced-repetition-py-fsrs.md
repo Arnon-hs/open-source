@@ -43,9 +43,9 @@ Before adopting open-spaced-repetition/py-fsrs, it's essential to:
 2. Inspect the code and dependencies to ensure they align with your project's security and maintenance standards.
 3. Perform integration checks to guarantee seamless interaction with your existing systems.
 
-**Production Readiness:**
+## Before adopting
 
-The project has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but may require additional checks and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/open-spaced-repetition/py-fsrs).
 
 ### Русский
 

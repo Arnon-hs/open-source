@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** Before adopting femtovg/femtovg, developers should carefully review its README and activity to ensure it aligns with their specific workflow needs. Additionally, manual inspection of the integration process is required, and setup costs should be validated before committing to the library.
 
-**Production Readiness:** femtovg/femtovg has a medium level of production readiness, making it suitable for use in prototypes or internal workflows. However, it is not recommended for large-scale production deployments without thorough dependency and maintenance checks. Developers should prioritize validating the library's setup cost and integration path before committing to its use in
+**Production Readiness:** femtovg/femtovg has a medium level of production readiness, making it suitable for use in prototypes or internal workflows. However, it is not recommended for large-scale production deployments without thorough dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/femtovg/femtovg).
 
 ### Русский
 

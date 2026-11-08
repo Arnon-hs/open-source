@@ -42,7 +42,10 @@ The project has a medium production readiness score, making it suitable for prot
 
 1. Review the project's license and security posture.
 2. Verify that the project has active maintainers and a clear update schedule.
-3. Conduct thorough testing and quality assurance to ensure the project's stability and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GodotVR/godot-xr-tools).
 
 ### Русский
 

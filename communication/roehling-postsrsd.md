@@ -37,7 +37,11 @@ The primary value of roehling/postsrsd lies in its ability to add AI capability 
 To adopt roehling/postsrsd, users should first manually inspect the project's integration signals to ensure a smooth onboarding process. This step is crucial due to the sparse metadata available. Once the integration path is clear, users can proceed with validating the setup cost to determine the feasibility of the project for their specific use case.
 
 **Production Readiness:**
-The production readiness of roehling/postsrsd is classified as medium. While it is suitable for prototypes, internal workflows, or proof-of-concepts, it may not be the best fit for
+The production readiness of roehling/postsrsd is classified as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/roehling/postsrsd).
 
 ### Русский
 

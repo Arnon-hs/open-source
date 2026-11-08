@@ -33,7 +33,11 @@ Backend
 
 **Practical Adoption Path:** To adopt Examine, teams can start by evaluating its implementation signals, such as API, SDK, and CLI exposure, as well as language metadata and focused topics. With a straightforward evaluation process, teams can determine whether Examine aligns with their backend infrastructure needs. Once adopted, teams can integrate Examine into their existing .NET projects, leveraging its indexing and search engine capabilities to enhance their services.
 
-**Production Readiness:** With 410 GitHub stars, 131 forks, and recent activity, Examine demonstrates a strong adoption rate and ecosystem signals. Its high production readiness score indicates that it is suitable for serious pilots, with a primary language of
+**Production Readiness:** With 410 GitHub stars, 131 forks, and recent activity, Examine demonstrates a strong adoption rate and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Shazwazza/Examine).
 
 ### Русский
 

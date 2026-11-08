@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** To adopt Serie, developers can simply evaluate its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The project's straightforward integration process and high production readiness make it an attractive choice for serious pilots. With its recent activity, adoption, and ecosystem signals, Serie is a solid candidate for inclusion in a development workflow.
 
-**Production Readiness:** Serie has demonstrated strong production readiness, with a high score of 72/100. Its recent activity, adoption, and ecosystem signals are all positive indicators of its viability as a
+**Production Readiness:** Serie has demonstrated strong production readiness, with a high score of 72/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lusingander/serie).
 
 ### Русский
 

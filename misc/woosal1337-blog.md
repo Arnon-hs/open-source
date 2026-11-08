@@ -67,9 +67,11 @@ ASD-STE100 Simplified Technical English for LLMs 的价值在于，它可以帮�
 3. 检查项目的发布频率和更新记录
 
 **生产可用性**
-ASD-STE100 Simplified Technical English for LLMs 的生产可用性为中等。它适用于以下场景：
+ASD-STE100 Simplified Technical English for LLMs 的生产可用性为中等。
 
-*
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/woosal1337/blog/tree/main/videos/ep01-the-cure-for-ai-slop)。
 
 ## 🧭 Practical evaluation
 

@@ -33,7 +33,9 @@ EvoMap/awesome-agent-swarm is an open-source project that provides a curated lis
 
 The value of EvoMap/awesome-agent-swarm lies in its ability to streamline complex agent workflows and standardize agent memory, making it easier for users to manage and orchestrate multiple agents. The practical adoption path, however, requires careful consideration and validation due to the need for manual inspection and potential integration challenges. This makes it more suitable for users who are already familiar with the underlying technology and have the resources to dedicate to setup and testing.
 
-In terms of production readiness, EvoMap/awesome-agent-swarm is rated as medium, indicating that it can be useful for prototypes or internal workflows but may not be ready for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/EvoMap/awesome-agent-swarm).
 
 ### Русский
 

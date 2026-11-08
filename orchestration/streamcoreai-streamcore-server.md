@@ -61,7 +61,11 @@ Streamcore-server 支持多种接入方式，包括：
 * CLI：通过命令行接口来与 Streamcore-server 进行交互
 
 **生产可用性**
-Streamcore-server 的生产可用性较高，主要是因为其最近的活动、采用率和生态系统信号都很强劲。它已经有 101 个 GitHub 星星，14 个分支，最近更新于 2026-08-07。然而，
+Streamcore-server 的生产可用性较高，主要是因为其最近的活动、采用率和生态系统信号都很强劲。它已经有 101 个 GitHub 星星，14 个分支，最近更新于 2026-08-07。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/streamcoreai/streamcore-server)。
 
 ## 🧭 Practical evaluation
 

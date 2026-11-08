@@ -41,7 +41,11 @@ To adopt this project, users should first manually inspect the code and dependen
 
 **Production Readiness**
 
-The project has a medium level of production readiness, indicating that it is useful for prototypes or internal workflows but requires careful evaluation and testing before being used in a production environment. Users should be prepared to
+The project has a medium level of production readiness, indicating that it is useful for prototypes or internal workflows but requires careful evaluation and testing before being used in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/galiprandi/job-seeker).
 
 ### Русский
 

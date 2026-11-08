@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the Tangleflow project:
 
 **Practical Adoption Path:** To adopt Tangleflow, users should start by manually inspecting the project's metadata and documentation to understand its capabilities and limitations. Next, they should test the tool with a small, internal workflow to gauge its effectiveness and identify any potential issues. Once successful, users can integrate Tangleflow into their production workflows, performing regular dependency checks and maintenance to ensure its continued functionality.
 
-**Production Readiness:** Tangleflow is considered production-ready with a medium level of readiness. While it has been updated recently and has some useful features, its limited quality signals and sparse integration signals require users to exercise caution before adopting it for production use. Users should verify the project's license, maintenance, documentation, issues, and release cadence before using it in
+**Production Readiness:** Tangleflow is considered production-ready with a medium level of readiness. While it has been updated recently and has some useful features, its limited quality signals and sparse integration signals require users to exercise caution before adopting it for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/43081j/tangleflow).
 
 ### Русский
 

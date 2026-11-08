@@ -42,7 +42,10 @@ Jenkins X offers several key benefits, including:
 To adopt Jenkins X, follow these steps:
 
 1. **Evaluate the tool**: Assess the tool's features, pros, and cons to determine if it aligns with your organization's needs.
-2. **Start with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jenkins-x/jx).
 
 ### Русский
 

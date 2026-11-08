@@ -33,7 +33,11 @@ Database
 
 **Practical Adoption Path:** To adopt pandorafuture/wx-cli, engineers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once they have a basic understanding of the tool's functionality, they can begin integrating it into their workflows, starting with small-scale use cases. As they gain more experience with the tool, they can scale up its adoption to more complex tasks and larger projects.
 
-**Production Readiness:** pandorafuture/wx-cli has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, before deploying it in production, engineers should conduct a thorough review of
+**Production Readiness:** pandorafuture/wx-cli has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pandorafuture/wx-cli).
 
 ### Русский
 

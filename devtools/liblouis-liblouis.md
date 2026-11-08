@@ -37,7 +37,11 @@ The value proposition of liblouis/liblouis lies in its ability to accelerate AI 
 To adopt liblouis/liblouis, start with a small proof of concept to evaluate its feasibility and understand the integration path. Check the README documentation and consider a minimal setup to validate the setup cost before committing to a larger-scale implementation.
 
 **Production Readiness:**
-liblouis/liblouis has a medium production readiness score, indicating that it is suitable for internal workflows, proof-of-concept projects, or prototype development. However, it may require additional dependency and maintenance checks before being deployed in
+liblouis/liblouis has a medium production readiness score, indicating that it is suitable for internal workflows, proof-of-concept projects, or prototype development.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/liblouis/liblouis).
 
 ### Русский
 

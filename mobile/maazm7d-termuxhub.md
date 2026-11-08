@@ -31,7 +31,11 @@ We need to write a brief summary (2-3 sentences) for this open-source project, e
 
 We need to incorporate the given info: Title: maazm7d/TermuxHub, description: Your App Store for Termux tools. Score 61/100. Value proposition: may be useful when its README and activity match a concrete workflow. Use cases not given. Integration notes: feasible to evaluate, but integration should start with a small proof of concept and README check. Production readiness: Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production. Quality signals: stars, forks, updated 2026-08-10, primary language Kotlin, 10 topics. Risks: integration path not obvious; validate setup cost before committing.
 
-Thus summary: TermuxHub is an app store for Termux tools, providing a curated collection of utilities for Android's Termux environment, useful for prototyping or internal workflows if its README and recent activity align with your needs. Adoption should begin with a small proof‑of‑concept, checking the README and dependency health before scaling to
+Thus summary: TermuxHub is an app store for Termux tools, providing a curated collection of utilities for Android's Termux environment, useful for prototyping or internal workflows if its README and recent activity align with your needs.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/maazm7d/TermuxHub).
 
 ### Русский
 

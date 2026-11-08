@@ -46,7 +46,11 @@ To adopt Vibe CSA, follow these steps:
 
 **Production Readiness**
 
-Vibe CSA has a medium production readiness score, making it suitable for prototype projects or internal workflows. However, it's essential to
+Vibe CSA has a medium production readiness score, making it suitable for prototype projects or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ok-helloworld/vibe-csa).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt this project, users should first manually inspect its README and activi
 
 **Production Readiness:**
 
-The production readiness of this project is medium, making it suitable for use in prototypes or internal workflows. However, users should exercise caution and thoroughly evaluate the project's quality signals before deploying it in
+The production readiness of this project is medium, making it suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/alxwrd/git-env).
 
 ### Русский
 

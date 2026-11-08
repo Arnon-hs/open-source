@@ -41,7 +41,11 @@ To adopt Canyon-SQL, developers should start with a small proof of concept to ev
 
 **Production Readiness:**
 
-Canyon-SQL has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but may not be ready for large-scale production environments. This is due to the lack of obvious integration paths and
+Canyon-SQL has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but may not be ready for large-scale production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zerodaycode/Canyon-SQL).
 
 ### Русский
 

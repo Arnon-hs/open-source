@@ -43,7 +43,11 @@ To adopt Megaphone, developers should follow these steps:
 4. Test Megaphone in a prototype or internal workflow before considering production use.
 
 **Production Readiness:**
-Megaphone is considered medium production-ready, meaning it can be useful for prototypes or internal workflows after dependency and maintenance checks. However, due to limited quality signals, developers should exercise caution before using it in
+Megaphone is considered medium production-ready, meaning it can be useful for prototypes or internal workflows after dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Kuberwastaken/megaphone).
 
 ### Русский
 

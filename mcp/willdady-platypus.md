@@ -36,8 +36,9 @@ The value proposition of Platypus lies in its ability to standardize integration
 **Practical Adoption Path:**
 To adopt Platypus, developers and organizations can start by evaluating the platform's implementation signals, such as API/SDK/CLI, language metadata, and focused topics. Once familiar with the platform, they can begin building and managing AI Agents using Platypus. The platform's multi-tenant design makes it suitable for both internal workflows and external integrations. However, it's recommended to conduct dependency and maintenance checks before deploying Platypus in production.
 
-**Production Readiness:**
-Platypus has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/willdady/platypus).
 
 ### Русский
 

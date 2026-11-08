@@ -37,7 +37,9 @@ The value of agamm/claude-code-owasp lies in its ability to simplify the integra
 2. Dependency checks: Before committing to production, developers should validate the setup cost and perform necessary dependency checks.
 3. Prototyping and testing: The skill is best suited for prototyping AI features, building RAG or agent workflows, and evaluating model tooling.
 
-In terms of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/agamm/claude-code-owasp).
 
 ### Русский
 

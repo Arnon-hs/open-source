@@ -44,9 +44,9 @@ To adopt this project, users should:
 3. Verify the project's license, maintenance, documentation, issue tracking, and release cadence to ensure it meets their needs.
 4. Test the project in a controlled environment before integrating it into their production workflow.
 
-**Production Readiness:**
+## Before adopting
 
-The project is considered "Medium" in terms of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/philmard/mygrid).
 
 ### Русский
 

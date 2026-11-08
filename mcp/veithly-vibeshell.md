@@ -42,7 +42,10 @@ To adopt Vibeshell, developers can follow these steps:
 1. **Evaluate the project**: Assess the project's stability, security, and maintainability by reviewing its GitHub repository, code quality, and community engagement.
 2. **Choose an AI agent**: Select an AI agent that supports MCP skills, such as Claude Code or Codex.
 3. **Implement the integration**: Use Vibeshell's API or CLI to connect the AI agent to the desired server or tool.
-4. **Test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/veithly/vibeshell).
 
 ### Русский
 

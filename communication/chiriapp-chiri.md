@@ -35,7 +35,11 @@ Here's a brief summary of the chiriapp/chiri project:
 
 **Practical Adoption Path:** To adopt chiriapp/chiri, developers can start by evaluating its API, SDK, and CLI. They can also explore its language metadata and focused topics to understand its implementation signals. With a straightforward integration path, developers can easily incorporate chiriapp/chiri into their existing workflows.
 
-**Production Readiness:** chiriapp/chiri is considered production-ready due to its high score in recent activity, adoption, and ecosystem signals. With 342 GitHub stars, 11 forks, and regular updates, the project demonstrates a strong community presence. However, a final review of the
+**Production Readiness:** chiriapp/chiri is considered production-ready due to its high score in recent activity, adoption, and ecosystem signals. With 342 GitHub stars, 11 forks, and regular updates, the project demonstrates a strong community presence.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/chiriapp/chiri).
 
 ### Русский
 

@@ -39,7 +39,10 @@ To practically adopt this project, users should follow these steps:
 1. **Verify project quality:** Check the project's license, maintenance, documentation, issues, and release cadence to ensure it meets their needs.
 2. **Inspect integration signals:** Manually review the project's integration signals to understand its compatibility with Obsidian vaults and AI agents.
 3. **Evaluate production readiness:** Assess the project's production readiness, considering factors like dependency and maintenance checks.
-4. **Test and iterate:** Experiment with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nmdra/notebrain-cli).
 
 ### Русский
 

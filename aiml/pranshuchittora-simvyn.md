@@ -36,8 +36,9 @@ The primary value proposition of Simvyn lies in its ability to remove repetitive
 **Practical Adoption Path:**
 To adopt Simvyn, users can start by exploring its features and capabilities through the dashboard and CLI. They can then connect their tools and devices to Simvyn, and begin automating repetitive tasks and scheduling operational tasks. As users become more familiar with the tool, they can integrate it into their existing workflows and processes, and explore its advanced features and customization options.
 
-**Production Readiness:**
-Simvyn has a high production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pranshuchittora/simvyn).
 
 ### Русский
 

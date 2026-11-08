@@ -38,7 +38,10 @@ The practical adoption path for this project involves the following steps:
 1. Evaluate the project's metadata and README to understand its integration path and potential risks.
 2. Create a small proof of concept to test the project's functionality and feasibility.
 3. Carefully review the project's dependencies and maintenance requirements to ensure they align with your project's needs.
-4. Conduct thorough testing and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/WickrInc/wickr-crypto-c).
 
 ### Русский
 

@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** For practical adoption, users should start by evaluating the feasibility of integrating gitmoot/gitmoot into their existing workflows. This can be done through a small proof of concept and a review of the project's README documentation. Once the integration is deemed feasible, users can begin to explore the various features and functionalities offered by the control layer.
 
-**Production Readiness:** The production readiness of gitmoot/gitmoot is medium, indicating that it is suitable for use in prototypes or internal workflows, but may require additional dependency and maintenance checks before being deployed in a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gitmoot/gitmoot).
 
 ### Русский
 

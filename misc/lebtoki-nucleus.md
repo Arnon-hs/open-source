@@ -41,8 +41,9 @@ To adopt Nucleus, follow these steps:
 3. **Verify License and Documentation**: Confirm the project's license and documentation are up-to-date and suitable for your needs.
 4. **Evaluate Quality Signals**: Assess the project's quality signals, such as recent updates, topic relevance, and issue tracking.
 
-**Production Readiness:**
-Nucleus is considered medium-production ready due to its limited quality signals and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LebToki/Nucleus).
 
 ### Русский
 

@@ -38,7 +38,10 @@ To adopt Unagi-cq/cdp-bridge-mcp, follow these steps:
 
 1. **Evaluate and proof of concept**: Start with a small proof of concept to assess the project's feasibility and compatibility with your specific use case.
 2. **Review README and documentation**: Thoroughly review the project's README and documentation to understand its requirements, dependencies, and potential limitations.
-3. **Integrate with AI assistants and tools**: Once you have a clear understanding of the project, integrate it with your AI assistants and tools to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Unagi-cq/cdp-bridge-mcp).
 
 ### Русский
 

@@ -39,7 +39,10 @@ As for its value, MaaXYZ/MFAAvalonia offers the following benefits:
 The practical adoption path for MaaXYZ/MFAAvalonia involves the following steps:
 1. **Manual inspection**: Developers need to manually inspect the project's integration signals and validate its compatibility with their specific use case.
 2. **Setup cost validation**: Before committing to the project, developers should assess the setup costs, including potential dependencies and maintenance requirements.
-3. **Integration and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MaaXYZ/MFAAvalonia).
 
 ### Русский
 

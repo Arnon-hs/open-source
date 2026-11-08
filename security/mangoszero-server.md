@@ -41,7 +41,10 @@ To adopt mangoszero/server, teams can follow these steps:
 2. Set up a development environment and test the server with their World of Warcraft clients.
 3. Integrate the server with their existing infrastructure and services.
 4. Review and customize the server's configuration and scripts to fit their needs.
-5. Monitor and maintain the server to ensure its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mangoszero/server).
 
 ### Русский
 

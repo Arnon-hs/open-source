@@ -33,7 +33,11 @@ Automation
 
 **Practical Adoption Path:** To adopt Scrut1ny/AutoVirt, users should start by evaluating the project's feasibility through a small proof of concept and reviewing the README documentation. This will help identify potential integration points and potential challenges. Once the project has been validated, users can schedule operational tasks and connect tools into repeatable flows, leveraging the project's automation capabilities.
 
-**Production Readiness:** Scrut1ny/AutoVirt is considered production-ready at a medium level, making it suitable for prototype development or internal workflows. However, users should conduct thorough dependency and maintenance checks before deploying the project in
+**Production Readiness:** Scrut1ny/AutoVirt is considered production-ready at a medium level, making it suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Scrut1ny/AutoVirt).
 
 ### Русский
 

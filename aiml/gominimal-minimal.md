@@ -37,8 +37,9 @@ The value proposition of gominimal/minimal lies in its ability to streamline AI 
 **Practical Adoption Path:**
 To adopt gominimal/minimal, developers can start by evaluating the tool with a small proof of concept and reviewing the README documentation. This will help them understand the integration process and identify potential dependencies and maintenance requirements. Once the proof of concept is successful, developers can integrate gominimal/minimal into their existing workflows and begin leveraging its features for AI development.
 
-**Production Readiness:**
-gominimal/minimal has a medium production readiness score, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gominimal/minimal).
 
 ### Русский
 

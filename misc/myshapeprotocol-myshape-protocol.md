@@ -43,7 +43,10 @@ To adopt the PES Benchmark v0.2, developers can follow these steps:
 2. Evaluate the tool's quality signals, including its update history and issue tracking.
 3. Perform manual inspection and testing to assess the tool's performance and accuracy.
 4. Integrate the tool into their project, taking note of any dependencies and maintenance requirements.
-5. Verify the tool's production readiness by
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/myshapeprotocol/myshape-protocol).
 
 ### Русский
 

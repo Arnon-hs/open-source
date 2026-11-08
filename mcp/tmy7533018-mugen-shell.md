@@ -38,7 +38,10 @@ For developers and organizations interested in adopting Mugen-shell, the practic
 
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. Assess the project's production readiness, which is rated as medium, indicating that it is suitable for prototypes or internal workflows but requires dependency and maintenance checks before production.
-3. Review the project's license, security posture, and active maintainers to ensure that they align with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tmy7533018/mugen-shell).
 
 ### Русский
 

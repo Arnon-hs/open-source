@@ -41,7 +41,11 @@ To adopt the AI Learning Coach, developers can start by evaluating its feasibili
 
 **Production Readiness:**
 
-The AI Learning Coach is considered medium-production ready, meaning it is suitable for use in prototypes or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to ensure the project's stability and security. This will
+The AI Learning Coach is considered medium-production ready, meaning it is suitable for use in prototypes or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to ensure the project's stability and security.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/chrichuang218/ai-learning-coach).
 
 ### Русский
 

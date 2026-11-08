@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the value, practical adoption path, an
 
 **Practical Adoption Path:** To adopt lovasoa/dezoomify-rs, start by reviewing its README and evaluating its integration feasibility with a small proof of concept. This will help you understand the project's strengths and limitations and identify potential issues before investing in a full-scale integration.
 
-**Production Readiness:** The project has a high production readiness score due to its recent activity, strong adoption rate, and ecosystem signals. With a recent update in 2026 and a primary language of Rust, it's well-positioned for serious adoption and pilot projects. However, a final review of the
+**Production Readiness:** The project has a high production readiness score due to its recent activity, strong adoption rate, and ecosystem signals. With a recent update in 2026 and a primary language of Rust, it's well-positioned for serious adoption and pilot projects.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lovasoa/dezoomify-rs).
 
 ### Русский
 

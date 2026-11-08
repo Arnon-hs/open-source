@@ -81,7 +81,10 @@ Algebraic Effects and Handlers in Portable C99 是一个开源项目，旨在在
 但是，需要注意以下风险：
 
 * 质量信号有限
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/koka-lang/libhandler)。
 
 ## 🧭 Practical evaluation
 

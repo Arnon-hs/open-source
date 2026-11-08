@@ -41,7 +41,11 @@ To integrate pytorch/TensorRT into a project, it's recommended to start with a s
 
 **Production Readiness:**
 
-pytorch/TensorRT demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong and stable project. The project's primary language is Python, and it has
+pytorch/TensorRT demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong and stable project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pytorch/TensorRT).
 
 ### Русский
 

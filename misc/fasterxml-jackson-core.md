@@ -44,7 +44,10 @@ To adopt FasterXML/jackson-core, developers can start by evaluating its feasibil
 FasterXML/jackson-core is considered production-ready, with strong ecosystem signals, recent activity, and a large community of adopters. Its high production readiness score is supported by its:
 
 * 2,381 GitHub stars and 920 forks, indicating a large and engaged community.
-* Regular updates, with the last update occurring on
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/FasterXML/jackson-core).
 
 ### Русский
 

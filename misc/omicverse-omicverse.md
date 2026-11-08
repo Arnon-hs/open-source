@@ -37,7 +37,11 @@ The primary value proposition of omicverse lies in its ability to simplify data 
 To adopt omicverse, teams can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. This will help identify potential integration challenges and ensure a smooth onboarding process. Once evaluated, teams can begin using omicverse for prototyping or internal workflows, with careful consideration of dependencies and maintenance checks before scaling up to production.
 
 **Production Readiness:**
-Omicverse has a moderate production readiness score, indicating that it can be useful for prototyping or internal workflows. However, before deploying it in
+Omicverse has a moderate production readiness score, indicating that it can be useful for prototyping or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/omicverse/omicverse).
 
 ### Русский
 

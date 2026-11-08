@@ -39,7 +39,11 @@ Here's a brief summary of the open-source project:
 2. **Verify Quality Signals**: Developers should verify the project's quality signals, including its license, maintenance, documentation, issues, and release cadence.
 3. **Dependency and Maintenance Checks**: Before production, developers should check the project's dependencies and maintenance requirements.
 
-**Production Readiness:** Cc-probeline has medium production readiness, making it suitable for prototypes or internal workflows. However, its limited quality signals and
+**Production Readiness:** Cc-probeline has medium production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/labzink/cc-probeline).
 
 ### Русский
 

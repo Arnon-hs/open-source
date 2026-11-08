@@ -33,7 +33,9 @@ AI/ML
 
 **Practical Adoption Path:** To adopt JesperLive/ClaudeFix, users should start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help them understand the integration path and potential setup costs. Once they have a clear understanding of the project's capabilities and requirements, they can proceed with integrating it into their workflow.
 
-**Production Readiness:** JesperLive/ClaudeFix has a medium production readiness level, indicating that it is useful for internal workflows or prototypes, but requires careful consideration and validation before deployment in a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JesperLive/ClaudeFix).
 
 ### Русский
 

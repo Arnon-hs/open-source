@@ -39,9 +39,9 @@ The value proposition of Finch-rs lies in its ability to perform genomic minhash
 
 Before adopting Finch-rs, it is crucial to manually inspect the project's integration path and validate the setup cost. This involves reviewing the project's documentation, testing the implementation, and assessing the dependencies and maintenance requirements. Once these steps are completed, developers can integrate Finch-rs into their workflow, leveraging its genomic minhashing capabilities.
 
-**Production Readiness:**
+## Before adopting
 
-Finch-rs is considered a medium-production-readiness project, making it suitable for prototype development or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/onecodex/finch-rs).
 
 ### Русский
 

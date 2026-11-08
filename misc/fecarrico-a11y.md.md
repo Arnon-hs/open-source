@@ -41,7 +41,10 @@ To adopt A11y.md, developers should follow these steps:
 
 1. **Manual Inspection**: Carefully review the project's documentation, license, maintenance, and release cadence to ensure it meets your project's needs.
 2. **Verify Quality Signals**: Although the project has limited quality signals, verify the project's issues, release history, and community engagement to gauge its reliability.
-3. **Dependency and Maintenance Checks**: Thoroughly evaluate the project's dependencies and maintenance requirements to ensure they align with your project's infrastructure and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fecarrico/A11Y.md).
 
 ### Русский
 

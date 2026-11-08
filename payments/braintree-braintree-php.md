@@ -44,9 +44,9 @@ To adopt this library, follow these steps:
 3. **Setup Validation**: Assess the setup cost and potential risks associated with integrating the library into your application.
 4. **Integration**: Follow the library's documentation to integrate it into your application.
 
-**Production Readiness**
+## Before adopting
 
-While the Braintree PHP library has a medium production readiness score, it can be
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/braintree/braintree_php).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt Gawk CLI, users should start by reviewing the project's documentation, issues, and release cadence to ensure it meets their needs. They should also verify the license, maintenance, and quality signals before integrating the project into their workflows. Once adopted, users can leverage Gawk CLI to prototype AI features, build RAG or agent workflows, and evaluate model tooling.
 
-**Production Readiness:** Gawk CLI is considered medium-production ready, making it suitable for internal workflows or proof-of-concept projects. However, users should perform dependency and
+**Production Readiness:** Gawk CLI is considered medium-production ready, making it suitable for internal workflows or proof-of-concept projects.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Neelagiri65/gawk-cli).
 
 ### Русский
 

@@ -44,9 +44,9 @@ To adopt BetterCallClaude, users can start by:
 3. Testing the plugin in a prototype or internal workflow environment to assess its performance and stability.
 4. Conducting dependency and maintenance checks to ensure the plugin is production-ready.
 
-**Production Readiness:**
+## Before adopting
 
-BetterCallClaude is considered production-ready with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fedec65/bettercallclaude).
 
 ### Русский
 

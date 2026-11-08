@@ -41,7 +41,10 @@ To adopt maestrojeong/browser-rs-mcp, follow these steps:
 
 1. **Evaluate the project**: Assess the project's documentation, code quality, and community engagement to ensure it meets your needs.
 2. **Integrate with your AI agent**: Use the provided API, SDK, or CLI to connect your AI agent to the browser MCP server.
-3. **Test and refine**: Test the integration and refine it as needed to ensure seamless communication between your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/maestrojeong/browser-rs-mcp).
 
 ### Русский
 

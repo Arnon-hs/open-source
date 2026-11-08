@@ -41,7 +41,10 @@ The Binance-connector-go library offers several values to its users, including:
 To adopt the Binance-connector-go library, developers can follow these steps:
 
 1. **Evaluate the library:** Review the library's code, documentation, and community support to ensure it meets their requirements.
-2. **Integrate the library:** Import the library into their project and configure it according to the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/binance/binance-connector-go).
 
 ### Русский
 

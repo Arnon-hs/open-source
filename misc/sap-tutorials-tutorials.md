@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, users need to manually inspect the code and setup before integrating it into their workflows. This requires a moderate level of technical expertise and a willingness to validate the setup cost before committing to its use. Once adopted, users can leverage the project's tutorials and implementation patterns to learn and train their teams.
 
-**Production Readiness:** The project's production readiness is rated as medium, indicating that it is suitable for prototypes or internal workflows but requires additional checks and validation before being used in production environments. This is due to the potential integration complexities and setup costs associated with the project, which
+**Production Readiness:** The project's production readiness is rated as medium, indicating that it is suitable for prototypes or internal workflows but requires additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sap-tutorials/Tutorials).
 
 ### Русский
 

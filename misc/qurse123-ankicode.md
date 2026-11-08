@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Adoption Path:** To adopt this project, users should manually inspect the code and its dependencies before integrating it into their workflow. This involves verifying the project's license, maintenance, documentation, issues, and release cadence to ensure it meets their needs. Once verified, users can adopt the project for internal workflows or prototypes, but it's not recommended for production use without further checks.
 
-**Production Readiness:** The production readiness of this project is medium, meaning it can be useful for prototypes or internal workflows, but it requires additional checks and validation before being used in production. Users should carefully evaluate the project's quality signals, dependencies, and maintenance requirements before deciding to use it in
+**Production Readiness:** The production readiness of this project is medium, meaning it can be useful for prototypes or internal workflows, but it requires additional checks and validation before being used in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Qurse123/Ankicode).
 
 ### Русский
 

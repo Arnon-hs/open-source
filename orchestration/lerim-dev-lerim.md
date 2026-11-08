@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt Lerim, developers should start by evaluating its feasibility through a small proof of concept and a review of the project's README documentation. Once familiar with the project's capabilities, developers can begin integrating Lerim into their workflows, starting with small-scale projects or prototypes. As the project matures, developers can gradually scale up their adoption to larger production environments.
 
-**Production Readiness:** Lerim has a medium production readiness score, indicating that while it is useful for prototype development or internal workflows, it requires careful evaluation and maintenance before being deployed in production environments. This is due to potential dependencies and maintenance concerns that
+**Production Readiness:** Lerim has a medium production readiness score, indicating that while it is useful for prototype development or internal workflows, it requires careful evaluation and maintenance before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lerim-dev/lerim).
 
 ### Русский
 

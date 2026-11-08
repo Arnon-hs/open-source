@@ -36,8 +36,9 @@ The primary value of Tokenline lies in its ability to simplify the process of in
 **Practical Adoption Path:**
 Developers interested in Tokenline can start by evaluating the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics. Given its straightforward integration process, developers can quickly assess the project's suitability for their needs. Once evaluated, developers can integrate Tokenline into their projects, leveraging its features to optimize AI usage and reduce costs.
 
-**Production Readiness:**
-Tokenline has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/inbrace-tech/tokenline).
 
 ### Русский
 

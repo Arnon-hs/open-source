@@ -41,7 +41,11 @@ To adopt rust-lang/goals, follow these steps:
 3. Integrate the project into your development environment, performing necessary dependency and maintenance checks.
 
 **Production Readiness:**
-rust-lang/goals is considered production-ready with medium risk. It's suitable for prototype development or internal workflows, but further evaluation is necessary before deploying it in production. The project's GitHub metrics, such as 168 stars and 115 forks, indicate moderate adoption and community engagement. However, a final review of the license, security posture, and
+rust-lang/goals is considered production-ready with medium risk. It's suitable for prototype development or internal workflows, but further evaluation is necessary before deploying it in production. The project's GitHub metrics, such as 168 stars and 115 forks, indicate moderate adoption and community engagement.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rust-lang/goals).
 
 ### Русский
 

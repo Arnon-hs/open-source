@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project underway:
 
 **Practical Adoption Path:** To adopt underway, teams should start with a small proof of concept and carefully review the project's README. This will help evaluate the feasibility of integration and identify potential setup costs. Once validated, teams can proceed with a more extensive implementation, ensuring that they understand the project's dependencies and maintenance requirements.
 
-**Production Readiness:** underway is considered production-ready for prototypes or internal workflows, but its production readiness is medium due to the need for dependency and maintenance checks before deployment. While the project has a moderate number of GitHub stars and forks, its integration path and setup costs should be carefully assessed before committing to
+**Production Readiness:** underway is considered production-ready for prototypes or internal workflows, but its production readiness is medium due to the need for dependency and maintenance checks before deployment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/maxcountryman/underway).
 
 ### Русский
 

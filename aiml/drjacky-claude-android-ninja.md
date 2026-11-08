@@ -37,7 +37,11 @@ The project's value lies in its ability to help developers quickly add AI capabi
 To adopt this project, developers should start with a small proof of concept and carefully review the README documentation to understand the integration path. It is essential to validate the setup cost before committing to a larger-scale implementation. With some initial setup and configuration, developers can leverage the project's features to enhance their Android applications with AI capabilities.
 
 **Production Readiness:**
-The project is considered medium-production-ready, meaning it is suitable for use in prototypes or internal workflows. However, before deploying it in a production environment, developers should thoroughly check the dependencies and maintenance requirements to
+The project is considered medium-production-ready, meaning it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Drjacky/claude-android-ninja).
 
 ### Русский
 

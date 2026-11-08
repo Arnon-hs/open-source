@@ -40,7 +40,9 @@ Aina is an open-source project that enables the autotuning of ONNX models and th
 3. **Manual Inspection:** Before adopting Aina, it's essential to perform manual inspection to ensure its compatibility with existing projects.
 4. **Dependency Checks:** Verify the dependencies, maintenance, and documentation before using Aina in production.
 
-**Production Readiness:** Aina is considered "Medium" in terms of production readiness, indicating that it's suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ElhamBadri2411/aina).
 
 ### Русский
 

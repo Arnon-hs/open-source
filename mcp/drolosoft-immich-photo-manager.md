@@ -36,8 +36,9 @@ The value proposition of this project lies in its ability to connect AI assistan
 **Practical Adoption Path:**
 To adopt this project, developers can start by evaluating the exposed implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then choose to integrate the MCP server with their AI assistants or tools, leveraging the standard protocol to connect different systems. The project's recent activity, adoption, and ecosystem signals indicate a high production readiness, making it suitable for serious pilots.
 
-**Production Readiness:**
-The drolosoft/immich-photo-manager project exhibits a high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/drolosoft/immich-photo-manager).
 
 ### Русский
 

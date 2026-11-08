@@ -36,8 +36,9 @@ The value of erikmaday/unusual-whales-mcp lies in its ability to standardize int
 **Practical Adoption Path**
 For practical adoption, developers can start by evaluating the project through a small proof of concept and reviewing the project's README. This will help them understand the project's functionality and requirements. Once they are satisfied with the project's capabilities, they can integrate it into their systems, ensuring thorough dependency and maintenance checks to ensure production readiness.
 
-**Production Readiness**
-The production readiness of erikmaday/unusual-whales-mcp is "Medium", indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/erikmaday/unusual-whales-mcp).
 
 ### Русский
 

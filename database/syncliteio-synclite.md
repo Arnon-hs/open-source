@@ -40,7 +40,10 @@ To adopt SyncLite, developers should follow these steps:
 1. **Manual Inspection:** Review the project's documentation, codebase, and community engagement to ensure it meets your project's requirements.
 2. **Verify Quality Signals:** Check the project's update frequency, issue resolution rate, and community activity to gauge its maintainability.
 3. **Dependency and Maintenance Checks:** Review the project's dependencies, license, and release cadence to ensure they align with your project's needs.
-4. **Integration Testing:** Test SyncLite with your specific use case to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/syncliteio/SyncLite).
 
 ### Русский
 

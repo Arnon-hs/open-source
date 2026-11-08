@@ -39,7 +39,10 @@ To adopt this project, developers should follow these steps:
 1. Review the project's README and activity to understand its purpose and limitations.
 2. Manually inspect the project's code and dependencies to ensure they align with your needs.
 3. Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your quality standards.
-4. Consider using the project for prototype or internal workflow development, but not for production environments without thorough evaluation and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/flathub/flathub/issues/9338).
 
 ### Русский
 

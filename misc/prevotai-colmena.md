@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers need to manually inspect the project's metadata, including its README, activity, and integration signals. They should also verify the project's quality signals, such as its license, maintenance, documentation, issues, and release cadence, to ensure it meets their needs.
 
-**Production Readiness:** The project's production readiness is rated as medium, making it suitable for prototypes or internal workflows. However, it may not be ready for large-scale production use due to
+**Production Readiness:** The project's production readiness is rated as medium, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/prevotai/colmena).
 
 ### Русский
 

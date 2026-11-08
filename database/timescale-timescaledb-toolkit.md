@@ -39,9 +39,9 @@ The main value proposition of timescale/timescaledb-toolkit is to simplify data 
 
 To adopt timescale/timescaledb-toolkit, teams should first manually inspect the integration process and validate the setup cost before committing to use it in production. This involves checking the integration signals in the metadata and conducting dependency and maintenance checks. Once validated, teams can start using the toolkit to speed up data access and persist data with ease.
 
-**Production readiness:**
+## Before adopting
 
-While timescale/timescaledb-toolkit is a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/timescale/timescaledb-toolkit).
 
 ### Русский
 

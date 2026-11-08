@@ -35,7 +35,11 @@ Here is a brief summary of the open-source project "Angular JSON Schema Form" (a
 
 **Practical Adoption Path:** To adopt ajsf, teams can start by evaluating the library through a small proof of concept and reviewing the README documentation. This will help them understand the library's capabilities and potential use cases. Once satisfied, teams can integrate ajsf into their applications to speed up data access and prototype database-backed apps.
 
-**Production Readiness:** ajsf has received a high production readiness score due to its recent activity, strong adoption, and ecosystem signals. With 360 GitHub stars, 177 forks, and
+**Production Readiness:** ajsf has received a high production readiness score due to its recent activity, strong adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hamzahamidi/ajsf).
 
 ### Русский
 

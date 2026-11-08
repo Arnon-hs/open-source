@@ -35,7 +35,11 @@ Here's a brief summary of the 200ok-ch/organice project:
 
 **Practical Adoption Path:** To adopt 200ok-ch/organice, developers should start with a small proof of concept and thoroughly review the README to understand the integration path. This will help them evaluate the setup cost and validate the feasibility of the project before committing to its use.
 
-**Production Readiness:** 200ok-ch/organice has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, its use in production environments requires careful evaluation, dependency checks, and maintenance to
+**Production Readiness:** 200ok-ch/organice has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/200ok-ch/organice).
 
 ### Русский
 

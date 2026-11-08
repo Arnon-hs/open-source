@@ -33,7 +33,11 @@ Inducer/loopy is an open-source code generator that enables teams to persist, qu
 
 The value proposition of inducer/loopy lies in its ability to simplify data management tasks, allowing developers to focus on higher-level tasks. The practical adoption path involves evaluating the project through a small proof of concept and reviewing the README documentation to ensure a smooth integration process. This approach enables teams to assess the project's feasibility and identify potential challenges before investing significant resources.
 
-Inducer/loopy's production readiness is high due to its recent activity, strong adoption (634 GitHub stars and 80 forks), and robust ecosystem. The project's recent update on July 24, 2026, suggests ongoing maintenance and development. However, it's essential to conduct a final review of the license, security posture, and active maintainers to
+Inducer/loopy's production readiness is high due to its recent activity, strong adoption (634 GitHub stars and 80 forks), and robust ecosystem. The project's recent update on July 24, 2026, suggests ongoing maintenance and development.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/inducer/loopy).
 
 ### Русский
 

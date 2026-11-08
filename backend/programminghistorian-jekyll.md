@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then explore the project's documentation and codebase to understand how to integrate it into their own projects. Once familiar with the project, developers can start building their AI-powered applications using the provided tools and frameworks.
 
-**Production Readiness:** The project has a high level of production readiness, with recent activity, adoption, and ecosystem signals indicating that it is a mature and stable open-source project. The project's recent update in
+**Production Readiness:** The project has a high level of production readiness, with recent activity, adoption, and ecosystem signals indicating that it is a mature and stable open-source project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/programminghistorian/jekyll).
 
 ### Русский
 

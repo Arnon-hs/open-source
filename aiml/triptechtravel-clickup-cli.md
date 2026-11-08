@@ -38,7 +38,11 @@ AI/ML · DevTools
 3. Use the tool to prototype AI features, build workflows, or evaluate model tooling.
 4. Refine and customize the tool as needed to fit their specific use case.
 
-**Production Readiness:** triptechtravel/clickup-cli has a medium production readiness score. While it is useful for prototypes or internal workflows, it requires careful evaluation and consideration of dependency and maintenance checks before being used in
+**Production Readiness:** triptechtravel/clickup-cli has a medium production readiness score.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/triptechtravel/clickup-cli).
 
 ### Русский
 

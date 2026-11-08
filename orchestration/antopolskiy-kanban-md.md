@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt antopolskiy/kanban-md, users can start by evaluating its implementation signals, such as its API, CLI, and language metadata. This will help them assess its compatibility with their existing infrastructure and tools. Next, they can explore its use cases, including coordinating multi-agent workflows and standardizing agent memory. With its recent activity and strong adoption, users can be confident in its stability and support.
 
-**Production Readiness:** The project's recent activity, adoption, and ecosystem signals are strong enough to warrant a serious pilot. With
+**Production Readiness:** The project's recent activity, adoption, and ecosystem signals are strong enough to warrant a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/antopolskiy/kanban-md).
 
 ### Русский
 

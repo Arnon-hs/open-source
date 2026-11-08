@@ -42,7 +42,10 @@ The production readiness of goreleaser/goreleaser is high due to:
 1. Recent activity and updates (2026-07-02).
 2. Strong adoption, with 15902 GitHub stars and 1080 forks.
 3. A large and active community following.
-4. A high-quality codebase written in Go, with 6 topics and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/goreleaser/goreleaser).
 
 ### Русский
 

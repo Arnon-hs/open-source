@@ -43,7 +43,10 @@ To adopt auth0/go-jwt-middleware, developers can follow these practical steps:
 2. Review the project's README documentation to understand its configuration and usage.
 3. Integrate the middleware into the existing application architecture, starting with a small pilot project.
 4. Monitor the middleware's performance and security posture to ensure it aligns with the application's requirements.
-5. Continuously update and maintain the middleware to ensure it remains secure and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/auth0/go-jwt-middleware).
 
 ### Русский
 

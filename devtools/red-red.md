@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the open-source project 'red/red':
 
 **Practical Adoption Path**: To adopt Red, developers should start with a small proof of concept and carefully review the README documentation. While Red has a strong ecosystem and recent activity, the integration path is not immediately obvious from the metadata. Therefore, it's essential to validate the setup cost before committing to the project.
 
-**Production Readiness**: Despite being an open-source project, Red is considered production-ready due to its strong recent activity, adoption, and ecosystem signals. With over 6,000 GitHub stars and 400 forks, Red has a
+**Production Readiness**: Despite being an open-source project, Red is considered production-ready due to its strong recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/red/red).
 
 ### Русский
 
@@ -72,7 +76,10 @@ Red/Red 的生产可用性较高，理由如下：
 * 近期活动：项目仍然活跃
 * 采用率：项目已被广泛采用
 * 生态系统信号：项目的生态系统信号强烈
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/red/red)。
 
 ## 🧭 Practical evaluation
 

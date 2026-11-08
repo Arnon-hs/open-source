@@ -35,7 +35,11 @@ CIRadar is an open-source project that helps diagnose and resolve continuous int
 
 **Practical Adoption Path:** To adopt CIRadar, developers should first manually inspect the project's integration signals and metadata to ensure it aligns with their specific needs. Next, they should verify the project's license, maintenance, documentation, issue tracking, and release cadence to ensure it meets their requirements. Once these checks are complete, developers can integrate CIRadar into their CI pipelines and workflows.
 
-**Production Readiness:** While CIRadar has the potential to be a valuable tool for CI failure diagnosis, its production readiness is currently rated as medium due to limited quality signals and sparse integration metadata. As a result, it is recommended for use in prototype environments or internal workflows, with careful dependency and
+**Production Readiness:** While CIRadar has the potential to be a valuable tool for CI failure diagnosis, its production readiness is currently rated as medium due to limited quality signals and sparse integration metadata.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Bluezly/CIRadar).
 
 ### Русский
 

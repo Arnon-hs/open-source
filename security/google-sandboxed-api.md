@@ -44,9 +44,9 @@ To adopt google/sandboxed-api, teams can follow these steps:
 3. Review the project's license, security posture, and maintainers to ensure alignment with the team's requirements.
 4. Integrate the project into the team's development workflow, taking advantage of its sandbox generation capabilities.
 
-**Production Readiness:**
+## Before adopting
 
-google/sandboxed-api has a high degree of production readiness, with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/google/sandboxed-api).
 
 ### Русский
 

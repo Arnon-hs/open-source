@@ -39,7 +39,10 @@ To adopt znscli/zns in a production environment, follow these steps:
 1. **Evaluate the project**: Review the codebase, dependencies, and maintenance history to ensure it aligns with your organization's standards.
 2. **Start with a small proof of concept**: Test the tool in a controlled environment to assess its performance and usability.
 3. **Check the README and documentation**: Verify that the documentation is comprehensive and up-to-date to ensure a smooth onboarding process.
-4. **Assess the security posture**: Review the tool's security features and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/znscli/zns).
 
 ### Русский
 

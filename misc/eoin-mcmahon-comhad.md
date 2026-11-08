@@ -42,7 +42,10 @@ To adopt Comhad in a production-ready environment, developers should follow thes
 1. **Verify the project's quality signals**: Check the project's update history, documentation, and issue tracking to ensure it meets the necessary quality standards.
 2. **Inspect the code and dependencies**: Review the project's codebase and dependencies to ensure they align with your project's requirements and are properly maintained.
 3. **Evaluate the project's license and maintenance**: Verify the project's license and maintenance plan to ensure it meets your project's needs and is sustainable in the long term.
-4. **Test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Eoin-McMahon/comhad).
 
 ### Русский
 

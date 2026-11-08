@@ -36,7 +36,10 @@ AI/ML · Data · Marketing
 1. **Evaluate and Assess:** Start by evaluating the project's feasibility, checking the README, and assessing its integration with existing tools and workflows.
 2. **Proof of Concept (PoC):** Develop a small PoC to test the project's functionality and identify potential issues.
 3. **Dependency and Maintenance Checks:** Perform thorough dependency and maintenance checks to ensure the project's stability and security.
-4. **Production Readiness:** Once the PoC is successful and dependencies are resolved, consider deploying aeo.js in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rubenmarcus/aeo.js).
 
 ### Русский
 

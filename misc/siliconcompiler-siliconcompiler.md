@@ -38,7 +38,10 @@ The project's production readiness is high due to several factors, including:
 * Recent activity: The project was last updated on 2026-07-01, indicating that it's actively maintained.
 * Adoption: The project has 1172 GitHub stars and 129 forks, demonstrating its popularity and potential for widespread adoption.
 * Ecosystem signals: The project's ecosystem signals are strong, suggesting that it's well-integrated with other tools and technologies.
-* Quality signals: The project's primary language is Python, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/siliconcompiler/siliconcompiler).
 
 ### Русский
 

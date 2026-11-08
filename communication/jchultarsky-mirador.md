@@ -33,7 +33,11 @@ Communication · Productivity · DevTools · Observability
 
 **Practical Adoption Path:** To adopt Mirador, developers can start by evaluating its features and integration signals. They should assess their project's requirements and determine whether Mirador's pre-built components align with their needs. A straightforward evaluation process allows developers to quickly gauge Mirador's potential value for their project. Once adopted, Mirador can be integrated into existing workflows, enabling developers to build product UI faster and reuse interface components.
 
-**Production Readiness:** Mirador is considered "Medium" in terms of production readiness. While it is useful for
+**Production Readiness:** Mirador is considered "Medium" in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jchultarsky/mirador).
 
 ### Русский
 

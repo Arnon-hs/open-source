@@ -37,8 +37,9 @@ The primary value of Slopocop lies in its ability to streamline developer workfl
 **Practical Adoption Path:**
 Adopting Slopocop in a production environment requires careful consideration and manual inspection. Developers should verify the project's license, maintenance, documentation, issues, and release cadence before integrating it into their workflow. Additionally, they should perform dependency and maintenance checks to ensure a smooth adoption process. For non-production use cases, such as prototypes or internal workflows, Slopocop can be a useful tool to speed up developer workflows and automate local engineering tasks.
 
-**Production Readiness:**
-Slopocop has a medium production readiness score, indicating that it can be useful for specific use cases, such as prototypes or internal workflows, but requires careful evaluation and validation before deployment in a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LBognanni/slopocop).
 
 ### Русский
 

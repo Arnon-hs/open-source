@@ -37,7 +37,11 @@ Semsearch offers a unique value proposition by providing an efficient way to mak
 To adopt Semsearch, users should start by manually inspecting the project's metadata, dependencies, and maintenance records to ensure it meets their needs. They should also verify the project's license, documentation, issue tracker, and release cadence before integrating it into their workflows. For non-critical applications or prototypes, Semsearch's medium production readiness level makes it a suitable choice, allowing users to test and refine their implementation before scaling up.
 
 **Production Readiness:**
-Semsearch has a medium production readiness level, indicating that it is suitable for non-critical applications, prototypes, or internal workflows. However, users should exercise caution and perform thorough checks before deploying it in production environments due to limited quality signals and
+Semsearch has a medium production readiness level, indicating that it is suitable for non-critical applications, prototypes, or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yikerman/semantic-search).
 
 ### Русский
 

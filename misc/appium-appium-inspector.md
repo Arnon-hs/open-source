@@ -41,7 +41,11 @@ To adopt Appium Inspector, developers need to manually inspect the integration p
 
 **Production Readiness:**
 
-Appium Inspector is considered production-ready, but with some caveats. Its medium production readiness score indicates that it's suitable for prototypes or internal workflows, where the risks and costs can be more easily managed. However, before deploying it in a
+Appium Inspector is considered production-ready, but with some caveats. Its medium production readiness score indicates that it's suitable for prototypes or internal workflows, where the risks and costs can be more easily managed.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/appium/appium-inspector).
 
 ### Русский
 

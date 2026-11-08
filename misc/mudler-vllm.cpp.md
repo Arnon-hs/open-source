@@ -39,11 +39,9 @@ The C++ Version of vLLM offers significant value to developers by providing a pr
 2. **Building RAG or agent workflows**: Leverage the pre-built model stack to create complex AI workflows and applications.
 3. **Evaluating model tooling**: Assess and compare different AI model tools and technologies using the C++ Version of vLLM.
 
-**Practical Adoption Path:**
+## Before adopting
 
-To adopt the C++ Version of vLLM, follow these steps:
-
-1. **Verify license and maintenance**: Ensure that the project is well-maintained and has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mudler/vllm.cpp).
 
 ### Русский
 

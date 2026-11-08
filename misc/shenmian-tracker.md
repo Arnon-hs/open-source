@@ -41,7 +41,11 @@ To adopt ShenMian/tracker, users must manually inspect the code and setup proces
 
 **Production Readiness:**
 
-ShenMian/tracker has a medium level of production readiness, making it suitable for prototyping or internal workflows where the risks and costs can be managed. However, it is not yet ready for widespread adoption or
+ShenMian/tracker has a medium level of production readiness, making it suitable for prototyping or internal workflows where the risks and costs can be managed.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ShenMian/tracker).
 
 ### Русский
 

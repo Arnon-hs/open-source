@@ -44,7 +44,9 @@ Production readiness: The project has medium production readiness, meaning it's 
 * Prototypes: The project can be used to quickly test and validate ideas.
 * Internal workflows: The project can be used to streamline and standardize internal development processes.
 
-However, before deploying the project in production, it's essential to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/UI5/sample-app).
 
 ### Русский
 

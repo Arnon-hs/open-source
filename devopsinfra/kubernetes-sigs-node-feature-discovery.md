@@ -38,7 +38,11 @@ The value proposition of this project lies in its ability to reduce the time and
 To adopt this project, users should start with a small proof of concept and thoroughly review the README documentation. This will help evaluate the feasibility of integration and ensure a smooth onboarding process. With a solid understanding of the project's capabilities and limitations, users can proceed with a more extensive implementation.
 
 **Production Readiness:**
-The project demonstrates high production readiness, with strong ecosystem signals, recent activity, and high adoption rates. Although some final review of license, security posture, and active maintainers is necessary, the overall quality signals and metadata suggest that
+The project demonstrates high production readiness, with strong ecosystem signals, recent activity, and high adoption rates.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kubernetes-sigs/node-feature-discovery).
 
 ### Русский
 

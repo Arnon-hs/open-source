@@ -36,8 +36,9 @@ The primary value proposition of this project lies in its ability to standardize
 **Practical Adoption Path:**
 To adopt this project, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The project's straightforward integration process and strong ecosystem signals suggest a relatively smooth adoption path. Developers can begin by connecting AI agents to tools and shipping Model Context Protocol servers.
 
-**Production Readiness:**
-adityaarsharma/librecrawl-technical-seo-a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/adityaarsharma/librecrawl-technical-seo-audit-mcp).
 
 ### Русский
 

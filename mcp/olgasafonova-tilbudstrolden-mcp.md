@@ -42,7 +42,10 @@ To adopt Tilbudstrolden-MCP, developers can follow these steps:
 1. Evaluate the project's documentation and code quality to ensure it meets their specific requirements.
 2. Integrate the MCP server with their AI assistant or tool, using the provided API/SDK/CLI.
 3. Test and validate the integration to ensure seamless communication and data exchange.
-4. Deploy the MCP server in a production-ready environment, following the project's guidelines and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/olgasafonova/tilbudstrolden-mcp).
 
 ### Русский
 

@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To integrate UnitsNet into existing workflows, start with a small proof of concept to evaluate its feasibility. Thoroughly review the README documentation to ensure a smooth setup process. As the integration path may not be immediately obvious, it's crucial to validate the setup cost before committing to a full-scale implementation.
 
-**Production Readiness:** UnitsNet has demonstrated strong production readiness, with recent activity, adoption, and a robust ecosystem. The project has garnered 2961 GitHub stars and 412 forks, indicating a sizable community and interest in its use. As of 2026-07-25, the project has been updated, further solidifying its production readiness. Despite some potential integration challenges, UnitsNet is well-suited for
+**Production Readiness:** UnitsNet has demonstrated strong production readiness, with recent activity, adoption, and a robust ecosystem. The project has garnered 2961 GitHub stars and 412 forks, indicating a sizable community and interest in its use. As of 2026-07-25, the project has been updated, further solidifying its production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/angularsen/UnitsNet).
 
 ### Русский
 

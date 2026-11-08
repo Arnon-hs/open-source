@@ -41,7 +41,11 @@ To adopt PatternFly React, developers can start by evaluating the library throug
 
 **Production Readiness:**
 
-PatternFly React demonstrates strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity and stability. The library's recent updates, large user base (856 GitHub stars), and primary language (TypeScript) all contribute to its production-readiness. However, it's essential to conduct a thorough review of the
+PatternFly React demonstrates strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity and stability. The library's recent updates, large user base (856 GitHub stars), and primary language (TypeScript) all contribute to its production-readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/patternfly/patternfly-react).
 
 ### Русский
 

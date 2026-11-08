@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers need to manually inspect the code, README, and activity to ensure they match their specific workflow. This requires a good understanding of the project's functionality and potential integration points. Once the setup is validated, developers can commit to using the project, but it's essential to consider the potential setup cost before doing so.
 
-**Production Readiness:** The production readiness of this project is medium due to its potential usefulness in prototypes or internal workflows. However, before deploying it in production, developers should perform dependency and maintenance checks to ensure the project's stability and reliability. With proper validation and maintenance, this
+**Production Readiness:** The production readiness of this project is medium due to its potential usefulness in prototypes or internal workflows. However, before deploying it in production, developers should perform dependency and maintenance checks to ensure the project's stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/d4rken-org/permission-pilot).
 
 ### Русский
 

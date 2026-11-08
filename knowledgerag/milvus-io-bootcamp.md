@@ -33,7 +33,11 @@ Knowledge/RAG · AI/ML · Data · Database
 
 **Practical Adoption Path:** To adopt milvus-io/bootcamp, organizations can start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and ensure a smooth onboarding process. As the project is production-ready, organizations can proceed with a serious pilot to test its capabilities and scalability.
 
-**Production Readiness:** Milvus-io/bootcamp has demonstrated strong signals of production readiness, including recent activity, adoption, and ecosystem signals. With 2442 GitHub stars and 685 forks, the project has
+**Production Readiness:** Milvus-io/bootcamp has demonstrated strong signals of production readiness, including recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/milvus-io/bootcamp).
 
 ### Русский
 

@@ -36,8 +36,9 @@ The value proposition of Chaty lies in its ability to connect AI assistants to r
 **Practical Adoption Path:**
 To adopt Chaty, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then integrate Chaty with their existing tools and services using the MCP protocol. This can be done by shipping Model Context Protocol servers and standardizing integrations. The adoption path is straightforward, making it suitable for prototypes or internal workflows.
 
-**Production Readiness:**
-Chaty has a medium level of production readiness, indicating that it is useful for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Fangyuan025/Chaty).
 
 ### Русский
 

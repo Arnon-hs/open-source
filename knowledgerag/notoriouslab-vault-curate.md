@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the notoriouslab/vault-curate project:
 
 **Practical Adoption Path:** The project appears to have a straightforward integration process, as it exposes implementation signals such as API/SDK/CLI, language metadata, and focused topics. This makes it relatively easy for users to evaluate and adopt the solution. To start using vault-curate, users can simply clone the repository, set up the required dependencies, and begin indexing their knowledge bases.
 
-**Production Readiness:** With a recent update, 117 GitHub stars, and 19 forks, the project demonstrates strong adoption and ecosystem signals. Its high production readiness score indicates that it is suitable for serious piloting and can
+**Production Readiness:** With a recent update, 117 GitHub stars, and 19 forks, the project demonstrates strong adoption and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/notoriouslab/vault-curate).
 
 ### Русский
 
@@ -45,7 +49,11 @@ Here's a brief summary and analysis of the notoriouslab/vault-curate project:
 
 Проект имеет высокий уровень готовности к производству (High) из-за недавней активности, приёма и сигналов экосистемы. Он также имеет сильные качественные сигналы, такие как 117 GitHub звезд и 19 фолов, что говорит о его популярности и потенциале.
 
-Проект можно легко внедрить в production, особенно в сценариях, когда необходимо индексировать базы знаний и улучшать поиск по документам. Это идеальное решение для организаций, которые
+Проект можно легко внедрить в production, особенно в сценариях, когда необходимо индексировать базы знаний и улучшать поиск по документам.
+
+## Перед использованием
+
+Проверьте актуальную документацию, условия лицензии, зависимости и состояние поддержки с учетом своей задачи. [Открыть источник](https://github.com/notoriouslab/vault-curate).
 
 ### 中文
 

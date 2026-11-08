@@ -43,7 +43,11 @@ MarsX-dev/devhunt is an open-source platform that enables developers to launch a
 2. **Integration**: Once the evaluation is successful, integrate the platform into your development workflow to take advantage of its features.
 3. **Adoption**: As you become more familiar with the platform, adopt it as a standard tool for building and deploying user-facing interfaces.
 
-**Production Readiness:** MarsX-dev/devhunt has a high production readiness score, indicating that it is suitable for serious pilots. This is due to
+**Production Readiness:** MarsX-dev/devhunt has a high production readiness score, indicating that it is suitable for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MarsX-dev/devhunt).
 
 ### Русский
 

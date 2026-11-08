@@ -41,7 +41,10 @@ To adopt FastAPI for Agents, developers should follow these steps:
 
 1. **Verify the license and dependencies**: Before using the project, ensure that the license is compatible with your project's requirements and that you understand the dependencies and potential maintenance implications.
 2. **Review documentation and issues**: Carefully review the project's documentation, issues, and release cadence to ensure that the project is well-maintained and meets your needs.
-3. **Conduct a proof-of-concept**: Perform a proof-of-concept to validate the project's functionality and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/agno-agi/agentos-railway).
 
 ### Русский
 

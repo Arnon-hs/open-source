@@ -39,7 +39,9 @@ As for the practical adoption path, here's a suggested step-by-step process:
 4. **Integrate and test**: Integrate the Safehttp client into your project and thoroughly test its functionality to ensure it meets your requirements.
 5. **Monitor and maintain**: Continuously monitor the project's activity and maintenance to ensure it remains stable and secure in production.
 
-In terms of production readiness, the Safehttp project is rated as medium, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ayuhito/safehttp).
 
 ### Русский
 

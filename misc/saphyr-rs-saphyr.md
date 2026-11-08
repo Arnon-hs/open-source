@@ -36,8 +36,9 @@ The value of saphyr-rs/saphyr lies in its ability to accelerate the development 
 **Practical Adoption Path:**
 To adopt saphyr-rs/saphyr, developers should first manually inspect the integration process to ensure a smooth transition. This may involve validating the setup cost and verifying that the library meets their specific requirements. Once the integration path is clear, developers can begin leveraging the library to parse YAML and build AI-powered projects.
 
-**Production Readiness:**
-While saphyr-rs/saphyr is rated as having medium production readiness, it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/saphyr-rs/saphyr).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt boardgame.io, start with a small proof of concept and thoroughly review
 
 **Production Readiness:**
 
-Boardgame.io is highly production-ready, with strong ecosystem signals, recent activity, and a large community of adopters (12388 GitHub stars). The project's primary language is TypeScript, and it has
+Boardgame.io is highly production-ready, with strong ecosystem signals, recent activity, and a large community of adopters (12388 GitHub stars).
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/boardgameio/boardgame.io).
 
 ### Русский
 

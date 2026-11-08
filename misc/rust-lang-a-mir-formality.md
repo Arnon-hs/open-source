@@ -35,7 +35,11 @@ Here's a summary of the project and its value, adoption path, and production rea
 
 **Adoption Path:** Before adopting this project, manual inspection of the integration process is necessary due to the sparse integration signals in the discovered metadata. Developers must also validate the setup cost before committing to the project, as the integration path may not be immediately obvious. However, the project's medium production readiness rating indicates that it can be useful for prototypes or internal workflows with proper dependency and maintenance checks.
 
-**Production Readiness:** The project has a medium production readiness rating, indicating that it can be used in production environments with caution. While it may not be suitable for
+**Production Readiness:** The project has a medium production readiness rating, indicating that it can be used in production environments with caution.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rust-lang/a-mir-formality).
 
 ### Русский
 

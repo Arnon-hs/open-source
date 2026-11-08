@@ -33,7 +33,11 @@ Value proposition: helps ship user-facing interfaces? Actually description: expo
 
 Let's craft 2-3
 
-bgreenwell/doxx is a Rust‑based CLI/SDK that lets you read and extract the contents of .docx files directly from the terminal—no Microsoft Office required—making it easy to embed document‑parsing logic into any frontend or DevTools workflow. By exposing a clean API/CLI and leveraging strong Rust ecosystem signals, teams can quickly adopt it to
+bgreenwell/doxx is a Rust‑based CLI/SDK that lets you read and extract the contents of .docx files directly from the terminal—no Microsoft Office required—making it easy to embed document‑parsing logic into any frontend or DevTools workflow.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bgreenwell/doxx).
 
 ### Русский
 

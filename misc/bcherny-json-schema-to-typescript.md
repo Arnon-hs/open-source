@@ -45,9 +45,9 @@ To adopt this project, developers can follow these steps:
 4. Integrate the project into their workflow, potentially with manual inspection to ensure accuracy.
 5. Monitor the project's activity and updates to ensure continued support and maintenance.
 
-**Production Readiness:**
+## Before adopting
 
-With 3321 GitHub stars, 454 forks, and recent activity, bcherny/json-schema-to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bcherny/json-schema-to-typescript).
 
 ### Русский
 

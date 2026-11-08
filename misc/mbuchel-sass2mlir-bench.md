@@ -38,7 +38,10 @@ SASS2MLIR findings is an open-source project that offers significant improvement
 1. Manual inspection: Review the project's code, documentation, and community engagement to ensure it meets the organization's requirements.
 2. Dependency checks: Verify that the project's dependencies are compatible with the organization's existing infrastructure and tools.
 3. Maintenance checks: Review the project's release cadence, issue tracking, and community support to ensure it is actively maintained.
-4. Evaluate use cases: Determine which use cases (prototype AI features, build RAG or agent workflows, evaluate model tooling) align with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mbuchel/sass2mlir-bench).
 
 ### Русский
 

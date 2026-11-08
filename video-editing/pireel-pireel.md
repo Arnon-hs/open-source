@@ -42,7 +42,10 @@ To adopt pireel/pireel, developers can follow these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. Assess the project's production readiness, including recent activity, adoption, and ecosystem signals.
 3. Review the project's license, security posture, and active maintainers to ensure alignment with your organization's requirements.
-4. Integrate pireel/pireel with your AI agents and tools using the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pireel/pireel).
 
 ### Русский
 

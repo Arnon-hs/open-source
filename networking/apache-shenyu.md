@@ -44,11 +44,9 @@ To adopt Apache ShenYu, developers can follow these steps:
 3. Integrate with existing services: Configure ShenYu to proxy and convert APIs, and integrate it with existing services.
 4. Test and deploy: Thoroughly test the setup and deploy it to production.
 
-**Production Readiness**
+## Before adopting
 
-Apache ShenYu has a high production readiness score due to its:
-
-* Strong ecosystem: With 8804 GitHub stars and 3053 forks, ShenYu has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/apache/shenyu).
 
 ### Русский
 

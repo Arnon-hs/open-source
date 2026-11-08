@@ -33,7 +33,11 @@ Here's a brief summary of the open-source project:
 
 **Value and Adoption Path:** The value of Profanity lies in its ability to streamline development processes, making it easier for engineers to manage tasks and collaborate with others. To practically adopt Profanity, developers can integrate it into their existing workflows by using its API, SDK, or CLI. This can be done by evaluating the implementation signals exposed by the project, such as language metadata or focused topics.
 
-**Production Readiness:** Profanity is considered production-ready, with a high score due to recent activity, strong adoption, and a robust ecosystem. The project has a significant number of GitHub stars (1528) and forks (228), indicating its popularity and potential for widespread use. The primary language used is C, and the project has been updated recently (2026-08-06), suggesting that it is actively maintained. However, a final review of the license, security posture, and active maintainers is still necessary to ensure its suitability for
+**Production Readiness:** Profanity is considered production-ready, with a high score due to recent activity, strong adoption, and a robust ecosystem. The project has a significant number of GitHub stars (1528) and forks (228), indicating its popularity and potential for widespread use. The primary language used is C, and the project has been updated recently (2026-08-06), suggesting that it is actively maintained.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/profanity-im/profanity).
 
 ### Русский
 

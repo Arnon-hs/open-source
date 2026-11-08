@@ -41,7 +41,11 @@ To adopt arwes/arwes, users should start by evaluating the framework through a s
 
 **Production Readiness:**
 
-arwes/arwes exhibits high production readiness, thanks to its recent activity, strong adoption (7531 GitHub stars and 334 forks), and positive ecosystem signals. With
+arwes/arwes exhibits high production readiness, thanks to its recent activity, strong adoption (7531 GitHub stars and 334 forks), and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/arwes/arwes).
 
 ### Русский
 

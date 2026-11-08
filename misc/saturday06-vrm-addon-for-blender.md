@@ -37,7 +37,11 @@ Misc
 2. **Integration:** Manually inspect the integration process to ensure a smooth transition.
 3. **Dependency and Maintenance Checks:** Perform thorough checks on the add-on's dependencies and maintenance status to ensure it is production-ready.
 
-**Production Readiness:** The VRM-Addon-for-Blender has a medium level of production readiness. It is suitable for use in prototypes or
+**Production Readiness:** The VRM-Addon-for-Blender has a medium level of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/saturday06/VRM-Addon-for-Blender).
 
 ### Русский
 

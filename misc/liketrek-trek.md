@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the liketrek/TREK project:
 
 **Practical Adoption Path:** To adopt liketrek/TREK, a small proof of concept should be started with a review of the README file. This will help evaluate the project's feasibility and identify potential integration points. Once the feasibility is established, a more extensive evaluation can be conducted, including a review of the project's license, security posture, and active maintainers.
 
-**Production Readiness:** Liketrek/TREK has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals. With over 10,000 GitHub stars and
+**Production Readiness:** Liketrek/TREK has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/liketrek/TREK).
 
 ### Русский
 

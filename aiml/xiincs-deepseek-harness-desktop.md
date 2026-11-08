@@ -39,9 +39,9 @@ The value proposition of DeepSeek Harness Desktop lies in its ability to quickly
 
 To adopt DeepSeek Harness Desktop, users can start by evaluating the project through a small proof of concept and checking the README documentation. Before committing to the project, it's essential to validate the setup cost and consider the integration path, which may not be immediately obvious from the metadata. Once familiar with the project, users can begin building and prototyping AI capabilities, leveraging the project's bundled Node.js runtime and Tauri 2 framework.
 
-**Production Readiness:**
+## Before adopting
 
-DeepSeek Harness Desktop is considered production-ready at a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xiincs/deepseek-harness-desktop).
 
 ### Русский
 

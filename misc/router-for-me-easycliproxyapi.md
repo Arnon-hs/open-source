@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path**: To adopt this project, developers can start by evaluating its feasibility through a small proof of concept and reviewing its README documentation. Once familiar with the tool, they can begin using it to prototype AI features, build RAG workflows, or evaluate model tooling. Before integrating it into production, developers should perform dependency and maintenance checks to ensure its stability and security.
 
-**Production Readiness**: The project has a medium production readiness score, indicating that it is suitable for use in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/router-for-me/EasyCLIProxyAPI).
 
 ### Русский
 

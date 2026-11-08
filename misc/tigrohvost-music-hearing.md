@@ -39,11 +39,9 @@ The Agent Listen Music Skill offers several benefits to developers, including:
 - **Streamlined Workflow Development**: By providing a pre-built AI stack, users can focus on building workflows and evaluating model tooling without the need for extensive model development.
 - **Evaluation and Testing**: The project enables developers to evaluate and test different AI models, tools, and workflows, helping them make informed decisions about their technology stack.
 
-**Practical Adoption Path**
+## Before adopting
 
-To adopt the Agent Listen Music Skill, follow these steps:
-
-1. **Manual Inspection**: Carefully review the project's metadata, documentation, and code to ensure it meets your requirements and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tigrohvost/music-hearing).
 
 ### Русский
 

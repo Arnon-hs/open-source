@@ -35,7 +35,9 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** To adopt Phistory, developers can start by evaluating the tool through a small proof of concept and reviewing the project's README documentation. They can then integrate Phistory into their project, following the recommended steps and checking for dependencies and maintenance requirements. As Phistory is still in the medium production readiness stage, developers should be prepared to conduct thorough evaluations and maintenance checks before deploying the tool in a production environment.
 
-**Production Readiness:** Phistory has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/WEIFENG2333/phistory).
 
 ### Русский
 

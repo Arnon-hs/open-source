@@ -43,7 +43,10 @@ To adopt this project, follow these steps:
 2. **Check maintenance and documentation**: Review the project's documentation, issues, and release cadence to gauge its maintainability and support.
 3. **Perform manual inspection**: Carefully evaluate the project's integration signals, quality signals, and overall code quality to assess its suitability for your use case.
 4. **Integrate and test**: Once you've deemed the project suitable, integrate it with your Magento 2 instance and test its functionality.
-5. **Monitor and maintain**: Continuously monitor the project's updates and maintenance to ensure its stability and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sndsabin/magento2-semantic-search).
 
 ### Русский
 

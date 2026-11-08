@@ -42,7 +42,10 @@ To adopt Mcpscore, users can follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it meets their needs.
 2. **Verify Dependencies**: Check the project's dependencies and ensure they are compatible with the user's environment.
 3. **Verify Maintenance**: Review the project's maintenance history and ensure it is actively maintained.
-4. **Verify License**: Ensure the project's license aligns with the user's needs and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mcp-box/mcpscore).
 
 ### Русский
 

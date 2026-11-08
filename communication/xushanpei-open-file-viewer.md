@@ -34,7 +34,11 @@ xushanpei/open-file-viewer is an open-source, framework-agnostic embedded file v
 The main value proposition of xushanpei/open-file-viewer lies in its ability to integrate multiple tools and files into a single, stable container, making it easier to create repeatable workflows and automate tasks. This can help organizations streamline their processes, reduce manual effort, and improve overall efficiency.
 
 **Practical Adoption Path:**
-To adopt xushanpei/open-file-viewer, developers can start by reviewing the project's documentation and codebase to understand its architecture and integration requirements. They should also perform a manual inspection of the project's metadata to ensure it meets their specific needs. Once they have a clear understanding of the project's capabilities and limitations, they can begin integrating it into their workflows, starting with prototypes or internal projects. As they gain more experience and confidence in the project's stability and
+To adopt xushanpei/open-file-viewer, developers can start by reviewing the project's documentation and codebase to understand its architecture and integration requirements. They should also perform a manual inspection of the project's metadata to ensure it meets their specific needs. Once they have a clear understanding of the project's capabilities and limitations, they can begin integrating it into their workflows, starting with prototypes or internal projects.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xushanpei/open-file-viewer).
 
 ### Русский
 

@@ -39,7 +39,10 @@ The massive-com/ticker-wall project provides a scalable stock ticker tape soluti
 1. **Evaluate the project**: Review the codebase, documentation, and integration signals to ensure it meets your project requirements.
 2. **Assess production readiness**: Check the project's dependencies, maintenance history, and security posture to determine if it's suitable for production use.
 3. **Integrate the project**: Follow the provided documentation to integrate the massive-com/ticker-wall project into your application.
-4. **Test and refine**: Thoroughly test the integrated project and refine it as needed to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/massive-com/ticker-wall).
 
 ### Русский
 

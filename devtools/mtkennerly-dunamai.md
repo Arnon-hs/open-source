@@ -33,7 +33,11 @@ Dunamai is a dynamic versioning library and CLI that enables developers to add A
 
 The value of Dunamai lies in its ability to simplify the integration of AI capabilities into existing projects, making it an attractive choice for developers looking to leverage AI without a significant upfront investment. The practical adoption path involves evaluating the library's API, SDK, and CLI, as well as exploring its language metadata and focused topics.
 
-In terms of production readiness, Dunamai has strong signals, including 383 GitHub stars, 27 forks, and recent activity (updated on 2026-07-25). Its primary language is Python, and it has 13 topics, indicating a robust and well-maintained project. While some risks remain, such as license, security posture, and active maintainers still needing final review, Dunamai is considered high for production readiness, making it a suitable choice for
+In terms of production readiness, Dunamai has strong signals, including 383 GitHub stars, 27 forks, and recent activity (updated on 2026-07-25). Its primary language is Python, and it has 13 topics, indicating a robust and well-maintained project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mtkennerly/dunamai).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The primary value proposition of LibUsbDotNet/LibUsbDotNet lies in its ability t
 
 To adopt LibUsbDotNet/LibUsbDotNet, teams should first manually inspect the library's integration signals and validate the setup costs before committing to production. This involves reviewing the library's documentation, testing its functionality, and assessing the potential impact on existing workflows. Once validated, teams can integrate the library into their projects, leveraging its cross-platform capabilities for USB device control.
 
-**Production Readiness**
+## Before adopting
 
-LibUsbDotNet/LibUsbDotNet has a medium production readiness score, indicating that it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LibUsbDotNet/LibUsbDotNet).
 
 ### Русский
 

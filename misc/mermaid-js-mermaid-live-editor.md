@@ -37,8 +37,9 @@ The project helps developers add AI capability without starting from scratch, ma
 **Practical Adoption Path:**
 To adopt this project, users need to manually inspect the integration before adoption, as integration signals are sparse in the discovered metadata. This requires careful consideration and review of the project's metadata, license, security posture, and active maintainers. Once the necessary checks are completed, users can start using the project to create and share Mermaid charts and diagrams.
 
-**Production Readiness:**
-The project is considered production-ready, with recent activity, adoption, and ecosystem signals indicating a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mermaid-js/mermaid-live-editor).
 
 ### Русский
 
@@ -75,7 +76,10 @@ mermaid-js/mermaid-live-editor 有很高的生产可用性，主要原因是：
 但是，仍需要仔细检查和验证以下风险：
 
 * 许可证
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/mermaid-js/mermaid-live-editor)。
 
 ## 🧭 Practical evaluation
 

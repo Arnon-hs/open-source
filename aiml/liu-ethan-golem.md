@@ -39,7 +39,10 @@ To adopt liu-ethan/golem, developers can follow these steps:
 1. Evaluate the project's API, SDK, and CLI to determine its suitability for their use case.
 2. Review the project's documentation and example use cases to understand how to integrate the LLM execution model into their workflow.
 3. Assess the project's dependencies and maintenance requirements to ensure they align with their production environment.
-4. Integrate the project into their development workflow and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/liu-ethan/golem).
 
 ### Русский
 

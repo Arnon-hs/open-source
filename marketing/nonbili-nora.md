@@ -39,8 +39,9 @@ The value of nonbili/Nora lies in its ability to simplify the social media exper
 **Practical Adoption Path:**
 The practical adoption path for nonbili/Nora involves evaluating its feasibility through a small proof of concept and reviewing its README to ensure alignment with specific workflows. This initial evaluation can help determine whether the app meets the user's needs and can be integrated into their existing workflow.
 
-**Production Readiness:**
-Nonbili/Nora is production-ready for a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nonbili/Nora).
 
 ### Русский
 

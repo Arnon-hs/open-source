@@ -44,7 +44,9 @@ However, before adopting the project for production, users should carefully insp
 3. Review the documentation and ensure it meets the user's needs.
 4. Inspect the issues and bugs reported in the project to ensure they are addressed.
 
-Overall, the project offers a useful tool for automating repetitive tasks, but its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rvoertmann/barbequeue).
 
 ### Русский
 

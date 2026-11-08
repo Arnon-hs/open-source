@@ -42,7 +42,10 @@ To adopt this project, users should follow these steps:
 1. **Manual Inspection**: Carefully review the project's README, code, and activity to understand its workflow, dependencies, and maintenance requirements.
 2. **Verify Quality Signals**: Check the project's license, documentation, issue tracker, and release cadence to ensure it meets your needs.
 3. **Dependency and Maintenance Checks**: Verify that the project's dependencies are up-to-date and that the maintenance process is reliable.
-4. **Testing and Integration**: Test the project in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SaientAI/saient-quartz).
 
 ### Русский
 
@@ -71,9 +74,11 @@ Open-sourced a local WAN 2.1 mobile pipeline for on-device video generation 是�
 
 **生产可用性**
 
-该项目的生产可用性为中等（Medium）。它可以用于原型开发或内部工作流，但需要注意以下几点：
+该项目的生产可用性为中等（Medium）。
 
-1.
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/SaientAI/saient-quartz)。
 
 ## 🧭 Practical evaluation
 

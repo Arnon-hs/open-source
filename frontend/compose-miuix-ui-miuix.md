@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt compose-miuix-ui/miuix, developers should start with a small proof of concept to evaluate its feasibility and integration path. This involves checking the README documentation and assessing the setup cost before committing to its use in production. It's essential to validate the setup cost and potential maintenance requirements to ensure a smooth adoption process.
 
-**Production Readiness:** While compose-miuix-ui/miuix has a moderate level of production readiness (Medium), it's best suited for prototypes or internal workflows where the risks associated with integration and maintenance can be more easily managed. Before using this
+**Production Readiness:** While compose-miuix-ui/miuix has a moderate level of production readiness (Medium), it's best suited for prototypes or internal workflows where the risks associated with integration and maintenance can be more easily managed.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/compose-miuix-ui/miuix).
 
 ### Русский
 

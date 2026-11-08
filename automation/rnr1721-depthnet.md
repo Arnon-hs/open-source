@@ -37,7 +37,11 @@ The primary value proposition of Depthnet lies in its ability to automate manual
 To adopt Depthnet, users can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and ensure a smooth onboarding process. Once the platform is deemed suitable, users can begin integrating it into their existing workflows, starting with small-scale applications and gradually scaling up to more complex tasks.
 
 **Production Readiness:**
-Depthnet is considered production-ready, but with some caveats. Its medium production readiness rating indicates that it is suitable for use in prototypes or internal workflows, where dependency and maintenance checks can be performed before deployment. However, it is essential to conduct a
+Depthnet is considered production-ready, but with some caveats. Its medium production readiness rating indicates that it is suitable for use in prototypes or internal workflows, where dependency and maintenance checks can be performed before deployment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rnr1721/depthnet).
 
 ### Русский
 

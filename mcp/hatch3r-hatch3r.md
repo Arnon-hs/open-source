@@ -33,7 +33,11 @@ hatch3r/hatch3r is an open-source project that enables seamless integration of A
 
 The value proposition of hatch3r/hatch3r lies in its ability to connect AI assistants to real tools and data, streamlining the development process and enabling more efficient integration of AI capabilities into applications. The practical adoption path involves installing the hatch3r CLI and editor plugin, which can be done with a single command. This simplifies the process of integrating AI assistants with tools and data, making it more accessible to developers.
 
-In terms of production readiness, hatch3r/hatch3r has a high score due to its recent activity, adoption, and strong ecosystem signals. The project has received 26 GitHub stars, 4 forks, and has been updated recently, indicating a healthy and active community. However, it's essential to conduct a final review of the
+In terms of production readiness, hatch3r/hatch3r has a high score due to its recent activity, adoption, and strong ecosystem signals. The project has received 26 GitHub stars, 4 forks, and has been updated recently, indicating a healthy and active community.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hatch3r/hatch3r).
 
 ### Русский
 

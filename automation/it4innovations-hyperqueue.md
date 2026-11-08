@@ -37,7 +37,11 @@ The primary value proposition of It4innovations/hyperqueue lies in its ability t
 To adopt hyperqueue, start with a small proof of concept to evaluate its feasibility and understand the integration path. Read the README documentation thoroughly to grasp the setup and configuration requirements. With a clear understanding of the project's capabilities and limitations, you can then proceed to integrate hyperqueue into your workflow. Be prepared to validate the setup cost before committing to production use.
 
 **Production Readiness:**
-It4innovations/hyperqueue is considered production-ready with medium readiness due to its useful features for prototypes or internal workflows. However, before deploying it in
+It4innovations/hyperqueue is considered production-ready with medium readiness due to its useful features for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/It4innovations/hyperqueue).
 
 ### Русский
 

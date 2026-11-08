@@ -40,7 +40,11 @@ Here's a brief summary of the awesome-dsh-plugin project:
 3. Review the project's license, security posture, and active maintainers to ensure they align with your project's requirements.
 4. Pilot the project by integrating it into your workflow and testing its functionality.
 
-**Production Readiness:** With a high production readiness score, awesome-dsh-plugin is well-suited for serious pilots. Its
+**Production Readiness:** With a high production readiness score, awesome-dsh-plugin is well-suited for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin).
 
 ### Русский
 

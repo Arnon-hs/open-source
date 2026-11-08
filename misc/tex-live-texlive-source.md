@@ -40,7 +40,9 @@ TeX-Live/texlive-source is an open-source project that provides the source part 
 3. **Integration**: Integrate the project into the existing workflow, taking into account potential integration signals that may be sparse in the metadata.
 4. **Testing**: Thoroughly test the project to ensure it meets the project's requirements and does not introduce any regressions.
 
-**Production Readiness**: The project has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TeX-Live/texlive-source).
 
 ### Русский
 

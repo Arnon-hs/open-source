@@ -39,7 +39,10 @@ To adopt aws/deep-learning-containers, users can follow these steps:
 1. Review the project's documentation and tutorials to understand its features and capabilities.
 2. Inspect the project's code and dependencies to ensure they align with your organization's security and licensing requirements.
 3. Set up and configure the project's containers and tools on your AWS environment.
-4. Experiment with the project's features and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aws/deep-learning-containers).
 
 ### Русский
 

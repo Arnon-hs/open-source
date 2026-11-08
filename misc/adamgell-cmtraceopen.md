@@ -42,7 +42,11 @@ To adopt this project, developers should follow these steps:
 3. Validate the setup cost and potential maintenance requirements before committing to the project.
 
 Production Readiness:
-adamgell/cmtraceopen has a medium production readiness score, indicating that it's best suited for use in prototypes or internal workflows. Before deploying it in production, developers should conduct thorough dependency and maintenance checks to
+adamgell/cmtraceopen has a medium production readiness score, indicating that it's best suited for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/adamgell/cmtraceopen).
 
 ### Русский
 

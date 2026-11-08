@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the Pruna project:
 
 **Practical Adoption Path:** To adopt Pruna, developers should start by evaluating the framework through a small proof of concept and reviewing the project's README. This will help them understand the tool's capabilities, limitations, and integration requirements. Once they're comfortable with the framework, they can begin integrating Pruna into their existing projects and workflows.
 
-**Production Readiness:** Pruna is considered production-ready for serious pilots due to its recent activity, strong adoption (1248 GitHub stars and 95 forks), and a robust ecosystem. While there are
+**Production Readiness:** Pruna is considered production-ready for serious pilots due to its recent activity, strong adoption (1248 GitHub stars and 95 forks), and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PrunaAI/pruna).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The value proposition of LinkSwift lies in its ability to add AI capabilities wi
 To adopt LinkSwift, developers should start by evaluating its feasibility through a small proof of concept and checking the README documentation. This will help identify potential integration challenges and ensure that the setup cost is manageable. With its strong adoption and ecosystem signals, LinkSwift is a reliable choice for production use.
 
 **Production Readiness:**
-LinkSwift has demonstrated high production readiness, with recent activity, strong adoption (17,573 GitHub stars and 1,037 forks), and a robust ecosystem. Its primary language is JavaScript, and it supports 20 topics, indicating a
+LinkSwift has demonstrated high production readiness, with recent activity, strong adoption (17,573 GitHub stars and 1,037 forks), and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hmjz100/LinkSwift).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the emoose/OutRun2006Tweaks project:
 
 **Practical Adoption Path:** Before adopting emoose/OutRun2006Tweaks, it's essential to carefully review the project's README and activity to ensure that it matches your specific workflow or needs. Integration notes indicate that manual inspection is necessary due to sparse integration signals in the metadata. This means that you'll need to carefully evaluate the project's documentation, code, and dependencies to ensure a smooth integration process.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it's suitable for use in prototypes or internal workflows but may not be ready for production just yet. This is due to the need for dependency and maintenance checks before deployment. To
+**Production Readiness:** The project has a medium production readiness score, indicating that it's suitable for use in prototypes or internal workflows but may not be ready for production just yet. This is due to the need for dependency and maintenance checks before deployment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/emoose/OutRun2006Tweaks).
 
 ### Русский
 

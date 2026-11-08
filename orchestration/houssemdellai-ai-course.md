@@ -42,7 +42,10 @@ To adopt HoussemDellai/ai-course, users can follow these steps:
 1. Review the project's documentation and codebase to understand its functionality and requirements.
 2. Evaluate the project's dependencies and maintenance needs to ensure they align with your organization's standards.
 3. Test the project in a prototype or internal workflow environment to assess its performance and scalability.
-4. Once satisfied, integrate the project into your production environment, ensuring proper dependency and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/HoussemDellai/ai-course).
 
 ### Русский
 

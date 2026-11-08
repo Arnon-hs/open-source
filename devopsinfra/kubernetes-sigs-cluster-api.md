@@ -39,9 +39,9 @@ The primary value proposition of Cluster API lies in its ability to help teams r
 
 To adopt Cluster API, teams can start by evaluating the project through a small proof of concept and reviewing the README documentation. This initial step will help teams understand the project's capabilities and potential integration points. Once the feasibility of Cluster API has been established, teams can begin integrating the project into their existing infrastructure, starting with small-scale deployments and gradually scaling up as needed.
 
-**Production Readiness:**
+## Before adopting
 
-Cluster API is considered high for production readiness due to its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kubernetes-sigs/cluster-api).
 
 ### Русский
 

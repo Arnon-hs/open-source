@@ -35,7 +35,11 @@ The value of this project lies in its ability to standardize integrations and pr
 
 The practical adoption path for this project involves evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. Developers can then use this information to determine whether the project meets their specific needs and requirements. With its recent activity, adoption, and ecosystem signals, this project is considered production-ready, making it a viable option for serious pilots and real-world applications.
 
-The production readiness of the project is high due to its recent activity, strong adoption signals, and ecosystem support. This suggests that the project is well-maintained, widely adopted, and has
+The production readiness of the project is high due to its recent activity, strong adoption signals, and ecosystem support.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/just-every/mcp-read-website-fast).
 
 ### Русский
 

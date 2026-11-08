@@ -39,7 +39,9 @@ As for the practical adoption path, here's a suggested approach:
 4. **Test and iterate**: Implement Rule-lite in a prototype or internal workflow, testing its functionality and performance to identify any issues or areas for improvement.
 5. **Production deployment**: Once you've verified the project's stability and met the necessary requirements, you can deploy Rule-lite in a production environment.
 
-In
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tejas821/rule-lite).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The primary value proposition of BiliTools is to help developers ship user-facin
 To adopt BiliTools, developers should start by evaluating its feasibility through a small proof of concept. A thorough review of the README documentation is also recommended to ensure a smooth integration process. Once the integration is complete, developers can explore the various features of BiliTools, including video download and resource management.
 
 **Production Readiness**
-BiliTools has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a robust and mature project. The project has a high score of 69/100, with a strong adoption rate of 5285 GitHub stars and
+BiliTools has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a robust and mature project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/btjawa/BiliTools).
 
 ### Русский
 

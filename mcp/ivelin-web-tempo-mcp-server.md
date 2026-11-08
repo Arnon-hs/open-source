@@ -38,7 +38,10 @@ Here's a brief summary of the ivelin-web/tempo-mcp-server project:
 1. Evaluate the project's documentation and codebase to understand its implementation signals, such as API, SDK, and CLI.
 2. Assess the project's language metadata and focused topics to determine its relevance to their specific use case.
 3. Review the project's GitHub stars, forks, and recent activity to gauge its adoption and ecosystem signals.
-4. Conduct a thorough review of
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ivelin-web/tempo-mcp-server).
 
 ### Русский
 

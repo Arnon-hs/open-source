@@ -44,7 +44,10 @@ To adopt this project, follow these steps:
 The 'awesome-drones' project has moderate production readiness, making it suitable for:
 
 1. **Prototypes:** It can be used as a starting point for prototyping and testing drone-related concepts.
-2. **Internal Workflows:** The project can
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/janesmae/awesome-drones).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary:
 
 **Practical Adoption Path:** To adopt NVlabs/alpamayo, users should start with a small proof of concept and carefully review the README documentation. This will help identify potential integration challenges and ensure a smooth onboarding process. With recent activity, strong adoption signals, and a robust ecosystem, NVlabs/alpamayo is an attractive choice for organizations looking to automate their workflows.
 
-**Production Readiness:** NVlabs/alpamayo has a high production readiness score, indicating that it is well-suited for serious pilots and real-world deployments. Its recent activity, strong adoption signals, and robust ecosystem signals all contribute to its high readiness score. However, it's essential to conduct a
+**Production Readiness:** NVlabs/alpamayo has a high production readiness score, indicating that it is well-suited for serious pilots and real-world deployments. Its recent activity, strong adoption signals, and robust ecosystem signals all contribute to its high readiness score.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NVlabs/alpamayo).
 
 ### Русский
 

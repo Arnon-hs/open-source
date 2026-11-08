@@ -35,7 +35,11 @@ The value proposition of Fyrd/caniuse lies in its ability to convert raw data in
 
 The practical adoption path involves manual inspection of the project's metadata to understand its integration requirements and potential setup costs. Due to the sparse integration signals, users should validate the setup cost before committing to the project. This careful evaluation is necessary to ensure a smooth integration process.
 
-In terms of production readiness, Fyrd/caniuse is considered medium, indicating that it is suitable for prototypes or internal workflows. While it can be a
+In terms of production readiness, Fyrd/caniuse is considered medium, indicating that it is suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Fyrd/caniuse).
 
 ### Русский
 

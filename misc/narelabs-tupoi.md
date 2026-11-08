@@ -42,7 +42,10 @@ To adopt Tupoi, follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it meets your needs.
 2. **Verify Dependencies**: Check the project's dependencies and ensure they are compatible with your existing infrastructure.
 3. **Evaluate Model Tooling**: Assess the model's performance and evaluate its suitability for your use case.
-4. **Integration**: Integrate Tupoi into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/narelabs/TUPOI).
 
 ### Русский
 

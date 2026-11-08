@@ -41,8 +41,9 @@ To adopt zendev-sh/goai, developers can follow these steps:
 2. **Integrate**: Use the SDK's unified API to connect your AI agents to tools and data, leveraging the Model Context Protocol (MCP) for standardization.
 3. **Ship**: Deploy your AI applications using the SDK, taking advantage of its streaming, structured output, and MCP support features.
 
-**Production Readiness:**
-With
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zendev-sh/goai).
 
 ### Русский
 

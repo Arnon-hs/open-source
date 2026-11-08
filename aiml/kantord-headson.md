@@ -60,10 +60,9 @@ kantord/headson 帮助开发者在不从零开始的情况下添加 AI 能力，
 2. 使用 CLI：使用 kantord/headson 的命令行工具，方便地在本地环境下测试和调试。
 3. 使用 Rust 语言：直接使用 kantord/headson 的 Rust 语言实现，快速构建自己的 AI 函数和模型工具栈。
 
-**生产可用性：**
-kantord/headson 的生产可用性较高，主要原因是：
+## 采用前检查
 
-1.
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/kantord/headson)。
 
 ## 🧭 Practical evaluation
 

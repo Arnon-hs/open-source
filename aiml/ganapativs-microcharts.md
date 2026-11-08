@@ -41,7 +41,11 @@ To adopt Microcharts, developers can start by evaluating the project through a s
 
 **Production Readiness:**
 
-Microcharts has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require further evaluation and validation before deployment in production environments. This is due to the need for dependency and maintenance checks, as well as a final review of
+Microcharts has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require further evaluation and validation before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ganapativs/microcharts).
 
 ### Русский
 

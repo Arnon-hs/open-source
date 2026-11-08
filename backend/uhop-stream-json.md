@@ -39,7 +39,9 @@ Here's a brief summary and an explanation of the value, adoption path, and produ
 2. Choose the relevant stream components to build a custom processing pipeline for JSON and JSONC data.
 3. Integrate the library into the application, using Node.js or Web Streams as the underlying platform.
 
-**Production Readiness:** uhop/stream-json has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/uhop/stream-json).
 
 ### Русский
 

@@ -38,7 +38,11 @@ The value proposition of this project lies in its ability to remove repetitive m
 To adopt this project, users will need to manually inspect the integration process and validate the setup cost before committing to its use. This is due to the sparse integration signals in the discovered metadata, which may require additional effort to understand and implement correctly. However, for users who are willing to invest time in understanding the project's configuration and setup, it can be a valuable tool for automating workflows and reducing manual labor.
 
 **Production Readiness:**
-The production readiness of Destructive Command Guard Rust is rated as medium. While it is suitable for use in prototypes or internal workflows, it may require additional dependency and maintenance checks before it can be
+The production readiness of Destructive Command Guard Rust is rated as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mmueller68/destructive-command-guard-rust).
 
 ### Русский
 

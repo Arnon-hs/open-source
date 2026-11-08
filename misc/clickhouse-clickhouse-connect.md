@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To integrate ClickHouse/clickhouse-connect into your development workflow, start by evaluating its feasibility through a small proof of concept. Review the project's README documentation and assess its dependency and maintenance requirements before considering production use. This project is suitable for prototypes or internal workflows where the risks associated with its production readiness are manageable.
 
-**Production Readiness:** ClickHouse/clickhouse-connect has a medium production readiness score, indicating that it can be useful for certain applications but requires further evaluation and validation before being deployed in production environments. While the project has a moderate number of GitHub stars and forks, its
+**Production Readiness:** ClickHouse/clickhouse-connect has a medium production readiness score, indicating that it can be useful for certain applications but requires further evaluation and validation before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ClickHouse/clickhouse-connect).
 
 ### Русский
 

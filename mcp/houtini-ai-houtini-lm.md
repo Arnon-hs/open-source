@@ -41,7 +41,10 @@ To adopt houtini-lm, developers can follow these steps:
 2. Assess the project's language metadata and focused topics to determine its relevance to their specific needs.
 3. Review the project's production readiness, including its recent activity, adoption, and ecosystem signals.
 4. Consider the potential risks, such as license, security posture, and active maintainers.
-5. Pilot the project to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/houtini-ai/houtini-lm).
 
 ### Русский
 

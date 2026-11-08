@@ -39,9 +39,9 @@ The value proposition of Xinrea/bili-shadowreplay lies in its ability to help us
 
 To adopt Xinrea/bili-shadowreplay, start by carefully reviewing the README and evaluating the project's activity to ensure it aligns with your workflow. Begin with a small proof of concept to validate the setup cost and integration complexity. This will help you determine whether the project's benefits outweigh its potential drawbacks. If successful, you can consider scaling up the implementation for more extensive use.
 
-**Production Readiness**
+## Before adopting
 
-Xinrea/bili-shadowreplay has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Xinrea/bili-shadowreplay).
 
 ### Русский
 

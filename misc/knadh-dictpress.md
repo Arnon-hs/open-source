@@ -73,7 +73,10 @@ knadh/dictpress 支持以下接入方式：
 knadh/dictpress 的生产可用性较高，主要原因是：
 
 * 近期活跃：项目最近有更新，表明开发人员仍然在维护和改进项目
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/knadh/dictpress)。
 
 ## 🧭 Practical evaluation
 

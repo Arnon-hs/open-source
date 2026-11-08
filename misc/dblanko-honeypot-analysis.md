@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully review the project's README, activity, and metadata to ensure it matches your specific workflow and requirements.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies, maintenance history, and release cadence to ensure they align with your organization's standards.
 3. **Verify License and Quality Signals**: Check the project's license, issues, and release cadence to ensure it is reliable and suitable for your use case.
-4. **Integration and Testing**: Integrate the project into your workflow and thoroughly test it to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dblanko/honeypot-analysis/blob/main/dionaea/reports/wannacry_2026.md).
 
 ### Русский
 

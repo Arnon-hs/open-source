@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Careful evaluation**: Assess the project's quality signals, including its license, maintenance, documentation, issues, and release cadence.
 2. **Manual inspection**: Inspect the project's code and metadata to ensure it meets your requirements and integrates smoothly with your existing infrastructure.
 3. **Prototype and test**: Use the project as a starting point to prototype AI features and workflows, and thoroughly test its performance and reliability.
-4. **Refine and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ujjwalredd/Dopamine).
 
 ### Русский
 

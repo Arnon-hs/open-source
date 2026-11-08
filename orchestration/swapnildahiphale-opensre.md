@@ -42,7 +42,10 @@ To adopt OpenSRE, teams can start by:
 1. Evaluating the project through a small proof of concept to gauge its feasibility and compatibility with existing tools and workflows.
 2. Reviewing the project's README documentation to understand its configuration and usage requirements.
 3. Assessing the project's dependencies and maintenance needs to ensure it can be integrated into production environments.
-4. Conducting a thorough review of the project's license, security posture, and active maintainers to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/swapnildahiphale/OpenSRE).
 
 ### Русский
 

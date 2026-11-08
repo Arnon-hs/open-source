@@ -45,9 +45,9 @@ To adopt joreilly/BikeShare in a project, developers can follow these steps:
 4. Customize the UI components to fit the project's specific needs.
 5. Test and deploy the application.
 
-**Production Readiness:**
+## Before adopting
 
-joreilly/BikeShare is considered production-ready due to its recent activity, strong adoption (826 GitHub stars, 58 forks), and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/joreilly/BikeShare).
 
 ### Русский
 

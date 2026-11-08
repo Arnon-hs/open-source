@@ -41,7 +41,11 @@ To adopt Show HN: Lians AI, users need to manually inspect the project before in
 
 **Production Readiness:**
 
-Show HN: Lians AI is considered to be at a medium level of production readiness. While it's suitable for prototypes or internal workflows, users should exercise caution before deploying it in
+Show HN: Lians AI is considered to be at a medium level of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Lians-ai/Lians).
 
 ### Русский
 

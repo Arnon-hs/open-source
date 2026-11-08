@@ -73,7 +73,10 @@ Cmzip 的生产可用性为中等。由于其质量信号有限，开发者应�
 * 检查维护状态
 * 阅读文档
 * 检查问题列表
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/elpanamaxicraft-source/cmzip)。
 
 ## 🧭 Practical evaluation
 

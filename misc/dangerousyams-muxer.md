@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** Before adopting Muxer, users should carefully inspect the project's README, activity, and integration signals. This involves verifying the license, maintenance, documentation, issues, and release cadence to ensure the project meets the necessary standards. Once satisfied, users can integrate Muxer into their workflow, starting with prototype development or internal testing.
 
-**Production Readiness:** Muxer's production readiness is rated as medium due to the potential risks associated with its limited quality signals. Users should perform thorough dependency and maintenance checks before deploying Muxer in a production environment. While it may not be suitable for large-scale or
+**Production Readiness:** Muxer's production readiness is rated as medium due to the potential risks associated with its limited quality signals. Users should perform thorough dependency and maintenance checks before deploying Muxer in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DangerousYams/muxer).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The project's value lies in its ability to quickly add AI-driven security capabi
 To adopt this project, users should start by manually inspecting the integration process to ensure a smooth setup. This may involve validating the setup cost and potential dependencies before committing to production use. Once the integration path is clear, users can leverage the project's AI capabilities to enhance their email security posture.
 
 **Production Readiness:** 
-The project's production readiness is rated as medium, indicating that while it is useful for prototyping or internal workflows, it may require additional validation and maintenance checks before being deployed in a production environment. This is due to the potential complexity of integration and the need to ensure that
+The project's production readiness is rated as medium, indicating that while it is useful for prototyping or internal workflows, it may require additional validation and maintenance checks before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sublime-security/sublime-rules).
 
 ### Русский
 

@@ -41,7 +41,9 @@ Here's a brief summary of the open-source project:
 4. Integrate the engine into their Python AI agent, following the project's guidelines and best practices.
 5. Continuously monitor and maintain the engine to ensure its compatibility and performance.
 
-**Production Readiness:** ASL V6 is rated as "Medium" in terms of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sivaadityacoder/asl-v6).
 
 ### Русский
 

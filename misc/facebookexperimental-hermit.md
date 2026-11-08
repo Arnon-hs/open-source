@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt Hermit, engineers should manually inspect the integration process to ensure a smooth setup. This may involve validating the setup cost and ensuring that the project's dependencies and maintenance requirements are manageable. Once the setup is complete, developers can leverage Hermit to speed up workflows, automate local engineering tasks, and improve CI feedback.
 
-**Production Readiness:** Hermit has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows. However, before deploying it in production, engineers should conduct thorough dependency and maintenance checks to ensure that the project is stable and scalable. With its 1386 GitHub stars and 50 forks, Hermit has a significant community backing and regular updates, making it a
+**Production Readiness:** Hermit has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows. However, before deploying it in production, engineers should conduct thorough dependency and maintenance checks to ensure that the project is stable and scalable.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/facebookexperimental/hermit).
 
 ### Русский
 

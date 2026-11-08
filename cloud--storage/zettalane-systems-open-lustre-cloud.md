@@ -40,7 +40,9 @@ Here's a brief summary and explanation:
 3. **Verify dependencies and maintenance**: Check the project's dependencies and maintenance requirements to ensure they align with your infrastructure and workflow.
 4. **Test and evaluate**: Test the project in a prototype or internal workflow to evaluate its functionality and performance.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zettalane-systems/open-lustre-cloud).
 
 ### Русский
 

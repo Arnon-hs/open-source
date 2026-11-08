@@ -39,9 +39,9 @@ The value proposition of openui/open-ui lies in its ability to streamline the pr
 
 To adopt openui/open-ui, developers should start by evaluating its feasibility through a small proof of concept and carefully reviewing the README documentation. This will help identify potential integration challenges and validate the setup costs before committing to a full-scale implementation. Once the integration path is clear, developers can begin to leverage the project's features for prototyping AI features, building RAG or agent workflows, and evaluating model tooling.
 
-**Production Readiness:**
+## Before adopting
 
-While openui/open-ui has a medium production readiness score, it is still a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openui/open-ui).
 
 ### Русский
 

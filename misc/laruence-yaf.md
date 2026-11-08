@@ -38,7 +38,11 @@ The primary value of laruence/yaf lies in its ability to help developers build p
 The practical adoption path for laruence/yaf involves starting with a small proof of concept and thoroughly checking the README documentation. This will help developers understand the integration process and validate the setup cost before committing to a larger-scale implementation.
 
 **Production Readiness:**
-Laruence/yaf has a high production readiness score, indicating that it's suitable for serious pilots and potentially large-scale adoption. The project's recent activity, adoption, and ecosystem signals are strong, with a large community (4512 GitHub stars and
+Laruence/yaf has a high production readiness score, indicating that it's suitable for serious pilots and potentially large-scale adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/laruence/yaf).
 
 ### Русский
 

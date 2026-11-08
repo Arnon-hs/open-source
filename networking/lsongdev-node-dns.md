@@ -44,7 +44,10 @@ The primary value proposition of lsongdev/node-dns lies in its ability to help t
 To adopt lsongdev/node-dns, teams can follow these steps:
 
 1. **Evaluate the project**: Assess the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
-2. **Review the codebase**: Familiarize yourself with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lsongdev/node-dns).
 
 ### Русский
 
@@ -83,7 +86,10 @@ lsongdev/node-dns 的生产可用性很高，主要原因是：
 * GitHub 星星和 fork 数量较高（593 个星星，80 个 fork）
 * 最新更新时间为 2026-07-26
 * 主要语言为 JavaScript
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/lsongdev/node-dns)。
 
 ## 🧭 Practical evaluation
 

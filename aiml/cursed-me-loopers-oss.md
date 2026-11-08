@@ -41,7 +41,11 @@ Before adopting Loopers, it's essential to verify its license, maintenance, docu
 
 **Production Readiness:**
 
-Loopers has a medium production readiness score, indicating that it's suitable for use in prototype or internal workflows but may not be ready for widespread production deployment. This is due to
+Loopers has a medium production readiness score, indicating that it's suitable for use in prototype or internal workflows but may not be ready for widespread production deployment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/CURSED-ME/loopers-oss).
 
 ### Русский
 

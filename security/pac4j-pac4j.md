@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the pac4j/pac4j project:
 
 **Practical Adoption Path:** To adopt pac4j/pac4j, developers should start with a small proof of concept to evaluate its feasibility. This involves checking the README documentation and integrating the library into a small-scale project. Once the integration path is clearer, developers can scale up their implementation.
 
-**Production Readiness:** pac4j/pac4j is highly production-ready, with a strong ecosystem signal, recent activity, and a high adoption rate. With
+**Production Readiness:** pac4j/pac4j is highly production-ready, with a strong ecosystem signal, recent activity, and a high adoption rate.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pac4j/pac4j).
 
 ### Русский
 

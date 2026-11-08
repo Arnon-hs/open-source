@@ -39,7 +39,11 @@ Toolgz is an open-source project that enables the reduction of Large Language Mo
 2. **Verify Dependencies:** Verify the dependencies required by Toolgz and ensure they are compatible with your project's infrastructure.
 3. **Update and Maintenance:** Regularly update and maintain Toolgz to ensure it continues to meet your project's needs.
 
-**Production Readiness:** Toolgz is rated as "Medium" in terms of production readiness. While it is useful for prototypes or internal workflows, it requires careful evaluation of dependencies, maintenance, and
+**Production Readiness:** Toolgz is rated as "Medium" in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dperussina/toolgz).
 
 ### Русский
 

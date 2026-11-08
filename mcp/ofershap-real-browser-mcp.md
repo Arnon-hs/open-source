@@ -43,7 +43,10 @@ To adopt this project, developers can follow these steps:
 2. Assess the project's production readiness, considering factors such as dependency and maintenance checks.
 3. Review the license, security posture, and active maintainers to ensure the project meets their needs and requirements.
 4. Integrate the project into their workflow, exploring use cases such as connecting AI agents to tools and shipping Model Context Protocol servers.
-5. Contribute to the project by
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ofershap/real-browser-mcp).
 
 ### Русский
 

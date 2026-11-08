@@ -39,9 +39,9 @@ The primary value proposition of anthropics/claude-quickstarts lies in its abili
 
 To adopt anthropics/claude-quickstarts, developers should start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and ensure that the project aligns with their specific use case requirements. Once the project has been evaluated and deemed suitable, developers can begin incorporating it into their development workflow.
 
-**Production Readiness:**
+## Before adopting
 
-The anthropics/claude-quickstarts project exhibits high production readiness, with recent activity, strong adoption (17370 GitHub stars and 3002 forks), and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/anthropics/claude-quickstarts).
 
 ### Русский
 

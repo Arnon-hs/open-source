@@ -37,7 +37,11 @@ The nikic/PHP-Parser provides a PHP parser that can be leveraged in various work
 To adopt the nikic/PHP-Parser, start with a small proof of concept to evaluate its feasibility and understand its integration requirements. Verify the setup cost before committing to a larger-scale implementation. The project's documentation and README should be thoroughly reviewed to ensure a smooth integration process.
 
 **Production Readiness:**
-The nikic/PHP-Parser is considered production-ready due to its recent activity, strong adoption (17440 GitHub stars and 1124 forks), and positive ecosystem signals. Its primary language is PHP, and it has
+The nikic/PHP-Parser is considered production-ready due to its recent activity, strong adoption (17440 GitHub stars and 1124 forks), and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nikic/PHP-Parser).
 
 ### Русский
 

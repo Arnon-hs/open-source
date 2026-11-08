@@ -42,7 +42,10 @@ To adopt this project, developers should follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, codebase, and issues to ensure it meets their needs and is well-maintained.
 2. **Verify Dependencies**: Check the project's dependencies and ensure they are compatible with their existing infrastructure.
 3. **Evaluate Maintenance**: Assess the project's maintenance history and release cadence to ensure it will continue to receive updates and support.
-4. **Test and Integrate**: Integrate the project into their workflow and thoroughly test its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ananfauh7/MRVPlatform).
 
 ### Русский
 

@@ -37,7 +37,10 @@ As for the practical adoption path, here's a step-by-step guide:
 2. **Verify Dependencies**: Check the project's dependencies and ensure they are compatible with your project's ecosystem.
 3. **Maintenance and Support**: Evaluate the project's maintenance and support cadence to ensure it aligns with your project's needs.
 4. **Integration**: Integrate the project into your existing infrastructure, following the project's guidelines and best practices.
-5. **Testing and Evaluation**: Thoroughly test and evaluate the project to ensure it meets your project's requirements and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Rentheria/llm-budget-cap).
 
 ### Русский
 

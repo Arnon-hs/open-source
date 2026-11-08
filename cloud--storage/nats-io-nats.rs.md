@@ -40,7 +40,10 @@ To adopt nats-io/nats.rs, teams can follow these steps:
 2. Assess the project's language metadata, focused topics, and recent activity to ensure it aligns with their goals.
 3. Review the project's license, security posture, and maintenance status to mitigate potential risks.
 4. Integrate the project into their existing infrastructure and test its performance.
-5. Standardize their service patterns using nats-io/nats.rs to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nats-io/nats.rs).
 
 ### Русский
 

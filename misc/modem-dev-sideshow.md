@@ -44,9 +44,9 @@ To adopt Sideshow, developers should follow these steps:
 3. Integrate Sideshow into your existing terminal coding agent, following the project's guidelines and best practices.
 4. Test and evaluate the performance and effectiveness of Sideshow in your specific use case.
 
-**Production Readiness:**
+## Before adopting
 
-Sideshow is considered production-ready at a medium level, meaning it is suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/modem-dev/sideshow).
 
 ### Русский
 

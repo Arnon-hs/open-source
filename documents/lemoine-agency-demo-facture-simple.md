@@ -41,8 +41,9 @@ To adopt this project, follow these steps:
 3. **Integration and Testing**: Integrate the project into your workflow and thoroughly test it to ensure it meets your requirements.
 4. **Maintenance and Dependency Checks**: Regularly review and update dependencies to ensure the project remains stable and secure.
 
-**Production Readiness:**
-While the project has medium production readiness, it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lemoine-agency/demo-facture-simple).
 
 ### Русский
 

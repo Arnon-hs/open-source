@@ -33,7 +33,9 @@ Networking
 
 **Practical Adoption Path:** To adopt LLM-Shield-Proxy, developers should first conduct a manual inspection to ensure the proxy meets their specific requirements. This involves verifying the license, maintenance, documentation, issues, and release cadence of the project. Once the adoption path is cleared, developers can integrate the proxy into their existing system and start leveraging its AI capabilities.
 
-**Production Readiness:** LLM-Shield-Proxy is considered medium-production ready, meaning it is suitable for use in prototypes or internal workflows but should not be deployed in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ninadphalak/LLM-Shield-Proxy).
 
 ### Русский
 

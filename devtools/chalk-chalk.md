@@ -38,7 +38,11 @@ The primary value of chalk/chalk lies in its ability to simplify terminal string
 To adopt chalk/chalk, developers can start by integrating it into their existing workflows, such as automating local engineering tasks or improving CI feedback. The project's straightforward API and SDK make it easy to evaluate and integrate into existing projects.
 
 **Production Readiness:**
-Chalk/chalk has a high production readiness score, indicating that it is well-maintained, actively used, and has a strong ecosystem signal. With 23,286 GitHub stars, 1,018 forks, and recent activity, it is a promising candidate for serious pilot adoption. However, a final review of the
+Chalk/chalk has a high production readiness score, indicating that it is well-maintained, actively used, and has a strong ecosystem signal. With 23,286 GitHub stars, 1,018 forks, and recent activity, it is a promising candidate for serious pilot adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/chalk/chalk).
 
 ### Русский
 

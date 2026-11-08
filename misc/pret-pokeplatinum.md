@@ -41,7 +41,11 @@ To adopt pret/pokeplatinum, developers should start with a small proof of concep
 
 **Production Readiness:**
 
-pret/pokeplatinum is considered production-ready for prototypes or internal workflows, but its production-readiness is limited due to the need for dependency and maintenance checks before deployment. This means that while it can
+pret/pokeplatinum is considered production-ready for prototypes or internal workflows, but its production-readiness is limited due to the need for dependency and maintenance checks before deployment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pret/pokeplatinum).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The primary value proposition of smelter lies in its ability to reduce the time 
 To adopt smelter, developers should start by evaluating its feasibility through a small proof of concept and carefully reviewing the README documentation. This will help them understand the integration path and potential setup costs. Once they have a clear understanding of smelter's capabilities and limitations, they can begin integrating it into their project.
 
 **Production Readiness:**
-smelter is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, before committing to production, developers should perform thorough dependency and maintenance checks to ensure a smooth and stable deployment. This will
+smelter is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, before committing to production, developers should perform thorough dependency and maintenance checks to ensure a smooth and stable deployment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/software-mansion/smelter).
 
 ### Русский
 

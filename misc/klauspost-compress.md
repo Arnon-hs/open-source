@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt klauspost/compress, developers should start by evaluating its README and activity to ensure it matches their specific workflow requirements. A small proof of concept should be implemented to assess the package's performance and compatibility with existing systems. Once satisfied with the results, developers can integrate klauspost/compress into their production environments, leveraging its high production readiness and strong ecosystem signals.
 
-**Production Readiness:** klauspost/compress demonstrates high production readiness, with recent activity, strong adoption, and a robust ecosystem. Its primary language (Go) and 10 topics suggest a
+**Production Readiness:** klauspost/compress demonstrates high production readiness, with recent activity, strong adoption, and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/klauspost/compress).
 
 ### Русский
 

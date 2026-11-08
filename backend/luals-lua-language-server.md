@@ -40,7 +40,10 @@ In terms of value, LuaLS/lua-language-server offers several benefits, including:
 The practical adoption path for LuaLS/lua-language-server involves:
 
 1. **Evaluating the project**: Review the project's documentation, including the README, to understand its features and integration requirements.
-2. **Proof of concept**: Start with a small proof of
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LuaLS/lua-language-server).
 
 ### Русский
 

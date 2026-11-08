@@ -38,7 +38,10 @@ To adopt this model, developers should follow these steps:
 
 1. **Manual inspection**: Carefully review the model's documentation, GitHub repository, and integration notes to understand its capabilities and limitations.
 2. **Verify quality signals**: Assess the model's quality signals, such as GitHub stars, updates, and topics, to gauge its reliability and maintainability.
-3. **Evaluate license and maintenance**: Ensure that the model's license allows for its use in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/trl-internal-testing/tiny-Qwen2ForSequenceClassification-2.5).
 
 ### Русский
 

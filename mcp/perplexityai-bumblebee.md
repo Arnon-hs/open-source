@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the value, adoption path, and producti
 
 **Practical Adoption Path:** Before adopting Bumblebee, it's essential to manually inspect the code and verify the project's quality signals, including license, maintenance, documentation, issues, and release cadence. This ensures that the tool meets the organization's requirements and is suitable for production use. Once verified, Bumblebee can be integrated into prototypes or internal workflows, where its zero-dependency Go scanner can be utilized to detect malicious MCP servers and extensions.
 
-**Production Readiness:** Bumblebee has a medium production readiness score, indicating that it's suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/perplexityai/bumblebee).
 
 ### Русский
 

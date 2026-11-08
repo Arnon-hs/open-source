@@ -35,7 +35,11 @@ Here's a brief summary and detailed explanation of the harvester/harvester open-
 
 **Practical Adoption Path:** To adopt harvester/harvester, users should start by manually inspecting the integration signals and metadata to ensure it aligns with their specific needs. This may involve a trial or pilot deployment to test the software's functionality and potential risks. Once the software is deemed suitable, users can begin integrating it into their existing infrastructure and operations processes.
 
-**Production Readiness:** harvester/harvester exhibits high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot. The project's 5098 GitHub stars, 439 forks, and recent update (2026-07-20) suggest a
+**Production Readiness:** harvester/harvester exhibits high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/harvester/harvester).
 
 ### Русский
 

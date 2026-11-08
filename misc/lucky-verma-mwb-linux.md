@@ -43,8 +43,9 @@ To adopt this project, engineers should:
 3. Test the project in a controlled environment to ensure it meets their needs.
 4. Review the project's release cadence and update schedule to ensure it aligns with their project's timeline.
 
-**Production Readiness:**
-The project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but requires careful evaluation and testing before being used in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lucky-verma/mwb-linux).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the JPype project:
 
 **Practical Adoption Path:** To adopt JPype, developers should start with a small proof of concept and carefully review the project's README to ensure it aligns with their specific workflow. Integration should be approached incrementally, beginning with a small-scale pilot to assess the project's stability and efficacy.
 
-**Production Readiness:** Despite its strong ecosystem and adoption signals, JPype's production readiness is not without risks. A thorough review of the project's license, security posture, and maintainers is necessary to ensure it meets the requirements of a production environment. However, its high production readiness score indicates that it is a
+**Production Readiness:** Despite its strong ecosystem and adoption signals, JPype's production readiness is not without risks. A thorough review of the project's license, security posture, and maintainers is necessary to ensure it meets the requirements of a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jpype-project/jpype).
 
 ### Русский
 

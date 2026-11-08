@@ -52,7 +52,10 @@ To adopt this project, teams can follow these steps:
 The project has a high production readiness score due to:
 
 - **Recent activity**: The project has been updated recently (2026-08-04).
-- **Adoption**: It has
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kubernetes-sigs/cluster-api-provider-openstack).
 
 ### Русский
 

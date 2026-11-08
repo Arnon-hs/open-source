@@ -73,7 +73,10 @@ woai3c/x-code-cli 可以通过以下方式接入：
 woai3c/x-code-cli 的生产可用性很高，主要原因是：
 
 * 近期活动：项目最近有活跃的维护和更新。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/woai3c/x-code-cli)。
 
 ## 🧭 Practical evaluation
 

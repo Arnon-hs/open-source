@@ -42,7 +42,11 @@ To adopt homelabhero, users can follow these steps:
 4. Integrate homelabhero with existing tools and infrastructure, starting with a small-scale deployment.
 
 **Production Readiness:**
-Homelabhero is considered production-ready, but with some caveats. Its medium production readiness score indicates that it can be useful for
+Homelabhero is considered production-ready, but with some caveats.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/serversathome/homelabhero).
 
 ### Русский
 

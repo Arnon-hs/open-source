@@ -45,7 +45,10 @@ Production Readiness:
 titzer/virgil has a medium production readiness level, making it suitable for:
 
 1. Prototyping: Its lightweight nature and native programming capabilities make it an ideal choice for rapid prototyping and proof-of-concept development.
-2. Internal workflows: It may be useful for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/titzer/virgil).
 
 ### Русский
 

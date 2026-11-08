@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, license, maintenance, and release cadence to ensure it aligns with your needs.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements to ensure they won't cause issues in production.
 3. **Integration and Testing**: Set up the project and test its functionality to ensure it meets your requirements.
-4. **Evaluation and Refactoring**: Evaluate the project's performance and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vshulcz/deja-vu/).
 
 ### Русский
 

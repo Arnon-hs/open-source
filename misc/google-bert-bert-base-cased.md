@@ -38,7 +38,10 @@ To adopt google-bert/bert-base-cased, developers should follow these steps:
 
 1. **Manual Inspection**: Carefully review the model's documentation, code, and GitHub repository to ensure it meets their project's requirements.
 2. **Verify Quality Signals**: Check the model's GitHub stars, last updated date, primary language, and topics to gauge its popularity and maintenance activity.
-3. **Evaluate Use Cases**: Determine if the model's use cases align with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/google-bert/bert-base-cased).
 
 ### Русский
 

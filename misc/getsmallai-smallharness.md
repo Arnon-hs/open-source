@@ -42,7 +42,10 @@ To adopt GetSmallAI/SmallHarness, users should follow these steps:
 1. **Manual inspection**: Carefully review the project's documentation and metadata to understand its capabilities and limitations.
 2. **Dependency checks**: Verify that the project's dependencies are compatible with your existing infrastructure and tools.
 3. **Setup and configuration**: Set up and configure the project according to your needs, which may involve additional costs and effort.
-4. **Integration and testing**: Integrate the project with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GetSmallAI/SmallHarness).
 
 ### Русский
 

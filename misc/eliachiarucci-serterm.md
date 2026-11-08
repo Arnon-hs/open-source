@@ -38,9 +38,9 @@ As for the practical adoption path, here's a suggested approach:
 3. **Test and prototype**: Use SerTerm for a proof-of-concept or a small-scale project to gauge its effectiveness and identify any potential issues.
 4. **Assess production readiness**: Based on your testing and evaluation, determine whether SerTerm is suitable for production use in your organization.
 
-In terms of production readiness, SerTerm is considered medium due to the following factors:
+## Before adopting
 
-* **Limited quality signals**: The project's metadata suggests that the quality signals are sparse, which may indicate a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/eliachiarucci/SerTerm).
 
 ### Русский
 

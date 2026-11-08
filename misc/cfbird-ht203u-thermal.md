@@ -41,7 +41,10 @@ However, before using the project in production, users should:
 1. Verify the project's license and ensure it is compatible with their use case.
 2. Check the project's maintenance and documentation to ensure it is well-maintained and has adequate documentation.
 3. Review the project's issues and release cadence to ensure it is stable and regularly updated.
-4. Inspect the project's dependencies and ensure they are compatible with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cfbird/HT203U-Thermal).
 
 ### Русский
 

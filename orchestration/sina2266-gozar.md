@@ -37,7 +37,11 @@ Orchestration · AI/ML · Networking · Backend · Observability
 2. **Setup:** Gozar is designed to be Docker-first, making it easy to deploy and manage. Users can set up the project using Docker containers, which provides a flexible and scalable environment for testing and development.
 3. **Integration:** Once set up, users can integrate Gozar with their existing tools and systems, leveraging its provider routing, fallbacks, API keys, and usage controls to create customized workflows.
 
-**Production Readiness:** Gozar is considered production-ready due to its recent activity, adoption, and ecosystem signals. With
+**Production Readiness:** Gozar is considered production-ready due to its recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sina2266/Gozar).
 
 ### Русский
 

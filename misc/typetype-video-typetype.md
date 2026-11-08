@@ -46,7 +46,10 @@ To adopt TypeType-Video/TypeType, follow these steps:
 1. Review the project's documentation and codebase to understand its functionality and potential use cases.
 2. Manually inspect the integration process to ensure it meets your project's requirements.
 3. Validate the setup cost and potential maintenance requirements before committing to production use.
-4. Consider testing the project in a prototype or internal workflow environment to ensure it meets your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TypeType-Video/TypeType).
 
 ### Русский
 

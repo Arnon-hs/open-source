@@ -41,7 +41,11 @@ To adopt Photu, developers should start by manually inspecting the project's cod
 
 **Production Readiness:**
 
-Photu has a medium level of production readiness, making it suitable for prototypes or internal workflows. However, due to limited quality signals and sparse integration information, developers should exercise caution when using it in production environments. Before adopting Photu, developers should carefully evaluate its
+Photu has a medium level of production readiness, making it suitable for prototypes or internal workflows. However, due to limited quality signals and sparse integration information, developers should exercise caution when using it in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/u84u/photu).
 
 ### Русский
 

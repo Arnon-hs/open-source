@@ -33,7 +33,11 @@ TencentCloud/Octop is an open-source, self-hosted AI assistant that enables mult
 
 The value proposition of Octop lies in its ability to standardize agent memory, add tool-use pipelines, and coordinate multi-agent workflows, making it a valuable tool for organizations looking to streamline their AI and ML workflows. The practical adoption path involves evaluating the project through a small proof of concept and reviewing the README documentation, which will help users understand the project's functionality and potential integration challenges.
 
-Production readiness is high for Octop, with recent activity, strong adoption, and a solid ecosystem signal. The project's recent update on July 27, 2026, indicates ongoing maintenance and development, which is essential for a production-ready open-source project. However, it's essential to conduct a final review of
+Production readiness is high for Octop, with recent activity, strong adoption, and a solid ecosystem signal. The project's recent update on July 27, 2026, indicates ongoing maintenance and development, which is essential for a production-ready open-source project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TencentCloud/Octop).
 
 ### Русский
 

@@ -43,7 +43,10 @@ To adopt fancydirty/mediary-scout, developers should follow these steps:
 2. Perform a manual inspection of the integration process to ensure it meets their specific needs.
 3. Evaluate the project's license, security posture, and maintainers to ensure it aligns with their project's requirements.
 4. Conduct dependency and maintenance checks before integrating the project into production.
-5. Start by using the project for internal workflows or proof-of-concept projects to gain hands-on experience and refine their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fancydirty/mediary-scout).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The value proposition of this project lies in its ability to convert raw data in
 
 To adopt this project, start with a small proof of concept to evaluate its feasibility and integrate it with your existing infrastructure. Begin by reviewing the README documentation and exploring the project's GitHub repository. This will give you a clear understanding of the project's architecture, usage, and potential integration challenges. Once you have a solid understanding of the project's capabilities and limitations, you can proceed with a more extensive integration.
 
-**Production Readiness:**
+## Before adopting
 
-The project's production readiness is high, thanks to its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/drewnoakes/metadata-extractor-dotnet).
 
 ### Русский
 

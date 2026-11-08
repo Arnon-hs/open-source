@@ -42,7 +42,11 @@ Misc
 3. **Dependency and maintenance checks**: Verify the tool's dependencies, maintenance history, and release cadence to ensure it remains stable and secure.
 4. **Verify license and quality signals**: Confirm the license terms and quality signals, such as documentation, issues, and community engagement, to ensure the tool's reliability.
 
-**Production Readiness:** Moderate (Medium). Mandible TUI is suitable for testing and prototyping, but its adoption in production environments should be
+**Production Readiness:** Moderate (Medium).
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sadigaxund/mandible).
 
 ### Русский
 

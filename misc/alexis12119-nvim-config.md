@@ -39,7 +39,10 @@ As for the practical adoption path, here's a suggested approach:
 2. **Start with a small proof of concept**: Implement a minimal version of the project to test its feasibility and evaluate its performance.
 3. **Assess setup costs**: Evaluate the time and resources required to set up and maintain the project.
 4. **Integrate with existing workflows**: Gradually integrate the project with your team's existing workflows and tools.
-5. **Monitor and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Alexis12119/nvim-config).
 
 ### Русский
 

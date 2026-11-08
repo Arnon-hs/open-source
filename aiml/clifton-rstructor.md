@@ -41,7 +41,11 @@ To adopt clifton/rstructor, developers can follow these steps:
 3. Test and validate the integration to ensure accurate and reliable data extraction.
 
 **Production Readiness:**
-While clifton/rstructor is suitable for prototypes and internal workflows, its production readiness is rated medium. This is due to the need for dependency and maintenance checks before deploying the library in a production environment. Additionally, a
+While clifton/rstructor is suitable for prototypes and internal workflows, its production readiness is rated medium. This is due to the need for dependency and maintenance checks before deploying the library in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/clifton/rstructor).
 
 ### Русский
 

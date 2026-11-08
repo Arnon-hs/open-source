@@ -38,7 +38,10 @@ Here's a brief summary of the open-source project:
 1. **Manual Inspection**: Before adopting the project, users need to manually inspect its metadata to understand its integration path and potential risks.
 2. **Validate Setup Cost**: Users should validate the setup cost and potential maintenance requirements before committing to the project.
 3. **Prototype or Internal Workflow**: The project is suitable for prototypes or internal workflows, where users can test and refine its functionality before scaling it up.
-4. **Dependency and Maintenance Checks**: Users should perform thorough dependency and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DavidZWZ/Awesome-RAG-Reasoning).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The primary value proposition of The Vibe Coding Handbook lies in its ability to
 
 To adopt The Vibe Coding Handbook, organizations should start with a small proof of concept and thoroughly review the README documentation. The project's integration path is not immediately obvious from the metadata, so it's essential to validate the setup cost before committing to a full-scale implementation. This project is suitable for prototypes or internal workflows, with the need for dependency and maintenance checks before production.
 
-**Production Readiness**
+## Before adopting
 
-The production readiness of The Vibe Coding Handbook is medium, indicating that it's a useful resource for testing or internal workflows but may require additional testing and validation before deployment in
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hacrex/the-vibe-coding-handbook).
 
 ### Русский
 
@@ -69,7 +69,11 @@ hacrex/the-vibe-coding-handbook 是一个开源项目，提供了从零到英雄
 
 **生产可用性**
 
-该项目的生产可用性为中等，适合用于原型开发或内部工作流。然而，
+该项目的生产可用性为中等，适合用于原型开发或内部工作流。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/hacrex/the-vibe-coding-handbook)。
 
 ## 🧭 Practical evaluation
 

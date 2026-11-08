@@ -39,7 +39,9 @@ Here's a 2-3 sentence summary of the project:
 2. **Understand the features:** Familiarize yourself with the project's features, including search, safe writes, add-by-DOI, CSL citations, hybrid semantic search, and a scholarly-context graph.
 3. **Integrate with AI assistants:** Use zoteus to connect AI assistants to real tools and data, enabling the development of more sophisticated AI applications.
 
-**Production Readiness:** The project has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/oscardvs/zoteus).
 
 ### Русский
 

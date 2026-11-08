@@ -35,7 +35,9 @@ Here's a brief summary of the Power2All/torrust-actix project:
 
 **Practical Adoption Path:** To adopt Power2All/torrust-actix, teams should start with a small proof of concept and carefully evaluate the project's metadata, README, and integration requirements. This will help identify potential risks and validate the setup cost before committing to the project. The project's medium production readiness rating suggests that it is suitable for prototypes or internal workflows, but may require additional checks and maintenance before being ready for production use.
 
-**Production Readiness:** Power2All/torrust-actix has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Power2All/torrust-actix).
 
 ### Русский
 

@@ -42,7 +42,11 @@ To adopt apple/containerization, developers should follow these steps:
 4. Update the package to the latest version (2026-07-18) to ensure compatibility and bug fixes.
 
 **Production Readiness:**
-apple/containerization is considered production-ready for internal workflows or prototypes, but requires dependency and maintenance checks before deployment to production environments. Its medium production readiness score indicates that while it can be useful for certain use cases, careful evaluation and validation are
+apple/containerization is considered production-ready for internal workflows or prototypes, but requires dependency and maintenance checks before deployment to production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/apple/containerization).
 
 ### Русский
 

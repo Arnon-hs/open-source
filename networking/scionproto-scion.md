@@ -45,7 +45,11 @@ To adopt the SCION Internet Architecture project, follow these steps:
 
 **Production Readiness:**
 
-The project is considered medium production-ready, suitable for prototypes or internal workflows. However, before deploying it in production, ensure that you have thoroughly reviewed its dependency and maintenance requirements. This will help you mitigate potential risks and ensure a
+The project is considered medium production-ready, suitable for prototypes or internal workflows. However, before deploying it in production, ensure that you have thoroughly reviewed its dependency and maintenance requirements.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/scionproto/scion).
 
 ### Русский
 

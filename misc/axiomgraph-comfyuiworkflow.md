@@ -37,7 +37,11 @@ The main value proposition of Axiomgraph's ComfyUIWorkflow lies in its ability t
 To adopt ComfyUIWorkflow, users should start by carefully inspecting the integration process and validating the setup cost before committing to its use. This is due to the sparse integration signals and non-obvious integration path, which can make the adoption process more complex. Once the integration is validated, users can begin to create repeatable flows and automate their workflows.
 
 **Production Readiness:**
-Axiomgraph's ComfyUIWorkflow is considered production-ready with a medium level of readiness. It is suitable for
+Axiomgraph's ComfyUIWorkflow is considered production-ready with a medium level of readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/axiomgraph/ComfyUIWorkflow).
 
 ### Русский
 

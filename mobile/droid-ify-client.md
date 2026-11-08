@@ -38,7 +38,11 @@ The project's value proposition lies in its ability to save engineers time and e
 The practical adoption path for Droid-ify/client involves evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. With its straightforward evaluation process and strong ecosystem signals, developers can easily integrate the project into their workflows. Additionally, the project's recent activity and adoption suggest that it has a solid foundation for further development and support.
 
 **Production Readiness:**
-The project's production readiness is high, thanks to its recent activity, adoption, and strong ecosystem signals. With over 7,000 GitHub stars and 201 forks, the project has a
+The project's production readiness is high, thanks to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Droid-ify/client).
 
 ### Русский
 

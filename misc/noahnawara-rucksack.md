@@ -42,7 +42,10 @@ To adopt Rucksack, engineers should follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it meets your team's needs and standards.
 2. **Verify Dependencies**: Check the tool's dependencies and ensure they are up-to-date and compatible with your development environment.
 3. **Test and Validate**: Run Rucksack in a controlled environment and verify its functionality and performance.
-4. **Integrate with CI/CD**: Integrate Rucksack with your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/noahnawara/rucksack).
 
 ### Русский
 

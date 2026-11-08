@@ -78,9 +78,9 @@ Docktail 的生产可用性很高，主要原因是：
 * 有 9 个主题
 * 有较强的社区支持和维护者
 
-但是，还需要进一步检查以下风险：
+## 采用前检查
 
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/marvinvr/docktail)。
 
 ## 🧭 Practical evaluation
 

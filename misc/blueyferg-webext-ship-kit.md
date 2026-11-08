@@ -39,7 +39,10 @@ The WebExt Ship Kit is an open-source project that enables developers to build u
 **Practical Adoption Path:**
 
 1. **Manual Inspection**: Before adopting the WebExt Ship Kit, developers should manually inspect the project's code, documentation, and community support to understand its capabilities and limitations.
-2. **Verify Dependencies and Maintenance**: Developers should verify the project's dependencies, maintenance schedule, and release cadence to ensure they can
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/blueyferg/webext-ship-kit).
 
 ### Русский
 

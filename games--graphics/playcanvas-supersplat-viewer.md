@@ -33,7 +33,11 @@ The playcanvas/supersplat-viewer is a user-friendly, high-performance viewer for
 
 The value proposition of this project lies in its ability to simplify data management, allowing teams to focus on their core applications without getting bogged down in custom plumbing. The practical adoption path involves starting with a small proof of concept, reviewing the README documentation, and evaluating the project's feasibility for integration. While it has a moderate level of production readiness, careful consideration of dependencies and maintenance is necessary before deploying it in a production environment.
 
-In terms of production readiness, the project scores 60 out of 100, indicating that it's useful for prototypes or internal workflows but may require additional evaluation and testing before being used in production. With 505 GitHub stars and 133 forks, it has a decent level of community engagement, and its primary language, TypeScript, suggests a robust and maintainable codebase. However, a
+In terms of production readiness, the project scores 60 out of 100, indicating that it's useful for prototypes or internal workflows but may require additional evaluation and testing before being used in production. With 505 GitHub stars and 133 forks, it has a decent level of community engagement, and its primary language, TypeScript, suggests a robust and maintainable codebase.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/playcanvas/supersplat-viewer).
 
 ### Русский
 

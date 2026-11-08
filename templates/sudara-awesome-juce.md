@@ -36,8 +36,9 @@ The primary value of sudara/awesome-juce lies in its ability to help developers 
 **Practical Adoption Path:**
 To integrate sudara/awesome-juce into a project or development workflow, start with a small proof of concept to evaluate its feasibility. Review the README documentation and explore the curated list of resources to determine their relevance and applicability to your specific needs. As you become more familiar with the project, you can begin to incorporate its resources into your development process, starting with small-scale projects or tutorials.
 
-**Production Readiness:**
-With a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sudara/awesome-juce).
 
 ### Русский
 

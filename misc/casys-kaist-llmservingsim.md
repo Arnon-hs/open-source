@@ -42,7 +42,10 @@ To adopt LLMServingSim, users should follow these steps:
 1. **Manual Inspection**: Review the project's documentation and codebase to ensure it meets their specific needs and requirements.
 2. **Integration**: Integrate LLMServingSim with their existing infrastructure and tools.
 3. **Testing and Evaluation**: Test and evaluate the simulator to ensure it meets their expectations and performance requirements.
-4. **Maintenance and Dependency Checks**: Regularly update and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/casys-kaist/LLMServingSim).
 
 ### Русский
 

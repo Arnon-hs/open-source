@@ -37,7 +37,10 @@ As for the practical adoption path, here's a suggested step-by-step approach:
 2. **Dependency and maintenance checks**: Verify the project's dependencies, maintenance history, and release cadence to ensure they align with your project's needs.
 3. **Verify license and documentation**: Check the project's license and documentation to ensure they meet your project's requirements.
 4. **Evaluate quality signals**: Assess the project's quality signals, such as the number of contributors, issues, and releases, to gauge its stability and reliability.
-5. **Test and integrate**: Once you've verified the project's quality, test it in a controlled environment and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/not-elm/orzma).
 
 ### Русский
 

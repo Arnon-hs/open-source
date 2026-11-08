@@ -41,7 +41,10 @@ To adopt Andarius/piou, developers can follow these steps:
 2. Install the tool using pip, the Python package manager.
 3. Familiarize themselves with the tool's API and CLI interface.
 4. Start building rich text interfaces using Andarius/piou's type validation and other features.
-5. Reuse interface components and integrate them into their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Andarius/piou).
 
 ### Русский
 

@@ -40,7 +40,10 @@ The practical adoption path involves:
 The project's production readiness is high due to:
 
 1. **Recent activity**: The project has been updated recently (2026-08-07).
-2. **Strong adoption**: The project has
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/obsidianmd/obsidian-importer).
 
 ### Русский
 
@@ -79,7 +82,10 @@ Obsidianmd/obsidian-importer 可以通过以下方式接入：
 Obsidianmd/obsidian-importer 的生产可用性高，理由如下：
 
 * 最近的活动：项目最近有活跃的更新
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/obsidianmd/obsidian-importer)。
 
 ## 🧭 Practical evaluation
 

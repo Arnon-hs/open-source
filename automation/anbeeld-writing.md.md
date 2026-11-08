@@ -53,7 +53,9 @@ Anbeeld/WRITING.md has a medium production readiness level, making it suitable f
 - Internal workflows with minimal dependencies and maintenance needs
 - Small-scale production environments with careful validation and setup
 
-However, it's essential to carefully evaluate the integration path, validate the setup cost, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Anbeeld/WRITING.md).
 
 ### Русский
 

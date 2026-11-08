@@ -37,7 +37,11 @@ The value of FMA-Net lies in its ability to accelerate AI model development by p
 2. Inspecting the integration signals and evaluating the project's quality signals, such as GitHub stars and forks.
 3. Conducting a manual review of the project's license, security posture, and active maintainers to ensure they meet the user's requirements.
 
-Regarding production readiness, FMA-Net has a medium score, indicating that it is suitable for prototypes or internal workflows, but users should perform dependency and maintenance checks before deploying it in production. While it has a good reputation with 706 GitHub stars and regular updates, users should still exercise caution and
+Regarding production readiness, FMA-Net has a medium score, indicating that it is suitable for prototypes or internal workflows, but users should perform dependency and maintenance checks before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/KAIST-VICLab/FMA-Net).
 
 ### Русский
 

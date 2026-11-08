@@ -40,7 +40,11 @@ Here's a brief summary and explanation of the project:
 3. Configure the tool to automate local engineering tasks and improve CI feedback.
 4. Use the tool's macro and clicker features to streamline workflows and reduce manual effort.
 
-**Production Readiness:** KeyTik is considered production-ready due to its recent activity, strong adoption, and ecosystem signals. With 397 GitHub stars and
+**Production Readiness:** KeyTik is considered production-ready due to its recent activity, strong adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Fajar-RahmadJaya/KeyTik).
 
 ### Русский
 

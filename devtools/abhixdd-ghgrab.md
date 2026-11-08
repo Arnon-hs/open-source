@@ -41,7 +41,10 @@ To adopt abhixdd/ghgrab, users can follow these steps:
 
 1. **Installation**: Install the tool using the provided installation instructions, which typically involve running a command in the terminal.
 2. **Configuration**: Configure the tool to connect to the desired version control platform by providing the necessary credentials and settings.
-3. **Usage**: Use the tool to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/abhixdd/ghgrab).
 
 ### Русский
 

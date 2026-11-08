@@ -41,7 +41,11 @@ To adopt MS-Agent, users can start by reviewing the project's README and conduct
 
 **Production Readiness:**
 
-With 4356 GitHub stars, 512 forks, and recent activity, MS-Agent demonstrates strong adoption and a healthy ecosystem. The project's high production readiness score indicates that
+With 4356 GitHub stars, 512 forks, and recent activity, MS-Agent demonstrates strong adoption and a healthy ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/modelscope/ms-agent).
 
 ### Русский
 

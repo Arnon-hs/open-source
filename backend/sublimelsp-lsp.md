@@ -74,7 +74,10 @@ sublimelsp/LSP 的生产可用性很高，主要原因包括：
 
 * 近期活动：最近有活跃的维护和更新
 * 广泛采用：1787 个 GitHub 星和 198 个分支表明了其受欢迎程度
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/sublimelsp/LSP)。
 
 ## 🧭 Practical evaluation
 

@@ -48,7 +48,10 @@ To adopt Ekuiper, follow these steps:
 Ekuiper has demonstrated strong production readiness, with:
 
 * **Recent activity**: Regular updates and contributions indicate active maintenance and development.
-* **Adoption**: A
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lf-edge/ekuiper).
 
 ### Русский
 

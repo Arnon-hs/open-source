@@ -41,7 +41,11 @@ To adopt yc-duan/fastctx, developers can start by evaluating the project's feasi
 
 **Production Readiness:**
 
-yc-duan/fastctx has a medium level of production readiness, making it suitable for use in prototypes or internal workflows. However, before deploying it in production, developers should conduct a
+yc-duan/fastctx has a medium level of production readiness, making it suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yc-duan/fastctx).
 
 ### Русский
 

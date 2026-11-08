@@ -42,7 +42,10 @@ To adopt this project, developers should follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, codebase, and issues to understand its functionality, limitations, and potential risks.
 2. **Verify Quality Signals**: Check the project's update history, release cadence, and issue resolution rate to ensure it is actively maintained.
 3. **Verify License and Dependencies**: Ensure that the project's license is compatible with your organization's requirements and that its dependencies are well-maintained and secure.
-4. **Evaluate Documentation and Support**: Assess the quality of
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MultiArrayQueue/WaitFreeMultiArrayQueue).
 
 ### Русский
 

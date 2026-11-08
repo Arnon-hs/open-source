@@ -44,9 +44,9 @@ To adopt this project, developers should follow these steps:
 3. Integrate the project into their existing workflow, taking into account any dependencies and potential maintenance checks.
 4. Test and evaluate the project's performance and accuracy in their specific use case.
 
-**Production Readiness**
+## Before adopting
 
-The production readiness of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Chrisinho8/DACH-data-job-market).
 
 ### Русский
 

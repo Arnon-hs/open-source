@@ -33,7 +33,11 @@ Orchestration · AI/ML · DevTools
 
 **Practical Adoption Path:** To adopt JanYork/llm-wiki-cli, developers can start by evaluating its API/SDK/CLI implementation and language metadata. They can then use the tool to integrate with their existing AI workflows, add custom tool-use pipelines, and standardize agent memory. As the tool is still in the medium production readiness stage, it's recommended to perform thorough dependency and maintenance checks before deploying it in production environments.
 
-**Production Readiness:** JanYork/llm-wiki-cli has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, it requires further review and evaluation of
+**Production Readiness:** JanYork/llm-wiki-cli has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JanYork/llm-wiki-cli).
 
 ### Русский
 

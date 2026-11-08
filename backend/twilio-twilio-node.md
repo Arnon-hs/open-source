@@ -50,7 +50,10 @@ To adopt Twilio Node, developers can follow these steps:
 Twilio Node is deemed production-ready due to its:
 
 1. Recent activity, indicating ongoing maintenance and updates.
-2. Strong adoption, with 1544 GitHub stars and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/twilio/twilio-node).
 
 ### Русский
 

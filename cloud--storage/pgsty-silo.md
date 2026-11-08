@@ -33,7 +33,9 @@ Cloud & Storage
 
 **Practical Adoption Path:** To adopt this project, organizations should first manually inspect the code and its dependencies to ensure that it meets their requirements. This involves verifying the license, maintenance, documentation, issues, and release cadence of the project. Once the project has been vetted, it can be used in prototypes or internal workflows to improve search and knowledge management. However, due to its limited production readiness, it is not recommended for large-scale production deployments without further testing and validation.
 
-**Production Readiness:** The production readiness of this project is rated as medium, indicating that it is suitable for use in prototypes or internal workflows, but requires careful evaluation and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pgsty/silo).
 
 ### Русский
 

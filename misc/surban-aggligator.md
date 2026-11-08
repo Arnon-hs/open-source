@@ -37,10 +37,9 @@ The surban/aggligator project offers significant value by enabling developers to
 2. **Prototype and evaluate AI features**: The project provides a foundation for testing and refining AI concepts, making it an ideal choice for proof-of-concepts and experimentation.
 3. **Build robust agent workflows**: With its ability to aggregate links and provide resilience, the project facilitates the development of reliable and fault-tolerant agent workflows.
 
-**Practical Adoption Path:**
-To adopt the surban/aggligator project, follow these steps:
+## Before adopting
 
-1. **Start with a small proof of concept**: Evaluate the project's feasibility by building a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/surban/aggligator).
 
 ### Русский
 

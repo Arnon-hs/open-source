@@ -33,7 +33,9 @@ AI/ML
 
 **Practical Adoption Path:** To adopt BCS1037/codian, users can start by evaluating the plugin's features and integration signals, such as API/SDK/CLI, language metadata, and focused topics. They can then prototype AI features, build RAG or agent workflows, and evaluate model tooling using the plugin. As they gain more experience, they can refine their workflows and integrate the plugin into their production environments.
 
-**Production Readiness:** BCS1037/codian is considered medium-production-ready, meaning it's useful for prototypes or internal workflows, but requires careful evaluation and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/BCS1037/codian).
 
 ### Русский
 

@@ -44,9 +44,9 @@ To adopt Navic, developers can follow these steps:
 3. **Test and refine**: Test Navic in a controlled environment to identify any potential issues or areas for improvement.
 4. **Deploy in a prototype or internal workflow**: Once satisfied with the results, deploy Navic in a prototype or internal workflow to validate its effectiveness.
 
-**Production Readiness**
+## Before adopting
 
-Navic has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ssalggnikool/Navic).
 
 ### Русский
 

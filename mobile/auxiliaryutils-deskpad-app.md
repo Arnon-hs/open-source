@@ -41,7 +41,11 @@ Before adopting DeskPad, it is essential to manually inspect the project's READM
 
 **Production Readiness:**
 
-DeskPad has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows after thorough checks and verifications. However, its quality signals are limited, and you should exercise caution before using it in production environments. Regularly monitoring the project's activity, issues, and
+DeskPad has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows after thorough checks and verifications. However, its quality signals are limited, and you should exercise caution before using it in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/auxiliaryutils/deskpad-app).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The value proposition of Templatical/sdk lies in its ability to transform isolat
 For practical adoption, developers can start by evaluating the SDK's implementation signals, such as its API, SDK, CLI, language metadata, and focused topics. This will help them assess the SDK's compatibility with their existing infrastructure and toolset. Once evaluated, developers can begin integrating the SDK into their workflows, starting with small-scale pilots to test its feasibility and effectiveness.
 
 **Production Readiness:**
-With a score of 80/100, Templatical/sdk demonstrates strong production readiness. Its recent activity, adoption, and
+With a score of 80/100, Templatical/sdk demonstrates strong production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/templatical/sdk).
 
 ### Русский
 

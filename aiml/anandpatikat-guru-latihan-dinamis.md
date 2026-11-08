@@ -35,7 +35,9 @@ Here is a brief summary of the project:
 
 **Practical Adoption Path:** To adopt this project, users can start by evaluating the project's feasibility through a small proof of concept and reviewing the README documentation. Once the project has been validated, users can integrate it into their existing workflows, taking into account the project's medium production readiness score and the need for dependency and maintenance checks.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows but may require additional work to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/anandpatikat/guru-latihan-dinamis).
 
 ### Русский
 

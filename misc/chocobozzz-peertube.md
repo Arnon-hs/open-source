@@ -42,7 +42,10 @@ To adopt PeerTube, follow these steps:
 1. **Verify license and dependencies**: Ensure that the license and dependencies are compatible with your project needs.
 2. **Inspect documentation and issues**: Review the documentation, issues, and release cadence to understand the project's maintenance and support.
 3. **Prototype and test**: Use PeerTube for prototyping and testing to assess its performance and suitability for your project.
-4. **Implement and refine**: Once satisfied with the results, implement PeerTube in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Chocobozzz/PeerTube).
 
 ### Русский
 

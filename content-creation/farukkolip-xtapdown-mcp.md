@@ -42,7 +42,10 @@ To adopt Xtapdown-MCP, developers can follow these steps:
 1. **Manual Inspection**: Carefully review the project's code, documentation, and issues to ensure it meets their requirements.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements to ensure they align with their project needs.
 3. **Verify License and Quality Signals**: Confirm the project's license, maintenance, documentation, issues, and release cadence to ensure it is reliable and trustworthy.
-4. **Prototype or Internal Workflow**: Use Xtapdown-MCP in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/farukkolip/xtapdown-mcp).
 
 ### Русский
 

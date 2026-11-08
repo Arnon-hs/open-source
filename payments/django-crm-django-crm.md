@@ -61,7 +61,10 @@ Django-CRM/Django-CRM 在生产环境中表现良好，具有以下特点：
 
 * 近期活动：最近有活跃的维护和更新。
 * 广泛采用：拥有 2367 个 GitHub 星和 1025 个分支。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/Django-CRM/Django-CRM)。
 
 ## 🧭 Practical evaluation
 

@@ -41,7 +41,10 @@ As for the practical adoption path, the project's value can be unlocked by:
 In terms of production readiness, the project is suitable for:
 
 1. Prototyping: The project's medium production readiness makes it a good fit for proof-of-concept development or experimentation.
-2. Internal workflows: The project can be used within an organization for specific tasks or workflows, with careful consideration of dependencies and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/erkinalp/ram-coffers).
 
 ### Русский
 

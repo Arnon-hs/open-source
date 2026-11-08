@@ -41,7 +41,10 @@ To adopt Vale CLI, follow these steps:
 
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it aligns with your team's needs and workflow.
 2. **Verify Quality Signals**: Assess the project's quality signals, such as the number of updates, topics, and user engagement, to gauge its maintainability and reliability.
-3. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements to ensure they won't cause issues in your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vale-cli/vale).
 
 ### Русский
 

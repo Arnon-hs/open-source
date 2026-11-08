@@ -33,7 +33,11 @@ himself65/finance-skills is an open-source project that offers a collection of s
 
 The value of himself65/finance-skills lies in its ability to streamline financial analysis and automation, making it an attractive option for those looking to optimize their market workflows. The practical adoption path involves starting with a small proof of concept and checking the README documentation to ensure a smooth integration process. However, it is essential to validate the setup cost before committing to the project, as the integration path is not immediately clear from the metadata.
 
-In terms of production readiness, himself65/finance-skills scores a moderate 50 (out of 100), indicating that it is suitable for prototype development or internal workflows. While it has a significant number of GitHub stars and forks, and is actively maintained, the lack of clarity in the integration path and the need for
+In terms of production readiness, himself65/finance-skills scores a moderate 50 (out of 100), indicating that it is suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/himself65/finance-skills).
 
 ### Русский
 

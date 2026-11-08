@@ -38,7 +38,9 @@ Misc
 3. **Evaluate integration signals**: Manually inspect the project's integration capabilities and signals to assess its feasibility for production use.
 4. **Prototype and test**: Develop a prototype using BriskDB to evaluate its performance, scalability, and reliability in a controlled environment.
 
-**Production Readiness:** BriskDB has a medium production readiness score, indicating that it can
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/schapman1974/briskdb).
 
 ### Русский
 

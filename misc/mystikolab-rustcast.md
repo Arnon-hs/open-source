@@ -40,7 +40,9 @@ Here's a brief summary and analysis of the MystikoLab/rustcast project:
 3. **Validate setup costs**: Assess the effort required to set up and maintain the project in your specific workflow.
 4. **Integrate with caution**: Start with a small-scale integration and monitor the project's activity and documentation.
 
-**Production Readiness:** MystikoLab/rustcast is considered medium production-ready, suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MystikoLab/rustcast).
 
 ### Русский
 

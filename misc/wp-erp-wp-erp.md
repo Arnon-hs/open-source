@@ -37,7 +37,11 @@ Misc
 2. Conduct a small proof of concept to test the integration feasibility.
 3. Perform dependency and maintenance checks before committing to production use.
 
-**Production Readiness:** wp-erp/wp-erp is considered medium-production ready, meaning it's suitable for prototypes or internal workflows but may require additional validation and setup before being deployed in a production environment. Its production readiness score of 58/100 indicates that while it has potential, it requires careful evaluation and testing to
+**Production Readiness:** wp-erp/wp-erp is considered medium-production ready, meaning it's suitable for prototypes or internal workflows but may require additional validation and setup before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wp-erp/wp-erp).
 
 ### Русский
 

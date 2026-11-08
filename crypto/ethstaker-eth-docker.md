@@ -39,11 +39,9 @@ The ethstaker/eth-docker project offers several key benefits, including:
 * **Improved transparency**: Open-source implementation details enable developers to inspect and modify the code, promoting trust and collaboration within the community.
 * **Enhanced flexibility**: The project's modular design allows developers to easily adapt and extend the tool to suit their specific needs.
 
-**Practical Adoption Path:**
+## Before adopting
 
-To adopt the ethstaker/eth-docker project, follow these steps:
-
-1. **Evaluate the project**: Review the README, documentation, and GitHub repository to understand the project's features, limitations, and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ethstaker/eth-docker).
 
 ### Русский
 

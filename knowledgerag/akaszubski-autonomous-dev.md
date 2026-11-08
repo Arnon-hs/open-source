@@ -74,7 +74,10 @@ akaszubski/autonomous-dev具有高生产可用性，适合用于serious pilot（
 
 * 最近活动：最近更新于2026-07-24。
 * 强大的采用：31个GitHub星标，5个分支。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/akaszubski/autonomous-dev)。
 
 ## 🧭 Practical evaluation
 

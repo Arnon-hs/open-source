@@ -40,7 +40,11 @@ Here's a brief summary and explanation of the project:
 3. **Integration**: Integrate Bunrun with your existing development environment and tools to streamline the development process.
 4. **Refactoring**: Once you're satisfied with the results, refactor the code to make it more robust and maintainable.
 
-**Production Readiness:** Bunrun is considered production-ready with a medium level of confidence. While it's useful for prototypes or
+**Production Readiness:** Bunrun is considered production-ready with a medium level of confidence.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jokkebk/bunrun).
 
 ### Русский
 

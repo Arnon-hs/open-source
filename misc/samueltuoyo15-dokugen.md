@@ -36,8 +36,9 @@ The primary value proposition of Dokugen is to help engineers save time in their
 **Practical Adoption Path:**
 To adopt Dokugen, developers can start by evaluating its feasibility through a small proof of concept and README check. The tool's primary language is TypeScript, and it has a moderate level of production readiness, making it suitable for prototypes or internal workflows. Before integrating Dokugen into production, it's essential to perform dependency and maintenance checks to ensure its stability and security.
 
-**Production Readiness:**
-Dokugen has a medium level of production readiness, indicating that it's suitable for use in certain contexts, such as prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/samueltuoyo15/Dokugen).
 
 ### Русский
 

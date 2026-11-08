@@ -36,8 +36,9 @@ The sociilabs/claude-content-writer project offers a unique value proposition by
 **Practical Adoption Path:**
 For practical adoption, it is recommended to start with a small proof of concept and carefully evaluate the project's README and integration notes. This will help users understand the project's functionality and identify potential integration challenges. Before committing to production use, users should also perform dependency and maintenance checks to ensure a smooth implementation.
 
-**Production Readiness:**
-The sociilabs/claude-content-writer project has a medium production readiness score, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sociilabs/claude-content-writer).
 
 ### Русский
 

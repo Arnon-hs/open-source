@@ -45,7 +45,9 @@ The project has a high production readiness score, with recent activity, adoptio
 * A primary language of HTML, indicating a focus on web development
 * 15 topics, suggesting a comprehensive scope
 
-However, it's essential to conduct a final review of the project's license, security posture, and active maintainers to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Nriver/trilium-translation).
 
 ### Русский
 

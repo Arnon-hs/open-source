@@ -42,7 +42,10 @@ To adopt traefikturkey/onramp, users can follow these steps:
 1. Review the project's documentation and GitHub repository to understand its features and configuration options.
 2. Clone the project's Docker Compose setup and customize it to fit their specific needs.
 3. Deploy the setup on their preferred infrastructure, such as a local machine or a cloud provider.
-4. Configure the services, such as Traefik, LetsEncrypt, and Cloudflare Tunnels, according to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/traefikturkey/onramp).
 
 ### Русский
 

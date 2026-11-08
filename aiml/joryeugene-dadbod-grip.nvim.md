@@ -41,8 +41,9 @@ To adopt dadbod-grip.nvim, users can follow these steps:
 3. Test the project's features and functionality with their preferred database.
 4. Integrate the project into their existing workflow or prototype AI features.
 
-**Production Readiness:**
-Dadbod-grip.nvim has a medium production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/joryeugene/dadbod-grip.nvim).
 
 ### Русский
 

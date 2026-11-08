@@ -45,9 +45,9 @@ To adopt OAuth2, developers should:
 4. Integrate the library into their project, taking care to address any dependencies and potential conflicts.
 5. Regularly review and update the library to ensure it remains secure and compatible with their project's evolving needs.
 
-**Production Readiness**
+## Before adopting
 
-OAuth2 has a medium production readiness score, indicating that it is suitable for use in prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/titarenko/OAuth2).
 
 ### Русский
 

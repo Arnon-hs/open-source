@@ -37,7 +37,11 @@ The primary value proposition of tomcounsell/ai lies in its ability to turn isol
 
 **Production Readiness:**
 
-The tomcounsell/ai project is considered to be in medium production readiness, making it suitable for use in prototypes or internal workflows. However, before deploying it in production, users should perform dependency and maintenance checks to ensure the project's stability and security. Additionally, the project's relatively low GitHub star count and fork count may indicate a
+The tomcounsell/ai project is considered to be in medium production readiness, making it suitable for use in prototypes or internal workflows. However, before deploying it in production, users should perform dependency and maintenance checks to ensure the project's stability and security.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tomcounsell/ai).
 
 ### Русский
 

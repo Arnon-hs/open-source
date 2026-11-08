@@ -38,7 +38,10 @@ Here's a brief summary of the open-source project:
 1. Evaluate the project's GitHub presence, including its stars, forks, and recent activity.
 2. Review the project's documentation, including the README file, to understand its features and requirements.
 3. Conduct a manual inspection of the project's integration signals to ensure they meet the business's needs.
-4. Assess the project's production readiness and identify any potential risks, such as
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zubair-trabzada/geo-seo-claude).
 
 ### Русский
 

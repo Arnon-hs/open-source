@@ -41,7 +41,9 @@ Here's a brief summary and explanation of the value, practical adoption path, an
 4. Verify that the project's maintenance and support are sufficient for your needs.
 5. Integrate the project into your workflow, taking note of any potential risks or limitations.
 
-**Production Readiness:** GhostCommit has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/asset-group/ghostcommit).
 
 ### Русский
 

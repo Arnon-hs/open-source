@@ -37,7 +37,11 @@ The value proposition of Qtap lies in its ability to provide rich context about 
 
 **Practical Adoption Path:**
 
-To adopt Qtap, developers can start by evaluating the project with a small proof of concept and checking the README documentation. This will help them understand the project's architecture, usage, and potential integration points. Once they have a clear understanding of how Qtap can meet their needs, they can begin integrating it into their existing infrastructure. With Qtap's strong adoption and recent activity, developers can be confident that
+To adopt Qtap, developers can start by evaluating the project with a small proof of concept and checking the README documentation. This will help them understand the project's architecture, usage, and potential integration points. Once they have a clear understanding of how Qtap can meet their needs, they can begin integrating it into their existing infrastructure.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/qpoint-io/qtap).
 
 ### Русский
 

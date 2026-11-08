@@ -35,7 +35,11 @@ Here's a brief summary of the Vortex project:
 
 **Practical Adoption Path:** To adopt Vortex, it's essential to manually inspect the project's metadata, verify its license, maintenance, documentation, issues, and release cadence. This ensures that the project meets your specific needs and is suitable for production use. A thorough evaluation will help you understand the risks involved and make an informed decision.
 
-**Production Readiness:** Vortex has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows. However, before adopting it for production, it's crucial to perform dependency and maintenance checks to ensure the project's stability and reliability. This will help mitigate potential risks and
+**Production Readiness:** Vortex has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows. However, before adopting it for production, it's crucial to perform dependency and maintenance checks to ensure the project's stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zoir-dev/vortex).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt aws/aws-cli, engineers can start by evaluating its straightforward integration signals, such as API/SDK/CLI exposure, language metadata, and focused topics. They can then explore its use cases, such as automating local engineering tasks and improving CI feedback, to determine how it can be applied to their specific workflows. With its recent activity, adoption, and strong ecosystem signals, aws/aws-cli is a viable option for serious pilots and production environments.
 
-**Production Readiness:** aws/aws-cli has a high production readiness score due to its recent activity, strong adoption, and positive ecosystem signals. With 17,136 GitHub stars, 4,606 forks, and regular updates, the project demonstrates a strong community backing and a commitment to maintenance. However, a
+**Production Readiness:** aws/aws-cli has a high production readiness score due to its recent activity, strong adoption, and positive ecosystem signals. With 17,136 GitHub stars, 4,606 forks, and regular updates, the project demonstrates a strong community backing and a commitment to maintenance.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aws/aws-cli).
 
 ### Русский
 

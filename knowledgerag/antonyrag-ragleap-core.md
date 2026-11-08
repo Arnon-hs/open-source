@@ -44,9 +44,9 @@ To adopt Ragleap-RAG, follow these steps:
 3. **Dependency and Maintenance Checks**: Assess the project's dependencies and maintenance requirements to ensure they align with your organization's standards.
 4. **Prototype or Internal Workflow**: Use Ragleap-RAG in a controlled environment to test its effectiveness and identify potential issues.
 
-**Production Readiness**
+## Before adopting
 
-Ragleap-RAG is considered medium-production ready, making it suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/antonyrag/ragleap-core).
 
 ### Русский
 

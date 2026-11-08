@@ -38,7 +38,11 @@ Misc
 3. **Build RAG or Agent Workflows:** Leverage osiris to build RAG (Red, Amber, Green) or agent workflows, streamlining your operations.
 4. **Evaluate Model Tooling:** Use osiris to evaluate and refine model tooling, ensuring optimal performance.
 
-**Production Readiness:** With recent activity, adoption, and strong ecosystem signals, simplifaisoul/osiris is production-ready for a serious pilot. However, it is essential to conduct a final review of the license, security posture, and
+**Production Readiness:** With recent activity, adoption, and strong ecosystem signals, simplifaisoul/osiris is production-ready for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/simplifaisoul/osiris).
 
 ### Русский
 

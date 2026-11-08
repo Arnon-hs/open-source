@@ -41,7 +41,11 @@ To adopt Qwen/Qwen3-8B, developers should first inspect the model manually to en
 
 **Production Readiness**
 
-Due to the limited quality signals and sparse integration signals, Qwen/Qwen3-8B is considered to be in an early or unclear production readiness state. This means that
+Due to the limited quality signals and sparse integration signals, Qwen/Qwen3-8B is considered to be in an early or unclear production readiness state.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/Qwen/Qwen3-8B).
 
 ### Русский
 

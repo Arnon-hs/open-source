@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the opentiny/webmcp-sdk project:
 
 **Practical Adoption Path:** To adopt opentiny/webmcp-sdk, developers can start by evaluating the project's implementation signals, such as its API, SDK, and CLI, as well as its language metadata and focused topics. The project's recent activity, adoption, and ecosystem signals indicate that it is a viable candidate for serious pilot projects. Developers can connect AI agents to tools, ship Model Context Protocol servers, and standardize integrations using the WebMCP and WebSkills protocols.
 
-**Production Readiness:** The opentiny/webmcp-sdk project has a high production readiness score due to its recent activity, adoption, and ecosystem signals. With 109 GitHub stars and 21 forks, the project has a
+**Production Readiness:** The opentiny/webmcp-sdk project has a high production readiness score due to its recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/opentiny/webmcp-sdk).
 
 ### Русский
 

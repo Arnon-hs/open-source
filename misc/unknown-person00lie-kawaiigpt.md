@@ -40,7 +40,10 @@ To adopt KawaiiGPT, follow these steps:
 2. **Integration:** Integrate KawaiiGPT into your project, taking note of any potential issues or dependencies.
 3. **Testing:** Test KawaiiGPT in a controlled environment to ensure it works as expected.
 4. **Dependency Checks:** Verify that all dependencies are up-to-date and compatible with your project's stack.
-5. **Production Readiness:** Once KawaiiGPT is integrated and tested, perform additional checks to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/unknown-person00lie/KawaiiGPT).
 
 ### Русский
 

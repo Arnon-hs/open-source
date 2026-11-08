@@ -33,7 +33,11 @@ Cloud & Storage · Mobile
 
 **Practical Adoption Path:** To adopt aws-amplify/amplify-flutter, developers should start by evaluating the library through a small proof of concept and carefully reviewing the README documentation. This will help identify potential integration challenges and setup costs. Once a basic understanding of the library is established, developers can begin to incorporate it into their project, starting with a small-scale implementation and gradually scaling up as needed.
 
-**Production Readiness:** The production readiness of aws-amplify/amplify-flutter is medium. While it is a
+**Production Readiness:** The production readiness of aws-amplify/amplify-flutter is medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aws-amplify/amplify-flutter).
 
 ### Русский
 

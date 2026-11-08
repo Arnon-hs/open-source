@@ -62,7 +62,10 @@ OpenLoco/OpenLoco 的接入方式包括：
 OpenLoco/OpenLoco 的生产可用性处于较高水平，主要原因包括：
 
 1. 最近的活动：项目最近有活动，表明仍然有开发者维护和更新。
-2.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/OpenLoco/OpenLoco)。
 
 ## 🧭 Practical evaluation
 

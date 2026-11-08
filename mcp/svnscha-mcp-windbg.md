@@ -33,7 +33,9 @@ MCP · Communication · Backend
 
 **Practical Adoption Path:** To adopt svnscha/mcp-windbg, developers can start by evaluating the project's API, SDK, and CLI implementations. They can then integrate the MCP protocol into their AI-powered applications, using the provided language metadata and focused topics to ensure compatibility. The project's straightforward evaluation process makes it an attractive option for developers looking to connect their AI assistants to real tools and data.
 
-**Production Readiness:** svnscha/mcp-windbg has a high production readiness score due to its recent activity, strong adoption (1417 GitHub stars and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/svnscha/mcp-windbg).
 
 ### Русский
 

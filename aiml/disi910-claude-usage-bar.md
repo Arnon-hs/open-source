@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, users should first manually inspect the extension to ensure it meets their requirements and is free from potential risks. This includes verifying the license, maintenance, documentation, issues, and release cadence. Once satisfied, users can install the Chrome extension and start using its features to enhance their AI capabilities.
 
-**Production Readiness:** The project is considered to be at a medium level of production readiness. While it can be useful for
+**Production Readiness:** The project is considered to be at a medium level of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/disi910/claude-usage-bar).
 
 ### Русский
 

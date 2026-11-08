@@ -40,7 +40,11 @@ Here's a summary of the project in English:
 3. Start building API services using OpenTouryo's standardized patterns and infrastructure.
 4. Continuously monitor and improve their adoption of the framework to ensure a smooth and efficient development process.
 
-**Production Readiness:** OpenTouryo is considered production-ready, with strong signals of recent activity, adoption, and ecosystem support. The framework has a high score of
+**Production Readiness:** OpenTouryo is considered production-ready, with strong signals of recent activity, adoption, and ecosystem support.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/OpenTouryoProject/OpenTouryo).
 
 ### Русский
 

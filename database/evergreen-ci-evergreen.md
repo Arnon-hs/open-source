@@ -41,7 +41,10 @@ As for the practical adoption path, here are the steps:
 Evergreen's production readiness is medium due to the following reasons:
 
 * **Useful for Prototypes or Internal Workflows**: Evergreen is suitable for testing and refining ideas, but it may not be ready for large-scale production use.
-* **Dependency and Maintenance Checks**: Careful evaluation of
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/evergreen-ci/evergreen).
 
 ### Русский
 

@@ -46,7 +46,10 @@ To adopt this project, follow these steps:
 1. **Verify quality and maintenance:** Carefully review the project's license, documentation, issues, and release cadence to ensure it meets your needs.
 2. **Manual inspection:** Inspect the code and dependencies to ensure they align with your project's requirements.
 3. **Testing and evaluation:** Test the clip generator in a controlled environment to assess its performance and effectiveness.
-4. **Integration and deployment:** Integrate the clip generator into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/joonfjp/ripeclips).
 
 ### Русский
 

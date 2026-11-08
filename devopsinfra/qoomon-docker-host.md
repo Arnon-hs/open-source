@@ -43,7 +43,10 @@ To adopt qoomon/docker-host, developers can follow these steps:
 
 1. Install Docker and Docker Compose on their local machine.
 2. Clone the qoomon/docker-host repository from GitHub.
-3. Configure the Docker sidecar container to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/qoomon/docker-host).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt Vibeframe, users can start by exploring its documentation and API/SDK/C
 1. Evaluating Vibeframe's API/SDK/CLI and language metadata.
 2. Assessing the project's security posture and license.
 3. Integrating Vibeframe with existing AI assistants or tools.
-4. Testing and deploying Vibeframe in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vericontext/vibeframe).
 
 ### Русский
 

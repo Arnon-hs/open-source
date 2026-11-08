@@ -37,7 +37,11 @@ The primary value proposition of FitMart lies in its ability to speed up the int
 
 **Practical Adoption Path:**
 
-To adopt FitMart, developers should start by reviewing the project's documentation and codebase to understand its architecture and dependencies. They should also perform a manual inspection of the integration signals to ensure a smooth adoption process. Before committing to production, developers should validate the setup cost and perform dependency and maintenance checks to ensure a stable and
+To adopt FitMart, developers should start by reviewing the project's documentation and codebase to understand its architecture and dependencies. They should also perform a manual inspection of the integration signals to ensure a smooth adoption process.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/parthbuilds-community/FitMart).
 
 ### Русский
 

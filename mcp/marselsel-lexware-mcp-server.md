@@ -41,7 +41,10 @@ To adopt the Lexware-MCP-Server, users can follow these steps:
 
 1. **Evaluate the project**: Assess the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. **Set up the server**: Install and configure the Lexware-MCP-Server, ensuring it meets the project's requirements and dependencies.
-3. **Connect AI agents**: Integrate AI assistants like Claude and ChatGPT with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/marselsel/Lexware-MCP-Server).
 
 ### Русский
 

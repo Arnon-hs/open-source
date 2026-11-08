@@ -35,7 +35,11 @@ Here's a brief summary of the project and its key points:
 
 **Practical Adoption Path:** To adopt this tool, users can start by installing it and following the documentation to set it up. The tool is designed to be user-friendly, with features such as project path, summary, and resume commands that make it easy to navigate and reuse code snippets. Users can also integrate the tool into their existing workflows, such as by adding it to their terminal or IDE.
 
-**Production Readiness:** With 30 GitHub stars, 2 forks, and recent activity, this project shows strong adoption and ecosystem signals, making it a suitable candidate for a serious pilot. Its high production readiness is also indicated by its primary language (Shell) and 20 topics, which suggest a
+**Production Readiness:** With 30 GitHub stars, 2 forks, and recent activity, this project shows strong adoption and ecosystem signals, making it a suitable candidate for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/noluyorAbi/claude-code-recap).
 
 ### Русский
 

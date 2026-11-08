@@ -37,7 +37,11 @@ The primary value proposition of polarity-lang/polarity lies in its ability to t
 To adopt polarity-lang/polarity, users should start by manually inspecting the project's metadata and integration signals to ensure a clear understanding of the integration path. Next, they should validate the setup costs and perform dependency and maintenance checks before committing to production use. This careful evaluation is crucial due to the project's medium production readiness score.
 
 **Production Readiness:**
-polarity-lang/polarity is considered to have medium production readiness. It is suitable for prototypes or internal workflows where the risks associated with its adoption can be managed. However, before deploying it in a production environment, users should carefully evaluate its dependencies, maintenance requirements, and
+polarity-lang/polarity is considered to have medium production readiness. It is suitable for prototypes or internal workflows where the risks associated with its adoption can be managed.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/polarity-lang/polarity).
 
 ### Русский
 

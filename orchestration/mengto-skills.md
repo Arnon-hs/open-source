@@ -38,7 +38,11 @@ The value of MengTo/Skills lies in its ability to streamline workflows and incre
 To adopt MengTo/Skills, users should first manually inspect the integration signals in the discovered metadata to ensure a smooth setup. Then, they should validate the setup costs before committing to the project. This will help users to identify potential risks and ensure that the integration is successful.
 
 **Production Readiness:**
-MengTo/Skills has a medium production readiness score, making it suitable for prototypes or internal workflows. However, users should exercise caution and
+MengTo/Skills has a medium production readiness score, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MengTo/Skills).
 
 ### Русский
 

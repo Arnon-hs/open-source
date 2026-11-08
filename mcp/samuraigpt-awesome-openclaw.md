@@ -33,7 +33,11 @@ SamurAIGPT/awesome-openclaw is a curated collection of resources, tools, tutoria
 
 We need to produce a brief summary (2-3 sentences) in Russian for the open-source project: SamurAIGPT/awesome-openclaw, description: curated list of OpenClaw resources, tools, skills, tutorials & articles. OpenClaw (formerly Moltbot / Clawdbot) — open-source self-hosted AI agent for WhatsApp, Telegram, Discord & 50+ integrations. Category: AI/ML.
 
-We need to be informative. Provide 2-3 sentences. Probably something like: "Это отобранный набор ресурсов, инструментов, обучающих материалов и статей, посвящённых OpenClaw — открытому самодостаточному ИИ‑агенту, способному работать в WhatsApp, Telegram, Discord и более чем 50 интеграциях. Awesome‑OpenClaw помогает разработчикам быстро находить руководства, библиотеки и примеры для
+We need to be informative. Provide 2-3 sentences. Probably something like: "Это отобранный набор ресурсов, инструментов, обучающих материалов и статей, посвящённых OpenClaw — открытому самодостаточному ИИ‑агенту, способному работать в WhatsApp, Telegram, Discord и более чем 50 интеграциях.
+
+## Перед использованием
+
+Проверьте актуальную документацию, условия лицензии, зависимости и состояние поддержки с учетом своей задачи. [Открыть источник](https://github.com/SamurAIGPT/awesome-openclaw).
 
 ### 中文
 

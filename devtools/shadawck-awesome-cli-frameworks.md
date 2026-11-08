@@ -38,7 +38,10 @@ To adopt shadawck/awesome-cli-frameworks, developers can follow these steps:
 
 1. Evaluate the framework's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets their project's requirements.
 2. Review the framework's documentation and examples to understand how to integrate it into their application.
-3. Choose the languages and tools that
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/shadawck/awesome-cli-frameworks).
 
 ### Русский
 

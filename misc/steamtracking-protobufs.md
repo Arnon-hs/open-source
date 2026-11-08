@@ -44,9 +44,9 @@ To adopt this project, follow these steps:
 3. **Review the project's license, security posture, and maintainers**: Ensure that the project meets your organization's standards and requirements.
 4. **Assess the project's GitHub presence and community**: Evaluate the project's adoption, recent activity, and ecosystem signals to gauge its production readiness.
 
-**Production Readiness:**
+## Before adopting
 
-With
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SteamTracking/Protobufs).
 
 ### Русский
 

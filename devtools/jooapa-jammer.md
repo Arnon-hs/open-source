@@ -70,7 +70,11 @@ jooapa/jammer 帮助开发者快速构建产品 UI，减少自定义 UI 工作�
 
 **生产可用性**
 
-jooapa/jammer 目前处于中等生产可用性，适用于原型设计或内部工作流。然而，
+jooapa/jammer 目前处于中等生产可用性，适用于原型设计或内部工作流。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/jooapa/jammer)。
 
 ## 🧭 Practical evaluation
 

@@ -37,7 +37,10 @@ Cloud & Storage · Libraries & SDKs · Data · Database
 2. **Assess the dependencies**: Understand the dependencies required for the project, including AWS services and Python libraries.
 3. **Integrate with AWS services**: Use the pandas library and aws/aws-sdk-pandas to integrate with desired AWS services, such as Athena, Glue, or Redshift.
 4. **Test and refine**: Test the integration and refine the code as needed to ensure seamless data manipulation and analysis.
-5. **Deploy and maintain**: Deploy the project in a production-ready environment and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aws/aws-sdk-pandas).
 
 ### Русский
 

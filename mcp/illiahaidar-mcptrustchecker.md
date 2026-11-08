@@ -38,7 +38,10 @@ The illiahaidar/mcptrustchecker helps establish a secure connection between AI a
 
 1. **Connect AI Agents to Tools:** Developers can use the mcptrustchecker to evaluate the trustworthiness of MCP servers, ensuring that AI agents are connected to reliable and secure tools.
 2. **Ship Model Context Protocol Servers:** By using the mcptrustchecker, developers can ensure that their MCP servers meet the required trust standards, making it easier to deploy and maintain them.
-3. **Standardize Integrations:** The project promotes standardization in integrations, making it easier for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/illiahaidar/mcptrustchecker).
 
 ### Русский
 

@@ -40,7 +40,11 @@ Here's a brief summary and explanation of the project:
 3. Perform final reviews on the library's license, security posture, and active maintainers to mitigate potential risks.
 4. Conduct thorough testing and quality assurance to ensure the library meets the project's standards.
 
-**Production Readiness:** Given its moderate level of quality and sparse integration signals, Turbo87/utm is best suited for prototype development or internal workflows. With
+**Production Readiness:** Given its moderate level of quality and sparse integration signals, Turbo87/utm is best suited for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Turbo87/utm).
 
 ### Русский
 

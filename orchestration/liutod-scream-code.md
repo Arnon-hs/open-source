@@ -44,9 +44,9 @@ To adopt LIUTod/scream-code, users can follow these steps:
 3. Assess the project's production readiness, considering its recent activity, adoption, and ecosystem signals.
 4. Finalize the review of license, security posture, and active maintainers to ensure a smooth adoption process.
 
-**Production Readiness:**
+## Before adopting
 
-LIUTod/scream-code has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LIUTod/scream-code).
 
 ### Русский
 

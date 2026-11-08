@@ -40,7 +40,9 @@ VenusFactory2 is an open-source AI agent platform that enables life science prof
 3. Review the project's documentation, tutorials, and community support to ensure it aligns with your needs.
 4. Pilot the project in a controlled environment to test its capabilities and identify potential issues.
 
-**Production Readiness:** The project has a high production readiness score, with recent activity, adoption, and ecosystem signals indicating its stability and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ai4protein/VenusFactory2).
 
 ### Русский
 

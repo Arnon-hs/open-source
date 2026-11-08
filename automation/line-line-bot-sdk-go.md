@@ -39,7 +39,10 @@ To adopt line/line-bot-sdk-go, follow these steps:
 
 1. Evaluate the SDK: Review the implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets your project requirements.
 2. Assess Production Readiness: Consider the project's recent activity, adoption, and ecosystem signals to gauge its production readiness.
-3. Review Quality Signals: Look at the project's GitHub stars, forks, and update history to ensure it is well-maintained and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/line/line-bot-sdk-go).
 
 ### Русский
 
@@ -69,7 +72,9 @@ line/line-bot-sdk-go 是一个用于 Go 语言的 LINE Messaging API SDK，是�
 * 广泛采用：项目有 955 个 GitHub Star 和 240 个 Fork，表明该项目受到了广泛的关注和采用。
 * 生态系统信号：该项目的生态系统信号强大，表明该项目具有良好的可靠性和可维护性。
 
-因此，
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/line/line-bot-sdk-go)。
 
 ## 🧭 Practical evaluation
 

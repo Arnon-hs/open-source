@@ -41,7 +41,10 @@ To adopt Probelock, follow these steps:
 2. Inspect the project's dependencies and maintenance history to ensure they align with your project's needs.
 3. Verify the project's license and release cadence to ensure it meets your project's requirements.
 4. Test Probelock in a prototype or internal workflow to evaluate its performance and suitability.
-5. Once satisfied, integrate Probelock into your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kelkalot/probelock).
 
 ### Русский
 

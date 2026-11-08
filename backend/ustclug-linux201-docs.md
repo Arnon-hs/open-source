@@ -41,7 +41,10 @@ The primary value of ustclug/Linux201-docs lies in its ability to help teams:
 To adopt ustclug/Linux201-docs, follow these steps:
 
 1. **Evaluate and assess**: Review the project's README, perform a small proof of concept, and check dependencies to ensure compatibility with your existing infrastructure.
-2. **Prototype development**: Use the project as a starting point for your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ustclug/Linux201-docs).
 
 ### Русский
 

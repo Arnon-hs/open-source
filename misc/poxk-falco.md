@@ -37,7 +37,11 @@ Misc
 2. **Dependency and Maintenance Checks**: Evaluate the project's dependencies and maintenance history to ensure they align with your project's needs.
 3. **Verify License and Quality Signals**: Confirm the project's license and verify quality signals such as issue tracking, release cadence, and community engagement.
 
-**Production Readiness:** Falco is considered medium-production ready, meaning it's suitable for prototypes or internal workflows but requires careful evaluation before production use. Its limited quality signals and sparse integration signals necessitate manual inspection and
+**Production Readiness:** Falco is considered medium-production ready, meaning it's suitable for prototypes or internal workflows but requires careful evaluation before production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/poxk/Falco).
 
 ### Русский
 

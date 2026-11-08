@@ -37,7 +37,11 @@ The primary value of akiirui/mpv-handler lies in its ability to simplify fronten
 To adopt akiirui/mpv-handler, developers should start by manually inspecting the project's integration signals to ensure a smooth adoption process. They should also validate the setup cost before committing to the project. Once integrated, developers can leverage the handler to build product UIs faster and improve their frontend delivery.
 
 **Production Readiness:**
-akiirui/mpv-handler is considered production-ready with a medium level of readiness. While it is useful for prototypes or internal workflows, developers should perform dependency and maintenance checks before deploying it in production environments. This
+akiirui/mpv-handler is considered production-ready with a medium level of readiness. While it is useful for prototypes or internal workflows, developers should perform dependency and maintenance checks before deploying it in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/akiirui/mpv-handler).
 
 ### Русский
 

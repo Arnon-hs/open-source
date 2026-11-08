@@ -74,7 +74,10 @@ OBS Studio 的价值在于其自由开源、强大的功能和高可用性。它
 OBS Studio 具有高生产可用性，主要原因包括：
 
 1. 近期的活动和更新：OBS Studio 有活跃的社区和开发者团队，持续更新和改进。
-2.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/obsproject/obs-studio)。
 
 ## 🧭 Practical evaluation
 

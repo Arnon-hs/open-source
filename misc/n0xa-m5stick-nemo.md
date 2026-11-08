@@ -40,7 +40,10 @@ The practical adoption path for this project involves:
 Production readiness is rated as medium, indicating that the project is suitable for prototypes or internal workflows but may require additional checks and validation before being used in production. This is due to the following reasons:
 
 * The integration path is not immediately obvious from the metadata, requiring manual inspection and setup.
-* The project's quality signals, such as GitHub stars and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/n0xa/m5stick-nemo).
 
 ### Русский
 

@@ -37,7 +37,11 @@ Misc
 2. **Internal Workflows:** Adopt AHP for internal workflows, such as RAG or agent-based systems, where its flexibility and ease of integration can be beneficial.
 3. **Manual Inspection and Checks:** Before integrating AHP into production, thoroughly inspect its documentation, license, maintenance, issues, and release cadence to ensure its suitability for your project.
 
-**Production Readiness:** AHP is considered medium-production ready due to its potential for use in prototypes or internal workflows. However, its adoption in production environments requires careful evaluation and
+**Production Readiness:** AHP is considered medium-production ready due to its potential for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DeepJudge-Agent-Handoff-Protocol/agenthandoffprotocol).
 
 ### Русский
 

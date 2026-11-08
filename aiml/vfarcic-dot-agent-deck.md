@@ -39,7 +39,9 @@ The practical adoption path for vfarcic/dot-agent-deck involves several steps:
 2. Setup cost validation: Users must validate the setup costs and potential maintenance requirements before committing to the project.
 3. Configuration and testing: Users must configure and test the project to ensure it meets their specific needs and requirements.
 
-In
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vfarcic/dot-agent-deck).
 
 ### Русский
 

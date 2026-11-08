@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt Vanilla-OS/apx, developers can start by evaluating the project through a small proof of concept and reviewing the README documentation. Once they're familiar with the project's features and functionality, they can begin integrating it into their existing workflows. This may involve setting up a managed container, installing required packages, and running commands to build and deploy AI models.
 
-**Production Readiness:** Vanilla-OS/apx is considered production-ready, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot. The project has a high score of 61/100, with
+**Production Readiness:** Vanilla-OS/apx is considered production-ready, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Vanilla-OS/apx).
 
 ### Русский
 

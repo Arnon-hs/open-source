@@ -35,7 +35,11 @@ Here's a brief summary of the kubara project:
 
 **Practical Adoption Path:** Adopting kubara involves a straightforward integration process, making it accessible to a wide range of users. The tool exposes clear implementation signals, such as APIs, SDKs, and CLI, allowing developers to easily evaluate and integrate it into their existing workflows. To start using kubara, users can simply download the binary CLI tool and follow the provided documentation to set up and customize their Kubernetes environments.
 
-**Production Readiness:** kubara demonstrates high production readiness, driven by recent activity, strong adoption, and a robust ecosystem. With
+**Production Readiness:** kubara demonstrates high production readiness, driven by recent activity, strong adoption, and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kubara-io/kubara).
 
 ### Русский
 

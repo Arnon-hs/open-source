@@ -34,7 +34,11 @@ EliasOenal/term-cli is an open-source project that provides interactive terminal
 The primary value proposition of EliasOenal/term-cli lies in its ability to transform isolated prompts and tools into structured, repeatable workflows. This enables organizations to streamline agent interactions, improve efficiency, and reduce errors. By standardizing agent memory and workflows, teams can also enhance collaboration and knowledge sharing.
 
 **Practical Adoption Path:**
-To adopt EliasOenal/term-cli, teams can start by exploring its features and capabilities. They can begin by integrating the project into their existing workflows, using it to automate repetitive tasks and standardize agent interactions. As they become more familiar with the project, teams can expand its use cases, such as coordinating multi-agent workflows and adding tool-use pipelines. With its strong ecosystem and recent activity, EliasOenal/term-cli is a viable option for organizations seeking to improve their automation and
+To adopt EliasOenal/term-cli, teams can start by exploring its features and capabilities. They can begin by integrating the project into their existing workflows, using it to automate repetitive tasks and standardize agent interactions. As they become more familiar with the project, teams can expand its use cases, such as coordinating multi-agent workflows and adding tool-use pipelines.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/EliasOenal/term-cli).
 
 ### Русский
 

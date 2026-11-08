@@ -36,8 +36,9 @@ The value of hugerte/hugerte lies in its ability to simplify the integration of 
 **Practical Adoption Path:**
 To adopt hugerte/hugerte, developers should start by evaluating the project through a small proof of concept and carefully reviewing the README documentation. This will help identify potential integration challenges and ensure a smooth onboarding process. Given its recent activity and strong ecosystem signals, hugerte/hugerte is well-suited for serious pilots, making it a viable option for production-ready applications.
 
-**Production Readiness:**
-hugerte/hugerte is considered production-ready due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hugerte/hugerte).
 
 ### Русский
 

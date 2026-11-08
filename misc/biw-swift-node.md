@@ -39,9 +39,9 @@ The main value of Swift-Node lies in its ability to facilitate the creation of N
 
 Before adopting Swift-Node, it's essential to manually inspect the project's documentation, activity, and integration signals to ensure that it meets the specific needs of your workflow. This includes verifying the license, maintenance, documentation, issue history, and release cadence. Once you've confirmed that the project is suitable for your use case, you can begin exploring its capabilities and integrating it into your development workflow.
 
-**Production Readiness:**
+## Before adopting
 
-Swift-Node has a medium production readiness score, indicating that it's suitable for use in
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/biw/swift-node).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The value of this project lies in its ability to provide an open-source implemen
 
 **Practical Adoption Path:**
 
-To adopt this project, developers should first manually inspect the code and its dependencies before using it in production. This is because the project's integration signals are sparse in the discovered metadata, which may indicate potential issues or inconsistencies. Additionally, developers should verify the project's license, maintenance, documentation, issues, and release cadence before using it. Once these checks are complete, developers can use the project to build their own blockchain-based applications that
+To adopt this project, developers should first manually inspect the code and its dependencies before using it in production. This is because the project's integration signals are sparse in the discovered metadata, which may indicate potential issues or inconsistencies. Additionally, developers should verify the project's license, maintenance, documentation, issues, and release cadence before using it.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ABHIRAM-CREATOR06/Halonyx).
 
 ### Русский
 

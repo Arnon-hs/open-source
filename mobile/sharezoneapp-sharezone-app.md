@@ -74,11 +74,9 @@ SharezoneApp/sharezone-app 帮助开发者快速构建用户界面，减少自�
 
 SharezoneApp/sharezone-app 的生产可用性为中等。它适合用于原型或内部工作流程，需要进行依赖和维护检查后才能用于生产环境。
 
-**风险**
+## 采用前检查
 
-使用 SharezoneApp/sharezone-app 时需要注意以下风险：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/SharezoneApp/sharezone-app)。
 
 ## 🧭 Practical evaluation
 

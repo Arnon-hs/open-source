@@ -46,7 +46,11 @@ To adopt MoaKK/AI-Code-Reviewer, follow these steps:
 
 **Production Readiness**
 
-MoaKK/AI-Code-Reviewer has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals. With 60 GitHub stars and regular updates, it's a
+MoaKK/AI-Code-Reviewer has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MoaKK/AI-Code-Reviewer).
 
 ### Русский
 

@@ -43,7 +43,11 @@ To adopt servo/html5ever, developers should follow these steps:
 4. Integrate servo/html5ever into the project, starting with a small-scale prototype or proof-of-concept.
 
 **Production Readiness:**
-servo/html5ever is considered medium-production ready. While it's suitable for prototypes or
+servo/html5ever is considered medium-production ready.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/servo/html5ever).
 
 ### Русский
 

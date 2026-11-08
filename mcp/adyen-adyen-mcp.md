@@ -39,7 +39,10 @@ To adopt Adyen/adyen-mcp, developers can follow these steps:
 1. **Evaluate the library**: Assess the library's functionality, documentation, and community support.
 2. **Integrate with Adyen APIs**: Use the library to connect your AI assistant to Adyen APIs and start experimenting with the integration.
 3. **Standardize your integrations**: Leverage the library's standard protocol to integrate with other tools and data sources, promoting consistency and ease of maintenance.
-4. **Monitor and maintain**: Regularly update the library to ensure compatibility with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Adyen/adyen-mcp).
 
 ### Русский
 

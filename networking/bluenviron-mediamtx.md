@@ -73,7 +73,10 @@ bluenviron/mediamtx 是一个开源项目，提供了一个全能的媒体服务
 该项目的生产可用性很高，理由如下：
 
 *   最近有活动：项目最近有更新，表明开发者仍然在维护和更新项目。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/bluenviron/mediamtx)。
 
 ## 🧭 Practical evaluation
 

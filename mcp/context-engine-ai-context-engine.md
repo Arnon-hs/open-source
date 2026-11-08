@@ -37,7 +37,11 @@ The Context-Engine-AI/Context-Engine project provides a standard protocol for co
 
 **Practical Adoption Path:**
 
-To adopt the Context-Engine-AI/Context-Engine project, developers can start by evaluating the implementation signals, such as the API, SDK, CLI, and language metadata. They can then assess the project's production readiness, considering factors such as recent activity, adoption, and ecosystem signals. Once satisfied with the project's quality and security posture, developers can begin integrating the MCP protocol into their AI-powered systems, using the provided implementation signals to
+To adopt the Context-Engine-AI/Context-Engine project, developers can start by evaluating the implementation signals, such as the API, SDK, CLI, and language metadata. They can then assess the project's production readiness, considering factors such as recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Context-Engine-AI/Context-Engine).
 
 ### Русский
 

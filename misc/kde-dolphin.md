@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project KDE/dolphin:
 
 **Practical Adoption Path:** To adopt KDE/dolphin, users should first manually inspect the integration signals and validate the setup costs before committing to its use. This involves reviewing the project's README, activity, and dependencies to ensure a smooth integration process. Additionally, users should be prepared to invest time and resources in setting up and maintaining the project.
 
-**Production Readiness:** KDE/dolphin shows moderate production readiness, with a score of 54/100. While it has a moderate level of activity and a decent number of GitHub stars, its integration path is not immediately obvious from the metadata, and setup costs may be high. Therefore, it is recommended for use in prototypes or
+**Production Readiness:** KDE/dolphin shows moderate production readiness, with a score of 54/100. While it has a moderate level of activity and a decent number of GitHub stars, its integration path is not immediately obvious from the metadata, and setup costs may be high.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/KDE/dolphin).
 
 ### Русский
 

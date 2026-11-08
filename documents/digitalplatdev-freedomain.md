@@ -35,7 +35,11 @@ The DigitalPlatDev/FreeDomain project offers free domain registration and practi
 
 **Practical Adoption Path:** To adopt DigitalPlatDev/FreeDomain, users should start by evaluating the project through a small proof of concept and checking the README file for integration instructions. This will help users understand the integration path and validate the setup cost before committing to a full-scale implementation.
 
-**Production Readiness:** With 192,381 GitHub stars, 4,087 forks, and recent activity, DigitalPlatDev/FreeDomain demonstrates a high level of production readiness. Its strong adoption and ecosystem signals make it a
+**Production Readiness:** With 192,381 GitHub stars, 4,087 forks, and recent activity, DigitalPlatDev/FreeDomain demonstrates a high level of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DigitalPlatDev/FreeDomain).
 
 ### Русский
 

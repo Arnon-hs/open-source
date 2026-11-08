@@ -33,7 +33,11 @@ DevTools
 
 **Practical Adoption Path:** To adopt Scala.js, developers should start with a small proof of concept to evaluate its feasibility and understand the integration process. This involves checking the project's README, setting up the necessary dependencies, and validating the setup cost before committing to a larger-scale project.
 
-**Production Readiness:** While Scala.js has a moderate level of production readiness, it's best suited for prototypes or internal workflows that require a high degree of customization. Before using it in production, developers should perform thorough dependency and maintenance checks to ensure that it meets their specific needs and can
+**Production Readiness:** While Scala.js has a moderate level of production readiness, it's best suited for prototypes or internal workflows that require a high degree of customization.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/scala-js/scala-js).
 
 ### Русский
 

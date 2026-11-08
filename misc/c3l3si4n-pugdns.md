@@ -40,8 +40,9 @@ To adopt c3l3si4n/pugdns, developers should follow these steps:
 3. Validate the tool's performance and accuracy in a controlled environment.
 4. Integrate the tool into the development workflow, ensuring proper configuration and maintenance.
 
-**Production Readiness:**
-While c3l3si4n/pugdns is a useful tool for prototypes and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/c3l3si4n/pugdns).
 
 ### Русский
 

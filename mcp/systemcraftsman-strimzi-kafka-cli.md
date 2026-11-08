@@ -61,11 +61,9 @@ SystemCraftsman/strimzi-kafka-cli 帮助连接 AI 代理到工具、部署 Model
 2. 部署 Model Context Protocol 服务器：SystemCraftsman/strimzi-kafka-cli 可以帮助部署 Model Context Protocol 服务器，用于标准化整合。
 3. 标准化整合：SystemCraftsman/strimzi-kafka-cli 提供标准化的接口，使得开发者可以轻松整合 AI 代理到工具。
 
-**生产可用性**
+## 采用前检查
 
-SystemCraftsman/strimzi-kafka-cli 的生产可用性评分为高（High），因为它具有以下特点：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/SystemCraftsman/strimzi-kafka-cli)。
 
 ## 🧭 Practical evaluation
 

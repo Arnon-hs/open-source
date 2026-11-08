@@ -35,7 +35,11 @@ Value: The value proposition of tkhq/qos lies in its ability to enhance the secu
 
 Practical Adoption Path: To adopt tkhq/qos, developers need to manually inspect the project's metadata and integration signals, which may not be immediately obvious. This requires a certain level of technical expertise and validation of setup costs to ensure a smooth integration process.
 
-Production Readiness: QuorumOS has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows where the risks and costs can be more easily managed. Before deploying it in production, developers should perform thorough dependency and maintenance checks to ensure the project meets their
+Production Readiness: QuorumOS has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows where the risks and costs can be more easily managed.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tkhq/qos).
 
 ### Русский
 

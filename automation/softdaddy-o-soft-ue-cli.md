@@ -43,7 +43,10 @@ To adopt softdaddy-o/soft-ue-cli, developers can follow these steps:
 2. Integrate the plugin with Unreal Engine, either through the editor or packaged builds.
 3. Configure the CLI to connect with Claude Code, the AI coding agent.
 4. Test the automation of repetitive tasks to ensure seamless integration.
-5. Customize and extend the plugin to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/softdaddy-o/soft-ue-cli).
 
 ### Русский
 

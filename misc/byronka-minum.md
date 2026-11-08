@@ -38,7 +38,10 @@ byronka/minum is an open-source, Java-based web application framework designed f
 1. **Evaluation**: Review the project's README, documentation, and GitHub repository to understand its features, usage, and potential integration points.
 2. **Proof of Concept**: Create a small proof of concept to validate the framework's functionality and ease of integration with existing tools and workflows.
 3. **Setup Cost Analysis**: Assess the time and resources required to set up and maintain byronka/minum in your development environment.
-4. **Integration**: Gradually integrate byronka/minum into your local engineering tasks, starting with small, low-risk projects or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/byronka/minum).
 
 ### Русский
 

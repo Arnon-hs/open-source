@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the project's value, adoption path, an
 
 **Adoption Path:** To adopt this project, developers will need to manually inspect the project's documentation and code to understand the integration process. This is because the integration signals in the discovered metadata are sparse, making it difficult to determine the optimal way to integrate the project into an existing workflow. Before committing to using this project, developers should validate the setup cost to ensure it aligns with their project's requirements.
 
-**Production Readiness:** The project's production readiness is rated as medium, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rust-x-bindings/rust-xcb).
 
 ### Русский
 

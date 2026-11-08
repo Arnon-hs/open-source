@@ -39,7 +39,10 @@ Developers can adopt the router-for-me/CLIProxyAPI project by following these st
 
 1. Review the project's documentation and GitHub repository to understand its architecture and usage.
 2. Integrate the API service into their application using the provided SDK or CLI.
-3. Choose the desired AI model and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/router-for-me/CLIProxyAPI).
 
 ### Русский
 

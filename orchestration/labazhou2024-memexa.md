@@ -37,7 +37,11 @@ The primary value of Memexa lies in its ability to turn isolated tools and promp
 To adopt Memexa, users can start by exploring its API/SDK/CLI implementations and evaluating its language metadata and focused topics. They can then integrate Memexa into their existing workflows, beginning with prototypes or internal projects. As they become more comfortable with the tool, they can gradually scale up to more complex use cases.
 
 **Production Readiness:**
-Memexa is considered production-ready, but with some caveats. While it has a medium production readiness score, it is still recommended to perform dependency and maintenance checks before deploying it in a production environment. Additionally, a thorough review of the
+Memexa is considered production-ready, but with some caveats. While it has a medium production readiness score, it is still recommended to perform dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/labazhou2024/memexa).
 
 ### Русский
 

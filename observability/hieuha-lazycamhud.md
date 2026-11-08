@@ -41,7 +41,10 @@ To adopt LazyCamHUD, developers should follow these steps:
 
 1. **Evaluate the project's quality signals**: While the project has been updated recently, its quality signals are limited, and users should verify the license, maintenance, documentation, issues, and release cadence before using it.
 2. **Perform manual inspection**: Due to sparse integration signals, developers should manually inspect the project's metadata to ensure it meets their specific requirements.
-3. **Prototype and test**: Use LazyCamHUD to prototype AI features and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hieuha/LazyCamHUD).
 
 ### Русский
 

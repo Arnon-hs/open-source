@@ -41,7 +41,11 @@ Before adopting Antigravity, users should thoroughly inspect the project's READM
 
 **Production Readiness**
 
-Antigravity is considered to have medium production readiness, making it suitable for prototypes or internal workflows. However, it requires careful evaluation and dependency checks before being deployed in a production environment. Users should review the project's license, security posture, and active maintainers to ensure it meets their organization's standards for
+Antigravity is considered to have medium production readiness, making it suitable for prototypes or internal workflows. However, it requires careful evaluation and dependency checks before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/confeden/Antigravity).
 
 ### Русский
 

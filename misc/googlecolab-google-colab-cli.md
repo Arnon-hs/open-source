@@ -39,9 +39,9 @@ The primary value proposition of Google Colab CLI lies in its ability to simplif
 
 To adopt Google Colab CLI, developers can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. This initial assessment will help identify potential integration points and dependencies. Once the project is deemed suitable, developers can integrate it into their existing workflows, starting with prototypes or internal projects. Before deploying it in production environments, they should conduct thorough dependency and maintenance checks to ensure its stability and security.
 
-**Production Readiness:**
+## Before adopting
 
-Google Colab CLI has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/googlecolab/google-colab-cli).
 
 ### Русский
 

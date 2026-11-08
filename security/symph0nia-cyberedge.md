@@ -37,8 +37,9 @@ The primary value proposition of Symph0nia/CyberEdge lies in its ability to catc
 **Practical Adoption Path:**
 To adopt Symph0nia/CyberEdge, organizations can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help them understand the tool's capabilities and potential integration challenges. Once the proof of concept is successful, they can proceed with a more extensive evaluation and integration.
 
-**Production Readiness:**
-Symph0nia/CyberEdge has a medium production readiness score, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Symph0nia/CyberEdge).
 
 ### Русский
 

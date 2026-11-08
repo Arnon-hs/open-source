@@ -44,7 +44,10 @@ The darkzOGx/youtube-automation-agent offers several values, including:
 To adopt the darkzOGx/youtube-automation-agent, follow these steps:
 
 1. **Evaluate the project**: Assess the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
-2. **Review the documentation**: Familiarize yourself with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/darkzOGx/youtube-automation-agent).
 
 ### Русский
 
@@ -58,7 +61,11 @@ darkzOGx/youtube-automation-agent - это бесплатный, полност�
 - Подключение инструментов в повторяющиеся потоки;
 - Расписание операционных задач.
 
-Проект darkzOGx/youtube-automation-agent имеет высокий уровень готовности к production, что обусловлено его активной деятельностью, широкой адопцией и сильным эkosистемным сигналом. Однако, перед внедрением, необходимо провести тщательный анализ лицензии, безопасности и
+Проект darkzOGx/youtube-automation-agent имеет высокий уровень готовности к production, что обусловлено его активной деятельностью, широкой адопцией и сильным эkosистемным сигналом.
+
+## Перед использованием
+
+Проверьте актуальную документацию, условия лицензии, зависимости и состояние поддержки с учетом своей задачи. [Открыть источник](https://github.com/darkzOGx/youtube-automation-agent).
 
 ### 中文
 

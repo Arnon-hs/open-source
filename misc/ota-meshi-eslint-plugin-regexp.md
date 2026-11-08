@@ -41,8 +41,9 @@ To adopt this plugin, developers can follow these steps:
 3. Run ESLint with the new plugin enabled to identify and correct regex mistakes and style guide violations.
 4. Continuously monitor and update the plugin to ensure that it remains compatible with their codebase and ESLint version.
 
-**Production Readiness:**
-The plugin's production readiness is high due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ota-meshi/eslint-plugin-regexp).
 
 ### Русский
 

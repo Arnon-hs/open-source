@@ -45,9 +45,9 @@ To adopt Hadolint, follow these steps:
 4. Integrate Hadolint into your development pipeline to automate local engineering tasks and improve CI feedback.
 5. Monitor its performance and adjust as needed to ensure seamless integration.
 
-**Production Readiness:**
+## Before adopting
 
-Hadolint has a high production readiness score, indicating that it is a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hadolint/hadolint).
 
 ### Русский
 

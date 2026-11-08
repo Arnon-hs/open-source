@@ -39,9 +39,9 @@ The project offers a simple and concise solution to convert primitive recursion 
 
 Before adopting this project, it is essential to manually inspect the code, documentation, and issue history to ensure that it meets the project's requirements and is well-maintained. This involves verifying the project's license, maintenance cadence, documentation quality, issue history, and release frequency. By doing so, developers can assess the project's quality signals and make an informed decision about its suitability for their specific use case.
 
-**Production Readiness:**
+## Before adopting
 
-The project is considered production-ready with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/raoofha/pr).
 
 ### Русский
 

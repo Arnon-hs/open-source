@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, one can start by exploring its use cases, such as connecting AI agents to tools or shipping Model Context Protocol servers. The project's straightforward integration notes suggest that it's easy to evaluate and implement, making it suitable for prototypes or internal workflows. However, before production, it's essential to review the project's dependency and maintenance checks.
 
-**Production Readiness:** With a score of 66/100 and a production readiness of "Medium," the project is considered useful for prototypes or internal workflows but may require further evaluation and refinement before being deployed in production environments. The project's quality signals, such as its 76 GitHub stars and 22 forks, indicate a moderate level of
+**Production Readiness:** With a score of 66/100 and a production readiness of "Medium," the project is considered useful for prototypes or internal workflows but may require further evaluation and refinement before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sgaofen/vibe-schooling).
 
 ### Русский
 

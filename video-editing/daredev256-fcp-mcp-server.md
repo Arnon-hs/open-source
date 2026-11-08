@@ -42,7 +42,10 @@ To adopt DareDev256/fcp-mcp-server, developers can follow these steps:
 1. Evaluate the project's API, SDK, and CLI implementation signals to understand its functionality and potential use cases.
 2. Review the project's GitHub repository, including its stars, forks, and recent activity, to gauge its adoption and community engagement.
 3. Assess the project's production readiness by considering its license, security posture, and active maintainers.
-4. Integrate the MCP server with AI assistants and tools to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DareDev256/fcp-mcp-server).
 
 ### Русский
 

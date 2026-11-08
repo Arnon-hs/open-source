@@ -41,7 +41,10 @@ To adopt Svelte Meta Tags, developers can follow these steps:
 
 1. **Evaluate the library**: Review the README documentation, check the GitHub repository, and evaluate the library's feasibility for their project.
 2. **Start with a small proof of concept**: Create a small test project to demonstrate the library's capabilities and ensure it meets the project's requirements.
-3. **Assess dependencies and maintenance**: Review the library's dependencies, security posture, and maintenance status to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/oekazuma/svelte-meta-tags).
 
 ### Русский
 

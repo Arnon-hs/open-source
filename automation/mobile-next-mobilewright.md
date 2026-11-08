@@ -33,7 +33,11 @@ Automation · AI/ML · DevTools · Mobile
 
 **Practical Adoption Path:** To adopt Mobilewright, developers can start by evaluating the framework's API, SDK, and CLI, and integrating it into their existing workflows. With its straightforward evaluation process, developers can quickly assess the framework's capabilities and determine its suitability for their needs. Once adopted, Mobilewright can be used to automate various testing scenarios, including UI testing, functional testing, and performance testing.
 
-**Production Readiness:** Mobilewright has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity. With 269 GitHub stars, 45 forks, and regular updates, the framework has established a solid foundation for large-scale deployment. However, a final review of the license, security posture, and
+**Production Readiness:** Mobilewright has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity. With 269 GitHub stars, 45 forks, and regular updates, the framework has established a solid foundation for large-scale deployment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mobile-next/mobilewright).
 
 ### Русский
 

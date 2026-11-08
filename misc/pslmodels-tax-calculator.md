@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project's value, adoption path, an
 
 **Adoption Path:** To adopt this project, start by reviewing its README to understand the workflow and requirements. Begin with a small proof of concept to evaluate the feasibility of integration. As the project has recent activity and a strong ecosystem, it's likely to be production-ready. However, it's essential to review the license, security posture, and active maintainers before committing to a full-scale implementation.
 
-**Production Readiness:** The project has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals. With 307 GitHub stars, 165 forks, and regular updates, it's a promising candidate for serious pilots. However, a final review of
+**Production Readiness:** The project has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals. With 307 GitHub stars, 165 forks, and regular updates, it's a promising candidate for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PSLmodels/Tax-Calculator).
 
 ### Русский
 

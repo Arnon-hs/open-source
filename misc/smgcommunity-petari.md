@@ -41,7 +41,11 @@ To adopt this project, developers need to carefully inspect the code and metadat
 
 **Production Readiness**
 
-The production readiness of SMGCommunity/Petari is medium, indicating that it may be suitable for internal workflows or prototypes, but not yet ready for production use. Before adopting this project for production, developers should perform dependency and
+The production readiness of SMGCommunity/Petari is medium, indicating that it may be suitable for internal workflows or prototypes, but not yet ready for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SMGCommunity/Petari).
 
 ### Русский
 

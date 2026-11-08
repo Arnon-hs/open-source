@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt spencerc99/playhtml, developers can start by reviewing the project's documentation and examples to understand how to integrate the library into their application. They will need to manually inspect the code and dependencies before adoption due to sparse integration signals in the metadata. Once integrated, developers can use the library to prototype AI features, build RAGs, and evaluate model tooling.
 
-**Production Readiness:** The production readiness of spencerc99/playhtml is medium, indicating that it is suitable for use in prototypes or internal workflows but may require additional dependency and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/spencerc99/playhtml).
 
 ### Русский
 

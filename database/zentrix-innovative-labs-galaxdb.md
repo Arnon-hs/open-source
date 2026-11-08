@@ -43,9 +43,9 @@ To adopt GalaxDB, users should follow a careful evaluation process, including:
 2. Verification of the license, maintenance, documentation, issues, and release cadence to ensure it is reliable and well-supported.
 3. Integration with their existing application stack to ensure seamless deployment.
 
-**Production Readiness**
+## Before adopting
 
-GalaxDB is rated as "Medium" in terms of production readiness, making it suitable for use in prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zentrix-innovative-labs/galaxdb).
 
 ### Русский
 

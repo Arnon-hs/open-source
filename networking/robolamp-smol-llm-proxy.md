@@ -42,8 +42,9 @@ To adopt Show HN, users should:
 3. Perform dependency and maintenance checks before production deployment.
 4. Use it for prototyping or internal workflows, where the risks associated with limited quality signals can be mitigated.
 
-**Production Readiness:**
-Show HN has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/robolamp/smol-llm-proxy).
 
 ### Русский
 

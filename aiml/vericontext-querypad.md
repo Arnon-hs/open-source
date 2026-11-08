@@ -38,7 +38,9 @@ AI/ML · DevTools · Data
 3. **Prototype AI features**: Use vericontext/querypad to prototype AI features and workflows, leveraging its ability to discover relationships and build semantic models.
 4. **Evaluate model tooling**: Use the project to evaluate model tooling and identify areas for improvement.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vericontext/querypad).
 
 ### Русский
 

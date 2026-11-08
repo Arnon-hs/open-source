@@ -44,9 +44,9 @@ To adopt this project, follow these steps:
 3. Perform dependency and maintenance checks before integrating the project into your production environment.
 4. Use the project as a starting point for building your custom solution, adapting it to your specific needs.
 
-**Production Readiness:**
+## Before adopting
 
-The project has a medium production readiness score, indicating that it's suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/makan0713/onnx-web-worker-starter).
 
 ### Русский
 

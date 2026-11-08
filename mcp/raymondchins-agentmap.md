@@ -43,9 +43,9 @@ To adopt agentmap, developers can follow a straightforward evaluation process, w
 2. Shipping Model Context Protocol (MCP) servers to connect AI agents to real tools and data.
 3. Standardizing integrations using the agentmap protocol.
 
-**Production Readiness:**
+## Before adopting
 
-Agentmap has demonstrated high production readiness, with recent activity, adoption, and ecosystem signals that are strong enough for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/raymondchins/agentmap).
 
 ### Русский
 

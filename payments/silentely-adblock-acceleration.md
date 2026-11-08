@@ -39,9 +39,9 @@ The project's value proposition lies in its ability to accelerate the integratio
 
 To adopt Silentely/AdBlock-Acceleration, developers should start with a small proof of concept and carefully review the README documentation. They should also evaluate the setup costs and potential risks before committing to the integration. The project's production readiness suggests that it is suitable for prototypes or internal workflows, but may require additional checks and validation before being used in production environments.
 
-**Production Readiness:**
+## Before adopting
 
-The project has a moderate level of production readiness, with a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Silentely/AdBlock-Acceleration).
 
 ### Русский
 

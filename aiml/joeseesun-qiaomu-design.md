@@ -43,9 +43,9 @@ To adopt Qiaomu-design, follow these steps:
 2. **Start with a small proof of concept**: Integrate Qiaomu-design into a small project to test its functionality and understand its integration path.
 3. **Validate setup cost**: Assess the effort required to set up and maintain Qiaomu-design in your production environment.
 
-**Production Readiness:**
+## Before adopting
 
-Qiaomu-design has a medium production readiness score, indicating that it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/joeseesun/qiaomu-design).
 
 ### Русский
 

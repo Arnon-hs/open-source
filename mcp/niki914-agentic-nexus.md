@@ -46,7 +46,11 @@ To adopt agentic-nexus, users can start by following these steps:
 
 **Production Readiness:**
 
-agentic-nexus is considered production-ready with some caveats. While it has a
+agentic-nexus is considered production-ready with some caveats.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/niki914/agentic-nexus).
 
 ### Русский
 

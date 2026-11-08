@@ -46,7 +46,10 @@ Dyon is considered medium production-ready, making it suitable for:
 
 1. Prototypes: Dyon's adaptability makes it a great fit for experimental projects or proof-of-concepts.
 2. Internal workflows: Companies can use dyon to streamline their internal development processes and improve collaboration.
-However, it's essential to perform thorough checks before integrating it into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PistonDevelopers/dyon).
 
 ### Русский
 

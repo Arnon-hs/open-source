@@ -39,7 +39,9 @@ The practical adoption path for Sandbox-proxy involves several steps:
 2. Integration checks: Verify that the project integrates seamlessly with your existing tools and workflows.
 3. Dependency and maintenance checks: Ensure that the project's dependencies are up-to-date and that it receives regular maintenance and updates.
 
-Given the project's medium production readiness, it's recommended to use it for prototypes or internal workflows, where the risks associated with its limited quality signals can be
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yagop/sandbox).
 
 ### Русский
 

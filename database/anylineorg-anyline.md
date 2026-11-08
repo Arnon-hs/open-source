@@ -44,9 +44,9 @@ To adopt anyline, developers should start with a small proof of concept (PoC) to
 3. Assess the setup cost and dependencies.
 4. Validate the production readiness.
 
-**Production Readiness**
+## Before adopting
 
-anyline has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but requires careful evaluation and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/anylineorg/anyline).
 
 ### Русский
 

@@ -44,9 +44,9 @@ To adopt Agentmetry, follow these steps:
 3. **Maintenance and Support**: Evaluate the project's maintenance and support cadence to ensure it aligns with your organization's needs.
 4. **Testing and Evaluation**: Thoroughly test and evaluate Agentmetry in a controlled environment to ensure it meets your requirements.
 
-**Production Readiness**
+## Before adopting
 
-Agentmetry has a medium production readiness score, indicating that it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/blitzcrieg1/agentmetry).
 
 ### Русский
 

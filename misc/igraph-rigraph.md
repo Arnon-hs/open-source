@@ -73,7 +73,10 @@ igraph/Rigraph 的生产可用性很高，主要原因是：
 
 * 近期活动：igraph/Rigraph 的维护者最近有活动，有新版本的发布。
 * 广泛采用：igraph/Rigraph 已经被很多用户采用。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/igraph/rigraph)。
 
 ## 🧭 Practical evaluation
 

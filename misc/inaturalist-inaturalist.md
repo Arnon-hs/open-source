@@ -39,7 +39,9 @@ In terms of practical adoption, users can start by:
 2. Evaluating the project's dependencies and maintenance requirements to ensure they align with their organization's standards.
 3. Setting up the project in a development environment to test its functionality and identify potential integration challenges.
 
-Once these steps are completed, users can begin leveraging the inaturalist/inaturalist project to build and deploy AI-powered applications, but it's essential to note that its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/inaturalist/inaturalist).
 
 ### Русский
 

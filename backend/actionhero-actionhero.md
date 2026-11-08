@@ -43,9 +43,9 @@ To adopt Actionhero, follow these steps:
 2. **Prototype AI features**: Use Actionhero to build and test AI-powered features, such as chatbots or predictive models.
 3. **Refine and integrate**: Refine your AI-powered features and integrate them into your production environment.
 
-**Production Readiness:**
+## Before adopting
 
-Actionhero has demonstrated high production readiness, with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/actionhero/actionhero).
 
 ### Русский
 

@@ -33,7 +33,11 @@ Documents · Frontend
 
 **Practical Adoption Path:** To adopt mdn/content, developers can start by exploring its documentation and APIs, which expose implementation signals such as API/SDK/CLI, language metadata, and focused topics. This allows them to prototype AI features and build workflows using the existing content. The project's recent activity, adoption, and ecosystem signals indicate a strong and supportive community, making it easier for new contributors to get started.
 
-**Production Readiness:** The project has a high production readiness score, indicating that it is suitable for serious adoption. The recent update on July 16, 2026, and
+**Production Readiness:** The project has a high production readiness score, indicating that it is suitable for serious adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mdn/content).
 
 ### Русский
 

@@ -40,7 +40,9 @@ dawsbot/essential-eth is an open-source project that offers an alternative to et
 3. **Assess dependencies and maintenance**: Evaluate the project's dependencies and maintenance requirements to ensure they align with your project's needs.
 4. **Integrate the project**: Gradually integrate the project into your application or workflow, following best practices for secure and reliable development.
 
-**Production Readiness:** The project has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dawsbot/essential-eth).
 
 ### Русский
 

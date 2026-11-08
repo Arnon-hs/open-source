@@ -36,7 +36,10 @@ The value of GeniePod/genie-claw lies in its ability to automate repetitive task
 Production readiness is currently at a medium level, indicating that GeniePod/genie-claw is best suited for:
 
 1. Prototypes: The project's flexibility and customizability make it an excellent choice for testing and refining new ideas.
-2. Internal workflows: GeniePod/genie-claw can be a valuable tool for automating tasks within an organization, but careful evaluation and testing are
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GeniePod/genie-claw).
 
 ### Русский
 

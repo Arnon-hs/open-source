@@ -33,7 +33,11 @@ esp-rs/espflash is an open-source serial flasher utility for Espressif SoCs and 
 
 In terms of value, the project's usefulness is tied to its documentation and activity matching a concrete workflow, making it a good fit for specific use cases. However, its practical adoption path is not straightforward due to the need for manual inspection and validation. This means that users need to carefully evaluate the project's setup and integration costs before committing to it.
 
-Production readiness is medium, indicating that the project is suitable for testing or internal development, but may not be ready for production deployment without further validation and maintenance checks. This is due to the project's relatively low score and the need for manual inspection and validation. However, the project's 733 GitHub stars and 164 forks suggest that it has a dedicated community and may be a
+Production readiness is medium, indicating that the project is suitable for testing or internal development, but may not be ready for production deployment without further validation and maintenance checks. This is due to the project's relatively low score and the need for manual inspection and validation.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/esp-rs/espflash).
 
 ### Русский
 

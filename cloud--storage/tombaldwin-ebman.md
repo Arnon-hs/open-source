@@ -38,7 +38,10 @@ Here's a brief summary and explanation of the project:
 1. **Evaluation:** Before adopting Ebman, it's essential to review the project's quality signals, including its license, documentation, issue tracking, and release cadence.
 2. **Manual Inspection:** As the integration signals are sparse, developers should carefully evaluate Ebman's compatibility with their specific use case and AWS Elastic Beanstalk setup.
 3. **Prototype or Internal Workflow:** Ebman is suitable for prototypes or internal workflows, where the benefits of a reusable UI can be realized without the need for extensive testing or production deployment.
-4. **Production Readiness:** Once the project is evaluated and integrated, developers can consider deploying Ebman in production environments after thorough dependency and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tombaldwin/ebman).
 
 ### Русский
 

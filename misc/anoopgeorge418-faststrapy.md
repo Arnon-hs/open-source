@@ -48,7 +48,11 @@ To adopt FastStrapy, teams can follow these steps:
 
 **Production Readiness:**
 
-While FastStrapy is considered production-ready, its medium-level readiness score indicates that teams should exercise caution before deploying it in production. This is due to limited quality signals and the need for manual inspection and
+While FastStrapy is considered production-ready, its medium-level readiness score indicates that teams should exercise caution before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AnoopGeorge418/faststrapy).
 
 ### Русский
 

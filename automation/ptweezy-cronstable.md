@@ -37,7 +37,11 @@ The primary value proposition of Cronstable lies in its ability to streamline an
 Before adopting Cronstable, users should manually inspect the project's metadata and perform dependency and maintenance checks. This involves verifying the project's license, documentation, issue tracking, and release cadence to ensure it aligns with their specific needs. Once the project is deemed suitable, users can start exploring its features, integrating it with their existing tools and workflows, and testing its capabilities in a controlled environment.
 
 **Production Readiness:**
-Cronstable is considered production-ready with medium confidence. While it is useful for
+Cronstable is considered production-ready with medium confidence.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ptweezy/cronstable).
 
 ### Русский
 

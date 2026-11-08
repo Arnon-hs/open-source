@@ -36,8 +36,9 @@ The primary value of ncoevoet/claude-review-all lies in its ability to facilitat
 **Practical Adoption Path:**
 To adopt ncoevoet/claude-review-all, users can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then integrate the project into their existing workflows, taking into account the project's production readiness and potential risks. With a medium production readiness score, it is suitable for prototypes or internal workflows, but users should conduct thorough dependency and maintenance checks before deploying it in production.
 
-**Production Readiness:**
-The project has a medium production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ncoevoet/claude-review-all).
 
 ### Русский
 

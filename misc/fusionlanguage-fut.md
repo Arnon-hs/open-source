@@ -38,7 +38,11 @@ In terms of value, the project's ability to transpile to multiple languages make
 3. Conduct a thorough review of the license, security posture, and active maintainers to ensure it meets your project's needs.
 4. Pilot the project in a controlled environment to test its functionality and identify any potential issues.
 
-Production readiness is high for this project due to its recent activity, strong adoption, and ecosystem signals. However, it's essential to conduct a thorough review and
+Production readiness is high for this project due to its recent activity, strong adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fusionlanguage/fut).
 
 ### Русский
 

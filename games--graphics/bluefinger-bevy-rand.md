@@ -41,7 +41,11 @@ To adopt Bluefinger/bevy_rand, developers should start by evaluating the project
 
 **Production Readiness:**
 
-Bluefinger/bevy_rand is considered "Medium" in terms of production readiness, indicating that it is suitable for use in prototypes or internal workflows. While the plugin has a moderate number of GitHub stars and recent updates, a final review of the license, security posture, and
+Bluefinger/bevy_rand is considered "Medium" in terms of production readiness, indicating that it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Bluefinger/bevy_rand).
 
 ### Русский
 

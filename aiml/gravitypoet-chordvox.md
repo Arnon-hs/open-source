@@ -42,7 +42,10 @@ To adopt GravityPoet/ChordVox, developers can follow these steps:
 1. Evaluate the project by reading the README and checking the GitHub repository.
 2. Start with a small proof of concept to ensure the tool meets their needs.
 3. Perform dependency and maintenance checks to ensure the project is production-ready.
-4. Integrate GravityPoet/ChordVox into their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GravityPoet/ChordVox).
 
 ### Русский
 

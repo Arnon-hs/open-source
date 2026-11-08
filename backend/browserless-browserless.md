@@ -37,7 +37,11 @@ The value proposition of browserless lies in its ability to simplify and standar
 
 **Practical Adoption Path:**
 
-To adopt browserless, users can start by evaluating its API, SDK, and CLI to understand its implementation and integration signals. They can then explore its documentation and community resources to get familiar with the tool and its use cases. Next, users can set up a proof-of-concept environment to test browserless and assess its performance and reliability. Finally, they can integrate browserless into their existing infrastructure and
+To adopt browserless, users can start by evaluating its API, SDK, and CLI to understand its implementation and integration signals. They can then explore its documentation and community resources to get familiar with the tool and its use cases. Next, users can set up a proof-of-concept environment to test browserless and assess its performance and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/browserless/browserless).
 
 ### Русский
 

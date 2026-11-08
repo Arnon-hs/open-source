@@ -44,9 +44,9 @@ To adopt Wh1isper/mcp-email-server, follow these steps:
 3. Review the project's license, security posture, and active maintainers to ensure it meets your project's needs.
 4. Integrate the project into your AI assistant or system, following the provided documentation and guidelines.
 
-**Production Readiness:**
+## Before adopting
 
-Wh1isper/mcp-email-server is considered production-ready with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Wh1isper/mcp-email-server).
 
 ### Русский
 

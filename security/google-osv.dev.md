@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the value, adoption path, and producti
 
 **Adoption Path:** To adopt google/osv.dev, users can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. This initial step will help identify potential integration challenges and opportunities. As users become more familiar with the project, they can gradually scale up their adoption, leveraging its features to improve their analytics pipelines, dataset processing, and reporting workflows.
 
-**Production Readiness:** google/osv.dev is production-ready, with strong signals of recent activity, adoption, and ecosystem support. Its high production readiness score is reflected in its 2804 GitHub stars, 338 forks, and regular updates. However, it's essential to
+**Production Readiness:** google/osv.dev is production-ready, with strong signals of recent activity, adoption, and ecosystem support. Its high production readiness score is reflected in its 2804 GitHub stars, 338 forks, and regular updates.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/google/osv.dev).
 
 ### Русский
 

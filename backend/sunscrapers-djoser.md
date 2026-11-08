@@ -41,8 +41,9 @@ To adopt Djoser, teams can follow these steps:
 3. Integrate Djoser into their existing backend infrastructure, following the project's documentation and guidelines.
 4. Test and deploy Djoser in a production-ready environment, leveraging its recent activity, adoption, and ecosystem signals.
 
-**Production Readiness:**
-Djoser boasts a high production readiness score, with recent activity, adoption, and ecosystem signals that are
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sunscrapers/djoser).
 
 ### Русский
 

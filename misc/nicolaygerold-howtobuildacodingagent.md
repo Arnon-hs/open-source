@@ -39,7 +39,10 @@ To adopt this project, users should follow these steps:
 1. **Manual Inspection**: Carefully review the project's code, documentation, and issues to understand its functionality and potential limitations.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies, licensing, and release cadence to ensure they align with your project's requirements.
 3. **Prototype or Internal Workflow**: Use the project as a starting point for prototyping AI features or building internal workflows, where its limitations may be less critical.
-4. **Production Readiness Evaluation**: Before deploying the project in production, conduct thorough testing and evaluation to ensure its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nicolaygerold/howtobuildacodingagent).
 
 ### Русский
 

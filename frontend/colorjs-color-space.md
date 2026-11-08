@@ -35,7 +35,11 @@ Here's a brief summary of the colorjs/color-space open-source project:
 
 **Practical Adoption Path:** To adopt colorjs/color-space, developers should start with a small proof-of-concept and thoroughly review the README documentation. This will help them understand the library's integration path and potential setup costs. Before committing to production, it's essential to validate the setup cost and perform dependency and maintenance checks.
 
-**Production Readiness:** colorjs/color-space has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but requires further evaluation and setup before being used in production environments. With 373 GitHub stars and regular updates, the library demonstrates a level of
+**Production Readiness:** colorjs/color-space has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but requires further evaluation and setup before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/colorjs/color-space).
 
 ### Русский
 

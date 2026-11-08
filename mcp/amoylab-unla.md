@@ -61,7 +61,11 @@ AmoyLab/Unla 的接入方式包括：
 3. 标准化整合：通过 AmoyLab/Unla，可以标准化不同系统和工具之间的整合。
 
 **生产可用性:** 
-AmoyLab/Unla 的生产可用性非常高。它有近 2000 个 GitHub 星星，179 个分支，最近更新于
+AmoyLab/Unla 的生产可用性非常高。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/AmoyLab/Unla)。
 
 ## 🧭 Practical evaluation
 

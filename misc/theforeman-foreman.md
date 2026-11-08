@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt Theforeman/Foreman, teams should start by evaluating the project through a small proof of concept and carefully reviewing the README documentation. This will help identify potential integration challenges and validate the setup cost before committing to a full-scale implementation.
 
-**Production Readiness:** Theforeman/Foreman has a high production readiness score due to its strong adoption rate (2903 GitHub stars and 1036 forks), recent activity (updated in 2026), and robust ecosystem. This makes it an attractive option for serious pilots and organizations looking to
+**Production Readiness:** Theforeman/Foreman has a high production readiness score due to its strong adoption rate (2903 GitHub stars and 1036 forks), recent activity (updated in 2026), and robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/theforeman/foreman).
 
 ### Русский
 

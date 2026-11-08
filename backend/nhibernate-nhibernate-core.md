@@ -72,7 +72,10 @@ NHibernate Core 的生产可用性很高，主要原因是：
 * 相对稳定的更新频率：最近更新时间为 2026-08-16。
 * 强大的社区支持：2172 个 GitHub 星标，932 个 Fork。
 * 稳定的主语言：C#。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/nhibernate/nhibernate-core)。
 
 ## 🧭 Practical evaluation
 

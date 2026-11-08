@@ -42,7 +42,11 @@ To adopt mini-tokyo-3d, follow these steps:
 4. Manually inspect the integration path to ensure it aligns with your specific use case.
 
 **Production Readiness:**
-mini-tokyo-3d is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, thorough dependency and
+mini-tokyo-3d is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nagix/mini-tokyo-3d).
 
 ### Русский
 

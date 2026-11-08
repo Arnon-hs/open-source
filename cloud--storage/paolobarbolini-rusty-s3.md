@@ -45,7 +45,10 @@ To adopt paolobarbolini/rusty-s3, follow these steps:
 
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets your requirements.
 2. Assess the project's production readiness, considering factors like dependency and maintenance checks.
-3. Integrate rusty-s3 into your development workflow, starting with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/paolobarbolini/rusty-s3).
 
 ### Русский
 

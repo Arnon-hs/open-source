@@ -42,7 +42,10 @@ To adopt this project, developers can follow these steps:
 1. **Evaluate the plugin pipeline**: Assess the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets their specific needs.
 2. **Review dependencies and maintenance**: Conduct a thorough review of the project's dependencies and maintenance requirements to ensure they align with their production environment.
 3. **Standardize agent memory**: Use the project to standardize agent memory and create repeatable workflows.
-4. **Integrate with existing tools**: Integrate the project with existing tools and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aufamubarak/plan-execute-verify-claude-code).
 
 ### Русский
 

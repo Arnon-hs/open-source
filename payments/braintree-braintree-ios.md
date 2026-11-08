@@ -39,7 +39,11 @@ The Braintree SDK for iOS (braintree/braintree_ios) enables developers to integr
 2. Integrate the SDK: Follow the provided documentation to integrate the Braintree SDK into your iOS application.
 3. Test and refine: Test the payment processing and billing flows to ensure they meet your needs and refine the integration as necessary.
 
-**Production Readiness:** The Braintree SDK for iOS has a medium production readiness score, indicating that it's suitable for use in prototypes or internal workflows, but may require further review and validation before being used in production environments. This is due to the need for dependency and
+**Production Readiness:** The Braintree SDK for iOS has a medium production readiness score, indicating that it's suitable for use in prototypes or internal workflows, but may require further review and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/braintree/braintree_ios).
 
 ### Русский
 

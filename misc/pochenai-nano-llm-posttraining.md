@@ -41,8 +41,9 @@ To adopt this project, developers should:
 3. Evaluate the project's quality signals, such as the frequency of updates and the number of issues reported.
 4. Consider the project's production readiness and potential risks before deploying it in a production environment.
 
-**Production Readiness:**
-The project's production readiness is rated medium, indicating that while it can
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pochenai/nano-llm-posttraining).
 
 ### Русский
 

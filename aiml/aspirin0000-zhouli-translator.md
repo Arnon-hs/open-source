@@ -72,7 +72,11 @@ Aspirin0000/zhouli-translator 的价值在于，它可以帮助开发者快速�
 
 **生产可用性**
 
-Aspirin0000/zhouli-translator 的生产可用性为 Medium，适合用于 prototyping 或内部工作流。然而，
+Aspirin0000/zhouli-translator 的生产可用性为 Medium，适合用于 prototyping 或内部工作流。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/Aspirin0000/zhouli-translator)。
 
 ## 🧭 Practical evaluation
 

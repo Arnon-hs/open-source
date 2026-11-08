@@ -74,7 +74,10 @@ JavaParser具有很高的生产可用性，理由如下：
 * 项目有活跃的社区和维护者
 * 有大量的GitHub星标和fork数，表明其受欢迎程度
 * 主要语言是Java，表示其稳定性和可靠性
-* 最近更新时间为
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/javaparser/javaparser)。
 
 ## 🧭 Practical evaluation
 

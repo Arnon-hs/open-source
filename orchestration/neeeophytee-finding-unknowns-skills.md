@@ -47,9 +47,9 @@ To adopt this project, users should follow these steps:
 2. **Validate Setup Costs**: Determine the costs associated with setting up and maintaining the project before committing to its use.
 3. **Configure and Test**: Configure the project according to your needs and test its functionality to ensure it meets your requirements.
 
-**Production Readiness:**
+## Before adopting
 
-Given its medium production readiness score, this project is suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Neeeophytee/finding-unknowns-skills).
 
 ### Русский
 

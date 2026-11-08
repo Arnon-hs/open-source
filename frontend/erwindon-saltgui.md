@@ -40,7 +40,11 @@ erwindon/SaltGUI is an open-source project that provides a web interface for man
 3. If the project meets the requirements, integrate it with the existing SaltStack setup.
 4. Test and validate the setup to ensure smooth operation.
 
-**Production Readiness:** erwindon/SaltGUI has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but requires careful dependency and maintenance checks before deployment in production environments. This is due to the
+**Production Readiness:** erwindon/SaltGUI has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but requires careful dependency and maintenance checks before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/erwindon/SaltGUI).
 
 ### Русский
 

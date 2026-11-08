@@ -43,9 +43,9 @@ To adopt MathNya/umya-spreadsheet, follow these steps:
 2. Start with a small proof of concept to test the library's feasibility and ease of integration.
 3. Carefully review the library's dependencies, maintenance requirements, and potential risks before committing to its use in production.
 
-**Production Readiness:**
+## Before adopting
 
-MathNya/umya-spreadsheet is rated as "Medium" in terms of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MathNya/umya-spreadsheet).
 
 ### Русский
 

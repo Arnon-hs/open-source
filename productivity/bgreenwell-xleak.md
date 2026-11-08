@@ -73,7 +73,10 @@ bgreenwell/xleak 的生产可用性评估为高（High），因为它有：
 
 * 最近的活跃度
 * 强大的采用率
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/bgreenwell/xleak)。
 
 ## 🧭 Practical evaluation
 

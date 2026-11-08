@@ -39,7 +39,10 @@ To adopt xmarre/ComfyUI-Spectrum-MiniMax-H3, developers should follow these step
 1. Review the project's manual inspection notes to ensure a smooth integration process.
 2. Verify the project's dependencies and maintenance requirements to ensure production readiness.
 3. Assess the project's license, security posture, and active maintainers to mitigate potential risks.
-4. Integrate the project into your existing workflow, starting with prototype development or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3).
 
 ### Русский
 

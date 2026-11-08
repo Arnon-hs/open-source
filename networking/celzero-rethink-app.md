@@ -45,7 +45,11 @@ To adopt the celzero/rethink-app, developers can:
 
 **Production Readiness:**
 
-The celzero/rethink-app demonstrates high production readiness, with strong signals indicating its suitability for a serious pilot. The project's recent activity, adoption, and ecosystem signals are all favorable, making it a viable option for developers seeking to streamline their
+The celzero/rethink-app demonstrates high production readiness, with strong signals indicating its suitability for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/celzero/rethink-app).
 
 ### Русский
 

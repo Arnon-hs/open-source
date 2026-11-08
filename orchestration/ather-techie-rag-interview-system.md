@@ -42,8 +42,9 @@ To adopt this project, follow these steps:
 3. Assess the dependency and maintenance costs before committing to production deployment.
 4. Integrate the system with your existing workflows and tools to leverage its full potential.
 
-**Production Readiness:**
-The ather-techie/rag-interview-system is considered production-ready with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ather-techie/rag-interview-system).
 
 ### Русский
 

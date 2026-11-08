@@ -40,7 +40,9 @@ Here's a brief summary of the open-source project:
 3. **Prototype Development**: The project is suitable for prototype development, allowing users to test and refine their workflows.
 4. **Internal Workflows**: It can also be used in internal workflows, where the benefits of automation can be leveraged.
 
-**Production Readiness:** The project's production readiness is medium, indicating that it's useful for prototype development and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/StanByriukov02/ha-production-gate/blob/main/docs/DUAL_REFUSE.md).
 
 ### Русский
 

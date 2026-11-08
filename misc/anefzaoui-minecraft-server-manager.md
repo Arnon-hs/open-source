@@ -39,7 +39,9 @@ Here's a brief summary of the open-source project:
 2. **Manual inspection and verification**: Before adopting the project, it's essential to manually inspect the code, verify the license, maintenance, documentation, issues, and release cadence to ensure it meets your team's needs.
 3. **Dependency and maintenance checks**: Perform thorough dependency and maintenance checks to ensure the project is stable and up-to-date.
 
-**Production Readiness:** The project has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/anefzaoui/minecraft-server-manager).
 
 ### Русский
 

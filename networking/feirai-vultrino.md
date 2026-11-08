@@ -38,7 +38,10 @@ The practical adoption path for Vultrino involves several steps:
 1. Manual inspection: Verify the quality signals, license, maintenance, documentation, issues, and release cadence of the project.
 2. Integration: Integrate Vultrino with the AI system, ensuring that it meets the specific requirements of the project.
 3. Testing: Thoroughly test Vultrino to ensure that it functions as expected and does not introduce any security vulnerabilities.
-4. Verification: Verify that the AI agents are
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/FeirAI/vultrino).
 
 ### Русский
 

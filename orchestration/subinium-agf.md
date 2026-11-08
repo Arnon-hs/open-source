@@ -36,7 +36,10 @@ Orchestration · Automation · AI/ML · DevTools
 1. Reviewing the documentation and codebase to understand the project's architecture and functionality.
 2. Evaluating the project's compatibility with their existing AI agent tools and workflows.
 3. Testing the TUI to see how it can be used to find, resume, and manage sessions.
-4. Customizing the project to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/subinium/agf).
 
 ### Русский
 

@@ -36,7 +36,10 @@ Misc
 1. **Prototype and Test:** Use KotlinLLM as a starting point to prototype and test AI features, RAG, or agent workflows in a controlled environment.
 2. **Evaluate and Refine:** Evaluate the performance and quality of KotlinLLM, refine its integration, and ensure it meets the requirements of your application.
 3. **Verify Quality Signals:** Carefully inspect the project's quality signals, including license, maintenance, documentation, issues, and release cadence, to ensure it is reliable and well-maintained.
-4. **Integrate and Deploy:** Once verified, integrate KotlinLLM into your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JetBrains-Research/kotlinllm-plugin).
 
 ### Русский
 

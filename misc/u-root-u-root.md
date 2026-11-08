@@ -41,7 +41,10 @@ To adopt u-root, developers can follow these steps:
 
 1. Evaluate the project by reading the README and implementing a small proof of concept to understand its capabilities and limitations.
 2. Assess the project's license, security posture, and maintainers to ensure they align with the project's goals and requirements.
-3. Integrate u-root into existing workflows, starting with small-scale prototypes and gradually scaling up to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/u-root/u-root).
 
 ### Русский
 

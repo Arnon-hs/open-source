@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt the project, developers will need to manually inspect the integration process before adoption, as the integration signals are sparse in the metadata. This involves validating the setup cost and ensuring that the project meets the required dependencies and maintenance checks. Once these steps are completed, the project can be used for internal workflows or prototypes.
 
-**Production Readiness:** The project has a medium production readiness level, indicating that it is suitable for use in internal workflows or prototypes, but may require additional checks and validation before being used in production environments. This means that
+**Production Readiness:** The project has a medium production readiness level, indicating that it is suitable for use in internal workflows or prototypes, but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/woai3c/Front-end-articles).
 
 ### Русский
 

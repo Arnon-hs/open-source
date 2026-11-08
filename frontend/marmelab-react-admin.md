@@ -78,7 +78,10 @@ marmelab/react-admin 的生产可用性非常高，理由如下：
 * 有 26862 个 GitHub 星和 5459 个 Fork，表明其受欢迎程度高
 * 最近的更新日期为 2026-07-31，表明其仍然活跃维护
 * 主要语言为 TypeScript，表明其具有现代化的编程语言特性
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/marmelab/react-admin)。
 
 ## 🧭 Practical evaluation
 

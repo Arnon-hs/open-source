@@ -40,7 +40,11 @@ Here's a brief summary of the open-source project:
 3. **Dependency and Maintenance Checks:** Perform dependency and maintenance checks to ensure the project is production-ready.
 4. **Integration:** Integrate the project into your development workflow, starting with a small pilot project or internal workflow.
 
-**Production Readiness:** The project has a moderate production readiness score of 58/100. While it is
+**Production Readiness:** The project has a moderate production readiness score of 58/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/daniel5151/clicky).
 
 ### Русский
 

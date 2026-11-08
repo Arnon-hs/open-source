@@ -35,7 +35,9 @@ Doka is an open-source desktop AI agent for Windows and Mac that enables local w
 
 **Practical Adoption Path:** To adopt Doka, developers need to manually inspect the integration signals in the discovered metadata, which may not be immediately obvious. This requires careful setup and validation to ensure a smooth integration process. Before committing to Doka, it is essential to validate the setup cost and potential risks involved.
 
-**Production Readiness:** Doka is considered to have medium production readiness, making it suitable for internal workflows or prototypes where developers can
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/babikov/doka-site).
 
 ### Русский
 

@@ -38,7 +38,10 @@ Here's a brief summary and analysis of the open-source project:
 1. **Manual Inspection:** Carefully review the project's metadata, documentation, and code to ensure it meets their specific needs.
 2. **Verify Quality Signals:** Check the project's update history, topic coverage, and risk factors (e.g., license, maintenance, documentation, issues, and release cadence).
 3. **Integration and Testing:** Integrate the project into their development workflow and thoroughly test its functionality to ensure it works as expected.
-4. **Maintenance and Dependency Checks:** Regularly update the project and check its dependencies to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sanitizeai/logguardai).
 
 ### Русский
 

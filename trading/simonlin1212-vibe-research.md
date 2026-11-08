@@ -41,7 +41,10 @@ To adopt Vibe-Research, users can start by exploring the project's GitHub reposi
 
 1. Reviewing the project's documentation and codebase to understand its features and functionality.
 2. Setting up the project on their local environment or cloud platform.
-3. Integrating Vibe-Research with their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/simonlin1212/Vibe-Research).
 
 ### Русский
 

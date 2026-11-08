@@ -44,7 +44,10 @@ The Azure-Samples/AI-Gateway project offers several values to developers, includ
 To adopt the Azure-Samples/AI-Gateway project, developers can follow these steps:
 
 1. **Evaluate the project**: Review the project's documentation, code, and GitHub activity to ensure it meets your needs.
-2. **Fork the project**: Clone the project and create a fork to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Azure-Samples/AI-Gateway).
 
 ### Русский
 

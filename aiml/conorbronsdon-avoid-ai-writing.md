@@ -38,7 +38,11 @@ Practical Adoption Path:
 To adopt this project, developers can start by evaluating its feasibility through a small proof of concept and checking the README documentation. This will help them understand the integration path and validate the setup cost before committing to a full-scale implementation.
 
 Production Readiness:
-The project has a high production readiness score, indicating that it is suitable for serious piloting. With recent activity, strong adoption (2188 GitHub stars and 214 forks), and a
+The project has a high production readiness score, indicating that it is suitable for serious piloting.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/conorbronsdon/avoid-ai-writing).
 
 ### Русский
 

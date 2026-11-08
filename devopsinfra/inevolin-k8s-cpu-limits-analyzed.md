@@ -43,7 +43,10 @@ To adopt this project, users should follow these steps:
 2. **Dependency Checks**: Verify that the project's dependencies are up-to-date and compatible with their existing infrastructure.
 3. **Maintenance and Support**: Evaluate the project's maintenance and support history to ensure it will continue to receive updates and bug fixes.
 4. **Testing and Validation**: Thoroughly test the project in a controlled environment to validate its functionality and performance.
-5. **Production Deployment**: Once the project has been thoroughly tested and validated, it can be safely deployed to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/inevolin/k8s-cpu-limits-analyzed).
 
 ### Русский
 

@@ -36,8 +36,9 @@ The primary value proposition of talivia-group/agent lies in its ability to conn
 **Practical Adoption Path:**
 To adopt talivia-group/agent, developers can start by evaluating the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then assess the production readiness of the project by considering factors such as dependency and maintenance checks. Once evaluated, developers can integrate the talivia-group/agent with their AI assistants and tools to leverage the benefits of standardized integrations.
 
-**Production Readiness:**
-The production readiness of talivia-group/agent is rated as Medium, indicating that it is suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/talivia-group/agent).
 
 ### Русский
 

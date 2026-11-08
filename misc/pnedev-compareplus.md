@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt pnedev/comparePlus, it is recommended to start with a small proof of concept and a thorough review of its README documentation. This will help assess its feasibility for integration and identify potential issues or areas for improvement. Once the plugin has been successfully integrated, it can be further evaluated for production readiness.
 
-**Production Readiness:** pnedev/comparePlus is considered to have medium production readiness. While it has a moderate number of GitHub stars and forks, and is actively maintained, its production suitability depends on a thorough evaluation of its dependencies, maintenance requirements, and security posture. Before deploying the plugin in
+**Production Readiness:** pnedev/comparePlus is considered to have medium production readiness. While it has a moderate number of GitHub stars and forks, and is actively maintained, its production suitability depends on a thorough evaluation of its dependencies, maintenance requirements, and security posture.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pnedev/comparePlus).
 
 ### Русский
 

@@ -38,7 +38,10 @@ Here's a 2-3 sentence summary of the open-source project:
 1. Review the project's documentation and source code to understand its architecture and functionality.
 2. Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it meets their needs.
 3. Perform manual inspection and testing to ensure the project integrates smoothly with their existing systems.
-4. Evaluate the project's quality signals, such as its update frequency and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/neat-technologies/neat).
 
 ### Русский
 

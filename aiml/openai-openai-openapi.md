@@ -42,7 +42,10 @@ To adopt openai/openai-openapi, follow these steps:
 1. **Manual Inspection**: Carefully review the project's metadata, documentation, and code to ensure it aligns with your project's requirements.
 2. **Integration Testing**: Perform thorough integration testing to validate the API's functionality and compatibility with your application.
 3. **Dependency and Maintenance Checks**: Verify that the project's dependencies are up-to-date and maintained, and assess the project's overall maintenance activity.
-4. **License and Security Review**: Review the project's license and security posture to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openai/openai-openapi).
 
 ### Русский
 

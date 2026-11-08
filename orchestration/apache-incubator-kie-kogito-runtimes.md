@@ -37,8 +37,9 @@ The project's primary value lies in automating repetitive tasks and workflows, r
 **Practical Adoption Path:**
 For practical adoption, we recommend starting with a small proof of concept to evaluate the project's feasibility. It is essential to check the README documentation and consider the integration path before committing to the project. This will help developers understand the project's architecture, dependencies, and potential challenges. Once the proof of concept is successful, developers can scale up the adoption by integrating the project into their production workflows after conducting thorough dependency and maintenance checks.
 
-**Production Readiness:**
-The project has a medium production readiness score, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/apache/incubator-kie-kogito-runtimes).
 
 ### Русский
 

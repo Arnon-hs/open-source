@@ -39,9 +39,9 @@ The project's value proposition lies in its ability to bridge the gap between AI
 
 To adopt this project, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then explore the project's documentation and codebase to understand its functionality and potential use cases. The project's straightforward integration process makes it suitable for prototype development or internal workflows. However, before adopting it for production, developers should perform dependency and maintenance checks to ensure its stability and reliability.
 
-**Production Readiness:**
+## Before adopting
 
-While the project demonstrates medium production readiness, it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/junmo-kim/mac-local-vision).
 
 ### Русский
 

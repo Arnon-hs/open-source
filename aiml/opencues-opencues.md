@@ -37,7 +37,11 @@ AI/ML · DevTools
 2. Assess the project's dependency and maintenance requirements to ensure they align with the development team's needs.
 3. Integrate OpenCues into the application, leveraging its pre-built AI stack to fill in the blanks with AI-generated content.
 
-**Production Readiness:** OpenCues is considered "Medium" in terms of production readiness. While it is useful for prototypes and internal workflows, it requires careful evaluation and integration before being deployed in
+**Production Readiness:** OpenCues is considered "Medium" in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/opencues/opencues).
 
 ### Русский
 

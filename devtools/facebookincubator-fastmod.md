@@ -41,7 +41,10 @@ To adopt fastmod, developers can follow these steps:
 
 1. Evaluate the project's documentation and API/SDK/CLI to understand its implementation signals and language metadata.
 2. Integrate fastmod into their existing development workflow, starting with small-scale refactors and gradually moving to larger-scale projects.
-3. Configure fastmod to automate local engineering tasks, such as code formatting, linting, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/facebookincubator/fastmod).
 
 ### Русский
 

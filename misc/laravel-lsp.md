@@ -37,7 +37,10 @@ Misc
 2. Inspect the project's integration signals, such as GitHub issues, pull requests, and comments, to gauge its community engagement and maintenance.
 3. Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it aligns with your team's needs.
 4. Evaluate the project's quality signals, such as the frequency of updates and the number of topics discussed.
-5. If satisfied with the project's quality and suitability, integrate it into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/laravel/lsp).
 
 ### Русский
 

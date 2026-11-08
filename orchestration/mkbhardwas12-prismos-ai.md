@@ -70,7 +70,10 @@ mkbhardwas12/prismos-ai 帮助将孤立的提示和工具转换为可重复的�
 该项目的生产可用性很高，主要原因是：
 * 近期活跃度：最近更新日期为2026-08-12。
 * 归属数量：236 GitHub星星，214 forks。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/mkbhardwas12/prismos-ai)。
 
 ## 🧭 Practical evaluation
 

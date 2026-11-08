@@ -39,9 +39,9 @@ The primary value proposition of NHAS/reverse_ssh lies in its ability to save en
 
 For a practical adoption path, it is recommended to start with a small proof of concept and a thorough review of the README documentation. This will help evaluate the feasibility of integrating NHAS/reverse_ssh into your existing workflow and understand its capabilities. Given its recent activity, strong adoption, and Go-based implementation, the project is considered production-ready, making it an attractive candidate for serious piloting.
 
-**Production Readiness:**
+## Before adopting
 
-NHAS/reverse_ssh is deemed production-ready due to its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NHAS/reverse_ssh).
 
 ### Русский
 

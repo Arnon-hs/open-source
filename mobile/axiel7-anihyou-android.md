@@ -42,7 +42,11 @@ To adopt AniHyou-android, developers can follow these steps:
 4. Integrate the project into their workflow, using it to automate local engineering tasks and improve CI feedback.
 
 **Production Readiness:**
-AniHyou-android has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require additional evaluation and checks before being used in production. This
+AniHyou-android has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require additional evaluation and checks before being used in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/axiel7/AniHyou-android).
 
 ### Русский
 

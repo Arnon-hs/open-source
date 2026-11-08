@@ -43,7 +43,10 @@ To adopt Motis, teams can follow these steps:
 2. Assess the project's recent activity, adoption, and ecosystem signals to gauge its production readiness.
 3. Review the project's license, security posture, and active maintainers to mitigate potential risks.
 4. Integrate Motis into their existing infrastructure, starting with a small pilot project to test its functionality and scalability.
-5. Gradually migrate to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/motis-project/motis).
 
 ### Русский
 

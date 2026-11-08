@@ -71,7 +71,10 @@ ViscousPot/GitSync 的生产可用性很高，原因如下：
 
 * 近期活跃：最近有活跃的开发和维护
 * 大量用户采用：有 2106 个 GitHub 星星和 179 个分支
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/ViscousPot/GitSync)。
 
 ## 🧭 Practical evaluation
 

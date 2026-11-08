@@ -41,7 +41,11 @@ To adopt Stockyard, users can start by evaluating its feasibility through a smal
 
 **Production Readiness:**
 
-Stockyard is considered to be at a medium level of production readiness, making it suitable for prototype development or internal workflows. While it has shown promise, further review of its license, security posture, and active maintainers is necessary to ensure its stability and reliability in a
+Stockyard is considered to be at a medium level of production readiness, making it suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/prime-radiant-inc/stockyard).
 
 ### Русский
 

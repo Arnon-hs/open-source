@@ -45,7 +45,11 @@ To adopt Fakeredis-py, developers can follow these steps:
 
 **Production Readiness:**
 
-Fakeredis-py has a high production readiness score, thanks to its recent activity, adoption, and ecosystem signals. With
+Fakeredis-py has a high production readiness score, thanks to its recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cunla/fakeredis-py).
 
 ### Русский
 

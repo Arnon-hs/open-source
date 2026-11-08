@@ -40,7 +40,9 @@ The lailongwei/llbc project is a high-performance, multi-language, and cross-pla
 3. Validate the project's performance and compatibility with their specific use case.
 4. Consider integrating the project with other tools and frameworks to leverage its full potential.
 
-**Production readiness:** The project has a medium production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lailongwei/llbc).
 
 ### Русский
 

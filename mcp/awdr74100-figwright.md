@@ -41,7 +41,11 @@ To adopt Figwright, developers can start by evaluating its implementation signal
 
 **Production Readiness:**
 
-Figwright exhibits high production readiness, with recent activity, adoption, and ecosystem signals that are strong enough for a serious pilot. With
+Figwright exhibits high production readiness, with recent activity, adoption, and ecosystem signals that are strong enough for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/awdr74100/figwright).
 
 ### Русский
 

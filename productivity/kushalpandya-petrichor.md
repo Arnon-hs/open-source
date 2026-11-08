@@ -33,7 +33,11 @@ Productivity
 
 **Practical Adoption Path:** To adopt Petrichor, it is recommended to start with a small proof of concept and carefully review the project's README to understand its setup and usage. This will help evaluate the project's feasibility and potential setup costs before committing to a larger-scale integration.
 
-**Production Readiness:** Despite some uncertainties in its integration path, Petrichor exhibits strong production-readiness signals, including recent activity, a significant number of GitHub stars (1542), and a robust ecosystem. Its adoption and recent updates suggest that it is a viable candidate for serious pilot projects, making it an
+**Production Readiness:** Despite some uncertainties in its integration path, Petrichor exhibits strong production-readiness signals, including recent activity, a significant number of GitHub stars (1542), and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kushalpandya/Petrichor).
 
 ### Русский
 

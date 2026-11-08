@@ -42,8 +42,9 @@ To adopt SciTools/iris, users can start by evaluating its feasibility through a 
 3. Integrate SciTools/iris into existing workflows and pipelines.
 4. Standardize agent memory and tool-use pipelines for efficient data analysis.
 
-**Production Readiness:**
-SciTools/iris is considered production-ready due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SciTools/iris).
 
 ### Русский
 

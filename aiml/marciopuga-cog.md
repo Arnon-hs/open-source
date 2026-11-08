@@ -41,7 +41,11 @@ To adopt marciopuga/cog, developers should start by cloning the repository and r
 
 **Production Readiness:**
 
-While marciopuga/cog is suitable for prototyping and internal workflows, its production readiness is rated as medium. This means that developers should perform thorough dependency checks and maintenance assessments before deploying the project in
+While marciopuga/cog is suitable for prototyping and internal workflows, its production readiness is rated as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/marciopuga/cog).
 
 ### Русский
 

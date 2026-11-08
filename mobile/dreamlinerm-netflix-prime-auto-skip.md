@@ -39,9 +39,9 @@ The primary value proposition of Dreamlinerm/Netflix-Prime-Auto-Skip lies in its
 
 To adopt this project, developers should start by evaluating its feasibility through a small proof-of-concept and reviewing the README documentation. They should also be prepared to validate the setup cost and potential integration risks before committing to production. The project's integration path is not immediately obvious from the metadata, so careful planning and experimentation are necessary to ensure a smooth adoption process.
 
-**Production Readiness**
+## Before adopting
 
-Dreamlinerm/Netflix-Prime-Auto-Skip has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip).
 
 ### Русский
 

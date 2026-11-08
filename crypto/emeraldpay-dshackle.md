@@ -39,7 +39,10 @@ Emeraldpay's dshackle is an open-source, fault-tolerant load balancer designed f
 2. Assess the project's production readiness, considering factors like dependency and maintenance checks.
 3. Review the project's license, security posture, and active maintainers to ensure they align with your organization's standards.
 4. Integrate the project into your development workflow, starting with prototypes or internal projects.
-5. Monitor the project's activity and maintenance to ensure its continued suitability for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/emeraldpay/dshackle).
 
 ### Русский
 

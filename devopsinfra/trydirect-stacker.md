@@ -33,7 +33,9 @@ DevOps/Infra
 
 **Practical Adoption Path:** To adopt Stacker, users should first verify the project's quality signals, including its license, maintenance, documentation, issue tracking, and release cadence. Once these aspects are confirmed, users can start by exploring the project's documentation and tutorials to understand how to deploy multi-container Docker stacks using Stacker's CLI command. The next step is to prototype AI features or build RAG or agent workflows using Stacker, and then evaluate the tool's performance and scalability.
 
-**Production Readiness:** Stacker is considered "Medium" in terms of production readiness, indicating that it is suitable for internal workflows, prototyping, and testing, but may not be
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/trydirect/stacker).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt sophgo/tpu-mlir, users can follow these steps:
 4. Integrate the project into their existing workflows, starting with prototype development or internal testing.
 
 **Production Readiness:**
-The sophgo/tpu-mlir project has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows. However, users should conduct a
+The sophgo/tpu-mlir project has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sophgo/tpu-mlir).
 
 ### Русский
 

@@ -41,8 +41,9 @@ To adopt Kars, developers should first manually inspect the project's integratio
 4. Perform dependency and maintenance checks to ensure the project's stability and compatibility with existing infrastructure.
 5. Evaluate the project's production readiness and adjust the adoption path accordingly.
 
-**Production Readiness:**
-Kars has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Azure/kars).
 
 ### Русский
 

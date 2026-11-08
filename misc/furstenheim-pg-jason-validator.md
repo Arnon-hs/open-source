@@ -43,8 +43,9 @@ To adopt this project, developers should follow these steps:
 4. Gradually incorporate the project into the CI/CD pipeline and automate local engineering tasks.
 5. Monitor the project's performance and maintain it as needed.
 
-**Production Readiness:**
-While Pg-jason-validator has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/furstenheim/pg-jason-validator).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The primary value proposition of GenseeAI/gensee-crate lies in its ability to si
 
 **Practical Adoption Path:**
 
-To adopt GenseeAI/gensee-crate, developers should start with a small proof of concept to evaluate its feasibility and understand the integration process. It's essential to carefully review the README documentation and perform dependency and maintenance checks before committing to production. The project's medium production readiness score indicates that it's suitable for prototypes or internal workflows, but may require additional validation and
+To adopt GenseeAI/gensee-crate, developers should start with a small proof of concept to evaluate its feasibility and understand the integration process. It's essential to carefully review the README documentation and perform dependency and maintenance checks before committing to production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GenseeAI/gensee-crate).
 
 ### Русский
 

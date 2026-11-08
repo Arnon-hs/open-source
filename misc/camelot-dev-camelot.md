@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the project:
 
 **Practical Adoption Path:** To adopt camelot, users can start by integrating it into their existing data processing workflows. This may involve manual inspection of the extracted data to ensure accuracy and quality. As users become more comfortable with the library, they can automate the data extraction process and integrate it with other tools and systems.
 
-**Production Readiness:** camelot has a medium production readiness score, indicating that it is suitable for use in prototypes, internal workflows, or proof-of-concept projects. However, before deploying it in a production environment, users should perform thorough dependency and maintenance checks to ensure stability and reliability. Additionally, a
+**Production Readiness:** camelot has a medium production readiness score, indicating that it is suitable for use in prototypes, internal workflows, or proof-of-concept projects. However, before deploying it in a production environment, users should perform thorough dependency and maintenance checks to ensure stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/camelot-dev/camelot).
 
 ### Русский
 

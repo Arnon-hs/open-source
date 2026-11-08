@@ -65,7 +65,10 @@ FABULA-LLM-5 的接入方式包括：
 
 * 连接 AI 辅助器到工具：通过 FABULA-LLM-5，开发者可以轻松地连接 AI 辅助器到各种工具和数据源。
 * 部署 Model Context Protocol 服务器：FABULA-LLM-5 提供了 Model Context Protocol 服务器的部署方案，能够标准化 AI 应用的集成。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/sergezuber/FABULA-LLM-5)。
 
 ## 🧭 Practical evaluation
 

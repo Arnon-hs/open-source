@@ -36,7 +36,10 @@ Misc
 1. **Evaluation:** Carefully review the project's metadata, license, maintenance, documentation, issues, and release cadence to ensure it meets your requirements.
 2. **Integration:** Manually inspect the code and dependencies to ensure seamless integration with your existing project.
 3. **Testing:** Thoroughly test Velora in a controlled environment to validate its performance and accuracy.
-4. **Adoption:** Once satisfied with the results, adopt Velora in your production environment, ensuring to monitor its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sushilk1991/velora).
 
 ### Русский
 

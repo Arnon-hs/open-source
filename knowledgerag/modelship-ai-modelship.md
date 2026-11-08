@@ -42,7 +42,10 @@ To adopt Modelship, users can follow these steps:
 1. **Evaluation**: Assess the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to gauge its feasibility for their specific use case.
 2. **Setup**: Install and configure Modelship, ensuring compatibility with existing AI models and knowledge bases.
 3. **Integration**: Integrate Modelship with internal workflows and knowledge bases, leveraging its capabilities to improve search and grounding assistant answers.
-4. **Testing and Refining**: Test Modelship in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/modelship-ai/modelship).
 
 ### Русский
 

@@ -33,7 +33,11 @@ AI/ML · DevTools · Security
 
 **Practical Adoption Path:** To adopt indigo-dc/oidc-agent, developers can start by evaluating its API, SDK, and CLI to understand how it can be integrated into their existing workflows. They can then use the tool to manage OpenID Connect tokens and explore its capabilities for building RAG or agent workflows and evaluating model tooling.
 
-**Production Readiness:** The project has a high production readiness score due to its recent activity, strong adoption (153 GitHub stars and 38 forks), and a robust ecosystem. However, it is essential to conduct a final review of the license, security posture, and active maintainers to
+**Production Readiness:** The project has a high production readiness score due to its recent activity, strong adoption (153 GitHub stars and 38 forks), and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/indigo-dc/oidc-agent).
 
 ### Русский
 

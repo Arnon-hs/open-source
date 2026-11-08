@@ -39,7 +39,10 @@ To adopt this project, follow these steps:
 1. **Evaluate the README:** Carefully review the project's README to understand its purpose, usage, and any specific requirements.
 2. **Start with a small proof of concept:** Begin by experimenting with a small-scale project to validate the compiler's functionality and identify potential issues.
 3. **Check the integration path:** Thoroughly review the project's documentation and metadata to determine the best integration approach.
-4. **Validate setup cost:** Assess the time and effort required to set up and maintain the compiler in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/microsoft/DirectXShaderCompiler).
 
 ### Русский
 

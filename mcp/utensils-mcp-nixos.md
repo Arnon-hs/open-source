@@ -44,7 +44,10 @@ To adopt MCP-NixOS, developers can follow these steps:
 
 1. Evaluate the project: Assess the project's documentation, code quality, and community support.
 2. Choose the implementation: MCP-NixOS provides API, SDK, and CLI implementations, allowing developers to choose the best fit for their project.
-3. Integrate MCP-NixOS: Use the chosen implementation to connect AI agents with tools and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/utensils/mcp-nixos).
 
 ### Русский
 
@@ -70,11 +73,9 @@ utensils/mcp-nixos 的价值在于，它提供了一个标准的协议来连接�
 * 部署 Model Context Protocol 服务器：开发者可以部署 Model Context Protocol 服务器来提供标准化的接口。
 * 标准化集成：通过使用 Model Context Protocol，开发者可以标准化工具和数据的集成。
 
-**生产可用性**
+## 采用前检查
 
-utensils/mcp-nixos 的生产可用性是高的，因为它有：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/utensils/mcp-nixos)。
 
 ## 🧭 Practical evaluation
 

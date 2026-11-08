@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** To adopt grafana/gcx, developers can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. Once they have a basic understanding of the tool's capabilities, they can integrate it into their project workflow, taking into account dependency and maintenance checks to ensure production readiness.
 
-**Production Readiness:** grafana/gcx has a medium production readiness score, indicating that it is suitable for prototype development and internal workflows but may require additional checks and validation before being used in production environments. While it has a growing community and an
+**Production Readiness:** grafana/gcx has a medium production readiness score, indicating that it is suitable for prototype development and internal workflows but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/grafana/gcx).
 
 ### Русский
 

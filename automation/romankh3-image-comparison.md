@@ -69,7 +69,10 @@ romankh3/image-comparison 的生产可用性较高，理由如下：
 
 * 最近活动：最近有更新（2026-07-30）。
 * 采纳率高：396 个 GitHub 星星，119 个分叉。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/romankh3/image-comparison)。
 
 ## 🧭 Practical evaluation
 

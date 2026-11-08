@@ -40,7 +40,10 @@ To adopt Heliox-OS, follow these steps:
 2. **Start with a small proof of concept**: Integrate Heliox-OS with a small set of tools or workflows to test its capabilities.
 3. **Review the README and documentation**: Ensure you understand the project's architecture, dependencies, and maintenance requirements.
 4. **Conduct dependency and maintenance checks**: Verify that Heliox-OS is compatible with your organization's technology stack and can be sustainably maintained.
-5. **Deploy in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/VyomKulshrestha/Heliox-OS).
 
 ### Русский
 

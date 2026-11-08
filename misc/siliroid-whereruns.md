@@ -39,9 +39,9 @@ The value proposition of Whereruns lies in its ability to provide a quick sanity
 
 Before adopting Whereruns, developers should manually inspect the project to ensure it meets their needs. This includes verifying the license, maintenance, documentation, issues, and release cadence. Once satisfied, they can integrate Whereruns into their workflow, taking advantage of its benefits during prototyping or internal development.
 
-**Production Readiness:**
+## Before adopting
 
-Whereruns has a medium production readiness score, indicating that it's suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/siliroid/whereruns).
 
 ### Русский
 

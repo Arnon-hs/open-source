@@ -42,7 +42,10 @@ To adopt minekube/gate, developers can follow these steps:
 1. Evaluate the project's documentation and API/SDK/CLI to understand its implementation signals.
 2. Assess the project's language metadata, focused topics, and primary language (Go) to determine its suitability for their use case.
 3. Review the project's GitHub stars, forks, and recent activity to gauge its adoption and ecosystem signals.
-4. Conduct a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/minekube/gate).
 
 ### Русский
 

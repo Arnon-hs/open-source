@@ -39,9 +39,9 @@ The value of Genesys lies in its ability to simplify the process of adding AI ca
 
 To adopt Genesys, developers should first verify the project's license, maintenance, documentation, issue history, and release cadence to ensure it meets their needs. Next, they should perform manual inspection and integration to understand how Genesys can be used in their specific project. Once integrated, Genesys can be used to prototype AI features, build RAG or agent workflows, and evaluate model tooling.
 
-**Production Readiness:**
+## Before adopting
 
-Genesys has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows, but may require additional checks and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Astrix-Labs/genesys).
 
 ### Русский
 

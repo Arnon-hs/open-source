@@ -41,7 +41,10 @@ To adopt "grandma" in a project, developers can follow these steps:
 
 1. Evaluate the project's implementation signals, such as its API, SDK, CLI, and language metadata.
 2. Assess the project's production readiness, focusing on its dependency and maintenance checks.
-3. Review the project's license, security posture, and active maintainers to ensure they align with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/anshulforyou/grandma).
 
 ### Русский
 

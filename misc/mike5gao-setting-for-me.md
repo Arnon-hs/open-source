@@ -42,7 +42,10 @@ To adopt this project, users should follow these steps:
 1. **Verify the license and dependencies**: Ensure the project's license is suitable for your use case and that the dependencies are well-maintained.
 2. **Inspect the code and documentation**: Review the project's code, documentation, and issues to understand its architecture and potential limitations.
 3. **Evaluate the project's maintenance and release cadence**: Check if the project is actively maintained and if the release cadence is regular and predictable.
-4. **Test the project**: Run the project on your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mike5gao/setting-for-me).
 
 ### Русский
 

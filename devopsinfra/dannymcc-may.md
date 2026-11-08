@@ -43,7 +43,11 @@ The practical adoption path for May involves several steps:
 4. Conduct a final review of the project's license, security posture, and active maintainers.
 
 **Production Readiness:**
-May has a high production readiness score, indicating that it is suitable for serious pilots. The project has
+May has a high production readiness score, indicating that it is suitable for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dannymcc/may).
 
 ### Русский
 

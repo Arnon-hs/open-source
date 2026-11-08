@@ -45,9 +45,9 @@ To adopt RecoilEngine, teams should follow these steps:
 4. Integrate RecoilEngine into the project, following the provided manual integration instructions.
 5. Test and refine the integration to ensure optimal performance and data management.
 
-**Production Readiness:**
+## Before adopting
 
-RecoilEngine has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/beyond-all-reason/RecoilEngine).
 
 ### Русский
 

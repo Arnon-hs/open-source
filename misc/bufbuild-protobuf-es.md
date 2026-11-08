@@ -33,7 +33,9 @@ Misc
 
 **Practical Adoption Path:** To adopt bufbuild/protobuf-es, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. This will help them understand how the library can be integrated into their existing workflows. Once they have a clear understanding of the library's capabilities, they can begin to incorporate it into their projects, starting with small-scale pilots and gradually scaling up to larger deployments.
 
-**Production Readiness:** bufbuild/protobuf-es demonstrates high production readiness, with strong ecosystem signals, recent activity, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bufbuild/protobuf-es).
 
 ### Русский
 

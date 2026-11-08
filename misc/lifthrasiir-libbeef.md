@@ -37,7 +37,9 @@ Misc
 3. **Prototype or Internal Workflow**: Use the Beeg float library for non-critical, internal workflows or prototypes to test its functionality and integration.
 4. **Production-Ready Verification**: Thoroughly evaluate the library's quality signals, license, documentation, issues, and release cadence before considering it for production use.
 
-**Production Readiness**: The Beeg float library is considered medium-ready for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lifthrasiir/libbeef).
 
 ### Русский
 

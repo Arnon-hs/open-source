@@ -44,9 +44,9 @@ To adopt Comfy-Cozy, users can follow these steps:
 3. Ship Model Context Protocol servers to enable standardized integrations.
 4. Integrate Comfy-Cozy with existing workflows and tools.
 
-**Production Readiness:**
+## Before adopting
 
-Comfy-Cozy has a medium production readiness score, indicating that it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JosephOIbrahim/Comfy-Cozy).
 
 ### Русский
 

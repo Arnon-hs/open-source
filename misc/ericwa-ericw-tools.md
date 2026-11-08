@@ -40,7 +40,9 @@ In terms of practical adoption, users should follow these steps:
 3. Validate the setup cost and potential maintenance requirements.
 4. Consider the project's production readiness and dependencies before committing to its use in production environments.
 
-The production readiness of ericwa/ericw-tools is rated as medium, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ericwa/ericw-tools).
 
 ### Русский
 

@@ -44,11 +44,9 @@ To adopt cloudlena/s3manager, follow these steps:
 3. Perform a final review of the project's license, security posture, and active maintainers.
 4. Integrate cloudlena/s3manager into your project, taking advantage of its reusable interface components.
 
-**Production Readiness:**
+## Before adopting
 
-cloudlena/s3manager is considered production-ready due to its:
-
-* Recent activity (last updated on
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cloudlena/s3manager).
 
 ### Русский
 

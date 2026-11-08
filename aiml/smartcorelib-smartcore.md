@@ -41,7 +41,11 @@ To adopt Smartcore, start with a small proof of concept to evaluate its feasibil
 
 **Production Readiness:**
 
-Smartcore is production-ready for a serious pilot due to its strong ecosystem signals, recent activity, and adoption. With 939 GitHub stars, 101 forks, and regular updates, the library demonstrates a healthy and active community. However, a final review of the license, security posture, and active maintainers is still necessary to
+Smartcore is production-ready for a serious pilot due to its strong ecosystem signals, recent activity, and adoption. With 939 GitHub stars, 101 forks, and regular updates, the library demonstrates a healthy and active community.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/smartcorelib/smartcore).
 
 ### Русский
 

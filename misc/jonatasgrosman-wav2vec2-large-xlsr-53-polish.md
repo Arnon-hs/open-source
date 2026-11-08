@@ -33,7 +33,9 @@ Misc
 
 **Practical Adoption Path:** To adopt this project, developers should first manually inspect the model's integration signals and verify its quality signals, including GitHub stars, release cadence, documentation, and issue activity. They should also ensure that the license is compatible with their project's requirements. Once these checks are complete, developers can use the model for prototyping and research purposes, treating it as research material until its production readiness is verified.
 
-**Production Readiness:** The production readiness of this project is uncertain due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-polish).
 
 ### Русский
 

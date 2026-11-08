@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by exploring the example projects and understanding how they are structured and implemented. They can then select the patterns or code snippets that are relevant to their own projects and adapt them to their use cases. This requires manual inspection and potentially some modifications to fit the specific needs of their projects.
 
-**Production Readiness:** The project is deemed production-ready due to its recent activity, strong adoption, and positive ecosystem signals. However, it is essential to conduct a final review of the license, security posture, and active maintainers to ensure that the project meets the necessary standards for
+**Production Readiness:** The project is deemed production-ready due to its recent activity, strong adoption, and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aws-samples/aws-cdk-examples).
 
 ### Русский
 

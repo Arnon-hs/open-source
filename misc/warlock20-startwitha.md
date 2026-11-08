@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt Start with A, users will need to manually inspect the platform, verify its license, maintenance, documentation, issues, and release cadence. This is due to the limited quality signals available. Once verified, users can prototype AI features, build RAG or agent workflows, and evaluate model tooling on the platform. It's recommended to use Start with A for internal workflows or prototypes, rather than production environments, until its production readiness is further established.
 
-**Production Readiness:** The production readiness of Start with A is currently at a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/warlock20/StartWithA).
 
 ### Русский
 

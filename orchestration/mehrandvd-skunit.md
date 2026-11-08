@@ -45,7 +45,10 @@ To adopt skUnit, users can follow these steps:
 Based on the provided information, skUnit demonstrates high production readiness due to:
 
 * Recent activity, indicating ongoing development and maintenance.
-* Strong adoption, with 180 GitHub stars and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mehrandvd/skunit).
 
 ### Русский
 

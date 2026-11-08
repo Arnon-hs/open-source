@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once the harness is integrated into their project, they can use it to prototype AI features, build RAG or agent workflows, and evaluate model tooling. However, it's essential to perform dependency and maintenance checks before using it in production.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it's suitable for use in prototypes or internal workflows. However, before using it in production, developers should conduct a thorough review of the
+**Production Readiness:** The project has a medium production readiness score, indicating that it's suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Prism-Shadow/penguin-harness).
 
 ### Русский
 

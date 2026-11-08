@@ -37,7 +37,9 @@ Misc
 2. **Verify Integration Signals:** Since integration signals are sparse, you'll need to verify the model's compatibility with your project's infrastructure and tools.
 3. **Evaluate Quality Signals:** Review the model's GitHub stars, update history, and primary language to gauge its quality and maintainability.
 
-**Production Readiness:** Due to the project's limited quality signals, unclear maintenance, and sparse documentation, it's recommended to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/google-bert/bert-large-uncased-whole-word-masking-finetuned-squad).
 
 ### Русский
 

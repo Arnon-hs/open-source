@@ -41,7 +41,11 @@ To adopt sualeh/magnetictrackparser, developers should start with a small proof 
 
 **Production Readiness**
 
-The sualeh/magnetictrackparser library has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. While it has received moderate attention from the community (88 GitHub stars and
+The sualeh/magnetictrackparser library has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sualeh/magnetictrackparser).
 
 ### Русский
 

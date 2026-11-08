@@ -43,7 +43,10 @@ Developers interested in adopting Yazelix/nova can follow these steps:
 2. Assess the project's production readiness, including recent activity, adoption, and ecosystem signals.
 3. Review the project's quality signals, including GitHub stars, forks, and updated frequency.
 4. Conduct a final review of potential risks, such as license, security posture, and active maintainers.
-5. Integrate Yazelix/nova into your development workflow, leveraging its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Yazelix/nova).
 
 ### Русский
 

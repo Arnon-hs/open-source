@@ -40,7 +40,10 @@ To adopt posix-regex, follow these steps:
 1. **Manual Inspection:** Carefully review the project's README, activity, and metadata to assess its quality and suitability for your use case.
 2. **Verify Dependencies:** Ensure that the project's dependencies are up-to-date and compatible with your environment.
 3. **Maintenance Checks:** Verify the project's maintenance activity, release cadence, and issue resolution process.
-4. **License and Documentation:** Confirm the project's license and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dawsonhuang0/posix-regex).
 
 ### Русский
 

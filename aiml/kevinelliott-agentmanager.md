@@ -37,7 +37,11 @@ The primary value of AgentManager lies in its ability to streamline the process 
 To adopt AgentManager, developers can start by installing the CLI/TUI application and exploring its features. They can then use the tool to detect and manage AI Agent CLI tools, and install and update them as needed. As they become more familiar with the tool, developers can use AgentManager to build and refine their AI-powered workflows, and evaluate the performance of different model tooling options.
 
 **Production Readiness:**
-AgentManager is considered to be at medium production readiness. While it is useful for prototype development and internal workflows, it may require additional dependency and maintenance checks before it can
+AgentManager is considered to be at medium production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kevinelliott/agentmanager).
 
 ### Русский
 

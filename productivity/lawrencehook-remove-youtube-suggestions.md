@@ -46,7 +46,11 @@ To adopt this project, follow these steps:
 
 **Production Readiness:**
 
-The production readiness of this project is rated as medium. While it has some community engagement and maintenance, the integration path is not immediately obvious from
+The production readiness of this project is rated as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lawrencehook/remove-youtube-suggestions).
 
 ### Русский
 

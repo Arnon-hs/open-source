@@ -39,9 +39,9 @@ The value of Wide Events lies in its ability to empower users to add AI capabili
 
 To adopt Wide Events, users should first manually inspect the project's integration signals and metadata to ensure it meets their specific needs. Next, they should verify the project's license, maintenance, documentation, and release cadence to ensure it is reliable and suitable for production use. With these checks in place, users can begin integrating Wide Events into their Rails infrastructure and exploring its capabilities for prototyping AI features, building RAG or agent workflows, and evaluating model tooling.
 
-**Production Readiness:**
+## Before adopting
 
-Wide Events has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/adammiribyan/wide_events).
 
 ### Русский
 

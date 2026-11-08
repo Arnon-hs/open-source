@@ -38,7 +38,10 @@ Here's a brief summary of the open-source project:
 1. **Manual Inspection:** Carefully review the project's documentation, code, and issues to understand its functionality and limitations.
 2. **Dependency and Maintenance Checks:** Verify the project's dependencies and maintenance requirements to ensure they align with your project's needs.
 3. **Verify License and Quality Signals:** Double-check the project's license, quality signals (e.g., updates, topics), and release cadence to ensure they meet your project's standards.
-4. **Evaluate Use Cases:** Assess the project's use cases and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GCLprimary/PAT).
 
 ### Русский
 

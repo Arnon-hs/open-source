@@ -42,7 +42,10 @@ Developers can adopt the cheshire-cat-ai/core project by following these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to determine its suitability for their use case.
 2. Review the project's documentation and community resources to understand how to integrate it with their existing tools and data.
 3. Experiment with the project by setting up a local environment and testing its functionality.
-4. Contribute to the project by reporting issues, submitting pull requests, or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cheshire-cat-ai/core).
 
 ### Русский
 

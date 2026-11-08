@@ -46,7 +46,11 @@ To adopt Equalizer, users should:
 
 **Production Readiness:**
 
-Equalizer is considered medium-production ready, making it suitable for prototypes or internal workflows. However, before deploying it in production, users should perform dependency and
+Equalizer is considered medium-production ready, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tsirysndr/equalizer).
 
 ### Русский
 

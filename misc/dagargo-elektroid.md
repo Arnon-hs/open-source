@@ -38,7 +38,9 @@ Misc
 3. **Testing and Evaluation:** Test Elektroid in a controlled environment to evaluate its performance and stability.
 4. **Customization and Maintenance:** If necessary, customize Elektroid to fit your project's specific needs and maintain it accordingly.
 
-**Production Readiness:** Elektroid has a medium production readiness score, indicating that it can be useful for prototype or internal workflows but may require additional checks and maintenance before being deployed in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dagargo/elektroid).
 
 ### Русский
 

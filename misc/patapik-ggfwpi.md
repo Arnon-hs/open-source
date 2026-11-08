@@ -39,7 +39,11 @@ Misc
 4. Perform dependency checks and ensure the project is compatible with their development environment.
 5. Conduct thorough testing and validation before integrating GGFWPi into their workflow.
 
-**Production Readiness:** GGFWPi has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, it is not yet ready for widespread adoption in
+**Production Readiness:** GGFWPi has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/patapik/ggfwpi).
 
 ### Русский
 

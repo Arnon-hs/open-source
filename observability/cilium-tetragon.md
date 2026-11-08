@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt cilium/tetragon, the practical path would involve starting with a small proof of concept to evaluate its feasibility. This should be followed by a thorough review of the project's README and documentation to understand its capabilities and limitations. Once the project is deemed suitable, organizations can begin to integrate it into their existing infrastructure and test its performance in a production environment.
 
-**Production Readiness:** cilium/tetragon has a high production readiness score, indicating that it is suitable for serious pilots. The project has recent activity, adoption, and ecosystem signals that are strong enough to warrant its
+**Production Readiness:** cilium/tetragon has a high production readiness score, indicating that it is suitable for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cilium/tetragon).
 
 ### Русский
 

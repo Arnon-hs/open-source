@@ -37,7 +37,11 @@ Vengi's value proposition lies in its ability to accelerate AI development by pr
 To adopt Vengi, start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. This will help you understand the tool's capabilities and potential integration points. Once you're satisfied with the potential, you can begin integrating Vengi into your project, taking advantage of its recent activity and strong ecosystem signals.
 
 **Production Readiness:**
-Vengi is considered production-ready due to its strong adoption (1,382 GitHub stars and 109 forks), recent activity (updated on July 17, 2026), and positive ecosystem signals. Its high production readiness score makes it an attractive choice for
+Vengi is considered production-ready due to its strong adoption (1,382 GitHub stars and 109 forks), recent activity (updated on July 17, 2026), and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vengi-voxel/vengi).
 
 ### Русский
 

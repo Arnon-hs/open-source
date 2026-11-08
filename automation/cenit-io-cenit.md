@@ -33,7 +33,11 @@ Automation · Data
 
 **Adoption Path:** To adopt Cenit IO, users should start with a small proof of concept to evaluate its feasibility and understand the integration path. A thorough review of the README is also essential to ensure a smooth setup process. Before committing to production, users should validate the setup cost and perform dependency and maintenance checks to ensure the platform's stability and reliability.
 
-**Production Readiness:** Cenit IO is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, users should exercise caution and perform thorough checks before deploying it in production. This is due to the potential integration complexities and the
+**Production Readiness:** Cenit IO is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, users should exercise caution and perform thorough checks before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cenit-io/cenit).
 
 ### Русский
 

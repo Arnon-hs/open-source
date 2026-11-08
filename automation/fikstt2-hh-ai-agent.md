@@ -67,7 +67,10 @@ fikstt2/hh-ai-agent 的生产可用性较高，主要原因是：
 
 * 频繁的更新和维护活动。
 * 强大的社区支持和采用率。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/fikstt2/hh-ai-agent)。
 
 ## 🧭 Practical evaluation
 

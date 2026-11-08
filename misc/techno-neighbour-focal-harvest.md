@@ -39,9 +39,9 @@ Focal Harvest offers significant value to engineers by automating repetitive tas
 
 To adopt Focal Harvest, users should first conduct a manual inspection to ensure that the tool meets their specific needs and requirements. This involves verifying the license, maintenance, documentation, issues, and release cadence. Once satisfied, users can integrate the tool into their development workflows, starting with prototypes or internal projects, and gradually scaling up to production environments. It is essential to monitor the tool's performance and make adjustments as needed to ensure seamless integration and optimal results.
 
-**Production Readiness:**
+## Before adopting
 
-Focal Harvest has a medium level of production readiness, indicating that
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/techno-neighbour/focal-harvest).
 
 ### Русский
 

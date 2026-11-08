@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the project's value, practical adoptio
 
 **Practical Adoption Path:** To adopt paupino/rust-decimal, developers should start with a small proof of concept and carefully review the README documentation to understand the library's integration path. This will help identify potential setup costs and ensure a smooth integration process. Once the library is integrated, developers can leverage its decimal number implementation to enhance their frontend development workflow.
 
-**Production Readiness:** The production readiness of paupino/rust-decimal is medium, indicating that it's suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/paupino/rust-decimal).
 
 ### Русский
 

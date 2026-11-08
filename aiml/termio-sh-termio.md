@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt Termio, developers can start by exploring its features and capabilities, which can be done through its exposed API/SDK/CLI implementation signals. They can then integrate Termio into their existing workflows and projects, leveraging its support for various AI frameworks. As they become more familiar with the tool, they can evaluate its suitability for production use.
 
-**Production Readiness:** Termio is rated as "Medium" in terms of production readiness, indicating that it is suitable for use in internal workflows or prototypes, but may require additional dependency and maintenance checks before being deployed in production environments. While it has a
+**Production Readiness:** Termio is rated as "Medium" in terms of production readiness, indicating that it is suitable for use in internal workflows or prototypes, but may require additional dependency and maintenance checks before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/termio-sh/termio).
 
 ### Русский
 

@@ -38,7 +38,11 @@ The Hive_review project offers a unique value proposition by helping developers 
 To adopt Hive_review, developers should start by manually inspecting the code, verifying the license, maintenance, documentation, issues, and release cadence. Once these checks are complete, they can experiment with the tool in a prototype or internal workflow environment to test its functionality and identify potential issues. With further testing and refinement, Hive_review can be integrated into production environments, but with caution and ongoing maintenance checks.
 
 **Production Readiness:**
-The production readiness of Hive_review is medium, indicating that it is suitable for use in prototypes or internal workflows, but requires careful evaluation and testing before deployment in production environments. This
+The production readiness of Hive_review is medium, indicating that it is suitable for use in prototypes or internal workflows, but requires careful evaluation and testing before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/metacircu1ar/hive_review).
 
 ### Русский
 

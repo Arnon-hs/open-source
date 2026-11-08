@@ -77,9 +77,9 @@ LvLLM 的生产可用性高，主要原因是：
 * 采用情况：有 388 个 GitHub Star 和 34 个 Fork
 * 生态系统信号：强大 enough 支持严重的试验
 
-但是，仍然需要进行最终的审查，特别是：
+## 采用前检查
 
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/guqiong96/Lvllm)。
 
 ## 🧭 Practical evaluation
 

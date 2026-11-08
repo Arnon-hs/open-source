@@ -41,7 +41,11 @@ To adopt this project, it is essential to manually inspect the code and setup pr
 3. Validating the setup cost and potential dependencies before committing to the project.
 
 **Production Readiness:**
-The production readiness level of this project is moderate, indicating that it is suitable for prototypes or internal workflows. However, before deploying it in a
+The production readiness level of this project is moderate, indicating that it is suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/illusionyy/PS-Game-Patch).
 
 ### Русский
 

@@ -44,9 +44,9 @@ To adopt the Sail RISC-V model, developers should:
 3. Validate the setup cost and potential maintenance requirements before committing to the project.
 4. Carefully evaluate the project's production readiness and perform necessary dependency and maintenance checks before deploying it in production.
 
-**Production Readiness:**
+## Before adopting
 
-The Sail RISC-V model has a medium production readiness score, indicating that it's suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/riscv/sail-riscv).
 
 ### Русский
 

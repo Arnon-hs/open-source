@@ -42,7 +42,11 @@ To adopt compiiile, users can start by:
 4. Integrating compiiile with their existing workflows and systems.
 
 **Production Readiness:**
-While compiiile has shown promise, its production readiness is rated as Medium. This means that it is suitable for prototypes or internal workflows, but requires further evaluation and testing before being deployed in a production environment. Some potential risks, such as license and
+While compiiile has shown promise, its production readiness is rated as Medium. This means that it is suitable for prototypes or internal workflows, but requires further evaluation and testing before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/compiiile/compiiile).
 
 ### Русский
 

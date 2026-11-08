@@ -37,7 +37,11 @@ The project's value proposition is to provide a pre-crafted framework for buildi
 
 **Practical Adoption Path:**
 
-To adopt this project, developers should start by evaluating the README documentation and creating a small proof of concept to test the integration. This will help them understand the setup costs and feasibility of the project. Once they have a clear understanding of the project's requirements and limitations, they can proceed to integrate it into their project. It's essential to validate the setup cost before committing to the project to ensure that
+To adopt this project, developers should start by evaluating the README documentation and creating a small proof of concept to test the integration. This will help them understand the setup costs and feasibility of the project. Once they have a clear understanding of the project's requirements and limitations, they can proceed to integrate it into their project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/selfimproving-agent/Awesome-Self-Improving-Agents).
 
 ### Русский
 

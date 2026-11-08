@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt uw-syfi/TraceLab, developers should start by reviewing the project's documentation and codebase to understand its capabilities and limitations. They should then manually inspect the project's integration signals and metadata to ensure it meets their specific needs. Once they have a clear understanding of the project's potential, they can begin integrating it into their workflow, conducting dependency and maintenance checks before moving to production.
 
-**Production Readiness:** uw-syfi/TraceLab is considered production-ready at a medium level, making it suitable for use in prototypes or internal workflows. However, before deploying it in production, developers should carefully review the project's license, security posture, and active maintainers to ensure it meets their
+**Production Readiness:** uw-syfi/TraceLab is considered production-ready at a medium level, making it suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/uw-syfi/TraceLab).
 
 ### Русский
 

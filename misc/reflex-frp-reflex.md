@@ -37,7 +37,11 @@ The reflex-frp/reflex project offers a valuable proposition for developers looki
 To adopt reflex-frp/reflex, developers should start with a small proof of concept and thoroughly review the README documentation. This will help them understand the integration path and validate the setup cost before committing to the project. With its Haskell primary language and 1115 GitHub stars, the project appears to have a strong foundation and community support.
 
 **Production Readiness:**
-The reflex-frp/reflex project is considered to be at medium production readiness. While it is useful for prototypes or
+The reflex-frp/reflex project is considered to be at medium production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/reflex-frp/reflex).
 
 ### Русский
 

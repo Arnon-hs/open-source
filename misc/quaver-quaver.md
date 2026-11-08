@@ -44,9 +44,9 @@ To adopt Quaver/Quaver, developers can follow these steps:
 3. Check the README documentation for setup instructions and potential dependencies.
 4. Validate the setup cost and potential maintenance requirements before committing to a larger-scale implementation.
 
-**Production Readiness:**
+## Before adopting
 
-Quaver/Quaver is considered medium production-ready, meaning it's suitable for prototypes, internal workflows, or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Quaver/Quaver).
 
 ### Русский
 

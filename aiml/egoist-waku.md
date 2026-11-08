@@ -35,7 +35,11 @@ Here's a brief summary of the egoist/waku project:
 
 **Practical Adoption Path:** To integrate egoist/waku into a project, developers should start with a small proof of concept and thoroughly review the README documentation. This will help them understand the project's architecture, dependencies, and potential risks.
 
-**Production Readiness:** egoist/waku has demonstrated high production readiness, with recent activity, adoption, and ecosystem signals suggesting a strong and stable project. Its recent update on 2026-08-12 and 445 GitHub stars further reinforce its production readiness. However, a final review of the license, security posture, and
+**Production Readiness:** egoist/waku has demonstrated high production readiness, with recent activity, adoption, and ecosystem signals suggesting a strong and stable project. Its recent update on 2026-08-12 and 445 GitHub stars further reinforce its production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/egoist/waku).
 
 ### Русский
 

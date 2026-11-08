@@ -42,7 +42,10 @@ The practical adoption path for minimagick involves:
 Production readiness is medium, indicating that minimagick is suitable for:
 
 1. Prototypes: Miniimagick can be used in prototype development to test image processing capabilities.
-2. Internal workflows: The library can be adopted for internal workflows where image processing is necessary, but thorough dependency and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/minimagick/minimagick).
 
 ### Русский
 

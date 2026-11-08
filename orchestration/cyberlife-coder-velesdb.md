@@ -41,7 +41,11 @@ For practical adoption, we recommend starting with a small proof of concept and 
 
 **Production Readiness:**
 
-VelesDB is considered to be at a medium level of production readiness, making it suitable for prototype development or internal workflows. However, before deploying it in
+VelesDB is considered to be at a medium level of production readiness, making it suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cyberlife-coder/VelesDB).
 
 ### Русский
 

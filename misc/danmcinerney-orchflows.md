@@ -39,7 +39,10 @@ To adopt Orchflows, follow these steps:
 1. **Verify the project's quality signals**: Check the project's license, maintenance status, documentation, issues, and release cadence to ensure it meets your project's requirements.
 2. **Inspect the code and documentation**: Review the project's codebase, documentation, and examples to understand how it works and how to integrate it into your project.
 3. **Test and experiment**: Set up a test environment and experiment with Orchflows to see how it fits into your workflow and development process.
-4. **Integrate into your project**: Once you're satisfied with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DanMcInerney/orchflows).
 
 ### Русский
 

@@ -44,9 +44,9 @@ To adopt colemickens/nixcfg, follow these steps:
 3. Carefully review the dependencies and maintenance requirements to ensure they align with your production environment.
 4. Perform thorough testing and validation before committing to production use.
 
-**Production Readiness**
+## Before adopting
 
-colemickens/nixcfg has a medium production readiness score, indicating that
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/colemickens/nixcfg).
 
 ### Русский
 

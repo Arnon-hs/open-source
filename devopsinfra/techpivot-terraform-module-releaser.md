@@ -37,7 +37,10 @@ DevOps/Infra
 2. **Verify Dependencies**: Verify the project's dependencies and ensure they align with your existing infrastructure and requirements.
 3. **Check Maintenance and Documentation**: Review the project's maintenance history, documentation, and issue tracking to ensure it meets your needs.
 4. **Prototype and Test**: Use the project in a prototype or internal workflow to test its functionality and identify potential issues.
-5. **Production Readiness**: Once the project has been thoroughly tested and validated, it can be considered for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/techpivot/terraform-module-releaser).
 
 ### Русский
 

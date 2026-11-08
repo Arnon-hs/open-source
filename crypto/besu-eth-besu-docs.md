@@ -40,7 +40,10 @@ The value proposition of besu-eth/besu-docs lies in its ability to facilitate th
 To adopt besu-eth/besu-docs, developers can follow these steps:
 
 1. **Evaluate the documentation**: Review the project's documentation to understand its features, limitations, and potential use cases.
-2. **Integrate with Besu**: Expose implementation signals such as API/SDK/CLI, language metadata, or focused topics to integrate besu-eth/besu-docs with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/besu-eth/besu-docs).
 
 ### Русский
 

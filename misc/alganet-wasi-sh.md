@@ -41,7 +41,11 @@ Before adopting Wasi-sh, it is essential to carefully evaluate its quality signa
 
 **Production Readiness:**
 
-Wasi-sh is considered production-ready with medium confidence. While it may be suitable for internal workflows or prototypes, its use in production environments should be carefully evaluated and tested to
+Wasi-sh is considered production-ready with medium confidence.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/alganet/wasi-sh).
 
 ### Русский
 

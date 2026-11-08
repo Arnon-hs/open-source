@@ -41,7 +41,10 @@ To adopt Turbo-Flow, users can follow these steps:
 
 1. **Evaluate the platform**: Review the documentation, explore the APIs, and assess the platform's features and capabilities.
 2. **Set up the environment**: Install the required dependencies, configure the platform, and familiarize yourself with the interface.
-3. **Create a workflow**: Use the platform's tools and features to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/marcuspat/turbo-flow).
 
 ### Русский
 

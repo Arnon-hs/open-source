@@ -38,7 +38,9 @@ Misc
 3. **Evaluate Model Performance**: Developers should evaluate the model's performance in their specific use case to ensure it meets their expectations.
 4. **Integrate with Existing Applications**: Once the model has been verified, developers can integrate it with their existing applications.
 
-**Production Readiness:** The production readiness of this project is uncertain due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B).
 
 ### Русский
 

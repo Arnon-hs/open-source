@@ -43,9 +43,9 @@ To adopt this project, follow these steps:
 2. **Dependency and Maintenance Checks:** Verify that the project's dependencies are up-to-date and that the maintenance schedule is suitable for your project's needs.
 3. **Verify Quality Signals:** Check the project's quality signals, such as updates, topics, and issues, to ensure it is actively maintained and suitable for your project.
 
-**Production Readiness:**
+## Before adopting
 
-While I Contain Multitudes (and Also Three Git Repos) has medium production readiness, it is best suited for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mattstratton/mattstratton-web).
 
 ### Русский
 

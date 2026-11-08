@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path**: To adopt ai-memory-vault, start with a small proof of concept to evaluate its feasibility. Next, carefully review the project's README and GitHub repository to understand its architecture, usage, and potential integration points. Once familiar with the project, consider implementing it in a controlled environment to test its effectiveness.
 
-**Production Readiness**: The project has demonstrated high production readiness, with recent activity, strong adoption (106 GitHub stars and 14 forks), and a healthy ecosystem. However, it's essential to conduct a final review of the
+**Production Readiness**: The project has demonstrated high production readiness, with recent activity, strong adoption (106 GitHub stars and 14 forks), and a healthy ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jaredrhod/ai-memory-vault).
 
 ### Русский
 

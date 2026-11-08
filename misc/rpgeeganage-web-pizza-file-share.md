@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully review the project's README, documentation, and codebase to understand its functionality and potential issues.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements to ensure they align with your development environment and needs.
 3. **Verify License and Quality Signals**: Confirm the project's license, and assess its quality signals, including updates, issues, and release cadence.
-4. **Integration and Testing**: Integrate the project into your workflow and thoroughly test it to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rpgeeganage/web-pizza-file-share).
 
 ### Русский
 

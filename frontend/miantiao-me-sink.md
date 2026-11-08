@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt miantiao-me/Sink, start by evaluating its feasibility through a small proof of concept and checking the README documentation. This will help you understand the integration path and potential setup costs. Once you're comfortable with the project, you can commit to piloting it, leveraging its AI capabilities to enhance your project's functionality.
 
-**Production Readiness:** With 6900 GitHub stars, 4857 forks, and recent activity, miantiao-me/Sink demonstrates strong production readiness. Its recent update (2026-07-11) indicates ongoing maintenance and support, making it a
+**Production Readiness:** With 6900 GitHub stars, 4857 forks, and recent activity, miantiao-me/Sink demonstrates strong production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/miantiao-me/Sink).
 
 ### Русский
 

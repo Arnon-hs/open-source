@@ -41,7 +41,11 @@ To adopt Mautrix/Signal, start by evaluating its feasibility through a small pro
 
 **Production Readiness:**
 
-Mautrix/Signal is considered production-ready due to its recent activity, strong adoption, and robust ecosystem. With 666 GitHub stars and 89 forks, the project has a significant following and is actively maintained. Its primary language is Go, and
+Mautrix/Signal is considered production-ready due to its recent activity, strong adoption, and robust ecosystem. With 666 GitHub stars and 89 forks, the project has a significant following and is actively maintained.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mautrix/signal).
 
 ### Русский
 

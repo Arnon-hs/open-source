@@ -39,7 +39,9 @@ In terms of production readiness, Rcarmo/Memento is rated as medium due to the f
 * The need for manual inspection and verification of the project's quality and reliability.
 * The project's potential for use in prototypes or internal workflows, but not yet suitable for production environments without thorough checks.
 
-However, with proper evaluation and maintenance, Rcarmo/Memento can be
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rcarmo/memento).
 
 ### Русский
 

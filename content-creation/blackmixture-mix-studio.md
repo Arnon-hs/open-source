@@ -42,8 +42,9 @@ To adopt Mix-Studio, follow these steps:
 4. Use Mix-Studio for prototypes or internal workflows to test its capabilities and identify potential issues.
 5. Gradually scale up the adoption of Mix-Studio across the organization, ensuring that dependencies and maintenance requirements are properly addressed.
 
-**Production Readiness:**
-Mix-Studio has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/BlackMixture/Mix-Studio).
 
 ### Русский
 

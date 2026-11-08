@@ -33,7 +33,11 @@ Crypto · Productivity · Frontend · Backend · Mobile
 
 **Practical Adoption Path:** To adopt pegaltier/awesome-utils-dev, developers can start by evaluating the tools and resources listed in the project. They can begin with a small proof of concept, as suggested, and review the README documentation to ensure the tools align with their needs. Once satisfied, developers can integrate the selected tools into their projects, leveraging the project's open implementation details.
 
-**Production Readiness:** pegaltier/awesome-utils-dev exhibits high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong and stable project. The project's 304 GitHub stars, 85 forks, and frequent updates (last updated on
+**Production Readiness:** pegaltier/awesome-utils-dev exhibits high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong and stable project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pegaltier/awesome-utils-dev).
 
 ### Русский
 

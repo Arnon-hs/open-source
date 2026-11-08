@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** Before adopting this project, users should perform a manual inspection to verify the license, maintenance, documentation, issues, and release cadence. This will help ensure that the project meets their specific needs and is well-maintained. Once verified, users can integrate the project into their workflows, starting with prototypes or internal projects to test its effectiveness. As they gain confidence in the project's capabilities, they can gradually scale its adoption to production environments.
 
-**Production Readiness:** The project has a medium level of production readiness, making it suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wtcross/hfcache).
 
 ### Русский
 

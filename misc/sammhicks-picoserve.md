@@ -35,7 +35,9 @@ Here's a brief summary of the sammhicks/picoserve project:
 
 **Practical Adoption Path:** To adopt sammhicks/picoserve, developers should manually inspect the project's code and documentation to understand its integration path and potential setup costs. This may involve reviewing the project's GitHub repository, reading its documentation, and testing its functionality to ensure it meets their specific needs. Once comfortable with the project's usage, developers can integrate it into their development workflow and start building their product UIs more efficiently.
 
-**Production Readiness:** sammhicks/picoserve is considered production-ready with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sammhicks/picoserve).
 
 ### Русский
 

@@ -40,7 +40,10 @@ To adopt Anansi, developers should follow these steps:
 1. Carefully review the project's documentation and codebase to ensure it aligns with their project requirements.
 2. Verify the project's license, maintenance, documentation, issue tracking, and release cadence to ensure it meets their needs.
 3. Perform thorough testing and evaluation of Anansi in a non-production environment to assess its stability and performance.
-4. Once satisfied with the results, integrate Anansi into their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/g-33-L/anansi).
 
 ### Русский
 

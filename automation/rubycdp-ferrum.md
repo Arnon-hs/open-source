@@ -40,7 +40,10 @@ Ferrum provides significant value to users by automating manual operations, savi
 1. **Evaluate Ferrum**: Assess the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to determine its suitability for your needs.
 2. **Review Integration**: Evaluate the integration process to ensure it aligns with your existing tools and workflows.
 3. **Test and Pilot**: Implement Ferrum in a controlled environment to test its functionality and identify any potential issues.
-4. **Scale and Refine**: Once Ferrum is proven to work, scale its implementation and refine the integration as needed to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rubycdp/ferrum).
 
 ### Русский
 

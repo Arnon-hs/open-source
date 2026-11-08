@@ -76,7 +76,10 @@ OrinIDE v1.0.9 的价值在于它可以帮助开发者在不从零开始建立�
 OrinIDE v1.0.9 的生产可用性为中等。它适用于以下场景：
 
 * 内部开发和测试
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/nandandas2407-web/orin-ide)。
 
 ## 🧭 Practical evaluation
 

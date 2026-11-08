@@ -43,7 +43,10 @@ To adopt chatboxai/chatbox, follow these steps:
 2. Assess its production readiness by reviewing its recent activity, adoption, and ecosystem signals.
 3. Review its license, security posture, and active maintainers to ensure it meets your project's requirements.
 4. Test the project in a controlled environment to ensure it meets your needs.
-5. Integrate chatboxai/chatbox into your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/chatboxai/chatbox).
 
 ### Русский
 

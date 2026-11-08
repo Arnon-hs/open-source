@@ -40,7 +40,10 @@ As for the practical adoption path, here are the key steps:
 Regarding production readiness, faust-streaming/faust has demonstrated strong signals, including:
 
 * **Recent activity**: The project has been updated as recently as July 2026, indicating active maintenance and development.
-* **Adoption**: With
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/faust-streaming/faust).
 
 ### Русский
 

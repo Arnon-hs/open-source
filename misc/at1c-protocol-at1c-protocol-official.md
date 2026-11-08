@@ -42,7 +42,10 @@ To adopt AT1C, developers should follow a cautious approach:
 1. **Manual inspection**: Carefully review the project's implementation details, documentation, and issue history to ensure its quality and reliability.
 2. **Dependency and maintenance checks**: Verify the project's dependencies and maintenance cadence to ensure they align with your project's requirements.
 3. **Verify license and terms**: Confirm the project's license and terms of use to ensure they comply with your project's needs.
-4. **Prototype and test**: Use AT1C to build a prototype or test a specific use case to evaluate its effectiveness and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/at1c-protocol/at1c-protocol-official/blob/main/docs/README.md).
 
 ### Русский
 

@@ -38,7 +38,9 @@ Security
 3. **Prototype or inspect workflows**: Utilize the library's open implementation details to prototype or inspect blockchain workflows, gaining a deeper understanding of the underlying mechanics.
 4. **Refine and customize**: Modify the library's behavior or add custom features to suit your project's specific requirements.
 
-**Production Readiness:** The library has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PeculiarVentures/PKI.js).
 
 ### Русский
 

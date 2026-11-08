@@ -33,7 +33,11 @@ DevTools
 
 **Practical Adoption Path:** To adopt PlasmaFAIR/fortitude, developers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and ensure a smooth onboarding process. Once familiar with the tool, developers can begin incorporating it into their projects, starting with prototype AI features and RAG or agent workflows.
 
-**Production Readiness:** While PlasmaFAIR/fortitude has shown promise, its production readiness is rated medium due to several factors. Before deploying the tool in a production environment, developers should conduct thorough dependency and maintenance checks to
+**Production Readiness:** While PlasmaFAIR/fortitude has shown promise, its production readiness is rated medium due to several factors.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PlasmaFAIR/fortitude).
 
 ### Русский
 

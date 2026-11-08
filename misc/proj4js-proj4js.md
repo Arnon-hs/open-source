@@ -39,9 +39,9 @@ The primary value proposition of proj4js/proj4js lies in its ability to simplify
 
 To adopt proj4js/proj4js, teams should start by evaluating its feasibility through a small proof of concept and carefully reviewing the README documentation. This will help identify potential integration challenges and ensure that the library meets their specific needs. Once validated, teams can integrate the library into their applications, taking care to validate the setup costs and perform necessary dependency and maintenance checks before committing to production.
 
-**Production Readiness**
+## Before adopting
 
-proj4js/proj4js is considered production-ready with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/proj4js/proj4js).
 
 ### Русский
 

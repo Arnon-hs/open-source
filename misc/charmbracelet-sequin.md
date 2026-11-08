@@ -35,7 +35,11 @@ Here's a brief summary of the charmbracelet/sequin project:
 
 **Practical Adoption Path:** To adopt charmbracelet/sequin, developers can start by exploring its documentation and examples to understand how to integrate it into their existing projects. They should also perform manual inspection of the project's metadata and dependencies to ensure a smooth integration process. Once familiar with the project, developers can start using it in their prototypes or internal workflows.
 
-**Production Readiness:** charmbracelet/sequin has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows but requires further review and validation before being used in production environments. This is due to the need for manual inspection and dependency checks, as well as a
+**Production Readiness:** charmbracelet/sequin has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows but requires further review and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/charmbracelet/sequin).
 
 ### Русский
 

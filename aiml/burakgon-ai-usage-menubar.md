@@ -42,7 +42,10 @@ To adopt this project, users should follow these steps:
 1. **Verify the license and terms**: Ensure that the project's license and terms comply with your organization's policies.
 2. **Check maintenance and documentation**: Verify that the project is actively maintained and has sufficient documentation.
 3. **Evaluate quality signals**: Assess the project's quality signals, including its update history, issues, and release cadence.
-4. **Test and integrate**: Manually inspect and test the project before integrating it into your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/burakgon/ai-usage-menubar).
 
 ### Русский
 

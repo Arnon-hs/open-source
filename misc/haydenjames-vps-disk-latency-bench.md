@@ -39,7 +39,10 @@ To adopt this project, users should follow a cautious approach:
 1. **Verify the license**: Ensure that the project's license is compatible with your organization's licensing requirements.
 2. **Check maintenance and documentation**: Review the project's maintenance history, documentation, and issue tracking to ensure it aligns with your needs.
 3. **Evaluate release cadence**: Assess the project's release frequency and stability to determine if it meets your production requirements.
-4. **Test and validate**: Perform thorough testing and validation to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/haydenjames/VPS-Disk-Latency-Bench).
 
 ### Русский
 

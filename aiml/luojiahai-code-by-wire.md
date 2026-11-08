@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical adoption path:** To adopt **luojiahai/code-by-wire**, developers can start by reviewing the README and conducting a small proof-of-concept integration. This will help them understand the project's architecture and potential integration challenges. Once comfortable with the project's structure, developers can proceed to integrate it into their applications, following best practices for dependency management and security.
 
-**Production readiness:** While **luojiahai/code-by-wire** is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/luojiahai/code-by-wire).
 
 ### Русский
 

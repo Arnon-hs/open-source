@@ -38,7 +38,10 @@ Here's a brief summary of the open-source project mlc-ai/xgrammar:
 1. **Manual Inspection:** Before adopting mlc-ai/xgrammar, it's essential to manually inspect the project to understand its architecture, dependencies, and potential integration points.
 2. **Validate Setup Cost:** Validate the setup cost and potential maintenance requirements to ensure they align with your project's needs.
 3. **Evaluate Use Cases:** Evaluate the project's use cases and determine whether they align with your goals and requirements.
-4. **Integration and Testing:** Once you've validated the project, integrate it into your workflow and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mlc-ai/xgrammar).
 
 ### Русский
 

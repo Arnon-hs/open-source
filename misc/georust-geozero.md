@@ -38,7 +38,10 @@ The practical adoption path involves several steps:
 1. **Manual inspection**: Carefully review the project's documentation and code to understand its integration process and potential limitations.
 2. **Setup validation**: Assess the setup cost and feasibility of implementing georust/geozero in your specific use case.
 3. **Dependency checks**: Ensure that the project's dependencies are compatible with your existing infrastructure and can be maintained in the long term.
-4. **Testing and iteration**: Test the project in a controlled environment and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/georust/geozero).
 
 ### Русский
 

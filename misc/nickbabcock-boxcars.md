@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the value, adoption path, and producti
 
 **Adoption Path:** To adopt nickbabcock/boxcars, developers should first manually inspect the project's README and activity to ensure it matches their specific workflow requirements. After that, they should carefully evaluate the integration process, as the project's metadata may not provide a clear indication of how to integrate it into their existing infrastructure. This may involve validating the setup cost and potential maintenance requirements before committing to the project.
 
-**Production Readiness:** Nickbabcock/boxcars is considered to be at a medium level of production readiness, making it suitable for use in prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nickbabcock/boxcars).
 
 ### Русский
 

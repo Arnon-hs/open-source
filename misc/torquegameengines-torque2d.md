@@ -41,7 +41,11 @@ Torque2D 4.0 Early Access 3 is an open-source project that offers a development 
 
 **Production Readiness:**
 
-Torque2D 4.0 Early Access 3 has a medium production readiness rating, indicating it can be useful for prototypes or internal workflows but requires careful evaluation before deployment in production environments. This means it's not yet suitable for large-scale or critical applications, but it can be
+Torque2D 4.0 Early Access 3 has a medium production readiness rating, indicating it can be useful for prototypes or internal workflows but requires careful evaluation before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TorqueGameEngines/Torque2D/releases/tag/v4.0-ea3).
 
 ### Русский
 

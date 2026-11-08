@@ -46,7 +46,11 @@ To adopt Barista, developers can follow these steps:
 
 **Production Readiness:**
 
-Barista is considered production-ready with medium readiness. While it is useful for prototypes or internal workflows, it requires dependency and maintenance checks before being used in production environments. Additionally, a final review of the
+Barista is considered production-ready with medium readiness. While it is useful for prototypes or internal workflows, it requires dependency and maintenance checks before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pstuart/Barista).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary of the project and its key aspects:
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating its feasibility through a small proof-of-concept and reviewing the README documentation. As the project is built on Go and has a strong adoption rate, it is feasible to integrate it into existing workflows. However, careful consideration of license, security posture, and maintainership is essential before scaling up the adoption.
 
-**Production Readiness:** The project exhibits high production readiness due to recent activity, strong adoption, and a robust ecosystem. With 421 GitHub stars and 71 forks, it has a significant following and a well-maintained codebase. The primary language, Go, is also a
+**Production Readiness:** The project exhibits high production readiness due to recent activity, strong adoption, and a robust ecosystem. With 421 GitHub stars and 71 forks, it has a significant following and a well-maintained codebase.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mercuretechnologies/expo-open-ota).
 
 ### Русский
 

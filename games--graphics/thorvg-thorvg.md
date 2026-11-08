@@ -41,7 +41,11 @@ To adopt thorvg, teams should start by evaluating its feasibility through a smal
 
 **Production Readiness**
 
-Thorvg is considered production-ready, with a high score for an open-source project. Its recent activity, adoption, and ecosystem signals demonstrate a strong foundation for a serious pilot. With 1669 GitHub stars, 215 forks, and
+Thorvg is considered production-ready, with a high score for an open-source project. Its recent activity, adoption, and ecosystem signals demonstrate a strong foundation for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/thorvg/thorvg).
 
 ### Русский
 

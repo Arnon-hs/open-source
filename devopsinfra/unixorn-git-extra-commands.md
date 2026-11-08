@@ -46,7 +46,10 @@ To adopt unixorn/git-extra-commands, users can follow these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to determine its relevance to their needs.
 2. Review the project's documentation, tutorials, and articles to understand its capabilities and limitations.
 3. Integrate the project's utilities and scripts into their development workflow to streamline their Git operations.
-4. Use the project as a reference for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/unixorn/git-extra-commands).
 
 ### Русский
 

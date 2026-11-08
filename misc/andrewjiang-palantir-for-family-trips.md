@@ -37,7 +37,11 @@ The value of this project lies in its ability to provide a structured and data-d
 To adopt this project, users should first manually inspect the code and documentation to ensure it meets their specific needs. This includes verifying the license, maintenance, documentation, issues, and release cadence. Once verified, users can integrate the project into their workflow, starting with a prototype or internal pilot to test its feasibility and effectiveness.
 
 **Production Readiness:**
-The production readiness of this project is medium, indicating that it is suitable for use in certain contexts, such as prototypes or internal workflows, but may require additional checks and validation before being deployed in production environments. This is due to the limited quality signals and
+The production readiness of this project is medium, indicating that it is suitable for use in certain contexts, such as prototypes or internal workflows, but may require additional checks and validation before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/andrewjiang/palantir-for-family-trips).
 
 ### Русский
 

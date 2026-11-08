@@ -41,8 +41,9 @@ To adopt DeepSeek-ArcDesk, developers can follow these steps:
 3. Integrate the project into their existing workflow or develop a new one around it.
 4. Test and refine the integration to ensure seamless communication between AI assistants and tools.
 
-**Production Readiness:**
-DeepSeek-ArcDesk is rated as "Medium" in terms of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/P1ouson/deepseek-ArcDesk).
 
 ### Русский
 

@@ -43,7 +43,10 @@ The Smorodov/Multitarget-tracker project exhibits high production readiness due 
 
 * **Recent activity**: The project has been updated recently (2026-07-15), indicating active maintenance.
 * **Strong adoption**: The project has 2407 GitHub stars and 672 forks, demonstrating a significant user base.
-* **Robust ecosystem signals**: The project's adoption and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Smorodov/Multitarget-tracker).
 
 ### Русский
 

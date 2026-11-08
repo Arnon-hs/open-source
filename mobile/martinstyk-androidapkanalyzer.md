@@ -41,7 +41,11 @@ To adopt MartinStyk/AndroidApkAnalyzer, users can start by evaluating the tool t
 
 **Production Readiness**
 
-MartinStyk/AndroidApkAnalyzer has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, before deploying the tool in
+MartinStyk/AndroidApkAnalyzer has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MartinStyk/AndroidApkAnalyzer).
 
 ### Русский
 

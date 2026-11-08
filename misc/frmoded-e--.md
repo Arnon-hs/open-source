@@ -49,7 +49,10 @@ To adopt E– –, users should:
 E– – is considered medium production-ready, making it suitable for:
 
 1. Prototype development: E– – can be used as a proof-of-concept or to test ideas before investing in a more robust solution.
-2. Internal workflows: The project can be
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/frmoded/e--).
 
 ### Русский
 

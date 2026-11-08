@@ -66,7 +66,10 @@ Woolverine94/biniou 的生产可用性较高，主要原因是：
 
 * 有近 1.2k 个 GitHub 星标和 133 个分支
 * 最近有更新活动
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/Woolverine94/biniou)。
 
 ## 🧭 Practical evaluation
 

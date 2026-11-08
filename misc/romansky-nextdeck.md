@@ -35,7 +35,11 @@ Here's a brief summary and an explanation of the project's value, adoption path,
 
 **Practical Adoption Path:** To adopt this project, developers should first manually inspect the code and dependencies to ensure they meet their project's requirements. They should also verify the license, maintenance, documentation, issues, and release cadence of the project before using it. Once they're satisfied with the project's quality, they can integrate it into their workflow, starting with prototypes or internal projects.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it's useful for prototypes or internal workflows but may require additional checks and dependencies before it's ready for production use. Despite its limited quality signals, the project has been updated recently and has a
+**Production Readiness:** The project has a medium production readiness score, indicating that it's useful for prototypes or internal workflows but may require additional checks and dependencies before it's ready for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/romansky/nextdeck).
 
 ### Русский
 

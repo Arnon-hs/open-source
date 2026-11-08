@@ -35,7 +35,9 @@ Here's a brief summary and an explanation of the project's value, adoption path,
 
 **Adoption Path:** To adopt this project, developers should start by manually inspecting the code and metadata to ensure it aligns with their specific use case. They should also review the license, security posture, and active maintainers to ensure the project meets their standards. Once they've evaluated the project, they can integrate it into their workflow, taking note of the sparse integration signals in the metadata. This may require additional dependency and maintenance checks before production.
 
-**Production Readiness:** The project has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ethereum/consensus-specs).
 
 ### Русский
 

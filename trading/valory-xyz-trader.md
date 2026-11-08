@@ -39,7 +39,10 @@ To adopt valory-xyz/trader in a practical setting, we recommend the following st
 1. **Evaluate and validate**: Conduct a thorough review of the project's documentation, code, and dependencies to ensure it meets your requirements.
 2. **Develop a proof of concept**: Create a small-scale implementation to test the project's feasibility and functionality.
 3. **Perform dependency and maintenance checks**: Carefully review the project's dependencies and maintenance requirements to ensure they align with your production environment.
-4. **Integrate and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/valory-xyz/trader).
 
 ### Русский
 

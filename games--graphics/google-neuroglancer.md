@@ -35,7 +35,9 @@ Here's a brief summary and analysis of the open-source project google/neuroglanc
 
 **Practical Adoption Path:** To adopt google/neuroglancer, users should begin by manually inspecting the project's code and documentation to ensure it meets their specific needs. Given the project's medium production readiness, it's recommended to perform dependency and maintenance checks before integrating it into production environments. This involves reviewing the project's license, security posture, and the presence of active maintainers to ensure a stable and secure implementation.
 
-**Production Readiness:** While google/neuroglancer is not yet ready for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/google/neuroglancer).
 
 ### Русский
 

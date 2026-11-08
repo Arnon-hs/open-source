@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, users should start with a small proof of concept and carefully review the README to ensure it aligns with their specific needs. This will help evaluate the project's feasibility and identify any potential integration challenges. Once the proof of concept is successful, users can proceed with a more extensive integration, keeping in mind the need for dependency and maintenance checks before production.
 
-**Production Readiness:** The project is considered medium-production-ready, making it suitable for prototypes or internal workflows. However, users should exercise caution and conduct thorough reviews of the license, security posture, and active maintainers before deploying it in
+**Production Readiness:** The project is considered medium-production-ready, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/petersulyok/smfc).
 
 ### Русский
 

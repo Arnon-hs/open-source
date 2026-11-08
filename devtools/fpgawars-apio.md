@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt FPGAwars/apio, teams can start by evaluating its integration signals, such as API/SDK/CLI, language metadata, or focused topics. This process appears to be straightforward, making it accessible to a wide range of users. Once evaluated, teams can begin to integrate the project into their existing infrastructure, leveraging its capabilities to standardize service patterns and improve development efficiency.
 
-**Production Readiness:** FPGAwars/apio is considered production-ready, thanks to its recent activity, adoption, and strong ecosystem signals. With over 992 GitHub stars and 159 forks, the project has a significant following and is actively maintained. However, teams should still conduct a
+**Production Readiness:** FPGAwars/apio is considered production-ready, thanks to its recent activity, adoption, and strong ecosystem signals. With over 992 GitHub stars and 159 forks, the project has a significant following and is actively maintained.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/FPGAwars/apio).
 
 ### Русский
 

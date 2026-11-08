@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt xing61/zzz-api, users can start with a small proof of concept and review the project's README documentation. The project's recent activity, adoption, and ecosystem signals indicate that it's feasible to evaluate and integrate into production environments. However, it's essential to conduct a final review of the license, security posture, and active maintainers to ensure a smooth adoption process.
 
-**Production Readiness:** With 979 GitHub stars, 82 forks, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xing61/zzz-api).
 
 ### Русский
 
@@ -66,7 +68,10 @@ xing61/zzz-api 有很高的生产可用性，理由如下：
 
 *   更新频率高：最近更新时间为 2026-08-02。
 *   Adoption 和生态系统信号强：GitHub 上有 979 个星星和 82 个 fork。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/xing61/zzz-api)。
 
 ## 🧭 Practical evaluation
 

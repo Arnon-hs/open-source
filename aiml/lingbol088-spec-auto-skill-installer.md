@@ -35,7 +35,11 @@ Here's a summary of the project:
 
 **Practical Adoption Path:** To adopt this project, users should first review the project's metadata, inspecting the integration signals and dependencies to ensure a smooth adoption process. Once reviewed, users can integrate the tool into their workflow, leveraging its capabilities to add AI capabilities without starting from a blank model stack.
 
-**Production Readiness:** The project has medium production readiness, making it suitable for internal workflows or prototypes. However, users should conduct thorough dependency and maintenance checks before deploying the tool in a production environment. This will help mitigate potential risks and ensure a
+**Production Readiness:** The project has medium production readiness, making it suitable for internal workflows or prototypes. However, users should conduct thorough dependency and maintenance checks before deploying the tool in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lingbol088-spec/auto-skill-installer).
 
 ### Русский
 

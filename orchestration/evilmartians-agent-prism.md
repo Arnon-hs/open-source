@@ -46,7 +46,10 @@ To adopt Agent-Prism, follow these steps:
 1. **Evaluate the project**: Assess the project's documentation, code quality, and community engagement.
 2. **Start with a small proof of concept**: Integrate Agent-Prism into a small project to gauge its feasibility and understand its capabilities.
 3. **Review the README and documentation**: Ensure you understand the project's requirements, dependencies, and configuration options.
-4. **Pilot the project**: Test Agent-Prism in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/evilmartians/agent-prism).
 
 ### Русский
 

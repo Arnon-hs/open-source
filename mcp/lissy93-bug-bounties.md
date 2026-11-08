@@ -41,7 +41,11 @@ To adopt this project, developers can start by evaluating its API and SDK, langu
 
 **Production Readiness:**
 
-The project's production readiness is high due to recent activity, adoption, and ecosystem signals. With
+The project's production readiness is high due to recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lissy93/bug-bounties).
 
 ### Русский
 

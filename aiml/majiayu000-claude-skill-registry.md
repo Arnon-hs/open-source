@@ -69,7 +69,10 @@ majiayu000/claude-skill-registry 的生产可用性为中等。它适用于以�
 
 * 内部工作流
 * 快速 prototyping
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/majiayu000/claude-skill-registry)。
 
 ## 🧭 Practical evaluation
 

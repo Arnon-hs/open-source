@@ -44,9 +44,9 @@ To adopt Docx-CLI, developers should:
 3. Perform manual inspection and testing to evaluate the tool's performance and integration compatibility.
 4. Consider using Docx-CLI in prototype or internal workflows before scaling it to production.
 
-**Production Readiness:**
+## Before adopting
 
-Docx-CLI is considered "medium" in terms of production readiness, indicating that it is suitable for prototype development, internal workflows, or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kklimuk/docx-cli).
 
 ### Русский
 

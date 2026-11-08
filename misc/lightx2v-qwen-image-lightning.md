@@ -41,7 +41,11 @@ To adopt this project, it's essential to conduct a manual inspection to verify i
 
 **Production Readiness**
 
-The production readiness of lightx2v/Qwen-Image-Lightning is currently classified as "Early or Unclear." This means that while the project has potential, it should be treated as research material until its
+The production readiness of lightx2v/Qwen-Image-Lightning is currently classified as "Early or Unclear."
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/lightx2v/Qwen-Image-Lightning).
 
 ### Русский
 

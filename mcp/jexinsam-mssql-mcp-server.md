@@ -43,7 +43,10 @@ To adopt JexinSam/mssql_mcp_server, follow these steps:
 2. Assess the project's production readiness by checking dependencies and maintenance requirements.
 3. Consider the project's security posture and license terms to ensure they align with your organization's needs.
 4. Develop a prototype or proof of concept to test the MCP server's capabilities.
-5. Once satisfied with the project's performance and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JexinSam/mssql_mcp_server).
 
 ### Русский
 

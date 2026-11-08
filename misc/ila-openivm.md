@@ -39,9 +39,9 @@ The primary value of this project lies in its ability to simplify the process of
 
 To adopt this project, users will need to manually inspect the integration before use, as the available metadata is sparse. This involves verifying the license, maintenance, documentation, issues, and release cadence of the project. Once these checks are complete, users can integrate the project into their existing systems and begin leveraging its AI capabilities. This project is suitable for prototype development, internal workflows, or small-scale production environments.
 
-**Production Readiness**
+## Before adopting
 
-The production readiness of this
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ila/openivm).
 
 ### Русский
 

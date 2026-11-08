@@ -44,9 +44,9 @@ To adopt this project, teams can follow these steps:
 3. Integrate the project into the team's workflow, starting with internal testing and prototyping.
 4. Once validated, consider integrating the project into production, while monitoring its performance and maintaining its dependencies.
 
-**Production Readiness:**
+## Before adopting
 
-imarvinle/chatgpt-plus-tutorial has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/imarvinle/chatgpt-plus-tutorial).
 
 ### Русский
 

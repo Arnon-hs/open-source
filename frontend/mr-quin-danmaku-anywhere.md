@@ -36,8 +36,9 @@ The primary value proposition of Mr-Quin/danmaku-anywhere lies in its ability to
 **Practical Adoption Path:**
 To adopt Mr-Quin/danmaku-anywhere, developers should start with a small proof of concept and carefully review the project's README documentation. This will help them evaluate the software's feasibility and identify potential integration challenges. Once the proof of concept is successful, developers can begin integrating the software into their projects, taking into account dependency and maintenance checks to ensure smooth production readiness.
 
-**Production Readiness:**
-The project's production readiness is rated as medium, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Mr-Quin/danmaku-anywhere).
 
 ### Русский
 

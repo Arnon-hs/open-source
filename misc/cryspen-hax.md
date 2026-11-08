@@ -33,7 +33,11 @@ Cryspen/hax is a Rust-based verification tool that simplifies data management by
 
 The value proposition of cryspen/hax lies in its ability to streamline data management, making it an attractive option for teams looking to develop database-backed applications. The tool's use cases include managing persistence, speeding up data access, and prototyping database-backed apps. However, its integration path is not immediately obvious from the metadata, which may require additional effort to set up correctly.
 
-In terms of production readiness, cryspen/hax is considered medium-ready. This means that it is useful for prototypes or internal workflows, but it may not be suitable for production environments without thorough validation and dependency checks. The tool's quality signals, including its GitHub stars and recent updates, suggest that it is actively maintained and has a dedicated community. However, the risks associated with its integration path and
+In terms of production readiness, cryspen/hax is considered medium-ready. This means that it is useful for prototypes or internal workflows, but it may not be suitable for production environments without thorough validation and dependency checks. The tool's quality signals, including its GitHub stars and recent updates, suggest that it is actively maintained and has a dedicated community.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cryspen/hax).
 
 ### Русский
 

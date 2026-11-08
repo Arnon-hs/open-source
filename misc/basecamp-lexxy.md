@@ -38,7 +38,10 @@ basecamp/lexxy is an open-source, modern rich text editor designed for Rails, en
 2. Conduct a manual inspection of the codebase to identify potential integration challenges and areas that require customization.
 3. Validate the setup cost and potential maintenance requirements before committing to production use.
 4. Develop a prototype or proof-of-concept using basecamp/lexxy to evaluate its suitability for the project's needs.
-5. Refine and iterate on
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/basecamp/lexxy).
 
 ### Русский
 

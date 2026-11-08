@@ -39,9 +39,9 @@ The project's value proposition lies in its ability to facilitate the developmen
 
 To adopt this project, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then assess its production readiness, considering factors like recent activity, adoption, and ecosystem signals. Once satisfied with the project's quality and security posture, developers can integrate it into their projects, utilizing its secure JWT implementation to build and inspect blockchain workflows.
 
-**Production Readiness:**
+## Before adopting
 
-The project's production readiness is high, with strong signals of recent activity, adoption, and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jedisct1/rust-jwt-simple).
 
 ### Русский
 

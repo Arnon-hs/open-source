@@ -42,7 +42,11 @@ To adopt qazzxxx/cloudimgs, start with a small proof of concept and carefully re
 4. Consider the project's production readiness and adjust your deployment strategy accordingly.
 
 **Production Readiness:**
-With a medium production readiness score, qazzxxx/cloudimgs is best suited for prototype development or internal workflows. Before deploying it in production, conduct thorough dependency and maintenance checks to
+With a medium production readiness score, qazzxxx/cloudimgs is best suited for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/qazzxxx/cloudimgs).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Evaluate the code:** Start by reviewing the project's README and evaluating its feasibility for your use case.
 2. **Build a small proof of concept:** Create a basic implementation to test the project's functionality and dependencies.
 3. **Assess dependencies and maintenance:** Evaluate the project's dependencies and maintenance requirements before considering production readiness.
-4. **Integrate with your existing stack:** Once you have a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dmarro89/go-dav-os).
 
 ### Русский
 

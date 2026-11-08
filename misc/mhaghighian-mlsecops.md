@@ -37,7 +37,11 @@ Misc
 2. **Build RAG or agent workflows:** Apply the knowledge gained from the guide to build robust workflows for AI agents.
 3. **Evaluate model tooling:** Assess and compare different model tooling options using the guide's recommendations.
 
-**Production Readiness:** The production readiness of this project is classified as Medium. While it is useful for prototypes or internal workflows, it requires thorough dependency and maintenance checks before deployment in a production environment. This is due to the limited quality signals and the need for manual inspection and verification of
+**Production Readiness:** The production readiness of this project is classified as Medium. While it is useful for prototypes or internal workflows, it requires thorough dependency and maintenance checks before deployment in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MHaghighian/MLSecOps).
 
 ### Русский
 

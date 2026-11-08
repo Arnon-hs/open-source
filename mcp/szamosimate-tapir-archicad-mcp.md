@@ -36,8 +36,9 @@ The value of SzamosiMate/tapir-archicad-MCP lies in its ability to turn isolated
 **Practical Adoption Path**
 To adopt SzamosiMate/tapir-archicad-MCP, start by evaluating its feasibility through a small proof of concept and reviewing the project's README. Once you've assessed the project's potential, you can integrate it into your existing workflow. Begin with a prototype or internal project to test the project's capabilities and work through any dependencies or maintenance issues.
 
-**Production Readiness**
-SzamosiMate/tapir-archicad-MCP has a medium production readiness score, making it suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SzamosiMate/tapir-archicad-MCP).
 
 ### Русский
 

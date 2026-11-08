@@ -37,7 +37,11 @@ Misc
 2. **Verify Quality Signals**: Carefully evaluate the project's quality signals, including license, maintenance, documentation, issues, and release cadence, to assess its reliability and stability.
 3. **Integration and Testing**: Once you've vetted the project, integrate Soppo into your development environment and thoroughly test its features and performance.
 
-**Production Readiness:** Due to the limited quality signals and sparse integration signals, Soppo is considered "Medium" in terms of production readiness. It's best suited for prototype development, internal workflows, or proof-of-concept projects, where the risks of using an
+**Production Readiness:** Due to the limited quality signals and sparse integration signals, Soppo is considered "Medium" in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/halcyonnouveau/soppo).
 
 ### Русский
 

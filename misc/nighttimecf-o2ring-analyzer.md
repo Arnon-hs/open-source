@@ -38,9 +38,9 @@ As for the practical adoption path, here are the steps:
 3. **Testing**: Run the tool on a small scale to test its functionality and identify any potential issues.
 4. **Integration**: Integrate the tool into your development workflow, starting with a small pilot project or proof-of-concept.
 
-Regarding production readiness, the project is rated as "Medium" due to the following reasons:
+## Before adopting
 
-* It's useful for prototypes or internal workflows where speed and agility are
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nighttimecf/o2ring-analyzer).
 
 ### Русский
 

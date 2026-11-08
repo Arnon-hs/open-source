@@ -48,7 +48,9 @@ cmontage/mas-cn is considered production-ready with medium readiness due to its:
 * Medium-quality signals, including 1162 GitHub stars and 106 forks
 * Updated language (Batchfile) and topics
 
-However, its integration path is not obvious from metadata, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cmontage/mas-cn).
 
 ### Русский
 

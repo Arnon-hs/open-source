@@ -43,7 +43,10 @@ To adopt amimof/node-cert-exporter, users should follow these steps:
 2. Manually inspect the project's metadata, including its license, security posture, and active maintainers, to assess its risks and reliability.
 3. Integrate the exporter with Prometheus, a popular monitoring and alerting tool, to collect and visualize certificate data.
 4. Configure alerts and notifications to respond to changes in certificate status or other relevant metrics.
-5. Perform dependency and maintenance checks to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/amimof/node-cert-exporter).
 
 ### Русский
 

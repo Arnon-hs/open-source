@@ -37,7 +37,11 @@ The primary value of vstorm-co/pydantic-ai-todo lies in its ability to turn isol
 To adopt this project, start with a small proof of concept to evaluate its feasibility and understand the integration process. Review the README documentation and perform a dependency and maintenance check before considering production deployment. This project is suitable for prototypes or internal workflows where the benefits of its features outweigh the potential risks and complexity.
 
 **Production Readiness:**
-vstorm-co/pydantic-ai-todo is considered medium production-ready. While it has shown potential with 73 GitHub stars and 17 forks, further review of its license, security posture, and active maintainers is necessary before deploying it in
+vstorm-co/pydantic-ai-todo is considered medium production-ready.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vstorm-co/pydantic-ai-todo).
 
 ### Русский
 

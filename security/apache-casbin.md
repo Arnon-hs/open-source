@@ -41,7 +41,11 @@ To adopt Casbin, developers can start by evaluating its feasibility through a sm
 
 **Production Readiness:**
 
-Apache Casbin has demonstrated high production readiness, with recent activity, strong adoption, and a robust ecosystem. Its primary language, Go, ensures efficient and scalable performance. With
+Apache Casbin has demonstrated high production readiness, with recent activity, strong adoption, and a robust ecosystem. Its primary language, Go, ensures efficient and scalable performance.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/apache/casbin).
 
 ### Русский
 

@@ -36,7 +36,10 @@ Misc
 1. **Manual Inspection:** Before adopting the DETR-ResNet-50 model, developers should manually inspect the code and documentation to ensure it meets their project requirements.
 2. **Evaluate Quality Signals:** Assess the model's quality signals, such as GitHub stars, updates, and primary language, to gauge its reliability and maintainability.
 3. **Verify Integration and Documentation:** Carefully review the integration information and documentation to ensure seamless adoption and troubleshooting.
-4. **Prototype and Test:** Use the DETR-ResNet-50 model to prototype AI features and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/facebook/detr-resnet-50).
 
 ### Русский
 

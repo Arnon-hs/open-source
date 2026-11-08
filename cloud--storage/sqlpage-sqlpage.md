@@ -38,7 +38,11 @@ The main value proposition of sqlpage/SQLPage lies in its ability to help develo
 To adopt sqlpage/SQLPage, developers can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. While the integration path may not be immediately obvious, recent activity, adoption, and ecosystem signals suggest that it is a viable option for serious pilots. It is essential to validate the setup cost before committing to the project.
 
 **Production Readiness:**
-sqlpage/SQLPage is considered production-ready, with strong signals of recent activity, adoption, and ecosystem support. Its recent update (2026-07-06) and high GitHub star count (2522) indicate a healthy and active community. However, developers should be aware of
+sqlpage/SQLPage is considered production-ready, with strong signals of recent activity, adoption, and ecosystem support. Its recent update (2026-07-06) and high GitHub star count (2522) indicate a healthy and active community.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sqlpage/SQLPage).
 
 ### Русский
 

@@ -50,7 +50,10 @@ Based on the provided data, semantic-release/github is considered production-rea
 
 * 531 GitHub stars and 150 forks, indicating strong adoption.
 * Recent activity, with the last update being in 2026-08-08.
-* A primary language of JavaScript and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/semantic-release/github).
 
 ### Русский
 

@@ -37,8 +37,9 @@ mydisha/keirouter offers a pre-built AI gateway that saves developers time and e
 Practical Adoption Path:
 To adopt mydisha/keirouter, developers should start by evaluating the project's feasibility through a small proof of concept and reviewing the project's README documentation. Once familiar with the project's capabilities and limitations, developers can integrate keirouter into their existing workflows, taking care to address any dependencies and maintenance considerations.
 
-Production Readiness:
-mydisha/keirouter has a medium production readiness, making it suitable for internal workflows or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mydisha/keirouter).
 
 ### Русский
 

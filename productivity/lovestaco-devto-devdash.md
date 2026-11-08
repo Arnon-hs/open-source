@@ -40,7 +40,11 @@ The project's value lies in its ability to provide a simple, terminal-based inte
 To adopt this project, developers should manually inspect the code, check the license, maintenance, documentation, issues, and release cadence to ensure it meets their needs and is reliable. This project may be suitable for prototypes or internal workflows, but further evaluation is necessary before production use.
 
 **Production Readiness:**
-The project has a medium production readiness score due to its limited quality signals and the need for manual inspection before adoption. While it may be useful for simple use cases, developers should exercise caution and perform thorough checks before integrating it into
+The project has a medium production readiness score due to its limited quality signals and the need for manual inspection before adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lovestaco/devto_devdash).
 
 ### Русский
 

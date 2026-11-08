@@ -42,7 +42,10 @@ To adopt Forge Orchestrator, users can follow these steps:
 1. Evaluate the integration process by exploring the exposed implementation signals (API/SDK/CLI, language metadata, and focused topics).
 2. Assess the tool's production readiness, considering factors such as recent activity, adoption, and ecosystem signals.
 3. Review the license, security posture, and active maintainers to ensure a stable and secure adoption.
-4. Integrate Forge Orchestrator into existing workflows, leveraging its features to standardize agent memory and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nxtg-ai/forge-orchestrator).
 
 ### Русский
 
@@ -74,7 +77,10 @@ Forge Orchestrator 具有较高的生产可用性，主要原因是：
 
 * 近期活跃：项目最近有活跃的维护和更新。
 * adoption：项目有较多的用户和采用者。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/nxtg-ai/forge-orchestrator)。
 
 ## 🧭 Practical evaluation
 

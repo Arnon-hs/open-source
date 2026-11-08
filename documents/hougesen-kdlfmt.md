@@ -39,7 +39,9 @@ The practical adoption path involves the following steps:
 2. Conduct a small proof of concept to assess the project's feasibility and potential benefits.
 3. Thoroughly check the project's dependencies and maintenance requirements before committing to production use.
 
-The production readiness of hougesen/kdlfmt is rated as medium, indicating that while it is suitable for prototype development, internal workflows, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hougesen/kdlfmt).
 
 ### Русский
 

@@ -38,8 +38,9 @@ The primary value proposition of mysociety/alaveteli lies in its ability to simp
 **Practical Adoption Path:**
 To adopt mysociety/alaveteli, teams should start with a small proof of concept and carefully review the README documentation to understand the integration path. This will help identify potential risks and validate the setup cost before committing to a full-scale integration. A thorough evaluation of the project's dependencies and maintenance requirements is also essential to ensure its production readiness.
 
-**Production Readiness:**
-mysociety/alaveteli has a medium production readiness score, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mysociety/alaveteli).
 
 ### Русский
 

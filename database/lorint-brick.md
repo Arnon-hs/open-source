@@ -72,9 +72,9 @@ Lorint/Brick 的价值在于，它可以帮助开发者快速构建 AI 相关功
 
 Lorint/Brick 的生产可用性为中等。它适合用于快速构建内部工作流或原型，但在生产环境中需要进行额外的依赖和维护检查。
 
-**注意事项**
+## 采用前检查
 
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/lorint/brick)。
 
 ## 🧭 Practical evaluation
 

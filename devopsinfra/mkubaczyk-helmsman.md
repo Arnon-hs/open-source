@@ -67,7 +67,10 @@ mkubaczyk/helmsman 的生产可用性较高，主要原因是：
 
 1. 最近的活跃度：项目最近有更新。
 2. 适用范围：项目有足够的采用和生态系统信号。
-3.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/mkubaczyk/helmsman)。
 
 ## 🧭 Practical evaluation
 

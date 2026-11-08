@@ -39,7 +39,9 @@ Practical Adoption Path:
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies, maintenance status, and release cadence to ensure it's stable and reliable.
 3. **Verify Quality Signals**: Check the project's license, documentation, issues, and release cadence to ensure it meets your standards.
 
-Production Readiness: The project has a medium production readiness score, indicating that it's suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rodneyosodo/esp32-wifi-dongle).
 
 ### Русский
 

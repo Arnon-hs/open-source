@@ -44,9 +44,9 @@ To adopt this project, developers can start by:
 3. Conducting a manual inspection of the project's code and dependencies before adopting it in production.
 4. Integrating the project into their existing workflow and testing its functionality.
 
-**Production Readiness:**
+## Before adopting
 
-The project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows, but may require additional checks and validation before being used in
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/23Star/xianyu-super-butler).
 
 ### Русский
 

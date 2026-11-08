@@ -41,7 +41,10 @@ To adopt paneflow, developers can follow these steps:
 
 1. Evaluate the project's GitHub repository and documentation to understand its features, implementation signals, and potential risks.
 2. Assess the project's production readiness and consider its suitability for prototype development or internal workflows.
-3. Review the project's license, security posture, and maintainers to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ArthurDEV44/paneflow).
 
 ### Русский
 

@@ -44,9 +44,9 @@ To adopt koltyakov/sp-rest-proxy, developers can follow these steps:
 3. Set up the proxy in a local development environment to test its functionality.
 4. Integrate the proxy into existing development workflows to reuse interface components and improve frontend delivery.
 
-**Production Readiness:**
+## Before adopting
 
-The koltyakov/sp-rest-proxy project has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/koltyakov/sp-rest-proxy).
 
 ### Русский
 

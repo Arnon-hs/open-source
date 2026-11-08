@@ -67,7 +67,10 @@ Show HN: PocketLens 是一个开源项目，提供了通过 Plaid 实现的免�
 **注意事项**:
 
 * 质量信号有限，需要仔细检查许可证、维护、文档、问题和发布频率等信息。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/PocketLens/pocketlens-app)。
 
 ## 🧭 Practical evaluation
 

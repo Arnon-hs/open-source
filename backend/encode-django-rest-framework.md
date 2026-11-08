@@ -42,7 +42,11 @@ To adopt Django REST framework, developers can follow these steps:
 4. Use the built-in tools and features to test, document, and deploy the API
 
 **Production Readiness:**
-Django REST framework is highly production-ready due to its strong ecosystem and recent activity. With
+Django REST framework is highly production-ready due to its strong ecosystem and recent activity.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/encode/django-rest-framework).
 
 ### Русский
 

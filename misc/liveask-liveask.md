@@ -45,7 +45,11 @@ To adopt liveask/liveask, users should start by:
 
 **Production Readiness:**
 
-liveask/liveask is considered "medium" production readiness, making it suitable for prototypes or internal workflows. However, users should perform thorough dependency and maintenance checks before committing to production use. This is due to the project's somewhat unclear integration path and the need to
+liveask/liveask is considered "medium" production readiness, making it suitable for prototypes or internal workflows. However, users should perform thorough dependency and maintenance checks before committing to production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/liveask/liveask).
 
 ### Русский
 

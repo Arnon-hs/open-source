@@ -46,7 +46,11 @@ To adopt this project, users should:
 
 **Production Readiness:**
 
-Due to limited quality signals and sparse integration metadata, the production readiness of this project is uncertain. It is recommended to treat it as research material until maintenance, releases, documentation, and issue activity are verified. A GitHub star count of
+Due to limited quality signals and sparse integration metadata, the production readiness of this project is uncertain. It is recommended to treat it as research material until maintenance, releases, documentation, and issue activity are verified.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/nomic-ai/nomic-embed-text-v1).
 
 ### Русский
 

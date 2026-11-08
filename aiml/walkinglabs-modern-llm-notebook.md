@@ -37,7 +37,11 @@ The walkinglabs/modern-llm-notebook provides significant value to developers and
 
 **Practical Adoption Path:**
 
-To adopt this project, developers should start by evaluating its feasibility through a small proof of concept and checking the README documentation. This will help them understand the integration path and validate the setup cost before committing to a larger implementation. Once the feasibility is established, developers can use the 26 runnable Notebooks to build and customize their own LLMs according to
+To adopt this project, developers should start by evaluating its feasibility through a small proof of concept and checking the README documentation. This will help them understand the integration path and validate the setup cost before committing to a larger implementation.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/walkinglabs/modern-llm-notebook).
 
 ### Русский
 

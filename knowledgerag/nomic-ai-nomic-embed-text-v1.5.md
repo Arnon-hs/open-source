@@ -39,7 +39,10 @@ To adopt nomic-ai/nomic-embed-text-v1.5, follow these steps:
 1. **Manual Inspection**: Carefully review the project's code, documentation, and issue history to ensure it meets your requirements.
 2. **Verify Quality Signals**: Check the project's GitHub stars, last update date, and primary language to gauge its popularity and maintainability.
 3. **Verify License and Maintenance**: Confirm the project's license and maintenance status to ensure it aligns with your organization's needs.
-4. **Test and Integrate**: Integrate the model into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5).
 
 ### Русский
 

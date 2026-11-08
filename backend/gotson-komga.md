@@ -42,7 +42,10 @@ To adopt Komga, developers can follow these steps:
 1. Evaluate Komga's API and SDK documentation to understand how to integrate it into their project.
 2. Choose the desired features and functionalities from Komga's extensive set of supported formats and protocols.
 3. Integrate Komga into their project using the provided implementation signals, such as API calls or CLI commands.
-4. Customize Komga to meet their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gotson/komga).
 
 ### Русский
 

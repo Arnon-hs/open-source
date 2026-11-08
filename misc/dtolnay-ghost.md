@@ -37,8 +37,9 @@ The value proposition of dtolnay/ghost lies in its ability to offer an open impl
 **Practical Adoption Path:**
 To adopt dtolnay/ghost, users need to manually inspect the project's metadata and validate its setup cost before committing to its use. This process requires technical expertise and a thorough understanding of blockchain workflows. Once validated, users can leverage the project to build Web3 workflows, inspect blockchain integrations, and prototype wallet or DeFi features.
 
-**Production Readiness:**
-The production readiness of dtolnay/ghost is medium, indicating that it is suitable for prototypes or internal workflows but may not be
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dtolnay/ghost).
 
 ### Русский
 

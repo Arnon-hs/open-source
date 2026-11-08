@@ -33,7 +33,11 @@ Here's a brief summary of the midudev/codi.link project:
 
 **Value:** The primary value proposition of midudev/codi.link lies in its ability to streamline the development process by providing a pre-built sandbox for AI-related tasks. This allows developers to focus on building and testing AI features without investing time in setting up a blank model stack. The tool's versatility makes it an attractive solution for various use cases, including prototyping, workflow development, and model evaluation.
 
-**Practical Adoption Path:** To adopt midudev/codi.link, developers should begin by manually inspecting the project's code and metadata to understand its integration path and potential setup costs. This involves reviewing the GitHub repository, documentation, and community feedback to gauge the tool's stability and usability. Once the developer has a clear understanding of the project's capabilities and limitations, they can proceed with
+**Practical Adoption Path:** To adopt midudev/codi.link, developers should begin by manually inspecting the project's code and metadata to understand its integration path and potential setup costs. This involves reviewing the GitHub repository, documentation, and community feedback to gauge the tool's stability and usability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/midudev/codi.link).
 
 ### Русский
 

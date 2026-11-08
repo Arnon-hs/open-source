@@ -41,7 +41,11 @@ To integrate rqbit into your development workflow, we recommend starting with a 
 
 **Production Readiness:**
 
-rqbit has a moderate level of production readiness, scoring 63/100. While it is suitable for prototypes or internal workflows, it requires further evaluation and
+rqbit has a moderate level of production readiness, scoring 63/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ikatson/rqbit).
 
 ### Русский
 

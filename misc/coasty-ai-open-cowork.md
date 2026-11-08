@@ -43,7 +43,10 @@ To adopt Open-Cowork, follow these steps:
 2. **Verify License**: Confirm that the project's license aligns with your organization's requirements.
 3. **Set up Dependencies**: Install and configure the necessary dependencies for Open-Cowork.
 4. **Integrate Tools and Models**: Use Open-Cowork's API to integrate your chosen tools and models into a workflow.
-5. **Test and Refine**: Thoroughly test the workflow and refine it as needed to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/coasty-ai/open-cowork).
 
 ### Русский
 

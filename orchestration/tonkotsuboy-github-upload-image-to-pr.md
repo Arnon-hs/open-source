@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, developers will need to carefully inspect the integration process and validate the setup cost before committing to its use. This is due to the sparse integration signals in the discovered metadata, which may require manual effort to resolve. Once the setup is complete, the project can be used to automate tasks such as uploading local images to a GitHub PR.
 
-**Production Readiness:** The project is considered production-ready with medium readiness, indicating that it is suitable for use in prototypes or internal workflows. However, it is recommended to perform dependency and maintenance checks before deploying it in a production environment. This
+**Production Readiness:** The project is considered production-ready with medium readiness, indicating that it is suitable for use in prototypes or internal workflows. However, it is recommended to perform dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tonkotsuboy/github-upload-image-to-pr).
 
 ### Русский
 

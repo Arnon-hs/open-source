@@ -37,7 +37,10 @@ As for the practical adoption path, here's a step-by-step guide:
 2. **Assess the project's metadata**: Perform a manual inspection to ensure the parser meets your project's needs and integrates smoothly.
 3. **Evaluate the project's dependencies**: Check for any potential conflicts or maintenance issues with the parser's dependencies.
 4. **Test the parser**: Integrate the parser into your project and test its functionality to ensure it meets your requirements.
-5. **Monitor the project's activity**: Keep an eye on the project's updates, security patches, and community engagement to ensure its continued maintenance and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/alvarlagerlof/rsc-parser).
 
 ### Русский
 

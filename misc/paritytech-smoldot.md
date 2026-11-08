@@ -37,7 +37,10 @@ Here's a brief summary and explanation of the project:
 
 1. **Evaluate the API and SDK**: Developers can start by exploring the exposed API and SDK of paritytech/smoldot to understand its capabilities and limitations.
 2. **Prototype AI features**: With a basic understanding of the API and SDK, developers can begin building and testing their AI features, such as RAG or agent workflows.
-3. **Evaluate model tooling**: As part of the adoption process, developers can also evaluate the model tooling provided by paritytech/smoldot to determine its suitability for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/paritytech/smoldot).
 
 ### Русский
 

@@ -43,7 +43,10 @@ To adopt this project, follow these steps:
 2. **Verify Integration**: Test the project's integration with your specific tools and workflows to ensure seamless connectivity.
 3. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements to ensure they align with your organization's standards.
 4. **Prototype Development**: Use the project in a prototype environment to test its efficacy and identify potential issues.
-5. **Internal Workflow Adoption**: Once the project has been thoroughly tested and validated, adopt it in your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/carllippert/lots_of_agents).
 
 ### Русский
 

@@ -40,7 +40,9 @@ Here's a brief summary and explanation of the project:
 3. Set up and configure Demolab according to their specific use cases, such as building RAG or agent workflows.
 4. Test and evaluate Demolab's performance and stability before integrating it into production.
 
-**Production Readiness:** Demolab is considered production-ready with medium readiness due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/eoinmurray/demolab).
 
 ### Русский
 

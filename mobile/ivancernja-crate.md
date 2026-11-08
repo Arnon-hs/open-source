@@ -37,7 +37,9 @@ Mobile
 2. **Dependency and Maintenance Checks**: Perform thorough checks on the project's dependencies, maintenance cadence, and documentation to ensure it meets your production standards.
 3. **Verify Quality Signals**: Verify the project's quality signals, including its license, release cadence, and issue tracking, to ensure it's reliable and well-maintained.
 
-**Production Readiness:** Crate is considered medium-production-ready, meaning it can be useful for prototypes or internal workflows, but requires careful inspection and maintenance checks before deployment in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ivancernja/crate).
 
 ### Русский
 

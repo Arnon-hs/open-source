@@ -41,7 +41,11 @@ To adopt GanttProject, users should start by carefully evaluating its README and
 
 **Production Readiness:**
 
-GanttProject is considered production-ready with a medium level of readiness. While it can be useful for prototypes or internal workflows, it may not be suitable for production environments without further evaluation and validation of its dependencies and maintenance requirements. Users should carefully assess the project's quality signals, such as its GitHub stars and forks, to ensure it meets their
+GanttProject is considered production-ready with a medium level of readiness. While it can be useful for prototypes or internal workflows, it may not be suitable for production environments without further evaluation and validation of its dependencies and maintenance requirements.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bardsoftware/ganttproject).
 
 ### Русский
 

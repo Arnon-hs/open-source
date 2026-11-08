@@ -35,7 +35,11 @@ Here is a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by pulling the Docker image from the official repository and configuring it to suit their specific security needs. The project's straightforward API and CLI interface make it easy to integrate with existing workflows and tooling. Additionally, the project's recent activity and strong adoption signals indicate that it is well-maintained and widely used, reducing the risk of adoption.
 
-**Production Readiness:** The project is highly production-ready, with a strong ecosystem of adopters, recent activity, and a high-quality codebase. The project's recent update on
+**Production Readiness:** The project is highly production-ready, with a strong ecosystem of adopters, recent activity, and a high-quality codebase.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/crazy-max/docker-fail2ban).
 
 ### Русский
 

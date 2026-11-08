@@ -33,7 +33,11 @@ DevOps/Infra
 
 **Practical Adoption Path:** To adopt Triton Control, organizations should first manually inspect the project to ensure it meets their specific needs and requirements. This involves verifying the license, maintenance, documentation, issues, and release cadence. Once these factors are evaluated, developers can integrate Triton Control into their existing Kubernetes environment, following the project's documentation and guidelines.
 
-**Production Readiness:** Triton Control has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows, but may require additional evaluation and testing before being deployed in production environments. This is due to the limited quality signals and
+**Production Readiness:** Triton Control has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows, but may require additional evaluation and testing before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ai-lab-tech/triton-control).
 
 ### Русский
 

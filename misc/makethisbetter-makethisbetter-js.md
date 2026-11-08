@@ -43,7 +43,11 @@ To adopt this project, developers should:
 4. Perform dependency and maintenance checks before considering production deployment.
 
 **Production Readiness:**
-The project has medium production readiness, making it suitable for internal workflows or prototypes. However, careful evaluation and testing are necessary before deploying it in a production environment due to
+The project has medium production readiness, making it suitable for internal workflows or prototypes.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/makethisbetter/makethisbetter-js).
 
 ### Русский
 

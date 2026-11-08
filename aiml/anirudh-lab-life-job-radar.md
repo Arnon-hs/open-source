@@ -38,7 +38,10 @@ The practical adoption path for JobRadar involves the following steps:
 1. Review the project's documentation and code to understand its architecture and functionality.
 2. Evaluate the model tooling and dependencies required by JobRadar to ensure they align with your project's needs.
 3. Perform manual inspection of the integration signals to ensure they meet your requirements.
-4. Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it's suitable for your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ANIRudH-lab-life/job-radar).
 
 ### Русский
 

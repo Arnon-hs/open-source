@@ -42,7 +42,10 @@ To adopt Tynx, developers should:
 1. Review the project's documentation and issues to understand its capabilities and limitations.
 2. Verify the project's license, maintenance, and release cadence to ensure it aligns with their project's needs.
 3. Inspect the code and integrate Tynx into their project, taking note of any dependencies and potential conflicts.
-4. Test and evaluate Tynx in a controlled environment before deploying it in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/blaind/tynx/).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully review the project's README, documentation, and activity to ensure it matches your specific workflow and needs.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies, license, maintenance, documentation, issues, and release cadence to ensure stability and support.
 3. **Prototype or Internal Workflow**: Use the project in a controlled environment, such as a prototype or internal workflow, to test its effectiveness and identify potential issues.
-4. **Production Readiness**: After thorough testing and validation, consider deploying the project in a production environment, ensuring that it meets your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/g-berthiaume/effective_concurrency).
 
 ### Русский
 

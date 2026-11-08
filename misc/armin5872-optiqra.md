@@ -41,7 +41,10 @@ To adopt OptiQra, follow these steps:
 1. Verify the license, maintenance, documentation, issue tracking, and release cadence to ensure the project's stability and support.
 2. Conduct a manual inspection of the platform to understand its functionality and integration requirements.
 3. Evaluate the platform's suitability for your specific use case, considering factors such as scalability, performance, and compatibility with your existing infrastructure.
-4. Integrate OptiQra into your project, following the provided documentation and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/armin5872/OptiQra).
 
 ### Русский
 

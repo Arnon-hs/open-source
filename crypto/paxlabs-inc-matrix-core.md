@@ -36,8 +36,9 @@ The primary value proposition of Matrix Core lies in its ability to facilitate t
 **Practical Adoption Path:**
 To adopt Matrix Core, developers should start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. Given its medium production readiness, it's essential to conduct dependency and maintenance checks before deploying the framework in production. The framework's Go programming language and 11 topics suggest a robust and maintainable structure, but further review of the license, security posture, and active maintainers is necessary.
 
-**Production Readiness:**
-While Matrix Core has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/paxlabs-inc/matrix-core).
 
 ### Русский
 

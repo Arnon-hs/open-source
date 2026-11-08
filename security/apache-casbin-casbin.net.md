@@ -36,8 +36,9 @@ The primary value of Apache Casbin-Casbin.NET lies in its ability to help develo
 **Practical Adoption Path:** 
 To adopt Apache Casbin-Casbin.NET, developers should start with a small proof of concept and thoroughly review the README documentation to understand the integration path. The library's integration process may not be immediately obvious, so it's essential to validate the setup cost before committing to a full-scale implementation.
 
-**Production Readiness:** 
-Apache Casbin-Casbin.NET exhibits strong signals of production readiness, including recent activity, adoption (with 1330 GitHub stars and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/apache/casbin-Casbin.NET).
 
 ### Русский
 

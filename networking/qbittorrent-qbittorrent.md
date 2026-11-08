@@ -44,7 +44,10 @@ qBittorrent is an open-source BitTorrent client that enables developers to strea
 - Strong adoption and ecosystem signals (39493 GitHub stars, 4820 forks).
 - Recent activity (updated 2026-08-16).
 - High-quality language (C++) and focused topics.
-However, a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/qbittorrent/qBittorrent).
 
 ### Русский
 

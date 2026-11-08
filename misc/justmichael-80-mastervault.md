@@ -38,7 +38,10 @@ MasterVault is an open-source project that helps prevent Large Language Model (L
 1. **Manual Inspection**: Carefully review the project's documentation, codebase, and issues to ensure it meets your project's requirements.
 2. **Verify Quality Signals**: Check the project's release cadence, maintenance, and license to ensure it's well-maintained and suitable for your use case.
 3. **Prototype or Internal Workflow**: Use MasterVault in a controlled environment to test its effectiveness and identify potential issues before scaling up.
-4. **Dependency and Maintenance Checks**: Verify that the project's dependencies are up-to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JustMichael-80/MasterVault).
 
 ### Русский
 

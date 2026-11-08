@@ -42,8 +42,9 @@ To adopt this project, users can follow these steps:
 4. Integrate the project into their existing infrastructure, using the exposed API/SDK/CLI.
 5. Configure the project to index their knowledge bases and create a podcast RSS feed.
 
-**Production Readiness:**
-The project has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/madiele/vod2pod-rss).
 
 ### Русский
 

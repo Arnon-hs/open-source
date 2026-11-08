@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** To adopt this project, users can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once familiar with the project's capabilities and limitations, users can integrate it into their existing workflows, starting with small-scale applications and gradually scaling up to more complex use cases.
 
-**Production Readiness:** The project has a moderate level of production readiness, scoring 75/100. While it is useful for prototypes or internal workflows, it requires further evaluation and maintenance checks before it can be deployed in production environments. This includes reviewing the license, security posture, and ensuring that
+**Production Readiness:** The project has a moderate level of production readiness, scoring 75/100. While it is useful for prototypes or internal workflows, it requires further evaluation and maintenance checks before it can be deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tradesdontlie/tradingview-mcp).
 
 ### Русский
 

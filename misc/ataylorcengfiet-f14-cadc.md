@@ -40,7 +40,10 @@ To adopt this project, organizations should follow these steps:
 1. Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it meets their needs.
 2. Conduct a manual inspection of the code to understand its functionality and potential integration points.
 3. Evaluate the project's quality signals and consider the risks associated with its limited documentation and sparse integration signals.
-4. Assess the project's production readiness and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ATaylorCEngFIET/f14_CADC/).
 
 ### Русский
 

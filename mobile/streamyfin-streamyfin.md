@@ -33,7 +33,11 @@ Mobile
 
 **Practical Adoption Path:** To adopt Streamyfin, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then integrate Streamyfin into their existing projects, taking advantage of its reusable interface components and modern Expo architecture. As with any open-source project, it's essential to review the license, security posture, and active maintainers before finalizing adoption.
 
-**Production Readiness:** Streamyfin has demonstrated a high level of production readiness, with recent activity, strong adoption (5097 GitHub stars, 251 forks), and a robust ecosystem. Its
+**Production Readiness:** Streamyfin has demonstrated a high level of production readiness, with recent activity, strong adoption (5097 GitHub stars, 251 forks), and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/streamyfin/streamyfin).
 
 ### Русский
 

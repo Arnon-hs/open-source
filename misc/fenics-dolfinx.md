@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the open-source project FEniCS/dolfinx
 
 **Practical Adoption Path:** To adopt FEniCS/dolfinx, start by evaluating its README and activity to ensure it matches your specific workflow. Then, begin with a small proof of concept to validate the setup cost and integration path. This will help you gauge the feasibility of using FEniCS/dolfinx in your project.
 
-**Production Readiness:** FEniCS/dolfinx is considered medium production-ready, meaning it is suitable for prototypes or internal workflows, but requires dependency and maintenance checks before it can
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/FEniCS/dolfinx).
 
 ### Русский
 

@@ -45,9 +45,9 @@ The practical adoption path for RustCrypto/utils involves the following steps:
 3. Integration of the utility crates into the project's codebase
 4. Thorough testing and quality assurance
 
-Production readiness for RustCrypto/utils is medium, indicating that it's suitable for:
+## Before adopting
 
-1. Prototyping and proof-of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/RustCrypto/utils).
 
 ### Русский
 

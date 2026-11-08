@@ -37,7 +37,11 @@ The value proposition of raintree-technology/agent-starter lies in its ability t
 
 **Practical Adoption Path:**
 
-To adopt raintree-technology/agent-starter, developers can start by evaluating the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then assess the project's production readiness, license, security posture, and active maintainers. Once evaluated, developers can integrate the project into their existing workflows and tools, and begin to explore its capabilities and potential use cases. The project's high production readiness score and recent activity indicate that it is
+To adopt raintree-technology/agent-starter, developers can start by evaluating the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then assess the project's production readiness, license, security posture, and active maintainers. Once evaluated, developers can integrate the project into their existing workflows and tools, and begin to explore its capabilities and potential use cases.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/raintree-technology/agent-starter).
 
 ### Русский
 

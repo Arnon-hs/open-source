@@ -39,9 +39,9 @@ The primary value of rpgp/rpgp lies in its ability to provide a transparent and 
 
 To adopt rpgp/rpgp, developers should start with a small proof of concept to evaluate the integration path and validate the setup cost. A thorough review of the README documentation is also recommended to understand the project's architecture and dependencies. Once familiar with the project, developers can integrate it into their workflow, leveraging its capabilities to build and inspect blockchain-related features.
 
-**Production Readiness:**
+## Before adopting
 
-rpgp/rpgp has a moderate production readiness score due to its useful features for prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rpgp/rpgp).
 
 ### Русский
 

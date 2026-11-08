@@ -39,9 +39,9 @@ The primary value of Holochain Scaffolding lies in its ability to streamline the
 
 To adopt Holochain Scaffolding, developers can start by evaluating the tool through a small proof of concept and checking the README documentation. This will help them understand the integration path and potential setup costs. Once they have a clear understanding of the tool's capabilities and requirements, they can proceed with integrating it into their project. It's essential to validate the setup cost before committing to a full-scale implementation.
 
-**Production Readiness:**
+## Before adopting
 
-Holochain Scaffolding has a medium production readiness score, indicating that
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/holochain/scaffolding).
 
 ### Русский
 

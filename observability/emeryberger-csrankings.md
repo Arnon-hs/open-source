@@ -45,10 +45,9 @@ To adopt this project, consider the following steps:
 2. Assess the project's license, security posture, and active maintainers to ensure alignment with your organization's needs
 3. Integrate the project into your existing systems and monitor its performance
 
-**Production Readiness:**
-The emeryberger/CSrankings project is considered production-ready due to its:
+## Before adopting
 
-- Recent activity (updated on
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/emeryberger/CSrankings).
 
 ### Русский
 

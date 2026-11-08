@@ -41,7 +41,10 @@ As for the practical adoption path, here's a step-by-step guide:
 Regarding production readiness, Effort Router is best suited for:
 
 * **Prototyping**: Its intelligent effort selection feature can help you explore and refine your workflow ideas.
-* **Internal Workflows**: Effort Router can be a valuable asset for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cfitzgerald-pd/effort-router).
 
 ### Русский
 

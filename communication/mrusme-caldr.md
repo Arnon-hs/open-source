@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** To adopt caldr, developers can start by evaluating its API/SDK/CLI implementation and language metadata. They can then integrate caldr into their existing development workflows, leveraging its TUI calendar functionality to build and test their user interfaces. As they become more familiar with the project, they can explore its customization options and integrate it into their production environments.
 
-**Production Readiness:** While caldr has shown promise as a useful tool for prototypes and internal workflows, its production readiness is currently at a medium level. This is due to the need for further dependency and maintenance checks before it can be confidently deployed in production environments. However, with
+**Production Readiness:** While caldr has shown promise as a useful tool for prototypes and internal workflows, its production readiness is currently at a medium level. This is due to the need for further dependency and maintenance checks before it can be confidently deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mrusme/caldr).
 
 ### Русский
 

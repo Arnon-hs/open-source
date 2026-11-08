@@ -41,7 +41,11 @@ To adopt this project, users should first inspect the integration manually to en
 
 **Production Readiness**
 
-The production readiness of this project is medium. While it may be useful for prototypes or internal workflows, users should exercise caution and thoroughly verify the project's quality signals, including license, maintenance, documentation, issues, and release cadence, before using it in
+The production readiness of this project is medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kaibuildsai/kindle-for-whoop).
 
 ### Русский
 

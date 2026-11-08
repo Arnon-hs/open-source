@@ -37,7 +37,11 @@ The value proposition of bifrost0x/webssh lies in its ability to help users add 
 
 **Practical Adoption Path:**
 
-Adopting bifrost0x/webssh involves a straightforward evaluation process, as it exposes implementation signals such as API/SDK/CLI, language metadata, and focused topics. Users can pilot the project by evaluating its API, SDK, or CLI, and exploring its language metadata and focused topics. With its high production readiness score, bifrost0x/webssh is a viable option for teams and homelabs looking to implement a
+Adopting bifrost0x/webssh involves a straightforward evaluation process, as it exposes implementation signals such as API/SDK/CLI, language metadata, and focused topics. Users can pilot the project by evaluating its API, SDK, or CLI, and exploring its language metadata and focused topics.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bifrost0x/webssh).
 
 ### Русский
 

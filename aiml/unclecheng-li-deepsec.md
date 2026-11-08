@@ -39,7 +39,9 @@ Here's a brief summary and explanation of the project's value, adoption path, an
 2. Building RAG (Risk and Governance) or agent workflows to integrate DeepSec with existing systems.
 3. Evaluating model tooling to identify potential improvements in AI-generated code.
 
-**Production Readiness:** DeepSec has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Unclecheng-li/DeepSec).
 
 ### Русский
 

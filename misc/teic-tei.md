@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt TEIC/TEI, developers should start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and validate the setup cost before committing to a larger-scale implementation. Once the feasibility of integration is established, developers can proceed with integrating TEIC/TEI into their project, taking into account dependency and maintenance checks before moving to production.
 
-**Production Readiness:** With a medium production readiness score, TEIC/TEI is best suited for internal workflows, small-scale projects, or proof-of-concept initiatives. While it can
+**Production Readiness:** With a medium production readiness score, TEIC/TEI is best suited for internal workflows, small-scale projects, or proof-of-concept initiatives.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TEIC/TEI).
 
 ### Русский
 

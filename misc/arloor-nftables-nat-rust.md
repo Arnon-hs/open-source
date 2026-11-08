@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers need to manually inspect the integration process before committing to its use. This involves validating the setup cost and ensuring that the integration path is clear. While the project has a moderate level of production readiness, caution is advised before using it in production environments.
 
-**Production Readiness:** The production readiness of arloor/nftables-nat-rust is rated as "Medium". This means that it is suitable for use in prototypes or internal workflows, but requires careful dependency and maintenance checks before being adopted in production environments. With proper validation and testing, this project can be a
+**Production Readiness:** The production readiness of arloor/nftables-nat-rust is rated as "Medium". This means that it is suitable for use in prototypes or internal workflows, but requires careful dependency and maintenance checks before being adopted in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/arloor/nftables-nat-rust).
 
 ### Русский
 

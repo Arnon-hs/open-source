@@ -39,7 +39,9 @@ DevTools
 4. Integrate the project into your local environment using GNU Stow.
 5. Configure and customize the project to suit your specific needs.
 
-**Production Readiness:** While aspiers/git-config is considered production-ready for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aspiers/git-config).
 
 ### Русский
 

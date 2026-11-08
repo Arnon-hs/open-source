@@ -43,7 +43,9 @@ The practical adoption path for pegainfer-project/pegainfer involves:
 2. Assessing the project's license, security posture, and active maintainers to ensure its suitability for production use.
 3. Integrating the project into existing workflows and evaluating its performance and scalability.
 
-The production readiness of pegainfer-project/pegainfer is high, driven by
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pegainfer-project/pegainfer).
 
 ### Русский
 

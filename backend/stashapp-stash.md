@@ -45,7 +45,9 @@ Here's a brief summary and explanation of the project:
 - Strong ecosystem signals
 - Primary language (Go) ensures stability and performance
 
-However, it's essential to perform a final review of the license, security posture, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/stashapp/stash).
 
 ### Русский
 

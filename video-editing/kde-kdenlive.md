@@ -36,8 +36,9 @@ The value proposition of KDE/kdenlive lies in its ability to add AI capabilities
 **Practical Adoption Path:**
 To adopt KDE/kdenlive, developers should be prepared to perform manual inspection and validation of the integration process, as the integration signals in the metadata are sparse. This may involve some trial and error to ensure a smooth setup and configuration. Before committing to production, it is essential to validate the setup costs and perform dependency and maintenance checks to ensure the project meets the required standards.
 
-**Production Readiness:**
-KDE/kdenlive has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/KDE/kdenlive).
 
 ### Русский
 

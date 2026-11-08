@@ -46,9 +46,9 @@ To adopt dailydotdev/daily-api, developers can follow these steps:
 3. Integrate the project into their application, leveraging its pre-built AI features to build RAG or agent workflows.
 4. Evaluate the project's model tooling and adjust as needed to meet their specific requirements.
 
-**Production Readiness:**
+## Before adopting
 
-The project's high production readiness score indicates that it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dailydotdev/daily-api).
 
 ### Русский
 

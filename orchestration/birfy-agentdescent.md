@@ -37,7 +37,11 @@ The primary value of Birfy/agentdescent lies in its ability to help users coordi
 To adopt Birfy/agentdescent, users should start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and ensure a smooth onboarding process. Once the basics are understood, users can begin to explore the project's capabilities and integrate it into their existing workflows.
 
 **Production Readiness:**
-Birfy/agentdescent has demonstrated high production readiness due to its recent activity, adoption, and strong ecosystem signals. With 101 GitHub stars and 1 fork, the project has a growing community of users and
+Birfy/agentdescent has demonstrated high production readiness due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Birfy/agentdescent).
 
 ### Русский
 

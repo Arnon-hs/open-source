@@ -38,7 +38,9 @@ Misc
 3. **Evaluate Integration:** Assess the project's integration signals and potential interactions with other tools and systems in your workflow.
 4. **Test and Refine:** Test RestoreKit in a controlled environment and refine its configuration as needed to ensure seamless integration with your existing workflows.
 
-**Production Readiness:** RestoreKit's production readiness is rated as medium due to its limited quality signals and potential dependencies that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fcjr/restorekit).
 
 ### Русский
 

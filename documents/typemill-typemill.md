@@ -38,7 +38,11 @@ The primary value proposition of Typemill lies in its ability to simplify the de
 To adopt Typemill, start with a small proof of concept and thoroughly check the README documentation. This will help you understand the integration path and potential setup costs. As the integration path is not immediately obvious from the metadata, it's essential to validate the setup cost before committing to production use.
 
 **Production Readiness:**
-Typemill is considered medium production-ready, meaning it's suitable for prototypes or internal workflows. However, before deploying it in production, you should conduct thorough dependency and maintenance checks to ensure it meets your project's needs and
+Typemill is considered medium production-ready, meaning it's suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/typemill/typemill).
 
 ### Русский
 

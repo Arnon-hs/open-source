@@ -41,7 +41,10 @@ The practical adoption path for lionagi involves:
 Lionagi's production readiness is high due to:
 
 * **Recent Activity**: The project has been updated recently (2026-07-02), indicating active maintenance and development.
-* **Adoption**: The project has
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ohdearquant/lionagi).
 
 ### Русский
 

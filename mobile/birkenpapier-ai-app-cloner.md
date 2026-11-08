@@ -37,7 +37,11 @@ The primary value of this project lies in its ability to accelerate the developm
 To adopt this project, developers should start by manually inspecting the code, verifying the license, maintenance, documentation, issues, and release cadence. This is crucial to ensure the stability and reliability of the tool. Once the risks are mitigated, developers can begin integrating the project into their workflows, starting with prototypes or internal projects before scaling up to production environments.
 
 **Production Readiness:**
-The production readiness of this project is medium, indicating that it can be useful for prototypes or internal workflows after proper evaluation and integration. However, its use in production environments should be approached with caution due to the limited quality signals and potential integration risks. Regular monitoring and maintenance are necessary to
+The production readiness of this project is medium, indicating that it can be useful for prototypes or internal workflows after proper evaluation and integration. However, its use in production environments should be approached with caution due to the limited quality signals and potential integration risks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Birkenpapier/ai-app-cloner).
 
 ### Русский
 

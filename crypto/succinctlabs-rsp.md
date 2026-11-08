@@ -35,7 +35,11 @@ Here's a brief summary of the succinctlabs/rsp project:
 
 **Practical Adoption Path**: To adopt this project, developers should start by familiarizing themselves with the codebase and its dependencies. They should also perform thorough testing and validation to ensure the setup cost and potential risks are manageable. Once comfortable with the code, developers can integrate the succinctlabs/rsp project into their workflows, either by building upon its existing functionality or by modifying it to suit their specific needs.
 
-**Production Readiness**: The project's production readiness is rated as medium, indicating that it is suitable for prototypes or internal workflows but requires careful evaluation and validation before being used in production environments. This is due to
+**Production Readiness**: The project's production readiness is rated as medium, indicating that it is suitable for prototypes or internal workflows but requires careful evaluation and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/succinctlabs/rsp).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt Pinkbin, users should start by evaluating its feasibility through a sma
 
 **Production Readiness:**
 
-Pinkbin has a high production readiness score, indicating that it is well-suited for serious piloting. Recent activity, adoption, and ecosystem signals suggest that the project is actively maintained and has a strong community presence. However, a final review of the
+Pinkbin has a high production readiness score, indicating that it is well-suited for serious piloting. Recent activity, adoption, and ecosystem signals suggest that the project is actively maintained and has a strong community presence.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cccyd2003-qwq/pinkbin).
 
 ### Русский
 

@@ -45,7 +45,11 @@ To adopt Hindsight, developers can follow these steps:
 
 **Production Readiness**
 
-Hindsight is considered medium production-ready, making it suitable for use in prototypes or internal workflows. However, developers should exercise caution and conduct a thorough review of
+Hindsight is considered medium production-ready, making it suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Tomotsugu-dev/Hindsight).
 
 ### Русский
 

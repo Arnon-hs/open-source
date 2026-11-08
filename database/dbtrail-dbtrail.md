@@ -39,9 +39,9 @@ The primary value proposition of this project lies in its ability to add AI capa
 
 To adopt this project, developers should start by manually inspecting the integration signals and metadata to ensure that it meets their specific requirements. They should also verify the license, maintenance, documentation, issues, and release cadence of the project before using it in production. Once these checks are complete, developers can begin to prototype and build AI features and workflows using the integrated PostgreSQL and AI capabilities.
 
-**Production Readiness:**
+## Before adopting
 
-The production readiness of this project is rated as medium, indicating that it is suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dbtrail/dbtrail).
 
 ### Русский
 

@@ -41,7 +41,11 @@ Before adopting GNOME/gparted, users should manually inspect the project's metad
 
 **Production Readiness:**
 
-GNOME/gparted has a medium production readiness score, indicating that it may be suitable for prototypes or internal workflows. However, users should perform dependency and maintenance checks before considering it for production use. This is because the project's integration path is not immediately obvious from the metadata, and users should be
+GNOME/gparted has a medium production readiness score, indicating that it may be suitable for prototypes or internal workflows. However, users should perform dependency and maintenance checks before considering it for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GNOME/gparted).
 
 ### Русский
 

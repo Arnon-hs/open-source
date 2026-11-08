@@ -42,7 +42,10 @@ To adopt appolloqin/gen-txt-to-image, developers can follow these steps:
 1. Evaluate the project's feasibility by reviewing the README and creating a small proof-of-concept.
 2. Assess the project's dependencies and maintenance requirements to ensure they align with the project's needs.
 3. Integrate the project into the existing workflow, starting with a prototype or internal workflow.
-4. Monitor the project's updates and security posture to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/appolloqin/gen-txt-to-image).
 
 ### Русский
 

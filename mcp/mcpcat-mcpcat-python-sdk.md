@@ -41,7 +41,10 @@ To adopt MCPCat/mcpcat-python-sdk, developers can follow these steps:
 
 1. **Evaluate the SDK:** Assess the SDK's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to ensure it meets their project requirements.
 2. **Connect AI agents:** Use the SDK to connect AI agents to various tools and data sources, leveraging the standard protocol to simplify the integration process.
-3. **Ship Model Context Protocol servers:** Deploy MCP servers to facilitate the exchange of
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MCPCat/mcpcat-python-sdk).
 
 ### Русский
 

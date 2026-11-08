@@ -33,7 +33,11 @@ Misc
 
 **Adoption Path:** To adopt GemmaTrans, developers should first review the project's documentation, issues, and release cadence to ensure it meets their needs. Next, they should manually inspect the code and dependencies to ensure compatibility with their existing projects. Once verified, GemmaTrans can be integrated into prototype AI features, RAG or agent workflows, or model tooling evaluations.
 
-**Production Readiness:** GemmaTrans has a medium production readiness score, indicating that while it is useful for prototyping and internal workflows, it may require additional checks and maintenance before being deployed in production environments. This is due to limited quality signals and sparse integration metadata, emphasizing the need for careful inspection and
+**Production Readiness:** GemmaTrans has a medium production readiness score, indicating that while it is useful for prototyping and internal workflows, it may require additional checks and maintenance before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Rand01ph/gemma-trans).
 
 ### Русский
 

@@ -41,7 +41,10 @@ To adopt Imprint, follow these steps:
 
 1. **Evaluate the project's quality signals**: Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it aligns with your organization's standards.
 2. **Assess the project's documentation**: Review the project's documentation to understand its functionality, limitations, and usage guidelines.
-3. **Test the project**: Run the project on a small-scale model or a test environment to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sigma0101111/imprint).
 
 ### Русский
 

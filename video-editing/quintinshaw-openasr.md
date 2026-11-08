@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt QuintinShaw/openasr, developers can start by evaluating the project's API, SDK, and CLI interfaces. They can also review the language metadata and focused topics to ensure the project meets their specific needs. Once they have a basic understanding of the project, they can begin integrating it into their applications. The project's recent activity, adoption, and ecosystem signals suggest that it is a stable and reliable choice for serious pilots.
 
-**Production Readiness:** QuintinShaw/openasr has a high production readiness score due to its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/QuintinShaw/openasr).
 
 ### Русский
 

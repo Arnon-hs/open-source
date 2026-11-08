@@ -42,7 +42,10 @@ To adopt TCPing in a production environment, the following steps can be taken:
 1. **Evaluate the README**: Review the project's documentation to understand its usage, limitations, and potential quirks.
 2. **Start with a small proof of concept**: Test TCPing in a controlled environment to ensure it meets your specific needs and integrates smoothly with your existing tools.
 3. **Assess the security posture**: Evaluate the project's security posture, including its license, to ensure it aligns with your organization's policies.
-4. **Monitor the project's activity**: Keep an
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pouriyajamshidi/tcping).
 
 ### Русский
 

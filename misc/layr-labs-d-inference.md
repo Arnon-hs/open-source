@@ -39,7 +39,11 @@ Here's a brief summary and explanation of the project:
 2. **Integration**: Integrate d-inference into your existing infrastructure, taking note of the sparse integration signals in the discovered metadata.
 3. **Dependency and Maintenance Checks**: Conduct thorough dependency and maintenance checks to ensure the project is suitable for production use.
 
-**Production Readiness:** d-inference is considered production-ready for prototype or internal workflows, but it's not yet ready for widespread adoption in production environments. This is due to the
+**Production Readiness:** d-inference is considered production-ready for prototype or internal workflows, but it's not yet ready for widespread adoption in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Layr-Labs/d-inference).
 
 ### Русский
 

@@ -44,7 +44,11 @@ To adopt this project, engineers can follow these steps:
 4. Address any identified risks, such as license, security posture, and active maintainers.
 
 **Production Readiness:**
-The project has a high production readiness score due to its strong recent activity, adoption, and ecosystem signals. With 271 GitHub stars, 8 forks, and
+The project has a high production readiness score due to its strong recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/3timeslazy/nix-search-tv).
 
 ### Русский
 

@@ -37,7 +37,9 @@ MCP
 2. **Internal Workflows:** It can be used to standardize integrations within an organization, streamlining workflows and improving efficiency.
 3. **Manual Inspection and Evaluation:** Before adoption, users should manually inspect the project's code, documentation, and maintenance practices to ensure it meets their needs.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it is useful for prototype development and internal workflows, but requires careful evaluation and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/coolvegan/go-hackernews).
 
 ### Русский
 

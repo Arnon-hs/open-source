@@ -41,7 +41,11 @@ To adopt this project, users can first evaluate the README documentation and act
 
 **Production Readiness:**
 
-Based on the provided information, the project has a medium level of production readiness. While it has a
+Based on the provided information, the project has a medium level of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AdamPlatin123/awesome-dsh-plugins).
 
 ### Русский
 

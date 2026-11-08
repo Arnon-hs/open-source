@@ -41,7 +41,10 @@ Payments
 
 1. **Prototyping:** Quickly test payment gateway integration without investing in extensive development.
 2. **Internal workflows:** Use the project to streamline payment operations within your organization.
-3. **Small-scale applications:** Deploy the project in low-risk environments or small-scale applications where the potential risks are
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/paycan-app/paycan).
 
 ### Русский
 

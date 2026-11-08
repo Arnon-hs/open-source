@@ -72,7 +72,10 @@ WenShape 文枢的价值在于它可以帮助内部知识变得可搜索和可�
 WenShape 文枢的生产可用性高，主要原因包括：
 
 1. 近期活动：项目最近有活跃的开发和维护。
-2.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/unitagain/WenShape)。
 
 ## 🧭 Practical evaluation
 

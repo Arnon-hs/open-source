@@ -77,7 +77,10 @@ keygen-sh/keygen-api 的生产可用性高，因为它有以下优势：
 
 * 更新频繁：最近更新于 2026-07-29
 * 强大社区：1537 个 GitHub 星标，125 个分支
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/keygen-sh/keygen-api)。
 
 ## 🧭 Practical evaluation
 

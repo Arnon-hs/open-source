@@ -39,7 +39,9 @@ Here's a brief summary and explanation of the OpenShell Kubernetes Operator proj
 2. Test the operator in a non-production environment to ensure it works as expected.
 3. Plan and execute the deployment of the operator in your production environment, following best practices for Kubernetes operator deployment.
 
-**Production Readiness:** The OpenShell Kubernetes Operator has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lensapp/openshell-k8s-operator).
 
 ### Русский
 

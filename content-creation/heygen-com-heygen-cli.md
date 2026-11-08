@@ -38,7 +38,10 @@ Here's a brief summary of the heygen-com/heygen-cli project:
 1. Familiarize yourself with the HeyGen video generation API and its capabilities.
 2. Install the heygen-cli tool using Go, the primary language used for the project.
 3. Explore the available topics and implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
-4. Evaluate the tool's performance and features by
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/heygen-com/heygen-cli).
 
 ### Русский
 

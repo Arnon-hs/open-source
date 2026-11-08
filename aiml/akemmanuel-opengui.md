@@ -41,7 +41,11 @@ To adopt akemmanuel/OpenGUI, developers should start by evaluating the project's
 
 **Production Readiness:**
 
-akemmanuel/OpenGUI is considered production-ready for internal workflows or prototypes, but it may not be suitable for large-scale production environments without further evaluation and testing. Before deploying the project in production, developers should conduct thorough dependency and
+akemmanuel/OpenGUI is considered production-ready for internal workflows or prototypes, but it may not be suitable for large-scale production environments without further evaluation and testing.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/akemmanuel/OpenGUI).
 
 ### Русский
 

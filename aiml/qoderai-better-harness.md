@@ -44,7 +44,10 @@ The value proposition of Better-Harness lies in its ability to accelerate the AI
 To adopt Better-Harness, developers can follow these steps:
 
 1. Review the project's documentation and codebase to understand its architecture and implementation.
-2. Evaluate the project's API, SDK, or CLI to determine how it can be integrated into their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/QoderAI/better-harness).
 
 ### Русский
 

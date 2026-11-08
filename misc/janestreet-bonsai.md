@@ -36,8 +36,9 @@ The primary value proposition of Bonsai lies in its ability to simplify the proc
 **Practical Adoption Path:**
 To adopt Bonsai, developers should start by manually inspecting the library's documentation, issues, and release cadence to ensure it aligns with their project's needs. They should also verify the license and maintenance terms to avoid any potential risks. Once satisfied, developers can integrate Bonsai into their project and start exploring its capabilities for prototyping AI features, building RAG or agent workflows, and evaluating model tooling.
 
-**Production Readiness:**
-Bonsai has a medium production readiness score, indicating that it is suitable for internal workflows and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/janestreet/bonsai).
 
 ### Русский
 

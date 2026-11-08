@@ -44,9 +44,9 @@ To adopt DLYZZT/pi-desktop, users can follow these steps:
 3. Integrate the application with existing tools and workflows to automate repetitive operations.
 4. Schedule operational tasks and monitor the application's performance to optimize its usage.
 
-**Production Readiness**
+## Before adopting
 
-DLYZZT/pi-desktop is considered production-ready for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DLYZZT/pi-desktop).
 
 ### Русский
 

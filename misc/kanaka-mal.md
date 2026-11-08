@@ -41,7 +41,11 @@ Mal's value proposition is its potential to streamline workflows by providing a 
 3. **Dependency and Maintenance Checks:** Perform thorough checks on the project's dependencies and maintenance cadence to ensure it meets your production requirements.
 4. **Prototype or Internal Workflow:** Use Mal in a prototype or internal workflow to test its effectiveness and identify potential issues.
 
-**Production Readiness:** Mal is considered medium-production ready, making it suitable for prototypes or internal workflows. However, it's essential to
+**Production Readiness:** Mal is considered medium-production ready, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kanaka/mal).
 
 ### Русский
 

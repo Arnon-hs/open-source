@@ -35,7 +35,11 @@ Here's a brief summary of the vacanza/holidays open-source project:
 
 **Practical Adoption Path:** To adopt vacanza/holidays, teams can start by evaluating its integration signals, such as API/SDK/CLI, language metadata, and focused topics. They can then assess its production readiness by reviewing its recent activity, adoption, and ecosystem signals. Once satisfied with the framework's quality and security posture, teams can begin integrating it into their existing development workflows.
 
-**Production Readiness:** With a high production readiness score, vacanza/holidays is well-suited for serious pilots and production use cases. Its recent activity, adoption, and ecosystem signals are strong indicators of its
+**Production Readiness:** With a high production readiness score, vacanza/holidays is well-suited for serious pilots and production use cases.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vacanza/holidays).
 
 ### Русский
 

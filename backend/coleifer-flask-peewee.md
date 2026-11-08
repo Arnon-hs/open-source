@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the coleifer/flask-peewee project:
 
 **Practical Adoption Path:** To adopt coleifer/flask-peewee, teams can start by evaluating its straightforward integration with existing Flask applications. They can then explore the various features and tools provided, such as admin interfaces and authentication, to see how they can be applied to their specific use cases. With its recent activity, strong adoption, and robust ecosystem, coleifer/flask-peewee is a viable option for teams looking to standardize their service patterns.
 
-**Production Readiness:** coleifer/flask-peewee has demonstrated high production readiness, with recent activity, strong adoption (781 GitHub stars, 174 forks), and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/coleifer/flask-peewee).
 
 ### Русский
 

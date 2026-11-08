@@ -39,7 +39,9 @@ As for the practical adoption path, here are the steps:
 4. **Prototype development**: Use the Channels SDK to prototype AI features, build RAG or agent workflows, or evaluate model tooling.
 5. **Production readiness assessment**: Carefully evaluate the project's production readiness, considering factors such as dependency and maintenance checks.
 
-Regarding production readiness, the project is rated as Medium, indicating that it's suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/copilotKit/channels-sdk).
 
 ### Русский
 

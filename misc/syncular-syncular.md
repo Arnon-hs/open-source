@@ -42,7 +42,10 @@ To adopt Syncular, follow these steps:
 1. **Inspect the code and documentation**: Carefully review the project's README, documentation, and codebase to understand its functionality and potential limitations.
 2. **Evaluate the license and maintenance**: Verify the project's license, maintenance status, and release cadence to ensure it aligns with your organization's requirements.
 3. **Assess the quality signals**: Consider the project's quality signals, such as the number of topics, updates, and issues, to gauge its stability and reliability.
-4. **Test and integrate**: Manually test Syncular in a controlled environment and integrate it with your application, ensuring it meets your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/syncular/syncular).
 
 ### Русский
 

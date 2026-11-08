@@ -55,11 +55,9 @@ mybatis/spring-boot-starter 的主要价值在于它提供了一个学习和使�
 2. 配置 MyBatis：配置 MyBatis 的映射文件和配置。
 3. 配置 Spring Boot：配置 Spring Boot 的应用程序。
 
-**生产可用性**
+## 采用前检查
 
-mybatis/spring-boot-starter 的生产可用性较高，因为它有以下特点：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/mybatis/spring-boot-starter)。
 
 ## 🧭 Practical evaluation
 

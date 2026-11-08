@@ -46,7 +46,10 @@ The project's production readiness is medium, indicating that it is suitable for
 
 1. Prototypes or proof-of-concepts where risks can be mitigated.
 2. Internal workflows where the project can be tested and refined before wider adoption.
-However, it may not be
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ericwbailey/what-cant-i-press).
 
 ### Русский
 

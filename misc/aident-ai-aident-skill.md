@@ -40,7 +40,11 @@ Aident Loadout is an open-source project that enables users to connect Codex and
 3. **Internal workflows**: Integrate Aident Loadout into your internal workflows for testing and development purposes.
 4. **Production readiness**: Perform thorough checks on dependency, maintenance, and documentation before adopting it for production use.
 
-**Production Readiness:** Medium. While Aident Loadout is useful for prototypes or
+**Production Readiness:** Medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Aident-AI/aident-skill).
 
 ### Русский
 

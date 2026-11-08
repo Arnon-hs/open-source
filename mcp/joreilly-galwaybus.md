@@ -65,11 +65,9 @@ joreilly/GalwayBus 的价值在于，它帮助连接 AI 助手到现实世界的
 2. 部署 Model Context Protocol 服务器：将 joreilly/GalwayBus 的 Model Context Protocol 服务器部署到自己的环境中。
 3. 标准化集成：使用 joreilly/GalwayBus 的标准协议来集成 AI 助手到现实世界的工具和数据。
 
-**生产可用性**
+## 采用前检查
 
-joreilly/GalwayBus 的生产可用性非常高，主要原因是：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/joreilly/GalwayBus)。
 
 ## 🧭 Practical evaluation
 

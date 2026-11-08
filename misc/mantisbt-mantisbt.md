@@ -40,7 +40,9 @@ For practical adoption, the following steps can be taken:
 3. Assess the setup costs and potential dependencies required for production use.
 4. Perform maintenance checks to ensure the project remains up-to-date and secure.
 
-Production readiness is rated as medium, indicating that MantisBT is suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mantisbt/mantisbt).
 
 ### Русский
 

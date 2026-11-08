@@ -41,8 +41,9 @@ To adopt pantalk/pantalk, developers can follow a straightforward path:
 3. Integrate pantalk/pantalk into your system, leveraging its pre-built AI model stack to enhance AI capabilities.
 4. Monitor and maintain the project to ensure its continued stability and security.
 
-**Production Readiness:**
-While pantalk/pantalk has a medium production readiness score, it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pantalk/pantalk).
 
 ### Русский
 

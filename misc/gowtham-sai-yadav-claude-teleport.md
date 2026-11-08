@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt Claude-teleport, users should first manually inspect the project's integration signals to ensure it aligns with their specific needs. This involves verifying the license, maintenance, documentation, issues, and release cadence before incorporating it into their workflow. Once vetted, users can utilize Claude-teleport to move their Claude Code history between machines, making it suitable for development environments that require flexibility and adaptability.
 
-**Production Readiness:** Claude-teleport is considered to have medium production readiness, making it more suitable for prototyping or internal workflows rather than large-scale production environments. Users should perform thorough dependency and maintenance checks before deploying the project in a production setting to ensure a seamless and
+**Production Readiness:** Claude-teleport is considered to have medium production readiness, making it more suitable for prototyping or internal workflows rather than large-scale production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gowtham-sai-yadav/claude-teleport).
 
 ### Русский
 

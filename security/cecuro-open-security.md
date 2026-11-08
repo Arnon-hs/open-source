@@ -41,7 +41,11 @@ Pi Security offers a streamlined approach to security, allowing developers to id
 4. **Production Readiness:** Once thoroughly tested and verified, consider integrating Pi Security into production environments.
 
 **Production Readiness:**
-Pi Security is considered "Medium" in terms of production readiness. While it offers a useful security solution, its
+Pi Security is considered "Medium" in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Cecuro/open-security).
 
 ### Русский
 

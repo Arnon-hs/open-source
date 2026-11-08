@@ -37,7 +37,10 @@ Soapbucket/sbproxy is an open-source Enterprise AI Gateway that enables seamless
 
 1. **Evaluation**: The project's straightforward evaluation process, coupled with its recent activity and adoption, makes it an attractive candidate for serious pilots.
 2. **Integration**: soapbucket/sbproxy exposes implementation signals, such as API/SDK/CLI, language metadata, or focused topics, facilitating easy integration with existing systems.
-3. **Deployment**: Users can deploy 72 native providers behind an
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/soapbucket/sbproxy).
 
 ### Русский
 

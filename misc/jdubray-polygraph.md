@@ -42,7 +42,11 @@ To adopt Polygraph, engineers should follow these steps:
 4. Gradually automate tasks and workflows as needed, ensuring that Polygraph is properly configured and maintained.
 
 **Production Readiness**
-Polygraph is considered medium-production ready, making it suitable for prototypes or internal workflows. However, it's essential to conduct thorough dependency and maintenance checks before deploying it in a production environment. This will
+Polygraph is considered medium-production ready, making it suitable for prototypes or internal workflows. However, it's essential to conduct thorough dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jdubray/polygraph).
 
 ### Русский
 

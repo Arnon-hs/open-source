@@ -41,7 +41,10 @@ To adopt CarlosVallejoRuiz/slurp, developers can follow these steps:
 
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
 2. Assess the project's production readiness level, considering factors like dependency and maintenance checks.
-3. Integrate the project into their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/CarlosVallejoRuiz/slurp).
 
 ### Русский
 

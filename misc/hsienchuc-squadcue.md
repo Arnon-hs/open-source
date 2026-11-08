@@ -37,7 +37,10 @@ As for the practical adoption path, here are the steps:
 2. **Verify key aspects**: Check the license, maintenance, documentation, issues, and release cadence to ensure the project is stable and reliable.
 3. **Implement manual inspection**: Carefully integrate SquadCue into your project, monitoring its performance and addressing any issues that arise.
 4. **Test and refine**: Use SquadCue in a prototype or internal workflow to refine its functionality and ensure it meets your needs.
-5. **Consider production readiness**: If SquadCue meets your requirements and has a stable maintenance track record, consider deploying it in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hsienchuc/squadcue).
 
 ### Русский
 

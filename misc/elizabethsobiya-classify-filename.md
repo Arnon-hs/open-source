@@ -41,8 +41,9 @@ The value of Classify-filename lies in its ability to streamline file organizati
 3. **Integration and Testing:** Integrate Classify-filename with your existing workflow and thoroughly test its functionality to ensure it meets your requirements.
 4. **Maintenance and Support:** Regularly check for updates, maintain dependencies, and verify the project's release cadence to ensure continued support and stability.
 
-**Production Readiness:**
-Classify-filename has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ElizabethSobiya/classify-filename).
 
 ### Русский
 

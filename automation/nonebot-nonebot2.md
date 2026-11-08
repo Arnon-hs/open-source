@@ -36,7 +36,10 @@ Automation · Backend
 1. **Start with a pilot project**: Evaluate nonebot/nonebot2 for a specific use case or workflow automation task.
 2. **Explore the documentation and community**: Familiarize yourself with the framework's API, SDK, and CLI, as well as the community's resources and support.
 3. **Integrate with existing tools and services**: Connect nonebot/nonebot2 with your existing tools and services to create repeatable flows and automate tasks.
-4. **Monitor and refine**: Continuously monitor the performance and effectiveness of nonebot/nonebot2 in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nonebot/nonebot2).
 
 ### Русский
 

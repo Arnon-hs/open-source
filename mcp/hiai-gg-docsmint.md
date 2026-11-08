@@ -40,7 +40,9 @@ Here's a brief summary and an explanation of the project's value, adoption path,
 3. **Customization:** Utilize the project's API, SDK, and CLI to tailor the integration to your specific requirements.
 4. **Monitoring and Maintenance:** Regularly review and update the project to ensure compatibility with evolving AI technologies and tools.
 
-**Production Readiness:** HiAi-gg/docsmint has a high level of production readiness, with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/HiAi-gg/docsmint).
 
 ### Русский
 

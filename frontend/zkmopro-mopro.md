@@ -50,7 +50,10 @@ Developers can adopt zkmopro/mopro by:
 The zkmopro/mopro project demonstrates high production readiness due to:
 
 - Strong ecosystem signals, including 238 GitHub stars and 110 forks.
-- Recent activity, with the last update on
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zkmopro/mopro).
 
 ### Русский
 

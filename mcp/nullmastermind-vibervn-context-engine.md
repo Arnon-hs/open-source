@@ -36,8 +36,9 @@ The value proposition of this project lies in its ability to connect AI agents t
 **Practical Adoption Path:**
 To adopt this project, developers should start by evaluating its feasibility through a small proof of concept and checking the README documentation. They should also consider the dependency and maintenance requirements before integrating it into their production workflows. Given its medium production readiness, it's suitable for prototypes or internal workflows where the focus is on proof-of-concept development rather than large-scale production deployment.
 
-**Production Readiness:**
-The nullmastermind/vibervn-context-engine has a medium production readiness score, indicating that it's useful for prototypes or internal workflows but requires additional checks and validation before being used in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nullmastermind/vibervn-context-engine).
 
 ### Русский
 

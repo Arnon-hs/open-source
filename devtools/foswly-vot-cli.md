@@ -44,9 +44,9 @@ To adopt FOSWLY/vot-cli, follow these steps:
 3. **Internal Workflow**: Integrate the CLI into internal development workflows to automate tasks and improve CI feedback.
 4. **Production Readiness**: Perform thorough dependency and maintenance checks before deploying the CLI in a production environment.
 
-**Production Readiness:**
+## Before adopting
 
-FOSWLY/vot-cli has a medium production readiness score, indicating that
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/FOSWLY/vot-cli).
 
 ### Русский
 

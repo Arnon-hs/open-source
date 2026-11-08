@@ -39,9 +39,9 @@ The primary value proposition of Aho1ic/Aeroric lies in its ability to streamlin
 
 To adopt Aho1ic/Aeroric, developers can start by exploring its features and functionality through its GitHub repository. Given its production readiness of "Medium", it's recommended to conduct dependency and maintenance checks before integrating it into production workflows. Additionally, a manual inspection of the codebase and integration signals is necessary to ensure a seamless adoption process.
 
-**Production Readiness:**
+## Before adopting
 
-While Aho1ic/Aeroric has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Aho1ic/Aeroric).
 
 ### Русский
 

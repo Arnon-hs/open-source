@@ -45,9 +45,9 @@ To adopt orottier/web-audio-api-rs, teams can follow these steps:
 4. Integrate the project into the team's existing infrastructure and workflows.
 5. Test and validate the project's functionality and performance.
 
-**Production Readiness:**
+## Before adopting
 
-orottier/web-a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/orottier/web-audio-api-rs).
 
 ### Русский
 

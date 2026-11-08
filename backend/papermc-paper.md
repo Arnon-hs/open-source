@@ -37,9 +37,9 @@ The practical adoption path for PaperMC/Paper involves:
 2. **Assessing language metadata and focused topics**: The project's primary language is Java, and it covers 10 topics, which can help developers determine its suitability for their needs.
 3. **Reviewing license, security posture, and maintainers**: While no major metadata risk was found, a final review of these aspects is necessary to ensure a smooth adoption process.
 
-The production readiness of PaperMC/Paper is high, as evidenced by:
+## Before adopting
 
-1. **Strong ecosystem signals**: With 12,522 GitHub stars and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PaperMC/Paper).
 
 ### Русский
 

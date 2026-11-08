@@ -71,7 +71,10 @@ voglster/lumbergh 在生产环境中有较高的可用性。它具有以下特�
 * 强大的采用和生态系统信号
 * 高质量的 GitHub 星球数和 Fork 数
 * TypeScript 为主要语言
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/voglster/lumbergh)。
 
 ## 🧭 Practical evaluation
 

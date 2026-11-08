@@ -43,7 +43,9 @@ The practical adoption path involves:
 3. **Prototype testing**: Test the tool in a controlled environment to evaluate its performance and accuracy.
 4. **Production deployment**: Deploy the tool in a production-ready environment, monitoring its performance and maintenance requirements.
 
-Production readiness is moderate, indicating that the tool is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/notnotrishi/sonic_edit).
 
 ### Русский
 

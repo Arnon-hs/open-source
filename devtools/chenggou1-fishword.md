@@ -41,7 +41,11 @@ To adopt Fishword in a practical sense, developers should start by evaluating th
 
 **Production Readiness**
 
-Fishword has a medium production readiness, making it suitable for use in prototypes or internal workflows. However, before deploying it in a production environment, developers should perform dependency and
+Fishword has a medium production readiness, making it suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Chenggou1/fishword).
 
 ### Русский
 

@@ -36,8 +36,9 @@ The value proposition of tmux-jump lies in its ability to simplify navigation wi
 **Practical Adoption Path:**
 To adopt tmux-jump, users should start by evaluating the project's README and activity to ensure it matches their workflow. A small proof-of-concept should be implemented to validate the setup cost and integration path, which may not be immediately obvious from the metadata. Once the feasibility of tmux-jump is established, users can integrate it into their tmux setup and fine-tune its configuration to suit their needs.
 
-**Production Readiness:**
-tmux-jump has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/schasse/tmux-jump).
 
 ### Русский
 

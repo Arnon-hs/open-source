@@ -41,7 +41,11 @@ To adopt h0mbre/Lucid, users must manually inspect the project's README and acti
 
 **Production Readiness:**
 
-h0mbre/Lucid has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, its adoption in production environments requires careful consideration of dependency and maintenance checks to ensure its
+h0mbre/Lucid has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/h0mbre/Lucid).
 
 ### Русский
 

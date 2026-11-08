@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** Before adopting graphql-java, it's essential to manually inspect the project's integration signals, which are sparse in the discovered metadata. This means that developers should carefully review the project's documentation, code, and community activity to ensure it aligns with their specific requirements. Once validated, the project can be adopted for prototyping or internal workflows.
 
-**Production Readiness:** The project is considered medium-production-ready, meaning it can be used in production environments after thorough dependency and maintenance checks. This suggests that while the project has a large user base and is actively maintained, it may require additional testing and
+**Production Readiness:** The project is considered medium-production-ready, meaning it can be used in production environments after thorough dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/graphql-java/graphql-java).
 
 ### Русский
 

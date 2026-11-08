@@ -39,7 +39,10 @@ The production readiness of stackryze/FreeDomains is high due to its strong sign
 - 216 forks, suggesting that users find the project valuable and are interested in customizing it
 - Recent activity, with the project updated on August 6, 2026
 - Primary language: JavaScript, a widely used and well-supported language
-- 7 topics, indicating a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/stackryze/FreeDomains).
 
 ### Русский
 

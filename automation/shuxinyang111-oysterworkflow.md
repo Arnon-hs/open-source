@@ -44,9 +44,9 @@ To adopt oysterworkflow, users should follow these steps:
 3. **Configuration and Testing**: Configure the tool to fit their specific workflow requirements and thoroughly test its functionality to ensure seamless integration.
 4. **Ongoing Maintenance**: Regularly check for updates and perform maintenance tasks to ensure the continued smooth operation of oysterworkflow.
 
-**Production Readiness:**
+## Before adopting
 
-The production readiness of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ShuxinYang111/oysterworkflow).
 
 ### Русский
 

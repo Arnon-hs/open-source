@@ -41,7 +41,11 @@ To adopt Log-Forge, users can start by evaluating its feasibility through a smal
 
 **Production Readiness:**
 
-Log-Forge has a medium production readiness score, making it suitable for prototypes or internal workflows. While it has a decent number of GitHub stars (295) and forks (16), and is actively maintained, further review of its license, security posture, and
+Log-Forge has a medium production readiness score, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/log-forge/logforge).
 
 ### Русский
 

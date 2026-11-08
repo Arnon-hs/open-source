@@ -40,7 +40,10 @@ The adoption path for this project involves the following steps:
 2. Verify the license, maintenance, and release cadence of the project.
 3. Check the README documentation and perform a small proof of concept to ensure the project meets your requirements.
 4. Assess the project's production readiness and consider its suitability for your specific use case.
-5. Integrate the project into your development workflow, and adapt it to your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nostr-dev-kit/ndk).
 
 ### Русский
 

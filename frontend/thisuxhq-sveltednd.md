@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To integrate thisuxhq/sveltednd into a project, start with a small proof of concept and carefully review the README documentation. This will help evaluate the library's feasibility and potential for successful implementation. Once familiar with the library's functionality, developers can proceed with more extensive adoption and integration.
 
-**Production Readiness:** With 596 GitHub stars, 24 forks, and recent activity (last updated on 2026-07-19), thisuxhq/sveltednd demonstrates strong production-readiness. Its adoption and ecosystem signals are robust, making it an attractive candidate for serious pilots and production environments. However, a
+**Production Readiness:** With 596 GitHub stars, 24 forks, and recent activity (last updated on 2026-07-19), thisuxhq/sveltednd demonstrates strong production-readiness. Its adoption and ecosystem signals are robust, making it an attractive candidate for serious pilots and production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/thisuxhq/sveltednd).
 
 ### Русский
 

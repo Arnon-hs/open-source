@@ -38,7 +38,11 @@ The primary value of SPiCa lies in its ability to persist, query, and move data 
 To adopt SPiCa, teams should start by manually inspecting the integration signals in the discovered metadata. This will help them understand the integration path and potential setup costs involved. Once they have a clear understanding of the integration process, they can begin to prototype and test SPiCa in their internal workflows.
 
 **Production Readiness:**
-SPiCa is considered medium-production ready, making it suitable for prototypes or internal workflows. Before committing to production, teams should perform dependency and maintenance checks to ensure that SPiCa aligns with
+SPiCa is considered medium-production ready, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/0xKirisame/SPiCa).
 
 ### Русский
 

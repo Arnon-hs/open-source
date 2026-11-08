@@ -38,7 +38,10 @@ Lemonade Second Squeeze is an open-source project that enables developers to lev
 1. **Evaluate the project's quality signals**: Review the project's documentation, issues, and release cadence to ensure it meets your project's requirements.
 2. **Verify the license and dependencies**: Ensure you have the necessary permissions to use the project and that its dependencies are compatible with your application.
 3. **Perform manual inspection**: Carefully inspect the project's code and metadata to understand its architecture and potential integration points.
-4. **Test and iterate**: Integrate the project into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/earlgreyhot1701D/second-squeeze).
 
 ### Русский
 

@@ -40,7 +40,11 @@ Here's a brief summary and analysis:
 3. Review the toolkit's GitHub star count, forks, and recent activity to gauge its adoption and ecosystem signals.
 4. Pilot the toolkit in a production environment to validate its quality and production readiness.
 
-**Production Readiness:** With a recent activity date, strong adoption (907 GitHub stars and 135 forks), and a high-quality Python implementation, Retentioneering-tools demonstrates high production readiness. However, a final review is still necessary to
+**Production Readiness:** With a recent activity date, strong adoption (907 GitHub stars and 135 forks), and a high-quality Python implementation, Retentioneering-tools demonstrates high production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/retentioneering/retentioneering-tools).
 
 ### Русский
 

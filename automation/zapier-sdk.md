@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the zapier/sdk open-source project:
 
 **Practical Adoption Path:** To evaluate and integrate the zapier/sdk project, start with a small proof of concept and review the README documentation. This will help you understand the project's architecture, usage, and potential challenges. Once you've assessed the project's feasibility, you can begin integrating it into your workflow.
 
-**Production Readiness:** The zapier/sdk project has a high production readiness score, indicating that it's a mature and reliable open-source project. With recent activity, strong adoption, and a robust ecosystem, it's suitable for serious pilots and
+**Production Readiness:** The zapier/sdk project has a high production readiness score, indicating that it's a mature and reliable open-source project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zapier/sdk).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt AuraSDK, developers can follow these steps:
 1. Evaluate the SDK: Review the API, documentation, and examples provided by the project.
 2. Integrate AuraSDK: Choose the integration method (API, SDK, CLI) that best suits your needs.
 3. Prototype AI Features: Use AuraSDK to quickly build and test AI features, such as agent workflows or RAG (Relationship and Agreement Graph) integration.
-4. Refine and Deploy: Refine your AI features and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/teolex2020/AuraSDK).
 
 ### Русский
 

@@ -42,7 +42,11 @@ The project offers a unique web search tool that can be used with Claude and loc
 4. **Testing and Refining:** Test the project thoroughly and refine it as needed to ensure it meets your specific requirements.
 
 **Production Readiness:**
-The project is rated as "Medium" in terms of production readiness. While it can
+The project is rated as "Medium" in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mateusdcc/pi-gpt-search).
 
 ### Русский
 

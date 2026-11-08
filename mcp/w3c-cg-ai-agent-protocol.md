@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project's value, adoption path, an
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then integrate the protocol into their existing workflows or tools, taking into account dependency and maintenance checks. The project's straightforward evaluation process makes it suitable for prototypes or internal workflows.
 
-**Production Readiness:** With a production readiness score of medium, the project is suitable for use in prototypes or internal workflows, but may require additional checks and validation before deployment in production environments. The project's license, security posture, and active maintainers still need final review to ensure its
+**Production Readiness:** With a production readiness score of medium, the project is suitable for use in prototypes or internal workflows, but may require additional checks and validation before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/w3c-cg/ai-agent-protocol).
 
 ### Русский
 

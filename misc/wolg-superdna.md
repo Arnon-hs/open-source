@@ -41,7 +41,11 @@ Before adopting Superdna, users should perform a manual inspection of the projec
 
 **Production Readiness**
 
-Superdna has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, users should perform dependency and maintenance checks before deploying it in production. This is because the project's quality signals are limited, and users should verify its stability and
+Superdna has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, users should perform dependency and maintenance checks before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Wolg/superdna).
 
 ### Русский
 

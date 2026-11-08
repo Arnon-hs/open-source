@@ -44,9 +44,9 @@ To adopt ahujasid/blender-mcp, developers can follow these steps:
 3. Configure the plugin to connect to their chosen LLM.
 4. Use the plugin to control Blender 3D and automate tasks using the LLM.
 
-**Production Readiness**
+## Before adopting
 
-The project has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ahujasid/blender-mcp).
 
 ### Русский
 

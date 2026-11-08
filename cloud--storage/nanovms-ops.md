@@ -40,7 +40,9 @@ nanovms/ops is considered production-ready due to its strong ecosystem signals, 
 - A primary language of Go, which is a popular and well-maintained language.
 - 12 topics, indicating a wide range of use cases and applications.
 
-However, it's essential to conduct a final review of the
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nanovms/ops).
 
 ### Русский
 

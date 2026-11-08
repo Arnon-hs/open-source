@@ -45,7 +45,10 @@ To adopt Herdr-guard, follow these steps:
 
 1. **Verify the license and dependencies**: Ensure that the project's license and dependencies align with your project's requirements.
 2. **Inspect the code and documentation**: Review the codebase, documentation, and issues to understand the project's structure, functionality, and potential limitations.
-3. **Evaluate the release cadence**: Check the project's release frequency and stability to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/StructuPath/herdr-guard).
 
 ### Русский
 

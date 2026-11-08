@@ -48,9 +48,9 @@ To adopt Peter, follow these steps:
 3. **Prototype or Internal Workflow**: Use Peter for prototyping or internal workflows to test its capabilities and identify potential issues.
 4. **Dependency and Maintenance Checks**: Perform thorough checks on dependencies and maintenance requirements before considering production deployment.
 
-**Production Readiness:**
+## Before adopting
 
-Peter is considered medium-production ready, indicating that it can
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/robertkeus/peter).
 
 ### Русский
 

@@ -33,7 +33,9 @@ AI/ML · Mobile
 
 **Practical Adoption Path:** To adopt LLM.swift, developers should start with a small proof of concept to evaluate the library's feasibility and understand its integration path. A thorough review of the README documentation is also essential to ensure a smooth setup process. Once the library is integrated into a project, developers can leverage its capabilities to build AI-powered features, such as prototype AI features, RAG (Reusable Agent-based Generalist) workflows, or agent workflows.
 
-**Production Readiness:** LLM.swift has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/eastriverlee/LLM.swift).
 
 ### Русский
 

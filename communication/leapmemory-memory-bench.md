@@ -41,7 +41,11 @@ Before adopting this project, developers should perform a manual inspection to e
 
 **Production Readiness:**
 
-The project's production readiness is rated as medium, indicating that it is suitable for prototype development or internal workflows but may not be ready for widespread adoption in production environments. This is due to limited quality signals and the need for thorough verification of
+The project's production readiness is rated as medium, indicating that it is suitable for prototype development or internal workflows but may not be ready for widespread adoption in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/leapmemory/memory-bench).
 
 ### Русский
 

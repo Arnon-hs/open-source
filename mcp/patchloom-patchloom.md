@@ -37,7 +37,11 @@ MCP
 2. **Manual Inspection:** Before adopting Patchloom in production, it is essential to conduct a thorough review of the project's metadata, license, maintenance, documentation, issues, and release cadence to ensure compatibility and reliability.
 3. **Integration and Testing:** Once the project is deemed suitable for production, integrate Patchloom with the AI agent and test the connections with various tools and data sources to ensure seamless communication.
 
-**Production Readiness:** Patchloom has a medium production readiness score. While it can
+**Production Readiness:** Patchloom has a medium production readiness score.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/patchloom/patchloom).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating its implementation signals, such as API, SDK, or CLI, to determine the best integration approach for their AI assistants or applications. They can then follow the standard protocol to connect their tools to the MCP server, which provides real-time tennis data. This process is straightforward, and the project's recent activity, adoption, and ecosystem signals indicate a strong foundation for successful integrations.
 
-**Production Readiness:** With a high production readiness score, this project is suitable for serious pilots and production environments. Its recent activity, 249 GitHub stars, and 11 forks demonstrate a strong community engagement and
+**Production Readiness:** With a high production readiness score, this project is suitable for serious pilots and production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/livetennisapi/livetennisapi-mcp).
 
 ### Русский
 

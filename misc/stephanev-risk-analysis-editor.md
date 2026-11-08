@@ -37,7 +37,11 @@ The RAE project offers a valuable solution for organizations seeking to implemen
 Before adopting RAE, it is essential to manually inspect the project's README, activity, and metadata to ensure that it aligns with your specific workflow and requirements. This includes verifying the project's license, maintenance status, documentation quality, issue tracking, and release cadence to ensure that it meets your organization's needs.
 
 **Production Readiness:**
-RAE has a medium production readiness score due to its limited quality signals. While it may be suitable for prototypes or internal workflows, it is
+RAE has a medium production readiness score due to its limited quality signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/StephaneV/Risk-Analysis-Editor).
 
 ### Русский
 

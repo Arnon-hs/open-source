@@ -37,7 +37,11 @@ The primary value proposition of misata lies in its ability to standardize integ
 To adopt misata, developers can start by evaluating its API, SDK, and CLI implementation signals. They can then assess its language metadata and focused topics to determine its suitability for their specific use cases. The project's straightforward integration process and medium production readiness score make it a viable option for prototype development or internal workflows.
 
 **Production Readiness:**
-misata has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows but may require additional dependency and maintenance checks before being deployed in production environments. While the project has a moderate number of
+misata has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows but may require additional dependency and maintenance checks before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rasinmuhammed/misata).
 
 ### Русский
 

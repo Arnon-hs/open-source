@@ -41,7 +41,10 @@ To adopt rupeshs/fastsdcpu, developers can follow these steps:
 
 1. Evaluate the project's API, SDK, or CLI to understand its implementation signals.
 2. Review the project's documentation, codebase, and community engagement to gauge its maintainability and security posture.
-3. Integrate the project into their existing application or workflow, taking note of any necessary configuration or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rupeshs/fastsdcpu).
 
 ### Русский
 

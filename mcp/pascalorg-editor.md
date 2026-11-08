@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the open-source project pascalorg/edit
 
 **Practical Adoption Path:** To adopt pascalorg/editor, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. With a straightforward evaluation process, developers can quickly assess the project's suitability for their needs. Once adopted, developers can leverage the project's features to connect AI agents to tools, ship Model Context Protocol servers, and standardize integrations.
 
-**Production Readiness:** pascalorg/editor boasts a high production readiness score, indicating its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pascalorg/editor).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt 029danio/fly, developers can start by evaluating the project through a 
 
 **Production Readiness:**
 
-029danio/fly exhibits strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity. The project has received 2614 GitHub stars, 95 forks, and
+029danio/fly exhibits strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/029danio/fly).
 
 ### Русский
 

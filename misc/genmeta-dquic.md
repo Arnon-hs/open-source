@@ -35,7 +35,11 @@ Here's a brief summary and an explanation of the value, practical adoption path,
 
 **Practical Adoption Path:** To adopt genmeta/dquic, developers should manually inspect the project's integration signals, which are sparse in the discovered metadata, before committing to its use. This involves validating the setup cost and potential risks involved in integrating the project into their workflow. Once the integration path is clear, developers can leverage genmeta/dquic's native async Rust implementation to develop and deploy QUIC-enabled applications.
 
-**Production Readiness:** The production readiness of genmeta/dquic is rated as medium, indicating that it is suitable for use in prototypes or internal workflows. However, before deploying the project in production, developers should conduct thorough dependency and maintenance checks to ensure its stability and
+**Production Readiness:** The production readiness of genmeta/dquic is rated as medium, indicating that it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/genmeta/dquic).
 
 ### Русский
 

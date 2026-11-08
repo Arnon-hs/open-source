@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** To adopt goccc, teams can start by evaluating its compatibility with their existing infrastructure and development workflows. They can then integrate the cost calculator and customizable statusline into their Claude Code setup, following the project's documentation and guides. As they become more familiar with the tool, teams can explore its customization options and integrate it into their CI/CD pipelines.
 
-**Production Readiness:** With recent activity, strong adoption, and a robust ecosystem, goccc is considered production-ready. The project's high score and positive quality signals, such as regular updates and a large number of GitHub stars, indicate a strong foundation for a serious pilot. However, teams should still review the project's license, security posture, and maintainers to
+**Production Readiness:** With recent activity, strong adoption, and a robust ecosystem, goccc is considered production-ready. The project's high score and positive quality signals, such as regular updates and a large number of GitHub stars, indicate a strong foundation for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/backstabslash/goccc).
 
 ### Русский
 

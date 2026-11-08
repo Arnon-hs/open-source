@@ -73,7 +73,10 @@ zwaetschge/plum-code-webui 帮助用户在不从头开始搭建模型堆栈的�
 但是，用户应该注意以下风险：
 
 * 许可证风险
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/zwaetschge/plum-code-webui)。
 
 ## 🧭 Practical evaluation
 

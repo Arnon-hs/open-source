@@ -33,7 +33,11 @@ AI/ML
 
 **Practical Adoption Path:** To adopt this project, users should start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help them understand the integration requirements and potential setup costs. As the project is considered medium production-ready, users should perform dependency and maintenance checks before deploying it in a production environment.
 
-**Production Readiness:** The hyperfield/ai-file-sorter is considered medium production-ready, making it suitable for prototype development or internal workflows. However, before deploying it in a production environment, users should carefully evaluate the integration path, validate the setup cost, and perform necessary dependency and maintenance checks to
+**Production Readiness:** The hyperfield/ai-file-sorter is considered medium production-ready, making it suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hyperfield/ai-file-sorter).
 
 ### Русский
 

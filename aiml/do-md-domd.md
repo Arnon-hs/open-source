@@ -72,7 +72,10 @@ do-md/domd 的生产可用性很高，原因如下：
 * GitHub forks 数：15
 * 最近更新时间：2026-07-23
 * 主要语言：TypeScript
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/do-md/domd)。
 
 ## 🧭 Practical evaluation
 

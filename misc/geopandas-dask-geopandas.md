@@ -42,7 +42,10 @@ To adopt geopandas/dask-geopandas, follow these steps:
 1. **Manual Inspection**: Carefully review the project's README, documentation, and activity to ensure it aligns with your specific workflow and requirements.
 2. **Dependency Checks**: Verify that the project's dependencies are compatible with your existing infrastructure and meet your production requirements.
 3. **Testing**: Perform thorough testing to ensure the project works as expected in your production environment.
-4. **Integration**: Integrate geopandas/dask-geopandas into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/geopandas/dask-geopandas).
 
 ### Русский
 

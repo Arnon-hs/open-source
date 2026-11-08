@@ -36,8 +36,9 @@ The primary value of this project lies in its ability to manage and standardize 
 **Practical Adoption Path:** 
 To adopt this project, users can start by exploring its features, such as hybrid parsing and MRL embeddings, and evaluate its implementation signals, including API/SDK/CLI, language metadata, and focused topics. The project's documentation and codebase should be reviewed to ensure understanding of the project's architecture and functionality. Once familiar with the project, users can integrate it into their workflows and start building repeatable agent workflows.
 
-**Production Readiness:** 
-The project has shown strong production readiness, with recent activity, adoption, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Ambuj123-lab/agentic-rag-financial-parser).
 
 ### Русский
 

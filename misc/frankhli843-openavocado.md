@@ -35,7 +35,11 @@ Here's a brief summary and explanation of OpenAvocado:
 
 **Practical Adoption Path:** To adopt OpenAvocado, users need to manually inspect the project before integration due to sparse integration signals in the metadata. This involves verifying the license, maintenance, documentation, issues, and release cadence to ensure the project's stability and reliability. Once verified, OpenAvocado can be used for learning implementation patterns, building tutorials, or training teams on a specific technology stack.
 
-**Production Readiness:** OpenAvocado is considered medium-ready for production due to its useful features for prototypes or internal workflows. However, it requires dependency and maintenance checks before being used in production environments. This means that users should carefully evaluate the project's stability, reliability, and scalability before deploying it in
+**Production Readiness:** OpenAvocado is considered medium-ready for production due to its useful features for prototypes or internal workflows. However, it requires dependency and maintenance checks before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/frankhli843/openavocado).
 
 ### Русский
 

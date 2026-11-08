@@ -36,8 +36,9 @@ The starwind-ui/starwind-ui-mcp project offers a significant value proposition b
 **Practical Adoption Path:**
 To adopt this project, developers can start by evaluating the exposed implementation signals, such as API/SDK/CLI, language metadata, or focused topics. This will help them determine the best approach to integrate the starwind-ui/starwind-ui-mcp toolkit into their existing Astro or React setup. The project provides recent activity, adoption, and ecosystem signals, making it a reliable choice for serious pilots.
 
-**Production Readiness:**
-The starwind-ui/starwind-ui-mcp project has a high production readiness score, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/starwind-ui/starwind-ui-mcp).
 
 ### Русский
 

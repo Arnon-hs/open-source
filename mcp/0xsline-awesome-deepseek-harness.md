@@ -81,11 +81,9 @@ DeepSeek Harness (DSH) - это экосистема, которая помог�
 * 主要语言为 Python
 * 18 个主题
 
-**风险**
+## 采用前检查
 
-虽然没有发现重大元数据风险，但仍需要对以下风险进行最终审查：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/0xsline/awesome-deepseek-harness)。
 
 ## 🧭 Practical evaluation
 

@@ -44,9 +44,9 @@ To adopt this project, users should:
 3. Perform manual inspection of the project's code and integration signals to ensure it aligns with their application's requirements.
 4. Integrate the project into their application, testing and validating its performance.
 
-**Production Readiness:**
+## Before adopting
 
-The project has medium production readiness due to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six).
 
 ### Русский
 

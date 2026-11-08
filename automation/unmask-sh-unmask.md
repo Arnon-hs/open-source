@@ -39,7 +39,9 @@ The practical adoption path for Unmask involves:
 4. Verification of license and maintenance: Review the project's license and maintenance commitments to ensure they align with your organization's needs.
 5. Production readiness checks: Conduct thorough testing and validation to ensure Unmask is production-ready before deploying it in a live environment.
 
-Production readiness for Unmask is rated as medium, indicating that it can be useful for prototypes or internal workflows but requires careful evaluation and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/unmask-sh/unmask).
 
 ### Русский
 

@@ -39,7 +39,11 @@ Here's a brief summary and analysis of the open-source project:
 2. **Ship Model Context Protocol servers:** Organizations can deploy the MCP server to provide a standardized interface for their AI-powered applications.
 3. **Standardize integrations:** By adopting the MCP protocol, developers and organizations can simplify their integrations and focus on building more complex AI-powered applications.
 
-**Production Readiness:** The project has a high production readiness score, indicating that it is suitable for serious pilots. Recent activity, adoption, and ecosystem signals are
+**Production Readiness:** The project has a high production readiness score, indicating that it is suitable for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/king-of-the-grackles/reddit-research-mcp).
 
 ### Русский
 

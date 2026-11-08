@@ -33,7 +33,11 @@ Cloud & Storage · DevOps/Infra
 
 **Practical Adoption Path:** To integrate Crossplane, it's recommended to start with a small proof of concept and review the README documentation. This will help identify potential integration challenges and ensure a smooth onboarding process. Once the proof of concept is successful, organizations can scale up their adoption of Crossplane to build more complex AI features and workflows.
 
-**Production Readiness:** Crossplane has a high production readiness score, with recent activity, strong adoption, and a robust ecosystem. Its primary language is Go, and it has a large community of maintainers and contributors. While there are some risks associated with
+**Production Readiness:** Crossplane has a high production readiness score, with recent activity, strong adoption, and a robust ecosystem. Its primary language is Go, and it has a large community of maintainers and contributors.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/crossplane/crossplane).
 
 ### Русский
 

@@ -41,7 +41,10 @@ To adopt google/madlad400-3b-mt, users can follow these steps:
 
 1. **Evaluate the model's quality signals**: Assess the model's GitHub stars, last update date, and primary language to gauge its popularity and relevance.
 2. **Verify the license and maintenance**: Check the model's license terms and ensure that it is actively maintained by its developers.
-3. **Inspect the integration signals**: Manually review the model's integration signals to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/google/madlad400-3b-mt).
 
 ### Русский
 

@@ -41,7 +41,11 @@ For practical adoption, the project recommends starting with a small proof of co
 
 **Production Readiness:**
 
-The project has a medium production readiness score, indicating that it's suitable for prototyping or internal workflows. However, careful evaluation and dependency checks are necessary before adopting it in production environments. With 197 GitHub stars and
+The project has a medium production readiness score, indicating that it's suitable for prototyping or internal workflows. However, careful evaluation and dependency checks are necessary before adopting it in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/spcl/serverless-benchmarks).
 
 ### Русский
 

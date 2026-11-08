@@ -39,9 +39,9 @@ The primary value proposition of Lanzaboote lies in its ability to add AI capabi
 
 To adopt Lanzaboote, users should start with a small proof of concept and carefully review the README documentation. This will help identify potential integration challenges and validate the setup cost before committing to a larger-scale deployment. With its relatively low barrier to entry, Lanzaboote makes it feasible for users to evaluate and integrate its features into their existing workflows.
 
-**Production Readiness:**
+## Before adopting
 
-Lanzaboote has demonstrated high production readiness, with strong ecosystem signals, recent activity, and a large user base (1761 GitHub stars and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nix-community/lanzaboote).
 
 ### Русский
 

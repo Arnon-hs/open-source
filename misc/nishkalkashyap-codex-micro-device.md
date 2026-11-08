@@ -44,7 +44,10 @@ To adopt this project, users should follow a cautious approach:
 1. **Verify the project's quality signals:** Check the project's updated date, topics, and other quality signals to ensure it is actively maintained.
 2. **Inspect the code:** Manually review the code to ensure it meets your project's requirements and standards.
 3. **Verify licenses and dependencies:** Check the project's license, dependencies, and release cadence to ensure they align with your project's needs.
-4. **Test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Nishkalkashyap/codex-micro-device).
 
 ### Русский
 

@@ -41,7 +41,11 @@ Before adopting Xpra-org/xpra, users should carefully review its README and acti
 
 **Production Readiness:**
 
-Xpra-org/xpra has high production readiness due to its recent activity, strong adoption, and positive ecosystem signals. With 2873 GitHub stars and 230 forks, the project has a significant user base and
+Xpra-org/xpra has high production readiness due to its recent activity, strong adoption, and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Xpra-org/xpra).
 
 ### Русский
 

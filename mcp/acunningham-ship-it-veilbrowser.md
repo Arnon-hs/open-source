@@ -84,9 +84,9 @@ acunningham-ship-it/veilbrowser 帮助连接 AI 助手和真实工具和数据�
 * 高评分 (78/100)
 * 高风险评分 (高)
 
-但是，仍需要进行最终的审查，特别是：
+## 采用前检查
 
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/acunningham-ship-it/veilbrowser)。
 
 ## 🧭 Practical evaluation
 

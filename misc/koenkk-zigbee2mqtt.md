@@ -39,7 +39,11 @@ Here's a brief summary and explanation of the project:
 2. **Review Documentation:** Carefully review the project's README and documentation to understand its functionality, limitations, and potential issues.
 3. **Assess Activity and Adoption:** Evaluate the project's recent activity, adoption rate, and ecosystem signals to gauge its production readiness.
 
-**Production Readiness:** Koenkk/zigbee2mqtt exhibits high production readiness due to its recent activity, strong adoption, and robust ecosystem signals. However, users should still conduct a final review of the project's license, security posture, and maintainers before deploying it in
+**Production Readiness:** Koenkk/zigbee2mqtt exhibits high production readiness due to its recent activity, strong adoption, and robust ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Koenkk/zigbee2mqtt).
 
 ### Русский
 

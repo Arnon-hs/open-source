@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt Nickel, teams should start with a small proof of concept to evaluate its feasibility and understand its integration path. A thorough review of the README documentation is also essential to ensure a smooth setup process. Once the setup cost is validated, teams can commit to using Nickel in their production environment.
 
-**Production Readiness:** Nickel is considered production-ready with a medium level of maturity. While it has a strong foundation in Rust and a large community, there are some risks associated with its integration path, which may require additional setup and validation before deployment. Nevertheless, Nickel is suitable for use in prototypes or internal workflows, and with proper maintenance and dependency checks, it can be a
+**Production Readiness:** Nickel is considered production-ready with a medium level of maturity. While it has a strong foundation in Rust and a large community, there are some risks associated with its integration path, which may require additional setup and validation before deployment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nickel-lang/nickel).
 
 ### Русский
 

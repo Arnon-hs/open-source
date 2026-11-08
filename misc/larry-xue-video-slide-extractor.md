@@ -41,7 +41,11 @@ Here's a brief summary and explanation of the project:
 4. Perform dependency checks to ensure compatibility with other project components.
 5. Test the project in a controlled environment to ensure it meets their requirements.
 
-**Production Readiness:** This project is considered medium production-ready, meaning it's suitable for prototypes or internal workflows. However, developers should exercise caution and perform thorough checks before deploying it in a production environment. The project's quality signals are limited, and its
+**Production Readiness:** This project is considered medium production-ready, meaning it's suitable for prototypes or internal workflows. However, developers should exercise caution and perform thorough checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/larry-xue/video-slide-extractor).
 
 ### Русский
 

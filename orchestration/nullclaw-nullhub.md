@@ -33,7 +33,11 @@ Orchestration · AI/ML
 
 **Practical Adoption Path:** To adopt nullclaw/nullhub, users should start with a small proof of concept to evaluate its feasibility and understand the integration path. A thorough review of the README documentation is also recommended to ensure a smooth setup process. Once the proof of concept is successful, users can scale up their adoption, taking into account dependency and maintenance checks before moving to production.
 
-**Production Readiness:** nullclaw/nullhub is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, users should carefully evaluate the setup cost and
+**Production Readiness:** nullclaw/nullhub is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nullclaw/nullhub).
 
 ### Русский
 

@@ -41,7 +41,10 @@ The practical adoption path for SamurAIGPT/AI-Youtube-Shorts-Generator involves:
 
 1. Evaluating the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. Assessing the project's production readiness, including recent activity, adoption, and ecosystem signals.
-3. Reviewing the project's quality signals, such as
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator).
 
 ### Русский
 

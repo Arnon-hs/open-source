@@ -36,7 +36,11 @@ Wanta is an open-source desktop AI agent foundation that automates repetitive ta
 
 **Adoption Path:** To adopt Wanta, users should start with a small proof of concept to evaluate its feasibility. A thorough review of the README documentation is also recommended to understand the project's configuration and setup. Once familiar with the project, users can begin integrating Wanta into their existing workflows, starting with small-scale deployments and gradually scaling up as needed.
 
-**Production Readiness:** Wanta is considered production-ready with medium-level readiness, making it suitable for prototype development or internal workflows. However, before deploying Wanta in
+**Production Readiness:** Wanta is considered production-ready with medium-level readiness, making it suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/oomol-lab/wanta).
 
 ### Русский
 

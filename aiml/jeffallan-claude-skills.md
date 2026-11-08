@@ -35,7 +35,11 @@ Here's a brief summary of the Jeffallan/claude-skills project:
 
 **Adoption Path:** The practical adoption path for this project involves evaluating its feasibility through a small proof of concept, checking the README documentation, and assessing the project's license, security posture, and maintainers. Once these factors are reviewed, developers can start integrating the project into their existing systems.
 
-**Production Readiness:** With 10,915 GitHub stars, 1,021 forks, and recent activity, Jeffallan/claude-skills demonstrates strong production readiness. Its high level of adoption, recent updates, and robust ecosystem signals make it an
+**Production Readiness:** With 10,915 GitHub stars, 1,021 forks, and recent activity, Jeffallan/claude-skills demonstrates strong production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Jeffallan/claude-skills).
 
 ### Русский
 

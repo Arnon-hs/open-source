@@ -42,8 +42,9 @@ To adopt Project Akri, follow these steps:
 3. Integrate Akri with your existing Kubernetes infrastructure and edge environment.
 4. Monitor and maintain the project to ensure it continues to meet your needs.
 
-**Production Readiness:**
-Project Akri has a moderate production readiness score, indicating that it's suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/project-akri/akri).
 
 ### Русский
 

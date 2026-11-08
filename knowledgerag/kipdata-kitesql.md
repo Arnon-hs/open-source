@@ -31,7 +31,11 @@ KipData/KiteSQL? Provide maybe 2-3 sentences.
 
 Let's write: "KipData/KiteSQL is an embedded relational database with a native Rust API that lets developers turn internal knowledge bases into searchable, queryable data for assistants. Its straightforward SDK/CLI makes evaluation easy, and recent activity, strong GitHub metrics, and ecosystem signals indicate it is ready for a serious pilot in production environments."
 
-That's 2 sentences. Could add third about adoption path: integrate via API/SDK, evaluate signals, then pilot. Let's produce 3KipData/KiteSQL is an embedded relational database with a native Rust API that lets developers turn internal knowledge bases into searchable, queryable data for assistants. Its exposed SDK/CLI and clear language metadata make evaluation straightforward, enabling teams to quickly index documents, improve search, and ground assistant answers. With recent activity, strong GitHub stars/forks, and ecosystem signals, the project shows high production readiness suitable for
+That's 2 sentences. Could add third about adoption path: integrate via API/SDK, evaluate signals, then pilot. Let's produce 3KipData/KiteSQL is an embedded relational database with a native Rust API that lets developers turn internal knowledge bases into searchable, queryable data for assistants. Its exposed SDK/CLI and clear language metadata make evaluation straightforward, enabling teams to quickly index documents, improve search, and ground assistant answers.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/KipData/KiteSQL).
 
 ### Русский
 

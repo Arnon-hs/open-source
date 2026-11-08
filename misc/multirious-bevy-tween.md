@@ -39,7 +39,9 @@ Here's a brief summary and explanation of the project's value, practical adoptio
 2. **Assess the library's compatibility with Bevy**: Verify that the library is compatible with the version of Bevy being used and that there are no known issues or conflicts.
 3. **Integrate the library into a project**: Once the library has been evaluated and deemed suitable, developers can integrate it into their Bevy-based project.
 
-**Production Readiness:** While Multirious/bevy_tween has a medium production readiness score, it can still be a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Multirious/bevy_tween).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt Guard-AI, developers should follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, license, and release cadence to ensure it meets their needs.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance history to ensure they are up-to-date and reliable.
 3. **Quality Signal Verification**: Assess the project's quality signals, such as its update frequency and issue tracking, to gauge its overall reliability.
-4. **Integration and Testing**: Integrate Guard-AI into their development workflow and thoroughly test its functionality to ensure it meets their security and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Karthikvk1899/guard-ai).
 
 ### Русский
 

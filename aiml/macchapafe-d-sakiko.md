@@ -67,11 +67,9 @@ MacchaPafe/D_sakiko 的主要价值在于它可以帮助开发者快速构建 AI
 2. 遵循项目的文档和指南
 3. 检查项目的安全 posture 和许可证
 
-**生产可用性**
+## 采用前检查
 
-MacchaPafe/D_sakiko 的生产可用性为中等（Medium），适合用于：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/MacchaPafe/D_sakiko)。
 
 ## 🧭 Practical evaluation
 

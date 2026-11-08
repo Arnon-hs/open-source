@@ -41,7 +41,11 @@ To adopt Viceroy, developers need to manually inspect the integration process to
 
 **Production Readiness**
 
-Viceroy has a medium production readiness score, making it suitable for prototypes or internal workflows. However, it is not recommended for production environments without thorough testing and validation. The project's primary language is Rust, and it has a moderate level of activity, with
+Viceroy has a medium production readiness score, making it suitable for prototypes or internal workflows. However, it is not recommended for production environments without thorough testing and validation.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fastly/Viceroy).
 
 ### Русский
 

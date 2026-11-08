@@ -41,7 +41,10 @@ To adopt this project, users should follow these steps:
 
 1. **Manual Inspection:** Carefully review the project's README, activity, and metadata to understand its functionality and limitations.
 2. **Verify Quality Signals:** Check the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your project's requirements.
-3. **Integration and Testing:** Integrate the project into your workflow and thoroughly test its functionality to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SteveVitali/claude-hibernate).
 
 ### Русский
 

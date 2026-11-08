@@ -40,7 +40,10 @@ The primary value proposition of hiero-ledger/hiero-sdk-cpp lies in its ability 
 To adopt hiero-ledger/hiero-sdk-cpp, developers can follow these steps:
 
 1. Evaluate the SDK's implementation details, including its API, SDK, and CLI exposure.
-2. Assess the project's language metadata and focused topics to ensure they align with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hiero-ledger/hiero-sdk-cpp).
 
 ### Русский
 

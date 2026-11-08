@@ -43,8 +43,9 @@ To adopt Mic92/nix-update, follow these steps:
 4. Manually inspect the integration signals to verify the tool's compatibility with your system.
 5. If satisfied, integrate Mic92/nix-update into your workflow and monitor its performance.
 
-**Production Readiness:**
-Mic92/nix-update is considered production-ready with a medium level of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Mic92/nix-update).
 
 ### Русский
 

@@ -34,7 +34,11 @@ This open-source project provides a GPU-accelerated context memory solution for 
 The project's value proposition lies in its ability to accelerate AI capabilities on Apple Silicon devices, allowing developers to build and prototype AI features, agent workflows, and model tooling without requiring a complete model stack. This can help streamline the development process and reduce the time to market for AI-powered applications.
 
 **Practical Adoption Path:**
-To adopt this project, developers should first perform a manual inspection to ensure its suitability for their specific use case. This involves verifying the license, maintenance, documentation, issues, and release cadence to ensure the project's stability and support. Once the project has been vetted, developers can integrate it into their workflow, taking into account any dependencies and maintenance requirements. The project's production readiness is medium, indicating that it is suitable for prototyping and internal workflows, but may require additional checks before deployment in
+To adopt this project, developers should first perform a manual inspection to ensure its suitability for their specific use case. This involves verifying the license, maintenance, documentation, issues, and release cadence to ensure the project's stability and support. Once the project has been vetted, developers can integrate it into their workflow, taking into account any dependencies and maintenance requirements.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/christopherkarani/ContextCore).
 
 ### Русский
 

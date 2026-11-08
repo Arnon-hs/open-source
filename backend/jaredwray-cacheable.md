@@ -41,7 +41,11 @@ To adopt this caching package, users should start with a small proof of concept 
 
 **Production Readiness:**
 
-The production readiness of jaredwray/cacheable is high, thanks to its recent activity, adoption, and strong ecosystem signals. With over 1992 GitHub stars, 203 forks, and a
+The production readiness of jaredwray/cacheable is high, thanks to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jaredwray/cacheable).
 
 ### Русский
 

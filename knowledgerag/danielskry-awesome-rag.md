@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, organizations need to manually inspect the code and metadata to understand the integration path and potential risks. This involves validating the setup cost and ensuring that the project meets the specific requirements of their knowledge management and AI-powered workflows.
 
-**Production Readiness:** The project is considered medium production-ready, indicating that it is suitable for prototypes or internal workflows but requires dependency and maintenance checks before being used in production environments. This means that organizations should be cautious when adopting this project and ensure that it is thoroughly tested and
+**Production Readiness:** The project is considered medium production-ready, indicating that it is suitable for prototypes or internal workflows but requires dependency and maintenance checks before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Danielskry/Awesome-RAG).
 
 ### Русский
 

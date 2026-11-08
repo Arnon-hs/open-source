@@ -40,7 +40,10 @@ To adopt this project, developers should follow these steps:
 2. **Inspect the code**: Review the codebase to understand its structure and potential issues.
 3. **Check dependencies**: Verify that the project's dependencies are up-to-date and compatible with your existing infrastructure.
 4. **Evaluate maintenance**: Assess the project's maintenance history and ensure that it aligns with your organization's standards.
-5. **Review documentation**: Verify that the project's documentation is comprehensive and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/alectrocute/dario-and-amanda-prompt/blob/main/outputs.md).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt langchain-ai/agent-auth-payments, developers can follow these steps:
 1. Evaluate the project's documentation and code quality to ensure it meets their requirements.
 2. Integrate the project into their existing infrastructure, using the provided API, SDK, or CLI.
 3. Configure the payment settings and authentication mechanisms to suit their business needs.
-4. Test the integration thoroughly to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/langchain-ai/agent-auth-payments).
 
 ### Русский
 

@@ -74,7 +74,10 @@ eclipse-openvsx/openvsx 是一个开源的 VS Code 扩展注册表，旨在帮�
 * recent 活跃度：最近有活跃的开发和维护
 * adoption：有强大的社区采用
 * ecosystem signals：有强大的生态系统信号
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/eclipse-openvsx/openvsx)。
 
 ## 🧭 Practical evaluation
 

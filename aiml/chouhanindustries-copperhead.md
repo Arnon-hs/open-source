@@ -81,7 +81,10 @@ Copperhead 的生产可用性为中等（Medium）。它适合用于 Prototypes 
 由于 Copperhead 是一个开源项目，用户需要注意以下风险：
 
 * 许可证风险：用户需要检查 Copperhead 的许可证是否合适
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/chouhanindustries/copperhead)。
 
 ## 🧭 Practical evaluation
 

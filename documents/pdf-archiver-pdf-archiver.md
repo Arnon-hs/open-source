@@ -41,7 +41,11 @@ To adopt PDF-Archiver, users should start with a small proof of concept and revi
 
 **Production Readiness:**
 
-PDF-Archiver is considered production-ready for medium-level workflows, such as prototypes or internal projects. However, users should be aware of the potential risks, including
+PDF-Archiver is considered production-ready for medium-level workflows, such as prototypes or internal projects.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PDF-Archiver/PDF-Archiver).
 
 ### Русский
 

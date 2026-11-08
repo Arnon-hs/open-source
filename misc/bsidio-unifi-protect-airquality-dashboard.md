@@ -39,7 +39,10 @@ Here's a brief summary of the open-source project:
 2. Familiarize themselves with the project's architecture and dependencies.
 3. Inspect the integration signals and metadata to ensure they meet their use case requirements.
 4. Set up and test the project in a development environment.
-5. Gradually migrate the project to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bsidio/unifi-protect-airquality-dashboard).
 
 ### Русский
 

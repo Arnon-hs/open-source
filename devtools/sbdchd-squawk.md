@@ -33,7 +33,11 @@ DevTools · Database
 
 **Practical Adoption Path:** To adopt Squawk, start with a small proof-of-concept and carefully review the README documentation. This will help you understand the integration process and potential setup costs. Once you've validated the setup cost, you can begin integrating Squawk into your development workflow, starting with small-scale projects or internal workflows.
 
-**Production Readiness:** Squawk has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows, but may require additional dependency and maintenance checks before being deployed in production environments. While the tool has a strong community backing and regular updates, the integration path is not immediately obvious from the metadata, which may require additional investigation and
+**Production Readiness:** Squawk has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows, but may require additional dependency and maintenance checks before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sbdchd/squawk).
 
 ### Русский
 

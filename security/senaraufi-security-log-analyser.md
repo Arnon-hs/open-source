@@ -45,7 +45,11 @@ To adopt this project, developers should:
 
 **Production Readiness**
 
-The project is considered "Medium" in terms of production readiness, indicating that it is suitable for prototypes or internal workflows but may require additional checks and validation before being used in production environments. This is due to the limited quality signals and potential risks associated with using an
+The project is considered "Medium" in terms of production readiness, indicating that it is suitable for prototypes or internal workflows but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Senaraufi/Security-Log-Analyser).
 
 ### Русский
 

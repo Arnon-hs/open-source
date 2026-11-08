@@ -37,7 +37,10 @@ Here's a brief summary of the open-source project:
 
 1. **Learning**: Developers and data scientists can start by using the project's tutorials and templates to learn data structures and algorithms.
 2. **Project Implementation**: Once users have a good grasp of the concepts, they can apply them to their own projects, such as organizing analytics pipelines or processing datasets.
-3. **Integration**: The project's API/SDK/CLI implementation signals make it easy to integrate with other tools and systems, allowing users to automate pipelines and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wingkwong/leetcode-the-hard-way).
 
 ### Русский
 

@@ -36,8 +36,9 @@ The primary value proposition of Gideon lies in its ability to remove repetitive
 **Practical Adoption Path:**
 To adopt Gideon, developers can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. This initial step will help identify potential integration points and areas for customization. Once the proof of concept is successful, developers can integrate Gideon into their workflow, starting with small-scale applications and gradually scaling up to more complex use cases.
 
-**Production Readiness:**
-Gideon is considered production-ready for prototypes or internal workflows, but it requires careful evaluation and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/eoko-dev/gideon).
 
 ### Русский
 

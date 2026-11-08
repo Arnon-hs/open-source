@@ -44,9 +44,9 @@ To adopt npm/documentation, follow these steps:
 3. **Integrate with your workflow:** Gradually integrate the project into your local engineering tasks and CI pipeline to automate repetitive tasks and improve feedback.
 4. **Monitor and maintain:** Regularly review the project's dependency and maintenance requirements to ensure it remains secure and up-to-date.
 
-**Production Readiness:**
+## Before adopting
 
-npm/documentation has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/npm/documentation).
 
 ### Русский
 

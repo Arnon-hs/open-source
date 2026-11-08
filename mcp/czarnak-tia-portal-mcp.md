@@ -42,7 +42,10 @@ For developers looking to adopt Czarnak/tia-portal-mcp, a practical adoption pat
 1. Evaluate the bridge's implementation and assess its suitability for your project's requirements.
 2. Familiarize yourself with the Model Context Protocol and its associated standards.
 3. Integrate the bridge with your AI assistant and/or LLM, following the provided documentation and guidelines.
-4. Test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Czarnak/tia-portal-mcp).
 
 ### Русский
 

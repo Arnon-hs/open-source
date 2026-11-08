@@ -39,9 +39,9 @@ The value of dodopayments/dualmark lies in its ability to streamline payment ope
 
 To adopt dodopayments/dualmark, developers can start by evaluating the project's feasibility through a small proof of concept and a thorough review of the README documentation. As the project has a strong ecosystem and recent activity, integrating it into existing systems should be relatively smooth. A phased approach, starting with a small-scale pilot, can help ensure a successful adoption of the infrastructure.
 
-**Production Readiness:**
+## Before adopting
 
-dodopayments/dualmark has demonstrated high production readiness, with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dodopayments/dualmark).
 
 ### Русский
 

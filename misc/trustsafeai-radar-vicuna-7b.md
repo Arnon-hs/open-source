@@ -43,7 +43,10 @@ To adopt this model, developers should:
 2. Inspect the model's code and documentation to understand its architecture and limitations.
 3. Verify the model's license, maintenance, and release cadence to ensure it meets their project's needs.
 4. Test the model in a controlled environment to assess its stability and performance.
-5. Consider fine-tuning or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/TrustSafeAI/RADAR-Vicuna-7B).
 
 ### Русский
 

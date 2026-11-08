@@ -29,7 +29,11 @@ Misc
 
 We need to write a brief summary 2-3 sentences about the open-source project "NPM Registry Protocol". Use given description: discovered from Hacker News (github-mentions). Score 41/100. Categories: Misc. Value proposition: may be useful when its README and activity match a concrete workflow. Use cases: none listed. Integration notes: needs manual inspection before adoption because integration signals are sparse. Production readiness: Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production. Quality signals: updated 2026-08-05; 2 topics. Risks: quality signals limited; verify license, maintenance, docs, issues, release cadence.
 
-We need to explain value, practical adoption path, and production readiness. 2-3 sentences. Let's craft: The NPM Registry Protocol provides a lightweight interface for interacting with npm registries, offering value when its documentation aligns with a specific workflow such as publishing or mirroring packages. Adoption requires manual inspection of the README, license, and activity to ensure it fits your integration needs, as signals are sparse. It is considered medium‑readiness—suitable for prototypes or internal tools, but you should run dependency and maintenance checks before moving to
+We need to explain value, practical adoption path, and production readiness. 2-3 sentences. Let's craft: The NPM Registry Protocol provides a lightweight interface for interacting with npm registries, offering value when its documentation aligns with a specific workflow such as publishing or mirroring packages. Adoption requires manual inspection of the README, license, and activity to ensure it fits your integration needs, as signals are sparse.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/npm/statusboard/issues/340).
 
 ### Русский
 

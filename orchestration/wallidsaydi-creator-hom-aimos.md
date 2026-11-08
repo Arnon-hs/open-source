@@ -42,7 +42,10 @@ To adopt this project, users should follow these steps:
 1. **Manual Inspection**: Carefully review the project's code, documentation, and issues to ensure it meets their requirements.
 2. **Verify Quality Signals**: Check the project's update history, topics, and other quality signals to gauge its reliability and maintainability.
 3. **Dependency and Maintenance Checks**: Verify that the project's dependencies are up-to-date and that the project is actively maintained.
-4. **Verify License and Release Cadence**: Ensure that the project's license is compatible with their needs and that
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wallidsaydi-creator/HOM-AIMOS).
 
 ### Русский
 

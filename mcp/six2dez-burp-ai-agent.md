@@ -42,7 +42,10 @@ To adopt six2dez/burp-ai-agent, users can follow these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. Review the project's license, security posture, and active maintainers to ensure they meet your organization's requirements.
 3. Integrate the Burp Suite extension with your existing tools and workflows.
-4. Configure the MCP protocol to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/six2dez/burp-ai-agent).
 
 ### Русский
 

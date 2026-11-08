@@ -37,7 +37,11 @@ The primary value proposition of mganss/XmlSchemaClassGenerator lies in its abil
 To adopt mganss/XmlSchemaClassGenerator, developers should start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and ensure a smooth setup process. Once the project is installed and configured, developers can begin using it to generate C# classes from XML Schema files and start building their AI capabilities.
 
 **Production Readiness:**
-mganss/XmlSchemaClassGenerator is considered to be at medium production readiness. While it is useful for
+mganss/XmlSchemaClassGenerator is considered to be at medium production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mganss/XmlSchemaClassGenerator).
 
 ### Русский
 

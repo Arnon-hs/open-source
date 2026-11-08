@@ -42,7 +42,10 @@ To adopt this project, developers should follow these steps:
 1. **Manual Inspection:** Carefully review the project's documentation, code, and dependencies to understand its functionality and potential limitations.
 2. **Dependency and Maintenance Checks:** Verify that the project's dependencies are up-to-date and that the maintenance schedule is reasonable.
 3. **Verify License and Release Cadence:** Ensure that the project's license is suitable for your use case and that the release cadence is regular and reliable.
-4. **Evaluate Quality Signals:** Assess the project's quality signals, such as
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gradian-ai/gradian).
 
 ### Русский
 

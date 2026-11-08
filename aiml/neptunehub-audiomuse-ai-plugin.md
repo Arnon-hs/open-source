@@ -36,7 +36,10 @@ AI/ML
 1. **Evaluation**: The plugin's straightforward API/SDK/CLI implementation makes it easy to evaluate its capabilities and potential for integration with existing projects.
 2. **Prototype Development**: Users can leverage the plugin to prototype AI features, such as music recommendation systems, and test their feasibility and effectiveness.
 3. **Workflow Development**: Once the plugin is integrated, users can build workflows around it, such as building a recommendation engine or creating a custom music discovery experience.
-4. **Production-Ready Environment**: Before deploying the plugin in a production environment, users should perform dependency and maintenance checks to ensure a stable and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NeptuneHub/audiomuse-ai-plugin).
 
 ### Русский
 

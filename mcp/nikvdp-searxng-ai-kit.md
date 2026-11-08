@@ -39,7 +39,9 @@ Here's a brief summary of the open-source project:
 2. **Internal Workflows:** Organizations can adopt this project to standardize integrations within their internal workflows, improving collaboration and efficiency.
 3. **Production Environment:** Before deploying this project in a production environment, developers should thoroughly verify dependencies, maintenance requirements, and release cadence to ensure stability and reliability.
 
-**Production Readiness:** While the project has medium production readiness, it is not yet suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nikvdp/searxng-ai-kit).
 
 ### Русский
 

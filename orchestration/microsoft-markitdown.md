@@ -40,7 +40,9 @@ Microsoft/markitdown is a Python tool that enables the conversion of files and o
 3. **Pilot Project:** Pilot the tool in a controlled environment to assess its performance, scalability, and potential impact on your workflows.
 4. **Production Deployment:** Once satisfied with the results of the pilot, deploy the tool in your production environment, ensuring proper monitoring and maintenance.
 
-**Production Readiness:** With
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/microsoft/markitdown).
 
 ### Русский
 

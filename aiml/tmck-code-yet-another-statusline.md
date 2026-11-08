@@ -43,7 +43,10 @@ To adopt yet-another-statusline in a production environment, follow these steps:
 2. **Start with a small proof of concept**: Test the statusline in a controlled environment to ensure it meets your requirements.
 3. **Review the README**: Understand the project's documentation, dependencies, and maintenance requirements.
 4. **Perform dependency and maintenance checks**: Verify that the project's dependencies are up-to-date and compatible with your system.
-5. **Integrate with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tmck-code/yet-another-statusline).
 
 ### Русский
 

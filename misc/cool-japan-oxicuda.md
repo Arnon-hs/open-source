@@ -37,7 +37,11 @@ The value proposition of OxiCUDA lies in its potential to provide a secure and r
 To adopt OxiCUDA, users should start with a small proof of concept to evaluate its feasibility and integration path, which is not immediately obvious from the metadata. This involves checking the README and validating the setup cost before committing to a larger-scale implementation. Users should also be prepared to invest time in learning Rust and adapting their workflows to the new technology.
 
 **Production Readiness:**
-OxiCUDA is considered moderately production-ready, with a score of 57/100. It may be suitable for prototypes or
+OxiCUDA is considered moderately production-ready, with a score of 57/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cool-japan/oxicuda).
 
 ### Русский
 

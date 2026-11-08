@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt ScriptCat, users can start by reviewing the extension's README and evaluating its feasibility through a small proof of concept. Once familiar with the extension's capabilities and limitations, users can begin integrating ScriptCat into their workflow, starting with a small-scale pilot. This approach will help users assess the extension's value and potential risks before scaling up its adoption.
 
-**Production Readiness:** ScriptCat's high production readiness is reflected in its strong ecosystem signal, recent activity, and adoption metrics (4733 GitHub stars and 355 forks). The extension's primary language, TypeScript, and 5 topics indicate a well-maintained and
+**Production Readiness:** ScriptCat's high production readiness is reflected in its strong ecosystem signal, recent activity, and adoption metrics (4733 GitHub stars and 355 forks).
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/scriptscat/scriptcat).
 
 ### Русский
 

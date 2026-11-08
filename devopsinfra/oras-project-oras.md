@@ -71,7 +71,10 @@ oras-project/oras 的生产可用性很高，理由如下：
 
 * 近期活动：oras-project/oras 有近期的更新和活动。
 * 采用率：oras-project/oras 有 2371 个 GitHub 星标和 249 个分支。
-* 生态系统信号：oras-project/oras 有强大的生态系统信号，包括
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/oras-project/oras)。
 
 ## 🧭 Practical evaluation
 

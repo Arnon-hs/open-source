@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path**: To adopt this project, users can start by evaluating its integration signals, such as API/SDK/CLI, language metadata, or focused topics. They can then prototype AI features, build workflows, and evaluate model tooling using the provided tools and resources. With a straightforward evaluation process, users can quickly determine whether this project meets their needs.
 
-**Production Readiness**: The project has a high production readiness score, indicating that it is suitable for serious piloting. Recent activity, adoption, and ecosystem signals are strong, and the project has a solid license, language, and topic structure. However, users should still conduct a
+**Production Readiness**: The project has a high production readiness score, indicating that it is suitable for serious piloting. Recent activity, adoption, and ecosystem signals are strong, and the project has a solid license, language, and topic structure.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ucsandman/marketing-studio).
 
 ### Русский
 

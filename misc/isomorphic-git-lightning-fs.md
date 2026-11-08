@@ -36,8 +36,9 @@ The value of isomorphic-git/lightning-fs lies in its ability to provide a lean a
 **Practical Adoption Path:**
 Adopting isomorphic-git/lightning-fs requires a manual inspection of the project's README and codebase to understand its integration path and potential setup costs. This involves evaluating the project's documentation, code quality, and community support to ensure it meets the specific needs of your workflow. A careful evaluation of the project's risks, including potential integration challenges and maintenance costs, is also essential before committing to its use.
 
-**Production Readiness:**
-isomorphic-git/lightning-fs has a medium production readiness score, indicating that it's suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/isomorphic-git/lightning-fs).
 
 ### Русский
 

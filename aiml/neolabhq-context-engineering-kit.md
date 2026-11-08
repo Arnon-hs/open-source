@@ -36,7 +36,10 @@ AI/ML
 1. **Evaluate Compatibility:** Assess the compatibility of the kit with their existing frameworks, such as OpenCode, Cursor, or Gemini CLI.
 2. **Explore Code Skills:** Familiarize themselves with the provided Claude Code Skills and understand how they can be tailored to their specific use case.
 3. **Integrate with Existing Tools:** Integrate the kit with their existing development tools and workflows to streamline the development process.
-4. **Test and Refine:** Test the kit in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NeoLabHQ/context-engineering-kit).
 
 ### Русский
 

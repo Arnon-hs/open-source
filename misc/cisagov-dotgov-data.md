@@ -40,7 +40,9 @@ Here is a brief summary of the open-source project:
 3. **Integration and testing:** Integrate the dataset into your project and perform thorough testing to ensure compatibility and accuracy.
 4. **Dependency and maintenance checks:** Conduct regular checks on dependencies and maintenance requirements to ensure production readiness.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows, but requires careful evaluation and testing before being deployed in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cisagov/dotgov-data).
 
 ### Русский
 

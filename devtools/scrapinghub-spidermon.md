@@ -37,7 +37,11 @@ DevTools · Observability
 2. Integrate Spidermon into their Scrapy-based projects, taking advantage of its monitoring capabilities to track spider execution.
 3. Standardize service patterns across the organization by leveraging Spidermon's reusable infrastructure.
 
-**Production Readiness:** Spidermon is considered high for production readiness due to its recent activity, adoption, and strong ecosystem signals. With 562 GitHub stars and 102 forks, the project demonstrates a significant user base and
+**Production Readiness:** Spidermon is considered high for production readiness due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/scrapinghub/spidermon).
 
 ### Русский
 

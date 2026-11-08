@@ -35,7 +35,11 @@ Here's a brief summary of the shetabit/multipay project:
 
 **Practical Adoption Path:** To adopt shetabit/multipay, developers should start with a small proof of concept and carefully review the README documentation to ensure they understand the integration path. This package is most suitable for developers who are comfortable with PHP and have experience with payment operations. Before committing to production, it's essential to validate the setup cost and perform necessary dependency and maintenance checks.
 
-**Production Readiness:** With a score of 53/100, shetabit/multipay has medium production readiness. While it's a useful tool for prototypes or
+**Production Readiness:** With a score of 53/100, shetabit/multipay has medium production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/shetabit/multipay).
 
 ### Русский
 

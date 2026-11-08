@@ -37,7 +37,11 @@ The primary value of riscv/learn lies in its ability to add AI capability withou
 To adopt riscv/learn, developers must manually inspect and validate the project's metadata due to sparse integration signals. This involves verifying the project's setup cost and ensuring that it meets their specific needs. Once validated, developers can integrate the project into their workflow, but it's recommended to do so with caution and thorough testing.
 
 **Production Readiness:**
-riscv/learn has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but requires careful consideration and validation before being used in production. This
+riscv/learn has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but requires careful consideration and validation before being used in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/riscv/learn).
 
 ### Русский
 

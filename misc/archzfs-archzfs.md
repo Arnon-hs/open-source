@@ -39,9 +39,9 @@ The archzfs/archzfs project offers a value proposition for users who require ZFS
 
 Before adopting archzfs/archzfs, users should carefully evaluate the project's README, activity, and integration signals to ensure it aligns with their specific workflow and requirements. They should also perform manual inspection and validate the setup cost before committing to its use. This cautious approach will help users avoid potential integration issues and ensure a smooth adoption process.
 
-**Production Readiness:**
+## Before adopting
 
-The archzfs/archzfs project has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/archzfs/archzfs).
 
 ### Русский
 

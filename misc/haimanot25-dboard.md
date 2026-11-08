@@ -37,7 +37,11 @@ The value of this project lies in its ability to simplify the process of creatin
 To adopt this project, developers should first manually inspect the code and dependencies to ensure compatibility with their existing infrastructure. They should also verify the license, maintenance, documentation, issues, and release cadence to ensure the project is well-maintained and suitable for their needs. Once these checks are complete, developers can integrate the project into their workflow and start building admin panels faster.
 
 **Production Readiness**
-The production readiness of this project is medium, indicating that it is suitable for prototypes, internal workflows, or small-scale production environments. However, it may not be ready for large-scale production environments due to limited quality signals and
+The production readiness of this project is medium, indicating that it is suitable for prototypes, internal workflows, or small-scale production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Haimanot25/dboard).
 
 ### Русский
 

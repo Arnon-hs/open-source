@@ -77,7 +77,11 @@ Falconsai/text_summarization 的接入方式需要手动检查，因为发现的
 
 ** 生产可用性 **
 
-Falconsai/text_summarization 的生产可用性尚不明确。它被视为研究材料，直到维护、发布、文档和问题活动得到验证。因此，
+Falconsai/text_summarization 的生产可用性尚不明确。它被视为研究材料，直到维护、发布、文档和问题活动得到验证。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://huggingface.co/Falconsai/text_summarization)。
 
 ## 🧭 Practical evaluation
 

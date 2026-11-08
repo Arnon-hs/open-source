@@ -39,7 +39,10 @@ To adopt the Kairos Engine, users should follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, code, and issues to ensure it meets their specific needs.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance records to ensure they are up-to-date and reliable.
 3. **Verify License and Quality Signals**: Confirm the project's license and quality signals, such as its release cadence, documentation, and issue tracking.
-4. **Prototype or Internal Workflow**: Use the Kairos Engine in a controlled environment, such as a prototype or internal workflow, to test its functionality and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mohamadomar-ai/kairos-engine).
 
 ### Русский
 

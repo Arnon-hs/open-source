@@ -44,7 +44,10 @@ The project's primary value proposition is to help developers add AI capabilitie
 To adopt Tencent/teamai-cli, follow these steps:
 
 1. Evaluate the project: Review the GitHub repository, README, and code quality to ensure it meets your project's needs.
-2. Conduct a small proof of concept: Implement a simple use case to test the project's functionality and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Tencent/teamai-cli).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the PocketJS project:
 
 **Practical Adoption Path:** To adopt PocketJS, developers should first manually inspect the project to ensure it meets their needs. This involves verifying the license, maintenance, documentation, issues, and release cadence. Once satisfied, developers can integrate PocketJS into their projects, taking into account the potential risks and limitations. Given its medium production readiness, PocketJS is best suited for prototypes or internal workflows.
 
-**Production Readiness:** PocketJS has a medium production readiness score, indicating that while it can be useful for certain use cases, it may not be ready for widespread adoption in production environments. This is due to limited quality signals, sparse integration signals, and
+**Production Readiness:** PocketJS has a medium production readiness score, indicating that while it can be useful for certain use cases, it may not be ready for widespread adoption in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pocket-stack/pocketjs).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The project's value lies in its ability to streamline the development process by
 
 **Practical Adoption Path:**
 
-To adopt this project, developers should start by evaluating its feasibility through a small proof of concept. This involves checking the project's README documentation and understanding the setup process. Once familiar with the project, developers can begin integrating it into their product, starting with a small portion of the UI. This will help validate the setup cost and identify any potential issues before committing to a
+To adopt this project, developers should start by evaluating its feasibility through a small proof of concept. This involves checking the project's README documentation and understanding the setup process. Once familiar with the project, developers can begin integrating it into their product, starting with a small portion of the UI.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation).
 
 ### Русский
 

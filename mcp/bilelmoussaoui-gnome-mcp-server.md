@@ -42,7 +42,10 @@ Developers interested in adopting this project can follow these steps:
 1. Evaluate the project's documentation and codebase to understand its implementation and API/SDK/CLI signals.
 2. Assess the project's production readiness and potential risks, such as license, security posture, and maintainership.
 3. Integrate the MCP server with their AI assistant or tool of choice, following the standardized protocol.
-4. Test and refine the integration to ensure seamless communication and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bilelmoussaoui/gnome-mcp-server).
 
 ### Русский
 

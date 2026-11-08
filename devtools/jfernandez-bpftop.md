@@ -35,7 +35,11 @@ Here is a brief summary of the project and an explanation of its value, practica
 
 **Practical Adoption Path:** To adopt bpftop, users can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The project's recent activity, adoption, and ecosystem signals are strong indicators of its production readiness, making it a suitable candidate for a serious pilot. The integration process should be straightforward, allowing users to easily incorporate bpftop into their existing workflows.
 
-**Production Readiness:** With a high production readiness score, bpftop is well-suited for production environments. Its recent activity, 2697 GitHub stars, and strong adoption signals suggest that it is a stable and reliable project. Additionally, its
+**Production Readiness:** With a high production readiness score, bpftop is well-suited for production environments. Its recent activity, 2697 GitHub stars, and strong adoption signals suggest that it is a stable and reliable project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jfernandez/bpftop).
 
 ### Русский
 

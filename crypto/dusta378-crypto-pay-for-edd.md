@@ -45,7 +45,11 @@ To adopt this project, developers can follow these steps:
 
 **Production Readiness:**
 
-The project has a medium production readiness score, indicating that it's suitable for internal workflows, testing, and prototyping purposes. While it's not yet ready for production, it can be used as a
+The project has a medium production readiness score, indicating that it's suitable for internal workflows, testing, and prototyping purposes.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dusta378/crypto-pay-for-edd).
 
 ### Русский
 

@@ -38,7 +38,9 @@ Misc
 3. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements to ensure they align with your development environment and workflow.
 4. **Prototype or Internal Workflow**: Test Aztec Experiments in a prototype or internal workflow to validate its functionality and potential benefits.
 
-**Production Readiness:** While Aztec Experiments may be useful for prototypes or internal workflows, its production readiness is limited due to the
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vbuterin/aztec_experiments).
 
 ### Русский
 

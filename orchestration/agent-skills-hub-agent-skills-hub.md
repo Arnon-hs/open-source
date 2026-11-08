@@ -42,7 +42,9 @@ Orchestration · AI/ML · DevTools
 3. Review the library's documentation and community resources to ensure a smooth onboarding experience
 4. Pilot the library in a controlled environment to test its functionality and scalability
 
-**Production Readiness:** Agent Skills Hub exhibits strong production readiness signals, including
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/agent-skills-hub/agent-skills-hub).
 
 ### Русский
 

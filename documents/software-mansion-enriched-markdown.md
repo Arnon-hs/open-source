@@ -41,7 +41,11 @@ To adopt Enriched Markdown, developers should start by evaluating the library th
 
 **Production Readiness:**
 
-Enriched Markdown is considered medium production-ready, meaning it is suitable for prototypes or internal workflows but requires careful evaluation and planning before being used in production environments. This
+Enriched Markdown is considered medium production-ready, meaning it is suitable for prototypes or internal workflows but requires careful evaluation and planning before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/software-mansion/enriched-markdown).
 
 ### Русский
 

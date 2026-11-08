@@ -39,7 +39,9 @@ For practical adoption, users should follow these steps:
 2. Manually integrate the project into their workflow, taking care to address any potential dependencies or maintenance requirements.
 3. Verify the project's license, maintenance, documentation, issue history, and release cadence to ensure it meets their quality and reliability standards.
 
-In terms of production readiness, SpeechCompass is considered medium-ready, indicating that it can be useful for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/google-deepmind/speech-compass/).
 
 ### Русский
 

@@ -84,9 +84,9 @@ kubernetes-csi/csi-driver-smb 的价值在于它可以帮助 Kubernetes 访问 S
 * 有较强的采用率。
 * 生态系统信号强大。
 
-但是，还需要对以下风险进行最终审查：
+## 采用前检查
 
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/kubernetes-csi/csi-driver-smb)。
 
 ## 🧭 Practical evaluation
 

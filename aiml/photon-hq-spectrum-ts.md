@@ -46,7 +46,10 @@ To adopt photon-hq/spectrum-ts, developers can follow these steps:
 1. Evaluate the project's feasibility by reading the README and conducting a small proof of concept.
 2. Assess the project's dependencies and maintenance requirements to ensure they align with your organization's standards.
 3. Integrate the project into your existing workflows, starting with a prototype or internal pilot.
-4. Monitor the project's updates and maintainers to ensure continued support and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/photon-hq/spectrum-ts).
 
 ### Русский
 

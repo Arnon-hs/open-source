@@ -45,9 +45,11 @@ To adopt Enatega, teams can start by:
 
 **Production Readiness:**
 
-Enatega has a high production readiness score, indicating that it is suitable for serious pilots. The project has:
+Enatega has a high production readiness score, indicating that it is suitable for serious pilots.
 
-* Recent activity (updated in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/enatega/food-delivery-multivendor).
 
 ### Русский
 

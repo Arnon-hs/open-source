@@ -40,7 +40,10 @@ To adopt cniska/acolyte, developers can follow these steps:
 2. Review the project's dependencies and maintenance checks to ensure production readiness.
 3. Explore the project's use cases, such as removing manual work, connecting tools into repeatable flows, and scheduling operational tasks.
 4. Assess the project's risks, including license, security posture, and active maintainers.
-5. Integrate cniska/acolyte into your development workflow to automate tasks and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cniska/acolyte).
 
 ### Русский
 

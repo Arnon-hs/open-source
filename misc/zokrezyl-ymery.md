@@ -42,7 +42,10 @@ To adopt Ymery, users can follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it meets their needs and is well-maintained.
 2. **Verify Dependencies**: Check the project's dependencies and ensure they are compatible with their existing infrastructure.
 3. **Prototype and Test**: Use Ymery to prototype AI features, workflows, or tooling, and thoroughly test its functionality.
-4. **Refine and Iterate**: Based on the results, refine and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zokrezyl/ymery).
 
 ### Русский
 

@@ -46,7 +46,11 @@ To adopt JetBrains/kotlin-toolchain, follow these steps:
 
 **Production Readiness**
 
-The JetBrains/kotlin-toolchain is considered medium-production ready, making it suitable for prototype development or internal workflows. However, before deploying the toolchain in production, it is
+The JetBrains/kotlin-toolchain is considered medium-production ready, making it suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JetBrains/kotlin-toolchain).
 
 ### Русский
 

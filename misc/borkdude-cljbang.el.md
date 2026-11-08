@@ -37,7 +37,10 @@ As for the practical adoption path, here's a step-by-step guide:
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance signals to ensure they are up-to-date and reliable.
 3. **Verify Quality Signals**: Check the project's license, documentation, issues, and release cadence to ensure they meet your standards.
 4. **Prototype or Internal Use**: If the project meets your requirements, start by using it in a prototype or internal workflow to gauge its effectiveness.
-5. **Production-Ready Adoption**: Once you're satisfied with the project's performance and reliability, consider adopting it in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/borkdude/cljbang.el).
 
 ### Русский
 

@@ -42,8 +42,9 @@ To adopt ThomasLangbroek/frugal, follow these steps:
 4. Integrate frugal into your workflow, starting with prototypes or internal workflows.
 5. Monitor and refine the integration as needed to ensure optimal performance.
 
-**Production Readiness:**
-ThomasLangbroek/frugal is rated as "Medium" in terms of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ThomasLangbroek/frugal).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The primary value of AndreyAkinshin/perfolizer lies in its ability to reduce cus
 To adopt AndreyAkinshin/perfolizer, teams should start with a small proof of concept to evaluate its feasibility and understand the integration process. It's essential to carefully review the README documentation and consider the setup cost before committing to production. This will help teams determine if the toolkit aligns with their specific needs and requirements.
 
 **Production Readiness:**
-While AndreyAkinshin/perfolizer offers a medium level of production readiness, it is still a valuable tool for certain use cases. Its usefulness is most apparent in prototype development or internal workflows, where the setup costs and
+While AndreyAkinshin/perfolizer offers a medium level of production readiness, it is still a valuable tool for certain use cases.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AndreyAkinshin/perfolizer).
 
 ### Русский
 

@@ -43,7 +43,10 @@ To adopt EasyAIoT, developers can follow these steps:
 2. **Set up a test environment**: Create a local testing environment to experiment with the project and understand its capabilities.
 3. **Integrate with IoT devices**: Connect EasyAIoT with IoT devices, such as surveillance cameras, to collect and analyze data.
 4. **Customize AI models**: Use the project's API to customize AI models and algorithms to meet specific use cases.
-5. **Deploy and maintain**: Deploy the project in a production environment and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/soaring-xiongkulu/easyaiot).
 
 ### Русский
 

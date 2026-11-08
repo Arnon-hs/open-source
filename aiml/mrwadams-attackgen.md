@@ -33,7 +33,11 @@ AI/ML · Security
 
 **Practical Adoption Path:** To adopt AttackGen, users should start with a small proof of concept and review the README documentation to understand the tool's functionality and requirements. This will help identify potential integration challenges and ensure a smooth onboarding process. As the tool has a medium production readiness score, it's recommended to perform dependency and maintenance checks before deploying it in a production environment.
 
-**Production Readiness:** AttackGen has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but may require additional evaluation and testing before being deployed in a production environment. With
+**Production Readiness:** AttackGen has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but may require additional evaluation and testing before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mrwadams/attackgen).
 
 ### Русский
 

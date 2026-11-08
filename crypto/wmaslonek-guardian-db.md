@@ -41,7 +41,11 @@ To adopt GuardianDB, developers should start with a small proof of concept and c
 
 **Production Readiness:**
 
-GuardianDB has medium production readiness, making it suitable for internal workflows or prototypes. However, it's essential to
+GuardianDB has medium production readiness, making it suitable for internal workflows or prototypes.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wmaslonek/guardian-db).
 
 ### Русский
 

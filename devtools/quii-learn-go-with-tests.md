@@ -41,7 +41,11 @@ To adopt quii/learn-go-with-tests, developers can start by evaluating the projec
 
 **Production Readiness:**
 
-quii/learn-go-with-tests is considered high in production readiness, with strong ecosystem signals, recent activity, and adoption. The project's 23,816 GitHub stars and
+quii/learn-go-with-tests is considered high in production readiness, with strong ecosystem signals, recent activity, and adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/quii/learn-go-with-tests).
 
 ### Русский
 

@@ -41,7 +41,11 @@ Before adopting Alternet, developers should conduct manual inspection to clarify
 
 **Production Readiness:**
 
-Alternet's production readiness is classified as medium, indicating that it is suitable for proof-of-concept or internal use cases. However, its
+Alternet's production readiness is classified as medium, indicating that it is suitable for proof-of-concept or internal use cases.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ravendevteam/alternet).
 
 ### Русский
 

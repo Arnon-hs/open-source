@@ -42,7 +42,10 @@ To adopt this project, users can follow these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. Assess the project's quality signals, including GitHub stars, forks, updates, and primary language.
 3. Review the project's risks, including license, security posture, and active maintainers.
-4. Integrate the project into existing workflows, leveraging its API/SDK/CLI or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AI-agents-incubator/news).
 
 ### Русский
 

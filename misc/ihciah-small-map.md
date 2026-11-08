@@ -37,7 +37,11 @@ The primary value proposition of ihciah/small-map lies in its ability to simplif
 To adopt ihciah/small-map, developers should first manually inspect the integration requirements and signals to ensure a smooth adoption process. This involves validating the setup cost and potential dependencies before committing to the project. Once the integration path is understood, developers can leverage the hashmap to enhance their project's AI capabilities.
 
 **Production Readiness:**
-The production readiness of ihciah/small-map is currently at a medium level, making it suitable for prototypes or internal workflows. However, before deploying it in production, developers should perform thorough dependency and maintenance checks to ensure the project's stability and
+The production readiness of ihciah/small-map is currently at a medium level, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ihciah/small-map).
 
 ### Русский
 

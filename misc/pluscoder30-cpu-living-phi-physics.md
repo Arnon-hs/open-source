@@ -45,7 +45,11 @@ To adopt Living-Phi-Physics, follow these steps:
 
 **Production Readiness:**
 
-Living-Phi-Physics is rated as "Medium" in terms of production readiness. While it may be useful for
+Living-Phi-Physics is rated as "Medium" in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pluscoder30-cpu/Living-Phi-Physics).
 
 ### Русский
 

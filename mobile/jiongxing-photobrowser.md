@@ -37,7 +37,11 @@ The primary value proposition of JiongXing/PhotoBrowser lies in its ability to h
 To adopt JiongXing/PhotoBrowser, start with a small proof of concept to evaluate its feasibility. Begin by checking the project's README and assessing the setup cost before committing to a larger implementation. This will help you understand the project's strengths and potential integration challenges.
 
 **Production Readiness:**
-JiongXing/PhotoBrowser has a high production readiness score due to its recent activity, strong adoption (1428 GitHub stars and 222 forks), and positive ecosystem signals. Its primary language, Swift, and 9 topics suggest a
+JiongXing/PhotoBrowser has a high production readiness score due to its recent activity, strong adoption (1428 GitHub stars and 222 forks), and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JiongXing/PhotoBrowser).
 
 ### Русский
 

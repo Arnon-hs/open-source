@@ -42,7 +42,10 @@ To adopt "actual-mcp-server", users can follow these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to ensure it meets their requirements.
 2. Assess the project's production readiness, considering recent activity, adoption, and ecosystem signals.
 3. Review the project's license, security posture, and active maintainers to ensure it aligns with their organization's needs.
-4. Integrate the "actual-mcp-server" with their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/agigante80/actual-mcp-server).
 
 ### Русский
 

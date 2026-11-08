@@ -39,9 +39,9 @@ The primary value proposition of react-dropzone lies in its ability to facilitat
 
 To adopt react-dropzone, start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help you understand the project's requirements and potential integration challenges. Once you've assessed the project's potential, you can begin integrating it into your application, starting with a small pilot project. As you gain more experience and confidence, you can scale up the adoption to meet your organization's needs.
 
-**Production Readiness:**
+## Before adopting
 
-react-dropzone is considered production-ready due to its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/react-dropzone/react-dropzone).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt this project, users should follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, code, and metadata to understand its functionality and limitations.
 2. **Integration**: Integrate the project into your existing workflow, ensuring a smooth connection between tools and processes.
 3. **Testing**: Thoroughly test the project to identify any potential issues or bottlenecks.
-4. **Verification**: Verify the project's license, maintenance, documentation, issues, and release cadence to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PJHkorea/fluidic-expert-fabric).
 
 ### Русский
 

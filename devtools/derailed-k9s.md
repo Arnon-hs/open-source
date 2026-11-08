@@ -35,7 +35,11 @@ Here's a brief summary of the derailed/k9s project:
 
 **Practical Adoption Path:** Adopting derailed/k9s involves evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. Once evaluated, users can integrate it into their existing workflows, leveraging its capabilities to manage their Kubernetes clusters. The project's recent activity, adoption, and ecosystem signals indicate a relatively low-risk adoption path.
 
-**Production Readiness:** With 34,206 GitHub stars, 2,232 forks, and recent updates, derailed/k9s demonstrates a high level of production readiness. Its strong ecosystem signals, including
+**Production Readiness:** With 34,206 GitHub stars, 2,232 forks, and recent updates, derailed/k9s demonstrates a high level of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/derailed/k9s).
 
 ### Русский
 

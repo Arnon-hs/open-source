@@ -38,7 +38,11 @@ Matars/gitfetch offers a faster and more efficient way to build product UIs by r
 To adopt Matars/gitfetch, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then integrate it into their project by following the exposed implementation signals. Given its recent activity, adoption, and strong ecosystem signals, Matars/gitfetch is likely to be a stable and reliable choice.
 
 **Production Readiness:**
-Matars/gitfetch has a high production readiness score, indicating that it is a mature and reliable project. Its recent activity, adoption, and strong ecosystem signals suggest that it is well-maintained and
+Matars/gitfetch has a high production readiness score, indicating that it is a mature and reliable project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Matars/gitfetch).
 
 ### Русский
 

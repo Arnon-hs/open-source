@@ -38,7 +38,10 @@ Here's a brief summary and explanation of the project:
 1. **Familiarize themselves with the API**: Read the documentation and explore the available endpoints to understand how to use the API.
 2. **Choose a programming language**: Select a language that is supported by the API, such as Python.
 3. **Set up the necessary dependencies**: Install the required libraries and dependencies to interact with the API.
-4. **Integrate with AI agents**: Use the MCP protocol to connect their AI agents to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tmwgsicp/wechat-download-api).
 
 ### Русский
 
@@ -62,7 +65,10 @@ tmwgsicp/wechat-download-api 支持以下几种典型接入方式：
 
 1. API：通过 API 接口，AI 辅助工具可以直接调用微信公众号文章获取和 RSS 订阅服务。
 2. SDK：提供 SDK 接口，使得 AI 辅助工具可以以编程方式调用微信公众号文章获取和 RSS 订阅服务。
-3.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/tmwgsicp/wechat-download-api)。
 
 ## 🧭 Practical evaluation
 

@@ -69,11 +69,9 @@ ArvinLovegood/go-stock 帮助开发者在不从零开始的基础上添加 AI �
 2. 读取 README 文件：阅读 README 文件了解项目的使用方法和注意事项。
 3. 实现小规模 PoC（Proof of Concept）：开始小规模的 PoC 来评估项目的可行性。
 
-**生产可用性**
+## 采用前检查
 
-ArvinLovegood/go-stock 的生产可用性很高，主要原因是：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/ArvinLovegood/go-stock)。
 
 ## 🧭 Practical evaluation
 

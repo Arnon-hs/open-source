@@ -41,7 +41,11 @@ To adopt this project, start by carefully reviewing its README and activity to u
 
 **Production Readiness:**
 
-DreymaR/BigBagKbdTrixPKL is considered production-ready with medium readiness. It is suitable for use in prototypes or internal workflows, but its integration path is not immediately obvious from the metadata. Therefore, it is essential to validate the setup cost and potential risks before committing to production use. Regular maintenance and
+DreymaR/BigBagKbdTrixPKL is considered production-ready with medium readiness. It is suitable for use in prototypes or internal workflows, but its integration path is not immediately obvious from the metadata. Therefore, it is essential to validate the setup cost and potential risks before committing to production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DreymaR/BigBagKbdTrixPKL).
 
 ### Русский
 

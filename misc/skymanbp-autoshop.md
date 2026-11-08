@@ -63,7 +63,11 @@ skymanbp/autoshop 的主要价值在于，它可以帮助开发者快速添加 A
 
 **生产可用性**
 
-skymanbp/autoshop 的生产可用性为 中等。它适合用于快速 prototyping 或内部工作流的开发，而不是直接用于生产环境。因此，
+skymanbp/autoshop 的生产可用性为 中等。它适合用于快速 prototyping 或内部工作流的开发，而不是直接用于生产环境。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/skymanbp/autoshop)。
 
 ## 🧭 Practical evaluation
 

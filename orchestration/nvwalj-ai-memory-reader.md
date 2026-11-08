@@ -41,7 +41,11 @@ To adopt nvwalj/ai-memory-reader, users should start with a small proof of conce
 
 **Production Readiness**
 
-nvwalj/ai-memory-reader is considered medium production-ready, making it suitable for prototypes or internal workflows. However, its production readiness depends on careful evaluation, validation, and maintenance. Users should be prepared to invest time in
+nvwalj/ai-memory-reader is considered medium production-ready, making it suitable for prototypes or internal workflows. However, its production readiness depends on careful evaluation, validation, and maintenance.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nvwalj/ai-memory-reader).
 
 ### Русский
 

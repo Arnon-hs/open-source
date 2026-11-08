@@ -41,7 +41,11 @@ Before adopting Aphorio, developers should manually inspect the project to ensur
 
 **Production Readiness:**
 
-Aphorio's production readiness is rated as medium, making it suitable for prototypes or internal workflows. However, before deploying it in
+Aphorio's production readiness is rated as medium, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/prettydiff/aphorio).
 
 ### Русский
 

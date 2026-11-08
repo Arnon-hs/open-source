@@ -37,7 +37,10 @@ The practical adoption path for this project involves:
 2. **Dependency checks**: Verify the dependencies and libraries used in the project to ensure they are up-to-date and compatible with your environment.
 3. **Maintenance checks**: Review the project's release cadence, license, and maintenance history to ensure it is well-maintained and supported.
 4. **Prototype or internal workflow**: Use the project for prototyping AI features or building internal workflows, and evaluate its performance and effectiveness.
-5. **Production readiness assessment**: Based on your evaluation, determine whether the project is ready for production use, or if additional development, testing, or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/markrussinovich/DoomPaint).
 
 ### Русский
 

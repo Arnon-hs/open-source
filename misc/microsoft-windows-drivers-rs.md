@@ -38,7 +38,10 @@ The production readiness of the project is high due to the following factors:
 - Recent activity: The project has been updated recently (2026-08-04), indicating ongoing maintenance and development.
 - Adoption: The project has 1903 GitHub stars and 129 forks, suggesting a strong and growing community of developers.
 - Ecosystem signals: The project's primary language is Rust, and it has 7 topics, indicating a well-established and active ecosystem.
-- Production signals: The project has a high level of production readiness, making it suitable for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/microsoft/windows-drivers-rs).
 
 ### Русский
 

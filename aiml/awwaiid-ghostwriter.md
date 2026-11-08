@@ -37,7 +37,10 @@ As for the practical adoption path, here's a step-by-step guide:
 2. **Assess the setup cost**: Validate the time and effort required to set up and integrate ghostwriter with your existing infrastructure.
 3. **Prototype and test**: Use ghostwriter to develop and test AI features, RAG or agent workflows, and model tooling.
 4. **Refine and iterate**: Based on your testing results, refine your implementation and iterate on the integration process.
-5. **Deploy and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/awwaiid/ghostwriter).
 
 ### Русский
 

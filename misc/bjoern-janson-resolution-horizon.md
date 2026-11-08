@@ -41,7 +41,10 @@ Here's a brief summary of the open-source project:
 1. Manual inspection: Review the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your project's requirements.
 2. Dependency and maintenance checks: Verify the dependencies and maintenance requirements of the project to ensure it can be integrated into your production environment.
 3. Integration: Integrate the project into your development workflow, following the guidelines and recommendations provided by the project maintainers.
-4. Testing and validation: Test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bjoern-janson/resolution-horizon).
 
 ### Русский
 

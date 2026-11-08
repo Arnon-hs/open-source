@@ -41,8 +41,9 @@ To adopt Litegraph, follow these steps:
 3. **Standardize Integrations**: Use Litegraph's standard protocol to connect your AI assistant to real tools and data.
 4. **Ship Model Context Protocol Servers**: Deploy Litegraph servers to facilitate knowledge and AI persistence and retrieval.
 
-**Production Readiness:**
-Litegraph has a high production readiness score due to its recent activity, adoption, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/litegraphdb/litegraph).
 
 ### Русский
 

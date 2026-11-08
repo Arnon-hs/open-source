@@ -42,7 +42,10 @@ To adopt Ironpress, developers can follow these steps:
 1. Evaluate the project by reviewing the README and documentation.
 2. Start with a small proof-of-concept to assess the feasibility of integrating Ironpress into their project.
 3. Carefully review the license, security posture, and maintainers to ensure they align with the project's goals and requirements.
-4. Integrate Ironpress into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gastongouron/ironpress).
 
 ### Русский
 

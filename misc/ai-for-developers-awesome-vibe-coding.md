@@ -45,7 +45,11 @@ To adopt this project, users should follow these steps:
 
 **Production Readiness:**
 
-The project's production readiness is classified as Medium, indicating it is suitable for prototypes or internal workflows. Before using it in production, users should conduct thorough dependency and maintenance checks to
+The project's production readiness is classified as Medium, indicating it is suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ai-for-developers/awesome-vibe-coding).
 
 ### Русский
 

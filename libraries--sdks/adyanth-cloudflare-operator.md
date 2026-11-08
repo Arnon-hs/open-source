@@ -46,7 +46,10 @@ To adopt the adyanth/cloudflare-operator, follow these steps:
 1. **Evaluate the Operator**: Assess the Operator's functionality, performance, and security posture.
 2. **Integrate with Cloudflare**: Set up a Cloudflare account and configure the Operator to interact with your Cloudflare resources.
 3. **Deploy the Operator**: Install the Operator in your Kubernetes cluster and configure it to manage your Cloudflare resources.
-4. **Test and Validate**: Verify that the Operator is functioning correctly and that your Cloudflare resources are
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/adyanth/cloudflare-operator).
 
 ### Русский
 

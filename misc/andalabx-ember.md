@@ -41,7 +41,11 @@ To adopt Ember, developers should first carefully review the project's metadata,
 
 **Production Readiness:**
 
-Ember is considered production-ready with a medium level of readiness, indicating that it can be useful for internal workflows, prototyping, or small-scale production environments. However, due to
+Ember is considered production-ready with a medium level of readiness, indicating that it can be useful for internal workflows, prototyping, or small-scale production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/andalabx/ember).
 
 ### Русский
 

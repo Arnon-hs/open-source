@@ -37,7 +37,11 @@ The value of VPSDance/ai-proxy-rules lies in its ability to streamline and autom
 To adopt this project, users can start by evaluating its feasibility through a small proof-of-concept and reviewing the README documentation. They should then check for dependency and maintenance requirements before integrating it into their production environment.
 
 **Production Readiness:**
-The production readiness of VPSDance/ai-proxy-rules is classified as medium. It is suitable for use in prototypes or internal workflows, but users should perform a thorough review of the project's license, security posture, and maintainership before deploying it in
+The production readiness of VPSDance/ai-proxy-rules is classified as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/VPSDance/ai-proxy-rules).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The primary value proposition of HoneyMCP lies in its ability to provide a secur
 
 **Practical Adoption Path**
 
-To adopt HoneyMCP, developers can start by evaluating its feasibility through a small proof of concept and checking the README documentation. This will help identify potential integration challenges and ensure that the project meets their specific needs. Once the proof of concept is successful, developers can integrate HoneyMCP into their systems, starting with internal workflows or prototypes. Before moving to production, it's essential to
+To adopt HoneyMCP, developers can start by evaluating its feasibility through a small proof of concept and checking the README documentation. This will help identify potential integration challenges and ensure that the project meets their specific needs. Once the proof of concept is successful, developers can integrate HoneyMCP into their systems, starting with internal workflows or prototypes.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/barvhaim/HoneyMCP).
 
 ### Русский
 

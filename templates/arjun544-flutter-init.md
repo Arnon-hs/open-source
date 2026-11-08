@@ -42,7 +42,10 @@ To adopt Arjun544/flutter_init, developers can follow these steps:
 1. Evaluate the tool by reviewing its README and implementing a small proof of concept to gauge its feasibility.
 2. Assess the tool's quality signals, such as its GitHub stars, forks, and recent activity, to gauge its reliability and maintainability.
 3. Integrate the tool into their existing workflows, starting with a small pilot project to test its effectiveness and identify any potential issues.
-4. Monitor the tool's performance and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Arjun544/flutter_init).
 
 ### Русский
 

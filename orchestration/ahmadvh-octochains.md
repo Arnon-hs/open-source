@@ -36,7 +36,10 @@ Orchestration
 1. **Manual Inspection**: Carefully review the project's metadata, documentation, and codebase to ensure it aligns with their specific needs and requirements.
 2. **Dependency and Maintenance Checks**: Verify the dependencies and maintenance requirements of the project to ensure they are manageable and won't pose a significant burden.
 3. **Verify Quality Signals**: Assess the project's quality signals, such as update frequency, issue tracking, and release cadence, to gauge its overall stability and reliability.
-4. **Verify License and Documentation**: Confirm the project's license and documentation are suitable for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ahmadvh/octochains).
 
 ### Русский
 

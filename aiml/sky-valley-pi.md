@@ -35,7 +35,10 @@ AI/ML
 
 1. **Evaluation:** Developers can easily evaluate sky-valley/pi by exploring its API, SDK, and CLI implementation signals.
 2. **Prototype Development:** Once evaluated, developers can use sky-valley/pi to prototype AI features, leveraging its unified API and model catalog.
-3. **Integration:** As prototypes mature, developers can integrate sky-valley/pi into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sky-valley/pi).
 
 ### Русский
 

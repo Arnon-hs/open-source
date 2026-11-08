@@ -33,7 +33,9 @@ Games & Graphics
 
 **Practical Adoption Path:** To adopt LukasBanana/LLGL, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The library's straightforward integration process makes it easy to evaluate and integrate into existing projects. Once adopted, teams can leverage LLGL's abstraction layer to standardize service patterns and reuse backend infrastructure, leading to faster development cycles and improved efficiency.
 
-**Production Readiness:** LukasBanana/LLGL has a high production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LukasBanana/LLGL).
 
 ### Русский
 

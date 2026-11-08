@@ -38,7 +38,10 @@ Here's a 2-3 sentence summary for the open-source project:
 1. **Research and testing**: Use the project to research trading systems, backtest strategies, and monitor market workflows to understand its capabilities and limitations.
 2. **Prototype development**: Leverage the project in a prototype environment to develop and test new ideas before scaling up to production.
 3. **Internal workflow integration**: Integrate the project into internal workflows, ensuring thorough checks and maintenance to ensure its stability and reliability.
-4. **Production readiness assessment**: Conduct a thorough assessment of the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Fluxara-GOD/fluxara1-audit-verification-pack).
 
 ### Русский
 

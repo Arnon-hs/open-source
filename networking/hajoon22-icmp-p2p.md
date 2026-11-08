@@ -41,7 +41,11 @@ To adopt this project, developers should carefully review its README, activity, 
 
 **Production Readiness:**
 
-This project is considered production-ready with medium confidence. While it may be useful for prototypes or internal workflows, developers should exercise caution before deploying it in
+This project is considered production-ready with medium confidence.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hajoon22/icmp-p2p).
 
 ### Русский
 

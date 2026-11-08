@@ -39,7 +39,9 @@ The practical adoption path involves several steps:
 2. Validation: Before committing to the project, users should validate the setup cost, including the time and resources required to integrate TimelyDataflow into their existing infrastructure.
 3. Prototype or internal workflow: TimelyDataflow is best suited for prototype development or internal workflows, where users can test and refine the project's capabilities without affecting production environments.
 
-Regarding production readiness, TimelyDataflow has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TimelyDataflow/timely-dataflow).
 
 ### Русский
 

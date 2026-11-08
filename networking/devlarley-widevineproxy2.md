@@ -37,7 +37,11 @@ The DevLARLEY/WidevineProxy2 project offers a unique value proposition by provid
 
 **Adoption path:**
 
-To adopt the DevLARLEY/WidevineProxy2 project, developers should start with a small proof of concept and carefully review the README documentation. While the integration path is not immediately obvious from the metadata, the project's recent activity, adoption, and ecosystem signals suggest that it is
+To adopt the DevLARLEY/WidevineProxy2 project, developers should start with a small proof of concept and carefully review the README documentation.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DevLARLEY/WidevineProxy2).
 
 ### Русский
 

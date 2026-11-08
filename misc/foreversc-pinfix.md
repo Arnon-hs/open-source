@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt PinFix, developers should start by inspecting the code and verifying its quality signals, such as the license, maintenance, documentation, and release cadence. Once satisfied, they can integrate PinFix into their workflow, taking care to manually inspect the integration signals and ensure seamless functionality. As with any new tool, developers should also consider dependency and maintenance checks before deploying PinFix in production.
 
-**Production Readiness:** PinFix is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. While it offers valuable benefits, its limited quality signals and potential risks, such as license and maintenance issues, require developers to exercise caution and perform thorough checks before using it in
+**Production Readiness:** PinFix is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ForeverSc/pinfix).
 
 ### Русский
 

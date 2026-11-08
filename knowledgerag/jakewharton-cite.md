@@ -38,7 +38,11 @@ The primary value proposition of JakeWharton/cite lies in its ability to make in
 To adopt JakeWharton/cite, the practical path would be to start with a small proof of concept and thoroughly review the README documentation. This will help in understanding the plugin's functionality, potential integration challenges, and necessary dependencies. Once the feasibility is established, the next step would be to evaluate its production readiness, including assessing the license, security posture, and the presence of active maintainers.
 
 **Production Readiness:**
-The production readiness of JakeWharton/cite is classified as medium. While it has a moderate level of GitHub activity (370 stars and 10 forks), its
+The production readiness of JakeWharton/cite is classified as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JakeWharton/cite).
 
 ### Русский
 

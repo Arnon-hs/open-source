@@ -37,7 +37,11 @@ The primary value proposition of this project is its ability to turn isolated pr
 To adopt this project, users can start by evaluating its implementation signals, such as API/SDK/CLI exposure, language metadata, and focused topics. They can then determine whether the project meets their specific needs and requirements. Once adopted, users can begin to integrate the skill into their workflows, utilizing its natural language interface to manage their B2 Cloud Storage.
 
 **Production Readiness:**
-The project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require further dependency and maintenance checks before being deployed in production. While the project has
+The project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require further dependency and maintenance checks before being deployed in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/backblaze-labs/claude-skill-b2-cloud-storage).
 
 ### Русский
 

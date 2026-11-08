@@ -33,7 +33,9 @@ Misc
 
 **Practical Adoption Path:** To adopt rust-num/num, developers should start with a small proof of concept to evaluate its integration path and validate the setup cost. A thorough review of the README and documentation is also essential to ensure a smooth onboarding process. As the project is widely used, it's likely that many existing Rust projects already rely on it, making it a good choice for teams looking to leverage existing knowledge and expertise.
 
-**Production Readiness:** While rust-num/num has a high level of adoption and is actively maintained, its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rust-num/num).
 
 ### Русский
 

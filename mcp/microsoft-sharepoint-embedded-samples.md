@@ -36,8 +36,9 @@ The primary value proposition of this project is its ability to standardize inte
 **Practical Adoption Path:**
 To adopt this project, developers can start by evaluating the samples and tools provided, such as the MCP server and React boilerplates. They can then use the Postman and Bruno collections to test and integrate the MCP server with their AI agents and tools. Before production, it is essential to perform dependency and maintenance checks to ensure a smooth deployment.
 
-**Production Readiness:**
-The production readiness of this project is medium, making it suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/microsoft/SharePoint-Embedded-Samples).
 
 ### Русский
 

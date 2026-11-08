@@ -77,7 +77,10 @@ BaseIntelligence/base 的生产可用性为中等（Medium），适用于以下�
 但是，请注意以下风险：
 
 * 接入路径不明显
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/BaseIntelligence/base)。
 
 ## 🧭 Practical evaluation
 

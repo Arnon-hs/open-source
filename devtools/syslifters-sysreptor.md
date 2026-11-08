@@ -38,7 +38,9 @@ DevTools · Security
 3. **Assess the integration requirements**: Determine the necessary steps to integrate Syslifters/sysreptor with your existing tools and systems.
 4. **Pilot the platform**: Implement Syslifters/sysreptor in a small, controlled environment to test its effectiveness and identify any potential issues.
 
-**Production Readiness:** Syslifters/sysreptor has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Syslifters/sysreptor).
 
 ### Русский
 

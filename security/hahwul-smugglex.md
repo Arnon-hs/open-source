@@ -39,9 +39,9 @@ The primary value of Smugglex lies in its ability to identify security and priva
 
 To adopt Smugglex, developers should start with a small proof of concept and carefully evaluate the integration process, as outlined in the README. This will help identify potential challenges and validate the setup cost before committing to a full-scale integration. By doing so, developers can ensure a smooth adoption process and maximize the benefits of using Smugglex in their development workflow.
 
-**Production Readiness:**
+## Before adopting
 
-Smugglex has a medium production readiness level, indicating that it is suitable for non-critical applications or internal workflows where careful evaluation and maintenance are
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hahwul/smugglex).
 
 ### Русский
 

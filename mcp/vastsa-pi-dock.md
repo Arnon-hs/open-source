@@ -41,7 +41,11 @@ To adopt PI-Dock, developers can start by evaluating the project's feasibility t
 
 **Production Readiness:**
 
-PI-Dock is highly production-ready, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot. The project has
+PI-Dock is highly production-ready, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vastsa/PI-Dock).
 
 ### Русский
 

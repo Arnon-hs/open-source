@@ -33,7 +33,9 @@ Productivity
 
 **Practical Adoption Path:** To adopt Opus Agents, developers can start by reviewing the documentation and example use cases provided by the project. They can then integrate the Opus Agents framework into their project, using the provided tools and agents to build and test AI features. As needed, developers can customize and extend the framework to meet their specific requirements.
 
-**Production Readiness:** Opus Agents has a medium production readiness rating, indicating that it is suitable for use in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sathish316/opus_agents).
 
 ### Русский
 

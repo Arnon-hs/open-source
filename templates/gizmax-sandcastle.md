@@ -33,7 +33,11 @@ Templates · MCP · Automation · AI/ML · Frontend
 
 **Practical Adoption Path:** To adopt Sandcastle, developers can start by installing the package using pip (`pip install sandcastle-ai`). They can then explore the project's documentation and APIs to understand how to integrate AI assistants with their tools. With a vast library of 236 templates and 20 step types, developers can quickly get started with building their AI-powered applications.
 
-**Production Readiness:** Sandcastle has demonstrated strong production readiness, with recent activity, a growing ecosystem, and high adoption potential. The project's recent update (2026-07-21) indicates ongoing maintenance and development, making it a
+**Production Readiness:** Sandcastle has demonstrated strong production readiness, with recent activity, a growing ecosystem, and high adoption potential.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gizmax/Sandcastle).
 
 ### Русский
 

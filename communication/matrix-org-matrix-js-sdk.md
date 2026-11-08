@@ -79,7 +79,10 @@ Matrix Client-Server SDK for JavaScript 是一个开源项目，用于帮助团�
 * 最近有活动，表明项目仍然维护和更新中
 * 有强大的采用和生态系统信号，表明该项目有广泛的使用和支持
 * GitHub 上有 2158 个 star 和 700 个 fork，表明该项目有广泛的参与和支持
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/matrix-org/matrix-js-sdk)。
 
 ## 🧭 Practical evaluation
 

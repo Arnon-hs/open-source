@@ -43,9 +43,9 @@ To adopt DBDiff in a project, the practical adoption path would be to:
 2. Assess the setup cost and potential risks associated with integrating DBDiff into the project.
 3. If the evaluation is positive, proceed with integrating DBDiff into the project, ensuring that the dependencies and maintenance requirements are properly checked and managed.
 
-**Production Readiness:**
+## Before adopting
 
-DBDiff has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DBDiff/DBDiff).
 
 ### Русский
 

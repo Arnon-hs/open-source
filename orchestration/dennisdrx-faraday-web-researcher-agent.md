@@ -41,7 +41,10 @@ The primary value of Faraday-Web-Researcher-Agent lies in its ability to automat
 To adopt Faraday-Web-Researcher-Agent, users can follow these steps:
 
 1. **Evaluate the project**: Assess the project's features, documentation, and community support to determine its suitability for their needs.
-2. **Set up the environment**: Install the required dependencies and configure the project to work with their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DennisDRX/Faraday-Web-Researcher-Agent).
 
 ### Русский
 

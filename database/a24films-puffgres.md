@@ -41,7 +41,11 @@ Before adopting Puffgres, teams should carefully inspect the project's metadata,
 
 **Production Readiness**
 
-Puffgres is considered "medium" in terms of production readiness, indicating that it is suitable for non-critical applications, such as prototypes or internal workflows. Before deploying it in production, teams should conduct thorough dependency and
+Puffgres is considered "medium" in terms of production readiness, indicating that it is suitable for non-critical applications, such as prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/a24films/puffgres).
 
 ### Русский
 
@@ -77,7 +81,9 @@ Show HN: Puffgres 的生产可用性为中等（Medium），适合用于：
 * 原型开发：快速测试和验证应用的数据库需求。
 * 内部工作流：用于内部数据管理和分析。
 
-但是，
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/a24films/puffgres)。
 
 ## 🧭 Practical evaluation
 

@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt HKUDS/OpenPhone, users need to manually inspect the project and its dependencies before integration. This is due to sparse integration signals in the discovered metadata. Once the project is deemed suitable, users can integrate it into their existing workflows or prototype AI features using the provided model.
 
-**Production Readiness:** With a medium production readiness level, HKUDS/OpenPhone is best suited for internal workflows, prototypes, or proof-of-concepts. Before deploying it in production, users should perform dependency and maintenance checks to ensure the project's stability and security. Additionally, a
+**Production Readiness:** With a medium production readiness level, HKUDS/OpenPhone is best suited for internal workflows, prototypes, or proof-of-concepts. Before deploying it in production, users should perform dependency and maintenance checks to ensure the project's stability and security.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/HKUDS/OpenPhone).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt fxa3bah/OneBrain, developers can follow these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
 2. Assess the production readiness of the project, considering factors like dependency and maintenance checks.
 3. Review the project's license, security posture, and active maintainers to ensure it meets their requirements.
-4. Integrate OneBrain with their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fxa3bah/OneBrain).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt apsinghdev/opensox, users can start by evaluating its README and activity to determine if it aligns with their needs. A small proof of concept can be used to assess its feasibility, followed by dependency and maintenance checks before considering production use. This project is suitable for prototypes or internal workflows, where a moderate level of risk is acceptable.
 
-**Production Readiness:** The project has a medium production readiness level, indicating that it is useful for prototypes or internal workflows but may not be suitable for production environments without further evaluation and testing. This is due to the
+**Production Readiness:** The project has a medium production readiness level, indicating that it is useful for prototypes or internal workflows but may not be suitable for production environments without further evaluation and testing.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/apsinghdev/opensox).
 
 ### Русский
 

@@ -38,7 +38,9 @@ Misc
 3. **Dependency and Maintenance Checks:** Before production, thoroughly review the project's dependencies and maintenance requirements to ensure they align with your organization's standards.
 4. **Integration and Testing:** Integrate CrabPort with your knowledge base and AI assistant, and thoroughly test its functionality to ensure seamless integration.
 
-**Production Readiness:** CrabPort is considered medium-production-ready, making it suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/chi11321/CrabPort).
 
 ### Русский
 

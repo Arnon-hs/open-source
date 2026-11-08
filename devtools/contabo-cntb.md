@@ -49,7 +49,9 @@ In terms of production readiness, cntb has a high score due to:
 - Adoption signals (269 GitHub stars and 48 forks)
 - Ecosystem signals (recently updated, primary language: Go, 8 topics)
 
-However, it's essential to review the license, security posture, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/contabo/cntb).
 
 ### Русский
 

@@ -33,7 +33,11 @@ AI/ML · Productivity · DevTools
 
 **Practical Adoption Path:** To adopt Pi Workspace, users should first manually inspect the app to ensure it meets their needs. Given the sparse integration signals in the discovered metadata, a thorough review is necessary. Once satisfied, users can integrate Pi Workspace into their workflow, starting with prototype or internal projects. As the app is still in development, users should be prepared to address potential issues and perform dependency and maintenance checks before considering production use.
 
-**Production Readiness:** Pi Workspace has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but may require additional testing and validation before being used in production environments. With proper review and
+**Production Readiness:** Pi Workspace has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but may require additional testing and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pi-workspace/pi-workspace).
 
 ### Русский
 

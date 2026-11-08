@@ -35,7 +35,9 @@ Here's a brief summary of the Mindstorms in Natural Language-Based Societies of 
 
 **Practical Adoption Path:** To adopt NLSOM, teams should start by manually inspecting the project's metadata, verifying the license, maintenance, documentation, issues, and release cadence. This will help identify potential risks and ensure that the project meets their specific needs. Once verified, teams can integrate NLSOM into their workflows, starting with prototyping or internal projects, and gradually scaling up to production environments.
 
-**Production Readiness:** NLSOM is considered medium-production ready, meaning it is suitable for prototyping or internal workflows, but requires careful evaluation and verification before deployment in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/metauto-ai/Mindstorm).
 
 ### Русский
 

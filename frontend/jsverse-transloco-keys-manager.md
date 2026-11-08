@@ -35,7 +35,9 @@ Here's a brief summary of the jsverse/transloco-keys-manager project:
 
 **Practical Adoption Path:** The adoption path for jsverse/transloco-keys-manager appears straightforward, with clear signals such as API/SDK/CLI exposure, language metadata, and focused topics. Developers can easily evaluate and integrate this project into their existing workflows, making it an attractive option for those seeking to simplify translation experiences.
 
-**Production Readiness:** jsverse/transloco-keys-manager boasts a high production readiness score, with recent activity, strong adoption (224 GitHub stars and 61 forks), and a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jsverse/transloco-keys-manager).
 
 ### Русский
 

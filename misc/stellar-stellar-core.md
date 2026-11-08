@@ -40,8 +40,9 @@ To adopt stellar/stellar-core, developers should:
 3. Integrate the project into their existing workflow, taking note of any potential issues or roadblocks.
 4. Test and evaluate the project's performance and stability in their specific use case.
 
-**Production Readiness:**
-The stellar/stellar-core has a medium production readiness score, indicating that it's suitable for internal workflows, proof-of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/stellar/stellar-core).
 
 ### Русский
 

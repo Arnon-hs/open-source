@@ -33,7 +33,9 @@ Cloud & Storage · Database · DevOps/Infra · Security
 
 **Practical Adoption Path:** To adopt authzed/spicedb, start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. Once familiar with the project's architecture and APIs, integrate it into your existing workflow, beginning with a minimal viable product (MVP) or a small-scale pilot. As you gain experience and confidence in the project's capabilities, scale up your implementation to meet the needs of your application.
 
-**Production Readiness:** With 6883 GitHub stars, 406 forks, and recent activity, authzed/spicedb demonstrates a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/authzed/spicedb).
 
 ### Русский
 

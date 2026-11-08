@@ -40,7 +40,9 @@ The practical adoption path involves the following steps:
 3. Dependency and maintenance checks: Assess the tool's dependencies and maintenance requirements to ensure they align with the user's infrastructure and resources.
 4. Integration and testing: Integrate the tool into the user's workflow and test its functionality to ensure it meets their needs.
 
-The production readiness of this tool is classified as medium, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bagoldbe/form4lab).
 
 ### Русский
 

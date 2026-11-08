@@ -40,7 +40,10 @@ To adopt Liyuan, developers can follow these steps:
 2. Assess the project's production readiness and identify any potential risks or areas for improvement.
 3. Integrate Liyuan with AI agents and tools to test its functionality and compatibility.
 4. Refine the integration process and adapt Liyuan to meet specific project requirements.
-5. Deploy Liyuan in a prototype or internal workflow environment, monitoring its performance and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/weidu12123/Liyuan).
 
 ### Русский
 

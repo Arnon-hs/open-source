@@ -39,7 +39,10 @@ The practical adoption path for Odin involves the following steps:
 2. Inspect the project's activity to gauge its maintenance and update frequency.
 3. Verify the project's license and ensure it aligns with your organization's licensing policies.
 4. Check the project's documentation to ensure it meets your needs.
-5. Review the project's issues to identify any known bugs or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/guillemus/odin-1-million-lines-of-code-bench).
 
 ### Русский
 

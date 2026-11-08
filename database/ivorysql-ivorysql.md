@@ -39,7 +39,9 @@ Practical Adoption Path:
 3. Assess the setup costs and potential dependencies before committing to the project.
 4. Implement a small-scale pilot project to test the project's functionality and scalability.
 
-Production Readiness: IvorySQL is considered medium-ready for production, meaning it is suitable for prototypes or internal workflows but requires careful evaluation and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/IvorySQL/IvorySQL).
 
 ### Русский
 

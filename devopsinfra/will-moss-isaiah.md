@@ -37,8 +37,9 @@ The primary value of Isaiah lies in its ability to simplify the management of Do
 **Practical Adoption Path:**
 To adopt Isaiah, users can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. Once satisfied with the project's potential, they can begin integrating Isaiah into their existing workflows, starting with internal prototypes or proof-of-concepts. As the project matures, users can gradually scale its adoption to production-ready environments, ensuring thorough dependency and maintenance checks along the way.
 
-**Production Readiness:**
-Isaiah has a medium production readiness score, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/will-moss/isaiah).
 
 ### Русский
 

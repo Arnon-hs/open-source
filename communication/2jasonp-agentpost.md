@@ -36,8 +36,9 @@ The primary value proposition of AgentPost lies in its ability to simplify the i
 **Practical Adoption Path:**
 To adopt AgentPost, developers should first carefully review the project's documentation, issues, and release cadence to ensure it meets their needs. They should also verify the project's licensing and maintenance commitments. Once satisfied, they can integrate AgentPost into their system, starting with small-scale prototypes or internal workflows. As they gain experience with the tool, they can gradually scale up its use to more complex applications.
 
-**Production Readiness:**
-AgentPost is considered medium-production ready, meaning it can
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/2JasonP/agentpost/blob/main/TWO_AGENTS.md).
 
 ### Русский
 

@@ -39,7 +39,9 @@ The practical adoption path for x402 involves:
 2. Evaluate PSP flows: Assess the project's ability to integrate with various payment service providers.
 3. Automate payment operations: Leverage x402's capabilities to streamline payment processes and reduce manual errors.
 
-Overall, x402 offers a promising solution for payment operations, with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/x402-foundation/x402).
 
 ### Русский
 

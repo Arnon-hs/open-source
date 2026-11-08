@@ -33,7 +33,11 @@ Networking
 
 **Practical Adoption Path:** To adopt Wardline, developers need to manually inspect the project before integrating it into their workflows. This involves verifying the license, maintenance, documentation, issues, and release cadence to ensure the project is reliable and well-maintained. Once verified, Wardline can be used to add AI capabilities to projects, making it a useful tool for prototyping or building internal workflows.
 
-**Production Readiness:** Wardline has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but not yet ready for large-scale production use. This is due to limited quality signals and the need for manual inspection before adoption. However, with proper verification and
+**Production Readiness:** Wardline has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but not yet ready for large-scale production use. This is due to limited quality signals and the need for manual inspection before adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kabirnarang39/wardline).
 
 ### Русский
 

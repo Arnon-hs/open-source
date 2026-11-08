@@ -41,7 +41,11 @@ To adopt JuliaPy/PythonCall.jl, start by evaluating its feasibility through a sm
 
 **Production Readiness:**
 
-JuliaPy/PythonCall.jl has a medium production readiness score, indicating that it's suitable for prototype development or internal workflows. However, before deploying it in a production environment, it's essential to conduct a thorough review of its license, security posture, and
+JuliaPy/PythonCall.jl has a medium production readiness score, indicating that it's suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JuliaPy/PythonCall.jl).
 
 ### Русский
 

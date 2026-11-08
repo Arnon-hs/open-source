@@ -74,7 +74,10 @@ Operator Framework Operator Lifecycle Manager 的生产可用性较高，因为�
 * 近期活动：项目最近有活跃的开发和维护。
 * 强大的采用：项目有 1863 个 GitHub 星和 581 个 Forks。
 * 强大的生态系统：项目有大量的用户和贡献者。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/operator-framework/operator-lifecycle-manager)。
 
 ## 🧭 Practical evaluation
 

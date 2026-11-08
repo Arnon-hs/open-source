@@ -39,7 +39,11 @@ Here's a brief summary of the open-source project:
 2. **Dependency and Maintenance Checks**: Conduct thorough dependency and maintenance checks to guarantee the framework's stability and compatibility with your project.
 3. **Prototype or Internal Workflow**: Start by using h3js/h3 in a prototype or internal workflow to test its capabilities and identify potential issues.
 
-**Production Readiness:** h3js/h3 is considered production-ready with medium readiness, indicating that it's suitable for production use after thorough evaluation and testing. While it has a
+**Production Readiness:** h3js/h3 is considered production-ready with medium readiness, indicating that it's suitable for production use after thorough evaluation and testing.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/h3js/h3).
 
 ### Русский
 

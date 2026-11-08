@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt zsh-users/zsh, developers should carefully inspect the README and activity to ensure that it matches their specific workflow requirements. This involves manual inspection and validation of the setup cost before committing to its use. Due to sparse integration signals, developers should also be prepared to perform additional checks and validation before integrating the project into their production environment.
 
-**Production Readiness:** The production readiness of zsh-users/zsh is rated as medium. While it may be suitable for prototypes or internal workflows, its adoption for production use requires careful consideration and validation of dependencies and maintenance costs. Developers should weigh the benefits of using a
+**Production Readiness:** The production readiness of zsh-users/zsh is rated as medium. While it may be suitable for prototypes or internal workflows, its adoption for production use requires careful consideration and validation of dependencies and maintenance costs.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zsh-users/zsh).
 
 ### Русский
 

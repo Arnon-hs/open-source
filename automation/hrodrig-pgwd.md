@@ -46,7 +46,11 @@ To adopt pgwd, users should:
 
 **Production Readiness**
 
-pgwd is considered production-ready for prototypes or internal workflows, but it may not be suitable for large-scale or high-availability environments. Users should perform thorough dependency and maintenance checks before deploying it in production. Additionally, the limited quality signals and
+pgwd is considered production-ready for prototypes or internal workflows, but it may not be suitable for large-scale or high-availability environments. Users should perform thorough dependency and maintenance checks before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hrodrig/pgwd).
 
 ### Русский
 

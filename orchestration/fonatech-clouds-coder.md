@@ -72,9 +72,9 @@ FonaTech/Clouds-Coder 在生产环境中具有较高的可用性，主要原因�
 2. 采纳情况：有足够的采用和生态系统信号。
 3. 高质量信号：GitHub 上有 345 个星标和 20 个分支。
 
-但是，仍然需要进一步评估以下风险：
+## 采用前检查
 
-1.
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/FonaTech/Clouds-Coder)。
 
 ## 🧭 Practical evaluation
 

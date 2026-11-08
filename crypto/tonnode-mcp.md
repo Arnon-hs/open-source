@@ -38,7 +38,10 @@ To adopt tonnode/mcp, developers can follow these steps:
 
 1. **Evaluate the project**: Review the project's documentation, codebase, and GitHub activity to ensure it meets their requirements.
 2. **Set up the environment**: Install the necessary dependencies and configure the project to run on their local machine or a cloud platform.
-3. **Explore the API**: Familiarize themselves with the tonnode/mcp API and its various endpoints to understand how to interact with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tonnode/mcp).
 
 ### Русский
 

@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt Glaze, developers should start by carefully reviewing its README, documentation, and issue history to understand its capabilities, limitations, and maintenance status. They should also verify the license, check for regular updates and releases, and evaluate the project's community engagement and support. Once these factors are assessed, developers can integrate Glaze into their projects, starting with prototypes or internal workflows, and monitor its performance and stability before considering production deployment.
 
-**Production Readiness:** Glaze has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows, but requires careful evaluation and testing before being deployed in production environments. Developers should be
+**Production Readiness:** Glaze has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows, but requires careful evaluation and testing before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/stephenberry/glaze).
 
 ### Русский
 

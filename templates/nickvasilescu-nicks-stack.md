@@ -40,7 +40,10 @@ To adopt Nick's Stack, developers can follow these steps:
 2. Evaluate the project's dependencies and perform security checks to ensure they align with your organization's standards.
 3. Set up a small proof-of-concept to test the project's functionality and identify potential issues.
 4. Integrate Nick's Stack into your existing workflows or build a new application using the provided template.
-5. Continuously monitor and update the project to ensure its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nickvasilescu/nicks-stack).
 
 ### Русский
 

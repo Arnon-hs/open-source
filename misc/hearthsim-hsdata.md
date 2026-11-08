@@ -40,7 +40,9 @@ HearthSim/hsdata is an open-source project that enables the creation of repeatab
 3. **Dependency and Maintenance Checks**: Perform thorough dependency and maintenance checks to ensure the project aligns with your organization's standards and requirements.
 4. **Validation and Setup**: Validate the setup cost and ensure that the project meets your specific needs before committing to production use.
 
-**Production Readiness:** HearthSim/hsdata has a medium level of production readiness, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/HearthSim/hsdata).
 
 ### Русский
 

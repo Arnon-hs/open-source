@@ -37,7 +37,11 @@ The value proposition of Lexus2016/claude-code-studio lies in its ability to tur
 
 **Practical Adoption Path:**
 
-To adopt Lexus2016/claude-code-studio, users can start by evaluating the platform's features and integration signals. The project's recent activity, adoption, and ecosystem signals suggest that it is a stable and reliable option. Once evaluated, users can begin to integrate the platform with their existing tools and workflows, taking advantage of features such as multi-agent orchestration and task scheduling. As users become more familiar with the platform, they can
+To adopt Lexus2016/claude-code-studio, users can start by evaluating the platform's features and integration signals. The project's recent activity, adoption, and ecosystem signals suggest that it is a stable and reliable option. Once evaluated, users can begin to integrate the platform with their existing tools and workflows, taking advantage of features such as multi-agent orchestration and task scheduling.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Lexus2016/claude-code-studio).
 
 ### Русский
 

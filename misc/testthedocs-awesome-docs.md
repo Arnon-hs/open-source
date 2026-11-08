@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, engineers should start by manually inspecting the listed tools to determine which ones best fit their needs. This involves evaluating the tools' capabilities, compatibility, and setup costs to ensure a smooth integration. Once a suitable tool is selected, engineers can follow the provided documentation to set up and integrate the tool into their workflow.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it is suitable for use in prototypes, internal workflows, or proof-of-concept projects. However, before deploying it in a production environment, engineers should conduct thorough dependency and maintenance checks to ensure the tool's stability and reliability. This will
+**Production Readiness:** The project has a medium production readiness score, indicating that it is suitable for use in prototypes, internal workflows, or proof-of-concept projects. However, before deploying it in a production environment, engineers should conduct thorough dependency and maintenance checks to ensure the tool's stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/testthedocs/awesome-docs).
 
 ### Русский
 

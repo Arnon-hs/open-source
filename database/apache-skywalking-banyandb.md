@@ -63,11 +63,9 @@ Apache SkyWalking Banyandb 的价值在于，它可以帮助开发者快速构�
 2. 小规模PoC：进行小规模的PoC（原型验收）测试，验证 Apache SkyWalking Banyandb 的性能和稳定性。
 3. README检查：仔细检查 Apache SkyWalking Banyandb 的README文档，了解其使用方法和注意事项。
 
-**生产可用性**
+## 采用前检查
 
-Apache SkyWalking Banyandb 的生产可用性较高，主要原因是：
-
-1.
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/apache/skywalking-banyandb)。
 
 ## 🧭 Practical evaluation
 

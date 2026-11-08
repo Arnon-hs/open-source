@@ -40,7 +40,10 @@ To adopt grab in a production environment, follow these steps:
 2. **Manual Inspection:** Inspect the code, test cases, and security posture to ensure it aligns with your project's requirements and standards.
 3. **Dependency and Maintenance Checks:** Verify that grab's dependencies are up-to-date and well-maintained, and consider the effort required to maintain the package over time.
 4. **Prototype and Test:** Implement grab in a prototype environment to test its functionality, performance, and potential issues.
-5. **Production Deployment:** Once satisfied with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cavaliergopher/grab).
 
 ### Русский
 

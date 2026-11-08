@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt this platform, developers should start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and validate the setup cost before committing to full integration. Once the platform is properly evaluated, developers can automate local engineering tasks and integrate it with their existing workflows.
 
-**Production Readiness:** The production readiness of home-assistant/developers.home-assistant is medium, making it suitable for prototypes or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to ensure its stability and reliability. With proper evaluation and setup, this platform can be a valuable addition to
+**Production Readiness:** The production readiness of home-assistant/developers.home-assistant is medium, making it suitable for prototypes or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to ensure its stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/home-assistant/developers.home-assistant).
 
 ### Русский
 

@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt AwesomeHomelab/awesome-homelab, teams can start by evaluating its feasibility through a small proof of concept and checking the README documentation. This initial evaluation will help teams understand the integration path and validate the setup cost before committing to a larger-scale implementation.
 
-**Production Readiness:** With a high production readiness score, AwesomeHomelab/awesome-homelab demonstrates strong ecosystem signals, recent activity, and adoption. The project's primary language is JavaScript, and it has a significant number of
+**Production Readiness:** With a high production readiness score, AwesomeHomelab/awesome-homelab demonstrates strong ecosystem signals, recent activity, and adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AwesomeHomelab/awesome-homelab).
 
 ### Русский
 

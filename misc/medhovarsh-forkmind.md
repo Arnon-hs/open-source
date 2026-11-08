@@ -38,7 +38,10 @@ For developers interested in adopting ForkMind, the practical adoption path invo
 
 1. **Manual inspection**: Carefully review the project's documentation, issues, and release cadence to understand its functionality and potential limitations.
 2. **Dependency and maintenance checks**: Verify that the project's dependencies are up-to-date and that the maintenance team is active and responsive.
-3. **Proof-of-concept**: Use ForkMind to prototype a simple AI feature or workflow to gain hands-on experience with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Medhovarsh/forkmind).
 
 ### Русский
 

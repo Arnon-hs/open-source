@@ -41,7 +41,10 @@ To adopt angristan/fast-resume, developers can follow these steps:
 
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to ensure it aligns with their project requirements.
 2. Integrate the tool into their existing workflow, taking into account any necessary dependencies and maintenance checks.
-3. Use the tool to prototype AI features, build RAG or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/angristan/fast-resume).
 
 ### Русский
 

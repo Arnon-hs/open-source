@@ -44,9 +44,9 @@ To adopt this project, follow these steps:
 3. Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your project's requirements.
 4. Perform dependency and maintenance checks before integrating the project into your production environment.
 
-**Production Readiness:**
+## Before adopting
 
-The project is considered production-ready with a medium level of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MaximeRivest/Riddle).
 
 ### Русский
 

@@ -35,7 +35,9 @@ Here's a brief summary of the lunar-landing/qualia project:
 
 **Practical Adoption Path:** To adopt lunar-landing/qualia, developers should first manually inspect the integration signals to understand the project's architecture and dependencies. They should also validate the setup cost before committing to the project. This involves evaluating the project's documentation, code quality, and community support to ensure it meets their organization's needs.
 
-**Production Readiness:** While lunar-landing/qualia is considered production-ready, its medium production readiness score indicates that it may require additional checks and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lunar-landing/qualia).
 
 ### Русский
 

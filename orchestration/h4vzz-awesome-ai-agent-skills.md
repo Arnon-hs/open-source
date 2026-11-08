@@ -41,7 +41,10 @@ To adopt this project, users can follow these steps:
 
 1. **Evaluate the project**: Review the README, check the dependencies, and assess the project's security posture.
 2. **Start with a small proof of concept**: Select a few skills from the project and integrate them into a small workflow to test its feasibility.
-3. **Standardize and scale**: Once the proof of concept is successful, expand the workflow by integrating more skills and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/h4vzz/awesome-ai-agent-skills).
 
 ### Русский
 

@@ -45,7 +45,11 @@ Before adopting JsxCore, developers should manually inspect the project's README
 
 **Production Readiness:**
 
-JsxCore is considered production-ready with a medium level of confidence. While the project has shown recent activity, its quality signals are limited, and developers should exercise caution before using it in
+JsxCore is considered production-ready with a medium level of confidence.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/davidwhitney/JsxCore).
 
 ### Русский
 

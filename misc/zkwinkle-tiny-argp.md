@@ -41,8 +41,9 @@ To adopt this project, engineers can follow these steps:
 3. Verify the project's license, maintenance, and release cadence to ensure it aligns with their organization's standards.
 4. Integrate the project into their workflow, starting with small-scale projects or prototypes.
 
-**Production Readiness:**
-The project's production readiness is rated as medium, indicating that it is suitable for internal workflows or prototypes, but requires careful evaluation before deployment in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zkwinkle/tiny_argp).
 
 ### Русский
 

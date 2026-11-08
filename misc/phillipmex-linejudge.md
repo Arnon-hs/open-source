@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt Linejudge, developers will need to manually inspect the project and its metadata before integration. This involves verifying the license, maintenance, documentation, issues, and release cadence to ensure the project meets their needs. Once verified, developers can integrate Linejudge into their workflows, taking advantage of its AI capabilities.
 
-**Production Readiness:** Linejudge is considered production-ready with some caveats. Its production readiness is rated as medium, indicating that while it can be useful for prototypes or internal workflows, it may require additional checks and maintenance before being used in a production environment. This is due to limited quality signals and the need for
+**Production Readiness:** Linejudge is considered production-ready with some caveats. Its production readiness is rated as medium, indicating that while it can be useful for prototypes or internal workflows, it may require additional checks and maintenance before being used in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/phillipmex/linejudge).
 
 ### Русский
 

@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt AspectCore, teams should start with a small proof of concept to evaluate its integration path and feasibility. A thorough review of the README documentation is also recommended to understand the framework's setup and usage. Once the proof of concept is successful, teams can gradually integrate AspectCore into their projects, starting with internal workflows or prototypes.
 
-**Production Readiness:** AspectCore is considered medium-production-ready, meaning it's suitable for use in prototypes, internal workflows, or small-scale production environments. However, teams should carefully evaluate the setup cost, dependency, and maintenance requirements before committing to
+**Production Readiness:** AspectCore is considered medium-production-ready, meaning it's suitable for use in prototypes, internal workflows, or small-scale production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dotnetcore/AspectCore-Framework).
 
 ### Русский
 

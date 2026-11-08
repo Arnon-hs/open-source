@@ -41,7 +41,11 @@ To adopt "ihabunek/twitch-dl" in a production environment, it is recommended to 
 
 **Production Readiness**
 
-The "ihabunek/twitch-dl" project is considered highly production-ready, with a score of 71/100. This is due to its
+The "ihabunek/twitch-dl" project is considered highly production-ready, with a score of 71/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ihabunek/twitch-dl).
 
 ### Русский
 

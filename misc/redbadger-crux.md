@@ -40,7 +40,11 @@ As for the practical adoption path:
 
 Regarding production readiness:
 
-Redbadger/crux has a medium production readiness score, indicating that it's suitable for prototyping or internal workflows but may require additional validation and setup before being used in production environments. With
+Redbadger/crux has a medium production readiness score, indicating that it's suitable for prototyping or internal workflows but may require additional validation and setup before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/redbadger/crux).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The key value proposition of smart-llm-loader lies in its ability to streamline 
 
 To adopt smart-llm-loader, developers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once familiar with the package, they can integrate it into their project, leveraging its capabilities to standardize agent memory, add tool-use pipelines, and coordinate multi-agent workflows. The package's recent activity, adoption, and ecosystem signals suggest a high level of production readiness, making it suitable for a serious pilot.
 
-**Production Readiness:**
+## Before adopting
 
-The smart-llm-loader package is considered high for production readiness due to its recent activity, strong adoption (327 GitHub stars and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/drmingler/smart-llm-loader).
 
 ### Русский
 

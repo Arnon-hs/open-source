@@ -41,7 +41,10 @@ To adopt Magic, users can follow these general steps:
 
 1. **Explore the documentation**: Familiarize yourself with the Magic platform, its features, and the Model Context Protocol.
 2. **Choose the tools**: Select the tools and AI agents you want to integrate with Magic.
-3. **Implement the protocol**: Use the provided API, SDK, or CLI to integrate your chosen tools and AI agents with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dtyq/magic).
 
 ### Русский
 

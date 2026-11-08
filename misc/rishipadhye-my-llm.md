@@ -39,7 +39,10 @@ The project's primary value lies in its ability to facilitate the creation of a 
 1. **Initial Exploration**: Review the project's documentation, issues, and release history to understand its current state and potential future development.
 2. **Manual Inspection**: Carefully inspect the project's code and integration signals to ensure it meets your specific requirements and can be adapted to your internal workflows.
 3. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements to ensure they are manageable and align with your organization's standards.
-4. **Testing and Integration**: Test the project in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rishipadhye/my-LLM).
 
 ### Русский
 

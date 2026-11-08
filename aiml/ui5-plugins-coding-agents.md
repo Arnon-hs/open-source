@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating the plugins and their implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then use the plugins to prototype AI features, build agent workflows, and evaluate model tooling. Before production use, developers should conduct thorough dependency and maintenance checks to ensure the project's stability and security.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it is suitable for internal workflows, prototyping, and proof-of-concept development. However, it may not be ready for large-scale production use without
+**Production Readiness:** The project has a medium production readiness score, indicating that it is suitable for internal workflows, prototyping, and proof-of-concept development.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/UI5/plugins-coding-agents).
 
 ### Русский
 

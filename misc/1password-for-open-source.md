@@ -41,7 +41,11 @@ To adopt 1Password/for-open-source, developers should carefully review the proje
 
 **Production Readiness**
 
-The project has medium production readiness, making it suitable for prototypes or internal workflows. However, before deploying it in production, developers should perform thorough dependency and maintenance checks to ensure stability and security. This includes reviewing the project's license, security posture, and
+The project has medium production readiness, making it suitable for prototypes or internal workflows. However, before deploying it in production, developers should perform thorough dependency and maintenance checks to ensure stability and security.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/1Password/for-open-source).
 
 ### Русский
 

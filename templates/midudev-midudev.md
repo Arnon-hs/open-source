@@ -37,7 +37,11 @@ The value proposition of midudev/midudev lies in its ability to speed up develop
 To adopt midudev/midudev, start with a small proof of concept and review the README to understand its functionality and potential integration points. This will help evaluate its feasibility and identify any potential issues. Once the concept is validated, you can integrate the project into your development workflow, taking care to perform dependency and maintenance checks before moving to production.
 
 **Production Readiness:**
-midudev/midudev is considered production-ready, but with some caveats. It is rated as "Medium" in terms of production readiness, indicating that it can be useful for prototypes or internal workflows. However, a thorough review of
+midudev/midudev is considered production-ready, but with some caveats. It is rated as "Medium" in terms of production readiness, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/midudev/midudev).
 
 ### Русский
 

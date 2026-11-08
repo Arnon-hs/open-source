@@ -44,9 +44,9 @@ To adopt TAgent, developers can follow these steps:
 3. Review the project's language metadata and focused topics to ensure alignment with project requirements.
 4. Assess the project's production readiness and perform dependency and maintenance checks before deploying it in production.
 
-**Production Readiness:**
+## Before adopting
 
-TAgent is considered production-ready with medium readiness, making it suitable for prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pengmoubuaixuexi/TAgent).
 
 ### Русский
 

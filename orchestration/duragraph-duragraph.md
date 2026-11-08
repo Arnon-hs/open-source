@@ -37,7 +37,11 @@ The primary value proposition of Duragraph lies in its ability to turn isolated 
 To adopt Duragraph, users can start by evaluating its APIs, SDKs, and CLI, as well as its language metadata and focused topics. Duragraph's zero-config dev environment and embedded Postgres + NATS make it relatively easy to get started. Users can begin by integrating Duragraph with their existing tools and workflows, and then gradually scale up to more complex use cases.
 
 **Production Readiness:**
-Duragraph has demonstrated high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for serious pilot projects. Its primary language, Go, and 189 GitHub stars also suggest a
+Duragraph has demonstrated high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for serious pilot projects.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Duragraph/duragraph).
 
 ### Русский
 

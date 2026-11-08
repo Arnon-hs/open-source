@@ -37,8 +37,9 @@ The value proposition of crowdin-cli lies in its ability to help teams reuse ser
 **Practical Adoption Path:**
 To adopt crowdin-cli, teams can start by evaluating its implementation signals, such as its API/SDK/CLI implementation, language metadata, and focused topics. This will help teams understand how the project can be integrated into their existing infrastructure. Next, teams can pilot the project by testing its features and functionality. If successful, teams can then adopt crowdin-cli as a standard tool for their backend infrastructure.
 
-**Production Readiness:**
-Crowdin-cli has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/crowdin/crowdin-cli).
 
 ### Русский
 

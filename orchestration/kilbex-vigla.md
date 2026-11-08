@@ -38,7 +38,10 @@ To adopt Kilbex/Vigla, follow these steps:
 
 1. **Evaluate the project's stability and security**: Review the codebase, license, and security posture to ensure it aligns with your project's requirements.
 2. **Integrate with your existing tools and workflows**: Use the provided API/SDK/CLI to integrate Kilbex/Vigla with your existing infrastructure.
-3. **Test and refine your agent workflows**: Use Kilbex/Vigla to manage and audit your agent submissions, and fine-tune your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Kilbex/Vigla).
 
 ### Русский
 

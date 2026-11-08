@@ -40,7 +40,11 @@ RevoltDevScript/Revolt-Script is an open-source automation tool designed to simp
 3. Validate the setup cost and potential integration challenges.
 4. Manually configure the tool to meet their workflow requirements.
 
-**Production Readiness:** RevoltDevScript/Revolt-Script is considered "Medium" in terms of production readiness, making it suitable for prototypes or internal workflows. Before deploying it in production, users should perform dependency and maintenance checks to
+**Production Readiness:** RevoltDevScript/Revolt-Script is considered "Medium" in terms of production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/RevoltDevScript/Revolt-Script).
 
 ### Русский
 

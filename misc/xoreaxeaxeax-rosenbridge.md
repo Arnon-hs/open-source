@@ -37,8 +37,9 @@ The project offers a unique insight into the hardware backdoors in x86 CPUs, whi
 **Practical Adoption Path:**
 To adopt this project, users should first manually inspect the code and metadata to understand its functionality and limitations. They should then verify the project's quality signals, such as its license, maintenance, documentation, issue history, and release cadence, to ensure it meets their requirements. Once satisfied, they can integrate the project into their workflows, starting with prototype development or internal use cases, and then move to production environments after thorough testing and dependency checks.
 
-**Production Readiness:**
-The project has a medium production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xoreaxeaxeax/rosenbridge).
 
 ### Русский
 

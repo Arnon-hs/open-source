@@ -37,7 +37,9 @@ Misc
 2. **Experimentation:** Use the model for prototyping AI features, building RAG or agent workflows, or evaluating model tooling in a controlled environment.
 3. **Integration:** Once the model has been evaluated and tested, integrate it into the production environment, ensuring proper configuration and monitoring.
 
-**Production Readiness:** Due to limited quality signals and integration requirements, hustvl/yolos-small is considered Early or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/hustvl/yolos-small).
 
 ### Русский
 

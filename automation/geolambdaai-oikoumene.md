@@ -40,7 +40,10 @@ In terms of value, the project offers the ability to automate manual operations,
 The production readiness of the project is moderate, making it suitable for:
 
 1. Prototypes: Test the project in a controlled environment to evaluate its performance and feasibility.
-2. Internal workflows: Use the project in internal workflows where the risks associated with its adoption are
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GeoLambdaAI/oikoumene/tree/main).
 
 ### Русский
 

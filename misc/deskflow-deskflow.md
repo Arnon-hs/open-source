@@ -44,7 +44,9 @@ Here's a brief summary of the deskflow project:
 3. **Pilot the project**: Implement deskflow in a controlled environment to test its functionality, performance, and scalability.
 4. **Refine and deploy**: Based on the pilot's results, refine the setup and deploy deskflow in your production environment.
 
-**Production Readiness:** With
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/deskflow/deskflow).
 
 ### Русский
 

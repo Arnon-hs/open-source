@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, users should first inspect the project's README and activity to determine whether it aligns with their workflow needs. This is due to the sparse integration signals in the discovered metadata, which requires manual verification. Once the project is deemed suitable, users should verify the license, maintenance, documentation, issues, and release cadence to ensure its quality and reliability.
 
-**Production Readiness:** The project is considered medium-production ready, indicating that it can be useful for prototypes or internal workflows. However, its use in production environments should be preceded by thorough dependency and maintenance checks to ensure its
+**Production Readiness:** The project is considered medium-production ready, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/megamen32/WhisperServer).
 
 ### Русский
 

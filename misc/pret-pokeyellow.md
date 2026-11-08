@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, one should start by carefully reviewing the README and evaluating the setup cost, as the integration path is not immediately obvious from the metadata. A small proof of concept is recommended to validate the usefulness of the project before committing to its adoption. This will help ensure that the project aligns with the user's specific needs and workflow.
 
-**Production Readiness:** The project's production readiness is rated as medium, indicating that it can be useful for prototypes or internal workflows. However, before deploying it in production, it's essential to conduct thorough dependency and maintenance checks to
+**Production Readiness:** The project's production readiness is rated as medium, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pret/pokeyellow).
 
 ### Русский
 

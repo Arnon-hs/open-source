@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path**: To adopt this project, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then integrate the tool into their existing workflows and test its effectiveness in identifying and fixing performance issues. If necessary, they can modify the code to suit their specific needs.
 
-**Production Readiness**: The production readiness of kargnas/mac-optimizing-looper is medium, suggesting that it's suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kargnas/mac-optimizing-looper).
 
 ### Русский
 

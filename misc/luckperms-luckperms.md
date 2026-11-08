@@ -43,9 +43,9 @@ As for the value, the practical adoption path, and production readiness:
 4. Test the plugin to ensure it meets your requirements.
 5. Integrate the plugin into your production environment.
 
-**Production Readiness:** LuckPerms/LuckPerms has a high production readiness score due to its:
+## Before adopting
 
-1. Strong adoption rate (2294 GitHub stars and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LuckPerms/LuckPerms).
 
 ### Русский
 

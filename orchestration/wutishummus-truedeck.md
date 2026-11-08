@@ -73,7 +73,10 @@ TrueDeck 的生产可用性为中等（Medium），适合用于原型开发或�
 
 1. 需要手动检查和测试。
 2. 需要对依赖项和维护记录进行检查。
-3.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/WutIsHummus/TrueDeck)。
 
 ## 🧭 Practical evaluation
 

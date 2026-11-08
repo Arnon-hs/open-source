@@ -39,9 +39,11 @@ Here's a brief summary and explanation of the project:
 2. **Integration validation**: Inspect the integration signals to understand the project's compatibility with your existing systems.
 3. **Setup cost validation**: Assess the setup and maintenance costs before committing to this project.
 
-**Production readiness:** The project has a medium production readiness score of 5/10. It's suitable for:
+**Production readiness:** The project has a medium production readiness score of 5/10.
 
-1. **Prototypes**: Use this library as a starting point for building a proof-of-concept or a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aschey/stream-download-rs).
 
 ### Русский
 

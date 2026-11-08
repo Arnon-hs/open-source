@@ -39,7 +39,11 @@ Dokploy/mcp is an open-source project that facilitates seamless integration betw
 2. They can then integrate the MCP protocol with their AI agents and tools, following the project's documentation and guidelines.
 3. As they gain experience with the project, developers can contribute to the community, share their knowledge, and help improve the project.
 
-**Production Readiness:** Dokploy/mcp has a high production readiness score, indicating that it is suitable for serious pilots and production environments. Its
+**Production Readiness:** Dokploy/mcp has a high production readiness score, indicating that it is suitable for serious pilots and production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Dokploy/mcp).
 
 ### Русский
 

@@ -46,7 +46,11 @@ To adopt this project, follow these steps:
 
 **Production Readiness:**
 
-This project is considered medium-production ready, making it suitable for prototypes or internal workflows. However, it requires careful evaluation and verification before being used in production due to
+This project is considered medium-production ready, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tomelliot/all-ears).
 
 ### Русский
 

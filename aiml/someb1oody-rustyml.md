@@ -42,7 +42,10 @@ To adopt SomeB1oody/RustyML, developers can follow these steps:
 1. Evaluate the library by reviewing its README and documentation to understand its features and usage.
 2. Start with a small proof of concept to test the library's performance and compatibility with their project.
 3. Gradually integrate the library into their project, following the library's documentation and best practices.
-4. Monitor the library's updates and contributions to ensure continued support and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SomeB1oody/RustyML).
 
 ### Русский
 

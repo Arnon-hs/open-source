@@ -38,7 +38,9 @@ Security
 3. **Testing and Refining:** Test OXO in a controlled environment and refine its configuration to suit your specific security requirements.
 4. **Deployment:** Deploy OXO in production, ensuring that you have addressed all necessary dependencies and maintenance checks.
 
-**Production Readiness:** While OXO has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Ostorlab/oxo).
 
 ### Русский
 

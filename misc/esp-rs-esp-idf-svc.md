@@ -37,7 +37,11 @@ The value of esp-rs/esp-idf-svc lies in its ability to provide a type-safe Rust 
 To adopt esp-rs/esp-idf-svc, developers should start by reading the project's README and familiarizing themselves with the services and their wrappers. They should then manually inspect the integration process to ensure it matches their specific workflow. This may involve validating the setup cost and checking for any potential dependencies or maintenance issues.
 
 **Production Readiness:**
-The production readiness of esp-rs/esp-idf-svc is moderate, with a score of 56/100. This indicates that the project is suitable for prototypes or
+The production readiness of esp-rs/esp-idf-svc is moderate, with a score of 56/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/esp-rs/esp-idf-svc).
 
 ### Русский
 

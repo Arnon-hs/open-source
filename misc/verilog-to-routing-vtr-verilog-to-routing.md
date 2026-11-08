@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project "verilog-to-routing/vtr-verilo
 
 **Practical Adoption Path:** To adopt this project, start by carefully reading the README and evaluating the activity to ensure it matches your specific workflow. Begin with a small proof-of-concept to validate the setup cost and potential integration challenges. This will help you determine whether the project's benefits outweigh its risks.
 
-**Production Readiness:** Despite potential integration challenges, the project demonstrates high production readiness due to its recent activity, strong adoption (1245 GitHub stars, 445 forks), and robust ecosystem signals. This makes it a viable candidate for serious pilots and
+**Production Readiness:** Despite potential integration challenges, the project demonstrates high production readiness due to its recent activity, strong adoption (1245 GitHub stars, 445 forks), and robust ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/verilog-to-routing/vtr-verilog-to-routing).
 
 ### Русский
 

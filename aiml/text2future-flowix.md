@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the text2future/flowix project:
 
 **Practical Adoption Path:** To adopt text2future/flowix, users should start with a small proof of concept to evaluate its feasibility. A thorough review of the README documentation is also recommended to ensure a smooth integration process. Before production, dependency and maintenance checks should be performed to ensure the project's stability and security.
 
-**Production Readiness:** text2future/flowix has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require additional checks and validation before being used in production environments. While the project has
+**Production Readiness:** text2future/flowix has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/text2future/flowix).
 
 ### Русский
 

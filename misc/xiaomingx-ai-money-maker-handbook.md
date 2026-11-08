@@ -41,7 +41,10 @@ To adopt the XiaomingX/ai-money-maker-handbook, users can follow these steps:
 
 1. **Explore the project**: Browse through the project's documentation and knowledge base to understand the various AI-powered side hustles and projects covered.
 2. **Choose a project**: Select a project that aligns with your interests and skills, and start exploring the resources and tools provided.
-3. **Set up and configure**: Follow the project's setup instructions to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/XiaomingX/ai-money-maker-handbook).
 
 ### Русский
 

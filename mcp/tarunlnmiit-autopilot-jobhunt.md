@@ -44,7 +44,11 @@ Users can adopt this project by following these steps:
 5. Run the project nightly to receive job alerts and tailored job applications.
 
 **Production Readiness:**
-The project has a high production readiness score due to its recent activity, strong adoption, and ecosystem signals. With
+The project has a high production readiness score due to its recent activity, strong adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tarunlnmiit/autopilot-jobhunt).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The value proposition of Mirror Mirror lies in its ability to provide a self-hos
 
 Before adopting Mirror Mirror, users should perform a manual inspection to ensure its quality signals are reliable. This includes verifying the license, maintenance, documentation, issues, and release cadence. Additionally, users should assess the project's activity and update frequency to ensure it is actively maintained. Once these checks are complete, users can proceed with integrating Mirror Mirror into their workflow.
 
-**Production Readiness:**
+## Before adopting
 
-Mirror Mirror has a medium production readiness score, indicating that it can be useful for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/maco30001/Mirror-Mirror).
 
 ### Русский
 

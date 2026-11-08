@@ -41,7 +41,11 @@ To adopt visjs/vis-timeline in a project, follow these steps:
 3. Check the dependency and maintenance requirements to ensure they align with your project's needs.
 
 **Production Readiness:**
-The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, it is not yet ready for large-scale production due to the need for dependency and maintenance checks. Before committing to
+The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, it is not yet ready for large-scale production due to the need for dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/visjs/vis-timeline).
 
 ### Русский
 

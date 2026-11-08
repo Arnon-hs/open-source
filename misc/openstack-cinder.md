@@ -46,7 +46,11 @@ To adopt OpenStack Cinder, follow these steps:
 
 **Production Readiness:**
 
-OpenStack Cinder is considered medium production-ready, making it suitable for prototype development or internal workflows. However, it's essential to conduct thorough dependency and maintenance checks before deploying it in
+OpenStack Cinder is considered medium production-ready, making it suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openstack/cinder).
 
 ### Русский
 

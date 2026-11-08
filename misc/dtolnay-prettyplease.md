@@ -35,7 +35,11 @@ Here's a brief summary and explanation:
 
 **Practical Adoption Path:** To adopt dtolnay/prettyplease, developers should carefully review the README and activity of the project to ensure it aligns with their specific workflow requirements. They should also manually inspect the integration signals and validate the setup cost before committing to its use. This involves checking the project's GitHub stars, forks, and update history to gauge its popularity and maintenance activity.
 
-**Production Readiness:** dtolnay/prettyplease is considered production-ready at a medium level, indicating that it's suitable for internal workflows or prototypes, but may require additional checks and dependencies before being used in production environments. This is due to the sparse integration signals and
+**Production Readiness:** dtolnay/prettyplease is considered production-ready at a medium level, indicating that it's suitable for internal workflows or prototypes, but may require additional checks and dependencies before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dtolnay/prettyplease).
 
 ### Русский
 

@@ -41,7 +41,10 @@ To adopt this project, developers should follow these steps:
 
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it meets their needs and is well-maintained.
 2. **Dependency and Maintenance Checks**: Verify that the project's dependencies are up-to-date and that it is compatible with their existing infrastructure.
-3. **Verify License and Quality Signals**: Confirm that the project's license is acceptable and that the quality signals are
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jgraph/drawio-mcp).
 
 ### Русский
 

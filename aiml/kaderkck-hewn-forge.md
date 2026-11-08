@@ -44,9 +44,9 @@ To adopt Hewn Forge, developers can follow these steps:
 3. Test and refine the integration to ensure seamless operation.
 4. Use Hewn Forge to create precision summaries and polished code, and evaluate its performance in their specific use case.
 
-**Production Readiness:**
+## Before adopting
 
-Hewn Forge has a medium production readiness score, indicating that it is suitable for internal workflows and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kaderkck/hewn-forge).
 
 ### Русский
 

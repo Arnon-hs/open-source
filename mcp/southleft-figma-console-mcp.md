@@ -42,8 +42,9 @@ To adopt this project, follow these steps:
 3. Assess the project's production readiness by checking its dependency and maintenance requirements.
 4. Consider using the project for prototypes or internal workflows before scaling it up for production use.
 
-**Production Readiness:**
-The Figma Console MCP project is considered medium-production ready, indicating that it can be useful for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/southleft/figma-console-mcp).
 
 ### Русский
 

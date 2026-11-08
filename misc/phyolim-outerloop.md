@@ -44,8 +44,9 @@ Outerloop is an open-source project that allows users to manage their Macs as a 
 4. **Prototype and test** Outerloop in a controlled environment to gauge its effectiveness.
 5. **Adopt Outerloop in internal workflows or prototypes** before considering production use.
 
-**Production Readiness:** 
-Outerloop has a medium production readiness score, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/phyolim/outerloop).
 
 ### Русский
 

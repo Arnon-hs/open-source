@@ -41,7 +41,11 @@ To adopt dusk-network/plonk, developers should start with a small proof of conce
 
 **Production Readiness:**
 
-The production readiness of dusk-network/plonk is rated as Medium. While it is useful for prototypes or internal workflows, additional checks and evaluations are necessary before deploying it in a production environment. The project's medium production readiness score indicates that, with
+The production readiness of dusk-network/plonk is rated as Medium. While it is useful for prototypes or internal workflows, additional checks and evaluations are necessary before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dusk-network/plonk).
 
 ### Русский
 

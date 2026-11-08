@@ -42,7 +42,10 @@ To adopt Fokkyp/SoftwareCopyright-Skill, follow these steps:
 1. **Review the README**: Understand the project's features, limitations, and usage guidelines.
 2. **Inspect the code**: Verify that the tool meets your specific requirements and is compatible with your project's structure and version control system.
 3. **Test the tool**: Run the tool on a sample project to ensure it generates accurate and complete application materials.
-4. **Integrate with your workflow**: Incorporate Fokkyp/SoftwareCopyright-Skill into your development process, possibly as a pre-commit hook or a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Fokkyp/SoftwareCopyright-Skill).
 
 ### Русский
 

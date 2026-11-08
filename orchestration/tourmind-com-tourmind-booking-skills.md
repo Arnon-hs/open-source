@@ -37,7 +37,10 @@ Orchestration · Payments · AI/ML · Backend
 2. Assess the project's production readiness, considering factors like recent activity, adoption, and ecosystem signals.
 3. Review the project's license, security posture, and maintainers to ensure it aligns with their business needs.
 4. Integrate the project with their existing systems, using the provided API/SDK/CLI.
-5. Test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tourmind-com/Tourmind-Booking-Skills).
 
 ### Русский
 

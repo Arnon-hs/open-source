@@ -45,7 +45,10 @@ To adopt this project, follow these steps:
 
 1. **Manual inspection**: Carefully review the project's code, documentation, and issues to understand its functionality and potential limitations.
 2. **Verify dependencies and maintenance**: Ensure that the project's dependencies are up-to-date and that maintenance is regular to avoid potential issues.
-3. **Test and evaluate**: Test the project in a controlled environment to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/canntstand/ServeHub-2).
 
 ### Русский
 

@@ -44,9 +44,9 @@ To adopt agentmemory, developers can follow these steps:
 3. Test the project in a prototype or internal workflow environment to ensure it meets their needs.
 4. Conduct dependency and maintenance checks before considering production deployment.
 
-**Production Readiness:**
+## Before adopting
 
-Agentmemory has a medium production readiness score, indicating that it is suitable for prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jayzeng/agentmemory).
 
 ### Русский
 

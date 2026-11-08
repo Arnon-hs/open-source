@@ -38,7 +38,10 @@ The primary value proposition of sebs/etherscan-api lies in its ability to help 
 1. **Proof of Concept (PoC):** Start with a small PoC to evaluate the integration feasibility and understand how the wrapper can be used in your project.
 2. **README Check:** Carefully review the project's README file to understand its usage, dependencies, and any specific requirements.
 3. **Dependency and Maintenance Checks:** Before production, ensure that the wrapper's dependencies are up-to-date and the project is actively maintained.
-4. **Integration and Testing:** Integrate the wrapper into your project, test its functionality, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sebs/etherscan-api).
 
 ### Русский
 

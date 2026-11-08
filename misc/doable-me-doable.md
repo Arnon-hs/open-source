@@ -42,7 +42,10 @@ For teams interested in adopting Doable, the following steps are recommended:
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it meets your team's needs.
 2. **Dependency and Maintenance Checks**: Verify that the project's dependencies are up-to-date and well-maintained to avoid potential issues in production.
 3. **Prototype or Internal Workflow Testing**: Use Doable to prototype AI features or build internal workflows to gauge its effectiveness and identify potential areas for improvement.
-4. **Verification of License and Documentation**: Confirm that the project's license and documentation align with your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/doable-me/Doable).
 
 ### Русский
 

@@ -37,7 +37,9 @@ Misc
 2. **Evaluate Quality Signals:** While the model has received 6 GitHub stars, users should be cautious and verify the license, maintenance, documentation, issues, and release cadence before using it.
 3. **Test and Refine:** Once adopted, users should test and refine the model to ensure it works as expected and meets their specific requirements.
 
-**Production Readiness:** Due to the limited quality signals and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/xingyang1/Distill-Any-Depth-Large-hf).
 
 ### Русский
 

@@ -45,7 +45,11 @@ To adopt ubavic/bas-celik, follow these steps:
 
 **Production Readiness:**
 
-The project has moderate production readiness, making it suitable for prototyping or internal use. However, it's essential to perform a thorough evaluation, including dependency and maintenance checks, before deploying it in
+The project has moderate production readiness, making it suitable for prototyping or internal use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ubavic/bas-celik).
 
 ### Русский
 

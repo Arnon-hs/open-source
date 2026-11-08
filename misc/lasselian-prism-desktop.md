@@ -36,7 +36,11 @@ Prism-desktop is an open-source, customizable desktop dashboard designed for Hom
 
 **Practical Adoption Path:** To adopt Prism-desktop, users should first review the project's README and documentation to understand its functionality and requirements. A manual inspection is recommended to ensure seamless integration with Home Assistant. Once familiar with the project, users can download and install Prism-desktop, configuring it to suit their specific needs.
 
-**Production Readiness:** With a medium production readiness score, Prism-desktop is suitable for testing and internal workflows. However, it's essential to conduct thorough dependency and maintenance checks before deploying it in a production environment. This involves reviewing the project's license, security posture, and ensuring that the maintainers are
+**Production Readiness:** With a medium production readiness score, Prism-desktop is suitable for testing and internal workflows. However, it's essential to conduct thorough dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lasselian/prism-desktop).
 
 ### Русский
 

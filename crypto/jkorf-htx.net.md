@@ -39,7 +39,10 @@ Developers interested in adopting JKorf/HTX.Net can follow these steps:
 1. Evaluate the library's documentation and API to ensure it meets their project requirements.
 2. Integrate the library into their project, following the provided implementation guidelines.
 3. Test and refine their application using the library's features and functionality.
-4. Continuously monitor the library's updates and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JKorf/HTX.Net).
 
 ### Русский
 

@@ -48,9 +48,9 @@ To adopt Show DEV, developers should follow these steps:
 3. Maintenance checks: Check the app's maintenance history, release cadence, and documentation to ensure it is well-maintained.
 4. Testing: Test the app in their project to ensure it works as expected.
 
-**Production Readiness**
+## Before adopting
 
-Show DEV has a medium production readiness score, indicating that it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/blessedlab/NotchTune).
 
 ### Русский
 

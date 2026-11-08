@@ -38,7 +38,11 @@ The project's value proposition lies in its ability to standardize integrations 
 To adopt allocnode/oh-my-sage, developers should start by evaluating the project through a small proof of concept and reviewing the README documentation. They should also perform dependency and maintenance checks before considering production use. This approach will help ensure a smooth transition and minimize potential risks.
 
 **Production Readiness:**
-allocnode/oh-my-sage has a moderate production readiness rating of 6 out of 10. While it is
+allocnode/oh-my-sage has a moderate production readiness rating of 6 out of 10.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/allocnode/oh-my-sage).
 
 ### Русский
 

@@ -33,7 +33,11 @@ Backend
 
 **Practical Adoption Path:** To adopt MingweiSamuel/Riven, teams should start with a small proof of concept to evaluate its feasibility. A thorough review of the README and dependency checks are essential before production deployment. This library is suitable for prototypes or internal workflows, making it a great fit for teams looking to validate their ideas or streamline their development processes.
 
-**Production Readiness:** MingweiSamuel/Riven has a medium production readiness score, indicating that while it is useful for certain use cases, it requires further evaluation and maintenance checks before being deployed in production environments. With a relatively small number of GitHub stars and forks, it is essential to review the library's license, security posture, and active maintainers to
+**Production Readiness:** MingweiSamuel/Riven has a medium production readiness score, indicating that while it is useful for certain use cases, it requires further evaluation and maintenance checks before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MingweiSamuel/Riven).
 
 ### Русский
 

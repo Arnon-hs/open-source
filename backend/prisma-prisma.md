@@ -33,7 +33,11 @@ Backend · Database
 
 **Practical Adoption Path:** To adopt Prisma, developers can start by evaluating its API, SDK, and CLI implementation signals. They can also review language metadata and focused topics to determine the best approach for their specific use case. Once they have a basic understanding of how Prisma works, they can begin integrating it into their project, starting with a pilot or proof-of-concept.
 
-**Production Readiness:** Prisma is considered production-ready due to its strong ecosystem, recent activity, and high adoption. With over 47,500 GitHub stars and
+**Production Readiness:** Prisma is considered production-ready due to its strong ecosystem, recent activity, and high adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/prisma/prisma).
 
 ### Русский
 

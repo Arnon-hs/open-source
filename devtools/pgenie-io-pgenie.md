@@ -41,7 +41,11 @@ The primary value proposition of pgenie lies in its ability to reduce the time a
 4. **Monitoring**: Monitor pgenie's performance and maintain its dependencies to ensure smooth operation.
 
 **Production Readiness:**
-pgenie is considered production-ready with a medium level of readiness. While it has the potential to be useful for prototypes or internal workflows, it's essential to perform additional checks on
+pgenie is considered production-ready with a medium level of readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pgenie-io/pgenie).
 
 ### Русский
 

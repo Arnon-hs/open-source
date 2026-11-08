@@ -38,7 +38,10 @@ Tencent/YOLO-Master is an open-source project that provides a real-time object d
 1. **Prototype and evaluation**: Start by creating a small proof of concept to evaluate the project's feasibility and understand its capabilities.
 2. **Readiness check**: Review the project's documentation, dependencies, and maintenance requirements to ensure it meets your needs.
 3. **Integration**: Integrate Tencent/YOLO-Master into your existing workflow or application, considering the project's primary language (Python) and potential dependencies.
-4. **Testing and refinement**: Test the project thoroughly and refine it as needed to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Tencent/YOLO-Master).
 
 ### Русский
 

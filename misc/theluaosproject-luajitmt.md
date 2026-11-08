@@ -39,7 +39,11 @@ Here's a brief summary of the open-source project:
 2. **Dependency and Maintenance Checks:** Perform thorough checks on the project's dependencies and maintenance to ensure they align with your production requirements.
 3. **Verify Quality Signals:** Verify the project's quality signals, including license, maintenance, documentation, issues, and release cadence, to ensure they meet your standards.
 
-**Production Readiness:** Due to limited quality signals and sparse integration signals, the project's production readiness is rated as Medium. It's suitable for prototyping or
+**Production Readiness:** Due to limited quality signals and sparse integration signals, the project's production readiness is rated as Medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TheLuaOSProject/LuaJITMT/releases/tag/1.0.0-simd).
 
 ### Русский
 

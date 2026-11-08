@@ -73,11 +73,9 @@ AI Gateway 的价值在于，它帮助连接 AI 代理到真实工具和数据�
 2. 部署 Model Context Protocol 服务器：AI Gateway 支持部署 Model Context Protocol 服务器，方便开发者接入 AI 功能。
 3. 标准化集成：AI Gateway 提供标准化的接口，方便开发者集成 AI 功能到自己的应用中。
 
-**生产可用性**
+## 采用前检查
 
-AI Gateway 的生产可用性非常高，主要原因包括：
-
-1.
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/ferro-labs/ai-gateway)。
 
 ## 🧭 Practical evaluation
 

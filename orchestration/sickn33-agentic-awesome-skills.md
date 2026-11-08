@@ -39,7 +39,11 @@ The practical adoption path for this project involves:
 2. Assessing the library's quality signals, including its GitHub stars, forks, and update history.
 3. Verifying the library's license, security posture, and active maintainers to ensure it meets the user's requirements.
 
-The production readiness of this project is high due to its recent activity, adoption, and strong ecosystem signals. With a score of 97/100, it is
+The production readiness of this project is high due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sickn33/agentic-awesome-skills).
 
 ### Русский
 
@@ -76,7 +80,10 @@ sickn33/agentic-awesome-skills 帮助将孤立的提示和工具转变为可重�
 * 强大的生态系统信号
 * 高的评分（97/100）
 * 强大的 GitHub 星球和分叉数（42629 个星球，6777 个分叉）
-* 更新频繁（最近更新于
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/sickn33/agentic-awesome-skills)。
 
 ## 🧭 Practical evaluation
 

@@ -39,7 +39,10 @@ To adopt RainbowMiner, users can follow these steps:
 1. Evaluate the project's feasibility by checking the README and building a small proof of concept.
 2. Review the project's license, security posture, and active maintainers to ensure it meets your requirements.
 3. Set up the project using the easy setup wizard and configure the mining pools, algorithms, and miners to your liking.
-4. Monitor and fine-tune the project to optimize your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/RainbowMiner/RainbowMiner).
 
 ### Русский
 

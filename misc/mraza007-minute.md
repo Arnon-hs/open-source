@@ -39,9 +39,9 @@ The value of this project lies in its ability to provide offline meeting notes o
 
 To adopt this project, users should first manually inspect the code, dependencies, and documentation to ensure it meets their needs and is well-maintained. This involves verifying the license, maintenance history, documentation quality, issue tracking, and release cadence. Once the project is deemed suitable, users can integrate it into their workflow, starting with prototype development or internal testing before scaling to production.
 
-**Production Readiness:**
+## Before adopting
 
-The production readiness of Show HN: Minute is rated as medium, indicating that it can be useful for prototype development or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mraza007/minute).
 
 ### Русский
 

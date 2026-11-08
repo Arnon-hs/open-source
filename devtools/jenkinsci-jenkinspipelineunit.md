@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To integrate JenkinsPipelineUnit into their workflow, developers should start with a small proof of concept and carefully evaluate the project's README file. Given the framework's medium production readiness, it's recommended to perform dependency checks and maintenance assessments before committing to its use in production environments. A phased approach, beginning with internal workflows or prototypes, can help developers determine the best way to integrate JenkinsPipelineUnit into their existing infrastructure.
 
-**Production Readiness:** With a score of 63/100, JenkinsPipelineUnit is considered to have medium production readiness. While it's a useful tool for prototypes or internal workflows, its adoption in production environments should be approached with
+**Production Readiness:** With a score of 63/100, JenkinsPipelineUnit is considered to have medium production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jenkinsci/JenkinsPipelineUnit).
 
 ### Русский
 

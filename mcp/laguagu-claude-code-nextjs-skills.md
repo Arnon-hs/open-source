@@ -37,7 +37,11 @@ The laguagu/claude-code-nextjs-skills project offers a standardized protocol for
 
 **Practical Adoption Path:**
 
-To adopt this project, developers can start by evaluating the implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to understand how the project can be integrated into their existing infrastructure. They can then follow the project's documentation to set up and configure the necessary components, such as Next.js 16 and AI SDK 6. Once set up, developers can begin to integrate AI agents with
+To adopt this project, developers can start by evaluating the implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to understand how the project can be integrated into their existing infrastructure. They can then follow the project's documentation to set up and configure the necessary components, such as Next.js 16 and AI SDK 6.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/laguagu/claude-code-nextjs-skills).
 
 ### Русский
 

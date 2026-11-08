@@ -39,7 +39,11 @@ Here's a brief summary and explanation of the project:
 2. **Integration Signals:** Investigate the integration signals in the discovered metadata, and validate the setup cost before committing to the project.
 3. **Dependency and Maintenance Checks:** Perform dependency and maintenance checks to ensure the project is production-ready.
 
-**Production Readiness:** pwmt/zathura has a medium level of production readiness, making it suitable for prototypes or internal workflows. While it has a moderate number of GitHub stars and regular updates, its integration path is not immediately obvious from
+**Production Readiness:** pwmt/zathura has a medium level of production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pwmt/zathura).
 
 ### Русский
 

@@ -37,7 +37,10 @@ The practical adoption path for UniTime/unitime involves:
 
 1. **Learning an implementation pattern**: Developers can study the project's code to gain insights into best practices and proven implementation patterns.
 2. **Building tutorials**: The project can be used as a base for creating tutorials on specific topics, such as university timetabling or Java development.
-3. **Training a team**: UniTime/unitime can be
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/UniTime/unitime).
 
 ### Русский
 

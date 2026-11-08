@@ -37,7 +37,11 @@ The value of AliKarami/MikroMCP lies in its ability to connect AI assistants to 
 To adopt AliKarami/MikroMCP, users can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The project's straightforward integration process makes it easy to evaluate and implement. However, users should conduct a thorough review of the project's license, security posture, and maintainers before deploying it in production.
 
 **Production Readiness:**
-AliKarami/MikroMCP has a medium level of production readiness, making it suitable for prototypes or internal workflows. Before deploying it in production, users should perform dependency and maintenance checks to
+AliKarami/MikroMCP has a medium level of production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AliKarami/MikroMCP).
 
 ### Русский
 

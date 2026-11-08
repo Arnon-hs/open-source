@@ -37,7 +37,11 @@ The primary value proposition of IBM/openapi-validator lies in its ability to he
 For practical adoption, teams should start with a small proof of concept to evaluate the tool's feasibility. A thorough review of the README documentation is also essential to understand the tool's configuration and integration requirements. Once the proof of concept is successful, teams can integrate the IBM/openapi-validator into their development workflow, ensuring dependency and maintenance checks before moving to production.
 
 **Production Readiness:**
-The production readiness of IBM/openapi-validator is rated as medium. While it is useful for prototypes or internal workflows, teams should perform a final review of the license, security posture, and active maintainers before deploying it in a production environment. This will
+The production readiness of IBM/openapi-validator is rated as medium. While it is useful for prototypes or internal workflows, teams should perform a final review of the license, security posture, and active maintainers before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/IBM/openapi-validator).
 
 ### Русский
 

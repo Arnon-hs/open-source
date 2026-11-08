@@ -45,8 +45,9 @@ To adopt equation.io, follow these steps:
 3. Integrate equation.io into your project, taking note of any manual inspection or dependency checks required.
 4. Test the integration thoroughly to ensure a smooth user experience.
 
-**Production Readiness:**
-Equation.io has a medium production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aantthony/equation.io).
 
 ### Русский
 

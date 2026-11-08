@@ -44,7 +44,10 @@ The Damn Vulnerable Restaurant API game offers several values, including:
 To adopt this project, users should:
 
 1. **Evaluate and review**: Carefully review the project's documentation, GitHub repository, and README file to understand its features, limitations, and potential risks.
-2. **Start with a small proof of concept**: Begin with a small-scale implementation to test the project's feasibility and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game).
 
 ### Русский
 

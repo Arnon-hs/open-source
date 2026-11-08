@@ -42,7 +42,10 @@ To adopt nextcloud/notify_push, developers can follow a straightforward approach
 1. **Evaluate the project:** Assess the project's feasibility by reviewing its README, conducting a small proof of concept, and performing dependency and maintenance checks.
 2. **Assess production readiness:** Given the project's medium production readiness score, ensure that it meets the necessary criteria for production use.
 3. **Integrate the project:** Integrate nextcloud/notify_push into your workflow, starting with a small-scale implementation to test its effectiveness.
-4. **Monitor and maintain:** Continuously monitor the project's updates, security posture, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nextcloud/notify_push).
 
 ### Русский
 

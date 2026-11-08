@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, users should start by evaluating its README and activity to ensure it aligns with their specific workflow. A small proof of concept is recommended to gauge the feasibility of integration. Once satisfied, users can proceed with a more extensive implementation.
 
-**Production Readiness:** The project is considered production-ready due to its recent activity, strong adoption rate, and ecosystem signals. However, a thorough review of its license, security posture, and maintainers is still necessary to mitigate potential risks. With proper evaluation and testing, Jellyfin Plugin for
+**Production Readiness:** The project is considered production-ready due to its recent activity, strong adoption rate, and ecosystem signals. However, a thorough review of its license, security posture, and maintainers is still necessary to mitigate potential risks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jellyfin/jellyfin-kodi).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary for the open-source project:
 
 **Practical Adoption Path:** To adopt this project, start by evaluating its README and activity to ensure it matches your specific workflow needs. A small proof of concept is recommended to gauge the project's feasibility and effectiveness. Before integrating it into production, perform dependency and maintenance checks to ensure it aligns with your project's requirements.
 
-**Production Readiness:** The project has a medium level of production readiness, indicating that it's suitable for prototype development or internal workflows. However, it's not yet ready for large-scale production due to potential issues with
+**Production Readiness:** The project has a medium level of production readiness, indicating that it's suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xypwn/filediver).
 
 ### Русский
 

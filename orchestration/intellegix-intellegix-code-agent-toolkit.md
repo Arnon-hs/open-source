@@ -40,7 +40,10 @@ To adopt the intellegix/intellegix-code-agent-toolkit, users can follow these st
 1. Evaluate the project's documentation and codebase to understand its features and functionality.
 2. Assess the project's compatibility with their existing tools and technologies.
 3. Integrate the toolkit into their workflows and test its performance.
-4. Customize the toolkit to meet their specific needs and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/intellegix/intellegix-code-agent-toolkit).
 
 ### Русский
 

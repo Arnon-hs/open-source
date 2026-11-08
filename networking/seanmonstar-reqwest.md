@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt seanmonstar/reqwest, engineers should start with a small proof of concept to evaluate its feasibility and compatibility with their existing projects. A thorough review of the README documentation is also recommended. Once the proof of concept is successful, developers can integrate reqwest into their projects, gradually replacing existing HTTP clients or libraries.
 
-**Production Readiness:** With 11,768 GitHub stars, 1,399 forks, and recent activity, seanmonstar/reqwest demonstrates a strong adoption rate and ecosystem signals. Its high production readiness score indicates that it's suitable for serious pilots, making it a viable option for
+**Production Readiness:** With 11,768 GitHub stars, 1,399 forks, and recent activity, seanmonstar/reqwest demonstrates a strong adoption rate and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/seanmonstar/reqwest).
 
 ### Русский
 

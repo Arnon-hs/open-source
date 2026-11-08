@@ -35,7 +35,11 @@ LogiSheets is a web spreadsheet application compatible with Excel, designed for 
 
 **Practical Adoption Path:** Developers can start by evaluating LogiSheets through a small proof-of-concept and reviewing the README documentation. Once they are satisfied with the tool's capabilities, they can integrate it into their project, leveraging its AI features to build RAG or agent workflows, or evaluate model tooling.
 
-**Production Readiness:** With 118 GitHub stars, 8 forks, and recent activity, LogiSheets demonstrates a strong ecosystem signal, indicating that it is a mature and reliable open-source project. Its high production readiness makes it suitable for
+**Production Readiness:** With 118 GitHub stars, 8 forks, and recent activity, LogiSheets demonstrates a strong ecosystem signal, indicating that it is a mature and reliable open-source project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/logisky/LogiSheets).
 
 ### Русский
 

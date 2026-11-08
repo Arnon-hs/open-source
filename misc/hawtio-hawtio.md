@@ -48,7 +48,10 @@ Hawtio is considered **medium production readiness**, meaning it can be useful f
 However, before committing to production, ensure you:
 
 * Understand the integration path and potential setup costs.
-* Verify the project's dependency and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hawtio/hawtio).
 
 ### Русский
 

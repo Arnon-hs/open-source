@@ -42,7 +42,10 @@ To adopt Show HN, developers should follow these steps:
 1. **Manual Inspection**: Carefully review the project's metadata, documentation, and issues to ensure its quality and reliability.
 2. **Verify Dependencies**: Check the project's dependencies and their maintenance status to avoid potential issues.
 3. **Evaluate Quality Signals**: Assess the project's release cadence, documentation, and community engagement to gauge its stability and support.
-4. **Prototype and Test**: Use Show HN to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JJardine919/voodoo-aoi).
 
 ### Русский
 

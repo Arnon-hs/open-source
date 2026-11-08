@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt `microsoft/vs-mef`, start with a small proof of concept to evaluate its feasibility. Before committing to a larger integration, carefully review the README and validate the setup cost. This approach will help minimize potential risks and ensure a smoother adoption process.
 
-**Production Readiness:** The project is considered production-ready with a medium level of confidence. While it has a moderate score and quality signals, its potential for production use depends on careful dependency and maintenance checks. Developers should weigh the benefits against the potential risks and consider the project's maintenance history and community support before deploying it in
+**Production Readiness:** The project is considered production-ready with a medium level of confidence. While it has a moderate score and quality signals, its potential for production use depends on careful dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/microsoft/vs-mef).
 
 ### Русский
 

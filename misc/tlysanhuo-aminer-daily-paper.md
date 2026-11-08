@@ -41,7 +41,10 @@ To adopt Aminer-daily-paper, developers can follow these steps:
 
 1. **Explore the codebase**: Familiarize yourself with the project's code and architecture.
 2. **Evaluate the dependencies**: Assess the dependencies required by the project and ensure they align with your application's needs.
-3. **Configure and integrate**: Configure the project to suit your application's requirements and integrate it into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tlysanhuo/aminer-daily-paper).
 
 ### Русский
 

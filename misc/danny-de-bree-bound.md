@@ -43,7 +43,10 @@ To adopt Bound, developers should follow these steps:
 2. **Verify dependencies**: Check the dependencies required by Bound and ensure they are compatible with your existing project.
 3. **Evaluate documentation**: Assess the quality of the documentation and ensure it meets your project's needs.
 4. **Monitor issues and releases**: Keep an eye on the issue tracker and release cadence to ensure the project is actively maintained.
-5. **Test and iterate**: Integrate Bound into your project, test its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Danny-de-bree/bound).
 
 ### Русский
 

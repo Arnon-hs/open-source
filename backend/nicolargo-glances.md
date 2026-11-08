@@ -47,7 +47,10 @@ Glances' production readiness is high due to:
 
 * Recent activity and adoption, indicating a strong community and ecosystem support
 * Strong adoption signals, such as 33,246 GitHub stars and 1,776 forks
-* Regular updates, with the last update occurring on
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nicolargo/glances).
 
 ### Русский
 

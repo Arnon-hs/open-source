@@ -45,9 +45,9 @@ To adopt this project, developers can follow these steps:
 4. Integrate the project into their workflow, taking note of any dependencies or maintenance requirements.
 5. Test and evaluate the project's performance and adjust as needed.
 
-**Production Readiness:**
+## Before adopting
 
-The project is considered medium-production ready, making it suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sebnado/worldbuild-bench).
 
 ### Русский
 

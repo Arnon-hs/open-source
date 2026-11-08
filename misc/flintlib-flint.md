@@ -41,7 +41,10 @@ To adopt FLINT in a production environment, follow these steps:
 
 1. **Evaluate the library**: Carefully review the library's documentation, GitHub repository, and community engagement to ensure it aligns with your project's requirements.
 2. **Start with a small proof of concept**: Develop a small, focused project to test FLINT's integration and performance in your specific context.
-3. **Check the README and documentation**: Verify that the library's documentation is comprehensive and up-to-date, and that the README provides clear instructions for setup and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/flintlib/flint).
 
 ### Русский
 

@@ -37,7 +37,10 @@ Misc
 2. **Verify Quality Signals**: Check the project's update frequency, topic coverage, and overall quality to ensure it meets your project's requirements.
 3. **Evaluate Integration**: Inspect the integration signals and processes to ensure they align with your project's architecture and goals.
 4. **Prototype and Test**: Use Chaos Agent in a controlled environment to prototype AI features and evaluate its capabilities.
-5. **Production Readiness**: Once satisfied with the results, perform dependency and maintenance checks to ensure Chaos Agent is ready for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jasnonaz/chaos-agent).
 
 ### Русский
 

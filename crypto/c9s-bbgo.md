@@ -42,7 +42,11 @@ To adopt c9s/bbgo, developers can start by:
 3. Assessing the project's license, security posture, and active maintainers to ensure they align with their needs.
 
 **Production Readiness:**
-c9s/bbgo has a high production readiness score due to its recent activity, strong adoption (1660 GitHub stars and 374 forks), and positive ecosystem signals. This
+c9s/bbgo has a high production readiness score due to its recent activity, strong adoption (1660 GitHub stars and 374 forks), and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/c9s/bbgo).
 
 ### Русский
 

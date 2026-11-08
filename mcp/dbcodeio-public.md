@@ -44,9 +44,9 @@ To adopt dbcodeio/public, follow these steps:
 3. Integrate dbcodeio/public with your AI assistants and tools, taking advantage of its standard protocol.
 4. Ship Model Context Protocol servers to further standardize integrations.
 
-**Production Readiness:**
+## Before adopting
 
-dbcodeio/public has a high production readiness score due to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dbcodeio/public).
 
 ### Русский
 

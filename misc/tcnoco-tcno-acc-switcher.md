@@ -37,7 +37,11 @@ Misc
 2. Conduct a small proof of concept to evaluate the project's feasibility and potential for integration.
 3. Assess the project's security posture, license, and maintainers to ensure they meet your organization's standards.
 
-**Production Readiness:** With 2322 GitHub stars, 152 forks, and recent activity, TCNOco/TcNo-Acc-Switcher demonstrates strong signs of production readiness. Its high score indicates that it is a viable candidate for serious pilots or
+**Production Readiness:** With 2322 GitHub stars, 152 forks, and recent activity, TCNOco/TcNo-Acc-Switcher demonstrates strong signs of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TCNOco/TcNo-Acc-Switcher).
 
 ### Русский
 

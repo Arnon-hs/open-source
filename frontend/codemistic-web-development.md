@@ -41,7 +41,11 @@ To adopt codemistic/Web-Development, developers should start with a small proof 
 
 **Production Readiness:**
 
-While codemistic/Web-Development is suitable for prototype development and internal workflows, it may not be immediately ready for production use. Its production readiness is rated as "Medium" due to the need for
+While codemistic/Web-Development is suitable for prototype development and internal workflows, it may not be immediately ready for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/codemistic/Web-Development).
 
 ### Русский
 

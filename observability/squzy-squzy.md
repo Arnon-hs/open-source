@@ -43,7 +43,10 @@ To adopt Squzy, teams can follow these steps:
 2. Assess Squzy's performance and scalability to ensure it meets the team's requirements.
 3. Integrate Squzy with existing systems and tools to ensure seamless data flow.
 4. Monitor and analyze data with Squzy to identify areas for improvement and optimize performance.
-5. Continuously review and update Squzy to ensure it remains aligned with the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/squzy/squzy).
 
 ### Русский
 

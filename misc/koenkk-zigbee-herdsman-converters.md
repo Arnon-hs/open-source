@@ -45,7 +45,11 @@ To practically adopt this project, follow these steps:
 
 **Production Readiness**
 
-The project's production readiness is rated as medium, making it suitable for prototype development or internal workflows. However, before deploying it in production, ensure you have
+The project's production readiness is rated as medium, making it suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Koenkk/zigbee-herdsman-converters).
 
 ### Русский
 

@@ -65,11 +65,9 @@ go-appsec/toolbox 的价值在于，它帮助连接 AI 代理到工具和数据�
 2. 部署 Model Context Protocol 服务器：开发者可以部署 MCP 服务器，使得 AI 代理能够连接到服务器，并访问相关数据。
 3. 标准化集成：go-appsec/toolbox 提供了一个标准的协议，使得开发者能够轻松地集成 AI 代理到各种工具和系统中。
 
-**生产可用性**
+## 采用前检查
 
-go-appsec/toolbox 的生产可用性较高，主要原因是：
-
-1.
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/go-appsec/toolbox)。
 
 ## 🧭 Practical evaluation
 

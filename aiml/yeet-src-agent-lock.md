@@ -35,7 +35,11 @@ Here's a brief summary of the yeet-src/agent-lock project:
 
 **Practical Adoption Path:** To adopt yeet-src/agent-lock, developers should start by evaluating the project through a small proof of concept and carefully reviewing the README documentation. This will help them understand the integration path and potential setup costs. Once they're familiar with the project, they can begin integrating it into their workflows, starting with small-scale applications and gradually scaling up to more complex projects.
 
-**Production Readiness:** The project is considered medium-production ready, meaning it's suitable for internal workflows and prototypes but may require additional dependencies and maintenance checks before being deployed in production environments. This
+**Production Readiness:** The project is considered medium-production ready, meaning it's suitable for internal workflows and prototypes but may require additional dependencies and maintenance checks before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yeet-src/agent-lock).
 
 ### Русский
 

@@ -35,7 +35,9 @@ Here's a summary of the open-source project parkejunior/jellycc-cli:
 
 **Practical Adoption Path:** Developers interested in adopting parkejunior/jellycc-cli can start by evaluating its straightforward integration with API/SDK/CLI, language metadata, and focused topics. They can then assess its production readiness, evaluate its quality signals (such as GitHub stars and updates), and review its license, security posture, and active maintainers. Once satisfied, they can integrate the CLI into their project and start benefiting from its features.
 
-**Production Readiness:** parkejunior/jellycc-cli has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/parkejunior/jellycc-cli).
 
 ### Русский
 

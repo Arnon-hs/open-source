@@ -39,9 +39,9 @@ The primary value proposition of Omniscient lies in its ability to facilitate fa
 
 To adopt Omniscient, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The platform's straightforward integration process makes it easier for developers to get started. Once familiar with Omniscient, developers can integrate billing or checkout, evaluate PSP flows, or automate payment operations to leverage its full potential.
 
-**Production Readiness:**
+## Before adopting
 
-Omniscient has a high production readiness score due to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/RicardoGEsteves/omniscient).
 
 ### Русский
 

@@ -45,7 +45,10 @@ To adopt deeplook/svglib, teams can start by:
 Deeplook/svglib has demonstrated high production readiness due to its:
 
 1. Recent activity, indicating ongoing development and maintenance.
-2. Strong adoption, with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/deeplook/svglib).
 
 ### Русский
 

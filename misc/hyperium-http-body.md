@@ -42,7 +42,10 @@ To adopt hyperium/http-body, developers should follow these steps:
 1. **Review the code and documentation**: Understand the project's architecture, usage, and limitations.
 2. **Evaluate the integration path**: Manual inspection is necessary to ensure a smooth integration process.
 3. **Validate setup costs**: Assess the effort and resources required to set up and maintain the project.
-4. **Test and iterate**: Experiment with the trait in a controlled environment to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hyperium/http-body).
 
 ### Русский
 

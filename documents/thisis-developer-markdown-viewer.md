@@ -37,7 +37,11 @@ The primary value proposition of ThisIs-Developer/Markdown-Viewer lies in its ab
 
 **Practical Adoption Path:**
 
-To adopt ThisIs-Developer/Markdown-Viewer, users can start by exploring the project's GitHub repository, which provides information on implementation signals such as API/SDK/CLI, language metadata, and focused topics. Users can
+To adopt ThisIs-Developer/Markdown-Viewer, users can start by exploring the project's GitHub repository, which provides information on implementation signals such as API/SDK/CLI, language metadata, and focused topics.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ThisIs-Developer/Markdown-Viewer).
 
 ### Русский
 

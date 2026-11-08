@@ -41,7 +41,10 @@ To adopt FeatLens, teams should follow these steps:
 
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure that it aligns with their development needs.
 2. **Dependency and Maintenance Checks**: Verify that the project's dependencies and maintenance requirements are manageable and align with the team's infrastructure and expertise.
-3. **Prototype Development**: Start with a prototype or a small-scale implementation to test FeatLens in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/turhancan97/FeatLens).
 
 ### Русский
 

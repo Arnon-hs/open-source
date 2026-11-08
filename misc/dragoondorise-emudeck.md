@@ -38,7 +38,11 @@ The primary value of EmuDeck lies in its capability to facilitate the search and
 To adopt EmuDeck, users should first conduct a manual inspection of the project to understand its functionality and potential integration points. This will help identify potential issues or areas for improvement. Next, users should assess the dependencies and maintenance requirements of the project to ensure they are compatible with their existing infrastructure. Once these steps are completed, EmuDeck can be integrated into prototypes or internal workflows for testing and evaluation.
 
 **Production Readiness:**
-EmuDeck is considered production-ready with a medium level of readiness. This means it can be useful in prototypes or internal workflows, but requires additional checks and validation before being deployed in a
+EmuDeck is considered production-ready with a medium level of readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dragoonDorise/EmuDeck).
 
 ### Русский
 

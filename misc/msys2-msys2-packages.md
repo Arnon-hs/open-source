@@ -36,7 +36,10 @@ Misc
 1. **Manual Inspection:** Before adopting msys2/MSYS2-packages, developers need to carefully review the project's documentation and code to ensure it aligns with their specific requirements.
 2. **Validation:** Validate the setup cost and potential risks associated with integrating msys2/MSYS2-packages into their project.
 3. **Dependency and Maintenance Checks:** Perform thorough checks on the project's dependencies and maintenance requirements to ensure they can be managed effectively.
-4. **Testing and Integration:** Thoroughly test and integrate msys2/MSYS2-packages with their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/msys2/MSYS2-packages).
 
 ### Русский
 

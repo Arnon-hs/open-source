@@ -61,7 +61,10 @@ Show HN: ExtractBench 的价值在于它可以帮助开发者评估架构提取�
 
 1. 验证工具的许可证和文档。
 2. 检查工具的依赖和维护情况。
-3.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/run-llama/ExtractBench)。
 
 ## 🧭 Practical evaluation
 

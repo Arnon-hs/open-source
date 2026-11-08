@@ -46,7 +46,11 @@ To adopt this project, users can follow a step-by-step approach:
 
 **Production Readiness:**
 
-While the project has a medium level of production readiness, it is suitable for use in prototypes or internal workflows. However, before deploying it in a
+While the project has a medium level of production readiness, it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/chandler-stimson/live-stream-downloader).
 
 ### Русский
 

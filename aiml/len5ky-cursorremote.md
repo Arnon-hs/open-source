@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt len5ky/CursorRemote, developers can start by integrating it into their existing AI development workflow. This involves setting up the remote control interface, configuring the Cursor AI agent, and testing the integration. While the project's GitHub stars and forks indicate a moderate level of community engagement, it's essential to perform a manual inspection and review the license, security posture, and maintainers before adopting it in production.
 
-**Production Readiness:** len5ky/CursorRemote has a medium production readiness score, indicating that it's suitable for internal workflows, prototyping, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/len5ky/CursorRemote).
 
 ### Русский
 

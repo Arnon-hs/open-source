@@ -38,7 +38,10 @@ Here's a brief summary of the open-source project:
 1. **Manual Inspection**: Before adopting the tool, developers need to manually inspect its metadata, documentation, and code to understand its functionality and potential limitations.
 2. **Dependency and Maintenance Checks**: Verify the tool's dependencies, maintenance history, and release cadence to ensure it aligns with your project's needs.
 3. **Verify Quality Signals**: Assess the tool's quality signals, including its update history, documentation, and issue tracking, to gauge its reliability and stability.
-4. **Integration and Testing**: Once you've verified the tool's quality, integrate it into your workflow and test it thoroughly to ensure it meets your security and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GnomeMan4201/reasoning-diff-lab).
 
 ### Русский
 

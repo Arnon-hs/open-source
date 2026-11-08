@@ -37,7 +37,10 @@ Frontend
 2. Evaluating the project's license and ensuring it aligns with your organization's needs.
 3. Assessing the project's security posture and ensuring it meets your organization's standards.
 4. Identifying and engaging with active maintainers to understand their vision and roadmap.
-5. Integrating the project into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openMF/web-app).
 
 ### Русский
 

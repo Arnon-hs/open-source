@@ -33,7 +33,11 @@ dtolnay/proc-macro2 provides a stable, reusable abstraction over Rust’s proced
 
 We need to produce a brief summary (2-3 sentences) in Russian explaining benefit, typical integration scenario, and production readiness level. Use given info: dtolnay/proc-macro2, Score 52/100, categories Misc, value proposition: may be useful when README and activity match a concrete workflow. Use cases not given. Integration notes: needs manual inspection because integration signals sparse. Production readiness: Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production. Quality signals: 931 stars, 136 forks, updated 2026-08-22, primary language Rust. Risks: integration path not obvious; validate setup cost.
 
-Thus summary: dtolnay/proc-macro2 — это библиотека Rust для работы с процедурными макросами, предоставляющая абстракцию над proc_macro crate, упрощающая написание и тестирование макросов. Типовой сценарий — интеграция в crates, где требуется кросс‑версионная совместимость макросов (например, в crates‑использующих syn/quote), после ручной проверки зависимостей и
+Thus summary: dtolnay/proc-macro2 — это библиотека Rust для работы с процедурными макросами, предоставляющая абстракцию над proc_macro crate, упрощающая написание и тестирование макросов.
+
+## Перед использованием
+
+Проверьте актуальную документацию, условия лицензии, зависимости и состояние поддержки с учетом своей задачи. [Открыть источник](https://github.com/dtolnay/proc-macro2).
 
 ### 中文
 

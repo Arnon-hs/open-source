@@ -33,7 +33,11 @@ Backend
 
 **Practical Adoption Path:** To adopt nodejs/corepack, developers should start with a small proof of concept and review the README documentation. This will help evaluate the tool's feasibility and identify potential integration challenges. As the project has a high production readiness score, developers can confidently pilot the tool in their projects, and if successful, integrate it more widely.
 
-**Production Readiness:** The project's recent activity, adoption, and strong ecosystem signals indicate a high level of production readiness. With 3777 GitHub stars and 272 forks, the project has a significant user base and community support. The primary language is TypeScript, and the project has 4 topics, indicating a
+**Production Readiness:** The project's recent activity, adoption, and strong ecosystem signals indicate a high level of production readiness. With 3777 GitHub stars and 272 forks, the project has a significant user base and community support.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nodejs/corepack).
 
 ### Русский
 

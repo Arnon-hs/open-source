@@ -43,7 +43,10 @@ To adopt this project, follow these steps:
 2. Inspect the project's activity, issues, and release cadence to assess its maintenance and support.
 3. Verify the project's license and ensure it aligns with your project's requirements.
 4. Perform dependency and compatibility checks to ensure the project integrates smoothly with your existing infrastructure.
-5. Test the project thoroughly in a controlled environment before integrating it into your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GrieferPig/esp32-s31-linux).
 
 ### Русский
 

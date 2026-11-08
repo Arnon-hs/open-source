@@ -39,7 +39,10 @@ To adopt weblings, follow these steps:
 1. **Inspect README and Activity:** Verify that the project's README accurately describes its functionality and that its activity matches the claimed workflow.
 2. **Verify Quality Signals:** Check the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your project's needs.
 3. **Assess Production Readiness:** Evaluate the project's production readiness, considering its medium level, which indicates it's suitable for prototypes or internal workflows but may require additional checks before production use.
-4. **Test and Validate:** Integrate weblings into your project and thoroughly test its functionality to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AngelOnFira/weblings).
 
 ### Русский
 

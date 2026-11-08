@@ -43,7 +43,10 @@ To adopt Fast DDS, follow these steps:
 2. **Verify quality signals**: Check the project's activity, update frequency, and community engagement to ensure it's actively maintained.
 3. **Review integration signals**: Manually inspect the project's integration signals, such as GitHub issues, pull requests, and comments, to understand its usage and potential issues.
 4. **Check dependencies and maintenance**: Verify the project's dependencies, maintenance cadence, and potential security vulnerabilities.
-5. **Evaluate production readiness**: Assess the project's production readiness based on its quality signals, integration signals, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/eProsima/Fast-DDS).
 
 ### Русский
 

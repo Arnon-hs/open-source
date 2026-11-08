@@ -43,9 +43,9 @@ To adopt cdump/evmole, developers can start by:
 2. Checking the README documentation to familiarize themselves with the tool's usage and limitations.
 3. Validating the setup cost and potential maintenance requirements before committing to the tool.
 
-**Production Readiness:**
+## Before adopting
 
-cdump/evmole is considered production-ready at a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cdump/evmole).
 
 ### Русский
 

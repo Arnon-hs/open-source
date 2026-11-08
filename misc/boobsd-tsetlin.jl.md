@@ -41,7 +41,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it meets your needs and aligns with your organization's standards.
 2. **Verify License and Maintenance**: Confirm the project's license and maintenance status to ensure you can use and support it in the long term.
 3. **Dependency and Maintenance Checks**: Assess the project's dependencies and maintenance requirements to ensure they align with your organization's infrastructure and resources.
-4. **Prototype Development**: Use the project as a starting point for developing a prototype that
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/BooBSD/Tsetlin.jl).
 
 ### Русский
 

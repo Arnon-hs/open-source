@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers should first manually inspect the integration signals to ensure they meet their specific needs. The project is best suited for prototype development or internal workflows, where the focus is on testing and refining AI-powered tools. Before production, developers should conduct thorough dependency and maintenance checks to ensure the project's stability and reliability.
 
-**Production Readiness:** The project has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/YOUR_USERNAME/Github-Analyzer).
 
 ### Русский
 

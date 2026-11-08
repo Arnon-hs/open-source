@@ -45,7 +45,11 @@ Adopting java-rag involves several steps:
 
 **Production Readiness:**
 
-ChinaYiqun/java-rag has a medium production readiness score, making it suitable for prototypes or internal workflows. While it's a
+ChinaYiqun/java-rag has a medium production readiness score, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ChinaYiqun/java-rag).
 
 ### Русский
 

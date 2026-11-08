@@ -37,8 +37,9 @@ The value of ConlangCrafter lies in its ability to streamline the process of dev
 **Practical Adoption Path:**
 To adopt ConlangCrafter, developers will need to manually inspect the project's metadata and verify its quality signals, including the license, maintenance, documentation, issues, and release cadence. This will help ensure that the project meets their specific needs and is suitable for production use. Once verified, developers can integrate ConlangCrafter into their workflows and start building AI-powered applications.
 
-**Production Readiness:**
-ConlangCrafter has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/morrisalp/ConlangCrafter).
 
 ### Русский
 

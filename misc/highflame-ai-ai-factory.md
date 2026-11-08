@@ -35,7 +35,9 @@ Here's a brief summary of the AI-factory project:
 
 **Practical Adoption Path:** To adopt AI-factory, developers should start by manually inspecting the project's integration signals and verifying its quality signals, such as license, maintenance, documentation, issues, and release cadence. Once they have a good understanding of the project's strengths and weaknesses, they can start using it in their prototypes or internal workflows. It's essential to note that AI-factory is not yet production-ready and requires dependency and maintenance checks before deployment.
 
-**Production Readiness:** AI-factory has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/highflame-ai/ai-factory).
 
 ### Русский
 

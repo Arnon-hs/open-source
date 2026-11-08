@@ -42,7 +42,10 @@ To adopt Grudge, users should follow a cautious approach:
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it meets your organization's needs.
 2. **Dependency and Maintenance Checks**: Verify that Grudge's dependencies are up-to-date and well-maintained to avoid potential issues.
 3. **Proof-of-Concept**: Create a proof-of-concept to test Grudge's capabilities and identify potential pain points.
-4. **Pilot Deployment**: Deploy Grudge in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/satmihir/grudge).
 
 ### Русский
 

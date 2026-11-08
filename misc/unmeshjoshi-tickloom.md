@@ -39,7 +39,9 @@ As for the practical adoption path, here are the steps:
 4. **Test and validate**: Test the project in a prototype or internal environment to validate its functionality and performance.
 5. **Adopt and maintain**: Once validated, adopt the project in your production environment and regularly maintain it to ensure its continued stability and security.
 
-Regarding production readiness, Tickloom is considered medium-ready, which means it's suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/unmeshjoshi/tickloom).
 
 ### Русский
 

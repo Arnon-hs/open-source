@@ -37,7 +37,11 @@ The value proposition of this project lies in its ability to standardize integra
 To adopt this project, developers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once they have a basic understanding of the project's functionality and requirements, they can begin integrating it into their existing design system. This may involve setting up the MCP server, configuring the AI assistant, and testing the integration.
 
 **Production Readiness:**
-The production readiness of this project is rated as medium, indicating that it is suitable for prototypes or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to
+The production readiness of this project is rated as medium, indicating that it is suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/freema/mcp-design-system-extractor).
 
 ### Русский
 

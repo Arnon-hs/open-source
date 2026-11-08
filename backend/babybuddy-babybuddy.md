@@ -40,9 +40,9 @@ The practical adoption path for babybuddy involves:
 3. Integrating the tool into a caregiving or educational setup to test its effectiveness and gather feedback.
 4. Continuously monitoring and updating the tool to ensure its stability and accuracy.
 
-Babybuddy's production readiness is high due to:
+## Before adopting
 
-1. Recent activity: The project has been updated recently, indicating ongoing maintenance and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/babybuddy/babybuddy).
 
 ### Русский
 

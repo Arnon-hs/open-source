@@ -44,7 +44,10 @@ To adopt Opencodex, developers can follow these steps:
 1. Review the project's documentation and issues to understand its functionality and potential limitations.
 2. Verify the license, maintenance schedule, and release cadence to ensure it meets their needs.
 3. Perform manual inspection and testing to ensure seamless integration with their development environment.
-4. Evaluate the project's quality signals, such as update frequency and community engagement, to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/matonhp5108/Opencodex).
 
 ### Русский
 

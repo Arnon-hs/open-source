@@ -35,7 +35,11 @@ Here's a brief summary and an explanation of the value, practical adoption path,
 
 **Practical Adoption Path:** To adopt z1-0/ah.sh, engineers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then integrate the tool into their existing workflows, beginning with prototyping or internal development projects. As they become more comfortable with the tool, they can gradually scale its adoption to larger projects and production environments.
 
-**Production Readiness:** While z1-0/ah.sh has shown promise, its production readiness is rated as Medium due to several factors. The project's dependency and maintenance checks need to
+**Production Readiness:** While z1-0/ah.sh has shown promise, its production readiness is rated as Medium due to several factors.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/z1-0/ah.sh).
 
 ### Русский
 

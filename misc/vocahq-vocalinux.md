@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To integrate VocaHQ/vocalinux into a workflow, it's recommended to start with a small proof of concept and review the README documentation. This will help evaluate its feasibility and potential use cases. Once familiar with the project, users can explore its features and adapt it to their specific needs.
 
-**Production Readiness:** VocaHQ/vocalinux demonstrates high production readiness, with recent activity, strong adoption, and a robust ecosystem. With 753 GitHub stars, 80 forks, and regular updates, this project has shown stability and community support. However, it's essential to conduct a final review of the license, security posture, and
+**Production Readiness:** VocaHQ/vocalinux demonstrates high production readiness, with recent activity, strong adoption, and a robust ecosystem. With 753 GitHub stars, 80 forks, and regular updates, this project has shown stability and community support.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/VocaHQ/vocalinux).
 
 ### Русский
 
@@ -63,7 +67,11 @@ VocaHQ/vocalinux 可能适用于那些需要在Linux环境下进行语音 dictat
 
 **生产可用性**
 
-VocaHQ/vocalinux 的生产可用性非常高。项目最近有活动，使用者数量较多，并且有一个强大的社区支持。因此，
+VocaHQ/vocalinux 的生产可用性非常高。项目最近有活动，使用者数量较多，并且有一个强大的社区支持。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/VocaHQ/vocalinux)。
 
 ## 🧭 Practical evaluation
 

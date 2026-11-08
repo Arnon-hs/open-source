@@ -39,9 +39,9 @@ The value of this project lies in its ability to accelerate the development of u
 
 To adopt this project, developers should first manually inspect the code and verify its quality, maintenance, and documentation. They should also check the license, issues, and release cadence to ensure it aligns with their project's needs. Once satisfied, they can integrate the project into their workflow, starting with prototypes or internal projects, and gradually move to production environments after thorough testing and dependency checks.
 
-**Production Readiness:**
+## Before adopting
 
-The production readiness of this project is medium, indicating that it can be useful for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tom-ilan/cycloidal_gearbox).
 
 ### Русский
 

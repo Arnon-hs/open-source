@@ -35,7 +35,9 @@ Here's a brief summary of the remnawave/panel open-source project:
 
 **Practical Adoption Path:** To adopt remnawave/panel, start with a small proof of concept to evaluate its feasibility and integrate it with your existing frontend workflow. Review the project's README and documentation to understand its capabilities and limitations. With a clear understanding of the project's strengths and weaknesses, you can proceed with a pilot project to test its effectiveness in your development environment.
 
-**Production Readiness:** remnawave/panel has a high production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/remnawave/panel).
 
 ### Русский
 

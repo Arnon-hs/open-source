@@ -35,7 +35,11 @@ Here's a brief summary of the psastras/sarif-rs project:
 
 **Practical Adoption Path:** To adopt psastras/sarif-rs, engineers can start by evaluating its implementation signals, such as APIs, SDKs, and CLI tools. They can then assess its language metadata and focused topics to determine its relevance to their specific use case. Once they have a clear understanding of the project's capabilities and limitations, they can begin integrating it into their workflows.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but requires further evaluation before being used in production. This is because it has
+**Production Readiness:** The project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but requires further evaluation before being used in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/psastras/sarif-rs).
 
 ### Русский
 

@@ -39,8 +39,9 @@ The primary value proposition of TorchGeo lies in its ability to simplify the pr
 **Practical Adoption Path:**
 To adopt TorchGeo, developers can start by evaluating the library through a small proof of concept and reviewing the README documentation. This will help them understand the library's capabilities and limitations. Once familiar with the library, developers can begin integrating it into their projects, starting with small-scale piloting and gradually scaling up as needed.
 
-**Production Readiness:**
-TorchGeo has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/torchgeo/torchgeo).
 
 ### Русский
 

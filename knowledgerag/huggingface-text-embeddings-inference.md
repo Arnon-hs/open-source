@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** To adopt this project, start by conducting a small proof of concept to evaluate its feasibility and integration path. Review the README documentation to understand the setup and usage process. Validate the setup cost before committing to a larger-scale implementation. With its strong Rust codebase and recent activity, the project is well-maintained and suitable for production use.
 
-**Production Readiness:** The project demonstrates high production readiness due to its recent activity, strong adoption (4930 GitHub stars, 415 forks), and positive ecosystem signals. Its primary language, Rust, is a robust and performance-oriented choice. With a
+**Production Readiness:** The project demonstrates high production readiness due to its recent activity, strong adoption (4930 GitHub stars, 415 forks), and positive ecosystem signals. Its primary language, Rust, is a robust and performance-oriented choice.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/huggingface/text-embeddings-inference).
 
 ### Русский
 

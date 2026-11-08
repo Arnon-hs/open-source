@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt gnark-crypto, developers can start with a small proof of concept and review the project's README to understand its architecture and usage. Given the project's recent activity and strong ecosystem signals, integration is considered feasible. However, it's essential to review the project's license, security posture, and maintainers to ensure a smooth adoption process.
 
-**Production Readiness:** Consensys/gnark-crypto is considered production-ready, with a high score due to its recent activity, adoption, and strong ecosystem signals. With 600 GitHub stars and 231 forks, the project has a significant community following, and its primary language, Go, is a popular choice for
+**Production Readiness:** Consensys/gnark-crypto is considered production-ready, with a high score due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Consensys/gnark-crypto).
 
 ### Русский
 

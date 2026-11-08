@@ -46,7 +46,11 @@ Before adopting Edgepad, users should:
 
 **Production Readiness:**
 
-Edgepad is considered medium-production-ready, making it suitable for prototype development or internal workflows. However, it is essential to perform dependency and maintenance checks before deploying it in a production environment. Users should also be aware of
+Edgepad is considered medium-production-ready, making it suitable for prototype development or internal workflows. However, it is essential to perform dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/assembledev/edgepad).
 
 ### Русский
 

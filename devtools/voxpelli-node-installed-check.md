@@ -42,7 +42,11 @@ To adopt voxpelli/node-installed-check, developers can follow these steps:
 4. Use the tool to speed up developer workflows and reduce manual errors.
 
 **Production Readiness:**
-voxpelli/node-installed-check has a medium production readiness score. While it is useful for prototypes or
+voxpelli/node-installed-check has a medium production readiness score.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/voxpelli/node-installed-check).
 
 ### Русский
 

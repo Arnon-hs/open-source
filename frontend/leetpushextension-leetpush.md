@@ -40,7 +40,11 @@ Here's a brief summary of the LeetPushExtension/LeetPush project:
 3. Select the LeetCode problems they want to push to GitHub.
 4. The extension will automatically capture code, build commit messages, and organize their solutions.
 
-**Production Readiness:** LeetPushExtension/LeetPush has a high production readiness score due to recent activity, adoption, and strong ecosystem signals. Its 201 GitHub stars, 26 forks, and
+**Production Readiness:** LeetPushExtension/LeetPush has a high production readiness score due to recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LeetPushExtension/LeetPush).
 
 ### Русский
 

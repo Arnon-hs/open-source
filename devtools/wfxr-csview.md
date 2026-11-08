@@ -39,7 +39,11 @@ Here's a brief summary and explanation:
 2. **Integrate**: Expose the API/SDK/CLI signals to integrate the tool into their existing workflows.
 3. **Configure**: Set up the tool to support their specific requirements, such as customizing the UI or adding support for additional file formats.
 
-**Production Readiness:** wfxr/csview is considered production-ready due to its recent activity, strong adoption (695 GitHub stars), and robust ecosystem signals. However, a final review of the license, security posture, and active maintainers is still necessary to
+**Production Readiness:** wfxr/csview is considered production-ready due to its recent activity, strong adoption (695 GitHub stars), and robust ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wfxr/csview).
 
 ### Русский
 

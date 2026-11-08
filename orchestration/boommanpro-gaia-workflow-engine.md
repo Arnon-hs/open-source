@@ -43,7 +43,10 @@ The adoption path for Gaia Workflow Engine involves several steps:
 2. **Proof of Concept**: Start with a small proof of concept to evaluate the project's feasibility and potential impact.
 3. **Integration**: Integrate the project with existing tools and workflows to ensure seamless communication and data exchange.
 4. **Testing**: Thoroughly test the project to identify and resolve any issues or bugs.
-5. **Deployment**: Deploy the project in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/boommanpro/gaia-workflow-engine).
 
 ### Русский
 

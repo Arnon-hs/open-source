@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers should start by carefully inspecting the code, verifying the license, and checking the issue tracker for any known problems. They should also evaluate the documentation, release cadence, and maintenance efforts before integrating the project into their workflow. Once these checks are complete, developers can begin using the project to prototype AI features, build RAGs, and evaluate model tooling.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows, but may not be
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Michael-Ax64/K4-AlgebraicSwarm).
 
 ### Русский
 

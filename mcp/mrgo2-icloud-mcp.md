@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the project:
 
 **Practical Adoption Path:** The adoption path for MrGo2/icloud-mcp appears to be straightforward, with a clear implementation process outlined by the project's integration notes. Developers can evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to determine its suitability for their needs. However, before production, dependency and maintenance checks are recommended to ensure the project's stability and security.
 
-**Production Readiness:** The project is rated as "Medium" in terms of production readiness, indicating that it is suitable for use in prototypes or internal workflows. While it has some quality signals, such as
+**Production Readiness:** The project is rated as "Medium" in terms of production readiness, indicating that it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MrGo2/icloud-mcp).
 
 ### Русский
 

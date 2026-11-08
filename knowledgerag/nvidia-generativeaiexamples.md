@@ -33,7 +33,11 @@ Knowledge/RAG · AI/ML · Backend
 
 **Practical Adoption Path:** To adopt NVIDIA/GenerativeAIExamples, it is recommended to start with a small proof of concept and thoroughly review the README documentation. This will help evaluate the integration path and validate the setup cost before investing in a full-scale implementation. With 4,139 GitHub stars and 1,097 forks, the project has a strong community and a well-established codebase, making it an attractive option for organizations looking to leverage generative AI.
 
-**Production Readiness:** NVIDIA/GenerativeAIExamples has high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong and stable project. The primary language is Jupyter Notebook, and
+**Production Readiness:** NVIDIA/GenerativeAIExamples has high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong and stable project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NVIDIA/GenerativeAIExamples).
 
 ### Русский
 

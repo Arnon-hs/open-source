@@ -63,7 +63,11 @@ openwallet-foundation/credo-ts 的主要价值在于帮助开发者快速原型�
 
 **生产可用性**
 
-根据提供的信息，openwallet-foundation/credo-ts 具有很高的生产可用性。它的 GitHub 仓库活跃，star 数量较高，语言为 TypeScript，主题数量为 16，最近更新时间为
+根据提供的信息，openwallet-foundation/credo-ts 具有很高的生产可用性。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/openwallet-foundation/credo-ts)。
 
 ## 🧭 Practical evaluation
 

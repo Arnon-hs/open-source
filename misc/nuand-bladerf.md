@@ -33,7 +33,11 @@ Nuand/bladeRF is an open-source software defined radio project that enables the 
 
 The value of Nuand/bladeRF lies in its ability to provide open implementation details for blockchain-related workflows, allowing developers to build, inspect, and prototype Web3 applications with a high degree of customization and control. However, its adoption path is not straightforward due to the need for manual inspection and validation, which can be time-consuming and requires a good understanding of the project's architecture and dependencies.
 
-In terms of production readiness, Nuand/bladeRF is rated as medium, indicating that it is suitable for internal workflows or prototypes, but may not be ready for large-scale production deployment without additional testing, validation, and maintenance. This is due to the project's dependency on manual inspection and setup, as well as the potential risks associated with integration and
+In terms of production readiness, Nuand/bladeRF is rated as medium, indicating that it is suitable for internal workflows or prototypes, but may not be ready for large-scale production deployment without additional testing, validation, and maintenance.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Nuand/bladeRF).
 
 ### Русский
 

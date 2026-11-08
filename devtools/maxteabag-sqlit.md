@@ -39,7 +39,10 @@ To adopt Maxteabag/sqlit, follow these steps:
 1. **Evaluate and Test:** Start with a small proof of concept to assess the project's feasibility and evaluate its performance with your specific use case.
 2. **Review Documentation:** Carefully review the project's README and documentation to understand its features, limitations, and usage guidelines.
 3. **Assess Stability and Maintenance:** Verify the project's stability, adoption rate, and ecosystem signals to ensure it meets your project's requirements.
-4. **Integrate and Iterate:** Once satisfied with the project's stability and performance, integrate Maxteabag/sqlit into your application, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Maxteabag/sqlit).
 
 ### Русский
 

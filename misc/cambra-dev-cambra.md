@@ -45,11 +45,9 @@ To adopt Cambra, follow these steps:
 4. Conduct manual inspection to ensure the project meets your specific needs and requirements.
 5. Perform dependency and maintenance checks before integrating Cambra into your workflow.
 
-**Production Readiness:**
+## Before adopting
 
-Cambra is considered production-ready with medium readiness, making it suitable for:
-
-1. Prototypes: Cambra can be
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cambra-dev/cambra).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The primary value of Dev-Janitor lies in its ability to simplify development wor
 
 **Practical Adoption Path:**
 
-To adopt Dev-Janitor, developers can start by evaluating the app's features and functionality through a small proof-of-concept project. This will help identify potential integration challenges and validate the setup costs involved. Once the feasibility of the integration is established, developers can proceed with integrating Dev-Janitor into their
+To adopt Dev-Janitor, developers can start by evaluating the app's features and functionality through a small proof-of-concept project. This will help identify potential integration challenges and validate the setup costs involved.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cocojojo5213/Dev-Janitor).
 
 ### Русский
 

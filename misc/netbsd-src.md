@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt NetBSD/src, developers should carefully inspect the project's metadata, validate the setup cost, and perform manual checks before integrating it into their workflow. This is because the integration signals are sparse, making it essential to manually verify the project's compatibility and feasibility for their specific use case.
 
-**Production Readiness:** NetBSD/src has a medium level of production readiness, making it suitable for prototypes or internal workflows. However, it is not recommended for production environments without thorough dependency and maintenance checks. This is because the project's setup and integration requirements are not immediately apparent from the metadata, and the validation process is crucial to ensure its
+**Production Readiness:** NetBSD/src has a medium level of production readiness, making it suitable for prototypes or internal workflows. However, it is not recommended for production environments without thorough dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NetBSD/src).
 
 ### Русский
 

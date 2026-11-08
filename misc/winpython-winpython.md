@@ -44,9 +44,9 @@ To adopt WinPython, developers should follow these steps:
 3. Evaluate the distribution's dependencies and maintenance requirements to ensure they can be managed effectively.
 4. Test WinPython in a prototype or internal workflow to validate its performance and suitability for the project.
 
-**Production Readiness:**
+## Before adopting
 
-WinPython has a moderate level of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/winpython/winpython).
 
 ### Русский
 

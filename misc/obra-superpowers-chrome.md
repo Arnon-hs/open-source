@@ -37,7 +37,11 @@ Misc
 2. **Small Proof of Concept:** Create a small proof of concept to test the plugin's functionality and ensure it aligns with your project's needs.
 3. **Integration and Testing:** Integrate the plugin into your project and thoroughly test its functionality to ensure a smooth and stable experience.
 
-**Production Readiness:** The project's production readiness is rated as Medium, indicating that it can be useful for prototypes or internal workflows, but requires careful evaluation and dependency checks before being deployed in production environments. This is due to the need for a thorough review of
+**Production Readiness:** The project's production readiness is rated as Medium, indicating that it can be useful for prototypes or internal workflows, but requires careful evaluation and dependency checks before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/obra/superpowers-chrome).
 
 ### Русский
 

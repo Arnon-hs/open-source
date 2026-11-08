@@ -42,7 +42,10 @@ To adopt OpenAdapt, users can follow a straightforward path:
 1. **Evaluate the project**: Start by evaluating the project's feasibility and potential benefits.
 2. **Read the documentation**: Thoroughly read the project's README and documentation to understand its capabilities and limitations.
 3. **Develop a proof of concept**: Create a small proof of concept to test the project's functionality and identify potential issues.
-4. **Assess the risks**: Review the project's license, security posture, and maintainers to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/OpenAdaptAI/OpenAdapt).
 
 ### Русский
 

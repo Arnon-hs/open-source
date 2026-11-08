@@ -39,7 +39,10 @@ Here's a brief summary and explanation of the project:
 2. Review the README documentation to ensure a clear understanding of the project's architecture and usage.
 3. Assess the project's license, security posture, and active maintainers to gauge potential risks.
 4. Integrate the dashboard into your Saleor project, leveraging its reusable interface components.
-5. Monitor and contribute to the project's ongoing development to ensure its continued suitability for your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/saleor/saleor-dashboard).
 
 ### Русский
 

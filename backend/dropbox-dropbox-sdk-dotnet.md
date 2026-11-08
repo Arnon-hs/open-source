@@ -42,9 +42,9 @@ The dropbox/dropbox-sdk-dotnet project is an open-source, official Dropbox API V
 2. **Integrate and Test**: Incorporate the SDK into your project and thoroughly test it to ensure seamless integration and functionality.
 3. **Standardize and Refine**: Standardize service patterns across your team and refine the SDK to meet your specific needs.
 
-**Production Readiness:**
+## Before adopting
 
-The project demonstrates high production readiness, with recent activity, strong adoption, and a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dropbox/dropbox-sdk-dotnet).
 
 ### Русский
 

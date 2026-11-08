@@ -43,7 +43,10 @@ The Anthropometer offers several key benefits, including:
 1. Evaluate the project by reviewing the README and implementing a small proof of concept.
 2. Assess the project's dependencies and maintenance requirements to ensure they align with your organization's needs.
 3. Integrate the Anthropometer into your existing AI workflows, starting with a prototype or internal project.
-4. Monitor and refine the project's performance, making adjustments as needed to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/arian-shamaei/anthropometer).
 
 ### Русский
 

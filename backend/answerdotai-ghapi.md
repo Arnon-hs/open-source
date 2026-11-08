@@ -33,7 +33,11 @@ AnswerDotAI/ghapi is a comprehensive and user-friendly interface to GitHub's API
 
 The value proposition of this project lies in its ability to simplify the process of integrating AI capabilities, making it more accessible to developers who may not have extensive experience in AI or machine learning. The practical adoption path involves evaluating the project's API, SDK, or CLI, and exploring its language metadata and focused topics. Once familiar with the project, developers can integrate it into their existing workflows and build upon its capabilities.
 
-As for production readiness, AnswerDotAI/ghapi has demonstrated strong signals of quality, including a high number of GitHub stars (682), regular updates, and a large community of adopters. Additionally, the project's recent activity, adoption, and ecosystem signals are all positive indicators of
+As for production readiness, AnswerDotAI/ghapi has demonstrated strong signals of quality, including a high number of GitHub stars (682), regular updates, and a large community of adopters.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AnswerDotAI/ghapi).
 
 ### Русский
 

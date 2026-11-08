@@ -41,7 +41,11 @@ To adopt Capacitor, teams should start by manually inspecting the project's inte
 
 **Production Readiness**
 
-Capacitor is considered production-ready with a medium level of readiness. While it can
+Capacitor is considered production-ready with a medium level of readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ionic-team/capacitor).
 
 ### Русский
 

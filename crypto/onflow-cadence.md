@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the value, practical adoption path, an
 
 **Practical Adoption Path:** To adopt onflow/cadence, users can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. This will help them understand the language's capabilities, syntax, and security features. Once familiar with Cadence, developers can begin building their Web3 workflows, integrating blockchain features, and prototyping wallet or DeFi functionalities.
 
-**Production Readiness:** The project exhibits high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/onflow/cadence).
 
 ### Русский
 

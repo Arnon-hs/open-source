@@ -39,9 +39,9 @@ The primary value proposition of Kikobeats/tom lies in its ability to simplify t
 
 To adopt Kikobeats/tom, developers should start with a small proof of concept to evaluate the integration path. It is essential to carefully review the README documentation and consider the setup cost before committing to the project. While the project is not production-ready out of the box, it can be a useful starting point for prototyping or internal workflows.
 
-**Production Readiness:**
+## Before adopting
 
-Kikobeats/tom has a moderate level of production readiness, indicating that it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Kikobeats/tom).
 
 ### Русский
 

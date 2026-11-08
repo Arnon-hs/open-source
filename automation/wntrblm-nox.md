@@ -33,7 +33,11 @@ Automation · DevTools
 
 **Practical Adoption Path:** To adopt wntrblm/nox, users should start by manually inspecting the integration signals and metadata to ensure a smooth onboarding process. They should also assess their dependencies and maintenance requirements to ensure they can support the tool in production. This may involve reviewing the license, security posture, and the number of active maintainers. Once these checks are complete, users can start integrating wntrblm/nox into their workflows and scheduling operational tasks.
 
-**Production Readiness:** wntrblm/nox is considered medium production ready, making it suitable for prototypes, internal workflows, or proof-of-concepts. However, it may not be ready for large-scale production environments without further evaluation and
+**Production Readiness:** wntrblm/nox is considered medium production ready, making it suitable for prototypes, internal workflows, or proof-of-concepts.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wntrblm/nox).
 
 ### Русский
 

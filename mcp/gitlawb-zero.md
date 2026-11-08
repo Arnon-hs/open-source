@@ -37,7 +37,11 @@ The value of Gitlawb/zero lies in its ability to standardize integrations betwee
 
 **Practical Adoption Path:**
 
-To adopt Gitlawb/zero, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. Once they have a clear understanding of the project's capabilities and limitations, they can begin integrating the MCP protocol into their AI assistants and tools. This may involve setting up Model Context Protocol servers and configuring the necessary connections. With its straightforward integration notes and high production readiness, Gitlawb/zero provides a solid foundation for building robust and
+To adopt Gitlawb/zero, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. Once they have a clear understanding of the project's capabilities and limitations, they can begin integrating the MCP protocol into their AI assistants and tools. This may involve setting up Model Context Protocol servers and configuring the necessary connections.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Gitlawb/zero).
 
 ### Русский
 

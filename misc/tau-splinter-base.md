@@ -38,7 +38,10 @@ Tau/splinter-base is an open-source, Hugging Face model designed for question-an
 1. **Manual Inspection**: Before adopting the model, carefully review its documentation, code, and maintenance activity to ensure it meets your project's needs.
 2. **Evaluate Quality Signals**: Assess the model's quality signals, such as GitHub stars, update frequency, and release cadence, to gauge its reliability.
 3. **Verify License and Maintenance**: Confirm the license terms and ensure the maintainers are actively working on the project.
-4. **Prototype and Test**: Use the model to prototype AI features and test its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/tau/splinter-base).
 
 ### Русский
 

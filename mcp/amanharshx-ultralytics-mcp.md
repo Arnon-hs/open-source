@@ -37,7 +37,10 @@ Here's a brief summary and analysis of the open-source project:
 
 1. **Manual Inspection**: Carefully review the project's documentation, code, and metadata to understand its functionality and potential limitations.
 2. **Verify Dependencies**: Check the project's dependencies and ensure that they are up-to-date and compatible with your development environment.
-3. **Maintenance Checks**: Regularly review the project's maintenance activity, issue tracker, and release cadence to ensure that it remains stable and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/amanharshx/ultralytics-mcp).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt this project, developers should carefully inspect the codebase, documen
 
 **Production Readiness:**
 
-The project is considered medium-ready for production, indicating that it can be useful for prototypes or internal workflows. However, before deploying it in a production environment, developers should conduct thorough dependency and maintenance checks to ensure its stability and
+The project is considered medium-ready for production, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Lore-Hex/QuillCode).
 
 ### Русский
 

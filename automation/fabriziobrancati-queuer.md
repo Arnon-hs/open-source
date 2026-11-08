@@ -38,7 +38,11 @@ The primary value proposition of Queuer lies in its ability to automate repetiti
 To adopt Queuer, developers should start with a small proof of concept and thoroughly review the README documentation. This will help identify potential integration issues and validate the setup costs before committing to its use. A feasible integration approach is to begin with a simple use case and gradually expand its functionality.
 
 **Production Readiness:**
-Queuer is considered production-ready for prototypes or internal workflows, but its adoption in production environments requires careful evaluation and validation. Developers should perform dependency and maintenance checks before deploying it in production. With 1155 GitHub stars and regular updates, Queuer appears to be a
+Queuer is considered production-ready for prototypes or internal workflows, but its adoption in production environments requires careful evaluation and validation. Developers should perform dependency and maintenance checks before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/FabrizioBrancati/Queuer).
 
 ### Русский
 

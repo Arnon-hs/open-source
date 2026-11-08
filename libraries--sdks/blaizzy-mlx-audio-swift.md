@@ -41,8 +41,9 @@ To adopt Blaizzy/mlx-audio-swift, developers can follow these steps:
 3. Explore the SDK's features and capabilities to determine the best approach for their specific use case.
 4. Test and refine the integration to ensure seamless AI processing.
 
-**Production Readiness:**
-Blaizzy/mlx-a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Blaizzy/mlx-audio-swift).
 
 ### Русский
 

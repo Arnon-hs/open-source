@@ -46,7 +46,11 @@ To adopt obs-websocket-js, developers can follow these steps:
 
 **Production Readiness:**
 
-obs-websocket-js is considered production-ready due to its recent activity, adoption, and ecosystem signals. Its
+obs-websocket-js is considered production-ready due to its recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/obs-websocket-community-projects/obs-websocket-js).
 
 ### Русский
 

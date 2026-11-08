@@ -38,7 +38,11 @@ The value of AI-Anywhere lies in its ability to simplify the process of integrat
 To adopt AI-Anywhere, developers can start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help them understand the project's architecture, integration requirements, and potential use cases. With a solid understanding of the project's capabilities and limitations, developers can then begin integrating AI-Anywhere into their applications.
 
 **Production Readiness:**
-AI-Anywhere is considered production-ready due to its strong ecosystem signals, recent activity, and adoption. With over 2,100 GitHub stars and 128 forks, the project has demonstrated a significant level of interest and
+AI-Anywhere is considered production-ready due to its strong ecosystem signals, recent activity, and adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AI-Anywhere/AI-Anywhere).
 
 ### Русский
 

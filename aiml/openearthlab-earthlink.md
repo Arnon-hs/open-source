@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the OpenEarthLab/EarthLink project:
 
 **Practical Adoption Path:** To adopt EarthLink, users should begin by evaluating the system through a small proof of concept and reviewing the project's README documentation. This will help identify potential integration challenges and ensure a smooth onboarding process. Once familiar with the system, users can gradually integrate EarthLink into their projects, leveraging its capabilities to enhance their AI features and workflows.
 
-**Production Readiness:** EarthLink is considered medium-production ready, making it suitable for use in prototypes or internal workflows. However, before deploying the system in production, users should conduct thorough dependency and maintenance checks to ensure stability and security. Additionally, a
+**Production Readiness:** EarthLink is considered medium-production ready, making it suitable for use in prototypes or internal workflows. However, before deploying the system in production, users should conduct thorough dependency and maintenance checks to ensure stability and security.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/OpenEarthLab/EarthLink).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The value proposition of Bionic-GPT lies in its ability to add AI capability wit
 
 To adopt Bionic-GPT, developers can start by evaluating the project through a small proof of concept and checking the README documentation. This will help them understand the integration path and validate the setup cost before committing to the project. Once they have a clear understanding of the project's requirements and potential challenges, they can begin to integrate Bionic-GPT into their workflow.
 
-**Production Readiness:**
+## Before adopting
 
-Bionic-GPT has a medium production readiness score, indicating that it can be used for internal workflows and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bionic-gpt/bionic-gpt).
 
 ### Русский
 

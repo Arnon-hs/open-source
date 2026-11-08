@@ -37,7 +37,11 @@ The value of this project lies in its ability to automate market workflows and e
 
 **Practical Adoption Path**
 
-To adopt this project, users will need to manually inspect the code and metadata to ensure that it meets their specific needs and requirements. This may involve verifying the license, maintenance, documentation, issues, and release cadence of the project. Once these checks have been completed, users can integrate the project into their workflows and begin exploring its capabilities. Due to its medium production readiness, it is best suited for prototype development or internal workflows, where the benefits of automation and AI-driven insights can be leveraged without
+To adopt this project, users will need to manually inspect the code and metadata to ensure that it meets their specific needs and requirements. This may involve verifying the license, maintenance, documentation, issues, and release cadence of the project. Once these checks have been completed, users can integrate the project into their workflows and begin exploring its capabilities.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/VitaAI-SCG/one-gpu-lab).
 
 ### Русский
 

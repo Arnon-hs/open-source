@@ -40,7 +40,10 @@ To adopt ceph/ceph-csi, follow these steps:
 1. Evaluate the project's feasibility by reviewing the README and conducting a small proof of concept.
 2. Assess the project's license, security posture, and active maintainers to ensure they align with your organization's requirements.
 3. Deploy and test ceph/ceph-csi in a non-production environment to familiarize yourself with its features and limitations.
-4. Gradually integrate ceph/ceph-csi into your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ceph/ceph-csi).
 
 ### Русский
 

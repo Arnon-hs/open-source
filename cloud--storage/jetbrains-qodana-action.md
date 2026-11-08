@@ -69,7 +69,10 @@ JetBrains/qodana-action 帮助开发者在不从零开始搭建 AI 模型堆栈�
 
 * 近期活跃度：项目最近更新于 2026-07-29。
 *采用度：GitHub 上有 306 个星星和 42 个分支。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/JetBrains/qodana-action)。
 
 ## 🧭 Practical evaluation
 

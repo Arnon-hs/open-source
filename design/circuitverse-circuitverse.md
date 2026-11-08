@@ -41,7 +41,11 @@ To adopt CircuitVerse, developers can start by evaluating its feasibility throug
 
 **Production Readiness:**
 
-While CircuitVerse has a significant number of GitHub stars and forks, indicating its popularity and community engagement, its production readiness is medium. This is due to the potential complexity of integration and the need for dependency and maintenance checks before deploying it in production. Developers should carefully evaluate the setup cost and
+While CircuitVerse has a significant number of GitHub stars and forks, indicating its popularity and community engagement, its production readiness is medium. This is due to the potential complexity of integration and the need for dependency and maintenance checks before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/CircuitVerse/CircuitVerse).
 
 ### Русский
 

@@ -41,7 +41,11 @@ The module provides a simplified way to interact with databases, reducing the ne
 3. **Internal Workflows:** Use the module in internal workflows or prototyping environments to test its functionality and feasibility.
 
 **Production Readiness:**
-The module has a medium production readiness score, indicating that it is suitable for internal workflows or prototyping, but requires careful evaluation and validation before being used in production environments. This is due to the sparse integration signals in the discovered metadata and the
+The module has a medium production readiness score, indicating that it is suitable for internal workflows or prototyping, but requires careful evaluation and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openresty/drizzle-nginx-module).
 
 ### Русский
 

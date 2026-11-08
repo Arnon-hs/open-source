@@ -39,7 +39,11 @@ The practical adoption path for this project involves:
 2. Connecting AI agents to tools using the Model Context Protocol.
 3. Standardizing integrations and shipping Model Context Protocol servers.
 
-The project's production readiness is high due to recent activity, adoption, and strong ecosystem signals. With 1262 GitHub stars and 175 forks, this project has
+The project's production readiness is high due to recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AminForou/mcp-gsc).
 
 ### Русский
 
@@ -71,7 +75,10 @@ AminForou/mcp-gsc 的价值在于，它帮助连接 AI 助手和实用的工具�
 
 * 近期活跃：最近有更新和活动。
 * 大量采用：有 1262 个 GitHub star 和 175 个 fork。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/AminForou/mcp-gsc)。
 
 ## 🧭 Practical evaluation
 

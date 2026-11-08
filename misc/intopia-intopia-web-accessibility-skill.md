@@ -39,7 +39,9 @@ The practical adoption path involves several steps:
 2. Dependency checks: Ensure that the skill's dependencies are compatible with the existing infrastructure and can be maintained effectively.
 3. Validation: Validate the setup cost and potential risks associated with integrating the skill into the production environment.
 
-The production readiness of the project is medium, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Intopia/intopia-web-accessibility-skill).
 
 ### Русский
 

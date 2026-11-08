@@ -44,9 +44,9 @@ To adopt appbaseio/reactivesearch, developers can follow these steps:
 3. Customize the search UI components to fit their product's design and branding.
 4. Test and refine the implementation to ensure seamless functionality.
 
-**Production Readiness:**
+## Before adopting
 
-Appbaseio/reactivesearch exhibits high production readiness, with recent activity, adoption, and ecosystem signals indicating a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/appbaseio/reactivesearch).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary of the gpui-ce project:
 
 **Practical Adoption Path:** To adopt gpui-ce, developers need to manually inspect the project's integration signals, which are sparse in the discovered metadata. This requires a thorough understanding of the project's architecture and dependencies. Additionally, developers should validate the setup cost before committing to the project to ensure it aligns with their project's requirements.
 
-**Production Readiness:** gpui-ce is considered production-ready with a medium level of readiness. While it can be useful for prototypes or internal workflows, it's essential to perform dependency and maintenance checks before deploying it in production. This ensures that the project is stable and compatible with other dependencies in the
+**Production Readiness:** gpui-ce is considered production-ready with a medium level of readiness. While it can be useful for prototypes or internal workflows, it's essential to perform dependency and maintenance checks before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gpui-ce/gpui-ce).
 
 ### Русский
 

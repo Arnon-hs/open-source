@@ -37,7 +37,11 @@ The value proposition of Offerkit lies in its ability to standardize integration
 To adopt Offerkit, users can start by evaluating its straightforward integration process, which exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics. They can then begin by connecting their AI agents to the Offerkit protocol, followed by shipping Model Context Protocol servers to standardize integrations. As they become more comfortable with the system, they can move towards production-ready use cases.
 
 **Production Readiness:**
-Offerkit is currently in medium production readiness, indicating that it is useful for prototypes or internal workflows, but may require additional dependency and maintenance checks before being used in production environments. This means that
+Offerkit is currently in medium production readiness, indicating that it is useful for prototypes or internal workflows, but may require additional dependency and maintenance checks before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/offerkit/offerkit).
 
 ### Русский
 

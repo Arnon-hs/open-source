@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the gimli-rs/gimli project:
 
 **Practical Adoption Path:** To adopt gimli-rs/gimli, developers should start by carefully reviewing the library's documentation and examples to understand its capabilities and limitations. They should then manually inspect the integration path to ensure it aligns with their project's requirements. Before committing to production, developers should validate the setup costs and perform necessary dependency and maintenance checks.
 
-**Production Readiness:** gimli-rs/gimli has a medium level of production readiness, making it suitable for prototypes or internal workflows. While it has a
+**Production Readiness:** gimli-rs/gimli has a medium level of production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gimli-rs/gimli).
 
 ### Русский
 

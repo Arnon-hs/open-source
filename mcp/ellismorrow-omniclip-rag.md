@@ -37,7 +37,11 @@ The value proposition of OmniClip-RAG lies in its ability to standardize integra
 
 **Practical Adoption Path:**
 
-The adoption path for OmniClip-RAG is straightforward, with a clear and well-documented API, SDK, and CLI. Developers can evaluate the project by examining its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. The project's recent activity, adoption, and ecosystem signals are strong enough to support a serious pilot, making it an attractive option for developers looking to integrate AI assistants with real tools and
+The adoption path for OmniClip-RAG is straightforward, with a clear and well-documented API, SDK, and CLI. Developers can evaluate the project by examining its implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/EllisMorrow/OmniClip-RAG).
 
 ### Русский
 

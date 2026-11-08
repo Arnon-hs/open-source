@@ -74,7 +74,10 @@ remsky/Kokoro-FastAPI 的价值在于，它可以帮助开发者快速添加 AI 
 remsky/Kokoro-FastAPI 的生产可用性很高，理由如下：
 
 * 最近的活动和采用度很强
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/remsky/Kokoro-FastAPI)。
 
 ## 🧭 Practical evaluation
 

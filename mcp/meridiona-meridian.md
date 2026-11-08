@@ -44,9 +44,9 @@ To adopt Meridian, follow these steps:
 3. Review the project's quality signals, including GitHub stars, updates, and primary language (in this case, Rust).
 4. Consider the potential risks, such as license, security posture, and active maintainers.
 
-**Production Readiness**
+## Before adopting
 
-Meridian is considered production-ready for internal workflows and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Meridiona/meridian).
 
 ### Русский
 

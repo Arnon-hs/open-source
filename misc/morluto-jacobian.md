@@ -41,7 +41,10 @@ To adopt Jacobian, developers should follow these steps:
 
 1. **Manual Inspection:** Carefully review the project's documentation, codebase, and issue tracker to ensure it meets their needs and aligns with their project's requirements.
 2. **Dependency and Maintenance Checks:** Verify the project's dependencies, maintenance cadence, and release history to ensure they are stable and reliable.
-3. **Verify License and Documentation:** Confirm that the project's license is compatible with their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/morluto/jacobian).
 
 ### Русский
 

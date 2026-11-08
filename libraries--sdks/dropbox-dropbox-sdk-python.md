@@ -48,11 +48,9 @@ To adopt this project, teams can follow these steps:
 3. Integrate the SDK into their project, following the provided guidelines and examples.
 4. Test the SDK thoroughly to ensure it works as expected.
 
-**Production Readiness:**
+## Before adopting
 
-The Dropbox API V2 SDK for Python is considered production-ready due to its:
-
-* Recent activity, indicating ongoing maintenance and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dropbox/dropbox-sdk-python).
 
 ### Русский
 

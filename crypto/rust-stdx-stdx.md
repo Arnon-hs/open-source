@@ -38,7 +38,11 @@ The project's primary value lies in its ability to help developers prototype and
 To adopt this project, developers should start with a small proof of concept to evaluate its feasibility. They should also carefully check the README documentation to understand the integration process and potential risks. Before committing to production, developers should validate the setup cost and perform necessary dependency and maintenance checks.
 
 **Production Readiness:**
-The project's production readiness is classified as medium, indicating that it's suitable for internal workflows or prototypes but requires careful evaluation before being used in production. This is due to
+The project's production readiness is classified as medium, indicating that it's suitable for internal workflows or prototypes but requires careful evaluation before being used in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rust-stdx/stdx).
 
 ### Русский
 

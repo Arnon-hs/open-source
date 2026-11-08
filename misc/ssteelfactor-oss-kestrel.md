@@ -37,7 +37,11 @@ Misc
 2. **Verify Quality Signals:** Verify the project's license, maintenance, documentation, issue history, and release cadence to ensure it meets your needs.
 3. **Integration and Testing:** Manually integrate Kestrel into your workflow and test its functionality to ensure it meets your requirements.
 
-**Production Readiness:** Kestrel is considered medium-ready for production use. While it may be useful for prototypes or internal workflows, it requires careful evaluation and verification before being adopted in a production environment. Its limited quality signals and sparse integration signals necessitate manual inspection and testing to ensure its reliability and
+**Production Readiness:** Kestrel is considered medium-ready for production use. While it may be useful for prototypes or internal workflows, it requires careful evaluation and verification before being adopted in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ssteelfactor-oss/Kestrel).
 
 ### Русский
 

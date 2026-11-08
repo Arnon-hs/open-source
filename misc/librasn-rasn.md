@@ -63,11 +63,9 @@ librasn/rasn 的价值在于：
 
 librasn/rasn 的生产可用性为中等。它适合用于 prototyping 或内部工作流程，但在生产环境中使用之前需要进行依赖和维护的检查。
 
-**风险**
+## 采用前检查
 
-使用 librasn/rasn 需要注意以下风险：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/librasn/rasn)。
 
 ## 🧭 Practical evaluation
 

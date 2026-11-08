@@ -37,7 +37,11 @@ The practical adoption path for this project involves:
 2. **Prototype development**: Use the antinomie-lab/pi-book project as a foundation for building AI agents and workflows, focusing on prototyping and testing.
 3. **Dependency and maintenance checks**: Before deploying the project in production, ensure that all dependencies are up-to-date and the project's maintenance status is satisfactory.
 
-Regarding production readiness, the project has a medium level of readiness, indicating that it can be used for internal workflows or prototypes, but may require additional work and checks before deployment in production environments. This
+Regarding production readiness, the project has a medium level of readiness, indicating that it can be used for internal workflows or prototypes, but may require additional work and checks before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/antinomie-lab/pi-book).
 
 ### Русский
 

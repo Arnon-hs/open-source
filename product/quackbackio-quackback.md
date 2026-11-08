@@ -68,7 +68,9 @@ QuackbackIO/quackback 在生产环境中可用性较高，主要原因是：
 * 有较强的采用和生态系统信号
 * 有强大的 TypeScript 语言支持
 
-但是，
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/QuackbackIO/quackback)。
 
 ## 🧭 Practical evaluation
 

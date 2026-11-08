@@ -78,7 +78,10 @@ Portainer MCP 的生产可用性很高，主要原因是：
 
 1. 活跃维护：项目有活跃的维护者，保持更新和修复 Bug。
 2. 强大的生态系统：Portainer MCP 有一个庞大的生态系统，包括多种工具和应用。
-3.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/portainer/portainer-mcp)。
 
 ## 🧭 Practical evaluation
 

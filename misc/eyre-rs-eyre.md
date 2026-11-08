@@ -39,9 +39,9 @@ Eyre's primary value lies in its ability to simplify error handling in Rust appl
 
 To adopt Eyre, developers should start by manually inspecting the library's integration signals and validating the setup cost before committing to its use. This involves reviewing the library's documentation, experimenting with its features, and assessing its compatibility with existing projects. Once the integration path is clear, developers can incorporate Eyre into their project, taking advantage of its trait object based error handling approach to simplify error handling and reporting.
 
-**Production Readiness:**
+## Before adopting
 
-Eyre has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/eyre-rs/eyre).
 
 ### Русский
 

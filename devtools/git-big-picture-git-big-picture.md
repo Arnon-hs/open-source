@@ -40,7 +40,11 @@ Here's a brief summary of the open-source project:
 3. Assess the project's license, security posture, and active maintainers to ensure they align with your organization's requirements.
 4. Pilot the project in a controlled environment to test its performance and effectiveness.
 
-**Production Readiness:** With a high production readiness score, **git-big-picture/git-big-picture** is ready for serious piloting and evaluation. Its
+**Production Readiness:** With a high production readiness score, **git-big-picture/git-big-picture** is ready for serious piloting and evaluation.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/git-big-picture/git-big-picture).
 
 ### Русский
 
@@ -72,7 +76,10 @@ git-big-picture/git-big-picture 的价值在于，它可以帮助开发者更好
 
 1. 有活跃的维护者：项目维护者最近更新了项目代码。
 2. 强大的社区支持：项目有超过 560 个 GitHub 星和 80 个分支。
-3.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/git-big-picture/git-big-picture)。
 
 ## 🧭 Practical evaluation
 

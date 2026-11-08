@@ -39,7 +39,10 @@ The project's value lies in its ability to simulate 3D printing workflows in a b
 1. **Evaluation**: Review the project's README, activity, and quality signals to assess its viability for your specific use case.
 2. **Manual Inspection**: Inspect the code, dependencies, and maintenance history to ensure it meets your project's requirements.
 3. **Integration**: Integrate the project into your workflow, following the provided instructions and guidelines.
-4. **Testing**: Thoroughly test the project in a controlled environment to identify any issues or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Kodoque1/rextrude).
 
 ### Русский
 

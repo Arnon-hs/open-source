@@ -37,7 +37,11 @@ The juancastillo0/wasm_run project offers a unique value proposition by providin
 To adopt the juancastillo0/wasm_run project, developers should start by carefully reviewing the README and evaluating the project's activity. A small proof of concept should be implemented to validate the setup cost and feasibility of integration. This will help developers understand the potential benefits and challenges of using the project in their workflows.
 
 **Production Readiness:**
-The juancastillo0/wasm_run project is considered production-ready with a medium level of readiness. While it is useful for prototypes or internal workflows, it is essential to
+The juancastillo0/wasm_run project is considered production-ready with a medium level of readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/juancastillo0/wasm_run).
 
 ### Русский
 

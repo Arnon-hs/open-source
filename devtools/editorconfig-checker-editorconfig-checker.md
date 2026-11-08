@@ -41,7 +41,11 @@ To integrate editorconfig-checker/editorconfig-checker into your workflow, start
 
 **Production Readiness**
 
-Editorconfig-checker/editorconfig-checker has a high production readiness score due to its recent activity, strong adoption (631 GitHub stars and 73 forks), and a robust ecosystem. The primary language is Go, and the
+Editorconfig-checker/editorconfig-checker has a high production readiness score due to its recent activity, strong adoption (631 GitHub stars and 73 forks), and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/editorconfig-checker/editorconfig-checker).
 
 ### Русский
 

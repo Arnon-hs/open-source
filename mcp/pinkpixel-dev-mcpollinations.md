@@ -39,7 +39,11 @@ Here's a brief summary of the open-source project:
 2. **Ship Model Context Protocol servers**: The project provides a server implementation that can be used to ship MCP servers, making it easier to deploy and manage AI-powered applications.
 3. **Standardize integrations**: By using MCPollinations, developers can standardize their integrations with various tools and data sources, reducing the complexity and effort required to develop and maintain AI-powered applications.
 
-**Production Readiness:** The project has a high production readiness score, with recent activity, adoption, and ecosystem signals indicating strong potential for a serious pilot. While there are some risks that need to be reviewed, such as license, security posture, and
+**Production Readiness:** The project has a high production readiness score, with recent activity, adoption, and ecosystem signals indicating strong potential for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pinkpixel-dev/MCPollinations).
 
 ### Русский
 

@@ -36,8 +36,9 @@ The value of Design with Intent lies in its ability to simplify the process of i
 **Practical Adoption Path:**
 To adopt Design with Intent, developers should start by carefully reviewing the project's documentation and codebase to understand its capabilities and limitations. They should also perform manual inspection and validation of the integration process to ensure that it meets their specific needs. Additionally, developers should consider the potential costs and risks associated with adopting this project, including the need for dependency and maintenance checks before production.
 
-**Production Readiness:**
-Design with Intent is currently considered to be at medium production readiness, meaning that it is suitable for use in prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ghaida/intent).
 
 ### Русский
 

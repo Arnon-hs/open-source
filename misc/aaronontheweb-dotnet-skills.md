@@ -33,7 +33,11 @@ Aaronontheweb/dotnet-skills is an open-source project that enables .NET develope
 
 As for the practical adoption path, the project can be integrated into existing .NET applications through manual setup and validation. This involves inspecting the project's metadata, setting up the necessary dependencies, and testing the integration to ensure it meets the project's requirements. While the integration path may not be obvious from the metadata, the project's GitHub repository provides a wealth of information and community support to aid in the adoption process.
 
-In terms of production readiness, the project has a medium level of readiness. It is suitable for prototype development, internal workflows, or proof-of-concepts, but may require additional validation and dependency checks before being deployed in production environments. The project's 1040 GitHub stars and regular updates suggest a strong community engagement and ongoing maintenance, which can provide confidence in
+In terms of production readiness, the project has a medium level of readiness. It is suitable for prototype development, internal workflows, or proof-of-concepts, but may require additional validation and dependency checks before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Aaronontheweb/dotnet-skills).
 
 ### Русский
 

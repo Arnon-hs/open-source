@@ -41,7 +41,11 @@ To adopt Portier Broker, developers should start with a small proof of concept a
 
 **Production Readiness:**
 
-Portier Broker is considered to have medium production readiness. While it is useful for prototypes or internal workflows, its production readiness depends on several factors, including thorough dependency and maintenance checks. Before deploying the project in a
+Portier Broker is considered to have medium production readiness. While it is useful for prototypes or internal workflows, its production readiness depends on several factors, including thorough dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/portier/portier-broker).
 
 ### Русский
 

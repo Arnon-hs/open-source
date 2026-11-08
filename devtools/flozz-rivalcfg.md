@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the open-source project:
 
 **Practical Adoption Path**: To adopt flozz/rivalcfg, developers can start by evaluating its implementation signals, such as its API/SDK/CLI exposure, language metadata, and focused topics. They can then integrate the library into their existing workflows, using its Python implementation to configure SteelSeries gaming mice. The project's recent activity, adoption, and ecosystem signals suggest that it is a stable and reliable option for serious pilots.
 
-**Production Readiness**: The project has a high production readiness score, thanks to its recent activity, strong adoption (982 GitHub stars and 85 forks), and positive ecosystem signals. While there are some minor risks to consider, such as the license, security posture, and
+**Production Readiness**: The project has a high production readiness score, thanks to its recent activity, strong adoption (982 GitHub stars and 85 forks), and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/flozz/rivalcfg).
 
 ### Русский
 

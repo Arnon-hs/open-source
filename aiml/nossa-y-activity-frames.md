@@ -39,7 +39,10 @@ To adopt Activity-frames, developers should follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it meets their project's requirements.
 2. **Verify Quality Signals**: Check the project's update history, topics, and ratings to gauge its reliability and maintainability.
 3. **Assess Dependencies**: Evaluate the project's dependencies and ensure they are compatible with the developer's existing infrastructure.
-4. **Test and Evaluate**: Integrate Activity-frames into a prototype or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nossa-y/activity-frames).
 
 ### Русский
 

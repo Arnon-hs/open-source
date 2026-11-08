@@ -35,9 +35,11 @@ Obitouka's InstagramPrivSniffer is an open-source tool that allows users to anon
 The primary value proposition of InstagramPrivSniffer lies in its ability to help engineers save time in their daily development and review loops. This can be achieved by automating local engineering tasks, improving CI feedback, and speeding up developer workflows. By providing a means to access private Instagram posts anonymously, the tool can also streamline the process of reviewing and testing social media-related features.
 
 **Practical Adoption Path:**
-The adoption path for InstagramPrivSniffer involves integrating the tool into existing developer workflows. This can be done by evaluating the tool's API/SDK/CLI implementation, language metadata, and focused topics. The tool's straightforward evaluation process and strong adoption signals make it an attractive option for developers looking to streamline their workflows. To get started, developers can:
+The adoption path for InstagramPrivSniffer involves integrating the tool into existing developer workflows. This can be done by evaluating the tool's API/SDK/CLI implementation, language metadata, and focused topics. The tool's straightforward evaluation process and strong adoption signals make it an attractive option for developers looking to streamline their workflows.
 
-1. Evaluate the tool's implementation signals to ensure it meets their
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/obitouka/InstagramPrivSniffer).
 
 ### Русский
 

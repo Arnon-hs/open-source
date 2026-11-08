@@ -35,7 +35,9 @@ The nikoSchoinas/routeweiler-python-sdk is an open-source project that serves as
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The SDK's Python implementation and 16 topics suggest a well-structured and maintainable codebase. Developers can then integrate the SDK into their existing projects, leveraging its features to build and test blockchain-based workflows.
 
-**Production Readiness:** The nikoSchoinas/routeweiler-python-sdk demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nikoSchoinas/routeweiler-python-sdk).
 
 ### Русский
 

@@ -46,7 +46,11 @@ To adopt jonhoo/tracing-timing, developers should first manually inspect the met
 
 **Production Readiness:**
 
-jonhoo/tracing-timing has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but requires careful consideration and validation before deploying in production. This is due to the sparse integration signals and the
+jonhoo/tracing-timing has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but requires careful consideration and validation before deploying in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jonhoo/tracing-timing).
 
 ### Русский
 

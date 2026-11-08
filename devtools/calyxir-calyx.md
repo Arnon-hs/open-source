@@ -33,7 +33,11 @@ DevTools
 
 **Practical Adoption Path:** Due to the lack of obvious integration path and unclear setup cost, it's recommended to start with a small proof-of-concept and thoroughly review the README before committing to a larger project. This will help evaluate the feasibility of integrating calyxir/calyx into your workflow. Once a basic understanding is established, developers can explore its potential for more complex use cases.
 
-**Production Readiness:** calyxir/calyx is considered production-ready with a medium level of readiness. It's suitable for prototypes or internal workflows, but requires careful dependency and maintenance checks before being deployed in production environments. This
+**Production Readiness:** calyxir/calyx is considered production-ready with a medium level of readiness. It's suitable for prototypes or internal workflows, but requires careful dependency and maintenance checks before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/calyxir/calyx).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The value proposition of Anbeeld/AGENTS.md lies in its ability to accelerate the
 
 To adopt Anbeeld/AGENTS.md, developers should start with a small proof-of-concept to evaluate the project's feasibility and understand its integration path. A thorough review of the README file and documentation is essential to ensure a smooth adoption process. Once the project has been successfully integrated, developers can scale up their implementation and migrate to production-ready environments.
 
-**Production Readiness**
+## Before adopting
 
-Anbeeld/AGENTS.md has a medium level of production readiness, making it suitable for internal workflows, proof-of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Anbeeld/AGENTS.md).
 
 ### Русский
 

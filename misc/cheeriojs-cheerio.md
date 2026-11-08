@@ -35,7 +35,11 @@ Cheeriojs/cheerio is a fast, flexible, and elegant library for parsing and manip
 The value of cheeriojs/cheerio lies in its ability to simplify the process of integrating AI into projects, allowing developers to focus on building and testing AI features without starting from scratch. Its flexibility and elegance make it an attractive choice for a wide range of use cases, from prototyping AI features to building complex workflows.
 
 **Practical Adoption Path:**
-To adopt cheeriojs/cheerio, developers can start by evaluating its feasibility through a small proof of concept and reviewing the project's README. This will give them a sense of how the library works and whether it meets their specific needs. Once they have a good understanding of
+To adopt cheeriojs/cheerio, developers can start by evaluating its feasibility through a small proof of concept and reviewing the project's README. This will give them a sense of how the library works and whether it meets their specific needs.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cheeriojs/cheerio).
 
 ### Русский
 

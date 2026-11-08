@@ -41,7 +41,11 @@ Developers interested in adopting this project can start by evaluating its imple
 
 **Production Readiness:**
 
-covagashi/eplan-rag-mcp has a high production readiness score, indicating that it is a reliable and stable project for serious pilots. Its recent activity, adoption, and
+covagashi/eplan-rag-mcp has a high production readiness score, indicating that it is a reliable and stable project for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/covagashi/eplan-rag-mcp).
 
 ### Русский
 

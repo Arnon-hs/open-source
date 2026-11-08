@@ -41,7 +41,11 @@ To adopt the Apache Teaclave TrustZone SDK, developers can start by evaluating i
 
 **Production Readiness:**
 
-The project has high production readiness due to its recent activity, adoption, and ecosystem signals. With 280 GitHub stars and 82 forks, it has a strong community backing. The project's primary language is Rust, and it has 6 topics, indicating a well-structured and
+The project has high production readiness due to its recent activity, adoption, and ecosystem signals. With 280 GitHub stars and 82 forks, it has a strong community backing.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/apache/teaclave-trustzone-sdk).
 
 ### Русский
 

@@ -68,7 +68,11 @@ intentui/intentui 帮助开发者快速添加 AI 能力，而无需从头开始�
 
 **生产可用性**
 
-intentui/intentui 在生产环境中具有较高的可用性。根据 GitHub 的数据，项目有 1940 个星星，92 个分支，最近更新于
+intentui/intentui 在生产环境中具有较高的可用性。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/intentui/intentui)。
 
 ## 🧭 Practical evaluation
 

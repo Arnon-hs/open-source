@@ -44,9 +44,9 @@ To adopt grpc/grpc-rust, developers can follow these steps:
 3. Use the provided API, SDK, and CLI to build and deploy their AI-powered application.
 4. Evaluate and refine their AI model using the provided tooling and workflows.
 
-**Production Readiness:**
+## Before adopting
 
-grpc/grpc-rust is considered production-ready due to its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/grpc/grpc-rust).
 
 ### Русский
 

@@ -35,7 +35,11 @@ In terms of value, the project provides a flexible solution for organizing analy
 
 For practical adoption, users should be prepared to manually inspect and validate the integration setup, which may involve some trial and error. This process can be time-consuming and may require additional resources, such as developer time and expertise. However, the project's flexibility and customizability make it a viable option for organizations looking to integrate their PostgreSQL and MySQL databases.
 
-In terms of production readiness, the project is considered moderately ready, with a score of 51/100. While it is suitable for prototype development or internal workflows, it may not be
+In terms of production readiness, the project is considered moderately ready, with a score of 51/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/EnterpriseDB/mysql_fdw).
 
 ### Русский
 

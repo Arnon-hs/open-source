@@ -41,7 +41,10 @@ Adopting pushpin into your development workflow is relatively straightforward. T
 
 1. Review the project's documentation and codebase to understand how pushpin works.
 2. Evaluate the project's language (Rust) and ensure it aligns with your existing tech stack.
-3. Integrate pushpin into your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fastly/pushpin).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The primary value of swyxio/skills lies in its ability to turn isolated prompts 
 
 To adopt swyxio/skills, developers should first review the project's metadata, including its license, security posture, and active maintainers. This will help identify any potential risks and ensure that the project aligns with their organization's standards. Once the project has been vetted, developers can integrate it into their workflows by following the provided documentation and adapting the code to their specific needs. Manual inspection and testing are recommended before adopting the project in production.
 
-**Production Readiness:**
+## Before adopting
 
-swyxio/skills is considered production-ready with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/swyxio/skills).
 
 ### Русский
 

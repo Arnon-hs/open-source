@@ -41,7 +41,11 @@ To adopt this project, developers need to manually inspect the code and metadata
 
 **Production Readiness:**
 
-The project has a medium production readiness score, making it suitable for prototypes or internal workflows. However, it is not yet ready for production use due to the need for manual inspection and potential dependency and maintenance issues. With proper review and
+The project has a medium production readiness score, making it suitable for prototypes or internal workflows. However, it is not yet ready for production use due to the need for manual inspection and potential dependency and maintenance issues.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/liutaocode/TTS-arxiv-daily).
 
 ### Русский
 

@@ -41,7 +41,10 @@ To adopt Claude-code-docs, developers can follow these steps:
 
 1. **Evaluate the documentation**: Review the chapter-by-chapter teardown of the production coding agent to gain a deeper understanding of the MCP protocol and its components.
 2. **Explore the implementation signals**: Examine the API/SDK/CLI, language metadata, and focused topics exposed by the project to determine the best approach for integrating with AI assistants.
-3. **Ship Model Context Protocol servers**: Implement the MCP protocol in their own applications or tools to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/anneheartrecord/claude-code-docs).
 
 ### Русский
 

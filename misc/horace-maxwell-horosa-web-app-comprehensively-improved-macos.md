@@ -41,7 +41,11 @@ To adopt Horace-Maxwell, developers can follow these steps:
 3. Use Horace-Maxwell as a starting point for building prototypes or internal workflows, with a focus on dependency and maintenance checks before production.
 
 **Production Readiness:**
-Horace-Maxwell is considered "Medium" in terms of production readiness. While it is useful for prototypes or internal workflows, it requires careful evaluation and
+Horace-Maxwell is considered "Medium" in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Horace-Maxwell/Horosa-Web-App-comprehensively-improved-MacOS).
 
 ### Русский
 

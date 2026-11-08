@@ -65,7 +65,11 @@ capek-dev/jean2的价值在于：
 
 **生产可用性**
 
-capek-dev/jean2的生产可用性为中等（Medium），适合用于原型开发或内部工作流。然而，
+capek-dev/jean2的生产可用性为中等（Medium），适合用于原型开发或内部工作流。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/capek-dev/jean2)。
 
 ## 🧭 Practical evaluation
 

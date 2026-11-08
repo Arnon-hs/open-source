@@ -43,7 +43,9 @@ In terms of production readiness, Recyclarr is suitable for:
 * Internal workflows, where the benefits of reduced custom UI work can be realized without the need for external deployment.
 * Projects with low to medium complexity, where the integration and maintenance challenges can be managed effectively.
 
-However, due to the potential integration path not being obvious from metadata and the need for manual inspection, Recyclarr may not be suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/recyclarr/recyclarr).
 
 ### Русский
 

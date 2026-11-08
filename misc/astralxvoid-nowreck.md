@@ -40,7 +40,9 @@ NoWreck-A is an open-source, deterministic verifier for AI coding assistants, en
 3. **Manual Inspection:** Inspect the code and integration signals to ensure they are suitable for your use case.
 4. **Testing:** Test the project in a controlled environment to validate its functionality and performance.
 
-**Production Readiness:** NoWreck-A has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AstralXVoid/NoWreck/).
 
 ### Русский
 

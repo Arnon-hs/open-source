@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project's value, adoption path, an
 
 **Adoption Path:** Before adopting Garfish, it's essential to conduct a manual inspection to ensure compatibility with existing systems and dependencies. This may involve reviewing the project's documentation, testing the framework, and performing dependency and maintenance checks. Once validated, Garfish can be integrated into internal workflows or used in prototypes to test its capabilities. For production environments, it's recommended to perform thorough testing and validation before deploying the framework.
 
-**Production Readiness:** Garfish is considered production-ready for prototypes or internal workflows, but it may require additional checks and validation before being used in production environments. With a moderate level of production readiness (Medium), Garfish can help organizations improve their deployment and operations processes, but it's crucial to carefully evaluate the framework's compatibility and
+**Production Readiness:** Garfish is considered production-ready for prototypes or internal workflows, but it may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/web-infra-dev/garfish).
 
 ### Русский
 

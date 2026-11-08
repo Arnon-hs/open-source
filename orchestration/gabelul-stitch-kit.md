@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** To adopt gabelul/stitch-kit, developers can start by exploring its integration points, such as API/SDK/CLI, language metadata, and focused topics. They can then evaluate its implementation signals and assess its production readiness. Once satisfied, developers can integrate the project into their existing workflows, starting with small-scale projects and gradually scaling up to larger ones.
 
-**Production Readiness:** gabelul/stitch-kit has a high production readiness score, indicating that it is suitable for serious pilot projects. With recent activity, adoption, and ecosystem signals, the project has a strong foundation for widespread adoption. However, a final review of its
+**Production Readiness:** gabelul/stitch-kit has a high production readiness score, indicating that it is suitable for serious pilot projects. With recent activity, adoption, and ecosystem signals, the project has a strong foundation for widespread adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gabelul/stitch-kit).
 
 ### Русский
 

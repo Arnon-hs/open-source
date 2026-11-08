@@ -37,7 +37,11 @@ The value of ETQW lies in its potential to serve as a community-driven alternati
 
 **Production Readiness:**
 
-ETQW is considered production-ready at a medium level, making it suitable for prototypes or internal workflows. However, before deploying it in production, it is essential to conduct thorough dependency and maintenance checks to ensure its stability and reliability. This
+ETQW is considered production-ready at a medium level, making it suitable for prototypes or internal workflows. However, before deploying it in production, it is essential to conduct thorough dependency and maintenance checks to ensure its stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jmarshall23/ETQW).
 
 ### Русский
 

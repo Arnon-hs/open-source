@@ -43,11 +43,9 @@ To adopt Magic codec, developers should follow a cautious approach:
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies, maintenance history, and release cadence to ensure it is reliable and stable.
 3. **Quality Signal Verification**: Check the project's license, documentation, issues, and quality signals to ensure they align with your project's needs and standards.
 
-**Production Readiness:**
+## Before adopting
 
-Magic codec has a medium level of production readiness, making it suitable for:
-
-1. **Prototypes**: Its experimental nature and uncertain quality signals make it a good fit for prototyping and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Tsche/magic_codec).
 
 ### Русский
 

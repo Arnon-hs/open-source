@@ -39,7 +39,10 @@ To adopt Mirrowel/LLM-API-Key-Proxy, developers can follow these steps:
 1. Evaluate the project's documentation and code quality to ensure it meets their requirements.
 2. Integrate the project into their existing infrastructure, following the provided implementation signals (API/SDK/CLI, language metadata, or focused topics).
 3. Configure the project to work with their preferred LLM provider(s) and API keys.
-4. Test and refine the integration to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Mirrowel/LLM-API-Key-Proxy).
 
 ### Русский
 

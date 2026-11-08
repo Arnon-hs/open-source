@@ -36,7 +36,10 @@ As for the practical adoption path, here's a suggested approach:
 1. **Evaluate and inspect the codebase**: Due to the sparse integration signals in the metadata, it's essential to conduct a manual review of the codebase to ensure it meets your project's requirements.
 2. **Assess dependencies and maintenance**: Verify that the project's dependencies are up-to-date and that the maintainers are actively engaged in addressing security and maintenance concerns.
 3. **Integrate and test**: Once you've cleared the initial hurdles, integrate Akashic-Agent into your application and thoroughly test its functionality to ensure it meets your needs.
-4. **Refine and customize**: With
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kachofugetsu09/akashic-agent).
 
 ### Русский
 

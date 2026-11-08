@@ -39,7 +39,10 @@ Orchestration · MCP · Cloud & Storage · Database
 
 1. **Evaluate the toolkit**: Assess the awslabs/graphrag-toolkit's features, documentation, and community support to determine its suitability for your project.
 2. **Explore use cases**: Identify how the toolkit can be applied to your specific use case, such as building GenAI applications or integrating with existing tools.
-3. **Integrate with your existing infrastructure**: Incorporate the awslabs/graphrag-toolkit into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/awslabs/graphrag-toolkit).
 
 ### Русский
 

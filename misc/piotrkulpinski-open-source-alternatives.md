@@ -37,7 +37,11 @@ Misc
 2. **Validate Setup Cost**: Carefully evaluate the setup cost and potential integration challenges to avoid unnecessary delays or complications.
 3. **Assess Quality Signals**: Review the project's GitHub metrics, such as stars, forks, and update frequency, to gauge its popularity, adoption rate, and maintainability.
 
-**Production Readiness:** With a strong GitHub presence, recent activity, and a high adoption rate, this project is considered production-ready for serious pilots. However, it's crucial to
+**Production Readiness:** With a strong GitHub presence, recent activity, and a high adoption rate, this project is considered production-ready for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/piotrkulpinski/open-source-alternatives).
 
 ### Русский
 

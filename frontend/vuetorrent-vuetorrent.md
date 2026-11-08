@@ -42,7 +42,10 @@ The practical adoption path for VueTorrent involves a few steps:
 1. **Evaluate the project**: Review the project's README, GitHub stars, forks, and recent activity to gauge its quality and production readiness.
 2. **Start with a small proof of concept**: Integrate VueTorrent into a small project or proof of concept to test its feasibility and compatibility with your existing infrastructure.
 3. **Assess license and security posture**: Review the project's license and security posture to ensure they align with your organization's requirements.
-4. **Join the community**: Engage with the VueTorrent community to stay up-to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/VueTorrent/VueTorrent).
 
 ### Русский
 

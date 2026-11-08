@@ -36,8 +36,9 @@ The project's value lies in its ability to simplify the process of integrating A
 **Practical Adoption Path:**
 To adopt this project, developers should first manually inspect the tool's integration signals and metadata to ensure it meets their specific needs. Once satisfied, they can integrate the tool into their application and begin building AI-powered features. However, it's essential to note that the project's production readiness is medium, indicating that it's suitable for prototypes or internal workflows but may require additional dependency and maintenance checks before being deployed in production.
 
-**Production Readiness:**
-The project's production readiness is classified as medium, indicating that it's a useful tool for prototypes or internal workflows but may require additional checks and validation before being deployed in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/egnaro9/evalmut).
 
 ### Русский
 

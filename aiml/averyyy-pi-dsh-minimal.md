@@ -35,7 +35,11 @@ Averyyy/pi-dsh-minimal — это адаптер для официального
 
 ### 中文
 
-Averyyy/pi-dsh-minimal 提供了官方 DeepSeek Harness 的最小化 Pi 适配器，使开发者能够快速为项目添加 AI 能力，而无需从零搭建模型栈。典型的接入方式是先阅读 README 并构建一个小规模的概念验证（PoC），随后逐步将其集成到原型 AI 特性、RAG 或 agent 工作流中。该项目目前处于中等生产可用状态：适用于原型或内部工作流，但在投入生产前仍需进行依赖审查、维护评估以及
+Averyyy/pi-dsh-minimal 提供了官方 DeepSeek Harness 的最小化 Pi 适配器，使开发者能够快速为项目添加 AI 能力，而无需从零搭建模型栈。典型的接入方式是先阅读 README 并构建一个小规模的概念验证（PoC），随后逐步将其集成到原型 AI 特性、RAG 或 agent 工作流中。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/Averyyy/pi-dsh-minimal)。
 
 ## 🧭 Practical evaluation
 

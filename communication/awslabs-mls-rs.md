@@ -42,7 +42,10 @@ Adopting awslabs/mls-rs requires a manual inspection of the integration process 
 1. Review the project's documentation and GitHub repository.
 2. Assess the integration requirements and potential dependencies.
 3. Validate the setup cost and potential maintenance needs.
-4. Inspect the code and ensure it meets your project's security and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/awslabs/mls-rs).
 
 ### Русский
 

@@ -38,7 +38,10 @@ To adopt S.A.T.U.R.D.A.Y, users can follow these steps:
 
 1. **Evaluate the project's quality signals**: Assess the project's activity, documentation, and community engagement to ensure it meets your project's requirements.
 2. **Verify the license and dependencies**: Check the project's license and dependencies to ensure they align with your project's needs and do not introduce any security risks.
-3. **Inspect the code and documentation**: Review the project's code and documentation to understand its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y).
 
 ### Русский
 

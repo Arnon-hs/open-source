@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project Xenon:
 
 **Practical Adoption Path:** To adopt Xenon, developers can start by exploring its features and capabilities, such as its support for multiple reasoning paradigms and models. They can then integrate Xenon into their existing workflows by using its API, SDK, or CLI. The project's documentation and community support can provide additional resources and guidance for developers looking to adopt Xenon.
 
-**Production Readiness:** Xenon has a high production readiness score, indicating that it is suitable for serious piloting and potential production deployment. The project has recent activity, adoption, and ecosystem signals, which suggests that
+**Production Readiness:** Xenon has a high production readiness score, indicating that it is suitable for serious piloting and potential production deployment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xianyu-sheng/Xenon).
 
 ### Русский
 

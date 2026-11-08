@@ -33,7 +33,11 @@ AI/ML · Observability
 
 **Practical Adoption Path:** To adopt traceloop/hub, developers should start by evaluating its feasibility through a small proof of concept and carefully reviewing the README documentation. This will help identify potential integration challenges and ensure that the setup cost is manageable. Once the feasibility is established, developers can proceed with integrating the gateway into their applications, taking into account dependency and maintenance checks to ensure production readiness.
 
-**Production Readiness:** traceloop/hub is considered moderately production-ready, with a score of 61/100. While it is suitable for prototypes or internal workflows, it is essential to
+**Production Readiness:** traceloop/hub is considered moderately production-ready, with a score of 61/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/traceloop/hub).
 
 ### Русский
 

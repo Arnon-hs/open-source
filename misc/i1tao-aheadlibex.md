@@ -45,7 +45,11 @@ To adopt i1tao/AheadLibEx, developers should:
 
 **Production Readiness:**
 
-i1tao/AheadLibEx is rated as medium in terms of production readiness. While it shows promise, its integration path is not immediately obvious, and its
+i1tao/AheadLibEx is rated as medium in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/i1tao/AheadLibEx).
 
 ### Русский
 

@@ -41,7 +41,10 @@ The production readiness of krateng/maloja is high due to:
 
 1. Strong adoption, with 1770 GitHub stars and 93 forks.
 2. Recent activity, with the project updated on August 10, 2026.
-3. A robust ecosystem, with a primary language of Python and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/krateng/maloja).
 
 ### Русский
 

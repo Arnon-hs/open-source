@@ -50,7 +50,10 @@ ISON-format/ison has demonstrated high production readiness due to:
 
 1. Recent activity, indicating ongoing maintenance and development.
 2. Strong adoption, as reflected in 127 GitHub stars and 9 forks.
-3. A
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ISON-format/ison).
 
 ### Русский
 

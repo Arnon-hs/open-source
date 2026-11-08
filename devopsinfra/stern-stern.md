@@ -38,9 +38,9 @@ DevOps/Infra
 3. **Verify Dependencies and Maintenance**: Before moving to production, thoroughly inspect Stern's dependencies, maintenance requirements, and documentation.
 4. **Verify License and Release Cadence**: Ensure that Stern's license is suitable for your organization and that the project has a stable release cadence.
 
-**Production Readiness:** Stern's production readiness is medium due to the following factors:
+## Before adopting
 
-1. **Limited Quality Signals**: The project's quality signals are sparse, making it essential to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/stern/stern).
 
 ### Русский
 

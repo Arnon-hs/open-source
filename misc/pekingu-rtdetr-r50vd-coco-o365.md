@@ -41,7 +41,10 @@ To adopt PekingU/rtdetr_r50vd_coco_o365, users should follow these steps:
 
 1. **Manual Inspection**: Carefully review the model's documentation, GitHub repository, and integration metadata to ensure it meets their project requirements.
 2. **Verify Quality Signals**: Assess the model's quality signals, including GitHub stars, last update date, and primary language, to gauge its reliability.
-3. **Evaluate License and Maintenance**: Verify the model's license, maintenance status, and release cadence to ensure it aligns with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/PekingU/rtdetr_r50vd_coco_o365).
 
 ### Русский
 

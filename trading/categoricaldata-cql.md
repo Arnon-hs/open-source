@@ -64,7 +64,10 @@ CategoricalData/CQL 的生产可用性非常高，主要原因包括：
 
 * 近期的活跃度：项目最近有更新，表明项目仍然活跃和维护。
 * adoption 和生态系统信号：项目有 357 个 GitHub Star 和 27 个 fork，表明项目有广泛的采用和生态系统支持。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/CategoricalData/CQL)。
 
 ## 🧭 Practical evaluation
 

@@ -41,7 +41,11 @@ To adopt Mapbox Maps iOS, start by evaluating its README and activity to ensure 
 
 **Production Readiness:**
 
-Mapbox Maps iOS has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, before deploying it in production, it's crucial to perform dependency and maintenance checks to ensure stability and
+Mapbox Maps iOS has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mapbox/mapbox-maps-ios).
 
 ### Русский
 

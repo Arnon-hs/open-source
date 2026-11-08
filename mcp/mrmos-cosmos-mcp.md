@@ -41,7 +41,9 @@ As for the practical adoption path, users can start by:
 4. Testing the project in a controlled environment, such as a prototype or internal workflow.
 5. Performing dependency and maintenance checks before deploying the project in production.
 
-By following this adoption path, users can effectively leverage the Unofficial Cosmos.so MCP to standardize integrations and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mrmos/cosmos-mcp).
 
 ### Русский
 

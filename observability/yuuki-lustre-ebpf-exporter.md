@@ -40,7 +40,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully inspect the project's code, documentation, and issues to understand its functionality and any potential limitations.
 2. **Verify Quality Signals**: Review the project's quality signals, such as its update frequency, topic count, and release cadence, to gauge its reliability and maintenance.
 3. **Check Dependencies**: Verify the project's dependencies and ensure they are compatible with your existing infrastructure.
-4. **Test and Evaluate**: Test the project in a controlled environment to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yuuki/lustre-ebpf-exporter).
 
 ### Русский
 

@@ -40,7 +40,10 @@ The practical adoption path for autobrr/qui involves the following steps:
 1. Evaluate the project by checking the README and conducting a small proof of concept to gauge its feasibility.
 2. Assess the project's license, security posture, and active maintainers to ensure they align with your organization's requirements.
 3. Pilot autobrr/qui in a controlled environment to test its performance and identify any potential issues.
-4. Integrate autobrr/qui into your production environment, taking into account any necessary configuration and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/autobrr/qui).
 
 ### Русский
 

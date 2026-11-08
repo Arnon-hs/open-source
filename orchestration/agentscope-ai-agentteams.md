@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt AgentTeams, users can start by exploring the project's documentation and trying out the Matrix rooms integration. They should manually inspect the integration signals and review the license, security posture, and active maintainers before adoption. As the project is production-ready, users can consider it for serious pilot projects and gradually scale up their adoption.
 
-**Production Readiness:** AgentTeams has strong production readiness signals, including recent activity, adoption, and ecosystem signals. With 5227 GitHub stars and 626 forks, the project has
+**Production Readiness:** AgentTeams has strong production readiness signals, including recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/agentscope-ai/AgentTeams).
 
 ### Русский
 

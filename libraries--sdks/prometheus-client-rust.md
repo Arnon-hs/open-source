@@ -45,7 +45,11 @@ To adopt prometheus/client_rust, developers can follow these steps:
 
 **Production Readiness:**
 
-While prometheus/client_rust has a medium production readiness score, it can still be used in production environments with caution. The library has a good number of GitHub stars and
+While prometheus/client_rust has a medium production readiness score, it can still be used in production environments with caution.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/prometheus/client_rust).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The primary value of Velorn lies in its ability to standardize integrations betw
 
 **Practical Adoption Path**
 
-To adopt Velorn, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then connect AI agents to tools using the MCP protocol. For a more in-depth integration, developers can ship Model Context Protocol servers and standardize their integrations. The project's recent activity and adoption signals indicate that it is a stable and mature solution, making it an attractive choice for organizations looking to
+To adopt Velorn, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then connect AI agents to tools using the MCP protocol. For a more in-depth integration, developers can ship Model Context Protocol servers and standardize their integrations.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/VelornLabs/velorn).
 
 ### Русский
 

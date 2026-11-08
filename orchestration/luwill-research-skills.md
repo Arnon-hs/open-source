@@ -38,7 +38,10 @@ To adopt luwill/research-skills, users can follow these steps:
 
 1. **Manual Inspection**: Carefully review the project's documentation, code, and integration notes to ensure it aligns with their research needs.
 2. **Dependency and Maintenance Checks**: Verify that the project's dependencies are up-to-date and that the maintainers are actively working on the project.
-3. **Prototype or Internal Workflow**: Start by using luwill/research-skills in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/luwill/research-skills).
 
 ### Русский
 

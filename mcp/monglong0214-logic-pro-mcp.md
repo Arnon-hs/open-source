@@ -40,7 +40,10 @@ The adoption path for this project involves several steps:
 1. **Evaluation**: Developers can evaluate the project by reviewing its implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. **Integration**: Once evaluated, developers can integrate the project into their workflows by connecting AI agents to various tools.
 3. **Testing**: Developers should test the integration to ensure it meets their requirements and is stable.
-4. **Maintenance**: Regular maintenance checks are necessary to ensure the project remains secure and up-to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MongLong0214/logic-pro-mcp).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the Zephyr project:
 
 **Practical Adoption Path:** The adoption path for Zephyr appears straightforward, with clear implementation signals such as API/SDK/CLI, language metadata, and focused topics. Developers can evaluate Zephyr by exploring its GitHub repository, which has a strong signal of recent activity, adoption, and ecosystem signals.
 
-**Production Readiness:** Zephyr has high production readiness, with a strong ecosystem, recent activity, and adoption signals. The project has 651 GitHub stars, 40 forks, and has been updated recently (2026-07-23). While there are some risks associated with the
+**Production Readiness:** Zephyr has high production readiness, with a strong ecosystem, recent activity, and adoption signals. The project has 651 GitHub stars, 40 forks, and has been updated recently (2026-07-23).
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Juwan-Hwang/Zephyr).
 
 ### Русский
 

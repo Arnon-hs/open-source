@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt ServiceStack, users should start with a small proof of concept and carefully review the README documentation to understand the integration process. This will help mitigate potential risks associated with integration. Once familiar with the project, developers can begin building AI features, agent workflows, or evaluating model tooling.
 
-**Production Readiness:** ServiceStack is considered production-ready due to its recent activity, strong adoption, and robust ecosystem signals. With over 5,500 GitHub stars and 1,608 forks, the project demonstrates a significant level of community involvement and support. This, combined with its high-quality codebase and strong language support (C#), makes ServiceStack an
+**Production Readiness:** ServiceStack is considered production-ready due to its recent activity, strong adoption, and robust ecosystem signals. With over 5,500 GitHub stars and 1,608 forks, the project demonstrates a significant level of community involvement and support.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ServiceStack/ServiceStack).
 
 ### Русский
 
@@ -59,11 +63,9 @@ ServiceStack/ServiceStack 的价值在于，它可以帮助开发者快速添加
 2. 运行一个小规模的原型验证，以测试项目的功能和性能。
 3. 根据README文档，配置和集成项目。
 
-**生产可用性**
+## 采用前检查
 
-ServiceStack/ServiceStack 的生产可用性很高，因为它具有以下特点：
-
-1.
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/ServiceStack/ServiceStack)。
 
 ## 🧭 Practical evaluation
 

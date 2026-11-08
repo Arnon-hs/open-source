@@ -44,9 +44,9 @@ To adopt GuillaumeFalourd/useful-actions, developers can follow these steps:
 3. Integrate the chosen GitHub Actions into their existing workflows, following the provided examples and documentation.
 4. Schedule operational tasks and repeatable flows to automate repetitive tasks.
 
-**Production Readiness**
+## Before adopting
 
-GuillaumeFalourd/useful-actions has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GuillaumeFalourd/useful-actions).
 
 ### Русский
 

@@ -35,7 +35,11 @@ The epicweb-dev/epic-stack is an open-source, full-stack app starter that enable
 
 **Practical Adoption Path:** To adopt this project, start by reviewing the README and evaluating its feasibility through a small proof of concept. Once you're comfortable with the code, you can use it as a foundation for your next project. The project's recent activity and strong adoption signals suggest that it's a reliable choice for serious pilots and production environments.
 
-**Production Readiness:** The epicweb-dev/epic-stack has a high production readiness score, indicating that it's a mature and reliable project. Its recent activity, adoption, and ecosystem signals are strong, and it has a large community of
+**Production Readiness:** The epicweb-dev/epic-stack has a high production readiness score, indicating that it's a mature and reliable project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/epicweb-dev/epic-stack).
 
 ### Русский
 

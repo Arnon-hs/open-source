@@ -44,9 +44,9 @@ To adopt the particle-cli, engineers can follow these steps:
 3. **Integrate with CI/CD tools**: Automate local engineering tasks and CI feedback by integrating the CLI with existing CI/CD tools.
 4. **Test and refine**: Test the CLI in a production environment and refine its usage as needed to optimize development workflows.
 
-**Production Readiness**
+## Before adopting
 
-The particle-cli has demonstrated high production readiness due to its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/particle-iot/particle-cli).
 
 ### Русский
 

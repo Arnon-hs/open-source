@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the open-source project Ingot:
 
 **Practical Adoption Path:** Before adopting Ingot, users should carefully inspect the project's metadata, verify the license, maintenance, documentation, issues, and release cadence. This will help ensure that the project meets their specific needs and requirements. Once verified, users can start exploring Ingot's features and integrating it into their workflows. For production readiness, users should also conduct thorough dependency and maintenance checks to ensure that Ingot can be reliably used in a production environment.
 
-**Production Readiness:** Ingot is considered to be at
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SlanchaAI/ingot).
 
 ### Русский
 

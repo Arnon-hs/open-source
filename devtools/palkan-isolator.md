@@ -42,7 +42,10 @@ As for practical adoption, the recommended path involves:
 Production readiness is rated as "Medium" due to the following factors:
 
 * The project is useful for prototypes or internal workflows, but may require additional checks and validation before being deployed in production.
-* The integration path is not immediately obvious from the metadata, which
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/palkan/isolator).
 
 ### Русский
 

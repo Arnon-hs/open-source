@@ -80,7 +80,10 @@ Arista AVD 在生产环境中的可用性很高，主要原因是：
 * 有活跃的开发者社区。
 * 有足够的 GitHub 星星（399 个）和 Forks（277 个）。
 * 最近有更新（2026-06-30）。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/aristanetworks/avd)。
 
 ## 🧭 Practical evaluation
 

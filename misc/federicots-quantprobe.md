@@ -39,7 +39,9 @@ The practical adoption path for this project involves manual inspection and veri
 4. Issues: Review the project's issue tracker to understand the types of issues encountered and how they were addressed.
 5. Dependency and integration checks: Ensure that the project's dependencies are up-to-date and compatible with your organization's infrastructure.
 
-Once these aspects are verified, you can
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/FedericoTs/quantprobe).
 
 ### Русский
 

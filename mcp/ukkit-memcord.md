@@ -63,11 +63,9 @@ ukkit/memcord提供了API/SDK/CLI等接入方式，开发者可以根据自己�
 * SDK：提供SDK包，方便开发者在自己的应用中集成ukkit/memcord。
 * CLI：提供命令行接口，方便开发者进行管理和操作。
 
-**生产可用性**
+## 采用前检查
 
-ukkit/memcord的生产可用性较高，主要原因是：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/ukkit/memcord)。
 
 ## 🧭 Practical evaluation
 

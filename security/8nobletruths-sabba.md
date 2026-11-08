@@ -38,9 +38,9 @@ As for the practical adoption path, here's a suggested step-by-step guide:
 3. **Integration and testing**: Integrate Sabba into your development workflow and test it thoroughly to ensure it works as expected and doesn't introduce any new issues.
 4. **Dependency and maintenance checks**: Perform regular dependency and maintenance checks to ensure Sabba remains secure and up-to-date.
 
-Regarding production readiness, Sabba is suitable for use in:
+## Before adopting
 
-1. **Prototypes**: Sabba can
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/8NobleTruths/sabba).
 
 ### Русский
 

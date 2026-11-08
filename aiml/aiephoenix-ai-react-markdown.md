@@ -33,7 +33,9 @@ AI/ML · Communication · Documents · Frontend · Design
 
 **Practical Adoption Path:** To adopt AIEPhoenix/ai-react-markdown, developers should start with a small proof of concept and README check to evaluate its feasibility. This will involve integrating the library into a small project and testing its features and functionality. Once the proof of concept is successful, developers can scale up the adoption by connecting tools into repeatable flows and scheduling operational tasks.
 
-**Production Readiness:** AIEPhoenix/ai-react-markdown has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows but may require additional dependency and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AIEPhoenix/ai-react-markdown).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will give them an idea of how to integrate the app into their existing projects. Once they have a clear understanding of the app's capabilities, they can begin integrating it into their production environment.
 
-**Production Readiness:** The project has a high level of production readiness, with recent activity, adoption, and ecosystem signals indicating strong support. With 351 GitHub stars, 81 forks, and regular updates, the project demonstrates a healthy community and a commitment to ongoing development. However, developers should still conduct a final review of the
+**Production Readiness:** The project has a high level of production readiness, with recent activity, adoption, and ecosystem signals indicating strong support. With 351 GitHub stars, 81 forks, and regular updates, the project demonstrates a healthy community and a commitment to ongoing development.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openwisp/django-x509).
 
 ### Русский
 
@@ -71,7 +75,10 @@ openwisp/django-x509 的生产可用性较高，主要原因是：
 
 * 近期活动：最近更新于 2026-08-04
 * 广泛采用：351 个 GitHub 星和 81 个分支
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/openwisp/django-x509)。
 
 ## 🧭 Practical evaluation
 

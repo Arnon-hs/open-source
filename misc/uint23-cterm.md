@@ -40,7 +40,11 @@ Cterm is an open-source terminal emulator that offers a unique value proposition
 3. **Dependency and Maintenance Checks:** Evaluate the project's dependencies and ensure they align with your workflow requirements.
 4. **Prototype or Internal Use:** Use Cterm in a controlled environment, such as a prototype or internal workflow, before considering production deployment.
 
-**Production Readiness:** Cterm has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows with proper evaluation and verification. However, its limited quality signals and sparse integration signals require careful consideration before deploying it in
+**Production Readiness:** Cterm has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows with proper evaluation and verification.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/uint23/cterm).
 
 ### Русский
 

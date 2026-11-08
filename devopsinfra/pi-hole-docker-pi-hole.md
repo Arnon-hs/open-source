@@ -41,7 +41,11 @@ The adoption path for Pi-hole/docker-pi-hole is relatively straightforward. User
 
 **Production Readiness**
 
-Pi-hole/docker-pi-hole has a high production readiness score, with recent activity, adoption, and ecosystem signals indicating a strong and stable project. The project's GitHub repository has over 11,000 stars and
+Pi-hole/docker-pi-hole has a high production readiness score, with recent activity, adoption, and ecosystem signals indicating a strong and stable project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pi-hole/docker-pi-hole).
 
 ### Русский
 

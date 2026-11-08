@@ -35,7 +35,9 @@ Here is a brief summary and analysis of the open-source project omikuji-launcher
 
 **Practical Adoption Path:** To adopt omikuji, developers should first manually inspect the project's metadata to ensure a smooth integration process. Due to the sparse integration signals in the metadata, it is essential to validate the setup cost before committing to the project. This may involve conducting a thorough analysis of the project's dependencies and maintenance requirements.
 
-**Production Readiness:** Omikuji has a medium production readiness score, indicating that it is suitable for internal workflows or prototype development, but may not be ready for widespread production use without further validation and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/omikuji-launcher/omikuji).
 
 ### Русский
 

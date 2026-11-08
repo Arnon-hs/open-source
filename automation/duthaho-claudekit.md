@@ -45,7 +45,11 @@ To adopt Claudekit, users can follow these steps:
 
 **Production Readiness:**
 
-Claudekit is considered production-ready, but with some caveats. While it has a high level of GitHub activity and a stable primary language (JavaScript), there are still risks associated with its license, security posture, and
+Claudekit is considered production-ready, but with some caveats.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/duthaho/claudekit).
 
 ### Русский
 

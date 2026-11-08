@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project's value, adoption path, an
 
 **Adoption Path:** To adopt this project, users need to manually inspect the README and activity to determine if it aligns with their specific needs. This requires a certain level of technical expertise and a willingness to validate the setup cost before committing to the project. Additionally, users should be aware of the potential risks, including the lack of obvious integration paths and the need for maintenance checks.
 
-**Production Readiness:** The project is considered to have medium production readiness, making it suitable for prototypes or internal workflows. However, users should perform dependency and maintenance checks before deploying it in a production environment. This ensures that
+**Production Readiness:** The project is considered to have medium production readiness, making it suitable for prototypes or internal workflows. However, users should perform dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/r-selfhosted/wiki).
 
 ### Русский
 

@@ -36,7 +36,10 @@ Observability
 1. **Manual Inspection**: Before adopting the nginx/nginx-prometheus-exporter, it's essential to manually inspect the integration signals and metadata to ensure a smooth deployment.
 2. **Review License and Security Posture**: Conduct a thorough review of the project's license and security posture to ensure they align with your organization's standards.
 3. **Evaluate Active Maintainers**: Verify that the project has active maintainers and a strong community to ensure ongoing support and updates.
-4. **Pilot Deployment**: Once you've addressed the above concerns, deploy the exporter in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nginx/nginx-prometheus-exporter).
 
 ### Русский
 

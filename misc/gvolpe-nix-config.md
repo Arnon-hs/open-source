@@ -77,7 +77,10 @@ gvolpe/nix-config 是一个开源项目，提供 NixOS 配置管理的解决方�
 该项目的生产可用性为中等（Medium）。它适用于以下场景：
 
 * Prototypes 或内部工作流程
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/gvolpe/nix-config)。
 
 ## 🧭 Practical evaluation
 

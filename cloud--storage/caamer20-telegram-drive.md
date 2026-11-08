@@ -74,7 +74,10 @@ Telegram-Drive 可以通过以下方式接入：
 Telegram-Drive 的生产可用性很高，具有以下特点：
 
 * **活跃维护**:最近有更新，表明该项目仍在活跃维护中。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/caamer20/Telegram-Drive)。
 
 ## 🧭 Practical evaluation
 

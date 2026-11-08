@@ -40,7 +40,10 @@ The value proposition of leebaird/discover lies in its ability to simplify the p
 To adopt leebaird/discover, users can follow a step-by-step approach:
 
 1. **Evaluate the project:** Review the project's README, documentation, and GitHub activity to understand its capabilities and limitations.
-2. **Prototype AI features:** Use the provided scripts and tools to prototype AI features and workflows, and evaluate their effectiveness in meeting your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/leebaird/discover).
 
 ### Русский
 

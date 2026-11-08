@@ -65,7 +65,10 @@ omegaee/my-fingerprint 帮助您在工作流程的早期阶段发现安全和隐
 omegaee/my-fingerprint 已经被认为是高生产可用性的开源项目，具有以下特点：
 
 * 最近的活动和采用率强劲
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/omegaee/my-fingerprint)。
 
 ## 🧭 Practical evaluation
 

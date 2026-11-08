@@ -40,10 +40,9 @@ To adopt pytest-dev/pytest-asyncio, follow these steps:
 3. Review the plugin's quality signals, including GitHub stars, forks, and updates.
 4. Conduct a final review of the plugin's license, security posture, and maintainers.
 
-**Production Readiness:**
-pytest-dev/pytest-asyncio is considered production-ready due to its:
+## Before adopting
 
-* Strong adoption (1648 GitHub stars and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pytest-dev/pytest-asyncio).
 
 ### Русский
 

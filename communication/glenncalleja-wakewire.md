@@ -39,9 +39,9 @@ The primary value of WakeWire lies in its ability to simplify the integration of
 
 To adopt WakeWire, developers should begin by manually inspecting the integration signals to ensure they meet their specific needs. Once satisfied, they can integrate WakeWire into their workflows, starting with prototyping AI features or building RAG or agent workflows. Before moving to production, developers should verify the project's license, maintenance, documentation, issues, and release cadence to ensure stability and support.
 
-**Production Readiness:**
+## Before adopting
 
-WakeWire has a medium production readiness score, indicating that it is useful for prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/glenncalleja/wakewire).
 
 ### Русский
 

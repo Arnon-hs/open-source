@@ -46,7 +46,11 @@ To adopt ShenSeanChen/launch-rag, users can follow these steps:
 
 **Production Readiness:**
 
-The production readiness of ShenSeanChen/launch-rag is rated as medium. While it is useful for
+The production readiness of ShenSeanChen/launch-rag is rated as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ShenSeanChen/launch-rag).
 
 ### Русский
 

@@ -41,7 +41,10 @@ To adopt Soofi, users should follow a careful evaluation process:
 
 1. **Manual Inspection:** Carefully review the project's code, documentation, and issues to ensure it meets your requirements and expectations.
 2. **Dependency Checks:** Verify that Soofi's dependencies are up-to-date and compatible with your project's ecosystem.
-3. **Maintenance Checks:** Review the project's release cadence, license, and maintenance history to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/soofi-project/Soofi-Pretraining).
 
 ### Русский
 

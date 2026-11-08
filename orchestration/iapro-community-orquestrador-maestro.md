@@ -38,7 +38,10 @@ To adopt IAPro-Community/Orquestrador-Maestro, users can follow these steps:
 
 1. Evaluate the kit's API, SDK, and CLI to understand its implementation signals.
 2. Review the kit's language metadata and focused topics to ensure compatibility with existing projects.
-3. Integrate the kit with their preferred AI models and tools, such as
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/IAPro-Community/Orquestrador-Maestro).
 
 ### Русский
 

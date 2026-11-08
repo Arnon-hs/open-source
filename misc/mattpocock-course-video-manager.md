@@ -42,8 +42,9 @@ To adopt this project, users will need to:
 2. Validate the setup cost to ensure it aligns with their project requirements.
 3. Carefully integrate the code into their workflow, considering potential risks and maintenance needs.
 
-**Production Readiness:**
-While mattpocock/course-video-manager has a medium production readiness, it is best suited for prototype development or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mattpocock/course-video-manager).
 
 ### Русский
 

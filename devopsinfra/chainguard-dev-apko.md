@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt chainguard-dev/apko, developers should start with a small proof of concept to evaluate its feasibility and effectiveness. A thorough review of the README documentation is also recommended to ensure a smooth integration process. With its strong adoption and ecosystem signals, chainguard-dev/apko is a viable candidate for pilot projects, making it a practical choice for developers looking to add AI capabilities to their applications.
 
-**Production Readiness:** With
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/chainguard-dev/apko).
 
 ### Русский
 

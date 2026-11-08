@@ -40,7 +40,11 @@ Here's a brief summary of the open-source project:
 3. **Prototype Development:** Start with a prototype to test the project's capabilities and identify potential issues.
 4. **Internal Workflow Integration:** Once the prototype is stable, integrate the project into internal workflows to refine its implementation and optimize its performance.
 
-**Production Readiness:** Due to limited quality signals and sparse integration metadata, the project has a medium production readiness. It is recommended for use in prototype development or internal workflows, with careful consideration of
+**Production Readiness:** Due to limited quality signals and sparse integration metadata, the project has a medium production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Kosmoray/dayan-agent-skills).
 
 ### Русский
 

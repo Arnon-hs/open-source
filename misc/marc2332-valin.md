@@ -41,7 +41,11 @@ To adopt Valin, developers should start with a small proof of concept and thorou
 
 **Production Readiness:**
 
-Valin is considered medium production-ready, making it suitable for prototypes or internal workflows. However, before deploying it in production, developers should carefully evaluate its dependencies and maintenance requirements. This will ensure that Valin can handle the demands of a production environment and
+Valin is considered medium production-ready, making it suitable for prototypes or internal workflows. However, before deploying it in production, developers should carefully evaluate its dependencies and maintenance requirements.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/marc2332/valin).
 
 ### Русский
 

@@ -33,7 +33,11 @@ DevTools · DevOps/Infra
 
 **Practical Adoption Path:** To adopt helm-unittest, engineers can start by integrating it into their existing Helm development workflow. This involves installing the plugin, configuring it to work with their Helm charts, and writing unit tests using the BDD style. As they become more comfortable with the tool, they can explore its advanced features and use cases, such as automating local engineering tasks and improving CI feedback.
 
-**Production Readiness:** helm-unittest is considered production-ready due to its recent activity, strong adoption, and robust ecosystem. With over 1,380 GitHub stars and
+**Production Readiness:** helm-unittest is considered production-ready due to its recent activity, strong adoption, and robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/helm-unittest/helm-unittest).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The primary value of this project lies in its ability to turn AI assistants into
 
 To adopt this project, users will need to manually inspect the integration signals and metadata to ensure a smooth setup. This may involve some trial and error, as the integration path is not immediately obvious from the metadata. Once the setup is validated, users can begin to integrate the skills into their AI workflows, starting with prototypes or internal projects where the risks and costs associated with setup can be more easily managed.
 
-**Production Readiness:**
+## Before adopting
 
-The project is considered "Medium" in terms of production readiness, indicating that it is suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/machinesoul11/anti-sycophant-ai-agent-skills).
 
 ### Русский
 

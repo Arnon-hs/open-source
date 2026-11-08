@@ -42,7 +42,10 @@ To adopt BiglionX/SkillHub, follow these steps:
 1. Evaluate the platform by reviewing the README documentation and performing a small proof of concept.
 2. Assess the dependencies and maintenance requirements to ensure they align with your organization's needs.
 3. Deploy the platform using Docker and configure it to meet your specific use case.
-4. Integrate the AI skills into your existing system, leveraging the platform's multi-tenancy and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/BiglionX/SkillHub).
 
 ### Русский
 

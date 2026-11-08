@@ -46,7 +46,11 @@ To adopt CodexGuide, developers can follow these steps:
 
 **Production Readiness**
 
-CodexGuide is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, it's essential to perform thorough dependency and maintenance checks before deploying it to production. This will ensure a
+CodexGuide is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, it's essential to perform thorough dependency and maintenance checks before deploying it to production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/freestylefly/CodexGuide).
 
 ### Русский
 

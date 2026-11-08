@@ -39,7 +39,10 @@ Developers can adopt yapsnap by following these steps:
 1. Evaluate the tool: Review the project's documentation, GitHub activity, and community engagement to ensure it meets their needs.
 2. Integrate yapsnap: Use the provided API/SDK/CLI to integrate yapsnap into their project.
 3. Test and refine: Test yapsnap with their specific use cases and refine the integration as needed.
-4. Deploy and maintain: Deploy yapsnap in their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kouhxp/yapsnap).
 
 ### Русский
 

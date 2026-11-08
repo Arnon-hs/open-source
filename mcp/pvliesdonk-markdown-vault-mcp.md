@@ -38,8 +38,9 @@ The project's value lies in its ability to standardize integrations between AI a
 **Practical Adoption Path:**
 To adopt this project, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then assess its production readiness, considering factors like dependency and maintenance checks. After that, they can integrate the project into their existing workflows, starting with prototypes or internal projects, and gradually scaling up to production environments.
 
-**Production Readiness:**
-The project has a medium production readiness score, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pvliesdonk/markdown-vault-mcp).
 
 ### Русский
 

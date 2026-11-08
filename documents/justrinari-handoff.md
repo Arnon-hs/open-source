@@ -44,9 +44,9 @@ To adopt this project, users should follow these steps:
 3. Verify the project's license, maintenance, documentation, issues, and release cadence.
 4. Integrate the project into their existing workflow, taking care to address any dependency and maintenance checks.
 
-**Production Readiness:**
+## Before adopting
 
-The production readiness of this
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/justrinari/handoff).
 
 ### Русский
 

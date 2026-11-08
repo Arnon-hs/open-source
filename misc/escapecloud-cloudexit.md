@@ -40,7 +40,11 @@ Cloudexit is an open-source project that helps evaluate the readiness of cloud i
 
 **Production Readiness:**
 
-Cloudexit is considered medium-ready for production use cases. Its usefulness is most apparent in prototype or internal workflows, where the project's limitations can be mitigated. Before deploying Cloudexit in production, it is essential to verify the project's license, maintenance, documentation, issues, and release cadence to
+Cloudexit is considered medium-ready for production use cases. Its usefulness is most apparent in prototype or internal workflows, where the project's limitations can be mitigated.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/escapecloud/cloudexit/).
 
 ### Русский
 

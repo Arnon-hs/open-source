@@ -39,7 +39,11 @@ The practical adoption path for Vaadin Flow involves the following steps:
 2. Start with a small proof of concept to test the integration and validate the setup cost.
 3. Conduct dependency and maintenance checks before committing to production.
 
-In terms of production readiness, Vaadin Flow has a moderate level, indicating that it can be useful for prototypes or internal workflows, but requires careful evaluation and integration before being used in production. This is reflected in the project's score of 61/100, which
+In terms of production readiness, Vaadin Flow has a moderate level, indicating that it can be useful for prototypes or internal workflows, but requires careful evaluation and integration before being used in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vaadin/flow).
 
 ### Русский
 

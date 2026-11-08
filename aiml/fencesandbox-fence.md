@@ -86,7 +86,9 @@ fencesandbox/fence 的生产可用性评分为高（66/100），主要原因是�
 * 强大的生态系统信号
 * 高质量的 GitHub star 和 fork 数量
 
-但是，
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/fencesandbox/fence)。
 
 ## 🧭 Practical evaluation
 

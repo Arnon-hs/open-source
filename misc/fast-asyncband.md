@@ -33,7 +33,11 @@ The fast/asyncband crate offers a set of concurrency control and async coordinat
 
 As for the practical adoption path, it is recommended to start with a small proof of concept and carefully read the README documentation to understand the integration process. This will help developers evaluate the setup cost and validate the integration path before committing to the project. Given its open-source nature and relatively low production readiness score, it's essential to weigh the benefits against potential risks and challenges before adopting fast/asyncband in production.
 
-In terms of production readiness, fast/asyncband has a medium readiness score, indicating that it is useful for prototypes or internal workflows but requires further evaluation and maintenance checks before being used in production environments. With 210 GitHub stars and 16 forks, the project has a moderate level of community engagement, but its relatively low score suggests that it may still be
+In terms of production readiness, fast/asyncband has a medium readiness score, indicating that it is useful for prototypes or internal workflows but requires further evaluation and maintenance checks before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fast/asyncband).
 
 ### Русский
 

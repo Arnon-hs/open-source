@@ -42,8 +42,9 @@ To adopt Tracker, developers can follow these steps:
 4. Integrate Tracker into your project, starting with a proof-of-concept or prototype.
 5. Evaluate the project's performance and scalability in your production environment.
 
-**Production Readiness:**
-Tracker has a medium production readiness score, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/chicagobuss/tracker/).
 
 ### Русский
 

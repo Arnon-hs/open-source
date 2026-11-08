@@ -74,11 +74,9 @@ coda0HQ/open-artifacts 帮助开发者在不从零搭建模型栈的情况下添
 
 coda0HQ/open-artifacts 的生产可用性为中等（Medium）。它适合用于快速原型或内部工作流，需要在生产环境中进行依赖项和维护检查。
 
-**注意事项**
+## 采用前检查
 
-在使用 coda0HQ/open-artifacts 之前，请完成以下步骤：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/coda0HQ/open-artifacts)。
 
 ## 🧭 Practical evaluation
 

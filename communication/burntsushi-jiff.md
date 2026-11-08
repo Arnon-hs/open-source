@@ -35,7 +35,11 @@ The value of BurntSushi/jiff lies in its ability to facilitate the creation of s
 
 The practical adoption path for BurntSushi/jiff involves starting with a small proof of concept and carefully evaluating the integration process. This should include checking the README documentation and validating the setup cost before committing to a larger-scale implementation. With its recent activity and strong adoption, BurntSushi/jiff is well-positioned for serious pilots and potential large-scale adoption.
 
-BurntSushi/jiff's production readiness is high due to its recent activity, strong adoption, and ecosystem signals. Its primary language, Rust, is a popular choice for many applications, and the library's 2,759 GitHub stars and 105 forks indicate a significant level of interest and
+BurntSushi/jiff's production readiness is high due to its recent activity, strong adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/BurntSushi/jiff).
 
 ### Русский
 

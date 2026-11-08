@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project docmd-io/docmd:
 
 **Practical Adoption Path:** To adopt docmd-io/docmd, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can also explore its use cases, including connecting AI agents to tools and standardizing integrations. With a straightforward evaluation process, developers can easily integrate docmd-io/docmd into their projects.
 
-**Production Readiness:** docmd-io/docmd is considered production-ready, with a high score of 84/100. It has recently seen activity, adoption, and strong ecosystem signals, indicating its stability and
+**Production Readiness:** docmd-io/docmd is considered production-ready, with a high score of 84/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/docmd-io/docmd).
 
 ### Русский
 

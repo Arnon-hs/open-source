@@ -36,8 +36,9 @@ The encodeous/nylon project offers significant value by providing a pre-built AI
 **Practical Adoption Path:**
 To adopt the encodeous/nylon project, developers can start by evaluating its feasibility through a small proof of concept and checking the README documentation. Given its recent activity and strong ecosystem signals, a serious pilot can be initiated with confidence. The project's adoption is facilitated by its high production readiness, recent updates, and a strong community of contributors.
 
-**Production Readiness:**
-The encodeous/nylon project exhibits high production readiness, with strong signals indicating its suitability for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/encodeous/nylon).
 
 ### Русский
 

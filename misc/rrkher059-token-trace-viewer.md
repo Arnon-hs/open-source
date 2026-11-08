@@ -44,9 +44,9 @@ To adopt this CLI tool, developers should:
 3. Update their project's dependencies and perform maintenance checks before production.
 4. Use the tool to prototype and build AI features, and evaluate its effectiveness in their workflows.
 
-**Production Readiness**
+## Before adopting
 
-The CLI tool has a medium production readiness score, indicating that it is suitable for use in prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rrkher059/token-trace-viewer).
 
 ### Русский
 

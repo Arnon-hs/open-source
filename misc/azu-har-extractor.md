@@ -41,7 +41,11 @@ The HAR Extractor offers value when its specific use case matches the project's 
 3. **Evaluate and Test**: Evaluate the project's quality signals and test it in a controlled environment before adopting it for production use.
 
 **Production Readiness:**
-The HAR Extractor has a moderate production readiness score of 5 out of 10. It can be
+The HAR Extractor has a moderate production readiness score of 5 out of 10.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/azu/har-extractor).
 
 ### Русский
 

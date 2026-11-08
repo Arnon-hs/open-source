@@ -43,8 +43,9 @@ To adopt GetStream/stream-cli, developers can follow these steps:
 4. Automate local engineering tasks and integrate the tool with their CI/CD pipelines.
 5. Monitor and refine the tool's performance to optimize their workflows.
 
-**Production Readiness:**
-GetStream/stream-cli has a high production readiness score, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GetStream/stream-cli).
 
 ### Русский
 

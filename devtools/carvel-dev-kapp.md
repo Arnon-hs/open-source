@@ -46,7 +46,11 @@ To adopt Kapp, engineers can follow these steps:
 
 **Production Readiness:**
 
-Kapp has demonstrated high production readiness, thanks to recent activity, strong adoption, and a robust ecosystem. With 1073 GitHub stars, 133 forks, and regular updates, the project has a solid foundation for
+Kapp has demonstrated high production readiness, thanks to recent activity, strong adoption, and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/carvel-dev/kapp).
 
 ### Русский
 

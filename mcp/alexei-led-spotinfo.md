@@ -38,7 +38,10 @@ The alexei-led/spotinfo project is an open-source CLI tool for exploring AWS EC2
 1. **Evaluate the tool:** Assess the project's implementation signals, such as its API/SDK/CLI, language metadata, and focused topics, to determine its suitability for your use case.
 2. **Review the documentation:** Study the project's documentation to understand its features, usage, and configuration options.
 3. **Integrate with AI assistants:** Use the project's standard protocol to connect your AI assistants with real-world tools and data.
-4. **Test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/alexei-led/spotinfo).
 
 ### Русский
 

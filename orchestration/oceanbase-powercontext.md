@@ -44,9 +44,9 @@ To adopt powercontext, users can follow these steps:
 3. Review the project's quality signals, such as its GitHub stars, forks, and language metadata.
 4. Conduct a final review of the project's license, security posture, and maintainers to ensure it meets their organization's requirements.
 
-**Production Readiness**
+## Before adopting
 
-Oceanbase/powercontext has a high production readiness score due to its recent activity, adoption, and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/oceanbase/powercontext).
 
 ### Русский
 

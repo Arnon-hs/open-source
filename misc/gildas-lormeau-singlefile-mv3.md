@@ -37,7 +37,11 @@ The primary value proposition of gildas-lormeau/SingleFile-MV3 lies in its abili
 To adopt gildas-lormeau/SingleFile-MV3, teams should start with a small proof of concept and thoroughly review the README documentation. This will help evaluate the integration path and identify potential setup costs. Once the feasibility of the project is established, teams can proceed with a more thorough evaluation and potential production adoption.
 
 **Production Readiness:**
-The project has a medium level of production readiness, making it suitable for prototypes or internal workflows. However, before committing to
+The project has a medium level of production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gildas-lormeau/SingleFile-MV3).
 
 ### Русский
 

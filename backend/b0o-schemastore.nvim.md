@@ -69,7 +69,10 @@ b0o/SchemaStore.nvim 的生产可用性较高，主要原因是：
 * 广泛的采用
 * 强大的生态系统支持
 * 高质量的代码（1013 GitHub stars 和 21 forks）
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/b0o/SchemaStore.nvim)。
 
 ## 🧭 Practical evaluation
 

@@ -46,7 +46,11 @@ To adopt this project, developers can start by:
 
 **Production Readiness**
 
-The project has a high production readiness score, with strong signals indicating its reliability and maintainability. With
+The project has a high production readiness score, with strong signals indicating its reliability and maintainability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted).
 
 ### Русский
 

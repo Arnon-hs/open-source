@@ -35,7 +35,11 @@ Here's a brief summary of the miunasu/Spore project:
 
 **Practical Adoption Path:** To adopt miunasu/Spore, developers should first review the project's metadata, particularly its license, security posture, and maintenance status. Once they've ensured the project is suitable for their needs, they can integrate it into their workflow and customize it as required. Due to sparse integration signals in the metadata, manual inspection is necessary before adoption.
 
-**Production Readiness:** miunasu/Spore has a medium production readiness score, indicating that it's suitable for internal workflows and prototyping, but not yet ready for production use without further evaluation and dependency checks. Its primary language is Python, and
+**Production Readiness:** miunasu/Spore has a medium production readiness score, indicating that it's suitable for internal workflows and prototyping, but not yet ready for production use without further evaluation and dependency checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/miunasu/Spore).
 
 ### Русский
 

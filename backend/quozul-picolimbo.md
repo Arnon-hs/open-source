@@ -42,7 +42,10 @@ To adopt Quozul/PicoLimbo, teams can follow these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets their requirements.
 2. Assess the project's production readiness, including its recent activity, adoption, and ecosystem signals.
 3. Review the project's license, security posture, and active maintainers to ensure they align with the team's needs.
-4. Integrate Quozul/PicoLimbo into their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Quozul/PicoLimbo).
 
 ### Русский
 

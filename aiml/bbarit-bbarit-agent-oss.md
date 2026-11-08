@@ -42,7 +42,10 @@ To adopt bbarit/bbarit-agent-oss, developers can follow these steps:
 1. Evaluate the project's documentation and API/SDK/CLI implementation to understand its functionality and integration requirements.
 2. Choose a suitable LLM provider and model for their project's needs.
 3. Integrate the bbarit/bbarit-agent-oss binary into their project, following the provided guidelines.
-4. Test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bbarit/bbarit-agent-oss).
 
 ### Русский
 

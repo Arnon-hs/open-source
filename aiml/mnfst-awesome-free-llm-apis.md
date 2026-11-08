@@ -33,7 +33,11 @@ AI/ML
 
 **Practical Adoption Path:** The adoption path for this project is straightforward, as it exposes implementation signals such as API/SDK/CLI, language metadata, and focused topics. This makes it easy for developers to evaluate and integrate the LLM APIs into their projects. The project's recent activity, adoption, and ecosystem signals are strong, indicating a high level of community engagement and support.
 
-**Production Readiness:** With a production readiness score of high, mnfst/awesome-free-llm-apis is suitable for serious pilots. The project has a strong GitHub presence, with
+**Production Readiness:** With a production readiness score of high, mnfst/awesome-free-llm-apis is suitable for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mnfst/awesome-free-llm-apis).
 
 ### Русский
 

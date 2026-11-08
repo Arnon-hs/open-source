@@ -42,7 +42,10 @@ To adopt kURL, users can follow these steps:
 1. **Evaluate and Test**: Start with a small proof of concept to assess the feasibility and compatibility of kURL with their existing infrastructure and AI requirements.
 2. **Review README and Documentation**: Thoroughly review the project's documentation, including the README file, to understand the installation process, configuration options, and best practices.
 3. **Install and Configure**: Follow the installation instructions to set up kURL on their infrastructure, and configure it according to their specific needs.
-4. **Integrate with AI Tools**: Leverage kURL to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/replicatedhq/kURL).
 
 ### Русский
 

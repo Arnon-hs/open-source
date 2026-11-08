@@ -46,7 +46,11 @@ To adopt Solarium, developers can follow these steps:
 
 **Production Readiness**
 
-Solarium is considered production-ready for prototypes or internal workflows, but it requires careful evaluation and maintenance before deployment in production environments. While it has a moderate level of production readiness, developers should review the library's license, security posture, and active maintainers to ensure it aligns with their project's needs and
+Solarium is considered production-ready for prototypes or internal workflows, but it requires careful evaluation and maintenance before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/solariumphp/solarium).
 
 ### Русский
 

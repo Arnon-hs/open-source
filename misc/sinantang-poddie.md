@@ -37,7 +37,11 @@ The value proposition of Poddie lies in its local-first approach, which allows f
 Before adopting Poddie, users should carefully inspect the project's README, activity, and metadata to ensure it aligns with their specific workflow requirements. This involves verifying the project's license, maintenance, documentation, issue tracking, and release cadence. Once satisfied, users can begin exploring Poddie's features and potential for integration into their workflows.
 
 **Production Readiness:**
-Poddie is considered medium-ready for production use. While it has been updated recently (2026-07-24) and has a moderate level of activity, its quality signals are limited. Users should exercise caution and perform thorough checks before deploying Poddie in a production environment, especially for
+Poddie is considered medium-ready for production use. While it has been updated recently (2026-07-24) and has a moderate level of activity, its quality signals are limited.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SinanTang/poddie).
 
 ### Русский
 

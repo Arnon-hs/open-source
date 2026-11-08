@@ -36,8 +36,9 @@ The value proposition of Mnemo AI lies in its ability to enhance LLMs by enablin
 **Practical Adoption Path:**
 To adopt Mnemo AI, users need to carefully review the project's documentation, issues, and release cadence to ensure its quality and stability. They should also verify the license and maintenance requirements before integrating the project into their workflow. Once the project is properly evaluated, users can start exploring its capabilities and building prototypes or internal workflows to test its effectiveness.
 
-**Production Readiness:**
-Mnemo AI is rated as having medium production readiness, indicating that it is suitable for internal workflows or proof-of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/brunopistone/mnemoai).
 
 ### Русский
 

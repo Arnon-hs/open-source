@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, it's recommended to start with a small proof of concept and read the README carefully to understand the integration process. While the project has a feasible integration path, the exact steps may not be immediately clear from the metadata. Therefore, it's essential to validate the setup cost before committing to a full-scale integration.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but requires further evaluation and dependency checks before being considered production-ready. With 267 GitHub stars and 29 forks, the project has a moderate level of
+**Production Readiness:** The project has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but requires further evaluation and dependency checks before being considered production-ready.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nurettincoban/ai-prd-workflow).
 
 ### Русский
 

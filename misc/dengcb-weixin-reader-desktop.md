@@ -37,7 +37,11 @@ The project's value lies in its ability to provide a seamless reading experience
 To adopt this project, start by evaluating its README and activity to ensure it matches a specific workflow. Then, begin with a small proof of concept to test its feasibility and integration. This will help identify potential issues and dependencies that need to be addressed before production.
 
 **Production Readiness:**
-The project's production readiness is classified as medium, indicating that it can be useful for prototypes or internal workflows. However, before deploying it in production, it's essential to conduct dependency and maintenance checks to ensure its stability and security. Additionally, a final review of its
+The project's production readiness is classified as medium, indicating that it can be useful for prototypes or internal workflows. However, before deploying it in production, it's essential to conduct dependency and maintenance checks to ensure its stability and security.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dengcb/weixin-reader-desktop).
 
 ### Русский
 

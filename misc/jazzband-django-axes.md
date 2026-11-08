@@ -46,7 +46,11 @@ To adopt django-axes, developers should follow these steps:
 
 **Production Readiness:**
 
-django-axes has a high production readiness score, indicating that it is suitable for serious pilot adoption. With 1686 GitHub stars, 365 forks, and recent activity, the project has a
+django-axes has a high production readiness score, indicating that it is suitable for serious pilot adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jazzband/django-axes).
 
 ### Русский
 

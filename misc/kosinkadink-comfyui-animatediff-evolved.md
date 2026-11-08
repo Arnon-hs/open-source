@@ -40,7 +40,10 @@ The project helps developers to build product UI faster, reuse interface compone
 2. Assess the project's dependencies and maintenance needs to ensure they align with your project's requirements.
 3. Inspect the project's license, security posture, and active maintainers to ensure they meet your project's needs.
 4. Integrate the project into your development workflow, testing its functionality and compatibility with your project.
-5. Monitor the project's updates and community engagement to ensure its continued maintenance and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved).
 
 ### Русский
 

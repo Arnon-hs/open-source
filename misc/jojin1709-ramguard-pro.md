@@ -40,8 +40,9 @@ The value of RAMGuard Pro lies in its potential to improve system performance by
 3. **Evaluate dependencies**: Assess the project's dependencies and ensure they are up-to-date and compatible with your system.
 4. **Test and iterate**: Integrate RAMGuard Pro into your workflow, test its performance, and iterate on any issues or concerns.
 
-**Production Readiness:**
-RAMGuard Pro has a medium production readiness, indicating it's suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jojin1709/ramguard-pro).
 
 ### Русский
 

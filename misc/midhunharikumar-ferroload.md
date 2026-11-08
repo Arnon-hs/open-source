@@ -46,7 +46,11 @@ To adopt this project, users should follow a cautious approach, including:
 
 **Production Readiness:**
 
-The project's production readiness is rated as "Medium", indicating that it is suitable for prototype development or internal workflows. However, it may not be ready for large-scale production environments due to the limited quality signals and potential risks associated with
+The project's production readiness is rated as "Medium", indicating that it is suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/midhunharikumar/ferroload).
 
 ### Русский
 

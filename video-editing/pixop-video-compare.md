@@ -42,7 +42,10 @@ To adopt pixop/video-compare, follow these steps:
 
 1. Evaluate the tool's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it aligns with your project's requirements.
 2. Review the tool's license, security posture, and active maintainers to assess any potential risks.
-3. Integrate pixop/video-compare into your project, leveraging its C++ implementation and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pixop/video-compare).
 
 ### Русский
 
@@ -82,7 +85,9 @@ pixop/video-compare 的生产可用性较高，因为它有：
 * 主要语言是 C++
 * 7 个话题
 
-但是，
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/pixop/video-compare)。
 
 ## 🧭 Practical evaluation
 

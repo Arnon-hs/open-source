@@ -44,9 +44,9 @@ To adopt this project, developers should follow these steps:
 3. Perform manual inspection and testing to ensure the project integrates smoothly with their existing workflow.
 4. Evaluate the project's quality signals and risks before deciding to use it in production.
 
-**Production Readiness**
+## Before adopting
 
-Show HN: Power Coding is considered production-ready with medium readiness, making it suitable for internal workflows, prototypes, or proof-of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/APareek89/power-coding).
 
 ### Русский
 

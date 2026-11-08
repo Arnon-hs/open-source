@@ -38,9 +38,9 @@ As for the practical adoption path, here are the steps:
 3. **Maintenance checks**: Perform regular maintenance checks to ensure the project is actively maintained and updated.
 4. **Prototype or internal workflow**: Use this project as a starting point for building a prototype or implementing a custom calendar app for internal workflows.
 
-Regarding production readiness, the project has a medium readiness score, which means it's suitable for:
+## Before adopting
 
-* **Prototypes**: This
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mihirshaikbugs/kid-compass).
 
 ### Русский
 

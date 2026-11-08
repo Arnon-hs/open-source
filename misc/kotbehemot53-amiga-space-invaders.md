@@ -43,7 +43,11 @@ To adopt this project, follow these steps:
 4. Conduct dependency and maintenance checks before integrating the project into your workflow.
 
 **Production Readiness:**
-The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows, but requires careful evaluation and verification before being used in production environments. This is due to its limited quality signals, which
+The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows, but requires careful evaluation and verification before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kotbehemot53/amiga-space-invaders).
 
 ### Русский
 

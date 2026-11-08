@@ -46,7 +46,11 @@ To adopt DevFlow, developers can follow these steps:
 
 **Production Readiness:**
 
-While DevFlow has shown promise, its production readiness is classified as medium. This means it is suitable for use in
+While DevFlow has shown promise, its production readiness is classified as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/The01Geek/prflow).
 
 ### Русский
 

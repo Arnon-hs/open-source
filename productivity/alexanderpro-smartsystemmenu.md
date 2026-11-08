@@ -39,11 +39,9 @@ The primary value proposition of AlexanderPro/SmartSystemMenu lies in its abilit
 2. Improved search over documents: The project's search functionality can be used to improve search results over documents, making it easier for users to find the information they need.
 3. Grounding assistant answers: By providing accurate and relevant information, SmartSystemMenu can help ground assistant answers, making them more accurate and trustworthy.
 
-**Practical Adoption Path:**
+## Before adopting
 
-To adopt AlexanderPro/SmartSystemMenu, follow these steps:
-
-1. Review the project's documentation and API/SDK/CLI implementation to understand how it works and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AlexanderPro/SmartSystemMenu).
 
 ### Русский
 

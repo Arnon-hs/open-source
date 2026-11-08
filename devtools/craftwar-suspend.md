@@ -42,8 +42,9 @@ To adopt craftwar/suspend, developers can follow these steps:
 3. Integrate craftwar/suspend into their development environment using the exposed API, SDK, or CLI.
 4. Test the tool in a controlled environment to ensure its stability and effectiveness.
 
-**Production Readiness:**
-While craftwar/suspend has a medium production readiness score, it can still be
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/craftwar/suspend).
 
 ### Русский
 

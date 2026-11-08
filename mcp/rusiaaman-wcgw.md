@@ -37,7 +37,11 @@ The value of rusiaaman/wcgw lies in its ability to provide a standardized protoc
 
 **Practical Adoption Path:**
 
-To adopt rusiaaman/wcgw, developers can start by evaluating the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics. With a clear understanding of the project's architecture and functionality, developers can
+To adopt rusiaaman/wcgw, developers can start by evaluating the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rusiaaman/wcgw).
 
 ### Русский
 

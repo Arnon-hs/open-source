@@ -37,7 +37,11 @@ The main value proposition of Enapiuz/awesome-monitoring lies in its ability to 
 To adopt Enapiuz/awesome-monitoring, teams should start by evaluating the repository through a small proof of concept and carefully reviewing the README file. This will help them understand how to integrate the tools and services listed in the repository. Before moving to production, teams should conduct dependency and maintenance checks to ensure a smooth transition.
 
 **Production Readiness:**
-Enapiuz/awesome-monitoring is considered production-ready at a medium level. It is suitable for use in prototypes or internal workflows where the risks are manageable. However, teams should conduct a thorough review of the
+Enapiuz/awesome-monitoring is considered production-ready at a medium level. It is suitable for use in prototypes or internal workflows where the risks are manageable.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Enapiuz/awesome-monitoring).
 
 ### Русский
 

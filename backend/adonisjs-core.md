@@ -42,7 +42,10 @@ To adopt AdonisJS, developers can follow these steps:
 1. **Familiarize yourself with TypeScript**: AdonisJS is built on TypeScript, so it's essential to have a good understanding of the language.
 2. **Explore the AdonisJS documentation**: The official documentation provides a comprehensive guide to getting started with AdonisJS.
 3. **Choose a project template**: AdonisJS offers various project templates to help you get started with your project.
-4. **Start building your application**: Use AdonisJS's built-in features and ecosystem of packages to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/adonisjs/core).
 
 ### Русский
 

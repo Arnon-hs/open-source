@@ -45,7 +45,11 @@ To adopt nerevu/riko, engineers can start by:
 
 **Production Readiness:**
 
-nerevu/riko has a high production readiness score due to its recent activity, strong adoption (1601 GitHub stars and 75 forks), and a robust ecosystem. While further review is needed for
+nerevu/riko has a high production readiness score due to its recent activity, strong adoption (1601 GitHub stars and 75 forks), and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nerevu/riko).
 
 ### Русский
 

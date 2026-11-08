@@ -49,7 +49,10 @@ Adopting this project requires a cautious approach due to its medium production 
 The project is considered medium production-ready, making it suitable for:
 
 1. Prototyping: Users can test and refine the project in a controlled environment.
-2. Internal workflows: Organizations can integrate the project into their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/upbound/asterkube).
 
 ### Русский
 

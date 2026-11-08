@@ -75,7 +75,10 @@ kovrichard/catalyst 的生产可用性为 Medium，适合用于：
 
 * 内部流程或原型开发
 * 需要快速验证新技术的可行性的项目
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/kovrichard/catalyst)。
 
 ## 🧭 Practical evaluation
 

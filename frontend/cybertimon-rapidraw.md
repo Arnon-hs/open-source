@@ -33,7 +33,11 @@ Frontend
 
 **Practical Adoption Path**: To adopt RapidRAW, developers can start by evaluating its integration signals, such as its API, SDK, CLI, language metadata, and focused topics. With its straightforward evaluation process and recent updates, developers can quickly assess the project's feasibility for their use cases. Once adopted, RapidRAW can be used to build product UI faster, reuse interface components, and improve frontend delivery.
 
-**Production Readiness**: CyberTimon/RapidRAW has a high production readiness score, indicating its readiness for serious pilots. With 8959 GitHub stars, 459 forks, and recent activity, the project demonstrates strong adoption and a
+**Production Readiness**: CyberTimon/RapidRAW has a high production readiness score, indicating its readiness for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/CyberTimon/RapidRAW).
 
 ### Русский
 

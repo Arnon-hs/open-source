@@ -45,7 +45,11 @@ To adopt Compute-Royale, users can follow these steps:
 
 **Production Readiness:**
 
-Compute-Royale has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows. While it has a
+Compute-Royale has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TianhangZhuzth/Compute-Royale).
 
 ### Русский
 

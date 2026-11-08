@@ -44,9 +44,9 @@ To adopt VitCam, it is essential to:
 3. Verify the project's license, documentation, issue tracking, and release cadence to ensure it meets your needs and standards.
 4. Conduct thorough testing and integration to ensure VitCam meets your specific use case requirements.
 
-**Production Readiness**
+## Before adopting
 
-VitCam is considered medium-production ready, making it suitable for prototyping or internal workflows where flexibility and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/scwsoft/vitcam).
 
 ### Русский
 

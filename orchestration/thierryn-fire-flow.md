@@ -37,7 +37,11 @@ The primary value of ThierryN/fire-flow lies in its ability to turn isolated tas
 To adopt ThierryN/fire-flow, users can start by evaluating its feasibility through a small proof of concept and checking the README documentation. Once familiar with the system, users can begin integrating it into their existing workflows, starting with internal or prototype projects. As they gain more experience, they can scale up to production environments, performing dependency and maintenance checks along the way.
 
 **Production Readiness:**
-ThierryN/fire-flow is considered moderately production-ready, with a score of Medium. While it has shown promise in various use cases and has
+ThierryN/fire-flow is considered moderately production-ready, with a score of Medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ThierryN/fire-flow).
 
 ### Русский
 

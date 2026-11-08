@@ -41,7 +41,11 @@ To adopt Pigallery2, developers can start by evaluating its feasibility through 
 
 **Production Readiness:**
 
-Pigallery2 is considered production-ready due to its strong adoption (2222 GitHub stars and 257 forks), recent activity (updated on 2026-07-05), and a positive ecosystem signal. This
+Pigallery2 is considered production-ready due to its strong adoption (2222 GitHub stars and 257 forks), recent activity (updated on 2026-07-05), and a positive ecosystem signal.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bpatrik/pigallery2).
 
 ### Русский
 

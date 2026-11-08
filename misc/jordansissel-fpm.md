@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project jordansissel/fpm:
 
 **Adoption Path:** To adopt jordansissel/fpm, developers need to manually inspect the tool's integration process and validate the setup cost before committing. This involves reviewing the documentation, testing the tool with a small project, and ensuring that it integrates smoothly with existing workflows and dependencies.
 
-**Production Readiness:** While jordansissel/fpm has a medium production readiness score (4/5), it is still useful for prototypes or internal workflows. Before deploying it in production, developers should conduct thorough dependency and
+**Production Readiness:** While jordansissel/fpm has a medium production readiness score (4/5), it is still useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jordansissel/fpm).
 
 ### Русский
 

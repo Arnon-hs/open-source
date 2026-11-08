@@ -38,7 +38,9 @@ The value proposition of this project lies in its ability to simplify the setup 
 3. Manually inspecting the project's integration signals to ensure a smooth adoption process.
 4. Conducting dependency and maintenance checks before production deployment.
 
-Production readiness is rated as medium, indicating that while the project is useful for internal workflows and prototypes, it requires careful evaluation and validation before being deployed in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NVIDIA/dgx-spark-playbooks).
 
 ### Русский
 

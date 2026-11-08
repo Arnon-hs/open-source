@@ -33,9 +33,9 @@ Misc
 
 **Practical Adoption Path:** To adopt SchemaStore/schemastore, teams should start with a small proof of concept (PoC) to evaluate its feasibility and ensure it aligns with their specific needs. A thorough review of the project's README, documentation, and dependencies is also recommended. Once the PoC is successful, teams can integrate the schema files into their existing infrastructure, and gradually scale up the adoption as needed.
 
-**Production Readiness:** With a medium production readiness score, SchemaStore/schemastore is suitable for:
+## Before adopting
 
-1. Prototypes: Ideal for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SchemaStore/schemastore).
 
 ### Русский
 

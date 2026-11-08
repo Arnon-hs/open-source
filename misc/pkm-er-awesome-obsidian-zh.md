@@ -41,7 +41,11 @@ To adopt PKM-er/awesome-obsidian-zh, users should start by evaluating the projec
 
 **Production Readiness**
 
-PKM-er/awesome-obsidian-zh has a moderate production readiness score of 60/100. While the project has a decent number of GitHub stars (720) and recent updates, its license, security posture, and active maintainers still require a
+PKM-er/awesome-obsidian-zh has a moderate production readiness score of 60/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PKM-er/awesome-obsidian-zh).
 
 ### Русский
 

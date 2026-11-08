@@ -41,7 +41,11 @@ To adopt this project, users should first manually inspect the code and document
 
 **Production Readiness:**
 
-The project has a medium production readiness score, indicating that it's useful for prototypes or internal workflows but may require additional checks and validation before being considered for production use. While the project has been updated recently and has a
+The project has a medium production readiness score, indicating that it's useful for prototypes or internal workflows but may require additional checks and validation before being considered for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/larrasket/org-pad.el).
 
 ### Русский
 

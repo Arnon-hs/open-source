@@ -38,7 +38,11 @@ As for the practical adoption path, here's a step-by-step guide:
 3. **Verification**: Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your quality standards.
 4. **Testing**: Test the project in a controlled environment to ensure it meets your requirements and is production-ready.
 
-Regarding production readiness, Tasku is rated as medium, indicating that it's suitable for prototypes or internal workflows but requires careful evaluation and verification before being used in production. This means that while Tasku has potential, it may not be suitable for large-scale or critical applications without further testing and
+Regarding production readiness, Tasku is rated as medium, indicating that it's suitable for prototypes or internal workflows but requires careful evaluation and verification before being used in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tomdringer/tasku).
 
 ### Русский
 

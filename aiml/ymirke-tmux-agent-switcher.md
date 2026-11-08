@@ -43,7 +43,11 @@ To adopt Tmux-agent-switcher, users can start by:
 4. Evaluating the tool's performance and making adjustments as needed.
 
 **Production Readiness:**
-Tmux-agent-switcher is considered production-ready for internal workflows and prototyping, but it requires careful evaluation and maintenance checks before being used in production. This includes verifying the tool's license, maintenance, documentation, issue tracking, and
+Tmux-agent-switcher is considered production-ready for internal workflows and prototyping, but it requires careful evaluation and maintenance checks before being used in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Ymirke/tmux-agent-switcher).
 
 ### Русский
 
@@ -75,7 +79,10 @@ Show HN: Tmux-agent-switcher 是一个开源项目，帮助开发者在 Tmux 中
 
 1. 需要手动检查项目的依赖和维护情况。
 2. 需要验证项目的许可证、文档、问题和发布频率。
-3.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/Ymirke/tmux-agent-switcher)。
 
 ## 🧭 Practical evaluation
 

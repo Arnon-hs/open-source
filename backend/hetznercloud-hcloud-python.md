@@ -37,7 +37,10 @@ Here's a brief summary and explanation of the project:
 
 1. **Evaluate the library**: Assess the library's documentation, code quality, and community support to ensure it meets your team's needs.
 2. **Choose a deployment method**: Decide whether to use the library as a standalone package or integrate it into an existing project.
-3. **Integrate with the Hetzner Cloud API**: Use the library to interact with the Hetzner Cloud API, creating a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hetznercloud/hcloud-python).
 
 ### Русский
 

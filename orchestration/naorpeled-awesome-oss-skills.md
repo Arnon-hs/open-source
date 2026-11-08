@@ -37,7 +37,10 @@ As for the practical adoption path, here's a suggested approach:
 2. **Verify the license and dependencies**: Ensure that the project's license is compatible with your organization's needs and that its dependencies are well-maintained and up-to-date.
 3. **Inspect the code and workflows**: Review the project's code and workflows to understand how they can be applied to your specific use case.
 4. **Test and validate the workflows**: Set up a proof-of-concept or a small-scale pilot to test the workflows and ensure they meet your requirements.
-5. **Plan for maintenance and updates**: Regularly check for updates, security patches, and new features to ensure the project remains secure and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/naorpeled/awesome-oss-skills).
 
 ### Русский
 

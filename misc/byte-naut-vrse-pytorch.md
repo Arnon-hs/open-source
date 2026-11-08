@@ -43,7 +43,11 @@ To adopt VRSE, users should:
 5. Perform dependency and maintenance checks before integrating VRSE into production.
 
 **Production Readiness:**
-VRSE is considered medium-production ready, meaning it can be useful for prototypes or internal workflows but requires careful evaluation and testing before being used in production environments. This is due to
+VRSE is considered medium-production ready, meaning it can be useful for prototypes or internal workflows but requires careful evaluation and testing before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Byte-Naut/vrse-pytorch).
 
 ### Русский
 

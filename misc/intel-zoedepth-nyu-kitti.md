@@ -37,7 +37,10 @@ Misc
 2. **Manual Inspection**: Carefully inspect the model's integration signals and metadata to ensure a smooth adoption process.
 3. **Verify Key Aspects**: Confirm the license, maintenance schedule, documentation, issue activity, and release cadence before integrating the model into your project.
 4. **Pilot Testing**: Conduct pilot testing to validate the model's performance in your specific use case.
-5. **Refine and Deploy**: Refine the model as needed and deploy it in your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/Intel/zoedepth-nyu-kitti).
 
 ### Русский
 

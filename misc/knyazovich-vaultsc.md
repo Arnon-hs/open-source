@@ -41,7 +41,9 @@ Here's a brief summary of the open-source project:
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies, license, maintenance status, documentation, issues, and release cadence to ensure it's production-ready.
 3. **Integration and Testing**: Integrate the project into your workflow and thoroughly test it to ensure it meets your requirements.
 
-**Production Readiness:** The project is rated as "Medium" in terms of production readiness, indicating that it's suitable for prototypes or internal workflows but may require additional checks and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Knyazovich/vaultsc).
 
 ### Русский
 

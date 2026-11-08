@@ -42,10 +42,9 @@ To adopt this extension, follow these steps:
 4. Assess the extension's license, security posture, and active maintainers to ensure it meets your project's requirements.
 5. Integrate the extension into your Visual Studio Code environment and test its functionality.
 
-**Production Readiness:**
-The vscode-solution-explorer extension has medium production readiness, making it suitable for:
+## Before adopting
 
-* Prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fernandoescolar/vscode-solution-explorer).
 
 ### Русский
 

@@ -41,7 +41,10 @@ To adopt DIDA-AI/Dida-RollingGo-Hotel-MCP-Global, users can follow these steps:
 
 1. Evaluate the project's API, SDK, and CLI implementation signals to ensure compatibility with their existing infrastructure.
 2. Integrate the project with their preferred LLM tools and workflows.
-3. Standardize agent memory and coordinate multi-agent workflows to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global).
 
 ### Русский
 

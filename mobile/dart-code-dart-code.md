@@ -40,7 +40,11 @@ The Dart-Code project is an open-source extension for Visual Studio Code (VS Cod
 3. Review the project's license, security posture, and maintainers to ensure they meet your project's requirements.
 4. If satisfied, integrate the extension into your development environment and explore its features and capabilities.
 
-**Production Readiness:** The project's recent activity, strong adoption (1598 GitHub stars, 342 forks), and positive ecosystem signals indicate a high level of production readiness. Its production readiness score is suitable for serious pilot evaluations, making it a
+**Production Readiness:** The project's recent activity, strong adoption (1598 GitHub stars, 342 forks), and positive ecosystem signals indicate a high level of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Dart-Code/Dart-Code).
 
 ### Русский
 

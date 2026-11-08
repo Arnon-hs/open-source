@@ -37,7 +37,11 @@ terror/val's arbitrary precision calculator language offers a high degree of fle
 Before adopting terror/val, it is essential to manually inspect the code and its integration signals to ensure that it meets the specific requirements of the project. Additionally, validating the setup cost and potential maintenance requirements is crucial before committing to production. This involves evaluating the code's stability, performance, and dependencies to ensure that it can be integrated smoothly into the existing workflow.
 
 **Production Readiness:**
-terror/val is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, it is recommended to conduct thorough dependency and maintenance checks before deploying it in a production environment. This will help mitigate potential risks associated with integration and ensure the stability of
+terror/val is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, it is recommended to conduct thorough dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/terror/val).
 
 ### Русский
 

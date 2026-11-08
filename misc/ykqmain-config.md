@@ -37,7 +37,10 @@ ykqmain/Config is an open-source configuration project that provides pre-built A
 
 1. **Manual Inspection:** Before adopting ykqmain/Config, users need to manually inspect the configuration and ensure it meets their specific requirements.
 2. **Dependency and Maintenance Checks:** Users should also verify the dependencies and maintenance requirements of the project to ensure it's suitable for their production environment.
-3. **Prototype or Internal Workflow:** Once the project is verified, users can adopt it for prototyping or internal workflows to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ykqmain/Config).
 
 ### Русский
 

@@ -38,7 +38,10 @@ Here's a brief summary and explanation of the project:
 1. **Evaluation:** The project's straightforward API/SDK/CLI interface makes it easy to evaluate and integrate into existing workflows.
 2. **Prototype Development:** typst/hayagriva can be used to quickly prototype AI features, allowing developers to test and refine their ideas.
 3. **RAG or Agent Workflows:** The project can be utilized to build more complex RAG or agent workflows, enabling developers to explore advanced AI applications.
-4. **Model Tooling Evaluation:** typst/hayagriva can
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/typst/hayagriva).
 
 ### Русский
 

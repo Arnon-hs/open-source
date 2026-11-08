@@ -36,8 +36,9 @@ The primary value of this project lies in its ability to integrate and standardi
 **Practical Adoption Path:**
 To adopt this project, users should start by reviewing the README and evaluating a small proof of concept to ensure compatibility with their existing systems. They should also conduct a thorough review of the license, security posture, and active maintainers to ensure they meet their organization's requirements. With proper evaluation and planning, users can integrate this project into their existing cybersecurity operations and take advantage of its capabilities.
 
-**Production Readiness:**
-The project is considered production-ready due to its recent activity, strong adoption (207 GitHub stars and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/santosomar/AI-agents-for-cybersecurity).
 
 ### Русский
 

@@ -40,7 +40,11 @@ Here's a brief summary and an explanation of the project's value, adoption path,
 3. Integrate the project into their workflow, considering the sparse integration signals in the discovered metadata.
 4. Test and refine the integration as needed.
 
-**Production Readiness:** While reMarkableSync has medium production readiness, it is suitable for prototypes or internal workflows. Before adopting it for production, users should conduct thorough dependency and maintenance checks to ensure its stability and security. Additionally, a final review of the license, security posture, and active maintainers is recommended to
+**Production Readiness:** While reMarkableSync has medium production readiness, it is suitable for prototypes or internal workflows. Before adopting it for production, users should conduct thorough dependency and maintenance checks to ensure its stability and security.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JeffSteinbok/reMarkableSync).
 
 ### Русский
 

@@ -37,8 +37,9 @@ The project provides a pre-built OSINT cheat sheet that can save users time and 
 **Practical Adoption Path:**
 To adopt this project, users can start by exploring the repository's features, tools, and resources. They can then select the relevant tools and techniques to integrate into their existing AI model stack. The project's documentation and tutorials can provide guidance on how to implement these tools and techniques.
 
-**Production Readiness:**
-The project has a high production readiness score, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Jieyab89/OSINT-Cheat-sheet).
 
 ### Русский
 

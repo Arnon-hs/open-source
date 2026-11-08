@@ -40,7 +40,9 @@ Here's a brief summary of the Evidence-to-Skill project:
 3. **Prototype and Test**: Use Evidence-to-Skill in a prototype environment to test its functionality and identify any potential issues.
 4. **Internal Workflows**: Once validated, deploy Evidence-to-Skill in internal workflows, starting with small-scale projects and gradually scaling up.
 
-**Production Readiness:** Evidence-to-Skill has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Sanexxxx777/evidence-to-skill).
 
 ### Русский
 

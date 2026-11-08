@@ -35,7 +35,11 @@ Here's a brief summary of the BetterCmdTab project:
 
 **Practical Adoption Path:** To adopt BetterCmdTab, users should start by carefully evaluating the project's README and activity to ensure it aligns with their specific workflow needs. A small proof of concept should be created to test the integration process, and dependency and maintenance checks should be performed before committing to production use.
 
-**Production Readiness:** BetterCmdTab has a medium level of production readiness, making it suitable for internal workflows or prototypes. However, due to the unclear integration path and potential setup costs, users should carefully validate the setup cost before committing to
+**Production Readiness:** BetterCmdTab has a medium level of production readiness, making it suitable for internal workflows or prototypes.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rokartur/BetterCmdTab).
 
 ### Русский
 

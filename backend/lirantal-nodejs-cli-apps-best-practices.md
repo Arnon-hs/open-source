@@ -68,7 +68,11 @@ lirantal/nodejs-cli-apps-best-practices 是一个 Node.js CLI 应用最佳实践
 
 **生产可用性**
 
-该项目的生产可用性非常高。它有强大的社区支持、活跃的维护者和稳定的代码库。具体生产可用性指标包括
+该项目的生产可用性非常高。它有强大的社区支持、活跃的维护者和稳定的代码库。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/lirantal/nodejs-cli-apps-best-practices)。
 
 ## 🧭 Practical evaluation
 

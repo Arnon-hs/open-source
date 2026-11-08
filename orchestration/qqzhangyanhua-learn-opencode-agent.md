@@ -45,9 +45,9 @@ To adopt this project, users can follow these steps:
 4. Experiment with integrating the project with other tools and services.
 5. Refine and customize the workflows to suit their specific needs.
 
-**Production Readiness:**
+## Before adopting
 
-The project has a medium production readiness score, indicating that it is suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/qqzhangyanhua/learn-opencode-agent).
 
 ### Русский
 

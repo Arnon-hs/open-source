@@ -42,7 +42,10 @@ To adopt Coder_eval, developers should follow these steps:
 1. **Manual inspection**: Carefully evaluate the project's documentation, code quality, and community engagement to ensure it meets their needs.
 2. **Verify dependencies**: Check the dependencies required by Coder_eval and ensure they are well-maintained and compatible with the project's ecosystem.
 3. **Assess production readiness**: Evaluate the project's production readiness, considering factors such as license, maintenance, documentation, issues, and release cadence.
-4. **Test and iterate**: Integrate Coder_eval into a project and test its effectiveness, making any necessary adjustments to ensure a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/UiPath/coder_eval).
 
 ### Русский
 

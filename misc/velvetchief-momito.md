@@ -39,7 +39,10 @@ To adopt Momito, follow these steps:
 1. **Manual Inspection**: Carefully review the project's README, activity, and integration signals to ensure they align with your workflow.
 2. **Verify Quality Signals**: Check the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your quality standards.
 3. **Test and Evaluate**: Install and test Momito to assess its functionality, performance, and usability in your specific context.
-4. **Integrate and Refine**: Once satisfied with the tool's performance, integrate it into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/velvetchief/momito).
 
 ### Русский
 

@@ -37,7 +37,10 @@ The value of DimonSmart/NugetMcpServer lies in its ability to standardize integr
 To adopt DimonSmart/NugetMcpServer, developers can follow these steps:
 
 1. **Evaluate the project:** Review the project's GitHub repository, including its codebase, documentation, and community engagement.
-2. **Assess production readiness:** Consider the project's production readiness, which is rated as medium, and evaluate the risks associated with its use, such as
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DimonSmart/NugetMcpServer).
 
 ### Русский
 

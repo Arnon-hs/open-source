@@ -49,7 +49,9 @@ The production readiness of the gatekeeper project is high due to its:
 - Strong adoption and ecosystem signals
 - High GitHub star count (4241) and fork count (867)
 
-However, it is essential to conduct a final review of the project's license, security posture, and active maintainers to ensure its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/open-policy-agent/gatekeeper).
 
 ### Русский
 

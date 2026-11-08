@@ -37,9 +37,9 @@ In terms of value, Fuxi offers a convenient and efficient way to integrate AI ca
 2. Validation: Users should validate the setup cost and potential risks associated with adopting Fuxi.
 3. Dependency and maintenance checks: Users must ensure that Fuxi's dependencies are up-to-date and well-maintained before integrating it into their production environment.
 
-Regarding production readiness, Fuxi is considered medium-ready due to the following factors:
+## Before adopting
 
-1. Useful for prototypes or internal workflows: Fuxi is suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fuxicodex/Fuxi).
 
 ### Русский
 

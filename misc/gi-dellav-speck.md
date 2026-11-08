@@ -39,7 +39,11 @@ Speck is an open-source project that enables the creation of AI-powered agents u
 2. **Build RAG or agent workflows:** Leverage Speck to build and integrate agent workflows, enabling seamless interaction between AI models and other systems.
 3. **Evaluate model tooling:** Use Speck to evaluate and compare different model tooling options, helping to identify the best fit for your specific use case.
 
-**Production Readiness:** Speck has a medium production readiness score, indicating that it is suitable for prototyping and internal workflows. However, before adopting Speck in production, it is
+**Production Readiness:** Speck has a medium production readiness score, indicating that it is suitable for prototyping and internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gi-dellav/speck/tree/main).
 
 ### Русский
 

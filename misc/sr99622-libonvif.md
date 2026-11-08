@@ -39,7 +39,11 @@ Here's a brief summary and explanation of the project:
 2. Manually inspect the code and integration signals to understand its capabilities and limitations.
 3. Perform dependency and maintenance checks to ensure the project is suitable for production use.
 
-**Production Readiness:** The project has a moderate production readiness score of 5 out of 10. While it's useful for prototypes or internal workflows, it's not yet ready for production due to the need for manual inspection and dependency checks. With proper review and validation, it can
+**Production Readiness:** The project has a moderate production readiness score of 5 out of 10. While it's useful for prototypes or internal workflows, it's not yet ready for production due to the need for manual inspection and dependency checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sr99622/libonvif).
 
 ### Русский
 

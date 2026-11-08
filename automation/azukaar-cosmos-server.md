@@ -35,7 +35,11 @@ Value: The value proposition of Cosmos-Server lies in its ability to automate re
 
 Practical Adoption Path: To adopt Cosmos-Server, users should start with a small proof of concept and carefully evaluate the setup cost before committing. The integration path may not be immediately obvious, so it's essential to validate the setup cost and explore the project's README documentation.
 
-Production Readiness: Cosmos-Server has a high production readiness, thanks to its recent activity, adoption, and strong ecosystem signals. With over 5,994 GitHub stars and 232 forks, the project has a significant community backing, making it an attractive option for those looking to
+Production Readiness: Cosmos-Server has a high production readiness, thanks to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/azukaar/Cosmos-Server).
 
 ### Русский
 

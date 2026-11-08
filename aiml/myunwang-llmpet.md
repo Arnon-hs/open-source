@@ -41,8 +41,9 @@ To adopt LLMPET, follow these steps:
 2. Assess the setup cost and potential risks before committing to a larger-scale implementation.
 3. Integrate LLMPET with your existing workflow, starting with a prototype or internal workflow.
 
-**Production Readiness:**
-LLMPET has a medium production readiness score, indicating that it is suitable for internal workflows, proof-of-concepts, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/myunwang/LLMPET).
 
 ### Русский
 

@@ -38,7 +38,10 @@ The griffinmartin/opencode-claude-auth project is an OpenCode plugin that seamle
 1. Evaluate the plugin's implementation and integration signals to ensure it meets your project's requirements.
 2. Review the plugin's documentation and tutorials to understand how to use it effectively.
 3. Integrate the plugin into your existing project, using your Claude Code credentials to authenticate.
-4. Explore the plugin's features and capabilities, such as building RAG or agent workflows, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/griffinmartin/opencode-claude-auth).
 
 ### Русский
 

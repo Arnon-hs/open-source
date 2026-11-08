@@ -33,7 +33,11 @@ Automation · AI/ML · Security
 
 **Practical Adoption Path:** To adopt Baelfyre/Orchestra, users can start by evaluating its implementation signals, such as its API, SDK, and CLI. They can then schedule operational tasks, remove manual work, and connect tools into repeatable flows. As users become more familiar with the plugin, they can integrate it into their internal workflows and eventually move it to production.
 
-**Production Readiness:** With a score of Medium, Baelfyre/Orchestra is suitable for prototypes or internal workflows. However, before moving it to production, users should conduct thorough dependency and
+**Production Readiness:** With a score of Medium, Baelfyre/Orchestra is suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Baelfyre/Orchestra).
 
 ### Русский
 

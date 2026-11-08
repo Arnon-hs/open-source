@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt Memkraft, users can start by reviewing the project's documentation and integrating it into their existing workflows. Due to the sparse integration signals in the discovered metadata, manual inspection is recommended before adoption. Users should also perform dependency and maintenance checks before deploying Memkraft in production.
 
-**Production Readiness:** Memkraft has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require additional checks and validation before being used in production environments. While the project has a moderate level of activity and a decent number of
+**Production Readiness:** Memkraft has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/seojoonkim/memkraft).
 
 ### Русский
 

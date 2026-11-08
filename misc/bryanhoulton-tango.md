@@ -45,9 +45,9 @@ To adopt this project, developers should follow a cautious approach:
 4. Perform dependency checks and audits to ensure the project's dependencies align with your project's needs.
 5. Conduct thorough testing and validation to ensure the project meets your project's requirements.
 
-**Production Readiness:**
+## Before adopting
 
-This project is considered "Medium" in
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bryanhoulton/tango).
 
 ### Русский
 

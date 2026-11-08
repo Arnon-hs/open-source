@@ -39,7 +39,11 @@ The practical adoption path for SparkleShare involves:
 2. Validating the setup cost before committing to integration.
 3. Integrating SparkleShare with existing systems and processes to make knowledge bases searchable and usable by assistants.
 
-SparkleShare's production readiness is high due to its recent activity, adoption, and ecosystem signals. With its strong GitHub presence and ongoing updates, SparkleShare is a viable option for
+SparkleShare's production readiness is high due to its recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hbons/SparkleShare).
 
 ### Русский
 

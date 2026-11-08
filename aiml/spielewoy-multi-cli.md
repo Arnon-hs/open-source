@@ -38,7 +38,10 @@ To adopt Spielewoy/multi-cli, developers can follow these steps:
 
 1. Evaluate the project's documentation and API/SDK/CLI implementation signals to determine its suitability for their use case.
 2. Set up the sandboxed profiles for each AI CLI or IDE, configuring authentication, configuration, and extensions as needed.
-3. Use the project to prototype AI features, build RAG or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Spielewoy/multi-cli).
 
 ### Русский
 

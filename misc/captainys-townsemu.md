@@ -35,7 +35,11 @@ Here's a brief summary of the captainys/TOWNSEMU open-source project:
 
 **Practical Adoption Path:** Adoption of captainys/TOWNSEMU requires a manual inspection of the integration process, as the metadata may not provide clear signals. Additionally, developers should validate the setup costs before committing to production. This may involve evaluating the dependencies and maintenance requirements of the project.
 
-**Production Readiness:** The production readiness of captainys/TOWNSEMU is rated as medium, indicating that it is useful for prototypes or internal workflows, but may require additional checks and validation before being used in production environments. This is due to the potential complexity of the integration process and the need for careful evaluation of
+**Production Readiness:** The production readiness of captainys/TOWNSEMU is rated as medium, indicating that it is useful for prototypes or internal workflows, but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/captainys/TOWNSEMU).
 
 ### Русский
 

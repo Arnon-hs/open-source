@@ -35,7 +35,9 @@ Here is a 2-3 sentence summary of the project:
 
 **Practical Adoption Path:** To adopt harlan-zw/mdream, developers should first review the project's metadata and perform manual inspections to ensure it meets their project's requirements. They should also evaluate the project's license, security posture, and active maintainers before integrating it into their workflow. Once adopted, developers can use the converter as a starting point for building AI-powered applications, such as prototypes or internal workflows.
 
-**Production Readiness:** harlan-zw/mdream is considered production-ready with medium readiness, meaning it can
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/harlan-zw/mdream).
 
 ### Русский
 

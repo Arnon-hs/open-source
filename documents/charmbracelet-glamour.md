@@ -33,7 +33,11 @@ Here's a brief summary of the charmbracelet/glamour project:
 
 **Value:** The value proposition of charmbracelet/glamour lies in its ability to simplify the process of building user interfaces for CLI apps, reducing the need for custom UI work and enabling faster development and delivery of product UI. By reusing interface components and leveraging stylesheet-based markdown rendering, developers can improve the overall quality and consistency of their applications.
 
-**Practical Adoption Path:** To adopt charmbracelet/glamour, developers can start by evaluating its implementation signals, such as API/SDK/CLI exposure, language metadata, and focused topics. They can then assess its production readiness, considering factors such as recent activity, adoption, and ecosystem signals. With a strong understanding of the project's strengths and potential risks, developers can integrate charmbracelet/glamour into their development workflow and begin to realize its
+**Practical Adoption Path:** To adopt charmbracelet/glamour, developers can start by evaluating its implementation signals, such as API/SDK/CLI exposure, language metadata, and focused topics. They can then assess its production readiness, considering factors such as recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/charmbracelet/glamour).
 
 ### Русский
 

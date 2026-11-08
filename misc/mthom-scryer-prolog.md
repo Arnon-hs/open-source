@@ -41,7 +41,11 @@ To adopt Scryer-Prolog, developers should start with a small proof of concept to
 
 **Production Readiness**
 
-Scryer-Prolog has moderate production readiness, making it suitable for prototype development or internal workflows. However, its production readiness is not high enough to recommend it for large-scale or critical production environments without thorough evaluation and
+Scryer-Prolog has moderate production readiness, making it suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mthom/scryer-prolog).
 
 ### Русский
 

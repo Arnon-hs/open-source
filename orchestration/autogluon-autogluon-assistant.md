@@ -45,8 +45,9 @@ To adopt the autogluon/autogluon-assistant, follow these steps:
 3. Start with internal workflows or prototypes to test the system's capabilities.
 4. Gradually scale up to more complex workflows and integrate with other tools as needed.
 
-**Production Readiness:**
-The autogluon/autogluon-assistant is considered production-ready with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/autogluon/autogluon-assistant).
 
 ### Русский
 

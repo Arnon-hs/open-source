@@ -38,7 +38,11 @@ The value proposition of Omniget lies in its ability to help teams persist, quer
 To adopt Omniget, users can start by evaluating its implementation signals, such as its API, SDK, CLI, language metadata, and focused topics. They can also explore its GitHub presence, including its number of stars, forks, and updates. With its recent activity and adoption, Omniget is a viable option for serious pilots.
 
 **Production Readiness:**
-Omniget is considered production-ready due to its recent activity, adoption, and ecosystem signals. Its high score of 67/100 and strong GitHub presence make it a
+Omniget is considered production-ready due to its recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tonhowtf/omniget).
 
 ### Русский
 

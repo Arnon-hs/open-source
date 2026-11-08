@@ -37,7 +37,11 @@ The project's value lies in its ability to simplify the development process by p
 To adopt this project, developers should start with a small proof of concept and carefully review the README documentation to understand the integration process. This will help identify potential issues and ensure a smooth setup. Once the proof of concept is successful, developers can scale up their implementation to meet their requirements.
 
 **Production Readiness:**
-While the project is production-ready, it is recommended to exercise caution due to its medium-level readiness score. Before deploying the project in a production environment, developers should thoroughly check the dependencies and maintenance requirements to ensure a
+While the project is production-ready, it is recommended to exercise caution due to its medium-level readiness score.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/seyhunak/twitter-bootstrap-rails).
 
 ### Русский
 

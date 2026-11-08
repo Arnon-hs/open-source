@@ -42,7 +42,10 @@ To adopt this project, users should follow a careful and iterative approach:
 1. **Manual Inspection:** Evaluate the project's quality signals, documentation, and maintenance cadence to ensure it meets their requirements.
 2. **Dependency Checks:** Verify that the project's dependencies are up-to-date and compatible with their environment.
 3. **Testing and Validation:** Test the integration in a controlled environment to ensure it works as expected.
-4. **Adoption and Integration:** Once validated, integrate the project into their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/columnar-tech/duckdb-adbc-client).
 
 ### Русский
 

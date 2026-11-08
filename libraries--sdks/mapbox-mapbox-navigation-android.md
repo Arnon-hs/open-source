@@ -40,7 +40,11 @@ Practical Adoption Path:
 3. **Dependency and Maintenance Checks**: Conduct thorough checks on the project's dependencies and maintenance to ensure they align with your project's needs.
 4. **Integration**: Once the evaluation and checks are complete, integrate the project into your application.
 
-Production Readiness: The project shows medium production readiness, making it suitable for use in prototypes or internal workflows. However, further checks are necessary before using it in
+Production Readiness: The project shows medium production readiness, making it suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mapbox/mapbox-navigation-android).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The practical adoption path involves:
 2. Setup validation: Validate the setup cost and potential dependencies before committing to the project.
 3. Integration: Integrate the project into your workflow, taking into account the sparse integration signals and potential issues.
 
-In terms of production readiness, the project is rated as medium, indicating that it is suitable for:
+## Before adopting
 
-1. Prototypes: The project can be used as a prototype to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/petronny/gfwlist2pac).
 
 ### Русский
 

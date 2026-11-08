@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Adoption Path:** To adopt bullet-train-co/bullet_train, developers can start by evaluating the project through a small proof of concept and reviewing the README documentation. This allows them to assess the project's feasibility and integration requirements before committing to a full-scale implementation.
 
-**Production Readiness:** The project exhibits strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity and stability. With 1886 GitHub stars and 303 forks, the project has a significant community following, and its primary language (Ruby) and three topics suggest a well-maintained and focused codebase. However, a final review of
+**Production Readiness:** The project exhibits strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity and stability. With 1886 GitHub stars and 303 forks, the project has a significant community following, and its primary language (Ruby) and three topics suggest a well-maintained and focused codebase.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bullet-train-co/bullet_train).
 
 ### Русский
 

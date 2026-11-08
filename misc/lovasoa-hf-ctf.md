@@ -42,7 +42,10 @@ To adopt this project, developers should follow these steps:
 1. **Verify License and Maintenance:** Ensure that the project's license is compatible with your organization's requirements and that the maintainers are actively updating the project.
 2. **Inspect Code and Documentation:** Review the codebase, documentation, and issues to understand the project's architecture, functionality, and potential roadblocks.
 3. **Evaluate Integration Signals:** Manually inspect the project's integration signals to understand how it interacts with other tools and services.
-4. **Test and Evaluate:** Test the project in a controlled environment to evaluate its performance and suitability for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lovasoa/hf-ctf).
 
 ### Русский
 

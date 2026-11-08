@@ -41,7 +41,11 @@ To adopt Nanoda_lib, developers should be prepared to manually inspect the libra
 
 **Production Readiness:** 
 
-Nanoda_lib has a moderate level of production readiness, scoring 51 out of 100. It is suitable for prototypes or internal workflows, but its
+Nanoda_lib has a moderate level of production readiness, scoring 51 out of 100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ammkrn/nanoda_lib).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the cargo-lambda project:
 
 **Practical Adoption Path:** Before adopting cargo-lambda, it's essential to manually inspect the project's integration and quality signals. This involves reviewing the project's README, checking for activity, and verifying the maintainers' credibility. Once these checks are complete, developers can integrate cargo-lambda into their workflow by running the Cargo subcommand, which will help them work with AWS Lambda more efficiently.
 
-**Production Readiness:** The production readiness of cargo-lambda is rated as medium. This means it's suitable for prototypes or internal workflows but requires careful dependency and maintenance checks before deployment in a production environment. While the project has
+**Production Readiness:** The production readiness of cargo-lambda is rated as medium. This means it's suitable for prototypes or internal workflows but requires careful dependency and maintenance checks before deployment in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cargo-lambda/cargo-lambda).
 
 ### Русский
 

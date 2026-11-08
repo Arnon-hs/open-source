@@ -37,7 +37,11 @@ The project's value lies in its ability to turn isolated prompts and tools into 
 To adopt this project, users can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then explore the provided export presets, project helpers, and workflow documentation to understand how to integrate the utility into their existing workflow. As users become more familiar with the project, they can start to customize and extend its functionality to suit their specific needs.
 
 **Production Readiness:**
-The project has a high production readiness score due to recent activity, adoption, and strong ecosystem signals. With 117 GitHub stars and
+The project has a high production readiness score due to recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/IndigoKageBait/filmora-utility-2026).
 
 ### Русский
 

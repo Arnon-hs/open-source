@@ -43,8 +43,9 @@ To adopt this project, users should follow these steps:
 3. Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it meets their requirements.
 4. Perform dependency and maintenance checks before integrating the project into their production environment.
 
-**Production Readiness:**
-The project has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JuanTorchia/element-web).
 
 ### Русский
 

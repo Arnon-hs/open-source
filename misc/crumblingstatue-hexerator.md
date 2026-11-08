@@ -36,8 +36,9 @@ The crumblingstatue/hexerator offers significant value by providing a GUI hex ed
 **Practical Adoption Path:**
 To adopt this project, users should first manually inspect the code and metadata to understand the integration process and potential setup costs. Although the integration path is not immediately obvious from the metadata, this project is still useful for prototyping and internal workflows. Before committing to production use, users should validate the setup cost and perform dependency and maintenance checks to ensure a smooth adoption process.
 
-**Production Readiness:**
-The crumblingstatue/hexerator has a moderate level of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/crumblingstatue/hexerator).
 
 ### Русский
 

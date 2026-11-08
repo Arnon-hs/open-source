@@ -37,7 +37,10 @@ Here's a brief summary of the open-source project:
 
 1. **Evaluate the project's documentation and codebase**: Before adopting the project, developers should review the codebase, documentation, and GitHub repository to ensure they understand the project's inner workings and potential limitations.
 2. **Assess dependencies and maintenance**: As the project's production readiness is rated as medium, developers should carefully evaluate the dependencies and maintenance requirements to ensure they can be managed effectively.
-3. **Integrate the project into your application**: Once you've assessed the project's readiness, you can integrate it into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kenryu42/pi-grok-cli).
 
 ### Русский
 

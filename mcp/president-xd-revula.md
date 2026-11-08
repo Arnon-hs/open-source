@@ -38,8 +38,9 @@ The primary value of the president-xd/revula project lies in its ability to stan
 **Practical Adoption Path:**
 To adopt the president-xd/revula project, developers can start by evaluating its codebase and integrating it with their existing AI-powered applications. The project's API/SDK/CLI implementation signals make it straightforward to evaluate and integrate. However, developers should conduct a thorough review of the project's license, security posture, and active maintainers before deploying it in production.
 
-**Production Readiness:**
-The president-xd/revula project has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/president-xd/revula).
 
 ### Русский
 

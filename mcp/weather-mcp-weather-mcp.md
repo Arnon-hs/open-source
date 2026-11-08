@@ -43,8 +43,9 @@ To adopt this project, developers can follow these steps:
 4. Integrate the project into their AI assistant or system, utilizing the provided weather tools and data.
 5. Test and refine the integration as needed.
 
-**Production Readiness:**
-The project has a high production readiness score, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/weather-mcp/weather-mcp).
 
 ### Русский
 

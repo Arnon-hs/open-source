@@ -38,7 +38,10 @@ The practical adoption path for lucide-icons/lucide involves the following steps
 1. Evaluate the project by reviewing its README and integrating a small proof of concept to gauge its feasibility.
 2. Assess the project's quality signals, such as GitHub stars, forks, and recent activity, to gauge its stability and maintainability.
 3. Review the project's license, security posture, and maintainers to ensure they align with your organization's requirements.
-4. Integrate lucide-icons/lucide into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lucide-icons/lucide).
 
 ### Русский
 

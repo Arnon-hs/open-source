@@ -36,8 +36,9 @@ Benchflow's primary value lies in its ability to streamline the AI development p
 **Practical Adoption Path:**
 To adopt Benchflow, developers should start by reviewing the project's documentation and codebase to understand its architecture and functionality. Due to sparse integration signals in the discovered metadata, manual inspection is recommended to ensure a smooth integration process. Once familiar with the project, developers can begin experimenting with Benchflow by creating RL environments, building agent workflows, and evaluating model tooling. As with any open-source project, regular dependency and maintenance checks are essential to ensure production readiness.
 
-**Production Readiness:**
-Benchflow is considered production-ready for medium-risk projects, such as
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/benchflow-ai/benchflow).
 
 ### Русский
 

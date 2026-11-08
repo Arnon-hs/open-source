@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, teams should start with a small proof of concept to evaluate its feasibility and effectiveness. They should also check the README documentation to understand the project's requirements and limitations. Before integrating it into production, teams should verify the project's license, maintenance, documentation, issues, and release cadence to ensure its stability and reliability.
 
-**Production Readiness:** The project is considered medium-production-ready, indicating that it is useful for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mario-ezquerro/scope).
 
 ### Русский
 

@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the value, practical adoption path, an
 
 **Practical Adoption Path:** To adopt Vagrant-tart, users need to have a basic understanding of Vagrant and its plugins. They will need to install the Tart plugin and then integrate Vagrant-tart with their existing Vagrant setup. Due to the limited integration signals in the discovered metadata, users should perform a manual inspection of the project's README, activity, and dependencies before adoption.
 
-**Production Readiness:** Vagrant-tart has a medium production readiness score, indicating that it can be useful for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/letiemble/vagrant-tart).
 
 ### Русский
 

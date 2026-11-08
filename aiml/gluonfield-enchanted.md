@@ -35,7 +35,11 @@ The value proposition of enchanted lies in its ability to simplify the process o
 
 The practical adoption path for enchanted involves evaluating the project through a small proof of concept and checking the README before committing to a larger-scale integration. This initial step will help developers understand the project's integration path, which may not be immediately obvious from the metadata.
 
-In terms of production readiness, enchanted exhibits strong signals, including recent activity, adoption, and ecosystem signals, with 5974 GitHub stars and 419 forks. This indicates that enchanted is a
+In terms of production readiness, enchanted exhibits strong signals, including recent activity, adoption, and ecosystem signals, with 5974 GitHub stars and 419 forks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gluonfield/enchanted).
 
 ### Русский
 

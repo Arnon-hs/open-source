@@ -39,7 +39,9 @@ The practical adoption path involves the following steps:
 2. Validation of the setup cost and potential dependencies to ensure a smooth integration process.
 3. Thorough dependency and maintenance checks to ensure the project's production readiness.
 
-The production readiness of the project is rated as medium, indicating that it's suitable for internal workflows and prototypes but may require additional validation and checks before being deployed in a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bootlin/training-materials).
 
 ### Русский
 

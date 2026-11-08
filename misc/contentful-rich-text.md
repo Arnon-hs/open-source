@@ -39,7 +39,11 @@ As for the practical adoption path, here are the steps:
 4. **Evaluate quality signals**: Consider the project's GitHub stars, forks, and primary language to gauge its reliability and maintainability.
 5. **Final review**: Review the project's license, security posture, and active maintainers to mitigate potential risks.
 
-Regarding production readiness, the project is rated as Medium, indicating it's suitable for prototypes or internal workflows. However, developers should exercise caution and
+Regarding production readiness, the project is rated as Medium, indicating it's suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/contentful/rich-text).
 
 ### Русский
 

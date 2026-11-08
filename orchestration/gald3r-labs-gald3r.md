@@ -37,7 +37,11 @@ The primary value proposition of Gald3r is its ability to turn isolated prompts 
 To adopt Gald3r, users can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. Once familiar with the framework, users can begin integrating Gald3r into their existing workflows, using its 149 commands and 21 AI tools. As users gain more experience, they can leverage Gald3r's customization options and extend its capabilities to meet their specific needs.
 
 **Production Readiness:**
-Gald3r is considered production-ready at a medium level. While it has shown promise in facilitating the creation of repeatable agent workflows, users should exercise caution and
+Gald3r is considered production-ready at a medium level.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Gald3r-Labs/gald3r).
 
 ### Русский
 

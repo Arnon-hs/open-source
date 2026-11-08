@@ -33,7 +33,11 @@ Orchestration · MCP · AI/ML · Observability
 
 **Practical Adoption Path:** To adopt Continuum, users can start by evaluating its API, SDK, and CLI, as well as its language metadata and focused topics. They can then integrate it into their existing workflows and tools, and experiment with creating repeatable agent workflows. As they gain experience, they can standardize agent memory and add tool-use pipelines to further enhance their workflows.
 
-**Production Readiness:** Continuum has a high production readiness score, indicating that it's a stable and reliable choice for serious pilots. Its recent activity, adoption, and ecosystem signals are strong, and it has a good balance of GitHub stars (78) and forks (8). However, users should still review its license, security posture, and
+**Production Readiness:** Continuum has a high production readiness score, indicating that it's a stable and reliable choice for serious pilots. Its recent activity, adoption, and ecosystem signals are strong, and it has a good balance of GitHub stars (78) and forks (8).
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/shyftlabs/continuum).
 
 ### Русский
 

@@ -41,8 +41,9 @@ To adopt egametang/ET, developers can follow these steps:
 3. Prototype blockchain workflows and integrations using the framework's C# server and Unity3D client.
 4. Review and adapt the framework to meet their specific use case requirements.
 
-**Production Readiness:**
-Egametang/ET has a high production readiness score, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/egametang/ET).
 
 ### Русский
 
@@ -79,7 +80,10 @@ egametang/ET 的生产可用性很高，主要原因包括：
 * 近期的活跃度和采用率
 * 强大的生态系统信号
 * 高质量的代码和文档
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/egametang/ET)。
 
 ## 🧭 Practical evaluation
 

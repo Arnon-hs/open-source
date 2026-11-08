@@ -39,7 +39,9 @@ The practical adoption path for krpc/krpc involves several steps:
 2. Integration validation: Validate the integration process and potential setup costs before committing to the project.
 3. Dependency and maintenance checks: Ensure the project's dependencies are up-to-date and well-maintained.
 
-Production readiness is rated as medium, indicating that krpc/krpc is suitable for prototypes or internal workflows, but may require additional checks and validation before being used in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/krpc/krpc).
 
 ### Русский
 

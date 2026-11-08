@@ -42,7 +42,10 @@ To adopt imzbf/md-editor-v3, developers can follow these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets their project's requirements.
 2. Review the project's license, security posture, and active maintainers to ensure they align with their project's needs.
 3. Integrate the project into their existing Vue3 application, following the provided documentation and examples.
-4. Test and customize the project to suit their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/imzbf/md-editor-v3).
 
 ### Русский
 

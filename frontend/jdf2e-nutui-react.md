@@ -41,7 +41,11 @@ To adopt jdf2e/nutui-react, follow these steps:
 3. Integrate the library into your project by importing the necessary components and customizing them as needed.
 
 **Production Readiness:**
-jdf2e/nutui-react has a high production readiness score, indicating that it's suitable for serious pilot projects. With
+jdf2e/nutui-react has a high production readiness score, indicating that it's suitable for serious pilot projects.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jdf2e/nutui-react).
 
 ### Русский
 

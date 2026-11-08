@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Evaluate the project's dependencies and maintenance requirements** to ensure they align with your project's needs.
 2. **Assess the project's security posture** to ensure it meets your organization's security standards.
 3. **Review the project's license** to ensure it aligns with your organization's licensing requirements.
-4. **Evaluate the project's documentation and community support** to ensure they meet your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/u9401066/pubmed-search-mcp).
 
 ### Русский
 

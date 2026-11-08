@@ -38,10 +38,9 @@ The shredEngineer/Archive-Agent project brings several values to the table:
 2. **Interoperability**: The MCP protocol allows AI agents to communicate with various tools and data sources, promoting seamless interactions and reducing the complexity of integration.
 3. **Innovation**: By providing a standardized interface for AI development, the project enables developers to focus on creating innovative solutions rather than spending time on integration and compatibility issues.
 
-**Practical Adoption Path:**
-To adopt the shredEngineer/Archive-Agent project, developers can follow these steps:
+## Before adopting
 
-1. **Evaluate the project**: Review the project's documentation, code, and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/shredEngineer/Archive-Agent).
 
 ### Русский
 

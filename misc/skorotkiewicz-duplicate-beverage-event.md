@@ -41,8 +41,9 @@ To adopt this project, follow these steps:
 3. **Check License and Dependencies**: Verify the project's license and dependencies to ensure they align with your organization's requirements.
 4. **Test and Integrate**: Integrate the project into your internal workflows and test its functionality to ensure it meets your needs.
 
-**Production Readiness:**
-The project is considered **Medium** in terms of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/skorotkiewicz/duplicate-beverage-event).
 
 ### Русский
 

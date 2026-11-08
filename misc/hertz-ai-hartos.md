@@ -42,7 +42,10 @@ To adopt HART OS, developers should follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, code, and issue history to ensure it meets their needs and requirements.
 2. **Dependency and Maintenance Checks**: Verify that the project's dependencies are up-to-date and well-maintained to avoid potential issues.
 3. **Verify License and Release Cadence**: Confirm the project's licensing terms and release schedule to ensure it aligns with their project's needs.
-4. **Evaluate Model Tooling**: Assess the project's model tooling and evaluate its ability to meet their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hertz-ai/HARTOS).
 
 ### Русский
 

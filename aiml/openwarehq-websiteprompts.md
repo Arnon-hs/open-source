@@ -43,7 +43,10 @@ To adopt openwarehq/websiteprompts, developers can follow these steps:
 2. Clone the repository and inspect the code to ensure it aligns with their project's requirements.
 3. Integrate the prompts into their project, making sure to perform dependency checks and address any potential issues.
 4. Test the prompts in a controlled environment to ensure they work as expected.
-5. Deploy the project to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openwarehq/websiteprompts).
 
 ### Русский
 

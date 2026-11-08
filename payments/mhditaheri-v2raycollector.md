@@ -44,9 +44,9 @@ To adopt this script, follow these steps:
 3. **Review the README documentation**: Understand the script's dependencies, maintenance requirements, and any potential issues.
 4. **Validate setup costs**: Estimate the time and resources needed to set up and maintain the script in your production environment.
 
-**Production Readiness:**
+## Before adopting
 
-The script has a medium production readiness score, indicating that it can
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MhdiTaheri/V2rayCollector).
 
 ### Русский
 

@@ -39,7 +39,10 @@ To adopt kandada/fastclaw, users can follow these steps:
 1. **Initial Setup:** Install the framework and familiarize yourself with its features and capabilities.
 2. **Prototype Development:** Use fastclaw to create a proof-of-concept workflow for a specific use case.
 3. **Integration and Testing:** Integrate fastclaw with your existing tools and agents, and thoroughly test the workflow.
-4. **Production Deployment:** Once the workflow is stable and reliable, deploy it in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kandada/fastclaw).
 
 ### Русский
 

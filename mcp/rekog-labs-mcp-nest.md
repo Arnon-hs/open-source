@@ -41,7 +41,10 @@ For developers looking to adopt MCP-Nest, the practical adoption path involves t
 
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets their requirements.
 2. Review the project's license, security posture, and active maintainers to ensure it aligns with their organization's standards.
-3. Integrate MCP-Nest into their NestJS application using the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rekog-labs/MCP-Nest).
 
 ### Русский
 

@@ -42,7 +42,10 @@ Developers interested in adopting the QianYuan.AIAgenticFramework can start by e
 1. Evaluate the framework's features and documentation.
 2. Review the license, security posture, and active maintainers.
 3. Assess the framework's production readiness and dependencies.
-4. Test the framework in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zhouguoqing/QianYuan.AIAgenticFramework).
 
 ### Русский
 

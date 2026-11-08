@@ -44,11 +44,9 @@ To adopt JupyterLab Desktop, users should:
 3. Conduct a manual inspection of the project's integration points to ensure a smooth adoption process.
 4. Review the project's license, security posture, and maintainers to ensure they meet their organization's requirements.
 
-**Production Readiness:**
+## Before adopting
 
-JupyterLab Desktop is considered production-ready due to its:
-
-1. Strong adoption signals (4284 GitHub stars and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jupyterlab/jupyterlab-desktop).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The project's value lies in its ability to standardize integrations between AI a
 
 To adopt this project, developers can start by evaluating the exposed implementation signals, such as the API, SDK, CLI, language metadata, or focused topics. They can then integrate the project into their existing workflows, using the standard protocol to connect AI agents to tools. The project's production readiness and recent activity make it a suitable candidate for serious pilots.
 
-**Production Readiness:**
+## Before adopting
 
-The project has a high production readiness score, with recent activity, adoption, and ecosystem signals indicating that it is a stable and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DareDev256/fcpxml-mcp-server).
 
 ### Русский
 

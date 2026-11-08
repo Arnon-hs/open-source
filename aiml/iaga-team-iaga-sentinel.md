@@ -36,8 +36,9 @@ IAGA-Sentinel's primary value lies in its ability to accelerate AI development b
 **Practical Adoption Path:**
 To adopt IAGA-Sentinel, users should start with a small proof of concept and carefully review the README documentation. This will help them understand the integration path and validate the setup cost before committing to a larger-scale deployment. Given the project's medium production readiness, users should be prepared to perform dependency and maintenance checks before deploying IAGA-Sentinel in a production environment.
 
-**Production Readiness:**
-IAGA-Sentinel's production readiness is medium, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/IAGA-TEAM/IAGA-Sentinel).
 
 ### Русский
 

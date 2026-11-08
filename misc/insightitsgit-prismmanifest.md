@@ -36,10 +36,9 @@ The library's primary value lies in its ability to facilitate the integration of
 **Practical Adoption Path:**
 To adopt this library, developers should start by manually inspecting its code and documentation to understand its functionality and potential limitations. They should also verify the library's license, maintenance, documentation, issue history, and release cadence to ensure it meets their project's needs. Once these checks are complete, developers can integrate the library into their project and begin building AI-powered fintech applications.
 
-**Production Readiness:**
-While the library has potential, its production readiness is rated as medium due to the following reasons:
+## Before adopting
 
-* Limited quality signals: The library's metadata contains sparse integration signals, making it challenging to assess its reliability and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/insightitsGit/PrismManifest).
 
 ### Русский
 

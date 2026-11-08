@@ -41,7 +41,11 @@ To adopt BoxPlayer, developers can start by evaluating its feasibility through a
 
 **Production Readiness:**
 
-BoxPlayer is considered highly production-ready, with recent activity, strong community adoption, and a robust ecosystem. The project's recent update (2026-07-30) and
+BoxPlayer is considered highly production-ready, with recent activity, strong community adoption, and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gaozhangmin/boxplayer).
 
 ### Русский
 

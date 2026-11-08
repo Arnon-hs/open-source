@@ -37,7 +37,11 @@ The value proposition of KhronosGroup/Vulkan-Hpp lies in its ability to help tea
 To adopt KhronosGroup/Vulkan-Hpp, teams can start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help them understand the project's functionality and feasibility for their specific use case. Once the feasibility is established, teams can begin integrating the project into their service infrastructure, leveraging its capabilities to improve their development process.
 
 **Production Readiness:**
-With 3771 GitHub stars, recent activity, and a strong ecosystem, KhronosGroup/Vulkan-Hpp demonstrates high production readiness for an open-source project. Its adoption and maintenance signals are
+With 3771 GitHub stars, recent activity, and a strong ecosystem, KhronosGroup/Vulkan-Hpp demonstrates high production readiness for an open-source project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/KhronosGroup/Vulkan-Hpp).
 
 ### Русский
 

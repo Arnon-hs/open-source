@@ -39,9 +39,9 @@ The practical adoption path for Hubo involves the following steps:
 4. **Testing**: Test the project in a controlled environment to evaluate its performance and reliability.
 5. **Integration**: Integrate the project into your workflow, starting with a prototype or internal workflow.
 
-Production readiness is medium for Hubo due to the following reasons:
+## Before adopting
 
-* **Limited quality signals**: The project has limited quality signals, making it essential to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/h0ngcha0/hubo).
 
 ### Русский
 

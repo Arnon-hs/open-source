@@ -36,7 +36,10 @@ Backend · DevTools · Database
 1. **Evaluation:** Evaluate Specmatic's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to determine its suitability for your project.
 2. **Prototype AI Features:** Use Specmatic to prototype AI features and build RAG or agent workflows to test its capabilities.
 3. **Pilot:** Conduct a serious pilot of Specmatic to assess its production readiness and evaluate its performance in a real-world setting.
-4. **Adoption:** If successful, adopt Specmatic as a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/specmatic/specmatic).
 
 ### Русский
 

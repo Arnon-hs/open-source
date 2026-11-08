@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt MrGeDiao/shuorenhua, developers need to manually inspect and integrate the project into their existing workflows. This requires some technical expertise and may involve validation and maintenance checks before production. The integration path may not be immediately clear from the metadata, so developers should be prepared to invest some time in understanding the setup and potential risks.
 
-**Production Readiness:** The project is considered production-ready at a medium level, meaning it's suitable for internal workflows, prototypes, or development environments. However, before deploying it in production, developers should carefully evaluate the dependency and
+**Production Readiness:** The project is considered production-ready at a medium level, meaning it's suitable for internal workflows, prototypes, or development environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MrGeDiao/shuorenhua).
 
 ### Русский
 

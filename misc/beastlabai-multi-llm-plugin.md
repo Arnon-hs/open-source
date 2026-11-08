@@ -34,7 +34,11 @@ Multi-LLM is an open-source project that enables users to review plans and code 
 The value of Multi-LLM lies in its ability to simplify the integration of AI capabilities into existing workflows, making it an attractive option for developers looking to add AI functionality without starting from scratch. By leveraging a pre-built framework that supports multiple coding CLIs and models, users can focus on building and testing AI-driven applications rather than setting up a custom model stack.
 
 **Practical Adoption Path:**
-To adopt Multi-LLM, users should carefully evaluate the project's quality signals, including its maintainability, documentation, and release cadence. Before integrating the project into production, it is essential to perform manual inspections, verify the license, and assess the project's dependencies and maintenance requirements. For prototyping or internal workflows, Multi-LLM can be a valuable asset, but users should be aware of
+To adopt Multi-LLM, users should carefully evaluate the project's quality signals, including its maintainability, documentation, and release cadence. Before integrating the project into production, it is essential to perform manual inspections, verify the license, and assess the project's dependencies and maintenance requirements.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/beastlabai/multi-llm-plugin).
 
 ### Русский
 

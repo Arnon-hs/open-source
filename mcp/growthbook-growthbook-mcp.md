@@ -45,9 +45,9 @@ To adopt GrowthBook MCP, developers can follow these steps:
 4. Integrate GrowthBook MCP with your AI assistant or tool, using the standard protocol to facilitate communication.
 5. Test and refine the integration to ensure smooth operation.
 
-**Production Readiness**
+## Before adopting
 
-GrowthBook MCP has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/growthbook/growthbook-mcp).
 
 ### Русский
 

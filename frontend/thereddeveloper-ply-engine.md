@@ -41,7 +41,11 @@ To adopt ply-engine, developers should start with a small proof of concept to ev
 
 **Production Readiness:**
 
-While ply-engine has a medium level of production readiness, it is considered suitable for use in prototypes or internal workflows. However, before committing to production, developers should carefully assess the dependency and maintenance costs associated with using ply-engine. With proper evaluation and planning, ply-engine can be a valuable addition to
+While ply-engine has a medium level of production readiness, it is considered suitable for use in prototypes or internal workflows. However, before committing to production, developers should carefully assess the dependency and maintenance costs associated with using ply-engine.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TheRedDeveloper/ply-engine).
 
 ### Русский
 

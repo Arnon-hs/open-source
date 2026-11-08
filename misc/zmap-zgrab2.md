@@ -38,7 +38,11 @@ Misc
 3. **Dependency and Maintenance Checks**: Verify the dependencies and maintenance requirements of the project before adopting it.
 4. **Prototype or Internal Workflow**: Use zmap/zgrab2 in a prototype or internal workflow to test its capabilities and identify potential issues.
 
-**Production Readiness:** With proper checks and maintenance, zmap/zgrab2 can be considered for production use. Its medium production readiness score indicates that it can be
+**Production Readiness:** With proper checks and maintenance, zmap/zgrab2 can be considered for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zmap/zgrab2).
 
 ### Русский
 

@@ -38,7 +38,10 @@ Here's a brief summary of the open-source project:
 1. **Evaluate the Project:** Review the project's GitHub page, documentation, and community engagement to assess its maturity and potential for your use case.
 2. **Inspect Integration Signals:** As mentioned in the integration notes, manual inspection is required before adoption due to sparse integration signals in the discovered metadata.
 3. **Check Dependencies and Maintenance:** Ensure that the project's dependencies are up-to-date and that the maintainers are actively engaged to guarantee production readiness.
-4. **Test and Refine:** Test the project in a controlled environment to refine its configuration and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/crafter-station/skill-kit).
 
 ### Русский
 

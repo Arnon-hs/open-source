@@ -35,7 +35,11 @@ The arcee-ai/nac project is an open-source harness that enables AI agents to per
 The main value proposition of nac lies in its ability to help developers turn isolated prompts and tools into repeatable agent workflows. This makes it easier to manage complex AI agent tasks and achieve more with less effort. Additionally, nac provides a standardized way to manage agent memory, reducing the risk of data inconsistencies and improving overall workflow efficiency.
 
 **Practical Adoption Path:**
-To adopt nac, developers can start by evaluating its API/SDK/CLI implementation signals and language metadata. They can then integrate nac into their existing workflows and test its functionality. As they become more comfortable with the tool, they can standardize their agent memory and tool-use pipelines using nac's structured episodes and central orchestrator. With its straightforward evaluation process and
+To adopt nac, developers can start by evaluating its API/SDK/CLI implementation signals and language metadata. They can then integrate nac into their existing workflows and test its functionality. As they become more comfortable with the tool, they can standardize their agent memory and tool-use pipelines using nac's structured episodes and central orchestrator.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/arcee-ai/nac).
 
 ### Русский
 

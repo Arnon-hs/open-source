@@ -35,7 +35,11 @@ KarmaCircle is an open-source platform that connects NGOs, charities, and indivi
 
 **Practical Adoption Path:** To adopt KarmaCircle, users can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. As the project has a high production readiness score, users can consider it for serious pilots. However, it is essential to conduct a final review of the license, security posture, and active maintainers before adopting the platform.
 
-**Production Readiness:** KarmaCircle has a high production readiness score, indicating that it is a stable and reliable option for serious pilots. The project's recent activity, adoption, and ecosystem signals are
+**Production Readiness:** KarmaCircle has a high production readiness score, indicating that it is a stable and reliable option for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/karmacircleCommunity/KarmaCircle).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt Tokencompress, developers should first review the project's documentati
 
 **Production Readiness:**
 
-Tokencompress is considered Medium production-ready, making it suitable for prototypes or internal workflows. However, developers should perform dependency and maintenance checks before using it in production. This
+Tokencompress is considered Medium production-ready, making it suitable for prototypes or internal workflows. However, developers should perform dependency and maintenance checks before using it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dburnett11155-rgb/Tokencompress).
 
 ### Русский
 

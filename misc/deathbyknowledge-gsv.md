@@ -39,7 +39,11 @@ The value proposition of GSV lies in its ability to simplify the process of inte
 For practical adoption, users should start by inspecting the project's metadata, verifying the license, maintenance, documentation, issues, and release cadence. This will help mitigate risks associated with limited quality signals. Once verified, users can prototype AI features, build agent workflows, and evaluate model tooling using GSV.
 
 **Production Readiness:**
-Production readiness is classified as medium, indicating that GSV is suitable for prototypes or internal workflows but requires dependency and maintenance checks before being used in production environments. This is due to the project's limited quality signals and
+Production readiness is classified as medium, indicating that GSV is suitable for prototypes or internal workflows but requires dependency and maintenance checks before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/deathbyknowledge/gsv).
 
 ### Русский
 

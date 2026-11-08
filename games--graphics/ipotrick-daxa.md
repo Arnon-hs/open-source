@@ -37,7 +37,11 @@ The primary value proposition of Daxa lies in its ability to streamline frontend
 To adopt Daxa in a production environment, it is recommended to start with a small proof of concept and thoroughly review the project's README. This will help assess the feasibility of integrating Daxa into your project and ensure a smooth transition. Before production, it is essential to conduct dependency and maintenance checks to guarantee a stable and secure environment.
 
 **Production Readiness:**
-Daxa is considered production-ready with a medium level of readiness. While it is suitable for prototypes and internal workflows, further evaluation and review are necessary before deploying it in a production environment. This is due to the need for a
+Daxa is considered production-ready with a medium level of readiness. While it is suitable for prototypes and internal workflows, further evaluation and review are necessary before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Ipotrick/Daxa).
 
 ### Русский
 

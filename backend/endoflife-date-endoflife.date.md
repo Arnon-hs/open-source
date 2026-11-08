@@ -35,7 +35,11 @@ Here is a brief summary and an explanation of the project's value, practical ado
 
 **Practical Adoption Path:** To adopt endoflife.date, teams can start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help them understand the project's architecture, functionality, and potential integration points. Once they have a clear understanding of the project's capabilities, they can begin to integrate it into their existing systems, starting with small-scale pilots and gradually scaling up to larger deployments.
 
-**Production Readiness:** endoflife.date demonstrates high production readiness, with recent activity, strong adoption (3340 GitHub stars and 1264 forks), and a robust ecosystem. The project's primary language is Ruby, and
+**Production Readiness:** endoflife.date demonstrates high production readiness, with recent activity, strong adoption (3340 GitHub stars and 1264 forks), and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/endoflife-date/endoflife.date).
 
 ### Русский
 

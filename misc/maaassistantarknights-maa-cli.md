@@ -38,9 +38,9 @@ As for the practical adoption path, here are the steps:
 3. **Testing**: Thoroughly test the tool to ensure it meets your needs and doesn't introduce any issues or security risks.
 4. **Deployment**: Deploy the tool in a production-ready environment after completing the necessary checks and ensuring its stability.
 
-Regarding production readiness, the MaaAssistantArknights/maa-cli project has a medium level of readiness, which means it's suitable for:
+## Before adopting
 
-1. **Prototypes**: The tool can be used as a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MaaAssistantArknights/maa-cli).
 
 ### Русский
 

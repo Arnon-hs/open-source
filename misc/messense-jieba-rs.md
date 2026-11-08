@@ -37,7 +37,11 @@ The value of messense/jieba-rs lies in its ability to provide a Chinese word seg
 For practical adoption, it is recommended to start with a small proof of concept and carefully review the project's README to ensure it aligns with the desired workflow. This will help validate the setup cost and integration path before committing to the project. Additionally, dependency and maintenance checks should be performed to ensure production readiness.
 
 **Production Readiness:**
-messense/jieba-rs has a medium level of production readiness, making it suitable for prototypes or internal workflows. However, further evaluation and validation are necessary before considering it for production use. This is due to
+messense/jieba-rs has a medium level of production readiness, making it suitable for prototypes or internal workflows. However, further evaluation and validation are necessary before considering it for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/messense/jieba-rs).
 
 ### Русский
 

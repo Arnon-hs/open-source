@@ -44,9 +44,9 @@ To adopt TheIdServer, users can follow these steps:
 3. Review the project's GitHub stars, forks, and updated activity to gauge its adoption and production readiness.
 4. Conduct a final review of the project's license, security posture, and active maintainers to ensure it meets their requirements.
 
-**Production Readiness:**
+## Before adopting
 
-TheIdServer has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Aguafrommars/TheIdServer).
 
 ### Русский
 

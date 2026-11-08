@@ -35,7 +35,9 @@ Here's a brief summary and analysis of the open-source project:
 
 **Practical Adoption Path:** For organizations looking to adopt open-pencil/open-pencil, a feasible approach would be to start with a small proof of concept and review the project's README documentation. This will help evaluate the project's feasibility and identify potential integration challenges. Once the proof of concept is successful, teams can gradually scale up their adoption and explore the project's capabilities in more depth.
 
-**Production Readiness:** open-pencil/open-pencil demonstrates high production readiness, with strong signals of recent activity, adoption, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/open-pencil/open-pencil).
 
 ### Русский
 

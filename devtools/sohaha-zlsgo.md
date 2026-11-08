@@ -37,7 +37,11 @@ The primary value of sohaha/zlsgo lies in its ability to streamline daily develo
 To adopt sohaha/zlsgo, engineers can start by evaluating its implementation signals, such as API, SDK, and CLI exposure. They can then assess its language metadata and focused topics to determine its relevance to their specific use cases. With its straightforward integration process, engineers can easily integrate sohaha/zlsgo into their existing workflows and start experiencing its benefits.
 
 **Production Readiness:**
-Sohaha/zlsgo has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its stability and reliability. Its 1002 GitHub stars and 55 forks also suggest a large and
+Sohaha/zlsgo has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sohaha/zlsgo).
 
 ### Русский
 

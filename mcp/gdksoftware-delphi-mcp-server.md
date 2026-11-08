@@ -37,7 +37,9 @@ The value proposition of this project lies in its ability to standardize integra
 2. **Internal workflows**: GDKsoftware/Delphi-MCP-Server can be used to integrate AI assistants with internal tools and data sources, streamlining workflows and improving productivity.
 3. **Production readiness**: While the project is not yet production-ready, it can be further evaluated and refined for use in production environments. This involves reviewing the project's license, security posture, and maintenance practices.
 
-The project's production readiness is rated as medium, indicating that it is useful for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GDKsoftware/Delphi-MCP-Server).
 
 ### Русский
 

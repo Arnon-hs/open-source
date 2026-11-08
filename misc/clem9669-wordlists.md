@@ -39,7 +39,9 @@ As for the practical adoption path, it involves several steps:
 2. **Validate setup costs**: It's essential to evaluate the effort required to set up and maintain the project to ensure it aligns with the team's resources and priorities.
 3. **Integration and testing**: Once the project is deemed suitable, developers can integrate it into their workflow, test its functionality, and ensure it works as expected.
 
-Regarding production readiness, the project is rated as "Medium", indicating that it's useful for prototypes or internal workflows but requires dependency and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/clem9669/wordlists).
 
 ### Русский
 

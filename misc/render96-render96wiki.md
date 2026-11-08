@@ -41,8 +41,9 @@ To adopt Cobble_stone, users should follow these steps:
 3. Conduct dependency and maintenance checks to ensure the project is production-ready.
 4. Integrate the project into a prototype or internal workflow, monitoring its performance and addressing any issues that arise.
 
-**Production Readiness:**
-Cobble_stone is considered medium-production ready, indicating that it can be used in prototypes or internal workflows with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29).
 
 ### Русский
 

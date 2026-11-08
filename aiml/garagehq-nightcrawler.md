@@ -40,7 +40,9 @@ Nightcrawler is an open-source project that enables local AI pentesting on smart
 3. Evaluate the project's quality signals, such as updates and topic coverage, to gauge its reliability.
 4. Integrate Nightcrawler into their workflow, taking note of any potential dependencies or maintenance requirements.
 
-**Production Readiness:** Nightcrawler is considered medium-production-ready, suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/garagehq/nightcrawler/).
 
 ### Русский
 

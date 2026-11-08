@@ -46,7 +46,11 @@ To adopt RimSearcher, developers can follow these steps:
 
 **Production Readiness:**
 
-RimSearcher has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows. However, before deploying it in production, developers should perform dependency and maintenance checks to ensure the project's stability and security. Additionally, a
+RimSearcher has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows. However, before deploying it in production, developers should perform dependency and maintenance checks to ensure the project's stability and security.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kearril/RimSearcher).
 
 ### Русский
 

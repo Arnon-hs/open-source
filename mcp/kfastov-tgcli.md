@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the value, practical adoption path, an
 
 **Practical Adoption Path:** To adopt kfastov/tgcli, developers can start by evaluating the project's implementation signals, such as its API, SDK, CLI, and language metadata. They can then assess the project's quality signals, including its GitHub stars, forks, and update history. If the project meets their requirements, developers can integrate it into their workflows, starting with prototypes or internal projects. However, it's essential to perform dependency and maintenance checks before moving to production.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it's suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kfastov/tgcli).
 
 ### Русский
 

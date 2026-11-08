@@ -42,7 +42,10 @@ To adopt VAID, developers should follow these steps:
 1. **Manual Inspection**: Carefully review the project's metadata, license, and documentation to ensure it meets the project's requirements.
 2. **Verify Dependencies**: Check the project's dependencies and maintenance requirements to ensure they align with the project's goals and resources.
 3. **Prototype and Test**: Use VAID to prototype AI features and build agent workflows, and thoroughly test the project to identify any potential issues.
-4. **Integration and Refactoring**: Integrate VAID into the project's existing codebase and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/solara-associates/vaid).
 
 ### Русский
 

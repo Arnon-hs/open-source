@@ -42,7 +42,10 @@ PyPtt/PyPtt has a high production readiness score due to:
 - Recent activity (updated on 2026-07-13)
 - Strong adoption (726 GitHub stars and 104 forks)
 - Robust ecosystem signals
-However, a thorough review of the project's metadata, including
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PyPtt/PyPtt).
 
 ### Русский
 

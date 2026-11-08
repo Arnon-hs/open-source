@@ -36,8 +36,9 @@ The primary value of kbwo/ccmanager lies in its ability to streamline the integr
 **Practical Adoption Path:** 
 To adopt kbwo/ccmanager, developers can start by evaluating the project's integration signals, such as API/SDK/CLI, language metadata, or focused topics. They can then prototype AI features using the project's Coding Agent Session Manager, and build RAG (Reinforcement Agent Graph) or agent workflows. As they become more comfortable with the project, they can integrate it into their existing applications and evaluate model tooling.
 
-**Production Readiness:** 
-kbwo/ccmanager has a high production readiness score due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kbwo/ccmanager).
 
 ### Русский
 

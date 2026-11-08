@@ -43,7 +43,10 @@ To adopt GenAIwithMS/twitter-mcp, developers can follow these steps:
 2. Review the project's GitHub repository, including the number of stars, forks, and recent updates.
 3. Assess the project's primary language (TypeScript) and topics.
 4. Evaluate the project's license, security posture, and active maintainers.
-5. Integrate the MCP server with AI assistants and test its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GenAIwithMS/twitter-mcp).
 
 ### Русский
 

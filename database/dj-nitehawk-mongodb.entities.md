@@ -40,7 +40,9 @@ Here's a brief summary of the MongoDB.Entities project:
 3. Test the library's functionality and performance to ensure it meets their needs.
 4. Review the library's license, security posture, and maintainers to ensure it aligns with their project's requirements.
 
-**Production Readiness:** MongoDB.Entities has a high production readiness score due to its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dj-nitehawk/MongoDB.Entities).
 
 ### Русский
 

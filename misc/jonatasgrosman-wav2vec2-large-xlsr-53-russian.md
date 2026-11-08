@@ -40,8 +40,9 @@ To adopt this project, developers can follow these steps:
 2. **Integrate with the application**: Use the model's API or framework to integrate it with the application, following the provided documentation and guidelines.
 3. **Test and refine**: Test the model's performance in the application and refine it as needed to achieve the desired results.
 
-**Production Readiness:**
-The production readiness of this project is uncertain due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-russian).
 
 ### Русский
 

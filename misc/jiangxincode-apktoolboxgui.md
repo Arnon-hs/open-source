@@ -40,7 +40,9 @@ ApkToolBoxGUI is a user-friendly graphical interface tool for programmers, desig
 3. **Integration**: Integrate ApkToolBoxGUI into your development workflow, beginning with small projects or prototypes.
 4. **Validation**: Validate the setup cost and ensure that the tool meets your specific needs before committing to its use.
 
-**Production readiness:** ApkToolBoxGUI has a medium production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jiangxincode/ApkToolBoxGUI).
 
 ### Русский
 

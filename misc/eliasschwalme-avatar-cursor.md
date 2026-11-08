@@ -38,7 +38,9 @@ Misc
 3. **Prototype Development**: Use Avatar-cursor to prototype AI features, RAG or agent workflows, or evaluate model tooling.
 4. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements before considering production deployment.
 
-**Production Readiness:** Avatar-cursor is considered production-ready with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/eliasschwalme/avatar-cursor/blob/main/demo.gif).
 
 ### Русский
 

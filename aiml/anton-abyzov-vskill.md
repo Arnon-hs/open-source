@@ -44,9 +44,9 @@ To adopt vskill, developers can follow these steps:
 3. Integrate vskill into their project using the chosen implementation signals.
 4. Test and refine the AI capabilities to ensure they meet the project's performance and security standards.
 
-**Production Readiness:**
+## Before adopting
 
-vskill is considered production-ready due to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/anton-abyzov/vskill).
 
 ### Русский
 

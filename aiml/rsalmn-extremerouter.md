@@ -38,7 +38,10 @@ Here's a brief summary of the rsalmn/ExtremeRouter project:
 1. Evaluate the project's API, SDK, and CLI interfaces to understand how to integrate it with their existing workflows.
 2. Choose the AI services they want to connect to and configure the project accordingly.
 3. Use the project's auto-fallback feature to ensure seamless integration and minimize the risk of hitting limits.
-4. Test and refine their AI features using the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rsalmn/ExtremeRouter).
 
 ### Русский
 

@@ -40,7 +40,10 @@ The value proposition of CyberScraper-2077 lies in its ability to add AI capabil
 To adopt CyberScraper-2077, developers can follow these steps:
 
 1. Evaluate the project's API, SDK, and CLI documentation to understand how to integrate it into their applications.
-2. Familiarize themselves with the project's primary language, Python, and its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/itsOwen/CyberScraper-2077).
 
 ### Русский
 

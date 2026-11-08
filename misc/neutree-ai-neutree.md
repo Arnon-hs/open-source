@@ -39,7 +39,9 @@ Here's a brief summary of the neutree project:
 2. **Internal Workflows:** Deploy neutree for internal workflows, leveraging its Private MaaS solution to develop and deploy AI models.
 3. **Production Readiness:** Before deploying neutree in production, carefully review dependencies and perform maintenance checks to ensure the platform meets your organization's security and compliance requirements.
 
-**Production Readiness:** With
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/neutree-ai/neutree).
 
 ### Русский
 

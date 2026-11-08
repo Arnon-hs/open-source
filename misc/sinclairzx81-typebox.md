@@ -35,7 +35,10 @@ Misc
 
 1. **Manual Inspection:** Before adopting sinclairzx81/typebox, developers should perform a manual inspection to ensure that the tool meets their specific requirements and integrates seamlessly with their existing project.
 2. **Prototype and Evaluate:** Use sinclairzx81/typebox to prototype AI features, build RAG or agent workflows, and evaluate model tooling. This will help developers understand the tool's capabilities and limitations.
-3. **Customize and Refine:** Based on the evaluation, developers can
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sinclairzx81/typebox).
 
 ### Русский
 

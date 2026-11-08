@@ -38,7 +38,11 @@ The project's value proposition lies in its ability to help developers ship user
 To adopt this project, developers should start with a small proof of concept to evaluate its feasibility and potential integration challenges. This involves checking the README documentation and validating the setup cost before committing to a larger-scale implementation. The integration path is not obvious from the metadata, so careful planning and evaluation are necessary.
 
 **Production Readiness:**
-The project has a medium production readiness score, indicating that it's useful for prototypes or internal workflows but requires dependency and maintenance checks before it can be considered production-ready. This means that while it can
+The project has a medium production readiness score, indicating that it's useful for prototypes or internal workflows but requires dependency and maintenance checks before it can be considered production-ready.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/flowkey/UIKit-cross-platform).
 
 ### Русский
 

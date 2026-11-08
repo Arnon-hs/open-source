@@ -41,7 +41,10 @@ To adopt Trade-Frame, users can follow these steps:
 
 1. **Familiarize yourself with the library:** Start by exploring the documentation and sample applications provided with the library.
 2. **Choose a data feed:** Select a suitable data feed (DTN IQFeed, Interactive Brokers, Alpaca, or Phemex) and integrate it with the library.
-3. **Develop your trading strategy:** Use the library's machine learning capabilities (libtorch, LSTM, CUDA) to develop and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rburkholder/trade-frame).
 
 ### Русский
 

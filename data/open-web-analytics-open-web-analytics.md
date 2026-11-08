@@ -35,7 +35,11 @@ Here's a summary and explanation of the Open-Web-Analytics project:
 
 **Practical Adoption Path:** For users looking to integrate Open-Web-Analytics into their systems, a practical adoption path would involve starting with a small proof of concept and carefully reviewing the README documentation. This approach will help users evaluate the feasibility of integration and understand the project's functionality and potential roadblocks.
 
-**Production Readiness:** Open-Web-Analytics demonstrates a high level of production readiness, with recent activity, adoption, and ecosystem signals indicating strong support for the project. With 2,680 GitHub stars and 487 forks, the project has a significant user base and a
+**Production Readiness:** Open-Web-Analytics demonstrates a high level of production readiness, with recent activity, adoption, and ecosystem signals indicating strong support for the project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Open-Web-Analytics/Open-Web-Analytics).
 
 ### Русский
 

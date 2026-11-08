@@ -41,7 +41,10 @@ For organizations looking to adopt kubeai, the following steps can be taken:
 
 1. **Evaluate the project's implementation**: Assess the project's API, SDK, CLI, language metadata, and focused topics to ensure they align with your organization's needs.
 2. **Review the project's production readiness**: Consider the project's recent activity, adoption, and ecosystem signals to gauge its maturity and stability.
-3. **Integrate kubeai with your existing infrastructure**: Follow the project's documentation to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kubeai-project/kubeai).
 
 ### Русский
 

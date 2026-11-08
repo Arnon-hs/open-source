@@ -44,9 +44,9 @@ To adopt Typo, follow these steps:
 3. **Integration and Testing**: Manually integrate Typo into your development workflow and test its functionality to ensure it meets your requirements.
 4. **Dependency and Maintenance Checks**: Verify that Typo's dependencies are up-to-date and that the project has a clear maintenance plan in place.
 
-**Production Readiness:**
+## Before adopting
 
-Typo has a medium production readiness score, indicating that it is suitable for use in prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yuluo-yx/typo).
 
 ### Русский
 

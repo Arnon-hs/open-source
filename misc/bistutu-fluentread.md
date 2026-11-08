@@ -39,9 +39,9 @@ The value proposition of Bistutu/FluentRead lies in its ability to provide a nat
 
 To adopt Bistutu/FluentRead, users can start by installing the plugin in their browser and exploring its features. A small proof of concept and README check can help developers evaluate the plugin's feasibility for integration into their workflow. As the plugin is open-source, users can also contribute to its development and improvement, making it a collaborative and community-driven effort.
 
-**Production Readiness:**
+## Before adopting
 
-Bistutu/FluentRead demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Bistutu/FluentRead).
 
 ### Русский
 

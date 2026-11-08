@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt ihub-pub/plugins, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then assess its production readiness by reviewing its recent activity, adoption, and ecosystem signals. With its strong adoption and recent updates, this project is an attractive option for developers seeking to optimize their project management workflow.
 
-**Production Readiness:** With a score of 61/100, ihub-pub/plugins demonstrates a high level of production readiness, making it suitable for a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ihub-pub/plugins).
 
 ### Русский
 

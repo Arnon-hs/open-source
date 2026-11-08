@@ -41,8 +41,9 @@ To adopt TLabel, users should follow these steps:
 3. **Testing**: Test TLabel in a controlled environment to verify its functionality and performance.
 4. **Integration**: Integrate TLabel into the user's workflow, starting with small-scale projects or prototypes.
 
-**Production Readiness:**
-TLabel is considered production-ready for prototype or internal workflows, but its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/liesliy/tlabel).
 
 ### Русский
 

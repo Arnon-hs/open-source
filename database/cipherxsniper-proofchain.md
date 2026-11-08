@@ -44,9 +44,9 @@ To adopt Proofchain in a production-ready environment, users must perform thorou
 3. Evaluating the project's quality signals, such as its update frequency and topic coverage.
 4. Conducting dependency and maintenance checks to ensure a smooth integration process.
 
-**Production Readiness:** 
+## Before adopting
 
-Proofchain is considered medium-production ready, making it suitable for prototype development, internal workflows, or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cipherxsniper/proofchain).
 
 ### Русский
 

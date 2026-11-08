@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt SAW, teams can start by evaluating its feasibility through a small proof of concept and checking the README documentation. They should validate the setup cost before committing to a larger-scale implementation. The project's production readiness is medium, making it suitable for prototypes or internal workflows, but requiring dependency and maintenance checks before production deployment.
 
-**Production Readiness:** While SAW has some potential for production use, its integration path is not immediately obvious from the metadata, and the setup cost should be carefully validated before scaling up. With 376 GitHub stars and regular updates, the project demonstrates some level of community engagement and maintenance, but caution is advised when deploying it in a
+**Production Readiness:** While SAW has some potential for production use, its integration path is not immediately obvious from the metadata, and the setup cost should be carefully validated before scaling up.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bybren-llc/safe-agentic-workflow).
 
 ### Русский
 

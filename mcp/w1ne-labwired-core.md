@@ -36,8 +36,9 @@ The primary value proposition of w1ne/labwired-core lies in its ability to stand
 **Practical Adoption Path:**
 To adopt w1ne/labwired-core, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The project's straightforward integration process makes it easy to evaluate and incorporate into existing workflows. However, it's essential to perform dependency and maintenance checks before deploying it in production environments.
 
-**Production Readiness:**
-w1ne/labwired-core is considered medium-production ready, making it suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/w1ne/labwired-core).
 
 ### Русский
 

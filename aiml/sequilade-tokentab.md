@@ -36,8 +36,9 @@ The value of Tokentab lies in its ability to simplify the integration of AI capa
 **Practical Adoption Path:**
 To adopt Tokentab, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. With its recent activity, adoption, and strong ecosystem signals, Tokentab is a low-risk choice for serious pilot projects. Developers can integrate Tokentab into their existing workflows and use its cost breakdown analysis to optimize their AI usage and costs.
 
-**Production Readiness:**
-Tokentab has a high production readiness score due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sequilade/tokentab).
 
 ### Русский
 
@@ -75,9 +76,9 @@ sequilade/tokentab 的生产可用性较高，主要原因包括：
 * 采用率：有 125 个 GitHubstar 和 18 个 forks
 * 生态系统信号：有足够的生态系统信号支持严重的试验
 
-但是，仍需要对以下风险进行最终审查：
+## 采用前检查
 
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/sequilade/tokentab)。
 
 ## 🧭 Practical evaluation
 

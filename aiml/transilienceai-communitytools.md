@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt transilienceai/communitytools, users can start by evaluating the project's feasibility through a small proof of concept and reviewing the README documentation. This will help them understand the project's architecture and integration requirements. Once they're satisfied with the project's potential, they can begin integrating it into their existing workflows, starting with a small pilot project.
 
-**Production Readiness:** The project's high production readiness is evident from its recent activity, strong adoption (438 GitHub stars and 75 forks), and positive ecosystem signals. The primary language is Python, and the
+**Production Readiness:** The project's high production readiness is evident from its recent activity, strong adoption (438 GitHub stars and 75 forks), and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/transilienceai/communitytools).
 
 ### Русский
 

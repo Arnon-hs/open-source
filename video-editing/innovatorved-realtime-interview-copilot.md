@@ -41,7 +41,11 @@ For organizations looking to adopt this tool, the recommended approach is to sta
 
 **Production Readiness:**
 
-The Realtime Interview Copilot has a production readiness score of Medium, indicating that it is useful for prototypes or internal workflows. However, before deploying it in a production environment, organizations should conduct a thorough review of its
+The Realtime Interview Copilot has a production readiness score of Medium, indicating that it is useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/innovatorved/realtime-interview-copilot).
 
 ### Русский
 

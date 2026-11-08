@@ -65,7 +65,10 @@ seehiong/blender-mcp-n8n 是一个开源项目，旨在通过 Model Context Prot
 该项目已具有较高的生产可用性，主要原因是：
 
 * 近期活跃
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/seehiong/blender-mcp-n8n)。
 
 ## 🧭 Practical evaluation
 

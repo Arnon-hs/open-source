@@ -37,7 +37,11 @@ The project's value lies in its ability to streamline the data model generation 
 To adopt this project, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then integrate the project into their existing workflow by generating data models from various schema types. The project's documentation and community support can provide guidance and assistance throughout the adoption process.
 
 **Production Readiness:**
-The project has a high production readiness score, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot. With 3954 GitHub stars, 449 forks, and regular updates, the project has
+The project has a high production readiness score, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/koxudaxi/datamodel-code-generator).
 
 ### Русский
 
@@ -69,7 +73,10 @@ koxudaxi/datamodel-code-generator 是一个开源项目，用于从 OpenAPI、JS
 
 * 频繁的更新和维护。
 * 强大的社区支持和采用率。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/koxudaxi/datamodel-code-generator)。
 
 ## 🧭 Practical evaluation
 

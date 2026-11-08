@@ -40,7 +40,10 @@ The project offers significant value by providing a pre-built model stack for AI
 1. **Prototype and Evaluate:** Use the AI meeting recorder to prototype AI features and evaluate its performance in a controlled environment.
 2. **Internal Workflows:** Once the prototype is successful, integrate the AI meeting recorder into internal workflows to gain more experience and refine the integration.
 3. **Dependency and Maintenance Checks:** Before adopting the project for production, verify the license, maintenance, documentation, issues, and release cadence to ensure it meets your organization's standards.
-4. **Manual Inspection:** Conduct a manual inspection of the project to identify any potential issues or areas for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/puremetricsai/lumi).
 
 ### Русский
 

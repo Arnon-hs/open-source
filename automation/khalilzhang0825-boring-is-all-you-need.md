@@ -33,7 +33,11 @@ Automation · AI/ML · DevTools
 
 **Practical Adoption Path:** To adopt this project, users should start with a small proof of concept to evaluate its feasibility. This involves checking the README documentation and integrating the project into a small-scale workflow to test its functionality. Once the setup cost is validated, users can commit to using the project in their production environment.
 
-**Production Readiness:** The production readiness of Boring Is All You Need is rated as Medium. While it is useful for prototypes or internal workflows, users should perform dependency and maintenance checks before deploying it in a production environment. This is due to the potential integration path not being obvious from the metadata, which
+**Production Readiness:** The production readiness of Boring Is All You Need is rated as Medium. While it is useful for prototypes or internal workflows, users should perform dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Khalilzhang0825/boring-is-all-you-need).
 
 ### Русский
 

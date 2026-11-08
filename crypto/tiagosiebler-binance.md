@@ -44,9 +44,9 @@ To adopt tiagosiebler/binance, developers can follow these steps:
 3. Run integration tests to ensure the SDK is functioning correctly.
 4. Use the SDK to build and test their blockchain workflow or feature.
 
-**Production Readiness:**
+## Before adopting
 
-tiagosiebler/binance has demonstrated high production readiness due to its recent activity, strong adoption (922 GitHub stars and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tiagosiebler/binance).
 
 ### Русский
 

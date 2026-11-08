@@ -40,7 +40,11 @@ Here's a brief summary of the open-source project:
 3. **Integration**: Connect Cronboard to existing tools and workflows to create repeatable flows and schedule operational tasks.
 4. **Pilot**: Run a small-scale pilot to test Cronboard's impact on productivity and workflow efficiency.
 
-**Production Readiness:** Cronboard has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals. With
+**Production Readiness:** Cronboard has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/antoniorodr/cronboard).
 
 ### Русский
 

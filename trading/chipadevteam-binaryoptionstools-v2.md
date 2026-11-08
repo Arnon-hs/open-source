@@ -36,8 +36,9 @@ The primary value of BinaryOptionsTools-v2 lies in its ability to automate marke
 **Practical Adoption Path:**
 To adopt BinaryOptionsTools-v2, users can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. Once familiar with the tool's features and functionality, users can integrate it into their existing workflows, starting with prototypes or internal projects. Before deploying the tool in production, it is essential to conduct thorough dependency and maintenance checks to ensure its stability and security.
 
-**Production Readiness:**
-BinaryOptionsTools-v2 has a medium production readiness score, indicating that it is suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ChipaDevTeam/BinaryOptionsTools-v2).
 
 ### Русский
 

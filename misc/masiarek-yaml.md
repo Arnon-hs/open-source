@@ -37,7 +37,11 @@ The project's value proposition lies in its ability to enhance AI capabilities w
 To adopt this project, developers should start by manually inspecting the code and integration signals to ensure it meets their specific needs. They should also verify the license, maintenance, documentation, issues, and release cadence to ensure the project's stability and reliability. Once these checks are complete, developers can integrate the project into their workflow, using it for prototype development, building RAG or agent workflows, or evaluating model tooling.
 
 **Production Readiness:**
-The project has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows but requires further checks and validation before being deployed in production. This is due to the limited quality signals available and the need for
+The project has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows but requires further checks and validation before being deployed in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/masiarek/YAML/blob/master/method_comparisons/postit_rcv_example/postit_video_fair_and_balanced.md).
 
 ### Русский
 

@@ -42,7 +42,9 @@ Regarding production readiness, this project is rated as **Medium**. It's suitab
 * **Prototypes**: Use it as a starting point for experimentation or proof-of-concepts.
 * **Internal Workflows**: Integrate it into your internal processes, but ensure you perform thorough dependency and maintenance checks before deploying it to production.
 
-Keep in mind that the project's quality signals are limited, so it's essential to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/megamen32/cudabroker).
 
 ### Русский
 

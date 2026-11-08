@@ -37,7 +37,11 @@ The project's value lies in its ability to make internal knowledge searchable an
 To adopt this project, users should start with a small proof of concept to evaluate its feasibility and ensure it meets their specific requirements. They should also conduct a thorough review of the README file to understand the project's architecture, dependencies, and maintenance requirements. Once the proof of concept is successful, users can integrate the project into their production environment after conducting dependency and maintenance checks.
 
 **Production Readiness:**
-The project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows. However, users should conduct a final review of the license, security posture, and
+The project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Event-AHU/Medical_Image_Analysis).
 
 ### Русский
 

@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the project Aido:
 
 **Practical Adoption Path:** To adopt Aido, developers need to manually inspect the project before integrating it into their workflows. This involves verifying the license, maintenance, documentation, issues, and release cadence to ensure that the project meets their needs. Once adopted, Aido can be used to streamline the process of managing AI-generated pull requests, making it easier to build and deploy AI-powered applications.
 
-**Production Readiness:** Aido has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows, but may not be ready for production without
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aido-dev/aido).
 
 ### Русский
 

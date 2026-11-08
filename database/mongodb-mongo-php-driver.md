@@ -50,7 +50,11 @@ To adopt the MongoDB PHP driver, follow these steps:
 
 **Production Readiness:**
 
-The MongoDB PHP driver has a medium production readiness score due to the need for manual inspection and dependency checks. While it's suitable for prototypes or internal workflows, it's essential to review the license, security posture, and active maintainers before using it in
+The MongoDB PHP driver has a medium production readiness score due to the need for manual inspection and dependency checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mongodb/mongo-php-driver).
 
 ### Русский
 

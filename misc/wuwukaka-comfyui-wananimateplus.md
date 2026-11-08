@@ -41,7 +41,10 @@ To adopt ComfyUI-WanAnimatePlus, follow these steps:
 
 1. **Careful Review**: Conduct a thorough review of the project's documentation, code, and security posture to ensure it meets your organization's standards.
 2. **Integration Testing**: Perform manual inspection and testing to ensure seamless integration with your existing systems.
-3. **Dependency Checks**: Verify that
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wuwukaka/ComfyUI-WanAnimatePlus).
 
 ### Русский
 

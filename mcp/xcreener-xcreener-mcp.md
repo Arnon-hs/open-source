@@ -33,7 +33,11 @@ The "Show HN: MCP server so AI agents can screen markets in plain English" proje
 
 The value of this project lies in its ability to standardize integrations and provide a straightforward way for AI agents to interact with real tools and data. The practical adoption path involves connecting AI agents to tools, setting up Model Context Protocol servers, and standardizing integrations. However, users should be cautious and verify the project's quality signals, license, maintenance, documentation, issues, and release cadence before using it in production.
 
-As for production readiness, the project is rated as medium, indicating that it is suitable for prototypes or internal workflows but requires careful consideration and validation before deployment in a production environment. This means that users should conduct thorough dependency and maintenance checks to ensure the project's stability and
+As for production readiness, the project is rated as medium, indicating that it is suitable for prototypes or internal workflows but requires careful consideration and validation before deployment in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xcreener/xcreener-mcp).
 
 ### Русский
 

@@ -70,7 +70,10 @@ jarvis2f/telegram-files 是一个开源项目，提供了一个自主托管的 T
 
 * 有近 2.4 万个 GitHub 星标和 177 个分叉，这表明该项目有着很好的社区支持和采用度。
 * 最近有活动维护，表明该项目仍然活跃并且被维护。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/jarvis2f/telegram-files)。
 
 ## 🧭 Practical evaluation
 

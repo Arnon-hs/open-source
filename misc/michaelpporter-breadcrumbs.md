@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project "michaelpporter/breadcrumbs":
 
 **Practical Adoption Path:** For practical adoption, it's recommended to start with a small proof of concept and review the project's README to understand its functionality and any potential integration challenges. This will help evaluate the project's feasibility and identify any potential issues before scaling up the integration.
 
-**Production Readiness:** With a high production readiness score, michaelpporter/breadcrumbs is deemed ready for serious pilots. The project's recent activity, adoption rate, and ecosystem signals all indicate a strong level of maturity and stability, making it a reliable choice for
+**Production Readiness:** With a high production readiness score, michaelpporter/breadcrumbs is deemed ready for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/michaelpporter/breadcrumbs).
 
 ### Русский
 

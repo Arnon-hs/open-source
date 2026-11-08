@@ -33,7 +33,11 @@ Annyfee/agent-craft is an open-source project that provides a comprehensive, ful
 
 The value proposition of Annyfee/agent-craft lies in its ability to streamline AI agent workflows, making it easier for developers to integrate and manage multiple tools and models. The practical adoption path involves evaluating the project's implementation signals, such as its API, SDK, CLI, and language metadata, to ensure it aligns with the user's needs. Once adopted, users can leverage the project's standardized agent memory and tool-use pipelines to build more efficient and scalable AI workflows.
 
-In terms of production readiness, Annyfee/agent-craft's recent activity, strong adoption (369 GitHub stars and 54 forks), and ecosystem signals indicate that it is a stable and mature project. However, it's essential to conduct a final review of
+In terms of production readiness, Annyfee/agent-craft's recent activity, strong adoption (369 GitHub stars and 54 forks), and ecosystem signals indicate that it is a stable and mature project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Annyfee/agent-craft).
 
 ### Русский
 

@@ -33,7 +33,11 @@ Chatterino/chatterino2 is an open-source chat client for Twitch, designed to str
 
 As for the practical adoption path, users can start by evaluating the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics. This allows them to assess the project's compatibility and ease of integration with their existing systems. Once evaluated, users can begin to integrate Chatterino/chatterino2 into their workflows, taking advantage of its automation and CI feedback features.
 
-Chatterino/chatterino2's production readiness is high, with strong signals of recent activity, adoption, and ecosystem support. Its 2,525 GitHub stars and 601 forks indicate a large and engaged community, while its primary language of C++ and 5 topics suggest a well-organized and maintainable codebase. However, a final review of the project's license, security posture, and
+Chatterino/chatterino2's production readiness is high, with strong signals of recent activity, adoption, and ecosystem support. Its 2,525 GitHub stars and 601 forks indicate a large and engaged community, while its primary language of C++ and 5 topics suggest a well-organized and maintainable codebase.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Chatterino/chatterino2).
 
 ### Русский
 

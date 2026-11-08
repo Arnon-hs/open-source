@@ -37,7 +37,11 @@ The primary value proposition of Intruth-Factcheck lies in its ability to automa
 To adopt Intruth-Factcheck, users must first undergo a manual inspection to ensure the project meets their specific needs. This involves validating the setup cost and considering the risks associated with integration, such as the potential for sparse metadata signals. Once the project is deemed suitable, users can integrate it into their workflows, connecting tools and scheduling tasks to automate repetitive operations.
 
 **Production Readiness:** 
-Intruth-Factcheck has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, before deploying the project in a production environment, users must conduct thorough dependency and maintenance checks to ensure stability and
+Intruth-Factcheck has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rpanigrahi222/intruth-factcheck).
 
 ### Русский
 

@@ -37,7 +37,9 @@ Database
 2. **Manual Inspection:** Due to sparse integration signals, teams must manually inspect the project's code and documentation to understand its integration requirements and potential challenges.
 3. **Prototype or Internal Use:** Once evaluated, PGSimCity can be used for prototyping database-backed applications or internal workflows, where its medium production readiness level is suitable.
 
-**Production Readiness:** PGSimCity has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NikolayS/pgsimcity).
 
 ### Русский
 

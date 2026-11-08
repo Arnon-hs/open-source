@@ -41,7 +41,10 @@ To adopt mcpc-tech/mcpc in a project, follow these steps:
 
 1. **Understand the MCP protocol**: Familiarize yourself with the Model Context Protocol and its requirements.
 2. **Choose a suitable MCP tool**: Select an existing MCP tool that fits your project's needs.
-3. **Implement the MCP server**: Use the mcpc-tech/mcpc project to build an MCP server that connects your AI assistant to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mcpc-tech/mcpc).
 
 ### Русский
 

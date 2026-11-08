@@ -38,7 +38,11 @@ The main value proposition of this project is to help developers build product U
 To adopt this project, developers can start by reviewing the README and evaluating the feasibility of integration through a small proof of concept. This will help them understand the project's architecture, dependencies, and potential risks. Once they are comfortable with the project's stability and maintainability, they can integrate it into their existing development workflow.
 
 **Production Readiness:**
-The project has a high production readiness score due to its recent activity, strong adoption (961 GitHub stars and 486 forks), and a robust ecosystem. Its primary language is TypeScript, and
+The project has a high production readiness score due to its recent activity, strong adoption (961 GitHub stars and 486 forks), and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/chatwoot/chatwoot-mobile-app).
 
 ### Русский
 

@@ -44,9 +44,9 @@ To adopt aws/aws-cdk-rfcs, follow these steps:
 3. Start with a small-scale implementation, such as a prototype or internal workflow, to test the project's value and identify areas for improvement.
 4. Gradually scale up the implementation as needed, ensuring that dependencies and maintenance requirements are properly managed.
 
-**Production Readiness:**
+## Before adopting
 
-The production readiness of aws/aws-cdk-rfcs is medium, indicating that
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aws/aws-cdk-rfcs).
 
 ### Русский
 

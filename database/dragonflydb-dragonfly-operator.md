@@ -33,7 +33,11 @@ Database · DevOps/Infra
 
 **Practical Adoption Path**: To adopt the dragonflydb/dragonfly-operator, organizations can start with a small proof of concept to evaluate its feasibility. This involves checking the README documentation and integrating the operator with their existing systems. With a successful proof of concept, organizations can then scale up their adoption and integrate the operator with their knowledge bases and AI/ML applications.
 
-**Production Readiness**: The dragonflydb/dragonfly-operator is considered production-ready due to its recent activity, adoption, and strong ecosystem signals. With 341 GitHub stars, 106 forks, and regular updates, the operator demonstrates a
+**Production Readiness**: The dragonflydb/dragonfly-operator is considered production-ready due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dragonflydb/dragonfly-operator).
 
 ### Русский
 

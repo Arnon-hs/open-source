@@ -37,7 +37,11 @@ As for the practical adoption path, here's a step-by-step guide:
 2. **Review and Assessment**: Perform a thorough review of the project's license, security posture, and maintainers to identify any potential risks or concerns.
 3. **Adoption and Integration**: Once the initial evaluation and review are complete, begin integrating the project into your development workflow, leveraging its capabilities to build product UI faster and improve frontend delivery.
 
-Regarding production readiness, the project's recent activity, adoption, and strong ecosystem signals make it suitable for serious pilots. With over 2,000 GitHub stars and 982 forks, psychopy/psychopy has
+Regarding production readiness, the project's recent activity, adoption, and strong ecosystem signals make it suitable for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/psychopy/psychopy).
 
 ### Русский
 

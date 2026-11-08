@@ -39,7 +39,10 @@ The practical adoption path for Kestrel involves the following steps:
 2. Inspect the project's integration signals to gauge its compatibility with other tools and systems.
 3. Verify the project's license, maintenance, documentation, issues, and release cadence to ensure its stability and reliability.
 4. Perform thorough dependency and maintenance checks to ensure the project's readiness for production use.
-5. Consider using Kestrel for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sohumor/KestrelOS).
 
 ### Русский
 

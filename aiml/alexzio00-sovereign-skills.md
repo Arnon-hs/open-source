@@ -41,7 +41,11 @@ To adopt Sovereign-Skills, users can start by evaluating its feasibility through
 
 **Production Readiness:**
 
-Sovereign-Skills has a high production readiness score, indicating that it is suitable for serious pilot projects. The project's recent activity, adoption, and ecosystem signals suggest a strong and active community, which is essential for
+Sovereign-Skills has a high production readiness score, indicating that it is suitable for serious pilot projects.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AlexZio00/sovereign-skills).
 
 ### Русский
 

@@ -43,7 +43,10 @@ To adopt stripe/openapi, developers can follow these steps:
 2. **Assess the risks**: Carefully evaluate the project's license, security posture, and maintainers to ensure they align with your organization's requirements.
 3. **Integrate the OpenAPI specification**: Use the provided OpenAPI specification to integrate Stripe's payment services into your application.
 4. **Perform manual inspection**: Thoroughly review the integration to ensure it meets your requirements and is secure.
-5. **Test and iterate**: Test the integration, identify any issues, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/stripe/openapi).
 
 ### Русский
 

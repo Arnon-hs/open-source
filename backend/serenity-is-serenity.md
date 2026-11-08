@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** The adoption path for serenity-is/Serenity begins with a small proof of concept, where users can evaluate the project's feasibility and potential impact on their existing workflows. This is followed by a thorough review of the project's README and integration with the organization's existing systems.
 
-**Production Readiness:** With 2694 GitHub stars, 808 forks, and recent activity, serenity-is/Serenity has demonstrated its production readiness. Its high adoption rate, strong ecosystem signals, and
+**Production Readiness:** With 2694 GitHub stars, 808 forks, and recent activity, serenity-is/Serenity has demonstrated its production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/serenity-is/Serenity).
 
 ### Русский
 

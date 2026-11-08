@@ -38,7 +38,11 @@ The main value proposition of Tencent/libpag lies in its ability to simplify the
 To adopt Tencent/libpag, developers should start with a small proof of concept and carefully review the README documentation to understand the integration path. This will help them evaluate the setup cost and potential risks before committing to a full-scale implementation.
 
 **Production Readiness:**
-Tencent/libpag has demonstrated high production readiness, with strong adoption (5746 GitHub stars), recent activity, and a robust ecosystem. Its
+Tencent/libpag has demonstrated high production readiness, with strong adoption (5746 GitHub stars), recent activity, and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Tencent/libpag).
 
 ### Русский
 

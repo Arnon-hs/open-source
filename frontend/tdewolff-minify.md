@@ -33,7 +33,11 @@ Here's a brief summary and analysis of the tdewolff/minify open-source project:
 
 **Value:** The value proposition of tdewolff/minify lies in its ability to simplify the integration of AI capabilities into existing projects, allowing developers to focus on building and prototyping AI features without starting from a blank slate. This project helps bridge the gap between AI research and practical application, making it an attractive solution for developers seeking to leverage AI in their projects.
 
-**Practical Adoption Path:** To adopt tdewolff/minify, developers should start with a small proof of concept, carefully evaluating the project's README and documentation to ensure it meets their specific needs. This initial evaluation will help identify potential integration challenges and opportunities for customization. Once the proof of concept is successful, developers can scale up their adoption, integrating the project into their existing workflows and exploring its potential for
+**Practical Adoption Path:** To adopt tdewolff/minify, developers should start with a small proof of concept, carefully evaluating the project's README and documentation to ensure it meets their specific needs. This initial evaluation will help identify potential integration challenges and opportunities for customization.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tdewolff/minify).
 
 ### Русский
 

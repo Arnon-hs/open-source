@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by exploring the 15 runnable lessons, which provide a hands-on introduction to the project's features and capabilities. From there, they can integrate the project into their own workflows, leveraging the exposed implementation signals to build and evaluate AI-powered features.
 
-**Production Readiness:** The project's production readiness is rated as medium, indicating that it is suitable for prototypes or internal workflows, but may require additional dependency and maintenance checks before being deployed in production environments. As the project has a relatively low number of GitHub stars and forks, it is
+**Production Readiness:** The project's production readiness is rated as medium, indicating that it is suitable for prototypes or internal workflows, but may require additional dependency and maintenance checks before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/7-e1even/learn-agent).
 
 ### Русский
 

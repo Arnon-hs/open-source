@@ -35,7 +35,11 @@ Youssefvdel's qwengate is a drop-in OpenAI-compatible API gateway for Qwen AI mo
 The primary value proposition of qwengate is its ability to add AI capability without requiring users to start from scratch, thus saving time and resources. It enables users to easily integrate Qwen AI models into their workflows and applications, making it an attractive solution for developers and organizations looking to leverage AI technology.
 
 **Practical Adoption Path:**
-The adoption path for qwengate appears straightforward, with clear implementation signals such as API/SDK/CLI, language metadata, and focused topics. Users can start by evaluating the project's GitHub repository, exploring the documentation and codebase, and then integrating it into
+The adoption path for qwengate appears straightforward, with clear implementation signals such as API/SDK/CLI, language metadata, and focused topics.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/youssefvdel/qwengate).
 
 ### Русский
 

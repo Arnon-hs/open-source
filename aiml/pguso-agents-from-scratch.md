@@ -33,7 +33,11 @@ The pguso/agents-from-scratch project enables developers to build AI agents from
 
 The value proposition of this project lies in its flexibility and transparency, allowing developers to tailor AI agents to their specific needs without relying on proprietary frameworks or cloud services. The practical adoption path involves evaluating the project's API, SDK, and CLI signals, as well as reviewing its language metadata and focused topics. Once evaluated, developers can integrate the project into their existing workflows, leveraging its Python implementation and 13 defined topics.
 
-The project's production readiness is high, with strong ecosystem signals, recent activity, and adoption. Its 914 GitHub stars, 230 forks, and updated maintenance date (2026-07-25) indicate a healthy and active community. However, it's essential to
+The project's production readiness is high, with strong ecosystem signals, recent activity, and adoption. Its 914 GitHub stars, 230 forks, and updated maintenance date (2026-07-25) indicate a healthy and active community.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pguso/agents-from-scratch).
 
 ### Русский
 

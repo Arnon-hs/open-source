@@ -37,7 +37,11 @@ Misc
 2. **Integration testing**: Manually test the project to ensure it meets your specific needs and integrates seamlessly with your workflow.
 3. **Dependency and maintenance checks**: Verify the project's dependencies, maintenance history, and release cadence to ensure it can be sustainably used in production.
 
-**Production Readiness:** VSCode-code-widgets is considered **Medium** in terms of production readiness. While it may be suitable for prototypes or internal workflows, careful evaluation and testing are necessary before considering production use. Its
+**Production Readiness:** VSCode-code-widgets is considered **Medium** in terms of production readiness. While it may be suitable for prototypes or internal workflows, careful evaluation and testing are necessary before considering production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/CZDanol/vscode-code-widgets).
 
 ### Русский
 

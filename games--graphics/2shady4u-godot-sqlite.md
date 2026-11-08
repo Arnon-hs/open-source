@@ -38,8 +38,9 @@ The project's value proposition lies in simplifying data management for Godot de
 **Practical Adoption Path:**
 The adoption path for this project appears straightforward, as it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics. This makes it easier for developers to evaluate and integrate the solution into their projects. To adopt the project, developers can start by reviewing the documentation, evaluating the code, and then integrating the GDExtension wrapper into their Godot projects.
 
-**Production Readiness:**
-The project has shown strong signs of production readiness, with recent activity, adoption, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/2shady4u/godot-sqlite).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt this project, users should first conduct a thorough review of the codeb
 
 **Production Readiness:**
 
-This project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, users should exercise caution and conduct thorough inspections before adopting it for production use. This
+This project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, users should exercise caution and conduct thorough inspections before adopting it for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/electronicsleep/rust-vim).
 
 ### Русский
 

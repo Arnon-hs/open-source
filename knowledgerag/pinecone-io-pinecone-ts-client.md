@@ -33,7 +33,11 @@ The pinecone-ts-client is an open-source TypeScript/Node client for the Pinecone
 
 The practical adoption path for pinecone-ts-client is straightforward, as it exposes clear implementation signals such as API/SDK/CLI and language metadata. To adopt this project, developers can start by integrating it into their existing systems, using its features to improve search functionality and ground assistant answers. The client's recent updates and strong GitHub metrics (275 stars and 48 forks) indicate a healthy and active community, making it a reliable choice for production use.
 
-In terms of production readiness, pinecone-ts-client has a high score due to its recent activity, adoption, and strong ecosystem signals. While some risks, such as license and security posture, still need final review, the project's overall quality signals suggest that it's a safe choice for production use. With a primary language of TypeScript and five focused topics, pinecone-ts-client is well-suited for serious pilot adoption and
+In terms of production readiness, pinecone-ts-client has a high score due to its recent activity, adoption, and strong ecosystem signals. While some risks, such as license and security posture, still need final review, the project's overall quality signals suggest that it's a safe choice for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pinecone-io/pinecone-ts-client).
 
 ### Русский
 

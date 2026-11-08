@@ -35,7 +35,11 @@ Here's a brief summary of the xKiian/GeekedTest open-source project:
 
 **Practical Adoption Path:** To adopt xKiian/GeekedTest, users can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help them understand the project's capabilities and limitations. Once familiar with the project, users can integrate it into their existing workflows, leveraging its AI capabilities to build and test AI models.
 
-**Production Readiness:** The project's recent activity, adoption, and ecosystem signals indicate its high production readiness. With 634 GitHub stars, 68 forks, and a primary language of
+**Production Readiness:** The project's recent activity, adoption, and ecosystem signals indicate its high production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xKiian/GeekedTest).
 
 ### Русский
 

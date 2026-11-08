@@ -40,7 +40,10 @@ To adopt Plumber in a production environment, follow these steps:
 1. **Manual Inspection**: Carefully review the tool's documentation, code, and issue history to assess its quality and reliability.
 2. **Verify Dependencies**: Ensure that Plumber's dependencies are up-to-date and well-maintained to avoid potential issues.
 3. **Maintenance Checks**: Regularly monitor Plumber's updates, release cadence, and community engagement to ensure ongoing support.
-4. **Pilot Testing**: Run Plumber in a controlled environment to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/getplumber/plumber).
 
 ### Русский
 

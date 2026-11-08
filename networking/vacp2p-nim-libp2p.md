@@ -37,8 +37,9 @@ The project's value lies in its potential to serve as a concrete implementation 
 **Practical Adoption Path:**
 To adopt this project, start with a small proof of concept to evaluate its feasibility. A thorough review of the README is essential to understand the project's architecture and integration requirements. Before committing to production use, ensure that the setup cost is validated, and the project's dependencies and maintenance are thoroughly checked.
 
-**Production Readiness:**
-The project's production readiness is medium due to the need for careful evaluation and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vacp2p/nim-libp2p).
 
 ### Русский
 

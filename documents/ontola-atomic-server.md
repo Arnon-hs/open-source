@@ -42,7 +42,10 @@ To adopt ontola/atomic-server, developers can follow these steps:
 1. Evaluate the project's implementation signals, such as its API, SDK, and CLI, to ensure it meets their project's requirements.
 2. Review the project's GitHub repository, including its stars, forks, and recent updates, to gauge its adoption and community support.
 3. Assess the project's security posture and license agreement to ensure it aligns with their project's needs.
-4. Integrate the project into their development workflow, using the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ontola/atomic-server).
 
 ### Русский
 

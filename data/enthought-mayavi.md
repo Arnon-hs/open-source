@@ -40,7 +40,10 @@ In terms of value, Mayavi offers the following benefits:
 The practical adoption path for Mayavi involves the following steps:
 
 1. **Inspect the code and dependencies**: Review Mayavi's codebase and dependencies to ensure they align with your project's requirements.
-2. **Integrate Mayavi into your project**: Follow the project's documentation to integrate Mayavi into your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/enthought/mayavi).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The value of Consul lies in its ability to simplify the connection and configura
 
 To adopt Consul, developers can start by evaluating its implementation signals, such as its API, SDK, CLI, and language metadata. They can then explore its use cases, such as building RAG or agent workflows, and evaluate its model tooling. With a straightforward evaluation process, developers can quickly assess Consul's suitability for their projects and integrate it into their existing infrastructure.
 
-**Production Readiness:**
+## Before adopting
 
-Consul boasts a high production readiness score, indicating its stability and reliability in
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hashicorp/consul).
 
 ### Русский
 

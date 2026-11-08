@@ -43,9 +43,9 @@ To adopt this project, developers should:
 2. Conduct manual inspection and integration testing to understand the project's behavior and potential limitations.
 3. Verify the project's license, maintenance, documentation, issue tracking, and release cadence to ensure it meets their needs.
 
-**Production Readiness**
+## Before adopting
 
-The project is considered medium production ready, indicating that it may be suitable for prototypes or internal workflows but requires careful evaluation and testing before being deployed in
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/crisdosaygo/good.html).
 
 ### Русский
 

@@ -43,7 +43,10 @@ To adopt this project, developers should:
 2. Verify the project's license, maintenance, and release cadence to ensure it aligns with their organization's requirements.
 3. Evaluate the project's quality signals, such as its issue history and release frequency, to gauge its reliability.
 4. Integrate the project into their application, taking note of potential dependencies and maintenance requirements.
-5. Test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/superlinked/synty).
 
 ### Русский
 

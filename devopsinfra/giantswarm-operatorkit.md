@@ -37,7 +37,10 @@ DevOps/Infra
 2. **Check the README:** Review the project's README to understand its architecture, usage, and best practices.
 3. **Assess Dependencies and Maintenance:** Perform dependency and maintenance checks to ensure the framework aligns with your project's requirements.
 4. **Prototype and Refine:** Use the framework to build a prototype and refine your implementation based on the results.
-5. **Integrate into Production:** Once the prototype is stable and reliable, integrate giantswarm/operatorkit into your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/giantswarm/operatorkit).
 
 ### Русский
 

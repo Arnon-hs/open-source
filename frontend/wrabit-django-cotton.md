@@ -37,7 +37,11 @@ As for the value, the practical adoption path, and production readiness:
 
 **Practical Adoption Path:** To adopt Django-cotton, start with a small proof of concept and review the README documentation. This will help you evaluate the feasibility of integrating the project into your existing Django setup. Once you've completed the proof of concept, you can gradually integrate the project into your production environment.
 
-**Production Readiness:** Django-cotton has a high production readiness score, indicating that it's a stable and reliable option for production use. Its recent activity, adoption, and
+**Production Readiness:** Django-cotton has a high production readiness score, indicating that it's a stable and reliable option for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wrabit/django-cotton).
 
 ### Русский
 

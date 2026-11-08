@@ -44,9 +44,9 @@ To adopt this project, users can start by:
 3. Integrating the project into their existing workflow, starting with a small-scale implementation.
 4. Monitoring the project's maintenance and updating dependencies to ensure production readiness.
 
-**Production Readiness:**
+## Before adopting
 
-The project is considered medium production ready, making it suitable for prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ZeKaiNie/universal-examprep-skill).
 
 ### Русский
 

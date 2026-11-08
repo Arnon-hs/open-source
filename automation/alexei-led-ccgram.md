@@ -35,8 +35,9 @@ Automation · AI/ML · DevTools
 - **Repeatable flows**: By exposing API/CLI hooks, ccgram enables scripted pipelines (e.g., “run lint → generate code → test”) that can be triggered from Telegram or integrated into CI/CD.  
 - **Parallel session management**: tmux integration lets multiple AI agents run side‑by‑side, with real‑time monitoring and selective response handling, reducing manual copy‑paste and supervision.
 
-**Practical Adoption Path**  
-1. **Clone & install** – `pip install -r requirements.txt` and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/alexei-led/ccgram).
 
 ### Русский
 

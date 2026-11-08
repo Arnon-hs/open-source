@@ -44,9 +44,9 @@ To adopt Pulp/pulpcore, follow these steps:
 3. **Evaluate dependencies**: Check the dependencies and maintenance requirements of Pulp/pulpcore to ensure they align with your project's needs.
 4. **Review license and security posture**: Carefully review the license and security posture of Pulp/pulpcore to ensure it meets your project's standards.
 
-**Production Readiness**
+## Before adopting
 
-Pulp/pulpcore has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pulp/pulpcore).
 
 ### Русский
 

@@ -39,7 +39,10 @@ To adopt GSTJ/react-native-magic-modal, follow these steps:
 1. **Evaluate the library**: Start with a small proof of concept and review the README to understand the library's features and usage.
 2. **Assess production readiness**: Consider the library's medium production readiness and perform dependency and maintenance checks to ensure it aligns with your project's requirements.
 3. **Integrate the library**: Gradually integrate the library into your project, starting with small components or features.
-4. **Monitor and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GSTJ/react-native-magic-modal).
 
 ### Русский
 

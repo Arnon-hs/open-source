@@ -41,7 +41,11 @@ To adopt 0xjuanma/helm, developers can start by exploring its customizable timer
 
 **Production Readiness:**
 
-0xjuanma/helm demonstrates high production readiness due to recent activity, adoption, and strong ecosystem signals. With 143 GitHub stars, 8 forks, and regular updates, the project has established a solid foundation for
+0xjuanma/helm demonstrates high production readiness due to recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/0xjuanma/helm).
 
 ### Русский
 

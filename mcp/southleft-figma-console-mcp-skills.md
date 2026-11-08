@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** The adoption path for this project appears straightforward, with a clear implementation signal of API/SDK/CLI, language metadata, and focused topics. Recent activity, adoption, and ecosystem signals are strong, indicating a high level of production readiness. To adopt this project, developers can follow the implementation signals and integrate the skills into their AI assistants.
 
-**Production Readiness:** The project has a high production readiness score, indicating its potential for practical adoption. Recent activity, adoption, and ecosystem signals are strong, and the primary language is JavaScript, which is widely used in the industry. However, a final review of the
+**Production Readiness:** The project has a high production readiness score, indicating its potential for practical adoption. Recent activity, adoption, and ecosystem signals are strong, and the primary language is JavaScript, which is widely used in the industry.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/southleft/figma-console-mcp-skills).
 
 ### Русский
 

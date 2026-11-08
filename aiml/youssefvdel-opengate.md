@@ -40,7 +40,9 @@ Here's a brief summary and analysis of the youssefvdel/opengate project:
 3. Integrate the API gateway with their preferred OpenAI-compatible client or tool.
 4. Test and refine the integration to ensure seamless AI capabilities.
 
-**Production Readiness:** With
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/youssefvdel/opengate).
 
 ### Русский
 

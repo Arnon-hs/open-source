@@ -35,7 +35,10 @@ Productivity
 
 1. **Manual Inspection:** Before adopting PlainLink, developers should manually inspect the project's code, documentation, and issues to understand its functionality, limitations, and potential risks.
 2. **Dependency and Maintenance Checks:** Developers should verify the project's dependencies, maintenance history, and release cadence to ensure that the project is reliable and up-to-date.
-3. **Prototype or Internal Workflow:** PlainLink is suitable for prototyping AI features or building internal workflows, where the focus is on testing and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/HexCodeYT/PlainLink).
 
 ### Русский
 

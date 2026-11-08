@@ -45,7 +45,10 @@ Developers can adopt tobocop2/lilbee by:
 tobocop2/lilbee demonstrates high production readiness due to:
 
 1. Recent activity, indicating ongoing development and maintenance.
-2. Strong adoption signals, including
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tobocop2/lilbee).
 
 ### Русский
 

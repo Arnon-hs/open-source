@@ -37,7 +37,11 @@ The primary value of Ditto lies in its ability to turn isolated prompts and tool
 To adopt Ditto, users can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once they have a basic understanding of the project's capabilities and requirements, they can begin integrating Ditto into their existing workflows. This may involve setting up a local you.md agent profile and configuring Ditto to extract insights from Claude Code and Codex logs.
 
 **Production Readiness:**
-Ditto is considered production-ready for prototypes or internal workflows, but it requires careful dependency and maintenance checks before being deployed in a production environment. While the project has a medium production readiness score, it is
+Ditto is considered production-ready for prototypes or internal workflows, but it requires careful dependency and maintenance checks before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ohad6k/ditto).
 
 ### Русский
 

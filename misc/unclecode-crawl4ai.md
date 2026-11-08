@@ -41,7 +41,10 @@ To adopt Crawl4AI, follow these steps:
 
 1. **Verify the project's quality signals**: Check the project's update history, documentation, and issue tracker to ensure it is actively maintained and has a clear support structure.
 2. **Review the license and terms**: Verify that the project's license allows for commercial use and that you understand any restrictions or obligations.
-3. **Inspect the code and documentation**: Familiarize yourself with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/unclecode/crawl4ai).
 
 ### Русский
 

@@ -67,7 +67,10 @@ Appium MCP 的生产可用性很高，原因如下：
 
 * 近期活动：最近有活动，表明项目仍然维护和更新。
 * 适用度：项目有 437 个 GitHub 星和 89 个 fork，表明它有广泛的采用和支持。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/appium/appium-mcp)。
 
 ## 🧭 Practical evaluation
 

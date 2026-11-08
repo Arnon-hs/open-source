@@ -40,7 +40,9 @@ Here's a brief summary and explanation of the project:
 3. **Verify Quality Signals**: Check the project's license, documentation, issue tracking, and release cadence to ensure it meets your project's quality standards.
 4. **Prototype or Internal Workflow**: If Kross meets your project's requirements, start by integrating it into a prototype or internal workflow to test its performance and stability.
 
-**Production Readiness:** Kross has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Kristaq77/kross).
 
 ### Русский
 

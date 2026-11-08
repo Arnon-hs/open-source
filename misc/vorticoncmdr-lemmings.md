@@ -33,7 +33,9 @@ Misc
 
 **Practical Adoption Path:** To adopt this project, developers should start by carefully inspecting the code and documentation to ensure it meets their needs. This includes verifying the license, maintenance, documentation, issues, and release cadence. Once the project has been thoroughly evaluated, developers can integrate it into their workflow, using it to prototype AI features, build RAGs or agent workflows, and evaluate model tooling.
 
-**Production Readiness:** While Show HN: Lemmings in HTML in Canvas is suitable for prototyping and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/VorticonCmdr/lemmings).
 
 ### Русский
 

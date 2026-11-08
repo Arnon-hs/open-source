@@ -42,7 +42,10 @@ Adopting FinanceMCP involves the following steps:
 1. **Evaluation**: Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. **Integration**: Integrate the project with existing systems, such as trading platforms or data analysis tools.
 3. **Testing**: Test the project's functionality and performance in a controlled environment.
-4. **Deployment**: Deploy the project in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/guangxiangdebizi/FinanceMCP).
 
 ### Русский
 

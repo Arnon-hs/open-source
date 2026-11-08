@@ -36,7 +36,10 @@ Backend
 1. **Evaluate the library**: Assess the project's quality signals, such as GitHub stars and forks, and evaluate its implementation signals, such as API/SDK/CLI.
 2. **Integrate with existing projects**: Use the library to speed up developer workflows, automate local engineering tasks, and improve CI feedback in existing projects.
 3. **Pilot and test**: Pilot the library in a production environment to ensure its stability and compatibility with existing systems.
-4. **Adopt and maintain**: If successful, adopt the library as a standard tool in your development workflow and maintain it to ensure its continued stability and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/graphql-rust/graphql-client).
 
 ### Русский
 

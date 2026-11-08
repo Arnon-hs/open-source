@@ -40,7 +40,10 @@ The SWE-Marathon project is an ultra-long-horizon SWE benchmark that offers a pr
 **Practical Adoption Path:**
 
 1. **Evaluate and verify**: Review the project's metadata, README, and GitHub code to understand its capabilities and limitations.
-2. **Start with a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/abundant-ai/swe-marathon).
 
 ### Русский
 

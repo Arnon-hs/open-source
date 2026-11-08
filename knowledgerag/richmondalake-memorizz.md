@@ -38,7 +38,11 @@ MemoRizz provides a memory layer for AI applications, enabling efficient data ma
 To adopt MemoRizz, developers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. The library's recent activity, adoption, and ecosystem signals suggest a high level of production readiness, making it a suitable candidate for a serious pilot. Developers can integrate MemoRizz into their AI applications by leveraging its utility classes and methods for efficient data management.
 
 **Production Readiness:**
-MemoRizz exhibits high production readiness due to its recent activity, adoption, and ecosystem signals. The library has a strong GitHub presence, with 756 stars, 77 forks, and a
+MemoRizz exhibits high production readiness due to its recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/RichmondAlake/memorizz).
 
 ### Русский
 

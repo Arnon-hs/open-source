@@ -45,7 +45,11 @@ To adopt this project, developers should follow these steps:
 
 **Production Readiness:**
 
-Due to its limited quality signals and sparse metadata, this project is best suited for **prototypes or internal workflows**. It may not be
+Due to its limited quality signals and sparse metadata, this project is best suited for **prototypes or internal workflows**.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AliensToEarth/litematica-rce).
 
 ### Русский
 

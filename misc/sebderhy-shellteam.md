@@ -41,8 +41,9 @@ To adopt ShellTeam, users should:
 2. Manually review the integration signals and sparse metadata to ensure a smooth integration process.
 3. Verify the project's quality signals and production readiness before deploying it in production.
 
-**Production Readiness:**
-The ShellTeam project has a medium production readiness score, indicating that it is suitable for proof-of-concept projects or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sebderhy/shellteam).
 
 ### Русский
 

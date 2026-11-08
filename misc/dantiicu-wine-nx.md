@@ -39,9 +39,9 @@ Practical adoption path:
 4. **Prototype or internal testing**: Use Wine-NX in a controlled environment to test its functionality and identify potential issues.
 5. **Production deployment**: If successful in the prototype or internal testing phase, consider deploying Wine-NX in a production environment after thorough testing and validation.
 
-Production readiness:
+## Before adopting
 
-Wine-NX has a medium production readiness score, indicating that it is suitable for prototype or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dantiicu/wine-nx).
 
 ### Русский
 

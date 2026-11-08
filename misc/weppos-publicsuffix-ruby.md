@@ -45,7 +45,10 @@ weppos/publicsuffix-ruby is considered medium production-ready, making it suitab
 
 1. Prototyping AI features and workflows.
 2. Internal development and testing.
-However, it may not be the best choice for large-scale production environments due to the need for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/weppos/publicsuffix-ruby).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating its feasibility through a small proof of concept and a thorough review of the README documentation. Once they are satisfied with the project's quality and potential, they can integrate it into their existing workflow, starting with small-scale projects and gradually scaling up to larger ones.
 
-**Production Readiness:** testing-library/user-event is highly production-ready due to its recent activity, strong adoption (2316 GitHub stars), and positive ecosystem signals. Its primary language, TypeScript, ensures maintainability and scalability. However, it's essential to conduct a
+**Production Readiness:** testing-library/user-event is highly production-ready due to its recent activity, strong adoption (2316 GitHub stars), and positive ecosystem signals. Its primary language, TypeScript, ensures maintainability and scalability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/testing-library/user-event).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt Godmode, start by evaluating its feasibility through a small proof of c
 1. Evaluating Godmode's feasibility through a small proof of concept.
 2. Reviewing the README documentation to understand the project's architecture and usage.
 3. Considering the integration of Godmode with existing AI coding tools and workflows.
-4. Piloting Godmode in a controlled environment to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/thiientv/godmode).
 
 ### Русский
 

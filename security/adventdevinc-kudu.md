@@ -67,7 +67,9 @@ AdventDevInc/kudu 的生产可用性较高，主要原因是：
 2. 近期的更新和维护。
 3. 强大的 GitHub 星标和 fork 数量。
 
-但是，
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/AdventDevInc/kudu)。
 
 ## 🧭 Practical evaluation
 

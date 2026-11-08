@@ -37,7 +37,11 @@ The value proposition of BKN Foundry lies in its ability to accelerate AI develo
 To adopt BKN Foundry, developers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once familiar with the project, they can begin integrating it into their applications, starting with prototyping AI features and building agent workflows. Before moving to production, it's essential to conduct dependency and maintenance checks to ensure a smooth deployment.
 
 **Production Readiness:**
-BKN Foundry has a moderate level of production readiness, making it suitable for prototypes or internal workflows. While it's not yet ready for
+BKN Foundry has a moderate level of production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openbkn-ai/bkn-foundry).
 
 ### Русский
 

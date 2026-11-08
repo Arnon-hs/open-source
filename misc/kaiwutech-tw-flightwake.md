@@ -41,7 +41,10 @@ To adopt Flightwake, developers should follow these steps:
 
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it aligns with their needs.
 2. **Verify License and Maintenance**: Confirm the project's license and maintenance status to avoid potential issues.
-3. **Dependency and Maintenance Checks**: Thoroughly check the project's dependencies and maintenance requirements to ensure they can be
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kaiwutech-TW/flightwake).
 
 ### Русский
 

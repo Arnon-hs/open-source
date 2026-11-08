@@ -42,7 +42,10 @@ Snipe-it's production readiness is high due to its:
 1. Strong adoption, with 14015 GitHub stars and 3875 forks.
 2. Recent activity, with the last update on 2026-07-04.
 3. Ecosystem signals, indicating a robust community and support network.
-4. High-quality primary language, PHP, which is widely used and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/grokability/snipe-it).
 
 ### Русский
 

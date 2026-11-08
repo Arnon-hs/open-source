@@ -37,7 +37,11 @@ Mobius offers a unique value proposition by providing a pre-built AI agent that 
 To adopt Mobius, users can start by evaluating its API/SDK/CLI, language metadata, and focused topics to understand its implementation and potential use cases. They can then deploy Mobius on their own server and begin interacting with the coding agent to build mini-apps and refine its performance. This adoption path is suitable for prototyping AI features, building RAG (Reusable Agent Graph) or agent workflows, and evaluating model tooling.
 
 **Production Readiness:**
-Mobius has a medium production readiness score, making it suitable for prototypes or internal workflows. However, users should conduct thorough dependency and maintenance checks before deploying it in production. Additionally, a
+Mobius has a medium production readiness score, making it suitable for prototypes or internal workflows. However, users should conduct thorough dependency and maintenance checks before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mobius-os/mobius).
 
 ### Русский
 

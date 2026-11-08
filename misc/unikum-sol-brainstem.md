@@ -39,7 +39,10 @@ To adopt BrainStem, follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, code, and issues to ensure it meets your project's requirements.
 2. **Verify Dependencies**: Check the project's dependencies and ensure they are compatible with your existing infrastructure.
 3. **Evaluate Maintenance**: Assess the project's maintenance cadence, documentation, and community support to ensure it aligns with your project's needs.
-4. **Prototype and Test**: Use BrainStem to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/unikum-sol/brainstem).
 
 ### Русский
 

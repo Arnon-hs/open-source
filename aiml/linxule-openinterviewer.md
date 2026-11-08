@@ -43,9 +43,9 @@ To adopt linxule/openinterviewer, users can follow a straightforward process:
 2. Integrate the platform into their existing workflows using the provided API, SDK, or CLI.
 3. Configure the platform to meet their specific research needs, including study management and analysis.
 
-**Production Readiness**
+## Before adopting
 
-Linxule/openinterviewer is considered production-ready for prototype development and internal workflows, with a medium level of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/linxule/openinterviewer).
 
 ### Русский
 

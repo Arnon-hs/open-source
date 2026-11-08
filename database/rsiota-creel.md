@@ -33,7 +33,9 @@ Database
 
 **Practical Adoption Path:** To adopt Creel, developers should start by manually inspecting the project's integration signals, such as documentation, issues, and release cadence. This will help them assess the project's quality and stability. Next, they should verify the license and ensure that it aligns with their project's requirements. Once satisfied, they can integrate Creel into their development workflow, leveraging its Vim-driven interface to build and test their database-driven applications.
 
-**Production Readiness:** Creel has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require additional checks and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rsiota/creel).
 
 ### Русский
 

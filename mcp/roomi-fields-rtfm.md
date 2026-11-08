@@ -38,8 +38,9 @@ The primary value proposition of roomi-fields/rtfm is to standardize integration
 **Practical Adoption Path:**
 To adopt roomi-fields/rtfm, developers can start by evaluating the project's API, SDK, and CLI implementation signals. They can also assess the project's language metadata and focused topics to determine its relevance to their use case. Once evaluated, developers can integrate roomi-fields/rtfm into their AI agents and tools, following the project's documentation and guidelines.
 
-**Production Readiness:**
-The production readiness of roomi-fields/rtfm is classified as medium, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/roomi-fields/rtfm).
 
 ### Русский
 

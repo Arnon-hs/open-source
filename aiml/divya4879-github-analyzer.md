@@ -41,7 +41,10 @@ To adopt this project, developers can follow these steps:
 1. Review the project's documentation and codebase to understand its functionality and requirements.
 2. Evaluate the project's quality signals, including its license, maintenance, documentation, issues, and release cadence.
 3. Perform manual inspection of the project's integration signals to ensure they meet the organization's needs.
-4. Integrate the project into the existing workflow, taking into account dependency and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Divya4879/Github-Analyzer.git).
 
 ### Русский
 

@@ -36,7 +36,10 @@ MCP · Automation · AI/ML · Backend · Marketing
 1. **Evaluate the project's documentation**: Review the project's documentation to understand its architecture, functionality, and usage.
 2. **Set up a local environment**: Clone the repository and set up a local environment to test the project's features.
 3. **Integrate with AI agents**: Use the project's protocol to connect AI agents to the SEO tools and data.
-4. **Customize and extend**: Modify the project's code to suit specific needs and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/IamRamgarhia/All-In-One-Free-SEO-Tool).
 
 ### Русский
 

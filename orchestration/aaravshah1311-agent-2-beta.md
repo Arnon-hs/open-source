@@ -33,7 +33,11 @@ Orchestration · Automation · AI/ML · DevTools · Security
 
 **Practical Adoption Path:** To adopt Agent-2-Beta, users should start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. Once familiar with the project's capabilities and limitations, users can begin integrating it into their workflows. However, due to the project's medium production readiness score, users should perform dependency and maintenance checks before deploying it in production.
 
-**Production Readiness:** The Agent-2-Beta project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require further refinement before being used in production. While the project has some quality signals, such as a recent update and a
+**Production Readiness:** The Agent-2-Beta project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require further refinement before being used in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aaravshah1311/Agent-2-Beta).
 
 ### Русский
 

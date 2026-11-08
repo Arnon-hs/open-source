@@ -41,8 +41,9 @@ To adopt linco-bridge, developers can follow these steps:
 3. Test and refine the integration to ensure seamless communication between the AI Agent CLI and the target platform.
 4. Continuously monitor and maintain the linco-bridge integration to ensure it remains compatible with future updates and dependencies.
 
-**Production Readiness:**
-While linco-bridge has shown promise, its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lincotalk/linco-bridge).
 
 ### Русский
 

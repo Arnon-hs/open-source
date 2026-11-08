@@ -37,7 +37,11 @@ Misc
 2. **Internal Workflows:** Integrate Skill Retriever into internal workflows to automate tasks and improve efficiency.
 3. **RAG or Agent Workflows:** Leverage Skill Retriever to build robust RAG (Reinforcement and Augmentation) or agent workflows.
 
-**Production Readiness:** Skill Retriever has a medium production readiness score. While it is useful for prototyping and internal workflows, it requires careful inspection and verification before adoption. This includes checking dependencies, maintenance requirements, documentation, issue trackers, and release cadence to
+**Production Readiness:** Skill Retriever has a medium production readiness score. While it is useful for prototyping and internal workflows, it requires careful inspection and verification before adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ChonSong/skill-retriever).
 
 ### Русский
 

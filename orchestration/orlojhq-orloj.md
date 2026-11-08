@@ -33,7 +33,9 @@ Orchestration · Automation · AI/ML · DevOps/Infra
 
 **Practical Adoption Path:** To adopt Orloj, developers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. They can then declare their agents, tools, and policies in YAML and schedule, execute, route, and govern them using Orloj's runtime. As they become more familiar with the project, they can integrate it into their existing workflows and pipelines.
 
-**Production Readiness:** Orloj is considered to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/OrlojHQ/orloj).
 
 ### Русский
 

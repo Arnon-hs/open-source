@@ -33,7 +33,9 @@ AI/ML
 
 **Practical Adoption Path:** To adopt ClaudeFS, users should start by manually inspecting the project's code and documentation to ensure it meets their specific needs. Next, they should verify the project's license, maintenance, documentation, issue history, and release cadence to assess its production readiness. Once these checks are complete, users can proceed to integrate ClaudeFS into their local folder, following the project's provided instructions.
 
-**Production Readiness:** ClaudeFS is rated as "Medium" in terms of production readiness, indicating that it is suitable for use in prototypes or internal workflows, but may require additional checks and validation before being deployed in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vincentping/claudeFS).
 
 ### Русский
 

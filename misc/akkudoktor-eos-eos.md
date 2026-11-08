@@ -37,7 +37,11 @@ The Akkudoktor-EOS/EOS offers a value proposition of optimizing energy efficienc
 For practical adoption, the user should first inspect the README and activity of the repository to understand the concrete workflow it provides. The system can be integrated into household devices, heat pumps, and batteries, but manual inspection is required due to sparse integration signals in the metadata. Before production, dependency and maintenance checks should be performed to ensure the system's reliability and security.
 
 **Production Readiness:**
-The production readiness of Akkudoktor-EOS/EOS is rated as medium, making it suitable for prototypes or internal workflows. However, it requires careful evaluation of its license, security posture, and active maintainers before being deployed in a
+The production readiness of Akkudoktor-EOS/EOS is rated as medium, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Akkudoktor-EOS/EOS).
 
 ### Русский
 

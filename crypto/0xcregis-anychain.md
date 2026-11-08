@@ -38,7 +38,10 @@ To adopt 0xcregis/anychain, developers can follow these steps:
 
 1. Evaluate the SDK's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets their project's requirements.
 2. Review the license, security posture, and active maintainers to assess the project's risks and stability.
-3. Integrate the anychain SDK into their project, utilizing its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/0xcregis/anychain).
 
 ### Русский
 

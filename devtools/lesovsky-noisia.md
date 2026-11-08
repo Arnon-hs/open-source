@@ -35,7 +35,11 @@ Here's a brief summary of the lesovsky/noisia project:
 
 **Practical Adoption Path:** To adopt lesovsky/noisia, developers can start by evaluating the tool through a small proof of concept and reviewing the README documentation. This will help them understand the tool's capabilities and potential integration challenges. Once a basic understanding is established, developers can begin integrating lesovsky/noisia into their existing workflows.
 
-**Production Readiness:** lesovsky/noisia is considered medium-production-ready, meaning it is suitable for use in prototypes or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to ensure the tool's stability and security posture. Additionally, a final review of
+**Production Readiness:** lesovsky/noisia is considered medium-production-ready, meaning it is suitable for use in prototypes or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to ensure the tool's stability and security posture.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lesovsky/noisia).
 
 ### Русский
 

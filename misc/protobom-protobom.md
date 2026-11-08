@@ -64,7 +64,11 @@ protobom/protobom 的价值在于它可以提供一个标准化的软件清单�
 
 **生产可用性**
 
-protobom/protobom 的生产可用性为中等（Medium）。由于它是开源项目，需要开发者进行定期维护和更新。具体来说，
+protobom/protobom 的生产可用性为中等（Medium）。由于它是开源项目，需要开发者进行定期维护和更新。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/protobom/protobom)。
 
 ## 🧭 Practical evaluation
 

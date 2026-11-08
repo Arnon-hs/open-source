@@ -71,7 +71,10 @@ designcomputer/mysql_mcp_server 是一个基于 Model Context Protocol (MCP) 的
 
 * 近期活动：项目最近有活跃的维护和更新。
 * 广泛采用：项目有 1348 个 GitHub 星星和 251 个 fork。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/designcomputer/mysql_mcp_server)。
 
 ## 🧭 Practical evaluation
 

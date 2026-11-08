@@ -44,7 +44,11 @@ DevTools
 
 **Production Readiness:**
 
-charmbracelet/vhs boasts a high production readiness score, indicating strong adoption (76/100) and recent activity (updated 2026-06-27). Its primary language is Go, and it has a
+charmbracelet/vhs boasts a high production readiness score, indicating strong adoption (76/100) and recent activity (updated 2026-06-27).
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/charmbracelet/vhs).
 
 ### Русский
 

@@ -36,8 +36,9 @@ The primary value proposition of microsoft/dcp lies in its ability to help teams
 **Practical Adoption Path:**
 To adopt microsoft/dcp, teams should start with a small proof of concept to evaluate its feasibility and effectiveness. This involves reviewing the project's README documentation, checking dependencies, and testing the CLI to ensure it meets their specific needs. Once the proof of concept is successful, teams can integrate microsoft/dcp into their development workflow, starting with internal projects or prototypes before scaling up to production environments.
 
-**Production Readiness:**
-The production readiness of microsoft/dcp is rated as medium, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/microsoft/dcp).
 
 ### Русский
 

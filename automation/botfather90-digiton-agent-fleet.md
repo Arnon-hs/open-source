@@ -41,7 +41,10 @@ To adopt this project, users should follow these steps:
 
 1. **Verify the project's quality signals**: Although the project has limited quality signals, users should verify the license, maintenance, documentation, issues, and release cadence before using it.
 2. **Inspect the project manually**: Due to sparse integration signals in the discovered metadata, users should manually inspect the project to understand its functionality and potential integration points.
-3. **Test the project**: Once the project is manually inspected, users should test it to ensure it meets their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Botfather90/digiton-agent-fleet).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt this project, users should:
 1. **Inspect the code**: Carefully review the project's codebase to understand its architecture, dependencies, and potential limitations.
 2. **Verify quality signals**: Check the project's quality signals, such as documentation, issue tracking, and release cadence, to ensure they meet your project's standards.
 3. **Perform dependency checks**: Verify the project's dependencies and ensure they align with your project's requirements.
-4. **Test and evaluate**: Test the project in a controlled environment to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lizhuojunx86/traceguard).
 
 ### Русский
 

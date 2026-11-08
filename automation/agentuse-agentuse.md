@@ -46,7 +46,10 @@ To adopt agentuse/agentuse, users can follow a straightforward evaluation and im
 
 1. **Evaluate the project**: Assess the project's features, documentation, and community support to determine its suitability for your specific use case.
 2. **Integrate with tools**: Connect agentuse/agentuse with your existing tools and workflows to create repeatable flows and automate manual operations.
-3. **Schedule tasks**: Use the project's scheduling features to automate operational tasks and ensure they run smoothly and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/agentuse/agentuse).
 
 ### Русский
 

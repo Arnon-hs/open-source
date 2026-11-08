@@ -37,8 +37,9 @@ The primary value of AIs lies in its ability to simplify the process of adding A
 **Practical Adoption Path:**
 To adopt AIs, users should start by carefully inspecting the project's metadata, documentation, and issues to understand its limitations and potential risks. They should also verify the project's license, maintenance schedule, and release cadence to ensure it aligns with their needs. Once satisfied, users can begin integrating AIs into their workflows, starting with prototyping and testing.
 
-**Production Readiness:**
-AIs is considered to be at medium production readiness, meaning it can be useful for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Anode1/ais).
 
 ### Русский
 

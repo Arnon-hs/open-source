@@ -38,7 +38,10 @@ Here's a brief summary and explanation of the value, adoption path, and producti
 1. Read the README to understand the project's purpose, structure, and potential use cases.
 2. Evaluate the project's activity, such as recent updates and commits, to gauge its maintainability and relevance.
 3. Start with a small proof of concept to test the project's functionality and see if it aligns with your specific needs.
-4. Review the project's license, security posture, and maintainers to ensure they meet your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/norvig/pytudes).
 
 ### Русский
 

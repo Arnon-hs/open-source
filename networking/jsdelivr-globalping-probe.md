@@ -43,7 +43,9 @@ The project's production readiness is classified as medium, indicating that it i
 - Prototypes: The project can be used to test and develop new ideas or concepts.
 - Internal workflows: The project can be integrated into internal processes or systems, but it may require additional support and maintenance.
 
-However, it is not recommended for production deployment without thorough evaluation and testing due to potential risks such as license, security posture, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jsdelivr/globalping-probe).
 
 ### Русский
 

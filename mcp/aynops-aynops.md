@@ -44,9 +44,9 @@ To adopt AynOps/AynOps, developers can follow these steps:
 3. Integrate AynOps/AynOps with their AI agents and tools, using the provided protocol to establish a connection.
 4. Test and refine the integration to ensure seamless communication between the AI agents and tools.
 
-**Production Readiness**
+## Before adopting
 
-AynOps/AynOps demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AynOps/AynOps).
 
 ### Русский
 

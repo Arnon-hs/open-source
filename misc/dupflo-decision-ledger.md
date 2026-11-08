@@ -43,7 +43,10 @@ To adopt this project, users should:
 2. Inspect the code and dependencies to ensure they align with the user's requirements and technical stack.
 3. Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it meets the user's needs.
 4. Conduct thorough testing and evaluation to assess the project's quality and performance.
-5. Integrate the project into their existing workflow, starting with a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Dupflo/decision-ledger).
 
 ### Русский
 

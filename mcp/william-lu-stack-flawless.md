@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt Flawless, users can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then decide which tools and AI agents to integrate with Flawless using the standard protocol. The project's straightforward integration process and recent activity make it a promising candidate for serious pilots.
 
-**Production Readiness:** With a high production readiness score, Flawless has shown strong adoption and ecosystem signals, including recent updates, 621 GitHub stars, and 98 forks. However, it is essential to conduct a final review of
+**Production Readiness:** With a high production readiness score, Flawless has shown strong adoption and ecosystem signals, including recent updates, 621 GitHub stars, and 98 forks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/William-Lu-stack/Flawless).
 
 ### Русский
 

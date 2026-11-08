@@ -39,9 +39,9 @@ The primary value of Naja-scope lies in its ability to standardize integrations 
 
 To adopt Naja-scope, developers will need to manually inspect the integration signals and metadata before implementing the tool in their production environment. This requires a moderate level of technical expertise and a thorough understanding of the MCP protocol. For prototyping or internal workflows, Naja-scope can be a valuable asset, but it's essential to perform dependency and maintenance checks before deploying it in production.
 
-**Production Readiness:**
+## Before adopting
 
-Naja-scope has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/najaeda/naja-scope).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The primary value of this project lies in its ability to streamline the integrat
 To adopt this project, users can start by evaluating its API/SDK/CLI implementation and language metadata. They can also explore its focus topics and dependencies to ensure compatibility with their existing infrastructure. For internal workflows or prototypes, this project can be a valuable starting point, but it's recommended to conduct thorough dependency and maintenance checks before deploying it in production.
 
 **Production Readiness:**
-The project has a medium production readiness score, indicating that it's suitable for use in prototypes or internal workflows. However, it's essential to conduct a final review of its license, security posture, and active maintainers to
+The project has a medium production readiness score, indicating that it's suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yschimke/compose-ai-tools).
 
 ### Русский
 

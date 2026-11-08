@@ -39,7 +39,10 @@ To adopt NvChat, users should follow these steps:
 1. **Evaluate the project's quality signals**: Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it meets their needs.
 2. **Inspect the code**: Review the codebase to understand the project's architecture and potential dependencies.
 3. **Integrate with caution**: Use NvChat in a non-production environment to test its functionality and identify potential issues.
-4. **Perform dependency and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/akon47/NvChat).
 
 ### Русский
 

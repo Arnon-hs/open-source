@@ -37,7 +37,11 @@ Templates · Productivity
 2. **Integration**: Integrate the project into your existing Spring-based application, taking advantage of the familiar API and lightweight repository style data access.
 3. **Testing**: Thoroughly test the project in a controlled environment to ensure it meets your requirements and doesn't introduce any unexpected issues.
 
-**Production Readiness:** Spring Data Elasticsearch has demonstrated a high level of production readiness, with recent activity, strong adoption, and a robust ecosystem. The project's recent update (2026-08-04) and
+**Production Readiness:** Spring Data Elasticsearch has demonstrated a high level of production readiness, with recent activity, strong adoption, and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/spring-projects/spring-data-elasticsearch).
 
 ### Русский
 

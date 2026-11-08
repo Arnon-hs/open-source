@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the project:
 
 **Practical Adoption Path:** To adopt this project, users can start by integrating it into their existing workflows, using the exposed implementation signals such as API/SDK/CLI, language metadata, or focused topics. The project's straightforward evaluation process makes it relatively easy to assess and implement. However, it's essential to conduct a thorough review of the license, security posture, and active maintainers before deploying the project in production.
 
-**Production Readiness:** The project has a medium level of production readiness, making it suitable for prototypes or internal workflows. Before deploying it in production, users should conduct dependency and maintenance checks to
+**Production Readiness:** The project has a medium level of production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tzachbon/claude-model-router-hook).
 
 ### Русский
 

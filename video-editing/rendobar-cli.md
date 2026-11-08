@@ -43,7 +43,10 @@ To adopt Rendobar CLI, users can follow these steps:
 2. Assess the project's language metadata, focused topics, and recent activity.
 3. Review the project's GitHub stars, forks, and updates to gauge its adoption and ecosystem signals.
 4. Consider the project's primary language (TypeScript) and topics (14) to ensure compatibility with existing projects.
-5. Pilot the project in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rendobar/cli).
 
 ### Русский
 

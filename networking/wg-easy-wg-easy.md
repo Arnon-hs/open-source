@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path**: To adopt wg-easy/wg-easy, developers can start by reviewing the project's documentation and codebase to understand its features and integration requirements. They should also perform a manual inspection to ensure that the project meets their specific needs and security requirements. Once they are satisfied, they can integrate the project into their application, leveraging its web-based admin UI and WireGuard VPN capabilities.
 
-**Production Readiness**: The project has a high production readiness score, indicating that it is suitable for serious pilots or production environments. The recent activity, adoption, and ecosystem signals surrounding the project suggest that it is well-maintained and widely used. However, developers should still conduct a thorough review of the project's license, security posture, and active maintainers to ensure that it meets their
+**Production Readiness**: The project has a high production readiness score, indicating that it is suitable for serious pilots or production environments. The recent activity, adoption, and ecosystem signals surrounding the project suggest that it is well-maintained and widely used.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wg-easy/wg-easy).
 
 ### Русский
 

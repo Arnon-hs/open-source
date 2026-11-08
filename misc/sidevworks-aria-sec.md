@@ -39,7 +39,9 @@ Misc
 4. **Evaluate Use Cases:** Assess whether ARIA fits your project's use cases, such as prototyping AI features or building RAG or agent workflows.
 5. **Integration:** Integrate ARIA into your project, following the project's documentation and guidelines.
 
-**Production Readiness:** A
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sidevworks/aria-sec).
 
 ### Русский
 

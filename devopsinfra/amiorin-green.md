@@ -36,7 +36,10 @@ DevOps/Infra
 1. Inspect the library's codebase and documentation to ensure it aligns with your project's requirements.
 2. Verify the library's license, maintenance status, and release cadence to ensure it meets your project's needs.
 3. Evaluate the library's issue history and community engagement to gauge its overall quality and support.
-4. Integrate the library into your project, starting with a prototype or internal workflow to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/amiorin/green).
 
 ### Русский
 

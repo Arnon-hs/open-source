@@ -45,9 +45,9 @@ To adopt this project, developers can follow these steps:
 4. Evaluate the project's production readiness and decide whether to use it in internal workflows or prototype AI features.
 5. Integrate the project into their application, following the provided guidelines and documentation.
 
-**Production Readiness:**
+## Before adopting
 
-The project has a medium production readiness score, indicating that it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/deghosal-2026/agent-exec-trace).
 
 ### Русский
 

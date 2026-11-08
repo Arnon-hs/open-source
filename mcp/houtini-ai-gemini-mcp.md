@@ -38,7 +38,10 @@ Here's a brief summary of the houtini-ai/gemini-mcp open-source project:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. Review the project's documentation and codebase to ensure it meets their specific integration requirements.
 3. Integrate the MCP protocol into their AI assistant or application.
-4. Test and refine the integration to ensure seamless communication between the AI assistant and the connected tools and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/houtini-ai/gemini-mcp).
 
 ### Русский
 

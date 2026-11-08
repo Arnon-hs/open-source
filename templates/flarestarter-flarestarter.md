@@ -36,7 +36,10 @@ Templates · Payments · Frontend · Database · Security
 1. **Evaluation**: Developers can quickly evaluate the project's implementation signals, such as API, SDK, and CLI, to determine its suitability for their use case.
 2. **Integration**: Once chosen, FlareStarter/flarestarter can be integrated into existing applications using its exposed APIs and SDKs.
 3. **Customization**: The project's modular architecture and TypeScript implementation enable developers to tailor the solution to their specific needs.
-4. **Production deployment**: With
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/FlareStarter/flarestarter).
 
 ### Русский
 

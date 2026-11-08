@@ -33,7 +33,11 @@ MuckScraper is an open-source, self-hosted news aggregator that leverages Large 
 
 The value of MuckScraper lies in its ability to simplify the integration of AI capabilities, making it easier for developers to build and deploy AI-powered applications. The practical adoption path involves evaluating the project's implementation signals, such as its API, SDK, or CLI, and assessing its language metadata and focused topics. Once adopted, users can leverage MuckScraper to build and deploy AI-powered workflows, such as RAG or agent workflows.
 
-MuckScraper's production readiness is high due to its recent activity, adoption, and strong ecosystem signals. The project has 120 GitHub stars, 10 forks, and has been updated recently. Its primary language is Python, and it covers 7 topics. While there are
+MuckScraper's production readiness is high due to its recent activity, adoption, and strong ecosystem signals. The project has 120 GitHub stars, 10 forks, and has been updated recently. Its primary language is Python, and it covers 7 topics.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/grregis/MuckScraper).
 
 ### Русский
 

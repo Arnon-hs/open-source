@@ -33,7 +33,11 @@ Misc
 
 **Adoption Path:** To adopt vollgerlab/rustybam, teams should first manually inspect the integration process to ensure a smooth transition. This may involve validating the setup cost and maintenance requirements before committing to its use. As the toolkit is suitable for prototypes or internal workflows, it's essential to weigh the benefits against the potential risks and challenges.
 
-**Production Readiness:** vollgerlab/rustybam is considered medium-production ready, meaning it's suitable for internal workflows or prototypes but may require further evaluation and validation before deployment in production environments. While it has a moderate number of GitHub stars and
+**Production Readiness:** vollgerlab/rustybam is considered medium-production ready, meaning it's suitable for internal workflows or prototypes but may require further evaluation and validation before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vollgerlab/rustybam).
 
 ### Русский
 

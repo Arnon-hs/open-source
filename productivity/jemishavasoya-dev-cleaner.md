@@ -40,7 +40,11 @@ Here's a brief summary and explanation of the project:
 3. Monitor the tool's performance and adjust settings as needed.
 4. Reuse interface components and improve frontend delivery to achieve faster development times.
 
-**Production Readiness:** Dev-cleaner has a high production readiness score, indicating that it is a reliable and maintainable solution. With
+**Production Readiness:** Dev-cleaner has a high production readiness score, indicating that it is a reliable and maintainable solution.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jemishavasoya/dev-cleaner).
 
 ### Русский
 

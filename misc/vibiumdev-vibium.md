@@ -45,9 +45,9 @@ To adopt Vibium, developers should:
 4. Integrate Vibium into their project, following the provided documentation and guidelines.
 5. Perform thorough dependency and maintenance checks to ensure the project is production-ready.
 
-**Production Readiness**
+## Before adopting
 
-Vibium has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/VibiumDev/vibium).
 
 ### Русский
 

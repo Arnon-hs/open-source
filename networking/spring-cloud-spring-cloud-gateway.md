@@ -78,7 +78,10 @@ Spring Cloud Gateway 的生产可用性高，主要原因是：
 1. 近期活跃度：最近有活跃的维护和更新。
 2. 广泛的采用：有大量的用户采用和使用 Spring Cloud Gateway。
 3. 强大的生态系统：有强大的生态系统支持和资源提供。
-4.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/spring-cloud/spring-cloud-gateway)。
 
 ## 🧭 Practical evaluation
 

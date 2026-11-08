@@ -70,7 +70,10 @@ meziantou/Meziantou.Analyzer 帮助开发者在不从头开始模型堆栈的情
 meziantou/Meziantou.Analyzer 的生产可用性为中等，适合用于原型开发或内部工作流。然而，需要注意以下几点：
 
 * 需要对依赖项和维护成本进行检查和评估。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/meziantou/Meziantou.Analyzer)。
 
 ## 🧭 Practical evaluation
 

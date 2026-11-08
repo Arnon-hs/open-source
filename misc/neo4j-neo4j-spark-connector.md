@@ -42,7 +42,10 @@ To adopt the neo4j/neo4j-spark-connector, teams can follow these steps:
 
 1. Evaluate the connector's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. Assess the connector's production readiness, considering its medium score and potential dependency and maintenance checks.
-3. Review the connector's license, security posture, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/neo4j/neo4j-spark-connector).
 
 ### Русский
 

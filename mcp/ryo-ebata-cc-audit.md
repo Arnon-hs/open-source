@@ -37,7 +37,11 @@ The main value of cc-audit lies in its ability to standardize integrations betwe
 To adopt cc-audit, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then integrate cc-audit into their development workflow to scan Claude Code artifacts for security vulnerabilities. As the project is still in development, it's recommended to perform dependency and maintenance checks before deploying it in production.
 
 **Production Readiness:**
-cc-audit has a medium production readiness score, indicating that it's suitable for prototype development and internal workflows. However, it's essential to conduct a final review of the
+cc-audit has a medium production readiness score, indicating that it's suitable for prototype development and internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ryo-ebata/cc-audit).
 
 ### Русский
 

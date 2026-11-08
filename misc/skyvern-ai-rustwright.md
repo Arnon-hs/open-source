@@ -42,7 +42,11 @@ Before adopting Rustwright, it is essential to manually inspect the project's RE
 4. Conducting dependency checks to ensure compatibility with existing projects.
 
 **Production Readiness:**
-Rustwright has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, it is not yet ready for widespread production use without further evaluation and testing. Before deploying it in a production environment, it is crucial to perform thorough dependency and maintenance checks to ensure stability and
+Rustwright has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, it is not yet ready for widespread production use without further evaluation and testing.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Skyvern-AI/rustwright).
 
 ### Русский
 

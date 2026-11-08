@@ -45,7 +45,9 @@ Addsong is an open-source project that enables seamless integration of raw data 
 
 **Production Readiness:** Medium
 
-Addsong is considered production-ready for prototypes or internal workflows, but it requires careful evaluation and inspection before being adopted for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ado11231/addsong).
 
 ### Русский
 

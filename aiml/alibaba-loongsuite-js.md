@@ -43,7 +43,10 @@ To adopt loongsuite-js, developers can follow these steps:
 2. Review the language metadata and focused topics to ensure alignment with their project requirements.
 3. Integrate the tool into their existing codebase, leveraging the OpenTelemetry instrumentation plugins.
 4. Configure the tool to collect relevant metrics and traces from Claude Code and OpenClaw.
-5. Monitor and refine the tool's performance and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/alibaba/loongsuite-js).
 
 ### Русский
 

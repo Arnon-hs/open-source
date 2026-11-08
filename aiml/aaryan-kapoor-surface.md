@@ -40,7 +40,9 @@ Here's a brief summary of the project:
 3. Use the project to prototype AI features, build agent workflows, or evaluate model tooling.
 4. Conduct dependency and maintenance checks before considering production deployment.
 
-**Production Readiness:** Aaryan-Kapoor/Surface has a medium production readiness score, indicating that it is useful for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Aaryan-Kapoor/Surface).
 
 ### Русский
 

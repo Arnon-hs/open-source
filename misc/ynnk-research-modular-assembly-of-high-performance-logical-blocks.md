@@ -39,7 +39,10 @@ Here is a brief summary of the open-source project:
 2. **Manual Inspection**: Carefully inspect the project's code, documentation, and metadata to understand its integration requirements and potential limitations.
 3. **Verification**: Verify the project's quality signals, such as license, maintenance, documentation, issues, and release cadence, to ensure it meets your project's needs.
 4. **Integration**: Integrate the project into your existing workflows, taking into account the sparse integration signals mentioned in the project description.
-5. **Testing and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ynnk-research/Modular-Assembly-of-High-Performance-Logical-Blocks).
 
 ### Русский
 

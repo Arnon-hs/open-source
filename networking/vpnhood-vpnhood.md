@@ -37,7 +37,10 @@ As for the practical adoption path, here's a step-by-step guide:
 2. **Assess integration complexity**: Determine the level of integration required for your specific use case and evaluate the potential challenges and costs.
 3. **Prototype and test**: Develop a prototype to test VpnHood's performance and functionality in your specific environment.
 4. **Validate setup costs**: Carefully evaluate the costs associated with setting up and maintaining VpnHood, including any dependencies or maintenance requirements.
-5. **Deploy in a controlled environment**: Once you've validated the setup costs and integration complexity, deploy VpnHood in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vpnhood/VpnHood).
 
 ### Русский
 

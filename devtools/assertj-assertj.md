@@ -40,7 +40,9 @@ AssertJ's production readiness is high due to its strong ecosystem signals, incl
 - Adoption in various projects, suggesting its reliability and effectiveness.
 - Primary language is Java, making it suitable for a wide range of applications.
 
-However, it's essential to note that the integration path may not be
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/assertj/assertj).
 
 ### Русский
 

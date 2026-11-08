@@ -38,7 +38,10 @@ Here's a brief summary of the open-source project:
 1. **Manual Inspection:** Carefully review the project's README, activity, and documentation to understand its functionality, dependencies, and maintenance requirements.
 2. **Dependency Checks:** Verify the project's dependencies and ensure they are up-to-date and compatible with your development environment.
 3. **Testing:** Test the project thoroughly to ensure it meets your requirements and works as expected.
-4. **Integration:** Integrate the project into your workflow or application, taking care to address any issues or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/leereilly/rubiks-rubrics).
 
 ### Русский
 

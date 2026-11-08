@@ -41,7 +41,11 @@ To adopt this project, developers should first inspect the code and documentatio
 
 **Production Readiness**
 
-The production readiness of this project is rated as medium. While it may be useful for prototypes or internal workflows, it's crucial to verify the project's license, maintenance, documentation, issues, and release cadence before using it in production. This will help mitigate potential risks associated with
+The production readiness of this project is rated as medium. While it may be useful for prototypes or internal workflows, it's crucial to verify the project's license, maintenance, documentation, issues, and release cadence before using it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/teocns/neocursor.nvim).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully review the project's code and documentation to ensure it meets your specific requirements.
 2. **Verify Quality Signals**: Check the project's update history, license, maintenance, documentation, issues, and release cadence to gauge its reliability.
 3. **Dependency and Maintenance Checks**: Evaluate the project's dependencies and maintenance requirements to ensure they align with your production environment.
-4. **Proof-of-Concept**: Test the project in a controlled environment, such as a prototype or internal workflow, to validate its functionality and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Michael-Ax64/K4-CompilingReality/blob/main/quantum/Q9-Founders.md).
 
 ### Русский
 

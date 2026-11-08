@@ -35,7 +35,11 @@ Here's a brief summary for the EdiWang/Moonglade project:
 
 **Practical Adoption Path:** To adopt EdiWang/Moonglade, start by evaluating its feasibility through a small proof of concept and carefully reviewing the README documentation. This will help you understand the integration path and potential setup costs involved. It is recommended to begin with a prototype or internal workflow before committing to production use.
 
-**Production Readiness:** EdiWang/Moonglade has a medium production readiness level, making it suitable for prototypes or internal workflows. However, it's essential to conduct dependency and maintenance checks before deploying it in
+**Production Readiness:** EdiWang/Moonglade has a medium production readiness level, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/EdiWang/Moonglade).
 
 ### Русский
 

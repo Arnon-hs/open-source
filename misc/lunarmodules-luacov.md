@@ -37,7 +37,11 @@ The primary value of LuaCov lies in its ability to improve the usability and acc
 To adopt LuaCov, developers should start by manually inspecting the integration process and validating the setup cost. This involves understanding the sparse integration signals in the discovered metadata and determining the best approach to integrate LuaCov with their existing systems. Once the integration path is clear, developers can proceed with implementing LuaCov in their internal workflows or prototypes.
 
 **Production Readiness:**
-LuaCov has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to ensure its stability and reliability. This will help mitigate the risks associated with its adoption, such as the uncertainty of
+LuaCov has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to ensure its stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lunarmodules/luacov).
 
 ### Русский
 

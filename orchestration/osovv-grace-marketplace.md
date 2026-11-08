@@ -39,11 +39,9 @@ The osovv/grace-marketplace offers significant value in several areas:
 2. **Code Generation and Maintenance**: The project supports contract-driven AI code generation, making it easier to create and maintain code with semantic markup and knowledge graphs.
 3. **Integration and Interoperability**: It exposes implementation signals, such as API/SDK/CLI, language metadata, and focused topics, making it easier to integrate with various tools and platforms.
 
-**Practical Adoption Path**
+## Before adopting
 
-To adopt the osovv/grace-marketplace, follow these steps:
-
-1. **Evaluate the Project**: Assess the project's implementation signals, language metadata, and focused topics to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/osovv/grace-marketplace).
 
 ### Русский
 

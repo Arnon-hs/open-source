@@ -39,11 +39,9 @@ The primary value of uphiago/recon-skills lies in its ability to automate repeti
 2. **Connect tools into repeatable flows**: Integrate uphiago/recon-skills with other tools to create seamless, automated workflows.
 3. **Schedule operational tasks**: Use uphiago/recon-skills to schedule tasks, ensuring that critical operations are performed on a regular basis.
 
-**Practical Adoption Path:**
+## Before adopting
 
-To adopt uphiago/recon-skills, follow these steps:
-
-1. **Evaluate the project**: Review the project's documentation, GitHub repository, and README file to understand its functionality and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/uphiago/recon-skills).
 
 ### Русский
 

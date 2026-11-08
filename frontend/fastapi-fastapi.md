@@ -41,10 +41,9 @@ The value proposition of FastAPI lies in its ability to streamline the developme
 3. **Integration**: Integrate FastAPI with existing infrastructure, tools, and technologies to ensure seamless adoption.
 4. **Production Deployment**: Once satisfied with the pilot results, deploy FastAPI in production, taking into account security, license, and maintainability considerations.
 
-**Production Readiness:**
-FastAPI demonstrates high production readiness due to:
+## Before adopting
 
-1. **Recent Activity**: Regular updates and maintenance indicate a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fastapi/fastapi).
 
 ### Русский
 

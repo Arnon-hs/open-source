@@ -39,9 +39,9 @@ The primary value of okasi/bot-signal lies in its ability to automate repetitive
 
 To adopt okasi/bot-signal, users should start with a small proof of concept to evaluate the project's feasibility. This involves checking the README documentation and exploring the project's functionality. Once satisfied, users can integrate the project into their workflow, beginning with a small pilot to test its effectiveness and scalability. A thorough review of the project's license, security posture, and maintainers is also recommended to ensure a smooth adoption process.
 
-**Production Readiness:**
+## Before adopting
 
-okasi/bot-signal demonstrates high production readiness, with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/okasi/bot-signal).
 
 ### Русский
 

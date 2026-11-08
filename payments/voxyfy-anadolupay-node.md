@@ -38,7 +38,9 @@ Payments · Backend
 3. **Prototype or Internal Workflow:** Use the library in a prototype or internal workflow to test its functionality and identify any issues.
 4. **Production Deployment:** After thorough testing and evaluation, deploy the library in a production environment.
 
-**Production Readiness:** The library has a medium production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Voxyfy/anadolupay-node).
 
 ### Русский
 

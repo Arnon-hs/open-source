@@ -44,7 +44,10 @@ The primary value proposition of AlpaSim lies in its ability to automate and str
 To adopt AlpaSim, developers can follow these steps:
 
 1. **Evaluate AlpaSim**: Review the project's documentation, code, and community activity to ensure it meets your needs.
-2. **Start with a small proof of concept**: Begin by testing AlpaSim with a small-scale project to gauge its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NVlabs/alpasim).
 
 ### Русский
 

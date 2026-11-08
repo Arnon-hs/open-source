@@ -41,7 +41,11 @@ To adopt SolersEngine, developers can start by evaluating the project through a 
 
 **Production Readiness:**
 
-SolersEngine is considered to be at medium production readiness. While it can be useful for
+SolersEngine is considered to be at medium production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/brandlll-lee/SolersEngine).
 
 ### Русский
 

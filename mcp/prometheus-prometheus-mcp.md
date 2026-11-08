@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, users can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once the integration is confirmed, users can proceed with a more extensive implementation, considering factors such as dependency and maintenance checks. Although the project is rated as "Medium" in terms of production readiness, it can be useful for prototypes or internal workflows.
 
-**Production Readiness:** The project is considered "Medium" in terms of production readiness, indicating that while it can be useful for certain applications, it still requires careful evaluation and consideration before being deployed in a production environment. Users should conduct a
+**Production Readiness:** The project is considered "Medium" in terms of production readiness, indicating that while it can be useful for certain applications, it still requires careful evaluation and consideration before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/prometheus/prometheus-mcp).
 
 ### Русский
 

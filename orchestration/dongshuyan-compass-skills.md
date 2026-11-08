@@ -41,7 +41,11 @@ To adopt COMPASS-Skills, developers can start by evaluating the project through 
 
 **Production Readiness:**
 
-COMPASS-Skills is considered production-ready due to its recent activity, strong adoption (533 GitHub stars), and positive ecosystem signals. The project's primary language is Python, and it has a well-maintained codebase with
+COMPASS-Skills is considered production-ready due to its recent activity, strong adoption (533 GitHub stars), and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dongshuyan/compass-skills).
 
 ### Русский
 

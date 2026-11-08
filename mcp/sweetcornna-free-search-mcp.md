@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then integrate the MCP server with their AI assistants and test its functionality. The project's straightforward integration process and recent activity make it an attractive choice for developers looking to standardize their integrations.
 
-**Production Readiness:** sweetcornna/free-search-mcp has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals. With 28 GitHub stars, 2 forks, and regular updates, this
+**Production Readiness:** sweetcornna/free-search-mcp has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sweetcornna/free-search-mcp).
 
 ### Русский
 

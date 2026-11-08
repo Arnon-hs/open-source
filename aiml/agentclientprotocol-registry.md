@@ -42,7 +42,10 @@ To adopt the agentclientprotocol/registry, developers can follow these steps:
 1. Evaluate the project by reviewing the README and conducting a small proof of concept to gauge its feasibility.
 2. Assess the project's dependencies and maintenance requirements to ensure they align with your project's needs.
 3. Integrate the registry into your project, leveraging the provided agents to add AI capability.
-4. Test and refine the integration to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/agentclientprotocol/registry).
 
 ### Русский
 

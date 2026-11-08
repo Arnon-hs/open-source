@@ -40,7 +40,9 @@ Here's a brief summary and explanation of the open-source project:
 3. **Integration:** Once the plugin has been verified, developers can integrate it into their project, taking note of any potential dependencies or maintenance requirements.
 4. **Testing and Validation:** Developers should thoroughly test and validate the plugin to ensure it works as expected and meets their project's needs.
 
-**Production Readiness:** The production readiness of this plugin is medium, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/danielLublinsky/Skill_Atlas).
 
 ### Русский
 

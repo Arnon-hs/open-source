@@ -39,7 +39,10 @@ To adopt envapt, developers should follow these steps:
 1. **Manual Inspection**: Carefully review the project's README, activity, and documentation to understand its functionality and limitations.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies, maintenance history, and release cadence to ensure it aligns with your project's needs.
 3. **Verify Quality Signals**: Check the project's issues, license, and release history to gauge its overall quality and reliability.
-4. **Prototype or Internal Workflow**: Use envapt in a prototype or internal workflow to test its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/materwelonDhruv/envapt).
 
 ### Русский
 

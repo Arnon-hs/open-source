@@ -39,9 +39,9 @@ The value proposition of meta-prompting lies in its ability to add AI capabiliti
 
 To adopt meta-prompting, developers can start by evaluating the project through a small proof of concept and reviewing the README documentation. Once they have a clear understanding of the project's capabilities and requirements, they can begin integrating meta-prompting into their existing systems. It's essential to perform dependency and maintenance checks before moving to production to ensure a smooth integration process.
 
-**Production Readiness:**
+## Before adopting
 
-The project has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/meta-prompting/meta-prompting).
 
 ### Русский
 

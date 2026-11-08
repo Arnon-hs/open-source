@@ -37,8 +37,9 @@ The value of BrAIn lies in its ability to simplify the addition of AI capabiliti
 **Practical Adoption Path:**
 To adopt BrAIn, developers should begin by manually inspecting the project's metadata, dependencies, and maintenance signals to ensure it meets their project's requirements. This may involve verifying the license, documentation, and release cadence. Once satisfied, they can integrate BrAIn into their projects, leveraging its reactive AI agent nodes to build and evaluate AI-powered workflows.
 
-**Production Readiness:**
-While BrAIn is suitable for prototyping and internal workflows, its production readiness is limited due to sparse integration signals and potential risks associated with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tibzejoker/brAIn).
 
 ### Русский
 

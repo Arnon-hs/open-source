@@ -38,7 +38,9 @@ AI/ML
 3. Integrate BootAgent into their project, starting with a prototype or internal workflow.
 4. Monitor the tool's performance and adjust as needed.
 
-**Production Readiness:** BootAgent is considered "Medium" in terms of production readiness, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MaimoryLab/BootAgent).
 
 ### Русский
 

@@ -38,7 +38,11 @@ As for the practical adoption path, it is recommended to follow these steps:
 3. Set up and test the tool in a controlled environment to validate the setup cost and potential integration challenges.
 4. Consider the ongoing maintenance requirements and potential risks associated with integrating Cmdr into your production workflow.
 
-Regarding production readiness, evaera/Cmdr is rated as "Medium", indicating that it is suitable for prototypes or internal workflows, but may require additional checks and validation before being used in production environments. This means that developers should carefully evaluate the tool's fit for their
+Regarding production readiness, evaera/Cmdr is rated as "Medium", indicating that it is suitable for prototypes or internal workflows, but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/evaera/Cmdr).
 
 ### Русский
 

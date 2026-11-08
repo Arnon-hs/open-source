@@ -44,9 +44,9 @@ To adopt taskreaper-core, users can follow these steps:
 3. Integrate taskreaper-core into their existing workflow or prototype.
 4. Test and refine the integration to ensure smooth operation.
 
-**Production Readiness:**
+## Before adopting
 
-Taskreaper-core has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows but may require additional checks and validation before being deployed in a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mdoty4/taskreaper-core).
 
 ### Русский
 

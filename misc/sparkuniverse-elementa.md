@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt Elementa, start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help you understand the integration path and potential setup costs. Once you have a basic understanding of the library, you can begin integrating it into your project, taking into account dependency and maintenance checks before moving to production.
 
-**Production Readiness:** Elementa is considered medium production-ready, making it suitable for use in prototypes or internal workflows. However, before committing to production, it's essential to validate the setup cost and ensure that the library aligns with your project's requirements. With its 435 GitHub stars and regular updates, Elementa demonstrates a moderate level of community engagement and maintenance, making it a viable option for projects that
+**Production Readiness:** Elementa is considered medium production-ready, making it suitable for use in prototypes or internal workflows. However, before committing to production, it's essential to validate the setup cost and ensure that the library aligns with your project's requirements.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SparkUniverse/Elementa).
 
 ### Русский
 

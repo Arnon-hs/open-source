@@ -37,7 +37,11 @@ Misc
 2. **Validate Setup Cost:** It's essential to validate the setup cost before committing to the tool to ensure it aligns with the team's requirements and resources.
 3. **Dependency and Maintenance Checks:** Conduct a thorough check of the tool's dependencies and maintenance requirements to ensure it's production-ready.
 
-**Production Readiness:** The Gradle Profiler has a production readiness score of Medium. It's suitable for prototypes or internal workflows, but it's recommended to perform dependency and maintenance checks before deploying it in production. This
+**Production Readiness:** The Gradle Profiler has a production readiness score of Medium. It's suitable for prototypes or internal workflows, but it's recommended to perform dependency and maintenance checks before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gradle/gradle-profiler).
 
 ### Русский
 

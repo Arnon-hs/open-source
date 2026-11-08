@@ -43,7 +43,9 @@ Given its medium production readiness, the cosmic-project-collection is best sui
 * **Prototypes**: Use the project as a starting point for building and testing new ideas.
 * **Internal workflows**: Adopt the project for internal use cases, where the benefits of streamlined workflows outweigh the potential risks.
 
-However, due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cosmic-utils/cosmic-project-collection).
 
 ### Русский
 

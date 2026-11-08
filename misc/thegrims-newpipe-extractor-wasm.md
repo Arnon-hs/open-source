@@ -37,7 +37,9 @@ Misc
 2. Integration checks: As integration signals are sparse, users should verify the project's compatibility with their existing systems and workflows.
 3. Dependency and maintenance checks: Due to its moderate production readiness, users should check the project's dependencies, maintenance history, and release cadence before using it in production.
 
-**Production Readiness:** Newpipe Extractor in WASM is considered medium production-ready, making it suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/thegrims/newpipe-extractor-wasm).
 
 ### Русский
 

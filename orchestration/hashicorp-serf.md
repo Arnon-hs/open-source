@@ -38,7 +38,10 @@ As for the practical adoption path, here's a step-by-step guide:
 3. **Prototype Testing**: Set up a prototype environment to test serf's features and workflows to gauge its effectiveness.
 4. **Dependency and Maintenance Checks**: Conduct thorough checks on dependencies, licenses, and security posture to ensure serf aligns with your project's standards.
 5. **Internal Adoption**: If satisfied with the results, adopt serf for internal workflows, starting with small-scale deployments.
-6. **Production Readiness**: Once confident in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hashicorp/serf).
 
 ### Русский
 

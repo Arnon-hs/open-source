@@ -33,7 +33,11 @@ Here's a brief summary of the marcus/sidecar project:
 
 **Value:** The primary value proposition of marcus/sidecar lies in its ability to turn isolated prompts and tools into repeatable agent workflows, making it easier to standardize and automate complex tasks. This enables teams to coordinate multi-agent workflows, add tool-use pipelines, and standardize agent memory, ultimately increasing efficiency and productivity.
 
-**Practical Adoption Path:** To adopt marcus/sidecar, teams can start by evaluating its integration signals, such as API/SDK/CLI, language metadata, or focused topics. They can then assess its production readiness, considering factors like recent activity, adoption, and ecosystem signals. Once adopted, teams can use marcus/sidecar to integrate isolated tools and CLI agents, creating repeatable workflows that
+**Practical Adoption Path:** To adopt marcus/sidecar, teams can start by evaluating its integration signals, such as API/SDK/CLI, language metadata, or focused topics. They can then assess its production readiness, considering factors like recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/marcus/sidecar).
 
 ### Русский
 

@@ -41,7 +41,10 @@ To adopt the Prism-platform, users can follow these steps:
 
 1. Evaluate the platform's features and capabilities to determine its suitability for their use case.
 2. Review the platform's API, SDK, and CLI documentation to understand its implementation signals.
-3. Assess the platform's language metadata and focused topics to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NovaCode37/Prism-platform).
 
 ### Русский
 

@@ -41,7 +41,10 @@ To adopt CodeLogicIncEngineering/codelogic-mcp-server, developers can follow the
 
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
 2. Assess the project's production readiness, considering factors like dependency and maintenance checks.
-3. Review the project's license, security posture, and active maintainers to ensure a stable and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/CodeLogicIncEngineering/codelogic-mcp-server).
 
 ### Русский
 

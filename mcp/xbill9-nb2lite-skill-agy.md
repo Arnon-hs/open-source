@@ -41,7 +41,11 @@ The practical adoption path for this project involves connecting AI agents to to
 
 **Production Readiness**
 
-The production readiness of Teaching Google Antigravity to Paint is rated as medium. While it is useful for prototypes or internal workflows, its limited quality signals, such as
+The production readiness of Teaching Google Antigravity to Paint is rated as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xbill9/nb2lite-skill-agy).
 
 ### Русский
 

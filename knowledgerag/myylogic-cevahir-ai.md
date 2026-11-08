@@ -41,7 +41,11 @@ To adopt Cevahir-AI, start by evaluating its feasibility through a small proof-o
 
 **Production Readiness:**
 
-Cevahir-AI is considered medium-production ready, indicating that it can be useful for prototyping or internal workflows. However, before deploying the engine in production, it's essential to
+Cevahir-AI is considered medium-production ready, indicating that it can be useful for prototyping or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/myylogic/cevahir-ai).
 
 ### Русский
 

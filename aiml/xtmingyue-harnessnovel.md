@@ -41,7 +41,11 @@ AI/ML
 2. **Prototype**: Use harnessNovel to prototype AI features, build RAG or agent workflows, or evaluate model tooling.
 3. **Integration**: Integrate harnessNovel into your existing workflow, considering its production readiness and potential maintenance requirements.
 
-**Production Readiness:** harnessNovel is rated as "Medium" in terms of production readiness. While it can be useful for prototypes or
+**Production Readiness:** harnessNovel is rated as "Medium" in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/XTmingyue/harnessNovel).
 
 ### Русский
 

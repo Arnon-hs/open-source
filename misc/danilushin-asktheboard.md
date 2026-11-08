@@ -44,9 +44,9 @@ To adopt this project, developers should follow these steps:
 3. Review the integration notes and sparse metadata to ensure a smooth integration process.
 4. Test the project in a prototype or internal workflow environment to validate its performance.
 
-**Production Readiness**
+## Before adopting
 
-The project is considered medium-ready for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/danilushin/asktheboard).
 
 ### Русский
 

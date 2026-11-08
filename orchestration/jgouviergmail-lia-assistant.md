@@ -41,8 +41,9 @@ To adopt LIA, users should follow these steps:
 3. **Test and refine**: Set up a test environment and refine the workflow to suit specific use cases.
 4. **Monitor and maintain**: Regularly monitor the project's activity, update dependencies, and address any issues that may arise.
 
-**Production Readiness:**
-LIA is considered production-ready for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jgouviergmail/LIA-Assistant).
 
 ### Русский
 

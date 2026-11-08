@@ -37,7 +37,11 @@ The primary value of haloydev/haloy lies in its ability to help teams reuse serv
 To adopt haloydev/haloy, teams can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then assess its production readiness by considering factors like dependency and maintenance checks. Given its medium production readiness, teams should perform thorough reviews of the license, security posture, and active maintainers before deploying it in a production environment.
 
 **Production Readiness:**
-haloydev/haloy has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows. While it is not yet ready for
+haloydev/haloy has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/haloydev/haloy).
 
 ### Русский
 

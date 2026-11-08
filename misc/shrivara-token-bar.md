@@ -46,7 +46,11 @@ To adopt this tool, developers should:
 
 **Production Readiness**
 
-Due to the limited quality signals and sparse integration signals, the tool's production readiness is rated as medium. While it can be useful for prototyping or internal workflows, it may not be suitable for
+Due to the limited quality signals and sparse integration signals, the tool's production readiness is rated as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/shrivara/token-bar).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt Newsline, follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, license, and maintenance history to ensure it meets your project's requirements.
 2. **Integration**: Integrate Newsline into your existing workflow, taking note of potential integration signals and sparse metadata.
 3. **Verification**: Verify the project's quality signals, such as recent updates and topic relevance, to ensure it remains active and relevant.
-4. **Testing**: Test Newsline in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/itdar/newsline).
 
 ### Русский
 

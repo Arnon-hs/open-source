@@ -40,9 +40,9 @@ Here's a brief summary of the open-source project:
 3. Perform dependency and maintenance checks to ensure production readiness.
 4. Consider the project's license, security posture, and active maintainers before committing to adoption.
 
-**Production Readiness:** The Synapse project has a medium level of production readiness, making it suitable for:
+## Before adopting
 
-1. Prototyping: Leverage the project's potential for customization and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vertexproject/synapse).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The main value proposition of this project lies in its ability to connect AI age
 
 **Practical Adoption Path:**
 
-To adopt the samerfarida/mcp-ssh-orchestrator project, users can start by evaluating its API, SDK, and CLI implementation signals. The project's recent activity, adoption, and ecosystem signals indicate a high level of production readiness, making it suitable for serious pilots. Users can then assess the project's license, security posture, and active maintainers before integrating it into their systems. With its Python implementation and 12 topics, the project offers a flexible and
+To adopt the samerfarida/mcp-ssh-orchestrator project, users can start by evaluating its API, SDK, and CLI implementation signals. The project's recent activity, adoption, and ecosystem signals indicate a high level of production readiness, making it suitable for serious pilots. Users can then assess the project's license, security posture, and active maintainers before integrating it into their systems.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/samerfarida/mcp-ssh-orchestrator).
 
 ### Русский
 

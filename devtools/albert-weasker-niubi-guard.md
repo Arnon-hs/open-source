@@ -39,9 +39,9 @@ The value of Albert-Weasker/niubi_guard lies in its ability to automate repetiti
 
 To adopt Albert-Weasker/niubi_guard, engineers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then assess its production readiness, considering factors like recent activity, adoption, and ecosystem signals. Finally, they can pilot the tool in a controlled environment to test its effectiveness and identify any potential risks or areas for improvement.
 
-**Production Readiness:**
+## Before adopting
 
-The production readiness of Albert-Weasker/niubi_guard is high, with strong signals indicating its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Albert-Weasker/niubi_guard).
 
 ### Русский
 

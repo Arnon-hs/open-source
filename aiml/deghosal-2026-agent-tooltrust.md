@@ -34,7 +34,11 @@ I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper is an open-sour
 The value proposition of this project lies in its ability to streamline the AI development process by providing a pre-built model stack. Developers can leverage this gatekeeper to quickly prototype AI features, build workflows, and evaluate model tooling. To adopt this project, developers should start by manually inspecting the code and dependencies before integrating it into their applications. This involves verifying the license, maintenance, documentation, issues, and release cadence to ensure the project meets their needs.
 
 **Production Readiness:**
-The production readiness of I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper is medium, making it suitable for prototypes or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to ensure the project's stability and security. This includes verifying the quality signals, which are limited, to minimize potential risks. By following this
+The production readiness of I Stopped Trusting AI Agents With Tools. So I Built a Gatekeeper is medium, making it suitable for prototypes or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to ensure the project's stability and security. This includes verifying the quality signals, which are limited, to minimize potential risks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/deghosal-2026/agent-tooltrust).
 
 ### Русский
 

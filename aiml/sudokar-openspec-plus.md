@@ -39,9 +39,9 @@ The value proposition of OpenSpec Plus lies in its ability to integrate AI codin
 
 To adopt OpenSpec Plus, developers need to manually inspect the project before integrating it into their workflow. The integration path may not be immediately obvious from the metadata, so users should be prepared to validate the setup cost before committing to the project. Once integrated, OpenSpec Plus can be used to prototype AI features, build RAG or agent workflows, and evaluate model tooling.
 
-**Production Readiness:**
+## Before adopting
 
-OpenSpec Plus is considered production-ready with a medium level of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sudokar/openspec-plus).
 
 ### Русский
 

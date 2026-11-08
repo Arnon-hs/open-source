@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path**: To adopt xataio/deltax, developers should start with a small proof of concept and carefully review the project's README documentation. This will help identify any potential integration challenges and ensure a smooth setup process. It's essential to validate the setup cost and potential risks before committing to production use.
 
-**Production Readiness**: xataio/deltax is considered medium production-ready. While it is useful for prototypes or internal workflows, careful dependency and maintenance checks are necessary before deploying it in a production environment. Its production readiness is somewhat limited due to the potential integration complexity and the
+**Production Readiness**: xataio/deltax is considered medium production-ready. While it is useful for prototypes or internal workflows, careful dependency and maintenance checks are necessary before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xataio/deltax).
 
 ### Русский
 

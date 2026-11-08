@@ -41,7 +41,11 @@ To adopt equipdoc-agent, users can start by reviewing the project's documentatio
 
 **Production Readiness**
 
-equipdoc-agent is rated as medium in terms of production readiness. While it has shown promise in its current state, further review of the project's license, security posture, and active maintainers is necessary to ensure its suitability for production environments. With proper evaluation and testing, equipdoc-agent can be a
+equipdoc-agent is rated as medium in terms of production readiness. While it has shown promise in its current state, further review of the project's license, security posture, and active maintainers is necessary to ensure its suitability for production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yu123-tqy/equipdoc-agent).
 
 ### Русский
 

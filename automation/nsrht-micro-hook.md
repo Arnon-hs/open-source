@@ -39,9 +39,9 @@ The primary value of Micro-Hook lies in its ability to automate repetitive tasks
 
 To adopt Micro-Hook, users should first manually inspect the project's metadata to understand its capabilities and limitations. This involves verifying the license, maintenance, documentation, issues, and release cadence to ensure the tool meets their needs. Once comfortable with the project's quality signals, users can integrate Micro-Hook into their workflows, starting with prototype development or internal projects. As with any open-source project, users should be prepared to perform dependency and maintenance checks before deploying it in production.
 
-**Production Readiness**
+## Before adopting
 
-While Micro-Hook has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nsrht/micro-hook).
 
 ### Русский
 

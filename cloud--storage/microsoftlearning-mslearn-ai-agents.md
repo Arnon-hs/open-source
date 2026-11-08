@@ -42,7 +42,10 @@ To adopt MicrosoftLearning/mslearn-ai-agents, users should follow these steps:
 1. Review the project's documentation and assets to understand its capabilities and limitations.
 2. Evaluate the project's integration requirements and ensure that it aligns with their existing infrastructure and tools.
 3. Perform manual inspection and risk assessment to address any concerns related to license, security posture, and active maintainers.
-4. Conduct dependency and maintenance checks before deploying the project in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MicrosoftLearning/mslearn-ai-agents).
 
 ### Русский
 

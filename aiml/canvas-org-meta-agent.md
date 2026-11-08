@@ -40,7 +40,9 @@ The practical adoption path for this project involves the following steps:
 3. Conduct dependency and maintenance checks to ensure the project's stability and reliability.
 4. Use the project for prototype development, RAG or agent workflow creation, or model tooling evaluation.
 
-Regarding production readiness, the project is considered medium-level, indicating that it is useful for prototypes or internal workflows but may require further evaluation and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/canvas-org/meta-agent).
 
 ### Русский
 

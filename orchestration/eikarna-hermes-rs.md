@@ -37,7 +37,11 @@ The project's value proposition lies in its ability to streamline and automate w
 For practical adoption, it is recommended to start with a small proof of concept and thoroughly review the README documentation. This will help evaluate the integration path and validate the setup cost before committing to the project. Given the medium production readiness score, it is best suited for prototypes or internal workflows, with careful consideration of dependency and maintenance checks before deploying it in production.
 
 **Production Readiness:**
-The project is considered medium in terms of production readiness, making it suitable for proof-of-concept development or internal workflows. While it has a moderate level of quality signals (64 GitHub stars and
+The project is considered medium in terms of production readiness, making it suitable for proof-of-concept development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/eikarna/hermes-rs).
 
 ### Русский
 

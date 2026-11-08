@@ -41,7 +41,10 @@ To adopt Pharos, developers can follow these steps:
 
 1. **Evaluating Pharos**: Assess the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to determine its suitability for their specific use case.
 2. **Connecting AI Agents**: Utilize Pharos to connect AI agents to real tools and data, taking advantage of its standard protocol.
-3. **Ship Model Context Protocol Servers**: Deploy Pharos servers to enable the exchange of data between AI agents and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Laurent00TT/pharos).
 
 ### Русский
 

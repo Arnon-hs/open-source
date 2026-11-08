@@ -38,7 +38,9 @@ The value proposition of AgentControl lies in its ability to simplify the proces
 3. **Prototype and Test**: Use AgentControl to build a prototype or test its features in a controlled environment.
 4. **Evaluate and Refine**: Evaluate the project's performance and refine its configuration as needed.
 
-In
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kyzrxe-max/agent-guard).
 
 ### Русский
 

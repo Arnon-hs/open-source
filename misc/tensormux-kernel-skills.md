@@ -48,7 +48,10 @@ To adopt this project, developers should:
 While the project has some value, its production readiness is rated as medium due to the limited quality signals available. Before deploying it in a production environment, developers should:
 
 1. Thoroughly verify the project's dependencies and maintenance checks.
-2. Conduct comprehensive testing to ensure its stability and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tensormux/kernel-skills).
 
 ### Русский
 

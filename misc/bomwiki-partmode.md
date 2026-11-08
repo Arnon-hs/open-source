@@ -37,7 +37,11 @@ Partmode may be useful for users who need an open-source alternative to SolidWor
 Before adopting Partmode, users should thoroughly inspect its README, activity, and dependencies to ensure it meets their needs. This involves verifying the project's maintenance, documentation, and release cadence to ensure it is stable and reliable. Once these checks are complete, users can integrate Partmode into their workflow, starting with prototype or internal projects to test its capabilities.
 
 **Production Readiness:**
-Partmode is considered production-ready at a medium level, indicating that it can be useful for prototypes or internal workflows. However, users should exercise caution and perform thorough checks before deploying it in production environments, as its quality signals are limited. This
+Partmode is considered production-ready at a medium level, indicating that it can be useful for prototypes or internal workflows. However, users should exercise caution and perform thorough checks before deploying it in production environments, as its quality signals are limited.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bomWiki/partmode).
 
 ### Русский
 

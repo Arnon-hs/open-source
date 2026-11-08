@@ -42,7 +42,11 @@ To adopt OpenHands Agent Canvas, users can follow these steps:
 4. Monitor and maintain the platform to ensure smooth operation.
 
 **Production Readiness:**
-OpenHands Agent Canvas has a medium production readiness score, indicating that it's suitable for prototyping and internal workflows. However, users should perform dependency and maintenance checks before deploying it in production environments. Additionally, a final review of the license, security posture, and active maintainers is recommended to ensure a stable and
+OpenHands Agent Canvas has a medium production readiness score, indicating that it's suitable for prototyping and internal workflows. However, users should perform dependency and maintenance checks before deploying it in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/OpenHands/agent-canvas).
 
 ### Русский
 

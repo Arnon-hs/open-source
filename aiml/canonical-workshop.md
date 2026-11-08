@@ -41,8 +41,9 @@ The project offers a streamlined approach to developing AI/ML applications, savi
 3. Integrate the project into your development workflow, starting with a small-scale prototype or proof of concept.
 4. Gradually scale up the project as needed, monitoring its performance and addressing any issues that arise.
 
-**Production Readiness:**
-The project has a medium production readiness score, indicating that it's useful for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/canonical/workshop).
 
 ### Русский
 

@@ -39,7 +39,9 @@ Devin-AXIS/iPolloWork is an open-source, local-first AI agent workspace that pro
 2. **Pilot and Test:** Run a pilot to test the project's capabilities and assess its fit for specific use cases.
 3. **Adopt and Integrate:** If successful, adopt and integrate iPolloWork into existing workflows or projects, leveraging its Design and Video tools.
 
-**Production Readiness:** Devin-AXIS/iPolloWork has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Devin-AXIS/iPolloWork).
 
 ### Русский
 

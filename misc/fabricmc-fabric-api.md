@@ -38,7 +38,11 @@ FabricMC/fabric-api helps teams save time and resources by reusing common backen
 To adopt FabricMC/fabric-api, teams should start with a small proof of concept to evaluate its feasibility and compatibility with their existing infrastructure. A thorough review of the README documentation is also recommended to ensure a smooth integration process.
 
 **Production Readiness:**
-FabricMC/fabric-api has a high production readiness score, indicating its suitability for serious pilots. With recent activity, strong adoption, and a robust ecosystem, this project is considered a stable and reliable choice for development teams. However, a final review of the license, security posture, and active maintainers is still necessary to
+FabricMC/fabric-api has a high production readiness score, indicating its suitability for serious pilots. With recent activity, strong adoption, and a robust ecosystem, this project is considered a stable and reliable choice for development teams.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/FabricMC/fabric-api).
 
 ### Русский
 

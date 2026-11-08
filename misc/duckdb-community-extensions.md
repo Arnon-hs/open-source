@@ -41,7 +41,11 @@ Adopting the DuckDB Community Extensions project requires manual inspection and 
 
 **Production Readiness:**
 
-The project's production readiness is rated as Medium, indicating that it can be useful for prototyping or internal workflows, but its suitability for production environments depends on thorough dependency and maintenance checks. Users should carefully evaluate the project's stability, security, and
+The project's production readiness is rated as Medium, indicating that it can be useful for prototyping or internal workflows, but its suitability for production environments depends on thorough dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/duckdb/community-extensions).
 
 ### Русский
 

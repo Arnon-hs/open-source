@@ -38,7 +38,10 @@ The practical adoption path for sync-buzz/sync involves the following steps:
 
 1. **Evaluate the Project:** Developers can evaluate the project by reviewing its implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
 2. **Assess Production Readiness:** Developers should assess the production readiness of the project, which is currently rated as medium. This means that the project is useful for prototypes or internal workflows, but requires dependency and maintenance checks before production.
-3. **Integrate with Existing Tools:** Developers can integrate sync-buzz/sync with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sync-buzz/sync).
 
 ### Русский
 

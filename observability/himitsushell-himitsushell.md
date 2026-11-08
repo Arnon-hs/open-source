@@ -40,7 +40,11 @@ HimitsuShell is an innovative shell script solution that makes production behavi
 3. Assess dependencies and maintenance: Evaluate the project's dependencies, maintenance requirements, and potential risks before adopting it.
 4. Test and validate: Run tests and validate the project's functionality in your specific use case.
 
-**Production Readiness:** HimitsuShell is considered medium-readiness for production use. It's suitable for prototypes, internal workflows, or small-scale deployments, but requires careful evaluation and validation before being used in larger-scale or
+**Production Readiness:** HimitsuShell is considered medium-readiness for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/HimitsuShell/HimitsuShell).
 
 ### Русский
 

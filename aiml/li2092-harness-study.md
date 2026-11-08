@@ -38,7 +38,11 @@ The value proposition of Harness Study lies in its ability to streamline AI deve
 To adopt Harness Study, developers need to manually inspect the project's metadata and integration signals to understand its integration path. This may require some trial and error, but the payoff is a more efficient and effective AI development process. Before committing to production, it's essential to validate the setup cost and ensure that the project meets the necessary dependency and maintenance checks.
 
 **Production Readiness:**
-Harness Study is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. While it has a moderate level of quality signals (40 GitHub stars and 5 forks), its production readiness is limited due to the need for
+Harness Study is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/li2092/harness-study).
 
 ### Русский
 

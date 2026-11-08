@@ -79,7 +79,10 @@ rotki/rotki 的生产可用性是较高的，主要原因是：
 * 近期的活跃维护和采用
 * 强大的生态系统信号
 * 高度的 GitHub 星星和 fork 数量
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/rotki/rotki)。
 
 ## 🧭 Practical evaluation
 

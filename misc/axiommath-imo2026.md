@@ -40,7 +40,9 @@ As for the practical adoption path, here are the steps:
 5. **Evaluate maintenance**: Assess the project's release cadence and issue tracking to ensure it's actively maintained.
 6. **Adopt and integrate**: Once the project has been vetted, adopt and integrate it into your workflow.
 
-The project is considered production-ready with a medium level of readiness, indicating that it's useful for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AxiomMath/IMO2026).
 
 ### Русский
 

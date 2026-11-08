@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt srcwalk, developers should first manually inspect the project to understand its metadata and integration requirements. Once familiar with the tool, they can integrate it into their workflow by following the project's documentation and guidelines. However, it's essential to validate the setup cost and potential dependencies before committing to production.
 
-**Production Readiness:** Sting8k/srcwalk is considered medium-production ready, making it suitable for internal workflows, prototypes, and proof-of-concepts. While it has a moderate level of quality signals (59 GitHub stars and 4 forks), its production readiness is tempered by the need for manual inspection and
+**Production Readiness:** Sting8k/srcwalk is considered medium-production ready, making it suitable for internal workflows, prototypes, and proof-of-concepts.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sting8k/srcwalk).
 
 ### Русский
 

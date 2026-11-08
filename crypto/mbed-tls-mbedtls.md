@@ -41,7 +41,11 @@ Mbed-TLS/mbedtls helps developers build, inspect, and prototype blockchain-relat
 3. **Production Deployment:** With its high production readiness score, Mbed-TLS/mbedtls can be safely deployed in production environments, thanks to its strong adoption, recent activity, and active maintainers.
 
 **Production Readiness:**
-Mbed-TLS/mbedtls has a high production readiness score, with recent activity, strong adoption, and a robust ecosystem. Its
+Mbed-TLS/mbedtls has a high production readiness score, with recent activity, strong adoption, and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Mbed-TLS/mbedtls).
 
 ### Русский
 

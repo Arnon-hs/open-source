@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, developers or organizations should first manually inspect the code and evaluate its quality signals, such as updated documentation, issues, and release cadence. They should also verify the license and maintenance terms before integrating it into their workflows. Once the necessary checks are complete, the safety shield can be integrated into AI agent workflows, allowing for the evaluation of model tooling and the development of RAG or agent workflows.
 
-**Production Readiness:** The project is considered "Medium" in terms of production readiness, indicating that it's suitable for use in prototypes, internal workflows, or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Thomaszhou22/danger-guard-skill).
 
 ### Русский
 

@@ -44,9 +44,9 @@ Developers can adopt Genie-sa/genie-react by following these steps:
 3. Prototype AI features and build workflows using the exposed API/SDK/CLI.
 4. Evaluate the effectiveness of the AI-driven workflows and make necessary adjustments.
 
-**Production Readiness:**
+## Before adopting
 
-Genie-sa/genie-react has a medium production readiness score, indicating that it is suitable for internal workflows and prototypes but may require further evaluation and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Genie-sa/genie-react).
 
 ### Русский
 

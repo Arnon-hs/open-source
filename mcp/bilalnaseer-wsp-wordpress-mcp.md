@@ -40,7 +40,10 @@ The primary value of the WSP MCP project lies in its ability to standardize inte
 To adopt the WSP MCP project, developers can follow these steps:
 
 1. **Evaluate the project**: Review the project's documentation, codebase, and community engagement to ensure it meets their specific needs.
-2. **Integrate with AI agents**: Connect the WSP MCP to AI assistants, such as chatbots or virtual assistants, to enable them to interact with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bilalnaseer/wsp-wordpress-mcp).
 
 ### Русский
 

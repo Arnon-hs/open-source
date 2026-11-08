@@ -40,7 +40,9 @@ Here's a brief summary of the project:
 3. **Dependency and Maintenance Checks:** Perform thorough dependency and maintenance checks to ensure the project aligns with your development requirements.
 4. **Verify Project Quality Signals:** Verify the project's quality signals, including license, maintenance, documentation, issues, and release cadence, to ensure its reliability.
 
-**Production Readiness:** While Adapt is useful for prototypes and internal workflows, it's recommended to verify its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mcindi/adapt).
 
 ### Русский
 

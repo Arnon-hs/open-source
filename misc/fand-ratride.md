@@ -35,7 +35,11 @@ Here's a brief summary:
 
 **Practical Adoption Path**: To adopt fand/ratride, start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help you understand the tool's capabilities and potential integration challenges. Once you've assessed its potential, you can begin integrating it into your existing workflows, starting with internal use cases or prototypes.
 
-**Production Readiness**: fand/ratride has a medium production readiness score, making it suitable for internal workflows, prototypes, or proof-of-concepts. However, before deploying it in production, it's essential to conduct thorough dependency and maintenance checks to ensure its stability and security. With its
+**Production Readiness**: fand/ratride has a medium production readiness score, making it suitable for internal workflows, prototypes, or proof-of-concepts. However, before deploying it in production, it's essential to conduct thorough dependency and maintenance checks to ensure its stability and security.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fand/ratride).
 
 ### Русский
 

@@ -33,7 +33,9 @@ Orchestration · Automation · AI/ML · DevTools · Security
 
 **Practical Adoption Path:** To adopt j3ssie/osmedeus, start by evaluating its feasibility through a small proof-of-concept and reviewing the README documentation. Given its Go primary language and 15 topics, it is essential to assess the project's license, security posture, and active maintainers before integrating it into your security operations. A phased approach, starting with a small pilot, can help you gauge the tool's effectiveness and identify potential areas for improvement.
 
-**Production Readiness:** j3ssie/osmedeus has demonstrated high production readiness, with recent activity, strong adoption (6,508 GitHub stars and 1,025 forks), and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/j3ssie/osmedeus).
 
 ### Русский
 

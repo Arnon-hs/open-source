@@ -42,8 +42,9 @@ Subrust's value lies in its ability to provide a subset of Rust functionality wi
 4. Perform a manual inspection of the project's code and dependencies to ensure they align with your project's needs.
 5. Consider integrating Subrust into your project as a prototype or for internal workflows, with careful evaluation and monitoring of its performance and stability.
 
-**Production Readiness:**
-Subrust is considered to have
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/orbitalhigh/subrust).
 
 ### Русский
 

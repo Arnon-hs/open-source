@@ -39,9 +39,9 @@ The primary value proposition of liustack/modlens lies in its ability to simplif
 
 To adopt liustack/modlens, developers can start by evaluating the tool through a small proof of concept and reviewing the project's README documentation. This will help them understand the tool's capabilities and limitations. Once familiar with the tool, developers can integrate it into their projects, starting with prototyping AI features or building RAG or agent workflows. As the project progresses, developers should perform dependency and maintenance checks to ensure production readiness.
 
-**Production Readiness:**
+## Before adopting
 
-liustack/modlens has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/liustack/modlens).
 
 ### Русский
 

@@ -38,7 +38,11 @@ The value proposition of CoBang lies in its ability to provide a concrete workfl
 To adopt CoBang, users can start by evaluating its feasibility through a small proof of concept and reviewing its README documentation. This will help them understand the app's functionality and potential use cases. Once they are satisfied with the app's capabilities, they can proceed with integrating it into their workflow.
 
 **Production Readiness:**
-CoBang is considered high-production-readiness due to its recent activity, adoption rate, and strong ecosystem signals. Its production-readiness score is high, making it a suitable candidate for serious pilots and production environments. However, it is essential to conduct a
+CoBang is considered high-production-readiness due to its recent activity, adoption rate, and strong ecosystem signals. Its production-readiness score is high, making it a suitable candidate for serious pilots and production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hongquan/CoBang).
 
 ### Русский
 

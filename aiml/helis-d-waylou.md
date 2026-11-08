@@ -41,7 +41,9 @@ Here's a brief summary of the open-source project:
 2. **Build RAG or Agent Workflows:** The project can be used to build Reasoning and Action Graph (RAG) or agent workflows, enabling developers to create more sophisticated AI systems.
 3. **Evaluate Model Tooling:** Waylou can be used to evaluate different model tooling options, helping developers choose the best tools for their specific use cases.
 
-**Production Readiness:** Waylou is considered "Medium" in terms of production readiness, meaning it is suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/helis-d/waylou).
 
 ### Русский
 

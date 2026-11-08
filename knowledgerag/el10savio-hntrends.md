@@ -41,8 +41,9 @@ To adopt this project, follow these steps:
 3. **Integration**: Integrate the project into your existing workflows, starting with a prototype or a small-scale pilot to test its effectiveness.
 4. **Quality Assurance**: Continuously monitor the project's quality signals and address any issues that may arise during production.
 
-**Production Readiness:**
-The project is considered medium in terms of production readiness, making it suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/el10savio/hnTrends).
 
 ### Русский
 

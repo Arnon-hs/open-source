@@ -39,11 +39,9 @@ The magnus919/agent-skills project offers several key benefits:
 2. **Standardization**: The project helps standardize agent memory, ensuring that AI systems can share knowledge and collaborate more effectively.
 3. **Tool Integration**: Users can easily integrate various tools and pipelines into their agent workflows, expanding the capabilities of their AI systems.
 
-**Practical Adoption Path:**
+## Before adopting
 
-To adopt the magnus919/agent-skills project, follow these steps:
-
-1. **Evaluate the Project**: Review the project's README, GitHub repository, and codebase to understand its capabilities and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/magnus919/agent-skills).
 
 ### Русский
 

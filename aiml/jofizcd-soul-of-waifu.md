@@ -37,7 +37,11 @@ The value proposition of Soul of Waifu lies in its ability to automate repetitiv
 To adopt Soul of Waifu, users can start by evaluating its feasibility through a small proof of concept and reviewing the project's README. Since the project is built with Python and has a strong ecosystem, users can easily integrate it into their existing workflows. With its recent activity and adoption, users can be confident in its stability and reliability.
 
 **Production Readiness:**
-Soul of Waifu is highly production-ready, with recent activity, strong adoption, and positive ecosystem signals. The project has
+Soul of Waifu is highly production-ready, with recent activity, strong adoption, and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jofizcd/Soul-of-Waifu).
 
 ### Русский
 

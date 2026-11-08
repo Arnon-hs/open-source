@@ -37,7 +37,11 @@ The primary value proposition of PermissionFlow lies in its ability to facilitat
 To adopt PermissionFlow, developers should start with a small proof of concept to evaluate the integration path and feasibility of the library. They should also thoroughly review the README documentation to ensure they understand the setup and usage requirements. Once a basic understanding is established, developers can proceed with integrating the library into their project, considering dependency and maintenance checks before committing to production.
 
 **Production Readiness:**
-PermissionFlow is considered production-ready with a medium level of readiness. While it is useful for prototypes or internal workflows, careful evaluation and setup are necessary before deploying it in a production environment. The library's production readiness is limited by the lack of obvious integration paths and the
+PermissionFlow is considered production-ready with a medium level of readiness. While it is useful for prototypes or internal workflows, careful evaluation and setup are necessary before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jaywcjlove/PermissionFlow).
 
 ### Русский
 

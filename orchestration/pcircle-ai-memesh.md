@@ -40,8 +40,9 @@ To adopt PCIRCLE-AI/memesh, developers can:
 3. Integrate the project into their existing workflow by following its documentation and using its MCP, CLI, hooks, and dashboard.
 4. Monitor and maintain the project to ensure its continued stability and security.
 
-**Production Readiness:**
-PCIRCLE-AI/memesh has a high production readiness score due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PCIRCLE-AI/memesh).
 
 ### Русский
 

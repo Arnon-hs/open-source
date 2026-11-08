@@ -36,7 +36,10 @@ As for the practical adoption path, here's a suggested step-by-step process:
 1. **Verify the project's quality and reliability**: Check the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your needs.
 2. **Inspect the code and integration signals**: Manually inspect the code and integration signals to understand how the app works and how it can be integrated into your system.
 3. **Set up a test environment**: Create a test environment to try out the app and evaluate its performance and functionality.
-4. **Integrate the app into your system**: Once you're satisfied with the app's performance, integrate it into your system, following the project's documentation and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ddyy/minvoice).
 
 ### Русский
 

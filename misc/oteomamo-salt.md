@@ -38,7 +38,9 @@ Misc
 3. **Prototype or Internal Workflow**: If the project meets your requirements, consider using it in a prototype or internal workflow to test its effectiveness and identify potential issues.
 4. **Production Readiness**: Once thoroughly evaluated, Salt can be considered for production use after addressing any identified risks and ensuring a stable maintenance schedule.
 
-**Production Readiness:** Salt is rated as "Medium" in terms of production readiness, indicating that it can
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/oteomamo/SALT).
 
 ### Русский
 

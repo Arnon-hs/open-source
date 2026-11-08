@@ -40,7 +40,10 @@ To adopt the voska/hass-mcp project, developers can follow these steps:
 1. Evaluate the project's implementation signals, such as API, SDK, and CLI, to understand its capabilities and limitations.
 2. Explore the project's language metadata and focused topics to determine its relevance to specific use cases.
 3. Assess the project's production readiness, considering factors like recent activity, adoption, and ecosystem signals.
-4. Review the project's license, security posture, and active maintainers to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/voska/hass-mcp).
 
 ### Русский
 

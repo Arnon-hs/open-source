@@ -44,9 +44,9 @@ To adopt this project, users need to manually inspect the code and metadata befo
 3. Validating the setup cost and potential risks involved.
 4. Integrating the project into the desired workflow.
 
-**Production Readiness**
+## Before adopting
 
-The production readiness of this project is medium, making it suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs).
 
 ### Русский
 

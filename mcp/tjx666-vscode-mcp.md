@@ -35,7 +35,9 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** To adopt tjx666/vscode-mcp, users can start by evaluating its straightforward integration signals, such as API/SDK/CLI, language metadata, or focused topics. Once familiar with the project's implementation, users can begin to integrate it with their existing tools and workflows, leveraging its capabilities to standardize agent memory, coordinate multi-agent workflows, and add tool-use pipelines.
 
-**Production Readiness:** tjx666/vscode-mcp has demonstrated high production readiness due to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tjx666/vscode-mcp).
 
 ### Русский
 

@@ -74,7 +74,10 @@ Apache Doris MCP Server 的主要价值在于帮助连接 AI 代理到工具，�
 Apache Doris MCP Server 的生产可用性较高，主要原因包括：
 
 1. 活跃维护者：项目有活跃的维护者团队，确保项目的稳定性和安全性。
-2.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/apache/doris-mcp-server)。
 
 ## 🧭 Practical evaluation
 

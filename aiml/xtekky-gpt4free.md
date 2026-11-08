@@ -40,7 +40,11 @@ Here's a brief summary and explanation of the project:
 3. Integrate the chosen models into their workflow using the provided APIs or SDKs.
 4. Schedule operational tasks and automate manual operations using the project's capabilities.
 
-**Production Readiness:** xtekky/gpt4free has a high production readiness score due to its recent activity, strong adoption, and robust ecosystem signals. With over 66,000 GitHub stars and
+**Production Readiness:** xtekky/gpt4free has a high production readiness score due to its recent activity, strong adoption, and robust ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xtekky/gpt4free).
 
 ### Русский
 

@@ -44,11 +44,9 @@ To adopt the DaVinci MCP Professional, users can follow these steps:
 3. Connect AI agents to the MCP server using the standard Model Context Protocol.
 4. Develop and integrate custom applications that leverage the capabilities of the MCP server.
 
-**Production Readiness**
+## Before adopting
 
-The DaVinci MCP Professional exhibits high production readiness due to:
-
-1. Recent activity: The project has been updated recently, indicating ongoing maintenance and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hoyt-harness/davinci-mcp-professional).
 
 ### Русский
 

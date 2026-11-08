@@ -46,7 +46,9 @@ Garnet demonstrates high production readiness, with recent activity, adoption, a
 * Strong adoption and ecosystem signals
 * High-quality codebase (C# as primary language)
 
-However, a final review of license, security posture, and active maintainers is still necessary to ensure a seamless and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/microsoft/garnet).
 
 ### Русский
 

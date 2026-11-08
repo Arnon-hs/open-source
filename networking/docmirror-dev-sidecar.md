@@ -41,7 +41,11 @@ To adopt docmirror/dev-sidecar, developers should start by evaluating its README
 
 **Production Readiness:**
 
-Docmirror/dev-sidecar demonstrates high production readiness due to its strong ecosystem signals, including 23,320 GitHub stars, 2,866 forks, and recent activity. Its adoption and recent updates indicate a mature and widely-used project, making it a
+Docmirror/dev-sidecar demonstrates high production readiness due to its strong ecosystem signals, including 23,320 GitHub stars, 2,866 forks, and recent activity.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/docmirror/dev-sidecar).
 
 ### Русский
 

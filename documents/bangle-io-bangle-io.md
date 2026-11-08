@@ -41,7 +41,11 @@ To adopt Bangle-io, developers should start with a small proof of concept to eva
 
 **Production Readiness:**
 
-Bangle-io has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a stable and maintainable project. The project's TypeScript primary language and
+Bangle-io has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a stable and maintainable project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bangle-io/bangle-io).
 
 ### Русский
 

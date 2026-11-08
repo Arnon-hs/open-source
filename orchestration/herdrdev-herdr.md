@@ -49,7 +49,10 @@ Adopting Herdr involves integrating it into your existing workflow, which can be
 Herdr has demonstrated high production readiness due to its:
 
 1. Recent activity: Regular updates and maintenance ensure the project remains relevant and secure.
-2. Adoption: With
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/herdrdev/herdr).
 
 ### Русский
 

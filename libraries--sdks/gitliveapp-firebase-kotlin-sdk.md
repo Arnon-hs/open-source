@@ -38,7 +38,10 @@ The adoption path for this SDK is relatively straightforward. Developers can sta
 
 1. Evaluate the SDK's documentation and examples to understand its functionality and usage.
 2. Integrate the SDK into a Kotlin project that uses Firebase services.
-3. Explore the SDK's features and customization options to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GitLiveApp/firebase-kotlin-sdk).
 
 ### Русский
 

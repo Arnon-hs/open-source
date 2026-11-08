@@ -39,7 +39,11 @@ The practical adoption path involves several steps:
 2. Validation of the setup cost and feasibility of implementing the project in a production environment.
 3. Dependency and maintenance checks to ensure that the project is stable and secure.
 
-Production readiness is rated as medium, indicating that the project is suitable for prototypes or internal workflows but may require additional development and testing before it can be used in a production environment. This is due to the
+Production readiness is rated as medium, indicating that the project is suitable for prototypes or internal workflows but may require additional development and testing before it can be used in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Runx402/Runx402).
 
 ### Русский
 

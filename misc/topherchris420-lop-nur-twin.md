@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the value, practical adoption path, an
 
 **Practical Adoption Path:** To adopt this project, developers should first manually inspect the code and dependencies to ensure that they are compatible with their existing infrastructure. This project is best suited for internal workflows or prototyping, as its production readiness is rated as medium. Before using it in production, developers should verify the license, maintenance, documentation, issues, and release cadence to ensure that it meets their needs.
 
-**Production Readiness:** The project is considered production-ready with some caveats. While it has been updated recently and has a limited number of topics, the quality signals are limited, and developers should exercise caution before using it in production. Regular checks on dependencies and
+**Production Readiness:** The project is considered production-ready with some caveats. While it has been updated recently and has a limited number of topics, the quality signals are limited, and developers should exercise caution before using it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/topherchris420/lop-nur-twin).
 
 ### Русский
 

@@ -45,7 +45,10 @@ The cloudnative-pg/plugin-barman-cloud project provides a reference backup and r
 - Strong ecosystem support.
 - High-quality code with 185 GitHub stars and 69 forks.
 - Regular updates and maintenance.
-However, a final review of the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cloudnative-pg/plugin-barman-cloud).
 
 ### Русский
 

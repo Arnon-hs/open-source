@@ -37,7 +37,11 @@ The ab900 project offers a standardized protocol for connecting AI agents to rea
 To adopt the ab900 project, users can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. Once evaluated, users can integrate the project into their existing workflows, starting with prototypes or internal projects. Before moving to production, users should conduct dependency and maintenance checks to ensure a smooth and stable deployment.
 
 **Production Readiness:**
-The ab900 project is considered production-ready, but with some caveats. Its medium production readiness score of 64/100 indicates that it is useful for prototypes or
+The ab900 project is considered production-ready, but with some caveats.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/timothywarner-org/ab900).
 
 ### Русский
 

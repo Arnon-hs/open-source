@@ -36,7 +36,10 @@ Misc
 1. **Manual Inspection**: Before adopting GNM Head, it's essential to manually inspect the project's README, activity, and integration signals to understand its potential use cases and limitations.
 2. **Verify Dependencies**: Check the project's dependencies and ensure they are compatible with your existing infrastructure.
 3. **Maintenance Checks**: Verify the project's maintenance status, including the frequency of updates, bug fixes, and release cadence.
-4. **License and Documentation**: Review the project's license and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/google/GNM).
 
 ### Русский
 

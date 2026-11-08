@@ -40,7 +40,9 @@ Here's a brief summary and explanation of the project:
 3. Train the system on specific use cases and industries to improve its accuracy and relevance.
 4. Monitor and fine-tune the system's performance to ensure optimal results.
 
-**Production Readiness:** The project demonstrates a high level of production readiness, with recent activity, adoption, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xiongQvQ/AI_Find_Customer).
 
 ### Русский
 

@@ -71,9 +71,9 @@ Label Studio 的生产可用性非常高，主要原因是：
 * 强大的采用率和生态系统信号。
 * 高评分，75/100。
 
-但是，需要注意以下风险：
+## 采用前检查
 
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/HumanSignal/label-studio)。
 
 ## 🧭 Practical evaluation
 

@@ -37,7 +37,11 @@ The primary value of QuipNetwork/hashsigs-rs lies in its ability to help researc
 To adopt QuipNetwork/hashsigs-rs, developers should first manually inspect the library's metadata and documentation to understand its integration requirements. This may involve validating the setup cost and potential maintenance needs. Once familiar with the library, developers can start integrating it into their projects, beginning with prototypes or internal workflows.
 
 **Production Readiness:**
-QuipNetwork/hashsigs-rs has a medium level of production readiness. While it can be useful for prototypes or internal workflows, its adoption in production environments requires careful consideration of dependencies and maintenance costs. Developers should weigh the benefits against the potential risks and validate the setup cost before committing to its
+QuipNetwork/hashsigs-rs has a medium level of production readiness. While it can be useful for prototypes or internal workflows, its adoption in production environments requires careful consideration of dependencies and maintenance costs.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/QuipNetwork/hashsigs-rs).
 
 ### Русский
 

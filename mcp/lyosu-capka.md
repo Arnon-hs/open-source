@@ -33,7 +33,9 @@ LyoSU/capka, also known as Capka AI, is an open-source, self-hosted sandbox for 
 
 The value proposition of LyoSU/capka lies in its ability to facilitate the integration of AI agents with various tools and data sources, making it an attractive option for developers seeking to standardize their integrations. The practical adoption path involves evaluating the project's implementation signals, such as its API, SDK, and CLI, as well as its language metadata and focused topics. Once evaluated, developers can ship Model Context Protocol servers and connect AI agents to tools, making it a useful tool for those looking to standardize their integrations.
 
-Production readiness is high for LyoSU/capka, with recent activity, adoption, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LyoSU/capka).
 
 ### Русский
 

@@ -37,7 +37,11 @@ Misc
 2. **Dependency and Maintenance Checks**: Perform thorough checks on the project's dependencies, maintenance, and release cadence to ensure it meets your project's requirements.
 3. **Prototype or Internal Workflow**: RISCBoy is best suited for prototypes or internal workflows where developers can experiment and refine the console without worrying about production-level stability and support.
 
-**Production Readiness:** RISCBoy's production readiness is medium, indicating that it may not be suitable for large-scale production environments without further development and testing. Its limited quality signals and
+**Production Readiness:** RISCBoy's production readiness is medium, indicating that it may not be suitable for large-scale production environments without further development and testing.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Wren6991/RISCBoy).
 
 ### Русский
 

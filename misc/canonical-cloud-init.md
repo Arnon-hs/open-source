@@ -40,7 +40,9 @@ The practical adoption path for cloud-init involves:
 3. Alignment with README and activity: Ensure that the project's documentation and activity match your specific use case.
 4. Testing and pilot: Pilot cloud-init in a controlled environment to evaluate its performance and compatibility with your system.
 
-Cloud-init's production readiness is high due to its strong signals of recent activity, adoption, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/canonical/cloud-init).
 
 ### Русский
 

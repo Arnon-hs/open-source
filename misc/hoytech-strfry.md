@@ -37,7 +37,11 @@ The primary value of this project lies in its ability to help developers build p
 To adopt this project, developers should start by evaluating its feasibility through a small proof of concept and reviewing the project's README. This will help them understand the project's capabilities and limitations. Once they are satisfied with the project's potential, they can integrate it into their workflow, taking necessary steps to ensure dependency and maintenance checks before moving to production.
 
 **Production Readiness:**
-The project is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, before using it in production, developers should verify the project's quality signals, including its license, maintenance, documentation, issues, and release cadence. This will
+The project is considered production-ready with medium readiness, making it suitable for prototypes or internal workflows. However, before using it in production, developers should verify the project's quality signals, including its license, maintenance, documentation, issues, and release cadence.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hoytech/strfry).
 
 ### Русский
 

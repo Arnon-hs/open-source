@@ -41,7 +41,11 @@ To adopt cocoonstack/sandbox, developers can start by evaluating its implementat
 
 **Production Readiness:**
 
-cocoonstack/sandbox has a medium production readiness score, indicating that it is useful for prototypes or internal workflows. However, before deploying the project in production, developers should conduct dependency and maintenance checks to
+cocoonstack/sandbox has a medium production readiness score, indicating that it is useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cocoonstack/sandbox).
 
 ### Русский
 

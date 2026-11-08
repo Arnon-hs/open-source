@@ -84,7 +84,10 @@ DavidHDev/canvas-ui 是一个开源项目，提供了一套创意的canvas组件
 
 * 许可证
 * 安全姿态
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/DavidHDev/canvas-ui)。
 
 ## 🧭 Practical evaluation
 

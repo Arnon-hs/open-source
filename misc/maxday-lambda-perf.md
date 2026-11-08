@@ -39,9 +39,9 @@ The value proposition of maxday/lambda-perf lies in its ability to streamline th
 
 To adopt maxday/lambda-perf, users will need to manually inspect the integration signals and metadata before committing to its use. This requires a certain level of technical expertise and familiarity with the project's architecture and dependencies. Once validated, users can integrate the project into their workflow, taking into account the potential setup costs and maintenance requirements.
 
-**Production Readiness:**
+## Before adopting
 
-The production readiness of maxday/lambda-perf is rated as medium, indicating that while it is useful for prototypes and internal workflows, it may not be
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/maxday/lambda-perf).
 
 ### Русский
 

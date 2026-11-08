@@ -34,7 +34,11 @@ bbkane/warg is an open-source declarative CLI framework that helps engineers str
 The primary value proposition of bbkane/warg lies in its ability to save engineers time by automating daily development and review tasks. By leveraging this framework, developers can focus on higher-level tasks, leading to improved productivity and efficiency. Additionally, warg's declarative approach enables faster CI feedback, allowing teams to identify and address issues more quickly.
 
 **Practical Adoption Path:**
-To adopt bbkane/warg, development teams can start by evaluating its integration with their existing tools and workflows. The framework's straightforward API/SDK/CLI implementation signals make it easy to evaluate and integrate. Teams can begin by automating local engineering tasks and gradually move towards more complex use cases, such as improving CI feedback. As teams become more comfortable with the framework, they can further optimize their workflows and integrate warg into their
+To adopt bbkane/warg, development teams can start by evaluating its integration with their existing tools and workflows. The framework's straightforward API/SDK/CLI implementation signals make it easy to evaluate and integrate. Teams can begin by automating local engineering tasks and gradually move towards more complex use cases, such as improving CI feedback.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bbkane/warg).
 
 ### Русский
 

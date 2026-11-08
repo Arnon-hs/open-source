@@ -41,7 +41,10 @@ To adopt JLC2KiCad_lib, follow these steps:
 
 1. **Evaluate the README**: Review the project's documentation to understand its functionality, limitations, and usage.
 2. **Start with a small proof of concept**: Test the script with a small set of components to ensure it meets your needs and to identify any potential issues.
-3. **Assess dependencies and maintenance**: Verify that the script's dependencies are stable and that the maintainers are
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TousstNicolas/JLC2KiCad_lib).
 
 ### Русский
 

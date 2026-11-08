@@ -36,8 +36,9 @@ The value of isaacs/node-tar lies in its ability to save time and effort for dev
 **Practical Adoption Path:**
 To adopt isaacs/node-tar, developers can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. Once they are satisfied with the project's reliability and performance, they can integrate it into their existing workflows, starting with small-scale use cases and gradually scaling up to more complex tasks. It is essential to conduct thorough dependency and maintenance checks before using it in production environments.
 
-**Production Readiness:**
-isaacs/node-tar has a medium production readiness score, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/isaacs/node-tar).
 
 ### Русский
 

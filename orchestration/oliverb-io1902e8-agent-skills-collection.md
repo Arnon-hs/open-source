@@ -33,7 +33,11 @@ Orchestration · Automation · AI/ML · DevTools
 
 **Practical Adoption Path:** To adopt this project, users can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. They should then assess the dependencies and maintenance requirements before integrating it into their production workflow. Given its medium production readiness score, it is recommended to use it in prototypes or internal workflows initially and then scale up as needed.
 
-**Production Readiness:** The agent-skills-collection has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but requires further evaluation and testing before being used in production environments. This is due to
+**Production Readiness:** The agent-skills-collection has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but requires further evaluation and testing before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/oliverb-io1902e8/agent-skills-collection).
 
 ### Русский
 

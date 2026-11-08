@@ -42,7 +42,9 @@ Misc
 * The integration path is not immediately obvious from the metadata.
 * Dependency and maintenance checks are necessary before production deployment.
 
-Overall, KeyCompute is a promising open-source project that can help developers add AI capabilities to their
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/keycompute/keycompute).
 
 ### Русский
 

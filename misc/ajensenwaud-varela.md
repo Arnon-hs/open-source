@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** Before adopting Varela, developers should manually inspect the project's README, activity, and dependencies to ensure it aligns with their workflow and meets their requirements. This inspection is crucial due to the sparse integration signals available in the discovered metadata.
 
-**Production Readiness:** Varela has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, it is not yet ready for production due to the need for dependency and maintenance checks. Before using Varela in a production environment, developers should thoroughly verify the project's license, maintenance, documentation, issues, and release cadence to ensure its
+**Production Readiness:** Varela has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, it is not yet ready for production due to the need for dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ajensenwaud/varela/).
 
 ### Русский
 

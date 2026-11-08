@@ -44,7 +44,9 @@ However, before adopting the project, it's essential to:
 - Review the documentation and issue history to gauge the project's stability
 - Assess the release cadence to ensure it aligns with your project's timelines
 
-Overall, Every AI coding agent tracker is a self-report system offers a valuable solution for developers looking to integrate AI capabilities into their projects, but requires careful evaluation and planning before adoption in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/albertoclemente/shipward).
 
 ### Русский
 

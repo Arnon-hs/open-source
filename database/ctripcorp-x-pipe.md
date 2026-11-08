@@ -37,7 +37,11 @@ The primary value proposition of X-Pipe lies in its ability to facilitate data p
 To adopt X-Pipe, start with a small proof-of-concept and carefully review the README documentation. Given its recent activity, adoption, and strong ecosystem signals, X-Pipe is considered production-ready for serious pilots. However, it's essential to validate the setup cost and potential integration challenges before committing to its implementation.
 
 **Production Readiness:** 
-X-Pipe's production readiness is high due to its recent activity, adoption, and strong ecosystem signals. With 2093 GitHub stars, 513 forks, and regular updates, it has demonstrated its potential as a reliable and scalable solution for
+X-Pipe's production readiness is high due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ctripcorp/x-pipe).
 
 ### Русский
 

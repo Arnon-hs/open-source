@@ -42,7 +42,10 @@ To adopt Show HN: VD, follow these steps:
 1. **Manual Inspection**: Carefully review the project's documentation, issues, and release cadence to ensure it meets your project's requirements.
 2. **Verify License and Maintenance**: Check the project's license, maintenance status, and dependencies to ensure they align with your project's needs.
 3. **Integration Tests**: Perform thorough integration tests to verify that the project works seamlessly with your existing system.
-4. **Prototype or Internal Workflow**: Consider using Show HN: VD in a prototype or internal workflow to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ahmedhosssam/vd).
 
 ### Русский
 

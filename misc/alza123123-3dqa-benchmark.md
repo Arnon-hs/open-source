@@ -42,7 +42,10 @@ To adopt this project, developers should follow a careful process:
 1. **Manual Inspection:** Thoroughly review the project's metadata and models to ensure they meet the requirements of the project.
 2. **Verify Dependencies and Maintenance:** Check the project's dependencies, maintenance, documentation, and issue history to ensure it aligns with the project's needs.
 3. **Prototype and Test:** Use the project as a starting point to prototype AI features, build agent workflows, or evaluate model tooling.
-4. **Evaluate and Refine:** Continuously evaluate and refine the project's models and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/alza123123/3dqa-benchmark).
 
 ### Русский
 

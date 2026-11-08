@@ -38,7 +38,11 @@ The project's value stems from its ability to address specific needs for modding
 To adopt Soreepeong/XivAlexander, developers should start with a small proof of concept and carefully evaluate the README to ensure the project aligns with their specific needs. This will help minimize integration risks and validate the setup cost before committing to the project. A feasible approach is to begin with a small-scale evaluation and gradually scale up as needed.
 
 **Production Readiness:**
-Soreepeong/XivAlexander is considered production-ready with a medium level of readiness. While it can
+Soreepeong/XivAlexander is considered production-ready with a medium level of readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Soreepeong/XivAlexander).
 
 ### Русский
 

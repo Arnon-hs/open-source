@@ -37,7 +37,11 @@ The primary value proposition of datawhalechina/diy-llm lies in its ability to h
 To adopt datawhalechina/diy-llm, developers should start with a small proof of concept and carefully review the README documentation. This will help identify potential integration challenges and validate the setup cost before committing to the project. The project's medium production readiness score indicates that it is suitable for prototypes or internal workflows, but requires dependency and maintenance checks before production deployment.
 
 **Production Readiness:**
-The project's production readiness is classified as medium, indicating that it can be useful for prototypes or internal workflows. However, developers should exercise caution and perform thorough dependency and
+The project's production readiness is classified as medium, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/datawhalechina/diy-llm).
 
 ### Русский
 

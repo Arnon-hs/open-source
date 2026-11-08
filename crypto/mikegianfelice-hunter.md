@@ -40,7 +40,9 @@ Hunter is an open-source, quant-level crypto trading bot that utilizes weighted 
 3. **Assess dependencies and maintenance**: Verify the dependencies and maintenance requirements of Hunter before integrating it into your production environment.
 4. **Integrate with caution**: Gradually integrate Hunter into your workflow, starting with a small-scale pilot or testing environment.
 
-**Production Readiness:** Hunter has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mikegianfelice/Hunter).
 
 ### Русский
 

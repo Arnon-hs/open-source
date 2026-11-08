@@ -33,7 +33,11 @@ Pritunl/pritunl is an enterprise VPN server that helps teams save time and resou
 
 The practical adoption path involves a manual inspection of the project's integration signals, license, security posture, and active maintainers to ensure a smooth transition. With 4,998 GitHub stars and 660 forks, the project has a strong community backing, which can provide valuable support during the adoption process.
 
-Pritunl/pritunl's high production readiness is due to its recent activity, strong adoption, and a robust ecosystem. The project's primary language is Python, and it has been actively updated, which suggests a healthy and maintained codebase. However, it's essential to conduct a final review of the project's license, security posture, and maintainers to ensure it aligns with the
+Pritunl/pritunl's high production readiness is due to its recent activity, strong adoption, and a robust ecosystem. The project's primary language is Python, and it has been actively updated, which suggests a healthy and maintained codebase.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pritunl/pritunl).
 
 ### Русский
 

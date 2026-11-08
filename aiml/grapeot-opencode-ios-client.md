@@ -44,9 +44,9 @@ To adopt grapeot/opencode_ios_client, developers can follow these steps:
 3. Integrate the client into their iOS app, using the project's Swift codebase.
 4. Test and refine the integration to ensure seamless AI functionality.
 
-**Production Readiness:**
+## Before adopting
 
-The project has a moderate production readiness score of 63/100, indicating that it is useful for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/grapeot/opencode_ios_client).
 
 ### Русский
 

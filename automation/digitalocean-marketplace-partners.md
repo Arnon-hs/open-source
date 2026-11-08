@@ -41,7 +41,11 @@ To adopt this project, users should first evaluate its feasibility through a sma
 
 **Production Readiness:**
 
-The digitalocean/marketplace-partners project is considered "Medium" in terms of production readiness. While it is useful for prototypes or internal workflows, it requires careful dependency and maintenance checks before being deployed in a production environment. This is due to the potential integration complexities and the need for thorough validation of
+The digitalocean/marketplace-partners project is considered "Medium" in terms of production readiness. While it is useful for prototypes or internal workflows, it requires careful dependency and maintenance checks before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/digitalocean/marketplace-partners).
 
 ### Русский
 

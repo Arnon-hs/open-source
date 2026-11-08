@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the latipun7/charasay project:
 
 **Practical Adoption Path:** For practical adoption, engineers can start by integrating latipun7/charasay into their existing workflows, particularly in CI/CD pipelines. This involves evaluating the project's API, SDK, or CLI implementation signals, and assessing its language metadata and focused topics. Once integrated, developers can leverage the project's features to speed up their workflows and improve feedback.
 
-**Production Readiness:** While latipun7/charasay shows promise for prototypes or internal workflows, its production readiness is rated as Medium. This is due to the need for further dependency and maintenance checks before deploying the project in a production environment. Additionally, a thorough review of the
+**Production Readiness:** While latipun7/charasay shows promise for prototypes or internal workflows, its production readiness is rated as Medium. This is due to the need for further dependency and maintenance checks before deploying the project in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/latipun7/charasay).
 
 ### Русский
 

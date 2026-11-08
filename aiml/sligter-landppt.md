@@ -73,7 +73,10 @@ sligter/LandPPT 帮助用户添加 AI 能力，而无需从头开始搭建模型
 sligter/LandPPT 的生产可用性较高，主要原因是：
 
 * 近期活跃度：项目最近有更新和维护
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/sligter/LandPPT)。
 
 ## 🧭 Practical evaluation
 

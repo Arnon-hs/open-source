@@ -45,7 +45,10 @@ To adopt the stackage project, follow these steps:
 
 1. **Evaluate the project**: Review the project's README, documentation, and GitHub stars to ensure it meets your needs.
 2. **Start with a small proof of concept**: Integrate the stackage project into a small-scale project to test its feasibility and effectiveness.
-3. **Conduct dependency and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/commercialhaskell/stackage).
 
 ### Русский
 

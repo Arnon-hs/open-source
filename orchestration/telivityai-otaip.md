@@ -33,7 +33,11 @@ Orchestration · AI/ML · Backend
 
 **Practical Adoption Path:** To adopt TelivityAI/otaip, users can start by evaluating its API, SDK, or CLI to understand its implementation signals. They can then explore the platform's features, such as coordinating multi-agent workflows and standardizing agent memory. Before production, users should conduct dependency and maintenance checks to ensure seamless integration with their existing systems.
 
-**Production Readiness:** TelivityAI/otaip is considered production-ready with some caveats. Its medium production readiness score indicates that it is suitable for prototypes or internal workflows but may require further review and testing before deployment in production environments. Users should conduct a thorough review of the platform's license, security posture, and
+**Production Readiness:** TelivityAI/otaip is considered production-ready with some caveats. Its medium production readiness score indicates that it is suitable for prototypes or internal workflows but may require further review and testing before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TelivityAI/otaip).
 
 ### Русский
 

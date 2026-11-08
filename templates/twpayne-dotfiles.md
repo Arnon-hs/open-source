@@ -37,7 +37,11 @@ The primary value proposition of twpayne/dotfiles lies in its ability to learn f
 To adopt this project, start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once you're comfortable with the project's structure and implementation patterns, you can begin integrating it into your workflow. This may involve adjusting dependencies, maintaining the codebase, and ensuring proper security posture.
 
 **Production Readiness:**
-The production readiness of twpayne/dotfiles is moderate, scoring 60/100. While it's suitable for prototypes or internal workflows, it's essential to perform thorough dependency and maintenance checks before deploying it in a production environment. This will
+The production readiness of twpayne/dotfiles is moderate, scoring 60/100. While it's suitable for prototypes or internal workflows, it's essential to perform thorough dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/twpayne/dotfiles).
 
 ### Русский
 

@@ -45,7 +45,10 @@ To adopt the zapier/connectors project, follow these steps:
 
 1. **Evaluate the project**: Assess the project's documentation, code quality, and community engagement to ensure it meets your needs.
 2. **Choose a use case**: Select a specific use case, such as coordinating multi-agent workflows or adding tool-use pipelines, to get started with.
-3. **Integrate with your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zapier/connectors).
 
 ### Русский
 

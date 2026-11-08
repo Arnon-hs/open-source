@@ -41,7 +41,11 @@ To adopt this project, developers can start by evaluating its implementation sig
 
 **Production Readiness:**
 
-The project's recent activity, adoption, and strong ecosystem signals indicate its high production readiness. With 23 GitHub stars, 4 forks, and
+The project's recent activity, adoption, and strong ecosystem signals indicate its high production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wszqkzqk/qt-web-extractor).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt UMGCCCFCSR/CytometryInR, users must first manually inspect the code and
 
 **Production Readiness:**
 
-UMGCCCFCSR/CytometryInR is considered production-ready with a medium level of readiness. This
+UMGCCCFCSR/CytometryInR is considered production-ready with a medium level of readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/UMGCCCFCSR/CytometryInR).
 
 ### Русский
 

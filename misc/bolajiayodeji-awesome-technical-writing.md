@@ -37,7 +37,11 @@ The value of BolajiAyodeji/awesome-technical-writing lies in its comprehensive c
 To adopt this project, users need to manually inspect the README and activity to ensure they match their specific workflow. This requires some effort to understand the project's purpose and how it can be integrated into their daily tasks. However, with this initial investment, users can tap into the curated resources and potentially enhance their technical writing skills.
 
 **Production Readiness:**
-Despite some integration risks, BolajiAyodeji/awesome-technical-writing has a high production readiness due to its strong signals, including 2263 GitHub stars, 364 forks, and recent updates. This suggests that the project is stable, actively maintained, and
+Despite some integration risks, BolajiAyodeji/awesome-technical-writing has a high production readiness due to its strong signals, including 2263 GitHub stars, 364 forks, and recent updates.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/BolajiAyodeji/awesome-technical-writing).
 
 ### Русский
 

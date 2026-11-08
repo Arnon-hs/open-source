@@ -48,7 +48,10 @@ Production readiness is high for this project due to:
 
 - Strong ecosystem signals, including 20,455 GitHub stars and 4,266 forks
 - Recent activity, with the last update on August 13, 2026
-- High adoption rate and a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jasontaylordev/CleanArchitecture).
 
 ### Русский
 

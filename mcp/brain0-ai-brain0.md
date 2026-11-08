@@ -39,9 +39,9 @@ Brain0's value lies in its ability to standardize integrations between AI assist
 
 To adopt Brain0, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then integrate Brain0 into their existing infrastructure using its standard protocol, which is designed to be straightforward and easy to use. As Brain0 is an open-source project, developers can also contribute to its development and improvement, further enhancing its adoption and ecosystem.
 
-**Production Readiness:**
+## Before adopting
 
-Brain0 has a high production readiness score, indicating that it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Brain0-ai/brain0).
 
 ### Русский
 

@@ -43,9 +43,9 @@ To adopt memvid/memvid, follow these steps:
 2. **Start with a small proof of concept:** Begin with a small-scale implementation to test the project's capabilities and ensure it meets your requirements.
 3. **Integrate with caution:** Gradually integrate memvid/memvid into your project, following best practices and addressing any potential issues that arise.
 
-**Production Readiness:**
+## Before adopting
 
-memvid/memvid is considered production-ready due to its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/memvid/memvid).
 
 ### Русский
 

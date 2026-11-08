@@ -48,9 +48,9 @@ To adopt Hivekeep, users can follow these steps:
 3. **Integration**: Integrate Hivekeep with existing tools and pipelines to create repeatable agent workflows.
 4. **Testing**: Test and refine the workflows to ensure they meet the desired outcomes.
 
-**Production Readiness:**
+## Before adopting
 
-Hivekeep is considered production-ready for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MarlBurroW/hivekeep).
 
 ### Русский
 

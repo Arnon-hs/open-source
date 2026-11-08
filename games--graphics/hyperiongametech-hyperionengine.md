@@ -50,7 +50,11 @@ To adopt HyperionEngine, follow these steps:
 
 **Production Readiness**
 
-HyperionEngine is considered production-ready with medium readiness. While it is a useful tool for prototypes or internal workflows, it requires dependency and maintenance checks before being deployed in a production environment. The engine's production readiness score is influenced by
+HyperionEngine is considered production-ready with medium readiness. While it is a useful tool for prototypes or internal workflows, it requires dependency and maintenance checks before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/HyperionGameTech/HyperionEngine).
 
 ### Русский
 

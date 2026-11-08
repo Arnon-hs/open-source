@@ -36,7 +36,10 @@ DevTools
 1. **Evaluate feasibility**: Assess the project's potential impact on your development workflow and evaluate its integration with your existing tools and processes.
 2. **Start with a small proof of concept**: Implement a small-scale test to validate the CLI's functionality and identify any potential issues.
 3. **Review the README and documentation**: Familiarize yourself with the project's documentation, including installation instructions, usage examples, and configuration options.
-4. **Integrate with your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/danielpigott/cloudflare-cli).
 
 ### Русский
 

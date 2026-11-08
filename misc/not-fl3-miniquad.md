@@ -39,9 +39,9 @@ The primary value of not-fl3/miniquad lies in its ability to simplify data manag
 
 Adopting not-fl3/miniquad requires a manual inspection of the integration process, as the integration signals are sparse in the discovered metadata. Before committing to production use, it's essential to validate the setup costs and perform dependency and maintenance checks. This may involve experimenting with the library in a controlled environment to ensure it meets the project's specific requirements.
 
-**Production Readiness:**
+## Before adopting
 
-not-fl3/miniquad is considered production-ready with a medium level of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/not-fl3/miniquad).
 
 ### Русский
 

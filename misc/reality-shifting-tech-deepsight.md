@@ -41,7 +41,10 @@ To adopt DeepSight, developers should follow a cautious approach:
 
 1. **Manual Inspection**: Carefully review the project's metadata, documentation, and code to ensure it meets their specific needs and requirements.
 2. **Verification**: Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it is reliable and well-maintained.
-3. **Testing**: Thoroughly test the project in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Reality-Shifting-Tech/deepsight).
 
 ### Русский
 

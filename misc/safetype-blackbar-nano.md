@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** Before adopting this project, it's essential to manually inspect the README, activity, and metadata to ensure that the integration signals align with your workflow. This process is crucial due to the sparse integration signals mentioned in the metadata. Once verified, the project can be integrated into internal workflows or used for prototyping purposes.
 
-**Production Readiness:** The project's production readiness is rated as medium, indicating that it's suitable for specific use cases but requires careful consideration and verification before deployment in production environments. This is due to
+**Production Readiness:** The project's production readiness is rated as medium, indicating that it's suitable for specific use cases but requires careful consideration and verification before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/safetype/blackbar-nano).
 
 ### Русский
 

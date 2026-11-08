@@ -38,7 +38,11 @@ MCP · AI/ML · DevTools
 3. Assess the project's production readiness, taking into account its medium-level readiness and potential dependency and maintenance checks.
 4. Consider the project's risks, such as its license, security posture, and active maintainers.
 
-**Production Readiness:** Kiasu Miles has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows. However, before deploying it in production, developers should conduct thorough dependency and maintenance checks to ensure its stability and
+**Production Readiness:** Kiasu Miles has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hosanxiv/kiasumiles).
 
 ### Русский
 

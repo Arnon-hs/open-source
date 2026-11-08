@@ -45,7 +45,11 @@ To adopt hellodigua/code996, follow these steps:
 
 **Production Readiness**
 
-hellodigua/code996 is considered production-ready with medium confidence. While it has a moderate number of GitHub stars and forks, and is actively maintained, it is essential to perform thorough dependency and maintenance checks before deploying it in a production environment. Additionally, a final review of the
+hellodigua/code996 is considered production-ready with medium confidence. While it has a moderate number of GitHub stars and forks, and is actively maintained, it is essential to perform thorough dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hellodigua/code996).
 
 ### Русский
 

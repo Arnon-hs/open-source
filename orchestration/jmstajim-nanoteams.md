@@ -38,7 +38,11 @@ Orchestration · Payments · Knowledge/RAG · Automation · AI/ML
 3. Integrate NanoTeams into a prototype or internal workflow to test its capabilities.
 4. Assess the tool's dependency and maintenance requirements before deploying it in a production environment.
 
-**Production Readiness:** NanoTeams is considered production-ready at a medium level. While it is useful for prototypes or internal workflows, additional checks are
+**Production Readiness:** NanoTeams is considered production-ready at a medium level.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jmstajim/NanoTeams).
 
 ### Русский
 

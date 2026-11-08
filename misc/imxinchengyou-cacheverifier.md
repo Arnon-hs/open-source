@@ -45,9 +45,9 @@ To adopt this project, follow these steps:
 4. Perform dependency and maintenance checks to ensure the project is production-ready.
 5. Integrate the project into your existing workflow, starting with prototype or internal projects.
 
-**Production Readiness:**
+## Before adopting
 
-The project has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/imxinchengyou/CacheVerifier).
 
 ### Русский
 

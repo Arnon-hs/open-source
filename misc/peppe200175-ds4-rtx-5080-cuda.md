@@ -39,9 +39,9 @@ The project's value lies in its ability to enable the use of a specific software
 
 To adopt this project, users should first inspect the project's README, activity, and documentation to understand its functionality and requirements. They should then verify the project's quality signals, such as its license, maintenance, and release cadence, before using it in their workflow. Additionally, users should ensure that they have the necessary dependencies and hardware requirements to run the project successfully.
 
-**Production Readiness:**
+## Before adopting
 
-The project is considered to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/peppe200175/ds4_RTX_5080_cuda).
 
 ### Русский
 
@@ -74,7 +74,10 @@ DeepSeek V4 Flash 是一个开源项目，允许在 Linux/WSL2 环境下使用 D
 使用此项目前，请注意以下风险：
 
 * 质量信号有限
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/peppe200175/ds4_RTX_5080_cuda)。
 
 ## 🧭 Practical evaluation
 

@@ -38,7 +38,9 @@ AI/ML
 3. **Manual inspection**: Carefully review the project's code and integration signals to ensure it meets your organization's standards.
 4. **Integration and testing**: Integrate the project into your existing infrastructure and thoroughly test its functionality.
 
-**Production Readiness:** The gpt-5.6-sol agent harness has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/smol-env/smol/blob/main/smol.php).
 
 ### Русский
 

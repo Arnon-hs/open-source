@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** The adoption path for this project involves manual inspection before adoption due to sparse integration signals in the discovered metadata. This means that users will need to carefully review the project's documentation, activity, and other quality signals before deciding to use it. Additionally, users should verify the project's license, maintenance, documentation, issues, and release cadence before using it.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows, but may not be ready for production use without further checks on its dependencies and maintenance. This suggests that users should exercise caution when using the project in production and
+**Production Readiness:** The project has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows, but may not be ready for production use without further checks on its dependencies and maintenance.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jaakla/open-gis).
 
 ### Русский
 

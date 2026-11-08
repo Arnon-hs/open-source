@@ -39,9 +39,9 @@ The value of this tool lies in its ability to streamline the process of reviewin
 
 To adopt this tool, developers should first manually inspect the codebase to ensure it meets their requirements and is properly licensed. They should also verify the tool's maintenance, documentation, and release cadence before using it in production. Once these steps are completed, developers can integrate the tool into their workflow, using it to prototype AI features, build RAG or agent workflows, and evaluate model tooling.
 
-**Production Readiness:**
+## Before adopting
 
-The production readiness of this tool is medium, making it suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/arnoldpredator/pyreplay).
 
 ### Русский
 

@@ -40,7 +40,11 @@ Here's a brief summary and explanation of the project:
 3. Integrate the module into their React Native application, following the provided instructions.
 4. Test the implementation to ensure seamless Kakao sign-in functionality.
 
-**Production Readiness:** While the project has a moderate score of 57/100, it is still considered production-ready with some caveats. The project's medium production readiness level indicates that it is suitable for prototypes or internal workflows, but requires careful dependency and maintenance checks before deployment in production environments. Additionally, a final review of
+**Production Readiness:** While the project has a moderate score of 57/100, it is still considered production-ready with some caveats. The project's medium production readiness level indicates that it is suitable for prototypes or internal workflows, but requires careful dependency and maintenance checks before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/crossplatformkorea/react-native-kakao-login).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt Fleet, users can start by manually inspecting the project's code and documentation to ensure it meets their needs. They should also verify the license, maintenance, and release cadence to ensure the project remains supported. Once satisfied, users can integrate Fleet into their workflows, following the provided integration notes. This process is suitable for prototyping or internal workflows, but users should exercise caution when deploying it to production due to limited quality signals.
 
-**Production Readiness:** Fleet has a medium production readiness score of 45/100. While it can be useful for prototypes or internal workflows, users should carefully evaluate the project's quality signals, dependencies, and maintenance requirements before deploying it in production. This
+**Production Readiness:** Fleet has a medium production readiness score of 45/100. While it can be useful for prototypes or internal workflows, users should carefully evaluate the project's quality signals, dependencies, and maintenance requirements before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sand0vvv/fleet).
 
 ### Русский
 

@@ -37,7 +37,11 @@ The value proposition of AI-Horde lies in its ability to simplify the process of
 
 **Practical Adoption Path:**
 
-To adopt AI-Horde, users can start by evaluating the platform's API, SDK, or CLI to understand its implementation signals. They can also explore the language metadata and focused topics to determine if the project aligns with their specific needs. Once they have a clear understanding of the project's capabilities, users can begin integrating AI-Horde into their existing applications. With
+To adopt AI-Horde, users can start by evaluating the platform's API, SDK, or CLI to understand its implementation signals. They can also explore the language metadata and focused topics to determine if the project aligns with their specific needs. Once they have a clear understanding of the project's capabilities, users can begin integrating AI-Horde into their existing applications.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Haidra-Org/AI-Horde).
 
 ### Русский
 

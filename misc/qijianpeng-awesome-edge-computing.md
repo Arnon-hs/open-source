@@ -45,11 +45,9 @@ To adopt Awesome edge computing, follow these steps:
 4. Develop a prototype or pilot project to test the solution in a controlled environment.
 5. Monitor the project's release cadence and community engagement to ensure ongoing support.
 
-**Production Readiness:**
+## Before adopting
 
-Awesome edge computing has a medium level of production readiness, making it suitable for:
-
-1. Prototypes: Test the solution in a controlled environment to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/qijianpeng/awesome-edge-computing).
 
 ### Русский
 

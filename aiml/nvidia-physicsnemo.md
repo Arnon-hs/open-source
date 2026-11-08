@@ -42,7 +42,10 @@ To adopt NVIDIA/physicsnemo, developers can follow a straightforward path:
 1. **Evaluate the Framework:** Start by reviewing the project's README and evaluating its feasibility for your specific use case.
 2. **Prototype AI Features:** Use the framework to prototype AI features and workflows, taking advantage of its Physics-ML capabilities.
 3. **Build and Refine:** Gradually build and refine your AI models using the framework, leveraging its tools and libraries to optimize performance.
-4. **Deploy and Monitor:** Once you've developed and fine-tuned your models, deploy them in production and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NVIDIA/physicsnemo).
 
 ### Русский
 

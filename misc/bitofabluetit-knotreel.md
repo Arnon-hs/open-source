@@ -41,7 +41,10 @@ To adopt Show HN in a production environment, developers should follow a careful
 
 1. Manual inspection of the project's metadata to assess its quality and reliability.
 2. Verification of the project's license, maintenance, documentation, issue tracking, and release cadence.
-3. Review of the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bitofabluetit/knotreel).
 
 ### Русский
 

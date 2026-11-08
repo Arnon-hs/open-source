@@ -45,11 +45,9 @@ The adoption path for Lychee involves:
 4. Integrating Lychee into the project, starting with a small pilot or proof of concept.
 5. Scaling up the integration based on the success of the pilot.
 
-**Production Readiness**
+## Before adopting
 
-Lychee is highly production-ready, with:
-
-* 4232 GitHub stars and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LycheeOrg/Lychee).
 
 ### Русский
 

@@ -33,7 +33,11 @@ Mobile
 
 **Practical Adoption Path:** To adopt this project, start by evaluating its feasibility through a small proof of concept and a thorough review of the README documentation. This will help you understand the integration path and potential setup costs. Once you've validated the project's suitability for your needs, you can begin integrating it into your workflow.
 
-**Production Readiness:** equeim/tremotesf-android is considered medium production-ready, meaning it's suitable for use in prototypes or internal workflows but may require additional checks and validation before being used in production environments. This is due to the potential integration path not being immediately obvious from the metadata, and the need to
+**Production Readiness:** equeim/tremotesf-android is considered medium production-ready, meaning it's suitable for use in prototypes or internal workflows but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/equeim/tremotesf-android).
 
 ### Русский
 

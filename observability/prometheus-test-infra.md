@@ -39,7 +39,10 @@ To adopt prometheus/test-infra, engineers can follow these steps:
 1. **Manual Inspection**: Review the project's metadata, license, security posture, and active maintainers to ensure it aligns with their organization's standards.
 2. **Testing and Evaluation**: Run the benchmarking tool in a controlled environment to assess its performance, stability, and compatibility with existing infrastructure.
 3. **Integration and Configuration**: Integrate the tool with their existing CI/CD pipeline and configure it to meet their specific needs.
-4. **Monitoring and Maintenance**: Continuously monitor the tool's performance and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/prometheus/test-infra).
 
 ### Русский
 

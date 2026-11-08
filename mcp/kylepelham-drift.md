@@ -33,7 +33,11 @@ MCP · AI/ML · Frontend
 
 **Practical Adoption Path:** Developers can start using Drift by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. Once familiar with the tool, they can integrate it into their workflows by connecting AI agents to tools, shipping Model Context Protocol servers, and standardizing integrations. This adoption path is suitable for prototypes or internal workflows, but it requires dependency and maintenance checks before production.
 
-**Production Readiness:** Drift has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but may require further evaluation and testing before being used in production environments. While there are no major metadata risks found, a final review of the license, security posture, and active maintainers is still necessary to ensure its reliability and stability in
+**Production Readiness:** Drift has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but may require further evaluation and testing before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kylepelham/Drift).
 
 ### Русский
 

@@ -39,7 +39,11 @@ Here's a brief summary of the project:
 2. **Build RAG or agent workflows:** Leverage context-surgeon to build more complex workflows, integrating multiple AI agents and models.
 3. **Evaluate model tooling:** Utilize context-surgeon to assess the performance and capabilities of different AI models and tools.
 
-**Production Readiness:** As mentioned, the project has a medium production readiness score. This means it's suitable for
+**Production Readiness:** As mentioned, the project has a medium production readiness score.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jackfruitsandwich/context-surgeon).
 
 ### Русский
 

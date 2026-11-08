@@ -39,7 +39,10 @@ The Ultimate-Hosts-Blacklist project helps users protect their devices and netwo
 1. **Evaluate the project:** Assess the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. **Review the codebase:** Inspect the project's codebase to understand its architecture and dependencies.
 3. **Test the project:** Run the project on your own devices or network to ensure it works as expected.
-4. **Integrate with existing systems:** Integrate the Ultimate-Hosts-Blacklist project with your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist).
 
 ### Русский
 
@@ -79,7 +82,9 @@ Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist 的生产可用性非常高，
 * 强大的采用率
 * 强大的生态系统信号
 
-此外，
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)。
 
 ## 🧭 Practical evaluation
 

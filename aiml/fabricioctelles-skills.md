@@ -42,8 +42,9 @@ To adopt fabricioctelles/skills, developers can start by:
 4. Integrating the selected skill into their AI workflow.
 5. Testing and refining the integration as needed.
 
-**Production Readiness:**
-fabricioctelles/skills has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fabricioctelles/skills).
 
 ### Русский
 

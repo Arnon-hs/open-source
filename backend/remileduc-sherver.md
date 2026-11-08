@@ -33,7 +33,11 @@ Backend
 
 **Practical Adoption Path:** To adopt remileduc/sherver, teams should start with a small proof of concept and carefully evaluate the integration process, as outlined in the README. This will help identify potential challenges and validate the setup cost before committing to the project. A step-by-step approach will enable teams to assess the feasibility of remileduc/sherver in their specific context and make informed decisions about its adoption.
 
-**Production Readiness:** remileduc/sherver is considered "Medium" production-ready, indicating that it is suitable for prototypes or internal workflows, but requires additional dependency and maintenance checks before being deployed in a production environment. While it has a moderate level of GitHub activity and
+**Production Readiness:** remileduc/sherver is considered "Medium" production-ready, indicating that it is suitable for prototypes or internal workflows, but requires additional dependency and maintenance checks before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/remileduc/sherver).
 
 ### Русский
 

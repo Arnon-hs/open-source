@@ -29,7 +29,11 @@ DevTools · DevOps/Infra
 
 We need to produce a brief summary (2-3 sentences) for the open-source project, covering value, practical adoption path, and production readiness. Use given info. Should be concise, 2-3 sentences, English. Provide value proposition: adds AI capability without starting from blank model stack. Adoption path: prototype AI features, build RAG/agent workflows, evaluate model tooling; manual inspection needed; integration signals sparse. Production readiness: medium, useful for prototypes/internal workflows, need dependency and maintenance checks before production. Write 2-3 sentences.
 
-Let's craft: "kubernetes-sigs/prow provides a Kubernetes‑native CI/CD platform that lets teams quickly add AI capabilities—such as prototyping features, building RAG or agent workflows, and evaluating model tooling—without having to start from a blank model stack. Adoption typically begins with internal prototypes or proof‑of‑concept projects, requiring manual inspection and dependency checks due to sparse integration signals. While the project shows solid activity (307★, 226★, Go, updated 2026‑07‑29), its production readiness is rated medium, meaning it is suitable for internal workflows or prototypes but should undergo thorough dependency, maintenance, and
+Let's craft: "kubernetes-sigs/prow provides a Kubernetes‑native CI/CD platform that lets teams quickly add AI capabilities—such as prototyping features, building RAG or agent workflows, and evaluating model tooling—without having to start from a blank model stack. Adoption typically begins with internal prototypes or proof‑of‑concept projects, requiring manual inspection and dependency checks due to sparse integration signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kubernetes-sigs/prow).
 
 ### Русский
 

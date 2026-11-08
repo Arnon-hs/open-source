@@ -37,7 +37,11 @@ The Force Engine holds value for developers and modders working with Dark Forces
 Before adopting The Force Engine, it's essential to inspect the project manually due to sparse integration signals in the discovered metadata. This involves verifying the project's license, maintenance, documentation, issues, and release cadence to ensure it meets the required standards. Once validated, developers can integrate the project into their workflows, but it's recommended to perform dependency and maintenance checks before using it in production.
 
 **Production Readiness:**
-The Force Engine has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but may not be ready for widespread use in production environments. Its quality signals are limited, and
+The Force Engine has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but may not be ready for widespread use in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TheForceEngine/TheForceEngine).
 
 ### Русский
 

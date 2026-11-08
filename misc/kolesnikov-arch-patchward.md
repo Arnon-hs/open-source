@@ -42,7 +42,10 @@ To adopt this project, developers can follow these steps:
 1. **Manual Inspection**: Carefully review the project's metadata and documentation to understand its capabilities and limitations.
 2. **Prototype Development**: Use the project to build a prototype AI feature or workflow to test its feasibility and effectiveness.
 3. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements to ensure they align with your organization's needs.
-4. **Internal Testing**: Test the project in a controlled environment to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kolesnikov-arch/patchward).
 
 ### Русский
 

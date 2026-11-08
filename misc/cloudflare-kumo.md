@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt kumo, developers should start by inspecting the library's documentation and codebase to understand its features and limitations. They should also review the library's integration signals and consider conducting a manual inspection to ensure compatibility with their project's specific requirements. Once familiar with the library, developers can begin incorporating kumo components into their applications, starting with small-scale prototypes or internal workflows.
 
-**Production Readiness:** kumo is considered production-ready with medium readiness, indicating that it is suitable for use in internal workflows or prototypes, but requires additional checks and validation before deployment in production environments. This is due to
+**Production Readiness:** kumo is considered production-ready with medium readiness, indicating that it is suitable for use in internal workflows or prototypes, but requires additional checks and validation before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cloudflare/kumo).
 
 ### Русский
 

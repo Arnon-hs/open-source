@@ -33,7 +33,11 @@ Documents · Frontend · Mobile
 
 **Practical Adoption Path:** To adopt this library, developers should start with a small proof of concept to evaluate its feasibility and understand the integration process. A thorough check of the README documentation is also recommended to ensure a smooth setup. Once the library is integrated, developers should validate the setup cost and perform regular dependency and maintenance checks to ensure production readiness.
 
-**Production Readiness:** The production readiness of software-mansion/react-native-enriched-markdown is medium, making it suitable for prototypes or internal workflows. However, before committing to production, developers should carefully evaluate the integration path, validate the setup cost, and perform regular maintenance checks to
+**Production Readiness:** The production readiness of software-mansion/react-native-enriched-markdown is medium, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/software-mansion/react-native-enriched-markdown).
 
 ### Русский
 

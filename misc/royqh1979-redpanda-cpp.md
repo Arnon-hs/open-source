@@ -82,7 +82,10 @@ RedPanda-CPP 的生产可用性为中等，适合用于内部工作流或原型�
 
 * 需要手动检查和配置 IDE 的设置
 * 需要验证设置成本和维护成本
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/royqh1979/RedPanda-CPP)。
 
 ## 🧭 Practical evaluation
 

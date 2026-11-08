@@ -46,7 +46,10 @@ To adopt IsChinaByEmoji, follow these steps:
 1. **Manual Inspection**: Carefully review the project's README, activity, and metadata to ensure it matches your specific workflow.
 2. **Integration**: Integrate the project into your browser or web application, taking into account potential limitations and dependencies.
 3. **Verify Quality Signals**: Check the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your quality standards.
-4. **Test and Refine**: Test the project in your environment and refine it as needed to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yArna/isChinaUser/blob/main/src/isChinaByEmoji.ts).
 
 ### Русский
 

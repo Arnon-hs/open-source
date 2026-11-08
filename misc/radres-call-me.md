@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt "Call Me," users will need to manually inspect the project before integrating it into their workflows. This involves verifying the license, maintenance, documentation, issues, and release cadence of the project. Once these checks are complete, users can integrate the project into their applications, taking care to ensure that the sparse integration signals in the discovered metadata are properly addressed.
 
-**Production Readiness:** The production readiness of "Call Me" is rated as medium, indicating that it can be useful for prototypes or internal workflows. However, users are advised to
+**Production Readiness:** The production readiness of "Call Me" is rated as medium, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/radres/call-me).
 
 ### Русский
 

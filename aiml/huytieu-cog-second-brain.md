@@ -36,8 +36,9 @@ The value of huytieu/COG-second-brain lies in its ability to accelerate the deve
 **Practical Adoption Path:**
 To adopt COG-second-brain, developers can start by evaluating its API/SDK/CLI, language metadata, and focused topics to understand its capabilities. They can then integrate it with existing tools such as Claude Code, Cursor, Kiro, Gemini CLI, and Codex. With its straightforward integration signals, developers can quickly assess and adopt the project.
 
-**Production Readiness:**
-huytieu/COG-second-brain is production-ready due to its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/huytieu/COG-second-brain).
 
 ### Русский
 

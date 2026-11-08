@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** To adopt duggytuxy/syswarden, developers can start by evaluating its implementation details, such as its API/SDK/CLI, language metadata, and focused topics. With its straightforward integration process, developers can easily integrate the project into their existing workflows.
 
-**Production Readiness:** The project has a high production readiness score, indicating its suitability for serious piloting. Recent activity, adoption, and ecosystem signals are strong, with 311 GitHub stars, 25 forks, and regular updates. However, it's essential to conduct a final review of the project's license, security posture, and active maintainers to
+**Production Readiness:** The project has a high production readiness score, indicating its suitability for serious piloting. Recent activity, adoption, and ecosystem signals are strong, with 311 GitHub stars, 25 forks, and regular updates.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/duggytuxy/syswarden).
 
 ### Русский
 

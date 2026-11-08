@@ -41,7 +41,11 @@ To adopt Tamagui, developers can start by evaluating the project through a small
 
 **Production Readiness:**
 
-Tamagui has demonstrated high production readiness, with recent activity, strong adoption (14,062 GitHub stars and 600 forks), and a good security posture. While a final review of the license, security posture, and active maintainers is still necessary, Tamagui's strong ecosystem signals and recent updates make it a viable option for serious pilots and
+Tamagui has demonstrated high production readiness, with recent activity, strong adoption (14,062 GitHub stars and 600 forks), and a good security posture.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tamagui/tamagui).
 
 ### Русский
 

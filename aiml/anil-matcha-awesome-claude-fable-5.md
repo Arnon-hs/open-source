@@ -41,7 +41,10 @@ To adopt Anil-matcha/awesome-claude-fable-5, developers can follow these steps:
 
 1. Review the project's README and documentation to understand its scope and usage.
 2. Evaluate the project's integration feasibility by starting with a small proof of concept.
-3. Explore the curated use cases, tutorials, and integrations to get a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Anil-matcha/awesome-claude-fable-5).
 
 ### Русский
 

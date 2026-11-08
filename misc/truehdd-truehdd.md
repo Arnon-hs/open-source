@@ -45,7 +45,11 @@ To adopt truehdd/truehdd, users should:
 
 **Production Readiness:**
 
-truehdd/truehdd is considered moderately production-ready, with a score of Medium. While it may be suitable for internal workflows, prototypes, or development environments, its production readiness depends on careful evaluation and
+truehdd/truehdd is considered moderately production-ready, with a score of Medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/truehdd/truehdd).
 
 ### Русский
 

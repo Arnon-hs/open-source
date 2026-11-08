@@ -40,7 +40,11 @@ Here's a brief summary of the project:
 3. Verify the project's license, documentation, and issue tracking to ensure it meets your project's requirements.
 4. Evaluate the project's dependencies and potential maintenance needs before adopting it.
 
-**Production Readiness:** The project's production readiness is medium, indicating that it can be useful for prototypes or internal workflows, but may require careful inspection and evaluation before being used in production. This is due to limited quality signals and
+**Production Readiness:** The project's production readiness is medium, indicating that it can be useful for prototypes or internal workflows, but may require careful inspection and evaluation before being used in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/emsi/OneNoteViewer).
 
 ### Русский
 

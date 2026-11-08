@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers will need to manually inspect the integration process, as the integration signals are sparse in the discovered metadata. This means that developers will need to carefully review the documentation and codebase to understand how to integrate the AI capabilities into their own projects. Before committing to production, it's essential to validate the setup cost and ensure that the integration process is feasible and efficient.
 
-**Production Readiness:** This project has a medium level of production readiness, making it suitable for prototypes or internal workflows where the risks associated with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openstreetmap/openstreetmap-website).
 
 ### Русский
 

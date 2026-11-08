@@ -46,7 +46,11 @@ Before adopting this project, users should carefully inspect the README, activit
 
 **Production Readiness:**
 
-While the project shows promise, its production readiness is classified as "Medium" due to the limited quality signals and sparse integration notes. This suggests that it may be suitable for prototype development or
+While the project shows promise, its production readiness is classified as "Medium" due to the limited quality signals and sparse integration notes.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/CallMeAlphabet/fastwc).
 
 ### Русский
 

@@ -40,7 +40,10 @@ Here's a brief summary and explanation of the project:
 **Practical Adoption Path:**
 
 1. **Evaluate the libraries**: Developers can start by evaluating the individual libraries and components of the Polkadot-API project to determine which ones best fit their needs.
-2. **Integrate the libraries**: Once the relevant libraries have
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/polkadot-api/polkadot-api).
 
 ### Русский
 

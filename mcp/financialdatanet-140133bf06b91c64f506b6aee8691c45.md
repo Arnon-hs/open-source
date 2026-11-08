@@ -39,7 +39,10 @@ The practical adoption path for this project involves:
 2. Dependency checks: Ensure that all dependencies are up-to-date and compatible with the project.
 3. Maintenance checks: Verify the project's release cadence, issue tracking, and documentation quality.
 4. Verification: Verify the project's license and ensure that it aligns with your organization's standards.
-5. Testing: Test the project in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://gist.github.com/financialdatanet/140133bf06b91c64f506b6aee8691c45).
 
 ### Русский
 

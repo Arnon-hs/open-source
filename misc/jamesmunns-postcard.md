@@ -37,7 +37,11 @@ Misc
 2. **Integration Validation**: Inspect the integration signals and setup costs associated with postcard to ensure they align with your project's requirements.
 3. **Dependency and Maintenance Checks**: Evaluate postcard's dependency tree and maintenance history to ensure they do not introduce unnecessary complexity or risks to your project.
 
-**Production Readiness:** Postcard is considered to have a medium level of production readiness. While it can be useful in prototype development or internal workflows, its adoption in production environments should be approached with caution. It is recommended to thoroughly evaluate postcard's suitability and
+**Production Readiness:** Postcard is considered to have a medium level of production readiness. While it can be useful in prototype development or internal workflows, its adoption in production environments should be approached with caution.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jamesmunns/postcard).
 
 ### Русский
 

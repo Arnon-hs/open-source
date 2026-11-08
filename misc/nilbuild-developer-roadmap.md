@@ -41,7 +41,11 @@ To adopt this project, developers should first manually inspect the code to ensu
 
 **Production Readiness**
 
-The project is considered medium-production ready, meaning it can be useful for internal workflows or prototypes, but it requires careful evaluation and dependency checks before being used in production environments. Developers should be cautious when adopting this project due to the
+The project is considered medium-production ready, meaning it can be useful for internal workflows or prototypes, but it requires careful evaluation and dependency checks before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nilbuild/developer-roadmap/issues/10226).
 
 ### Русский
 

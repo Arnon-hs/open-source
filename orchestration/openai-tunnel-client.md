@@ -69,7 +69,10 @@ openai/tunnel-client 的生产可用性评分为高（85/100）。它有以下�
 * 近期活跃度：项目最近更新于 2026-08-03。
 * 兴起度：有 220 个 GitHub 星标和 43 个分支。
 * 主要语言：Go。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/openai/tunnel-client)。
 
 ## 🧭 Practical evaluation
 

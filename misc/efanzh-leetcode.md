@@ -39,7 +39,11 @@ Here's a brief summary and explanation of the project:
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance to ensure they are up-to-date and compatible with your environment.
 3. **License and Security Review**: Conduct a final review of the project's license and security posture to ensure it meets your organization's standards.
 
-**Production Readiness:** EFanZh/LeetCode is considered production-ready with a moderate level of readiness (Medium). It can be useful for prototypes or internal workflows, but it's essential to
+**Production Readiness:** EFanZh/LeetCode is considered production-ready with a moderate level of readiness (Medium).
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/EFanZh/LeetCode).
 
 ### Русский
 

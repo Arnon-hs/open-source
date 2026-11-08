@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** Before adopting bugsink/bugsink, users should manually inspect the project's integration signals, which are sparse in the discovered metadata. This requires careful evaluation of the project's compatibility with the user's existing infrastructure and workflows. Additionally, users should perform dependency and maintenance checks before production to ensure the project is suitable for their needs.
 
-**Production Readiness:** bugsink/bugsink is considered production-ready with a medium level of readiness. While it has a large number of GitHub stars and forks, and is actively maintained, it still requires a final review of its license, security posture, and active maintainers before being used in
+**Production Readiness:** bugsink/bugsink is considered production-ready with a medium level of readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bugsink/bugsink).
 
 ### Русский
 

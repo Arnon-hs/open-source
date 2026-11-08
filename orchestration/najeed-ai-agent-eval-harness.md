@@ -41,7 +41,11 @@ To adopt this project, start with a small proof of concept to evaluate its feasi
 
 **Production Readiness:**
 
-The production readiness of najeed/ai-agent-eval-harness is classified as medium. This means it is suitable for use in prototypes or internal workflows, but requires careful evaluation of dependencies and maintenance requirements before deployment in production environments. While the project has a moderate level of activity and a
+The production readiness of najeed/ai-agent-eval-harness is classified as medium. This means it is suitable for use in prototypes or internal workflows, but requires careful evaluation of dependencies and maintenance requirements before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/najeed/ai-agent-eval-harness).
 
 ### Русский
 

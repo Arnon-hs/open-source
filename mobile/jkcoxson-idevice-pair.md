@@ -36,8 +36,9 @@ The project's value lies in its ability to accelerate the development of AI-powe
 **Practical Adoption Path:**
 To adopt jkcoxson/idevice_pair, developers should first manually inspect the project's metadata to understand its integration path and potential risks. They should then evaluate the setup costs and validate the tool's compatibility with their specific use case. Once these steps are complete, developers can integrate the project into their workflow, taking care to address any potential issues that may arise.
 
-**Production Readiness:**
-The project's production readiness is rated as medium, indicating that it is suitable for internal workflows or prototypes, but may require additional checks and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jkcoxson/idevice_pair).
 
 ### Русский
 

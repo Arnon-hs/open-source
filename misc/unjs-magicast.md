@@ -39,7 +39,11 @@ Misc
 4. Evaluate the project's production readiness by considering its dependency and maintenance checks.
 5. If the project meets the requirements, consider adding it to the workflow and testing its functionality.
 
-**Production Readiness:** Magicast has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, thorough evaluation and review are necessary before adopting it in production environments due to the sparse integration signals and risks associated with its
+**Production Readiness:** Magicast has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/unjs/magicast).
 
 ### Русский
 

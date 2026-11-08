@@ -44,9 +44,9 @@ For organizations looking to adopt Polyaxon, a practical adoption path would inv
 3. Starting with a small pilot implementation to test the waters and refine the deployment and usage of Polyaxon.
 4. Gradually scaling up the adoption of Polyaxon within the organization, leveraging its features and capabilities to improve AI workflow management.
 
-**Production Readiness:**
+## Before adopting
 
-Polyaxon has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/polyaxon/polyaxon).
 
 ### Русский
 

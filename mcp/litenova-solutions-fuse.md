@@ -38,7 +38,9 @@ MCP
 3. **Evaluate the release cadence**: Check the frequency and quality of Fuse releases to ensure that the tool is actively maintained and updated.
 4. **Test and integrate Fuse**: Once you've verified the above, test Fuse in a controlled environment and integrate it into your project.
 
-**Production Readiness:** Fuse is considered production-ready for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Litenova-Solutions/Fuse).
 
 ### Русский
 

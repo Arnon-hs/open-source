@@ -41,7 +41,11 @@ To adopt node-cron, developers can start by evaluating its feasibility through a
 
 **Production Readiness**
 
-node-cron has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its stability and reliability. The project's recent update (2026-07-02) and
+node-cron has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/node-cron/node-cron).
 
 ### Русский
 

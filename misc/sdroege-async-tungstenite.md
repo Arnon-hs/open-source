@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** To adopt this project, developers should start with a small proof of concept and carefully review the README to ensure it matches their specific workflow. Integration may not be immediately obvious from the metadata, so it's essential to validate the setup cost before committing to its use.
 
-**Production Readiness:** While sdroege/async-tungstenite is not yet production-ready due to its medium quality signal, it can be useful for prototypes or internal workflows. Before deploying it in a production environment, developers should carefully evaluate its dependency and
+**Production Readiness:** While sdroege/async-tungstenite is not yet production-ready due to its medium quality signal, it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sdroege/async-tungstenite).
 
 ### Русский
 

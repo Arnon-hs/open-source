@@ -44,9 +44,9 @@ To adopt this project, developers can start by:
 3. Reviewing the README file to understand the project's implementation details and requirements.
 4. Joining the community to ask questions, share knowledge, and collaborate with other developers.
 
-**Production Readiness:**
+## Before adopting
 
-The project has high production readiness due to its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/BowTiedDevil/degenbot).
 
 ### Русский
 

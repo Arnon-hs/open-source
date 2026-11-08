@@ -33,7 +33,9 @@ AI/ML
 
 **Practical Adoption Path:** To adopt Pbatch/ClashRoyaleBuildABot, users can start by evaluating the platform through a small proof of concept and reviewing the README documentation. This will help them understand the project's capabilities and requirements. Once they are satisfied with the evaluation, they can proceed with integrating the platform into their workflow, which may involve customizing the code, setting up dependencies, and configuring the platform for their specific needs.
 
-**Production Readiness:** Pbatch/ClashRoyaleBuildABot has shown strong production readiness, with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Pbatch/ClashRoyaleBuildABot).
 
 ### Русский
 

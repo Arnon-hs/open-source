@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the OpenRCT2/OpenRCT2 project:
 
 **Practical Adoption Path:** To adopt OpenRCT2/OpenRCT2, developers should start with a small proof of concept and carefully evaluate the integration path. This involves checking the README documentation, assessing the setup cost, and validating the project's compatibility with their specific needs. With recent activity, strong adoption, and a robust ecosystem, OpenRCT2/OpenRCT2 is a reliable choice for serious pilots.
 
-**Production Readiness:** OpenRCT2/OpenRCT2 boasts high production readiness, thanks to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/OpenRCT2/OpenRCT2).
 
 ### Русский
 

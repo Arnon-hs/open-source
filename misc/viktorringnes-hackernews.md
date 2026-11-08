@@ -41,7 +41,11 @@ Before adopting Show HN: Hacker News CLI, it is essential to manually inspect th
 
 **Production Readiness:**
 
-Show HN: Hacker News CLI has a medium production readiness level. While it can be useful for prototypes or internal workflows, its limited quality signals and potential risks make it less suitable for
+Show HN: Hacker News CLI has a medium production readiness level.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ViktorRingnes/hackernews).
 
 ### Русский
 

@@ -45,7 +45,10 @@ To adopt Kaboom AI DevTools, developers can follow these steps:
 
 1. **Evaluate the project**: Assess the project's GitHub repository, documentation, and community engagement to gauge its stability and potential.
 2. **Integrate with MCP**: Familiarize yourself with the MCP framework and integrate Kaboom with your existing infrastructure.
-3. **Configure and test**: Configure Kaboom to meet your specific needs and test its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/brennhill/Kaboom-Browser-AI-Devtools-MCP).
 
 ### Русский
 

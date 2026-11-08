@@ -42,7 +42,10 @@ To adopt Solomd, developers can follow these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. Assess the project's production readiness, including its recent activity, adoption, and ecosystem signals.
 3. Review the project's license, security posture, and active maintainers to ensure it meets their needs.
-4. Integrate Solomd with their AI providers and tools using the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zhitongblog/solomd).
 
 ### Русский
 

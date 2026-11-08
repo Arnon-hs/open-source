@@ -40,9 +40,9 @@ Here's a brief summary and explanation of the open-source project wsp: Multi-Rep
 3. Manually inspect the integration signals to ensure it aligns with their existing workflows.
 4. Verify the project's license, maintenance, documentation, issues, and release cadence before using it.
 
-**Production Readiness:** The wsp project has a medium production readiness score, indicating that it is suitable for:
+## Before adopting
 
-1. Prototypes: wsp can be used to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jganoff/wsp).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Ataru is an open-source desktop companion app designed to enhance AI coding tool
 
 **Practical Adoption Path:** The adoption path for Ataru involves a straightforward process of evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once satisfied with the app's capabilities, developers can integrate it into their projects, leveraging its features to enhance their AI coding tools.
 
-**Production Readiness:** Ataru has demonstrated high production readiness, thanks to its recent activity, strong adoption (348 GitHub stars and 33 forks), and robust ecosystem. This suggests that the app has
+**Production Readiness:** Ataru has demonstrated high production readiness, thanks to its recent activity, strong adoption (348 GitHub stars and 33 forks), and robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lovstudio/Ataru).
 
 ### Русский
 

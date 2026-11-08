@@ -39,7 +39,10 @@ Developers can adopt Rustam-Z/hamroh by following these steps:
 1. Evaluate the framework's feasibility by reading the README and performing a small proof of concept.
 2. Assess the framework's production readiness by reviewing its dependencies, maintenance requirements, and security posture.
 3. Integrate the framework into their project, leveraging its pre-built AI capabilities to streamline the development process.
-4. Customize and extend the AI agent to meet their specific needs, using the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Rustam-Z/hamroh).
 
 ### Русский
 

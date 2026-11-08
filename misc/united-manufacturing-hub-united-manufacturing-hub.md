@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the open-source project:
 
 **Practical Adoption Path:** The adoption path for United-Manufacturing-Hub is relatively straightforward. Users can start by exploring the project's documentation, inspecting the code, and assessing its integration capabilities. However, manual inspection is necessary due to sparse integration signals in the discovered metadata. Once familiar with the project's architecture and functionality, users can begin experimenting with the platform, starting with prototypes or internal workflows, and gradually scaling up to production environments after thorough dependency and maintenance checks.
 
-**Production Readiness:** United-Manufacturing-Hub is considered "medium" production-ready, indicating that it can be useful for prototypes or internal workflows. However, before deploying it in production, users should conduct a thorough review of the project's license, security posture, and ensure that there are active maintainers to address any potential issues or bugs. With proper evaluation and
+**Production Readiness:** United-Manufacturing-Hub is considered "medium" production-ready, indicating that it can be useful for prototypes or internal workflows. However, before deploying it in production, users should conduct a thorough review of the project's license, security posture, and ensure that there are active maintainers to address any potential issues or bugs.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/united-manufacturing-hub/united-manufacturing-hub).
 
 ### Русский
 

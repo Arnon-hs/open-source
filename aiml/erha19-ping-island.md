@@ -35,7 +35,9 @@ Here's a brief summary and analysis of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, users should start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and validate the setup cost before committing to the project. Once the project is deemed suitable, users can integrate it into their workflows, ensuring they conduct necessary dependency and maintenance checks to ensure production readiness.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it's suitable for internal workflows or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/erha19/ping-island).
 
 ### Русский
 

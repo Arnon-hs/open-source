@@ -38,7 +38,11 @@ Misc
 3. Verifying the project's license, documentation, and issue tracking to ensure compatibility with your organization's standards.
 4. Conducting dependency and maintenance checks to ensure the project's stability and reliability.
 
-**Production Readiness:** The project is considered production-ready for prototypes or internal workflows, but it requires careful evaluation and validation before deployment in a production environment. Its medium production readiness score indicates that it may not be suitable for high-traffic or mission-critical applications without additional testing and
+**Production Readiness:** The project is considered production-ready for prototypes or internal workflows, but it requires careful evaluation and validation before deployment in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vicondoa/d2b).
 
 ### Русский
 

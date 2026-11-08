@@ -41,7 +41,11 @@ To adopt PriceBuddy, start by evaluating its feasibility through a small proof o
 
 **Production Readiness:**
 
-PriceBuddy has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, before committing to production, it is essential to conduct dependency and maintenance checks to ensure the application is stable and secure. With proper evaluation and planning, PriceBuddy can be a valuable addition to
+PriceBuddy has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, before committing to production, it is essential to conduct dependency and maintenance checks to ensure the application is stable and secure.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jez500/pricebuddy).
 
 ### Русский
 

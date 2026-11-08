@@ -41,7 +41,10 @@ As for production readiness, the project has a high score due to:
 
 1. Recent activity: The project has been updated recently, indicating that it is actively maintained.
 2. Strong adoption: The project has 1619 GitHub stars and 251 forks, showing a significant level of interest and adoption.
-3. Strong ecosystem signals: The project has a strong ecosystem, with recent activity and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tukaani-project/xz).
 
 ### Русский
 

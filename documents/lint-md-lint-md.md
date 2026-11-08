@@ -42,7 +42,10 @@ To adopt Lint-md/lint-md in your project, follow these steps:
 1. **Evaluate the tool**: Assess the tool's features, documentation, and community support to ensure it meets your project's requirements.
 2. **Integrate with CI**: Integrate the tool with your Continuous Integration pipeline to automate Markdown linting and formatting checks.
 3. **Configure API calls**: Set up API calls to customize the tool's behavior and integrate it with your backend infrastructure.
-4. **Test and refine**: Test the tool in your development environment and refine its configuration as needed to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lint-md/lint-md).
 
 ### Русский
 

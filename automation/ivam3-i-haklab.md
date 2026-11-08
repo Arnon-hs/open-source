@@ -40,7 +40,10 @@ To adopt i-Haklab, users should:
 1. Review the project's documentation and guides to understand its features and capabilities.
 2. Inspect the project's integration requirements and dependencies to ensure they align with their existing workflows.
 3. Validate the setup costs and potential risks associated with integrating i-Haklab into their workflows.
-4. Test the project in a controlled environment to ensure it meets their requirements and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ivam3/i-Haklab).
 
 ### Русский
 

@@ -40,7 +40,10 @@ The primary value of this project lies in its ability to simplify the integratio
 To adopt this project, developers should follow these steps:
 
 1. **Evaluate the project's quality signals**: While the project has limited quality signals, it has been updated recently, which suggests some level of maintenance.
-2. **Verify the license and dependencies**: Ensure that the project's license is compatible with your project's requirements and that
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/arianmokhtariha/data2prompt).
 
 ### Русский
 

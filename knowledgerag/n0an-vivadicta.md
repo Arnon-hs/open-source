@@ -39,9 +39,9 @@ The value of n0an/VivaDicta lies in its ability to facilitate the creation and u
 
 To adopt n0an/VivaDicta, organizations should start with a small proof of concept to evaluate the integration process and ensure it meets their specific needs. A thorough review of the README file is also recommended to understand the project's architecture and dependencies. Once the proof of concept is successful, organizations can proceed with a more extensive integration, considering the potential setup costs and maintenance requirements.
 
-**Production Readiness:**
+## Before adopting
 
-n0an/VivaDicta is considered production-ready at
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/n0an/VivaDicta).
 
 ### Русский
 

@@ -39,7 +39,11 @@ Here's a brief summary:
 2. **Manual inspection and integration:** Before adopting contribsys/faktory in production, it's essential to inspect the code, review dependencies, and perform security checks to ensure a smooth integration process.
 3. **Dependency and maintenance checks:** Conduct thorough checks on dependencies and maintenance requirements to guarantee the project's stability and security in production.
 
-**Production Readiness:** contribsys/faktory is considered medium-production-ready, meaning it can be used in production environments after thorough evaluation and checks. While it has a
+**Production Readiness:** contribsys/faktory is considered medium-production-ready, meaning it can be used in production environments after thorough evaluation and checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/contribsys/faktory).
 
 ### Русский
 

@@ -44,9 +44,9 @@ To adopt this project, follow these steps:
 3. **Verify License and Release Cadence**: Confirm the project's license and release cadence to ensure it aligns with your organization's needs.
 4. **Evaluate Integration Signals**: Assess the project's integration signals to determine its feasibility for your use case.
 
-**Production Readiness:**
+## Before adopting
 
-The project has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AdityaSBisht/finance-mcp).
 
 ### Русский
 

@@ -44,9 +44,9 @@ To adopt the keylase/nvidia-patch, users should follow these steps:
 3. Integrate the patch into their system or workflow, taking note of any potential compatibility issues or conflicts.
 4. Test the patch thoroughly to ensure its stability and performance.
 
-**Production Readiness:**
+## Before adopting
 
-The keylase/nvidia-patch is considered production-ready with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/keylase/nvidia-patch).
 
 ### Русский
 

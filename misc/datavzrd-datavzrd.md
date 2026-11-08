@@ -39,7 +39,9 @@ As for the practical adoption path, here's a suggested outline:
 4. **Production readiness check**: Conduct thorough dependency and maintenance checks to ensure the tool is production-ready.
 5. **Commitment**: If the tool meets your requirements and you've validated the setup cost, commit to using it in production.
 
-Regarding production readiness, the project is rated as "Medium", indicating that it's suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/datavzrd/datavzrd).
 
 ### Русский
 

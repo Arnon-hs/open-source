@@ -39,7 +39,11 @@ Here's a summary and explanation of the toolleeo/awesome-cli-apps-in-a-csv proje
 2. They can evaluate the components based on the exposed implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
 3. Once a suitable component is found, developers can integrate it into their project, leveraging the existing code and reducing development time.
 
-**Production Readiness:** The project is considered high for production readiness due to recent activity, adoption, and strong ecosystem signals. With over 2555 GitHub stars and 232 forks, it has a significant user base and is actively maintained. However, it's essential to conduct a final review of the license, security posture, and
+**Production Readiness:** The project is considered high for production readiness due to recent activity, adoption, and strong ecosystem signals. With over 2555 GitHub stars and 232 forks, it has a significant user base and is actively maintained.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/toolleeo/awesome-cli-apps-in-a-csv).
 
 ### Русский
 

@@ -36,8 +36,9 @@ The primary value of i3T4AN/KADATH lies in its ability to bridge the gap between
 **Practical Adoption Path:**
 To adopt i3T4AN/KADATH, start by evaluating its feasibility through a small proof of concept and carefully reviewing the README documentation. Once familiar with the project, consider integrating it into your workflow by creating a pilot project or proof-of-concept implementation. As you become more comfortable with the tool, you can gradually scale up its usage to meet your specific needs.
 
-**Production Readiness:**
-While i3T4AN/KADATH has a medium production readiness score, it's still a useful tool for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/i3T4AN/KADATH).
 
 ### Русский
 

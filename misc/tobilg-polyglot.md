@@ -37,7 +37,11 @@ The value of Polyglot lies in its ability to simplify the process of working wit
 To adopt Polyglot, developers should first evaluate its README documentation and activity to ensure it aligns with their specific workflow requirements. A small proof of concept is recommended to test the integration process and validate the setup cost. This will help developers understand the project's feasibility and potential challenges before committing to its use.
 
 **Production Readiness:**
-Polyglot is considered production-ready with a medium level of readiness. It is suitable for use in prototypes or internal workflows, but careful dependency and maintenance checks should be performed before deploying it in a production environment. While the project has a
+Polyglot is considered production-ready with a medium level of readiness. It is suitable for use in prototypes or internal workflows, but careful dependency and maintenance checks should be performed before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tobilg/polyglot).
 
 ### Русский
 

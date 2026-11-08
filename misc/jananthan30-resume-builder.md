@@ -38,7 +38,10 @@ Misc
 1. **Manual Inspection:** Before adopting the project, developers should thoroughly inspect its code, dependencies, and documentation to ensure it meets their project's needs.
 2. **Verify Quality Signals:** Although the project has limited quality signals, developers should verify its license, maintenance, documentation, issues, and release cadence to ensure it's reliable and secure.
 3. **Prototype or Internal Workflow:** Once the project has been thoroughly vetted, it can be used for building prototypes or internal workflows, where its benefits can be evaluated and refined.
-4. **Production-Ready:** If the project meets the necessary quality and security standards, it can be considered for production use, but it's essential to continue monitoring its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jananthan30/Resume-Builder).
 
 ### Русский
 

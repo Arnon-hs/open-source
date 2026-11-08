@@ -41,7 +41,11 @@ To adopt Santui, developers should first manually inspect the project to ensure 
 
 **Production Readiness:**
 
-Santui is considered medium production-ready, meaning it's suitable for prototypes or internal workflows but requires further evaluation before being used in production. This is due to the
+Santui is considered medium production-ready, meaning it's suitable for prototypes or internal workflows but requires further evaluation before being used in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sonyarianto/santui).
 
 ### Русский
 

@@ -37,8 +37,9 @@ The verygoodplugins/mcp-automem project provides a standard protocol for connect
 **Practical Adoption Path:**
 To adopt this project, developers can start by evaluating the implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then integrate the MCP client into their existing AI systems, using the standard protocol to connect to various tools and data sources. This can be achieved through a straightforward process, with the project's recent activity and adoption signals indicating a strong and supportive community.
 
-**Production Readiness:**
-The project has a high production readiness score, with recent activity, adoption, and ecosystem signals indicating a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/verygoodplugins/mcp-automem).
 
 ### Русский
 

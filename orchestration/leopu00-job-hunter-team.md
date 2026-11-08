@@ -37,9 +37,11 @@ The main value proposition of leopu00/job-hunter-team lies in its ability to int
 
 **Practical Adoption Path:**
 
-For developers interested in adopting leopu00/job-hunter-team, the practical adoption path is relatively straightforward. They can start by:
+For developers interested in adopting leopu00/job-hunter-team, the practical adoption path is relatively straightforward.
 
-1. Evaluating the project's API/SDK/CLI implementation signals to understand how to integrate the project into their
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/leopu00/job-hunter-team).
 
 ### Русский
 

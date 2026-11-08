@@ -40,7 +40,11 @@ Here's a brief summary and explanation of the project:
 3. Perform manual inspection before integrating the project into your system.
 4. Address any quality concerns or issues before using the project in production.
 
-**Production Readiness:** This project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows. However, it is not yet ready for production due to limited quality signals and potential risks associated with its usage. Before using it in
+**Production Readiness:** This project has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows. However, it is not yet ready for production due to limited quality signals and potential risks associated with its usage.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rizzdev/claude-detective).
 
 ### Русский
 

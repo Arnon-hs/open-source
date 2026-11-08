@@ -41,7 +41,11 @@ To adopt OpenMRS Core, teams can start by evaluating the project's API, SDK, and
 
 **Production Readiness:**
 
-OpenMRS Core boasts a high production readiness score, indicating its suitability for serious pilots. The project's recent activity, adoption, and ecosystem signals are strong, with
+OpenMRS Core boasts a high production readiness score, indicating its suitability for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openmrs/openmrs-core).
 
 ### Русский
 

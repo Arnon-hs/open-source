@@ -40,8 +40,9 @@ Rackp offers a valuable solution for developers looking to integrate AI capabili
 2. **RAG or Agent Workflows**: The protocol can be used to build RAG or agent workflows, enabling organizations to better understand and address incidents caused by AI agents.
 3. **Model Tooling Evaluation**: Rackp can be used to evaluate model tooling, helping developers choose the most suitable tools for their projects.
 
-**Production Readiness:**
-Rackp has medium production readiness, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rackp-io/rackp).
 
 ### Русский
 

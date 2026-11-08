@@ -40,7 +40,9 @@ Here's a brief summary and analysis of the Source Code Grep project:
 3. **Evaluate Use Cases**: Assess whether the project's functionality aligns with the developer's specific needs and workflows.
 4. **Test and Integrate**: Conduct thorough testing and integration of the project to ensure it works seamlessly with existing development tools and workflows.
 
-**Production Readiness:** The project has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/m-manu/scgrep).
 
 ### Русский
 

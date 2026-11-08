@@ -37,7 +37,11 @@ The primary value proposition of taovc/pr-cockpit lies in its ability to add AI 
 To adopt taovc/pr-cockpit, developers can start by evaluating the project through a small proof of concept. A thorough review of the README documentation is also recommended to understand the project's architecture and dependencies. Once familiar with the project, developers can integrate it into their workflow by creating isolated git worktrees for AI model reviews and using human-gated GitHub comments for feedback.
 
 **Production Readiness:**
-taovc/pr-cockpit is considered moderately production-ready, with a score of 64/100. While it is useful for prototypes and internal workflows, developers should conduct thorough dependency and maintenance checks before deploying it in
+taovc/pr-cockpit is considered moderately production-ready, with a score of 64/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/taovc/pr-cockpit).
 
 ### Русский
 

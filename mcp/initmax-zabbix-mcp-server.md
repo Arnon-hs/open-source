@@ -33,7 +33,11 @@ initMAX/zabbix-mcp-server is an open-source MCP (Model Context Protocol) server 
 
 The value proposition of this project lies in its ability to standardize integrations between AI assistants and real tools, making it easier to connect different systems and automate tasks. The practical adoption path involves evaluating the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, and assessing its license, security posture, and active maintainers. With recent activity, adoption, and strong ecosystem signals, this project is considered production-ready, making it suitable for serious pilots.
 
-Production readiness is high for this project, with recent updates (2026-07-31), 163 GitHub stars, 28 forks, and a strong primary language (Python). While there are still risks to be assessed, such as the license, security posture, and active maintainers, the overall signals suggest that this project is a viable option for
+Production readiness is high for this project, with recent updates (2026-07-31), 163 GitHub stars, 28 forks, and a strong primary language (Python).
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/initMAX/zabbix-mcp-server).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The project's value lies in its potential to improve the efficiency and scalabil
 
 To adopt this project, developers should first inspect its README, activity, and quality signals to ensure they align with their workflow requirements. Next, they should verify the project's license, maintenance, documentation, issues, and release cadence to assess its production readiness. Once these checks are complete, developers can integrate the project into their existing infrastructure, starting with a prototype or internal workflow before scaling to production.
 
-**Production Readiness**
+## Before adopting
 
-The project's production readiness is medium, indicating that it is suitable for prototypes or internal workflows but may require additional checks and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/0ssy/trs-runtime).
 
 ### Русский
 

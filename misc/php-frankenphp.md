@@ -41,7 +41,11 @@ Adopting FrankenPHP involves evaluating its implementation signals, such as API/
 
 **Production Readiness:**
 
-FrankenPHP demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot. With 11,218 GitHub stars and 464 forks, the project has gained significant traction, and
+FrankenPHP demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/php/frankenphp).
 
 ### Русский
 

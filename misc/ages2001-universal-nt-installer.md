@@ -38,7 +38,9 @@ Misc
 3. **Dependency and Maintenance Checks**: Evaluate the project's dependencies and maintenance requirements to ensure they align with your infrastructure and resources.
 4. **Prototype or Internal Workflow**: Consider using the Universal NT Installer for prototype development or internal workflows, where its moderate production readiness is less critical.
 
-**Production Readiness:** The Universal NT Installer is rated as "Medium" in terms of production readiness, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ages2001/Universal-NT-Installer).
 
 ### Русский
 

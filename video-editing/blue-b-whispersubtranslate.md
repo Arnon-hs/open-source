@@ -33,7 +33,11 @@ Video Editing · Productivity
 
 **Practical Adoption Path:** To adopt this project, it's recommended to start with a small proof of concept (POC) to evaluate its feasibility and understand the integration path. A thorough README check is also essential to ensure that the project's documentation aligns with the intended workflow. Before committing to a larger-scale integration, validate the setup cost and consider the project's dependency and maintenance requirements.
 
-**Production Readiness:** Blue-B/WhisperSubTranslate has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, it's essential to
+**Production Readiness:** Blue-B/WhisperSubTranslate has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Blue-B/WhisperSubTranslate).
 
 ### Русский
 

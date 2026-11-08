@@ -45,7 +45,11 @@ To adopt ColdWindScholar/MIO-KITCHEN-SOURCE, follow these steps:
 
 **Production Readiness:**
 
-ColdWindScholar/MIO-KITCHEN-SOURCE is considered production-ready with medium readiness. This means it is suitable for use in prototypes or
+ColdWindScholar/MIO-KITCHEN-SOURCE is considered production-ready with medium readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE).
 
 ### Русский
 

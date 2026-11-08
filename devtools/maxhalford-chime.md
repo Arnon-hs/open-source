@@ -39,9 +39,9 @@ The value of MaxHalford/chime lies in its ease of use and ability to quickly add
 
 To adopt MaxHalford/chime, developers can start by evaluating the project through a small proof of concept and reviewing the README documentation. This will give them a good understanding of the project's capabilities and requirements. Once they are satisfied with the project's feasibility, they can integrate it into their application, starting with small-scale testing and gradually scaling up as needed.
 
-**Production Readiness:**
+## Before adopting
 
-MaxHalford/chime has demonstrated high production readiness, with recent activity, adoption, and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MaxHalford/chime).
 
 ### Русский
 

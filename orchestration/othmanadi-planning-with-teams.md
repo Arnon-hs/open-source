@@ -39,7 +39,10 @@ To adopt OthmanAdi/planning-with-teams, users can follow these steps:
 1. **Evaluate the project**: Review the project's documentation, codebase, and GitHub repository to assess its feasibility and potential for their use case.
 2. **Install and configure**: Install the project's dependencies and configure the necessary settings to integrate with their Claude Code Agent Teams.
 3. **Test and refine**: Test the project's functionality and refine the workflows to meet their specific needs.
-4. **Deploy and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/OthmanAdi/planning-with-teams).
 
 ### Русский
 

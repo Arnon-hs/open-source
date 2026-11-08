@@ -46,7 +46,11 @@ To adopt RMS Mail, developers can follow these steps:
 
 **Production Readiness:**
 
-RMS Mail has shown strong production readiness signals, including recent activity, adoption, and ecosystem signals. With
+RMS Mail has shown strong production readiness signals, including recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/max-ramas/rms-mail-public).
 
 ### Русский
 

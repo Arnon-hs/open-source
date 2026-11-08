@@ -36,10 +36,9 @@ The primary value of martinohmann/hcl-rs lies in its ability to parse and encode
 **Practical Adoption Path:**
 To adopt martinohmann/hcl-rs, start with a small proof of concept to evaluate its feasibility and ensure it aligns with your project's specific needs. Carefully review the README documentation to understand the library's usage and potential integration challenges. Before committing to production, validate the setup cost and perform necessary dependency and maintenance checks.
 
-**Production Readiness:**
-martinohmann/hcl-rs is considered medium production-ready, making it suitable for:
+## Before adopting
 
-1. **Prototyping**: Use the library to quickly develop and test proof-of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/martinohmann/hcl-rs).
 
 ### Русский
 

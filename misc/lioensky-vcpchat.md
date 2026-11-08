@@ -42,8 +42,9 @@ To adopt VCPChat, developers can follow these steps:
 4. Start by building prototypes or internal workflows to test the project's functionality.
 5. Perform dependency and maintenance checks before considering production-ready deployment.
 
-**Production Readiness:**
-VCPChat has a medium production readiness score, indicating that it is suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lioensky/VCPChat).
 
 ### Русский
 

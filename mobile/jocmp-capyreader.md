@@ -45,9 +45,9 @@ To adopt Capyreader, follow these steps:
 4. Test the project in a controlled environment to ensure its stability and functionality.
 5. Integrate Capyreader into your production environment, monitoring its performance and addressing any issues that arise.
 
-**Production Readiness:**
+## Before adopting
 
-Capyreader is considered medium-production-ready, making it suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jocmp/capyreader).
 
 ### Русский
 

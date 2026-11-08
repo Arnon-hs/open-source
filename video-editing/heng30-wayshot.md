@@ -43,7 +43,10 @@ To adopt this project, follow these steps:
 2. **Inspect the codebase**: Review the project's codebase for any potential issues or areas that may require maintenance.
 3. **Check documentation and issues**: Verify that the project has adequate documentation and a manageable issue list.
 4. **Evaluate release cadence**: Assess the project's release frequency and stability.
-5. **Perform dependency checks**: Review the project's dependencies and ensure they are
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/heng30/wayshot).
 
 ### Русский
 

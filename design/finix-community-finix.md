@@ -41,7 +41,10 @@ To adopt Finix, users should follow these steps:
 
 1. **Manual Inspection:** Carefully review the project's documentation and codebase to understand its architecture and integration requirements.
 2. **Setup and Configuration:** Set up Finix according to the project's guidelines, ensuring that dependencies are properly installed and configured.
-3. **Dependency and Maintenance Checks:** Conduct thorough checks on dependencies and maintenance requirements to ensure a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/finix-community/finix).
 
 ### Русский
 

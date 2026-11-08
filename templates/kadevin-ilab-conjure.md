@@ -82,11 +82,9 @@ kadevin/ilab-conjure 具有高生产可用性，主要原因是：
 * 广泛采用
 * 强大的生态系统信号
 
-**风险**
+## 采用前检查
 
-虽然没有发现重大元数据风险，但仍需要进一步评估以下风险：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/kadevin/ilab-conjure)。
 
 ## 🧭 Practical evaluation
 

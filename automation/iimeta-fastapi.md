@@ -44,9 +44,9 @@ Adopting iimeta/fastapi involves a straightforward process:
 3. **Integrate**: Connect your LLM models and tools to the system, creating repeatable flows and automating tasks.
 4. **Monitor**: Schedule operational tasks and monitor the system's performance to ensure stability and efficiency.
 
-**Production Readiness:**
+## Before adopting
 
-iimeta/fastapi exhibits high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/iimeta/fastapi).
 
 ### Русский
 

@@ -33,7 +33,11 @@ Frontend
 
 **Practical Adoption Path:** To adopt vobyjs/voby, developers can start by evaluating the framework through a small proof-of-concept project and thoroughly reviewing the README documentation. This initial evaluation will help developers understand the framework's capabilities and identify potential integration challenges. Once the feasibility of vobyjs/voby is established, developers can begin integrating it into their applications, leveraging its high-performance reactivity and AI capabilities.
 
-**Production Readiness:** vobyjs/voby exhibits strong production readiness, with recent activity, adoption, and ecosystem signals indicating its viability for serious pilot projects. The framework's recent updates, 906 GitHub stars, and 23 forks demonstrate its popularity and maintainability. However, it is essential to conduct a final review of the
+**Production Readiness:** vobyjs/voby exhibits strong production readiness, with recent activity, adoption, and ecosystem signals indicating its viability for serious pilot projects. The framework's recent updates, 906 GitHub stars, and 23 forks demonstrate its popularity and maintainability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vobyjs/voby).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary of the sterlp/eclipse-peon-ai project:
 
 **Practical Adoption Path:** To adopt sterlp/eclipse-peon-ai, users can start by installing the plugin in their Eclipse IDE. They can then explore the various features and integrations, such as supporting different LLMs and cloud providers. The project's documentation and community support make it relatively straightforward to evaluate and implement.
 
-**Production Readiness:** The project has a high production readiness score, with recent activity, strong adoption, and a robust ecosystem. It has a strong license, and
+**Production Readiness:** The project has a high production readiness score, with recent activity, strong adoption, and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sterlp/eclipse-peon-ai).
 
 ### Русский
 

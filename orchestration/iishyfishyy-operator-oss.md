@@ -47,9 +47,9 @@ To adopt iishyfishyy/operator-oss, users can follow these steps:
 2. Install and configure the project, which appears to be straightforward based on the provided information.
 3. Integrate the project with their existing workflows and tools.
 
-**Production Readiness:**
+## Before adopting
 
-iishyfishyy/operator-oss has demonstrated a high level of production readiness, with recent activity, adoption, and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/iishyfishyy/operator-oss).
 
 ### Русский
 

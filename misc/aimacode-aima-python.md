@@ -38,8 +38,9 @@ The main value proposition of aimacode/aima-python lies in its ability to accele
 **Practical Adoption Path:**
 To adopt aimacode/aima-python, developers can start by exploring the project's documentation and codebase to understand how to use the provided algorithms and tools. They can then prototype AI features using the project's pre-built components and evaluate the performance of these features. As they gain more experience and confidence, they can integrate the project into their production workflows.
 
-**Production Readiness:**
-aimacode/aima-python is highly production-ready, with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aimacode/aima-python).
 
 ### Русский
 

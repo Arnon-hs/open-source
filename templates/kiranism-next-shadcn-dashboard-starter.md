@@ -42,7 +42,10 @@ To adopt Kiranism/next-shadcn-dashboard-starter, developers can follow these ste
 1. Review the project's documentation and codebase to understand its features and architecture.
 2. Clone the repository and set up the project in their local environment.
 3. Explore the starter kit's features and customize it to suit their project's requirements.
-4. Integrate AI models and tools into the dashboard using the
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Kiranism/next-shadcn-dashboard-starter).
 
 ### Русский
 
@@ -77,7 +80,9 @@ Kiranism/next-shadcn-dashboard-starter 的生产可用性非常高。它有以�
 * 稳定的生态系统信号
 * 高质量的代码和文档
 
-但是，
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/Kiranism/next-shadcn-dashboard-starter)。
 
 ## 🧭 Practical evaluation
 

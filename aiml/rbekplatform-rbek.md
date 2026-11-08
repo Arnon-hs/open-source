@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt RBEK, developers should first manually inspect the project's metadata, verifying its license, maintenance, documentation, issues, and release cadence. They should also evaluate the project's quality signals, which are limited. Once verified, developers can integrate RBEK into their projects, using it to prototype AI features, build RAG or agent workflows, and evaluate model tooling.
 
-**Production Readiness:** RBEK has a medium production readiness score, indicating that it is suitable for internal workflows or prototypes, but not yet ready for production environments. Before deploying RBEK in production, developers should conduct thorough dependency and
+**Production Readiness:** RBEK has a medium production readiness score, indicating that it is suitable for internal workflows or prototypes, but not yet ready for production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rbekplatform/rbek).
 
 ### Русский
 

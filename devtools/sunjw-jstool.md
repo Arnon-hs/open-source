@@ -35,7 +35,11 @@ The sunjw/jstool project is an open-source JavaScript tool for Visual Studio Cod
 
 **Practical Adoption Path:** To adopt sunjw/jstool, developers can start by integrating it with their existing Visual Studio Code setup. This involves installing the tool and configuring it to work with their specific development workflows. The tool's API/SDK/CLI exposure makes it straightforward to evaluate and integrate.
 
-**Production Readiness:** With 308 GitHub stars, 28 forks, and recent updates, sunjw/jstool demonstrates strong adoption and ecosystem signals. Its high production readiness score indicates that it is a stable and reliable tool, making it suitable for serious pilots and production environments. However, a final review of the
+**Production Readiness:** With 308 GitHub stars, 28 forks, and recent updates, sunjw/jstool demonstrates strong adoption and ecosystem signals. Its high production readiness score indicates that it is a stable and reliable tool, making it suitable for serious pilots and production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sunjw/jstool).
 
 ### Русский
 

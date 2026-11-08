@@ -37,7 +37,11 @@ The value of Tencent/BrowserSkill lies in its ability to automate repetitive tas
 To adopt Tencent/BrowserSkill, users can start by evaluating its feasibility through a small proof of concept and reviewing the project's README. This will help assess the project's potential for integration with their specific use case. Once the feasibility is established, users can proceed with integrating the project into their workflows, taking into account dependency and maintenance checks before moving to production.
 
 **Production Readiness:**
-Tencent/BrowserSkill is considered production-ready with a medium level of readiness. While it has a moderate score of 66/100, it is useful for prototypes or internal workflows. However, users should conduct a final review of the project's license, security posture, and
+Tencent/BrowserSkill is considered production-ready with a medium level of readiness. While it has a moderate score of 66/100, it is useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Tencent/BrowserSkill).
 
 ### Русский
 

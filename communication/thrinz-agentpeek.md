@@ -39,9 +39,9 @@ The value of this project lies in its ability to provide a persistent session wi
 
 Before adopting this project, users should inspect it manually to ensure it meets their needs. This involves verifying the project's license, maintenance, documentation, issues, and release cadence. Once vetted, the project can be used for prototyping or internal workflows, with the understanding that it may require additional dependency and maintenance checks before being ready for production.
 
-**Production Readiness:**
+## Before adopting
 
-The project's production readiness is rated as medium, indicating that it can be useful for prototypes or internal workflows, but may require additional checks and validation before being used in a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/thrinz/agentpeek).
 
 ### Русский
 

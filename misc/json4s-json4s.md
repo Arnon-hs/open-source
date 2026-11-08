@@ -40,7 +40,11 @@ The practical adoption path involves:
 3. Validating the setup cost before committing to use the library.
 4. Conducting dependency and maintenance checks to ensure the library is production-ready.
 
-Production readiness refers to the library's suitability for deployment in a production environment. In this case, json4s/json4s is considered medium ready, meaning it can be used in prototypes or internal workflows, but requires careful consideration and validation before being used in
+Production readiness refers to the library's suitability for deployment in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/json4s/json4s).
 
 ### Русский
 

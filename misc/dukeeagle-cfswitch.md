@@ -41,7 +41,11 @@ Before adopting Cfswitch, users should carefully inspect the project's integrati
 
 **Production Readiness:**
 
-Cfswitch is considered production-ready with medium risk, making it suitable for use in prototypes or internal workflows. However, users should exercise caution and conduct thorough testing before deploying it in
+Cfswitch is considered production-ready with medium risk, making it suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dukeeagle/cfswitch).
 
 ### Русский
 

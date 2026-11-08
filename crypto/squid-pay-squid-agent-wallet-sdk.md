@@ -48,9 +48,9 @@ To adopt this SDK, follow these steps:
 3. **Dependency and Maintenance Checks**: Verify that the SDK's dependencies are up-to-date and that the project has a clear maintenance strategy.
 4. **Integration Testing**: Thoroughly test the SDK in your project to ensure it works as expected.
 
-**Production Readiness**
+## Before adopting
 
-The SDK has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Squid-Pay/Squid-Agent-Wallet-SDK).
 
 ### Русский
 

@@ -38,7 +38,11 @@ The value proposition of BennyKok/omg.dev lies in its ability to accelerate AI d
 3. Integration of the project with the user's existing infrastructure and workflows.
 4. Testing and validation of the project's functionality and performance in a controlled environment.
 
-In terms of production readiness, BennyKok/omg.dev is rated as medium, indicating that it's suitable for internal workflows or prototypes, but requires careful evaluation and testing before being deployed in production. This
+In terms of production readiness, BennyKok/omg.dev is rated as medium, indicating that it's suitable for internal workflows or prototypes, but requires careful evaluation and testing before being deployed in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/BennyKok/omg.dev).
 
 ### Русский
 

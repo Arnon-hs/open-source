@@ -38,7 +38,10 @@ Stock Indicators for .NET is a C# NuGet package that converts raw financial mark
 1. Review the README documentation and evaluate the package's feasibility for your project.
 2. Start with a small proof of concept to test the package's functionality and performance.
 3. Assess the package's quality signals, including GitHub stars, forks, and recent activity.
-4. Evaluate the package's security posture, license, and active maintainers to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/facioquo/stock-indicators-dotnet).
 
 ### Русский
 

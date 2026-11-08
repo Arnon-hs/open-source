@@ -41,7 +41,11 @@ To adopt Timoni, users should start by manually inspecting the project for any p
 
 **Production Readiness:**
 
-Timoni's production readiness is high, thanks to its recent activity, strong adoption signals, and robust ecosystem support. With over 1984 GitHub stars and 85 forks, the project has a significant user base and
+Timoni's production readiness is high, thanks to its recent activity, strong adoption signals, and robust ecosystem support.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/stefanprodan/timoni).
 
 ### Русский
 

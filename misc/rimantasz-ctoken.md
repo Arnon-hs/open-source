@@ -38,7 +38,10 @@ Here's a brief summary and explanation of the project:
 1. **Manual Inspection**: Before adopting Ctoken, developers need to inspect the project manually to verify its quality signals, including its license, maintenance, documentation, issues, and release cadence.
 2. **Verify Requirements**: Ensure that Ctoken meets the project's specific requirements and can be integrated seamlessly with existing workflows.
 3. **Configure and Test**: Configure Ctoken according to the project's needs and test its functionality thoroughly.
-4. **Maintenance and Updates**: Regularly check for updates and maintain the tool to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/RimantasZ/ctoken).
 
 ### Русский
 

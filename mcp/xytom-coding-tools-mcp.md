@@ -36,8 +36,9 @@ The value of xyTom/coding-tools-mcp lies in its ability to connect AI agents to 
 **Practical Adoption Path:**
 To adopt xyTom/coding-tools-mcp, developers can start by evaluating the project's feasibility through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and ensure a smooth onboarding process. Once familiar with the project, developers can begin integrating the MCP protocol into their AI systems, starting with small-scale applications and gradually scaling up to more complex projects.
 
-**Production Readiness:**
-xyTom/coding-tools-mcp is considered to
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xyTom/coding-tools-mcp).
 
 ### Русский
 

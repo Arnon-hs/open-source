@@ -39,9 +39,9 @@ The primary value of Tilery-VM lies in its ability to accelerate the development
 
 Before adopting Tilery-VM, developers should perform a manual inspection of the project's metadata, including its license, maintenance, documentation, issues, and release cadence. This will help identify potential risks and ensure that the tool meets the project's requirements. Once verified, developers can integrate Tilery-VM into their workflow, taking into account its medium production readiness level, which makes it suitable for prototypes or internal workflows.
 
-**Production Readiness:**
+## Before adopting
 
-Tilery-VM has a medium production readiness level, indicating that while it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/drbh/tilery-vm).
 
 ### Русский
 

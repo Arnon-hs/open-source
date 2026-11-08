@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating its feasibility through a small proof of concept, checking the README documentation, and reviewing the project's security posture and license. This will help identify potential risks and ensure a smooth integration process.
 
-**Production Readiness:** With 430 GitHub stars, 15 forks, and recent activity, the lynote-ai/ai-text-detector demonstrates strong ecosystem signals, making it production-ready for serious pilots. Its high production readiness score indicates that it's a reliable choice for
+**Production Readiness:** With 430 GitHub stars, 15 forks, and recent activity, the lynote-ai/ai-text-detector demonstrates strong ecosystem signals, making it production-ready for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lynote-ai/ai-text-detector).
 
 ### Русский
 

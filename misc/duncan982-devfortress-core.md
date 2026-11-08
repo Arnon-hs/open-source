@@ -41,8 +41,9 @@ DevFortress helps developers to integrate AI capabilities into their projects wi
 3. **Verify Dependencies and Maintenance:** Check the project's dependencies, maintenance, and release cadence to ensure it is stable and reliable.
 4. **Adopt and Integrate:** Once you're satisfied with the project's quality, adopt and integrate DevFortress into your production environment.
 
-**Production Readiness:** 
-DevFortress has a medium production readiness score due to limited quality signals and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/duncan982/devfortress-core).
 
 ### Русский
 

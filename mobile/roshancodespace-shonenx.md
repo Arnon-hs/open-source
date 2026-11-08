@@ -38,7 +38,11 @@ Mobile · Design
 3. Verify the setup cost and potential risks involved in integrating ShonenX into your project.
 4. Once you have a clear understanding of the project's capabilities and limitations, you can proceed with integrating ShonenX into your workflow.
 
-**Production Readiness:** ShonenX has a medium production readiness level, making it suitable for prototypes or internal workflows. However, before deploying it in
+**Production Readiness:** ShonenX has a medium production readiness level, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/roshancodespace/ShonenX).
 
 ### Русский
 

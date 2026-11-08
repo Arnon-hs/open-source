@@ -35,7 +35,11 @@ Here's a brief summary of the google/tunix project:
 
 **Practical Adoption Path:** To adopt google/tunix, developers can start by inspecting the library's code and documentation to understand its functionality and potential use cases. They can then integrate the library into their existing projects, exploring its capabilities and limitations through experimentation and iteration. Given its Python-based architecture, developers with experience in Python development should find it relatively easy to integrate and customize.
 
-**Production Readiness:** google/tunix boasts a high level of production readiness, thanks to its recent activity, strong adoption (2367 GitHub stars and 315 forks), and robust ecosystem signals. While a final review of
+**Production Readiness:** google/tunix boasts a high level of production readiness, thanks to its recent activity, strong adoption (2367 GitHub stars and 315 forks), and robust ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/google/tunix).
 
 ### Русский
 

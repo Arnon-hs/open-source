@@ -37,7 +37,11 @@ The project's primary value lies in its ability to standardize integrations betw
 To adopt datalayer/jupyter-ai-agents, users can start by evaluating its implementation signals, such as API/SDK/CLI exposure, language metadata, and focused topics. This will help them understand the project's functionality and requirements. Next, users can explore the project's use cases, such as connecting AI agents to tools and shipping Model Context Protocol servers. Once they have a clear understanding of the project's capabilities and limitations, they can start integrating it into their workflows, beginning with prototypes or internal projects.
 
 **Production Readiness:**
-The project is considered production-ready with a medium score, indicating that it is suitable for prototypes or internal workflows. However, before deploying it in a production environment, users should perform dependency and maintenance checks to ensure that
+The project is considered production-ready with a medium score, indicating that it is suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/datalayer/jupyter-ai-agents).
 
 ### Русский
 

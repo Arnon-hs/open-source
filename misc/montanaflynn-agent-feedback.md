@@ -42,7 +42,10 @@ In terms of production readiness, this project is suitable for:
 
 1. Prototyping AI features and evaluating their potential impact.
 2. Building and testing RAG (Reasoning and Action Graph) or agent workflows.
-3. Internal workflows and proof-of
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/montanaflynn/agent-feedback).
 
 ### Русский
 

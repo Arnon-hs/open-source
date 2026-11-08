@@ -42,8 +42,9 @@ To adopt the Juggler Code Agent, developers should follow these steps:
 3. Manually integrate the agent into the application, taking note of any potential issues or limitations.
 4. Test and evaluate the agent's performance and effectiveness in the application.
 
-**Production Readiness:**
-While the Juggler Code Agent has a medium level of production readiness, it is best suited for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/juggler-ai/juggler).
 
 ### Русский
 

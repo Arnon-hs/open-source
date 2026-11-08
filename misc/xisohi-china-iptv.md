@@ -34,7 +34,11 @@ The xisohi/CHINA-IPTV project is an open-source initiative that provides a colle
 The value proposition of xisohi/CHINA-IPTV lies in its potential to add AI capabilities without requiring a blank model stack. This makes it suitable for users who want to prototype AI features, build RAG (Reusable Asset Graph) or agent workflows, and evaluate model tooling. However, it's essential to note that the project's primary focus is on IPTV sources rather than AI capabilities.
 
 **Practical Adoption Path:**
-Before adopting the xisohi/CHINA-IPTV project, users should conduct a manual inspection to ensure a smooth integration process. The integration signals are sparse in the discovered metadata, which may lead to potential issues. Users should also validate the setup cost before committing to the project. Once the project is adopted, users can utilize the IPTV sources on their devices, such as
+Before adopting the xisohi/CHINA-IPTV project, users should conduct a manual inspection to ensure a smooth integration process. The integration signals are sparse in the discovered metadata, which may lead to potential issues. Users should also validate the setup cost before committing to the project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xisohi/CHINA-IPTV).
 
 ### Русский
 

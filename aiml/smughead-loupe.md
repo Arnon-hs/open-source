@@ -41,7 +41,11 @@ To adopt Loupe, users should start with a small proof of concept to evaluate its
 
 **Production Readiness:**
 
-Loupe is considered production-ready with a medium level of readiness. While it is useful for prototypes or internal workflows, users should conduct dependency and maintenance checks before deploying it in production environments. This ensures that the tool is thoroughly tested and validated to
+Loupe is considered production-ready with a medium level of readiness. While it is useful for prototypes or internal workflows, users should conduct dependency and maintenance checks before deploying it in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/smughead/Loupe).
 
 ### Русский
 

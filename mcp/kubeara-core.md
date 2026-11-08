@@ -35,7 +35,9 @@ kubeara/core is an open-source, self-hosted Platform-as-a-Service (PaaS) that en
 
 **Practical Adoption Path:** To adopt kubeara/core, users can start by evaluating its API, SDK, and CLI implementation signals. The project's straightforward evaluation process and recent activity make it a viable option for serious pilots. Users can also explore its adoption and ecosystem signals, which indicate strong support and potential for integration with other tools.
 
-**Production Readiness:** kubeara/core has a high production readiness score, thanks to its recent activity, adoption, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kubeara/core).
 
 ### Русский
 

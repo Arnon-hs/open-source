@@ -42,7 +42,10 @@ To adopt Vega-App, follow these steps:
 1. **Evaluate and review**: Carefully review the project's README, GitHub stars, forks, and primary language (TypeScript) to assess its relevance and quality.
 2. **Start with a small proof of concept**: Implement a small-scale proof of concept to test Vega-App's feasibility and integration with your existing infrastructure.
 3. **Check dependencies and maintenance**: Perform thorough checks on Vega-App's dependencies and maintenance requirements to ensure they align with your project's needs.
-4. **Integrate with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vega-org/vega-app).
 
 ### Русский
 

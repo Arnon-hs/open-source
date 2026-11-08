@@ -46,7 +46,11 @@ To adopt Transcribe-Anything, developers can follow these steps:
 
 **Production Readiness:**
 
-Transcribe-Anything has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but may require additional checks and maintenance before being used in production environments. This is due to the need for manual inspection and
+Transcribe-Anything has a medium production readiness score, indicating that it's suitable for prototypes or internal workflows but may require additional checks and maintenance before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zackees/transcribe-anything).
 
 ### Русский
 

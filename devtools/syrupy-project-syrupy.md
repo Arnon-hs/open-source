@@ -71,7 +71,10 @@ syrupy 的生产可用性很高，理由如下：
 
 * 最近活跃，且有强大生态系统信号
 * GitHub 上有 869 个星星和 60 个分支
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/syrupy-project/syrupy)。
 
 ## 🧭 Practical evaluation
 

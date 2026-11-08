@@ -53,7 +53,10 @@ To adopt ZeroRelay, follow these steps:
 ZeroRelay is considered medium-production ready, making it suitable for:
 
 * **Prototypes**: ZeroRelay can be used as a proof-of-concept or prototype to test new ideas.
-* **Internal Workflows**: The project can be used within an
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kushal1o1/ZeroRelay).
 
 ### Русский
 

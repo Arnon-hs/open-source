@@ -40,8 +40,9 @@ To adopt techniq/layerchart, follow these steps:
 2. **Dependency and Maintenance Checks**: Verify that the library's dependencies are up-to-date and well-maintained to avoid potential issues in production.
 3. **Integration**: Integrate the techniq/layerchart components into your project, following the provided documentation and examples.
 
-**Production Readiness:**
-While techniq/layerchart is suitable for prototypes and internal workflows, its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/techniq/layerchart).
 
 ### Русский
 

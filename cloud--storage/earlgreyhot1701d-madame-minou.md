@@ -43,7 +43,11 @@ To adopt this project, follow these steps:
 5. Continuously monitor and evaluate the project's performance and stability.
 
 **Production Readiness:**
-While AI For Fun! Électrique Chats for Hack the Kitty, Built with
+While AI For Fun!
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/earlgreyhot1701D/madame-minou).
 
 ### Русский
 

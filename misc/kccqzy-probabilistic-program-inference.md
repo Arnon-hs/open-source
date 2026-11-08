@@ -42,7 +42,11 @@ To adopt Show HN, developers should:
 4. Consider integrating the project into their workflow, starting with prototype development or internal projects.
 
 **Production Readiness:**
-Show HN is considered medium-production ready, indicating it can be useful for prototype development or internal workflows. However, before deploying it in production, developers should thoroughly evaluate its stability, performance, and
+Show HN is considered medium-production ready, indicating it can be useful for prototype development or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kccqzy/probabilistic-program-inference/blob/master/README.md).
 
 ### Русский
 

@@ -55,7 +55,9 @@ The project has a medium level of production readiness, making it suitable for:
 * Proof-of-concept development
 * Evaluation of different scenarios and configurations
 
-However, users should exercise caution and perform thorough checks before deploying the project in production, as the quality signals are
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PxyUp/fitter).
 
 ### Русский
 

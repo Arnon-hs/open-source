@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** The adoption path for dhall-lang/dhall-lang is not immediately apparent from the metadata, requiring manual inspection and validation of the setup costs. This means that developers will need to carefully review the project's documentation and code before integrating it into their workflows. Additionally, they will need to perform dependency and maintenance checks before considering production-ready deployment.
 
-**Production Readiness:** The project is considered "Medium" in terms of production readiness, indicating that it is suitable for prototypes or internal workflows, but may not be ready for large-scale production use without further validation and testing. This
+**Production Readiness:** The project is considered "Medium" in terms of production readiness, indicating that it is suitable for prototypes or internal workflows, but may not be ready for large-scale production use without further validation and testing.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dhall-lang/dhall-lang).
 
 ### Русский
 

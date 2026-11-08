@@ -37,7 +37,11 @@ The primary value of this project lies in its ability to simplify the process of
 To adopt this project, developers should first manually inspect the integration signals and metadata to ensure they understand the instrumentation process. This may involve validating the setup cost and potential dependencies before committing to its use. Once the project is integrated, developers can use it to monitor systems, debug production behavior, and track service health.
 
 **Production Readiness:**
-The production readiness of this project is medium. While it is useful for internal workflows, prototypes, or development environments, it may not be suitable for production deployment without careful validation and setup. This
+The production readiness of this project is medium. While it is useful for internal workflows, prototypes, or development environments, it may not be suitable for production deployment without careful validation and setup.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/open-telemetry/opentelemetry-dotnet-instrumentation).
 
 ### Русский
 

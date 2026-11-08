@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt RCA-lab, users should first verify the project's license, maintenance, documentation, issues, and release cadence. They should also perform dependency and maintenance checks before using it in production. Once these checks are complete, users can integrate RCA-lab into their workflows, starting with prototyping AI features or building RAG or agent workflows.
 
-**Production Readiness:** RCA-lab has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but may not be suitable for production environments without further testing and validation. This is due to the
+**Production Readiness:** RCA-lab has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but may not be suitable for production environments without further testing and validation.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/coroot/rca-lab).
 
 ### Русский
 

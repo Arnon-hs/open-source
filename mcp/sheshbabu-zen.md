@@ -41,7 +41,10 @@ The primary value proposition of Zen lies in its ability to standardize integrat
 2. **Assess the Ecosystem**: Review the project's GitHub stars, forks, and recent activity to gauge its adoption and community support.
 3. **Review License and Security Posture**: Ensure that the project's license and security posture align with your organization's requirements.
 4. **Pilot Deployment**: Deploy Zen in a production-like environment to test its performance, scalability, and integration capabilities.
-5. **Integration and Customization**: Integrate Zen with your AI assistants and tools, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sheshbabu/zen).
 
 ### Русский
 

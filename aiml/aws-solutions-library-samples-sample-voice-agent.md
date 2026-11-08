@@ -41,8 +41,9 @@ To adopt this project, developers should follow these steps:
 3. Evaluate the project's license and ensure it aligns with the organization's policies.
 4. Assess the project's production readiness by considering factors such as dependency and maintenance checks.
 
-**Production Readiness:**
-The project has a medium production readiness score, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aws-solutions-library-samples/sample-voice-agent).
 
 ### Русский
 

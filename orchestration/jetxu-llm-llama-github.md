@@ -39,9 +39,9 @@ The primary value proposition of Llama-github lies in its ability to integrate L
 
 The adoption path for Llama-github is relatively straightforward, thanks to its exposure of implementation signals such as API/SDK/CLI, language metadata, and focused topics. Users can easily evaluate the library and integrate it into their existing workflows. The library's recent activity, adoption, and ecosystem signals are strong enough to warrant a serious pilot, indicating a high level of production readiness.
 
-**Production Readiness:**
+## Before adopting
 
-Llama-github has demonstrated a high level of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JetXu-LLM/llama-github).
 
 ### Русский
 

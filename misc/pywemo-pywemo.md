@@ -38,8 +38,9 @@ The value of PyWeMo lies in its ability to integrate with WeMo devices, making i
 3. Inspecting the project's dependencies and maintenance requirements to ensure they align with the organization's standards.
 4. Testing the project in a controlled environment to ensure it meets the project's requirements.
 
-**Production Readiness:**
-PyWeMo is considered medium production-ready, making it suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pywemo/pywemo).
 
 ### Русский
 

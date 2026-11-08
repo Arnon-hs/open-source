@@ -37,7 +37,11 @@ The primary value of this project lies in its ability to standardize integration
 To adopt this project, developers can start by exploring the API/SDK/CLI implementation signals, language metadata, and focused topics. The project's straightforward nature makes it suitable for prototype development and internal workflows. However, before production deployment, it is essential to conduct dependency and maintenance checks to ensure a smooth and secure experience.
 
 **Production Readiness:**
-The project's production readiness is rated as Medium, indicating that it is useful for prototypes or internal workflows but may require additional evaluation before being deployed in production environments. This rating is based on factors such as the project's GitHub activity, primary language, and topics, as well as the need for a final review of
+The project's production readiness is rated as Medium, indicating that it is useful for prototypes or internal workflows but may require additional evaluation before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xaviviro/Opendata.cat-MCP-Server).
 
 ### Русский
 

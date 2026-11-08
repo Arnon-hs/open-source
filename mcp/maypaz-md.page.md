@@ -38,7 +38,11 @@ maypaz/md.page offers a standardized protocol for connecting AI assistants to re
 To adopt maypaz/md.page, developers can start by evaluating its API, SDK, and CLI implementation signals. They can then connect their AI agents to various tools using the standard protocol, and integrate the engine with their existing infrastructure.
 
 **Production Readiness:**
-maypaz/md.page has a high production readiness score, thanks to its recent activity, adoption, and strong ecosystem signals. With 104 GitHub stars, 13 forks, and a primary language of TypeScript, the project appears well-maintained and suitable for serious pilots or production use. However, a final review of the license, security posture, and
+maypaz/md.page has a high production readiness score, thanks to its recent activity, adoption, and strong ecosystem signals. With 104 GitHub stars, 13 forks, and a primary language of TypeScript, the project appears well-maintained and suitable for serious pilots or production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/maypaz/md.page).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt dreadnode/rigging, developers should start by evaluating the framework through a small proof of concept and reviewing the README documentation. This will help them understand the framework's capabilities, limitations, and potential integration challenges. Once they have a basic understanding of the framework, they can begin integrating it into their project, taking into account any necessary dependency and maintenance checks.
 
-**Production Readiness:** The production readiness of dreadnode/rigging is rated as medium. While the framework is useful for prototyping or internal workflows, it may require additional checks and validation before being deployed in
+**Production Readiness:** The production readiness of dreadnode/rigging is rated as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dreadnode/rigging).
 
 ### Русский
 

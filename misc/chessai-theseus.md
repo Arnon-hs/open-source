@@ -44,9 +44,9 @@ To adopt theseus, developers can start by:
 3. Assessing the setup cost and validating it before committing to a larger project.
 4. Starting with a small-scale project or internal workflow to test the language's capabilities and identify potential issues.
 
-**Production Readiness**
+## Before adopting
 
-Theseus has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/chessai/theseus).
 
 ### Русский
 

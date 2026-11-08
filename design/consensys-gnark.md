@@ -39,9 +39,9 @@ The value proposition of Consensys/gnark lies in its ability to simplify the UI 
 
 To adopt Consensys/gnark, developers can start by evaluating the library's API and SDK to understand its implementation signals. They can then integrate the library into their project by following the guidelines provided in the documentation. With recent activity, adoption, and ecosystem signals, gnark is a production-ready library that is suitable for serious pilot adoption.
 
-**Production Readiness:**
+## Before adopting
 
-Consensys/gnark has a high production readiness score, indicating that it is a stable and reliable library that
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Consensys/gnark).
 
 ### Русский
 

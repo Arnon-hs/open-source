@@ -42,7 +42,11 @@ To adopt Captain-Miao, users should:
 4. Evaluate the project's quality signals, such as its update history and topic coverage.
 
 **Production Readiness:**
-Captain-Miao has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows. However, users should perform careful checks on the project's dependencies and maintenance before deploying it in
+Captain-Miao has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hyperlogue/captain-miao).
 
 ### Русский
 

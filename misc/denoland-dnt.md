@@ -41,7 +41,11 @@ Adopting denoland/dnt requires manual inspection and validation to ensure a smoo
 
 **Production Readiness:**
 
-While denoland/dnt is not yet fully production-ready, it can be a useful tool for prototyping and internal workflows. With some careful planning and validation, developers can leverage dnt to improve their frontend delivery and build product UI faster. However, it's crucial to consider the dependency and
+While denoland/dnt is not yet fully production-ready, it can be a useful tool for prototyping and internal workflows. With some careful planning and validation, developers can leverage dnt to improve their frontend delivery and build product UI faster.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/denoland/dnt).
 
 ### Русский
 

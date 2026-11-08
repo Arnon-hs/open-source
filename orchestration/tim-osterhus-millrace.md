@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** For practical adoption, it's recommended to start with a small proof of concept and carefully review the README documentation. This will help evaluate the feasibility of integrating Millrace into your existing infrastructure and identify potential challenges. With a solid understanding of the project's capabilities and limitations, you can begin to pilot Millrace in a production environment.
 
-**Production Readiness:** Millrace has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a robust and maintainable open-source project. While a final review of the license, security posture, and active maintainers is still necessary, Millrace's high production readiness score suggests that it's a viable candidate for
+**Production Readiness:** Millrace has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a robust and maintainable open-source project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tim-osterhus/millrace).
 
 ### Русский
 

@@ -41,7 +41,10 @@ To adopt OpenKeyring/oak-keyring, follow these steps:
 
 1. **Evaluate the project**: Review the codebase, documentation, and community feedback to ensure it aligns with your project's requirements.
 2. **Assess production readiness**: Consider the project's production readiness score (Medium in this case) and perform dependency and maintenance checks before deploying it in production.
-3. **Integrate with your project**: Expose implementation signals such as API/SDK/CLI, language metadata, or focused topics to integrate OpenKeyring/oak-keyring with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/OpenKeyring/oak-keyring).
 
 ### Русский
 

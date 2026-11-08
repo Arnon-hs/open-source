@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the open-source project "Show HN: Brew do
 
 **Practical Adoption Path:** To adopt this project, developers should start by manually inspecting the integration signals in the discovered metadata. They should then verify the license, maintenance, documentation, issues, and release cadence before using the project. This project is suitable for prototypes or internal workflows, but it may not be ready for production without further checks and validation.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, its production readiness is limited by the need for manual inspection, sparse integration signals, and limited quality signals. Before using this project in
+**Production Readiness:** The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows. However, its production readiness is limited by the need for manual inspection, sparse integration signals, and limited quality signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dbreunig/drskill).
 
 ### Русский
 

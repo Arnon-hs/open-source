@@ -42,9 +42,9 @@ The project's value lies in its ability to add a unique, hand-drawn touch to art
 3. **Quality Signal Verification:** Evaluate the project's quality signals, such as its license, documentation, issues, and release frequency, to assess its overall quality and support.
 4. **Testing and Integration:** Test the project in a controlled environment, integrating it with your existing workflow to ensure seamless operation.
 
-**Production Readiness:**
+## Before adopting
 
-Due to the project's limited quality signals and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/helloianneo/ian-xiaohei-illustrations).
 
 ### Русский
 

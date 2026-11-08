@@ -39,9 +39,9 @@ The value proposition of Cohort lies in its ability to turn isolated prompts and
 
 To adopt Cohort, users can start by exploring its API/SDK/CLI implementation signals, which provide a clear understanding of how to integrate the project into their existing workflows. Users can then begin by testing Cohort's features, such as tool-use pipelines and context governance, to see how they can be applied to their specific use cases. As users become more familiar with Cohort, they can gradually integrate it into their production environments.
 
-**Production Readiness:**
+## Before adopting
 
-Cohort's production readiness is high, with recent activity, adoption, and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/congchuanling-dot/Cohort).
 
 ### Русский
 
@@ -70,7 +70,10 @@ congchuanling-dot/Cohort 的生产可用性较高，理由如下：
 * 最近有活动
 * 有较强的采用和生态系统信号
 * GitHub 上有 108 个星星和 3 个分支
-* 最近更新时间为
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/congchuanling-dot/Cohort)。
 
 ## 🧭 Practical evaluation
 

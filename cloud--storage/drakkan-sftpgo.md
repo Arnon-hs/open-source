@@ -37,7 +37,11 @@ The primary value of drakkan/sftpgo lies in its ability to facilitate the search
 **Practical Adoption Path:**
 
 1. **Evaluation:** The project appears to be straightforward to evaluate, with clear implementation signals such as API, SDK, CLI, language metadata, and focused topics.
-2. **Pilot:** Given its high production readiness, drakkan/sftpgo is suitable for a serious pilot. This involves testing the project's capabilities, scalability, and
+2. **Pilot:** Given its high production readiness, drakkan/sftpgo is suitable for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/drakkan/sftpgo).
 
 ### Русский
 

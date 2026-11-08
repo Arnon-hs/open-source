@@ -39,9 +39,9 @@ The value proposition of DEEP-PolyU/Awesome-LLM-based-Text2SQL lies in its abili
 
 To adopt DEEP-PolyU/Awesome-LLM-based-Text2SQL, developers should manually inspect the project's metadata before integration to ensure a smooth setup process. This involves validating the setup cost and potential integration risks. Once the project is adopted, developers can leverage its resources to build and deploy AI-powered text-to-SQL interfaces.
 
-**Production Readiness:** 
+## Before adopting
 
-The project's production readiness is high, with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL).
 
 ### Русский
 

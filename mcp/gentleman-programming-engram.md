@@ -34,7 +34,11 @@ Gentleman-Programming/engram is an open-source, agent-agnostic persistent memory
 The primary value proposition of Gentleman-Programming/engram lies in its ability to transform isolated prompts and tools into repeatable agent workflows. This allows developers to streamline their AI coding processes, improve efficiency, and reduce errors. By providing a standardized memory system, engram enables the coordination of multi-agent tasks and the integration of various tools, making it an essential component for large-scale AI development projects.
 
 **Practical Adoption Path:**
-To adopt Gentleman-Programming/engram, developers should start by evaluating its feasibility through a small proof of concept and carefully reviewing the project's README documentation. Once familiar with the system's architecture and functionality, developers can begin integrating engram into their existing workflows. This may involve setting up the MCP server, configuring the HTTP API, and utilizing the CLI or TUI interfaces. With its
+To adopt Gentleman-Programming/engram, developers should start by evaluating its feasibility through a small proof of concept and carefully reviewing the project's README documentation. Once familiar with the system's architecture and functionality, developers can begin integrating engram into their existing workflows. This may involve setting up the MCP server, configuring the HTTP API, and utilizing the CLI or TUI interfaces.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Gentleman-Programming/engram).
 
 ### Русский
 

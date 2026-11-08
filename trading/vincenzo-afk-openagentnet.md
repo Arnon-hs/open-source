@@ -42,8 +42,9 @@ To adopt OpenAgentNet, users can follow these steps:
 4. Perform dependency and maintenance checks to ensure the project's stability and security.
 5. Continuously monitor and update the project to ensure its continued relevance and effectiveness.
 
-**Production Readiness:**
-OpenAgentNet has a medium level of production readiness, making it suitable for use in prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vincenzo-afk/OpenAgentNet).
 
 ### Русский
 

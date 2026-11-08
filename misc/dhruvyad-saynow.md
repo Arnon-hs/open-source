@@ -39,9 +39,9 @@ The value proposition of SayNow lies in its ability to facilitate the developmen
 
 To adopt SayNow, developers should first manually inspect the project's metadata to ensure a smooth integration. This involves verifying the project's license, maintenance history, documentation, issue tracker, and release cadence. Once these checks are complete, developers can prototype AI features, build RAG or agent workflows, and evaluate model tooling. However, due to the limited quality signals, it's essential to exercise caution and thoroughly test the project before integrating it into production environments.
 
-**Production Readiness:**
+## Before adopting
 
-SayNow is considered production-ready with medium readiness, indicating that it is useful for prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dhruvyad/saynow).
 
 ### Русский
 

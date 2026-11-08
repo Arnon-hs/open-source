@@ -39,9 +39,9 @@ The project's value lies in its ability to streamline development and review pro
 
 To adopt WiserHomeAssistantPlatform, engineers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then assess its production readiness by reviewing its dependencies, maintenance checks, and security posture. If the project meets their requirements, they can integrate it into their workflows, starting with prototype development or internal projects.
 
-**Production Readiness:**
+## Before adopting
 
-The project's production readiness is currently at a medium level due to the
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/asantaga/wiserHomeAssistantPlatform).
 
 ### Русский
 

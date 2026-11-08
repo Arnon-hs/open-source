@@ -41,7 +41,11 @@ To adopt igv.js, developers should first thoroughly inspect the project's README
 
 **Production Readiness**
 
-Igv.js has a medium production readiness score, making it suitable for prototypes or internal workflows. While it has a
+Igv.js has a medium production readiness score, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/igvteam/igv.js).
 
 ### Русский
 

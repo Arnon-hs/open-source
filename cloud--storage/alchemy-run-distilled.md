@@ -41,7 +41,11 @@ The adoption path for alchemy-run/distilled is straightforward, thanks to its cl
 
 **Production Readiness:**
 
-Alchemy-run/distilled has a high production readiness score, indicating that it's a stable and reliable solution. With 375 GitHub stars, 43 forks, and recent updates, the project demonstrates strong ecosystem signals. Additionally, its
+Alchemy-run/distilled has a high production readiness score, indicating that it's a stable and reliable solution. With 375 GitHub stars, 43 forks, and recent updates, the project demonstrates strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/alchemy-run/distilled).
 
 ### Русский
 

@@ -33,7 +33,9 @@ Crypto · Trading · Automation · AI/ML
 
 **Practical Adoption Path:** To adopt MIgHTy-alIeN/MEV-Ethereum-Trading-Bot, developers should start with a small proof of concept and thoroughly check the README documentation. While the integration path is not immediately obvious from metadata, the project's recent activity, adoption, and ecosystem signals indicate a strong foundation for a serious pilot.
 
-**Production Readiness:** MIgHTy-alIeN/MEV-Ethereum-Trading-Bot has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MIgHTy-alIeN/MEV-Ethereum-Trading-Bot).
 
 ### Русский
 

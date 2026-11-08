@@ -46,7 +46,11 @@ For developers looking to adopt this project, the path is relatively straightfor
 
 **Production Readiness:**
 
-The project exhibits strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity. With 277 GitHub stars and 36 forks, the project has a
+The project exhibits strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jinzcdev/markmap-mcp-server).
 
 ### Русский
 

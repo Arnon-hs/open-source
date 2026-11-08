@@ -43,11 +43,9 @@ To adopt InternNav, follow these steps:
 2. **Manual inspection**: Carefully review the project's README and activity to determine if it aligns with your specific workflow needs.
 3. **Integration and testing**: Integrate InternNav into your workflow and thoroughly test its functionality to ensure it meets your expectations.
 
-**Production Readiness**
+## Before adopting
 
-InternNav has medium production readiness, making it suitable for:
-
-1. **Prototypes**: InternNav can be used as a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/InternRobotics/InternNav).
 
 ### Русский
 

@@ -66,7 +66,10 @@ ligurio/awesome-ci 在生产环境中具有较高的可用性，理由如下：
 但是，也需要注意以下风险：
 
 - 接入路径并不明显。
--
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/ligurio/awesome-ci)。
 
 ## 🧭 Practical evaluation
 

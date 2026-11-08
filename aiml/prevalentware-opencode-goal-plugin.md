@@ -40,7 +40,10 @@ To adopt this plugin, developers can follow these steps:
 1. Evaluate the plugin's implementation signals, such as API/SDK/CLI, language metadata, and focused topics.
 2. Assess the plugin's production readiness, considering factors like recent activity, adoption, and ecosystem signals.
 3. Review the plugin's quality signals, including GitHub stars, forks, and updates.
-4. Conduct a final review of the plugin's license, security posture, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/prevalentWare/opencode-goal-plugin).
 
 ### Русский
 

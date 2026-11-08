@@ -44,7 +44,11 @@ Redpanda helps make internal knowledge searchable and usable by assistants, enab
 
 **Production Readiness:**
 
-Redpanda has a high production readiness score due to strong ecosystem signals, recent activity, and adoption. With 12,321 GitHub stars and
+Redpanda has a high production readiness score due to strong ecosystem signals, recent activity, and adoption.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/redpanda-data/redpanda).
 
 ### Русский
 
@@ -76,7 +80,10 @@ Redpanda 已经获得了较高的生产可用性评分，主要原因是：
 
 * 近期活动：Redpanda 有活跃的社区和维护人员。
 * 适度：Redpanda 已经被许多组织采用和部署。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/redpanda-data/redpanda)。
 
 ## 🧭 Practical evaluation
 

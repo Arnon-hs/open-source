@@ -79,7 +79,10 @@ Ever Traduora 的生产可用性很高，主要原因包括：
 * 最近的活跃度，采用度和生态系统信号都非常强劲
 * GitHub 上有 2122 个星星和 219 个分支
 * 最近更新时间为 2026-07-05
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/ever-co/ever-traduora)。
 
 ## 🧭 Practical evaluation
 

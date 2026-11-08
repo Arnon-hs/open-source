@@ -40,8 +40,9 @@ To adopt Zenbu-labs/terminal-browser, developers can follow these steps:
 2. **Install and configure the terminal browser**: Follow the setup instructions to install and configure the terminal browser within their terminal environment.
 3. **Integrate with existing tools and workflows**: Automate local engineering tasks and integrate the terminal browser with their existing development tools and workflows to maximize its benefits.
 
-**Production Readiness:** 
-The project is rated as "Medium" in terms of production readiness, indicating that it is suitable for use in prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zenbu-labs/terminal-browser).
 
 ### Русский
 

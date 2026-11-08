@@ -33,7 +33,9 @@ Orchestration · AI/ML
 
 **Practical Adoption Path:** To adopt Kubestellar/Hive, teams should first inspect the project's integration signals and metadata to ensure it meets their specific needs. This may involve manual evaluation and testing to identify potential issues or limitations. Once the project has been vetted, teams can start exploring its features and use cases, such as coordinating multi-agent workflows and standardizing agent memory. Before deploying the platform in production, teams should conduct thorough dependency and maintenance checks to ensure a smooth transition.
 
-**Production Readiness:** Kubestellar/Hive has a medium production readiness level, making it suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kubestellar/hive).
 
 ### Русский
 

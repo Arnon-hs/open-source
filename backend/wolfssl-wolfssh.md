@@ -38,7 +38,11 @@ The main value proposition of wolfSSH lies in its ability to facilitate the deve
 To adopt wolfSSH, developers can start by evaluating its API, SDK, and CLI implementations. They can also review the language metadata and focused topics to determine the best approach for their specific use case. Once familiar with the implementation, developers can integrate wolfSSH into their blockchain workflows, starting with simple use cases and gradually scaling up to more complex applications.
 
 **Production Readiness:**
-wolfSSH is considered production-ready due to its recent activity, strong adoption, and robust ecosystem signals. With over 480 GitHub stars and
+wolfSSH is considered production-ready due to its recent activity, strong adoption, and robust ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wolfSSL/wolfssh).
 
 ### Русский
 

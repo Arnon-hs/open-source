@@ -37,7 +37,11 @@ The primary value proposition of JsonStudio lies in its ability to help develope
 To adopt JsonStudio, developers can start by evaluating its feasibility through a small proof of concept and checking the README documentation. This will help them understand the integration path and potential setup costs. Once comfortable with the integration process, developers can begin using JsonStudio for their JSON tasks, potentially leading to improved workflow efficiency.
 
 **Production Readiness:**
-JsonStudio has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but requires dependency and maintenance checks before being used in production environments. With 138 GitHub stars and regular updates, the project appears to have a
+JsonStudio has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but requires dependency and maintenance checks before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sundegan/JsonStudio).
 
 ### Русский
 

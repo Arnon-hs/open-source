@@ -37,7 +37,11 @@ The ALEEEHU/World-Simulator helps developers add AI capability to their projects
 To adopt the ALEEEHU/World-Simulator, users need to manually inspect the project before integration due to sparse integration signals in the metadata. This requires careful evaluation of the project's setup cost and potential risks. Once integrated, users can leverage the project's resources to build prototypes, RAG or agent workflows, and evaluate model tooling.
 
 **Production Readiness:**
-The ALEEEHU/World-Simulator is rated as "Medium" in terms of production readiness, indicating that it is suitable for prototypes or internal workflows after careful dependency and maintenance checks. It is not yet ready for large-scale production environments due to the need for
+The ALEEEHU/World-Simulator is rated as "Medium" in terms of production readiness, indicating that it is suitable for prototypes or internal workflows after careful dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ALEEEHU/World-Simulator).
 
 ### Русский
 

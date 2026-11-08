@@ -41,7 +41,11 @@ To adopt the espressif/arduino-esp32 project, developers need to perform manual 
 
 **Production Readiness**
 
-The project demonstrates high production readiness, with strong signals of recent activity, adoption, and ecosystem support. With 17,175 GitHub stars, 7,903 forks, and regular updates, it is
+The project demonstrates high production readiness, with strong signals of recent activity, adoption, and ecosystem support.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/espressif/arduino-esp32).
 
 ### Русский
 

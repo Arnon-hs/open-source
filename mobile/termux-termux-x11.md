@@ -77,7 +77,10 @@ Termux X-server add-on 的生产可用性非常高，原因如下：
 
 * 最近的活动和采用信号表明该项目是活跃的。
 * GitHub 的星星数和分叉数也表明了该项目的受欢迎程度。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/termux/termux-x11)。
 
 ## 🧭 Practical evaluation
 

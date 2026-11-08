@@ -41,8 +41,9 @@ The project offers a Rust implementation of semver, which can be beneficial for 
 3. **Prototype or internal testing**: Use the project for prototype or internal testing to ensure it meets your needs and identify any potential issues.
 4. **Production deployment**: If the project meets your requirements and has been thoroughly tested, consider deploying it to production.
 
-**Production Readiness:**
-The project has a medium production readiness score, indicating that it's suitable for prototype or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dilukangelosl/rs-semver).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt kenn-io/kata, developers can start by evaluating the project through a 
 
 **Production Readiness:**
 
-kenn-io/kata has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but may require additional checks before being deployed in a production environment. The project's medium production readiness is due to the need for dependency and
+kenn-io/kata has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but may require additional checks before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kenn-io/kata).
 
 ### Русский
 
@@ -73,9 +77,11 @@ kenn-io/kata 的价值在于帮助开发人员快速添加 AI 能力，而无需
 
 **生产可用性**
 
-kenn-io/kata 的生产可用性为中等。它适用于以下场景：
+kenn-io/kata 的生产可用性为中等。
 
-*
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/kenn-io/kata)。
 
 ## 🧭 Practical evaluation
 

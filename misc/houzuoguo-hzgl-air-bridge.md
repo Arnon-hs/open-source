@@ -42,7 +42,11 @@ To adopt this project, users should follow these steps:
 4. **Verify License and Documentation**: Ensure the project's license and documentation align with the user's requirements and standards.
 
 **Production Readiness:**
-With a score of 41/100, this project is considered moderately production-ready. While it can
+With a score of 41/100, this project is considered moderately production-ready.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/HouzuoGuo/hzgl-air-bridge).
 
 ### Русский
 

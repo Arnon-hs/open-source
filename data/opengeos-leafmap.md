@@ -37,7 +37,11 @@ The primary value proposition of opengeos/leafmap lies in its ability to simplif
 To adopt opengeos/leafmap, users can start by evaluating the package through a small proof of concept and reviewing the README documentation. This will help them understand the package's functionality and ensure it meets their specific needs. Once the package is deemed suitable, users can integrate it into their existing workflows, starting with simple use cases and gradually scaling up to more complex applications.
 
 **Production Readiness:**
-opengeos/leafmap has demonstrated high production readiness, with recent activity, strong adoption, and a robust ecosystem. The package has
+opengeos/leafmap has demonstrated high production readiness, with recent activity, strong adoption, and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/opengeos/leafmap).
 
 ### Русский
 

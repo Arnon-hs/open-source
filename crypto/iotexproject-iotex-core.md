@@ -41,7 +41,10 @@ To adopt the IoTeX Core project, developers can follow these steps:
 
 1. **Evaluate the project**: Review the project's README, documentation, and codebase to understand its features, limitations, and potential use cases.
 2. **Build a small proof of concept**: Create a simple application or integration to test the project's capabilities and identify potential issues.
-3. **Inspect blockchain integrations**: Use the project to inspect and analyze blockchain workflows, identifying areas for
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/iotexproject/iotex-core).
 
 ### Русский
 

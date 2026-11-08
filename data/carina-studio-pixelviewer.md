@@ -37,7 +37,11 @@ The value of PixelViewer lies in its ability to facilitate the conversion of raw
 To adopt PixelViewer, users should start by evaluating its feasibility through a small proof of concept and carefully reviewing the project's README documentation. This will help identify potential integration challenges and validate the setup cost before committing to a full-scale implementation. Once the integration path is clear, users can proceed with integrating PixelViewer into their existing workflows.
 
 **Production Readiness:**
-PixelViewer is considered production-ready with some caveats. Its medium production readiness score indicates that it is suitable for prototypes or internal workflows, but users should conduct thorough dependency and maintenance checks before deploying it in a production environment. Additionally, users should be aware of the potential integration risks, such as the unclear integration path, and take necessary precautions to
+PixelViewer is considered production-ready with some caveats. Its medium production readiness score indicates that it is suitable for prototypes or internal workflows, but users should conduct thorough dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/carina-studio/PixelViewer).
 
 ### Русский
 

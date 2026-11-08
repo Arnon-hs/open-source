@@ -44,7 +44,9 @@ Before adopting this project, developers should carefully inspect the following:
 3. **License and maintenance**: Verify the project's license and ensure that it aligns with your organization's requirements. Also, assess the project's maintenance status and dependencies.
 4. **Integration signals**: Inspect the project's integration signals, such as examples, tests, and documentation, to ensure they match your specific workflow.
 
-Once these factors are
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/atoonk/go-afxdp).
 
 ### Русский
 

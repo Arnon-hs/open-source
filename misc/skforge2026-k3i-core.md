@@ -48,9 +48,9 @@ To adopt K3I-Core, follow these steps:
 3. Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your project's needs.
 4. Integrate K3I-Core into your project, taking into account any potential dependencies and maintenance requirements.
 
-**Production Readiness:**
+## Before adopting
 
-K3I-Core has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Skforge2026/k3i-core).
 
 ### Русский
 

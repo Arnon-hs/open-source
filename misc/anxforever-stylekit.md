@@ -40,7 +40,10 @@ The project offers a pre-packaged set of web design styles and AI capabilities, 
 2. Evaluate the project's compatibility with your existing technology stack and dependencies.
 3. Inspect the project's metadata and security posture to ensure it meets your organization's standards.
 4. Test the project in a controlled environment, such as a development or staging server, to ensure its stability and performance.
-5. Once satisfied with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AnxForever/stylekit).
 
 ### Русский
 

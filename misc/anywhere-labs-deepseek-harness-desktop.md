@@ -45,7 +45,11 @@ To adopt DeepSeek Harness Desktop, organizations can follow these steps:
 
 **Production Readiness:**
 
-DeepSeek Harness Desktop has a high level of production readiness, with recent activity, strong adoption, and a robust ecosystem. Its 6923 GitHub stars and 300 forks demonstrate its popularity, and its primary language of TypeScript ensures a stable and
+DeepSeek Harness Desktop has a high level of production readiness, with recent activity, strong adoption, and a robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/anywhere-labs/deepseek-harness-desktop).
 
 ### Русский
 

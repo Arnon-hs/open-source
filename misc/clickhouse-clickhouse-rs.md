@@ -41,8 +41,9 @@ To adopt ClickHouse/clickhouse-rs, follow these steps:
 3. Use it in your CI pipeline to improve feedback and catch errors early.
 4. Before moving to production, review the client's dependency and maintenance requirements to ensure they align with your project's needs.
 
-**Production Readiness:**
-While ClickHouse/clickhouse-rs has a medium production readiness score, it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ClickHouse/clickhouse-rs).
 
 ### Русский
 

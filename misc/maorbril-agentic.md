@@ -37,7 +37,11 @@ The primary value proposition of Agentic lies in its ability to simplify the dev
 Before adopting Agentic, users should carefully inspect the project's documentation, license, maintenance, and release cadence. The project's production readiness is rated as medium, indicating that it is suitable for prototype development or internal workflows but may require additional dependency and maintenance checks before being used in production environments. Users can start by exploring the project's GitHub repository, reviewing the codebase, and testing the functionality to ensure it meets their specific needs.
 
 **Production Readiness:**
-Agentic is considered production-ready with some caveats. Its medium production readiness rating indicates that it can
+Agentic is considered production-ready with some caveats.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MaorBril/agentic).
 
 ### Русский
 

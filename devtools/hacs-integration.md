@@ -44,7 +44,11 @@ To adopt HACS integration, follow these steps:
 3. Assess the project's license, security posture, and maintainers to ensure alignment with your project's needs.
 
 **Production Readiness:**
-HACS integration has a high production readiness score, indicating that it is suitable for serious pilots. Its recent activity, adoption, and strong ecosystem signals demonstrate its stability and reliability. With over 7,500 GitHub stars and
+HACS integration has a high production readiness score, indicating that it is suitable for serious pilots. Its recent activity, adoption, and strong ecosystem signals demonstrate its stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hacs/integration).
 
 ### Русский
 

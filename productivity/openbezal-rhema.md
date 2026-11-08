@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** The adoption path for openbezal/Rhema involves manual inspection and integration of the project's metadata. As the integration signals are sparse, users need to carefully review the project's dependencies and maintenance before adopting it in production. This process is recommended for prototype development, internal workflows, or proof-of-concept projects where the risks can be managed.
 
-**Production Readiness:** The production readiness of openbezal/Rhema is medium, indicating that it is suitable for use in production environments after thorough evaluation and dependency checks. However, users should still conduct a final review of
+**Production Readiness:** The production readiness of openbezal/Rhema is medium, indicating that it is suitable for use in production environments after thorough evaluation and dependency checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openbezal/rhema).
 
 ### Русский
 

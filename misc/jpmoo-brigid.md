@@ -41,7 +41,10 @@ As for the practical adoption path:
 Regarding production readiness, the project is rated as medium, indicating that it's suitable for:
 
 * **Prototypes**: Test and evaluate the project's features and workflow in a controlled environment.
-* **Internal workflows**: Use the project within your organization, but be prepared to perform additional checks and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jpmoo/brigid).
 
 ### Русский
 

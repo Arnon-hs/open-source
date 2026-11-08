@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by evaluating its implementation signals, such as API/SDK/CLI exposure, language metadata, and focused topics. They can then assess the project's production readiness, considering factors like recent activity, adoption, and ecosystem signals. Once satisfied with the project's stability and maintainability, developers can integrate it into their existing knowledge management systems, using it to index knowledge bases, improve search, and ground assistant answers.
 
-**Production Readiness:** The project has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals. With
+**Production Readiness:** The project has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/crutchcorn/cli-testing-library).
 
 ### Русский
 
@@ -61,11 +65,9 @@ crutchcorn/cli-testing-library 是一个开源项目，提供了简单而完整�
 2. 编写测试用例，使用该项目提供的 API 和工具
 3. 运行测试用例，检查 CLI 应用的行为和输出
 
-**生产可用性**
+## 采用前检查
 
-该项目具有高的生产可用性，因为它有以下特点：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/crutchcorn/cli-testing-library)。
 
 ## 🧭 Practical evaluation
 

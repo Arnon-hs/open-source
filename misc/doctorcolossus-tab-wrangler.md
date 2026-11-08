@@ -43,7 +43,10 @@ To adopt TUI for Tabaholics, follow these steps:
 2. Verify the project's license and maintenance status to ensure it aligns with your organization's needs.
 3. Perform a manual inspection of the code to ensure it meets your quality standards.
 4. Integrate the project into your workflow, starting with a prototype or internal project.
-5. Monitor the project's release cadence and update your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/doctorcolossus/tab_wrangler).
 
 ### Русский
 

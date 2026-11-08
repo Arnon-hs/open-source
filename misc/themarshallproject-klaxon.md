@@ -41,7 +41,11 @@ To adopt Klaxon, developers need to manually inspect the integration process, as
 
 **Production Readiness**
 
-Klaxon has a medium production readiness score, indicating that it is useful for prototypes or internal workflows, but may not be suitable for large-scale production environments without further dependency and maintenance checks. This is due to its integration complexities and the need for
+Klaxon has a medium production readiness score, indicating that it is useful for prototypes or internal workflows, but may not be suitable for large-scale production environments without further dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/themarshallproject/klaxon).
 
 ### Русский
 

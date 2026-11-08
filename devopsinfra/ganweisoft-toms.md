@@ -37,7 +37,11 @@ The primary value of TOMs lies in its ability to transform isolated tools and pr
 To adopt TOMs, users can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. The framework's recent activity, adoption, and strong ecosystem signals make it an attractive choice for serious pilots. Users can begin by integrating TOMs into their existing workflows and gradually standardizing their agent memory.
 
 **Production Readiness:**
-TOMs is considered production-ready due to its recent activity, adoption, and strong ecosystem signals. The project has a high GitHub star count (480) and has been actively maintained, with recent updates as of
+TOMs is considered production-ready due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ganweisoft/TOMs).
 
 ### Русский
 

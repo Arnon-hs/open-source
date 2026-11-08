@@ -43,7 +43,11 @@ To adopt Rakazo, users can follow these steps:
 5. Monitor and refine the workflow as needed to optimize performance and efficiency.
 
 **Production Readiness:**
-Rakazo exhibits strong production readiness signals, including recent activity, adoption, and ecosystem signals. With 282 GitHub stars, 25 forks, and
+Rakazo exhibits strong production readiness signals, including recent activity, adoption, and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/elie222/rakazo).
 
 ### Русский
 

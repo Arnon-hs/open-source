@@ -41,7 +41,11 @@ To adopt Valkey-WASM, teams should first verify the project's license, maintenan
 
 **Production Readiness**
 
-Valkey-WASM is considered production-ready with medium confidence. While it can be useful for prototyping and internal workflows, teams should exercise caution before deploying it in
+Valkey-WASM is considered production-ready with medium confidence.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/michaelkremenetsky/valkey-wasm/tree/main).
 
 ### Русский
 

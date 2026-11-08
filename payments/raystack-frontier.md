@@ -33,7 +33,11 @@ Payments · Security
 
 **Practical Adoption Path:** To adopt Frontier, organizations can start by evaluating its feasibility with a small proof of concept and reviewing the project's README documentation. This initial step will help identify potential integration challenges and ensure a smooth transition. Once the proof of concept is successful, organizations can proceed with integrating Frontier into their production environment.
 
-**Production Readiness:** Frontier has a high production-readiness score, indicating that it is suitable for serious pilots. The project's recent activity, adoption, and ecosystem signals suggest a strong and stable foundation. With 341 GitHub stars and 44 forks, Frontier has a significant community following, and its primary language, Go, is a popular choice for many organizations. However, it is essential to conduct a final review of the
+**Production Readiness:** Frontier has a high production-readiness score, indicating that it is suitable for serious pilots. The project's recent activity, adoption, and ecosystem signals suggest a strong and stable foundation. With 341 GitHub stars and 44 forks, Frontier has a significant community following, and its primary language, Go, is a popular choice for many organizations.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/raystack/frontier).
 
 ### Русский
 

@@ -70,7 +70,9 @@ Supabase/Realtime 的生产可用性很高，因为它有：
 * 强大的生态系统支持。
 * 高度评估的技术和安全性。
 
-但是，
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/supabase/realtime)。
 
 ## 🧭 Practical evaluation
 

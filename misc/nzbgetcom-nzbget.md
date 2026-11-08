@@ -39,7 +39,11 @@ The practical adoption path for nzbget involves several steps:
 2. Integration validation: Validate the integration path and setup cost to ensure it aligns with your specific needs.
 3. Dependency and maintenance checks: Verify the project's dependencies and maintenance requirements to ensure it is suitable for production use.
 
-Production readiness is considered medium, indicating that while nzbget is useful for certain applications, it may require additional validation and setup before being deployed in production environments. This is due to the potential complexities of integration and setup, which may require manual effort and
+Production readiness is considered medium, indicating that while nzbget is useful for certain applications, it may require additional validation and setup before being deployed in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nzbgetcom/nzbget).
 
 ### Русский
 

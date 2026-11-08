@@ -45,9 +45,9 @@ To adopt this project, developers should follow these steps:
 4. Manually inspect the dataset to ensure it meets their requirements.
 5. Integrate the dataset into their AI project, taking into account the sparse integration signals in the metadata.
 
-**Production Readiness:**
+## Before adopting
 
-The project has a medium production readiness score, indicating that it is suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ConorsCode/open-jobs-data).
 
 ### Русский
 

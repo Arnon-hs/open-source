@@ -33,7 +33,11 @@ AlexsJones/llmserve is an open-source, simple Text User Interface (TUI) for serv
 
 The value proposition of AlexsJones/llmserve lies in its ability to streamline the process of adding AI capabilities to projects, saving developers time and effort. The practical adoption path involves selecting a suitable LLM model and backend, serving it using the project's TUI, and validating the setup cost before committing to its use. While the project has a moderate number of GitHub stars and forks, users should exercise caution and manually inspect the code before adoption due to sparse integration signals in the metadata.
 
-Production readiness is rated as medium, indicating that AlexsJones/llmserve is suitable for prototypes or internal workflows but may require additional checks and validation before being deployed in production. This is due to
+Production readiness is rated as medium, indicating that AlexsJones/llmserve is suitable for prototypes or internal workflows but may require additional checks and validation before being deployed in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AlexsJones/llmserve).
 
 ### Русский
 

@@ -38,7 +38,11 @@ The primary value proposition of palantir/conjure lies in its ability to simplif
 To adopt palantir/conjure, teams should start with a small proof of concept and carefully review the project's README documentation. This will help them evaluate the feasibility of integrating the project into their existing infrastructure and workflows. Once they have a clear understanding of the project's capabilities and limitations, they can begin to integrate it into their production environment.
 
 **Production Readiness:**
-While palantir/conjure has a medium production readiness score, it is still a viable option for teams looking to build and deploy API services. The project has a decent number of GitHub stars and forks, indicating a moderate level of community engagement and support. However, teams should still exercise caution and
+While palantir/conjure has a medium production readiness score, it is still a viable option for teams looking to build and deploy API services. The project has a decent number of GitHub stars and forks, indicating a moderate level of community engagement and support.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/palantir/conjure).
 
 ### Русский
 

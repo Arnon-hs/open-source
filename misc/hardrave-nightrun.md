@@ -41,7 +41,11 @@ To adopt NightRun, users should first verify its quality signals, including its 
 
 **Production Readiness:**
 
-NightRun is considered production-ready with medium readiness, indicating that it is suitable for prototypes or internal workflows but may require additional evaluation and validation before being used in production environments. This is due to
+NightRun is considered production-ready with medium readiness, indicating that it is suitable for prototypes or internal workflows but may require additional evaluation and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hardrave/NIGHTRUN).
 
 ### Русский
 

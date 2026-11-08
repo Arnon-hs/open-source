@@ -43,7 +43,10 @@ To adopt Tesserae, follow these steps:
 2. **Proof of Concept**: Start with a small-scale proof of concept to test the integration and functionality.
 3. **README Check**: Review the project's documentation and guidelines to ensure understanding of its usage and configuration.
 4. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements to ensure they align with your team's needs.
-5. **Deployment**: Deploy Tesserae in a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dmellok/tesserae).
 
 ### Русский
 

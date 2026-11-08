@@ -35,7 +35,11 @@ Here's a brief summary and explanation:
 
 **Practical Adoption Path:** To adopt this project, developers need to manually inspect the tools and resources listed to ensure they meet their project's specific needs. They should also validate the setup costs and potential risks associated with each tool before committing to production. This process may require some trial and error, but it can help developers make informed decisions about which tools to use and how to integrate them into their projects.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but may not be suitable for production environments without further validation and testing. This is due to
+**Production Readiness:** The project has a medium production readiness score, indicating that it is useful for prototypes or internal workflows but may not be suitable for production environments without further validation and testing.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/eltociear/awesome-AI-driven-development).
 
 ### Русский
 

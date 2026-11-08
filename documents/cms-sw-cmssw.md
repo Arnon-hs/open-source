@@ -35,7 +35,9 @@ Here's a brief summary of the cms-sw/cmssw project:
 
 **Practical Adoption Path:** To adopt the cms-sw/cmssw project, developers should start by carefully reviewing the project's README and activity to ensure that it aligns with their specific workflow needs. A small proof of concept or pilot project can help evaluate the project's feasibility and potential integration challenges. Before committing to its use, developers should also perform dependency and maintenance checks to ensure that the project meets their production requirements.
 
-**Production Readiness:** The cms-sw/cmssw project has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cms-sw/cmssw).
 
 ### Русский
 

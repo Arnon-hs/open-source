@@ -35,7 +35,9 @@ Here's a brief summary and an explanation of the project's value, adoption path,
 
 **Adoption path:** To adopt Agentic Ship, users should follow a careful evaluation process. This involves manual inspection of the project's metadata, verification of its quality signals (e.g., recent updates, documentation, issue tracking), and checks on its maintenance, license, and release cadence. Once these checks are complete, users can integrate Agentic Ship into their existing workflows, starting with prototyping and internal testing before considering production deployment.
 
-**Production readiness:** Agentic Ship has a medium production readiness score, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/moasq/agentic-ship).
 
 ### Русский
 

@@ -43,7 +43,11 @@ To adopt GoodJsCode, developers should follow these steps:
 4. Monitor the project's activity and dependencies to ensure continued maintenance and support.
 
 **Production Readiness:**
-GoodJsCode is considered production-ready with medium confidence. While it has been updated recently and
+GoodJsCode is considered production-ready with medium confidence.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pH-7/GoodJsCode).
 
 ### Русский
 

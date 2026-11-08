@@ -38,7 +38,10 @@ Here's a brief summary and explanation of the project:
 1. **Manual Inspection:** Carefully review the project's documentation, issues, and release cadence to ensure it aligns with their needs.
 2. **Verify Dependencies:** Check the tool's dependencies and ensure they are compatible with their development environment.
 3. **Prototype and Test:** Use Tuneloop to prototype AI features, build RAGs or agent workflows, and evaluate model tooling.
-4. **Refine and Iterate:** Based on
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tuneloop/tuneloop).
 
 ### Русский
 

@@ -41,7 +41,11 @@ Here's a brief summary and analysis of the open-source project:
 4. Update the codebase to meet the project's specific needs.
 5. Integrate the system into the existing workflow or product.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows, but requires further checks and maintenance before being deployed in production. This is due to the sparse integration signals and
+**Production Readiness:** The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows, but requires further checks and maintenance before being deployed in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lyric777/Book-Management-System).
 
 ### Русский
 

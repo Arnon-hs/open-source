@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the open-source project:
 
 **Practical Adoption Path:** To adopt Orbital PAI, users should start by carefully reviewing the code, documentation, and issues to ensure they understand the tool's limitations and potential risks. They should also verify the license, maintenance, and release cadence to ensure the tool meets their project's needs. Once they have a clear understanding of the tool's capabilities and limitations, they can begin integrating Orbital PAI into their project.
 
-**Production Readiness:** Orbital PAI is considered medium-production ready, meaning it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Dream-Mosaic/orbital-pai).
 
 ### Русский
 

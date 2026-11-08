@@ -39,9 +39,9 @@ Earl's value proposition lies in its ability to help developers prototype or ins
 
 To adopt Earl, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. The project's straightforward integration process makes it easy to get started, and its recent activity, adoption, and ecosystem signals suggest a strong foundation for a serious pilot. With a high production readiness score, Earl is an excellent choice for developers looking to build secure and scalable blockchain applications.
 
-**Production Readiness**
+## Before adopting
 
-Earl's production readiness is high, with strong signals indicating its potential for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mathematic-inc/earl).
 
 ### Русский
 

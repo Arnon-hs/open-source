@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, developers can start by exploring the available prompts and code examples. They can then manually inspect and validate the code before integrating it into their own projects. This process requires some effort and attention to detail, but it allows developers to ensure that the code meets their specific needs and requirements.
 
-**Production Readiness:** The production readiness of pnp/copilot-prompts is rated as medium. While the project is useful for prototypes, internal workflows, or proof-of-concepts, it may require additional checks and validation before being deployed in a production environment. This is due to the need for manual inspection and potential integration issues, which can impact the reliability and maintainability of the
+**Production Readiness:** The production readiness of pnp/copilot-prompts is rated as medium. While the project is useful for prototypes, internal workflows, or proof-of-concepts, it may require additional checks and validation before being deployed in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pnp/copilot-prompts).
 
 ### Русский
 

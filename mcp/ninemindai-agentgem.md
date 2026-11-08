@@ -39,9 +39,9 @@ The value of AgentGem lies in its ability to standardize integrations between AI
 
 To adopt AgentGem, developers can start by exploring its API, SDK, and CLI implementation signals. They can also evaluate its language metadata and focused topics to determine its suitability for their specific use cases. With a straightforward evaluation process, developers can quickly assess the potential of AgentGem for their projects. The project's recent activity and strong ecosystem signals indicate a high level of production readiness, making it an attractive option for serious pilots.
 
-**Production Readiness:**
+## Before adopting
 
-AgentGem has demonstrated a high level of production readiness, with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ninemindai/agentgem).
 
 ### Русский
 

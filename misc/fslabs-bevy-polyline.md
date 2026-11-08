@@ -40,7 +40,9 @@ Here's a summary of the open-source project:
 3. Review the project's license, security posture, and maintainers to ensure they meet their project's requirements.
 4. Integrate the project into their workflow, following the provided implementation signals and guidelines.
 
-**Production Readiness:** fslabs/bevy_polyline has a medium level of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fslabs/bevy_polyline).
 
 ### Русский
 

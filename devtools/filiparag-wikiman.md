@@ -76,7 +76,10 @@ Wikiman 的主要价值在于，它可以帮助企业或组织内部知识变得
 Wikiman 的生产可用性较高，主要原因包括：
 
 1. 近期活动：最近有更新和维护迹象。
-2.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/filiparag/wikiman)。
 
 ## 🧭 Practical evaluation
 

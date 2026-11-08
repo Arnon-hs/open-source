@@ -43,7 +43,10 @@ To adopt this project, users can follow these steps:
 2. Assess the project's production readiness and risk factors, such as license, security posture, and active maintainers.
 3. Set up the project in a development environment to test its functionality and scalability.
 4. Integrate the project with other tools and systems to create repeatable flows and schedules.
-5. Monitor and maintain the project to ensure its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/titanwings/dsh-automation).
 
 ### Русский
 

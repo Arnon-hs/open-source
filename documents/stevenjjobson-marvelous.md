@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the Marvelous project:
 
 **Practical Adoption Path:** Before adopting Marvelous, it's essential to manually inspect the project's metadata, including its README, activity, and integration signals. This will help assess the project's quality, maintainability, and compatibility with existing workflows. Once verified, Marvelous can be integrated into a project's workflow, allowing developers to leverage its unique features and streamline their collaboration process.
 
-**Production Readiness:** Marvelous is considered "Medium" in terms of production readiness. While it can be useful for prototypes or internal workflows, it requires careful evaluation and verification before being deployed in production. This is due to the project's limited quality signals, making it essential to
+**Production Readiness:** Marvelous is considered "Medium" in terms of production readiness. While it can be useful for prototypes or internal workflows, it requires careful evaluation and verification before being deployed in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/stevenjjobson/marvelous).
 
 ### Русский
 

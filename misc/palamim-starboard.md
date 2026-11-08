@@ -41,7 +41,11 @@ To adopt this project, users should first manually inspect the code and its meta
 
 **Production Readiness**
 
-The project is considered medium-production ready, making it suitable for prototypes or internal workflows. However, before deploying it in a production environment, users should conduct thorough dependency and maintenance checks to
+The project is considered medium-production ready, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/palamim/starboard).
 
 ### Русский
 

@@ -55,7 +55,9 @@ Clipy/KeyHolder is considered production-ready with medium risk. While it has a 
 * Prototypes and internal workflows
 * Development environments where dependency and maintenance checks are feasible
 
-However, a final review of the
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Clipy/KeyHolder).
 
 ### Русский
 

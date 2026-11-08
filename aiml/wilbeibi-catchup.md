@@ -35,7 +35,11 @@ Here's a brief summary of the wilbeibi/catchup project:
 
 **Practical Adoption Path:** To adopt wilbeibi/catchup, developers can start by evaluating its straightforward integration signals, such as API/SDK/CLI, language metadata, or focused topics. They can then use the tool to prototype AI features, build workflows, and evaluate model tooling. However, it's essential to perform dependency and maintenance checks before considering production use.
 
-**Production Readiness:** wilbeibi/catchup is considered medium-production ready, making it suitable for prototypes or internal workflows. While it has some quality signals, such as 56 GitHub stars and regular updates, further review is needed for the license, security posture, and active maintainers to
+**Production Readiness:** wilbeibi/catchup is considered medium-production ready, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/wilbeibi/catchup).
 
 ### Русский
 

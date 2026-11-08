@@ -37,7 +37,11 @@ The primary value proposition of CoreProtect lies in its ability to help teams r
 To adopt CoreProtect, teams should begin by manually inspecting the integration process to ensure a smooth transition. This may involve validating the setup cost and potential dependencies before committing to the project. Once familiar with the integration process, teams can leverage CoreProtect to accelerate their development workflow and standardize their service patterns.
 
 **Production Readiness:**
-While CoreProtect has shown promise, its production readiness is categorized as medium. This classification suggests that the project is suitable for prototype development or internal workflows, but teams should exercise caution before deploying it in production. Thorough dependency and maintenance checks are
+While CoreProtect has shown promise, its production readiness is categorized as medium. This classification suggests that the project is suitable for prototype development or internal workflows, but teams should exercise caution before deploying it in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PlayPro/CoreProtect).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The value proposition of winapps-org/winapps lies in its ability to simplify the
 
 The adoption path for winapps-org/winapps is relatively straightforward. Users can start by evaluating the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics. Once familiar with the project's architecture and functionality, users can begin integrating winapps-org/winapps into their existing workflows. This may involve setting up the necessary dependencies, configuring the project, and testing its functionality.
 
-**Production Readiness:**
+## Before adopting
 
-winapps-org/winapps exhibits high production readiness, with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/winapps-org/winapps).
 
 ### Русский
 

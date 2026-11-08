@@ -70,7 +70,10 @@ Genblaze 在生产环境中有较高的可用性，主要原因是：
 
 * 近期活动：Genblaze 有活跃的维护者和社区。
 * 适用性：Genblaze 支持多种语言和提供者。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/backblaze-labs/genblaze)。
 
 ## 🧭 Practical evaluation
 

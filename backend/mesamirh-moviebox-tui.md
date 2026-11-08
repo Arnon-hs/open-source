@@ -39,7 +39,10 @@ The main value proposition of MovieBox-Tui lies in its ability to help developer
 1. **Evaluation:** Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to assess its suitability for your project.
 2. **Dependency and Maintenance Checks:** Perform a thorough review of the project's dependencies and maintenance requirements to ensure they align with your project's needs.
 3. **Prototype or Internal Workflow:** Use MovieBox-Tui for prototyping or internal workflows to test its capabilities and evaluate its performance.
-4. **Integration and Customization:** Integrate MovieBox-Tui into your project and customize it to meet your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mesamirh/MovieBox-Tui).
 
 ### Русский
 

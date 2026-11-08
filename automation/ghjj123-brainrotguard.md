@@ -39,7 +39,11 @@ Here's a brief summary of the open-source project:
 2. **Integration**: Integrate Brainrotguard with your existing tools and workflows to automate the approval process.
 3. **Configuration**: Configure the project to meet your specific requirements, such as setting up Telegram notifications and web UI access for kids.
 
-**Production Readiness:** Brainrotguard has a high production readiness score, indicating that it is suitable for serious pilots. Its recent activity, adoption, and
+**Production Readiness:** Brainrotguard has a high production readiness score, indicating that it is suitable for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GHJJ123/brainrotguard).
 
 ### Русский
 

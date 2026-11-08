@@ -37,7 +37,10 @@ As for the practical adoption path, here's a suggested step-by-step process:
 2. **Verify the license and dependencies**: Ensure that the project's license is compatible with your organization's requirements and that its dependencies are well-maintained and secure.
 3. **Inspect the code and documentation**: Review the project's codebase, documentation, and examples to understand its functionality and potential limitations.
 4. **Test the project in a controlled environment**: Set up a development environment to test the project's functionality and identify potential issues.
-5. **Integrate the project into your workflow**: Once you're satisfied with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/getorb/Orb-Backend).
 
 ### Русский
 

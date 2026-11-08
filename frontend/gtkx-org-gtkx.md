@@ -39,7 +39,9 @@ Frontend · Backend
 4. Start with a small-scale project or prototype to gain experience with the framework.
 5. Gradually scale up to more complex projects as you become more familiar with gtkx-org/gtkx.
 
-**Production Readiness:** gtkx-org/gtkx has a medium production readiness score, indicating that it's suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gtkx-org/gtkx).
 
 ### Русский
 

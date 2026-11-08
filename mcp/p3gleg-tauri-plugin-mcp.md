@@ -39,9 +39,9 @@ The primary value proposition of P3GLEG/tauri-plugin-mcp lies in its ability to 
 
 To adopt P3GLEG/tauri-plugin-mcp, developers should start with a small proof of concept and thoroughly review the README documentation. This will help evaluate the feasibility of integrating the plugin into their project. Once the proof of concept is successful, developers can proceed to integrate the plugin into their application, taking into account dependency and maintenance checks before production.
 
-**Production Readiness**
+## Before adopting
 
-P3GLEG/tauri-plugin-mcp is considered production-ready with a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/P3GLEG/tauri-plugin-mcp).
 
 ### Русский
 

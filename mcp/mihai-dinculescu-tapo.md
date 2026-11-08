@@ -39,9 +39,9 @@ The value of "mihai-dinculescu/tapo" lies in its ability to standardize integrat
 
 To adopt "mihai-dinculescu/tapo", developers can start by exploring the project's documentation and APIs. They can then integrate the project's Rust API, Python API, or MCP Server into their existing applications or services. The project's straightforward integration process and strong ecosystem signals make it an attractive choice for developers looking to connect AI assistants to real tools and data.
 
-**Production Readiness:**
+## Before adopting
 
-The project's high production readiness is due to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mihai-dinculescu/tapo).
 
 ### Русский
 

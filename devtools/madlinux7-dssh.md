@@ -50,7 +50,10 @@ madLinux7/dssh has demonstrated high production readiness due to:
 
 * Recent activity and adoption, with 85 GitHub stars and 4 forks.
 * Strong ecosystem signals, including an updated codebase and a primary language of Go.
-* Production-ready signals, such as
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/madLinux7/dssh).
 
 ### Русский
 

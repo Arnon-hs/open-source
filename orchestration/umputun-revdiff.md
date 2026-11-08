@@ -38,7 +38,11 @@ The value proposition of revdiff lies in its ability to streamline workflows and
 To adopt revdiff, users can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and dependencies. Once the proof of concept is successful, users can proceed to integrate revdiff into their workflows, taking care to perform dependency and maintenance checks to ensure production readiness.
 
 **Production Readiness:**
-Revdiff has a medium production readiness score, indicating that it is suitable for prototyping or internal workflows. However, careful evaluation and testing are necessary to
+Revdiff has a medium production readiness score, indicating that it is suitable for prototyping or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/umputun/revdiff).
 
 ### Русский
 

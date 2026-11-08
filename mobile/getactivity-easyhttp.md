@@ -41,7 +41,11 @@ To adopt getActivity/EasyHttp, developers can start by evaluating its implementa
 
 **Production Readiness:**
 
-getActivity/EasyHttp has a high production readiness score, indicating that it's a mature and reliable open-source project. Its
+getActivity/EasyHttp has a high production readiness score, indicating that it's a mature and reliable open-source project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/getActivity/EasyHttp).
 
 ### Русский
 

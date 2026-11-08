@@ -36,8 +36,9 @@ The value proposition of FckSignups lies in its ability to simplify the process 
 **Practical Adoption Path:**
 To adopt FckSignups, developers should first review the project's documentation, issues, and release cadence to ensure that it meets their needs. They should then manually inspect the code and dependencies to verify that it is suitable for their use case. Once they have a clear understanding of the project's features and limitations, they can begin integrating it into their workflow.
 
-**Production Readiness:**
-FckSignups has a medium level of production readiness, meaning that it is suitable for use in prototype development or internal workflows, but may require additional dependency and maintenance checks before being used in a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/BraveOPotato/FckSignups).
 
 ### Русский
 

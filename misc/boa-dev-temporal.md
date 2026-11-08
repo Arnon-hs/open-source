@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt boa-dev/temporal, teams should start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help identify potential integration challenges and ensure that the project aligns with their specific requirements. Once the feasibility is established, teams can begin integrating the project into their development workflow, starting with prototype development or internal workflows.
 
-**Production Readiness:** boa-dev/temporal has a medium production readiness score, indicating that it is suitable for prototype development and internal workflows, but may require additional checks and validation before being used in production environments. This is due to the
+**Production Readiness:** boa-dev/temporal has a medium production readiness score, indicating that it is suitable for prototype development and internal workflows, but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/boa-dev/temporal).
 
 ### Русский
 

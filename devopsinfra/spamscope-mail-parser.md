@@ -72,7 +72,10 @@ SpamScope/mail-parser 支持以下接入方式：
 SpamScope/mail-parser 的生产可用性很高，理由如下：
 
 * 有 454 个 GitHub 星星，110 个 Fork，表明其受欢迎程度
-* 最近更新时间为
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/SpamScope/mail-parser)。
 
 ## 🧭 Practical evaluation
 

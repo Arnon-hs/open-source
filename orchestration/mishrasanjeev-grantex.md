@@ -36,7 +36,10 @@ Orchestration · MCP · AI/ML · Libraries & SDKs · Security
 1. **Integration**: Developers can integrate Grantex into their AI agents and workflows in minutes, thanks to its universal SDK and cloud service.
 2. **Evaluation**: The project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, make it easy to evaluate and understand its functionality.
 3. **Prototype and Test**: Grantex can be used to prototype and test blockchain workflows, wallet features, and DeFi integrations, allowing developers to experiment and refine their ideas.
-4. **Production-Ready**: With its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mishrasanjeev/grantex).
 
 ### Русский
 

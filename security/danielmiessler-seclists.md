@@ -42,7 +42,10 @@ To adopt SecLists, follow these steps:
 1. **Evaluate and review the project**: Check the README file, documentation, and code quality to ensure it meets your project's requirements.
 2. **Start with a small proof of concept**: Integrate SecLists into a small part of your project to test its feasibility and effectiveness.
 3. **Assess the license and security posture**: Verify that the license and security posture align with your project's needs and standards.
-4. **Monitor the project's activity and maintainers**: Keep an eye on the project's recent activity, maintainers, and community engagement to ensure its continued support and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/danielmiessler/SecLists).
 
 ### Русский
 

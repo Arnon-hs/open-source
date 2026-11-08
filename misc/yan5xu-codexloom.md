@@ -41,7 +41,10 @@ To adopt Codexloom, users should follow these steps:
 2. Verify the project's license, maintenance, and release cadence to ensure it aligns with their needs.
 3. Evaluate the project's quality signals, such as the number of updates and topics, to gauge its reliability.
 4. Test the project in a controlled environment to ensure it meets their requirements.
-5. Integrate the project into their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yan5xu/codexloom).
 
 ### Русский
 

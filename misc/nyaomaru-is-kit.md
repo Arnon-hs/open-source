@@ -40,10 +40,9 @@ The primary value of is-kit lies in its potential to streamline concrete workflo
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies, maintenance schedule, and release cadence to ensure it aligns with your organization's standards.
 3. **Prototype or Internal Workflow**: Start by using is-kit in a prototype or internal workflow to test its effectiveness and identify potential issues.
 
-**Production Readiness:**
-is-kit is considered production-ready with medium quality, making it suitable for:
+## Before adopting
 
-* Prototypes: Test is-kit in a controlled environment to evaluate its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nyaomaru/is-kit).
 
 ### Русский
 

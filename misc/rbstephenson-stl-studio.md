@@ -38,11 +38,9 @@ Practical adoption path:
 3. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance history to ensure they align with your production environment and requirements.
 4. **Testing and Evaluation**: Conduct thorough testing and evaluation of the project in a controlled environment to identify any potential issues or limitations.
 
-Production readiness:
+## Before adopting
 
-STL Studio is considered **Medium** production readiness, making it suitable for:
-
-1. **Prototyping**: Use STL Studio as a proof-of-concept or prototype to test its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/RBStephenson/STL-Studio).
 
 ### Русский
 

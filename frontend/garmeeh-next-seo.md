@@ -37,7 +37,11 @@ The value proposition of Next SEO lies in its ability to streamline SEO manageme
 To adopt Next SEO, developers should start with a small proof of concept and carefully review the README documentation. This will help them understand the plugin's functionality and potential integration challenges. With a clear understanding of the plugin's capabilities and limitations, developers can then evaluate its feasibility for their specific project needs.
 
 **Production Readiness:**
-Next SEO has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its stability and reliability. Its high production readiness score is supported by factors such as 8,496 GitHub stars, 453 forks, and regular updates. However, it's essential to conduct a final review of the
+Next SEO has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its stability and reliability. Its high production readiness score is supported by factors such as 8,496 GitHub stars, 453 forks, and regular updates.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/garmeeh/next-seo).
 
 ### Русский
 

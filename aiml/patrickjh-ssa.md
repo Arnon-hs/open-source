@@ -33,7 +33,11 @@ AI/ML
 
 **Practical Adoption Path:** To adopt this project, developers should first manually inspect the code and its dependencies to ensure they are compatible with their existing infrastructure. They should also verify the license, maintenance, documentation, issues, and release cadence before using it. Once these checks are complete, developers can integrate the AI agent into their system and start building AI-powered workflows.
 
-**Production Readiness:** The project is considered medium production-ready, meaning it is suitable for internal workflows or prototyping, but may not be ready for production environments without further testing and validation. Before deploying it in production, developers should thoroughly test the AI agent and its dependencies to ensure they are
+**Production Readiness:** The project is considered medium production-ready, meaning it is suitable for internal workflows or prototyping, but may not be ready for production environments without further testing and validation.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/patrickjh/ssa).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt RF-DETR, users can start by reviewing its README and evaluating its fea
 
 **Production Readiness:**
 
-RF-DETR has high production readiness due to its recent activity, strong adoption, and positive ecosystem signals. With 8238 GitHub stars and 1041 forks, it has a large and engaged community of developers and
+RF-DETR has high production readiness due to its recent activity, strong adoption, and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/roboflow/rf-detr).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt Graphite-Web, users can start with a small proof of concept to evaluate
 
 **Production Readiness**
 
-Graphite-Web is considered highly production-ready, with strong signals of recent activity, adoption, and ecosystem support. Its recent update on July 19, 2026, indicates that the project is actively maintained, and its large community of users (6101 GitHub stars and
+Graphite-Web is considered highly production-ready, with strong signals of recent activity, adoption, and ecosystem support.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/graphite-project/graphite-web).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt UnifAI, users can start by:
 1. Evaluating the project's API, SDK, and CLI to understand its implementation signals.
 2. Assessing the language metadata and focused topics to determine its relevance to their use case.
 3. Exploring the project's GitHub repository, including its stars, forks, and update history, to gauge its adoption and ecosystem signals.
-4. Reviewing the project's license, security posture, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/redhat-community-ai-tools/UnifAI).
 
 ### Русский
 

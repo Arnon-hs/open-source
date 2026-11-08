@@ -72,7 +72,10 @@ delimit-ai/delimit-mcp-server 的生产可用性较高，主要原因是：
 
 * 最近有活动和采用。
 * 生态系统信号强大。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/delimit-ai/delimit-mcp-server)。
 
 ## 🧭 Practical evaluation
 

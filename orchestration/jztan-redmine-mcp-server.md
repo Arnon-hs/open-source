@@ -39,7 +39,10 @@ To adopt jztan/redmine-mcp-server, users can follow these steps:
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, and focused topics, to ensure it meets their needs.
 2. Assess the project's production readiness, considering factors like recent activity, adoption, and ecosystem signals.
 3. Review the project's license, security posture, and active maintainers to ensure it aligns with their organization's standards.
-4. Integrate the MCP server with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jztan/redmine-mcp-server).
 
 ### Русский
 

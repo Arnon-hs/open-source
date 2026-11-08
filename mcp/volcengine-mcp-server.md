@@ -41,7 +41,11 @@ To adopt the volcengine/mcp-server project, developers can start by evaluating i
 
 **Production Readiness:**
 
-The volcengine/mcp-server project is considered production-ready, but with some caveats. It has a medium production readiness score, indicating that it is
+The volcengine/mcp-server project is considered production-ready, but with some caveats.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/volcengine/mcp-server).
 
 ### Русский
 

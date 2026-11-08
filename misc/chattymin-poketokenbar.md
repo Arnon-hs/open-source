@@ -44,9 +44,9 @@ To adopt PokeTokenBar, users should follow these steps:
 3. **Testing**: Thoroughly test the project in a controlled environment to identify any potential issues or limitations.
 4. **Production Deployment**: Once satisfied with the results, deploy PokeTokenBar in a production-ready environment, ensuring proper monitoring and maintenance.
 
-**Production Readiness:**
+## Before adopting
 
-PokeTokenBar is considered **Medium** in
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/chattymin/PokeTokenBar).
 
 ### Русский
 

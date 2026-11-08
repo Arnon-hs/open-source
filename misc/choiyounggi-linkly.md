@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt Linkly, developers can start by manually inspecting the project to ensure its compatibility with their specific use case. Due to limited integration signals in the discovered metadata, users should carefully evaluate the project's quality signals, such as its update history, documentation, and release cadence. Once verified, users can integrate Linkly into their internal workflows or prototypes, taking note of potential dependencies and maintenance requirements.
 
-**Production Readiness:** Linkly is considered "medium" in terms of production readiness, making it suitable for internal workflows or prototypes rather than production environments. This is due to the project's limited quality signals and the need for
+**Production Readiness:** Linkly is considered "medium" in terms of production readiness, making it suitable for internal workflows or prototypes rather than production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/choiyounggi/linkly/releases).
 
 ### Русский
 

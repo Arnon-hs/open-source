@@ -37,7 +37,11 @@ The value proposition of Algebruh lies in its ability to add AI capability to pr
 
 **Practical Adoption Path:**
 
-To adopt Algebruh, developers can start by exploring its use cases, such as prototyping AI features or building RAG (Robot Action Graph) or agent workflows. Before adopting the project, it's essential to perform manual inspection and verify the license, maintenance, documentation, issues, and release cadence. This will help ensure that the project meets the necessary quality standards and is suitable for
+To adopt Algebruh, developers can start by exploring its use cases, such as prototyping AI features or building RAG (Robot Action Graph) or agent workflows. Before adopting the project, it's essential to perform manual inspection and verify the license, maintenance, documentation, issues, and release cadence.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/skorotkiewicz/algebruh).
 
 ### Русский
 

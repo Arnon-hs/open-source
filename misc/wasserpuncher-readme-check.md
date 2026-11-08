@@ -41,7 +41,11 @@ The project's value lies in its ability to help developers and users verify the 
 3. **Integration:** Once the project has been verified, users can integrate it into their workflow, taking into account the sparse integration signals discovered during the audit process.
 
 **Production Readiness:**
-The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows after dependency and maintenance checks. However, it may not be suitable for
+The project has a medium production readiness score, indicating that it can be useful for prototypes or internal workflows after dependency and maintenance checks.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Wasserpuncher/readme-check).
 
 ### Русский
 

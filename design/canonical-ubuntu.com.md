@@ -45,7 +45,11 @@ To adopt canonical/ubuntu.com, users should follow these steps:
 
 **Production Readiness**
 
-Canonical/ubuntu.com has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, due to its
+Canonical/ubuntu.com has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/canonical/ubuntu.com).
 
 ### Русский
 

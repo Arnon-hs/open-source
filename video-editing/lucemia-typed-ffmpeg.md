@@ -37,7 +37,11 @@ The value proposition of typed-ffmpeg lies in its ability to provide a concrete 
 To adopt typed-ffmpeg in a project, developers can start by evaluating its README and activity to ensure it matches their specific use case. A small proof of concept can help assess the feasibility of integrating typed-ffmpeg into their workflow. With a strong ecosystem and recent activity, developers can be confident in its production readiness and integrate it into their projects with minimal risk.
 
 **Production Readiness:**
-typed-ffmpeg has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals. With 1157 GitHub stars and
+typed-ffmpeg has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lucemia/typed-ffmpeg).
 
 ### Русский
 

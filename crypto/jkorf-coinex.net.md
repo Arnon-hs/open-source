@@ -40,7 +40,9 @@ Here's a brief summary and explanation of the project:
 3. Import the necessary models and APIs into their project.
 4. Use the library to interact with the CoinEx platform, either through REST or Websocket APIs.
 
-**Production Readiness:** JKorf/CoinEx.Net has a high production readiness score due to its recent activity, adoption, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JKorf/CoinEx.Net).
 
 ### Русский
 

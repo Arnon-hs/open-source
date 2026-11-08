@@ -39,7 +39,11 @@ Misc
 4. Check the project's documentation, issues, and release notes to understand its current state.
 5. Perform dependency and maintenance checks before integrating the project into your workflow.
 
-**Production Readiness:** OpenLieroX is considered medium-production ready, making it suitable for prototypes or internal workflows. However, users should exercise caution and
+**Production Readiness:** OpenLieroX is considered medium-production ready, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/openlierox/openlierox).
 
 ### Русский
 

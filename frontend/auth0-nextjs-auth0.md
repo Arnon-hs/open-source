@@ -42,8 +42,9 @@ To adopt auth0/nextjs-auth0, developers can follow these steps:
 3. Configure the Auth0 settings and test the authentication flow.
 4. Refine the integration as needed to meet their specific use case requirements.
 
-**Production Readiness:**
-Auth0/nextjs-auth0 has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/auth0/nextjs-auth0).
 
 ### Русский
 

@@ -45,7 +45,11 @@ To adopt huggingface/hub-docs, users should follow these steps:
 
 **Production Readiness:**
 
-huggingface/hub-docs is considered medium-production-ready, making it suitable for prototypes or internal workflows. However, users should perform dependency and maintenance checks before deploying it in a production environment. This ensures that the documentation is properly integrated and
+huggingface/hub-docs is considered medium-production-ready, making it suitable for prototypes or internal workflows. However, users should perform dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/huggingface/hub-docs).
 
 ### Русский
 

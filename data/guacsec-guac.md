@@ -41,9 +41,9 @@ The value proposition of GUAC lies in its ability to accelerate the development 
 
 To adopt GUAC, users can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. Once familiar with the project's capabilities and requirements, users can begin integrating GUAC into their existing workflows. This may involve setting up the graph database, importing security metadata, and building AI models on top of the aggregated data.
 
-**Production Readiness**
+## Before adopting
 
-GUAC is considered production-ready for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/guacsec/guac).
 
 ### Русский
 

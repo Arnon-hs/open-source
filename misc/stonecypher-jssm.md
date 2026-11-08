@@ -39,9 +39,9 @@ The primary value of StoneCypher/jssm lies in its ability to make internal knowl
 
 To adopt StoneCypher/jssm, developers can start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help them understand the project's capabilities and potential issues. Next, they can integrate the FSM into their existing systems, starting with a small pilot project to test its performance and scalability. With a robust ecosystem and recent activity, StoneCypher/jssm is a promising choice for building knowledge management systems.
 
-**Production Readiness**
+## Before adopting
 
-StoneCypher/jssm is highly production-ready, thanks to its
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/StoneCypher/jssm).
 
 ### Русский
 

@@ -37,7 +37,10 @@ As for the practical adoption path, here's a step-by-step guide:
 2. **Verify quality signals**: Due to limited quality signals, developers should verify the project's quality by checking updates, topics, and other relevant metrics.
 3. **Evaluate dependencies**: Assess the project's dependencies and ensure they align with your project's requirements.
 4. **Test and integrate**: Once the project's quality and dependencies are verified, test and integrate it into your workflow.
-5. **Maintain and monitor**: Continuously monitor the project's performance, maintenance, and updates to ensure its stability and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PJHkorea/photonic-mesh-fng-router).
 
 ### Русский
 

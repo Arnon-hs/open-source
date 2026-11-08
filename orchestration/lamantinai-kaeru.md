@@ -38,7 +38,10 @@ To adopt LamantinAI/kaeru, follow these steps:
 
 1. **Evaluate the project**: Assess the project's features, documentation, and community support to ensure it aligns with your needs.
 2. **Integrate with your LLM agents**: Use the exposed API/SDK/CLI to integrate LamantinAI/kaeru with your existing LLM agents.
-3. **Configure and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LamantinAI/kaeru).
 
 ### Русский
 

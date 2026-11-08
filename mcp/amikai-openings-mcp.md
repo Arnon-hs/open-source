@@ -44,9 +44,9 @@ To adopt this project, developers can follow these steps:
 3. Review the project's license, security posture, and active maintainers to ensure it aligns with their organization's standards.
 4. Integrate the MCP server with their AI agent and tools, leveraging the standardized protocol to enable seamless interactions.
 
-**Production Readiness**
+## Before adopting
 
-The project's production readiness is rated as medium, indicating that
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/amikai/openings-mcp).
 
 ### Русский
 

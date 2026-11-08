@@ -41,7 +41,11 @@ To adopt Show HN, users should manually inspect the project's documentation, act
 
 **Production Readiness**
 
-Show HN is considered production-ready with a medium level of readiness. While it may be useful for prototypes or internal workflows, users should perform thorough dependency and maintenance checks before deploying it in a production environment. This
+Show HN is considered production-ready with a medium level of readiness. While it may be useful for prototypes or internal workflows, users should perform thorough dependency and maintenance checks before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/leandrobon/mutable-crm).
 
 ### Русский
 

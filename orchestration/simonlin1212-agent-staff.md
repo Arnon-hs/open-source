@@ -41,7 +41,10 @@ The value of Agent-Staff lies in its ability to:
 To adopt Agent-Staff, follow these steps:
 
 1. **Evaluate the project**: Assess the project's documentation, code quality, and community engagement to ensure it meets your organization's needs.
-2. **Set up the infrastructure**: Install the necessary dependencies and configure the project to integrate with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/simonlin1212/Agent-Staff).
 
 ### Русский
 

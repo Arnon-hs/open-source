@@ -42,7 +42,10 @@ To adopt this model, developers should follow these steps:
 1. **Manual Inspection**: Carefully review the model's documentation, GitHub repository, and release history to ensure it meets their project's requirements.
 2. **Verify Quality Signals**: Check the model's GitHub stars, last update date, and primary language to gauge its popularity and maintenance activity.
 3. **Evaluate Model Performance**: Assess the model's performance on relevant tasks and datasets to determine its suitability for the project.
-4. **Integrate with Care**: Manually inspect the model's integration signals and ensure a smooth integration with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/Helsinki-NLP/opus-mt-nl-en).
 
 ### Русский
 

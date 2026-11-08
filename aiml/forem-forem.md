@@ -41,8 +41,9 @@ To adopt this project, developers should follow these steps:
 3. Evaluate the project's quality signals, which are limited, and consider the risks associated with its use.
 4. Use the project in a prototype or internal workflow, and perform dependency and maintenance checks before considering production deployment.
 
-**Production Readiness:**
-The project has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows, but may require additional checks and validation before being deployed in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/forem/forem).
 
 ### Русский
 

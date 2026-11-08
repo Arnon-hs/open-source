@@ -38,7 +38,11 @@ Automation · AI/ML · Communication · Backend · Mobile
 3. Set up the desired forwarding rules to send messages, calls, and app notifications to various destinations.
 4. Use the remote control features to send messages, check messages, check call logs, and check battery levels.
 
-**Production Readiness:** SmsForwarder has high production readiness, with strong signals of recent activity, adoption, and ecosystem support. The project has been updated recently, and its
+**Production Readiness:** SmsForwarder has high production readiness, with strong signals of recent activity, adoption, and ecosystem support.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pppscn/SmsForwarder).
 
 ### Русский
 

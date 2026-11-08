@@ -37,7 +37,11 @@ The primary value proposition of Mercure lies in its ability to simplify the int
 To adopt Mercure, developers can follow a straightforward integration process that exposes API/SDK/CLI implementation signals. This makes it easy to evaluate and integrate Mercure into existing projects. The project's recent activity and strong adoption suggest that it is well-maintained and reliable, reducing the risk of adoption.
 
 **Production Readiness:**
-Mercure has a high production readiness score due to its recent activity, strong adoption, and ecosystem signals. This indicates that the project is well-maintained and can be considered for serious pilot projects. However, a final review of
+Mercure has a high production readiness score due to its recent activity, strong adoption, and ecosystem signals. This indicates that the project is well-maintained and can be considered for serious pilot projects.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dunglas/mercure).
 
 ### Русский
 

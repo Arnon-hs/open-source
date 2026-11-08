@@ -44,9 +44,9 @@ To adopt f-is-h/Usage4Claude, developers can follow these steps:
 3. Assess the setup cost and validate it before committing to the project.
 4. Use the application to monitor Claude/Codex usage limits and adjust their AI workflows accordingly.
 
-**Production Readiness:**
+## Before adopting
 
-f-is-h/Usage4Claude is considered medium-production-ready, making it suitable for prototypes, internal workflows, or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/f-is-h/Usage4Claude).
 
 ### Русский
 

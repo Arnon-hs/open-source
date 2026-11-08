@@ -38,7 +38,11 @@ FlareMo's primary value lies in its ability to standardize integrations between 
 To adopt FlareMo, developers can start by exploring its documentation and API references. They can then integrate the Memos compatible API into their AI assistants or tools, taking advantage of the standard protocol to connect with various applications. The project's recent activity and strong ecosystem signals make it an attractive choice for serious pilots.
 
 **Production Readiness:**
-FlareMo demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for deployment. The project's TypeScript language and 157 GitHub stars also contribute to its production readiness. However, a final review of
+FlareMo demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for deployment. The project's TypeScript language and 157 GitHub stars also contribute to its production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/realchendahuang/FlareMo).
 
 ### Русский
 

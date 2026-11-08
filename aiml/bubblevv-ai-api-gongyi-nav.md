@@ -42,7 +42,11 @@ To adopt this project, developers can follow these steps:
 4. Test and refine the integration to ensure it meets their requirements.
 
 **Production Readiness:**
-The project is considered "Medium" in terms of production readiness. While it is
+The project is considered "Medium" in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bubblevv/ai-api-gongyi-nav).
 
 ### Русский
 

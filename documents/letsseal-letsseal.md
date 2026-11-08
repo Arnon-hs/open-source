@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** Before adopting "Let's Seal", it's essential to manually inspect the project's README, activity, and other metadata to ensure it matches your specific workflow. This involves verifying the project's documentation, issue tracker, and release cadence to gauge its quality and reliability.
 
-**Production Readiness:** While "Let's Seal" has some potential, its production readiness is rated as medium. This means it might be suitable for prototype development or internal workflows, but it's crucial to perform thorough dependency and maintenance checks before considering it for production use. Additionally, users should carefully verify the project's license, maintenance, documentation, issues, and release cadence to
+**Production Readiness:** While "Let's Seal" has some potential, its production readiness is rated as medium. This means it might be suitable for prototype development or internal workflows, but it's crucial to perform thorough dependency and maintenance checks before considering it for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/letsseal/letsseal).
 
 ### Русский
 

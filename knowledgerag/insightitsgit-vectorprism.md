@@ -40,7 +40,9 @@ This project, "Standard RAG returns funny neighbors. Multi-vector fixes the sign
 3. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements to ensure they align with your production environment.
 4. **Testing and Validation**: Thoroughly test and validate the project's performance in your specific use case.
 
-**Production Readiness:** The project is considered medium-ready for production, making it suitable for prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/insightitsGit/VectorPrism).
 
 ### Русский
 

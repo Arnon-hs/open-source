@@ -42,7 +42,11 @@ To adopt Django-Bolt, follow these steps:
 4. Monitor the framework's development activity and engage with the community to stay informed about updates and best practices.
 
 **Production Readiness:**
-Django-Bolt demonstrates high production readiness due to its recent activity, adoption, and strong ecosystem signals. With 1,541 GitHub stars and
+Django-Bolt demonstrates high production readiness due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dj-bolt/django-bolt).
 
 ### Русский
 

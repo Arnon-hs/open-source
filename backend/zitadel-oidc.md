@@ -44,7 +44,10 @@ To adopt the zitadel/oidc project, teams can follow these steps:
 1. Evaluate the library: Assess its features, documentation, and community support.
 2. Integrate the library: Implement the library in their existing infrastructure, using APIs, SDKs, or CLI tools.
 3. Test and validate: Thoroughly test the library to ensure it meets their security and performance requirements.
-4. Monitor and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/zitadel/oidc).
 
 ### Русский
 

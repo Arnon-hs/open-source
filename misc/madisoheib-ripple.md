@@ -43,7 +43,10 @@ For production readiness, it's essential to:
 1. Assess the project's quality signals, such as the number of contributors, issues, and releases.
 2. Evaluate the project's documentation and community support.
 3. Test the project in a controlled environment before deploying it to production.
-4. Continuously monitor the project's activity and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/madisoheib/Ripple).
 
 ### Русский
 

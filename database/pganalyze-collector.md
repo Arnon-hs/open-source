@@ -46,7 +46,10 @@ To adopt pganalyze/collector, follow these steps:
 1. **Evaluate the project**: Review the README documentation and evaluate the project's feasibility for your specific use case.
 2. **Start with a small proof of concept**: Implement a small-scale pilot project to test the collector's functionality and performance.
 3. **Assess dependencies and maintenance**: Thoroughly review the project's dependencies and maintenance requirements to ensure they align with your organization's infrastructure and resources.
-4. **Integrate with your existing workflows**: Once the proof of concept is successful, integrate pganalyze/collector with your existing analytics pipelines and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pganalyze/collector).
 
 ### Русский
 

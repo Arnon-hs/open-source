@@ -48,9 +48,9 @@ To adopt the itgoyo/TelegramGroup project, follow these steps:
 3. Assess the project's license, security posture, and maintainers to ensure it aligns with your organization's requirements.
 4. Integrate the project into your existing workflow, leveraging its automation capabilities to streamline tasks and improve efficiency.
 
-**Production Readiness**
+## Before adopting
 
-The itgoyo/TelegramGroup project is considered production-ready due to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/itgoyo/TelegramGroup).
 
 ### Русский
 

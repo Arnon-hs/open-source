@@ -42,7 +42,10 @@ To adopt verygoodplugins/mcp-freescout, developers can follow these steps:
 1. Evaluate the project's documentation and implementation signals to understand its functionality and ease of use.
 2. Explore the MCP protocol and its benefits in integrating AI assistants with various tools and data sources.
 3. Integrate the MCP server with FreeScout and other relevant tools to test its functionality and performance.
-4. Use the server to connect AI agents to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/verygoodplugins/mcp-freescout).
 
 ### Русский
 

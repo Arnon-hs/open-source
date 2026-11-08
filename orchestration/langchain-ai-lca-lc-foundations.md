@@ -38,7 +38,10 @@ Langchain-ai/lca-lc-foundations is an open-source project that enables the creat
 1. **Manual inspection**: Before adopting the project, users need to inspect the integration process to understand the requirements and potential challenges.
 2. **Validate setup cost**: Assess the effort required to set up and maintain the project, considering factors such as dependency management and maintenance checks.
 3. **Prototype or internal workflows**: Langchain-ai/lca-lc-foundations is suitable for proof-of-concept projects or internal workflows where the complexity and potential risks are manageable.
-4. **Integration and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/langchain-ai/lca-lc-foundations).
 
 ### Русский
 

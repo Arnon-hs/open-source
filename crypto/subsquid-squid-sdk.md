@@ -42,7 +42,10 @@ The practical adoption path for the subsquid/squid-sdk involves several steps:
 1. **Evaluation**: Evaluate the project's GitHub repository, documentation, and code quality to ensure it meets your project's requirements.
 2. **Integration**: Integrate the subsquid/squid-sdk into your project, following the provided API/SDK/CLI documentation.
 3. **Testing**: Test the integrated solution to ensure it meets your project's needs and requirements.
-4. **Customization**: Customize the subsquid/squid-sdk to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/subsquid/squid-sdk).
 
 ### Русский
 
@@ -79,7 +82,10 @@ subsquid/squid-sdk 帮助开发者快速 prototyping 或检查区块链工作流
 但是，仍然需要进一步检查以下风险：
 
 * 许可证：需要检查许可证的合规性
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/subsquid/squid-sdk)。
 
 ## 🧭 Practical evaluation
 

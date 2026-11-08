@@ -42,7 +42,10 @@ To adopt YunoHost, developers can start by:
 1. Evaluating the project through a small proof of concept, as recommended in the integration notes.
 2. Reviewing the README documentation to understand the project's architecture and requirements.
 3. Assessing the project's license, security posture, and active maintainers to ensure they meet the organization's standards.
-4. Building a prototype or proof of concept to demonstrate the project's capabilities and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/YunoHost/yunohost).
 
 ### Русский
 

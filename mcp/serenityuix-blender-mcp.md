@@ -41,7 +41,10 @@ The production readiness of SerenityUiX/blender-mcp is high due to the following
 
 1. Recent activity: The project has been updated recently, indicating ongoing development and maintenance.
 2. Adoption: The project has gained 25,621 GitHub stars and 2,441 forks, demonstrating strong interest and adoption.
-3. Ecosystem signals: The project's strong ecosystem signals suggest a healthy and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SerenityUiX/blender-mcp).
 
 ### Русский
 

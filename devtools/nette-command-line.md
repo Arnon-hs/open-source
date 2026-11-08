@@ -33,7 +33,11 @@ DevTools
 
 **Practical Adoption Path:** To adopt nette/command-line, a developer should start by evaluating its feasibility through a small proof of concept. They should also carefully review the project's README to ensure it aligns with their specific needs. Integration should begin with a cautious approach, considering the project's limited GitHub stars, forks, and activity.
 
-**Production Readiness:** The project's production readiness is medium, making it suitable for prototypes or internal workflows. However, before committing to production, developers should perform dependency and maintenance checks to ensure the project remains stable and secure. Its limited quality signals, such as GitHub stars and forks, suggest a higher risk of integration challenges and
+**Production Readiness:** The project's production readiness is medium, making it suitable for prototypes or internal workflows. However, before committing to production, developers should perform dependency and maintenance checks to ensure the project remains stable and secure.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nette/command-line).
 
 ### Русский
 

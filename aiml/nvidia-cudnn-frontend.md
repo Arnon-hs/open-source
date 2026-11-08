@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt the cuDNN Frontend, developers can start by evaluating its feasibility through a small proof of concept and reviewing the project's README documentation. They can then integrate the frontend into their existing workflows, leveraging its high-performance capabilities to build and deploy AI models. With a growing community and strong ecosystem signals, the cuDNN Frontend is a reliable choice for serious pilots and production-ready projects.
 
-**Production Readiness:** The cuDNN Frontend has demonstrated high production readiness, with recent activity, strong adoption, and positive ecosystem signals. Its recent update (2026-07-16) and large GitHub following (882 stars, 214 forks) indicate a
+**Production Readiness:** The cuDNN Frontend has demonstrated high production readiness, with recent activity, strong adoption, and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NVIDIA/cudnn-frontend).
 
 ### Русский
 

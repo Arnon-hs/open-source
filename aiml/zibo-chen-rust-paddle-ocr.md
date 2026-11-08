@@ -79,7 +79,10 @@ zibo-chen/rust-paddle-ocr帮助开发者快速添加AI能力，无需从零开�
 * 最近活动：最近更新于2026-07-21
 * Adoption：有290个GitHub星星，40个分支
 * Ecosystem signals：强烈的生态系统信号
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/zibo-chen/rust-paddle-ocr)。
 
 ## 🧭 Practical evaluation
 

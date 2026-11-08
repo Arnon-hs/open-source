@@ -39,7 +39,10 @@ To adopt PyCuTe in a production environment, follow these steps:
 1. **Manual Inspection:** Carefully review the code, documentation, and issues to understand the project's quality and potential risks.
 2. **Dependency and Maintenance Checks:** Verify that the project's dependencies are up-to-date and compatible with your development environment.
 3. **Verify License and Release Cadence:** Ensure that the project's license is compatible with your organization's policies and that the release cadence is regular and reliable.
-4. **Evaluate Quality Signals:** Assess the project's quality signals, such as the number of contributors, issues, and pull requests, to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NVlabs/CuTe).
 
 ### Русский
 

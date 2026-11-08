@@ -41,7 +41,11 @@ To adopt this project, developers should start by manually inspecting the codeba
 
 **Production Readiness:**
 
-The production readiness of this project is rated as Medium. It is suitable for use in prototypes or internal workflows, where the benefits of streamlined frontend delivery can
+The production readiness of this project is rated as Medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vercel-labs/eve-software-factory-template).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt GeoAI Skills, developers should follow these steps:
 1. **Manual Inspection**: Carefully review the project's metadata, documentation, and code to ensure it meets your needs.
 2. **Dependency and Maintenance Checks**: Verify that the project's dependencies are up-to-date and that the project is actively maintained.
 3. **Verify License and Documentation**: Confirm that the project's license is suitable for your use case and that the documentation is comprehensive.
-4. **Test and Pilot**: Test the project in a controlled environment to ensure it works as expected, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/muend/geoai-skills).
 
 ### Русский
 

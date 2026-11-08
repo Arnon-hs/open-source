@@ -39,7 +39,10 @@ To adopt PostHog/context-mill, users should:
 1. Review the project's documentation and codebase to understand its architecture and potential integration points.
 2. Conduct a manual inspection of the project's metadata and dependencies to ensure they align with their specific use case.
 3. Assess the project's production readiness by evaluating its license, security posture, and maintainership.
-4. Perform thorough dependency and maintenance checks before deploying the project in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PostHog/context-mill).
 
 ### Русский
 

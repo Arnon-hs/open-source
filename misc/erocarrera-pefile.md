@@ -38,9 +38,11 @@ Misc
 3. Integrate the module into their project, taking note of potential dependencies and compatibility issues.
 4. Perform thorough testing and quality checks before deploying the project in production.
 
-**Production Readiness:** 'pefile' has a medium production readiness score, indicating that it can be useful for development prototypes or internal workflows. However, before deploying it in production, users should:
+**Production Readiness:** 'pefile' has a medium production readiness score, indicating that it can be useful for development prototypes or internal workflows.
 
-1. Conduct a thorough review of the project's license and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/erocarrera/pefile).
 
 ### Русский
 

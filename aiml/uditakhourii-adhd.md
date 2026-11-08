@@ -72,7 +72,10 @@ UditAkhourii/adhd 帮助用户在不从零开始构建模型堆栈的情况下�
 
 * 有 1958 个 GitHub Star 和 150 个 Fork
 * 最近更新于 2026-07-23
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/UditAkhourii/adhd)。
 
 ## 🧭 Practical evaluation
 

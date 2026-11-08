@@ -44,7 +44,9 @@ Regarding production readiness, VoxHearth is rated as "Medium." This means it ca
 2. Internal workflows where the app's limitations and risks can be managed and mitigated.
 3. Development environments where the app's quality signals can be evaluated and improved.
 
-However, it's essential to perform thorough checks and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/stephansturges/voxhearth-mac).
 
 ### Русский
 

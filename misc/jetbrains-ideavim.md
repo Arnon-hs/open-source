@@ -70,7 +70,10 @@ JetBrains/ideavim 的主要价值在于，它可以帮助开发者快速添加 A
 IdeaVim 的生产可用性非常高，主要原因是：
 
 * 近期活跃度：最近的更新表明该项目仍然活跃维护中。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/JetBrains/ideavim)。
 
 ## 🧭 Practical evaluation
 

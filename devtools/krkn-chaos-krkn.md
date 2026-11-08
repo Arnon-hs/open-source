@@ -37,7 +37,10 @@ krkn's production readiness is high due to several factors:
 
 * Strong adoption: 479 GitHub stars and 216 forks indicate a significant user base and interest in the project.
 * Recent activity: The project has been updated recently, suggesting active maintenance and development.
-* Ecosystem signals: The project's position as a CNCF sandbox project and its use cases indicate a strong ecosystem and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/krkn-chaos/krkn).
 
 ### Русский
 
@@ -69,7 +72,10 @@ krkn-chaos/krkn 可以通过以下方式接入：
 krkn-chaos/krkn 的生产可用性较高，理由如下：
 
 * 最近活动：最近有活跃的维护和更新。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/krkn-chaos/krkn)。
 
 ## 🧭 Practical evaluation
 

@@ -33,7 +33,11 @@ ltaoo/wx_channels_download is a Go‑based WeChat Video Number downloader that c
 
 We need to produce a brief summary (2-3 sentences) in Russian, explaining benefit, typical integration scenario, and production readiness. Use given data: It's a WeChat video downloader, Go, 8680 stars, 1422 forks, updated 2026-08-18, high production readiness for OSS candidate, recent activity, adoption, ecosystem signals strong for a serious pilot. Need to mention benefit: downloading WeChat video channels, typical scenario: integration into media archiving or content aggregation pipelines, need manual inspection before adoption. Provide 2-3 sentences.
 
-Let's craft: "ltaoo/wx_channels_download — это Go‑реализация загрузчика видео из WeChat Channels, позволяющая быстро сохранять контент для дальнейшего анализа или архивации. Типовой сценарий использования — подключение скрипта к пайплайну сбора медиаданных (например, в CI/CD или ETL‑процессе) для автоматической загрузки роликов по заданным спискам каналов. Благодаря высокой активности проекта (8680★, 1.4k форков, обновлён в
+Let's craft: "ltaoo/wx_channels_download — это Go‑реализация загрузчика видео из WeChat Channels, позволяющая быстро сохранять контент для дальнейшего анализа или архивации. Типовой сценарий использования — подключение скрипта к пайплайну сбора медиаданных (например, в CI/CD или ETL‑процессе) для автоматической загрузки роликов по заданным спискам каналов.
+
+## Перед использованием
+
+Проверьте актуальную документацию, условия лицензии, зависимости и состояние поддержки с учетом своей задачи. [Открыть источник](https://github.com/ltaoo/wx_channels_download).
 
 ### 中文
 

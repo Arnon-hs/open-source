@@ -41,7 +41,11 @@ Developers can evaluate the dx-toolkit's implementation signals, such as API/SDK
 
 **Production Readiness:**
 
-With recent activity, adoption, and ecosystem signals, the dx-toolkit demonstrates high production readiness for an open-source project. The project's strong signals indicate that it is stable, maintainable, and
+With recent activity, adoption, and ecosystem signals, the dx-toolkit demonstrates high production readiness for an open-source project.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/youdotcom-oss/dx-toolkit).
 
 ### Русский
 

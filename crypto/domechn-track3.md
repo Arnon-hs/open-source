@@ -44,9 +44,9 @@ To adopt domechn/track3, users can start by:
 3. Conducting a thorough dependency and maintenance check to ensure the project's stability and security.
 4. Integrating the project into their existing workflows or prototypes, starting with a small-scale deployment.
 
-**Production Readiness**
+## Before adopting
 
-Domechn/track3 has a medium production readiness level, indicating that it can be useful for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/domechn/track3).
 
 ### Русский
 

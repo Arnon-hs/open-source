@@ -44,9 +44,9 @@ To adopt TinyRetroPad, developers should:
 3. Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it meets their quality and reliability standards.
 4. Perform thorough testing and integration checks before deploying the project in production.
 
-**Production Readiness:**
+## Before adopting
 
-Due to the
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/plummersSoftwareLLC/TinyRetroPad).
 
 ### Русский
 

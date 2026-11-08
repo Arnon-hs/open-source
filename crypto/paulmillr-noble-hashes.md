@@ -38,7 +38,11 @@ The value proposition of this project lies in its ability to facilitate the deve
 To adopt paulmillr/noble-hashes in a production environment, developers should start with a small proof of concept and carefully review the README documentation. This will help ensure that the project meets their specific needs and that the integration process is smooth. With a strong recent activity, adoption, and ecosystem signals, this project is considered production-ready for serious pilots.
 
 **Production Readiness:**
-The project exhibits high production readiness due to its recent activity, strong adoption (896 GitHub stars and 66 forks), and positive ecosystem signals. However, a final review of the
+The project exhibits high production readiness due to its recent activity, strong adoption (896 GitHub stars and 66 forks), and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/paulmillr/noble-hashes).
 
 ### Русский
 

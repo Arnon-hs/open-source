@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt **cargo-generate/cargo-generate**, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then integrate the tool into their existing workflow and explore its features and capabilities. With its straightforward integration process and strong ecosystem signals, **cargo-generate/cargo-generate** is an attractive option for developers looking to improve their frontend development process.
 
-**Production Readiness:** The project's production readiness is high, with recent activity, adoption, and ecosystem signals that are
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cargo-generate/cargo-generate).
 
 ### Русский
 

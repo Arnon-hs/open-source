@@ -35,7 +35,9 @@ Here's a brief summary and explanation of the Noosphere project:
 
 **Practical Adoption Path:** To adopt Noosphere, organizations can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then integrate Noosphere into their existing infrastructure by following the project's documentation and guidelines. As they become more familiar with the platform, organizations can explore its use cases, such as coordinating multi-agent workflows and standardizing agent memory.
 
-**Production Readiness:** Noosphere has a high production readiness score due to its
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/JinNing6/Noosphere).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt this project, developers should start by evaluating its README and acti
 
 **Production Readiness:**
 
-The project is considered production-ready due to its recent activity, adoption, and strong ecosystem signals. With 1873 GitHub stars, 220 forks, and regular updates, it has demonstrated a high level of community engagement and
+The project is considered production-ready due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jaypipes/ghw).
 
 ### Русский
 

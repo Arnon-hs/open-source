@@ -47,7 +47,10 @@ To adopt Ingot, follow these steps:
 2. Perform a manual inspection of the platform, considering its integration signals and metadata.
 3. Assess the project's production readiness, including its dependency and maintenance requirements.
 4. Evaluate the project's license, security posture, and active maintainers to ensure they align with your organization's standards.
-5. Consider integrating Ingot into your internal workflows or prototypes, taking necessary precautions to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/liuweichaox/Ingot).
 
 ### Русский
 

@@ -76,7 +76,10 @@ grab/cursor-talk-to-figma-mcp 帮助连接 AI 助手与真实工具和数据之�
 
 1. 最近活跃，采用率和生态系统信号均强
 2. GitHub 上有 6930 个星星和 750 个 fork
-3. 最近更新于
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/grab/cursor-talk-to-figma-mcp)。
 
 ## 🧭 Practical evaluation
 

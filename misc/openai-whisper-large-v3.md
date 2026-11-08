@@ -41,7 +41,10 @@ To adopt openai/whisper-large-v3, developers should follow these steps:
 
 1. **Manual Inspection**: Carefully review the model's metadata and documentation to understand its capabilities, limitations, and potential integration challenges.
 2. **Validate Setup Costs**: Assess the time, resources, and expertise required to set up and integrate the model into your application.
-3. **Evaluate Model Tooling**: Explore the available tools and libraries for working with the model, such as
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/openai/whisper-large-v3).
 
 ### Русский
 

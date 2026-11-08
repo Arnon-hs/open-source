@@ -37,8 +37,9 @@ The primary value proposition of gperdomor/oss lies in its ability to streamline
 **Practical Adoption Path:**
 To adopt gperdomor/oss, developers should manually inspect the project before integrating it into their workflows. This involves reviewing the license, security posture, and the presence of active maintainers. Once these checks are completed, developers can integrate the project into their Nx Workspaces, taking advantage of its tools and builders to improve their frontend development processes.
 
-**Production Readiness:**
-gperdomor/oss has a medium production readiness score, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gperdomor/oss).
 
 ### Русский
 

@@ -43,9 +43,9 @@ The adoption path for the Secure Code Game involves a few key steps:
 2. **Start with a small proof of concept**: Begin with a small-scale integration to test the project's feasibility and identify potential issues.
 3. **Validate setup costs**: Assess the time and resources required to set up and maintain the project before committing to a larger-scale adoption.
 
-**Production Readiness**
+## Before adopting
 
-The Secure Code Game has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/skills/secure-code-game).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The main value proposition of slackhq/compose-lints lies in its ability to simpl
 
 To adopt slackhq/compose-lints, developers can start by evaluating the project through a small proof-of-concept and reviewing the README documentation. This will help them understand the integration path and validate the setup cost before committing to the project. With its moderate production readiness, it's recommended to use this project for internal workflows or prototype development before scaling up to production.
 
-**Production Readiness:**
+## Before adopting
 
-Slackhq/compose-lints has a moderate production readiness score, indicating that
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/slackhq/compose-lints).
 
 ### Русский
 

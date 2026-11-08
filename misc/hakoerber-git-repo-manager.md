@@ -38,7 +38,11 @@ As for the practical adoption path, it involves several steps:
 3. **Conduct a small proof of concept**: Implement a small-scale test to validate the tool's functionality and identify potential issues.
 4. **Verify dependency and maintenance checks**: Ensure that the tool's dependencies are up-to-date and that the project maintains a stable release schedule.
 
-Regarding production readiness, the hakoerber/git-repo-manager is considered medium-ready, suitable for use in prototypes or internal workflows. However, before deploying it in
+Regarding production readiness, the hakoerber/git-repo-manager is considered medium-ready, suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hakoerber/git-repo-manager).
 
 ### Русский
 

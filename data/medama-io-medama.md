@@ -41,7 +41,10 @@ Medama's high production readiness is due to:
 
 1. **Recent activity**: The project has been updated recently (2026-06-28), indicating ongoing maintenance and development.
 2. **Strong adoption**: With 632 GitHub stars and 17 forks, medama has gained significant traction in the open-source community.
-3. **Ecosystem signals**: The project's adoption and recent activity suggest a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/medama-io/medama).
 
 ### Русский
 

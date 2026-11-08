@@ -64,7 +64,10 @@ mpi4py/mpi4py 的价值在于，它为Python开发者提供了一种便捷的方
 mpi4py/mpi4py 的生产可用性很高，主要原因是：
 
 1. 近期活跃度：项目最近有更新，表明仍然有活跃的维护者。
-2.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/mpi4py/mpi4py)。
 
 ## 🧭 Practical evaluation
 

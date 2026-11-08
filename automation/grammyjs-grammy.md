@@ -37,7 +37,11 @@ The value proposition of grammyjs/grammY lies in its ability to automate repetit
 The practical adoption path for grammyjs/grammY involves starting with a small proof of concept and thoroughly reviewing the README documentation. This will help users evaluate the feasibility of integrating the framework into their workflow and identify potential challenges. Once the proof of concept is successful, users can scale up their implementation and explore the full range of features and capabilities offered by grammyjs/grammY.
 
 **Production Readiness:**
-grammyjs/grammY is considered production-ready due to its recent activity, strong adoption, and robust ecosystem. With over 3700 GitHub stars and 152 forks, the project has
+grammyjs/grammY is considered production-ready due to its recent activity, strong adoption, and robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/grammyjs/grammY).
 
 ### Русский
 

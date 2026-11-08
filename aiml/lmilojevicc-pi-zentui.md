@@ -37,7 +37,10 @@ Here's a brief summary and analysis of the open-source project lmilojevicc/pi-ze
 
 1. Evaluate the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
 2. Review the project's documentation and tutorials to understand how to integrate it with their existing AI workflows.
-3. Experiment with the project's features, such as building RAG or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lmilojevicc/pi-zentui).
 
 ### Русский
 

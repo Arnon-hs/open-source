@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the 8bitworkshop project:
 
 **Practical Adoption Path:** To adopt 8bitworkshop, users should start by evaluating its feasibility through a small proof of concept. This involves checking the README documentation, understanding the setup costs, and validating the integration path. A thorough assessment of the project's metadata and quality signals, such as GitHub stars and forks, can also provide valuable insights.
 
-**Production Readiness:** 8bitworkshop is considered moderately production-ready, with a score of 59/100. It is suitable for prototypes or internal workflows, but users should conduct dependency and maintenance checks before deploying it in a
+**Production Readiness:** 8bitworkshop is considered moderately production-ready, with a score of 59/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/sehugg/8bitworkshop).
 
 ### Русский
 

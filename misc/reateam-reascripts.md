@@ -45,7 +45,10 @@ To adopt ReaTeam/ReaScripts, developers should:
 ReaTeam/ReaScripts has a medium production readiness score due to the following factors:
 
 * Integration path is not obvious from metadata, requiring manual inspection and validation.
-* Setup costs and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ReaTeam/ReaScripts).
 
 ### Русский
 

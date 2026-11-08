@@ -41,9 +41,9 @@ Fleet offers a valuable solution for developers and organizations looking to int
 2. **Prototype Development**: Once verified, Fleet can be used to prototype AI features, build RAG or agent workflows, and evaluate model tooling.
 3. **Internal Workflow Integration**: For internal use cases, Fleet can be integrated into existing workflows, but users should be cautious and monitor its performance and maintenance requirements.
 
-**Production Readiness:**
+## Before adopting
 
-While Fleet has potential, its production readiness is limited due to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/matt454/agent-fleet-console).
 
 ### Русский
 

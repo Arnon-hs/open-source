@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the project:
 
 **Practical Adoption Path:** To adopt this project, developers can simply clone the repository, customize the template to fit their needs, and integrate it into their existing Next.js 16 application. The project's straightforward integration signals, such as API/SDK/CLI, language metadata, and focused topics, make it easy to evaluate and implement.
 
-**Production Readiness:** The project has a high production readiness score, indicating that it is suitable for serious pilots. With recent activity, strong adoption (2734 GitHub stars and 553 forks), and a strong ecosystem signal, developers can trust this project to be stable and maintainable. However, a final review of the license, security posture, and
+**Production Readiness:** The project has a high production readiness score, indicating that it is suitable for serious pilots. With recent activity, strong adoption (2734 GitHub stars and 553 forks), and a strong ecosystem signal, developers can trust this project to be stable and maintainable.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/arhamkhnz/next-shadcn-admin-dashboard).
 
 ### Русский
 

@@ -45,7 +45,11 @@ To adopt vyfor/cord.nvim, users can follow these steps:
 
 **Production Readiness:**
 
-vyfor/cord.nvim has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals. With 689 GitHub stars and
+vyfor/cord.nvim has a high production readiness score due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vyfor/cord.nvim).
 
 ### Русский
 

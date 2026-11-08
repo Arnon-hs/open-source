@@ -46,7 +46,10 @@ To adopt Forall in a production-ready environment, follow these steps:
 1. **Manual Inspection:** Carefully review the project's metadata, license, maintenance, documentation, issues, and release cadence to ensure it meets your project's needs.
 2. **Dependency Checks:** Verify that the project's dependencies are up-to-date and compatible with your project's requirements.
 3. **Testing and Evaluation:** Test Forall in a controlled environment to evaluate its performance and identify potential issues.
-4. **Integration and Deployment:** Integrate Forall into your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/astrio-labs/forall).
 
 ### Русский
 

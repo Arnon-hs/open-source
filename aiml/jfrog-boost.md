@@ -41,7 +41,11 @@ The value proposition of jfrog/boost lies in its ability to streamline AI develo
 
 **Production Readiness:**
 
-jfrog/boost demonstrates high production readiness due to its recent activity, strong adoption (431 GitHub stars, 16 forks), and robust ecosystem signals. The project's primary language is Shell, and it has been updated recently (2026-08-11). However, a final review of the license, security posture, and active maintainers is still necessary to ensure its
+jfrog/boost demonstrates high production readiness due to its recent activity, strong adoption (431 GitHub stars, 16 forks), and robust ecosystem signals. The project's primary language is Shell, and it has been updated recently (2026-08-11).
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jfrog/boost).
 
 ### Русский
 

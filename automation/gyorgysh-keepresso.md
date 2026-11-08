@@ -39,9 +39,9 @@ The primary value proposition of Keepresso lies in its ability to automate repet
 
 To adopt Keepresso, users should start by evaluating its feasibility through a small proof of concept and checking the README documentation. This will help identify potential integration challenges and validate the setup cost before committing to the project. Once familiar with the app's functionality and requirements, users can begin integrating Keepresso into their existing workflows, starting with small-scale applications and gradually scaling up.
 
-**Production Readiness:**
+## Before adopting
 
-Keepresso is considered production-ready with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gyorgysh/keepresso).
 
 ### Русский
 

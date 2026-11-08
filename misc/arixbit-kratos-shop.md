@@ -42,8 +42,9 @@ Before adopting arixbit/kratos-shop, developers should:
 3. Evaluate the project's dependencies and maintenance requirements.
 4. Assess the project's security posture and license terms.
 
-**Production Readiness:**
-Arixbit/kratos-shop has a medium production readiness score of 55/100, indicating that it can be useful for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/arixbit/kratos-shop).
 
 ### Русский
 

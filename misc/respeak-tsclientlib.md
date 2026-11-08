@@ -37,8 +37,9 @@ The value proposition of ReSpeak/tsclientlib lies in its ability to automate rep
 **Practical Adoption Path:**
 To adopt ReSpeak/tsclientlib, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, and focused topics. They can then assess the library's production readiness, considering factors like dependency and maintenance checks. Before deploying the library in production, developers should review the license, security posture, and active maintainers to ensure it meets their project's requirements.
 
-**Production Readiness:**
-ReSpeak/tsclientlib has a medium production readiness score, indicating that it's suitable for prototype development or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ReSpeak/tsclientlib).
 
 ### Русский
 

@@ -44,7 +44,10 @@ The esaio/esa-mcp-server provides several benefits, including:
 To adopt the esaio/esa-mcp-server, users can follow these steps:
 
 1. Evaluate the project: Check the GitHub repository, README, and documentation to ensure it meets your requirements.
-2. Start with a small proof of concept: Implement a small-scale integration to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/esaio/esa-mcp-server).
 
 ### Русский
 

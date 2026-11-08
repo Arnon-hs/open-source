@@ -48,11 +48,9 @@ To adopt withoutbg-python, developers can follow these steps:
 3. Integrate the SDK into their project, using the provided implementation signals (API, SDK, CLI)
 4. Evaluate and customize the SDK to suit their specific needs
 
-**Production Readiness:**
+## Before adopting
 
-withoutbg-python is production-ready due to its:
-
-* Recent activity (updated in
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/withoutbg/withoutbg-python).
 
 ### Русский
 

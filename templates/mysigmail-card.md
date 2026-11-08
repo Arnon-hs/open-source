@@ -46,7 +46,11 @@ To adopt mysigmail/card, users can follow these steps:
 
 **Production Readiness:**
 
-mysigmail/card is considered production-ready due to its recent activity, strong adoption (413 GitHub stars, 72 forks), and positive ecosystem signals. The tool is written in TypeScript and has a clear primary language, indicating a
+mysigmail/card is considered production-ready due to its recent activity, strong adoption (413 GitHub stars, 72 forks), and positive ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mysigmail/card).
 
 ### Русский
 

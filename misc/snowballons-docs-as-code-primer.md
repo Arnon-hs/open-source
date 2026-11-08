@@ -38,7 +38,10 @@ The primary value of this project lies in its ability to streamline frontend dev
 1. **Manual Inspection**: Before adopting the project, developers should carefully review the code, documentation, and issue history to ensure it aligns with their project's requirements and standards.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies, maintenance cadence, and release schedule to ensure they meet production readiness criteria.
 3. **Testing and Integration**: Conduct thorough testing and integration with existing workflows to ensure seamless adoption.
-4. **Documentation Review**: Review the project's documentation to ensure it meets your team's needs and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/snowballons/docs-as-code-primer).
 
 ### Русский
 

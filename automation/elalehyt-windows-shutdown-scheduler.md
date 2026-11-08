@@ -36,7 +36,10 @@ Automation
 1. **Assess and Verify:** Before adopting the project, users should thoroughly inspect the code, verify the license, maintenance, documentation, issues, and release cadence to ensure it meets their needs.
 2. **Integration and Testing:** Once verified, users should carefully integrate the project into their workflow and test its functionality to ensure seamless operation.
 3. **Dependency and Maintenance Checks:** Before deploying the project in production, users should perform thorough dependency and maintenance checks to ensure the project's stability and reliability.
-4. **Monitor and Maintain:** After deployment, users should regularly monitor the project's performance and maintain it as necessary to ensure continued functionality and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ElAlehYT/Windows-Shutdown-Scheduler).
 
 ### Русский
 

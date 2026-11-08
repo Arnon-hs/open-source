@@ -46,7 +46,11 @@ To adopt SunnatbeeCLI, developers can follow these steps:
 
 **Production Readiness:**
 
-SunnatbeeCLI is rated as "Medium" in terms of production readiness. While it is suitable for prototypes or
+SunnatbeeCLI is rated as "Medium" in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/SunnatbekYusupovTech/sunnatbeeCLI).
 
 ### Русский
 

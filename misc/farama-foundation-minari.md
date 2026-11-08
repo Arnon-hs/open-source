@@ -41,7 +41,11 @@ To adopt Minari, users can start by evaluating its feasibility through a small p
 
 **Production Readiness:**
 
-Minari has a medium production readiness score, indicating that it is useful for prototypes or internal workflows. While it has a significant number of GitHub stars (1345) and forks (72), and is actively maintained, there are
+Minari has a medium production readiness score, indicating that it is useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Farama-Foundation/Minari).
 
 ### Русский
 

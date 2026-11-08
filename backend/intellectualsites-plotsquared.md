@@ -38,7 +38,11 @@ The primary value of PlotSquared lies in its ability to simplify and accelerate 
 To adopt PlotSquared, developers can start by evaluating its implementation signals, such as API/SDK/CLI, language metadata, or focused topics. They can then integrate PlotSquared into their project by following its documentation and guidelines. The project's recent activity, adoption, and ecosystem signals indicate a strong and supportive community, making it easier for developers to get started and seek help when needed.
 
 **Production Readiness:**
-PlotSquared has a high production readiness score, indicating that it is a stable and reliable option for serious pilots. Its recent activity, adoption, and
+PlotSquared has a high production readiness score, indicating that it is a stable and reliable option for serious pilots.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/IntellectualSites/PlotSquared).
 
 ### Русский
 

@@ -41,7 +41,11 @@ Before adopting Rcarmo/wrdp, it's essential to:
 3. Verify the project's license, maintenance, documentation, issue history, and release cadence to ensure it meets your organization's standards.
 
 **Production Readiness:**
-Rcarmo/wrdp is considered production-ready for prototype or internal workflows, but not for general production use. This is due to its experimental nature and
+Rcarmo/wrdp is considered production-ready for prototype or internal workflows, but not for general production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rcarmo/wrdp).
 
 ### Русский
 

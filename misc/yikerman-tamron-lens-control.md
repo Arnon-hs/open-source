@@ -41,8 +41,9 @@ Before adopting this project, users should:
 3. Perform dependency and maintenance checks to ensure the project's stability and reliability.
 4. Test the project in a controlled environment before integrating it into production.
 
-**Production Readiness:**
-The project's production readiness is rated as medium, indicating that it is suitable for prototyping or internal workflows but may require additional verification and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yikerman/tamron-lens-control).
 
 ### Русский
 

@@ -40,7 +40,10 @@ As for practical adoption, the project can be used for:
 Regarding production readiness, the project is suitable for:
 
 1. Internal workflows: ktsoator/or can be used within an organization's internal development processes, where the benefits of rapid prototyping and AI feature development outweigh the potential risks.
-2. Low-risk production environments: The project can be adopted in production environments where the risks are relatively low, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ktsoator/or).
 
 ### Русский
 

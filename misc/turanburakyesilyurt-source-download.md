@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully review the project's README, activity, and metadata to ensure it aligns with your specific workflow and needs.
 2. **Verify Quality Signals**: Check the project's license, maintenance, documentation, issues, and release cadence to assess its overall quality and reliability.
 3. **Evaluate Dependencies**: Assess the project's dependencies and ensure they align with your project's requirements.
-4. **Test and Integrate**: Once you've verified the project's quality and dependencies, test it in a controlled environment and integrate it into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/turanburakyesilyurt/source-download).
 
 ### Русский
 

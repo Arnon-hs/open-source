@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully review the add-on's README, activity, and integration signals to assess its quality and reliability.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies, maintenance history, and release cadence to ensure it meets your project's requirements.
 3. **Verify License and Quality Signals**: Check the project's license, documentation, issues, and release cadence to ensure it meets your project's standards.
-4. **Internal Testing**: Perform thorough testing within your internal environment to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/helloyanis/age-verification-bypass).
 
 ### Русский
 

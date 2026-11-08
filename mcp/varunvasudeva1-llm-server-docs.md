@@ -37,7 +37,9 @@ As for the value, practical adoption path, and production readiness:
 
 **Practical Adoption Path:** The project's documentation provides a clear guide for setting up a local and private LLM server on Debian, making it relatively easy to adopt and integrate into existing systems. However, a small proof of concept and README check are recommended before full-scale integration.
 
-**Production Readiness:** The project has high production readiness, with recent activity, strong adoption (794 GitHub stars and 58 forks), and ecosystem signals indicating a robust and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/varunvasudeva1/llm-server-docs).
 
 ### Русский
 

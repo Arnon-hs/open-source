@@ -40,7 +40,9 @@ Here's a brief summary of the open-source project:
 3. Review the project's license, security posture, and active maintainers to identify any potential risks.
 4. Integrate the project into their existing workflow, following the provided documentation and guidelines.
 
-**Production Readiness:** The project has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Jia-Ethan/grok-keysmith).
 
 ### Русский
 

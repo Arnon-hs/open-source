@@ -35,7 +35,11 @@ Here's a brief summary of the fregie/pho project:
 
 **Practical Adoption Path:** To adopt fregie/pho, start with a small proof of concept and thoroughly review the README documentation. Consider the integration process, focusing on evaluating the feasibility of the project and identifying potential areas of improvement. With its high production readiness, fregie/pho is an attractive option for organizations seeking to enhance their knowledge management systems.
 
-**Production Readiness:** fregie/pho has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its stability and reliability. As an open-source project, it has attracted a
+**Production Readiness:** fregie/pho has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fregie/pho).
 
 ### Русский
 

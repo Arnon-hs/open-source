@@ -37,7 +37,11 @@ The value proposition of Harmoninux/HiSH lies in its ability to simplify the int
 To adopt Harmoninux/HiSH, developers should start with a small proof of concept to evaluate the feasibility of integration. A thorough check of the README documentation is also recommended to understand the setup and maintenance requirements. Before committing to production, developers should validate the setup cost and ensure that the project meets their specific needs.
 
 **Production Readiness:**
-Harmoninux/HiSH has a medium production readiness score. While it is useful for prototyping or internal workflows, it requires careful dependency and maintenance checks before being used in production environments. This is due to the
+Harmoninux/HiSH has a medium production readiness score. While it is useful for prototyping or internal workflows, it requires careful dependency and maintenance checks before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/harmoninux/HiSH).
 
 ### Русский
 

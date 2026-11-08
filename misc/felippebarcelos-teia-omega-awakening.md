@@ -33,7 +33,9 @@ Misc
 
 **Practical Adoption Path:** To adopt TEIA, developers should start by manually inspecting the project's implementation details, documentation, and issue history to ensure its quality and maintainability. They should also verify the project's license, maintenance schedule, and release cadence to ensure it aligns with their project's requirements. Once satisfied, developers can integrate TEIA into their workflows, starting with prototyping and testing, and gradually moving to production-ready deployments.
 
-**Production Readiness:** TEIA has a medium production readiness score due to the
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/felippebarcelos/teia-omega-awakening).
 
 ### Русский
 

@@ -44,11 +44,9 @@ To adopt Telepresence, developers can follow these steps:
 3. Set up a local development environment connected to a remote Kubernetes or OpenShift cluster using Telepresence.
 4. Use the tool to prototype AI features, build RAG or agent workflows, and evaluate model tooling.
 
-**Production Readiness**
+## Before adopting
 
-Telepresence has a high production readiness score, driven by:
-
-* Strong GitHub activity, with 7248 stars and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/telepresenceio/telepresence).
 
 ### Русский
 

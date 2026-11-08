@@ -37,7 +37,11 @@ The primary value of Wuwe lies in its ability to streamline the process of build
 To adopt Wuwe, developers can start by evaluating its API, SDK, and CLI, as well as its language metadata and focused topics. They can then begin to integrate Wuwe into their existing workflows, starting with small-scale projects and gradually scaling up to more complex applications. As they become more familiar with the framework, developers can explore its capabilities in more depth and develop custom workflows tailored to their specific needs.
 
 **Production Readiness:**
-Wuwe is considered production-ready with some caveats. While it has a medium level of production readiness, it is still a useful tool for prototypes or internal workflows. Before deploying Wuwe in
+Wuwe is considered production-ready with some caveats. While it has a medium level of production readiness, it is still a useful tool for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lkimuk/Wuwe).
 
 ### Русский
 

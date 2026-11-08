@@ -45,8 +45,9 @@ To adopt the Hermes Agent Orange Book, users can follow these steps:
 3. Integrate the project into their existing workflow, starting with a proof-of-concept or prototype.
 4. Evaluate and refine the integration as needed, ensuring proper dependency and maintenance checks.
 
-**Production Readiness:**
-The Hermes Agent Orange Book has a medium production readiness score, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/alchaincyf/hermes-agent-orange-book).
 
 ### Русский
 

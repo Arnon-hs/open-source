@@ -40,7 +40,11 @@ Here's a brief summary of the fcoury/tsql project:
 3. Verifying the presence of active maintainers and a stable release schedule.
 4. Performing dependency checks and ensuring compatibility with other project components.
 
-**Production Readiness:** fcoury/tsql is considered production-ready with medium-level readiness. While it has a moderate number of GitHub stars and a
+**Production Readiness:** fcoury/tsql is considered production-ready with medium-level readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/fcoury/tsql).
 
 ### Русский
 

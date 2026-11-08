@@ -40,7 +40,10 @@ garycli offers significant value by providing a pre-built foundation for AI deve
 1. Evaluate garycli: Assess the tool's features, documentation, and community support to determine its suitability for your project.
 2. Integrate garycli: Expose implementation signals such as API/SDK/CLI, language metadata, or focused topics to integrate garycli with your existing development workflow.
 3. Develop AI features: Use garycli to prototype AI features, build RAG or agent workflows, and evaluate model tooling, taking advantage of the pre-built AI foundation.
-4. Refine and optimize: Continuously refine and optimize your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/garycli/garycli).
 
 ### Русский
 

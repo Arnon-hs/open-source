@@ -45,7 +45,11 @@ Adopting MaraDNS requires careful consideration and manual inspection due to the
 3. Perform dependency and maintenance checks to ensure production readiness
 
 **Production Readiness:**
-MaraDNS has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows. However, it may not be ready for production use without proper evaluation and preparation. Teams should carefully assess the risks and
+MaraDNS has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows. However, it may not be ready for production use without proper evaluation and preparation.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/samboy/MaraDNS).
 
 ### Русский
 

@@ -33,7 +33,11 @@ KronicDeth/intellij-elixir is an open-source Elixir plugin for JetBrains' Intell
 
 The value proposition of this project lies in its ability to simplify the process of integrating AI capabilities into projects, making it more accessible to developers who may not have extensive experience with AI model development. The practical adoption path involves evaluating the plugin's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, and assessing the plugin's quality signals, including GitHub stars, forks, and updates.
 
-In terms of production readiness, KronicDeth/intellij-elixir has a high score due to recent activity, adoption, and strong ecosystem signals. However, it is essential to review the license, security posture, and active maintainers to ensure the plugin meets the required standards for
+In terms of production readiness, KronicDeth/intellij-elixir has a high score due to recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/KronicDeth/intellij-elixir).
 
 ### Русский
 

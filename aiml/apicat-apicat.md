@@ -33,7 +33,11 @@ AI/ML · Documents · Backend
 
 **Practical Adoption Path:** To adopt apicat/apicat, developers can start by evaluating its integration with their existing tools and workflows. The project's straightforward evaluation process and clear implementation signals make it easy to assess its feasibility. Once adopted, developers can utilize apicat/apicat to automate API documentation, data models, and test cases, and leverage its LLM technology to build RAG (Readiness Assessment Grid) or agent workflows.
 
-**Production Readiness:** apicat/apicat demonstrates high production readiness, with recent activity, strong adoption, and a robust ecosystem. Its recent update on July 15, 2026, indicates ongoing maintenance and development. However, a
+**Production Readiness:** apicat/apicat demonstrates high production readiness, with recent activity, strong adoption, and a robust ecosystem. Its recent update on July 15, 2026, indicates ongoing maintenance and development.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/apicat/apicat).
 
 ### Русский
 

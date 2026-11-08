@@ -41,7 +41,10 @@ Production readiness is high for WCY-dt/EasyTransfer due to its:
 
 1. Recent activity, with the last update on 2026-07-18.
 2. Strong adoption, with 689 GitHub stars and 109 forks.
-3. Robust ecosystem, with 9 topics and a primary language of
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/WCY-dt/EasyTransfer).
 
 ### Русский
 

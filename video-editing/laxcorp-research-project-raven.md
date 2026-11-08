@@ -36,7 +36,10 @@ As for the practical adoption path, here's a possible step-by-step guide:
 1. **Evaluate the project**: Start by reviewing the README, checking the project's GitHub stars, forks, and recent activity to gauge its adoption and maintenance.
 2. **Run a small proof of concept**: Set up a small test environment to evaluate the project's feasibility and ensure it meets your requirements.
 3. **Assess the license and security posture**: Carefully review the project's license and security posture to identify any potential risks or concerns.
-4. **Integrate with your application**: Once you're satisfied with the project's feasibility and security, integrate it with your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Laxcorp-Research/project-raven).
 
 ### Русский
 

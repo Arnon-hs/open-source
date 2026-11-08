@@ -41,7 +41,10 @@ To adopt Salesforce/blip-image-captioning-base, follow these steps:
 
 1. **Verify the model's quality signals**: Check the GitHub repository for updates, issues, and release cadence to ensure the model is actively maintained.
 2. **Inspect the integration signals**: Manually review the model's documentation and metadata to understand its integration capabilities and potential limitations.
-3. **Evaluate the model's performance**: Assess the model's performance on
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/Salesforce/blip-image-captioning-base).
 
 ### Русский
 

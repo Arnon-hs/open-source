@@ -37,7 +37,11 @@ As for the value, Geosql provides a convenient and efficient way to work with ge
 2. Dependency and maintenance checks: Verify the project's dependencies, maintenance history, and release cadence to ensure it is stable and reliable.
 3. Verification of quality signals: Check the project's update history, issue tracking, and community engagement to gauge its overall quality and stability.
 
-Regarding production readiness, Geosql is rated as "Medium", indicating that it is suitable for prototypes or internal workflows but may require additional checks and validation before being used in production environments. This
+Regarding production readiness, Geosql is rated as "Medium", indicating that it is suitable for prototypes or internal workflows but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dekart-xyz/geosql).
 
 ### Русский
 

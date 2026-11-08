@@ -37,7 +37,11 @@ The primary value proposition of AestheticDialogs lies in its ability to simplif
 To adopt AestheticDialogs, developers should start by evaluating the library through a small proof of concept and reviewing the README documentation. This will help them understand the integration process and potential setup costs. Once they have a clear understanding of the library's capabilities and limitations, they can begin integrating it into their project, starting with small-scale implementations and gradually scaling up to more complex use cases.
 
 **Production Readiness:**
-AestheticDialogs is considered to be at a medium level of production readiness. While it has a significant number of GitHub stars and regular updates, its
+AestheticDialogs is considered to be at a medium level of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/gabriel-TheCode/AestheticDialogs).
 
 ### Русский
 

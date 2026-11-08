@@ -41,7 +41,10 @@ To adopt XERJ, users can follow a straightforward path:
 
 1. **Evaluation**: Evaluate XERJ's API, SDK, and CLI to understand its implementation signals and language metadata.
 2. **Implementation**: Integrate XERJ with existing tools and workflows to standardize agent memory and add tool-use pipelines.
-3. **Testing and Piloting**: Test XERJ in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/xerj-org/xerj).
 
 ### Русский
 

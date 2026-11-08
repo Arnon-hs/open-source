@@ -38,7 +38,11 @@ The value of PiSCSI lies in its ability to bridge the compatibility gap between 
 For practical adoption, it is recommended to start with a small proof of concept and carefully review the project's README to ensure a clear understanding of the setup and integration process. This will help mitigate potential risks and ensure that the project meets the specific needs of the user.
 
 **Production Readiness:**
-PiSCSI is considered medium-production ready, suitable for prototype development or internal workflows. However, before deploying it in a production environment, it is essential to conduct thorough dependency and maintenance checks to ensure stability and reliability. This
+PiSCSI is considered medium-production ready, suitable for prototype development or internal workflows. However, before deploying it in a production environment, it is essential to conduct thorough dependency and maintenance checks to ensure stability and reliability.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PiSCSI/piscsi).
 
 ### Русский
 

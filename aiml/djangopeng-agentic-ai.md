@@ -37,7 +37,11 @@ The project's value proposition lies in providing a pre-built knowledge base and
 To adopt this project, users can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. They can then explore the project's features and customize them to fit their specific use cases. The project's recent activity, adoption, and ecosystem signals suggest that it is suitable for a serious pilot.
 
 **Production Readiness:**
-The project has a high level of production readiness, with strong recent activity, adoption, and ecosystem signals. It has 115 GitHub stars and 89 forks, indicating a moderate level of community engagement. The primary language is Python, and the project has
+The project has a high level of production readiness, with strong recent activity, adoption, and ecosystem signals. It has 115 GitHub stars and 89 forks, indicating a moderate level of community engagement.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DjangoPeng/agentic-ai).
 
 ### Русский
 

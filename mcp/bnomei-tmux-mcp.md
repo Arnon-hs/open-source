@@ -36,8 +36,9 @@ The project provides a standard protocol for connecting AI assistants to real to
 **Practical Adoption Path:**
 To adopt bnomei/tmux-mcp, users can start by evaluating the project's API/SDK/CLI and language metadata. They can then assess the project's topics and focused areas to determine its relevance to their specific use cases. The project's production readiness is rated as medium, indicating that it is suitable for prototypes or internal workflows, but requires dependency and maintenance checks before production deployment.
 
-**Production Readiness:**
-While bnomei/tmux-mcp is considered production-ready, it is essential to conduct a thorough review of the project's license, security posture, and active maintainers before deploying it in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bnomei/tmux-mcp).
 
 ### Русский
 

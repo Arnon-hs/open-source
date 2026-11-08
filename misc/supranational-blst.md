@@ -43,9 +43,9 @@ Adopting the supranational/blst project involves a multi-step process:
 2. **Conduct a small proof of concept**: Integrate the library into a small-scale project to test its feasibility and identify potential issues.
 3. **Validate setup costs**: Carefully evaluate the library's dependencies, maintenance requirements, and potential long-term costs before committing to production use.
 
-**Production Readiness:**
+## Before adopting
 
-The project is considered "medium" in terms of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/supranational/blst).
 
 ### Русский
 

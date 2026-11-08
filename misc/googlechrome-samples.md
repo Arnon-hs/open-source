@@ -42,9 +42,9 @@ The value proposition of GoogleChrome/samples lies in its ability to accelerate 
 3. **Testing**: Thoroughly test the integrated samples to ensure they meet your requirements and don't introduce any security risks.
 4. **Customization**: Adapt the samples to fit your specific use case, and update the code as needed.
 
-**Production Readiness:**
+## Before adopting
 
-GoogleChrome/samples has a high production readiness score due to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GoogleChrome/samples).
 
 ### Русский
 

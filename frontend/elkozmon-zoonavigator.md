@@ -39,7 +39,11 @@ Here is a brief summary and explanation of the elkozmon/zoonavigator project:
 2. Review the project's documentation and codebase to determine which components can be reused in their application.
 3. Integrate the chosen components into their project, following the project's guidelines and best practices.
 
-**Production Readiness:** elkozmon/zoonavigator has a high production readiness score, indicating that it is a reliable and stable choice for production environments. The project's recent activity, adoption, and strong ecosystem signals support this assessment. However, it is essential to conduct a final review of the project's license, security posture, and active maintainers to
+**Production Readiness:** elkozmon/zoonavigator has a high production readiness score, indicating that it is a reliable and stable choice for production environments. The project's recent activity, adoption, and strong ecosystem signals support this assessment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/elkozmon/zoonavigator).
 
 ### Русский
 

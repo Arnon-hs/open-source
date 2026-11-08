@@ -37,7 +37,10 @@ The practical adoption path for Shellink involves several steps:
 
 1. **Manual inspection**: Developers should carefully review the project's documentation, code, and metadata to ensure it meets their requirements and is suitable for their use case.
 2. **Dependency and maintenance checks**: Before integrating Shellink into production, developers should verify the project's dependencies, maintenance history, and release cadence to ensure it remains stable and secure.
-3. **Testing and validation**: Developers should thoroughly test Shellink in a controlled environment to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jie123108/Shellink).
 
 ### Русский
 

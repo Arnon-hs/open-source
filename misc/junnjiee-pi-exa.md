@@ -38,7 +38,11 @@ The primary value of Pi Exa lies in its ability to accelerate AI development by 
 To adopt Pi Exa, developers should start by manually inspecting the project's metadata, verifying its license, maintenance, documentation, issues, and release cadence. They should also evaluate the project's production readiness and perform dependency checks before integrating it into their workflows.
 
 **Production Readiness:**
-Pi Exa has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows, but may require additional checks and validation before being used in production environments. Developers should carefully evaluate the project's risks and
+Pi Exa has a medium production readiness score, indicating that it is suitable for prototype development or internal workflows, but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/junnjiee/pi-exa).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary of the systemd/mkosi project:
 
 **Practical Adoption Path:** To adopt systemd/mkosi, developers can start with a small proof of concept to evaluate its feasibility and compatibility with their existing infrastructure. A thorough review of the README and documentation is also recommended to ensure a smooth integration process.
 
-**Production Readiness:** Systemd/mkosi has a high production readiness score, with recent activity, strong adoption, and a robust ecosystem signal. With 1937 GitHub stars, 433 forks, and regular updates, the project demonstrates a strong commitment to its users and a high level of quality. However, a final review of
+**Production Readiness:** Systemd/mkosi has a high production readiness score, with recent activity, strong adoption, and a robust ecosystem signal. With 1937 GitHub stars, 433 forks, and regular updates, the project demonstrates a strong commitment to its users and a high level of quality.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/systemd/mkosi).
 
 ### Русский
 

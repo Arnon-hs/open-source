@@ -42,7 +42,10 @@ To adopt CodeJourney, follow these steps:
 1. **Verify the project's quality signals**: Check the project's README, activity, and metadata to ensure they align with your specific workflow needs.
 2. **Inspect the code and dependencies**: Review the project's codebase, dependencies, and maintenance practices to ensure they meet your project's requirements.
 3. **Evaluate the project's license and documentation**: Verify the project's license terms and ensure the documentation is comprehensive and up-to-date.
-4. **Test the project in a prototype or internal workflow**: Before adopting CodeJourney in production, test it in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/adaptive-scale/codejourney).
 
 ### Русский
 

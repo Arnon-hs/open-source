@@ -39,7 +39,10 @@ Before adopting EuniAI/Prometheus in production, it is essential to manually ins
 1. Evaluating the project's metadata and documentation.
 2. Reviewing the license and security posture.
 3. Checking the activity level of maintainers and contributors.
-4. Testing the project in a proof-of
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/EuniAI/Prometheus).
 
 ### Русский
 

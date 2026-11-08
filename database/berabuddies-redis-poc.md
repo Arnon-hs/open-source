@@ -44,9 +44,9 @@ To adopt this project, follow these steps:
 3. **Integration**: Integrate the project into your workflow, taking into account its potential impact on your development process.
 4. **Testing and Validation**: Test and validate the project's effectiveness in your specific use case.
 
-**Production Readiness**
+## Before adopting
 
-The project is considered **Medium** in
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/berabuddies/redis-poc).
 
 ### Русский
 

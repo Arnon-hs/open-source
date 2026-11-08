@@ -38,7 +38,9 @@ AI/ML · Backend
 3. Integrate the project into their existing system, leveraging its Python implementation and 7 topics.
 4. Prototype AI features, build RAG or agent workflows, and evaluate model tooling using the project.
 
-**Production Readiness:** Eigenwise/atomic-agents has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Eigenwise/atomic-agents).
 
 ### Русский
 

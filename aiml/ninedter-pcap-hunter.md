@@ -37,7 +37,10 @@ The primary value of pcap-hunter lies in its ability to streamline threat-huntin
 
 1. **Proof of Concept (PoC)**: Start by evaluating pcap-hunter through a small-scale PoC, ensuring it meets your specific requirements and integrates seamlessly with your existing infrastructure.
 2. **Dependency and Maintenance Checks**: Assess the tool's dependencies and maintenance requirements to ensure they align with your organization's policies and standards.
-3. **Internal Workflows**: Deploy pcap-hunter in internal workflows, such as threat-hunting or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ninedter/pcap-hunter).
 
 ### Русский
 

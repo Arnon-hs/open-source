@@ -43,7 +43,10 @@ Regarding production readiness:
 The project has a medium production readiness score, indicating that it's suitable for:
 
 1. **Prototypes**: The project can be used as a starting point for proof-of-concepts or prototypes.
-2. **Internal Workflows**: It can
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ulyssestenn/allthenewsyouneed).
 
 ### Русский
 

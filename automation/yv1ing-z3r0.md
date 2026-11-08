@@ -36,8 +36,9 @@ The primary value of yv1ing/Z3r0 lies in its ability to remove repetitive manual
 **Practical Adoption Path:**
 To adopt yv1ing/Z3r0, start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. This will help you understand the project's capabilities and limitations. Next, assess the project's production readiness by checking for dependencies, maintenance requirements, and reviewing the license and security posture. Once you have a clear understanding of the project's strengths and weaknesses, you can begin integrating it into your workflow.
 
-**Production Readiness:**
-yv1ing/Z3r0 is considered production-ready for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/yv1ing/Z3r0).
 
 ### Русский
 

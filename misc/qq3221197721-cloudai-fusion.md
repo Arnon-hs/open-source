@@ -41,9 +41,9 @@ The primary value of cloudai-fusion lies in its ability to accelerate the develo
 
 To adopt cloudai-fusion, developers should start by manually inspecting the project's metadata to understand its integration requirements. This may involve validating the setup cost and potential risks associated with integrating the project into their existing workflows. Once the integration path is clear, developers can begin using cloudai-fusion for prototyping AI features, building RAG or agent workflows, and evaluating model tooling.
 
-**Production Readiness**
+## Before adopting
 
-cloudai-fusion has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows but may require additional checks and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/QQ3221197721/cloudai-fusion).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary of the Pazl27/typy-cli project:
 
 **Practical Adoption Path:** To adopt Pazl27/typy-cli, engineers can start by integrating it into their existing development workflows. This may involve automating typing tests as part of their CI/CD pipelines or using it to speed up local development tasks. The tool's straightforward API and language metadata make it easy to evaluate and integrate into existing projects.
 
-**Production Readiness:** While Pazl27/typy-cli has shown promise, its production readiness is rated as medium due to its relatively low score (61/100) and the need for further evaluation of its license, security posture, and active maintainers. However, with proper dependency and maintenance checks, this tool can be a valuable addition to
+**Production Readiness:** While Pazl27/typy-cli has shown promise, its production readiness is rated as medium due to its relatively low score (61/100) and the need for further evaluation of its license, security posture, and active maintainers.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Pazl27/typy-cli).
 
 ### Русский
 

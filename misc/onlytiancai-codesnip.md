@@ -41,8 +41,9 @@ To adopt onlytiancai/codesnip, developers should follow these steps:
 3. Evaluate the project's compatibility with existing systems and tools.
 4. Perform thorough testing and validation to ensure seamless integration.
 
-**Production Readiness:**
-onlytiancai/codesnip has a medium production readiness score, indicating that it is suitable for prototyping and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/onlytiancai/codesnip).
 
 ### Русский
 

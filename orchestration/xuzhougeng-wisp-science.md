@@ -62,11 +62,9 @@ xuzhougeng/wisp-science 支持多种接入方式，包括：
 * 语言元数据：通过语言元数据，可以提供更多的信息和功能。
 * 焦点主题：通过焦点主题，可以提供特定功能和工具。
 
-**生产可用性**
+## 采用前检查
 
-xuzhougeng/wisp-science 的生产可用性非常高，主要原因是：
-
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/xuzhougeng/wisp-science)。
 
 ## 🧭 Practical evaluation
 

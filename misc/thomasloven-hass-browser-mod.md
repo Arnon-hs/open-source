@@ -40,7 +40,11 @@ Here's a brief summary of the open-source project:
 3. Perform dependency and maintenance checks to ensure the integration is production-ready.
 4. Evaluate the integration's license, security posture, and active maintainers to mitigate potential risks.
 
-**Production Readiness:** The production readiness of 'hass-browser_mod' is rated as medium, indicating that it is suitable for prototypes or internal workflows. While it has a moderate level of
+**Production Readiness:** The production readiness of 'hass-browser_mod' is rated as medium, indicating that it is suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/thomasloven/hass-browser_mod).
 
 ### Русский
 

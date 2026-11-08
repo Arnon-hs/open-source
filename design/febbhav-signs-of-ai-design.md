@@ -44,7 +44,10 @@ The primary value of Signs of AI Design Slop lies in its ability to accelerate A
 To adopt Signs of AI Design Slop effectively:
 
 1. **Manual Inspection:** Carefully review the project's metadata and integration signals to ensure they meet your specific needs.
-2. **Dependency and Maintenance Checks:** Verify the project's dependencies, maintenance requirements, and release cadence to ensure stability and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/febbhav/signs-of-ai-design).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt this model, follow these steps:
 1. **Manual Inspection**: Carefully review the model's documentation, GitHub repository, and related issues to understand its limitations and potential risks.
 2. **Verify Quality Signals**: Check the model's GitHub stars, update history, and primary language to gauge its activity and community support.
 3. **Evaluate Integration**: Assess the model's integration signals and potential compatibility issues with your existing project infrastructure.
-4. **Test and Refine**: Use the model in a controlled environment to test its performance and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://huggingface.co/google-t5/t5-3b).
 
 ### Русский
 

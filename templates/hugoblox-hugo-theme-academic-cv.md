@@ -86,7 +86,10 @@ HugoBlox/hugo-theme-academic-cv 是一个基于 Hugo 的开源项目，提供了
 该项目的生产可用性较高，因为：
 
 * 有近 5000 个 GitHub Star 和 6,457 个 Fork
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/HugoBlox/hugo-theme-academic-cv)。
 
 ## 🧭 Practical evaluation
 

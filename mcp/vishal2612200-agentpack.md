@@ -43,9 +43,9 @@ To adopt Agentpack, developers can follow these steps:
 2. **Integrate with AI models**: Connect Agentpack with various AI models, such as Claude Code, Codex, Cursor, and MCP, to leverage its context engine capabilities.
 3. **Standardize integrations**: Use Agentpack to establish a standard protocol for integrating AI agents with tools and data, simplifying workflows and enhancing productivity.
 
-**Production Readiness:**
+## Before adopting
 
-Agentpack demonstrates a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vishal2612200/agentpack).
 
 ### Русский
 

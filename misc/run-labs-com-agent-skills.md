@@ -40,7 +40,10 @@ As for the practical adoption path, users can follow these steps:
 Regarding production readiness, this project is rated "Medium". It's suitable for:
 
 * **Prototypes**: Use the project to explore AI capabilities and test new ideas.
-* **Internal workflows**: Integrate the project into your internal workflows to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Run-Labs-com/agent-skills/tree/main).
 
 ### Русский
 

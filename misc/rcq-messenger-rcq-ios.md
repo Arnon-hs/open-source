@@ -46,7 +46,11 @@ To adopt this project, follow these steps:
 
 **Production Readiness**
 
-The project has a medium production readiness score of 50%. While it can be useful for
+The project has a medium production readiness score of 50%.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rcq-messenger/rcq-ios).
 
 ### Русский
 

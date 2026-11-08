@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully review the project's README, activity, and code to understand its functionality and potential limitations.
 2. **Verify Quality Signals**: Check the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your organization's standards.
 3. **Dependency and Maintenance Checks**: Verify that the project's dependencies are stable and well-maintained, and that it aligns with your organization's infrastructure and security requirements.
-4. **Prototype or Internal Workflow**: Once you've verified the project's quality and compatibility, use it in a controlled environment, such as
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mslxnu/native_abi).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The value proposition of tabler/tabler-icons lies in its ability to help develop
 
 To adopt tabler/tabler-icons, developers can start by evaluating the project through a small proof of concept and checking the README documentation. This will help them understand the integration path and validate the setup cost before committing to the project. With a strong ecosystem and recent activity, the project is considered production-ready, making it suitable for serious pilots.
 
-**Production Readiness:**
+## Before adopting
 
-Tabler/tabler-icons is highly production-ready, with
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tabler/tabler-icons).
 
 ### Русский
 
@@ -74,7 +74,10 @@ Tabler/Tabler-Icons 的生产可用性非常高，主要原因是：
 1. 活跃社区和强大的用户界面支持。
 2. 适度的 GitHub star 和 fork 数量（21152 star、1170 fork）。
 3. 近期的更新和活动（2026-07-16）。
-4.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/tabler/tabler-icons)。
 
 ## 🧭 Practical evaluation
 

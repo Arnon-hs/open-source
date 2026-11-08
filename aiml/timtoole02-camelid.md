@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project Camelid:
 
 **Practical Adoption Path:** To adopt Camelid, users should start with a small proof of concept to evaluate its feasibility and understand the integration process. A thorough review of the README documentation is also recommended to ensure a smooth onboarding experience. As Camelid is a medium-readiness project, users should be prepared to invest time in dependency and maintenance checks before committing to production use.
 
-**Production Readiness:** Camelid's production readiness is rated as medium, indicating that while it is useful for prototypes or internal workflows, further evaluation and validation are necessary before deploying it in a production environment. This is due to the potential complexities of
+**Production Readiness:** Camelid's production readiness is rated as medium, indicating that while it is useful for prototypes or internal workflows, further evaluation and validation are necessary before deploying it in a production environment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/timtoole02/Camelid).
 
 ### Русский
 

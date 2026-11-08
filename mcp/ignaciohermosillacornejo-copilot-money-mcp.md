@@ -42,7 +42,10 @@ To adopt this project, developers can follow these steps:
 1. **Evaluate the project**: Review the project's documentation, code, and community engagement to ensure it meets their needs and requirements.
 2. **Integrate with AI assistants**: Use the MCP protocol to connect AI assistants with real tools and data, following the project's guidelines and documentation.
 3. **Ship Model Context Protocol servers**: Deploy the MCP server to enable AI-powered personal finance queries using local data.
-4. **Standardize integrations**: Use the MCP protocol to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ignaciohermosillacornejo/copilot-money-mcp).
 
 ### Русский
 

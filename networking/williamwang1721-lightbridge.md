@@ -38,7 +38,11 @@ Networking
 3. **Testing**: Thoroughly test LightBridge in a controlled environment before deploying it in production.
 4. **Customization**: Leverage the rich selection of functional plugins to customize LightBridge to meet your specific needs.
 
-**Production Readiness:** LightBridge has a moderate production readiness score of 5/10. While it is suitable for prototypes, internal workflows, and proof-of
+**Production Readiness:** LightBridge has a moderate production readiness score of 5/10.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/WilliamWang1721/LightBridge).
 
 ### Русский
 

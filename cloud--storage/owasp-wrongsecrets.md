@@ -34,7 +34,10 @@ Cloud & Storage · DevOps/Infra · Security
 **Practical Adoption Path:** The adoption path for OWASP/wrongsecrets is straightforward, with the following steps:
 
 1. **Evaluate**: Assess the project's implementation signals, such as API/SDK/CLI, language metadata, or focused topics, to determine its suitability for your team's needs.
-2. **Integrate**: Integrate OWASP/wrongsecrets into your development workflow, using its API/SDK/CLI to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/OWASP/wrongsecrets).
 
 ### Русский
 

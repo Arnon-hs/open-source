@@ -41,7 +41,11 @@ To adopt this project, developers should start by manually inspecting the code a
 
 **Production Readiness:**
 
-The project has a medium production readiness score, indicating that it's suitable for use in prototypes or internal workflows, but may require additional checks and validation before being used in production environments. Developers should carefully evaluate the project's dependencies, maintenance requirements, and
+The project has a medium production readiness score, indicating that it's suitable for use in prototypes or internal workflows, but may require additional checks and validation before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rcl9/Playing-Computer-Music-via-AM-Radio-on-IMSAI-8080-PDP8-Sorcerer-TRS80-etc-in-the-1970s).
 
 ### Русский
 

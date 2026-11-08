@@ -35,7 +35,11 @@ Here's a brief summary and analysis of the project:
 
 **Practical Adoption Path:** To adopt MajdataPlay, developers will need to manually inspect the project before integrating it into their workflows. This is due to the sparse integration signals in the discovered metadata, which may require additional setup and validation. Before committing to production, developers should perform dependency and maintenance checks to ensure the project aligns with their specific use cases.
 
-**Production Readiness:** MajdataPlay has a moderate level of production readiness, with a score of 52/100. While it has some quality signals, such as 318 GitHub stars and 52 forks, its
+**Production Readiness:** MajdataPlay has a moderate level of production readiness, with a score of 52/100.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LingFeng-bbben/MajdataPlay).
 
 ### Русский
 

@@ -35,7 +35,11 @@ Here's a brief summary and an explanation of the project's value, adoption path,
 
 **Adoption Path:** To adopt nuxt/image, developers should start by evaluating the project's README to ensure it matches their workflow or use case. A small proof of concept is recommended to assess the project's feasibility and effectiveness. This approach will help developers gauge the project's potential and make an informed decision about integrating it into their application.
 
-**Production Readiness:** nuxt/image is considered production-ready due to its recent activity, strong adoption (1533 GitHub stars and 326 forks), and positive ecosystem signals. The project's TypeScript language and 4 topics suggest a well-structured and maintainable codebase. However, a final review of the project's license, security posture, and active maintainers is still necessary to
+**Production Readiness:** nuxt/image is considered production-ready due to its recent activity, strong adoption (1533 GitHub stars and 326 forks), and positive ecosystem signals. The project's TypeScript language and 4 topics suggest a well-structured and maintainable codebase.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nuxt/image).
 
 ### Русский
 

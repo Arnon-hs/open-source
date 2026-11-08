@@ -37,8 +37,9 @@ The main value proposition of Rwx lies in its ability to help developers reduce 
 **Practical Adoption Path:**
 To adopt Rwx, developers should first manually inspect the project for its quality, maintenance, and documentation. This involves verifying the license, checking the release cadence, reviewing the issue tracker, and ensuring that the project is well-documented. Once these checks are complete, developers can integrate Rwx into their workflow, leveraging its interactive TUI manager to streamline Unix file permissions and ownership management.
 
-**Production Readiness:**
-Rwx is considered medium production-ready, indicating that it can be useful for prototyping or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/vncsmnl/rwx).
 
 ### Русский
 

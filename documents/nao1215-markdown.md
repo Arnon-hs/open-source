@@ -37,7 +37,11 @@ The value of nao1215/markdown lies in its ability to simplify the process of add
 To adopt this project, start with a small proof of concept to evaluate its feasibility and understand the integration process. It is essential to carefully review the README documentation and perform dependency and maintenance checks before considering production use. This will help ensure a smooth adoption process and minimize potential risks.
 
 **Production Readiness:**
-While nao1215/markdown has a medium production readiness score, it is still suitable for internal workflows, prototyping, and proof-of-concept projects. However, it may not be ready for large-scale production use without further evaluation and potential modifications to
+While nao1215/markdown has a medium production readiness score, it is still suitable for internal workflows, prototyping, and proof-of-concept projects.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nao1215/markdown).
 
 ### Русский
 

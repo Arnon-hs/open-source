@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the PCGen/pcgen project:
 
 **Practical Adoption Path:** To adopt PCGen/pcgen, developers will need to manually inspect the project's metadata and integration signals to understand its integration path. This may require additional setup and validation costs before committing to its use. Once the integration path is understood, developers can leverage the project's features and tools to build and deploy their AI solutions.
 
-**Production Readiness:** PCGen/pcgen is considered production-ready with medium readiness. While it is
+**Production Readiness:** PCGen/pcgen is considered production-ready with medium readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/PCGen/pcgen).
 
 ### Русский
 

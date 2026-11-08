@@ -39,7 +39,10 @@ To adopt ChorusGraph, follow these steps:
 1. **Assess the project's quality and risks**: Verify the project's license, maintenance, documentation, issues, and release cadence to ensure it aligns with your organization's standards.
 2. **Review the integration process**: Study the project's documentation and community resources to understand the integration process and potential challenges.
 3. **Test the project in a prototype or internal workflow**: Use ChorusGraph in a controlled environment to evaluate its performance, scalability, and suitability for your specific use case.
-4. **Perform dependency and maintenance checks**: Ensure that the project's dependencies are
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/insightitsGit/ChorusGraph).
 
 ### Русский
 

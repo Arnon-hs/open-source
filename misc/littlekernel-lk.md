@@ -40,7 +40,11 @@ For practical adoption, users should follow these steps:
 3. Validate the setup cost and potential dependencies before committing to the project.
 4. Perform dependency and maintenance checks before deploying the kernel in production environments.
 
-The production readiness of littlekernel/lk is classified as medium, indicating that it is suitable for prototypes, internal workflows, or proof-of-concepts. However, it is not yet ready for widespread adoption in
+The production readiness of littlekernel/lk is classified as medium, indicating that it is suitable for prototypes, internal workflows, or proof-of-concepts.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/littlekernel/lk).
 
 ### Русский
 

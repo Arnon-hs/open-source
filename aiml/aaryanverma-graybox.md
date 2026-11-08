@@ -72,7 +72,10 @@ Aaryanverma/graybox 具有较高的生产可用性，主要原因是：
 * 近期活动：最近有活动和更新
 * 采用率：有 190 个 GitHub 星和 14 个分叉
 * 语言：主要语言是 Python
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/Aaryanverma/graybox)。
 
 ## 🧭 Practical evaluation
 

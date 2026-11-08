@@ -39,9 +39,9 @@ The "Awesome AI Handbook" offers significant value to AI developers by providing
 
 To adopt this project, users can start by evaluating its feasibility through a small proof of concept and a review of the README file. This will help identify potential integration challenges and validate the setup cost before committing to a full-scale implementation. Once the project is selected, users can leverage its 52 files to build and integrate AI workflows, starting with simple tasks and gradually moving to more complex multi-agent workflows.
 
-**Production Readiness:**
+## Before adopting
 
-The "Awesome AI Handbook" has a medium production readiness score, making it suitable for
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bestdeejay-design/awesome-ai-handbook).
 
 ### Русский
 

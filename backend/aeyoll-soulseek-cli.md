@@ -45,9 +45,9 @@ To adopt aeyoll/soulseek-cli, engineers can follow these steps:
 4. Integrate the tool into existing workflows, starting with prototype or internal use cases.
 5. Monitor tool performance, providing feedback to the maintainers to ensure continuous improvement.
 
-**Production Readiness:**
+## Before adopting
 
-aeyoll/soulseek-cli has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/aeyoll/soulseek-cli).
 
 ### Русский
 

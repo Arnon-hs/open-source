@@ -35,7 +35,9 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, users can start by evaluating its implementation signals, such as the API, SDK, or CLI exposure, language metadata, and focused topics. This will help them understand the project's capabilities and limitations. Next, users can integrate the project into their existing workflows, following the production readiness guidelines to ensure a smooth implementation. Finally, users should conduct a thorough review of the project's license, security posture, and active maintainers to mitigate any potential risks.
 
-**Production Readiness:** The project's production readiness is rated as medium, indicating that
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MIKOTOKAWAII25/local-ai-code-assistant).
 
 ### Русский
 

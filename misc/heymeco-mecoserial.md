@@ -44,9 +44,9 @@ To adopt this project, follow these steps:
 3. **Perform manual inspection**: Carefully review the code and dependencies to ensure they are suitable for your use case.
 4. **Test and integrate**: Once you've evaluated the project, test it thoroughly and integrate it into your workflow.
 
-**Production Readiness:**
+## Before adopting
 
-The Modern Serial Console project has a moderate production readiness score of 5 out of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/HeyMeco/MecoSerial).
 
 ### Русский
 

@@ -42,8 +42,9 @@ To adopt this project, developers should follow these steps:
 4. Test the project in a controlled environment to validate its functionality and identify any potential issues.
 5. Integrate the project into their workflow, monitoring its performance and maintenance requirements.
 
-**Production Readiness:**
-The project's production readiness is medium, indicating that it can
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/utmapp/UTM/issues/7658).
 
 ### Русский
 

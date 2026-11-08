@@ -41,7 +41,11 @@ To adopt this project, developers should first manually inspect the metadata to 
 
 **Production Readiness:**
 
-Phishing-Database/Phishing.Database has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its maturity. The project's 1585 GitHub stars, 50 forks, and
+Phishing-Database/Phishing.Database has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating its maturity.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Phishing-Database/Phishing.Database).
 
 ### Русский
 

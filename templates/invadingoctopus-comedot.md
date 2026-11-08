@@ -44,9 +44,9 @@ InvadingOctopus/comedot is an open-source project that offers a Godot template a
 3. Assess the production readiness score, adoption, and ecosystem signals to gauge the framework's reliability.
 4. Review the license, security posture, and active maintainers to ensure a stable and secure project.
 
-**Production Readiness:**
+## Before adopting
 
-With a high production readiness score, comedot demonstrates strong signals of reliability and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/InvadingOctopus/comedot).
 
 ### Русский
 

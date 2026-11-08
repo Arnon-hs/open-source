@@ -38,7 +38,9 @@ As for the practical adoption path, here's a suggested approach:
 3. **Assess dependencies and security**: Check the project's dependencies, security posture, and license to ensure they align with your organization's standards.
 4. **Plan for maintenance**: Consider the maintenance requirements and potential risks associated with using pandev-cli in a production environment.
 
-In terms of production readiness, while pandev-cli is useful for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pandev-metriks/pandev-cli).
 
 ### Русский
 

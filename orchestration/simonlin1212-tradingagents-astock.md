@@ -39,7 +39,10 @@ To adopt this project, follow these steps:
 1. **Evaluate and Assess**: Review the project's README, GitHub stars, forks, and recent activity to gauge its maturity and potential.
 2. **Proof of Concept**: Start with a small proof of concept to test the project's functionality, feasibility, and compatibility with your specific use case.
 3. **Integration and Customization**: Integrate the project with your existing infrastructure and customize it to meet your specific needs.
-4. **Monitoring and Maintenance**: Regularly monitor the project's updates, security posture, and maintainers to ensure its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/simonlin1212/TradingAgents-astock).
 
 ### Русский
 

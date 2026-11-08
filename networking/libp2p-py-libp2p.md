@@ -41,7 +41,10 @@ To adopt this project, developers can start by:
 
 1. Evaluating the project's feasibility through a small proof of concept.
 2. Checking the README documentation to understand the project's structure and requirements.
-3. Verifying the project's license, maintenance, documentation, issues, and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/libp2p/py-libp2p).
 
 ### Русский
 

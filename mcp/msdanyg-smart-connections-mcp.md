@@ -40,7 +40,10 @@ To adopt "smart-connections-mcp", developers can follow these steps:
 1. Evaluate the project's implementation signals, such as its API, SDK, CLI, and language metadata.
 2. Review the project's license, security posture, and active maintainers to ensure it meets their needs.
 3. Integrate the project into their existing systems and tools.
-4. Test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/msdanyg/smart-connections-mcp).
 
 ### Русский
 

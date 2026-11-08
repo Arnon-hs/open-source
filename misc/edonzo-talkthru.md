@@ -40,7 +40,10 @@ To adopt Talkthru, developers will need to:
 1. Review the project's documentation and codebase to understand its functionality and limitations.
 2. Verify the project's quality signals, including its license, maintenance, documentation, and release cadence.
 3. Inspect the project's integration signals to ensure they meet the developer's specific needs.
-4. Conduct a proof-of
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/EdonZo/talkthru).
 
 ### Русский
 

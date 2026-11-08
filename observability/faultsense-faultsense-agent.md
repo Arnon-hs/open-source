@@ -41,7 +41,11 @@ Before adopting Show HN, engineers should conduct a thorough review of the libra
 
 **Production Readiness:**
 
-Show HN is considered production-ready with medium readiness, making it suitable for internal workflows, prototypes, or small-scale production environments. However, due to its limited quality signals and
+Show HN is considered production-ready with medium readiness, making it suitable for internal workflows, prototypes, or small-scale production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Faultsense/faultsense-agent).
 
 ### Русский
 

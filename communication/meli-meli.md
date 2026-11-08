@@ -43,7 +43,10 @@ To adopt Meli, developers can follow these steps:
 2. Assess the project's adoption and ecosystem signals, such as GitHub stars and forks.
 3. Review the project's security posture, license, and maintainers to ensure it aligns with their project's needs.
 4. Integrate Meli into their project, taking advantage of its pre-built model stack and AI capabilities.
-5. Test and evaluate Meli's performance and effectiveness in
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/meli/meli).
 
 ### Русский
 

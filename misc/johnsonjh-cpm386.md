@@ -44,9 +44,9 @@ To adopt CP/M-386, follow these steps:
 3. **Verify License and Maintenance**: Check the project's license, maintenance, documentation, issues, and release cadence to ensure it aligns with your needs.
 4. **Test and Validate**: Test the project in a controlled environment to ensure it meets your requirements.
 
-**Production Readiness:**
+## Before adopting
 
-CP/M-386 has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/johnsonjh/cpm386).
 
 ### Русский
 

@@ -44,9 +44,9 @@ To adopt this project, follow these steps:
 3. **Dependency and Maintenance Checks**: Evaluate the project's dependencies and maintenance requirements to ensure they align with your production environment.
 4. **Prototype or Internal Workflow**: Use the project in a prototype or internal workflow to test its functionality and identify potential issues.
 
-**Production Readiness**
+## Before adopting
 
-The project's production readiness is medium, making it suitable for use in prototypes or
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/n1tr00-10/tiktok-signature).
 
 ### Русский
 

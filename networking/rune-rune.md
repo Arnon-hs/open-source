@@ -37,7 +37,11 @@ The value proposition of Rune lies in its ability to simplify the process of bui
 To adopt Rune, developers can start by evaluating its feasibility for their project through a small proof of concept and reviewing the project's README. They can then choose to integrate Rune into their project, selecting from a range of frontend web frameworks and programming languages supported by the project. This makes it a relatively straightforward process for developers to incorporate Rune into their workflow.
 
 **Production Readiness:**
-Rune has a high production readiness score, indicating that it is suitable for serious piloting. The project has recent activity, adoption, and
+Rune has a high production readiness score, indicating that it is suitable for serious piloting.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rune/rune).
 
 ### Русский
 

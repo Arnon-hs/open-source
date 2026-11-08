@@ -45,9 +45,9 @@ To adopt this project, follow these steps:
 4. **Assess release cadence**: Verify the project's release frequency to ensure it aligns with your project's needs.
 5. **Prototype and test**: Use the project in a controlled environment to test its functionality and identify potential issues.
 
-**Production Readiness:**
+## Before adopting
 
-The project has
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/cookiengineer/hydra).
 
 ### Русский
 

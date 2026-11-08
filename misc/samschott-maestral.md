@@ -38,7 +38,9 @@ Misc
 3. **Prototype and Test:** Use Maestral to prototype and test your AI features, taking advantage of its pre-built capabilities to speed up development.
 4. **Refine and Iterate:** Once you have a working prototype, refine and iterate on your AI features, making adjustments as needed to meet your project's requirements.
 
-**Production Readiness:** Maestral is considered medium-production ready, making it suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/samschott/maestral).
 
 ### Русский
 

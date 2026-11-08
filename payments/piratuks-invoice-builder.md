@@ -38,7 +38,10 @@ To adopt the piratuks/invoice-builder, users can follow these steps:
 
 1. **Evaluate the project's quality and security**: Review the project's GitHub page, documentation, and code to ensure it meets the necessary standards for your business.
 2. **Assess the project's dependencies and maintenance requirements**: As the project is considered 'useful for prototypes or internal workflows', it's essential to check the dependencies and maintenance needs before adopting it for production use.
-3. **Integrate the project into
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/piratuks/invoice-builder).
 
 ### Русский
 

@@ -37,7 +37,10 @@ Here's a brief summary and explanation of the project:
 
 1. **Evaluate the project**: Review the README, check the project's activity, and assess its adoption and ecosystem signals.
 2. **Start with a small proof of concept**: Develop a small proof of concept to test the feasibility of integrating OpenClaw with your tools and services.
-3. **Ship Model Context Protocol servers**: Deploy the Model Context Protocol servers to enable the standardization of
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Anil-matcha/awesome-openclaw).
 
 ### Русский
 

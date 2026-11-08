@@ -41,7 +41,11 @@ To adopt cachekit in a production environment, developers should start by evalua
 
 **Production Readiness**
 
-OxidizeLabs/cachekit is considered production-ready for prototype or internal workflow applications, with a medium-level production readiness score. While the project has
+OxidizeLabs/cachekit is considered production-ready for prototype or internal workflow applications, with a medium-level production readiness score.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/OxidizeLabs/cachekit).
 
 ### Русский
 

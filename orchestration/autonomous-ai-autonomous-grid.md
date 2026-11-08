@@ -41,7 +41,11 @@ To adopt Autonomous Grid, users should start with a small proof of concept to ev
 
 **Production Readiness:**
 
-With a medium production readiness score, Autonomous Grid is suitable for use in prototypes or internal workflows. However, careful consideration and checks are required to ensure that the project meets the necessary dependency and
+With a medium production readiness score, Autonomous Grid is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/autonomous-ai/autonomous-grid).
 
 ### Русский
 

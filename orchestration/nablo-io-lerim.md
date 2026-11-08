@@ -35,7 +35,11 @@ Here's a brief summary and an explanation of the value, adoption path, and produ
 
 **Adoption Path:** To adopt nablo-io/lerim, users should start with a small proof of concept and carefully review the README documentation. This will help evaluate the tool's feasibility and identify potential integration challenges. Once the proof of concept is successful, users can gradually integrate the tool into their workflows, starting with small-scale pilot projects and scaling up as needed.
 
-**Production Readiness:** nablo-io/lerim has a medium level of production readiness, making it suitable for prototypes or internal workflows. However, users should conduct thorough dependency and maintenance checks before deploying the tool in production. Additionally, a final review of the
+**Production Readiness:** nablo-io/lerim has a medium level of production readiness, making it suitable for prototypes or internal workflows. However, users should conduct thorough dependency and maintenance checks before deploying the tool in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nablo-io/lerim).
 
 ### Русский
 

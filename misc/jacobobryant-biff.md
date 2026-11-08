@@ -37,7 +37,11 @@ The primary value of Biff.graph lies in its ability to structure a Clojure codeb
 Before adopting Biff.graph, developers should manually inspect the project to ensure its quality, maintenance, and documentation meet their needs. This includes verifying the license, maintenance schedule, documentation, issues, and release cadence. Once these checks are complete, Biff.graph can be integrated into a development workflow, particularly for prototyping or internal projects.
 
 **Production Readiness:**
-Biff.graph is considered to have medium production readiness, making it suitable for prototypes or internal workflows. However, due to limited quality signals and sparse integration signals, it's essential to exercise caution before using it in
+Biff.graph is considered to have medium production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jacobobryant/biff/tree/v2.x/libs/graph).
 
 ### Русский
 

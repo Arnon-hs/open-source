@@ -44,7 +44,10 @@ The javifalces/HFTFramework offers significant value to researchers and practiti
 To adopt the javifalces/HFTFramework, follow these steps:
 
 1. **Evaluate the framework**: Review the project's documentation, code, and examples to understand its capabilities and limitations.
-2. **Start with
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/javifalces/HFTFramework).
 
 ### Русский
 

@@ -67,7 +67,10 @@ tradingstrategy-ai/trading-strategy 是一个用于量化金融分析和在去�
 
 * 近期活动：项目最近更新于2026-07-18。
 * 受欢迎程度：371 个 GitHub 星，66 个分支。
-*
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/tradingstrategy-ai/trading-strategy)。
 
 ## 🧭 Practical evaluation
 

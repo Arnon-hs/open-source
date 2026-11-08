@@ -38,7 +38,10 @@ Here's a brief summary of the open-source project:
 1. **Manual Inspection:** Before adopting the project, teams need to manually inspect the codebase, documentation, and issue tracker to ensure it meets their requirements.
 2. **Verify Quality Signals:** Verify the project's license, maintenance, documentation, issue tracker, and release cadence to ensure it is reliable and well-maintained.
 3. **Prototype and Test:** Use the project to prototype database-backed applications and test its performance, scalability, and reliability.
-4. **Integration and Testing:** Integrate the project with other tools and services, and thoroughly test its functionality to ensure a
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/helicalinsight/helicalinsight).
 
 ### Русский
 

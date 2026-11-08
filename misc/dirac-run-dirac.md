@@ -45,7 +45,11 @@ To adopt Dirac, follow these steps:
 
 **Production Readiness:**
 
-Dirac is considered **Medium** in terms of production readiness, making it suitable for prototypes or internal workflows. However, before deploying it in a production environment, it's essential to perform a thorough review of
+Dirac is considered **Medium** in terms of production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dirac-run/dirac).
 
 ### Русский
 

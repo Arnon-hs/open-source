@@ -57,7 +57,11 @@ Sandboxie Plus & Classic 的价值在于，它可以为开发者提供一个安�
 
 **生产可用性**
 
-Sandboxie Plus & Classic 在生产环境中具有中等可用性。它可以用于Prototype 或内部工作流程，但需要进行依赖项和维护检查。因此，建议在生产环境中谨慎使用 Sandboxie Plus & Classic，并且
+Sandboxie Plus & Classic 在生产环境中具有中等可用性。它可以用于Prototype 或内部工作流程，但需要进行依赖项和维护检查。
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/sandboxie-plus/Sandboxie)。
 
 ## 🧭 Practical evaluation
 

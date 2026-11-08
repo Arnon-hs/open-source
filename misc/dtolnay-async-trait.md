@@ -37,7 +37,10 @@ The practical adoption path for dtolnay/async-trait involves several steps:
 
 1. **Manual inspection**: Developers need to inspect the project's metadata and integration signals to understand its usage and potential pitfalls.
 2. **Setup validation**: Before committing to production, developers should validate the setup costs and potential risks associated with integrating dtolnay/async-trait into their system.
-3. **Dependency and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dtolnay/async-trait).
 
 ### Русский
 

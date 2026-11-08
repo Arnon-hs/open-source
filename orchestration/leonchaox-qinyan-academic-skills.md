@@ -38,7 +38,10 @@ The value of LeonChaoX/qinyan-academic-skills lies in its ability to transform i
 To adopt LeonChaoX/qinyan-academic-skills, users can follow these steps:
 
 1. **Explore the library**: Browse through the list of available skills and identify the ones relevant to their research needs.
-2. **Evaluate and integrate**: Choose the desired skills and integrate them into their existing workflow using the provided API, SDK, or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LeonChaoX/qinyan-academic-skills).
 
 ### Русский
 

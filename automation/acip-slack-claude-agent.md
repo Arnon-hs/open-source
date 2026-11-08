@@ -43,8 +43,9 @@ The project provides a solution to automate repetitive manual operations, helpin
 3. Testing: Test the bot to ensure it meets your requirements and automates tasks correctly.
 4. Maintenance: Regularly check for updates and dependencies, and perform necessary maintenance tasks.
 
-**Production Readiness:**
-The project has medium production readiness, making it suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/acip/slack-claude-agent).
 
 ### Русский
 

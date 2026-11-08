@@ -42,7 +42,10 @@ To adopt dollspace-gay/chainlink, developers can follow these steps:
 1. Evaluate the tool's suitability for their project by reviewing its documentation and API/SDK/CLI exposure.
 2. Integrate the tool into their existing workflow, either by using its CLI or by incorporating its API into their codebase.
 3. Configure the tool to meet their specific needs, such as customizing issue tracking and workflow settings.
-4. Test the tool thoroughly to ensure it meets their requirements and doesn't introduce any security risks or dependencies that
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/dollspace-gay/chainlink).
 
 ### Русский
 

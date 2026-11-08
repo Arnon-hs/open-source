@@ -36,8 +36,9 @@ The primary value of LoLei/razer-cli lies in its ability to streamline developer
 **Practical Adoption Path:**
 To adopt LoLei/razer-cli, users can start by evaluating the CLI's implementation signals, such as its API/SDK/CLI, language metadata, and focused topics. As the project is written in Python and has a strong ecosystem, it should be relatively straightforward to integrate into existing development pipelines. Users can begin by exploring the project's GitHub repository, reviewing the documentation, and experimenting with the CLI to understand its capabilities and limitations.
 
-**Production Readiness:**
-LoLei/razer-cli has demonstrated a high level of
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/LoLei/razer-cli).
 
 ### Русский
 

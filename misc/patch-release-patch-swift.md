@@ -41,7 +41,10 @@ To adopt this project, follow these steps:
 
 1. **Evaluate the project's quality signals**: Although the project has been updated recently, its quality signals are limited. Verify the license, maintenance, documentation, issues, and release cadence to ensure it meets your project's needs.
 2. **Perform manual inspection**: Due to sparse integration signals, inspect the project's code and documentation to understand its integration process and potential challenges.
-3. **Test and validate**: Once you've evaluated the project's quality and inspected its integration process, test and validate it in a controlled environment to ensure it meets your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/patch-release/patch-swift).
 
 ### Русский
 

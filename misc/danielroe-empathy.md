@@ -41,7 +41,11 @@ To adopt Empathy, developers should first manually inspect the project to ensure
 
 **Production Readiness:**
 
-Empathy has a medium production readiness level, indicating that it is useful for internal workflows or prototypes but requires additional checks and maintenance before being deployed in production. This
+Empathy has a medium production readiness level, indicating that it is useful for internal workflows or prototypes but requires additional checks and maintenance before being deployed in production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/danielroe/empathy).
 
 ### Русский
 

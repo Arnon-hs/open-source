@@ -36,8 +36,9 @@ The project's value lies in its ability to streamline the development of AI-powe
 **Practical Adoption Path:**
 To adopt this project, developers can start by evaluating its feasibility through a small proof of concept and reviewing the README documentation. Once familiar with the project's capabilities, they can integrate it into their workflows, leveraging its features to build and test AI-powered applications. The project's recent activity and strong adoption signals indicate that it is well-maintained and supported, making it a reliable choice for development.
 
-**Production Readiness:**
-The project's production readiness is high, with recent activity, adoption, and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/smixs/visual-skills).
 
 ### Русский
 

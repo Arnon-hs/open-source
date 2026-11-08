@@ -69,7 +69,10 @@ Afilmory/afilmory 的价值在于它可以帮助开发者快速添加 AI 能力�
 Afilmory/afilmory 具有较高的生产可用性，主要原因是：
 
 1. 最近的活动：项目有活跃的维护者和贡献者。
-2.
+
+## 采用前检查
+
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/Afilmory/afilmory)。
 
 ## 🧭 Practical evaluation
 

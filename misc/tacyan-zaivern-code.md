@@ -41,7 +41,10 @@ To adopt Zaivern Code, users should follow these steps:
 
 1. **Verify project quality signals**: Check the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your requirements.
 2. **Review integration notes**: Carefully inspect the project's integration signals and documentation to understand its compatibility with your existing infrastructure.
-3. **Prototype and test**: Use Zaivern Code to prototype AI features, build RAG or
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/tacyan/zaivern-code).
 
 ### Русский
 

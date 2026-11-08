@@ -37,7 +37,9 @@ Misc
 2. **Perform manual inspection and testing**: Due to the limited integration signals available, it's essential to manually inspect and test the project to understand its capabilities and limitations.
 3. **Verify dependencies and maintenance**: Before using the project in production, verify the dependencies, maintenance, and release cadence to ensure it meets your requirements.
 
-**Production Readiness:** The project is considered "Medium" in terms of production readiness, indicating that it's suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/talha-nazeef-ahmed/RPC-Triage).
 
 ### Русский
 

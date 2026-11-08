@@ -39,9 +39,9 @@ The project's value proposition lies in its ability to provide a custom, Wi-Fi r
 
 Before adopting this project, users should conduct a thorough manual inspection to assess its compatibility with their specific workflow and requirements. This involves verifying the project's documentation, maintenance, and issue history to ensure it meets their needs. Additionally, users should verify the project's license, release cadence, and dependency checks before integrating it into their workflow.
 
-**Production Readiness:**
+## Before adopting
 
-The project's production readiness is classified as medium, indicating that
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/mnaza/condition-control).
 
 ### Русский
 

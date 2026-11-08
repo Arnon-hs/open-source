@@ -41,7 +41,11 @@ To adopt niXman/mingw-builds, developers should start by evaluating the project 
 
 **Production Readiness:**
 
-The production readiness of niXman/mingw-builds is rated as medium. While it is a useful tool for prototypes or internal workflows, it requires dependency and
+The production readiness of niXman/mingw-builds is rated as medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/niXman/mingw-builds).
 
 ### Русский
 

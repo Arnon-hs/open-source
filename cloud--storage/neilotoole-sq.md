@@ -35,7 +35,11 @@ Here's a brief summary of the neilotoole/sq project:
 
 **Practical Adoption Path:** To adopt neilotoole/sq, users can start by evaluating the project through a small proof of concept and reviewing the README documentation. This will help them assess the project's feasibility and identify potential integration points. Once the proof of concept is successful, users can begin integrating the project into their production environment.
 
-**Production Readiness:** neilotoole/sq is considered production-ready due to its recent activity, strong adoption, and robust ecosystem. With over 2,500 GitHub stars and
+**Production Readiness:** neilotoole/sq is considered production-ready due to its recent activity, strong adoption, and robust ecosystem.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/neilotoole/sq).
 
 ### Русский
 

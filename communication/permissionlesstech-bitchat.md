@@ -37,7 +37,11 @@ The value proposition of Permissionlesstech/bitchat is its ability to facilitate
 To adopt Permissionlesstech/bitchat, it's essential to manually inspect the project's metadata, integration signals, and setup costs before committing to its use. This involves reviewing the project's README, documentation, and activity to ensure they match the intended workflow. Once validated, the adoption path involves setting up the project and integrating it with the desired ecosystem.
 
 **Production Readiness:**
-Permissionlesstech/bitchat has high production readiness due to its strong ecosystem signals, recent activity, and adoption. With 29,311 GitHub stars and 4,509 forks, it has a significant user base and community support. Additionally, its
+Permissionlesstech/bitchat has high production readiness due to its strong ecosystem signals, recent activity, and adoption. With 29,311 GitHub stars and 4,509 forks, it has a significant user base and community support.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/permissionlesstech/bitchat).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt the Microsoft IQ Series, follow these steps:
 3. **Ground assistant answers:** Leverage the IQ Series to ground assistant answers, ensuring they are accurate and relevant.
 
 **Production Readiness:**
-The Microsoft IQ Series has a high production readiness score due to its recent activity, strong adoption, and robust ecosystem signals. With 324 GitHub stars, 234 forks, and regular updates, this project is well-suited for a serious pilot. However, a
+The Microsoft IQ Series has a high production readiness score due to its recent activity, strong adoption, and robust ecosystem signals. With 324 GitHub stars, 234 forks, and regular updates, this project is well-suited for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/microsoft/iq-series).
 
 ### Русский
 

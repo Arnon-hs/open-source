@@ -35,7 +35,11 @@ Here's a brief summary of the neocanable/garlic project:
 
 **Practical Adoption Path:** To adopt neocanable/garlic, start with a small proof of concept and carefully review the README documentation. Evaluate the integration path, setup costs, and potential risks before committing to its use. This will help ensure a smooth adoption process and minimize potential issues.
 
-**Production Readiness:** neocanable/garlic is considered production-ready with some caveats. While it is useful for prototypes or internal workflows, its production-readiness score is medium due to the need for dependency and maintenance checks before deployment. This suggests that it may not be suitable for high-stakes or critical production environments without
+**Production Readiness:** neocanable/garlic is considered production-ready with some caveats. While it is useful for prototypes or internal workflows, its production-readiness score is medium due to the need for dependency and maintenance checks before deployment.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/neocanable/garlic).
 
 ### Русский
 

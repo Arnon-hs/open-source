@@ -41,7 +41,11 @@ Before adopting Fzy, it is essential to manually inspect the project, considerin
 
 **Production Readiness:**
 
-Fzy has a medium level of production readiness, making it suitable for prototypes or internal workflows where its benefits can be evaluated and refined. However, before deploying Fzy in a production environment, it is crucial to conduct thorough dependency and maintenance checks to ensure its reliability and
+Fzy has a medium level of production readiness, making it suitable for prototypes or internal workflows where its benefits can be evaluated and refined.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jhawthorn/fzy).
 
 ### Русский
 

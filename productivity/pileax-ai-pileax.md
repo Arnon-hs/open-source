@@ -42,7 +42,10 @@ To adopt this project, users should follow these steps:
 1. Review the project's documentation and codebase to understand its functionality and potential limitations.
 2. Verify the project's license, maintenance, and release cadence to ensure it aligns with their project's needs.
 3. Evaluate the project's quality signals, such as the number of topics, updates, and issue resolution, to gauge its stability and reliability.
-4. Perform a manual inspection of the project's integration signals to
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pileax-ai/pileax).
 
 ### Русский
 

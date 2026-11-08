@@ -35,7 +35,11 @@ Here's a brief summary of the project:
 
 **Practical Adoption Path:** Before adopting this project, engineers should manually inspect its integration signals, which are sparse in the discovered metadata. This involves verifying the project's license, maintenance, documentation, issues, and release cadence to ensure its quality and reliability. Once verified, it can be used for prototypes or internal workflows, and later, it can be considered for production use after thorough dependency and maintenance checks.
 
-**Production Readiness:** The project has a medium production readiness score, indicating that it is useful for prototypes or internal workflows. However, it requires careful evaluation and verification before being used in production environments. This is due to
+**Production Readiness:** The project has a medium production readiness score, indicating that it is useful for prototypes or internal workflows. However, it requires careful evaluation and verification before being used in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/buger/jsonparser).
 
 ### Русский
 

@@ -41,7 +41,11 @@ To adopt alibaba/xquic, developers should start by evaluating its feasibility th
 
 **Production Readiness:**
 
-The production readiness of alibaba/xquic is medium. While it has a significant user base (1905 GitHub stars) and regular updates, its integration complexities and
+The production readiness of alibaba/xquic is medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/alibaba/xquic).
 
 ### Русский
 

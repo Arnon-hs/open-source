@@ -79,9 +79,9 @@ Binance-Connector-Java 是一个简单的 Java 连接器，用于访问 Binance 
 3. 高星数（574 个 GitHub 星）
 4. 主要语言是 Java，语法清晰易读
 
-但是，仍需要对以下风险进行最终审查：
+## 采用前检查
 
-1.
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/binance/binance-connector-java)。
 
 ## 🧭 Practical evaluation
 

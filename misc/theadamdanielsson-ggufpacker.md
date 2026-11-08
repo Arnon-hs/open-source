@@ -37,8 +37,9 @@ The project provides a compact and lossless data compression solution, which is 
 **Practical Adoption Path:**
 To adopt this project, users should start by manually inspecting the code and metadata to ensure it meets their needs. This involves verifying the license, maintenance status, documentation, issue tracking, and release cadence. Once satisfied, users can integrate the project into their workflows, starting with prototyping or internal testing before scaling up to production.
 
-**Production Readiness:**
-The project has a
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/theadamdanielsson/ggufpacker).
 
 ### Русский
 

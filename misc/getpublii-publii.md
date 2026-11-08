@@ -43,7 +43,10 @@ For a successful adoption, follow these steps:
 1. **Inspect and verify**: Carefully examine the project's metadata, documentation, and issues to ensure it meets your needs.
 2. **Evaluate dependencies**: Check the project's dependencies and their maintenance status to ensure they are up-to-date and stable.
 3. **Assess production readiness**: Evaluate the project's production readiness, considering factors like license, maintenance, documentation, and release cadence.
-4. **Test and integrate**: Once you've verified the project's suitability, test and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/GetPublii/Publii).
 
 ### Русский
 

@@ -43,7 +43,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully review the README and activity of the project to ensure it aligns with your development needs.
 2. **Dependency Checks**: Verify the dependencies and plugins included in the project to ensure they are compatible with your existing setup.
 3. **Security and License Review**: Conduct a thorough review of the project's license, security posture, and active maintainers to mitigate potential risks.
-4. **Testing and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jahnli/awesome-flutter-plugins).
 
 ### Русский
 

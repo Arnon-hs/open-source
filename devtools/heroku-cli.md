@@ -47,9 +47,11 @@ To adopt the Heroku CLI project, engineers can follow these steps:
 4. Gradually scale up adoption based on the results of the pilot.
 
 **Production Readiness:**
-The Heroku CLI project has a high production readiness score, indicating that it is a mature and stable project with recent activity, strong adoption, and a robust ecosystem. Key production readiness indicators include:
+The Heroku CLI project has a high production readiness score, indicating that it is a mature and stable project with recent activity, strong adoption, and a robust ecosystem.
 
-* 885 GitHub stars and
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/heroku/cli).
 
 ### Русский
 

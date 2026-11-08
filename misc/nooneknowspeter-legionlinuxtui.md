@@ -41,7 +41,11 @@ Legionlinuxtui is an open-source project that enables users to control Lenovo Le
 4. Integrate the project into your workflow, starting with a prototype or internal project.
 5. Monitor the project's health and perform regular dependency and maintenance checks before considering production deployment.
 
-**Production Readiness:** Medium. While Legionlinuxtui has some limitations and requires careful evaluation, it can be a useful tool for prototypes or internal workflows with proper dependency and
+**Production Readiness:** Medium.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nooneknowspeter/legionlinuxtui).
 
 ### Русский
 

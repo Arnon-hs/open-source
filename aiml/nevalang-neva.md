@@ -42,9 +42,9 @@ Neva helps developers add AI capabilities without starting from scratch, leverag
 3. **Build a small project**: Create a small project using Neva to gain hands-on experience with its dataflow programming model and node editor.
 4. **Scale up**: Once familiar with Neva, integrate it into your existing project or build more complex AI features.
 
-**Production Readiness:**
+## Before adopting
 
-Neva is considered production-ready, thanks to its recent activity, adoption, and
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nevalang/neva).
 
 ### Русский
 

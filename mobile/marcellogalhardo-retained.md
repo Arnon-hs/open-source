@@ -39,9 +39,9 @@ The primary value proposition of marcellogalhardo/retained lies in its ability t
 
 To adopt marcellogalhardo/retained, developers should follow a manual inspection process to ensure a smooth integration. This involves reviewing the project's documentation, code, and dependencies to validate the setup cost and potential risks. Once integrated, developers can leverage the retained instances to improve search functionality and make internal knowledge more accessible.
 
-**Production Readiness:**
+## Before adopting
 
-marcellogalhardo/retained is considered production-ready with a medium level of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/marcellogalhardo/retained).
 
 ### Русский
 

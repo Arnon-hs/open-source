@@ -35,7 +35,11 @@ Here's a brief summary and explanation of the Clojure/ClojureScript project:
 
 **Practical Adoption Path:** Before adopting Clojure/ClojureScript, developers should manually inspect the project's README and activity to ensure it aligns with their specific workflow. This involves evaluating the project's documentation, community support, and maintenance history. Additionally, a thorough dependency and maintenance check is necessary to validate the setup cost before committing to its use.
 
-**Production Readiness:** With a medium production readiness score, Clojure/ClojureScript is suitable for prototypes or internal workflows where the development team is familiar with Clojure and has a clear understanding of the integration path. However, it may not be recommended for
+**Production Readiness:** With a medium production readiness score, Clojure/ClojureScript is suitable for prototypes or internal workflows where the development team is familiar with Clojure and has a clear understanding of the integration path.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/clojure/clojurescript).
 
 ### Русский
 

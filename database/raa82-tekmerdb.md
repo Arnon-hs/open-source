@@ -47,7 +47,11 @@ To adopt TekmerDB, users should follow these steps:
 
 **Production Readiness:**
 
-TekmerDB is considered **Medium** in terms of production readiness. It is suitable for
+TekmerDB is considered **Medium** in terms of production readiness.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/raa82/tekmerdb).
 
 ### Русский
 

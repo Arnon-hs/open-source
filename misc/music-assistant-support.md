@@ -37,8 +37,9 @@ The music-assistant/support project offers a potential solution for users who re
 **Practical adoption path:**
 To adopt this project, users should first carefully review the README and activity to ensure that it matches their specific workflow needs. Then, they should manually inspect the integration process to understand the setup and maintenance requirements. This may involve validating the setup cost and performing dependency and maintenance checks before committing to production use.
 
-**Production readiness:**
-The project has a medium production readiness score, indicating that it is suitable for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/music-assistant/support).
 
 ### Русский
 

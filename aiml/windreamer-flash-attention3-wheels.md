@@ -43,9 +43,9 @@ To adopt Flash-Attention3-Wheels, developers can follow these steps:
 2. Start with a small proof of concept to test the integration and ensure it meets their needs.
 3. Once satisfied, integrate the project into their application, taking into account dependency and maintenance checks.
 
-**Production Readiness:**
+## Before adopting
 
-While Flash-Attention3-Wheels is considered production-ready with a medium level of readiness, it's essential to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/windreamer/flash-attention3-wheels).
 
 ### Русский
 

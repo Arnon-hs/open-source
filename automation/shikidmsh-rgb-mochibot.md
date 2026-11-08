@@ -44,11 +44,9 @@ To adopt Shikidmsh-rgb/Mochibot, users can follow these steps:
 3. Start with a small-scale implementation to test the project's functionality and identify potential issues.
 4. Gradually scale up the implementation to integrate with other tools and workflows.
 
-**Production Readiness:**
+## Before adopting
 
-Shikidmsh-rgb/Mochibot has a medium production readiness level, making it suitable for:
-
-* Prototypes: The project can be
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/shikidmsh-rgb/mochibot).
 
 ### Русский
 

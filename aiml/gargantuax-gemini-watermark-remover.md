@@ -72,9 +72,9 @@ GargantuaX/gemini-watermark-remover 帮助开发者添加 AI 能力，无需从�
 *强大的采用和生态系统信号
 *强大的质量信号（5299 GitHub 星和 848 forks）
 
-但是，仍需要对以下风险进行最终审查：
+## 采用前检查
 
-*
+请根据实际需求查看当前来源文档、许可条款、依赖项和维护状态。[查看来源](https://github.com/GargantuaX/gemini-watermark-remover)。
 
 ## 🧭 Practical evaluation
 

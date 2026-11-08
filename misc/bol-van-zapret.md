@@ -39,7 +39,9 @@ Here's a brief summary and an explanation of the project:
 2. **Verify Quality Signals:** Users should verify the project's license, maintenance, documentation, issues, and release cadence to ensure it is reliable and up-to-date.
 3. **Integration and Testing:** Once the project has been vetted, users can integrate it into their workflow and test it thoroughly to ensure it works as expected.
 
-**Production Readiness:** The project is considered production-ready for prototypes or internal workflows, but users should perform dependency and maintenance checks before deploying it in
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/bol-van/zapret).
 
 ### Русский
 

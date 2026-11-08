@@ -41,7 +41,11 @@ To adopt Project Mirador, start with a small proof of concept to evaluate its fe
 
 **Production Readiness:**
 
-Project Mirador exhibits high production readiness, driven by its recent activity, strong adoption (610 GitHub stars and 270 forks), and robust ecosystem signals. Its
+Project Mirador exhibits high production readiness, driven by its recent activity, strong adoption (610 GitHub stars and 270 forks), and robust ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ProjectMirador/mirador).
 
 ### Русский
 

@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt Zalafina/QKeyMapper, users can start by evaluating its README documentation and activity to ensure it matches their specific workflow. A small proof of concept can help determine the feasibility of integration. Before committing to production, it is recommended to perform dependency and maintenance checks to ensure the tool meets the required standards.
 
-**Production Readiness:** Zalafina/QKeyMapper is considered medium production-ready, suitable for prototypes or internal workflows. While it has a moderate level of quality signals (691 GitHub stars and regular updates), the integration path is not immediately obvious from the metadata. Users should carefully validate the setup cost and
+**Production Readiness:** Zalafina/QKeyMapper is considered medium production-ready, suitable for prototypes or internal workflows. While it has a moderate level of quality signals (691 GitHub stars and regular updates), the integration path is not immediately obvious from the metadata.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Zalafina/QKeyMapper).
 
 ### Русский
 

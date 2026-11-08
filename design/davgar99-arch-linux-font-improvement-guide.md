@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt this project, developers will need to manually inspect the guide and its integration process before committing to its use. This involves reviewing the provided instructions, checking dependencies, and validating the setup cost to ensure a smooth integration. Once adopted, the guide can be used to improve font rendering and emoji support, enabling faster UI building and component reuse.
 
-**Production Readiness:** The production readiness of this project is medium, making it suitable for prototypes or internal workflows. Before using it in production, developers should conduct thorough dependency and
+**Production Readiness:** The production readiness of this project is medium, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/davgar99/arch-linux-font-improvement-guide).
 
 ### Русский
 

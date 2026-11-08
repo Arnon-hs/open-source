@@ -36,7 +36,10 @@ Misc
 1. **Manual Inspection**: Before integrating Kryptos, inspect its README, activity, and other metadata to understand its functionality, dependencies, and potential maintenance requirements.
 2. **Dependency and Maintenance Checks**: Verify the project's dependencies, maintenance history, and release cadence to ensure it aligns with your project's needs.
 3. **Quality Signal Verification**: Carefully review the project's quality signals, including its license, documentation, issue history, and release cadence, to gauge its reliability and security.
-4. **Testing and Integration**: Once you've validated Kryptos, test its encryption feature and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/swisslite/Kryptos).
 
 ### Русский
 

@@ -42,7 +42,10 @@ To adopt this project, follow these steps:
 1. **Manual Inspection**: Carefully review the project's code, documentation, and issue history to ensure it meets your requirements and is well-maintained.
 2. **Dependency and Maintenance Checks**: Verify that the project's dependencies are up-to-date and that the project's maintenance schedule is suitable for your use case.
 3. **Verify License and Release Cadence**: Ensure that the project's license is compatible with your organization's policies and that the release cadence is regular and predictable.
-4. **Integration and Testing**: Integrate the project into your
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/deepmemteam/deepmem).
 
 ### Русский
 

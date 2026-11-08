@@ -33,7 +33,11 @@ The lizhiyao/sentry-miniapp project is an open-source, cross-platform Sentry SDK
 
 As for the practical adoption path, the project's straightforward evaluation process and clear integration signals make it easy to evaluate and integrate into existing systems. The project's recent activity, adoption, and strong ecosystem signals also suggest a low-risk adoption path.
 
-The project's production readiness score is high, indicating that it is suitable for production use. The project's recent activity, 677 GitHub stars, and 143 forks demonstrate its strong adoption and community engagement. Additionally, the project's primary language is TypeScript, and it has 20 topics, indicating its versatility and potential for wide-ranging applications. However, it is essential to note that a final review of the project's license, security posture, and active maintainers is still necessary to
+The project's production readiness score is high, indicating that it is suitable for production use. The project's recent activity, 677 GitHub stars, and 143 forks demonstrate its strong adoption and community engagement. Additionally, the project's primary language is TypeScript, and it has 20 topics, indicating its versatility and potential for wide-ranging applications.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/lizhiyao/sentry-miniapp).
 
 ### Русский
 

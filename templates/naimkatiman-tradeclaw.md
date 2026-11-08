@@ -35,7 +35,11 @@ Here's a brief summary of the open-source project:
 
 **Practical Adoption Path:** To adopt Tradeclaw, users can start by evaluating its implementation details, such as API/SDK/CLI, language metadata, or focused topics, to determine its suitability for their specific use cases. Once adopted, users can leverage Tradeclaw's features to create, backtest, and execute trading strategies, and integrate it with their existing workflows.
 
-**Production Readiness:** Tradeclaw demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot. However, a final review of the license, security posture, and
+**Production Readiness:** Tradeclaw demonstrates high production readiness, with recent activity, adoption, and ecosystem signals indicating a strong foundation for a serious pilot.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/naimkatiman/tradeclaw).
 
 ### Русский
 

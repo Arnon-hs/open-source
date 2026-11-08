@@ -43,7 +43,10 @@ To adopt this project, users should follow these steps:
 2. **Dependency and Maintenance Checks**: Verify that the project's dependencies are up-to-date and maintained, and that the project itself is actively updated.
 3. **Verify License and Quality Signals**: Confirm that the project's license is suitable for their use case and that the quality signals (e.g., issue tracking, release cadence) are sufficient.
 4. **Prototype or Internal Workflow**: Use the project for prototyping or internal workflows before considering production use.
-5. **Integration and Testing**: Integrate the project into their
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/MinottiAlessandro/Emerald).
 
 ### Русский
 

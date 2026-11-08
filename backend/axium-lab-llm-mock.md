@@ -33,7 +33,11 @@ Backend
 
 **Practical Adoption Path:** To adopt LLM-mock, developers should first manually inspect the API's documentation, license, maintenance, and issue tracking to ensure it meets their project's needs. They should also verify the API's release cadence and quality signals before integrating it into their production environment. Once verified, developers can easily integrate LLM-mock into their projects, leveraging its REST API to test LLM integrations and build AI-powered features.
 
-**Production Readiness:** LLM-mock is considered production-ready with some caveats. While it is suitable for prototype development and internal workflows, its limited quality signals and
+**Production Readiness:** LLM-mock is considered production-ready with some caveats.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/axium-lab/llm-mock).
 
 ### Русский
 

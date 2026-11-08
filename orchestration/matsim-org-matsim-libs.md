@@ -38,7 +38,11 @@ The primary value of matsim-libs lies in its ability to streamline complex workf
 To adopt matsim-libs, users should start with a small proof of concept to evaluate the integration process. A thorough review of the README documentation is also recommended to understand the setup and usage of the tool. Before committing to production, users should conduct dependency and maintenance checks to ensure that the tool meets their specific needs.
 
 **Production Readiness:**
-Matsim-libs has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, users should exercise caution and conduct thorough evaluation before deploying it in production environments. The integration path may not be immediately obvious, and
+Matsim-libs has a medium production readiness score, indicating that it is suitable for use in prototypes or internal workflows. However, users should exercise caution and conduct thorough evaluation before deploying it in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/matsim-org/matsim-libs).
 
 ### Русский
 

@@ -39,7 +39,11 @@ Here's a brief summary and explanation of the open-source project:
 2. Manually inspect the integration signals to ensure they align with the project's requirements.
 3. Verify the project's license, maintenance, documentation, issue tracking, and release cadence to ensure it meets the project's needs.
 
-**Production Readiness:** OpenComplAI is considered "Medium" in terms of production readiness, making it suitable for prototypes or internal workflows. Before deploying it in production, developers should perform dependency and maintenance checks to ensure the project's stability and
+**Production Readiness:** OpenComplAI is considered "Medium" in terms of production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/opencomplai/opencomplai).
 
 ### Русский
 

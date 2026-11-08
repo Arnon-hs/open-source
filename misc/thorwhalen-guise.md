@@ -38,7 +38,9 @@ Misc
 3. **Perform manual inspection**: Carefully review the project's code, documentation, and integration signals to ensure it meets your requirements.
 4. **Integrate and test**: Once you've verified the project's quality and relevance, integrate it into your workflow and thoroughly test its functionality.
 
-**Production Readiness:** The project has medium production readiness, meaning it's suitable for use in prototypes or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/thorwhalen/guise).
 
 ### Русский
 

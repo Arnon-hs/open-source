@@ -41,7 +41,11 @@ To integrate DaltonSW/prism into your workflow, start with a small proof of conc
 
 **Production Readiness:**
 
-With a medium production readiness score of 62/100, DaltonSW/prism is suitable for use in prototypes or internal workflows. However, before deploying it in a production environment, it's essential to conduct thorough dependency and maintenance checks to ensure its stability and
+With a medium production readiness score of 62/100, DaltonSW/prism is suitable for use in prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DaltonSW/prism).
 
 ### Русский
 

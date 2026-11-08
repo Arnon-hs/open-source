@@ -41,7 +41,11 @@ To adopt Clave, teams should start by evaluating its feasibility through a small
 
 **Production Readiness:**
 
-Clave's production readiness is currently medium, indicating that it is suitable for use in prototypes or internal workflows. However, before deploying the app in a production environment, teams should conduct thorough dependency and maintenance checks to ensure stability and security. This
+Clave's production readiness is currently medium, indicating that it is suitable for use in prototypes or internal workflows. However, before deploying the app in a production environment, teams should conduct thorough dependency and maintenance checks to ensure stability and security.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/codika-io/clave).
 
 ### Русский
 

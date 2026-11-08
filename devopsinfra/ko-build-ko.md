@@ -37,7 +37,9 @@ DevOps/Infra
 2. Assess the project's language metadata and focused topics to determine its relevance to their use case.
 3. Review the project's GitHub page, including its stars, forks, and update history, to gauge its adoption and ecosystem signals.
 
-**Production Readiness:** With a high production readiness score, ko-build/ko is a strong candidate for
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ko-build/ko).
 
 ### Русский
 

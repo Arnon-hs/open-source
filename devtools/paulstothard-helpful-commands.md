@@ -39,9 +39,9 @@ The primary value of paulstothard/helpful_commands lies in its ability to simpli
 
 Adopting paulstothard/helpful_commands requires careful consideration and manual inspection before integration. Users should first validate the setup cost and potential maintenance requirements before committing to the project. This involves reviewing the project's documentation, testing the tools, and assessing the project's dependency and maintenance signals. Once validated, users can integrate the project into their workflows, leveraging its capabilities to streamline data processing and bioinformatics tasks.
 
-**Production Readiness:** 
+## Before adopting
 
-paulstothard/helpful_commands has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/paulstothard/helpful_commands).
 
 ### Русский
 

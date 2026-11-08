@@ -38,7 +38,11 @@ The value proposition of Rag-Redteam lies in its ability to improve the security
 To adopt Rag-Redteam, organizations should first manually inspect the tool and its integration signals before using it in production. This is because the discovered metadata may have sparse integration signals, requiring careful evaluation before adoption. Once adopted, organizations can use Rag-Redteam to index their knowledge bases, improve search functionality, and ground assistant answers.
 
 **Production Readiness:**
-Rag-Redteam is considered medium-production ready, making it suitable for prototypes or internal workflows. However, before using it in
+Rag-Redteam is considered medium-production ready, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Srivatsa03/rag-redteam).
 
 ### Русский
 

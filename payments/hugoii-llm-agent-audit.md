@@ -34,7 +34,11 @@ hugoii/llm-agent-audit is an open-source project that provides a tracing-based a
 The primary value proposition of hugoii/llm-agent-audit lies in its ability to streamline the integration of monetization, billing, or PSP flows, making it an attractive solution for businesses looking to automate payment operations. With this project, developers can evaluate PSP flows, integrate billing or checkout, and automate payment operations, ultimately reducing development time and increasing efficiency.
 
 **Practical Adoption Path:**
-To adopt hugoii/llm-agent-audit, developers should start with a small proof of concept and review the project's README documentation to ensure understanding of its functionality and requirements. This initial step will help identify potential integration challenges and enable a smoother transition to production. As the project is still in production readiness (Medium), it is recommended for use in prototypes or internal workflows, with ongoing dependency and
+To adopt hugoii/llm-agent-audit, developers should start with a small proof of concept and review the project's README documentation to ensure understanding of its functionality and requirements. This initial step will help identify potential integration challenges and enable a smoother transition to production.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/hugoii/llm-agent-audit).
 
 ### Русский
 

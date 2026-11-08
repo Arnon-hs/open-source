@@ -39,9 +39,9 @@ The project's value lies in its ability to add AI capabilities to existing code 
 
 To adopt this project, developers should first manually inspect the code and dependencies to ensure they meet their specific needs. This involves verifying the license, maintenance, documentation, issues, and release cadence. Once the code has been vetted, developers can integrate it into their existing workflow, potentially using it for prototyping AI features, building RAG workflows, or evaluating model tooling.
 
-**Production Readiness:**
+## Before adopting
 
-The project is considered "medium" in terms of production readiness, indicating that it is
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/avenna01-ceo/claude-code-survival-kr).
 
 ### Русский
 

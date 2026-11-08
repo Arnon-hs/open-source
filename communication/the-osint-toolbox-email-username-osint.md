@@ -41,8 +41,9 @@ To adopt this project, developers should follow these steps:
 3. Validate the setup cost and potential risks associated with adopting the project.
 4. Integrate the project into their workflow or prototype, following the project's guidelines and best practices.
 
-**Production Readiness:**
-The project has a medium production readiness score, indicating that it is suitable for internal workflows, prototyping, or
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/The-Osint-Toolbox/Email-Username-OSINT).
 
 ### Русский
 

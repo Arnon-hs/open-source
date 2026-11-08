@@ -43,7 +43,11 @@ To adopt this project, users should:
 3. Validate the setup cost and perform dependency checks before committing to production.
 
 **Production Readiness:**
-The skddyj/iptv project has moderate production readiness, making it suitable for prototypes or internal workflows. However, users should exercise caution and perform thorough checks before deploying it in production due to the potential integration challenges and
+The skddyj/iptv project has moderate production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/skddyj/iptv).
 
 ### Русский
 

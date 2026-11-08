@@ -35,7 +35,11 @@ Nous is an open-source project that enables GTM (Go-To-Market) agents to access 
 
 **Practical Adoption Path:** To adopt Nous, teams should start by manually inspecting the project's metadata, verifying its dependencies, and checking its maintenance and documentation. This will help ensure that the project is suitable for their specific use case and can be integrated smoothly into their existing workflows.
 
-**Production Readiness:** Nous is considered production-ready at a medium level, indicating that it can be useful for prototypes or internal workflows. However, teams should exercise caution and perform thorough checks before deploying it in a production environment due to limited quality signals and potential risks associated with
+**Production Readiness:** Nous is considered production-ready at a medium level, indicating that it can be useful for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/NousC/opennous).
 
 ### Русский
 

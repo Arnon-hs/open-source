@@ -49,7 +49,10 @@ Zenfeed has demonstrated strong production readiness, with:
 
 * 1694 GitHub stars and 105 forks, indicating a large and engaged community.
 * Recent activity, with the last update on 2026-07-03.
-* Strong ecosystem signals, such as primary language (Go) and
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/glidea/zenfeed).
 
 ### Русский
 

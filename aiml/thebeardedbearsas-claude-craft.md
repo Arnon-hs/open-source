@@ -39,9 +39,9 @@ The value proposition of TheBeardedBearSAS/claude-craft lies in its ability to s
 
 To adopt TheBeardedBearSAS/claude-craft, developers should start with a small proof of concept to evaluate the integration path and understand the setup costs. A thorough README check is also recommended to ensure a smooth onboarding process. Once familiar with the framework, developers can begin to integrate it into their projects, starting with small-scale applications and gradually scaling up to more complex use cases.
 
-**Production Readiness:**
+## Before adopting
 
-TheBeardedBearSAS/claude-craft has a medium level of
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/TheBeardedBearSAS/claude-craft).
 
 ### Русский
 

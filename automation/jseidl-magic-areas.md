@@ -35,7 +35,9 @@ Here's a brief summary of the jseidl/magic-areas project:
 
 **Practical Adoption Path:** To adopt jseidl/magic-areas, users should first review the project's documentation and ensure they understand its integration requirements. Since the project requires manual inspection before adoption, users should also carefully evaluate the integration signals and metadata to ensure a smooth transition. Once adopted, users can leverage the project's features to automate their workflows, connect tools, and schedule tasks.
 
-**Production Readiness:** While jseidl/magic-areas is considered medium production ready, it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/jseidl/magic-areas).
 
 ### Русский
 

@@ -39,9 +39,9 @@ The practical adoption path involves:
 2. Integration checks: Verify the project's compatibility with your existing infrastructure and dependencies.
 3. Maintenance checks: Assess the project's maintenance history, documentation, and issue tracking to ensure it's well-maintained and supported.
 
-Regarding production readiness, Pusu AdBlocker is considered medium-ready, indicating that it's suitable for:
+## Before adopting
 
-1. Prototypes: Test the project in a controlled environment to
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/pusucip25/pusu-adblocker).
 
 ### Русский
 

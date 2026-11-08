@@ -37,7 +37,11 @@ The primary value of Rage lies in its ability to make internal knowledge searcha
 Before adopting Rage, it's essential to manually inspect the project's integration signals, which are currently sparse. This involves verifying the project's license, maintenance, documentation, issues, and release cadence to ensure it aligns with your organization's needs. Once you've verified these aspects, you can start exploring Rage's potential for your internal workflows or prototypes.
 
 **Production Readiness:**
-Rage is considered to be at a medium level of production readiness. While it's useful for creating prototypes or internal workflows, it's essential to conduct thorough dependency and maintenance checks before considering it for production use. This
+Rage is considered to be at a medium level of production readiness. While it's useful for creating prototypes or internal workflows, it's essential to conduct thorough dependency and maintenance checks before considering it for production use.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/rage-rb/rage).
 
 ### Русский
 

@@ -38,7 +38,11 @@ The primary value proposition of Databuddy lies in its ability to help developer
 To adopt Databuddy, developers should start with a small proof of concept and review the README documentation to understand the platform's features and requirements. This initial step will help evaluate the feasibility of integrating Databuddy into their project, ensuring a smooth onboarding process.
 
 **Production Readiness:**
-Databuddy is considered production-ready due to its recent activity, adoption, and strong ecosystem signals. With 1114 GitHub stars, 189 forks, and an
+Databuddy is considered production-ready due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/databuddy-analytics/Databuddy).
 
 ### Русский
 

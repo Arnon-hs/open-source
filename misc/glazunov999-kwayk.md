@@ -42,8 +42,9 @@ To adopt Kwayk, developers should:
 4. Integrate Kwayk into their project, potentially requiring custom modifications.
 5. Monitor the project's updates and address any issues that arise.
 
-**Production Readiness:**
-Kwayk is considered production-ready with
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/glazunov999/Kwayk).
 
 ### Русский
 

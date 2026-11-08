@@ -36,7 +36,10 @@ Here's a brief summary of the project:
 **Practical Adoption Path:**
 
 1. **Evaluation:** Developers can easily evaluate the project by examining its exposed implementation signals, such as API/SDK/CLI, language metadata, or focused topics.
-2. **Prototype Development:** Once evaluated, developers can use nadonghuang/claude-code to prototype AI features, build RAG or agent workflows, and test its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/nadonghuang/claude-code).
 
 ### Русский
 

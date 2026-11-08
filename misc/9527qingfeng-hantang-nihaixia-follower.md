@@ -42,7 +42,11 @@ To adopt this project, one would need to:
 4. Integrate the project into their existing workflow or prototype.
 
 **Production Readiness:**
-The project has a medium level of production readiness, making it suitable for prototypes or internal workflows. However, it requires careful dependency and
+The project has a medium level of production readiness, making it suitable for prototypes or internal workflows.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/9527qingfeng/hantang-nihaixia-follower).
 
 ### Русский
 

@@ -41,7 +41,11 @@ Here's a breakdown of the value, practical adoption path, and production readine
 3. Integrate the project into their application, considering the project's straightforward integration signals.
 4. Pilot the project to ensure its quality and stability.
 
-**Production Readiness:** The project's production readiness is high due to its recent activity, adoption, and strong ecosystem signals. However, a final review of
+**Production Readiness:** The project's production readiness is high due to its recent activity, adoption, and strong ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/DavBfr/dart_pdf).
 
 ### Русский
 

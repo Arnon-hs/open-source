@@ -44,9 +44,9 @@ To adopt iamaamir/pi-bifrost, developers can follow these steps:
 3. Integrate the project into a prototype or internal workflow to test its capabilities and identify potential issues.
 4. Refine the integration and configuration as needed to ensure seamless operation.
 
-**Production Readiness:**
+## Before adopting
 
-iamaamir/pi-bifrost has a
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/iamaamir/pi-bifrost).
 
 ### Русский
 

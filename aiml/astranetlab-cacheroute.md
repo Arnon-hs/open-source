@@ -37,7 +37,9 @@ AI/ML
 2. **Internal Workflow Optimization:** The project can be integrated into internal workflows to improve task performance and system efficiency.
 3. **Production Deployment:** Before production deployment, it's essential to conduct thorough dependency and maintenance checks to ensure the project's stability and security.
 
-**Production Readiness:** CacheRoute has
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/AstraNetLab/CacheRoute).
 
 ### Русский
 

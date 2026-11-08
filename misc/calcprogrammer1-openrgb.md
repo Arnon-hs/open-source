@@ -33,7 +33,11 @@ Misc
 
 **Practical Adoption Path:** To adopt CalcProgrammer1/OpenRGB, users can start by evaluating its feasibility through a small proof of concept and checking the README documentation. This will help them understand the integration process and potential setup costs. Once they have a clear understanding of the project's capabilities and requirements, they can proceed with integrating it into their workflow.
 
-**Production Readiness:** CalcProgrammer1/OpenRGB has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity. Its 4,000+ GitHub stars and
+**Production Readiness:** CalcProgrammer1/OpenRGB has demonstrated strong production readiness, with recent activity, adoption, and ecosystem signals indicating a high level of maturity.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/CalcProgrammer1/OpenRGB).
 
 ### Русский
 

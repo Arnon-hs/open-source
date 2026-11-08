@@ -39,8 +39,9 @@ The primary value of Ponder lies in its ability to facilitate the development an
 2. **Inspect and Refine:** Inspect the open implementation details of Ponder to refine and optimize your blockchain applications.
 3. **Production Readiness:** Before deploying Ponder in production, perform manual inspection, dependency checks, and security reviews to ensure a stable and secure environment.
 
-**Production Readiness:**
-Ponder is considered "Medium" in terms of production readiness, indicating that it is
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/ponder-sh/ponder).
 
 ### Русский
 

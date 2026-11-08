@@ -41,7 +41,11 @@ To adopt this project, users will need to manually inspect the code before integ
 
 **Production Readiness:**
 
-The project is considered high for production readiness, with strong adoption and ecosystem signals. The recent activity, 1975 GitHub stars, and
+The project is considered high for production readiness, with strong adoption and ecosystem signals.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/github/government.github.com).
 
 ### Русский
 

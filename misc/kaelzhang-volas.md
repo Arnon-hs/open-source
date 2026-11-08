@@ -37,7 +37,10 @@ As for the practical adoption path, here's a step-by-step guide:
 2. **Quality Signal Verification**: Check the project's license, maintenance, documentation, issues, and release cadence to ensure it meets your project's requirements.
 3. **Manual Inspection**: Carefully inspect the project's code, dependencies, and integration signals to identify potential risks and areas for improvement.
 4. **Dependency and Maintenance Checks**: Verify the project's dependencies and maintenance requirements to ensure they align with your project's needs.
-5. **Prototype or Internal Workflow Integration**: Integrate Volas into your prototype or internal workflow to test its
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/kaelzhang/volas).
 
 ### Русский
 

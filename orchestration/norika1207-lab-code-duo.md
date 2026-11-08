@@ -35,7 +35,11 @@ Code-Duo is an open-source project that allows users to integrate two AI coding 
 
 **Practical adoption path:** To adopt Code-Duo, developers can start by exploring the project's GitHub repository, reviewing the implementation signals and language metadata, and evaluating the tool's production readiness. They can then integrate the tool into their existing workflows and test its capabilities with their specific use cases.
 
-**Production readiness:** Code-Duo has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but still requires dependency and maintenance checks before deployment in production environments. While the project has a
+**Production readiness:** Code-Duo has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but still requires dependency and maintenance checks before deployment in production environments.
+
+## Before adopting
+
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/norika1207-lab/Code-Duo).
 
 ### Русский
 

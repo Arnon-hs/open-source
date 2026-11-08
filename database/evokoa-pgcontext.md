@@ -39,9 +39,9 @@ Evokoa/pgContext provides a pre-built AI search engine that can be easily integr
 
 To adopt Evokoa/pgContext, developers need to manually inspect the integration process due to sparse integration signals in the metadata. This requires careful evaluation of the setup cost and potential dependencies before committing to production use. A step-by-step guide or documentation would be helpful to clarify the integration path and ensure a smooth adoption process.
 
-**Production Readiness:**
+## Before adopting
 
-Evokoa/pgContext has a medium production readiness score, indicating that it is suitable for prototypes or internal workflows but may require further evaluation and dependency checks before being deployed in
+Review the current source documentation, licensing terms, dependencies, and maintenance status against your intended use. [View the source](https://github.com/Evokoa/pgContext).
 
 ### Русский
 
