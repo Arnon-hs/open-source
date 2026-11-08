@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [karmendra8386/agentic-ai-token-economics](./karmendra8386-agentic-ai-token-economics.md) | ⭐ — | Python | 38/100 |
+| 1 | [karmendra8386/agentic-ai-token-economics](./karmendra8386-agentic-ai-token-economics.md) | ⭐ — | Python | 35/100 |
 
 ---
 
