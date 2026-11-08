@@ -1,6 +1,6 @@
 # fast-compose/fast-compose
 
-[![Stars](https://img.shields.io/github/stars/fast-compose/fast-compose?style=flat-square&color=yellow)](https://github.com/fast-compose/fast-compose/stargazers) [![Forks](https://img.shields.io/github/forks/fast-compose/fast-compose?style=flat-square&color=blue)](https://github.com/fast-compose/fast-compose/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fast-compose/fast-compose?style=flat-square&color=yellow)](https://github.com/fast-compose/fast-compose/stargazers) [![Forks](https://img.shields.io/github/forks/fast-compose/fast-compose?style=flat-square&color=blue)](https://github.com/fast-compose/fast-compose/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > An instant runtime for Jetpack Compose code. No compiler, no build, no waiting.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ fast-compose/fast-compose：fast-compose/fast-compose may be useful when its REA
 - primary language: Kotlin
 - 5 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 46/100 |
+| quality | 41/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 57/100 |
+| production | 52/100 |
+| outlook | 50/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

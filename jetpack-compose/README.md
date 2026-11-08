@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fast-compose/fast-compose](./fast-compose-fast-compose.md) | ⭐ — | Kotlin | 42/100 |
+| 1 | [fast-compose/fast-compose](./fast-compose-fast-compose.md) | ⭐ — | Kotlin | 39/100 |
 
 ---
 
