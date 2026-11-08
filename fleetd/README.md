@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [weiyi0/fleetd](./weiyi0-fleetd.md) | ⭐ 1 | Go | 55/100 |
+| 1 | [weiyi0/fleetd](./weiyi0-fleetd.md) | ⭐ 1 | Go | 52/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # valteresj2/agent-hangar
 
-[![Stars](https://img.shields.io/github/stars/valteresj2/agent-hangar?style=flat-square&color=yellow)](https://github.com/valteresj2/agent-hangar/stargazers) [![Forks](https://img.shields.io/github/forks/valteresj2/agent-hangar?style=flat-square&color=blue)](https://github.com/valteresj2/agent-hangar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/valteresj2/agent-hangar?style=flat-square&color=yellow)](https://github.com/valteresj2/agent-hangar/stargazers) [![Forks](https://img.shields.io/github/forks/valteresj2/agent-hangar?style=flat-square&color=blue)](https://github.com/valteresj2/agent-hangar/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > One home for every AI agent. Build, test and ship agents once, then use them from Claude, ChatGPT, Codex, Cursor, VS Code or Slack (MCP, OpenAI-compatible, A2A, ACP). Self-hosted, with teams, approvals, audit, memory and multi-agent composition. Docker or Kubernetes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ valteresj2/agent-hangar：valteresj2/agent-hangar may be useful when its README 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 100/100 |
-| production | 73/100 |
-| outlook | 76/100 |
+| production | 66/100 |
+| outlook | 69/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 500/100 |
 | stars | 15/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

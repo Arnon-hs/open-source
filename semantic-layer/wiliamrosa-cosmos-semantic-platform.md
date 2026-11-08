@@ -1,6 +1,6 @@
 # WiliamRosa/cosmos-semantic-platform
 
-[![Stars](https://img.shields.io/github/stars/WiliamRosa/cosmos-semantic-platform?style=flat-square&color=yellow)](https://github.com/WiliamRosa/cosmos-semantic-platform/stargazers) [![Forks](https://img.shields.io/github/forks/WiliamRosa/cosmos-semantic-platform?style=flat-square&color=blue)](https://github.com/WiliamRosa/cosmos-semantic-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WiliamRosa/cosmos-semantic-platform?style=flat-square&color=yellow)](https://github.com/WiliamRosa/cosmos-semantic-platform/stargazers) [![Forks](https://img.shields.io/github/forks/WiliamRosa/cosmos-semantic-platform?style=flat-square&color=blue)](https://github.com/WiliamRosa/cosmos-semantic-platform/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source semantic layer with an ontology at its core: governed metrics and business rules for AI agents (MCP), the same number on eight databases, with evidence on every answer.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ WiliamRosa/cosmos-semantic-platform：WiliamRosa/cosmos-semantic-platform may be
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 61/100 |
+| outlook | 61/100 |
 | adoption | 4/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

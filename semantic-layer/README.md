@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [WiliamRosa/cosmos-semantic-platform](./wiliamrosa-cosmos-semantic-platform.md) | ⭐ — | Python | 63/100 |
+| 1 | [WiliamRosa/cosmos-semantic-platform](./wiliamrosa-cosmos-semantic-platform.md) | ⭐ — | Python | 60/100 |
 
 ---
 
