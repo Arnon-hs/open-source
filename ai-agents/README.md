@@ -45,10 +45,10 @@
 | 35 | [kaktooslabs/kaktoos](./kaktooslabs-kaktoos.md) | ⭐ 2 | Go | 32/100 |
 | 36 | [krishsf5/Graph-Hack-Hackathon-Team-7vengers](./krishsf5-graph-hack-hackathon-team-7vengers.md) | ⭐ 1 | JavaScript | 31/100 |
 | 37 | [CarGDev/codetyper.a2a](./cargdev-codetyper.a2a.md) | ⭐ — | Rust | 30/100 |
-| 38 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 30/100 |
-| 39 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 30/100 |
-| 40 | [NVIDIA/NeMo-Agents](./nvidia-nemo-agents.md) | ⭐ — | — | 28/100 |
-| 41 | [agent-colony/join-agent](./agent-colony-join-agent.md) | ⭐ — | — | 28/100 |
+| 38 | [Yudeeswaran/repo-xray](./yudeeswaran-repo-xray.md) | ⭐ — | Python | 30/100 |
+| 39 | [NVIDIA/NeMo-Agents](./nvidia-nemo-agents.md) | ⭐ — | — | 28/100 |
+| 40 | [agent-colony/join-agent](./agent-colony-join-agent.md) | ⭐ — | — | 28/100 |
+| 41 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 27/100 |
 | 42 | [holistis/capacity-attest](./holistis-capacity-attest.md) | ⭐ — | — | 24/100 |
 | 43 | [openai/openclaw](./openai-openclaw.md) | ⭐ — | — | 24/100 |
 | 44 | [yourrepo/browser-use](./yourrepo-browser-use.md) | ⭐ — | — | 24/100 |
