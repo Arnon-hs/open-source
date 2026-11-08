@@ -226,8 +226,8 @@
 | 216 | [mohamadomar-ai/kairos-engine](./mohamadomar-ai-kairos-engine.md) | ⭐ — | — | 38/100 |
 | 217 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 38/100 |
 | 218 | [IamViditAgarwal/csgoviral](./iamviditagarwal-csgoviral.md) | ⭐ 17 | PHP | 37/100 |
-| 219 | [rohit-8a/steadytrade-ai](./rohit-8a-steadytrade-ai.md) | ⭐ — | Python | 36/100 |
-| 220 | [irfndi/prism-liquidity-agent](./irfndi-prism-liquidity-agent.md) | ⭐ — | — | 33/100 |
+| 219 | [irfndi/prism-liquidity-agent](./irfndi-prism-liquidity-agent.md) | ⭐ — | — | 33/100 |
+| 220 | [rohit-8a/steadytrade-ai](./rohit-8a-steadytrade-ai.md) | ⭐ — | Python | 33/100 |
 | 221 | [jarrodwatts/jev-trader](./jarrodwatts-jev-trader.md) | ⭐ — | — | 29/100 |
 | 222 | [virattt/openbb-financialdatasets-backend](./virattt-openbb-financialdatasets-backend.md) | ⭐ — | — | 28/100 |
 | 223 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 28/100 |
