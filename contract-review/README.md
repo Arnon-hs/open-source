@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [samashech/weirdClauses](./samashech-weirdclauses.md) | ⭐ — | Python | 36/100 |
+| 1 | [samashech/weirdClauses](./samashech-weirdclauses.md) | ⭐ — | Python | 33/100 |
 
 ---
 

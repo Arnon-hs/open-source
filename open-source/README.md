@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [AsamK/signal-cli](./asamk-signal-cli.md) | ⭐ 5k | Java | 68/100 |
-| 2 | [Bhanuteja005/openprospect](./bhanuteja005-openprospect.md) | ⭐ 1 | Python | 64/100 |
+| 2 | [tranphucbol/table-craft](./tranphucbol-table-craft.md) | ⭐ 30 | TypeScript | 64/100 |
 | 3 | [Domenico-Tenace-Open-Labs/web-dev-agent](./domenico-tenace-open-labs-web-dev-agent.md) | ⭐ 3 | Python | 59/100 |
 | 4 | [Srinivas26k/Hekara](./srinivas26k-hekara.md) | ⭐ 1 | TypeScript | 52/100 |
 | 5 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 50/100 |
