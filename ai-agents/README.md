@@ -18,9 +18,9 @@
 | 8 | [frozonfreak/DesignDecesionMethod](./frozonfreak-designdecesionmethod.md) | ⭐ — | Python | 48/100 |
 | 9 | [operatecenter/operate-mcp](./operatecenter-operate-mcp.md) | ⭐ 3 | TypeScript | 46/100 |
 | 10 | [nirmit2867/switch-warehouse-shift-handoff](./nirmit2867-switch-warehouse-shift-handoff.md) | ⭐ — | — | 43/100 |
-| 11 | [EC-Roshan/refund-court](./ec-roshan-refund-court.md) | ⭐ — | — | 43/100 |
-| 12 | [operatecenter/operate-hermes-plugin](./operatecenter-operate-hermes-plugin.md) | ⭐ 3 | Python | 42/100 |
-| 13 | [sunfishloop/sunfishloop-mcp](./sunfishloop-sunfishloop-mcp.md) | ⭐ — | TypeScript | 41/100 |
+| 11 | [operatecenter/operate-hermes-plugin](./operatecenter-operate-hermes-plugin.md) | ⭐ 3 | Python | 42/100 |
+| 12 | [sunfishloop/sunfishloop-mcp](./sunfishloop-sunfishloop-mcp.md) | ⭐ — | TypeScript | 41/100 |
+| 13 | [EC-Roshan/refund-court](./ec-roshan-refund-court.md) | ⭐ — | — | 40/100 |
 | 14 | [kelegele/project-handoff-skill](./kelegele-project-handoff-skill.md) | ⭐ — | Python | 39/100 |
 | 15 | [Xuefeng-Zhu/commitment-lab](./xuefeng-zhu-commitment-lab.md) | ⭐ — | Python | 39/100 |
 | 16 | [mcp-use/sdk](./mcp-use-sdk.md) | ⭐ — | — | 39/100 |

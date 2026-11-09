@@ -23,9 +23,9 @@
 | 13 | [rishabh-hasija/stockentry-guard](./rishabh-hasija-stockentry-guard.md) | ⭐ — | Python | 33/100 |
 | 14 | [ishavishwakarma29/WalkguideStudio](./ishavishwakarma29-walkguidestudio.md) | ⭐ — | Python | 33/100 |
 | 15 | [Charlie-ai786/LocalAI-Sidekick](./charlie-ai786-localai-sidekick.md) | ⭐ — | TypeScript | 33/100 |
-| 16 | [Nivin-Sithija/ShadeWindow](./nivin-sithija-shadewindow.md) | ⭐ — | CSS | 33/100 |
-| 17 | [surajns0033-collab/slothshift](./surajns0033-collab-slothshift.md) | ⭐ — | JavaScript | 30/100 |
-| 18 | [Gautam5514/hack_week3](./gautam5514-hack-week3.md) | ⭐ — | JavaScript | 30/100 |
+| 16 | [surajns0033-collab/slothshift](./surajns0033-collab-slothshift.md) | ⭐ — | JavaScript | 30/100 |
+| 17 | [Gautam5514/hack_week3](./gautam5514-hack-week3.md) | ⭐ — | JavaScript | 30/100 |
+| 18 | [Nivin-Sithija/ShadeWindow](./nivin-sithija-shadewindow.md) | ⭐ — | CSS | 30/100 |
 | 19 | [onkarjadhav5598/Mahaswad](./onkarjadhav5598-mahaswad.md) | ⭐ — | Python | 30/100 |
 | 20 | [UniTools/recipes](./unitools-recipes.md) | ⭐ — | — | 28/100 |
 | 21 | [SaifuddinM23/gardenfix](./saifuddinm23-gardenfix.md) | ⭐ — | JavaScript | 27/100 |
