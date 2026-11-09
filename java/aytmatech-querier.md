@@ -1,6 +1,6 @@
 # AytmaTech/Querier
 
-[![Stars](https://img.shields.io/github/stars/AytmaTech/Querier?style=flat-square&color=yellow)](https://github.com/AytmaTech/Querier/stargazers) [![Forks](https://img.shields.io/github/forks/AytmaTech/Querier?style=flat-square&color=blue)](https://github.com/AytmaTech/Querier/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AytmaTech/Querier?style=flat-square&color=yellow)](https://github.com/AytmaTech/Querier/stargazers) [![Forks](https://img.shields.io/github/forks/AytmaTech/Querier?style=flat-square&color=blue)](https://github.com/AytmaTech/Querier/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > A Java SQL query building tool in type-safe way
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ AytmaTech/Querier：AytmaTech/Querier may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 30/100 |
-| production | 57/100 |
-| outlook | 57/100 |
+| production | 51/100 |
+| outlook | 50/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 700/100 |
 | stars | 17/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
