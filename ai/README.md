@@ -18,10 +18,10 @@
 | 8 | [meta-taro/sshboard](./meta-taro-sshboard.md) | ⭐ — | Rust | 60/100 |
 | 9 | [Burapa-J/ai-cost-calc](./burapa-j-ai-cost-calc.md) | ⭐ — | TypeScript | 59/100 |
 | 10 | [sadrmanesh/woocommerce-mcp](./sadrmanesh-woocommerce-mcp.md) | ⭐ 1 | TypeScript | 57/100 |
-| 11 | [perceptcore/ai-client-hunter](./perceptcore-ai-client-hunter.md) | ⭐ 1 | — | 56/100 |
-| 12 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
-| 13 | [Zoymusk/code-review-duel](./zoymusk-code-review-duel.md) | ⭐ — | — | 54/100 |
-| 14 | [sadrmanesh/persian-rag](./sadrmanesh-persian-rag.md) | ⭐ 1 | Python | 54/100 |
+| 11 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 1 | HTML | 56/100 |
+| 12 | [Zoymusk/code-review-duel](./zoymusk-code-review-duel.md) | ⭐ — | — | 54/100 |
+| 13 | [sadrmanesh/persian-rag](./sadrmanesh-persian-rag.md) | ⭐ 1 | Python | 54/100 |
+| 14 | [perceptcore/ai-client-hunter](./perceptcore-ai-client-hunter.md) | ⭐ 1 | — | 53/100 |
 | 15 | [CtrlAltDelete-Ops/opentuple](./ctrlaltdelete-ops-opentuple.md) | ⭐ 1 | Go | 52/100 |
 | 16 | [sadrmanesh/commerce-agent-skills](./sadrmanesh-commerce-agent-skills.md) | ⭐ 1 | JavaScript | 50/100 |
 | 17 | [sadrmanesh/llm-search-eval](./sadrmanesh-llm-search-eval.md) | ⭐ 1 | Python | 49/100 |
