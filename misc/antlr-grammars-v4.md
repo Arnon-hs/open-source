@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11k |
+| ⭐ **Stars** | 11.1k |
 | 🍴 **Forks** | 3.8k |
 | 💻 **Language** | ANTLR |
 | 📈 **Score** | 49/100 |

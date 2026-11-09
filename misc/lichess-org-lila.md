@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.2k |
-| 🍴 **Forks** | 2.7k |
+| ⭐ **Stars** | 19k |
+| 🍴 **Forks** | 2.8k |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-05 |

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16k |
-| 🍴 **Forks** | 995 |
+| ⭐ **Stars** | 16.1k |
+| 🍴 **Forks** | 1k |
 | 💻 **Language** | CoffeeScript |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-05 |

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 26k |
-| 🍴 **Forks** | 2.8k |
+| ⭐ **Stars** | 30.1k |
+| 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Mojo |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-05 |

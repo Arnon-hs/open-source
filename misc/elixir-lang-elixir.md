@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 26.7k |
-| 🍴 **Forks** | 3.6k |
+| 🍴 **Forks** | 3.7k |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-09-05 |

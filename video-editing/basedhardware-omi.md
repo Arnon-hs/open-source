@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12.5k |
-| 🍴 **Forks** | 2k |
+| ⭐ **Stars** | 13.9k |
+| 🍴 **Forks** | 2.7k |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-09-05 |

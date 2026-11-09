@@ -8,22 +8,22 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [wasp-lang/open-saas](./wasp-lang-open-saas.md) | ⭐ 14.9k | TypeScript | 92/100 |
+| 1 | [wasp-lang/open-saas](./wasp-lang-open-saas.md) | ⭐ 16.3k | TypeScript | 92/100 |
 | 2 | [pathwaycom/llm-app](./pathwaycom-llm-app.md) | ⭐ 59.2k | Jupyter Notebook | 90/100 |
 | 3 | [zxwk1998/vue-admin-better](./zxwk1998-vue-admin-better.md) | ⭐ 18.9k | Vue | 89/100 |
 | 4 | [wassim249/fastapi-langgraph-agent-production-ready-template](./wassim249-fastapi-langgraph-agent-production-ready-template.md) | ⭐ 2.6k | Python | 88/100 |
 | 5 | [fastapi/full-stack-fastapi-template](./fastapi-full-stack-fastapi-template.md) | ⭐ 46.2k | TypeScript | 88/100 |
 | 6 | [Kiranism/next-shadcn-dashboard-starter](./kiranism-next-shadcn-dashboard-starter.md) | ⭐ 6.8k | TypeScript | 87/100 |
 | 7 | [vstorm-co/full-stack-ai-agent-template](./vstorm-co-full-stack-ai-agent-template.md) | ⭐ 1.2k | Python | 87/100 |
-| 8 | [enescingoz/awesome-n8n-templates](./enescingoz-awesome-n8n-templates.md) | ⭐ 23.7k | — | 86/100 |
-| 9 | [GrapesJS/grapesjs](./grapesjs-grapesjs.md) | ⭐ 26k | TypeScript | 86/100 |
+| 8 | [enescingoz/awesome-n8n-templates](./enescingoz-awesome-n8n-templates.md) | ⭐ 26.3k | — | 86/100 |
+| 9 | [GrapesJS/grapesjs](./grapesjs-grapesjs.md) | ⭐ 26.4k | TypeScript | 86/100 |
 | 10 | [ArnasDon/wacrm](./arnasdon-wacrm.md) | ⭐ 1.4k | TypeScript | 85/100 |
 | 11 | [daydreamsai/lucid-agents](./daydreamsai-lucid-agents.md) | ⭐ 189 | TypeScript | 84/100 |
 | 12 | [eli64s/readme-ai](./eli64s-readme-ai.md) | ⭐ 2.9k | Python | 84/100 |
 | 13 | [cookiecutter/cookiecutter-django](./cookiecutter-cookiecutter-django.md) | ⭐ 13.6k | Python | 84/100 |
 | 14 | [Lyellr88/MARM-Systems](./lyellr88-marm-systems.md) | ⭐ 305 | Python | 84/100 |
 | 15 | [praveen-ks-2001/hermes-agent-template](./praveen-ks-2001-hermes-agent-template.md) | ⭐ 285 | Python | 83/100 |
-| 16 | [jasontaylordev/CleanArchitecture](./jasontaylordev-cleanarchitecture.md) | ⭐ 20.5k | C# | 83/100 |
+| 16 | [jasontaylordev/CleanArchitecture](./jasontaylordev-cleanarchitecture.md) | ⭐ 20.7k | C# | 83/100 |
 | 17 | [Azure-Samples/mcp-agent-langchainjs](./azure-samples-mcp-agent-langchainjs.md) | ⭐ 190 | TypeScript | 83/100 |
 | 18 | [Lissy93/portainer-templates](./lissy93-portainer-templates.md) | ⭐ 2.8k | Python | 83/100 |
 | 19 | [minipuft/claude-prompts-mcp](./minipuft-claude-prompts-mcp.md) | ⭐ 183 | TypeScript | 82/100 |
@@ -60,7 +60,7 @@
 | 50 | [fastapi-practices/fastapi-best-architecture](./fastapi-practices-fastapi-best-architecture.md) | ⭐ 2.4k | Python | 79/100 |
 | 51 | [synaptiai/prompt-decorators](./synaptiai-prompt-decorators.md) | ⭐ 40 | Python | 79/100 |
 | 52 | [FlorianBruniaux/claude-code-ultimate-guide](./florianbruniaux-claude-code-ultimate-guide.md) | ⭐ 4.2k | TypeScript | 79/100 |
-| 53 | [JCodesMore/ai-website-cloner-template](./jcodesmore-ai-website-cloner-template.md) | ⭐ 14.1k | TypeScript | 79/100 |
+| 53 | [JCodesMore/ai-website-cloner-template](./jcodesmore-ai-website-cloner-template.md) | ⭐ 38.9k | TypeScript | 79/100 |
 | 54 | [JSONbored/mem0-aio](./jsonbored-mem0-aio.md) | ⭐ 19 | Python | 78/100 |
 | 55 | [virastack/start](./virastack-start.md) | ⭐ 103 | TypeScript | 78/100 |
 | 56 | [arhamkhnz/next-shadcn-admin-dashboard](./arhamkhnz-next-shadcn-admin-dashboard.md) | ⭐ 2.7k | TypeScript | 78/100 |
@@ -84,7 +84,7 @@
 | 74 | [bitwize-music-studio/claude-ai-music-skills](./bitwize-music-studio-claude-ai-music-skills.md) | ⭐ 330 | Python | 77/100 |
 | 75 | [Sri-Krishna-V/awesome-adk-agents](./sri-krishna-v-awesome-adk-agents.md) | ⭐ 324 | Python | 77/100 |
 | 76 | [fabriziosalmi/lws](./fabriziosalmi-lws.md) | ⭐ 71 | Python | 77/100 |
-| 77 | [davila7/claude-code-templates](./davila7-claude-code-templates.md) | ⭐ 26.9k | Python | 77/100 |
+| 77 | [davila7/claude-code-templates](./davila7-claude-code-templates.md) | ⭐ 33.2k | Python | 77/100 |
 | 78 | [OpenTouryoProject/OpenTouryo](./opentouryoproject-opentouryo.md) | ⭐ 238 | C# | 76/100 |
 | 79 | [vbenjs/vue-vben-admin](./vbenjs-vue-vben-admin.md) | ⭐ 33.8k | Vue | 76/100 |
 | 80 | [e2b-dev/fragments](./e2b-dev-fragments.md) | ⭐ 6.3k | TypeScript | 76/100 |
@@ -179,12 +179,12 @@
 | 169 | [developer2013/bricks-mcp-open](./developer2013-bricks-mcp-open.md) | ⭐ 75 | PHP | 70/100 |
 | 170 | [nadimtuhin/claude-token-optimizer](./nadimtuhin-claude-token-optimizer.md) | ⭐ 481 | JavaScript | 70/100 |
 | 171 | [BlessedRebuS/Krawl](./blessedrebus-krawl.md) | ⭐ 546 | HTML | 70/100 |
-| 172 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 12.5k | JavaScript | 70/100 |
+| 172 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 13.3k | JavaScript | 70/100 |
 | 173 | [velobase/velobase-harness](./velobase-velobase-harness.md) | ⭐ 521 | TypeScript | 70/100 |
 | 174 | [darkroomengineering/satus](./darkroomengineering-satus.md) | ⭐ 956 | TypeScript | 70/100 |
 | 175 | [traefik/traefik-helm-chart](./traefik-traefik-helm-chart.md) | ⭐ 1.4k | Go Template | 70/100 |
 | 176 | [EtienneLescot/n8n-as-code](./etiennelescot-n8n-as-code.md) | ⭐ 1.1k | TypeScript | 70/100 |
-| 177 | [abpframework/abp](./abpframework-abp.md) | ⭐ 14.2k | C# | 70/100 |
+| 177 | [abpframework/abp](./abpframework-abp.md) | ⭐ 14.5k | C# | 70/100 |
 | 178 | [BoundaryML/baml](./boundaryml-baml.md) | ⭐ 8.2k | Rust | 70/100 |
 | 179 | [bradraylucas-eng/mcp-notes-server](./bradraylucas-eng-mcp-notes-server.md) | ⭐ — | Python | 69/100 |
 | 180 | [zengfr/n8n-workflow-all-templates](./zengfr-n8n-workflow-all-templates.md) | ⭐ 104 | — | 69/100 |
@@ -330,7 +330,7 @@
 | 320 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.6k | Go Template | 62/100 |
 | 321 | [WeAreAthlon/frontend-webpack-boilerplate](./weareathlon-frontend-webpack-boilerplate.md) | ⭐ 732 | HTML | 62/100 |
 | 322 | [statmike/vertex-ai-mlops](./statmike-vertex-ai-mlops.md) | ⭐ 689 | Jupyter Notebook | 62/100 |
-| 323 | [lit/lit](./lit-lit.md) | ⭐ 21.5k | TypeScript | 62/100 |
+| 323 | [lit/lit](./lit-lit.md) | ⭐ 21.9k | TypeScript | 62/100 |
 | 324 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 37 | Go | 62/100 |
 | 325 | [mergisi/awesome-openclaw-agents](./mergisi-awesome-openclaw-agents.md) | ⭐ 4k | HTML | 61/100 |
 | 326 | [NTDevLops/UNIVERSAL-AGENTS.md](./ntdevlops-universal-agents.md.md) | ⭐ 1 | — | 61/100 |

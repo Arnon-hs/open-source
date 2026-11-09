@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 14.7k |
+| ⭐ **Stars** | 14.8k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Go |
 | 📈 **Score** | 68/100 |
@@ -53,7 +53,7 @@ projectdiscovery/subfinder：projectdiscovery/subfinder helps remove repetitive 
 
 **Quality signals**
 
-- 14724 GitHub stars
+- 14758 GitHub stars
 - 1646 forks
 - updated 2026-11-05
 - primary language: Go

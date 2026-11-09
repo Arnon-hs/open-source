@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 18.5k |
-| 🍴 **Forks** | 5.1k |
+| ⭐ **Stars** | 18.9k |
+| 🍴 **Forks** | 5.3k |
 | 💻 **Language** | Groovy |
 | 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-09-05 |

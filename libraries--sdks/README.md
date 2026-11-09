@@ -19,7 +19,7 @@
 | 9 | [meilisearch/meilisearch-dotnet](./meilisearch-meilisearch-dotnet.md) | ⭐ 341 | C# | 74/100 |
 | 10 | [gungraun/gungraun](./gungraun-gungraun.md) | ⭐ 261 | Rust | 73/100 |
 | 11 | [googleapis/google-api-dotnet-client](./googleapis-google-api-dotnet-client.md) | ⭐ 1.5k | C# | 72/100 |
-| 12 | [Unleash/unleash](./unleash-unleash.md) | ⭐ 13.5k | TypeScript | 72/100 |
+| 12 | [Unleash/unleash](./unleash-unleash.md) | ⭐ 14.3k | TypeScript | 72/100 |
 | 13 | [lizhiyao/sentry-miniapp](./lizhiyao-sentry-miniapp.md) | ⭐ 677 | TypeScript | 71/100 |
 | 14 | [mixpanel/mixpanel-js](./mixpanel-mixpanel-js.md) | ⭐ 938 | JavaScript | 71/100 |
 | 15 | [elgatosf/streamdeck](./elgatosf-streamdeck.md) | ⭐ 244 | TypeScript | 71/100 |
@@ -37,7 +37,7 @@
 | 27 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 736 | Go | 70/100 |
 | 28 | [octokit/octokit.js](./octokit-octokit.js.md) | ⭐ 7.9k | TypeScript | 69/100 |
 | 29 | [meilisearch/meilisearch-php](./meilisearch-meilisearch-php.md) | ⭐ 750 | PHP | 69/100 |
-| 30 | [yhirose/cpp-httplib](./yhirose-cpp-httplib.md) | ⭐ 16.7k | C++ | 69/100 |
+| 30 | [yhirose/cpp-httplib](./yhirose-cpp-httplib.md) | ⭐ 17k | C++ | 69/100 |
 | 31 | [getsentry/sentry-cocoa](./getsentry-sentry-cocoa.md) | ⭐ 1.1k | Swift | 69/100 |
 | 32 | [xberg-io/tree-sitter-language-pack](./xberg-io-tree-sitter-language-pack.md) | ⭐ 408 | Rust | 69/100 |
 | 33 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 753 | C# | 69/100 |
@@ -51,7 +51,7 @@
 | 41 | [google/digitalbuildings](./google-digitalbuildings.md) | ⭐ 447 | Python | 68/100 |
 | 42 | [longbridge/openapi](./longbridge-openapi.md) | ⭐ 422 | Rust | 68/100 |
 | 43 | [meilisearch/meilisearch-java](./meilisearch-meilisearch-java.md) | ⭐ 247 | Java | 67/100 |
-| 44 | [dart-lang/sdk](./dart-lang-sdk.md) | ⭐ 11.2k | Dart | 67/100 |
+| 44 | [dart-lang/sdk](./dart-lang-sdk.md) | ⭐ 11.3k | Dart | 67/100 |
 | 45 | [korginc/logue-sdk](./korginc-logue-sdk.md) | ⭐ 1k | C | 67/100 |
 | 46 | [agentclientprotocol/rust-sdk](./agentclientprotocol-rust-sdk.md) | ⭐ 168 | Rust | 67/100 |
 | 47 | [grafana/alloy-scenarios](./grafana-alloy-scenarios.md) | ⭐ 365 | Python | 67/100 |

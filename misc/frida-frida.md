@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21.2k |
-| 🍴 **Forks** | 2.1k |
+| ⭐ **Stars** | 22.7k |
+| 🍴 **Forks** | 2.3k |
 | 💻 **Language** | Meson |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-05 |

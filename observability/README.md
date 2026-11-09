@@ -11,7 +11,7 @@
 | 1 | [dgtlmoon/changedetection.io](./dgtlmoon-changedetection.io.md) | ⭐ 35.7k | Python | 86/100 |
 | 2 | [glanceapp/glance](./glanceapp-glance.md) | ⭐ 38.1k | Go | 83/100 |
 | 3 | [louislam/uptime-kuma](./louislam-uptime-kuma.md) | ⭐ 90.5k | JavaScript | 80/100 |
-| 4 | [influxdata/telegraf](./influxdata-telegraf.md) | ⭐ 17.7k | Go | 76/100 |
+| 4 | [influxdata/telegraf](./influxdata-telegraf.md) | ⭐ 17.9k | Go | 76/100 |
 | 5 | [highlight/highlight](./highlight-highlight.md) | ⭐ 9.3k | TypeScript | 76/100 |
 | 6 | [green-coding-solutions/green-metrics-tool](./green-coding-solutions-green-metrics-tool.md) | ⭐ 247 | Python | 76/100 |
 | 7 | [enix/x509-certificate-exporter](./enix-x509-certificate-exporter.md) | ⭐ 909 | Go | 76/100 |
@@ -23,7 +23,7 @@
 | 13 | [logtide-dev/logtide](./logtide-dev-logtide.md) | ⭐ 426 | TypeScript | 72/100 |
 | 14 | [ntop/ntopng](./ntop-ntopng.md) | ⭐ 7.9k | Lua | 72/100 |
 | 15 | [louislam/uptime-kuma](./louislam-uptime-kuma.md) | ⭐ 93.4k | JavaScript | 72/100 |
-| 16 | [elastic/kibana](./elastic-kibana.md) | ⭐ 21.1k | TypeScript | 71/100 |
+| 16 | [elastic/kibana](./elastic-kibana.md) | ⭐ 21.4k | TypeScript | 71/100 |
 | 17 | [prometheus-operator/prometheus-operator](./prometheus-operator-prometheus-operator.md) | ⭐ 9.9k | Go | 71/100 |
 | 18 | [inspektor-gadget/inspektor-gadget](./inspektor-gadget-inspektor-gadget.md) | ⭐ 2.8k | C | 71/100 |
 | 19 | [jetstack/version-checker](./jetstack-version-checker.md) | ⭐ 774 | Go | 70/100 |
@@ -58,7 +58,7 @@
 | 48 | [bramstroker/homeassistant-powercalc](./bramstroker-homeassistant-powercalc.md) | ⭐ 1.6k | Python | 66/100 |
 | 49 | [samber/awesome-prometheus-alerts](./samber-awesome-prometheus-alerts.md) | ⭐ 8.1k | Astro | 66/100 |
 | 50 | [hubblo-org/scaphandre](./hubblo-org-scaphandre.md) | ⭐ 2k | Rust | 66/100 |
-| 51 | [prometheus/node_exporter](./prometheus-node-exporter.md) | ⭐ 13.6k | Go | 66/100 |
+| 51 | [prometheus/node_exporter](./prometheus-node-exporter.md) | ⭐ 13.9k | Go | 66/100 |
 | 52 | [OISF/suricata](./oisf-suricata.md) | ⭐ 6.4k | C | 66/100 |
 | 53 | [sni/thruk](./sni-thruk.md) | ⭐ 438 | Perl | 66/100 |
 | 54 | [grouzen/framework-tool-tui](./grouzen-framework-tool-tui.md) | ⭐ 336 | Rust | 66/100 |
@@ -69,7 +69,7 @@
 | 59 | [prometheus-erl/prometheus.erl](./prometheus-erl-prometheus.erl.md) | ⭐ 354 | Erlang | 65/100 |
 | 60 | [nci/scores](./nci-scores.md) | ⭐ 218 | Python | 65/100 |
 | 61 | [librenms/librenms](./librenms-librenms.md) | ⭐ 4.7k | PHP | 65/100 |
-| 62 | [henrygd/beszel](./henrygd-beszel.md) | ⭐ 21.7k | Go | 65/100 |
+| 62 | [henrygd/beszel](./henrygd-beszel.md) | ⭐ 27.1k | Go | 65/100 |
 | 63 | [alibahmanyar/simon](./alibahmanyar-simon.md) | ⭐ 159 | Rust | 64/100 |
 | 64 | [monitoring-plugins/monitoring-plugins](./monitoring-plugins-monitoring-plugins.md) | ⭐ 513 | C | 64/100 |
 | 65 | [minikin/cargo-crap](./minikin-cargo-crap.md) | ⭐ 371 | Rust | 64/100 |
@@ -100,7 +100,7 @@
 | 90 | [SkyAPM/SkyAPM-dotnet](./skyapm-skyapm-dotnet.md) | ⭐ 1.7k | C# | 62/100 |
 | 91 | [Yeraze/meshmonitor](./yeraze-meshmonitor.md) | ⭐ 470 | TypeScript | 62/100 |
 | 92 | [pglombardo/PasswordPusher](./pglombardo-passwordpusher.md) | ⭐ 3k | Ruby | 62/100 |
-| 93 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 14.5k | C | 62/100 |
+| 93 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 16.5k | C | 62/100 |
 | 94 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 62/100 |
 | 95 | [daboss2003/mooring](./daboss2003-mooring.md) | ⭐ 2 | Go | 61/100 |
 | 96 | [apache/skywalking-java](./apache-skywalking-java.md) | ⭐ 922 | Java | 61/100 |
@@ -111,7 +111,7 @@
 | 101 | [grafana/docker-otel-lgtm](./grafana-docker-otel-lgtm.md) | ⭐ 1.9k | Shell | 61/100 |
 | 102 | [parca-dev/parca-agent](./parca-dev-parca-agent.md) | ⭐ 722 | Go | 61/100 |
 | 103 | [zeek/zeek](./zeek-zeek.md) | ⭐ 7.6k | C++ | 61/100 |
-| 104 | [ccfos/nightingale](./ccfos-nightingale.md) | ⭐ 13k | Go | 61/100 |
+| 104 | [ccfos/nightingale](./ccfos-nightingale.md) | ⭐ 13.5k | Go | 61/100 |
 | 105 | [prometheus/exporter-toolkit](./prometheus-exporter-toolkit.md) | ⭐ 308 | Go | 60/100 |
 | 106 | [ossf/scorecard](./ossf-scorecard.md) | ⭐ 5.6k | Go | 60/100 |
 | 107 | [elastic/apm-agent-dotnet](./elastic-apm-agent-dotnet.md) | ⭐ 594 | C# | 60/100 |
@@ -123,7 +123,7 @@
 | 113 | [cortexproject/cortex](./cortexproject-cortex.md) | ⭐ 5.8k | Go | 60/100 |
 | 114 | [DataDog/dd-trace-java](./datadog-dd-trace-java.md) | ⭐ 720 | Java | 60/100 |
 | 115 | [PegaProx/project-pegaprox](./pegaprox-project-pegaprox.md) | ⭐ 1.1k | JavaScript | 60/100 |
-| 116 | [giampaolo/psutil](./giampaolo-psutil.md) | ⭐ 11.2k | Python | 60/100 |
+| 116 | [giampaolo/psutil](./giampaolo-psutil.md) | ⭐ 11.3k | Python | 60/100 |
 | 117 | [grafana/beyla](./grafana-beyla.md) | ⭐ 2.1k | Go | 59/100 |
 | 118 | [nginx/nginx-prometheus-exporter](./nginx-nginx-prometheus-exporter.md) | ⭐ 2k | Go | 59/100 |
 | 119 | [GoogleChrome/web-vitals](./googlechrome-web-vitals.md) | ⭐ 8.6k | JavaScript | 59/100 |
@@ -149,10 +149,10 @@
 | 139 | [simple10/agents-observe](./simple10-agents-observe.md) | ⭐ 550 | TypeScript | 57/100 |
 | 140 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 362 | Python | 57/100 |
 | 141 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 1.7k | TypeScript | 57/100 |
-| 142 | [jaegertracing/jaeger](./jaegertracing-jaeger.md) | ⭐ 22.8k | Go | 57/100 |
+| 142 | [jaegertracing/jaeger](./jaegertracing-jaeger.md) | ⭐ 23.4k | Go | 57/100 |
 | 143 | [ilya-zlobintsev/LACT](./ilya-zlobintsev-lact.md) | ⭐ 4.7k | Rust | 57/100 |
 | 144 | [google/perfetto](./google-perfetto.md) | ⭐ 5.9k | C++ | 57/100 |
-| 145 | [grafana/loki](./grafana-loki.md) | ⭐ 28.1k | Go | 57/100 |
+| 145 | [grafana/loki](./grafana-loki.md) | ⭐ 29.1k | Go | 57/100 |
 | 146 | [grafana/mimir](./grafana-mimir.md) | ⭐ 5.1k | Go | 57/100 |
 | 147 | [hedhyw/json-log-viewer](./hedhyw-json-log-viewer.md) | ⭐ 235 | Go | 56/100 |
 | 148 | [laravel/nightwatch](./laravel-nightwatch.md) | ⭐ 369 | PHP | 56/100 |
@@ -189,7 +189,7 @@
 | 179 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 637 | — | 53/100 |
 | 180 | [elastic/elastic-agent](./elastic-elastic-agent.md) | ⭐ 253 | Go | 53/100 |
 | 181 | [bpftrace/bpftrace](./bpftrace-bpftrace.md) | ⭐ 10.1k | C++ | 53/100 |
-| 182 | [hagezi/dns-blocklists](./hagezi-dns-blocklists.md) | ⭐ 22.4k | Text | 53/100 |
+| 182 | [hagezi/dns-blocklists](./hagezi-dns-blocklists.md) | ⭐ 28.6k | Text | 53/100 |
 | 183 | [casareanderson/warden](./casareanderson-warden.md) | ⭐ — | Python | 52/100 |
 | 184 | [hyzyla/kibana-agent](./hyzyla-kibana-agent.md) | ⭐ — | — | 52/100 |
 | 185 | [GSI-HPC/lustre_exporter](./gsi-hpc-lustre-exporter.md) | ⭐ 30 | Go | 52/100 |
