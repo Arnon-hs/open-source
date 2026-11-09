@@ -13,9 +13,9 @@
 | 3 | [Vaibhav-1819/RepoS-ance](./vaibhav-1819-repos-ance.md) | ⭐ — | Python | 36/100 |
 | 4 | [Ani0811/slothdesk](./ani0811-slothdesk.md) | ⭐ — | Python | 33/100 |
 | 5 | [GSuryaP/LazyDeskAI](./gsuryap-lazydeskai.md) | ⭐ — | Python | 33/100 |
-| 6 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 33/100 |
-| 7 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 31/100 |
-| 8 | [FreemanBoss/bayaan](./freemanboss-bayaan.md) | ⭐ — | JavaScript | 30/100 |
+| 6 | [cleversonbrsantos-art/Phoenix](./cleversonbrsantos-art-phoenix.md) | ⭐ 1 | TypeScript | 31/100 |
+| 7 | [FreemanBoss/bayaan](./freemanboss-bayaan.md) | ⭐ — | JavaScript | 30/100 |
+| 8 | [Armansiddiqui9/slumberbloom](./armansiddiqui9-slumberbloom.md) | ⭐ — | HTML | 30/100 |
 | 9 | [sank8-2/friend-meal-planner](./sank8-2-friend-meal-planner.md) | ⭐ — | Python | 30/100 |
 | 10 | [Adityarane012/LiftCast](./adityarane012-liftcast.md) | ⭐ — | Python | 30/100 |
 | 11 | [Jagrat567/wanderwise-ai](./jagrat567-wanderwise-ai.md) | ⭐ — | — | 27/100 |
