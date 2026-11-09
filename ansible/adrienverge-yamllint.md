@@ -1,6 +1,6 @@
 # adrienverge/yamllint
 
-[![Stars](https://img.shields.io/github/stars/adrienverge/yamllint?style=flat-square&color=yellow)](https://github.com/adrienverge/yamllint/stargazers) [![Forks](https://img.shields.io/github/forks/adrienverge/yamllint?style=flat-square&color=blue)](https://github.com/adrienverge/yamllint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adrienverge/yamllint?style=flat-square&color=yellow)](https://github.com/adrienverge/yamllint/stargazers) [![Forks](https://img.shields.io/github/forks/adrienverge/yamllint?style=flat-square&color=blue)](https://github.com/adrienverge/yamllint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > A linter for YAML files.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.5k |
 | 🍴 **Forks** | 334 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ adrienverge/yamllint：adrienverge/yamllint may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 75/100 |
+| quality | 70/100 |
 | integration | 46/100 |
-| production | 72/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 72/100 |
 | categoryMatchCount | 700/100 |
 | stars | 75/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

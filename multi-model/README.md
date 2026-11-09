@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [caijianxiong2007-prog/bayze-mcp](./caijianxiong2007-prog-bayze-mcp.md) | ⭐ 1 | TypeScript | 68/100 |
+| 1 | [caijianxiong2007-prog/bayze-mcp](./caijianxiong2007-prog-bayze-mcp.md) | ⭐ 1 | TypeScript | 64/100 |
 
 ---
 

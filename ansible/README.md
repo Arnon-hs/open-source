@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [adrienverge/yamllint](./adrienverge-yamllint.md) | ⭐ 3.5k | Python | 61/100 |
+| 1 | [adrienverge/yamllint](./adrienverge-yamllint.md) | ⭐ 3.5k | Python | 58/100 |
 
 ---
 

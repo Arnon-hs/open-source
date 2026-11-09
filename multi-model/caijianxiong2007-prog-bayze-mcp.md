@@ -1,6 +1,6 @@
 # caijianxiong2007-prog/bayze-mcp
 
-[![Stars](https://img.shields.io/github/stars/caijianxiong2007-prog/bayze-mcp?style=flat-square&color=yellow)](https://github.com/caijianxiong2007-prog/bayze-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/caijianxiong2007-prog/bayze-mcp?style=flat-square&color=blue)](https://github.com/caijianxiong2007-prog/bayze-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caijianxiong2007-prog/bayze-mcp?style=flat-square&color=yellow)](https://github.com/caijianxiong2007-prog/bayze-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/caijianxiong2007-prog/bayze-mcp?style=flat-square&color=blue)](https://github.com/caijianxiong2007-prog/bayze-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first AI model-routing core: waterfall workflows with structured cross-vendor review (draft → review → revise). BYOK or unified API. MCP stdio. npm: bayze-mcp
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ caijianxiong2007-prog/bayze-mcp：caijianxiong2007-prog/bayze-mcp may be useful 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 71/100 |
+| production | 61/100 |
+| outlook | 64/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
