@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44952** |
+| **Projects** | **44956** |
 | **Categories** | **664** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,14 +23,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 18195 | [Browse →](./misc/) |
+| 📦 **Misc** | 18198 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4723 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2951 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2447 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1623 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1534 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 966 | [Browse →](./backend/) |
-| 🎨 **Frontend** | 914 | [Browse →](./frontend/) |
+| 🎨 **Frontend** | 915 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 826 | [Browse →](./crypto/) |
 | 🏷️ **Documents** | 739 | [Browse →](./documents/) |
 | 📱 **Mobile** | 686 | [Browse →](./mobile/) |
@@ -86,6 +86,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Multi-agent** | 6 | [Browse →](./multi-agent/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
+| 🏷️ **Coding-agent** | 5 | [Browse →](./coding-agent/) |
 | 🏷️ **Flutter** | 5 | [Browse →](./flutter/) |
 | 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Agent** | 5 | [Browse →](./agent/) |
@@ -97,7 +98,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Hackathon** | 5 | [Browse →](./hackathon/) |
 | 🌐 **Open Source** | 4 | [Browse →](./opensource/) |
 | 🏷️ **Nodejs** | 4 | [Browse →](./nodejs/) |
-| 🏷️ **Coding-agent** | 4 | [Browse →](./coding-agent/) |
 | 🏷️ **Nextjs** | 4 | [Browse →](./nextjs/) |
 | 🏷️ **Windows** | 4 | [Browse →](./windows/) |
 | 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
@@ -147,7 +147,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
 | 🏷️ **Performance** | 2 | [Browse →](./performance/) |
-| 🏷️ **React** | 2 | [Browse →](./react/) |
 | 🏷️ **Ai-assisted-development** | 2 | [Browse →](./ai-assisted-development/) |
 | 🏷️ **Rpa** | 2 | [Browse →](./rpa/) |
 | 🏷️ **Erc-8004** | 2 | [Browse →](./erc-8004/) |
@@ -242,6 +241,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
 | 🏷️ **Visual-regression** | 1 | [Browse →](./visual-regression/) |
 | 🏷️ **Agentic-ai** | 1 | [Browse →](./agentic-ai/) |
+| 🏷️ **React** | 1 | [Browse →](./react/) |
 | 🏷️ **Webgl** | 1 | [Browse →](./webgl/) |
 | 🏷️ **Ai-coding-agent** | 1 | [Browse →](./ai-coding-agent/) |
 | 🏷️ **Nmap** | 1 | [Browse →](./nmap/) |
