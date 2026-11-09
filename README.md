@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44844** |
+| **Projects** | **44846** |
 | **Categories** | **649** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -27,12 +27,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🤖 **AI/ML** | 4719 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2950 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2446 | [Browse →](./orchestration/) |
-| 🔧 **DevTools** | 1621 | [Browse →](./devtools/) |
+| 🔧 **DevTools** | 1622 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1531 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 964 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 914 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 825 | [Browse →](./crypto/) |
-| 🏷️ **Documents** | 738 | [Browse →](./documents/) |
+| 🏷️ **Documents** | 739 | [Browse →](./documents/) |
 | 📱 **Mobile** | 685 | [Browse →](./mobile/) |
 | 🏷️ **Networking** | 668 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 632 | [Browse →](./knowledgerag/) |
@@ -234,6 +234,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Google-sheets** | 1 | [Browse →](./google-sheets/) |
 | 🏷️ **Openshift** | 1 | [Browse →](./openshift/) |
 | 🏷️ **Local-security** | 1 | [Browse →](./local-security/) |
 | 🏷️ **Udp** | 1 | [Browse →](./udp/) |
@@ -361,7 +362,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Discord** | 1 | [Browse →](./discord/) |
 | 🏷️ **Address-data** | 1 | [Browse →](./address-data/) |
 | 🏷️ **Mistral** | 1 | [Browse →](./mistral/) |
-| 🏷️ **Duplicate-files** | 1 | [Browse →](./duplicate-files/) |
 | 🏷️ **Dead-code** | 1 | [Browse →](./dead-code/) |
 | 🏷️ **Microgrid** | 1 | [Browse →](./microgrid/) |
 | 🏷️ **Character-construction** | 1 | [Browse →](./character-construction/) |

@@ -15,10 +15,10 @@
 | 5 | [shivammusic/fresh-air-match](./shivammusic-fresh-air-match.md) | ⭐ — | Python | 36/100 |
 | 6 | [Atharva1723/Lumbre](./atharva1723-lumbre.md) | ⭐ — | — | 33/100 |
 | 7 | [Priti2008/haunted-terminal-whisperer](./priti2008-haunted-terminal-whisperer.md) | ⭐ — | HTML | 33/100 |
-| 8 | [qife422/chief-of-staff](./qife422-chief-of-staff.md) | ⭐ — | HTML | 33/100 |
-| 9 | [aashutoshkumarbhardwaj/openSearch](./aashutoshkumarbhardwaj-opensearch.md) | ⭐ — | TypeScript | 33/100 |
-| 10 | [devanshu-puri/BaseBuildStack](./devanshu-puri-basebuildstack.md) | ⭐ — | TypeScript | 33/100 |
-| 11 | [libsql/libsql-client](./libsql-libsql-client.md) | ⭐ — | — | 32/100 |
+| 8 | [aashutoshkumarbhardwaj/openSearch](./aashutoshkumarbhardwaj-opensearch.md) | ⭐ — | TypeScript | 33/100 |
+| 9 | [devanshu-puri/BaseBuildStack](./devanshu-puri-basebuildstack.md) | ⭐ — | TypeScript | 33/100 |
+| 10 | [libsql/libsql-client](./libsql-libsql-client.md) | ⭐ — | — | 32/100 |
+| 11 | [qife422/chief-of-staff](./qife422-chief-of-staff.md) | ⭐ — | HTML | 30/100 |
 | 12 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 30/100 |
 | 13 | [utmandilwar/studybuddy-local](./utmandilwar-studybuddy-local.md) | ⭐ — | Python | 30/100 |
 | 14 | [mohit01-beep/buddy-brain](./mohit01-beep-buddy-brain.md) | ⭐ — | JavaScript | 27/100 |
