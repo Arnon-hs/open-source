@@ -699,8 +699,8 @@
 | 689 | [newptcai/repy](./newptcai-repy.md) | ⭐ — | — | 38/100 |
 | 690 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 691 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ — | — | 38/100 |
-| 692 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 693 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ — | — | 38/100 |
+| 692 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ — | — | 38/100 |
+| 693 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
 | 694 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ — | — | 38/100 |
 | 695 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ — | — | 38/100 |
 | 696 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ — | — | 38/100 |
