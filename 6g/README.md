@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [NVlabs/sionna](./nvlabs-sionna.md) | ⭐ 1.7k | Jupyter Notebook | 59/100 |
+| 1 | [NVlabs/sionna](./nvlabs-sionna.md) | ⭐ 1.7k | Jupyter Notebook | 56/100 |
 | 2 | [Vinu2111/sionna-visualizer](./vinu2111-sionna-visualizer.md) | ⭐ 4 | Java | 52/100 |
 
 ---
