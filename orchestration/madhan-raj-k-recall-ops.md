@@ -55,7 +55,7 @@ Madhan-raj-k/recall-ops：Madhan-raj-k/recall-ops helps turn isolated prompts an
 
 - updated 2026-11-09
 - primary language: Python
-- 10 topics
+- 14 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

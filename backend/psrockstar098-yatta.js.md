@@ -56,7 +56,7 @@ psrockstar098/yatta.js：psrockstar098/yatta.js helps teams reuse service infras
 - 6 GitHub stars
 - updated 2026-11-08
 - primary language: TypeScript
-- 12 topics
+- 17 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

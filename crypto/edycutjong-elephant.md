@@ -55,7 +55,7 @@ edycutjong/elephant：edycutjong/elephant helps prototype or inspect blockchain 
 
 - updated 2026-09-08
 - primary language: HTML
-- 10 topics
+- 13 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 

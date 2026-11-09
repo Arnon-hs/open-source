@@ -56,7 +56,7 @@ caijianxiong2007-prog/bayze-mcp：caijianxiong2007-prog/bayze-mcp helps connect 
 - 1 GitHub stars
 - updated 2026-11-06
 - primary language: TypeScript
-- 15 topics
+- 19 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

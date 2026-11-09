@@ -1,6 +1,6 @@
 # renanfranca/skill-eval
 
-[![Stars](https://img.shields.io/github/stars/renanfranca/skill-eval?style=flat-square&color=yellow)](https://github.com/renanfranca/skill-eval/stargazers) [![Forks](https://img.shields.io/github/forks/renanfranca/skill-eval?style=flat-square&color=blue)](https://github.com/renanfranca/skill-eval/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/renanfranca/skill-eval?style=flat-square&color=yellow)](https://github.com/renanfranca/skill-eval/stargazers) [![Forks](https://img.shields.io/github/forks/renanfranca/skill-eval?style=flat-square&color=blue)](https://github.com/renanfranca/skill-eval/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 31/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-08-27 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ renanfranca/skill-eval：renanfranca/skill-eval helps remove repetitive manual o
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -56,6 +56,7 @@ renanfranca/skill-eval：renanfranca/skill-eval helps remove repetitive manual o
 - 1 GitHub stars
 - updated 2026-08-27
 - primary language: TypeScript
+- 4 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,17 +64,17 @@ renanfranca/skill-eval：renanfranca/skill-eval helps remove repetitive manual o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 23/100 |
+| usefulness | 74/100 |
+| quality | 30/100 |
 | integration | 34/100 |
-| production | 37/100 |
-| outlook | 31/100 |
+| production | 39/100 |
+| outlook | 42/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

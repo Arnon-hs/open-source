@@ -21,7 +21,7 @@
 | 11 | [GoogleChromeLabs/ProjectVisBug](./googlechromelabs-projectvisbug.md) | ⭐ 5.8k | JavaScript | 66/100 |
 | 12 | [WPS/egon.io](./wps-egon.io.md) | ⭐ 832 | TypeScript | 65/100 |
 | 13 | [logisim-evolution/logisim-evolution](./logisim-evolution-logisim-evolution.md) | ⭐ 7.2k | Java | 65/100 |
-| 14 | [nextcloud/server](./nextcloud-server.md) | ⭐ 35.9k | PHP | 65/100 |
+| 14 | [nextcloud/server](./nextcloud-server.md) | ⭐ 37.5k | PHP | 65/100 |
 | 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 302 | Python | 64/100 |
 | 16 | [eclipse-ee4j/cargotracker](./eclipse-ee4j-cargotracker.md) | ⭐ 390 | JavaScript | 64/100 |
 | 17 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 791 | C# | 64/100 |
@@ -42,7 +42,7 @@
 | 32 | [eliheuer/img2bez](./eliheuer-img2bez.md) | ⭐ 122 | Rust | 60/100 |
 | 33 | [HMBSbige/BilibiliLiveRecordDownLoader](./hmbsbige-bilibililiverecorddownloader.md) | ⭐ 815 | C# | 60/100 |
 | 34 | [streetmix/streetmix](./streetmix-streetmix.md) | ⭐ 741 | TypeScript | 59/100 |
-| 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 41.4k | JavaScript | 59/100 |
+| 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 106.9k | JavaScript | 59/100 |
 | 36 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 6.7k | PHP | 59/100 |
 | 37 | [QwenLM/Qwen3-TTS](./qwenlm-qwen3-tts.md) | ⭐ 13.2k | Python | 58/100 |
 | 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 670 | Vue | 58/100 |
@@ -203,8 +203,8 @@
 | 193 | [boya16573-design/Cube3.in](./boya16573-design-cube3.in.md) | ⭐ — | HTML | 36/100 |
 | 194 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |
 | 195 | [paper-design/shaders](./paper-design-shaders.md) | ⭐ — | — | 29/100 |
-| 196 | [fal-ai/moss-image](./fal-ai-moss-image.md) | ⭐ — | — | 24/100 |
-| 197 | [bors-community/bors](./bors-community-bors.md) | ⭐ — | — | 24/100 |
+| 196 | [bors-community/bors](./bors-community-bors.md) | ⭐ — | — | 29/100 |
+| 197 | [fal-ai/moss-image](./fal-ai-moss-image.md) | ⭐ — | — | 27/100 |
 
 ---
 

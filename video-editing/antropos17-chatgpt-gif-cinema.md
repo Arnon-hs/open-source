@@ -1,6 +1,6 @@
 # antropos17/chatgpt-gif-cinema
 
-[![Stars](https://img.shields.io/github/stars/antropos17/chatgpt-gif-cinema?style=flat-square&color=yellow)](https://github.com/antropos17/chatgpt-gif-cinema/stargazers) [![Forks](https://img.shields.io/github/forks/antropos17/chatgpt-gif-cinema?style=flat-square&color=blue)](https://github.com/antropos17/chatgpt-gif-cinema/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antropos17/chatgpt-gif-cinema?style=flat-square&color=yellow)](https://github.com/antropos17/chatgpt-gif-cinema/stargazers) [![Forks](https://img.shields.io/github/forks/antropos17/chatgpt-gif-cinema?style=flat-square&color=blue)](https://github.com/antropos17/chatgpt-gif-cinema/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > An agent skill for turning GPT GIF shots into reviewed films. Generate shots, compare takes, and export MP4.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ antropos17/chatgpt-gif-cinema：antropos17/chatgpt-gif-cinema helps turn media e
 - 3 GitHub stars
 - updated 2026-11-06
 - primary language: Python
-- 9 topics
+- 14 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -64,11 +64,11 @@ antropos17/chatgpt-gif-cinema：antropos17/chatgpt-gif-cinema helps turn media e
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
+| usefulness | 74/100 |
 | quality | 50/100 |
 | integration | 62/100 |
 | production | 60/100 |
-| outlook | 59/100 |
+| outlook | 62/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 500/100 |
 | stars | 13/100 |

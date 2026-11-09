@@ -1,6 +1,6 @@
 # techdevfun/persistguard
 
-[![Stars](https://img.shields.io/github/stars/techdevfun/persistguard?style=flat-square&color=yellow)](https://github.com/techdevfun/persistguard/stargazers) [![Forks](https://img.shields.io/github/forks/techdevfun/persistguard?style=flat-square&color=blue)](https://github.com/techdevfun/persistguard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/techdevfun/persistguard?style=flat-square&color=yellow)](https://github.com/techdevfun/persistguard/stargazers) [![Forks](https://img.shields.io/github/forks/techdevfun/persistguard?style=flat-square&color=blue)](https://github.com/techdevfun/persistguard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Guard the agent's persisted approvals: scan Claude Code settings files for secrets saved inside allow rules, check git history, redact them, and install a pre-commit gate.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ techdevfun/persistguard：techdevfun/persistguard helps add AI capability withou
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,6 +55,7 @@ techdevfun/persistguard：techdevfun/persistguard helps add AI capability withou
 
 - updated 2026-11-09
 - primary language: TypeScript
+- 5 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,17 +63,17 @@ techdevfun/persistguard：techdevfun/persistguard helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 36/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 54/100 |
+| usefulness | 74/100 |
+| quality | 45/100 |
+| integration | 62/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

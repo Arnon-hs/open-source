@@ -1,6 +1,6 @@
 # AsamK/signal-cli
 
-[![Stars](https://img.shields.io/github/stars/AsamK/signal-cli?style=flat-square&color=yellow)](https://github.com/AsamK/signal-cli/stargazers) [![Forks](https://img.shields.io/github/forks/AsamK/signal-cli?style=flat-square&color=blue)](https://github.com/AsamK/signal-cli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AsamK/signal-cli?style=flat-square&color=yellow)](https://github.com/AsamK/signal-cli/stargazers) [![Forks](https://img.shields.io/github/forks/AsamK/signal-cli?style=flat-square&color=blue)](https://github.com/AsamK/signal-cli/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
 
 > signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5k |
 | 🍴 **Forks** | 474 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-AsamK/signal-cli: AsamK/signal-cli helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AsamK/signal-cli: AsamK/signal-cli helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ### Русский
 
-AsamK/signal-cli: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+AsamK/signal-cli: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
 
 ### 中文
 
-AsamK/signal-cli：AsamK/signal-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AsamK/signal-cli：AsamK/signal-cli helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ AsamK/signal-cli：AsamK/signal-cli helps add AI capability without starting fro
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
 **Quality signals**
 
@@ -57,7 +57,7 @@ AsamK/signal-cli：AsamK/signal-cli helps add AI capability without starting fro
 - 474 forks
 - updated 2026-11-07
 - primary language: Java
-- 7 topics
+- 10 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,17 +65,17 @@ AsamK/signal-cli：AsamK/signal-cli helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 83/100 |
+| usefulness | 74/100 |
+| quality | 84/100 |
 | integration | 46/100 |
-| production | 74/100 |
-| outlook | 81/100 |
+| production | 75/100 |
+| outlook | 86/100 |
 | adoption | 75/100 |
 | categoryMatchCount | 100/100 |
 | stars | 79/100 |
 | forks | 67/100 |
 | recency | 100/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

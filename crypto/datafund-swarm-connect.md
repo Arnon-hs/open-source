@@ -56,7 +56,7 @@ datafund/swarm_connect：datafund/swarm_connect helps prototype or inspect block
 - 1 GitHub stars
 - updated 2026-10-07
 - primary language: Python
-- 9 topics
+- 15 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 

@@ -1,6 +1,6 @@
 # yanairon/claude-hookbook
 
-[![Stars](https://img.shields.io/github/stars/yanairon/claude-hookbook?style=flat-square&color=yellow)](https://github.com/yanairon/claude-hookbook/stargazers) [![Forks](https://img.shields.io/github/forks/yanairon/claude-hookbook?style=flat-square&color=blue)](https://github.com/yanairon/claude-hookbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yanairon/claude-hookbook?style=flat-square&color=yellow)](https://github.com/yanairon/claude-hookbook/stargazers) [![Forks](https://img.shields.io/github/forks/yanairon/claude-hookbook?style=flat-square&color=blue)](https://github.com/yanairon/claude-hookbook/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | 2026-09-11 |
 | 🔍 **Source** | story-link |
 
@@ -55,6 +55,7 @@ yanairon/claude-hookbook：yanairon/claude-hookbook helps remove repetitive manu
 
 - updated 2026-09-11
 - primary language: TypeScript
+- 3 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ yanairon/claude-hookbook：yanairon/claude-hookbook helps remove repetitive manu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 21/100 |
+| quality | 26/100 |
 | integration | 34/100 |
-| production | 36/100 |
-| outlook | 29/100 |
+| production | 38/100 |
+| outlook | 33/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 0/100 |
+| topics | 38/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -56,7 +56,7 @@ ArtJack/verdict：ArtJack/verdict helps remove repetitive manual operations from
 - 1 GitHub stars
 - updated 2026-09-05
 - primary language: Python
-- 12 topics
+- 14 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 

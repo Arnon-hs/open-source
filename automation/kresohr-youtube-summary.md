@@ -1,6 +1,6 @@
 # kresohr/youtube-summary
 
-[![Stars](https://img.shields.io/github/stars/kresohr/youtube-summary?style=flat-square&color=yellow)](https://github.com/kresohr/youtube-summary/stargazers) [![Forks](https://img.shields.io/github/forks/kresohr/youtube-summary?style=flat-square&color=blue)](https://github.com/kresohr/youtube-summary/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-27%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kresohr/youtube-summary?style=flat-square&color=yellow)](https://github.com/kresohr/youtube-summary/stargazers) [![Forks](https://img.shields.io/github/forks/kresohr/youtube-summary?style=flat-square&color=blue)](https://github.com/kresohr/youtube-summary/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 27/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | 2026-03-16 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ kresohr/youtube-summary：kresohr/youtube-summary helps remove repetitive manual
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -55,6 +55,7 @@ kresohr/youtube-summary：kresohr/youtube-summary helps remove repetitive manual
 
 - updated 2026-03-16
 - primary language: TypeScript
+- 8 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ kresohr/youtube-summary：kresohr/youtube-summary helps remove repetitive manual
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 16/100 |
+| quality | 31/100 |
 | integration | 34/100 |
-| production | 29/100 |
-| outlook | 22/100 |
+| production | 35/100 |
+| outlook | 32/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

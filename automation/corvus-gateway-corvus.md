@@ -56,7 +56,7 @@ corvus-gateway/corvus：corvus-gateway/corvus helps remove repetitive manual ope
 - 1 GitHub stars
 - updated 2026-11-06
 - primary language: TypeScript
-- 17 topics
+- 20 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

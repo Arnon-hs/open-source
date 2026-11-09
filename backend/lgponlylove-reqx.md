@@ -1,6 +1,6 @@
 # lgponlylove/reqX
 
-[![Stars](https://img.shields.io/github/stars/lgponlylove/reqX?style=flat-square&color=yellow)](https://github.com/lgponlylove/reqX/stargazers) [![Forks](https://img.shields.io/github/forks/lgponlylove/reqX?style=flat-square&color=blue)](https://github.com/lgponlylove/reqX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lgponlylove/reqX?style=flat-square&color=yellow)](https://github.com/lgponlylove/reqX/stargazers) [![Forks](https://img.shields.io/github/forks/lgponlylove/reqX?style=flat-square&color=blue)](https://github.com/lgponlylove/reqX/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ lgponlylove/reqX：lgponlylove/reqX helps teams reuse service infrastructure ins
 - reuse backend infrastructure
 - standardize service patterns
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -56,6 +56,7 @@ lgponlylove/reqX：lgponlylove/reqX helps teams reuse service infrastructure ins
 - 1 GitHub stars
 - updated 2026-10-23
 - primary language: TypeScript
+- 6 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,17 +64,17 @@ lgponlylove/reqX：lgponlylove/reqX helps teams reuse service infrastructure ins
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 28/100 |
-| integration | 34/100 |
-| production | 43/100 |
-| outlook | 38/100 |
+| usefulness | 58/100 |
+| quality | 39/100 |
+| integration | 50/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

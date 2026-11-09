@@ -1,6 +1,6 @@
 # vznjs/vx
 
-[![Stars](https://img.shields.io/github/stars/vznjs/vx?style=flat-square&color=yellow)](https://github.com/vznjs/vx/stargazers) [![Forks](https://img.shields.io/github/forks/vznjs/vx?style=flat-square&color=blue)](https://github.com/vznjs/vx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vznjs/vx?style=flat-square&color=yellow)](https://github.com/vznjs/vx/stargazers) [![Forks](https://img.shields.io/github/forks/vznjs/vx?style=flat-square&color=blue)](https://github.com/vznjs/vx/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 33/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-10-09 |
 | 🔍 **Source** | story-link |
 
@@ -45,7 +45,7 @@ vznjs/vx：vznjs/vx may be useful when its README and activity match a concrete 
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -55,6 +55,7 @@ vznjs/vx：vznjs/vx may be useful when its README and activity match a concrete 
 - 1 forks
 - updated 2026-10-09
 - primary language: TypeScript
+- 5 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ vznjs/vx：vznjs/vx may be useful when its README and activity match a concrete 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 26/100 |
+| quality | 36/100 |
 | integration | 34/100 |
-| production | 38/100 |
-| outlook | 33/100 |
+| production | 41/100 |
+| outlook | 39/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 0/100 |
 | stars | 15/100 |
 | forks | 8/100 |
 | recency | 40/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

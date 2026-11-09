@@ -1,6 +1,6 @@
 # ZenyaDAR/humanloads
 
-[![Stars](https://img.shields.io/github/stars/ZenyaDAR/humanloads?style=flat-square&color=yellow)](https://github.com/ZenyaDAR/humanloads/stargazers) [![Forks](https://img.shields.io/github/forks/ZenyaDAR/humanloads?style=flat-square&color=blue)](https://github.com/ZenyaDAR/humanloads/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZenyaDAR/humanloads?style=flat-square&color=yellow)](https://github.com/ZenyaDAR/humanloads/stargazers) [![Forks](https://img.shields.io/github/forks/ZenyaDAR/humanloads?style=flat-square&color=blue)](https://github.com/ZenyaDAR/humanloads/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > How many humans actually use an npm package? npm counts every tarball fetch; humanloads strips out mirrors, scanners and crawlers to estimate real weekly installs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ ZenyaDAR/humanloads：ZenyaDAR/humanloads helps remove repetitive manual operati
 - 1 GitHub stars
 - updated 2026-11-06
 - primary language: TypeScript
-- 14 topics
+- 17 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -64,11 +64,11 @@ ZenyaDAR/humanloads：ZenyaDAR/humanloads helps remove repetitive manual operati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
+| usefulness | 58/100 |
 | quality | 48/100 |
 | integration | 46/100 |
 | production | 57/100 |
-| outlook | 55/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 400/100 |
 | stars | 6/100 |

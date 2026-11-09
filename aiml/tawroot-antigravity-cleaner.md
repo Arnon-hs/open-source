@@ -1,6 +1,6 @@
 # tawroot/antigravity-cleaner
 
-[![Stars](https://img.shields.io/github/stars/tawroot/antigravity-cleaner?style=flat-square&color=yellow)](https://github.com/tawroot/antigravity-cleaner/stargazers) [![Forks](https://img.shields.io/github/forks/tawroot/antigravity-cleaner?style=flat-square&color=blue)](https://github.com/tawroot/antigravity-cleaner/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tawroot/antigravity-cleaner?style=flat-square&color=yellow)](https://github.com/tawroot/antigravity-cleaner/stargazers) [![Forks](https://img.shields.io/github/forks/tawroot/antigravity-cleaner?style=flat-square&color=blue)](https://github.com/tawroot/antigravity-cleaner/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > ⚡ Bypass Google Sanctions, Region Lock & 403/429 Errors in Antigravity IDE & 2.x. Zero-TUN SOCKS5 Smart Injector, Doctor & Surgical Quota Reset.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 166 |
 | 🍴 **Forks** | 21 |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ tawroot/antigravity-cleaner：tawroot/antigravity-cleaner helps add AI capabilit
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,7 +57,7 @@ tawroot/antigravity-cleaner：tawroot/antigravity-cleaner helps add AI capabilit
 - 21 forks
 - updated 2026-10-14
 - primary language: HTML
-- 13 topics
+- 20 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,11 +65,11 @@ tawroot/antigravity-cleaner：tawroot/antigravity-cleaner helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
+| usefulness | 74/100 |
 | quality | 60/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 60/100 |
+| integration | 62/100 |
+| production | 59/100 |
+| outlook | 64/100 |
 | adoption | 43/100 |
 | categoryMatchCount | 300/100 |
 | stars | 47/100 |

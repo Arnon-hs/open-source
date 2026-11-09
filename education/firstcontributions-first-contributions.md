@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 54.6k |
-| 🍴 **Forks** | 104.8k |
+| ⭐ **Stars** | 56.8k |
+| 🍴 **Forks** | 112.5k |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-09-05 |

@@ -1,6 +1,6 @@
 # CtrlAltDelete-Ops/opentuple
 
-[![Stars](https://img.shields.io/github/stars/CtrlAltDelete-Ops/opentuple?style=flat-square&color=yellow)](https://github.com/CtrlAltDelete-Ops/opentuple/stargazers) [![Forks](https://img.shields.io/github/forks/CtrlAltDelete-Ops/opentuple?style=flat-square&color=blue)](https://github.com/CtrlAltDelete-Ops/opentuple/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/CtrlAltDelete-Ops/opentuple?style=flat-square&color=yellow)](https://github.com/CtrlAltDelete-Ops/opentuple/stargazers) [![Forks](https://img.shields.io/github/forks/CtrlAltDelete-Ops/opentuple?style=flat-square&color=blue)](https://github.com/CtrlAltDelete-Ops/opentuple/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic style intelligence for AI coding agents — index a repo, mine its conventions, serve them over MCP
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ CtrlAltDelete-Ops/opentuple：CtrlAltDelete-Ops/opentuple helps add AI capabilit
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -56,6 +56,7 @@ CtrlAltDelete-Ops/opentuple：CtrlAltDelete-Ops/opentuple helps add AI capabilit
 - 1 GitHub stars
 - updated 2026-11-05
 - primary language: Go
+- 5 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,16 +65,16 @@ CtrlAltDelete-Ops/opentuple：CtrlAltDelete-Ops/opentuple helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 33/100 |
+| quality | 42/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 57/100 |
+| outlook | 57/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

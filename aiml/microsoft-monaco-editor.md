@@ -1,6 +1,6 @@
 # microsoft/monaco-editor
 
-[![Stars](https://img.shields.io/github/stars/microsoft/monaco-editor?style=flat-square&color=yellow)](https://github.com/microsoft/monaco-editor/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/monaco-editor?style=flat-square&color=blue)](https://github.com/microsoft/monaco-editor/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/microsoft/monaco-editor?style=flat-square&color=yellow)](https://github.com/microsoft/monaco-editor/stargazers) [![Forks](https://img.shields.io/github/forks/microsoft/monaco-editor?style=flat-square&color=blue)](https://github.com/microsoft/monaco-editor/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > A browser based code editor
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 46.9k |
+| ⭐ **Stars** | 47k |
 | 🍴 **Forks** | 4.2k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -53,11 +53,11 @@ microsoft/monaco-editor：microsoft/monaco-editor helps add AI capability withou
 
 **Quality signals**
 
-- 46948 GitHub stars
-- 4170 forks
+- 46958 GitHub stars
+- 4167 forks
 - updated 2026-11-04
 - primary language: JavaScript
-- 5 topics
+- 10 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,17 +65,17 @@ microsoft/monaco-editor：microsoft/monaco-editor helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 83/100 |
+| usefulness | 58/100 |
+| quality | 89/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| production | 72/100 |
+| outlook | 81/100 |
 | adoption | 97/100 |
 | categoryMatchCount | 100/100 |
 | stars | 99/100 |
-| forks | 91/100 |
+| forks | 90/100 |
 | recency | 80/100 |
-| topics | 63/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

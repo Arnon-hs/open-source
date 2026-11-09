@@ -57,7 +57,7 @@ valteresj2/agent-hangar：valteresj2/agent-hangar helps turn isolated prompts an
 - 4 forks
 - updated 2026-11-05
 - primary language: Python
-- 18 topics
+- 22 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

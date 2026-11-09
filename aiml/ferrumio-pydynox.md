@@ -57,7 +57,7 @@ ferrumio/pydynox：ferrumio/pydynox helps add AI capability without starting fro
 - 22 forks
 - updated 2026-11-02
 - primary language: Python
-- 7 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -66,16 +66,16 @@ ferrumio/pydynox：ferrumio/pydynox helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 62/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 62/100 |
+| outlook | 62/100 |
 | adoption | 36/100 |
 | categoryMatchCount | 400/100 |
 | stars | 37/100 |
 | forks | 34/100 |
 | recency | 80/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -55,7 +55,7 @@ kendrick-k/nuxt-cmpkit-debug：kendrick-k/nuxt-cmpkit-debug helps ship user-faci
 
 - updated 2026-11-07
 - primary language: Vue
-- 10 topics
+- 12 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

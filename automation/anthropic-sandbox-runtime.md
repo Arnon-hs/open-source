@@ -1,6 +1,6 @@
 # anthropic/sandbox-runtime
 
-[![Stars](https://img.shields.io/github/stars/anthropic/sandbox-runtime?style=flat-square&color=yellow)](https://github.com/anthropic/sandbox-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/anthropic/sandbox-runtime?style=flat-square&color=blue)](https://github.com/anthropic/sandbox-runtime/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/anthropic/sandbox-runtime?style=flat-square&color=yellow)](https://github.com/anthropic/sandbox-runtime/stargazers) [![Forks](https://img.shields.io/github/forks/anthropic/sandbox-runtime?style=flat-square&color=blue)](https://github.com/anthropic/sandbox-runtime/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 24/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ anthropic/sandbox-runtime：anthropic/sandbox-runtime helps remove repetitive ma
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 3 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -61,17 +61,17 @@ anthropic/sandbox-runtime：anthropic/sandbox-runtime helps remove repetitive ma
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 16/100 |
-| integration | 18/100 |
-| production | 27/100 |
-| outlook | 22/100 |
+| usefulness | 74/100 |
+| quality | 21/100 |
+| integration | 34/100 |
+| production | 31/100 |
+| outlook | 33/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 38/100 |
 | sourceTrust | 70/100 |
 
 ---

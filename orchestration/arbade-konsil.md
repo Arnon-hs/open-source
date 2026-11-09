@@ -57,7 +57,7 @@ arbade/konsil：arbade/konsil helps turn isolated prompts and tools into repeata
 - 1 forks
 - updated 2026-11-03
 - primary language: HTML
-- 20 topics
+- 24 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

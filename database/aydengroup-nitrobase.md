@@ -1,6 +1,6 @@
 # AydenGroup/nitrobase
 
-[![Stars](https://img.shields.io/github/stars/AydenGroup/nitrobase?style=flat-square&color=yellow)](https://github.com/AydenGroup/nitrobase/stargazers) [![Forks](https://img.shields.io/github/forks/AydenGroup/nitrobase?style=flat-square&color=blue)](https://github.com/AydenGroup/nitrobase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AydenGroup/nitrobase?style=flat-square&color=yellow)](https://github.com/AydenGroup/nitrobase/stargazers) [![Forks](https://img.shields.io/github/forks/AydenGroup/nitrobase?style=flat-square&color=blue)](https://github.com/AydenGroup/nitrobase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Your own platform-as-a-service, on your own servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ AydenGroup/nitrobase：AydenGroup/nitrobase helps teams persist, query, and move
 - speed up data access
 - prototype database-backed apps
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,24 +57,25 @@ AydenGroup/nitrobase：AydenGroup/nitrobase helps teams persist, query, and move
 - 3 forks
 - updated 2026-11-06
 - primary language: TypeScript
+- 5 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 47/100 |
+| production | 57/100 |
+| outlook | 54/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 100/100 |
 | stars | 17/100 |
 | forks | 15/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

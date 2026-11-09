@@ -55,7 +55,7 @@ zxcfrancyz/steam-currency-converter：zxcfrancyz/steam-currency-converter helps 
 
 - updated 2026-11-05
 - primary language: JavaScript
-- 10 topics
+- 15 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

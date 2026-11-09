@@ -55,7 +55,7 @@ MLSystemsRI/ml-systems-public：MLSystemsRI/ml-systems-public helps add AI capab
 
 - updated 2026-09-05
 - primary language: TypeScript
-- 15 topics
+- 20 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 

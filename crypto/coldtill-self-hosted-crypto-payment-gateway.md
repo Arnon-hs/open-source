@@ -1,6 +1,6 @@
 # Coldtill/self-hosted-crypto-payment-gateway
 
-[![Stars](https://img.shields.io/github/stars/Coldtill/self-hosted-crypto-payment-gateway?style=flat-square&color=yellow)](https://github.com/Coldtill/self-hosted-crypto-payment-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Coldtill/self-hosted-crypto-payment-gateway?style=flat-square&color=blue)](https://github.com/Coldtill/self-hosted-crypto-payment-gateway/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Coldtill/self-hosted-crypto-payment-gateway?style=flat-square&color=yellow)](https://github.com/Coldtill/self-hosted-crypto-payment-gateway/stargazers) [![Forks](https://img.shields.io/github/forks/Coldtill/self-hosted-crypto-payment-gateway?style=flat-square&color=blue)](https://github.com/Coldtill/self-hosted-crypto-payment-gateway/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted crypto payment gateway. Accept 200+ coins on 35+ chains, including USDT, USDC, BTC, ETH, SOL and TRX, straight to your own cold wallet. No custody, no KYC.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -57,7 +57,7 @@ Coldtill/self-hosted-crypto-payment-gateway：Coldtill/self-hosted-crypto-paymen
 - 1 forks
 - updated 2026-11-04
 - primary language: Shell
-- 12 topics
+- 16 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,11 +65,11 @@ Coldtill/self-hosted-crypto-payment-gateway：Coldtill/self-hosted-crypto-paymen
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
+| usefulness | 74/100 |
 | quality | 51/100 |
 | integration | 46/100 |
 | production | 58/100 |
-| outlook | 59/100 |
+| outlook | 63/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 100/100 |
 | stars | 13/100 |

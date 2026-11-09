@@ -2,8 +2,8 @@
 
 Find an open-source way to solve a task, compare practical fit, and give your coding agent a grounded starting point. Browse project cards here, search the [AtlasRepo website](https://atlasrepo.com), or use the same catalog through MCP and agent skills.
 
-- **Complete data:** 45,011 indexed projects in a downloadable JSON snapshot.
-- **Focused browsing:** 45,004 project cards across 32 categories with 10+ entries.
+- **Complete data:** 45,012 indexed projects in a downloadable JSON snapshot.
+- **Focused browsing:** 45,005 project cards across 32 categories with 10+ entries.
 - **Practical context:** multilingual summaries, use cases, integration notes, repository signals and score breakdowns.
 - **Open metadata:** MIT-licensed catalog data. Each linked project has its own license.
 
@@ -16,8 +16,8 @@ Start with a main category, then open a project card for its summary and evidenc
 | Category | Project cards |
 | --- | ---: |
 | [Misc](./misc/README.md) | 18,353 |
-| [AI/ML](./aiml/README.md) | 5,304 |
-| [MCP](./mcp/README.md) | 3,020 |
+| [AI/ML](./aiml/README.md) | 5,305 |
+| [MCP](./mcp/README.md) | 3,019 |
 | [Orchestration](./orchestration/README.md) | 2,502 |
 | [Automation](./automation/README.md) | 1,766 |
 | [DevTools](./devtools/README.md) | 1,650 |
@@ -39,15 +39,15 @@ Scores help shortlist candidates. They do not establish security, maintenance qu
 | Project | Stars at last observation | Score |
 | --- | ---: | ---: |
 | [n8n-io/n8n](./mcp/n8n-io-n8n.md) | 209,928 | 97/100 |
-| [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | 42,629 | 94/100 |
-| [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | 44,683 | 93/100 |
-| [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | 46,836 | 93/100 |
+| [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | 49,415 | 94/100 |
+| [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | 110,609 | 93/100 |
+| [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | 79,249 | 93/100 |
 | [wasp-lang/open-saas](./templates/wasp-lang-open-saas.md) | 14,931 | 92/100 |
 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | 8,548 | 91/100 |
 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | 8,543 | 91/100 |
 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | 6,732 | 91/100 |
 | [langgenius/dify](./orchestration/langgenius-dify.md) | 160,777 | 91/100 |
-| [zeromicro/go-zero](./aiml/zeromicro-go-zero.md) | 33,203 | 90/100 |
+| [zeromicro/go-zero](./aiml/zeromicro-go-zero.md) | 33,420 | 90/100 |
 
 ## Read the data
 

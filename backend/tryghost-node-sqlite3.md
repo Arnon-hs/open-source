@@ -1,6 +1,6 @@
 # TryGhost/node-sqlite3
 
-[![Stars](https://img.shields.io/github/stars/TryGhost/node-sqlite3?style=flat-square&color=yellow)](https://github.com/TryGhost/node-sqlite3/stargazers) [![Forks](https://img.shields.io/github/forks/TryGhost/node-sqlite3?style=flat-square&color=blue)](https://github.com/TryGhost/node-sqlite3/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TryGhost/node-sqlite3?style=flat-square&color=yellow)](https://github.com/TryGhost/node-sqlite3/stargazers) [![Forks](https://img.shields.io/github/forks/TryGhost/node-sqlite3?style=flat-square&color=blue)](https://github.com/TryGhost/node-sqlite3/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > SQLite3 bindings for Node.js
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 844 |
 | 💻 **Language** | PLpgSQL |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ TryGhost/node-sqlite3：TryGhost/node-sqlite3 helps teams reuse service infrastr
 - reuse backend infrastructure
 - standardize service patterns
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,24 +57,25 @@ TryGhost/node-sqlite3：TryGhost/node-sqlite3 helps teams reuse service infrastr
 - 844 forks
 - updated 2026-11-06
 - primary language: PLpgSQL
+- 5 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 30/100 |
-| production | 61/100 |
-| outlook | 63/100 |
+| usefulness | 58/100 |
+| quality | 75/100 |
+| integration | 46/100 |
+| production | 67/100 |
+| outlook | 73/100 |
 | adoption | 79/100 |
 | categoryMatchCount | 100/100 |
 | stars | 81/100 |
 | forks | 73/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -1,6 +1,6 @@
 # ImageOptim/gifski
 
-[![Stars](https://img.shields.io/github/stars/ImageOptim/gifski?style=flat-square&color=yellow)](https://github.com/ImageOptim/gifski/stargazers) [![Forks](https://img.shields.io/github/forks/ImageOptim/gifski?style=flat-square&color=blue)](https://github.com/ImageOptim/gifski/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ImageOptim/gifski?style=flat-square&color=yellow)](https://github.com/ImageOptim/gifski/stargazers) [![Forks](https://img.shields.io/github/forks/ImageOptim/gifski?style=flat-square&color=blue)](https://github.com/ImageOptim/gifski/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5.7k |
 | 🍴 **Forks** | 181 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -57,25 +57,25 @@ ImageOptim/gifski：ImageOptim/gifski helps remove repetitive manual operations 
 - 181 forks
 - updated 2026-11-06
 - primary language: Rust
-- 5 topics
+- 11 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 73/100 |
-| integration | 30/100 |
-| production | 64/100 |
-| outlook | 68/100 |
+| quality | 79/100 |
+| integration | 46/100 |
+| production | 68/100 |
+| outlook | 72/100 |
 | adoption | 73/100 |
 | categoryMatchCount | 100/100 |
 | stars | 80/100 |
 | forks | 57/100 |
 | recency | 80/100 |
-| topics | 63/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

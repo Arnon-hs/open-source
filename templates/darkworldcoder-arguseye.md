@@ -1,6 +1,6 @@
 # DarkWorldCoder/arguseye
 
-[![Stars](https://img.shields.io/github/stars/DarkWorldCoder/arguseye?style=flat-square&color=yellow)](https://github.com/DarkWorldCoder/arguseye/stargazers) [![Forks](https://img.shields.io/github/forks/DarkWorldCoder/arguseye?style=flat-square&color=blue)](https://github.com/DarkWorldCoder/arguseye/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DarkWorldCoder/arguseye?style=flat-square&color=yellow)](https://github.com/DarkWorldCoder/arguseye/stargazers) [![Forks](https://img.shields.io/github/forks/DarkWorldCoder/arguseye?style=flat-square&color=blue)](https://github.com/DarkWorldCoder/arguseye/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Preview React, browser-renderable Next.js and Vue components from source. UI edit evidence for coding agents and VS Code, without starting the app.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ DarkWorldCoder/arguseye：DarkWorldCoder/arguseye helps teams reuse working work
 - 7 GitHub stars
 - updated 2026-11-03
 - primary language: TypeScript
-- 20 topics
+- 25 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -66,8 +66,8 @@ DarkWorldCoder/arguseye：DarkWorldCoder/arguseye helps teams reuse working work
 |---|---:|
 | usefulness | 100/100 |
 | quality | 52/100 |
-| integration | 78/100 |
-| production | 63/100 |
+| integration | 100/100 |
+| production | 66/100 |
 | outlook | 68/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 500/100 |

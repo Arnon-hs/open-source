@@ -56,7 +56,7 @@ an21an21/tokentrimmer：an21an21/tokentrimmer helps add AI capability without st
 - 1 GitHub stars
 - updated 2026-11-04
 - primary language: JavaScript
-- 20 topics
+- 24 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

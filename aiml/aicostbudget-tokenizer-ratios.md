@@ -55,7 +55,7 @@ aicostbudget/tokenizer-ratios：aicostbudget/tokenizer-ratios helps add AI capab
 
 - updated 2026-11-02
 - primary language: Python
-- 18 topics
+- 23 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

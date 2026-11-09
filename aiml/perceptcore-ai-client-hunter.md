@@ -1,6 +1,6 @@
 # perceptcore/ai-client-hunter
 
-[![Stars](https://img.shields.io/github/stars/perceptcore/ai-client-hunter?style=flat-square&color=yellow)](https://github.com/perceptcore/ai-client-hunter/stargazers) [![Forks](https://img.shields.io/github/forks/perceptcore/ai-client-hunter?style=flat-square&color=blue)](https://github.com/perceptcore/ai-client-hunter/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/perceptcore/ai-client-hunter?style=flat-square&color=yellow)](https://github.com/perceptcore/ai-client-hunter/stargazers) [![Forks](https://img.shields.io/github/forks/perceptcore/ai-client-hunter?style=flat-square&color=blue)](https://github.com/perceptcore/ai-client-hunter/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI writes code. Your pipeline is still empty. Put Claude or Codex on prospecting duty. B2B prospects, public contacts, and sourced outreach drafts.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ perceptcore/ai-client-hunter：perceptcore/ai-client-hunter helps add AI capabil
 
 - 1 GitHub stars
 - updated 2026-11-06
-- 7 topics
+- 8 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -64,16 +64,16 @@ perceptcore/ai-client-hunter：perceptcore/ai-client-hunter helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 46/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 60/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

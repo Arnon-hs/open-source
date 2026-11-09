@@ -44,7 +44,7 @@
 | 34 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 38/100 |
 | 35 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 38/100 |
 | 36 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 38/100 |
-| 37 | [ovrion/open-next](./ovrion-open-next.md) | ⭐ — | — | 24/100 |
+| 37 | [ovrion/open-next](./ovrion-open-next.md) | ⭐ — | — | 37/100 |
 
 ---
 

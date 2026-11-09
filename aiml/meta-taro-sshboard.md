@@ -55,7 +55,7 @@ meta-taro/sshboard：meta-taro/sshboard helps add AI capability without starting
 
 - updated 2026-11-02
 - primary language: Rust
-- 10 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

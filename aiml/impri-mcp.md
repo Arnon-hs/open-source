@@ -1,6 +1,6 @@
 # impri/mcp
 
-[![Stars](https://img.shields.io/github/stars/impri/mcp?style=flat-square&color=yellow)](https://github.com/impri/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/impri/mcp?style=flat-square&color=blue)](https://github.com/impri/mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/impri/mcp?style=flat-square&color=yellow)](https://github.com/impri/mcp/stargazers) [![Forks](https://img.shields.io/github/forks/impri/mcp?style=flat-square&color=blue)](https://github.com/impri/mcp/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ impri/mcp：impri/mcp helps add AI capability without starting from a blank mode
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 3 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,16 +62,16 @@ impri/mcp：impri/mcp helps add AI capability without starting from a blank mode
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 16/100 |
+| quality | 21/100 |
 | integration | 34/100 |
-| production | 29/100 |
-| outlook | 26/100 |
+| production | 31/100 |
+| outlook | 29/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 38/100 |
 | sourceTrust | 70/100 |
 
 ---

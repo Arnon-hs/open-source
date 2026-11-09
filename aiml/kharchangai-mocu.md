@@ -54,7 +54,7 @@ kharchangai/Mocu：kharchangai/Mocu helps add AI capability without starting fro
 **Quality signals**
 
 - updated 2026-11-04
-- 19 topics
+- 23 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

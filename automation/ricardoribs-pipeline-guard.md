@@ -55,7 +55,7 @@ ricardoribs/pipeline-guard：ricardoribs/pipeline-guard helps remove repetitive 
 
 - updated 2026-11-04
 - primary language: Python
-- 8 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

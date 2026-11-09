@@ -1,6 +1,6 @@
 # foisalislambd/openpress
 
-[![Stars](https://img.shields.io/github/stars/foisalislambd/openpress?style=flat-square&color=yellow)](https://github.com/foisalislambd/openpress/stargazers) [![Forks](https://img.shields.io/github/forks/foisalislambd/openpress?style=flat-square&color=blue)](https://github.com/foisalislambd/openpress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/foisalislambd/openpress?style=flat-square&color=yellow)](https://github.com/foisalislambd/openpress/stargazers) [![Forks](https://img.shields.io/github/forks/foisalislambd/openpress?style=flat-square&color=blue)](https://github.com/foisalislambd/openpress/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > OpenPress — a modern, open-source CMS (WordPress-style) built with NestJS, Next.js, and PostgreSQL.  Posts, pages, media, themes, plugins, roles, and an /admin panel — self-hosted, MIT-licensed, TypeScript monorepo
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -46,7 +46,7 @@ foisalislambd/openpress：foisalislambd/openpress may be useful when its README 
 - ship API services faster
 - reuse backend infrastructure
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,25 +55,25 @@ foisalislambd/openpress：foisalislambd/openpress may be useful when its README 
 - 1 GitHub stars
 - updated 2026-11-06
 - primary language: TypeScript
-- 2 topics
+- 9 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 36/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 50/100 |
+| production | 59/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 300/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 25/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

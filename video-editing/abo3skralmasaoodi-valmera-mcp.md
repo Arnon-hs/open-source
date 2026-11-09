@@ -55,7 +55,7 @@ ABO3SKRALMASAOODI/valmera-mcp：ABO3SKRALMASAOODI/valmera-mcp helps turn media e
 
 - updated 2026-11-07
 - primary language: Python
-- 20 topics
+- 26 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

@@ -1,6 +1,6 @@
 # backnotprop/pstack
 
-[![Stars](https://img.shields.io/github/stars/backnotprop/pstack?style=flat-square&color=yellow)](https://github.com/backnotprop/pstack/stargazers) [![Forks](https://img.shields.io/github/forks/backnotprop/pstack?style=flat-square&color=blue)](https://github.com/backnotprop/pstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backnotprop/pstack?style=flat-square&color=yellow)](https://github.com/backnotprop/pstack/stargazers) [![Forks](https://img.shields.io/github/forks/backnotprop/pstack?style=flat-square&color=blue)](https://github.com/backnotprop/pstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
 
 > Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.6k |
 | 🍴 **Forks** | 252 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ backnotprop/pstack：backnotprop/pstack helps turn isolated prompts and tools in
 - add tool-use pipelines
 - standardize agent memory
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,7 +57,7 @@ backnotprop/pstack：backnotprop/pstack helps turn isolated prompts and tools in
 - 252 forks
 - updated 2026-11-04
 - primary language: TypeScript
-- 12 topics
+- 18 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,11 +65,11 @@ backnotprop/pstack：backnotprop/pstack helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
+| usefulness | 74/100 |
 | quality | 78/100 |
-| integration | 62/100 |
-| production | 70/100 |
-| outlook | 74/100 |
+| integration | 78/100 |
+| production | 72/100 |
+| outlook | 78/100 |
 | adoption | 71/100 |
 | categoryMatchCount | 300/100 |
 | stars | 76/100 |

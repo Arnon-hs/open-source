@@ -1,6 +1,6 @@
 # gmpetrov/agent-screenplay
 
-[![Stars](https://img.shields.io/github/stars/gmpetrov/agent-screenplay?style=flat-square&color=yellow)](https://github.com/gmpetrov/agent-screenplay/stargazers) [![Forks](https://img.shields.io/github/forks/gmpetrov/agent-screenplay?style=flat-square&color=blue)](https://github.com/gmpetrov/agent-screenplay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gmpetrov/agent-screenplay?style=flat-square&color=yellow)](https://github.com/gmpetrov/agent-screenplay/stargazers) [![Forks](https://img.shields.io/github/forks/gmpetrov/agent-screenplay?style=flat-square&color=blue)](https://github.com/gmpetrov/agent-screenplay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful screen recordings, made by your favorite AI agent.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ gmpetrov/agent-screenplay：gmpetrov/agent-screenplay helps remove repetitive ma
 - 3 GitHub stars
 - updated 2026-11-03
 - primary language: TypeScript
-- 9 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -66,8 +66,8 @@ gmpetrov/agent-screenplay：gmpetrov/agent-screenplay helps remove repetitive ma
 |---|---:|
 | usefulness | 74/100 |
 | quality | 50/100 |
-| integration | 62/100 |
-| production | 60/100 |
+| integration | 78/100 |
+| production | 62/100 |
 | outlook | 62/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 100/100 |

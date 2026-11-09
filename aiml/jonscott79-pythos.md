@@ -55,7 +55,7 @@ JonScott79/Pythos：JonScott79/Pythos helps add AI capability without starting f
 
 - updated 2026-11-06
 - primary language: JavaScript
-- 9 topics
+- 13 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

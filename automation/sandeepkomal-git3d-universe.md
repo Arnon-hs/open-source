@@ -56,7 +56,7 @@ SandeepKomal/Git3D-Universe：SandeepKomal/Git3D-Universe helps remove repetitiv
 - 3 GitHub stars
 - updated 2026-10-16
 - primary language: JavaScript
-- 15 topics
+- 18 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 

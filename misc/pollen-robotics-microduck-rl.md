@@ -1,6 +1,6 @@
 # pollen-robotics/microduck_rl
 
-[![Stars](https://img.shields.io/github/stars/pollen-robotics/microduck_rl?style=flat-square&color=yellow)](https://github.com/pollen-robotics/microduck_rl/stargazers) [![Forks](https://img.shields.io/github/forks/pollen-robotics/microduck_rl?style=flat-square&color=blue)](https://github.com/pollen-robotics/microduck_rl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pollen-robotics/microduck_rl?style=flat-square&color=yellow)](https://github.com/pollen-robotics/microduck_rl/stargazers) [![Forks](https://img.shields.io/github/forks/pollen-robotics/microduck_rl?style=flat-square&color=blue)](https://github.com/pollen-robotics/microduck_rl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > RL training environments for Microduck (mjlab)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.8k |
 | 🍴 **Forks** | 688 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -45,7 +45,7 @@ pollen-robotics/microduck_rl：pollen-robotics/microduck_rl may be useful when i
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,6 +55,7 @@ pollen-robotics/microduck_rl：pollen-robotics/microduck_rl may be useful when i
 - 688 forks
 - updated 2026-11-09
 - primary language: Python
+- 5 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -63,16 +64,16 @@ pollen-robotics/microduck_rl：pollen-robotics/microduck_rl may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 68/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 69/100 |
-| outlook | 69/100 |
+| production | 73/100 |
+| outlook | 75/100 |
 | adoption | 73/100 |
 | categoryMatchCount | 0/100 |
 | stars | 74/100 |
 | forks | 71/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -56,7 +56,7 @@ sadrmanesh/commerce-agent-skills：sadrmanesh/commerce-agent-skills helps add AI
 - 1 GitHub stars
 - updated 2026-11-04
 - primary language: JavaScript
-- 10 topics
+- 14 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

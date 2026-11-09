@@ -56,7 +56,7 @@ mralexivy/AutoMode：mralexivy/AutoMode helps turn isolated prompts and tools in
 - 8 GitHub stars
 - updated 2026-11-06
 - primary language: TypeScript
-- 16 topics
+- 22 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

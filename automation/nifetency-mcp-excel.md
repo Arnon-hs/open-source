@@ -1,6 +1,6 @@
 # nifetency/mcp-excel
 
-[![Stars](https://img.shields.io/github/stars/nifetency/mcp-excel?style=flat-square&color=yellow)](https://github.com/nifetency/mcp-excel/stargazers) [![Forks](https://img.shields.io/github/forks/nifetency/mcp-excel?style=flat-square&color=blue)](https://github.com/nifetency/mcp-excel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nifetency/mcp-excel?style=flat-square&color=yellow)](https://github.com/nifetency/mcp-excel/stargazers) [![Forks](https://img.shields.io/github/forks/nifetency/mcp-excel?style=flat-square&color=blue)](https://github.com/nifetency/mcp-excel/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
 
 > Turn any Google Sheet into a CRM (leads, organizations, contacts, activities) from MCP clients. Stateless FastMCP server - HTTP or stdio.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 70/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ nifetency/mcp-excel：nifetency/mcp-excel helps remove repetitive manual operati
 
 - updated 2026-11-08
 - primary language: Python
-- 6 topics
+- 8 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -63,17 +63,17 @@ nifetency/mcp-excel：nifetency/mcp-excel helps remove repetitive manual operati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 47/100 |
+| usefulness | 90/100 |
+| quality | 51/100 |
 | integration | 94/100 |
-| production | 68/100 |
-| outlook | 64/100 |
+| production | 70/100 |
+| outlook | 70/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 75/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

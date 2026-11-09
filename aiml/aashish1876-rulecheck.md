@@ -1,6 +1,6 @@
 # aashish1876/rulecheck
 
-[![Stars](https://img.shields.io/github/stars/aashish1876/rulecheck?style=flat-square&color=yellow)](https://github.com/aashish1876/rulecheck/stargazers) [![Forks](https://img.shields.io/github/forks/aashish1876/rulecheck?style=flat-square&color=blue)](https://github.com/aashish1876/rulecheck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aashish1876/rulecheck?style=flat-square&color=yellow)](https://github.com/aashish1876/rulecheck/stargazers) [![Forks](https://img.shields.io/github/forks/aashish1876/rulecheck?style=flat-square&color=blue)](https://github.com/aashish1876/rulecheck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Lint your AGENTS.md, CLAUDE.md, and .cursorrules files for stale paths, broken commands, duplicate rules, and conflicting instructions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ aashish1876/rulecheck：aashish1876/rulecheck helps add AI capability without st
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -56,6 +56,7 @@ aashish1876/rulecheck：aashish1876/rulecheck helps add AI capability without st
 - 1 GitHub stars
 - updated 2026-11-04
 - primary language: TypeScript
+- 5 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,16 +65,16 @@ aashish1876/rulecheck：aashish1876/rulecheck helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 33/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 52/100 |
-| outlook | 48/100 |
+| production | 55/100 |
+| outlook | 54/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

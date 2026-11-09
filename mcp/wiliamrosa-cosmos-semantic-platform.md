@@ -56,7 +56,7 @@ WiliamRosa/cosmos-semantic-platform：WiliamRosa/cosmos-semantic-platform helps 
 - 3 forks
 - updated 2026-11-05
 - primary language: Python
-- 10 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

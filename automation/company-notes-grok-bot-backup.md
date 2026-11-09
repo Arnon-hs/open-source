@@ -1,6 +1,6 @@
 # company-notes/grok-bot-backup
 
-[![Stars](https://img.shields.io/github/stars/company-notes/grok-bot-backup?style=flat-square&color=yellow)](https://github.com/company-notes/grok-bot-backup/stargazers) [![Forks](https://img.shields.io/github/forks/company-notes/grok-bot-backup?style=flat-square&color=blue)](https://github.com/company-notes/grok-bot-backup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/company-notes/grok-bot-backup?style=flat-square&color=yellow)](https://github.com/company-notes/grok-bot-backup/stargazers) [![Forks](https://img.shields.io/github/forks/company-notes/grok-bot-backup?style=flat-square&color=blue)](https://github.com/company-notes/grok-bot-backup/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Unofficial Grok Bot backup and export tools. Preserve conversations, agent data, memories and workspace files in portable formats.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -57,6 +57,7 @@ company-notes/grok-bot-backup：company-notes/grok-bot-backup helps remove repet
 - 1 forks
 - updated 2026-11-01
 - primary language: Python
+- 3 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -65,16 +66,16 @@ company-notes/grok-bot-backup：company-notes/grok-bot-backup helps remove repet
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 37/100 |
+| quality | 43/100 |
 | integration | 46/100 |
-| production | 53/100 |
-| outlook | 54/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 15/100 |
 | categoryMatchCount | 100/100 |
 | stars | 18/100 |
 | forks | 8/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 38/100 |
 | sourceTrust | 70/100 |
 
 ---

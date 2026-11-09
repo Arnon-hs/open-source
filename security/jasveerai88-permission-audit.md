@@ -1,6 +1,6 @@
 # jasveerai88/permission-audit
 
-[![Stars](https://img.shields.io/github/stars/jasveerai88/permission-audit?style=flat-square&color=yellow)](https://github.com/jasveerai88/permission-audit/stargazers) [![Forks](https://img.shields.io/github/forks/jasveerai88/permission-audit?style=flat-square&color=blue)](https://github.com/jasveerai88/permission-audit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jasveerai88/permission-audit?style=flat-square&color=yellow)](https://github.com/jasveerai88/permission-audit/stargazers) [![Forks](https://img.shields.io/github/forks/jasveerai88/permission-audit?style=flat-square&color=blue)](https://github.com/jasveerai88/permission-audit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Audit a Claude Code permission allowlist chain — wildcard grants, dangerous modes committed to shared settings, and rules that can never fire because a wider rule wins. Local only, pure Python.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ jasveerai88/permission-audit：jasveerai88/permission-audit helps catch security
 
 - updated 2026-11-04
 - primary language: Python
-- 8 topics
+- 13 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -63,11 +63,11 @@ jasveerai88/permission-audit：jasveerai88/permission-audit helps catch security
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
+| usefulness | 100/100 |
 | quality | 45/100 |
 | integration | 62/100 |
 | production | 58/100 |
-| outlook | 63/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |

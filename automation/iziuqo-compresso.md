@@ -56,7 +56,7 @@ iziuqo/compresso：iziuqo/compresso helps remove repetitive manual operations fr
 - 8 GitHub stars
 - updated 2026-11-08
 - primary language: JavaScript
-- 20 topics
+- 21 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

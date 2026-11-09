@@ -55,7 +55,7 @@ rahulagarwal18/unmuzzled：rahulagarwal18/unmuzzled helps add AI capability with
 
 - updated 2026-11-06
 - primary language: TypeScript
-- 9 topics
+- 15 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

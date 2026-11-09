@@ -57,7 +57,7 @@ nsijwali/yamlreel：nsijwali/yamlreel helps remove repetitive manual operations 
 - 2 forks
 - updated 2026-11-08
 - primary language: Python
-- 15 topics
+- 16 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

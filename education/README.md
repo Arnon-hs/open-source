@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [firstcontributions/first-contributions](./firstcontributions-first-contributions.md) | ⭐ 54.6k | — | 69/100 |
+| 1 | [firstcontributions/first-contributions](./firstcontributions-first-contributions.md) | ⭐ 56.8k | — | 69/100 |
 | 2 | [mytechnotalent/Hacking-Windows](./mytechnotalent-hacking-windows.md) | ⭐ 1.6k | C | 65/100 |
 | 3 | [huangsam/ultimate-python](./huangsam-ultimate-python.md) | ⭐ 5.9k | Python | 64/100 |
 | 4 | [frappe/lms](./frappe-lms.md) | ⭐ 3.1k | Vue | 63/100 |
@@ -39,12 +39,12 @@
 | 29 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 321 | Mojo | 44/100 |
 | 30 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 156 | Rust | 44/100 |
 | 31 | [Jay-Naik2526/or-studio](./jay-naik2526-or-studio.md) | ⭐ — | TypeScript | 44/100 |
-| 32 | [yakshjethva/jvm-inside-out](./yakshjethva-jvm-inside-out.md) | ⭐ 2 | TypeScript | 41/100 |
-| 33 | [mukul9116/fieldclass-ai](./mukul9116-fieldclass-ai.md) | ⭐ 1 | Python | 37/100 |
-| 34 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 33/100 |
-| 35 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 31/100 |
-| 36 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 31/100 |
-| 37 | [sea-deep/gitquest](./sea-deep-gitquest.md) | ⭐ — | — | 24/100 |
+| 32 | [yakshjethva/jvm-inside-out](./yakshjethva-jvm-inside-out.md) | ⭐ 2 | TypeScript | 44/100 |
+| 33 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 40/100 |
+| 34 | [mukul9116/fieldclass-ai](./mukul9116-fieldclass-ai.md) | ⭐ 1 | Python | 39/100 |
+| 35 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 34/100 |
+| 36 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 33/100 |
+| 37 | [sea-deep/gitquest](./sea-deep-gitquest.md) | ⭐ — | — | 27/100 |
 
 ---
 

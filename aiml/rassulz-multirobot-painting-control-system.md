@@ -57,7 +57,7 @@ rassulz/multirobot_painting_control_system：rassulz/multirobot_painting_control
 - 2 forks
 - updated 2026-10-27
 - primary language: MATLAB
-- 20 topics
+- 24 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

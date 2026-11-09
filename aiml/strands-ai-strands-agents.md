@@ -1,6 +1,6 @@
 # strands-ai/strands-agents
 
-[![Stars](https://img.shields.io/github/stars/strands-ai/strands-agents?style=flat-square&color=yellow)](https://github.com/strands-ai/strands-agents/stargazers) [![Forks](https://img.shields.io/github/forks/strands-ai/strands-agents?style=flat-square&color=blue)](https://github.com/strands-ai/strands-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-ai/strands-agents?style=flat-square&color=yellow)](https://github.com/strands-ai/strands-agents/stargazers) [![Forks](https://img.shields.io/github/forks/strands-ai/strands-agents?style=flat-square&color=blue)](https://github.com/strands-ai/strands-agents/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Taken Over by Shad0w For Responsible Disclosure
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 31/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2025-12-25 |
 | 🔍 **Source** | story-link |
 
@@ -54,6 +54,7 @@ strands-ai/strands-agents：strands-ai/strands-agents helps add AI capability wi
 **Quality signals**
 
 - updated 2025-12-25
+- 7 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,16 +63,16 @@ strands-ai/strands-agents：strands-ai/strands-agents helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 16/100 |
-| integration | 30/100 |
-| production | 29/100 |
-| outlook | 26/100 |
+| quality | 29/100 |
+| integration | 46/100 |
+| production | 36/100 |
+| outlook | 34/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 88/100 |
 | sourceTrust | 70/100 |
 
 ---

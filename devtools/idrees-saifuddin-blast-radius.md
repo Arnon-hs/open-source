@@ -55,7 +55,7 @@ Idrees-Saifuddin/blast-radius：Idrees-Saifuddin/blast-radius helps engineers sa
 
 - updated 2026-11-06
 - primary language: PHP
-- 10 topics
+- 11 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

@@ -55,7 +55,7 @@ Kuloka/openconstructor：Kuloka/openconstructor helps add AI capability without 
 
 - updated 2026-11-06
 - primary language: JavaScript
-- 8 topics
+- 13 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

@@ -1,6 +1,6 @@
 # axllent/mailpit
 
-[![Stars](https://img.shields.io/github/stars/axllent/mailpit?style=flat-square&color=yellow)](https://github.com/axllent/mailpit/stargazers) [![Forks](https://img.shields.io/github/forks/axllent/mailpit?style=flat-square&color=blue)](https://github.com/axllent/mailpit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-77%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/axllent/mailpit?style=flat-square&color=yellow)](https://github.com/axllent/mailpit/stargazers) [![Forks](https://img.shields.io/github/forks/axllent/mailpit?style=flat-square&color=blue)](https://github.com/axllent/mailpit/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
 
 > An email and SMTP testing tool with API for developers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.9k |
 | 🍴 **Forks** | 375 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 77/100 |
+| 📈 **Score** | 85/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -57,7 +57,7 @@ axllent/mailpit：axllent/mailpit helps make deployment and operations more repe
 - 375 forks
 - updated 2026-11-09
 - primary language: Go
-- 8 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,11 +65,11 @@ axllent/mailpit：axllent/mailpit helps make deployment and operations more repe
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
+| usefulness | 90/100 |
 | quality | 86/100 |
-| integration | 62/100 |
-| production | 78/100 |
-| outlook | 87/100 |
+| integration | 78/100 |
+| production | 80/100 |
+| outlook | 90/100 |
 | adoption | 80/100 |
 | categoryMatchCount | 200/100 |
 | stars | 86/100 |

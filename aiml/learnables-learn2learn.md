@@ -57,7 +57,7 @@ learnables/learn2learn：learnables/learn2learn helps add AI capability without 
 - 356 forks
 - updated 2026-11-02
 - primary language: Python
-- 11 topics
+- 16 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

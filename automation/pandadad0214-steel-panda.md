@@ -1,6 +1,6 @@
 # pandadad0214/Steel_Panda
 
-[![Stars](https://img.shields.io/github/stars/pandadad0214/Steel_Panda?style=flat-square&color=yellow)](https://github.com/pandadad0214/Steel_Panda/stargazers) [![Forks](https://img.shields.io/github/forks/pandadad0214/Steel_Panda?style=flat-square&color=blue)](https://github.com/pandadad0214/Steel_Panda/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pandadad0214/Steel_Panda?style=flat-square&color=yellow)](https://github.com/pandadad0214/Steel_Panda/stargazers) [![Forks](https://img.shields.io/github/forks/pandadad0214/Steel_Panda?style=flat-square&color=blue)](https://github.com/pandadad0214/Steel_Panda/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first task executor for system operations, automation, and command workflows.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ pandadad0214/Steel_Panda：pandadad0214/Steel_Panda helps remove repetitive manu
 - 1 GitHub stars
 - updated 2026-11-06
 - primary language: Shell
-- 10 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -64,11 +64,11 @@ pandadad0214/Steel_Panda：pandadad0214/Steel_Panda helps remove repetitive manu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
+| usefulness | 100/100 |
 | quality | 48/100 |
 | integration | 46/100 |
 | production | 57/100 |
-| outlook | 64/100 |
+| outlook | 66/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |

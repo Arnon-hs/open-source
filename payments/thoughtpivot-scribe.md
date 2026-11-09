@@ -1,6 +1,6 @@
 # thoughtpivot/scribe
 
-[![Stars](https://img.shields.io/github/stars/thoughtpivot/scribe?style=flat-square&color=yellow)](https://github.com/thoughtpivot/scribe/stargazers) [![Forks](https://img.shields.io/github/forks/thoughtpivot/scribe?style=flat-square&color=blue)](https://github.com/thoughtpivot/scribe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thoughtpivot/scribe?style=flat-square&color=yellow)](https://github.com/thoughtpivot/scribe/stargazers) [![Forks](https://img.shields.io/github/forks/thoughtpivot/scribe?style=flat-square&color=blue)](https://github.com/thoughtpivot/scribe/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Scribe is a data modeling service built around a component-based architecture paradigm, designed to bring structure, reusability, and modularity to backend data systems in the same way that modern frontend frameworks like React or Vue do for UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ thoughtpivot/scribe：thoughtpivot/scribe helps integrate monetization, billing,
 - evaluate PSP flows
 - automate payment operations
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -56,24 +56,25 @@ thoughtpivot/scribe：thoughtpivot/scribe helps integrate monetization, billing,
 - 4 GitHub stars
 - updated 2026-11-05
 - primary language: TypeScript
+- 6 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 35/100 |
-| integration | 46/100 |
-| production | 53/100 |
-| outlook | 49/100 |
+| usefulness | 74/100 |
+| quality | 47/100 |
+| integration | 62/100 |
+| production | 59/100 |
+| outlook | 60/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 400/100 |
 | stars | 15/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

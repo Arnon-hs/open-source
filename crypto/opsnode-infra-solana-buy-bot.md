@@ -55,7 +55,7 @@ opsnode-infra/solana-buy-bot：opsnode-infra/solana-buy-bot helps prototype or i
 
 - updated 2026-10-31
 - primary language: Python
-- 17 topics
+- 24 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

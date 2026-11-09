@@ -1,6 +1,6 @@
 # MoradMoqbel/apipatch
 
-[![Stars](https://img.shields.io/github/stars/MoradMoqbel/apipatch?style=flat-square&color=yellow)](https://github.com/MoradMoqbel/apipatch/stargazers) [![Forks](https://img.shields.io/github/forks/MoradMoqbel/apipatch?style=flat-square&color=blue)](https://github.com/MoradMoqbel/apipatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MoradMoqbel/apipatch?style=flat-square&color=yellow)](https://github.com/MoradMoqbel/apipatch/stargazers) [![Forks](https://img.shields.io/github/forks/MoradMoqbel/apipatch?style=flat-square&color=blue)](https://github.com/MoradMoqbel/apipatch/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ MoradMoqbel/apipatch：MoradMoqbel/apipatch helps add AI capability without star
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -55,6 +55,7 @@ MoradMoqbel/apipatch：MoradMoqbel/apipatch helps add AI capability without star
 
 - updated 2026-09-08
 - primary language: Python
+- 6 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ MoradMoqbel/apipatch：MoradMoqbel/apipatch helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 21/100 |
-| integration | 50/100 |
-| production | 38/100 |
-| outlook | 33/100 |
+| quality | 32/100 |
+| integration | 66/100 |
+| production | 44/100 |
+| outlook | 40/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

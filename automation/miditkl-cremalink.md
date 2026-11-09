@@ -57,7 +57,7 @@ miditkl/cremalink：miditkl/cremalink helps remove repetitive manual operations 
 - 7 forks
 - updated 2026-11-09
 - primary language: Python
-- 12 topics
+- 15 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

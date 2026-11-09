@@ -1,6 +1,6 @@
 # agentprojectcontext/apx
 
-[![Stars](https://img.shields.io/github/stars/agentprojectcontext/apx?style=flat-square&color=yellow)](https://github.com/agentprojectcontext/apx/stargazers) [![Forks](https://img.shields.io/github/forks/agentprojectcontext/apx?style=flat-square&color=blue)](https://github.com/agentprojectcontext/apx/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/agentprojectcontext/apx?style=flat-square&color=yellow)](https://github.com/agentprojectcontext/apx/stargazers) [![Forks](https://img.shields.io/github/forks/agentprojectcontext/apx?style=flat-square&color=blue)](https://github.com/agentprojectcontext/apx/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-09-10 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ agentprojectcontext/apx：agentprojectcontext/apx helps remove repetitive manual
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -56,6 +56,7 @@ agentprojectcontext/apx：agentprojectcontext/apx helps remove repetitive manual
 - 4 GitHub stars
 - updated 2026-09-10
 - primary language: JavaScript
+- 5 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,17 +64,17 @@ agentprojectcontext/apx：agentprojectcontext/apx helps remove repetitive manual
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 25/100 |
+| usefulness | 74/100 |
+| quality | 35/100 |
 | integration | 18/100 |
-| production | 35/100 |
-| outlook | 35/100 |
+| production | 39/100 |
+| outlook | 45/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 100/100 |
 | stars | 15/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

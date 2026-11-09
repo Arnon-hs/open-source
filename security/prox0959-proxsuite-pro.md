@@ -57,7 +57,7 @@ prox0959/ProxSuite-PRO：prox0959/ProxSuite-PRO helps catch security and privacy
 - 2 forks
 - updated 2026-10-24
 - primary language: C#
-- 20 topics
+- 24 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

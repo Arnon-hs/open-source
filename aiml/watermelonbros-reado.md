@@ -1,6 +1,6 @@
 # WatermelonBros/reado
 
-[![Stars](https://img.shields.io/github/stars/WatermelonBros/reado?style=flat-square&color=yellow)](https://github.com/WatermelonBros/reado/stargazers) [![Forks](https://img.shields.io/github/forks/WatermelonBros/reado?style=flat-square&color=blue)](https://github.com/WatermelonBros/reado/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WatermelonBros/reado?style=flat-square&color=yellow)](https://github.com/WatermelonBros/reado/stargazers) [![Forks](https://img.shields.io/github/forks/WatermelonBros/reado?style=flat-square&color=blue)](https://github.com/WatermelonBros/reado/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 23 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-09-07 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ WatermelonBros/reado：WatermelonBros/reado helps add AI capability without star
 - 23 GitHub stars
 - updated 2026-09-07
 - primary language: TypeScript
-- 15 topics
+- 19 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
@@ -64,11 +64,11 @@ WatermelonBros/reado：WatermelonBros/reado helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
+| usefulness | 74/100 |
 | quality | 45/100 |
 | integration | 34/100 |
 | production | 45/100 |
-| outlook | 48/100 |
+| outlook | 51/100 |
 | adoption | 21/100 |
 | categoryMatchCount | 100/100 |
 | stars | 29/100 |

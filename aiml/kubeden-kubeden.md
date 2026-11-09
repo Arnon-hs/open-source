@@ -1,6 +1,6 @@
 # kubeden/kubeden
 
-[![Stars](https://img.shields.io/github/stars/kubeden/kubeden?style=flat-square&color=yellow)](https://github.com/kubeden/kubeden/stargazers) [![Forks](https://img.shields.io/github/forks/kubeden/kubeden?style=flat-square&color=blue)](https://github.com/kubeden/kubeden/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubeden/kubeden?style=flat-square&color=yellow)](https://github.com/kubeden/kubeden/stargazers) [![Forks](https://img.shields.io/github/forks/kubeden/kubeden?style=flat-square&color=blue)](https://github.com/kubeden/kubeden/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-17 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI/ML · Database
 
 ### English
 
-kubeden/kubeden: kubeden/kubeden helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+kubeden/kubeden: kubeden/kubeden helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-kubeden/kubeden: open-source проект в категориях AI/ML, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+kubeden/kubeden: open-source проект в категориях AI/ML, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-kubeden/kubeden：kubeden/kubeden helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+kubeden/kubeden：kubeden/kubeden helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,9 +47,9 @@ kubeden/kubeden：kubeden/kubeden helps add AI capability without starting from 
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -57,24 +57,25 @@ kubeden/kubeden：kubeden/kubeden helps add AI capability without starting from 
 - 3 forks
 - updated 2026-10-17
 - primary language: JavaScript
+- 7 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 34/100 |
-| integration | 18/100 |
-| production | 43/100 |
-| outlook | 41/100 |
+| usefulness | 74/100 |
+| quality | 47/100 |
+| integration | 34/100 |
+| production | 50/100 |
+| outlook | 56/100 |
 | adoption | 19/100 |
 | categoryMatchCount | 200/100 |
 | stars | 20/100 |
 | forks | 15/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 88/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -1,6 +1,6 @@
 # Spacexcx/pr-check
 
-[![Stars](https://img.shields.io/github/stars/Spacexcx/pr-check?style=flat-square&color=yellow)](https://github.com/Spacexcx/pr-check/stargazers) [![Forks](https://img.shields.io/github/forks/Spacexcx/pr-check?style=flat-square&color=blue)](https://github.com/Spacexcx/pr-check/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Spacexcx/pr-check?style=flat-square&color=yellow)](https://github.com/Spacexcx/pr-check/stargazers) [![Forks](https://img.shields.io/github/forks/Spacexcx/pr-check?style=flat-square&color=blue)](https://github.com/Spacexcx/pr-check/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Local, private pre-push AI code review — no packaging needed
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-10-29 |
 | 🔍 **Source** | story-link |
 
@@ -57,7 +57,7 @@ Spacexcx/pr-check：Spacexcx/pr-check helps add AI capability without starting f
 - 1 forks
 - updated 2026-10-29
 - primary language: Python
-- 20 topics
+- 27 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -67,8 +67,8 @@ Spacexcx/pr-check：Spacexcx/pr-check helps add AI capability without starting f
 |---|---:|
 | usefulness | 100/100 |
 | quality | 51/100 |
-| integration | 78/100 |
-| production | 63/100 |
+| integration | 94/100 |
+| production | 65/100 |
 | outlook | 68/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 100/100 |

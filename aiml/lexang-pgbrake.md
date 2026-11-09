@@ -1,6 +1,6 @@
 # lexang/pgbrake
 
-[![Stars](https://img.shields.io/github/stars/lexang/pgbrake?style=flat-square&color=yellow)](https://github.com/lexang/pgbrake/stargazers) [![Forks](https://img.shields.io/github/forks/lexang/pgbrake?style=flat-square&color=blue)](https://github.com/lexang/pgbrake/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lexang/pgbrake?style=flat-square&color=yellow)](https://github.com/lexang/pgbrake/stargazers) [![Forks](https://img.shields.io/github/forks/lexang/pgbrake?style=flat-square&color=blue)](https://github.com/lexang/pgbrake/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-10-28 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI/ML · Database · Automation
 
 ### English
 
-lexang/pgbrake: lexang/pgbrake helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+lexang/pgbrake: lexang/pgbrake helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-lexang/pgbrake: open-source проект в категориях AI/ML, Database, Automation. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+lexang/pgbrake: open-source проект в категориях AI/ML, Database, Automation. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-lexang/pgbrake：lexang/pgbrake helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+lexang/pgbrake：lexang/pgbrake helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -49,12 +49,13 @@ lexang/pgbrake：lexang/pgbrake helps add AI capability without starting from a 
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
 - updated 2026-10-28
 - primary language: Python
+- 2 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ lexang/pgbrake：lexang/pgbrake helps add AI capability without starting from a 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 31/100 |
+| quality | 34/100 |
 | integration | 34/100 |
-| production | 49/100 |
-| outlook | 43/100 |
+| production | 50/100 |
+| outlook | 46/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 25/100 |
 | sourceTrust | 70/100 |
 
 ---

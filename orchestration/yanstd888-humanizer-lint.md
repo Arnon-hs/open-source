@@ -57,7 +57,7 @@ yanstd888/humanizer-lint：yanstd888/humanizer-lint helps turn isolated prompts 
 - 8 forks
 - updated 2026-11-05
 - primary language: JavaScript
-- 20 topics
+- 25 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

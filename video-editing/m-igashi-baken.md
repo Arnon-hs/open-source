@@ -57,7 +57,7 @@ M-Igashi/baken：M-Igashi/baken helps turn media editing, captions, rendering, a
 - 7 forks
 - updated 2026-11-07
 - primary language: Rust
-- 12 topics
+- 15 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

@@ -1,6 +1,6 @@
 # payload-tools/observatory
 
-[![Stars](https://img.shields.io/github/stars/payload-tools/observatory?style=flat-square&color=yellow)](https://github.com/payload-tools/observatory/stargazers) [![Forks](https://img.shields.io/github/forks/payload-tools/observatory?style=flat-square&color=blue)](https://github.com/payload-tools/observatory/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/payload-tools/observatory?style=flat-square&color=yellow)](https://github.com/payload-tools/observatory/stargazers) [![Forks](https://img.shields.io/github/forks/payload-tools/observatory?style=flat-square&color=blue)](https://github.com/payload-tools/observatory/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 28/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ payload-tools/observatory：payload-tools/observatory helps integrate monetizati
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 6 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,16 +62,16 @@ payload-tools/observatory：payload-tools/observatory helps integrate monetizati
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 16/100 |
+| quality | 27/100 |
 | integration | 18/100 |
-| production | 27/100 |
-| outlook | 26/100 |
+| production | 31/100 |
+| outlook | 33/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

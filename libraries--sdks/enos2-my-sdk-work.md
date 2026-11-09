@@ -1,6 +1,6 @@
 # Enos2/my-sdk-work
 
-[![Stars](https://img.shields.io/github/stars/Enos2/my-sdk-work?style=flat-square&color=yellow)](https://github.com/Enos2/my-sdk-work/stargazers) [![Forks](https://img.shields.io/github/forks/Enos2/my-sdk-work?style=flat-square&color=blue)](https://github.com/Enos2/my-sdk-work/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Enos2/my-sdk-work?style=flat-square&color=yellow)](https://github.com/Enos2/my-sdk-work/stargazers) [![Forks](https://img.shields.io/github/forks/Enos2/my-sdk-work?style=flat-square&color=blue)](https://github.com/Enos2/my-sdk-work/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -45,7 +45,7 @@ Enos2/my-sdk-work：Enos2/my-sdk-work may be useful when its README and activity
 
 - Not enough metadata yet.
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -54,6 +54,7 @@ Enos2/my-sdk-work：Enos2/my-sdk-work may be useful when its README and activity
 - 1 GitHub stars
 - updated 2026-10-30
 - primary language: TypeScript
+- 6 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -61,17 +62,17 @@ Enos2/my-sdk-work：Enos2/my-sdk-work may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 33/100 |
-| integration | 50/100 |
-| production | 52/100 |
-| outlook | 48/100 |
+| usefulness | 74/100 |
+| quality | 44/100 |
+| integration | 66/100 |
+| production | 58/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

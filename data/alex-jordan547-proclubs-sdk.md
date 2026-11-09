@@ -57,7 +57,7 @@ alex-jordan547/proclubs-sdk：alex-jordan547/proclubs-sdk helps convert raw data
 - 2 forks
 - updated 2026-11-04
 - primary language: TypeScript
-- 20 topics
+- 24 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

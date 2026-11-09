@@ -55,7 +55,7 @@ RobinaMirbahar/railpulse-gemma-cloudrun：RobinaMirbahar/railpulse-gemma-cloudru
 
 - updated 2026-11-05
 - primary language: Python
-- 8 topics
+- 14 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

@@ -1,6 +1,6 @@
 # XTLS/libXray
 
-[![Stars](https://img.shields.io/github/stars/XTLS/libXray?style=flat-square&color=yellow)](https://github.com/XTLS/libXray/stargazers) [![Forks](https://img.shields.io/github/forks/XTLS/libXray?style=flat-square&color=blue)](https://github.com/XTLS/libXray/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XTLS/libXray?style=flat-square&color=yellow)](https://github.com/XTLS/libXray/stargazers) [![Forks](https://img.shields.io/github/forks/XTLS/libXray?style=flat-square&color=blue)](https://github.com/XTLS/libXray/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Xray-core wrapper, support all platforms.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 235 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -45,7 +45,7 @@ XTLS/libXray：XTLS/libXray may be useful when its README and activity match a c
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,6 +55,7 @@ XTLS/libXray：XTLS/libXray may be useful when its README and activity match a c
 - 175 forks
 - updated 2026-11-09
 - primary language: Go
+- 9 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -63,16 +64,16 @@ XTLS/libXray：XTLS/libXray may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 59/100 |
+| quality | 74/100 |
 | integration | 46/100 |
-| production | 66/100 |
-| outlook | 63/100 |
+| production | 71/100 |
+| outlook | 73/100 |
 | adoption | 52/100 |
 | categoryMatchCount | 200/100 |
 | stars | 50/100 |
 | forks | 56/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

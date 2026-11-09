@@ -1,6 +1,6 @@
 # MASHHOOD2019/py-foundry
 
-[![Stars](https://img.shields.io/github/stars/MASHHOOD2019/py-foundry?style=flat-square&color=yellow)](https://github.com/MASHHOOD2019/py-foundry/stargazers) [![Forks](https://img.shields.io/github/forks/MASHHOOD2019/py-foundry?style=flat-square&color=blue)](https://github.com/MASHHOOD2019/py-foundry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MASHHOOD2019/py-foundry?style=flat-square&color=yellow)](https://github.com/MASHHOOD2019/py-foundry/stargazers) [![Forks](https://img.shields.io/github/forks/MASHHOOD2019/py-foundry?style=flat-square&color=blue)](https://github.com/MASHHOOD2019/py-foundry/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > One small Python program every day. No filler commits.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -45,7 +45,7 @@ MASHHOOD2019/py-foundry：MASHHOOD2019/py-foundry may be useful when its README 
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -53,24 +53,25 @@ MASHHOOD2019/py-foundry：MASHHOOD2019/py-foundry may be useful when its README 
 
 - updated 2026-11-08
 - primary language: Python
+- 6 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 50/100 |
+| production | 61/100 |
+| outlook | 58/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

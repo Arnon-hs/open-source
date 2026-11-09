@@ -55,7 +55,7 @@ Leonel59/LLM-SURGEON：Leonel59/LLM-SURGEON helps add AI capability without star
 
 - updated 2026-11-07
 - primary language: JavaScript
-- 15 topics
+- 18 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

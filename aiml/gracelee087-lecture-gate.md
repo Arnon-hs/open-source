@@ -55,7 +55,7 @@ gracelee087/lecture-gate：gracelee087/lecture-gate helps add AI capability with
 
 - updated 2026-10-22
 - primary language: TypeScript
-- 7 topics
+- 10 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,16 +64,16 @@ gracelee087/lecture-gate：gracelee087/lecture-gate helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 39/100 |
+| quality | 41/100 |
 | integration | 62/100 |
-| production | 51/100 |
-| outlook | 45/100 |
+| production | 52/100 |
+| outlook | 46/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

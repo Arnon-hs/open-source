@@ -1,6 +1,6 @@
 # rordenlab/dcm2niix
 
-[![Stars](https://img.shields.io/github/stars/rordenlab/dcm2niix?style=flat-square&color=yellow)](https://github.com/rordenlab/dcm2niix/stargazers) [![Forks](https://img.shields.io/github/forks/rordenlab/dcm2niix?style=flat-square&color=blue)](https://github.com/rordenlab/dcm2niix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rordenlab/dcm2niix?style=flat-square&color=yellow)](https://github.com/rordenlab/dcm2niix/stargazers) [![Forks](https://img.shields.io/github/forks/rordenlab/dcm2niix?style=flat-square&color=blue)](https://github.com/rordenlab/dcm2niix/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > dcm2nii DICOM to NIfTI converter: compiled versions available from NITRC
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 273 |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -57,7 +57,7 @@ rordenlab/dcm2niix：rordenlab/dcm2niix helps turn isolated prompts and tools in
 - 273 forks
 - updated 2026-10-30
 - primary language: C++
-- 18 topics
+- 24 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
@@ -65,11 +65,11 @@ rordenlab/dcm2niix：rordenlab/dcm2niix helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
+| usefulness | 58/100 |
 | quality | 74/100 |
 | integration | 30/100 |
 | production | 64/100 |
-| outlook | 69/100 |
+| outlook | 73/100 |
 | adoption | 64/100 |
 | categoryMatchCount | 200/100 |
 | stars | 66/100 |

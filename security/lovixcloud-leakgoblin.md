@@ -1,6 +1,6 @@
 # lovixcloud/leakgoblin
 
-[![Stars](https://img.shields.io/github/stars/lovixcloud/leakgoblin?style=flat-square&color=yellow)](https://github.com/lovixcloud/leakgoblin/stargazers) [![Forks](https://img.shields.io/github/forks/lovixcloud/leakgoblin?style=flat-square&color=blue)](https://github.com/lovixcloud/leakgoblin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lovixcloud/leakgoblin?style=flat-square&color=yellow)](https://github.com/lovixcloud/leakgoblin/stargazers) [![Forks](https://img.shields.io/github/forks/lovixcloud/leakgoblin?style=flat-square&color=blue)](https://github.com/lovixcloud/leakgoblin/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ lovixcloud/leakgoblin：lovixcloud/leakgoblin helps catch security and privacy i
 - add auth or privacy controls
 - audit risk earlier
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -57,6 +57,7 @@ lovixcloud/leakgoblin：lovixcloud/leakgoblin helps catch security and privacy i
 - 1 forks
 - updated 2026-10-16
 - primary language: TypeScript
+- 2 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,17 +65,17 @@ lovixcloud/leakgoblin：lovixcloud/leakgoblin helps catch security and privacy i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 30/100 |
-| integration | 50/100 |
-| production | 46/100 |
-| outlook | 39/100 |
+| usefulness | 58/100 |
+| quality | 33/100 |
+| integration | 66/100 |
+| production | 50/100 |
+| outlook | 44/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 300/100 |
 | stars | 10/100 |
 | forks | 8/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 25/100 |
 | sourceTrust | 70/100 |
 
 ---

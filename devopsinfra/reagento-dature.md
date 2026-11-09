@@ -1,6 +1,6 @@
 # reagento/dature
 
-[![Stars](https://img.shields.io/github/stars/reagento/dature?style=flat-square&color=yellow)](https://github.com/reagento/dature/stargazers) [![Forks](https://img.shields.io/github/forks/reagento/dature?style=flat-square&color=blue)](https://github.com/reagento/dature/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reagento/dature?style=flat-square&color=yellow)](https://github.com/reagento/dature/stargazers) [![Forks](https://img.shields.io/github/forks/reagento/dature?style=flat-square&color=blue)](https://github.com/reagento/dature/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ reagento/dature：reagento/dature helps make deployment and operations more repe
 - automate operations
 - improve platform reliability
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,6 +57,7 @@ reagento/dature：reagento/dature helps make deployment and operations more repe
 - 5 forks
 - updated 2026-11-07
 - primary language: Python
+- 4 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
@@ -65,16 +66,16 @@ reagento/dature：reagento/dature helps make deployment and operations more repe
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 50/100 |
+| quality | 57/100 |
 | integration | 34/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 64/100 |
+| outlook | 66/100 |
 | adoption | 31/100 |
 | categoryMatchCount | 100/100 |
 | stars | 36/100 |
 | forks | 19/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

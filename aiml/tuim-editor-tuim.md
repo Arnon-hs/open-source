@@ -1,6 +1,6 @@
 # Tuim-editor/Tuim
 
-[![Stars](https://img.shields.io/github/stars/Tuim-editor/Tuim?style=flat-square&color=yellow)](https://github.com/Tuim-editor/Tuim/stargazers) [![Forks](https://img.shields.io/github/forks/Tuim-editor/Tuim?style=flat-square&color=blue)](https://github.com/Tuim-editor/Tuim/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Tuim-editor/Tuim?style=flat-square&color=yellow)](https://github.com/Tuim-editor/Tuim/stargazers) [![Forks](https://img.shields.io/github/forks/Tuim-editor/Tuim?style=flat-square&color=blue)](https://github.com/Tuim-editor/Tuim/network) [![Language](https://img.shields.io/badge/lang-Zig-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Zig |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-09-15 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ Tuim-editor/Tuim：Tuim-editor/Tuim helps add AI capability without starting fro
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -56,6 +56,7 @@ Tuim-editor/Tuim：Tuim-editor/Tuim helps add AI capability without starting fro
 - 4 GitHub stars
 - updated 2026-09-15
 - primary language: Zig
+- 7 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,16 +65,16 @@ Tuim-editor/Tuim：Tuim-editor/Tuim helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 25/100 |
+| quality | 38/100 |
 | integration | 18/100 |
-| production | 35/100 |
-| outlook | 32/100 |
+| production | 40/100 |
+| outlook | 41/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 100/100 |
 | stars | 15/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 0/100 |
+| topics | 88/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -57,7 +57,7 @@ heidenber/trazo：heidenber/trazo helps remove repetitive manual operations from
 - 3 forks
 - updated 2026-11-09
 - primary language: TypeScript
-- 12 topics
+- 14 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

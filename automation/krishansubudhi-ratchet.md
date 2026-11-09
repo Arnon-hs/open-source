@@ -1,6 +1,6 @@
 # krishansubudhi/ratchet
 
-[![Stars](https://img.shields.io/github/stars/krishansubudhi/ratchet?style=flat-square&color=yellow)](https://github.com/krishansubudhi/ratchet/stargazers) [![Forks](https://img.shields.io/github/forks/krishansubudhi/ratchet?style=flat-square&color=blue)](https://github.com/krishansubudhi/ratchet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krishansubudhi/ratchet?style=flat-square&color=yellow)](https://github.com/krishansubudhi/ratchet/stargazers) [![Forks](https://img.shields.io/github/forks/krishansubudhi/ratchet?style=flat-square&color=blue)](https://github.com/krishansubudhi/ratchet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Keeps coding agents from bloating your repo.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ krishansubudhi/ratchet：krishansubudhi/ratchet helps remove repetitive manual o
 - 4 GitHub stars
 - updated 2026-11-06
 - primary language: Python
-- 7 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,16 +65,16 @@ krishansubudhi/ratchet：krishansubudhi/ratchet helps remove repetitive manual o
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 48/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 58/100 |
+| production | 58/100 |
+| outlook | 59/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 100/100 |
 | stars | 15/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

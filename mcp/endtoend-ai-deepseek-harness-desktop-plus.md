@@ -1,6 +1,6 @@
 # endtoend-ai/deepseek-harness-desktop-plus
 
-[![Stars](https://img.shields.io/github/stars/endtoend-ai/deepseek-harness-desktop-plus?style=flat-square&color=yellow)](https://github.com/endtoend-ai/deepseek-harness-desktop-plus/stargazers) [![Forks](https://img.shields.io/github/forks/endtoend-ai/deepseek-harness-desktop-plus?style=flat-square&color=blue)](https://github.com/endtoend-ai/deepseek-harness-desktop-plus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/endtoend-ai/deepseek-harness-desktop-plus?style=flat-square&color=yellow)](https://github.com/endtoend-ai/deepseek-harness-desktop-plus/stargazers) [![Forks](https://img.shields.io/github/forks/endtoend-ai/deepseek-harness-desktop-plus?style=flat-square&color=blue)](https://github.com/endtoend-ai/deepseek-harness-desktop-plus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > DeepSeek Harness Desktop Plus — a desktop agent runtime with approval gates, replay and a plugin center
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ endtoend-ai/deepseek-harness-desktop-plus：endtoend-ai/deepseek-harness-desktop
 
 - updated 2026-11-07
 - primary language: TypeScript
-- 6 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -63,17 +63,17 @@ endtoend-ai/deepseek-harness-desktop-plus：endtoend-ai/deepseek-harness-desktop
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 47/100 |
+| usefulness | 90/100 |
+| quality | 51/100 |
 | integration | 78/100 |
-| production | 66/100 |
-| outlook | 64/100 |
+| production | 67/100 |
+| outlook | 70/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 75/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -1,6 +1,6 @@
 # ayushman4youctrl/pyquant
 
-[![Stars](https://img.shields.io/github/stars/ayushman4youctrl/pyquant?style=flat-square&color=yellow)](https://github.com/ayushman4youctrl/pyquant/stargazers) [![Forks](https://img.shields.io/github/forks/ayushman4youctrl/pyquant?style=flat-square&color=blue)](https://github.com/ayushman4youctrl/pyquant/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ayushman4youctrl/pyquant?style=flat-square&color=yellow)](https://github.com/ayushman4youctrl/pyquant/stargazers) [![Forks](https://img.shields.io/github/forks/ayushman4youctrl/pyquant?style=flat-square&color=blue)](https://github.com/ayushman4youctrl/pyquant/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 24/100 |
+| 📈 **Score** | 31/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -51,7 +51,7 @@ ayushman4youctrl/pyquant：ayushman4youctrl/pyquant may be useful when its READM
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 6 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -60,16 +60,16 @@ ayushman4youctrl/pyquant：ayushman4youctrl/pyquant may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 16/100 |
-| integration | 18/100 |
-| production | 27/100 |
-| outlook | 22/100 |
+| quality | 27/100 |
+| integration | 34/100 |
+| production | 33/100 |
+| outlook | 30/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

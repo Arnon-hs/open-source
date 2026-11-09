@@ -55,7 +55,7 @@ Adel1637/hr-dashboard-lite：Adel1637/hr-dashboard-lite helps teams reuse servic
 
 - updated 2026-11-05
 - primary language: Python
-- 12 topics
+- 16 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

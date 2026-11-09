@@ -1,6 +1,6 @@
 # harveyai/harvey-labs
 
-[![Stars](https://img.shields.io/github/stars/harveyai/harvey-labs?style=flat-square&color=yellow)](https://github.com/harveyai/harvey-labs/stargazers) [![Forks](https://img.shields.io/github/forks/harveyai/harvey-labs?style=flat-square&color=blue)](https://github.com/harveyai/harvey-labs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harveyai/harvey-labs?style=flat-square&color=yellow)](https://github.com/harveyai/harvey-labs/stargazers) [![Forks](https://img.shields.io/github/forks/harveyai/harvey-labs?style=flat-square&color=blue)](https://github.com/harveyai/harvey-labs/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > A benchmark built to evaluate and improve agent capabilities for supporting legal work.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.6k |
 | 🍴 **Forks** | 294 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ harveyai/harvey-labs：harveyai/harvey-labs helps turn isolated prompts and tool
 - add tool-use pipelines
 - standardize agent memory
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,6 +57,7 @@ harveyai/harvey-labs：harveyai/harvey-labs helps turn isolated prompts and tool
 - 294 forks
 - updated 2026-11-07
 - primary language: Python
+- 5 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,16 +66,16 @@ harveyai/harvey-labs：harveyai/harvey-labs helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 65/100 |
+| quality | 75/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 72/100 |
+| outlook | 76/100 |
 | adoption | 66/100 |
 | categoryMatchCount | 200/100 |
 | stars | 68/100 |
 | forks | 62/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

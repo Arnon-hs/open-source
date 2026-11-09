@@ -1,6 +1,6 @@
 # adfd3ewdf3/FinderBack
 
-[![Stars](https://img.shields.io/github/stars/adfd3ewdf3/FinderBack?style=flat-square&color=yellow)](https://github.com/adfd3ewdf3/FinderBack/stargazers) [![Forks](https://img.shields.io/github/forks/adfd3ewdf3/FinderBack?style=flat-square&color=blue)](https://github.com/adfd3ewdf3/FinderBack/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/adfd3ewdf3/FinderBack?style=flat-square&color=yellow)](https://github.com/adfd3ewdf3/FinderBack/stargazers) [![Forks](https://img.shields.io/github/forks/adfd3ewdf3/FinderBack?style=flat-square&color=blue)](https://github.com/adfd3ewdf3/FinderBack/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Add Back and Forward controls to Finder's right-click menu on macOS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-09-17 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ adfd3ewdf3/FinderBack：adfd3ewdf3/FinderBack may be useful when its README and 
 
 - updated 2026-09-17
 - primary language: Swift
-- 6 topics
+- 8 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,16 +62,16 @@ adfd3ewdf3/FinderBack：adfd3ewdf3/FinderBack may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 32/100 |
+| quality | 36/100 |
 | integration | 46/100 |
-| production | 42/100 |
-| outlook | 40/100 |
+| production | 43/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 75/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

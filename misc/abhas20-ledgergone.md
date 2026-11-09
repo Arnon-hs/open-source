@@ -1,6 +1,6 @@
 # abhas20/LedgerGone
 
-[![Stars](https://img.shields.io/github/stars/abhas20/LedgerGone?style=flat-square&color=yellow)](https://github.com/abhas20/LedgerGone/stargazers) [![Forks](https://img.shields.io/github/forks/abhas20/LedgerGone?style=flat-square&color=blue)](https://github.com/abhas20/LedgerGone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abhas20/LedgerGone?style=flat-square&color=yellow)](https://github.com/abhas20/LedgerGone/stargazers) [![Forks](https://img.shields.io/github/forks/abhas20/LedgerGone?style=flat-square&color=blue)](https://github.com/abhas20/LedgerGone/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Misc
 
 ### English
 
-abhas20/LedgerGone: abhas20/LedgerGone may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+abhas20/LedgerGone: abhas20/LedgerGone may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-abhas20/LedgerGone: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+abhas20/LedgerGone: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-abhas20/LedgerGone：abhas20/LedgerGone may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+abhas20/LedgerGone：abhas20/LedgerGone may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -45,14 +45,15 @@ abhas20/LedgerGone：abhas20/LedgerGone may be useful when its README and activi
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
 - updated 2026-10-18
 - primary language: Python
+- 10 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -61,16 +62,16 @@ abhas20/LedgerGone：abhas20/LedgerGone may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 26/100 |
+| quality | 41/100 |
 | integration | 50/100 |
-| production | 45/100 |
-| outlook | 36/100 |
+| production | 50/100 |
+| outlook | 46/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

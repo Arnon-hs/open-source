@@ -1,6 +1,6 @@
 # modelcontextprotocol/server-filesystem
 
-[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/server-filesystem?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/server-filesystem/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/server-filesystem?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/server-filesystem/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelcontextprotocol/server-filesystem?style=flat-square&color=yellow)](https://github.com/modelcontextprotocol/server-filesystem/stargazers) [![Forks](https://img.shields.io/github/forks/modelcontextprotocol/server-filesystem?style=flat-square&color=blue)](https://github.com/modelcontextprotocol/server-filesystem/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 24/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ modelcontextprotocol/server-filesystem：modelcontextprotocol/server-filesystem 
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 4 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -61,17 +61,17 @@ modelcontextprotocol/server-filesystem：modelcontextprotocol/server-filesystem 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 16/100 |
+| usefulness | 90/100 |
+| quality | 23/100 |
 | integration | 18/100 |
-| production | 27/100 |
-| outlook | 22/100 |
+| production | 30/100 |
+| outlook | 37/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

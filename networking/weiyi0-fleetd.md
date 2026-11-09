@@ -1,6 +1,6 @@
 # weiyi0/fleetd
 
-[![Stars](https://img.shields.io/github/stars/weiyi0/fleetd?style=flat-square&color=yellow)](https://github.com/weiyi0/fleetd/stargazers) [![Forks](https://img.shields.io/github/forks/weiyi0/fleetd?style=flat-square&color=blue)](https://github.com/weiyi0/fleetd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/weiyi0/fleetd?style=flat-square&color=yellow)](https://github.com/weiyi0/fleetd/stargazers) [![Forks](https://img.shields.io/github/forks/weiyi0/fleetd?style=flat-square&color=blue)](https://github.com/weiyi0/fleetd/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted monitoring and remote control for Linux servers and routers. A compromised server cannot run commands.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -55,25 +55,25 @@ weiyi0/fleetd：weiyi0/fleetd may be useful when its README and activity match a
 - 1 GitHub stars
 - updated 2026-11-05
 - primary language: Go
-- 6 topics
+- 11 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 44/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 400/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 75/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

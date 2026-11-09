@@ -1,6 +1,6 @@
 # UprightCode-hub/SeenDisJob
 
-[![Stars](https://img.shields.io/github/stars/UprightCode-hub/SeenDisJob?style=flat-square&color=yellow)](https://github.com/UprightCode-hub/SeenDisJob/stargazers) [![Forks](https://img.shields.io/github/forks/UprightCode-hub/SeenDisJob?style=flat-square&color=blue)](https://github.com/UprightCode-hub/SeenDisJob/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/UprightCode-hub/SeenDisJob?style=flat-square&color=yellow)](https://github.com/UprightCode-hub/SeenDisJob/stargazers) [![Forks](https://img.shields.io/github/forks/UprightCode-hub/SeenDisJob?style=flat-square&color=blue)](https://github.com/UprightCode-hub/SeenDisJob/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > Detect duplicate job postings across tabs and job boards.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 31/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-09-16 |
 | 🔍 **Source** | story-link |
 
@@ -45,7 +45,7 @@ UprightCode-hub/SeenDisJob：UprightCode-hub/SeenDisJob may be useful when its R
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -54,6 +54,7 @@ UprightCode-hub/SeenDisJob：UprightCode-hub/SeenDisJob may be useful when its R
 - 2 GitHub stars
 - updated 2026-09-16
 - primary language: JavaScript
+- 4 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,16 +63,16 @@ UprightCode-hub/SeenDisJob：UprightCode-hub/SeenDisJob may be useful when its R
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 24/100 |
+| quality | 31/100 |
 | integration | 30/100 |
-| production | 37/100 |
-| outlook | 31/100 |
+| production | 39/100 |
+| outlook | 36/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 100/100 |
 | stars | 10/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

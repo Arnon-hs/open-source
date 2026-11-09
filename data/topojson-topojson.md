@@ -1,6 +1,6 @@
 # topojson/topojson
 
-[![Stars](https://img.shields.io/github/stars/topojson/topojson?style=flat-square&color=yellow)](https://github.com/topojson/topojson/stargazers) [![Forks](https://img.shields.io/github/forks/topojson/topojson?style=flat-square&color=blue)](https://github.com/topojson/topojson/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/topojson/topojson?style=flat-square&color=yellow)](https://github.com/topojson/topojson/stargazers) [![Forks](https://img.shields.io/github/forks/topojson/topojson?style=flat-square&color=blue)](https://github.com/topojson/topojson/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > An extension of GeoJSON that encodes topology! 🌐
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.9k |
 | 🍴 **Forks** | 681 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ topojson/topojson：topojson/topojson helps convert raw data into searchable, an
 - process datasets
 - improve reporting workflows
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,6 +57,7 @@ topojson/topojson：topojson/topojson helps convert raw data into searchable, an
 - 681 forks
 - updated 2026-11-03
 - primary language: JavaScript
+- 4 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
@@ -65,16 +66,16 @@ topojson/topojson：topojson/topojson helps convert raw data into searchable, an
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 65/100 |
+| quality | 72/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 64/100 |
+| outlook | 67/100 |
 | adoption | 76/100 |
 | categoryMatchCount | 100/100 |
 | stars | 79/100 |
 | forks | 71/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

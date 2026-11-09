@@ -1,6 +1,6 @@
 # Panth977/on-premise-manager
 
-[![Stars](https://img.shields.io/github/stars/Panth977/on-premise-manager?style=flat-square&color=yellow)](https://github.com/Panth977/on-premise-manager/stargazers) [![Forks](https://img.shields.io/github/forks/Panth977/on-premise-manager?style=flat-square&color=blue)](https://github.com/Panth977/on-premise-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Panth977/on-premise-manager?style=flat-square&color=yellow)](https://github.com/Panth977/on-premise-manager/stargazers) [![Forks](https://img.shields.io/github/forks/Panth977/on-premise-manager?style=flat-square&color=blue)](https://github.com/Panth977/on-premise-manager/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 33/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Automation · Security
 
 ### English
 
-Panth977/on-premise-manager: Panth977/on-premise-manager helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Panth977/on-premise-manager: Panth977/on-premise-manager helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Panth977/on-premise-manager: open-source проект в категориях Automation, Security. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Panth977/on-premise-manager: open-source проект в категориях Automation, Security. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Panth977/on-premise-manager：Panth977/on-premise-manager helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Panth977/on-premise-manager：Panth977/on-premise-manager helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,14 +47,15 @@ Panth977/on-premise-manager：Panth977/on-premise-manager helps remove repetitiv
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
 - updated 2026-10-23
 - primary language: TypeScript
+- 5 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ Panth977/on-premise-manager：Panth977/on-premise-manager helps remove repetitiv
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 26/100 |
-| integration | 34/100 |
-| production | 43/100 |
-| outlook | 36/100 |
+| quality | 35/100 |
+| integration | 66/100 |
+| production | 50/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

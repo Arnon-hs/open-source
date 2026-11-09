@@ -1,6 +1,6 @@
 # Backboard-io/Backboard-R-CLI
 
-[![Stars](https://img.shields.io/github/stars/Backboard-io/Backboard-R-CLI?style=flat-square&color=yellow)](https://github.com/Backboard-io/Backboard-R-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/Backboard-io/Backboard-R-CLI?style=flat-square&color=blue)](https://github.com/Backboard-io/Backboard-R-CLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Backboard-io/Backboard-R-CLI?style=flat-square&color=yellow)](https://github.com/Backboard-io/Backboard-R-CLI/stargazers) [![Forks](https://img.shields.io/github/forks/Backboard-io/Backboard-R-CLI?style=flat-square&color=blue)](https://github.com/Backboard-io/Backboard-R-CLI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 101 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-18 |
 | 🔍 **Source** | story-link |
 
@@ -57,24 +57,25 @@ Backboard-io/Backboard-R-CLI：Backboard-io/Backboard-R-CLI helps add AI capabil
 - 18 forks
 - updated 2026-10-18
 - primary language: TypeScript
+- 3 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 43/100 |
+| usefulness | 74/100 |
+| quality | 49/100 |
 | integration | 50/100 |
-| production | 51/100 |
-| outlook | 50/100 |
+| production | 53/100 |
+| outlook | 56/100 |
 | adoption | 40/100 |
 | categoryMatchCount | 300/100 |
 | stars | 43/100 |
 | forks | 32/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 38/100 |
 | sourceTrust | 70/100 |
 
 ---

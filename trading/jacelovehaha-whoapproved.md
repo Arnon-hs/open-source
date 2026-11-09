@@ -55,7 +55,7 @@ jacelovehaha/whoapproved：jacelovehaha/whoapproved helps research and automate 
 
 - updated 2026-10-27
 - primary language: Python
-- 9 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

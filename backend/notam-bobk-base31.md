@@ -1,6 +1,6 @@
 # NOTAM-bobk/base31
 
-[![Stars](https://img.shields.io/github/stars/NOTAM-bobk/base31?style=flat-square&color=yellow)](https://github.com/NOTAM-bobk/base31/stargazers) [![Forks](https://img.shields.io/github/forks/NOTAM-bobk/base31?style=flat-square&color=blue)](https://github.com/NOTAM-bobk/base31/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NOTAM-bobk/base31?style=flat-square&color=yellow)](https://github.com/NOTAM-bobk/base31/stargazers) [![Forks](https://img.shields.io/github/forks/NOTAM-bobk/base31?style=flat-square&color=blue)](https://github.com/NOTAM-bobk/base31/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > The real official web directory
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-03 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ NOTAM-bobk/base31：NOTAM-bobk/base31 helps teams reuse service infrastructure i
 - 1 GitHub stars
 - updated 2026-10-03
 - primary language: HTML
-- 5 topics
+- 10 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -65,16 +65,16 @@ NOTAM-bobk/base31：NOTAM-bobk/base31 helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 32/100 |
+| quality | 38/100 |
 | integration | 46/100 |
-| production | 42/100 |
-| outlook | 40/100 |
+| production | 44/100 |
+| outlook | 44/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 63/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

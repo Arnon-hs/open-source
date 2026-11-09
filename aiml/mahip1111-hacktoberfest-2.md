@@ -1,6 +1,6 @@
 # mahip1111/hacktoberfest_2
 
-[![Stars](https://img.shields.io/github/stars/mahip1111/hacktoberfest_2?style=flat-square&color=yellow)](https://github.com/mahip1111/hacktoberfest_2/stargazers) [![Forks](https://img.shields.io/github/forks/mahip1111/hacktoberfest_2?style=flat-square&color=blue)](https://github.com/mahip1111/hacktoberfest_2/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mahip1111/hacktoberfest_2?style=flat-square&color=yellow)](https://github.com/mahip1111/hacktoberfest_2/stargazers) [![Forks](https://img.shields.io/github/forks/mahip1111/hacktoberfest_2?style=flat-square&color=blue)](https://github.com/mahip1111/hacktoberfest_2/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 24/100 |
+| 📈 **Score** | 28/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ mahip1111/hacktoberfest_2：mahip1111/hacktoberfest_2 helps add AI capability wi
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 6 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,16 +62,16 @@ mahip1111/hacktoberfest_2：mahip1111/hacktoberfest_2 helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 16/100 |
+| quality | 27/100 |
 | integration | 18/100 |
-| production | 27/100 |
-| outlook | 22/100 |
+| production | 31/100 |
+| outlook | 30/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

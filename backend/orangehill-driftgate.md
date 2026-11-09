@@ -1,6 +1,6 @@
 # orangehill/driftgate
 
-[![Stars](https://img.shields.io/github/stars/orangehill/driftgate?style=flat-square&color=yellow)](https://github.com/orangehill/driftgate/stargazers) [![Forks](https://img.shields.io/github/forks/orangehill/driftgate?style=flat-square&color=blue)](https://github.com/orangehill/driftgate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/orangehill/driftgate?style=flat-square&color=yellow)](https://github.com/orangehill/driftgate/stargazers) [![Forks](https://img.shields.io/github/forks/orangehill/driftgate?style=flat-square&color=blue)](https://github.com/orangehill/driftgate/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > A regression gate for HTTP APIs
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -55,25 +55,25 @@ orangehill/driftgate：orangehill/driftgate helps teams reuse service infrastruc
 
 - updated 2026-11-03
 - primary language: Go
-- 7 topics
+- 12 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 44/100 |
+| usefulness | 90/100 |
+| quality | 45/100 |
 | integration | 78/100 |
-| production | 60/100 |
-| outlook | 59/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -57,7 +57,7 @@ tavarovwallet/tavarov：tavarovwallet/tavarov helps prototype or inspect blockch
 - 1 forks
 - updated 2026-11-03
 - primary language: HTML
-- 11 topics
+- 17 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

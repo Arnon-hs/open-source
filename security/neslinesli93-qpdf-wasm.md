@@ -1,6 +1,6 @@
 # neslinesli93/qpdf-wasm
 
-[![Stars](https://img.shields.io/github/stars/neslinesli93/qpdf-wasm?style=flat-square&color=yellow)](https://github.com/neslinesli93/qpdf-wasm/stargazers) [![Forks](https://img.shields.io/github/forks/neslinesli93/qpdf-wasm?style=flat-square&color=blue)](https://github.com/neslinesli93/qpdf-wasm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/neslinesli93/qpdf-wasm?style=flat-square&color=yellow)](https://github.com/neslinesli93/qpdf-wasm/stargazers) [![Forks](https://img.shields.io/github/forks/neslinesli93/qpdf-wasm?style=flat-square&color=blue)](https://github.com/neslinesli93/qpdf-wasm/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > QPDF compiled to WASM, ready for the browser
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 40 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ neslinesli93/qpdf-wasm：neslinesli93/qpdf-wasm helps catch security and privacy
 - add auth or privacy controls
 - audit risk earlier
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,24 +57,25 @@ neslinesli93/qpdf-wasm：neslinesli93/qpdf-wasm helps catch security and privacy
 - 9 forks
 - updated 2026-11-02
 - primary language: Shell
+- 5 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| usefulness | 58/100 |
+| quality | 54/100 |
+| integration | 46/100 |
+| production | 59/100 |
+| outlook | 61/100 |
 | adoption | 32/100 |
 | categoryMatchCount | 100/100 |
 | stars | 34/100 |
 | forks | 25/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

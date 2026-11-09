@@ -1,6 +1,6 @@
 # typicode/json-server
 
-[![Stars](https://img.shields.io/github/stars/typicode/json-server?style=flat-square&color=yellow)](https://github.com/typicode/json-server/stargazers) [![Forks](https://img.shields.io/github/forks/typicode/json-server?style=flat-square&color=blue)](https://github.com/typicode/json-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/typicode/json-server?style=flat-square&color=yellow)](https://github.com/typicode/json-server/stargazers) [![Forks](https://img.shields.io/github/forks/typicode/json-server?style=flat-square&color=blue)](https://github.com/typicode/json-server/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 75.7k |
 | 🍴 **Forks** | 7.3k |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -57,7 +57,7 @@ typicode/json-server：typicode/json-server helps remove repetitive manual opera
 - 7283 forks
 - updated 2026-11-05
 - primary language: JavaScript
-- 7 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -66,16 +66,16 @@ typicode/json-server：typicode/json-server helps remove repetitive manual opera
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 88/100 |
+| quality | 90/100 |
 | integration | 46/100 |
 | production | 72/100 |
-| outlook | 80/100 |
+| outlook | 81/100 |
 | adoption | 99/100 |
 | categoryMatchCount | 100/100 |
 | stars | 100/100 |
 | forks | 97/100 |
 | recency | 80/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

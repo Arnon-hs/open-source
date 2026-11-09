@@ -55,7 +55,7 @@ wookat/agentgate：wookat/agentgate helps catch security and privacy issues earl
 
 - updated 2026-09-01
 - primary language: TypeScript
-- 14 topics
+- 20 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 

@@ -55,7 +55,7 @@ Burapa-J/apexsignal-b2b-mcp-suite：Burapa-J/apexsignal-b2b-mcp-suite helps conn
 
 - updated 2026-11-06
 - primary language: JavaScript
-- 10 topics
+- 14 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

@@ -56,7 +56,7 @@ shimpeiws/yuurei：shimpeiws/yuurei helps add AI capability without starting fro
 - 1 GitHub stars
 - updated 2026-11-04
 - primary language: TypeScript
-- 8 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

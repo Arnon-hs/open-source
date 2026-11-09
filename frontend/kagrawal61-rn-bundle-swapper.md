@@ -1,6 +1,6 @@
 # kagrawal61/rn-bundle-swapper
 
-[![Stars](https://img.shields.io/github/stars/kagrawal61/rn-bundle-swapper?style=flat-square&color=yellow)](https://github.com/kagrawal61/rn-bundle-swapper/stargazers) [![Forks](https://img.shields.io/github/forks/kagrawal61/rn-bundle-swapper?style=flat-square&color=blue)](https://github.com/kagrawal61/rn-bundle-swapper/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kagrawal61/rn-bundle-swapper?style=flat-square&color=yellow)](https://github.com/kagrawal61/rn-bundle-swapper/stargazers) [![Forks](https://img.shields.io/github/forks/kagrawal61/rn-bundle-swapper?style=flat-square&color=blue)](https://github.com/kagrawal61/rn-bundle-swapper/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 19 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-04-24 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ kagrawal61/rn-bundle-swapper：kagrawal61/rn-bundle-swapper helps ship user-faci
 - reuse interface components
 - improve frontend delivery
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -56,6 +56,7 @@ kagrawal61/rn-bundle-swapper：kagrawal61/rn-bundle-swapper helps ship user-faci
 - 19 GitHub stars
 - updated 2026-04-24
 - primary language: TypeScript
+- 6 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,16 +65,16 @@ kagrawal61/rn-bundle-swapper：kagrawal61/rn-bundle-swapper helps ship user-faci
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 24/100 |
+| quality | 36/100 |
 | integration | 34/100 |
-| production | 33/100 |
-| outlook | 27/100 |
+| production | 37/100 |
+| outlook | 35/100 |
 | adoption | 20/100 |
 | categoryMatchCount | 300/100 |
 | stars | 28/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

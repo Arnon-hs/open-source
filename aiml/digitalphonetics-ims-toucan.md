@@ -57,7 +57,7 @@ DigitalPhonetics/IMS-Toucan：DigitalPhonetics/IMS-Toucan helps add AI capabilit
 - 319 forks
 - updated 2026-10-31
 - primary language: Python
-- 8 topics
+- 13 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

@@ -1,6 +1,6 @@
 # SpeedPainterOrg/explainer-video
 
-[![Stars](https://img.shields.io/github/stars/SpeedPainterOrg/explainer-video?style=flat-square&color=yellow)](https://github.com/SpeedPainterOrg/explainer-video/stargazers) [![Forks](https://img.shields.io/github/forks/SpeedPainterOrg/explainer-video?style=flat-square&color=blue)](https://github.com/SpeedPainterOrg/explainer-video/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/SpeedPainterOrg/explainer-video?style=flat-square&color=yellow)](https://github.com/SpeedPainterOrg/explainer-video/stargazers) [![Forks](https://img.shields.io/github/forks/SpeedPainterOrg/explainer-video?style=flat-square&color=blue)](https://github.com/SpeedPainterOrg/explainer-video/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Codex plugin for turning text, URLs, and documents into narrated hand-drawn explainer videos.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -57,7 +57,7 @@ SpeedPainterOrg/explainer-video：SpeedPainterOrg/explainer-video helps add AI c
 - 4 forks
 - updated 2026-11-03
 - primary language: JavaScript
-- 8 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,11 +65,11 @@ SpeedPainterOrg/explainer-video：SpeedPainterOrg/explainer-video helps add AI c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
+| usefulness | 74/100 |
 | quality | 60/100 |
-| integration | 62/100 |
-| production | 64/100 |
-| outlook | 65/100 |
+| integration | 78/100 |
+| production | 66/100 |
+| outlook | 68/100 |
 | adoption | 32/100 |
 | categoryMatchCount | 300/100 |
 | stars | 37/100 |

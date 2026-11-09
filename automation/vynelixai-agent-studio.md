@@ -1,6 +1,6 @@
 # VynelixAI/Agent-Studio
 
-[![Stars](https://img.shields.io/github/stars/VynelixAI/Agent-Studio?style=flat-square&color=yellow)](https://github.com/VynelixAI/Agent-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/VynelixAI/Agent-Studio?style=flat-square&color=blue)](https://github.com/VynelixAI/Agent-Studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VynelixAI/Agent-Studio?style=flat-square&color=yellow)](https://github.com/VynelixAI/Agent-Studio/stargazers) [![Forks](https://img.shields.io/github/forks/VynelixAI/Agent-Studio?style=flat-square&color=blue)](https://github.com/VynelixAI/Agent-Studio/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-10-19 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Automation · AI/ML · Cloud & Storage · Data · Database
 
 ### English
 
-VynelixAI/Agent-Studio: VynelixAI/Agent-Studio helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+VynelixAI/Agent-Studio: VynelixAI/Agent-Studio helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-VynelixAI/Agent-Studio: open-source проект в категориях Automation, AI/ML, Cloud & Storage, Data, Database. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+VynelixAI/Agent-Studio: open-source проект в категориях Automation, AI/ML, Cloud & Storage, Data, Database. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-VynelixAI/Agent-Studio：VynelixAI/Agent-Studio helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+VynelixAI/Agent-Studio：VynelixAI/Agent-Studio helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -47,15 +47,16 @@ VynelixAI/Agent-Studio：VynelixAI/Agent-Studio helps remove repetitive manual o
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
 - 1 GitHub stars
 - updated 2026-10-19
 - primary language: TypeScript
+- 6 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,17 +64,17 @@ VynelixAI/Agent-Studio：VynelixAI/Agent-Studio helps remove repetitive manual o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 28/100 |
-| integration | 34/100 |
-| production | 43/100 |
-| outlook | 41/100 |
+| usefulness | 100/100 |
+| quality | 39/100 |
+| integration | 66/100 |
+| production | 52/100 |
+| outlook | 57/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

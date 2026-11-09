@@ -1,6 +1,6 @@
 # mukul9116/fieldclass-ai
 
-[![Stars](https://img.shields.io/github/stars/mukul9116/fieldclass-ai?style=flat-square&color=yellow)](https://github.com/mukul9116/fieldclass-ai/stargazers) [![Forks](https://img.shields.io/github/forks/mukul9116/fieldclass-ai?style=flat-square&color=blue)](https://github.com/mukul9116/fieldclass-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mukul9116/fieldclass-ai?style=flat-square&color=yellow)](https://github.com/mukul9116/fieldclass-ai/stargazers) [![Forks](https://img.shields.io/github/forks/mukul9116/fieldclass-ai?style=flat-square&color=blue)](https://github.com/mukul9116/fieldclass-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > this app enforces students to do practical learning, take whatever topic you want to study and it will guide you to learn it by doing practical
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ mukul9116/fieldclass-ai：mukul9116/fieldclass-ai helps learn proven implementat
 - build tutorials
 - train a team on a stack
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -56,6 +56,7 @@ mukul9116/fieldclass-ai：mukul9116/fieldclass-ai helps learn proven implementat
 - 1 GitHub stars
 - updated 2026-10-11
 - primary language: Python
+- 4 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,16 +65,16 @@ mukul9116/fieldclass-ai：mukul9116/fieldclass-ai helps learn proven implementat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 28/100 |
+| quality | 35/100 |
 | integration | 46/100 |
-| production | 45/100 |
-| outlook | 38/100 |
+| production | 48/100 |
+| outlook | 43/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

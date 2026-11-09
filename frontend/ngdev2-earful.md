@@ -56,7 +56,7 @@ NGdev2/earful：NGdev2/earful helps ship user-facing interfaces with less custom
 - 6 GitHub stars
 - updated 2026-11-02
 - primary language: JavaScript
-- 7 topics
+- 10 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,16 +65,16 @@ NGdev2/earful：NGdev2/earful helps ship user-facing interfaces with less custom
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 51/100 |
 | integration | 46/100 |
 | production | 58/100 |
-| outlook | 59/100 |
+| outlook | 60/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 100/100 |
 | stars | 18/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

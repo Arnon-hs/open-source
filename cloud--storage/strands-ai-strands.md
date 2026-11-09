@@ -1,6 +1,6 @@
 # strands-ai/strands
 
-[![Stars](https://img.shields.io/github/stars/strands-ai/strands?style=flat-square&color=yellow)](https://github.com/strands-ai/strands/stargazers) [![Forks](https://img.shields.io/github/forks/strands-ai/strands?style=flat-square&color=blue)](https://github.com/strands-ai/strands/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/strands-ai/strands?style=flat-square&color=yellow)](https://github.com/strands-ai/strands/stargazers) [![Forks](https://img.shields.io/github/forks/strands-ai/strands?style=flat-square&color=blue)](https://github.com/strands-ai/strands/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 24/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -51,7 +51,7 @@ strands-ai/strands：strands-ai/strands may be useful when its README and activi
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 8 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -59,17 +59,17 @@ strands-ai/strands：strands-ai/strands may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 16/100 |
-| integration | 18/100 |
-| production | 27/100 |
-| outlook | 22/100 |
+| usefulness | 58/100 |
+| quality | 31/100 |
+| integration | 34/100 |
+| production | 35/100 |
+| outlook | 36/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

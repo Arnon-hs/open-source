@@ -1,6 +1,6 @@
 # codie1982/chorono-editor
 
-[![Stars](https://img.shields.io/github/stars/codie1982/chorono-editor?style=flat-square&color=yellow)](https://github.com/codie1982/chorono-editor/stargazers) [![Forks](https://img.shields.io/github/forks/codie1982/chorono-editor?style=flat-square&color=blue)](https://github.com/codie1982/chorono-editor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codie1982/chorono-editor?style=flat-square&color=yellow)](https://github.com/codie1982/chorono-editor/stargazers) [![Forks](https://img.shields.io/github/forks/codie1982/chorono-editor?style=flat-square&color=blue)](https://github.com/codie1982/chorono-editor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source 2D animation editor. Create with Claude Code or Codex via MCP, then refine layers and keyframes visually.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ codie1982/chorono-editor：codie1982/chorono-editor helps connect AI assistants 
 - 1 GitHub stars
 - updated 2026-11-05
 - primary language: TypeScript
-- 10 topics
+- 14 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -64,11 +64,11 @@ codie1982/chorono-editor：codie1982/chorono-editor helps connect AI assistants 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
+| usefulness | 74/100 |
 | quality | 48/100 |
 | integration | 62/100 |
 | production | 59/100 |
-| outlook | 58/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |

@@ -1,6 +1,6 @@
 # emwstudio/esp32-eye
 
-[![Stars](https://img.shields.io/github/stars/emwstudio/esp32-eye?style=flat-square&color=yellow)](https://github.com/emwstudio/esp32-eye/stargazers) [![Forks](https://img.shields.io/github/forks/emwstudio/esp32-eye?style=flat-square&color=blue)](https://github.com/emwstudio/esp32-eye/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emwstudio/esp32-eye?style=flat-square&color=yellow)](https://github.com/emwstudio/esp32-eye/stargazers) [![Forks](https://img.shields.io/github/forks/emwstudio/esp32-eye?style=flat-square&color=blue)](https://github.com/emwstudio/esp32-eye/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > ESP32-S3 multi-cat drinking water monitor with MiniCPM-V
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ emwstudio/esp32-eye：emwstudio/esp32-eye helps remove repetitive manual operati
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,24 +57,25 @@ emwstudio/esp32-eye：emwstudio/esp32-eye helps remove repetitive manual operati
 - 4 forks
 - updated 2026-11-06
 - primary language: C
+- 5 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 40/100 |
+| usefulness | 74/100 |
+| quality | 50/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 52/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 21/100 |
 | categoryMatchCount | 300/100 |
 | stars | 23/100 |
 | forks | 17/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

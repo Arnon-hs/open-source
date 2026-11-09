@@ -57,7 +57,7 @@ thechandanbhagat/ezpm2gui：thechandanbhagat/ezpm2gui helps add AI capability wi
 - 14 forks
 - updated 2026-11-09
 - primary language: TypeScript
-- 13 topics
+- 16 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

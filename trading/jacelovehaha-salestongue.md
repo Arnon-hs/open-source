@@ -55,7 +55,7 @@ jacelovehaha/salestongue：jacelovehaha/salestongue helps research and automate 
 
 - updated 2026-10-27
 - primary language: Python
-- 8 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

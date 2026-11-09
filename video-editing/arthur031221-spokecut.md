@@ -1,6 +1,6 @@
 # Arthur031221/Spokecut
 
-[![Stars](https://img.shields.io/github/stars/Arthur031221/Spokecut?style=flat-square&color=yellow)](https://github.com/Arthur031221/Spokecut/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur031221/Spokecut?style=flat-square&color=blue)](https://github.com/Arthur031221/Spokecut/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arthur031221/Spokecut?style=flat-square&color=yellow)](https://github.com/Arthur031221/Spokecut/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur031221/Spokecut?style=flat-square&color=blue)](https://github.com/Arthur031221/Spokecut/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Edit talking video by editing its transcript. Delete a word and it is gone from the video. Local, GPU accelerated, free.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ Arthur031221/Spokecut：Arthur031221/Spokecut helps turn media editing, captions
 
 - updated 2026-11-09
 - primary language: Python
-- 8 topics
+- 10 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,8 +65,8 @@ Arthur031221/Spokecut：Arthur031221/Spokecut helps turn media editing, captions
 |---|---:|
 | usefulness | 58/100 |
 | quality | 51/100 |
-| integration | 62/100 |
-| production | 65/100 |
+| integration | 78/100 |
+| production | 67/100 |
 | outlook | 64/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |

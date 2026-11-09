@@ -55,7 +55,7 @@ manoharys/paperwall：manoharys/paperwall may be useful when its README and acti
 - 1 GitHub stars
 - updated 2026-11-08
 - primary language: JavaScript
-- 19 topics
+- 21 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

@@ -1,6 +1,6 @@
 # thallylabs/thally
 
-[![Stars](https://img.shields.io/github/stars/thallylabs/thally?style=flat-square&color=yellow)](https://github.com/thallylabs/thally/stargazers) [![Forks](https://img.shields.io/github/forks/thallylabs/thally?style=flat-square&color=blue)](https://github.com/thallylabs/thally/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/thallylabs/thally?style=flat-square&color=yellow)](https://github.com/thallylabs/thally/stargazers) [![Forks](https://img.shields.io/github/forks/thallylabs/thally?style=flat-square&color=blue)](https://github.com/thallylabs/thally/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source docs platform and product knowledge layer that turns merged product changes into evidence-backed updates for human review.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | 9 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ thallylabs/thally：thallylabs/thally helps remove repetitive manual operations 
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,24 +57,25 @@ thallylabs/thally：thallylabs/thally helps remove repetitive manual operations 
 - 9 forks
 - updated 2026-10-30
 - primary language: TypeScript
+- 5 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 40/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 49/100 |
+| production | 58/100 |
+| outlook | 55/100 |
 | adoption | 21/100 |
 | categoryMatchCount | 100/100 |
 | stars | 19/100 |
 | forks | 25/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

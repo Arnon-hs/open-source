@@ -1,6 +1,6 @@
 # pyannote/pyannote-audio
 
-[![Stars](https://img.shields.io/github/stars/pyannote/pyannote-audio?style=flat-square&color=yellow)](https://github.com/pyannote/pyannote-audio/stargazers) [![Forks](https://img.shields.io/github/forks/pyannote/pyannote-audio?style=flat-square&color=blue)](https://github.com/pyannote/pyannote-audio/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pyannote/pyannote-audio?style=flat-square&color=yellow)](https://github.com/pyannote/pyannote-audio/stargazers) [![Forks](https://img.shields.io/github/forks/pyannote/pyannote-audio?style=flat-square&color=blue)](https://github.com/pyannote/pyannote-audio/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 10.8k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -57,7 +57,7 @@ pyannote/pyannote-audio：pyannote/pyannote-audio helps connect AI assistants to
 - 1131 forks
 - updated 2026-11-03
 - primary language: Jupyter Notebook
-- 11 topics
+- 17 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
@@ -65,11 +65,11 @@ pyannote/pyannote-audio：pyannote/pyannote-audio helps connect AI assistants to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
+| usefulness | 58/100 |
 | quality | 83/100 |
 | integration | 30/100 |
 | production | 67/100 |
-| outlook | 74/100 |
+| outlook | 77/100 |
 | adoption | 83/100 |
 | categoryMatchCount | 100/100 |
 | stars | 86/100 |

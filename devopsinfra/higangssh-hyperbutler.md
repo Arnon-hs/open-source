@@ -1,6 +1,6 @@
 # Higangssh/hyperbutler
 
-[![Stars](https://img.shields.io/github/stars/Higangssh/hyperbutler?style=flat-square&color=yellow)](https://github.com/Higangssh/hyperbutler/stargazers) [![Forks](https://img.shields.io/github/forks/Higangssh/hyperbutler?style=flat-square&color=blue)](https://github.com/Higangssh/hyperbutler/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Higangssh/hyperbutler?style=flat-square&color=yellow)](https://github.com/Higangssh/hyperbutler/stargazers) [![Forks](https://img.shields.io/github/forks/Higangssh/hyperbutler?style=flat-square&color=blue)](https://github.com/Higangssh/hyperbutler/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > A lightweight, Docker-compatible engine for Windows. No WSL.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ Higangssh/hyperbutler：Higangssh/hyperbutler helps make deployment and operatio
 - automate operations
 - improve platform reliability
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,24 +57,25 @@ Higangssh/hyperbutler：Higangssh/hyperbutler helps make deployment and operatio
 - 1 forks
 - updated 2026-11-03
 - primary language: Go
+- 6 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 56/100 |
-| outlook | 48/100 |
+| production | 60/100 |
+| outlook | 55/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 100/100 |
 | stars | 20/100 |
 | forks | 8/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

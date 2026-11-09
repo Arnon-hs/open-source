@@ -1,6 +1,6 @@
 # tranphucbol/table-craft
 
-[![Stars](https://img.shields.io/github/stars/tranphucbol/table-craft?style=flat-square&color=yellow)](https://github.com/tranphucbol/table-craft/stargazers) [![Forks](https://img.shields.io/github/forks/tranphucbol/table-craft?style=flat-square&color=blue)](https://github.com/tranphucbol/table-craft/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tranphucbol/table-craft?style=flat-square&color=yellow)](https://github.com/tranphucbol/table-craft/stargazers) [![Forks](https://img.shields.io/github/forks/tranphucbol/table-craft?style=flat-square&color=blue)](https://github.com/tranphucbol/table-craft/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > A desktop database IDE in the spirit of DataGrip
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 30 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -57,7 +57,7 @@ tranphucbol/table-craft：tranphucbol/table-craft helps turn isolated prompts an
 - 1 forks
 - updated 2026-11-08
 - primary language: TypeScript
-- 18 topics
+- 21 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,11 +65,11 @@ tranphucbol/table-craft：tranphucbol/table-craft helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
+| usefulness | 90/100 |
 | quality | 62/100 |
 | integration | 78/100 |
 | production | 71/100 |
-| outlook | 70/100 |
+| outlook | 76/100 |
 | adoption | 25/100 |
 | categoryMatchCount | 500/100 |
 | stars | 32/100 |

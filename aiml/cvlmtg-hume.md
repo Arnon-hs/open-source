@@ -1,6 +1,6 @@
 # cvlmtg/HUME
 
-[![Stars](https://img.shields.io/github/stars/cvlmtg/HUME?style=flat-square&color=yellow)](https://github.com/cvlmtg/HUME/stargazers) [![Forks](https://img.shields.io/github/forks/cvlmtg/HUME?style=flat-square&color=blue)](https://github.com/cvlmtg/HUME/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cvlmtg/HUME?style=flat-square&color=yellow)](https://github.com/cvlmtg/HUME/stargazers) [![Forks](https://img.shields.io/github/forks/cvlmtg/HUME?style=flat-square&color=blue)](https://github.com/cvlmtg/HUME/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > HUME's Unfinished Modal Editor - A selection-first modal text editor for the terminal, scriptable in Scheme.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ cvlmtg/HUME：cvlmtg/HUME helps add AI capability without starting from a blank 
 
 - updated 2026-11-04
 - primary language: Rust
-- 11 topics
+- 16 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
@@ -63,11 +63,11 @@ cvlmtg/HUME：cvlmtg/HUME helps add AI capability without starting from a blank 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
+| usefulness | 58/100 |
 | quality | 45/100 |
 | integration | 30/100 |
 | production | 54/100 |
-| outlook | 53/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |

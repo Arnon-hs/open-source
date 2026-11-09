@@ -1,6 +1,6 @@
 # copyleftdev/cascade-article
 
-[![Stars](https://img.shields.io/github/stars/copyleftdev/cascade-article?style=flat-square&color=yellow)](https://github.com/copyleftdev/cascade-article/stargazers) [![Forks](https://img.shields.io/github/forks/copyleftdev/cascade-article?style=flat-square&color=blue)](https://github.com/copyleftdev/cascade-article/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-27%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/copyleftdev/cascade-article?style=flat-square&color=yellow)](https://github.com/copyleftdev/cascade-article/stargazers) [![Forks](https://img.shields.io/github/forks/copyleftdev/cascade-article?style=flat-square&color=blue)](https://github.com/copyleftdev/cascade-article/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 27/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | 2026-09-03 |
 | 🔍 **Source** | story-link |
 
@@ -54,6 +54,7 @@ copyleftdev/cascade-article：copyleftdev/cascade-article helps add AI capabilit
 **Quality signals**
 
 - updated 2026-09-03
+- 6 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -61,17 +62,17 @@ copyleftdev/cascade-article：copyleftdev/cascade-article helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 21/100 |
+| usefulness | 58/100 |
+| quality | 32/100 |
 | integration | 18/100 |
-| production | 34/100 |
-| outlook | 29/100 |
+| production | 38/100 |
+| outlook | 40/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

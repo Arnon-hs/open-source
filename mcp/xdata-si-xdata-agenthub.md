@@ -56,7 +56,7 @@ XData-si/xdata-agenthub：XData-si/xdata-agenthub helps connect AI assistants to
 - 1 GitHub stars
 - updated 2026-11-05
 - primary language: Python
-- 10 topics
+- 13 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

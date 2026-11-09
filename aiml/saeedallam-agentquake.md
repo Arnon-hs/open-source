@@ -1,6 +1,6 @@
 # saeedallam/agentquake
 
-[![Stars](https://img.shields.io/github/stars/saeedallam/agentquake?style=flat-square&color=yellow)](https://github.com/saeedallam/agentquake/stargazers) [![Forks](https://img.shields.io/github/forks/saeedallam/agentquake?style=flat-square&color=blue)](https://github.com/saeedallam/agentquake/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saeedallam/agentquake?style=flat-square&color=yellow)](https://github.com/saeedallam/agentquake/stargazers) [![Forks](https://img.shields.io/github/forks/saeedallam/agentquake?style=flat-square&color=blue)](https://github.com/saeedallam/agentquake/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Chaos testing for AI agents
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ saeedallam/agentquake：saeedallam/agentquake helps add AI capability without st
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -56,24 +56,25 @@ saeedallam/agentquake：saeedallam/agentquake helps add AI capability without st
 - 1 GitHub stars
 - updated 2026-11-07
 - primary language: TypeScript
+- 5 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 38/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 55/100 |
+| production | 62/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

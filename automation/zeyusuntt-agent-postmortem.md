@@ -1,6 +1,6 @@
 # zeyusuntt/agent-postmortem
 
-[![Stars](https://img.shields.io/github/stars/zeyusuntt/agent-postmortem?style=flat-square&color=yellow)](https://github.com/zeyusuntt/agent-postmortem/stargazers) [![Forks](https://img.shields.io/github/forks/zeyusuntt/agent-postmortem?style=flat-square&color=blue)](https://github.com/zeyusuntt/agent-postmortem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zeyusuntt/agent-postmortem?style=flat-square&color=yellow)](https://github.com/zeyusuntt/agent-postmortem/stargazers) [![Forks](https://img.shields.io/github/forks/zeyusuntt/agent-postmortem?style=flat-square&color=blue)](https://github.com/zeyusuntt/agent-postmortem/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Reads the Claude Code logs already on your machine and tells you which agent's 'done' you can't trust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -55,25 +55,25 @@ zeyusuntt/agent-postmortem：zeyusuntt/agent-postmortem helps remove repetitive 
 
 - updated 2026-11-06
 - primary language: Python
-- 4 topics
+- 8 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 38/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 52/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 50/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

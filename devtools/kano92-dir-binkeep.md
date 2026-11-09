@@ -56,7 +56,7 @@ kano92-dir/binkeep：kano92-dir/binkeep helps engineers save time in daily devel
 - 9 GitHub stars
 - updated 2026-11-09
 - primary language: JavaScript
-- 12 topics
+- 18 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

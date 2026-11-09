@@ -57,7 +57,7 @@ necoz-oss/changelog-bot：necoz-oss/changelog-bot helps remove repetitive manual
 - 8 forks
 - updated 2026-11-01
 - primary language: TypeScript
-- 15 topics
+- 19 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

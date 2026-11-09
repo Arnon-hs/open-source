@@ -1,6 +1,6 @@
 # NotionX/notion-sdk-js
 
-[![Stars](https://img.shields.io/github/stars/NotionX/notion-sdk-js?style=flat-square&color=yellow)](https://github.com/NotionX/notion-sdk-js/stargazers) [![Forks](https://img.shields.io/github/forks/NotionX/notion-sdk-js?style=flat-square&color=blue)](https://github.com/NotionX/notion-sdk-js/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NotionX/notion-sdk-js?style=flat-square&color=yellow)](https://github.com/NotionX/notion-sdk-js/stargazers) [![Forks](https://img.shields.io/github/forks/NotionX/notion-sdk-js?style=flat-square&color=blue)](https://github.com/NotionX/notion-sdk-js/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -47,13 +47,13 @@ NotionX/notion-sdk-js：NotionX/notion-sdk-js helps remove repetitive manual ope
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 7 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -61,17 +61,17 @@ NotionX/notion-sdk-js：NotionX/notion-sdk-js helps remove repetitive manual ope
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 16/100 |
-| integration | 34/100 |
-| production | 29/100 |
-| outlook | 26/100 |
+| usefulness | 90/100 |
+| quality | 29/100 |
+| integration | 66/100 |
+| production | 39/100 |
+| outlook | 41/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 88/100 |
 | sourceTrust | 70/100 |
 
 ---

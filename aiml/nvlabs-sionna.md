@@ -1,6 +1,6 @@
 # NVlabs/sionna
 
-[![Stars](https://img.shields.io/github/stars/NVlabs/sionna?style=flat-square&color=yellow)](https://github.com/NVlabs/sionna/stargazers) [![Forks](https://img.shields.io/github/forks/NVlabs/sionna?style=flat-square&color=blue)](https://github.com/NVlabs/sionna/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/NVlabs/sionna?style=flat-square&color=yellow)](https://github.com/NVlabs/sionna/stargazers) [![Forks](https://img.shields.io/github/forks/NVlabs/sionna?style=flat-square&color=blue)](https://github.com/NVlabs/sionna/network) [![Language](https://img.shields.io/badge/lang-Jupyter%20Notebook-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Sionna: An Open-Source Library for Research on Communication Systems
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.7k |
 | 🍴 **Forks** | 422 |
 | 💻 **Language** | Jupyter Notebook |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -57,7 +57,7 @@ NVlabs/sionna：NVlabs/sionna helps add AI capability without starting from a bl
 - 422 forks
 - updated 2026-11-06
 - primary language: Jupyter Notebook
-- 12 topics
+- 15 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
@@ -65,11 +65,11 @@ NVlabs/sionna：NVlabs/sionna helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
+| usefulness | 58/100 |
 | quality | 76/100 |
 | integration | 30/100 |
 | production | 65/100 |
-| outlook | 70/100 |
+| outlook | 74/100 |
 | adoption | 68/100 |
 | categoryMatchCount | 100/100 |
 | stars | 69/100 |

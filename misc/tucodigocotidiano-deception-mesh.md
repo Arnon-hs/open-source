@@ -1,6 +1,6 @@
 # tucodigocotidiano/deception-mesh
 
-[![Stars](https://img.shields.io/github/stars/tucodigocotidiano/deception-mesh?style=flat-square&color=yellow)](https://github.com/tucodigocotidiano/deception-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/tucodigocotidiano/deception-mesh?style=flat-square&color=blue)](https://github.com/tucodigocotidiano/deception-mesh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tucodigocotidiano/deception-mesh?style=flat-square&color=yellow)](https://github.com/tucodigocotidiano/deception-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/tucodigocotidiano/deception-mesh?style=flat-square&color=blue)](https://github.com/tucodigocotidiano/deception-mesh/network) [![Language](https://img.shields.io/badge/lang-Shell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Shell |
-| 📈 **Score** | 32/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-09-18 |
 | 🔍 **Source** | story-link |
 
@@ -45,7 +45,7 @@ tucodigocotidiano/deception-mesh：tucodigocotidiano/deception-mesh may be usefu
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -55,6 +55,7 @@ tucodigocotidiano/deception-mesh：tucodigocotidiano/deception-mesh may be usefu
 - 1 forks
 - updated 2026-09-18
 - primary language: Shell
+- 6 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ tucodigocotidiano/deception-mesh：tucodigocotidiano/deception-mesh may be usefu
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 24/100 |
+| quality | 35/100 |
 | integration | 34/100 |
-| production | 37/100 |
-| outlook | 31/100 |
+| production | 41/100 |
+| outlook | 39/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 0/100 |
 | stars | 6/100 |
 | forks | 8/100 |
 | recency | 40/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

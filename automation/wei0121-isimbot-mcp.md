@@ -1,6 +1,6 @@
 # wei0121/iSimBot-mcp
 
-[![Stars](https://img.shields.io/github/stars/wei0121/iSimBot-mcp?style=flat-square&color=yellow)](https://github.com/wei0121/iSimBot-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/wei0121/iSimBot-mcp?style=flat-square&color=blue)](https://github.com/wei0121/iSimBot-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wei0121/iSimBot-mcp?style=flat-square&color=yellow)](https://github.com/wei0121/iSimBot-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/wei0121/iSimBot-mcp?style=flat-square&color=blue)](https://github.com/wei0121/iSimBot-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ wei0121/iSimBot-mcp：wei0121/iSimBot-mcp helps remove repetitive manual operati
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,6 +55,7 @@ wei0121/iSimBot-mcp：wei0121/iSimBot-mcp helps remove repetitive manual operati
 
 - updated 2026-11-02
 - primary language: TypeScript
+- 4 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ wei0121/iSimBot-mcp：wei0121/iSimBot-mcp helps remove repetitive manual operati
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 31/100 |
+| quality | 38/100 |
 | integration | 50/100 |
-| production | 51/100 |
-| outlook | 47/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

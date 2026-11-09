@@ -1,6 +1,6 @@
 # fast-compose/fast-compose
 
-[![Stars](https://img.shields.io/github/stars/fast-compose/fast-compose?style=flat-square&color=yellow)](https://github.com/fast-compose/fast-compose/stargazers) [![Forks](https://img.shields.io/github/forks/fast-compose/fast-compose?style=flat-square&color=blue)](https://github.com/fast-compose/fast-compose/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fast-compose/fast-compose?style=flat-square&color=yellow)](https://github.com/fast-compose/fast-compose/stargazers) [![Forks](https://img.shields.io/github/forks/fast-compose/fast-compose?style=flat-square&color=blue)](https://github.com/fast-compose/fast-compose/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > An instant runtime for Jetpack Compose code. No compiler, no build, no waiting.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ fast-compose/fast-compose：fast-compose/fast-compose helps ship user-facing int
 - reuse interface components
 - improve frontend delivery
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -56,25 +56,25 @@ fast-compose/fast-compose：fast-compose/fast-compose helps ship user-facing int
 - 1 forks
 - updated 2026-11-05
 - primary language: Kotlin
-- 5 topics
+- 9 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 41/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 50/100 |
+| usefulness | 58/100 |
+| quality | 46/100 |
+| integration | 46/100 |
+| production | 57/100 |
+| outlook | 57/100 |
 | adoption | 2/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 8/100 |
 | recency | 80/100 |
-| topics | 63/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

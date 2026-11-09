@@ -55,7 +55,7 @@ fainir/agent-harness：fainir/agent-harness helps remove repetitive manual opera
 
 - updated 2026-11-03
 - primary language: Shell
-- 12 topics
+- 16 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

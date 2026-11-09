@@ -55,7 +55,7 @@ vinimabreu/betorskip：vinimabreu/betorskip helps add AI capability without star
 
 - updated 2026-10-13
 - primary language: Python
-- 8 topics
+- 10 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 

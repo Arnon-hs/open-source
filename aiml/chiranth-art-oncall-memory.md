@@ -1,6 +1,6 @@
 # chiranth-art/OnCall-Memory
 
-[![Stars](https://img.shields.io/github/stars/chiranth-art/OnCall-Memory?style=flat-square&color=yellow)](https://github.com/chiranth-art/OnCall-Memory/stargazers) [![Forks](https://img.shields.io/github/forks/chiranth-art/OnCall-Memory?style=flat-square&color=blue)](https://github.com/chiranth-art/OnCall-Memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/chiranth-art/OnCall-Memory?style=flat-square&color=yellow)](https://github.com/chiranth-art/OnCall-Memory/stargazers) [![Forks](https://img.shields.io/github/forks/chiranth-art/OnCall-Memory?style=flat-square&color=blue)](https://github.com/chiranth-art/OnCall-Memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > AI Incident Response Agent powered by Hindsight Memory Visibility
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ chiranth-art/OnCall-Memory：chiranth-art/OnCall-Memory helps add AI capability 
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,24 +55,25 @@ chiranth-art/OnCall-Memory：chiranth-art/OnCall-Memory helps add AI capability 
 
 - updated 2026-11-07
 - primary language: Python
+- 6 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 36/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 54/100 |
+| usefulness | 74/100 |
+| quality | 47/100 |
+| integration | 62/100 |
+| production | 64/100 |
+| outlook | 64/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -55,7 +55,7 @@ Burthcer/IHatePDF：Burthcer/IHatePDF may be useful when its README and activity
 - 1 GitHub stars
 - updated 2026-11-03
 - primary language: TypeScript
-- 8 topics
+- 13 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

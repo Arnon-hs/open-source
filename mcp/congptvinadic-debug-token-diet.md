@@ -1,6 +1,6 @@
 # congptvinadic-debug/token-diet
 
-[![Stars](https://img.shields.io/github/stars/congptvinadic-debug/token-diet?style=flat-square&color=yellow)](https://github.com/congptvinadic-debug/token-diet/stargazers) [![Forks](https://img.shields.io/github/forks/congptvinadic-debug/token-diet?style=flat-square&color=blue)](https://github.com/congptvinadic-debug/token-diet/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/congptvinadic-debug/token-diet?style=flat-square&color=yellow)](https://github.com/congptvinadic-debug/token-diet/stargazers) [![Forks](https://img.shields.io/github/forks/congptvinadic-debug/token-diet?style=flat-square&color=blue)](https://github.com/congptvinadic-debug/token-diet/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Spend fewer tokens in Claude Code: see where they go, /compact reminder, clip huge outputs, handoff on /clear. CLI + plugin.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -55,25 +55,25 @@ congptvinadic-debug/token-diet：congptvinadic-debug/token-diet helps connect AI
 
 - updated 2026-11-04
 - primary language: JavaScript
-- 6 topics
+- 11 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 42/100 |
+| usefulness | 90/100 |
+| quality | 45/100 |
 | integration | 94/100 |
-| production | 62/100 |
-| outlook | 57/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 75/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

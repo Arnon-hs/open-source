@@ -1,6 +1,6 @@
 # cybersleuth25/Deja-Vu
 
-[![Stars](https://img.shields.io/github/stars/cybersleuth25/Deja-Vu?style=flat-square&color=yellow)](https://github.com/cybersleuth25/Deja-Vu/stargazers) [![Forks](https://img.shields.io/github/forks/cybersleuth25/Deja-Vu?style=flat-square&color=blue)](https://github.com/cybersleuth25/Deja-Vu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cybersleuth25/Deja-Vu?style=flat-square&color=yellow)](https://github.com/cybersleuth25/Deja-Vu/stargazers) [![Forks](https://img.shields.io/github/forks/cybersleuth25/Deja-Vu?style=flat-square&color=blue)](https://github.com/cybersleuth25/Deja-Vu/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -56,6 +56,7 @@ cybersleuth25/Deja-Vu：cybersleuth25/Deja-Vu helps remove repetitive manual ope
 - 1 GitHub stars
 - updated 2026-11-09
 - primary language: Python
+- 3 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,16 +65,16 @@ cybersleuth25/Deja-Vu：cybersleuth25/Deja-Vu helps remove repetitive manual ope
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 43/100 |
 | integration | 34/100 |
-| production | 56/100 |
-| outlook | 52/100 |
+| production | 59/100 |
+| outlook | 55/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 38/100 |
 | sourceTrust | 70/100 |
 
 ---

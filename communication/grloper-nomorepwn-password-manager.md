@@ -54,7 +54,7 @@ grloper/NoMorePwn-Password-Manager：grloper/NoMorePwn-Password-Manager may be u
 
 - updated 2026-11-04
 - primary language: Python
-- 10 topics
+- 13 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

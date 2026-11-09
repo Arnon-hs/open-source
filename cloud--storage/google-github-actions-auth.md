@@ -56,7 +56,7 @@ google-github-actions/auth：google-github-actions/auth may be useful when its R
 - 306 forks
 - updated 2026-11-07
 - primary language: TypeScript
-- 9 topics
+- 16 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

@@ -1,6 +1,6 @@
 # aliaksandr-liapin/cloudarchitect-lite
 
-[![Stars](https://img.shields.io/github/stars/aliaksandr-liapin/cloudarchitect-lite?style=flat-square&color=yellow)](https://github.com/aliaksandr-liapin/cloudarchitect-lite/stargazers) [![Forks](https://img.shields.io/github/forks/aliaksandr-liapin/cloudarchitect-lite?style=flat-square&color=blue)](https://github.com/aliaksandr-liapin/cloudarchitect-lite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aliaksandr-liapin/cloudarchitect-lite?style=flat-square&color=yellow)](https://github.com/aliaksandr-liapin/cloudarchitect-lite/stargazers) [![Forks](https://img.shields.io/github/forks/aliaksandr-liapin/cloudarchitect-lite?style=flat-square&color=blue)](https://github.com/aliaksandr-liapin/cloudarchitect-lite/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Describe your app, get an AWS architecture checked against 25 rules, on your own key. Self-hosted.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ aliaksandr-liapin/cloudarchitect-lite：aliaksandr-liapin/cloudarchitect-lite he
 
 - updated 2026-11-04
 - primary language: TypeScript
-- 12 topics
+- 16 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,8 +65,8 @@ aliaksandr-liapin/cloudarchitect-lite：aliaksandr-liapin/cloudarchitect-lite he
 |---|---:|
 | usefulness | 74/100 |
 | quality | 45/100 |
-| integration | 62/100 |
-| production | 58/100 |
+| integration | 78/100 |
+| production | 61/100 |
 | outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |

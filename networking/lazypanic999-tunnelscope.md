@@ -1,6 +1,6 @@
 # lazypanic999/tunnelscope
 
-[![Stars](https://img.shields.io/github/stars/lazypanic999/tunnelscope?style=flat-square&color=yellow)](https://github.com/lazypanic999/tunnelscope/stargazers) [![Forks](https://img.shields.io/github/forks/lazypanic999/tunnelscope?style=flat-square&color=blue)](https://github.com/lazypanic999/tunnelscope/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lazypanic999/tunnelscope?style=flat-square&color=yellow)](https://github.com/lazypanic999/tunnelscope/stargazers) [![Forks](https://img.shields.io/github/forks/lazypanic999/tunnelscope?style=flat-square&color=blue)](https://github.com/lazypanic999/tunnelscope/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-based MTU and packet-size diagnostics for Linux. Python CLI, receiver correlation, and reproducible network labs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ lazypanic999/tunnelscope：lazypanic999/tunnelscope may be useful when its READM
 - 2 forks
 - updated 2026-11-08
 - primary language: Python
-- 6 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -64,16 +64,16 @@ lazypanic999/tunnelscope：lazypanic999/tunnelscope may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 50/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 63/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 8/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 12/100 |
 | recency | 100/100 |
-| topics | 75/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

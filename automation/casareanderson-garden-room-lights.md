@@ -55,7 +55,7 @@ casareanderson/garden-room-lights：casareanderson/garden-room-lights helps remo
 
 - updated 2026-10-12
 - primary language: Python
-- 7 topics
+- 11 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,16 +64,16 @@ casareanderson/garden-room-lights：casareanderson/garden-room-lights helps remo
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 39/100 |
+| quality | 41/100 |
 | integration | 46/100 |
-| production | 49/100 |
-| outlook | 48/100 |
+| production | 50/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

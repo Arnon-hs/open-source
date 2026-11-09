@@ -55,7 +55,7 @@ Dimoncelli/cold-jury：Dimoncelli/cold-jury helps catch security and privacy iss
 
 - updated 2026-11-08
 - primary language: JavaScript
-- 10 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

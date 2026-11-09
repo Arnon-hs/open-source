@@ -1,6 +1,6 @@
 # Illyism/awake
 
-[![Stars](https://img.shields.io/github/stars/Illyism/awake?style=flat-square&color=yellow)](https://github.com/Illyism/awake/stargazers) [![Forks](https://img.shields.io/github/forks/Illyism/awake?style=flat-square&color=blue)](https://github.com/Illyism/awake/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Illyism/awake?style=flat-square&color=yellow)](https://github.com/Illyism/awake/stargazers) [![Forks](https://img.shields.io/github/forks/Illyism/awake?style=flat-square&color=blue)](https://github.com/Illyism/awake/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Keep your MacBook awake with the lid closed — Control Center toggle, Menu Bar timer, CLI, instant screen lock, and 10% battery / 40°C backpack thermal guard
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ Illyism/awake：Illyism/awake helps add AI capability without starting from a bl
 - 3 GitHub stars
 - updated 2026-11-03
 - primary language: Swift
-- 20 topics
+- 24 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -66,8 +66,8 @@ Illyism/awake：Illyism/awake helps add AI capability without starting from a bl
 |---|---:|
 | usefulness | 90/100 |
 | quality | 50/100 |
-| integration | 46/100 |
-| production | 58/100 |
+| integration | 62/100 |
+| production | 60/100 |
 | outlook | 65/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 100/100 |

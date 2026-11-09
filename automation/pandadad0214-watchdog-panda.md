@@ -56,7 +56,7 @@ pandadad0214/Watchdog_Panda：pandadad0214/Watchdog_Panda helps remove repetitiv
 - 1 GitHub stars
 - updated 2026-11-06
 - primary language: Shell
-- 9 topics
+- 13 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

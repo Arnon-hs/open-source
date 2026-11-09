@@ -1,6 +1,6 @@
 # gutzerk/code_chroma
 
-[![Stars](https://img.shields.io/github/stars/gutzerk/code_chroma?style=flat-square&color=yellow)](https://github.com/gutzerk/code_chroma/stargazers) [![Forks](https://img.shields.io/github/forks/gutzerk/code_chroma?style=flat-square&color=blue)](https://github.com/gutzerk/code_chroma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gutzerk/code_chroma?style=flat-square&color=yellow)](https://github.com/gutzerk/code_chroma/stargazers) [![Forks](https://img.shields.io/github/forks/gutzerk/code_chroma?style=flat-square&color=blue)](https://github.com/gutzerk/code_chroma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ gutzerk/code_chroma：gutzerk/code_chroma helps remove repetitive manual operati
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -56,24 +56,25 @@ gutzerk/code_chroma：gutzerk/code_chroma helps remove repetitive manual operati
 - 5 GitHub stars
 - updated 2026-11-07
 - primary language: TypeScript
+- 4 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 41/100 |
+| usefulness | 58/100 |
+| quality | 48/100 |
 | integration | 34/100 |
-| production | 58/100 |
-| outlook | 53/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 12/100 |
 | categoryMatchCount | 300/100 |
 | stars | 17/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

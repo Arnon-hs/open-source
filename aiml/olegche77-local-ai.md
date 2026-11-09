@@ -1,6 +1,6 @@
 # OlegChe77/local-ai
 
-[![Stars](https://img.shields.io/github/stars/OlegChe77/local-ai?style=flat-square&color=yellow)](https://github.com/OlegChe77/local-ai/stargazers) [![Forks](https://img.shields.io/github/forks/OlegChe77/local-ai?style=flat-square&color=blue)](https://github.com/OlegChe77/local-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OlegChe77/local-ai?style=flat-square&color=yellow)](https://github.com/OlegChe77/local-ai/stargazers) [![Forks](https://img.shields.io/github/forks/OlegChe77/local-ai?style=flat-square&color=blue)](https://github.com/OlegChe77/local-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Свой ИИ-чат на вашем ПК в один клик: подбирает модель под железо, ставит Ollama и модель. Windows. / One-click local AI chat for Windows: picks a model for your hardware, installs Ollama.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -57,25 +57,25 @@ OlegChe77/local-ai：OlegChe77/local-ai helps add AI capability without starting
 - 1 forks
 - updated 2026-11-03
 - primary language: JavaScript
-- 5 topics
+- 8 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 55/100 |
+| quality | 50/100 |
+| integration | 62/100 |
+| production | 60/100 |
+| outlook | 59/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 200/100 |
 | stars | 10/100 |
 | forks | 8/100 |
 | recency | 80/100 |
-| topics | 63/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

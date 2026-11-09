@@ -1,6 +1,6 @@
 # andrew-d/rrsync
 
-[![Stars](https://img.shields.io/github/stars/andrew-d/rrsync?style=flat-square&color=yellow)](https://github.com/andrew-d/rrsync/stargazers) [![Forks](https://img.shields.io/github/forks/andrew-d/rrsync?style=flat-square&color=blue)](https://github.com/andrew-d/rrsync/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/andrew-d/rrsync?style=flat-square&color=yellow)](https://github.com/andrew-d/rrsync/stargazers) [![Forks](https://img.shields.io/github/forks/andrew-d/rrsync?style=flat-square&color=blue)](https://github.com/andrew-d/rrsync/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 24/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -52,7 +52,7 @@ andrew-d/rrsync：andrew-d/rrsync may be useful when its README and activity mat
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 7 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -60,17 +60,17 @@ andrew-d/rrsync：andrew-d/rrsync may be useful when its README and activity mat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 16/100 |
-| integration | 18/100 |
-| production | 27/100 |
-| outlook | 22/100 |
+| usefulness | 58/100 |
+| quality | 29/100 |
+| integration | 34/100 |
+| production | 34/100 |
+| outlook | 34/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 88/100 |
 | sourceTrust | 70/100 |
 
 ---

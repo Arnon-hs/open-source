@@ -57,7 +57,7 @@ ogasurfproject-jpg/horizon-shield：ogasurfproject-jpg/horizon-shield helps add 
 - 1 forks
 - updated 2026-09-06
 - primary language: HTML
-- 9 topics
+- 14 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 

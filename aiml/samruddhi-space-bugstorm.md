@@ -1,6 +1,6 @@
 # samruddhi-space/BugStorm
 
-[![Stars](https://img.shields.io/github/stars/samruddhi-space/BugStorm?style=flat-square&color=yellow)](https://github.com/samruddhi-space/BugStorm/stargazers) [![Forks](https://img.shields.io/github/forks/samruddhi-space/BugStorm?style=flat-square&color=blue)](https://github.com/samruddhi-space/BugStorm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samruddhi-space/BugStorm?style=flat-square&color=yellow)](https://github.com/samruddhi-space/BugStorm/stargazers) [![Forks](https://img.shields.io/github/forks/samruddhi-space/BugStorm?style=flat-square&color=blue)](https://github.com/samruddhi-space/BugStorm/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ samruddhi-space/BugStorm：samruddhi-space/BugStorm helps add AI capability with
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,6 +55,7 @@ samruddhi-space/BugStorm：samruddhi-space/BugStorm helps add AI capability with
 
 - updated 2026-11-07
 - primary language: Python
+- 4 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,17 +63,17 @@ samruddhi-space/BugStorm：samruddhi-space/BugStorm helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 36/100 |
+| usefulness | 74/100 |
+| quality | 43/100 |
 | integration | 34/100 |
-| production | 56/100 |
-| outlook | 50/100 |
+| production | 58/100 |
+| outlook | 62/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -1,6 +1,6 @@
 # brunopacheco1/praecepta
 
-[![Stars](https://img.shields.io/github/stars/brunopacheco1/praecepta?style=flat-square&color=yellow)](https://github.com/brunopacheco1/praecepta/stargazers) [![Forks](https://img.shields.io/github/forks/brunopacheco1/praecepta?style=flat-square&color=blue)](https://github.com/brunopacheco1/praecepta/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/brunopacheco1/praecepta?style=flat-square&color=yellow)](https://github.com/brunopacheco1/praecepta/stargazers) [![Forks](https://img.shields.io/github/forks/brunopacheco1/praecepta?style=flat-square&color=blue)](https://github.com/brunopacheco1/praecepta/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Praecepta evaluates DMN decision tables in Java, with strict DMN 1.3 hit-policy semantics and lookups that cost a fraction of a microsecond. Write tables in Excel, CSV, DMN or code; validate them when you build; evaluate them with a dependency-free engine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Java |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -53,25 +53,25 @@ brunopacheco1/praecepta：brunopacheco1/praecepta may be useful when its README 
 
 - updated 2026-11-07
 - primary language: Java
-- 5 topics
+- 8 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 51/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 57/100 |
+| production | 61/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 63/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -1,6 +1,6 @@
 # hyperframes/hyperframes
 
-[![Stars](https://img.shields.io/github/stars/hyperframes/hyperframes?style=flat-square&color=yellow)](https://github.com/hyperframes/hyperframes/stargazers) [![Forks](https://img.shields.io/github/forks/hyperframes/hyperframes?style=flat-square&color=blue)](https://github.com/hyperframes/hyperframes/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hyperframes/hyperframes?style=flat-square&color=yellow)](https://github.com/hyperframes/hyperframes/stargazers) [![Forks](https://img.shields.io/github/forks/hyperframes/hyperframes?style=flat-square&color=blue)](https://github.com/hyperframes/hyperframes/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-24 |
 | 🔍 **Source** | story-link |
 
@@ -56,6 +56,7 @@ hyperframes/hyperframes：hyperframes/hyperframes helps add AI capability withou
 - 5 GitHub stars
 - 2 forks
 - updated 2026-10-24
+- 4 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,17 +64,17 @@ hyperframes/hyperframes：hyperframes/hyperframes helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 32/100 |
+| usefulness | 58/100 |
+| quality | 40/100 |
 | integration | 18/100 |
-| production | 43/100 |
-| outlook | 40/100 |
+| production | 45/100 |
+| outlook | 48/100 |
 | adoption | 15/100 |
 | categoryMatchCount | 100/100 |
 | stars | 17/100 |
 | forks | 12/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

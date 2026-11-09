@@ -56,7 +56,7 @@ ansible/awx-operator：ansible/awx-operator may be useful when its README and ac
 - 719 forks
 - updated 2026-10-30
 - primary language: Jinja
-- 8 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

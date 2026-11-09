@@ -1,6 +1,6 @@
 # holistis/al-muqarin
 
-[![Stars](https://img.shields.io/github/stars/holistis/al-muqarin?style=flat-square&color=yellow)](https://github.com/holistis/al-muqarin/stargazers) [![Forks](https://img.shields.io/github/forks/holistis/al-muqarin?style=flat-square&color=blue)](https://github.com/holistis/al-muqarin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/holistis/al-muqarin?style=flat-square&color=yellow)](https://github.com/holistis/al-muqarin/stargazers) [![Forks](https://img.shields.io/github/forks/holistis/al-muqarin?style=flat-square&color=blue)](https://github.com/holistis/al-muqarin/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Compares claims about a supply chain with signed snapshots of public lists. Fail-closed, signed and dated receipts. Not an audit.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ holistis/al-muqarin：holistis/al-muqarin helps integrate monetization, billing,
 
 - updated 2026-11-08
 - primary language: JavaScript
-- 10 topics
+- 15 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
@@ -63,11 +63,11 @@ holistis/al-muqarin：holistis/al-muqarin helps integrate monetization, billing,
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
+| usefulness | 58/100 |
 | quality | 51/100 |
 | integration | 30/100 |
 | production | 61/100 |
-| outlook | 60/100 |
+| outlook | 64/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |

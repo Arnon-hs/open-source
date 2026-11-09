@@ -1,6 +1,6 @@
 # themsquared/confidence-routed-agents
 
-[![Stars](https://img.shields.io/github/stars/themsquared/confidence-routed-agents?style=flat-square&color=yellow)](https://github.com/themsquared/confidence-routed-agents/stargazers) [![Forks](https://img.shields.io/github/forks/themsquared/confidence-routed-agents?style=flat-square&color=blue)](https://github.com/themsquared/confidence-routed-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/themsquared/confidence-routed-agents?style=flat-square&color=yellow)](https://github.com/themsquared/confidence-routed-agents/stargazers) [![Forks](https://img.shields.io/github/forks/themsquared/confidence-routed-agents?style=flat-square&color=blue)](https://github.com/themsquared/confidence-routed-agents/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-01 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ themsquared/confidence-routed-agents：themsquared/confidence-routed-agents help
 
 - updated 2026-10-01
 - primary language: Python
-- 5 topics
+- 10 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,16 +64,16 @@ themsquared/confidence-routed-agents：themsquared/confidence-routed-agents help
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 30/100 |
+| quality | 36/100 |
 | integration | 66/100 |
-| production | 44/100 |
-| outlook | 42/100 |
+| production | 46/100 |
+| outlook | 46/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 63/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

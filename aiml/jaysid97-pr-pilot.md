@@ -1,6 +1,6 @@
 # jaysid97/pr-pilot
 
-[![Stars](https://img.shields.io/github/stars/jaysid97/pr-pilot?style=flat-square&color=yellow)](https://github.com/jaysid97/pr-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/jaysid97/pr-pilot?style=flat-square&color=blue)](https://github.com/jaysid97/pr-pilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaysid97/pr-pilot?style=flat-square&color=yellow)](https://github.com/jaysid97/pr-pilot/stargazers) [![Forks](https://img.shields.io/github/forks/jaysid97/pr-pilot?style=flat-square&color=blue)](https://github.com/jaysid97/pr-pilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > AI-powered PR reviews in Discord, powered by Switch + Antigravity. Built for the Flip the Switch Hackathon.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ jaysid97/pr-pilot：jaysid97/pr-pilot helps add AI capability without starting f
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,6 +55,7 @@ jaysid97/pr-pilot：jaysid97/pr-pilot helps add AI capability without starting f
 
 - updated 2026-11-03
 - primary language: Python
+- 4 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,17 +63,17 @@ jaysid97/pr-pilot：jaysid97/pr-pilot helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 31/100 |
+| usefulness | 58/100 |
+| quality | 38/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 43/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

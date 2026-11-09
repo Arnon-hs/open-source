@@ -1,6 +1,6 @@
 # kiri1101/create-nuxt-primevue
 
-[![Stars](https://img.shields.io/github/stars/kiri1101/create-nuxt-primevue?style=flat-square&color=yellow)](https://github.com/kiri1101/create-nuxt-primevue/stargazers) [![Forks](https://img.shields.io/github/forks/kiri1101/create-nuxt-primevue?style=flat-square&color=blue)](https://github.com/kiri1101/create-nuxt-primevue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kiri1101/create-nuxt-primevue?style=flat-square&color=yellow)](https://github.com/kiri1101/create-nuxt-primevue/stargazers) [![Forks](https://img.shields.io/github/forks/kiri1101/create-nuxt-primevue?style=flat-square&color=blue)](https://github.com/kiri1101/create-nuxt-primevue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -45,7 +45,7 @@ kiri1101/create-nuxt-primevue：kiri1101/create-nuxt-primevue may be useful when
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -53,24 +53,25 @@ kiri1101/create-nuxt-primevue：kiri1101/create-nuxt-primevue may be useful when
 
 - updated 2026-11-07
 - primary language: TypeScript
+- 9 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 51/100 |
 | integration | 34/100 |
-| production | 56/100 |
-| outlook | 50/100 |
+| production | 61/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

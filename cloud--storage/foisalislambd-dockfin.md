@@ -56,7 +56,7 @@ foisalislambd/dockfin：foisalislambd/dockfin may be useful when its README and 
 - 8 forks
 - updated 2026-11-02
 - primary language: Go
-- 15 topics
+- 19 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

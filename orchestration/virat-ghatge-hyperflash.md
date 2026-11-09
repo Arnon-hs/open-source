@@ -56,7 +56,7 @@ Virat-Ghatge/hyperflash：Virat-Ghatge/hyperflash helps turn isolated prompts an
 - 1 GitHub stars
 - updated 2026-11-07
 - primary language: Python
-- 20 topics
+- 24 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

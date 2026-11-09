@@ -1,6 +1,6 @@
 # allenai/state-bench
 
-[![Stars](https://img.shields.io/github/stars/allenai/state-bench?style=flat-square&color=yellow)](https://github.com/allenai/state-bench/stargazers) [![Forks](https://img.shields.io/github/forks/allenai/state-bench?style=flat-square&color=blue)](https://github.com/allenai/state-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/allenai/state-bench?style=flat-square&color=yellow)](https://github.com/allenai/state-bench/stargazers) [![Forks](https://img.shields.io/github/forks/allenai/state-bench?style=flat-square&color=blue)](https://github.com/allenai/state-bench/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -55,6 +55,7 @@ allenai/state-bench：allenai/state-bench may be useful when its README and acti
 - 1 forks
 - updated 2026-11-04
 - primary language: Python
+- 3 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ allenai/state-bench：allenai/state-bench may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 44/100 |
 | integration | 34/100 |
-| production | 52/100 |
-| outlook | 48/100 |
+| production | 54/100 |
+| outlook | 51/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 0/100 |
 | stars | 20/100 |
 | forks | 8/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 38/100 |
 | sourceTrust | 70/100 |
 
 ---

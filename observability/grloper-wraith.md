@@ -55,7 +55,7 @@ grloper/Wraith：grloper/Wraith helps make production behavior easier to inspect
 
 - updated 2026-11-04
 - primary language: Rust
-- 18 topics
+- 21 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

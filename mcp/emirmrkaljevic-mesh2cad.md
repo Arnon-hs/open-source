@@ -56,7 +56,7 @@ emirmrkaljevic/mesh2cad：emirmrkaljevic/mesh2cad helps connect AI assistants to
 - 8 GitHub stars
 - updated 2026-11-09
 - primary language: Python
-- 9 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

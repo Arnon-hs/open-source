@@ -55,7 +55,7 @@ Dogwind221/dwguard-dsh-hmos：Dogwind221/dwguard-dsh-hmos helps remove repetitiv
 
 - updated 2026-11-03
 - primary language: JavaScript
-- 8 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

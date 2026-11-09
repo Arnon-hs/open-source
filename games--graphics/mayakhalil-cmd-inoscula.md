@@ -53,7 +53,7 @@ mayakhalil-cmd/inoscula：mayakhalil-cmd/inoscula may be useful when its README 
 
 - updated 2026-11-04
 - primary language: TypeScript
-- 20 topics
+- 25 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

@@ -1,6 +1,6 @@
 # Africa-Deep-Tech-Foundation/adtc-profiler
 
-[![Stars](https://img.shields.io/github/stars/Africa-Deep-Tech-Foundation/adtc-profiler?style=flat-square&color=yellow)](https://github.com/Africa-Deep-Tech-Foundation/adtc-profiler/stargazers) [![Forks](https://img.shields.io/github/forks/Africa-Deep-Tech-Foundation/adtc-profiler?style=flat-square&color=blue)](https://github.com/Africa-Deep-Tech-Foundation/adtc-profiler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Africa-Deep-Tech-Foundation/adtc-profiler?style=flat-square&color=yellow)](https://github.com/Africa-Deep-Tech-Foundation/adtc-profiler/stargazers) [![Forks](https://img.shields.io/github/forks/Africa-Deep-Tech-Foundation/adtc-profiler?style=flat-square&color=blue)](https://github.com/Africa-Deep-Tech-Foundation/adtc-profiler/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 35 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-09-02 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ Africa-Deep-Tech-Foundation/adtc-profiler：Africa-Deep-Tech-Foundation/adtc-pro
 - improve search over documents
 - ground assistant answers
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -57,6 +57,7 @@ Africa-Deep-Tech-Foundation/adtc-profiler：Africa-Deep-Tech-Foundation/adtc-pro
 - 35 forks
 - updated 2026-09-02
 - primary language: Python
+- 5 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -65,16 +66,16 @@ Africa-Deep-Tech-Foundation/adtc-profiler：Africa-Deep-Tech-Foundation/adtc-pro
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 35/100 |
+| quality | 44/100 |
 | integration | 34/100 |
-| production | 41/100 |
-| outlook | 37/100 |
+| production | 44/100 |
+| outlook | 44/100 |
 | adoption | 32/100 |
 | categoryMatchCount | 100/100 |
 | stars | 29/100 |
 | forks | 39/100 |
 | recency | 40/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

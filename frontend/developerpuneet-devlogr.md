@@ -1,6 +1,6 @@
 # DeveloperPuneet/Devlogr
 
-[![Stars](https://img.shields.io/github/stars/DeveloperPuneet/Devlogr?style=flat-square&color=yellow)](https://github.com/DeveloperPuneet/Devlogr/stargazers) [![Forks](https://img.shields.io/github/forks/DeveloperPuneet/Devlogr?style=flat-square&color=blue)](https://github.com/DeveloperPuneet/Devlogr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DeveloperPuneet/Devlogr?style=flat-square&color=yellow)](https://github.com/DeveloperPuneet/Devlogr/stargazers) [![Forks](https://img.shields.io/github/forks/DeveloperPuneet/Devlogr?style=flat-square&color=blue)](https://github.com/DeveloperPuneet/Devlogr/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Devlogr is Puneet Kumar Mishra's animated developer portfolio, live GitHub project tracker, and blog — built as a classic MVC app with Express, MongoDB/Mongoose, and EJS. No frontend framework, no build step: just a fast server-rendered site with a genuinely cool, animated UI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-09-08 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ DeveloperPuneet/Devlogr：DeveloperPuneet/Devlogr helps ship user-facing interfa
 
 - updated 2026-09-08
 - primary language: JavaScript
-- 9 topics
+- 13 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,11 +63,11 @@ DeveloperPuneet/Devlogr：DeveloperPuneet/Devlogr helps ship user-facing interfa
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
+| usefulness | 90/100 |
 | quality | 36/100 |
 | integration | 46/100 |
 | production | 43/100 |
-| outlook | 46/100 |
+| outlook | 49/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |

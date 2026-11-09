@@ -57,7 +57,7 @@ circuitlab-app/circuitlab：circuitlab-app/circuitlab helps add AI capability wi
 - 7 forks
 - updated 2026-11-08
 - primary language: TypeScript
-- 20 topics
+- 22 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

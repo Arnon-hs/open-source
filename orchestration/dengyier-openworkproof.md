@@ -56,7 +56,7 @@ dengyier/OpenWorkProof：dengyier/OpenWorkProof helps turn isolated prompts and 
 - 263 GitHub stars
 - updated 2026-11-09
 - primary language: Python
-- 15 topics
+- 19 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

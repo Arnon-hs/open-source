@@ -57,7 +57,7 @@ lucalullo/building-ai-agent：lucalullo/building-ai-agent helps add AI capabilit
 - 1 forks
 - updated 2026-09-29
 - primary language: Jupyter Notebook
-- 7 topics
+- 11 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -66,16 +66,16 @@ lucalullo/building-ai-agent：lucalullo/building-ai-agent helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 41/100 |
+| quality | 43/100 |
 | integration | 46/100 |
-| production | 45/100 |
-| outlook | 49/100 |
+| production | 46/100 |
+| outlook | 50/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 100/100 |
 | stars | 20/100 |
 | forks | 8/100 |
 | recency | 40/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -1,6 +1,6 @@
 # XCPStudio/XVM
 
-[![Stars](https://img.shields.io/github/stars/XCPStudio/XVM?style=flat-square&color=yellow)](https://github.com/XCPStudio/XVM/stargazers) [![Forks](https://img.shields.io/github/forks/XCPStudio/XVM?style=flat-square&color=blue)](https://github.com/XCPStudio/XVM/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/XCPStudio/XVM?style=flat-square&color=yellow)](https://github.com/XCPStudio/XVM/stargazers) [![Forks](https://img.shields.io/github/forks/XCPStudio/XVM?style=flat-square&color=blue)](https://github.com/XCPStudio/XVM/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-26%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 24/100 |
+| 📈 **Score** | 26/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ XCPStudio/XVM：XCPStudio/XVM helps add AI capability without starting from a bl
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 3 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,16 +62,16 @@ XCPStudio/XVM：XCPStudio/XVM helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 16/100 |
+| quality | 21/100 |
 | integration | 18/100 |
-| production | 27/100 |
-| outlook | 22/100 |
+| production | 29/100 |
+| outlook | 26/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 38/100 |
 | sourceTrust | 70/100 |
 
 ---

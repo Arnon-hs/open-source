@@ -1,6 +1,6 @@
 # peakfo/BrowserUse
 
-[![Stars](https://img.shields.io/github/stars/peakfo/BrowserUse?style=flat-square&color=yellow)](https://github.com/peakfo/BrowserUse/stargazers) [![Forks](https://img.shields.io/github/forks/peakfo/BrowserUse?style=flat-square&color=blue)](https://github.com/peakfo/BrowserUse/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/peakfo/BrowserUse?style=flat-square&color=yellow)](https://github.com/peakfo/BrowserUse/stargazers) [![Forks](https://img.shields.io/github/forks/peakfo/BrowserUse?style=flat-square&color=blue)](https://github.com/peakfo/BrowserUse/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 24/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -47,13 +47,13 @@ peakfo/BrowserUse：peakfo/BrowserUse helps remove repetitive manual operations 
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 6 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -61,17 +61,17 @@ peakfo/BrowserUse：peakfo/BrowserUse helps remove repetitive manual operations 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 16/100 |
-| integration | 18/100 |
-| production | 27/100 |
-| outlook | 22/100 |
+| usefulness | 74/100 |
+| quality | 27/100 |
+| integration | 34/100 |
+| production | 33/100 |
+| outlook | 36/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

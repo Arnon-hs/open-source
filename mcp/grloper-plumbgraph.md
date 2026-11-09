@@ -55,7 +55,7 @@ grloper/plumbgraph：grloper/plumbgraph helps connect AI assistants to real tool
 
 - updated 2026-11-04
 - primary language: Rust
-- 15 topics
+- 20 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

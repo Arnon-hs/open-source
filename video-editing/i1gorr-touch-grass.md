@@ -1,6 +1,6 @@
 # I1gorr/touch_grass
 
-[![Stars](https://img.shields.io/github/stars/I1gorr/touch_grass?style=flat-square&color=yellow)](https://github.com/I1gorr/touch_grass/stargazers) [![Forks](https://img.shields.io/github/forks/I1gorr/touch_grass?style=flat-square&color=blue)](https://github.com/I1gorr/touch_grass/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/I1gorr/touch_grass?style=flat-square&color=yellow)](https://github.com/I1gorr/touch_grass/stargazers) [![Forks](https://img.shields.io/github/forks/I1gorr/touch_grass?style=flat-square&color=blue)](https://github.com/I1gorr/touch_grass/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ I1gorr/touch_grass：I1gorr/touch_grass helps turn media editing, captions, rend
 - generate subtitles or dubbing
 - build repeatable media-processing pipelines
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -55,6 +55,7 @@ I1gorr/touch_grass：I1gorr/touch_grass helps turn media editing, captions, rend
 
 - updated 2026-10-12
 - primary language: TypeScript
+- 5 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ I1gorr/touch_grass：I1gorr/touch_grass helps turn media editing, captions, rend
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 26/100 |
+| quality | 35/100 |
 | integration | 50/100 |
-| production | 45/100 |
-| outlook | 36/100 |
+| production | 48/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

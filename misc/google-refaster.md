@@ -1,6 +1,6 @@
 # google/Refaster
 
-[![Stars](https://img.shields.io/github/stars/google/Refaster?style=flat-square&color=yellow)](https://github.com/google/Refaster/stargazers) [![Forks](https://img.shields.io/github/forks/google/Refaster?style=flat-square&color=blue)](https://github.com/google/Refaster/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/Refaster?style=flat-square&color=yellow)](https://github.com/google/Refaster/stargazers) [![Forks](https://img.shields.io/github/forks/google/Refaster?style=flat-square&color=blue)](https://github.com/google/Refaster/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 56 |
 | 🍴 **Forks** | 10 |
 | 💻 **Language** | Java |
-| 📈 **Score** | 35/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-07-21 |
 | 🔍 **Source** | story-link |
 
@@ -45,7 +45,7 @@ google/Refaster：google/Refaster may be useful when its README and activity mat
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -55,6 +55,7 @@ google/Refaster：google/Refaster may be useful when its README and activity mat
 - 10 forks
 - updated 2026-07-21
 - primary language: Java
+- 5 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ google/Refaster：google/Refaster may be useful when its README and activity mat
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 31/100 |
+| quality | 40/100 |
 | integration | 34/100 |
-| production | 35/100 |
-| outlook | 31/100 |
+| production | 38/100 |
+| outlook | 37/100 |
 | adoption | 34/100 |
 | categoryMatchCount | 0/100 |
 | stars | 37/100 |
 | forks | 26/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

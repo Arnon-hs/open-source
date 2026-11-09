@@ -1,6 +1,6 @@
 # stackscribe-ai/coding-agent-audit
 
-[![Stars](https://img.shields.io/github/stars/stackscribe-ai/coding-agent-audit?style=flat-square&color=yellow)](https://github.com/stackscribe-ai/coding-agent-audit/stargazers) [![Forks](https://img.shields.io/github/forks/stackscribe-ai/coding-agent-audit?style=flat-square&color=blue)](https://github.com/stackscribe-ai/coding-agent-audit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/stackscribe-ai/coding-agent-audit?style=flat-square&color=yellow)](https://github.com/stackscribe-ai/coding-agent-audit/stargazers) [![Forks](https://img.shields.io/github/forks/stackscribe-ai/coding-agent-audit?style=flat-square&color=blue)](https://github.com/stackscribe-ai/coding-agent-audit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > CLI scanner for known AI-coding-assistant supply-chain backdoor indicators and risky Claude Code and MCP config patterns. MIT, AI-disclosed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ stackscribe-ai/coding-agent-audit：stackscribe-ai/coding-agent-audit helps catc
 
 - updated 2026-11-02
 - primary language: Python
-- 8 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -63,11 +63,11 @@ stackscribe-ai/coding-agent-audit：stackscribe-ai/coding-agent-audit helps catc
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
+| usefulness | 100/100 |
 | quality | 45/100 |
 | integration | 78/100 |
 | production | 61/100 |
-| outlook | 63/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |

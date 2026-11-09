@@ -1,6 +1,6 @@
 # endtoend-ai/Company-Brain
 
-[![Stars](https://img.shields.io/github/stars/endtoend-ai/Company-Brain?style=flat-square&color=yellow)](https://github.com/endtoend-ai/Company-Brain/stargazers) [![Forks](https://img.shields.io/github/forks/endtoend-ai/Company-Brain?style=flat-square&color=blue)](https://github.com/endtoend-ai/Company-Brain/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/endtoend-ai/Company-Brain?style=flat-square&color=yellow)](https://github.com/endtoend-ai/Company-Brain/stargazers) [![Forks](https://img.shields.io/github/forks/endtoend-ai/Company-Brain?style=flat-square&color=blue)](https://github.com/endtoend-ai/Company-Brain/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Company Brain — knowledge-graph RAG over your own documents, with typed links and a dream cycle
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ endtoend-ai/Company-Brain：endtoend-ai/Company-Brain helps make internal knowle
 
 - updated 2026-11-07
 - primary language: TypeScript
-- 6 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -63,17 +63,17 @@ endtoend-ai/Company-Brain：endtoend-ai/Company-Brain helps make internal knowle
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 47/100 |
+| usefulness | 90/100 |
+| quality | 51/100 |
 | integration | 46/100 |
-| production | 61/100 |
-| outlook | 61/100 |
+| production | 63/100 |
+| outlook | 70/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 75/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

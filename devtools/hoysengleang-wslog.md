@@ -1,6 +1,6 @@
 # hoysengleang/wslog
 
-[![Stars](https://img.shields.io/github/stars/hoysengleang/wslog?style=flat-square&color=yellow)](https://github.com/hoysengleang/wslog/stargazers) [![Forks](https://img.shields.io/github/forks/hoysengleang/wslog?style=flat-square&color=blue)](https://github.com/hoysengleang/wslog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoysengleang/wslog?style=flat-square&color=yellow)](https://github.com/hoysengleang/wslog/stargazers) [![Forks](https://img.shields.io/github/forks/hoysengleang/wslog?style=flat-square&color=blue)](https://github.com/hoysengleang/wslog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > wslog
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ hoysengleang/wslog：hoysengleang/wslog helps engineers save time in daily devel
 - automate local engineering tasks
 - improve CI feedback
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,6 +55,7 @@ hoysengleang/wslog：hoysengleang/wslog helps engineers save time in daily devel
 
 - updated 2026-11-01
 - primary language: TypeScript
+- 5 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ hoysengleang/wslog：hoysengleang/wslog helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 31/100 |
+| quality | 40/100 |
 | integration | 46/100 |
-| production | 51/100 |
-| outlook | 43/100 |
+| production | 54/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -1,6 +1,6 @@
 # zhoutk/mcp-cpp
 
-[![Stars](https://img.shields.io/github/stars/zhoutk/mcp-cpp?style=flat-square&color=yellow)](https://github.com/zhoutk/mcp-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/zhoutk/mcp-cpp?style=flat-square&color=blue)](https://github.com/zhoutk/mcp-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zhoutk/mcp-cpp?style=flat-square&color=yellow)](https://github.com/zhoutk/mcp-cpp/stargazers) [![Forks](https://img.shields.io/github/forks/zhoutk/mcp-cpp?style=flat-square&color=blue)](https://github.com/zhoutk/mcp-cpp/network) [![Language](https://img.shields.io/badge/lang-C%2B%2B-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C++ |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ zhoutk/mcp-cpp：zhoutk/mcp-cpp helps connect AI assistants to real tools and da
 - ship Model Context Protocol servers
 - standardize integrations
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -55,6 +55,7 @@ zhoutk/mcp-cpp：zhoutk/mcp-cpp helps connect AI assistants to real tools and da
 
 - updated 2026-10-16
 - primary language: C++
+- 7 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,17 +63,17 @@ zhoutk/mcp-cpp：zhoutk/mcp-cpp helps connect AI assistants to real tools and da
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 26/100 |
-| integration | 34/100 |
-| production | 43/100 |
-| outlook | 40/100 |
+| usefulness | 74/100 |
+| quality | 39/100 |
+| integration | 50/100 |
+| production | 50/100 |
+| outlook | 52/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 88/100 |
 | sourceTrust | 70/100 |
 
 ---

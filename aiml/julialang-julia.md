@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 48.7k |
-| 🍴 **Forks** | 5.8k |
+| ⭐ **Stars** | 49.2k |
+| 🍴 **Forks** | 6k |
 | 💻 **Language** | Julia |
 | 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-05 |

@@ -56,7 +56,7 @@ samyyy2423/folio：samyyy2423/folio helps engineers save time in daily developme
 - 1 GitHub stars
 - updated 2026-11-09
 - primary language: JavaScript
-- 13 topics
+- 20 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

@@ -1,6 +1,6 @@
 # Dishant27/mcp-server-starter
 
-[![Stars](https://img.shields.io/github/stars/Dishant27/mcp-server-starter?style=flat-square&color=yellow)](https://github.com/Dishant27/mcp-server-starter/stargazers) [![Forks](https://img.shields.io/github/forks/Dishant27/mcp-server-starter?style=flat-square&color=blue)](https://github.com/Dishant27/mcp-server-starter/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dishant27/mcp-server-starter?style=flat-square&color=yellow)](https://github.com/Dishant27/mcp-server-starter/stargazers) [![Forks](https://img.shields.io/github/forks/Dishant27/mcp-server-starter?style=flat-square&color=blue)](https://github.com/Dishant27/mcp-server-starter/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Production-ready TypeScript starter for MCP servers: SDK 1.x, stdio transport, stderr-only logging, zod-validated tools, safe API-key handling, CI and MIT license.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -54,25 +54,25 @@ Dishant27/mcp-server-starter：Dishant27/mcp-server-starter helps connect AI ass
 **Quality signals**
 
 - updated 2026-11-02
-- 4 topics
+- 9 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 38/100 |
+| quality | 45/100 |
 | integration | 100/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 64/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 50/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

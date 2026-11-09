@@ -1,6 +1,6 @@
 # dk-labs-dev/flightpath
 
-[![Stars](https://img.shields.io/github/stars/dk-labs-dev/flightpath?style=flat-square&color=yellow)](https://github.com/dk-labs-dev/flightpath/stargazers) [![Forks](https://img.shields.io/github/forks/dk-labs-dev/flightpath?style=flat-square&color=blue)](https://github.com/dk-labs-dev/flightpath/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dk-labs-dev/flightpath?style=flat-square&color=yellow)](https://github.com/dk-labs-dev/flightpath/stargazers) [![Forks](https://img.shields.io/github/forks/dk-labs-dev/flightpath?style=flat-square&color=blue)](https://github.com/dk-labs-dev/flightpath/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Records every Claude Code session live, draws the journey as a map, and coaches the next session.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ dk-labs-dev/flightpath：dk-labs-dev/flightpath helps remove repetitive manual o
 - 3 GitHub stars
 - updated 2026-11-09
 - primary language: TypeScript
-- 14 topics
+- 18 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -64,11 +64,11 @@ dk-labs-dev/flightpath：dk-labs-dev/flightpath helps remove repetitive manual o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
+| usefulness | 74/100 |
 | quality | 55/100 |
 | integration | 62/100 |
 | production | 67/100 |
-| outlook | 66/100 |
+| outlook | 69/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 400/100 |
 | stars | 13/100 |

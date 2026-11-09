@@ -1,6 +1,6 @@
 # ESeungJun/fix-proposal
 
-[![Stars](https://img.shields.io/github/stars/ESeungJun/fix-proposal?style=flat-square&color=yellow)](https://github.com/ESeungJun/fix-proposal/stargazers) [![Forks](https://img.shields.io/github/forks/ESeungJun/fix-proposal?style=flat-square&color=blue)](https://github.com/ESeungJun/fix-proposal/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ESeungJun/fix-proposal?style=flat-square&color=yellow)](https://github.com/ESeungJun/fix-proposal/stargazers) [![Forks](https://img.shields.io/github/forks/ESeungJun/fix-proposal?style=flat-square&color=blue)](https://github.com/ESeungJun/fix-proposal/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Claude Code skill: bug reports and fix proposals that say where, how, what improves and what to expect — then verify every promise with an as-is / to-be checklist · 버그·개선 제안을 네 칸으로, 고친 뒤엔 실측 체크리스트로
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -56,25 +56,25 @@ ESeungJun/fix-proposal：ESeungJun/fix-proposal helps add AI capability without 
 - 1 GitHub stars
 - updated 2026-11-06
 - primary language: JavaScript
-- 4 topics
+- 9 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 40/100 |
+| usefulness | 74/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
+| production | 55/100 |
+| outlook | 61/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 50/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

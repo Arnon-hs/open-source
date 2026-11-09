@@ -54,7 +54,7 @@ Arthur031221/OohAlive：Arthur031221/OohAlive may be useful when its README and 
 
 - updated 2026-10-09
 - primary language: JavaScript
-- 7 topics
+- 12 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +63,16 @@ Arthur031221/OohAlive：Arthur031221/OohAlive may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 34/100 |
+| quality | 36/100 |
 | integration | 46/100 |
-| production | 42/100 |
-| outlook | 41/100 |
+| production | 43/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

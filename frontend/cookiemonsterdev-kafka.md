@@ -1,6 +1,6 @@
 # cookieMonsterDev/kafka
 
-[![Stars](https://img.shields.io/github/stars/cookieMonsterDev/kafka?style=flat-square&color=yellow)](https://github.com/cookieMonsterDev/kafka/stargazers) [![Forks](https://img.shields.io/github/forks/cookieMonsterDev/kafka?style=flat-square&color=blue)](https://github.com/cookieMonsterDev/kafka/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cookieMonsterDev/kafka?style=flat-square&color=yellow)](https://github.com/cookieMonsterDev/kafka/stargazers) [![Forks](https://img.shields.io/github/forks/cookieMonsterDev/kafka?style=flat-square&color=blue)](https://github.com/cookieMonsterDev/kafka/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > A modern Apache Kafka client for node.js
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ cookieMonsterDev/kafka：cookieMonsterDev/kafka helps ship user-facing interface
 - reuse interface components
 - improve frontend delivery
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -56,7 +56,7 @@ cookieMonsterDev/kafka：cookieMonsterDev/kafka helps ship user-facing interface
 - 6 GitHub stars
 - updated 2026-11-08
 - primary language: TypeScript
-- 3 topics
+- 7 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,16 +65,16 @@ cookieMonsterDev/kafka：cookieMonsterDev/kafka helps ship user-facing interface
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 47/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 64/100 |
-| outlook | 61/100 |
+| production | 66/100 |
+| outlook | 66/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 200/100 |
 | stars | 18/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 38/100 |
+| topics | 88/100 |
 | sourceTrust | 70/100 |
 
 ---

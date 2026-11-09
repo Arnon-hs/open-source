@@ -57,7 +57,7 @@ sarathsp06/sparrow：sarathsp06/sparrow helps teams reuse working workflows and 
 - 2 forks
 - updated 2026-11-03
 - primary language: Go
-- 9 topics
+- 13 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

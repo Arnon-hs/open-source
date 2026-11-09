@@ -1,6 +1,6 @@
 # bhgo0114050-cpu/my-first-ai-app
 
-[![Stars](https://img.shields.io/github/stars/bhgo0114050-cpu/my-first-ai-app?style=flat-square&color=yellow)](https://github.com/bhgo0114050-cpu/my-first-ai-app/stargazers) [![Forks](https://img.shields.io/github/forks/bhgo0114050-cpu/my-first-ai-app?style=flat-square&color=blue)](https://github.com/bhgo0114050-cpu/my-first-ai-app/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bhgo0114050-cpu/my-first-ai-app?style=flat-square&color=yellow)](https://github.com/bhgo0114050-cpu/my-first-ai-app/stargazers) [![Forks](https://img.shields.io/github/forks/bhgo0114050-cpu/my-first-ai-app?style=flat-square&color=blue)](https://github.com/bhgo0114050-cpu/my-first-ai-app/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 30/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | 2026-10-04 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ bhgo0114050-cpu/my-first-ai-app：bhgo0114050-cpu/my-first-ai-app helps add AI c
 - build RAG or agent workflows
 - evaluate model tooling
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
@@ -55,6 +55,7 @@ bhgo0114050-cpu/my-first-ai-app：bhgo0114050-cpu/my-first-ai-app helps add AI c
 
 - updated 2026-10-04
 - primary language: HTML
+- 4 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ bhgo0114050-cpu/my-first-ai-app：bhgo0114050-cpu/my-first-ai-app helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 21/100 |
+| quality | 28/100 |
 | integration | 34/100 |
-| production | 36/100 |
-| outlook | 29/100 |
+| production | 39/100 |
+| outlook | 34/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

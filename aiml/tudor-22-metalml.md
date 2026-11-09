@@ -56,7 +56,7 @@ tudor-22/MetalML：tudor-22/MetalML helps add AI capability without starting fro
 - 5 GitHub stars
 - updated 2026-11-06
 - primary language: Python
-- 20 topics
+- 21 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

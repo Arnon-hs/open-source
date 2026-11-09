@@ -1,6 +1,6 @@
 # BenniAlencar/agent-browser-mesh
 
-[![Stars](https://img.shields.io/github/stars/BenniAlencar/agent-browser-mesh?style=flat-square&color=yellow)](https://github.com/BenniAlencar/agent-browser-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/BenniAlencar/agent-browser-mesh?style=flat-square&color=blue)](https://github.com/BenniAlencar/agent-browser-mesh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BenniAlencar/agent-browser-mesh?style=flat-square&color=yellow)](https://github.com/BenniAlencar/agent-browser-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/BenniAlencar/agent-browser-mesh?style=flat-square&color=blue)](https://github.com/BenniAlencar/agent-browser-mesh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > High-speed, zero-token-waste autonomous browser engine with semantic DOM-Delta compaction, anti-injection guardrails, and native MCP server for AI agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ BenniAlencar/agent-browser-mesh：BenniAlencar/agent-browser-mesh helps connect 
 - ship Model Context Protocol servers
 - standardize integrations
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -56,6 +56,7 @@ BenniAlencar/agent-browser-mesh：BenniAlencar/agent-browser-mesh helps connect 
 - 1 GitHub stars
 - updated 2026-11-03
 - primary language: Python
+- 5 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,17 +64,17 @@ BenniAlencar/agent-browser-mesh：BenniAlencar/agent-browser-mesh helps connect 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 33/100 |
+| usefulness | 90/100 |
+| quality | 42/100 |
 | integration | 62/100 |
-| production | 54/100 |
-| outlook | 51/100 |
+| production | 57/100 |
+| outlook | 60/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 300/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 63/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -55,7 +55,7 @@ bayuh85/vetskill：bayuh85/vetskill helps turn isolated prompts and tools into r
 
 - updated 2026-10-27
 - primary language: Python
-- 12 topics
+- 17 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

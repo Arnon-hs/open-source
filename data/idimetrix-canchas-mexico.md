@@ -55,7 +55,7 @@ idimetrix/canchas-mexico：idimetrix/canchas-mexico helps convert raw data into 
 
 - updated 2026-11-05
 - primary language: TypeScript
-- 8 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

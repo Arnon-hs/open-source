@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Security
+Trading · AI/ML · Communication · Frontend · Mobile
 
 ## 📝 Summary
 
 ### English
 
-VardumTechnology/Vardum: VardumTechnology/Vardum helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+VardumTechnology/Vardum: VardumTechnology/Vardum helps research and automate market workflows.. Use it for research trading systems; backtest strategies. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-VardumTechnology/Vardum: open-source проект в категориях Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+VardumTechnology/Vardum: open-source проект в категориях Trading, AI/ML, Communication, Frontend, Mobile. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-VardumTechnology/Vardum：VardumTechnology/Vardum helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+VardumTechnology/Vardum：VardumTechnology/Vardum helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** VardumTechnology/Vardum helps catch security and privacy issues earlier in the workflow.
+**Value:** VardumTechnology/Vardum helps research and automate market workflows.
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
-- audit risk earlier
+- research trading systems
+- backtest strategies
+- monitor market workflows
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -56,7 +56,7 @@ VardumTechnology/Vardum：VardumTechnology/Vardum helps catch security and priva
 - 1 GitHub stars
 - updated 2026-10-22
 - primary language: TypeScript
-- 12 topics
+- 14 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,19 +64,19 @@ VardumTechnology/Vardum：VardumTechnology/Vardum helps catch security and priva
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 43/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 43/100 |
+| recency | 60/100 |
+| adoption | 5/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-02 · [View on GitHub](https://github.com/VardumTechnology/Vardum) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-02 · [View on GitHub](https://github.com/VardumTechnology/Vardum) · [← Back to Trading](./README.md)</sub>

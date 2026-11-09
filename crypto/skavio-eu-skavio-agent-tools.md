@@ -54,7 +54,7 @@ skavio-eu/skavio-agent-tools：skavio-eu/skavio-agent-tools helps prototype or i
 **Quality signals**
 
 - updated 2026-11-06
-- 13 topics
+- 17 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

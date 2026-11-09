@@ -56,7 +56,7 @@ Thanksgiver233/nanoMuse：Thanksgiver233/nanoMuse helps remove repetitive manual
 - 1 GitHub stars
 - updated 2026-11-09
 - primary language: Swift
-- 10 topics
+- 13 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

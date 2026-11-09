@@ -56,7 +56,7 @@ doujiaozh/omni-web-mcp：doujiaozh/omni-web-mcp helps connect AI assistants to r
 - 1 GitHub stars
 - updated 2026-11-07
 - primary language: JavaScript
-- 8 topics
+- 10 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

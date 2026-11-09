@@ -1,6 +1,6 @@
 # incadawr/anycode
 
-[![Stars](https://img.shields.io/github/stars/incadawr/anycode?style=flat-square&color=yellow)](https://github.com/incadawr/anycode/stargazers) [![Forks](https://img.shields.io/github/forks/incadawr/anycode?style=flat-square&color=blue)](https://github.com/incadawr/anycode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/incadawr/anycode?style=flat-square&color=yellow)](https://github.com/incadawr/anycode/stargazers) [![Forks](https://img.shields.io/github/forks/incadawr/anycode?style=flat-square&color=blue)](https://github.com/incadawr/anycode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source desktop workspace for AI coding agents. Run Claude Code, Codex, or AnyCode's own agent on GLM, Kimi, MiniMax, DeepSeek, OpenRouter, OpenCode Go or any OpenAI/Anthropic-compatible endpoint. One UI for transcript, approvals, subagents, MCP, previews and Git review. Bring your own subscription. macOS, Windows, Linux.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -57,7 +57,7 @@ incadawr/anycode：incadawr/anycode helps turn isolated prompts and tools into r
 - 1 forks
 - updated 2026-11-07
 - primary language: TypeScript
-- 12 topics
+- 17 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,11 +65,11 @@ incadawr/anycode：incadawr/anycode helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
+| usefulness | 100/100 |
 | quality | 54/100 |
-| integration | 78/100 |
-| production | 68/100 |
-| outlook | 72/100 |
+| integration | 94/100 |
+| production | 71/100 |
+| outlook | 74/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |

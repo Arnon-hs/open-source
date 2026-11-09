@@ -1,6 +1,6 @@
 # lvaoliveira/sonda
 
-[![Stars](https://img.shields.io/github/stars/lvaoliveira/sonda?style=flat-square&color=yellow)](https://github.com/lvaoliveira/sonda/stargazers) [![Forks](https://img.shields.io/github/forks/lvaoliveira/sonda?style=flat-square&color=blue)](https://github.com/lvaoliveira/sonda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lvaoliveira/sonda?style=flat-square&color=yellow)](https://github.com/lvaoliveira/sonda/stargazers) [![Forks](https://img.shields.io/github/forks/lvaoliveira/sonda?style=flat-square&color=blue)](https://github.com/lvaoliveira/sonda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source static analysis and quality gates for JavaScript/TypeScript, Python, Java and C/C++
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ lvaoliveira/sonda：lvaoliveira/sonda helps make deployment and operations more 
 - automate operations
 - improve platform reliability
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -56,24 +56,25 @@ lvaoliveira/sonda：lvaoliveira/sonda helps make deployment and operations more 
 - 7 GitHub stars
 - updated 2026-11-07
 - primary language: Rust
+- 4 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 42/100 |
-| integration | 62/100 |
-| production | 62/100 |
-| outlook | 54/100 |
+| usefulness | 58/100 |
+| quality | 49/100 |
+| integration | 78/100 |
+| production | 67/100 |
+| outlook | 62/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 100/100 |
 | stars | 19/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 50/100 |
 | sourceTrust | 70/100 |
 
 ---

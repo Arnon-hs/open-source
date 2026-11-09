@@ -56,7 +56,7 @@ ESeungJun/droidlens：ESeungJun/droidlens helps remove repetitive manual operati
 - 5 GitHub stars
 - updated 2026-11-01
 - primary language: TypeScript
-- 13 topics
+- 15 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

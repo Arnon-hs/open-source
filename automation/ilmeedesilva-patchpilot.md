@@ -1,6 +1,6 @@
 # ilmeedesilva/patchpilot
 
-[![Stars](https://img.shields.io/github/stars/ilmeedesilva/patchpilot?style=flat-square&color=yellow)](https://github.com/ilmeedesilva/patchpilot/stargazers) [![Forks](https://img.shields.io/github/forks/ilmeedesilva/patchpilot?style=flat-square&color=blue)](https://github.com/ilmeedesilva/patchpilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ilmeedesilva/patchpilot?style=flat-square&color=yellow)](https://github.com/ilmeedesilva/patchpilot/stargazers) [![Forks](https://img.shields.io/github/forks/ilmeedesilva/patchpilot?style=flat-square&color=blue)](https://github.com/ilmeedesilva/patchpilot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > An AI agent that upgrades your dependencies, fixes what breaks, and opens a PR
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -55,25 +55,25 @@ ilmeedesilva/patchpilot：ilmeedesilva/patchpilot helps remove repetitive manual
 
 - updated 2026-10-30
 - primary language: Python
-- 5 topics
+- 10 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 40/100 |
+| usefulness | 90/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 56/100 |
+| production | 56/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 63/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

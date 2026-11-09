@@ -1,6 +1,6 @@
 # utkarshxdev/pixel-perfect-cloner
 
-[![Stars](https://img.shields.io/github/stars/utkarshxdev/pixel-perfect-cloner?style=flat-square&color=yellow)](https://github.com/utkarshxdev/pixel-perfect-cloner/stargazers) [![Forks](https://img.shields.io/github/forks/utkarshxdev/pixel-perfect-cloner?style=flat-square&color=blue)](https://github.com/utkarshxdev/pixel-perfect-cloner/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/utkarshxdev/pixel-perfect-cloner?style=flat-square&color=yellow)](https://github.com/utkarshxdev/pixel-perfect-cloner/stargazers) [![Forks](https://img.shields.io/github/forks/utkarshxdev/pixel-perfect-cloner?style=flat-square&color=blue)](https://github.com/utkarshxdev/pixel-perfect-cloner/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > The end-to-end master protocol for coding agents to clone modern, interactive, and WebGL-driven websites pixel-perfectly
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -56,7 +56,7 @@ utkarshxdev/pixel-perfect-cloner：utkarshxdev/pixel-perfect-cloner helps add AI
 - 1 GitHub stars
 - updated 2026-11-09
 - primary language: JavaScript
-- 6 topics
+- 9 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
@@ -65,16 +65,16 @@ utkarshxdev/pixel-perfect-cloner：utkarshxdev/pixel-perfect-cloner helps add AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 53/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 61/100 |
+| outlook | 65/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 75/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -1,6 +1,6 @@
 # atokim4/vibe-preflight
 
-[![Stars](https://img.shields.io/github/stars/atokim4/vibe-preflight?style=flat-square&color=yellow)](https://github.com/atokim4/vibe-preflight/stargazers) [![Forks](https://img.shields.io/github/forks/atokim4/vibe-preflight?style=flat-square&color=blue)](https://github.com/atokim4/vibe-preflight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atokim4/vibe-preflight?style=flat-square&color=yellow)](https://github.com/atokim4/vibe-preflight/stargazers) [![Forks](https://img.shields.io/github/forks/atokim4/vibe-preflight?style=flat-square&color=blue)](https://github.com/atokim4/vibe-preflight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skill + zero-dependency scanner: 6 pre-launch security checks for Supabase + Stripe apps (RLS, service_role, NEXT_PUBLIC_ secrets, Stripe webhooks, .env in git)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ atokim4/vibe-preflight：atokim4/vibe-preflight helps catch security and privacy
 - add auth or privacy controls
 - audit risk earlier
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,7 +55,7 @@ atokim4/vibe-preflight：atokim4/vibe-preflight helps catch security and privacy
 
 - updated 2026-11-07
 - primary language: TypeScript
-- 10 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,8 +65,8 @@ atokim4/vibe-preflight：atokim4/vibe-preflight helps catch security and privacy
 |---|---:|
 | usefulness | 58/100 |
 | quality | 51/100 |
-| integration | 46/100 |
-| production | 63/100 |
+| integration | 62/100 |
+| production | 65/100 |
 | outlook | 64/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |

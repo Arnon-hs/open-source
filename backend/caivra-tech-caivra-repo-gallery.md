@@ -1,6 +1,6 @@
 # caivra-tech/caivra-repo-gallery
 
-[![Stars](https://img.shields.io/github/stars/caivra-tech/caivra-repo-gallery?style=flat-square&color=yellow)](https://github.com/caivra-tech/caivra-repo-gallery/stargazers) [![Forks](https://img.shields.io/github/forks/caivra-tech/caivra-repo-gallery?style=flat-square&color=blue)](https://github.com/caivra-tech/caivra-repo-gallery/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caivra-tech/caivra-repo-gallery?style=flat-square&color=yellow)](https://github.com/caivra-tech/caivra-repo-gallery/stargazers) [![Forks](https://img.shields.io/github/forks/caivra-tech/caivra-repo-gallery?style=flat-square&color=blue)](https://github.com/caivra-tech/caivra-repo-gallery/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Free, MIT-licensed GitHub repository gallery with public profile browsing, search, filters, sorting, and shareable links. By Caivra Tech LLC.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -55,25 +55,25 @@ caivra-tech/caivra-repo-gallery：caivra-tech/caivra-repo-gallery helps teams re
 
 - updated 2026-10-30
 - primary language: HTML
-- 6 topics
+- 11 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 42/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 56/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 75/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

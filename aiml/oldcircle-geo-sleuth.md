@@ -57,7 +57,7 @@ Oldcircle/geo-sleuth：Oldcircle/geo-sleuth helps add AI capability without star
 - 788 forks
 - updated 2026-11-07
 - primary language: Python
-- 18 topics
+- 19 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

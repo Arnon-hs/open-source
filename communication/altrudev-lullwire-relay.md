@@ -54,7 +54,7 @@ altrudev/lullwire-relay：altrudev/lullwire-relay may be useful when its README 
 
 - updated 2026-11-03
 - primary language: JavaScript
-- 10 topics
+- 14 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

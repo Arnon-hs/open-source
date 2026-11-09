@@ -1,6 +1,6 @@
 # Fulcrum-Enterprises/verify-proof
 
-[![Stars](https://img.shields.io/github/stars/Fulcrum-Enterprises/verify-proof?style=flat-square&color=yellow)](https://github.com/Fulcrum-Enterprises/verify-proof/stargazers) [![Forks](https://img.shields.io/github/forks/Fulcrum-Enterprises/verify-proof?style=flat-square&color=blue)](https://github.com/Fulcrum-Enterprises/verify-proof/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Fulcrum-Enterprises/verify-proof?style=flat-square&color=yellow)](https://github.com/Fulcrum-Enterprises/verify-proof/stargazers) [![Forks](https://img.shields.io/github/forks/Fulcrum-Enterprises/verify-proof?style=flat-square&color=blue)](https://github.com/Fulcrum-Enterprises/verify-proof/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Verify blockchain timestamp proofs offline (Python and Node CLI, MCP server), and create Polygon-anchored proofs through the ProofLedger API.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-10-28 |
 | 🔍 **Source** | story-link |
 
@@ -55,7 +55,7 @@ Fulcrum-Enterprises/verify-proof：Fulcrum-Enterprises/verify-proof helps add AI
 
 - updated 2026-10-28
 - primary language: Python
-- 16 topics
+- 21 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -63,11 +63,11 @@ Fulcrum-Enterprises/verify-proof：Fulcrum-Enterprises/verify-proof helps add AI
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
+| usefulness | 100/100 |
 | quality | 45/100 |
 | integration | 100/100 |
 | production | 64/100 |
-| outlook | 63/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |

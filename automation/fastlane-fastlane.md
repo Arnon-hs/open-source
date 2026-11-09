@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 41.5k |
-| 🍴 **Forks** | 6k |
+| ⭐ **Stars** | 42.4k |
+| 🍴 **Forks** | 6.1k |
 | 💻 **Language** | Ruby |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-05 |

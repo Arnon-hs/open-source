@@ -56,7 +56,7 @@ sadrmanesh/persian-rag：sadrmanesh/persian-rag helps add AI capability without 
 - 1 GitHub stars
 - updated 2026-11-04
 - primary language: Python
-- 10 topics
+- 14 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

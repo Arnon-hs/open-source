@@ -1,6 +1,6 @@
 # petersteinberger/codexbar
 
-[![Stars](https://img.shields.io/github/stars/petersteinberger/codexbar?style=flat-square&color=yellow)](https://github.com/petersteinberger/codexbar/stargazers) [![Forks](https://img.shields.io/github/forks/petersteinberger/codexbar?style=flat-square&color=blue)](https://github.com/petersteinberger/codexbar/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/petersteinberger/codexbar?style=flat-square&color=yellow)](https://github.com/petersteinberger/codexbar/stargazers) [![Forks](https://img.shields.io/github/forks/petersteinberger/codexbar?style=flat-square&color=blue)](https://github.com/petersteinberger/codexbar/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-29%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 24/100 |
+| 📈 **Score** | 29/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ petersteinberger/codexbar：petersteinberger/codexbar helps add AI capability wi
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 7 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,16 +62,16 @@ petersteinberger/codexbar：petersteinberger/codexbar helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 16/100 |
+| quality | 29/100 |
 | integration | 18/100 |
-| production | 27/100 |
-| outlook | 22/100 |
+| production | 32/100 |
+| outlook | 31/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 88/100 |
 | sourceTrust | 70/100 |
 
 ---

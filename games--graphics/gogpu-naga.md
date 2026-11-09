@@ -56,7 +56,7 @@ gogpu/naga：gogpu/naga may be useful when its README and activity match a concr
 - 13 forks
 - updated 2026-11-02
 - primary language: Go
-- 18 topics
+- 22 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

@@ -56,7 +56,7 @@ spranab/mcpier：spranab/mcpier helps connect AI assistants to real tools and da
 - 1 GitHub stars
 - updated 2026-09-05
 - primary language: TypeScript
-- 13 topics
+- 21 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 

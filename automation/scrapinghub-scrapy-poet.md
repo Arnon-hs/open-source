@@ -1,6 +1,6 @@
 # scrapinghub/scrapy-poet
 
-[![Stars](https://img.shields.io/github/stars/scrapinghub/scrapy-poet?style=flat-square&color=yellow)](https://github.com/scrapinghub/scrapy-poet/stargazers) [![Forks](https://img.shields.io/github/forks/scrapinghub/scrapy-poet?style=flat-square&color=blue)](https://github.com/scrapinghub/scrapy-poet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scrapinghub/scrapy-poet?style=flat-square&color=yellow)](https://github.com/scrapinghub/scrapy-poet/stargazers) [![Forks](https://img.shields.io/github/forks/scrapinghub/scrapy-poet?style=flat-square&color=blue)](https://github.com/scrapinghub/scrapy-poet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Page Object pattern for Scrapy
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 129 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ scrapinghub/scrapy-poet：scrapinghub/scrapy-poet helps remove repetitive manual
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,6 +57,7 @@ scrapinghub/scrapy-poet：scrapinghub/scrapy-poet helps remove repetitive manual
 - 29 forks
 - updated 2026-11-02
 - primary language: Python
+- 6 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -64,17 +65,17 @@ scrapinghub/scrapy-poet：scrapinghub/scrapy-poet helps remove repetitive manual
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
+| usefulness | 74/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 57/100 |
+| production | 64/100 |
+| outlook | 68/100 |
 | adoption | 43/100 |
 | categoryMatchCount | 100/100 |
 | stars | 45/100 |
 | forks | 37/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 75/100 |
 | sourceTrust | 70/100 |
 
 ---

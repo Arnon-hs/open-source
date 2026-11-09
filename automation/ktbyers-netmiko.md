@@ -1,6 +1,6 @@
 # ktbyers/netmiko
 
-[![Stars](https://img.shields.io/github/stars/ktbyers/netmiko?style=flat-square&color=yellow)](https://github.com/ktbyers/netmiko/stargazers) [![Forks](https://img.shields.io/github/forks/ktbyers/netmiko?style=flat-square&color=blue)](https://github.com/ktbyers/netmiko/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ktbyers/netmiko?style=flat-square&color=yellow)](https://github.com/ktbyers/netmiko/stargazers) [![Forks](https://img.shields.io/github/forks/ktbyers/netmiko?style=flat-square&color=blue)](https://github.com/ktbyers/netmiko/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Multi-vendor library to simplify Paramiko SSH connections to network devices
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4.3k |
 | 🍴 **Forks** | 1.4k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ ktbyers/netmiko：ktbyers/netmiko helps remove repetitive manual operations from
 - connect tools into repeatable flows
 - schedule operational tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -57,6 +57,7 @@ ktbyers/netmiko：ktbyers/netmiko helps remove repetitive manual operations from
 - 1393 forks
 - updated 2026-11-09
 - primary language: Python
+- 7 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -65,16 +66,16 @@ ktbyers/netmiko：ktbyers/netmiko helps remove repetitive manual operations from
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 70/100 |
+| quality | 84/100 |
 | integration | 46/100 |
-| production | 70/100 |
-| outlook | 70/100 |
+| production | 75/100 |
+| outlook | 79/100 |
 | adoption | 78/100 |
 | categoryMatchCount | 100/100 |
 | stars | 77/100 |
 | forks | 79/100 |
 | recency | 100/100 |
-| topics | 0/100 |
+| topics | 88/100 |
 | sourceTrust | 70/100 |
 
 ---

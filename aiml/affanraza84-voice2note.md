@@ -1,6 +1,6 @@
 # affanraza84/voice2note
 
-[![Stars](https://img.shields.io/github/stars/affanraza84/voice2note?style=flat-square&color=yellow)](https://github.com/affanraza84/voice2note/stargazers) [![Forks](https://img.shields.io/github/forks/affanraza84/voice2note?style=flat-square&color=blue)](https://github.com/affanraza84/voice2note/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/affanraza84/voice2note?style=flat-square&color=yellow)](https://github.com/affanraza84/voice2note/stargazers) [![Forks](https://img.shields.io/github/forks/affanraza84/voice2note?style=flat-square&color=blue)](https://github.com/affanraza84/voice2note/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 36/100 |
 | 🗓️ **Last push** | 2026-10-16 |
 | 🔍 **Source** | story-link |
 
@@ -56,6 +56,7 @@ affanraza84/voice2note：affanraza84/voice2note helps add AI capability without 
 - 1 GitHub stars
 - updated 2026-10-16
 - primary language: TypeScript
+- 3 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -64,16 +65,16 @@ affanraza84/voice2note：affanraza84/voice2note helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 28/100 |
+| quality | 33/100 |
 | integration | 34/100 |
-| production | 43/100 |
-| outlook | 38/100 |
+| production | 45/100 |
+| outlook | 41/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 38/100 |
 | sourceTrust | 70/100 |
 
 ---

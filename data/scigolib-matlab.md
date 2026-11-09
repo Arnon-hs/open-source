@@ -56,7 +56,7 @@ scigolib/matlab：scigolib/matlab helps convert raw data into searchable, analyz
 - 12 GitHub stars
 - updated 2026-10-21
 - primary language: Go
-- 12 topics
+- 13 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

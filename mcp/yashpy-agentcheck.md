@@ -1,6 +1,6 @@
 # yashpy/Agentcheck
 
-[![Stars](https://img.shields.io/github/stars/yashpy/Agentcheck?style=flat-square&color=yellow)](https://github.com/yashpy/Agentcheck/stargazers) [![Forks](https://img.shields.io/github/forks/yashpy/Agentcheck?style=flat-square&color=blue)](https://github.com/yashpy/Agentcheck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yashpy/Agentcheck?style=flat-square&color=yellow)](https://github.com/yashpy/Agentcheck/stargazers) [![Forks](https://img.shields.io/github/forks/yashpy/Agentcheck?style=flat-square&color=blue)](https://github.com/yashpy/Agentcheck/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -55,25 +55,25 @@ yashpy/Agentcheck：yashpy/Agentcheck helps connect AI assistants to real tools 
 
 - updated 2026-11-09
 - primary language: TypeScript
-- 4 topics
+- 7 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 43/100 |
+| usefulness | 90/100 |
+| quality | 49/100 |
 | integration | 50/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 63/100 |
+| outlook | 69/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |
-| topics | 50/100 |
+| topics | 88/100 |
 | sourceTrust | 70/100 |
 
 ---

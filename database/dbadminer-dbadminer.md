@@ -1,6 +1,6 @@
 # dbadminer/dbadminer
 
-[![Stars](https://img.shields.io/github/stars/dbadminer/dbadminer?style=flat-square&color=yellow)](https://github.com/dbadminer/dbadminer/stargazers) [![Forks](https://img.shields.io/github/forks/dbadminer/dbadminer?style=flat-square&color=blue)](https://github.com/dbadminer/dbadminer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbadminer/dbadminer?style=flat-square&color=yellow)](https://github.com/dbadminer/dbadminer/stargazers) [![Forks](https://img.shields.io/github/forks/dbadminer/dbadminer?style=flat-square&color=blue)](https://github.com/dbadminer/dbadminer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only database explorer for PostgreSQL, MySQL, MariaDB, and SQLite.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -47,7 +47,7 @@ dbadminer/dbadminer：dbadminer/dbadminer helps teams persist, query, and move d
 - speed up data access
 - prototype database-backed apps
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,6 +55,7 @@ dbadminer/dbadminer：dbadminer/dbadminer helps teams persist, query, and move d
 
 - updated 2026-11-04
 - primary language: Go
+- 3 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ dbadminer/dbadminer：dbadminer/dbadminer helps teams persist, query, and move d
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 31/100 |
-| integration | 46/100 |
-| production | 51/100 |
-| outlook | 43/100 |
+| quality | 36/100 |
+| integration | 62/100 |
+| production | 55/100 |
+| outlook | 47/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 38/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -55,7 +55,7 @@ BEKO2210/spyhound：BEKO2210/spyhound helps catch security and privacy issues ea
 
 - updated 2026-11-03
 - primary language: Kotlin
-- 9 topics
+- 11 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 

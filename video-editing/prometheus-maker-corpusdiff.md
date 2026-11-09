@@ -55,7 +55,7 @@ prometheus-maker/corpusdiff：prometheus-maker/corpusdiff helps turn media editi
 
 - updated 2026-11-07
 - primary language: Python
-- 8 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

@@ -56,7 +56,7 @@ Vinu2111/sionna-visualizer：Vinu2111/sionna-visualizer helps add AI capability 
 - 4 GitHub stars
 - updated 2026-09-15
 - primary language: Java
-- 7 topics
+- 11 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -65,16 +65,16 @@ Vinu2111/sionna-visualizer：Vinu2111/sionna-visualizer helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 38/100 |
+| quality | 40/100 |
 | integration | 62/100 |
-| production | 46/100 |
-| outlook | 47/100 |
+| production | 47/100 |
+| outlook | 48/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 100/100 |
 | stars | 15/100 |
 | forks | 0/100 |
 | recency | 40/100 |
-| topics | 88/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

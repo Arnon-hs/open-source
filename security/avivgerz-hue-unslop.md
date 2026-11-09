@@ -57,7 +57,7 @@ avivgerz-hue/unslop：avivgerz-hue/unslop helps catch security and privacy issue
 - 2 forks
 - updated 2026-11-08
 - primary language: TypeScript
-- 8 topics
+- 11 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

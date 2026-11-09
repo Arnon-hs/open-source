@@ -1,6 +1,6 @@
 # markdown-it/markdown-it
 
-[![Stars](https://img.shields.io/github/stars/markdown-it/markdown-it?style=flat-square&color=yellow)](https://github.com/markdown-it/markdown-it/stargazers) [![Forks](https://img.shields.io/github/forks/markdown-it/markdown-it?style=flat-square&color=blue)](https://github.com/markdown-it/markdown-it/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/markdown-it/markdown-it?style=flat-square&color=yellow)](https://github.com/markdown-it/markdown-it/stargazers) [![Forks](https://img.shields.io/github/forks/markdown-it/markdown-it?style=flat-square&color=blue)](https://github.com/markdown-it/markdown-it/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -46,7 +46,7 @@ markdown-it/markdown-it：markdown-it/markdown-it may be useful when its README 
 - standardize deployment
 - automate operations
 
-**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
 
@@ -56,7 +56,7 @@ markdown-it/markdown-it：markdown-it/markdown-it may be useful when its README 
 - 1848 forks
 - updated 2026-11-09
 - primary language: TypeScript
-- 3 topics
+- 10 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
@@ -64,17 +64,17 @@ markdown-it/markdown-it：markdown-it/markdown-it may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 81/100 |
-| integration | 62/100 |
-| production | 76/100 |
-| outlook | 77/100 |
+| usefulness | 58/100 |
+| quality | 91/100 |
+| integration | 94/100 |
+| production | 84/100 |
+| outlook | 86/100 |
 | adoption | 89/100 |
 | categoryMatchCount | 200/100 |
 | stars | 92/100 |
 | forks | 82/100 |
 | recency | 100/100 |
-| topics | 38/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

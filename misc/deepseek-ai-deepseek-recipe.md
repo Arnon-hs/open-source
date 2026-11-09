@@ -1,6 +1,6 @@
 # deepseek-ai/deepseek-recipe
 
-[![Stars](https://img.shields.io/github/stars/deepseek-ai/deepseek-recipe?style=flat-square&color=yellow)](https://github.com/deepseek-ai/deepseek-recipe/stargazers) [![Forks](https://img.shields.io/github/forks/deepseek-ai/deepseek-recipe?style=flat-square&color=blue)](https://github.com/deepseek-ai/deepseek-recipe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/deepseek-ai/deepseek-recipe?style=flat-square&color=yellow)](https://github.com/deepseek-ai/deepseek-recipe/stargazers) [![Forks](https://img.shields.io/github/forks/deepseek-ai/deepseek-recipe?style=flat-square&color=blue)](https://github.com/deepseek-ai/deepseek-recipe/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2k |
 | 🍴 **Forks** | 257 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-22 |
 | 🔍 **Source** | story-link |
 
@@ -45,7 +45,7 @@ deepseek-ai/deepseek-recipe：deepseek-ai/deepseek-recipe may be useful when its
 
 - Not enough metadata yet.
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -55,6 +55,7 @@ deepseek-ai/deepseek-recipe：deepseek-ai/deepseek-recipe may be useful when its
 - 257 forks
 - updated 2026-10-22
 - primary language: Rust
+- 7 topics
 
 **Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
 
@@ -63,16 +64,16 @@ deepseek-ai/deepseek-recipe：deepseek-ai/deepseek-recipe may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 69/100 |
 | integration | 18/100 |
-| production | 51/100 |
-| outlook | 53/100 |
+| production | 56/100 |
+| outlook | 62/100 |
 | adoption | 68/100 |
 | categoryMatchCount | 0/100 |
 | stars | 70/100 |
 | forks | 60/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 88/100 |
 | sourceTrust | 70/100 |
 
 ---

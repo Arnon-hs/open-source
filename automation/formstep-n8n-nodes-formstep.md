@@ -56,7 +56,7 @@ formstep/n8n-nodes-formstep：formstep/n8n-nodes-formstep helps remove repetitiv
 - 1 GitHub stars
 - updated 2026-11-04
 - primary language: TypeScript
-- 9 topics
+- 12 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

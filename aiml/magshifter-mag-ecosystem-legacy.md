@@ -1,6 +1,6 @@
 # Magshifter/MAG-Ecosystem-Legacy
 
-[![Stars](https://img.shields.io/github/stars/Magshifter/MAG-Ecosystem-Legacy?style=flat-square&color=yellow)](https://github.com/Magshifter/MAG-Ecosystem-Legacy/stargazers) [![Forks](https://img.shields.io/github/forks/Magshifter/MAG-Ecosystem-Legacy?style=flat-square&color=blue)](https://github.com/Magshifter/MAG-Ecosystem-Legacy/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Magshifter/MAG-Ecosystem-Legacy?style=flat-square&color=yellow)](https://github.com/Magshifter/MAG-Ecosystem-Legacy/stargazers) [![Forks](https://img.shields.io/github/forks/Magshifter/MAG-Ecosystem-Legacy?style=flat-square&color=blue)](https://github.com/Magshifter/MAG-Ecosystem-Legacy/network) [![Language](https://img.shields.io/badge/lang-PowerShell-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > MAG-Ecosystem-Legacy
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PowerShell |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-11-02 |
 | 🔍 **Source** | story-link |
 
@@ -55,6 +55,7 @@ Magshifter/MAG-Ecosystem-Legacy：Magshifter/MAG-Ecosystem-Legacy helps add AI c
 
 - updated 2026-11-02
 - primary language: PowerShell
+- 2 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ Magshifter/MAG-Ecosystem-Legacy：Magshifter/MAG-Ecosystem-Legacy helps add AI c
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 31/100 |
+| quality | 34/100 |
 | integration | 30/100 |
-| production | 49/100 |
-| outlook | 43/100 |
+| production | 50/100 |
+| outlook | 46/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |
-| topics | 0/100 |
+| topics | 25/100 |
 | sourceTrust | 70/100 |
 
 ---

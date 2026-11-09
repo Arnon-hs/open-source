@@ -1,6 +1,6 @@
 # portfoliablejs/portfoliable
 
-[![Stars](https://img.shields.io/github/stars/portfoliablejs/portfoliable?style=flat-square&color=yellow)](https://github.com/portfoliablejs/portfoliable/stargazers) [![Forks](https://img.shields.io/github/forks/portfoliablejs/portfoliable?style=flat-square&color=blue)](https://github.com/portfoliablejs/portfoliable/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/portfoliablejs/portfoliable?style=flat-square&color=yellow)](https://github.com/portfoliablejs/portfoliable/stargazers) [![Forks](https://img.shields.io/github/forks/portfoliablejs/portfoliable?style=flat-square&color=blue)](https://github.com/portfoliablejs/portfoliable/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, industry-class portfolio builder for creatives around the world.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -46,7 +46,7 @@ portfoliablejs/portfoliable：portfoliablejs/portfoliable may be useful when its
 - speed up developer workflows
 - automate local engineering tasks
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
 **Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
@@ -56,25 +56,25 @@ portfoliablejs/portfoliable：portfoliablejs/portfoliable may be useful when its
 - 1 forks
 - updated 2026-11-03
 - primary language: JavaScript
-- 3 topics
+- 10 topics
 
-**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 40/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 50/100 |
+| usefulness | 58/100 |
+| quality | 50/100 |
+| integration | 46/100 |
+| production | 58/100 |
+| outlook | 59/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 200/100 |
 | stars | 10/100 |
 | forks | 8/100 |
 | recency | 80/100 |
-| topics | 38/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

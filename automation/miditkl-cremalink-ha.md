@@ -57,7 +57,7 @@ miditkl/cremalink-ha：miditkl/cremalink-ha helps remove repetitive manual opera
 - 9 forks
 - updated 2026-11-09
 - primary language: Python
-- 11 topics
+- 13 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

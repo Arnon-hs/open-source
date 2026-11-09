@@ -57,7 +57,7 @@ SandeepAi369/xel-studio：SandeepAi369/xel-studio helps add AI capability withou
 - 2 forks
 - updated 2026-10-18
 - primary language: TypeScript
-- 8 topics
+- 13 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

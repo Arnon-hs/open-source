@@ -55,7 +55,7 @@ Jay-Naik2526/or-studio：Jay-Naik2526/or-studio helps learn proven implementatio
 
 - updated 2026-11-04
 - primary language: TypeScript
-- 8 topics
+- 10 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 

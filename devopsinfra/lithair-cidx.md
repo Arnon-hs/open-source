@@ -1,6 +1,6 @@
 # lithair/cidx
 
-[![Stars](https://img.shields.io/github/stars/lithair/cidx?style=flat-square&color=yellow)](https://github.com/lithair/cidx/stargazers) [![Forks](https://img.shields.io/github/forks/lithair/cidx?style=flat-square&color=blue)](https://github.com/lithair/cidx/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-24%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lithair/cidx?style=flat-square&color=yellow)](https://github.com/lithair/cidx/stargazers) [![Forks](https://img.shields.io/github/forks/lithair/cidx?style=flat-square&color=blue)](https://github.com/lithair/cidx/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-32%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 24/100 |
+| 📈 **Score** | 32/100 |
 | 🗓️ **Last push** | — |
 | 🔍 **Source** | story-link |
 
@@ -47,13 +47,13 @@ lithair/cidx：lithair/cidx helps make deployment and operations more repeatable
 - automate operations
 - improve platform reliability
 
-**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
 **Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
-- Not enough metadata yet.
+- 8 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -62,16 +62,16 @@ lithair/cidx：lithair/cidx helps make deployment and operations more repeatable
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 16/100 |
-| integration | 18/100 |
-| production | 27/100 |
-| outlook | 22/100 |
+| quality | 31/100 |
+| integration | 34/100 |
+| production | 35/100 |
+| outlook | 32/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |
-| topics | 0/100 |
+| topics | 100/100 |
 | sourceTrust | 70/100 |
 
 ---

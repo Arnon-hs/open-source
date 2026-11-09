@@ -1,6 +1,6 @@
 # rohit-8a/steadytrade-ai
 
-[![Stars](https://img.shields.io/github/stars/rohit-8a/steadytrade-ai?style=flat-square&color=yellow)](https://github.com/rohit-8a/steadytrade-ai/stargazers) [![Forks](https://img.shields.io/github/forks/rohit-8a/steadytrade-ai?style=flat-square&color=blue)](https://github.com/rohit-8a/steadytrade-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rohit-8a/steadytrade-ai?style=flat-square&color=yellow)](https://github.com/rohit-8a/steadytrade-ai/stargazers) [![Forks](https://img.shields.io/github/forks/rohit-8a/steadytrade-ai?style=flat-square&color=blue)](https://github.com/rohit-8a/steadytrade-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 33/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | 2026-10-25 |
 | 🔍 **Source** | story-link |
 
@@ -55,6 +55,7 @@ rohit-8a/steadytrade-ai：rohit-8a/steadytrade-ai helps research and automate ma
 
 - updated 2026-10-25
 - primary language: Python
+- 2 topics
 
 **Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
@@ -63,16 +64,16 @@ rohit-8a/steadytrade-ai：rohit-8a/steadytrade-ai helps research and automate ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 26/100 |
+| quality | 29/100 |
 | integration | 34/100 |
-| production | 43/100 |
-| outlook | 36/100 |
+| production | 44/100 |
+| outlook | 39/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |
-| topics | 0/100 |
+| topics | 25/100 |
 | sourceTrust | 70/100 |
 
 ---

@@ -56,7 +56,7 @@ saeedmasoudie/PIDM：saeedmasoudie/PIDM may be useful when its README and activi
 - 3 forks
 - updated 2026-11-03
 - primary language: QML
-- 11 topics
+- 16 topics
 
 **Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
 
