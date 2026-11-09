@@ -1,6 +1,6 @@
 # emwstudio/esp32-eye
 
-[![Stars](https://img.shields.io/github/stars/emwstudio/esp32-eye?style=flat-square&color=yellow)](https://github.com/emwstudio/esp32-eye/stargazers) [![Forks](https://img.shields.io/github/forks/emwstudio/esp32-eye?style=flat-square&color=blue)](https://github.com/emwstudio/esp32-eye/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/emwstudio/esp32-eye?style=flat-square&color=yellow)](https://github.com/emwstudio/esp32-eye/stargazers) [![Forks](https://img.shields.io/github/forks/emwstudio/esp32-eye?style=flat-square&color=blue)](https://github.com/emwstudio/esp32-eye/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > ESP32-S3 multi-cat drinking water monitor with MiniCPM-V
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | C |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ emwstudio/esp32-eye：emwstudio/esp32-eye may be useful when its README and acti
 - updated 2026-11-06
 - primary language: C
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 30/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 21/100 |
 | categoryMatchCount | 500/100 |
 | stars | 23/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
