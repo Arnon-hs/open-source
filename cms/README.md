@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [foisalislambd/openpress](./foisalislambd-openpress.md) | ⭐ 1 | TypeScript | 52/100 |
+| 1 | [foisalislambd/openpress](./foisalislambd-openpress.md) | ⭐ 1 | TypeScript | 49/100 |
 
 ---
 

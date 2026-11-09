@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Hiepler/longplay](./hiepler-longplay.md) | ⭐ 1 | TypeScript | 57/100 |
+| 1 | [MASHHOOD2019/telemetry-logger](./mashhood2019-telemetry-logger.md) | ⭐ — | — | 24/100 |
 
 ---
 

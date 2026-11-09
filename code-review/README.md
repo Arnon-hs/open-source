@@ -2,13 +2,14 @@
 
 > 
 
-**1 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [TheRealJahaan/reviewraccoon](./therealjahaan-reviewraccoon.md) | ⭐ — | JavaScript | 33/100 |
+| 1 | [Dimoncelli/cold-jury](./dimoncelli-cold-jury.md) | ⭐ — | JavaScript | 56/100 |
+| 2 | [TheRealJahaan/reviewraccoon](./therealjahaan-reviewraccoon.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

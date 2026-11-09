@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44873** |
-| **Categories** | **656** |
+| **Projects** | **44883** |
+| **Categories** | **658** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,12 +23,12 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 18153 | [Browse →](./misc/) |
+| 📦 **Misc** | 18157 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4720 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2951 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2446 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1623 | [Browse →](./devtools/) |
-| 🏷️ **Automation** | 1531 | [Browse →](./automation/) |
+| 🏷️ **Automation** | 1533 | [Browse →](./automation/) |
 | ⚙️ **Backend** | 966 | [Browse →](./backend/) |
 | 🎨 **Frontend** | 914 | [Browse →](./frontend/) |
 | ⛓️ **Crypto** | 825 | [Browse →](./crypto/) |
@@ -70,9 +70,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Python** | 11 | [Browse →](./python/) |
 | 🏷️ **Offline-first** | 11 | [Browse →](./offline-first/) |
 | 🏷️ **Aws** | 10 | [Browse →](./aws/) |
-| 🏷️ **Android** | 10 | [Browse →](./android/) |
 | 🏷️ **Browser-automation** | 9 | [Browse →](./browser-automation/) |
 | 🏷️ **Git** | 9 | [Browse →](./git/) |
+| 🏷️ **Android** | 9 | [Browse →](./android/) |
 | 🏷️ **Rust** | 9 | [Browse →](./rust/) |
 | 🏷️ **Ai-coding** | 8 | [Browse →](./ai-coding/) |
 | 🏷️ **Github-actions** | 8 | [Browse →](./github-actions/) |
@@ -145,6 +145,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Openapi** | 3 | [Browse →](./openapi/) |
 | 🏷️ **Devsecops** | 3 | [Browse →](./devsecops/) |
 | 🏷️ **Escrow** | 3 | [Browse →](./escrow/) |
+| 🏷️ **Erc-8004** | 2 | [Browse →](./erc-8004/) |
+| 🏷️ **Code-review** | 2 | [Browse →](./code-review/) |
+| 🏷️ **Daily-coding** | 2 | [Browse →](./daily-coding/) |
+| 🏷️ **Password-manager** | 2 | [Browse →](./password-manager/) |
+| 🏷️ **Qa** | 2 | [Browse →](./qa/) |
 | 🏷️ **Ai-coding-tools** | 2 | [Browse →](./ai-coding-tools/) |
 | 🏷️ **Agent-skills** | 2 | [Browse →](./agent-skills/) |
 | 🏷️ **Blockchain** | 2 | [Browse →](./blockchain/) |
@@ -174,8 +179,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ai-testing** | 2 | [Browse →](./ai-testing/) |
 | 🏷️ **Invoice** | 2 | [Browse →](./invoice/) |
 | 🏷️ **Machine-learning** | 2 | [Browse →](./machine-learning/) |
-| 🏷️ **Ssh** | 2 | [Browse →](./ssh/) |
-| 🏷️ **Migration** | 2 | [Browse →](./migration/) |
 | 🏷️ **Browser-based-ai** | 2 | [Browse →](./browser-based-ai/) |
 | 🏷️ **Code-search** | 2 | [Browse →](./code-search/) |
 | 🏷️ **Ocr** | 2 | [Browse →](./ocr/) |
@@ -232,6 +235,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Telemetry** | 1 | [Browse →](./telemetry/) |
+| 🏷️ **Command-line** | 1 | [Browse →](./command-line/) |
 | 🏷️ **Ai-disclosure** | 1 | [Browse →](./ai-disclosure/) |
 | 🏷️ **Infrastructure** | 1 | [Browse →](./infrastructure/) |
 | 🏷️ **Openrouter** | 1 | [Browse →](./openrouter/) |
@@ -300,7 +305,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Token-efficiency** | 1 | [Browse →](./token-efficiency/) |
 | 🏷️ **Ssms** | 1 | [Browse →](./ssms/) |
 | 🏷️ **Pdf-extraction** | 1 | [Browse →](./pdf-extraction/) |
-| 🏷️ **Password-manager** | 1 | [Browse →](./password-manager/) |
 | 🏷️ **Data-pipeline** | 1 | [Browse →](./data-pipeline/) |
 | 🏷️ **Alfresco** | 1 | [Browse →](./alfresco/) |
 | 🏷️ **Dbt** | 1 | [Browse →](./dbt/) |
@@ -350,7 +354,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Token-exchange** | 1 | [Browse →](./token-exchange/) |
 | 🏷️ **Agentverse** | 1 | [Browse →](./agentverse/) |
 | 🏷️ **Quantitative-finance** | 1 | [Browse →](./quantitative-finance/) |
-| 🏷️ **Code-review** | 1 | [Browse →](./code-review/) |
 | 🏷️ **Ai-coding-agents** | 1 | [Browse →](./ai-coding-agents/) |
 | 🏷️ **Gnome** | 1 | [Browse →](./gnome/) |
 | 🏷️ **Voice-agent** | 1 | [Browse →](./voice-agent/) |
@@ -365,7 +368,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **React** | 1 | [Browse →](./react/) |
 | 🏷️ **Video-production** | 1 | [Browse →](./video-production/) |
 | 🏷️ **Design-system** | 1 | [Browse →](./design-system/) |
-| 🏷️ **Discord** | 1 | [Browse →](./discord/) |
 | 🏷️ **Address-data** | 1 | [Browse →](./address-data/) |
 | 🏷️ **Mistral** | 1 | [Browse →](./mistral/) |
 | 🏷️ **Dead-code** | 1 | [Browse →](./dead-code/) |
@@ -558,7 +560,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Muse-code** | 1 | [Browse →](./muse-code/) |
 | 🏷️ **Openweight-models** | 1 | [Browse →](./openweight-models/) |
 | 🏷️ **Air-gapped** | 1 | [Browse →](./air-gapped/) |
-| 🏷️ **Erc-8004** | 1 | [Browse →](./erc-8004/) |
 | 🏷️ **Dapr** | 1 | [Browse →](./dapr/) |
 | 🏷️ **Programming-language** | 1 | [Browse →](./programming-language/) |
 | 🏷️ **Agentic** | 1 | [Browse →](./agentic/) |
@@ -617,6 +618,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Argparse** | 1 | [Browse →](./argparse/) |
 | 🏷️ **Payment** | 1 | [Browse →](./payment/) |
 | 🏷️ **Anythingllm** | 1 | [Browse →](./anythingllm/) |
+| 🏷️ **Ssh** | 1 | [Browse →](./ssh/) |
 | 🏷️ **Trajectory** | 1 | [Browse →](./trajectory/) |
 | 🏷️ **Federated-learning** | 1 | [Browse →](./federated-learning/) |
 | 🏷️ **S7comm** | 1 | [Browse →](./s7comm/) |
@@ -634,6 +636,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Dns** | 1 | [Browse →](./dns/) |
 | 🏷️ **Sidecar** | 1 | [Browse →](./sidecar/) |
 | 🏷️ **Claude-desktop** | 1 | [Browse →](./claude-desktop/) |
+| 🏷️ **Migration** | 1 | [Browse →](./migration/) |
 | 🏷️ **Background-removal** | 1 | [Browse →](./background-removal/) |
 | 🏷️ **Dependency-management** | 1 | [Browse →](./dependency-management/) |
 | 🏷️ **Job-search** | 1 | [Browse →](./job-search/) |
@@ -677,7 +680,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Agents** | 1 | [Browse →](./agents/) |
 | 🏷️ **Auditability** | 1 | [Browse →](./auditability/) |
 | 🏷️ **Cost-estimation** | 1 | [Browse →](./cost-estimation/) |
-| 🏷️ **Qa** | 1 | [Browse →](./qa/) |
 | 🏷️ **Scheduler** | 1 | [Browse →](./scheduler/) |
 
 ## Top projects by score
