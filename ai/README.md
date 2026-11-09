@@ -34,10 +34,10 @@
 | 24 | [Gbangbolaoluwagbemiga/gatehouse](./gbangbolaoluwagbemiga-gatehouse.md) | ⭐ — | TypeScript | 46/100 |
 | 25 | [Pratheeksh-7S/dejavu-incident-agent](./pratheeksh-7s-dejavu-incident-agent.md) | ⭐ — | Python | 45/100 |
 | 26 | [OOuph/agent-team](./oouph-agent-team.md) | ⭐ — | Python | 44/100 |
-| 27 | [JonScott79/Pythos](./jonscott79-pythos.md) | ⭐ — | JavaScript | 44/100 |
-| 28 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 44/100 |
-| 29 | [apexxx01/jury](./apexxx01-jury.md) | ⭐ 1 | Python | 43/100 |
-| 30 | [yunwei37/proofserve](./yunwei37-proofserve.md) | ⭐ 1 | Python | 41/100 |
+| 27 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 44/100 |
+| 28 | [apexxx01/jury](./apexxx01-jury.md) | ⭐ 1 | Python | 43/100 |
+| 29 | [yunwei37/proofserve](./yunwei37-proofserve.md) | ⭐ 1 | Python | 41/100 |
+| 30 | [JonScott79/Pythos](./jonscott79-pythos.md) | ⭐ — | JavaScript | 41/100 |
 | 31 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 41/100 |
 | 32 | [cozyCodr/pamsika](./cozycodr-pamsika.md) | ⭐ — | TypeScript | 39/100 |
 | 33 | [jaysid97/pr-pilot](./jaysid97-pr-pilot.md) | ⭐ — | Python | 39/100 |

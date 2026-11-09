@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [zeyusuntt/agent-postmortem](./zeyusuntt-agent-postmortem.md) | ⭐ — | Python | 49/100 |
+| 1 | [zeyusuntt/agent-postmortem](./zeyusuntt-agent-postmortem.md) | ⭐ — | Python | 46/100 |
 
 ---
 
