@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44857** |
-| **Categories** | **651** |
+| **Projects** | **44860** |
+| **Categories** | **652** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 18145 | [Browse →](./misc/) |
+| 📦 **Misc** | 18147 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4719 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2950 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2446 | [Browse →](./orchestration/) |
@@ -40,7 +40,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Video-editing** | 604 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 576 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 537 | [Browse →](./devopsinfra/) |
-| 🏷️ **Templates** | 489 | [Browse →](./templates/) |
+| 🏷️ **Templates** | 490 | [Browse →](./templates/) |
 | 🏷️ **Communication** | 473 | [Browse →](./communication/) |
 | 🔐 **Security** | 472 | [Browse →](./security/) |
 | 💳 **Payments** | 377 | [Browse →](./payments/) |
@@ -52,8 +52,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 222 | [Browse →](./trading/) |
 | ✨ **Design** | 192 | [Browse →](./design/) |
 | 🏷️ **Vertical-video** | 160 | [Browse →](./vertical-video/) |
-| 🏷️ **Ai** | 157 | [Browse →](./ai/) |
 | 🏷️ **Content-creation** | 156 | [Browse →](./content-creation/) |
+| 🏷️ **Ai** | 156 | [Browse →](./ai/) |
 | 🏷️ **Ai-agents** | 48 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 47 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
@@ -235,6 +235,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Pm2** | 1 | [Browse →](./pm2/) |
 | 🏷️ **Openworkproof** | 1 | [Browse →](./openworkproof/) |
 | 🏷️ **Google-sheets** | 1 | [Browse →](./google-sheets/) |
 | 🏷️ **Openshift** | 1 | [Browse →](./openshift/) |

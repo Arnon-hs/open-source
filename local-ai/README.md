@@ -12,9 +12,9 @@
 | 2 | [AkshatSoni26/closed-loop-slm-agent](./akshatsoni26-closed-loop-slm-agent.md) | ⭐ — | Python | 42/100 |
 | 3 | [coderForLife-A1/Daemon](./coderforlife-a1-daemon.md) | ⭐ — | Python | 36/100 |
 | 4 | [EchoAnshu/GhostShell](./echoanshu-ghostshell.md) | ⭐ — | Python | 36/100 |
-| 5 | [kusalar/nova-local](./kusalar-nova-local.md) | ⭐ — | Python | 36/100 |
-| 6 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 35/100 |
-| 7 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 34/100 |
+| 5 | [karan-2004/triage-agent](./karan-2004-triage-agent.md) | ⭐ — | Python | 35/100 |
+| 6 | [extinctsion/locallistingai](./extinctsion-locallistingai.md) | ⭐ 1 | TypeScript | 34/100 |
+| 7 | [kusalar/nova-local](./kusalar-nova-local.md) | ⭐ — | Python | 33/100 |
 | 8 | [padmalochini27-del/SlothSort](./padmalochini27-del-slothsort.md) | ⭐ — | Python | 33/100 |
 | 9 | [YuvrajSHAD/Desktop-Companion](./yuvrajshad-desktop-companion.md) | ⭐ — | Python | 33/100 |
 | 10 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 33/100 |
