@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Kuloka/openconstructor](./kuloka-openconstructor.md) | ⭐ — | JavaScript | 48/100 |
+| 1 | [Kuloka/openconstructor](./kuloka-openconstructor.md) | ⭐ — | JavaScript | 45/100 |
 
 ---
 
