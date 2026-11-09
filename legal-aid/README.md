@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [munimtechnologies/bar-ai-guidance](./munimtechnologies-bar-ai-guidance.md) | ⭐ — | Python | 42/100 |
+| 1 | [munimtechnologies/bar-ai-guidance](./munimtechnologies-bar-ai-guidance.md) | ⭐ — | Python | 39/100 |
 
 ---
 
