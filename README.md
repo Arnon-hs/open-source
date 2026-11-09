@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44863** |
+| **Projects** | **44866** |
 | **Categories** | **653** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,9 +23,9 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 18148 | [Browse →](./misc/) |
+| 📦 **Misc** | 18149 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4719 | [Browse →](./aiml/) |
-| 🏷️ **Mcp** | 2950 | [Browse →](./mcp/) |
+| 🏷️ **Mcp** | 2951 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2446 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1622 | [Browse →](./devtools/) |
 | 🏷️ **Automation** | 1531 | [Browse →](./automation/) |
@@ -47,14 +47,14 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Games--graphics** | 351 | [Browse →](./games--graphics/) |
 | 🏷️ **Productivity** | 348 | [Browse →](./productivity/) |
 | 📊 **Data** | 345 | [Browse →](./data/) |
-| 🏷️ **Observability** | 323 | [Browse →](./observability/) |
+| 🏷️ **Observability** | 324 | [Browse →](./observability/) |
 | 🏷️ **Libraries--sdks** | 275 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 222 | [Browse →](./trading/) |
 | ✨ **Design** | 192 | [Browse →](./design/) |
 | 🏷️ **Vertical-video** | 160 | [Browse →](./vertical-video/) |
 | 🏷️ **Content-creation** | 157 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 156 | [Browse →](./ai/) |
-| 🏷️ **Ai-agents** | 48 | [Browse →](./ai-agents/) |
+| 🏷️ **Ai-agents** | 49 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 47 | [Browse →](./open-source/) |
 | 🏷️ **Marketing** | 36 | [Browse →](./marketing/) |
 | 🏷️ **Education** | 33 | [Browse →](./education/) |
@@ -178,7 +178,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Ssh** | 2 | [Browse →](./ssh/) |
 | 🏷️ **Migration** | 2 | [Browse →](./migration/) |
 | 🏷️ **Learning** | 2 | [Browse →](./learning/) |
-| 🏷️ **Px4** | 2 | [Browse →](./px4/) |
 | 🏷️ **Browser-based-ai** | 2 | [Browse →](./browser-based-ai/) |
 | 🏷️ **Code-search** | 2 | [Browse →](./code-search/) |
 | 🏷️ **Ocr** | 2 | [Browse →](./ocr/) |
@@ -234,6 +233,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Worktree** | 1 | [Browse →](./worktree/) |
 | 🏷️ **Robotics** | 1 | [Browse →](./robotics/) |
 | 🏷️ **Pm2** | 1 | [Browse →](./pm2/) |
 | 🏷️ **Openworkproof** | 1 | [Browse →](./openworkproof/) |

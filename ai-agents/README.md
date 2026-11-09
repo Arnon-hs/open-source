@@ -2,7 +2,7 @@
 
 > 
 
-**48 projects** in this category.
+**49 projects** in this category.
 
 ## Projects
 
@@ -45,17 +45,18 @@
 | 35 | [NVIDIA/NeMo-Agents](./nvidia-nemo-agents.md) | ⭐ — | — | 28/100 |
 | 36 | [agent-colony/join-agent](./agent-colony-join-agent.md) | ⭐ — | — | 28/100 |
 | 37 | [deepmtch/thoughtcop](./deepmtch-thoughtcop.md) | ⭐ — | Swift | 27/100 |
-| 38 | [safe-global/safe-contracts](./safe-global-safe-contracts.md) | ⭐ — | — | 24/100 |
-| 39 | [holistis/capacity-attest](./holistis-capacity-attest.md) | ⭐ — | — | 24/100 |
-| 40 | [openai/openclaw](./openai-openclaw.md) | ⭐ — | — | 24/100 |
-| 41 | [yourrepo/browser-use](./yourrepo-browser-use.md) | ⭐ — | — | 24/100 |
-| 42 | [falkor-db/falkor-db](./falkor-db-falkor-db.md) | ⭐ — | — | 24/100 |
-| 43 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
-| 44 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
-| 45 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
-| 46 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
-| 47 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
-| 48 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
+| 38 | [pyright/pyright](./pyright-pyright.md) | ⭐ — | — | 24/100 |
+| 39 | [safe-global/safe-contracts](./safe-global-safe-contracts.md) | ⭐ — | — | 24/100 |
+| 40 | [holistis/capacity-attest](./holistis-capacity-attest.md) | ⭐ — | — | 24/100 |
+| 41 | [openai/openclaw](./openai-openclaw.md) | ⭐ — | — | 24/100 |
+| 42 | [yourrepo/browser-use](./yourrepo-browser-use.md) | ⭐ — | — | 24/100 |
+| 43 | [falkor-db/falkor-db](./falkor-db-falkor-db.md) | ⭐ — | — | 24/100 |
+| 44 | [cognee/dlt](./cognee-dlt.md) | ⭐ — | — | 24/100 |
+| 45 | [dlt-io/dlt](./dlt-io-dlt.md) | ⭐ — | — | 24/100 |
+| 46 | [nousresearch/hermes](./nousresearch-hermes.md) | ⭐ — | — | 24/100 |
+| 47 | [waiaas/openclaw](./waiaas-openclaw.md) | ⭐ — | — | 24/100 |
+| 48 | [udctl/udctl](./udctl-udctl.md) | ⭐ — | — | 24/100 |
+| 49 | [xyz/x402](./xyz-x402.md) | ⭐ — | — | 24/100 |
 
 ---
 

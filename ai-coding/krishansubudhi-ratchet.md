@@ -1,6 +1,6 @@
 # krishansubudhi/ratchet
 
-[![Stars](https://img.shields.io/github/stars/krishansubudhi/ratchet?style=flat-square&color=yellow)](https://github.com/krishansubudhi/ratchet/stargazers) [![Forks](https://img.shields.io/github/forks/krishansubudhi/ratchet?style=flat-square&color=blue)](https://github.com/krishansubudhi/ratchet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krishansubudhi/ratchet?style=flat-square&color=yellow)](https://github.com/krishansubudhi/ratchet/stargazers) [![Forks](https://img.shields.io/github/forks/krishansubudhi/ratchet?style=flat-square&color=blue)](https://github.com/krishansubudhi/ratchet/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Keeps coding agents from bloating your repo.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ krishansubudhi/ratchet：krishansubudhi/ratchet may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 65/100 |
+| production | 57/100 |
+| outlook | 58/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 700/100 |
 | stars | 15/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

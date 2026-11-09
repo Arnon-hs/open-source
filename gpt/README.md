@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [antropos17/chatgpt-gif-cinema](./antropos17-chatgpt-gif-cinema.md) | ⭐ 3 | Python | 57/100 |
+| 1 | [antropos17/chatgpt-gif-cinema](./antropos17-chatgpt-gif-cinema.md) | ⭐ 3 | Python | 54/100 |
 
 ---
 
