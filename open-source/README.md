@@ -30,11 +30,11 @@
 | 20 | [SynthReaper/ghw-hacktoberfest26](./synthreaper-ghw-hacktoberfest26.md) | ⭐ — | Python | 33/100 |
 | 21 | [mrerror313coder/cortex-ai-puzzles](./mrerror313coder-cortex-ai-puzzles.md) | ⭐ — | TypeScript | 33/100 |
 | 22 | [Satyam-Godara/Trailmate-Ai](./satyam-godara-trailmate-ai.md) | ⭐ — | JavaScript | 33/100 |
-| 23 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 33/100 |
-| 24 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 31/100 |
-| 25 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 30/100 |
-| 26 | [Dev-Suraj-Dhawal/terraforge-studio](./dev-suraj-dhawal-terraforge-studio.md) | ⭐ — | JavaScript | 30/100 |
-| 27 | [pixelcrisscross/PrivaLedger-AI](./pixelcrisscross-privaledger-ai.md) | ⭐ — | JavaScript | 30/100 |
+| 23 | [raghuraj72/WildQuest-AI](./raghuraj72-wildquest-ai.md) | ⭐ — | JavaScript | 31/100 |
+| 24 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 30/100 |
+| 25 | [Dev-Suraj-Dhawal/terraforge-studio](./dev-suraj-dhawal-terraforge-studio.md) | ⭐ — | JavaScript | 30/100 |
+| 26 | [pixelcrisscross/PrivaLedger-AI](./pixelcrisscross-privaledger-ai.md) | ⭐ — | JavaScript | 30/100 |
+| 27 | [heyujjwal/green-stop](./heyujjwal-green-stop.md) | ⭐ — | Python | 30/100 |
 | 28 | [Blackwrld04/ArborStride-AI](./blackwrld04-arborstride-ai.md) | ⭐ — | Python | 30/100 |
 | 29 | [VimalN2005/study-buddy-ai](./vimaln2005-study-buddy-ai.md) | ⭐ — | Python | 30/100 |
 | 30 | [AarishMansur/Mainto](./aarishmansur-mainto.md) | ⭐ — | TypeScript | 30/100 |
