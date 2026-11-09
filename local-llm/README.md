@@ -14,8 +14,8 @@
 | 4 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
 | 5 | [Deshan217/ncode-ghostlog-ai-hf26](./deshan217-ncode-ghostlog-ai-hf26.md) | ⭐ — | Python | 36/100 |
 | 6 | [pr7426/ghost-in-the-machine](./pr7426-ghost-in-the-machine.md) | ⭐ — | Python | 36/100 |
-| 7 | [Shashank-blip/Ofrenda](./shashank-blip-ofrenda.md) | ⭐ — | Python | 36/100 |
-| 8 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
+| 7 | [goose-ai/goose-cli](./goose-ai-goose-cli.md) | ⭐ — | — | 35/100 |
+| 8 | [Shashank-blip/Ofrenda](./shashank-blip-ofrenda.md) | ⭐ — | Python | 33/100 |
 | 9 | [laiba-Ashfaq/lazy-downloads-tidier](./laiba-ashfaq-lazy-downloads-tidier.md) | ⭐ — | Python | 33/100 |
 | 10 | [Abishethvarman/CiteWise](./abishethvarman-citewise.md) | ⭐ — | Python | 33/100 |
 | 11 | [Karishma-Das/porchlight](./karishma-das-porchlight.md) | ⭐ — | Python | 33/100 |

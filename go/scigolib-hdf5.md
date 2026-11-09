@@ -1,6 +1,6 @@
 # scigolib/hdf5
 
-[![Stars](https://img.shields.io/github/stars/scigolib/hdf5?style=flat-square&color=yellow)](https://github.com/scigolib/hdf5/stargazers) [![Forks](https://img.shields.io/github/forks/scigolib/hdf5?style=flat-square&color=blue)](https://github.com/scigolib/hdf5/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scigolib/hdf5?style=flat-square&color=yellow)](https://github.com/scigolib/hdf5/stargazers) [![Forks](https://img.shields.io/github/forks/scigolib/hdf5?style=flat-square&color=blue)](https://github.com/scigolib/hdf5/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Modern Pure Go implementation of the HDF5 file format
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 8 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ scigolib/hdf5：scigolib/hdf5 may be useful when its README and activity match a
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 59/100 |
 | integration | 46/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 61/100 |
+| outlook | 61/100 |
 | adoption | 30/100 |
 | categoryMatchCount | 500/100 |
 | stars | 32/100 |
 | forks | 24/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
