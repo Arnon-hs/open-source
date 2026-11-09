@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44854** |
-| **Categories** | **650** |
+| **Projects** | **44855** |
+| **Categories** | **651** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -235,6 +235,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Openworkproof** | 1 | [Browse →](./openworkproof/) |
 | 🏷️ **Google-sheets** | 1 | [Browse →](./google-sheets/) |
 | 🏷️ **Openshift** | 1 | [Browse →](./openshift/) |
 | 🏷️ **Local-security** | 1 | [Browse →](./local-security/) |
