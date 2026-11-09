@@ -265,9 +265,9 @@
 | 255 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 406 | HTML | 50/100 |
 | 256 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 500 | — | 50/100 |
 | 257 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 122 | Rust | 50/100 |
-| 258 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 258 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
 | 259 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 260 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
+| 260 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 261 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 272 | Rust | 50/100 |
 | 262 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 511 | JavaScript | 50/100 |
 | 263 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 50/100 |
@@ -438,8 +438,8 @@
 | 428 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ — | — | 38/100 |
 | 429 | [openai/codex-security](./openai-codex-security.md) | ⭐ — | — | 38/100 |
 | 430 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ — | — | 38/100 |
-| 431 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
-| 432 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 431 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 432 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
 | 433 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ — | — | 38/100 |
 | 434 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
 | 435 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 38/100 |
