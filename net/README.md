@@ -2,15 +2,14 @@
 
 > 
 
-**3 projects** in this category.
+**2 projects** in this category.
 
 ## Projects
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [paulap887/PackageTerms](./paulap887-packageterms.md) | ⭐ — | C# | 44/100 |
-| 2 | [techtalk/Reqnroll](./techtalk-reqnroll.md) | ⭐ — | — | 24/100 |
-| 3 | [PreMailer/PreMailer.Net](./premailer-premailer.net.md) | ⭐ — | — | 24/100 |
+| 1 | [techtalk/Reqnroll](./techtalk-reqnroll.md) | ⭐ — | — | 24/100 |
+| 2 | [PreMailer/PreMailer.Net](./premailer-premailer.net.md) | ⭐ — | — | 24/100 |
 
 ---
 

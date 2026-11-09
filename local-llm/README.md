@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [OlegChe77/local-ai](./olegche77-local-ai.md) | ⭐ 2 | JavaScript | 49/100 |
-| 2 | [rahulagarwal18/unmuzzled](./rahulagarwal18-unmuzzled.md) | ⭐ — | TypeScript | 47/100 |
+| 2 | [rahulagarwal18/unmuzzled](./rahulagarwal18-unmuzzled.md) | ⭐ — | TypeScript | 44/100 |
 | 3 | [mayankinkk/rest-in-repo](./mayankinkk-rest-in-repo.md) | ⭐ — | Python | 39/100 |
 | 4 | [deghosal-2026/CauterRule](./deghosal-2026-cauterrule.md) | ⭐ 1 | Python | 38/100 |
 | 5 | [Deshan217/ncode-ghostlog-ai-hf26](./deshan217-ncode-ghostlog-ai-hf26.md) | ⭐ — | Python | 36/100 |
