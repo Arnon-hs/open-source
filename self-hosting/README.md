@@ -9,8 +9,8 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [tradingview/lightweight-charts](./tradingview-lightweight-charts.md) | ⭐ 17.7k | TypeScript | 64/100 |
-| 2 | [corvus-gateway/corvus](./corvus-gateway-corvus.md) | ⭐ 1 | TypeScript | 63/100 |
-| 3 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 37 | Go | 62/100 |
+| 2 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 37 | Go | 62/100 |
+| 3 | [corvus-gateway/corvus](./corvus-gateway-corvus.md) | ⭐ 1 | TypeScript | 60/100 |
 | 4 | [ordercraft-hq/terminal](./ordercraft-hq-terminal.md) | ⭐ 1 | TypeScript | 53/100 |
 | 5 | [AydenGroup/nitrobase](./aydengroup-nitrobase.md) | ⭐ 5 | TypeScript | 46/100 |
 | 6 | [altrudev/lullwire-relay](./altrudev-lullwire-relay.md) | ⭐ — | JavaScript | 45/100 |
