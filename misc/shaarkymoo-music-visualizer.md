@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `showdev` `python` `mojo`
+`devto` `showdev` `python` `mojo`
 
 ## 🎯 Categories
 

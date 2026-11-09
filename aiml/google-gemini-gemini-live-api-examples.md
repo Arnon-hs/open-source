@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `ai` `live` `voice`
+`devto` `ai` `live` `voice`
 
 ## 🎯 Categories
 

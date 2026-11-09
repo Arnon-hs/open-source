@@ -17,25 +17,25 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`csharp` `e164` `java-source` `libphonenumber` `phone-number` `phonenumbers`
 
 ## 🎯 Categories
 
-Misc · csharp · e164 · java-source · libphonenumber · phone-number · phonenumbers
+Misc
 
 ## 📝 Summary
 
 ### English
 
-googlei18n/libphonenumber: googlei18n/libphonenumber may be useful when its README and activity match a concrete workflow.. Use it for Misc, csharp, e164, java-source, libphonenumber, phone-number, phonenumbers. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+googlei18n/libphonenumber: googlei18n/libphonenumber may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-googlei18n/libphonenumber: open-source проект в категориях Misc, csharp, e164, java-source, libphonenumber, phone-number, phonenumbers. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+googlei18n/libphonenumber: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-googlei18n/libphonenumber：googlei18n/libphonenumber may be useful when its README and activity match a concrete workflow.。适合用于Misc、csharp、e164、java-source、libphonenumber、phone-number、phonenumbers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+googlei18n/libphonenumber：googlei18n/libphonenumber may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -65,7 +65,7 @@ googlei18n/libphonenumber：googlei18n/libphonenumber may be useful when its REA
 | production | 29/100 |
 | outlook | 22/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

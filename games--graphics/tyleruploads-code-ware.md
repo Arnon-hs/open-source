@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `godot` `gamedev` `showdev`
+`devto` `showdev` `godot` `gamedev`
 
 ## 🎯 Categories
 

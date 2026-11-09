@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `flutter` `ai` `webassembly`
+`devto` `ai` `flutter` `webassembly`
 
 ## 🎯 Categories
 

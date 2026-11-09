@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `ai` `antigravity` `gemini`
+`devto` `ai` `antigravity` `gemini`
 
 ## 🎯 Categories
 

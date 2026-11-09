@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `ai` `gemini` `testing`
+`devto` `ai` `gemini` `testing`
 
 ## 🎯 Categories
 

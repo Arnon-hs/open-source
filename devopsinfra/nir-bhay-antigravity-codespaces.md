@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `vscode` `github` `devops`
+`devto` `github` `vscode` `devops`
 
 ## 🎯 Categories
 

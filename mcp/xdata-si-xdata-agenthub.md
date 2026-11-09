@@ -17,11 +17,11 @@
 
 ## 🏷️ Topics
 
-`agent-skills` `ai-agents` `automation` `claude-code` `codex` `developer-tools` `llm` `open-source` `opencode` `python`
+`agent-skills` `ai-agents` `automation` `claude-code` `codex` `developer-tools` `llm` `open-source` `opencode` `python` `sandbox` `runtime verification`
 
 ## 🎯 Categories
 
-MCP · sandbox · runtime verification · AI agent security · open-source
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ XData-si/xdata-agenthub: XData-si/xdata-agenthub helps connect AI assistants to 
 
 ### Русский
 
-XData-si/xdata-agenthub: open-source проект в категориях MCP, sandbox, runtime verification, AI agent security, open-source. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+XData-si/xdata-agenthub: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -70,7 +70,7 @@ XData-si/xdata-agenthub：XData-si/xdata-agenthub helps connect AI assistants to
 | production | 57/100 |
 | outlook | 66/100 |
 | adoption | 5/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |

@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `programming` `webdev` `beginners`
+`devto` `programming` `webdev` `beginners`
 
 ## 🎯 Categories
 

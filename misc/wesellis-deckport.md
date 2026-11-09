@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `steamdeck` `steam` `github`
+`devto` `github` `steamdeck` `steam`
 
 ## 🎯 Categories
 

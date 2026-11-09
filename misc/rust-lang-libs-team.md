@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `rust` `systems` `opensource`
+`devto` `opensource` `rust` `systems`
 
 ## 🎯 Categories
 

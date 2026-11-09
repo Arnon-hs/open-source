@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `testing` `cicd` `showdev`
+`devto` `showdev` `testing` `cicd`
 
 ## 🎯 Categories
 

@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-`bnb-chain` `crypto` `ecommerce` `non-custodial` `payments` `qr-code` `self-hosted` `solidity` `stablecoins` `usdt` `wallet`
+`bnb-chain` `crypto` `ecommerce` `non-custodial` `payments` `qr-code` `self-hosted` `solidity` `stablecoins` `usdt` `wallet` `user-friendly`
 
 ## 🎯 Categories
 
-crypto · wallet · user-friendly · gas-sponsorship · on-chain-names · backup · web-share · capacitor
+Crypto
 
 ## 📝 Summary
 
 ### English
 
-tavarovwallet/tavarov: tavarovwallet/tavarov may be useful when its README and activity match a concrete workflow.. Use it for crypto, wallet, user-friendly, gas-sponsorship, on-chain-names, backup, web-share, capacitor. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tavarovwallet/tavarov: tavarovwallet/tavarov helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-tavarovwallet/tavarov: open-source проект в категориях crypto, wallet, user-friendly, gas-sponsorship, on-chain-names, backup, web-share, capacitor. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+tavarovwallet/tavarov: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-tavarovwallet/tavarov：tavarovwallet/tavarov may be useful when its README and activity match a concrete workflow.。适合用于crypto、wallet、user-friendly、gas-sponsorship、on-chain-names、backup、web-share、capacitor。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+tavarovwallet/tavarov：tavarovwallet/tavarov helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** tavarovwallet/tavarov may be useful when its README and activity match a concrete workflow.
+**Value:** tavarovwallet/tavarov helps prototype or inspect blockchain workflows with open implementation details.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -69,7 +71,7 @@ tavarovwallet/tavarov：tavarovwallet/tavarov may be useful when its README and 
 | production | 55/100 |
 | outlook | 58/100 |
 | adoption | 7/100 |
-| categoryMatchCount | 800/100 |
+| categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 8/100 |
 | recency | 80/100 |

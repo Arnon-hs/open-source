@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `video` `ai` `video` `agents`
+`devto` `video` `ai` `agents`
 
 ## 🎯 Categories
 

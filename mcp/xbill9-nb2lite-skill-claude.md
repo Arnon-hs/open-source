@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `ai` `claudecode` `gemini`
+`devto` `ai` `claudecode` `gemini`
 
 ## 🎯 Categories
 

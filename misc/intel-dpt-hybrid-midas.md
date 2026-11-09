@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`huggingface` `depth-estimation` `depth-estimation`
+`huggingface` `depth-estimation`
 
 ## 🎯 Categories
 

@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `contentcreation` `aiavatars` `instagramreels` `contentcreation`
+`devto` `contentcreation` `aiavatars` `instagramreels`
 
 ## 🎯 Categories
 

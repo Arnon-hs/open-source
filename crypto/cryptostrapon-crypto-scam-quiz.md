@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-crypto · scam-awareness · quiz · open-source · education
+Crypto · Education
 
 ## 📝 Summary
 
 ### English
 
-cryptostrapon/crypto-scam-quiz: cryptostrapon/crypto-scam-quiz may be useful when its README and activity match a concrete workflow.. Use it for crypto, scam-awareness, quiz, open-source, education. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+cryptostrapon/crypto-scam-quiz: cryptostrapon/crypto-scam-quiz helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-cryptostrapon/crypto-scam-quiz: open-source проект в категориях crypto, scam-awareness, quiz, open-source, education. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+cryptostrapon/crypto-scam-quiz: open-source проект в категориях Crypto, Education. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-cryptostrapon/crypto-scam-quiz：cryptostrapon/crypto-scam-quiz may be useful when its README and activity match a concrete workflow.。适合用于crypto、scam-awareness、quiz、open-source、education。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+cryptostrapon/crypto-scam-quiz：cryptostrapon/crypto-scam-quiz helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** cryptostrapon/crypto-scam-quiz may be useful when its README and activity match a concrete workflow.
+**Value:** cryptostrapon/crypto-scam-quiz helps prototype or inspect blockchain workflows with open implementation details.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -67,7 +69,7 @@ cryptostrapon/crypto-scam-quiz：cryptostrapon/crypto-scam-quiz may be useful wh
 | production | 47/100 |
 | outlook | 46/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |

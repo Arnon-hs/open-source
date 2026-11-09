@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `googlecloud` `terraform` `ai`
+`devto` `ai` `googlecloud` `terraform`
 
 ## 🎯 Categories
 

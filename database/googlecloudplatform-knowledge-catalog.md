@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `database` `devops` `github`
+`devto` `github` `database` `devops`
 
 ## 🎯 Categories
 

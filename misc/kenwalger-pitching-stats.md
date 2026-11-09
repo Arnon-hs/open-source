@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `python` `datascience` `showdev`
+`devto` `showdev` `python` `datascience`
 
 ## 🎯 Categories
 

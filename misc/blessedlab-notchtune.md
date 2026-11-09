@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `showdev` `sideprojects` `swift`
+`devto` `showdev` `sideprojects` `swift`
 
 ## 🎯 Categories
 

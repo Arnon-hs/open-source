@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`paper trading` `risk management`
 
 ## 🎯 Categories
 
-trading · automation · AI · paper trading · risk management
+Trading · Automation · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-rohit-8a/steadytrade-ai: rohit-8a/steadytrade-ai may be useful when its README and activity match a concrete workflow.. Use it for trading, automation, AI, paper trading, risk management. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+rohit-8a/steadytrade-ai: rohit-8a/steadytrade-ai helps research and automate market workflows.. Use it for research trading systems; backtest strategies. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-rohit-8a/steadytrade-ai: open-source проект в категориях trading, automation, AI, paper trading, risk management. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+rohit-8a/steadytrade-ai: open-source проект в категориях Trading, Automation, AI/ML. Практическое применение: research trading systems; backtest strategies. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-rohit-8a/steadytrade-ai：rohit-8a/steadytrade-ai may be useful when its README and activity match a concrete workflow.。适合用于trading、automation、AI、paper trading、risk management。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+rohit-8a/steadytrade-ai：rohit-8a/steadytrade-ai helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** rohit-8a/steadytrade-ai may be useful when its README and activity match a concrete workflow.
+**Value:** rohit-8a/steadytrade-ai helps research and automate market workflows.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- research trading systems
+- backtest strategies
+- monitor market workflows
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -66,7 +68,7 @@ rohit-8a/steadytrade-ai：rohit-8a/steadytrade-ai may be useful when its README 
 | production | 43/100 |
 | outlook | 36/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |

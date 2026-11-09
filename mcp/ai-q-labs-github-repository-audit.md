@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `automation` `ai` `mcp` `automation`
+`devto` `automation` `ai` `mcp`
 
 ## 🎯 Categories
 

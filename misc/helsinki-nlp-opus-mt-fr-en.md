@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`huggingface` `translation` `translation`
+`huggingface` `translation`
 
 ## 🎯 Categories
 

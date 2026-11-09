@@ -1,0 +1,81 @@
+# AkshatSoni26/closed-loop-slm-agent
+
+[![Stars](https://img.shields.io/github/stars/AkshatSoni26/closed-loop-slm-agent?style=flat-square&color=yellow)](https://github.com/AkshatSoni26/closed-loop-slm-agent/stargazers) [![Forks](https://img.shields.io/github/forks/AkshatSoni26/closed-loop-slm-agent?style=flat-square&color=blue)](https://github.com/AkshatSoni26/closed-loop-slm-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+
+> Production-grade drafting agent running on local SLMs (Llama 3.2 3B) with deterministic verification, tri-state guardrails, and QWK-calibrated evaluation.
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Python |
+| 📈 **Score** | 42/100 |
+| 🗓️ **Last push** | 2026-09-06 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`ai-agents` `evaluation` `langgraph` `llama3` `local-ai` `python` `reliability` `slm` `closed-loop` `verifier` `human-in-loop` `invoice-drafting`
+
+## 🎯 Categories
+
+Orchestration · Payments · AI/ML
+
+## 📝 Summary
+
+### English
+
+AkshatSoni26/closed-loop-slm-agent: AkshatSoni26/closed-loop-slm-agent helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+### Русский
+
+AkshatSoni26/closed-loop-slm-agent: open-source проект в категориях Orchestration, Payments, AI/ML. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+
+### 中文
+
+AkshatSoni26/closed-loop-slm-agent：AkshatSoni26/closed-loop-slm-agent helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** AkshatSoni26/closed-loop-slm-agent helps turn isolated prompts and tools into repeatable agent workflows.
+
+**Best use cases**
+
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
+
+**Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- updated 2026-09-06
+- primary language: Python
+- 8 topics
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 36/100 |
+| integration | 46/100 |
+| production | 43/100 |
+| outlook | 43/100 |
+| adoption | 0/100 |
+| categoryMatchCount | 300/100 |
+| stars | 0/100 |
+| forks | 0/100 |
+| recency | 40/100 |
+| topics | 100/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-09-06 · [View on GitHub](https://github.com/AkshatSoni26/closed-loop-slm-agent) · [← Back to Orchestration](./README.md)</sub>

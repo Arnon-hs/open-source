@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-automation · AI · CI · design-review · security · fail-safe · plan-completeness
+Automation · AI/ML · Security
 
 ## 📝 Summary
 
 ### English
 
-Mgabr90/autonomous-delivery: Mgabr90/autonomous-delivery may be useful when its README and activity match a concrete workflow.. Use it for automation, AI, CI, design-review, security, fail-safe, plan-completeness. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Mgabr90/autonomous-delivery: Mgabr90/autonomous-delivery helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Mgabr90/autonomous-delivery: open-source проект в категориях automation, AI, CI, design-review, security, fail-safe, plan-completeness. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Mgabr90/autonomous-delivery: open-source проект в категориях Automation, AI/ML, Security. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Mgabr90/autonomous-delivery：Mgabr90/autonomous-delivery may be useful when its README and activity match a concrete workflow.。适合用于automation、AI、CI、design-review、security、fail-safe、plan-completeness。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Mgabr90/autonomous-delivery：Mgabr90/autonomous-delivery helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Mgabr90/autonomous-delivery may be useful when its README and activity match a concrete workflow.
+**Value:** Mgabr90/autonomous-delivery helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -67,7 +69,7 @@ Mgabr90/autonomous-delivery：Mgabr90/autonomous-delivery may be useful when its
 | production | 67/100 |
 | outlook | 70/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 700/100 |
+| categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |

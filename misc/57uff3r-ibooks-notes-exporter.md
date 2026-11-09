@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `showdev` `opensource` `macos`
+`devto` `showdev` `opensource` `macos`
 
 ## 🎯 Categories
 

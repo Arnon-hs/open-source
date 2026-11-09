@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `ai` `programming` `claude`
+`devto` `programming` `ai` `claude`
 
 ## 🎯 Categories
 

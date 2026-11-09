@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `git` `github` `versioncontrol`
+`devto` `github` `git` `versioncontrol`
 
 ## 🎯 Categories
 

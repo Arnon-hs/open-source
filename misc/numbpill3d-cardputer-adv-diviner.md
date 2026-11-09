@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `showdev` `programming` `cardputer`
+`devto` `showdev` `programming` `cardputer`
 
 ## 🎯 Categories
 

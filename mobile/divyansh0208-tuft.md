@@ -17,25 +17,25 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`offline` `vision-model` `open-source` `outdoor` `self-hosting`
 
 ## 🎯 Categories
 
-mobile · offline · vision-model · open-source · outdoor · self-hosting
+Mobile
 
 ## 📝 Summary
 
 ### English
 
-Divyansh0208/Tuft: Divyansh0208/Tuft may be useful when its README and activity match a concrete workflow.. Use it for mobile, offline, vision-model, open-source, outdoor, self-hosting. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Divyansh0208/Tuft: Divyansh0208/Tuft may be useful when its README and activity match a concrete workflow.. Use it for Mobile. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Divyansh0208/Tuft: open-source проект в категориях mobile, offline, vision-model, open-source, outdoor, self-hosting. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Divyansh0208/Tuft: open-source проект в категориях Mobile. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Divyansh0208/Tuft：Divyansh0208/Tuft may be useful when its README and activity match a concrete workflow.。适合用于mobile、offline、vision-model、open-source、outdoor、self-hosting。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Divyansh0208/Tuft：Divyansh0208/Tuft may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -66,7 +66,7 @@ Divyansh0208/Tuft：Divyansh0208/Tuft may be useful when its README and activity
 | production | 40/100 |
 | outlook | 36/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |

@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `llm` `nextjs` `showdev`
+`devto` `showdev` `llm` `nextjs`
 
 ## 🎯 Categories
 

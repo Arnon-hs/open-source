@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `ai` `codingassistant` `genealogy`
+`devto` `ai` `codingassistant` `genealogy`
 
 ## 🎯 Categories
 

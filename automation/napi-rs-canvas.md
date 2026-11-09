@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`screen-recording` `agent` `playwright` `ffmpeg`
 
 ## 🎯 Categories
 
-automation · screen-recording · agent · playwright · ffmpeg
+Automation
 
 ## 📝 Summary
 
 ### English
 
-napi-rs/canvas: napi-rs/canvas may be useful when its README and activity match a concrete workflow.. Use it for automation, screen-recording, agent, playwright, ffmpeg. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+napi-rs/canvas: napi-rs/canvas helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-napi-rs/canvas: open-source проект в категориях automation, screen-recording, agent, playwright, ffmpeg. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+napi-rs/canvas: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-napi-rs/canvas：napi-rs/canvas may be useful when its README and activity match a concrete workflow.。适合用于automation、screen-recording、agent、playwright、ffmpeg。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+napi-rs/canvas：napi-rs/canvas helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** napi-rs/canvas may be useful when its README and activity match a concrete workflow.
+**Value:** napi-rs/canvas helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -65,7 +67,7 @@ napi-rs/canvas：napi-rs/canvas may be useful when its README and activity match
 | production | 29/100 |
 | outlook | 26/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

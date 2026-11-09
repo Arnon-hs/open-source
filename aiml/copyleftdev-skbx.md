@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `linux` `networking` `ai`
+`devto` `ai` `linux` `networking`
 
 ## 🎯 Categories
 

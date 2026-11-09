@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `opensource` `devops` `docker`
+`devto` `opensource` `devops` `docker`
 
 ## 🎯 Categories
 

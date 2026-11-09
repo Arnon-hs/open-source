@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `mcp` `aws` `ai`
+`devto` `ai` `mcp` `aws`
 
 ## 🎯 Categories
 

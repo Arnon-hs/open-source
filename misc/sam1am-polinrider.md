@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `cybersecurity` `github` `virus`
+`devto` `github` `cybersecurity` `virus`
 
 ## 🎯 Categories
 

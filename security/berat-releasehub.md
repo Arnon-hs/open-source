@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `node` `github` `typescript`
+`devto` `github` `node` `typescript`
 
 ## 🎯 Categories
 

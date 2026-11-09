@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `showdev` `node` `sqlite`
+`devto` `showdev` `node` `sqlite`
 
 ## 🎯 Categories
 

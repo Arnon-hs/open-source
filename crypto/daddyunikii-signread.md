@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`wallet` `open-source` `privacy`
 
 ## 🎯 Categories
 
-crypto · wallet · AI · open-source · privacy
+Crypto · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-DaddyUnikii/signread: DaddyUnikii/signread may be useful when its README and activity match a concrete workflow.. Use it for crypto, wallet, AI, open-source, privacy. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+DaddyUnikii/signread: DaddyUnikii/signread helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-DaddyUnikii/signread: open-source проект в категориях crypto, wallet, AI, open-source, privacy. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+DaddyUnikii/signread: open-source проект в категориях Crypto, AI/ML. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-DaddyUnikii/signread：DaddyUnikii/signread may be useful when its README and activity match a concrete workflow.。适合用于crypto、wallet、AI、open-source、privacy。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+DaddyUnikii/signread：DaddyUnikii/signread helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** DaddyUnikii/signread may be useful when its README and activity match a concrete workflow.
+**Value:** DaddyUnikii/signread helps prototype or inspect blockchain workflows with open implementation details.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -66,7 +68,7 @@ DaddyUnikii/signread：DaddyUnikii/signread may be useful when its README and ac
 | production | 40/100 |
 | outlook | 36/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |

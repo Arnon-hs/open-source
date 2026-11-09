@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `github` `nextjs` `opensource`
+`devto` `github` `nextjs` `opensource`
 
 ## 🎯 Categories
 

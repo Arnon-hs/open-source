@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`local‑model` `study‑tool` `exam‑prep`
 
 ## 🎯 Categories
 
-education · AI · local‑model · study‑tool · exam‑prep
+Education · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-Daks9h/learn-faster: Daks9h/learn-faster may be useful when its README and activity match a concrete workflow.. Use it for education, AI, local‑model, study‑tool, exam‑prep. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Daks9h/learn-faster: Daks9h/learn-faster helps learn proven implementation patterns from working code.. Use it for learn an implementation pattern; build tutorials. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Daks9h/learn-faster: open-source проект в категориях education, AI, local‑model, study‑tool, exam‑prep. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Daks9h/learn-faster: open-source проект в категориях Education, AI/ML. Практическое применение: learn an implementation pattern; build tutorials. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Daks9h/learn-faster：Daks9h/learn-faster may be useful when its README and activity match a concrete workflow.。适合用于education、AI、local‑model、study‑tool、exam‑prep。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Daks9h/learn-faster：Daks9h/learn-faster helps learn proven implementation patterns from working code.。适合用于learn an implementation pattern、build tutorials。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** Daks9h/learn-faster may be useful when its README and activity match a concrete workflow.
+**Value:** Daks9h/learn-faster helps learn proven implementation patterns from working code.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- learn an implementation pattern
+- build tutorials
+- train a team on a stack
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -66,7 +68,7 @@ Daks9h/learn-faster：Daks9h/learn-faster may be useful when its README and acti
 | production | 43/100 |
 | outlook | 36/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |

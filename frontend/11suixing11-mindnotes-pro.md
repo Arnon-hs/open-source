@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `react` `typescript` `opensource`
+`devto` `opensource` `react` `typescript`
 
 ## 🎯 Categories
 

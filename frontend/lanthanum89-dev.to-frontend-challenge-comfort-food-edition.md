@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `css` `devchallenge` `showdev`
+`devto` `showdev` `css` `devchallenge`
 
 ## 🎯 Categories
 

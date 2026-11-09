@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-`ai-agents` `claude-code` `devsecops` `landlock` `overlayfs` `rust` `sandbox` `seccomp` `security` `zero-trust`
+`ai-agents` `claude-code` `devsecops` `landlock` `overlayfs` `Rust` `sandbox` `seccomp` `security` `zero-trust` `sandboxing` `Linux`
 
 ## 🎯 Categories
 
-security · sandboxing · Linux · Rust · AI coding agents · zero-trust
+Security
 
 ## 📝 Summary
 
 ### English
 
-6t9xstar/shadowcli: 6t9xstar/shadowcli may be useful when its README and activity match a concrete workflow.. Use it for security, sandboxing, Linux, Rust, AI coding agents, zero-trust. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+6t9xstar/shadowcli: 6t9xstar/shadowcli helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-6t9xstar/shadowcli: open-source проект в категориях security, sandboxing, Linux, Rust, AI coding agents, zero-trust. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+6t9xstar/shadowcli: open-source проект в категориях Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-6t9xstar/shadowcli：6t9xstar/shadowcli may be useful when its README and activity match a concrete workflow.。适合用于security、sandboxing、Linux、Rust、AI coding agents、zero-trust。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+6t9xstar/shadowcli：6t9xstar/shadowcli helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** 6t9xstar/shadowcli may be useful when its README and activity match a concrete workflow.
+**Value:** 6t9xstar/shadowcli helps catch security and privacy issues earlier in the workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -68,7 +70,7 @@ security · sandboxing · Linux · Rust · AI coding agents · zero-trust
 | production | 57/100 |
 | outlook | 61/100 |
 | adoption | 5/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |

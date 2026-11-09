@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ffmpeg` `ffmpeg` `nvidia` `docker`
+`devto` `ffmpeg` `nvidia` `docker`
 
 ## 🎯 Categories
 

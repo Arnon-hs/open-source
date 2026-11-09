@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `webdev` `githunt` `opensource`
+`devto` `opensource` `webdev` `githunt`
 
 ## 🎯 Categories
 

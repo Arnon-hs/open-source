@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `laravel` `php` `github`
+`devto` `github` `laravel` `php`
 
 ## 🎯 Categories
 

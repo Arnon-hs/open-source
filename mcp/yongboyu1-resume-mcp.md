@@ -17,11 +17,11 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`agent` `identity` `public evidence` `resume` `Toronto` `AI engineer`
 
 ## 🎯 Categories
 
-MCP · agent · identity · public evidence · resume · Toronto · AI engineer
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ YongBoYu1/resume-mcp: YongBoYu1/resume-mcp helps connect AI assistants to real t
 
 ### Русский
 
-YongBoYu1/resume-mcp: open-source проект в категориях MCP, agent, identity, public evidence, resume, Toronto, AI engineer. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+YongBoYu1/resume-mcp: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -68,7 +68,7 @@ YongBoYu1/resume-mcp：YongBoYu1/resume-mcp helps connect AI assistants to real 
 | production | 40/100 |
 | outlook | 36/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 700/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 40/100 |

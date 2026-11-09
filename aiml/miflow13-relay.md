@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `ai` `llm` `showdev`
+`devto` `showdev` `ai` `llm`
 
 ## 🎯 Categories
 

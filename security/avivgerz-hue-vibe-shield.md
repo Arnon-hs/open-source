@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-`agent-skills` `claude` `claude-code` `claude-code-plugin` `claude-skills` `codex` `codex-skill` `cursor` `design` `design-systems` `mcp`
+`agent-skills` `claude` `claude-code` `claude-code-plugin` `claude-skills` `codex` `codex-skill` `cursor` `design` `design-systems` `mcp` `Next.js`
 
 ## 🎯 Categories
 
-security · AI · Next.js · Supabase · static-analysis
+Security · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-avivgerz-hue/vibe-shield: avivgerz-hue/vibe-shield may be useful when its README and activity match a concrete workflow.. Use it for security, AI, Next.js, Supabase, static-analysis. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+avivgerz-hue/vibe-shield: avivgerz-hue/vibe-shield helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-avivgerz-hue/vibe-shield: open-source проект в категориях security, AI, Next.js, Supabase, static-analysis. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+avivgerz-hue/vibe-shield: open-source проект в категориях Security, AI/ML. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-avivgerz-hue/vibe-shield：avivgerz-hue/vibe-shield may be useful when its README and activity match a concrete workflow.。适合用于security、AI、Next.js、Supabase、static-analysis。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+avivgerz-hue/vibe-shield：avivgerz-hue/vibe-shield helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** avivgerz-hue/vibe-shield may be useful when its README and activity match a concrete workflow.
+**Value:** avivgerz-hue/vibe-shield helps catch security and privacy issues earlier in the workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -69,7 +71,7 @@ avivgerz-hue/vibe-shield：avivgerz-hue/vibe-shield may be useful when its READM
 | production | 71/100 |
 | outlook | 72/100 |
 | adoption | 21/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 27/100 |
 | forks | 8/100 |
 | recency | 100/100 |

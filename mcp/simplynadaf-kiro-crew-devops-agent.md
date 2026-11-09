@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `agents` `ai` `showdev`
+`devto` `showdev` `agents` `ai`
 
 ## 🎯 Categories
 

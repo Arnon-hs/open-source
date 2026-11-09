@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-crypto · payment · integration · REST · webhooks · self-hosted
+Crypto
 
 ## 📝 Summary
 
 ### English
 
-Coldtill/self-hosted-crypto-payment-gateway: Coldtill/self-hosted-crypto-payment-gateway may be useful when its README and activity match a concrete workflow.. Use it for crypto, payment, integration, REST, webhooks, self-hosted. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Coldtill/self-hosted-crypto-payment-gateway: Coldtill/self-hosted-crypto-payment-gateway helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Coldtill/self-hosted-crypto-payment-gateway: open-source проект в категориях crypto, payment, integration, REST, webhooks, self-hosted. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Coldtill/self-hosted-crypto-payment-gateway: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Coldtill/self-hosted-crypto-payment-gateway：Coldtill/self-hosted-crypto-payment-gateway may be useful when its README and activity match a concrete workflow.。适合用于crypto、payment、integration、REST、webhooks、self-hosted。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Coldtill/self-hosted-crypto-payment-gateway：Coldtill/self-hosted-crypto-payment-gateway helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Coldtill/self-hosted-crypto-payment-gateway may be useful when its README and activity match a concrete workflow.
+**Value:** Coldtill/self-hosted-crypto-payment-gateway helps prototype or inspect blockchain workflows with open implementation details.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -69,7 +71,7 @@ Coldtill/self-hosted-crypto-payment-gateway：Coldtill/self-hosted-crypto-paymen
 | production | 58/100 |
 | outlook | 59/100 |
 | adoption | 11/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 100/100 |
 | stars | 13/100 |
 | forks | 8/100 |
 | recency | 80/100 |

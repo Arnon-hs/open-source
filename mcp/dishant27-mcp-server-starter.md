@@ -17,11 +17,11 @@
 
 ## 🏷️ Topics
 
-`mcp` `model-context-protocol` `template` `typescript`
+`mcp` `model-context-protocol` `template` `typescript` `server` `starter` `zod` `CI` `logging`
 
 ## 🎯 Categories
 
-MCP · server · starter · zod · CI · logging · security
+MCP · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Dishant27/mcp-server-starter: Dishant27/mcp-server-starter helps connect AI assi
 
 ### Русский
 
-Dishant27/mcp-server-starter: open-source проект в категориях MCP, server, starter, zod, CI, logging, security. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Dishant27/mcp-server-starter: open-source проект в категориях MCP, Security. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -68,7 +68,7 @@ Dishant27/mcp-server-starter：Dishant27/mcp-server-starter helps connect AI ass
 | production | 61/100 |
 | outlook | 60/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 700/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |

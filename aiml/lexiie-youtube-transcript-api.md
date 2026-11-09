@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `contentcreation` `contentcreation` `ai` `python`
+`devto` `contentcreation` `ai` `python`
 
 ## 🎯 Categories
 

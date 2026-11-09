@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `programming` `react` `vue`
+`devto` `programming` `react` `vue`
 
 ## 🎯 Categories
 

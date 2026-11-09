@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `video` `ai` `promptengineering` `video`
+`devto` `video` `ai` `promptengineering`
 
 ## 🎯 Categories
 

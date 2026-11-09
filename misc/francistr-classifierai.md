@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `discuss` `community` `programming`
+`devto` `programming` `discuss` `community`
 
 ## 🎯 Categories
 

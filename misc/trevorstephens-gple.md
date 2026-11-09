@@ -17,25 +17,25 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`mastodon` `opensource`
 
 ## 🎯 Categories
 
-Misc · mastodon · opensource
+Misc
 
 ## 📝 Summary
 
 ### English
 
-trevorstephens/gple: trevorstephens/gple may be useful when its README and activity match a concrete workflow.. Use it for Misc, mastodon, opensource. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+trevorstephens/gple: trevorstephens/gple may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-trevorstephens/gple: open-source проект в категориях Misc, mastodon, opensource. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+trevorstephens/gple: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-trevorstephens/gple：trevorstephens/gple may be useful when its README and activity match a concrete workflow.。适合用于Misc、mastodon、opensource。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+trevorstephens/gple：trevorstephens/gple may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -65,7 +65,7 @@ trevorstephens/gple：trevorstephens/gple may be useful when its README and acti
 | production | 27/100 |
 | outlook | 22/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 200/100 |
+| categoryMatchCount | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

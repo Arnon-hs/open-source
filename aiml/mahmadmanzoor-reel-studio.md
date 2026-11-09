@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `video` `ai` `claudecode` `video`
+`devto` `video` `ai` `claudecode`
 
 ## 🎯 Categories
 

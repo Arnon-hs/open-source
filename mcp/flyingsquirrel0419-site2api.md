@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `showdev` `mcp` `ai`
+`devto` `showdev` `mcp` `ai`
 
 ## 🎯 Categories
 

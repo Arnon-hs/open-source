@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`offline` `privacy` `low-screen-time` `field-experiment`
 
 ## 🎯 Categories
 
-education · AI · offline · privacy · low-screen-time · field-experiment
+Education · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-mukul9116/fieldclass-ai: mukul9116/fieldclass-ai may be useful when its README and activity match a concrete workflow.. Use it for education, AI, offline, privacy, low-screen-time, field-experiment. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+mukul9116/fieldclass-ai: mukul9116/fieldclass-ai helps learn proven implementation patterns from working code.. Use it for learn an implementation pattern; build tutorials. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-mukul9116/fieldclass-ai: open-source проект в категориях education, AI, offline, privacy, low-screen-time, field-experiment. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+mukul9116/fieldclass-ai: open-source проект в категориях Education, AI/ML. Практическое применение: learn an implementation pattern; build tutorials. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-mukul9116/fieldclass-ai：mukul9116/fieldclass-ai may be useful when its README and activity match a concrete workflow.。适合用于education、AI、offline、privacy、low-screen-time、field-experiment。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+mukul9116/fieldclass-ai：mukul9116/fieldclass-ai helps learn proven implementation patterns from working code.。适合用于learn an implementation pattern、build tutorials。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** mukul9116/fieldclass-ai may be useful when its README and activity match a concrete workflow.
+**Value:** mukul9116/fieldclass-ai helps learn proven implementation patterns from working code.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- learn an implementation pattern
+- build tutorials
+- train a team on a stack
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -67,7 +69,7 @@ mukul9116/fieldclass-ai：mukul9116/fieldclass-ai may be useful when its README 
 | production | 45/100 |
 | outlook | 38/100 |
 | adoption | 5/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 60/100 |

@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `aws` `showdev` `buildinpublic`
+`devto` `showdev` `aws` `buildinpublic`
 
 ## 🎯 Categories
 

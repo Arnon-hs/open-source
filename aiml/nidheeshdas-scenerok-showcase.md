@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `video` `ai` `video` `devtools`
+`devto` `video` `ai` `devtools`
 
 ## 🎯 Categories
 

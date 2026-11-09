@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `ai` `productivity` `braziliandevs`
+`devto` `ai` `productivity` `braziliandevs`
 
 ## 🎯 Categories
 

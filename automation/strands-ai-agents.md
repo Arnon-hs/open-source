@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`LLM` `operations` `AWS` `audit` `approval`
 
 ## 🎯 Categories
 
-automation · LLM · database · operations · AWS · audit · approval
+Automation · Database
 
 ## 📝 Summary
 
 ### English
 
-strands-ai/agents: strands-ai/agents may be useful when its README and activity match a concrete workflow.. Use it for automation, LLM, database, operations, AWS, audit, approval. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+strands-ai/agents: strands-ai/agents helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-strands-ai/agents: open-source проект в категориях automation, LLM, database, operations, AWS, audit, approval. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+strands-ai/agents: open-source проект в категориях Automation, Database. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-strands-ai/agents：strands-ai/agents may be useful when its README and activity match a concrete workflow.。适合用于automation、LLM、database、operations、AWS、audit、approval。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+strands-ai/agents：strands-ai/agents helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** strands-ai/agents may be useful when its README and activity match a concrete workflow.
+**Value:** strands-ai/agents helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -65,7 +67,7 @@ strands-ai/agents：strands-ai/agents may be useful when its README and activity
 | production | 27/100 |
 | outlook | 26/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 700/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

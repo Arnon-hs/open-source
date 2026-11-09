@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-`cve` `cwe` `gemini` `n8n` `vue`
+`CVE` `cwe` `Gemini` `n8n` `Vue` `Docker`
 
 ## 🎯 Categories
 
-automation · n8n · Gemini · Vue · CVE · security · Docker
+Automation · Security
 
 ## 📝 Summary
 
 ### English
 
-letswritetw/letswrite-vuln-digest: letswritetw/letswrite-vuln-digest may be useful when its README and activity match a concrete workflow.. Use it for automation, n8n, Gemini, Vue, CVE, security, Docker. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+letswritetw/letswrite-vuln-digest: letswritetw/letswrite-vuln-digest helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-letswritetw/letswrite-vuln-digest: open-source проект в категориях automation, n8n, Gemini, Vue, CVE, security, Docker. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+letswritetw/letswrite-vuln-digest: open-source проект в категориях Automation, Security. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-letswritetw/letswrite-vuln-digest：letswritetw/letswrite-vuln-digest may be useful when its README and activity match a concrete workflow.。适合用于automation、n8n、Gemini、Vue、CVE、security、Docker。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+letswritetw/letswrite-vuln-digest：letswritetw/letswrite-vuln-digest helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** letswritetw/letswrite-vuln-digest may be useful when its README and activity match a concrete workflow.
+**Value:** letswritetw/letswrite-vuln-digest helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -68,7 +70,7 @@ letswritetw/letswrite-vuln-digest：letswritetw/letswrite-vuln-digest may be use
 | production | 53/100 |
 | outlook | 51/100 |
 | adoption | 5/100 |
-| categoryMatchCount | 700/100 |
+| categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |

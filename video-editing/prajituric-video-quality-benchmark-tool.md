@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ffmpeg` `videoapi` `api` `ffmpeg`
+`devto` `ffmpeg` `videoapi` `api`
 
 ## 🎯 Categories
 

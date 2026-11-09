@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `devjournal` `llm` `opensource`
+`devto` `opensource` `devjournal` `llm`
 
 ## 🎯 Categories
 

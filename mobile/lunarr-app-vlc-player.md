@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `video` `reactnative` `video` `opensource`
+`devto` `video` `reactnative` `opensource`
 
 ## 🎯 Categories
 

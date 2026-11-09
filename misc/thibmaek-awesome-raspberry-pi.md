@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`awesome` `awesome`
+`awesome`
 
 ## 🎯 Categories
 

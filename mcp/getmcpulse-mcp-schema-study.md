@@ -17,11 +17,11 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`tool schema` `parameter description` `distinctiveness` `token cost` `static analysis`
 
 ## 🎯 Categories
 
-MCP · tool schema · parameter description · distinctiveness · token cost · static analysis
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ getmcpulse/mcp-schema-study: getmcpulse/mcp-schema-study helps connect AI assist
 
 ### Русский
 
-getmcpulse/mcp-schema-study: open-source проект в категориях MCP, tool schema, parameter description, distinctiveness, token cost, static analysis. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+getmcpulse/mcp-schema-study: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -68,7 +68,7 @@ getmcpulse/mcp-schema-study：getmcpulse/mcp-schema-study helps connect AI assis
 | production | 38/100 |
 | outlook | 33/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 40/100 |

@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-`agent-skills` `claude-code` `codex` `cursor` `design` `mcp` `skills` `vibe-coding`
+`agent-skills` `claude-code` `codex` `cursor` `design` `mcp` `skills` `vibe-coding` `Next.js` `Supabase` `static-analysis`
 
 ## 🎯 Categories
 
-security · AI · Next.js · Supabase · static-analysis
+Security · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-avivgerz-hue/unslop: avivgerz-hue/unslop may be useful when its README and activity match a concrete workflow.. Use it for security, AI, Next.js, Supabase, static-analysis. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+avivgerz-hue/unslop: avivgerz-hue/unslop helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-avivgerz-hue/unslop: open-source проект в категориях security, AI, Next.js, Supabase, static-analysis. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+avivgerz-hue/unslop: open-source проект в категориях Security, AI/ML. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-avivgerz-hue/unslop：avivgerz-hue/unslop may be useful when its README and activity match a concrete workflow.。适合用于security、AI、Next.js、Supabase、static-analysis。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+avivgerz-hue/unslop：avivgerz-hue/unslop helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** avivgerz-hue/unslop may be useful when its README and activity match a concrete workflow.
+**Value:** avivgerz-hue/unslop helps catch security and privacy issues earlier in the workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -69,7 +71,7 @@ avivgerz-hue/unslop：avivgerz-hue/unslop may be useful when its README and acti
 | production | 68/100 |
 | outlook | 72/100 |
 | adoption | 21/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 24/100 |
 | forks | 12/100 |
 | recency | 100/100 |

@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `webrtc` `opensource` `p2p`
+`devto` `opensource` `webrtc` `p2p`
 
 ## 🎯 Categories
 

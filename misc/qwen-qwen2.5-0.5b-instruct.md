@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`huggingface` `text-generation` `text-generation`
+`huggingface` `text-generation`
 
 ## 🎯 Categories
 

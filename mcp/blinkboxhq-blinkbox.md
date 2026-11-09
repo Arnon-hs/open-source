@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `automation` `automation` `debugging` `mcp`
+`devto` `automation` `debugging` `mcp`
 
 ## 🎯 Categories
 

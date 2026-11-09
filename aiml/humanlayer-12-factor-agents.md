@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `aie` `agents` `ai`
+`devto` `ai` `aie` `agents`
 
 ## 🎯 Categories
 

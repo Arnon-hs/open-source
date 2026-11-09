@@ -17,11 +17,11 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`semantic search` `agent development` `tool discovery` `DevRel`
 
 ## 🎯 Categories
 
-MCP · semantic search · agent development · tool discovery · DevRel
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ vinkius/vinkius-mcp-catalog: vinkius/vinkius-mcp-catalog helps connect AI assist
 
 ### Русский
 
-vinkius/vinkius-mcp-catalog: open-source проект в категориях MCP, semantic search, agent development, tool discovery, DevRel. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+vinkius/vinkius-mcp-catalog: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -67,7 +67,7 @@ vinkius/vinkius-mcp-catalog：vinkius/vinkius-mcp-catalog helps connect AI assis
 | production | 29/100 |
 | outlook | 26/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

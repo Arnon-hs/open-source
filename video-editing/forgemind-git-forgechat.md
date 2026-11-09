@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ffmpeg` `github` `ffmpeg` `documentation`
+`devto` `ffmpeg` `github` `documentation`
 
 ## 🎯 Categories
 

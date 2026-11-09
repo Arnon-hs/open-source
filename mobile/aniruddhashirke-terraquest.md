@@ -17,25 +17,25 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`offline` `wildlife` `walking` `PWA` `CLIP` `Transformers.js`
 
 ## 🎯 Categories
 
-mobile · offline · AI · wildlife · walking · PWA · CLIP · Transformers.js
+Mobile · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-Aniruddhashirke/TerraQuest: Aniruddhashirke/TerraQuest may be useful when its README and activity match a concrete workflow.. Use it for mobile, offline, AI, wildlife, walking, PWA, CLIP, Transformers.js. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Aniruddhashirke/TerraQuest: Aniruddhashirke/TerraQuest may be useful when its README and activity match a concrete workflow.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Aniruddhashirke/TerraQuest: open-source проект в категориях mobile, offline, AI, wildlife, walking, PWA, CLIP, Transformers.js. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Aniruddhashirke/TerraQuest: open-source проект в категориях Mobile, AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Aniruddhashirke/TerraQuest：Aniruddhashirke/TerraQuest may be useful when its README and activity match a concrete workflow.。适合用于mobile、offline、AI、wildlife、walking、PWA、CLIP、Transformers.js。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Aniruddhashirke/TerraQuest：Aniruddhashirke/TerraQuest may be useful when its README and activity match a concrete workflow.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -43,7 +43,8 @@ Aniruddhashirke/TerraQuest：Aniruddhashirke/TerraQuest may be useful when its R
 
 **Best use cases**
 
-- Not enough metadata yet.
+- prototype AI features
+- build RAG or agent workflows
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -66,7 +67,7 @@ Aniruddhashirke/TerraQuest：Aniruddhashirke/TerraQuest may be useful when its R
 | production | 36/100 |
 | outlook | 29/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 800/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 40/100 |

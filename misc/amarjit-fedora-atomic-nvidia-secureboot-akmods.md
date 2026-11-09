@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `git` `github` `career`
+`devto` `github` `git` `career`
 
 ## 🎯 Categories
 

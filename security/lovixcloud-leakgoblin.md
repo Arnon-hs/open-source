@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `credentials`
 
 ## 🎯 Categories
 
-security · devops · cli · credentials · AI
+Security · DevOps/Infra · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-lovixcloud/leakgoblin: lovixcloud/leakgoblin may be useful when its README and activity match a concrete workflow.. Use it for security, devops, cli, credentials, AI. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+lovixcloud/leakgoblin: lovixcloud/leakgoblin helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-lovixcloud/leakgoblin: open-source проект в категориях security, devops, cli, credentials, AI. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+lovixcloud/leakgoblin: open-source проект в категориях Security, DevOps/Infra, AI/ML. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-lovixcloud/leakgoblin：lovixcloud/leakgoblin may be useful when its README and activity match a concrete workflow.。适合用于security、devops、cli、credentials、AI。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+lovixcloud/leakgoblin：lovixcloud/leakgoblin helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** lovixcloud/leakgoblin may be useful when its README and activity match a concrete workflow.
+**Value:** lovixcloud/leakgoblin helps catch security and privacy issues earlier in the workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -68,7 +70,7 @@ lovixcloud/leakgoblin：lovixcloud/leakgoblin may be useful when its README and 
 | production | 46/100 |
 | outlook | 39/100 |
 | adoption | 9/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 300/100 |
 | stars | 10/100 |
 | forks | 8/100 |
 | recency | 60/100 |

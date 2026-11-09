@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ffmpeg` `gamedev` `godot` `ffmpeg`
+`devto` `ffmpeg` `gamedev` `godot`
 
 ## 🎯 Categories
 

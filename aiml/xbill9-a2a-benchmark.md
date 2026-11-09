@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `bugsmash` `debugging` `ai`
+`devto` `ai` `bugsmash` `debugging`
 
 ## 🎯 Categories
 

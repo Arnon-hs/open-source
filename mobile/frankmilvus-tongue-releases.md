@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `flutter` `dart` `showdev`
+`devto` `showdev` `flutter` `dart`
 
 ## 🎯 Categories
 

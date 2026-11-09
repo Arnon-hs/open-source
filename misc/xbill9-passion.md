@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `weekendchallenge` `googleai` `showdev`
+`devto` `showdev` `weekendchallenge` `googleai`
 
 ## 🎯 Categories
 

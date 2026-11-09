@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `ai` `gemini` `googleappsscript`
+`devto` `ai` `gemini` `googleappsscript`
 
 ## 🎯 Categories
 

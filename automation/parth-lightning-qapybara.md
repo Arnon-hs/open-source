@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`QA` `open-source` `Android` `web` `continuous-integration`
 
 ## 🎯 Categories
 
-automation · AI · QA · open-source · Android · web · continuous-integration
+Automation · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-parth-lightning/QApybara: parth-lightning/QApybara may be useful when its README and activity match a concrete workflow.. Use it for automation, AI, QA, open-source, Android, web, continuous-integration. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+parth-lightning/QApybara: parth-lightning/QApybara helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-parth-lightning/QApybara: open-source проект в категориях automation, AI, QA, open-source, Android, web, continuous-integration. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+parth-lightning/QApybara: open-source проект в категориях Automation, AI/ML. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-parth-lightning/QApybara：parth-lightning/QApybara may be useful when its README and activity match a concrete workflow.。适合用于automation、AI、QA、open-source、Android、web、continuous-integration。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+parth-lightning/QApybara：parth-lightning/QApybara helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** parth-lightning/QApybara may be useful when its README and activity match a concrete workflow.
+**Value:** parth-lightning/QApybara helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -66,7 +68,7 @@ parth-lightning/QApybara：parth-lightning/QApybara may be useful when its READM
 | production | 43/100 |
 | outlook | 36/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 700/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |

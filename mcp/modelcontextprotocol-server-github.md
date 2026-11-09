@@ -17,11 +17,11 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`record/replay` `contract-gating` `linting` `CI`
 
 ## 🎯 Categories
 
-MCP · record/replay · contract-gating · linting · CI
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ modelcontextprotocol/server-github: modelcontextprotocol/server-github helps con
 
 ### Русский
 
-modelcontextprotocol/server-github: open-source проект в категориях MCP, record/replay, contract-gating, linting, CI. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+modelcontextprotocol/server-github: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -67,7 +67,7 @@ modelcontextprotocol/server-github：modelcontextprotocol/server-github helps co
 | production | 27/100 |
 | outlook | 22/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

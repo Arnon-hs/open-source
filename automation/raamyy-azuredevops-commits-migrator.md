@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `azure` `github` `automation`
+`devto` `github` `azure` `automation`
 
 ## 🎯 Categories
 

@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`huggingface` `text-to-speech` `text-to-speech`
+`huggingface` `text-to-speech`
 
 ## 🎯 Categories
 

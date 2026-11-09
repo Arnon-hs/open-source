@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`cli` `quota-management` `multi-account` `python` `uv` `pipx`
 
 ## 🎯 Categories
 
-automation · cli · ai · quota-management · multi-account · python · uv · pipx
+Automation · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-realiti4/agy: realiti4/agy may be useful when its README and activity match a concrete workflow.. Use it for automation, cli, ai, quota-management, multi-account, python, uv, pipx. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+realiti4/agy: realiti4/agy helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-realiti4/agy: open-source проект в категориях automation, cli, ai, quota-management, multi-account, python, uv, pipx. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+realiti4/agy: open-source проект в категориях Automation, AI/ML. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-realiti4/agy：realiti4/agy may be useful when its README and activity match a concrete workflow.。适合用于automation、cli、ai、quota-management、multi-account、python、uv、pipx。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+realiti4/agy：realiti4/agy helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** realiti4/agy may be useful when its README and activity match a concrete workflow.
+**Value:** realiti4/agy helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -65,7 +67,7 @@ realiti4/agy：realiti4/agy may be useful when its README and activity match a c
 | production | 27/100 |
 | outlook | 22/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 800/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

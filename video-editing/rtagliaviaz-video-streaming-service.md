@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ffmpeg` `ffmpeg` `react` `node`
+`devto` `ffmpeg` `react` `node`
 
 ## 🎯 Categories
 

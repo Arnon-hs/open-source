@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `windows` `github` `cli`
+`devto` `github` `windows` `cli`
 
 ## 🎯 Categories
 

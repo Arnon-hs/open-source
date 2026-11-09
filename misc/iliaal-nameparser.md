@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `php` `opensource` `showdev`
+`devto` `showdev` `php` `opensource`
 
 ## 🎯 Categories
 

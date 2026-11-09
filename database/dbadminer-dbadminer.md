@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`go` `docker` `read-only`
 
 ## 🎯 Categories
 
-database · go · docker · read-only · security
+Database · Security
 
 ## 📝 Summary
 
 ### English
 
-dbadminer/dbadminer: dbadminer/dbadminer may be useful when its README and activity match a concrete workflow.. Use it for database, go, docker, read-only, security. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dbadminer/dbadminer: dbadminer/dbadminer helps teams persist, query, and move data with less custom plumbing.. Use it for manage persistence; speed up data access. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-dbadminer/dbadminer: open-source проект в категориях database, go, docker, read-only, security. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dbadminer/dbadminer: open-source проект в категориях Database, Security. Практическое применение: manage persistence; speed up data access. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-dbadminer/dbadminer：dbadminer/dbadminer may be useful when its README and activity match a concrete workflow.。适合用于database、go、docker、read-only、security。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dbadminer/dbadminer：dbadminer/dbadminer helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** dbadminer/dbadminer may be useful when its README and activity match a concrete workflow.
+**Value:** dbadminer/dbadminer helps teams persist, query, and move data with less custom plumbing.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- manage persistence
+- speed up data access
+- prototype database-backed apps
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -66,7 +68,7 @@ dbadminer/dbadminer：dbadminer/dbadminer may be useful when its README and acti
 | production | 51/100 |
 | outlook | 43/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |

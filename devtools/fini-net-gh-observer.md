@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `github` `cli` `tui`
+`devto` `github` `cli` `tui`
 
 ## 🎯 Categories
 

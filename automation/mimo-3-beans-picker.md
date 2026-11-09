@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `automation` `agents` `ai` `automation`
+`devto` `automation` `agents` `ai`
 
 ## 🎯 Categories
 

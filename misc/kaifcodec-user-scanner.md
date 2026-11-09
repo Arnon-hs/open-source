@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `osint` `cybersecurity` `github`
+`devto` `github` `osint` `cybersecurity`
 
 ## 🎯 Categories
 

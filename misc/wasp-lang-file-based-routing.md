@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `architecture` `javascript` `programming`
+`devto` `programming` `architecture` `javascript`
 
 ## 🎯 Categories
 

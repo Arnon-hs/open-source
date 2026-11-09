@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-`cli` `ecommerce` `livestream` `marketing-tools` `python` `sales` `short-video` `small-business`
+`cli` `ecommerce` `livestream` `marketing-tools` `Python` `sales` `short-video` `small-business` `risk-management` `cage` `audit-log`
 
 ## 🎯 Categories
 
-trading · AI · risk-management · Python · cage · audit-log
+Trading · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-jacelovehaha/salestongue: jacelovehaha/salestongue may be useful when its README and activity match a concrete workflow.. Use it for trading, AI, risk-management, Python, cage, audit-log. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jacelovehaha/salestongue: jacelovehaha/salestongue helps research and automate market workflows.. Use it for research trading systems; backtest strategies. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-jacelovehaha/salestongue: open-source проект в категориях trading, AI, risk-management, Python, cage, audit-log. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+jacelovehaha/salestongue: open-source проект в категориях Trading, AI/ML. Практическое применение: research trading systems; backtest strategies. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-jacelovehaha/salestongue：jacelovehaha/salestongue may be useful when its README and activity match a concrete workflow.。适合用于trading、AI、risk-management、Python、cage、audit-log。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jacelovehaha/salestongue：jacelovehaha/salestongue helps research and automate market workflows.。适合用于research trading systems、backtest strategies。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** jacelovehaha/salestongue may be useful when its README and activity match a concrete workflow.
+**Value:** jacelovehaha/salestongue helps research and automate market workflows.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- research trading systems
+- backtest strategies
+- monitor market workflows
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -67,7 +69,7 @@ jacelovehaha/salestongue：jacelovehaha/salestongue may be useful when its READM
 | production | 58/100 |
 | outlook | 60/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |

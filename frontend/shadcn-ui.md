@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`react` `animation` `copy-model` `shadcn` `useLayouts`
 
 ## 🎯 Categories
 
-frontend · react · animation · copy-model · shadcn · useLayouts
+Frontend
 
 ## 📝 Summary
 
 ### English
 
-shadcn/ui: shadcn/ui may be useful when its README and activity match a concrete workflow.. Use it for frontend, react, animation, copy-model, shadcn, useLayouts. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+shadcn/ui: shadcn/ui helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-shadcn/ui: open-source проект в категориях frontend, react, animation, copy-model, shadcn, useLayouts. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+shadcn/ui: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-shadcn/ui：shadcn/ui may be useful when its README and activity match a concrete workflow.。适合用于frontend、react、animation、copy-model、shadcn、useLayouts。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+shadcn/ui：shadcn/ui helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** shadcn/ui may be useful when its README and activity match a concrete workflow.
+**Value:** shadcn/ui helps ship user-facing interfaces with less custom UI work.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- build product UI faster
+- reuse interface components
+- improve frontend delivery
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -65,7 +67,7 @@ shadcn/ui：shadcn/ui may be useful when its README and activity match a concret
 | production | 27/100 |
 | outlook | 22/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

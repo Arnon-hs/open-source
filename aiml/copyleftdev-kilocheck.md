@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `ai` `rust` `cli`
+`devto` `ai` `rust` `cli`
 
 ## 🎯 Categories
 

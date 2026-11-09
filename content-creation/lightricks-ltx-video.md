@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`huggingface` `image-to-video` `image-to-video`
+`huggingface` `image-to-video`
 
 ## 🎯 Categories
 

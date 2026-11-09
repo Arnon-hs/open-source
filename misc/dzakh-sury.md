@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `typescript` `performance` `opensource`
+`devto` `opensource` `typescript` `performance`
 
 ## 🎯 Categories
 

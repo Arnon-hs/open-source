@@ -1,0 +1,79 @@
+# qife422/chief-of-staff
+
+[![Stars](https://img.shields.io/github/stars/qife422/chief-of-staff?style=flat-square&color=yellow)](https://github.com/qife422/chief-of-staff/stargazers) [![Forks](https://img.shields.io/github/forks/qife422/chief-of-staff?style=flat-square&color=blue)](https://github.com/qife422/chief-of-staff/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
+
+> _No description provided._
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | HTML |
+| 📈 **Score** | 30/100 |
+| 🗓️ **Last push** | 2026-10-26 |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`privacy` `in‑browser AI` `open‑weight models`
+
+## 🎯 Categories
+
+Productivity · Automation
+
+## 📝 Summary
+
+### English
+
+qife422/chief-of-staff: qife422/chief-of-staff may be useful when its README and activity match a concrete workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+### Русский
+
+qife422/chief-of-staff: open-source проект в категориях Productivity, Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+
+### 中文
+
+qife422/chief-of-staff：qife422/chief-of-staff may be useful when its README and activity match a concrete workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** qife422/chief-of-staff may be useful when its README and activity match a concrete workflow.
+
+**Best use cases**
+
+- remove manual work
+- connect tools into repeatable flows
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- updated 2026-10-26
+- primary language: HTML
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 42/100 |
+| quality | 26/100 |
+| integration | 18/100 |
+| production | 40/100 |
+| outlook | 36/100 |
+| adoption | 0/100 |
+| categoryMatchCount | 200/100 |
+| stars | 0/100 |
+| forks | 0/100 |
+| recency | 60/100 |
+| topics | 0/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-26 · [View on GitHub](https://github.com/qife422/chief-of-staff) · [← Back to Productivity](./README.md)</sub>

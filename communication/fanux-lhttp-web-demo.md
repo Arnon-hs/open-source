@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `webdev` `programming` `go`
+`devto` `programming` `webdev` `go`
 
 ## 🎯 Categories
 

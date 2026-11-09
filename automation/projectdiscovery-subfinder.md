@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-`bugbounty` `hacking` `hacktoberfest` `osint` `reconnaissance` `subdomain-enumeration` `subdomains`
+`bugbounty` `hacking` `hacktoberfest` `osint` `reconnaissance` `subdomain-enumeration` `subdomains` `attack surface` `CVEngine` `subdomain enumeration` `HTTP probing`
 
 ## 🎯 Categories
 
-automation · attack surface · CVEngine · subdomain enumeration · HTTP probing
+Automation
 
 ## 📝 Summary
 
 ### English
 
-projectdiscovery/subfinder: projectdiscovery/subfinder may be useful when its README and activity match a concrete workflow.. Use it for automation, attack surface, CVEngine, subdomain enumeration, HTTP probing. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+projectdiscovery/subfinder: projectdiscovery/subfinder helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-projectdiscovery/subfinder: open-source проект в категориях automation, attack surface, CVEngine, subdomain enumeration, HTTP probing. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+projectdiscovery/subfinder: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-projectdiscovery/subfinder：projectdiscovery/subfinder may be useful when its README and activity match a concrete workflow.。适合用于automation、attack surface、CVEngine、subdomain enumeration、HTTP probing。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+projectdiscovery/subfinder：projectdiscovery/subfinder helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** projectdiscovery/subfinder may be useful when its README and activity match a concrete workflow.
+**Value:** projectdiscovery/subfinder helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -69,7 +71,7 @@ projectdiscovery/subfinder：projectdiscovery/subfinder may be useful when its R
 | production | 70/100 |
 | outlook | 77/100 |
 | adoption | 86/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 100/100 |
 | stars | 89/100 |
 | forks | 80/100 |
 | recency | 80/100 |

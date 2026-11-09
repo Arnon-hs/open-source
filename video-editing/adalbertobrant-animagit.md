@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `remotion` `github` `hf26challenge`
+`devto` `github` `remotion` `hf26challenge`
 
 ## 🎯 Categories
 

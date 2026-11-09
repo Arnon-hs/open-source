@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `webdev` `programming` `productivity`
+`devto` `programming` `webdev` `productivity`
 
 ## 🎯 Categories
 

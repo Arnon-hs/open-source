@@ -17,11 +17,11 @@
 
 ## 🏷️ Topics
 
-`ai` `claude` `cursor` `mcp` `mcp-server` `nodejs` `web-automation` `zero-dependency`
+`ai` `claude` `cursor` `mcp` `mcp-server` `nodejs` `web-automation` `zero-dependency` `Node.js` `web-browsing`
 
 ## 🎯 Categories
 
-MCP · zero-dependency · Node.js · automation · web-browsing
+MCP · Automation
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ doujiaozh/omni-web-mcp: doujiaozh/omni-web-mcp helps connect AI assistants to re
 
 ### Русский
 
-doujiaozh/omni-web-mcp: open-source проект в категориях MCP, zero-dependency, Node.js, automation, web-browsing. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+doujiaozh/omni-web-mcp: open-source проект в категориях MCP, Automation. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -70,7 +70,7 @@ doujiaozh/omni-web-mcp：doujiaozh/omni-web-mcp helps connect AI assistants to r
 | production | 64/100 |
 | outlook | 68/100 |
 | adoption | 5/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |

@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `testing` `api` `opensource`
+`devto` `opensource` `testing` `api`
 
 ## 🎯 Categories
 

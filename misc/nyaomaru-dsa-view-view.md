@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `showdev` `typescript` `dsa`
+`devto` `showdev` `typescript` `dsa`
 
 ## 🎯 Categories
 

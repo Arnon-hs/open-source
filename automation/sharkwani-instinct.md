@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`coding-agent` `personal-assistant` `task-queue` `branch-management`
 
 ## 🎯 Categories
 
-automation · coding-agent · personal-assistant · task-queue · branch-management
+Automation
 
 ## 📝 Summary
 
 ### English
 
-sharkwani/instinct: sharkwani/instinct may be useful when its README and activity match a concrete workflow.. Use it for automation, coding-agent, personal-assistant, task-queue, branch-management. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+sharkwani/instinct: sharkwani/instinct helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-sharkwani/instinct: open-source проект в категориях automation, coding-agent, personal-assistant, task-queue, branch-management. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+sharkwani/instinct: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-sharkwani/instinct：sharkwani/instinct may be useful when its README and activity match a concrete workflow.。适合用于automation、coding-agent、personal-assistant、task-queue、branch-management。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+sharkwani/instinct：sharkwani/instinct helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** sharkwani/instinct may be useful when its README and activity match a concrete workflow.
+**Value:** sharkwani/instinct helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -65,7 +67,7 @@ sharkwani/instinct：sharkwani/instinct may be useful when its README and activi
 | production | 27/100 |
 | outlook | 22/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

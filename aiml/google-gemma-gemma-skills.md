@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `gemma` `finetuning` `ai`
+`devto` `ai` `gemma` `finetuning`
 
 ## 🎯 Categories
 

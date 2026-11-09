@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `braziliandevs` `opensource` `github`
+`devto` `github` `braziliandevs` `opensource`
 
 ## 🎯 Categories
 

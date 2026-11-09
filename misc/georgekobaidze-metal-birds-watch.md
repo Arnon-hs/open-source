@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `debugging` `showdev` `webdev`
+`devto` `showdev` `debugging` `webdev`
 
 ## 🎯 Categories
 

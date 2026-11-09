@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `rust` `gitlab` `github`
+`devto` `github` `rust` `gitlab`
 
 ## 🎯 Categories
 

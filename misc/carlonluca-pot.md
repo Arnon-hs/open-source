@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `raspberrypi` `linux` `opensource`
+`devto` `opensource` `raspberrypi` `linux`
 
 ## 🎯 Categories
 

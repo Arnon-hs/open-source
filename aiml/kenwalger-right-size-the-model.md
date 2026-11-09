@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `ai` `testing` `programming`
+`devto` `programming` `ai` `testing`
 
 ## 🎯 Categories
 

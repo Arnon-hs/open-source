@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `dotnet` `opensource` `csharp`
+`devto` `opensource` `dotnet` `csharp`
 
 ## 🎯 Categories
 

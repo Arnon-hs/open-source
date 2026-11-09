@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `ai` `agents` `opensource`
+`devto` `opensource` `ai` `agents`
 
 ## 🎯 Categories
 

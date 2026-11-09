@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `ai` `react` `javascript`
+`devto` `ai` `react` `javascript`
 
 ## 🎯 Categories
 

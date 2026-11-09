@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `ai` `github` `arxiv`
+`devto` `github` `ai` `arxiv`
 
 ## 🎯 Categories
 

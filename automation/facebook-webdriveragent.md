@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`iOS` `short-form-video` `mobile-automation`
 
 ## 🎯 Categories
 
-automation · iOS · short-form-video · content-creation · mobile-automation
+Automation · Content Creation
 
 ## 📝 Summary
 
 ### English
 
-facebook/WebDriverAgent: facebook/WebDriverAgent may be useful when its README and activity match a concrete workflow.. Use it for automation, iOS, short-form-video, content-creation, mobile-automation. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+facebook/WebDriverAgent: facebook/WebDriverAgent helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-facebook/WebDriverAgent: open-source проект в категориях automation, iOS, short-form-video, content-creation, mobile-automation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+facebook/WebDriverAgent: open-source проект в категориях Automation, Content Creation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-facebook/WebDriverAgent：facebook/WebDriverAgent may be useful when its README and activity match a concrete workflow.。适合用于automation、iOS、short-form-video、content-creation、mobile-automation。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+facebook/WebDriverAgent：facebook/WebDriverAgent helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** facebook/WebDriverAgent may be useful when its README and activity match a concrete workflow.
+**Value:** facebook/WebDriverAgent helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -65,7 +67,7 @@ facebook/WebDriverAgent：facebook/WebDriverAgent may be useful when its README 
 | production | 27/100 |
 | outlook | 29/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

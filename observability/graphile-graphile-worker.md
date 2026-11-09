@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`self-hosting` `multi-tenant` `open-source` `docker-compose` `timescaledb` `clickhouse` `mongodb` `opentelemetry` `security-audit`
 
 ## 🎯 Categories
 
-observability · self-hosting · multi-tenant · open-source · docker-compose · timescaledb · clickhouse · mongodb · opentelemetry · security-audit
+Observability
 
 ## 📝 Summary
 
 ### English
 
-graphile/graphile-worker: graphile/graphile-worker may be useful when its README and activity match a concrete workflow.. Use it for observability, self-hosting, multi-tenant, open-source, docker-compose, timescaledb, clickhouse, mongodb, opentelemetry, security-audit. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+graphile/graphile-worker: graphile/graphile-worker helps make production behavior easier to inspect and debug.. Use it for monitor systems; debug production behavior. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-graphile/graphile-worker: open-source проект в категориях observability, self-hosting, multi-tenant, open-source, docker-compose, timescaledb, clickhouse, mongodb, opentelemetry, security-audit. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+graphile/graphile-worker: open-source проект в категориях Observability. Практическое применение: monitor systems; debug production behavior. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-graphile/graphile-worker：graphile/graphile-worker may be useful when its README and activity match a concrete workflow.。适合用于observability、self-hosting、multi-tenant、open-source、docker-compose、timescaledb、clickhouse、mongodb、opentelemetry、security-audit。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+graphile/graphile-worker：graphile/graphile-worker helps make production behavior easier to inspect and debug.。适合用于monitor systems、debug production behavior。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** graphile/graphile-worker may be useful when its README and activity match a concrete workflow.
+**Value:** graphile/graphile-worker helps make production behavior easier to inspect and debug.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- monitor systems
+- debug production behavior
+- track service health
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -65,7 +67,7 @@ graphile/graphile-worker：graphile/graphile-worker may be useful when its READM
 | production | 27/100 |
 | outlook | 22/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 1000/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

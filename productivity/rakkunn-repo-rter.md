@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `github` `opensource` `productivity`
+`devto` `github` `opensource` `productivity`
 
 ## 🎯 Categories
 

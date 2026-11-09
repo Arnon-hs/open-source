@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `obsidian` `typescript` `showdev`
+`devto` `showdev` `obsidian` `typescript`
 
 ## 🎯 Categories
 

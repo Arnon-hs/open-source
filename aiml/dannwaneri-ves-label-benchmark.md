@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `devchallenge` `kagglechallenge` `ai`
+`devto` `ai` `devchallenge` `kagglechallenge`
 
 ## 🎯 Categories
 

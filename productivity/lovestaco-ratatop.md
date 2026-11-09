@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `programming` `productivity` `cli`
+`devto` `programming` `productivity` `cli`
 
 ## 🎯 Categories
 

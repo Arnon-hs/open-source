@@ -17,25 +17,25 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`ssh` `remote-work` `terminal` `codex` `herdr`
 
 ## 🎯 Categories
 
-mobile · ssh · ai · remote-work · terminal · codex · herdr · automation
+Mobile · AI/ML · Automation
 
 ## 📝 Summary
 
 ### English
 
-termish/herdr: termish/herdr may be useful when its README and activity match a concrete workflow.. Use it for mobile, ssh, ai, remote-work, terminal, codex, herdr, automation. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+termish/herdr: termish/herdr may be useful when its README and activity match a concrete workflow.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-termish/herdr: open-source проект в категориях mobile, ssh, ai, remote-work, terminal, codex, herdr, automation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+termish/herdr: open-source проект в категориях Mobile, AI/ML, Automation. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-termish/herdr：termish/herdr may be useful when its README and activity match a concrete workflow.。适合用于mobile、ssh、ai、remote-work、terminal、codex、herdr、automation。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+termish/herdr：termish/herdr may be useful when its README and activity match a concrete workflow.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -43,7 +43,8 @@ termish/herdr：termish/herdr may be useful when its README and activity match a
 
 **Best use cases**
 
-- Not enough metadata yet.
+- prototype AI features
+- build RAG or agent workflows
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -65,7 +66,7 @@ termish/herdr：termish/herdr may be useful when its README and activity match a
 | production | 27/100 |
 | outlook | 22/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 800/100 |
+| categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

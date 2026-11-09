@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `ai` `cloudflare` `git`
+`devto` `ai` `cloudflare` `git`
 
 ## 🎯 Categories
 

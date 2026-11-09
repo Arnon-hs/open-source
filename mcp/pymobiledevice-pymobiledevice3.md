@@ -17,11 +17,11 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`iOS` `AI agent` `device control` `open-source`
 
 ## 🎯 Categories
 
-MCP · iOS · AI agent · device control · open-source
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ pymobiledevice/pymobiledevice3: pymobiledevice/pymobiledevice3 helps connect AI 
 
 ### Русский
 
-pymobiledevice/pymobiledevice3: open-source проект в категориях MCP, iOS, AI agent, device control, open-source. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+pymobiledevice/pymobiledevice3: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -67,7 +67,7 @@ pymobiledevice/pymobiledevice3：pymobiledevice/pymobiledevice3 helps connect AI
 | production | 27/100 |
 | outlook | 22/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

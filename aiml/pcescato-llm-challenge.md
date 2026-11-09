@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `ai` `benchmark` `devops`
+`devto` `ai` `benchmark` `devops`
 
 ## 🎯 Categories
 

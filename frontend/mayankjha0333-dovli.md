@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `showdev` `discuss` `react`
+`devto` `showdev` `discuss` `react`
 
 ## 🎯 Categories
 

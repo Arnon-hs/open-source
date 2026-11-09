@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `githubactions` `github` `webdev`
+`devto` `github` `githubactions` `webdev`
 
 ## 🎯 Categories
 

@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `aws` `ai` `governance`
+`devto` `ai` `aws` `governance`
 
 ## 🎯 Categories
 

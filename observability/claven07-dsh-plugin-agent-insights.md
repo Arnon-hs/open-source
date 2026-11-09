@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`agentic` `DeepSeek` `plugin` `metrics` `performance`
 
 ## 🎯 Categories
 
-observability · agentic · DeepSeek · plugin · metrics · performance
+Observability
 
 ## 📝 Summary
 
 ### English
 
-Claven07/dsh-plugin-agent-insights: Claven07/dsh-plugin-agent-insights may be useful when its README and activity match a concrete workflow.. Use it for observability, agentic, DeepSeek, plugin, metrics, performance. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Claven07/dsh-plugin-agent-insights: Claven07/dsh-plugin-agent-insights helps make production behavior easier to inspect and debug.. Use it for monitor systems; debug production behavior. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Claven07/dsh-plugin-agent-insights: open-source проект в категориях observability, agentic, DeepSeek, plugin, metrics, performance. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Claven07/dsh-plugin-agent-insights: open-source проект в категориях Observability. Практическое применение: monitor systems; debug production behavior. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Claven07/dsh-plugin-agent-insights：Claven07/dsh-plugin-agent-insights may be useful when its README and activity match a concrete workflow.。适合用于observability、agentic、DeepSeek、plugin、metrics、performance。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Claven07/dsh-plugin-agent-insights：Claven07/dsh-plugin-agent-insights helps make production behavior easier to inspect and debug.。适合用于monitor systems、debug production behavior。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** Claven07/dsh-plugin-agent-insights may be useful when its README and activity match a concrete workflow.
+**Value:** Claven07/dsh-plugin-agent-insights helps make production behavior easier to inspect and debug.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- monitor systems
+- debug production behavior
+- track service health
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -66,7 +68,7 @@ Claven07/dsh-plugin-agent-insights：Claven07/dsh-plugin-agent-insights may be u
 | production | 38/100 |
 | outlook | 33/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 40/100 |

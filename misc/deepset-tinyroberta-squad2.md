@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`huggingface` `question-answering` `question-answering`
+`huggingface` `question-answering`
 
 ## 🎯 Categories
 

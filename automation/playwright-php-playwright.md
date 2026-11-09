@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `automation` `automation` `php` `symfony`
+`devto` `automation` `php` `symfony`
 
 ## 🎯 Categories
 

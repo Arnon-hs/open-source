@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-`agent-desktop` `ai-agents` `claude-code` `demo-video` `mcp` `playwright` `screen-recording` `screen-studio` `typescript`
+`agent-desktop` `ai-agents` `claude-code` `demo-video` `mcp` `playwright` `screen-recording` `screen-studio` `typescript` `agent` `ffmpeg`
 
 ## 🎯 Categories
 
-automation · screen-recording · agent · playwright · ffmpeg
+Automation
 
 ## 📝 Summary
 
 ### English
 
-gmpetrov/agent-screenplay: gmpetrov/agent-screenplay may be useful when its README and activity match a concrete workflow.. Use it for automation, screen-recording, agent, playwright, ffmpeg. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gmpetrov/agent-screenplay: gmpetrov/agent-screenplay helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-gmpetrov/agent-screenplay: open-source проект в категориях automation, screen-recording, agent, playwright, ffmpeg. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+gmpetrov/agent-screenplay: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-gmpetrov/agent-screenplay：gmpetrov/agent-screenplay may be useful when its README and activity match a concrete workflow.。适合用于automation、screen-recording、agent、playwright、ffmpeg。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+gmpetrov/agent-screenplay：gmpetrov/agent-screenplay helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** gmpetrov/agent-screenplay may be useful when its README and activity match a concrete workflow.
+**Value:** gmpetrov/agent-screenplay helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -68,7 +70,7 @@ gmpetrov/agent-screenplay：gmpetrov/agent-screenplay may be useful when its REA
 | production | 60/100 |
 | outlook | 62/100 |
 | adoption | 9/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 100/100 |
 | stars | 13/100 |
 | forks | 0/100 |
 | recency | 80/100 |

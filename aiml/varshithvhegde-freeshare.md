@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `career` `ai` `programming`
+`devto` `programming` `career` `ai`
 
 ## 🎯 Categories
 

@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`Python` `dependency-management` `CI`
 
 ## 🎯 Categories
 
-security · Python · dependency-management · CI · automation
+Security · Automation
 
 ## 📝 Summary
 
 ### English
 
-dylanXM/litellm-check: dylanXM/litellm-check may be useful when its README and activity match a concrete workflow.. Use it for security, Python, dependency-management, CI, automation. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+dylanXM/litellm-check: dylanXM/litellm-check helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-dylanXM/litellm-check: open-source проект в категориях security, Python, dependency-management, CI, automation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+dylanXM/litellm-check: open-source проект в категориях Security, Automation. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-dylanXM/litellm-check：dylanXM/litellm-check may be useful when its README and activity match a concrete workflow.。适合用于security、Python、dependency-management、CI、automation。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+dylanXM/litellm-check：dylanXM/litellm-check helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** dylanXM/litellm-check may be useful when its README and activity match a concrete workflow.
+**Value:** dylanXM/litellm-check helps catch security and privacy issues earlier in the workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -66,7 +68,7 @@ dylanXM/litellm-check：dylanXM/litellm-check may be useful when its README and 
 | production | 43/100 |
 | outlook | 36/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |

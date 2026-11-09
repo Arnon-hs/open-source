@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `ai` `programming` `architecture`
+`devto` `programming` `ai` `architecture`
 
 ## 🎯 Categories
 

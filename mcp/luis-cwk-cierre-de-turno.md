@@ -17,11 +17,11 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`x402` `license-based billing` `Base` `USDC` `payment facilitator`
 
 ## 🎯 Categories
 
-MCP · x402 · license-based billing · Base · USDC · payment facilitator
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Luis-Cwk/cierre-de-turno: Luis-Cwk/cierre-de-turno helps connect AI assistants t
 
 ### Русский
 
-Luis-Cwk/cierre-de-turno: open-source проект в категориях MCP, x402, license-based billing, Base, USDC, payment facilitator. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Luis-Cwk/cierre-de-turno: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -68,7 +68,7 @@ Luis-Cwk/cierre-de-turno：Luis-Cwk/cierre-de-turno helps connect AI assistants 
 | production | 51/100 |
 | outlook | 47/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |

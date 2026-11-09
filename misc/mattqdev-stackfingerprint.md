@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `opensource` `github` `hacktoberfest`
+`devto` `github` `opensource` `hacktoberfest`
 
 ## 🎯 Categories
 

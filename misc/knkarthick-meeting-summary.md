@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`huggingface` `summarization` `summarization`
+`huggingface` `summarization`
 
 ## 🎯 Categories
 

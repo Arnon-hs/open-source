@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-`ai-agents` `claude-code` `cli` `ioc-scanner` `mcp` `python` `security` `supply-chain-security`
+`ai-agents` `claude-code` `cli` `ioc-scanner` `mcp` `python` `security` `supply-chain-security` `coding-tools` `vulnerability` `scanner`
 
 ## 🎯 Categories
 
-security · AI · coding-tools · vulnerability · scanner
+Security · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-stackscribe-ai/coding-agent-audit: stackscribe-ai/coding-agent-audit may be useful when its README and activity match a concrete workflow.. Use it for security, AI, coding-tools, vulnerability, scanner. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stackscribe-ai/coding-agent-audit: stackscribe-ai/coding-agent-audit helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-stackscribe-ai/coding-agent-audit: open-source проект в категориях security, AI, coding-tools, vulnerability, scanner. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+stackscribe-ai/coding-agent-audit: open-source проект в категориях Security, AI/ML. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-stackscribe-ai/coding-agent-audit：stackscribe-ai/coding-agent-audit may be useful when its README and activity match a concrete workflow.。适合用于security、AI、coding-tools、vulnerability、scanner。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stackscribe-ai/coding-agent-audit：stackscribe-ai/coding-agent-audit helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** stackscribe-ai/coding-agent-audit may be useful when its README and activity match a concrete workflow.
+**Value:** stackscribe-ai/coding-agent-audit helps catch security and privacy issues earlier in the workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- strengthen security checks
+- add auth or privacy controls
+- audit risk earlier
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -67,7 +69,7 @@ stackscribe-ai/coding-agent-audit：stackscribe-ai/coding-agent-audit may be use
 | production | 61/100 |
 | outlook | 63/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 80/100 |

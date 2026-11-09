@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `automation` `apify` `automation` `webdev`
+`devto` `automation` `apify` `webdev`
 
 ## 🎯 Categories
 

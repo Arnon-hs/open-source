@@ -17,11 +17,11 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`JSON-RPC` `AI agents` `tool integration` `protocol design`
 
 ## 🎯 Categories
 
-MCP · JSON-RPC · AI agents · tool integration · protocol design
+MCP
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ modelcontextprotocol/mcp: modelcontextprotocol/mcp helps connect AI assistants t
 
 ### Русский
 
-modelcontextprotocol/mcp: open-source проект в категориях MCP, JSON-RPC, AI agents, tool integration, protocol design. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+modelcontextprotocol/mcp: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -67,7 +67,7 @@ modelcontextprotocol/mcp：modelcontextprotocol/mcp helps connect AI assistants 
 | production | 29/100 |
 | outlook | 26/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 20/100 |

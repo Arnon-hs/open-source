@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `hacktoberfest` `gemmachallenge` `github`
+`devto` `github` `hacktoberfest` `gemmachallenge`
 
 ## 🎯 Categories
 

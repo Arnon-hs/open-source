@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-`captions` `descript-alternative` `fcpxml` `gpu` `speech-to-text` `transcription` `video-editing` `whisper`
+`captions` `descript-alternative` `fcpxml` `gpu` `speech-to-text` `transcription` `video-editing` `whisper` `ffmpeg` `open-source`
 
 ## 🎯 Categories
 
-video editing · transcription · ffmpeg · open-source · automation
+Video Editing · Automation
 
 ## 📝 Summary
 
 ### English
 
-Arthur031221/Spokecut: Arthur031221/Spokecut may be useful when its README and activity match a concrete workflow.. Use it for video editing, transcription, ffmpeg, open-source, automation. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Arthur031221/Spokecut: Arthur031221/Spokecut helps turn media editing, captions, rendering, and transcoding into repeatable workflows.. Use it for automate editing and rendering; generate subtitles or dubbing. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Arthur031221/Spokecut: open-source проект в категориях video editing, transcription, ffmpeg, open-source, automation. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Arthur031221/Spokecut: open-source проект в категориях Video Editing, Automation. Практическое применение: automate editing and rendering; generate subtitles or dubbing. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Arthur031221/Spokecut：Arthur031221/Spokecut may be useful when its README and activity match a concrete workflow.。适合用于video editing、transcription、ffmpeg、open-source、automation。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Arthur031221/Spokecut：Arthur031221/Spokecut helps turn media editing, captions, rendering, and transcoding into repeatable workflows.。适合用于automate editing and rendering、generate subtitles or dubbing。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Arthur031221/Spokecut may be useful when its README and activity match a concrete workflow.
+**Value:** Arthur031221/Spokecut helps turn media editing, captions, rendering, and transcoding into repeatable workflows.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- automate editing and rendering
+- generate subtitles or dubbing
+- build repeatable media-processing pipelines
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -67,7 +69,7 @@ Arthur031221/Spokecut：Arthur031221/Spokecut may be useful when its README and 
 | production | 65/100 |
 | outlook | 64/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |

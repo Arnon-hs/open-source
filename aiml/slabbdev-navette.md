@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `showdev` `rust` `ai`
+`devto` `showdev` `rust` `ai`
 
 ## 🎯 Categories
 

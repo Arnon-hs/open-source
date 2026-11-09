@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `python` `career` `opensource`
+`devto` `opensource` `python` `career`
 
 ## 🎯 Categories
 

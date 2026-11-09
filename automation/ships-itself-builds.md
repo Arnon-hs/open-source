@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `automation` `n8n` `ai` `automation`
+`devto` `automation` `n8n` `ai`
 
 ## 🎯 Categories
 

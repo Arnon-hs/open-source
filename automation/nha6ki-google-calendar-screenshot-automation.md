@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`playwright` `rclone` `systemd` `google-calendar` `google-drive`
 
 ## 🎯 Categories
 
-automation · playwright · rclone · systemd · google-calendar · google-drive
+Automation
 
 ## 📝 Summary
 
 ### English
 
-nha6ki/google-calendar-screenshot-automation: nha6ki/google-calendar-screenshot-automation may be useful when its README and activity match a concrete workflow.. Use it for automation, playwright, rclone, systemd, google-calendar, google-drive. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nha6ki/google-calendar-screenshot-automation: nha6ki/google-calendar-screenshot-automation helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-nha6ki/google-calendar-screenshot-automation: open-source проект в категориях automation, playwright, rclone, systemd, google-calendar, google-drive. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+nha6ki/google-calendar-screenshot-automation: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-nha6ki/google-calendar-screenshot-automation：nha6ki/google-calendar-screenshot-automation may be useful when its README and activity match a concrete workflow.。适合用于automation、playwright、rclone、systemd、google-calendar、google-drive。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+nha6ki/google-calendar-screenshot-automation：nha6ki/google-calendar-screenshot-automation helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** nha6ki/google-calendar-screenshot-automation may be useful when its README and activity match a concrete workflow.
+**Value:** nha6ki/google-calendar-screenshot-automation helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -66,7 +68,7 @@ nha6ki/google-calendar-screenshot-automation：nha6ki/google-calendar-screenshot
 | production | 58/100 |
 | outlook | 54/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 100/100 |

@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`huggingface` `text-classification` `text-classification`
+`huggingface` `text-classification`
 
 ## 🎯 Categories
 

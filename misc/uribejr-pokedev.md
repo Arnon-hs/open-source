@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `showdev` `showdev` `vscode` `typescript`
+`devto` `showdev` `vscode` `typescript`
 
 ## 🎯 Categories
 

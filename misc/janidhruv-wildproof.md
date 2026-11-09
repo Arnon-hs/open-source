@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `devchallenge` `hf26challenge` `opensource`
+`devto` `opensource` `devchallenge` `hf26challenge`
 
 ## 🎯 Categories
 

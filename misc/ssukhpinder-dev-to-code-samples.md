@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `csharp` `dotnet` `programming`
+`devto` `programming` `csharp` `dotnet`
 
 ## 🎯 Categories
 

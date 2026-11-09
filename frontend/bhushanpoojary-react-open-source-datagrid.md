@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `webdev` `programming` `react`
+`devto` `programming` `webdev` `react`
 
 ## 🎯 Categories
 

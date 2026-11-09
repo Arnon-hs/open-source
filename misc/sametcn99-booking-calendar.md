@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `webdev` `selfhosted` `opensource`
+`devto` `opensource` `webdev` `selfhosted`
 
 ## 🎯 Categories
 

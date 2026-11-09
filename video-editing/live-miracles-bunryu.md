@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ffmpeg` `bunryu` `reliability` `ffmpeg`
+`devto` `ffmpeg` `bunryu` `reliability`
 
 ## 🎯 Categories
 

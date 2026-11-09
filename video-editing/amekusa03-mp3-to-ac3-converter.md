@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ffmpeg` `python` `ffmpeg` `audio`
+`devto` `ffmpeg` `python` `audio`
 
 ## 🎯 Categories
 

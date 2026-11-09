@@ -17,25 +17,25 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`desktop` `shell` `cross‑platform`
 
 ## 🎯 Categories
 
-productivity · devtools · desktop · shell · cross‑platform
+Productivity · DevTools
 
 ## 📝 Summary
 
 ### English
 
-RadnusD/stickyshell-home: RadnusD/stickyshell-home may be useful when its README and activity match a concrete workflow.. Use it for productivity, devtools, desktop, shell, cross‑platform. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+RadnusD/stickyshell-home: RadnusD/stickyshell-home may be useful when its README and activity match a concrete workflow.. Use it for speed up developer workflows; automate local engineering tasks. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-RadnusD/stickyshell-home: open-source проект в категориях productivity, devtools, desktop, shell, cross‑platform. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+RadnusD/stickyshell-home: open-source проект в категориях Productivity, DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-RadnusD/stickyshell-home：RadnusD/stickyshell-home may be useful when its README and activity match a concrete workflow.。适合用于productivity、devtools、desktop、shell、cross‑platform。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+RadnusD/stickyshell-home：RadnusD/stickyshell-home may be useful when its README and activity match a concrete workflow.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -43,7 +43,8 @@ RadnusD/stickyshell-home：RadnusD/stickyshell-home may be useful when its READM
 
 **Best use cases**
 
-- Not enough metadata yet.
+- speed up developer workflows
+- automate local engineering tasks
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -66,7 +67,7 @@ RadnusD/stickyshell-home：RadnusD/stickyshell-home may be useful when its READM
 | production | 34/100 |
 | outlook | 30/100 |
 | adoption | 2/100 |
-| categoryMatchCount | 500/100 |
+| categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 8/100 |
 | recency | 40/100 |

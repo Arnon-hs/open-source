@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `programming` `rust` `cli`
+`devto` `programming` `rust` `cli`
 
 ## 🎯 Categories
 

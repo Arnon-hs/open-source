@@ -2,7 +2,7 @@
 
 > 
 
-**33 projects** in this category.
+**37 projects** in this category.
 
 ## Projects
 
@@ -38,9 +38,13 @@
 | 28 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 366 | Rust | 45/100 |
 | 29 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 321 | Mojo | 44/100 |
 | 30 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 156 | Rust | 44/100 |
-| 31 | [mukul9116/fieldclass-ai](./mukul9116-fieldclass-ai.md) | ⭐ 1 | Python | 37/100 |
-| 32 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 33/100 |
-| 33 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 31/100 |
+| 31 | [Jay-Naik2526/or-studio](./jay-naik2526-or-studio.md) | ⭐ — | TypeScript | 44/100 |
+| 32 | [yakshjethva/jvm-inside-out](./yakshjethva-jvm-inside-out.md) | ⭐ 2 | TypeScript | 41/100 |
+| 33 | [mukul9116/fieldclass-ai](./mukul9116-fieldclass-ai.md) | ⭐ 1 | Python | 37/100 |
+| 34 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 33/100 |
+| 35 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 31/100 |
+| 36 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 31/100 |
+| 37 | [sea-deep/gitquest](./sea-deep-gitquest.md) | ⭐ — | — | 24/100 |
 
 ---
 

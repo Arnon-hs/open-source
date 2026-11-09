@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`huggingface` `video-classification` `video-classification`
+`huggingface` `video-classification`
 
 ## 🎯 Categories
 

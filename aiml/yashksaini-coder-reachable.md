@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `programming` `ai` `programming` `rust`
+`devto` `programming` `ai` `rust`
 
 ## 🎯 Categories
 

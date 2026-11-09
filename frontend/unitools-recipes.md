@@ -1,0 +1,79 @@
+# UniTools/recipes
+
+[![Stars](https://img.shields.io/github/stars/UniTools/recipes?style=flat-square&color=yellow)](https://github.com/UniTools/recipes/stargazers) [![Forks](https://img.shields.io/github/forks/UniTools/recipes?style=flat-square&color=blue)](https://github.com/UniTools/recipes/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-28%2F100-brightgreen?style=flat-square)](#)
+
+> _No description provided._
+
+## 📊 Stats
+
+| | |
+|---|---|
+| ⭐ **Stars** | — |
+| 🍴 **Forks** | — |
+| 💻 **Language** | Unknown |
+| 📈 **Score** | 28/100 |
+| 🗓️ **Last push** | — |
+| 🔍 **Source** | story-link |
+
+## 🏷️ Topics
+
+`local-ai` `recipe-matching` `privacy` `open-source` `browser-models`
+
+## 🎯 Categories
+
+Frontend
+
+## 📝 Summary
+
+### English
+
+UniTools/recipes: UniTools/recipes helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+### Русский
+
+UniTools/recipes: open-source проект в категориях Frontend. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+
+### 中文
+
+UniTools/recipes：UniTools/recipes helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+## 🧭 Practical evaluation
+
+**Value:** UniTools/recipes helps ship user-facing interfaces with less custom UI work.
+
+**Best use cases**
+
+- build product UI faster
+- reuse interface components
+- improve frontend delivery
+
+**Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
+
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+
+**Quality signals**
+
+- Not enough metadata yet.
+
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
+
+## 🧮 Score breakdown
+
+| Dimension | Score |
+|---|---:|
+| usefulness | 58/100 |
+| quality | 16/100 |
+| integration | 18/100 |
+| production | 27/100 |
+| outlook | 26/100 |
+| adoption | 0/100 |
+| categoryMatchCount | 100/100 |
+| stars | 0/100 |
+| forks | 0/100 |
+| recency | 20/100 |
+| topics | 0/100 |
+| sourceTrust | 70/100 |
+
+---
+
+<sub>🔭 Discovered 2026-10-18 · [View on GitHub](https://github.com/UniTools/recipes) · [← Back to Frontend](./README.md)</sub>

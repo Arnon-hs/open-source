@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`huggingface` `object-detection` `object-detection`
+`huggingface` `object-detection`
 
 ## 🎯 Categories
 

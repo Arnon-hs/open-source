@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `devchallenge` `hf26challenge` `ai`
+`devto` `ai` `devchallenge` `hf26challenge`
 
 ## 🎯 Categories
 

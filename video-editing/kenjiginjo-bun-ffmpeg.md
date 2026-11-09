@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ffmpeg` `bunjs` `ffmpeg` `typescript`
+`devto` `ffmpeg` `bunjs` `typescript`
 
 ## 🎯 Categories
 

@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `github` `beginners` `automation`
+`devto` `github` `beginners` `automation`
 
 ## 🎯 Categories
 

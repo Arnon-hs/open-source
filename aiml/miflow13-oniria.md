@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ai` `devchallenge` `sanitychallenge` `ai`
+`devto` `ai` `devchallenge` `sanitychallenge`
 
 ## 🎯 Categories
 

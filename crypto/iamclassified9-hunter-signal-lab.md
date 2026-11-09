@@ -17,33 +17,35 @@
 
 ## 🏷️ Topics
 
-_no topics_
+`LLM` `chart-analysis` `student`
 
 ## 🎯 Categories
 
-crypto · automation · LLM · chart-analysis · student · trading
+Crypto · Automation · Trading
 
 ## 📝 Summary
 
 ### English
 
-IamClassified9/hunter-signal-lab: IamClassified9/hunter-signal-lab may be useful when its README and activity match a concrete workflow.. Use it for crypto, automation, LLM, chart-analysis, student, trading. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+IamClassified9/hunter-signal-lab: IamClassified9/hunter-signal-lab helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-IamClassified9/hunter-signal-lab: open-source проект в категориях crypto, automation, LLM, chart-analysis, student, trading. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+IamClassified9/hunter-signal-lab: open-source проект в категориях Crypto, Automation, Trading. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-IamClassified9/hunter-signal-lab：IamClassified9/hunter-signal-lab may be useful when its README and activity match a concrete workflow.。适合用于crypto、automation、LLM、chart-analysis、student、trading。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+IamClassified9/hunter-signal-lab：IamClassified9/hunter-signal-lab helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** IamClassified9/hunter-signal-lab may be useful when its README and activity match a concrete workflow.
+**Value:** IamClassified9/hunter-signal-lab helps prototype or inspect blockchain workflows with open implementation details.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -66,7 +68,7 @@ IamClassified9/hunter-signal-lab：IamClassified9/hunter-signal-lab may be usefu
 | production | 43/100 |
 | outlook | 36/100 |
 | adoption | 0/100 |
-| categoryMatchCount | 600/100 |
+| categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
 | recency | 60/100 |

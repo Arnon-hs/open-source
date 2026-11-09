@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `ffmpeg` `ai` `linux` `ffmpeg`
+`devto` `ffmpeg` `ai` `linux`
 
 ## 🎯 Categories
 

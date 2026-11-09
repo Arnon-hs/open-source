@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `opensource` `wifi7` `opensource` `learning`
+`devto` `opensource` `wifi7` `learning`
 
 ## 🎯 Categories
 

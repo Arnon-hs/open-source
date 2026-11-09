@@ -17,7 +17,7 @@
 
 ## 🏷️ Topics
 
-`devto` `github` `devchallenge` `bugsmash` `github`
+`devto` `github` `devchallenge` `bugsmash`
 
 ## 🎯 Categories
 
