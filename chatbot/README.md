@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [fernand0/another-note-taking-app](./fernand0-another-note-taking-app.md) | ⭐ — | Python | 39/100 |
+| 1 | [fernand0/another-note-taking-app](./fernand0-another-note-taking-app.md) | ⭐ — | Python | 36/100 |
 | 2 | [fernand0/err-notes](./fernand0-err-notes.md) | ⭐ — | Python | 36/100 |
 | 3 | [rockchin/langbot](./rockchin-langbot.md) | ⭐ — | — | 24/100 |
 

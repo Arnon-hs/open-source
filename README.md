@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44887** |
+| **Projects** | **44893** |
 | **Categories** | **658** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,8 +23,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 18161 | [Browse →](./misc/) |
-| 🤖 **AI/ML** | 4720 | [Browse →](./aiml/) |
+| 📦 **Misc** | 18164 | [Browse →](./misc/) |
+| 🤖 **AI/ML** | 4721 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2951 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2446 | [Browse →](./orchestration/) |
 | 🔧 **DevTools** | 1623 | [Browse →](./devtools/) |
@@ -74,33 +74,33 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Git** | 9 | [Browse →](./git/) |
 | 🏷️ **Android** | 9 | [Browse →](./android/) |
 | 🏷️ **Rust** | 9 | [Browse →](./rust/) |
+| 🏷️ **Self-hosted** | 8 | [Browse →](./self-hosted/) |
 | 🏷️ **Ai-coding** | 8 | [Browse →](./ai-coding/) |
 | 🏷️ **Github-actions** | 8 | [Browse →](./github-actions/) |
 | 🏷️ **Macos** | 8 | [Browse →](./macos/) |
 | 🎯 **Product** | 7 | [Browse →](./product/) |
 | 🏷️ **Ci** | 7 | [Browse →](./ci/) |
 | 🏷️ **Edge-ai** | 7 | [Browse →](./edge-ai/) |
-| 🏷️ **Self-hosted** | 7 | [Browse →](./self-hosted/) |
+| 🏷️ **N8n** | 6 | [Browse →](./n8n/) |
 | 🏷️ **Documentation** | 6 | [Browse →](./documentation/) |
 | 🏷️ **Cli** | 6 | [Browse →](./cli/) |
 | 🏷️ **Multi-agent** | 6 | [Browse →](./multi-agent/) |
 | 🏷️ **Ai-agent** | 6 | [Browse →](./ai-agent/) |
 | 🏷️ **Whatsapp** | 6 | [Browse →](./whatsapp/) |
+| 🏷️ **Coding-agents** | 5 | [Browse →](./coding-agents/) |
 | 🏷️ **Agent** | 5 | [Browse →](./agent/) |
 | 🏷️ **Home-automation** | 5 | [Browse →](./home-automation/) |
 | 🏷️ **Go** | 5 | [Browse →](./go/) |
 | 🏷️ **Docker** | 5 | [Browse →](./docker/) |
-| 🏷️ **N8n** | 5 | [Browse →](./n8n/) |
-| 🏷️ **Terminal** | 5 | [Browse →](./terminal/) |
 | 🏷️ **Offline-ai** | 5 | [Browse →](./offline-ai/) |
 | 🏷️ **Hackathon** | 5 | [Browse →](./hackathon/) |
 | 🌐 **Open Source** | 4 | [Browse →](./opensource/) |
 | 🏷️ **Nodejs** | 4 | [Browse →](./nodejs/) |
-| 🏷️ **Coding-agents** | 4 | [Browse →](./coding-agents/) |
 | 🏷️ **Coding-agent** | 4 | [Browse →](./coding-agent/) |
 | 🏷️ **Flutter** | 4 | [Browse →](./flutter/) |
 | 🏷️ **Nextjs** | 4 | [Browse →](./nextjs/) |
 | 🏷️ **Windows** | 4 | [Browse →](./windows/) |
+| 🏷️ **Terminal** | 4 | [Browse →](./terminal/) |
 | 🏷️ **Kubernetes** | 4 | [Browse →](./kubernetes/) |
 | 🏷️ **Open-source-ai** | 4 | [Browse →](./open-source-ai/) |
 | 🏷️ **Devchallenge** | 4 | [Browse →](./devchallenge/) |
