@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [acidnyan/agent-collab-platform](./acidnyan-agent-collab-platform.md) | ⭐ — | TypeScript | 41/100 |
+| 1 | [acidnyan/agent-collab-platform](./acidnyan-agent-collab-platform.md) | ⭐ — | TypeScript | 38/100 |
 
 ---
 

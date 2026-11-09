@@ -14,7 +14,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44901** |
+| **Projects** | **44908** |
 | **Categories** | **661** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 18166 | [Browse →](./misc/) |
+| 📦 **Misc** | 18170 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4721 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2951 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2446 | [Browse →](./orchestration/) |
@@ -37,11 +37,11 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Networking** | 668 | [Browse →](./networking/) |
 | 🏷️ **Knowledgerag** | 633 | [Browse →](./knowledgerag/) |
 | 🏷️ **Cloud--storage** | 627 | [Browse →](./cloud--storage/) |
-| 🏷️ **Video-editing** | 605 | [Browse →](./video-editing/) |
+| 🏷️ **Video-editing** | 606 | [Browse →](./video-editing/) |
 | 🏷️ **Database** | 576 | [Browse →](./database/) |
 | 🚀 **DevOps & Infra** | 537 | [Browse →](./devopsinfra/) |
 | 🏷️ **Templates** | 490 | [Browse →](./templates/) |
-| 🏷️ **Communication** | 473 | [Browse →](./communication/) |
+| 🏷️ **Communication** | 474 | [Browse →](./communication/) |
 | 🔐 **Security** | 472 | [Browse →](./security/) |
 | 💳 **Payments** | 377 | [Browse →](./payments/) |
 | 🏷️ **Games--graphics** | 351 | [Browse →](./games--graphics/) |
@@ -51,7 +51,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Libraries--sdks** | 275 | [Browse →](./libraries--sdks/) |
 | 📈 **Trading** | 222 | [Browse →](./trading/) |
 | ✨ **Design** | 192 | [Browse →](./design/) |
-| 🏷️ **Vertical-video** | 160 | [Browse →](./vertical-video/) |
+| 🏷️ **Vertical-video** | 161 | [Browse →](./vertical-video/) |
 | 🏷️ **Content-creation** | 157 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 156 | [Browse →](./ai/) |
 | 🏷️ **Ai-agents** | 49 | [Browse →](./ai-agents/) |

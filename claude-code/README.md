@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mralexivy/AutoMode](./mralexivy-automode.md) | ⭐ 8 | TypeScript | 67/100 |
+| 1 | [mralexivy/AutoMode](./mralexivy-automode.md) | ⭐ 8 | TypeScript | 63/100 |
 | 2 | [congptvinadic-debug/token-diet](./congptvinadic-debug-token-diet.md) | ⭐ — | JavaScript | 61/100 |
 | 3 | [jasveerai88/permission-audit](./jasveerai88-permission-audit.md) | ⭐ — | Python | 60/100 |
 | 4 | [kbirger/claude-rc-launcher](./kbirger-claude-rc-launcher.md) | ⭐ — | TypeScript | 49/100 |
