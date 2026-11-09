@@ -1,6 +1,6 @@
 # suseendar1414/pursestring
 
-[![Stars](https://img.shields.io/github/stars/suseendar1414/pursestring?style=flat-square&color=yellow)](https://github.com/suseendar1414/pursestring/stargazers) [![Forks](https://img.shields.io/github/forks/suseendar1414/pursestring?style=flat-square&color=blue)](https://github.com/suseendar1414/pursestring/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/suseendar1414/pursestring?style=flat-square&color=yellow)](https://github.com/suseendar1414/pursestring/stargazers) [![Forks](https://img.shields.io/github/forks/suseendar1414/pursestring?style=flat-square&color=blue)](https://github.com/suseendar1414/pursestring/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source financial interface for AI agents. One MCP server, the same rules on every payment provider: required reasons, duplicate-charge protection, human approval for risky spend, and an audit log. Self-hosted. Lithic cards today, more via community adapters.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -61,15 +61,15 @@ suseendar1414/pursestring：suseendar1414/pursestring may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 53/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 800/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 
