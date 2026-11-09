@@ -1,6 +1,6 @@
 # Burapa-J/apexsignal-b2b-mcp-suite
 
-[![Stars](https://img.shields.io/github/stars/Burapa-J/apexsignal-b2b-mcp-suite?style=flat-square&color=yellow)](https://github.com/Burapa-J/apexsignal-b2b-mcp-suite/stargazers) [![Forks](https://img.shields.io/github/forks/Burapa-J/apexsignal-b2b-mcp-suite?style=flat-square&color=blue)](https://github.com/Burapa-J/apexsignal-b2b-mcp-suite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Burapa-J/apexsignal-b2b-mcp-suite?style=flat-square&color=yellow)](https://github.com/Burapa-J/apexsignal-b2b-mcp-suite/stargazers) [![Forks](https://img.shields.io/github/forks/Burapa-J/apexsignal-b2b-mcp-suite?style=flat-square&color=blue)](https://github.com/Burapa-J/apexsignal-b2b-mcp-suite/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Sub-2s B2B Lead Enrichment, Bulk Email DNS MX Verifier, and ATS Job Listing MCP Server Suite for Claude, Cursor & n8n (powered by @apexsignal on Apify Store)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Burapa-J/apexsignal-b2b-mcp-suite：Burapa-J/apexsignal-b2b-mcp-suite may be use
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 70/100 |
+| production | 58/100 |
+| outlook | 63/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 700/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

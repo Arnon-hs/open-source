@@ -15,11 +15,11 @@
 | 5 | [pkbhalla/MadrasFieldNotes](./pkbhalla-madrasfieldnotes.md) | ⭐ — | TypeScript | 33/100 |
 | 6 | [coderForLife-A1/EdgeEcho](./coderforlife-a1-edgeecho.md) | ⭐ — | Python | 33/100 |
 | 7 | [DhirajB05/HacktoberFest_C2](./dhirajb05-hacktoberfest-c2.md) | ⭐ — | Python | 33/100 |
-| 8 | [Shreyansh00987/Sidequest](./shreyansh00987-sidequest.md) | ⭐ — | TypeScript | 33/100 |
-| 9 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 31/100 |
-| 10 | [ish1416/SlothSnooze-AI](./ish1416-slothsnooze-ai.md) | ⭐ — | JavaScript | 30/100 |
-| 11 | [disanalam2/trailecho](./disanalam2-trailecho.md) | ⭐ — | JavaScript | 30/100 |
-| 12 | [devkumar2313/TrailMind](./devkumar2313-trailmind.md) | ⭐ — | HTML | 30/100 |
+| 8 | [samboaz/your_offline_ai](./samboaz-your-offline-ai.md) | ⭐ 1 | Python | 31/100 |
+| 9 | [ish1416/SlothSnooze-AI](./ish1416-slothsnooze-ai.md) | ⭐ — | JavaScript | 30/100 |
+| 10 | [disanalam2/trailecho](./disanalam2-trailecho.md) | ⭐ — | JavaScript | 30/100 |
+| 11 | [devkumar2313/TrailMind](./devkumar2313-trailmind.md) | ⭐ — | HTML | 30/100 |
+| 12 | [Shreyansh00987/Sidequest](./shreyansh00987-sidequest.md) | ⭐ — | TypeScript | 30/100 |
 | 13 | [praneshnikhar/wanderlog](./praneshnikhar-wanderlog.md) | ⭐ — | TypeScript | 30/100 |
 | 14 | [mohit01-beep/floraquest](./mohit01-beep-floraquest.md) | ⭐ — | Python | 30/100 |
 | 15 | [AdityaAneNenu/touchgrass-garden](./adityaanenenu-touchgrass-garden.md) | ⭐ — | Python | 30/100 |

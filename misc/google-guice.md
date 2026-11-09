@@ -1,6 +1,6 @@
 # google/guice
 
-[![Stars](https://img.shields.io/github/stars/google/guice?style=flat-square&color=yellow)](https://github.com/google/guice/stargazers) [![Forks](https://img.shields.io/github/forks/google/guice?style=flat-square&color=blue)](https://github.com/google/guice/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/google/guice?style=flat-square&color=yellow)](https://github.com/google/guice/stargazers) [![Forks](https://img.shields.io/github/forks/google/guice?style=flat-square&color=blue)](https://github.com/google/guice/network) [![Language](https://img.shields.io/badge/lang-Java-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 11 and above, brought to you by Google.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12.7k |
 | 🍴 **Forks** | 1.7k |
 | 💻 **Language** | Java |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ google/guice：google/guice may be useful when its README and activity match a c
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 74/100 |
+| quality | 69/100 |
 | integration | 46/100 |
-| production | 71/100 |
-| outlook | 75/100 |
+| production | 65/100 |
+| outlook | 68/100 |
 | adoption | 85/100 |
 | categoryMatchCount | 0/100 |
 | stars | 87/100 |
 | forks | 81/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [mattleads/agent-publishing-bundle](./mattleads-agent-publishing-bundle.md) | ⭐ — | PHP | 58/100 |
+| 1 | [mattleads/agent-publishing-bundle](./mattleads-agent-publishing-bundle.md) | ⭐ — | PHP | 55/100 |
 
 ---
 

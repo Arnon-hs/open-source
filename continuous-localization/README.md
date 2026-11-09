@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [glossia/glossia](./glossia-glossia.md) | ⭐ 1 | Elixir | 40/100 |
+| 1 | [glossia/glossia](./glossia-glossia.md) | ⭐ 1 | Elixir | 37/100 |
 
 ---
 
