@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [jfscoertzen/AntiSlopScan](./jfscoertzen-antislopscan.md) | ⭐ — | TypeScript | 46/100 |
+| 1 | [jfscoertzen/AntiSlopScan](./jfscoertzen-antislopscan.md) | ⭐ — | TypeScript | 43/100 |
 
 ---
 

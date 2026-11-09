@@ -1,6 +1,6 @@
 # TryGhost/node-sqlite3
 
-[![Stars](https://img.shields.io/github/stars/TryGhost/node-sqlite3?style=flat-square&color=yellow)](https://github.com/TryGhost/node-sqlite3/stargazers) [![Forks](https://img.shields.io/github/forks/TryGhost/node-sqlite3?style=flat-square&color=blue)](https://github.com/TryGhost/node-sqlite3/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/TryGhost/node-sqlite3?style=flat-square&color=yellow)](https://github.com/TryGhost/node-sqlite3/stargazers) [![Forks](https://img.shields.io/github/forks/TryGhost/node-sqlite3?style=flat-square&color=blue)](https://github.com/TryGhost/node-sqlite3/network) [![Language](https://img.shields.io/badge/lang-PLpgSQL-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > SQLite3 bindings for Node.js
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 844 |
 | 💻 **Language** | PLpgSQL |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ TryGhost/node-sqlite3：TryGhost/node-sqlite3 may be useful when its README and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 30/100 |
-| production | 68/100 |
-| outlook | 70/100 |
+| production | 61/100 |
+| outlook | 63/100 |
 | adoption | 79/100 |
 | categoryMatchCount | 600/100 |
 | stars | 81/100 |
 | forks | 73/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

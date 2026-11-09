@@ -35,10 +35,10 @@
 | 25 | [OOuph/agent-team](./oouph-agent-team.md) | ⭐ — | Python | 44/100 |
 | 26 | [ESeungJun/fix-proposal](./eseungjun-fix-proposal.md) | ⭐ 1 | JavaScript | 44/100 |
 | 27 | [gracelee087/lecture-gate](./gracelee087-lecture-gate.md) | ⭐ — | TypeScript | 44/100 |
-| 28 | [apexxx01/jury](./apexxx01-jury.md) | ⭐ 1 | Python | 43/100 |
-| 29 | [yunwei37/proofserve](./yunwei37-proofserve.md) | ⭐ 1 | Python | 41/100 |
-| 30 | [JonScott79/Pythos](./jonscott79-pythos.md) | ⭐ — | JavaScript | 41/100 |
-| 31 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 41/100 |
+| 28 | [yunwei37/proofserve](./yunwei37-proofserve.md) | ⭐ 1 | Python | 41/100 |
+| 29 | [JonScott79/Pythos](./jonscott79-pythos.md) | ⭐ — | JavaScript | 41/100 |
+| 30 | [miilo-ai/homebrew-cli](./miilo-ai-homebrew-cli.md) | ⭐ — | Python | 41/100 |
+| 31 | [apexxx01/jury](./apexxx01-jury.md) | ⭐ 1 | Python | 40/100 |
 | 32 | [cozyCodr/pamsika](./cozycodr-pamsika.md) | ⭐ — | TypeScript | 39/100 |
 | 33 | [jaysid97/pr-pilot](./jaysid97-pr-pilot.md) | ⭐ — | Python | 39/100 |
 | 34 | [samruddhi-space/BugStorm](./samruddhi-space-bugstorm.md) | ⭐ — | Python | 39/100 |

@@ -1,6 +1,6 @@
 # kubevirt/containerized-data-importer
 
-[![Stars](https://img.shields.io/github/stars/kubevirt/containerized-data-importer?style=flat-square&color=yellow)](https://github.com/kubevirt/containerized-data-importer/stargazers) [![Forks](https://img.shields.io/github/forks/kubevirt/containerized-data-importer?style=flat-square&color=blue)](https://github.com/kubevirt/containerized-data-importer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kubevirt/containerized-data-importer?style=flat-square&color=yellow)](https://github.com/kubevirt/containerized-data-importer/stargazers) [![Forks](https://img.shields.io/github/forks/kubevirt/containerized-data-importer?style=flat-square&color=blue)](https://github.com/kubevirt/containerized-data-importer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Data Import Service for kubernetes, designed with kubevirt in mind.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 537 |
 | 🍴 **Forks** | 355 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ kubevirt/containerized-data-importer：kubevirt/containerized-data-importer may 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 62/100 |
+| quality | 57/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 65/100 |
+| production | 63/100 |
+| outlook | 58/100 |
 | adoption | 60/100 |
 | categoryMatchCount | 700/100 |
 | stars | 58/100 |
 | forks | 64/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kubevirt/containerized-data-importer](./kubevirt-containerized-data-importer.md) | ⭐ 537 | Go | 59/100 |
+| 1 | [kubevirt/containerized-data-importer](./kubevirt-containerized-data-importer.md) | ⭐ 537 | Go | 56/100 |
 
 ---
 

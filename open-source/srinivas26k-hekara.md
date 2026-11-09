@@ -1,6 +1,6 @@
 # Srinivas26k/Hekara
 
-[![Stars](https://img.shields.io/github/stars/Srinivas26k/Hekara?style=flat-square&color=yellow)](https://github.com/Srinivas26k/Hekara/stargazers) [![Forks](https://img.shields.io/github/forks/Srinivas26k/Hekara?style=flat-square&color=blue)](https://github.com/Srinivas26k/Hekara/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Srinivas26k/Hekara?style=flat-square&color=yellow)](https://github.com/Srinivas26k/Hekara/stargazers) [![Forks](https://img.shields.io/github/forks/Srinivas26k/Hekara?style=flat-square&color=blue)](https://github.com/Srinivas26k/Hekara/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source scheduling and operations for home health agencies: live caregiver timeline, open-shift filling, overtime watch, care plans, compliance and billing. Field-level encryption, role-based access, portable hosting. TypeScript, Hono, SolidJS, Postgres.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ Srinivas26k/Hekara：Srinivas26k/Hekara may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 65/100 |
+| production | 57/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 700/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

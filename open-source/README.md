@@ -12,8 +12,8 @@
 | 2 | [tranphucbol/table-craft](./tranphucbol-table-craft.md) | ⭐ 30 | TypeScript | 64/100 |
 | 3 | [Domenico-Tenace-Open-Labs/web-dev-agent](./domenico-tenace-open-labs-web-dev-agent.md) | ⭐ 3 | Python | 59/100 |
 | 4 | [Thanksgiver233/nanoMuse](./thanksgiver233-nanomuse.md) | ⭐ 1 | Swift | 57/100 |
-| 5 | [Srinivas26k/Hekara](./srinivas26k-hekara.md) | ⭐ 1 | TypeScript | 52/100 |
-| 6 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 50/100 |
+| 5 | [Backboard-io/Backboard-R-CLI](./backboard-io-backboard-r-cli.md) | ⭐ 101 | TypeScript | 50/100 |
+| 6 | [Srinivas26k/Hekara](./srinivas26k-hekara.md) | ⭐ 1 | TypeScript | 49/100 |
 | 7 | [thoughtpivot/scribe](./thoughtpivot-scribe.md) | ⭐ 4 | TypeScript | 46/100 |
 | 8 | [DeadY2J/skills-es](./deady2j-skills-es.md) | ⭐ — | Python | 45/100 |
 | 9 | [mukuvi/doorman](./mukuvi-doorman.md) | ⭐ — | Python | 42/100 |
