@@ -11,8 +11,8 @@
 | 1 | [tudor-22/MetalML](./tudor-22-metalml.md) | ⭐ 5 | Python | 57/100 |
 | 2 | [inuh22/Sync-SL](./inuh22-sync-sl.md) | ⭐ — | Python | 54/100 |
 | 3 | [MeesWijnants/pelosi-trade-finder](./meeswijnants-pelosi-trade-finder.md) | ⭐ — | Python | 43/100 |
-| 4 | [gu-shen/support-faq-bot](./gu-shen-support-faq-bot.md) | ⭐ — | Python | 39/100 |
-| 5 | [marshlw/vistest](./marshlw-vistest.md) | ⭐ — | Python | 39/100 |
+| 4 | [marshlw/vistest](./marshlw-vistest.md) | ⭐ — | Python | 39/100 |
+| 5 | [gu-shen/support-faq-bot](./gu-shen-support-faq-bot.md) | ⭐ — | Python | 36/100 |
 | 6 | [AayushiShinde/DeadCode-](./aayushishinde-deadcode-.md) | ⭐ — | Python | 36/100 |
 | 7 | [Hamdialaqal/mcp_developer_stack_v1.0.0](./hamdialaqal-mcp-developer-stack-v1.0.0.md) | ⭐ — | HTML | 35/100 |
 | 8 | [AmaLS367/CredWeave](./amals367-credweave.md) | ⭐ — | Python | 30/100 |

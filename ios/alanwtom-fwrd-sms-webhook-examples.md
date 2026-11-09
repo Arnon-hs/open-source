@@ -1,6 +1,6 @@
 # alanwtom/fwrd-sms-webhook-examples
 
-[![Stars](https://img.shields.io/github/stars/alanwtom/fwrd-sms-webhook-examples?style=flat-square&color=yellow)](https://github.com/alanwtom/fwrd-sms-webhook-examples/stargazers) [![Forks](https://img.shields.io/github/forks/alanwtom/fwrd-sms-webhook-examples?style=flat-square&color=blue)](https://github.com/alanwtom/fwrd-sms-webhook-examples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alanwtom/fwrd-sms-webhook-examples?style=flat-square&color=yellow)](https://github.com/alanwtom/fwrd-sms-webhook-examples/stargazers) [![Forks](https://img.shields.io/github/forks/alanwtom/fwrd-sms-webhook-examples?style=flat-square&color=blue)](https://github.com/alanwtom/fwrd-sms-webhook-examples/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Receive iPhone text messages in n8n, Zapier, Make, Cloudflare Workers, Node, Python or an AI agent with Fwrd's SMS webhook. Exact payload + working examples.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-26 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ alanwtom/fwrd-sms-webhook-examples：alanwtom/fwrd-sms-webhook-examples may be u
 - primary language: Python
 - 11 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 45/100 |
+| quality | 41/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 60/100 |
+| production | 52/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 600/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
