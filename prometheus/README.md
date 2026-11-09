@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [danielfm/pybreaker](./danielfm-pybreaker.md) | ⭐ 699 | Python | 52/100 |
+| 1 | [danielfm/pybreaker](./danielfm-pybreaker.md) | ⭐ 699 | Python | 49/100 |
 
 ---
 
