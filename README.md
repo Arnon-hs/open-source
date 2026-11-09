@@ -14,8 +14,8 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | | |
 |---|---|
-| **Projects** | **44861** |
-| **Categories** | **652** |
+| **Projects** | **44863** |
+| **Categories** | **653** |
 | **Refresh** | Continuously maintained by AtlasRepo Scout |
 | **Metadata** | Repository signals, multilingual summaries and practical evaluations |
 
@@ -23,7 +23,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 
 | Category | Projects | |
 |---|---|---|
-| 📦 **Misc** | 18147 | [Browse →](./misc/) |
+| 📦 **Misc** | 18148 | [Browse →](./misc/) |
 | 🤖 **AI/ML** | 4719 | [Browse →](./aiml/) |
 | 🏷️ **Mcp** | 2950 | [Browse →](./mcp/) |
 | 🧩 **Orchestration** | 2446 | [Browse →](./orchestration/) |
@@ -52,7 +52,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 📈 **Trading** | 222 | [Browse →](./trading/) |
 | ✨ **Design** | 192 | [Browse →](./design/) |
 | 🏷️ **Vertical-video** | 160 | [Browse →](./vertical-video/) |
-| 🏷️ **Content-creation** | 156 | [Browse →](./content-creation/) |
+| 🏷️ **Content-creation** | 157 | [Browse →](./content-creation/) |
 | 🏷️ **Ai** | 156 | [Browse →](./ai/) |
 | 🏷️ **Ai-agents** | 48 | [Browse →](./ai-agents/) |
 | 🏷️ **Open-source** | 47 | [Browse →](./open-source/) |
@@ -169,7 +169,6 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Testing** | 2 | [Browse →](./testing/) |
 | 🏷️ **Context-management** | 2 | [Browse →](./context-management/) |
 | 🏷️ **Ai-audit** | 2 | [Browse →](./ai-audit/) |
-| 🏷️ **Linter** | 2 | [Browse →](./linter/) |
 | 🏷️ **Prompt-caching** | 2 | [Browse →](./prompt-caching/) |
 | 🏷️ **Lean4** | 2 | [Browse →](./lean4/) |
 | 🏷️ **Django** | 2 | [Browse →](./django/) |
@@ -235,6 +234,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Free-tools** | 2 | [Browse →](./free-tools/) |
 | 🏷️ **Autonomous-agent** | 2 | [Browse →](./autonomous-agent/) |
 | 🏷️ **Ai-integration** | 2 | [Browse →](./ai-integration/) |
+| 🏷️ **Robotics** | 1 | [Browse →](./robotics/) |
 | 🏷️ **Pm2** | 1 | [Browse →](./pm2/) |
 | 🏷️ **Openworkproof** | 1 | [Browse →](./openworkproof/) |
 | 🏷️ **Google-sheets** | 1 | [Browse →](./google-sheets/) |
@@ -319,6 +319,7 @@ This repository turns a fast-moving open-source ecosystem into a browsable and m
 | 🏷️ **Backup** | 1 | [Browse →](./backup/) |
 | 🏷️ **Shader** | 1 | [Browse →](./shader/) |
 | 🏷️ **Procedural** | 1 | [Browse →](./procedural/) |
+| 🏷️ **Linter** | 1 | [Browse →](./linter/) |
 | 🏷️ **Scrapy** | 1 | [Browse →](./scrapy/) |
 | 🏷️ **Whiteboard** | 1 | [Browse →](./whiteboard/) |
 | 🏷️ **Prometheus** | 1 | [Browse →](./prometheus/) |
