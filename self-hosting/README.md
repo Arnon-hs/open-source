@@ -10,8 +10,8 @@
 |---|---|---|---|---|
 | 1 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 37 | Go | 62/100 |
 | 2 | [corvus-gateway/corvus](./corvus-gateway-corvus.md) | ⭐ 1 | TypeScript | 60/100 |
-| 3 | [AydenGroup/nitrobase](./aydengroup-nitrobase.md) | ⭐ 5 | TypeScript | 46/100 |
-| 4 | [altrudev/lullwire-relay](./altrudev-lullwire-relay.md) | ⭐ — | JavaScript | 45/100 |
+| 3 | [altrudev/lullwire-relay](./altrudev-lullwire-relay.md) | ⭐ — | JavaScript | 45/100 |
+| 4 | [AydenGroup/nitrobase](./aydengroup-nitrobase.md) | ⭐ 5 | TypeScript | 43/100 |
 | 5 | [toclocoinc/dynamoat](./toclocoinc-dynamoat.md) | ⭐ — | Go | 39/100 |
 | 6 | [aladdin0414/hellodoc](./aladdin0414-hellodoc.md) | ⭐ 1 | Java | 34/100 |
 | 7 | [opendocyai/Open-Docy](./opendocyai-open-docy.md) | ⭐ — | JavaScript | 33/100 |

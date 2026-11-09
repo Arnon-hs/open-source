@@ -1,6 +1,6 @@
 # internetgodf/GitGraphLive
 
-[![Stars](https://img.shields.io/github/stars/internetgodf/GitGraphLive?style=flat-square&color=yellow)](https://github.com/internetgodf/GitGraphLive/stargazers) [![Forks](https://img.shields.io/github/forks/internetgodf/GitGraphLive?style=flat-square&color=blue)](https://github.com/internetgodf/GitGraphLive/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/internetgodf/GitGraphLive?style=flat-square&color=yellow)](https://github.com/internetgodf/GitGraphLive/stargazers) [![Forks](https://img.shields.io/github/forks/internetgodf/GitGraphLive?style=flat-square&color=blue)](https://github.com/internetgodf/GitGraphLive/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -56,22 +56,22 @@ internetgodf/GitGraphLive：internetgodf/GitGraphLive may be useful when its REA
 - primary language: JavaScript
 - 6 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 34/100 |
-| production | 61/100 |
-| outlook | 59/100 |
+| production | 54/100 |
+| outlook | 52/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 500/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

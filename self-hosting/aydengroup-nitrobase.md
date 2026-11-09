@@ -1,6 +1,6 @@
 # AydenGroup/nitrobase
 
-[![Stars](https://img.shields.io/github/stars/AydenGroup/nitrobase?style=flat-square&color=yellow)](https://github.com/AydenGroup/nitrobase/stargazers) [![Forks](https://img.shields.io/github/forks/AydenGroup/nitrobase?style=flat-square&color=blue)](https://github.com/AydenGroup/nitrobase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AydenGroup/nitrobase?style=flat-square&color=yellow)](https://github.com/AydenGroup/nitrobase/stargazers) [![Forks](https://img.shields.io/github/forks/AydenGroup/nitrobase?style=flat-square&color=blue)](https://github.com/AydenGroup/nitrobase/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Your own platform-as-a-service, on your own servers.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ AydenGroup/nitrobase：AydenGroup/nitrobase may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 46/100 |
-| production | 60/100 |
-| outlook | 54/100 |
+| production | 53/100 |
+| outlook | 47/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 600/100 |
 | stars | 17/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

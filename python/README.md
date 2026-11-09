@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [tudor-22/MetalML](./tudor-22-metalml.md) | ⭐ 5 | Python | 57/100 |
-| 2 | [inuh22/Sync-SL](./inuh22-sync-sl.md) | ⭐ — | Python | 54/100 |
+| 1 | [inuh22/Sync-SL](./inuh22-sync-sl.md) | ⭐ — | Python | 54/100 |
+| 2 | [tudor-22/MetalML](./tudor-22-metalml.md) | ⭐ 5 | Python | 54/100 |
 | 3 | [marshlw/vistest](./marshlw-vistest.md) | ⭐ — | Python | 39/100 |
 | 4 | [gu-shen/support-faq-bot](./gu-shen-support-faq-bot.md) | ⭐ — | Python | 36/100 |
 | 5 | [AayushiShinde/DeadCode-](./aayushishinde-deadcode-.md) | ⭐ — | Python | 36/100 |
