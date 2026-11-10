@@ -307,7 +307,7 @@
 | 297 | [thunder-engine/thunder](./thunder-engine-thunder.md) | ⭐ 682 | C++ | 46/100 |
 | 298 | [AzadKshitij/manim-studio](./azadkshitij-manim-studio.md) | ⭐ 1 | Python | 46/100 |
 | 299 | [HaydenD100/OpenGLRenderingEngine](./haydend100-openglrenderingengine.md) | ⭐ 23 | — | 45/100 |
-| 300 | [tyleruploads/code-ware](./tyleruploads-code-ware.md) | ⭐ — | — | 45/100 |
+| 300 | [tyleruploads/code-ware](./tyleruploads-code-ware.md) | ⭐ 1 | — | 45/100 |
 | 301 | [BuildABrowser/BuildABrowser](./buildabrowser-buildabrowser.md) | ⭐ 4 | — | 45/100 |
 | 302 | [maanHimself/OpenDLSS-NR](./maanhimself-opendlss-nr.md) | ⭐ 1k | — | 45/100 |
 | 303 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ 3.3k | — | 45/100 |
@@ -316,7 +316,7 @@
 | 306 | [Isthimius/Gondwana](./isthimius-gondwana.md) | ⭐ 20 | — | 44/100 |
 | 307 | [Kapendev/parin](./kapendev-parin.md) | ⭐ 146 | — | 44/100 |
 | 308 | [guangzhoueven/fps](./guangzhoueven-fps.md) | ⭐ 4 | JavaScript | 44/100 |
-| 309 | [Vibra-Ingenn/Janus](./vibra-ingenn-janus.md) | ⭐ — | — | 44/100 |
+| 309 | [Vibra-Ingenn/Janus](./vibra-ingenn-janus.md) | ⭐ 136 | — | 44/100 |
 | 310 | [oasys-works/oecs](./oasys-works-oecs.md) | ⭐ 15 | — | 44/100 |
 | 311 | [ZQuestClassic/ZQuestClassic](./zquestclassic-zquestclassic.md) | ⭐ 568 | C++ | 44/100 |
 | 312 | [optozorax/portal](./optozorax-portal.md) | ⭐ 567 | Rust | 44/100 |
@@ -330,7 +330,7 @@
 | 320 | [Arthur031221/OohAlive](./arthur031221-oohalive.md) | ⭐ — | JavaScript | 42/100 |
 | 321 | [akoaysigod/pocket_saturn_core](./akoaysigod-pocket-saturn-core.md) | ⭐ — | — | 41/100 |
 | 322 | [horizon-rust/horizon](./horizon-rust-horizon.md) | ⭐ 8.5k | — | 41/100 |
-| 323 | [tinyBigGAMES/VindexLLM](./tinybiggames-vindexllm.md) | ⭐ — | — | 41/100 |
+| 323 | [tinyBigGAMES/VindexLLM](./tinybiggames-vindexllm.md) | ⭐ 75 | — | 41/100 |
 | 324 | [oathshaper/oathshaper](./oathshaper-oathshaper.md) | ⭐ 5 | — | 41/100 |
 | 325 | [mariuz/castle-quake2](./mariuz-castle-quake2.md) | ⭐ 10 | — | 41/100 |
 | 326 | [KhronosGroup/MoltenVK](./khronosgroup-moltenvk.md) | ⭐ 5.9k | — | 41/100 |
@@ -358,7 +358,7 @@
 | 348 | [ArcadeMakerSources/ArcadeMaker](./arcademakersources-arcademaker.md) | ⭐ 161 | — | 38/100 |
 | 349 | [andrewfader/crtulum](./andrewfader-crtulum.md) | ⭐ 2 | — | 38/100 |
 | 350 | [BobbyAnguelov/Esoterica](./bobbyanguelov-esoterica.md) | ⭐ 1.9k | — | 38/100 |
-| 351 | [Wimacs/trellis2.c](./wimacs-trellis2.c.md) | ⭐ — | — | 38/100 |
+| 351 | [Wimacs/trellis2.c](./wimacs-trellis2.c.md) | ⭐ 71 | — | 38/100 |
 | 352 | [petergpt/doomql](./petergpt-doomql.md) | ⭐ 64 | — | 38/100 |
 | 353 | [Is-Daouda/is-Engine](./is-daouda-is-engine.md) | ⭐ 235 | — | 38/100 |
 | 354 | [rwusmm-dc/4x11Engine](./rwusmm-dc-4x11engine.md) | ⭐ — | — | 38/100 |

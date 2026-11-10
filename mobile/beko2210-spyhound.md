@@ -21,31 +21,30 @@
 
 ## 🎯 Categories
 
-Security
+Mobile · Security
 
 ## 📝 Summary
 
 ### English
 
-BEKO2210/spyhound: BEKO2210/spyhound helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BEKO2210/spyhound: BEKO2210/spyhound may be useful when its README and activity match a concrete workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-BEKO2210/spyhound: open-source проект в категориях Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+BEKO2210/spyhound: open-source проект в категориях Mobile, Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-BEKO2210/spyhound：BEKO2210/spyhound helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+BEKO2210/spyhound：BEKO2210/spyhound may be useful when its README and activity match a concrete workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** BEKO2210/spyhound helps catch security and privacy issues earlier in the workflow.
+**Value:** BEKO2210/spyhound may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
 - strengthen security checks
 - add auth or privacy controls
-- audit risk earlier
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -63,19 +62,19 @@ BEKO2210/spyhound：BEKO2210/spyhound helps catch security and privacy issues ea
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 30/100 |
-| production | 54/100 |
-| outlook | 53/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-03 · [View on GitHub](https://github.com/BEKO2210/spyhound) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-03 · [View on GitHub](https://github.com/BEKO2210/spyhound) · [← Back to Mobile](./README.md)</sub>

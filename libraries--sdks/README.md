@@ -2,7 +2,7 @@
 
 > 
 
-**279 projects** in this category.
+**280 projects** in this category.
 
 ## Projects
 
@@ -50,17 +50,17 @@
 | 40 | [coinbase/mesh-sdk-go](./coinbase-mesh-sdk-go.md) | ⭐ 200 | Go | 68/100 |
 | 41 | [google/digitalbuildings](./google-digitalbuildings.md) | ⭐ 467 | Python | 68/100 |
 | 42 | [longbridge/openapi](./longbridge-openapi.md) | ⭐ 468 | Rust | 68/100 |
-| 43 | [meilisearch/meilisearch-java](./meilisearch-meilisearch-java.md) | ⭐ 245 | Java | 67/100 |
-| 44 | [dart-lang/sdk](./dart-lang-sdk.md) | ⭐ 11.3k | Dart | 67/100 |
-| 45 | [korginc/logue-sdk](./korginc-logue-sdk.md) | ⭐ 1.1k | C | 67/100 |
-| 46 | [agentclientprotocol/rust-sdk](./agentclientprotocol-rust-sdk.md) | ⭐ 244 | Rust | 67/100 |
-| 47 | [grafana/alloy-scenarios](./grafana-alloy-scenarios.md) | ⭐ 400 | Python | 67/100 |
-| 48 | [google/play-services-plugins](./google-play-services-plugins.md) | ⭐ 526 | Kotlin | 67/100 |
-| 49 | [aliyun/openapi-sdk-php](./aliyun-openapi-sdk-php.md) | ⭐ 530 | PHP | 67/100 |
-| 50 | [venturedrake/laravel-crm](./venturedrake-laravel-crm.md) | ⭐ 473 | PHP | 67/100 |
-| 51 | [grafana/faro-web-sdk](./grafana-faro-web-sdk.md) | ⭐ 1.1k | TypeScript | 67/100 |
-| 52 | [googleapis/python-genai](./googleapis-python-genai.md) | ⭐ 4.1k | Python | 67/100 |
-| 53 | [ansible/awx-operator](./ansible-awx-operator.md) | ⭐ 1.5k | Jinja | 67/100 |
+| 43 | [ansible/awx-operator](./ansible-awx-operator.md) | ⭐ 1.5k | Jinja | 67/100 |
+| 44 | [meilisearch/meilisearch-java](./meilisearch-meilisearch-java.md) | ⭐ 245 | Java | 67/100 |
+| 45 | [dart-lang/sdk](./dart-lang-sdk.md) | ⭐ 11.3k | Dart | 67/100 |
+| 46 | [korginc/logue-sdk](./korginc-logue-sdk.md) | ⭐ 1.1k | C | 67/100 |
+| 47 | [agentclientprotocol/rust-sdk](./agentclientprotocol-rust-sdk.md) | ⭐ 244 | Rust | 67/100 |
+| 48 | [grafana/alloy-scenarios](./grafana-alloy-scenarios.md) | ⭐ 400 | Python | 67/100 |
+| 49 | [google/play-services-plugins](./google-play-services-plugins.md) | ⭐ 526 | Kotlin | 67/100 |
+| 50 | [aliyun/openapi-sdk-php](./aliyun-openapi-sdk-php.md) | ⭐ 530 | PHP | 67/100 |
+| 51 | [venturedrake/laravel-crm](./venturedrake-laravel-crm.md) | ⭐ 473 | PHP | 67/100 |
+| 52 | [grafana/faro-web-sdk](./grafana-faro-web-sdk.md) | ⭐ 1.1k | TypeScript | 67/100 |
+| 53 | [googleapis/python-genai](./googleapis-python-genai.md) | ⭐ 4.1k | Python | 67/100 |
 | 54 | [emscripten-core/emsdk](./emscripten-core-emsdk.md) | ⭐ 3.7k | Python | 66/100 |
 | 55 | [prometheus/client_rust](./prometheus-client-rust.md) | ⭐ 612 | Rust | 66/100 |
 | 56 | [librespot-org/librespot](./librespot-org-librespot.md) | ⭐ 7.4k | Rust | 66/100 |
@@ -248,7 +248,7 @@
 | 238 | [apple-auth/apple-auth](./apple-auth-apple-auth.md) | ⭐ 2 | — | 48/100 |
 | 239 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ 99 | — | 48/100 |
 | 240 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |
-| 241 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ — | — | 48/100 |
+| 241 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ 9 | — | 48/100 |
 | 242 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ 2.7k | — | 48/100 |
 | 243 | [DisplayLink/displaylink-direct](./displaylink-displaylink-direct.md) | ⭐ 1 | — | 48/100 |
 | 244 | [Q-ANT-GmbH/qant_native_computing_toolkit](./q-ant-gmbh-qant-native-computing-toolkit.md) | ⭐ 95 | — | 48/100 |
@@ -277,16 +277,17 @@
 | 267 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 43/100 |
 | 268 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 160 | Rust | 43/100 |
 | 269 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
-| 270 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ 16.3k | — | 41/100 |
-| 271 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ 1 | — | 41/100 |
-| 272 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
-| 273 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 135 | Rust | 39/100 |
-| 274 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 8 | Rust | 38/100 |
-| 275 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
-| 276 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ — | — | 37/100 |
-| 277 | [storj-thirdparty/uplink-php](./storj-thirdparty-uplink-php.md) | ⭐ 31 | PHP | 35/100 |
-| 278 | [thisisamirv/loess-project](./thisisamirv-loess-project.md) | ⭐ 3 | Rust | 33/100 |
-| 279 | [rustwasm/wasm-bindgen](./rustwasm-wasm-bindgen.md) | ⭐ — | — | 28/100 |
+| 270 | [FuzzyIdeas/LimbaKit](./fuzzyideas-limbakit.md) | ⭐ — | — | 41/100 |
+| 271 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ 16.3k | — | 41/100 |
+| 272 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ 1 | — | 41/100 |
+| 273 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
+| 274 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 135 | Rust | 39/100 |
+| 275 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 8 | Rust | 38/100 |
+| 276 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
+| 277 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ 4 | — | 37/100 |
+| 278 | [storj-thirdparty/uplink-php](./storj-thirdparty-uplink-php.md) | ⭐ 31 | PHP | 35/100 |
+| 279 | [thisisamirv/loess-project](./thisisamirv-loess-project.md) | ⭐ 3 | Rust | 33/100 |
+| 280 | [rustwasm/wasm-bindgen](./rustwasm-wasm-bindgen.md) | ⭐ — | — | 28/100 |
 
 ---
 

@@ -753,8 +753,8 @@
 | 743 | [sanusart/react-dropdown-select](./sanusart-react-dropdown-select.md) | ⭐ 364 | JavaScript | 54/100 |
 | 744 | [blackfyre/wga](./blackfyre-wga.md) | ⭐ 193 | Go | 54/100 |
 | 745 | [IT-BAER/proxmorph](./it-baer-proxmorph.md) | ⭐ 637 | CSS | 54/100 |
-| 746 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 884 | Rust | 54/100 |
-| 747 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
+| 746 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
+| 747 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 884 | Rust | 54/100 |
 | 748 | [coi/coi](./coi-coi.md) | ⭐ 567 | C++ | 54/100 |
 | 749 | [lvzhenbo/115-plus-desktop](./lvzhenbo-115-plus-desktop.md) | ⭐ 383 | Rust | 54/100 |
 | 750 | [rust-ui/ui](./rust-ui-ui.md) | ⭐ 805 | Rust | 54/100 |
@@ -855,7 +855,7 @@
 | 845 | [maplibre/maplibre-react-native](./maplibre-maplibre-react-native.md) | ⭐ 674 | TypeScript | 49/100 |
 | 846 | [DSpace/dspace-angular](./dspace-dspace-angular.md) | ⭐ 178 | TypeScript | 49/100 |
 | 847 | [kendrick-k/nuxt-cmpkit-debug](./kendrick-k-nuxt-cmpkit-debug.md) | ⭐ — | Vue | 49/100 |
-| 848 | [terrizoaguimor/aureform-ui](./terrizoaguimor-aureform-ui.md) | ⭐ — | TypeScript | 48/100 |
+| 848 | [terrizoaguimor/aureform-ui](./terrizoaguimor-aureform-ui.md) | ⭐ 5 | TypeScript | 48/100 |
 | 849 | [NIPE-Solutions/react-data-inspector](./nipe-solutions-react-data-inspector.md) | ⭐ 2 | TypeScript | 48/100 |
 | 850 | [dekirisu/mevy](./dekirisu-mevy.md) | ⭐ 129 | Rust | 48/100 |
 | 851 | [LiamMorrow/LiftLog](./liammorrow-liftlog.md) | ⭐ 604 | TypeScript | 48/100 |
@@ -884,7 +884,7 @@
 | 874 | [defiantlydefying/outside](./defiantlydefying-outside.md) | ⭐ 2 | TypeScript | 45/100 |
 | 875 | [aeke/respdeck](./aeke-respdeck.md) | ⭐ 7 | — | 45/100 |
 | 876 | [syazwanz/vue-pick](./syazwanz-vue-pick.md) | ⭐ 2 | TypeScript | 45/100 |
-| 877 | [tommyjepsen/apparat-ui](./tommyjepsen-apparat-ui.md) | ⭐ — | — | 45/100 |
+| 877 | [tommyjepsen/apparat-ui](./tommyjepsen-apparat-ui.md) | ⭐ 9 | — | 45/100 |
 | 878 | [boy-offi9-inc/matrix-rain-view](./boy-offi9-inc-matrix-rain-view.md) | ⭐ 1 | Kotlin | 45/100 |
 | 879 | [OpenLightingProject/open-fixture-library](./openlightingproject-open-fixture-library.md) | ⭐ 271 | JSON | 45/100 |
 | 880 | [glatinone/sketch2sim](./glatinone-sketch2sim.md) | ⭐ — | TypeScript | 44/100 |
@@ -899,7 +899,7 @@
 | 889 | [internetgodf/GitGraphLive](./internetgodf-gitgraphlive.md) | ⭐ 1 | JavaScript | 43/100 |
 | 890 | [maneesh-kumar-thakur/devto-frontend-challenge-food-edition](./maneesh-kumar-thakur-devto-frontend-challenge-food-edition.md) | ⭐ — | CSS | 42/100 |
 | 891 | [bhushanpoojary/angular-datagrid](./bhushanpoojary-angular-datagrid.md) | ⭐ 3 | — | 42/100 |
-| 892 | [thuangf45/LuciaCore.Assets](./thuangf45-luciacore.assets.md) | ⭐ — | — | 42/100 |
+| 892 | [thuangf45/LuciaCore.Assets](./thuangf45-luciacore.assets.md) | ⭐ 15 | — | 42/100 |
 | 893 | [dhutaryan/ngx-signal-query](./dhutaryan-ngx-signal-query.md) | ⭐ 10 | — | 42/100 |
 | 894 | [11suixing11/mindnotes-pro](./11suixing11-mindnotes-pro.md) | ⭐ 13 | — | 42/100 |
 | 895 | [paladini/aa-daily-reflections-database](./paladini-aa-daily-reflections-database.md) | ⭐ 2 | JavaScript | 42/100 |
@@ -907,7 +907,7 @@
 | 897 | [Deonkar/parkease](./deonkar-parkease.md) | ⭐ — | TypeScript | 41/100 |
 | 898 | [alexusmai/vue-laravel-file-manager](./alexusmai-vue-laravel-file-manager.md) | ⭐ 370 | JavaScript | 41/100 |
 | 899 | [emirmrkaljevic/shrinkwatch-eu](./emirmrkaljevic-shrinkwatch-eu.md) | ⭐ — | JavaScript | 41/100 |
-| 900 | [vyshakh/react-jsonschema-ui](./vyshakh-react-jsonschema-ui.md) | ⭐ — | — | 41/100 |
+| 900 | [vyshakh/react-jsonschema-ui](./vyshakh-react-jsonschema-ui.md) | ⭐ 2 | — | 41/100 |
 | 901 | [emirmrkaljevic/truediscount](./emirmrkaljevic-truediscount.md) | ⭐ — | JavaScript | 41/100 |
 | 902 | [ndop-ui/ui](./ndop-ui-ui.md) | ⭐ 12 | — | 41/100 |
 | 903 | [BernardoGiordano/srl](./bernardogiordano-srl.md) | ⭐ 6 | — | 41/100 |

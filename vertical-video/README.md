@@ -2,7 +2,7 @@
 
 > 
 
-**167 projects** in this category.
+**168 projects** in this category.
 
 ## Projects
 
@@ -140,41 +140,42 @@
 | 130 | [YeJe-cpu/SeeCut](./yeje-cpu-seecut.md) | ⭐ 449 | JavaScript | 56/100 |
 | 131 | [kaomei/script-to-card-video](./kaomei-script-to-card-video.md) | ⭐ 19 | JavaScript | 56/100 |
 | 132 | [Mrshahidali420/youtube-shorts-automation](./mrshahidali420-youtube-shorts-automation.md) | ⭐ 12 | Python | 56/100 |
-| 133 | [HeyChengC/vibe-editing-guide](./heychengc-vibe-editing-guide.md) | ⭐ 20 | HTML | 55/100 |
-| 134 | [yangbin1322/hongguo-player](./yangbin1322-hongguo-player.md) | ⭐ 3.3k | — | 55/100 |
-| 135 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
-| 136 | [Mr-funny/hbg-hanzi-chaizi-video](./mr-funny-hbg-hanzi-chaizi-video.md) | ⭐ 124 | TypeScript | 55/100 |
-| 137 | [2282199198/zuiqiang-shifu](./2282199198-zuiqiang-shifu.md) | ⭐ 17 | — | 54/100 |
-| 138 | [gxr404/gen-short-vid](./gxr404-gen-short-vid.md) | ⭐ 34 | TypeScript | 54/100 |
-| 139 | [waterbrojx/water-koubo](./waterbrojx-water-koubo.md) | ⭐ 40 | Python | 54/100 |
-| 140 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 33 | HTML | 54/100 |
-| 141 | [wangcanyu/daihuo-fanpai](./wangcanyu-daihuo-fanpai.md) | ⭐ 98 | Python | 54/100 |
-| 142 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 466 | PHP | 54/100 |
-| 143 | [xiaoliangliang/auto-publish](./xiaoliangliang-auto-publish.md) | ⭐ 27 | JavaScript | 53/100 |
-| 144 | [SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System](./suleynanauir-omni-multimodal-intelligent-onerec-based-system.md) | ⭐ 24 | Python | 52/100 |
-| 145 | [cacity/DouyinGo](./cacity-douyingo.md) | ⭐ 65 | Python | 52/100 |
-| 146 | [download-reels/download-reels.github.io](./download-reels-download-reels.github.io.md) | ⭐ — | HTML | 52/100 |
-| 147 | [dongtaowei54-sys/root-word-animation](./dongtaowei54-sys-root-word-animation.md) | ⭐ 51 | HTML | 51/100 |
-| 148 | [SilentFleetKK/vellum-reel](./silentfleetkk-vellum-reel.md) | ⭐ 14 | JavaScript | 51/100 |
-| 149 | [liuxingqitd/content-risk-detector](./liuxingqitd-content-risk-detector.md) | ⭐ 57 | — | 51/100 |
-| 150 | [TufayelLUS/TikTok-Video-Downloader-PHP](./tufayellus-tiktok-video-downloader-php.md) | ⭐ 344 | PHP | 51/100 |
-| 151 | [parallelpan/hongguo-downloader](./parallelpan-hongguo-downloader.md) | ⭐ 527 | — | 50/100 |
-| 152 | [du293/Womble-MPEG-Video-Wizard-Setup-Guide](./du293-womble-mpeg-video-wizard-setup-guide.md) | ⭐ 70 | HTML | 50/100 |
-| 153 | [nopefallacy/vertical-video-editing-skills](./nopefallacy-vertical-video-editing-skills.md) | ⭐ 70 | HTML | 50/100 |
-| 154 | [KonstantinKai/reelkit](./konstantinkai-reelkit.md) | ⭐ 44 | TypeScript | 50/100 |
-| 155 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 2.4k | JavaScript | 50/100 |
-| 156 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ 1 | — | 48/100 |
-| 157 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 42 | — | 47/100 |
-| 158 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
-| 159 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
-| 160 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 37 | JavaScript | 47/100 |
-| 161 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
-| 162 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
-| 163 | [RyzovaTech/Ryzova-Kernel](./ryzovatech-ryzova-kernel.md) | ⭐ 2 | — | 41/100 |
-| 164 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 10 | — | 41/100 |
-| 165 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ 1 | — | 41/100 |
-| 166 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ — | — | 41/100 |
-| 167 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
+| 133 | [mytv-android/myDV](./mytv-android-mydv.md) | ⭐ 1.7k | — | 55/100 |
+| 134 | [HeyChengC/vibe-editing-guide](./heychengc-vibe-editing-guide.md) | ⭐ 20 | HTML | 55/100 |
+| 135 | [yangbin1322/hongguo-player](./yangbin1322-hongguo-player.md) | ⭐ 3.3k | — | 55/100 |
+| 136 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
+| 137 | [Mr-funny/hbg-hanzi-chaizi-video](./mr-funny-hbg-hanzi-chaizi-video.md) | ⭐ 124 | TypeScript | 55/100 |
+| 138 | [2282199198/zuiqiang-shifu](./2282199198-zuiqiang-shifu.md) | ⭐ 17 | — | 54/100 |
+| 139 | [gxr404/gen-short-vid](./gxr404-gen-short-vid.md) | ⭐ 34 | TypeScript | 54/100 |
+| 140 | [waterbrojx/water-koubo](./waterbrojx-water-koubo.md) | ⭐ 40 | Python | 54/100 |
+| 141 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 33 | HTML | 54/100 |
+| 142 | [wangcanyu/daihuo-fanpai](./wangcanyu-daihuo-fanpai.md) | ⭐ 98 | Python | 54/100 |
+| 143 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 466 | PHP | 54/100 |
+| 144 | [xiaoliangliang/auto-publish](./xiaoliangliang-auto-publish.md) | ⭐ 27 | JavaScript | 53/100 |
+| 145 | [SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System](./suleynanauir-omni-multimodal-intelligent-onerec-based-system.md) | ⭐ 24 | Python | 52/100 |
+| 146 | [cacity/DouyinGo](./cacity-douyingo.md) | ⭐ 65 | Python | 52/100 |
+| 147 | [download-reels/download-reels.github.io](./download-reels-download-reels.github.io.md) | ⭐ — | HTML | 52/100 |
+| 148 | [dongtaowei54-sys/root-word-animation](./dongtaowei54-sys-root-word-animation.md) | ⭐ 51 | HTML | 51/100 |
+| 149 | [SilentFleetKK/vellum-reel](./silentfleetkk-vellum-reel.md) | ⭐ 14 | JavaScript | 51/100 |
+| 150 | [liuxingqitd/content-risk-detector](./liuxingqitd-content-risk-detector.md) | ⭐ 57 | — | 51/100 |
+| 151 | [TufayelLUS/TikTok-Video-Downloader-PHP](./tufayellus-tiktok-video-downloader-php.md) | ⭐ 344 | PHP | 51/100 |
+| 152 | [parallelpan/hongguo-downloader](./parallelpan-hongguo-downloader.md) | ⭐ 527 | — | 50/100 |
+| 153 | [du293/Womble-MPEG-Video-Wizard-Setup-Guide](./du293-womble-mpeg-video-wizard-setup-guide.md) | ⭐ 70 | HTML | 50/100 |
+| 154 | [nopefallacy/vertical-video-editing-skills](./nopefallacy-vertical-video-editing-skills.md) | ⭐ 70 | HTML | 50/100 |
+| 155 | [KonstantinKai/reelkit](./konstantinkai-reelkit.md) | ⭐ 44 | TypeScript | 50/100 |
+| 156 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 2.4k | JavaScript | 50/100 |
+| 157 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ 1 | — | 48/100 |
+| 158 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 42 | — | 47/100 |
+| 159 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
+| 160 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
+| 161 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 37 | JavaScript | 47/100 |
+| 162 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
+| 163 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
+| 164 | [RyzovaTech/Ryzova-Kernel](./ryzovatech-ryzova-kernel.md) | ⭐ 2 | — | 41/100 |
+| 165 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 10 | — | 41/100 |
+| 166 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ 1 | — | 41/100 |
+| 167 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ 2 | — | 41/100 |
+| 168 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
 
 ---
 

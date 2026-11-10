@@ -225,7 +225,7 @@
 | 215 | [Hayder-Rzaigui/cybernom-community](./hayder-rzaigui-cybernom-community.md) | ⭐ 3 | — | 49/100 |
 | 216 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 441 | Rust | 49/100 |
 | 217 | [rahhuul/auto-api-observe](./rahhuul-auto-api-observe.md) | ⭐ 3 | — | 48/100 |
-| 218 | [tallyhook/tallyhook-collector](./tallyhook-tallyhook-collector.md) | ⭐ — | — | 48/100 |
+| 218 | [tallyhook/tallyhook-collector](./tallyhook-tallyhook-collector.md) | ⭐ 1 | — | 48/100 |
 | 219 | [poonesnerfect/jlf](./poonesnerfect-jlf.md) | ⭐ 34 | — | 48/100 |
 | 220 | [el10savio/obsIngest](./el10savio-obsingest.md) | ⭐ — | — | 48/100 |
 | 221 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 632 | C | 48/100 |
@@ -267,10 +267,10 @@
 | 257 | [fireinbelly/biomass-conversion-index-monitoring-system](./fireinbelly-biomass-conversion-index-monitoring-system.md) | ⭐ 5 | — | 42/100 |
 | 258 | [alexander-akhmetov/grafana-agento11y-hermes](./alexander-akhmetov-grafana-agento11y-hermes.md) | ⭐ 49 | — | 42/100 |
 | 259 | [coroot/rca-lab](./coroot-rca-lab.md) | ⭐ 38 | — | 42/100 |
-| 260 | [Tboworst/beacon](./tboworst-beacon.md) | ⭐ — | — | 42/100 |
+| 260 | [Tboworst/beacon](./tboworst-beacon.md) | ⭐ 3 | — | 42/100 |
 | 261 | [SmolNero/quack](./smolnero-quack.md) | ⭐ 2 | — | 42/100 |
-| 262 | [varmax2511/trail](./varmax2511-trail.md) | ⭐ — | — | 42/100 |
-| 263 | [tachyontec/pi-sd-monitor](./tachyontec-pi-sd-monitor.md) | ⭐ — | — | 42/100 |
+| 262 | [varmax2511/trail](./varmax2511-trail.md) | ⭐ 4 | — | 42/100 |
+| 263 | [tachyontec/pi-sd-monitor](./tachyontec-pi-sd-monitor.md) | ⭐ 3 | — | 42/100 |
 | 264 | [aibudaevv/sip-exporter](./aibudaevv-sip-exporter.md) | ⭐ 58 | — | 42/100 |
 | 265 | [eric-tramel/moraine](./eric-tramel-moraine.md) | ⭐ 116 | — | 42/100 |
 | 266 | [Faultsense/faultsense-agent](./faultsense-faultsense-agent.md) | ⭐ 4 | — | 42/100 |
@@ -315,7 +315,7 @@
 | 305 | [llm-measurement/otelcol-genai-sketches](./llm-measurement-otelcol-genai-sketches.md) | ⭐ 5 | — | 38/100 |
 | 306 | [ykjit/yk](./ykjit-yk.md) | ⭐ — | — | 38/100 |
 | 307 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ 1 | — | 38/100 |
-| 308 | [superwired-labs/Pulp](./superwired-labs-pulp.md) | ⭐ — | — | 38/100 |
+| 308 | [superwired-labs/Pulp](./superwired-labs-pulp.md) | ⭐ 7 | — | 38/100 |
 | 309 | [Rehanrana11/evidence-verify](./rehanrana11-evidence-verify.md) | ⭐ — | — | 38/100 |
 | 310 | [HimitsuShell/HimitsuShell](./himitsushell-himitsushell.md) | ⭐ 71 | — | 38/100 |
 | 311 | [mcindi/siematic](./mcindi-siematic.md) | ⭐ 3 | — | 38/100 |
@@ -328,9 +328,9 @@
 | 318 | [hieuha/LazyCamHUD](./hieuha-lazycamhud.md) | ⭐ 1 | — | 38/100 |
 | 319 | [halidecx/fmetrics](./halidecx-fmetrics.md) | ⭐ 24 | — | 38/100 |
 | 320 | [OmarH-creator/ShareClean](./omarh-creator-shareclean.md) | ⭐ 22 | — | 38/100 |
-| 321 | [superlinked/synty](./superlinked-synty.md) | ⭐ — | — | 38/100 |
+| 321 | [superlinked/synty](./superlinked-synty.md) | ⭐ 13 | — | 38/100 |
 | 322 | [runout77/contrek](./runout77-contrek.md) | ⭐ 6 | — | 38/100 |
-| 323 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 38/100 |
+| 323 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ 1.8k | — | 38/100 |
 | 324 | [AyushSingh110/Failure_Intelligence_System](./ayushsingh110-failure-intelligence-system.md) | ⭐ 6 | Jupyter Notebook | 35/100 |
 | 325 | [SushrutVaidya/loglens](./sushrutvaidya-loglens.md) | ⭐ 1 | Java | 31/100 |
 

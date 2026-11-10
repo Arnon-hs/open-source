@@ -65,18 +65,18 @@ tech-pw/cryo：tech-pw/cryo helps convert raw data into searchable, analyzable, 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 62/100 |
-| adoption | 20/100 |
-| categoryMatchCount | 100/100 |
-| stars | 23/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| stars | 23/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 54/100 |
+| recency | 80/100 |
+| adoption | 20/100 |
+| production | 59/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

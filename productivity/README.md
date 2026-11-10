@@ -134,7 +134,7 @@
 | 124 | [EbadShelby/dotfiles](./ebadshelby-dotfiles.md) | ⭐ 274 | CSS | 60/100 |
 | 125 | [Squirreljetpack/matchmaker](./squirreljetpack-matchmaker.md) | ⭐ 239 | Rust | 60/100 |
 | 126 | [tuist/tuist](./tuist-tuist.md) | ⭐ 5.9k | Swift | 60/100 |
-| 127 | [WLDKK/snippet-fidelity](./wldkk-snippet-fidelity.md) | ⭐ — | TypeScript | 59/100 |
+| 127 | [WLDKK/snippet-fidelity](./wldkk-snippet-fidelity.md) | ⭐ 5 | TypeScript | 59/100 |
 | 128 | [KING-UPE/DevDeck](./king-upe-devdeck.md) | ⭐ 2 | JavaScript | 59/100 |
 | 129 | [samirpatil2000/Buffer](./samirpatil2000-buffer.md) | ⭐ 483 | Swift | 59/100 |
 | 130 | [ever-co/ever-teams](./ever-co-ever-teams.md) | ⭐ 606 | TypeScript | 59/100 |
@@ -298,7 +298,7 @@
 | 288 | [Deepender25/Edge-Drop](./deepender25-edge-drop.md) | ⭐ 781 | — | 45/100 |
 | 289 | [slaveofcode/goodwebtools](./slaveofcode-goodwebtools.md) | ⭐ 12 | — | 45/100 |
 | 290 | [HexCodeYT/PlainLink](./hexcodeyt-plainlink.md) | ⭐ 7 | — | 45/100 |
-| 291 | [willmeyers/coypa](./willmeyers-coypa.md) | ⭐ — | — | 45/100 |
+| 291 | [willmeyers/coypa](./willmeyers-coypa.md) | ⭐ 4 | — | 45/100 |
 | 292 | [tejasashinde/clipboard-saver-extension](./tejasashinde-clipboard-saver-extension.md) | ⭐ — | — | 45/100 |
 | 293 | [rohankc69/clickit](./rohankc69-clickit.md) | ⭐ 9 | — | 45/100 |
 | 294 | [Arylmera/Token-Dashboard](./arylmera-token-dashboard.md) | ⭐ 10 | — | 45/100 |
@@ -326,7 +326,7 @@
 | 316 | [Ludvig2457Ultra/SuperLauncherMC](./ludvig2457ultra-superlaunchermc.md) | ⭐ 3 | — | 41/100 |
 | 317 | [MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5](./mothersphere-d6c049a09ba8ac3085c51ee9df24a4e5.md) | ⭐ — | — | 41/100 |
 | 318 | [Fardin7798/Spider-Tv-Launcher](./fardin7798-spider-tv-launcher.md) | ⭐ 30 | — | 41/100 |
-| 319 | [stronxyo/quarter](./stronxyo-quarter.md) | ⭐ — | — | 41/100 |
+| 319 | [stronxyo/quarter](./stronxyo-quarter.md) | ⭐ 5 | — | 41/100 |
 | 320 | [andrewarrow/ruie](./andrewarrow-ruie.md) | ⭐ 1 | — | 41/100 |
 | 321 | [MarcelNazare/Reeve](./marcelnazare-reeve.md) | ⭐ 5 | — | 41/100 |
 | 322 | [xdagiz/xcalidraw](./xdagiz-xcalidraw.md) | ⭐ — | — | 41/100 |
@@ -346,11 +346,11 @@
 | 336 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 337 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 338 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 339 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
-| 340 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 339 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 340 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
 | 341 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 342 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.7k | — | 38/100 |
-| 343 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
+| 343 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |
 | 344 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ 1 | — | 38/100 |
 | 345 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ 40 | — | 38/100 |
 | 346 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ 92 | — | 38/100 |

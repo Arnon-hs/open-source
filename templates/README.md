@@ -380,7 +380,7 @@
 | 370 | [Micro-SaaS-Examples/Best-Micro-SaaS-Tools](./micro-saas-examples-best-micro-saas-tools.md) | ⭐ 295 | — | 59/100 |
 | 371 | [TheArchitectit/agent-guardrails-template](./thearchitectit-agent-guardrails-template.md) | ⭐ 1 | Go | 59/100 |
 | 372 | [TailGrids/tailgrids](./tailgrids-tailgrids.md) | ⭐ 1.7k | TypeScript | 59/100 |
-| 373 | [The-AppLab/ultimate-fastapi-langchain-boilerplate](./the-applab-ultimate-fastapi-langchain-boilerplate.md) | ⭐ — | Python | 58/100 |
+| 373 | [The-AppLab/ultimate-fastapi-langchain-boilerplate](./the-applab-ultimate-fastapi-langchain-boilerplate.md) | ⭐ 1 | Python | 58/100 |
 | 374 | [typed-ember/glint](./typed-ember-glint.md) | ⭐ 119 | TypeScript | 58/100 |
 | 375 | [gacabartosz/linkedin-mcp-server](./gacabartosz-linkedin-mcp-server.md) | ⭐ 5 | JavaScript | 58/100 |
 | 376 | [Tam-Taro/SEL-Filtering-and-Sorting](./tam-taro-sel-filtering-and-sorting.md) | ⭐ 890 | — | 58/100 |
@@ -397,8 +397,8 @@
 | 387 | [balajeerc/straitjacket](./balajeerc-straitjacket.md) | ⭐ 4 | — | 56/100 |
 | 388 | [eddami/nuxt-material-admin](./eddami-nuxt-material-admin.md) | ⭐ 409 | Vue | 56/100 |
 | 389 | [amorey/agent-zero](./amorey-agent-zero.md) | ⭐ 4 | — | 56/100 |
-| 390 | [vercel-labs/eve-agent-python-template](./vercel-labs-eve-agent-python-template.md) | ⭐ — | — | 56/100 |
-| 391 | [vercel-labs/jev-ai-sdk-form-router](./vercel-labs-jev-ai-sdk-form-router.md) | ⭐ — | — | 56/100 |
+| 390 | [vercel-labs/eve-agent-python-template](./vercel-labs-eve-agent-python-template.md) | ⭐ 7 | — | 56/100 |
+| 391 | [vercel-labs/jev-ai-sdk-form-router](./vercel-labs-jev-ai-sdk-form-router.md) | ⭐ 17 | — | 56/100 |
 | 392 | [kkoomen/vim-doge](./kkoomen-vim-doge.md) | ⭐ 1.1k | Rust | 56/100 |
 | 393 | [askdkc/breezejp](./askdkc-breezejp.md) | ⭐ 590 | PHP | 56/100 |
 | 394 | [prathamdmehta/backend-dash](./prathamdmehta-backend-dash.md) | ⭐ 2 | — | 56/100 |
@@ -435,7 +435,7 @@
 | 425 | [0x727/FingerprintHub](./0x727-fingerprinthub.md) | ⭐ 1.5k | Rust | 53/100 |
 | 426 | [arabcoders/ytptube](./arabcoders-ytptube.md) | ⭐ 1.1k | Python | 53/100 |
 | 427 | [somnathraz/nextjs-webgl-templates](./somnathraz-nextjs-webgl-templates.md) | ⭐ 1 | TypeScript | 53/100 |
-| 428 | [vercel-labs/eve-contentful-agent-template](./vercel-labs-eve-contentful-agent-template.md) | ⭐ — | — | 52/100 |
+| 428 | [vercel-labs/eve-contentful-agent-template](./vercel-labs-eve-contentful-agent-template.md) | ⭐ 1 | — | 52/100 |
 | 429 | [ndpvt-web/latex-document-skill](./ndpvt-web-latex-document-skill.md) | ⭐ 826 | TeX | 52/100 |
 | 430 | [con-dog/clingon](./con-dog-clingon.md) | ⭐ — | — | 51/100 |
 | 431 | [john-claude-1337/agent-memory-files](./john-claude-1337-agent-memory-files.md) | ⭐ — | JavaScript | 51/100 |
@@ -463,7 +463,7 @@
 | 453 | [vellumlabs/llm-wiki-kit](./vellumlabs-llm-wiki-kit.md) | ⭐ — | — | 47/100 |
 | 454 | [jessybrenenstahl/agent-ops-samples](./jessybrenenstahl-agent-ops-samples.md) | ⭐ — | — | 47/100 |
 | 455 | [ABBAS1947/cricino](./abbas1947-cricino.md) | ⭐ 2 | Python | 47/100 |
-| 456 | [Thurbeen/fleet](./thurbeen-fleet.md) | ⭐ — | Python | 47/100 |
+| 456 | [Thurbeen/fleet](./thurbeen-fleet.md) | ⭐ 5 | Python | 47/100 |
 | 457 | [arconia-io/arconia](./arconia-io-arconia.md) | ⭐ 199 | Java | 47/100 |
 | 458 | [alkinbg/FormSummaryBundle](./alkinbg-formsummarybundle.md) | ⭐ 3 | PHP | 46/100 |
 | 459 | [earnnova-dev/jobfeed-watchdog](./earnnova-dev-jobfeed-watchdog.md) | ⭐ — | Python | 46/100 |
@@ -473,10 +473,10 @@
 | 463 | [emal-avala/data-room](./emal-avala-data-room.md) | ⭐ — | — | 45/100 |
 | 464 | [axyz/binaural](./axyz-binaural.md) | ⭐ 3 | — | 45/100 |
 | 465 | [shadcn-ui/chatbot-template](./shadcn-ui-chatbot-template.md) | ⭐ 1.2k | — | 45/100 |
-| 466 | [weidsfsdwgf/ai-prototype-demo](./weidsfsdwgf-ai-prototype-demo.md) | ⭐ — | — | 45/100 |
+| 466 | [weidsfsdwgf/ai-prototype-demo](./weidsfsdwgf-ai-prototype-demo.md) | ⭐ 6 | — | 45/100 |
 | 467 | [beint-no/thim](./beint-no-thim.md) | ⭐ 2 | — | 45/100 |
 | 468 | [Alessandro114/scala-sites](./alessandro114-scala-sites.md) | ⭐ 6 | — | 45/100 |
-| 469 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ — | — | 45/100 |
+| 469 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ 455 | — | 45/100 |
 | 470 | [artob/readmer](./artob-readmer.md) | ⭐ 13 | — | 45/100 |
 | 471 | [human0-ai/template](./human0-ai-template.md) | ⭐ 2 | — | 45/100 |
 | 472 | [brescou/langgraph-agent-stack](./brescou-langgraph-agent-stack.md) | ⭐ 20 | — | 45/100 |
@@ -484,7 +484,7 @@
 | 474 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ 4 | — | 45/100 |
 | 475 | [hannah-wright/saas-landing-page-template](./hannah-wright-saas-landing-page-template.md) | ⭐ 19 | — | 45/100 |
 | 476 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 45/100 |
-| 477 | [watscho/express-mongodb-rest-api-boilerplate](./watscho-express-mongodb-rest-api-boilerplate.md) | ⭐ — | — | 44/100 |
+| 477 | [watscho/express-mongodb-rest-api-boilerplate](./watscho-express-mongodb-rest-api-boilerplate.md) | ⭐ 650 | — | 44/100 |
 | 478 | [bodasooqa/rootstock](./bodasooqa-rootstock.md) | ⭐ — | Rust | 43/100 |
 | 479 | [TrinkieYinkie/html-cv-kit](./trinkieyinkie-html-cv-kit.md) | ⭐ — | HTML | 43/100 |
 | 480 | [nunosilva-dev/letter-generator](./nunosilva-dev-letter-generator.md) | ⭐ 1 | Java | 43/100 |
