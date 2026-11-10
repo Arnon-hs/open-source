@@ -76,8 +76,8 @@
 | 66 | [ethibox/ethibox](./ethibox-ethibox.md) | ⭐ 260 | JavaScript | 66/100 |
 | 67 | [samber/ro](./samber-ro.md) | ⭐ 698 | Go | 66/100 |
 | 68 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.6k | TypeScript | 66/100 |
-| 69 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
-| 70 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.5k | Python | 66/100 |
+| 69 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.5k | Python | 66/100 |
+| 70 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
 | 71 | [librae8226/nexus4cc](./librae8226-nexus4cc.md) | ⭐ 134 | TypeScript | 65/100 |
 | 72 | [hugoii/llm-agent-audit](./hugoii-llm-agent-audit.md) | ⭐ 62 | Python | 65/100 |
 | 73 | [zmievsa/cadwyn](./zmievsa-cadwyn.md) | ⭐ 313 | Python | 65/100 |
@@ -233,8 +233,8 @@
 | 223 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 187 | PHP | 54/100 |
 | 224 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.7k | TypeScript | 54/100 |
 | 225 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 226 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 649 | — | 53/100 |
-| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 567 | — | 53/100 |
+| 226 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 567 | — | 53/100 |
+| 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 649 | — | 53/100 |
 | 228 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 229 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 230 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 88 | Rust | 53/100 |
@@ -272,8 +272,8 @@
 | 262 | [killbill/killbill-commons](./killbill-killbill-commons.md) | ⭐ 145 | Java | 51/100 |
 | 263 | [Franlinozz/Sluice](./franlinozz-sluice.md) | ⭐ 32 | TypeScript | 51/100 |
 | 264 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 133 | PHP | 51/100 |
-| 265 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
-| 266 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
+| 265 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
+| 266 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
 | 267 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 51/100 |
 | 268 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 762 | Rust | 51/100 |
 | 269 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 503 | PHP | 51/100 |
@@ -290,7 +290,7 @@
 | 280 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 281 | [FetchDoge/permit](./fetchdoge-permit.md) | ⭐ — | Python | 49/100 |
 | 282 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 49/100 |
-| 283 | [bitrefill/awesome-agentic-payments](./bitrefill-awesome-agentic-payments.md) | ⭐ — | — | 49/100 |
+| 283 | [bitrefill/awesome-agentic-payments](./bitrefill-awesome-agentic-payments.md) | ⭐ 26 | — | 49/100 |
 | 284 | [DigiHold/seo-agent-pack](./digihold-seo-agent-pack.md) | ⭐ — | — | 49/100 |
 | 285 | [fivetran/dbt_stripe](./fivetran-dbt-stripe.md) | ⭐ 64 | Shell | 49/100 |
 | 286 | [Adyen/adyen-react-native](./adyen-adyen-react-native.md) | ⭐ 71 | TypeScript | 49/100 |

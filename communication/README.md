@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 361 | TypeScript | 65/100 |
@@ -319,8 +319,8 @@
 | 309 | [Lucki74/draggy](./lucki74-draggy.md) | ⭐ — | — | 45/100 |
 | 310 | [bipul724/availability-ledger](./bipul724-availability-ledger.md) | ⭐ — | — | 45/100 |
 | 311 | [ugzv/CodeCatch](./ugzv-codecatch.md) | ⭐ — | — | 45/100 |
-| 312 | [bitooz/filo-desktop](./bitooz-filo-desktop.md) | ⭐ — | — | 45/100 |
-| 313 | [Annora998/inboxwall](./annora998-inboxwall.md) | ⭐ — | — | 45/100 |
+| 312 | [bitooz/filo-desktop](./bitooz-filo-desktop.md) | ⭐ 5 | — | 45/100 |
+| 313 | [Annora998/inboxwall](./annora998-inboxwall.md) | ⭐ 3 | — | 45/100 |
 | 314 | [revdoku/agent-email-domains](./revdoku-agent-email-domains.md) | ⭐ — | — | 45/100 |
 | 315 | [prashanthgit19/homie](./prashanthgit19-homie.md) | ⭐ — | — | 45/100 |
 | 316 | [eyeguide-dev/speakvora-pack-agent](./eyeguide-dev-speakvora-pack-agent.md) | ⭐ — | — | 45/100 |
@@ -332,7 +332,7 @@
 | 322 | [WICG/email-verification](./wicg-email-verification.md) | ⭐ — | — | 45/100 |
 | 323 | [initsixdev/QTC](./initsixdev-qtc.md) | ⭐ — | — | 45/100 |
 | 324 | [matt0x6F/irc-client](./matt0x6f-irc-client.md) | ⭐ — | — | 45/100 |
-| 325 | [anuragmerndev/kontext-ai](./anuragmerndev-kontext-ai.md) | ⭐ — | — | 45/100 |
+| 325 | [anuragmerndev/kontext-ai](./anuragmerndev-kontext-ai.md) | ⭐ 25 | — | 45/100 |
 | 326 | [3kh0/slick](./3kh0-slick.md) | ⭐ 119 | — | 45/100 |
 | 327 | [stalwartlabs/mail-parser](./stalwartlabs-mail-parser.md) | ⭐ 477 | Rust | 45/100 |
 | 328 | [shellscape/jsx-email](./shellscape-jsx-email.md) | ⭐ 1.3k | TypeScript | 45/100 |
@@ -349,7 +349,7 @@
 | 339 | [royalpinto007/Kabootar](./royalpinto007-kabootar.md) | ⭐ 3 | Dart | 43/100 |
 | 340 | [ahmad-maqsood/unitask](./ahmad-maqsood-unitask.md) | ⭐ 2 | Kotlin | 42/100 |
 | 341 | [Arthur031221/ChitWeave](./arthur031221-chitweave.md) | ⭐ 1 | JavaScript | 42/100 |
-| 342 | [AniketWathore/bolnee-chat](./aniketwathore-bolnee-chat.md) | ⭐ — | — | 42/100 |
+| 342 | [AniketWathore/bolnee-chat](./aniketwathore-bolnee-chat.md) | ⭐ 37 | — | 42/100 |
 | 343 | [leeguooooo/AgentParty](./leeguooooo-agentparty.md) | ⭐ — | — | 42/100 |
 | 344 | [Theriark/nowlert-ce](./theriark-nowlert-ce.md) | ⭐ — | — | 42/100 |
 | 345 | [dev-sseul/linkgravity](./dev-sseul-linkgravity.md) | ⭐ — | — | 42/100 |
@@ -358,7 +358,7 @@
 | 348 | [monto-fe/smtp-probe](./monto-fe-smtp-probe.md) | ⭐ — | — | 42/100 |
 | 349 | [deeztek/Hermes-Secure-Email-Gateway](./deeztek-hermes-secure-email-gateway.md) | ⭐ — | — | 42/100 |
 | 350 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ — | — | 42/100 |
-| 351 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ — | — | 42/100 |
+| 351 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 352 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ — | — | 42/100 |
 | 353 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ — | — | 42/100 |
 | 354 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ — | — | 42/100 |
@@ -366,13 +366,13 @@
 | 356 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ — | — | 42/100 |
 | 357 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ — | — | 42/100 |
 | 358 | [2JasonP/agentpost](./2jasonp-agentpost.md) | ⭐ — | — | 42/100 |
-| 359 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ — | — | 42/100 |
+| 359 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ 5 | — | 42/100 |
 | 360 | [Mnexa-AI/e2a](./mnexa-ai-e2a.md) | ⭐ — | — | 42/100 |
 | 361 | [mre/thundervim](./mre-thundervim.md) | ⭐ — | — | 41/100 |
 | 362 | [nashbridges/dial-r-for-reply](./nashbridges-dial-r-for-reply.md) | ⭐ — | — | 41/100 |
 | 363 | [mestr-io/channelvault](./mestr-io-channelvault.md) | ⭐ — | — | 41/100 |
 | 364 | [adrianCX/picohive-epaper](./adriancx-picohive-epaper.md) | ⭐ 1 | — | 41/100 |
-| 365 | [azc5OQ/lemon-chat](./azc5oq-lemon-chat.md) | ⭐ — | — | 41/100 |
+| 365 | [azc5OQ/lemon-chat](./azc5oq-lemon-chat.md) | ⭐ 19 | — | 41/100 |
 | 366 | [VictorTaelin/uniichat](./victortaelin-uniichat.md) | ⭐ — | — | 41/100 |
 | 367 | [UKA-135/deepseek-long-thread-record](./uka-135-deepseek-long-thread-record.md) | ⭐ — | — | 41/100 |
 | 368 | [maelswarm/openrock](./maelswarm-openrock.md) | ⭐ — | — | 41/100 |
@@ -382,13 +382,13 @@
 | 372 | [cjus/audio-chat-box](./cjus-audio-chat-box.md) | ⭐ — | — | 41/100 |
 | 373 | [skorotkiewicz/lfm3-chat](./skorotkiewicz-lfm3-chat.md) | ⭐ — | — | 41/100 |
 | 374 | [moldandyeast/claude-computer](./moldandyeast-claude-computer.md) | ⭐ — | — | 41/100 |
-| 375 | [anasachouri/flowboard](./anasachouri-flowboard.md) | ⭐ — | — | 41/100 |
+| 375 | [anasachouri/flowboard](./anasachouri-flowboard.md) | ⭐ 3 | — | 41/100 |
 | 376 | [lkorth/space-calendar](./lkorth-space-calendar.md) | ⭐ — | — | 41/100 |
 | 377 | [shuaibird/Quick-Chat](./shuaibird-quick-chat.md) | ⭐ — | — | 41/100 |
 | 378 | [waifu-devs/fuwa](./waifu-devs-fuwa.md) | ⭐ — | — | 41/100 |
 | 379 | [cloudamqp/lavinmq-demos](./cloudamqp-lavinmq-demos.md) | ⭐ — | — | 41/100 |
 | 380 | [vercel-labs/eve-tanstack-start-template](./vercel-labs-eve-tanstack-start-template.md) | ⭐ — | — | 41/100 |
-| 381 | [BEX-Robotics/rezoom](./bex-robotics-rezoom.md) | ⭐ — | — | 41/100 |
+| 381 | [BEX-Robotics/rezoom](./bex-robotics-rezoom.md) | ⭐ 2 | — | 41/100 |
 | 382 | [rahimnathwani/mailbox-viewer](./rahimnathwani-mailbox-viewer.md) | ⭐ — | — | 41/100 |
 | 383 | [iljah/p2pIM](./iljah-p2pim.md) | ⭐ — | — | 41/100 |
 | 384 | [yanglongyun/iimos](./yanglongyun-iimos.md) | ⭐ — | — | 41/100 |
@@ -405,7 +405,7 @@
 | 395 | [achempion/tlx](./achempion-tlx.md) | ⭐ — | — | 41/100 |
 | 396 | [Inkline-Verify/ProofOfHuman](./inkline-verify-proofofhuman.md) | ⭐ — | — | 41/100 |
 | 397 | [Aaronmike481/BreachScanner](./aaronmike481-breachscanner.md) | ⭐ 1 | — | 41/100 |
-| 398 | [bilalyazicioglu/tincan-cli](./bilalyazicioglu-tincan-cli.md) | ⭐ — | — | 41/100 |
+| 398 | [bilalyazicioglu/tincan-cli](./bilalyazicioglu-tincan-cli.md) | ⭐ 236 | — | 41/100 |
 | 399 | [theletterf/comic-chat-ai](./theletterf-comic-chat-ai.md) | ⭐ — | — | 41/100 |
 | 400 | [OlegIGalkin/tendayweekcalendar](./olegigalkin-tendayweekcalendar.md) | ⭐ — | — | 41/100 |
 | 401 | [bwasti/serverside.chat](./bwasti-serverside.chat.md) | ⭐ — | — | 41/100 |
@@ -434,7 +434,7 @@
 | 424 | [sakethbalijepalli/NannaDesk](./sakethbalijepalli-nannadesk.md) | ⭐ — | Python | 39/100 |
 | 425 | [MihaiMotoi/SifEdge](./mihaimotoi-sifedge.md) | ⭐ — | JavaScript | 39/100 |
 | 426 | [ulofiai/ulofi-alias](./ulofiai-ulofi-alias.md) | ⭐ — | — | 39/100 |
-| 427 | [Anmol-Baranwal/hndigest](./anmol-baranwal-hndigest.md) | ⭐ — | — | 39/100 |
+| 427 | [Anmol-Baranwal/hndigest](./anmol-baranwal-hndigest.md) | ⭐ 11 | — | 39/100 |
 | 428 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 127 | Rust | 39/100 |
 | 429 | [sebklaey/openos-momo-ai](./sebklaey-openos-momo-ai.md) | ⭐ — | JavaScript | 39/100 |
 | 430 | [pytopia/project-telegram-statistics](./pytopia-project-telegram-statistics.md) | ⭐ 23 | Python | 38/100 |
@@ -446,7 +446,7 @@
 | 436 | [DouglasdeMoura/chroncal](./douglasdemoura-chroncal.md) | ⭐ — | — | 38/100 |
 | 437 | [luoxiprovo/bearmail](./luoxiprovo-bearmail.md) | ⭐ — | — | 38/100 |
 | 438 | [john-abah/ABAH_CHAT](./john-abah-abah-chat.md) | ⭐ — | — | 38/100 |
-| 439 | [beescuit/chatflare](./beescuit-chatflare.md) | ⭐ — | — | 38/100 |
+| 439 | [beescuit/chatflare](./beescuit-chatflare.md) | ⭐ 105 | — | 38/100 |
 | 440 | [alejandrocora/WhatsAppMediaEnumeration](./alejandrocora-whatsappmediaenumeration.md) | ⭐ 4 | — | 38/100 |
 | 441 | [3kh0/slack-datamine](./3kh0-slack-datamine.md) | ⭐ 11 | — | 38/100 |
 | 442 | [MatrAIx-ai/MatrAIx-Persona-8B](./matraix-ai-matraix-persona-8b.md) | ⭐ — | — | 38/100 |
@@ -456,7 +456,7 @@
 | 446 | [Tonterias/h2aichat](./tonterias-h2aichat.md) | ⭐ — | — | 38/100 |
 | 447 | [chddaniel/chatpack](./chddaniel-chatpack.md) | ⭐ — | — | 38/100 |
 | 448 | [EvanZhouDev/calendar-tetris](./evanzhoudev-calendar-tetris.md) | ⭐ — | — | 38/100 |
-| 449 | [bctnry/OpenSyzygy](./bctnry-opensyzygy.md) | ⭐ — | — | 38/100 |
+| 449 | [bctnry/OpenSyzygy](./bctnry-opensyzygy.md) | ⭐ 1 | — | 38/100 |
 | 450 | [Emn4tor/Seal](./emn4tor-seal.md) | ⭐ — | — | 38/100 |
 | 451 | [mmcs-work/git-explain-tui](./mmcs-work-git-explain-tui.md) | ⭐ — | — | 38/100 |
 | 452 | [ZM-BAD/headroom](./zm-bad-headroom.md) | ⭐ — | — | 38/100 |
@@ -465,7 +465,7 @@
 | 455 | [mihirshaikbugs/kid-compass](./mihirshaikbugs-kid-compass.md) | ⭐ — | — | 38/100 |
 | 456 | [jeninh/openotp](./jeninh-openotp.md) | ⭐ — | — | 38/100 |
 | 457 | [gianlucamazza/xllama](./gianlucamazza-xllama.md) | ⭐ — | — | 38/100 |
-| 458 | [bounce-chat/bounce](./bounce-chat-bounce.md) | ⭐ — | — | 38/100 |
+| 458 | [bounce-chat/bounce](./bounce-chat-bounce.md) | ⭐ 9 | — | 38/100 |
 | 459 | [docbrain-ai/docbrain](./docbrain-ai-docbrain.md) | ⭐ — | — | 38/100 |
 | 460 | [knguyenanhoa/lifecalwall](./knguyenanhoa-lifecalwall.md) | ⭐ — | — | 38/100 |
 | 461 | [glenncalleja/wakewire](./glenncalleja-wakewire.md) | ⭐ — | — | 38/100 |
@@ -476,7 +476,7 @@
 | 466 | [deepanwadhwa/samosa-chat](./deepanwadhwa-samosa-chat.md) | ⭐ — | — | 38/100 |
 | 467 | [hparadiz/yoman](./hparadiz-yoman.md) | ⭐ — | — | 38/100 |
 | 468 | [thrinz/agentpeek](./thrinz-agentpeek.md) | ⭐ — | — | 38/100 |
-| 469 | [benri-ai/slack-debloat](./benri-ai-slack-debloat.md) | ⭐ — | — | 38/100 |
+| 469 | [benri-ai/slack-debloat](./benri-ai-slack-debloat.md) | ⭐ 3 | — | 38/100 |
 | 470 | [croit/llm-gateway](./croit-llm-gateway.md) | ⭐ — | — | 38/100 |
 | 471 | [warmbly/warmbly](./warmbly-warmbly.md) | ⭐ — | — | 38/100 |
 | 472 | [simplex-chat/simplex-chat](./simplex-chat-simplex-chat.md) | ⭐ — | — | 38/100 |

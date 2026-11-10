@@ -1,6 +1,6 @@
 # atokim4/vibe-preflight
 
-[![Stars](https://img.shields.io/github/stars/atokim4/vibe-preflight?style=flat-square&color=yellow)](https://github.com/atokim4/vibe-preflight/stargazers) [![Forks](https://img.shields.io/github/forks/atokim4/vibe-preflight?style=flat-square&color=blue)](https://github.com/atokim4/vibe-preflight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atokim4/vibe-preflight?style=flat-square&color=yellow)](https://github.com/atokim4/vibe-preflight/stargazers) [![Forks](https://img.shields.io/github/forks/atokim4/vibe-preflight?style=flat-square&color=blue)](https://github.com/atokim4/vibe-preflight/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skill + zero-dependency scanner: 6 pre-launch security checks for Supabase + Stripe apps (RLS, service_role, NEXT_PUBLIC_ secrets, Stripe webhooks, .env in git)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ atokim4/vibe-preflight：atokim4/vibe-preflight helps catch security and privacy
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 64/100 |
+| production | 58/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

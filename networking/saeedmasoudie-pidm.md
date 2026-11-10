@@ -64,18 +64,18 @@ saeedmasoudie/PIDM：saeedmasoudie/PIDM may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 25/100 |
-| categoryMatchCount | 200/100 |
-| stars | 29/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| stars | 29/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 57/100 |
+| recency | 80/100 |
+| adoption | 25/100 |
+| production | 63/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

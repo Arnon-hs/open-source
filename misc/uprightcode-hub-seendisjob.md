@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 34/100 |
@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Productivity
+Misc
 
 ## 📝 Summary
 
 ### English
 
-UprightCode-hub/SeenDisJob: UprightCode-hub/SeenDisJob may be useful when its README and activity match a concrete workflow.. Use it for Productivity. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+UprightCode-hub/SeenDisJob: UprightCode-hub/SeenDisJob may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-UprightCode-hub/SeenDisJob: open-source проект в категориях Productivity. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+UprightCode-hub/SeenDisJob: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-UprightCode-hub/SeenDisJob：UprightCode-hub/SeenDisJob may be useful when its README and activity match a concrete workflow.。适合用于Productivity。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+UprightCode-hub/SeenDisJob：UprightCode-hub/SeenDisJob may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -62,19 +62,19 @@ UprightCode-hub/SeenDisJob：UprightCode-hub/SeenDisJob may be useful when its R
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 31/100 |
-| integration | 30/100 |
-| production | 39/100 |
-| outlook | 36/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 100/100 |
-| stars | 10/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 10/100 |
 | topics | 50/100 |
+| outlook | 36/100 |
+| quality | 31/100 |
+| recency | 40/100 |
+| adoption | 7/100 |
+| production | 39/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-09-16 · [View on GitHub](https://github.com/UprightCode-hub/SeenDisJob) · [← Back to Productivity](./README.md)</sub>
+<sub>🔭 Discovered 2026-09-16 · [View on GitHub](https://github.com/UprightCode-hub/SeenDisJob) · [← Back to Misc](./README.md)</sub>

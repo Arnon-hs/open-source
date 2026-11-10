@@ -77,7 +77,7 @@
 | 67 | [enarjord/passivbot](./enarjord-passivbot.md) | ⭐ 2.2k | Python | 65/100 |
 | 68 | [cypht-org/cypht](./cypht-org-cypht.md) | ⭐ 1.8k | PHP | 65/100 |
 | 69 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 1k | — | 65/100 |
-| 70 | [arhancanli/canlicapital](./arhancanli-canlicapital.md) | ⭐ — | HTML | 64/100 |
+| 70 | [arhancanli/canlicapital](./arhancanli-canlicapital.md) | ⭐ 6 | HTML | 64/100 |
 | 71 | [HKUDS/AI-Trader](./hkuds-ai-trader.md) | ⭐ 23.2k | Python | 64/100 |
 | 72 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 97 | Python | 64/100 |
 | 73 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.7k | — | 64/100 |
@@ -86,8 +86,8 @@
 | 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 231 | Rust | 64/100 |
 | 77 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 78 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
-| 80 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
+| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
+| 80 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
 | 81 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 82 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 83 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |
@@ -208,13 +208,13 @@
 | 198 | [VardumTechnology/Vardum](./vardumtechnology-vardum.md) | ⭐ 1 | TypeScript | 42/100 |
 | 199 | [krasserm/agent-exchange](./krasserm-agent-exchange.md) | ⭐ — | — | 42/100 |
 | 200 | [PredictionMarketTrader/openthomas](./predictionmarkettrader-openthomas.md) | ⭐ — | — | 42/100 |
-| 201 | [bagoldbe/form4lab](./bagoldbe-form4lab.md) | ⭐ — | — | 42/100 |
+| 201 | [bagoldbe/form4lab](./bagoldbe-form4lab.md) | ⭐ 8 | — | 42/100 |
 | 202 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ 51 | — | 42/100 |
 | 203 | [AlonDrilich/tld-renewal-prices](./alondrilich-tld-renewal-prices.md) | ⭐ 1 | — | 41/100 |
 | 204 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ — | — | 41/100 |
-| 205 | [aybvip/pi-fungibility](./aybvip-pi-fungibility.md) | ⭐ — | — | 41/100 |
+| 205 | [aybvip/pi-fungibility](./aybvip-pi-fungibility.md) | ⭐ 2 | — | 41/100 |
 | 206 | [RayDCodes/pqc-migration-bench](./raydcodes-pqc-migration-bench.md) | ⭐ — | — | 41/100 |
-| 207 | [BubbleParticles/Planar.jl](./bubbleparticles-planar.jl.md) | ⭐ — | — | 41/100 |
+| 207 | [BubbleParticles/Planar.jl](./bubbleparticles-planar.jl.md) | ⭐ 12 | — | 41/100 |
 | 208 | [vincent212/kaspar-hft](./vincent212-kaspar-hft.md) | ⭐ — | — | 41/100 |
 | 209 | [strahinjastojanovic826-code/quant](./strahinjastojanovic826-code-quant.md) | ⭐ — | — | 41/100 |
 | 210 | [SaratAngajalaoffl/jeeva](./saratangajalaoffl-jeeva.md) | ⭐ — | — | 41/100 |

@@ -218,7 +218,7 @@
 | 208 | [pola-rs/r-polars](./pola-rs-r-polars.md) | ⭐ 577 | R | 52/100 |
 | 209 | [mlir-rs/melior](./mlir-rs-melior.md) | ⭐ 559 | Rust | 52/100 |
 | 210 | [uhop/node-re2](./uhop-node-re2.md) | ⭐ 565 | JavaScript | 52/100 |
-| 211 | [borchero/ducklake-sdk](./borchero-ducklake-sdk.md) | ⭐ — | — | 52/100 |
+| 211 | [borchero/ducklake-sdk](./borchero-ducklake-sdk.md) | ⭐ 65 | — | 52/100 |
 | 212 | [yury/cidre](./yury-cidre.md) | ⭐ 225 | Rust | 52/100 |
 | 213 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 505 | Rust | 52/100 |
 | 214 | [squirix/squirix](./squirix-squirix.md) | ⭐ — | C# | 51/100 |
@@ -245,7 +245,7 @@
 | 235 | [Ralith/openxrs](./ralith-openxrs.md) | ⭐ 341 | Rust | 49/100 |
 | 236 | [jonhoo/rust-ibverbs](./jonhoo-rust-ibverbs.md) | ⭐ 235 | Rust | 49/100 |
 | 237 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 217 | JavaScript | 49/100 |
-| 238 | [apple-auth/apple-auth](./apple-auth-apple-auth.md) | ⭐ — | — | 48/100 |
+| 238 | [apple-auth/apple-auth](./apple-auth-apple-auth.md) | ⭐ 2 | — | 48/100 |
 | 239 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ — | — | 48/100 |
 | 240 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |
 | 241 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ — | — | 48/100 |
@@ -265,9 +265,9 @@
 | 255 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.6k | Rust | 46/100 |
 | 256 | [sandrpod/sandrpod](./sandrpod-sandrpod.md) | ⭐ — | — | 45/100 |
 | 257 | [RanjithRagavan/Noctua](./ranjithragavan-noctua.md) | ⭐ — | — | 45/100 |
-| 258 | [BandarLabs/Cobalt](./bandarlabs-cobalt.md) | ⭐ — | — | 45/100 |
+| 258 | [BandarLabs/Cobalt](./bandarlabs-cobalt.md) | ⭐ 430 | — | 45/100 |
 | 259 | [Vivek76760/shatachandra-shield-sdk](./vivek76760-shatachandra-shield-sdk.md) | ⭐ — | — | 45/100 |
-| 260 | [bbenchoff/AGaMEMnon](./bbenchoff-agamemnon.md) | ⭐ — | — | 45/100 |
+| 260 | [bbenchoff/AGaMEMnon](./bbenchoff-agamemnon.md) | ⭐ 63 | — | 45/100 |
 | 261 | [s2-streamstore/nfs-crust](./s2-streamstore-nfs-crust.md) | ⭐ — | — | 45/100 |
 | 262 | [steel-experiments/atlas-demo](./steel-experiments-atlas-demo.md) | ⭐ — | — | 45/100 |
 | 263 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |

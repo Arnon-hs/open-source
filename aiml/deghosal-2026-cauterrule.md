@@ -64,18 +64,18 @@ deghosal-2026/CauterRule：deghosal-2026/CauterRule helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 32/100 |
-| integration | 46/100 |
-| production | 42/100 |
-| outlook | 40/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 6/100 |
 | topics | 63/100 |
+| outlook | 40/100 |
+| quality | 32/100 |
+| recency | 40/100 |
+| adoption | 5/100 |
+| production | 42/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

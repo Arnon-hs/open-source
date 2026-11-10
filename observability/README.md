@@ -274,7 +274,7 @@
 | 264 | [aibudaevv/sip-exporter](./aibudaevv-sip-exporter.md) | ⭐ 58 | — | 42/100 |
 | 265 | [eric-tramel/moraine](./eric-tramel-moraine.md) | ⭐ — | — | 42/100 |
 | 266 | [Faultsense/faultsense-agent](./faultsense-faultsense-agent.md) | ⭐ — | — | 42/100 |
-| 267 | [amitbidlan/zistica-lumin](./amitbidlan-zistica-lumin.md) | ⭐ — | — | 42/100 |
+| 267 | [amitbidlan/zistica-lumin](./amitbidlan-zistica-lumin.md) | ⭐ 2 | — | 42/100 |
 | 268 | [rbmuller/scherlok](./rbmuller-scherlok.md) | ⭐ — | — | 42/100 |
 | 269 | [dooly6276/claude-bulkhead](./dooly6276-claude-bulkhead.md) | ⭐ — | — | 41/100 |
 | 270 | [lagudafuadtosin/inline-logs](./lagudafuadtosin-inline-logs.md) | ⭐ — | — | 41/100 |
@@ -292,14 +292,14 @@
 | 282 | [ghuntley/nix-compact](./ghuntley-nix-compact.md) | ⭐ — | — | 41/100 |
 | 283 | [ishantanu/jevmetrics](./ishantanu-jevmetrics.md) | ⭐ — | — | 41/100 |
 | 284 | [colinedwardwood/sagemcom-docsis-exporter](./colinedwardwood-sagemcom-docsis-exporter.md) | ⭐ — | — | 41/100 |
-| 285 | [arhuman/dllog](./arhuman-dllog.md) | ⭐ — | — | 41/100 |
+| 285 | [arhuman/dllog](./arhuman-dllog.md) | ⭐ 7 | — | 41/100 |
 | 286 | [dx111ge/podshl](./dx111ge-podshl.md) | ⭐ — | — | 41/100 |
 | 287 | [alhanashi/Desktop-Overlay](./alhanashi-desktop-overlay.md) | ⭐ 2 | — | 41/100 |
 | 288 | [sponsoredlogs/sponsored_logs](./sponsoredlogs-sponsored-logs.md) | ⭐ — | — | 41/100 |
 | 289 | [hashem1983jordan-cmd/raster-to-vector-benchmark](./hashem1983jordan-cmd-raster-to-vector-benchmark.md) | ⭐ — | JavaScript | 41/100 |
 | 290 | [ImmersiveFusion/snowglobe](./immersivefusion-snowglobe.md) | ⭐ — | — | 41/100 |
 | 291 | [Jeffy123-zhu/logspecter](./jeffy123-zhu-logspecter.md) | ⭐ — | — | 41/100 |
-| 292 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ — | — | 41/100 |
+| 292 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ 7 | — | 41/100 |
 | 293 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 41/100 |
 | 294 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 449 | Rust | 41/100 |
 | 295 | [Claven07/dsh-plugin-agent-insights](./claven07-dsh-plugin-agent-insights.md) | ⭐ — | TypeScript | 41/100 |

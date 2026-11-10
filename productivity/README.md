@@ -2,7 +2,7 @@
 
 > 
 
-**362 projects** in this category.
+**361 projects** in this category.
 
 ## Projects
 
@@ -244,37 +244,37 @@
 | 234 | [Scighost/Starward](./scighost-starward.md) | ⭐ 4.6k | C# | 50/100 |
 | 235 | [saber-notes/saber](./saber-notes-saber.md) | ⭐ 5k | Dart | 50/100 |
 | 236 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 7.2k | Swift | 50/100 |
-| 237 | [XTraceAI/xtrace-desktop](./xtraceai-xtrace-desktop.md) | ⭐ — | — | 49/100 |
-| 238 | [harleensahni/MaCcyP](./harleensahni-maccyp.md) | ⭐ — | — | 49/100 |
-| 239 | [andreasserfilippi/clipbridge](./andreasserfilippi-clipbridge.md) | ⭐ — | — | 49/100 |
-| 240 | [MeisApps/pcbu-desktop](./meisapps-pcbu-desktop.md) | ⭐ 485 | C++ | 49/100 |
-| 241 | [pop-os/launcher](./pop-os-launcher.md) | ⭐ 287 | Rust | 49/100 |
-| 242 | [shadps4-emu/shadps4-qtlauncher](./shadps4-emu-shadps4-qtlauncher.md) | ⭐ 524 | C++ | 49/100 |
-| 243 | [coderGtm/yantra-app-launcher](./codergtm-yantra-app-launcher.md) | ⭐ 146 | Kotlin | 49/100 |
-| 244 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 917 | Java | 49/100 |
-| 245 | [memospot/memospot](./memospot-memospot.md) | ⭐ 320 | Rust | 49/100 |
-| 246 | [facebook/flow](./facebook-flow.md) | ⭐ 22.2k | Rust | 49/100 |
-| 247 | [luskaner/ageLANServer](./luskaner-agelanserver.md) | ⭐ 674 | Go | 49/100 |
-| 248 | [timothepoznanski/poznote](./timothepoznanski-poznote.md) | ⭐ 1k | JavaScript | 49/100 |
-| 249 | [harry12132/stash](./harry12132-stash.md) | ⭐ — | — | 48/100 |
-| 250 | [lhadzic377-netizen/TokiRecur](./lhadzic377-netizen-tokirecur.md) | ⭐ — | — | 48/100 |
-| 251 | [aabedraba/tailpaste](./aabedraba-tailpaste.md) | ⭐ 4 | — | 48/100 |
-| 252 | [InexperiencedPotato/ExtensionReleaseGuard](./inexperiencedpotato-extensionreleaseguard.md) | ⭐ — | Python | 48/100 |
-| 253 | [mickfive05/VYBE](./mickfive05-vybe.md) | ⭐ — | — | 48/100 |
-| 254 | [revanapriyandi/jemur](./revanapriyandi-jemur.md) | ⭐ — | C# | 48/100 |
-| 255 | [20101997/Ditty](./20101997-ditty.md) | ⭐ 4 | — | 48/100 |
-| 256 | [OmniCouncil/OmniCouncil](./omnicouncil-omnicouncil.md) | ⭐ — | — | 48/100 |
-| 257 | [fralsare/fralculator](./fralsare-fralculator.md) | ⭐ — | TypeScript | 48/100 |
-| 258 | [yibie/org-supertag](./yibie-org-supertag.md) | ⭐ 353 | Emacs Lisp | 48/100 |
-| 259 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 265 | Rust | 48/100 |
-| 260 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 1.5k | Shell | 48/100 |
-| 261 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 546 | C++ | 48/100 |
-| 262 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 617 | Rust | 48/100 |
-| 263 | [beyluta/WinWidgets](./beyluta-winwidgets.md) | ⭐ 167 | C | 48/100 |
-| 264 | [StudentWeis/ropy](./studentweis-ropy.md) | ⭐ 205 | Rust | 48/100 |
-| 265 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 48/100 |
-| 266 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 2.4k | Java | 48/100 |
-| 267 | [carlosfdsn/golock](./carlosfdsn-golock.md) | ⭐ — | Go | 48/100 |
+| 237 | [carlosfdsn/golock](./carlosfdsn-golock.md) | ⭐ 2 | Go | 50/100 |
+| 238 | [XTraceAI/xtrace-desktop](./xtraceai-xtrace-desktop.md) | ⭐ — | — | 49/100 |
+| 239 | [harleensahni/MaCcyP](./harleensahni-maccyp.md) | ⭐ — | — | 49/100 |
+| 240 | [andreasserfilippi/clipbridge](./andreasserfilippi-clipbridge.md) | ⭐ 3 | — | 49/100 |
+| 241 | [MeisApps/pcbu-desktop](./meisapps-pcbu-desktop.md) | ⭐ 485 | C++ | 49/100 |
+| 242 | [pop-os/launcher](./pop-os-launcher.md) | ⭐ 287 | Rust | 49/100 |
+| 243 | [shadps4-emu/shadps4-qtlauncher](./shadps4-emu-shadps4-qtlauncher.md) | ⭐ 524 | C++ | 49/100 |
+| 244 | [coderGtm/yantra-app-launcher](./codergtm-yantra-app-launcher.md) | ⭐ 146 | Kotlin | 49/100 |
+| 245 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 917 | Java | 49/100 |
+| 246 | [memospot/memospot](./memospot-memospot.md) | ⭐ 320 | Rust | 49/100 |
+| 247 | [facebook/flow](./facebook-flow.md) | ⭐ 22.2k | Rust | 49/100 |
+| 248 | [luskaner/ageLANServer](./luskaner-agelanserver.md) | ⭐ 674 | Go | 49/100 |
+| 249 | [timothepoznanski/poznote](./timothepoznanski-poznote.md) | ⭐ 1k | JavaScript | 49/100 |
+| 250 | [harry12132/stash](./harry12132-stash.md) | ⭐ — | — | 48/100 |
+| 251 | [lhadzic377-netizen/TokiRecur](./lhadzic377-netizen-tokirecur.md) | ⭐ — | — | 48/100 |
+| 252 | [aabedraba/tailpaste](./aabedraba-tailpaste.md) | ⭐ 4 | — | 48/100 |
+| 253 | [InexperiencedPotato/ExtensionReleaseGuard](./inexperiencedpotato-extensionreleaseguard.md) | ⭐ — | Python | 48/100 |
+| 254 | [mickfive05/VYBE](./mickfive05-vybe.md) | ⭐ — | — | 48/100 |
+| 255 | [revanapriyandi/jemur](./revanapriyandi-jemur.md) | ⭐ — | C# | 48/100 |
+| 256 | [20101997/Ditty](./20101997-ditty.md) | ⭐ 4 | — | 48/100 |
+| 257 | [OmniCouncil/OmniCouncil](./omnicouncil-omnicouncil.md) | ⭐ — | — | 48/100 |
+| 258 | [fralsare/fralculator](./fralsare-fralculator.md) | ⭐ — | TypeScript | 48/100 |
+| 259 | [yibie/org-supertag](./yibie-org-supertag.md) | ⭐ 353 | Emacs Lisp | 48/100 |
+| 260 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 265 | Rust | 48/100 |
+| 261 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 1.5k | Shell | 48/100 |
+| 262 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 546 | C++ | 48/100 |
+| 263 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 617 | Rust | 48/100 |
+| 264 | [beyluta/WinWidgets](./beyluta-winwidgets.md) | ⭐ 167 | C | 48/100 |
+| 265 | [StudentWeis/ropy](./studentweis-ropy.md) | ⭐ 205 | Rust | 48/100 |
+| 266 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 48/100 |
+| 267 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 2.4k | Java | 48/100 |
 | 268 | [omikuji-launcher/omikuji](./omikuji-launcher-omikuji.md) | ⭐ 240 | Rust | 47/100 |
 | 269 | [music-assistant/desktop-app](./music-assistant-desktop-app.md) | ⭐ 241 | Rust | 47/100 |
 | 270 | [kunkka19xx/look](./kunkka19xx-look.md) | ⭐ 1.3k | Swift | 47/100 |
@@ -300,7 +300,7 @@
 | 290 | [willmeyers/coypa](./willmeyers-coypa.md) | ⭐ — | — | 45/100 |
 | 291 | [tejasashinde/clipboard-saver-extension](./tejasashinde-clipboard-saver-extension.md) | ⭐ — | — | 45/100 |
 | 292 | [rohankc69/clickit](./rohankc69-clickit.md) | ⭐ — | — | 45/100 |
-| 293 | [Arylmera/Token-Dashboard](./arylmera-token-dashboard.md) | ⭐ — | — | 45/100 |
+| 293 | [Arylmera/Token-Dashboard](./arylmera-token-dashboard.md) | ⭐ 10 | — | 45/100 |
 | 294 | [NeoApplications/Neo-Launcher](./neoapplications-neo-launcher.md) | ⭐ 2.2k | Java | 45/100 |
 | 295 | [tomboy-notes/tomboy-ng](./tomboy-notes-tomboy-ng.md) | ⭐ 452 | Pascal | 45/100 |
 | 296 | [AstrBotDevs/astrbot-launcher](./astrbotdevs-astrbot-launcher.md) | ⭐ 2.7k | Rust | 45/100 |
@@ -325,7 +325,7 @@
 | 315 | [MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5](./mothersphere-d6c049a09ba8ac3085c51ee9df24a4e5.md) | ⭐ — | — | 41/100 |
 | 316 | [Fardin7798/Spider-Tv-Launcher](./fardin7798-spider-tv-launcher.md) | ⭐ — | — | 41/100 |
 | 317 | [stronxyo/quarter](./stronxyo-quarter.md) | ⭐ — | — | 41/100 |
-| 318 | [andrewarrow/ruie](./andrewarrow-ruie.md) | ⭐ — | — | 41/100 |
+| 318 | [andrewarrow/ruie](./andrewarrow-ruie.md) | ⭐ 1 | — | 41/100 |
 | 319 | [MarcelNazare/Reeve](./marcelnazare-reeve.md) | ⭐ — | — | 41/100 |
 | 320 | [xdagiz/xcalidraw](./xdagiz-xcalidraw.md) | ⭐ — | — | 41/100 |
 | 321 | [Amanbig/dockit](./amanbig-dockit.md) | ⭐ — | — | 41/100 |
@@ -344,8 +344,8 @@
 | 334 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 335 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
 | 336 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 337 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
-| 338 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 337 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 338 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
 | 339 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 340 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
 | 341 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
@@ -360,16 +360,15 @@
 | 350 | [quonaro/minimin-sync](./quonaro-minimin-sync.md) | ⭐ — | — | 37/100 |
 | 351 | [ikagzy/k-launcher](./ikagzy-k-launcher.md) | ⭐ — | C# | 36/100 |
 | 352 | [herbertyeung/SingLilt](./herbertyeung-singlilt.md) | ⭐ — | C++ | 36/100 |
-| 353 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
+| 353 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ 1 | — | 36/100 |
 | 354 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
 | 355 | [Nebula-03/research-helper-pup](./nebula-03-research-helper-pup.md) | ⭐ — | TypeScript | 36/100 |
 | 356 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
 | 357 | [sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass](./sunbal822-pip-the-desktop-penguin-that-makes-you-touch-grass.md) | ⭐ — | Python | 34/100 |
-| 358 | [UprightCode-hub/SeenDisJob](./uprightcode-hub-seendisjob.md) | ⭐ 2 | JavaScript | 34/100 |
-| 359 | [qife422/chief-of-staff](./qife422-chief-of-staff.md) | ⭐ — | HTML | 32/100 |
-| 360 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 32/100 |
-| 361 | [KrishnaGaur12/HFDEV1](./krishnagaur12-hfdev1.md) | ⭐ — | JavaScript | 31/100 |
-| 362 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 29/100 |
+| 358 | [qife422/chief-of-staff](./qife422-chief-of-staff.md) | ⭐ — | HTML | 32/100 |
+| 359 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 32/100 |
+| 360 | [KrishnaGaur12/HFDEV1](./krishnagaur12-hfdev1.md) | ⭐ — | JavaScript | 31/100 |
+| 361 | [RadnusD/stickyshell-home](./radnusd-stickyshell-home.md) | ⭐ — | — | 29/100 |
 
 ---
 

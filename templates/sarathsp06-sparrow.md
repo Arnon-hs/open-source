@@ -65,18 +65,18 @@ sarathsp06/sparrow：sarathsp06/sparrow helps teams reuse working workflows and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 62/100 |
-| production | 64/100 |
-| outlook | 68/100 |
-| adoption | 31/100 |
-| categoryMatchCount | 300/100 |
-| stars | 36/100 |
 | forks | 19/100 |
-| recency | 80/100 |
+| stars | 36/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
+| adoption | 31/100 |
+| production | 64/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

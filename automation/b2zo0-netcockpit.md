@@ -1,6 +1,6 @@
 # B2ZO0/netcockpit
 
-[![Stars](https://img.shields.io/github/stars/B2ZO0/netcockpit?style=flat-square&color=yellow)](https://github.com/B2ZO0/netcockpit/stargazers) [![Forks](https://img.shields.io/github/forks/B2ZO0/netcockpit?style=flat-square&color=blue)](https://github.com/B2ZO0/netcockpit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/B2ZO0/netcockpit?style=flat-square&color=yellow)](https://github.com/B2ZO0/netcockpit/stargazers) [![Forks](https://img.shields.io/github/forks/B2ZO0/netcockpit?style=flat-square&color=blue)](https://github.com/B2ZO0/netcockpit/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Your whole infrastructure, live, in one cockpit: auto-discovered topology, VMware, switches, alerts, logs and AI, even without access to your network gear. Prometheus · Grafana · Loki · Zabbix. EN/FR.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ B2ZO0/netcockpit：B2ZO0/netcockpit helps remove repetitive manual operations fr
 
 **Quality signals**
 
+- 3 GitHub stars
 - updated 2026-11-05
 - primary language: JavaScript
 - 5 topics
@@ -64,13 +65,13 @@ B2ZO0/netcockpit：B2ZO0/netcockpit helps remove repetitive manual operations fr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 40/100 |
+| quality | 44/100 |
 | integration | 30/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 0/100 |
+| production | 53/100 |
+| outlook | 55/100 |
+| adoption | 9/100 |
 | categoryMatchCount | 200/100 |
-| stars | 0/100 |
+| stars | 13/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 63/100 |

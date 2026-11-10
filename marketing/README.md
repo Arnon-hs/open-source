@@ -20,7 +20,7 @@
 | 10 | [testedmedia/seo-command-center](./testedmedia-seo-command-center.md) | ⭐ — | — | 54/100 |
 | 11 | [dvygolov/YellowTDS](./dvygolov-yellowtds.md) | ⭐ 395 | JavaScript | 53/100 |
 | 12 | [Yoast/wordpress-seo](./yoast-wordpress-seo.md) | ⭐ 2k | JavaScript | 53/100 |
-| 13 | [angelotc/antigravity-seo](./angelotc-antigravity-seo.md) | ⭐ — | — | 51/100 |
+| 13 | [angelotc/antigravity-seo](./angelotc-antigravity-seo.md) | ⭐ 2 | — | 51/100 |
 | 14 | [okou-ai/okou](./okou-ai-okou.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 15 | [lix-project/lix](./lix-project-lix.md) | ⭐ 650 | C++ | 50/100 |
 | 16 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 7.1k | — | 48/100 |
@@ -42,7 +42,7 @@
 | 32 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 38/100 |
 | 33 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ — | — | 38/100 |
 | 34 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ — | — | 38/100 |
-| 35 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ — | — | 38/100 |
+| 35 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ 2 | — | 38/100 |
 | 36 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 38/100 |
 
 ---
