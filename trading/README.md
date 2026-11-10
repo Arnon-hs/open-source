@@ -86,8 +86,8 @@
 | 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 231 | Rust | 64/100 |
 | 77 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 78 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
-| 80 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
+| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
+| 80 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
 | 81 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 82 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 83 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |
@@ -128,13 +128,13 @@
 | 118 | [emreatak0/polymarket-arbitrage-bot-btc-5m](./emreatak0-polymarket-arbitrage-bot-btc-5m.md) | ⭐ 305 | JavaScript | 59/100 |
 | 119 | [floor-licker/polyfill-rs](./floor-licker-polyfill-rs.md) | ⭐ 204 | Rust | 59/100 |
 | 120 | [Polymarket/rs-clob-client](./polymarket-rs-clob-client.md) | ⭐ 681 | Rust | 59/100 |
-| 121 | [manhinhang/futu-opend-docker](./manhinhang-futu-opend-docker.md) | ⭐ 31 | JavaScript | 58/100 |
+| 121 | [manhinhang/futu-opend-docker](./manhinhang-futu-opend-docker.md) | ⭐ 34 | JavaScript | 58/100 |
 | 122 | [xLydianSoftware/Qubx](./xlydiansoftware-qubx.md) | ⭐ 73 | Jupyter Notebook | 58/100 |
 | 123 | [xflops/flame](./xflops-flame.md) | ⭐ 57 | Rust | 58/100 |
 | 124 | [Kai-dev7/QuantScope](./kai-dev7-quantscope.md) | ⭐ 125 | Python | 58/100 |
 | 125 | [kiarashsardari/LYM](./kiarashsardari-lym.md) | ⭐ 1 | Python | 57/100 |
 | 126 | [bmoscon/orderbook](./bmoscon-orderbook.md) | ⭐ 321 | Python | 57/100 |
-| 127 | [noahnan-max/chanlun-trading-system](./noahnan-max-chanlun-trading-system.md) | ⭐ 33 | Python | 57/100 |
+| 127 | [noahnan-max/chanlun-trading-system](./noahnan-max-chanlun-trading-system.md) | ⭐ 80 | Python | 57/100 |
 | 128 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 47 | JavaScript | 57/100 |
 | 129 | [joaquinbejar/OptionStratLib](./joaquinbejar-optionstratlib.md) | ⭐ 264 | Rust | 57/100 |
 | 130 | [saidsurucu/borsaci](./saidsurucu-borsaci.md) | ⭐ 288 | Python | 56/100 |
@@ -150,7 +150,7 @@
 | 140 | [deepentropy/ibx](./deepentropy-ibx.md) | ⭐ 192 | Rust | 55/100 |
 | 141 | [inex/IXP-Manager](./inex-ixp-manager.md) | ⭐ 433 | PHP | 55/100 |
 | 142 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 555 | Rust | 55/100 |
-| 143 | [vincenzo-afk/OpenAgentNet](./vincenzo-afk-openagentnet.md) | ⭐ 31 | Python | 54/100 |
+| 143 | [vincenzo-afk/OpenAgentNet](./vincenzo-afk-openagentnet.md) | ⭐ 39 | Python | 54/100 |
 | 144 | [rreichel3/US-Stock-Symbols](./rreichel3-us-stock-symbols.md) | ⭐ 578 | — | 54/100 |
 | 145 | [pnnx/pnnx](./pnnx-pnnx.md) | ⭐ 714 | Python | 54/100 |
 | 146 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 406 | Python | 54/100 |

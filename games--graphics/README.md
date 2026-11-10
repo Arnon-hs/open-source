@@ -296,7 +296,7 @@
 | 286 | [freeorion/freeorion](./freeorion-freeorion.md) | ⭐ 1.1k | C++ | 48/100 |
 | 287 | [Unvanquished/Unvanquished](./unvanquished-unvanquished.md) | ⭐ 1.1k | C++ | 48/100 |
 | 288 | [Rust-GPU/rust-gpu](./rust-gpu-rust-gpu.md) | ⭐ 3.4k | Rust | 48/100 |
-| 289 | [LostBeard/SpawnDev.ILGPU](./lostbeard-spawndev.ilgpu.md) | ⭐ 33 | C# | 47/100 |
+| 289 | [LostBeard/SpawnDev.ILGPU](./lostbeard-spawndev.ilgpu.md) | ⭐ 35 | C# | 47/100 |
 | 290 | [BasisVR/Basis](./basisvr-basis.md) | ⭐ 535 | C# | 47/100 |
 | 291 | [dkfans/keeperfx](./dkfans-keeperfx.md) | ⭐ 1k | C | 47/100 |
 | 292 | [microsoft/DirectXMesh](./microsoft-directxmesh.md) | ⭐ 861 | C++ | 47/100 |

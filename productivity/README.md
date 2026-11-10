@@ -160,7 +160,7 @@
 | 150 | [drSenkuIshigami/branchcraft](./drsenkuishigami-branchcraft.md) | ⭐ 1 | TypeScript | 57/100 |
 | 151 | [Akhouri-Anmol-Kumar/APIC](./akhouri-anmol-kumar-apic.md) | ⭐ 1 | — | 57/100 |
 | 152 | [cassidoo/todometer](./cassidoo-todometer.md) | ⭐ 2.1k | JavaScript | 57/100 |
-| 153 | [yandanp/Connexio](./yandanp-connexio.md) | ⭐ 32 | TypeScript | 57/100 |
+| 153 | [yandanp/Connexio](./yandanp-connexio.md) | ⭐ 486 | TypeScript | 57/100 |
 | 154 | [julyx10/lap](./julyx10-lap.md) | ⭐ 4.3k | Vue | 57/100 |
 | 155 | [sunnypatell/sunnify-spotify-downloader](./sunnypatell-sunnify-spotify-downloader.md) | ⭐ 1.4k | Python | 57/100 |
 | 156 | [BernardoGiordano/Checkpoint](./bernardogiordano-checkpoint.md) | ⭐ 3.1k | C++ | 57/100 |
@@ -344,8 +344,8 @@
 | 334 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 335 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
 | 336 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 337 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
-| 338 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 337 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 338 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
 | 339 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 340 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
 | 341 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
@@ -358,13 +358,13 @@
 | 348 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 37/100 |
 | 349 | [Berserk-hub150/CircuitCraft](./berserk-hub150-circuitcraft.md) | ⭐ 6 | Rust | 37/100 |
 | 350 | [quonaro/minimin-sync](./quonaro-minimin-sync.md) | ⭐ — | — | 37/100 |
-| 351 | [sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass](./sunbal822-pip-the-desktop-penguin-that-makes-you-touch-grass.md) | ⭐ — | Python | 37/100 |
-| 352 | [ikagzy/k-launcher](./ikagzy-k-launcher.md) | ⭐ — | C# | 36/100 |
-| 353 | [herbertyeung/SingLilt](./herbertyeung-singlilt.md) | ⭐ — | C++ | 36/100 |
-| 354 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
-| 355 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
-| 356 | [Nebula-03/research-helper-pup](./nebula-03-research-helper-pup.md) | ⭐ — | TypeScript | 36/100 |
-| 357 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
+| 351 | [ikagzy/k-launcher](./ikagzy-k-launcher.md) | ⭐ — | C# | 36/100 |
+| 352 | [herbertyeung/SingLilt](./herbertyeung-singlilt.md) | ⭐ — | C++ | 36/100 |
+| 353 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ — | — | 36/100 |
+| 354 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ — | — | 36/100 |
+| 355 | [Nebula-03/research-helper-pup](./nebula-03-research-helper-pup.md) | ⭐ — | TypeScript | 36/100 |
+| 356 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 40 | C | 34/100 |
+| 357 | [sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass](./sunbal822-pip-the-desktop-penguin-that-makes-you-touch-grass.md) | ⭐ — | Python | 34/100 |
 | 358 | [UprightCode-hub/SeenDisJob](./uprightcode-hub-seendisjob.md) | ⭐ 2 | JavaScript | 34/100 |
 | 359 | [qife422/chief-of-staff](./qife422-chief-of-staff.md) | ⭐ — | HTML | 32/100 |
 | 360 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 32/100 |

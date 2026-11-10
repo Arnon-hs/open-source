@@ -64,14 +64,14 @@
 | 54 | [JSONbored/mem0-aio](./jsonbored-mem0-aio.md) | ⭐ 19 | Python | 78/100 |
 | 55 | [virastack/start](./virastack-start.md) | ⭐ 103 | TypeScript | 78/100 |
 | 56 | [arhamkhnz/next-shadcn-admin-dashboard](./arhamkhnz-next-shadcn-admin-dashboard.md) | ⭐ 3.3k | TypeScript | 78/100 |
-| 57 | [KhaledSaeed18/node-express-boilerplate](./khaledsaeed18-node-express-boilerplate.md) | ⭐ 31 | TypeScript | 78/100 |
+| 57 | [KhaledSaeed18/node-express-boilerplate](./khaledsaeed18-node-express-boilerplate.md) | ⭐ 36 | TypeScript | 78/100 |
 | 58 | [jsynowiec/node-typescript-boilerplate](./jsynowiec-node-typescript-boilerplate.md) | ⭐ 3k | TypeScript | 78/100 |
 | 59 | [chacosoldier/compabob](./chacosoldier-compabob.md) | ⭐ 27 | Python | 78/100 |
-| 60 | [luwhano/fastapi-langgraph-agent-production-ready-template](./luwhano-fastapi-langgraph-agent-production-ready-template.md) | ⭐ 32 | Python | 78/100 |
+| 60 | [luwhano/fastapi-langgraph-agent-production-ready-template](./luwhano-fastapi-langgraph-agent-production-ready-template.md) | ⭐ 34 | Python | 78/100 |
 | 61 | [joematthews/extreme-angular](./joematthews-extreme-angular.md) | ⭐ 190 | HTML | 78/100 |
 | 62 | [minipuft/claude-prompts](./minipuft-claude-prompts.md) | ⭐ 148 | TypeScript | 78/100 |
 | 63 | [denizgursoy/gotouch](./denizgursoy-gotouch.md) | ⭐ 142 | Go | 78/100 |
-| 64 | [open-agreements/open-agreements](./open-agreements-open-agreements.md) | ⭐ 33 | TypeScript | 78/100 |
+| 64 | [open-agreements/open-agreements](./open-agreements-open-agreements.md) | ⭐ 62 | TypeScript | 78/100 |
 | 65 | [hairyhenderson/gomplate](./hairyhenderson-gomplate.md) | ⭐ 3.2k | Go | 78/100 |
 | 66 | [study8677/antigravity-workspace-template](./study8677-antigravity-workspace-template.md) | ⭐ 1.2k | Python | 78/100 |
 | 67 | [get-nathan/nathan](./get-nathan-nathan.md) | ⭐ 26 | TypeScript | 77/100 |
@@ -95,7 +95,7 @@
 | 85 | [Decodo/n8n-nodes-decodo](./decodo-n8n-nodes-decodo.md) | ⭐ 9 | TypeScript | 75/100 |
 | 86 | [salmanshahriar/Next-Elite](./salmanshahriar-next-elite.md) | ⭐ 109 | TypeScript | 75/100 |
 | 87 | [epicserve/django-base-site](./epicserve-django-base-site.md) | ⭐ 452 | Python | 75/100 |
-| 88 | [voglster/lumbergh](./voglster-lumbergh.md) | ⭐ 32 | TypeScript | 75/100 |
+| 88 | [voglster/lumbergh](./voglster-lumbergh.md) | ⭐ 33 | TypeScript | 75/100 |
 | 89 | [microsoft/iq-series](./microsoft-iq-series.md) | ⭐ 408 | Jupyter Notebook | 75/100 |
 | 90 | [mattgierhart/PRD-driven-context-engineering](./mattgierhart-prd-driven-context-engineering.md) | ⭐ 179 | HTML | 75/100 |
 | 91 | [aws-samples/sample-genai-on-eks-starter-kit](./aws-samples-sample-genai-on-eks-starter-kit.md) | ⭐ 102 | JavaScript | 75/100 |
@@ -116,7 +116,7 @@
 | 106 | [nasirkhan/laravel-starter](./nasirkhan-laravel-starter.md) | ⭐ 1.4k | PHP | 73/100 |
 | 107 | [coreui/coreui-free-react-admin-template](./coreui-coreui-free-react-admin-template.md) | ⭐ 5k | JavaScript | 73/100 |
 | 108 | [IronTony/voltrn-cli](./irontony-voltrn-cli.md) | ⭐ 480 | JavaScript | 73/100 |
-| 109 | [northflank/skills](./northflank-skills.md) | ⭐ 33 | JavaScript | 73/100 |
+| 109 | [northflank/skills](./northflank-skills.md) | ⭐ 39 | JavaScript | 73/100 |
 | 110 | [kinngh/shopify-nextjs-prisma-app](./kinngh-shopify-nextjs-prisma-app.md) | ⭐ 515 | JavaScript | 73/100 |
 | 111 | [aws/serverless-application-model](./aws-serverless-application-model.md) | ⭐ 9.6k | Python | 73/100 |
 | 112 | [turnerlabs/fargate-create](./turnerlabs-fargate-create.md) | ⭐ 105 | Go | 73/100 |
@@ -280,7 +280,7 @@
 | 270 | [YuDefine/nuxt-supabase-starter](./yudefine-nuxt-supabase-starter.md) | ⭐ 44 | JavaScript | 64/100 |
 | 271 | [osteele/liquid](./osteele-liquid.md) | ⭐ 359 | Go | 64/100 |
 | 272 | [joaomlourenco/novathesis](./joaomlourenco-novathesis.md) | ⭐ 1k | TeX | 64/100 |
-| 273 | [seandavi/lifeos-template](./seandavi-lifeos-template.md) | ⭐ 31 | Python | 64/100 |
+| 273 | [seandavi/lifeos-template](./seandavi-lifeos-template.md) | ⭐ 47 | Python | 64/100 |
 | 274 | [murraco/jekyll-theme-minimal-resume](./murraco-jekyll-theme-minimal-resume.md) | ⭐ 553 | SCSS | 64/100 |
 | 275 | [fluent/helm-charts](./fluent-helm-charts.md) | ⭐ 474 | Go Template | 64/100 |
 | 276 | [grafana/k8s-monitoring-helm](./grafana-k8s-monitoring-helm.md) | ⭐ 696 | Go Template | 64/100 |

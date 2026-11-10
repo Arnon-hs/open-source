@@ -1,6 +1,6 @@
 # sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass
 
-[![Stars](https://img.shields.io/github/stars/sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass?style=flat-square&color=yellow)](https://github.com/sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass/stargazers) [![Forks](https://img.shields.io/github/forks/sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass?style=flat-square&color=blue)](https://github.com/sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass?style=flat-square&color=yellow)](https://github.com/sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass/stargazers) [![Forks](https://img.shields.io/github/forks/sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass?style=flat-square&color=blue)](https://github.com/sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass：sunbal822/PIP-the
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 37/100 |
+| quality | 32/100 |
 | integration | 34/100 |
-| production | 47/100 |
-| outlook | 44/100 |
+| production | 40/100 |
+| outlook | 37/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

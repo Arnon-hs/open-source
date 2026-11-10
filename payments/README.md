@@ -140,7 +140,7 @@
 | 130 | [abishekmuthian/open-payment-host](./abishekmuthian-open-payment-host.md) | ⭐ 243 | Go | 60/100 |
 | 131 | [voidly-ai/voidly-pay](./voidly-ai-voidly-pay.md) | ⭐ 11 | JavaScript | 60/100 |
 | 132 | [dimthink/PriceAI](./dimthink-priceai.md) | ⭐ 5.3k | TypeScript | 60/100 |
-| 133 | [trickv/hass-claude-usage](./trickv-hass-claude-usage.md) | ⭐ 32 | Python | 60/100 |
+| 133 | [trickv/hass-claude-usage](./trickv-hass-claude-usage.md) | ⭐ 61 | Python | 60/100 |
 | 134 | [vue-stripe/vue-stripe](./vue-stripe-vue-stripe.md) | ⭐ 1.1k | Vue | 60/100 |
 | 135 | [easylist/easylist](./easylist-easylist.md) | ⭐ 3.2k | Adblock Filter List | 60/100 |
 | 136 | [QuestPDF/QuestPDF](./questpdf-questpdf.md) | ⭐ 14.2k | C# | 60/100 |
@@ -174,7 +174,7 @@
 | 164 | [0xRadikal/Free-v2ray-Configs](./0xradikal-free-v2ray-configs.md) | ⭐ 813 | Python | 57/100 |
 | 165 | [Lulzx/tinypdf](./lulzx-tinypdf.md) | ⭐ 1.9k | TypeScript | 57/100 |
 | 166 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 104 | JavaScript | 57/100 |
-| 167 | [Bestpart-Irene/secondsign-core](./bestpart-irene-secondsign-core.md) | ⭐ 32 | Python | 57/100 |
+| 167 | [Bestpart-Irene/secondsign-core](./bestpart-irene-secondsign-core.md) | ⭐ 33 | Python | 57/100 |
 | 168 | [useautumn/autumn](./useautumn-autumn.md) | ⭐ 2.6k | TypeScript | 57/100 |
 | 169 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.6k | JavaScript | 57/100 |
 | 170 | [Au1rxx/free-vpn-subscriptions](./au1rxx-free-vpn-subscriptions.md) | ⭐ 1.1k | Go | 57/100 |
@@ -272,8 +272,8 @@
 | 262 | [killbill/killbill-commons](./killbill-killbill-commons.md) | ⭐ 145 | Java | 51/100 |
 | 263 | [Franlinozz/Sluice](./franlinozz-sluice.md) | ⭐ 32 | TypeScript | 51/100 |
 | 264 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 133 | PHP | 51/100 |
-| 265 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
-| 266 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
+| 265 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
+| 266 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
 | 267 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 51/100 |
 | 268 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 762 | Rust | 51/100 |
 | 269 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 503 | PHP | 51/100 |
@@ -284,9 +284,9 @@
 | 274 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
 | 275 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 276 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
-| 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 30 | HTML | 50/100 |
-| 278 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
-| 279 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
+| 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 181 | HTML | 50/100 |
+| 278 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
+| 279 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
 | 280 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 281 | [FetchDoge/permit](./fetchdoge-permit.md) | ⭐ — | Python | 49/100 |
 | 282 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 49/100 |

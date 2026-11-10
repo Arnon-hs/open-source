@@ -181,7 +181,7 @@
 | 171 | [walinejs/waline](./walinejs-waline.md) | ⭐ 3.2k | JavaScript | 58/100 |
 | 172 | [tess1o/geopulse](./tess1o-geopulse.md) | ⭐ 1.5k | Java | 58/100 |
 | 173 | [signal18/replication-manager](./signal18-replication-manager.md) | ⭐ 744 | Go | 58/100 |
-| 174 | [dennisonbertram/agentic-hosting](./dennisonbertram-agentic-hosting.md) | ⭐ 31 | Go | 57/100 |
+| 174 | [dennisonbertram/agentic-hosting](./dennisonbertram-agentic-hosting.md) | ⭐ 34 | Go | 57/100 |
 | 175 | [etcd-io/bbolt](./etcd-io-bbolt.md) | ⭐ 9.8k | Go | 57/100 |
 | 176 | [postgis/postgis](./postgis-postgis.md) | ⭐ 2.3k | PLpgSQL | 57/100 |
 | 177 | [sqlite/sqlite](./sqlite-sqlite.md) | ⭐ 11k | C | 57/100 |
@@ -386,7 +386,7 @@
 | 376 | [silo-ai/silo](./silo-ai-silo.md) | ⭐ — | — | 45/100 |
 | 377 | [jamalhill12321-hash/patm](./jamalhill12321-hash-patm.md) | ⭐ — | — | 45/100 |
 | 378 | [Helius-Finance/helius-finance-tracker](./helius-finance-helius-finance-tracker.md) | ⭐ — | — | 45/100 |
-| 379 | [cardmagic/solid-objects-ruby](./cardmagic-solid-objects-ruby.md) | ⭐ 31 | Ruby | 45/100 |
+| 379 | [cardmagic/solid-objects-ruby](./cardmagic-solid-objects-ruby.md) | ⭐ 40 | Ruby | 45/100 |
 | 380 | [sib-project/sib](./sib-project-sib.md) | ⭐ — | — | 45/100 |
 | 381 | [lark-sh/lark](./lark-sh-lark.md) | ⭐ — | — | 45/100 |
 | 382 | [ksenxx/sqlite-optimized](./ksenxx-sqlite-optimized.md) | ⭐ — | — | 45/100 |

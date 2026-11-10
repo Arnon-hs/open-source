@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 32 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 33 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-11-01 |
@@ -53,8 +53,8 @@ necoz-oss/changelog-bot：necoz-oss/changelog-bot helps remove repetitive manual
 
 **Quality signals**
 
-- 32 GitHub stars
-- 8 forks
+- 33 GitHub stars
+- 12 forks
 - updated 2026-11-01
 - primary language: TypeScript
 - 19 topics
@@ -66,14 +66,14 @@ necoz-oss/changelog-bot：necoz-oss/changelog-bot helps remove repetitive manual
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 60/100 |
 | integration | 78/100 |
 | production | 66/100 |
-| outlook | 72/100 |
-| adoption | 30/100 |
+| outlook | 73/100 |
+| adoption | 31/100 |
 | categoryMatchCount | 100/100 |
-| stars | 32/100 |
-| forks | 24/100 |
+| stars | 33/100 |
+| forks | 28/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
