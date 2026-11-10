@@ -62,18 +62,18 @@ stagedsec/stagedsec：stagedsec/stagedsec helps connect AI assistants to real to
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 40/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 200/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 59/100 |
+| quality | 40/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 56/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

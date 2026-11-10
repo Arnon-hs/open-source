@@ -753,8 +753,8 @@
 | 743 | [sanusart/react-dropdown-select](./sanusart-react-dropdown-select.md) | ⭐ 364 | JavaScript | 54/100 |
 | 744 | [blackfyre/wga](./blackfyre-wga.md) | ⭐ 193 | Go | 54/100 |
 | 745 | [IT-BAER/proxmorph](./it-baer-proxmorph.md) | ⭐ 637 | CSS | 54/100 |
-| 746 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
-| 747 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 884 | Rust | 54/100 |
+| 746 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 884 | Rust | 54/100 |
+| 747 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
 | 748 | [coi/coi](./coi-coi.md) | ⭐ 567 | C++ | 54/100 |
 | 749 | [lvzhenbo/115-plus-desktop](./lvzhenbo-115-plus-desktop.md) | ⭐ 383 | Rust | 54/100 |
 | 750 | [rust-ui/ui](./rust-ui-ui.md) | ⭐ 805 | Rust | 54/100 |
@@ -876,7 +876,7 @@
 | 866 | [antithesishq/bombadil](./antithesishq-bombadil.md) | ⭐ 1.6k | Rust | 46/100 |
 | 867 | [vaadin/web-components](./vaadin-web-components.md) | ⭐ 585 | JavaScript | 46/100 |
 | 868 | [matengo/NetWasm.UI](./matengo-netwasm.ui.md) | ⭐ 22 | — | 45/100 |
-| 869 | [zortax/zgui](./zortax-zgui.md) | ⭐ — | — | 45/100 |
+| 869 | [zortax/zgui](./zortax-zgui.md) | ⭐ 276 | — | 45/100 |
 | 870 | [Hadil-Ben-Abdallah/gp-grid-playground](./hadil-ben-abdallah-gp-grid-playground.md) | ⭐ 1 | — | 45/100 |
 | 871 | [GioPat/gp-grid](./giopat-gp-grid.md) | ⭐ 134 | — | 45/100 |
 | 872 | [openshiye/binflare](./openshiye-binflare.md) | ⭐ 1 | TypeScript | 45/100 |

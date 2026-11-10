@@ -294,7 +294,7 @@
 | 284 | [ntsd/pomodoro-chad](./ntsd-pomodoro-chad.md) | ⭐ — | Astro | 45/100 |
 | 285 | [dotcmdhq/dotcmd](./dotcmdhq-dotcmd.md) | ⭐ 4 | — | 45/100 |
 | 286 | [cssllcio/typeclip](./cssllcio-typeclip.md) | ⭐ 2 | — | 45/100 |
-| 287 | [xvertile/SwiftPaste](./xvertile-swiftpaste.md) | ⭐ — | — | 45/100 |
+| 287 | [xvertile/SwiftPaste](./xvertile-swiftpaste.md) | ⭐ 5 | — | 45/100 |
 | 288 | [Deepender25/Edge-Drop](./deepender25-edge-drop.md) | ⭐ 781 | — | 45/100 |
 | 289 | [slaveofcode/goodwebtools](./slaveofcode-goodwebtools.md) | ⭐ 12 | — | 45/100 |
 | 290 | [HexCodeYT/PlainLink](./hexcodeyt-plainlink.md) | ⭐ 7 | — | 45/100 |
@@ -312,14 +312,14 @@
 | 302 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 303 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 304 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
-| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 305 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
 | 307 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 308 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 309 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |
 | 310 | [yasinozmeen/smartpause](./yasinozmeen-smartpause.md) | ⭐ 8 | HTML | 42/100 |
 | 311 | [dullage/flatnotes](./dullage-flatnotes.md) | ⭐ 3.3k | — | 42/100 |
-| 312 | [y-times-y/y](./y-times-y-y.md) | ⭐ — | — | 42/100 |
+| 312 | [y-times-y/y](./y-times-y-y.md) | ⭐ 93 | — | 42/100 |
 | 313 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 951 | Rust | 42/100 |
 | 314 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
 | 315 | [code-Baruch/noleon-releases](./code-baruch-noleon-releases.md) | ⭐ — | — | 41/100 |
@@ -329,7 +329,7 @@
 | 319 | [stronxyo/quarter](./stronxyo-quarter.md) | ⭐ 5 | — | 41/100 |
 | 320 | [andrewarrow/ruie](./andrewarrow-ruie.md) | ⭐ 1 | — | 41/100 |
 | 321 | [MarcelNazare/Reeve](./marcelnazare-reeve.md) | ⭐ 5 | — | 41/100 |
-| 322 | [xdagiz/xcalidraw](./xdagiz-xcalidraw.md) | ⭐ — | — | 41/100 |
+| 322 | [xdagiz/xcalidraw](./xdagiz-xcalidraw.md) | ⭐ 14 | — | 41/100 |
 | 323 | [Amanbig/dockit](./amanbig-dockit.md) | ⭐ — | — | 41/100 |
 | 324 | [seacen/meetcap](./seacen-meetcap.md) | ⭐ 304 | — | 41/100 |
 | 325 | [Mancasvel/FlowSight.AI](./mancasvel-flowsight.ai.md) | ⭐ 1 | Rust | 41/100 |
@@ -346,8 +346,8 @@
 | 336 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 337 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 338 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 339 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
-| 340 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 339 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 340 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
 | 341 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 342 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.7k | — | 38/100 |
 | 343 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

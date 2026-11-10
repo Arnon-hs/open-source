@@ -185,7 +185,7 @@
 | 175 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ 120 | — | 38/100 |
 | 176 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ 737 | — | 38/100 |
 | 177 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ 13.2k | — | 38/100 |
-| 178 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ — | — | 38/100 |
+| 178 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ 1 | — | 38/100 |
 | 179 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ 115 | — | 38/100 |
 | 180 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
 | 181 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ 2 | — | 38/100 |

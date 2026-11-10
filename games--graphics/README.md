@@ -341,7 +341,7 @@
 | 331 | [oriaj-nocrala/rust_so_kernel](./oriaj-nocrala-rust-so-kernel.md) | ⭐ — | — | 41/100 |
 | 332 | [FlowComputeClient/flowcompute](./flowcomputeclient-flowcompute.md) | ⭐ 10 | — | 41/100 |
 | 333 | [enkiruntime/enki](./enkiruntime-enki.md) | ⭐ 15 | — | 41/100 |
-| 334 | [xanpavle/rocmfix](./xanpavle-rocmfix.md) | ⭐ — | — | 41/100 |
+| 334 | [xanpavle/rocmfix](./xanpavle-rocmfix.md) | ⭐ 17 | — | 41/100 |
 | 335 | [rccmb/oracle](./rccmb-oracle.md) | ⭐ 9 | — | 41/100 |
 | 336 | [aethelisdev/aeon-engine](./aethelisdev-aeon-engine.md) | ⭐ 25 | — | 41/100 |
 | 337 | [asallay/godot-llm](./asallay-godot-llm.md) | ⭐ 45 | — | 41/100 |

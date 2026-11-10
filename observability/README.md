@@ -216,7 +216,7 @@
 | 206 | [Sjoerd305/tlswatch](./sjoerd305-tlswatch.md) | ⭐ 3 | — | 49/100 |
 | 207 | [sonic0002/eavesong](./sonic0002-eavesong.md) | ⭐ 6 | — | 49/100 |
 | 208 | [PrefilerLabs/reliamesh](./prefilerlabs-reliamesh.md) | ⭐ 5 | — | 49/100 |
-| 209 | [yuyalapis/agentic-telemetry](./yuyalapis-agentic-telemetry.md) | ⭐ — | — | 49/100 |
+| 209 | [yuyalapis/agentic-telemetry](./yuyalapis-agentic-telemetry.md) | ⭐ 2 | — | 49/100 |
 | 210 | [GG95-lab/FreshThread-app](./gg95-lab-freshthread-app.md) | ⭐ 1 | — | 49/100 |
 | 211 | [lucafossen/who-gpu](./lucafossen-who-gpu.md) | ⭐ 1 | — | 49/100 |
 | 212 | [eliau2005/statixagent](./eliau2005-statixagent.md) | ⭐ 5 | — | 49/100 |
@@ -254,7 +254,7 @@
 | 244 | [grafana/agento11y](./grafana-agento11y.md) | ⭐ — | — | 45/100 |
 | 245 | [Official-Novadesk/novadesk](./official-novadesk-novadesk.md) | ⭐ 6 | C++ | 45/100 |
 | 246 | [el10savio/vulnemetry](./el10savio-vulnemetry.md) | ⭐ — | — | 45/100 |
-| 247 | [yuuki/lustre-ebpf-exporter](./yuuki-lustre-ebpf-exporter.md) | ⭐ — | — | 45/100 |
+| 247 | [yuuki/lustre-ebpf-exporter](./yuuki-lustre-ebpf-exporter.md) | ⭐ 6 | — | 45/100 |
 | 248 | [grafana/jsonnet-libs](./grafana-jsonnet-libs.md) | ⭐ 733 | Jsonnet | 45/100 |
 | 249 | [grloper/Wraith](./grloper-wraith.md) | ⭐ — | Rust | 45/100 |
 | 250 | [oliexdev/openScale](./oliexdev-openscale.md) | ⭐ 2.7k | Kotlin | 44/100 |
@@ -300,7 +300,7 @@
 | 290 | [ImmersiveFusion/snowglobe](./immersivefusion-snowglobe.md) | ⭐ 20 | — | 41/100 |
 | 291 | [Jeffy123-zhu/logspecter](./jeffy123-zhu-logspecter.md) | ⭐ 5 | — | 41/100 |
 | 292 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ 7 | — | 41/100 |
-| 293 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ — | — | 41/100 |
+| 293 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ 1 | — | 41/100 |
 | 294 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 449 | Rust | 41/100 |
 | 295 | [Claven07/dsh-plugin-agent-insights](./claven07-dsh-plugin-agent-insights.md) | ⭐ — | TypeScript | 41/100 |
 | 296 | [Pager-dot/AeroVision](./pager-dot-aerovision.md) | ⭐ — | HTML | 40/100 |
@@ -313,7 +313,7 @@
 | 303 | [arywk40-hue/citetutor](./arywk40-hue-citetutor.md) | ⭐ — | Python | 39/100 |
 | 304 | [Rishikesh-glitch/Cloakwall-v0.1](./rishikesh-glitch-cloakwall-v0.1.md) | ⭐ 1 | — | 38/100 |
 | 305 | [llm-measurement/otelcol-genai-sketches](./llm-measurement-otelcol-genai-sketches.md) | ⭐ 5 | — | 38/100 |
-| 306 | [ykjit/yk](./ykjit-yk.md) | ⭐ — | — | 38/100 |
+| 306 | [ykjit/yk](./ykjit-yk.md) | ⭐ 95 | — | 38/100 |
 | 307 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ 1 | — | 38/100 |
 | 308 | [superwired-labs/Pulp](./superwired-labs-pulp.md) | ⭐ 7 | — | 38/100 |
 | 309 | [Rehanrana11/evidence-verify](./rehanrana11-evidence-verify.md) | ⭐ — | — | 38/100 |

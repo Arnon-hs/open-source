@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**10 projects** in this category.
+**11 projects** in this category.
 
 ## Projects
 
@@ -15,9 +15,10 @@
 | 5 | [fastly/Viceroy](./fastly-viceroy.md) | ⭐ 178 | Rust | 54/100 |
 | 6 | [orbivort/scrumooth](./orbivort-scrumooth.md) | ⭐ 1 | TypeScript | 53/100 |
 | 7 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
-| 8 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ — | — | 41/100 |
-| 9 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ — | — | 41/100 |
-| 10 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ — | — | 41/100 |
+| 8 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ — | — | 41/100 |
+| 9 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ — | — | 41/100 |
+| 10 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ — | — | 41/100 |
+| 11 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ — | — | 41/100 |
 
 ---
 

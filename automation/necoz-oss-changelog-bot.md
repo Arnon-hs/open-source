@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · AI/ML · Backend · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ necoz-oss/changelog-bot: necoz-oss/changelog-bot helps remove repetitive manual 
 
 ### Русский
 
-necoz-oss/changelog-bot: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+necoz-oss/changelog-bot: open-source проект в категориях Automation, AI/ML, Backend, DevTools, DevOps/Infra. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,18 +65,18 @@ necoz-oss/changelog-bot：necoz-oss/changelog-bot helps remove repetitive manual
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 60/100 |
-| integration | 78/100 |
-| production | 66/100 |
-| outlook | 73/100 |
-| adoption | 31/100 |
-| categoryMatchCount | 100/100 |
-| stars | 33/100 |
 | forks | 28/100 |
-| recency | 80/100 |
+| stars | 33/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 60/100 |
+| recency | 80/100 |
+| adoption | 31/100 |
+| production | 66/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

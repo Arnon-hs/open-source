@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation · MCP · Security
+MCP · AI/ML · Frontend · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-ESeungJun/droidlens: ESeungJun/droidlens helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ESeungJun/droidlens: ESeungJun/droidlens helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-ESeungJun/droidlens: open-source проект в категориях Automation, MCP, Security. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ESeungJun/droidlens: open-source проект в категориях MCP, AI/ML, Frontend, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-ESeungJun/droidlens：ESeungJun/droidlens helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ESeungJun/droidlens：ESeungJun/droidlens helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** ESeungJun/droidlens helps remove repetitive manual operations from a workflow.
+**Value:** ESeungJun/droidlens helps connect AI assistants to real tools and data through a standard protocol.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -64,19 +64,19 @@ ESeungJun/droidlens：ESeungJun/droidlens helps remove repetitive manual operati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 63/100 |
-| adoption | 12/100 |
-| categoryMatchCount | 300/100 |
-| stars | 17/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 17/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 51/100 |
+| recency | 80/100 |
+| adoption | 12/100 |
+| production | 60/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-03 · [View on GitHub](https://github.com/ESeungJun/droidlens) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-03 · [View on GitHub](https://github.com/ESeungJun/droidlens) · [← Back to Mcp](./README.md)</sub>
