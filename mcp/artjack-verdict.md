@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation
+MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-ArtJack/verdict: ArtJack/verdict helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+ArtJack/verdict: ArtJack/verdict helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-ArtJack/verdict: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+ArtJack/verdict: open-source проект в категориях MCP, AI/ML, Backend, DevTools. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-ArtJack/verdict：ArtJack/verdict helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+ArtJack/verdict：ArtJack/verdict helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** ArtJack/verdict helps remove repetitive manual operations from a workflow.
+**Value:** ArtJack/verdict helps connect AI assistants to real tools and data through a standard protocol.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -64,19 +64,19 @@ ArtJack/verdict：ArtJack/verdict helps remove repetitive manual operations from
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 38/100 |
-| integration | 78/100 |
-| production | 48/100 |
-| outlook | 47/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 38/100 |
+| recency | 40/100 |
+| adoption | 5/100 |
+| production | 48/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-09-06 · [View on GitHub](https://github.com/ArtJack/verdict) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-09-06 · [View on GitHub](https://github.com/ArtJack/verdict) · [← Back to Mcp](./README.md)</sub>

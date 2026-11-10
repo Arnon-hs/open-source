@@ -36,7 +36,7 @@
 | 26 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 233 | Rust | 49/100 |
 | 27 | [AloisSeckar/demos-java](./aloisseckar-demos-java.md) | ⭐ 25 | Java | 48/100 |
 | 28 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 384 | Rust | 45/100 |
-| 29 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 321 | Mojo | 44/100 |
+| 29 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 439 | Mojo | 44/100 |
 | 30 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 156 | Rust | 44/100 |
 | 31 | [Jay-Naik2526/or-studio](./jay-naik2526-or-studio.md) | ⭐ — | TypeScript | 44/100 |
 | 32 | [yakshjethva/jvm-inside-out](./yakshjethva-jvm-inside-out.md) | ⭐ 2 | TypeScript | 44/100 |

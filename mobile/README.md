@@ -59,7 +59,7 @@
 | 49 | [awesome-android-root/awesome-android-root](./awesome-android-root-awesome-android-root.md) | ⭐ 5.7k | Python | 63/100 |
 | 50 | [google/j2objc](./google-j2objc.md) | ⭐ 6k | Java | 63/100 |
 | 51 | [damontecres/Wholphin](./damontecres-wholphin.md) | ⭐ 3.3k | Kotlin | 63/100 |
-| 52 | [fluxerapp/flutter_client](./fluxerapp-flutter-client.md) | ⭐ 305 | Dart | 63/100 |
+| 52 | [fluxerapp/flutter_client](./fluxerapp-flutter-client.md) | ⭐ 488 | Dart | 63/100 |
 | 53 | [Predidit/Kazumi](./predidit-kazumi.md) | ⭐ 41.9k | Dart | 63/100 |
 | 54 | [localsend/localsend](./localsend-localsend.md) | ⭐ 98.1k | Dart | 63/100 |
 | 55 | [isontheline/pro.webssh.net](./isontheline-pro.webssh.net.md) | ⭐ 686 | JavaScript | 63/100 |
@@ -113,7 +113,7 @@
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 919 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13.1k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.7k | Kotlin | 61/100 |
-| 106 | [Oppzippy/OpenSCQ30](./oppzippy-openscq30.md) | ⭐ 317 | Rust | 61/100 |
+| 106 | [Oppzippy/OpenSCQ30](./oppzippy-openscq30.md) | ⭐ 556 | Rust | 61/100 |
 | 107 | [autonomousapps/dependency-analysis-gradle-plugin](./autonomousapps-dependency-analysis-gradle-plugin.md) | ⭐ 2.2k | Kotlin | 61/100 |
 | 108 | [organicmaps/organicmaps](./organicmaps-organicmaps.md) | ⭐ 15.9k | C++ | 61/100 |
 | 109 | [software-mansion/react-native-svg](./software-mansion-react-native-svg.md) | ⭐ 8k | TypeScript | 60/100 |
@@ -163,8 +163,8 @@
 | 153 | [jiangtian616/JHenTai](./jiangtian616-jhentai.md) | ⭐ 5.8k | Dart | 59/100 |
 | 154 | [komikku-app/komikku](./komikku-app-komikku.md) | ⭐ 5k | Kotlin | 59/100 |
 | 155 | [florisboard/florisboard](./florisboard-florisboard.md) | ⭐ 8.8k | Kotlin | 59/100 |
-| 156 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.9k | Kotlin | 59/100 |
-| 157 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 156 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 157 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.9k | Kotlin | 59/100 |
 | 158 | [bonigarcia/mastering-junit5](./bonigarcia-mastering-junit5.md) | ⭐ 429 | Java | 59/100 |
 | 159 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.8k | Java | 59/100 |
 | 160 | [patrykandpatrick/vico](./patrykandpatrick-vico.md) | ⭐ 3.2k | Kotlin | 59/100 |
@@ -175,7 +175,7 @@
 | 165 | [ExTV/Podroid](./extv-podroid.md) | ⭐ 3.8k | Kotlin | 58/100 |
 | 166 | [WinNative-Emu/WinNative](./winnative-emu-winnative.md) | ⭐ 751 | Kotlin | 58/100 |
 | 167 | [Arcticons-Team/Arcticons](./arcticons-team-arcticons.md) | ⭐ 1.6k | Java | 58/100 |
-| 168 | [maazm7d/TermuxHub](./maazm7d-termuxhub.md) | ⭐ 306 | Kotlin | 58/100 |
+| 168 | [maazm7d/TermuxHub](./maazm7d-termuxhub.md) | ⭐ 392 | Kotlin | 58/100 |
 | 169 | [termux/termux-x11](./termux-termux-x11.md) | ⭐ 5.1k | C | 58/100 |
 | 170 | [luben/zstd-jni](./luben-zstd-jni.md) | ⭐ 1.1k | C | 58/100 |
 | 171 | [migueldeicaza/SwiftTerm](./migueldeicaza-swiftterm.md) | ⭐ 1.8k | Swift | 58/100 |
@@ -191,7 +191,7 @@
 | 181 | [callstackincubator/react-native-node-api](./callstackincubator-react-native-node-api.md) | ⭐ 186 | TypeScript | 58/100 |
 | 182 | [LukeZGD/Legacy-iOS-Kit](./lukezgd-legacy-ios-kit.md) | ⭐ 3.2k | Shell | 58/100 |
 | 183 | [flutter/agent-plugins](./flutter-agent-plugins.md) | ⭐ 3.2k | Dart | 58/100 |
-| 184 | [roshancodespace/ShonenX](./roshancodespace-shonenx.md) | ⭐ 306 | Dart | 58/100 |
+| 184 | [roshancodespace/ShonenX](./roshancodespace-shonenx.md) | ⭐ 358 | Dart | 58/100 |
 | 185 | [kylecorry31/Trail-Sense](./kylecorry31-trail-sense.md) | ⭐ 3k | Kotlin | 58/100 |
 | 186 | [stasel/WebRTC](./stasel-webrtc.md) | ⭐ 629 | Shell | 58/100 |
 | 187 | [appium/appium-uiautomator2-driver](./appium-appium-uiautomator2-driver.md) | ⭐ 896 | TypeScript | 58/100 |
@@ -238,7 +238,7 @@
 | 228 | [nextcloud/ios](./nextcloud-ios.md) | ⭐ 2.5k | Swift | 57/100 |
 | 229 | [Moonfin-Client/Moonfin-Core](./moonfin-client-moonfin-core.md) | ⭐ 987 | Dart | 57/100 |
 | 230 | [shiaho777/web-to-app](./shiaho777-web-to-app.md) | ⭐ 7.2k | Kotlin | 57/100 |
-| 231 | [cvs-health/ios-swiftui-accessibility-techniques](./cvs-health-ios-swiftui-accessibility-techniques.md) | ⭐ 312 | Swift | 57/100 |
+| 231 | [cvs-health/ios-swiftui-accessibility-techniques](./cvs-health-ios-swiftui-accessibility-techniques.md) | ⭐ 388 | Swift | 57/100 |
 | 232 | [DicioTeam/dicio-android](./dicioteam-dicio-android.md) | ⭐ 1.5k | Kotlin | 57/100 |
 | 233 | [firebase/flutterfire](./firebase-flutterfire.md) | ⭐ 9.3k | Dart | 57/100 |
 | 234 | [jellyfin/jellyfin-androidtv](./jellyfin-jellyfin-androidtv.md) | ⭐ 4.7k | Kotlin | 57/100 |
@@ -340,7 +340,7 @@
 | 330 | [dkrivoruchko/ScreenStream](./dkrivoruchko-screenstream.md) | ⭐ 2.6k | Kotlin | 54/100 |
 | 331 | [mi-g-alex/Telegram-Monet](./mi-g-alex-telegram-monet.md) | ⭐ 908 | Kotlin | 54/100 |
 | 332 | [keepandroidopen/keepandroidopen.github.io](./keepandroidopen-keepandroidopen.github.io.md) | ⭐ 484 | HTML | 54/100 |
-| 333 | [AlirezaParsi/COPG](./alirezaparsi-copg.md) | ⭐ 313 | C++ | 54/100 |
+| 333 | [AlirezaParsi/COPG](./alirezaparsi-copg.md) | ⭐ 432 | C++ | 54/100 |
 | 334 | [serverpod/serverpod](./serverpod-serverpod.md) | ⭐ 3.3k | Dart | 54/100 |
 | 335 | [sweetpad-dev/sweetpad](./sweetpad-dev-sweetpad.md) | ⭐ 1.9k | Rust | 54/100 |
 | 336 | [urikdev/Urik](./urikdev-urik.md) | ⭐ 414 | Kotlin | 54/100 |
@@ -366,7 +366,7 @@
 | 356 | [JoshAtticus/Compressor](./joshatticus-compressor.md) | ⭐ 798 | Kotlin | 53/100 |
 | 357 | [ruddarr/app](./ruddarr-app.md) | ⭐ 697 | Swift | 53/100 |
 | 358 | [termux-user-repository/tur](./termux-user-repository-tur.md) | ⭐ 996 | Shell | 53/100 |
-| 359 | [KRTirtho/flemozi](./krtirtho-flemozi.md) | ⭐ 314 | Rust | 53/100 |
+| 359 | [KRTirtho/flemozi](./krtirtho-flemozi.md) | ⭐ 329 | Rust | 53/100 |
 | 360 | [kitsumed/ShizuCallRecorder](./kitsumed-shizucallrecorder.md) | ⭐ 2.1k | Kotlin | 53/100 |
 | 361 | [prof18/feed-flow](./prof18-feed-flow.md) | ⭐ 1.3k | Kotlin | 53/100 |
 | 362 | [andreknieriem/headunit-revived](./andreknieriem-headunit-revived.md) | ⭐ 925 | C | 53/100 |
@@ -411,7 +411,7 @@
 | 401 | [open-ani/mediamp](./open-ani-mediamp.md) | ⭐ 150 | Kotlin | 51/100 |
 | 402 | [jegly/jegly](./jegly-jegly.md) | ⭐ — | — | 51/100 |
 | 403 | [equeim/tremotesf-android](./equeim-tremotesf-android.md) | ⭐ 325 | Kotlin | 51/100 |
-| 404 | [confeden/Nova-Android](./confeden-nova-android.md) | ⭐ 298 | Go | 51/100 |
+| 404 | [confeden/Nova-Android](./confeden-nova-android.md) | ⭐ 401 | Go | 51/100 |
 | 405 | [delvinru/apk-info](./delvinru-apk-info.md) | ⭐ 134 | Rust | 51/100 |
 | 406 | [jkcoxson/idevice_pair](./jkcoxson-idevice-pair.md) | ⭐ 980 | Rust | 51/100 |
 | 407 | [cfw-guide/ios.cfw.guide](./cfw-guide-ios.cfw.guide.md) | ⭐ 780 | Vue | 51/100 |
@@ -419,7 +419,7 @@
 | 409 | [abrensch/brouter](./abrensch-brouter.md) | ⭐ 746 | Java | 51/100 |
 | 410 | [estkme-group/openeuicc](./estkme-group-openeuicc.md) | ⭐ 1.1k | Kotlin | 51/100 |
 | 411 | [eerimoq/moblin](./eerimoq-moblin.md) | ⭐ 780 | Swift | 51/100 |
-| 412 | [1812z/HyperIsland](./1812z-hyperisland.md) | ⭐ 318 | Dart | 51/100 |
+| 412 | [1812z/HyperIsland](./1812z-hyperisland.md) | ⭐ 640 | Dart | 51/100 |
 | 413 | [pcqpcq/open-source-android-apps](./pcqpcq-open-source-android-apps.md) | ⭐ 10.6k | Python | 51/100 |
 | 414 | [fernand0/another-note-taking-app](./fernand0-another-note-taking-app.md) | ⭐ — | Python | 51/100 |
 | 415 | [fernand0/err-notes](./fernand0-err-notes.md) | ⭐ — | Python | 51/100 |
@@ -442,14 +442,14 @@
 | 432 | [Dweep4269/sideraven](./dweep4269-sideraven.md) | ⭐ 151 | Kotlin | 49/100 |
 | 433 | [voicute/onnx-wakeword](./voicute-onnx-wakeword.md) | ⭐ 78 | C | 49/100 |
 | 434 | [latipun7/dotfiles](./latipun7-dotfiles.md) | ⭐ 40 | Shell | 49/100 |
-| 435 | [bjzhou/PhotonCamera](./bjzhou-photoncamera.md) | ⭐ 312 | Kotlin | 49/100 |
+| 435 | [bjzhou/PhotonCamera](./bjzhou-photoncamera.md) | ⭐ 642 | Kotlin | 49/100 |
 | 436 | [Kindness-Kismet/only_player](./kindness-kismet-only-player.md) | ⭐ 488 | Kotlin | 49/100 |
 | 437 | [frs0n/GestaltEdit](./frs0n-gestaltedit.md) | ⭐ 901 | Swift | 49/100 |
-| 438 | [ModinMobileSTS/SlayTheAmethystModded](./modinmobilests-slaytheamethystmodded.md) | ⭐ 314 | Kotlin | 49/100 |
+| 438 | [ModinMobileSTS/SlayTheAmethystModded](./modinmobilests-slaytheamethystmodded.md) | ⭐ 464 | Kotlin | 49/100 |
 | 439 | [sfsakhawat999/mpvRex](./sfsakhawat999-mpvrex.md) | ⭐ 369 | Kotlin | 49/100 |
-| 440 | [zotero/zotero-ios](./zotero-zotero-ios.md) | ⭐ 308 | Swift | 49/100 |
-| 441 | [mytv-android/China-TV-Live-M3U8](./mytv-android-china-tv-live-m3u8.md) | ⭐ 301 | — | 49/100 |
-| 442 | [shaoting0730/Flutter_learn_demo](./shaoting0730-flutter-learn-demo.md) | ⭐ 313 | Dart | 49/100 |
+| 440 | [zotero/zotero-ios](./zotero-zotero-ios.md) | ⭐ 316 | Swift | 49/100 |
+| 441 | [mytv-android/China-TV-Live-M3U8](./mytv-android-china-tv-live-m3u8.md) | ⭐ 343 | — | 49/100 |
+| 442 | [shaoting0730/Flutter_learn_demo](./shaoting0730-flutter-learn-demo.md) | ⭐ 314 | Dart | 49/100 |
 | 443 | [Haoest/SudokuResolv](./haoest-sudokuresolv.md) | ⭐ 324 | Swift | 49/100 |
 | 444 | [pure-music/PureMusic](./pure-music-puremusic.md) | ⭐ 608 | Kotlin | 49/100 |
 | 445 | [Kototoro-app/Kototoro](./kototoro-app-kototoro.md) | ⭐ 679 | Kotlin | 49/100 |
@@ -484,7 +484,7 @@
 | 474 | [UmeshRaj7/plumb](./umeshraj7-plumb.md) | ⭐ — | Dart | 46/100 |
 | 475 | [byhowiecreations/FileApex](./byhowiecreations-fileapex.md) | ⭐ 66 | Kotlin | 46/100 |
 | 476 | [switchboard-sdk/openai-realtime-toolkit](./switchboard-sdk-openai-realtime-toolkit.md) | ⭐ — | — | 46/100 |
-| 477 | [f-droid/fdroiddata](./f-droid-fdroiddata.md) | ⭐ 320 | Python | 46/100 |
+| 477 | [f-droid/fdroiddata](./f-droid-fdroiddata.md) | ⭐ 361 | Python | 46/100 |
 | 478 | [jinleili/learn-wgpu-zh](./jinleili-learn-wgpu-zh.md) | ⭐ 512 | Rust | 46/100 |
 | 479 | [Automattic/pocket-casts-android](./automattic-pocket-casts-android.md) | ⭐ 2.9k | Kotlin | 46/100 |
 | 480 | [NativePHP/mobile-air](./nativephp-mobile-air.md) | ⭐ 1.2k | C | 46/100 |
@@ -521,7 +521,7 @@
 | 511 | [Fluxionics/InteeBuild](./fluxionics-inteebuild.md) | ⭐ — | JavaScript | 44/100 |
 | 512 | [7dollarbooks/lingo](./7dollarbooks-lingo.md) | ⭐ — | — | 44/100 |
 | 513 | [googlefonts/googlesans-flex](./googlefonts-googlesans-flex.md) | ⭐ — | — | 44/100 |
-| 514 | [llfbandit/record](./llfbandit-record.md) | ⭐ 312 | Kotlin | 44/100 |
+| 514 | [llfbandit/record](./llfbandit-record.md) | ⭐ 322 | Kotlin | 44/100 |
 | 515 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 519 | Java | 44/100 |
 | 516 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 548 | Kotlin | 44/100 |
 | 517 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 5 | Kotlin | 43/100 |
@@ -532,7 +532,7 @@
 | 522 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 7 | Kotlin | 43/100 |
 | 523 | [minh-ton/reynard-browser](./minh-ton-reynard-browser.md) | ⭐ 1.9k | Swift | 43/100 |
 | 524 | [woocommerce/woocommerce-ios](./woocommerce-woocommerce-ios.md) | ⭐ 358 | Swift | 43/100 |
-| 525 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 311 | Kotlin | 43/100 |
+| 525 | [woocommerce/woocommerce-android](./woocommerce-woocommerce-android.md) | ⭐ 320 | Kotlin | 43/100 |
 | 526 | [macadmins/sofa](./macadmins-sofa.md) | ⭐ 466 | Vue | 43/100 |
 | 527 | [appsfolder/livebridge](./appsfolder-livebridge.md) | ⭐ 1.2k | Dart | 43/100 |
 | 528 | [chenxiaolong/MSD](./chenxiaolong-msd.md) | ⭐ 227 | Rust | 43/100 |
@@ -635,7 +635,7 @@
 | 625 | [chantleyw/NotifSilencer](./chantleyw-notifsilencer.md) | ⭐ 2 | Kotlin | 40/100 |
 | 626 | [MxIris-Reverse-Engineering/RuntimeViewer](./mxiris-reverse-engineering-runtimeviewer.md) | ⭐ 496 | Swift | 40/100 |
 | 627 | [emavgl/oinkoin](./emavgl-oinkoin.md) | ⭐ 486 | Dart | 40/100 |
-| 628 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 304 | Dart | 40/100 |
+| 628 | [bdero/flutter_scene](./bdero-flutter-scene.md) | ⭐ 1k | Dart | 40/100 |
 | 629 | [jkcoxson/idevice](./jkcoxson-idevice.md) | ⭐ 573 | Rust | 40/100 |
 | 630 | [bitcoindevkit/bdk-ffi](./bitcoindevkit-bdk-ffi.md) | ⭐ 124 | Rust | 40/100 |
 | 631 | [munimtechnologies/android-translation-crash-census](./munimtechnologies-android-translation-crash-census.md) | ⭐ — | Python | 39/100 |

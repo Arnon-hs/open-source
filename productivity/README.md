@@ -25,7 +25,7 @@
 | 15 | [gdt050579/AppCUI-rs](./gdt050579-appcui-rs.md) | ⭐ 407 | Rust | 73/100 |
 | 16 | [Gaoyifei1011/GetStoreApp](./gaoyifei1011-getstoreapp.md) | ⭐ 1.5k | C# | 72/100 |
 | 17 | [EcoPasteHub/EcoPaste](./ecopastehub-ecopaste.md) | ⭐ 7.6k | Rust | 72/100 |
-| 18 | [openbootdotdev/openboot](./openbootdotdev-openboot.md) | ⭐ 260 | Go | 72/100 |
+| 18 | [openbootdotdev/openboot](./openbootdotdev-openboot.md) | ⭐ 278 | Go | 72/100 |
 | 19 | [supreme-gg-gg/instagram-cli](./supreme-gg-gg-instagram-cli.md) | ⭐ 2.2k | TypeScript | 72/100 |
 | 20 | [jrnl-org/jrnl](./jrnl-org-jrnl.md) | ⭐ 7.4k | Python | 72/100 |
 | 21 | [Wox-launcher/Wox](./wox-launcher-wox.md) | ⭐ 27.6k | Go | 71/100 |
@@ -38,7 +38,7 @@
 | 28 | [streetwriters/notesnook](./streetwriters-notesnook.md) | ⭐ 14.9k | TypeScript | 70/100 |
 | 29 | [Auto-Explore/GitComet](./auto-explore-gitcomet.md) | ⭐ 1k | Rust | 70/100 |
 | 30 | [files-community/Files](./files-community-files.md) | ⭐ 46.6k | C# | 70/100 |
-| 31 | [0PandaDEV/Ziit](./0pandadev-ziit.md) | ⭐ 249 | TypeScript | 69/100 |
+| 31 | [0PandaDEV/Ziit](./0pandadev-ziit.md) | ⭐ 258 | TypeScript | 69/100 |
 | 32 | [BYTEDz/PCLink](./bytedz-pclink.md) | ⭐ 947 | Python | 69/100 |
 | 33 | [jaywcjlove/awesome-mac](./jaywcjlove-awesome-mac.md) | ⭐ 118.1k | Swift | 69/100 |
 | 34 | [kriuchkov/tock](./kriuchkov-tock.md) | ⭐ 505 | Go | 69/100 |
@@ -75,20 +75,20 @@
 | 65 | [r3bl-org/r3bl-open-core](./r3bl-org-r3bl-open-core.md) | ⭐ 486 | Rust | 66/100 |
 | 66 | [Lissy93/dashy](./lissy93-dashy.md) | ⭐ 27k | Vue | 66/100 |
 | 67 | [sxyazi/yazi](./sxyazi-yazi.md) | ⭐ 43.3k | Rust | 66/100 |
-| 68 | [geek-fun/sqlkit](./geek-fun-sqlkit.md) | ⭐ 266 | Rust | 65/100 |
-| 69 | [ctrlaltvikas/Awesome-Bash-Aliases](./ctrlaltvikas-awesome-bash-aliases.md) | ⭐ 246 | — | 65/100 |
+| 68 | [geek-fun/sqlkit](./geek-fun-sqlkit.md) | ⭐ 304 | Rust | 65/100 |
+| 69 | [ctrlaltvikas/Awesome-Bash-Aliases](./ctrlaltvikas-awesome-bash-aliases.md) | ⭐ 270 | — | 65/100 |
 | 70 | [ctrlaltvikas/awesome-bash-alias](./ctrlaltvikas-awesome-bash-alias.md) | ⭐ 246 | — | 65/100 |
 | 71 | [Pixeval/Pixeval](./pixeval-pixeval.md) | ⭐ 3.2k | C# | 65/100 |
 | 72 | [replydev/cotp](./replydev-cotp.md) | ⭐ 394 | Rust | 65/100 |
-| 73 | [reekta92/clin-rs](./reekta92-clin-rs.md) | ⭐ 310 | Rust | 65/100 |
-| 74 | [altstackHQ/altstack-data](./altstackhq-altstack-data.md) | ⭐ 314 | Shell | 65/100 |
+| 73 | [reekta92/clin-rs](./reekta92-clin-rs.md) | ⭐ 584 | Rust | 65/100 |
+| 74 | [altstackHQ/altstack-data](./altstackhq-altstack-data.md) | ⭐ 323 | Shell | 65/100 |
 | 75 | [journiv/journiv-app](./journiv-journiv-app.md) | ⭐ 1.3k | JavaScript | 65/100 |
 | 76 | [semantic-release/release-notes-generator](./semantic-release-release-notes-generator.md) | ⭐ 368 | JavaScript | 65/100 |
 | 77 | [wavetermdev/waveterm](./wavetermdev-waveterm.md) | ⭐ 22.7k | Go | 65/100 |
 | 78 | [surajverma/homehub](./surajverma-homehub.md) | ⭐ 1.3k | HTML | 64/100 |
 | 79 | [ranger/ranger](./ranger-ranger.md) | ⭐ 17.5k | Python | 64/100 |
 | 80 | [bgreenwell/xleak](./bgreenwell-xleak.md) | ⭐ 1.5k | Rust | 64/100 |
-| 81 | [XxMinor/mykvm](./xxminor-mykvm.md) | ⭐ 287 | Rust | 64/100 |
+| 81 | [XxMinor/mykvm](./xxminor-mykvm.md) | ⭐ 733 | Rust | 64/100 |
 | 82 | [nextcloud/notes-android](./nextcloud-notes-android.md) | ⭐ 1.1k | Java | 64/100 |
 | 83 | [ViscousPot/GitSync](./viscouspot-gitsync.md) | ⭐ 2.5k | Dart | 63/100 |
 | 84 | [kbrdn1/gwm-cli](./kbrdn1-gwm-cli.md) | ⭐ 102 | Rust | 63/100 |
@@ -105,7 +105,7 @@
 | 95 | [headlesshq/headlessmc](./headlesshq-headlessmc.md) | ⭐ 428 | Java | 62/100 |
 | 96 | [Vortrix5/sifty](./vortrix5-sifty.md) | ⭐ 67 | Python | 62/100 |
 | 97 | [ConnorSweeneyDev/.config](./connorsweeneydev-.config.md) | ⭐ 63 | Lua | 62/100 |
-| 98 | [jemishavasoya/dev-cleaner](./jemishavasoya-dev-cleaner.md) | ⭐ 306 | Shell | 62/100 |
+| 98 | [jemishavasoya/dev-cleaner](./jemishavasoya-dev-cleaner.md) | ⭐ 359 | Shell | 62/100 |
 | 99 | [seun-novodev/android-tv-debloat-toolkit](./seun-novodev-android-tv-debloat-toolkit.md) | ⭐ 813 | Python | 62/100 |
 | 100 | [ospfranco/sol](./ospfranco-sol.md) | ⭐ 3.2k | TypeScript | 62/100 |
 | 101 | [httptoolkit/httptoolkit-desktop](./httptoolkit-httptoolkit-desktop.md) | ⭐ 741 | TypeScript | 62/100 |
@@ -117,7 +117,7 @@
 | 107 | [Taiko2k/Tauon](./taiko2k-tauon.md) | ⭐ 3k | Python | 61/100 |
 | 108 | [Voxelum/x-minecraft-launcher](./voxelum-x-minecraft-launcher.md) | ⭐ 1.7k | TypeScript | 61/100 |
 | 109 | [doraemonkeys/WindSend](./doraemonkeys-windsend.md) | ⭐ 617 | Dart | 61/100 |
-| 110 | [volotat/Anagnorisis](./volotat-anagnorisis.md) | ⭐ 309 | Python | 61/100 |
+| 110 | [volotat/Anagnorisis](./volotat-anagnorisis.md) | ⭐ 358 | Python | 61/100 |
 | 111 | [gethouston/houston](./gethouston-houston.md) | ⭐ 42 | TypeScript | 61/100 |
 | 112 | [rommapp/argosy-launcher](./rommapp-argosy-launcher.md) | ⭐ 712 | Kotlin | 60/100 |
 | 113 | [gioxx/MarvellousSuspender](./gioxx-marvelloussuspender.md) | ⭐ 1.4k | JavaScript | 60/100 |
@@ -199,7 +199,7 @@
 | 189 | [vietanhdev/ThinkUtils](./vietanhdev-thinkutils.md) | ⭐ 103 | Rust | 55/100 |
 | 190 | [FreesmTeam/FreesmLauncher](./freesmteam-freesmlauncher.md) | ⭐ 929 | C++ | 55/100 |
 | 191 | [ghost-him/ZeroLaunch-rs](./ghost-him-zerolaunch-rs.md) | ⭐ 579 | Rust | 55/100 |
-| 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 305 | Rust | 55/100 |
+| 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 360 | Rust | 55/100 |
 | 193 | [modrinth/code](./modrinth-code.md) | ⭐ 2.5k | Rust | 55/100 |
 | 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.6k | Rust | 55/100 |
 | 195 | [openbezal/rhema](./openbezal-rhema.md) | ⭐ 357 | TypeScript | 54/100 |
@@ -224,9 +224,9 @@
 | 214 | [goweiwen/Allium](./goweiwen-allium.md) | ⭐ 395 | Rust | 52/100 |
 | 215 | [Mjoyufull/fsel](./mjoyufull-fsel.md) | ⭐ 485 | Rust | 52/100 |
 | 216 | [Akhouri-Anmol-Kumar/APIC](./akhouri-anmol-kumar-apic.md) | ⭐ 1 | — | 51/100 |
-| 217 | [CCBlueX/LiquidLauncher](./ccbluex-liquidlauncher.md) | ⭐ 284 | Rust | 51/100 |
-| 218 | [veloren/airshipper](./veloren-airshipper.md) | ⭐ 286 | Rust | 51/100 |
-| 219 | [2e3s/awatcher](./2e3s-awatcher.md) | ⭐ 297 | Rust | 51/100 |
+| 217 | [CCBlueX/LiquidLauncher](./ccbluex-liquidlauncher.md) | ⭐ 290 | Rust | 51/100 |
+| 218 | [veloren/airshipper](./veloren-airshipper.md) | ⭐ 290 | Rust | 51/100 |
+| 219 | [2e3s/awatcher](./2e3s-awatcher.md) | ⭐ 319 | Rust | 51/100 |
 | 220 | [MBulli/SmartCommandlineArgs](./mbulli-smartcommandlineargs.md) | ⭐ 106 | C# | 51/100 |
 | 221 | [chmouel/raffi](./chmouel-raffi.md) | ⭐ 106 | Rust | 51/100 |
 | 222 | [H3rmt/hyprshell](./h3rmt-hyprshell.md) | ⭐ 601 | Rust | 51/100 |
@@ -247,12 +247,12 @@
 | 237 | [XTraceAI/xtrace-desktop](./xtraceai-xtrace-desktop.md) | ⭐ — | — | 49/100 |
 | 238 | [harleensahni/MaCcyP](./harleensahni-maccyp.md) | ⭐ — | — | 49/100 |
 | 239 | [andreasserfilippi/clipbridge](./andreasserfilippi-clipbridge.md) | ⭐ — | — | 49/100 |
-| 240 | [MeisApps/pcbu-desktop](./meisapps-pcbu-desktop.md) | ⭐ 319 | C++ | 49/100 |
-| 241 | [pop-os/launcher](./pop-os-launcher.md) | ⭐ 285 | Rust | 49/100 |
+| 240 | [MeisApps/pcbu-desktop](./meisapps-pcbu-desktop.md) | ⭐ 485 | C++ | 49/100 |
+| 241 | [pop-os/launcher](./pop-os-launcher.md) | ⭐ 287 | Rust | 49/100 |
 | 242 | [shadps4-emu/shadps4-qtlauncher](./shadps4-emu-shadps4-qtlauncher.md) | ⭐ 524 | C++ | 49/100 |
 | 243 | [coderGtm/yantra-app-launcher](./codergtm-yantra-app-launcher.md) | ⭐ 123 | Kotlin | 49/100 |
 | 244 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 917 | Java | 49/100 |
-| 245 | [memospot/memospot](./memospot-memospot.md) | ⭐ 291 | Rust | 49/100 |
+| 245 | [memospot/memospot](./memospot-memospot.md) | ⭐ 320 | Rust | 49/100 |
 | 246 | [facebook/flow](./facebook-flow.md) | ⭐ 22.2k | Rust | 49/100 |
 | 247 | [luskaner/ageLANServer](./luskaner-agelanserver.md) | ⭐ 674 | Go | 49/100 |
 | 248 | [timothepoznanski/poznote](./timothepoznanski-poznote.md) | ⭐ 1k | JavaScript | 49/100 |
@@ -266,7 +266,7 @@
 | 256 | [OmniCouncil/OmniCouncil](./omnicouncil-omnicouncil.md) | ⭐ — | — | 48/100 |
 | 257 | [fralsare/fralculator](./fralsare-fralculator.md) | ⭐ — | TypeScript | 48/100 |
 | 258 | [yibie/org-supertag](./yibie-org-supertag.md) | ⭐ 353 | Emacs Lisp | 48/100 |
-| 259 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 256 | Rust | 48/100 |
+| 259 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 265 | Rust | 48/100 |
 | 260 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 1.5k | Shell | 48/100 |
 | 261 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 546 | C++ | 48/100 |
 | 262 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 617 | Rust | 48/100 |
@@ -305,7 +305,7 @@
 | 295 | [tomboy-notes/tomboy-ng](./tomboy-notes-tomboy-ng.md) | ⭐ 452 | Pascal | 45/100 |
 | 296 | [AstrBotDevs/astrbot-launcher](./astrbotdevs-astrbot-launcher.md) | ⭐ 2.7k | Rust | 45/100 |
 | 297 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 823 | Shell | 45/100 |
-| 298 | [nstlaurent/DoomLauncher](./nstlaurent-doomlauncher.md) | ⭐ 306 | C# | 45/100 |
+| 298 | [nstlaurent/DoomLauncher](./nstlaurent-doomlauncher.md) | ⭐ 336 | C# | 45/100 |
 | 299 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 473 | Kotlin | 45/100 |
 | 300 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 623 | QML | 45/100 |
 | 301 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |

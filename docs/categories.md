@@ -6,8 +6,8 @@ Only categories with at least 10 project cards have folders. The complete machin
 
 | Category | Project cards |
 | --- | ---: |
-| [AI/ML](../aiml/README.md) | 5,307 |
-| [Automation](../automation/README.md) | 1,768 |
+| [AI/ML](../aiml/README.md) | 5,306 |
+| [Automation](../automation/README.md) | 1,767 |
 | [Backend](../backend/README.md) | 997 |
 | [Cloud & Storage](../cloud--storage/README.md) | 641 |
 | [Communication](../communication/README.md) | 484 |
@@ -23,15 +23,15 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Frontend](../frontend/README.md) | 940 |
 | [Games & Graphics](../games--graphics/README.md) | 358 |
 | [Knowledge/RAG](../knowledgerag/README.md) | 665 |
-| [Libraries & SDKs](../libraries--sdks/README.md) | 281 |
+| [Libraries & SDKs](../libraries--sdks/README.md) | 282 |
 | [Marketing](../marketing/README.md) | 37 |
-| [MCP](../mcp/README.md) | 3,023 |
+| [MCP](../mcp/README.md) | 3,025 |
 | [Misc](../misc/README.md) | 18,356 |
 | [Mobile](../mobile/README.md) | 709 |
 | [Networking](../networking/README.md) | 680 |
 | [Observability](../observability/README.md) | 330 |
 | [Orchestration](../orchestration/README.md) | 2,504 |
-| [Payments](../payments/README.md) | 402 |
+| [Payments](../payments/README.md) | 403 |
 | [Productivity](../productivity/README.md) | 367 |
 | [Security](../security/README.md) | 517 |
 | [Templates](../templates/README.md) | 498 |

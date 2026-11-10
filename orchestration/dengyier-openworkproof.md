@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 263 |
+| ⭐ **Stars** | 261 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
 | 📈 **Score** | 71/100 |
@@ -53,7 +53,7 @@ dengyier/OpenWorkProof：dengyier/OpenWorkProof helps turn isolated prompts and 
 
 **Quality signals**
 
-- 263 GitHub stars
+- 261 GitHub stars
 - updated 2026-11-09
 - primary language: Python
 - 19 topics
@@ -71,7 +71,7 @@ dengyier/OpenWorkProof：dengyier/OpenWorkProof helps turn isolated prompts and 
 | outlook | 76/100 |
 | adoption | 37/100 |
 | categoryMatchCount | 400/100 |
-| stars | 52/100 |
+| stars | 51/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |

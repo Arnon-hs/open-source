@@ -13,7 +13,7 @@
 | 3 | [louislam/uptime-kuma](./louislam-uptime-kuma.md) | ⭐ 90.5k | JavaScript | 80/100 |
 | 4 | [influxdata/telegraf](./influxdata-telegraf.md) | ⭐ 17.9k | Go | 76/100 |
 | 5 | [highlight/highlight](./highlight-highlight.md) | ⭐ 9.4k | TypeScript | 76/100 |
-| 6 | [green-coding-solutions/green-metrics-tool](./green-coding-solutions-green-metrics-tool.md) | ⭐ 247 | Python | 76/100 |
+| 6 | [green-coding-solutions/green-metrics-tool](./green-coding-solutions-green-metrics-tool.md) | ⭐ 259 | Python | 76/100 |
 | 7 | [enix/x509-certificate-exporter](./enix-x509-certificate-exporter.md) | ⭐ 965 | Go | 76/100 |
 | 8 | [nezhahq/nezha](./nezhahq-nezha.md) | ⭐ 10.4k | Go | 75/100 |
 | 9 | [CodesWhat/drydock](./codeswhat-drydock.md) | ⭐ 203 | TypeScript | 75/100 |
@@ -105,14 +105,14 @@
 | 95 | [daboss2003/mooring](./daboss2003-mooring.md) | ⭐ 2 | Go | 61/100 |
 | 96 | [apache/skywalking-java](./apache-skywalking-java.md) | ⭐ 927 | Java | 61/100 |
 | 97 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 479 | Go | 61/100 |
-| 98 | [grigio/network-monitor](./grigio-network-monitor.md) | ⭐ 284 | Rust | 61/100 |
+| 98 | [grigio/network-monitor](./grigio-network-monitor.md) | ⭐ 324 | Rust | 61/100 |
 | 99 | [DataDog/orchestrion](./datadog-orchestrion.md) | ⭐ 625 | Go | 61/100 |
 | 100 | [prometheus-community/windows_exporter](./prometheus-community-windows-exporter.md) | ⭐ 3.7k | Go | 61/100 |
 | 101 | [grafana/docker-otel-lgtm](./grafana-docker-otel-lgtm.md) | ⭐ 2.1k | Shell | 61/100 |
 | 102 | [parca-dev/parca-agent](./parca-dev-parca-agent.md) | ⭐ 750 | Go | 61/100 |
 | 103 | [zeek/zeek](./zeek-zeek.md) | ⭐ 8.2k | C++ | 61/100 |
 | 104 | [ccfos/nightingale](./ccfos-nightingale.md) | ⭐ 13.5k | Go | 61/100 |
-| 105 | [prometheus/exporter-toolkit](./prometheus-exporter-toolkit.md) | ⭐ 308 | Go | 60/100 |
+| 105 | [prometheus/exporter-toolkit](./prometheus-exporter-toolkit.md) | ⭐ 312 | Go | 60/100 |
 | 106 | [ossf/scorecard](./ossf-scorecard.md) | ⭐ 5.8k | Go | 60/100 |
 | 107 | [elastic/apm-agent-dotnet](./elastic-apm-agent-dotnet.md) | ⭐ 593 | C# | 60/100 |
 | 108 | [OpsiMate/OpsiMate](./opsimate-opsimate.md) | ⭐ 204 | TypeScript | 60/100 |
@@ -127,7 +127,7 @@
 | 117 | [grafana/beyla](./grafana-beyla.md) | ⭐ 2.2k | Go | 59/100 |
 | 118 | [nginx/nginx-prometheus-exporter](./nginx-nginx-prometheus-exporter.md) | ⭐ 2k | Go | 59/100 |
 | 119 | [GoogleChrome/web-vitals](./googlechrome-web-vitals.md) | ⭐ 8.7k | JavaScript | 59/100 |
-| 120 | [UCSBarchlab/PyRTL](./ucsbarchlab-pyrtl.md) | ⭐ 302 | Python | 59/100 |
+| 120 | [UCSBarchlab/PyRTL](./ucsbarchlab-pyrtl.md) | ⭐ 307 | Python | 59/100 |
 | 121 | [esrlabs/chipmunk](./esrlabs-chipmunk.md) | ⭐ 871 | Rust | 59/100 |
 | 122 | [open-telemetry/opentelemetry-rust](./open-telemetry-opentelemetry-rust.md) | ⭐ 2.8k | Rust | 59/100 |
 | 123 | [zentralopensource/zentral](./zentralopensource-zentral.md) | ⭐ 890 | Python | 59/100 |
@@ -135,7 +135,7 @@
 | 125 | [open-telemetry/opentelemetry-collector](./open-telemetry-opentelemetry-collector.md) | ⭐ 7.7k | Go | 59/100 |
 | 126 | [TX230/winproc-tui](./tx230-winproc-tui.md) | ⭐ 103 | Rust | 58/100 |
 | 127 | [tox-dev/platformdirs](./tox-dev-platformdirs.md) | ⭐ 1k | Python | 58/100 |
-| 128 | [openshift/cluster-monitoring-operator](./openshift-cluster-monitoring-operator.md) | ⭐ 264 | Go | 58/100 |
+| 128 | [openshift/cluster-monitoring-operator](./openshift-cluster-monitoring-operator.md) | ⭐ 266 | Go | 58/100 |
 | 129 | [github-community-projects/issue-metrics](./github-community-projects-issue-metrics.md) | ⭐ 541 | Python | 58/100 |
 | 130 | [DSheirer/sdrtrunk](./dsheirer-sdrtrunk.md) | ⭐ 2.2k | Java | 58/100 |
 | 131 | [aya-rs/aya](./aya-rs-aya.md) | ⭐ 4.9k | Rust | 58/100 |
@@ -167,7 +167,7 @@
 | 157 | [prometheus/snmp_exporter](./prometheus-snmp-exporter.md) | ⭐ 2.2k | Go | 56/100 |
 | 158 | [pixlcore/xyops](./pixlcore-xyops.md) | ⭐ 6.3k | JavaScript | 55/100 |
 | 159 | [akpw/mktxp](./akpw-mktxp.md) | ⭐ 1.1k | Python | 55/100 |
-| 160 | [leavesCZY/Monitor](./leavesczy-monitor.md) | ⭐ 308 | Kotlin | 55/100 |
+| 160 | [leavesCZY/Monitor](./leavesczy-monitor.md) | ⭐ 309 | Kotlin | 55/100 |
 | 161 | [wakatime/zed-wakatime](./wakatime-zed-wakatime.md) | ⭐ 202 | Rust | 55/100 |
 | 162 | [MapleTechLabs/maple](./mapletechlabs-maple.md) | ⭐ 2k | TypeScript | 55/100 |
 | 163 | [abrignoni/ALEAPP](./abrignoni-aleapp.md) | ⭐ 1k | Python | 55/100 |
@@ -187,7 +187,7 @@
 | 177 | [open-telemetry/opentelemetry-go-compile-instrumentation](./open-telemetry-opentelemetry-go-compile-instrumentation.md) | ⭐ 503 | Go | 53/100 |
 | 178 | [prometheus-community/avalanche](./prometheus-community-avalanche.md) | ⭐ 456 | Go | 53/100 |
 | 179 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 747 | — | 53/100 |
-| 180 | [elastic/elastic-agent](./elastic-elastic-agent.md) | ⭐ 253 | Go | 53/100 |
+| 180 | [elastic/elastic-agent](./elastic-elastic-agent.md) | ⭐ 290 | Go | 53/100 |
 | 181 | [bpftrace/bpftrace](./bpftrace-bpftrace.md) | ⭐ 10.4k | C++ | 53/100 |
 | 182 | [hagezi/dns-blocklists](./hagezi-dns-blocklists.md) | ⭐ 28.6k | Text | 53/100 |
 | 183 | [casareanderson/warden](./casareanderson-warden.md) | ⭐ — | Python | 52/100 |
@@ -221,7 +221,7 @@
 | 211 | [lucafossen/who-gpu](./lucafossen-who-gpu.md) | ⭐ — | — | 49/100 |
 | 212 | [eliau2005/statixagent](./eliau2005-statixagent.md) | ⭐ — | — | 49/100 |
 | 213 | [rotel-dev/rotel](./rotel-dev-rotel.md) | ⭐ 412 | Rust | 49/100 |
-| 214 | [gbfr-logs/gbfr-logs](./gbfr-logs-gbfr-logs.md) | ⭐ 271 | Rust | 49/100 |
+| 214 | [gbfr-logs/gbfr-logs](./gbfr-logs-gbfr-logs.md) | ⭐ 289 | Rust | 49/100 |
 | 215 | [Hayder-Rzaigui/cybernom-community](./hayder-rzaigui-cybernom-community.md) | ⭐ — | — | 49/100 |
 | 216 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 441 | Rust | 49/100 |
 | 217 | [rahhuul/auto-api-observe](./rahhuul-auto-api-observe.md) | ⭐ — | — | 48/100 |
@@ -242,7 +242,7 @@
 | 232 | [kontext-security/sandy](./kontext-security-sandy.md) | ⭐ — | — | 46/100 |
 | 233 | [Somnora/GSPOT](./somnora-gspot.md) | ⭐ — | — | 46/100 |
 | 234 | [CortexFlow/CortexBrain](./cortexflow-cortexbrain.md) | ⭐ — | — | 46/100 |
-| 235 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 321 | Java | 46/100 |
+| 235 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 334 | Java | 46/100 |
 | 236 | [lxyeternal/NPMAnalysis](./lxyeternal-npmanalysis.md) | ⭐ 3 | — | 46/100 |
 | 237 | [devicelabvn/machinery-oee-ems-retrofit-examples](./devicelabvn-machinery-oee-ems-retrofit-examples.md) | ⭐ — | — | 45/100 |
 | 238 | [oxynote/oxynote](./oxynote-oxynote.md) | ⭐ — | — | 45/100 |
@@ -259,7 +259,7 @@
 | 249 | [grafana/jsonnet-libs](./grafana-jsonnet-libs.md) | ⭐ 733 | Jsonnet | 45/100 |
 | 250 | [grloper/Wraith](./grloper-wraith.md) | ⭐ — | Rust | 45/100 |
 | 251 | [oliexdev/openScale](./oliexdev-openscale.md) | ⭐ 2.7k | Kotlin | 44/100 |
-| 252 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 44/100 |
+| 252 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 280 | Rust | 44/100 |
 | 253 | [zacharymplace/hermes-observability](./zacharymplace-hermes-observability.md) | ⭐ — | JavaScript | 43/100 |
 | 254 | [mkbeh/pacecache](./mkbeh-pacecache.md) | ⭐ — | Go | 43/100 |
 | 255 | [nimishaaa/gaslit-aisoc](./nimishaaa-gaslit-aisoc.md) | ⭐ — | — | 42/100 |

@@ -22,7 +22,7 @@
 | 12 | [WPS/egon.io](./wps-egon.io.md) | ⭐ 840 | TypeScript | 65/100 |
 | 13 | [logisim-evolution/logisim-evolution](./logisim-evolution-logisim-evolution.md) | ⭐ 7.9k | Java | 65/100 |
 | 14 | [nextcloud/server](./nextcloud-server.md) | ⭐ 37.5k | PHP | 65/100 |
-| 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 302 | Python | 64/100 |
+| 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 593 | Python | 64/100 |
 | 16 | [eclipse-ee4j/cargotracker](./eclipse-ee4j-cargotracker.md) | ⭐ 395 | JavaScript | 64/100 |
 | 17 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 906 | C# | 64/100 |
 | 18 | [kando-menu/kando](./kando-menu-kando.md) | ⭐ 6.6k | TypeScript | 63/100 |
@@ -33,7 +33,7 @@
 | 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 550 | Python | 62/100 |
 | 24 | [MewPurPur/GodSVG](./mewpurpur-godsvg.md) | ⭐ 2.8k | GDScript | 61/100 |
 | 25 | [Lailloken/Exile-UI](./lailloken-exile-ui.md) | ⭐ 1.4k | AutoHotkey | 61/100 |
-| 26 | [bastani-inc/atomic](./bastani-inc-atomic.md) | ⭐ 274 | TypeScript | 61/100 |
+| 26 | [bastani-inc/atomic](./bastani-inc-atomic.md) | ⭐ 882 | TypeScript | 61/100 |
 | 27 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 3k | TypeScript | 61/100 |
 | 28 | [gdsfactory/gdsfactory](./gdsfactory-gdsfactory.md) | ⭐ 1.1k | Python | 61/100 |
 | 29 | [elementor/elementor](./elementor-elementor.md) | ⭐ 7.1k | PHP | 61/100 |
@@ -52,7 +52,7 @@
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 609 | Python | 58/100 |
 | 43 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 26.2k | JavaScript | 58/100 |
 | 44 | [liquidslr/system-design-notes](./liquidslr-system-design-notes.md) | ⭐ 28k | — | 57/100 |
-| 45 | [davgar99/arch-linux-font-improvement-guide](./davgar99-arch-linux-font-improvement-guide.md) | ⭐ 252 | — | 57/100 |
+| 45 | [davgar99/arch-linux-font-improvement-guide](./davgar99-arch-linux-font-improvement-guide.md) | ⭐ 263 | — | 57/100 |
 | 46 | [YosysHQ/oss-cad-suite-build](./yosyshq-oss-cad-suite-build.md) | ⭐ 1.8k | Shell | 57/100 |
 | 47 | [visioncortex/vtracer](./visioncortex-vtracer.md) | ⭐ 7.5k | Rust | 57/100 |
 | 48 | [RailsEventStore/rails_event_store](./railseventstore-rails-event-store.md) | ⭐ 1.6k | Ruby | 57/100 |
@@ -63,7 +63,7 @@
 | 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 1 | JavaScript | 57/100 |
 | 54 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 353 | Lua | 56/100 |
 | 55 | [OpenOLAT/OpenOLAT](./openolat-openolat.md) | ⭐ 449 | Java | 56/100 |
-| 56 | [uswds/uswds-site](./uswds-uswds-site.md) | ⭐ 246 | HTML | 56/100 |
+| 56 | [uswds/uswds-site](./uswds-uswds-site.md) | ⭐ 252 | HTML | 56/100 |
 | 57 | [nuxt/icon](./nuxt-icon.md) | ⭐ 1.2k | TypeScript | 56/100 |
 | 58 | [theexperiencecompany/keyloom](./theexperiencecompany-keyloom.md) | ⭐ 67 | TypeScript | 56/100 |
 | 59 | [iiab/iiab](./iiab-iiab.md) | ⭐ 2k | Jinja | 56/100 |
@@ -137,7 +137,7 @@
 | 127 | [kmaida/deslop-skills](./kmaida-deslop-skills.md) | ⭐ — | — | 45/100 |
 | 128 | [boldaxolotl/booley](./boldaxolotl-booley.md) | ⭐ — | — | 45/100 |
 | 129 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 655 | Java | 45/100 |
-| 130 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 45/100 |
+| 130 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 343 | C++ | 45/100 |
 | 131 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 45/100 |
 | 132 | [MickeyAlton33/web-designer-plugin](./mickeyalton33-web-designer-plugin.md) | ⭐ — | — | 44/100 |
 | 133 | [remojansen/rflct](./remojansen-rflct.md) | ⭐ 2 | TypeScript | 44/100 |

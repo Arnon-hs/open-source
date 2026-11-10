@@ -60,7 +60,7 @@
 | 50 | [datoviz/datoviz](./datoviz-datoviz.md) | ⭐ 824 | C | 63/100 |
 | 51 | [KhronosGroup/Vulkan-Hpp](./khronosgroup-vulkan-hpp.md) | ⭐ 3.8k | C++ | 63/100 |
 | 52 | [skylicht-lab/skylicht-engine](./skylicht-lab-skylicht-engine.md) | ⭐ 773 | C++ | 63/100 |
-| 53 | [fury-gl/fury](./fury-gl-fury.md) | ⭐ 301 | Python | 63/100 |
+| 53 | [fury-gl/fury](./fury-gl-fury.md) | ⭐ 303 | Python | 63/100 |
 | 54 | [sinanata/unity-ui-toolkit-design-system](./sinanata-unity-ui-toolkit-design-system.md) | ⭐ 568 | C# | 63/100 |
 | 55 | [Redot-Engine/redot-engine](./redot-engine-redot-engine.md) | ⭐ 6.2k | C++ | 63/100 |
 | 56 | [RPCS3/rpcs3](./rpcs3-rpcs3.md) | ⭐ 20.4k | C++ | 63/100 |
@@ -80,7 +80,7 @@
 | 70 | [thi-ng/umbrella](./thi-ng-umbrella.md) | ⭐ 3.8k | TypeScript | 62/100 |
 | 71 | [PokemonWorkshop/PokemonStudio](./pokemonworkshop-pokemonstudio.md) | ⭐ 210 | TypeScript | 62/100 |
 | 72 | [ChenlizheMe/Infernux](./chenlizheme-infernux.md) | ⭐ 2.5k | Python | 62/100 |
-| 73 | [ButterscotchRunner/Butterscotch](./butterscotchrunner-butterscotch.md) | ⭐ 307 | C | 62/100 |
+| 73 | [ButterscotchRunner/Butterscotch](./butterscotchrunner-butterscotch.md) | ⭐ 415 | C | 62/100 |
 | 74 | [jrouwe/JoltPhysics](./jrouwe-joltphysics.md) | ⭐ 12.3k | C++ | 62/100 |
 | 75 | [letoram/arcan](./letoram-arcan.md) | ⭐ 1.8k | Zig | 62/100 |
 | 76 | [thorvg/thorvg](./thorvg-thorvg.md) | ⭐ 1.9k | C++ | 62/100 |
@@ -141,7 +141,7 @@
 | 131 | [OpenWebGAL/WebGAL_Terre](./openwebgal-webgal-terre.md) | ⭐ 662 | TypeScript | 59/100 |
 | 132 | [google/neuroglancer](./google-neuroglancer.md) | ⭐ 1.6k | TypeScript | 59/100 |
 | 133 | [JeanPhilippeKernel/RendererEngine](./jeanphilippekernel-rendererengine.md) | ⭐ 470 | C++ | 59/100 |
-| 134 | [AlizaMedicalImaging/AlizaMS](./alizamedicalimaging-alizams.md) | ⭐ 306 | C++ | 59/100 |
+| 134 | [AlizaMedicalImaging/AlizaMS](./alizamedicalimaging-alizams.md) | ⭐ 318 | C++ | 59/100 |
 | 135 | [vladbat00/bevy_egui](./vladbat00-bevy-egui.md) | ⭐ 1.4k | Rust | 59/100 |
 | 136 | [KhronosGroup/Vulkan-Tutorial](./khronosgroup-vulkan-tutorial.md) | ⭐ 442 | C++ | 59/100 |
 | 137 | [quaadgras/graphics.gd](./quaadgras-graphics.gd.md) | ⭐ 878 | Go | 59/100 |
@@ -173,11 +173,11 @@
 | 163 | [attackgoat/vk-graph](./attackgoat-vk-graph.md) | ⭐ 347 | Rust | 57/100 |
 | 164 | [castle-engine/castle-engine](./castle-engine-castle-engine.md) | ⭐ 1.3k | Pascal | 57/100 |
 | 165 | [Facepunch/sbox-public](./facepunch-sbox-public.md) | ⭐ 6.5k | C# | 57/100 |
-| 166 | [esengine/estella](./esengine-estella.md) | ⭐ 306 | TypeScript | 57/100 |
+| 166 | [esengine/estella](./esengine-estella.md) | ⭐ 706 | TypeScript | 57/100 |
 | 167 | [ZeroK-RTS/Zero-K](./zerok-rts-zero-k.md) | ⭐ 883 | Lua | 57/100 |
 | 168 | [timschmidt/csgrs](./timschmidt-csgrs.md) | ⭐ 224 | Rust | 57/100 |
 | 169 | [kitao/pyxel](./kitao-pyxel.md) | ⭐ 18.6k | Rust | 57/100 |
-| 170 | [three-types/three-ts-types](./three-types-three-ts-types.md) | ⭐ 301 | TypeScript | 56/100 |
+| 170 | [three-types/three-ts-types](./three-types-three-ts-types.md) | ⭐ 304 | TypeScript | 56/100 |
 | 171 | [plotly/plotly_matlab](./plotly-plotly-matlab.md) | ⭐ 415 | MATLAB | 56/100 |
 | 172 | [max-baz/wluma](./max-baz-wluma.md) | ⭐ 960 | Rust | 56/100 |
 | 173 | [OGRECave/ogre-next](./ogrecave-ogre-next.md) | ⭐ 1.4k | C++ | 56/100 |
@@ -205,7 +205,7 @@
 | 195 | [increpare/PuzzleScript](./increpare-puzzlescript.md) | ⭐ 1.1k | JavaScript | 55/100 |
 | 196 | [ec-/Quake3e](./ec--quake3e.md) | ⭐ 1.6k | C | 55/100 |
 | 197 | [MihailRis/voxelcore](./mihailris-voxelcore.md) | ⭐ 1.5k | C++ | 55/100 |
-| 198 | [RE-SS3D/SS3D](./re-ss3d-ss3d.md) | ⭐ 287 | C# | 55/100 |
+| 198 | [RE-SS3D/SS3D](./re-ss3d-ss3d.md) | ⭐ 292 | C# | 55/100 |
 | 199 | [hyperion-mc/hyperion](./hyperion-mc-hyperion.md) | ⭐ 1.1k | Rust | 55/100 |
 | 200 | [chickensoft-games/GameDemo](./chickensoft-games-gamedemo.md) | ⭐ 636 | C# | 55/100 |
 | 201 | [LayTec-AG/Plotly.Blazor](./laytec-ag-plotly.blazor.md) | ⭐ 431 | C# | 55/100 |
@@ -222,7 +222,7 @@
 | 212 | [bevyengine/bevy](./bevyengine-bevy.md) | ⭐ 49.6k | Rust | 55/100 |
 | 213 | [ProxyShard/ShardBrowser](./proxyshard-shardbrowser.md) | ⭐ 1.5k | TypeScript | 54/100 |
 | 214 | [MrDrElliot/LuminaEngine](./mrdrelliot-luminaengine.md) | ⭐ 557 | C++ | 54/100 |
-| 215 | [Shadowss/TravianZ](./shadowss-travianz.md) | ⭐ 314 | PHP | 54/100 |
+| 215 | [Shadowss/TravianZ](./shadowss-travianz.md) | ⭐ 348 | PHP | 54/100 |
 | 216 | [vleue/polyanya](./vleue-polyanya.md) | ⭐ 528 | Rust | 54/100 |
 | 217 | [flingengine/FlingEngine](./flingengine-flingengine.md) | ⭐ 414 | C++ | 54/100 |
 | 218 | [rednblackgames/HyperLap2D](./rednblackgames-hyperlap2d.md) | ⭐ 449 | Java | 54/100 |
@@ -322,11 +322,11 @@
 | 312 | [optozorax/portal](./optozorax-portal.md) | ⭐ 567 | Rust | 44/100 |
 | 313 | [KhronosGroup/Vulkan-ValidationLayers](./khronosgroup-vulkan-validationlayers.md) | ⭐ 1.1k | C++ | 44/100 |
 | 314 | [renzora/engine](./renzora-engine.md) | ⭐ 135 | Rust | 43/100 |
-| 315 | [Far-Beyond-Pulsar/Pulsar-Native](./far-beyond-pulsar-pulsar-native.md) | ⭐ 314 | Rust | 43/100 |
+| 315 | [Far-Beyond-Pulsar/Pulsar-Native](./far-beyond-pulsar-pulsar-native.md) | ⭐ 404 | Rust | 43/100 |
 | 316 | [Pengeszikra/singularity-news-ccg](./pengeszikra-singularity-news-ccg.md) | ⭐ — | — | 42/100 |
 | 317 | [G00dS0ul/G00dS0ul](./g00ds0ul-g00ds0ul.md) | ⭐ — | — | 42/100 |
 | 318 | [vanyle/vectarine](./vanyle-vectarine.md) | ⭐ 122 | Rust | 42/100 |
-| 319 | [OpenDreamProject/OpenDream](./opendreamproject-opendream.md) | ⭐ 262 | C# | 42/100 |
+| 319 | [OpenDreamProject/OpenDream](./opendreamproject-opendream.md) | ⭐ 281 | C# | 42/100 |
 | 320 | [Arthur031221/OohAlive](./arthur031221-oohalive.md) | ⭐ — | JavaScript | 42/100 |
 | 321 | [tinyBigGAMES/VindexLLM](./tinybiggames-vindexllm.md) | ⭐ — | — | 41/100 |
 | 322 | [oathshaper/oathshaper](./oathshaper-oathshaper.md) | ⭐ — | — | 41/100 |

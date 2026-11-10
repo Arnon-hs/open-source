@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML · Automation
+Payments · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-EnchStyle/JobAgent: EnchStyle/JobAgent helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+EnchStyle/JobAgent: EnchStyle/JobAgent helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-EnchStyle/JobAgent: open-source проект в категориях AI/ML, Automation. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+EnchStyle/JobAgent: open-source проект в категориях Payments, AI/ML. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-EnchStyle/JobAgent：EnchStyle/JobAgent helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+EnchStyle/JobAgent：EnchStyle/JobAgent helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** EnchStyle/JobAgent helps add AI capability without starting from a blank model stack.
+**Value:** EnchStyle/JobAgent helps integrate monetization, billing, or PSP flows faster.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- integrate billing or checkout
+- evaluate PSP flows
+- automate payment operations
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,19 +64,19 @@ EnchStyle/JobAgent：EnchStyle/JobAgent helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 30/100 |
-| integration | 46/100 |
-| production | 41/100 |
-| outlook | 39/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 6/100 |
 | topics | 50/100 |
+| outlook | 39/100 |
+| quality | 30/100 |
+| recency | 40/100 |
+| adoption | 5/100 |
+| production | 41/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-10-09 · [View on GitHub](https://github.com/EnchStyle/JobAgent) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-10-09 · [View on GitHub](https://github.com/EnchStyle/JobAgent) · [← Back to Payments](./README.md)</sub>

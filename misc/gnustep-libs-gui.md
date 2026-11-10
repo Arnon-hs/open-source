@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 314 |
-| 🍴 **Forks** | 116 |
+| ⭐ **Stars** | 318 |
+| 🍴 **Forks** | 121 |
 | 💻 **Language** | Objective-C |
 | 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-09-05 |

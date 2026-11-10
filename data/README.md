@@ -69,7 +69,7 @@
 | 59 | [Open-Web-Analytics/Open-Web-Analytics](./open-web-analytics-open-web-analytics.md) | ⭐ 2.7k | PHP | 65/100 |
 | 60 | [livestorejs/livestore](./livestorejs-livestore.md) | ⭐ 3.8k | TypeScript | 65/100 |
 | 61 | [hogan-tech/leetcode-solution](./hogan-tech-leetcode-solution.md) | ⭐ 547 | Python | 65/100 |
-| 62 | [igerber/diff-diff](./igerber-diff-diff.md) | ⭐ 309 | Python | 65/100 |
+| 62 | [igerber/diff-diff](./igerber-diff-diff.md) | ⭐ 414 | Python | 65/100 |
 | 63 | [datavane/datavines](./datavane-datavines.md) | ⭐ 767 | Java | 65/100 |
 | 64 | [crossbeam-rs/crossbeam](./crossbeam-rs-crossbeam.md) | ⭐ 8.6k | Rust | 65/100 |
 | 65 | [OWASP/pytm](./owasp-pytm.md) | ⭐ 1.2k | Python | 65/100 |
@@ -120,9 +120,9 @@
 | 110 | [fluent/fluent-bit](./fluent-fluent-bit.md) | ⭐ 8.2k | C | 62/100 |
 | 111 | [RDFLib/rdflib](./rdflib-rdflib.md) | ⭐ 2.5k | Python | 62/100 |
 | 112 | [colour-science/colour](./colour-science-colour.md) | ⭐ 2.7k | Python | 62/100 |
-| 113 | [rucio/rucio](./rucio-rucio.md) | ⭐ 301 | Python | 62/100 |
+| 113 | [rucio/rucio](./rucio-rucio.md) | ⭐ 324 | Python | 62/100 |
 | 114 | [MultiQC/MultiQC](./multiqc-multiqc.md) | ⭐ 1.5k | JavaScript | 62/100 |
-| 115 | [cqframework/clinical_quality_language](./cqframework-clinical-quality-language.md) | ⭐ 313 | Kotlin | 62/100 |
+| 115 | [cqframework/clinical_quality_language](./cqframework-clinical-quality-language.md) | ⭐ 338 | Kotlin | 62/100 |
 | 116 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 135 | Go | 61/100 |
 | 117 | [graphene-data/graphene](./graphene-data-graphene.md) | ⭐ 53 | TypeScript | 61/100 |
 | 118 | [gloom-sh/gloomberb](./gloom-sh-gloomberb.md) | ⭐ 2.7k | TypeScript | 61/100 |
@@ -136,7 +136,7 @@
 | 126 | [openmc-dev/openmc](./openmc-dev-openmc.md) | ⭐ 1.1k | Python | 61/100 |
 | 127 | [apache/hive](./apache-hive.md) | ⭐ 6k | Java | 61/100 |
 | 128 | [onceupon/Bash-Oneliner](./onceupon-bash-oneliner.md) | ⭐ 10.8k | — | 61/100 |
-| 129 | [rosslh/Mandelbrot.site](./rosslh-mandelbrot.site.md) | ⭐ 309 | Rust | 61/100 |
+| 129 | [rosslh/Mandelbrot.site](./rosslh-mandelbrot.site.md) | ⭐ 337 | Rust | 61/100 |
 | 130 | [microprediction/timemachines](./microprediction-timemachines.md) | ⭐ 445 | Python | 61/100 |
 | 131 | [glpi-project/glpi](./glpi-project-glpi.md) | ⭐ 6.6k | PHP | 61/100 |
 | 132 | [augurlabs/augur](./augurlabs-augur.md) | ⭐ 695 | Go | 61/100 |
@@ -153,7 +153,7 @@
 | 143 | [apache/iotdb](./apache-iotdb.md) | ⭐ 6.4k | Java | 60/100 |
 | 144 | [y-scope/clp](./y-scope-clp.md) | ⭐ 1.1k | C++ | 60/100 |
 | 145 | [apache/paimon](./apache-paimon.md) | ⭐ 3.4k | Java | 60/100 |
-| 146 | [Scille/parsec-cloud](./scille-parsec-cloud.md) | ⭐ 307 | Rust | 60/100 |
+| 146 | [Scille/parsec-cloud](./scille-parsec-cloud.md) | ⭐ 311 | Rust | 60/100 |
 | 147 | [samapriya/awesome-gee-community-datasets](./samapriya-awesome-gee-community-datasets.md) | ⭐ 1.2k | HTML | 60/100 |
 | 148 | [OpenMS/OpenMS](./openms-openms.md) | ⭐ 630 | C++ | 60/100 |
 | 149 | [crate/crate](./crate-crate.md) | ⭐ 4.5k | Java | 60/100 |
@@ -191,7 +191,7 @@
 | 181 | [bytewax/awesome-public-real-time-datasets](./bytewax-awesome-public-real-time-datasets.md) | ⭐ 3k | — | 58/100 |
 | 182 | [dealii/dealii](./dealii-dealii.md) | ⭐ 1.8k | C++ | 58/100 |
 | 183 | [PostHog/posthog-js](./posthog-posthog-js.md) | ⭐ 644 | TypeScript | 58/100 |
-| 184 | [gnudatalanguage/gdl](./gnudatalanguage-gdl.md) | ⭐ 310 | C++ | 58/100 |
+| 184 | [gnudatalanguage/gdl](./gnudatalanguage-gdl.md) | ⭐ 317 | C++ | 58/100 |
 | 185 | [girder/girder](./girder-girder.md) | ⭐ 458 | Python | 58/100 |
 | 186 | [cahyadsn/wilayah](./cahyadsn-wilayah.md) | ⭐ 1.3k | SQL | 58/100 |
 | 187 | [max0x7ba/atomic_queue](./max0x7ba-atomic-queue.md) | ⭐ 1.9k | C++ | 58/100 |
@@ -211,12 +211,12 @@
 | 201 | [GeiserX/awesome-spain](./geiserx-awesome-spain.md) | ⭐ 369 | Python | 57/100 |
 | 202 | [zwicker-group/py-pde](./zwicker-group-py-pde.md) | ⭐ 469 | Python | 57/100 |
 | 203 | [nao1215/filesql](./nao1215-filesql.md) | ⭐ 385 | Go | 57/100 |
-| 204 | [Marsilea-viz/marsilea](./marsilea-viz-marsilea.md) | ⭐ 321 | Python | 57/100 |
+| 204 | [Marsilea-viz/marsilea](./marsilea-viz-marsilea.md) | ⭐ 329 | Python | 57/100 |
 | 205 | [bordoni/fakerpress](./bordoni-fakerpress.md) | ⭐ 364 | PHP | 57/100 |
 | 206 | [apache/datafusion-sqlparser-rs](./apache-datafusion-sqlparser-rs.md) | ⭐ 3.5k | Rust | 57/100 |
 | 207 | [gh0stkey/HaE](./gh0stkey-hae.md) | ⭐ 4.2k | Java | 57/100 |
 | 208 | [elastio/bon](./elastio-bon.md) | ⭐ 2.1k | Rust | 57/100 |
-| 209 | [mosparo/mosparo](./mosparo-mosparo.md) | ⭐ 295 | PHP | 57/100 |
+| 209 | [mosparo/mosparo](./mosparo-mosparo.md) | ⭐ 314 | PHP | 57/100 |
 | 210 | [cpmech/russell](./cpmech-russell.md) | ⭐ 187 | Rust | 57/100 |
 | 211 | [1313e/CMasher](./1313e-cmasher.md) | ⭐ 499 | Python | 57/100 |
 | 212 | [apache/inlong](./apache-inlong.md) | ⭐ 1.5k | Java | 57/100 |
@@ -265,7 +265,7 @@
 | 255 | [cieslarmichal/faker-cxx](./cieslarmichal-faker-cxx.md) | ⭐ 421 | C++ | 54/100 |
 | 256 | [moka-rs/moka](./moka-rs-moka.md) | ⭐ 2.7k | Rust | 54/100 |
 | 257 | [Kotlin/dataframe](./kotlin-dataframe.md) | ⭐ 1.1k | Kotlin | 54/100 |
-| 258 | [dflib/dflib](./dflib-dflib.md) | ⭐ 319 | Java | 54/100 |
+| 258 | [dflib/dflib](./dflib-dflib.md) | ⭐ 326 | Java | 54/100 |
 | 259 | [pyOpenSci/python-package-guide](./pyopensci-python-package-guide.md) | ⭐ 152 | Python | 54/100 |
 | 260 | [3DStreet/3dstreet](./3dstreet-3dstreet.md) | ⭐ 335 | JavaScript | 54/100 |
 | 261 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 712 | Rust | 54/100 |
