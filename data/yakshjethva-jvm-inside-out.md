@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Education
+Data
 
 ## 📝 Summary
 
 ### English
 
-yakshjethva/jvm-inside-out: yakshjethva/jvm-inside-out helps learn proven implementation patterns from working code.. Use it for learn an implementation pattern; build tutorials. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+yakshjethva/jvm-inside-out: yakshjethva/jvm-inside-out helps convert raw data into searchable, analyzable, or automated pipelines.. Use it for organize analytics pipelines; process datasets. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-yakshjethva/jvm-inside-out: open-source проект в категориях Education. Практическое применение: learn an implementation pattern; build tutorials. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+yakshjethva/jvm-inside-out: open-source проект в категориях Data. Практическое применение: organize analytics pipelines; process datasets. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-yakshjethva/jvm-inside-out：yakshjethva/jvm-inside-out helps learn proven implementation patterns from working code.。适合用于learn an implementation pattern、build tutorials。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+yakshjethva/jvm-inside-out：yakshjethva/jvm-inside-out helps convert raw data into searchable, analyzable, or automated pipelines.。适合用于organize analytics pipelines、process datasets。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** yakshjethva/jvm-inside-out helps learn proven implementation patterns from working code.
+**Value:** yakshjethva/jvm-inside-out helps convert raw data into searchable, analyzable, or automated pipelines.
 
 **Best use cases**
 
-- learn an implementation pattern
-- build tutorials
-- train a team on a stack
+- organize analytics pipelines
+- process datasets
+- improve reporting workflows
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,19 +65,19 @@ yakshjethva/jvm-inside-out：yakshjethva/jvm-inside-out helps learn proven imple
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 52/100 |
-| adoption | 14/100 |
-| categoryMatchCount | 100/100 |
-| stars | 15/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| stars | 15/100 |
 | topics | 50/100 |
+| outlook | 52/100 |
+| quality | 44/100 |
+| recency | 80/100 |
+| adoption | 14/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-03 · [View on GitHub](https://github.com/yakshjethva/jvm-inside-out) · [← Back to Education](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-03 · [View on GitHub](https://github.com/yakshjethva/jvm-inside-out) · [← Back to Data](./README.md)</sub>

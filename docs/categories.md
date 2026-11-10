@@ -6,21 +6,21 @@ Only categories with at least 10 project cards have folders. The complete machin
 
 | Category | Project cards |
 | --- | ---: |
-| [AI/ML](../aiml/README.md) | 5,138 |
-| [Automation](../automation/README.md) | 1,666 |
+| [AI/ML](../aiml/README.md) | 5,139 |
+| [Automation](../automation/README.md) | 1,667 |
 | [Backend](../backend/README.md) | 990 |
 | [Cloud & Storage](../cloud--storage/README.md) | 639 |
 | [Communication](../communication/README.md) | 481 |
 | [Content Creation](../content-creation/README.md) | 164 |
 | [Crypto](../crypto/README.md) | 842 |
-| [Data](../data/README.md) | 364 |
+| [Data](../data/README.md) | 365 |
 | [Database](../database/README.md) | 585 |
 | [Design](../design/README.md) | 196 |
 | [DevOps/Infra](../devopsinfra/README.md) | 547 |
 | [DevTools](../devtools/README.md) | 1,658 |
 | [Documents](../documents/README.md) | 754 |
-| [Education](../education/README.md) | 35 |
-| [Frontend](../frontend/README.md) | 934 |
+| [Education](../education/README.md) | 34 |
+| [Frontend](../frontend/README.md) | 935 |
 | [Games & Graphics](../games--graphics/README.md) | 360 |
 | [Knowledge/RAG](../knowledgerag/README.md) | 651 |
 | [Libraries & SDKs](../libraries--sdks/README.md) | 281 |

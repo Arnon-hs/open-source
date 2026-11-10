@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · Automation · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ aliilyas/bruster: aliilyas/bruster helps connect AI assistants to real tools and
 
 ### Русский
 
-aliilyas/bruster: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+aliilyas/bruster: open-source проект в категориях MCP, Automation, AI/ML, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,18 +65,18 @@ aliilyas/bruster：aliilyas/bruster helps connect AI assistants to real tools an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 51/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 66/100 |
-| adoption | 13/100 |
-| categoryMatchCount | 100/100 |
-| stars | 15/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 15/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 51/100 |
+| recency | 80/100 |
+| adoption | 13/100 |
+| production | 61/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
