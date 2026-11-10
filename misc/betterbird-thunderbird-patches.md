@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 902 |
-| 🍴 **Forks** | 43 |
+| ⭐ **Stars** | 1k |
+| 🍴 **Forks** | 49 |
 | 💻 **Language** | Batchfile |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-05 |

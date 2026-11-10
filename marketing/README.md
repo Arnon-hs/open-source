@@ -9,13 +9,13 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [apache/plc4x](./apache-plc4x.md) | ⭐ 1.8k | Java | 65/100 |
-| 2 | [lyusupov/SoftRF](./lyusupov-softrf.md) | ⭐ 986 | C | 65/100 |
+| 2 | [lyusupov/SoftRF](./lyusupov-softrf.md) | ⭐ 1k | C | 65/100 |
 | 3 | [erxes/erxes](./erxes-erxes.md) | ⭐ 4.1k | TypeScript | 64/100 |
 | 4 | [kpumuk/meta-tags](./kpumuk-meta-tags.md) | ⭐ 2.8k | Ruby | 63/100 |
 | 5 | [jasonwebb/morphogenesis-resources](./jasonwebb-morphogenesis-resources.md) | ⭐ 2.3k | — | 61/100 |
-| 6 | [nonbili/Nora](./nonbili-nora.md) | ⭐ 949 | TypeScript | 59/100 |
+| 6 | [nonbili/Nora](./nonbili-nora.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 7 | [openplayerjs/openplayerjs](./openplayerjs-openplayerjs.md) | ⭐ 644 | TypeScript | 59/100 |
-| 8 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 1k | TypeScript | 56/100 |
+| 8 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 1.1k | TypeScript | 56/100 |
 | 9 | [codialab/panacus](./codialab-panacus.md) | ⭐ 135 | Rust | 55/100 |
 | 10 | [testedmedia/seo-command-center](./testedmedia-seo-command-center.md) | ⭐ — | — | 54/100 |
 | 11 | [dvygolov/YellowTDS](./dvygolov-yellowtds.md) | ⭐ 358 | JavaScript | 53/100 |

@@ -50,7 +50,7 @@
 | 40 | [SoCkEt7/Livediff](./socket7-livediff.md) | ⭐ 170 | Rust | 68/100 |
 | 41 | [lutris/lutris](./lutris-lutris.md) | ⭐ 10.4k | Python | 68/100 |
 | 42 | [lasantosr/intelli-shell](./lasantosr-intelli-shell.md) | ⭐ 1.3k | Rust | 68/100 |
-| 43 | [unhappychoice/gittype](./unhappychoice-gittype.md) | ⭐ 1.1k | Rust | 68/100 |
+| 43 | [unhappychoice/gittype](./unhappychoice-gittype.md) | ⭐ 1.7k | Rust | 68/100 |
 | 44 | [Heroic-Games-Launcher/HeroicGamesLauncher](./heroic-games-launcher-heroicgameslauncher.md) | ⭐ 12.6k | TypeScript | 68/100 |
 | 45 | [3ni8ma/astro-tasks](./3ni8ma-astro-tasks.md) | ⭐ 2 | Python | 67/100 |
 | 46 | [golang-design/clipboard](./golang-design-clipboard.md) | ⭐ 852 | Go | 67/100 |
@@ -82,7 +82,7 @@
 | 72 | [replydev/cotp](./replydev-cotp.md) | ⭐ 377 | Rust | 65/100 |
 | 73 | [reekta92/clin-rs](./reekta92-clin-rs.md) | ⭐ 310 | Rust | 65/100 |
 | 74 | [altstackHQ/altstack-data](./altstackhq-altstack-data.md) | ⭐ 314 | Shell | 65/100 |
-| 75 | [journiv/journiv-app](./journiv-journiv-app.md) | ⭐ 1k | JavaScript | 65/100 |
+| 75 | [journiv/journiv-app](./journiv-journiv-app.md) | ⭐ 1.3k | JavaScript | 65/100 |
 | 76 | [semantic-release/release-notes-generator](./semantic-release-release-notes-generator.md) | ⭐ 362 | JavaScript | 65/100 |
 | 77 | [wavetermdev/waveterm](./wavetermdev-waveterm.md) | ⭐ 22.7k | Go | 65/100 |
 | 78 | [surajverma/homehub](./surajverma-homehub.md) | ⭐ 1.3k | HTML | 64/100 |
@@ -98,7 +98,7 @@
 | 88 | [ljtn/epiq](./ljtn-epiq.md) | ⭐ 237 | TypeScript | 63/100 |
 | 89 | [brevity1swos/rgx](./brevity1swos-rgx.md) | ⭐ 195 | Rust | 63/100 |
 | 90 | [Shopify/tophat](./shopify-tophat.md) | ⭐ 1.1k | Swift | 62/100 |
-| 91 | [Keruspe/GPaste](./keruspe-gpaste.md) | ⭐ 916 | C | 62/100 |
+| 91 | [Keruspe/GPaste](./keruspe-gpaste.md) | ⭐ 963 | C | 62/100 |
 | 92 | [PrismLauncher/PrismLauncher](./prismlauncher-prismlauncher.md) | ⭐ 11.1k | C++ | 62/100 |
 | 93 | [amir1376/ab-download-manager](./amir1376-ab-download-manager.md) | ⭐ 19.1k | Kotlin | 62/100 |
 | 94 | [mrusme/zeit](./mrusme-zeit.md) | ⭐ 566 | Go | 62/100 |
@@ -112,7 +112,7 @@
 | 102 | [hywax/mafl](./hywax-mafl.md) | ⭐ 724 | TypeScript | 62/100 |
 | 103 | [kachkaev/njt](./kachkaev-njt.md) | ⭐ 318 | TypeScript | 61/100 |
 | 104 | [hongquan/CoBang](./hongquan-cobang.md) | ⭐ 348 | Python | 61/100 |
-| 105 | [mudkipme/MoeMemosAndroid](./mudkipme-moememosandroid.md) | ⭐ 1.1k | Kotlin | 61/100 |
+| 105 | [mudkipme/MoeMemosAndroid](./mudkipme-moememosandroid.md) | ⭐ 1.2k | Kotlin | 61/100 |
 | 106 | [cybersemics/em](./cybersemics-em.md) | ⭐ 354 | TypeScript | 61/100 |
 | 107 | [Taiko2k/Tauon](./taiko2k-tauon.md) | ⭐ 3k | Python | 61/100 |
 | 108 | [Voxelum/x-minecraft-launcher](./voxelum-x-minecraft-launcher.md) | ⭐ 1.7k | TypeScript | 61/100 |
@@ -148,7 +148,7 @@
 | 138 | [poetaman/arttime](./poetaman-arttime.md) | ⭐ 1.4k | Shell | 59/100 |
 | 139 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 135.4k | TypeScript | 59/100 |
 | 140 | [carapace-sh/carapace-bin](./carapace-sh-carapace-bin.md) | ⭐ 2k | Go | 59/100 |
-| 141 | [scalacenter/bloop](./scalacenter-bloop.md) | ⭐ 939 | Scala | 59/100 |
+| 141 | [scalacenter/bloop](./scalacenter-bloop.md) | ⭐ 945 | Scala | 59/100 |
 | 142 | [bug-ops/helix-trainer](./bug-ops-helix-trainer.md) | ⭐ 84 | Rust | 58/100 |
 | 143 | [HMCL-dev/HMCL](./hmcl-dev-hmcl.md) | ⭐ 10.9k | Java | 58/100 |
 | 144 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 539 | TypeScript | 58/100 |
@@ -186,13 +186,13 @@
 | 176 | [RoderickQiu/wnr](./roderickqiu-wnr.md) | ⭐ 1.1k | JavaScript | 56/100 |
 | 177 | [ludoven/QADB](./ludoven-qadb.md) | ⭐ 141 | Kotlin | 56/100 |
 | 178 | [kylejckson/PaintFE](./kylejckson-paintfe.md) | ⭐ 339 | Rust | 56/100 |
-| 179 | [proginosko/LeechBlockNG](./proginosko-leechblockng.md) | ⭐ 1k | JavaScript | 56/100 |
+| 179 | [proginosko/LeechBlockNG](./proginosko-leechblockng.md) | ⭐ 1.1k | JavaScript | 56/100 |
 | 180 | [JayanAXHF/gitv](./jayanaxhf-gitv.md) | ⭐ 110 | Rust | 56/100 |
 | 181 | [Stewart86/hamr](./stewart86-hamr.md) | ⭐ 336 | Rust | 56/100 |
 | 182 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 56/100 |
 | 183 | [CrossPaste/crosspaste-desktop](./crosspaste-crosspaste-desktop.md) | ⭐ 2.7k | Kotlin | 56/100 |
 | 184 | [nickotmazgin/clipflow-pro](./nickotmazgin-clipflow-pro.md) | ⭐ 5 | JavaScript | 55/100 |
-| 185 | [openTrinity/mycontext](./opentrinity-mycontext.md) | ⭐ 1.1k | TypeScript | 55/100 |
+| 185 | [openTrinity/mycontext](./opentrinity-mycontext.md) | ⭐ 5k | TypeScript | 55/100 |
 | 186 | [Rolv-Apneseth/rofi-games](./rolv-apneseth-rofi-games.md) | ⭐ 114 | Rust | 55/100 |
 | 187 | [harry0703/MangoDisk](./harry0703-mangodisk.md) | ⭐ 123 | Rust | 55/100 |
 | 188 | [lawrencehook/remove-youtube-suggestions](./lawrencehook-remove-youtube-suggestions.md) | ⭐ 572 | JavaScript | 55/100 |
@@ -303,7 +303,7 @@
 | 293 | [Arylmera/Token-Dashboard](./arylmera-token-dashboard.md) | ⭐ — | — | 45/100 |
 | 294 | [NeoApplications/Neo-Launcher](./neoapplications-neo-launcher.md) | ⭐ 2.2k | Java | 45/100 |
 | 295 | [tomboy-notes/tomboy-ng](./tomboy-notes-tomboy-ng.md) | ⭐ 440 | Pascal | 45/100 |
-| 296 | [AstrBotDevs/astrbot-launcher](./astrbotdevs-astrbot-launcher.md) | ⭐ 901 | Rust | 45/100 |
+| 296 | [AstrBotDevs/astrbot-launcher](./astrbotdevs-astrbot-launcher.md) | ⭐ 2.7k | Rust | 45/100 |
 | 297 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 45/100 |
 | 298 | [nstlaurent/DoomLauncher](./nstlaurent-doomlauncher.md) | ⭐ 306 | C# | 45/100 |
 | 299 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 339 | Kotlin | 45/100 |
@@ -311,8 +311,8 @@
 | 301 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 302 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 303 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 4 | C# | 43/100 |
-| 304 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
-| 305 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
+| 304 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
+| 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
 | 306 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ — | — | 43/100 |
 | 307 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 43/100 |
 | 308 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 17 | Zig | 42/100 |

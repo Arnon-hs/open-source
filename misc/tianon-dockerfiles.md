@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 225 |
+| 🍴 **Forks** | 223 |
 | 💻 **Language** | Dockerfile |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-05 |

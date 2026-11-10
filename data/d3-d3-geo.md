@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.1k |
-| 🍴 **Forks** | 158 |
+| 🍴 **Forks** | 160 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-11-03 |
@@ -53,8 +53,8 @@ d3/d3-geo：d3/d3-geo helps convert raw data into searchable, analyzable, or aut
 
 **Quality signals**
 
-- 1115 GitHub stars
-- 158 forks
+- 1116 GitHub stars
+- 160 forks
 - updated 2026-11-03
 - primary language: JavaScript
 - 4 topics

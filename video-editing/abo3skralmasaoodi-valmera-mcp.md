@@ -1,6 +1,6 @@
 # ABO3SKRALMASAOODI/valmera-mcp
 
-[![Stars](https://img.shields.io/github/stars/ABO3SKRALMASAOODI/valmera-mcp?style=flat-square&color=yellow)](https://github.com/ABO3SKRALMASAOODI/valmera-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ABO3SKRALMASAOODI/valmera-mcp?style=flat-square&color=blue)](https://github.com/ABO3SKRALMASAOODI/valmera-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ABO3SKRALMASAOODI/valmera-mcp?style=flat-square&color=yellow)](https://github.com/ABO3SKRALMASAOODI/valmera-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/ABO3SKRALMASAOODI/valmera-mcp?style=flat-square&color=blue)](https://github.com/ABO3SKRALMASAOODI/valmera-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > Official Valmera AI video editing skills and hosted MCP connector for Claude, Codex, Cursor and Gemini CLI. Edit uploaded footage, review previews and export MP4s. MIT skills; paid Valmera editing account required.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ ABO3SKRALMASAOODI/valmera-mcp：ABO3SKRALMASAOODI/valmera-mcp helps turn media e
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 100/100 |
-| production | 70/100 |
-| outlook | 72/100 |
+| production | 64/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

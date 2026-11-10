@@ -35,7 +35,7 @@
 | 25 | [Lailloken/Exile-UI](./lailloken-exile-ui.md) | ⭐ 1.4k | AutoHotkey | 61/100 |
 | 26 | [bastani-inc/atomic](./bastani-inc-atomic.md) | ⭐ 274 | TypeScript | 61/100 |
 | 27 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 3k | TypeScript | 61/100 |
-| 28 | [gdsfactory/gdsfactory](./gdsfactory-gdsfactory.md) | ⭐ 925 | Python | 61/100 |
+| 28 | [gdsfactory/gdsfactory](./gdsfactory-gdsfactory.md) | ⭐ 1.1k | Python | 61/100 |
 | 29 | [elementor/elementor](./elementor-elementor.md) | ⭐ 7.1k | PHP | 61/100 |
 | 30 | [Memento-Teams/Memento-Skills](./memento-teams-memento-skills.md) | ⭐ 1.6k | Python | 60/100 |
 | 31 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.8k | Scala | 60/100 |
@@ -76,7 +76,7 @@
 | 66 | [SamToki/Sam-Toki-Mouse-Cursors](./samtoki-sam-toki-mouse-cursors.md) | ⭐ 788 | — | 55/100 |
 | 67 | [chipsalliance/Cores-VeeR-EL2](./chipsalliance-cores-veer-el2.md) | ⭐ 341 | SystemVerilog | 55/100 |
 | 68 | [emilkowalski/skills](./emilkowalski-skills.md) | ⭐ 55.4k | — | 55/100 |
-| 69 | [daangn/seed-design](./daangn-seed-design.md) | ⭐ 896 | TypeScript | 55/100 |
+| 69 | [daangn/seed-design](./daangn-seed-design.md) | ⭐ 1.2k | TypeScript | 55/100 |
 | 70 | [ZeroZ-lab/cc-design](./zeroz-lab-cc-design.md) | ⭐ 759 | JavaScript | 55/100 |
 | 71 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 701 | Shell | 55/100 |
 | 72 | [AxonIQ/AxonFramework](./axoniq-axonframework.md) | ⭐ 3.6k | Java | 55/100 |
@@ -103,9 +103,9 @@
 | 93 | [riscv/riscv-arch-test](./riscv-riscv-arch-test.md) | ⭐ 734 | Assembly | 52/100 |
 | 94 | [Cur10s1tyByt3/GenP](./cur10s1tybyt3-genp.md) | ⭐ 1.3k | AutoIt | 52/100 |
 | 95 | [Hostpad/Hostpad](./hostpad-hostpad.md) | ⭐ 2 | C# | 51/100 |
-| 96 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.1k | C++ | 51/100 |
+| 96 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.2k | C++ | 51/100 |
 | 97 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 51/100 |
-| 98 | [PostHog/posthog.com](./posthog-posthog.com.md) | ⭐ 1k | TypeScript | 51/100 |
+| 98 | [PostHog/posthog.com](./posthog-posthog.com.md) | ⭐ 1.2k | TypeScript | 51/100 |
 | 99 | [ghaida/intent](./ghaida-intent.md) | ⭐ 88 | CSS | 50/100 |
 | 100 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 50/100 |
 | 101 | [synfig/synfig](./synfig-synfig.md) | ⭐ 2.4k | C++ | 50/100 |

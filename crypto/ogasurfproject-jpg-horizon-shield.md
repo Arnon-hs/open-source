@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML · MCP
+Crypto · MCP · AI/ML · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-ogasurfproject-jpg/horizon-shield: ogasurfproject-jpg/horizon-shield helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+ogasurfproject-jpg/horizon-shield: ogasurfproject-jpg/horizon-shield helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-ogasurfproject-jpg/horizon-shield: open-source проект в категориях AI/ML, MCP. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+ogasurfproject-jpg/horizon-shield: open-source проект в категориях Crypto, MCP, AI/ML, Backend, DevTools. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-ogasurfproject-jpg/horizon-shield：ogasurfproject-jpg/horizon-shield helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+ogasurfproject-jpg/horizon-shield：ogasurfproject-jpg/horizon-shield helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** ogasurfproject-jpg/horizon-shield helps add AI capability without starting from a blank model stack.
+**Value:** ogasurfproject-jpg/horizon-shield helps prototype or inspect blockchain workflows with open implementation details.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- build Web3 workflows
+- inspect blockchain integrations
+- prototype wallet or DeFi features
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,19 +65,19 @@ ogasurfproject-jpg/horizon-shield：ogasurfproject-jpg/horizon-shield helps add 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 39/100 |
-| integration | 62/100 |
-| production | 46/100 |
-| outlook | 51/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 39/100 |
+| recency | 40/100 |
+| adoption | 7/100 |
+| production | 46/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-09-06 · [View on GitHub](https://github.com/ogasurfproject-jpg/horizon-shield) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-09-06 · [View on GitHub](https://github.com/ogasurfproject-jpg/horizon-shield) · [← Back to Crypto](./README.md)</sub>
