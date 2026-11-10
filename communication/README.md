@@ -34,7 +34,7 @@
 | 24 | [ovh/venom](./ovh-venom.md) | ⭐ 1.2k | Go | 72/100 |
 | 25 | [chatwoot/chatwoot](./chatwoot-chatwoot.md) | ⭐ 39.5k | Ruby | 72/100 |
 | 26 | [rustmailer/bichon](./rustmailer-bichon.md) | ⭐ 2.1k | TypeScript | 72/100 |
-| 27 | [muhammedaksam/waha-tui](./muhammedaksam-waha-tui.md) | ⭐ 327 | TypeScript | 72/100 |
+| 27 | [muhammedaksam/waha-tui](./muhammedaksam-waha-tui.md) | ⭐ 413 | TypeScript | 72/100 |
 | 28 | [jchultarsky/mirador](./jchultarsky-mirador.md) | ⭐ 142 | Rust | 71/100 |
 | 29 | [maildev/maildev](./maildev-maildev.md) | ⭐ 6.2k | TypeScript | 71/100 |
 | 30 | [ProtonMail/WebClients](./protonmail-webclients.md) | ⭐ 5.7k | TypeScript | 71/100 |
@@ -64,9 +64,9 @@
 | 54 | [lukevella/rallly](./lukevella-rallly.md) | ⭐ 5.4k | TypeScript | 68/100 |
 | 55 | [wavebox/waveboxapp](./wavebox-waveboxapp.md) | ⭐ 1.4k | JavaScript | 68/100 |
 | 56 | [nager/Nager.Date](./nager-nager.date.md) | ⭐ 1.4k | C# | 68/100 |
-| 57 | [Shoshuo/Prismarr](./shoshuo-prismarr.md) | ⭐ 374 | Twig | 68/100 |
+| 57 | [Shoshuo/Prismarr](./shoshuo-prismarr.md) | ⭐ 474 | Twig | 68/100 |
 | 58 | [abdolence/slack-morphism-rust](./abdolence-slack-morphism-rust.md) | ⭐ 225 | Rust | 67/100 |
-| 59 | [firebase/firebase-cpp-sdk](./firebase-firebase-cpp-sdk.md) | ⭐ 322 | C++ | 67/100 |
+| 59 | [firebase/firebase-cpp-sdk](./firebase-firebase-cpp-sdk.md) | ⭐ 325 | C++ | 67/100 |
 | 60 | [intri-in/manage-my-damn-life-nextjs](./intri-in-manage-my-damn-life-nextjs.md) | ⭐ 646 | JavaScript | 67/100 |
 | 61 | [goshs-labs/goshs](./goshs-labs-goshs.md) | ⭐ 1k | Go | 67/100 |
 | 62 | [pimalaya/himalaya](./pimalaya-himalaya.md) | ⭐ 7.6k | Rust | 67/100 |
@@ -89,7 +89,7 @@
 | 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
-| 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 348 | TypeScript | 65/100 |
+| 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 361 | TypeScript | 65/100 |
 | 83 | [stoatchat/self-hosted](./stoatchat-self-hosted.md) | ⭐ 2.7k | JavaScript | 65/100 |
 | 84 | [domainaware/checkdmarc](./domainaware-checkdmarc.md) | ⭐ 316 | Python | 65/100 |
 | 85 | [docker-mailserver/docker-mailserver](./docker-mailserver-docker-mailserver.md) | ⭐ 19.7k | Shell | 64/100 |
@@ -100,8 +100,8 @@
 | 90 | [tommyxchow/frosty](./tommyxchow-frosty.md) | ⭐ 1.1k | Dart | 64/100 |
 | 91 | [mailgun/mailgun-go](./mailgun-mailgun-go.md) | ⭐ 743 | Go | 64/100 |
 | 92 | [maizzle/framework](./maizzle-framework.md) | ⭐ 1.6k | TypeScript | 64/100 |
-| 93 | [chiriapp/chiri](./chiriapp-chiri.md) | ⭐ 342 | TypeScript | 64/100 |
-| 94 | [MathMan05/Fermi](./mathman05-fermi.md) | ⭐ 342 | TypeScript | 64/100 |
+| 93 | [chiriapp/chiri](./chiriapp-chiri.md) | ⭐ 413 | TypeScript | 64/100 |
+| 94 | [MathMan05/Fermi](./mathman05-fermi.md) | ⭐ 340 | TypeScript | 64/100 |
 | 95 | [twisted/twisted](./twisted-twisted.md) | ⭐ 6k | Python | 64/100 |
 | 96 | [plan-player-analytics/Plan](./plan-player-analytics-plan.md) | ⭐ 1k | Java | 64/100 |
 | 97 | [42wim/matterircd](./42wim-matterircd.md) | ⭐ 305 | Go | 64/100 |
@@ -117,7 +117,7 @@
 | 107 | [shuakami/qq-chat-exporter](./shuakami-qq-chat-exporter.md) | ⭐ 6.1k | TypeScript | 63/100 |
 | 108 | [GetStream/stream-cli](./getstream-stream-cli.md) | ⭐ 90 | Go | 63/100 |
 | 109 | [MetaFARS/codex-relay](./metafars-codex-relay.md) | ⭐ 137 | Rust | 63/100 |
-| 110 | [processone/fluux-messenger](./processone-fluux-messenger.md) | ⭐ 366 | TypeScript | 63/100 |
+| 110 | [processone/fluux-messenger](./processone-fluux-messenger.md) | ⭐ 451 | TypeScript | 63/100 |
 | 111 | [miranda-ng/miranda-ng](./miranda-ng-miranda-ng.md) | ⭐ 570 | C++ | 63/100 |
 | 112 | [tutao/tutanota](./tutao-tutanota.md) | ⭐ 8.1k | TypeScript | 63/100 |
 | 113 | [BrighterCommand/Brighter](./brightercommand-brighter.md) | ⭐ 2.5k | C# | 63/100 |
@@ -126,7 +126,7 @@
 | 116 | [simple-login/app](./simple-login-app.md) | ⭐ 7.1k | Python | 62/100 |
 | 117 | [kcsujeet/ilamy-calendar](./kcsujeet-ilamy-calendar.md) | ⭐ 313 | TypeScript | 62/100 |
 | 118 | [mjl-/mox](./mjl--mox.md) | ⭐ 5.9k | Go | 62/100 |
-| 119 | [zoff99/ToxAndroidRefImpl](./zoff99-toxandroidrefimpl.md) | ⭐ 342 | C | 62/100 |
+| 119 | [zoff99/ToxAndroidRefImpl](./zoff99-toxandroidrefimpl.md) | ⭐ 349 | C | 62/100 |
 | 120 | [BurntSushi/jiff](./burntsushi-jiff.md) | ⭐ 3k | Rust | 62/100 |
 | 121 | [discord-php/DiscordPHP](./discord-php-discordphp.md) | ⭐ 1.1k | PHP | 62/100 |
 | 122 | [apache/pulsar](./apache-pulsar.md) | ⭐ 15.4k | Java | 62/100 |
@@ -171,7 +171,7 @@
 | 161 | [circled-me/server](./circled-me-server.md) | ⭐ 208 | Go | 59/100 |
 | 162 | [onetimesecret/onetimesecret](./onetimesecret-onetimesecret.md) | ⭐ 3k | Ruby | 59/100 |
 | 163 | [hackthedev/dcts-shipping](./hackthedev-dcts-shipping.md) | ⭐ 641 | JavaScript | 59/100 |
-| 164 | [cry-inc/dmarc-report-viewer](./cry-inc-dmarc-report-viewer.md) | ⭐ 332 | Rust | 59/100 |
+| 164 | [cry-inc/dmarc-report-viewer](./cry-inc-dmarc-report-viewer.md) | ⭐ 369 | Rust | 59/100 |
 | 165 | [spacebarchat/server](./spacebarchat-server.md) | ⭐ 2.2k | TypeScript | 59/100 |
 | 166 | [scraly/developers-conferences-agenda](./scraly-developers-conferences-agenda.md) | ⭐ 2k | JavaScript | 59/100 |
 | 167 | [zulip/zulip](./zulip-zulip.md) | ⭐ 26.2k | Python | 59/100 |
@@ -198,7 +198,7 @@
 | 188 | [spatie/calendar-links](./spatie-calendar-links.md) | ⭐ 1k | PHP | 57/100 |
 | 189 | [happyDomain/happydeliver](./happydomain-happydeliver.md) | ⭐ 224 | Go | 57/100 |
 | 190 | [decke/smtprelay](./decke-smtprelay.md) | ⭐ 640 | Go | 57/100 |
-| 191 | [KashCal/KashCal](./kashcal-kashcal.md) | ⭐ 361 | Kotlin | 57/100 |
+| 191 | [KashCal/KashCal](./kashcal-kashcal.md) | ⭐ 490 | Kotlin | 57/100 |
 | 192 | [movim/movim](./movim-movim.md) | ⭐ 2.1k | PHP | 57/100 |
 | 193 | [foundation/inky](./foundation-inky.md) | ⭐ 711 | Rust | 57/100 |
 | 194 | [chronotope/chrono](./chronotope-chrono.md) | ⭐ 3.9k | Rust | 57/100 |
@@ -208,7 +208,7 @@
 | 198 | [ChurchCRM/CRM](./churchcrm-crm.md) | ⭐ 990 | PHP | 57/100 |
 | 199 | [gnekt/My-Brain-Is-Full-Crew](./gnekt-my-brain-is-full-crew.md) | ⭐ 3.9k | Shell | 56/100 |
 | 200 | [timeframe/ha-addon](./timeframe-ha-addon.md) | ⭐ 880 | Ruby | 56/100 |
-| 201 | [jalaali/jalaali-js](./jalaali-jalaali-js.md) | ⭐ 364 | TypeScript | 56/100 |
+| 201 | [jalaali/jalaali-js](./jalaali-jalaali-js.md) | ⭐ 366 | TypeScript | 56/100 |
 | 202 | [kenn-io/msgvault](./kenn-io-msgvault.md) | ⭐ 2.2k | Go | 56/100 |
 | 203 | [roundcube/roundcubemail](./roundcube-roundcubemail.md) | ⭐ 7.3k | PHP | 56/100 |
 | 204 | [muni-town/roomy](./muni-town-roomy.md) | ⭐ 499 | TypeScript | 56/100 |
@@ -227,7 +227,7 @@
 | 217 | [Medvedev91/timeto.me](./medvedev91-timeto.me.md) | ⭐ 727 | Kotlin | 55/100 |
 | 218 | [jmhobbs/cultofthepartyparrot.com](./jmhobbs-cultofthepartyparrot.com.md) | ⭐ 1.6k | HTML | 55/100 |
 | 219 | [microsoft/LangChain4j-for-Beginners](./microsoft-langchain4j-for-beginners.md) | ⭐ 554 | Java | 55/100 |
-| 220 | [appleboy/go-fcm](./appleboy-go-fcm.md) | ⭐ 331 | Go | 55/100 |
+| 220 | [appleboy/go-fcm](./appleboy-go-fcm.md) | ⭐ 329 | Go | 55/100 |
 | 221 | [Sharkord/sharkord](./sharkord-sharkord.md) | ⭐ 1.6k | TypeScript | 55/100 |
 | 222 | [jerryxff26-alt/dsh-delivery-board](./jerryxff26-alt-dsh-delivery-board.md) | ⭐ 4 | JavaScript | 54/100 |
 | 223 | [codeswithroh/baad-mein](./codeswithroh-baad-mein.md) | ⭐ — | TypeScript | 54/100 |
@@ -238,7 +238,7 @@
 | 228 | [nextcloud/tasks](./nextcloud-tasks.md) | ⭐ 709 | JavaScript | 54/100 |
 | 229 | [openmls/openmls](./openmls-openmls.md) | ⭐ 1.1k | Rust | 54/100 |
 | 230 | [ruma/ruma](./ruma-ruma.md) | ⭐ 744 | Rust | 54/100 |
-| 231 | [khaled-alshamaa/ar-php](./khaled-alshamaa-ar-php.md) | ⭐ 336 | PHP | 54/100 |
+| 231 | [khaled-alshamaa/ar-php](./khaled-alshamaa-ar-php.md) | ⭐ 342 | PHP | 54/100 |
 | 232 | [lennart-k/rustical](./lennart-k-rustical.md) | ⭐ 573 | Rust | 54/100 |
 | 233 | [containrrr/shoutrrr](./containrrr-shoutrrr.md) | ⭐ 1.7k | Go | 54/100 |
 | 234 | [telegramdesktop/tdesktop](./telegramdesktop-tdesktop.md) | ⭐ 33.5k | C++ | 54/100 |
@@ -247,7 +247,7 @@
 | 237 | [xiaowu0162/LongMemEval](./xiaowu0162-longmemeval.md) | ⭐ 1.2k | Python | 53/100 |
 | 238 | [stalwartlabs/mail-auth](./stalwartlabs-mail-auth.md) | ⭐ 121 | Rust | 53/100 |
 | 239 | [pydantic/ai-chat-ui](./pydantic-ai-chat-ui.md) | ⭐ 55 | TypeScript | 53/100 |
-| 240 | [hadashiA/VitalRouter](./hadashia-vitalrouter.md) | ⭐ 347 | C# | 53/100 |
+| 240 | [hadashiA/VitalRouter](./hadashia-vitalrouter.md) | ⭐ 370 | C# | 53/100 |
 | 241 | [aree6/LiftShift](./aree6-liftshift.md) | ⭐ 526 | TypeScript | 53/100 |
 | 242 | [nextcloud/calendar](./nextcloud-calendar.md) | ⭐ 1.2k | JavaScript | 53/100 |
 | 243 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 951 | JavaScript | 53/100 |
@@ -257,8 +257,8 @@
 | 247 | [PijarAdiluhung/mabims-hijri](./pijaradiluhung-mabims-hijri.md) | ⭐ 1 | TypeScript | 52/100 |
 | 248 | [drewmt/lineweb-social](./drewmt-lineweb-social.md) | ⭐ — | PHP | 52/100 |
 | 249 | [staktrace/mailparse](./staktrace-mailparse.md) | ⭐ 225 | Rust | 52/100 |
-| 250 | [ArcaneChat/android](./arcanechat-android.md) | ⭐ 374 | Java | 52/100 |
-| 251 | [sublime-security/sublime-rules](./sublime-security-sublime-rules.md) | ⭐ 367 | YAML | 52/100 |
+| 250 | [ArcaneChat/android](./arcanechat-android.md) | ⭐ 405 | Java | 52/100 |
+| 251 | [sublime-security/sublime-rules](./sublime-security-sublime-rules.md) | ⭐ 381 | YAML | 52/100 |
 | 252 | [logos-messaging/logos-delivery](./logos-messaging-logos-delivery.md) | ⭐ 244 | Nim | 52/100 |
 | 253 | [LemmyNet/lemmy](./lemmynet-lemmy.md) | ⭐ 14.7k | Rust | 52/100 |
 | 254 | [grloper/NoMorePwn-Password-Manager](./grloper-nomorepwn-password-manager.md) | ⭐ — | Python | 52/100 |
@@ -266,7 +266,7 @@
 | 256 | [Kandeepasundaram/Grit](./kandeepasundaram-grit.md) | ⭐ 1 | Python | 51/100 |
 | 257 | [cyrusimap/cyrus-imapd](./cyrusimap-cyrus-imapd.md) | ⭐ 653 | C | 51/100 |
 | 258 | [copilotKit/channels-sdk](./copilotkit-channels-sdk.md) | ⭐ — | — | 51/100 |
-| 259 | [roehling/postsrsd](./roehling-postsrsd.md) | ⭐ 360 | C | 51/100 |
+| 259 | [roehling/postsrsd](./roehling-postsrsd.md) | ⭐ 366 | C | 51/100 |
 | 260 | [SlimeBoyOwO/LingChat](./slimeboyowo-lingchat.md) | ⭐ 2.4k | Rust | 51/100 |
 | 261 | [themadorg/madmail](./themadorg-madmail.md) | ⭐ 170 | Rust | 51/100 |
 | 262 | [versatica/mediasoup](./versatica-mediasoup.md) | ⭐ 7.4k | C++ | 51/100 |
@@ -278,7 +278,7 @@
 | 268 | [inline-chat/inline](./inline-chat-inline.md) | ⭐ 909 | Rust | 50/100 |
 | 269 | [OpenClaudia/openclaudia-skills](./openclaudia-openclaudia-skills.md) | ⭐ 736 | JavaScript | 50/100 |
 | 270 | [open-chat-labs/open-chat](./open-chat-labs-open-chat.md) | ⭐ 202 | Rust | 50/100 |
-| 271 | [7c/fakefilter](./7c-fakefilter.md) | ⭐ 347 | JavaScript | 50/100 |
+| 271 | [7c/fakefilter](./7c-fakefilter.md) | ⭐ 359 | JavaScript | 50/100 |
 | 272 | [apache/iggy](./apache-iggy.md) | ⭐ 5.3k | Rust | 50/100 |
 | 273 | [nextcloud/spreed](./nextcloud-spreed.md) | ⭐ 2.2k | JavaScript | 50/100 |
 | 274 | [Expensify/App](./expensify-app.md) | ⭐ 5.1k | TypeScript | 50/100 |
@@ -289,7 +289,7 @@
 | 279 | [freenet/river](./freenet-river.md) | ⭐ 150 | Rust | 49/100 |
 | 280 | [matrix-construct/tuwunel](./matrix-construct-tuwunel.md) | ⭐ 2.8k | Rust | 49/100 |
 | 281 | [bloomberg/blazingmq](./bloomberg-blazingmq.md) | ⭐ 3.2k | C++ | 49/100 |
-| 282 | [aio-libs/aiosmtpd](./aio-libs-aiosmtpd.md) | ⭐ 369 | Python | 49/100 |
+| 282 | [aio-libs/aiosmtpd](./aio-libs-aiosmtpd.md) | ⭐ 373 | Python | 49/100 |
 | 283 | [michaelmagan/OpenHuman](./michaelmagan-openhuman.md) | ⭐ — | — | 48/100 |
 | 284 | [Groundmail/groundhog](./groundmail-groundhog.md) | ⭐ — | — | 48/100 |
 | 285 | [d99kris/nmail](./d99kris-nmail.md) | ⭐ — | — | 48/100 |

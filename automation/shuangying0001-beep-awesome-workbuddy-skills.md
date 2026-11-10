@@ -64,18 +64,18 @@ shuangying0001-beep/awesome-workbuddy-skills：shuangying0001-beep/awesome-workb
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 43/100 |
-| integration | 30/100 |
-| production | 43/100 |
-| outlook | 50/100 |
-| adoption | 17/100 |
-| categoryMatchCount | 300/100 |
-| stars | 20/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| stars | 20/100 |
 | topics | 100/100 |
+| outlook | 50/100 |
+| quality | 43/100 |
+| recency | 40/100 |
+| adoption | 17/100 |
+| production | 43/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

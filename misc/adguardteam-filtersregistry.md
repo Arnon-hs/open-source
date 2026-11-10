@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 341 |
-| 🍴 **Forks** | 71 |
+| ⭐ **Stars** | 368 |
+| 🍴 **Forks** | 75 |
 | 💻 **Language** | Adblock Filter List |
 | 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-09-05 |

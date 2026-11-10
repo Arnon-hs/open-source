@@ -18,7 +18,7 @@
 | 8 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 1.1k | TypeScript | 56/100 |
 | 9 | [codialab/panacus](./codialab-panacus.md) | ⭐ 135 | Rust | 55/100 |
 | 10 | [testedmedia/seo-command-center](./testedmedia-seo-command-center.md) | ⭐ — | — | 54/100 |
-| 11 | [dvygolov/YellowTDS](./dvygolov-yellowtds.md) | ⭐ 358 | JavaScript | 53/100 |
+| 11 | [dvygolov/YellowTDS](./dvygolov-yellowtds.md) | ⭐ 395 | JavaScript | 53/100 |
 | 12 | [Yoast/wordpress-seo](./yoast-wordpress-seo.md) | ⭐ 2k | JavaScript | 53/100 |
 | 13 | [angelotc/antigravity-seo](./angelotc-antigravity-seo.md) | ⭐ — | — | 51/100 |
 | 14 | [okou-ai/okou](./okou-ai-okou.md) | ⭐ 1.2k | TypeScript | 50/100 |

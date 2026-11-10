@@ -26,7 +26,7 @@
 | 16 | [akfamily/akshare](./akfamily-akshare.md) | ⭐ 23.3k | Python | 74/100 |
 | 17 | [arshka/pykalshi](./arshka-pykalshi.md) | ⭐ 117 | Python | 74/100 |
 | 18 | [zevnda/steam-game-idler](./zevnda-steam-game-idler.md) | ⭐ 791 | TypeScript | 74/100 |
-| 19 | [agent-next/polymarket-paper-trader](./agent-next-polymarket-paper-trader.md) | ⭐ 372 | Python | 73/100 |
+| 19 | [agent-next/polymarket-paper-trader](./agent-next-polymarket-paper-trader.md) | ⭐ 503 | Python | 73/100 |
 | 20 | [codedpro/mt5-trade-split-manager](./codedpro-mt5-trade-split-manager.md) | ⭐ 53 | MQL5 | 73/100 |
 | 21 | [aarora4/Awesome-Prediction-Market-Tools](./aarora4-awesome-prediction-market-tools.md) | ⭐ 800 | — | 73/100 |
 | 22 | [ib-api-reloaded/ib_async](./ib-api-reloaded-ib-async.md) | ⭐ 1.8k | Python | 72/100 |
@@ -46,12 +46,12 @@
 | 36 | [marketcalls/openalgo](./marketcalls-openalgo.md) | ⭐ 3k | Python | 70/100 |
 | 37 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 30.6k | HTML | 70/100 |
 | 38 | [JustinGuese/python_tradingbot_framework](./justinguese-python-tradingbot-framework.md) | ⭐ 35 | Jupyter Notebook | 69/100 |
-| 39 | [extrange/ibkr-docker](./extrange-ibkr-docker.md) | ⭐ 371 | Shell | 69/100 |
+| 39 | [extrange/ibkr-docker](./extrange-ibkr-docker.md) | ⭐ 391 | Shell | 69/100 |
 | 40 | [HiThink-Tech/Financial-API](./hithink-tech-financial-api.md) | ⭐ 96 | Python | 69/100 |
 | 41 | [daniel3303/Equibles](./daniel3303-equibles.md) | ⭐ 163 | C# | 69/100 |
 | 42 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 27 | Swift | 69/100 |
 | 43 | [livetennisapi/polymarket-tennis](./livetennisapi-polymarket-tennis.md) | ⭐ 208 | Python | 68/100 |
-| 44 | [OctagonAI/kalshi-trading-bot-cli](./octagonai-kalshi-trading-bot-cli.md) | ⭐ 371 | TypeScript | 68/100 |
+| 44 | [OctagonAI/kalshi-trading-bot-cli](./octagonai-kalshi-trading-bot-cli.md) | ⭐ 415 | TypeScript | 68/100 |
 | 45 | [tylerebowers/Schwabdev](./tylerebowers-schwabdev.md) | ⭐ 895 | Python | 68/100 |
 | 46 | [SimplifyJobs/Summer2027-Internships](./simplifyjobs-summer2027-internships.md) | ⭐ 48.4k | Python | 68/100 |
 | 47 | [tcgdex/cards-database](./tcgdex-cards-database.md) | ⭐ 1.2k | TypeScript | 68/100 |
@@ -101,7 +101,7 @@
 | 91 | [brndnmtthws/thetagang](./brndnmtthws-thetagang.md) | ⭐ 2.8k | Python | 62/100 |
 | 92 | [Indemos/Terminal](./indemos-terminal.md) | ⭐ 60 | C# | 62/100 |
 | 93 | [javifalces/HFTFramework](./javifalces-hftframework.md) | ⭐ 303 | Jupyter Notebook | 62/100 |
-| 94 | [CategoricalData/CQL](./categoricaldata-cql.md) | ⭐ 357 | Java | 62/100 |
+| 94 | [CategoricalData/CQL](./categoricaldata-cql.md) | ⭐ 367 | Java | 62/100 |
 | 95 | [hosseinmoein/DataFrame](./hosseinmoein-dataframe.md) | ⭐ 3k | C++ | 62/100 |
 | 96 | [ZhuLinsen/alphasift](./zhulinsen-alphasift.md) | ⭐ 219 | Python | 62/100 |
 | 97 | [Benjam1nCup/Polymarket-trading-bot-python-V2](./benjam1ncup-polymarket-trading-bot-python-v2.md) | ⭐ 338 | HTML | 62/100 |
@@ -159,7 +159,7 @@
 | 149 | [koreal6803/finlab-ai](./koreal6803-finlab-ai.md) | ⭐ 426 | TypeScript | 53/100 |
 | 150 | [Polymarket/rs-clob-client-v2](./polymarket-rs-clob-client-v2.md) | ⭐ 113 | Rust | 53/100 |
 | 151 | [AcademySoftwareFoundation/MaterialX](./academysoftwarefoundation-materialx.md) | ⭐ 2.3k | C++ | 53/100 |
-| 152 | [pkjmesra/PKScreener](./pkjmesra-pkscreener.md) | ⭐ 346 | Python | 53/100 |
+| 152 | [pkjmesra/PKScreener](./pkjmesra-pkscreener.md) | ⭐ 409 | Python | 53/100 |
 | 153 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 18.3k | — | 53/100 |
 | 154 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 1k | Rust | 53/100 |
 | 155 | [jacelovehaha/salestongue](./jacelovehaha-salestongue.md) | ⭐ — | Python | 53/100 |

@@ -1,6 +1,6 @@
 # prometheus-maker/corpusdiff
 
-[![Stars](https://img.shields.io/github/stars/prometheus-maker/corpusdiff?style=flat-square&color=yellow)](https://github.com/prometheus-maker/corpusdiff/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus-maker/corpusdiff?style=flat-square&color=blue)](https://github.com/prometheus-maker/corpusdiff/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prometheus-maker/corpusdiff?style=flat-square&color=yellow)](https://github.com/prometheus-maker/corpusdiff/stargazers) [![Forks](https://img.shields.io/github/forks/prometheus-maker/corpusdiff?style=flat-square&color=blue)](https://github.com/prometheus-maker/corpusdiff/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Did my change break anything on real-world files? Run one function over thousands of public test files (pdf.js, Apache POI, Pillow, FFmpeg) and diff two runs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ prometheus-maker/corpusdiff：prometheus-maker/corpusdiff helps turn media editi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 60/100 |
+| production | 58/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

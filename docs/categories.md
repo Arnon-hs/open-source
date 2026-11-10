@@ -25,7 +25,7 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Knowledge/RAG](../knowledgerag/README.md) | 665 |
 | [Libraries & SDKs](../libraries--sdks/README.md) | 281 |
 | [Marketing](../marketing/README.md) | 37 |
-| [MCP](../mcp/README.md) | 3,022 |
+| [MCP](../mcp/README.md) | 3,023 |
 | [Misc](../misc/README.md) | 18,356 |
 | [Mobile](../mobile/README.md) | 709 |
 | [Networking](../networking/README.md) | 680 |

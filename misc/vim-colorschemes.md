@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 329 |
-| 🍴 **Forks** | 39 |
+| ⭐ **Stars** | 341 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | Vim Script |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-09-05 |

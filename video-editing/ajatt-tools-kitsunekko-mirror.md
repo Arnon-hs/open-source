@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 321 |
-| 🍴 **Forks** | 38 |
+| ⭐ **Stars** | 380 |
+| 🍴 **Forks** | 45 |
 | 💻 **Language** | SRecode Template |
 | 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-09-05 |

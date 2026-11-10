@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 369 |
-| 🍴 **Forks** | 106 |
+| ⭐ **Stars** | 374 |
+| 🍴 **Forks** | 113 |
 | 💻 **Language** | UnrealScript |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-09-05 |

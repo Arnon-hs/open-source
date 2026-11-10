@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 349 |
-| 🍴 **Forks** | 169 |
+| ⭐ **Stars** | 355 |
+| 🍴 **Forks** | 182 |
 | 💻 **Language** | Starlark |
 | 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-09-05 |

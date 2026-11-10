@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 353 |
-| 🍴 **Forks** | 144 |
+| ⭐ **Stars** | 364 |
+| 🍴 **Forks** | 143 |
 | 💻 **Language** | Emacs Lisp |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-05 |
