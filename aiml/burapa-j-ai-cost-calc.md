@@ -1,6 +1,6 @@
 # Burapa-J/ai-cost-calc
 
-[![Stars](https://img.shields.io/github/stars/Burapa-J/ai-cost-calc?style=flat-square&color=yellow)](https://github.com/Burapa-J/ai-cost-calc/stargazers) [![Forks](https://img.shields.io/github/forks/Burapa-J/ai-cost-calc?style=flat-square&color=blue)](https://github.com/Burapa-J/ai-cost-calc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Burapa-J/ai-cost-calc?style=flat-square&color=yellow)](https://github.com/Burapa-J/ai-cost-calc/stargazers) [![Forks](https://img.shields.io/github/forks/Burapa-J/ai-cost-calc?style=flat-square&color=blue)](https://github.com/Burapa-J/ai-cost-calc/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 2026 LLM API vs. Dedicated Cloud GPU Break-Even Calculator (Prompt Caching, Multi-Step Agent Loops, Cloud VPS TCO - EN/TH)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Burapa-J/ai-cost-calc：Burapa-J/ai-cost-calc helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

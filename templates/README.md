@@ -457,7 +457,7 @@
 | 447 | [electronick1/LLAJinja](./electronick1-llajinja.md) | ⭐ 11 | — | 48/100 |
 | 448 | [astra-intelligence/saas-landing-page-template](./astra-intelligence-saas-landing-page-template.md) | ⭐ — | — | 48/100 |
 | 449 | [johnstaveley/SecurityEssentials](./johnstaveley-securityessentials.md) | ⭐ 149 | — | 48/100 |
-| 450 | [nguyenchiemminhvu/castle](./nguyenchiemminhvu-castle.md) | ⭐ — | — | 48/100 |
+| 450 | [nguyenchiemminhvu/castle](./nguyenchiemminhvu-castle.md) | ⭐ 4 | — | 48/100 |
 | 451 | [alexkey/cookiecutter-uv-core](./alexkey-cookiecutter-uv-core.md) | ⭐ 4 | — | 48/100 |
 | 452 | [riverskies/laravel-mobile-detect](./riverskies-laravel-mobile-detect.md) | ⭐ 230 | PHP | 47/100 |
 | 453 | [vellumlabs/llm-wiki-kit](./vellumlabs-llm-wiki-kit.md) | ⭐ — | — | 47/100 |

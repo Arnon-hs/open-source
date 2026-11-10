@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-16 |

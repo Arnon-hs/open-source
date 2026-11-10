@@ -124,7 +124,7 @@
 | 114 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ 24 | — | 46/100 |
 | 115 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |
 | 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 675 | TypeScript | 46/100 |
-| 117 | [meta/astryx](./meta-astryx.md) | ⭐ — | — | 45/100 |
+| 117 | [meta/astryx](./meta-astryx.md) | ⭐ 21.7k | — | 45/100 |
 | 118 | [VenoM9078/gradientdeck-skill](./venom9078-gradientdeck-skill.md) | ⭐ — | — | 45/100 |
 | 119 | [ui-layouts/uilayouts](./ui-layouts-uilayouts.md) | ⭐ 3.9k | — | 45/100 |
 | 120 | [qrstajalli/BranchOut](./qrstajalli-branchout.md) | ⭐ — | — | 45/100 |
@@ -139,7 +139,7 @@
 | 129 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 655 | Java | 45/100 |
 | 130 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 343 | C++ | 45/100 |
 | 131 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 221 | PHP | 45/100 |
-| 132 | [MickeyAlton33/web-designer-plugin](./mickeyalton33-web-designer-plugin.md) | ⭐ — | — | 44/100 |
+| 132 | [MickeyAlton33/web-designer-plugin](./mickeyalton33-web-designer-plugin.md) | ⭐ 115 | — | 44/100 |
 | 133 | [remojansen/rflct](./remojansen-rflct.md) | ⭐ 2 | TypeScript | 44/100 |
 | 134 | [USER/APP](./user-app.md) | ⭐ — | — | 42/100 |
 | 135 | [cedRiC874/researchops-agent](./cedric874-researchops-agent.md) | ⭐ — | — | 42/100 |
@@ -152,10 +152,10 @@
 | 142 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ — | — | 41/100 |
 | 143 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 662 | — | 41/100 |
 | 144 | [posterlet/amazing-posters](./posterlet-amazing-posters.md) | ⭐ — | — | 41/100 |
-| 145 | [nhunsaker/screenshot-to-tokens](./nhunsaker-screenshot-to-tokens.md) | ⭐ — | — | 41/100 |
+| 145 | [nhunsaker/screenshot-to-tokens](./nhunsaker-screenshot-to-tokens.md) | ⭐ 7 | — | 41/100 |
 | 146 | [daneb/ai-system-design-primer](./daneb-ai-system-design-primer.md) | ⭐ 8 | — | 41/100 |
 | 147 | [dysgn/Embedded_guide_publish](./dysgn-embedded-guide-publish.md) | ⭐ 4 | — | 41/100 |
-| 148 | [macauhome/winform-designer](./macauhome-winform-designer.md) | ⭐ — | — | 41/100 |
+| 148 | [macauhome/winform-designer](./macauhome-winform-designer.md) | ⭐ 2 | — | 41/100 |
 | 149 | [RohiRIK/SummonOS](./rohirik-summonos.md) | ⭐ — | — | 41/100 |
 | 150 | [giminycricket0-blip/design-html](./giminycricket0-blip-design-html.md) | ⭐ — | — | 41/100 |
 | 151 | [peterdsharpe/AeroSandbox](./peterdsharpe-aerosandbox.md) | ⭐ — | — | 41/100 |
@@ -180,7 +180,7 @@
 | 170 | [bryceelliot/website-launch-checklist](./bryceelliot-website-launch-checklist.md) | ⭐ — | — | 39/100 |
 | 171 | [carsten-riedel/Coree.Analyzers](./carsten-riedel-coree.analyzers.md) | ⭐ 1 | C# | 39/100 |
 | 172 | [xevrion/breakscale](./xevrion-breakscale.md) | ⭐ — | — | 38/100 |
-| 173 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ — | — | 38/100 |
+| 173 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ 40 | — | 38/100 |
 | 174 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
 | 175 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ — | — | 38/100 |
 | 176 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ 737 | — | 38/100 |

@@ -31,7 +31,7 @@
 | 21 | [adeptads-growth/google-ads-search-term-ngram-script](./adeptads-growth-google-ads-search-term-ngram-script.md) | ⭐ — | — | 44/100 |
 | 22 | [othy19904-eng/conversionguard](./othy19904-eng-conversionguard.md) | ⭐ — | Python | 42/100 |
 | 23 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 42/100 |
-| 24 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ — | — | 42/100 |
+| 24 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ 98 | — | 42/100 |
 | 25 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ 57 | — | 42/100 |
 | 26 | [zachbrown29/lintel-marketing-playbooks](./zachbrown29-lintel-marketing-playbooks.md) | ⭐ — | — | 41/100 |
 | 27 | [clicksdynastyincali/local-seo-lint](./clicksdynastyincali-local-seo-lint.md) | ⭐ — | — | 41/100 |
@@ -43,7 +43,7 @@
 | 33 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ 8 | — | 38/100 |
 | 34 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ 1.1k | — | 38/100 |
 | 35 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ 2 | — | 38/100 |
-| 36 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ — | — | 38/100 |
+| 36 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ 38 | — | 38/100 |
 
 ---
 

@@ -331,7 +331,7 @@
 | 321 | [facebookincubator/velox](./facebookincubator-velox.md) | ⭐ 4.3k | C++ | 48/100 |
 | 322 | [feldera/feldera](./feldera-feldera.md) | ⭐ 2.2k | Rust | 48/100 |
 | 323 | [supabase/etl](./supabase-etl.md) | ⭐ 2.4k | Rust | 48/100 |
-| 324 | [MMMystery/foto-documento-specs](./mmmystery-foto-documento-specs.md) | ⭐ — | JavaScript | 47/100 |
+| 324 | [MMMystery/foto-documento-specs](./mmmystery-foto-documento-specs.md) | ⭐ 1 | JavaScript | 47/100 |
 | 325 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 757 | Rust | 47/100 |
 | 326 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 483 | Java | 47/100 |
 | 327 | [ashtonckj/Purrrfessorrr-Slothhh](./ashtonckj-purrrfessorrr-slothhh.md) | ⭐ 3 | Python | 46/100 |
@@ -365,7 +365,7 @@
 | 355 | [zhairAhmad/pakistan-address](./zhairahmad-pakistan-address.md) | ⭐ — | PHP | 40/100 |
 | 356 | [MegPhapha/EduDisruption-Index](./megphapha-edudisruption-index.md) | ⭐ — | HTML | 39/100 |
 | 357 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ — | Swift | 38/100 |
-| 358 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
+| 358 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ 6 | — | 38/100 |
 | 359 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
 | 360 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
 | 361 | [Nidhi-bhai/backtestcard](./nidhi-bhai-backtestcard.md) | ⭐ — | HTML | 33/100 |

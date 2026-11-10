@@ -168,7 +168,7 @@
 | 158 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
 | 159 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
 | 160 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 37 | JavaScript | 47/100 |
-| 161 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ — | — | 45/100 |
+| 161 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
 | 162 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
 | 163 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 10 | — | 41/100 |
 | 164 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ 1 | — | 41/100 |

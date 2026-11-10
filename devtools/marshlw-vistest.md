@@ -1,6 +1,6 @@
 # marshlw/vistest
 
-[![Stars](https://img.shields.io/github/stars/marshlw/vistest?style=flat-square&color=yellow)](https://github.com/marshlw/vistest/stargazers) [![Forks](https://img.shields.io/github/forks/marshlw/vistest?style=flat-square&color=blue)](https://github.com/marshlw/vistest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/marshlw/vistest?style=flat-square&color=yellow)](https://github.com/marshlw/vistest/stargazers) [![Forks](https://img.shields.io/github/forks/marshlw/vistest?style=flat-square&color=blue)](https://github.com/marshlw/vistest/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > Visual regression testing library for Python and Playwright
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ marshlw/vistest：marshlw/vistest helps engineers save time in daily development
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-03
 - primary language: Python
 - 5 topics
@@ -64,13 +65,13 @@ marshlw/vistest：marshlw/vistest helps engineers save time in daily development
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 40/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 50/100 |
-| adoption | 0/100 |
+| production | 55/100 |
+| outlook | 51/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 100/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 63/100 |

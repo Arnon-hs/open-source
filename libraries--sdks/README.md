@@ -257,7 +257,7 @@
 | 247 | [ydb-platform/ydb-go-sdk](./ydb-platform-ydb-go-sdk.md) | ⭐ — | — | 48/100 |
 | 248 | [ChristopherDond/9router-python](./christopherdond-9router-python.md) | ⭐ — | — | 48/100 |
 | 249 | [jmisilo/imessage-sdk](./jmisilo-imessage-sdk.md) | ⭐ 7 | — | 48/100 |
-| 250 | [lyfeninja/lyfeninja_blkseal_python_sdk](./lyfeninja-lyfeninja-blkseal-python-sdk.md) | ⭐ — | — | 48/100 |
+| 250 | [lyfeninja/lyfeninja_blkseal_python_sdk](./lyfeninja-lyfeninja-blkseal-python-sdk.md) | ⭐ 3 | — | 48/100 |
 | 251 | [georust/netcdf](./georust-netcdf.md) | ⭐ 106 | Rust | 47/100 |
 | 252 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 47/100 |
 | 253 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 5.1k | Rust | 47/100 |
@@ -278,7 +278,7 @@
 | 268 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 160 | Rust | 43/100 |
 | 269 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
 | 270 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ 16.3k | — | 41/100 |
-| 271 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ — | — | 41/100 |
+| 271 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ 1 | — | 41/100 |
 | 272 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
 | 273 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 135 | Rust | 39/100 |
 | 274 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 8 | Rust | 38/100 |

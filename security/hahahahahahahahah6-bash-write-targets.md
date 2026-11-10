@@ -1,6 +1,6 @@
 # hahahahahahahahah6/bash-write-targets
 
-[![Stars](https://img.shields.io/github/stars/hahahahahahahahah6/bash-write-targets?style=flat-square&color=yellow)](https://github.com/hahahahahahahahah6/bash-write-targets/stargazers) [![Forks](https://img.shields.io/github/forks/hahahahahahahahah6/bash-write-targets?style=flat-square&color=blue)](https://github.com/hahahahahahahahah6/bash-write-targets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hahahahahahahahah6/bash-write-targets?style=flat-square&color=yellow)](https://github.com/hahahahahahahahah6/bash-write-targets/stargazers) [![Forks](https://img.shields.io/github/forks/hahahahahahahahah6/bash-write-targets?style=flat-square&color=blue)](https://github.com/hahahahahahahahah6/bash-write-targets/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ hahahahahahahahah6/bash-write-targets：hahahahahahahahah6/bash-write-targets he
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 33/100 |
+| quality | 28/100 |
 | integration | 34/100 |
-| production | 45/100 |
-| outlook | 48/100 |
+| production | 39/100 |
+| outlook | 41/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 
