@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 48 |
-| 🍴 **Forks** | 10 |
+| ⭐ **Stars** | 107 |
+| 🍴 **Forks** | 19 |
 | 💻 **Language** | MoonBit |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-09-05 |

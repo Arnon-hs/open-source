@@ -12,7 +12,7 @@
 | 🍴 **Forks** | 106 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 78/100 |
-| 🗓️ **Last push** | 2026-09-05 |
+| 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics
@@ -27,72 +27,36 @@ Content Creation · MCP · AI/ML · Backend · DevTools
 
 ### English
 
-Here's a brief summary of the open-source project ffroliva/gflow-cli:
-
-The ffroliva/gflow-cli project allows users to control Google Flow from the command line, enabling them to drive video and image generation, batch processing, and pipeline creation programmatically. This project provides a standard protocol for connecting AI assistants to real tools and data, facilitating integrations and standardization. With its high production readiness and strong ecosystem signals, ffroliva/gflow-cli is suitable for serious pilots and potential adoption in production environments.
-
-**Value:**
-The value proposition of ffroliva/gflow-cli lies in its ability to standardize integrations between AI assistants and real tools and data through the Model Context Protocol (MCP). This allows developers to connect AI agents to various tools and data sources, making it easier to build and deploy AI-powered applications.
-
-**Practical Adoption Path:**
-To adopt ffroliva/gflow-cli, developers can start by evaluating the project's implementation signals, such as its API, SDK, and CLI. They can then explore the project's language metadata and focused topics to determine its suitability for their specific use cases. Once they have evaluated the project, they can begin integrating it into their applications and testing its functionality.
-
-**Production Readiness:**
-The production readiness of ff
+gflow-cli is a Python CLI and MCP server for generating video and images with Google Flow, including scripted and batch workflows. Its upstream LICENSE is MIT. The project identifies itself as unofficial, reverse-engineered alpha software and is not affiliated with Google. It uses your Google Flow session and credits; review the upstream installation guide and disclaimer before use.
 
 ### Русский
 
-ffroliva/gflow-cli - это кросс-платформенный клиент, позволяющий управлять Google Flow из командной строки. Это позволяет соединять AI-ассистентов с реальными инструментами и данными через стандартный протокол. ffroliva/gflow-cli идеально подходит для сценария подключения AI-агентов к инструментам, развертывания серверов Model Context Protocol и стандартизации интеграций.
-
-Проект демонстрирует высокий уровень готовности к production, обусловленный недавней активностью, широким адоптецией и сильными сигналами экосистемы. ffroliva/gflow-cli доступен под лицензией Python и регулярно обновляется, что делает его надежным выбором для серьезного пилота.
+gflow-cli предоставляет Python CLI и MCP-сервер для генерации видео и изображений через Google Flow, в том числе для пакетных сценариев. Канонический файл LICENSE указывает MIT. Это неофициальный alpha-проект, не связанный с Google. Он использует вашу сессию Google Flow и ее кредиты, поэтому перед применением прочитайте инструкцию и предупреждения автора.
 
 ### 中文
 
-**简短介绍**
-
-ffroliva/gflow-cli 是一个开源项目，允许从命令行驱动 Google Flow。它支持批处理和管道，且提供 MCP 服务器，使得开发人员可以使用编程语言控制生成。该项目目前处于 alpha 阶段，未获得 Google 的官方认可。
-
-**价值**
-
-ffroliva/gflow-cli 的价值在于它帮助连接 AI 助手和真实的工具和数据，通过标准的协议。这使得开发人员可以更方便地与 AI 助手进行集成。
-
-**典型接入方式**
-
-典型接入方式包括：
-
-1. 连接 AI 助手到工具：通过使用 ffroliva/gflow-cli，开发人员可以连接 AI 助手到各种工具和服务。
-2. 部署 Model Context Protocol 服务器：该项目提供 MCP 服务器，使得开发人员可以部署和管理 MCP 服务器。
-3. 标准化集成：通过使用标准的协议，开发人员可以标准化集成 AI 助手和工具。
-
-**生产可用性**
-
-ffroliva/gflow-cli 在生产可用性方面表现良好，主要原因包括：
-
-1. 最近活动：项目最近
+gflow-cli 是用于 Google Flow 视频和图像生成的 Python CLI 与 MCP 服务器，支持脚本和批量工作流。上游 LICENSE 为 MIT。项目明确标注为非官方、逆向工程的 alpha 软件，与 Google 无关联。它使用用户自己的 Google Flow 会话和额度；使用前请阅读安装文档和免责声明。
 
 ## 🧭 Practical evaluation
 
-**Value:** ffroliva/gflow-cli helps connect AI assistants to real tools and data through a standard protocol.
+**Value:** Script Google Flow video and image generation through a CLI or MCP server.
 
 **Best use cases**
 
-- connect AI agents to tools
-- ship Model Context Protocol servers
-- standardize integrations
+- Run scripted video and image generation
+- Prepare batch generation workflows
+- Connect a coding agent to the documented MCP server
 
-**Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
+**Integration notes:** Follow the upstream gflow-cli installation and MCP instructions. Use your own Google Flow session and available credits.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Upstream labels the project alpha and unofficial. Evaluate compatibility, account terms and credit usage before adoption; catalog inclusion does not establish production readiness.
 
 **Quality signals**
 
-- 111 GitHub stars
-- 32 forks
-- updated 2026-08-14
-- primary language: Python
-- 14 topics
+- Canonical upstream LICENSE is MIT
+- README documents CLI and MCP interfaces and identifies alpha status
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Unofficial and not affiliated with Google. Browser automation, account terms, changing Flow interfaces and credit charges require review.
 
 ## 🧮 Score breakdown
 

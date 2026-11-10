@@ -2,17 +2,17 @@
 
 [![Stars](https://img.shields.io/github/stars/sandbaseai/deepseek-harness-handbook?style=flat-square&color=yellow)](https://github.com/sandbaseai/deepseek-harness-handbook/stargazers) [![Forks](https://img.shields.io/github/forks/sandbaseai/deepseek-harness-handbook?style=flat-square&color=blue)](https://github.com/sandbaseai/deepseek-harness-handbook/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
-> Agent-first, English-canonical handbook for DeepSeek Harness with multilingual foundations, source-backed guides, and production runbooks.
+> Agent-first DeepSeek Harness handbook: 173 source-backed runtime, plugin, MCP, sandbox, evaluation, troubleshooting, multilingual, and 74-resource Awesome ecosystem guides.
 
 ## 📊 Stats
 
 | | |
 |---|---|
-| ⭐ **Stars** | 23 |
-| 🍴 **Forks** | 2 |
+| ⭐ **Stars** | 245 |
+| 🍴 **Forks** | 27 |
 | 💻 **Language** | HTML |
 | 📈 **Score** | 74/100 |
-| 🗓️ **Last push** | 2026-09-05 |
+| 🗓️ **Last push** | 2026-08-31 |
 | 🔍 **Source** | github |
 
 ## 🏷️ Topics

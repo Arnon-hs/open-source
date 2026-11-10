@@ -2,7 +2,7 @@
 
 > 
 
-**641 projects** in this category.
+**638 projects** in this category.
 
 ## Projects
 
@@ -130,7 +130,7 @@
 | 120 | [Chistogov/syncra](./chistogov-syncra.md) | ⭐ 1 | TypeScript | 67/100 |
 | 121 | [aquasecurity/trivy-operator](./aquasecurity-trivy-operator.md) | ⭐ 2k | Go | 67/100 |
 | 122 | [wal-g/wal-g](./wal-g-wal-g.md) | ⭐ 4.3k | Go | 67/100 |
-| 123 | [matsest/lazyazure](./matsest-lazyazure.md) | ⭐ 46 | Go | 67/100 |
+| 123 | [matsest/lazyazure](./matsest-lazyazure.md) | ⭐ 49 | Go | 67/100 |
 | 124 | [dotnet/orleans](./dotnet-orleans.md) | ⭐ 10.9k | C# | 67/100 |
 | 125 | [MarSeventh/CloudFlare-ImgBed](./marseventh-cloudflare-imgbed.md) | ⭐ 6.9k | JavaScript | 67/100 |
 | 126 | [Azure/static-web-apps-cli](./azure-static-web-apps-cli.md) | ⭐ 668 | TypeScript | 67/100 |
@@ -270,7 +270,7 @@
 | 260 | [Websoft9/websoft9](./websoft9-websoft9.md) | ⭐ 2.1k | Python | 62/100 |
 | 261 | [nats-io/nats.go](./nats-io-nats.go.md) | ⭐ 6.8k | Go | 62/100 |
 | 262 | [Mi-Bee-Studio/MiBeeNvr](./mi-bee-studio-mibeenvr.md) | ⭐ 192 | Go | 61/100 |
-| 263 | [chrislusf/seaweedfs](./chrislusf-seaweedfs.md) | ⭐ 40 | Go | 61/100 |
+| 263 | [chrislusf/seaweedfs](./chrislusf-seaweedfs.md) | ⭐ 45 | Go | 61/100 |
 | 264 | [aws-cloudformation/cfn-lint](./aws-cloudformation-cfn-lint.md) | ⭐ 2.6k | Python | 61/100 |
 | 265 | [pshenok/server-survival](./pshenok-server-survival.md) | ⭐ 6.5k | JavaScript | 61/100 |
 | 266 | [nanovms/ops](./nanovms-ops.md) | ⭐ 1.5k | Go | 61/100 |
@@ -545,8 +545,8 @@
 | 535 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ — | — | 45/100 |
 | 536 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ — | — | 45/100 |
 | 537 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 538 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
-| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 538 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
 | 540 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ — | — | 45/100 |
 | 541 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ — | — | 45/100 |
 | 542 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ — | — | 45/100 |
@@ -640,15 +640,12 @@
 | 630 | [bolt-earth/Berg](./bolt-earth-berg.md) | ⭐ — | — | 38/100 |
 | 631 | [floci-io/floci](./floci-io-floci.md) | ⭐ — | — | 38/100 |
 | 632 | [ciao22king/ShutChat](./ciao22king-shutchat.md) | ⭐ 1 | Kotlin | 37/100 |
-| 633 | [strands-ai/strands](./strands-ai-strands.md) | ⭐ — | — | 37/100 |
-| 634 | [aws/bedrock-agentcore](./aws-bedrock-agentcore.md) | ⭐ — | — | 37/100 |
-| 635 | [x-tahosin/groundstate](./x-tahosin-groundstate.md) | ⭐ — | JavaScript | 36/100 |
-| 636 | [psantus/aws-console-url](./psantus-aws-console-url.md) | ⭐ — | Shell | 36/100 |
-| 637 | [WalnutIcecream/Nomad](./walnuticecream-nomad.md) | ⭐ 1 | Python | 35/100 |
-| 638 | [aws/bedrock-strands](./aws-bedrock-strands.md) | ⭐ — | — | 33/100 |
-| 639 | [ballerina-platform/ballerina-standard-library](./ballerina-platform-ballerina-standard-library.md) | ⭐ — | — | 32/100 |
-| 640 | [pgsty/minio](./pgsty-minio.md) | ⭐ — | — | 29/100 |
-| 641 | [iandchasse/de-link](./iandchasse-de-link.md) | ⭐ — | — | 28/100 |
+| 633 | [x-tahosin/groundstate](./x-tahosin-groundstate.md) | ⭐ — | JavaScript | 36/100 |
+| 634 | [psantus/aws-console-url](./psantus-aws-console-url.md) | ⭐ — | Shell | 36/100 |
+| 635 | [WalnutIcecream/Nomad](./walnuticecream-nomad.md) | ⭐ 1 | Python | 35/100 |
+| 636 | [ballerina-platform/ballerina-standard-library](./ballerina-platform-ballerina-standard-library.md) | ⭐ — | — | 32/100 |
+| 637 | [pgsty/minio](./pgsty-minio.md) | ⭐ — | — | 29/100 |
+| 638 | [iandchasse/de-link](./iandchasse-de-link.md) | ⭐ — | — | 28/100 |
 
 ---
 

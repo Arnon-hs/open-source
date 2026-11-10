@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 51 |
-| 🍴 **Forks** | 32 |
+| ⭐ **Stars** | 54 |
+| 🍴 **Forks** | 33 |
 | 💻 **Language** | Nushell |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-05 |

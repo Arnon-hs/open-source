@@ -2,7 +2,7 @@
 
 > 
 
-**37 projects** in this category.
+**35 projects** in this category.
 
 ## Projects
 
@@ -24,27 +24,25 @@
 | 14 | [actix/examples](./actix-examples.md) | ⭐ 4k | Rust | 57/100 |
 | 15 | [galaxyproject/training-material](./galaxyproject-training-material.md) | ⭐ 368 | HTML | 57/100 |
 | 16 | [luxonis/oak-examples](./luxonis-oak-examples.md) | ⭐ 983 | Python | 56/100 |
-| 17 | [learning-rust/learning-rust.github.io](./learning-rust-learning-rust.github.io.md) | ⭐ 1.7k | Rust | 56/100 |
-| 18 | [dask/dask](./dask-dask.md) | ⭐ 13.9k | Python | 56/100 |
-| 19 | [UniTime/unitime](./unitime-unitime.md) | ⭐ 358 | Java | 55/100 |
-| 20 | [theislab/single-cell-best-practices](./theislab-single-cell-best-practices.md) | ⭐ 1.3k | Jupyter Notebook | 55/100 |
-| 21 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 551 | TypeScript | 55/100 |
-| 22 | [junit-team/junit-examples](./junit-team-junit-examples.md) | ⭐ 1.6k | Java | 54/100 |
-| 23 | [aio-libs/aiohttp-demos](./aio-libs-aiohttp-demos.md) | ⭐ 749 | Makefile | 54/100 |
-| 24 | [zigcc/zig-course](./zigcc-zig-course.md) | ⭐ 385 | Zig | 53/100 |
-| 25 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.2k | Vim Script | 50/100 |
-| 26 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 232 | Rust | 49/100 |
-| 27 | [AloisSeckar/demos-java](./aloisseckar-demos-java.md) | ⭐ 25 | Java | 48/100 |
-| 28 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 384 | Rust | 45/100 |
-| 29 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 439 | Mojo | 44/100 |
-| 30 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 263 | Rust | 44/100 |
-| 31 | [Jay-Naik2526/or-studio](./jay-naik2526-or-studio.md) | ⭐ — | TypeScript | 44/100 |
-| 32 | [yakshjethva/jvm-inside-out](./yakshjethva-jvm-inside-out.md) | ⭐ 2 | TypeScript | 44/100 |
-| 33 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 40/100 |
-| 34 | [mukul9116/fieldclass-ai](./mukul9116-fieldclass-ai.md) | ⭐ 1 | Python | 39/100 |
-| 35 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 34/100 |
-| 36 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 33/100 |
-| 37 | [sea-deep/gitquest](./sea-deep-gitquest.md) | ⭐ — | — | 27/100 |
+| 17 | [dask/dask](./dask-dask.md) | ⭐ 13.9k | Python | 56/100 |
+| 18 | [UniTime/unitime](./unitime-unitime.md) | ⭐ 358 | Java | 55/100 |
+| 19 | [theislab/single-cell-best-practices](./theislab-single-cell-best-practices.md) | ⭐ 1.3k | Jupyter Notebook | 55/100 |
+| 20 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 551 | TypeScript | 55/100 |
+| 21 | [junit-team/junit-examples](./junit-team-junit-examples.md) | ⭐ 1.6k | Java | 54/100 |
+| 22 | [aio-libs/aiohttp-demos](./aio-libs-aiohttp-demos.md) | ⭐ 749 | Makefile | 54/100 |
+| 23 | [zigcc/zig-course](./zigcc-zig-course.md) | ⭐ 385 | Zig | 53/100 |
+| 24 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.2k | Vim Script | 50/100 |
+| 25 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 232 | Rust | 49/100 |
+| 26 | [AloisSeckar/demos-java](./aloisseckar-demos-java.md) | ⭐ 25 | Java | 48/100 |
+| 27 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 384 | Rust | 45/100 |
+| 28 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 439 | Mojo | 44/100 |
+| 29 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 263 | Rust | 44/100 |
+| 30 | [Jay-Naik2526/or-studio](./jay-naik2526-or-studio.md) | ⭐ — | TypeScript | 44/100 |
+| 31 | [yakshjethva/jvm-inside-out](./yakshjethva-jvm-inside-out.md) | ⭐ 2 | TypeScript | 44/100 |
+| 32 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 40/100 |
+| 33 | [mukul9116/fieldclass-ai](./mukul9116-fieldclass-ai.md) | ⭐ 1 | Python | 39/100 |
+| 34 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 34/100 |
+| 35 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

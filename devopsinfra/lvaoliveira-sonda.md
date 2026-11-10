@@ -1,6 +1,6 @@
 # lvaoliveira/sonda
 
-[![Stars](https://img.shields.io/github/stars/lvaoliveira/sonda?style=flat-square&color=yellow)](https://github.com/lvaoliveira/sonda/stargazers) [![Forks](https://img.shields.io/github/forks/lvaoliveira/sonda?style=flat-square&color=blue)](https://github.com/lvaoliveira/sonda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lvaoliveira/sonda?style=flat-square&color=yellow)](https://github.com/lvaoliveira/sonda/stargazers) [![Forks](https://img.shields.io/github/forks/lvaoliveira/sonda?style=flat-square&color=blue)](https://github.com/lvaoliveira/sonda/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source static analysis and quality gates for JavaScript/TypeScript, Python, Java and C/C++
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -58,22 +58,22 @@ lvaoliveira/sonda：lvaoliveira/sonda helps make deployment and operations more 
 - primary language: Rust
 - 4 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 62/100 |
+| production | 60/100 |
+| outlook | 55/100 |
 | adoption | 14/100 |
 | categoryMatchCount | 100/100 |
 | stars | 19/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

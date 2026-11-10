@@ -2,7 +2,7 @@
 
 > 
 
-**585 projects** in this category.
+**584 projects** in this category.
 
 ## Projects
 
@@ -294,7 +294,7 @@
 | 284 | [overmind1980/oeasy-linux-tutorial](./overmind1980-oeasy-linux-tutorial.md) | ⭐ 99 | — | 51/100 |
 | 285 | [lhccong/fish-island-backend](./lhccong-fish-island-backend.md) | ⭐ 711 | Java | 51/100 |
 | 286 | [aoci-spec/aoci-code](./aoci-spec-aoci-code.md) | ⭐ 22 | Go | 51/100 |
-| 287 | [pgrundev/pgbot](./pgrundev-pgbot.md) | ⭐ 47 | Go | 51/100 |
+| 287 | [pgrundev/pgbot](./pgrundev-pgbot.md) | ⭐ 1.5k | Go | 51/100 |
 | 288 | [maxcountryman/underway](./maxcountryman-underway.md) | ⭐ 175 | Rust | 51/100 |
 | 289 | [EnterpriseDB/mysql_fdw](./enterprisedb-mysql-fdw.md) | ⭐ 600 | C | 51/100 |
 | 290 | [sraoss/pg_ivm](./sraoss-pg-ivm.md) | ⭐ 1.5k | C | 51/100 |
@@ -584,15 +584,14 @@
 | 574 | [soumya-narang/Plumbline](./soumya-narang-plumbline.md) | ⭐ — | Python | 38/100 |
 | 575 | [agnesoft/agdb](./agnesoft-agdb.md) | ⭐ 144 | Rust | 37/100 |
 | 576 | [JuanTorchia/formbricks](./juantorchia-formbricks.md) | ⭐ — | — | 36/100 |
-| 577 | [hypernexus/sqlite-vec](./hypernexus-sqlite-vec.md) | ⭐ — | — | 36/100 |
-| 578 | [rajpriyanid-creator/dogfood](./rajpriyanid-creator-dogfood.md) | ⭐ — | Python | 35/100 |
-| 579 | [Avi36005/DogFood-2026](./avi36005-dogfood-2026.md) | ⭐ — | TypeScript | 34/100 |
-| 580 | [kirbudilov01/telegramleadgenerator](./kirbudilov01-telegramleadgenerator.md) | ⭐ 1 | Python | 33/100 |
-| 581 | [o11ylite/o11ylite](./o11ylite-o11ylite.md) | ⭐ — | — | 28/100 |
-| 582 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 28/100 |
-| 583 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 28/100 |
-| 584 | [djc/askama](./djc-askama.md) | ⭐ — | — | 27/100 |
-| 585 | [mperham/sidekiq](./mperham-sidekiq.md) | ⭐ — | — | 27/100 |
+| 577 | [rajpriyanid-creator/dogfood](./rajpriyanid-creator-dogfood.md) | ⭐ — | Python | 35/100 |
+| 578 | [Avi36005/DogFood-2026](./avi36005-dogfood-2026.md) | ⭐ — | TypeScript | 34/100 |
+| 579 | [kirbudilov01/telegramleadgenerator](./kirbudilov01-telegramleadgenerator.md) | ⭐ 1 | Python | 33/100 |
+| 580 | [o11ylite/o11ylite](./o11ylite-o11ylite.md) | ⭐ — | — | 28/100 |
+| 581 | [xataio/xata](./xataio-xata.md) | ⭐ — | — | 28/100 |
+| 582 | [dventimisupabase/pg_flight_recorder](./dventimisupabase-pg-flight-recorder.md) | ⭐ — | — | 28/100 |
+| 583 | [djc/askama](./djc-askama.md) | ⭐ — | — | 27/100 |
+| 584 | [mperham/sidekiq](./mperham-sidekiq.md) | ⭐ — | — | 27/100 |
 
 ---
 

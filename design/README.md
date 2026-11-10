@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**197 projects** in this category.
+**195 projects** in this category.
 
 ## Projects
 
@@ -116,7 +116,7 @@
 | 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 554 | Python | 49/100 |
 | 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.1k | Ruby | 49/100 |
 | 108 | [pixel-point/toolcraft](./pixel-point-toolcraft.md) | ⭐ — | — | 48/100 |
-| 109 | [victorzhang016-code/victor-design](./victorzhang016-code-victor-design.md) | ⭐ 39 | JavaScript | 48/100 |
+| 109 | [victorzhang016-code/victor-design](./victorzhang016-code-victor-design.md) | ⭐ 71 | JavaScript | 48/100 |
 | 110 | [everfu/hexo-theme-solitude](./everfu-hexo-theme-solitude.md) | ⭐ 1.2k | Stylus | 48/100 |
 | 111 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 1.2k | JavaScript | 48/100 |
 | 112 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 592 | Python | 47/100 |
@@ -203,8 +203,6 @@
 | 193 | [boya16573-design/Cube3.in](./boya16573-design-cube3.in.md) | ⭐ — | HTML | 36/100 |
 | 194 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |
 | 195 | [paper-design/shaders](./paper-design-shaders.md) | ⭐ — | — | 29/100 |
-| 196 | [bors-community/bors](./bors-community-bors.md) | ⭐ — | — | 29/100 |
-| 197 | [fal-ai/moss-image](./fal-ai-moss-image.md) | ⭐ — | — | 27/100 |
 
 ---
 

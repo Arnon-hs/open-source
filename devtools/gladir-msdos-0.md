@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40 |
+| ⭐ **Stars** | 46 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Pascal |
 | 📈 **Score** | 49/100 |

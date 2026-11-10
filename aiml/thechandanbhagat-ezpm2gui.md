@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 35 |
+| ⭐ **Stars** | 36 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 67/100 |
@@ -53,7 +53,7 @@ thechandanbhagat/ezpm2gui：thechandanbhagat/ezpm2gui helps add AI capability wi
 
 **Quality signals**
 
-- 35 GitHub stars
+- 36 GitHub stars
 - 14 forks
 - updated 2026-11-09
 - primary language: TypeScript

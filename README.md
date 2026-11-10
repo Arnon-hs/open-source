@@ -2,8 +2,8 @@
 
 Find an open-source way to solve a task, compare practical fit, and give your coding agent a grounded starting point. Browse project cards here, search the [AtlasRepo website](https://atlasrepo.com), or use the same catalog through MCP and agent skills.
 
-- **Complete data:** 45,062 indexed projects in a downloadable JSON snapshot.
-- **Focused browsing:** 45,053 project cards across 32 categories with 10+ entries.
+- **Complete data:** 45,068 indexed projects in a downloadable JSON snapshot.
+- **Focused browsing:** 44,368 project cards across 32 categories with 10+ entries.
 - **Practical context:** multilingual summaries, use cases, integration notes, repository signals and score breakdowns.
 - **Open metadata:** MIT-licensed catalog data. Each linked project has its own license.
 
@@ -15,18 +15,18 @@ Start with a main category, then open a project card for its summary and evidenc
 
 | Category | Project cards |
 | --- | ---: |
-| [Misc](./misc/README.md) | 18,359 |
-| [AI/ML](./aiml/README.md) | 5,309 |
-| [MCP](./mcp/README.md) | 3,026 |
-| [Orchestration](./orchestration/README.md) | 2,505 |
-| [Automation](./automation/README.md) | 1,765 |
-| [DevTools](./devtools/README.md) | 1,656 |
-| [Backend](./backend/README.md) | 998 |
-| [Frontend](./frontend/README.md) | 940 |
-| [Crypto](./crypto/README.md) | 846 |
-| [Documents](./documents/README.md) | 755 |
-| [Mobile](./mobile/README.md) | 712 |
-| [Networking](./networking/README.md) | 681 |
+| [Misc](./misc/README.md) | 18,176 |
+| [AI/ML](./aiml/README.md) | 5,124 |
+| [MCP](./mcp/README.md) | 2,996 |
+| [Orchestration](./orchestration/README.md) | 2,484 |
+| [Automation](./automation/README.md) | 1,660 |
+| [DevTools](./devtools/README.md) | 1,645 |
+| [Backend](./backend/README.md) | 983 |
+| [Frontend](./frontend/README.md) | 933 |
+| [Crypto](./crypto/README.md) | 840 |
+| [Documents](./documents/README.md) | 751 |
+| [Mobile](./mobile/README.md) | 704 |
+| [Networking](./networking/README.md) | 676 |
 
 [Browse all categories alphabetically](./docs/categories.md)
 
@@ -47,7 +47,7 @@ Scores help shortlist candidates. They do not establish security, maintenance qu
 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | 8,543 | 91/100 |
 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | 6,732 | 91/100 |
 | [langgenius/dify](./orchestration/langgenius-dify.md) | 160,777 | 91/100 |
-| [zeromicro/go-zero](./aiml/zeromicro-go-zero.md) | 33,420 | 90/100 |
+| [firerpa/lamda](./mcp/firerpa-lamda.md) | 8,720 | 90/100 |
 
 ## Read the data
 
@@ -106,6 +106,8 @@ A score or AI-written summary is a discovery aid. Check the upstream repository,
 [Open an issue](https://github.com/Arnon-hs/open-source/issues/new) for an incorrect link, outdated record, missing project or category problem. Include the project URL, the affected card or category, what is wrong and a current source supporting the correction. Search [existing issues](https://github.com/Arnon-hs/open-source/issues) first.
 
 Generated content should be fixed in the exporter or source record so the next sync preserves the correction. Automation may prepare a proposed fix; an unverified report is not proof that a record should be changed.
+
+Owner-approved removals are excluded from current exports. Repositories confirmed unavailable on GitHub do not receive browsing cards; their status-marked records may remain in JSON for provenance.
 
 ## License
 

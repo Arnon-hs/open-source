@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37 |
-| 🍴 **Forks** | 9 |
+| ⭐ **Stars** | 38 |
+| 🍴 **Forks** | 12 |
 | 💻 **Language** | Haskell |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-05 |

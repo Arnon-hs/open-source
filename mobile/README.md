@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**712 projects** in this category.
+**704 projects** in this category.
 
 ## Projects
 
@@ -108,8 +108,8 @@
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.5k | Kotlin | 61/100 |
 | 99 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 648 | Kotlin | 61/100 |
 | 100 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 264 | Kotlin | 61/100 |
-| 101 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 956 | C++ | 61/100 |
-| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
+| 101 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
+| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 956 | C++ | 61/100 |
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 919 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13.1k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.7k | Kotlin | 61/100 |
@@ -253,7 +253,7 @@
 | 243 | [aleksey-saenko/MusicRecognizer](./aleksey-saenko-musicrecognizer.md) | ⭐ 1.2k | Kotlin | 56/100 |
 | 244 | [jahnli/awesome-flutter-plugins](./jahnli-awesome-flutter-plugins.md) | ⭐ 1.9k | — | 56/100 |
 | 245 | [neocanable/garlic](./neocanable-garlic.md) | ⭐ 889 | C | 56/100 |
-| 246 | [andrzejchm/fdb](./andrzejchm-fdb.md) | ⭐ 43 | Dart | 56/100 |
+| 246 | [andrzejchm/fdb](./andrzejchm-fdb.md) | ⭐ 46 | Dart | 56/100 |
 | 247 | [juliansteenbakker/mobile_scanner](./juliansteenbakker-mobile-scanner.md) | ⭐ 1.2k | Dart | 56/100 |
 | 248 | [fluttercandies/flutter_image_compress](./fluttercandies-flutter-image-compress.md) | ⭐ 691 | Dart | 56/100 |
 | 249 | [SimonSchubert/LinuxCommandLibrary](./simonschubert-linuxcommandlibrary.md) | ⭐ 2.1k | Kotlin | 56/100 |
@@ -441,7 +441,7 @@
 | 431 | [wordpress-mobile/WordPress-Android](./wordpress-mobile-wordpress-android.md) | ⭐ 3.2k | Kotlin | 50/100 |
 | 432 | [Dweep4269/sideraven](./dweep4269-sideraven.md) | ⭐ 156 | Kotlin | 49/100 |
 | 433 | [voicute/onnx-wakeword](./voicute-onnx-wakeword.md) | ⭐ 89 | C | 49/100 |
-| 434 | [latipun7/dotfiles](./latipun7-dotfiles.md) | ⭐ 40 | Shell | 49/100 |
+| 434 | [latipun7/dotfiles](./latipun7-dotfiles.md) | ⭐ 41 | Shell | 49/100 |
 | 435 | [bjzhou/PhotonCamera](./bjzhou-photoncamera.md) | ⭐ 642 | Kotlin | 49/100 |
 | 436 | [Kindness-Kismet/only_player](./kindness-kismet-only-player.md) | ⭐ 488 | Kotlin | 49/100 |
 | 437 | [frs0n/GestaltEdit](./frs0n-gestaltedit.md) | ⭐ 901 | Swift | 49/100 |
@@ -525,8 +525,8 @@
 | 515 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 519 | Java | 44/100 |
 | 516 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 548 | Kotlin | 44/100 |
 | 517 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 5 | Kotlin | 43/100 |
-| 518 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.1k | — | 43/100 |
-| 519 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 979 | — | 43/100 |
+| 518 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 979 | — | 43/100 |
+| 519 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.1k | — | 43/100 |
 | 520 | [kuscholar/iDeck](./kuscholar-ideck.md) | ⭐ 5 | C | 43/100 |
 | 521 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 1 | JavaScript | 43/100 |
 | 522 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 7 | Kotlin | 43/100 |
@@ -697,29 +697,21 @@
 | 687 | [cas8398/debugprint](./cas8398-debugprint.md) | ⭐ 1 | Kotlin | 37/100 |
 | 688 | [manalejandro/MiTension](./manalejandro-mitension.md) | ⭐ — | — | 37/100 |
 | 689 | [SN0VV0511/web-luodi](./sn0vv0511-web-luodi.md) | ⭐ 1 | HTML | 37/100 |
-| 690 | [onnx-community/Qwen2.5-0.5B-Instruct](./onnx-community-qwen2.5-0.5b-instruct.md) | ⭐ — | — | 37/100 |
-| 691 | [Hitarthbhatt/mergeable-libraries-demo](./hitarthbhatt-mergeable-libraries-demo.md) | ⭐ — | Swift | 36/100 |
-| 692 | [wuxudong/react-native-chart-kit](./wuxudong-react-native-chart-kit.md) | ⭐ — | — | 36/100 |
-| 693 | [lunarr-app/vlc-player](./lunarr-app-vlc-player.md) | ⭐ — | — | 36/100 |
-| 694 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 36/100 |
-| 695 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 36/100 |
-| 696 | [afeemuhammodwafy1/doseleaf](./afeemuhammodwafy1-doseleaf.md) | ⭐ — | Kotlin | 34/100 |
-| 697 | [parth-lightning/HacktoberFest-Week-2](./parth-lightning-hacktoberfest-week-2.md) | ⭐ — | Dart | 34/100 |
-| 698 | [arshbuilds/hf26week1](./arshbuilds-hf26week1.md) | ⭐ — | TypeScript | 34/100 |
-| 699 | [phphone/phphone](./phphone-phphone.md) | ⭐ 3 | Objective-C | 34/100 |
-| 700 | [muvatec/switch-phone-aa](./muvatec-switch-phone-aa.md) | ⭐ — | Kotlin | 33/100 |
-| 701 | [pkarr/pkarr](./pkarr-pkarr.md) | ⭐ — | — | 33/100 |
-| 702 | [Divyansh0208/Tuft](./divyansh0208-tuft.md) | ⭐ — | HTML | 33/100 |
-| 703 | [karpathy/tinyllm](./karpathy-tinyllm.md) | ⭐ — | — | 33/100 |
-| 704 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ — | — | 32/100 |
-| 705 | [GoogleCloudPlatform/tabular-predictive-models](./googlecloudplatform-tabular-predictive-models.md) | ⭐ — | — | 32/100 |
-| 706 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 30/100 |
-| 707 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
-| 708 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
-| 709 | [cactus-compute/whistle](./cactus-compute-whistle.md) | ⭐ — | — | 27/100 |
-| 710 | [stanfordmlgroup/TabPFN](./stanfordmlgroup-tabpfn.md) | ⭐ — | — | 27/100 |
-| 711 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 27/100 |
-| 712 | [termish/herdr](./termish-herdr.md) | ⭐ — | — | 27/100 |
+| 690 | [Hitarthbhatt/mergeable-libraries-demo](./hitarthbhatt-mergeable-libraries-demo.md) | ⭐ — | Swift | 36/100 |
+| 691 | [lunarr-app/vlc-player](./lunarr-app-vlc-player.md) | ⭐ — | — | 36/100 |
+| 692 | [jossephus/chuchu](./jossephus-chuchu.md) | ⭐ — | — | 36/100 |
+| 693 | [jsteinshouer/trail-bingo](./jsteinshouer-trail-bingo.md) | ⭐ — | TypeScript | 36/100 |
+| 694 | [afeemuhammodwafy1/doseleaf](./afeemuhammodwafy1-doseleaf.md) | ⭐ — | Kotlin | 34/100 |
+| 695 | [parth-lightning/HacktoberFest-Week-2](./parth-lightning-hacktoberfest-week-2.md) | ⭐ — | Dart | 34/100 |
+| 696 | [arshbuilds/hf26week1](./arshbuilds-hf26week1.md) | ⭐ — | TypeScript | 34/100 |
+| 697 | [phphone/phphone](./phphone-phphone.md) | ⭐ 3 | Objective-C | 34/100 |
+| 698 | [muvatec/switch-phone-aa](./muvatec-switch-phone-aa.md) | ⭐ — | Kotlin | 33/100 |
+| 699 | [Divyansh0208/Tuft](./divyansh0208-tuft.md) | ⭐ — | HTML | 33/100 |
+| 700 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ — | — | 32/100 |
+| 701 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 30/100 |
+| 702 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
+| 703 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 704 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 27/100 |
 
 ---
 

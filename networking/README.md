@@ -2,7 +2,7 @@
 
 > 
 
-**681 projects** in this category.
+**676 projects** in this category.
 
 ## Projects
 
@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 774 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 563 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
-| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.3k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -682,13 +682,8 @@
 | 672 | [mmalmi/nostr-vpn](./mmalmi-nostr-vpn.md) | ⭐ 1.2k | Rust | 37/100 |
 | 673 | [Open-J-Proxy/ojp](./open-j-proxy-ojp.md) | ⭐ 242 | Java | 37/100 |
 | 674 | [FardeenSayyed/NetShield](./fardeensayyed-netshield.md) | ⭐ — | Kotlin | 36/100 |
-| 675 | [jasonmayes/file-proxy-cache](./jasonmayes-file-proxy-cache.md) | ⭐ — | — | 36/100 |
-| 676 | [andrew-d/rrsync](./andrew-d-rrsync.md) | ⭐ — | — | 36/100 |
-| 677 | [adw0rd/instagrapi](./adw0rd-instagrapi.md) | ⭐ — | — | 35/100 |
-| 678 | [cdr/code-server](./cdr-code-server.md) | ⭐ — | — | 33/100 |
-| 679 | [wixtoolset/wintun](./wixtoolset-wintun.md) | ⭐ — | — | 33/100 |
-| 680 | [shifrom/shifrom-android](./shifrom-shifrom-android.md) | ⭐ — | — | 29/100 |
-| 681 | [XTLS/Xray](./xtls-xray.md) | ⭐ — | — | 27/100 |
+| 675 | [adw0rd/instagrapi](./adw0rd-instagrapi.md) | ⭐ — | — | 35/100 |
+| 676 | [cdr/code-server](./cdr-code-server.md) | ⭐ — | — | 33/100 |
 
 ---
 

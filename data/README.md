@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**367 projects** in this category.
+**360 projects** in this category.
 
 ## Projects
 
@@ -366,15 +366,8 @@
 | 356 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ — | — | 38/100 |
 | 357 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ — | — | 38/100 |
 | 358 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
-| 359 | [sensorflow/sensorflow](./sensorflow-sensorflow.md) | ⭐ — | — | 35/100 |
-| 360 | [username/born-somewhere](./username-born-somewhere.md) | ⭐ — | — | 33/100 |
-| 361 | [Nidhi-bhai/backtestcard](./nidhi-bhai-backtestcard.md) | ⭐ — | HTML | 33/100 |
-| 362 | [vinamraa05/Recaller-Study](./vinamraa05-recaller-study.md) | ⭐ — | JavaScript | 32/100 |
-| 363 | [makaminski1337/analysis-engine](./makaminski1337-analysis-engine.md) | ⭐ — | — | 30/100 |
-| 364 | [sbintuitions/modernbert-ja-310m](./sbintuitions-modernbert-ja-310m.md) | ⭐ — | — | 28/100 |
-| 365 | [yourrepo/pyxis](./yourrepo-pyxis.md) | ⭐ — | — | 27/100 |
-| 366 | [openai/CodeXGLUE](./openai-codexglue.md) | ⭐ — | — | 27/100 |
-| 367 | [atlasdb/atlas](./atlasdb-atlas.md) | ⭐ — | — | 27/100 |
+| 359 | [Nidhi-bhai/backtestcard](./nidhi-bhai-backtestcard.md) | ⭐ — | HTML | 33/100 |
+| 360 | [vinamraa05/Recaller-Study](./vinamraa05-recaller-study.md) | ⭐ — | JavaScript | 32/100 |
 
 ---
 

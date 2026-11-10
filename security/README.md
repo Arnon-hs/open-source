@@ -2,7 +2,7 @@
 
 > Security, auth, encryption, privacy
 
-**519 projects** in this category.
+**501 projects** in this category.
 
 ## Projects
 
@@ -227,8 +227,8 @@
 | 217 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 360 | Java | 53/100 |
 | 218 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 580 | Nix | 53/100 |
 | 219 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 452 | TypeScript | 53/100 |
-| 220 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 137 | Rust | 53/100 |
-| 221 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
+| 220 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
+| 221 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 137 | Rust | 53/100 |
 | 222 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 223 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 594 | C | 53/100 |
 | 224 | [tkhq/qos](./tkhq-qos.md) | ⭐ 125 | Rust | 53/100 |
@@ -275,8 +275,8 @@
 | 265 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 266 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 136 | Rust | 50/100 |
 | 267 | [berat/releasehub](./berat-releasehub.md) | ⭐ — | — | 50/100 |
-| 268 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 269 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 268 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 269 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 270 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 271 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 530 | JavaScript | 50/100 |
 | 272 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 50/100 |
@@ -382,8 +382,8 @@
 | 372 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ — | — | 42/100 |
 | 373 | [barvhaim/code-security-skills](./barvhaim-code-security-skills.md) | ⭐ — | — | 42/100 |
 | 374 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ — | — | 42/100 |
-| 375 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
-| 376 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 42/100 |
+| 375 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ — | — | 42/100 |
+| 376 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
 | 377 | [arm/metis](./arm-metis.md) | ⭐ — | — | 42/100 |
 | 378 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 42/100 |
 | 379 | [renton4code/propagate-cli](./renton4code-propagate-cli.md) | ⭐ — | — | 42/100 |
@@ -497,36 +497,18 @@
 | 487 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ — | — | 37/100 |
 | 488 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
 | 489 | [jaredhanson/passport](./jaredhanson-passport.md) | ⭐ — | — | 37/100 |
-| 490 | [huggingface/bitsandbytes](./huggingface-bitsandbytes.md) | ⭐ — | — | 37/100 |
-| 491 | [karpathy/magika](./karpathy-magika.md) | ⭐ — | — | 37/100 |
-| 492 | [wrium/password-strength](./wrium-password-strength.md) | ⭐ — | JavaScript | 37/100 |
-| 493 | [IWEBai/railo-action](./iwebai-railo-action.md) | ⭐ — | — | 36/100 |
-| 494 | [Tetra4ge/GitHygiene](./tetra4ge-githygiene.md) | ⭐ — | JavaScript | 36/100 |
-| 495 | [shark-auth/shark](./shark-auth-shark.md) | ⭐ — | — | 36/100 |
-| 496 | [dylanXM/litellm-check](./dylanxm-litellm-check.md) | ⭐ — | Python | 35/100 |
-| 497 | [maschiojv/tm-anon](./maschiojv-tm-anon.md) | ⭐ — | — | 35/100 |
-| 498 | [pradeepsng30/vanishshare-sec](./pradeepsng30-vanishshare-sec.md) | ⭐ 1 | — | 34/100 |
-| 499 | [Agata-Proxima/proxima-engine](./agata-proxima-proxima-engine.md) | ⭐ — | Rust | 34/100 |
-| 500 | [yourrepo/claude-code](./yourrepo-claude-code.md) | ⭐ — | — | 34/100 |
-| 501 | [asadani/decision-firewall](./asadani-decision-firewall.md) | ⭐ — | Python | 33/100 |
-| 502 | [lobechat/lobechat](./lobechat-lobechat.md) | ⭐ — | — | 32/100 |
-| 503 | [Mi-Bee-Studio/MiBeeVision](./mi-bee-studio-mibeevision.md) | ⭐ — | — | 32/100 |
-| 504 | [vercel/nixpacks](./vercel-nixpacks.md) | ⭐ — | — | 32/100 |
-| 505 | [vemarun/Laravel-Steam-Trade-Manager](./vemarun-laravel-steam-trade-manager.md) | ⭐ 3 | PHP | 31/100 |
-| 506 | [jhkchan/owasp-ast10-agent-skills](./jhkchan-owasp-ast10-agent-skills.md) | ⭐ — | — | 31/100 |
-| 507 | [MASHHOOD2019/secure-vault](./mashhood2019-secure-vault.md) | ⭐ — | — | 30/100 |
-| 508 | [slimimage/slimimage](./slimimage-slimimage.md) | ⭐ — | — | 30/100 |
-| 509 | [crazymax/diun](./crazymax-diun.md) | ⭐ — | — | 30/100 |
-| 510 | [GenAmed/busfactor](./genamed-busfactor.md) | ⭐ — | JavaScript | 30/100 |
-| 511 | [damianhunziker/Wordpress-security-check](./damianhunziker-wordpress-security-check.md) | ⭐ — | Python | 30/100 |
-| 512 | [kotauth/kotauth](./kotauth-kotauth.md) | ⭐ — | — | 28/100 |
-| 513 | [leanzero/sentinel-vault](./leanzero-sentinel-vault.md) | ⭐ — | — | 28/100 |
-| 514 | [microsoft/azqr](./microsoft-azqr.md) | ⭐ — | — | 27/100 |
-| 515 | [neo4j/falkordb](./neo4j-falkordb.md) | ⭐ — | — | 27/100 |
-| 516 | [stephane/libsnap7](./stephane-libsnap7.md) | ⭐ — | — | 27/100 |
-| 517 | [openclaw-ai/openclaw](./openclaw-ai-openclaw.md) | ⭐ — | — | 27/100 |
-| 518 | [off-grid-ai/browser-extension](./off-grid-ai-browser-extension.md) | ⭐ — | — | 26/100 |
-| 519 | [owner/repo](./owner-repo.md) | ⭐ — | — | 26/100 |
+| 490 | [wrium/password-strength](./wrium-password-strength.md) | ⭐ — | JavaScript | 37/100 |
+| 491 | [IWEBai/railo-action](./iwebai-railo-action.md) | ⭐ — | — | 36/100 |
+| 492 | [Tetra4ge/GitHygiene](./tetra4ge-githygiene.md) | ⭐ — | JavaScript | 36/100 |
+| 493 | [shark-auth/shark](./shark-auth-shark.md) | ⭐ — | — | 36/100 |
+| 494 | [dylanXM/litellm-check](./dylanxm-litellm-check.md) | ⭐ — | Python | 35/100 |
+| 495 | [pradeepsng30/vanishshare-sec](./pradeepsng30-vanishshare-sec.md) | ⭐ 1 | — | 34/100 |
+| 496 | [Agata-Proxima/proxima-engine](./agata-proxima-proxima-engine.md) | ⭐ — | Rust | 34/100 |
+| 497 | [asadani/decision-firewall](./asadani-decision-firewall.md) | ⭐ — | Python | 33/100 |
+| 498 | [vemarun/Laravel-Steam-Trade-Manager](./vemarun-laravel-steam-trade-manager.md) | ⭐ 3 | PHP | 31/100 |
+| 499 | [jhkchan/owasp-ast10-agent-skills](./jhkchan-owasp-ast10-agent-skills.md) | ⭐ — | — | 31/100 |
+| 500 | [GenAmed/busfactor](./genamed-busfactor.md) | ⭐ — | JavaScript | 30/100 |
+| 501 | [damianhunziker/Wordpress-security-check](./damianhunziker-wordpress-security-check.md) | ⭐ — | Python | 30/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # sarathsp06/sparrow
 
-[![Stars](https://img.shields.io/github/stars/sarathsp06/sparrow?style=flat-square&color=yellow)](https://github.com/sarathsp06/sparrow/stargazers) [![Forks](https://img.shields.io/github/forks/sarathsp06/sparrow?style=flat-square&color=blue)](https://github.com/sarathsp06/sparrow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sarathsp06/sparrow?style=flat-square&color=yellow)](https://github.com/sarathsp06/sparrow/stargazers) [![Forks](https://img.shields.io/github/forks/sarathsp06/sparrow?style=flat-square&color=blue)](https://github.com/sarathsp06/sparrow/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted webhook delivery platform with async fan-out, HMAC signing, Go-template payload transforms, and automatic retries
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 37 |
-| 🍴 **Forks** | 2 |
+| ⭐ **Stars** | 48 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -53,8 +53,8 @@ sarathsp06/sparrow：sarathsp06/sparrow helps teams reuse working workflows and 
 
 **Quality signals**
 
-- 37 GitHub stars
-- 2 forks
+- 48 GitHub stars
+- 5 forks
 - updated 2026-11-03
 - primary language: Go
 - 13 topics
@@ -66,14 +66,14 @@ sarathsp06/sparrow：sarathsp06/sparrow helps teams reuse working workflows and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 58/100 |
+| quality | 60/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 67/100 |
-| adoption | 28/100 |
+| production | 64/100 |
+| outlook | 68/100 |
+| adoption | 31/100 |
 | categoryMatchCount | 300/100 |
-| stars | 34/100 |
-| forks | 12/100 |
+| stars | 36/100 |
+| forks | 19/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

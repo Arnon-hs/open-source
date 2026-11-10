@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 45 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 46 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | Clojure |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-05 |
