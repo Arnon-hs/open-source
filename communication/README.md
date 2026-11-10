@@ -220,7 +220,7 @@
 | 210 | [dbt-labs/dbt-core](./dbt-labs-dbt-core.md) | ⭐ 12.7k | Python | 56/100 |
 | 211 | [deltachat/deltachat-desktop](./deltachat-deltachat-desktop.md) | ⭐ 1.6k | TypeScript | 56/100 |
 | 212 | [Vizards/deepseek-v4-for-copilot](./vizards-deepseek-v4-for-copilot.md) | ⭐ 1.5k | TypeScript | 55/100 |
-| 213 | [mautrix/slack](./mautrix-slack.md) | ⭐ 101 | Go | 55/100 |
+| 213 | [mautrix/slack](./mautrix-slack.md) | ⭐ 107 | Go | 55/100 |
 | 214 | [allegro/hermes](./allegro-hermes.md) | ⭐ 872 | Java | 55/100 |
 | 215 | [morgan3d/markdeep](./morgan3d-markdeep.md) | ⭐ 644 | JavaScript | 55/100 |
 | 216 | [sebbo2002/ical-generator](./sebbo2002-ical-generator.md) | ⭐ 858 | TypeScript | 55/100 |
@@ -231,7 +231,7 @@
 | 221 | [Sharkord/sharkord](./sharkord-sharkord.md) | ⭐ 1.6k | TypeScript | 55/100 |
 | 222 | [jerryxff26-alt/dsh-delivery-board](./jerryxff26-alt-dsh-delivery-board.md) | ⭐ 4 | JavaScript | 54/100 |
 | 223 | [codeswithroh/baad-mein](./codeswithroh-baad-mein.md) | ⭐ — | TypeScript | 54/100 |
-| 224 | [NextOSP/comail](./nextosp-comail.md) | ⭐ 104 | Rust | 54/100 |
+| 224 | [NextOSP/comail](./nextosp-comail.md) | ⭐ 124 | Rust | 54/100 |
 | 225 | [swoosh/swoosh](./swoosh-swoosh.md) | ⭐ 1.5k | Elixir | 54/100 |
 | 226 | [Blaizzy/nativ](./blaizzy-nativ.md) | ⭐ 2 | Swift | 54/100 |
 | 227 | [tweedegolf/mailcrab](./tweedegolf-mailcrab.md) | ⭐ 1k | Rust | 54/100 |
@@ -245,7 +245,7 @@
 | 235 | [DomaCKBO3H9K/chatstyle](./domackbo3h9k-chatstyle.md) | ⭐ 1 | Python | 53/100 |
 | 236 | [swiftkit-dev/website-tech-stack-detector](./swiftkit-dev-website-tech-stack-detector.md) | ⭐ — | JavaScript | 53/100 |
 | 237 | [xiaowu0162/LongMemEval](./xiaowu0162-longmemeval.md) | ⭐ 1.2k | Python | 53/100 |
-| 238 | [stalwartlabs/mail-auth](./stalwartlabs-mail-auth.md) | ⭐ 121 | Rust | 53/100 |
+| 238 | [stalwartlabs/mail-auth](./stalwartlabs-mail-auth.md) | ⭐ 129 | Rust | 53/100 |
 | 239 | [pydantic/ai-chat-ui](./pydantic-ai-chat-ui.md) | ⭐ 55 | TypeScript | 53/100 |
 | 240 | [hadashiA/VitalRouter](./hadashia-vitalrouter.md) | ⭐ 370 | C# | 53/100 |
 | 241 | [aree6/LiftShift](./aree6-liftshift.md) | ⭐ 526 | TypeScript | 53/100 |
@@ -295,8 +295,8 @@
 | 285 | [d99kris/nmail](./d99kris-nmail.md) | ⭐ — | — | 48/100 |
 | 286 | [roman-16/proton-cli](./roman-16-proton-cli.md) | ⭐ — | — | 48/100 |
 | 287 | [joshumax/git2imap](./joshumax-git2imap.md) | ⭐ — | — | 48/100 |
-| 288 | [slackhq/hakana](./slackhq-hakana.md) | ⭐ 107 | Rust | 48/100 |
-| 289 | [trougnouf/cfait](./trougnouf-cfait.md) | ⭐ 113 | Rust | 48/100 |
+| 288 | [slackhq/hakana](./slackhq-hakana.md) | ⭐ 110 | Rust | 48/100 |
+| 289 | [trougnouf/cfait](./trougnouf-cfait.md) | ⭐ 210 | Rust | 48/100 |
 | 290 | [agntcy/slim](./agntcy-slim.md) | ⭐ 233 | Rust | 48/100 |
 | 291 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 468 | Swift | 48/100 |
 | 292 | [awebai/aweb](./awebai-aweb.md) | ⭐ 51 | Go | 48/100 |
@@ -436,7 +436,7 @@
 | 426 | [MihaiMotoi/SifEdge](./mihaimotoi-sifedge.md) | ⭐ — | JavaScript | 39/100 |
 | 427 | [ulofiai/ulofi-alias](./ulofiai-ulofi-alias.md) | ⭐ — | — | 39/100 |
 | 428 | [Anmol-Baranwal/hndigest](./anmol-baranwal-hndigest.md) | ⭐ — | — | 39/100 |
-| 429 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 108 | Rust | 39/100 |
+| 429 | [xmtp/libxmtp](./xmtp-libxmtp.md) | ⭐ 127 | Rust | 39/100 |
 | 430 | [sebklaey/openos-momo-ai](./sebklaey-openos-momo-ai.md) | ⭐ — | JavaScript | 39/100 |
 | 431 | [pytopia/project-telegram-statistics](./pytopia-project-telegram-statistics.md) | ⭐ 23 | Python | 38/100 |
 | 432 | [cod3rboy/docchat](./cod3rboy-docchat.md) | ⭐ — | — | 38/100 |

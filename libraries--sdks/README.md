@@ -46,7 +46,7 @@
 | 36 | [livekit/client-sdk-flutter](./livekit-client-sdk-flutter.md) | ⭐ 422 | Dart | 68/100 |
 | 37 | [chanxuehong/wechat](./chanxuehong-wechat.md) | ⭐ 2.7k | Go | 68/100 |
 | 38 | [donmccurdy/glTF-Transform](./donmccurdy-gltf-transform.md) | ⭐ 2.1k | TypeScript | 68/100 |
-| 39 | [pragma-org/amaru](./pragma-org-amaru.md) | ⭐ 103 | Rust | 68/100 |
+| 39 | [pragma-org/amaru](./pragma-org-amaru.md) | ⭐ 119 | Rust | 68/100 |
 | 40 | [coinbase/mesh-sdk-go](./coinbase-mesh-sdk-go.md) | ⭐ 200 | Go | 68/100 |
 | 41 | [google/digitalbuildings](./google-digitalbuildings.md) | ⭐ 467 | Python | 68/100 |
 | 42 | [longbridge/openapi](./longbridge-openapi.md) | ⭐ 468 | Rust | 68/100 |
@@ -75,7 +75,7 @@
 | 65 | [bnb-chain/bnbagent-sdk](./bnb-chain-bnbagent-sdk.md) | ⭐ 53 | Python | 65/100 |
 | 66 | [openai/openai-ruby](./openai-openai-ruby.md) | ⭐ 475 | Ruby | 65/100 |
 | 67 | [GitLiveApp/firebase-kotlin-sdk](./gitliveapp-firebase-kotlin-sdk.md) | ⭐ 1.7k | Kotlin | 65/100 |
-| 68 | [Goldziher/spikard](./goldziher-spikard.md) | ⭐ 105 | Rust | 65/100 |
+| 68 | [Goldziher/spikard](./goldziher-spikard.md) | ⭐ 123 | Rust | 65/100 |
 | 69 | [godotengine/godot-cpp](./godotengine-godot-cpp.md) | ⭐ 2.8k | C++ | 65/100 |
 | 70 | [BitGo/BitGoJS](./bitgo-bitgojs.md) | ⭐ 396 | TypeScript | 65/100 |
 | 71 | [nix-rust/nix](./nix-rust-nix.md) | ⭐ 3.1k | Rust | 65/100 |
@@ -150,7 +150,7 @@
 | 140 | [pygobject/pycairo](./pygobject-pycairo.md) | ⭐ 701 | C | 59/100 |
 | 141 | [ceph/go-ceph](./ceph-go-ceph.md) | ⭐ 695 | Go | 59/100 |
 | 142 | [mpi4py/mpi4py](./mpi4py-mpi4py.md) | ⭐ 933 | Python | 59/100 |
-| 143 | [databento/databento-rs](./databento-databento-rs.md) | ⭐ 102 | Rust | 59/100 |
+| 143 | [databento/databento-rs](./databento-databento-rs.md) | ⭐ 108 | Rust | 59/100 |
 | 144 | [moetayuko/openwrt-passwall-build](./moetayuko-openwrt-passwall-build.md) | ⭐ 537 | — | 59/100 |
 | 145 | [mlua-rs/mlua](./mlua-rs-mlua.md) | ⭐ 2.9k | Rust | 59/100 |
 | 146 | [fish2018/webhtv](./fish2018-webhtv.md) | ⭐ 683 | Java | 59/100 |
@@ -162,14 +162,14 @@
 | 152 | [saddam213/AmuseAI](./saddam213-amuseai.md) | ⭐ 663 | C# | 58/100 |
 | 153 | [gtk-rs/gtk4-rs](./gtk-rs-gtk4-rs.md) | ⭐ 2.4k | Rust | 58/100 |
 | 154 | [rust-nvml/nvml-wrapper](./rust-nvml-nvml-wrapper.md) | ⭐ 215 | Rust | 58/100 |
-| 155 | [habedi/graphina](./habedi-graphina.md) | ⭐ 117 | Rust | 58/100 |
+| 155 | [habedi/graphina](./habedi-graphina.md) | ⭐ 130 | Rust | 58/100 |
 | 156 | [dapr/java-sdk](./dapr-java-sdk.md) | ⭐ 301 | Java | 58/100 |
 | 157 | [alchemyplatform/aa-sdk](./alchemyplatform-aa-sdk.md) | ⭐ 323 | TypeScript | 58/100 |
 | 158 | [tadfisher/android-nixpkgs](./tadfisher-android-nixpkgs.md) | ⭐ 435 | Nix | 57/100 |
 | 159 | [rust-lang/rust-bindgen](./rust-lang-rust-bindgen.md) | ⭐ 5.3k | Rust | 57/100 |
 | 160 | [stellar/rs-soroban-sdk](./stellar-rs-soroban-sdk.md) | ⭐ 210 | Rust | 57/100 |
 | 161 | [esp-rs/esp-idf-sys](./esp-rs-esp-idf-sys.md) | ⭐ 405 | Rust | 57/100 |
-| 162 | [bitwarden/sdk-internal](./bitwarden-sdk-internal.md) | ⭐ 103 | Rust | 57/100 |
+| 162 | [bitwarden/sdk-internal](./bitwarden-sdk-internal.md) | ⭐ 117 | Rust | 57/100 |
 | 163 | [apache/avro-rs](./apache-avro-rs.md) | ⭐ 132 | Rust | 57/100 |
 | 164 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 453 | Kotlin | 57/100 |
 | 165 | [kubernetes-client/java](./kubernetes-client-java.md) | ⭐ 4k | Java | 57/100 |
@@ -194,7 +194,7 @@
 | 184 | [rust-openssl/rust-openssl](./rust-openssl-rust-openssl.md) | ⭐ 1.6k | Rust | 54/100 |
 | 185 | [frida/frida-core](./frida-frida-core.md) | ⭐ 789 | Vala | 54/100 |
 | 186 | [sdroege/gstreamer-rs](./sdroege-gstreamer-rs.md) | ⭐ 595 | Rust | 54/100 |
-| 187 | [restsend/restsend-rs](./restsend-restsend-rs.md) | ⭐ 123 | Rust | 54/100 |
+| 187 | [restsend/restsend-rs](./restsend-restsend-rs.md) | ⭐ 143 | Rust | 54/100 |
 | 188 | [google/crubit](./google-crubit.md) | ⭐ 1.1k | C++ | 54/100 |
 | 189 | [kubernetes-client/csharp](./kubernetes-client-csharp.md) | ⭐ 1.2k | C# | 54/100 |
 | 190 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 473 | Swift | 54/100 |
@@ -211,8 +211,8 @@
 | 201 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.5k | Kotlin | 53/100 |
 | 202 | [snowtech738-byte/auria-chain](./snowtech738-byte-auria-chain.md) | ⭐ — | — | 52/100 |
 | 203 | [meta-models/muse-code-sdk](./meta-models-muse-code-sdk.md) | ⭐ 27 | TypeScript | 52/100 |
-| 204 | [stepfunc/rodbus](./stepfunc-rodbus.md) | ⭐ 108 | Rust | 52/100 |
-| 205 | [apache/datasketches-rust](./apache-datasketches-rust.md) | ⭐ 102 | Rust | 52/100 |
+| 204 | [stepfunc/rodbus](./stepfunc-rodbus.md) | ⭐ 111 | Rust | 52/100 |
+| 205 | [apache/datasketches-rust](./apache-datasketches-rust.md) | ⭐ 142 | Rust | 52/100 |
 | 206 | [tensorflow/java](./tensorflow-java.md) | ⭐ 925 | Java | 52/100 |
 | 207 | [apple/pkl-go](./apple-pkl-go.md) | ⭐ 336 | Go | 52/100 |
 | 208 | [pola-rs/r-polars](./pola-rs-r-polars.md) | ⭐ 577 | R | 52/100 |
@@ -237,7 +237,7 @@
 | 227 | [tari/llvm-sys.rs](./tari-llvm-sys.rs.md) | ⭐ 235 | Rust | 50/100 |
 | 228 | [ruby-gnome/ruby-gnome](./ruby-gnome-ruby-gnome.md) | ⭐ 404 | Ruby | 50/100 |
 | 229 | [rust-x-bindings/rust-xcb](./rust-x-bindings-rust-xcb.md) | ⭐ 168 | Rust | 50/100 |
-| 230 | [ada-url/rust](./ada-url-rust.md) | ⭐ 115 | Rust | 50/100 |
+| 230 | [ada-url/rust](./ada-url-rust.md) | ⭐ 123 | Rust | 50/100 |
 | 231 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 907 | Rust | 50/100 |
 | 232 | [nrfconnect/sdk-zephyr](./nrfconnect-sdk-zephyr.md) | ⭐ 443 | C | 50/100 |
 | 233 | [gakonst/nanocodex](./gakonst-nanocodex.md) | ⭐ — | — | 49/100 |
@@ -258,10 +258,10 @@
 | 248 | [ChristopherDond/9router-python](./christopherdond-9router-python.md) | ⭐ — | — | 48/100 |
 | 249 | [jmisilo/imessage-sdk](./jmisilo-imessage-sdk.md) | ⭐ — | — | 48/100 |
 | 250 | [lyfeninja/lyfeninja_blkseal_python_sdk](./lyfeninja-lyfeninja-blkseal-python-sdk.md) | ⭐ — | — | 48/100 |
-| 251 | [georust/netcdf](./georust-netcdf.md) | ⭐ 102 | Rust | 47/100 |
+| 251 | [georust/netcdf](./georust-netcdf.md) | ⭐ 106 | Rust | 47/100 |
 | 252 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 47/100 |
 | 253 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 5.1k | Rust | 47/100 |
-| 254 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 120 | Rust | 46/100 |
+| 254 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 124 | Rust | 46/100 |
 | 255 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.6k | Rust | 46/100 |
 | 256 | [voxgig/aontu](./voxgig-aontu.md) | ⭐ — | — | 46/100 |
 | 257 | [sandrpod/sandrpod](./sandrpod-sandrpod.md) | ⭐ — | — | 45/100 |

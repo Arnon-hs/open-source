@@ -154,7 +154,7 @@
 | 144 | [faust-streaming/faust](./faust-streaming-faust.md) | ⭐ 1.9k | Python | 59/100 |
 | 145 | [blnkfinance/blnk](./blnkfinance-blnk.md) | ⭐ 589 | Go | 59/100 |
 | 146 | [ridgepole/ridgepole](./ridgepole-ridgepole.md) | ⭐ 1.1k | Ruby | 59/100 |
-| 147 | [pandorafuture/wx-cli](./pandorafuture-wx-cli.md) | ⭐ 106 | Rust | 59/100 |
+| 147 | [pandorafuture/wx-cli](./pandorafuture-wx-cli.md) | ⭐ 1k | Rust | 59/100 |
 | 148 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 1.3k | Rust | 59/100 |
 | 149 | [ctripcorp/x-pipe](./ctripcorp-x-pipe.md) | ⭐ 2.1k | Java | 59/100 |
 | 150 | [fjall-rs/lsm-tree](./fjall-rs-lsm-tree.md) | ⭐ 463 | Rust | 59/100 |
@@ -219,7 +219,7 @@
 | 209 | [zdennis/activerecord-import](./zdennis-activerecord-import.md) | ⭐ 4.2k | Ruby | 55/100 |
 | 210 | [vlcn-io/cr-sqlite](./vlcn-io-cr-sqlite.md) | ⭐ 3.8k | Rust | 55/100 |
 | 211 | [IvorySQL/IvorySQL](./ivorysql-ivorysql.md) | ⭐ 1.1k | C | 55/100 |
-| 212 | [GianIac/numax](./gianiac-numax.md) | ⭐ 114 | Rust | 55/100 |
+| 212 | [GianIac/numax](./gianiac-numax.md) | ⭐ 119 | Rust | 55/100 |
 | 213 | [phnx47/dapper-repositories](./phnx47-dapper-repositories.md) | ⭐ 707 | C# | 55/100 |
 | 214 | [zendesk/maxwell](./zendesk-maxwell.md) | ⭐ 4.3k | Java | 55/100 |
 | 215 | [brimdata/super](./brimdata-super.md) | ⭐ 1.6k | Go | 55/100 |
@@ -277,7 +277,7 @@
 | 267 | [drk1rd/wharf](./drk1rd-wharf.md) | ⭐ — | — | 52/100 |
 | 268 | [lunar-landing/rudis](./lunar-landing-rudis.md) | ⭐ 431 | Rust | 52/100 |
 | 269 | [fcoury/tsql](./fcoury-tsql.md) | ⭐ 468 | Rust | 52/100 |
-| 270 | [svix/omniqueue-rs](./svix-omniqueue-rs.md) | ⭐ 107 | Rust | 52/100 |
+| 270 | [svix/omniqueue-rs](./svix-omniqueue-rs.md) | ⭐ 112 | Rust | 52/100 |
 | 271 | [devrimgunduz/pagila](./devrimgunduz-pagila.md) | ⭐ 1.1k | PLpgSQL | 52/100 |
 | 272 | [anylineorg/anyline](./anylineorg-anyline.md) | ⭐ 351 | Java | 52/100 |
 | 273 | [Snowflake-Labs/pg_lake](./snowflake-labs-pg-lake.md) | ⭐ 1.7k | C | 52/100 |
@@ -311,11 +311,11 @@
 | 301 | [ottochapp/ottoch-demo](./ottochapp-ottoch-demo.md) | ⭐ — | Python | 50/100 |
 | 302 | [trickle-labs/pg-trickle](./trickle-labs-pg-trickle.md) | ⭐ 150 | Rust | 50/100 |
 | 303 | [RIPE-NCC/whois](./ripe-ncc-whois.md) | ⭐ 410 | Java | 50/100 |
-| 304 | [zerodaycode/Canyon-SQL](./zerodaycode-canyon-sql.md) | ⭐ 113 | Rust | 50/100 |
+| 304 | [zerodaycode/Canyon-SQL](./zerodaycode-canyon-sql.md) | ⭐ 111 | Rust | 50/100 |
 | 305 | [datafusion-contrib/datafusion-postgres](./datafusion-contrib-datafusion-postgres.md) | ⭐ 165 | Rust | 50/100 |
 | 306 | [villagesql/villagesql-server](./villagesql-villagesql-server.md) | ⭐ 193 | C++ | 50/100 |
 | 307 | [Dictionarry-Hub/database](./dictionarry-hub-database.md) | ⭐ 346 | — | 50/100 |
-| 308 | [picodata/picodata](./picodata-picodata.md) | ⭐ 114 | Rust | 50/100 |
+| 308 | [picodata/picodata](./picodata-picodata.md) | ⭐ 125 | Rust | 50/100 |
 | 309 | [LalitMaganti/syntaqlite](./lalitmaganti-syntaqlite.md) | ⭐ 830 | Rust | 50/100 |
 | 310 | [zino-rs/zino](./zino-rs-zino.md) | ⭐ 1.2k | Rust | 50/100 |
 | 311 | [The-OpenROAD-Project/OpenROAD](./the-openroad-project-openroad.md) | ⭐ 3.3k | Verilog | 50/100 |
@@ -352,10 +352,10 @@
 | 342 | [RazrFalcon/fontdb](./razrfalcon-fontdb.md) | ⭐ 182 | Rust | 48/100 |
 | 343 | [lorint/brick](./lorint-brick.md) | ⭐ 393 | Ruby | 48/100 |
 | 344 | [NikolayS/rpg](./nikolays-rpg.md) | ⭐ 264 | Rust | 48/100 |
-| 345 | [blackbeam/rust_mysql_common](./blackbeam-rust-mysql-common.md) | ⭐ 120 | Rust | 48/100 |
+| 345 | [blackbeam/rust_mysql_common](./blackbeam-rust-mysql-common.md) | ⭐ 122 | Rust | 48/100 |
 | 346 | [madnuttah/unbound-docker](./madnuttah-unbound-docker.md) | ⭐ 384 | Dockerfile | 48/100 |
 | 347 | [pgdogdev/pgdog](./pgdogdev-pgdog.md) | ⭐ 5.6k | Rust | 48/100 |
-| 348 | [matrix-org/seshat](./matrix-org-seshat.md) | ⭐ 120 | Rust | 47/100 |
+| 348 | [matrix-org/seshat](./matrix-org-seshat.md) | ⭐ 129 | Rust | 47/100 |
 | 349 | [dialog-db/dialog-db](./dialog-db-dialog-db.md) | ⭐ 188 | Rust | 47/100 |
 | 350 | [codeErrorSleep/dbpaw](./codeerrorsleep-dbpaw.md) | ⭐ 273 | Rust | 47/100 |
 | 351 | [SteamDeckHomebrew/decky-plugin-database](./steamdeckhomebrew-decky-plugin-database.md) | ⭐ 355 | Shell | 47/100 |
@@ -398,7 +398,7 @@
 | 388 | [ClickHouse/pg_stat_ch](./clickhouse-pg-stat-ch.md) | ⭐ — | — | 45/100 |
 | 389 | [oxigraph/oxigraph](./oxigraph-oxigraph.md) | ⭐ 2k | Rust | 45/100 |
 | 390 | [rstyro/Springboot](./rstyro-springboot.md) | ⭐ 1.3k | Java | 45/100 |
-| 391 | [jiangzhe/doradb](./jiangzhe-doradb.md) | ⭐ 121 | Rust | 45/100 |
+| 391 | [jiangzhe/doradb](./jiangzhe-doradb.md) | ⭐ 122 | Rust | 45/100 |
 | 392 | [gizmodata/gizmosql](./gizmodata-gizmosql.md) | ⭐ 377 | C++ | 45/100 |
 | 393 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 45/100 |
 | 394 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.5k | — | 45/100 |
@@ -566,8 +566,8 @@
 | 556 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 557 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 558 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 38/100 |
-| 559 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 38/100 |
-| 560 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 38/100 |
+| 559 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 38/100 |
+| 560 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 38/100 |
 | 561 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ — | — | 38/100 |
 | 562 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ — | — | 38/100 |
 | 563 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ — | — | 38/100 |

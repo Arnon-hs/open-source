@@ -261,7 +261,7 @@
 | 251 | [openebs/mayastor](./openebs-mayastor.md) | ⭐ 1.1k | Rust | 55/100 |
 | 252 | [ArroyoSystems/arroyo](./arroyosystems-arroyo.md) | ⭐ 5.1k | Rust | 55/100 |
 | 253 | [fjykTec/ModernWMS](./fjyktec-modernwms.md) | ⭐ 1.8k | Vue | 54/100 |
-| 254 | [encero-systems/incan](./encero-systems-incan.md) | ⭐ 122 | Rust | 54/100 |
+| 254 | [encero-systems/incan](./encero-systems-incan.md) | ⭐ 73 | Rust | 54/100 |
 | 255 | [cieslarmichal/faker-cxx](./cieslarmichal-faker-cxx.md) | ⭐ 421 | C++ | 54/100 |
 | 256 | [moka-rs/moka](./moka-rs-moka.md) | ⭐ 2.7k | Rust | 54/100 |
 | 257 | [Kotlin/dataframe](./kotlin-dataframe.md) | ⭐ 1.1k | Kotlin | 54/100 |
@@ -272,7 +272,7 @@
 | 262 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 829 | JavaScript | 54/100 |
 | 263 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 574 | HTML | 54/100 |
 | 264 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 153 | Rust | 54/100 |
-| 265 | [beava-dev/beava](./beava-dev-beava.md) | ⭐ 120 | Rust | 54/100 |
+| 265 | [beava-dev/beava](./beava-dev-beava.md) | ⭐ 139 | Rust | 54/100 |
 | 266 | [rpbouman/huey](./rpbouman-huey.md) | ⭐ 635 | JavaScript | 54/100 |
 | 267 | [MAZHARMIK/Interview_DS_Algo](./mazharmik-interview-ds-algo.md) | ⭐ 5.3k | C++ | 54/100 |
 | 268 | [blaylockbk/Herbie](./blaylockbk-herbie.md) | ⭐ 800 | Python | 54/100 |
@@ -348,10 +348,10 @@
 | 338 | [HimanshuS073/music_visualizer](./himanshus073-music-visualizer.md) | ⭐ 2 | Lua | 45/100 |
 | 339 | [decodeaditya/Cirqmon](./decodeaditya-cirqmon.md) | ⭐ 16 | JavaScript | 44/100 |
 | 340 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ — | — | 44/100 |
-| 341 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 116 | Rust | 44/100 |
+| 341 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 115 | Rust | 44/100 |
 | 342 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 214 | Rust | 44/100 |
 | 343 | [idimetrix/canchas-mexico](./idimetrix-canchas-mexico.md) | ⭐ — | TypeScript | 44/100 |
-| 344 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 113 | Rust | 43/100 |
+| 344 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 140 | Rust | 43/100 |
 | 345 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 310 | Rust | 43/100 |
 | 346 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 43/100 |
 | 347 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |

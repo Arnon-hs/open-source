@@ -24,13 +24,13 @@
 | 14 | [simonlin1212/a-stock-data](./simonlin1212-a-stock-data.md) | ⭐ 11.6k | — | 74/100 |
 | 15 | [dgunning/edgartools](./dgunning-edgartools.md) | ⭐ 2.8k | Python | 74/100 |
 | 16 | [akfamily/akshare](./akfamily-akshare.md) | ⭐ 23.3k | Python | 74/100 |
-| 17 | [arshka/pykalshi](./arshka-pykalshi.md) | ⭐ 117 | Python | 74/100 |
+| 17 | [arshka/pykalshi](./arshka-pykalshi.md) | ⭐ 133 | Python | 74/100 |
 | 18 | [zevnda/steam-game-idler](./zevnda-steam-game-idler.md) | ⭐ 791 | TypeScript | 74/100 |
 | 19 | [agent-next/polymarket-paper-trader](./agent-next-polymarket-paper-trader.md) | ⭐ 503 | Python | 73/100 |
 | 20 | [codedpro/mt5-trade-split-manager](./codedpro-mt5-trade-split-manager.md) | ⭐ 53 | MQL5 | 73/100 |
 | 21 | [aarora4/Awesome-Prediction-Market-Tools](./aarora4-awesome-prediction-market-tools.md) | ⭐ 800 | — | 73/100 |
 | 22 | [ib-api-reloaded/ib_async](./ib-api-reloaded-ib-async.md) | ⭐ 1.8k | Python | 72/100 |
-| 23 | [ChipaDevTeam/BinaryOptionsTools-v2](./chipadevteam-binaryoptionstools-v2.md) | ⭐ 112 | Rust | 72/100 |
+| 23 | [ChipaDevTeam/BinaryOptionsTools-v2](./chipadevteam-binaryoptionstools-v2.md) | ⭐ 138 | Rust | 72/100 |
 | 24 | [ricequant/rqalpha](./ricequant-rqalpha.md) | ⭐ 6.9k | Python | 72/100 |
 | 25 | [vas3k/TaxHacker](./vas3k-taxhacker.md) | ⭐ 6.8k | TypeScript | 72/100 |
 | 26 | [tastyware/tastytrade](./tastyware-tastytrade.md) | ⭐ 259 | Python | 72/100 |
@@ -86,8 +86,8 @@
 | 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 231 | Rust | 64/100 |
 | 77 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 78 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
-| 80 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
+| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
+| 80 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
 | 81 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 82 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 83 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |
@@ -117,8 +117,8 @@
 | 107 | [speedyapply/2027-AI-College-Jobs](./speedyapply-2027-ai-college-jobs.md) | ⭐ 6.6k | — | 60/100 |
 | 108 | [bennycode/trading-signals](./bennycode-trading-signals.md) | ⭐ 1k | TypeScript | 60/100 |
 | 109 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 72 | Python | 60/100 |
-| 110 | [ZhuLinsen/alphaevo](./zhulinsen-alphaevo.md) | ⭐ 108 | Python | 60/100 |
-| 111 | [nlethetech/nepse-quant-terminal](./nlethetech-nepse-quant-terminal.md) | ⭐ 120 | Python | 60/100 |
+| 110 | [ZhuLinsen/alphaevo](./zhulinsen-alphaevo.md) | ⭐ 215 | Python | 60/100 |
+| 111 | [nlethetech/nepse-quant-terminal](./nlethetech-nepse-quant-terminal.md) | ⭐ 208 | Python | 60/100 |
 | 112 | [FinHackCN/finhack](./finhackcn-finhack.md) | ⭐ 1.3k | Python | 59/100 |
 | 113 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 239 | Rust | 59/100 |
 | 114 | [nordic-institute/X-Road](./nordic-institute-x-road.md) | ⭐ 874 | Java | 59/100 |
@@ -157,7 +157,7 @@
 | 147 | [7skooooo/mql5-systems-mirror](./7skooooo-mql5-systems-mirror.md) | ⭐ 116 | HTML | 53/100 |
 | 148 | [Neon549/Alpha_stock](./neon549-alpha-stock.md) | ⭐ 111 | Python | 53/100 |
 | 149 | [koreal6803/finlab-ai](./koreal6803-finlab-ai.md) | ⭐ 426 | TypeScript | 53/100 |
-| 150 | [Polymarket/rs-clob-client-v2](./polymarket-rs-clob-client-v2.md) | ⭐ 113 | Rust | 53/100 |
+| 150 | [Polymarket/rs-clob-client-v2](./polymarket-rs-clob-client-v2.md) | ⭐ 147 | Rust | 53/100 |
 | 151 | [AcademySoftwareFoundation/MaterialX](./academysoftwarefoundation-materialx.md) | ⭐ 2.3k | C++ | 53/100 |
 | 152 | [pkjmesra/PKScreener](./pkjmesra-pkscreener.md) | ⭐ 409 | Python | 53/100 |
 | 153 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 18.3k | — | 53/100 |

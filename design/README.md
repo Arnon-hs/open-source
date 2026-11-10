@@ -39,7 +39,7 @@
 | 29 | [elementor/elementor](./elementor-elementor.md) | ⭐ 7.1k | PHP | 61/100 |
 | 30 | [Memento-Teams/Memento-Skills](./memento-teams-memento-skills.md) | ⭐ 1.6k | Python | 60/100 |
 | 31 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.8k | Scala | 60/100 |
-| 32 | [eliheuer/img2bez](./eliheuer-img2bez.md) | ⭐ 122 | Rust | 60/100 |
+| 32 | [eliheuer/img2bez](./eliheuer-img2bez.md) | ⭐ 164 | Rust | 60/100 |
 | 33 | [HMBSbige/BilibiliLiveRecordDownLoader](./hmbsbige-bilibililiverecorddownloader.md) | ⭐ 834 | C# | 60/100 |
 | 34 | [streetmix/streetmix](./streetmix-streetmix.md) | ⭐ 755 | TypeScript | 59/100 |
 | 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 106.9k | JavaScript | 59/100 |
@@ -83,7 +83,7 @@
 | 73 | [amaancoderx/npxskillui](./amaancoderx-npxskillui.md) | ⭐ 2.5k | TypeScript | 54/100 |
 | 74 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 348 | Python | 54/100 |
 | 75 | [coinbase/cds](./coinbase-cds.md) | ⭐ 510 | TypeScript | 54/100 |
-| 76 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 114 | TypeScript | 54/100 |
+| 76 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 164 | TypeScript | 54/100 |
 | 77 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 982 | TypeScript | 54/100 |
 | 78 | [SAP/macOS-icon-generator](./sap-macos-icon-generator.md) | ⭐ 647 | C | 53/100 |
 | 79 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 404 | HTML | 53/100 |
@@ -95,7 +95,7 @@
 | 85 | [vuematerial/vue-material](./vuematerial-vue-material.md) | ⭐ 9.8k | Vue | 52/100 |
 | 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 562 | Swift | 52/100 |
 | 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.2k | Handlebars | 52/100 |
-| 88 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 101 | Rust | 52/100 |
+| 88 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 107 | Rust | 52/100 |
 | 89 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 625 | Rust | 52/100 |
 | 90 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 329 | HTML | 52/100 |
 | 91 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.4k | WebAssembly | 52/100 |
@@ -107,7 +107,7 @@
 | 97 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 848 | Haskell | 51/100 |
 | 98 | [PostHog/posthog.com](./posthog-posthog.com.md) | ⭐ 1.2k | TypeScript | 51/100 |
 | 99 | [ghaida/intent](./ghaida-intent.md) | ⭐ 88 | CSS | 50/100 |
-| 100 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 50/100 |
+| 100 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 130 | Rust | 50/100 |
 | 101 | [synfig/synfig](./synfig-synfig.md) | ⭐ 2.4k | C++ | 50/100 |
 | 102 | [drawcms/drawcms](./drawcms-drawcms.md) | ⭐ — | — | 49/100 |
 | 103 | [finix-community/finix](./finix-community-finix.md) | ⭐ 614 | Nix | 49/100 |

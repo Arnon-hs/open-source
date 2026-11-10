@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [harry0703/MoneyPrinterTurbo](./harry0703-moneyprinterturbo.md) | ⭐ 141.6k | Python | 85/100 |
-| 2 | [NaufalRizqullah/opensource-clipping](./naufalrizqullah-opensource-clipping.md) | ⭐ 104 | Python | 84/100 |
+| 2 | [NaufalRizqullah/opensource-clipping](./naufalrizqullah-opensource-clipping.md) | ⭐ 230 | Python | 84/100 |
 | 3 | [jipraks/yt-short-clipper](./jipraks-yt-short-clipper.md) | ⭐ 1.1k | TypeScript | 84/100 |
 | 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 912 | TypeScript | 83/100 |
 | 5 | [el-frontend/video-wizard](./el-frontend-video-wizard.md) | ⭐ 18 | TypeScript | 82/100 |
@@ -69,8 +69,8 @@
 | 59 | [krakonjac300-pixel/podcast-shorts-factory](./krakonjac300-pixel-podcast-shorts-factory.md) | ⭐ 97 | Python | 69/100 |
 | 60 | [orylite/lindyson-ai](./orylite-lindyson-ai.md) | ⭐ 26 | TypeScript | 68/100 |
 | 61 | [numbpill3d/ffmpeg-ai](./numbpill3d-ffmpeg-ai.md) | ⭐ 24 | Python | 68/100 |
-| 62 | [WANGLEVY9/VidForge](./wanglevy9-vidforge.md) | ⭐ 114 | TypeScript | 68/100 |
-| 63 | [rediumvex/social-media-caption-generator-claude](./rediumvex-social-media-caption-generator-claude.md) | ⭐ 106 | — | 68/100 |
+| 62 | [WANGLEVY9/VidForge](./wanglevy9-vidforge.md) | ⭐ 91 | TypeScript | 68/100 |
+| 63 | [rediumvex/social-media-caption-generator-claude](./rediumvex-social-media-caption-generator-claude.md) | ⭐ 149 | — | 68/100 |
 | 64 | [artemisln/edit-reel](./artemisln-edit-reel.md) | ⭐ 40 | Python | 67/100 |
 | 65 | [paulherter/sequence-studio](./paulherter-sequence-studio.md) | ⭐ 22 | Swift | 67/100 |
 | 66 | [marvtub/takes-public](./marvtub-takes-public.md) | ⭐ 27 | Swift | 67/100 |
@@ -84,7 +84,7 @@
 | 74 | [Finderchangchang/brewreel](./finderchangchang-brewreel.md) | ⭐ 27 | TypeScript | 66/100 |
 | 75 | [nateherkai/hyperframes-student-kit](./nateherkai-hyperframes-student-kit.md) | ⭐ 616 | HTML | 66/100 |
 | 76 | [getcurate/reel-studio](./getcurate-reel-studio.md) | ⭐ 52 | TypeScript | 65/100 |
-| 77 | [hey-yx/allparse](./hey-yx-allparse.md) | ⭐ 105 | TypeScript | 65/100 |
+| 77 | [hey-yx/allparse](./hey-yx-allparse.md) | ⭐ 106 | TypeScript | 65/100 |
 | 78 | [mutonby/openshorts](./mutonby-openshorts.md) | ⭐ 7.6k | Python | 65/100 |
 | 79 | [hey-yx/short-video-extractor](./hey-yx-short-video-extractor.md) | ⭐ 103 | TypeScript | 65/100 |
 | 80 | [JuneYaooo/cheap-claude-video](./juneyaooo-cheap-claude-video.md) | ⭐ 53 | Python | 65/100 |
@@ -128,7 +128,7 @@
 | 118 | [kevinbadi/claude-codes-influencers](./kevinbadi-claude-codes-influencers.md) | ⭐ 13 | Python | 58/100 |
 | 119 | [jaxxchen003/book-video-factory](./jaxxchen003-book-video-factory.md) | ⭐ 95 | Python | 58/100 |
 | 120 | [zhuixin8/meiti-ai](./zhuixin8-meiti-ai.md) | ⭐ 26 | — | 58/100 |
-| 121 | [runesleo/claude-video-kit](./runesleo-claude-video-kit.md) | ⭐ 117 | TypeScript | 58/100 |
+| 121 | [runesleo/claude-video-kit](./runesleo-claude-video-kit.md) | ⭐ 124 | TypeScript | 58/100 |
 | 122 | [JuneYaooo/awesome-ai-media-cn](./juneyaooo-awesome-ai-media-cn.md) | ⭐ 372 | — | 58/100 |
 | 123 | [liuhaisi2026212-maker/motion-palette-15](./liuhaisi2026212-maker-motion-palette-15.md) | ⭐ 11 | JavaScript | 57/100 |
 | 124 | [Phucanh-MRT/mrtkeyword](./phucanh-mrt-mrtkeyword.md) | ⭐ 21 | TypeScript | 57/100 |

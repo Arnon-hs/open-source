@@ -213,7 +213,7 @@
 | 203 | [uNetworking/uWebSockets](./unetworking-uwebsockets.md) | ⭐ 19k | C++ | 62/100 |
 | 204 | [NetickNetworking/NetickForUnity](./neticknetworking-netickforunity.md) | ⭐ 411 | C# | 62/100 |
 | 205 | [8p/EightPointsGuzzleBundle](./8p-eightpointsguzzlebundle.md) | ⭐ 445 | PHP | 62/100 |
-| 206 | [heymaikol/network-doctor](./heymaikol-network-doctor.md) | ⭐ 114 | Go | 62/100 |
+| 206 | [heymaikol/network-doctor](./heymaikol-network-doctor.md) | ⭐ 442 | Go | 62/100 |
 | 207 | [Exa-Networks/exabgp](./exa-networks-exabgp.md) | ⭐ 2.3k | Python | 62/100 |
 | 208 | [wg-easy/wg-easy](./wg-easy-wg-easy.md) | ⭐ 27.5k | TypeScript | 62/100 |
 | 209 | [anyproto/any-sync-dockercompose](./anyproto-any-sync-dockercompose.md) | ⭐ 961 | Shell | 62/100 |
@@ -276,7 +276,7 @@
 | 266 | [getmeridian/meridian](./getmeridian-meridian.md) | ⭐ 503 | Python | 60/100 |
 | 267 | [jkroepke/openvpn-auth-oauth2](./jkroepke-openvpn-auth-oauth2.md) | ⭐ 530 | Go | 60/100 |
 | 268 | [Tecnativa/docker-socket-proxy](./tecnativa-docker-socket-proxy.md) | ⭐ 2.9k | Python | 59/100 |
-| 269 | [zn0wii/satelite-proxy](./zn0wii-satelite-proxy.md) | ⭐ 112 | Rust | 59/100 |
+| 269 | [zn0wii/satelite-proxy](./zn0wii-satelite-proxy.md) | ⭐ 1k | Rust | 59/100 |
 | 270 | [KangLin/RabbitRemoteControl](./kanglin-rabbitremotecontrol.md) | ⭐ 337 | C++ | 59/100 |
 | 271 | [PaperMC/Velocity](./papermc-velocity.md) | ⭐ 2.3k | Java | 59/100 |
 | 272 | [sandialabs/wiretap](./sandialabs-wiretap.md) | ⭐ 1.1k | Go | 59/100 |
@@ -288,7 +288,7 @@
 | 278 | [apache/trafficserver](./apache-trafficserver.md) | ⭐ 2k | C++ | 59/100 |
 | 279 | [zhouzhouprogram/Shadowrocket-ADBlock-Rules](./zhouzhouprogram-shadowrocket-adblock-rules.md) | ⭐ 873 | Python | 59/100 |
 | 280 | [ZeroTworu/anet](./zerotworu-anet.md) | ⭐ 739 | Rust | 59/100 |
-| 281 | [junkurihara/rust-rpxy-l4](./junkurihara-rust-rpxy-l4.md) | ⭐ 111 | Rust | 59/100 |
+| 281 | [junkurihara/rust-rpxy-l4](./junkurihara-rust-rpxy-l4.md) | ⭐ 127 | Rust | 59/100 |
 | 282 | [mfuu/v2ray](./mfuu-v2ray.md) | ⭐ 893 | Python | 59/100 |
 | 283 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 551 | Go | 59/100 |
 | 284 | [Sovereign-Engineering/obscuravpn-client](./sovereign-engineering-obscuravpn-client.md) | ⭐ 503 | Rust | 59/100 |
@@ -348,9 +348,9 @@
 | 338 | [hassio-addons/app-tailscale](./hassio-addons-app-tailscale.md) | ⭐ 567 | Shell | 56/100 |
 | 339 | [smoltcp-rs/smoltcp](./smoltcp-rs-smoltcp.md) | ⭐ 4.6k | Rust | 56/100 |
 | 340 | [sakai135/wsl-vpnkit](./sakai135-wsl-vpnkit.md) | ⭐ 3k | Shell | 56/100 |
-| 341 | [AllexVeldman/pyoci](./allexveldman-pyoci.md) | ⭐ 105 | Rust | 56/100 |
+| 341 | [AllexVeldman/pyoci](./allexveldman-pyoci.md) | ⭐ 113 | Rust | 56/100 |
 | 342 | [heiher/sockstun](./heiher-sockstun.md) | ⭐ 749 | Java | 56/100 |
-| 343 | [lucid-softworks/browser](./lucid-softworks-browser.md) | ⭐ 125 | Rust | 56/100 |
+| 343 | [lucid-softworks/browser](./lucid-softworks-browser.md) | ⭐ 131 | Rust | 56/100 |
 | 344 | [NebulaServices/Nebula](./nebulaservices-nebula.md) | ⭐ 374 | Astro | 56/100 |
 | 345 | [yuhaiin/yuhaiin](./yuhaiin-yuhaiin.md) | ⭐ 169 | Go | 56/100 |
 | 346 | [SamNet-dev/MTProxyMax](./samnet-dev-mtproxymax.md) | ⭐ 829 | Shell | 56/100 |
@@ -446,7 +446,7 @@
 | 436 | [lantunnel/lantunnel](./lantunnel-lantunnel.md) | ⭐ 9 | Rust | 52/100 |
 | 437 | [AhmetCanArslan/ShizuWall](./ahmetcanarslan-shizuwall.md) | ⭐ 2.5k | Kotlin | 52/100 |
 | 438 | [retis-org/retis](./retis-org-retis.md) | ⭐ 545 | Rust | 52/100 |
-| 439 | [unavi-xyz/unavi](./unavi-xyz-unavi.md) | ⭐ 112 | Rust | 52/100 |
+| 439 | [unavi-xyz/unavi](./unavi-xyz-unavi.md) | ⭐ 118 | Rust | 52/100 |
 | 440 | [Power2All/torrust-actix](./power2all-torrust-actix.md) | ⭐ 144 | Rust | 52/100 |
 | 441 | [USBridge-Technologies/USBridge-Remote](./usbridge-technologies-usbridge-remote.md) | ⭐ 671 | Go | 52/100 |
 | 442 | [LLukas22/Jellyswarrm](./llukas22-jellyswarrm.md) | ⭐ 967 | Rust | 52/100 |
@@ -468,10 +468,10 @@
 | 458 | [n0-computer/iroh](./n0-computer-iroh.md) | ⭐ 13k | Rust | 52/100 |
 | 459 | [North-web-dev/impersonate-http](./north-web-dev-impersonate-http.md) | ⭐ — | — | 51/100 |
 | 460 | [dvcoolarun/dynamic-tool-proxy](./dvcoolarun-dynamic-tool-proxy.md) | ⭐ — | Python | 51/100 |
-| 461 | [TykTechnologies/tyk-identity-broker](./tyktechnologies-tyk-identity-broker.md) | ⭐ 110 | Go | 51/100 |
+| 461 | [TykTechnologies/tyk-identity-broker](./tyktechnologies-tyk-identity-broker.md) | ⭐ 109 | Go | 51/100 |
 | 462 | [anton48/vk-turn-proxy-ios](./anton48-vk-turn-proxy-ios.md) | ⭐ 316 | Go | 51/100 |
 | 463 | [mackee3/tizi](./mackee3-tizi.md) | ⭐ 512 | — | 51/100 |
-| 464 | [femboyisp/yip](./femboyisp-yip.md) | ⭐ 101 | Rust | 51/100 |
+| 464 | [femboyisp/yip](./femboyisp-yip.md) | ⭐ 130 | Rust | 51/100 |
 | 465 | [PinkD/corplink-rs](./pinkd-corplink-rs.md) | ⭐ 434 | Rust | 51/100 |
 | 466 | [X4BNet/lists_vpn](./x4bnet-lists-vpn.md) | ⭐ 928 | Shell | 51/100 |
 | 467 | [rayfish/rayfish](./rayfish-rayfish.md) | ⭐ 788 | Rust | 51/100 |
@@ -485,7 +485,7 @@
 | 475 | [ntex-rs/ntex](./ntex-rs-ntex.md) | ⭐ 2.5k | Rust | 51/100 |
 | 476 | [EasyTier/EasyTier](./easytier-easytier.md) | ⭐ 14.6k | Rust | 51/100 |
 | 477 | [amnezia-vpn/amneziawg-android](./amnezia-vpn-amneziawg-android.md) | ⭐ 593 | Kotlin | 50/100 |
-| 478 | [manic-systems/ncro](./manic-systems-ncro.md) | ⭐ 116 | Rust | 50/100 |
+| 478 | [manic-systems/ncro](./manic-systems-ncro.md) | ⭐ 157 | Rust | 50/100 |
 | 479 | [Ground-Zerro/HydraRoute](./ground-zerro-hydraroute.md) | ⭐ 659 | C | 50/100 |
 | 480 | [paritytech/litep2p](./paritytech-litep2p.md) | ⭐ 167 | Rust | 50/100 |
 | 481 | [confeden/Antigravity](./confeden-antigravity.md) | ⭐ 1.3k | Rust | 50/100 |
@@ -524,7 +524,7 @@
 | 514 | [theoriclabs/leanhttp](./theoriclabs-leanhttp.md) | ⭐ — | — | 48/100 |
 | 515 | [TopChina/proxy-list](./topchina-proxy-list.md) | ⭐ 307 | — | 48/100 |
 | 516 | [ayuhito/safehttp](./ayuhito-safehttp.md) | ⭐ — | — | 48/100 |
-| 517 | [dpc/rostra](./dpc-rostra.md) | ⭐ 114 | Rust | 48/100 |
+| 517 | [dpc/rostra](./dpc-rostra.md) | ⭐ 110 | Rust | 48/100 |
 | 518 | [NordSecurity/libtelio](./nordsecurity-libtelio.md) | ⭐ 157 | Rust | 48/100 |
 | 519 | [pydantic/httpx2](./pydantic-httpx2.md) | ⭐ — | — | 48/100 |
 | 520 | [nmstate/nmstate](./nmstate-nmstate.md) | ⭐ 400 | Rust | 48/100 |
@@ -536,7 +536,7 @@
 | 526 | [pivpn/pivpn](./pivpn-pivpn.md) | ⭐ 8.1k | Shell | 47/100 |
 | 527 | [aecsocket/aeronet](./aecsocket-aeronet.md) | ⭐ 140 | Rust | 47/100 |
 | 528 | [CNMan/dnscrypt-proxy-config](./cnman-dnscrypt-proxy-config.md) | ⭐ 384 | Shell | 47/100 |
-| 529 | [shayanheidari01/ShineNETVPN](./shayanheidari01-shinenetvpn.md) | ⭐ 109 | Rust | 47/100 |
+| 529 | [shayanheidari01/ShineNETVPN](./shayanheidari01-shinenetvpn.md) | ⭐ 139 | Rust | 47/100 |
 | 530 | [Happ-proxy/happ-android](./happ-proxy-happ-android.md) | ⭐ 884 | — | 47/100 |
 | 531 | [PuddinCat/BestClash](./puddincat-bestclash.md) | ⭐ 2.1k | — | 47/100 |
 | 532 | [ecki/net-tools](./ecki-net-tools.md) | ⭐ 312 | C | 47/100 |
@@ -547,7 +547,7 @@
 | 537 | [roosterkid/openproxylist](./roosterkid-openproxylist.md) | ⭐ 945 | — | 47/100 |
 | 538 | [red-orbita/bulwark-gateway](./red-orbita-bulwark-gateway.md) | ⭐ — | — | 46/100 |
 | 539 | [libp2p/py-libp2p](./libp2p-py-libp2p.md) | ⭐ — | — | 46/100 |
-| 540 | [valnesfjord/tg-ws-proxy-rs](./valnesfjord-tg-ws-proxy-rs.md) | ⭐ 114 | Rust | 46/100 |
+| 540 | [valnesfjord/tg-ws-proxy-rs](./valnesfjord-tg-ws-proxy-rs.md) | ⭐ 291 | Rust | 46/100 |
 | 541 | [crp4222/PrivAiTe](./crp4222-privaite.md) | ⭐ — | — | 46/100 |
 | 542 | [YoulianBoshi/vpn](./youlianboshi-vpn.md) | ⭐ 5.5k | — | 46/100 |
 | 543 | [qr243vbi/nekobox](./qr243vbi-nekobox.md) | ⭐ 1.5k | C++ | 46/100 |
@@ -632,7 +632,7 @@
 | 622 | [radkesvat/WaterWall](./radkesvat-waterwall.md) | ⭐ 597 | C | 41/100 |
 | 623 | [shlima/keneetic-antifilter](./shlima-keneetic-antifilter.md) | ⭐ 507 | Batchfile | 41/100 |
 | 624 | [mmpx12/proxy-list](./mmpx12-proxy-list.md) | ⭐ 437 | — | 41/100 |
-| 625 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 104 | Rust | 41/100 |
+| 625 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 120 | Rust | 41/100 |
 | 626 | [sanskarIN/SpeedPulse](./sanskarin-speedpulse.md) | ⭐ — | HTML | 39/100 |
 | 627 | [Mrtracker-new/NetPlus](./mrtracker-new-netplus.md) | ⭐ — | — | 39/100 |
 | 628 | [cloudflare/cbpfc](./cloudflare-cbpfc.md) | ⭐ — | — | 39/100 |
