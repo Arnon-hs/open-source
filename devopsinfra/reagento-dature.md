@@ -1,6 +1,6 @@
 # reagento/dature
 
-[![Stars](https://img.shields.io/github/stars/reagento/dature?style=flat-square&color=yellow)](https://github.com/reagento/dature/stargazers) [![Forks](https://img.shields.io/github/forks/reagento/dature?style=flat-square&color=blue)](https://github.com/reagento/dature/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reagento/dature?style=flat-square&color=yellow)](https://github.com/reagento/dature/stargazers) [![Forks](https://img.shields.io/github/forks/reagento/dature?style=flat-square&color=blue)](https://github.com/reagento/dature/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 49 |
 | 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ reagento/dature：reagento/dature helps make deployment and operations more repe
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 34/100 |
-| production | 64/100 |
-| outlook | 66/100 |
+| production | 57/100 |
+| outlook | 59/100 |
 | adoption | 31/100 |
 | categoryMatchCount | 100/100 |
 | stars | 36/100 |
 | forks | 19/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

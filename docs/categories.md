@@ -6,18 +6,18 @@ Only categories with at least 10 project cards have folders. The complete machin
 
 | Category | Project cards |
 | --- | ---: |
-| [AI/ML](../aiml/README.md) | 5,137 |
+| [AI/ML](../aiml/README.md) | 5,138 |
 | [Automation](../automation/README.md) | 1,666 |
 | [Backend](../backend/README.md) | 990 |
 | [Cloud & Storage](../cloud--storage/README.md) | 639 |
 | [Communication](../communication/README.md) | 481 |
 | [Content Creation](../content-creation/README.md) | 164 |
-| [Crypto](../crypto/README.md) | 841 |
+| [Crypto](../crypto/README.md) | 842 |
 | [Data](../data/README.md) | 364 |
 | [Database](../database/README.md) | 585 |
 | [Design](../design/README.md) | 196 |
 | [DevOps/Infra](../devopsinfra/README.md) | 547 |
-| [DevTools](../devtools/README.md) | 1,657 |
+| [DevTools](../devtools/README.md) | 1,658 |
 | [Documents](../documents/README.md) | 754 |
 | [Education](../education/README.md) | 35 |
 | [Frontend](../frontend/README.md) | 934 |
@@ -30,12 +30,12 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Mobile](../mobile/README.md) | 706 |
 | [Networking](../networking/README.md) | 677 |
 | [Observability](../observability/README.md) | 327 |
-| [Orchestration](../orchestration/README.md) | 2,495 |
+| [Orchestration](../orchestration/README.md) | 2,496 |
 | [Payments](../payments/README.md) | 393 |
 | [Product](../product/README.md) | 12 |
 | [Productivity](../productivity/README.md) | 363 |
 | [Security](../security/README.md) | 507 |
 | [Templates](../templates/README.md) | 497 |
 | [Trading](../trading/README.md) | 227 |
-| [Vertical Video](../vertical-video/README.md) | 169 |
+| [Vertical Video](../vertical-video/README.md) | 170 |
 | [Video Editing](../video-editing/README.md) | 618 |

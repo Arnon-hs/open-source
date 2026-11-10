@@ -65,18 +65,18 @@ d3/d3-geo：d3/d3-geo helps convert raw data into searchable, analyzable, or aut
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 66/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 64/100 |
-| adoption | 62/100 |
-| categoryMatchCount | 100/100 |
-| stars | 65/100 |
 | forks | 55/100 |
-| recency | 80/100 |
+| stars | 65/100 |
 | topics | 50/100 |
+| outlook | 64/100 |
+| quality | 66/100 |
+| recency | 80/100 |
+| adoption | 62/100 |
+| production | 64/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

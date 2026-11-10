@@ -39,7 +39,7 @@
 | 29 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 439 | Mojo | 44/100 |
 | 30 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 263 | Rust | 44/100 |
 | 31 | [Jay-Naik2526/or-studio](./jay-naik2526-or-studio.md) | ⭐ — | TypeScript | 44/100 |
-| 32 | [rapha-rodrigues/cc-esol](./rapha-rodrigues-cc-esol.md) | ⭐ — | — | 41/100 |
+| 32 | [rapha-rodrigues/cc-esol](./rapha-rodrigues-cc-esol.md) | ⭐ 3 | — | 41/100 |
 | 33 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 40/100 |
 | 34 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 34/100 |
 | 35 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 33/100 |

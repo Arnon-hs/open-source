@@ -2,7 +2,7 @@
 
 > 
 
-**169 projects** in this category.
+**170 projects** in this category.
 
 ## Projects
 
@@ -172,11 +172,12 @@
 | 162 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 37 | JavaScript | 47/100 |
 | 163 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
 | 164 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
-| 165 | [RyzovaTech/Ryzova-Kernel](./ryzovatech-ryzova-kernel.md) | ⭐ 2 | — | 41/100 |
-| 166 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 10 | — | 41/100 |
-| 167 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ 1 | — | 41/100 |
-| 168 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ 2 | — | 41/100 |
-| 169 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
+| 165 | [egeozcan/glasnost](./egeozcan-glasnost.md) | ⭐ — | — | 41/100 |
+| 166 | [RyzovaTech/Ryzova-Kernel](./ryzovatech-ryzova-kernel.md) | ⭐ 2 | — | 41/100 |
+| 167 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 10 | — | 41/100 |
+| 168 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ 1 | — | 41/100 |
+| 169 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ 2 | — | 41/100 |
+| 170 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
 
 ---
 

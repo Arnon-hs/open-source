@@ -65,18 +65,18 @@ topojson/topojson：topojson/topojson helps convert raw data into searchable, an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 72/100 |
-| integration | 30/100 |
-| production | 64/100 |
-| outlook | 67/100 |
-| adoption | 76/100 |
-| categoryMatchCount | 100/100 |
-| stars | 79/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| stars | 79/100 |
 | topics | 50/100 |
+| outlook | 67/100 |
+| quality | 72/100 |
+| recency | 80/100 |
+| adoption | 76/100 |
+| production | 64/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

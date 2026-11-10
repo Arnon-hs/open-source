@@ -753,8 +753,8 @@
 | 743 | [sanusart/react-dropdown-select](./sanusart-react-dropdown-select.md) | ⭐ 364 | JavaScript | 54/100 |
 | 744 | [blackfyre/wga](./blackfyre-wga.md) | ⭐ 193 | Go | 54/100 |
 | 745 | [IT-BAER/proxmorph](./it-baer-proxmorph.md) | ⭐ 637 | CSS | 54/100 |
-| 746 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 884 | Rust | 54/100 |
-| 747 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
+| 746 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
+| 747 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 884 | Rust | 54/100 |
 | 748 | [coi/coi](./coi-coi.md) | ⭐ 567 | C++ | 54/100 |
 | 749 | [lvzhenbo/115-plus-desktop](./lvzhenbo-115-plus-desktop.md) | ⭐ 383 | Rust | 54/100 |
 | 750 | [rust-ui/ui](./rust-ui-ui.md) | ⭐ 805 | Rust | 54/100 |
