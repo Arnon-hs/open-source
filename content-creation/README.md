@@ -97,7 +97,7 @@
 | 87 | [Wan-Video/Wan2.2](./wan-video-wan2.2.md) | ⭐ 18.5k | Python | 60/100 |
 | 88 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 204 | — | 60/100 |
 | 89 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 157 | Vue | 60/100 |
-| 90 | [WaveSpeedAI/mcp-server](./wavespeedai-mcp-server.md) | ⭐ 30 | TypeScript | 59/100 |
+| 90 | [WaveSpeedAI/mcp-server](./wavespeedai-mcp-server.md) | ⭐ 36 | TypeScript | 59/100 |
 | 91 | [rolfie-han/YoLuster-shorts](./rolfie-han-yoluster-shorts.md) | ⭐ 295 | HTML | 59/100 |
 | 92 | [zxhwolfe-dev/aiworkstation-topic-intelligence](./zxhwolfe-dev-aiworkstation-topic-intelligence.md) | ⭐ 1 | Python | 58/100 |
 | 93 | [kostas2370/Video-Creator](./kostas2370-video-creator.md) | ⭐ 24 | Python | 58/100 |
@@ -145,8 +145,8 @@
 | 135 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
 | 136 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 137 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ — | — | 43/100 |
-| 138 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ — | — | 43/100 |
-| 139 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ — | — | 43/100 |
+| 138 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ — | — | 43/100 |
+| 139 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ — | — | 43/100 |
 | 140 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 141 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 142 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |

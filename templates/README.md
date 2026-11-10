@@ -66,7 +66,7 @@
 | 56 | [arhamkhnz/next-shadcn-admin-dashboard](./arhamkhnz-next-shadcn-admin-dashboard.md) | ⭐ 3.3k | TypeScript | 78/100 |
 | 57 | [KhaledSaeed18/node-express-boilerplate](./khaledsaeed18-node-express-boilerplate.md) | ⭐ 36 | TypeScript | 78/100 |
 | 58 | [jsynowiec/node-typescript-boilerplate](./jsynowiec-node-typescript-boilerplate.md) | ⭐ 3k | TypeScript | 78/100 |
-| 59 | [chacosoldier/compabob](./chacosoldier-compabob.md) | ⭐ 27 | Python | 78/100 |
+| 59 | [chacosoldier/compabob](./chacosoldier-compabob.md) | ⭐ 34 | Python | 78/100 |
 | 60 | [luwhano/fastapi-langgraph-agent-production-ready-template](./luwhano-fastapi-langgraph-agent-production-ready-template.md) | ⭐ 34 | Python | 78/100 |
 | 61 | [joematthews/extreme-angular](./joematthews-extreme-angular.md) | ⭐ 190 | HTML | 78/100 |
 | 62 | [minipuft/claude-prompts](./minipuft-claude-prompts.md) | ⭐ 148 | TypeScript | 78/100 |
@@ -358,7 +358,7 @@
 | 348 | [json-e/json-e](./json-e-json-e.md) | ⭐ 213 | Rust | 60/100 |
 | 349 | [KevinYoung-Kw/vibe-resume-skill](./kevinyoung-kw-vibe-resume-skill.md) | ⭐ 24 | HTML | 60/100 |
 | 350 | [NikiforovAll/mcp-template-dotnet](./nikiforovall-mcp-template-dotnet.md) | ⭐ 27 | C# | 60/100 |
-| 351 | [chohra-med/expo_boilerplate](./chohra-med-expo-boilerplate.md) | ⭐ 28 | TypeScript | 60/100 |
+| 351 | [chohra-med/expo_boilerplate](./chohra-med-expo-boilerplate.md) | ⭐ 36 | TypeScript | 60/100 |
 | 352 | [AdamMc331/AndroidAppTemplate](./adammc331-androidapptemplate.md) | ⭐ 306 | Kotlin | 60/100 |
 | 353 | [speedpy/speedpy](./speedpy-speedpy.md) | ⭐ 82 | Python | 60/100 |
 | 354 | [cobalt-org/liquid-rust](./cobalt-org-liquid-rust.md) | ⭐ 592 | Rust | 60/100 |
@@ -367,7 +367,7 @@
 | 357 | [pipecat-ai/voice-ui-kit](./pipecat-ai-voice-ui-kit.md) | ⭐ 419 | TypeScript | 60/100 |
 | 358 | [ublue-os/image-template](./ublue-os-image-template.md) | ⭐ 891 | Just | 60/100 |
 | 359 | [shinpr/ai-coding-project-boilerplate](./shinpr-ai-coding-project-boilerplate.md) | ⭐ 238 | JavaScript | 60/100 |
-| 360 | [thought2code/mcp-annotated-java-sdk](./thought2code-mcp-annotated-java-sdk.md) | ⭐ 29 | Java | 60/100 |
+| 360 | [thought2code/mcp-annotated-java-sdk](./thought2code-mcp-annotated-java-sdk.md) | ⭐ 33 | Java | 60/100 |
 | 361 | [aimeos/pagible](./aimeos-pagible.md) | ⭐ 602 | PHP | 60/100 |
 | 362 | [onedr0p/cluster-template](./onedr0p-cluster-template.md) | ⭐ 2.8k | YAML | 60/100 |
 | 363 | [Alchemyst-ai/awesome-saas](./alchemyst-ai-awesome-saas.md) | ⭐ 421 | TypeScript | 60/100 |

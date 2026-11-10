@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 29 |
-| 🍴 **Forks** | 6 |
+| ⭐ **Stars** | 44 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Svelte |
 | 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-24 |

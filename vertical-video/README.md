@@ -81,7 +81,7 @@
 | 71 | [howznguyen/shorts-kit](./howznguyen-shorts-kit.md) | ⭐ 11 | TypeScript | 66/100 |
 | 72 | [Vancci-sloth/Sloth](./vancci-sloth-sloth.md) | ⭐ 21 | TypeScript | 66/100 |
 | 73 | [ymybxx/SoloMCN](./ymybxx-solomcn.md) | ⭐ 75 | JavaScript | 66/100 |
-| 74 | [Finderchangchang/brewreel](./finderchangchang-brewreel.md) | ⭐ 27 | TypeScript | 66/100 |
+| 74 | [Finderchangchang/brewreel](./finderchangchang-brewreel.md) | ⭐ 184 | TypeScript | 66/100 |
 | 75 | [nateherkai/hyperframes-student-kit](./nateherkai-hyperframes-student-kit.md) | ⭐ 616 | HTML | 66/100 |
 | 76 | [getcurate/reel-studio](./getcurate-reel-studio.md) | ⭐ 81 | TypeScript | 65/100 |
 | 77 | [hey-yx/allparse](./hey-yx-allparse.md) | ⭐ 106 | TypeScript | 65/100 |
@@ -110,8 +110,8 @@
 | 100 | [isaachang/motion-video-workflow](./isaachang-motion-video-workflow.md) | ⭐ 11 | JavaScript | 61/100 |
 | 101 | [xianyu110/ecommerce-video-skills](./xianyu110-ecommerce-video-skills.md) | ⭐ 11 | Python | 61/100 |
 | 102 | [SaarD00/AI-Youtube-Shorts-Generator](./saard00-ai-youtube-shorts-generator.md) | ⭐ 274 | Python | 61/100 |
-| 103 | [fxl1209739475-fxl/ai-xunjian](./fxl1209739475-fxl-ai-xunjian.md) | ⭐ 29 | TypeScript | 61/100 |
-| 104 | [HeyChengC/bighead-collage](./heychengc-bighead-collage.md) | ⭐ 29 | Python | 60/100 |
+| 103 | [fxl1209739475-fxl/ai-xunjian](./fxl1209739475-fxl-ai-xunjian.md) | ⭐ 42 | TypeScript | 61/100 |
+| 104 | [HeyChengC/bighead-collage](./heychengc-bighead-collage.md) | ⭐ 70 | Python | 60/100 |
 | 105 | [ronin1770/reel-quick](./ronin1770-reel-quick.md) | ⭐ 13 | Python | 60/100 |
 | 106 | [MelonS/MelonS-Agents](./melons-melons-agents.md) | ⭐ 15 | C# | 60/100 |
 | 107 | [CharlesPikachu/videodl](./charlespikachu-videodl.md) | ⭐ 3.2k | Python | 60/100 |
@@ -147,7 +147,7 @@
 | 137 | [2282199198/zuiqiang-shifu](./2282199198-zuiqiang-shifu.md) | ⭐ 14 | — | 54/100 |
 | 138 | [gxr404/gen-short-vid](./gxr404-gen-short-vid.md) | ⭐ 34 | TypeScript | 54/100 |
 | 139 | [waterbrojx/water-koubo](./waterbrojx-water-koubo.md) | ⭐ 11 | Python | 54/100 |
-| 140 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 29 | HTML | 54/100 |
+| 140 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 33 | HTML | 54/100 |
 | 141 | [wangcanyu/daihuo-fanpai](./wangcanyu-daihuo-fanpai.md) | ⭐ 26 | Python | 54/100 |
 | 142 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 466 | PHP | 54/100 |
 | 143 | [xiaoliangliang/auto-publish](./xiaoliangliang-auto-publish.md) | ⭐ 20 | JavaScript | 53/100 |

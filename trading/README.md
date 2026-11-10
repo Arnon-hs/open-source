@@ -12,7 +12,7 @@
 | 2 | [simonlin1212/Vibe-Research](./simonlin1212-vibe-research.md) | ⭐ 3.6k | TypeScript | 85/100 |
 | 3 | [chrisryugj/korean-dart-mcp](./chrisryugj-korean-dart-mcp.md) | ⭐ 121 | TypeScript | 80/100 |
 | 4 | [JungHoonGhae/tossinvest-cli](./junghoonghae-tossinvest-cli.md) | ⭐ 522 | Go | 80/100 |
-| 5 | [unohee/kis-agent](./unohee-kis-agent.md) | ⭐ 30 | Python | 79/100 |
+| 5 | [unohee/kis-agent](./unohee-kis-agent.md) | ⭐ 52 | Python | 79/100 |
 | 6 | [Fincept-Corporation/FinceptTerminal](./fincept-corporation-finceptterminal.md) | ⭐ 33.6k | C++ | 79/100 |
 | 7 | [wshobson/maverick-mcp](./wshobson-maverick-mcp.md) | ⭐ 721 | Python | 78/100 |
 | 8 | [StackStorm/st2](./stackstorm-st2.md) | ⭐ 6.6k | Python | 77/100 |
@@ -168,8 +168,8 @@
 | 158 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 159 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
 | 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 231 | Go | 52/100 |
-| 161 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
-| 162 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 161 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 162 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
 | 163 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 164 | [uselayer/uselayer-sdk](./uselayer-uselayer-sdk.md) | ⭐ — | — | 51/100 |
 | 165 | [weirdapps/etorotrade](./weirdapps-etorotrade.md) | ⭐ 39 | Python | 51/100 |
