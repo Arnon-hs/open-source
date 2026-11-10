@@ -355,7 +355,7 @@
 | 345 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 310 | Rust | 43/100 |
 | 346 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 43/100 |
 | 347 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
-| 348 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ — | — | 41/100 |
+| 348 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ 35 | — | 41/100 |
 | 349 | [RedRiotTank/NativeJsonNavigator](./redriottank-nativejsonnavigator.md) | ⭐ 13 | — | 41/100 |
 | 350 | [luchtan-GIT/m4r-data](./luchtan-git-m4r-data.md) | ⭐ — | — | 41/100 |
 | 351 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |

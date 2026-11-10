@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · DevTools · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Illyism/awake: Illyism/awake helps add AI capability without starting from a bla
 
 ### Русский
 
-Illyism/awake: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Illyism/awake: open-source проект в категориях AI/ML, DevTools, DevOps/Infra. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,18 +64,18 @@ Illyism/awake：Illyism/awake helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 67/100 |
-| adoption | 16/100 |
-| categoryMatchCount | 100/100 |
-| stars | 22/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 22/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 53/100 |
+| recency | 80/100 |
+| adoption | 16/100 |
+| production | 61/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

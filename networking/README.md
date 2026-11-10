@@ -597,7 +597,7 @@
 | 587 | [aleenz1102/AgentState](./aleenz1102-agentstate.md) | ⭐ 5 | — | 42/100 |
 | 588 | [madeye/BaoLianDeng](./madeye-baoliandeng.md) | ⭐ 778 | Swift | 42/100 |
 | 589 | [naia-lib/naia](./naia-lib-naia.md) | ⭐ 1.2k | Rust | 42/100 |
-| 590 | [rmediatech/propylea](./rmediatech-propylea.md) | ⭐ — | — | 41/100 |
+| 590 | [rmediatech/propylea](./rmediatech-propylea.md) | ⭐ 3 | — | 41/100 |
 | 591 | [usetrim/trim](./usetrim-trim.md) | ⭐ 3 | — | 41/100 |
 | 592 | [hakuxyz/rustdrop](./hakuxyz-rustdrop.md) | ⭐ 13 | — | 41/100 |
 | 593 | [nicorobinreal/molehill](./nicorobinreal-molehill.md) | ⭐ 4 | — | 41/100 |

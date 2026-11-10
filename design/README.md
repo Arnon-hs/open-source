@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**195 projects** in this category.
+**196 projects** in this category.
 
 ## Projects
 
@@ -149,60 +149,61 @@
 | 139 | [bitjaru/styleseed](./bitjaru-styleseed.md) | ⭐ 1k | — | 42/100 |
 | 140 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ 38 | — | 42/100 |
 | 141 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 42/100 |
-| 142 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ 883 | — | 41/100 |
-| 143 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 662 | — | 41/100 |
-| 144 | [posterlet/amazing-posters](./posterlet-amazing-posters.md) | ⭐ 4 | — | 41/100 |
-| 145 | [nhunsaker/screenshot-to-tokens](./nhunsaker-screenshot-to-tokens.md) | ⭐ 7 | — | 41/100 |
-| 146 | [daneb/ai-system-design-primer](./daneb-ai-system-design-primer.md) | ⭐ 8 | — | 41/100 |
-| 147 | [dysgn/Embedded_guide_publish](./dysgn-embedded-guide-publish.md) | ⭐ 4 | — | 41/100 |
-| 148 | [macauhome/winform-designer](./macauhome-winform-designer.md) | ⭐ 2 | — | 41/100 |
-| 149 | [RohiRIK/SummonOS](./rohirik-summonos.md) | ⭐ — | — | 41/100 |
-| 150 | [giminycricket0-blip/design-html](./giminycricket0-blip-design-html.md) | ⭐ — | — | 41/100 |
-| 151 | [peterdsharpe/AeroSandbox](./peterdsharpe-aerosandbox.md) | ⭐ 1.4k | — | 41/100 |
-| 152 | [fyzugx/DEsk](./fyzugx-desk.md) | ⭐ 1.6k | — | 41/100 |
-| 153 | [storytold/figcraft](./storytold-figcraft.md) | ⭐ 4.8k | — | 41/100 |
-| 154 | [triggeredcode/lucid](./triggeredcode-lucid.md) | ⭐ 6 | — | 41/100 |
-| 155 | [dplanitzer/Serena](./dplanitzer-serena.md) | ⭐ 293 | — | 41/100 |
-| 156 | [google-deepmind/alphaprotein-novo](./google-deepmind-alphaprotein-novo.md) | ⭐ 319 | — | 41/100 |
-| 157 | [dimonomid/montray](./dimonomid-montray.md) | ⭐ 89 | — | 41/100 |
-| 158 | [rishimohan/colorshot](./rishimohan-colorshot.md) | ⭐ 16 | — | 41/100 |
-| 159 | [devdotfast/whiteboard](./devdotfast-whiteboard.md) | ⭐ 3.5k | — | 41/100 |
-| 160 | [carlosphyll/phyll](./carlosphyll-phyll.md) | ⭐ 2 | — | 41/100 |
-| 161 | [andrsrxn/icons](./andrsrxn-icons.md) | ⭐ 36 | — | 41/100 |
-| 162 | [HZou9/PCBSchemaGen_v2](./hzou9-pcbschemagen-v2.md) | ⭐ 22 | — | 41/100 |
-| 163 | [eremes81/game-design-ai-practice-en](./eremes81-game-design-ai-practice-en.md) | ⭐ 6 | — | 41/100 |
-| 164 | [definitemaybe0/vdr](./definitemaybe0-vdr.md) | ⭐ — | — | 41/100 |
-| 165 | [Prometheus-000/strata](./prometheus-000-strata.md) | ⭐ 2 | — | 41/100 |
-| 166 | [TySteele1/318a38cb5725c692b2318d7a0246c953](./tysteele1-318a38cb5725c692b2318d7a0246c953.md) | ⭐ — | — | 41/100 |
-| 167 | [PJHkorea/discrete-filament-router](./pjhkorea-discrete-filament-router.md) | ⭐ — | — | 41/100 |
-| 168 | [Cascadia-PLM/Cascadia-App](./cascadia-plm-cascadia-app.md) | ⭐ 38 | — | 41/100 |
-| 169 | [gjaekz/rea-websites](./gjaekz-rea-websites.md) | ⭐ 3 | — | 40/100 |
-| 170 | [bryceelliot/website-launch-checklist](./bryceelliot-website-launch-checklist.md) | ⭐ — | — | 39/100 |
-| 171 | [carsten-riedel/Coree.Analyzers](./carsten-riedel-coree.analyzers.md) | ⭐ 1 | C# | 39/100 |
-| 172 | [xevrion/breakscale](./xevrion-breakscale.md) | ⭐ — | — | 38/100 |
-| 173 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ 40 | — | 38/100 |
-| 174 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
-| 175 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ 120 | — | 38/100 |
-| 176 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ 737 | — | 38/100 |
-| 177 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ 13.2k | — | 38/100 |
-| 178 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ 1 | — | 38/100 |
-| 179 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ 115 | — | 38/100 |
-| 180 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
-| 181 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ 2 | — | 38/100 |
-| 182 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ 78 | — | 38/100 |
-| 183 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ 28 | — | 38/100 |
-| 184 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ 1.9k | — | 38/100 |
-| 185 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ 35 | — | 38/100 |
-| 186 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 38/100 |
-| 187 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
-| 188 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ 2.1k | — | 38/100 |
-| 189 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ 970 | — | 38/100 |
-| 190 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ 310 | — | 38/100 |
-| 191 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ 126.4k | — | 38/100 |
-| 192 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ 272 | — | 38/100 |
-| 193 | [boya16573-design/Cube3.in](./boya16573-design-cube3.in.md) | ⭐ — | HTML | 36/100 |
-| 194 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |
-| 195 | [paper-design/shaders](./paper-design-shaders.md) | ⭐ 3.9k | — | 29/100 |
+| 142 | [robbietilton/Compositor](./robbietilton-compositor.md) | ⭐ — | — | 41/100 |
+| 143 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ 883 | — | 41/100 |
+| 144 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 662 | — | 41/100 |
+| 145 | [posterlet/amazing-posters](./posterlet-amazing-posters.md) | ⭐ 4 | — | 41/100 |
+| 146 | [nhunsaker/screenshot-to-tokens](./nhunsaker-screenshot-to-tokens.md) | ⭐ 7 | — | 41/100 |
+| 147 | [daneb/ai-system-design-primer](./daneb-ai-system-design-primer.md) | ⭐ 8 | — | 41/100 |
+| 148 | [dysgn/Embedded_guide_publish](./dysgn-embedded-guide-publish.md) | ⭐ 4 | — | 41/100 |
+| 149 | [macauhome/winform-designer](./macauhome-winform-designer.md) | ⭐ 2 | — | 41/100 |
+| 150 | [RohiRIK/SummonOS](./rohirik-summonos.md) | ⭐ — | — | 41/100 |
+| 151 | [giminycricket0-blip/design-html](./giminycricket0-blip-design-html.md) | ⭐ — | — | 41/100 |
+| 152 | [peterdsharpe/AeroSandbox](./peterdsharpe-aerosandbox.md) | ⭐ 1.4k | — | 41/100 |
+| 153 | [fyzugx/DEsk](./fyzugx-desk.md) | ⭐ 1.6k | — | 41/100 |
+| 154 | [storytold/figcraft](./storytold-figcraft.md) | ⭐ 4.8k | — | 41/100 |
+| 155 | [triggeredcode/lucid](./triggeredcode-lucid.md) | ⭐ 6 | — | 41/100 |
+| 156 | [dplanitzer/Serena](./dplanitzer-serena.md) | ⭐ 293 | — | 41/100 |
+| 157 | [google-deepmind/alphaprotein-novo](./google-deepmind-alphaprotein-novo.md) | ⭐ 319 | — | 41/100 |
+| 158 | [dimonomid/montray](./dimonomid-montray.md) | ⭐ 89 | — | 41/100 |
+| 159 | [rishimohan/colorshot](./rishimohan-colorshot.md) | ⭐ 16 | — | 41/100 |
+| 160 | [devdotfast/whiteboard](./devdotfast-whiteboard.md) | ⭐ 3.5k | — | 41/100 |
+| 161 | [carlosphyll/phyll](./carlosphyll-phyll.md) | ⭐ 2 | — | 41/100 |
+| 162 | [andrsrxn/icons](./andrsrxn-icons.md) | ⭐ 36 | — | 41/100 |
+| 163 | [HZou9/PCBSchemaGen_v2](./hzou9-pcbschemagen-v2.md) | ⭐ 22 | — | 41/100 |
+| 164 | [eremes81/game-design-ai-practice-en](./eremes81-game-design-ai-practice-en.md) | ⭐ 6 | — | 41/100 |
+| 165 | [definitemaybe0/vdr](./definitemaybe0-vdr.md) | ⭐ — | — | 41/100 |
+| 166 | [Prometheus-000/strata](./prometheus-000-strata.md) | ⭐ 2 | — | 41/100 |
+| 167 | [TySteele1/318a38cb5725c692b2318d7a0246c953](./tysteele1-318a38cb5725c692b2318d7a0246c953.md) | ⭐ — | — | 41/100 |
+| 168 | [PJHkorea/discrete-filament-router](./pjhkorea-discrete-filament-router.md) | ⭐ — | — | 41/100 |
+| 169 | [Cascadia-PLM/Cascadia-App](./cascadia-plm-cascadia-app.md) | ⭐ 38 | — | 41/100 |
+| 170 | [gjaekz/rea-websites](./gjaekz-rea-websites.md) | ⭐ 3 | — | 40/100 |
+| 171 | [bryceelliot/website-launch-checklist](./bryceelliot-website-launch-checklist.md) | ⭐ — | — | 39/100 |
+| 172 | [carsten-riedel/Coree.Analyzers](./carsten-riedel-coree.analyzers.md) | ⭐ 1 | C# | 39/100 |
+| 173 | [xevrion/breakscale](./xevrion-breakscale.md) | ⭐ — | — | 38/100 |
+| 174 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ 40 | — | 38/100 |
+| 175 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
+| 176 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ 120 | — | 38/100 |
+| 177 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ 737 | — | 38/100 |
+| 178 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ 13.2k | — | 38/100 |
+| 179 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ 1 | — | 38/100 |
+| 180 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ 115 | — | 38/100 |
+| 181 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
+| 182 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ 2 | — | 38/100 |
+| 183 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ 78 | — | 38/100 |
+| 184 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ 28 | — | 38/100 |
+| 185 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ 1.9k | — | 38/100 |
+| 186 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ 35 | — | 38/100 |
+| 187 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 38/100 |
+| 188 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
+| 189 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ 2.1k | — | 38/100 |
+| 190 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ 970 | — | 38/100 |
+| 191 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ 310 | — | 38/100 |
+| 192 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ 126.4k | — | 38/100 |
+| 193 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ 272 | — | 38/100 |
+| 194 | [boya16573-design/Cube3.in](./boya16573-design-cube3.in.md) | ⭐ — | HTML | 36/100 |
+| 195 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |
+| 196 | [paper-design/shaders](./paper-design-shaders.md) | ⭐ 3.9k | — | 29/100 |
 
 ---
 
