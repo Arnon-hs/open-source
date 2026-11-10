@@ -317,7 +317,7 @@
 | 307 | [Kapendev/parin](./kapendev-parin.md) | ⭐ 146 | — | 44/100 |
 | 308 | [guangzhoueven/fps](./guangzhoueven-fps.md) | ⭐ 4 | JavaScript | 44/100 |
 | 309 | [Vibra-Ingenn/Janus](./vibra-ingenn-janus.md) | ⭐ — | — | 44/100 |
-| 310 | [oasys-works/oecs](./oasys-works-oecs.md) | ⭐ — | — | 44/100 |
+| 310 | [oasys-works/oecs](./oasys-works-oecs.md) | ⭐ 15 | — | 44/100 |
 | 311 | [ZQuestClassic/ZQuestClassic](./zquestclassic-zquestclassic.md) | ⭐ 568 | C++ | 44/100 |
 | 312 | [optozorax/portal](./optozorax-portal.md) | ⭐ 567 | Rust | 44/100 |
 | 313 | [KhronosGroup/Vulkan-ValidationLayers](./khronosgroup-vulkan-validationlayers.md) | ⭐ 1.1k | C++ | 44/100 |
@@ -331,7 +331,7 @@
 | 321 | [akoaysigod/pocket_saturn_core](./akoaysigod-pocket-saturn-core.md) | ⭐ — | — | 41/100 |
 | 322 | [horizon-rust/horizon](./horizon-rust-horizon.md) | ⭐ 8.5k | — | 41/100 |
 | 323 | [tinyBigGAMES/VindexLLM](./tinybiggames-vindexllm.md) | ⭐ — | — | 41/100 |
-| 324 | [oathshaper/oathshaper](./oathshaper-oathshaper.md) | ⭐ — | — | 41/100 |
+| 324 | [oathshaper/oathshaper](./oathshaper-oathshaper.md) | ⭐ 5 | — | 41/100 |
 | 325 | [mariuz/castle-quake2](./mariuz-castle-quake2.md) | ⭐ 10 | — | 41/100 |
 | 326 | [KhronosGroup/MoltenVK](./khronosgroup-moltenvk.md) | ⭐ 5.9k | — | 41/100 |
 | 327 | [fishfolk/bones](./fishfolk-bones.md) | ⭐ 322 | — | 41/100 |
@@ -359,7 +359,7 @@
 | 349 | [andrewfader/crtulum](./andrewfader-crtulum.md) | ⭐ 2 | — | 38/100 |
 | 350 | [BobbyAnguelov/Esoterica](./bobbyanguelov-esoterica.md) | ⭐ 1.9k | — | 38/100 |
 | 351 | [Wimacs/trellis2.c](./wimacs-trellis2.c.md) | ⭐ — | — | 38/100 |
-| 352 | [petergpt/doomql](./petergpt-doomql.md) | ⭐ — | — | 38/100 |
+| 352 | [petergpt/doomql](./petergpt-doomql.md) | ⭐ 64 | — | 38/100 |
 | 353 | [Is-Daouda/is-Engine](./is-daouda-is-engine.md) | ⭐ 235 | — | 38/100 |
 | 354 | [rwusmm-dc/4x11Engine](./rwusmm-dc-4x11engine.md) | ⭐ — | — | 38/100 |
 | 355 | [WinterSnowfall/d7vk](./wintersnowfall-d7vk.md) | ⭐ — | — | 38/100 |

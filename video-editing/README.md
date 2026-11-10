@@ -500,8 +500,8 @@
 | 490 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 804 | C++ | 54/100 |
 | 491 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 492 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 493 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
-| 494 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 493 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 494 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
 | 495 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 496 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 522 | — | 53/100 |
 | 497 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
@@ -549,7 +549,7 @@
 | 539 | [Salesforce/blip-image-captioning-large](./salesforce-blip-image-captioning-large.md) | ⭐ 1.5k | transformers | 49/100 |
 | 540 | [gladiaio/gladia-cli](./gladiaio-gladia-cli.md) | ⭐ 25 | — | 49/100 |
 | 541 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 589 | JavaScript | 49/100 |
-| 542 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ — | — | 48/100 |
+| 542 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 11 | — | 48/100 |
 | 543 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ — | Dart | 48/100 |
 | 544 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 2 | Python | 48/100 |
 | 545 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
@@ -563,9 +563,9 @@
 | 553 | [devhyper/open-video-editor](./devhyper-open-video-editor.md) | ⭐ 737 | Kotlin | 48/100 |
 | 554 | [Salesforce/blip-image-captioning-base](./salesforce-blip-image-captioning-base.md) | ⭐ 868 | transformers | 48/100 |
 | 555 | [benwbrum/fromthepage](./benwbrum-fromthepage.md) | ⭐ 187 | Ruby | 48/100 |
-| 556 | [omanshchoudhary/briareus](./omanshchoudhary-briareus.md) | ⭐ — | — | 47/100 |
+| 556 | [omanshchoudhary/briareus](./omanshchoudhary-briareus.md) | ⭐ 5 | — | 47/100 |
 | 557 | [sunerpy/voltip](./sunerpy-voltip.md) | ⭐ 96 | Rust | 47/100 |
-| 558 | [nirmaljosephukken/pylon-player](./nirmaljosephukken-pylon-player.md) | ⭐ — | Python | 47/100 |
+| 558 | [nirmaljosephukken/pylon-player](./nirmaljosephukken-pylon-player.md) | ⭐ 66 | Python | 47/100 |
 | 559 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 5.6k | TypeScript | 47/100 |
 | 560 | [prometheus-maker/corpusdiff](./prometheus-maker-corpusdiff.md) | ⭐ — | Python | 47/100 |
 | 561 | [manish7017/Whisper-FFmpeg-Transcriber-](./manish7017-whisper-ffmpeg-transcriber-.md) | ⭐ — | Python | 46/100 |
@@ -575,12 +575,12 @@
 | 565 | [yanjiliang/shengchang-ai-studio](./yanjiliang-shengchang-ai-studio.md) | ⭐ — | — | 45/100 |
 | 566 | [lonthq/overtone-captions](./lonthq-overtone-captions.md) | ⭐ 62 | — | 45/100 |
 | 567 | [nefayran/stageload](./nefayran-stageload.md) | ⭐ — | — | 45/100 |
-| 568 | [nihui/realcugan-ncnn-vulkan](./nihui-realcugan-ncnn-vulkan.md) | ⭐ — | — | 45/100 |
+| 568 | [nihui/realcugan-ncnn-vulkan](./nihui-realcugan-ncnn-vulkan.md) | ⭐ 932 | — | 45/100 |
 | 569 | [EduardoViniciusJ/AnyCaptions](./eduardoviniciusj-anycaptions.md) | ⭐ 15 | — | 45/100 |
 | 570 | [live-miracles/bunryu](./live-miracles-bunryu.md) | ⭐ 5 | — | 45/100 |
 | 571 | [waldo-van-der-code/whatyousay-oss](./waldo-van-der-code-whatyousay-oss.md) | ⭐ — | — | 45/100 |
 | 572 | [wutlu/notchsub](./wutlu-notchsub.md) | ⭐ — | — | 45/100 |
-| 573 | [openfilm/openfilm](./openfilm-openfilm.md) | ⭐ — | — | 45/100 |
+| 573 | [openfilm/openfilm](./openfilm-openfilm.md) | ⭐ 5.6k | — | 45/100 |
 | 574 | [iterative-computer/powermove](./iterative-computer-powermove.md) | ⭐ 349 | — | 45/100 |
 | 575 | [google/ExoPlayer](./google-exoplayer.md) | ⭐ 21.9k | — | 45/100 |
 | 576 | [videojs/video.js](./videojs-video.js.md) | ⭐ — | — | 45/100 |

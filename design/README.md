@@ -115,7 +115,7 @@
 | 105 | [kzhrknt/awesome-design-md-jp](./kzhrknt-awesome-design-md-jp.md) | ⭐ 1k | HTML | 49/100 |
 | 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 554 | Python | 49/100 |
 | 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.1k | Ruby | 49/100 |
-| 108 | [pixel-point/toolcraft](./pixel-point-toolcraft.md) | ⭐ — | — | 48/100 |
+| 108 | [pixel-point/toolcraft](./pixel-point-toolcraft.md) | ⭐ 1.1k | — | 48/100 |
 | 109 | [victorzhang016-code/victor-design](./victorzhang016-code-victor-design.md) | ⭐ 71 | JavaScript | 48/100 |
 | 110 | [everfu/hexo-theme-solitude](./everfu-hexo-theme-solitude.md) | ⭐ 1.2k | Stylus | 48/100 |
 | 111 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 1.2k | JavaScript | 48/100 |
@@ -127,10 +127,10 @@
 | 117 | [meta/astryx](./meta-astryx.md) | ⭐ 21.7k | — | 45/100 |
 | 118 | [VenoM9078/gradientdeck-skill](./venom9078-gradientdeck-skill.md) | ⭐ — | — | 45/100 |
 | 119 | [ui-layouts/uilayouts](./ui-layouts-uilayouts.md) | ⭐ 3.9k | — | 45/100 |
-| 120 | [qrstajalli/BranchOut](./qrstajalli-branchout.md) | ⭐ — | — | 45/100 |
+| 120 | [qrstajalli/BranchOut](./qrstajalli-branchout.md) | ⭐ 2 | — | 45/100 |
 | 121 | [a104437ana/sakura-garden](./a104437ana-sakura-garden.md) | ⭐ 17 | — | 45/100 |
 | 122 | [Shagshag/garden-graph](./shagshag-garden-graph.md) | ⭐ — | — | 45/100 |
-| 123 | [potatobeanradio/circuitRF](./potatobeanradio-circuitrf.md) | ⭐ — | — | 45/100 |
+| 123 | [potatobeanradio/circuitRF](./potatobeanradio-circuitrf.md) | ⭐ 261 | — | 45/100 |
 | 124 | [cpc/openasip](./cpc-openasip.md) | ⭐ 199 | — | 45/100 |
 | 125 | [ctxrs/figma-server](./ctxrs-figma-server.md) | ⭐ 2 | — | 45/100 |
 | 126 | [ckcool6/GGUF_Libra](./ckcool6-gguf-libra.md) | ⭐ 2 | — | 45/100 |
@@ -151,14 +151,14 @@
 | 141 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 42/100 |
 | 142 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ — | — | 41/100 |
 | 143 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 662 | — | 41/100 |
-| 144 | [posterlet/amazing-posters](./posterlet-amazing-posters.md) | ⭐ — | — | 41/100 |
+| 144 | [posterlet/amazing-posters](./posterlet-amazing-posters.md) | ⭐ 4 | — | 41/100 |
 | 145 | [nhunsaker/screenshot-to-tokens](./nhunsaker-screenshot-to-tokens.md) | ⭐ 7 | — | 41/100 |
 | 146 | [daneb/ai-system-design-primer](./daneb-ai-system-design-primer.md) | ⭐ 8 | — | 41/100 |
 | 147 | [dysgn/Embedded_guide_publish](./dysgn-embedded-guide-publish.md) | ⭐ 4 | — | 41/100 |
 | 148 | [macauhome/winform-designer](./macauhome-winform-designer.md) | ⭐ 2 | — | 41/100 |
 | 149 | [RohiRIK/SummonOS](./rohirik-summonos.md) | ⭐ — | — | 41/100 |
 | 150 | [giminycricket0-blip/design-html](./giminycricket0-blip-design-html.md) | ⭐ — | — | 41/100 |
-| 151 | [peterdsharpe/AeroSandbox](./peterdsharpe-aerosandbox.md) | ⭐ — | — | 41/100 |
+| 151 | [peterdsharpe/AeroSandbox](./peterdsharpe-aerosandbox.md) | ⭐ 1.4k | — | 41/100 |
 | 152 | [fyzugx/DEsk](./fyzugx-desk.md) | ⭐ 1.6k | — | 41/100 |
 | 153 | [storytold/figcraft](./storytold-figcraft.md) | ⭐ — | — | 41/100 |
 | 154 | [triggeredcode/lucid](./triggeredcode-lucid.md) | ⭐ — | — | 41/100 |
@@ -172,7 +172,7 @@
 | 162 | [HZou9/PCBSchemaGen_v2](./hzou9-pcbschemagen-v2.md) | ⭐ 22 | — | 41/100 |
 | 163 | [eremes81/game-design-ai-practice-en](./eremes81-game-design-ai-practice-en.md) | ⭐ 6 | — | 41/100 |
 | 164 | [definitemaybe0/vdr](./definitemaybe0-vdr.md) | ⭐ — | — | 41/100 |
-| 165 | [Prometheus-000/strata](./prometheus-000-strata.md) | ⭐ — | — | 41/100 |
+| 165 | [Prometheus-000/strata](./prometheus-000-strata.md) | ⭐ 2 | — | 41/100 |
 | 166 | [TySteele1/318a38cb5725c692b2318d7a0246c953](./tysteele1-318a38cb5725c692b2318d7a0246c953.md) | ⭐ — | — | 41/100 |
 | 167 | [PJHkorea/discrete-filament-router](./pjhkorea-discrete-filament-router.md) | ⭐ — | — | 41/100 |
 | 168 | [Cascadia-PLM/Cascadia-App](./cascadia-plm-cascadia-app.md) | ⭐ 38 | — | 41/100 |
@@ -188,7 +188,7 @@
 | 178 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ — | — | 38/100 |
 | 179 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ 115 | — | 38/100 |
 | 180 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
-| 181 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ — | — | 38/100 |
+| 181 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ 2 | — | 38/100 |
 | 182 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ — | — | 38/100 |
 | 183 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ 28 | — | 38/100 |
 | 184 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ 1.9k | — | 38/100 |
@@ -199,10 +199,10 @@
 | 189 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ 970 | — | 38/100 |
 | 190 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ — | — | 38/100 |
 | 191 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ — | — | 38/100 |
-| 192 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ — | — | 38/100 |
+| 192 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ 272 | — | 38/100 |
 | 193 | [boya16573-design/Cube3.in](./boya16573-design-cube3.in.md) | ⭐ — | HTML | 36/100 |
 | 194 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |
-| 195 | [paper-design/shaders](./paper-design-shaders.md) | ⭐ — | — | 29/100 |
+| 195 | [paper-design/shaders](./paper-design-shaders.md) | ⭐ 3.9k | — | 29/100 |
 
 ---
 

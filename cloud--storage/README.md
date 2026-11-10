@@ -525,7 +525,7 @@
 | 515 | [datareceipts/data-receipts](./datareceipts-data-receipts.md) | ⭐ — | — | 48/100 |
 | 516 | [awesome-foundation/cfnrain](./awesome-foundation-cfnrain.md) | ⭐ 18 | — | 48/100 |
 | 517 | [kamsteph/finops-scan](./kamsteph-finops-scan.md) | ⭐ 3 | — | 48/100 |
-| 518 | [R3n3r0/Nexo](./r3n3r0-nexo.md) | ⭐ — | — | 48/100 |
+| 518 | [R3n3r0/Nexo](./r3n3r0-nexo.md) | ⭐ 9 | — | 48/100 |
 | 519 | [xbill9/zombiescan-gcp](./xbill9-zombiescan-gcp.md) | ⭐ — | — | 48/100 |
 | 520 | [roblambert9/x402-vercel-gateway](./roblambert9-x402-vercel-gateway.md) | ⭐ — | — | 48/100 |
 | 521 | [sudokar/aws-sdk-vitest-mock](./sudokar-aws-sdk-vitest-mock.md) | ⭐ — | — | 48/100 |
@@ -546,8 +546,8 @@
 | 536 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 537 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ — | — | 45/100 |
 | 538 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
-| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
 | 541 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 542 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 543 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ — | — | 45/100 |
@@ -557,7 +557,7 @@
 | 547 | [rafaelherik/azure-lupa](./rafaelherik-azure-lupa.md) | ⭐ — | TypeScript | 45/100 |
 | 548 | [Suleman-Elahi/Listune](./suleman-elahi-listune.md) | ⭐ — | — | 44/100 |
 | 549 | [musaxasmammedov7/final-research](./musaxasmammedov7-final-research.md) | ⭐ 5 | — | 44/100 |
-| 550 | [nrndev/pogi](./nrndev-pogi.md) | ⭐ — | — | 44/100 |
+| 550 | [nrndev/pogi](./nrndev-pogi.md) | ⭐ 6 | — | 44/100 |
 | 551 | [s2-streamstore/cachey](./s2-streamstore-cachey.md) | ⭐ 694 | Rust | 44/100 |
 | 552 | [Azure/terraform](./azure-terraform.md) | ⭐ 930 | HCL | 44/100 |
 | 553 | [caixax/opensesh](./caixax-opensesh.md) | ⭐ 6 | Rust | 43/100 |
@@ -570,7 +570,7 @@
 | 560 | [substructureai/subs](./substructureai-subs.md) | ⭐ — | — | 42/100 |
 | 561 | [xav-db/range-cache](./xav-db-range-cache.md) | ⭐ — | — | 42/100 |
 | 562 | [Sidd27/infrawise](./sidd27-infrawise.md) | ⭐ — | — | 42/100 |
-| 563 | [pgsty/silo](./pgsty-silo.md) | ⭐ — | — | 42/100 |
+| 563 | [pgsty/silo](./pgsty-silo.md) | ⭐ 4.6k | — | 42/100 |
 | 564 | [zettalane-systems/open-lustre-cloud](./zettalane-systems-open-lustre-cloud.md) | ⭐ — | — | 42/100 |
 | 565 | [buckit-io/buckit](./buckit-io-buckit.md) | ⭐ 82 | — | 42/100 |
 | 566 | [sthalatech/atropim-s3-storage](./sthalatech-atropim-s3-storage.md) | ⭐ — | — | 42/100 |
@@ -580,7 +580,7 @@
 | 570 | [Mattboxx/esp32-tailnet-gateway](./mattboxx-esp32-tailnet-gateway.md) | ⭐ 38 | — | 41/100 |
 | 571 | [SIENNA-IT-Solutions/s3gw](./sienna-it-solutions-s3gw.md) | ⭐ — | — | 41/100 |
 | 572 | [joeiko3424-svg/oikonomia-benchmarks](./joeiko3424-svg-oikonomia-benchmarks.md) | ⭐ — | — | 41/100 |
-| 573 | [ocelhq/ocel](./ocelhq-ocel.md) | ⭐ — | — | 41/100 |
+| 573 | [ocelhq/ocel](./ocelhq-ocel.md) | ⭐ 5 | — | 41/100 |
 | 574 | [bompus/sigflint](./bompus-sigflint.md) | ⭐ 2 | — | 41/100 |
 | 575 | [Millillion/lasm](./millillion-lasm.md) | ⭐ 104 | — | 41/100 |
 | 576 | [amazonlinux/amazon-linux-2023](./amazonlinux-amazon-linux-2023.md) | ⭐ — | — | 41/100 |
@@ -590,14 +590,14 @@
 | 580 | [dev2ex/twig](./dev2ex-twig.md) | ⭐ 129 | — | 41/100 |
 | 581 | [ioflux-org/armite](./ioflux-org-armite.md) | ⭐ 9 | — | 41/100 |
 | 582 | [arabo11/zombiecost](./arabo11-zombiecost.md) | ⭐ 1 | — | 41/100 |
-| 583 | [omerfeyzioglu/glider](./omerfeyzioglu-glider.md) | ⭐ — | — | 41/100 |
+| 583 | [omerfeyzioglu/glider](./omerfeyzioglu-glider.md) | ⭐ 6 | — | 41/100 |
 | 584 | [Fazel94/floret-torch](./fazel94-floret-torch.md) | ⭐ 7 | — | 41/100 |
 | 585 | [Ace7-coder/aws-finops-auditor-lite](./ace7-coder-aws-finops-auditor-lite.md) | ⭐ — | — | 41/100 |
 | 586 | [silicium369-spec/silicium-benchmarker](./silicium369-spec-silicium-benchmarker.md) | ⭐ — | — | 41/100 |
 | 587 | [ubunye-ai-ecosystems/ubunye_engine](./ubunye-ai-ecosystems-ubunye-engine.md) | ⭐ — | — | 41/100 |
 | 588 | [danthegoodman1/s3-accelerator](./danthegoodman1-s3-accelerator.md) | ⭐ 10 | — | 41/100 |
 | 589 | [lokutor-ai/ito](./lokutor-ai-ito.md) | ⭐ 34 | — | 41/100 |
-| 590 | [omwah/esp-vim](./omwah-esp-vim.md) | ⭐ — | — | 41/100 |
+| 590 | [omwah/esp-vim](./omwah-esp-vim.md) | ⭐ 24 | — | 41/100 |
 | 591 | [lokutor-ai/oido](./lokutor-ai-oido.md) | ⭐ 131 | — | 41/100 |
 | 592 | [therezor/cardputer-ai](./therezor-cardputer-ai.md) | ⭐ — | — | 41/100 |
 | 593 | [sbalmt/ez4](./sbalmt-ez4.md) | ⭐ — | — | 41/100 |
@@ -608,7 +608,7 @@
 | 598 | [paguasmar/veloxml-deploy](./paguasmar-veloxml-deploy.md) | ⭐ — | — | 41/100 |
 | 599 | [archiecobbs/s3backer](./archiecobbs-s3backer.md) | ⭐ 621 | — | 41/100 |
 | 600 | [mrhardlint/Hard-Chat](./mrhardlint-hard-chat.md) | ⭐ 12 | — | 41/100 |
-| 601 | [oauth2-proxy/oauth2-proxy](./oauth2-proxy-oauth2-proxy.md) | ⭐ — | — | 41/100 |
+| 601 | [oauth2-proxy/oauth2-proxy](./oauth2-proxy-oauth2-proxy.md) | ⭐ 15.4k | — | 41/100 |
 | 602 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 480 | Bicep | 41/100 |
 | 603 | [suzuki0430/kro-crossplane-eks-idp-lab](./suzuki0430-kro-crossplane-eks-idp-lab.md) | ⭐ — | Shell | 40/100 |
 | 604 | [amananandrai/system-design-explainer](./amananandrai-system-design-explainer.md) | ⭐ 66 | TypeScript | 39/100 |
@@ -642,7 +642,7 @@
 | 632 | [floci-io/floci](./floci-io-floci.md) | ⭐ 31.2k | — | 38/100 |
 | 633 | [ciao22king/ShutChat](./ciao22king-shutchat.md) | ⭐ 1 | Kotlin | 37/100 |
 | 634 | [x-tahosin/groundstate](./x-tahosin-groundstate.md) | ⭐ — | JavaScript | 36/100 |
-| 635 | [psantus/aws-console-url](./psantus-aws-console-url.md) | ⭐ — | Shell | 36/100 |
+| 635 | [psantus/aws-console-url](./psantus-aws-console-url.md) | ⭐ 1 | Shell | 36/100 |
 | 636 | [WalnutIcecream/Nomad](./walnuticecream-nomad.md) | ⭐ 1 | Python | 35/100 |
 | 637 | [ballerina-platform/ballerina-standard-library](./ballerina-platform-ballerina-standard-library.md) | ⭐ — | — | 32/100 |
 | 638 | [pgsty/minio](./pgsty-minio.md) | ⭐ — | — | 29/100 |

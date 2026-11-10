@@ -142,7 +142,7 @@
 | 132 | [CrankBoyHQ/crankboy-app](./crankboyhq-crankboy-app.md) | ⭐ 413 | C | 60/100 |
 | 133 | [bitwarden/sdk-sm](./bitwarden-sdk-sm.md) | ⭐ 502 | Rust | 60/100 |
 | 134 | [langfuse/langfuse-python](./langfuse-langfuse-python.md) | ⭐ 509 | Python | 60/100 |
-| 135 | [okunix/gollama](./okunix-gollama.md) | ⭐ — | — | 59/100 |
+| 135 | [okunix/gollama](./okunix-gollama.md) | ⭐ 2 | — | 59/100 |
 | 136 | [sanity-io/client](./sanity-io-client.md) | ⭐ 114 | TypeScript | 59/100 |
 | 137 | [xai-org/xai-sdk-ts](./xai-org-xai-sdk-ts.md) | ⭐ — | — | 59/100 |
 | 138 | [sahlberg/libnfs](./sahlberg-libnfs.md) | ⭐ 609 | C | 59/100 |
@@ -174,7 +174,7 @@
 | 164 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 453 | Kotlin | 57/100 |
 | 165 | [kubernetes-client/java](./kubernetes-client-java.md) | ⭐ 4k | Java | 57/100 |
 | 166 | [dotnet/macios](./dotnet-macios.md) | ⭐ 2.9k | C# | 57/100 |
-| 167 | [opencoredev/social-sdk](./opencoredev-social-sdk.md) | ⭐ — | — | 56/100 |
+| 167 | [opencoredev/social-sdk](./opencoredev-social-sdk.md) | ⭐ 844 | — | 56/100 |
 | 168 | [Atostek/ros2-client](./atostek-ros2-client.md) | ⭐ 130 | Rust | 56/100 |
 | 169 | [birabittoh/NocturneRecomp](./birabittoh-nocturnerecomp.md) | ⭐ 424 | C++ | 56/100 |
 | 170 | [denoland/rusty_v8](./denoland-rusty-v8.md) | ⭐ 4k | Rust | 56/100 |
@@ -241,7 +241,7 @@
 | 231 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 907 | Rust | 50/100 |
 | 232 | [nrfconnect/sdk-zephyr](./nrfconnect-sdk-zephyr.md) | ⭐ 443 | C | 50/100 |
 | 233 | [gakonst/nanocodex](./gakonst-nanocodex.md) | ⭐ — | — | 49/100 |
-| 234 | [PerhapxinLab/dotdotduck](./perhapxinlab-dotdotduck.md) | ⭐ — | — | 49/100 |
+| 234 | [PerhapxinLab/dotdotduck](./perhapxinlab-dotdotduck.md) | ⭐ 11 | — | 49/100 |
 | 235 | [Ralith/openxrs](./ralith-openxrs.md) | ⭐ 341 | Rust | 49/100 |
 | 236 | [jonhoo/rust-ibverbs](./jonhoo-rust-ibverbs.md) | ⭐ 235 | Rust | 49/100 |
 | 237 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 217 | JavaScript | 49/100 |
@@ -251,8 +251,8 @@
 | 241 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ — | — | 48/100 |
 | 242 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ 2.7k | — | 48/100 |
 | 243 | [DisplayLink/displaylink-direct](./displaylink-displaylink-direct.md) | ⭐ 1 | — | 48/100 |
-| 244 | [Q-ANT-GmbH/qant_native_computing_toolkit](./q-ant-gmbh-qant-native-computing-toolkit.md) | ⭐ — | — | 48/100 |
-| 245 | [QAInsights/typesafe-java-sdk](./qainsights-typesafe-java-sdk.md) | ⭐ — | — | 48/100 |
+| 244 | [Q-ANT-GmbH/qant_native_computing_toolkit](./q-ant-gmbh-qant-native-computing-toolkit.md) | ⭐ 95 | — | 48/100 |
+| 245 | [QAInsights/typesafe-java-sdk](./qainsights-typesafe-java-sdk.md) | ⭐ 1 | — | 48/100 |
 | 246 | [ne-app-open/src](./ne-app-open-src.md) | ⭐ — | — | 48/100 |
 | 247 | [ydb-platform/ydb-go-sdk](./ydb-platform-ydb-go-sdk.md) | ⭐ — | — | 48/100 |
 | 248 | [ChristopherDond/9router-python](./christopherdond-9router-python.md) | ⭐ — | — | 48/100 |

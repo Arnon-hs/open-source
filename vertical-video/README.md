@@ -2,7 +2,7 @@
 
 > 
 
-**166 projects** in this category.
+**167 projects** in this category.
 
 ## Projects
 
@@ -170,10 +170,11 @@
 | 160 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 37 | JavaScript | 47/100 |
 | 161 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
 | 162 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
-| 163 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 10 | — | 41/100 |
-| 164 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ 1 | — | 41/100 |
-| 165 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ — | — | 41/100 |
-| 166 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
+| 163 | [RyzovaTech/Ryzova-Kernel](./ryzovatech-ryzova-kernel.md) | ⭐ — | — | 41/100 |
+| 164 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 10 | — | 41/100 |
+| 165 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ 1 | — | 41/100 |
+| 166 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ — | — | 41/100 |
+| 167 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
 
 ---
 

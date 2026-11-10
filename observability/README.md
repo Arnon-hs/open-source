@@ -176,7 +176,7 @@
 | 166 | [ymtdzzz/otel-tui](./ymtdzzz-otel-tui.md) | ⭐ 1.1k | Go | 55/100 |
 | 167 | [carverauto/serviceradar](./carverauto-serviceradar.md) | ⭐ 932 | JavaScript | 55/100 |
 | 168 | [openbkn-ai/bkn-foundry](./openbkn-ai-bkn-foundry.md) | ⭐ 1.2k | Go | 54/100 |
-| 169 | [overcheck/overcheck](./overcheck-overcheck.md) | ⭐ — | — | 54/100 |
+| 169 | [overcheck/overcheck](./overcheck-overcheck.md) | ⭐ 1 | — | 54/100 |
 | 170 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 586 | Python | 54/100 |
 | 171 | [vince-lam/awesome-local-llms](./vince-lam-awesome-local-llms.md) | ⭐ 813 | Python | 54/100 |
 | 172 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 54/100 |
@@ -215,7 +215,7 @@
 | 205 | [chirrop/chirrop-mcp](./chirrop-chirrop-mcp.md) | ⭐ 1 | — | 49/100 |
 | 206 | [Sjoerd305/tlswatch](./sjoerd305-tlswatch.md) | ⭐ — | — | 49/100 |
 | 207 | [sonic0002/eavesong](./sonic0002-eavesong.md) | ⭐ — | — | 49/100 |
-| 208 | [PrefilerLabs/reliamesh](./prefilerlabs-reliamesh.md) | ⭐ — | — | 49/100 |
+| 208 | [PrefilerLabs/reliamesh](./prefilerlabs-reliamesh.md) | ⭐ 5 | — | 49/100 |
 | 209 | [yuyalapis/agentic-telemetry](./yuyalapis-agentic-telemetry.md) | ⭐ — | — | 49/100 |
 | 210 | [GG95-lab/FreshThread-app](./gg95-lab-freshthread-app.md) | ⭐ 1 | — | 49/100 |
 | 211 | [lucafossen/who-gpu](./lucafossen-who-gpu.md) | ⭐ 1 | — | 49/100 |
@@ -224,9 +224,9 @@
 | 214 | [gbfr-logs/gbfr-logs](./gbfr-logs-gbfr-logs.md) | ⭐ 289 | Rust | 49/100 |
 | 215 | [Hayder-Rzaigui/cybernom-community](./hayder-rzaigui-cybernom-community.md) | ⭐ 3 | — | 49/100 |
 | 216 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 441 | Rust | 49/100 |
-| 217 | [rahhuul/auto-api-observe](./rahhuul-auto-api-observe.md) | ⭐ — | — | 48/100 |
+| 217 | [rahhuul/auto-api-observe](./rahhuul-auto-api-observe.md) | ⭐ 3 | — | 48/100 |
 | 218 | [tallyhook/tallyhook-collector](./tallyhook-tallyhook-collector.md) | ⭐ — | — | 48/100 |
-| 219 | [poonesnerfect/jlf](./poonesnerfect-jlf.md) | ⭐ — | — | 48/100 |
+| 219 | [poonesnerfect/jlf](./poonesnerfect-jlf.md) | ⭐ 34 | — | 48/100 |
 | 220 | [el10savio/obsIngest](./el10savio-obsingest.md) | ⭐ — | — | 48/100 |
 | 221 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 632 | C | 48/100 |
 | 222 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 599 | Go | 48/100 |
@@ -244,7 +244,7 @@
 | 234 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 334 | Java | 46/100 |
 | 235 | [lxyeternal/NPMAnalysis](./lxyeternal-npmanalysis.md) | ⭐ 3 | — | 46/100 |
 | 236 | [devicelabvn/machinery-oee-ems-retrofit-examples](./devicelabvn-machinery-oee-ems-retrofit-examples.md) | ⭐ — | — | 45/100 |
-| 237 | [oxynote/oxynote](./oxynote-oxynote.md) | ⭐ — | — | 45/100 |
+| 237 | [oxynote/oxynote](./oxynote-oxynote.md) | ⭐ 552 | — | 45/100 |
 | 238 | [greatPHPer/AlgoLassi-FileRecovery-Releases](./greatphper-algolassi-filerecovery-releases.md) | ⭐ — | — | 45/100 |
 | 239 | [Seqat/tuxctl](./seqat-tuxctl.md) | ⭐ — | Rust | 45/100 |
 | 240 | [ljedrz/nachalnik](./ljedrz-nachalnik.md) | ⭐ — | — | 45/100 |
@@ -281,7 +281,7 @@
 | 271 | [jonprice0/architecture-of-failure](./jonprice0-architecture-of-failure.md) | ⭐ 1 | — | 41/100 |
 | 272 | [jjinendra3/amidumb](./jjinendra3-amidumb.md) | ⭐ 6 | — | 41/100 |
 | 273 | [stackvitals/stackvitals](./stackvitals-stackvitals.md) | ⭐ — | — | 41/100 |
-| 274 | [premtonx/statetrack](./premtonx-statetrack.md) | ⭐ — | — | 41/100 |
+| 274 | [premtonx/statetrack](./premtonx-statetrack.md) | ⭐ 3 | — | 41/100 |
 | 275 | [janinishant/otel-log-span-status](./janinishant-otel-log-span-status.md) | ⭐ 1 | — | 41/100 |
 | 276 | [nico/ninjatracing](./nico-ninjatracing.md) | ⭐ 530 | — | 41/100 |
 | 277 | [LogneBudo/llmxray](./lognebudo-llmxray.md) | ⭐ 28 | — | 41/100 |
@@ -304,7 +304,7 @@
 | 294 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 449 | Rust | 41/100 |
 | 295 | [Claven07/dsh-plugin-agent-insights](./claven07-dsh-plugin-agent-insights.md) | ⭐ — | TypeScript | 41/100 |
 | 296 | [Pager-dot/AeroVision](./pager-dot-aerovision.md) | ⭐ — | HTML | 40/100 |
-| 297 | [nixys/nxs-anomaly](./nixys-nxs-anomaly.md) | ⭐ — | — | 40/100 |
+| 297 | [nixys/nxs-anomaly](./nixys-nxs-anomaly.md) | ⭐ 14 | — | 40/100 |
 | 298 | [reachjalil/jevlogs](./reachjalil-jevlogs.md) | ⭐ 21 | TypeScript | 40/100 |
 | 299 | [shivammusic/phantom-trace](./shivammusic-phantom-trace.md) | ⭐ — | Python | 39/100 |
 | 300 | [pyaroslav/night-shift](./pyaroslav-night-shift.md) | ⭐ — | Python | 39/100 |
@@ -327,7 +327,7 @@
 | 317 | [skuznetsov/tokenomics-viewer](./skuznetsov-tokenomics-viewer.md) | ⭐ — | — | 38/100 |
 | 318 | [hieuha/LazyCamHUD](./hieuha-lazycamhud.md) | ⭐ 1 | — | 38/100 |
 | 319 | [halidecx/fmetrics](./halidecx-fmetrics.md) | ⭐ 24 | — | 38/100 |
-| 320 | [OmarH-creator/ShareClean](./omarh-creator-shareclean.md) | ⭐ — | — | 38/100 |
+| 320 | [OmarH-creator/ShareClean](./omarh-creator-shareclean.md) | ⭐ 22 | — | 38/100 |
 | 321 | [superlinked/synty](./superlinked-synty.md) | ⭐ — | — | 38/100 |
 | 322 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 38/100 |
 | 323 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 38/100 |

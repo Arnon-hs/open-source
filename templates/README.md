@@ -401,7 +401,7 @@
 | 391 | [vercel-labs/jev-ai-sdk-form-router](./vercel-labs-jev-ai-sdk-form-router.md) | ⭐ — | — | 56/100 |
 | 392 | [kkoomen/vim-doge](./kkoomen-vim-doge.md) | ⭐ 1.1k | Rust | 56/100 |
 | 393 | [askdkc/breezejp](./askdkc-breezejp.md) | ⭐ 590 | PHP | 56/100 |
-| 394 | [prathamdmehta/backend-dash](./prathamdmehta-backend-dash.md) | ⭐ — | — | 56/100 |
+| 394 | [prathamdmehta/backend-dash](./prathamdmehta-backend-dash.md) | ⭐ 2 | — | 56/100 |
 | 395 | [matteobaccan/owner](./matteobaccan-owner.md) | ⭐ 939 | Java | 56/100 |
 | 396 | [pureconfig/pureconfig](./pureconfig-pureconfig.md) | ⭐ 1.5k | Scala | 56/100 |
 | 397 | [kovrichard/catalyst](./kovrichard-catalyst.md) | ⭐ 470 | TypeScript | 56/100 |
@@ -429,7 +429,7 @@
 | 419 | [hiroppy/web-app-template](./hiroppy-web-app-template.md) | ⭐ 172 | TypeScript | 54/100 |
 | 420 | [RobinaMirbahar/antigravity-science-plugin-cookbook](./robinamirbahar-antigravity-science-plugin-cookbook.md) | ⭐ — | HTML | 53/100 |
 | 421 | [olicesx/kixparadigm](./olicesx-kixparadigm.md) | ⭐ 30 | JavaScript | 53/100 |
-| 422 | [petervdpas/Formidable2](./petervdpas-formidable2.md) | ⭐ — | — | 53/100 |
+| 422 | [petervdpas/Formidable2](./petervdpas-formidable2.md) | ⭐ 3 | — | 53/100 |
 | 423 | [preset-io/agor](./preset-io-agor.md) | ⭐ 1.5k | TypeScript | 53/100 |
 | 424 | [sunng87/handlebars-rust](./sunng87-handlebars-rust.md) | ⭐ 1.5k | Rust | 53/100 |
 | 425 | [0x727/FingerprintHub](./0x727-fingerprinthub.md) | ⭐ 1.5k | Rust | 53/100 |
@@ -487,7 +487,7 @@
 | 477 | [watscho/express-mongodb-rest-api-boilerplate](./watscho-express-mongodb-rest-api-boilerplate.md) | ⭐ — | — | 44/100 |
 | 478 | [bodasooqa/rootstock](./bodasooqa-rootstock.md) | ⭐ — | Rust | 43/100 |
 | 479 | [TrinkieYinkie/html-cv-kit](./trinkieyinkie-html-cv-kit.md) | ⭐ — | HTML | 43/100 |
-| 480 | [nunosilva-dev/letter-generator](./nunosilva-dev-letter-generator.md) | ⭐ — | Java | 43/100 |
+| 480 | [nunosilva-dev/letter-generator](./nunosilva-dev-letter-generator.md) | ⭐ 1 | Java | 43/100 |
 | 481 | [singap2002-code/sheetvault-free-templates](./singap2002-code-sheetvault-free-templates.md) | ⭐ — | — | 43/100 |
 | 482 | [AdityaGavit/alt-code-cheat-sheet](./adityagavit-alt-code-cheat-sheet.md) | ⭐ 2 | — | 41/100 |
 | 483 | [let-def/texpresso](./let-def-texpresso.md) | ⭐ 814 | — | 41/100 |
