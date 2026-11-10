@@ -13,7 +13,7 @@
 | 3 | [zxwk1998/vue-admin-better](./zxwk1998-vue-admin-better.md) | ⭐ 18.9k | Vue | 89/100 |
 | 4 | [wassim249/fastapi-langgraph-agent-production-ready-template](./wassim249-fastapi-langgraph-agent-production-ready-template.md) | ⭐ 2.6k | Python | 88/100 |
 | 5 | [fastapi/full-stack-fastapi-template](./fastapi-full-stack-fastapi-template.md) | ⭐ 46.2k | TypeScript | 88/100 |
-| 6 | [Kiranism/next-shadcn-dashboard-starter](./kiranism-next-shadcn-dashboard-starter.md) | ⭐ 6.8k | TypeScript | 87/100 |
+| 6 | [Kiranism/next-shadcn-dashboard-starter](./kiranism-next-shadcn-dashboard-starter.md) | ⭐ 7.2k | TypeScript | 87/100 |
 | 7 | [vstorm-co/full-stack-ai-agent-template](./vstorm-co-full-stack-ai-agent-template.md) | ⭐ 1.2k | Python | 87/100 |
 | 8 | [enescingoz/awesome-n8n-templates](./enescingoz-awesome-n8n-templates.md) | ⭐ 26.3k | — | 86/100 |
 | 9 | [GrapesJS/grapesjs](./grapesjs-grapesjs.md) | ⭐ 26.4k | TypeScript | 86/100 |
@@ -48,7 +48,7 @@
 | 38 | [templatical/sdk](./templatical-sdk.md) | ⭐ 472 | TypeScript | 80/100 |
 | 39 | [kitwork/starter](./kitwork-starter.md) | ⭐ 42 | HTML | 80/100 |
 | 40 | [CuriousLearner/django-keel](./curiouslearner-django-keel.md) | ⭐ 376 | Jinja | 80/100 |
-| 41 | [oapi-codegen/oapi-codegen](./oapi-codegen-oapi-codegen.md) | ⭐ 8.5k | Go | 80/100 |
+| 41 | [oapi-codegen/oapi-codegen](./oapi-codegen-oapi-codegen.md) | ⭐ 8.7k | Go | 80/100 |
 | 42 | [rustmailer/rustmailer](./rustmailer-rustmailer.md) | ⭐ 475 | Rust | 80/100 |
 | 43 | [iniwap/AIWriteX](./iniwap-aiwritex.md) | ⭐ 1.3k | Python | 80/100 |
 | 44 | [Quicksi-CLI/quicksiCLI](./quicksi-cli-quicksicli.md) | ⭐ 100 | TypeScript | 80/100 |
@@ -87,10 +87,10 @@
 | 77 | [davila7/claude-code-templates](./davila7-claude-code-templates.md) | ⭐ 33.2k | Python | 77/100 |
 | 78 | [OpenTouryoProject/OpenTouryo](./opentouryoproject-opentouryo.md) | ⭐ 238 | C# | 76/100 |
 | 79 | [vbenjs/vue-vben-admin](./vbenjs-vue-vben-admin.md) | ⭐ 33.8k | Vue | 76/100 |
-| 80 | [e2b-dev/fragments](./e2b-dev-fragments.md) | ⭐ 6.3k | TypeScript | 76/100 |
+| 80 | [e2b-dev/fragments](./e2b-dev-fragments.md) | ⭐ 6.4k | TypeScript | 76/100 |
 | 81 | [centminmod/my-claude-code-setup](./centminmod-my-claude-code-setup.md) | ⭐ 2.4k | Python | 76/100 |
 | 82 | [devforth/adminforth](./devforth-adminforth.md) | ⭐ 410 | TypeScript | 76/100 |
-| 83 | [enricoros/big-AGI](./enricoros-big-agi.md) | ⭐ 7k | TypeScript | 76/100 |
+| 83 | [enricoros/big-AGI](./enricoros-big-agi.md) | ⭐ 7.2k | TypeScript | 76/100 |
 | 84 | [extension-js/extension.js](./extension-js-extension.js.md) | ⭐ 5k | TypeScript | 76/100 |
 | 85 | [Decodo/n8n-nodes-decodo](./decodo-n8n-nodes-decodo.md) | ⭐ 9 | TypeScript | 75/100 |
 | 86 | [salmanshahriar/Next-Elite](./salmanshahriar-next-elite.md) | ⭐ 109 | TypeScript | 75/100 |
@@ -99,7 +99,7 @@
 | 89 | [microsoft/iq-series](./microsoft-iq-series.md) | ⭐ 324 | Jupyter Notebook | 75/100 |
 | 90 | [mattgierhart/PRD-driven-context-engineering](./mattgierhart-prd-driven-context-engineering.md) | ⭐ 207 | HTML | 75/100 |
 | 91 | [aws-samples/sample-genai-on-eks-starter-kit](./aws-samples-sample-genai-on-eks-starter-kit.md) | ⭐ 76 | JavaScript | 75/100 |
-| 92 | [zabbix/zabbix](./zabbix-zabbix.md) | ⭐ 6k | Go Template | 75/100 |
+| 92 | [zabbix/zabbix](./zabbix-zabbix.md) | ⭐ 6.6k | Go Template | 75/100 |
 | 93 | [one-ie/one](./one-ie-one.md) | ⭐ 125 | Astro | 75/100 |
 | 94 | [nusquama/n8nworkflows.xyz](./nusquama-n8nworkflows.xyz.md) | ⭐ 2.4k | — | 75/100 |
 | 95 | [DollhouseMCP/mcp-server](./dollhousemcp-mcp-server.md) | ⭐ 35 | TypeScript | 75/100 |
@@ -110,7 +110,7 @@
 | 100 | [reichenbach/iwork_mcp](./reichenbach-iwork-mcp.md) | ⭐ 26 | TypeScript | 74/100 |
 | 101 | [Angular-RU/angular-ru-interview-questions](./angular-ru-angular-ru-interview-questions.md) | ⭐ 385 | HTML | 74/100 |
 | 102 | [study8677/awesome-architecture](./study8677-awesome-architecture.md) | ⭐ 1.5k | Vue | 74/100 |
-| 103 | [MervinPraison/PraisonAI](./mervinpraison-praisonai.md) | ⭐ 7.1k | Python | 74/100 |
+| 103 | [MervinPraison/PraisonAI](./mervinpraison-praisonai.md) | ⭐ 9.3k | Python | 74/100 |
 | 104 | [DarkWorldCoder/arguseye](./darkworldcoder-arguseye.md) | ⭐ 7 | TypeScript | 74/100 |
 | 105 | [copier-org/copier](./copier-org-copier.md) | ⭐ 3.5k | Python | 73/100 |
 | 106 | [nasirkhan/laravel-starter](./nasirkhan-laravel-starter.md) | ⭐ 1.4k | PHP | 73/100 |
@@ -144,7 +144,7 @@
 | 134 | [flowexec/flow](./flowexec-flow.md) | ⭐ 136 | Go | 72/100 |
 | 135 | [dev-family/admiral](./dev-family-admiral.md) | ⭐ 249 | JavaScript | 72/100 |
 | 136 | [NiGhTTraX/ts-monorepo](./nighttrax-ts-monorepo.md) | ⭐ 1.6k | TypeScript | 72/100 |
-| 137 | [NVIDIA/cutlass](./nvidia-cutlass.md) | ⭐ 10k | C++ | 72/100 |
+| 137 | [NVIDIA/cutlass](./nvidia-cutlass.md) | ⭐ 10.7k | C++ | 72/100 |
 | 138 | [wp-cli/scaffold-command](./wp-cli-scaffold-command.md) | ⭐ 171 | Gherkin | 72/100 |
 | 139 | [iPythoning/b2b-sdr-agent-template](./ipythoning-b2b-sdr-agent-template.md) | ⭐ 91 | Shell | 72/100 |
 | 140 | [fitlab-ai/agent-infra](./fitlab-ai-agent-infra.md) | ⭐ 55 | JavaScript | 72/100 |
@@ -170,7 +170,7 @@
 | 160 | [vercel-labs/knowledge-agent-template](./vercel-labs-knowledge-agent-template.md) | ⭐ 761 | TypeScript | 71/100 |
 | 161 | [ad-si/invoice-maker](./ad-si-invoice-maker.md) | ⭐ 169 | Typst | 71/100 |
 | 162 | [wuyoscar/gpt_image_2_skill](./wuyoscar-gpt-image-2-skill.md) | ⭐ 1.7k | Python | 71/100 |
-| 163 | [xitanggg/open-resume](./xitanggg-open-resume.md) | ⭐ 8.9k | TypeScript | 70/100 |
+| 163 | [xitanggg/open-resume](./xitanggg-open-resume.md) | ⭐ 9k | TypeScript | 70/100 |
 | 164 | [spliit-app/spliit](./spliit-app-spliit.md) | ⭐ 2.9k | TypeScript | 70/100 |
 | 165 | [vivekVells/mcp-pandoc](./vivekvells-mcp-pandoc.md) | ⭐ 573 | Python | 70/100 |
 | 166 | [Railly/tinte](./railly-tinte.md) | ⭐ 610 | TypeScript | 70/100 |
@@ -185,7 +185,7 @@
 | 175 | [traefik/traefik-helm-chart](./traefik-traefik-helm-chart.md) | ⭐ 1.4k | Go Template | 70/100 |
 | 176 | [EtienneLescot/n8n-as-code](./etiennelescot-n8n-as-code.md) | ⭐ 1.1k | TypeScript | 70/100 |
 | 177 | [abpframework/abp](./abpframework-abp.md) | ⭐ 14.5k | C# | 70/100 |
-| 178 | [BoundaryML/baml](./boundaryml-baml.md) | ⭐ 8.2k | Rust | 70/100 |
+| 178 | [BoundaryML/baml](./boundaryml-baml.md) | ⭐ 9.5k | Rust | 70/100 |
 | 179 | [bradraylucas-eng/mcp-notes-server](./bradraylucas-eng-mcp-notes-server.md) | ⭐ — | Python | 69/100 |
 | 180 | [zengfr/n8n-workflow-all-templates](./zengfr-n8n-workflow-all-templates.md) | ⭐ 104 | — | 69/100 |
 | 181 | [marcoturi/fastify-boilerplate](./marcoturi-fastify-boilerplate.md) | ⭐ 460 | TypeScript | 69/100 |
@@ -393,7 +393,7 @@
 | 383 | [workos/next-b2b-starter-kit](./workos-next-b2b-starter-kit.md) | ⭐ 94 | TypeScript | 57/100 |
 | 384 | [FlareStarter/flarestarter](./flarestarter-flarestarter.md) | ⭐ 53 | TypeScript | 57/100 |
 | 385 | [thymikee/jest-preset-angular](./thymikee-jest-preset-angular.md) | ⭐ 917 | TypeScript | 57/100 |
-| 386 | [antfu/eslint-config](./antfu-eslint-config.md) | ⭐ 6.2k | JavaScript | 57/100 |
+| 386 | [antfu/eslint-config](./antfu-eslint-config.md) | ⭐ 6.3k | JavaScript | 57/100 |
 | 387 | [balajeerc/straitjacket](./balajeerc-straitjacket.md) | ⭐ — | — | 56/100 |
 | 388 | [eddami/nuxt-material-admin](./eddami-nuxt-material-admin.md) | ⭐ 409 | Vue | 56/100 |
 | 389 | [amorey/agent-zero](./amorey-agent-zero.md) | ⭐ — | — | 56/100 |

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 7.4k |
-| 🍴 **Forks** | 783 |
+| 🍴 **Forks** | 782 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-05 |
@@ -53,8 +53,8 @@ berstend/puppeteer-extra：berstend/puppeteer-extra helps remove repetitive manu
 
 **Quality signals**
 
-- 7417 GitHub stars
-- 783 forks
+- 7420 GitHub stars
+- 782 forks
 - updated 2026-11-05
 - primary language: JavaScript
 - 13 topics

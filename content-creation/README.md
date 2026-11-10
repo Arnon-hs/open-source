@@ -19,10 +19,10 @@
 | 9 | [modelstudioai/cli](./modelstudioai-cli.md) | ⭐ 248 | TypeScript | 79/100 |
 | 10 | [neopen/story-shot-agent](./neopen-story-shot-agent.md) | ⭐ 139 | Python | 78/100 |
 | 11 | [ffroliva/gflow-cli](./ffroliva-gflow-cli.md) | ⭐ 111 | Python | 78/100 |
-| 12 | [HBAI-Ltd/Toonflow-app](./hbai-ltd-toonflow-app.md) | ⭐ 7.9k | HTML | 78/100 |
+| 12 | [HBAI-Ltd/Toonflow-app](./hbai-ltd-toonflow-app.md) | ⭐ 21.2k | HTML | 78/100 |
 | 13 | [SlavaSexton/ComfyUI-Agent-Kit](./slavasexton-comfyui-agent-kit.md) | ⭐ 26 | Python | 77/100 |
 | 14 | [gokayfem/ComfyUI-fal-API](./gokayfem-comfyui-fal-api.md) | ⭐ 200 | Python | 76/100 |
-| 15 | [promptslab/Awesome-Prompt-Engineering](./promptslab-awesome-prompt-engineering.md) | ⭐ 6.2k | TypeScript | 76/100 |
+| 15 | [promptslab/Awesome-Prompt-Engineering](./promptslab-awesome-prompt-engineering.md) | ⭐ 6.4k | TypeScript | 76/100 |
 | 16 | [Anil-matcha/Wan-3.0-API](./anil-matcha-wan-3.0-api.md) | ⭐ 60 | Python | 76/100 |
 | 17 | [SamurAIGPT/AI-Influencer-Generator](./samuraigpt-ai-influencer-generator.md) | ⭐ 266 | Jupyter Notebook | 76/100 |
 | 18 | [sergebulaev/linkedin-skills](./sergebulaev-linkedin-skills.md) | ⭐ 265 | Python | 76/100 |
@@ -61,7 +61,7 @@
 | 51 | [Kuhakucai/douyin-mcp](./kuhakucai-douyin-mcp.md) | ⭐ 21 | Python | 68/100 |
 | 52 | [backblaze-labs/genblaze](./backblaze-labs-genblaze.md) | ⭐ 317 | Python | 68/100 |
 | 53 | [Anil-matcha/Open-AI-UGC](./anil-matcha-open-ai-ugc.md) | ⭐ 144 | JavaScript | 68/100 |
-| 54 | [vllm-project/vllm-omni](./vllm-project-vllm-omni.md) | ⭐ 5.2k | Python | 68/100 |
+| 54 | [vllm-project/vllm-omni](./vllm-project-vllm-omni.md) | ⭐ 7.7k | Python | 68/100 |
 | 55 | [ArcReel/ArcReel](./arcreel-arcreel.md) | ⭐ 2.1k | Python | 68/100 |
 | 56 | [Anil-matcha/ai-creator-academy](./anil-matcha-ai-creator-academy.md) | ⭐ 1.8k | — | 67/100 |
 | 57 | [runapi-ai/mcp](./runapi-ai-mcp.md) | ⭐ 52 | TypeScript | 67/100 |
@@ -164,8 +164,8 @@
 | 154 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 155 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 156 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 157 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 158 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 157 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 158 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
 | 159 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 160 | [jefferson/jev](./jefferson-jev.md) | ⭐ — | — | 35/100 |
 | 161 | [google-gemini/google-adk](./google-gemini-google-adk.md) | ⭐ — | — | 35/100 |

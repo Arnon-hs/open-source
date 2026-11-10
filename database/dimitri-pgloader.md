@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.4k |
-| 🍴 **Forks** | 603 |
+| ⭐ **Stars** | 6.6k |
+| 🍴 **Forks** | 616 |
 | 💻 **Language** | Common Lisp |
 | 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-05 |

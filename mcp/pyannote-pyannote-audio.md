@@ -53,8 +53,8 @@ pyannote/pyannote-audio：pyannote/pyannote-audio helps connect AI assistants to
 
 **Quality signals**
 
-- 10757 GitHub stars
-- 1131 forks
+- 10773 GitHub stars
+- 1134 forks
 - updated 2026-11-03
 - primary language: Jupyter Notebook
 - 17 topics

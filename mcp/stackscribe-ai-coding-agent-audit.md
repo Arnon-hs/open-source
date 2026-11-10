@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Security · AI/ML
+MCP · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
 ### English
 
-stackscribe-ai/coding-agent-audit: stackscribe-ai/coding-agent-audit helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stackscribe-ai/coding-agent-audit: stackscribe-ai/coding-agent-audit helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-stackscribe-ai/coding-agent-audit: open-source проект в категориях Security, AI/ML. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+stackscribe-ai/coding-agent-audit: open-source проект в категориях MCP, AI/ML, DevTools, Security. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-stackscribe-ai/coding-agent-audit：stackscribe-ai/coding-agent-audit helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+stackscribe-ai/coding-agent-audit：stackscribe-ai/coding-agent-audit helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** stackscribe-ai/coding-agent-audit helps catch security and privacy issues earlier in the workflow.
+**Value:** stackscribe-ai/coding-agent-audit helps connect AI assistants to real tools and data through a standard protocol.
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
-- audit risk earlier
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -63,19 +63,19 @@ stackscribe-ai/coding-agent-audit：stackscribe-ai/coding-agent-audit helps catc
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 45/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 65/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 200/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 61/100 |
+| usefulness | 100/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-02 · [View on GitHub](https://github.com/stackscribe-ai/coding-agent-audit) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-02 · [View on GitHub](https://github.com/stackscribe-ai/coding-agent-audit) · [← Back to Mcp](./README.md)</sub>

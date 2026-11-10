@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML
+Automation
 
 ## 📝 Summary
 
 ### English
 
-wtlinnertz/aieos-governance-foundation: wtlinnertz/aieos-governance-foundation helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+wtlinnertz/aieos-governance-foundation: wtlinnertz/aieos-governance-foundation helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-wtlinnertz/aieos-governance-foundation: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+wtlinnertz/aieos-governance-foundation: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-wtlinnertz/aieos-governance-foundation：wtlinnertz/aieos-governance-foundation helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+wtlinnertz/aieos-governance-foundation：wtlinnertz/aieos-governance-foundation helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** wtlinnertz/aieos-governance-foundation helps add AI capability without starting from a blank model stack.
+**Value:** wtlinnertz/aieos-governance-foundation helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,19 +64,19 @@ wtlinnertz/aieos-governance-foundation：wtlinnertz/aieos-governance-foundation 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 30/100 |
-| integration | 62/100 |
-| production | 43/100 |
-| outlook | 39/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 6/100 |
 | topics | 50/100 |
+| outlook | 39/100 |
+| quality | 30/100 |
+| recency | 40/100 |
+| adoption | 5/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-02 · [View on GitHub](https://github.com/wtlinnertz/aieos-governance-foundation) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-02 · [View on GitHub](https://github.com/wtlinnertz/aieos-governance-foundation) · [← Back to Automation](./README.md)</sub>

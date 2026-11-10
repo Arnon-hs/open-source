@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.6k |
-| 🍴 **Forks** | 2k |
+| ⭐ **Stars** | 10.3k |
+| 🍴 **Forks** | 2.1k |
 | 💻 **Language** | CodeQL |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-09-05 |

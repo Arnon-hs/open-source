@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5.2k |
-| 🍴 **Forks** | 3k |
+| ⭐ **Stars** | 5.5k |
+| 🍴 **Forks** | 3.2k |
 | 💻 **Language** | Shell |
 | 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-09-05 |

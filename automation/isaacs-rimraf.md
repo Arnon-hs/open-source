@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.9k |
-| 🍴 **Forks** | 266 |
+| 🍴 **Forks** | 265 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-04 |
@@ -53,8 +53,8 @@ isaacs/rimraf：isaacs/rimraf helps remove repetitive manual operations from a w
 
 **Quality signals**
 
-- 5856 GitHub stars
-- 266 forks
+- 5857 GitHub stars
+- 265 forks
 - updated 2026-11-04
 - primary language: TypeScript
 - 6 topics

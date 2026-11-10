@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML
+Orchestration · Automation
 
 ## 📝 Summary
 
 ### English
 
-RinDig/Interpretable-Context-Methodology: RinDig/Interpretable-Context-Methodology helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+RinDig/Interpretable-Context-Methodology: RinDig/Interpretable-Context-Methodology helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-RinDig/Interpretable-Context-Methodology: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+RinDig/Interpretable-Context-Methodology: open-source проект в категориях Orchestration, Automation. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-RinDig/Interpretable-Context-Methodology：RinDig/Interpretable-Context-Methodology helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+RinDig/Interpretable-Context-Methodology：RinDig/Interpretable-Context-Methodology helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** RinDig/Interpretable-Context-Methodology helps add AI capability without starting from a blank model stack.
+**Value:** RinDig/Interpretable-Context-Methodology helps turn isolated prompts and tools into repeatable agent workflows.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,19 +65,19 @@ RinDig/Interpretable-Context-Methodology：RinDig/Interpretable-Context-Methodol
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 67/100 |
-| integration | 46/100 |
-| production | 64/100 |
-| outlook | 74/100 |
-| adoption | 65/100 |
-| categoryMatchCount | 100/100 |
-| stars | 67/100 |
 | forks | 60/100 |
-| recency | 80/100 |
+| stars | 67/100 |
 | topics | 50/100 |
+| outlook | 74/100 |
+| quality | 67/100 |
+| recency | 80/100 |
+| adoption | 65/100 |
+| production | 64/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-02 · [View on GitHub](https://github.com/RinDig/Interpretable-Context-Methodology) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-02 · [View on GitHub](https://github.com/RinDig/Interpretable-Context-Methodology) · [← Back to Orchestration](./README.md)</sub>

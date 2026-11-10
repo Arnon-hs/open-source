@@ -1,6 +1,6 @@
 # Jakeschincariol/day-trader-skill
 
-[![Stars](https://img.shields.io/github/stars/Jakeschincariol/day-trader-skill?style=flat-square&color=yellow)](https://github.com/Jakeschincariol/day-trader-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Jakeschincariol/day-trader-skill?style=flat-square&color=blue)](https://github.com/Jakeschincariol/day-trader-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jakeschincariol/day-trader-skill?style=flat-square&color=yellow)](https://github.com/Jakeschincariol/day-trader-skill/stargazers) [![Forks](https://img.shields.io/github/forks/Jakeschincariol/day-trader-skill?style=flat-square&color=blue)](https://github.com/Jakeschincariol/day-trader-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.3k |
+| ⭐ **Stars** | 6.4k |
 | 🍴 **Forks** | 1.6k |
 | 💻 **Language** | Python |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -53,8 +53,8 @@ Jakeschincariol/day-trader-skill：Jakeschincariol/day-trader-skill helps resear
 
 **Quality signals**
 
-- 6324 GitHub stars
-- 1574 forks
+- 6411 GitHub stars
+- 1588 forks
 - updated 2026-11-09
 - primary language: Python
 - 13 topics

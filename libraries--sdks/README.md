@@ -9,9 +9,9 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [Katakate/k7](./katakate-k7.md) | ⭐ 786 | Python | 85/100 |
-| 2 | [googleapis/google-api-python-client](./googleapis-google-api-python-client.md) | ⭐ 8.9k | Python | 79/100 |
+| 2 | [googleapis/google-api-python-client](./googleapis-google-api-python-client.md) | ⭐ 9k | Python | 79/100 |
 | 3 | [open-telemetry/opentelemetry-python](./open-telemetry-opentelemetry-python.md) | ⭐ 2.6k | Python | 78/100 |
-| 4 | [open-telemetry/opentelemetry-go](./open-telemetry-opentelemetry-go.md) | ⭐ 6.4k | Go | 77/100 |
+| 4 | [open-telemetry/opentelemetry-go](./open-telemetry-opentelemetry-go.md) | ⭐ 6.6k | Go | 77/100 |
 | 5 | [vmware/govmomi](./vmware-govmomi.md) | ⭐ 2.5k | Go | 75/100 |
 | 6 | [auth0/auth0.net](./auth0-auth0.net.md) | ⭐ 362 | C# | 75/100 |
 | 7 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.5k | Python | 75/100 |
@@ -63,11 +63,11 @@
 | 53 | [ansible/awx-operator](./ansible-awx-operator.md) | ⭐ 1.5k | Jinja | 67/100 |
 | 54 | [emscripten-core/emsdk](./emscripten-core-emsdk.md) | ⭐ 3.6k | Python | 66/100 |
 | 55 | [prometheus/client_rust](./prometheus-client-rust.md) | ⭐ 604 | Rust | 66/100 |
-| 56 | [librespot-org/librespot](./librespot-org-librespot.md) | ⭐ 6.9k | Rust | 66/100 |
+| 56 | [librespot-org/librespot](./librespot-org-librespot.md) | ⭐ 7.4k | Rust | 66/100 |
 | 57 | [apple/python-apple-fm-sdk](./apple-python-apple-fm-sdk.md) | ⭐ 1.2k | Python | 66/100 |
 | 58 | [microsoft/WindowsAppSDK](./microsoft-windowsappsdk.md) | ⭐ 4.5k | C++ | 66/100 |
 | 59 | [zoonman/linkedin-api-php-client](./zoonman-linkedin-api-php-client.md) | ⭐ 128 | PHP | 65/100 |
-| 60 | [ValveSoftware/source-sdk-2013](./valvesoftware-source-sdk-2013.md) | ⭐ 9.9k | C++ | 65/100 |
+| 60 | [ValveSoftware/source-sdk-2013](./valvesoftware-source-sdk-2013.md) | ⭐ 10.1k | C++ | 65/100 |
 | 61 | [gophercloud/gophercloud](./gophercloud-gophercloud.md) | ⭐ 1k | Go | 65/100 |
 | 62 | [scs/substrate-api-client](./scs-substrate-api-client.md) | ⭐ 263 | Rust | 65/100 |
 | 63 | [getsentry/sentry-dart](./getsentry-sentry-dart.md) | ⭐ 871 | Dart | 65/100 |
@@ -88,7 +88,7 @@
 | 78 | [xybp888/iOS-SDKs](./xybp888-ios-sdks.md) | ⭐ 873 | Objective-C | 64/100 |
 | 79 | [DataDog/dd-trace-rb](./datadog-dd-trace-rb.md) | ⭐ 394 | Ruby | 64/100 |
 | 80 | [TanStack/ai](./tanstack-ai.md) | ⭐ 2.6k | TypeScript | 64/100 |
-| 81 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 7.3k | Python | 64/100 |
+| 81 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 8k | Python | 64/100 |
 | 82 | [bytecodealliance/rustix](./bytecodealliance-rustix.md) | ⭐ 2.1k | Rust | 63/100 |
 | 83 | [supabase/supabase-swift](./supabase-supabase-swift.md) | ⭐ 1.3k | Swift | 63/100 |
 | 84 | [apache/hudi-rs](./apache-hudi-rs.md) | ⭐ 280 | Rust | 63/100 |
@@ -109,7 +109,7 @@
 | 99 | [rust-lang/libc](./rust-lang-libc.md) | ⭐ 2.6k | Rust | 62/100 |
 | 100 | [bifrost-io/bifrost](./bifrost-io-bifrost.md) | ⭐ 489 | Rust | 62/100 |
 | 101 | [open-telemetry/opentelemetry-java](./open-telemetry-opentelemetry-java.md) | ⭐ 2.4k | Java | 62/100 |
-| 102 | [github/copilot-sdk](./github-copilot-sdk.md) | ⭐ 8.6k | TypeScript | 62/100 |
+| 102 | [github/copilot-sdk](./github-copilot-sdk.md) | ⭐ 10.7k | TypeScript | 62/100 |
 | 103 | [metasearchcomtr/feed-validator](./metasearchcomtr-feed-validator.md) | ⭐ — | TypeScript | 61/100 |
 | 104 | [abetlen/llama-cpp-python](./abetlen-llama-cpp-python.md) | ⭐ 10.6k | Python | 61/100 |
 | 105 | [lrstanley/go-ytdlp](./lrstanley-go-ytdlp.md) | ⭐ 320 | Go | 61/100 |
@@ -156,7 +156,7 @@
 | 146 | [fish2018/webhtv](./fish2018-webhtv.md) | ⭐ 683 | Java | 59/100 |
 | 147 | [contentauth/c2pa-rs](./contentauth-c2pa-rs.md) | ⭐ 327 | Rust | 59/100 |
 | 148 | [googleapis/java-genai](./googleapis-java-genai.md) | ⭐ 371 | Java | 59/100 |
-| 149 | [PyMySQL/PyMySQL](./pymysql-pymysql.md) | ⭐ 7.8k | Python | 59/100 |
+| 149 | [PyMySQL/PyMySQL](./pymysql-pymysql.md) | ⭐ 7.9k | Python | 59/100 |
 | 150 | [kreuzberg-dev/tree-sitter-language-pack](./kreuzberg-dev-tree-sitter-language-pack.md) | ⭐ 349 | Rust | 59/100 |
 | 151 | [aliyun/aliyun-oss-python-sdk](./aliyun-aliyun-oss-python-sdk.md) | ⭐ 996 | Python | 58/100 |
 | 152 | [saddam213/AmuseAI](./saddam213-amuseai.md) | ⭐ 544 | C# | 58/100 |
@@ -198,7 +198,7 @@
 | 188 | [google/crubit](./google-crubit.md) | ⭐ 1k | C++ | 54/100 |
 | 189 | [kubernetes-client/csharp](./kubernetes-client-csharp.md) | ⭐ 1.2k | C# | 54/100 |
 | 190 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 472 | Swift | 54/100 |
-| 191 | [PyO3/maturin](./pyo3-maturin.md) | ⭐ 5.6k | Rust | 54/100 |
+| 191 | [PyO3/maturin](./pyo3-maturin.md) | ⭐ 5.9k | Rust | 54/100 |
 | 192 | [matsadler/magnus](./matsadler-magnus.md) | ⭐ 890 | Rust | 53/100 |
 | 193 | [quickwit-oss/tantivy-py](./quickwit-oss-tantivy-py.md) | ⭐ 423 | Rust | 53/100 |
 | 194 | [dotnet/ClangSharp](./dotnet-clangsharp.md) | ⭐ 1.2k | C# | 53/100 |

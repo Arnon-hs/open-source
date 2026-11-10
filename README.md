@@ -2,8 +2,8 @@
 
 Find an open-source way to solve a task, compare practical fit, and give your coding agent a grounded starting point. Browse project cards here, search the [AtlasRepo website](https://atlasrepo.com), or use the same catalog through MCP and agent skills.
 
-- **Complete data:** 45,014 indexed projects in a downloadable JSON snapshot.
-- **Focused browsing:** 45,007 project cards across 32 categories with 10+ entries.
+- **Complete data:** 45,016 indexed projects in a downloadable JSON snapshot.
+- **Focused browsing:** 45,008 project cards across 32 categories with 10+ entries.
 - **Practical context:** multilingual summaries, use cases, integration notes, repository signals and score breakdowns.
 - **Open metadata:** MIT-licensed catalog data. Each linked project has its own license.
 
@@ -16,10 +16,10 @@ Start with a main category, then open a project card for its summary and evidenc
 | Category | Project cards |
 | --- | ---: |
 | [Misc](./misc/README.md) | 18,353 |
-| [AI/ML](./aiml/README.md) | 5,305 |
-| [MCP](./mcp/README.md) | 3,019 |
-| [Orchestration](./orchestration/README.md) | 2,502 |
-| [Automation](./automation/README.md) | 1,766 |
+| [AI/ML](./aiml/README.md) | 5,304 |
+| [MCP](./mcp/README.md) | 3,021 |
+| [Orchestration](./orchestration/README.md) | 2,503 |
+| [Automation](./automation/README.md) | 1,767 |
 | [DevTools](./devtools/README.md) | 1,651 |
 | [Backend](./backend/README.md) | 997 |
 | [Frontend](./frontend/README.md) | 940 |
@@ -43,7 +43,7 @@ Scores help shortlist candidates. They do not establish security, maintenance qu
 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | 110,609 | 93/100 |
 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | 79,249 | 93/100 |
 | [wasp-lang/open-saas](./templates/wasp-lang-open-saas.md) | 16,290 | 92/100 |
-| [xberg-io/xberg](./mcp/xberg-io-xberg.md) | 8,548 | 91/100 |
+| [xberg-io/xberg](./mcp/xberg-io-xberg.md) | 9,568 | 91/100 |
 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | 8,543 | 91/100 |
 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | 6,732 | 91/100 |
 | [langgenius/dify](./orchestration/langgenius-dify.md) | 160,777 | 91/100 |

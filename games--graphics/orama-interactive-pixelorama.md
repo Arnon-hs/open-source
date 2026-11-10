@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.8k |
-| 🍴 **Forks** | 518 |
+| ⭐ **Stars** | 11k |
+| 🍴 **Forks** | 614 |
 | 💻 **Language** | GDScript |
 | 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-09-05 |

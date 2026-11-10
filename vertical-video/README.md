@@ -85,7 +85,7 @@
 | 75 | [nateherkai/hyperframes-student-kit](./nateherkai-hyperframes-student-kit.md) | ⭐ 616 | HTML | 66/100 |
 | 76 | [getcurate/reel-studio](./getcurate-reel-studio.md) | ⭐ 52 | TypeScript | 65/100 |
 | 77 | [hey-yx/allparse](./hey-yx-allparse.md) | ⭐ 105 | TypeScript | 65/100 |
-| 78 | [mutonby/openshorts](./mutonby-openshorts.md) | ⭐ 7.1k | Python | 65/100 |
+| 78 | [mutonby/openshorts](./mutonby-openshorts.md) | ⭐ 7.6k | Python | 65/100 |
 | 79 | [hey-yx/short-video-extractor](./hey-yx-short-video-extractor.md) | ⭐ 103 | TypeScript | 65/100 |
 | 80 | [JuneYaooo/cheap-claude-video](./juneyaooo-cheap-claude-video.md) | ⭐ 53 | Python | 65/100 |
 | 81 | [chyiiiiiiiiiiii/yiibu](./chyiiiiiiiiiiii-yiibu.md) | ⭐ 21 | HTML | 65/100 |
@@ -165,8 +165,8 @@
 | 155 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 343 | JavaScript | 50/100 |
 | 156 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ — | — | 48/100 |
 | 157 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 47/100 |
-| 158 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
-| 159 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 47/100 |
+| 158 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 47/100 |
+| 159 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
 | 160 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 47/100 |
 | 161 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ — | — | 45/100 |
 | 162 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |

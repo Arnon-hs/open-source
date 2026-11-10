@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.9k |
+| ⭐ **Stars** | 7k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Erlang |
 | 📈 **Score** | 76/100 |

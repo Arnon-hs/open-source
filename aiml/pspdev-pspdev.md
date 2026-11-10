@@ -65,18 +65,18 @@ pspdev/pspdev：pspdev/pspdev helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 52/100 |
-| integration | 30/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 50/100 |
-| categoryMatchCount | 100/100 |
-| stars | 53/100 |
 | forks | 41/100 |
-| recency | 40/100 |
+| stars | 53/100 |
 | topics | 63/100 |
+| outlook | 48/100 |
+| quality | 52/100 |
+| recency | 40/100 |
+| adoption | 50/100 |
+| production | 47/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

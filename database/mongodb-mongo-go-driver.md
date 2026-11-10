@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8.5k |
-| 🍴 **Forks** | 942 |
+| 🍴 **Forks** | 945 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-11-03 |
@@ -54,7 +54,7 @@ mongodb/mongo-go-driver：mongodb/mongo-go-driver helps teams persist, query, an
 **Quality signals**
 
 - 8542 GitHub stars
-- 942 forks
+- 945 forks
 - updated 2026-11-03
 - primary language: Go
 - 9 topics
