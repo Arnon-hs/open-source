@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -296,8 +296,8 @@
 | 286 | [rancher/k3k](./rancher-k3k.md) | ⭐ 920 | Go | 57/100 |
 | 287 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 459 | Dockerfile | 57/100 |
 | 288 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.4k | PHP | 57/100 |
-| 289 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
-| 290 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 289 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 290 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
 | 291 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10.4k | Go | 57/100 |
 | 292 | [tackish/pigeoneye](./tackish-pigeoneye.md) | ⭐ — | — | 56/100 |
 | 293 | [softcane/codex-session-operator](./softcane-codex-session-operator.md) | ⭐ — | — | 56/100 |
@@ -397,9 +397,9 @@
 | 387 | [billimek/k8s-gitops](./billimek-k8s-gitops.md) | ⭐ 782 | YAML | 49/100 |
 | 388 | [ayanag5076-commits/prbot](./ayanag5076-commits-prbot.md) | ⭐ 2 | — | 48/100 |
 | 389 | [Magier/Ran](./magier-ran.md) | ⭐ — | — | 48/100 |
-| 390 | [freshNfunky/Timeminator-Community](./freshnfunky-timeminator-community.md) | ⭐ — | — | 48/100 |
+| 390 | [freshNfunky/Timeminator-Community](./freshnfunky-timeminator-community.md) | ⭐ 2 | — | 48/100 |
 | 391 | [bealesh/neckbeard](./bealesh-neckbeard.md) | ⭐ 278 | — | 48/100 |
-| 392 | [hashicorp/tfctl-cli](./hashicorp-tfctl-cli.md) | ⭐ — | — | 48/100 |
+| 392 | [hashicorp/tfctl-cli](./hashicorp-tfctl-cli.md) | ⭐ 60 | — | 48/100 |
 | 393 | [edgedelta/project-arena](./edgedelta-project-arena.md) | ⭐ 13 | — | 48/100 |
 | 394 | [skidvis/lcars-k8s](./skidvis-lcars-k8s.md) | ⭐ — | — | 48/100 |
 | 395 | [shhivv/use-blender](./shhivv-use-blender.md) | ⭐ — | — | 48/100 |
@@ -418,7 +418,7 @@
 | 408 | [rafnixg/odoo-platform-ephemeral-environment](./rafnixg-odoo-platform-ephemeral-environment.md) | ⭐ — | — | 47/100 |
 | 409 | [Arnon-hs/jit-runner-kit](./arnon-hs-jit-runner-kit.md) | ⭐ 1 | Shell | 47/100 |
 | 410 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 699 | Go | 47/100 |
-| 411 | [github/gh-actions-lock](./github-gh-actions-lock.md) | ⭐ — | — | 46/100 |
+| 411 | [github/gh-actions-lock](./github-gh-actions-lock.md) | ⭐ 313 | — | 46/100 |
 | 412 | [GauravS13/raptor-desk](./gauravs13-raptor-desk.md) | ⭐ — | Python | 46/100 |
 | 413 | [The-DevOps-Daily/do-agent-issue-to-pr](./the-devops-daily-do-agent-issue-to-pr.md) | ⭐ — | — | 46/100 |
 | 414 | [gisiahq/gisia](./gisiahq-gisia.md) | ⭐ 167 | Ruby | 46/100 |
@@ -429,12 +429,12 @@
 | 419 | [tara-vision/taracode](./tara-vision-taracode.md) | ⭐ — | — | 45/100 |
 | 420 | [boundflow/charter](./boundflow-charter.md) | ⭐ 17 | — | 45/100 |
 | 421 | [egma-ai/egma](./egma-ai-egma.md) | ⭐ 146 | — | 45/100 |
-| 422 | [HenkVanHoek/njord-deploy](./henkvanhoek-njord-deploy.md) | ⭐ — | — | 45/100 |
+| 422 | [HenkVanHoek/njord-deploy](./henkvanhoek-njord-deploy.md) | ⭐ 3 | — | 45/100 |
 | 423 | [isms-core-project/kubernetes-dashboard](./isms-core-project-kubernetes-dashboard.md) | ⭐ — | — | 45/100 |
 | 424 | [curie-eng/curie](./curie-eng-curie.md) | ⭐ 48 | — | 45/100 |
 | 425 | [beltagyy/kube-radar](./beltagyy-kube-radar.md) | ⭐ — | — | 45/100 |
 | 426 | [mohit17mor/SquadAI](./mohit17mor-squadai.md) | ⭐ — | — | 45/100 |
-| 427 | [flaviolivolsi/officina](./flaviolivolsi-officina.md) | ⭐ — | — | 45/100 |
+| 427 | [flaviolivolsi/officina](./flaviolivolsi-officina.md) | ⭐ 2 | — | 45/100 |
 | 428 | [amiorin/green](./amiorin-green.md) | ⭐ — | — | 45/100 |
 | 429 | [PizzukaTorph/compose-watchdog](./pizzukatorph-compose-watchdog.md) | ⭐ — | — | 45/100 |
 | 430 | [av/mi](./av-mi.md) | ⭐ — | — | 45/100 |
@@ -455,7 +455,7 @@
 | 445 | [microsoft/brewlet](./microsoft-brewlet.md) | ⭐ — | — | 44/100 |
 | 446 | [chenhunghan/lens-racks](./chenhunghan-lens-racks.md) | ⭐ 4 | — | 44/100 |
 | 447 | [lask-task-runner/lask](./lask-task-runner-lask.md) | ⭐ — | — | 44/100 |
-| 448 | [hivepaas/hivepaas](./hivepaas-hivepaas.md) | ⭐ — | — | 44/100 |
+| 448 | [hivepaas/hivepaas](./hivepaas-hivepaas.md) | ⭐ 340 | — | 44/100 |
 | 449 | [ricardoborges/rcdesktop](./ricardoborges-rcdesktop.md) | ⭐ — | — | 44/100 |
 | 450 | [abdulsalam-create/bounty-watch](./abdulsalam-create-bounty-watch.md) | ⭐ — | Python | 44/100 |
 | 451 | [v94lere/solon](./v94lere-solon.md) | ⭐ — | — | 44/100 |
@@ -482,8 +482,8 @@
 | 472 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 473 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ — | — | 42/100 |
 | 474 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 475 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
-| 476 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 475 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ — | — | 42/100 |
+| 476 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ — | — | 42/100 |
 | 477 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 478 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 479 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |
@@ -494,7 +494,7 @@
 | 484 | [picubedllc/terraform-provider-appleads](./picubedllc-terraform-provider-appleads.md) | ⭐ — | — | 41/100 |
 | 485 | [TilakMaddy/hyperindex-openinfra](./tilakmaddy-hyperindex-openinfra.md) | ⭐ — | — | 41/100 |
 | 486 | [breezycourses/presage](./breezycourses-presage.md) | ⭐ 3 | — | 41/100 |
-| 487 | [GoogleContainerTools/distroless](./googlecontainertools-distroless.md) | ⭐ — | — | 41/100 |
+| 487 | [GoogleContainerTools/distroless](./googlecontainertools-distroless.md) | ⭐ 23.2k | — | 41/100 |
 | 488 | [cyb3ralbert/chapter-zero](./cyb3ralbert-chapter-zero.md) | ⭐ 9 | — | 41/100 |
 | 489 | [opscart/docker-security-practical-guide](./opscart-docker-security-practical-guide.md) | ⭐ — | — | 41/100 |
 | 490 | [k8s-security-pro/k8s-audit](./k8s-security-pro-k8s-audit.md) | ⭐ — | — | 41/100 |
@@ -504,7 +504,7 @@
 | 494 | [togettoyou/zke](./togettoyou-zke.md) | ⭐ — | — | 41/100 |
 | 495 | [DevFoundry-labs/configledger](./devfoundry-labs-configledger.md) | ⭐ 4 | — | 41/100 |
 | 496 | [opscart/opscart-k8s-watcher](./opscart-opscart-k8s-watcher.md) | ⭐ — | — | 41/100 |
-| 497 | [GlediLami/kubetective](./gledilami-kubetective.md) | ⭐ — | — | 41/100 |
+| 497 | [GlediLami/kubetective](./gledilami-kubetective.md) | ⭐ 7 | — | 41/100 |
 | 498 | [deployah-dev/deployah](./deployah-dev-deployah.md) | ⭐ 30 | — | 41/100 |
 | 499 | [an4kronism/ai-escape-room](./an4kronism-ai-escape-room.md) | ⭐ 8 | — | 41/100 |
 | 500 | [ai-lab-tech/triton-control](./ai-lab-tech-triton-control.md) | ⭐ 10 | — | 41/100 |

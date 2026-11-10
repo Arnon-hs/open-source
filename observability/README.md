@@ -217,12 +217,12 @@
 | 207 | [sonic0002/eavesong](./sonic0002-eavesong.md) | ⭐ — | — | 49/100 |
 | 208 | [PrefilerLabs/reliamesh](./prefilerlabs-reliamesh.md) | ⭐ — | — | 49/100 |
 | 209 | [yuyalapis/agentic-telemetry](./yuyalapis-agentic-telemetry.md) | ⭐ — | — | 49/100 |
-| 210 | [GG95-lab/FreshThread-app](./gg95-lab-freshthread-app.md) | ⭐ — | — | 49/100 |
+| 210 | [GG95-lab/FreshThread-app](./gg95-lab-freshthread-app.md) | ⭐ 1 | — | 49/100 |
 | 211 | [lucafossen/who-gpu](./lucafossen-who-gpu.md) | ⭐ — | — | 49/100 |
 | 212 | [eliau2005/statixagent](./eliau2005-statixagent.md) | ⭐ 5 | — | 49/100 |
 | 213 | [rotel-dev/rotel](./rotel-dev-rotel.md) | ⭐ 412 | Rust | 49/100 |
 | 214 | [gbfr-logs/gbfr-logs](./gbfr-logs-gbfr-logs.md) | ⭐ 289 | Rust | 49/100 |
-| 215 | [Hayder-Rzaigui/cybernom-community](./hayder-rzaigui-cybernom-community.md) | ⭐ — | — | 49/100 |
+| 215 | [Hayder-Rzaigui/cybernom-community](./hayder-rzaigui-cybernom-community.md) | ⭐ 3 | — | 49/100 |
 | 216 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 441 | Rust | 49/100 |
 | 217 | [rahhuul/auto-api-observe](./rahhuul-auto-api-observe.md) | ⭐ — | — | 48/100 |
 | 218 | [tallyhook/tallyhook-collector](./tallyhook-tallyhook-collector.md) | ⭐ — | — | 48/100 |
@@ -249,7 +249,7 @@
 | 239 | [Seqat/tuxctl](./seqat-tuxctl.md) | ⭐ — | Rust | 45/100 |
 | 240 | [ljedrz/nachalnik](./ljedrz-nachalnik.md) | ⭐ — | — | 45/100 |
 | 241 | [deghosal-2026/hiveplane](./deghosal-2026-hiveplane.md) | ⭐ 4 | Python | 45/100 |
-| 242 | [hsnsdt/usagebar](./hsnsdt-usagebar.md) | ⭐ — | — | 45/100 |
+| 242 | [hsnsdt/usagebar](./hsnsdt-usagebar.md) | ⭐ 2 | — | 45/100 |
 | 243 | [mohitkumar188/AgentTrace](./mohitkumar188-agenttrace.md) | ⭐ — | — | 45/100 |
 | 244 | [grafana/agento11y](./grafana-agento11y.md) | ⭐ — | — | 45/100 |
 | 245 | [Official-Novadesk/novadesk](./official-novadesk-novadesk.md) | ⭐ 6 | C++ | 45/100 |
@@ -264,7 +264,7 @@
 | 254 | [nimishaaa/gaslit-aisoc](./nimishaaa-gaslit-aisoc.md) | ⭐ — | — | 42/100 |
 | 255 | [railspulse-org/rails_pulse](./railspulse-org-rails-pulse.md) | ⭐ — | — | 42/100 |
 | 256 | [issacnitin/SshSessionMonitor](./issacnitin-sshsessionmonitor.md) | ⭐ — | — | 42/100 |
-| 257 | [fireinbelly/biomass-conversion-index-monitoring-system](./fireinbelly-biomass-conversion-index-monitoring-system.md) | ⭐ — | — | 42/100 |
+| 257 | [fireinbelly/biomass-conversion-index-monitoring-system](./fireinbelly-biomass-conversion-index-monitoring-system.md) | ⭐ 5 | — | 42/100 |
 | 258 | [alexander-akhmetov/grafana-agento11y-hermes](./alexander-akhmetov-grafana-agento11y-hermes.md) | ⭐ 49 | — | 42/100 |
 | 259 | [coroot/rca-lab](./coroot-rca-lab.md) | ⭐ 38 | — | 42/100 |
 | 260 | [Tboworst/beacon](./tboworst-beacon.md) | ⭐ — | — | 42/100 |
@@ -273,7 +273,7 @@
 | 263 | [tachyontec/pi-sd-monitor](./tachyontec-pi-sd-monitor.md) | ⭐ — | — | 42/100 |
 | 264 | [aibudaevv/sip-exporter](./aibudaevv-sip-exporter.md) | ⭐ 58 | — | 42/100 |
 | 265 | [eric-tramel/moraine](./eric-tramel-moraine.md) | ⭐ 116 | — | 42/100 |
-| 266 | [Faultsense/faultsense-agent](./faultsense-faultsense-agent.md) | ⭐ — | — | 42/100 |
+| 266 | [Faultsense/faultsense-agent](./faultsense-faultsense-agent.md) | ⭐ 4 | — | 42/100 |
 | 267 | [amitbidlan/zistica-lumin](./amitbidlan-zistica-lumin.md) | ⭐ 2 | — | 42/100 |
 | 268 | [rbmuller/scherlok](./rbmuller-scherlok.md) | ⭐ — | — | 42/100 |
 | 269 | [dooly6276/claude-bulkhead](./dooly6276-claude-bulkhead.md) | ⭐ 27 | — | 41/100 |
@@ -289,7 +289,7 @@
 | 279 | [sponsoredlogs/sponsored-logs-rs](./sponsoredlogs-sponsored-logs-rs.md) | ⭐ — | — | 41/100 |
 | 280 | [datadog-labs/reflex](./datadog-labs-reflex.md) | ⭐ 34 | — | 41/100 |
 | 281 | [dpaneda/pico_exporter](./dpaneda-pico-exporter.md) | ⭐ 6 | — | 41/100 |
-| 282 | [ghuntley/nix-compact](./ghuntley-nix-compact.md) | ⭐ — | — | 41/100 |
+| 282 | [ghuntley/nix-compact](./ghuntley-nix-compact.md) | ⭐ 19 | — | 41/100 |
 | 283 | [ishantanu/jevmetrics](./ishantanu-jevmetrics.md) | ⭐ — | — | 41/100 |
 | 284 | [colinedwardwood/sagemcom-docsis-exporter](./colinedwardwood-sagemcom-docsis-exporter.md) | ⭐ — | — | 41/100 |
 | 285 | [arhuman/dllog](./arhuman-dllog.md) | ⭐ 7 | — | 41/100 |
@@ -317,7 +317,7 @@
 | 307 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ — | — | 38/100 |
 | 308 | [superwired-labs/Pulp](./superwired-labs-pulp.md) | ⭐ — | — | 38/100 |
 | 309 | [Rehanrana11/evidence-verify](./rehanrana11-evidence-verify.md) | ⭐ — | — | 38/100 |
-| 310 | [HimitsuShell/HimitsuShell](./himitsushell-himitsushell.md) | ⭐ — | — | 38/100 |
+| 310 | [HimitsuShell/HimitsuShell](./himitsushell-himitsushell.md) | ⭐ 71 | — | 38/100 |
 | 311 | [mcindi/siematic](./mcindi-siematic.md) | ⭐ — | — | 38/100 |
 | 312 | [ctrlb-hq/ctrlb-decompose](./ctrlb-hq-ctrlb-decompose.md) | ⭐ 305 | — | 38/100 |
 | 313 | [swiftlogicsystems/swifttopology](./swiftlogicsystems-swifttopology.md) | ⭐ — | — | 38/100 |
@@ -325,8 +325,8 @@
 | 315 | [endformdev/playwright-opentelemetry](./endformdev-playwright-opentelemetry.md) | ⭐ 27 | — | 38/100 |
 | 316 | [sanitizeai/logguardai](./sanitizeai-logguardai.md) | ⭐ — | — | 38/100 |
 | 317 | [skuznetsov/tokenomics-viewer](./skuznetsov-tokenomics-viewer.md) | ⭐ — | — | 38/100 |
-| 318 | [hieuha/LazyCamHUD](./hieuha-lazycamhud.md) | ⭐ — | — | 38/100 |
-| 319 | [halidecx/fmetrics](./halidecx-fmetrics.md) | ⭐ — | — | 38/100 |
+| 318 | [hieuha/LazyCamHUD](./hieuha-lazycamhud.md) | ⭐ 1 | — | 38/100 |
+| 319 | [halidecx/fmetrics](./halidecx-fmetrics.md) | ⭐ 24 | — | 38/100 |
 | 320 | [OmarH-creator/ShareClean](./omarh-creator-shareclean.md) | ⭐ — | — | 38/100 |
 | 321 | [superlinked/synty](./superlinked-synty.md) | ⭐ — | — | 38/100 |
 | 322 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 38/100 |

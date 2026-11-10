@@ -147,7 +147,7 @@
 | 137 | [eraserlabs/eraser-diagrams](./eraserlabs-eraser-diagrams.md) | ⭐ 312 | — | 42/100 |
 | 138 | [David-OConnor/bio_tools](./david-oconnor-bio-tools.md) | ⭐ 1 | — | 42/100 |
 | 139 | [bitjaru/styleseed](./bitjaru-styleseed.md) | ⭐ 1k | — | 42/100 |
-| 140 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ — | — | 42/100 |
+| 140 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ 38 | — | 42/100 |
 | 141 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 42/100 |
 | 142 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ — | — | 41/100 |
 | 143 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 662 | — | 41/100 |
@@ -159,11 +159,11 @@
 | 149 | [RohiRIK/SummonOS](./rohirik-summonos.md) | ⭐ — | — | 41/100 |
 | 150 | [giminycricket0-blip/design-html](./giminycricket0-blip-design-html.md) | ⭐ — | — | 41/100 |
 | 151 | [peterdsharpe/AeroSandbox](./peterdsharpe-aerosandbox.md) | ⭐ — | — | 41/100 |
-| 152 | [fyzugx/DEsk](./fyzugx-desk.md) | ⭐ — | — | 41/100 |
+| 152 | [fyzugx/DEsk](./fyzugx-desk.md) | ⭐ 1.6k | — | 41/100 |
 | 153 | [storytold/figcraft](./storytold-figcraft.md) | ⭐ — | — | 41/100 |
 | 154 | [triggeredcode/lucid](./triggeredcode-lucid.md) | ⭐ — | — | 41/100 |
 | 155 | [dplanitzer/Serena](./dplanitzer-serena.md) | ⭐ 293 | — | 41/100 |
-| 156 | [google-deepmind/alphaprotein-novo](./google-deepmind-alphaprotein-novo.md) | ⭐ — | — | 41/100 |
+| 156 | [google-deepmind/alphaprotein-novo](./google-deepmind-alphaprotein-novo.md) | ⭐ 319 | — | 41/100 |
 | 157 | [dimonomid/montray](./dimonomid-montray.md) | ⭐ 89 | — | 41/100 |
 | 158 | [rishimohan/colorshot](./rishimohan-colorshot.md) | ⭐ — | — | 41/100 |
 | 159 | [devdotfast/whiteboard](./devdotfast-whiteboard.md) | ⭐ 3.5k | — | 41/100 |
@@ -176,7 +176,7 @@
 | 166 | [TySteele1/318a38cb5725c692b2318d7a0246c953](./tysteele1-318a38cb5725c692b2318d7a0246c953.md) | ⭐ — | — | 41/100 |
 | 167 | [PJHkorea/discrete-filament-router](./pjhkorea-discrete-filament-router.md) | ⭐ — | — | 41/100 |
 | 168 | [Cascadia-PLM/Cascadia-App](./cascadia-plm-cascadia-app.md) | ⭐ 38 | — | 41/100 |
-| 169 | [gjaekz/rea-websites](./gjaekz-rea-websites.md) | ⭐ — | — | 40/100 |
+| 169 | [gjaekz/rea-websites](./gjaekz-rea-websites.md) | ⭐ 3 | — | 40/100 |
 | 170 | [bryceelliot/website-launch-checklist](./bryceelliot-website-launch-checklist.md) | ⭐ — | — | 39/100 |
 | 171 | [carsten-riedel/Coree.Analyzers](./carsten-riedel-coree.analyzers.md) | ⭐ 1 | C# | 39/100 |
 | 172 | [xevrion/breakscale](./xevrion-breakscale.md) | ⭐ — | — | 38/100 |
@@ -192,7 +192,7 @@
 | 182 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ — | — | 38/100 |
 | 183 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ 28 | — | 38/100 |
 | 184 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ — | — | 38/100 |
-| 185 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ — | — | 38/100 |
+| 185 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ 35 | — | 38/100 |
 | 186 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 38/100 |
 | 187 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
 | 188 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ — | — | 38/100 |

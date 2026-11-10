@@ -63,18 +63,18 @@ liao-zhizhi/agent-metabolism-os：liao-zhizhi/agent-metabolism-os helps remove r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 40/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 53/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 200/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 53/100 |
+| quality | 40/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -339,7 +339,7 @@
 | 329 | [agustind/dbjoy](./agustind-dbjoy.md) | ⭐ 15 | — | 48/100 |
 | 330 | [dialohq/tailscale-database-gateway](./dialohq-tailscale-database-gateway.md) | ⭐ 8 | — | 48/100 |
 | 331 | [Shman4ik/pgNimbus](./shman4ik-pgnimbus.md) | ⭐ — | — | 48/100 |
-| 332 | [frizurd/postquel](./frizurd-postquel.md) | ⭐ — | — | 48/100 |
+| 332 | [frizurd/postquel](./frizurd-postquel.md) | ⭐ 3 | — | 48/100 |
 | 333 | [abhiraj-ku/iCli](./abhiraj-ku-icli.md) | ⭐ 2 | — | 48/100 |
 | 334 | [karlis-vagalis/banker](./karlis-vagalis-banker.md) | ⭐ — | — | 48/100 |
 | 335 | [ClickHouse/walshadow](./clickhouse-walshadow.md) | ⭐ 261 | — | 48/100 |
@@ -386,7 +386,7 @@
 | 376 | [busabase/busabase-dsh-plugin](./busabase-busabase-dsh-plugin.md) | ⭐ 10 | — | 45/100 |
 | 377 | [silo-ai/silo](./silo-ai-silo.md) | ⭐ — | — | 45/100 |
 | 378 | [jamalhill12321-hash/patm](./jamalhill12321-hash-patm.md) | ⭐ — | — | 45/100 |
-| 379 | [Helius-Finance/helius-finance-tracker](./helius-finance-helius-finance-tracker.md) | ⭐ — | — | 45/100 |
+| 379 | [Helius-Finance/helius-finance-tracker](./helius-finance-helius-finance-tracker.md) | ⭐ 212 | — | 45/100 |
 | 380 | [cardmagic/solid-objects-ruby](./cardmagic-solid-objects-ruby.md) | ⭐ 40 | Ruby | 45/100 |
 | 381 | [sib-project/sib](./sib-project-sib.md) | ⭐ — | — | 45/100 |
 | 382 | [lark-sh/lark](./lark-sh-lark.md) | ⭐ — | — | 45/100 |
@@ -434,8 +434,8 @@
 | 424 | [zmzlois/AnyBlob](./zmzlois-anyblob.md) | ⭐ — | — | 42/100 |
 | 425 | [raa82/tekmerdb](./raa82-tekmerdb.md) | ⭐ — | — | 42/100 |
 | 426 | [defog-ai/factiq-plugin](./defog-ai-factiq-plugin.md) | ⭐ 20 | — | 42/100 |
-| 427 | [Geometrein/surus](./geometrein-surus.md) | ⭐ — | — | 42/100 |
-| 428 | [grecinto/tensortree](./grecinto-tensortree.md) | ⭐ — | — | 42/100 |
+| 427 | [Geometrein/surus](./geometrein-surus.md) | ⭐ 3 | — | 42/100 |
+| 428 | [grecinto/tensortree](./grecinto-tensortree.md) | ⭐ 1 | — | 42/100 |
 | 429 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ 145 | — | 42/100 |
 | 430 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ — | — | 42/100 |
 | 431 | [swytchdb/swytch](./swytchdb-swytch.md) | ⭐ — | — | 42/100 |
@@ -456,7 +456,7 @@
 | 446 | [kividbio/kividb](./kividbio-kividb.md) | ⭐ — | — | 41/100 |
 | 447 | [exasol-labs/language-container-mojo](./exasol-labs-language-container-mojo.md) | ⭐ — | — | 41/100 |
 | 448 | [scriptella/scriptella-benchmarks](./scriptella-scriptella-benchmarks.md) | ⭐ — | — | 41/100 |
-| 449 | [govindgcoder/arcKode](./govindgcoder-arckode.md) | ⭐ — | — | 41/100 |
+| 449 | [govindgcoder/arcKode](./govindgcoder-arckode.md) | ⭐ 3 | — | 41/100 |
 | 450 | [barddoo/pgzx](./barddoo-pgzx.md) | ⭐ 5 | — | 41/100 |
 | 451 | [benbjohnson/litestream](./benbjohnson-litestream.md) | ⭐ 14.6k | — | 41/100 |
 | 452 | [misaelzapata/duckonwire](./misaelzapata-duckonwire.md) | ⭐ — | — | 41/100 |
@@ -465,7 +465,7 @@
 | 455 | [samyfodil/musql](./samyfodil-musql.md) | ⭐ — | — | 41/100 |
 | 456 | [berry-apps/berrydb-desktop](./berry-apps-berrydb-desktop.md) | ⭐ 26 | — | 41/100 |
 | 457 | [project-minigraf/minigraf](./project-minigraf-minigraf.md) | ⭐ — | — | 41/100 |
-| 458 | [explaindb/explaindb](./explaindb-explaindb.md) | ⭐ — | — | 41/100 |
+| 458 | [explaindb/explaindb](./explaindb-explaindb.md) | ⭐ 187 | — | 41/100 |
 | 459 | [loriscomba97/publish-from-notion](./loriscomba97-publish-from-notion.md) | ⭐ — | — | 41/100 |
 | 460 | [Volland/oxilite](./volland-oxilite.md) | ⭐ — | — | 41/100 |
 | 461 | [drawdb-io/drawdb](./drawdb-io-drawdb.md) | ⭐ 40.3k | — | 41/100 |
@@ -479,7 +479,7 @@
 | 469 | [raptodb/rapto](./raptodb-rapto.md) | ⭐ — | — | 41/100 |
 | 470 | [sqliteai/sqlite-vector](./sqliteai-sqlite-vector.md) | ⭐ — | — | 41/100 |
 | 471 | [agenticfabriq/mnemiq](./agenticfabriq-mnemiq.md) | ⭐ 79 | — | 41/100 |
-| 472 | [greenstevester/postgres-schema-gallery](./greenstevester-postgres-schema-gallery.md) | ⭐ — | — | 41/100 |
+| 472 | [greenstevester/postgres-schema-gallery](./greenstevester-postgres-schema-gallery.md) | ⭐ 1 | — | 41/100 |
 | 473 | [mchl-labs/chronovec](./mchl-labs-chronovec.md) | ⭐ — | — | 41/100 |
 | 474 | [tamnd/rucc](./tamnd-rucc.md) | ⭐ — | — | 41/100 |
 | 475 | [orbsh/okm](./orbsh-okm.md) | ⭐ — | — | 41/100 |
@@ -494,7 +494,7 @@
 | 484 | [Suleman-Elahi/frostdb](./suleman-elahi-frostdb.md) | ⭐ — | — | 41/100 |
 | 485 | [pglayers/pglayers](./pglayers-pglayers.md) | ⭐ — | — | 41/100 |
 | 486 | [onlykh/translatable](./onlykh-translatable.md) | ⭐ — | — | 41/100 |
-| 487 | [gkavinrajanCodes/pulseDB](./gkavinrajancodes-pulsedb.md) | ⭐ — | — | 41/100 |
+| 487 | [gkavinrajanCodes/pulseDB](./gkavinrajancodes-pulsedb.md) | ⭐ 3 | — | 41/100 |
 | 488 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ 8 | — | 41/100 |
 | 489 | [riii111/sabiql](./riii111-sabiql.md) | ⭐ 322 | Rust | 41/100 |
 | 490 | [ibrohim238/postgresql-leapfrog](./ibrohim238-postgresql-leapfrog.md) | ⭐ — | — | 40/100 |
@@ -502,10 +502,10 @@
 | 492 | [realZachi/pg-jev](./realzachi-pg-jev.md) | ⭐ 1.3k | — | 39/100 |
 | 493 | [ciperx/slothqueue](./ciperx-slothqueue.md) | ⭐ — | Python | 39/100 |
 | 494 | [ciperx/slothqueue-patient](./ciperx-slothqueue-patient.md) | ⭐ — | Python | 39/100 |
-| 495 | [harsh8398/saathi-yoga-copilot](./harsh8398-saathi-yoga-copilot.md) | ⭐ — | TypeScript | 39/100 |
+| 495 | [harsh8398/saathi-yoga-copilot](./harsh8398-saathi-yoga-copilot.md) | ⭐ 1 | TypeScript | 39/100 |
 | 496 | [munimtechnologies/urdb-audit](./munimtechnologies-urdb-audit.md) | ⭐ — | Python | 39/100 |
 | 497 | [thedonmon/nats-backbone-examples](./thedonmon-nats-backbone-examples.md) | ⭐ — | TypeScript | 39/100 |
-| 498 | [GoogleCloudPlatform/knowledge-catalog](./googlecloudplatform-knowledge-catalog.md) | ⭐ — | — | 39/100 |
+| 498 | [GoogleCloudPlatform/knowledge-catalog](./googlecloudplatform-knowledge-catalog.md) | ⭐ 9.6k | — | 39/100 |
 | 499 | [beltagyy/vehicle-metrics](./beltagyy-vehicle-metrics.md) | ⭐ 1 | — | 39/100 |
 | 500 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 233 | Rust | 39/100 |
 | 501 | [advisories/GHSA-2xp9-vwfh-vxw4](./advisories-ghsa-2xp9-vwfh-vxw4.md) | ⭐ — | — | 38/100 |
@@ -547,8 +547,8 @@
 | 537 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 538 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 539 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 428 | — | 38/100 |
-| 540 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
-| 541 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 69 | — | 38/100 |
+| 540 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 69 | — | 38/100 |
+| 541 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
 | 542 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 543 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ — | — | 38/100 |
 | 544 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ — | — | 38/100 |
@@ -567,7 +567,7 @@
 | 557 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 558 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 38/100 |
 | 559 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 38/100 |
-| 560 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 38/100 |
+| 560 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
 | 561 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ — | — | 38/100 |
 | 562 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 563 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ — | — | 38/100 |

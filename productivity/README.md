@@ -246,7 +246,7 @@
 | 236 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 7.2k | Swift | 50/100 |
 | 237 | [carlosfdsn/golock](./carlosfdsn-golock.md) | ⭐ 2 | Go | 50/100 |
 | 238 | [XTraceAI/xtrace-desktop](./xtraceai-xtrace-desktop.md) | ⭐ — | — | 49/100 |
-| 239 | [harleensahni/MaCcyP](./harleensahni-maccyp.md) | ⭐ — | — | 49/100 |
+| 239 | [harleensahni/MaCcyP](./harleensahni-maccyp.md) | ⭐ 3 | — | 49/100 |
 | 240 | [andreasserfilippi/clipbridge](./andreasserfilippi-clipbridge.md) | ⭐ 3 | — | 49/100 |
 | 241 | [MeisApps/pcbu-desktop](./meisapps-pcbu-desktop.md) | ⭐ 485 | C++ | 49/100 |
 | 242 | [pop-os/launcher](./pop-os-launcher.md) | ⭐ 287 | Rust | 49/100 |
@@ -257,7 +257,7 @@
 | 247 | [facebook/flow](./facebook-flow.md) | ⭐ 22.2k | Rust | 49/100 |
 | 248 | [luskaner/ageLANServer](./luskaner-agelanserver.md) | ⭐ 674 | Go | 49/100 |
 | 249 | [timothepoznanski/poznote](./timothepoznanski-poznote.md) | ⭐ 1k | JavaScript | 49/100 |
-| 250 | [harry12132/stash](./harry12132-stash.md) | ⭐ — | — | 48/100 |
+| 250 | [harry12132/stash](./harry12132-stash.md) | ⭐ 4 | — | 48/100 |
 | 251 | [lhadzic377-netizen/TokiRecur](./lhadzic377-netizen-tokirecur.md) | ⭐ — | — | 48/100 |
 | 252 | [aabedraba/tailpaste](./aabedraba-tailpaste.md) | ⭐ 4 | — | 48/100 |
 | 253 | [InexperiencedPotato/ExtensionReleaseGuard](./inexperiencedpotato-extensionreleaseguard.md) | ⭐ — | Python | 48/100 |
@@ -265,7 +265,7 @@
 | 255 | [revanapriyandi/jemur](./revanapriyandi-jemur.md) | ⭐ — | C# | 48/100 |
 | 256 | [20101997/Ditty](./20101997-ditty.md) | ⭐ 4 | — | 48/100 |
 | 257 | [OmniCouncil/OmniCouncil](./omnicouncil-omnicouncil.md) | ⭐ — | — | 48/100 |
-| 258 | [fralsare/fralculator](./fralsare-fralculator.md) | ⭐ — | TypeScript | 48/100 |
+| 258 | [fralsare/fralculator](./fralsare-fralculator.md) | ⭐ 1 | TypeScript | 48/100 |
 | 259 | [yibie/org-supertag](./yibie-org-supertag.md) | ⭐ 353 | Emacs Lisp | 48/100 |
 | 260 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 265 | Rust | 48/100 |
 | 261 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 1.5k | Shell | 48/100 |
@@ -282,7 +282,7 @@
 | 272 | [larastan/larastan](./larastan-larastan.md) | ⭐ 6.5k | PHP | 46/100 |
 | 273 | [royalpinto007/Tiny-Day](./royalpinto007-tiny-day.md) | ⭐ 5 | TypeScript | 46/100 |
 | 274 | [lovestaco/ratatop](./lovestaco-ratatop.md) | ⭐ — | — | 46/100 |
-| 275 | [google/clasp](./google-clasp.md) | ⭐ — | — | 46/100 |
+| 275 | [google/clasp](./google-clasp.md) | ⭐ 5.9k | — | 46/100 |
 | 276 | [bmorcelli/Launcher](./bmorcelli-launcher.md) | ⭐ 2.3k | C++ | 46/100 |
 | 277 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 440 | Rust | 46/100 |
 | 278 | [eval-exec/neomacs](./eval-exec-neomacs.md) | ⭐ 1.8k | Emacs Lisp | 46/100 |
@@ -296,7 +296,7 @@
 | 286 | [xvertile/SwiftPaste](./xvertile-swiftpaste.md) | ⭐ — | — | 45/100 |
 | 287 | [Deepender25/Edge-Drop](./deepender25-edge-drop.md) | ⭐ 781 | — | 45/100 |
 | 288 | [slaveofcode/goodwebtools](./slaveofcode-goodwebtools.md) | ⭐ — | — | 45/100 |
-| 289 | [HexCodeYT/PlainLink](./hexcodeyt-plainlink.md) | ⭐ — | — | 45/100 |
+| 289 | [HexCodeYT/PlainLink](./hexcodeyt-plainlink.md) | ⭐ 7 | — | 45/100 |
 | 290 | [willmeyers/coypa](./willmeyers-coypa.md) | ⭐ — | — | 45/100 |
 | 291 | [tejasashinde/clipboard-saver-extension](./tejasashinde-clipboard-saver-extension.md) | ⭐ — | — | 45/100 |
 | 292 | [rohankc69/clickit](./rohankc69-clickit.md) | ⭐ — | — | 45/100 |
@@ -323,7 +323,7 @@
 | 313 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
 | 314 | [Ludvig2457Ultra/SuperLauncherMC](./ludvig2457ultra-superlaunchermc.md) | ⭐ — | — | 41/100 |
 | 315 | [MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5](./mothersphere-d6c049a09ba8ac3085c51ee9df24a4e5.md) | ⭐ — | — | 41/100 |
-| 316 | [Fardin7798/Spider-Tv-Launcher](./fardin7798-spider-tv-launcher.md) | ⭐ — | — | 41/100 |
+| 316 | [Fardin7798/Spider-Tv-Launcher](./fardin7798-spider-tv-launcher.md) | ⭐ 30 | — | 41/100 |
 | 317 | [stronxyo/quarter](./stronxyo-quarter.md) | ⭐ — | — | 41/100 |
 | 318 | [andrewarrow/ruie](./andrewarrow-ruie.md) | ⭐ 1 | — | 41/100 |
 | 319 | [MarcelNazare/Reeve](./marcelnazare-reeve.md) | ⭐ — | — | 41/100 |
@@ -335,8 +335,8 @@
 | 325 | [logrelu/swaybles](./logrelu-swaybles.md) | ⭐ — | — | 41/100 |
 | 326 | [NathanAB/statusline-anywhere](./nathanab-statusline-anywhere.md) | ⭐ — | — | 41/100 |
 | 327 | [A-Akhil/Minimalist-Focus-Launcher](./a-akhil-minimalist-focus-launcher.md) | ⭐ 4 | Kotlin | 41/100 |
-| 328 | [frostymur/aerofi](./frostymur-aerofi.md) | ⭐ — | — | 41/100 |
-| 329 | [hashamtanveer-41/tubemerger](./hashamtanveer-41-tubemerger.md) | ⭐ — | — | 41/100 |
+| 328 | [frostymur/aerofi](./frostymur-aerofi.md) | ⭐ 21 | — | 41/100 |
+| 329 | [hashamtanveer-41/tubemerger](./hashamtanveer-41-tubemerger.md) | ⭐ 17 | — | 41/100 |
 | 330 | [aescle/productivity-protocols](./aescle-productivity-protocols.md) | ⭐ 1 | — | 41/100 |
 | 331 | [mgueregath/condui](./mgueregath-condui.md) | ⭐ — | — | 41/100 |
 | 332 | [ankushthakur2007/sweepmac](./ankushthakur2007-sweepmac.md) | ⭐ — | Rust | 40/100 |
@@ -344,15 +344,15 @@
 | 334 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 335 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
 | 336 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 337 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
-| 338 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 337 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 338 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
 | 339 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 340 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.7k | — | 38/100 |
 | 341 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ — | — | 38/100 |
 | 342 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ — | — | 38/100 |
 | 343 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ — | — | 38/100 |
 | 344 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ 92 | — | 38/100 |
-| 345 | [github/app](./github-app.md) | ⭐ — | — | 38/100 |
+| 345 | [github/app](./github-app.md) | ⭐ 2.3k | — | 38/100 |
 | 346 | [maitriii08/FlowOutside](./maitriii08-flowoutside.md) | ⭐ 1 | HTML | 37/100 |
 | 347 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |
 | 348 | [Anil-Pradhan-web/touch-grass-nature-advisor](./anil-pradhan-web-touch-grass-nature-advisor.md) | ⭐ — | Jupyter Notebook | 37/100 |

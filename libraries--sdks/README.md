@@ -249,7 +249,7 @@
 | 239 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ — | — | 48/100 |
 | 240 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |
 | 241 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ — | — | 48/100 |
-| 242 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ — | — | 48/100 |
+| 242 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ 2.7k | — | 48/100 |
 | 243 | [DisplayLink/displaylink-direct](./displaylink-displaylink-direct.md) | ⭐ 1 | — | 48/100 |
 | 244 | [Q-ANT-GmbH/qant_native_computing_toolkit](./q-ant-gmbh-qant-native-computing-toolkit.md) | ⭐ — | — | 48/100 |
 | 245 | [QAInsights/typesafe-java-sdk](./qainsights-typesafe-java-sdk.md) | ⭐ — | — | 48/100 |
