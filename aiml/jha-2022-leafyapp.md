@@ -1,6 +1,6 @@
 # Jha-2022/leafyApp
 
-[![Stars](https://img.shields.io/github/stars/Jha-2022/leafyApp?style=flat-square&color=yellow)](https://github.com/Jha-2022/leafyApp/stargazers) [![Forks](https://img.shields.io/github/forks/Jha-2022/leafyApp?style=flat-square&color=blue)](https://github.com/Jha-2022/leafyApp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Jha-2022/leafyApp?style=flat-square&color=yellow)](https://github.com/Jha-2022/leafyApp/stargazers) [![Forks](https://img.shields.io/github/forks/Jha-2022/leafyApp?style=flat-square&color=blue)](https://github.com/Jha-2022/leafyApp/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Jha-2022/leafyApp：Jha-2022/leafyApp helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 35/100 |
+| quality | 30/100 |
 | integration | 18/100 |
-| production | 44/100 |
-| outlook | 46/100 |
+| production | 37/100 |
+| outlook | 39/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

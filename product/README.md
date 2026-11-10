@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**11 projects** in this category.
+**12 projects** in this category.
 
 ## Projects
 
@@ -14,11 +14,12 @@
 | 4 | [lsfusion-solutions/mycompany](./lsfusion-solutions-mycompany.md) | ⭐ 376 | JavaScript | 59/100 |
 | 5 | [fastly/Viceroy](./fastly-viceroy.md) | ⭐ 178 | Rust | 54/100 |
 | 6 | [orbivort/scrumooth](./orbivort-scrumooth.md) | ⭐ 1 | TypeScript | 53/100 |
-| 7 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
-| 8 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ — | — | 41/100 |
-| 9 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ — | — | 41/100 |
-| 10 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ — | — | 41/100 |
-| 11 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ — | — | 41/100 |
+| 7 | [agenttools/headroom](./agenttools-headroom.md) | ⭐ — | — | 45/100 |
+| 8 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
+| 9 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ — | — | 41/100 |
+| 10 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ — | — | 41/100 |
+| 11 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ — | — | 41/100 |
+| 12 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ — | — | 41/100 |
 
 ---
 

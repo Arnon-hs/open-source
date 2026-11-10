@@ -276,7 +276,7 @@
 | 266 | [Faultsense/faultsense-agent](./faultsense-faultsense-agent.md) | ⭐ 4 | — | 42/100 |
 | 267 | [amitbidlan/zistica-lumin](./amitbidlan-zistica-lumin.md) | ⭐ 2 | — | 42/100 |
 | 268 | [rbmuller/scherlok](./rbmuller-scherlok.md) | ⭐ 14 | — | 42/100 |
-| 269 | [thisisvaze/Gauge](./thisisvaze-gauge.md) | ⭐ — | — | 41/100 |
+| 269 | [thisisvaze/Gauge](./thisisvaze-gauge.md) | ⭐ 1 | — | 41/100 |
 | 270 | [dooly6276/claude-bulkhead](./dooly6276-claude-bulkhead.md) | ⭐ 27 | — | 41/100 |
 | 271 | [lagudafuadtosin/inline-logs](./lagudafuadtosin-inline-logs.md) | ⭐ 1 | — | 41/100 |
 | 272 | [jonprice0/architecture-of-failure](./jonprice0-architecture-of-failure.md) | ⭐ 1 | — | 41/100 |

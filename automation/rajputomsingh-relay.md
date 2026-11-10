@@ -65,18 +65,18 @@ rajputomsingh/Relay：rajputomsingh/Relay helps remove repetitive manual operati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 94/100 |
-| production | 66/100 |
-| outlook | 65/100 |
-| adoption | 20/100 |
-| categoryMatchCount | 500/100 |
-| stars | 23/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| stars | 23/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 54/100 |
+| recency | 80/100 |
+| adoption | 20/100 |
+| production | 66/100 |
+| usefulness | 74/100 |
+| integration | 94/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

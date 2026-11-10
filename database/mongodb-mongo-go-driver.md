@@ -65,18 +65,18 @@ mongodb/mongo-go-driver：mongodb/mongo-go-driver helps teams persist, query, an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 82/100 |
-| integration | 46/100 |
-| production | 69/100 |
-| outlook | 74/100 |
-| adoption | 81/100 |
-| categoryMatchCount | 100/100 |
-| stars | 84/100 |
 | forks | 74/100 |
-| recency | 80/100 |
+| stars | 84/100 |
 | topics | 100/100 |
+| outlook | 74/100 |
+| quality | 82/100 |
+| recency | 80/100 |
+| adoption | 81/100 |
+| production | 69/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

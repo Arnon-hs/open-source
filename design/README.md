@@ -149,7 +149,7 @@
 | 139 | [bitjaru/styleseed](./bitjaru-styleseed.md) | ⭐ 1k | — | 42/100 |
 | 140 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ 38 | — | 42/100 |
 | 141 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 42/100 |
-| 142 | [robbietilton/Compositor](./robbietilton-compositor.md) | ⭐ — | — | 41/100 |
+| 142 | [robbietilton/Compositor](./robbietilton-compositor.md) | ⭐ 18.6k | — | 41/100 |
 | 143 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ 883 | — | 41/100 |
 | 144 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 662 | — | 41/100 |
 | 145 | [posterlet/amazing-posters](./posterlet-amazing-posters.md) | ⭐ 4 | — | 41/100 |

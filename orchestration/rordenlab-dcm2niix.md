@@ -65,18 +65,18 @@ rordenlab/dcm2niix：rordenlab/dcm2niix helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 74/100 |
-| integration | 30/100 |
-| production | 64/100 |
-| outlook | 73/100 |
-| adoption | 64/100 |
-| categoryMatchCount | 200/100 |
-| stars | 66/100 |
 | forks | 61/100 |
-| recency | 80/100 |
+| stars | 66/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 74/100 |
+| recency | 80/100 |
+| adoption | 64/100 |
+| production | 64/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
