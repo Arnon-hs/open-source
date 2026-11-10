@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 633 |
-| 🍴 **Forks** | 434 |
+| ⭐ **Stars** | 675 |
+| 🍴 **Forks** | 433 |
 | 💻 **Language** | Mustache |
 | 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-09-05 |

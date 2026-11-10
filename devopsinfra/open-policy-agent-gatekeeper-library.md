@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 700 |
-| 🍴 **Forks** | 343 |
+| ⭐ **Stars** | 705 |
+| 🍴 **Forks** | 347 |
 | 💻 **Language** | Open Policy Agent |
 | 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-09-05 |

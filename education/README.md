@@ -13,7 +13,7 @@
 | 3 | [huangsam/ultimate-python](./huangsam-ultimate-python.md) | ⭐ 6k | Python | 64/100 |
 | 4 | [frappe/lms](./frappe-lms.md) | ⭐ 3.4k | Vue | 63/100 |
 | 5 | [github/opensource.guide](./github-opensource.guide.md) | ⭐ 15.8k | HTML | 63/100 |
-| 6 | [ysig/GraKeL](./ysig-grakel.md) | ⭐ 646 | Python | 62/100 |
+| 6 | [ysig/GraKeL](./ysig-grakel.md) | ⭐ 647 | Python | 62/100 |
 | 7 | [gofiber/recipes](./gofiber-recipes.md) | ⭐ 3.5k | Go | 61/100 |
 | 8 | [zyronon/TypeWords](./zyronon-typewords.md) | ⭐ 11.7k | CSS | 60/100 |
 | 9 | [eunomia-bpf/bpf-developer-tutorial](./eunomia-bpf-bpf-developer-tutorial.md) | ⭐ 4.3k | C | 59/100 |

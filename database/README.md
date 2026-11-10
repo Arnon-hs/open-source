@@ -40,13 +40,13 @@
 | 30 | [geotools/geotools](./geotools-geotools.md) | ⭐ 1.9k | Java | 67/100 |
 | 31 | [dbfixtures/pytest-postgresql](./dbfixtures-pytest-postgresql.md) | ⭐ 523 | Python | 67/100 |
 | 32 | [grandnode/grandnode2](./grandnode-grandnode2.md) | ⭐ 1.3k | C# | 66/100 |
-| 33 | [l1xnan/duckling](./l1xnan-duckling.md) | ⭐ 573 | TypeScript | 66/100 |
+| 33 | [l1xnan/duckling](./l1xnan-duckling.md) | ⭐ 583 | TypeScript | 66/100 |
 | 34 | [hibernate/hibernate-orm](./hibernate-hibernate-orm.md) | ⭐ 6.5k | Java | 66/100 |
-| 35 | [dj-nitehawk/MongoDB.Entities](./dj-nitehawk-mongodb.entities.md) | ⭐ 570 | C# | 66/100 |
+| 35 | [dj-nitehawk/MongoDB.Entities](./dj-nitehawk-mongodb.entities.md) | ⭐ 564 | C# | 66/100 |
 | 36 | [rqlite/rqlite](./rqlite-rqlite.md) | ⭐ 17.9k | Go | 66/100 |
 | 37 | [ron190/jsql-injection](./ron190-jsql-injection.md) | ⭐ 1.8k | Java | 66/100 |
 | 38 | [scylladb/scylladb](./scylladb-scylladb.md) | ⭐ 15.8k | C++ | 66/100 |
-| 39 | [alisaifee/limits](./alisaifee-limits.md) | ⭐ 635 | Python | 66/100 |
+| 39 | [alisaifee/limits](./alisaifee-limits.md) | ⭐ 654 | Python | 66/100 |
 | 40 | [supabase/postgres-meta](./supabase-postgres-meta.md) | ⭐ 1.3k | TypeScript | 65/100 |
 | 41 | [facebook/rocksdb](./facebook-rocksdb.md) | ⭐ 31.9k | C++ | 65/100 |
 | 42 | [eclipse-store/store](./eclipse-store-store.md) | ⭐ 345 | Java | 65/100 |
@@ -61,14 +61,14 @@
 | 51 | [Pelski/ytzero](./pelski-ytzero.md) | ⭐ 527 | TypeScript | 64/100 |
 | 52 | [pelikan-io/pelikan](./pelikan-io-pelikan.md) | ⭐ 288 | Rust | 64/100 |
 | 53 | [krateng/maloja](./krateng-maloja.md) | ⭐ 1.9k | Python | 64/100 |
-| 54 | [planetscale/cli](./planetscale-cli.md) | ⭐ 663 | Go | 64/100 |
+| 54 | [planetscale/cli](./planetscale-cli.md) | ⭐ 672 | Go | 64/100 |
 | 55 | [nfrastack/container-db-backup](./nfrastack-container-db-backup.md) | ⭐ 1.5k | Dockerfile | 64/100 |
 | 56 | [skyzh/mini-lsm](./skyzh-mini-lsm.md) | ⭐ 4.2k | Rust | 64/100 |
 | 57 | [liweiyi88/onedump](./liweiyi88-onedump.md) | ⭐ 1k | Go | 64/100 |
 | 58 | [dragonflydb/dragonfly-operator](./dragonflydb-dragonfly-operator.md) | ⭐ 341 | Go | 64/100 |
 | 59 | [tarantool/tarantool](./tarantool-tarantool.md) | ⭐ 3.7k | Lua | 64/100 |
 | 60 | [VictoriaMetrics/VictoriaLogs](./victoriametrics-victorialogs.md) | ⭐ 2.5k | Go | 64/100 |
-| 61 | [dapr/components-contrib](./dapr-components-contrib.md) | ⭐ 599 | Go | 64/100 |
+| 61 | [dapr/components-contrib](./dapr-components-contrib.md) | ⭐ 605 | Go | 64/100 |
 | 62 | [rq/rq](./rq-rq.md) | ⭐ 10.7k | Python | 63/100 |
 | 63 | [cybertec-postgresql/pgwatch](./cybertec-postgresql-pgwatch.md) | ⭐ 904 | Go | 63/100 |
 | 64 | [apache/skywalking-banyandb](./apache-skywalking-banyandb.md) | ⭐ 348 | Go | 63/100 |
@@ -109,7 +109,7 @@
 | 99 | [pganalyze/collector](./pganalyze-collector.md) | ⭐ 398 | Go | 61/100 |
 | 100 | [jOOQ/jOOQ](./jooq-jooq.md) | ⭐ 6.8k | Java | 61/100 |
 | 101 | [bbossgroups/bboss-elasticsearch](./bbossgroups-bboss-elasticsearch.md) | ⭐ 528 | Java | 61/100 |
-| 102 | [automvc/bee](./automvc-bee.md) | ⭐ 633 | Java | 61/100 |
+| 102 | [automvc/bee](./automvc-bee.md) | ⭐ 638 | Java | 61/100 |
 | 103 | [itwanger/toBeBetterJavaer](./itwanger-tobebetterjavaer.md) | ⭐ 17.8k | Java | 61/100 |
 | 104 | [dimitri/pgloader](./dimitri-pgloader.md) | ⭐ 6.6k | Common Lisp | 61/100 |
 | 105 | [diesel-rs/diesel](./diesel-rs-diesel.md) | ⭐ 14.2k | Rust | 61/100 |
@@ -130,7 +130,7 @@
 | 120 | [dotnet/SqlClient](./dotnet-sqlclient.md) | ⭐ 1k | C# | 60/100 |
 | 121 | [jiji262/douyin-downloader](./jiji262-douyin-downloader.md) | ⭐ 12.6k | Python | 60/100 |
 | 122 | [xataio/pgstream](./xataio-pgstream.md) | ⭐ 1.2k | Go | 60/100 |
-| 123 | [apache/arrow-adbc](./apache-arrow-adbc.md) | ⭐ 611 | C# | 60/100 |
+| 123 | [apache/arrow-adbc](./apache-arrow-adbc.md) | ⭐ 637 | C# | 60/100 |
 | 124 | [kenn-io/roborev](./kenn-io-roborev.md) | ⭐ 1.8k | Go | 60/100 |
 | 125 | [Cryakl/Ultimate-RAT-Collection](./cryakl-ultimate-rat-collection.md) | ⭐ 4.1k | — | 60/100 |
 | 126 | [psycopg/psycopg](./psycopg-psycopg.md) | ⭐ 2.5k | Python | 60/100 |
@@ -150,7 +150,7 @@
 | 140 | [murraco/spring-boot-jwt](./murraco-spring-boot-jwt.md) | ⭐ 1.7k | Java | 59/100 |
 | 141 | [berkeleydb/libdb](./berkeleydb-libdb.md) | ⭐ 395 | C | 59/100 |
 | 142 | [apache/cassandra](./apache-cassandra.md) | ⭐ 10.1k | Java | 59/100 |
-| 143 | [KouShenhai/KCloud-Platform-IoT](./koushenhai-kcloud-platform-iot.md) | ⭐ 666 | Java | 59/100 |
+| 143 | [KouShenhai/KCloud-Platform-IoT](./koushenhai-kcloud-platform-iot.md) | ⭐ 680 | Java | 59/100 |
 | 144 | [faust-streaming/faust](./faust-streaming-faust.md) | ⭐ 1.9k | Python | 59/100 |
 | 145 | [blnkfinance/blnk](./blnkfinance-blnk.md) | ⭐ 476 | Go | 59/100 |
 | 146 | [ridgepole/ridgepole](./ridgepole-ridgepole.md) | ⭐ 1.1k | Ruby | 59/100 |
@@ -238,7 +238,7 @@
 | 228 | [jnwatson/py-lmdb](./jnwatson-py-lmdb.md) | ⭐ 755 | C | 54/100 |
 | 229 | [SeaQL/sea-streamer](./seaql-sea-streamer.md) | ⭐ 369 | Rust | 54/100 |
 | 230 | [sebadob/hiqlite](./sebadob-hiqlite.md) | ⭐ 475 | Rust | 54/100 |
-| 231 | [golang/vulndb](./golang-vulndb.md) | ⭐ 601 | Go | 54/100 |
+| 231 | [golang/vulndb](./golang-vulndb.md) | ⭐ 610 | Go | 54/100 |
 | 232 | [typedb/typeql](./typedb-typeql.md) | ⭐ 252 | Rust | 54/100 |
 | 233 | [hacan359/tonkatsu_box](./hacan359-tonkatsu-box.md) | ⭐ 471 | Dart | 54/100 |
 | 234 | [sqliteai/sqlite-sync](./sqliteai-sqlite-sync.md) | ⭐ 521 | C | 54/100 |
@@ -249,18 +249,18 @@
 | 239 | [lyric777/Book-Management-System](./lyric777-book-management-system.md) | ⭐ 404 | Python | 54/100 |
 | 240 | [Netflix/atlas](./netflix-atlas.md) | ⭐ 3.6k | Scala | 54/100 |
 | 241 | [fatkodima/online_migrations](./fatkodima-online-migrations.md) | ⭐ 758 | Ruby | 54/100 |
-| 242 | [cmu-db/dbdb.io](./cmu-db-dbdb.io.md) | ⭐ 560 | Python | 54/100 |
+| 242 | [cmu-db/dbdb.io](./cmu-db-dbdb.io.md) | ⭐ 590 | Python | 54/100 |
 | 243 | [apache/jackrabbit-oak](./apache-jackrabbit-oak.md) | ⭐ 409 | Java | 54/100 |
 | 244 | [cornucopia-rs/cornucopia](./cornucopia-rs-cornucopia.md) | ⭐ 1.2k | Rust | 54/100 |
 | 245 | [teorth/erdosproblems](./teorth-erdosproblems.md) | ⭐ 882 | Python | 54/100 |
-| 246 | [nikita-volkov/hasql](./nikita-volkov-hasql.md) | ⭐ 552 | Haskell | 54/100 |
+| 246 | [nikita-volkov/hasql](./nikita-volkov-hasql.md) | ⭐ 554 | Haskell | 54/100 |
 | 247 | [openstack/trove](./openstack-trove.md) | ⭐ 320 | Python | 54/100 |
 | 248 | [gaarason/database-all](./gaarason-database-all.md) | ⭐ 1k | Java | 54/100 |
 | 249 | [midoks/mdserver-web](./midoks-mdserver-web.md) | ⭐ 4.5k | Python | 54/100 |
 | 250 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.9k | Rust | 54/100 |
 | 251 | [achristmascarl/rainfrog](./achristmascarl-rainfrog.md) | ⭐ 5.4k | Rust | 54/100 |
 | 252 | [maplibre/martin](./maplibre-martin.md) | ⭐ 4.1k | Rust | 54/100 |
-| 253 | [synopse/mORMot2](./synopse-mormot2.md) | ⭐ 671 | Pascal | 54/100 |
+| 253 | [synopse/mORMot2](./synopse-mormot2.md) | ⭐ 733 | Pascal | 54/100 |
 | 254 | [frectonz/pglite-fusion](./frectonz-pglite-fusion.md) | ⭐ 833 | Rust | 53/100 |
 | 255 | [open-reaction-database/ord-data](./open-reaction-database-ord-data.md) | ⭐ 343 | Python | 53/100 |
 | 256 | [maxmind/MaxMind-DB-Reader-php](./maxmind-maxmind-db-reader-php.md) | ⭐ 709 | PHP | 53/100 |
@@ -270,7 +270,7 @@
 | 260 | [Dailin521/codex-provider-sync](./dailin521-codex-provider-sync.md) | ⭐ 3.6k | C# | 53/100 |
 | 261 | [xataio/deltax](./xataio-deltax.md) | ⭐ 276 | Rust | 53/100 |
 | 262 | [VCVRack/library](./vcvrack-library.md) | ⭐ 431 | Python | 53/100 |
-| 263 | [MobilityDB/MobilityDB](./mobilitydb-mobilitydb.md) | ⭐ 617 | C | 53/100 |
+| 263 | [MobilityDB/MobilityDB](./mobilitydb-mobilitydb.md) | ⭐ 632 | C | 53/100 |
 | 264 | [open-wanderer/wanderer](./open-wanderer-wanderer.md) | ⭐ 4.1k | Svelte | 53/100 |
 | 265 | [sqldef/sqldef](./sqldef-sqldef.md) | ⭐ 3.2k | Go | 53/100 |
 | 266 | [OneClickDBA/harry-performance-scraper](./oneclickdba-harry-performance-scraper.md) | ⭐ 3 | Go | 52/100 |
@@ -282,7 +282,7 @@
 | 272 | [anylineorg/anyline](./anylineorg-anyline.md) | ⭐ 341 | Java | 52/100 |
 | 273 | [Snowflake-Labs/pg_lake](./snowflake-labs-pg-lake.md) | ⭐ 1.7k | C | 52/100 |
 | 274 | [mehrantsi/feoxdb](./mehrantsi-feoxdb.md) | ⭐ 191 | Rust | 52/100 |
-| 275 | [elixir-ecto/ecto_sql](./elixir-ecto-ecto-sql.md) | ⭐ 658 | Elixir | 52/100 |
+| 275 | [elixir-ecto/ecto_sql](./elixir-ecto-ecto-sql.md) | ⭐ 657 | Elixir | 52/100 |
 | 276 | [dimitri/pgcopydb](./dimitri-pgcopydb.md) | ⭐ 1.6k | C | 52/100 |
 | 277 | [swanlake-io/swanlake](./swanlake-io-swanlake.md) | ⭐ 147 | Rust | 52/100 |
 | 278 | [vicanso/zedis](./vicanso-zedis.md) | ⭐ 2.2k | Rust | 52/100 |
@@ -296,7 +296,7 @@
 | 286 | [aoci-spec/aoci-code](./aoci-spec-aoci-code.md) | ⭐ 22 | Go | 51/100 |
 | 287 | [pgrundev/pgbot](./pgrundev-pgbot.md) | ⭐ 47 | Go | 51/100 |
 | 288 | [maxcountryman/underway](./maxcountryman-underway.md) | ⭐ 170 | Rust | 51/100 |
-| 289 | [EnterpriseDB/mysql_fdw](./enterprisedb-mysql-fdw.md) | ⭐ 596 | C | 51/100 |
+| 289 | [EnterpriseDB/mysql_fdw](./enterprisedb-mysql-fdw.md) | ⭐ 600 | C | 51/100 |
 | 290 | [sraoss/pg_ivm](./sraoss-pg-ivm.md) | ⭐ 1.5k | C | 51/100 |
 | 291 | [mendrik-private/sqv](./mendrik-private-sqv.md) | ⭐ 151 | Rust | 51/100 |
 | 292 | [clflushopt/tpchgen-rs](./clflushopt-tpchgen-rs.md) | ⭐ 239 | Rust | 51/100 |
@@ -320,7 +320,7 @@
 | 310 | [zino-rs/zino](./zino-rs-zino.md) | ⭐ 1.2k | Rust | 50/100 |
 | 311 | [The-OpenROAD-Project/OpenROAD](./the-openroad-project-openroad.md) | ⭐ 3.3k | Verilog | 50/100 |
 | 312 | [mongodb/docs](./mongodb-docs.md) | ⭐ 779 | TypeScript | 50/100 |
-| 313 | [uyuni-project/uyuni](./uyuni-project-uyuni.md) | ⭐ 558 | Java | 50/100 |
+| 313 | [uyuni-project/uyuni](./uyuni-project-uyuni.md) | ⭐ 598 | Java | 50/100 |
 | 314 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 873 | Python | 50/100 |
 | 315 | [openresty/drizzle-nginx-module](./openresty-drizzle-nginx-module.md) | ⭐ 335 | C | 49/100 |
 | 316 | [ClickHouse/RayTracer](./clickhouse-raytracer.md) | ⭐ — | — | 49/100 |
@@ -419,7 +419,7 @@
 | 409 | [EhTagTranslation/Database](./ehtagtranslation-database.md) | ⭐ 1.1k | PowerShell | 44/100 |
 | 410 | [supabase/postgres](./supabase-postgres.md) | ⭐ 1.8k | Nix | 44/100 |
 | 411 | [dbadminer/dbadminer](./dbadminer-dbadminer.md) | ⭐ — | Go | 44/100 |
-| 412 | [FoundationDB/fdb-record-layer](./foundationdb-fdb-record-layer.md) | ⭐ 661 | Java | 43/100 |
+| 412 | [FoundationDB/fdb-record-layer](./foundationdb-fdb-record-layer.md) | ⭐ 680 | Java | 43/100 |
 | 413 | [tokio-rs/toasty](./tokio-rs-toasty.md) | ⭐ 3.3k | Rust | 43/100 |
 | 414 | [CodersAcademy006/raktsetu](./codersacademy006-raktsetu.md) | ⭐ — | TypeScript | 42/100 |
 | 415 | [bukeeastrey/starboy](./bukeeastrey-starboy.md) | ⭐ — | Python | 42/100 |

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 552 |
-| 🍴 **Forks** | 250 |
+| ⭐ **Stars** | 571 |
+| 🍴 **Forks** | 254 |
 | 💻 **Language** | Markdown |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-05 |

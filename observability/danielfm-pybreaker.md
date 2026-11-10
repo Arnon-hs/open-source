@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 699 |
-| 🍴 **Forks** | 95 |
+| ⭐ **Stars** | 701 |
+| 🍴 **Forks** | 96 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-10-26 |
@@ -53,8 +53,8 @@ danielfm/pybreaker：danielfm/pybreaker helps make production behavior easier to
 
 **Quality signals**
 
-- 699 GitHub stars
-- 95 forks
+- 701 GitHub stars
+- 96 forks
 - updated 2026-10-26
 - primary language: Python
 - 4 topics
@@ -70,7 +70,7 @@ danielfm/pybreaker：danielfm/pybreaker helps make production behavior easier to
 | integration | 46/100 |
 | production | 56/100 |
 | outlook | 56/100 |
-| adoption | 57/100 |
+| adoption | 58/100 |
 | categoryMatchCount | 100/100 |
 | stars | 61/100 |
 | forks | 50/100 |

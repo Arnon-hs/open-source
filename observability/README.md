@@ -19,7 +19,7 @@
 | 9 | [CodesWhat/drydock](./codeswhat-drydock.md) | ⭐ 203 | TypeScript | 75/100 |
 | 10 | [kubernetes/metrics](./kubernetes-metrics.md) | ⭐ 532 | Go | 73/100 |
 | 11 | [pyrra-dev/pyrra](./pyrra-dev-pyrra.md) | ⭐ 1.5k | Go | 72/100 |
-| 12 | [iipeace/guider](./iipeace-guider.md) | ⭐ 674 | Python | 72/100 |
+| 12 | [iipeace/guider](./iipeace-guider.md) | ⭐ 684 | Python | 72/100 |
 | 13 | [logtide-dev/logtide](./logtide-dev-logtide.md) | ⭐ 426 | TypeScript | 72/100 |
 | 14 | [ntop/ntopng](./ntop-ntopng.md) | ⭐ 8.3k | Lua | 72/100 |
 | 15 | [louislam/uptime-kuma](./louislam-uptime-kuma.md) | ⭐ 93.4k | JavaScript | 72/100 |
@@ -48,7 +48,7 @@
 | 38 | [prometheus/client_golang](./prometheus-client-golang.md) | ⭐ 6k | Go | 67/100 |
 | 39 | [OneUptime/oneuptime](./oneuptime-oneuptime.md) | ⭐ 7.8k | TypeScript | 67/100 |
 | 40 | [amir20/dtop](./amir20-dtop.md) | ⭐ 1.5k | Rust | 67/100 |
-| 41 | [cloudprober/cloudprober](./cloudprober-cloudprober.md) | ⭐ 680 | Go | 67/100 |
+| 41 | [cloudprober/cloudprober](./cloudprober-cloudprober.md) | ⭐ 716 | Go | 67/100 |
 | 42 | [kubetail-org/kubetail](./kubetail-org-kubetail.md) | ⭐ 1.8k | Go | 67/100 |
 | 43 | [prometheus/client_python](./prometheus-client-python.md) | ⭐ 4.4k | Python | 66/100 |
 | 44 | [CtrlSpice/otel-desktop-viewer](./ctrlspice-otel-desktop-viewer.md) | ⭐ 1.3k | Go | 66/100 |
@@ -90,8 +90,8 @@
 | 80 | [PLFJY/ContextMenuMgr](./plfjy-contextmenumgr.md) | ⭐ 3.7k | C# | 63/100 |
 | 81 | [stakater/application](./stakater-application.md) | ⭐ 364 | Mustache | 63/100 |
 | 82 | [prometheus-community/helm-charts](./prometheus-community-helm-charts.md) | ⭐ 6.2k | Mustache | 63/100 |
-| 83 | [DataDog/dd-trace-py](./datadog-dd-trace-py.md) | ⭐ 637 | Python | 63/100 |
-| 84 | [dash0hq/otelbin](./dash0hq-otelbin.md) | ⭐ 570 | TypeScript | 62/100 |
+| 83 | [DataDog/dd-trace-py](./datadog-dd-trace-py.md) | ⭐ 653 | Python | 63/100 |
+| 84 | [dash0hq/otelbin](./dash0hq-otelbin.md) | ⭐ 586 | TypeScript | 62/100 |
 | 85 | [performancecopilot/pcp](./performancecopilot-pcp.md) | ⭐ 1.1k | C | 62/100 |
 | 86 | [open-telemetry/opentelemetry-ebpf-profiler](./open-telemetry-opentelemetry-ebpf-profiler.md) | ⭐ 3.2k | Go | 62/100 |
 | 87 | [ivbeg/awesome-status-pages](./ivbeg-awesome-status-pages.md) | ⭐ 3.8k | — | 62/100 |
@@ -106,7 +106,7 @@
 | 96 | [apache/skywalking-java](./apache-skywalking-java.md) | ⭐ 927 | Java | 61/100 |
 | 97 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 476 | Go | 61/100 |
 | 98 | [grigio/network-monitor](./grigio-network-monitor.md) | ⭐ 284 | Rust | 61/100 |
-| 99 | [DataDog/orchestrion](./datadog-orchestrion.md) | ⭐ 614 | Go | 61/100 |
+| 99 | [DataDog/orchestrion](./datadog-orchestrion.md) | ⭐ 625 | Go | 61/100 |
 | 100 | [prometheus-community/windows_exporter](./prometheus-community-windows-exporter.md) | ⭐ 3.7k | Go | 61/100 |
 | 101 | [grafana/docker-otel-lgtm](./grafana-docker-otel-lgtm.md) | ⭐ 2.1k | Shell | 61/100 |
 | 102 | [parca-dev/parca-agent](./parca-dev-parca-agent.md) | ⭐ 750 | Go | 61/100 |
@@ -114,7 +114,7 @@
 | 104 | [ccfos/nightingale](./ccfos-nightingale.md) | ⭐ 13.5k | Go | 61/100 |
 | 105 | [prometheus/exporter-toolkit](./prometheus-exporter-toolkit.md) | ⭐ 308 | Go | 60/100 |
 | 106 | [ossf/scorecard](./ossf-scorecard.md) | ⭐ 5.8k | Go | 60/100 |
-| 107 | [elastic/apm-agent-dotnet](./elastic-apm-agent-dotnet.md) | ⭐ 594 | C# | 60/100 |
+| 107 | [elastic/apm-agent-dotnet](./elastic-apm-agent-dotnet.md) | ⭐ 593 | C# | 60/100 |
 | 108 | [OpsiMate/OpsiMate](./opsimate-opsimate.md) | ⭐ 204 | TypeScript | 60/100 |
 | 109 | [threathunters-io/laurel](./threathunters-io-laurel.md) | ⭐ 876 | Rust | 60/100 |
 | 110 | [namhyung/uftrace](./namhyung-uftrace.md) | ⭐ 3.5k | C | 60/100 |
@@ -177,7 +177,7 @@
 | 167 | [carverauto/serviceradar](./carverauto-serviceradar.md) | ⭐ 932 | JavaScript | 55/100 |
 | 168 | [openbkn-ai/bkn-foundry](./openbkn-ai-bkn-foundry.md) | ⭐ 107 | Go | 54/100 |
 | 169 | [overcheck/overcheck](./overcheck-overcheck.md) | ⭐ — | — | 54/100 |
-| 170 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 566 | Python | 54/100 |
+| 170 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 586 | Python | 54/100 |
 | 171 | [vince-lam/awesome-local-llms](./vince-lam-awesome-local-llms.md) | ⭐ 813 | Python | 54/100 |
 | 172 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 54/100 |
 | 173 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.7k | Java | 54/100 |
@@ -186,7 +186,7 @@
 | 176 | [metafab/otel-gui](./metafab-otel-gui.md) | ⭐ 195 | TypeScript | 53/100 |
 | 177 | [open-telemetry/opentelemetry-go-compile-instrumentation](./open-telemetry-opentelemetry-go-compile-instrumentation.md) | ⭐ 376 | Go | 53/100 |
 | 178 | [prometheus-community/avalanche](./prometheus-community-avalanche.md) | ⭐ 454 | Go | 53/100 |
-| 179 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 637 | — | 53/100 |
+| 179 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 747 | — | 53/100 |
 | 180 | [elastic/elastic-agent](./elastic-elastic-agent.md) | ⭐ 253 | Go | 53/100 |
 | 181 | [bpftrace/bpftrace](./bpftrace-bpftrace.md) | ⭐ 10.4k | C++ | 53/100 |
 | 182 | [hagezi/dns-blocklists](./hagezi-dns-blocklists.md) | ⭐ 28.6k | Text | 53/100 |
@@ -200,7 +200,7 @@
 | 190 | [nokyan/resources](./nokyan-resources.md) | ⭐ 1.3k | Rust | 52/100 |
 | 191 | [kiali/kiali](./kiali-kiali.md) | ⭐ 3.6k | Go | 52/100 |
 | 192 | [open-telemetry/opentelemetry-collector-contrib](./open-telemetry-opentelemetry-collector-contrib.md) | ⭐ 5k | Go | 52/100 |
-| 193 | [danielfm/pybreaker](./danielfm-pybreaker.md) | ⭐ 699 | Python | 52/100 |
+| 193 | [danielfm/pybreaker](./danielfm-pybreaker.md) | ⭐ 701 | Python | 52/100 |
 | 194 | [Abdenasser/neohtop](./abdenasser-neohtop.md) | ⭐ 9.5k | Svelte | 51/100 |
 | 195 | [amimof/node-cert-exporter](./amimof-node-cert-exporter.md) | ⭐ 186 | Go | 51/100 |
 | 196 | [metrics-rs/quanta](./metrics-rs-quanta.md) | ⭐ 425 | Rust | 51/100 |
@@ -229,7 +229,7 @@
 | 219 | [poonesnerfect/jlf](./poonesnerfect-jlf.md) | ⭐ — | — | 48/100 |
 | 220 | [el10savio/obsIngest](./el10savio-obsingest.md) | ⭐ — | — | 48/100 |
 | 221 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 501 | C | 48/100 |
-| 222 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 560 | Go | 48/100 |
+| 222 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 599 | Go | 48/100 |
 | 223 | [open-telemetry/opentelemetry-go-contrib](./open-telemetry-opentelemetry-go-contrib.md) | ⭐ 1.7k | Go | 48/100 |
 | 224 | [cloudwalk/stratus](./cloudwalk-stratus.md) | ⭐ 170 | Rust | 47/100 |
 | 225 | [jonhoo/tracing-timing](./jonhoo-tracing-timing.md) | ⭐ 135 | Rust | 47/100 |

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 652 |
-| 🍴 **Forks** | 274 |
+| ⭐ **Stars** | 688 |
+| 🍴 **Forks** | 298 |
 | 💻 **Language** | Nunjucks |
 | 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-05 |

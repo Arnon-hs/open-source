@@ -127,7 +127,7 @@
 | 117 | [MixItUpBot/Desktop](./mixitupbot-desktop.md) | ⭐ 34 | C# | 51/100 |
 | 118 | [SamurAIGPT/seedance-2-generator](./samuraigpt-seedance-2-generator.md) | ⭐ 52 | JavaScript | 51/100 |
 | 119 | [Gleaming0427/repoweek](./gleaming0427-repoweek.md) | ⭐ 1 | JavaScript | 50/100 |
-| 120 | [contraptionco/postcard](./contraptionco-postcard.md) | ⭐ 598 | Ruby | 50/100 |
+| 120 | [contraptionco/postcard](./contraptionco-postcard.md) | ⭐ 603 | Ruby | 50/100 |
 | 121 | [voxell-tech/velyst](./voxell-tech-velyst.md) | ⭐ 247 | Rust | 50/100 |
 | 122 | [Felixwang007/awesome-content-tools](./felixwang007-awesome-content-tools.md) | ⭐ — | Python | 49/100 |
 | 123 | [farukkolip/xtapdown-mcp](./farukkolip-xtapdown-mcp.md) | ⭐ — | — | 49/100 |
@@ -143,10 +143,10 @@
 | 133 | [DeveloperPuneet/Crowdwide](./developerpuneet-crowdwide.md) | ⭐ 1 | JavaScript | 45/100 |
 | 134 | [Comfy-Org/Wan_2.2_ComfyUI_Repackaged](./comfy-org-wan-2.2-comfyui-repackaged.md) | ⭐ 842 | diffusion-single-file | 45/100 |
 | 135 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
-| 136 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 666 | HTML | 45/100 |
+| 136 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 137 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ — | — | 43/100 |
-| 138 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ — | — | 43/100 |
-| 139 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ — | — | 43/100 |
+| 138 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ — | — | 43/100 |
+| 139 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ — | — | 43/100 |
 | 140 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 141 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 142 | [google/generative-ai-node](./google-generative-ai-node.md) | ⭐ — | — | 43/100 |

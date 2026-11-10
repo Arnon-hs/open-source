@@ -29,7 +29,7 @@
 | 19 | [xiangechen/chili3d](./xiangechen-chili3d.md) | ⭐ 5k | TypeScript | 63/100 |
 | 20 | [monkeytypegame/monkeytype](./monkeytypegame-monkeytype.md) | ⭐ 21k | TypeScript | 63/100 |
 | 21 | [psychopy/psychopy](./psychopy-psychopy.md) | ⭐ 2.1k | Python | 62/100 |
-| 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 634 | Python | 62/100 |
+| 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 700 | Python | 62/100 |
 | 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 324 | Python | 62/100 |
 | 24 | [MewPurPur/GodSVG](./mewpurpur-godsvg.md) | ⭐ 2.8k | GDScript | 61/100 |
 | 25 | [Lailloken/Exile-UI](./lailloken-exile-ui.md) | ⭐ 1.4k | AutoHotkey | 61/100 |
@@ -45,9 +45,9 @@
 | 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 106.9k | JavaScript | 59/100 |
 | 36 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 7.1k | PHP | 59/100 |
 | 37 | [QwenLM/Qwen3-TTS](./qwenlm-qwen3-tts.md) | ⭐ 14.3k | Python | 58/100 |
-| 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 670 | Vue | 58/100 |
+| 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 674 | Vue | 58/100 |
 | 39 | [TousstNicolas/JLC2KiCad_lib](./tousstnicolas-jlc2kicad-lib.md) | ⭐ 464 | Python | 58/100 |
-| 40 | [alphagov/govuk-design-system](./alphagov-govuk-design-system.md) | ⭐ 652 | Nunjucks | 58/100 |
+| 40 | [alphagov/govuk-design-system](./alphagov-govuk-design-system.md) | ⭐ 688 | Nunjucks | 58/100 |
 | 41 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 509 | TypeScript | 58/100 |
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 528 | Python | 58/100 |
 | 43 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 26.2k | JavaScript | 58/100 |
@@ -68,7 +68,7 @@
 | 58 | [theexperiencecompany/keyloom](./theexperiencecompany-keyloom.md) | ⭐ 67 | TypeScript | 56/100 |
 | 59 | [iiab/iiab](./iiab-iiab.md) | ⭐ 2k | Jinja | 56/100 |
 | 60 | [chsh2/nijiGPen](./chsh2-nijigpen.md) | ⭐ 372 | Python | 55/100 |
-| 61 | [pctrade/end4-pC](./pctrade-end4-pc.md) | ⭐ 682 | QML | 55/100 |
+| 61 | [pctrade/end4-pC](./pctrade-end4-pc.md) | ⭐ 3.8k | QML | 55/100 |
 | 62 | [337547038/vue-form-design](./337547038-vue-form-design.md) | ⭐ 381 | JavaScript | 55/100 |
 | 63 | [seek-oss/capsize](./seek-oss-capsize.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 64 | [HapeLee/legado-with-MD3](./hapelee-legado-with-md3.md) | ⭐ 6.9k | Kotlin | 55/100 |
@@ -85,7 +85,7 @@
 | 75 | [coinbase/cds](./coinbase-cds.md) | ⭐ 488 | TypeScript | 54/100 |
 | 76 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 114 | TypeScript | 54/100 |
 | 77 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 982 | TypeScript | 54/100 |
-| 78 | [SAP/macOS-icon-generator](./sap-macos-icon-generator.md) | ⭐ 627 | C | 53/100 |
+| 78 | [SAP/macOS-icon-generator](./sap-macos-icon-generator.md) | ⭐ 647 | C | 53/100 |
 | 79 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 390 | HTML | 53/100 |
 | 80 | [carbon-design-system/gatsby-theme-carbon](./carbon-design-system-gatsby-theme-carbon.md) | ⭐ 355 | MDX | 53/100 |
 | 81 | [neetly/figma-agent-linux](./neetly-figma-agent-linux.md) | ⭐ 364 | Rust | 53/100 |
@@ -96,7 +96,7 @@
 | 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 514 | Swift | 52/100 |
 | 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.2k | Handlebars | 52/100 |
 | 88 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 101 | Rust | 52/100 |
-| 89 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 572 | Rust | 52/100 |
+| 89 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 625 | Rust | 52/100 |
 | 90 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 322 | HTML | 52/100 |
 | 91 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.4k | WebAssembly | 52/100 |
 | 92 | [openhwgroup/cvw](./openhwgroup-cvw.md) | ⭐ 553 | SystemVerilog | 52/100 |
@@ -112,7 +112,7 @@
 | 102 | [drawcms/drawcms](./drawcms-drawcms.md) | ⭐ — | — | 49/100 |
 | 103 | [finix-community/finix](./finix-community-finix.md) | ⭐ 405 | Nix | 49/100 |
 | 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 406 | Shell | 49/100 |
-| 105 | [kzhrknt/awesome-design-md-jp](./kzhrknt-awesome-design-md-jp.md) | ⭐ 642 | HTML | 49/100 |
+| 105 | [kzhrknt/awesome-design-md-jp](./kzhrknt-awesome-design-md-jp.md) | ⭐ 1k | HTML | 49/100 |
 | 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 49/100 |
 | 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.1k | Ruby | 49/100 |
 | 108 | [pixel-point/toolcraft](./pixel-point-toolcraft.md) | ⭐ — | — | 48/100 |
@@ -123,7 +123,7 @@
 | 113 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 47/100 |
 | 114 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ — | — | 46/100 |
 | 115 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |
-| 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 629 | TypeScript | 46/100 |
+| 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 675 | TypeScript | 46/100 |
 | 117 | [meta/astryx](./meta-astryx.md) | ⭐ — | — | 45/100 |
 | 118 | [VenoM9078/gradientdeck-skill](./venom9078-gradientdeck-skill.md) | ⭐ — | — | 45/100 |
 | 119 | [ui-layouts/uilayouts](./ui-layouts-uilayouts.md) | ⭐ 3.9k | — | 45/100 |
@@ -136,7 +136,7 @@
 | 126 | [ckcool6/GGUF_Libra](./ckcool6-gguf-libra.md) | ⭐ — | — | 45/100 |
 | 127 | [kmaida/deslop-skills](./kmaida-deslop-skills.md) | ⭐ — | — | 45/100 |
 | 128 | [boldaxolotl/booley](./boldaxolotl-booley.md) | ⭐ — | — | 45/100 |
-| 129 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 605 | Java | 45/100 |
+| 129 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 655 | Java | 45/100 |
 | 130 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 302 | C++ | 45/100 |
 | 131 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 211 | PHP | 45/100 |
 | 132 | [MickeyAlton33/web-designer-plugin](./mickeyalton33-web-designer-plugin.md) | ⭐ — | — | 44/100 |
