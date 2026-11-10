@@ -1,6 +1,6 @@
 # quangvinhlee/Outwards-Days
 
-[![Stars](https://img.shields.io/github/stars/quangvinhlee/Outwards-Days?style=flat-square&color=yellow)](https://github.com/quangvinhlee/Outwards-Days/stargazers) [![Forks](https://img.shields.io/github/forks/quangvinhlee/Outwards-Days?style=flat-square&color=blue)](https://github.com/quangvinhlee/Outwards-Days/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/quangvinhlee/Outwards-Days?style=flat-square&color=yellow)](https://github.com/quangvinhlee/Outwards-Days/stargazers) [![Forks](https://img.shields.io/github/forks/quangvinhlee/Outwards-Days?style=flat-square&color=blue)](https://github.com/quangvinhlee/Outwards-Days/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ quangvinhlee/Outwards-Days：quangvinhlee/Outwards-Days helps add AI capability 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 34/100 |
-| production | 47/100 |
-| outlook | 45/100 |
+| production | 41/100 |
+| outlook | 38/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # dbadminer/dbadminer
 
-[![Stars](https://img.shields.io/github/stars/dbadminer/dbadminer?style=flat-square&color=yellow)](https://github.com/dbadminer/dbadminer/stargazers) [![Forks](https://img.shields.io/github/forks/dbadminer/dbadminer?style=flat-square&color=blue)](https://github.com/dbadminer/dbadminer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dbadminer/dbadminer?style=flat-square&color=yellow)](https://github.com/dbadminer/dbadminer/stargazers) [![Forks](https://img.shields.io/github/forks/dbadminer/dbadminer?style=flat-square&color=blue)](https://github.com/dbadminer/dbadminer/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Read-only database explorer for PostgreSQL, MySQL, MariaDB, and SQLite.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 1 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,8 @@ dbadminer/dbadminer：dbadminer/dbadminer helps teams persist, query, and move d
 
 **Quality signals**
 
+- 1 GitHub stars
+- 1 forks
 - updated 2026-11-04
 - primary language: Go
 - 3 topics
@@ -64,14 +66,14 @@ dbadminer/dbadminer：dbadminer/dbadminer helps teams persist, query, and move d
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 39/100 |
 | integration | 62/100 |
-| production | 55/100 |
-| outlook | 47/100 |
-| adoption | 0/100 |
+| production | 56/100 |
+| outlook | 49/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 200/100 |
-| stars | 0/100 |
-| forks | 0/100 |
+| stars | 6/100 |
+| forks | 8/100 |
 | recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |

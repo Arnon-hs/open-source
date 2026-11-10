@@ -223,7 +223,7 @@
 | 213 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 505 | Rust | 52/100 |
 | 214 | [squirix/squirix](./squirix-squirix.md) | ⭐ — | C# | 51/100 |
 | 215 | [apple/apple-ads-platform-api-node](./apple-apple-ads-platform-api-node.md) | ⭐ 6 | TypeScript | 51/100 |
-| 216 | [embedder-dev/pytrace](./embedder-dev-pytrace.md) | ⭐ — | — | 51/100 |
+| 216 | [embedder-dev/pytrace](./embedder-dev-pytrace.md) | ⭐ 19 | — | 51/100 |
 | 217 | [abhinav00anand/viento](./abhinav00anand-viento.md) | ⭐ 1 | Python | 51/100 |
 | 218 | [freedesktop-rs/nmrs](./freedesktop-rs-nmrs.md) | ⭐ 328 | Rust | 51/100 |
 | 219 | [google/rust_icu](./google-rust-icu.md) | ⭐ 141 | Rust | 51/100 |
@@ -250,7 +250,7 @@
 | 240 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |
 | 241 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ — | — | 48/100 |
 | 242 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ — | — | 48/100 |
-| 243 | [DisplayLink/displaylink-direct](./displaylink-displaylink-direct.md) | ⭐ — | — | 48/100 |
+| 243 | [DisplayLink/displaylink-direct](./displaylink-displaylink-direct.md) | ⭐ 1 | — | 48/100 |
 | 244 | [Q-ANT-GmbH/qant_native_computing_toolkit](./q-ant-gmbh-qant-native-computing-toolkit.md) | ⭐ — | — | 48/100 |
 | 245 | [QAInsights/typesafe-java-sdk](./qainsights-typesafe-java-sdk.md) | ⭐ — | — | 48/100 |
 | 246 | [ne-app-open/src](./ne-app-open-src.md) | ⭐ — | — | 48/100 |
@@ -272,12 +272,12 @@
 | 262 | [steel-experiments/atlas-demo](./steel-experiments-atlas-demo.md) | ⭐ — | — | 45/100 |
 | 263 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |
 | 264 | [tpkarras/BasicOboe](./tpkarras-basicoboe.md) | ⭐ — | — | 44/100 |
-| 265 | [egoisutolabs/scipgo](./egoisutolabs-scipgo.md) | ⭐ — | — | 44/100 |
+| 265 | [egoisutolabs/scipgo](./egoisutolabs-scipgo.md) | ⭐ 8 | — | 44/100 |
 | 266 | [rust-lang/git2-rs](./rust-lang-git2-rs.md) | ⭐ 2.1k | Rust | 44/100 |
 | 267 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 43/100 |
 | 268 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 160 | Rust | 43/100 |
 | 269 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
-| 270 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ — | — | 41/100 |
+| 270 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ 16.3k | — | 41/100 |
 | 271 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ — | — | 41/100 |
 | 272 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
 | 273 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 135 | Rust | 39/100 |

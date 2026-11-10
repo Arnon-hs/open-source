@@ -452,9 +452,9 @@
 | 442 | [gendeg/Lissic](./gendeg-lissic.md) | ⭐ — | — | 48/100 |
 | 443 | [jp-um/university_of_malta_LaTeX_dissertation_template](./jp-um-university-of-malta-latex-dissertation-template.md) | ⭐ — | — | 48/100 |
 | 444 | [webshining/aiogram-mongo-template](./webshining-aiogram-mongo-template.md) | ⭐ 16 | Python | 48/100 |
-| 445 | [doriantaylor/swet](./doriantaylor-swet.md) | ⭐ — | — | 48/100 |
+| 445 | [doriantaylor/swet](./doriantaylor-swet.md) | ⭐ 8 | — | 48/100 |
 | 446 | [fulldecent/node.js-template](./fulldecent-node.js-template.md) | ⭐ — | — | 48/100 |
-| 447 | [electronick1/LLAJinja](./electronick1-llajinja.md) | ⭐ — | — | 48/100 |
+| 447 | [electronick1/LLAJinja](./electronick1-llajinja.md) | ⭐ 11 | — | 48/100 |
 | 448 | [astra-intelligence/saas-landing-page-template](./astra-intelligence-saas-landing-page-template.md) | ⭐ — | — | 48/100 |
 | 449 | [johnstaveley/SecurityEssentials](./johnstaveley-securityessentials.md) | ⭐ — | — | 48/100 |
 | 450 | [nguyenchiemminhvu/castle](./nguyenchiemminhvu-castle.md) | ⭐ — | — | 48/100 |
@@ -481,7 +481,7 @@
 | 471 | [human0-ai/template](./human0-ai-template.md) | ⭐ — | — | 45/100 |
 | 472 | [brescou/langgraph-agent-stack](./brescou-langgraph-agent-stack.md) | ⭐ 20 | — | 45/100 |
 | 473 | [leomos/pigiaminja](./leomos-pigiaminja.md) | ⭐ — | — | 45/100 |
-| 474 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ — | — | 45/100 |
+| 474 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ 4 | — | 45/100 |
 | 475 | [hannah-wright/saas-landing-page-template](./hannah-wright-saas-landing-page-template.md) | ⭐ — | — | 45/100 |
 | 476 | [openpeeps/tim](./openpeeps-tim.md) | ⭐ — | — | 45/100 |
 | 477 | [watscho/express-mongodb-rest-api-boilerplate](./watscho-express-mongodb-rest-api-boilerplate.md) | ⭐ — | — | 44/100 |
@@ -502,7 +502,7 @@
 | 492 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ 5 | — | 41/100 |
 | 493 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ — | — | 41/100 |
 | 494 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ — | — | 39/100 |
-| 495 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ — | — | 38/100 |
+| 495 | [didriksg/Crisp](./didriksg-crisp.md) | ⭐ 2.4k | — | 38/100 |
 | 496 | [Kishan324/fitcal-flutter-ui-kit-boilerplate](./kishan324-fitcal-flutter-ui-kit-boilerplate.md) | ⭐ — | Dart | 36/100 |
 | 497 | [sugardaddyapp/geocities-boilerplate](./sugardaddyapp-geocities-boilerplate.md) | ⭐ — | — | 28/100 |
 

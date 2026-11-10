@@ -339,7 +339,7 @@
 | 329 | [mariuz/castle-doom](./mariuz-castle-doom.md) | ⭐ — | — | 41/100 |
 | 330 | [oriaj-nocrala/rust_so_kernel](./oriaj-nocrala-rust-so-kernel.md) | ⭐ — | — | 41/100 |
 | 331 | [FlowComputeClient/flowcompute](./flowcomputeclient-flowcompute.md) | ⭐ — | — | 41/100 |
-| 332 | [enkiruntime/enki](./enkiruntime-enki.md) | ⭐ — | — | 41/100 |
+| 332 | [enkiruntime/enki](./enkiruntime-enki.md) | ⭐ 15 | — | 41/100 |
 | 333 | [xanpavle/rocmfix](./xanpavle-rocmfix.md) | ⭐ — | — | 41/100 |
 | 334 | [rccmb/oracle](./rccmb-oracle.md) | ⭐ — | — | 41/100 |
 | 335 | [aethelisdev/aeon-engine](./aethelisdev-aeon-engine.md) | ⭐ 25 | — | 41/100 |
@@ -350,10 +350,10 @@
 | 340 | [Pengeszikra/Spider-Paint](./pengeszikra-spider-paint.md) | ⭐ 1 | HTML | 39/100 |
 | 341 | [111nation/TinyEngine](./111nation-tinyengine.md) | ⭐ 3 | — | 38/100 |
 | 342 | [serjster/neowon](./serjster-neowon.md) | ⭐ — | — | 38/100 |
-| 343 | [David-OConnor/graphics](./david-oconnor-graphics.md) | ⭐ — | — | 38/100 |
+| 343 | [David-OConnor/graphics](./david-oconnor-graphics.md) | ⭐ 21 | — | 38/100 |
 | 344 | [float64co/Phi](./float64co-phi.md) | ⭐ — | — | 38/100 |
 | 345 | [AmelieHeinrich/agfx](./amelieheinrich-agfx.md) | ⭐ 149 | — | 38/100 |
-| 346 | [ErikBuer/Fugl.jl](./erikbuer-fugl.jl.md) | ⭐ — | — | 38/100 |
+| 346 | [ErikBuer/Fugl.jl](./erikbuer-fugl.jl.md) | ⭐ 50 | — | 38/100 |
 | 347 | [ArcadeMakerSources/ArcadeMaker](./arcademakersources-arcademaker.md) | ⭐ 161 | — | 38/100 |
 | 348 | [andrewfader/crtulum](./andrewfader-crtulum.md) | ⭐ 2 | — | 38/100 |
 | 349 | [BobbyAnguelov/Esoterica](./bobbyanguelov-esoterica.md) | ⭐ 1.9k | — | 38/100 |
