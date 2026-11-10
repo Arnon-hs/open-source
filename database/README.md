@@ -38,7 +38,7 @@
 | 28 | [transact-rs/sqlx](./transact-rs-sqlx.md) | ⭐ 17.6k | Rust | 67/100 |
 | 29 | [pgsty/pigsty](./pgsty-pigsty.md) | ⭐ 5.9k | Shell | 67/100 |
 | 30 | [geotools/geotools](./geotools-geotools.md) | ⭐ 1.9k | Java | 67/100 |
-| 31 | [dbfixtures/pytest-postgresql](./dbfixtures-pytest-postgresql.md) | ⭐ 523 | Python | 67/100 |
+| 31 | [dbfixtures/pytest-postgresql](./dbfixtures-pytest-postgresql.md) | ⭐ 532 | Python | 67/100 |
 | 32 | [grandnode/grandnode2](./grandnode-grandnode2.md) | ⭐ 1.3k | C# | 66/100 |
 | 33 | [l1xnan/duckling](./l1xnan-duckling.md) | ⭐ 583 | TypeScript | 66/100 |
 | 34 | [hibernate/hibernate-orm](./hibernate-hibernate-orm.md) | ⭐ 6.5k | Java | 66/100 |
@@ -50,7 +50,7 @@
 | 40 | [supabase/postgres-meta](./supabase-postgres-meta.md) | ⭐ 1.3k | TypeScript | 65/100 |
 | 41 | [facebook/rocksdb](./facebook-rocksdb.md) | ⭐ 31.9k | C++ | 65/100 |
 | 42 | [eclipse-store/store](./eclipse-store-store.md) | ⭐ 345 | Java | 65/100 |
-| 43 | [amalshaji/dbcooper](./amalshaji-dbcooper.md) | ⭐ 458 | TypeScript | 65/100 |
+| 43 | [amalshaji/dbcooper](./amalshaji-dbcooper.md) | ⭐ 456 | TypeScript | 65/100 |
 | 44 | [mongodb/mongo-python-driver](./mongodb-mongo-python-driver.md) | ⭐ 4.4k | Python | 65/100 |
 | 45 | [5e-bits/5e-database](./5e-bits-5e-database.md) | ⭐ 944 | TypeScript | 65/100 |
 | 46 | [digoal/blog](./digoal-blog.md) | ⭐ 8.6k | HTML | 65/100 |
@@ -58,7 +58,7 @@
 | 48 | [jackc/pgx](./jackc-pgx.md) | ⭐ 14.4k | Go | 65/100 |
 | 49 | [miniflux/v2](./miniflux-v2.md) | ⭐ 9.9k | Go | 65/100 |
 | 50 | [kzahel/yepanywhere](./kzahel-yepanywhere.md) | ⭐ 450 | TypeScript | 65/100 |
-| 51 | [Pelski/ytzero](./pelski-ytzero.md) | ⭐ 527 | TypeScript | 64/100 |
+| 51 | [Pelski/ytzero](./pelski-ytzero.md) | ⭐ 675 | TypeScript | 64/100 |
 | 52 | [pelikan-io/pelikan](./pelikan-io-pelikan.md) | ⭐ 288 | Rust | 64/100 |
 | 53 | [krateng/maloja](./krateng-maloja.md) | ⭐ 1.9k | Python | 64/100 |
 | 54 | [planetscale/cli](./planetscale-cli.md) | ⭐ 672 | Go | 64/100 |
@@ -80,7 +80,7 @@
 | 70 | [gluesql/gluesql](./gluesql-gluesql.md) | ⭐ 3.1k | Rust | 63/100 |
 | 71 | [schemahero/schemahero](./schemahero-schemahero.md) | ⭐ 1.3k | Go | 63/100 |
 | 72 | [SPLWare/esProc](./splware-esproc.md) | ⭐ 4.7k | Java | 63/100 |
-| 73 | [hibernate/hibernate-reactive](./hibernate-hibernate-reactive.md) | ⭐ 466 | Java | 63/100 |
+| 73 | [hibernate/hibernate-reactive](./hibernate-hibernate-reactive.md) | ⭐ 469 | Java | 63/100 |
 | 74 | [kanbn/kan](./kanbn-kan.md) | ⭐ 5.9k | TypeScript | 63/100 |
 | 75 | [tranxuanthang/lrclib](./tranxuanthang-lrclib.md) | ⭐ 2.2k | Rust | 63/100 |
 | 76 | [apache/kvrocks](./apache-kvrocks.md) | ⭐ 4.5k | C++ | 63/100 |
@@ -108,14 +108,14 @@
 | 98 | [SeaQL/sea-orm](./seaql-sea-orm.md) | ⭐ 10k | Rust | 61/100 |
 | 99 | [pganalyze/collector](./pganalyze-collector.md) | ⭐ 398 | Go | 61/100 |
 | 100 | [jOOQ/jOOQ](./jooq-jooq.md) | ⭐ 6.8k | Java | 61/100 |
-| 101 | [bbossgroups/bboss-elasticsearch](./bbossgroups-bboss-elasticsearch.md) | ⭐ 528 | Java | 61/100 |
+| 101 | [bbossgroups/bboss-elasticsearch](./bbossgroups-bboss-elasticsearch.md) | ⭐ 525 | Java | 61/100 |
 | 102 | [automvc/bee](./automvc-bee.md) | ⭐ 638 | Java | 61/100 |
 | 103 | [itwanger/toBeBetterJavaer](./itwanger-tobebetterjavaer.md) | ⭐ 17.8k | Java | 61/100 |
 | 104 | [dimitri/pgloader](./dimitri-pgloader.md) | ⭐ 6.6k | Common Lisp | 61/100 |
 | 105 | [diesel-rs/diesel](./diesel-rs-diesel.md) | ⭐ 14.2k | Rust | 61/100 |
 | 106 | [openeducat/openeducat_erp](./openeducat-openeducat-erp.md) | ⭐ 909 | HTML | 61/100 |
 | 107 | [openclaw/discrawl](./openclaw-discrawl.md) | ⭐ 862 | Go | 61/100 |
-| 108 | [s2-streamstore/s2](./s2-streamstore-s2.md) | ⭐ 508 | Rust | 61/100 |
+| 108 | [s2-streamstore/s2](./s2-streamstore-s2.md) | ⭐ 815 | Rust | 61/100 |
 | 109 | [gravitational/teleport](./gravitational-teleport.md) | ⭐ 21.1k | Go | 61/100 |
 | 110 | [mortennordbye/headroom](./mortennordbye-headroom.md) | ⭐ 10 | TypeScript | 60/100 |
 | 111 | [react-native-async-storage/async-storage](./react-native-async-storage-async-storage.md) | ⭐ 5.1k | Kotlin | 60/100 |
@@ -134,7 +134,7 @@
 | 124 | [kenn-io/roborev](./kenn-io-roborev.md) | ⭐ 1.8k | Go | 60/100 |
 | 125 | [Cryakl/Ultimate-RAT-Collection](./cryakl-ultimate-rat-collection.md) | ⭐ 4.1k | — | 60/100 |
 | 126 | [psycopg/psycopg](./psycopg-psycopg.md) | ⭐ 2.5k | Python | 60/100 |
-| 127 | [domaframework/doma](./domaframework-doma.md) | ⭐ 501 | Java | 60/100 |
+| 127 | [domaframework/doma](./domaframework-doma.md) | ⭐ 511 | Java | 60/100 |
 | 128 | [skeema/skeema](./skeema-skeema.md) | ⭐ 1.4k | Go | 60/100 |
 | 129 | [k3s-io/kine](./k3s-io-kine.md) | ⭐ 2.4k | Go | 60/100 |
 | 130 | [kwsch/PKHeX](./kwsch-pkhex.md) | ⭐ 5.3k | C# | 60/100 |
@@ -152,7 +152,7 @@
 | 142 | [apache/cassandra](./apache-cassandra.md) | ⭐ 10.1k | Java | 59/100 |
 | 143 | [KouShenhai/KCloud-Platform-IoT](./koushenhai-kcloud-platform-iot.md) | ⭐ 680 | Java | 59/100 |
 | 144 | [faust-streaming/faust](./faust-streaming-faust.md) | ⭐ 1.9k | Python | 59/100 |
-| 145 | [blnkfinance/blnk](./blnkfinance-blnk.md) | ⭐ 476 | Go | 59/100 |
+| 145 | [blnkfinance/blnk](./blnkfinance-blnk.md) | ⭐ 589 | Go | 59/100 |
 | 146 | [ridgepole/ridgepole](./ridgepole-ridgepole.md) | ⭐ 1.1k | Ruby | 59/100 |
 | 147 | [pandorafuture/wx-cli](./pandorafuture-wx-cli.md) | ⭐ 106 | Rust | 59/100 |
 | 148 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 1.3k | Rust | 59/100 |
@@ -172,7 +172,7 @@
 | 162 | [Part-DB/Part-DB-server](./part-db-part-db-server.md) | ⭐ 1.8k | PHP | 58/100 |
 | 163 | [pgcentralfoundation/pgrx](./pgcentralfoundation-pgrx.md) | ⭐ 4.8k | Rust | 58/100 |
 | 164 | [apache/hbase](./apache-hbase.md) | ⭐ 5.6k | Java | 58/100 |
-| 165 | [albertodonato/query-exporter](./albertodonato-query-exporter.md) | ⭐ 526 | Python | 58/100 |
+| 165 | [albertodonato/query-exporter](./albertodonato-query-exporter.md) | ⭐ 535 | Python | 58/100 |
 | 166 | [filodb/FiloDB](./filodb-filodb.md) | ⭐ 1.5k | Scala | 58/100 |
 | 167 | [mongodb/mongo-rust-driver](./mongodb-mongo-rust-driver.md) | ⭐ 1.5k | Rust | 58/100 |
 | 168 | [libyal/libesedb](./libyal-libesedb.md) | ⭐ 372 | C | 58/100 |
@@ -227,24 +227,24 @@
 | 217 | [pgbouncer/pgbouncer](./pgbouncer-pgbouncer.md) | ⭐ 4.4k | C | 55/100 |
 | 218 | [BaseXdb/basex](./basexdb-basex.md) | ⭐ 769 | Java | 55/100 |
 | 219 | [riscv/riscv-unified-db](./riscv-riscv-unified-db.md) | ⭐ 176 | Ruby | 55/100 |
-| 220 | [baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv](./baselkelziye-ytu-bilgisayar-muhendisligi-arsiv.md) | ⭐ 462 | Jupyter Notebook | 55/100 |
+| 220 | [baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv](./baselkelziye-ytu-bilgisayar-muhendisligi-arsiv.md) | ⭐ 506 | Jupyter Notebook | 55/100 |
 | 221 | [omega8cc/boa](./omega8cc-boa.md) | ⭐ 394 | Shell | 55/100 |
 | 222 | [glommer/pgmicro](./glommer-pgmicro.md) | ⭐ 1.2k | Rust | 55/100 |
-| 223 | [f1db/f1db](./f1db-f1db.md) | ⭐ 545 | Kotlin | 55/100 |
+| 223 | [f1db/f1db](./f1db-f1db.md) | ⭐ 651 | Kotlin | 55/100 |
 | 224 | [scalikejdbc/scalikejdbc](./scalikejdbc-scalikejdbc.md) | ⭐ 1.3k | Scala | 55/100 |
 | 225 | [kenyounot123/moneypouch](./kenyounot123-moneypouch.md) | ⭐ 3 | Ruby | 54/100 |
 | 226 | [AnshMeshram/dabbaiq](./anshmeshram-dabbaiq.md) | ⭐ — | TypeScript | 54/100 |
 | 227 | [brianmario/mysql2](./brianmario-mysql2.md) | ⭐ 2.3k | Ruby | 54/100 |
 | 228 | [jnwatson/py-lmdb](./jnwatson-py-lmdb.md) | ⭐ 755 | C | 54/100 |
 | 229 | [SeaQL/sea-streamer](./seaql-sea-streamer.md) | ⭐ 369 | Rust | 54/100 |
-| 230 | [sebadob/hiqlite](./sebadob-hiqlite.md) | ⭐ 475 | Rust | 54/100 |
+| 230 | [sebadob/hiqlite](./sebadob-hiqlite.md) | ⭐ 523 | Rust | 54/100 |
 | 231 | [golang/vulndb](./golang-vulndb.md) | ⭐ 610 | Go | 54/100 |
 | 232 | [typedb/typeql](./typedb-typeql.md) | ⭐ 252 | Rust | 54/100 |
-| 233 | [hacan359/tonkatsu_box](./hacan359-tonkatsu-box.md) | ⭐ 471 | Dart | 54/100 |
-| 234 | [sqliteai/sqlite-sync](./sqliteai-sqlite-sync.md) | ⭐ 521 | C | 54/100 |
-| 235 | [timescale/timescaledb-toolkit](./timescale-timescaledb-toolkit.md) | ⭐ 479 | Rust | 54/100 |
+| 233 | [hacan359/tonkatsu_box](./hacan359-tonkatsu-box.md) | ⭐ 606 | Dart | 54/100 |
+| 234 | [sqliteai/sqlite-sync](./sqliteai-sqlite-sync.md) | ⭐ 609 | C | 54/100 |
+| 235 | [timescale/timescaledb-toolkit](./timescale-timescaledb-toolkit.md) | ⭐ 493 | Rust | 54/100 |
 | 236 | [theseus-rs/postgresql-embedded](./theseus-rs-postgresql-embedded.md) | ⭐ 382 | Rust | 54/100 |
-| 237 | [planetscale/database-skills](./planetscale-database-skills.md) | ⭐ 549 | HTML | 54/100 |
+| 237 | [planetscale/database-skills](./planetscale-database-skills.md) | ⭐ 740 | HTML | 54/100 |
 | 238 | [postgres-ai/postgresai](./postgres-ai-postgresai.md) | ⭐ 129 | Python | 54/100 |
 | 239 | [lyric777/Book-Management-System](./lyric777-book-management-system.md) | ⭐ 404 | Python | 54/100 |
 | 240 | [Netflix/atlas](./netflix-atlas.md) | ⭐ 3.6k | Scala | 54/100 |
@@ -326,7 +326,7 @@
 | 316 | [ClickHouse/RayTracer](./clickhouse-raytracer.md) | ⭐ — | — | 49/100 |
 | 317 | [Syngnat/GoNavi](./syngnat-gonavi.md) | ⭐ 2.1k | TypeScript | 49/100 |
 | 318 | [apache/sedona-db](./apache-sedona-db.md) | ⭐ 450 | Rust | 49/100 |
-| 319 | [huahua132/skynet_fly](./huahua132-skynet-fly.md) | ⭐ 521 | C | 49/100 |
+| 319 | [huahua132/skynet_fly](./huahua132-skynet-fly.md) | ⭐ 534 | C | 49/100 |
 | 320 | [matze/wastebin](./matze-wastebin.md) | ⭐ 886 | Rust | 49/100 |
 | 321 | [anomalyco/models.dev](./anomalyco-models.dev.md) | ⭐ 7.6k | TypeScript | 49/100 |
 | 322 | [h2database/h2database](./h2database-h2database.md) | ⭐ 4.6k | Java | 49/100 |

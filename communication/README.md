@@ -20,7 +20,7 @@
 | 10 | [reacherhq/check-if-email-exists](./reacherhq-check-if-email-exists.md) | ⭐ 10.4k | Rust | 75/100 |
 | 11 | [matrix-org/matrix-js-sdk](./matrix-org-matrix-js-sdk.md) | ⭐ 2.2k | TypeScript | 75/100 |
 | 12 | [opencoredev/email-sdk](./opencoredev-email-sdk.md) | ⭐ 188 | MDX | 75/100 |
-| 13 | [jeboehm/docker-mailserver](./jeboehm-docker-mailserver.md) | ⭐ 463 | Shell | 74/100 |
+| 13 | [jeboehm/docker-mailserver](./jeboehm-docker-mailserver.md) | ⭐ 478 | Shell | 74/100 |
 | 14 | [8go/matrix-commander](./8go-matrix-commander.md) | ⭐ 762 | Python | 74/100 |
 | 15 | [juggleim/im-server](./juggleim-im-server.md) | ⭐ 3.5k | Go | 74/100 |
 | 16 | [beste/firebase-php](./beste-firebase-php.md) | ⭐ 2.4k | PHP | 74/100 |
@@ -44,7 +44,7 @@
 | 34 | [Foundry376/Mailspring](./foundry376-mailspring.md) | ⭐ 18k | JavaScript | 70/100 |
 | 35 | [pact-foundation/pact-go](./pact-foundation-pact-go.md) | ⭐ 962 | Go | 70/100 |
 | 36 | [openclaw/slacrawl](./openclaw-slacrawl.md) | ⭐ 199 | Go | 70/100 |
-| 37 | [project-robius/robrix](./project-robius-robrix.md) | ⭐ 460 | Rust | 70/100 |
+| 37 | [project-robius/robrix](./project-robius-robrix.md) | ⭐ 514 | Rust | 70/100 |
 | 38 | [wasp-lang/wasp](./wasp-lang-wasp.md) | ⭐ 18.8k | TypeScript | 70/100 |
 | 39 | [arikchakma/maily.to](./arikchakma-maily.to.md) | ⭐ 4k | TypeScript | 69/100 |
 | 40 | [centrifugal/centrifugo](./centrifugal-centrifugo.md) | ⭐ 11k | Go | 69/100 |
@@ -76,7 +76,7 @@
 | 66 | [jstedfast/MailKit](./jstedfast-mailkit.md) | ⭐ 6.9k | C# | 66/100 |
 | 67 | [emersion/go-smtp](./emersion-go-smtp.md) | ⭐ 2.1k | Go | 66/100 |
 | 68 | [Oxygem/Kanmail](./oxygem-kanmail.md) | ⭐ 1.4k | Go | 66/100 |
-| 69 | [apache/rocketmq-clients](./apache-rocketmq-clients.md) | ⭐ 499 | Java | 66/100 |
+| 69 | [apache/rocketmq-clients](./apache-rocketmq-clients.md) | ⭐ 509 | Java | 66/100 |
 | 70 | [reduxframework/redux-framework](./reduxframework-redux-framework.md) | ⭐ 1.8k | PHP | 66/100 |
 | 71 | [bokysan/docker-postfix](./bokysan-docker-postfix.md) | ⭐ 819 | Shell | 66/100 |
 | 72 | [rabbitmq/rabbitmq-server](./rabbitmq-rabbitmq-server.md) | ⭐ 14k | JavaScript | 66/100 |
@@ -144,7 +144,7 @@
 | 134 | [jech/galene](./jech-galene.md) | ⭐ 1.4k | Go | 61/100 |
 | 135 | [phw198/OutlookGoogleCalendarSync](./phw198-outlookgooglecalendarsync.md) | ⭐ 2.2k | C# | 61/100 |
 | 136 | [add2cal/add-to-calendar-button](./add2cal-add-to-calendar-button.md) | ⭐ 1.5k | JavaScript | 61/100 |
-| 137 | [slackhq/foundry](./slackhq-foundry.md) | ⭐ 474 | Kotlin | 61/100 |
+| 137 | [slackhq/foundry](./slackhq-foundry.md) | ⭐ 479 | Kotlin | 61/100 |
 | 138 | [postalsys/emailengine](./postalsys-emailengine.md) | ⭐ 2.2k | JavaScript | 61/100 |
 | 139 | [RocketChat/Rocket.Chat.ReactNative](./rocketchat-rocket.chat.reactnative.md) | ⭐ 2.4k | TypeScript | 61/100 |
 | 140 | [stoatchat/stoatchat](./stoatchat-stoatchat.md) | ⭐ 3.5k | Rust | 61/100 |
@@ -157,7 +157,7 @@
 | 147 | [molvqingtai/WebChat](./molvqingtai-webchat.md) | ⭐ 2.6k | TypeScript | 60/100 |
 | 148 | [iamxvbaba/gramsrv](./iamxvbaba-gramsrv.md) | ⭐ 128 | Go | 60/100 |
 | 149 | [greenmail-mail-test/greenmail](./greenmail-mail-test-greenmail.md) | ⭐ 752 | Java | 60/100 |
-| 150 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 510 | JavaScript | 60/100 |
+| 150 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 521 | JavaScript | 60/100 |
 | 151 | [zfogg/ascii-chat](./zfogg-ascii-chat.md) | ⭐ 196 | C | 60/100 |
 | 152 | [apache/activemq](./apache-activemq.md) | ⭐ 2.5k | Java | 60/100 |
 | 153 | [owncast/owncast](./owncast-owncast.md) | ⭐ 11.6k | Go | 60/100 |
@@ -185,7 +185,7 @@
 | 175 | [mpv-android/mpv-android](./mpv-android-mpv-android.md) | ⭐ 3.7k | Kotlin | 58/100 |
 | 176 | [overlayeddev/overlayed](./overlayeddev-overlayed.md) | ⭐ 691 | TypeScript | 58/100 |
 | 177 | [M66B/FairEmail](./m66b-fairemail.md) | ⭐ 4.8k | Java | 58/100 |
-| 178 | [SimonMarquis/FCM-toolbox](./simonmarquis-fcm-toolbox.md) | ⭐ 515 | Kotlin | 58/100 |
+| 178 | [SimonMarquis/FCM-toolbox](./simonmarquis-fcm-toolbox.md) | ⭐ 525 | Kotlin | 58/100 |
 | 179 | [OpenHFT/Chronicle-Queue](./openhft-chronicle-queue.md) | ⭐ 3.8k | Java | 58/100 |
 | 180 | [miroslavpejic85/mirotalkbro](./miroslavpejic85-mirotalkbro.md) | ⭐ 203 | JavaScript | 58/100 |
 | 181 | [TryQuiet/quiet](./tryquiet-quiet.md) | ⭐ 2.7k | C | 58/100 |
@@ -211,7 +211,7 @@
 | 201 | [jalaali/jalaali-js](./jalaali-jalaali-js.md) | ⭐ 364 | TypeScript | 56/100 |
 | 202 | [kenn-io/msgvault](./kenn-io-msgvault.md) | ⭐ 2.2k | Go | 56/100 |
 | 203 | [roundcube/roundcubemail](./roundcube-roundcubemail.md) | ⭐ 7.3k | PHP | 56/100 |
-| 204 | [muni-town/roomy](./muni-town-roomy.md) | ⭐ 462 | TypeScript | 56/100 |
+| 204 | [muni-town/roomy](./muni-town-roomy.md) | ⭐ 499 | TypeScript | 56/100 |
 | 205 | [analogdotnow/Analog](./analogdotnow-analog.md) | ⭐ 1.6k | TypeScript | 56/100 |
 | 206 | [markuspoerschke/iCal](./markuspoerschke-ical.md) | ⭐ 1.2k | PHP | 56/100 |
 | 207 | [RblSb/SyncTube](./rblsb-synctube.md) | ⭐ 378 | Haxe | 56/100 |
@@ -271,7 +271,7 @@
 | 261 | [themadorg/madmail](./themadorg-madmail.md) | ⭐ 170 | Rust | 51/100 |
 | 262 | [versatica/mediasoup](./versatica-mediasoup.md) | ⭐ 7.4k | C++ | 51/100 |
 | 263 | [maillab/cloud-mail](./maillab-cloud-mail.md) | ⭐ 15.6k | JavaScript | 51/100 |
-| 264 | [mpiorowski/late-sh](./mpiorowski-late-sh.md) | ⭐ 509 | Rust | 51/100 |
+| 264 | [mpiorowski/late-sh](./mpiorowski-late-sh.md) | ⭐ 1.5k | Rust | 51/100 |
 | 265 | [thunderbird/thunderbird-android](./thunderbird-thunderbird-android.md) | ⭐ 14.2k | Kotlin | 51/100 |
 | 266 | [aeron-io/aeron](./aeron-io-aeron.md) | ⭐ 9k | Java | 51/100 |
 | 267 | [edulazaro/laragents](./edulazaro-laragents.md) | ⭐ 1 | PHP | 50/100 |
@@ -298,7 +298,7 @@
 | 288 | [slackhq/hakana](./slackhq-hakana.md) | ⭐ 107 | Rust | 48/100 |
 | 289 | [trougnouf/cfait](./trougnouf-cfait.md) | ⭐ 113 | Rust | 48/100 |
 | 290 | [agntcy/slim](./agntcy-slim.md) | ⭐ 189 | Rust | 48/100 |
-| 291 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 456 | Swift | 48/100 |
+| 291 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 468 | Swift | 48/100 |
 | 292 | [awebai/aweb](./awebai-aweb.md) | ⭐ 51 | Go | 48/100 |
 | 293 | [nextcloud/mail](./nextcloud-mail.md) | ⭐ 1.1k | JavaScript | 48/100 |
 | 294 | [egulias/EmailValidator](./egulias-emailvalidator.md) | ⭐ 11.6k | PHP | 47/100 |

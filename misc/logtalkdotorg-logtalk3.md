@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 488 |
+| ⭐ **Stars** | 499 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | Logtalk |
 | 📈 **Score** | 53/100 |

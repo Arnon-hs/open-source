@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 511 |
-| 🍴 **Forks** | 80 |
+| ⭐ **Stars** | 539 |
+| 🍴 **Forks** | 81 |
 | 💻 **Language** | Smalltalk |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-05 |

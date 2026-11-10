@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 453 |
+| ⭐ **Stars** | 466 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Go Template |
 | 📈 **Score** | 61/100 |

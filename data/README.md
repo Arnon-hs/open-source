@@ -68,7 +68,7 @@
 | 58 | [supabase/realtime](./supabase-realtime.md) | ⭐ 7.7k | Elixir | 65/100 |
 | 59 | [Open-Web-Analytics/Open-Web-Analytics](./open-web-analytics-open-web-analytics.md) | ⭐ 2.7k | PHP | 65/100 |
 | 60 | [livestorejs/livestore](./livestorejs-livestore.md) | ⭐ 3.8k | TypeScript | 65/100 |
-| 61 | [hogan-tech/leetcode-solution](./hogan-tech-leetcode-solution.md) | ⭐ 544 | Python | 65/100 |
+| 61 | [hogan-tech/leetcode-solution](./hogan-tech-leetcode-solution.md) | ⭐ 547 | Python | 65/100 |
 | 62 | [igerber/diff-diff](./igerber-diff-diff.md) | ⭐ 309 | Python | 65/100 |
 | 63 | [datavane/datavines](./datavane-datavines.md) | ⭐ 767 | Java | 65/100 |
 | 64 | [crossbeam-rs/crossbeam](./crossbeam-rs-crossbeam.md) | ⭐ 8.6k | Rust | 65/100 |
@@ -84,7 +84,7 @@
 | 74 | [openobserve/openobserve](./openobserve-openobserve.md) | ⭐ 23k | TypeScript | 65/100 |
 | 75 | [databuddy-analytics/Databuddy](./databuddy-analytics-databuddy.md) | ⭐ 1.1k | TypeScript | 64/100 |
 | 76 | [houbb/sensitive](./houbb-sensitive.md) | ⭐ 715 | Java | 64/100 |
-| 77 | [gchq/stroom](./gchq-stroom.md) | ⭐ 479 | Java | 64/100 |
+| 77 | [gchq/stroom](./gchq-stroom.md) | ⭐ 489 | Java | 64/100 |
 | 78 | [randyzwitch/streamlit-folium](./randyzwitch-streamlit-folium.md) | ⭐ 586 | Python | 64/100 |
 | 79 | [dreeveapp/dreeve](./dreeveapp-dreeve.md) | ⭐ 2.2k | PHP | 64/100 |
 | 80 | [cue-lang/cue](./cue-lang-cue.md) | ⭐ 6.3k | Go | 64/100 |
@@ -109,7 +109,7 @@
 | 99 | [ConduitIO/conduit](./conduitio-conduit.md) | ⭐ 618 | Go | 63/100 |
 | 100 | [pydata/pandas-datareader](./pydata-pandas-datareader.md) | ⭐ 3.3k | Python | 63/100 |
 | 101 | [timescale/timescaledb](./timescale-timescaledb.md) | ⭐ 23.8k | C | 63/100 |
-| 102 | [xoolive/traffic](./xoolive-traffic.md) | ⭐ 488 | Python | 63/100 |
+| 102 | [xoolive/traffic](./xoolive-traffic.md) | ⭐ 524 | Python | 63/100 |
 | 103 | [rapidsai/cudf](./rapidsai-cudf.md) | ⭐ 9.6k | C++ | 63/100 |
 | 104 | [ARM-DOE/pyart](./arm-doe-pyart.md) | ⭐ 610 | Python | 62/100 |
 | 105 | [ChartGPU/ChartGPU](./chartgpu-chartgpu.md) | ⭐ 3.3k | TypeScript | 62/100 |
@@ -143,7 +143,7 @@
 | 133 | [MobilityData/awesome-transit](./mobilitydata-awesome-transit.md) | ⭐ 1.9k | — | 61/100 |
 | 134 | [MarquezProject/marquez](./marquezproject-marquez.md) | ⭐ 2.3k | Java | 60/100 |
 | 135 | [fluent/fluentd](./fluent-fluentd.md) | ⭐ 13.6k | Ruby | 60/100 |
-| 136 | [osalvador/ReplicaDB](./osalvador-replicadb.md) | ⭐ 494 | Java | 60/100 |
+| 136 | [osalvador/ReplicaDB](./osalvador-replicadb.md) | ⭐ 505 | Java | 60/100 |
 | 137 | [NVIDIA/NVFlare](./nvidia-nvflare.md) | ⭐ 1k | Python | 60/100 |
 | 138 | [firefly-iii/data-importer](./firefly-iii-data-importer.md) | ⭐ 858 | PHP | 60/100 |
 | 139 | [Axect/Peroxide](./axect-peroxide.md) | ⭐ 733 | Rust | 60/100 |
@@ -183,7 +183,7 @@
 | 173 | [hms-dbmi/viv](./hms-dbmi-viv.md) | ⭐ 355 | JavaScript | 58/100 |
 | 174 | [microprediction/microprediction](./microprediction-microprediction.md) | ⭐ 377 | Jupyter Notebook | 58/100 |
 | 175 | [d3blocks/d3blocks](./d3blocks-d3blocks.md) | ⭐ 776 | Jupyter Notebook | 58/100 |
-| 176 | [avaneev/lzav](./avaneev-lzav.md) | ⭐ 539 | C++ | 58/100 |
+| 176 | [avaneev/lzav](./avaneev-lzav.md) | ⭐ 564 | C++ | 58/100 |
 | 177 | [datavane/tis](./datavane-tis.md) | ⭐ 1.4k | Java | 58/100 |
 | 178 | [powturbo/TurboBench](./powturbo-turbobench.md) | ⭐ 369 | C | 58/100 |
 | 179 | [koaning/drawdata](./koaning-drawdata.md) | ⭐ 1.7k | JavaScript | 58/100 |
@@ -192,7 +192,7 @@
 | 182 | [dealii/dealii](./dealii-dealii.md) | ⭐ 1.8k | C++ | 58/100 |
 | 183 | [PostHog/posthog-js](./posthog-posthog-js.md) | ⭐ 644 | TypeScript | 58/100 |
 | 184 | [gnudatalanguage/gdl](./gnudatalanguage-gdl.md) | ⭐ 310 | C++ | 58/100 |
-| 185 | [girder/girder](./girder-girder.md) | ⭐ 459 | Python | 58/100 |
+| 185 | [girder/girder](./girder-girder.md) | ⭐ 458 | Python | 58/100 |
 | 186 | [cahyadsn/wilayah](./cahyadsn-wilayah.md) | ⭐ 1.3k | SQL | 58/100 |
 | 187 | [max0x7ba/atomic_queue](./max0x7ba-atomic-queue.md) | ⭐ 1.9k | C++ | 58/100 |
 | 188 | [MakieOrg/Makie.jl](./makieorg-makie.jl.md) | ⭐ 2.8k | Julia | 58/100 |
@@ -209,7 +209,7 @@
 | 199 | [JuliaPlots/Plots.jl](./juliaplots-plots.jl.md) | ⭐ 2k | Julia | 57/100 |
 | 200 | [productdevbook/etiket](./productdevbook-etiket.md) | ⭐ 443 | TypeScript | 57/100 |
 | 201 | [GeiserX/awesome-spain](./geiserx-awesome-spain.md) | ⭐ 323 | Python | 57/100 |
-| 202 | [zwicker-group/py-pde](./zwicker-group-py-pde.md) | ⭐ 462 | Python | 57/100 |
+| 202 | [zwicker-group/py-pde](./zwicker-group-py-pde.md) | ⭐ 469 | Python | 57/100 |
 | 203 | [nao1215/filesql](./nao1215-filesql.md) | ⭐ 374 | Go | 57/100 |
 | 204 | [Marsilea-viz/marsilea](./marsilea-viz-marsilea.md) | ⭐ 321 | Python | 57/100 |
 | 205 | [bordoni/fakerpress](./bordoni-fakerpress.md) | ⭐ 363 | PHP | 57/100 |
@@ -218,7 +218,7 @@
 | 208 | [elastio/bon](./elastio-bon.md) | ⭐ 2.1k | Rust | 57/100 |
 | 209 | [mosparo/mosparo](./mosparo-mosparo.md) | ⭐ 295 | PHP | 57/100 |
 | 210 | [cpmech/russell](./cpmech-russell.md) | ⭐ 187 | Rust | 57/100 |
-| 211 | [1313e/CMasher](./1313e-cmasher.md) | ⭐ 482 | Python | 57/100 |
+| 211 | [1313e/CMasher](./1313e-cmasher.md) | ⭐ 499 | Python | 57/100 |
 | 212 | [apache/inlong](./apache-inlong.md) | ⭐ 1.5k | Java | 57/100 |
 | 213 | [InsightSoftwareConsortium/ITK](./insightsoftwareconsortium-itk.md) | ⭐ 1.7k | C++ | 57/100 |
 | 214 | [ytsaurus/ytsaurus](./ytsaurus-ytsaurus.md) | ⭐ 2.3k | C++ | 57/100 |
@@ -227,7 +227,7 @@
 | 217 | [metricshour-netizen/edgar-geo-revenue](./metricshour-netizen-edgar-geo-revenue.md) | ⭐ 1 | Python | 56/100 |
 | 218 | [quarylabs/quary](./quarylabs-quary.md) | ⭐ 2.4k | Rust | 56/100 |
 | 219 | [sowarma/wp2shell-PoC](./sowarma-wp2shell-poc.md) | ⭐ 351 | Python | 56/100 |
-| 220 | [ericmjl/nxviz](./ericmjl-nxviz.md) | ⭐ 485 | Python | 56/100 |
+| 220 | [ericmjl/nxviz](./ericmjl-nxviz.md) | ⭐ 487 | Python | 56/100 |
 | 221 | [enthought/mayavi](./enthought-mayavi.md) | ⭐ 1.4k | Python | 56/100 |
 | 222 | [rokath/trice](./rokath-trice.md) | ⭐ 1k | C | 56/100 |
 | 223 | [opensearch-project/data-prepper](./opensearch-project-data-prepper.md) | ⭐ 367 | Java | 56/100 |
@@ -247,14 +247,14 @@
 | 237 | [d3/d3-geo](./d3-d3-geo.md) | ⭐ 1.1k | JavaScript | 56/100 |
 | 238 | [tauri-apps/tauri-plugin-store](./tauri-apps-tauri-plugin-store.md) | ⭐ 311 | Rust | 55/100 |
 | 239 | [rt-bishop/Look4Sat](./rt-bishop-look4sat.md) | ⭐ 1.5k | Kotlin | 55/100 |
-| 240 | [KDE/labplot](./kde-labplot.md) | ⭐ 464 | C++ | 55/100 |
+| 240 | [KDE/labplot](./kde-labplot.md) | ⭐ 490 | C++ | 55/100 |
 | 241 | [quanteda/quanteda](./quanteda-quanteda.md) | ⭐ 895 | R | 55/100 |
 | 242 | [yegor256/micromap](./yegor256-micromap.md) | ⭐ 213 | Rust | 55/100 |
 | 243 | [delta-io/delta-sharing](./delta-io-delta-sharing.md) | ⭐ 961 | Scala | 55/100 |
 | 244 | [Shopify/maintenance_tasks](./shopify-maintenance-tasks.md) | ⭐ 1.3k | Ruby | 55/100 |
 | 245 | [stepchowfun/typical](./stepchowfun-typical.md) | ⭐ 767 | Rust | 55/100 |
 | 246 | [cBioPortal/cbioportal](./cbioportal-cbioportal.md) | ⭐ 1.1k | Java | 55/100 |
-| 247 | [flekschas/jupyter-scatter](./flekschas-jupyter-scatter.md) | ⭐ 461 | Python | 55/100 |
+| 247 | [flekschas/jupyter-scatter](./flekschas-jupyter-scatter.md) | ⭐ 474 | Python | 55/100 |
 | 248 | [vlang/vsl](./vlang-vsl.md) | ⭐ 393 | V | 55/100 |
 | 249 | [apache/auron](./apache-auron.md) | ⭐ 1.8k | Rust | 55/100 |
 | 250 | [gchq/CyberChef](./gchq-cyberchef.md) | ⭐ 36.4k | JavaScript | 55/100 |
@@ -270,7 +270,7 @@
 | 260 | [3DStreet/3dstreet](./3dstreet-3dstreet.md) | ⭐ 331 | JavaScript | 54/100 |
 | 261 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 712 | Rust | 54/100 |
 | 262 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 829 | JavaScript | 54/100 |
-| 263 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 491 | HTML | 54/100 |
+| 263 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 574 | HTML | 54/100 |
 | 264 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 141 | Rust | 54/100 |
 | 265 | [beava-dev/beava](./beava-dev-beava.md) | ⭐ 120 | Rust | 54/100 |
 | 266 | [rpbouman/huey](./rpbouman-huey.md) | ⭐ 635 | JavaScript | 54/100 |
@@ -284,7 +284,7 @@
 | 274 | [aptabase/tauri-plugin-aptabase](./aptabase-tauri-plugin-aptabase.md) | ⭐ 152 | Rust | 53/100 |
 | 275 | [evolve75/RubyTree](./evolve75-rubytree.md) | ⭐ 391 | Ruby | 53/100 |
 | 276 | [saschagrunert/indextree](./saschagrunert-indextree.md) | ⭐ 819 | Rust | 53/100 |
-| 277 | [serenedb/serenedb](./serenedb-serenedb.md) | ⭐ 459 | C++ | 53/100 |
+| 277 | [serenedb/serenedb](./serenedb-serenedb.md) | ⭐ 969 | C++ | 53/100 |
 | 278 | [StarRocks/starrocks](./starrocks-starrocks.md) | ⭐ 12.2k | Java | 53/100 |
 | 279 | [NandhaKishorM/laya](./nandhakishorm-laya.md) | ⭐ 12.3k | Python | 53/100 |
 | 280 | [ayazhafiz/xorf](./ayazhafiz-xorf.md) | ⭐ 169 | Rust | 52/100 |
@@ -310,9 +310,9 @@
 | 300 | [scigolib/hdf5](./scigolib-hdf5.md) | ⭐ 32 | Go | 51/100 |
 | 301 | [OSGeo/gdal](./osgeo-gdal.md) | ⭐ 6.1k | C++ | 50/100 |
 | 302 | [nohajc/anylinuxfs](./nohajc-anylinuxfs.md) | ⭐ 1.7k | Rust | 50/100 |
-| 303 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 514 | C | 50/100 |
+| 303 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 539 | C | 50/100 |
 | 304 | [wavelog/wavelog](./wavelog-wavelog.md) | ⭐ 428 | PHP | 50/100 |
-| 305 | [linkml/linkml](./linkml-linkml.md) | ⭐ 512 | Python | 50/100 |
+| 305 | [linkml/linkml](./linkml-linkml.md) | ⭐ 695 | Python | 50/100 |
 | 306 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 652 | Rust | 50/100 |
 | 307 | [mdn/browser-compat-data](./mdn-browser-compat-data.md) | ⭐ 5.8k | JSON | 50/100 |
 | 308 | [odebo/planet-zoo-2-dataset](./odebo-planet-zoo-2-dataset.md) | ⭐ — | — | 49/100 |
@@ -333,16 +333,16 @@
 | 323 | [supabase/etl](./supabase-etl.md) | ⭐ 2.4k | Rust | 48/100 |
 | 324 | [MMMystery/foto-documento-specs](./mmmystery-foto-documento-specs.md) | ⭐ — | JavaScript | 47/100 |
 | 325 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 341 | Rust | 47/100 |
-| 326 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 477 | Java | 47/100 |
+| 326 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 483 | Java | 47/100 |
 | 327 | [ashtonckj/Purrrfessorrr-Slothhh](./ashtonckj-purrrfessorrr-slothhh.md) | ⭐ 2 | Python | 46/100 |
 | 328 | [dmitriy-iliyov/oncebox](./dmitriy-iliyov-oncebox.md) | ⭐ 3 | Java | 46/100 |
 | 329 | [emptiesvoid-cloud/QF_solver](./emptiesvoid-cloud-qf-solver.md) | ⭐ 2 | Python | 46/100 |
-| 330 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 498 | R | 46/100 |
+| 330 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 516 | R | 46/100 |
 | 331 | [partick33/internal-links-export](./partick33-internal-links-export.md) | ⭐ — | JavaScript | 45/100 |
 | 332 | [idk-arsh/data-agent-rules](./idk-arsh-data-agent-rules.md) | ⭐ — | — | 45/100 |
 | 333 | [GetCassis/analytics-agent-articles](./getcassis-analytics-agent-articles.md) | ⭐ — | — | 45/100 |
 | 334 | [trynova/nova](./trynova-nova.md) | ⭐ 2k | Rust | 45/100 |
-| 335 | [apache/tez](./apache-tez.md) | ⭐ 514 | Java | 45/100 |
+| 335 | [apache/tez](./apache-tez.md) | ⭐ 522 | Java | 45/100 |
 | 336 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 708 | Python | 45/100 |
 | 337 | [scigolib/matlab](./scigolib-matlab.md) | ⭐ 12 | Go | 45/100 |
 | 338 | [HimanshuS073/music_visualizer](./himanshus073-music-visualizer.md) | ⭐ 2 | Lua | 45/100 |

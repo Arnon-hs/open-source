@@ -1,6 +1,6 @@
 # atharvachaudhari1/innovhacks4.0_arka
 
-[![Stars](https://img.shields.io/github/stars/atharvachaudhari1/innovhacks4.0_arka?style=flat-square&color=yellow)](https://github.com/atharvachaudhari1/innovhacks4.0_arka/stargazers) [![Forks](https://img.shields.io/github/forks/atharvachaudhari1/innovhacks4.0_arka?style=flat-square&color=blue)](https://github.com/atharvachaudhari1/innovhacks4.0_arka/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/atharvachaudhari1/innovhacks4.0_arka?style=flat-square&color=yellow)](https://github.com/atharvachaudhari1/innovhacks4.0_arka/stargazers) [![Forks](https://img.shields.io/github/forks/atharvachaudhari1/innovhacks4.0_arka?style=flat-square&color=blue)](https://github.com/atharvachaudhari1/innovhacks4.0_arka/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-30%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 33/100 |
+| 📈 **Score** | 30/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ atharvachaudhari1/innovhacks4.0_arka：atharvachaudhari1/innovhacks4.0_arka help
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 33/100 |
+| quality | 28/100 |
 | integration | 18/100 |
-| production | 43/100 |
-| outlook | 41/100 |
+| production | 36/100 |
+| outlook | 34/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

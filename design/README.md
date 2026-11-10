@@ -16,8 +16,8 @@
 | 6 | [google-labs-code/design.md](./google-labs-code-design.md.md) | ⭐ 28.8k | TypeScript | 69/100 |
 | 7 | [PapirusDevelopmentTeam/papirus-icon-theme](./papirusdevelopmentteam-papirus-icon-theme.md) | ⭐ 8.2k | Shell | 68/100 |
 | 8 | [HavenDV/H.NotifyIcon](./havendv-h.notifyicon.md) | ⭐ 769 | C# | 68/100 |
-| 9 | [partcad/partcad](./partcad-partcad.md) | ⭐ 476 | Python | 67/100 |
-| 10 | [intel/rohd](./intel-rohd.md) | ⭐ 485 | Dart | 67/100 |
+| 9 | [partcad/partcad](./partcad-partcad.md) | ⭐ 529 | Python | 67/100 |
+| 10 | [intel/rohd](./intel-rohd.md) | ⭐ 497 | Dart | 67/100 |
 | 11 | [GoogleChromeLabs/ProjectVisBug](./googlechromelabs-projectvisbug.md) | ⭐ 5.8k | JavaScript | 66/100 |
 | 12 | [WPS/egon.io](./wps-egon.io.md) | ⭐ 840 | TypeScript | 65/100 |
 | 13 | [logisim-evolution/logisim-evolution](./logisim-evolution-logisim-evolution.md) | ⭐ 7.9k | Java | 65/100 |
@@ -46,10 +46,10 @@
 | 36 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 7.1k | PHP | 59/100 |
 | 37 | [QwenLM/Qwen3-TTS](./qwenlm-qwen3-tts.md) | ⭐ 14.3k | Python | 58/100 |
 | 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 674 | Vue | 58/100 |
-| 39 | [TousstNicolas/JLC2KiCad_lib](./tousstnicolas-jlc2kicad-lib.md) | ⭐ 464 | Python | 58/100 |
+| 39 | [TousstNicolas/JLC2KiCad_lib](./tousstnicolas-jlc2kicad-lib.md) | ⭐ 491 | Python | 58/100 |
 | 40 | [alphagov/govuk-design-system](./alphagov-govuk-design-system.md) | ⭐ 688 | Nunjucks | 58/100 |
-| 41 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 509 | TypeScript | 58/100 |
-| 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 528 | Python | 58/100 |
+| 41 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 520 | TypeScript | 58/100 |
+| 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 609 | Python | 58/100 |
 | 43 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 26.2k | JavaScript | 58/100 |
 | 44 | [liquidslr/system-design-notes](./liquidslr-system-design-notes.md) | ⭐ 28k | — | 57/100 |
 | 45 | [davgar99/arch-linux-font-improvement-guide](./davgar99-arch-linux-font-improvement-guide.md) | ⭐ 252 | — | 57/100 |
@@ -57,7 +57,7 @@
 | 47 | [visioncortex/vtracer](./visioncortex-vtracer.md) | ⭐ 7.5k | Rust | 57/100 |
 | 48 | [RailsEventStore/rails_event_store](./railseventstore-rails-event-store.md) | ⭐ 1.6k | Ruby | 57/100 |
 | 49 | [CircuitVerse/CircuitVerse](./circuitverse-circuitverse.md) | ⭐ 1.3k | JavaScript | 57/100 |
-| 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 482 | TypeScript | 57/100 |
+| 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 654 | TypeScript | 57/100 |
 | 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.2k | C++ | 57/100 |
 | 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 70 | Python | 57/100 |
 | 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 1 | JavaScript | 57/100 |
@@ -82,7 +82,7 @@
 | 72 | [AxonIQ/AxonFramework](./axoniq-axonframework.md) | ⭐ 3.6k | Java | 55/100 |
 | 73 | [amaancoderx/npxskillui](./amaancoderx-npxskillui.md) | ⭐ 2.5k | TypeScript | 54/100 |
 | 74 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 330 | Python | 54/100 |
-| 75 | [coinbase/cds](./coinbase-cds.md) | ⭐ 488 | TypeScript | 54/100 |
+| 75 | [coinbase/cds](./coinbase-cds.md) | ⭐ 510 | TypeScript | 54/100 |
 | 76 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 114 | TypeScript | 54/100 |
 | 77 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 982 | TypeScript | 54/100 |
 | 78 | [SAP/macOS-icon-generator](./sap-macos-icon-generator.md) | ⭐ 647 | C | 53/100 |
@@ -93,7 +93,7 @@
 | 83 | [su2code/SU2](./su2code-su2.md) | ⭐ 1.9k | C++ | 53/100 |
 | 84 | [smokeeaasd/flawless-ui-ux](./smokeeaasd-flawless-ui-ux.md) | ⭐ — | — | 52/100 |
 | 85 | [vuematerial/vue-material](./vuematerial-vue-material.md) | ⭐ 9.8k | Vue | 52/100 |
-| 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 514 | Swift | 52/100 |
+| 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 562 | Swift | 52/100 |
 | 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.2k | Handlebars | 52/100 |
 | 88 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 101 | Rust | 52/100 |
 | 89 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 625 | Rust | 52/100 |
@@ -113,13 +113,13 @@
 | 103 | [finix-community/finix](./finix-community-finix.md) | ⭐ 405 | Nix | 49/100 |
 | 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 406 | Shell | 49/100 |
 | 105 | [kzhrknt/awesome-design-md-jp](./kzhrknt-awesome-design-md-jp.md) | ⭐ 1k | HTML | 49/100 |
-| 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 49/100 |
+| 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 554 | Python | 49/100 |
 | 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.1k | Ruby | 49/100 |
 | 108 | [pixel-point/toolcraft](./pixel-point-toolcraft.md) | ⭐ — | — | 48/100 |
 | 109 | [victorzhang016-code/victor-design](./victorzhang016-code-victor-design.md) | ⭐ 39 | JavaScript | 48/100 |
 | 110 | [everfu/hexo-theme-solitude](./everfu-hexo-theme-solitude.md) | ⭐ 1.2k | Stylus | 48/100 |
 | 111 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 1.2k | JavaScript | 48/100 |
-| 112 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 496 | Python | 47/100 |
+| 112 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 592 | Python | 47/100 |
 | 113 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 47/100 |
 | 114 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ — | — | 46/100 |
 | 115 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |

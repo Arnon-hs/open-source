@@ -20,7 +20,7 @@
 | 10 | [INGInious/INGInious](./inginious-inginious.md) | ⭐ 237 | Python | 58/100 |
 | 11 | [pion/example-webrtc-applications](./pion-example-webrtc-applications.md) | ⭐ 1.4k | Go | 58/100 |
 | 12 | [cypress-io/cypress-example-kitchensink](./cypress-io-cypress-example-kitchensink.md) | ⭐ 1.2k | HTML | 58/100 |
-| 13 | [TheSpydog/SDL_gpu_examples](./thespydog-sdl-gpu-examples.md) | ⭐ 522 | C++ | 57/100 |
+| 13 | [TheSpydog/SDL_gpu_examples](./thespydog-sdl-gpu-examples.md) | ⭐ 560 | C++ | 57/100 |
 | 14 | [actix/examples](./actix-examples.md) | ⭐ 4k | Rust | 57/100 |
 | 15 | [galaxyproject/training-material](./galaxyproject-training-material.md) | ⭐ 364 | HTML | 57/100 |
 | 16 | [luxonis/oak-examples](./luxonis-oak-examples.md) | ⭐ 983 | Python | 56/100 |
@@ -28,7 +28,7 @@
 | 18 | [dask/dask](./dask-dask.md) | ⭐ 13.9k | Python | 56/100 |
 | 19 | [UniTime/unitime](./unitime-unitime.md) | ⭐ 346 | Java | 55/100 |
 | 20 | [theislab/single-cell-best-practices](./theislab-single-cell-best-practices.md) | ⭐ 1.3k | Jupyter Notebook | 55/100 |
-| 21 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 515 | TypeScript | 55/100 |
+| 21 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 551 | TypeScript | 55/100 |
 | 22 | [junit-team/junit-examples](./junit-team-junit-examples.md) | ⭐ 1.6k | Java | 54/100 |
 | 23 | [aio-libs/aiohttp-demos](./aio-libs-aiohttp-demos.md) | ⭐ 749 | Makefile | 54/100 |
 | 24 | [zigcc/zig-course](./zigcc-zig-course.md) | ⭐ 375 | Zig | 53/100 |
