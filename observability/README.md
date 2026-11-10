@@ -25,7 +25,7 @@
 | 15 | [louislam/uptime-kuma](./louislam-uptime-kuma.md) | ⭐ 93.4k | JavaScript | 72/100 |
 | 16 | [elastic/kibana](./elastic-kibana.md) | ⭐ 21.4k | TypeScript | 71/100 |
 | 17 | [prometheus-operator/prometheus-operator](./prometheus-operator-prometheus-operator.md) | ⭐ 10k | Go | 71/100 |
-| 18 | [inspektor-gadget/inspektor-gadget](./inspektor-gadget-inspektor-gadget.md) | ⭐ 2.8k | C | 71/100 |
+| 18 | [inspektor-gadget/inspektor-gadget](./inspektor-gadget-inspektor-gadget.md) | ⭐ 3k | C | 71/100 |
 | 19 | [jetstack/version-checker](./jetstack-version-checker.md) | ⭐ 774 | Go | 70/100 |
 | 20 | [SigmaHQ/sigma](./sigmahq-sigma.md) | ⭐ 11.5k | Python | 70/100 |
 | 21 | [errbit/errbit](./errbit-errbit.md) | ⭐ 4.3k | Ruby | 70/100 |
@@ -35,9 +35,9 @@
 | 25 | [dromara/dynamic-tp](./dromara-dynamic-tp.md) | ⭐ 4.8k | Java | 69/100 |
 | 26 | [monocongo/climate_indices](./monocongo-climate-indices.md) | ⭐ 393 | Python | 69/100 |
 | 27 | [kyverno/policy-reporter](./kyverno-policy-reporter.md) | ⭐ 375 | Go | 69/100 |
-| 28 | [kdash-rs/kdash](./kdash-rs-kdash.md) | ⭐ 2.5k | Rust | 69/100 |
+| 28 | [kdash-rs/kdash](./kdash-rs-kdash.md) | ⭐ 2.6k | Rust | 69/100 |
 | 29 | [networkupstools/nut](./networkupstools-nut.md) | ⭐ 4.5k | C | 68/100 |
-| 30 | [huggingface/lighteval](./huggingface-lighteval.md) | ⭐ 2.5k | Python | 68/100 |
+| 30 | [huggingface/lighteval](./huggingface-lighteval.md) | ⭐ 2.6k | Python | 68/100 |
 | 31 | [open-telemetry/opentelemetry-dotnet](./open-telemetry-opentelemetry-dotnet.md) | ⭐ 3.8k | C# | 68/100 |
 | 32 | [stamparm/maltrail](./stamparm-maltrail.md) | ⭐ 8.7k | Python | 68/100 |
 | 33 | [perses/perses](./perses-perses.md) | ⭐ 2.2k | Go | 68/100 |
@@ -84,10 +84,10 @@
 | 74 | [eworm-de/routeros-scripts](./eworm-de-routeros-scripts.md) | ⭐ 1.8k | RouterOS Script | 63/100 |
 | 75 | [HugoRCD/evlog](./hugorcd-evlog.md) | ⭐ 1.6k | TypeScript | 63/100 |
 | 76 | [jez500/pricebuddy](./jez500-pricebuddy.md) | ⭐ 979 | PHP | 63/100 |
-| 77 | [Microsoft365DSC/Microsoft365DSC](./microsoft365dsc-microsoft365dsc.md) | ⭐ 2.3k | PowerShell | 63/100 |
+| 77 | [Microsoft365DSC/Microsoft365DSC](./microsoft365dsc-microsoft365dsc.md) | ⭐ 2.5k | PowerShell | 63/100 |
 | 78 | [jgyates/genmon](./jgyates-genmon.md) | ⭐ 536 | Python | 63/100 |
 | 79 | [weiesky/cc-viewer](./weiesky-cc-viewer.md) | ⭐ 1k | JavaScript | 63/100 |
-| 80 | [PLFJY/ContextMenuMgr](./plfjy-contextmenumgr.md) | ⭐ 2.7k | C# | 63/100 |
+| 80 | [PLFJY/ContextMenuMgr](./plfjy-contextmenumgr.md) | ⭐ 3.7k | C# | 63/100 |
 | 81 | [stakater/application](./stakater-application.md) | ⭐ 364 | Mustache | 63/100 |
 | 82 | [prometheus-community/helm-charts](./prometheus-community-helm-charts.md) | ⭐ 6.2k | Mustache | 63/100 |
 | 83 | [DataDog/dd-trace-py](./datadog-dd-trace-py.md) | ⭐ 637 | Python | 63/100 |
@@ -95,11 +95,11 @@
 | 85 | [performancecopilot/pcp](./performancecopilot-pcp.md) | ⭐ 1.1k | C | 62/100 |
 | 86 | [open-telemetry/opentelemetry-ebpf-profiler](./open-telemetry-opentelemetry-ebpf-profiler.md) | ⭐ 3.2k | Go | 62/100 |
 | 87 | [ivbeg/awesome-status-pages](./ivbeg-awesome-status-pages.md) | ⭐ 3.8k | — | 62/100 |
-| 88 | [Checkmk/checkmk](./checkmk-checkmk.md) | ⭐ 2.3k | Python | 62/100 |
+| 88 | [Checkmk/checkmk](./checkmk-checkmk.md) | ⭐ 2.6k | Python | 62/100 |
 | 89 | [dropwizard/metrics](./dropwizard-metrics.md) | ⭐ 7.8k | Java | 62/100 |
 | 90 | [SkyAPM/SkyAPM-dotnet](./skyapm-skyapm-dotnet.md) | ⭐ 1.7k | C# | 62/100 |
 | 91 | [Yeraze/meshmonitor](./yeraze-meshmonitor.md) | ⭐ 470 | TypeScript | 62/100 |
-| 92 | [pglombardo/PasswordPusher](./pglombardo-passwordpusher.md) | ⭐ 3k | Ruby | 62/100 |
+| 92 | [pglombardo/PasswordPusher](./pglombardo-passwordpusher.md) | ⭐ 3.2k | Ruby | 62/100 |
 | 93 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 16.5k | C | 62/100 |
 | 94 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 507 | TypeScript | 62/100 |
 | 95 | [daboss2003/mooring](./daboss2003-mooring.md) | ⭐ 2 | Go | 61/100 |
@@ -119,7 +119,7 @@
 | 109 | [threathunters-io/laurel](./threathunters-io-laurel.md) | ⭐ 827 | Rust | 60/100 |
 | 110 | [namhyung/uftrace](./namhyung-uftrace.md) | ⭐ 3.5k | C | 60/100 |
 | 111 | [shm11C3/HardwareVisualizer](./shm11c3-hardwarevisualizer.md) | ⭐ 151 | Rust | 60/100 |
-| 112 | [prymitive/karma](./prymitive-karma.md) | ⭐ 2.6k | TypeScript | 60/100 |
+| 112 | [prymitive/karma](./prymitive-karma.md) | ⭐ 2.7k | TypeScript | 60/100 |
 | 113 | [cortexproject/cortex](./cortexproject-cortex.md) | ⭐ 5.9k | Go | 60/100 |
 | 114 | [DataDog/dd-trace-java](./datadog-dd-trace-java.md) | ⭐ 720 | Java | 60/100 |
 | 115 | [PegaProx/project-pegaprox](./pegaprox-project-pegaprox.md) | ⭐ 1.1k | JavaScript | 60/100 |
@@ -129,7 +129,7 @@
 | 119 | [GoogleChrome/web-vitals](./googlechrome-web-vitals.md) | ⭐ 8.7k | JavaScript | 59/100 |
 | 120 | [UCSBarchlab/PyRTL](./ucsbarchlab-pyrtl.md) | ⭐ 302 | Python | 59/100 |
 | 121 | [esrlabs/chipmunk](./esrlabs-chipmunk.md) | ⭐ 840 | Rust | 59/100 |
-| 122 | [open-telemetry/opentelemetry-rust](./open-telemetry-opentelemetry-rust.md) | ⭐ 2.6k | Rust | 59/100 |
+| 122 | [open-telemetry/opentelemetry-rust](./open-telemetry-opentelemetry-rust.md) | ⭐ 2.8k | Rust | 59/100 |
 | 123 | [zentralopensource/zentral](./zentralopensource-zentral.md) | ⭐ 860 | Python | 59/100 |
 | 124 | [itsDNNS/docsight](./itsdnns-docsight.md) | ⭐ 234 | Python | 59/100 |
 | 125 | [open-telemetry/opentelemetry-collector](./open-telemetry-opentelemetry-collector.md) | ⭐ 7.7k | Go | 59/100 |
@@ -142,7 +142,7 @@
 | 132 | [open-telemetry/opentelemetry-swift](./open-telemetry-opentelemetry-swift.md) | ⭐ 350 | Swift | 58/100 |
 | 133 | [WithSecureLabs/chainsaw](./withsecurelabs-chainsaw.md) | ⭐ 3.5k | Rust | 58/100 |
 | 134 | [adminsyspro/proxcenter-ui](./adminsyspro-proxcenter-ui.md) | ⭐ 873 | TypeScript | 58/100 |
-| 135 | [grafana/alloy](./grafana-alloy.md) | ⭐ 3.1k | Go | 58/100 |
+| 135 | [grafana/alloy](./grafana-alloy.md) | ⭐ 3.7k | Go | 58/100 |
 | 136 | [mk-runner/Awesome-Radiology-Report-Generation](./mk-runner-awesome-radiology-report-generation.md) | ⭐ 472 | — | 57/100 |
 | 137 | [aelassas/servy](./aelassas-servy.md) | ⭐ 1.9k | C# | 57/100 |
 | 138 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 57/100 |
@@ -180,7 +180,7 @@
 | 170 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 566 | Python | 54/100 |
 | 171 | [vince-lam/awesome-local-llms](./vince-lam-awesome-local-llms.md) | ⭐ 769 | Python | 54/100 |
 | 172 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 54/100 |
-| 173 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.5k | Java | 54/100 |
+| 173 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.7k | Java | 54/100 |
 | 174 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 892 | JavaScript | 54/100 |
 | 175 | [mother-of-all-self-hosting/mash-playbook](./mother-of-all-self-hosting-mash-playbook.md) | ⭐ 1.1k | Python | 54/100 |
 | 176 | [metafab/otel-gui](./metafab-otel-gui.md) | ⭐ 195 | TypeScript | 53/100 |
@@ -257,7 +257,7 @@
 | 247 | [yuuki/lustre-ebpf-exporter](./yuuki-lustre-ebpf-exporter.md) | ⭐ — | — | 45/100 |
 | 248 | [grafana/jsonnet-libs](./grafana-jsonnet-libs.md) | ⭐ 728 | Jsonnet | 45/100 |
 | 249 | [grloper/Wraith](./grloper-wraith.md) | ⭐ — | Rust | 45/100 |
-| 250 | [oliexdev/openScale](./oliexdev-openscale.md) | ⭐ 2.3k | Kotlin | 44/100 |
+| 250 | [oliexdev/openScale](./oliexdev-openscale.md) | ⭐ 2.7k | Kotlin | 44/100 |
 | 251 | [iopsystems/rezolus](./iopsystems-rezolus.md) | ⭐ 257 | Rust | 44/100 |
 | 252 | [zacharymplace/hermes-observability](./zacharymplace-hermes-observability.md) | ⭐ — | JavaScript | 43/100 |
 | 253 | [mkbeh/pacecache](./mkbeh-pacecache.md) | ⭐ — | Go | 43/100 |

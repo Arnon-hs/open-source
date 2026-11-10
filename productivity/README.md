@@ -13,7 +13,7 @@
 | 3 | [muety/wakapi](./muety-wakapi.md) | ⭐ 4.5k | Go | 78/100 |
 | 4 | [Priyanshu-byte-coder/devtrack](./priyanshu-byte-coder-devtrack.md) | ⭐ 142 | TypeScript | 77/100 |
 | 5 | [Umbrella-io/devtrack](./umbrella-io-devtrack.md) | ⭐ 141 | TypeScript | 77/100 |
-| 6 | [tach-org/tach](./tach-org-tach.md) | ⭐ 2.7k | Rust | 77/100 |
+| 6 | [tach-org/tach](./tach-org-tach.md) | ⭐ 2.9k | Rust | 77/100 |
 | 7 | [tiddly-gittly/TidGi-Desktop](./tiddly-gittly-tidgi-desktop.md) | ⭐ 2k | TypeScript | 76/100 |
 | 8 | [ankitpokhrel/jira-cli](./ankitpokhrel-jira-cli.md) | ⭐ 6.1k | Go | 75/100 |
 | 9 | [Ketbome/minepanel](./ketbome-minepanel.md) | ⭐ 202 | TypeScript | 75/100 |
@@ -78,7 +78,7 @@
 | 68 | [geek-fun/sqlkit](./geek-fun-sqlkit.md) | ⭐ 266 | Rust | 65/100 |
 | 69 | [ctrlaltvikas/Awesome-Bash-Aliases](./ctrlaltvikas-awesome-bash-aliases.md) | ⭐ 246 | — | 65/100 |
 | 70 | [ctrlaltvikas/awesome-bash-alias](./ctrlaltvikas-awesome-bash-alias.md) | ⭐ 246 | — | 65/100 |
-| 71 | [Pixeval/Pixeval](./pixeval-pixeval.md) | ⭐ 3k | C# | 65/100 |
+| 71 | [Pixeval/Pixeval](./pixeval-pixeval.md) | ⭐ 3.2k | C# | 65/100 |
 | 72 | [replydev/cotp](./replydev-cotp.md) | ⭐ 377 | Rust | 65/100 |
 | 73 | [reekta92/clin-rs](./reekta92-clin-rs.md) | ⭐ 310 | Rust | 65/100 |
 | 74 | [altstackHQ/altstack-data](./altstackhq-altstack-data.md) | ⭐ 314 | Shell | 65/100 |
@@ -107,14 +107,14 @@
 | 97 | [ConnorSweeneyDev/.config](./connorsweeneydev-.config.md) | ⭐ 63 | Lua | 62/100 |
 | 98 | [jemishavasoya/dev-cleaner](./jemishavasoya-dev-cleaner.md) | ⭐ 306 | Shell | 62/100 |
 | 99 | [seun-novodev/android-tv-debloat-toolkit](./seun-novodev-android-tv-debloat-toolkit.md) | ⭐ 501 | Python | 62/100 |
-| 100 | [ospfranco/sol](./ospfranco-sol.md) | ⭐ 3k | TypeScript | 62/100 |
+| 100 | [ospfranco/sol](./ospfranco-sol.md) | ⭐ 3.2k | TypeScript | 62/100 |
 | 101 | [httptoolkit/httptoolkit-desktop](./httptoolkit-httptoolkit-desktop.md) | ⭐ 705 | TypeScript | 62/100 |
 | 102 | [hywax/mafl](./hywax-mafl.md) | ⭐ 724 | TypeScript | 62/100 |
 | 103 | [kachkaev/njt](./kachkaev-njt.md) | ⭐ 318 | TypeScript | 61/100 |
 | 104 | [hongquan/CoBang](./hongquan-cobang.md) | ⭐ 348 | Python | 61/100 |
 | 105 | [mudkipme/MoeMemosAndroid](./mudkipme-moememosandroid.md) | ⭐ 1.1k | Kotlin | 61/100 |
 | 106 | [cybersemics/em](./cybersemics-em.md) | ⭐ 354 | TypeScript | 61/100 |
-| 107 | [Taiko2k/Tauon](./taiko2k-tauon.md) | ⭐ 2.7k | Python | 61/100 |
+| 107 | [Taiko2k/Tauon](./taiko2k-tauon.md) | ⭐ 3k | Python | 61/100 |
 | 108 | [Voxelum/x-minecraft-launcher](./voxelum-x-minecraft-launcher.md) | ⭐ 1.5k | TypeScript | 61/100 |
 | 109 | [doraemonkeys/WindSend](./doraemonkeys-windsend.md) | ⭐ 598 | Dart | 61/100 |
 | 110 | [volotat/Anagnorisis](./volotat-anagnorisis.md) | ⭐ 309 | Python | 61/100 |
@@ -163,7 +163,7 @@
 | 153 | [yandanp/Connexio](./yandanp-connexio.md) | ⭐ 32 | TypeScript | 57/100 |
 | 154 | [julyx10/lap](./julyx10-lap.md) | ⭐ 1.4k | Vue | 57/100 |
 | 155 | [sunnypatell/sunnify-spotify-downloader](./sunnypatell-sunnify-spotify-downloader.md) | ⭐ 437 | Python | 57/100 |
-| 156 | [BernardoGiordano/Checkpoint](./bernardogiordano-checkpoint.md) | ⭐ 3k | C++ | 57/100 |
+| 156 | [BernardoGiordano/Checkpoint](./bernardogiordano-checkpoint.md) | ⭐ 3.1k | C++ | 57/100 |
 | 157 | [MM2-0/Kvaesitso](./mm2-0-kvaesitso.md) | ⭐ 5.4k | Kotlin | 57/100 |
 | 158 | [Faugus/faugus-launcher](./faugus-faugus-launcher.md) | ⭐ 2k | Python | 57/100 |
 | 159 | [tasks/tasks](./tasks-tasks.md) | ⭐ 5.7k | Kotlin | 57/100 |
@@ -311,8 +311,8 @@
 | 301 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 302 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 303 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 4 | C# | 43/100 |
-| 304 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
-| 305 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
+| 304 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
+| 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
 | 306 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ — | — | 43/100 |
 | 307 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 43/100 |
 | 308 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 17 | Zig | 42/100 |

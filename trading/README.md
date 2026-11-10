@@ -22,7 +22,7 @@
 | 12 | [YizhiSong/FriesTrader](./yizhisong-friestrader.md) | ⭐ 35 | — | 75/100 |
 | 13 | [mw00/project-maya](./mw00-project-maya.md) | ⭐ 1.4k | C++ | 74/100 |
 | 14 | [simonlin1212/a-stock-data](./simonlin1212-a-stock-data.md) | ⭐ 11.6k | — | 74/100 |
-| 15 | [dgunning/edgartools](./dgunning-edgartools.md) | ⭐ 2.6k | Python | 74/100 |
+| 15 | [dgunning/edgartools](./dgunning-edgartools.md) | ⭐ 2.8k | Python | 74/100 |
 | 16 | [akfamily/akshare](./akfamily-akshare.md) | ⭐ 23.3k | Python | 74/100 |
 | 17 | [arshka/pykalshi](./arshka-pykalshi.md) | ⭐ 117 | Python | 74/100 |
 | 18 | [zevnda/steam-game-idler](./zevnda-steam-game-idler.md) | ⭐ 654 | TypeScript | 74/100 |
@@ -98,7 +98,7 @@
 | 88 | [vnpy/vnpy](./vnpy-vnpy.md) | ⭐ 46.3k | Python | 63/100 |
 | 89 | [Bhala-Srinivash/nse-trading-skills](./bhala-srinivash-nse-trading-skills.md) | ⭐ 61 | — | 63/100 |
 | 90 | [6551Team/opennews-mcp](./6551team-opennews-mcp.md) | ⭐ 2.1k | Python | 62/100 |
-| 91 | [brndnmtthws/thetagang](./brndnmtthws-thetagang.md) | ⭐ 2.7k | Python | 62/100 |
+| 91 | [brndnmtthws/thetagang](./brndnmtthws-thetagang.md) | ⭐ 2.8k | Python | 62/100 |
 | 92 | [Indemos/Terminal](./indemos-terminal.md) | ⭐ 60 | C# | 62/100 |
 | 93 | [javifalces/HFTFramework](./javifalces-hftframework.md) | ⭐ 303 | Jupyter Notebook | 62/100 |
 | 94 | [CategoricalData/CQL](./categoricaldata-cql.md) | ⭐ 357 | Java | 62/100 |

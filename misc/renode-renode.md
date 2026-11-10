@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 462 |
+| ⭐ **Stars** | 3.1k |
+| 🍴 **Forks** | 563 |
 | 💻 **Language** | RobotFramework |
 | 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-05 |

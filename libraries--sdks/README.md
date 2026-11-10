@@ -10,11 +10,11 @@
 |---|---|---|---|---|
 | 1 | [Katakate/k7](./katakate-k7.md) | ⭐ 786 | Python | 85/100 |
 | 2 | [googleapis/google-api-python-client](./googleapis-google-api-python-client.md) | ⭐ 9k | Python | 79/100 |
-| 3 | [open-telemetry/opentelemetry-python](./open-telemetry-opentelemetry-python.md) | ⭐ 2.6k | Python | 78/100 |
+| 3 | [open-telemetry/opentelemetry-python](./open-telemetry-opentelemetry-python.md) | ⭐ 2.7k | Python | 78/100 |
 | 4 | [open-telemetry/opentelemetry-go](./open-telemetry-opentelemetry-go.md) | ⭐ 6.6k | Go | 77/100 |
-| 5 | [vmware/govmomi](./vmware-govmomi.md) | ⭐ 2.5k | Go | 75/100 |
+| 5 | [vmware/govmomi](./vmware-govmomi.md) | ⭐ 2.6k | Go | 75/100 |
 | 6 | [auth0/auth0.net](./auth0-auth0.net.md) | ⭐ 362 | C# | 75/100 |
-| 7 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.5k | Python | 75/100 |
+| 7 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.7k | Python | 75/100 |
 | 8 | [dropbox/dropbox-sdk-python](./dropbox-dropbox-sdk-python.md) | ⭐ 980 | Python | 74/100 |
 | 9 | [meilisearch/meilisearch-dotnet](./meilisearch-meilisearch-dotnet.md) | ⭐ 341 | C# | 74/100 |
 | 10 | [gungraun/gungraun](./gungraun-gungraun.md) | ⭐ 261 | Rust | 73/100 |
@@ -25,7 +25,7 @@
 | 15 | [elgatosf/streamdeck](./elgatosf-streamdeck.md) | ⭐ 244 | TypeScript | 71/100 |
 | 16 | [matrix-org/matrix-rust-sdk](./matrix-org-matrix-rust-sdk.md) | ⭐ 2.2k | Rust | 71/100 |
 | 17 | [linear/linear](./linear-linear.md) | ⭐ 1.4k | TypeScript | 71/100 |
-| 18 | [firebase/firebase-android-sdk](./firebase-firebase-android-sdk.md) | ⭐ 2.5k | Java | 71/100 |
+| 18 | [firebase/firebase-android-sdk](./firebase-firebase-android-sdk.md) | ⭐ 2.6k | Java | 71/100 |
 | 19 | [anthropics/anthropic-sdk-typescript](./anthropics-anthropic-sdk-typescript.md) | ⭐ 2.1k | TypeScript | 70/100 |
 | 20 | [facebook/facebook-python-business-sdk](./facebook-facebook-python-business-sdk.md) | ⭐ 1.6k | Python | 70/100 |
 | 21 | [MagicStack/asyncpg](./magicstack-asyncpg.md) | ⭐ 8.1k | Python | 70/100 |
@@ -76,9 +76,9 @@
 | 66 | [openai/openai-ruby](./openai-openai-ruby.md) | ⭐ 442 | Ruby | 65/100 |
 | 67 | [GitLiveApp/firebase-kotlin-sdk](./gitliveapp-firebase-kotlin-sdk.md) | ⭐ 1.7k | Kotlin | 65/100 |
 | 68 | [Goldziher/spikard](./goldziher-spikard.md) | ⭐ 105 | Rust | 65/100 |
-| 69 | [godotengine/godot-cpp](./godotengine-godot-cpp.md) | ⭐ 2.6k | C++ | 65/100 |
+| 69 | [godotengine/godot-cpp](./godotengine-godot-cpp.md) | ⭐ 2.8k | C++ | 65/100 |
 | 70 | [BitGo/BitGoJS](./bitgo-bitgojs.md) | ⭐ 391 | TypeScript | 65/100 |
-| 71 | [nix-rust/nix](./nix-rust-nix.md) | ⭐ 3k | Rust | 65/100 |
+| 71 | [nix-rust/nix](./nix-rust-nix.md) | ⭐ 3.1k | Rust | 65/100 |
 | 72 | [apache/teaclave-trustzone-sdk](./apache-teaclave-trustzone-sdk.md) | ⭐ 280 | Rust | 64/100 |
 | 73 | [parse-community/Parse-SDK-JS](./parse-community-parse-sdk-js.md) | ⭐ 1.3k | JavaScript | 64/100 |
 | 74 | [Blaizzy/mlx-audio-swift](./blaizzy-mlx-audio-swift.md) | ⭐ 694 | Swift | 64/100 |
@@ -87,7 +87,7 @@
 | 77 | [celestiaorg/celestia-app](./celestiaorg-celestia-app.md) | ⭐ 412 | Go | 64/100 |
 | 78 | [xybp888/iOS-SDKs](./xybp888-ios-sdks.md) | ⭐ 873 | Objective-C | 64/100 |
 | 79 | [DataDog/dd-trace-rb](./datadog-dd-trace-rb.md) | ⭐ 394 | Ruby | 64/100 |
-| 80 | [TanStack/ai](./tanstack-ai.md) | ⭐ 2.6k | TypeScript | 64/100 |
+| 80 | [TanStack/ai](./tanstack-ai.md) | ⭐ 3.3k | TypeScript | 64/100 |
 | 81 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 8k | Python | 64/100 |
 | 82 | [bytecodealliance/rustix](./bytecodealliance-rustix.md) | ⭐ 2.1k | Rust | 63/100 |
 | 83 | [supabase/supabase-swift](./supabase-supabase-swift.md) | ⭐ 1.3k | Swift | 63/100 |
@@ -108,7 +108,7 @@
 | 98 | [auth0/lock](./auth0-lock.md) | ⭐ 1.1k | JavaScript | 62/100 |
 | 99 | [rust-lang/libc](./rust-lang-libc.md) | ⭐ 2.6k | Rust | 62/100 |
 | 100 | [bifrost-io/bifrost](./bifrost-io-bifrost.md) | ⭐ 489 | Rust | 62/100 |
-| 101 | [open-telemetry/opentelemetry-java](./open-telemetry-opentelemetry-java.md) | ⭐ 2.4k | Java | 62/100 |
+| 101 | [open-telemetry/opentelemetry-java](./open-telemetry-opentelemetry-java.md) | ⭐ 2.5k | Java | 62/100 |
 | 102 | [github/copilot-sdk](./github-copilot-sdk.md) | ⭐ 10.7k | TypeScript | 62/100 |
 | 103 | [metasearchcomtr/feed-validator](./metasearchcomtr-feed-validator.md) | ⭐ — | TypeScript | 61/100 |
 | 104 | [abetlen/llama-cpp-python](./abetlen-llama-cpp-python.md) | ⭐ 10.6k | Python | 61/100 |
@@ -152,7 +152,7 @@
 | 142 | [mpi4py/mpi4py](./mpi4py-mpi4py.md) | ⭐ 919 | Python | 59/100 |
 | 143 | [databento/databento-rs](./databento-databento-rs.md) | ⭐ 102 | Rust | 59/100 |
 | 144 | [moetayuko/openwrt-passwall-build](./moetayuko-openwrt-passwall-build.md) | ⭐ 480 | — | 59/100 |
-| 145 | [mlua-rs/mlua](./mlua-rs-mlua.md) | ⭐ 2.8k | Rust | 59/100 |
+| 145 | [mlua-rs/mlua](./mlua-rs-mlua.md) | ⭐ 2.9k | Rust | 59/100 |
 | 146 | [fish2018/webhtv](./fish2018-webhtv.md) | ⭐ 683 | Java | 59/100 |
 | 147 | [contentauth/c2pa-rs](./contentauth-c2pa-rs.md) | ⭐ 327 | Rust | 59/100 |
 | 148 | [googleapis/java-genai](./googleapis-java-genai.md) | ⭐ 371 | Java | 59/100 |
@@ -160,7 +160,7 @@
 | 150 | [kreuzberg-dev/tree-sitter-language-pack](./kreuzberg-dev-tree-sitter-language-pack.md) | ⭐ 349 | Rust | 59/100 |
 | 151 | [aliyun/aliyun-oss-python-sdk](./aliyun-aliyun-oss-python-sdk.md) | ⭐ 996 | Python | 58/100 |
 | 152 | [saddam213/AmuseAI](./saddam213-amuseai.md) | ⭐ 544 | C# | 58/100 |
-| 153 | [gtk-rs/gtk4-rs](./gtk-rs-gtk4-rs.md) | ⭐ 2.3k | Rust | 58/100 |
+| 153 | [gtk-rs/gtk4-rs](./gtk-rs-gtk4-rs.md) | ⭐ 2.4k | Rust | 58/100 |
 | 154 | [rust-nvml/nvml-wrapper](./rust-nvml-nvml-wrapper.md) | ⭐ 208 | Rust | 58/100 |
 | 155 | [habedi/graphina](./habedi-graphina.md) | ⭐ 117 | Rust | 58/100 |
 | 156 | [dapr/java-sdk](./dapr-java-sdk.md) | ⭐ 298 | Java | 58/100 |
@@ -204,7 +204,7 @@
 | 194 | [dotnet/ClangSharp](./dotnet-clangsharp.md) | ⭐ 1.2k | C# | 53/100 |
 | 195 | [georust/gdal](./georust-gdal.md) | ⭐ 440 | Rust | 53/100 |
 | 196 | [Dario-Chang/Spark-Governance-SDK](./dario-chang-spark-governance-sdk.md) | ⭐ — | — | 53/100 |
-| 197 | [twistedfall/opencv-rust](./twistedfall-opencv-rust.md) | ⭐ 2.4k | Rust | 53/100 |
+| 197 | [twistedfall/opencv-rust](./twistedfall-opencv-rust.md) | ⭐ 2.5k | Rust | 53/100 |
 | 198 | [beowolx/rensa](./beowolx-rensa.md) | ⭐ 239 | Rust | 53/100 |
 | 199 | [vhspace/sdl3-rs](./vhspace-sdl3-rs.md) | ⭐ 345 | Rust | 53/100 |
 | 200 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.4k | Rust | 53/100 |

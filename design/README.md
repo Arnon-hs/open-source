@@ -31,10 +31,10 @@
 | 21 | [psychopy/psychopy](./psychopy-psychopy.md) | ⭐ 2.1k | Python | 62/100 |
 | 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 634 | Python | 62/100 |
 | 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 324 | Python | 62/100 |
-| 24 | [MewPurPur/GodSVG](./mewpurpur-godsvg.md) | ⭐ 2.6k | GDScript | 61/100 |
+| 24 | [MewPurPur/GodSVG](./mewpurpur-godsvg.md) | ⭐ 2.8k | GDScript | 61/100 |
 | 25 | [Lailloken/Exile-UI](./lailloken-exile-ui.md) | ⭐ 1.3k | AutoHotkey | 61/100 |
 | 26 | [bastani-inc/atomic](./bastani-inc-atomic.md) | ⭐ 274 | TypeScript | 61/100 |
-| 27 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 2.9k | TypeScript | 61/100 |
+| 27 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 3k | TypeScript | 61/100 |
 | 28 | [gdsfactory/gdsfactory](./gdsfactory-gdsfactory.md) | ⭐ 925 | Python | 61/100 |
 | 29 | [elementor/elementor](./elementor-elementor.md) | ⭐ 7.1k | PHP | 61/100 |
 | 30 | [Memento-Teams/Memento-Skills](./memento-teams-memento-skills.md) | ⭐ 1.5k | Python | 60/100 |
@@ -108,7 +108,7 @@
 | 98 | [PostHog/posthog.com](./posthog-posthog.com.md) | ⭐ 1k | TypeScript | 51/100 |
 | 99 | [ghaida/intent](./ghaida-intent.md) | ⭐ 88 | CSS | 50/100 |
 | 100 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 50/100 |
-| 101 | [synfig/synfig](./synfig-synfig.md) | ⭐ 2.2k | C++ | 50/100 |
+| 101 | [synfig/synfig](./synfig-synfig.md) | ⭐ 2.4k | C++ | 50/100 |
 | 102 | [drawcms/drawcms](./drawcms-drawcms.md) | ⭐ — | — | 49/100 |
 | 103 | [finix-community/finix](./finix-community-finix.md) | ⭐ 405 | Nix | 49/100 |
 | 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 406 | Shell | 49/100 |

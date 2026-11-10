@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.2k |
-| 🍴 **Forks** | 149 |
+| ⭐ **Stars** | 3.4k |
+| 🍴 **Forks** | 173 |
 | 💻 **Language** | Gherkin |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-05 |

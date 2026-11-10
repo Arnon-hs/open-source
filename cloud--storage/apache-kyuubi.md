@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.3k |
+| ⭐ **Stars** | 2.4k |
 | 🍴 **Forks** | 1k |
 | 💻 **Language** | Scala |
 | 📈 **Score** | 63/100 |

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.8k |
-| 🍴 **Forks** | 316 |
+| 🍴 **Forks** | 329 |
 | 💻 **Language** | ShaderLab |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-09-05 |

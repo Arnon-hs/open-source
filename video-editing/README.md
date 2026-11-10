@@ -104,7 +104,7 @@
 | 94 | [farshidrezaei/vidonex](./farshidrezaei-vidonex.md) | ⭐ 11 | Go | 72/100 |
 | 95 | [blixvip/easyedit](./blixvip-easyedit.md) | ⭐ 72 | Python | 72/100 |
 | 96 | [matrodrigs/shotcut-mcp](./matrodrigs-shotcut-mcp.md) | ⭐ 11 | Python | 72/100 |
-| 97 | [trykimu/videoeditor](./trykimu-videoeditor.md) | ⭐ 2.2k | TypeScript | 72/100 |
+| 97 | [trykimu/videoeditor](./trykimu-videoeditor.md) | ⭐ 2.3k | TypeScript | 72/100 |
 | 98 | [miru-media/miru](./miru-media-miru.md) | ⭐ 45 | TypeScript | 72/100 |
 | 99 | [norahe0304-art/30x-video](./norahe0304-art-30x-video.md) | ⭐ 60 | TypeScript | 72/100 |
 | 100 | [Eyevinn/mp4ff](./eyevinn-mp4ff.md) | ⭐ 653 | Go | 72/100 |
@@ -114,7 +114,7 @@
 | 104 | [denizsafak/abogen](./denizsafak-abogen.md) | ⭐ 6.2k | Python | 72/100 |
 | 105 | [code-charity/youtube](./code-charity-youtube.md) | ⭐ 4.7k | JavaScript | 72/100 |
 | 106 | [chapmanjacobd/library](./chapmanjacobd-library.md) | ⭐ 477 | Python | 72/100 |
-| 107 | [sentriz/gonic](./sentriz-gonic.md) | ⭐ 2.4k | Go | 72/100 |
+| 107 | [sentriz/gonic](./sentriz-gonic.md) | ⭐ 2.7k | Go | 72/100 |
 | 108 | [EvoLinkAI/awesome-gemini-omni-1.2-flash-API-guide-and-prompt](./evolinkai-awesome-gemini-omni-1.2-flash-api-guide-and-prompt.md) | ⭐ 29 | — | 71/100 |
 | 109 | [JamesDimachkie/legible-film](./jamesdimachkie-legible-film.md) | ⭐ 22 | Python | 71/100 |
 | 110 | [cathrynlavery/yap-studio](./cathrynlavery-yap-studio.md) | ⭐ 24 | Python | 71/100 |
@@ -206,7 +206,7 @@
 | 196 | [QuintinShaw/openasr](./quintinshaw-openasr.md) | ⭐ 133 | Rust | 67/100 |
 | 197 | [tmoroney/auto-subs](./tmoroney-auto-subs.md) | ⭐ 4.5k | TypeScript | 67/100 |
 | 198 | [mpv-player/mpv](./mpv-player-mpv.md) | ⭐ 38k | C | 67/100 |
-| 199 | [zoriya/Kyoo](./zoriya-kyoo.md) | ⭐ 2.4k | TypeScript | 67/100 |
+| 199 | [zoriya/Kyoo](./zoriya-kyoo.md) | ⭐ 2.6k | TypeScript | 67/100 |
 | 200 | [M-Igashi/baken](./m-igashi-baken.md) | ⭐ 66 | Rust | 67/100 |
 | 201 | [codeverbojan/remotion-cinematic](./codeverbojan-remotion-cinematic.md) | ⭐ 23 | TypeScript | 66/100 |
 | 202 | [unclejobs-ai/motion-video-skill](./unclejobs-ai-motion-video-skill.md) | ⭐ 129 | TypeScript | 66/100 |
@@ -226,7 +226,7 @@
 | 216 | [homelab-00/TranscriptionSuite](./homelab-00-transcriptionsuite.md) | ⭐ 543 | Python | 66/100 |
 | 217 | [pattern-ai-labs/agentcall](./pattern-ai-labs-agentcall.md) | ⭐ 110 | Python | 66/100 |
 | 218 | [bililive-go/bililive-go](./bililive-go-bililive-go.md) | ⭐ 5.8k | Go | 66/100 |
-| 219 | [Mentra-Community/MentraOS](./mentra-community-mentraos.md) | ⭐ 2.2k | TypeScript | 66/100 |
+| 219 | [Mentra-Community/MentraOS](./mentra-community-mentraos.md) | ⭐ 2.4k | TypeScript | 66/100 |
 | 220 | [BasedHardware/omi](./basedhardware-omi.md) | ⭐ 13.9k | Dart | 66/100 |
 | 221 | [debpalash/OmniVoice-Studio](./debpalash-omnivoice-studio.md) | ⭐ 507 | Python | 66/100 |
 | 222 | [hauxir/rapidbay](./hauxir-rapidbay.md) | ⭐ 830 | Python | 66/100 |
@@ -263,7 +263,7 @@
 | 253 | [Banuba/ve-sdk-android-integration-sample](./banuba-ve-sdk-android-integration-sample.md) | ⭐ 122 | Kotlin | 64/100 |
 | 254 | [wladradchenko/wunjo.wladradchenko.ru](./wladradchenko-wunjo.wladradchenko.ru.md) | ⭐ 1.2k | JavaScript | 64/100 |
 | 255 | [navidshad/frameflow](./navidshad-frameflow.md) | ⭐ 42 | TypeScript | 64/100 |
-| 256 | [paulpacifico/shutter-encoder](./paulpacifico-shutter-encoder.md) | ⭐ 2.6k | Java | 64/100 |
+| 256 | [paulpacifico/shutter-encoder](./paulpacifico-shutter-encoder.md) | ⭐ 2.9k | Java | 64/100 |
 | 257 | [rockbenben/subtitle-translator](./rockbenben-subtitle-translator.md) | ⭐ 990 | TypeScript | 64/100 |
 | 258 | [perso-ai/perso-dubbing-plugin](./perso-ai-perso-dubbing-plugin.md) | ⭐ 30 | JavaScript | 64/100 |
 | 259 | [guimatheus92/mcp-video-analyzer](./guimatheus92-mcp-video-analyzer.md) | ⭐ 22 | TypeScript | 64/100 |
@@ -326,7 +326,7 @@
 | 316 | [gokayfem/ComfyUI_VLM_nodes](./gokayfem-comfyui-vlm-nodes.md) | ⭐ 576 | Python | 62/100 |
 | 317 | [MediaMolder/mediamolder](./mediamolder-mediamolder.md) | ⭐ 103 | Go | 62/100 |
 | 318 | [Alisa0808/vox-director](./alisa0808-vox-director.md) | ⭐ 109 | Python | 62/100 |
-| 319 | [UniversalMediaServer/UniversalMediaServer](./universalmediaserver-universalmediaserver.md) | ⭐ 2.6k | Java | 62/100 |
+| 319 | [UniversalMediaServer/UniversalMediaServer](./universalmediaserver-universalmediaserver.md) | ⭐ 2.7k | Java | 62/100 |
 | 320 | [DevEmperor/DictateKeyboard](./devemperor-dictatekeyboard.md) | ⭐ 230 | Kotlin | 62/100 |
 | 321 | [DareDev256/fcpxml-mcp-server](./daredev256-fcpxml-mcp-server.md) | ⭐ 65 | Python | 62/100 |
 | 322 | [dimastatz/whisper-flow](./dimastatz-whisper-flow.md) | ⭐ 787 | Python | 62/100 |
@@ -352,7 +352,7 @@
 | 342 | [Remocn/remocn](./remocn-remocn.md) | ⭐ 1.3k | TypeScript | 61/100 |
 | 343 | [markus-perl/ffmpeg-build-script](./markus-perl-ffmpeg-build-script.md) | ⭐ 1.2k | Shell | 61/100 |
 | 344 | [ptr727/PlexCleaner](./ptr727-plexcleaner.md) | ⭐ 337 | C# | 61/100 |
-| 345 | [YusufB5/ASCILINE](./yusufb5-asciline.md) | ⭐ 2.5k | Python | 61/100 |
+| 345 | [YusufB5/ASCILINE](./yusufb5-asciline.md) | ⭐ 2.8k | Python | 61/100 |
 | 346 | [Lake1059/FFmpegFreeUI](./lake1059-ffmpegfreeui.md) | ⭐ 8.5k | Visual Basic .NET | 61/100 |
 | 347 | [n00bcodr/Jellyfin-Enhanced](./n00bcodr-jellyfin-enhanced.md) | ⭐ 1.3k | JavaScript | 61/100 |
 | 348 | [ysm-dev/cpdown](./ysm-dev-cpdown.md) | ⭐ 535 | TypeScript | 61/100 |
@@ -406,7 +406,7 @@
 | 396 | [xdagiz/xytz](./xdagiz-xytz.md) | ⭐ 457 | Go | 59/100 |
 | 397 | [IliasHad/edit-mind](./iliashad-edit-mind.md) | ⭐ 1.4k | TypeScript | 59/100 |
 | 398 | [remotion-dev/remotion](./remotion-dev-remotion.md) | ⭐ 72k | TypeScript | 59/100 |
-| 399 | [chrisbenincasa/tunarr](./chrisbenincasa-tunarr.md) | ⭐ 2.3k | TypeScript | 59/100 |
+| 399 | [chrisbenincasa/tunarr](./chrisbenincasa-tunarr.md) | ⭐ 2.7k | TypeScript | 59/100 |
 | 400 | [luispablovillasenor-afk/shorts-animados-claude](./luispablovillasenor-afk-shorts-animados-claude.md) | ⭐ 21 | TypeScript | 58/100 |
 | 401 | [Lean0606/premierepro-video-editor-2026](./lean0606-premierepro-video-editor-2026.md) | ⭐ 25 | Go | 58/100 |
 | 402 | [Akillll-DuoHe/fy-code-animation](./akillll-duohe-fy-code-animation.md) | ⭐ 21 | TypeScript | 58/100 |
@@ -499,8 +499,8 @@
 | 489 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 346 | C++ | 54/100 |
 | 490 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 54/100 |
 | 491 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ — | — | 53/100 |
-| 492 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
-| 493 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 492 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 493 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
 | 494 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 495 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 252 | — | 53/100 |
 | 496 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
