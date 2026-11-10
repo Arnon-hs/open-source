@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21 |
+| ⭐ **Stars** | 25 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Elixir |
 | 📈 **Score** | 67/100 |

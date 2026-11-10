@@ -179,7 +179,7 @@
 | 169 | [TapiocaFox/Daijishou](./tapiocafox-daijishou.md) | ⭐ 2k | Python | 57/100 |
 | 170 | [eythaann/Seelen-UI](./eythaann-seelen-ui.md) | ⭐ 18.4k | Rust | 57/100 |
 | 171 | [5rahim/seanime](./5rahim-seanime.md) | ⭐ 4.3k | Go | 57/100 |
-| 172 | [bdcdo/open-turkey](./bdcdo-open-turkey.md) | ⭐ 16 | Go | 57/100 |
+| 172 | [bdcdo/open-turkey](./bdcdo-open-turkey.md) | ⭐ 19 | Go | 57/100 |
 | 173 | [KrishnanKamatchi/deadhand](./krishnankamatchi-deadhand.md) | ⭐ — | Rust | 56/100 |
 | 174 | [200ok-ch/organice](./200ok-ch-organice.md) | ⭐ 2.7k | JavaScript | 56/100 |
 | 175 | [fabiospampinato/phoenix](./fabiospampinato-phoenix.md) | ⭐ 406 | JavaScript | 56/100 |
@@ -215,7 +215,7 @@
 | 205 | [SUPERCILEX/clipboard-history](./supercilex-clipboard-history.md) | ⭐ 494 | Rust | 53/100 |
 | 206 | [irbis-sh/zen-desktop](./irbis-sh-zen-desktop.md) | ⭐ 4.4k | Go | 53/100 |
 | 207 | [cccadet/omni-sql](./cccadet-omni-sql.md) | ⭐ — | TypeScript | 52/100 |
-| 208 | [simonchai-tw/tasks-todo-sync](./simonchai-tw-tasks-todo-sync.md) | ⭐ 12 | JavaScript | 52/100 |
+| 208 | [simonchai-tw/tasks-todo-sync](./simonchai-tw-tasks-todo-sync.md) | ⭐ 36 | JavaScript | 52/100 |
 | 209 | [karkemo/todomint](./karkemo-todomint.md) | ⭐ 1 | JavaScript | 52/100 |
 | 210 | [FufuLauncher/FufuLauncher](./fufulauncher-fufulauncher.md) | ⭐ 2.3k | C# | 52/100 |
 | 211 | [deft-ui/deft](./deft-ui-deft.md) | ⭐ 213 | Rust | 52/100 |
@@ -233,7 +233,7 @@
 | 223 | [Splode/pomotroid](./splode-pomotroid.md) | ⭐ 5.6k | Rust | 51/100 |
 | 224 | [coursier/coursier](./coursier-coursier.md) | ⭐ 2.1k | Scala | 51/100 |
 | 225 | [poron2356-a11y/SnapBolt](./poron2356-a11y-snapbolt.md) | ⭐ 1 | — | 51/100 |
-| 226 | [mustafayevt/CineVault](./mustafayevt-cinevault.md) | ⭐ 19 | Rust | 50/100 |
+| 226 | [mustafayevt/CineVault](./mustafayevt-cinevault.md) | ⭐ 26 | Rust | 50/100 |
 | 227 | [sanghyun-io/tunnelforge](./sanghyun-io-tunnelforge.md) | ⭐ 1 | Python | 50/100 |
 | 228 | [redheadesign/music-island](./redheadesign-music-island.md) | ⭐ 1.2k | Rust | 50/100 |
 | 229 | [Benexl/lib-x](./benexl-lib-x.md) | ⭐ 77 | Shell | 50/100 |
@@ -311,11 +311,11 @@
 | 301 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 302 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 303 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 4 | C# | 43/100 |
-| 304 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
-| 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
+| 304 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
+| 305 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
 | 306 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ — | — | 43/100 |
 | 307 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
-| 308 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 17 | Zig | 42/100 |
+| 308 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |
 | 309 | [yasinozmeen/smartpause](./yasinozmeen-smartpause.md) | ⭐ 1 | HTML | 42/100 |
 | 310 | [dullage/flatnotes](./dullage-flatnotes.md) | ⭐ — | — | 42/100 |
 | 311 | [y-times-y/y](./y-times-y-y.md) | ⭐ — | — | 42/100 |

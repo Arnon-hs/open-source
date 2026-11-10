@@ -276,8 +276,8 @@
 | 266 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 267 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 268 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
-| 270 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 423 | Swift | 55/100 |
+| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 423 | Swift | 55/100 |
+| 270 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
 | 271 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 594 | Kotlin | 55/100 |
 | 272 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 630 | Python | 55/100 |
 | 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
@@ -295,8 +295,8 @@
 | 285 | [solkin/appteka-android](./solkin-appteka-android.md) | ⭐ 1.4k | Kotlin | 55/100 |
 | 286 | [tabletseeker/mobian](./tabletseeker-mobian.md) | ⭐ 277 | Shell | 55/100 |
 | 287 | [square/wire](./square-wire.md) | ⭐ 4.4k | Kotlin | 55/100 |
-| 288 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 967 | Kotlin | 55/100 |
-| 289 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 1.6k | Kotlin | 55/100 |
+| 288 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 1.6k | Kotlin | 55/100 |
+| 289 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 967 | Kotlin | 55/100 |
 | 290 | [CatimaLoyalty/Android](./catimaloyalty-android.md) | ⭐ 1.7k | Java | 55/100 |
 | 291 | [facebook/redex](./facebook-redex.md) | ⭐ 6.3k | C++ | 55/100 |
 | 292 | [OneBusAway/onebusaway-android](./onebusaway-onebusaway-android.md) | ⭐ 583 | Kotlin | 55/100 |
@@ -525,8 +525,8 @@
 | 515 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 519 | Java | 44/100 |
 | 516 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 548 | Kotlin | 44/100 |
 | 517 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 5 | Kotlin | 43/100 |
-| 518 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.1k | — | 43/100 |
-| 519 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 979 | — | 43/100 |
+| 518 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 979 | — | 43/100 |
+| 519 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.1k | — | 43/100 |
 | 520 | [kuscholar/iDeck](./kuscholar-ideck.md) | ⭐ 5 | C | 43/100 |
 | 521 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 1 | JavaScript | 43/100 |
 | 522 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 7 | Kotlin | 43/100 |
@@ -629,7 +629,7 @@
 | 619 | [ffmpegkit-maintained/ffmpeg-kit](./ffmpegkit-maintained-ffmpeg-kit.md) | ⭐ — | — | 41/100 |
 | 620 | [RTiK/mosaic](./rtik-mosaic.md) | ⭐ — | — | 41/100 |
 | 621 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 259 | Dart | 41/100 |
-| 622 | [kotlinsyd/Plavio](./kotlinsyd-plavio.md) | ⭐ 11 | Kotlin | 40/100 |
+| 622 | [kotlinsyd/Plavio](./kotlinsyd-plavio.md) | ⭐ 22 | Kotlin | 40/100 |
 | 623 | [android/skills](./android-skills.md) | ⭐ 10.4k | — | 40/100 |
 | 624 | [LalanaChami/CandleKit](./lalanachami-candlekit.md) | ⭐ 2 | Swift | 40/100 |
 | 625 | [boy-offi9-inc/matrix-rain-demo](./boy-offi9-inc-matrix-rain-demo.md) | ⭐ 1 | Kotlin | 40/100 |
@@ -684,8 +684,8 @@
 | 674 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 675 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ — | — | 38/100 |
 | 676 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 677 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
-| 678 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
+| 677 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ — | — | 38/100 |
+| 678 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
 | 679 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ — | — | 38/100 |
 | 680 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ — | — | 38/100 |
 | 681 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ — | — | 38/100 |

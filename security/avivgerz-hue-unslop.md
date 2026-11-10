@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13 |
-| 🍴 **Forks** | 2 |
+| ⭐ **Stars** | 18 |
+| 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-11-08 |
@@ -53,8 +53,8 @@ avivgerz-hue/unslop：avivgerz-hue/unslop helps catch security and privacy issue
 
 **Quality signals**
 
-- 13 GitHub stars
-- 2 forks
+- 18 GitHub stars
+- 3 forks
 - updated 2026-11-08
 - primary language: TypeScript
 - 11 topics
@@ -66,14 +66,14 @@ avivgerz-hue/unslop：avivgerz-hue/unslop helps catch security and privacy issue
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 61/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 72/100 |
-| adoption | 21/100 |
+| production | 69/100 |
+| outlook | 73/100 |
+| adoption | 24/100 |
 | categoryMatchCount | 200/100 |
-| stars | 24/100 |
-| forks | 12/100 |
+| stars | 27/100 |
+| forks | 15/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

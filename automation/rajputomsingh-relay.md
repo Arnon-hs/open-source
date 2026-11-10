@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 11 |
-| 🍴 **Forks** | 1 |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-11-03 |
@@ -54,7 +54,7 @@ rajputomsingh/Relay：rajputomsingh/Relay helps remove repetitive manual operati
 **Quality signals**
 
 - 11 GitHub stars
-- 1 forks
+- 2 forks
 - updated 2026-11-03
 - primary language: Go
 - 21 topics
@@ -69,11 +69,11 @@ rajputomsingh/Relay：rajputomsingh/Relay helps remove repetitive manual operati
 | quality | 54/100 |
 | integration | 94/100 |
 | production | 66/100 |
-| outlook | 64/100 |
-| adoption | 19/100 |
+| outlook | 65/100 |
+| adoption | 20/100 |
 | categoryMatchCount | 500/100 |
 | stars | 23/100 |
-| forks | 8/100 |
+| forks | 12/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

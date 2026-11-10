@@ -515,8 +515,8 @@
 | 505 | [sveltejs/eslint-plugin-svelte](./sveltejs-eslint-plugin-svelte.md) | ⭐ 412 | TypeScript | 59/100 |
 | 506 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 892 | TypeScript | 59/100 |
 | 507 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 814 | TypeScript | 59/100 |
-| 508 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
-| 509 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 508 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 509 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
 | 510 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 511 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 360 | TypeScript | 59/100 |
 | 512 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 675 | Rust | 59/100 |
@@ -790,7 +790,7 @@
 | 780 | [libnyanpasu/clash-nyanpasu](./libnyanpasu-clash-nyanpasu.md) | ⭐ 13.3k | Rust | 53/100 |
 | 781 | [Mozzo1000/booklogr](./mozzo1000-booklogr.md) | ⭐ 637 | JavaScript | 53/100 |
 | 782 | [metasfresh/metasfresh](./metasfresh-metasfresh.md) | ⭐ 2.5k | Java | 53/100 |
-| 783 | [Hanubaki/GraphFlow](./hanubaki-graphflow.md) | ⭐ 9 | TypeScript | 52/100 |
+| 783 | [Hanubaki/GraphFlow](./hanubaki-graphflow.md) | ⭐ 12 | TypeScript | 52/100 |
 | 784 | [GhaziAlibi/helixsync](./ghazialibi-helixsync.md) | ⭐ 26 | TypeScript | 52/100 |
 | 785 | [vikashsparxit/the-talent-app](./vikashsparxit-the-talent-app.md) | ⭐ 6 | TypeScript | 52/100 |
 | 786 | [F0Rextasy/bigbullui](./f0rextasy-bigbullui.md) | ⭐ — | TypeScript | 52/100 |
@@ -840,10 +840,10 @@
 | 830 | [vchelaru/Gum](./vchelaru-gum.md) | ⭐ 657 | C# | 50/100 |
 | 831 | [KittyCAD/modeling-app](./kittycad-modeling-app.md) | ⭐ 1.3k | TypeScript | 50/100 |
 | 832 | [sanidhyy/space-portfolio](./sanidhyy-space-portfolio.md) | ⭐ 546 | TypeScript | 50/100 |
-| 833 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 14 | TypeScript | 49/100 |
+| 833 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 48 | TypeScript | 49/100 |
 | 834 | [ShazMoghaddam/bezel-charts](./shazmoghaddam-bezel-charts.md) | ⭐ 1 | JavaScript | 49/100 |
 | 835 | [MA-Ahmad/myPortfolio](./ma-ahmad-myportfolio.md) | ⭐ — | — | 49/100 |
-| 836 | [shane-jacobeen/schema3d](./shane-jacobeen-schema3d.md) | ⭐ 11 | TypeScript | 49/100 |
+| 836 | [shane-jacobeen/schema3d](./shane-jacobeen-schema3d.md) | ⭐ 19 | TypeScript | 49/100 |
 | 837 | [favkit/bazi-kit](./favkit-bazi-kit.md) | ⭐ 1 | TypeScript | 49/100 |
 | 838 | [kristoferlund/ratcn](./kristoferlund-ratcn.md) | ⭐ 173 | Rust | 49/100 |
 | 839 | [learning-zone/react-basics](./learning-zone-react-basics.md) | ⭐ 1.7k | JavaScript | 49/100 |

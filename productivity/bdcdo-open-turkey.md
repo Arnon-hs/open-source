@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 16 |
+| ⭐ **Stars** | 19 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 57/100 |
@@ -51,7 +51,7 @@ bdcdo/open-turkey：bdcdo/open-turkey may be useful when its README and activity
 
 **Quality signals**
 
-- 16 GitHub stars
+- 19 GitHub stars
 - 6 forks
 - updated 2026-11-03
 - primary language: Go
@@ -66,11 +66,11 @@ bdcdo/open-turkey：bdcdo/open-turkey may be useful when its README and activity
 | usefulness | 58/100 |
 | quality | 57/100 |
 | integration | 62/100 |
-| production | 62/100 |
+| production | 63/100 |
 | outlook | 63/100 |
-| adoption | 25/100 |
+| adoption | 26/100 |
 | categoryMatchCount | 100/100 |
-| stars | 26/100 |
+| stars | 28/100 |
 | forks | 21/100 |
 | recency | 80/100 |
 | topics | 100/100 |

@@ -1,6 +1,6 @@
 # avivgerz-hue/vibe-shield
 
-[![Stars](https://img.shields.io/github/stars/avivgerz-hue/vibe-shield?style=flat-square&color=yellow)](https://github.com/avivgerz-hue/vibe-shield/stargazers) [![Forks](https://img.shields.io/github/forks/avivgerz-hue/vibe-shield?style=flat-square&color=blue)](https://github.com/avivgerz-hue/vibe-shield/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/avivgerz-hue/vibe-shield?style=flat-square&color=yellow)](https://github.com/avivgerz-hue/vibe-shield/stargazers) [![Forks](https://img.shields.io/github/forks/avivgerz-hue/vibe-shield?style=flat-square&color=blue)](https://github.com/avivgerz-hue/vibe-shield/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > 60-rule static security scanner, MCP server & skill poisoning auditor for AI-generated codebases (Claude Code, Codex, Cursor).
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 17 |
-| 🍴 **Forks** | 1 |
+| ⭐ **Stars** | 26 |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -53,8 +53,8 @@ avivgerz-hue/vibe-shield：avivgerz-hue/vibe-shield helps catch security and pri
 
 **Quality signals**
 
-- 17 GitHub stars
-- 1 forks
+- 26 GitHub stars
+- 2 forks
 - updated 2026-11-08
 - primary language: TypeScript
 - 14 topics
@@ -66,14 +66,14 @@ avivgerz-hue/vibe-shield：avivgerz-hue/vibe-shield helps catch security and pri
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 60/100 |
+| quality | 62/100 |
 | integration | 78/100 |
 | production | 71/100 |
-| outlook | 72/100 |
-| adoption | 21/100 |
+| outlook | 73/100 |
+| adoption | 25/100 |
 | categoryMatchCount | 200/100 |
-| stars | 27/100 |
-| forks | 8/100 |
+| stars | 30/100 |
+| forks | 12/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

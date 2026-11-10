@@ -117,7 +117,7 @@
 | 107 | [openclaw/discrawl](./openclaw-discrawl.md) | ⭐ 862 | Go | 61/100 |
 | 108 | [s2-streamstore/s2](./s2-streamstore-s2.md) | ⭐ 815 | Rust | 61/100 |
 | 109 | [gravitational/teleport](./gravitational-teleport.md) | ⭐ 21.1k | Go | 61/100 |
-| 110 | [mortennordbye/headroom](./mortennordbye-headroom.md) | ⭐ 10 | TypeScript | 60/100 |
+| 110 | [mortennordbye/headroom](./mortennordbye-headroom.md) | ⭐ 11 | TypeScript | 60/100 |
 | 111 | [react-native-async-storage/async-storage](./react-native-async-storage-async-storage.md) | ⭐ 5.1k | Kotlin | 60/100 |
 | 112 | [elabftw/elabftw](./elabftw-elabftw.md) | ⭐ 1.5k | PHP | 60/100 |
 | 113 | [AlaSQL/alasql](./alasql-alasql.md) | ⭐ 7.3k | JavaScript | 60/100 |
@@ -293,7 +293,7 @@
 | 283 | [pawelsalawa/letos](./pawelsalawa-letos.md) | ⭐ 6.8k | C | 52/100 |
 | 284 | [overmind1980/oeasy-linux-tutorial](./overmind1980-oeasy-linux-tutorial.md) | ⭐ 99 | — | 51/100 |
 | 285 | [lhccong/fish-island-backend](./lhccong-fish-island-backend.md) | ⭐ 711 | Java | 51/100 |
-| 286 | [aoci-spec/aoci-code](./aoci-spec-aoci-code.md) | ⭐ 22 | Go | 51/100 |
+| 286 | [aoci-spec/aoci-code](./aoci-spec-aoci-code.md) | ⭐ 1.9k | Go | 51/100 |
 | 287 | [pgrundev/pgbot](./pgrundev-pgbot.md) | ⭐ 1.5k | Go | 51/100 |
 | 288 | [maxcountryman/underway](./maxcountryman-underway.md) | ⭐ 175 | Rust | 51/100 |
 | 289 | [EnterpriseDB/mysql_fdw](./enterprisedb-mysql-fdw.md) | ⭐ 600 | C | 51/100 |
@@ -547,8 +547,8 @@
 | 537 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ — | — | 38/100 |
 | 538 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ — | — | 38/100 |
 | 539 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ — | — | 38/100 |
-| 540 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 38/100 |
-| 541 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 38/100 |
+| 540 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ — | — | 38/100 |
+| 541 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ — | — | 38/100 |
 | 542 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ — | — | 38/100 |
 | 543 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ — | — | 38/100 |
 | 544 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ — | — | 38/100 |
@@ -566,8 +566,8 @@
 | 556 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 557 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 558 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 38/100 |
-| 559 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 38/100 |
-| 560 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 38/100 |
+| 559 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 38/100 |
+| 560 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 38/100 |
 | 561 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ — | — | 38/100 |
 | 562 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ — | — | 38/100 |
 | 563 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ — | — | 38/100 |

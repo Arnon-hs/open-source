@@ -346,7 +346,7 @@
 | 336 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 708 | Python | 45/100 |
 | 337 | [scigolib/matlab](./scigolib-matlab.md) | ⭐ 12 | Go | 45/100 |
 | 338 | [HimanshuS073/music_visualizer](./himanshus073-music-visualizer.md) | ⭐ 2 | Lua | 45/100 |
-| 339 | [decodeaditya/Cirqmon](./decodeaditya-cirqmon.md) | ⭐ 16 | JavaScript | 44/100 |
+| 339 | [decodeaditya/Cirqmon](./decodeaditya-cirqmon.md) | ⭐ 26 | JavaScript | 44/100 |
 | 340 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ — | — | 44/100 |
 | 341 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 115 | Rust | 44/100 |
 | 342 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 214 | Rust | 44/100 |

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 13 |
+| ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 68/100 |
@@ -53,7 +53,7 @@ geovanneb/get-things-done：geovanneb/get-things-done helps add AI capability wi
 
 **Quality signals**
 
-- 13 GitHub stars
+- 15 GitHub stars
 - 6 forks
 - updated 2026-11-04
 - primary language: TypeScript
@@ -70,9 +70,9 @@ geovanneb/get-things-done：geovanneb/get-things-done helps add AI capability wi
 | integration | 62/100 |
 | production | 62/100 |
 | outlook | 71/100 |
-| adoption | 23/100 |
+| adoption | 24/100 |
 | categoryMatchCount | 100/100 |
-| stars | 24/100 |
+| stars | 26/100 |
 | forks | 21/100 |
 | recency | 80/100 |
 | topics | 100/100 |

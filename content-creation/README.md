@@ -15,12 +15,12 @@
 | 5 | [SamurAIGPT/muapi-cli](./samuraigpt-muapi-cli.md) | ⭐ 17 | Python | 82/100 |
 | 6 | [darkzOGx/youtube-automation-agent](./darkzogx-youtube-automation-agent.md) | ⭐ 5.1k | JavaScript | 80/100 |
 | 7 | [Ratimon/openquok-monorepo](./ratimon-openquok-monorepo.md) | ⭐ 107 | TypeScript | 79/100 |
-| 8 | [AuraVixStudio/caelo](./auravixstudio-caelo.md) | ⭐ 22 | Python | 79/100 |
+| 8 | [AuraVixStudio/caelo](./auravixstudio-caelo.md) | ⭐ 26 | Python | 79/100 |
 | 9 | [modelstudioai/cli](./modelstudioai-cli.md) | ⭐ 370 | TypeScript | 79/100 |
 | 10 | [neopen/story-shot-agent](./neopen-story-shot-agent.md) | ⭐ 238 | Python | 78/100 |
 | 11 | [ffroliva/gflow-cli](./ffroliva-gflow-cli.md) | ⭐ 377 | Python | 78/100 |
 | 12 | [HBAI-Ltd/Toonflow-app](./hbai-ltd-toonflow-app.md) | ⭐ 21.2k | HTML | 78/100 |
-| 13 | [SlavaSexton/ComfyUI-Agent-Kit](./slavasexton-comfyui-agent-kit.md) | ⭐ 26 | Python | 77/100 |
+| 13 | [SlavaSexton/ComfyUI-Agent-Kit](./slavasexton-comfyui-agent-kit.md) | ⭐ 120 | Python | 77/100 |
 | 14 | [gokayfem/ComfyUI-fal-API](./gokayfem-comfyui-fal-api.md) | ⭐ 227 | Python | 76/100 |
 | 15 | [promptslab/Awesome-Prompt-Engineering](./promptslab-awesome-prompt-engineering.md) | ⭐ 6.4k | TypeScript | 76/100 |
 | 16 | [Anil-matcha/Wan-3.0-API](./anil-matcha-wan-3.0-api.md) | ⭐ 80 | Python | 76/100 |
@@ -31,7 +31,7 @@
 | 21 | [dramaclaw/dramaclaw](./dramaclaw-dramaclaw.md) | ⭐ 7.7k | TypeScript | 75/100 |
 | 22 | [volcengine/ark-cli](./volcengine-ark-cli.md) | ⭐ 149 | Python | 75/100 |
 | 23 | [heygen-com/heygen-cli](./heygen-com-heygen-cli.md) | ⭐ 171 | Go | 74/100 |
-| 24 | [vaaya-ai/vaaya-mcp](./vaaya-ai-vaaya-mcp.md) | ⭐ 26 | Shell | 74/100 |
+| 24 | [vaaya-ai/vaaya-mcp](./vaaya-ai-vaaya-mcp.md) | ⭐ 44 | Shell | 74/100 |
 | 25 | [gongxings/ai-creator](./gongxings-ai-creator.md) | ⭐ 93 | Python | 74/100 |
 | 26 | [claude-world/claude-world-studio](./claude-world-claude-world-studio.md) | ⭐ 71 | TypeScript | 73/100 |
 | 27 | [EvoLinkAI/awesome-seedance-2.5-guide](./evolinkai-awesome-seedance-2.5-guide.md) | ⭐ 392 | Shell | 73/100 |
@@ -41,7 +41,7 @@
 | 31 | [ddalcu/mlx-serve](./ddalcu-mlx-serve.md) | ⭐ 2.4k | Zig | 72/100 |
 | 32 | [Notifuse/notifuse](./notifuse-notifuse.md) | ⭐ 2.3k | Go | 72/100 |
 | 33 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 358 | Python | 71/100 |
-| 34 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 19 | — | 71/100 |
+| 34 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 24 | — | 71/100 |
 | 35 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 886 | Python | 71/100 |
 | 36 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 312 | Python | 71/100 |
 | 37 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 3.7k | TypeScript | 71/100 |
@@ -58,7 +58,7 @@
 | 48 | [stabgan/openrouter-mcp-multimodal](./stabgan-openrouter-mcp-multimodal.md) | ⭐ 102 | TypeScript | 69/100 |
 | 49 | [Anil-matcha/Open-Generative-AI](./anil-matcha-open-generative-ai.md) | ⭐ 33.7k | JavaScript | 69/100 |
 | 50 | [utensils/mold](./utensils-mold.md) | ⭐ 57 | Rust | 68/100 |
-| 51 | [Kuhakucai/douyin-mcp](./kuhakucai-douyin-mcp.md) | ⭐ 21 | Python | 68/100 |
+| 51 | [Kuhakucai/douyin-mcp](./kuhakucai-douyin-mcp.md) | ⭐ 90 | Python | 68/100 |
 | 52 | [backblaze-labs/genblaze](./backblaze-labs-genblaze.md) | ⭐ 549 | Python | 68/100 |
 | 53 | [Anil-matcha/Open-AI-UGC](./anil-matcha-open-ai-ugc.md) | ⭐ 423 | JavaScript | 68/100 |
 | 54 | [vllm-project/vllm-omni](./vllm-project-vllm-omni.md) | ⭐ 7.7k | Python | 68/100 |
@@ -82,7 +82,7 @@
 | 72 | [jeffstric/ZJT](./jeffstric-zjt.md) | ⭐ 240 | Python | 64/100 |
 | 73 | [Mann1988/awesome-claude-skills](./mann1988-awesome-claude-skills.md) | ⭐ 58 | Python | 64/100 |
 | 74 | [Xeron2000/openOii](./xeron2000-openoii.md) | ⭐ 299 | Python | 64/100 |
-| 75 | [helloworld8661/awesome-ai-book-writing](./helloworld8661-awesome-ai-book-writing.md) | ⭐ 21 | — | 63/100 |
+| 75 | [helloworld8661/awesome-ai-book-writing](./helloworld8661-awesome-ai-book-writing.md) | ⭐ 24 | — | 63/100 |
 | 76 | [jidouqie/redbeacon](./jidouqie-redbeacon.md) | ⭐ 254 | Shell | 63/100 |
 | 77 | [RicardoGEsteves/omniscient](./ricardogesteves-omniscient.md) | ⭐ 121 | TypeScript | 63/100 |
 | 78 | [YouMind-OpenLab/awesome-seedance-2-prompts](./youmind-openlab-awesome-seedance-2-prompts.md) | ⭐ 2.2k | TypeScript | 63/100 |
@@ -91,16 +91,16 @@
 | 81 | [BlackMixture/Mix-Studio](./blackmixture-mix-studio.md) | ⭐ 303 | JavaScript | 62/100 |
 | 82 | [FurkanGozukara/Stable-Diffusion](./furkangozukara-stable-diffusion.md) | ⭐ 2.8k | HTML | 62/100 |
 | 83 | [calesthio/generative-media-skills](./calesthio-generative-media-skills.md) | ⭐ 239 | Python | 62/100 |
-| 84 | [frankzch/ai-news-skill](./frankzch-ai-news-skill.md) | ⭐ 22 | Python | 61/100 |
+| 84 | [frankzch/ai-news-skill](./frankzch-ai-news-skill.md) | ⭐ 23 | Python | 61/100 |
 | 85 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
-| 86 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 21 | Python | 61/100 |
+| 86 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 23 | Python | 61/100 |
 | 87 | [Wan-Video/Wan2.2](./wan-video-wan2.2.md) | ⭐ 18.5k | Python | 60/100 |
 | 88 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 204 | — | 60/100 |
 | 89 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 157 | Vue | 60/100 |
 | 90 | [WaveSpeedAI/mcp-server](./wavespeedai-mcp-server.md) | ⭐ 36 | TypeScript | 59/100 |
 | 91 | [rolfie-han/YoLuster-shorts](./rolfie-han-yoluster-shorts.md) | ⭐ 295 | HTML | 59/100 |
 | 92 | [zxhwolfe-dev/aiworkstation-topic-intelligence](./zxhwolfe-dev-aiworkstation-topic-intelligence.md) | ⭐ 1 | Python | 58/100 |
-| 93 | [kostas2370/Video-Creator](./kostas2370-video-creator.md) | ⭐ 24 | Python | 58/100 |
+| 93 | [kostas2370/Video-Creator](./kostas2370-video-creator.md) | ⭐ 28 | Python | 58/100 |
 | 94 | [Mrkomiljon/awesome-generative-ai](./mrkomiljon-awesome-generative-ai.md) | ⭐ 41 | Python | 58/100 |
 | 95 | [flatkey-ai/flatkey-cli](./flatkey-ai-flatkey-cli.md) | ⭐ 868 | JavaScript | 58/100 |
 | 96 | [SkyNotSilent/ai-jianying-image-video](./skynotsilent-ai-jianying-image-video.md) | ⭐ 27 | Python | 57/100 |
@@ -164,8 +164,8 @@
 | 154 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 155 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 156 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 157 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 158 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 157 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 158 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
 | 159 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 160 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 

@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 361 | TypeScript | 65/100 |
@@ -343,7 +343,7 @@
 | 333 | [KnugiHK/WhatsApp-Chat-Exporter](./knugihk-whatsapp-chat-exporter.md) | ⭐ 1.3k | — | 44/100 |
 | 334 | [AdrianCX/picohive-irrigation](./adriancx-picohive-irrigation.md) | ⭐ — | — | 44/100 |
 | 335 | [zai-org/feedback](./zai-org-feedback.md) | ⭐ — | — | 44/100 |
-| 336 | [mahdyaralipor/parsidate](./mahdyaralipor-parsidate.md) | ⭐ 9 | PHP | 44/100 |
+| 336 | [mahdyaralipor/parsidate](./mahdyaralipor-parsidate.md) | ⭐ 10 | PHP | 44/100 |
 | 337 | [jafoers/kalkee](./jafoers-kalkee.md) | ⭐ — | — | 44/100 |
 | 338 | [effessdev/reptclip](./effessdev-reptclip.md) | ⭐ 1 | Python | 44/100 |
 | 339 | [royalpinto007/Kabootar](./royalpinto007-kabootar.md) | ⭐ 2 | Dart | 43/100 |

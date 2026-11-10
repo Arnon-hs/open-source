@@ -1,6 +1,6 @@
 # sleepyaishik69/ChromaWild
 
-[![Stars](https://img.shields.io/github/stars/sleepyaishik69/ChromaWild?style=flat-square&color=yellow)](https://github.com/sleepyaishik69/ChromaWild/stargazers) [![Forks](https://img.shields.io/github/forks/sleepyaishik69/ChromaWild?style=flat-square&color=blue)](https://github.com/sleepyaishik69/ChromaWild/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/sleepyaishik69/ChromaWild?style=flat-square&color=yellow)](https://github.com/sleepyaishik69/ChromaWild/stargazers) [![Forks](https://img.shields.io/github/forks/sleepyaishik69/ChromaWild?style=flat-square&color=blue)](https://github.com/sleepyaishik69/ChromaWild/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ sleepyaishik69/ChromaWild：sleepyaishik69/ChromaWild helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 37/100 |
+| quality | 32/100 |
 | integration | 34/100 |
-| production | 47/100 |
-| outlook | 44/100 |
+| production | 40/100 |
+| outlook | 37/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

@@ -70,7 +70,7 @@
 | 60 | [4ian/GDevelop](./4ian-gdevelop.md) | ⭐ 28.7k | JavaScript | 63/100 |
 | 61 | [visgl/luma.gl](./visgl-luma.gl.md) | ⭐ 2.5k | TypeScript | 63/100 |
 | 62 | [LunarG/gfxreconstruct](./lunarg-gfxreconstruct.md) | ⭐ 612 | C++ | 63/100 |
-| 63 | [XenolithEngine/xenolith-engine](./xenolithengine-xenolith-engine.md) | ⭐ 15 | C++ | 62/100 |
+| 63 | [XenolithEngine/xenolith-engine](./xenolithengine-xenolith-engine.md) | ⭐ 22 | C++ | 62/100 |
 | 64 | [google/swiftshader](./google-swiftshader.md) | ⭐ 2.6k | C++ | 62/100 |
 | 65 | [openfl/lime](./openfl-lime.md) | ⭐ 856 | JavaScript | 62/100 |
 | 66 | [2shady4u/godot-sqlite](./2shady4u-godot-sqlite.md) | ⭐ 1.5k | C++ | 62/100 |
@@ -103,7 +103,7 @@
 | 93 | [KilledByAPixel/LittleJS](./killedbyapixel-littlejs.md) | ⭐ 4.4k | JavaScript | 61/100 |
 | 94 | [gfx-rs/wgpu](./gfx-rs-wgpu.md) | ⭐ 18.5k | Rust | 61/100 |
 | 95 | [kovidgoyal/kitty](./kovidgoyal-kitty.md) | ⭐ 35.6k | Python | 61/100 |
-| 96 | [rudra496/cnc](./rudra496-cnc.md) | ⭐ 12 | TypeScript | 60/100 |
+| 96 | [rudra496/cnc](./rudra496-cnc.md) | ⭐ 16 | TypeScript | 60/100 |
 | 97 | [mitsuba-renderer/nanogui](./mitsuba-renderer-nanogui.md) | ⭐ 1.8k | C++ | 60/100 |
 | 98 | [RandyGaul/cute_framework](./randygaul-cute-framework.md) | ⭐ 854 | C | 60/100 |
 | 99 | [MovingBlocks/Terasology](./movingblocks-terasology.md) | ⭐ 3.9k | Java | 60/100 |
