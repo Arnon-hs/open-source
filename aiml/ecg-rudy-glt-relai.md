@@ -1,6 +1,6 @@
 # ECG-Rudy-Glt/RELAI
 
-[![Stars](https://img.shields.io/github/stars/ECG-Rudy-Glt/RELAI?style=flat-square&color=yellow)](https://github.com/ECG-Rudy-Glt/RELAI/stargazers) [![Forks](https://img.shields.io/github/forks/ECG-Rudy-Glt/RELAI?style=flat-square&color=blue)](https://github.com/ECG-Rudy-Glt/RELAI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ECG-Rudy-Glt/RELAI?style=flat-square&color=yellow)](https://github.com/ECG-Rudy-Glt/RELAI/stargazers) [![Forks](https://img.shields.io/github/forks/ECG-Rudy-Glt/RELAI?style=flat-square&color=blue)](https://github.com/ECG-Rudy-Glt/RELAI/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Pass the baton between people and their AI agents, across all their projects — without losing context, and without rebuilding what already exists.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ ECG-Rudy-Glt/RELAI：ECG-Rudy-Glt/RELAI helps add AI capability without starting
 
 **Quality signals**
 
-- 1 GitHub stars
+- 2 GitHub stars
 - updated 2026-11-05
 - primary language: Go
 - 11 topics
@@ -65,13 +65,13 @@ ECG-Rudy-Glt/RELAI：ECG-Rudy-Glt/RELAI helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 48/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 64/100 |
-| adoption | 5/100 |
+| production | 60/100 |
+| outlook | 65/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 200/100 |
-| stars | 6/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2 |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 48/100 |
@@ -53,7 +53,7 @@ SocialBuzzStudio/live-compact：SocialBuzzStudio/live-compact helps add AI capab
 
 **Quality signals**
 
-- 2 GitHub stars
+- 3 GitHub stars
 - 1 forks
 - updated 2026-11-03
 - primary language: TypeScript
@@ -66,13 +66,13 @@ SocialBuzzStudio/live-compact：SocialBuzzStudio/live-compact helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 44/100 |
+| quality | 45/100 |
 | integration | 62/100 |
 | production | 58/100 |
 | outlook | 52/100 |
-| adoption | 9/100 |
+| adoption | 11/100 |
 | categoryMatchCount | 100/100 |
-| stars | 10/100 |
+| stars | 13/100 |
 | forks | 8/100 |
 | recency | 80/100 |
 | topics | 63/100 |

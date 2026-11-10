@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML · Automation
+AI/ML · Database
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ gracelee087/lecture-gate: gracelee087/lecture-gate helps add AI capability witho
 
 ### Русский
 
-gracelee087/lecture-gate: open-source проект в категориях AI/ML, Automation. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+gracelee087/lecture-gate: open-source проект в категориях AI/ML, Database. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ gracelee087/lecture-gate：gracelee087/lecture-gate helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 41/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 46/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 200/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 46/100 |
+| quality | 41/100 |
+| recency | 60/100 |
+| adoption | 0/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # tech-pw/cryo
 
-[![Stars](https://img.shields.io/github/stars/tech-pw/cryo?style=flat-square&color=yellow)](https://github.com/tech-pw/cryo/stargazers) [![Forks](https://img.shields.io/github/forks/tech-pw/cryo?style=flat-square&color=blue)](https://github.com/tech-pw/cryo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tech-pw/cryo?style=flat-square&color=yellow)](https://github.com/tech-pw/cryo/stargazers) [![Forks](https://img.shields.io/github/forks/tech-pw/cryo?style=flat-square&color=blue)](https://github.com/tech-pw/cryo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted Apache Iceberg maintenance and health platform — scans, grades A-F, and runs compaction, snapshot expiry, and orphan cleanup on Trino or Spark.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7 |
+| ⭐ **Stars** | 11 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ tech-pw/cryo：tech-pw/cryo helps convert raw data into searchable, analyzable, 
 
 **Quality signals**
 
-- 7 GitHub stars
+- 11 GitHub stars
 - 2 forks
 - updated 2026-11-03
 - primary language: Python
@@ -66,13 +66,13 @@ tech-pw/cryo：tech-pw/cryo helps convert raw data into searchable, analyzable, 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 54/100 |
 | integration | 46/100 |
 | production | 59/100 |
-| outlook | 61/100 |
-| adoption | 17/100 |
+| outlook | 62/100 |
+| adoption | 20/100 |
 | categoryMatchCount | 100/100 |
-| stars | 19/100 |
+| stars | 23/100 |
 | forks | 12/100 |
 | recency | 80/100 |
 | topics | 100/100 |

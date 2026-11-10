@@ -1,6 +1,6 @@
 # ZenyaDAR/humanloads
 
-[![Stars](https://img.shields.io/github/stars/ZenyaDAR/humanloads?style=flat-square&color=yellow)](https://github.com/ZenyaDAR/humanloads/stargazers) [![Forks](https://img.shields.io/github/forks/ZenyaDAR/humanloads?style=flat-square&color=blue)](https://github.com/ZenyaDAR/humanloads/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ZenyaDAR/humanloads?style=flat-square&color=yellow)](https://github.com/ZenyaDAR/humanloads/stargazers) [![Forks](https://img.shields.io/github/forks/ZenyaDAR/humanloads?style=flat-square&color=blue)](https://github.com/ZenyaDAR/humanloads/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > How many humans actually use an npm package? npm counts every tarball fetch; humanloads strips out mirrors, scanners and crawlers to estimate real weekly installs.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ ZenyaDAR/humanloads：ZenyaDAR/humanloads helps remove repetitive manual operati
 
 **Quality signals**
 
-- 1 GitHub stars
+- 2 GitHub stars
 - updated 2026-11-06
 - primary language: TypeScript
 - 17 topics
@@ -65,13 +65,13 @@ ZenyaDAR/humanloads：ZenyaDAR/humanloads helps remove repetitive manual operati
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 48/100 |
+| quality | 49/100 |
 | integration | 46/100 |
 | production | 57/100 |
 | outlook | 58/100 |
-| adoption | 5/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 400/100 |
-| stars | 6/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

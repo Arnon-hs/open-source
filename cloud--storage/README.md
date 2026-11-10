@@ -127,7 +127,7 @@
 | 117 | [smithy-lang/smithy-rs](./smithy-lang-smithy-rs.md) | ⭐ 686 | Rust | 68/100 |
 | 118 | [midwayjs/midway](./midwayjs-midway.md) | ⭐ 7.8k | TypeScript | 68/100 |
 | 119 | [cloudflare/workers-sdk](./cloudflare-workers-sdk.md) | ⭐ 4.7k | TypeScript | 68/100 |
-| 120 | [Chistogov/syncra](./chistogov-syncra.md) | ⭐ 1 | TypeScript | 67/100 |
+| 120 | [Chistogov/syncra](./chistogov-syncra.md) | ⭐ 4 | TypeScript | 67/100 |
 | 121 | [aquasecurity/trivy-operator](./aquasecurity-trivy-operator.md) | ⭐ 2k | Go | 67/100 |
 | 122 | [wal-g/wal-g](./wal-g-wal-g.md) | ⭐ 4.3k | Go | 67/100 |
 | 123 | [matsest/lazyazure](./matsest-lazyazure.md) | ⭐ 49 | Go | 67/100 |
@@ -341,8 +341,8 @@
 | 331 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 332 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 333 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 452 | TypeScript | 58/100 |
-| 334 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
-| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 334 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
 | 336 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 337 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 338 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -491,8 +491,8 @@
 | 481 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 447 | Go | 52/100 |
 | 482 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 483 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ — | — | 51/100 |
-| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 486 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 60 | Python | 51/100 |
 | 487 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 490 | Jupyter Notebook | 51/100 |
 | 488 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
@@ -545,10 +545,10 @@
 | 535 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ — | — | 45/100 |
 | 536 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ — | — | 45/100 |
 | 537 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 538 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
+| 538 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 540 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ — | — | 45/100 |
-| 541 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ — | — | 45/100 |
+| 541 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 542 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ — | — | 45/100 |
 | 543 | [mdourmouch/aws-cloudshell-cli](./mdourmouch-aws-cloudshell-cli.md) | ⭐ — | — | 45/100 |
 | 544 | [dksingh1997/parlel](./dksingh1997-parlel.md) | ⭐ — | — | 45/100 |
@@ -565,7 +565,7 @@
 | 555 | [ashtf8/PocketMage_PDA](./ashtf8-pocketmage-pda.md) | ⭐ 1.8k | C++ | 43/100 |
 | 556 | [Nethusha2007/ballerina-bookstore-api](./nethusha2007-ballerina-bookstore-api.md) | ⭐ — | Ballerina | 43/100 |
 | 557 | [sanity-labs/sanity-plugin-workflows](./sanity-labs-sanity-plugin-workflows.md) | ⭐ 2 | TypeScript | 43/100 |
-| 558 | [AbdElMajidOuhamane/ff](./abdelmajidouhamane-ff.md) | ⭐ 1 | Zig | 42/100 |
+| 558 | [AbdElMajidOuhamane/ff](./abdelmajidouhamane-ff.md) | ⭐ 4 | Zig | 42/100 |
 | 559 | [substructureai/subs](./substructureai-subs.md) | ⭐ — | — | 42/100 |
 | 560 | [xav-db/range-cache](./xav-db-range-cache.md) | ⭐ — | — | 42/100 |
 | 561 | [Sidd27/infrawise](./sidd27-infrawise.md) | ⭐ — | — | 42/100 |
@@ -611,7 +611,7 @@
 | 601 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 480 | Bicep | 41/100 |
 | 602 | [suzuki0430/kro-crossplane-eks-idp-lab](./suzuki0430-kro-crossplane-eks-idp-lab.md) | ⭐ — | Shell | 40/100 |
 | 603 | [amananandrai/system-design-explainer](./amananandrai-system-design-explainer.md) | ⭐ — | TypeScript | 39/100 |
-| 604 | [rendyachmad-dev/ark](./rendyachmad-dev-ark.md) | ⭐ 7 | Shell | 39/100 |
+| 604 | [rendyachmad-dev/ark](./rendyachmad-dev-ark.md) | ⭐ 8 | Shell | 39/100 |
 | 605 | [earlgreyhot1701D/madame-minou](./earlgreyhot1701d-madame-minou.md) | ⭐ — | — | 39/100 |
 | 606 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 495 | Rust | 39/100 |
 | 607 | [devSahinur/aws-ec2-check](./devsahinur-aws-ec2-check.md) | ⭐ — | — | 39/100 |

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 70/100 |
@@ -53,7 +53,7 @@ bejaouibechir/Hydra：bejaouibechir/Hydra helps connect AI assistants to real to
 
 **Quality signals**
 
-- 4 GitHub stars
+- 5 GitHub stars
 - 1 forks
 - updated 2026-11-04
 - primary language: Python
@@ -66,13 +66,13 @@ bejaouibechir/Hydra：bejaouibechir/Hydra helps connect AI assistants to real to
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 52/100 |
 | integration | 94/100 |
 | production | 65/100 |
-| outlook | 66/100 |
-| adoption | 13/100 |
+| outlook | 67/100 |
+| adoption | 14/100 |
 | categoryMatchCount | 300/100 |
-| stars | 15/100 |
+| stars | 17/100 |
 | forks | 8/100 |
 | recency | 80/100 |
 | topics | 100/100 |

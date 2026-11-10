@@ -1,6 +1,6 @@
 # aliilyas/bruster
 
-[![Stars](https://img.shields.io/github/stars/aliilyas/bruster?style=flat-square&color=yellow)](https://github.com/aliilyas/bruster/stargazers) [![Forks](https://img.shields.io/github/forks/aliilyas/bruster?style=flat-square&color=blue)](https://github.com/aliilyas/bruster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aliilyas/bruster?style=flat-square&color=yellow)](https://github.com/aliilyas/bruster/stargazers) [![Forks](https://img.shields.io/github/forks/aliilyas/bruster?style=flat-square&color=blue)](https://github.com/aliilyas/bruster/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Native webview browser automation for AI agents. Rust-powered, with JSON-lines control and a built-in MCP server. Runs on macOS, Linux, and Windows.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 4 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,8 @@ aliilyas/bruster：aliilyas/bruster helps connect AI assistants to real tools an
 
 **Quality signals**
 
-- 1 GitHub stars
+- 4 GitHub stars
+- 1 forks
 - updated 2026-11-03
 - primary language: Python
 - 9 topics
@@ -65,14 +66,14 @@ aliilyas/bruster：aliilyas/bruster helps connect AI assistants to real tools an
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 48/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 64/100 |
-| adoption | 5/100 |
+| production | 61/100 |
+| outlook | 66/100 |
+| adoption | 13/100 |
 | categoryMatchCount | 100/100 |
-| stars | 6/100 |
-| forks | 0/100 |
+| stars | 15/100 |
+| forks | 8/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

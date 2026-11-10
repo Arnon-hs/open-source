@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 8 |
-| 🍴 **Forks** | — |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-08 |
@@ -54,6 +54,7 @@ iziuqo/compresso：iziuqo/compresso helps remove repetitive manual operations fr
 **Quality signals**
 
 - 8 GitHub stars
+- 1 forks
 - updated 2026-11-08
 - primary language: JavaScript
 - 21 topics
@@ -65,14 +66,14 @@ iziuqo/compresso：iziuqo/compresso helps remove repetitive manual operations fr
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 67/100 |
-| adoption | 15/100 |
+| production | 68/100 |
+| outlook | 68/100 |
+| adoption | 17/100 |
 | categoryMatchCount | 100/100 |
 | stars | 20/100 |
-| forks | 0/100 |
+| forks | 8/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

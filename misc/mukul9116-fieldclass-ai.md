@@ -21,31 +21,29 @@
 
 ## 🎯 Categories
 
-Education · AI/ML
+Misc
 
 ## 📝 Summary
 
 ### English
 
-mukul9116/fieldclass-ai: mukul9116/fieldclass-ai helps learn proven implementation patterns from working code.. Use it for learn an implementation pattern; build tutorials. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+mukul9116/fieldclass-ai: mukul9116/fieldclass-ai may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-mukul9116/fieldclass-ai: open-source проект в категориях Education, AI/ML. Практическое применение: learn an implementation pattern; build tutorials. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+mukul9116/fieldclass-ai: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-mukul9116/fieldclass-ai：mukul9116/fieldclass-ai helps learn proven implementation patterns from working code.。适合用于learn an implementation pattern、build tutorials。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+mukul9116/fieldclass-ai：mukul9116/fieldclass-ai may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** mukul9116/fieldclass-ai helps learn proven implementation patterns from working code.
+**Value:** mukul9116/fieldclass-ai may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- learn an implementation pattern
-- build tutorials
-- train a team on a stack
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,19 +62,19 @@ mukul9116/fieldclass-ai：mukul9116/fieldclass-ai helps learn proven implementat
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 35/100 |
-| integration | 46/100 |
-| production | 48/100 |
-| outlook | 43/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| stars | 6/100 |
 | topics | 50/100 |
+| outlook | 43/100 |
+| quality | 35/100 |
+| recency | 60/100 |
+| adoption | 5/100 |
+| production | 48/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-10-12 · [View on GitHub](https://github.com/mukul9116/fieldclass-ai) · [← Back to Education](./README.md)</sub>
+<sub>🔭 Discovered 2026-10-12 · [View on GitHub](https://github.com/mukul9116/fieldclass-ai) · [← Back to Misc](./README.md)</sub>

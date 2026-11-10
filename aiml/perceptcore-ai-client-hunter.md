@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 54/100 |
@@ -53,7 +53,7 @@ perceptcore/ai-client-hunter：perceptcore/ai-client-hunter helps add AI capabil
 
 **Quality signals**
 
-- 1 GitHub stars
+- 2 GitHub stars
 - updated 2026-11-06
 - 8 topics
 
@@ -64,13 +64,13 @@ perceptcore/ai-client-hunter：perceptcore/ai-client-hunter helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 48/100 |
+| quality | 49/100 |
 | integration | 46/100 |
 | production | 57/100 |
-| outlook | 61/100 |
-| adoption | 5/100 |
+| outlook | 62/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 200/100 |
-| stars | 6/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

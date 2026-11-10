@@ -1,6 +1,6 @@
 # shimpeiws/yuurei
 
-[![Stars](https://img.shields.io/github/stars/shimpeiws/yuurei?style=flat-square&color=yellow)](https://github.com/shimpeiws/yuurei/stargazers) [![Forks](https://img.shields.io/github/forks/shimpeiws/yuurei?style=flat-square&color=blue)](https://github.com/shimpeiws/yuurei/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shimpeiws/yuurei?style=flat-square&color=yellow)](https://github.com/shimpeiws/yuurei/stargazers) [![Forks](https://img.shields.io/github/forks/shimpeiws/yuurei?style=flat-square&color=blue)](https://github.com/shimpeiws/yuurei/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Isolated, reproducible runtime environments for coding agents (Claude Code, Codex)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ shimpeiws/yuurei：shimpeiws/yuurei helps add AI capability without starting fro
 
 **Quality signals**
 
-- 1 GitHub stars
+- 2 GitHub stars
 - updated 2026-11-04
 - primary language: TypeScript
 - 11 topics
@@ -65,13 +65,13 @@ shimpeiws/yuurei：shimpeiws/yuurei helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 48/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 61/100 |
-| adoption | 5/100 |
+| production | 60/100 |
+| outlook | 62/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 200/100 |
-| stars | 6/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

@@ -35,7 +35,7 @@
 | 25 | [ivorpad/mercadona-cli](./ivorpad-mercadona-cli.md) | ⭐ 338 | Go | 73/100 |
 | 26 | [PipraPay/PipraPay](./piprapay-piprapay.md) | ⭐ 334 | PHP | 73/100 |
 | 27 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 176 | PHP | 73/100 |
-| 28 | [AgentaOS/agentaos](./agentaos-agentaos.md) | ⭐ 4 | TypeScript | 72/100 |
+| 28 | [AgentaOS/agentaos](./agentaos-agentaos.md) | ⭐ 8 | TypeScript | 72/100 |
 | 29 | [AfricasTalkingLtd/africastalking-python](./africastalkingltd-africastalking-python.md) | ⭐ 162 | Python | 72/100 |
 | 30 | [InvoicePlane/InvoicePlane](./invoiceplane-invoiceplane.md) | ⭐ 3.3k | PHP | 72/100 |
 | 31 | [fahad-hamid/psique-workflow-clinic](./fahad-hamid-psique-workflow-clinic.md) | ⭐ 120 | HTML | 72/100 |
@@ -63,7 +63,7 @@
 | 53 | [NVIDIA-AI-Blueprints/Retail-Agentic-Commerce](./nvidia-ai-blueprints-retail-agentic-commerce.md) | ⭐ 86 | Python | 68/100 |
 | 54 | [mag123c/toktrack](./mag123c-toktrack.md) | ⭐ 196 | Rust | 68/100 |
 | 55 | [ianjwhite99/opencode-with-claude](./ianjwhite99-opencode-with-claude.md) | ⭐ 628 | JavaScript | 68/100 |
-| 56 | [BrowyHQ/browy](./browyhq-browy.md) | ⭐ 6 | JavaScript | 67/100 |
+| 56 | [BrowyHQ/browy](./browyhq-browy.md) | ⭐ 7 | JavaScript | 67/100 |
 | 57 | [ellite/Wallos](./ellite-wallos.md) | ⭐ 8.8k | PHP | 67/100 |
 | 58 | [Floe-Labs/floe-guard](./floe-labs-floe-guard.md) | ⭐ 288 | Python | 67/100 |
 | 59 | [giancarloerra/JanuScope](./giancarloerra-januscope.md) | ⭐ 32 | TypeScript | 67/100 |
@@ -132,7 +132,7 @@
 | 122 | [aureuserp/aureuserp](./aureuserp-aureuserp.md) | ⭐ 12.2k | PHP | 61/100 |
 | 123 | [w3c/payment-request](./w3c-payment-request.md) | ⭐ 509 | HTML | 61/100 |
 | 124 | [stripe/stripe-ruby](./stripe-stripe-ruby.md) | ⭐ 2.2k | Ruby | 61/100 |
-| 125 | [designAtHotly/hotly-os](./designathotly-hotly-os.md) | ⭐ 4 | TypeScript | 60/100 |
+| 125 | [designAtHotly/hotly-os](./designathotly-hotly-os.md) | ⭐ 16 | TypeScript | 60/100 |
 | 126 | [AgenticFinanceGraph/agentic-finance-graph-mcp](./agenticfinancegraph-agentic-finance-graph-mcp.md) | ⭐ — | JavaScript | 60/100 |
 | 127 | [flovoice53-tech/acp-sandbox](./flovoice53-tech-acp-sandbox.md) | ⭐ — | TypeScript | 60/100 |
 | 128 | [ahmadzakiyox/gopay-api-gateaway](./ahmadzakiyox-gopay-api-gateaway.md) | ⭐ 278 | JavaScript | 60/100 |
@@ -222,7 +222,7 @@
 | 212 | [magnussolution/magnusbilling7](./magnussolution-magnusbilling7.md) | ⭐ — | JavaScript | 55/100 |
 | 213 | [samueltuyizere/oc-go-cc](./samueltuyizere-oc-go-cc.md) | ⭐ 299 | Go | 55/100 |
 | 214 | [WINBIGFOX/TimeScribe](./winbigfox-timescribe.md) | ⭐ 933 | PHP | 55/100 |
-| 215 | [riponcm/nextgenUp](./riponcm-nextgenup.md) | ⭐ 1 | JavaScript | 54/100 |
+| 215 | [riponcm/nextgenUp](./riponcm-nextgenup.md) | ⭐ 205 | JavaScript | 54/100 |
 | 216 | [Danialsamadi/v2go](./danialsamadi-v2go.md) | ⭐ 156 | Go | 54/100 |
 | 217 | [tempoxyz/mpp-specs](./tempoxyz-mpp-specs.md) | ⭐ 97 | Python | 54/100 |
 | 218 | [UllrAI/HeadShots.fun](./ullrai-headshots.fun.md) | ⭐ 128 | TypeScript | 54/100 |
@@ -233,8 +233,8 @@
 | 223 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 187 | PHP | 54/100 |
 | 224 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.7k | TypeScript | 54/100 |
 | 225 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 226 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 567 | — | 53/100 |
-| 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 649 | — | 53/100 |
+| 226 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 649 | — | 53/100 |
+| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 567 | — | 53/100 |
 | 228 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 229 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 230 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 88 | Rust | 53/100 |
@@ -330,7 +330,7 @@
 | 320 | [noclickapp/noclick](./noclickapp-noclick.md) | ⭐ — | — | 45/100 |
 | 321 | [tkeeper-org/tkeeper](./tkeeper-org-tkeeper.md) | ⭐ — | — | 45/100 |
 | 322 | [Quidli/connect-mcp](./quidli-connect-mcp.md) | ⭐ — | — | 45/100 |
-| 323 | [al1-nasir/gatekeep402](./al1-nasir-gatekeep402.md) | ⭐ — | — | 45/100 |
+| 323 | [al1-nasir/gatekeep402](./al1-nasir-gatekeep402.md) | ⭐ 4 | — | 45/100 |
 | 324 | [eunujwal/PaymentsAgents](./eunujwal-paymentsagents.md) | ⭐ — | — | 45/100 |
 | 325 | [dpro10/cookbook-meter](./dpro10-cookbook-meter.md) | ⭐ — | — | 45/100 |
 | 326 | [stripe/purl](./stripe-purl.md) | ⭐ 181 | Rust | 45/100 |
@@ -353,17 +353,17 @@
 | 343 | [DanielIoni-creator/MyZubsterAPP](./danielioni-creator-myzubsterapp.md) | ⭐ — | — | 42/100 |
 | 344 | [wkoverfield/quilt](./wkoverfield-quilt.md) | ⭐ — | — | 42/100 |
 | 345 | [pgquiles/opencode-muse](./pgquiles-opencode-muse.md) | ⭐ — | — | 41/100 |
-| 346 | [alt-f6/edtech-billing-core](./alt-f6-edtech-billing-core.md) | ⭐ — | — | 41/100 |
+| 346 | [alt-f6/edtech-billing-core](./alt-f6-edtech-billing-core.md) | ⭐ 1 | — | 41/100 |
 | 347 | [mortal7520/pci-scope-lens](./mortal7520-pci-scope-lens.md) | ⭐ — | — | 41/100 |
 | 348 | [magna56/fiscallm](./magna56-fiscallm.md) | ⭐ — | — | 41/100 |
 | 349 | [masondosibongakonke2-blip/yodpay-core](./masondosibongakonke2-blip-yodpay-core.md) | ⭐ — | — | 41/100 |
 | 350 | [mceleri/attenuated-agent-budgets](./mceleri-attenuated-agent-budgets.md) | ⭐ — | — | 41/100 |
-| 351 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 1 | Python | 41/100 |
+| 351 | [EnchStyle/JobAgent](./enchstyle-jobagent.md) | ⭐ 5 | Python | 41/100 |
 | 352 | [Liatir/liatir-app](./liatir-liatir-app.md) | ⭐ — | — | 41/100 |
 | 353 | [loriscomba97/stripe-catalogue-migration](./loriscomba97-stripe-catalogue-migration.md) | ⭐ — | — | 41/100 |
 | 354 | [ccycv/openusage](./ccycv-openusage.md) | ⭐ — | — | 41/100 |
 | 355 | [stoix-dev/sefaz-webservices-postman](./stoix-dev-sefaz-webservices-postman.md) | ⭐ — | — | 41/100 |
-| 356 | [allixsenos/asu](./allixsenos-asu.md) | ⭐ — | — | 41/100 |
+| 356 | [allixsenos/asu](./allixsenos-asu.md) | ⭐ 6 | — | 41/100 |
 | 357 | [devmster/x402-trinity-gaming](./devmster-x402-trinity-gaming.md) | ⭐ — | — | 41/100 |
 | 358 | [joey-io/gauge](./joey-io-gauge.md) | ⭐ — | — | 41/100 |
 | 359 | [dwyl/learn-payment-processing](./dwyl-learn-payment-processing.md) | ⭐ 52 | Elixir | 41/100 |

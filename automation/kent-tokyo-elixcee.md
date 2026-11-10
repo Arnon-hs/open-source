@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 51/100 |
@@ -64,18 +64,18 @@ kent-tokyo/elixcee：kent-tokyo/elixcee helps remove repetitive manual operation
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 38/100 |
-| integration | 62/100 |
-| production | 46/100 |
-| outlook | 47/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 38/100 |
+| recency | 40/100 |
+| adoption | 5/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

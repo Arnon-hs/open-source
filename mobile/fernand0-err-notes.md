@@ -1,6 +1,6 @@
 # fernand0/err-notes
 
-[![Stars](https://img.shields.io/github/stars/fernand0/err-notes?style=flat-square&color=yellow)](https://github.com/fernand0/err-notes/stargazers) [![Forks](https://img.shields.io/github/forks/fernand0/err-notes?style=flat-square&color=blue)](https://github.com/fernand0/err-notes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fernand0/err-notes?style=flat-square&color=yellow)](https://github.com/fernand0/err-notes/stargazers) [![Forks](https://img.shields.io/github/forks/fernand0/err-notes?style=flat-square&color=blue)](https://github.com/fernand0/err-notes/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A plugin to use another-note-taking-app from errbot
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-08-12 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ fernand0/err-notes：fernand0/err-notes may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 30/100 |
+| quality | 25/100 |
 | integration | 78/100 |
-| production | 45/100 |
-| outlook | 42/100 |
+| production | 39/100 |
+| outlook | 35/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| recency | 20/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

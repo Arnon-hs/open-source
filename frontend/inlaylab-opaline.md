@@ -1,6 +1,6 @@
 # Inlaylab/Opaline
 
-[![Stars](https://img.shields.io/github/stars/Inlaylab/Opaline?style=flat-square&color=yellow)](https://github.com/Inlaylab/Opaline/stargazers) [![Forks](https://img.shields.io/github/forks/Inlaylab/Opaline?style=flat-square&color=blue)](https://github.com/Inlaylab/Opaline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Inlaylab/Opaline?style=flat-square&color=yellow)](https://github.com/Inlaylab/Opaline/stargazers) [![Forks](https://img.shields.io/github/forks/Inlaylab/Opaline?style=flat-square&color=blue)](https://github.com/Inlaylab/Opaline/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Give every user a face. Seeded, deterministic SVG avatars for React, Vue, Angular, Svelte & Web Components. Zero deps, SSR-safe, MIT.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2 |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ Inlaylab/Opaline：Inlaylab/Opaline helps ship user-facing interfaces with less 
 
 **Quality signals**
 
-- 2 GitHub stars
+- 4 GitHub stars
 - updated 2026-11-06
 - primary language: TypeScript
 - 4 topics
@@ -65,13 +65,13 @@ Inlaylab/Opaline：Inlaylab/Opaline helps ship user-facing interfaces with less 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 41/100 |
+| quality | 43/100 |
 | integration | 46/100 |
 | production | 55/100 |
-| outlook | 50/100 |
-| adoption | 7/100 |
+| outlook | 51/100 |
+| adoption | 11/100 |
 | categoryMatchCount | 100/100 |
-| stars | 10/100 |
+| stars | 15/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 50/100 |

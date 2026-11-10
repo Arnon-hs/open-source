@@ -1,6 +1,6 @@
 # alexliyu7352/for-you-skills
 
-[![Stars](https://img.shields.io/github/stars/alexliyu7352/for-you-skills?style=flat-square&color=yellow)](https://github.com/alexliyu7352/for-you-skills/stargazers) [![Forks](https://img.shields.io/github/forks/alexliyu7352/for-you-skills?style=flat-square&color=blue)](https://github.com/alexliyu7352/for-you-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alexliyu7352/for-you-skills?style=flat-square&color=yellow)](https://github.com/alexliyu7352/for-you-skills/stargazers) [![Forks](https://img.shields.io/github/forks/alexliyu7352/for-you-skills?style=flat-square&color=blue)](https://github.com/alexliyu7352/for-you-skills/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > X.com / Twitter algorithm skills built from real source-code analysis. 8 skills, 578 knowledge entries, 396 source links. Review drafts, choose Post vs Article, fact-check growth claims and diagnose reach. For Claude Code, Codex, Gemini CLI, Cursor, GitHub Copilot and OpenCode.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2 |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ alexliyu7352/for-you-skills：alexliyu7352/for-you-skills helps add AI capabilit
 
 **Quality signals**
 
-- 2 GitHub stars
+- 3 GitHub stars
 - 1 forks
 - updated 2026-11-07
 - primary language: Python
@@ -66,13 +66,13 @@ alexliyu7352/for-you-skills：alexliyu7352/for-you-skills helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 50/100 |
+| quality | 51/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 62/100 |
-| adoption | 9/100 |
+| production | 63/100 |
+| outlook | 63/100 |
+| adoption | 11/100 |
 | categoryMatchCount | 200/100 |
-| stars | 10/100 |
+| stars | 13/100 |
 | forks | 8/100 |
 | recency | 80/100 |
 | topics | 100/100 |

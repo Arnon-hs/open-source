@@ -1,6 +1,6 @@
 # Nutts5796/logiparity
 
-[![Stars](https://img.shields.io/github/stars/Nutts5796/logiparity?style=flat-square&color=yellow)](https://github.com/Nutts5796/logiparity/stargazers) [![Forks](https://img.shields.io/github/forks/Nutts5796/logiparity?style=flat-square&color=blue)](https://github.com/Nutts5796/logiparity/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Nutts5796/logiparity?style=flat-square&color=yellow)](https://github.com/Nutts5796/logiparity/stargazers) [![Forks](https://img.shields.io/github/forks/Nutts5796/logiparity?style=flat-square&color=blue)](https://github.com/Nutts5796/logiparity/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Data parity and disruption testing for logistics software: compare records across UI, API, CSV/XLSX exports and SQL, and verify that dispatch systems re-plan correctly after driver no-shows, breakdowns and delays. For test and staging environments.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ Nutts5796/logiparity：Nutts5796/logiparity helps remove repetitive manual opera
 
 **Quality signals**
 
-- 1 GitHub stars
+- 5 GitHub stars
 - updated 2026-11-03
 - primary language: TypeScript
 - 8 topics
@@ -65,13 +65,13 @@ Nutts5796/logiparity：Nutts5796/logiparity helps remove repetitive manual opera
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 48/100 |
+| quality | 51/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 61/100 |
-| adoption | 5/100 |
+| production | 63/100 |
+| outlook | 63/100 |
+| adoption | 12/100 |
 | categoryMatchCount | 100/100 |
-| stars | 6/100 |
+| stars | 17/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

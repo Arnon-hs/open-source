@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1 |
-| 🍴 **Forks** | — |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-07 |
@@ -54,6 +54,7 @@ datafund/swarm_connect：datafund/swarm_connect helps prototype or inspect block
 **Quality signals**
 
 - 1 GitHub stars
+- 1 forks
 - updated 2026-10-07
 - primary language: Python
 - 15 topics
@@ -65,14 +66,14 @@ datafund/swarm_connect：datafund/swarm_connect helps prototype or inspect block
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 38/100 |
+| quality | 39/100 |
 | integration | 62/100 |
 | production | 46/100 |
 | outlook | 47/100 |
-| adoption | 5/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 400/100 |
 | stars | 6/100 |
-| forks | 0/100 |
+| forks | 8/100 |
 | recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

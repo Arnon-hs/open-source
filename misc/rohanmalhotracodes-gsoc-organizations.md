@@ -1,6 +1,6 @@
 # rohanmalhotracodes/GSoC-Organizations
 
-[![Stars](https://img.shields.io/github/stars/rohanmalhotracodes/GSoC-Organizations?style=flat-square&color=yellow)](https://github.com/rohanmalhotracodes/GSoC-Organizations/stargazers) [![Forks](https://img.shields.io/github/forks/rohanmalhotracodes/GSoC-Organizations?style=flat-square&color=blue)](https://github.com/rohanmalhotracodes/GSoC-Organizations/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rohanmalhotracodes/GSoC-Organizations?style=flat-square&color=yellow)](https://github.com/rohanmalhotracodes/GSoC-Organizations/stargazers) [![Forks](https://img.shields.io/github/forks/rohanmalhotracodes/GSoC-Organizations?style=flat-square&color=blue)](https://github.com/rohanmalhotracodes/GSoC-Organizations/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive directory of all Google Summer of Code (GSoC) organizations, helping aspiring open-source contributors discover projects, explore participation history, and find opportunities to contribute.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 9 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -51,7 +51,8 @@ rohanmalhotracodes/GSoC-Organizations：rohanmalhotracodes/GSoC-Organizations ma
 
 **Quality signals**
 
-- 6 GitHub stars
+- 9 GitHub stars
+- 1 forks
 - updated 2026-11-08
 - primary language: TypeScript
 - 21 topics
@@ -63,14 +64,14 @@ rohanmalhotracodes/GSoC-Organizations：rohanmalhotracodes/GSoC-Organizations ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 56/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 64/100 |
-| adoption | 13/100 |
+| production | 68/100 |
+| outlook | 65/100 |
+| adoption | 17/100 |
 | categoryMatchCount | 0/100 |
-| stars | 18/100 |
-| forks | 0/100 |
+| stars | 21/100 |
+| forks | 8/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

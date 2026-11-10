@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
@@ -53,7 +53,7 @@ dk-labs-dev/flightpath：dk-labs-dev/flightpath helps remove repetitive manual o
 
 **Quality signals**
 
-- 3 GitHub stars
+- 4 GitHub stars
 - updated 2026-11-09
 - primary language: TypeScript
 - 18 topics
@@ -69,9 +69,9 @@ dk-labs-dev/flightpath：dk-labs-dev/flightpath helps remove repetitive manual o
 | integration | 62/100 |
 | production | 67/100 |
 | outlook | 69/100 |
-| adoption | 9/100 |
+| adoption | 11/100 |
 | categoryMatchCount | 400/100 |
-| stars | 13/100 |
+| stars | 15/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5 |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
@@ -53,7 +53,7 @@ circuitlab-app/circuitlab：circuitlab-app/circuitlab helps add AI capability wi
 
 **Quality signals**
 
-- 5 GitHub stars
+- 6 GitHub stars
 - 7 forks
 - updated 2026-11-08
 - primary language: TypeScript
@@ -70,9 +70,9 @@ circuitlab-app/circuitlab：circuitlab-app/circuitlab helps add AI capability wi
 | integration | 62/100 |
 | production | 68/100 |
 | outlook | 68/100 |
-| adoption | 18/100 |
+| adoption | 19/100 |
 | categoryMatchCount | 200/100 |
-| stars | 17/100 |
+| stars | 18/100 |
 | forks | 23/100 |
 | recency | 100/100 |
 | topics | 100/100 |

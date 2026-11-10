@@ -300,7 +300,7 @@
 | 290 | [BasisVR/Basis](./basisvr-basis.md) | ⭐ 535 | C# | 47/100 |
 | 291 | [dkfans/keeperfx](./dkfans-keeperfx.md) | ⭐ 1k | C | 47/100 |
 | 292 | [microsoft/DirectXMesh](./microsoft-directxmesh.md) | ⭐ 861 | C++ | 47/100 |
-| 293 | [ZhuNemo/locus-earth](./zhunemo-locus-earth.md) | ⭐ 3 | JavaScript | 46/100 |
+| 293 | [ZhuNemo/locus-earth](./zhunemo-locus-earth.md) | ⭐ 4 | JavaScript | 46/100 |
 | 294 | [z2586300277/three-cesium-examples](./z2586300277-three-cesium-examples.md) | ⭐ 2.2k | JavaScript | 46/100 |
 | 295 | [GaijinEntertainment/daScript](./gaijinentertainment-dascript.md) | ⭐ 1.2k | C | 46/100 |
 | 296 | [ash-rs/ash](./ash-rs-ash.md) | ⭐ 2.4k | Rust | 46/100 |
@@ -341,13 +341,13 @@
 | 331 | [enkiruntime/enki](./enkiruntime-enki.md) | ⭐ — | — | 41/100 |
 | 332 | [xanpavle/rocmfix](./xanpavle-rocmfix.md) | ⭐ — | — | 41/100 |
 | 333 | [rccmb/oracle](./rccmb-oracle.md) | ⭐ — | — | 41/100 |
-| 334 | [aethelisdev/aeon-engine](./aethelisdev-aeon-engine.md) | ⭐ — | — | 41/100 |
+| 334 | [aethelisdev/aeon-engine](./aethelisdev-aeon-engine.md) | ⭐ 25 | — | 41/100 |
 | 335 | [asallay/godot-llm](./asallay-godot-llm.md) | ⭐ — | — | 41/100 |
 | 336 | [leejet/stable-diffusion.cpp](./leejet-stable-diffusion.cpp.md) | ⭐ — | — | 40/100 |
 | 337 | [Ishan5hrestha/SapanaEngine](./ishan5hrestha-sapanaengine.md) | ⭐ — | C++ | 39/100 |
 | 338 | [alwaysaladdin/queens-game-engine](./alwaysaladdin-queens-game-engine.md) | ⭐ — | TypeScript | 39/100 |
 | 339 | [Pengeszikra/Spider-Paint](./pengeszikra-spider-paint.md) | ⭐ 1 | HTML | 39/100 |
-| 340 | [111nation/TinyEngine](./111nation-tinyengine.md) | ⭐ — | — | 38/100 |
+| 340 | [111nation/TinyEngine](./111nation-tinyengine.md) | ⭐ 3 | — | 38/100 |
 | 341 | [serjster/neowon](./serjster-neowon.md) | ⭐ — | — | 38/100 |
 | 342 | [David-OConnor/graphics](./david-oconnor-graphics.md) | ⭐ — | — | 38/100 |
 | 343 | [float64co/Phi](./float64co-phi.md) | ⭐ — | — | 38/100 |

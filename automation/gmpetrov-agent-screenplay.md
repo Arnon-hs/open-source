@@ -1,6 +1,6 @@
 # gmpetrov/agent-screenplay
 
-[![Stars](https://img.shields.io/github/stars/gmpetrov/agent-screenplay?style=flat-square&color=yellow)](https://github.com/gmpetrov/agent-screenplay/stargazers) [![Forks](https://img.shields.io/github/forks/gmpetrov/agent-screenplay?style=flat-square&color=blue)](https://github.com/gmpetrov/agent-screenplay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gmpetrov/agent-screenplay?style=flat-square&color=yellow)](https://github.com/gmpetrov/agent-screenplay/stargazers) [![Forks](https://img.shields.io/github/forks/gmpetrov/agent-screenplay?style=flat-square&color=blue)](https://github.com/gmpetrov/agent-screenplay/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Beautiful screen recordings, made by your favorite AI agent.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 106 |
+| 🍴 **Forks** | 4 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,8 @@ gmpetrov/agent-screenplay：gmpetrov/agent-screenplay helps remove repetitive ma
 
 **Quality signals**
 
-- 3 GitHub stars
+- 106 GitHub stars
+- 4 forks
 - updated 2026-11-03
 - primary language: TypeScript
 - 11 topics
@@ -65,14 +66,14 @@ gmpetrov/agent-screenplay：gmpetrov/agent-screenplay helps remove repetitive ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 50/100 |
+| quality | 62/100 |
 | integration | 78/100 |
-| production | 62/100 |
-| outlook | 62/100 |
-| adoption | 9/100 |
+| production | 67/100 |
+| outlook | 69/100 |
+| adoption | 36/100 |
 | categoryMatchCount | 100/100 |
-| stars | 13/100 |
-| forks | 0/100 |
+| stars | 43/100 |
+| forks | 17/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

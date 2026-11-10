@@ -1,6 +1,6 @@
 # codie1982/chorono-editor
 
-[![Stars](https://img.shields.io/github/stars/codie1982/chorono-editor?style=flat-square&color=yellow)](https://github.com/codie1982/chorono-editor/stargazers) [![Forks](https://img.shields.io/github/forks/codie1982/chorono-editor?style=flat-square&color=blue)](https://github.com/codie1982/chorono-editor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/codie1982/chorono-editor?style=flat-square&color=yellow)](https://github.com/codie1982/chorono-editor/stargazers) [![Forks](https://img.shields.io/github/forks/codie1982/chorono-editor?style=flat-square&color=blue)](https://github.com/codie1982/chorono-editor/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source 2D animation editor. Create with Claude Code or Codex via MCP, then refine layers and keyframes visually.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 8 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ codie1982/chorono-editor：codie1982/chorono-editor helps connect AI assistants 
 
 **Quality signals**
 
-- 1 GitHub stars
+- 8 GitHub stars
 - updated 2026-11-05
 - primary language: TypeScript
 - 14 topics
@@ -65,13 +65,13 @@ codie1982/chorono-editor：codie1982/chorono-editor helps connect AI assistants 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 48/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 59/100 |
-| outlook | 61/100 |
-| adoption | 5/100 |
+| production | 61/100 |
+| outlook | 63/100 |
+| adoption | 15/100 |
 | categoryMatchCount | 100/100 |
-| stars | 6/100 |
+| stars | 20/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

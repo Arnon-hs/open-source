@@ -117,13 +117,13 @@
 | 107 | [CharlesPikachu/videodl](./charlespikachu-videodl.md) | ⭐ 3.2k | Python | 60/100 |
 | 108 | [liuhaisi2026212-maker/taishang-laojun](./liuhaisi2026212-maker-taishang-laojun.md) | ⭐ 533 | Markdown | 59/100 |
 | 109 | [hanli1999/video-breakdown-skill](./hanli1999-video-breakdown-skill.md) | ⭐ 12 | — | 59/100 |
-| 110 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 3 | Python | 59/100 |
+| 110 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 4 | Python | 59/100 |
 | 111 | [kurbaitaev/ghost-editor](./kurbaitaev-ghost-editor.md) | ⭐ 339 | JavaScript | 59/100 |
 | 112 | [XshuiAi/media-publish-check](./xshuiai-media-publish-check.md) | ⭐ 72 | Python | 59/100 |
 | 113 | [SamurAIGPT/ai-clipping-generator](./samuraigpt-ai-clipping-generator.md) | ⭐ 114 | JavaScript | 59/100 |
 | 114 | [m1ng-li/mac-thermalright-ai-monitor](./m1ng-li-mac-thermalright-ai-monitor.md) | ⭐ 61 | Swift | 59/100 |
 | 115 | [threerocks/article2media](./threerocks-article2media.md) | ⭐ 54 | JavaScript | 58/100 |
-| 116 | [DeadY2J/factreel](./deady2j-factreel.md) | ⭐ 2 | Python | 58/100 |
+| 116 | [DeadY2J/factreel](./deady2j-factreel.md) | ⭐ 3 | Python | 58/100 |
 | 117 | [wchhywizd/vibe-knowledge-interactive](./wchhywizd-vibe-knowledge-interactive.md) | ⭐ 22 | HTML | 58/100 |
 | 118 | [kevinbadi/claude-codes-influencers](./kevinbadi-claude-codes-influencers.md) | ⭐ 40 | Python | 58/100 |
 | 119 | [jaxxchen003/book-video-factory](./jaxxchen003-book-video-factory.md) | ⭐ 113 | Python | 58/100 |
@@ -165,8 +165,8 @@
 | 155 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 2.4k | JavaScript | 50/100 |
 | 156 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ — | — | 48/100 |
 | 157 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 42 | — | 47/100 |
-| 158 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
-| 159 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
+| 158 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
+| 159 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
 | 160 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 37 | JavaScript | 47/100 |
 | 161 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ — | — | 45/100 |
 | 162 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |

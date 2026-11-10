@@ -274,7 +274,7 @@
 | 264 | [mpiorowski/late-sh](./mpiorowski-late-sh.md) | ⭐ 1.5k | Rust | 51/100 |
 | 265 | [thunderbird/thunderbird-android](./thunderbird-thunderbird-android.md) | ⭐ 14.2k | Kotlin | 51/100 |
 | 266 | [aeron-io/aeron](./aeron-io-aeron.md) | ⭐ 9k | Java | 51/100 |
-| 267 | [edulazaro/laragents](./edulazaro-laragents.md) | ⭐ 1 | PHP | 50/100 |
+| 267 | [edulazaro/laragents](./edulazaro-laragents.md) | ⭐ 5 | PHP | 50/100 |
 | 268 | [inline-chat/inline](./inline-chat-inline.md) | ⭐ 909 | Rust | 50/100 |
 | 269 | [OpenClaudia/openclaudia-skills](./openclaudia-openclaudia-skills.md) | ⭐ 736 | JavaScript | 50/100 |
 | 270 | [open-chat-labs/open-chat](./open-chat-labs-open-chat.md) | ⭐ 208 | Rust | 50/100 |
@@ -283,7 +283,7 @@
 | 273 | [nextcloud/spreed](./nextcloud-spreed.md) | ⭐ 2.2k | JavaScript | 50/100 |
 | 274 | [Expensify/App](./expensify-app.md) | ⭐ 5.1k | TypeScript | 50/100 |
 | 275 | [panda-sandeep/dearagent](./panda-sandeep-dearagent.md) | ⭐ — | — | 49/100 |
-| 276 | [adecubed/gigamail](./adecubed-gigamail.md) | ⭐ — | — | 49/100 |
+| 276 | [adecubed/gigamail](./adecubed-gigamail.md) | ⭐ 18 | — | 49/100 |
 | 277 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 630 | Kotlin | 49/100 |
 | 278 | [awslabs/mls-rs](./awslabs-mls-rs.md) | ⭐ 262 | Rust | 49/100 |
 | 279 | [freenet/river](./freenet-river.md) | ⭐ 314 | Rust | 49/100 |
@@ -312,7 +312,7 @@
 | 302 | [munimv2/federal-prize-feed](./munimv2-federal-prize-feed.md) | ⭐ — | Python | 46/100 |
 | 303 | [permissionlesstech/bitchat-android](./permissionlesstech-bitchat-android.md) | ⭐ 8k | Kotlin | 46/100 |
 | 304 | [persian-calendar/persian-calendar](./persian-calendar-persian-calendar.md) | ⭐ 995 | Kotlin | 46/100 |
-| 305 | [agentisend/agent-email-guard](./agentisend-agent-email-guard.md) | ⭐ — | — | 45/100 |
+| 305 | [agentisend/agent-email-guard](./agentisend-agent-email-guard.md) | ⭐ 5 | — | 45/100 |
 | 306 | [paoloviviani/Cerea](./paoloviviani-cerea.md) | ⭐ — | — | 45/100 |
 | 307 | [wcook04/agent-trace-mechanism](./wcook04-agent-trace-mechanism.md) | ⭐ — | — | 45/100 |
 | 308 | [altrudev/Hush-Relay](./altrudev-hush-relay.md) | ⭐ — | — | 45/100 |
@@ -326,14 +326,14 @@
 | 316 | [eyeguide-dev/speakvora-pack-agent](./eyeguide-dev-speakvora-pack-agent.md) | ⭐ — | — | 45/100 |
 | 317 | [cw12574/abralo-workspace](./cw12574-abralo-workspace.md) | ⭐ — | — | 45/100 |
 | 318 | [yoavshalev/live-video-chat](./yoavshalev-live-video-chat.md) | ⭐ — | — | 45/100 |
-| 319 | [alphasolutionsrepo/interakt](./alphasolutionsrepo-interakt.md) | ⭐ — | — | 45/100 |
+| 319 | [alphasolutionsrepo/interakt](./alphasolutionsrepo-interakt.md) | ⭐ 18 | — | 45/100 |
 | 320 | [R44VC0RP/opensend](./r44vc0rp-opensend.md) | ⭐ — | — | 45/100 |
 | 321 | [vilaca/cursor-chat-cleaner](./vilaca-cursor-chat-cleaner.md) | ⭐ — | — | 45/100 |
 | 322 | [WICG/email-verification](./wicg-email-verification.md) | ⭐ — | — | 45/100 |
 | 323 | [initsixdev/QTC](./initsixdev-qtc.md) | ⭐ — | — | 45/100 |
 | 324 | [matt0x6F/irc-client](./matt0x6f-irc-client.md) | ⭐ — | — | 45/100 |
 | 325 | [anuragmerndev/kontext-ai](./anuragmerndev-kontext-ai.md) | ⭐ — | — | 45/100 |
-| 326 | [3kh0/slick](./3kh0-slick.md) | ⭐ — | — | 45/100 |
+| 326 | [3kh0/slick](./3kh0-slick.md) | ⭐ 119 | — | 45/100 |
 | 327 | [stalwartlabs/mail-parser](./stalwartlabs-mail-parser.md) | ⭐ 477 | Rust | 45/100 |
 | 328 | [shellscape/jsx-email](./shellscape-jsx-email.md) | ⭐ 1.3k | TypeScript | 45/100 |
 | 329 | [continuwuity/continuwuity](./continuwuity-continuwuity.md) | ⭐ 1.2k | Rust | 45/100 |
@@ -345,8 +345,8 @@
 | 335 | [zai-org/feedback](./zai-org-feedback.md) | ⭐ — | — | 44/100 |
 | 336 | [mahdyaralipor/parsidate](./mahdyaralipor-parsidate.md) | ⭐ 10 | PHP | 44/100 |
 | 337 | [jafoers/kalkee](./jafoers-kalkee.md) | ⭐ — | — | 44/100 |
-| 338 | [effessdev/reptclip](./effessdev-reptclip.md) | ⭐ 1 | Python | 44/100 |
-| 339 | [royalpinto007/Kabootar](./royalpinto007-kabootar.md) | ⭐ 2 | Dart | 43/100 |
+| 338 | [effessdev/reptclip](./effessdev-reptclip.md) | ⭐ — | Python | 44/100 |
+| 339 | [royalpinto007/Kabootar](./royalpinto007-kabootar.md) | ⭐ 3 | Dart | 43/100 |
 | 340 | [ahmad-maqsood/unitask](./ahmad-maqsood-unitask.md) | ⭐ 2 | Kotlin | 42/100 |
 | 341 | [Arthur031221/ChitWeave](./arthur031221-chitweave.md) | ⭐ 1 | JavaScript | 42/100 |
 | 342 | [AniketWathore/bolnee-chat](./aniketwathore-bolnee-chat.md) | ⭐ — | — | 42/100 |
@@ -371,7 +371,7 @@
 | 361 | [mre/thundervim](./mre-thundervim.md) | ⭐ — | — | 41/100 |
 | 362 | [nashbridges/dial-r-for-reply](./nashbridges-dial-r-for-reply.md) | ⭐ — | — | 41/100 |
 | 363 | [mestr-io/channelvault](./mestr-io-channelvault.md) | ⭐ — | — | 41/100 |
-| 364 | [adrianCX/picohive-epaper](./adriancx-picohive-epaper.md) | ⭐ — | — | 41/100 |
+| 364 | [adrianCX/picohive-epaper](./adriancx-picohive-epaper.md) | ⭐ 1 | — | 41/100 |
 | 365 | [azc5OQ/lemon-chat](./azc5oq-lemon-chat.md) | ⭐ — | — | 41/100 |
 | 366 | [VictorTaelin/uniichat](./victortaelin-uniichat.md) | ⭐ — | — | 41/100 |
 | 367 | [UKA-135/deepseek-long-thread-record](./uka-135-deepseek-long-thread-record.md) | ⭐ — | — | 41/100 |
@@ -404,7 +404,7 @@
 | 394 | [standchat/examples](./standchat-examples.md) | ⭐ — | — | 41/100 |
 | 395 | [achempion/tlx](./achempion-tlx.md) | ⭐ — | — | 41/100 |
 | 396 | [Inkline-Verify/ProofOfHuman](./inkline-verify-proofofhuman.md) | ⭐ — | — | 41/100 |
-| 397 | [Aaronmike481/BreachScanner](./aaronmike481-breachscanner.md) | ⭐ — | — | 41/100 |
+| 397 | [Aaronmike481/BreachScanner](./aaronmike481-breachscanner.md) | ⭐ 1 | — | 41/100 |
 | 398 | [bilalyazicioglu/tincan-cli](./bilalyazicioglu-tincan-cli.md) | ⭐ — | — | 41/100 |
 | 399 | [theletterf/comic-chat-ai](./theletterf-comic-chat-ai.md) | ⭐ — | — | 41/100 |
 | 400 | [OlegIGalkin/tendayweekcalendar](./olegigalkin-tendayweekcalendar.md) | ⭐ — | — | 41/100 |
@@ -412,7 +412,7 @@
 | 402 | [OlegIGalkin/Nextpage](./olegigalkin-nextpage.md) | ⭐ — | — | 41/100 |
 | 403 | [mabdullahb/Locus](./mabdullahb-locus.md) | ⭐ — | — | 41/100 |
 | 404 | [dahlia/upyo](./dahlia-upyo.md) | ⭐ — | — | 41/100 |
-| 405 | [ajaynyayapathi/Gmail-AI-Threat-Scanner](./ajaynyayapathi-gmail-ai-threat-scanner.md) | ⭐ — | — | 41/100 |
+| 405 | [ajaynyayapathi/Gmail-AI-Threat-Scanner](./ajaynyayapathi-gmail-ai-threat-scanner.md) | ⭐ 3 | — | 41/100 |
 | 406 | [Donzaaa/Noxe](./donzaaa-noxe.md) | ⭐ — | — | 41/100 |
 | 407 | [RishabhKodes/blinks](./rishabhkodes-blinks.md) | ⭐ — | — | 41/100 |
 | 408 | [R44VC0RP/superlocal](./r44vc0rp-superlocal.md) | ⭐ — | — | 41/100 |
@@ -425,8 +425,8 @@
 | 415 | [rajibbora1965/WhatsAppCoding](./rajibbora1965-whatsappcoding.md) | ⭐ — | — | 41/100 |
 | 416 | [djc/tokio-imap](./djc-tokio-imap.md) | ⭐ 132 | Rust | 41/100 |
 | 417 | [5012763083a-oss/email-list-cleaner](./5012763083a-oss-email-list-cleaner.md) | ⭐ — | JavaScript | 41/100 |
-| 418 | [ssanaullahrais/Chat-Vault](./ssanaullahrais-chat-vault.md) | ⭐ 1 | TypeScript | 40/100 |
-| 419 | [allure-framework/allure3](./allure-framework-allure3.md) | ⭐ — | — | 40/100 |
+| 418 | [ssanaullahrais/Chat-Vault](./ssanaullahrais-chat-vault.md) | ⭐ 82 | TypeScript | 40/100 |
+| 419 | [allure-framework/allure3](./allure-framework-allure3.md) | ⭐ 451 | — | 40/100 |
 | 420 | [RivierGrullon/mailrules](./riviergrullon-mailrules.md) | ⭐ — | TypeScript | 39/100 |
 | 421 | [2db2du-byte/hitchhikers-guide](./2db2du-byte-hitchhikers-guide.md) | ⭐ — | Python | 39/100 |
 | 422 | [zSnowww/slothsort](./zsnowww-slothsort.md) | ⭐ — | Python | 39/100 |
@@ -447,8 +447,8 @@
 | 437 | [luoxiprovo/bearmail](./luoxiprovo-bearmail.md) | ⭐ — | — | 38/100 |
 | 438 | [john-abah/ABAH_CHAT](./john-abah-abah-chat.md) | ⭐ — | — | 38/100 |
 | 439 | [beescuit/chatflare](./beescuit-chatflare.md) | ⭐ — | — | 38/100 |
-| 440 | [alejandrocora/WhatsAppMediaEnumeration](./alejandrocora-whatsappmediaenumeration.md) | ⭐ — | — | 38/100 |
-| 441 | [3kh0/slack-datamine](./3kh0-slack-datamine.md) | ⭐ — | — | 38/100 |
+| 440 | [alejandrocora/WhatsAppMediaEnumeration](./alejandrocora-whatsappmediaenumeration.md) | ⭐ 4 | — | 38/100 |
+| 441 | [3kh0/slack-datamine](./3kh0-slack-datamine.md) | ⭐ 11 | — | 38/100 |
 | 442 | [MatrAIx-ai/MatrAIx-Persona-8B](./matraix-ai-matraix-persona-8b.md) | ⭐ — | — | 38/100 |
 | 443 | [Tonterias/h2aichat`](./tonterias-h2aichat-.md) | ⭐ — | — | 38/100 |
 | 444 | [Fake4d/claude-school](./fake4d-claude-school.md) | ⭐ — | — | 38/100 |

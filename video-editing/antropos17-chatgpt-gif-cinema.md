@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
@@ -53,7 +53,7 @@ antropos17/chatgpt-gif-cinema：antropos17/chatgpt-gif-cinema helps turn media e
 
 **Quality signals**
 
-- 3 GitHub stars
+- 4 GitHub stars
 - updated 2026-11-06
 - primary language: Python
 - 14 topics
@@ -69,9 +69,9 @@ antropos17/chatgpt-gif-cinema：antropos17/chatgpt-gif-cinema helps turn media e
 | integration | 62/100 |
 | production | 60/100 |
 | outlook | 62/100 |
-| adoption | 9/100 |
+| adoption | 11/100 |
 | categoryMatchCount | 500/100 |
-| stars | 13/100 |
+| stars | 15/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

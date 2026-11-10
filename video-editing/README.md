@@ -198,8 +198,8 @@
 | 188 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 103 | Swift | 67/100 |
 | 189 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 226 | Python | 67/100 |
 | 190 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 305 | TypeScript | 67/100 |
-| 191 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 253 | JavaScript | 67/100 |
-| 192 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 373 | TypeScript | 67/100 |
+| 191 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 373 | TypeScript | 67/100 |
+| 192 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 253 | JavaScript | 67/100 |
 | 193 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 239 | Go | 67/100 |
 | 194 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 195 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 133 | Python | 67/100 |
@@ -436,7 +436,7 @@
 | 426 | [yohasebe/whisper-stream](./yohasebe-whisper-stream.md) | ⭐ 131 | Shell | 58/100 |
 | 427 | [vanloctech/youwee](./vanloctech-youwee.md) | ⭐ 1.6k | TypeScript | 58/100 |
 | 428 | [Arthur031221/Spokecut](./arthur031221-spokecut.md) | ⭐ — | Python | 58/100 |
-| 429 | [antropos17/chatgpt-gif-cinema](./antropos17-chatgpt-gif-cinema.md) | ⭐ 3 | Python | 58/100 |
+| 429 | [antropos17/chatgpt-gif-cinema](./antropos17-chatgpt-gif-cinema.md) | ⭐ 4 | Python | 58/100 |
 | 430 | [bcmi/Light-A-Video](./bcmi-light-a-video.md) | ⭐ 528 | Python | 57/100 |
 | 431 | [SolarLanceRejuvenate/Cap-Cut-Unlock](./solarlancerejuvenate-cap-cut-unlock.md) | ⭐ 21 | — | 57/100 |
 | 432 | [SolarLanceRejuvenate/CapCut-Pro-Unlock](./solarlancerejuvenate-capcut-pro-unlock.md) | ⭐ 21 | — | 57/100 |
@@ -539,7 +539,7 @@
 | 529 | [haasn/libplacebo](./haasn-libplacebo.md) | ⭐ 810 | C | 50/100 |
 | 530 | [ffplayout/ffplayout](./ffplayout-ffplayout.md) | ⭐ 598 | Rust | 50/100 |
 | 531 | [vaughnn/burned-in-subtitle-removal-benchmark](./vaughnn-burned-in-subtitle-removal-benchmark.md) | ⭐ — | — | 49/100 |
-| 532 | [adalbertobrant/animagit](./adalbertobrant-animagit.md) | ⭐ — | — | 49/100 |
+| 532 | [adalbertobrant/animagit](./adalbertobrant-animagit.md) | ⭐ 2 | — | 49/100 |
 | 533 | [remotion-dev/github-unwrapped-2023](./remotion-dev-github-unwrapped-2023.md) | ⭐ — | — | 49/100 |
 | 534 | [PunithVT/ai-avatar-system](./punithvt-ai-avatar-system.md) | ⭐ 573 | Python | 49/100 |
 | 535 | [1Step621/zerium](./1step621-zerium.md) | ⭐ 66 | Rust | 49/100 |
@@ -549,9 +549,9 @@
 | 539 | [gladiaio/gladia-cli](./gladiaio-gladia-cli.md) | ⭐ — | — | 49/100 |
 | 540 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 589 | JavaScript | 49/100 |
 | 541 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ — | Dart | 48/100 |
-| 542 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 1 | Python | 48/100 |
-| 543 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
-| 544 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
+| 542 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 2 | Python | 48/100 |
+| 543 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
+| 544 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
 | 545 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 546 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ — | — | 48/100 |
 | 547 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ — | — | 48/100 |
@@ -562,7 +562,7 @@
 | 552 | [Salesforce/blip-image-captioning-base](./salesforce-blip-image-captioning-base.md) | ⭐ 868 | transformers | 48/100 |
 | 553 | [benwbrum/fromthepage](./benwbrum-fromthepage.md) | ⭐ 187 | Ruby | 48/100 |
 | 554 | [omanshchoudhary/briareus](./omanshchoudhary-briareus.md) | ⭐ — | — | 47/100 |
-| 555 | [sunerpy/voltip](./sunerpy-voltip.md) | ⭐ 2 | Rust | 47/100 |
+| 555 | [sunerpy/voltip](./sunerpy-voltip.md) | ⭐ 96 | Rust | 47/100 |
 | 556 | [nirmaljosephukken/pylon-player](./nirmaljosephukken-pylon-player.md) | ⭐ — | Python | 47/100 |
 | 557 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 5.6k | TypeScript | 47/100 |
 | 558 | [prometheus-maker/corpusdiff](./prometheus-maker-corpusdiff.md) | ⭐ — | Python | 47/100 |
@@ -584,7 +584,7 @@
 | 574 | [videojs/video.js](./videojs-video.js.md) | ⭐ — | — | 45/100 |
 | 575 | [Netflix/vmaf](./netflix-vmaf.md) | ⭐ — | — | 45/100 |
 | 576 | [gdavila/easyVmaf](./gdavila-easyvmaf.md) | ⭐ — | — | 45/100 |
-| 577 | [0xhappyboy/SoulCut](./0xhappyboy-soulcut.md) | ⭐ — | — | 45/100 |
+| 577 | [0xhappyboy/SoulCut](./0xhappyboy-soulcut.md) | ⭐ 11 | — | 45/100 |
 | 578 | [nfishel48/Jotter](./nfishel48-jotter.md) | ⭐ — | — | 45/100 |
 | 579 | [amekusa03/mp3-to-ac3-converter](./amekusa03-mp3-to-ac3-converter.md) | ⭐ — | — | 45/100 |
 | 580 | [skrylkovs/trippi-oss](./skrylkovs-trippi-oss.md) | ⭐ — | — | 45/100 |
@@ -599,10 +599,10 @@
 | 589 | [belfortlabs/blindsight-demo](./belfortlabs-blindsight-demo.md) | ⭐ — | — | 41/100 |
 | 590 | [acalejos/CinEx](./acalejos-cinex.md) | ⭐ 142 | — | 41/100 |
 | 591 | [hydope/shortsmash](./hydope-shortsmash.md) | ⭐ — | — | 41/100 |
-| 592 | [effessdev/GiffyPy](./effessdev-giffypy.md) | ⭐ 2 | Python | 41/100 |
+| 592 | [effessdev/GiffyPy](./effessdev-giffypy.md) | ⭐ 5 | Python | 41/100 |
 | 593 | [ranahaani/i-hate-editing](./ranahaani-i-hate-editing.md) | ⭐ — | — | 41/100 |
 | 594 | [soirihiroka/shrimply](./soirihiroka-shrimply.md) | ⭐ — | — | 41/100 |
-| 595 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ — | — | 41/100 |
+| 595 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ 521 | — | 41/100 |
 | 596 | [Vanilagy/turbores](./vanilagy-turbores.md) | ⭐ — | — | 41/100 |
 | 597 | [lethanhvietctt5/lightshot](./lethanhvietctt5-lightshot.md) | ⭐ — | Swift | 40/100 |
 | 598 | [krgpi/fennec](./krgpi-fennec.md) | ⭐ 1 | Rust | 40/100 |
@@ -611,7 +611,7 @@
 | 601 | [bart6114/loofah](./bart6114-loofah.md) | ⭐ — | — | 38/100 |
 | 602 | [karamuhammet/Open-Editor-Dika-Studio-Community](./karamuhammet-open-editor-dika-studio-community.md) | ⭐ — | — | 38/100 |
 | 603 | [DonkeyCut/Donkey](./donkeycut-donkey.md) | ⭐ — | — | 38/100 |
-| 604 | [akshinmrv/Voxa](./akshinmrv-voxa.md) | ⭐ — | — | 38/100 |
+| 604 | [akshinmrv/Voxa](./akshinmrv-voxa.md) | ⭐ 20 | — | 38/100 |
 | 605 | [heng30/wayshot](./heng30-wayshot.md) | ⭐ — | — | 38/100 |
 | 606 | [rokib16x/listnr](./rokib16x-listnr.md) | ⭐ — | — | 38/100 |
 | 607 | [VladUZH/qwen-scribe](./vladuzh-qwen-scribe.md) | ⭐ — | — | 38/100 |

@@ -1,6 +1,6 @@
 # mralexivy/AutoMode
 
-[![Stars](https://img.shields.io/github/stars/mralexivy/AutoMode?style=flat-square&color=yellow)](https://github.com/mralexivy/AutoMode/stargazers) [![Forks](https://img.shields.io/github/forks/mralexivy/AutoMode?style=flat-square&color=blue)](https://github.com/mralexivy/AutoMode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mralexivy/AutoMode?style=flat-square&color=yellow)](https://github.com/mralexivy/AutoMode/stargazers) [![Forks](https://img.shields.io/github/forks/mralexivy/AutoMode?style=flat-square&color=blue)](https://github.com/mralexivy/AutoMode/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Automatic model and effort router for Claude Code. A free plugin that picks Haiku, Sonnet or Opus for each prompt, adds risk floors and a review workflow, and shows cache and context state. No key, no server.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8 |
+| ⭐ **Stars** | 9 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ mralexivy/AutoMode：mralexivy/AutoMode helps turn isolated prompts and tools in
 
 **Quality signals**
 
-- 8 GitHub stars
+- 9 GitHub stars
 - updated 2026-11-06
 - primary language: TypeScript
 - 22 topics
@@ -71,7 +71,7 @@ mralexivy/AutoMode：mralexivy/AutoMode helps turn isolated prompts and tools in
 | outlook | 67/100 |
 | adoption | 15/100 |
 | categoryMatchCount | 400/100 |
-| stars | 20/100 |
+| stars | 21/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

@@ -1,6 +1,6 @@
 # saeedallam/agentquake
 
-[![Stars](https://img.shields.io/github/stars/saeedallam/agentquake?style=flat-square&color=yellow)](https://github.com/saeedallam/agentquake/stargazers) [![Forks](https://img.shields.io/github/forks/saeedallam/agentquake?style=flat-square&color=blue)](https://github.com/saeedallam/agentquake/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/saeedallam/agentquake?style=flat-square&color=yellow)](https://github.com/saeedallam/agentquake/stargazers) [![Forks](https://img.shields.io/github/forks/saeedallam/agentquake?style=flat-square&color=blue)](https://github.com/saeedallam/agentquake/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Chaos testing for AI agents
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1 |
-| 🍴 **Forks** | — |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -54,6 +54,7 @@ saeedallam/agentquake：saeedallam/agentquake helps add AI capability without st
 **Quality signals**
 
 - 1 GitHub stars
+- 2 forks
 - updated 2026-11-07
 - primary language: TypeScript
 - 5 topics
@@ -65,14 +66,14 @@ saeedallam/agentquake：saeedallam/agentquake helps add AI capability without st
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 47/100 |
+| quality | 48/100 |
 | integration | 46/100 |
 | production | 62/100 |
-| outlook | 61/100 |
-| adoption | 5/100 |
+| outlook | 62/100 |
+| adoption | 8/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
-| forks | 0/100 |
+| forks | 12/100 |
 | recency | 100/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # corvus-gateway/corvus
 
-[![Stars](https://img.shields.io/github/stars/corvus-gateway/corvus?style=flat-square&color=yellow)](https://github.com/corvus-gateway/corvus/stargazers) [![Forks](https://img.shields.io/github/forks/corvus-gateway/corvus?style=flat-square&color=blue)](https://github.com/corvus-gateway/corvus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/corvus-gateway/corvus?style=flat-square&color=yellow)](https://github.com/corvus-gateway/corvus/stargazers) [![Forks](https://img.shields.io/github/forks/corvus-gateway/corvus?style=flat-square&color=blue)](https://github.com/corvus-gateway/corvus/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Corvus AWPG — self-hosted Active Web Protection Gateway: reverse proxy, free SSL, attack blocking, live monitoring and an access queue
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 9 |
+| 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,8 @@ corvus-gateway/corvus：corvus-gateway/corvus helps remove repetitive manual ope
 
 **Quality signals**
 
-- 1 GitHub stars
+- 9 GitHub stars
+- 2 forks
 - updated 2026-11-06
 - primary language: TypeScript
 - 20 topics
@@ -65,14 +66,14 @@ corvus-gateway/corvus：corvus-gateway/corvus helps remove repetitive manual ope
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 48/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 61/100 |
-| adoption | 5/100 |
+| production | 64/100 |
+| outlook | 64/100 |
+| adoption | 19/100 |
 | categoryMatchCount | 500/100 |
-| stars | 6/100 |
-| forks | 0/100 |
+| stars | 21/100 |
+| forks | 12/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

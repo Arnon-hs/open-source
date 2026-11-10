@@ -60,7 +60,7 @@
 | 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 654 | TypeScript | 57/100 |
 | 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.2k | C++ | 57/100 |
 | 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 717 | Python | 57/100 |
-| 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 1 | JavaScript | 57/100 |
+| 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 2 | JavaScript | 57/100 |
 | 54 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 353 | Lua | 56/100 |
 | 55 | [OpenOLAT/OpenOLAT](./openolat-openolat.md) | ⭐ 449 | Java | 56/100 |
 | 56 | [uswds/uswds-site](./uswds-uswds-site.md) | ⭐ 252 | HTML | 56/100 |
@@ -102,7 +102,7 @@
 | 92 | [openhwgroup/cvw](./openhwgroup-cvw.md) | ⭐ 553 | SystemVerilog | 52/100 |
 | 93 | [riscv/riscv-arch-test](./riscv-riscv-arch-test.md) | ⭐ 809 | Assembly | 52/100 |
 | 94 | [Cur10s1tyByt3/GenP](./cur10s1tybyt3-genp.md) | ⭐ 1.3k | AutoIt | 52/100 |
-| 95 | [Hostpad/Hostpad](./hostpad-hostpad.md) | ⭐ 2 | C# | 51/100 |
+| 95 | [Hostpad/Hostpad](./hostpad-hostpad.md) | ⭐ 3 | C# | 51/100 |
 | 96 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.2k | C++ | 51/100 |
 | 97 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 848 | Haskell | 51/100 |
 | 98 | [PostHog/posthog.com](./posthog-posthog.com.md) | ⭐ 1.2k | TypeScript | 51/100 |
@@ -128,7 +128,7 @@
 | 118 | [VenoM9078/gradientdeck-skill](./venom9078-gradientdeck-skill.md) | ⭐ — | — | 45/100 |
 | 119 | [ui-layouts/uilayouts](./ui-layouts-uilayouts.md) | ⭐ 3.9k | — | 45/100 |
 | 120 | [qrstajalli/BranchOut](./qrstajalli-branchout.md) | ⭐ — | — | 45/100 |
-| 121 | [a104437ana/sakura-garden](./a104437ana-sakura-garden.md) | ⭐ — | — | 45/100 |
+| 121 | [a104437ana/sakura-garden](./a104437ana-sakura-garden.md) | ⭐ 17 | — | 45/100 |
 | 122 | [Shagshag/garden-graph](./shagshag-garden-graph.md) | ⭐ — | — | 45/100 |
 | 123 | [potatobeanradio/circuitRF](./potatobeanradio-circuitrf.md) | ⭐ — | — | 45/100 |
 | 124 | [cpc/openasip](./cpc-openasip.md) | ⭐ — | — | 45/100 |
@@ -183,14 +183,14 @@
 | 173 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ — | — | 38/100 |
 | 174 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
 | 175 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ — | — | 38/100 |
-| 176 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ — | — | 38/100 |
-| 177 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ — | — | 38/100 |
+| 176 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ 737 | — | 38/100 |
+| 177 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ 13.2k | — | 38/100 |
 | 178 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ — | — | 38/100 |
 | 179 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ — | — | 38/100 |
 | 180 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
 | 181 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ — | — | 38/100 |
 | 182 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ — | — | 38/100 |
-| 183 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ — | — | 38/100 |
+| 183 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ 28 | — | 38/100 |
 | 184 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ — | — | 38/100 |
 | 185 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ — | — | 38/100 |
 | 186 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 38/100 |

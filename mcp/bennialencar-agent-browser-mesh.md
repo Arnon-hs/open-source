@@ -1,6 +1,6 @@
 # BenniAlencar/agent-browser-mesh
 
-[![Stars](https://img.shields.io/github/stars/BenniAlencar/agent-browser-mesh?style=flat-square&color=yellow)](https://github.com/BenniAlencar/agent-browser-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/BenniAlencar/agent-browser-mesh?style=flat-square&color=blue)](https://github.com/BenniAlencar/agent-browser-mesh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/BenniAlencar/agent-browser-mesh?style=flat-square&color=yellow)](https://github.com/BenniAlencar/agent-browser-mesh/stargazers) [![Forks](https://img.shields.io/github/forks/BenniAlencar/agent-browser-mesh?style=flat-square&color=blue)](https://github.com/BenniAlencar/agent-browser-mesh/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > High-speed, zero-token-waste autonomous browser engine with semantic DOM-Delta compaction, anti-injection guardrails, and native MCP server for AI agents.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ BenniAlencar/agent-browser-mesh：BenniAlencar/agent-browser-mesh helps connect 
 
 **Quality signals**
 
-- 1 GitHub stars
+- 2 GitHub stars
 - updated 2026-11-03
 - primary language: Python
 - 5 topics
@@ -65,13 +65,13 @@ BenniAlencar/agent-browser-mesh：BenniAlencar/agent-browser-mesh helps connect 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 42/100 |
+| quality | 43/100 |
 | integration | 62/100 |
-| production | 57/100 |
-| outlook | 60/100 |
-| adoption | 5/100 |
+| production | 58/100 |
+| outlook | 61/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 300/100 |
-| stars | 6/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 63/100 |

@@ -1,6 +1,6 @@
 # Illyism/awake
 
-[![Stars](https://img.shields.io/github/stars/Illyism/awake?style=flat-square&color=yellow)](https://github.com/Illyism/awake/stargazers) [![Forks](https://img.shields.io/github/forks/Illyism/awake?style=flat-square&color=blue)](https://github.com/Illyism/awake/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Illyism/awake?style=flat-square&color=yellow)](https://github.com/Illyism/awake/stargazers) [![Forks](https://img.shields.io/github/forks/Illyism/awake?style=flat-square&color=blue)](https://github.com/Illyism/awake/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > Keep your MacBook awake with the lid closed — Control Center toggle, Menu Bar timer, CLI, instant screen lock, and 10% battery / 40°C backpack thermal guard
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | 10 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ Illyism/awake：Illyism/awake helps add AI capability without starting from a bl
 
 **Quality signals**
 
-- 3 GitHub stars
+- 10 GitHub stars
 - updated 2026-11-03
 - primary language: Swift
 - 24 topics
@@ -65,13 +65,13 @@ Illyism/awake：Illyism/awake helps add AI capability without starting from a bl
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 50/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 60/100 |
-| outlook | 65/100 |
-| adoption | 9/100 |
+| production | 61/100 |
+| outlook | 67/100 |
+| adoption | 16/100 |
 | categoryMatchCount | 100/100 |
-| stars | 13/100 |
+| stars | 22/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

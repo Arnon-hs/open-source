@@ -1,6 +1,6 @@
 # LucasMenezeslc/flutter-dead-code-audit
 
-[![Stars](https://img.shields.io/github/stars/LucasMenezeslc/flutter-dead-code-audit?style=flat-square&color=yellow)](https://github.com/LucasMenezeslc/flutter-dead-code-audit/stargazers) [![Forks](https://img.shields.io/github/forks/LucasMenezeslc/flutter-dead-code-audit?style=flat-square&color=blue)](https://github.com/LucasMenezeslc/flutter-dead-code-audit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/LucasMenezeslc/flutter-dead-code-audit?style=flat-square&color=yellow)](https://github.com/LucasMenezeslc/flutter-dead-code-audit/stargazers) [![Forks](https://img.shields.io/github/forks/LucasMenezeslc/flutter-dead-code-audit?style=flat-square&color=blue)](https://github.com/LucasMenezeslc/flutter-dead-code-audit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A review-first Agent Skill for safely auditing and removing dead code in Flutter and Dart projects.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ LucasMenezeslc/flutter-dead-code-audit：LucasMenezeslc/flutter-dead-code-audit 
 
 **Quality signals**
 
-- 1 GitHub stars
+- 2 GitHub stars
 - updated 2026-11-03
 - primary language: Python
 - 5 topics
@@ -65,13 +65,13 @@ LucasMenezeslc/flutter-dead-code-audit：LucasMenezeslc/flutter-dead-code-audit 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 42/100 |
+| quality | 43/100 |
 | integration | 46/100 |
 | production | 55/100 |
-| outlook | 54/100 |
-| adoption | 5/100 |
+| outlook | 55/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 100/100 |
-| stars | 6/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 63/100 |

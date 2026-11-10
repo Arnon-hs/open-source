@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5 |
+| ⭐ **Stars** | 8 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Dart |
 | 📈 **Score** | 60/100 |
@@ -51,7 +51,7 @@ ateymoori/pomelu：ateymoori/pomelu may be useful when its README and activity m
 
 **Quality signals**
 
-- 5 GitHub stars
+- 8 GitHub stars
 - updated 2026-11-03
 - primary language: Dart
 - 24 topics
@@ -63,13 +63,13 @@ ateymoori/pomelu：ateymoori/pomelu may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 58/100 |
-| outlook | 66/100 |
-| adoption | 12/100 |
+| production | 59/100 |
+| outlook | 67/100 |
+| adoption | 15/100 |
 | categoryMatchCount | 100/100 |
-| stars | 17/100 |
+| stars | 20/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

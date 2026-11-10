@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5 |
+| ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 46/100 |
@@ -53,7 +53,7 @@ AydenGroup/nitrobase：AydenGroup/nitrobase helps teams persist, query, and move
 
 **Quality signals**
 
-- 5 GitHub stars
+- 8 GitHub stars
 - 3 forks
 - updated 2026-11-06
 - primary language: TypeScript
@@ -66,13 +66,13 @@ AydenGroup/nitrobase：AydenGroup/nitrobase helps teams persist, query, and move
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 48/100 |
 | integration | 46/100 |
 | production | 57/100 |
 | outlook | 54/100 |
-| adoption | 16/100 |
+| adoption | 19/100 |
 | categoryMatchCount | 100/100 |
-| stars | 17/100 |
+| stars | 20/100 |
 | forks | 15/100 |
 | recency | 80/100 |
 | topics | 63/100 |

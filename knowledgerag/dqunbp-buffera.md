@@ -1,6 +1,6 @@
 # dqunbp/buffera
 
-[![Stars](https://img.shields.io/github/stars/dqunbp/buffera?style=flat-square&color=yellow)](https://github.com/dqunbp/buffera/stargazers) [![Forks](https://img.shields.io/github/forks/dqunbp/buffera?style=flat-square&color=blue)](https://github.com/dqunbp/buffera/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dqunbp/buffera?style=flat-square&color=yellow)](https://github.com/dqunbp/buffera/stargazers) [![Forks](https://img.shields.io/github/forks/dqunbp/buffera?style=flat-square&color=blue)](https://github.com/dqunbp/buffera/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Clipboard history for Mac with local semantic search and an AI assistant.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ dqunbp/buffera：dqunbp/buffera helps make internal knowledge searchable and usa
 
 **Quality signals**
 
-- 1 GitHub stars
+- 3 GitHub stars
 - updated 2026-11-05
 - primary language: Swift
 - 5 topics
@@ -65,13 +65,13 @@ dqunbp/buffera：dqunbp/buffera helps make internal knowledge searchable and usa
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 42/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 54/100 |
-| adoption | 5/100 |
+| production | 56/100 |
+| outlook | 55/100 |
+| adoption | 9/100 |
 | categoryMatchCount | 300/100 |
-| stars | 6/100 |
+| stars | 13/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 63/100 |

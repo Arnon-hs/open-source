@@ -1,6 +1,6 @@
 # lazypanic999/tunnelscope
 
-[![Stars](https://img.shields.io/github/stars/lazypanic999/tunnelscope?style=flat-square&color=yellow)](https://github.com/lazypanic999/tunnelscope/stargazers) [![Forks](https://img.shields.io/github/forks/lazypanic999/tunnelscope?style=flat-square&color=blue)](https://github.com/lazypanic999/tunnelscope/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lazypanic999/tunnelscope?style=flat-square&color=yellow)](https://github.com/lazypanic999/tunnelscope/stargazers) [![Forks](https://img.shields.io/github/forks/lazypanic999/tunnelscope?style=flat-square&color=blue)](https://github.com/lazypanic999/tunnelscope/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-based MTU and packet-size diagnostics for Linux. Python CLI, receiver correlation, and reproducible network labs.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1 |
-| 🍴 **Forks** | 2 |
+| 🍴 **Forks** | 5 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -52,7 +52,7 @@ lazypanic999/tunnelscope：lazypanic999/tunnelscope may be useful when its READM
 **Quality signals**
 
 - 1 GitHub stars
-- 2 forks
+- 5 forks
 - updated 2026-11-08
 - primary language: Python
 - 11 topics
@@ -64,14 +64,14 @@ lazypanic999/tunnelscope：lazypanic999/tunnelscope may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 55/100 |
 | integration | 62/100 |
-| production | 66/100 |
+| production | 67/100 |
 | outlook | 66/100 |
-| adoption | 8/100 |
+| adoption | 10/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
-| forks | 12/100 |
+| forks | 19/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

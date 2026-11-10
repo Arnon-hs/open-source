@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1 |
-| 🍴 **Forks** | 3 |
+| 🍴 **Forks** | 4 |
 | 💻 **Language** | Astro |
 | 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-10-07 |
