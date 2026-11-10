@@ -67,7 +67,7 @@
 | 57 | [lfnovo/open-notebook](./lfnovo-open-notebook.md) | ⭐ 41.8k | TypeScript | 66/100 |
 | 58 | [pycontribs/mk](./pycontribs-mk.md) | ⭐ 142 | Python | 66/100 |
 | 59 | [hydralauncher/hydra](./hydralauncher-hydra.md) | ⭐ 17.7k | TypeScript | 66/100 |
-| 60 | [rohansx/workz](./rohansx-workz.md) | ⭐ 68 | Rust | 66/100 |
+| 60 | [rohansx/workz](./rohansx-workz.md) | ⭐ 93 | Rust | 66/100 |
 | 61 | [AmineDjeghri/awesome-os-setup](./aminedjeghri-awesome-os-setup.md) | ⭐ 573 | Python | 66/100 |
 | 62 | [FuzzyIdeas/Clop](./fuzzyideas-clop.md) | ⭐ 1.9k | Swift | 66/100 |
 | 63 | [danterolle/tilf](./danterolle-tilf.md) | ⭐ 471 | Python | 66/100 |
@@ -103,8 +103,8 @@
 | 93 | [amir1376/ab-download-manager](./amir1376-ab-download-manager.md) | ⭐ 19.1k | Kotlin | 62/100 |
 | 94 | [mrusme/zeit](./mrusme-zeit.md) | ⭐ 594 | Go | 62/100 |
 | 95 | [headlesshq/headlessmc](./headlesshq-headlessmc.md) | ⭐ 428 | Java | 62/100 |
-| 96 | [Vortrix5/sifty](./vortrix5-sifty.md) | ⭐ 67 | Python | 62/100 |
-| 97 | [ConnorSweeneyDev/.config](./connorsweeneydev-.config.md) | ⭐ 63 | Lua | 62/100 |
+| 96 | [Vortrix5/sifty](./vortrix5-sifty.md) | ⭐ 126 | Python | 62/100 |
+| 97 | [ConnorSweeneyDev/.config](./connorsweeneydev-.config.md) | ⭐ 66 | Lua | 62/100 |
 | 98 | [jemishavasoya/dev-cleaner](./jemishavasoya-dev-cleaner.md) | ⭐ 359 | Shell | 62/100 |
 | 99 | [seun-novodev/android-tv-debloat-toolkit](./seun-novodev-android-tv-debloat-toolkit.md) | ⭐ 813 | Python | 62/100 |
 | 100 | [ospfranco/sol](./ospfranco-sol.md) | ⭐ 3.2k | TypeScript | 62/100 |
@@ -149,7 +149,7 @@
 | 139 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 135.4k | TypeScript | 59/100 |
 | 140 | [carapace-sh/carapace-bin](./carapace-sh-carapace-bin.md) | ⭐ 2k | Go | 59/100 |
 | 141 | [scalacenter/bloop](./scalacenter-bloop.md) | ⭐ 945 | Scala | 59/100 |
-| 142 | [bug-ops/helix-trainer](./bug-ops-helix-trainer.md) | ⭐ 84 | Rust | 58/100 |
+| 142 | [bug-ops/helix-trainer](./bug-ops-helix-trainer.md) | ⭐ 92 | Rust | 58/100 |
 | 143 | [HMCL-dev/HMCL](./hmcl-dev-hmcl.md) | ⭐ 10.9k | Java | 58/100 |
 | 144 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 800 | TypeScript | 58/100 |
 | 145 | [kxxt/tracexec](./kxxt-tracexec.md) | ⭐ 449 | Rust | 58/100 |
@@ -236,7 +236,7 @@
 | 226 | [mustafayevt/CineVault](./mustafayevt-cinevault.md) | ⭐ 19 | Rust | 50/100 |
 | 227 | [sanghyun-io/tunnelforge](./sanghyun-io-tunnelforge.md) | ⭐ 1 | Python | 50/100 |
 | 228 | [redheadesign/music-island](./redheadesign-music-island.md) | ⭐ 1.2k | Rust | 50/100 |
-| 229 | [Benexl/lib-x](./benexl-lib-x.md) | ⭐ 76 | Shell | 50/100 |
+| 229 | [Benexl/lib-x](./benexl-lib-x.md) | ⭐ 77 | Shell | 50/100 |
 | 230 | [Mystic-Stars/Axolotl](./mystic-stars-axolotl.md) | ⭐ 107 | Rust | 50/100 |
 | 231 | [partydeck/partydeck](./partydeck-partydeck.md) | ⭐ 835 | Rust | 50/100 |
 | 232 | [lucky7xz/drako](./lucky7xz-drako.md) | ⭐ 35 | Go | 50/100 |
@@ -344,8 +344,8 @@
 | 334 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 335 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
 | 336 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 337 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
-| 338 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 337 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 338 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
 | 339 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 340 | [israelfreitas/ttkbootstrap](./israelfreitas-ttkbootstrap.md) | ⭐ — | — | 39/100 |
 | 341 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |

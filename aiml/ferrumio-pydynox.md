@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 55 |
-| 🍴 **Forks** | 22 |
+| ⭐ **Stars** | 52 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-11-02 |
@@ -53,8 +53,8 @@ ferrumio/pydynox：ferrumio/pydynox helps add AI capability without starting fro
 
 **Quality signals**
 
-- 55 GitHub stars
-- 22 forks
+- 52 GitHub stars
+- 23 forks
 - updated 2026-11-02
 - primary language: Python
 - 12 topics
@@ -73,7 +73,7 @@ ferrumio/pydynox：ferrumio/pydynox helps add AI capability without starting fro
 | adoption | 36/100 |
 | categoryMatchCount | 400/100 |
 | stars | 37/100 |
-| forks | 34/100 |
+| forks | 35/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

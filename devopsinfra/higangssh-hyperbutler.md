@@ -65,18 +65,18 @@ Higangssh/hyperbutler：Higangssh/hyperbutler helps make deployment and operatio
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 55/100 |
-| adoption | 17/100 |
-| categoryMatchCount | 100/100 |
-| stars | 20/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 20/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 17/100 |
+| production | 60/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

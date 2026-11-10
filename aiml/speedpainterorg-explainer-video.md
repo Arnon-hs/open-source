@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 56 |
-| 🍴 **Forks** | 4 |
+| ⭐ **Stars** | 57 |
+| 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-03 |
@@ -53,8 +53,8 @@ SpeedPainterOrg/explainer-video：SpeedPainterOrg/explainer-video helps add AI c
 
 **Quality signals**
 
-- 56 GitHub stars
-- 4 forks
+- 57 GitHub stars
+- 3 forks
 - updated 2026-11-03
 - primary language: JavaScript
 - 12 topics
@@ -70,10 +70,10 @@ SpeedPainterOrg/explainer-video：SpeedPainterOrg/explainer-video helps add AI c
 | integration | 78/100 |
 | production | 66/100 |
 | outlook | 68/100 |
-| adoption | 32/100 |
+| adoption | 31/100 |
 | categoryMatchCount | 300/100 |
-| stars | 37/100 |
-| forks | 17/100 |
+| stars | 38/100 |
+| forks | 15/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

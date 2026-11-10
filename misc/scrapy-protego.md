@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 94 |
-| 🍴 **Forks** | 35 |
+| ⭐ **Stars** | 97 |
+| 🍴 **Forks** | 39 |
 | 💻 **Language** | DIGITAL Command Language |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-10-08 |

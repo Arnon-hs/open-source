@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [chengzuopeng/stock-sdk](./chengzuopeng-stock-sdk.md) | ⭐ 2k | TypeScript | 88/100 |
 | 2 | [simonlin1212/Vibe-Research](./simonlin1212-vibe-research.md) | ⭐ 3.6k | TypeScript | 85/100 |
-| 3 | [chrisryugj/korean-dart-mcp](./chrisryugj-korean-dart-mcp.md) | ⭐ 87 | TypeScript | 80/100 |
+| 3 | [chrisryugj/korean-dart-mcp](./chrisryugj-korean-dart-mcp.md) | ⭐ 121 | TypeScript | 80/100 |
 | 4 | [JungHoonGhae/tossinvest-cli](./junghoonghae-tossinvest-cli.md) | ⭐ 522 | Go | 80/100 |
 | 5 | [unohee/kis-agent](./unohee-kis-agent.md) | ⭐ 30 | Python | 79/100 |
 | 6 | [Fincept-Corporation/FinceptTerminal](./fincept-corporation-finceptterminal.md) | ⭐ 33.6k | C++ | 79/100 |
@@ -27,7 +27,7 @@
 | 17 | [arshka/pykalshi](./arshka-pykalshi.md) | ⭐ 133 | Python | 74/100 |
 | 18 | [zevnda/steam-game-idler](./zevnda-steam-game-idler.md) | ⭐ 791 | TypeScript | 74/100 |
 | 19 | [agent-next/polymarket-paper-trader](./agent-next-polymarket-paper-trader.md) | ⭐ 503 | Python | 73/100 |
-| 20 | [codedpro/mt5-trade-split-manager](./codedpro-mt5-trade-split-manager.md) | ⭐ 53 | MQL5 | 73/100 |
+| 20 | [codedpro/mt5-trade-split-manager](./codedpro-mt5-trade-split-manager.md) | ⭐ 89 | MQL5 | 73/100 |
 | 21 | [aarora4/Awesome-Prediction-Market-Tools](./aarora4-awesome-prediction-market-tools.md) | ⭐ 800 | — | 73/100 |
 | 22 | [ib-api-reloaded/ib_async](./ib-api-reloaded-ib-async.md) | ⭐ 1.8k | Python | 72/100 |
 | 23 | [ChipaDevTeam/BinaryOptionsTools-v2](./chipadevteam-binaryoptionstools-v2.md) | ⭐ 138 | Rust | 72/100 |
@@ -47,7 +47,7 @@
 | 37 | [wilsonfreitas/awesome-quant](./wilsonfreitas-awesome-quant.md) | ⭐ 30.6k | HTML | 70/100 |
 | 38 | [JustinGuese/python_tradingbot_framework](./justinguese-python-tradingbot-framework.md) | ⭐ 35 | Jupyter Notebook | 69/100 |
 | 39 | [extrange/ibkr-docker](./extrange-ibkr-docker.md) | ⭐ 391 | Shell | 69/100 |
-| 40 | [HiThink-Tech/Financial-API](./hithink-tech-financial-api.md) | ⭐ 96 | Python | 69/100 |
+| 40 | [HiThink-Tech/Financial-API](./hithink-tech-financial-api.md) | ⭐ 4.1k | Python | 69/100 |
 | 41 | [daniel3303/Equibles](./daniel3303-equibles.md) | ⭐ 244 | C# | 69/100 |
 | 42 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 27 | Swift | 69/100 |
 | 43 | [livetennisapi/polymarket-tennis](./livetennisapi-polymarket-tennis.md) | ⭐ 257 | Python | 68/100 |
@@ -56,20 +56,20 @@
 | 46 | [SimplifyJobs/Summer2027-Internships](./simplifyjobs-summer2027-internships.md) | ⭐ 48.4k | Python | 68/100 |
 | 47 | [tcgdex/cards-database](./tcgdex-cards-database.md) | ⭐ 1.2k | TypeScript | 68/100 |
 | 48 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 1.6k | Shell | 68/100 |
-| 49 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 85 | Python | 68/100 |
+| 49 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 185 | Python | 68/100 |
 | 50 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 68.8k | Python | 68/100 |
 | 51 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 914 | Python | 68/100 |
 | 52 | [rburkholder/trade-frame](./rburkholder-trade-frame.md) | ⭐ 687 | C++ | 67/100 |
 | 53 | [hugodemenez/deltalytix](./hugodemenez-deltalytix.md) | ⭐ 163 | TypeScript | 67/100 |
 | 54 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 212 | Go | 67/100 |
 | 55 | [pmxt-dev/pmxt](./pmxt-dev-pmxt.md) | ⭐ 2.2k | TypeScript | 67/100 |
-| 56 | [Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING](./amey-thakur-optimizing-stock-trading-strategy-with-reinforcement-learning.md) | ⭐ 57 | Python | 66/100 |
+| 56 | [Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING](./amey-thakur-optimizing-stock-trading-strategy-with-reinforcement-learning.md) | ⭐ 58 | Python | 66/100 |
 | 57 | [FerroxLabs/tvcontrol](./ferroxlabs-tvcontrol.md) | ⭐ 34 | JavaScript | 66/100 |
 | 58 | [NVIDIA-AI-Blueprints/portfolio-optimization](./nvidia-ai-blueprints-portfolio-optimization.md) | ⭐ 504 | Jupyter Notebook | 66/100 |
 | 59 | [Jakeschincariol/day-trader-skill](./jakeschincariol-day-trader-skill.md) | ⭐ 6.4k | Python | 66/100 |
 | 60 | [sngyai/Sequoia-X](./sngyai-sequoia-x.md) | ⭐ 6k | Python | 65/100 |
 | 61 | [cinar/indicator](./cinar-indicator.md) | ⭐ 1.9k | Go | 65/100 |
-| 62 | [binance/binance-cli](./binance-binance-cli.md) | ⭐ 61 | Rust | 65/100 |
+| 62 | [binance/binance-cli](./binance-binance-cli.md) | ⭐ 75 | Rust | 65/100 |
 | 63 | [ilyaux/Eve-flipper](./ilyaux-eve-flipper.md) | ⭐ 36 | TypeScript | 65/100 |
 | 64 | [Barca0412/Introduction-to-Quantitative-Finance](./barca0412-introduction-to-quantitative-finance.md) | ⭐ 1.9k | Python | 65/100 |
 | 65 | [handsomejustin/easy_tdx](./handsomejustin-easy-tdx.md) | ⭐ 303 | Python | 65/100 |
@@ -86,8 +86,8 @@
 | 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 231 | Rust | 64/100 |
 | 77 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 78 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
-| 80 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
+| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
+| 80 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
 | 81 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 82 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 83 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |
@@ -99,7 +99,7 @@
 | 89 | [Bhala-Srinivash/nse-trading-skills](./bhala-srinivash-nse-trading-skills.md) | ⭐ 61 | — | 63/100 |
 | 90 | [6551Team/opennews-mcp](./6551team-opennews-mcp.md) | ⭐ 2.4k | Python | 62/100 |
 | 91 | [brndnmtthws/thetagang](./brndnmtthws-thetagang.md) | ⭐ 2.8k | Python | 62/100 |
-| 92 | [Indemos/Terminal](./indemos-terminal.md) | ⭐ 60 | C# | 62/100 |
+| 92 | [Indemos/Terminal](./indemos-terminal.md) | ⭐ 66 | C# | 62/100 |
 | 93 | [javifalces/HFTFramework](./javifalces-hftframework.md) | ⭐ 311 | Jupyter Notebook | 62/100 |
 | 94 | [CategoricalData/CQL](./categoricaldata-cql.md) | ⭐ 367 | Java | 62/100 |
 | 95 | [hosseinmoein/DataFrame](./hosseinmoein-dataframe.md) | ⭐ 3k | C++ | 62/100 |
@@ -116,7 +116,7 @@
 | 106 | [qusong0627/QuantMind](./qusong0627-quantmind.md) | ⭐ 1.9k | Python | 60/100 |
 | 107 | [speedyapply/2027-AI-College-Jobs](./speedyapply-2027-ai-college-jobs.md) | ⭐ 6.6k | — | 60/100 |
 | 108 | [bennycode/trading-signals](./bennycode-trading-signals.md) | ⭐ 1k | TypeScript | 60/100 |
-| 109 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 72 | Python | 60/100 |
+| 109 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 86 | Python | 60/100 |
 | 110 | [ZhuLinsen/alphaevo](./zhulinsen-alphaevo.md) | ⭐ 215 | Python | 60/100 |
 | 111 | [nlethetech/nepse-quant-terminal](./nlethetech-nepse-quant-terminal.md) | ⭐ 208 | Python | 60/100 |
 | 112 | [FinHackCN/finhack](./finhackcn-finhack.md) | ⭐ 1.3k | Python | 59/100 |
@@ -129,9 +129,9 @@
 | 119 | [floor-licker/polyfill-rs](./floor-licker-polyfill-rs.md) | ⭐ 204 | Rust | 59/100 |
 | 120 | [Polymarket/rs-clob-client](./polymarket-rs-clob-client.md) | ⭐ 681 | Rust | 59/100 |
 | 121 | [manhinhang/futu-opend-docker](./manhinhang-futu-opend-docker.md) | ⭐ 31 | JavaScript | 58/100 |
-| 122 | [xLydianSoftware/Qubx](./xlydiansoftware-qubx.md) | ⭐ 68 | Jupyter Notebook | 58/100 |
+| 122 | [xLydianSoftware/Qubx](./xlydiansoftware-qubx.md) | ⭐ 73 | Jupyter Notebook | 58/100 |
 | 123 | [xflops/flame](./xflops-flame.md) | ⭐ 50 | Rust | 58/100 |
-| 124 | [Kai-dev7/QuantScope](./kai-dev7-quantscope.md) | ⭐ 85 | Python | 58/100 |
+| 124 | [Kai-dev7/QuantScope](./kai-dev7-quantscope.md) | ⭐ 125 | Python | 58/100 |
 | 125 | [kiarashsardari/LYM](./kiarashsardari-lym.md) | ⭐ 1 | Python | 57/100 |
 | 126 | [bmoscon/orderbook](./bmoscon-orderbook.md) | ⭐ 321 | Python | 57/100 |
 | 127 | [noahnan-max/chanlun-trading-system](./noahnan-max-chanlun-trading-system.md) | ⭐ 33 | Python | 57/100 |

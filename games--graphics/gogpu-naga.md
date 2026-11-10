@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 56 |
-| 🍴 **Forks** | 13 |
+| ⭐ **Stars** | 57 |
+| 🍴 **Forks** | 14 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-11-02 |
@@ -52,8 +52,8 @@ gogpu/naga：gogpu/naga may be useful when its README and activity match a concr
 
 **Quality signals**
 
-- 56 GitHub stars
-- 13 forks
+- 57 GitHub stars
+- 14 forks
 - updated 2026-11-02
 - primary language: Go
 - 22 topics
@@ -71,7 +71,7 @@ gogpu/naga：gogpu/naga may be useful when its README and activity match a concr
 | outlook | 62/100 |
 | adoption | 35/100 |
 | categoryMatchCount | 200/100 |
-| stars | 37/100 |
+| stars | 38/100 |
 | forks | 29/100 |
 | recency | 80/100 |
 | topics | 100/100 |

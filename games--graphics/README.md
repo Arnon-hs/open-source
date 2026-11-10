@@ -166,7 +166,7 @@
 | 156 | [panxinmiao/myth](./panxinmiao-myth.md) | ⭐ 226 | Rust | 57/100 |
 | 157 | [microsoft/DirectXShaderCompiler](./microsoft-directxshadercompiler.md) | ⭐ 3.7k | C++ | 57/100 |
 | 158 | [ddnet/ddnet](./ddnet-ddnet.md) | ⭐ 860 | C++ | 57/100 |
-| 159 | [M64GitHub/movy](./m64github-movy.md) | ⭐ 89 | Zig | 57/100 |
+| 159 | [M64GitHub/movy](./m64github-movy.md) | ⭐ 101 | Zig | 57/100 |
 | 160 | [fegennari/3DWorld](./fegennari-3dworld.md) | ⭐ 1.4k | C++ | 57/100 |
 | 161 | [playcanvas/supersplat-viewer](./playcanvas-supersplat-viewer.md) | ⭐ 617 | TypeScript | 57/100 |
 | 162 | [scarsty/kys-cpp](./scarsty-kys-cpp.md) | ⭐ 3k | C++ | 57/100 |
@@ -256,7 +256,7 @@
 | 246 | [community-shaders/skyrim-community-shaders](./community-shaders-skyrim-community-shaders.md) | ⭐ 1.1k | C++ | 52/100 |
 | 247 | [triplea-game/triplea](./triplea-game-triplea.md) | ⭐ 1.6k | Java | 52/100 |
 | 248 | [mayakhalil-cmd/inoscula](./mayakhalil-cmd-inoscula.md) | ⭐ — | TypeScript | 52/100 |
-| 249 | [gogpu/naga](./gogpu-naga.md) | ⭐ 56 | Go | 52/100 |
+| 249 | [gogpu/naga](./gogpu-naga.md) | ⭐ 57 | Go | 52/100 |
 | 250 | [rig-c/play](./rig-c-play.md) | ⭐ 5 | TypeScript | 51/100 |
 | 251 | [OpenEnroth/OpenEnroth](./openenroth-openenroth.md) | ⭐ 884 | C++ | 51/100 |
 | 252 | [PENGUINLIONG/spirq-rs](./penguinliong-spirq-rs.md) | ⭐ 113 | Rust | 51/100 |

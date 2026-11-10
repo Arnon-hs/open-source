@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 72 |
-| 🍴 **Forks** | 15 |
+| ⭐ **Stars** | 108 |
+| 🍴 **Forks** | 23 |
 | 💻 **Language** | 1C Enterprise |
 | 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-09-05 |

@@ -256,7 +256,7 @@
 | 246 | [diegohaz/constate](./diegohaz-constate.md) | ⭐ 4k | TypeScript | 65/100 |
 | 247 | [afsar-dev/Nurui](./afsar-dev-nurui.md) | ⭐ 363 | TypeScript | 65/100 |
 | 248 | [Multiwoven/multiwoven](./multiwoven-multiwoven.md) | ⭐ 1.7k | Ruby | 65/100 |
-| 249 | [sugarcube-sh/sugarcube](./sugarcube-sh-sugarcube.md) | ⭐ 101 | TypeScript | 65/100 |
+| 249 | [sugarcube-sh/sugarcube](./sugarcube-sh-sugarcube.md) | ⭐ 129 | TypeScript | 65/100 |
 | 250 | [lynx-family/lynx-stack](./lynx-family-lynx-stack.md) | ⭐ 739 | TypeScript | 65/100 |
 | 251 | [zhenorzz/goploy](./zhenorzz-goploy.md) | ⭐ 1.3k | Go | 65/100 |
 | 252 | [ng-doc/ng-doc](./ng-doc-ng-doc.md) | ⭐ 326 | TypeScript | 65/100 |
@@ -430,7 +430,7 @@
 | 420 | [primefaces/primereact](./primefaces-primereact.md) | ⭐ 8.3k | CSS | 61/100 |
 | 421 | [hossein-zare/react-native-dropdown-picker](./hossein-zare-react-native-dropdown-picker.md) | ⭐ 1k | JavaScript | 61/100 |
 | 422 | [kane50613/takumi](./kane50613-takumi.md) | ⭐ 3.2k | Rust | 61/100 |
-| 423 | [YusufCeng1z/svelte-bash](./yusufceng1z-svelte-bash.md) | ⭐ 93 | Svelte | 61/100 |
+| 423 | [YusufCeng1z/svelte-bash](./yusufceng1z-svelte-bash.md) | ⭐ 103 | Svelte | 61/100 |
 | 424 | [Tencent/tdesign-vue-next](./tencent-tdesign-vue-next.md) | ⭐ 2.2k | TypeScript | 61/100 |
 | 425 | [IvanJosipovic/KubeUI](./ivanjosipovic-kubeui.md) | ⭐ 327 | C# | 61/100 |
 | 426 | [rakkasjs/rakkasjs](./rakkasjs-rakkasjs.md) | ⭐ 1.1k | TypeScript | 61/100 |
@@ -497,7 +497,7 @@
 | 487 | [go-drift/drift](./go-drift-drift.md) | ⭐ 316 | Go | 60/100 |
 | 488 | [csstools/postcss-plugins](./csstools-postcss-plugins.md) | ⭐ 1.1k | CSS | 60/100 |
 | 489 | [fuma-nama/fumadocs](./fuma-nama-fumadocs.md) | ⭐ 13.6k | TypeScript | 60/100 |
-| 490 | [Correia-jpv/fucking-terminals-are-sexy](./correia-jpv-fucking-terminals-are-sexy.md) | ⭐ 57 | Shell | 60/100 |
+| 490 | [Correia-jpv/fucking-terminals-are-sexy](./correia-jpv-fucking-terminals-are-sexy.md) | ⭐ 61 | Shell | 60/100 |
 | 491 | [jaywcjlove/reference](./jaywcjlove-reference.md) | ⭐ 15.2k | Dockerfile | 60/100 |
 | 492 | [BlackHatDevX/openspot-music-app](./blackhatdevx-openspot-music-app.md) | ⭐ 3k | TypeScript | 60/100 |
 | 493 | [threlte/threlte](./threlte-threlte.md) | ⭐ 3.4k | Svelte | 60/100 |
@@ -532,7 +532,7 @@
 | 522 | [Aguafrommars/TheIdServer](./aguafrommars-theidserver.md) | ⭐ 756 | C# | 59/100 |
 | 523 | [mvdicarlo/postybirb](./mvdicarlo-postybirb.md) | ⭐ 413 | TypeScript | 59/100 |
 | 524 | [TamimEhsan/AlgorithmVisualizer](./tamimehsan-algorithmvisualizer.md) | ⭐ 453 | JavaScript | 59/100 |
-| 525 | [shawnwang15/a2ui-vue](./shawnwang15-a2ui-vue.md) | ⭐ 83 | TypeScript | 59/100 |
+| 525 | [shawnwang15/a2ui-vue](./shawnwang15-a2ui-vue.md) | ⭐ 100 | TypeScript | 59/100 |
 | 526 | [mehdibha/dotUI](./mehdibha-dotui.md) | ⭐ 1.4k | TypeScript | 59/100 |
 | 527 | [foxhound87/mobx-react-form](./foxhound87-mobx-react-form.md) | ⭐ 1.1k | TypeScript | 59/100 |
 | 528 | [software-mansion/smelter](./software-mansion-smelter.md) | ⭐ 741 | Rust | 59/100 |
@@ -563,7 +563,7 @@
 | 553 | [eduardoborges/use-mask-input](./eduardoborges-use-mask-input.md) | ⭐ 687 | TypeScript | 58/100 |
 | 554 | [jpettitt/weather-radar-card](./jpettitt-weather-radar-card.md) | ⭐ 476 | TypeScript | 58/100 |
 | 555 | [anyblades/blades](./anyblades-blades.md) | ⭐ 472 | CSS | 58/100 |
-| 556 | [rahmanef63/mso](./rahmanef63-mso.md) | ⭐ 58 | TypeScript | 58/100 |
+| 556 | [rahmanef63/mso](./rahmanef63-mso.md) | ⭐ 106 | TypeScript | 58/100 |
 | 557 | [meszmate/zigzag](./meszmate-zigzag.md) | ⭐ 590 | Zig | 58/100 |
 | 558 | [bernaferrari/GradleKotlinConverter](./bernaferrari-gradlekotlinconverter.md) | ⭐ 941 | TypeScript | 58/100 |
 | 559 | [logisky/LogiSheets](./logisky-logisheets.md) | ⭐ 274 | Rust | 58/100 |
@@ -744,7 +744,7 @@
 | 734 | [rari-build/rari](./rari-build-rari.md) | ⭐ 1.2k | Rust | 55/100 |
 | 735 | [metabrainz/listenbrainz-server](./metabrainz-listenbrainz-server.md) | ⭐ 1.1k | Python | 55/100 |
 | 736 | [kaezee/Augur](./kaezee-augur.md) | ⭐ 5 | TypeScript | 54/100 |
-| 737 | [ashuttl/linecast](./ashuttl-linecast.md) | ⭐ 74 | Python | 54/100 |
+| 737 | [ashuttl/linecast](./ashuttl-linecast.md) | ⭐ 678 | Python | 54/100 |
 | 738 | [coderwhy/hy-event-store](./coderwhy-hy-event-store.md) | ⭐ 411 | JavaScript | 54/100 |
 | 739 | [mardous/BoomingMusic](./mardous-boomingmusic.md) | ⭐ 607 | Kotlin | 54/100 |
 | 740 | [schell/mogwai](./schell-mogwai.md) | ⭐ 427 | Rust | 54/100 |
@@ -917,7 +917,7 @@
 | 907 | [zxcfrancyz/steam-currency-converter](./zxcfrancyz-steam-currency-converter.md) | ⭐ — | JavaScript | 41/100 |
 | 908 | [ui-layouts/cursify](./ui-layouts-cursify.md) | ⭐ 2.1k | — | 40/100 |
 | 909 | [sajjadcodes/baloot-neomorphic-ui](./sajjadcodes-baloot-neomorphic-ui.md) | ⭐ 1 | TypeScript | 40/100 |
-| 910 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 64 | Java | 40/100 |
+| 910 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 65 | Java | 40/100 |
 | 911 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ — | — | 39/100 |
 | 912 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ — | — | 39/100 |
 | 913 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ — | — | 39/100 |

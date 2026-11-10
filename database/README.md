@@ -291,7 +291,7 @@
 | 281 | [gristlabs/grist-core](./gristlabs-grist-core.md) | ⭐ 12.1k | TypeScript | 52/100 |
 | 282 | [phpmyadmin/phpmyadmin](./phpmyadmin-phpmyadmin.md) | ⭐ 8k | PHP | 52/100 |
 | 283 | [pawelsalawa/letos](./pawelsalawa-letos.md) | ⭐ 6.8k | C | 52/100 |
-| 284 | [overmind1980/oeasy-linux-tutorial](./overmind1980-oeasy-linux-tutorial.md) | ⭐ 98 | — | 51/100 |
+| 284 | [overmind1980/oeasy-linux-tutorial](./overmind1980-oeasy-linux-tutorial.md) | ⭐ 99 | — | 51/100 |
 | 285 | [lhccong/fish-island-backend](./lhccong-fish-island-backend.md) | ⭐ 711 | Java | 51/100 |
 | 286 | [aoci-spec/aoci-code](./aoci-spec-aoci-code.md) | ⭐ 22 | Go | 51/100 |
 | 287 | [pgrundev/pgbot](./pgrundev-pgbot.md) | ⭐ 47 | Go | 51/100 |
@@ -566,8 +566,8 @@
 | 556 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 557 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 558 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ — | — | 38/100 |
-| 559 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 38/100 |
-| 560 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 38/100 |
+| 559 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ — | — | 38/100 |
+| 560 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ — | — | 38/100 |
 | 561 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ — | — | 38/100 |
 | 562 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ — | — | 38/100 |
 | 563 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ — | — | 38/100 |

@@ -115,7 +115,7 @@
 | 105 | [krishn404/Git-Friend](./krishn404-git-friend.md) | ⭐ 598 | TypeScript | 63/100 |
 | 106 | [disposable-email-domains/disposable-email-domains](./disposable-email-domains-disposable-email-domains.md) | ⭐ 5.7k | Python | 63/100 |
 | 107 | [shuakami/qq-chat-exporter](./shuakami-qq-chat-exporter.md) | ⭐ 6.1k | TypeScript | 63/100 |
-| 108 | [GetStream/stream-cli](./getstream-stream-cli.md) | ⭐ 90 | Go | 63/100 |
+| 108 | [GetStream/stream-cli](./getstream-stream-cli.md) | ⭐ 89 | Go | 63/100 |
 | 109 | [MetaFARS/codex-relay](./metafars-codex-relay.md) | ⭐ 192 | Rust | 63/100 |
 | 110 | [processone/fluux-messenger](./processone-fluux-messenger.md) | ⭐ 451 | TypeScript | 63/100 |
 | 111 | [miranda-ng/miranda-ng](./miranda-ng-miranda-ng.md) | ⭐ 570 | C++ | 63/100 |
@@ -246,7 +246,7 @@
 | 236 | [swiftkit-dev/website-tech-stack-detector](./swiftkit-dev-website-tech-stack-detector.md) | ⭐ — | JavaScript | 53/100 |
 | 237 | [xiaowu0162/LongMemEval](./xiaowu0162-longmemeval.md) | ⭐ 1.2k | Python | 53/100 |
 | 238 | [stalwartlabs/mail-auth](./stalwartlabs-mail-auth.md) | ⭐ 129 | Rust | 53/100 |
-| 239 | [pydantic/ai-chat-ui](./pydantic-ai-chat-ui.md) | ⭐ 55 | TypeScript | 53/100 |
+| 239 | [pydantic/ai-chat-ui](./pydantic-ai-chat-ui.md) | ⭐ 72 | TypeScript | 53/100 |
 | 240 | [hadashiA/VitalRouter](./hadashia-vitalrouter.md) | ⭐ 370 | C# | 53/100 |
 | 241 | [aree6/LiftShift](./aree6-liftshift.md) | ⭐ 526 | TypeScript | 53/100 |
 | 242 | [nextcloud/calendar](./nextcloud-calendar.md) | ⭐ 1.2k | JavaScript | 53/100 |
@@ -299,7 +299,7 @@
 | 289 | [trougnouf/cfait](./trougnouf-cfait.md) | ⭐ 210 | Rust | 48/100 |
 | 290 | [agntcy/slim](./agntcy-slim.md) | ⭐ 233 | Rust | 48/100 |
 | 291 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 468 | Swift | 48/100 |
-| 292 | [awebai/aweb](./awebai-aweb.md) | ⭐ 51 | Go | 48/100 |
+| 292 | [awebai/aweb](./awebai-aweb.md) | ⭐ 129 | Go | 48/100 |
 | 293 | [nextcloud/mail](./nextcloud-mail.md) | ⭐ 1.1k | JavaScript | 48/100 |
 | 294 | [egulias/EmailValidator](./egulias-emailvalidator.md) | ⭐ 11.6k | PHP | 47/100 |
 | 295 | [gotchat-ai/foundry](./gotchat-ai-foundry.md) | ⭐ — | — | 47/100 |
@@ -360,8 +360,8 @@
 | 350 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ — | — | 42/100 |
 | 351 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ — | — | 42/100 |
 | 352 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ — | — | 42/100 |
-| 353 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ — | — | 42/100 |
-| 354 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ — | — | 42/100 |
+| 353 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ — | — | 42/100 |
+| 354 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ — | — | 42/100 |
 | 355 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ — | — | 42/100 |
 | 356 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ — | — | 42/100 |
 | 357 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ — | — | 42/100 |

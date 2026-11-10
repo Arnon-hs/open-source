@@ -72,7 +72,7 @@
 | 62 | [scs/substrate-api-client](./scs-substrate-api-client.md) | ⭐ 265 | Rust | 65/100 |
 | 63 | [getsentry/sentry-dart](./getsentry-sentry-dart.md) | ⭐ 877 | Dart | 65/100 |
 | 64 | [m-sec-org/BreachWeave](./m-sec-org-breachweave.md) | ⭐ 745 | TypeScript | 65/100 |
-| 65 | [bnb-chain/bnbagent-sdk](./bnb-chain-bnbagent-sdk.md) | ⭐ 53 | Python | 65/100 |
+| 65 | [bnb-chain/bnbagent-sdk](./bnb-chain-bnbagent-sdk.md) | ⭐ 66 | Python | 65/100 |
 | 66 | [openai/openai-ruby](./openai-openai-ruby.md) | ⭐ 475 | Ruby | 65/100 |
 | 67 | [GitLiveApp/firebase-kotlin-sdk](./gitliveapp-firebase-kotlin-sdk.md) | ⭐ 1.7k | Kotlin | 65/100 |
 | 68 | [Goldziher/spikard](./goldziher-spikard.md) | ⭐ 123 | Rust | 65/100 |

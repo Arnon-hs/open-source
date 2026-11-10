@@ -1,6 +1,6 @@
 # prarthanas9917/trailbuddy-ai
 
-[![Stars](https://img.shields.io/github/stars/prarthanas9917/trailbuddy-ai?style=flat-square&color=yellow)](https://github.com/prarthanas9917/trailbuddy-ai/stargazers) [![Forks](https://img.shields.io/github/forks/prarthanas9917/trailbuddy-ai?style=flat-square&color=blue)](https://github.com/prarthanas9917/trailbuddy-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/prarthanas9917/trailbuddy-ai?style=flat-square&color=yellow)](https://github.com/prarthanas9917/trailbuddy-ai/stargazers) [![Forks](https://img.shields.io/github/forks/prarthanas9917/trailbuddy-ai?style=flat-square&color=blue)](https://github.com/prarthanas9917/trailbuddy-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ prarthanas9917/trailbuddy-ai：prarthanas9917/trailbuddy-ai helps add AI capabil
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 50/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

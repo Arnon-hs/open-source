@@ -124,7 +124,7 @@
 | 114 | [MultiQC/MultiQC](./multiqc-multiqc.md) | ⭐ 1.5k | JavaScript | 62/100 |
 | 115 | [cqframework/clinical_quality_language](./cqframework-clinical-quality-language.md) | ⭐ 338 | Kotlin | 62/100 |
 | 116 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 143 | Go | 61/100 |
-| 117 | [graphene-data/graphene](./graphene-data-graphene.md) | ⭐ 53 | TypeScript | 61/100 |
+| 117 | [graphene-data/graphene](./graphene-data-graphene.md) | ⭐ 218 | TypeScript | 61/100 |
 | 118 | [gloom-sh/gloomberb](./gloom-sh-gloomberb.md) | ⭐ 2.7k | TypeScript | 61/100 |
 | 119 | [taleshape-com/shaper](./taleshape-com-shaper.md) | ⭐ 1.3k | Go | 61/100 |
 | 120 | [guacsec/guac](./guacsec-guac.md) | ⭐ 1.6k | Go | 61/100 |
@@ -202,7 +202,7 @@
 | 192 | [pandas-dev/pandas](./pandas-dev-pandas.md) | ⭐ 50.6k | Python | 58/100 |
 | 193 | [pola-rs/polars](./pola-rs-polars.md) | ⭐ 40.3k | Rust | 58/100 |
 | 194 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 23.4k | Python | 58/100 |
-| 195 | [sysevol-ai/CodeNib](./sysevol-ai-codenib.md) | ⭐ 84 | Python | 57/100 |
+| 195 | [sysevol-ai/CodeNib](./sysevol-ai-codenib.md) | ⭐ 94 | Python | 57/100 |
 | 196 | [zinggAI/zingg](./zinggai-zingg.md) | ⭐ 1.3k | Java | 57/100 |
 | 197 | [hellobertrand/zxc](./hellobertrand-zxc.md) | ⭐ 530 | C | 57/100 |
 | 198 | [OpenSpace/OpenSpace](./openspace-openspace.md) | ⭐ 1.3k | C++ | 57/100 |

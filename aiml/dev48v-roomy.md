@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation
+AI/ML
 
 ## 📝 Summary
 
 ### English
 
-dev48v/roomy: dev48v/roomy helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dev48v/roomy: dev48v/roomy helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-dev48v/roomy: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dev48v/roomy: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-dev48v/roomy：dev48v/roomy helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+dev48v/roomy：dev48v/roomy helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** dev48v/roomy helps remove repetitive manual operations from a workflow.
+**Value:** dev48v/roomy helps add AI capability without starting from a blank model stack.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -63,19 +63,19 @@ dev48v/roomy：dev48v/roomy helps remove repetitive manual operations from a wor
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 40/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 53/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 53/100 |
+| quality | 40/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-03 · [View on GitHub](https://github.com/dev48v/roomy) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-03 · [View on GitHub](https://github.com/dev48v/roomy) · [← Back to AI/ML](./README.md)</sub>

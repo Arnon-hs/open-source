@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 66 |
+| ⭐ **Stars** | 67 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 64/100 |
@@ -53,7 +53,7 @@ M-Igashi/baken：M-Igashi/baken helps turn media editing, captions, rendering, a
 
 **Quality signals**
 
-- 66 GitHub stars
+- 67 GitHub stars
 - 7 forks
 - updated 2026-11-07
 - primary language: Rust

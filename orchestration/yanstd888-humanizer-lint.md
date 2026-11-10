@@ -1,6 +1,6 @@
 # yanstd888/humanizer-lint
 
-[![Stars](https://img.shields.io/github/stars/yanstd888/humanizer-lint?style=flat-square&color=yellow)](https://github.com/yanstd888/humanizer-lint/stargazers) [![Forks](https://img.shields.io/github/forks/yanstd888/humanizer-lint?style=flat-square&color=blue)](https://github.com/yanstd888/humanizer-lint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yanstd888/humanizer-lint?style=flat-square&color=yellow)](https://github.com/yanstd888/humanizer-lint/stargazers) [![Forks](https://img.shields.io/github/forks/yanstd888/humanizer-lint?style=flat-square&color=blue)](https://github.com/yanstd888/humanizer-lint/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > A local, zero-dependency prose, copywriting, UI-text, and code-comment linter that flags stiff, AI-sounding writing (stock phrases, flat sentence rhythm, repeated wording) and tells you what to revise. Includes 8 language packs. A style checker, not an AI detector.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 71 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 102 |
+| 🍴 **Forks** | 15 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -53,8 +53,8 @@ yanstd888/humanizer-lint：yanstd888/humanizer-lint helps turn isolated prompts 
 
 **Quality signals**
 
-- 71 GitHub stars
-- 8 forks
+- 102 GitHub stars
+- 15 forks
 - updated 2026-11-05
 - primary language: JavaScript
 - 25 topics
@@ -66,14 +66,14 @@ yanstd888/humanizer-lint：yanstd888/humanizer-lint helps turn isolated prompts 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 61/100 |
+| quality | 63/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 72/100 |
-| adoption | 35/100 |
+| production | 63/100 |
+| outlook | 73/100 |
+| adoption | 39/100 |
 | categoryMatchCount | 500/100 |
-| stars | 40/100 |
-| forks | 24/100 |
+| stars | 43/100 |
+| forks | 30/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
