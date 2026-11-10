@@ -30,7 +30,7 @@
 | 20 | [theislab/single-cell-best-practices](./theislab-single-cell-best-practices.md) | ⭐ 1.3k | Jupyter Notebook | 55/100 |
 | 21 | [hexlet-basics/hexlet-basics](./hexlet-basics-hexlet-basics.md) | ⭐ 515 | TypeScript | 55/100 |
 | 22 | [junit-team/junit-examples](./junit-team-junit-examples.md) | ⭐ 1.6k | Java | 54/100 |
-| 23 | [aio-libs/aiohttp-demos](./aio-libs-aiohttp-demos.md) | ⭐ 753 | Makefile | 54/100 |
+| 23 | [aio-libs/aiohttp-demos](./aio-libs-aiohttp-demos.md) | ⭐ 749 | Makefile | 54/100 |
 | 24 | [zigcc/zig-course](./zigcc-zig-course.md) | ⭐ 375 | Zig | 53/100 |
 | 25 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.2k | Vim Script | 50/100 |
 | 26 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 233 | Rust | 49/100 |

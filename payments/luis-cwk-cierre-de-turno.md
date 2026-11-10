@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-MCP
+Payments · MCP
 
 ## 📝 Summary
 
 ### English
 
-Luis-Cwk/cierre-de-turno: Luis-Cwk/cierre-de-turno helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Luis-Cwk/cierre-de-turno: Luis-Cwk/cierre-de-turno helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Luis-Cwk/cierre-de-turno: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Luis-Cwk/cierre-de-turno: open-source проект в категориях Payments, MCP. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Luis-Cwk/cierre-de-turno：Luis-Cwk/cierre-de-turno helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Luis-Cwk/cierre-de-turno：Luis-Cwk/cierre-de-turno helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Luis-Cwk/cierre-de-turno helps connect AI assistants to real tools and data through a standard protocol.
+**Value:** Luis-Cwk/cierre-de-turno helps integrate monetization, billing, or PSP flows faster.
 
 **Best use cases**
 
-- connect AI agents to tools
-- ship Model Context Protocol servers
-- standardize integrations
+- integrate billing or checkout
+- evaluate PSP flows
+- automate payment operations
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -63,19 +63,19 @@ Luis-Cwk/cierre-de-turno：Luis-Cwk/cierre-de-turno helps connect AI assistants 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 40/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 53/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 53/100 |
+| quality | 40/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 54/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-01 · [View on GitHub](https://github.com/Luis-Cwk/cierre-de-turno) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-01 · [View on GitHub](https://github.com/Luis-Cwk/cierre-de-turno) · [← Back to Payments](./README.md)</sub>

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 733 |
+| ⭐ **Stars** | 741 |
 | 🍴 **Forks** | 205 |
 | 💻 **Language** | Dockerfile |
 | 📈 **Score** | 53/100 |

@@ -11,7 +11,7 @@
 | 1 | [harry0703/MoneyPrinterTurbo](./harry0703-moneyprinterturbo.md) | ⭐ 141.6k | Python | 85/100 |
 | 2 | [NaufalRizqullah/opensource-clipping](./naufalrizqullah-opensource-clipping.md) | ⭐ 104 | Python | 84/100 |
 | 3 | [jipraks/yt-short-clipper](./jipraks-yt-short-clipper.md) | ⭐ 1.1k | TypeScript | 84/100 |
-| 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 855 | TypeScript | 83/100 |
+| 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 912 | TypeScript | 83/100 |
 | 5 | [el-frontend/video-wizard](./el-frontend-video-wizard.md) | ⭐ 18 | TypeScript | 82/100 |
 | 6 | [adityaarsharma/youtube-marketing-skills](./adityaarsharma-youtube-marketing-skills.md) | ⭐ 54 | JavaScript | 82/100 |
 | 7 | [yi1108/printfilm](./yi1108-printfilm.md) | ⭐ 7.4k | Python | 82/100 |
@@ -50,7 +50,7 @@
 | 40 | [justynberk/reel-kit](./justynberk-reel-kit.md) | ⭐ 11 | Python | 72/100 |
 | 41 | [DaBaoAgent/DaobaoAI-DY](./dabaoagent-daobaoai-dy.md) | ⭐ 11 | Python | 72/100 |
 | 42 | [Agions/story-fab](./agions-story-fab.md) | ⭐ 134 | TypeScript | 72/100 |
-| 43 | [Vibha-Ramprakash/claude-video-effects](./vibha-ramprakash-claude-video-effects.md) | ⭐ 830 | Python | 71/100 |
+| 43 | [Vibha-Ramprakash/claude-video-effects](./vibha-ramprakash-claude-video-effects.md) | ⭐ 831 | Python | 71/100 |
 | 44 | [JuneYaooo/rea-video](./juneyaooo-rea-video.md) | ⭐ 21 | Python | 71/100 |
 | 45 | [andriidrok1/autobroll](./andriidrok1-autobroll.md) | ⭐ 21 | TypeScript | 71/100 |
 | 46 | [KaanGoker/GetSubtitlesApp](./kaangoker-getsubtitlesapp.md) | ⭐ 11 | Python | 71/100 |
@@ -98,7 +98,7 @@
 | 88 | [toki-plus/ai-video-workflow](./toki-plus-ai-video-workflow.md) | ⭐ 95 | Python | 64/100 |
 | 89 | [LordOmegabit6093/short-video-resp-maker](./lordomegabit6093-short-video-resp-maker.md) | ⭐ 20 | — | 63/100 |
 | 90 | [helloworld8661/Viddeos-ai-system-review](./helloworld8661-viddeos-ai-system-review.md) | ⭐ 21 | — | 63/100 |
-| 91 | [HeyChengC/vibe-knowledge-film](./heychengc-vibe-knowledge-film.md) | ⭐ 721 | JavaScript | 63/100 |
+| 91 | [HeyChengC/vibe-knowledge-film](./heychengc-vibe-knowledge-film.md) | ⭐ 1.2k | JavaScript | 63/100 |
 | 92 | [1076184145/video-automation](./1076184145-video-automation.md) | ⭐ 12 | Python | 63/100 |
 | 93 | [tommylin07-web/podclip-matrix](./tommylin07-web-podclip-matrix.md) | ⭐ 13 | JavaScript | 63/100 |
 | 94 | [toki-plus/ai-mixed-cut](./toki-plus-ai-mixed-cut.md) | ⭐ 92 | — | 63/100 |

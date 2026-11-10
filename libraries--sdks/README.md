@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Katakate/k7](./katakate-k7.md) | ⭐ 786 | Python | 85/100 |
+| 1 | [Katakate/k7](./katakate-k7.md) | ⭐ 825 | Python | 85/100 |
 | 2 | [googleapis/google-api-python-client](./googleapis-google-api-python-client.md) | ⭐ 9k | Python | 79/100 |
 | 3 | [open-telemetry/opentelemetry-python](./open-telemetry-opentelemetry-python.md) | ⭐ 2.7k | Python | 78/100 |
 | 4 | [open-telemetry/opentelemetry-go](./open-telemetry-opentelemetry-go.md) | ⭐ 6.6k | Go | 77/100 |
@@ -31,16 +31,16 @@
 | 21 | [MagicStack/asyncpg](./magicstack-asyncpg.md) | ⭐ 8.1k | Python | 70/100 |
 | 22 | [adyanth/cloudflare-operator](./adyanth-cloudflare-operator.md) | ⭐ 688 | Go | 70/100 |
 | 23 | [remotestorage/remotestorage.js](./remotestorage-remotestorage.js.md) | ⭐ 2.4k | JavaScript | 70/100 |
-| 24 | [TencentCloud/tencentcloud-sdk-python](./tencentcloud-tencentcloud-sdk-python.md) | ⭐ 708 | Python | 70/100 |
+| 24 | [TencentCloud/tencentcloud-sdk-python](./tencentcloud-tencentcloud-sdk-python.md) | ⭐ 718 | Python | 70/100 |
 | 25 | [googleads/googleads-mobile-unity](./googleads-googleads-mobile-unity.md) | ⭐ 1.6k | C# | 70/100 |
 | 26 | [operator-framework/java-operator-sdk](./operator-framework-java-operator-sdk.md) | ⭐ 945 | Java | 70/100 |
-| 27 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 736 | Go | 70/100 |
+| 27 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 750 | Go | 70/100 |
 | 28 | [octokit/octokit.js](./octokit-octokit.js.md) | ⭐ 7.9k | TypeScript | 69/100 |
-| 29 | [meilisearch/meilisearch-php](./meilisearch-meilisearch-php.md) | ⭐ 750 | PHP | 69/100 |
+| 29 | [meilisearch/meilisearch-php](./meilisearch-meilisearch-php.md) | ⭐ 763 | PHP | 69/100 |
 | 30 | [yhirose/cpp-httplib](./yhirose-cpp-httplib.md) | ⭐ 17k | C++ | 69/100 |
 | 31 | [getsentry/sentry-cocoa](./getsentry-sentry-cocoa.md) | ⭐ 1.1k | Swift | 69/100 |
 | 32 | [xberg-io/tree-sitter-language-pack](./xberg-io-tree-sitter-language-pack.md) | ⭐ 408 | Rust | 69/100 |
-| 33 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 753 | C# | 69/100 |
+| 33 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 775 | C# | 69/100 |
 | 34 | [livekit/client-sdk-android](./livekit-client-sdk-android.md) | ⭐ 349 | Kotlin | 68/100 |
 | 35 | [pika/pika](./pika-pika.md) | ⭐ 3.9k | Python | 68/100 |
 | 36 | [livekit/client-sdk-flutter](./livekit-client-sdk-flutter.md) | ⭐ 407 | Dart | 68/100 |
@@ -70,7 +70,7 @@
 | 60 | [ValveSoftware/source-sdk-2013](./valvesoftware-source-sdk-2013.md) | ⭐ 10.1k | C++ | 65/100 |
 | 61 | [gophercloud/gophercloud](./gophercloud-gophercloud.md) | ⭐ 1k | Go | 65/100 |
 | 62 | [scs/substrate-api-client](./scs-substrate-api-client.md) | ⭐ 263 | Rust | 65/100 |
-| 63 | [getsentry/sentry-dart](./getsentry-sentry-dart.md) | ⭐ 871 | Dart | 65/100 |
+| 63 | [getsentry/sentry-dart](./getsentry-sentry-dart.md) | ⭐ 877 | Dart | 65/100 |
 | 64 | [m-sec-org/BreachWeave](./m-sec-org-breachweave.md) | ⭐ 466 | TypeScript | 65/100 |
 | 65 | [bnb-chain/bnbagent-sdk](./bnb-chain-bnbagent-sdk.md) | ⭐ 53 | Python | 65/100 |
 | 66 | [openai/openai-ruby](./openai-openai-ruby.md) | ⭐ 442 | Ruby | 65/100 |
@@ -85,7 +85,7 @@
 | 75 | [auth0/go-jwt-middleware](./auth0-go-jwt-middleware.md) | ⭐ 1.2k | Go | 64/100 |
 | 76 | [dotnet/dotnet-operator-sdk](./dotnet-dotnet-operator-sdk.md) | ⭐ 367 | C# | 64/100 |
 | 77 | [celestiaorg/celestia-app](./celestiaorg-celestia-app.md) | ⭐ 412 | Go | 64/100 |
-| 78 | [xybp888/iOS-SDKs](./xybp888-ios-sdks.md) | ⭐ 873 | Objective-C | 64/100 |
+| 78 | [xybp888/iOS-SDKs](./xybp888-ios-sdks.md) | ⭐ 924 | Objective-C | 64/100 |
 | 79 | [DataDog/dd-trace-rb](./datadog-dd-trace-rb.md) | ⭐ 394 | Ruby | 64/100 |
 | 80 | [TanStack/ai](./tanstack-ai.md) | ⭐ 3.3k | TypeScript | 64/100 |
 | 81 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 8k | Python | 64/100 |
@@ -134,7 +134,7 @@
 | 124 | [xArm-Developer/xArm-Python-SDK](./xarm-developer-xarm-python-sdk.md) | ⭐ 324 | Python | 60/100 |
 | 125 | [zeromq/pyzmq](./zeromq-pyzmq.md) | ⭐ 4.2k | Python | 60/100 |
 | 126 | [wjakob/nanobind](./wjakob-nanobind.md) | ⭐ 3.8k | C++ | 60/100 |
-| 127 | [pocketbase/dart-sdk](./pocketbase-dart-sdk.md) | ⭐ 716 | Dart | 60/100 |
+| 127 | [pocketbase/dart-sdk](./pocketbase-dart-sdk.md) | ⭐ 722 | Dart | 60/100 |
 | 128 | [lazy-hq/aisdk](./lazy-hq-aisdk.md) | ⭐ 245 | Rust | 60/100 |
 | 129 | [mapbox/mapbox-navigation-android](./mapbox-mapbox-navigation-android.md) | ⭐ 652 | Kotlin | 60/100 |
 | 130 | [espressif/esp-matter](./espressif-esp-matter.md) | ⭐ 1.1k | C++ | 60/100 |
@@ -187,12 +187,12 @@
 | 177 | [Enos2/my-sdk-work](./enos2-my-sdk-work.md) | ⭐ 1 | TypeScript | 56/100 |
 | 178 | [Convertio/convertio-php](./convertio-convertio-php.md) | ⭐ 276 | PHP | 55/100 |
 | 179 | [xbill9/devto-sanity](./xbill9-devto-sanity.md) | ⭐ — | HTML | 55/100 |
-| 180 | [frida/frida-python](./frida-frida-python.md) | ⭐ 869 | Python | 55/100 |
+| 180 | [frida/frida-python](./frida-frida-python.md) | ⭐ 877 | Python | 55/100 |
 | 181 | [gtk-rs/gtk3-rs](./gtk-rs-gtk3-rs.md) | ⭐ 500 | Rust | 55/100 |
 | 182 | [prove-rs/z3.rs](./prove-rs-z3.rs.md) | ⭐ 522 | Rust | 55/100 |
 | 183 | [y3owk1n/neru](./y3owk1n-neru.md) | ⭐ 296 | Go | 55/100 |
 | 184 | [rust-openssl/rust-openssl](./rust-openssl-rust-openssl.md) | ⭐ 1.6k | Rust | 54/100 |
-| 185 | [frida/frida-core](./frida-frida-core.md) | ⭐ 748 | Vala | 54/100 |
+| 185 | [frida/frida-core](./frida-frida-core.md) | ⭐ 789 | Vala | 54/100 |
 | 186 | [sdroege/gstreamer-rs](./sdroege-gstreamer-rs.md) | ⭐ 591 | Rust | 54/100 |
 | 187 | [restsend/restsend-rs](./restsend-restsend-rs.md) | ⭐ 123 | Rust | 54/100 |
 | 188 | [google/crubit](./google-crubit.md) | ⭐ 1.1k | C++ | 54/100 |

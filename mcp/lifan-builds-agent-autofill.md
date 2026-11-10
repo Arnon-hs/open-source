@@ -1,6 +1,6 @@
 # lifan-builds/agent-autofill
 
-[![Stars](https://img.shields.io/github/stars/lifan-builds/agent-autofill?style=flat-square&color=yellow)](https://github.com/lifan-builds/agent-autofill/stargazers) [![Forks](https://img.shields.io/github/forks/lifan-builds/agent-autofill?style=flat-square&color=blue)](https://github.com/lifan-builds/agent-autofill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lifan-builds/agent-autofill?style=flat-square&color=yellow)](https://github.com/lifan-builds/agent-autofill/stargazers) [![Forks](https://img.shields.io/github/forks/lifan-builds/agent-autofill?style=flat-square&color=blue)](https://github.com/lifan-builds/agent-autofill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > A macOS-first local information broker for AI agents, with selected-field access, Chrome intake, and origin-bound credential handoff.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ lifan-builds/agent-autofill：lifan-builds/agent-autofill helps connect AI assis
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 71/100 |
+| production | 59/100 |
+| outlook | 64/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 300/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

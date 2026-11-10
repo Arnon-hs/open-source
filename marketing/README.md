@@ -26,7 +26,7 @@
 | 16 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 478 | — | 48/100 |
 | 17 | [neodevpro/neodevhost](./neodevpro-neodevhost.md) | ⭐ 1.4k | Adblock Filter List | 48/100 |
 | 18 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 2.5k | JavaScript | 47/100 |
-| 19 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 726 | Adblock Filter List | 47/100 |
+| 19 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 745 | Adblock Filter List | 47/100 |
 | 20 | [crevas/Apple-Ads-CLI](./crevas-apple-ads-cli.md) | ⭐ — | — | 45/100 |
 | 21 | [adeptads-growth/google-ads-search-term-ngram-script](./adeptads-growth-google-ads-search-term-ngram-script.md) | ⭐ — | — | 44/100 |
 | 22 | [othy19904-eng/conversionguard](./othy19904-eng-conversionguard.md) | ⭐ — | Python | 42/100 |

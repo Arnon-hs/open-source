@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 804 |
-| 🍴 **Forks** | 81 |
+| ⭐ **Stars** | 819 |
+| 🍴 **Forks** | 85 |
 | 💻 **Language** | Rocq Prover |
 | 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-09-05 |

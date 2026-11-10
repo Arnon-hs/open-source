@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 749 |
-| 🍴 **Forks** | 172 |
+| ⭐ **Stars** | 771 |
+| 🍴 **Forks** | 182 |
 | 💻 **Language** | Standard ML |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-09-05 |

@@ -37,14 +37,14 @@
 | 27 | [EvoLinkAI/awesome-seedance-2.5-guide](./evolinkai-awesome-seedance-2.5-guide.md) | ⭐ 392 | Shell | 73/100 |
 | 28 | [aiworkskills/wechat-article-skills](./aiworkskills-wechat-article-skills.md) | ⭐ 522 | Python | 72/100 |
 | 29 | [smixs/visual-skills](./smixs-visual-skills.md) | ⭐ 129 | — | 72/100 |
-| 30 | [Haervwe/open-webui-tools](./haervwe-open-webui-tools.md) | ⭐ 781 | Python | 72/100 |
+| 30 | [Haervwe/open-webui-tools](./haervwe-open-webui-tools.md) | ⭐ 838 | Python | 72/100 |
 | 31 | [ddalcu/mlx-serve](./ddalcu-mlx-serve.md) | ⭐ 188 | Zig | 72/100 |
 | 32 | [Notifuse/notifuse](./notifuse-notifuse.md) | ⭐ 2.3k | Go | 72/100 |
 | 33 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 183 | Python | 71/100 |
 | 34 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 19 | — | 71/100 |
 | 35 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 170 | Python | 71/100 |
 | 36 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 111 | Python | 71/100 |
-| 37 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 784 | TypeScript | 71/100 |
+| 37 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 3.7k | TypeScript | 71/100 |
 | 38 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
 | 39 | [cporter202/awesome-ai-tools](./cporter202-awesome-ai-tools.md) | ⭐ 260 | — | 70/100 |
 | 40 | [claude-world/notebooklm-skill](./claude-world-notebooklm-skill.md) | ⭐ 360 | Python | 70/100 |
@@ -53,7 +53,7 @@
 | 43 | [zJay26/douyin-skills](./zjay26-douyin-skills.md) | ⭐ 51 | Python | 69/100 |
 | 44 | [vargHQ/sdk](./varghq-sdk.md) | ⭐ 334 | TypeScript | 69/100 |
 | 45 | [social-media-skills/skills](./social-media-skills-skills.md) | ⭐ 35 | Shell | 69/100 |
-| 46 | [phpList/phplist3](./phplist-phplist3.md) | ⭐ 865 | PHP | 69/100 |
+| 46 | [phpList/phplist3](./phplist-phplist3.md) | ⭐ 882 | PHP | 69/100 |
 | 47 | [zth0828/mmx-mcp-server](./zth0828-mmx-mcp-server.md) | ⭐ 31 | JavaScript | 69/100 |
 | 48 | [stabgan/openrouter-mcp-multimodal](./stabgan-openrouter-mcp-multimodal.md) | ⭐ 52 | TypeScript | 69/100 |
 | 49 | [Anil-matcha/Open-Generative-AI](./anil-matcha-open-generative-ai.md) | ⭐ 33.7k | JavaScript | 69/100 |
@@ -110,7 +110,7 @@
 | 100 | [bborn/lewsnetter](./bborn-lewsnetter.md) | ⭐ 319 | Ruby | 57/100 |
 | 101 | [Eva-311/hermes-automation-examples](./eva-311-hermes-automation-examples.md) | ⭐ 2 | — | 56/100 |
 | 102 | [SandAI-org/MagiCompiler](./sandai-org-magicompiler.md) | ⭐ 317 | Python | 56/100 |
-| 103 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 855 | Rust | 56/100 |
+| 103 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 888 | Rust | 56/100 |
 | 104 | [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](./youmind-openlab-nano-banana-pro-prompts-recommend-skill.md) | ⭐ 1.9k | TypeScript | 56/100 |
 | 105 | [wide-trace/open-higgsfield](./wide-trace-open-higgsfield.md) | ⭐ 5.6k | TypeScript | 55/100 |
 | 106 | [doka-guide/content](./doka-guide-content.md) | ⭐ 1.5k | HTML | 55/100 |
@@ -145,8 +145,8 @@
 | 135 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
 | 136 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 666 | HTML | 45/100 |
 | 137 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ — | — | 43/100 |
-| 138 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ — | — | 43/100 |
-| 139 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ — | — | 43/100 |
+| 138 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ — | — | 43/100 |
+| 139 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ — | — | 43/100 |
 | 140 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 141 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 142 | [google/generative-ai-node](./google-generative-ai-node.md) | ⭐ — | — | 43/100 |
