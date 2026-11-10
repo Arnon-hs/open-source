@@ -1,6 +1,6 @@
 # kiri1101/create-nuxt-primevue
 
-[![Stars](https://img.shields.io/github/stars/kiri1101/create-nuxt-primevue?style=flat-square&color=yellow)](https://github.com/kiri1101/create-nuxt-primevue/stargazers) [![Forks](https://img.shields.io/github/forks/kiri1101/create-nuxt-primevue?style=flat-square&color=blue)](https://github.com/kiri1101/create-nuxt-primevue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kiri1101/create-nuxt-primevue?style=flat-square&color=yellow)](https://github.com/kiri1101/create-nuxt-primevue/stargazers) [![Forks](https://img.shields.io/github/forks/kiri1101/create-nuxt-primevue?style=flat-square&color=blue)](https://github.com/kiri1101/create-nuxt-primevue/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ kiri1101/create-nuxt-primevue：kiri1101/create-nuxt-primevue may be useful when
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 34/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 55/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

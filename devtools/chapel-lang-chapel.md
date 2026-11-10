@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 446 |
+| ⭐ **Stars** | 2.1k |
+| 🍴 **Forks** | 448 |
 | 💻 **Language** | Chapel |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-09-05 |

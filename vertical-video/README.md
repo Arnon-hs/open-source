@@ -114,7 +114,7 @@
 | 104 | [HeyChengC/bighead-collage](./heychengc-bighead-collage.md) | ⭐ 29 | Python | 60/100 |
 | 105 | [ronin1770/reel-quick](./ronin1770-reel-quick.md) | ⭐ 13 | Python | 60/100 |
 | 106 | [MelonS/MelonS-Agents](./melons-melons-agents.md) | ⭐ 15 | C# | 60/100 |
-| 107 | [CharlesPikachu/videodl](./charlespikachu-videodl.md) | ⭐ 1.7k | Python | 60/100 |
+| 107 | [CharlesPikachu/videodl](./charlespikachu-videodl.md) | ⭐ 3.2k | Python | 60/100 |
 | 108 | [liuhaisi2026212-maker/taishang-laojun](./liuhaisi2026212-maker-taishang-laojun.md) | ⭐ 94 | Markdown | 59/100 |
 | 109 | [hanli1999/video-breakdown-skill](./hanli1999-video-breakdown-skill.md) | ⭐ 12 | — | 59/100 |
 | 110 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 3 | Python | 59/100 |
@@ -165,8 +165,8 @@
 | 155 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 343 | JavaScript | 50/100 |
 | 156 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ — | — | 48/100 |
 | 157 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 47/100 |
-| 158 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
-| 159 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 47/100 |
+| 158 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 47/100 |
+| 159 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
 | 160 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 47/100 |
 | 161 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ — | — | 45/100 |
 | 162 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |

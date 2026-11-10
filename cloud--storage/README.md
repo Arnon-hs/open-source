@@ -23,11 +23,11 @@
 | 13 | [emissary-ingress/emissary](./emissary-ingress-emissary.md) | ⭐ 4.5k | Python | 77/100 |
 | 14 | [aws-amplify/amplify-js](./aws-amplify-amplify-js.md) | ⭐ 9.6k | TypeScript | 77/100 |
 | 15 | [awsdocs/aws-doc-sdk-examples](./awsdocs-aws-doc-sdk-examples.md) | ⭐ 10.5k | Java | 77/100 |
-| 16 | [Altinity/clickhouse-backup](./altinity-clickhouse-backup.md) | ⭐ 1.6k | Go | 77/100 |
+| 16 | [Altinity/clickhouse-backup](./altinity-clickhouse-backup.md) | ⭐ 1.7k | Go | 77/100 |
 | 17 | [openinary/openinary](./openinary-openinary.md) | ⭐ 345 | TypeScript | 77/100 |
-| 18 | [projectsend/projectsend](./projectsend-projectsend.md) | ⭐ 1.9k | PHP | 77/100 |
+| 18 | [projectsend/projectsend](./projectsend-projectsend.md) | ⭐ 2.1k | PHP | 77/100 |
 | 19 | [airbytehq/airbyte](./airbytehq-airbyte.md) | ⭐ 22.3k | Python | 77/100 |
-| 20 | [collinbarrett/FilterLists](./collinbarrett-filterlists.md) | ⭐ 1.6k | C# | 76/100 |
+| 20 | [collinbarrett/FilterLists](./collinbarrett-filterlists.md) | ⭐ 1.7k | C# | 76/100 |
 | 21 | [savvyagents/larasend](./savvyagents-larasend.md) | ⭐ 328 | Vue | 76/100 |
 | 22 | [aws-amplify/amplify-cli](./aws-amplify-amplify-cli.md) | ⭐ 2.9k | TypeScript | 76/100 |
 | 23 | [eksctl-io/eksctl](./eksctl-io-eksctl.md) | ⭐ 5.2k | Go | 75/100 |
@@ -50,7 +50,7 @@
 | 40 | [aws-powertools/powertools-lambda-typescript](./aws-powertools-powertools-lambda-typescript.md) | ⭐ 1.8k | TypeScript | 73/100 |
 | 41 | [googleapis/google-cloud-dotnet](./googleapis-google-cloud-dotnet.md) | ⭐ 1.1k | C# | 73/100 |
 | 42 | [abdolence/gcloud-sdk-rs](./abdolence-gcloud-sdk-rs.md) | ⭐ 105 | Rust | 73/100 |
-| 43 | [microcks/microcks](./microcks-microcks.md) | ⭐ 2k | Java | 73/100 |
+| 43 | [microcks/microcks](./microcks-microcks.md) | ⭐ 2.1k | Java | 73/100 |
 | 44 | [moby/buildkit](./moby-buildkit.md) | ⭐ 10.4k | Go | 73/100 |
 | 45 | [okteto/okteto](./okteto-okteto.md) | ⭐ 3.6k | Go | 73/100 |
 | 46 | [serverless/serverless](./serverless-serverless.md) | ⭐ 46.9k | JavaScript | 73/100 |
@@ -61,7 +61,7 @@
 | 51 | [googleapis/google-cloud-php](./googleapis-google-cloud-php.md) | ⭐ 1.2k | PHP | 72/100 |
 | 52 | [Azure/azure-devops-cli-extension](./azure-azure-devops-cli-extension.md) | ⭐ 675 | Python | 72/100 |
 | 53 | [Forceu/Gokapi](./forceu-gokapi.md) | ⭐ 3k | Go | 72/100 |
-| 54 | [googleapis/google-cloud-java](./googleapis-google-cloud-java.md) | ⭐ 2k | Java | 72/100 |
+| 54 | [googleapis/google-cloud-java](./googleapis-google-cloud-java.md) | ⭐ 2.1k | Java | 72/100 |
 | 55 | [go-to-k/cdkd](./go-to-k-cdkd.md) | ⭐ 146 | TypeScript | 71/100 |
 | 56 | [boto/boto3](./boto-boto3.md) | ⭐ 9.9k | Python | 71/100 |
 | 57 | [syself/cluster-api-provider-hetzner](./syself-cluster-api-provider-hetzner.md) | ⭐ 1.1k | Go | 71/100 |
@@ -88,11 +88,11 @@
 | 78 | [juicedata/juicefs](./juicedata-juicefs.md) | ⭐ 14.7k | Go | 70/100 |
 | 79 | [smartstore/Smartstore](./smartstore-smartstore.md) | ⭐ 1.5k | C# | 70/100 |
 | 80 | [glassechidna/trackiam](./glassechidna-trackiam.md) | ⭐ 305 | Go | 70/100 |
-| 81 | [Azure/azure-sdk-for-go](./azure-azure-sdk-for-go.md) | ⭐ 1.8k | Go | 70/100 |
+| 81 | [Azure/azure-sdk-for-go](./azure-azure-sdk-for-go.md) | ⭐ 1.9k | Go | 70/100 |
 | 82 | [kopia/kopia](./kopia-kopia.md) | ⭐ 14.6k | Go | 70/100 |
 | 83 | [crossplane/crossplane](./crossplane-crossplane.md) | ⭐ 12.2k | Go | 69/100 |
 | 84 | [denislupookov/altersend](./denislupookov-altersend.md) | ⭐ 1.3k | TypeScript | 69/100 |
-| 85 | [scality/cloudserver](./scality-cloudserver.md) | ⭐ 1.9k | JavaScript | 69/100 |
+| 85 | [scality/cloudserver](./scality-cloudserver.md) | ⭐ 2k | JavaScript | 69/100 |
 | 86 | [kubernetes-sigs/external-dns](./kubernetes-sigs-external-dns.md) | ⭐ 9.1k | Go | 69/100 |
 | 87 | [kcl-lang/kcl](./kcl-lang-kcl.md) | ⭐ 2.4k | Rust | 69/100 |
 | 88 | [hbons/SparkleShare](./hbons-sparkleshare.md) | ⭐ 5k | C# | 69/100 |
@@ -103,7 +103,7 @@
 | 93 | [Azure/azure-cli](./azure-azure-cli.md) | ⭐ 4.7k | Python | 69/100 |
 | 94 | [atilladeniz/Kubeli](./atilladeniz-kubeli.md) | ⭐ 363 | TypeScript | 69/100 |
 | 95 | [aws/aws-cdk](./aws-aws-cdk.md) | ⭐ 13k | TypeScript | 69/100 |
-| 96 | [SonicJs-Org/sonicjs](./sonicjs-org-sonicjs.md) | ⭐ 1.6k | TypeScript | 69/100 |
+| 96 | [SonicJs-Org/sonicjs](./sonicjs-org-sonicjs.md) | ⭐ 1.8k | TypeScript | 69/100 |
 | 97 | [parseablehq/parseable](./parseablehq-parseable.md) | ⭐ 2.6k | Rust | 69/100 |
 | 98 | [ubicloud/ubicloud](./ubicloud-ubicloud.md) | ⭐ 12.4k | Ruby | 69/100 |
 | 99 | [PeerDB-io/peerdb](./peerdb-io-peerdb.md) | ⭐ 3.3k | Go | 69/100 |
@@ -128,7 +128,7 @@
 | 118 | [midwayjs/midway](./midwayjs-midway.md) | ⭐ 7.8k | TypeScript | 68/100 |
 | 119 | [cloudflare/workers-sdk](./cloudflare-workers-sdk.md) | ⭐ 4.7k | TypeScript | 68/100 |
 | 120 | [Chistogov/syncra](./chistogov-syncra.md) | ⭐ 1 | TypeScript | 67/100 |
-| 121 | [aquasecurity/trivy-operator](./aquasecurity-trivy-operator.md) | ⭐ 1.9k | Go | 67/100 |
+| 121 | [aquasecurity/trivy-operator](./aquasecurity-trivy-operator.md) | ⭐ 2k | Go | 67/100 |
 | 122 | [wal-g/wal-g](./wal-g-wal-g.md) | ⭐ 4.3k | Go | 67/100 |
 | 123 | [matsest/lazyazure](./matsest-lazyazure.md) | ⭐ 46 | Go | 67/100 |
 | 124 | [dotnet/orleans](./dotnet-orleans.md) | ⭐ 10.9k | C# | 67/100 |
@@ -151,7 +151,7 @@
 | 141 | [goodrain/rainbond](./goodrain-rainbond.md) | ⭐ 6.3k | Go | 67/100 |
 | 142 | [pulumi/pulumi](./pulumi-pulumi.md) | ⭐ 25.9k | Go | 67/100 |
 | 143 | [nhost/nhost](./nhost-nhost.md) | ⭐ 9.4k | TypeScript | 67/100 |
-| 144 | [cozystack/cozystack](./cozystack-cozystack.md) | ⭐ 2.1k | Go | 67/100 |
+| 144 | [cozystack/cozystack](./cozystack-cozystack.md) | ⭐ 2.4k | Go | 67/100 |
 | 145 | [docker/login-action](./docker-login-action.md) | ⭐ 1.5k | TypeScript | 66/100 |
 | 146 | [overmindtech/cli](./overmindtech-cli.md) | ⭐ 185 | Go | 66/100 |
 | 147 | [paolobarbolini/rusty-s3](./paolobarbolini-rusty-s3.md) | ⭐ 152 | Rust | 66/100 |
@@ -164,9 +164,9 @@
 | 154 | [microg/GmsCore](./microg-gmscore.md) | ⭐ 15.3k | Java | 66/100 |
 | 155 | [kubernetes-sigs/cluster-api-provider-azure](./kubernetes-sigs-cluster-api-provider-azure.md) | ⭐ 333 | Go | 66/100 |
 | 156 | [neondatabase/neonctl](./neondatabase-neonctl.md) | ⭐ 116 | TypeScript | 66/100 |
-| 157 | [thomaspoignant/go-feature-flag](./thomaspoignant-go-feature-flag.md) | ⭐ 2k | Go | 66/100 |
+| 157 | [thomaspoignant/go-feature-flag](./thomaspoignant-go-feature-flag.md) | ⭐ 2.1k | Go | 66/100 |
 | 158 | [seaweedfs/seaweedfs](./seaweedfs-seaweedfs.md) | ⭐ 36k | Go | 66/100 |
-| 159 | [clastix/kamaji](./clastix-kamaji.md) | ⭐ 2k | Go | 65/100 |
+| 159 | [clastix/kamaji](./clastix-kamaji.md) | ⭐ 2.1k | Go | 65/100 |
 | 160 | [k8snetworkplumbingwg/sriov-cni](./k8snetworkplumbingwg-sriov-cni.md) | ⭐ 384 | Go | 65/100 |
 | 161 | [s3fs-fuse/s3fs-fuse](./s3fs-fuse-s3fs-fuse.md) | ⭐ 10k | C++ | 65/100 |
 | 162 | [neilotoole/sq](./neilotoole-sq.md) | ⭐ 2.6k | Go | 65/100 |
@@ -198,7 +198,7 @@
 | 188 | [JetBrains/qodana-action](./jetbrains-qodana-action.md) | ⭐ 306 | JavaScript | 64/100 |
 | 189 | [nats-io/nats.rs](./nats-io-nats.rs.md) | ⭐ 1.5k | Rust | 64/100 |
 | 190 | [mozilla/sccache](./mozilla-sccache.md) | ⭐ 7.9k | Rust | 64/100 |
-| 191 | [koordinator-sh/koordinator](./koordinator-sh-koordinator.md) | ⭐ 1.7k | Go | 64/100 |
+| 191 | [koordinator-sh/koordinator](./koordinator-sh-koordinator.md) | ⭐ 1.8k | Go | 64/100 |
 | 192 | [pulumi/examples](./pulumi-examples.md) | ⭐ 2.6k | TypeScript | 64/100 |
 | 193 | [Azure/azqr](./azure-azqr.md) | ⭐ 779 | Go | 64/100 |
 | 194 | [micronaut-projects/micronaut-core](./micronaut-projects-micronaut-core.md) | ⭐ 6.4k | Java | 64/100 |
@@ -283,10 +283,10 @@
 | 273 | [kedacore/http-add-on](./kedacore-http-add-on.md) | ⭐ 537 | Go | 61/100 |
 | 274 | [GoogleCloudPlatform/gcsfuse](./googlecloudplatform-gcsfuse.md) | ⭐ 2.3k | Go | 61/100 |
 | 275 | [zKillboard/zKillboard](./zkillboard-zkillboard.md) | ⭐ 305 | HTML | 61/100 |
-| 276 | [Barre/ZeroFS](./barre-zerofs.md) | ⭐ 1.9k | Rust | 61/100 |
+| 276 | [Barre/ZeroFS](./barre-zerofs.md) | ⭐ 3.2k | Rust | 61/100 |
 | 277 | [aws/secrets-store-csi-driver-provider-aws](./aws-secrets-store-csi-driver-provider-aws.md) | ⭐ 584 | Go | 61/100 |
 | 278 | [meshery/meshery.io](./meshery-meshery.io.md) | ⭐ 757 | JavaScript | 61/100 |
-| 279 | [saltbo/zpan](./saltbo-zpan.md) | ⭐ 2k | TypeScript | 61/100 |
+| 279 | [saltbo/zpan](./saltbo-zpan.md) | ⭐ 2.1k | TypeScript | 61/100 |
 | 280 | [Azure/azure-sdk-for-js](./azure-azure-sdk-for-js.md) | ⭐ 2.3k | TypeScript | 61/100 |
 | 281 | [arcjet/arcjet-js](./arcjet-arcjet-js.md) | ⭐ 660 | TypeScript | 61/100 |
 | 282 | [nubenetes/awesome-kubernetes](./nubenetes-awesome-kubernetes.md) | ⭐ 662 | Python | 61/100 |
@@ -334,7 +334,7 @@
 | 324 | [ekristen/aws-nuke](./ekristen-aws-nuke.md) | ⭐ 1.3k | Go | 59/100 |
 | 325 | [aio-libs/aiobotocore](./aio-libs-aiobotocore.md) | ⭐ 1.4k | Python | 59/100 |
 | 326 | [Azure/azure-sdk-for-net](./azure-azure-sdk-for-net.md) | ⭐ 6.1k | C# | 59/100 |
-| 327 | [zarf-dev/zarf](./zarf-dev-zarf.md) | ⭐ 1.9k | Go | 59/100 |
+| 327 | [zarf-dev/zarf](./zarf-dev-zarf.md) | ⭐ 2.1k | Go | 59/100 |
 | 328 | [sivchari/kumo](./sivchari-kumo.md) | ⭐ 1.1k | Go | 59/100 |
 | 329 | [harryzcy/mailbox](./harryzcy-mailbox.md) | ⭐ 252 | Go | 59/100 |
 | 330 | [micrometer-metrics/micrometer](./micrometer-metrics-micrometer.md) | ⭐ 4.9k | Java | 59/100 |
@@ -367,7 +367,7 @@
 | 357 | [AtalayaLabs/OxiCloud](./atalayalabs-oxicloud.md) | ⭐ 3.7k | Rust | 58/100 |
 | 358 | [linkerd/linkerd2](./linkerd-linkerd2.md) | ⭐ 11.5k | Go | 58/100 |
 | 359 | [David-Crty/databasement](./david-crty-databasement.md) | ⭐ 768 | PHP | 58/100 |
-| 360 | [shuaiplus/nodewarden](./shuaiplus-nodewarden.md) | ⭐ 1.9k | TypeScript | 58/100 |
+| 360 | [shuaiplus/nodewarden](./shuaiplus-nodewarden.md) | ⭐ 4.1k | TypeScript | 58/100 |
 | 361 | [treeverse/lakeFS](./treeverse-lakefs.md) | ⭐ 5.6k | Go | 58/100 |
 | 362 | [kedacore/keda](./kedacore-keda.md) | ⭐ 10.7k | Go | 58/100 |
 | 363 | [jonico/awesome-runners](./jonico-awesome-runners.md) | ⭐ 862 | SCSS | 58/100 |
@@ -395,7 +395,7 @@
 | 385 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 9.1k | Go | 57/100 |
 | 386 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.9k | Go | 57/100 |
 | 387 | [cockroachdb/cockroach](./cockroachdb-cockroach.md) | ⭐ 32.6k | Go | 57/100 |
-| 388 | [yuezk/GlobalProtect-openconnect](./yuezk-globalprotect-openconnect.md) | ⭐ 2.1k | Rust | 57/100 |
+| 388 | [yuezk/GlobalProtect-openconnect](./yuezk-globalprotect-openconnect.md) | ⭐ 2.3k | Rust | 57/100 |
 | 389 | [pulumi/pulumi-aws](./pulumi-pulumi-aws.md) | ⭐ 574 | Go | 57/100 |
 | 390 | [moneytool/ecsodus](./moneytool-ecsodus.md) | ⭐ — | Python | 56/100 |
 | 391 | [Codpal-Limited/deckgauge](./codpal-limited-deckgauge.md) | ⭐ 10 | TypeScript | 56/100 |
@@ -409,7 +409,7 @@
 | 399 | [cargo-lambda/cargo-lambda](./cargo-lambda-cargo-lambda.md) | ⭐ 912 | Rust | 56/100 |
 | 400 | [borgbase/vykar](./borgbase-vykar.md) | ⭐ 664 | Rust | 56/100 |
 | 401 | [opencomponents/oc](./opencomponents-oc.md) | ⭐ 1.5k | JavaScript | 56/100 |
-| 402 | [radius-project/radius](./radius-project-radius.md) | ⭐ 1.6k | Go | 56/100 |
+| 402 | [radius-project/radius](./radius-project-radius.md) | ⭐ 1.7k | Go | 56/100 |
 | 403 | [spring-cloud/spring-cloud-release](./spring-cloud-spring-cloud-release.md) | ⭐ 954 | — | 56/100 |
 | 404 | [abyo-software/s4](./abyo-software-s4.md) | ⭐ 145 | Rust | 56/100 |
 | 405 | [google/nomulus](./google-nomulus.md) | ⭐ 1.8k | Java | 56/100 |
@@ -455,7 +455,7 @@
 | 445 | [objectify/objectify](./objectify-objectify.md) | ⭐ 728 | Java | 54/100 |
 | 446 | [terraform-aws-modules/terraform-aws-rds-aurora](./terraform-aws-modules-terraform-aws-rds-aurora.md) | ⭐ 418 | HCL | 54/100 |
 | 447 | [Azure/karpenter-provider-azure](./azure-karpenter-provider-azure.md) | ⭐ 548 | Go | 54/100 |
-| 448 | [GoogleCloudPlatform/cloud-foundation-fabric](./googlecloudplatform-cloud-foundation-fabric.md) | ⭐ 2k | HCL | 54/100 |
+| 448 | [GoogleCloudPlatform/cloud-foundation-fabric](./googlecloudplatform-cloud-foundation-fabric.md) | ⭐ 2.1k | HCL | 54/100 |
 | 449 | [monoscope-tech/monoscope](./monoscope-tech-monoscope.md) | ⭐ 584 | Haskell | 54/100 |
 | 450 | [Azure/azure-sdk-for-rust](./azure-azure-sdk-for-rust.md) | ⭐ 873 | Rust | 54/100 |
 | 451 | [hashicorp/terraform-provider-aws](./hashicorp-terraform-provider-aws.md) | ⭐ 11.1k | Go | 54/100 |
@@ -510,8 +510,8 @@
 | 500 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 359 | Rust | 50/100 |
 | 501 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 134 | Rust | 50/100 |
 | 502 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 335 | Java | 50/100 |
-| 503 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 50/100 |
-| 504 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 50/100 |
+| 503 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ — | — | 50/100 |
+| 504 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ — | — | 50/100 |
 | 505 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1k | Go | 50/100 |
 | 506 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 589 | Rust | 50/100 |
 | 507 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 639 | Python | 50/100 |
@@ -545,8 +545,8 @@
 | 535 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ — | — | 45/100 |
 | 536 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ — | — | 45/100 |
 | 537 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 538 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
-| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 538 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 3 | Python | 45/100 |
 | 540 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ — | — | 45/100 |
 | 541 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ — | — | 45/100 |
 | 542 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ — | — | 45/100 |

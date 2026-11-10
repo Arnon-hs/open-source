@@ -53,7 +53,7 @@
 | 43 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 26.2k | JavaScript | 58/100 |
 | 44 | [liquidslr/system-design-notes](./liquidslr-system-design-notes.md) | ⭐ 28k | — | 57/100 |
 | 45 | [davgar99/arch-linux-font-improvement-guide](./davgar99-arch-linux-font-improvement-guide.md) | ⭐ 252 | — | 57/100 |
-| 46 | [YosysHQ/oss-cad-suite-build](./yosyshq-oss-cad-suite-build.md) | ⭐ 1.6k | Shell | 57/100 |
+| 46 | [YosysHQ/oss-cad-suite-build](./yosyshq-oss-cad-suite-build.md) | ⭐ 1.8k | Shell | 57/100 |
 | 47 | [visioncortex/vtracer](./visioncortex-vtracer.md) | ⭐ 7.5k | Rust | 57/100 |
 | 48 | [RailsEventStore/rails_event_store](./railseventstore-rails-event-store.md) | ⭐ 1.5k | Ruby | 57/100 |
 | 49 | [CircuitVerse/CircuitVerse](./circuitverse-circuitverse.md) | ⭐ 1.2k | JavaScript | 57/100 |
@@ -66,7 +66,7 @@
 | 56 | [uswds/uswds-site](./uswds-uswds-site.md) | ⭐ 246 | HTML | 56/100 |
 | 57 | [nuxt/icon](./nuxt-icon.md) | ⭐ 1.2k | TypeScript | 56/100 |
 | 58 | [theexperiencecompany/keyloom](./theexperiencecompany-keyloom.md) | ⭐ 67 | TypeScript | 56/100 |
-| 59 | [iiab/iiab](./iiab-iiab.md) | ⭐ 1.9k | Jinja | 56/100 |
+| 59 | [iiab/iiab](./iiab-iiab.md) | ⭐ 2k | Jinja | 56/100 |
 | 60 | [chsh2/nijiGPen](./chsh2-nijigpen.md) | ⭐ 372 | Python | 55/100 |
 | 61 | [pctrade/end4-pC](./pctrade-end4-pc.md) | ⭐ 682 | QML | 55/100 |
 | 62 | [337547038/vue-form-design](./337547038-vue-form-design.md) | ⭐ 381 | JavaScript | 55/100 |
@@ -80,7 +80,7 @@
 | 70 | [ZeroZ-lab/cc-design](./zeroz-lab-cc-design.md) | ⭐ 759 | JavaScript | 55/100 |
 | 71 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 701 | Shell | 55/100 |
 | 72 | [AxonIQ/AxonFramework](./axoniq-axonframework.md) | ⭐ 3.6k | Java | 55/100 |
-| 73 | [amaancoderx/npxskillui](./amaancoderx-npxskillui.md) | ⭐ 1.8k | TypeScript | 54/100 |
+| 73 | [amaancoderx/npxskillui](./amaancoderx-npxskillui.md) | ⭐ 2.5k | TypeScript | 54/100 |
 | 74 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 330 | Python | 54/100 |
 | 75 | [coinbase/cds](./coinbase-cds.md) | ⭐ 488 | TypeScript | 54/100 |
 | 76 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 114 | TypeScript | 54/100 |
@@ -90,7 +90,7 @@
 | 80 | [carbon-design-system/gatsby-theme-carbon](./carbon-design-system-gatsby-theme-carbon.md) | ⭐ 355 | MDX | 53/100 |
 | 81 | [neetly/figma-agent-linux](./neetly-figma-agent-linux.md) | ⭐ 364 | Rust | 53/100 |
 | 82 | [adobe/spectrum-design-data](./adobe-spectrum-design-data.md) | ⭐ 141 | Rust | 53/100 |
-| 83 | [su2code/SU2](./su2code-su2.md) | ⭐ 1.7k | C++ | 53/100 |
+| 83 | [su2code/SU2](./su2code-su2.md) | ⭐ 1.9k | C++ | 53/100 |
 | 84 | [smokeeaasd/flawless-ui-ux](./smokeeaasd-flawless-ui-ux.md) | ⭐ — | — | 52/100 |
 | 85 | [vuematerial/vue-material](./vuematerial-vue-material.md) | ⭐ 9.8k | Vue | 52/100 |
 | 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 514 | Swift | 52/100 |
@@ -114,7 +114,7 @@
 | 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 406 | Shell | 49/100 |
 | 105 | [kzhrknt/awesome-design-md-jp](./kzhrknt-awesome-design-md-jp.md) | ⭐ 642 | HTML | 49/100 |
 | 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 498 | Python | 49/100 |
-| 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2k | Ruby | 49/100 |
+| 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.1k | Ruby | 49/100 |
 | 108 | [pixel-point/toolcraft](./pixel-point-toolcraft.md) | ⭐ — | — | 48/100 |
 | 109 | [victorzhang016-code/victor-design](./victorzhang016-code-victor-design.md) | ⭐ 39 | JavaScript | 48/100 |
 | 110 | [everfu/hexo-theme-solitude](./everfu-hexo-theme-solitude.md) | ⭐ 1.2k | Stylus | 48/100 |

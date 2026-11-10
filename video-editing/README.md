@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kajisho5/ffmpeg-skill](./kajisho5-ffmpeg-skill.md) | ⭐ 2k | Python | 89/100 |
+| 1 | [kajisho5/ffmpeg-skill](./kajisho5-ffmpeg-skill.md) | ⭐ 4.9k | Python | 89/100 |
 | 2 | [OpenMontageInc/OpenMontage](./openmontageinc-openmontage.md) | ⭐ 79.1k | Python | 87/100 |
 | 3 | [modelscope/FunASR](./modelscope-funasr.md) | ⭐ 21k | Python | 86/100 |
 | 4 | [jdepoix/youtube-transcript-api](./jdepoix-youtube-transcript-api.md) | ⭐ 8.6k | Python | 86/100 |
@@ -71,7 +71,7 @@
 | 61 | [chubbyguan/chubbyskills](./chubbyguan-chubbyskills.md) | ⭐ 625 | Python | 75/100 |
 | 62 | [denizsafak/AutoSubSync](./denizsafak-autosubsync.md) | ⭐ 1.1k | Python | 75/100 |
 | 63 | [ucsandman/marketing-studio](./ucsandman-marketing-studio.md) | ⭐ 208 | JavaScript | 75/100 |
-| 64 | [Vexa-ai/vexa](./vexa-ai-vexa.md) | ⭐ 2k | TypeScript | 75/100 |
+| 64 | [Vexa-ai/vexa](./vexa-ai-vexa.md) | ⭐ 3k | TypeScript | 75/100 |
 | 65 | [Evolink-AI/awesome-gemini-omni-1.2-flash-API-guide-and-prompt](./evolink-ai-awesome-gemini-omni-1.2-flash-api-guide-and-prompt.md) | ⭐ 102 | — | 74/100 |
 | 66 | [Co-Messi/supercut](./co-messi-supercut.md) | ⭐ 21 | TypeScript | 74/100 |
 | 67 | [DojoCodingLabs/remotion-superpowers](./dojocodinglabs-remotion-superpowers.md) | ⭐ 128 | Shell | 74/100 |
@@ -109,7 +109,7 @@
 | 99 | [norahe0304-art/30x-video](./norahe0304-art-30x-video.md) | ⭐ 60 | TypeScript | 72/100 |
 | 100 | [Eyevinn/mp4ff](./eyevinn-mp4ff.md) | ⭐ 653 | Go | 72/100 |
 | 101 | [itsPremkumar/Automated-Video-Generator](./itspremkumar-automated-video-generator.md) | ⭐ 32 | TypeScript | 72/100 |
-| 102 | [pixop/video-compare](./pixop-video-compare.md) | ⭐ 1.7k | C++ | 72/100 |
+| 102 | [pixop/video-compare](./pixop-video-compare.md) | ⭐ 1.8k | C++ | 72/100 |
 | 103 | [leancoderkavy/premiere-pro-mcp](./leancoderkavy-premiere-pro-mcp.md) | ⭐ 107 | TypeScript | 72/100 |
 | 104 | [denizsafak/abogen](./denizsafak-abogen.md) | ⭐ 6.2k | Python | 72/100 |
 | 105 | [code-charity/youtube](./code-charity-youtube.md) | ⭐ 4.7k | JavaScript | 72/100 |
@@ -159,7 +159,7 @@
 | 149 | [22kk12/mengwei-local-leads-workbench](./22kk12-mengwei-local-leads-workbench.md) | ⭐ 143 | Python | 69/100 |
 | 150 | [debpalash/VoiceStudio](./debpalash-voicestudio.md) | ⭐ 106.1k | Python | 69/100 |
 | 151 | [JimLiu/baocut](./jimliu-baocut.md) | ⭐ 284 | Shell | 69/100 |
-| 152 | [AcademySoftwareFoundation/OpenTimelineIO](./academysoftwarefoundation-opentimelineio.md) | ⭐ 1.9k | Python | 69/100 |
+| 152 | [AcademySoftwareFoundation/OpenTimelineIO](./academysoftwarefoundation-opentimelineio.md) | ⭐ 2.1k | Python | 69/100 |
 | 153 | [AKMessi/vex](./akmessi-vex.md) | ⭐ 64 | Python | 69/100 |
 | 154 | [obsproject/obs-studio](./obsproject-obs-studio.md) | ⭐ 79.2k | C | 69/100 |
 | 155 | [worldwonderer/video-recap-skills](./worldwonderer-video-recap-skills.md) | ⭐ 330 | Python | 69/100 |
@@ -222,7 +222,7 @@
 | 212 | [mishkatik/infra-billing](./mishkatik-infra-billing.md) | ⭐ 65 | TypeScript | 66/100 |
 | 213 | [tgotwig/vidmerger](./tgotwig-vidmerger.md) | ⭐ 151 | Rust | 66/100 |
 | 214 | [Agions/splicr](./agions-splicr.md) | ⭐ 410 | TypeScript | 66/100 |
-| 215 | [meizhong986/WhisperJAV](./meizhong986-whisperjav.md) | ⭐ 2.1k | Python | 66/100 |
+| 215 | [meizhong986/WhisperJAV](./meizhong986-whisperjav.md) | ⭐ 2.4k | Python | 66/100 |
 | 216 | [homelab-00/TranscriptionSuite](./homelab-00-transcriptionsuite.md) | ⭐ 543 | Python | 66/100 |
 | 217 | [pattern-ai-labs/agentcall](./pattern-ai-labs-agentcall.md) | ⭐ 110 | Python | 66/100 |
 | 218 | [bililive-go/bililive-go](./bililive-go-bililive-go.md) | ⭐ 5.8k | Go | 66/100 |
@@ -272,8 +272,8 @@
 | 262 | [FennelFetish/qapyq](./fennelfetish-qapyq.md) | ⭐ 161 | Python | 64/100 |
 | 263 | [excalimate/excalimate](./excalimate-excalimate.md) | ⭐ 30 | TypeScript | 64/100 |
 | 264 | [FengZeng/soia](./fengzeng-soia.md) | ⭐ 124 | Rust | 64/100 |
-| 265 | [fooyin/fooyin](./fooyin-fooyin.md) | ⭐ 1.9k | C++ | 64/100 |
-| 266 | [anonfaded/FadCam](./anonfaded-fadcam.md) | ⭐ 1.8k | Java | 64/100 |
+| 265 | [fooyin/fooyin](./fooyin-fooyin.md) | ⭐ 2.7k | C++ | 64/100 |
+| 266 | [anonfaded/FadCam](./anonfaded-fadcam.md) | ⭐ 2.9k | Java | 64/100 |
 | 267 | [Taydaggercopper/borisfx-respocket](./taydaggercopper-borisfx-respocket.md) | ⭐ 36 | HTML | 63/100 |
 | 268 | [imgly/vesdk-ios-build](./imgly-vesdk-ios-build.md) | ⭐ 115 | Swift | 63/100 |
 | 269 | [mika-f/Celesta](./mika-f-celesta.md) | ⭐ 21 | Rust | 63/100 |
@@ -318,7 +318,7 @@
 | 308 | [vibe-motion/remotion-code-motion-explainer](./vibe-motion-remotion-code-motion-explainer.md) | ⭐ 26 | TypeScript | 62/100 |
 | 309 | [remotion-dev/template-helloworld](./remotion-dev-template-helloworld.md) | ⭐ 73 | TypeScript | 62/100 |
 | 310 | [v-modal/vmodal_sdk_android](./v-modal-vmodal-sdk-android.md) | ⭐ 637 | Kotlin | 62/100 |
-| 311 | [TypesettingTools/Aegisub](./typesettingtools-aegisub.md) | ⭐ 1.9k | C++ | 62/100 |
+| 311 | [TypesettingTools/Aegisub](./typesettingtools-aegisub.md) | ⭐ 2k | C++ | 62/100 |
 | 312 | [SwaggyMacro/EasyChat](./swaggymacro-easychat.md) | ⭐ 32 | C# | 62/100 |
 | 313 | [Agions/novella](./agions-novella.md) | ⭐ 75 | TypeScript | 62/100 |
 | 314 | [synctv-org/synctv](./synctv-org-synctv.md) | ⭐ 2.5k | Rust | 62/100 |
@@ -473,7 +473,7 @@
 | 463 | [kaltura/server](./kaltura-server.md) | ⭐ 405 | PHP | 56/100 |
 | 464 | [spartawhy117/JvedioNext](./spartawhy117-jvedionext.md) | ⭐ 341 | JavaScript | 56/100 |
 | 465 | [Muesli-HQ/muesli](./muesli-hq-muesli.md) | ⭐ 755 | Swift | 56/100 |
-| 466 | [zmwangx/rust-ffmpeg](./zmwangx-rust-ffmpeg.md) | ⭐ 1.9k | Rust | 56/100 |
+| 466 | [zmwangx/rust-ffmpeg](./zmwangx-rust-ffmpeg.md) | ⭐ 2k | Rust | 56/100 |
 | 467 | [homebridge/docker-homebridge](./homebridge-docker-homebridge.md) | ⭐ 2.7k | Shell | 56/100 |
 | 468 | [QuenithAI/Video-Generation-Paper-List](./quenithai-video-generation-paper-list.md) | ⭐ 171 | — | 55/100 |
 | 469 | [lidedongsn/frame-cut](./lidedongsn-frame-cut.md) | ⭐ 21 | Swift | 55/100 |
@@ -499,8 +499,8 @@
 | 489 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 346 | C++ | 54/100 |
 | 490 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 54/100 |
 | 491 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ — | — | 53/100 |
-| 492 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
-| 493 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
+| 492 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
+| 493 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
 | 494 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 495 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 252 | — | 53/100 |
 | 496 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
@@ -550,8 +550,8 @@
 | 540 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 588 | JavaScript | 49/100 |
 | 541 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ — | Dart | 48/100 |
 | 542 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 1 | Python | 48/100 |
-| 543 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
-| 544 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
+| 543 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
+| 544 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
 | 545 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 546 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ — | — | 48/100 |
 | 547 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ — | — | 48/100 |
@@ -564,7 +564,7 @@
 | 554 | [omanshchoudhary/briareus](./omanshchoudhary-briareus.md) | ⭐ — | — | 47/100 |
 | 555 | [sunerpy/voltip](./sunerpy-voltip.md) | ⭐ 2 | Rust | 47/100 |
 | 556 | [nirmaljosephukken/pylon-player](./nirmaljosephukken-pylon-player.md) | ⭐ — | Python | 47/100 |
-| 557 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 1.8k | TypeScript | 47/100 |
+| 557 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 5.6k | TypeScript | 47/100 |
 | 558 | [manish7017/Whisper-FFmpeg-Transcriber-](./manish7017-whisper-ffmpeg-transcriber-.md) | ⭐ — | Python | 46/100 |
 | 559 | [cclank/lanshu-create-ai-presenter-video](./cclank-lanshu-create-ai-presenter-video.md) | ⭐ — | — | 46/100 |
 | 560 | [SteliyanH/kadr](./steliyanh-kadr.md) | ⭐ 48 | Swift | 46/100 |

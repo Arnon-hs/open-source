@@ -253,7 +253,7 @@
 | 243 | [skymanbp/cc-tree](./skymanbp-cc-tree.md) | ⭐ 161 | Python | 66/100 |
 | 244 | [wemake-services/wemake-python-package](./wemake-services-wemake-python-package.md) | ⭐ 448 | Python | 66/100 |
 | 245 | [firebase/firebaseui-web](./firebase-firebaseui-web.md) | ⭐ 4.9k | TypeScript | 66/100 |
-| 246 | [taocpp/PEGTL](./taocpp-pegtl.md) | ⭐ 2.1k | C++ | 66/100 |
+| 246 | [taocpp/PEGTL](./taocpp-pegtl.md) | ⭐ 2.2k | C++ | 66/100 |
 | 247 | [entropy-cloud/attractor-guided-engineering-template](./entropy-cloud-attractor-guided-engineering-template.md) | ⭐ 47 | JavaScript | 66/100 |
 | 248 | [Comfy-Org/workflow_templates](./comfy-org-workflow-templates.md) | ⭐ 601 | Python | 66/100 |
 | 249 | [cloudflare/agents-starter](./cloudflare-agents-starter.md) | ⭐ 1.3k | TypeScript | 66/100 |
@@ -266,7 +266,7 @@
 | 256 | [mrousavy/nitro](./mrousavy-nitro.md) | ⭐ 1.9k | C++ | 65/100 |
 | 257 | [alysonhower/tauri2-svelte5-shadcn](./alysonhower-tauri2-svelte5-shadcn.md) | ⭐ 376 | TypeScript | 65/100 |
 | 258 | [ElectricCodeGuy/SupabaseAuthWithSSR](./electriccodeguy-supabaseauthwithssr.md) | ⭐ 395 | TypeScript | 65/100 |
-| 259 | [groepl/Obsidian-Templates](./groepl-obsidian-templates.md) | ⭐ 1.8k | — | 65/100 |
+| 259 | [groepl/Obsidian-Templates](./groepl-obsidian-templates.md) | ⭐ 2k | — | 65/100 |
 | 260 | [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](./lubomirgeorgiev-cloudflare-workers-nextjs-saas-template.md) | ⭐ 772 | TypeScript | 65/100 |
 | 261 | [seungmanchoi/react-native-fsd-agent-template](./seungmanchoi-react-native-fsd-agent-template.md) | ⭐ 40 | TypeScript | 65/100 |
 | 262 | [thecodeorigin/nuxt-template](./thecodeorigin-nuxt-template.md) | ⭐ 35 | TypeScript | 65/100 |
@@ -327,7 +327,7 @@
 | 317 | [microsoft/teams-agent-accelerator-templates](./microsoft-teams-agent-accelerator-templates.md) | ⭐ 87 | TypeScript | 62/100 |
 | 318 | [pulkitxm/claude-directory](./pulkitxm-claude-directory.md) | ⭐ 279 | HTML | 62/100 |
 | 319 | [shinpr/mcp-image](./shinpr-mcp-image.md) | ⭐ 109 | TypeScript | 62/100 |
-| 320 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.6k | Go Template | 62/100 |
+| 320 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.8k | Go Template | 62/100 |
 | 321 | [WeAreAthlon/frontend-webpack-boilerplate](./weareathlon-frontend-webpack-boilerplate.md) | ⭐ 732 | HTML | 62/100 |
 | 322 | [statmike/vertex-ai-mlops](./statmike-vertex-ai-mlops.md) | ⭐ 689 | Jupyter Notebook | 62/100 |
 | 323 | [lit/lit](./lit-lit.md) | ⭐ 21.9k | TypeScript | 62/100 |

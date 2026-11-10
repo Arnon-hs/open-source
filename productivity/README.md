@@ -26,7 +26,7 @@
 | 16 | [Gaoyifei1011/GetStoreApp](./gaoyifei1011-getstoreapp.md) | ⭐ 1.4k | C# | 72/100 |
 | 17 | [EcoPasteHub/EcoPaste](./ecopastehub-ecopaste.md) | ⭐ 7.6k | Rust | 72/100 |
 | 18 | [openbootdotdev/openboot](./openbootdotdev-openboot.md) | ⭐ 260 | Go | 72/100 |
-| 19 | [supreme-gg-gg/instagram-cli](./supreme-gg-gg-instagram-cli.md) | ⭐ 1.9k | TypeScript | 72/100 |
+| 19 | [supreme-gg-gg/instagram-cli](./supreme-gg-gg-instagram-cli.md) | ⭐ 2.2k | TypeScript | 72/100 |
 | 20 | [jrnl-org/jrnl](./jrnl-org-jrnl.md) | ⭐ 7.4k | Python | 72/100 |
 | 21 | [Wox-launcher/Wox](./wox-launcher-wox.md) | ⭐ 27.6k | Go | 71/100 |
 | 22 | [sayanarijit/xplr](./sayanarijit-xplr.md) | ⭐ 4.9k | Rust | 71/100 |
@@ -90,7 +90,7 @@
 | 80 | [bgreenwell/xleak](./bgreenwell-xleak.md) | ⭐ 1.4k | Rust | 64/100 |
 | 81 | [XxMinor/mykvm](./xxminor-mykvm.md) | ⭐ 287 | Rust | 64/100 |
 | 82 | [nextcloud/notes-android](./nextcloud-notes-android.md) | ⭐ 1.1k | Java | 64/100 |
-| 83 | [ViscousPot/GitSync](./viscouspot-gitsync.md) | ⭐ 2.1k | Dart | 63/100 |
+| 83 | [ViscousPot/GitSync](./viscouspot-gitsync.md) | ⭐ 2.5k | Dart | 63/100 |
 | 84 | [kbrdn1/gwm-cli](./kbrdn1-gwm-cli.md) | ⭐ 102 | Rust | 63/100 |
 | 85 | [nylxar/curium](./nylxar-curium.md) | ⭐ 175 | TypeScript | 63/100 |
 | 86 | [moraroy/NonSteamLaunchers-On-Steam-Deck](./moraroy-nonsteamlaunchers-on-steam-deck.md) | ⭐ 4.4k | Python | 63/100 |
@@ -147,13 +147,13 @@
 | 137 | [timholy/Revise.jl](./timholy-revise.jl.md) | ⭐ 1.3k | Julia | 59/100 |
 | 138 | [poetaman/arttime](./poetaman-arttime.md) | ⭐ 1.3k | Shell | 59/100 |
 | 139 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 135.4k | TypeScript | 59/100 |
-| 140 | [carapace-sh/carapace-bin](./carapace-sh-carapace-bin.md) | ⭐ 1.8k | Go | 59/100 |
+| 140 | [carapace-sh/carapace-bin](./carapace-sh-carapace-bin.md) | ⭐ 2k | Go | 59/100 |
 | 141 | [scalacenter/bloop](./scalacenter-bloop.md) | ⭐ 939 | Scala | 59/100 |
 | 142 | [bug-ops/helix-trainer](./bug-ops-helix-trainer.md) | ⭐ 84 | Rust | 58/100 |
 | 143 | [HMCL-dev/HMCL](./hmcl-dev-hmcl.md) | ⭐ 10.9k | Java | 58/100 |
 | 144 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 539 | TypeScript | 58/100 |
 | 145 | [kxxt/tracexec](./kxxt-tracexec.md) | ⭐ 435 | Rust | 58/100 |
-| 146 | [LinwoodDev/Butterfly](./linwooddev-butterfly.md) | ⭐ 1.9k | Dart | 58/100 |
+| 146 | [LinwoodDev/Butterfly](./linwooddev-butterfly.md) | ⭐ 2.1k | Dart | 58/100 |
 | 147 | [jenius-apps/ambie](./jenius-apps-ambie.md) | ⭐ 2.2k | C# | 58/100 |
 | 148 | [pear-devs/pear-desktop](./pear-devs-pear-desktop.md) | ⭐ 34k | TypeScript | 58/100 |
 | 149 | [RARgames/4gaBoards](./rargames-4gaboards.md) | ⭐ 497 | JavaScript | 58/100 |
@@ -165,7 +165,7 @@
 | 155 | [sunnypatell/sunnify-spotify-downloader](./sunnypatell-sunnify-spotify-downloader.md) | ⭐ 437 | Python | 57/100 |
 | 156 | [BernardoGiordano/Checkpoint](./bernardogiordano-checkpoint.md) | ⭐ 3.1k | C++ | 57/100 |
 | 157 | [MM2-0/Kvaesitso](./mm2-0-kvaesitso.md) | ⭐ 5.4k | Kotlin | 57/100 |
-| 158 | [Faugus/faugus-launcher](./faugus-faugus-launcher.md) | ⭐ 2k | Python | 57/100 |
+| 158 | [Faugus/faugus-launcher](./faugus-faugus-launcher.md) | ⭐ 2.6k | Python | 57/100 |
 | 159 | [tasks/tasks](./tasks-tasks.md) | ⭐ 5.7k | Kotlin | 57/100 |
 | 160 | [jaywcjlove/awesome-swift-macos-apps](./jaywcjlove-awesome-swift-macos-apps.md) | ⭐ 1.5k | Swift | 57/100 |
 | 161 | [NVIDIA/cuda-python](./nvidia-cuda-python.md) | ⭐ 3.4k | Cython | 57/100 |
@@ -176,7 +176,7 @@
 | 166 | [ZalithLauncher/ZalithLauncher2](./zalithlauncher-zalithlauncher2.md) | ⭐ 1.4k | Kotlin | 57/100 |
 | 167 | [morapelker/hive](./morapelker-hive.md) | ⭐ 408 | TypeScript | 57/100 |
 | 168 | [alextselegidis/plainpad](./alextselegidis-plainpad.md) | ⭐ 398 | PHP | 57/100 |
-| 169 | [TapiocaFox/Daijishou](./tapiocafox-daijishou.md) | ⭐ 1.7k | Python | 57/100 |
+| 169 | [TapiocaFox/Daijishou](./tapiocafox-daijishou.md) | ⭐ 2k | Python | 57/100 |
 | 170 | [eythaann/Seelen-UI](./eythaann-seelen-ui.md) | ⭐ 18.4k | Rust | 57/100 |
 | 171 | [5rahim/seanime](./5rahim-seanime.md) | ⭐ 4.3k | Go | 57/100 |
 | 172 | [bdcdo/open-turkey](./bdcdo-open-turkey.md) | ⭐ 16 | Go | 57/100 |
@@ -190,7 +190,7 @@
 | 180 | [JayanAXHF/gitv](./jayanaxhf-gitv.md) | ⭐ 110 | Rust | 56/100 |
 | 181 | [Stewart86/hamr](./stewart86-hamr.md) | ⭐ 336 | Rust | 56/100 |
 | 182 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 858 | Dart | 56/100 |
-| 183 | [CrossPaste/crosspaste-desktop](./crosspaste-crosspaste-desktop.md) | ⭐ 2.1k | Kotlin | 56/100 |
+| 183 | [CrossPaste/crosspaste-desktop](./crosspaste-crosspaste-desktop.md) | ⭐ 2.7k | Kotlin | 56/100 |
 | 184 | [nickotmazgin/clipflow-pro](./nickotmazgin-clipflow-pro.md) | ⭐ 5 | JavaScript | 55/100 |
 | 185 | [openTrinity/mycontext](./opentrinity-mycontext.md) | ⭐ 1.1k | TypeScript | 55/100 |
 | 186 | [Rolv-Apneseth/rofi-games](./rolv-apneseth-rofi-games.md) | ⭐ 114 | Rust | 55/100 |
@@ -200,7 +200,7 @@
 | 190 | [FreesmTeam/FreesmLauncher](./freesmteam-freesmlauncher.md) | ⭐ 637 | C++ | 55/100 |
 | 191 | [ghost-him/ZeroLaunch-rs](./ghost-him-zerolaunch-rs.md) | ⭐ 549 | Rust | 55/100 |
 | 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 305 | Rust | 55/100 |
-| 193 | [modrinth/code](./modrinth-code.md) | ⭐ 2.1k | Rust | 55/100 |
+| 193 | [modrinth/code](./modrinth-code.md) | ⭐ 2.5k | Rust | 55/100 |
 | 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.6k | Rust | 55/100 |
 | 195 | [openbezal/rhema](./openbezal-rhema.md) | ⭐ 335 | TypeScript | 54/100 |
 | 196 | [FCL-Team/FoldCraftLauncher](./fcl-team-foldcraftlauncher.md) | ⭐ 5.2k | Java | 54/100 |
@@ -217,7 +217,7 @@
 | 207 | [cccadet/omni-sql](./cccadet-omni-sql.md) | ⭐ — | TypeScript | 52/100 |
 | 208 | [simonchai-tw/tasks-todo-sync](./simonchai-tw-tasks-todo-sync.md) | ⭐ 12 | JavaScript | 52/100 |
 | 209 | [karkemo/todomint](./karkemo-todomint.md) | ⭐ 1 | JavaScript | 52/100 |
-| 210 | [FufuLauncher/FufuLauncher](./fufulauncher-fufulauncher.md) | ⭐ 1.8k | C# | 52/100 |
+| 210 | [FufuLauncher/FufuLauncher](./fufulauncher-fufulauncher.md) | ⭐ 2.3k | C# | 52/100 |
 | 211 | [deft-ui/deft](./deft-ui-deft.md) | ⭐ 211 | Rust | 52/100 |
 | 212 | [heroku/webapp-runner](./heroku-webapp-runner.md) | ⭐ 322 | Java | 52/100 |
 | 213 | [d12frosted/vulpea](./d12frosted-vulpea.md) | ⭐ 402 | Emacs Lisp | 52/100 |
@@ -273,7 +273,7 @@
 | 263 | [beyluta/WinWidgets](./beyluta-winwidgets.md) | ⭐ 145 | C | 48/100 |
 | 264 | [StudentWeis/ropy](./studentweis-ropy.md) | ⭐ 123 | Rust | 48/100 |
 | 265 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 48/100 |
-| 266 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 1.9k | Java | 48/100 |
+| 266 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 2.4k | Java | 48/100 |
 | 267 | [carlosfdsn/golock](./carlosfdsn-golock.md) | ⭐ — | Go | 48/100 |
 | 268 | [omikuji-launcher/omikuji](./omikuji-launcher-omikuji.md) | ⭐ 208 | Rust | 47/100 |
 | 269 | [music-assistant/desktop-app](./music-assistant-desktop-app.md) | ⭐ 120 | Rust | 47/100 |
@@ -301,7 +301,7 @@
 | 291 | [tejasashinde/clipboard-saver-extension](./tejasashinde-clipboard-saver-extension.md) | ⭐ — | — | 45/100 |
 | 292 | [rohankc69/clickit](./rohankc69-clickit.md) | ⭐ — | — | 45/100 |
 | 293 | [Arylmera/Token-Dashboard](./arylmera-token-dashboard.md) | ⭐ — | — | 45/100 |
-| 294 | [NeoApplications/Neo-Launcher](./neoapplications-neo-launcher.md) | ⭐ 2k | Java | 45/100 |
+| 294 | [NeoApplications/Neo-Launcher](./neoapplications-neo-launcher.md) | ⭐ 2.2k | Java | 45/100 |
 | 295 | [tomboy-notes/tomboy-ng](./tomboy-notes-tomboy-ng.md) | ⭐ 440 | Pascal | 45/100 |
 | 296 | [AstrBotDevs/astrbot-launcher](./astrbotdevs-astrbot-launcher.md) | ⭐ 901 | Rust | 45/100 |
 | 297 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 669 | Shell | 45/100 |
@@ -344,8 +344,8 @@
 | 334 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 335 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
 | 336 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 337 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
-| 338 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 337 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
+| 338 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
 | 339 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 340 | [israelfreitas/ttkbootstrap](./israelfreitas-ttkbootstrap.md) | ⭐ — | — | 39/100 |
 | 341 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |

@@ -8,12 +8,12 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [szczyglis-dev/py-gpt](./szczyglis-dev-py-gpt.md) | ⭐ 1.9k | Python | 84/100 |
+| 1 | [szczyglis-dev/py-gpt](./szczyglis-dev-py-gpt.md) | ⭐ 2k | Python | 84/100 |
 | 2 | [SamurAIGPT/Generative-Media-Skills](./samuraigpt-generative-media-skills.md) | ⭐ 34 | Shell | 84/100 |
 | 3 | [ma2za/python-substack](./ma2za-python-substack.md) | ⭐ 156 | Python | 83/100 |
 | 4 | [kodelyx/flow-agent](./kodelyx-flow-agent.md) | ⭐ 101 | Python | 82/100 |
 | 5 | [SamurAIGPT/muapi-cli](./samuraigpt-muapi-cli.md) | ⭐ 992 | Python | 82/100 |
-| 6 | [darkzOGx/youtube-automation-agent](./darkzogx-youtube-automation-agent.md) | ⭐ 1.6k | JavaScript | 80/100 |
+| 6 | [darkzOGx/youtube-automation-agent](./darkzogx-youtube-automation-agent.md) | ⭐ 5.1k | JavaScript | 80/100 |
 | 7 | [Ratimon/openquok-monorepo](./ratimon-openquok-monorepo.md) | ⭐ 61 | TypeScript | 79/100 |
 | 8 | [AuraVixStudio/caelo](./auravixstudio-caelo.md) | ⭐ 22 | Python | 79/100 |
 | 9 | [modelstudioai/cli](./modelstudioai-cli.md) | ⭐ 248 | TypeScript | 79/100 |
@@ -39,7 +39,7 @@
 | 29 | [smixs/visual-skills](./smixs-visual-skills.md) | ⭐ 129 | — | 72/100 |
 | 30 | [Haervwe/open-webui-tools](./haervwe-open-webui-tools.md) | ⭐ 781 | Python | 72/100 |
 | 31 | [ddalcu/mlx-serve](./ddalcu-mlx-serve.md) | ⭐ 188 | Zig | 72/100 |
-| 32 | [Notifuse/notifuse](./notifuse-notifuse.md) | ⭐ 1.9k | Go | 72/100 |
+| 32 | [Notifuse/notifuse](./notifuse-notifuse.md) | ⭐ 2.3k | Go | 72/100 |
 | 33 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 183 | Python | 71/100 |
 | 34 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 19 | — | 71/100 |
 | 35 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 170 | Python | 71/100 |
@@ -48,7 +48,7 @@
 | 38 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
 | 39 | [cporter202/awesome-ai-tools](./cporter202-awesome-ai-tools.md) | ⭐ 260 | — | 70/100 |
 | 40 | [claude-world/notebooklm-skill](./claude-world-notebooklm-skill.md) | ⭐ 360 | Python | 70/100 |
-| 41 | [ZeroLu/awesome-seedance](./zerolu-awesome-seedance.md) | ⭐ 2k | Shell | 70/100 |
+| 41 | [ZeroLu/awesome-seedance](./zerolu-awesome-seedance.md) | ⭐ 2.8k | Shell | 70/100 |
 | 42 | [waooAI/waoowaoo](./waooai-waoowaoo.md) | ⭐ 14.8k | TypeScript | 70/100 |
 | 43 | [zJay26/douyin-skills](./zjay26-douyin-skills.md) | ⭐ 51 | Python | 69/100 |
 | 44 | [vargHQ/sdk](./varghq-sdk.md) | ⭐ 334 | TypeScript | 69/100 |
@@ -62,10 +62,10 @@
 | 52 | [backblaze-labs/genblaze](./backblaze-labs-genblaze.md) | ⭐ 317 | Python | 68/100 |
 | 53 | [Anil-matcha/Open-AI-UGC](./anil-matcha-open-ai-ugc.md) | ⭐ 144 | JavaScript | 68/100 |
 | 54 | [vllm-project/vllm-omni](./vllm-project-vllm-omni.md) | ⭐ 7.7k | Python | 68/100 |
-| 55 | [ArcReel/ArcReel](./arcreel-arcreel.md) | ⭐ 2.1k | Python | 68/100 |
-| 56 | [Anil-matcha/ai-creator-academy](./anil-matcha-ai-creator-academy.md) | ⭐ 1.8k | — | 67/100 |
+| 55 | [ArcReel/ArcReel](./arcreel-arcreel.md) | ⭐ 6.4k | Python | 68/100 |
+| 56 | [Anil-matcha/ai-creator-academy](./anil-matcha-ai-creator-academy.md) | ⭐ 23 | — | 67/100 |
 | 57 | [runapi-ai/mcp](./runapi-ai-mcp.md) | ⭐ 52 | TypeScript | 67/100 |
-| 58 | [yaojingang/GEOFlow](./yaojingang-geoflow.md) | ⭐ 1.6k | PHP | 67/100 |
+| 58 | [yaojingang/GEOFlow](./yaojingang-geoflow.md) | ⭐ 4.1k | PHP | 67/100 |
 | 59 | [limecloud/lime](./limecloud-lime.md) | ⭐ 1.4k | Rust | 67/100 |
 | 60 | [ModelTC/LightX2V](./modeltc-lightx2v.md) | ⭐ 3k | Python | 66/100 |
 | 61 | [merterbak/Grok-MCP](./merterbak-grok-mcp.md) | ⭐ 41 | Python | 66/100 |
@@ -106,7 +106,7 @@
 | 96 | [SkyNotSilent/ai-jianying-image-video](./skynotsilent-ai-jianying-image-video.md) | ⭐ 27 | Python | 57/100 |
 | 97 | [rediumvex/seo-blog-writer-claude](./rediumvex-seo-blog-writer-claude.md) | ⭐ 44 | — | 57/100 |
 | 98 | [rust-lang/this-week-in-rust](./rust-lang-this-week-in-rust.md) | ⭐ 2.7k | Rust | 57/100 |
-| 99 | [pentacent/keila](./pentacent-keila.md) | ⭐ 2.1k | Elixir | 57/100 |
+| 99 | [pentacent/keila](./pentacent-keila.md) | ⭐ 2.3k | Elixir | 57/100 |
 | 100 | [bborn/lewsnetter](./bborn-lewsnetter.md) | ⭐ 319 | Ruby | 57/100 |
 | 101 | [Eva-311/hermes-automation-examples](./eva-311-hermes-automation-examples.md) | ⭐ 2 | — | 56/100 |
 | 102 | [SandAI-org/MagiCompiler](./sandai-org-magicompiler.md) | ⭐ 317 | Python | 56/100 |

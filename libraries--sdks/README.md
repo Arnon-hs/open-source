@@ -23,10 +23,10 @@
 | 13 | [lizhiyao/sentry-miniapp](./lizhiyao-sentry-miniapp.md) | ⭐ 677 | TypeScript | 71/100 |
 | 14 | [mixpanel/mixpanel-js](./mixpanel-mixpanel-js.md) | ⭐ 938 | JavaScript | 71/100 |
 | 15 | [elgatosf/streamdeck](./elgatosf-streamdeck.md) | ⭐ 244 | TypeScript | 71/100 |
-| 16 | [matrix-org/matrix-rust-sdk](./matrix-org-matrix-rust-sdk.md) | ⭐ 2.2k | Rust | 71/100 |
+| 16 | [matrix-org/matrix-rust-sdk](./matrix-org-matrix-rust-sdk.md) | ⭐ 2.4k | Rust | 71/100 |
 | 17 | [linear/linear](./linear-linear.md) | ⭐ 1.4k | TypeScript | 71/100 |
 | 18 | [firebase/firebase-android-sdk](./firebase-firebase-android-sdk.md) | ⭐ 2.6k | Java | 71/100 |
-| 19 | [anthropics/anthropic-sdk-typescript](./anthropics-anthropic-sdk-typescript.md) | ⭐ 2.1k | TypeScript | 70/100 |
+| 19 | [anthropics/anthropic-sdk-typescript](./anthropics-anthropic-sdk-typescript.md) | ⭐ 2.2k | TypeScript | 70/100 |
 | 20 | [facebook/facebook-python-business-sdk](./facebook-facebook-python-business-sdk.md) | ⭐ 1.6k | Python | 70/100 |
 | 21 | [MagicStack/asyncpg](./magicstack-asyncpg.md) | ⭐ 8.1k | Python | 70/100 |
 | 22 | [adyanth/cloudflare-operator](./adyanth-cloudflare-operator.md) | ⭐ 688 | Go | 70/100 |
@@ -45,7 +45,7 @@
 | 35 | [pika/pika](./pika-pika.md) | ⭐ 3.9k | Python | 68/100 |
 | 36 | [livekit/client-sdk-flutter](./livekit-client-sdk-flutter.md) | ⭐ 407 | Dart | 68/100 |
 | 37 | [chanxuehong/wechat](./chanxuehong-wechat.md) | ⭐ 2.7k | Go | 68/100 |
-| 38 | [donmccurdy/glTF-Transform](./donmccurdy-gltf-transform.md) | ⭐ 1.9k | TypeScript | 68/100 |
+| 38 | [donmccurdy/glTF-Transform](./donmccurdy-gltf-transform.md) | ⭐ 2.1k | TypeScript | 68/100 |
 | 39 | [pragma-org/amaru](./pragma-org-amaru.md) | ⭐ 103 | Rust | 68/100 |
 | 40 | [coinbase/mesh-sdk-go](./coinbase-mesh-sdk-go.md) | ⭐ 199 | Go | 68/100 |
 | 41 | [google/digitalbuildings](./google-digitalbuildings.md) | ⭐ 447 | Python | 68/100 |
@@ -208,7 +208,7 @@
 | 198 | [beowolx/rensa](./beowolx-rensa.md) | ⭐ 239 | Rust | 53/100 |
 | 199 | [vhspace/sdl3-rs](./vhspace-sdl3-rs.md) | ⭐ 345 | Rust | 53/100 |
 | 200 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.4k | Rust | 53/100 |
-| 201 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.1k | Kotlin | 53/100 |
+| 201 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.5k | Kotlin | 53/100 |
 | 202 | [snowtech738-byte/auria-chain](./snowtech738-byte-auria-chain.md) | ⭐ — | — | 52/100 |
 | 203 | [meta-models/muse-code-sdk](./meta-models-muse-code-sdk.md) | ⭐ 27 | TypeScript | 52/100 |
 | 204 | [stepfunc/rodbus](./stepfunc-rodbus.md) | ⭐ 108 | Rust | 52/100 |
@@ -274,7 +274,7 @@
 | 264 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |
 | 265 | [egoisutolabs/scipgo](./egoisutolabs-scipgo.md) | ⭐ — | — | 44/100 |
 | 266 | [anthropic-ai/sdk](./anthropic-ai-sdk.md) | ⭐ — | — | 44/100 |
-| 267 | [rust-lang/git2-rs](./rust-lang-git2-rs.md) | ⭐ 2k | Rust | 44/100 |
+| 267 | [rust-lang/git2-rs](./rust-lang-git2-rs.md) | ⭐ 2.1k | Rust | 44/100 |
 | 268 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 43/100 |
 | 269 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 154 | Rust | 43/100 |
 | 270 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |

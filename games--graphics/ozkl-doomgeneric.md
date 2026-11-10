@@ -51,7 +51,7 @@ ozkl/doomgeneric：ozkl/doomgeneric may be useful when its README and activity m
 
 **Quality signals**
 
-- 2158 GitHub stars
+- 2161 GitHub stars
 - 380 forks
 - updated 2026-11-08
 - primary language: C

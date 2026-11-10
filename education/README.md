@@ -24,7 +24,7 @@
 | 14 | [actix/examples](./actix-examples.md) | ⭐ 4k | Rust | 57/100 |
 | 15 | [galaxyproject/training-material](./galaxyproject-training-material.md) | ⭐ 364 | HTML | 57/100 |
 | 16 | [luxonis/oak-examples](./luxonis-oak-examples.md) | ⭐ 965 | Python | 56/100 |
-| 17 | [learning-rust/learning-rust.github.io](./learning-rust-learning-rust.github.io.md) | ⭐ 1.6k | Rust | 56/100 |
+| 17 | [learning-rust/learning-rust.github.io](./learning-rust-learning-rust.github.io.md) | ⭐ 1.7k | Rust | 56/100 |
 | 18 | [dask/dask](./dask-dask.md) | ⭐ 13.9k | Python | 56/100 |
 | 19 | [UniTime/unitime](./unitime-unitime.md) | ⭐ 346 | Java | 55/100 |
 | 20 | [theislab/single-cell-best-practices](./theislab-single-cell-best-practices.md) | ⭐ 1.2k | Jupyter Notebook | 55/100 |

@@ -1,6 +1,6 @@
 # bayuh85/vetskill
 
-[![Stars](https://img.shields.io/github/stars/bayuh85/vetskill?style=flat-square&color=yellow)](https://github.com/bayuh85/vetskill/stargazers) [![Forks](https://img.shields.io/github/forks/bayuh85/vetskill?style=flat-square&color=blue)](https://github.com/bayuh85/vetskill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bayuh85/vetskill?style=flat-square&color=yellow)](https://github.com/bayuh85/vetskill/stargazers) [![Forks](https://img.shields.io/github/forks/bayuh85/vetskill?style=flat-square&color=blue)](https://github.com/bayuh85/vetskill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Vet agent skills, plugins and MCP configs for hidden instructions, credential theft and exfiltration before Claude Code, Codex or Cursor runs them. Offline scanner + optional model review via AtmoRouter.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -57,22 +57,22 @@ bayuh85/vetskill：bayuh85/vetskill helps turn isolated prompts and tools into r
 - primary language: Python
 - 17 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 45/100 |
+| quality | 41/100 |
 | integration | 78/100 |
-| production | 61/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
