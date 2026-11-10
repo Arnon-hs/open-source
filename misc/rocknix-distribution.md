@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 236 |
+| ⭐ **Stars** | 1.6k |
+| 🍴 **Forks** | 405 |
 | 💻 **Language** | Makefile |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-09-05 |

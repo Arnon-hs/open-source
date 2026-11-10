@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 69 |
+| ⭐ **Stars** | 1.6k |
+| 🍴 **Forks** | 78 |
 | 💻 **Language** | Visual Basic .NET |
 | 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-09-05 |

@@ -24,7 +24,7 @@
 | 14 | [mixpanel/mixpanel-js](./mixpanel-mixpanel-js.md) | ⭐ 938 | JavaScript | 71/100 |
 | 15 | [elgatosf/streamdeck](./elgatosf-streamdeck.md) | ⭐ 244 | TypeScript | 71/100 |
 | 16 | [matrix-org/matrix-rust-sdk](./matrix-org-matrix-rust-sdk.md) | ⭐ 2.4k | Rust | 71/100 |
-| 17 | [linear/linear](./linear-linear.md) | ⭐ 1.4k | TypeScript | 71/100 |
+| 17 | [linear/linear](./linear-linear.md) | ⭐ 1.7k | TypeScript | 71/100 |
 | 18 | [firebase/firebase-android-sdk](./firebase-firebase-android-sdk.md) | ⭐ 2.6k | Java | 71/100 |
 | 19 | [anthropics/anthropic-sdk-typescript](./anthropics-anthropic-sdk-typescript.md) | ⭐ 2.2k | TypeScript | 70/100 |
 | 20 | [facebook/facebook-python-business-sdk](./facebook-facebook-python-business-sdk.md) | ⭐ 1.6k | Python | 70/100 |
@@ -32,7 +32,7 @@
 | 22 | [adyanth/cloudflare-operator](./adyanth-cloudflare-operator.md) | ⭐ 688 | Go | 70/100 |
 | 23 | [remotestorage/remotestorage.js](./remotestorage-remotestorage.js.md) | ⭐ 2.4k | JavaScript | 70/100 |
 | 24 | [TencentCloud/tencentcloud-sdk-python](./tencentcloud-tencentcloud-sdk-python.md) | ⭐ 708 | Python | 70/100 |
-| 25 | [googleads/googleads-mobile-unity](./googleads-googleads-mobile-unity.md) | ⭐ 1.5k | C# | 70/100 |
+| 25 | [googleads/googleads-mobile-unity](./googleads-googleads-mobile-unity.md) | ⭐ 1.6k | C# | 70/100 |
 | 26 | [operator-framework/java-operator-sdk](./operator-framework-java-operator-sdk.md) | ⭐ 931 | Java | 70/100 |
 | 27 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 736 | Go | 70/100 |
 | 28 | [octokit/octokit.js](./octokit-octokit.js.md) | ⭐ 7.9k | TypeScript | 69/100 |
@@ -64,7 +64,7 @@
 | 54 | [emscripten-core/emsdk](./emscripten-core-emsdk.md) | ⭐ 3.7k | Python | 66/100 |
 | 55 | [prometheus/client_rust](./prometheus-client-rust.md) | ⭐ 604 | Rust | 66/100 |
 | 56 | [librespot-org/librespot](./librespot-org-librespot.md) | ⭐ 7.4k | Rust | 66/100 |
-| 57 | [apple/python-apple-fm-sdk](./apple-python-apple-fm-sdk.md) | ⭐ 1.2k | Python | 66/100 |
+| 57 | [apple/python-apple-fm-sdk](./apple-python-apple-fm-sdk.md) | ⭐ 1.4k | Python | 66/100 |
 | 58 | [microsoft/WindowsAppSDK](./microsoft-windowsappsdk.md) | ⭐ 4.7k | C++ | 66/100 |
 | 59 | [zoonman/linkedin-api-php-client](./zoonman-linkedin-api-php-client.md) | ⭐ 128 | PHP | 65/100 |
 | 60 | [ValveSoftware/source-sdk-2013](./valvesoftware-source-sdk-2013.md) | ⭐ 10.1k | C++ | 65/100 |
@@ -178,8 +178,8 @@
 | 168 | [Atostek/ros2-client](./atostek-ros2-client.md) | ⭐ 126 | Rust | 56/100 |
 | 169 | [birabittoh/NocturneRecomp](./birabittoh-nocturnerecomp.md) | ⭐ 315 | C++ | 56/100 |
 | 170 | [denoland/rusty_v8](./denoland-rusty-v8.md) | ⭐ 4k | Rust | 56/100 |
-| 171 | [jellydn/zed-101-setup](./jellydn-zed-101-setup.md) | ⭐ 1.4k | TypeScript | 56/100 |
-| 172 | [bytecodealliance/wit-bindgen](./bytecodealliance-wit-bindgen.md) | ⭐ 1.4k | Rust | 56/100 |
+| 171 | [jellydn/zed-101-setup](./jellydn-zed-101-setup.md) | ⭐ 1.5k | TypeScript | 56/100 |
+| 172 | [bytecodealliance/wit-bindgen](./bytecodealliance-wit-bindgen.md) | ⭐ 1.5k | Rust | 56/100 |
 | 173 | [apple/swift-temporal-sdk](./apple-swift-temporal-sdk.md) | ⭐ 306 | Swift | 56/100 |
 | 174 | [rodrigocfd/winsafe](./rodrigocfd-winsafe.md) | ⭐ 656 | Rust | 56/100 |
 | 175 | [get-convex/convex-js](./get-convex-convex-js.md) | ⭐ 347 | TypeScript | 56/100 |
@@ -201,7 +201,7 @@
 | 191 | [PyO3/maturin](./pyo3-maturin.md) | ⭐ 5.9k | Rust | 54/100 |
 | 192 | [matsadler/magnus](./matsadler-magnus.md) | ⭐ 890 | Rust | 53/100 |
 | 193 | [quickwit-oss/tantivy-py](./quickwit-oss-tantivy-py.md) | ⭐ 423 | Rust | 53/100 |
-| 194 | [dotnet/ClangSharp](./dotnet-clangsharp.md) | ⭐ 1.2k | C# | 53/100 |
+| 194 | [dotnet/ClangSharp](./dotnet-clangsharp.md) | ⭐ 1.3k | C# | 53/100 |
 | 195 | [georust/gdal](./georust-gdal.md) | ⭐ 440 | Rust | 53/100 |
 | 196 | [Dario-Chang/Spark-Governance-SDK](./dario-chang-spark-governance-sdk.md) | ⭐ — | — | 53/100 |
 | 197 | [twistedfall/opencv-rust](./twistedfall-opencv-rust.md) | ⭐ 2.5k | Rust | 53/100 |
@@ -262,7 +262,7 @@
 | 252 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 47/100 |
 | 253 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 5.1k | Rust | 47/100 |
 | 254 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 120 | Rust | 46/100 |
-| 255 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.5k | Rust | 46/100 |
+| 255 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.6k | Rust | 46/100 |
 | 256 | [voxgig/aontu](./voxgig-aontu.md) | ⭐ — | — | 46/100 |
 | 257 | [sandrpod/sandrpod](./sandrpod-sandrpod.md) | ⭐ — | — | 45/100 |
 | 258 | [RanjithRagavan/Noctua](./ranjithragavan-noctua.md) | ⭐ — | — | 45/100 |

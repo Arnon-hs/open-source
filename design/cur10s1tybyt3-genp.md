@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 109 |
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 110 |
 | 💻 **Language** | AutoIt |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-05 |

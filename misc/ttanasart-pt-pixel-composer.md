@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 78 |
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 96 |
 | 💻 **Language** | Game Maker Language |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-05 |

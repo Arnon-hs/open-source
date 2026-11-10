@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 176 |
+| 🍴 **Forks** | 189 |
 | 💻 **Language** | Clojure |
 | 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-09-05 |

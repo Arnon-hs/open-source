@@ -52,7 +52,7 @@
 | 42 | [kubetail-org/kubetail](./kubetail-org-kubetail.md) | ⭐ 1.8k | Go | 67/100 |
 | 43 | [prometheus/client_python](./prometheus-client-python.md) | ⭐ 4.4k | Python | 66/100 |
 | 44 | [CtrlSpice/otel-desktop-viewer](./ctrlspice-otel-desktop-viewer.md) | ⭐ 978 | Go | 66/100 |
-| 45 | [Greedeks/GTweak](./greedeks-gtweak.md) | ⭐ 1.5k | C# | 66/100 |
+| 45 | [Greedeks/GTweak](./greedeks-gtweak.md) | ⭐ 1.8k | C# | 66/100 |
 | 46 | [PierreGode/Ragnar](./pierregode-ragnar.md) | ⭐ 788 | Python | 66/100 |
 | 47 | [danielbrendel/hortusfox-web](./danielbrendel-hortusfox-web.md) | ⭐ 1.7k | PHP | 66/100 |
 | 48 | [bramstroker/homeassistant-powercalc](./bramstroker-homeassistant-powercalc.md) | ⭐ 1.6k | Python | 66/100 |
@@ -62,7 +62,7 @@
 | 52 | [OISF/suricata](./oisf-suricata.md) | ⭐ 6.9k | C | 66/100 |
 | 53 | [sni/thruk](./sni-thruk.md) | ⭐ 438 | Perl | 66/100 |
 | 54 | [grouzen/framework-tool-tui](./grouzen-framework-tool-tui.md) | ⭐ 336 | Rust | 66/100 |
-| 55 | [shizunge/endlessh-go](./shizunge-endlessh-go.md) | ⭐ 1.3k | Go | 66/100 |
+| 55 | [shizunge/endlessh-go](./shizunge-endlessh-go.md) | ⭐ 1.5k | Go | 66/100 |
 | 56 | [ossec/ossec-hids](./ossec-ossec-hids.md) | ⭐ 5.1k | C | 65/100 |
 | 57 | [squzy/squzy](./squzy-squzy.md) | ⭐ 479 | Go | 65/100 |
 | 58 | [DataDog/dd-trace-go](./datadog-dd-trace-go.md) | ⭐ 847 | Go | 65/100 |
@@ -76,7 +76,7 @@
 | 66 | [jurkovic-nikola/OpenLinkHub](./jurkovic-nikola-openlinkhub.md) | ⭐ 1.1k | Go | 64/100 |
 | 67 | [kutovoys/xray-checker](./kutovoys-xray-checker.md) | ⭐ 838 | Go | 64/100 |
 | 68 | [prometheus/client_java](./prometheus-client-java.md) | ⭐ 2.3k | Java | 64/100 |
-| 69 | [grafana/grafana-operator](./grafana-grafana-operator.md) | ⭐ 1.3k | Go | 64/100 |
+| 69 | [grafana/grafana-operator](./grafana-grafana-operator.md) | ⭐ 1.4k | Go | 64/100 |
 | 70 | [sitespeedio/sitespeed.io](./sitespeedio-sitespeed.io.md) | ⭐ 5k | JavaScript | 64/100 |
 | 71 | [prometheus-operator/kube-prometheus](./prometheus-operator-kube-prometheus.md) | ⭐ 7.8k | Jsonnet | 64/100 |
 | 72 | [open-telemetry/opentelemetry-operator](./open-telemetry-opentelemetry-operator.md) | ⭐ 1.8k | Go | 63/100 |
@@ -122,7 +122,7 @@
 | 112 | [prymitive/karma](./prymitive-karma.md) | ⭐ 2.7k | TypeScript | 60/100 |
 | 113 | [cortexproject/cortex](./cortexproject-cortex.md) | ⭐ 5.9k | Go | 60/100 |
 | 114 | [DataDog/dd-trace-java](./datadog-dd-trace-java.md) | ⭐ 720 | Java | 60/100 |
-| 115 | [PegaProx/project-pegaprox](./pegaprox-project-pegaprox.md) | ⭐ 1.1k | JavaScript | 60/100 |
+| 115 | [PegaProx/project-pegaprox](./pegaprox-project-pegaprox.md) | ⭐ 1.7k | JavaScript | 60/100 |
 | 116 | [giampaolo/psutil](./giampaolo-psutil.md) | ⭐ 11.3k | Python | 60/100 |
 | 117 | [grafana/beyla](./grafana-beyla.md) | ⭐ 2.2k | Go | 59/100 |
 | 118 | [nginx/nginx-prometheus-exporter](./nginx-nginx-prometheus-exporter.md) | ⭐ 2k | Go | 59/100 |
@@ -169,7 +169,7 @@
 | 159 | [akpw/mktxp](./akpw-mktxp.md) | ⭐ 1k | Python | 55/100 |
 | 160 | [leavesCZY/Monitor](./leavesczy-monitor.md) | ⭐ 308 | Kotlin | 55/100 |
 | 161 | [wakatime/zed-wakatime](./wakatime-zed-wakatime.md) | ⭐ 202 | Rust | 55/100 |
-| 162 | [MapleTechLabs/maple](./mapletechlabs-maple.md) | ⭐ 1.5k | TypeScript | 55/100 |
+| 162 | [MapleTechLabs/maple](./mapletechlabs-maple.md) | ⭐ 2k | TypeScript | 55/100 |
 | 163 | [abrignoni/ALEAPP](./abrignoni-aleapp.md) | ⭐ 857 | Python | 55/100 |
 | 164 | [abrignoni/iLEAPP](./abrignoni-ileapp.md) | ⭐ 1.1k | Python | 55/100 |
 | 165 | [open-telemetry/opentelemetry-collector-releases](./open-telemetry-opentelemetry-collector-releases.md) | ⭐ 484 | Go | 55/100 |

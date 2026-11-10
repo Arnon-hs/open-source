@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 123 |
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 132 |
 | 💻 **Language** | WebAssembly |
 | 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-09-05 |

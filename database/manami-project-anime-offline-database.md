@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.3k |
-| 🍴 **Forks** | 99 |
+| 🍴 **Forks** | 109 |
 | 💻 **Language** | Makefile |
 | 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-09-05 |

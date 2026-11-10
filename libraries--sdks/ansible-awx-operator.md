@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 719 |
+| 🍴 **Forks** | 720 |
 | 💻 **Language** | Jinja |
 | 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-10-30 |
@@ -52,8 +52,8 @@ ansible/awx-operator：ansible/awx-operator may be useful when its README and ac
 
 **Quality signals**
 
-- 1514 GitHub stars
-- 719 forks
+- 1515 GitHub stars
+- 720 forks
 - updated 2026-10-30
 - primary language: Jinja
 - 12 topics

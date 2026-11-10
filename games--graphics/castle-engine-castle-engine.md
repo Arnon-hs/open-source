@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 157 |
+| ⭐ **Stars** | 1.3k |
+| 🍴 **Forks** | 173 |
 | 💻 **Language** | Pascal |
 | 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-09-05 |

@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [shareAI-lab/Kode-CLI](./shareai-lab-kode-cli.md) | ⭐ 5.2k | TypeScript | 75/100 |
-| 2 | [marcelscruz/dev-resources](./marcelscruz-dev-resources.md) | ⭐ 1.3k | TypeScript | 73/100 |
+| 2 | [marcelscruz/dev-resources](./marcelscruz-dev-resources.md) | ⭐ 1.4k | TypeScript | 73/100 |
 | 3 | [harfbuzz/harfbuzz](./harfbuzz-harfbuzz.md) | ⭐ 6.2k | C++ | 72/100 |
 | 4 | [processing/p5.js](./processing-p5.js.md) | ⭐ 24.3k | JavaScript | 71/100 |
 | 5 | [Consensys/gnark](./consensys-gnark.md) | ⭐ 1.7k | Go | 69/100 |
@@ -32,12 +32,12 @@
 | 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 634 | Python | 62/100 |
 | 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 324 | Python | 62/100 |
 | 24 | [MewPurPur/GodSVG](./mewpurpur-godsvg.md) | ⭐ 2.8k | GDScript | 61/100 |
-| 25 | [Lailloken/Exile-UI](./lailloken-exile-ui.md) | ⭐ 1.3k | AutoHotkey | 61/100 |
+| 25 | [Lailloken/Exile-UI](./lailloken-exile-ui.md) | ⭐ 1.4k | AutoHotkey | 61/100 |
 | 26 | [bastani-inc/atomic](./bastani-inc-atomic.md) | ⭐ 274 | TypeScript | 61/100 |
 | 27 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 3k | TypeScript | 61/100 |
 | 28 | [gdsfactory/gdsfactory](./gdsfactory-gdsfactory.md) | ⭐ 925 | Python | 61/100 |
 | 29 | [elementor/elementor](./elementor-elementor.md) | ⭐ 7.1k | PHP | 61/100 |
-| 30 | [Memento-Teams/Memento-Skills](./memento-teams-memento-skills.md) | ⭐ 1.5k | Python | 60/100 |
+| 30 | [Memento-Teams/Memento-Skills](./memento-teams-memento-skills.md) | ⭐ 1.6k | Python | 60/100 |
 | 31 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.8k | Scala | 60/100 |
 | 32 | [eliheuer/img2bez](./eliheuer-img2bez.md) | ⭐ 122 | Rust | 60/100 |
 | 33 | [HMBSbige/BilibiliLiveRecordDownLoader](./hmbsbige-bilibililiverecorddownloader.md) | ⭐ 815 | C# | 60/100 |
@@ -55,8 +55,8 @@
 | 45 | [davgar99/arch-linux-font-improvement-guide](./davgar99-arch-linux-font-improvement-guide.md) | ⭐ 252 | — | 57/100 |
 | 46 | [YosysHQ/oss-cad-suite-build](./yosyshq-oss-cad-suite-build.md) | ⭐ 1.8k | Shell | 57/100 |
 | 47 | [visioncortex/vtracer](./visioncortex-vtracer.md) | ⭐ 7.5k | Rust | 57/100 |
-| 48 | [RailsEventStore/rails_event_store](./railseventstore-rails-event-store.md) | ⭐ 1.5k | Ruby | 57/100 |
-| 49 | [CircuitVerse/CircuitVerse](./circuitverse-circuitverse.md) | ⭐ 1.2k | JavaScript | 57/100 |
+| 48 | [RailsEventStore/rails_event_store](./railseventstore-rails-event-store.md) | ⭐ 1.6k | Ruby | 57/100 |
+| 49 | [CircuitVerse/CircuitVerse](./circuitverse-circuitverse.md) | ⭐ 1.3k | JavaScript | 57/100 |
 | 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 482 | TypeScript | 57/100 |
 | 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.2k | C++ | 57/100 |
 | 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 70 | Python | 57/100 |
@@ -94,14 +94,14 @@
 | 84 | [smokeeaasd/flawless-ui-ux](./smokeeaasd-flawless-ui-ux.md) | ⭐ — | — | 52/100 |
 | 85 | [vuematerial/vue-material](./vuematerial-vue-material.md) | ⭐ 9.8k | Vue | 52/100 |
 | 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 514 | Swift | 52/100 |
-| 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.1k | Handlebars | 52/100 |
+| 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.2k | Handlebars | 52/100 |
 | 88 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 101 | Rust | 52/100 |
 | 89 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 572 | Rust | 52/100 |
 | 90 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 322 | HTML | 52/100 |
-| 91 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.3k | WebAssembly | 52/100 |
+| 91 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.4k | WebAssembly | 52/100 |
 | 92 | [openhwgroup/cvw](./openhwgroup-cvw.md) | ⭐ 553 | SystemVerilog | 52/100 |
 | 93 | [riscv/riscv-arch-test](./riscv-riscv-arch-test.md) | ⭐ 734 | Assembly | 52/100 |
-| 94 | [Cur10s1tyByt3/GenP](./cur10s1tybyt3-genp.md) | ⭐ 1.2k | AutoIt | 52/100 |
+| 94 | [Cur10s1tyByt3/GenP](./cur10s1tybyt3-genp.md) | ⭐ 1.3k | AutoIt | 52/100 |
 | 95 | [Hostpad/Hostpad](./hostpad-hostpad.md) | ⭐ 2 | C# | 51/100 |
 | 96 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.1k | C++ | 51/100 |
 | 97 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 824 | Haskell | 51/100 |

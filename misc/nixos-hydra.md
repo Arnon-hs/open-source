@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 343 |
+| ⭐ **Stars** | 1.6k |
+| 🍴 **Forks** | 370 |
 | 💻 **Language** | PLpgSQL |
 | 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-09-05 |

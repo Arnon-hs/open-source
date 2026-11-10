@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 107 |
+| ⭐ **Stars** | 1.5k |
+| 🍴 **Forks** | 164 |
 | 💻 **Language** | Crystal |
 | 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-09-05 |

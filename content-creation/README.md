@@ -2,7 +2,7 @@
 
 > 
 
-**163 projects** in this category.
+**164 projects** in this category.
 
 ## Projects
 
@@ -66,7 +66,7 @@
 | 56 | [Anil-matcha/ai-creator-academy](./anil-matcha-ai-creator-academy.md) | ⭐ 23 | — | 67/100 |
 | 57 | [runapi-ai/mcp](./runapi-ai-mcp.md) | ⭐ 52 | TypeScript | 67/100 |
 | 58 | [yaojingang/GEOFlow](./yaojingang-geoflow.md) | ⭐ 4.1k | PHP | 67/100 |
-| 59 | [limecloud/lime](./limecloud-lime.md) | ⭐ 1.4k | Rust | 67/100 |
+| 59 | [limecloud/lime](./limecloud-lime.md) | ⭐ 1.5k | Rust | 67/100 |
 | 60 | [ModelTC/LightX2V](./modeltc-lightx2v.md) | ⭐ 3k | Python | 66/100 |
 | 61 | [merterbak/Grok-MCP](./merterbak-grok-mcp.md) | ⭐ 41 | Python | 66/100 |
 | 62 | [hao-ai-lab/FastVideo](./hao-ai-lab-fastvideo.md) | ⭐ 4.8k | Python | 66/100 |
@@ -74,10 +74,10 @@
 | 64 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 24.2k | Go | 66/100 |
 | 65 | [mx-space/core](./mx-space-core.md) | ⭐ 525 | TypeScript | 66/100 |
 | 66 | [wanshuiyin/ARIS-in-AI-Offer](./wanshuiyin-aris-in-ai-offer.md) | ⭐ 250 | Python | 65/100 |
-| 67 | [Jamailar/Beav](./jamailar-beav.md) | ⭐ 1.2k | TypeScript | 65/100 |
+| 67 | [Jamailar/Beav](./jamailar-beav.md) | ⭐ 2.3k | TypeScript | 65/100 |
 | 68 | [Jamailar/RedBox](./jamailar-redbox.md) | ⭐ 1.1k | TypeScript | 65/100 |
 | 69 | [ChrisChen667788/wind-comic](./chrischen667788-wind-comic.md) | ⭐ 217 | TypeScript | 65/100 |
-| 70 | [Stonewuu/ai-fusion-video](./stonewuu-ai-fusion-video.md) | ⭐ 1.2k | Java | 64/100 |
+| 70 | [Stonewuu/ai-fusion-video](./stonewuu-ai-fusion-video.md) | ⭐ 1.7k | Java | 64/100 |
 | 71 | [Anil-matcha/Free-AI-Social-Media-Scheduler](./anil-matcha-free-ai-social-media-scheduler.md) | ⭐ 458 | JavaScript | 64/100 |
 | 72 | [jeffstric/ZJT](./jeffstric-zjt.md) | ⭐ 175 | Python | 64/100 |
 | 73 | [Mann1988/awesome-claude-skills](./mann1988-awesome-claude-skills.md) | ⭐ 58 | Python | 64/100 |
@@ -111,9 +111,9 @@
 | 101 | [Eva-311/hermes-automation-examples](./eva-311-hermes-automation-examples.md) | ⭐ 2 | — | 56/100 |
 | 102 | [SandAI-org/MagiCompiler](./sandai-org-magicompiler.md) | ⭐ 317 | Python | 56/100 |
 | 103 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 855 | Rust | 56/100 |
-| 104 | [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](./youmind-openlab-nano-banana-pro-prompts-recommend-skill.md) | ⭐ 1.5k | TypeScript | 56/100 |
+| 104 | [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](./youmind-openlab-nano-banana-pro-prompts-recommend-skill.md) | ⭐ 1.9k | TypeScript | 56/100 |
 | 105 | [wide-trace/open-higgsfield](./wide-trace-open-higgsfield.md) | ⭐ 5.6k | TypeScript | 55/100 |
-| 106 | [doka-guide/content](./doka-guide-content.md) | ⭐ 1.4k | HTML | 55/100 |
+| 106 | [doka-guide/content](./doka-guide-content.md) | ⭐ 1.5k | HTML | 55/100 |
 | 107 | [chinesehuazhou/python-weekly](./chinesehuazhou-python-weekly.md) | ⭐ 1.9k | TypeScript | 55/100 |
 | 108 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 55/100 |
 | 109 | [ziqihuangg/Awesome-Evaluation-of-Visual-Generation](./ziqihuangg-awesome-evaluation-of-visual-generation.md) | ⭐ 455 | — | 54/100 |
@@ -131,7 +131,7 @@
 | 121 | [voxell-tech/velyst](./voxell-tech-velyst.md) | ⭐ 247 | Rust | 50/100 |
 | 122 | [Felixwang007/awesome-content-tools](./felixwang007-awesome-content-tools.md) | ⭐ — | Python | 49/100 |
 | 123 | [farukkolip/xtapdown-mcp](./farukkolip-xtapdown-mcp.md) | ⭐ — | — | 49/100 |
-| 124 | [forwardemail/forwardemail.net](./forwardemail-forwardemail.net.md) | ⭐ 1.6k | JavaScript | 49/100 |
+| 124 | [forwardemail/forwardemail.net](./forwardemail-forwardemail.net.md) | ⭐ 1.7k | JavaScript | 49/100 |
 | 125 | [WarmBloodAban/Minimax-h3_Singularity](./warmbloodaban-minimax-h3-singularity.md) | ⭐ 918 | minimax-h3 | 48/100 |
 | 126 | [lightx2v/Minimax-h3-Turbo](./lightx2v-minimax-h3-turbo.md) | ⭐ 764 | diffusers | 48/100 |
 | 127 | [joniilmanfahmi00-collab/musespark-mcp](./joniilmanfahmi00-collab-musespark-mcp.md) | ⭐ — | PHP | 47/100 |
@@ -151,26 +151,27 @@
 | 141 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 142 | [google/generative-ai-node](./google-generative-ai-node.md) | ⭐ — | — | 43/100 |
 | 143 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
-| 144 | [worldlabsai/atlas-camera-studio](./worldlabsai-atlas-camera-studio.md) | ⭐ — | — | 41/100 |
-| 145 | [ai/size-limit](./ai-size-limit.md) | ⭐ — | — | 40/100 |
-| 146 | [BigoudOps/Libre-financement](./bigoudops-libre-financement.md) | ⭐ — | — | 40/100 |
-| 147 | [Lightricks/LTX-Video](./lightricks-ltx-video.md) | ⭐ 2.3k | diffusers | 40/100 |
-| 148 | [pelazas/p2pmux](./pelazas-p2pmux.md) | ⭐ — | — | 40/100 |
-| 149 | [QuantStack/Wan2.2-I2V-A14B-GGUF](./quantstack-wan2.2-i2v-a14b-gguf.md) | ⭐ 458 | gguf | 38/100 |
-| 150 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ — | — | 38/100 |
-| 151 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 38/100 |
-| 152 | [QuantStack/Wan2.2-TI2V-5B-GGUF](./quantstack-wan2.2-ti2v-5b-gguf.md) | ⭐ 231 | gguf | 37/100 |
-| 153 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
-| 154 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
-| 155 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
-| 156 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 157 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
-| 158 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 159 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
-| 160 | [jefferson/jev](./jefferson-jev.md) | ⭐ — | — | 35/100 |
-| 161 | [google-gemini/google-adk](./google-gemini-google-adk.md) | ⭐ — | — | 35/100 |
-| 162 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
-| 163 | [CompVis/mini-max](./compvis-mini-max.md) | ⭐ — | — | 28/100 |
+| 144 | [maths-oliveira/blabla-meter](./maths-oliveira-blabla-meter.md) | ⭐ — | — | 41/100 |
+| 145 | [worldlabsai/atlas-camera-studio](./worldlabsai-atlas-camera-studio.md) | ⭐ — | — | 41/100 |
+| 146 | [ai/size-limit](./ai-size-limit.md) | ⭐ — | — | 40/100 |
+| 147 | [BigoudOps/Libre-financement](./bigoudops-libre-financement.md) | ⭐ — | — | 40/100 |
+| 148 | [Lightricks/LTX-Video](./lightricks-ltx-video.md) | ⭐ 2.3k | diffusers | 40/100 |
+| 149 | [pelazas/p2pmux](./pelazas-p2pmux.md) | ⭐ — | — | 40/100 |
+| 150 | [QuantStack/Wan2.2-I2V-A14B-GGUF](./quantstack-wan2.2-i2v-a14b-gguf.md) | ⭐ 458 | gguf | 38/100 |
+| 151 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ — | — | 38/100 |
+| 152 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 38/100 |
+| 153 | [QuantStack/Wan2.2-TI2V-5B-GGUF](./quantstack-wan2.2-ti2v-5b-gguf.md) | ⭐ 231 | gguf | 37/100 |
+| 154 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
+| 155 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
+| 156 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
+| 157 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
+| 158 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 159 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 160 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
+| 161 | [jefferson/jev](./jefferson-jev.md) | ⭐ — | — | 35/100 |
+| 162 | [google-gemini/google-adk](./google-gemini-google-adk.md) | ⭐ — | — | 35/100 |
+| 163 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
+| 164 | [CompVis/mini-max](./compvis-mini-max.md) | ⭐ — | — | 28/100 |
 
 ---
 

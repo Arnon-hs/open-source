@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.2k |
-| 🍴 **Forks** | 50 |
+| ⭐ **Stars** | 1.4k |
+| 🍴 **Forks** | 61 |
 | 💻 **Language** | MATLAB |
 | 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-09-05 |

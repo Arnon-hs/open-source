@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [hey-api/hey-api](./hey-api-hey-api.md) | ⭐ 5.6k | TypeScript | 90/100 |
-| 2 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 1.2k | TypeScript | 86/100 |
+| 2 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 2.2k | TypeScript | 86/100 |
 | 3 | [wuwangzhang1216/claude-code-source-all-in-one](./wuwangzhang1216-claude-code-source-all-in-one.md) | ⭐ 78 | TypeScript | 81/100 |
 | 4 | [uselotus/lotus](./uselotus-lotus.md) | ⭐ 1.8k | Python | 79/100 |
 | 5 | [y49/tlive](./y49-tlive.md) | ⭐ 201 | TypeScript | 79/100 |
@@ -49,7 +49,7 @@
 | 39 | [sums001/Deepseek-API](./sums001-deepseek-api.md) | ⭐ 103 | Python | 71/100 |
 | 40 | [Adyen/adyen-ruby-api-library](./adyen-adyen-ruby-api-library.md) | ⭐ 53 | Ruby | 71/100 |
 | 41 | [stripe/stripe-php](./stripe-stripe-php.md) | ⭐ 4k | PHP | 71/100 |
-| 42 | [stripe/ai](./stripe-ai.md) | ⭐ 1.5k | TypeScript | 71/100 |
+| 42 | [stripe/ai](./stripe-ai.md) | ⭐ 2.1k | TypeScript | 71/100 |
 | 43 | [AnalyseDeCircuit/oxideterm](./analysedecircuit-oxideterm.md) | ⭐ 648 | Rust | 71/100 |
 | 44 | [DrDBanner/inmanage](./drdbanner-inmanage.md) | ⭐ 71 | Shell | 70/100 |
 | 45 | [sums001/Windows-Copilot-API](./sums001-windows-copilot-api.md) | ⭐ 508 | Python | 70/100 |
@@ -76,8 +76,8 @@
 | 66 | [ethibox/ethibox](./ethibox-ethibox.md) | ⭐ 258 | JavaScript | 66/100 |
 | 67 | [samber/ro](./samber-ro.md) | ⭐ 645 | Go | 66/100 |
 | 68 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.6k | TypeScript | 66/100 |
-| 69 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
-| 70 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.5k | Python | 66/100 |
+| 69 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.5k | Python | 66/100 |
+| 70 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
 | 71 | [librae8226/nexus4cc](./librae8226-nexus4cc.md) | ⭐ 126 | TypeScript | 65/100 |
 | 72 | [hugoii/llm-agent-audit](./hugoii-llm-agent-audit.md) | ⭐ 38 | Python | 65/100 |
 | 73 | [zmievsa/cadwyn](./zmievsa-cadwyn.md) | ⭐ 303 | Python | 65/100 |
@@ -98,7 +98,7 @@
 | 88 | [paypal-examples/v6-web-sdk-sample-integration](./paypal-examples-v6-web-sdk-sample-integration.md) | ⭐ 53 | TypeScript | 64/100 |
 | 89 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 119 | C# | 64/100 |
 | 90 | [stripe/stripe-python](./stripe-stripe-python.md) | ⭐ 2.1k | Python | 64/100 |
-| 91 | [FOSSBilling/FOSSBilling](./fossbilling-fossbilling.md) | ⭐ 1.6k | PHP | 64/100 |
+| 91 | [FOSSBilling/FOSSBilling](./fossbilling-fossbilling.md) | ⭐ 1.7k | PHP | 64/100 |
 | 92 | [stripe/stripe-go](./stripe-stripe-go.md) | ⭐ 2.7k | Go | 64/100 |
 | 93 | [Pawdroid/Free-servers](./pawdroid-free-servers.md) | ⭐ 19.9k | — | 64/100 |
 | 94 | [PaymobAccept/Paymob-AI-Integration-Skill](./paymobaccept-paymob-ai-integration-skill.md) | ⭐ 21 | Python | 63/100 |
@@ -176,13 +176,13 @@
 | 166 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 104 | JavaScript | 57/100 |
 | 167 | [Bestpart-Irene/secondsign-core](./bestpart-irene-secondsign-core.md) | ⭐ 32 | Python | 57/100 |
 | 168 | [useautumn/autumn](./useautumn-autumn.md) | ⭐ 2.6k | TypeScript | 57/100 |
-| 169 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.5k | JavaScript | 57/100 |
+| 169 | [agentic-commerce-protocol/agentic-commerce-protocol](./agentic-commerce-protocol-agentic-commerce-protocol.md) | ⭐ 1.6k | JavaScript | 57/100 |
 | 170 | [Au1rxx/free-vpn-subscriptions](./au1rxx-free-vpn-subscriptions.md) | ⭐ 309 | Go | 57/100 |
 | 171 | [mergecal/mergecal](./mergecal-mergecal.md) | ⭐ 61 | JavaScript | 57/100 |
 | 172 | [DOMjudge/domjudge](./domjudge-domjudge.md) | ⭐ 902 | PHP | 57/100 |
 | 173 | [Beingpax/VoiceInk](./beingpax-voiceink.md) | ⭐ 7.1k | Swift | 57/100 |
 | 174 | [just1and0/React-Native-Paystack-WebView](./just1and0-react-native-paystack-webview.md) | ⭐ 197 | TypeScript | 57/100 |
-| 175 | [crossxx-labs/free-proxy](./crossxx-labs-free-proxy.md) | ⭐ 1.5k | Shell | 57/100 |
+| 175 | [crossxx-labs/free-proxy](./crossxx-labs-free-proxy.md) | ⭐ 1.9k | Shell | 57/100 |
 | 176 | [sumup/sumup-ios-sdk](./sumup-sumup-ios-sdk.md) | ⭐ 61 | Swift | 57/100 |
 | 177 | [nymtech/nym-vpn-client](./nymtech-nym-vpn-client.md) | ⭐ 430 | Rust | 57/100 |
 | 178 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 295 | — | 57/100 |
@@ -248,7 +248,7 @@
 | 238 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 597 | Python | 53/100 |
 | 239 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 629 | Java | 53/100 |
 | 240 | [flutter-stripe/flutter_stripe](./flutter-stripe-flutter-stripe.md) | ⭐ 1.1k | Dart | 53/100 |
-| 241 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.5k | Kotlin | 53/100 |
+| 241 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.6k | Kotlin | 53/100 |
 | 242 | [invoiceninja/invoiceninja](./invoiceninja-invoiceninja.md) | ⭐ 10.5k | PHP | 53/100 |
 | 243 | [Raktim94/rechvix](./raktim94-rechvix.md) | ⭐ — | Go | 52/100 |
 | 244 | [Zhiyilang/localledger](./zhiyilang-localledger.md) | ⭐ — | Python | 52/100 |
@@ -285,8 +285,8 @@
 | 275 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 276 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 65 | HTML | 50/100 |
 | 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 30 | HTML | 50/100 |
-| 278 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
-| 279 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 50/100 |
+| 278 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 706 | Dart | 50/100 |
+| 279 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 280 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 281 | [FetchDoge/permit](./fetchdoge-permit.md) | ⭐ — | Python | 49/100 |
 | 282 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 49/100 |
@@ -312,7 +312,7 @@
 | 302 | [holistis/al-muqarin](./holistis-al-muqarin.md) | ⭐ — | JavaScript | 48/100 |
 | 303 | [vivantel/terraform-provider-paddle](./vivantel-terraform-provider-paddle.md) | ⭐ — | Go | 47/100 |
 | 304 | [nutcas3/lets-bet](./nutcas3-lets-bet.md) | ⭐ 104 | Go | 47/100 |
-| 305 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 1.3k | C# | 47/100 |
+| 305 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 4.3k | C# | 47/100 |
 | 306 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 534 | Perl | 47/100 |
 | 307 | [ebrasha/free-v2ray-public-list](./ebrasha-free-v2ray-public-list.md) | ⭐ 731 | — | 47/100 |
 | 308 | [laravel/cashier-stripe](./laravel-cashier-stripe.md) | ⭐ 2.5k | PHP | 47/100 |

@@ -23,7 +23,7 @@
 | 13 | [responsively-org/responsively-app](./responsively-org-responsively-app.md) | ⭐ 25.5k | TypeScript | 74/100 |
 | 14 | [jarun/nnn](./jarun-nnn.md) | ⭐ 22.1k | C | 74/100 |
 | 15 | [gdt050579/AppCUI-rs](./gdt050579-appcui-rs.md) | ⭐ 397 | Rust | 73/100 |
-| 16 | [Gaoyifei1011/GetStoreApp](./gaoyifei1011-getstoreapp.md) | ⭐ 1.4k | C# | 72/100 |
+| 16 | [Gaoyifei1011/GetStoreApp](./gaoyifei1011-getstoreapp.md) | ⭐ 1.5k | C# | 72/100 |
 | 17 | [EcoPasteHub/EcoPaste](./ecopastehub-ecopaste.md) | ⭐ 7.6k | Rust | 72/100 |
 | 18 | [openbootdotdev/openboot](./openbootdotdev-openboot.md) | ⭐ 260 | Go | 72/100 |
 | 19 | [supreme-gg-gg/instagram-cli](./supreme-gg-gg-instagram-cli.md) | ⭐ 2.2k | TypeScript | 72/100 |
@@ -49,7 +49,7 @@
 | 39 | [rayenghanmi/RyTuneX](./rayenghanmi-rytunex.md) | ⭐ 5.6k | C# | 68/100 |
 | 40 | [SoCkEt7/Livediff](./socket7-livediff.md) | ⭐ 170 | Rust | 68/100 |
 | 41 | [lutris/lutris](./lutris-lutris.md) | ⭐ 10.4k | Python | 68/100 |
-| 42 | [lasantosr/intelli-shell](./lasantosr-intelli-shell.md) | ⭐ 1.2k | Rust | 68/100 |
+| 42 | [lasantosr/intelli-shell](./lasantosr-intelli-shell.md) | ⭐ 1.3k | Rust | 68/100 |
 | 43 | [unhappychoice/gittype](./unhappychoice-gittype.md) | ⭐ 1.1k | Rust | 68/100 |
 | 44 | [Heroic-Games-Launcher/HeroicGamesLauncher](./heroic-games-launcher-heroicgameslauncher.md) | ⭐ 12.6k | TypeScript | 68/100 |
 | 45 | [3ni8ma/astro-tasks](./3ni8ma-astro-tasks.md) | ⭐ 2 | Python | 67/100 |
@@ -69,7 +69,7 @@
 | 59 | [hydralauncher/hydra](./hydralauncher-hydra.md) | ⭐ 17.7k | TypeScript | 66/100 |
 | 60 | [rohansx/workz](./rohansx-workz.md) | ⭐ 68 | Rust | 66/100 |
 | 61 | [AmineDjeghri/awesome-os-setup](./aminedjeghri-awesome-os-setup.md) | ⭐ 573 | Python | 66/100 |
-| 62 | [FuzzyIdeas/Clop](./fuzzyideas-clop.md) | ⭐ 1.6k | Swift | 66/100 |
+| 62 | [FuzzyIdeas/Clop](./fuzzyideas-clop.md) | ⭐ 1.9k | Swift | 66/100 |
 | 63 | [danterolle/tilf](./danterolle-tilf.md) | ⭐ 461 | Python | 66/100 |
 | 64 | [Victor-IX/Blender-Launcher-V2](./victor-ix-blender-launcher-v2.md) | ⭐ 704 | Python | 66/100 |
 | 65 | [r3bl-org/r3bl-open-core](./r3bl-org-r3bl-open-core.md) | ⭐ 475 | Rust | 66/100 |
@@ -85,9 +85,9 @@
 | 75 | [journiv/journiv-app](./journiv-journiv-app.md) | ⭐ 1k | JavaScript | 65/100 |
 | 76 | [semantic-release/release-notes-generator](./semantic-release-release-notes-generator.md) | ⭐ 362 | JavaScript | 65/100 |
 | 77 | [wavetermdev/waveterm](./wavetermdev-waveterm.md) | ⭐ 22.7k | Go | 65/100 |
-| 78 | [surajverma/homehub](./surajverma-homehub.md) | ⭐ 1.2k | HTML | 64/100 |
+| 78 | [surajverma/homehub](./surajverma-homehub.md) | ⭐ 1.3k | HTML | 64/100 |
 | 79 | [ranger/ranger](./ranger-ranger.md) | ⭐ 17.5k | Python | 64/100 |
-| 80 | [bgreenwell/xleak](./bgreenwell-xleak.md) | ⭐ 1.4k | Rust | 64/100 |
+| 80 | [bgreenwell/xleak](./bgreenwell-xleak.md) | ⭐ 1.5k | Rust | 64/100 |
 | 81 | [XxMinor/mykvm](./xxminor-mykvm.md) | ⭐ 287 | Rust | 64/100 |
 | 82 | [nextcloud/notes-android](./nextcloud-notes-android.md) | ⭐ 1.1k | Java | 64/100 |
 | 83 | [ViscousPot/GitSync](./viscouspot-gitsync.md) | ⭐ 2.5k | Dart | 63/100 |
@@ -115,7 +115,7 @@
 | 105 | [mudkipme/MoeMemosAndroid](./mudkipme-moememosandroid.md) | ⭐ 1.1k | Kotlin | 61/100 |
 | 106 | [cybersemics/em](./cybersemics-em.md) | ⭐ 354 | TypeScript | 61/100 |
 | 107 | [Taiko2k/Tauon](./taiko2k-tauon.md) | ⭐ 3k | Python | 61/100 |
-| 108 | [Voxelum/x-minecraft-launcher](./voxelum-x-minecraft-launcher.md) | ⭐ 1.5k | TypeScript | 61/100 |
+| 108 | [Voxelum/x-minecraft-launcher](./voxelum-x-minecraft-launcher.md) | ⭐ 1.7k | TypeScript | 61/100 |
 | 109 | [doraemonkeys/WindSend](./doraemonkeys-windsend.md) | ⭐ 598 | Dart | 61/100 |
 | 110 | [volotat/Anagnorisis](./volotat-anagnorisis.md) | ⭐ 309 | Python | 61/100 |
 | 111 | [gethouston/houston](./gethouston-houston.md) | ⭐ 42 | TypeScript | 61/100 |
@@ -144,8 +144,8 @@
 | 134 | [Y-ASLant/ElegantClipboard](./y-aslant-elegantclipboard.md) | ⭐ 416 | Rust | 59/100 |
 | 135 | [zhensherlock/intellij-platform-git-stats-plugin](./zhensherlock-intellij-platform-git-stats-plugin.md) | ⭐ 194 | Kotlin | 59/100 |
 | 136 | [kra-mo/cartridges](./kra-mo-cartridges.md) | ⭐ 820 | Python | 59/100 |
-| 137 | [timholy/Revise.jl](./timholy-revise.jl.md) | ⭐ 1.3k | Julia | 59/100 |
-| 138 | [poetaman/arttime](./poetaman-arttime.md) | ⭐ 1.3k | Shell | 59/100 |
+| 137 | [timholy/Revise.jl](./timholy-revise.jl.md) | ⭐ 1.4k | Julia | 59/100 |
+| 138 | [poetaman/arttime](./poetaman-arttime.md) | ⭐ 1.4k | Shell | 59/100 |
 | 139 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 135.4k | TypeScript | 59/100 |
 | 140 | [carapace-sh/carapace-bin](./carapace-sh-carapace-bin.md) | ⭐ 2k | Go | 59/100 |
 | 141 | [scalacenter/bloop](./scalacenter-bloop.md) | ⭐ 939 | Scala | 59/100 |
@@ -161,19 +161,19 @@
 | 151 | [Akhouri-Anmol-Kumar/APIC](./akhouri-anmol-kumar-apic.md) | ⭐ 1 | — | 57/100 |
 | 152 | [cassidoo/todometer](./cassidoo-todometer.md) | ⭐ 2.1k | JavaScript | 57/100 |
 | 153 | [yandanp/Connexio](./yandanp-connexio.md) | ⭐ 32 | TypeScript | 57/100 |
-| 154 | [julyx10/lap](./julyx10-lap.md) | ⭐ 1.4k | Vue | 57/100 |
+| 154 | [julyx10/lap](./julyx10-lap.md) | ⭐ 4.3k | Vue | 57/100 |
 | 155 | [sunnypatell/sunnify-spotify-downloader](./sunnypatell-sunnify-spotify-downloader.md) | ⭐ 437 | Python | 57/100 |
 | 156 | [BernardoGiordano/Checkpoint](./bernardogiordano-checkpoint.md) | ⭐ 3.1k | C++ | 57/100 |
 | 157 | [MM2-0/Kvaesitso](./mm2-0-kvaesitso.md) | ⭐ 5.4k | Kotlin | 57/100 |
 | 158 | [Faugus/faugus-launcher](./faugus-faugus-launcher.md) | ⭐ 2.6k | Python | 57/100 |
 | 159 | [tasks/tasks](./tasks-tasks.md) | ⭐ 5.7k | Kotlin | 57/100 |
-| 160 | [jaywcjlove/awesome-swift-macos-apps](./jaywcjlove-awesome-swift-macos-apps.md) | ⭐ 1.5k | Swift | 57/100 |
+| 160 | [jaywcjlove/awesome-swift-macos-apps](./jaywcjlove-awesome-swift-macos-apps.md) | ⭐ 1.8k | Swift | 57/100 |
 | 161 | [NVIDIA/cuda-python](./nvidia-cuda-python.md) | ⭐ 3.4k | Cython | 57/100 |
-| 162 | [kushalpandya/Petrichor](./kushalpandya-petrichor.md) | ⭐ 1.5k | Swift | 57/100 |
+| 162 | [kushalpandya/Petrichor](./kushalpandya-petrichor.md) | ⭐ 1.8k | Swift | 57/100 |
 | 163 | [JackEblan/YagniLauncher](./jackeblan-yagnilauncher.md) | ⭐ 565 | Kotlin | 57/100 |
 | 164 | [an-anime-team/anime-games-launcher](./an-anime-team-anime-games-launcher.md) | ⭐ 440 | Rust | 57/100 |
 | 165 | [Nitrolaunch/nitrolaunch](./nitrolaunch-nitrolaunch.md) | ⭐ 120 | Rust | 57/100 |
-| 166 | [ZalithLauncher/ZalithLauncher2](./zalithlauncher-zalithlauncher2.md) | ⭐ 1.4k | Kotlin | 57/100 |
+| 166 | [ZalithLauncher/ZalithLauncher2](./zalithlauncher-zalithlauncher2.md) | ⭐ 2.2k | Kotlin | 57/100 |
 | 167 | [morapelker/hive](./morapelker-hive.md) | ⭐ 408 | TypeScript | 57/100 |
 | 168 | [alextselegidis/plainpad](./alextselegidis-plainpad.md) | ⭐ 398 | PHP | 57/100 |
 | 169 | [TapiocaFox/Daijishou](./tapiocafox-daijishou.md) | ⭐ 2k | Python | 57/100 |
@@ -283,7 +283,7 @@
 | 273 | [royalpinto007/Tiny-Day](./royalpinto007-tiny-day.md) | ⭐ 1 | TypeScript | 46/100 |
 | 274 | [lovestaco/ratatop](./lovestaco-ratatop.md) | ⭐ — | — | 46/100 |
 | 275 | [google/clasp](./google-clasp.md) | ⭐ — | — | 46/100 |
-| 276 | [bmorcelli/Launcher](./bmorcelli-launcher.md) | ⭐ 1.5k | C++ | 46/100 |
+| 276 | [bmorcelli/Launcher](./bmorcelli-launcher.md) | ⭐ 2.3k | C++ | 46/100 |
 | 277 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 124 | Rust | 46/100 |
 | 278 | [eval-exec/neomacs](./eval-exec-neomacs.md) | ⭐ 707 | Emacs Lisp | 46/100 |
 | 279 | [snehaldutta/Dhwani](./snehaldutta-dhwani.md) | ⭐ — | — | 45/100 |
@@ -311,8 +311,8 @@
 | 301 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 302 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 303 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 4 | C# | 43/100 |
-| 304 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
-| 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
+| 304 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
+| 305 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
 | 306 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ — | — | 43/100 |
 | 307 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 43/100 |
 | 308 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 17 | Zig | 42/100 |
@@ -344,8 +344,8 @@
 | 334 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 335 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ — | — | 39/100 |
 | 336 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 337 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
-| 338 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
+| 337 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ — | — | 39/100 |
+| 338 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ — | — | 39/100 |
 | 339 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 340 | [israelfreitas/ttkbootstrap](./israelfreitas-ttkbootstrap.md) | ⭐ — | — | 39/100 |
 | 341 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ — | — | 38/100 |
