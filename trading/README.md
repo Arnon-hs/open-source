@@ -35,7 +35,7 @@
 | 25 | [vas3k/TaxHacker](./vas3k-taxhacker.md) | ⭐ 6.8k | TypeScript | 72/100 |
 | 26 | [tastyware/tastytrade](./tastyware-tastytrade.md) | ⭐ 259 | Python | 72/100 |
 | 27 | [shy3130/tickflow-stock-panel](./shy3130-tickflow-stock-panel.md) | ⭐ 123 | TypeScript | 72/100 |
-| 28 | [runesleo/polymarket-toolkit](./runesleo-polymarket-toolkit.md) | ⭐ 179 | TypeScript | 71/100 |
+| 28 | [runesleo/polymarket-toolkit](./runesleo-polymarket-toolkit.md) | ⭐ 204 | TypeScript | 71/100 |
 | 29 | [guangxiangdebizi/FinanceMCP](./guangxiangdebizi-financemcp.md) | ⭐ 871 | JavaScript | 71/100 |
 | 30 | [alexanderwanyoike/the0](./alexanderwanyoike-the0.md) | ⭐ 436 | TypeScript | 71/100 |
 | 31 | [Lifailon/rudocs](./lifailon-rudocs.md) | ⭐ 682 | PowerShell | 71/100 |
@@ -50,7 +50,7 @@
 | 40 | [HiThink-Tech/Financial-API](./hithink-tech-financial-api.md) | ⭐ 96 | Python | 69/100 |
 | 41 | [daniel3303/Equibles](./daniel3303-equibles.md) | ⭐ 163 | C# | 69/100 |
 | 42 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 27 | Swift | 69/100 |
-| 43 | [livetennisapi/polymarket-tennis](./livetennisapi-polymarket-tennis.md) | ⭐ 208 | Python | 68/100 |
+| 43 | [livetennisapi/polymarket-tennis](./livetennisapi-polymarket-tennis.md) | ⭐ 257 | Python | 68/100 |
 | 44 | [OctagonAI/kalshi-trading-bot-cli](./octagonai-kalshi-trading-bot-cli.md) | ⭐ 415 | TypeScript | 68/100 |
 | 45 | [tylerebowers/Schwabdev](./tylerebowers-schwabdev.md) | ⭐ 895 | Python | 68/100 |
 | 46 | [SimplifyJobs/Summer2027-Internships](./simplifyjobs-summer2027-internships.md) | ⭐ 48.4k | Python | 68/100 |
@@ -73,17 +73,17 @@
 | 63 | [ilyaux/Eve-flipper](./ilyaux-eve-flipper.md) | ⭐ 36 | TypeScript | 65/100 |
 | 64 | [Barca0412/Introduction-to-Quantitative-Finance](./barca0412-introduction-to-quantitative-finance.md) | ⭐ 1.9k | Python | 65/100 |
 | 65 | [handsomejustin/easy_tdx](./handsomejustin-easy-tdx.md) | ⭐ 303 | Python | 65/100 |
-| 66 | [Qoyyuum/mcp-metatrader5-server](./qoyyuum-mcp-metatrader5-server.md) | ⭐ 170 | Python | 65/100 |
+| 66 | [Qoyyuum/mcp-metatrader5-server](./qoyyuum-mcp-metatrader5-server.md) | ⭐ 243 | Python | 65/100 |
 | 67 | [enarjord/passivbot](./enarjord-passivbot.md) | ⭐ 2.2k | Python | 65/100 |
 | 68 | [cypht-org/cypht](./cypht-org-cypht.md) | ⭐ 1.8k | PHP | 65/100 |
 | 69 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 1k | — | 65/100 |
 | 70 | [arhancanli/canlicapital](./arhancanli-canlicapital.md) | ⭐ — | HTML | 64/100 |
 | 71 | [HKUDS/AI-Trader](./hkuds-ai-trader.md) | ⭐ 23.2k | Python | 64/100 |
-| 72 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 64/100 |
-| 73 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.7k | — | 64/100 |
+| 72 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.7k | — | 64/100 |
+| 73 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 45 | Python | 64/100 |
 | 74 | [HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](./harrieronchain-prediction-markets-trading-bot-toolkits.md) | ⭐ 354 | Rust | 64/100 |
 | 75 | [Travisun/Opptrix](./travisun-opptrix.md) | ⭐ 32 | TypeScript | 64/100 |
-| 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 184 | Rust | 64/100 |
+| 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 231 | Rust | 64/100 |
 | 77 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 78 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
 | 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
@@ -103,7 +103,7 @@
 | 93 | [javifalces/HFTFramework](./javifalces-hftframework.md) | ⭐ 311 | Jupyter Notebook | 62/100 |
 | 94 | [CategoricalData/CQL](./categoricaldata-cql.md) | ⭐ 367 | Java | 62/100 |
 | 95 | [hosseinmoein/DataFrame](./hosseinmoein-dataframe.md) | ⭐ 3k | C++ | 62/100 |
-| 96 | [ZhuLinsen/alphasift](./zhulinsen-alphasift.md) | ⭐ 219 | Python | 62/100 |
+| 96 | [ZhuLinsen/alphasift](./zhulinsen-alphasift.md) | ⭐ 464 | Python | 62/100 |
 | 97 | [Benjam1nCup/Polymarket-trading-bot-python-V2](./benjam1ncup-polymarket-trading-bot-python-v2.md) | ⭐ 338 | HTML | 62/100 |
 | 98 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 67.1k | Python | 62/100 |
 | 99 | [Krexind/quant-trading](./krexind-quant-trading.md) | ⭐ 38 | Python | 61/100 |
@@ -120,7 +120,7 @@
 | 110 | [ZhuLinsen/alphaevo](./zhulinsen-alphaevo.md) | ⭐ 108 | Python | 60/100 |
 | 111 | [nlethetech/nepse-quant-terminal](./nlethetech-nepse-quant-terminal.md) | ⭐ 120 | Python | 60/100 |
 | 112 | [FinHackCN/finhack](./finhackcn-finhack.md) | ⭐ 1.3k | Python | 59/100 |
-| 113 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 208 | Rust | 59/100 |
+| 113 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 239 | Rust | 59/100 |
 | 114 | [nordic-institute/X-Road](./nordic-institute-x-road.md) | ⭐ 874 | Java | 59/100 |
 | 115 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 783 | Jupyter Notebook | 59/100 |
 | 116 | [kungfu-systems/kungfu](./kungfu-systems-kungfu.md) | ⭐ 4.5k | C++ | 59/100 |
@@ -136,7 +136,7 @@
 | 126 | [bmoscon/orderbook](./bmoscon-orderbook.md) | ⭐ 321 | Python | 57/100 |
 | 127 | [noahnan-max/chanlun-trading-system](./noahnan-max-chanlun-trading-system.md) | ⭐ 33 | Python | 57/100 |
 | 128 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 40 | JavaScript | 57/100 |
-| 129 | [joaquinbejar/OptionStratLib](./joaquinbejar-optionstratlib.md) | ⭐ 228 | Rust | 57/100 |
+| 129 | [joaquinbejar/OptionStratLib](./joaquinbejar-optionstratlib.md) | ⭐ 264 | Rust | 57/100 |
 | 130 | [saidsurucu/borsaci](./saidsurucu-borsaci.md) | ⭐ 288 | Python | 56/100 |
 | 131 | [warproxxx/poly-maker](./warproxxx-poly-maker.md) | ⭐ 1.5k | Python | 56/100 |
 | 132 | [Erio-Harrison/rust-trade](./erio-harrison-rust-trade.md) | ⭐ 491 | Rust | 56/100 |
@@ -144,7 +144,7 @@
 | 134 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 9.7k | TypeScript | 56/100 |
 | 135 | [AlexWan/OsEngine](./alexwan-osengine.md) | ⭐ 1k | C# | 56/100 |
 | 136 | [jacelovehaha/whoapproved](./jacelovehaha-whoapproved.md) | ⭐ — | Python | 56/100 |
-| 137 | [brandtnewlabs/react-native-livechart](./brandtnewlabs-react-native-livechart.md) | ⭐ 175 | TypeScript | 55/100 |
+| 137 | [brandtnewlabs/react-native-livechart](./brandtnewlabs-react-native-livechart.md) | ⭐ 191 | TypeScript | 55/100 |
 | 138 | [mothparkzo6249/TG-Polymarket-bot](./mothparkzo6249-tg-polymarket-bot.md) | ⭐ 316 | JavaScript | 55/100 |
 | 139 | [melloworchid8rr6g/TG-Polymarket-bot](./melloworchid8rr6g-tg-polymarket-bot.md) | ⭐ 313 | JavaScript | 55/100 |
 | 140 | [deepentropy/ibx](./deepentropy-ibx.md) | ⭐ 151 | Rust | 55/100 |
@@ -153,7 +153,7 @@
 | 143 | [vincenzo-afk/OpenAgentNet](./vincenzo-afk-openagentnet.md) | ⭐ 31 | Python | 54/100 |
 | 144 | [rreichel3/US-Stock-Symbols](./rreichel3-us-stock-symbols.md) | ⭐ 578 | — | 54/100 |
 | 145 | [pnnx/pnnx](./pnnx-pnnx.md) | ⭐ 714 | Python | 54/100 |
-| 146 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 184 | Python | 54/100 |
+| 146 | [staskh/trading_skills](./staskh-trading-skills.md) | ⭐ 406 | Python | 54/100 |
 | 147 | [7skooooo/mql5-systems-mirror](./7skooooo-mql5-systems-mirror.md) | ⭐ 116 | HTML | 53/100 |
 | 148 | [Neon549/Alpha_stock](./neon549-alpha-stock.md) | ⭐ 111 | Python | 53/100 |
 | 149 | [koreal6803/finlab-ai](./koreal6803-finlab-ai.md) | ⭐ 426 | TypeScript | 53/100 |
@@ -167,7 +167,7 @@
 | 157 | [jacelovehaha/cagerail](./jacelovehaha-cagerail.md) | ⭐ — | Python | 52/100 |
 | 158 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 159 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
-| 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 192 | Go | 52/100 |
+| 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 231 | Go | 52/100 |
 | 161 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
 | 162 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
 | 163 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |

@@ -21,14 +21,14 @@
 | 11 | [ffroliva/gflow-cli](./ffroliva-gflow-cli.md) | ⭐ 111 | Python | 78/100 |
 | 12 | [HBAI-Ltd/Toonflow-app](./hbai-ltd-toonflow-app.md) | ⭐ 21.2k | HTML | 78/100 |
 | 13 | [SlavaSexton/ComfyUI-Agent-Kit](./slavasexton-comfyui-agent-kit.md) | ⭐ 26 | Python | 77/100 |
-| 14 | [gokayfem/ComfyUI-fal-API](./gokayfem-comfyui-fal-api.md) | ⭐ 200 | Python | 76/100 |
+| 14 | [gokayfem/ComfyUI-fal-API](./gokayfem-comfyui-fal-api.md) | ⭐ 227 | Python | 76/100 |
 | 15 | [promptslab/Awesome-Prompt-Engineering](./promptslab-awesome-prompt-engineering.md) | ⭐ 6.4k | TypeScript | 76/100 |
 | 16 | [Anil-matcha/Wan-3.0-API](./anil-matcha-wan-3.0-api.md) | ⭐ 60 | Python | 76/100 |
 | 17 | [SamurAIGPT/AI-Influencer-Generator](./samuraigpt-ai-influencer-generator.md) | ⭐ 342 | Jupyter Notebook | 76/100 |
 | 18 | [sergebulaev/linkedin-skills](./sergebulaev-linkedin-skills.md) | ⭐ 5.8k | Python | 76/100 |
-| 19 | [artokun/comfyui-mcp](./artokun-comfyui-mcp.md) | ⭐ 185 | TypeScript | 76/100 |
+| 19 | [artokun/comfyui-mcp](./artokun-comfyui-mcp.md) | ⭐ 906 | TypeScript | 76/100 |
 | 20 | [alecs5am/ralphy](./alecs5am-ralphy.md) | ⭐ 83 | TypeScript | 76/100 |
-| 21 | [dramaclaw/dramaclaw](./dramaclaw-dramaclaw.md) | ⭐ 204 | TypeScript | 75/100 |
+| 21 | [dramaclaw/dramaclaw](./dramaclaw-dramaclaw.md) | ⭐ 7.7k | TypeScript | 75/100 |
 | 22 | [volcengine/ark-cli](./volcengine-ark-cli.md) | ⭐ 38 | Python | 75/100 |
 | 23 | [heygen-com/heygen-cli](./heygen-com-heygen-cli.md) | ⭐ 101 | Go | 74/100 |
 | 24 | [vaaya-ai/vaaya-mcp](./vaaya-ai-vaaya-mcp.md) | ⭐ 26 | Shell | 74/100 |
@@ -38,11 +38,11 @@
 | 28 | [aiworkskills/wechat-article-skills](./aiworkskills-wechat-article-skills.md) | ⭐ 735 | Python | 72/100 |
 | 29 | [smixs/visual-skills](./smixs-visual-skills.md) | ⭐ 129 | — | 72/100 |
 | 30 | [Haervwe/open-webui-tools](./haervwe-open-webui-tools.md) | ⭐ 838 | Python | 72/100 |
-| 31 | [ddalcu/mlx-serve](./ddalcu-mlx-serve.md) | ⭐ 188 | Zig | 72/100 |
+| 31 | [ddalcu/mlx-serve](./ddalcu-mlx-serve.md) | ⭐ 2.4k | Zig | 72/100 |
 | 32 | [Notifuse/notifuse](./notifuse-notifuse.md) | ⭐ 2.3k | Go | 72/100 |
-| 33 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 183 | Python | 71/100 |
+| 33 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 358 | Python | 71/100 |
 | 34 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 19 | — | 71/100 |
-| 35 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 170 | Python | 71/100 |
+| 35 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 886 | Python | 71/100 |
 | 36 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 111 | Python | 71/100 |
 | 37 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 3.7k | TypeScript | 71/100 |
 | 38 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
@@ -76,10 +76,10 @@
 | 66 | [wanshuiyin/ARIS-in-AI-Offer](./wanshuiyin-aris-in-ai-offer.md) | ⭐ 648 | Python | 65/100 |
 | 67 | [Jamailar/Beav](./jamailar-beav.md) | ⭐ 2.3k | TypeScript | 65/100 |
 | 68 | [Jamailar/RedBox](./jamailar-redbox.md) | ⭐ 1.1k | TypeScript | 65/100 |
-| 69 | [ChrisChen667788/wind-comic](./chrischen667788-wind-comic.md) | ⭐ 217 | TypeScript | 65/100 |
+| 69 | [ChrisChen667788/wind-comic](./chrischen667788-wind-comic.md) | ⭐ 710 | TypeScript | 65/100 |
 | 70 | [Stonewuu/ai-fusion-video](./stonewuu-ai-fusion-video.md) | ⭐ 1.7k | Java | 64/100 |
 | 71 | [Anil-matcha/Free-AI-Social-Media-Scheduler](./anil-matcha-free-ai-social-media-scheduler.md) | ⭐ 458 | JavaScript | 64/100 |
-| 72 | [jeffstric/ZJT](./jeffstric-zjt.md) | ⭐ 175 | Python | 64/100 |
+| 72 | [jeffstric/ZJT](./jeffstric-zjt.md) | ⭐ 240 | Python | 64/100 |
 | 73 | [Mann1988/awesome-claude-skills](./mann1988-awesome-claude-skills.md) | ⭐ 58 | Python | 64/100 |
 | 74 | [Xeron2000/openOii](./xeron2000-openoii.md) | ⭐ 299 | Python | 64/100 |
 | 75 | [helloworld8661/awesome-ai-book-writing](./helloworld8661-awesome-ai-book-writing.md) | ⭐ 21 | — | 63/100 |
@@ -88,7 +88,7 @@
 | 78 | [YouMind-OpenLab/awesome-seedance-2-prompts](./youmind-openlab-awesome-seedance-2-prompts.md) | ⭐ 2.2k | TypeScript | 63/100 |
 | 79 | [GraphiteEditor/Graphite](./graphiteeditor-graphite.md) | ⭐ 27.9k | Rust | 63/100 |
 | 80 | [TechMitten/Origami-AI](./techmitten-origami-ai.md) | ⭐ 11 | TypeScript | 62/100 |
-| 81 | [BlackMixture/Mix-Studio](./blackmixture-mix-studio.md) | ⭐ 205 | JavaScript | 62/100 |
+| 81 | [BlackMixture/Mix-Studio](./blackmixture-mix-studio.md) | ⭐ 303 | JavaScript | 62/100 |
 | 82 | [FurkanGozukara/Stable-Diffusion](./furkangozukara-stable-diffusion.md) | ⭐ 2.8k | HTML | 62/100 |
 | 83 | [calesthio/generative-media-skills](./calesthio-generative-media-skills.md) | ⭐ 52 | Python | 62/100 |
 | 84 | [frankzch/ai-news-skill](./frankzch-ai-news-skill.md) | ⭐ 22 | Python | 61/100 |

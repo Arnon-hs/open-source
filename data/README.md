@@ -217,7 +217,7 @@
 | 207 | [gh0stkey/HaE](./gh0stkey-hae.md) | ⭐ 4.2k | Java | 57/100 |
 | 208 | [elastio/bon](./elastio-bon.md) | ⭐ 2.1k | Rust | 57/100 |
 | 209 | [mosparo/mosparo](./mosparo-mosparo.md) | ⭐ 314 | PHP | 57/100 |
-| 210 | [cpmech/russell](./cpmech-russell.md) | ⭐ 187 | Rust | 57/100 |
+| 210 | [cpmech/russell](./cpmech-russell.md) | ⭐ 207 | Rust | 57/100 |
 | 211 | [1313e/CMasher](./1313e-cmasher.md) | ⭐ 499 | Python | 57/100 |
 | 212 | [apache/inlong](./apache-inlong.md) | ⭐ 1.5k | Java | 57/100 |
 | 213 | [InsightSoftwareConsortium/ITK](./insightsoftwareconsortium-itk.md) | ⭐ 1.7k | C++ | 57/100 |
@@ -249,7 +249,7 @@
 | 239 | [rt-bishop/Look4Sat](./rt-bishop-look4sat.md) | ⭐ 1.5k | Kotlin | 55/100 |
 | 240 | [KDE/labplot](./kde-labplot.md) | ⭐ 490 | C++ | 55/100 |
 | 241 | [quanteda/quanteda](./quanteda-quanteda.md) | ⭐ 895 | R | 55/100 |
-| 242 | [yegor256/micromap](./yegor256-micromap.md) | ⭐ 213 | Rust | 55/100 |
+| 242 | [yegor256/micromap](./yegor256-micromap.md) | ⭐ 222 | Rust | 55/100 |
 | 243 | [delta-io/delta-sharing](./delta-io-delta-sharing.md) | ⭐ 961 | Scala | 55/100 |
 | 244 | [Shopify/maintenance_tasks](./shopify-maintenance-tasks.md) | ⭐ 1.3k | Ruby | 55/100 |
 | 245 | [stepchowfun/typical](./stepchowfun-typical.md) | ⭐ 767 | Rust | 55/100 |
@@ -288,7 +288,7 @@
 | 278 | [StarRocks/starrocks](./starrocks-starrocks.md) | ⭐ 12.2k | Java | 53/100 |
 | 279 | [NandhaKishorM/laya](./nandhakishorm-laya.md) | ⭐ 12.3k | Python | 53/100 |
 | 280 | [ayazhafiz/xorf](./ayazhafiz-xorf.md) | ⭐ 169 | Rust | 52/100 |
-| 281 | [ShisoftResearch/bifrost](./shisoftresearch-bifrost.md) | ⭐ 173 | Rust | 52/100 |
+| 281 | [ShisoftResearch/bifrost](./shisoftresearch-bifrost.md) | ⭐ 174 | Rust | 52/100 |
 | 282 | [adixmr/leetcode](./adixmr-leetcode.md) | ⭐ 327 | HTML | 52/100 |
 | 283 | [gallantlab/pycortex](./gallantlab-pycortex.md) | ⭐ 666 | JavaScript | 52/100 |
 | 284 | [numaproj/numaflow](./numaproj-numaflow.md) | ⭐ 2.8k | Rust | 52/100 |
@@ -298,8 +298,8 @@
 | 288 | [hazelcast/hazelcast](./hazelcast-hazelcast.md) | ⭐ 6.6k | Java | 52/100 |
 | 289 | [opensearch-project/OpenSearch](./opensearch-project-opensearch.md) | ⭐ 14k | Java | 52/100 |
 | 290 | [tech-pw/cryo](./tech-pw-cryo.md) | ⭐ 7 | Python | 52/100 |
-| 291 | [michaelsproul/rust_radix_trie](./michaelsproul-rust-radix-trie.md) | ⭐ 217 | Rust | 51/100 |
-| 292 | [explodingcamera/liwan](./explodingcamera-liwan.md) | ⭐ 190 | Rust | 51/100 |
+| 291 | [michaelsproul/rust_radix_trie](./michaelsproul-rust-radix-trie.md) | ⭐ 220 | Rust | 51/100 |
+| 292 | [explodingcamera/liwan](./explodingcamera-liwan.md) | ⭐ 223 | Rust | 51/100 |
 | 293 | [Cydhra/vers](./cydhra-vers.md) | ⭐ 133 | Rust | 51/100 |
 | 294 | [calcit-lang/calcit](./calcit-lang-calcit.md) | ⭐ 138 | Rust | 51/100 |
 | 295 | [ipeaGIT/geobr](./ipeagit-geobr.md) | ⭐ 917 | R | 51/100 |
@@ -318,7 +318,7 @@
 | 308 | [odebo/planet-zoo-2-dataset](./odebo-planet-zoo-2-dataset.md) | ⭐ — | — | 49/100 |
 | 309 | [zhouyi207/WeiBoCrawler](./zhouyi207-weibocrawler.md) | ⭐ 154 | Rust | 49/100 |
 | 310 | [crepererum-oss/pdatastructs.rs](./crepererum-oss-pdatastructs.rs.md) | ⭐ 147 | Rust | 49/100 |
-| 311 | [tonbo-io/typed-arrow](./tonbo-io-typed-arrow.md) | ⭐ 209 | Rust | 49/100 |
+| 311 | [tonbo-io/typed-arrow](./tonbo-io-typed-arrow.md) | ⭐ 215 | Rust | 49/100 |
 | 312 | [MFlowCode/MFC](./mflowcode-mfc.md) | ⭐ 439 | Fortran | 49/100 |
 | 313 | [tryandromeda/andromeda](./tryandromeda-andromeda.md) | ⭐ 857 | Rust | 49/100 |
 | 314 | [emanuelef/daily-stars-explorer](./emanuelef-daily-stars-explorer.md) | ⭐ 412 | JavaScript | 49/100 |
@@ -352,7 +352,7 @@
 | 342 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
 | 343 | [idimetrix/canchas-mexico](./idimetrix-canchas-mexico.md) | ⭐ — | TypeScript | 44/100 |
 | 344 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 113 | Rust | 43/100 |
-| 345 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 228 | Rust | 43/100 |
+| 345 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 310 | Rust | 43/100 |
 | 346 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 43/100 |
 | 347 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
 | 348 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |

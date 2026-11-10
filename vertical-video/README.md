@@ -27,10 +27,10 @@
 | 17 | [tarai-dl/fablr](./tarai-dl-fablr.md) | ⭐ 164 | TypeScript | 76/100 |
 | 18 | [Chamanrajragu/purffle-shorts](./chamanrajragu-purffle-shorts.md) | ⭐ 16 | Python | 76/100 |
 | 19 | [Agions/fablr](./agions-fablr.md) | ⭐ 136 | TypeScript | 75/100 |
-| 20 | [xuliang2024/cutcli-cookbook](./xuliang2024-cutcli-cookbook.md) | ⭐ 190 | JavaScript | 75/100 |
+| 20 | [xuliang2024/cutcli-cookbook](./xuliang2024-cutcli-cookbook.md) | ⭐ 201 | JavaScript | 75/100 |
 | 21 | [leke-adewa/short-video-maker](./leke-adewa-short-video-maker.md) | ⭐ 32 | Python | 75/100 |
 | 22 | [myccarl/ai-shortVideo-pipeline](./myccarl-ai-shortvideo-pipeline.md) | ⭐ 811 | Python | 75/100 |
-| 23 | [Cuongyd196/remotion-cuongit-template](./cuongyd196-remotion-cuongit-template.md) | ⭐ 230 | TypeScript | 74/100 |
+| 23 | [Cuongyd196/remotion-cuongit-template](./cuongyd196-remotion-cuongit-template.md) | ⭐ 241 | TypeScript | 74/100 |
 | 24 | [opus-pro/opus-skills](./opus-pro-opus-skills.md) | ⭐ 21 | JavaScript | 74/100 |
 | 25 | [2417467487-hub/Trend2Video-Pro](./2417467487-hub-trend2video-pro.md) | ⭐ 211 | Python | 74/100 |
 | 26 | [Anil-matcha/AI-Youtube-Shorts-Generator](./anil-matcha-ai-youtube-shorts-generator.md) | ⭐ 5.9k | Python | 74/100 |
@@ -44,7 +44,7 @@
 | 34 | [OStudi/short-video-generator-AI](./ostudi-short-video-generator-ai.md) | ⭐ 1.2k | Python | 73/100 |
 | 35 | [hassancs91/claude-faceless-shorts-creator](./hassancs91-claude-faceless-shorts-creator.md) | ⭐ 134 | TypeScript | 73/100 |
 | 36 | [social-media-skills/remotion-shorts-skill](./social-media-skills-remotion-shorts-skill.md) | ⭐ 11 | TypeScript | 72/100 |
-| 37 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 174 | JavaScript | 72/100 |
+| 37 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 230 | JavaScript | 72/100 |
 | 38 | [SamurAIGPT/revideo](./samuraigpt-revideo.md) | ⭐ 133 | JavaScript | 72/100 |
 | 39 | [phucnguyentvp1/frameweaver](./phucnguyentvp1-frameweaver.md) | ⭐ 34 | Python | 72/100 |
 | 40 | [justynberk/reel-kit](./justynberk-reel-kit.md) | ⭐ 11 | Python | 72/100 |
@@ -109,7 +109,7 @@
 | 99 | [Johnson-Jia/video-clipforge](./johnson-jia-video-clipforge.md) | ⭐ 32 | Python | 62/100 |
 | 100 | [isaachang/motion-video-workflow](./isaachang-motion-video-workflow.md) | ⭐ 11 | JavaScript | 61/100 |
 | 101 | [xianyu110/ecommerce-video-skills](./xianyu110-ecommerce-video-skills.md) | ⭐ 11 | Python | 61/100 |
-| 102 | [SaarD00/AI-Youtube-Shorts-Generator](./saard00-ai-youtube-shorts-generator.md) | ⭐ 197 | Python | 61/100 |
+| 102 | [SaarD00/AI-Youtube-Shorts-Generator](./saard00-ai-youtube-shorts-generator.md) | ⭐ 274 | Python | 61/100 |
 | 103 | [fxl1209739475-fxl/ai-xunjian](./fxl1209739475-fxl-ai-xunjian.md) | ⭐ 29 | TypeScript | 61/100 |
 | 104 | [HeyChengC/bighead-collage](./heychengc-bighead-collage.md) | ⭐ 29 | Python | 60/100 |
 | 105 | [ronin1770/reel-quick](./ronin1770-reel-quick.md) | ⭐ 13 | Python | 60/100 |
@@ -165,8 +165,8 @@
 | 155 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 2.4k | JavaScript | 50/100 |
 | 156 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ — | — | 48/100 |
 | 157 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 47/100 |
-| 158 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
-| 159 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 47/100 |
+| 158 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 47/100 |
+| 159 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
 | 160 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 47/100 |
 | 161 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ — | — | 45/100 |
 | 162 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |

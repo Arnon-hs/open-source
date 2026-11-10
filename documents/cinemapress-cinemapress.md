@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 231 |
-| 🍴 **Forks** | 97 |
+| 🍴 **Forks** | 95 |
 | 💻 **Language** | EJS |
 | 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | — |

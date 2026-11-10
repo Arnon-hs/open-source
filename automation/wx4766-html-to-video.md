@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 178 |
+| ⭐ **Stars** | 190 |
 | 🍴 **Forks** | 14 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 73/100 |
@@ -53,7 +53,7 @@ wx4766/html-to-video：wx4766/html-to-video helps remove repetitive manual opera
 
 **Quality signals**
 
-- 178 GitHub stars
+- 190 GitHub stars
 - 14 forks
 - updated 2026-11-03
 - primary language: JavaScript
@@ -72,7 +72,7 @@ wx4766/html-to-video：wx4766/html-to-video helps remove repetitive manual opera
 | outlook | 76/100 |
 | adoption | 43/100 |
 | categoryMatchCount | 100/100 |
-| stars | 48/100 |
+| stars | 49/100 |
 | forks | 29/100 |
 | recency | 80/100 |
 | topics | 100/100 |

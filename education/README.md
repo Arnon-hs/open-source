@@ -17,7 +17,7 @@
 | 7 | [gofiber/recipes](./gofiber-recipes.md) | ⭐ 3.5k | Go | 61/100 |
 | 8 | [zyronon/TypeWords](./zyronon-typewords.md) | ⭐ 11.7k | CSS | 60/100 |
 | 9 | [eunomia-bpf/bpf-developer-tutorial](./eunomia-bpf-bpf-developer-tutorial.md) | ⭐ 4.3k | C | 59/100 |
-| 10 | [INGInious/INGInious](./inginious-inginious.md) | ⭐ 237 | Python | 58/100 |
+| 10 | [INGInious/INGInious](./inginious-inginious.md) | ⭐ 243 | Python | 58/100 |
 | 11 | [pion/example-webrtc-applications](./pion-example-webrtc-applications.md) | ⭐ 1.4k | Go | 58/100 |
 | 12 | [cypress-io/cypress-example-kitchensink](./cypress-io-cypress-example-kitchensink.md) | ⭐ 1.2k | HTML | 58/100 |
 | 13 | [TheSpydog/SDL_gpu_examples](./thespydog-sdl-gpu-examples.md) | ⭐ 560 | C++ | 57/100 |
@@ -33,7 +33,7 @@
 | 23 | [aio-libs/aiohttp-demos](./aio-libs-aiohttp-demos.md) | ⭐ 749 | Makefile | 54/100 |
 | 24 | [zigcc/zig-course](./zigcc-zig-course.md) | ⭐ 385 | Zig | 53/100 |
 | 25 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.2k | Vim Script | 50/100 |
-| 26 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 233 | Rust | 49/100 |
+| 26 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 232 | Rust | 49/100 |
 | 27 | [AloisSeckar/demos-java](./aloisseckar-demos-java.md) | ⭐ 25 | Java | 48/100 |
 | 28 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 384 | Rust | 45/100 |
 | 29 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 439 | Mojo | 44/100 |
