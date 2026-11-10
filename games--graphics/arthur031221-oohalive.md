@@ -62,18 +62,18 @@ Arthur031221/OohAlive：Arthur031221/OohAlive may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 36/100 |
-| integration | 46/100 |
-| production | 43/100 |
-| outlook | 43/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 200/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 43/100 |
+| quality | 36/100 |
+| recency | 40/100 |
+| adoption | 0/100 |
+| production | 43/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

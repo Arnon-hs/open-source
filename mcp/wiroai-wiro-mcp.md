@@ -1,6 +1,6 @@
 # wiroai/Wiro-MCP
 
-[![Stars](https://img.shields.io/github/stars/wiroai/Wiro-MCP?style=flat-square&color=yellow)](https://github.com/wiroai/Wiro-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/wiroai/Wiro-MCP?style=flat-square&color=blue)](https://github.com/wiroai/Wiro-MCP/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wiroai/Wiro-MCP?style=flat-square&color=yellow)](https://github.com/wiroai/Wiro-MCP/stargazers) [![Forks](https://img.shields.io/github/forks/wiroai/Wiro-MCP?style=flat-square&color=blue)](https://github.com/wiroai/Wiro-MCP/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Official MCP server for Wiro AI. Search, price and run image, video, audio and LLM models from Cursor, Claude Code, Windsurf and other MCP clients.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ wiroai/Wiro-MCP：wiroai/Wiro-MCP helps connect AI assistants to real tools and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 73/100 |
+| production | 62/100 |
+| outlook | 66/100 |
 | adoption | 11/100 |
 | categoryMatchCount | 200/100 |
 | stars | 15/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
