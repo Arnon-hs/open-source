@@ -1,6 +1,6 @@
 # Leonel59/LLM-SURGEON
 
-[![Stars](https://img.shields.io/github/stars/Leonel59/LLM-SURGEON?style=flat-square&color=yellow)](https://github.com/Leonel59/LLM-SURGEON/stargazers) [![Forks](https://img.shields.io/github/forks/Leonel59/LLM-SURGEON?style=flat-square&color=blue)](https://github.com/Leonel59/LLM-SURGEON/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Leonel59/LLM-SURGEON?style=flat-square&color=yellow)](https://github.com/Leonel59/LLM-SURGEON/stargazers) [![Forks](https://img.shields.io/github/forks/Leonel59/LLM-SURGEON?style=flat-square&color=blue)](https://github.com/Leonel59/LLM-SURGEON/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Surgical local AI hardware diagnostic CLI, GQA KV-Cache physics simulator & real-time token benchmark. Inspired by CanIRun.ai + Artificial Analysis + llmfit (0 npm deps, 0 telemetry).
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Leonel59/LLM-SURGEON：Leonel59/LLM-SURGEON helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

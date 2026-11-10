@@ -22,7 +22,7 @@
 | 12 | [jeffreytse/zsh-vi-mode](./jeffreytse-zsh-vi-mode.md) | ⭐ 4.5k | Shell | 74/100 |
 | 13 | [responsively-org/responsively-app](./responsively-org-responsively-app.md) | ⭐ 25.5k | TypeScript | 74/100 |
 | 14 | [jarun/nnn](./jarun-nnn.md) | ⭐ 22.1k | C | 74/100 |
-| 15 | [gdt050579/AppCUI-rs](./gdt050579-appcui-rs.md) | ⭐ 397 | Rust | 73/100 |
+| 15 | [gdt050579/AppCUI-rs](./gdt050579-appcui-rs.md) | ⭐ 407 | Rust | 73/100 |
 | 16 | [Gaoyifei1011/GetStoreApp](./gaoyifei1011-getstoreapp.md) | ⭐ 1.5k | C# | 72/100 |
 | 17 | [EcoPasteHub/EcoPaste](./ecopastehub-ecopaste.md) | ⭐ 7.6k | Rust | 72/100 |
 | 18 | [openbootdotdev/openboot](./openbootdotdev-openboot.md) | ⭐ 260 | Go | 72/100 |
@@ -36,15 +36,15 @@
 | 26 | [Nriver/trilium-translation](./nriver-trilium-translation.md) | ⭐ 2.9k | HTML | 70/100 |
 | 27 | [ChurchTao/clipboard-rs](./churchtao-clipboard-rs.md) | ⭐ 172 | Rust | 70/100 |
 | 28 | [streetwriters/notesnook](./streetwriters-notesnook.md) | ⭐ 14.9k | TypeScript | 70/100 |
-| 29 | [Auto-Explore/GitComet](./auto-explore-gitcomet.md) | ⭐ 397 | Rust | 70/100 |
+| 29 | [Auto-Explore/GitComet](./auto-explore-gitcomet.md) | ⭐ 1k | Rust | 70/100 |
 | 30 | [files-community/Files](./files-community-files.md) | ⭐ 46.6k | C# | 70/100 |
 | 31 | [0PandaDEV/Ziit](./0pandadev-ziit.md) | ⭐ 249 | TypeScript | 69/100 |
 | 32 | [BYTEDz/PCLink](./bytedz-pclink.md) | ⭐ 947 | Python | 69/100 |
 | 33 | [jaywcjlove/awesome-mac](./jaywcjlove-awesome-mac.md) | ⭐ 118.1k | Swift | 69/100 |
-| 34 | [kriuchkov/tock](./kriuchkov-tock.md) | ⭐ 435 | Go | 69/100 |
+| 34 | [kriuchkov/tock](./kriuchkov-tock.md) | ⭐ 505 | Go | 69/100 |
 | 35 | [Clipy/Clipy](./clipy-clipy.md) | ⭐ 9k | Swift | 68/100 |
 | 36 | [brettcannon/python-launcher](./brettcannon-python-launcher.md) | ⭐ 631 | Rust | 68/100 |
-| 37 | [Giammarco-Ferranti/deja](./giammarco-ferranti-deja.md) | ⭐ 388 | Go | 68/100 |
+| 37 | [Giammarco-Ferranti/deja](./giammarco-ferranti-deja.md) | ⭐ 933 | Go | 68/100 |
 | 38 | [wmariuss/awesome-devops](./wmariuss-awesome-devops.md) | ⭐ 4.4k | Python | 68/100 |
 | 39 | [rayenghanmi/RyTuneX](./rayenghanmi-rytunex.md) | ⭐ 5.6k | C# | 68/100 |
 | 40 | [SoCkEt7/Livediff](./socket7-livediff.md) | ⭐ 170 | Rust | 68/100 |
@@ -54,7 +54,7 @@
 | 44 | [Heroic-Games-Launcher/HeroicGamesLauncher](./heroic-games-launcher-heroicgameslauncher.md) | ⭐ 12.6k | TypeScript | 68/100 |
 | 45 | [3ni8ma/astro-tasks](./3ni8ma-astro-tasks.md) | ⭐ 2 | Python | 67/100 |
 | 46 | [golang-design/clipboard](./golang-design-clipboard.md) | ⭐ 865 | Go | 67/100 |
-| 47 | [relaticle/flowforge](./relaticle-flowforge.md) | ⭐ 416 | PHP | 67/100 |
+| 47 | [relaticle/flowforge](./relaticle-flowforge.md) | ⭐ 421 | PHP | 67/100 |
 | 48 | [0-don/clippy](./0-don-clippy.md) | ⭐ 226 | Rust | 67/100 |
 | 49 | [iffse/pay-respects](./iffse-pay-respects.md) | ⭐ 735 | Rust | 67/100 |
 | 50 | [laurent22/joplin](./laurent22-joplin.md) | ⭐ 57.1k | TypeScript | 67/100 |
@@ -136,12 +136,12 @@
 | 126 | [tuist/tuist](./tuist-tuist.md) | ⭐ 5.9k | Swift | 60/100 |
 | 127 | [WLDKK/snippet-fidelity](./wldkk-snippet-fidelity.md) | ⭐ — | TypeScript | 59/100 |
 | 128 | [KING-UPE/DevDeck](./king-upe-devdeck.md) | ⭐ — | JavaScript | 59/100 |
-| 129 | [samirpatil2000/Buffer](./samirpatil2000-buffer.md) | ⭐ 406 | Swift | 59/100 |
+| 129 | [samirpatil2000/Buffer](./samirpatil2000-buffer.md) | ⭐ 483 | Swift | 59/100 |
 | 130 | [ever-co/ever-teams](./ever-co-ever-teams.md) | ⭐ 606 | TypeScript | 59/100 |
 | 131 | [tim-hub/obsidian-bible-reference](./tim-hub-obsidian-bible-reference.md) | ⭐ 339 | TypeScript | 59/100 |
 | 132 | [codewiththiha/OpenSlides](./codewiththiha-openslides.md) | ⭐ 103 | TypeScript | 59/100 |
 | 133 | [Ruben2776/PicView](./ruben2776-picview.md) | ⭐ 3.8k | C# | 59/100 |
-| 134 | [Y-ASLant/ElegantClipboard](./y-aslant-elegantclipboard.md) | ⭐ 416 | Rust | 59/100 |
+| 134 | [Y-ASLant/ElegantClipboard](./y-aslant-elegantclipboard.md) | ⭐ 485 | Rust | 59/100 |
 | 135 | [zhensherlock/intellij-platform-git-stats-plugin](./zhensherlock-intellij-platform-git-stats-plugin.md) | ⭐ 194 | Kotlin | 59/100 |
 | 136 | [kra-mo/cartridges](./kra-mo-cartridges.md) | ⭐ 823 | Python | 59/100 |
 | 137 | [timholy/Revise.jl](./timholy-revise.jl.md) | ⭐ 1.4k | Julia | 59/100 |
@@ -152,7 +152,7 @@
 | 142 | [bug-ops/helix-trainer](./bug-ops-helix-trainer.md) | ⭐ 84 | Rust | 58/100 |
 | 143 | [HMCL-dev/HMCL](./hmcl-dev-hmcl.md) | ⭐ 10.9k | Java | 58/100 |
 | 144 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 800 | TypeScript | 58/100 |
-| 145 | [kxxt/tracexec](./kxxt-tracexec.md) | ⭐ 435 | Rust | 58/100 |
+| 145 | [kxxt/tracexec](./kxxt-tracexec.md) | ⭐ 449 | Rust | 58/100 |
 | 146 | [LinwoodDev/Butterfly](./linwooddev-butterfly.md) | ⭐ 2.1k | Dart | 58/100 |
 | 147 | [jenius-apps/ambie](./jenius-apps-ambie.md) | ⭐ 2.2k | C# | 58/100 |
 | 148 | [pear-devs/pear-desktop](./pear-devs-pear-desktop.md) | ⭐ 34k | TypeScript | 58/100 |
@@ -162,7 +162,7 @@
 | 152 | [cassidoo/todometer](./cassidoo-todometer.md) | ⭐ 2.1k | JavaScript | 57/100 |
 | 153 | [yandanp/Connexio](./yandanp-connexio.md) | ⭐ 32 | TypeScript | 57/100 |
 | 154 | [julyx10/lap](./julyx10-lap.md) | ⭐ 4.3k | Vue | 57/100 |
-| 155 | [sunnypatell/sunnify-spotify-downloader](./sunnypatell-sunnify-spotify-downloader.md) | ⭐ 437 | Python | 57/100 |
+| 155 | [sunnypatell/sunnify-spotify-downloader](./sunnypatell-sunnify-spotify-downloader.md) | ⭐ 1.4k | Python | 57/100 |
 | 156 | [BernardoGiordano/Checkpoint](./bernardogiordano-checkpoint.md) | ⭐ 3.1k | C++ | 57/100 |
 | 157 | [MM2-0/Kvaesitso](./mm2-0-kvaesitso.md) | ⭐ 5.4k | Kotlin | 57/100 |
 | 158 | [Faugus/faugus-launcher](./faugus-faugus-launcher.md) | ⭐ 2.6k | Python | 57/100 |
@@ -171,11 +171,11 @@
 | 161 | [NVIDIA/cuda-python](./nvidia-cuda-python.md) | ⭐ 3.4k | Cython | 57/100 |
 | 162 | [kushalpandya/Petrichor](./kushalpandya-petrichor.md) | ⭐ 1.8k | Swift | 57/100 |
 | 163 | [JackEblan/YagniLauncher](./jackeblan-yagnilauncher.md) | ⭐ 565 | Kotlin | 57/100 |
-| 164 | [an-anime-team/anime-games-launcher](./an-anime-team-anime-games-launcher.md) | ⭐ 440 | Rust | 57/100 |
+| 164 | [an-anime-team/anime-games-launcher](./an-anime-team-anime-games-launcher.md) | ⭐ 488 | Rust | 57/100 |
 | 165 | [Nitrolaunch/nitrolaunch](./nitrolaunch-nitrolaunch.md) | ⭐ 120 | Rust | 57/100 |
 | 166 | [ZalithLauncher/ZalithLauncher2](./zalithlauncher-zalithlauncher2.md) | ⭐ 2.2k | Kotlin | 57/100 |
-| 167 | [morapelker/hive](./morapelker-hive.md) | ⭐ 408 | TypeScript | 57/100 |
-| 168 | [alextselegidis/plainpad](./alextselegidis-plainpad.md) | ⭐ 398 | PHP | 57/100 |
+| 167 | [morapelker/hive](./morapelker-hive.md) | ⭐ 476 | TypeScript | 57/100 |
+| 168 | [alextselegidis/plainpad](./alextselegidis-plainpad.md) | ⭐ 452 | PHP | 57/100 |
 | 169 | [TapiocaFox/Daijishou](./tapiocafox-daijishou.md) | ⭐ 2k | Python | 57/100 |
 | 170 | [eythaann/Seelen-UI](./eythaann-seelen-ui.md) | ⭐ 18.4k | Rust | 57/100 |
 | 171 | [5rahim/seanime](./5rahim-seanime.md) | ⭐ 4.3k | Go | 57/100 |
@@ -206,7 +206,7 @@
 | 196 | [FCL-Team/FoldCraftLauncher](./fcl-team-foldcraftlauncher.md) | ⭐ 5.2k | Java | 54/100 |
 | 197 | [Xoshbin/asyar](./xoshbin-asyar.md) | ⭐ 212 | Rust | 54/100 |
 | 198 | [Sirulex/cursor-clip](./sirulex-cursor-clip.md) | ⭐ 104 | Rust | 54/100 |
-| 199 | [l0ng-ai/papr](./l0ng-ai-papr.md) | ⭐ 445 | Rust | 54/100 |
+| 199 | [l0ng-ai/papr](./l0ng-ai-papr.md) | ⭐ 593 | Rust | 54/100 |
 | 200 | [ziadshalaby00/ZS-New-Tab](./ziadshalaby00-zs-new-tab.md) | ⭐ 1 | JavaScript | 53/100 |
 | 201 | [Comfy-Org/Comfy-Desktop](./comfy-org-comfy-desktop.md) | ⭐ 366 | TypeScript | 53/100 |
 | 202 | [fossasia/badgemagic-app](./fossasia-badgemagic-app.md) | ⭐ 2k | Dart | 53/100 |
@@ -220,7 +220,7 @@
 | 210 | [FufuLauncher/FufuLauncher](./fufulauncher-fufulauncher.md) | ⭐ 2.3k | C# | 52/100 |
 | 211 | [deft-ui/deft](./deft-ui-deft.md) | ⭐ 211 | Rust | 52/100 |
 | 212 | [heroku/webapp-runner](./heroku-webapp-runner.md) | ⭐ 322 | Java | 52/100 |
-| 213 | [d12frosted/vulpea](./d12frosted-vulpea.md) | ⭐ 402 | Emacs Lisp | 52/100 |
+| 213 | [d12frosted/vulpea](./d12frosted-vulpea.md) | ⭐ 473 | Emacs Lisp | 52/100 |
 | 214 | [goweiwen/Allium](./goweiwen-allium.md) | ⭐ 321 | Rust | 52/100 |
 | 215 | [Mjoyufull/fsel](./mjoyufull-fsel.md) | ⭐ 346 | Rust | 52/100 |
 | 216 | [Akhouri-Anmol-Kumar/APIC](./akhouri-anmol-kumar-apic.md) | ⭐ 1 | — | 51/100 |
@@ -249,7 +249,7 @@
 | 239 | [andreasserfilippi/clipbridge](./andreasserfilippi-clipbridge.md) | ⭐ — | — | 49/100 |
 | 240 | [MeisApps/pcbu-desktop](./meisapps-pcbu-desktop.md) | ⭐ 319 | C++ | 49/100 |
 | 241 | [pop-os/launcher](./pop-os-launcher.md) | ⭐ 285 | Rust | 49/100 |
-| 242 | [shadps4-emu/shadps4-qtlauncher](./shadps4-emu-shadps4-qtlauncher.md) | ⭐ 382 | C++ | 49/100 |
+| 242 | [shadps4-emu/shadps4-qtlauncher](./shadps4-emu-shadps4-qtlauncher.md) | ⭐ 524 | C++ | 49/100 |
 | 243 | [coderGtm/yantra-app-launcher](./codergtm-yantra-app-launcher.md) | ⭐ 123 | Kotlin | 49/100 |
 | 244 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 917 | Java | 49/100 |
 | 245 | [memospot/memospot](./memospot-memospot.md) | ⭐ 291 | Rust | 49/100 |
@@ -267,7 +267,7 @@
 | 257 | [fralsare/fralculator](./fralsare-fralculator.md) | ⭐ — | TypeScript | 48/100 |
 | 258 | [yibie/org-supertag](./yibie-org-supertag.md) | ⭐ 353 | Emacs Lisp | 48/100 |
 | 259 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 256 | Rust | 48/100 |
-| 260 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 402 | Shell | 48/100 |
+| 260 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 1.5k | Shell | 48/100 |
 | 261 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 323 | C++ | 48/100 |
 | 262 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 617 | Rust | 48/100 |
 | 263 | [beyluta/WinWidgets](./beyluta-winwidgets.md) | ⭐ 145 | C | 48/100 |
@@ -302,7 +302,7 @@
 | 292 | [rohankc69/clickit](./rohankc69-clickit.md) | ⭐ — | — | 45/100 |
 | 293 | [Arylmera/Token-Dashboard](./arylmera-token-dashboard.md) | ⭐ — | — | 45/100 |
 | 294 | [NeoApplications/Neo-Launcher](./neoapplications-neo-launcher.md) | ⭐ 2.2k | Java | 45/100 |
-| 295 | [tomboy-notes/tomboy-ng](./tomboy-notes-tomboy-ng.md) | ⭐ 440 | Pascal | 45/100 |
+| 295 | [tomboy-notes/tomboy-ng](./tomboy-notes-tomboy-ng.md) | ⭐ 452 | Pascal | 45/100 |
 | 296 | [AstrBotDevs/astrbot-launcher](./astrbotdevs-astrbot-launcher.md) | ⭐ 2.7k | Rust | 45/100 |
 | 297 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 823 | Shell | 45/100 |
 | 298 | [nstlaurent/DoomLauncher](./nstlaurent-doomlauncher.md) | ⭐ 306 | C# | 45/100 |

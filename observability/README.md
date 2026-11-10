@@ -20,7 +20,7 @@
 | 10 | [kubernetes/metrics](./kubernetes-metrics.md) | ⭐ 536 | Go | 73/100 |
 | 11 | [pyrra-dev/pyrra](./pyrra-dev-pyrra.md) | ⭐ 1.5k | Go | 72/100 |
 | 12 | [iipeace/guider](./iipeace-guider.md) | ⭐ 684 | Python | 72/100 |
-| 13 | [logtide-dev/logtide](./logtide-dev-logtide.md) | ⭐ 426 | TypeScript | 72/100 |
+| 13 | [logtide-dev/logtide](./logtide-dev-logtide.md) | ⭐ 457 | TypeScript | 72/100 |
 | 14 | [ntop/ntopng](./ntop-ntopng.md) | ⭐ 8.3k | Lua | 72/100 |
 | 15 | [louislam/uptime-kuma](./louislam-uptime-kuma.md) | ⭐ 93.4k | JavaScript | 72/100 |
 | 16 | [elastic/kibana](./elastic-kibana.md) | ⭐ 21.4k | TypeScript | 71/100 |
@@ -29,11 +29,11 @@
 | 19 | [jetstack/version-checker](./jetstack-version-checker.md) | ⭐ 778 | Go | 70/100 |
 | 20 | [SigmaHQ/sigma](./sigmahq-sigma.md) | ⭐ 11.5k | Python | 70/100 |
 | 21 | [errbit/errbit](./errbit-errbit.md) | ⭐ 4.3k | Ruby | 70/100 |
-| 22 | [Enapiuz/awesome-monitoring](./enapiuz-awesome-monitoring.md) | ⭐ 417 | — | 69/100 |
+| 22 | [Enapiuz/awesome-monitoring](./enapiuz-awesome-monitoring.md) | ⭐ 436 | — | 69/100 |
 | 23 | [komari-monitor/komari](./komari-monitor-komari.md) | ⭐ 7k | Go | 69/100 |
 | 24 | [cilium/tetragon](./cilium-tetragon.md) | ⭐ 5.2k | C | 69/100 |
 | 25 | [dromara/dynamic-tp](./dromara-dynamic-tp.md) | ⭐ 4.8k | Java | 69/100 |
-| 26 | [monocongo/climate_indices](./monocongo-climate-indices.md) | ⭐ 393 | Python | 69/100 |
+| 26 | [monocongo/climate_indices](./monocongo-climate-indices.md) | ⭐ 461 | Python | 69/100 |
 | 27 | [kyverno/policy-reporter](./kyverno-policy-reporter.md) | ⭐ 375 | Go | 69/100 |
 | 28 | [kdash-rs/kdash](./kdash-rs-kdash.md) | ⭐ 2.6k | Rust | 69/100 |
 | 29 | [networkupstools/nut](./networkupstools-nut.md) | ⭐ 4.5k | C | 68/100 |
@@ -60,7 +60,7 @@
 | 50 | [hubblo-org/scaphandre](./hubblo-org-scaphandre.md) | ⭐ 2k | Rust | 66/100 |
 | 51 | [prometheus/node_exporter](./prometheus-node-exporter.md) | ⭐ 13.9k | Go | 66/100 |
 | 52 | [OISF/suricata](./oisf-suricata.md) | ⭐ 6.9k | C | 66/100 |
-| 53 | [sni/thruk](./sni-thruk.md) | ⭐ 438 | Perl | 66/100 |
+| 53 | [sni/thruk](./sni-thruk.md) | ⭐ 446 | Perl | 66/100 |
 | 54 | [grouzen/framework-tool-tui](./grouzen-framework-tool-tui.md) | ⭐ 336 | Rust | 66/100 |
 | 55 | [shizunge/endlessh-go](./shizunge-endlessh-go.md) | ⭐ 1.5k | Go | 66/100 |
 | 56 | [ossec/ossec-hids](./ossec-ossec-hids.md) | ⭐ 5.1k | C | 65/100 |
@@ -195,7 +195,7 @@
 | 185 | [GSI-HPC/lustre_exporter](./gsi-hpc-lustre-exporter.md) | ⭐ 30 | Go | 52/100 |
 | 186 | [open-telemetry/opentelemetry-proto](./open-telemetry-opentelemetry-proto.md) | ⭐ 829 | Makefile | 52/100 |
 | 187 | [rgwood/systemctl-tui](./rgwood-systemctl-tui.md) | ⭐ 2.1k | Rust | 52/100 |
-| 188 | [grafana/logs-drilldown](./grafana-logs-drilldown.md) | ⭐ 412 | TypeScript | 52/100 |
+| 188 | [grafana/logs-drilldown](./grafana-logs-drilldown.md) | ⭐ 422 | TypeScript | 52/100 |
 | 189 | [Makisuo/maple](./makisuo-maple.md) | ⭐ 322 | TypeScript | 52/100 |
 | 190 | [nokyan/resources](./nokyan-resources.md) | ⭐ 1.3k | Rust | 52/100 |
 | 191 | [kiali/kiali](./kiali-kiali.md) | ⭐ 3.6k | Go | 52/100 |
@@ -203,7 +203,7 @@
 | 193 | [danielfm/pybreaker](./danielfm-pybreaker.md) | ⭐ 701 | Python | 52/100 |
 | 194 | [Abdenasser/neohtop](./abdenasser-neohtop.md) | ⭐ 9.5k | Svelte | 51/100 |
 | 195 | [amimof/node-cert-exporter](./amimof-node-cert-exporter.md) | ⭐ 186 | Go | 51/100 |
-| 196 | [metrics-rs/quanta](./metrics-rs-quanta.md) | ⭐ 425 | Rust | 51/100 |
+| 196 | [metrics-rs/quanta](./metrics-rs-quanta.md) | ⭐ 435 | Rust | 51/100 |
 | 197 | [fast/fastrace](./fast-fastrace.md) | ⭐ 1.2k | Rust | 51/100 |
 | 198 | [dgunzy/flux9s](./dgunzy-flux9s.md) | ⭐ 225 | Rust | 51/100 |
 | 199 | [grafana/tempo](./grafana-tempo.md) | ⭐ 5.6k | Go | 51/100 |
@@ -220,10 +220,10 @@
 | 210 | [GG95-lab/FreshThread-app](./gg95-lab-freshthread-app.md) | ⭐ — | — | 49/100 |
 | 211 | [lucafossen/who-gpu](./lucafossen-who-gpu.md) | ⭐ — | — | 49/100 |
 | 212 | [eliau2005/statixagent](./eliau2005-statixagent.md) | ⭐ — | — | 49/100 |
-| 213 | [rotel-dev/rotel](./rotel-dev-rotel.md) | ⭐ 390 | Rust | 49/100 |
+| 213 | [rotel-dev/rotel](./rotel-dev-rotel.md) | ⭐ 412 | Rust | 49/100 |
 | 214 | [gbfr-logs/gbfr-logs](./gbfr-logs-gbfr-logs.md) | ⭐ 271 | Rust | 49/100 |
 | 215 | [Hayder-Rzaigui/cybernom-community](./hayder-rzaigui-cybernom-community.md) | ⭐ — | — | 49/100 |
-| 216 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 421 | Rust | 49/100 |
+| 216 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 441 | Rust | 49/100 |
 | 217 | [rahhuul/auto-api-observe](./rahhuul-auto-api-observe.md) | ⭐ — | — | 48/100 |
 | 218 | [tallyhook/tallyhook-collector](./tallyhook-tallyhook-collector.md) | ⭐ — | — | 48/100 |
 | 219 | [poonesnerfect/jlf](./poonesnerfect-jlf.md) | ⭐ — | — | 48/100 |

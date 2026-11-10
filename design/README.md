@@ -23,7 +23,7 @@
 | 13 | [logisim-evolution/logisim-evolution](./logisim-evolution-logisim-evolution.md) | ⭐ 7.9k | Java | 65/100 |
 | 14 | [nextcloud/server](./nextcloud-server.md) | ⭐ 37.5k | PHP | 65/100 |
 | 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 302 | Python | 64/100 |
-| 16 | [eclipse-ee4j/cargotracker](./eclipse-ee4j-cargotracker.md) | ⭐ 390 | JavaScript | 64/100 |
+| 16 | [eclipse-ee4j/cargotracker](./eclipse-ee4j-cargotracker.md) | ⭐ 395 | JavaScript | 64/100 |
 | 17 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 906 | C# | 64/100 |
 | 18 | [kando-menu/kando](./kando-menu-kando.md) | ⭐ 6.6k | TypeScript | 63/100 |
 | 19 | [xiangechen/chili3d](./xiangechen-chili3d.md) | ⭐ 5k | TypeScript | 63/100 |
@@ -62,14 +62,14 @@
 | 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 70 | Python | 57/100 |
 | 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 1 | JavaScript | 57/100 |
 | 54 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 343 | Lua | 56/100 |
-| 55 | [OpenOLAT/OpenOLAT](./openolat-openolat.md) | ⭐ 431 | Java | 56/100 |
+| 55 | [OpenOLAT/OpenOLAT](./openolat-openolat.md) | ⭐ 449 | Java | 56/100 |
 | 56 | [uswds/uswds-site](./uswds-uswds-site.md) | ⭐ 246 | HTML | 56/100 |
 | 57 | [nuxt/icon](./nuxt-icon.md) | ⭐ 1.2k | TypeScript | 56/100 |
 | 58 | [theexperiencecompany/keyloom](./theexperiencecompany-keyloom.md) | ⭐ 67 | TypeScript | 56/100 |
 | 59 | [iiab/iiab](./iiab-iiab.md) | ⭐ 2k | Jinja | 56/100 |
 | 60 | [chsh2/nijiGPen](./chsh2-nijigpen.md) | ⭐ 372 | Python | 55/100 |
 | 61 | [pctrade/end4-pC](./pctrade-end4-pc.md) | ⭐ 3.8k | QML | 55/100 |
-| 62 | [337547038/vue-form-design](./337547038-vue-form-design.md) | ⭐ 381 | JavaScript | 55/100 |
+| 62 | [337547038/vue-form-design](./337547038-vue-form-design.md) | ⭐ 384 | JavaScript | 55/100 |
 | 63 | [seek-oss/capsize](./seek-oss-capsize.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 64 | [HapeLee/legado-with-MD3](./hapelee-legado-with-md3.md) | ⭐ 6.9k | Kotlin | 55/100 |
 | 65 | [braver/programmingfonts](./braver-programmingfonts.md) | ⭐ 1.8k | CSS | 55/100 |
@@ -86,7 +86,7 @@
 | 76 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 114 | TypeScript | 54/100 |
 | 77 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 982 | TypeScript | 54/100 |
 | 78 | [SAP/macOS-icon-generator](./sap-macos-icon-generator.md) | ⭐ 647 | C | 53/100 |
-| 79 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 390 | HTML | 53/100 |
+| 79 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 404 | HTML | 53/100 |
 | 80 | [carbon-design-system/gatsby-theme-carbon](./carbon-design-system-gatsby-theme-carbon.md) | ⭐ 355 | MDX | 53/100 |
 | 81 | [neetly/figma-agent-linux](./neetly-figma-agent-linux.md) | ⭐ 364 | Rust | 53/100 |
 | 82 | [adobe/spectrum-design-data](./adobe-spectrum-design-data.md) | ⭐ 141 | Rust | 53/100 |
@@ -110,8 +110,8 @@
 | 100 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 124 | Rust | 50/100 |
 | 101 | [synfig/synfig](./synfig-synfig.md) | ⭐ 2.4k | C++ | 50/100 |
 | 102 | [drawcms/drawcms](./drawcms-drawcms.md) | ⭐ — | — | 49/100 |
-| 103 | [finix-community/finix](./finix-community-finix.md) | ⭐ 405 | Nix | 49/100 |
-| 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 406 | Shell | 49/100 |
+| 103 | [finix-community/finix](./finix-community-finix.md) | ⭐ 614 | Nix | 49/100 |
+| 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 539 | Shell | 49/100 |
 | 105 | [kzhrknt/awesome-design-md-jp](./kzhrknt-awesome-design-md-jp.md) | ⭐ 1k | HTML | 49/100 |
 | 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 554 | Python | 49/100 |
 | 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.1k | Ruby | 49/100 |

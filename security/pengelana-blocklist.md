@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 408 |
+| ⭐ **Stars** | 431 |
 | 🍴 **Forks** | 29 |
 | 💻 **Language** | AppleScript |
 | 📈 **Score** | 54/100 |

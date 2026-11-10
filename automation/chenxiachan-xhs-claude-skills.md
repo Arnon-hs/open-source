@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 432 |
+| ⭐ **Stars** | 434 |
 | 🍴 **Forks** | 40 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 64/100 |
@@ -53,7 +53,7 @@ chenxiachan/xhs-claude-skills：chenxiachan/xhs-claude-skills helps remove repet
 
 **Quality signals**
 
-- 432 GitHub stars
+- 434 GitHub stars
 - 40 forks
 - updated 2026-11-04
 - 7 topics

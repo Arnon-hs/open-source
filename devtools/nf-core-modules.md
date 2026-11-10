@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 413 |
-| 🍴 **Forks** | 1k |
+| ⭐ **Stars** | 436 |
+| 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Nextflow |
 | 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-05 |

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 432 |
-| 🍴 **Forks** | 38 |
+| ⭐ **Stars** | 440 |
+| 🍴 **Forks** | 40 |
 | 💻 **Language** | AutoHotkey |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-09-05 |

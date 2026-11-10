@@ -103,7 +103,7 @@
 | 93 | [tommylin07-web/podclip-matrix](./tommylin07-web-podclip-matrix.md) | ⭐ 13 | JavaScript | 63/100 |
 | 94 | [toki-plus/ai-mixed-cut](./toki-plus-ai-mixed-cut.md) | ⭐ 92 | — | 63/100 |
 | 95 | [JayWebtech/autoshorts](./jaywebtech-autoshorts.md) | ⭐ 1.5k | Rust | 63/100 |
-| 96 | [HeyChengC/wallstreet-explainer](./heychengc-wallstreet-explainer.md) | ⭐ 411 | JavaScript | 62/100 |
+| 96 | [HeyChengC/wallstreet-explainer](./heychengc-wallstreet-explainer.md) | ⭐ 666 | JavaScript | 62/100 |
 | 97 | [zr9959/auto-xhs](./zr9959-auto-xhs.md) | ⭐ 11 | HTML | 62/100 |
 | 98 | [JuneYaooo/capsule-cinema](./juneyaooo-capsule-cinema.md) | ⭐ 35 | Python | 62/100 |
 | 99 | [Johnson-Jia/video-clipforge](./johnson-jia-video-clipforge.md) | ⭐ 32 | Python | 62/100 |
@@ -149,7 +149,7 @@
 | 139 | [waterbrojx/water-koubo](./waterbrojx-water-koubo.md) | ⭐ 11 | Python | 54/100 |
 | 140 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 29 | HTML | 54/100 |
 | 141 | [wangcanyu/daihuo-fanpai](./wangcanyu-daihuo-fanpai.md) | ⭐ 26 | Python | 54/100 |
-| 142 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 430 | PHP | 54/100 |
+| 142 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 466 | PHP | 54/100 |
 | 143 | [xiaoliangliang/auto-publish](./xiaoliangliang-auto-publish.md) | ⭐ 20 | JavaScript | 53/100 |
 | 144 | [SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System](./suleynanauir-omni-multimodal-intelligent-onerec-based-system.md) | ⭐ 15 | Python | 52/100 |
 | 145 | [cacity/DouyinGo](./cacity-douyingo.md) | ⭐ 51 | Python | 52/100 |
@@ -165,8 +165,8 @@
 | 155 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 343 | JavaScript | 50/100 |
 | 156 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ — | — | 48/100 |
 | 157 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 47/100 |
-| 158 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 47/100 |
-| 159 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
+| 158 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
+| 159 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 47/100 |
 | 160 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 47/100 |
 | 161 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ — | — | 45/100 |
 | 162 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
