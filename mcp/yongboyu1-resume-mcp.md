@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ YongBoYu1/resume-mcp: YongBoYu1/resume-mcp helps connect AI assistants to real t
 
 ### Русский
 
-YongBoYu1/resume-mcp: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+YongBoYu1/resume-mcp: open-source проект в категориях MCP, AI/ML. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
@@ -63,18 +63,18 @@ YongBoYu1/resume-mcp：YongBoYu1/resume-mcp helps connect AI assistants to real 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 32/100 |
-| integration | 62/100 |
-| production | 44/100 |
-| outlook | 47/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 0/100 |
 | topics | 75/100 |
+| outlook | 47/100 |
+| quality | 32/100 |
+| recency | 40/100 |
+| adoption | 0/100 |
+| production | 44/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

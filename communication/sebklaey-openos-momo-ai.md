@@ -61,18 +61,18 @@ sebklaey/openos-momo-ai：sebklaey/openos-momo-ai may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 42/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 51/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 75/100 |
+| outlook | 51/100 |
+| quality | 42/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
