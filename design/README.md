@@ -134,7 +134,7 @@
 | 124 | [cpc/openasip](./cpc-openasip.md) | ⭐ 199 | — | 45/100 |
 | 125 | [ctxrs/figma-server](./ctxrs-figma-server.md) | ⭐ 2 | — | 45/100 |
 | 126 | [ckcool6/GGUF_Libra](./ckcool6-gguf-libra.md) | ⭐ 2 | — | 45/100 |
-| 127 | [kmaida/deslop-skills](./kmaida-deslop-skills.md) | ⭐ — | — | 45/100 |
+| 127 | [kmaida/deslop-skills](./kmaida-deslop-skills.md) | ⭐ 15 | — | 45/100 |
 | 128 | [boldaxolotl/booley](./boldaxolotl-booley.md) | ⭐ 25 | — | 45/100 |
 | 129 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 655 | Java | 45/100 |
 | 130 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 343 | C++ | 45/100 |
@@ -169,7 +169,7 @@
 | 159 | [devdotfast/whiteboard](./devdotfast-whiteboard.md) | ⭐ 3.5k | — | 41/100 |
 | 160 | [carlosphyll/phyll](./carlosphyll-phyll.md) | ⭐ 2 | — | 41/100 |
 | 161 | [andrsrxn/icons](./andrsrxn-icons.md) | ⭐ 36 | — | 41/100 |
-| 162 | [HZou9/PCBSchemaGen_v2](./hzou9-pcbschemagen-v2.md) | ⭐ — | — | 41/100 |
+| 162 | [HZou9/PCBSchemaGen_v2](./hzou9-pcbschemagen-v2.md) | ⭐ 22 | — | 41/100 |
 | 163 | [eremes81/game-design-ai-practice-en](./eremes81-game-design-ai-practice-en.md) | ⭐ 6 | — | 41/100 |
 | 164 | [definitemaybe0/vdr](./definitemaybe0-vdr.md) | ⭐ — | — | 41/100 |
 | 165 | [Prometheus-000/strata](./prometheus-000-strata.md) | ⭐ — | — | 41/100 |
@@ -186,12 +186,12 @@
 | 176 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ 737 | — | 38/100 |
 | 177 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ 13.2k | — | 38/100 |
 | 178 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ — | — | 38/100 |
-| 179 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ — | — | 38/100 |
+| 179 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ 115 | — | 38/100 |
 | 180 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
 | 181 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ — | — | 38/100 |
 | 182 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ — | — | 38/100 |
 | 183 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ 28 | — | 38/100 |
-| 184 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ — | — | 38/100 |
+| 184 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ 1.9k | — | 38/100 |
 | 185 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ 35 | — | 38/100 |
 | 186 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 38/100 |
 | 187 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |

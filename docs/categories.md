@@ -6,19 +6,19 @@ Only categories with at least 10 project cards have folders. The complete machin
 
 | Category | Project cards |
 | --- | ---: |
-| [AI/ML](../aiml/README.md) | 5,127 |
-| [Automation](../automation/README.md) | 1,662 |
-| [Backend](../backend/README.md) | 987 |
+| [AI/ML](../aiml/README.md) | 5,128 |
+| [Automation](../automation/README.md) | 1,664 |
+| [Backend](../backend/README.md) | 988 |
 | [Cloud & Storage](../cloud--storage/README.md) | 638 |
 | [Communication](../communication/README.md) | 479 |
 | [Content Creation](../content-creation/README.md) | 160 |
 | [Crypto](../crypto/README.md) | 840 |
-| [Data](../data/README.md) | 361 |
+| [Data](../data/README.md) | 362 |
 | [Database](../database/README.md) | 584 |
 | [Design](../design/README.md) | 195 |
-| [DevOps/Infra](../devopsinfra/README.md) | 544 |
-| [DevTools](../devtools/README.md) | 1,646 |
-| [Documents](../documents/README.md) | 753 |
+| [DevOps/Infra](../devopsinfra/README.md) | 545 |
+| [DevTools](../devtools/README.md) | 1,647 |
+| [Documents](../documents/README.md) | 754 |
 | [Education](../education/README.md) | 34 |
 | [Frontend](../frontend/README.md) | 933 |
 | [Games & Graphics](../games--graphics/README.md) | 358 |
@@ -30,10 +30,11 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Mobile](../mobile/README.md) | 704 |
 | [Networking](../networking/README.md) | 676 |
 | [Observability](../observability/README.md) | 325 |
-| [Orchestration](../orchestration/README.md) | 2,485 |
+| [Orchestration](../orchestration/README.md) | 2,487 |
 | [Payments](../payments/README.md) | 392 |
-| [Productivity](../productivity/README.md) | 361 |
-| [Security](../security/README.md) | 502 |
+| [Product](../product/README.md) | 10 |
+| [Productivity](../productivity/README.md) | 362 |
+| [Security](../security/README.md) | 503 |
 | [Templates](../templates/README.md) | 497 |
 | [Trading](../trading/README.md) | 227 |
 | [Vertical Video](../vertical-video/README.md) | 166 |

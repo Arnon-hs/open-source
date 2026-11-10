@@ -256,7 +256,7 @@
 | 246 | [ne-app-open/src](./ne-app-open-src.md) | ⭐ — | — | 48/100 |
 | 247 | [ydb-platform/ydb-go-sdk](./ydb-platform-ydb-go-sdk.md) | ⭐ — | — | 48/100 |
 | 248 | [ChristopherDond/9router-python](./christopherdond-9router-python.md) | ⭐ — | — | 48/100 |
-| 249 | [jmisilo/imessage-sdk](./jmisilo-imessage-sdk.md) | ⭐ — | — | 48/100 |
+| 249 | [jmisilo/imessage-sdk](./jmisilo-imessage-sdk.md) | ⭐ 7 | — | 48/100 |
 | 250 | [lyfeninja/lyfeninja_blkseal_python_sdk](./lyfeninja-lyfeninja-blkseal-python-sdk.md) | ⭐ — | — | 48/100 |
 | 251 | [georust/netcdf](./georust-netcdf.md) | ⭐ 106 | Rust | 47/100 |
 | 252 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 47/100 |

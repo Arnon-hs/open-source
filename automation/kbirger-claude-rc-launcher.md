@@ -1,6 +1,6 @@
 # kbirger/claude-rc-launcher
 
-[![Stars](https://img.shields.io/github/stars/kbirger/claude-rc-launcher?style=flat-square&color=yellow)](https://github.com/kbirger/claude-rc-launcher/stargazers) [![Forks](https://img.shields.io/github/forks/kbirger/claude-rc-launcher?style=flat-square&color=blue)](https://github.com/kbirger/claude-rc-launcher/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/kbirger/claude-rc-launcher?style=flat-square&color=yellow)](https://github.com/kbirger/claude-rc-launcher/stargazers) [![Forks](https://img.shields.io/github/forks/kbirger/claude-rc-launcher?style=flat-square&color=blue)](https://github.com/kbirger/claude-rc-launcher/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > Web UI + API to start/stop 'claude remote-control' sessions as systemd services (OIDC login)
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ kbirger/claude-rc-launcher：kbirger/claude-rc-launcher helps remove repetitive 
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-08
 - primary language: TypeScript
 - 6 topics
@@ -64,13 +65,13 @@ kbirger/claude-rc-launcher：kbirger/claude-rc-launcher helps remove repetitive 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 47/100 |
+| quality | 49/100 |
 | integration | 62/100 |
 | production | 64/100 |
-| outlook | 64/100 |
-| adoption | 0/100 |
+| outlook | 65/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 400/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 75/100 |

@@ -1,6 +1,6 @@
 # 5goos/botoview
 
-[![Stars](https://img.shields.io/github/stars/5goos/botoview?style=flat-square&color=yellow)](https://github.com/5goos/botoview/stargazers) [![Forks](https://img.shields.io/github/forks/5goos/botoview?style=flat-square&color=blue)](https://github.com/5goos/botoview/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/5goos/botoview?style=flat-square&color=yellow)](https://github.com/5goos/botoview/stargazers) [![Forks](https://img.shields.io/github/forks/5goos/botoview?style=flat-square&color=blue)](https://github.com/5goos/botoview/network) [![Language](https://img.shields.io/badge/lang-Astro-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > An interactive web application to track, filter, and explore AWS Boto3 changelogs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Astro |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ DevOps/Infra
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 64/100 |
+| production | 61/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

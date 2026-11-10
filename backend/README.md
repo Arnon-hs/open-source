@@ -2,7 +2,7 @@
 
 > Servers, APIs, databases, and backend infrastructure
 
-**987 projects** in this category.
+**988 projects** in this category.
 
 ## Projects
 
@@ -807,8 +807,8 @@
 | 797 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
 | 798 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 402 | Python | 55/100 |
 | 799 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2.2k | JavaScript | 55/100 |
-| 800 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 11.1k | Rust | 55/100 |
-| 801 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 268 | — | 55/100 |
+| 800 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 268 | — | 55/100 |
+| 801 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 11.1k | Rust | 55/100 |
 | 802 | [Suwayomi/Suwayomi-Server](./suwayomi-suwayomi-server.md) | ⭐ 8k | Java | 55/100 |
 | 803 | [trailbaseio/trailbase](./trailbaseio-trailbase.md) | ⭐ 5.8k | Rust | 55/100 |
 | 804 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 55/100 |
@@ -872,7 +872,7 @@
 | 862 | [denosaurs/bench](./denosaurs-bench.md) | ⭐ 442 | TypeScript | 53/100 |
 | 863 | [caivra-tech/caivra-repo-gallery](./caivra-tech-caivra-repo-gallery.md) | ⭐ — | HTML | 53/100 |
 | 864 | [fecklesspleb/crossref-new-works-feed](./fecklesspleb-crossref-new-works-feed.md) | ⭐ — | Python | 52/100 |
-| 865 | [KeymelGaston/centauri-migrate](./keymelgaston-centauri-migrate.md) | ⭐ — | JavaScript | 52/100 |
+| 865 | [KeymelGaston/centauri-migrate](./keymelgaston-centauri-migrate.md) | ⭐ 2 | JavaScript | 52/100 |
 | 866 | [hamedniroomand/waverune](./hamedniroomand-waverune.md) | ⭐ 2 | TypeScript | 52/100 |
 | 867 | [proxmox/proxmox-datacenter-manager](./proxmox-proxmox-datacenter-manager.md) | ⭐ 146 | Rust | 52/100 |
 | 868 | [CZ-NIC/knot](./cz-nic-knot.md) | ⭐ 329 | C | 52/100 |
@@ -934,10 +934,10 @@
 | 924 | [HopperHopper/PulseWatch](./hopperhopper-pulsewatch.md) | ⭐ — | Python | 49/100 |
 | 925 | [realsirjoe/relinos](./realsirjoe-relinos.md) | ⭐ — | — | 48/100 |
 | 926 | [ting-hong-shieh/monster-telephone](./ting-hong-shieh-monster-telephone.md) | ⭐ — | JavaScript | 48/100 |
-| 927 | [joeystdio/PortRadar](./joeystdio-portradar.md) | ⭐ — | Swift | 48/100 |
+| 927 | [joeystdio/PortRadar](./joeystdio-portradar.md) | ⭐ 2 | Swift | 48/100 |
 | 928 | [M1chlCZ/step2glb](./m1chlcz-step2glb.md) | ⭐ — | JavaScript | 48/100 |
 | 929 | [ventstream/ventstream](./ventstream-ventstream.md) | ⭐ 11 | Rust | 48/100 |
-| 930 | [JustiNoel/LLM-Prompt-Injection](./justinoel-llm-prompt-injection.md) | ⭐ — | — | 48/100 |
+| 930 | [JustiNoel/LLM-Prompt-Injection](./justinoel-llm-prompt-injection.md) | ⭐ 1 | — | 48/100 |
 | 931 | [vetis-server/vetis](./vetis-server-vetis.md) | ⭐ 112 | Rust | 48/100 |
 | 932 | [Winds-Studio/Leaf](./winds-studio-leaf.md) | ⭐ 1.1k | Java | 48/100 |
 | 933 | [xyproto/permissions2](./xyproto-permissions2.md) | ⭐ 509 | Go | 48/100 |
@@ -957,7 +957,7 @@
 | 947 | [bagisto/headless-ecommerce](./bagisto-headless-ecommerce.md) | ⭐ 110 | PHP | 46/100 |
 | 948 | [Divyansh0208/GigLift](./divyansh0208-giglift.md) | ⭐ — | Python | 46/100 |
 | 949 | [XD-MHLOO/facebook-gql-scraper](./xd-mhloo-facebook-gql-scraper.md) | ⭐ — | Python | 46/100 |
-| 950 | [keniel13-ui/ai-memory-judgment-demo](./keniel13-ui-ai-memory-judgment-demo.md) | ⭐ — | — | 46/100 |
+| 950 | [keniel13-ui/ai-memory-judgment-demo](./keniel13-ui-ai-memory-judgment-demo.md) | ⭐ 4 | — | 46/100 |
 | 951 | [tacoda/keystone](./tacoda-keystone.md) | ⭐ — | — | 46/100 |
 | 952 | [dheijl/swyh-rs](./dheijl-swyh-rs.md) | ⭐ 609 | Rust | 46/100 |
 | 953 | [webpack/webpack-dev-middleware](./webpack-webpack-dev-middleware.md) | ⭐ 2.5k | JavaScript | 46/100 |
@@ -985,16 +985,17 @@
 | 975 | [kawamurashingo/HTTP-API-Core](./kawamurashingo-http-api-core.md) | ⭐ 1 | Perl | 44/100 |
 | 976 | [NOTAM-bobk/base31](./notam-bobk-base31.md) | ⭐ 1 | HTML | 43/100 |
 | 977 | [MR-RAHAD/rahad-all-downloader-v2](./mr-rahad-rahad-all-downloader-v2.md) | ⭐ 1 | JavaScript | 42/100 |
-| 978 | [kostyk348/mbscada-rs](./kostyk348-mbscada-rs.md) | ⭐ — | — | 41/100 |
-| 979 | [clementezeusgabriel01-iswrtg/NIO-Pulse](./clementezeusgabriel01-iswrtg-nio-pulse.md) | ⭐ 1 | Java | 41/100 |
-| 980 | [yarnpkg/zpm](./yarnpkg-zpm.md) | ⭐ 231 | Rust | 41/100 |
-| 981 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 649 | Rust | 41/100 |
-| 982 | [iwadjp/timewitness](./iwadjp-timewitness.md) | ⭐ — | JavaScript | 39/100 |
-| 983 | [8Protons/POWBlock](./8protons-powblock.md) | ⭐ 76 | — | 38/100 |
-| 984 | [orgs/community](./orgs-community.md) | ⭐ — | — | 37/100 |
-| 985 | [hyperlane-dev/hyperlane](./hyperlane-dev-hyperlane.md) | ⭐ 127 | Rust | 37/100 |
-| 986 | [ravikisha/rustdns](./ravikisha-rustdns.md) | ⭐ 1 | Rust | 32/100 |
-| 987 | [visionmedia/supertest](./visionmedia-supertest.md) | ⭐ — | — | 32/100 |
+| 978 | [rmoff/kafuck](./rmoff-kafuck.md) | ⭐ — | — | 41/100 |
+| 979 | [kostyk348/mbscada-rs](./kostyk348-mbscada-rs.md) | ⭐ 4 | — | 41/100 |
+| 980 | [clementezeusgabriel01-iswrtg/NIO-Pulse](./clementezeusgabriel01-iswrtg-nio-pulse.md) | ⭐ 1 | Java | 41/100 |
+| 981 | [yarnpkg/zpm](./yarnpkg-zpm.md) | ⭐ 231 | Rust | 41/100 |
+| 982 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 649 | Rust | 41/100 |
+| 983 | [iwadjp/timewitness](./iwadjp-timewitness.md) | ⭐ — | JavaScript | 39/100 |
+| 984 | [8Protons/POWBlock](./8protons-powblock.md) | ⭐ 76 | — | 38/100 |
+| 985 | [orgs/community](./orgs-community.md) | ⭐ — | — | 37/100 |
+| 986 | [hyperlane-dev/hyperlane](./hyperlane-dev-hyperlane.md) | ⭐ 127 | Rust | 37/100 |
+| 987 | [ravikisha/rustdns](./ravikisha-rustdns.md) | ⭐ 1 | Rust | 32/100 |
+| 988 | [visionmedia/supertest](./visionmedia-supertest.md) | ⭐ — | — | 32/100 |
 
 ---
 

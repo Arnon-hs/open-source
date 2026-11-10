@@ -86,8 +86,8 @@
 | 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 231 | Rust | 64/100 |
 | 77 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 78 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
-| 80 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
+| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
+| 80 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
 | 81 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 82 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 83 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |
@@ -163,7 +163,7 @@
 | 153 | [SimplifyJobs/New-Grad-Positions](./simplifyjobs-new-grad-positions.md) | ⭐ 18.3k | — | 53/100 |
 | 154 | [longbridge/longbridge-terminal](./longbridge-longbridge-terminal.md) | ⭐ 1k | Rust | 53/100 |
 | 155 | [jacelovehaha/salestongue](./jacelovehaha-salestongue.md) | ⭐ — | Python | 53/100 |
-| 156 | [leonardo-mazzitelli/traderwai-agent-recipes](./leonardo-mazzitelli-traderwai-agent-recipes.md) | ⭐ — | — | 52/100 |
+| 156 | [leonardo-mazzitelli/traderwai-agent-recipes](./leonardo-mazzitelli-traderwai-agent-recipes.md) | ⭐ 2 | — | 52/100 |
 | 157 | [jacelovehaha/cagerail](./jacelovehaha-cagerail.md) | ⭐ — | Python | 52/100 |
 | 158 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 159 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
@@ -206,19 +206,19 @@
 | 196 | [Felixwang007/a-share-signal-lab](./felixwang007-a-share-signal-lab.md) | ⭐ — | Python | 43/100 |
 | 197 | [rust-dd/stochastic-rs](./rust-dd-stochastic-rs.md) | ⭐ 200 | Rust | 43/100 |
 | 198 | [VardumTechnology/Vardum](./vardumtechnology-vardum.md) | ⭐ 1 | TypeScript | 42/100 |
-| 199 | [krasserm/agent-exchange](./krasserm-agent-exchange.md) | ⭐ — | — | 42/100 |
+| 199 | [krasserm/agent-exchange](./krasserm-agent-exchange.md) | ⭐ 4 | — | 42/100 |
 | 200 | [PredictionMarketTrader/openthomas](./predictionmarkettrader-openthomas.md) | ⭐ — | — | 42/100 |
 | 201 | [bagoldbe/form4lab](./bagoldbe-form4lab.md) | ⭐ 8 | — | 42/100 |
 | 202 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ 51 | — | 42/100 |
 | 203 | [AlonDrilich/tld-renewal-prices](./alondrilich-tld-renewal-prices.md) | ⭐ 1 | — | 41/100 |
-| 204 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ — | — | 41/100 |
+| 204 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ 53 | — | 41/100 |
 | 205 | [aybvip/pi-fungibility](./aybvip-pi-fungibility.md) | ⭐ 2 | — | 41/100 |
 | 206 | [RayDCodes/pqc-migration-bench](./raydcodes-pqc-migration-bench.md) | ⭐ — | — | 41/100 |
 | 207 | [BubbleParticles/Planar.jl](./bubbleparticles-planar.jl.md) | ⭐ 12 | — | 41/100 |
 | 208 | [vincent212/kaspar-hft](./vincent212-kaspar-hft.md) | ⭐ — | — | 41/100 |
 | 209 | [strahinjastojanovic826-code/quant](./strahinjastojanovic826-code-quant.md) | ⭐ — | — | 41/100 |
 | 210 | [SaratAngajalaoffl/jeeva](./saratangajalaoffl-jeeva.md) | ⭐ — | — | 41/100 |
-| 211 | [jmelo11/quantsupport](./jmelo11-quantsupport.md) | ⭐ — | — | 41/100 |
+| 211 | [jmelo11/quantsupport](./jmelo11-quantsupport.md) | ⭐ 28 | — | 41/100 |
 | 212 | [maddogfinance/dsh-trading](./maddogfinance-dsh-trading.md) | ⭐ — | — | 41/100 |
 | 213 | [rkang30/open-trade-bot](./rkang30-open-trade-bot.md) | ⭐ — | — | 41/100 |
 | 214 | [ayush-agrawal001/cloutCall](./ayush-agrawal001-cloutcall.md) | ⭐ 1 | TypeScript | 40/100 |
@@ -231,8 +231,8 @@
 | 221 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 38/100 |
 | 222 | [IamViditAgarwal/csgoviral](./iamviditagarwal-csgoviral.md) | ⭐ 17 | PHP | 37/100 |
 | 223 | [rohit-8a/steadytrade-ai](./rohit-8a-steadytrade-ai.md) | ⭐ — | Python | 35/100 |
-| 224 | [irfndi/prism-liquidity-agent](./irfndi-prism-liquidity-agent.md) | ⭐ — | — | 33/100 |
-| 225 | [jarrodwatts/jev-trader](./jarrodwatts-jev-trader.md) | ⭐ — | — | 29/100 |
+| 224 | [irfndi/prism-liquidity-agent](./irfndi-prism-liquidity-agent.md) | ⭐ 134 | — | 33/100 |
+| 225 | [jarrodwatts/jev-trader](./jarrodwatts-jev-trader.md) | ⭐ 3.1k | — | 29/100 |
 | 226 | [virattt/openbb-financialdatasets-backend](./virattt-openbb-financialdatasets-backend.md) | ⭐ — | — | 28/100 |
 | 227 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 28/100 |
 

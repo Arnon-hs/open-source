@@ -1,6 +1,6 @@
 # Kuloka/openconstructor
 
-[![Stars](https://img.shields.io/github/stars/Kuloka/openconstructor?style=flat-square&color=yellow)](https://github.com/Kuloka/openconstructor/stargazers) [![Forks](https://img.shields.io/github/forks/Kuloka/openconstructor?style=flat-square&color=blue)](https://github.com/Kuloka/openconstructor/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kuloka/openconstructor?style=flat-square&color=yellow)](https://github.com/Kuloka/openconstructor/stargazers) [![Forks](https://img.shields.io/github/forks/Kuloka/openconstructor?style=flat-square&color=blue)](https://github.com/Kuloka/openconstructor/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI interface builder: drag components onto a canvas, ask an AI to build pages, export HTML.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | — |
-| 🍴 **Forks** | — |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ Kuloka/openconstructor：Kuloka/openconstructor helps add AI capability without 
 
 **Quality signals**
 
+- 1 forks
 - updated 2026-11-06
 - primary language: JavaScript
 - 13 topics
@@ -64,14 +65,14 @@ Kuloka/openconstructor：Kuloka/openconstructor helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 46/100 |
 | integration | 30/100 |
 | production | 54/100 |
 | outlook | 57/100 |
-| adoption | 0/100 |
+| adoption | 2/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
-| forks | 0/100 |
+| forks | 8/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

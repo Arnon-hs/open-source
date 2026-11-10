@@ -523,7 +523,7 @@
 | 513 | [Azure/azure-functions-core-tools](./azure-azure-functions-core-tools.md) | ⭐ 1.5k | C# | 49/100 |
 | 514 | [datareceipts/data-receipts](./datareceipts-data-receipts.md) | ⭐ — | — | 48/100 |
 | 515 | [awesome-foundation/cfnrain](./awesome-foundation-cfnrain.md) | ⭐ 18 | — | 48/100 |
-| 516 | [kamsteph/finops-scan](./kamsteph-finops-scan.md) | ⭐ — | — | 48/100 |
+| 516 | [kamsteph/finops-scan](./kamsteph-finops-scan.md) | ⭐ 3 | — | 48/100 |
 | 517 | [R3n3r0/Nexo](./r3n3r0-nexo.md) | ⭐ — | — | 48/100 |
 | 518 | [xbill9/zombiescan-gcp](./xbill9-zombiescan-gcp.md) | ⭐ — | — | 48/100 |
 | 519 | [roblambert9/x402-vercel-gateway](./roblambert9-x402-vercel-gateway.md) | ⭐ — | — | 48/100 |
@@ -587,7 +587,7 @@
 | 577 | [Whospr/Whospair](./whospr-whospair.md) | ⭐ — | — | 41/100 |
 | 578 | [Annora998/Wardkey](./annora998-wardkey.md) | ⭐ — | — | 41/100 |
 | 579 | [dev2ex/twig](./dev2ex-twig.md) | ⭐ 129 | — | 41/100 |
-| 580 | [ioflux-org/armite](./ioflux-org-armite.md) | ⭐ — | — | 41/100 |
+| 580 | [ioflux-org/armite](./ioflux-org-armite.md) | ⭐ 9 | — | 41/100 |
 | 581 | [arabo11/zombiecost](./arabo11-zombiecost.md) | ⭐ 1 | — | 41/100 |
 | 582 | [omerfeyzioglu/glider](./omerfeyzioglu-glider.md) | ⭐ — | — | 41/100 |
 | 583 | [Fazel94/floret-torch](./fazel94-floret-torch.md) | ⭐ 7 | — | 41/100 |
@@ -635,7 +635,7 @@
 | 625 | [sonthonaxrk/demandmap](./sonthonaxrk-demandmap.md) | ⭐ — | — | 38/100 |
 | 626 | [Elpulgo/azdo](./elpulgo-azdo.md) | ⭐ — | — | 38/100 |
 | 627 | [RobinSrimal/irongate](./robinsrimal-irongate.md) | ⭐ — | — | 38/100 |
-| 628 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ — | — | 38/100 |
+| 628 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ 1 | — | 38/100 |
 | 629 | [cgopalan/s3fileviewer](./cgopalan-s3fileviewer.md) | ⭐ 7 | — | 38/100 |
 | 630 | [bolt-earth/Berg](./bolt-earth-berg.md) | ⭐ 2 | — | 38/100 |
 | 631 | [floci-io/floci](./floci-io-floci.md) | ⭐ 31.2k | — | 38/100 |

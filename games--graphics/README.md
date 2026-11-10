@@ -313,8 +313,8 @@
 | 303 | [HailToDodongo/pyrite64](./hailtododongo-pyrite64.md) | ⭐ 3.3k | — | 45/100 |
 | 304 | [betasharp-official/betasharp](./betasharp-official-betasharp.md) | ⭐ 435 | C# | 45/100 |
 | 305 | [ryanpcmcquen/basque](./ryanpcmcquen-basque.md) | ⭐ 451 | C | 45/100 |
-| 306 | [Isthimius/Gondwana](./isthimius-gondwana.md) | ⭐ — | — | 44/100 |
-| 307 | [Kapendev/parin](./kapendev-parin.md) | ⭐ — | — | 44/100 |
+| 306 | [Isthimius/Gondwana](./isthimius-gondwana.md) | ⭐ 20 | — | 44/100 |
+| 307 | [Kapendev/parin](./kapendev-parin.md) | ⭐ 146 | — | 44/100 |
 | 308 | [guangzhoueven/fps](./guangzhoueven-fps.md) | ⭐ 4 | JavaScript | 44/100 |
 | 309 | [Vibra-Ingenn/Janus](./vibra-ingenn-janus.md) | ⭐ — | — | 44/100 |
 | 310 | [oasys-works/oecs](./oasys-works-oecs.md) | ⭐ — | — | 44/100 |
@@ -332,9 +332,9 @@
 | 322 | [tinyBigGAMES/VindexLLM](./tinybiggames-vindexllm.md) | ⭐ — | — | 41/100 |
 | 323 | [oathshaper/oathshaper](./oathshaper-oathshaper.md) | ⭐ — | — | 41/100 |
 | 324 | [mariuz/castle-quake2](./mariuz-castle-quake2.md) | ⭐ — | — | 41/100 |
-| 325 | [KhronosGroup/MoltenVK](./khronosgroup-moltenvk.md) | ⭐ — | — | 41/100 |
+| 325 | [KhronosGroup/MoltenVK](./khronosgroup-moltenvk.md) | ⭐ 5.9k | — | 41/100 |
 | 326 | [fishfolk/bones](./fishfolk-bones.md) | ⭐ 322 | — | 41/100 |
-| 327 | [LarzP123/terminal-3d-graphics](./larzp123-terminal-3d-graphics.md) | ⭐ — | — | 41/100 |
+| 327 | [LarzP123/terminal-3d-graphics](./larzp123-terminal-3d-graphics.md) | ⭐ 12 | — | 41/100 |
 | 328 | [antonioprosperi2-svg/BeeEngine-V2.5.0](./antonioprosperi2-svg-beeengine-v2.5.0.md) | ⭐ 2 | JavaScript | 41/100 |
 | 329 | [mariuz/castle-doom](./mariuz-castle-doom.md) | ⭐ — | — | 41/100 |
 | 330 | [oriaj-nocrala/rust_so_kernel](./oriaj-nocrala-rust-so-kernel.md) | ⭐ — | — | 41/100 |
@@ -344,7 +344,7 @@
 | 334 | [rccmb/oracle](./rccmb-oracle.md) | ⭐ — | — | 41/100 |
 | 335 | [aethelisdev/aeon-engine](./aethelisdev-aeon-engine.md) | ⭐ 25 | — | 41/100 |
 | 336 | [asallay/godot-llm](./asallay-godot-llm.md) | ⭐ 45 | — | 41/100 |
-| 337 | [leejet/stable-diffusion.cpp](./leejet-stable-diffusion.cpp.md) | ⭐ — | — | 40/100 |
+| 337 | [leejet/stable-diffusion.cpp](./leejet-stable-diffusion.cpp.md) | ⭐ 8k | — | 40/100 |
 | 338 | [Ishan5hrestha/SapanaEngine](./ishan5hrestha-sapanaengine.md) | ⭐ — | C++ | 39/100 |
 | 339 | [alwaysaladdin/queens-game-engine](./alwaysaladdin-queens-game-engine.md) | ⭐ — | TypeScript | 39/100 |
 | 340 | [Pengeszikra/Spider-Paint](./pengeszikra-spider-paint.md) | ⭐ 1 | HTML | 39/100 |
@@ -359,7 +359,7 @@
 | 349 | [BobbyAnguelov/Esoterica](./bobbyanguelov-esoterica.md) | ⭐ 1.9k | — | 38/100 |
 | 350 | [Wimacs/trellis2.c](./wimacs-trellis2.c.md) | ⭐ — | — | 38/100 |
 | 351 | [petergpt/doomql](./petergpt-doomql.md) | ⭐ — | — | 38/100 |
-| 352 | [Is-Daouda/is-Engine](./is-daouda-is-engine.md) | ⭐ — | — | 38/100 |
+| 352 | [Is-Daouda/is-Engine](./is-daouda-is-engine.md) | ⭐ 235 | — | 38/100 |
 | 353 | [rwusmm-dc/4x11Engine](./rwusmm-dc-4x11engine.md) | ⭐ — | — | 38/100 |
 | 354 | [WinterSnowfall/d7vk](./wintersnowfall-d7vk.md) | ⭐ — | — | 38/100 |
 | 355 | [carnworkstudios/boxwood](./carnworkstudios-boxwood.md) | ⭐ — | — | 38/100 |
