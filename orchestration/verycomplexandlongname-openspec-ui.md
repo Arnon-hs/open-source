@@ -1,6 +1,6 @@
 # VeryComplexAndLongName/OpenSpec-UI
 
-[![Stars](https://img.shields.io/github/stars/VeryComplexAndLongName/OpenSpec-UI?style=flat-square&color=yellow)](https://github.com/VeryComplexAndLongName/OpenSpec-UI/stargazers) [![Forks](https://img.shields.io/github/forks/VeryComplexAndLongName/OpenSpec-UI?style=flat-square&color=blue)](https://github.com/VeryComplexAndLongName/OpenSpec-UI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/VeryComplexAndLongName/OpenSpec-UI?style=flat-square&color=yellow)](https://github.com/VeryComplexAndLongName/OpenSpec-UI/stargazers) [![Forks](https://img.shields.io/github/forks/VeryComplexAndLongName/OpenSpec-UI?style=flat-square&color=blue)](https://github.com/VeryComplexAndLongName/OpenSpec-UI/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
 
 > Run and supervise coding agents (Claude, Copilot, Codex, Gemini, DeepSeek) on OpenSpec changes. VS Code extension + local web app; GitHub, GitLab or Gitea.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ VeryComplexAndLongName/OpenSpec-UI：VeryComplexAndLongName/OpenSpec-UI helps tu
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 77/100 |
+| production | 62/100 |
+| outlook | 70/100 |
 | adoption | 19/100 |
 | categoryMatchCount | 500/100 |
 | stars | 24/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

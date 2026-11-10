@@ -1,6 +1,6 @@
 # Bhala-Srinivash/nse-trading-skills
 
-[![Stars](https://img.shields.io/github/stars/Bhala-Srinivash/nse-trading-skills?style=flat-square&color=yellow)](https://github.com/Bhala-Srinivash/nse-trading-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Bhala-Srinivash/nse-trading-skills?style=flat-square&color=blue)](https://github.com/Bhala-Srinivash/nse-trading-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Bhala-Srinivash/nse-trading-skills?style=flat-square&color=yellow)](https://github.com/Bhala-Srinivash/nse-trading-skills/stargazers) [![Forks](https://img.shields.io/github/forks/Bhala-Srinivash/nse-trading-skills?style=flat-square&color=blue)](https://github.com/Bhala-Srinivash/nse-trading-skills/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > 9 Claude Code skills for Indian stock trading — technical analysis, position sizing, stop-loss, trailing stops, risk-reward, multi-timeframe, RSI divergence, Fibonacci. Works with NSE/BSE via Groww MCP. Zero dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 61 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ Bhala-Srinivash/nse-trading-skills：Bhala-Srinivash/nse-trading-skills helps re
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 67/100 |
+| quality | 62/100 |
 | integration | 62/100 |
-| production | 71/100 |
-| outlook | 73/100 |
+| production | 65/100 |
+| outlook | 66/100 |
 | adoption | 38/100 |
 | categoryMatchCount | 300/100 |
 | stars | 38/100 |
 | forks | 37/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
