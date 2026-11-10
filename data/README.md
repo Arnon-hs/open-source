@@ -98,7 +98,7 @@
 | 88 | [JetBrains/lets-plot](./jetbrains-lets-plot.md) | ⭐ 1.8k | Kotlin | 64/100 |
 | 89 | [bruin-data/bruin](./bruin-data-bruin.md) | ⭐ 1.8k | Go | 64/100 |
 | 90 | [bytebase/bytebase](./bytebase-bytebase.md) | ⭐ 14.7k | Go | 64/100 |
-| 91 | [ashvardanian/StringWars](./ashvardanian-stringwars.md) | ⭐ 154 | Rust | 63/100 |
+| 91 | [ashvardanian/StringWars](./ashvardanian-stringwars.md) | ⭐ 160 | Rust | 63/100 |
 | 92 | [fleetbase/fleetbase](./fleetbase-fleetbase.md) | ⭐ 4.6k | JavaScript | 63/100 |
 | 93 | [pyvista/pyvista](./pyvista-pyvista.md) | ⭐ 3.9k | Python | 63/100 |
 | 94 | [carina-studio/PixelViewer](./carina-studio-pixelviewer.md) | ⭐ 416 | C# | 63/100 |
@@ -123,7 +123,7 @@
 | 113 | [rucio/rucio](./rucio-rucio.md) | ⭐ 324 | Python | 62/100 |
 | 114 | [MultiQC/MultiQC](./multiqc-multiqc.md) | ⭐ 1.5k | JavaScript | 62/100 |
 | 115 | [cqframework/clinical_quality_language](./cqframework-clinical-quality-language.md) | ⭐ 338 | Kotlin | 62/100 |
-| 116 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 135 | Go | 61/100 |
+| 116 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 143 | Go | 61/100 |
 | 117 | [graphene-data/graphene](./graphene-data-graphene.md) | ⭐ 53 | TypeScript | 61/100 |
 | 118 | [gloom-sh/gloomberb](./gloom-sh-gloomberb.md) | ⭐ 2.7k | TypeScript | 61/100 |
 | 119 | [taleshape-com/shaper](./taleshape-com-shaper.md) | ⭐ 1.3k | Go | 61/100 |
@@ -235,7 +235,7 @@
 | 225 | [the-turing-way/the-turing-way](./the-turing-way-the-turing-way.md) | ⭐ 2.2k | TeX | 56/100 |
 | 226 | [bids-standard/bids-specification](./bids-standard-bids-specification.md) | ⭐ 375 | Python | 56/100 |
 | 227 | [cordx56/rustowl](./cordx56-rustowl.md) | ⭐ 5.3k | Rust | 56/100 |
-| 228 | [beling/bsuccinct-rs](./beling-bsuccinct-rs.md) | ⭐ 161 | Rust | 56/100 |
+| 228 | [beling/bsuccinct-rs](./beling-bsuccinct-rs.md) | ⭐ 173 | Rust | 56/100 |
 | 229 | [TheAlgorithms/Rust](./thealgorithms-rust.md) | ⭐ 26.2k | Rust | 56/100 |
 | 230 | [cpinitiative/usaco-guide](./cpinitiative-usaco-guide.md) | ⭐ 1.9k | MDX | 56/100 |
 | 231 | [cython/cython](./cython-cython.md) | ⭐ 10.9k | Cython | 56/100 |
@@ -271,7 +271,7 @@
 | 261 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 712 | Rust | 54/100 |
 | 262 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 829 | JavaScript | 54/100 |
 | 263 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 574 | HTML | 54/100 |
-| 264 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 141 | Rust | 54/100 |
+| 264 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 153 | Rust | 54/100 |
 | 265 | [beava-dev/beava](./beava-dev-beava.md) | ⭐ 120 | Rust | 54/100 |
 | 266 | [rpbouman/huey](./rpbouman-huey.md) | ⭐ 635 | JavaScript | 54/100 |
 | 267 | [MAZHARMIK/Interview_DS_Algo](./mazharmik-interview-ds-algo.md) | ⭐ 5.3k | C++ | 54/100 |
@@ -281,13 +281,13 @@
 | 271 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 10 | PHP | 54/100 |
 | 272 | [ofrohn/d3-celestial](./ofrohn-d3-celestial.md) | ⭐ 758 | JavaScript | 53/100 |
 | 273 | [alexar76/signal-hunt](./alexar76-signal-hunt.md) | ⭐ — | Python | 53/100 |
-| 274 | [aptabase/tauri-plugin-aptabase](./aptabase-tauri-plugin-aptabase.md) | ⭐ 152 | Rust | 53/100 |
+| 274 | [aptabase/tauri-plugin-aptabase](./aptabase-tauri-plugin-aptabase.md) | ⭐ 153 | Rust | 53/100 |
 | 275 | [evolve75/RubyTree](./evolve75-rubytree.md) | ⭐ 391 | Ruby | 53/100 |
 | 276 | [saschagrunert/indextree](./saschagrunert-indextree.md) | ⭐ 819 | Rust | 53/100 |
 | 277 | [serenedb/serenedb](./serenedb-serenedb.md) | ⭐ 969 | C++ | 53/100 |
 | 278 | [StarRocks/starrocks](./starrocks-starrocks.md) | ⭐ 12.2k | Java | 53/100 |
 | 279 | [NandhaKishorM/laya](./nandhakishorm-laya.md) | ⭐ 12.3k | Python | 53/100 |
-| 280 | [ayazhafiz/xorf](./ayazhafiz-xorf.md) | ⭐ 169 | Rust | 52/100 |
+| 280 | [ayazhafiz/xorf](./ayazhafiz-xorf.md) | ⭐ 171 | Rust | 52/100 |
 | 281 | [ShisoftResearch/bifrost](./shisoftresearch-bifrost.md) | ⭐ 174 | Rust | 52/100 |
 | 282 | [adixmr/leetcode](./adixmr-leetcode.md) | ⭐ 327 | HTML | 52/100 |
 | 283 | [gallantlab/pycortex](./gallantlab-pycortex.md) | ⭐ 666 | JavaScript | 52/100 |
@@ -300,8 +300,8 @@
 | 290 | [tech-pw/cryo](./tech-pw-cryo.md) | ⭐ 7 | Python | 52/100 |
 | 291 | [michaelsproul/rust_radix_trie](./michaelsproul-rust-radix-trie.md) | ⭐ 220 | Rust | 51/100 |
 | 292 | [explodingcamera/liwan](./explodingcamera-liwan.md) | ⭐ 223 | Rust | 51/100 |
-| 293 | [Cydhra/vers](./cydhra-vers.md) | ⭐ 133 | Rust | 51/100 |
-| 294 | [calcit-lang/calcit](./calcit-lang-calcit.md) | ⭐ 138 | Rust | 51/100 |
+| 293 | [Cydhra/vers](./cydhra-vers.md) | ⭐ 134 | Rust | 51/100 |
+| 294 | [calcit-lang/calcit](./calcit-lang-calcit.md) | ⭐ 150 | Rust | 51/100 |
 | 295 | [ipeaGIT/geobr](./ipeagit-geobr.md) | ⭐ 917 | R | 51/100 |
 | 296 | [openbabel/openbabel](./openbabel-openbabel.md) | ⭐ 1.4k | C++ | 51/100 |
 | 297 | [JuliaPluto/Pluto.jl](./juliapluto-pluto.jl.md) | ⭐ 5.4k | JavaScript | 51/100 |
@@ -316,7 +316,7 @@
 | 306 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 652 | Rust | 50/100 |
 | 307 | [mdn/browser-compat-data](./mdn-browser-compat-data.md) | ⭐ 5.8k | JSON | 50/100 |
 | 308 | [odebo/planet-zoo-2-dataset](./odebo-planet-zoo-2-dataset.md) | ⭐ — | — | 49/100 |
-| 309 | [zhouyi207/WeiBoCrawler](./zhouyi207-weibocrawler.md) | ⭐ 154 | Rust | 49/100 |
+| 309 | [zhouyi207/WeiBoCrawler](./zhouyi207-weibocrawler.md) | ⭐ 162 | Rust | 49/100 |
 | 310 | [crepererum-oss/pdatastructs.rs](./crepererum-oss-pdatastructs.rs.md) | ⭐ 147 | Rust | 49/100 |
 | 311 | [tonbo-io/typed-arrow](./tonbo-io-typed-arrow.md) | ⭐ 215 | Rust | 49/100 |
 | 312 | [MFlowCode/MFC](./mflowcode-mfc.md) | ⭐ 439 | Fortran | 49/100 |
@@ -349,7 +349,7 @@
 | 339 | [decodeaditya/Cirqmon](./decodeaditya-cirqmon.md) | ⭐ 16 | JavaScript | 44/100 |
 | 340 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ — | — | 44/100 |
 | 341 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 116 | Rust | 44/100 |
-| 342 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 163 | Rust | 44/100 |
+| 342 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 214 | Rust | 44/100 |
 | 343 | [idimetrix/canchas-mexico](./idimetrix-canchas-mexico.md) | ⭐ — | TypeScript | 44/100 |
 | 344 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 113 | Rust | 43/100 |
 | 345 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 310 | Rust | 43/100 |

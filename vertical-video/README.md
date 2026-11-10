@@ -2,7 +2,7 @@
 
 > 
 
-**165 projects** in this category.
+**166 projects** in this category.
 
 ## Projects
 
@@ -20,11 +20,11 @@
 | 10 | [mehbul/chopify](./mehbul-chopify.md) | ⭐ 41 | Python | 79/100 |
 | 11 | [mushigaite/short-video-maker](./mushigaite-short-video-maker.md) | ⭐ 11 | Python | 79/100 |
 | 12 | [feyzilim/clipfactory](./feyzilim-clipfactory.md) | ⭐ 33 | Python | 79/100 |
-| 13 | [xixihhhh/clipforge](./xixihhhh-clipforge.md) | ⭐ 170 | TypeScript | 79/100 |
+| 13 | [xixihhhh/clipforge](./xixihhhh-clipforge.md) | ⭐ 1.2k | TypeScript | 79/100 |
 | 14 | [JeremySNR/cutawan](./jeremysnr-cutawan.md) | ⭐ 21 | TypeScript | 77/100 |
 | 15 | [openclaw-easy/ViralMint](./openclaw-easy-viralmint.md) | ⭐ 78 | Python | 77/100 |
 | 16 | [nmbrthirteen/podcli](./nmbrthirteen-podcli.md) | ⭐ 21 | Python | 77/100 |
-| 17 | [tarai-dl/fablr](./tarai-dl-fablr.md) | ⭐ 164 | TypeScript | 76/100 |
+| 17 | [tarai-dl/fablr](./tarai-dl-fablr.md) | ⭐ 159 | TypeScript | 76/100 |
 | 18 | [Chamanrajragu/purffle-shorts](./chamanrajragu-purffle-shorts.md) | ⭐ 16 | Python | 76/100 |
 | 19 | [Agions/fablr](./agions-fablr.md) | ⭐ 136 | TypeScript | 75/100 |
 | 20 | [xuliang2024/cutcli-cookbook](./xuliang2024-cutcli-cookbook.md) | ⭐ 201 | JavaScript | 75/100 |
@@ -37,15 +37,15 @@
 | 27 | [mkamranr/reelforge](./mkamranr-reelforge.md) | ⭐ 21 | Python | 74/100 |
 | 28 | [ColinGPT9/clips-studio](./colingpt9-clips-studio.md) | ⭐ 21 | Python | 74/100 |
 | 29 | [xixihhhh/hotclip](./xixihhhh-hotclip.md) | ⭐ 21 | TypeScript | 74/100 |
-| 30 | [degausai/wonda](./degausai-wonda.md) | ⭐ 130 | TypeScript | 74/100 |
+| 30 | [degausai/wonda](./degausai-wonda.md) | ⭐ 163 | TypeScript | 74/100 |
 | 31 | [RagnheavenDusk/content-machine-respocket](./ragnheavendusk-content-machine-respocket.md) | ⭐ 21 | HTML | 73/100 |
 | 32 | [siri2moon/moonreel](./siri2moon-moonreel.md) | ⭐ 13 | TypeScript | 73/100 |
 | 33 | [jnMetaCode/openshorts](./jnmetacode-openshorts.md) | ⭐ 11 | JavaScript | 73/100 |
 | 34 | [OStudi/short-video-generator-AI](./ostudi-short-video-generator-ai.md) | ⭐ 1.2k | Python | 73/100 |
-| 35 | [hassancs91/claude-faceless-shorts-creator](./hassancs91-claude-faceless-shorts-creator.md) | ⭐ 134 | TypeScript | 73/100 |
+| 35 | [hassancs91/claude-faceless-shorts-creator](./hassancs91-claude-faceless-shorts-creator.md) | ⭐ 352 | TypeScript | 73/100 |
 | 36 | [social-media-skills/remotion-shorts-skill](./social-media-skills-remotion-shorts-skill.md) | ⭐ 11 | TypeScript | 72/100 |
 | 37 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 230 | JavaScript | 72/100 |
-| 38 | [SamurAIGPT/revideo](./samuraigpt-revideo.md) | ⭐ 133 | JavaScript | 72/100 |
+| 38 | [SamurAIGPT/revideo](./samuraigpt-revideo.md) | ⭐ 165 | JavaScript | 72/100 |
 | 39 | [phucnguyentvp1/frameweaver](./phucnguyentvp1-frameweaver.md) | ⭐ 34 | Python | 72/100 |
 | 40 | [justynberk/reel-kit](./justynberk-reel-kit.md) | ⭐ 11 | Python | 72/100 |
 | 41 | [DaBaoAgent/DaobaoAI-DY](./dabaoagent-daobaoai-dy.md) | ⭐ 11 | Python | 72/100 |
@@ -129,7 +129,7 @@
 | 119 | [jaxxchen003/book-video-factory](./jaxxchen003-book-video-factory.md) | ⭐ 95 | Python | 58/100 |
 | 120 | [zhuixin8/meiti-ai](./zhuixin8-meiti-ai.md) | ⭐ 26 | — | 58/100 |
 | 121 | [runesleo/claude-video-kit](./runesleo-claude-video-kit.md) | ⭐ 117 | TypeScript | 58/100 |
-| 122 | [JuneYaooo/awesome-ai-media-cn](./juneyaooo-awesome-ai-media-cn.md) | ⭐ 160 | — | 58/100 |
+| 122 | [JuneYaooo/awesome-ai-media-cn](./juneyaooo-awesome-ai-media-cn.md) | ⭐ 372 | — | 58/100 |
 | 123 | [liuhaisi2026212-maker/motion-palette-15](./liuhaisi2026212-maker-motion-palette-15.md) | ⭐ 11 | JavaScript | 57/100 |
 | 124 | [Phucanh-MRT/mrtkeyword](./phucanh-mrt-mrtkeyword.md) | ⭐ 21 | TypeScript | 57/100 |
 | 125 | [colind0pe/Trendlume](./colind0pe-trendlume.md) | ⭐ 11 | Python | 57/100 |
@@ -165,14 +165,15 @@
 | 155 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 2.4k | JavaScript | 50/100 |
 | 156 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ — | — | 48/100 |
 | 157 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 13 | — | 47/100 |
-| 158 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 47/100 |
-| 159 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
+| 158 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 74 | Kotlin | 47/100 |
+| 159 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 11 | Python | 47/100 |
 | 160 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 47/100 |
 | 161 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ — | — | 45/100 |
 | 162 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
-| 163 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ — | — | 41/100 |
-| 164 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ — | — | 41/100 |
-| 165 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
+| 163 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ — | — | 41/100 |
+| 164 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ — | — | 41/100 |
+| 165 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ — | — | 41/100 |
+| 166 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
 
 ---
 

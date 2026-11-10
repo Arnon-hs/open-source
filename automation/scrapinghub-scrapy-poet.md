@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 129 |
-| 🍴 **Forks** | 29 |
+| 🍴 **Forks** | 30 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-11-02 |
@@ -54,7 +54,7 @@ scrapinghub/scrapy-poet：scrapinghub/scrapy-poet helps remove repetitive manual
 **Quality signals**
 
 - 129 GitHub stars
-- 29 forks
+- 30 forks
 - updated 2026-11-02
 - primary language: Python
 - 6 topics

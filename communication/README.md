@@ -35,7 +35,7 @@
 | 25 | [chatwoot/chatwoot](./chatwoot-chatwoot.md) | ⭐ 39.5k | Ruby | 72/100 |
 | 26 | [rustmailer/bichon](./rustmailer-bichon.md) | ⭐ 2.1k | TypeScript | 72/100 |
 | 27 | [muhammedaksam/waha-tui](./muhammedaksam-waha-tui.md) | ⭐ 413 | TypeScript | 72/100 |
-| 28 | [jchultarsky/mirador](./jchultarsky-mirador.md) | ⭐ 142 | Rust | 71/100 |
+| 28 | [jchultarsky/mirador](./jchultarsky-mirador.md) | ⭐ 326 | Rust | 71/100 |
 | 29 | [maildev/maildev](./maildev-maildev.md) | ⭐ 6.2k | TypeScript | 71/100 |
 | 30 | [ProtonMail/WebClients](./protonmail-webclients.md) | ⭐ 5.7k | TypeScript | 71/100 |
 | 31 | [eclipse-zenoh/zenoh](./eclipse-zenoh-zenoh.md) | ⭐ 3.3k | Rust | 71/100 |
@@ -60,7 +60,7 @@
 | 50 | [zulip/zulip-terminal](./zulip-zulip-terminal.md) | ⭐ 879 | Python | 68/100 |
 | 51 | [aliasvault/aliasvault](./aliasvault-aliasvault.md) | ⭐ 3.5k | TypeScript | 68/100 |
 | 52 | [berty/berty](./berty-berty.md) | ⭐ 9.3k | TypeScript | 68/100 |
-| 53 | [eclipse-zenoh/zenoh-c](./eclipse-zenoh-zenoh-c.md) | ⭐ 138 | Rust | 68/100 |
+| 53 | [eclipse-zenoh/zenoh-c](./eclipse-zenoh-zenoh-c.md) | ⭐ 141 | Rust | 68/100 |
 | 54 | [lukevella/rallly](./lukevella-rallly.md) | ⭐ 5.4k | TypeScript | 68/100 |
 | 55 | [wavebox/waveboxapp](./wavebox-waveboxapp.md) | ⭐ 1.4k | JavaScript | 68/100 |
 | 56 | [nager/Nager.Date](./nager-nager.date.md) | ⭐ 1.4k | C# | 68/100 |
@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 361 | TypeScript | 65/100 |
@@ -108,7 +108,7 @@
 | 98 | [kdeldycke/mail-deduplicate](./kdeldycke-mail-deduplicate.md) | ⭐ 200 | Python | 64/100 |
 | 99 | [strimzi/strimzi-kafka-operator](./strimzi-strimzi-kafka-operator.md) | ⭐ 6k | Java | 64/100 |
 | 100 | [monal-im/Monal](./monal-im-monal.md) | ⭐ 688 | Objective-C | 64/100 |
-| 101 | [deriv-security/MeetC2](./deriv-security-meetc2.md) | ⭐ 141 | Go | 63/100 |
+| 101 | [deriv-security/MeetC2](./deriv-security-meetc2.md) | ⭐ 145 | Go | 63/100 |
 | 102 | [Obiente/nc-native](./obiente-nc-native.md) | ⭐ 225 | Kotlin | 63/100 |
 | 103 | [maathimself/mailflow](./maathimself-mailflow.md) | ⭐ 668 | JavaScript | 63/100 |
 | 104 | [meli/meli](./meli-meli.md) | ⭐ 896 | Rust | 63/100 |
@@ -116,7 +116,7 @@
 | 106 | [disposable-email-domains/disposable-email-domains](./disposable-email-domains-disposable-email-domains.md) | ⭐ 5.7k | Python | 63/100 |
 | 107 | [shuakami/qq-chat-exporter](./shuakami-qq-chat-exporter.md) | ⭐ 6.1k | TypeScript | 63/100 |
 | 108 | [GetStream/stream-cli](./getstream-stream-cli.md) | ⭐ 90 | Go | 63/100 |
-| 109 | [MetaFARS/codex-relay](./metafars-codex-relay.md) | ⭐ 137 | Rust | 63/100 |
+| 109 | [MetaFARS/codex-relay](./metafars-codex-relay.md) | ⭐ 192 | Rust | 63/100 |
 | 110 | [processone/fluux-messenger](./processone-fluux-messenger.md) | ⭐ 451 | TypeScript | 63/100 |
 | 111 | [miranda-ng/miranda-ng](./miranda-ng-miranda-ng.md) | ⭐ 570 | C++ | 63/100 |
 | 112 | [tutao/tutanota](./tutao-tutanota.md) | ⭐ 8.1k | TypeScript | 63/100 |
@@ -136,7 +136,7 @@
 | 126 | [amqp-rs/lapin](./amqp-rs-lapin.md) | ⭐ 1.2k | Rust | 62/100 |
 | 127 | [miroslavpejic85/call-me](./miroslavpejic85-call-me.md) | ⭐ 767 | JavaScript | 62/100 |
 | 128 | [nodemailer/nodemailer](./nodemailer-nodemailer.md) | ⭐ 17.7k | TypeScript | 61/100 |
-| 129 | [Andiveli/wptui](./andiveli-wptui.md) | ⭐ 161 | Rust | 61/100 |
+| 129 | [Andiveli/wptui](./andiveli-wptui.md) | ⭐ 200 | Rust | 61/100 |
 | 130 | [jonhoo/rust-imap](./jonhoo-rust-imap.md) | ⭐ 583 | Rust | 61/100 |
 | 131 | [fluxerapp/fluxer](./fluxerapp-fluxer.md) | ⭐ 10.8k | TypeScript | 61/100 |
 | 132 | [bigbluebutton/bigbluebutton](./bigbluebutton-bigbluebutton.md) | ⭐ 9.3k | JavaScript | 61/100 |
@@ -155,7 +155,7 @@
 | 145 | [rafatosta/zapzap](./rafatosta-zapzap.md) | ⭐ 1.7k | Python | 60/100 |
 | 146 | [zoidsh/meru](./zoidsh-meru.md) | ⭐ 1k | TypeScript | 60/100 |
 | 147 | [molvqingtai/WebChat](./molvqingtai-webchat.md) | ⭐ 2.6k | TypeScript | 60/100 |
-| 148 | [iamxvbaba/gramsrv](./iamxvbaba-gramsrv.md) | ⭐ 128 | Go | 60/100 |
+| 148 | [iamxvbaba/gramsrv](./iamxvbaba-gramsrv.md) | ⭐ 144 | Go | 60/100 |
 | 149 | [greenmail-mail-test/greenmail](./greenmail-mail-test-greenmail.md) | ⭐ 752 | Java | 60/100 |
 | 150 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 521 | JavaScript | 60/100 |
 | 151 | [zfogg/ascii-chat](./zfogg-ascii-chat.md) | ⭐ 203 | C | 60/100 |
@@ -286,7 +286,7 @@
 | 276 | [adecubed/gigamail](./adecubed-gigamail.md) | ⭐ — | — | 49/100 |
 | 277 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 630 | Kotlin | 49/100 |
 | 278 | [awslabs/mls-rs](./awslabs-mls-rs.md) | ⭐ 262 | Rust | 49/100 |
-| 279 | [freenet/river](./freenet-river.md) | ⭐ 150 | Rust | 49/100 |
+| 279 | [freenet/river](./freenet-river.md) | ⭐ 314 | Rust | 49/100 |
 | 280 | [matrix-construct/tuwunel](./matrix-construct-tuwunel.md) | ⭐ 2.8k | Rust | 49/100 |
 | 281 | [bloomberg/blazingmq](./bloomberg-blazingmq.md) | ⭐ 3.2k | C++ | 49/100 |
 | 282 | [aio-libs/aiosmtpd](./aio-libs-aiosmtpd.md) | ⭐ 373 | Python | 49/100 |
@@ -485,7 +485,7 @@
 | 475 | [CopilotKit/OpenTag](./copilotkit-opentag.md) | ⭐ — | — | 38/100 |
 | 476 | [erabytse/CryptoLogin](./erabytse-cryptologin.md) | ⭐ — | — | 38/100 |
 | 477 | [terrordrummer/robyx-ai](./terrordrummer-robyx-ai.md) | ⭐ — | — | 38/100 |
-| 478 | [danube-messaging/danube](./danube-messaging-danube.md) | ⭐ 161 | Rust | 37/100 |
+| 478 | [danube-messaging/danube](./danube-messaging-danube.md) | ⭐ 181 | Rust | 37/100 |
 | 479 | [EbotGT/chat-memory-protocol](./ebotgt-chat-memory-protocol.md) | ⭐ — | — | 36/100 |
 | 480 | [statsinsta/stats-insta](./statsinsta-stats-insta.md) | ⭐ — | — | 35/100 |
 | 481 | [ammaarreshi/gemma-chat](./ammaarreshi-gemma-chat.md) | ⭐ — | — | 28/100 |

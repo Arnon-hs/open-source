@@ -1,6 +1,6 @@
 # operatecenter/operate-mcp
 
-[![Stars](https://img.shields.io/github/stars/operatecenter/operate-mcp?style=flat-square&color=yellow)](https://github.com/operatecenter/operate-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/operatecenter/operate-mcp?style=flat-square&color=blue)](https://github.com/operatecenter/operate-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/operatecenter/operate-mcp?style=flat-square&color=yellow)](https://github.com/operatecenter/operate-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/operatecenter/operate-mcp?style=flat-square&color=blue)](https://github.com/operatecenter/operate-mcp/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-10-27 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ MCP
 
 ### English
 
-operatecenter/operate-mcp: operatecenter/operate-mcp helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+operatecenter/operate-mcp: operatecenter/operate-mcp helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-operatecenter/operate-mcp: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+operatecenter/operate-mcp: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-operatecenter/operate-mcp：operatecenter/operate-mcp helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+operatecenter/operate-mcp：operatecenter/operate-mcp helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ operatecenter/operate-mcp：operatecenter/operate-mcp helps connect AI assistant
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ operatecenter/operate-mcp：operatecenter/operate-mcp helps connect AI assistant
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 44/100 |
+| quality | 39/100 |
 | integration | 50/100 |
-| production | 56/100 |
-| outlook | 58/100 |
+| production | 50/100 |
+| outlook | 51/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 100/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

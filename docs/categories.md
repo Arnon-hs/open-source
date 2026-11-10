@@ -25,16 +25,16 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Knowledge/RAG](../knowledgerag/README.md) | 665 |
 | [Libraries & SDKs](../libraries--sdks/README.md) | 282 |
 | [Marketing](../marketing/README.md) | 37 |
-| [MCP](../mcp/README.md) | 3,025 |
-| [Misc](../misc/README.md) | 18,356 |
-| [Mobile](../mobile/README.md) | 709 |
+| [MCP](../mcp/README.md) | 3,026 |
+| [Misc](../misc/README.md) | 18,357 |
+| [Mobile](../mobile/README.md) | 712 |
 | [Networking](../networking/README.md) | 680 |
 | [Observability](../observability/README.md) | 330 |
 | [Orchestration](../orchestration/README.md) | 2,504 |
 | [Payments](../payments/README.md) | 403 |
 | [Productivity](../productivity/README.md) | 367 |
 | [Security](../security/README.md) | 517 |
-| [Templates](../templates/README.md) | 498 |
+| [Templates](../templates/README.md) | 499 |
 | [Trading](../trading/README.md) | 229 |
-| [Vertical Video](../vertical-video/README.md) | 165 |
+| [Vertical Video](../vertical-video/README.md) | 166 |
 | [Video Editing](../video-editing/README.md) | 618 |

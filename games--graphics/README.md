@@ -48,10 +48,10 @@
 | 38 | [openglobus/openglobus](./openglobus-openglobus.md) | ⭐ 950 | TypeScript | 64/100 |
 | 39 | [mas-bandwidth/netcode](./mas-bandwidth-netcode.md) | ⭐ 2.6k | C | 64/100 |
 | 40 | [fschutt/azul](./fschutt-azul.md) | ⭐ 6.1k | Rust | 64/100 |
-| 41 | [Noxmore/bevy_trenchbroom](./noxmore-bevy-trenchbroom.md) | ⭐ 143 | Rust | 64/100 |
+| 41 | [Noxmore/bevy_trenchbroom](./noxmore-bevy-trenchbroom.md) | ⭐ 162 | Rust | 64/100 |
 | 42 | [panda3d/panda3d](./panda3d-panda3d.md) | ⭐ 5.3k | C++ | 64/100 |
 | 43 | [mapbox/mapbox-gl-js](./mapbox-mapbox-gl-js.md) | ⭐ 12.5k | TypeScript | 64/100 |
-| 44 | [phase-rs/phase](./phase-rs-phase.md) | ⭐ 142 | Rust | 64/100 |
+| 44 | [phase-rs/phase](./phase-rs-phase.md) | ⭐ 325 | Rust | 64/100 |
 | 45 | [dimforge/bevy_rapier](./dimforge-bevy-rapier.md) | ⭐ 1.6k | Rust | 64/100 |
 | 46 | [shadps4-emu/shadPS4](./shadps4-emu-shadps4.md) | ⭐ 34.1k | C++ | 64/100 |
 | 47 | [hexops/mach](./hexops-mach.md) | ⭐ 4.9k | Zig | 64/100 |
@@ -200,7 +200,7 @@
 | 190 | [vasturiano/globe.gl](./vasturiano-globe.gl.md) | ⭐ 3.2k | HTML | 55/100 |
 | 191 | [puri-adityakumar/raincheck](./puri-adityakumar-raincheck.md) | ⭐ — | Python | 55/100 |
 | 192 | [hyqzz/Solar-Wanderer](./hyqzz-solar-wanderer.md) | ⭐ 767 | JavaScript | 55/100 |
-| 193 | [iShape-Rust/iTriangle](./ishape-rust-itriangle.md) | ⭐ 156 | Rust | 55/100 |
+| 193 | [iShape-Rust/iTriangle](./ishape-rust-itriangle.md) | ⭐ 162 | Rust | 55/100 |
 | 194 | [lvgl/lv_port_linux](./lvgl-lv-port-linux.md) | ⭐ 478 | C | 55/100 |
 | 195 | [increpare/PuzzleScript](./increpare-puzzlescript.md) | ⭐ 1.1k | JavaScript | 55/100 |
 | 196 | [ec-/Quake3e](./ec--quake3e.md) | ⭐ 1.6k | C | 55/100 |
@@ -263,7 +263,7 @@
 | 253 | [z3y/glim](./z3y-glim.md) | ⭐ 108 | Rust | 51/100 |
 | 254 | [TheXTech/TheXTech](./thextech-thextech.md) | ⭐ 427 | C++ | 51/100 |
 | 255 | [microsoft/DirectX-Specs](./microsoft-directx-specs.md) | ⭐ 858 | HTML | 51/100 |
-| 256 | [thatmagicalcat/txm](./thatmagicalcat-txm.md) | ⭐ 148 | Rust | 51/100 |
+| 256 | [thatmagicalcat/txm](./thatmagicalcat-txm.md) | ⭐ 323 | Rust | 51/100 |
 | 257 | [tracel-ai/cubek](./tracel-ai-cubek.md) | ⭐ 103 | Rust | 51/100 |
 | 258 | [beyond-all-reason/RecoilEngine](./beyond-all-reason-recoilengine.md) | ⭐ 733 | C++ | 51/100 |
 | 259 | [godot-rust/gdext](./godot-rust-gdext.md) | ⭐ 5.4k | Rust | 51/100 |
@@ -321,7 +321,7 @@
 | 311 | [ZQuestClassic/ZQuestClassic](./zquestclassic-zquestclassic.md) | ⭐ 568 | C++ | 44/100 |
 | 312 | [optozorax/portal](./optozorax-portal.md) | ⭐ 567 | Rust | 44/100 |
 | 313 | [KhronosGroup/Vulkan-ValidationLayers](./khronosgroup-vulkan-validationlayers.md) | ⭐ 1.1k | C++ | 44/100 |
-| 314 | [renzora/engine](./renzora-engine.md) | ⭐ 135 | Rust | 43/100 |
+| 314 | [renzora/engine](./renzora-engine.md) | ⭐ 394 | Rust | 43/100 |
 | 315 | [Far-Beyond-Pulsar/Pulsar-Native](./far-beyond-pulsar-pulsar-native.md) | ⭐ 404 | Rust | 43/100 |
 | 316 | [Pengeszikra/singularity-news-ccg](./pengeszikra-singularity-news-ccg.md) | ⭐ — | — | 42/100 |
 | 317 | [G00dS0ul/G00dS0ul](./g00ds0ul-g00ds0ul.md) | ⭐ — | — | 42/100 |

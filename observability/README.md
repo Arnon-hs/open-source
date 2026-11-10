@@ -70,7 +70,7 @@
 | 60 | [nci/scores](./nci-scores.md) | ⭐ 239 | Python | 65/100 |
 | 61 | [librenms/librenms](./librenms-librenms.md) | ⭐ 5k | PHP | 65/100 |
 | 62 | [henrygd/beszel](./henrygd-beszel.md) | ⭐ 27.1k | Go | 65/100 |
-| 63 | [alibahmanyar/simon](./alibahmanyar-simon.md) | ⭐ 159 | Rust | 64/100 |
+| 63 | [alibahmanyar/simon](./alibahmanyar-simon.md) | ⭐ 161 | Rust | 64/100 |
 | 64 | [monitoring-plugins/monitoring-plugins](./monitoring-plugins-monitoring-plugins.md) | ⭐ 515 | C | 64/100 |
 | 65 | [minikin/cargo-crap](./minikin-cargo-crap.md) | ⭐ 432 | Rust | 64/100 |
 | 66 | [jurkovic-nikola/OpenLinkHub](./jurkovic-nikola-openlinkhub.md) | ⭐ 1.3k | Go | 64/100 |
@@ -118,7 +118,7 @@
 | 108 | [OpsiMate/OpsiMate](./opsimate-opsimate.md) | ⭐ 290 | TypeScript | 60/100 |
 | 109 | [threathunters-io/laurel](./threathunters-io-laurel.md) | ⭐ 876 | Rust | 60/100 |
 | 110 | [namhyung/uftrace](./namhyung-uftrace.md) | ⭐ 3.5k | C | 60/100 |
-| 111 | [shm11C3/HardwareVisualizer](./shm11c3-hardwarevisualizer.md) | ⭐ 151 | Rust | 60/100 |
+| 111 | [shm11C3/HardwareVisualizer](./shm11c3-hardwarevisualizer.md) | ⭐ 187 | Rust | 60/100 |
 | 112 | [prymitive/karma](./prymitive-karma.md) | ⭐ 2.7k | TypeScript | 60/100 |
 | 113 | [cortexproject/cortex](./cortexproject-cortex.md) | ⭐ 5.9k | Go | 60/100 |
 | 114 | [DataDog/dd-trace-java](./datadog-dd-trace-java.md) | ⭐ 739 | Java | 60/100 |
@@ -156,9 +156,9 @@
 | 146 | [grafana/mimir](./grafana-mimir.md) | ⭐ 5.3k | Go | 57/100 |
 | 147 | [hedhyw/json-log-viewer](./hedhyw-json-log-viewer.md) | ⭐ 244 | Go | 56/100 |
 | 148 | [laravel/nightwatch](./laravel-nightwatch.md) | ⭐ 378 | PHP | 56/100 |
-| 149 | [OxidizeLabs/cachekit](./oxidizelabs-cachekit.md) | ⭐ 160 | Rust | 56/100 |
+| 149 | [OxidizeLabs/cachekit](./oxidizelabs-cachekit.md) | ⭐ 163 | Rust | 56/100 |
 | 150 | [TIANLI0/THRM](./tianli0-thrm.md) | ⭐ 457 | Go | 56/100 |
-| 151 | [prometheus/test-infra](./prometheus-test-infra.md) | ⭐ 164 | Go | 56/100 |
+| 151 | [prometheus/test-infra](./prometheus-test-infra.md) | ⭐ 166 | Go | 56/100 |
 | 152 | [Daminoup88/WattSeal](./daminoup88-wattseal.md) | ⭐ 115 | Rust | 56/100 |
 | 153 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 942 | TypeScript | 56/100 |
 | 154 | [oshi/oshi](./oshi-oshi.md) | ⭐ 5.3k | Java | 56/100 |
@@ -232,7 +232,7 @@
 | 222 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 599 | Go | 48/100 |
 | 223 | [open-telemetry/opentelemetry-go-contrib](./open-telemetry-opentelemetry-go-contrib.md) | ⭐ 1.7k | Go | 48/100 |
 | 224 | [cloudwalk/stratus](./cloudwalk-stratus.md) | ⭐ 175 | Rust | 47/100 |
-| 225 | [jonhoo/tracing-timing](./jonhoo-tracing-timing.md) | ⭐ 135 | Rust | 47/100 |
+| 225 | [jonhoo/tracing-timing](./jonhoo-tracing-timing.md) | ⭐ 139 | Rust | 47/100 |
 | 226 | [villith/relink-logs](./villith-relink-logs.md) | ⭐ 119 | Rust | 47/100 |
 | 227 | [openvehicles/Open-Vehicle-Monitoring-System-3](./openvehicles-open-vehicle-monitoring-system-3.md) | ⭐ 877 | C | 47/100 |
 | 228 | [open-telemetry/opentelemetry-python-contrib](./open-telemetry-opentelemetry-python-contrib.md) | ⭐ 1.1k | Python | 47/100 |

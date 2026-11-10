@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 148 |
+| ⭐ **Stars** | 150 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | ColdFusion |
 | 📈 **Score** | 60/100 |

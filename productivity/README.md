@@ -11,7 +11,7 @@
 | 1 | [ohmyzsh/ohmyzsh](./ohmyzsh-ohmyzsh.md) | ⭐ 190.4k | Shell | 82/100 |
 | 2 | [javinizer/javinizer-go](./javinizer-javinizer-go.md) | ⭐ 106 | Go | 78/100 |
 | 3 | [muety/wakapi](./muety-wakapi.md) | ⭐ 4.5k | Go | 78/100 |
-| 4 | [Priyanshu-byte-coder/devtrack](./priyanshu-byte-coder-devtrack.md) | ⭐ 142 | TypeScript | 77/100 |
+| 4 | [Priyanshu-byte-coder/devtrack](./priyanshu-byte-coder-devtrack.md) | ⭐ 297 | TypeScript | 77/100 |
 | 5 | [Umbrella-io/devtrack](./umbrella-io-devtrack.md) | ⭐ 141 | TypeScript | 77/100 |
 | 6 | [tach-org/tach](./tach-org-tach.md) | ⭐ 2.9k | Rust | 77/100 |
 | 7 | [tiddly-gittly/TidGi-Desktop](./tiddly-gittly-tidgi-desktop.md) | ⭐ 2k | TypeScript | 76/100 |
@@ -65,7 +65,7 @@
 | 55 | [espanso/espanso](./espanso-espanso.md) | ⭐ 14.8k | Rust | 66/100 |
 | 56 | [kamiyaa/joshuto](./kamiyaa-joshuto.md) | ⭐ 3.7k | Rust | 66/100 |
 | 57 | [lfnovo/open-notebook](./lfnovo-open-notebook.md) | ⭐ 41.8k | TypeScript | 66/100 |
-| 58 | [pycontribs/mk](./pycontribs-mk.md) | ⭐ 136 | Python | 66/100 |
+| 58 | [pycontribs/mk](./pycontribs-mk.md) | ⭐ 142 | Python | 66/100 |
 | 59 | [hydralauncher/hydra](./hydralauncher-hydra.md) | ⭐ 17.7k | TypeScript | 66/100 |
 | 60 | [rohansx/workz](./rohansx-workz.md) | ⭐ 68 | Rust | 66/100 |
 | 61 | [AmineDjeghri/awesome-os-setup](./aminedjeghri-awesome-os-setup.md) | ⭐ 573 | Python | 66/100 |
@@ -184,7 +184,7 @@
 | 174 | [200ok-ch/organice](./200ok-ch-organice.md) | ⭐ 2.7k | JavaScript | 56/100 |
 | 175 | [fabiospampinato/phoenix](./fabiospampinato-phoenix.md) | ⭐ 406 | JavaScript | 56/100 |
 | 176 | [RoderickQiu/wnr](./roderickqiu-wnr.md) | ⭐ 1.1k | JavaScript | 56/100 |
-| 177 | [ludoven/QADB](./ludoven-qadb.md) | ⭐ 141 | Kotlin | 56/100 |
+| 177 | [ludoven/QADB](./ludoven-qadb.md) | ⭐ 177 | Kotlin | 56/100 |
 | 178 | [kylejckson/PaintFE](./kylejckson-paintfe.md) | ⭐ 412 | Rust | 56/100 |
 | 179 | [proginosko/LeechBlockNG](./proginosko-leechblockng.md) | ⭐ 1.1k | JavaScript | 56/100 |
 | 180 | [JayanAXHF/gitv](./jayanaxhf-gitv.md) | ⭐ 110 | Rust | 56/100 |
@@ -270,7 +270,7 @@
 | 260 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 1.5k | Shell | 48/100 |
 | 261 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 546 | C++ | 48/100 |
 | 262 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 617 | Rust | 48/100 |
-| 263 | [beyluta/WinWidgets](./beyluta-winwidgets.md) | ⭐ 145 | C | 48/100 |
+| 263 | [beyluta/WinWidgets](./beyluta-winwidgets.md) | ⭐ 167 | C | 48/100 |
 | 264 | [StudentWeis/ropy](./studentweis-ropy.md) | ⭐ 123 | Rust | 48/100 |
 | 265 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 48/100 |
 | 266 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 2.4k | Java | 48/100 |
@@ -314,7 +314,7 @@
 | 304 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ — | — | 43/100 |
 | 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ — | — | 43/100 |
 | 306 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ — | — | 43/100 |
-| 307 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 168 | Rust | 43/100 |
+| 307 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 308 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 17 | Zig | 42/100 |
 | 309 | [yasinozmeen/smartpause](./yasinozmeen-smartpause.md) | ⭐ 1 | HTML | 42/100 |
 | 310 | [dullage/flatnotes](./dullage-flatnotes.md) | ⭐ — | — | 42/100 |

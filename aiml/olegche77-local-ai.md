@@ -65,18 +65,18 @@ OlegChe77/local-ai：OlegChe77/local-ai helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 59/100 |
-| adoption | 9/100 |
-| categoryMatchCount | 200/100 |
-| stars | 10/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 10/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 50/100 |
+| recency | 80/100 |
+| adoption | 9/100 |
+| production | 60/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
