@@ -6,18 +6,18 @@ Only categories with at least 10 project cards have folders. The complete machin
 
 | Category | Project cards |
 | --- | ---: |
-| [AI/ML](../aiml/README.md) | 5,132 |
+| [AI/ML](../aiml/README.md) | 5,133 |
 | [Automation](../automation/README.md) | 1,667 |
 | [Backend](../backend/README.md) | 989 |
 | [Cloud & Storage](../cloud--storage/README.md) | 639 |
 | [Communication](../communication/README.md) | 481 |
 | [Content Creation](../content-creation/README.md) | 161 |
 | [Crypto](../crypto/README.md) | 841 |
-| [Data](../data/README.md) | 362 |
+| [Data](../data/README.md) | 363 |
 | [Database](../database/README.md) | 585 |
 | [Design](../design/README.md) | 195 |
 | [DevOps/Infra](../devopsinfra/README.md) | 546 |
-| [DevTools](../devtools/README.md) | 1,653 |
+| [DevTools](../devtools/README.md) | 1,654 |
 | [Documents](../documents/README.md) | 754 |
 | [Education](../education/README.md) | 34 |
 | [Frontend](../frontend/README.md) | 934 |
@@ -28,7 +28,7 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [MCP](../mcp/README.md) | 3,002 |
 | [Misc](../misc/README.md) | 18,183 |
 | [Mobile](../mobile/README.md) | 706 |
-| [Networking](../networking/README.md) | 676 |
+| [Networking](../networking/README.md) | 677 |
 | [Observability](../observability/README.md) | 325 |
 | [Orchestration](../orchestration/README.md) | 2,492 |
 | [Payments](../payments/README.md) | 393 |
