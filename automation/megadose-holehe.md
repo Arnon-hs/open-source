@@ -53,8 +53,8 @@ megadose/holehe：megadose/holehe helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 15591 GitHub stars
-- 2023 forks
+- 15608 GitHub stars
+- 2026 forks
 - updated 2026-11-09
 - primary language: Python
 - 15 topics
