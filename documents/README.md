@@ -26,7 +26,7 @@
 | 16 | [lucaong/minisearch](./lucaong-minisearch.md) | ⭐ 6.2k | TypeScript | 75/100 |
 | 17 | [imzbf/md-editor-v3](./imzbf-md-editor-v3.md) | ⭐ 2.6k | TypeScript | 74/100 |
 | 18 | [ebullient/ttrpg-convert-cli](./ebullient-ttrpg-convert-cli.md) | ⭐ 383 | Java | 74/100 |
-| 19 | [readest/readest](./readest-readest.md) | ⭐ 26.1k | TypeScript | 74/100 |
+| 19 | [readest/readest](./readest-readest.md) | ⭐ 26.2k | TypeScript | 74/100 |
 | 20 | [charmbracelet/glamour](./charmbracelet-glamour.md) | ⭐ 3.8k | Go | 73/100 |
 | 21 | [VirtusLab-Open-Source/strapi-plugin-navigation](./virtuslab-open-source-strapi-plugin-navigation.md) | ⭐ 364 | TypeScript | 73/100 |
 | 22 | [hougesen/mdsf](./hougesen-mdsf.md) | ⭐ 112 | Rust | 73/100 |
@@ -98,12 +98,12 @@
 | 88 | [superstarryeyes/lue](./superstarryeyes-lue.md) | ⭐ 787 | Python | 66/100 |
 | 89 | [slidevjs/slidev](./slidevjs-slidev.md) | ⭐ 49.4k | TypeScript | 66/100 |
 | 90 | [chrisguttandin/angular-prerender](./chrisguttandin-angular-prerender.md) | ⭐ 128 | JavaScript | 66/100 |
-| 91 | [obsidianmd/obsidian-releases](./obsidianmd-obsidian-releases.md) | ⭐ 23.2k | — | 66/100 |
-| 92 | [payloadcms/payload](./payloadcms-payload.md) | ⭐ 45.7k | TypeScript | 66/100 |
+| 91 | [obsidianmd/obsidian-releases](./obsidianmd-obsidian-releases.md) | ⭐ 23.3k | — | 66/100 |
+| 92 | [payloadcms/payload](./payloadcms-payload.md) | ⭐ 45.8k | TypeScript | 66/100 |
 | 93 | [JimmXinu/FanFicFare](./jimmxinu-fanficfare.md) | ⭐ 1.1k | Python | 66/100 |
 | 94 | [directus/directus](./directus-directus.md) | ⭐ 38.7k | TypeScript | 66/100 |
 | 95 | [peaceiris/actions-gh-pages](./peaceiris-actions-gh-pages.md) | ⭐ 5.4k | TypeScript | 65/100 |
-| 96 | [DigitalPlatDev/FreeDomain](./digitalplatdev-freedomain.md) | ⭐ 207.7k | Markdown | 65/100 |
+| 96 | [DigitalPlatDev/FreeDomain](./digitalplatdev-freedomain.md) | ⭐ 207.8k | Markdown | 65/100 |
 | 97 | [vuejs/vitepress](./vuejs-vitepress.md) | ⭐ 18.5k | TypeScript | 65/100 |
 | 98 | [jackyzha0/quartz](./jackyzha0-quartz.md) | ⭐ 13.6k | TypeScript | 65/100 |
 | 99 | [lepture/mistune](./lepture-mistune.md) | ⭐ 3.1k | Python | 65/100 |
@@ -118,7 +118,7 @@
 | 108 | [papra-hq/papra](./papra-hq-papra.md) | ⭐ 5.7k | TypeScript | 65/100 |
 | 109 | [transmute-app/transmute](./transmute-app-transmute.md) | ⭐ 1.5k | Python | 65/100 |
 | 110 | [zealdocs/zeal](./zealdocs-zeal.md) | ⭐ 12.9k | C++ | 65/100 |
-| 111 | [vercel/next.js](./vercel-next.js.md) | ⭐ 143.4k | JavaScript | 65/100 |
+| 111 | [vercel/next.js](./vercel-next.js.md) | ⭐ 143.5k | JavaScript | 65/100 |
 | 112 | [enthec/webappanalyzer](./enthec-webappanalyzer.md) | ⭐ 610 | Python | 64/100 |
 | 113 | [standardnotes/app](./standardnotes-app.md) | ⭐ 6.7k | TypeScript | 64/100 |
 | 114 | [guchangan1/All-Defense-Tool](./guchangan1-all-defense-tool.md) | ⭐ 8.3k | Python | 64/100 |
@@ -713,8 +713,8 @@
 | 703 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
 | 704 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 705 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
-| 706 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
+| 706 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
+| 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
 | 708 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
 | 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |
@@ -747,8 +747,8 @@
 | 737 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ 2 | — | 38/100 |
 | 738 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 739 | [bruits/satteri](./bruits-satteri.md) | ⭐ 1.3k | — | 38/100 |
-| 740 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
-| 741 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
+| 740 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
+| 741 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
 | 742 | [JagaTheGhost/visualmark-studio](./jagatheghost-visualmark-studio.md) | ⭐ 11 | JavaScript | 37/100 |
 | 743 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 744 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |

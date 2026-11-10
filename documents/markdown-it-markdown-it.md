@@ -52,7 +52,7 @@ markdown-it/markdown-it：markdown-it/markdown-it may be useful when its README 
 
 **Quality signals**
 
-- 22034 GitHub stars
+- 22036 GitHub stars
 - 1847 forks
 - updated 2026-11-09
 - primary language: TypeScript

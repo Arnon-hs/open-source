@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [louislam/dockge](./louislam-dockge.md) | ⭐ 24.8k | TypeScript | 78/100 |
-| 2 | [projectdiscovery/nuclei](./projectdiscovery-nuclei.md) | ⭐ 32.7k | Go | 75/100 |
+| 2 | [projectdiscovery/nuclei](./projectdiscovery-nuclei.md) | ⭐ 32.8k | Go | 75/100 |
 | 3 | [owtf/owtf](./owtf-owtf.md) | ⭐ 2k | TypeScript | 74/100 |
 | 4 | [OpenIDC/mod_auth_openidc](./openidc-mod-auth-openidc.md) | ⭐ 1.1k | C | 73/100 |
 | 5 | [Jieyab89/OSINT-Cheat-sheet](./jieyab89-osint-cheat-sheet.md) | ⭐ 2.3k | Python | 73/100 |
@@ -19,11 +19,11 @@
 | 9 | [DataDog/guarddog](./datadog-guarddog.md) | ⭐ 1.2k | Python | 72/100 |
 | 10 | [SecNN/AiScan-N](./secnn-aiscan-n.md) | ⭐ 652 | — | 71/100 |
 | 11 | [DedSecInside/TorBot](./dedsecinside-torbot.md) | ⭐ 5.2k | Python | 71/100 |
-| 12 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 29.1k | Go | 71/100 |
+| 12 | [trufflesecurity/trufflehog](./trufflesecurity-trufflehog.md) | ⭐ 29.2k | Go | 71/100 |
 | 13 | [a1ex4/ownfoil](./a1ex4-ownfoil.md) | ⭐ 957 | Python | 70/100 |
 | 14 | [StevenBlack/hosts](./stevenblack-hosts.md) | ⭐ 31.4k | Python | 70/100 |
 | 15 | [dromara/Sa-Token](./dromara-sa-token.md) | ⭐ 19.1k | Java | 70/100 |
-| 16 | [Lissy93/web-check](./lissy93-web-check.md) | ⭐ 35.4k | TypeScript | 70/100 |
+| 16 | [Lissy93/web-check](./lissy93-web-check.md) | ⭐ 35.5k | TypeScript | 70/100 |
 | 17 | [google/sandboxed-api](./google-sandboxed-api.md) | ⭐ 1.8k | C++ | 69/100 |
 | 18 | [chipsec/chipsec](./chipsec-chipsec.md) | ⭐ 3.3k | Python | 69/100 |
 | 19 | [google/go-tpm-tools](./google-go-tpm-tools.md) | ⭐ 310 | C | 69/100 |
@@ -78,7 +78,7 @@
 | 68 | [rfc-st/humble](./rfc-st-humble.md) | ⭐ 383 | Python | 62/100 |
 | 69 | [Syslifters/offsec-tools](./syslifters-offsec-tools.md) | ⭐ 412 | Python | 62/100 |
 | 70 | [jofoerster/habitsync](./jofoerster-habitsync.md) | ⭐ 349 | TypeScript | 62/100 |
-| 71 | [TecharoHQ/anubis](./techarohq-anubis.md) | ⭐ 24k | Go | 62/100 |
+| 71 | [TecharoHQ/anubis](./techarohq-anubis.md) | ⭐ 24.1k | Go | 62/100 |
 | 72 | [cisco-ai-defense/defenseclaw](./cisco-ai-defense-defenseclaw.md) | ⭐ 912 | Python | 62/100 |
 | 73 | [theowni/Damn-Vulnerable-RESTaurant-API-Game](./theowni-damn-vulnerable-restaurant-api-game.md) | ⭐ 945 | Python | 62/100 |
 | 74 | [keycloak/keycloak](./keycloak-keycloak.md) | ⭐ 37.8k | Java | 62/100 |
@@ -226,8 +226,8 @@
 | 216 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 360 | Java | 53/100 |
 | 217 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 580 | Nix | 53/100 |
 | 218 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 452 | TypeScript | 53/100 |
-| 219 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
-| 220 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 137 | Rust | 53/100 |
+| 219 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 137 | Rust | 53/100 |
+| 220 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
 | 221 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 222 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 594 | C | 53/100 |
 | 223 | [tkhq/qos](./tkhq-qos.md) | ⭐ 125 | Rust | 53/100 |
@@ -383,8 +383,8 @@
 | 373 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ 5 | — | 42/100 |
 | 374 | [barvhaim/code-security-skills](./barvhaim-code-security-skills.md) | ⭐ 1 | — | 42/100 |
 | 375 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ 6 | — | 42/100 |
-| 376 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
-| 377 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
+| 376 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
+| 377 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
 | 378 | [arm/metis](./arm-metis.md) | ⭐ 892 | — | 42/100 |
 | 379 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 42/100 |
 | 380 | [renton4code/propagate-cli](./renton4code-propagate-cli.md) | ⭐ 3 | — | 42/100 |
@@ -467,9 +467,9 @@
 | 457 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 38/100 |
 | 458 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ 1.6k | — | 38/100 |
 | 459 | [openai/codex-security](./openai-codex-security.md) | ⭐ 11.4k | — | 38/100 |
-| 460 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 460 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
 | 461 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
-| 462 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
+| 462 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
 | 463 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ 415 | — | 38/100 |
 | 464 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
 | 465 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 38/100 |
@@ -484,8 +484,8 @@
 | 474 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ 43 | — | 38/100 |
 | 475 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ 4 | — | 38/100 |
 | 476 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ 289 | — | 38/100 |
-| 477 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
-| 478 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
+| 477 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
+| 478 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
 | 479 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ 23 | — | 38/100 |
 | 480 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ 11 | — | 38/100 |
 | 481 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ 2 | — | 38/100 |
@@ -500,8 +500,8 @@
 | 490 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 167 | Rust | 38/100 |
 | 491 | [SertaCanbey/IDSignal](./sertacanbey-idsignal.md) | ⭐ 1 | JavaScript | 37/100 |
 | 492 | [TemujinCalidius/FediHome](./temujincalidius-fedihome.md) | ⭐ 10 | — | 37/100 |
-| 493 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
-| 494 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
+| 493 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
+| 494 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
 | 495 | [jaredhanson/passport](./jaredhanson-passport.md) | ⭐ 23.5k | — | 37/100 |
 | 496 | [wrium/password-strength](./wrium-password-strength.md) | ⭐ — | JavaScript | 37/100 |
 | 497 | [IWEBai/railo-action](./iwebai-railo-action.md) | ⭐ — | — | 36/100 |

@@ -30,7 +30,7 @@
 | 20 | [jrnl-org/jrnl](./jrnl-org-jrnl.md) | ⭐ 7.4k | Python | 72/100 |
 | 21 | [Wox-launcher/Wox](./wox-launcher-wox.md) | ⭐ 27.6k | Go | 71/100 |
 | 22 | [sayanarijit/xplr](./sayanarijit-xplr.md) | ⭐ 4.9k | Rust | 71/100 |
-| 23 | [super-productivity/super-productivity](./super-productivity-super-productivity.md) | ⭐ 23.5k | TypeScript | 71/100 |
+| 23 | [super-productivity/super-productivity](./super-productivity-super-productivity.md) | ⭐ 23.6k | TypeScript | 71/100 |
 | 24 | [slothflowlabs/duckle](./slothflowlabs-duckle.md) | ⭐ 1.6k | Rust | 71/100 |
 | 25 | [unhappychoice/gitlogue](./unhappychoice-gitlogue.md) | ⭐ 5.3k | Rust | 71/100 |
 | 26 | [Nriver/trilium-translation](./nriver-trilium-translation.md) | ⭐ 2.9k | HTML | 70/100 |
@@ -40,7 +40,7 @@
 | 30 | [files-community/Files](./files-community-files.md) | ⭐ 46.6k | C# | 70/100 |
 | 31 | [0PandaDEV/Ziit](./0pandadev-ziit.md) | ⭐ 258 | TypeScript | 69/100 |
 | 32 | [BYTEDz/PCLink](./bytedz-pclink.md) | ⭐ 947 | Python | 69/100 |
-| 33 | [jaywcjlove/awesome-mac](./jaywcjlove-awesome-mac.md) | ⭐ 118.1k | Swift | 69/100 |
+| 33 | [jaywcjlove/awesome-mac](./jaywcjlove-awesome-mac.md) | ⭐ 118.2k | Swift | 69/100 |
 | 34 | [kriuchkov/tock](./kriuchkov-tock.md) | ⭐ 505 | Go | 69/100 |
 | 35 | [Clipy/Clipy](./clipy-clipy.md) | ⭐ 9k | Swift | 68/100 |
 | 36 | [brettcannon/python-launcher](./brettcannon-python-launcher.md) | ⭐ 631 | Rust | 68/100 |
@@ -146,7 +146,7 @@
 | 136 | [kra-mo/cartridges](./kra-mo-cartridges.md) | ⭐ 823 | Python | 59/100 |
 | 137 | [timholy/Revise.jl](./timholy-revise.jl.md) | ⭐ 1.4k | Julia | 59/100 |
 | 138 | [poetaman/arttime](./poetaman-arttime.md) | ⭐ 1.4k | Shell | 59/100 |
-| 139 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 135.4k | TypeScript | 59/100 |
+| 139 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 135.5k | TypeScript | 59/100 |
 | 140 | [carapace-sh/carapace-bin](./carapace-sh-carapace-bin.md) | ⭐ 2k | Go | 59/100 |
 | 141 | [scalacenter/bloop](./scalacenter-bloop.md) | ⭐ 945 | Scala | 59/100 |
 | 142 | [bug-ops/helix-trainer](./bug-ops-helix-trainer.md) | ⭐ 92 | Rust | 58/100 |
@@ -201,7 +201,7 @@
 | 191 | [ghost-him/ZeroLaunch-rs](./ghost-him-zerolaunch-rs.md) | ⭐ 579 | Rust | 55/100 |
 | 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 360 | Rust | 55/100 |
 | 193 | [modrinth/code](./modrinth-code.md) | ⭐ 2.5k | Rust | 55/100 |
-| 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.6k | Rust | 55/100 |
+| 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.7k | Rust | 55/100 |
 | 195 | [openbezal/rhema](./openbezal-rhema.md) | ⭐ 357 | TypeScript | 54/100 |
 | 196 | [FCL-Team/FoldCraftLauncher](./fcl-team-foldcraftlauncher.md) | ⭐ 5.2k | Java | 54/100 |
 | 197 | [Xoshbin/asyar](./xoshbin-asyar.md) | ⭐ 989 | Rust | 54/100 |
@@ -312,8 +312,8 @@
 | 302 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 303 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 304 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 305 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
-| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
 | 307 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 308 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 309 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |
@@ -347,8 +347,8 @@
 | 337 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 338 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 339 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 340 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
-| 341 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 340 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 341 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
 | 342 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 343 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.7k | — | 38/100 |
 | 344 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

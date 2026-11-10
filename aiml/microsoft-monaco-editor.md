@@ -53,8 +53,8 @@ microsoft/monaco-editor：microsoft/monaco-editor helps add AI capability withou
 
 **Quality signals**
 
-- 46958 GitHub stars
-- 4167 forks
+- 46961 GitHub stars
+- 4166 forks
 - updated 2026-11-04
 - primary language: JavaScript
 - 10 topics

@@ -24,7 +24,7 @@
 | 14 | [flightlessmango/MangoHud](./flightlessmango-mangohud.md) | ⭐ 9.2k | C | 67/100 |
 | 15 | [MonoGame/MonoGame](./monogame-monogame.md) | ⭐ 14.6k | C# | 67/100 |
 | 16 | [X11Libre/xserver](./x11libre-xserver.md) | ⭐ 4.8k | C | 67/100 |
-| 17 | [mrdoob/three.js](./mrdoob-three.js.md) | ⭐ 118k | JavaScript | 66/100 |
+| 17 | [mrdoob/three.js](./mrdoob-three.js.md) | ⭐ 118.1k | JavaScript | 66/100 |
 | 18 | [godot-go/godot-go](./godot-go-godot-go.md) | ⭐ 760 | Go | 66/100 |
 | 19 | [antvis/G2](./antvis-g2.md) | ⭐ 12.7k | TypeScript | 66/100 |
 | 20 | [vulkano-rs/vulkano](./vulkano-rs-vulkano.md) | ⭐ 5.2k | Rust | 66/100 |
@@ -219,7 +219,7 @@
 | 209 | [dontpanic92/OpenPAL3](./dontpanic92-openpal3.md) | ⭐ 586 | Rust | 55/100 |
 | 210 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 470 | JavaScript | 55/100 |
 | 211 | [kool-engine/kool](./kool-engine-kool.md) | ⭐ 596 | Kotlin | 55/100 |
-| 212 | [bevyengine/bevy](./bevyengine-bevy.md) | ⭐ 49.6k | Rust | 55/100 |
+| 212 | [bevyengine/bevy](./bevyengine-bevy.md) | ⭐ 49.7k | Rust | 55/100 |
 | 213 | [mayakhalil-cmd/inoscula](./mayakhalil-cmd-inoscula.md) | ⭐ 7 | TypeScript | 55/100 |
 | 214 | [ProxyShard/ShardBrowser](./proxyshard-shardbrowser.md) | ⭐ 1.5k | TypeScript | 54/100 |
 | 215 | [MrDrElliot/LuminaEngine](./mrdrelliot-luminaengine.md) | ⭐ 557 | C++ | 54/100 |

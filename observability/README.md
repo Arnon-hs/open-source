@@ -22,7 +22,7 @@
 | 12 | [iipeace/guider](./iipeace-guider.md) | ⭐ 684 | Python | 72/100 |
 | 13 | [logtide-dev/logtide](./logtide-dev-logtide.md) | ⭐ 457 | TypeScript | 72/100 |
 | 14 | [ntop/ntopng](./ntop-ntopng.md) | ⭐ 8.3k | Lua | 72/100 |
-| 15 | [louislam/uptime-kuma](./louislam-uptime-kuma.md) | ⭐ 93.4k | JavaScript | 72/100 |
+| 15 | [louislam/uptime-kuma](./louislam-uptime-kuma.md) | ⭐ 93.5k | JavaScript | 72/100 |
 | 16 | [elastic/kibana](./elastic-kibana.md) | ⭐ 21.4k | TypeScript | 71/100 |
 | 17 | [prometheus-operator/prometheus-operator](./prometheus-operator-prometheus-operator.md) | ⭐ 10k | Go | 71/100 |
 | 18 | [inspektor-gadget/inspektor-gadget](./inspektor-gadget-inspektor-gadget.md) | ⭐ 3k | C | 71/100 |
@@ -69,7 +69,7 @@
 | 59 | [prometheus-erl/prometheus.erl](./prometheus-erl-prometheus.erl.md) | ⭐ 355 | Erlang | 65/100 |
 | 60 | [nci/scores](./nci-scores.md) | ⭐ 239 | Python | 65/100 |
 | 61 | [librenms/librenms](./librenms-librenms.md) | ⭐ 5k | PHP | 65/100 |
-| 62 | [henrygd/beszel](./henrygd-beszel.md) | ⭐ 27.1k | Go | 65/100 |
+| 62 | [henrygd/beszel](./henrygd-beszel.md) | ⭐ 27.2k | Go | 65/100 |
 | 63 | [alibahmanyar/simon](./alibahmanyar-simon.md) | ⭐ 161 | Rust | 64/100 |
 | 64 | [monitoring-plugins/monitoring-plugins](./monitoring-plugins-monitoring-plugins.md) | ⭐ 515 | C | 64/100 |
 | 65 | [minikin/cargo-crap](./minikin-cargo-crap.md) | ⭐ 432 | Rust | 64/100 |
@@ -189,7 +189,7 @@
 | 179 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 747 | — | 53/100 |
 | 180 | [elastic/elastic-agent](./elastic-elastic-agent.md) | ⭐ 290 | Go | 53/100 |
 | 181 | [bpftrace/bpftrace](./bpftrace-bpftrace.md) | ⭐ 10.4k | C++ | 53/100 |
-| 182 | [hagezi/dns-blocklists](./hagezi-dns-blocklists.md) | ⭐ 28.6k | Text | 53/100 |
+| 182 | [hagezi/dns-blocklists](./hagezi-dns-blocklists.md) | ⭐ 28.7k | Text | 53/100 |
 | 183 | [casareanderson/warden](./casareanderson-warden.md) | ⭐ 1 | Python | 52/100 |
 | 184 | [hyzyla/kibana-agent](./hyzyla-kibana-agent.md) | ⭐ 8 | — | 52/100 |
 | 185 | [GSI-HPC/lustre_exporter](./gsi-hpc-lustre-exporter.md) | ⭐ 30 | Go | 52/100 |

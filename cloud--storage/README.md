@@ -26,7 +26,7 @@
 | 16 | [Altinity/clickhouse-backup](./altinity-clickhouse-backup.md) | ⭐ 1.7k | Go | 77/100 |
 | 17 | [openinary/openinary](./openinary-openinary.md) | ⭐ 426 | TypeScript | 77/100 |
 | 18 | [projectsend/projectsend](./projectsend-projectsend.md) | ⭐ 2.1k | PHP | 77/100 |
-| 19 | [airbytehq/airbyte](./airbytehq-airbyte.md) | ⭐ 22.3k | Python | 77/100 |
+| 19 | [airbytehq/airbyte](./airbytehq-airbyte.md) | ⭐ 22.4k | Python | 77/100 |
 | 20 | [collinbarrett/FilterLists](./collinbarrett-filterlists.md) | ⭐ 1.7k | C# | 76/100 |
 | 21 | [savvyagents/larasend](./savvyagents-larasend.md) | ⭐ 494 | Vue | 76/100 |
 | 22 | [aws-amplify/amplify-cli](./aws-amplify-amplify-cli.md) | ⭐ 2.9k | TypeScript | 76/100 |

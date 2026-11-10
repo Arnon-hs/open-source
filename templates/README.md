@@ -15,7 +15,7 @@
 | 5 | [fastapi/full-stack-fastapi-template](./fastapi-full-stack-fastapi-template.md) | ⭐ 46.2k | TypeScript | 88/100 |
 | 6 | [Kiranism/next-shadcn-dashboard-starter](./kiranism-next-shadcn-dashboard-starter.md) | ⭐ 7.2k | TypeScript | 87/100 |
 | 7 | [vstorm-co/full-stack-ai-agent-template](./vstorm-co-full-stack-ai-agent-template.md) | ⭐ 2k | Python | 87/100 |
-| 8 | [enescingoz/awesome-n8n-templates](./enescingoz-awesome-n8n-templates.md) | ⭐ 26.3k | — | 86/100 |
+| 8 | [enescingoz/awesome-n8n-templates](./enescingoz-awesome-n8n-templates.md) | ⭐ 26.4k | — | 86/100 |
 | 9 | [GrapesJS/grapesjs](./grapesjs-grapesjs.md) | ⭐ 26.4k | TypeScript | 86/100 |
 | 10 | [ArnasDon/wacrm](./arnasdon-wacrm.md) | ⭐ 2.7k | TypeScript | 85/100 |
 | 11 | [daydreamsai/lucid-agents](./daydreamsai-lucid-agents.md) | ⭐ 201 | TypeScript | 84/100 |
@@ -84,7 +84,7 @@
 | 74 | [bitwize-music-studio/claude-ai-music-skills](./bitwize-music-studio-claude-ai-music-skills.md) | ⭐ 648 | Python | 77/100 |
 | 75 | [Sri-Krishna-V/awesome-adk-agents](./sri-krishna-v-awesome-adk-agents.md) | ⭐ 352 | Python | 77/100 |
 | 76 | [fabriziosalmi/lws](./fabriziosalmi-lws.md) | ⭐ 75 | Python | 77/100 |
-| 77 | [davila7/claude-code-templates](./davila7-claude-code-templates.md) | ⭐ 33.2k | Python | 77/100 |
+| 77 | [davila7/claude-code-templates](./davila7-claude-code-templates.md) | ⭐ 33.3k | Python | 77/100 |
 | 78 | [OpenTouryoProject/OpenTouryo](./opentouryoproject-opentouryo.md) | ⭐ 238 | C# | 76/100 |
 | 79 | [vbenjs/vue-vben-admin](./vbenjs-vue-vben-admin.md) | ⭐ 33.8k | Vue | 76/100 |
 | 80 | [e2b-dev/fragments](./e2b-dev-fragments.md) | ⭐ 6.4k | TypeScript | 76/100 |

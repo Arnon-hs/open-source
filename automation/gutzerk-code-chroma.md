@@ -1,6 +1,6 @@
 # gutzerk/code_chroma
 
-[![Stars](https://img.shields.io/github/stars/gutzerk/code_chroma?style=flat-square&color=yellow)](https://github.com/gutzerk/code_chroma/stargazers) [![Forks](https://img.shields.io/github/forks/gutzerk/code_chroma?style=flat-square&color=blue)](https://github.com/gutzerk/code_chroma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gutzerk/code_chroma?style=flat-square&color=yellow)](https://github.com/gutzerk/code_chroma/stargazers) [![Forks](https://img.shields.io/github/forks/gutzerk/code_chroma?style=flat-square&color=blue)](https://github.com/gutzerk/code_chroma/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -58,22 +58,22 @@ gutzerk/code_chroma：gutzerk/code_chroma helps remove repetitive manual operati
 - primary language: TypeScript
 - 4 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 34/100 |
-| production | 60/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 12/100 |
 | categoryMatchCount | 300/100 |
 | stars | 17/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

@@ -50,7 +50,7 @@
 | 40 | [nestjs/nest-cli](./nestjs-nest-cli.md) | ⭐ 2.2k | TypeScript | 78/100 |
 | 41 | [Redocly/redocly-cli](./redocly-redocly-cli.md) | ⭐ 1.6k | TypeScript | 77/100 |
 | 42 | [pion/turn](./pion-turn.md) | ⭐ 2.3k | Go | 77/100 |
-| 43 | [eclipse-theia/theia](./eclipse-theia-theia.md) | ⭐ 21.7k | TypeScript | 77/100 |
+| 43 | [eclipse-theia/theia](./eclipse-theia-theia.md) | ⭐ 21.8k | TypeScript | 77/100 |
 | 44 | [Wraient/curd](./wraient-curd.md) | ⭐ 336 | Go | 77/100 |
 | 45 | [quantumlib/Qualtran](./quantumlib-qualtran.md) | ⭐ 445 | Python | 77/100 |
 | 46 | [zalando/logbook](./zalando-logbook.md) | ⭐ 2.1k | Java | 77/100 |
@@ -78,7 +78,7 @@
 | 68 | [nocodb/nocodb](./nocodb-nocodb.md) | ⭐ 65.5k | TypeScript | 76/100 |
 | 69 | [parsecph/clobbr](./parsecph-clobbr.md) | ⭐ 241 | TypeScript | 76/100 |
 | 70 | [makenotion/notion-sdk-js](./makenotion-notion-sdk-js.md) | ⭐ 5.7k | TypeScript | 76/100 |
-| 71 | [cli/cli](./cli-cli.md) | ⭐ 46.9k | Go | 76/100 |
+| 71 | [cli/cli](./cli-cli.md) | ⭐ 47k | Go | 76/100 |
 | 72 | [mono/SkiaSharp](./mono-skiasharp.md) | ⭐ 5.6k | C# | 75/100 |
 | 73 | [vapor/console-kit](./vapor-console-kit.md) | ⭐ 585 | Swift | 75/100 |
 | 74 | [dropbox/dropbox-sdk-dotnet](./dropbox-dropbox-sdk-dotnet.md) | ⭐ 347 | C# | 75/100 |
@@ -134,7 +134,7 @@
 | 124 | [Swetrix/swetrix](./swetrix-swetrix.md) | ⭐ 1.2k | TypeScript | 73/100 |
 | 125 | [baserow/baserow](./baserow-baserow.md) | ⭐ 6.3k | Python | 73/100 |
 | 126 | [burnash/gspread](./burnash-gspread.md) | ⭐ 7.5k | Python | 72/100 |
-| 127 | [binwiederhier/ntfy](./binwiederhier-ntfy.md) | ⭐ 35.4k | Go | 72/100 |
+| 127 | [binwiederhier/ntfy](./binwiederhier-ntfy.md) | ⭐ 35.5k | Go | 72/100 |
 | 128 | [Arturo254/OpenTune](./arturo254-opentune.md) | ⭐ 1.8k | Kotlin | 72/100 |
 | 129 | [nicx17/mimick](./nicx17-mimick.md) | ⭐ 140 | Rust | 72/100 |
 | 130 | [redis/node-redis](./redis-node-redis.md) | ⭐ 17.6k | TypeScript | 72/100 |
@@ -336,13 +336,13 @@
 | 326 | [rundeck/rundeck-cli](./rundeck-rundeck-cli.md) | ⭐ 141 | Java | 67/100 |
 | 327 | [asyncapi/cli](./asyncapi-cli.md) | ⭐ 277 | TypeScript | 67/100 |
 | 328 | [FuzzyGrim/Yamtrack](./fuzzygrim-yamtrack.md) | ⭐ 3.8k | Python | 67/100 |
-| 329 | [public-apis/public-apis](./public-apis-public-apis.md) | ⭐ 497.6k | Python | 67/100 |
+| 329 | [public-apis/public-apis](./public-apis-public-apis.md) | ⭐ 497.9k | Python | 67/100 |
 | 330 | [fern-api/fern](./fern-api-fern.md) | ⭐ 3.8k | TypeScript | 67/100 |
 | 331 | [openfoodfacts/openfoodfacts-server](./openfoodfacts-openfoodfacts-server.md) | ⭐ 1.2k | HTML | 67/100 |
 | 332 | [WeblateOrg/weblate](./weblateorg-weblate.md) | ⭐ 6.2k | Python | 67/100 |
 | 333 | [Nelsar/Axia](./nelsar-axia.md) | ⭐ 9 | C# | 66/100 |
 | 334 | [bitwarden/cli](./bitwarden-cli.md) | ⭐ 1.7k | TypeScript | 66/100 |
-| 335 | [imthenachoman/How-To-Secure-A-Linux-Server](./imthenachoman-how-to-secure-a-linux-server.md) | ⭐ 32k | — | 66/100 |
+| 335 | [imthenachoman/How-To-Secure-A-Linux-Server](./imthenachoman-how-to-secure-a-linux-server.md) | ⭐ 32.1k | — | 66/100 |
 | 336 | [vercel/pkg](./vercel-pkg.md) | ⭐ 24.3k | JavaScript | 66/100 |
 | 337 | [vercube/vercube](./vercube-vercube.md) | ⭐ 114 | TypeScript | 66/100 |
 | 338 | [pivovarit/parallel-collectors](./pivovarit-parallel-collectors.md) | ⭐ 683 | Java | 66/100 |
@@ -391,13 +391,13 @@
 | 381 | [LizardByte/Sunshine](./lizardbyte-sunshine.md) | ⭐ 43.2k | C++ | 66/100 |
 | 382 | [radityajay/notionctl](./radityajay-notionctl.md) | ⭐ 2 | Go | 65/100 |
 | 383 | [shouvik12/devtv](./shouvik12-devtv.md) | ⭐ 40 | HTML | 65/100 |
-| 384 | [drizzle-team/drizzle-orm](./drizzle-team-drizzle-orm.md) | ⭐ 36.2k | TypeScript | 65/100 |
+| 384 | [drizzle-team/drizzle-orm](./drizzle-team-drizzle-orm.md) | ⭐ 36.3k | TypeScript | 65/100 |
 | 385 | [lollipopkit/flutter_server_box](./lollipopkit-flutter-server-box.md) | ⭐ 9k | Dart | 65/100 |
 | 386 | [ServiceStack/llms](./servicestack-llms.md) | ⭐ 630 | JavaScript | 65/100 |
 | 387 | [gbtami/pychess-variants](./gbtami-pychess-variants.md) | ⭐ 301 | Python | 65/100 |
 | 388 | [inventree/InvenTree](./inventree-inventree.md) | ⭐ 7.8k | Python | 65/100 |
-| 389 | [stashapp/stash](./stashapp-stash.md) | ⭐ 13.4k | Go | 65/100 |
-| 390 | [line/promgen](./line-promgen.md) | ⭐ 1.1k | Python | 65/100 |
+| 389 | [line/promgen](./line-promgen.md) | ⭐ 1.1k | Python | 65/100 |
+| 390 | [stashapp/stash](./stashapp-stash.md) | ⭐ 13.4k | Go | 65/100 |
 | 391 | [keygen-sh/keygen-api](./keygen-sh-keygen-api.md) | ⭐ 1.6k | Gherkin | 65/100 |
 | 392 | [zostera/django-bootstrap4](./zostera-django-bootstrap4.md) | ⭐ 1k | Python | 65/100 |
 | 393 | [sindresorhus/meow](./sindresorhus-meow.md) | ⭐ 3.7k | JavaScript | 65/100 |
@@ -475,8 +475,8 @@
 | 465 | [elastic/apm-server](./elastic-apm-server.md) | ⭐ 1.3k | Go | 63/100 |
 | 466 | [MicroPyramid/opensource-job-portal](./micropyramid-opensource-job-portal.md) | ⭐ 493 | HTML | 63/100 |
 | 467 | [joreilly/BikeShare](./joreilly-bikeshare.md) | ⭐ 828 | Jupyter Notebook | 63/100 |
-| 468 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
-| 469 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 368 | TypeScript | 63/100 |
+| 468 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 368 | TypeScript | 63/100 |
+| 469 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
 | 470 | [Karben233/bili-hardcore](./karben233-bili-hardcore.md) | ⭐ 2.4k | Rust | 63/100 |
 | 471 | [markitosgv/JWTRefreshTokenBundle](./markitosgv-jwtrefreshtokenbundle.md) | ⭐ 712 | PHP | 63/100 |
 | 472 | [ansible/vscode-ansible](./ansible-vscode-ansible.md) | ⭐ 492 | TypeScript | 63/100 |
@@ -518,7 +518,7 @@
 | 508 | [df-mc/dragonfly](./df-mc-dragonfly.md) | ⭐ 860 | Go | 63/100 |
 | 509 | [variety/variety](./variety-variety.md) | ⭐ 1.8k | JavaScript | 63/100 |
 | 510 | [napi-rs/napi-rs](./napi-rs-napi-rs.md) | ⭐ 8k | Rust | 63/100 |
-| 511 | [neovim/neovim](./neovim-neovim.md) | ⭐ 103.5k | Vim Script | 63/100 |
+| 511 | [neovim/neovim](./neovim-neovim.md) | ⭐ 103.6k | Vim Script | 63/100 |
 | 512 | [Adel1637/hr-dashboard-lite](./adel1637-hr-dashboard-lite.md) | ⭐ — | Python | 63/100 |
 | 513 | [dlt-hub/verified-sources](./dlt-hub-verified-sources.md) | ⭐ 126 | Python | 62/100 |
 | 514 | [BistaDinesh03/critique](./bistadinesh03-critique.md) | ⭐ 15 | Python | 62/100 |
@@ -575,8 +575,8 @@
 | 565 | [GSManagerXZ/GameServerManager](./gsmanagerxz-gameservermanager.md) | ⭐ 1.1k | TypeScript | 61/100 |
 | 566 | [vehagn/homelab](./vehagn-homelab.md) | ⭐ 402 | HCL | 61/100 |
 | 567 | [mesamirh/MovieBox-Tui](./mesamirh-moviebox-tui.md) | ⭐ 2.8k | Rust | 61/100 |
-| 568 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
-| 569 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
+| 568 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
+| 569 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
 | 570 | [simonepri/sympact](./simonepri-sympact.md) | ⭐ 441 | JavaScript | 61/100 |
 | 571 | [chung-leong/zigar](./chung-leong-zigar.md) | ⭐ 442 | Zig | 61/100 |
 | 572 | [rejetto/hfs](./rejetto-hfs.md) | ⭐ 4k | TypeScript | 61/100 |
@@ -706,7 +706,7 @@
 | 696 | [typetron/typetron](./typetron-typetron.md) | ⭐ 191 | TypeScript | 58/100 |
 | 697 | [litestar-org/advanced-alchemy](./litestar-org-advanced-alchemy.md) | ⭐ 817 | Python | 58/100 |
 | 698 | [oasdiff/oasdiff](./oasdiff-oasdiff.md) | ⭐ 1.5k | Go | 58/100 |
-| 699 | [pnpm/pnpm](./pnpm-pnpm.md) | ⭐ 37k | TypeScript | 58/100 |
+| 699 | [pnpm/pnpm](./pnpm-pnpm.md) | ⭐ 37.1k | TypeScript | 58/100 |
 | 700 | [cot-rs/cot](./cot-rs-cot.md) | ⭐ 1.1k | Rust | 58/100 |
 | 701 | [secretlint/secretlint](./secretlint-secretlint.md) | ⭐ 1.5k | TypeScript | 58/100 |
 | 702 | [sigma67/ytmusicapi](./sigma67-ytmusicapi.md) | ⭐ 3.1k | Python | 58/100 |
@@ -716,8 +716,8 @@
 | 706 | [mtalavi/coolify-mirror](./mtalavi-coolify-mirror.md) | ⭐ 19 | Go | 57/100 |
 | 707 | [bklaric/purescript-bklaric](./bklaric-purescript-bklaric.md) | ⭐ 1 | — | 57/100 |
 | 708 | [bklaric/team-tavern](./bklaric-team-tavern.md) | ⭐ 13 | — | 57/100 |
-| 709 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 61 | JavaScript | 57/100 |
-| 710 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 72 | JavaScript | 57/100 |
+| 709 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 72 | JavaScript | 57/100 |
+| 710 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 61 | JavaScript | 57/100 |
 | 711 | [HFQR/xitca-web](./hfqr-xitca-web.md) | ⭐ 1k | Rust | 57/100 |
 | 712 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 454 | JavaScript | 57/100 |
 | 713 | [speed-highlight/core](./speed-highlight-core.md) | ⭐ 416 | JavaScript | 57/100 |
@@ -804,8 +804,8 @@
 | 794 | [sozercan/kaset](./sozercan-kaset.md) | ⭐ 2.5k | Swift | 55/100 |
 | 795 | [ClickHouse/clickhouse-js](./clickhouse-clickhouse-js.md) | ⭐ 331 | TypeScript | 55/100 |
 | 796 | [typegoose/typegoose](./typegoose-typegoose.md) | ⭐ 2.3k | TypeScript | 55/100 |
-| 797 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 402 | Python | 55/100 |
-| 798 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
+| 797 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
+| 798 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 402 | Python | 55/100 |
 | 799 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2.2k | JavaScript | 55/100 |
 | 800 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 268 | — | 55/100 |
 | 801 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 11.1k | Rust | 55/100 |

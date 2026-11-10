@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [gogs/gogs](./gogs-gogs.md) | ⭐ 47.9k | Go | 76/100 |
-| 2 | [gitroomhq/postiz-app](./gitroomhq-postiz-app.md) | ⭐ 41.2k | TypeScript | 76/100 |
+| 2 | [gitroomhq/postiz-app](./gitroomhq-postiz-app.md) | ⭐ 41.3k | TypeScript | 76/100 |
 | 3 | [labring/sealos](./labring-sealos.md) | ⭐ 18.4k | TypeScript | 76/100 |
 | 4 | [lionsoul2014/ip2region](./lionsoul2014-ip2region.md) | ⭐ 19.9k | Java | 75/100 |
 | 5 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 18.1k | Go | 74/100 |
@@ -568,15 +568,15 @@
 | 558 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 559 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 560 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 561 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
-| 562 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
+| 561 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
+| 562 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
 | 563 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 564 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 565 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 566 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 567 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 104 | — | 38/100 |
-| 568 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
-| 569 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 568 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 569 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
 | 570 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 571 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 572 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

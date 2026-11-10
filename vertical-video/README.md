@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [harry0703/MoneyPrinterTurbo](./harry0703-moneyprinterturbo.md) | ⭐ 141.6k | Python | 85/100 |
+| 1 | [harry0703/MoneyPrinterTurbo](./harry0703-moneyprinterturbo.md) | ⭐ 142k | Python | 85/100 |
 | 2 | [NaufalRizqullah/opensource-clipping](./naufalrizqullah-opensource-clipping.md) | ⭐ 230 | Python | 84/100 |
 | 3 | [jipraks/yt-short-clipper](./jipraks-yt-short-clipper.md) | ⭐ 1.1k | TypeScript | 84/100 |
 | 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 912 | TypeScript | 83/100 |
@@ -167,8 +167,8 @@
 | 157 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 2.4k | JavaScript | 50/100 |
 | 158 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ 1 | — | 48/100 |
 | 159 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 42 | — | 47/100 |
-| 160 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
-| 161 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
+| 160 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
+| 161 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
 | 162 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 37 | JavaScript | 47/100 |
 | 163 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
 | 164 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |

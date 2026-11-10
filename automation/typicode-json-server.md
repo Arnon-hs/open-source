@@ -53,8 +53,8 @@ typicode/json-server：typicode/json-server helps remove repetitive manual opera
 
 **Quality signals**
 
-- 75734 GitHub stars
-- 7283 forks
+- 75733 GitHub stars
+- 7280 forks
 - updated 2026-11-05
 - primary language: JavaScript
 - 12 topics

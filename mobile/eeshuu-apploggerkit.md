@@ -1,6 +1,6 @@
 # eeshuu/AppLoggerKit
 
-[![Stars](https://img.shields.io/github/stars/eeshuu/AppLoggerKit?style=flat-square&color=yellow)](https://github.com/eeshuu/AppLoggerKit/stargazers) [![Forks](https://img.shields.io/github/forks/eeshuu/AppLoggerKit?style=flat-square&color=blue)](https://github.com/eeshuu/AppLoggerKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eeshuu/AppLoggerKit?style=flat-square&color=yellow)](https://github.com/eeshuu/AppLoggerKit/stargazers) [![Forks](https://img.shields.io/github/forks/eeshuu/AppLoggerKit?style=flat-square&color=blue)](https://github.com/eeshuu/AppLoggerKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Privacy-conscious logging and local diagnostics for Swift, SwiftUI and UIKit: OSLog, JSON Lines files, redaction, search and export. Swift Package Manager, no dependencies.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -51,6 +51,7 @@ eeshuu/AppLoggerKit：eeshuu/AppLoggerKit may be useful when its README and acti
 
 **Quality signals**
 
+- 2 GitHub stars
 - updated 2026-11-10
 - primary language: Swift
 
@@ -61,13 +62,13 @@ eeshuu/AppLoggerKit：eeshuu/AppLoggerKit may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 39/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 50/100 |
-| adoption | 0/100 |
+| production | 56/100 |
+| outlook | 52/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 100/100 |
-| stars | 0/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 0/100 |
