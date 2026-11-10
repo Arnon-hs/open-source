@@ -1,6 +1,6 @@
 # scidonia/lexpat
 
-[![Stars](https://img.shields.io/github/stars/scidonia/lexpat?style=flat-square&color=yellow)](https://github.com/scidonia/lexpat/stargazers) [![Forks](https://img.shields.io/github/forks/scidonia/lexpat?style=flat-square&color=blue)](https://github.com/scidonia/lexpat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/scidonia/lexpat?style=flat-square&color=yellow)](https://github.com/scidonia/lexpat/stargazers) [![Forks](https://img.shields.io/github/forks/scidonia/lexpat?style=flat-square&color=blue)](https://github.com/scidonia/lexpat/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A Lean 4 port of libexpat's XML 1.0 parsing semantics, aimed at untrusted input.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-10-23 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ scidonia/lexpat：scidonia/lexpat helps catch security and privacy issues earlie
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-10-23
 - primary language: Python
 - 6 topics
@@ -64,13 +65,13 @@ scidonia/lexpat：scidonia/lexpat helps catch security and privacy issues earlie
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 37/100 |
+| quality | 39/100 |
 | integration | 46/100 |
-| production | 48/100 |
-| outlook | 44/100 |
-| adoption | 0/100 |
+| production | 49/100 |
+| outlook | 45/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 100/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 60/100 |
 | topics | 75/100 |

@@ -1,6 +1,6 @@
 # somnathraz/nextjs-webgl-templates
 
-[![Stars](https://img.shields.io/github/stars/somnathraz/nextjs-webgl-templates?style=flat-square&color=yellow)](https://github.com/somnathraz/nextjs-webgl-templates/stargazers) [![Forks](https://img.shields.io/github/forks/somnathraz/nextjs-webgl-templates?style=flat-square&color=blue)](https://github.com/somnathraz/nextjs-webgl-templates/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/somnathraz/nextjs-webgl-templates?style=flat-square&color=yellow)](https://github.com/somnathraz/nextjs-webgl-templates/stargazers) [![Forks](https://img.shields.io/github/forks/somnathraz/nextjs-webgl-templates?style=flat-square&color=blue)](https://github.com/somnathraz/nextjs-webgl-templates/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > 13 open-source Next.js + React Three Fiber / WebGL templates: raymarching, GPU fluids, particles, scroll-driven 3D. MIT.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-11-05 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ somnathraz/nextjs-webgl-templates：somnathraz/nextjs-webgl-templates helps team
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-05
 - primary language: TypeScript
 - 12 topics
@@ -64,13 +65,13 @@ somnathraz/nextjs-webgl-templates：somnathraz/nextjs-webgl-templates helps team
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 57/100 |
-| adoption | 0/100 |
+| production | 59/100 |
+| outlook | 58/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 400/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

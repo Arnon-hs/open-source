@@ -199,8 +199,8 @@
 | 189 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 103 | Swift | 67/100 |
 | 190 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 226 | Python | 67/100 |
 | 191 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 305 | TypeScript | 67/100 |
-| 192 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 253 | JavaScript | 67/100 |
-| 193 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 373 | TypeScript | 67/100 |
+| 192 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 373 | TypeScript | 67/100 |
+| 193 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 253 | JavaScript | 67/100 |
 | 194 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 239 | Go | 67/100 |
 | 195 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 196 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 133 | Python | 67/100 |
@@ -550,10 +550,10 @@
 | 540 | [gladiaio/gladia-cli](./gladiaio-gladia-cli.md) | ⭐ 25 | — | 49/100 |
 | 541 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 589 | JavaScript | 49/100 |
 | 542 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 11 | — | 48/100 |
-| 543 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ — | Dart | 48/100 |
+| 543 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 544 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 2 | Python | 48/100 |
-| 545 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
-| 546 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
+| 545 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ — | — | 48/100 |
+| 546 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ — | — | 48/100 |
 | 547 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 548 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 32 | — | 48/100 |
 | 549 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ — | — | 48/100 |
@@ -594,7 +594,7 @@
 | 584 | [shareefmx/minomeet](./shareefmx-minomeet.md) | ⭐ 3 | TypeScript | 44/100 |
 | 585 | [NapoleonWils0n/ffmpeg-scripts](./napoleonwils0n-ffmpeg-scripts.md) | ⭐ 276 | Shell | 43/100 |
 | 586 | [diffusionstudio/editor](./diffusionstudio-editor.md) | ⭐ 3.5k | — | 42/100 |
-| 587 | [ronak-create/FableCut](./ronak-create-fablecut.md) | ⭐ — | — | 42/100 |
+| 587 | [ronak-create/FableCut](./ronak-create-fablecut.md) | ⭐ 789 | — | 42/100 |
 | 588 | [JeffreyHamilton6399/ShrinkRay](./jeffreyhamilton6399-shrinkray.md) | ⭐ 1 | — | 42/100 |
 | 589 | [wojciechowskiapp/Kaption](./wojciechowskiapp-kaption.md) | ⭐ — | — | 42/100 |
 | 590 | [DeegoFronk/Auto-Vod-Trimmer](./deegofronk-auto-vod-trimmer.md) | ⭐ 5 | — | 42/100 |
@@ -603,8 +603,8 @@
 | 593 | [acalejos/CinEx](./acalejos-cinex.md) | ⭐ 142 | — | 41/100 |
 | 594 | [hydope/shortsmash](./hydope-shortsmash.md) | ⭐ 3 | — | 41/100 |
 | 595 | [effessdev/GiffyPy](./effessdev-giffypy.md) | ⭐ 5 | Python | 41/100 |
-| 596 | [ranahaani/i-hate-editing](./ranahaani-i-hate-editing.md) | ⭐ — | — | 41/100 |
-| 597 | [soirihiroka/shrimply](./soirihiroka-shrimply.md) | ⭐ — | — | 41/100 |
+| 596 | [ranahaani/i-hate-editing](./ranahaani-i-hate-editing.md) | ⭐ 103 | — | 41/100 |
+| 597 | [soirihiroka/shrimply](./soirihiroka-shrimply.md) | ⭐ 1.2k | — | 41/100 |
 | 598 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ 521 | — | 41/100 |
 | 599 | [Vanilagy/turbores](./vanilagy-turbores.md) | ⭐ — | — | 41/100 |
 | 600 | [lethanhvietctt5/lightshot](./lethanhvietctt5-lightshot.md) | ⭐ 1 | Swift | 40/100 |
@@ -616,9 +616,9 @@
 | 606 | [DonkeyCut/Donkey](./donkeycut-donkey.md) | ⭐ 336 | — | 38/100 |
 | 607 | [akshinmrv/Voxa](./akshinmrv-voxa.md) | ⭐ 20 | — | 38/100 |
 | 608 | [heng30/wayshot](./heng30-wayshot.md) | ⭐ 67 | — | 38/100 |
-| 609 | [rokib16x/listnr](./rokib16x-listnr.md) | ⭐ — | — | 38/100 |
+| 609 | [rokib16x/listnr](./rokib16x-listnr.md) | ⭐ 17 | — | 38/100 |
 | 610 | [VladUZH/qwen-scribe](./vladuzh-qwen-scribe.md) | ⭐ — | — | 38/100 |
-| 611 | [Relo-video/SynthCut](./relo-video-synthcut.md) | ⭐ — | — | 38/100 |
+| 611 | [Relo-video/SynthCut](./relo-video-synthcut.md) | ⭐ 47 | — | 38/100 |
 | 612 | [khaledalam/avatoon](./khaledalam-avatoon.md) | ⭐ 20 | — | 38/100 |
 | 613 | [HeyMeco/MecoScribe](./heymeco-mecoscribe.md) | ⭐ — | — | 38/100 |
 | 614 | [google-deepmind/speech-compass](./google-deepmind-speech-compass.md) | ⭐ 18 | — | 38/100 |

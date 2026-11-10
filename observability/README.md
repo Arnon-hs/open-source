@@ -213,8 +213,8 @@
 | 203 | [NodeSeekDev/NodeGet](./nodeseekdev-nodeget.md) | ⭐ 315 | Rust | 50/100 |
 | 204 | [netxms/netxms](./netxms-netxms.md) | ⭐ 425 | C++ | 50/100 |
 | 205 | [chirrop/chirrop-mcp](./chirrop-chirrop-mcp.md) | ⭐ 1 | — | 49/100 |
-| 206 | [Sjoerd305/tlswatch](./sjoerd305-tlswatch.md) | ⭐ — | — | 49/100 |
-| 207 | [sonic0002/eavesong](./sonic0002-eavesong.md) | ⭐ — | — | 49/100 |
+| 206 | [Sjoerd305/tlswatch](./sjoerd305-tlswatch.md) | ⭐ 3 | — | 49/100 |
+| 207 | [sonic0002/eavesong](./sonic0002-eavesong.md) | ⭐ 6 | — | 49/100 |
 | 208 | [PrefilerLabs/reliamesh](./prefilerlabs-reliamesh.md) | ⭐ 5 | — | 49/100 |
 | 209 | [yuyalapis/agentic-telemetry](./yuyalapis-agentic-telemetry.md) | ⭐ — | — | 49/100 |
 | 210 | [GG95-lab/FreshThread-app](./gg95-lab-freshthread-app.md) | ⭐ 1 | — | 49/100 |
@@ -239,7 +239,7 @@
 | 229 | [munimtechnologies/px4-log-health](./munimtechnologies-px4-log-health.md) | ⭐ — | Python | 46/100 |
 | 230 | [mohitdebian/relay](./mohitdebian-relay.md) | ⭐ — | TypeScript | 46/100 |
 | 231 | [kontext-security/sandy](./kontext-security-sandy.md) | ⭐ 5 | — | 46/100 |
-| 232 | [Somnora/GSPOT](./somnora-gspot.md) | ⭐ — | — | 46/100 |
+| 232 | [Somnora/GSPOT](./somnora-gspot.md) | ⭐ 7 | — | 46/100 |
 | 233 | [CortexFlow/CortexBrain](./cortexflow-cortexbrain.md) | ⭐ 93 | — | 46/100 |
 | 234 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 334 | Java | 46/100 |
 | 235 | [lxyeternal/NPMAnalysis](./lxyeternal-npmanalysis.md) | ⭐ 3 | — | 46/100 |
@@ -268,14 +268,14 @@
 | 258 | [alexander-akhmetov/grafana-agento11y-hermes](./alexander-akhmetov-grafana-agento11y-hermes.md) | ⭐ 49 | — | 42/100 |
 | 259 | [coroot/rca-lab](./coroot-rca-lab.md) | ⭐ 38 | — | 42/100 |
 | 260 | [Tboworst/beacon](./tboworst-beacon.md) | ⭐ — | — | 42/100 |
-| 261 | [SmolNero/quack](./smolnero-quack.md) | ⭐ — | — | 42/100 |
+| 261 | [SmolNero/quack](./smolnero-quack.md) | ⭐ 2 | — | 42/100 |
 | 262 | [varmax2511/trail](./varmax2511-trail.md) | ⭐ — | — | 42/100 |
 | 263 | [tachyontec/pi-sd-monitor](./tachyontec-pi-sd-monitor.md) | ⭐ — | — | 42/100 |
 | 264 | [aibudaevv/sip-exporter](./aibudaevv-sip-exporter.md) | ⭐ 58 | — | 42/100 |
 | 265 | [eric-tramel/moraine](./eric-tramel-moraine.md) | ⭐ 116 | — | 42/100 |
 | 266 | [Faultsense/faultsense-agent](./faultsense-faultsense-agent.md) | ⭐ 4 | — | 42/100 |
 | 267 | [amitbidlan/zistica-lumin](./amitbidlan-zistica-lumin.md) | ⭐ 2 | — | 42/100 |
-| 268 | [rbmuller/scherlok](./rbmuller-scherlok.md) | ⭐ — | — | 42/100 |
+| 268 | [rbmuller/scherlok](./rbmuller-scherlok.md) | ⭐ 14 | — | 42/100 |
 | 269 | [dooly6276/claude-bulkhead](./dooly6276-claude-bulkhead.md) | ⭐ 27 | — | 41/100 |
 | 270 | [lagudafuadtosin/inline-logs](./lagudafuadtosin-inline-logs.md) | ⭐ 1 | — | 41/100 |
 | 271 | [jonprice0/architecture-of-failure](./jonprice0-architecture-of-failure.md) | ⭐ 1 | — | 41/100 |
@@ -286,7 +286,7 @@
 | 276 | [nico/ninjatracing](./nico-ninjatracing.md) | ⭐ 530 | — | 41/100 |
 | 277 | [LogneBudo/llmxray](./lognebudo-llmxray.md) | ⭐ 28 | — | 41/100 |
 | 278 | [jdleonruiz/estela-cli](./jdleonruiz-estela-cli.md) | ⭐ 3 | — | 41/100 |
-| 279 | [sponsoredlogs/sponsored-logs-rs](./sponsoredlogs-sponsored-logs-rs.md) | ⭐ — | — | 41/100 |
+| 279 | [sponsoredlogs/sponsored-logs-rs](./sponsoredlogs-sponsored-logs-rs.md) | ⭐ 3 | — | 41/100 |
 | 280 | [datadog-labs/reflex](./datadog-labs-reflex.md) | ⭐ 34 | — | 41/100 |
 | 281 | [dpaneda/pico_exporter](./dpaneda-pico-exporter.md) | ⭐ 6 | — | 41/100 |
 | 282 | [ghuntley/nix-compact](./ghuntley-nix-compact.md) | ⭐ 19 | — | 41/100 |
@@ -295,7 +295,7 @@
 | 285 | [arhuman/dllog](./arhuman-dllog.md) | ⭐ 7 | — | 41/100 |
 | 286 | [dx111ge/podshl](./dx111ge-podshl.md) | ⭐ 1 | — | 41/100 |
 | 287 | [alhanashi/Desktop-Overlay](./alhanashi-desktop-overlay.md) | ⭐ 2 | — | 41/100 |
-| 288 | [sponsoredlogs/sponsored_logs](./sponsoredlogs-sponsored-logs.md) | ⭐ — | — | 41/100 |
+| 288 | [sponsoredlogs/sponsored_logs](./sponsoredlogs-sponsored-logs.md) | ⭐ 24 | — | 41/100 |
 | 289 | [hashem1983jordan-cmd/raster-to-vector-benchmark](./hashem1983jordan-cmd-raster-to-vector-benchmark.md) | ⭐ — | JavaScript | 41/100 |
 | 290 | [ImmersiveFusion/snowglobe](./immersivefusion-snowglobe.md) | ⭐ 20 | — | 41/100 |
 | 291 | [Jeffy123-zhu/logspecter](./jeffy123-zhu-logspecter.md) | ⭐ 5 | — | 41/100 |
@@ -311,7 +311,7 @@
 | 301 | [aniket-work/LaneSchema](./aniket-work-laneschema.md) | ⭐ — | Python | 39/100 |
 | 302 | [lowkey-studio/quotatrace](./lowkey-studio-quotatrace.md) | ⭐ 1 | JavaScript | 39/100 |
 | 303 | [arywk40-hue/citetutor](./arywk40-hue-citetutor.md) | ⭐ — | Python | 39/100 |
-| 304 | [Rishikesh-glitch/Cloakwall-v0.1](./rishikesh-glitch-cloakwall-v0.1.md) | ⭐ — | — | 38/100 |
+| 304 | [Rishikesh-glitch/Cloakwall-v0.1](./rishikesh-glitch-cloakwall-v0.1.md) | ⭐ 1 | — | 38/100 |
 | 305 | [llm-measurement/otelcol-genai-sketches](./llm-measurement-otelcol-genai-sketches.md) | ⭐ 5 | — | 38/100 |
 | 306 | [ykjit/yk](./ykjit-yk.md) | ⭐ — | — | 38/100 |
 | 307 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ 1 | — | 38/100 |
@@ -323,13 +323,13 @@
 | 313 | [swiftlogicsystems/swifttopology](./swiftlogicsystems-swifttopology.md) | ⭐ — | — | 38/100 |
 | 314 | [JustinNarracott/ShadowGlass](./justinnarracott-shadowglass.md) | ⭐ 2 | — | 38/100 |
 | 315 | [endformdev/playwright-opentelemetry](./endformdev-playwright-opentelemetry.md) | ⭐ 27 | — | 38/100 |
-| 316 | [sanitizeai/logguardai](./sanitizeai-logguardai.md) | ⭐ — | — | 38/100 |
+| 316 | [sanitizeai/logguardai](./sanitizeai-logguardai.md) | ⭐ 3 | — | 38/100 |
 | 317 | [skuznetsov/tokenomics-viewer](./skuznetsov-tokenomics-viewer.md) | ⭐ — | — | 38/100 |
 | 318 | [hieuha/LazyCamHUD](./hieuha-lazycamhud.md) | ⭐ 1 | — | 38/100 |
 | 319 | [halidecx/fmetrics](./halidecx-fmetrics.md) | ⭐ 24 | — | 38/100 |
 | 320 | [OmarH-creator/ShareClean](./omarh-creator-shareclean.md) | ⭐ 22 | — | 38/100 |
 | 321 | [superlinked/synty](./superlinked-synty.md) | ⭐ — | — | 38/100 |
-| 322 | [runout77/contrek](./runout77-contrek.md) | ⭐ — | — | 38/100 |
+| 322 | [runout77/contrek](./runout77-contrek.md) | ⭐ 6 | — | 38/100 |
 | 323 | [tracewayapp/traceway](./tracewayapp-traceway.md) | ⭐ — | — | 38/100 |
 | 324 | [AyushSingh110/Failure_Intelligence_System](./ayushsingh110-failure-intelligence-system.md) | ⭐ 6 | Jupyter Notebook | 35/100 |
 | 325 | [SushrutVaidya/loglens](./sushrutvaidya-loglens.md) | ⭐ 1 | Java | 31/100 |

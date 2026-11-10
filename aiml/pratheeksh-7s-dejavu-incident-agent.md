@@ -1,6 +1,6 @@
 # Pratheeksh-7S/dejavu-incident-agent
 
-[![Stars](https://img.shields.io/github/stars/Pratheeksh-7S/dejavu-incident-agent?style=flat-square&color=yellow)](https://github.com/Pratheeksh-7S/dejavu-incident-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Pratheeksh-7S/dejavu-incident-agent?style=flat-square&color=blue)](https://github.com/Pratheeksh-7S/dejavu-incident-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Pratheeksh-7S/dejavu-incident-agent?style=flat-square&color=yellow)](https://github.com/Pratheeksh-7S/dejavu-incident-agent/stargazers) [![Forks](https://img.shields.io/github/forks/Pratheeksh-7S/dejavu-incident-agent?style=flat-square&color=blue)](https://github.com/Pratheeksh-7S/dejavu-incident-agent/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ Pratheeksh-7S/dejavu-incident-agent：Pratheeksh-7S/dejavu-incident-agent helps 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 34/100 |
-| production | 59/100 |
-| outlook | 59/100 |
+| production | 52/100 |
+| outlook | 52/100 |
 | adoption | 3/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 12/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

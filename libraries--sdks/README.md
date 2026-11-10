@@ -209,7 +209,7 @@
 | 199 | [vhspace/sdl3-rs](./vhspace-sdl3-rs.md) | ⭐ 402 | Rust | 53/100 |
 | 200 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.4k | Rust | 53/100 |
 | 201 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.5k | Kotlin | 53/100 |
-| 202 | [snowtech738-byte/auria-chain](./snowtech738-byte-auria-chain.md) | ⭐ — | — | 52/100 |
+| 202 | [snowtech738-byte/auria-chain](./snowtech738-byte-auria-chain.md) | ⭐ 1 | — | 52/100 |
 | 203 | [meta-models/muse-code-sdk](./meta-models-muse-code-sdk.md) | ⭐ 86 | TypeScript | 52/100 |
 | 204 | [stepfunc/rodbus](./stepfunc-rodbus.md) | ⭐ 111 | Rust | 52/100 |
 | 205 | [apache/datasketches-rust](./apache-datasketches-rust.md) | ⭐ 142 | Rust | 52/100 |
@@ -221,7 +221,7 @@
 | 211 | [borchero/ducklake-sdk](./borchero-ducklake-sdk.md) | ⭐ 65 | — | 52/100 |
 | 212 | [yury/cidre](./yury-cidre.md) | ⭐ 225 | Rust | 52/100 |
 | 213 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 505 | Rust | 52/100 |
-| 214 | [squirix/squirix](./squirix-squirix.md) | ⭐ — | C# | 51/100 |
+| 214 | [squirix/squirix](./squirix-squirix.md) | ⭐ 1 | C# | 51/100 |
 | 215 | [apple/apple-ads-platform-api-node](./apple-apple-ads-platform-api-node.md) | ⭐ 6 | TypeScript | 51/100 |
 | 216 | [embedder-dev/pytrace](./embedder-dev-pytrace.md) | ⭐ 19 | — | 51/100 |
 | 217 | [abhinav00anand/viento](./abhinav00anand-viento.md) | ⭐ 1 | Python | 51/100 |
@@ -246,7 +246,7 @@
 | 236 | [jonhoo/rust-ibverbs](./jonhoo-rust-ibverbs.md) | ⭐ 235 | Rust | 49/100 |
 | 237 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 217 | JavaScript | 49/100 |
 | 238 | [apple-auth/apple-auth](./apple-auth-apple-auth.md) | ⭐ 2 | — | 48/100 |
-| 239 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ — | — | 48/100 |
+| 239 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ 99 | — | 48/100 |
 | 240 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |
 | 241 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ — | — | 48/100 |
 | 242 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ 2.7k | — | 48/100 |
@@ -263,13 +263,13 @@
 | 253 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 5.1k | Rust | 47/100 |
 | 254 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 124 | Rust | 46/100 |
 | 255 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.6k | Rust | 46/100 |
-| 256 | [sandrpod/sandrpod](./sandrpod-sandrpod.md) | ⭐ — | — | 45/100 |
-| 257 | [RanjithRagavan/Noctua](./ranjithragavan-noctua.md) | ⭐ — | — | 45/100 |
+| 256 | [sandrpod/sandrpod](./sandrpod-sandrpod.md) | ⭐ 4 | — | 45/100 |
+| 257 | [RanjithRagavan/Noctua](./ranjithragavan-noctua.md) | ⭐ 3 | — | 45/100 |
 | 258 | [BandarLabs/Cobalt](./bandarlabs-cobalt.md) | ⭐ 430 | — | 45/100 |
 | 259 | [Vivek76760/shatachandra-shield-sdk](./vivek76760-shatachandra-shield-sdk.md) | ⭐ — | — | 45/100 |
 | 260 | [bbenchoff/AGaMEMnon](./bbenchoff-agamemnon.md) | ⭐ 63 | — | 45/100 |
-| 261 | [s2-streamstore/nfs-crust](./s2-streamstore-nfs-crust.md) | ⭐ — | — | 45/100 |
-| 262 | [steel-experiments/atlas-demo](./steel-experiments-atlas-demo.md) | ⭐ — | — | 45/100 |
+| 261 | [s2-streamstore/nfs-crust](./s2-streamstore-nfs-crust.md) | ⭐ 9 | — | 45/100 |
+| 262 | [steel-experiments/atlas-demo](./steel-experiments-atlas-demo.md) | ⭐ 2 | — | 45/100 |
 | 263 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |
 | 264 | [tpkarras/BasicOboe](./tpkarras-basicoboe.md) | ⭐ — | — | 44/100 |
 | 265 | [egoisutolabs/scipgo](./egoisutolabs-scipgo.md) | ⭐ 8 | — | 44/100 |

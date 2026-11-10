@@ -342,7 +342,7 @@
 | 332 | [FlowComputeClient/flowcompute](./flowcomputeclient-flowcompute.md) | ⭐ 10 | — | 41/100 |
 | 333 | [enkiruntime/enki](./enkiruntime-enki.md) | ⭐ 15 | — | 41/100 |
 | 334 | [xanpavle/rocmfix](./xanpavle-rocmfix.md) | ⭐ — | — | 41/100 |
-| 335 | [rccmb/oracle](./rccmb-oracle.md) | ⭐ — | — | 41/100 |
+| 335 | [rccmb/oracle](./rccmb-oracle.md) | ⭐ 9 | — | 41/100 |
 | 336 | [aethelisdev/aeon-engine](./aethelisdev-aeon-engine.md) | ⭐ 25 | — | 41/100 |
 | 337 | [asallay/godot-llm](./asallay-godot-llm.md) | ⭐ 45 | — | 41/100 |
 | 338 | [leejet/stable-diffusion.cpp](./leejet-stable-diffusion.cpp.md) | ⭐ 8k | — | 40/100 |
@@ -350,7 +350,7 @@
 | 340 | [alwaysaladdin/queens-game-engine](./alwaysaladdin-queens-game-engine.md) | ⭐ — | TypeScript | 39/100 |
 | 341 | [Pengeszikra/Spider-Paint](./pengeszikra-spider-paint.md) | ⭐ 1 | HTML | 39/100 |
 | 342 | [111nation/TinyEngine](./111nation-tinyengine.md) | ⭐ 3 | — | 38/100 |
-| 343 | [serjster/neowon](./serjster-neowon.md) | ⭐ — | — | 38/100 |
+| 343 | [serjster/neowon](./serjster-neowon.md) | ⭐ 14 | — | 38/100 |
 | 344 | [David-OConnor/graphics](./david-oconnor-graphics.md) | ⭐ 21 | — | 38/100 |
 | 345 | [float64co/Phi](./float64co-phi.md) | ⭐ 3 | — | 38/100 |
 | 346 | [AmelieHeinrich/agfx](./amelieheinrich-agfx.md) | ⭐ 149 | — | 38/100 |
@@ -364,9 +364,9 @@
 | 354 | [rwusmm-dc/4x11Engine](./rwusmm-dc-4x11engine.md) | ⭐ — | — | 38/100 |
 | 355 | [WinterSnowfall/d7vk](./wintersnowfall-d7vk.md) | ⭐ — | — | 38/100 |
 | 356 | [carnworkstudios/boxwood](./carnworkstudios-boxwood.md) | ⭐ — | — | 38/100 |
-| 357 | [segaboy/vulkan-netbsd](./segaboy-vulkan-netbsd.md) | ⭐ — | — | 38/100 |
+| 357 | [segaboy/vulkan-netbsd](./segaboy-vulkan-netbsd.md) | ⭐ 27 | — | 38/100 |
 | 358 | [lecteur1/saifsat-core-engine](./lecteur1-saifsat-core-engine.md) | ⭐ — | JavaScript | 36/100 |
-| 359 | [scosman/cursed_browser](./scosman-cursed-browser.md) | ⭐ — | — | 33/100 |
+| 359 | [scosman/cursed_browser](./scosman-cursed-browser.md) | ⭐ 281 | — | 33/100 |
 
 ---
 

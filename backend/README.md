@@ -575,8 +575,8 @@
 | 565 | [GSManagerXZ/GameServerManager](./gsmanagerxz-gameservermanager.md) | ⭐ 1.1k | TypeScript | 61/100 |
 | 566 | [vehagn/homelab](./vehagn-homelab.md) | ⭐ 402 | HCL | 61/100 |
 | 567 | [mesamirh/MovieBox-Tui](./mesamirh-moviebox-tui.md) | ⭐ 2.8k | Rust | 61/100 |
-| 568 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
-| 569 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
+| 568 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
+| 569 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
 | 570 | [simonepri/sympact](./simonepri-sympact.md) | ⭐ 441 | JavaScript | 61/100 |
 | 571 | [chung-leong/zigar](./chung-leong-zigar.md) | ⭐ 442 | Zig | 61/100 |
 | 572 | [rejetto/hfs](./rejetto-hfs.md) | ⭐ 4k | TypeScript | 61/100 |
@@ -804,11 +804,11 @@
 | 794 | [sozercan/kaset](./sozercan-kaset.md) | ⭐ 2.5k | Swift | 55/100 |
 | 795 | [ClickHouse/clickhouse-js](./clickhouse-clickhouse-js.md) | ⭐ 331 | TypeScript | 55/100 |
 | 796 | [typegoose/typegoose](./typegoose-typegoose.md) | ⭐ 2.3k | TypeScript | 55/100 |
-| 797 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
-| 798 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 402 | Python | 55/100 |
+| 797 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 402 | Python | 55/100 |
+| 798 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
 | 799 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2.2k | JavaScript | 55/100 |
-| 800 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 268 | — | 55/100 |
-| 801 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 11.1k | Rust | 55/100 |
+| 800 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 11.1k | Rust | 55/100 |
+| 801 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 268 | — | 55/100 |
 | 802 | [Suwayomi/Suwayomi-Server](./suwayomi-suwayomi-server.md) | ⭐ 8k | Java | 55/100 |
 | 803 | [trailbaseio/trailbase](./trailbaseio-trailbase.md) | ⭐ 5.8k | Rust | 55/100 |
 | 804 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 55/100 |
@@ -891,7 +891,7 @@
 | 881 | [alessio1999xx-debug/pyforge-task-Mockforge](./alessio1999xx-debug-pyforge-task-mockforge.md) | ⭐ 10 | — | 51/100 |
 | 882 | [avionicharshit-byte/shop-stock-predictor](./avionicharshit-byte-shop-stock-predictor.md) | ⭐ 1 | Python | 51/100 |
 | 883 | [pandayv/mad-platform-community](./pandayv-mad-platform-community.md) | ⭐ — | Python | 51/100 |
-| 884 | [skorotkiewicz/spoti-api-server](./skorotkiewicz-spoti-api-server.md) | ⭐ — | — | 51/100 |
+| 884 | [skorotkiewicz/spoti-api-server](./skorotkiewicz-spoti-api-server.md) | ⭐ 2 | — | 51/100 |
 | 885 | [nly0000/nlykr-docs](./nly0000-nlykr-docs.md) | ⭐ — | — | 51/100 |
 | 886 | [yangjiaqiang12/squash-image-compressor](./yangjiaqiang12-squash-image-compressor.md) | ⭐ — | HTML | 51/100 |
 | 887 | [rafaeloliveiraz/gitglance](./rafaeloliveiraz-gitglance.md) | ⭐ 3 | JavaScript | 51/100 |
@@ -932,7 +932,7 @@
 | 922 | [oxidecomputer/omicron](./oxidecomputer-omicron.md) | ⭐ 619 | Rust | 49/100 |
 | 923 | [AJenbo/phpantom_lsp](./ajenbo-phpantom-lsp.md) | ⭐ 658 | Rust | 49/100 |
 | 924 | [HopperHopper/PulseWatch](./hopperhopper-pulsewatch.md) | ⭐ — | Python | 49/100 |
-| 925 | [realsirjoe/relinos](./realsirjoe-relinos.md) | ⭐ — | — | 48/100 |
+| 925 | [realsirjoe/relinos](./realsirjoe-relinos.md) | ⭐ 41 | — | 48/100 |
 | 926 | [ting-hong-shieh/monster-telephone](./ting-hong-shieh-monster-telephone.md) | ⭐ — | JavaScript | 48/100 |
 | 927 | [joeystdio/PortRadar](./joeystdio-portradar.md) | ⭐ 2 | Swift | 48/100 |
 | 928 | [M1chlCZ/step2glb](./m1chlcz-step2glb.md) | ⭐ — | JavaScript | 48/100 |
@@ -985,8 +985,8 @@
 | 975 | [kawamurashingo/HTTP-API-Core](./kawamurashingo-http-api-core.md) | ⭐ 1 | Perl | 44/100 |
 | 976 | [NOTAM-bobk/base31](./notam-bobk-base31.md) | ⭐ 1 | HTML | 43/100 |
 | 977 | [MR-RAHAD/rahad-all-downloader-v2](./mr-rahad-rahad-all-downloader-v2.md) | ⭐ 1 | JavaScript | 42/100 |
-| 978 | [maury91/miauflix](./maury91-miauflix.md) | ⭐ — | — | 41/100 |
-| 979 | [rmoff/kafuck](./rmoff-kafuck.md) | ⭐ — | — | 41/100 |
+| 978 | [maury91/miauflix](./maury91-miauflix.md) | ⭐ 10 | — | 41/100 |
+| 979 | [rmoff/kafuck](./rmoff-kafuck.md) | ⭐ 3 | — | 41/100 |
 | 980 | [kostyk348/mbscada-rs](./kostyk348-mbscada-rs.md) | ⭐ 4 | — | 41/100 |
 | 981 | [clementezeusgabriel01-iswrtg/NIO-Pulse](./clementezeusgabriel01-iswrtg-nio-pulse.md) | ⭐ 1 | Java | 41/100 |
 | 982 | [yarnpkg/zpm](./yarnpkg-zpm.md) | ⭐ 231 | Rust | 41/100 |

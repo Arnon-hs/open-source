@@ -91,7 +91,7 @@
 | 81 | [neetly/figma-agent-linux](./neetly-figma-agent-linux.md) | ⭐ 401 | Rust | 53/100 |
 | 82 | [adobe/spectrum-design-data](./adobe-spectrum-design-data.md) | ⭐ 158 | Rust | 53/100 |
 | 83 | [su2code/SU2](./su2code-su2.md) | ⭐ 1.9k | C++ | 53/100 |
-| 84 | [smokeeaasd/flawless-ui-ux](./smokeeaasd-flawless-ui-ux.md) | ⭐ — | — | 52/100 |
+| 84 | [smokeeaasd/flawless-ui-ux](./smokeeaasd-flawless-ui-ux.md) | ⭐ 213 | — | 52/100 |
 | 85 | [vuematerial/vue-material](./vuematerial-vue-material.md) | ⭐ 9.8k | Vue | 52/100 |
 | 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 562 | Swift | 52/100 |
 | 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.2k | Handlebars | 52/100 |
@@ -129,7 +129,7 @@
 | 119 | [ui-layouts/uilayouts](./ui-layouts-uilayouts.md) | ⭐ 3.9k | — | 45/100 |
 | 120 | [qrstajalli/BranchOut](./qrstajalli-branchout.md) | ⭐ 2 | — | 45/100 |
 | 121 | [a104437ana/sakura-garden](./a104437ana-sakura-garden.md) | ⭐ 17 | — | 45/100 |
-| 122 | [Shagshag/garden-graph](./shagshag-garden-graph.md) | ⭐ — | — | 45/100 |
+| 122 | [Shagshag/garden-graph](./shagshag-garden-graph.md) | ⭐ 1 | — | 45/100 |
 | 123 | [potatobeanradio/circuitRF](./potatobeanradio-circuitrf.md) | ⭐ 261 | — | 45/100 |
 | 124 | [cpc/openasip](./cpc-openasip.md) | ⭐ 199 | — | 45/100 |
 | 125 | [ctxrs/figma-server](./ctxrs-figma-server.md) | ⭐ 2 | — | 45/100 |
@@ -165,7 +165,7 @@
 | 155 | [dplanitzer/Serena](./dplanitzer-serena.md) | ⭐ 293 | — | 41/100 |
 | 156 | [google-deepmind/alphaprotein-novo](./google-deepmind-alphaprotein-novo.md) | ⭐ 319 | — | 41/100 |
 | 157 | [dimonomid/montray](./dimonomid-montray.md) | ⭐ 89 | — | 41/100 |
-| 158 | [rishimohan/colorshot](./rishimohan-colorshot.md) | ⭐ — | — | 41/100 |
+| 158 | [rishimohan/colorshot](./rishimohan-colorshot.md) | ⭐ 16 | — | 41/100 |
 | 159 | [devdotfast/whiteboard](./devdotfast-whiteboard.md) | ⭐ 3.5k | — | 41/100 |
 | 160 | [carlosphyll/phyll](./carlosphyll-phyll.md) | ⭐ 2 | — | 41/100 |
 | 161 | [andrsrxn/icons](./andrsrxn-icons.md) | ⭐ 36 | — | 41/100 |
@@ -189,7 +189,7 @@
 | 179 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ 115 | — | 38/100 |
 | 180 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
 | 181 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ 2 | — | 38/100 |
-| 182 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ — | — | 38/100 |
+| 182 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ 78 | — | 38/100 |
 | 183 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ 28 | — | 38/100 |
 | 184 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ 1.9k | — | 38/100 |
 | 185 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ 35 | — | 38/100 |

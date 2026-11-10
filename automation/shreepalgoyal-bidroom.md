@@ -1,6 +1,6 @@
 # shreepalgoyal/bidroom
 
-[![Stars](https://img.shields.io/github/stars/shreepalgoyal/bidroom?style=flat-square&color=yellow)](https://github.com/shreepalgoyal/bidroom/stargazers) [![Forks](https://img.shields.io/github/forks/shreepalgoyal/bidroom?style=flat-square&color=blue)](https://github.com/shreepalgoyal/bidroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shreepalgoyal/bidroom?style=flat-square&color=yellow)](https://github.com/shreepalgoyal/bidroom/stargazers) [![Forks](https://img.shields.io/github/forks/shreepalgoyal/bidroom?style=flat-square&color=blue)](https://github.com/shreepalgoyal/bidroom/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Evidence-backed RFP workflow for Switch: five agents, one human sign-off.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ shreepalgoyal/bidroom：shreepalgoyal/bidroom helps remove repetitive manual ope
 
 **Quality signals**
 
+- 2 GitHub stars
 - updated 2026-11-07
 - primary language: Python
 - 8 topics
@@ -64,13 +65,13 @@ shreepalgoyal/bidroom：shreepalgoyal/bidroom helps remove repetitive manual ope
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 54/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 70/100 |
-| adoption | 0/100 |
+| production | 68/100 |
+| outlook | 72/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 300/100 |
-| stars | 0/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |
