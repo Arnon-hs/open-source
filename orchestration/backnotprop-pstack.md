@@ -1,6 +1,6 @@
 # backnotprop/pstack
 
-[![Stars](https://img.shields.io/github/stars/backnotprop/pstack?style=flat-square&color=yellow)](https://github.com/backnotprop/pstack/stargazers) [![Forks](https://img.shields.io/github/forks/backnotprop/pstack?style=flat-square&color=blue)](https://github.com/backnotprop/pstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/backnotprop/pstack?style=flat-square&color=yellow)](https://github.com/backnotprop/pstack/stargazers) [![Forks](https://img.shields.io/github/forks/backnotprop/pstack?style=flat-square&color=blue)](https://github.com/backnotprop/pstack/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Use pstack with claude, codex, pi - Skills and principles for rigorous AI-assisted engineering
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.6k |
-| 🍴 **Forks** | 252 |
+| ⭐ **Stars** | 3.9k |
+| 🍴 **Forks** | 268 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-11-04 |
 | 🔍 **Source** | story-link |
 
@@ -53,8 +53,8 @@ backnotprop/pstack：backnotprop/pstack helps turn isolated prompts and tools in
 
 **Quality signals**
 
-- 3566 GitHub stars
-- 252 forks
+- 3891 GitHub stars
+- 268 forks
 - updated 2026-11-04
 - primary language: TypeScript
 - 18 topics
@@ -70,10 +70,10 @@ backnotprop/pstack：backnotprop/pstack helps turn isolated prompts and tools in
 | integration | 78/100 |
 | production | 72/100 |
 | outlook | 78/100 |
-| adoption | 71/100 |
+| adoption | 72/100 |
 | categoryMatchCount | 300/100 |
 | stars | 76/100 |
-| forks | 60/100 |
+| forks | 61/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

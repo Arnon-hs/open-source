@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 1.4k |
+| ⭐ **Stars** | 4.5k |
+| 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Lean |
 | 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-09-05 |

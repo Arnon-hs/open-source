@@ -81,7 +81,7 @@
 | 71 | [hypit-ai/hypit](./hypit-ai-hypit.md) | ⭐ 34 | TypeScript | 74/100 |
 | 72 | [Battam1111/omniseek](./battam1111-omniseek.md) | ⭐ 31 | Python | 74/100 |
 | 73 | [aqm857886159/Nomi](./aqm857886159-nomi.md) | ⭐ 312 | TypeScript | 74/100 |
-| 74 | [GuanYixuan/pyJianYingDraft](./guanyixuan-pyjianyingdraft.md) | ⭐ 3.9k | Python | 74/100 |
+| 74 | [GuanYixuan/pyJianYingDraft](./guanyixuan-pyjianyingdraft.md) | ⭐ 4.8k | Python | 74/100 |
 | 75 | [jianshuo/claude-skills](./jianshuo-claude-skills.md) | ⭐ 94 | Python | 74/100 |
 | 76 | [ABO3SKRALMASAOODI/valmera-mcp](./abo3skralmasaoodi-valmera-mcp.md) | ⭐ — | Python | 74/100 |
 | 77 | [frankShan001/CutVoke](./frankshan001-cutvoke.md) | ⭐ 24 | Python | 73/100 |
@@ -111,8 +111,8 @@
 | 101 | [itsPremkumar/Automated-Video-Generator](./itspremkumar-automated-video-generator.md) | ⭐ 32 | TypeScript | 72/100 |
 | 102 | [pixop/video-compare](./pixop-video-compare.md) | ⭐ 1.7k | C++ | 72/100 |
 | 103 | [leancoderkavy/premiere-pro-mcp](./leancoderkavy-premiere-pro-mcp.md) | ⭐ 107 | TypeScript | 72/100 |
-| 104 | [denizsafak/abogen](./denizsafak-abogen.md) | ⭐ 5.1k | Python | 72/100 |
-| 105 | [code-charity/youtube](./code-charity-youtube.md) | ⭐ 4.4k | JavaScript | 72/100 |
+| 104 | [denizsafak/abogen](./denizsafak-abogen.md) | ⭐ 6.2k | Python | 72/100 |
+| 105 | [code-charity/youtube](./code-charity-youtube.md) | ⭐ 4.7k | JavaScript | 72/100 |
 | 106 | [chapmanjacobd/library](./chapmanjacobd-library.md) | ⭐ 477 | Python | 72/100 |
 | 107 | [sentriz/gonic](./sentriz-gonic.md) | ⭐ 2.4k | Go | 72/100 |
 | 108 | [EvoLinkAI/awesome-gemini-omni-1.2-flash-API-guide-and-prompt](./evolinkai-awesome-gemini-omni-1.2-flash-api-guide-and-prompt.md) | ⭐ 29 | — | 71/100 |
@@ -178,7 +178,7 @@
 | 168 | [ybouane/VideoFlow](./ybouane-videoflow.md) | ⭐ 140 | TypeScript | 68/100 |
 | 169 | [Volumetenrectify/ae-motion-compiler](./volumetenrectify-ae-motion-compiler.md) | ⭐ 105 | HTML | 68/100 |
 | 170 | [seydx/node-av](./seydx-node-av.md) | ⭐ 357 | TypeScript | 68/100 |
-| 171 | [tvheadend/tvheadend](./tvheadend-tvheadend.md) | ⭐ 3.5k | C | 68/100 |
+| 171 | [tvheadend/tvheadend](./tvheadend-tvheadend.md) | ⭐ 3.6k | C | 68/100 |
 | 172 | [Agents365-ai/video-podcast-maker](./agents365-ai-video-podcast-maker.md) | ⭐ 1.4k | Python | 68/100 |
 | 173 | [palmier-io/palmier-pro](./palmier-io-palmier-pro.md) | ⭐ 14.7k | Swift | 68/100 |
 | 174 | [Ajatt-Tools/kitsunekko-mirror](./ajatt-tools-kitsunekko-mirror.md) | ⭐ 321 | SRecode Template | 68/100 |
@@ -201,10 +201,10 @@
 | 191 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 277 | TypeScript | 67/100 |
 | 192 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 209 | JavaScript | 67/100 |
 | 193 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 201 | Go | 67/100 |
-| 194 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 4.5k | TypeScript | 67/100 |
+| 194 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 195 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 172 | Python | 67/100 |
 | 196 | [QuintinShaw/openasr](./quintinshaw-openasr.md) | ⭐ 133 | Rust | 67/100 |
-| 197 | [tmoroney/auto-subs](./tmoroney-auto-subs.md) | ⭐ 3.7k | TypeScript | 67/100 |
+| 197 | [tmoroney/auto-subs](./tmoroney-auto-subs.md) | ⭐ 4.5k | TypeScript | 67/100 |
 | 198 | [mpv-player/mpv](./mpv-player-mpv.md) | ⭐ 38k | C | 67/100 |
 | 199 | [zoriya/Kyoo](./zoriya-kyoo.md) | ⭐ 2.4k | TypeScript | 67/100 |
 | 200 | [M-Igashi/baken](./m-igashi-baken.md) | ⭐ 66 | Rust | 67/100 |
@@ -268,7 +268,7 @@
 | 258 | [perso-ai/perso-dubbing-plugin](./perso-ai-perso-dubbing-plugin.md) | ⭐ 30 | JavaScript | 64/100 |
 | 259 | [guimatheus92/mcp-video-analyzer](./guimatheus92-mcp-video-analyzer.md) | ⭐ 22 | TypeScript | 64/100 |
 | 260 | [CristianOlivera1/openvid](./cristianolivera1-openvid.md) | ⭐ 1.5k | TypeScript | 64/100 |
-| 261 | [WyattBlue/auto-editor](./wyattblue-auto-editor.md) | ⭐ 4.5k | Nim | 64/100 |
+| 261 | [WyattBlue/auto-editor](./wyattblue-auto-editor.md) | ⭐ 5.8k | Nim | 64/100 |
 | 262 | [FennelFetish/qapyq](./fennelfetish-qapyq.md) | ⭐ 161 | Python | 64/100 |
 | 263 | [excalimate/excalimate](./excalimate-excalimate.md) | ⭐ 30 | TypeScript | 64/100 |
 | 264 | [FengZeng/soia](./fengzeng-soia.md) | ⭐ 124 | Rust | 64/100 |
@@ -291,7 +291,7 @@
 | 281 | [lipku/LiveTalking](./lipku-livetalking.md) | ⭐ 10.3k | Python | 63/100 |
 | 282 | [erduo1998-cell/erduo-broll-loop-engineering](./erduo1998-cell-erduo-broll-loop-engineering.md) | ⭐ 117 | TypeScript | 63/100 |
 | 283 | [riaz37/remotion-ui](./riaz37-remotion-ui.md) | ⭐ 42 | TypeScript | 63/100 |
-| 284 | [LaoFeng-mouse/flyingmouse-format](./laofeng-mouse-flyingmouse-format.md) | ⭐ 3.9k | JavaScript | 63/100 |
+| 284 | [LaoFeng-mouse/flyingmouse-format](./laofeng-mouse-flyingmouse-format.md) | ⭐ 7.1k | JavaScript | 63/100 |
 | 285 | [SPlayer-Dev/SPlayer-Next](./splayer-dev-splayer-next.md) | ⭐ 833 | TypeScript | 63/100 |
 | 286 | [scraed/LanPaint](./scraed-lanpaint.md) | ⭐ 1.3k | Python | 63/100 |
 | 287 | [getopenscreen/openscreen](./getopenscreen-openscreen.md) | ⭐ 1.4k | TypeScript | 63/100 |
@@ -499,8 +499,8 @@
 | 489 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 346 | C++ | 54/100 |
 | 490 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 449 | JavaScript | 54/100 |
 | 491 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ — | — | 53/100 |
-| 492 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
-| 493 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
+| 492 | [libass/libass](./libass-libass.md) | ⭐ — | — | 53/100 |
+| 493 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
 | 494 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 495 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 252 | — | 53/100 |
 | 496 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |

@@ -14,9 +14,9 @@
 | 4 | [frappe/lms](./frappe-lms.md) | ⭐ 3.1k | Vue | 63/100 |
 | 5 | [github/opensource.guide](./github-opensource.guide.md) | ⭐ 15.8k | HTML | 63/100 |
 | 6 | [ysig/GraKeL](./ysig-grakel.md) | ⭐ 646 | Python | 62/100 |
-| 7 | [gofiber/recipes](./gofiber-recipes.md) | ⭐ 3.4k | Go | 61/100 |
+| 7 | [gofiber/recipes](./gofiber-recipes.md) | ⭐ 3.5k | Go | 61/100 |
 | 8 | [zyronon/TypeWords](./zyronon-typewords.md) | ⭐ 11.7k | CSS | 60/100 |
-| 9 | [eunomia-bpf/bpf-developer-tutorial](./eunomia-bpf-bpf-developer-tutorial.md) | ⭐ 4.2k | C | 59/100 |
+| 9 | [eunomia-bpf/bpf-developer-tutorial](./eunomia-bpf-bpf-developer-tutorial.md) | ⭐ 4.3k | C | 59/100 |
 | 10 | [INGInious/INGInious](./inginious-inginious.md) | ⭐ 237 | Python | 58/100 |
 | 11 | [pion/example-webrtc-applications](./pion-example-webrtc-applications.md) | ⭐ 1.3k | Go | 58/100 |
 | 12 | [cypress-io/cypress-example-kitchensink](./cypress-io-cypress-example-kitchensink.md) | ⭐ 1.2k | HTML | 58/100 |

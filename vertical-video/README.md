@@ -2,7 +2,7 @@
 
 > 
 
-**164 projects** in this category.
+**165 projects** in this category.
 
 ## Projects
 
@@ -14,7 +14,7 @@
 | 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 855 | TypeScript | 83/100 |
 | 5 | [el-frontend/video-wizard](./el-frontend-video-wizard.md) | ⭐ 18 | TypeScript | 82/100 |
 | 6 | [adityaarsharma/youtube-marketing-skills](./adityaarsharma-youtube-marketing-skills.md) | ⭐ 54 | JavaScript | 82/100 |
-| 7 | [yi1108/printfilm](./yi1108-printfilm.md) | ⭐ 4.7k | Python | 82/100 |
+| 7 | [yi1108/printfilm](./yi1108-printfilm.md) | ⭐ 7.4k | Python | 82/100 |
 | 8 | [fralapo/clippyme](./fralapo-clippyme.md) | ⭐ 36 | Python | 82/100 |
 | 9 | [Hao0321/video-autopilot-kit](./hao0321-video-autopilot-kit.md) | ⭐ 1.5k | Python | 80/100 |
 | 10 | [mehbul/chopify](./mehbul-chopify.md) | ⭐ 41 | Python | 79/100 |
@@ -33,7 +33,7 @@
 | 23 | [Cuongyd196/remotion-cuongit-template](./cuongyd196-remotion-cuongit-template.md) | ⭐ 230 | TypeScript | 74/100 |
 | 24 | [opus-pro/opus-skills](./opus-pro-opus-skills.md) | ⭐ 21 | JavaScript | 74/100 |
 | 25 | [2417467487-hub/Trend2Video-Pro](./2417467487-hub-trend2video-pro.md) | ⭐ 211 | Python | 74/100 |
-| 26 | [Anil-matcha/AI-Youtube-Shorts-Generator](./anil-matcha-ai-youtube-shorts-generator.md) | ⭐ 4.8k | Python | 74/100 |
+| 26 | [Anil-matcha/AI-Youtube-Shorts-Generator](./anil-matcha-ai-youtube-shorts-generator.md) | ⭐ 5.9k | Python | 74/100 |
 | 27 | [mkamranr/reelforge](./mkamranr-reelforge.md) | ⭐ 21 | Python | 74/100 |
 | 28 | [ColinGPT9/clips-studio](./colingpt9-clips-studio.md) | ⭐ 21 | Python | 74/100 |
 | 29 | [xixihhhh/hotclip](./xixihhhh-hotclip.md) | ⭐ 21 | TypeScript | 74/100 |
@@ -170,8 +170,9 @@
 | 160 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 31 | JavaScript | 47/100 |
 | 161 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ — | — | 45/100 |
 | 162 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
-| 163 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ — | — | 41/100 |
-| 164 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
+| 163 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ — | — | 41/100 |
+| 164 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ — | — | 41/100 |
+| 165 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
 
 ---
 

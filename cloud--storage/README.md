@@ -8,8 +8,8 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [GAM-team/GAM](./gam-team-gam.md) | ⭐ 4.2k | Python | 87/100 |
-| 2 | [googleapis/google-cloud-go](./googleapis-google-cloud-go.md) | ⭐ 4.5k | Go | 83/100 |
+| 1 | [GAM-team/GAM](./gam-team-gam.md) | ⭐ 4.4k | Python | 87/100 |
+| 2 | [googleapis/google-cloud-go](./googleapis-google-cloud-go.md) | ⭐ 4.6k | Go | 83/100 |
 | 3 | [minio/minio-go](./minio-minio-go.md) | ⭐ 3k | Go | 82/100 |
 | 4 | [googleapis/google-cloud-cpp](./googleapis-google-cloud-cpp.md) | ⭐ 658 | C++ | 80/100 |
 | 5 | [utkuozdemir/pv-migrate](./utkuozdemir-pv-migrate.md) | ⭐ 2.4k | Go | 80/100 |
@@ -17,7 +17,7 @@
 | 7 | [myrosama/DaemonClient](./myrosama-daemonclient.md) | ⭐ 877 | TypeScript | 79/100 |
 | 8 | [parse-community/parse-server](./parse-community-parse-server.md) | ⭐ 21.4k | JavaScript | 79/100 |
 | 9 | [Tencent/APIJSON](./tencent-apijson.md) | ⭐ 18.4k | Java | 78/100 |
-| 10 | [ministackorg/ministack](./ministackorg-ministack.md) | ⭐ 3.5k | Python | 78/100 |
+| 10 | [ministackorg/ministack](./ministackorg-ministack.md) | ⭐ 5.1k | Python | 78/100 |
 | 11 | [lithops-cloud/lithops](./lithops-cloud-lithops.md) | ⭐ 366 | Python | 78/100 |
 | 12 | [googleapis/google-cloud-python](./googleapis-google-cloud-python.md) | ⭐ 5.4k | Python | 78/100 |
 | 13 | [emissary-ingress/emissary](./emissary-ingress-emissary.md) | ⭐ 4.5k | Python | 77/100 |
@@ -31,11 +31,11 @@
 | 21 | [savvyagents/larasend](./savvyagents-larasend.md) | ⭐ 328 | Vue | 76/100 |
 | 22 | [aws-amplify/amplify-cli](./aws-amplify-amplify-cli.md) | ⭐ 2.9k | TypeScript | 76/100 |
 | 23 | [eksctl-io/eksctl](./eksctl-io-eksctl.md) | ⭐ 5.2k | Go | 75/100 |
-| 24 | [caamer20/Telegram-Drive](./caamer20-telegram-drive.md) | ⭐ 4.5k | TypeScript | 75/100 |
+| 24 | [caamer20/Telegram-Drive](./caamer20-telegram-drive.md) | ⭐ 5.7k | TypeScript | 75/100 |
 | 25 | [karmab/kcli](./karmab-kcli.md) | ⭐ 647 | Python | 75/100 |
 | 26 | [aws/aws-sdk-pandas](./aws-aws-sdk-pandas.md) | ⭐ 4.1k | Python | 75/100 |
 | 27 | [thanos-io/thanos](./thanos-io-thanos.md) | ⭐ 14.3k | Go | 75/100 |
-| 28 | [iterate-ch/cyberduck](./iterate-ch-cyberduck.md) | ⭐ 4.5k | Java | 75/100 |
+| 28 | [iterate-ch/cyberduck](./iterate-ch-cyberduck.md) | ⭐ 4.9k | Java | 75/100 |
 | 29 | [minio/minio](./minio-minio.md) | ⭐ 61.3k | Go | 74/100 |
 | 30 | [goharbor/harbor](./goharbor-harbor.md) | ⭐ 29.7k | Go | 74/100 |
 | 31 | [duplicati/duplicati](./duplicati-duplicati.md) | ⭐ 15.2k | C# | 74/100 |
@@ -52,9 +52,9 @@
 | 42 | [abdolence/gcloud-sdk-rs](./abdolence-gcloud-sdk-rs.md) | ⭐ 105 | Rust | 73/100 |
 | 43 | [microcks/microcks](./microcks-microcks.md) | ⭐ 2k | Java | 73/100 |
 | 44 | [moby/buildkit](./moby-buildkit.md) | ⭐ 10.4k | Go | 73/100 |
-| 45 | [okteto/okteto](./okteto-okteto.md) | ⭐ 3.5k | Go | 73/100 |
+| 45 | [okteto/okteto](./okteto-okteto.md) | ⭐ 3.6k | Go | 73/100 |
 | 46 | [serverless/serverless](./serverless-serverless.md) | ⭐ 46.9k | JavaScript | 73/100 |
-| 47 | [metalbear-co/mirrord](./metalbear-co-mirrord.md) | ⭐ 5.1k | Rust | 73/100 |
+| 47 | [metalbear-co/mirrord](./metalbear-co-mirrord.md) | ⭐ 5.4k | Rust | 73/100 |
 | 48 | [tywalch/electrodb](./tywalch-electrodb.md) | ⭐ 1.2k | TypeScript | 72/100 |
 | 49 | [upstash/redis-js](./upstash-redis-js.md) | ⭐ 959 | TypeScript | 72/100 |
 | 50 | [aws/aws-cli](./aws-aws-cli.md) | ⭐ 17.3k | Python | 72/100 |
@@ -72,7 +72,7 @@
 | 62 | [ory/keto](./ory-keto.md) | ⭐ 5.4k | Go | 71/100 |
 | 63 | [jenkins-x/jx](./jenkins-x-jx.md) | ⭐ 4.7k | Go | 71/100 |
 | 64 | [craigmccaskill/posthorn](./craigmccaskill-posthorn.md) | ⭐ 203 | Go | 71/100 |
-| 65 | [aws/aws-sdk-js-v3](./aws-aws-sdk-js-v3.md) | ⭐ 3.6k | TypeScript | 71/100 |
+| 65 | [aws/aws-sdk-js-v3](./aws-aws-sdk-js-v3.md) | ⭐ 3.7k | TypeScript | 71/100 |
 | 66 | [kubenetworks/kubevpn](./kubenetworks-kubevpn.md) | ⭐ 1.3k | Go | 71/100 |
 | 67 | [googleapis/google-cloud-ruby](./googleapis-google-cloud-ruby.md) | ⭐ 1.4k | Ruby | 71/100 |
 | 68 | [ConduitPlatform/Conduit](./conduitplatform-conduit.md) | ⭐ 882 | TypeScript | 71/100 |
@@ -100,7 +100,7 @@
 | 90 | [venth/aws-adfs](./venth-aws-adfs.md) | ⭐ 292 | Python | 69/100 |
 | 91 | [sustainable-computing-io/kepler](./sustainable-computing-io-kepler.md) | ⭐ 1.5k | Go | 69/100 |
 | 92 | [google/go-cloud](./google-go-cloud.md) | ⭐ 9.9k | Go | 69/100 |
-| 93 | [Azure/azure-cli](./azure-azure-cli.md) | ⭐ 4.6k | Python | 69/100 |
+| 93 | [Azure/azure-cli](./azure-azure-cli.md) | ⭐ 4.7k | Python | 69/100 |
 | 94 | [atilladeniz/Kubeli](./atilladeniz-kubeli.md) | ⭐ 363 | TypeScript | 69/100 |
 | 95 | [aws/aws-cdk](./aws-aws-cdk.md) | ⭐ 13k | TypeScript | 69/100 |
 | 96 | [SonicJs-Org/sonicjs](./sonicjs-org-sonicjs.md) | ⭐ 1.6k | TypeScript | 69/100 |
@@ -126,10 +126,10 @@
 | 116 | [longhorn/longhorn](./longhorn-longhorn.md) | ⭐ 8.1k | Shell | 68/100 |
 | 117 | [smithy-lang/smithy-rs](./smithy-lang-smithy-rs.md) | ⭐ 640 | Rust | 68/100 |
 | 118 | [midwayjs/midway](./midwayjs-midway.md) | ⭐ 7.8k | TypeScript | 68/100 |
-| 119 | [cloudflare/workers-sdk](./cloudflare-workers-sdk.md) | ⭐ 4k | TypeScript | 68/100 |
+| 119 | [cloudflare/workers-sdk](./cloudflare-workers-sdk.md) | ⭐ 4.7k | TypeScript | 68/100 |
 | 120 | [Chistogov/syncra](./chistogov-syncra.md) | ⭐ 1 | TypeScript | 67/100 |
 | 121 | [aquasecurity/trivy-operator](./aquasecurity-trivy-operator.md) | ⭐ 1.9k | Go | 67/100 |
-| 122 | [wal-g/wal-g](./wal-g-wal-g.md) | ⭐ 4.2k | Go | 67/100 |
+| 122 | [wal-g/wal-g](./wal-g-wal-g.md) | ⭐ 4.3k | Go | 67/100 |
 | 123 | [matsest/lazyazure](./matsest-lazyazure.md) | ⭐ 46 | Go | 67/100 |
 | 124 | [dotnet/orleans](./dotnet-orleans.md) | ⭐ 10.9k | C# | 67/100 |
 | 125 | [MarSeventh/CloudFlare-ImgBed](./marseventh-cloudflare-imgbed.md) | ⭐ 6.9k | JavaScript | 67/100 |
@@ -182,9 +182,9 @@
 | 172 | [drivendataorg/cloudpathlib](./drivendataorg-cloudpathlib.md) | ⭐ 624 | Python | 65/100 |
 | 173 | [kubeovn/kube-ovn](./kubeovn-kube-ovn.md) | ⭐ 2.3k | Go | 65/100 |
 | 174 | [yoshidan/google-cloud-rust](./yoshidan-google-cloud-rust.md) | ⭐ 302 | Rust | 65/100 |
-| 175 | [aws/aws-sdk-ruby](./aws-aws-sdk-ruby.md) | ⭐ 3.6k | Ruby | 65/100 |
+| 175 | [aws/aws-sdk-ruby](./aws-aws-sdk-ruby.md) | ⭐ 3.7k | Ruby | 65/100 |
 | 176 | [runs-on/runs-on](./runs-on-runs-on.md) | ⭐ 1.2k | — | 65/100 |
-| 177 | [pantsbuild/pants](./pantsbuild-pants.md) | ⭐ 3.8k | Python | 65/100 |
+| 177 | [pantsbuild/pants](./pantsbuild-pants.md) | ⭐ 3.9k | Python | 65/100 |
 | 178 | [kgateway-dev/kgateway](./kgateway-dev-kgateway.md) | ⭐ 5.7k | Go | 65/100 |
 | 179 | [google-github-actions/auth](./google-github-actions-auth.md) | ⭐ 1.4k | TypeScript | 65/100 |
 | 180 | [aws/aws-cdk-cli](./aws-aws-cdk-cli.md) | ⭐ 107 | TypeScript | 64/100 |
@@ -205,7 +205,7 @@
 | 195 | [microsoft/go-sqlcmd](./microsoft-go-sqlcmd.md) | ⭐ 570 | Go | 64/100 |
 | 196 | [Azure/azure-functions-host](./azure-azure-functions-host.md) | ⭐ 2k | C# | 64/100 |
 | 197 | [infracost/vscode-infracost](./infracost-vscode-infracost.md) | ⭐ 1.8k | TypeScript | 64/100 |
-| 198 | [cifertech/ESP32-DIV](./cifertech-esp32-div.md) | ⭐ 3.3k | C++ | 64/100 |
+| 198 | [cifertech/ESP32-DIV](./cifertech-esp32-div.md) | ⭐ 4.3k | C++ | 64/100 |
 | 199 | [versity/versitygw](./versity-versitygw.md) | ⭐ 2.6k | Go | 64/100 |
 | 200 | [k8gb-io/k8gb](./k8gb-io-k8gb.md) | ⭐ 1.2k | Go | 64/100 |
 | 201 | [Azure/aztfexport](./azure-aztfexport.md) | ⭐ 1.9k | Go | 64/100 |
@@ -220,7 +220,7 @@
 | 210 | [rclone/rclone](./rclone-rclone.md) | ⭐ 60.9k | Go | 64/100 |
 | 211 | [foisalislambd/dockfin](./foisalislambd-dockfin.md) | ⭐ 11 | Go | 64/100 |
 | 212 | [openyurtio/openyurt](./openyurtio-openyurt.md) | ⭐ 2k | Go | 63/100 |
-| 213 | [GoogleCloudPlatform/golang-samples](./googlecloudplatform-golang-samples.md) | ⭐ 4.6k | Go | 63/100 |
+| 213 | [GoogleCloudPlatform/golang-samples](./googlecloudplatform-golang-samples.md) | ⭐ 4.7k | Go | 63/100 |
 | 214 | [minio/minio-rs](./minio-minio-rs.md) | ⭐ 362 | Rust | 63/100 |
 | 215 | [one2nc/cloudlens](./one2nc-cloudlens.md) | ⭐ 592 | Go | 63/100 |
 | 216 | [netr0m/az-pim-cli](./netr0m-az-pim-cli.md) | ⭐ 115 | Go | 63/100 |
@@ -229,7 +229,7 @@
 | 219 | [salesforce/cloudsplaining](./salesforce-cloudsplaining.md) | ⭐ 2.2k | JavaScript | 63/100 |
 | 220 | [kube-logging/logging-operator](./kube-logging-logging-operator.md) | ⭐ 1.7k | Go | 63/100 |
 | 221 | [kubernetes-sigs/aws-ebs-csi-driver](./kubernetes-sigs-aws-ebs-csi-driver.md) | ⭐ 1.1k | Go | 63/100 |
-| 222 | [awslabs/aws-sdk-rust](./awslabs-aws-sdk-rust.md) | ⭐ 3.3k | Rust | 63/100 |
+| 222 | [awslabs/aws-sdk-rust](./awslabs-aws-sdk-rust.md) | ⭐ 3.4k | Rust | 63/100 |
 | 223 | [wearedevilabs/CloudSlash](./wearedevilabs-cloudslash.md) | ⭐ 167 | Go | 63/100 |
 | 224 | [quiltdata/quilt](./quiltdata-quilt.md) | ⭐ 1.4k | TypeScript | 63/100 |
 | 225 | [sqlpage/SQLPage](./sqlpage-sqlpage.md) | ⭐ 2.5k | Rust | 63/100 |
@@ -237,7 +237,7 @@
 | 227 | [apache/kyuubi](./apache-kyuubi.md) | ⭐ 2.3k | Scala | 63/100 |
 | 228 | [clawscli/claws](./clawscli-claws.md) | ⭐ 136 | Go | 63/100 |
 | 229 | [GoogleCloudPlatform/khi](./googlecloudplatform-khi.md) | ⭐ 2.1k | Go | 63/100 |
-| 230 | [orioledb/orioledb](./orioledb-orioledb.md) | ⭐ 4.1k | C | 63/100 |
+| 230 | [orioledb/orioledb](./orioledb-orioledb.md) | ⭐ 4.3k | C | 63/100 |
 | 231 | [aws-actions/amazon-ecr-login](./aws-actions-amazon-ecr-login.md) | ⭐ 1k | JavaScript | 63/100 |
 | 232 | [plutonhq/pluton](./plutonhq-pluton.md) | ⭐ 420 | TypeScript | 63/100 |
 | 233 | [openebs/openebs](./openebs-openebs.md) | ⭐ 9.8k | — | 63/100 |
@@ -252,7 +252,7 @@
 | 242 | [spidernet-io/spiderpool](./spidernet-io-spiderpool.md) | ⭐ 669 | Go | 62/100 |
 | 243 | [jamebal/jmal-cloud-server](./jamebal-jmal-cloud-server.md) | ⭐ 409 | Java | 62/100 |
 | 244 | [tursodatabase/turso-cli](./tursodatabase-turso-cli.md) | ⭐ 319 | Go | 62/100 |
-| 245 | [cf-pages/Telegraph-Image](./cf-pages-telegraph-image.md) | ⭐ 4.6k | HTML | 62/100 |
+| 245 | [cf-pages/Telegraph-Image](./cf-pages-telegraph-image.md) | ⭐ 4.7k | HTML | 62/100 |
 | 246 | [NetSPI/gcpwn](./netspi-gcpwn.md) | ⭐ 305 | Python | 62/100 |
 | 247 | [raulcastillabravo/mistlock](./raulcastillabravo-mistlock.md) | ⭐ 485 | Python | 62/100 |
 | 248 | [canonical/microceph](./canonical-microceph.md) | ⭐ 388 | Go | 62/100 |
@@ -323,7 +323,7 @@
 | 313 | [Azure/azure-storage-azcopy](./azure-azure-storage-azcopy.md) | ⭐ 698 | Go | 59/100 |
 | 314 | [topling/toplingdb](./topling-toplingdb.md) | ⭐ 1k | C++ | 59/100 |
 | 315 | [Thiago-code-lab/aws-certified-solutions-architect-associate-brasil](./thiago-code-lab-aws-certified-solutions-architect-associate-brasil.md) | ⭐ 539 | Shell | 59/100 |
-| 316 | [microsoft/azure-pipelines-tasks](./microsoft-azure-pipelines-tasks.md) | ⭐ 3.6k | TypeScript | 59/100 |
+| 316 | [microsoft/azure-pipelines-tasks](./microsoft-azure-pipelines-tasks.md) | ⭐ 3.7k | TypeScript | 59/100 |
 | 317 | [robinrodricks/FluentStorage](./robinrodricks-fluentstorage.md) | ⭐ 453 | C# | 59/100 |
 | 318 | [brefphp/bref](./brefphp-bref.md) | ⭐ 3.4k | PHP | 59/100 |
 | 319 | [ScottArbeit/Grace](./scottarbeit-grace.md) | ⭐ 586 | F# | 59/100 |
@@ -337,12 +337,12 @@
 | 327 | [zarf-dev/zarf](./zarf-dev-zarf.md) | ⭐ 1.9k | Go | 59/100 |
 | 328 | [sivchari/kumo](./sivchari-kumo.md) | ⭐ 1.1k | Go | 59/100 |
 | 329 | [harryzcy/mailbox](./harryzcy-mailbox.md) | ⭐ 252 | Go | 59/100 |
-| 330 | [micrometer-metrics/micrometer](./micrometer-metrics-micrometer.md) | ⭐ 4.8k | Java | 59/100 |
+| 330 | [micrometer-metrics/micrometer](./micrometer-metrics-micrometer.md) | ⭐ 4.9k | Java | 59/100 |
 | 331 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 332 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 333 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 442 | TypeScript | 58/100 |
-| 334 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 177 | Go | 58/100 |
-| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 334 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 177 | Go | 58/100 |
 | 336 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 337 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1k | Go | 58/100 |
 | 338 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -382,7 +382,7 @@
 | 372 | [tonbo-io/tonbo](./tonbo-io-tonbo.md) | ⭐ 1.6k | Rust | 57/100 |
 | 373 | [mspnp/cloud-design-patterns](./mspnp-cloud-design-patterns.md) | ⭐ 851 | C# | 57/100 |
 | 374 | [aws-observability/aws-otel-collector](./aws-observability-aws-otel-collector.md) | ⭐ 749 | Go | 57/100 |
-| 375 | [documentdb/documentdb](./documentdb-documentdb.md) | ⭐ 3.4k | C | 57/100 |
+| 375 | [documentdb/documentdb](./documentdb-documentdb.md) | ⭐ 3.6k | C | 57/100 |
 | 376 | [polymind-inc/acmebot](./polymind-inc-acmebot.md) | ⭐ 1.1k | C# | 57/100 |
 | 377 | [earth-mover/icechunk](./earth-mover-icechunk.md) | ⭐ 642 | Rust | 57/100 |
 | 378 | [Yamato-Security/suzaku](./yamato-security-suzaku.md) | ⭐ 181 | Rust | 57/100 |
@@ -390,7 +390,7 @@
 | 380 | [fractalbits-labs/fractalbits](./fractalbits-labs-fractalbits.md) | ⭐ 267 | Rust | 57/100 |
 | 381 | [aws-actions/configure-aws-credentials](./aws-actions-configure-aws-credentials.md) | ⭐ 2.9k | TypeScript | 57/100 |
 | 382 | [Azure/azure-rest-api-specs](./azure-azure-rest-api-specs.md) | ⭐ 3.1k | TypeSpec | 57/100 |
-| 383 | [storj/storj](./storj-storj.md) | ⭐ 3.2k | Go | 57/100 |
+| 383 | [storj/storj](./storj-storj.md) | ⭐ 3.3k | Go | 57/100 |
 | 384 | [open-policy-agent/opa-envoy-plugin](./open-policy-agent-opa-envoy-plugin.md) | ⭐ 356 | Go | 57/100 |
 | 385 | [tektoncd/pipeline](./tektoncd-pipeline.md) | ⭐ 9.1k | Go | 57/100 |
 | 386 | [external-secrets/external-secrets](./external-secrets-external-secrets.md) | ⭐ 6.9k | Go | 57/100 |
@@ -443,8 +443,8 @@
 | 433 | [fluvio-community/fluvio](./fluvio-community-fluvio.md) | ⭐ 5.3k | Rust | 55/100 |
 | 434 | [Azure/azure-cli-extensions](./azure-azure-cli-extensions.md) | ⭐ 439 | Python | 55/100 |
 | 435 | [rivet-dev/rivet](./rivet-dev-rivet.md) | ⭐ 6.8k | Rust | 55/100 |
-| 436 | [deuxfleurs-org/garage](./deuxfleurs-org-garage.md) | ⭐ 3.7k | Rust | 55/100 |
-| 437 | [apache/opendal](./apache-opendal.md) | ⭐ 5k | Rust | 55/100 |
+| 436 | [deuxfleurs-org/garage](./deuxfleurs-org-garage.md) | ⭐ 4.9k | Rust | 55/100 |
+| 437 | [apache/opendal](./apache-opendal.md) | ⭐ 5.5k | Rust | 55/100 |
 | 438 | [pipe-cd/pipecd](./pipe-cd-pipecd.md) | ⭐ 1.3k | Go | 55/100 |
 | 439 | [quarkusio/quarkus](./quarkusio-quarkus.md) | ⭐ 16k | Java | 55/100 |
 | 440 | [JiRaska/open-bank-oss](./jiraska-open-bank-oss.md) | ⭐ 23 | Kotlin | 54/100 |
@@ -471,7 +471,7 @@
 | 461 | [dosco/graphjin](./dosco-graphjin.md) | ⭐ 3.1k | Go | 53/100 |
 | 462 | [kubernetes/ingress-gce](./kubernetes-ingress-gce.md) | ⭐ 1.3k | Go | 53/100 |
 | 463 | [slatedb/slatedb](./slatedb-slatedb.md) | ⭐ 3k | Rust | 53/100 |
-| 464 | [hashicorp/terraform-provider-azurerm](./hashicorp-terraform-provider-azurerm.md) | ⭐ 4.9k | Go | 53/100 |
+| 464 | [hashicorp/terraform-provider-azurerm](./hashicorp-terraform-provider-azurerm.md) | ⭐ 5k | Go | 53/100 |
 | 465 | [TNT-Likely/BeeCount](./tnt-likely-beecount.md) | ⭐ 1.5k | Dart | 53/100 |
 | 466 | [morganseznec/hop](./morganseznec-hop.md) | ⭐ — | Go | 52/100 |
 | 467 | [crossplane-contrib/provider-aws](./crossplane-contrib-provider-aws.md) | ⭐ 495 | Go | 52/100 |
@@ -503,7 +503,7 @@
 | 493 | [pingcap/docs](./pingcap-docs.md) | ⭐ 615 | Python | 51/100 |
 | 494 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.6k | Go | 51/100 |
 | 495 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 51/100 |
-| 496 | [ydb-platform/ydb](./ydb-platform-ydb.md) | ⭐ 4.7k | C++ | 51/100 |
+| 496 | [ydb-platform/ydb](./ydb-platform-ydb.md) | ⭐ 4.8k | C++ | 51/100 |
 | 497 | [stackshy/cloudemu](./stackshy-cloudemu.md) | ⭐ 110 | Go | 50/100 |
 | 498 | [aws-samples/aws-incident-response-playbooks](./aws-samples-aws-incident-response-playbooks.md) | ⭐ 1.1k | — | 50/100 |
 | 499 | [lostinpatterns/kassette](./lostinpatterns-kassette.md) | ⭐ — | — | 50/100 |
@@ -515,7 +515,7 @@
 | 505 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1k | Go | 50/100 |
 | 506 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 589 | Rust | 50/100 |
 | 507 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 639 | Python | 50/100 |
-| 508 | [cloudflare/workers-rs](./cloudflare-workers-rs.md) | ⭐ 3.5k | Rust | 50/100 |
+| 508 | [cloudflare/workers-rs](./cloudflare-workers-rs.md) | ⭐ 3.8k | Rust | 50/100 |
 | 509 | [rmarable/ParallelClusterMaker](./rmarable-parallelclustermaker.md) | ⭐ — | — | 49/100 |
 | 510 | [coregit-inc/coregit-api](./coregit-inc-coregit-api.md) | ⭐ 34 | TypeScript | 49/100 |
 | 511 | [apache/pekko](./apache-pekko.md) | ⭐ 1.6k | Scala | 49/100 |

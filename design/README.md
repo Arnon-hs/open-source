@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [shareAI-lab/Kode-CLI](./shareai-lab-kode-cli.md) | ⭐ 5.1k | TypeScript | 75/100 |
+| 1 | [shareAI-lab/Kode-CLI](./shareai-lab-kode-cli.md) | ⭐ 5.2k | TypeScript | 75/100 |
 | 2 | [marcelscruz/dev-resources](./marcelscruz-dev-resources.md) | ⭐ 1.3k | TypeScript | 73/100 |
 | 3 | [harfbuzz/harfbuzz](./harfbuzz-harfbuzz.md) | ⭐ 6.2k | C++ | 72/100 |
 | 4 | [processing/p5.js](./processing-p5.js.md) | ⭐ 24.3k | JavaScript | 71/100 |
@@ -26,7 +26,7 @@
 | 16 | [eclipse-ee4j/cargotracker](./eclipse-ee4j-cargotracker.md) | ⭐ 390 | JavaScript | 64/100 |
 | 17 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 791 | C# | 64/100 |
 | 18 | [kando-menu/kando](./kando-menu-kando.md) | ⭐ 6.6k | TypeScript | 63/100 |
-| 19 | [xiangechen/chili3d](./xiangechen-chili3d.md) | ⭐ 4.7k | TypeScript | 63/100 |
+| 19 | [xiangechen/chili3d](./xiangechen-chili3d.md) | ⭐ 5k | TypeScript | 63/100 |
 | 20 | [monkeytypegame/monkeytype](./monkeytypegame-monkeytype.md) | ⭐ 21k | TypeScript | 63/100 |
 | 21 | [psychopy/psychopy](./psychopy-psychopy.md) | ⭐ 2.1k | Python | 62/100 |
 | 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 634 | Python | 62/100 |
@@ -38,7 +38,7 @@
 | 28 | [gdsfactory/gdsfactory](./gdsfactory-gdsfactory.md) | ⭐ 925 | Python | 61/100 |
 | 29 | [elementor/elementor](./elementor-elementor.md) | ⭐ 7.1k | PHP | 61/100 |
 | 30 | [Memento-Teams/Memento-Skills](./memento-teams-memento-skills.md) | ⭐ 1.5k | Python | 60/100 |
-| 31 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.7k | Scala | 60/100 |
+| 31 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.8k | Scala | 60/100 |
 | 32 | [eliheuer/img2bez](./eliheuer-img2bez.md) | ⭐ 122 | Rust | 60/100 |
 | 33 | [HMBSbige/BilibiliLiveRecordDownLoader](./hmbsbige-bilibililiverecorddownloader.md) | ⭐ 815 | C# | 60/100 |
 | 34 | [streetmix/streetmix](./streetmix-streetmix.md) | ⭐ 741 | TypeScript | 59/100 |
@@ -58,7 +58,7 @@
 | 48 | [RailsEventStore/rails_event_store](./railseventstore-rails-event-store.md) | ⭐ 1.5k | Ruby | 57/100 |
 | 49 | [CircuitVerse/CircuitVerse](./circuitverse-circuitverse.md) | ⭐ 1.2k | JavaScript | 57/100 |
 | 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 482 | TypeScript | 57/100 |
-| 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.1k | C++ | 57/100 |
+| 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.2k | C++ | 57/100 |
 | 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 70 | Python | 57/100 |
 | 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 1 | JavaScript | 57/100 |
 | 54 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 343 | Lua | 56/100 |
@@ -71,7 +71,7 @@
 | 61 | [pctrade/end4-pC](./pctrade-end4-pc.md) | ⭐ 682 | QML | 55/100 |
 | 62 | [337547038/vue-form-design](./337547038-vue-form-design.md) | ⭐ 381 | JavaScript | 55/100 |
 | 63 | [seek-oss/capsize](./seek-oss-capsize.md) | ⭐ 1.7k | TypeScript | 55/100 |
-| 64 | [HapeLee/legado-with-MD3](./hapelee-legado-with-md3.md) | ⭐ 5.1k | Kotlin | 55/100 |
+| 64 | [HapeLee/legado-with-MD3](./hapelee-legado-with-md3.md) | ⭐ 6.9k | Kotlin | 55/100 |
 | 65 | [braver/programmingfonts](./braver-programmingfonts.md) | ⭐ 1.8k | CSS | 55/100 |
 | 66 | [SamToki/Sam-Toki-Mouse-Cursors](./samtoki-sam-toki-mouse-cursors.md) | ⭐ 788 | — | 55/100 |
 | 67 | [chipsalliance/Cores-VeeR-EL2](./chipsalliance-cores-veer-el2.md) | ⭐ 341 | SystemVerilog | 55/100 |
@@ -126,7 +126,7 @@
 | 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 629 | TypeScript | 46/100 |
 | 117 | [meta/astryx](./meta-astryx.md) | ⭐ — | — | 45/100 |
 | 118 | [VenoM9078/gradientdeck-skill](./venom9078-gradientdeck-skill.md) | ⭐ — | — | 45/100 |
-| 119 | [ui-layouts/uilayouts](./ui-layouts-uilayouts.md) | ⭐ 3.8k | — | 45/100 |
+| 119 | [ui-layouts/uilayouts](./ui-layouts-uilayouts.md) | ⭐ 3.9k | — | 45/100 |
 | 120 | [qrstajalli/BranchOut](./qrstajalli-branchout.md) | ⭐ — | — | 45/100 |
 | 121 | [a104437ana/sakura-garden](./a104437ana-sakura-garden.md) | ⭐ — | — | 45/100 |
 | 122 | [Shagshag/garden-graph](./shagshag-garden-graph.md) | ⭐ — | — | 45/100 |

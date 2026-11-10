@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.3k |
-| 🍴 **Forks** | 133 |
+| ⭐ **Stars** | 3.5k |
+| 🍴 **Forks** | 160 |
 | 💻 **Language** | Prolog |
 | 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-09-05 |

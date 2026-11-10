@@ -59,13 +59,13 @@
 | 49 | [aliyun/openapi-sdk-php](./aliyun-openapi-sdk-php.md) | ⭐ 527 | PHP | 67/100 |
 | 50 | [venturedrake/laravel-crm](./venturedrake-laravel-crm.md) | ⭐ 388 | PHP | 67/100 |
 | 51 | [grafana/faro-web-sdk](./grafana-faro-web-sdk.md) | ⭐ 1.1k | TypeScript | 67/100 |
-| 52 | [googleapis/python-genai](./googleapis-python-genai.md) | ⭐ 3.7k | Python | 67/100 |
+| 52 | [googleapis/python-genai](./googleapis-python-genai.md) | ⭐ 4.1k | Python | 67/100 |
 | 53 | [ansible/awx-operator](./ansible-awx-operator.md) | ⭐ 1.5k | Jinja | 67/100 |
-| 54 | [emscripten-core/emsdk](./emscripten-core-emsdk.md) | ⭐ 3.6k | Python | 66/100 |
+| 54 | [emscripten-core/emsdk](./emscripten-core-emsdk.md) | ⭐ 3.7k | Python | 66/100 |
 | 55 | [prometheus/client_rust](./prometheus-client-rust.md) | ⭐ 604 | Rust | 66/100 |
 | 56 | [librespot-org/librespot](./librespot-org-librespot.md) | ⭐ 7.4k | Rust | 66/100 |
 | 57 | [apple/python-apple-fm-sdk](./apple-python-apple-fm-sdk.md) | ⭐ 1.2k | Python | 66/100 |
-| 58 | [microsoft/WindowsAppSDK](./microsoft-windowsappsdk.md) | ⭐ 4.5k | C++ | 66/100 |
+| 58 | [microsoft/WindowsAppSDK](./microsoft-windowsappsdk.md) | ⭐ 4.7k | C++ | 66/100 |
 | 59 | [zoonman/linkedin-api-php-client](./zoonman-linkedin-api-php-client.md) | ⭐ 128 | PHP | 65/100 |
 | 60 | [ValveSoftware/source-sdk-2013](./valvesoftware-source-sdk-2013.md) | ⭐ 10.1k | C++ | 65/100 |
 | 61 | [gophercloud/gophercloud](./gophercloud-gophercloud.md) | ⭐ 1k | Go | 65/100 |
@@ -93,7 +93,7 @@
 | 83 | [supabase/supabase-swift](./supabase-supabase-swift.md) | ⭐ 1.3k | Swift | 63/100 |
 | 84 | [apache/hudi-rs](./apache-hudi-rs.md) | ⭐ 280 | Rust | 63/100 |
 | 85 | [cloudevents/sdk-go](./cloudevents-sdk-go.md) | ⭐ 958 | Go | 63/100 |
-| 86 | [NVIDIA-Omniverse/PhysX](./nvidia-omniverse-physx.md) | ⭐ 4.7k | C++ | 63/100 |
+| 86 | [NVIDIA-Omniverse/PhysX](./nvidia-omniverse-physx.md) | ⭐ 4.8k | C++ | 63/100 |
 | 87 | [firebase/firebase-functions](./firebase-firebase-functions.md) | ⭐ 1.1k | TypeScript | 63/100 |
 | 88 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 556 | C | 63/100 |
 | 89 | [yourtablecloth/TableCloth](./yourtablecloth-tablecloth.md) | ⭐ 1.1k | C# | 63/100 |
@@ -114,7 +114,7 @@
 | 104 | [abetlen/llama-cpp-python](./abetlen-llama-cpp-python.md) | ⭐ 10.6k | Python | 61/100 |
 | 105 | [lrstanley/go-ytdlp](./lrstanley-go-ytdlp.md) | ⭐ 320 | Go | 61/100 |
 | 106 | [airalab/robonomics](./airalab-robonomics.md) | ⭐ 226 | Rust | 61/100 |
-| 107 | [rusqlite/rusqlite](./rusqlite-rusqlite.md) | ⭐ 4.3k | Rust | 61/100 |
+| 107 | [rusqlite/rusqlite](./rusqlite-rusqlite.md) | ⭐ 4.5k | Rust | 61/100 |
 | 108 | [supabase-community/supabase-csharp](./supabase-community-supabase-csharp.md) | ⭐ 692 | C# | 61/100 |
 | 109 | [idalib-rs/idalib](./idalib-rs-idalib.md) | ⭐ 292 | Rust | 61/100 |
 | 110 | [nrfconnect/sdk-nrf](./nrfconnect-sdk-nrf.md) | ⭐ 1.4k | C | 61/100 |
@@ -133,7 +133,7 @@
 | 123 | [nibzard/papercut](./nibzard-papercut.md) | ⭐ — | — | 60/100 |
 | 124 | [xArm-Developer/xArm-Python-SDK](./xarm-developer-xarm-python-sdk.md) | ⭐ 324 | Python | 60/100 |
 | 125 | [zeromq/pyzmq](./zeromq-pyzmq.md) | ⭐ 4.2k | Python | 60/100 |
-| 126 | [wjakob/nanobind](./wjakob-nanobind.md) | ⭐ 3.7k | C++ | 60/100 |
+| 126 | [wjakob/nanobind](./wjakob-nanobind.md) | ⭐ 3.8k | C++ | 60/100 |
 | 127 | [pocketbase/dart-sdk](./pocketbase-dart-sdk.md) | ⭐ 716 | Dart | 60/100 |
 | 128 | [lazy-hq/aisdk](./lazy-hq-aisdk.md) | ⭐ 245 | Rust | 60/100 |
 | 129 | [mapbox/mapbox-navigation-android](./mapbox-mapbox-navigation-android.md) | ⭐ 652 | Kotlin | 60/100 |
@@ -177,7 +177,7 @@
 | 167 | [opencoredev/social-sdk](./opencoredev-social-sdk.md) | ⭐ — | — | 56/100 |
 | 168 | [Atostek/ros2-client](./atostek-ros2-client.md) | ⭐ 126 | Rust | 56/100 |
 | 169 | [birabittoh/NocturneRecomp](./birabittoh-nocturnerecomp.md) | ⭐ 315 | C++ | 56/100 |
-| 170 | [denoland/rusty_v8](./denoland-rusty-v8.md) | ⭐ 3.9k | Rust | 56/100 |
+| 170 | [denoland/rusty_v8](./denoland-rusty-v8.md) | ⭐ 4k | Rust | 56/100 |
 | 171 | [jellydn/zed-101-setup](./jellydn-zed-101-setup.md) | ⭐ 1.4k | TypeScript | 56/100 |
 | 172 | [bytecodealliance/wit-bindgen](./bytecodealliance-wit-bindgen.md) | ⭐ 1.4k | Rust | 56/100 |
 | 173 | [apple/swift-temporal-sdk](./apple-swift-temporal-sdk.md) | ⭐ 306 | Swift | 56/100 |
@@ -207,7 +207,7 @@
 | 197 | [twistedfall/opencv-rust](./twistedfall-opencv-rust.md) | ⭐ 2.4k | Rust | 53/100 |
 | 198 | [beowolx/rensa](./beowolx-rensa.md) | ⭐ 239 | Rust | 53/100 |
 | 199 | [vhspace/sdl3-rs](./vhspace-sdl3-rs.md) | ⭐ 345 | Rust | 53/100 |
-| 200 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.2k | Rust | 53/100 |
+| 200 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.4k | Rust | 53/100 |
 | 201 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.1k | Kotlin | 53/100 |
 | 202 | [snowtech738-byte/auria-chain](./snowtech738-byte-auria-chain.md) | ⭐ — | — | 52/100 |
 | 203 | [meta-models/muse-code-sdk](./meta-models-muse-code-sdk.md) | ⭐ 27 | TypeScript | 52/100 |
@@ -260,7 +260,7 @@
 | 250 | [lyfeninja/lyfeninja_blkseal_python_sdk](./lyfeninja-lyfeninja-blkseal-python-sdk.md) | ⭐ — | — | 48/100 |
 | 251 | [georust/netcdf](./georust-netcdf.md) | ⭐ 102 | Rust | 47/100 |
 | 252 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 47/100 |
-| 253 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 4.6k | Rust | 47/100 |
+| 253 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 5.1k | Rust | 47/100 |
 | 254 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 120 | Rust | 46/100 |
 | 255 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.5k | Rust | 46/100 |
 | 256 | [voxgig/aontu](./voxgig-aontu.md) | ⭐ — | — | 46/100 |

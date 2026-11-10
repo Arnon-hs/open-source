@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5k |
-| 🍴 **Forks** | 474 |
+| 🍴 **Forks** | 475 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 73/100 |
 | 🗓️ **Last push** | 2026-11-07 |
@@ -53,8 +53,8 @@ AsamK/signal-cli：AsamK/signal-cli helps add AI capability without starting fro
 
 **Quality signals**
 
-- 5030 GitHub stars
-- 474 forks
+- 5039 GitHub stars
+- 475 forks
 - updated 2026-11-07
 - primary language: Java
 - 10 topics

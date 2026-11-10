@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 124 |
+| ⭐ **Stars** | 3.5k |
+| 🍴 **Forks** | 125 |
 | 💻 **Language** | Reason |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-05 |

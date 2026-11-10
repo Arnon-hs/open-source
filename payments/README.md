@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [hey-api/hey-api](./hey-api-hey-api.md) | ⭐ 5k | TypeScript | 90/100 |
+| 1 | [hey-api/hey-api](./hey-api-hey-api.md) | ⭐ 5.6k | TypeScript | 90/100 |
 | 2 | [rynfar/meridian](./rynfar-meridian.md) | ⭐ 1.2k | TypeScript | 86/100 |
 | 3 | [wuwangzhang1216/claude-code-source-all-in-one](./wuwangzhang1216-claude-code-source-all-in-one.md) | ⭐ 78 | TypeScript | 81/100 |
 | 4 | [uselotus/lotus](./uselotus-lotus.md) | ⭐ 1.8k | Python | 79/100 |
@@ -55,7 +55,7 @@
 | 45 | [sums001/Windows-Copilot-API](./sums001-windows-copilot-api.md) | ⭐ 508 | Python | 70/100 |
 | 46 | [Dicklesworthstone/coding_agent_account_manager](./dicklesworthstone-coding-agent-account-manager.md) | ⭐ 138 | Go | 70/100 |
 | 47 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 253 | JavaScript | 70/100 |
-| 48 | [bigcapitalhq/bigcapital](./bigcapitalhq-bigcapital.md) | ⭐ 3.6k | TypeScript | 70/100 |
+| 48 | [bigcapitalhq/bigcapital](./bigcapitalhq-bigcapital.md) | ⭐ 4.1k | TypeScript | 70/100 |
 | 49 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.1k | Rust | 70/100 |
 | 50 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2.1k | Go | 69/100 |
 | 51 | [stripe/stripe-java](./stripe-stripe-java.md) | ⭐ 973 | Java | 69/100 |
@@ -75,7 +75,7 @@
 | 65 | [square/in-app-payments-flutter-plugin](./square-in-app-payments-flutter-plugin.md) | ⭐ 341 | Objective-C | 66/100 |
 | 66 | [ethibox/ethibox](./ethibox-ethibox.md) | ⭐ 258 | JavaScript | 66/100 |
 | 67 | [samber/ro](./samber-ro.md) | ⭐ 645 | Go | 66/100 |
-| 68 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.4k | TypeScript | 66/100 |
+| 68 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.6k | TypeScript | 66/100 |
 | 69 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
 | 70 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.5k | Python | 66/100 |
 | 71 | [librae8226/nexus4cc](./librae8226-nexus4cc.md) | ⭐ 126 | TypeScript | 65/100 |
@@ -87,10 +87,10 @@
 | 77 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 420 | Go | 65/100 |
 | 78 | [JUk1-GH/gpt-promo-scanner](./juk1-gh-gpt-promo-scanner.md) | ⭐ 237 | Python | 65/100 |
 | 79 | [idurar/idurar-erp-crm](./idurar-idurar-erp-crm.md) | ⭐ 8.9k | JavaScript | 65/100 |
-| 80 | [kimai/kimai](./kimai-kimai.md) | ⭐ 4.6k | PHP | 65/100 |
+| 80 | [kimai/kimai](./kimai-kimai.md) | ⭐ 5.1k | PHP | 65/100 |
 | 81 | [paypal/paypal-js](./paypal-paypal-js.md) | ⭐ 326 | TypeScript | 65/100 |
 | 82 | [checkout/checkout-sdk-node](./checkout-checkout-sdk-node.md) | ⭐ 67 | JavaScript | 65/100 |
-| 83 | [flexprice/flexprice](./flexprice-flexprice.md) | ⭐ 3.6k | Go | 65/100 |
+| 83 | [flexprice/flexprice](./flexprice-flexprice.md) | ⭐ 6.9k | Go | 65/100 |
 | 84 | [kenryu42/pi-grok-cli](./kenryu42-pi-grok-cli.md) | ⭐ 23 | TypeScript | 64/100 |
 | 85 | [talivia-group/talivia](./talivia-group-talivia.md) | ⭐ 52 | TypeScript | 64/100 |
 | 86 | [myapihq/myapi](./myapihq-myapi.md) | ⭐ 107 | TypeScript | 64/100 |
@@ -206,7 +206,7 @@
 | 196 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 2.4k | JavaScript | 56/100 |
 | 197 | [Kingler16/Velora](./kingler16-velora.md) | ⭐ 30 | Python | 56/100 |
 | 198 | [DanOps-1/Gpt-Agreement-Payment](./danops-1-gpt-agreement-payment.md) | ⭐ 1.1k | Python | 56/100 |
-| 199 | [basecamp/once-campfire](./basecamp-once-campfire.md) | ⭐ 4.5k | Ruby | 55/100 |
+| 199 | [basecamp/once-campfire](./basecamp-once-campfire.md) | ⭐ 4.8k | Ruby | 55/100 |
 | 200 | [lonelam/subconverter-rs](./lonelam-subconverter-rs.md) | ⭐ 309 | Rust | 55/100 |
 | 201 | [braintree/braintree_python](./braintree-braintree-python.md) | ⭐ 248 | Python | 55/100 |
 | 202 | [parthbuilds-community/FitMart](./parthbuilds-community-fitmart.md) | ⭐ 346 | JavaScript | 55/100 |
@@ -231,7 +231,7 @@
 | 221 | [xiaoji235/airport-free](./xiaoji235-airport-free.md) | ⭐ 494 | Python | 54/100 |
 | 222 | [billabear/billabear](./billabear-billabear.md) | ⭐ 746 | PHP | 54/100 |
 | 223 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 177 | PHP | 54/100 |
-| 224 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 3.7k | TypeScript | 54/100 |
+| 224 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.7k | TypeScript | 54/100 |
 | 225 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.5k | Swift | 54/100 |
 | 226 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 526 | — | 53/100 |
 | 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 497 | — | 53/100 |
@@ -280,8 +280,8 @@
 | 270 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 51 | Rust | 50/100 |
 | 271 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 50/100 |
 | 272 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 198 | Rust | 50/100 |
-| 273 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 88 | Java | 50/100 |
-| 274 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 85 | Java | 50/100 |
+| 273 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 85 | Java | 50/100 |
+| 274 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 88 | Java | 50/100 |
 | 275 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 276 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 65 | HTML | 50/100 |
 | 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 30 | HTML | 50/100 |
