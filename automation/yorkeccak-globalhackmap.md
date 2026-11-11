@@ -1,6 +1,6 @@
 # yorkeccak/globalhackmap
 
-[![Stars](https://img.shields.io/github/stars/yorkeccak/globalhackmap?style=flat-square&color=yellow)](https://github.com/yorkeccak/globalhackmap/stargazers) [![Forks](https://img.shields.io/github/forks/yorkeccak/globalhackmap?style=flat-square&color=blue)](https://github.com/yorkeccak/globalhackmap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/yorkeccak/globalhackmap?style=flat-square&color=yellow)](https://github.com/yorkeccak/globalhackmap/stargazers) [![Forks](https://img.shields.io/github/forks/yorkeccak/globalhackmap?style=flat-square&color=blue)](https://github.com/yorkeccak/globalhackmap/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Every hack, exploit and breach, live: new vulnerabilities, active exploits and breaches on one globe, with sources and one-click fixes.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 162 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ yorkeccak/globalhackmap：yorkeccak/globalhackmap helps remove repetitive manual
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 71/100 |
+| quality | 66/100 |
 | integration | 78/100 |
-| production | 75/100 |
-| outlook | 78/100 |
+| production | 68/100 |
+| outlook | 71/100 |
 | adoption | 45/100 |
 | categoryMatchCount | 100/100 |
 | stars | 47/100 |
 | forks | 39/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

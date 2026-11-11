@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -369,7 +369,7 @@
 | 359 | [2JasonP/agentpost](./2jasonp-agentpost.md) | ⭐ — | — | 42/100 |
 | 360 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ 5 | — | 42/100 |
 | 361 | [Mnexa-AI/e2a](./mnexa-ai-e2a.md) | ⭐ — | — | 42/100 |
-| 362 | [seanparkross/slack-thread-police](./seanparkross-slack-thread-police.md) | ⭐ — | — | 41/100 |
+| 362 | [seanparkross/slack-thread-police](./seanparkross-slack-thread-police.md) | ⭐ 4 | — | 41/100 |
 | 363 | [livekit/ros-portal](./livekit-ros-portal.md) | ⭐ 8 | — | 41/100 |
 | 364 | [mre/thundervim](./mre-thundervim.md) | ⭐ 6 | — | 41/100 |
 | 365 | [nashbridges/dial-r-for-reply](./nashbridges-dial-r-for-reply.md) | ⭐ 2 | — | 41/100 |

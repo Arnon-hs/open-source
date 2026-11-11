@@ -576,8 +576,8 @@
 | 566 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 567 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 568 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 105 | — | 38/100 |
-| 569 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
-| 570 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 569 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 570 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
 | 571 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 572 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 573 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |
