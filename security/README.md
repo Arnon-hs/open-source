@@ -38,7 +38,7 @@
 | 28 | [apache/casbin](./apache-casbin.md) | ⭐ 20.5k | Go | 66/100 |
 | 29 | [google/osv-scanner](./google-osv-scanner.md) | ⭐ 11.5k | Go | 66/100 |
 | 30 | [twpayne/chezmoi](./twpayne-chezmoi.md) | ⭐ 22.2k | Go | 66/100 |
-| 31 | [soltia48/suica-viewer](./soltia48-suica-viewer.md) | ⭐ 381 | Python | 66/100 |
+| 31 | [soltia48/suica-viewer](./soltia48-suica-viewer.md) | ⭐ 382 | Python | 66/100 |
 | 32 | [cocomelonc/peekaboo](./cocomelonc-peekaboo.md) | ⭐ 338 | Python | 66/100 |
 | 33 | [mytechnotalent/Reverse-Engineering](./mytechnotalent-reverse-engineering.md) | ⭐ 15.2k | Assembly | 66/100 |
 | 34 | [webprofusion/certify](./webprofusion-certify.md) | ⭐ 1.7k | C# | 66/100 |
@@ -125,7 +125,7 @@
 | 115 | [fabaff/nix-security-box](./fabaff-nix-security-box.md) | ⭐ 416 | Nix | 58/100 |
 | 116 | [scottlamb/moonfire-nvr](./scottlamb-moonfire-nvr.md) | ⭐ 1.8k | Rust | 58/100 |
 | 117 | [jwt/ruby-jwt](./jwt-ruby-jwt.md) | ⭐ 3.7k | Ruby | 58/100 |
-| 118 | [robrichards/xmlseclibs](./robrichards-xmlseclibs.md) | ⭐ 414 | PHP | 58/100 |
+| 118 | [robrichards/xmlseclibs](./robrichards-xmlseclibs.md) | ⭐ 415 | PHP | 58/100 |
 | 119 | [zio/zio-json](./zio-zio-json.md) | ⭐ 429 | Scala | 58/100 |
 | 120 | [ossf/best-practices-badge](./ossf-best-practices-badge.md) | ⭐ 1.4k | Ruby | 58/100 |
 | 121 | [dromara/MaxKey](./dromara-maxkey.md) | ⭐ 2k | Java | 58/100 |
@@ -175,7 +175,7 @@
 | 165 | [ppp-project/ppp](./ppp-project-ppp.md) | ⭐ 450 | C | 56/100 |
 | 166 | [mainmatter/ember-simple-auth](./mainmatter-ember-simple-auth.md) | ⭐ 1.9k | JavaScript | 56/100 |
 | 167 | [jacobdjwilson/awesome-annual-security-reports](./jacobdjwilson-awesome-annual-security-reports.md) | ⭐ 1.2k | — | 56/100 |
-| 168 | [matrix-org/vodozemac](./matrix-org-vodozemac.md) | ⭐ 413 | Rust | 56/100 |
+| 168 | [matrix-org/vodozemac](./matrix-org-vodozemac.md) | ⭐ 416 | Rust | 56/100 |
 | 169 | [GhostESP-Revival/GhostESP](./ghostesp-revival-ghostesp.md) | ⭐ 1.1k | C | 56/100 |
 | 170 | [GhostTroops/TOP](./ghosttroops-top.md) | ⭐ 733 | Shell | 56/100 |
 | 171 | [google/conscrypt](./google-conscrypt.md) | ⭐ 1.4k | Java | 56/100 |
@@ -195,8 +195,8 @@
 | 185 | [Jacobtims/filament-breezy](./jacobtims-filament-breezy.md) | ⭐ 1k | PHP | 55/100 |
 | 186 | [okhosting/awesome-cyber-security](./okhosting-awesome-cyber-security.md) | ⭐ 798 | — | 55/100 |
 | 187 | [epicweb-dev/web-auth](./epicweb-dev-web-auth.md) | ⭐ 337 | TypeScript | 55/100 |
-| 188 | [DataDog/malicious-software-packages-dataset](./datadog-malicious-software-packages-dataset.md) | ⭐ 392 | Python | 55/100 |
-| 189 | [in-toto/attestation](./in-toto-attestation.md) | ⭐ 388 | Rust | 55/100 |
+| 188 | [DataDog/malicious-software-packages-dataset](./datadog-malicious-software-packages-dataset.md) | ⭐ 393 | Python | 55/100 |
+| 189 | [in-toto/attestation](./in-toto-attestation.md) | ⭐ 389 | Rust | 55/100 |
 | 190 | [DiskCryptor/DiskCryptor](./diskcryptor-diskcryptor.md) | ⭐ 662 | C | 55/100 |
 | 191 | [lukeswitz/AntiHunter](./lukeswitz-antihunter.md) | ⭐ 727 | C++ | 55/100 |
 | 192 | [rustls/rustls-native-certs](./rustls-rustls-native-certs.md) | ⭐ 245 | Rust | 55/100 |
@@ -226,15 +226,15 @@
 | 216 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 360 | Java | 53/100 |
 | 217 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 581 | Nix | 53/100 |
 | 218 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 452 | TypeScript | 53/100 |
-| 219 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
-| 220 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 137 | Rust | 53/100 |
+| 219 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 137 | Rust | 53/100 |
+| 220 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
 | 221 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 222 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 595 | C | 53/100 |
 | 223 | [tkhq/qos](./tkhq-qos.md) | ⭐ 125 | Rust | 53/100 |
 | 224 | [OpenSIPS/opensips](./opensips-opensips.md) | ⭐ 1.5k | C | 53/100 |
 | 225 | [mytechnotalent/Embedded-Hacking](./mytechnotalent-embedded-hacking.md) | ⭐ 233 | Rust | 53/100 |
 | 226 | [linux-audit/audit-userspace](./linux-audit-audit-userspace.md) | ⭐ 742 | C | 53/100 |
-| 227 | [RustCrypto/MACs](./rustcrypto-macs.md) | ⭐ 379 | Rust | 53/100 |
+| 227 | [RustCrypto/MACs](./rustcrypto-macs.md) | ⭐ 380 | Rust | 53/100 |
 | 228 | [iqlusioninc/yubikey.rs](./iqlusioninc-yubikey.rs.md) | ⭐ 274 | Rust | 53/100 |
 | 229 | [hudikhq/hoodik](./hudikhq-hoodik.md) | ⭐ 1.6k | Rust | 53/100 |
 | 230 | [cloud-hypervisor/cloud-hypervisor](./cloud-hypervisor-cloud-hypervisor.md) | ⭐ 6.5k | Rust | 53/100 |
@@ -271,7 +271,7 @@
 | 261 | [mytechnotalent/Hacking-Rust](./mytechnotalent-hacking-rust.md) | ⭐ 246 | Rust | 51/100 |
 | 262 | [kanidm/kanidm](./kanidm-kanidm.md) | ⭐ 5.6k | Rust | 51/100 |
 | 263 | [github/codeql](./github-codeql.md) | ⭐ 10.3k | CodeQL | 51/100 |
-| 264 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 438 | HTML | 50/100 |
+| 264 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 439 | HTML | 50/100 |
 | 265 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 266 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 136 | Rust | 50/100 |
 | 267 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
@@ -354,7 +354,7 @@
 | 344 | [melezhik/Sparrow6](./melezhik-sparrow6.md) | ⭐ — | — | 45/100 |
 | 345 | [null8626/decancer](./null8626-decancer.md) | ⭐ 133 | Rust | 45/100 |
 | 346 | [jasonish/evebox](./jasonish-evebox.md) | ⭐ 508 | Rust | 45/100 |
-| 347 | [dootss/shodan-dorks](./dootss-shodan-dorks.md) | ⭐ 469 | — | 45/100 |
+| 347 | [dootss/shodan-dorks](./dootss-shodan-dorks.md) | ⭐ 470 | — | 45/100 |
 | 348 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 1.1k | Python | 45/100 |
 | 349 | [ashleyirispuppy143/poke](./ashleyirispuppy143-poke.md) | ⭐ 316 | EJS | 45/100 |
 | 350 | [i-am-jyotirmaya/haven-vault](./i-am-jyotirmaya-haven-vault.md) | ⭐ 1 | TypeScript | 45/100 |
@@ -484,8 +484,8 @@
 | 474 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ 43 | — | 38/100 |
 | 475 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ 4 | — | 38/100 |
 | 476 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ 289 | — | 38/100 |
-| 477 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
-| 478 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
+| 477 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
+| 478 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
 | 479 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ 23 | — | 38/100 |
 | 480 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ 11 | — | 38/100 |
 | 481 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ 2 | — | 38/100 |
@@ -500,8 +500,8 @@
 | 490 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 167 | Rust | 38/100 |
 | 491 | [SertaCanbey/IDSignal](./sertacanbey-idsignal.md) | ⭐ 1 | JavaScript | 37/100 |
 | 492 | [TemujinCalidius/FediHome](./temujincalidius-fedihome.md) | ⭐ 10 | — | 37/100 |
-| 493 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
-| 494 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
+| 493 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
+| 494 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
 | 495 | [jaredhanson/passport](./jaredhanson-passport.md) | ⭐ 23.5k | — | 37/100 |
 | 496 | [wrium/password-strength](./wrium-password-strength.md) | ⭐ — | JavaScript | 37/100 |
 | 497 | [IWEBai/railo-action](./iwebai-railo-action.md) | ⭐ — | — | 36/100 |

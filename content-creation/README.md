@@ -48,7 +48,7 @@
 | 38 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 3.7k | TypeScript | 71/100 |
 | 39 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
 | 40 | [cporter202/awesome-ai-tools](./cporter202-awesome-ai-tools.md) | ⭐ 324 | — | 70/100 |
-| 41 | [claude-world/notebooklm-skill](./claude-world-notebooklm-skill.md) | ⭐ 497 | Python | 70/100 |
+| 41 | [claude-world/notebooklm-skill](./claude-world-notebooklm-skill.md) | ⭐ 499 | Python | 70/100 |
 | 42 | [ZeroLu/awesome-seedance](./zerolu-awesome-seedance.md) | ⭐ 2.8k | Shell | 70/100 |
 | 43 | [waooAI/waoowaoo](./waooai-waoowaoo.md) | ⭐ 14.8k | TypeScript | 70/100 |
 | 44 | [zJay26/douyin-skills](./zjay26-douyin-skills.md) | ⭐ 61 | Python | 69/100 |

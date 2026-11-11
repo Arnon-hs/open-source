@@ -25,7 +25,7 @@
 | 15 | [RobinTail/express-zod-api](./robintail-express-zod-api.md) | ⭐ 839 | TypeScript | 75/100 |
 | 16 | [lucaong/minisearch](./lucaong-minisearch.md) | ⭐ 6.2k | TypeScript | 75/100 |
 | 17 | [imzbf/md-editor-v3](./imzbf-md-editor-v3.md) | ⭐ 2.6k | TypeScript | 74/100 |
-| 18 | [ebullient/ttrpg-convert-cli](./ebullient-ttrpg-convert-cli.md) | ⭐ 383 | Java | 74/100 |
+| 18 | [ebullient/ttrpg-convert-cli](./ebullient-ttrpg-convert-cli.md) | ⭐ 384 | Java | 74/100 |
 | 19 | [readest/readest](./readest-readest.md) | ⭐ 26.2k | TypeScript | 74/100 |
 | 20 | [charmbracelet/glamour](./charmbracelet-glamour.md) | ⭐ 3.8k | Go | 73/100 |
 | 21 | [VirtusLab-Open-Source/strapi-plugin-navigation](./virtuslab-open-source-strapi-plugin-navigation.md) | ⭐ 364 | TypeScript | 73/100 |
@@ -64,7 +64,7 @@
 | 54 | [codelitdev/courselit](./codelitdev-courselit.md) | ⭐ 1.3k | TypeScript | 69/100 |
 | 55 | [ddddddO/gtree](./ddddddo-gtree.md) | ⭐ 365 | Go | 69/100 |
 | 56 | [jaywcjlove/linux-command](./jaywcjlove-linux-command.md) | ⭐ 37.2k | Markdown | 69/100 |
-| 57 | [lapwat/papeer](./lapwat-papeer.md) | ⭐ 404 | Go | 69/100 |
+| 57 | [lapwat/papeer](./lapwat-papeer.md) | ⭐ 405 | Go | 69/100 |
 | 58 | [filamentphp/filament](./filamentphp-filament.md) | ⭐ 32.5k | PHP | 69/100 |
 | 59 | [obsidianmd/obsidian-importer](./obsidianmd-obsidian-importer.md) | ⭐ 1.8k | TypeScript | 68/100 |
 | 60 | [withstudiocms/studiocms](./withstudiocms-studiocms.md) | ⭐ 842 | TypeScript | 68/100 |
@@ -165,7 +165,7 @@
 | 155 | [suchnsuch/Tangent](./suchnsuch-tangent.md) | ⭐ 586 | TypeScript | 62/100 |
 | 156 | [Qloapps/QloApps](./qloapps-qloapps.md) | ⭐ 14.5k | PHP | 62/100 |
 | 157 | [libvips/libvips](./libvips-libvips.md) | ⭐ 11.8k | C | 62/100 |
-| 158 | [deeplook/svglib](./deeplook-svglib.md) | ⭐ 371 | Python | 62/100 |
+| 158 | [deeplook/svglib](./deeplook-svglib.md) | ⭐ 372 | Python | 62/100 |
 | 159 | [jupyter-book/mystmd](./jupyter-book-mystmd.md) | ⭐ 535 | TypeScript | 62/100 |
 | 160 | [schemacrawler/SchemaCrawler](./schemacrawler-schemacrawler.md) | ⭐ 1.8k | HTML | 62/100 |
 | 161 | [xournalpp/xournalpp](./xournalpp-xournalpp.md) | ⭐ 15.7k | C++ | 62/100 |
@@ -200,7 +200,7 @@
 | 190 | [kruseio/hygg](./kruseio-hygg.md) | ⭐ 363 | Rust | 61/100 |
 | 191 | [wasi-master/pypi-command-line](./wasi-master-pypi-command-line.md) | ⭐ 57 | Python | 61/100 |
 | 192 | [heartleo/zlib](./heartleo-zlib.md) | ⭐ 1.5k | Go | 61/100 |
-| 193 | [usemarble/marble](./usemarble-marble.md) | ⭐ 385 | TypeScript | 61/100 |
+| 193 | [usemarble/marble](./usemarble-marble.md) | ⭐ 386 | TypeScript | 61/100 |
 | 194 | [givanz/Vvveb](./givanz-vvveb.md) | ⭐ 1.3k | HTML | 61/100 |
 | 195 | [k1LoW/deck](./k1low-deck.md) | ⭐ 1.2k | Go | 61/100 |
 | 196 | [documenso/documenso](./documenso-documenso.md) | ⭐ 15.7k | TypeScript | 61/100 |
@@ -270,7 +270,7 @@
 | 260 | [pengzhanbo/vuepress-theme-plume](./pengzhanbo-vuepress-theme-plume.md) | ⭐ 496 | TypeScript | 58/100 |
 | 261 | [crowi/crowi](./crowi-crowi.md) | ⭐ 1.1k | TypeScript | 58/100 |
 | 262 | [rust-lang/rfcs](./rust-lang-rfcs.md) | ⭐ 6.6k | Markdown | 58/100 |
-| 263 | [gravity-ui/markdown-editor](./gravity-ui-markdown-editor.md) | ⭐ 429 | TypeScript | 58/100 |
+| 263 | [gravity-ui/markdown-editor](./gravity-ui-markdown-editor.md) | ⭐ 428 | TypeScript | 58/100 |
 | 264 | [Zavy86/WikiDocs](./zavy86-wikidocs.md) | ⭐ 534 | JavaScript | 58/100 |
 | 265 | [microsoft/vscode-docs](./microsoft-vscode-docs.md) | ⭐ 6.7k | Markdown | 58/100 |
 | 266 | [pluxml/PluXml](./pluxml-pluxml.md) | ⭐ 233 | PHP | 58/100 |
@@ -355,8 +355,8 @@
 | 345 | [mattn/docx2md](./mattn-docx2md.md) | ⭐ 769 | Go | 55/100 |
 | 346 | [cobalt-org/cobalt.rs](./cobalt-org-cobalt.rs.md) | ⭐ 1.5k | Rust | 55/100 |
 | 347 | [seojoonkim/memkraft](./seojoonkim-memkraft.md) | ⭐ 202 | Python | 55/100 |
-| 348 | [ubavic/bas-celik](./ubavic-bas-celik.md) | ⭐ 399 | Go | 55/100 |
-| 349 | [LiuYuYang01/ThriveX-Server](./liuyuyang01-thrivex-server.md) | ⭐ 367 | Java | 55/100 |
+| 348 | [ubavic/bas-celik](./ubavic-bas-celik.md) | ⭐ 402 | Go | 55/100 |
+| 349 | [LiuYuYang01/ThriveX-Server](./liuyuyang01-thrivex-server.md) | ⭐ 368 | Java | 55/100 |
 | 350 | [J-F-Liu/lopdf](./j-f-liu-lopdf.md) | ⭐ 2.3k | Rust | 55/100 |
 | 351 | [Carol42/Carol42](./carol42-carol42.md) | ⭐ 415 | — | 55/100 |
 | 352 | [Inlyne-Project/inlyne](./inlyne-project-inlyne.md) | ⭐ 1.4k | Rust | 55/100 |
@@ -382,7 +382,7 @@
 | 372 | [contao/contao](./contao-contao.md) | ⭐ 454 | PHP | 54/100 |
 | 373 | [RainyGao-GitHub/DocSys](./rainygao-github-docsys.md) | ⭐ 364 | JavaScript | 54/100 |
 | 374 | [henriklovhaug/md-tui](./henriklovhaug-md-tui.md) | ⭐ 561 | Rust | 54/100 |
-| 375 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 446 | Rust | 54/100 |
+| 375 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 447 | Rust | 54/100 |
 | 376 | [koodo-reader/koodo-reader](./koodo-reader-koodo-reader.md) | ⭐ 28.8k | JavaScript | 54/100 |
 | 377 | [banq/jivejdon](./banq-jivejdon.md) | ⭐ 583 | Java | 54/100 |
 | 378 | [mwilliamson/mammoth.js](./mwilliamson-mammoth.js.md) | ⭐ 6.3k | JavaScript | 53/100 |
@@ -394,7 +394,7 @@
 | 384 | [ssnangua/ColorTxt](./ssnangua-colortxt.md) | ⭐ 2k | TypeScript | 53/100 |
 | 385 | [gianlucasb/hallucinator](./gianlucasb-hallucinator.md) | ⭐ 397 | Rust | 53/100 |
 | 386 | [tllovesxs/wandao](./tllovesxs-wandao.md) | ⭐ 1.2k | Python | 53/100 |
-| 387 | [justnullname/QuickView](./justnullname-quickview.md) | ⭐ 661 | C++ | 53/100 |
+| 387 | [justnullname/QuickView](./justnullname-quickview.md) | ⭐ 666 | C++ | 53/100 |
 | 388 | [xibosignage/xibo-cms](./xibosignage-xibo-cms.md) | ⭐ 517 | PHP | 53/100 |
 | 389 | [PreTeXtBook/pretext](./pretextbook-pretext.md) | ⭐ 468 | XSLT | 53/100 |
 | 390 | [stencila/stencila](./stencila-stencila.md) | ⭐ 915 | Rust | 53/100 |
@@ -408,7 +408,7 @@
 | 398 | [krotname/NppMarkdownTableEditor](./krotname-nppmarkdowntableeditor.md) | ⭐ 8 | C++ | 52/100 |
 | 399 | [cjccjj/mdflow](./cjccjj-mdflow.md) | ⭐ 20 | — | 52/100 |
 | 400 | [JeffSteinbok/reMarkableSync](./jeffsteinbok-remarkablesync.md) | ⭐ 60 | Python | 52/100 |
-| 401 | [opendocument-app/OpenDocument.droid](./opendocument-app-opendocument.droid.md) | ⭐ 495 | HTML | 52/100 |
+| 401 | [opendocument-app/OpenDocument.droid](./opendocument-app-opendocument.droid.md) | ⭐ 496 | HTML | 52/100 |
 | 402 | [kodama-community/kodama](./kodama-community-kodama.md) | ⭐ 228 | Rust | 52/100 |
 | 403 | [wdcpclover/ai4paper](./wdcpclover-ai4paper.md) | ⭐ 4.7k | HTML | 52/100 |
 | 404 | [Ranrar/Marco](./ranrar-marco.md) | ⭐ 170 | Rust | 52/100 |
@@ -424,14 +424,14 @@
 | 414 | [gmrtd/gmrtd](./gmrtd-gmrtd.md) | ⭐ 35 | Go | 51/100 |
 | 415 | [shift-labs-ai/markit](./shift-labs-ai-markit.md) | ⭐ 1.3k | Rust | 51/100 |
 | 416 | [LunarWerxs/SageThumbs-2k](./lunarwerxs-sagethumbs-2k.md) | ⭐ 304 | Rust | 51/100 |
-| 417 | [ponylang/pony-tutorial](./ponylang-pony-tutorial.md) | ⭐ 370 | Markdown | 51/100 |
+| 417 | [ponylang/pony-tutorial](./ponylang-pony-tutorial.md) | ⭐ 371 | Markdown | 51/100 |
 | 418 | [zio/zio-config](./zio-zio-config.md) | ⭐ 244 | Scala | 51/100 |
 | 419 | [xykong/flux-markdown](./xykong-flux-markdown.md) | ⭐ 1.3k | Swift | 51/100 |
 | 420 | [ttu-ttu/ebook-reader](./ttu-ttu-ebook-reader.md) | ⭐ 1.1k | Svelte | 51/100 |
 | 421 | [spawnia/md-to-pdf](./spawnia-md-to-pdf.md) | ⭐ 171 | Rust | 51/100 |
 | 422 | [messense/mupdf-rs](./messense-mupdf-rs.md) | ⭐ 215 | Rust | 51/100 |
-| 423 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
-| 424 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 183 | Rust | 51/100 |
+| 423 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 183 | Rust | 51/100 |
+| 424 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
 | 425 | [CultivateLabs/storytime](./cultivatelabs-storytime.md) | ⭐ 743 | Ruby | 51/100 |
 | 426 | [clerkma/ptex-ng](./clerkma-ptex-ng.md) | ⭐ 307 | C | 51/100 |
 | 427 | [3xxx/engineercms](./3xxx-engineercms.md) | ⭐ 1.4k | Go | 51/100 |
@@ -501,7 +501,7 @@
 | 491 | [PoisonXploIT/sec-dashboard](./poisonxploit-sec-dashboard.md) | ⭐ — | Python | 47/100 |
 | 492 | [MegatronJeremy/docx-review-import](./megatronjeremy-docx-review-import.md) | ⭐ — | TypeScript | 47/100 |
 | 493 | [inandusolutions/inandu-grid](./inandusolutions-inandu-grid.md) | ⭐ — | TypeScript | 47/100 |
-| 494 | [OpenAEC-Foundation/open-pdf-studio](./openaec-foundation-open-pdf-studio.md) | ⭐ 1k | HTML | 47/100 |
+| 494 | [OpenAEC-Foundation/open-pdf-studio](./openaec-foundation-open-pdf-studio.md) | ⭐ 1.1k | HTML | 47/100 |
 | 495 | [GreatV/oar-ocr](./greatv-oar-ocr.md) | ⭐ 204 | Rust | 47/100 |
 | 496 | [SabrinaJewson/cmarker.typ](./sabrinajewson-cmarker.typ.md) | ⭐ 183 | Rust | 47/100 |
 | 497 | [cfug/flutter.cn](./cfug-flutter.cn.md) | ⭐ 568 | Dart | 47/100 |
@@ -533,7 +533,7 @@
 | 523 | [slidr-cli/slidr](./slidr-cli-slidr.md) | ⭐ — | — | 45/100 |
 | 524 | [y9695430-lang/xiaoke-api-gateway](./y9695430-lang-xiaoke-api-gateway.md) | ⭐ — | — | 45/100 |
 | 525 | [Milkdown/milkdown](./milkdown-milkdown.md) | ⭐ 12.1k | — | 45/100 |
-| 526 | [open-telemetry/weaver](./open-telemetry-weaver.md) | ⭐ 523 | Rust | 45/100 |
+| 526 | [open-telemetry/weaver](./open-telemetry-weaver.md) | ⭐ 524 | Rust | 45/100 |
 | 527 | [bigbag/papyrix-reader](./bigbag-papyrix-reader.md) | ⭐ 510 | C | 45/100 |
 | 528 | [RivoLink/leaf](./rivolink-leaf.md) | ⭐ 2.4k | Rust | 45/100 |
 | 529 | [edragoev1/pdfjet](./edragoev1-pdfjet.md) | ⭐ 31 | — | 44/100 |
@@ -546,7 +546,7 @@
 | 536 | [docuqueue/docuqueue-plugin](./docuqueue-docuqueue-plugin.md) | ⭐ — | — | 44/100 |
 | 537 | [joshka/tui-markdown](./joshka-tui-markdown.md) | ⭐ 118 | Rust | 44/100 |
 | 538 | [mdlight-dev/mdlight](./mdlight-dev-mdlight.md) | ⭐ 6 | — | 44/100 |
-| 539 | [novalagung/dasarpemrogramanrust](./novalagung-dasarpemrogramanrust.md) | ⭐ 385 | Rust | 44/100 |
+| 539 | [novalagung/dasarpemrogramanrust](./novalagung-dasarpemrogramanrust.md) | ⭐ 386 | Rust | 44/100 |
 | 540 | [plone/volto](./plone-volto.md) | ⭐ 608 | JavaScript | 44/100 |
 | 541 | [POL0ROID/Atari7800XT](./pol0roid-atari7800xt.md) | ⭐ 3 | — | 43/100 |
 | 542 | [williamhumbwavali/bando-blog](./williamhumbwavali-bando-blog.md) | ⭐ 1 | TypeScript | 43/100 |

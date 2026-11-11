@@ -104,7 +104,7 @@
 | 94 | [tommylin07-web/podclip-matrix](./tommylin07-web-podclip-matrix.md) | ⭐ 16 | JavaScript | 63/100 |
 | 95 | [toki-plus/ai-mixed-cut](./toki-plus-ai-mixed-cut.md) | ⭐ 94 | — | 63/100 |
 | 96 | [JayWebtech/autoshorts](./jaywebtech-autoshorts.md) | ⭐ 1.5k | Rust | 63/100 |
-| 97 | [HeyChengC/wallstreet-explainer](./heychengc-wallstreet-explainer.md) | ⭐ 666 | JavaScript | 62/100 |
+| 97 | [HeyChengC/wallstreet-explainer](./heychengc-wallstreet-explainer.md) | ⭐ 673 | JavaScript | 62/100 |
 | 98 | [zr9959/auto-xhs](./zr9959-auto-xhs.md) | ⭐ 17 | HTML | 62/100 |
 | 99 | [JuneYaooo/capsule-cinema](./juneyaooo-capsule-cinema.md) | ⭐ 198 | Python | 62/100 |
 | 100 | [Johnson-Jia/video-clipforge](./johnson-jia-video-clipforge.md) | ⭐ 46 | Python | 62/100 |

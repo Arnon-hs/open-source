@@ -41,7 +41,7 @@
 | 31 | [Skyscanner/cfripper](./skyscanner-cfripper.md) | ⭐ 415 | Python | 81/100 |
 | 32 | [pcliangx/AppGenesisForge](./pcliangx-appgenesisforge.md) | ⭐ 239 | Python | 81/100 |
 | 33 | [roninoss/create-expo-stack](./roninoss-create-expo-stack.md) | ⭐ 2.6k | TypeScript | 81/100 |
-| 34 | [Marve10s/Better-Fullstack](./marve10s-better-fullstack.md) | ⭐ 821 | TypeScript | 81/100 |
+| 34 | [Marve10s/Better-Fullstack](./marve10s-better-fullstack.md) | ⭐ 822 | TypeScript | 81/100 |
 | 35 | [ScraperNode/awesome-n8n-templates](./scrapernode-awesome-n8n-templates.md) | ⭐ 117 | Astro | 80/100 |
 | 36 | [undergroundrap/UEFN-TOOLBELT](./undergroundrap-uefn-toolbelt.md) | ⭐ 54 | Python | 80/100 |
 | 37 | [spring-projects/spring-data-mongodb](./spring-projects-spring-data-mongodb.md) | ⭐ 1.7k | Java | 80/100 |
@@ -55,7 +55,7 @@
 | 45 | [AterDev/Perigon.CLI](./aterdev-perigon.cli.md) | ⭐ 54 | C# | 80/100 |
 | 46 | [bnomei/kirby-mcp](./bnomei-kirby-mcp.md) | ⭐ 69 | PHP | 80/100 |
 | 47 | [syahiidkamil/Software-Engineer-AI-Agent-Atlas](./syahiidkamil-software-engineer-ai-agent-atlas.md) | ⭐ 406 | Python | 80/100 |
-| 48 | [juancarlospaco/awesome-streaming-tools](./juancarlospaco-awesome-streaming-tools.md) | ⭐ 396 | — | 80/100 |
+| 48 | [juancarlospaco/awesome-streaming-tools](./juancarlospaco-awesome-streaming-tools.md) | ⭐ 397 | — | 80/100 |
 | 49 | [solana-foundation/create-solana-dapp](./solana-foundation-create-solana-dapp.md) | ⭐ 655 | TypeScript | 79/100 |
 | 50 | [fastapi-practices/fastapi-best-architecture](./fastapi-practices-fastapi-best-architecture.md) | ⭐ 2.6k | Python | 79/100 |
 | 51 | [synaptiai/prompt-decorators](./synaptiai-prompt-decorators.md) | ⭐ 44 | Python | 79/100 |
@@ -109,7 +109,7 @@
 | 99 | [elementalsouls/Claude-OSINT](./elementalsouls-claude-osint.md) | ⭐ 3k | Python | 74/100 |
 | 100 | [devtodollars/mvp-boilerplate](./devtodollars-mvp-boilerplate.md) | ⭐ 996 | TypeScript | 74/100 |
 | 101 | [reichenbach/iwork_mcp](./reichenbach-iwork-mcp.md) | ⭐ 43 | TypeScript | 74/100 |
-| 102 | [Angular-RU/angular-ru-interview-questions](./angular-ru-angular-ru-interview-questions.md) | ⭐ 396 | HTML | 74/100 |
+| 102 | [Angular-RU/angular-ru-interview-questions](./angular-ru-angular-ru-interview-questions.md) | ⭐ 397 | HTML | 74/100 |
 | 103 | [study8677/awesome-architecture](./study8677-awesome-architecture.md) | ⭐ 2.5k | Vue | 74/100 |
 | 104 | [MervinPraison/PraisonAI](./mervinpraison-praisonai.md) | ⭐ 9.3k | Python | 74/100 |
 | 105 | [copier-org/copier](./copier-org-copier.md) | ⭐ 3.7k | Python | 73/100 |
@@ -125,7 +125,7 @@
 | 115 | [moshehbenavraham/Ultimate-Agent-Directory](./moshehbenavraham-ultimate-agent-directory.md) | ⭐ 72 | Python | 73/100 |
 | 116 | [viticci/remctl](./viticci-remctl.md) | ⭐ 654 | Python | 73/100 |
 | 117 | [InvadingOctopus/comedot](./invadingoctopus-comedot.md) | ⭐ 549 | GDScript | 73/100 |
-| 118 | [a5chin/python-uv](./a5chin-python-uv.md) | ⭐ 372 | Python | 73/100 |
+| 118 | [a5chin/python-uv](./a5chin-python-uv.md) | ⭐ 373 | Python | 73/100 |
 | 119 | [Camelcade/Perl5-IDEA](./camelcade-perl5-idea.md) | ⭐ 421 | Java | 73/100 |
 | 120 | [h5bp/html5-boilerplate](./h5bp-html5-boilerplate.md) | ⭐ 57.7k | JavaScript | 73/100 |
 | 121 | [killertcell428/aigis](./killertcell428-aigis.md) | ⭐ 53 | Python | 73/100 |
@@ -138,7 +138,7 @@
 | 128 | [mubashir-786/n8n-whatsapp-automation](./mubashir-786-n8n-whatsapp-automation.md) | ⭐ 136 | JavaScript | 72/100 |
 | 129 | [sup3rus3r/obsidian-ai](./sup3rus3r-obsidian-ai.md) | ⭐ 77 | Python | 72/100 |
 | 130 | [IndigoKageBait/filmora-utility-2026](./indigokagebait-filmora-utility-2026.md) | ⭐ 117 | HTML | 72/100 |
-| 131 | [mikemajesty/nestjs-microservice-boilerplate-api](./mikemajesty-nestjs-microservice-boilerplate-api.md) | ⭐ 396 | TypeScript | 72/100 |
+| 131 | [mikemajesty/nestjs-microservice-boilerplate-api](./mikemajesty-nestjs-microservice-boilerplate-api.md) | ⭐ 397 | TypeScript | 72/100 |
 | 132 | [htyf-mp-community/htyf-cli](./htyf-mp-community-htyf-cli.md) | ⭐ 207 | TypeScript | 72/100 |
 | 133 | [mysigmail/card](./mysigmail-card.md) | ⭐ 413 | TypeScript | 72/100 |
 | 134 | [flowexec/flow](./flowexec-flow.md) | ⭐ 139 | Go | 72/100 |
@@ -278,7 +278,7 @@
 | 268 | [nholthaus/units](./nholthaus-units.md) | ⭐ 1.1k | C++ | 64/100 |
 | 269 | [HsienW/ai-agent-coding-solution-kit](./hsienw-ai-agent-coding-solution-kit.md) | ⭐ 51 | Vim Snippet | 64/100 |
 | 270 | [YuDefine/nuxt-supabase-starter](./yudefine-nuxt-supabase-starter.md) | ⭐ 44 | JavaScript | 64/100 |
-| 271 | [osteele/liquid](./osteele-liquid.md) | ⭐ 359 | Go | 64/100 |
+| 271 | [osteele/liquid](./osteele-liquid.md) | ⭐ 360 | Go | 64/100 |
 | 272 | [joaomlourenco/novathesis](./joaomlourenco-novathesis.md) | ⭐ 1k | TeX | 64/100 |
 | 273 | [seandavi/lifeos-template](./seandavi-lifeos-template.md) | ⭐ 47 | Python | 64/100 |
 | 274 | [murraco/jekyll-theme-minimal-resume](./murraco-jekyll-theme-minimal-resume.md) | ⭐ 553 | SCSS | 64/100 |
@@ -339,7 +339,7 @@
 | 329 | [mshadmanrahman/claude-for-designers](./mshadmanrahman-claude-for-designers.md) | ⭐ 42 | HTML | 61/100 |
 | 330 | [MkThingsHQ/mkdirs](./mkthingshq-mkdirs.md) | ⭐ 295 | TypeScript | 61/100 |
 | 331 | [lkurzyniec/netcore-boilerplate](./lkurzyniec-netcore-boilerplate.md) | ⭐ 554 | C# | 61/100 |
-| 332 | [devpunks/snuggsi](./devpunks-snuggsi.md) | ⭐ 395 | JavaScript | 61/100 |
+| 332 | [devpunks/snuggsi](./devpunks-snuggsi.md) | ⭐ 396 | JavaScript | 61/100 |
 | 333 | [selfishprimate/gerillass](./selfishprimate-gerillass.md) | ⭐ 171 | SCSS | 61/100 |
 | 334 | [jeffweisbein/openclaw-starter-kit](./jeffweisbein-openclaw-starter-kit.md) | ⭐ 72 | Shell | 61/100 |
 | 335 | [twpayne/dotfiles](./twpayne-dotfiles.md) | ⭐ 467 | Go Template | 61/100 |
@@ -448,7 +448,7 @@
 | 438 | [P4Software/SheetStream](./p4software-sheetstream.md) | ⭐ — | C# | 49/100 |
 | 439 | [ijlee2/sublime-syntax-definition-template-tag](./ijlee2-sublime-syntax-definition-template-tag.md) | ⭐ — | TypeScript | 49/100 |
 | 440 | [soycheppi/foodflow-demo](./soycheppi-foodflow-demo.md) | ⭐ 2 | TypeScript | 49/100 |
-| 441 | [DevUnltd/js-library-boilerplate-basic](./devunltd-js-library-boilerplate-basic.md) | ⭐ 411 | HTML | 49/100 |
+| 441 | [DevUnltd/js-library-boilerplate-basic](./devunltd-js-library-boilerplate-basic.md) | ⭐ 412 | HTML | 49/100 |
 | 442 | [gendeg/Lissic](./gendeg-lissic.md) | ⭐ 20 | — | 48/100 |
 | 443 | [jp-um/university_of_malta_LaTeX_dissertation_template](./jp-um-university-of-malta-latex-dissertation-template.md) | ⭐ 81 | — | 48/100 |
 | 444 | [webshining/aiogram-mongo-template](./webshining-aiogram-mongo-template.md) | ⭐ 16 | Python | 48/100 |

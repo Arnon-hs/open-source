@@ -1,6 +1,6 @@
 # jaime-olivares/DotNetPip
 
-[![Stars](https://img.shields.io/github/stars/jaime-olivares/DotNetPip?style=flat-square&color=yellow)](https://github.com/jaime-olivares/DotNetPip/stargazers) [![Forks](https://img.shields.io/github/forks/jaime-olivares/DotNetPip?style=flat-square&color=blue)](https://github.com/jaime-olivares/DotNetPip/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jaime-olivares/DotNetPip?style=flat-square&color=yellow)](https://github.com/jaime-olivares/DotNetPip/stargazers) [![Forks](https://img.shields.io/github/forks/jaime-olivares/DotNetPip?style=flat-square&color=blue)](https://github.com/jaime-olivares/DotNetPip/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > Run Python AI & Machine Learning libraries natively inside .NET 10
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-28 |
 | 🔍 **Source** | story-link |
 
@@ -58,22 +58,22 @@ jaime-olivares/DotNetPip：jaime-olivares/DotNetPip helps add AI capability with
 - primary language: C#
 - 10 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 48/100 |
+| quality | 43/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 55/100 |
+| production | 50/100 |
+| outlook | 48/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

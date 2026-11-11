@@ -87,7 +87,7 @@
 | 77 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 984 | TypeScript | 54/100 |
 | 78 | [SAP/macOS-icon-generator](./sap-macos-icon-generator.md) | ⭐ 647 | C | 53/100 |
 | 79 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 404 | HTML | 53/100 |
-| 80 | [carbon-design-system/gatsby-theme-carbon](./carbon-design-system-gatsby-theme-carbon.md) | ⭐ 357 | MDX | 53/100 |
+| 80 | [carbon-design-system/gatsby-theme-carbon](./carbon-design-system-gatsby-theme-carbon.md) | ⭐ 358 | MDX | 53/100 |
 | 81 | [neetly/figma-agent-linux](./neetly-figma-agent-linux.md) | ⭐ 401 | Rust | 53/100 |
 | 82 | [adobe/spectrum-design-data](./adobe-spectrum-design-data.md) | ⭐ 158 | Rust | 53/100 |
 | 83 | [su2code/SU2](./su2code-su2.md) | ⭐ 1.9k | C++ | 53/100 |
@@ -110,8 +110,8 @@
 | 100 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 130 | Rust | 50/100 |
 | 101 | [synfig/synfig](./synfig-synfig.md) | ⭐ 2.4k | C++ | 50/100 |
 | 102 | [drawcms/drawcms](./drawcms-drawcms.md) | ⭐ 45 | — | 49/100 |
-| 103 | [finix-community/finix](./finix-community-finix.md) | ⭐ 614 | Nix | 49/100 |
-| 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 539 | Shell | 49/100 |
+| 103 | [finix-community/finix](./finix-community-finix.md) | ⭐ 617 | Nix | 49/100 |
+| 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 538 | Shell | 49/100 |
 | 105 | [kzhrknt/awesome-design-md-jp](./kzhrknt-awesome-design-md-jp.md) | ⭐ 1k | HTML | 49/100 |
 | 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 555 | Python | 49/100 |
 | 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.1k | Ruby | 49/100 |

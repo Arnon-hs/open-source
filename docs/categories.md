@@ -30,7 +30,7 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Mobile](../mobile/README.md) | 708 |
 | [Networking](../networking/README.md) | 678 |
 | [Observability](../observability/README.md) | 327 |
-| [Orchestration](../orchestration/README.md) | 2,498 |
+| [Orchestration](../orchestration/README.md) | 2,499 |
 | [Payments](../payments/README.md) | 393 |
 | [Product](../product/README.md) | 13 |
 | [Productivity](../productivity/README.md) | 364 |

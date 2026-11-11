@@ -20,7 +20,7 @@
 | 10 | [mag37/dockcheck](./mag37-dockcheck.md) | ⭐ 2.5k | Shell | 75/100 |
 | 11 | [saltyorg/Saltbox](./saltyorg-saltbox.md) | ⭐ 891 | Python | 75/100 |
 | 12 | [containerd/containerd](./containerd-containerd.md) | ⭐ 21.5k | Go | 74/100 |
-| 13 | [kubara-io/kubara](./kubara-io-kubara.md) | ⭐ 438 | Go | 74/100 |
+| 13 | [kubara-io/kubara](./kubara-io-kubara.md) | ⭐ 439 | Go | 74/100 |
 | 14 | [yeasy/docker_practice](./yeasy-docker-practice.md) | ⭐ 26.4k | Go | 74/100 |
 | 15 | [replicatedhq/kots](./replicatedhq-kots.md) | ⭐ 953 | Go | 74/100 |
 | 16 | [werf/werf](./werf-werf.md) | ⭐ 4.7k | Go | 74/100 |
@@ -113,7 +113,7 @@
 | 103 | [Katenary/katenary](./katenary-katenary.md) | ⭐ 216 | Go | 65/100 |
 | 104 | [NVIDIA/k8s-device-plugin](./nvidia-k8s-device-plugin.md) | ⭐ 3.9k | Go | 65/100 |
 | 105 | [syntasso/kratix](./syntasso-kratix.md) | ⭐ 790 | Go | 65/100 |
-| 106 | [mintoolkit/mint](./mintoolkit-mint.md) | ⭐ 365 | Go | 65/100 |
+| 106 | [mintoolkit/mint](./mintoolkit-mint.md) | ⭐ 367 | Go | 65/100 |
 | 107 | [cshum/imagor](./cshum-imagor.md) | ⭐ 4.1k | Go | 65/100 |
 | 108 | [swiftwave-org/swiftwave](./swiftwave-org-swiftwave.md) | ⭐ 910 | Go | 65/100 |
 | 109 | [rancher-sandbox/rancher-desktop](./rancher-sandbox-rancher-desktop.md) | ⭐ 7.4k | TypeScript | 65/100 |
@@ -129,8 +129,8 @@
 | 119 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 9k | Go | 64/100 |
 | 120 | [tborychowski/self-hosted-cookbook](./tborychowski-self-hosted-cookbook.md) | ⭐ 1.3k | — | 64/100 |
 | 121 | [open-policy-agent/gatekeeper-library](./open-policy-agent-gatekeeper-library.md) | ⭐ 705 | Open Policy Agent | 64/100 |
-| 122 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 676 | Go | 64/100 |
-| 123 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
+| 122 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
+| 123 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 676 | Go | 64/100 |
 | 124 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 64/100 |
 | 125 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 321 | Python | 64/100 |
 | 126 | [mkubaczyk/helmsman](./mkubaczyk-helmsman.md) | ⭐ 1.5k | Go | 64/100 |
@@ -156,12 +156,12 @@
 | 146 | [danm-cni/danm](./danm-cni-danm.md) | ⭐ 396 | Go | 63/100 |
 | 147 | [ceph/ceph-csi](./ceph-ceph-csi.md) | ⭐ 1.6k | Go | 63/100 |
 | 148 | [crumbhole/argocd-lovely-plugin](./crumbhole-argocd-lovely-plugin.md) | ⭐ 493 | Go | 63/100 |
-| 149 | [zammad/zammad-docker-compose](./zammad-zammad-docker-compose.md) | ⭐ 393 | — | 63/100 |
+| 149 | [zammad/zammad-docker-compose](./zammad-zammad-docker-compose.md) | ⭐ 394 | — | 63/100 |
 | 150 | [will-moss/isaiah](./will-moss-isaiah.md) | ⭐ 1.1k | Go | 63/100 |
 | 151 | [qoomon/docker-host](./qoomon-docker-host.md) | ⭐ 1.2k | Shell | 63/100 |
 | 152 | [fussybeaver/bollard](./fussybeaver-bollard.md) | ⭐ 1.4k | Rust | 63/100 |
 | 153 | [librenms/docker](./librenms-docker.md) | ⭐ 869 | Dockerfile | 63/100 |
-| 154 | [rubyforgood/casa](./rubyforgood-casa.md) | ⭐ 383 | Ruby | 63/100 |
+| 154 | [rubyforgood/casa](./rubyforgood-casa.md) | ⭐ 384 | Ruby | 63/100 |
 | 155 | [harvester/harvester](./harvester-harvester.md) | ⭐ 5.2k | Go | 63/100 |
 | 156 | [TencentBlueKing/bk-ci](./tencentblueking-bk-ci.md) | ⭐ 2.5k | Kotlin | 63/100 |
 | 157 | [helmfile/helmfile](./helmfile-helmfile.md) | ⭐ 5.2k | Go | 63/100 |
@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -224,7 +224,7 @@
 | 214 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 32 | Nix | 60/100 |
 | 215 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 401 | Go | 60/100 |
 | 216 | [bigbugcc/OpenWrts](./bigbugcc-openwrts.md) | ⭐ 774 | JavaScript | 60/100 |
-| 217 | [bex-co/bex](./bex-co-bex.md) | ⭐ 576 | Go | 60/100 |
+| 217 | [bex-co/bex](./bex-co-bex.md) | ⭐ 578 | Go | 60/100 |
 | 218 | [docker-library/docs](./docker-library-docs.md) | ⭐ 5.3k | Shell | 60/100 |
 | 219 | [opf/openproject-docker-compose](./opf-openproject-docker-compose.md) | ⭐ 350 | Shell | 60/100 |
 | 220 | [moby/moby](./moby-moby.md) | ⭐ 72.4k | Go | 60/100 |
@@ -287,7 +287,7 @@
 | 277 | [netbox-community/netbox-chart](./netbox-community-netbox-chart.md) | ⭐ 366 | Mustache | 57/100 |
 | 278 | [pl4nty/cloudflare-kubernetes-gateway](./pl4nty-cloudflare-kubernetes-gateway.md) | ⭐ 327 | Go | 57/100 |
 | 279 | [fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter](./fluent-plugins-nursery-fluent-plugin-kubernetes-metadata-filter.md) | ⭐ 355 | Ruby | 57/100 |
-| 280 | [devops-works/binenv](./devops-works-binenv.md) | ⭐ 408 | Go | 57/100 |
+| 280 | [devops-works/binenv](./devops-works-binenv.md) | ⭐ 409 | Go | 57/100 |
 | 281 | [docker/model-runner](./docker-model-runner.md) | ⭐ 661 | Go | 57/100 |
 | 282 | [discourse/discourse_docker](./discourse-discourse-docker.md) | ⭐ 1.9k | Shell | 57/100 |
 | 283 | [volcano-sh/kthena](./volcano-sh-kthena.md) | ⭐ 497 | Go | 57/100 |
@@ -318,7 +318,7 @@
 | 308 | [lvaoliveira/sonda](./lvaoliveira-sonda.md) | ⭐ 10 | Rust | 56/100 |
 | 309 | [plausible/community-edition](./plausible-community-edition.md) | ⭐ 3k | — | 55/100 |
 | 310 | [p10node/k10s](./p10node-k10s.md) | ⭐ 330 | — | 55/100 |
-| 311 | [acrlabs/simkube](./acrlabs-simkube.md) | ⭐ 403 | Rust | 55/100 |
+| 311 | [acrlabs/simkube](./acrlabs-simkube.md) | ⭐ 404 | Rust | 55/100 |
 | 312 | [huaweicloud/terraform-provider-huaweicloud](./huaweicloud-terraform-provider-huaweicloud.md) | ⭐ 275 | Go | 55/100 |
 | 313 | [kubernetes-sigs/zeitgeist](./kubernetes-sigs-zeitgeist.md) | ⭐ 206 | Go | 55/100 |
 | 314 | [imran31415/kube-coder](./imran31415-kube-coder.md) | ⭐ 409 | Python | 55/100 |
@@ -387,7 +387,7 @@
 | 377 | [AzBuildDev/nas-device-flow](./azbuilddev-nas-device-flow.md) | ⭐ 2 | Python | 50/100 |
 | 378 | [edgestorage/task-handoff](./edgestorage-task-handoff.md) | ⭐ 6 | TypeScript | 50/100 |
 | 379 | [nuonco/nuon](./nuonco-nuon.md) | ⭐ 124 | Go | 50/100 |
-| 380 | [NixOS/infra](./nixos-infra.md) | ⭐ 387 | Nix | 50/100 |
+| 380 | [NixOS/infra](./nixos-infra.md) | ⭐ 388 | Nix | 50/100 |
 | 381 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 116 | Rust | 50/100 |
 | 382 | [bpg/terraform-provider-proxmox](./bpg-terraform-provider-proxmox.md) | ⭐ 2.3k | Go | 50/100 |
 | 383 | [kubie-org/kubie](./kubie-org-kubie.md) | ⭐ 2.7k | Rust | 50/100 |
@@ -483,8 +483,8 @@
 | 473 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 474 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 475 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 476 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
-| 477 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 476 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 477 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
 | 478 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 479 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 480 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |

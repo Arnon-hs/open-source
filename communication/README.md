@@ -64,7 +64,7 @@
 | 54 | [lukevella/rallly](./lukevella-rallly.md) | ⭐ 5.4k | TypeScript | 68/100 |
 | 55 | [wavebox/waveboxapp](./wavebox-waveboxapp.md) | ⭐ 1.4k | JavaScript | 68/100 |
 | 56 | [nager/Nager.Date](./nager-nager.date.md) | ⭐ 1.4k | C# | 68/100 |
-| 57 | [Shoshuo/Prismarr](./shoshuo-prismarr.md) | ⭐ 474 | Twig | 68/100 |
+| 57 | [Shoshuo/Prismarr](./shoshuo-prismarr.md) | ⭐ 475 | Twig | 68/100 |
 | 58 | [abdolence/slack-morphism-rust](./abdolence-slack-morphism-rust.md) | ⭐ 232 | Rust | 67/100 |
 | 59 | [firebase/firebase-cpp-sdk](./firebase-firebase-cpp-sdk.md) | ⭐ 325 | C++ | 67/100 |
 | 60 | [intri-in/manage-my-damn-life-nextjs](./intri-in-manage-my-damn-life-nextjs.md) | ⭐ 647 | JavaScript | 67/100 |
@@ -148,7 +148,7 @@
 | 138 | [postalsys/emailengine](./postalsys-emailengine.md) | ⭐ 2.2k | JavaScript | 61/100 |
 | 139 | [RocketChat/Rocket.Chat.ReactNative](./rocketchat-rocket.chat.reactnative.md) | ⭐ 2.4k | TypeScript | 61/100 |
 | 140 | [stoatchat/stoatchat](./stoatchat-stoatchat.md) | ⭐ 3.5k | Rust | 61/100 |
-| 141 | [bulwarkmail/webmail](./bulwarkmail-webmail.md) | ⭐ 1.4k | TypeScript | 61/100 |
+| 141 | [bulwarkmail/webmail](./bulwarkmail-webmail.md) | ⭐ 1.5k | TypeScript | 61/100 |
 | 142 | [centrifugal/centrifuge](./centrifugal-centrifuge.md) | ⭐ 1.5k | Go | 60/100 |
 | 143 | [BlackBeltTechnology/pi-agent-dashboard](./blackbelttechnology-pi-agent-dashboard.md) | ⭐ 344 | TypeScript | 60/100 |
 | 144 | [LockGit/gochat](./lockgit-gochat.md) | ⭐ 2.9k | Go | 60/100 |
@@ -166,7 +166,7 @@
 | 156 | [HQBase/hqbase](./hqbase-hqbase.md) | ⭐ 354 | TypeScript | 59/100 |
 | 157 | [permissionlesstech/bitchat](./permissionlesstech-bitchat.md) | ⭐ 37.1k | Swift | 59/100 |
 | 158 | [stefangabos/Zebra_Datepicker](./stefangabos-zebra-datepicker.md) | ⭐ 404 | JavaScript | 59/100 |
-| 159 | [The-Osint-Toolbox/Email-Username-OSINT](./the-osint-toolbox-email-username-osint.md) | ⭐ 418 | — | 59/100 |
+| 159 | [The-Osint-Toolbox/Email-Username-OSINT](./the-osint-toolbox-email-username-osint.md) | ⭐ 420 | — | 59/100 |
 | 160 | [xushanpei/open-file-viewer](./xushanpei-open-file-viewer.md) | ⭐ 2k | TypeScript | 59/100 |
 | 161 | [circled-me/server](./circled-me-server.md) | ⭐ 211 | Go | 59/100 |
 | 162 | [onetimesecret/onetimesecret](./onetimesecret-onetimesecret.md) | ⭐ 3k | Ruby | 59/100 |
@@ -181,7 +181,7 @@
 | 171 | [apache/artemis](./apache-artemis.md) | ⭐ 1.1k | Java | 58/100 |
 | 172 | [2factorauth/twofactorauth](./2factorauth-twofactorauth.md) | ⭐ 3.5k | JavaScript | 58/100 |
 | 173 | [useplunk/plunk](./useplunk-plunk.md) | ⭐ 5.6k | TypeScript | 58/100 |
-| 174 | [sockethub/sockethub](./sockethub-sockethub.md) | ⭐ 394 | TypeScript | 58/100 |
+| 174 | [sockethub/sockethub](./sockethub-sockethub.md) | ⭐ 395 | TypeScript | 58/100 |
 | 175 | [mpv-android/mpv-android](./mpv-android-mpv-android.md) | ⭐ 3.7k | Kotlin | 58/100 |
 | 176 | [overlayeddev/overlayed](./overlayeddev-overlayed.md) | ⭐ 691 | TypeScript | 58/100 |
 | 177 | [M66B/FairEmail](./m66b-fairemail.md) | ⭐ 4.8k | Java | 58/100 |
@@ -198,7 +198,7 @@
 | 188 | [spatie/calendar-links](./spatie-calendar-links.md) | ⭐ 1k | PHP | 57/100 |
 | 189 | [happyDomain/happydeliver](./happydomain-happydeliver.md) | ⭐ 238 | Go | 57/100 |
 | 190 | [decke/smtprelay](./decke-smtprelay.md) | ⭐ 641 | Go | 57/100 |
-| 191 | [KashCal/KashCal](./kashcal-kashcal.md) | ⭐ 490 | Kotlin | 57/100 |
+| 191 | [KashCal/KashCal](./kashcal-kashcal.md) | ⭐ 493 | Kotlin | 57/100 |
 | 192 | [movim/movim](./movim-movim.md) | ⭐ 2.1k | PHP | 57/100 |
 | 193 | [foundation/inky](./foundation-inky.md) | ⭐ 711 | Rust | 57/100 |
 | 194 | [chronotope/chrono](./chronotope-chrono.md) | ⭐ 3.9k | Rust | 57/100 |
@@ -208,7 +208,7 @@
 | 198 | [ChurchCRM/CRM](./churchcrm-crm.md) | ⭐ 992 | PHP | 57/100 |
 | 199 | [gnekt/My-Brain-Is-Full-Crew](./gnekt-my-brain-is-full-crew.md) | ⭐ 3.9k | Shell | 56/100 |
 | 200 | [timeframe/ha-addon](./timeframe-ha-addon.md) | ⭐ 880 | Ruby | 56/100 |
-| 201 | [jalaali/jalaali-js](./jalaali-jalaali-js.md) | ⭐ 366 | TypeScript | 56/100 |
+| 201 | [jalaali/jalaali-js](./jalaali-jalaali-js.md) | ⭐ 368 | TypeScript | 56/100 |
 | 202 | [kenn-io/msgvault](./kenn-io-msgvault.md) | ⭐ 2.2k | Go | 56/100 |
 | 203 | [roundcube/roundcubemail](./roundcube-roundcubemail.md) | ⭐ 7.3k | PHP | 56/100 |
 | 204 | [muni-town/roomy](./muni-town-roomy.md) | ⭐ 499 | TypeScript | 56/100 |
@@ -226,7 +226,7 @@
 | 216 | [sebbo2002/ical-generator](./sebbo2002-ical-generator.md) | ⭐ 858 | TypeScript | 55/100 |
 | 217 | [Medvedev91/timeto.me](./medvedev91-timeto.me.md) | ⭐ 727 | Kotlin | 55/100 |
 | 218 | [jmhobbs/cultofthepartyparrot.com](./jmhobbs-cultofthepartyparrot.com.md) | ⭐ 1.6k | HTML | 55/100 |
-| 219 | [microsoft/LangChain4j-for-Beginners](./microsoft-langchain4j-for-beginners.md) | ⭐ 554 | Java | 55/100 |
+| 219 | [microsoft/LangChain4j-for-Beginners](./microsoft-langchain4j-for-beginners.md) | ⭐ 556 | Java | 55/100 |
 | 220 | [appleboy/go-fcm](./appleboy-go-fcm.md) | ⭐ 329 | Go | 55/100 |
 | 221 | [Sharkord/sharkord](./sharkord-sharkord.md) | ⭐ 1.6k | TypeScript | 55/100 |
 | 222 | [jerryxff26-alt/dsh-delivery-board](./jerryxff26-alt-dsh-delivery-board.md) | ⭐ 4 | JavaScript | 54/100 |
@@ -289,7 +289,7 @@
 | 279 | [freenet/river](./freenet-river.md) | ⭐ 314 | Rust | 49/100 |
 | 280 | [matrix-construct/tuwunel](./matrix-construct-tuwunel.md) | ⭐ 2.8k | Rust | 49/100 |
 | 281 | [bloomberg/blazingmq](./bloomberg-blazingmq.md) | ⭐ 3.2k | C++ | 49/100 |
-| 282 | [aio-libs/aiosmtpd](./aio-libs-aiosmtpd.md) | ⭐ 373 | Python | 49/100 |
+| 282 | [aio-libs/aiosmtpd](./aio-libs-aiosmtpd.md) | ⭐ 374 | Python | 49/100 |
 | 283 | [michaelmagan/OpenHuman](./michaelmagan-openhuman.md) | ⭐ 11 | — | 48/100 |
 | 284 | [Groundmail/groundhog](./groundmail-groundhog.md) | ⭐ 2 | — | 48/100 |
 | 285 | [d99kris/nmail](./d99kris-nmail.md) | ⭐ 268 | — | 48/100 |
@@ -361,8 +361,8 @@
 | 351 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 352 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 353 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 354 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
-| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 354 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
 | 356 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 357 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 358 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

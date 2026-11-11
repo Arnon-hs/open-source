@@ -113,7 +113,7 @@
 | 103 | [ARM-DOE/pyart](./arm-doe-pyart.md) | ⭐ 611 | Python | 62/100 |
 | 104 | [ChartGPU/ChartGPU](./chartgpu-chartgpu.md) | ⭐ 3.3k | TypeScript | 62/100 |
 | 105 | [lf-edge/ekuiper](./lf-edge-ekuiper.md) | ⭐ 1.8k | Go | 62/100 |
-| 106 | [eclipse-rdf4j/rdf4j](./eclipse-rdf4j-rdf4j.md) | ⭐ 424 | Java | 62/100 |
+| 106 | [eclipse-rdf4j/rdf4j](./eclipse-rdf4j-rdf4j.md) | ⭐ 425 | Java | 62/100 |
 | 107 | [git-cola/git-cola](./git-cola-git-cola.md) | ⭐ 2.6k | Python | 62/100 |
 | 108 | [sindresorhus/p-queue](./sindresorhus-p-queue.md) | ⭐ 4.3k | TypeScript | 62/100 |
 | 109 | [fluent/fluent-bit](./fluent-fluent-bit.md) | ⭐ 8.2k | C | 62/100 |
@@ -179,7 +179,7 @@
 | 169 | [typeorm/typeorm](./typeorm-typeorm.md) | ⭐ 36.7k | TypeScript | 59/100 |
 | 170 | [celestiaorg/celestia-core](./celestiaorg-celestia-core.md) | ⭐ 551 | Go | 58/100 |
 | 171 | [CS-SI/eodag](./cs-si-eodag.md) | ⭐ 441 | Python | 58/100 |
-| 172 | [hms-dbmi/viv](./hms-dbmi-viv.md) | ⭐ 373 | JavaScript | 58/100 |
+| 172 | [hms-dbmi/viv](./hms-dbmi-viv.md) | ⭐ 374 | JavaScript | 58/100 |
 | 173 | [microprediction/microprediction](./microprediction-microprediction.md) | ⭐ 377 | Jupyter Notebook | 58/100 |
 | 174 | [d3blocks/d3blocks](./d3blocks-d3blocks.md) | ⭐ 777 | Jupyter Notebook | 58/100 |
 | 175 | [avaneev/lzav](./avaneev-lzav.md) | ⭐ 564 | C++ | 58/100 |
@@ -231,7 +231,7 @@
 | 221 | [ericmjl/nxviz](./ericmjl-nxviz.md) | ⭐ 487 | Python | 56/100 |
 | 222 | [enthought/mayavi](./enthought-mayavi.md) | ⭐ 1.4k | Python | 56/100 |
 | 223 | [rokath/trice](./rokath-trice.md) | ⭐ 1k | C | 56/100 |
-| 224 | [opensearch-project/data-prepper](./opensearch-project-data-prepper.md) | ⭐ 377 | Java | 56/100 |
+| 224 | [opensearch-project/data-prepper](./opensearch-project-data-prepper.md) | ⭐ 378 | Java | 56/100 |
 | 225 | [cortex-lab/phy](./cortex-lab-phy.md) | ⭐ 438 | Python | 56/100 |
 | 226 | [the-turing-way/the-turing-way](./the-turing-way-the-turing-way.md) | ⭐ 2.2k | TeX | 56/100 |
 | 227 | [bids-standard/bids-specification](./bids-standard-bids-specification.md) | ⭐ 375 | Python | 56/100 |
@@ -322,7 +322,7 @@
 | 312 | [tryandromeda/andromeda](./tryandromeda-andromeda.md) | ⭐ 858 | Rust | 49/100 |
 | 313 | [emanuelef/daily-stars-explorer](./emanuelef-daily-stars-explorer.md) | ⭐ 412 | JavaScript | 49/100 |
 | 314 | [celestiaorg/celestia-node](./celestiaorg-celestia-node.md) | ⭐ 1k | Go | 49/100 |
-| 315 | [quantgirluk/aleatory](./quantgirluk-aleatory.md) | ⭐ 373 | Python | 48/100 |
+| 315 | [quantgirluk/aleatory](./quantgirluk-aleatory.md) | ⭐ 374 | Python | 48/100 |
 | 316 | [WerWolv/ImHex-Patterns](./werwolv-imhex-patterns.md) | ⭐ 1k | Rust | 48/100 |
 | 317 | [rweekly/rweekly.org](./rweekly-rweekly.org.md) | ⭐ 831 | Rez | 48/100 |
 | 318 | [PRQL/prql](./prql-prql.md) | ⭐ 10.9k | Rust | 48/100 |
