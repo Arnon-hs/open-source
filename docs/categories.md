@@ -24,7 +24,7 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Games & Graphics](../games--graphics/README.md) | 360 |
 | [Knowledge/RAG](../knowledgerag/README.md) | 651 |
 | [Libraries & SDKs](../libraries--sdks/README.md) | 281 |
-| [Marketing](../marketing/README.md) | 38 |
+| [Marketing](../marketing/README.md) | 39 |
 | [MCP](../mcp/README.md) | 3,004 |
 | [Misc](../misc/README.md) | 18,191 |
 | [Mobile](../mobile/README.md) | 708 |

@@ -42,7 +42,7 @@
 | 32 | [stamparm/maltrail](./stamparm-maltrail.md) | ⭐ 8.7k | Python | 68/100 |
 | 33 | [perses/perses](./perses-perses.md) | ⭐ 2.5k | Go | 68/100 |
 | 34 | [iflytek/skillhub](./iflytek-skillhub.md) | ⭐ 5.4k | Java | 68/100 |
-| 35 | [0cv/herdr-mobile-relay](./0cv-herdr-mobile-relay.md) | ⭐ 373 | TypeScript | 67/100 |
+| 35 | [0cv/herdr-mobile-relay](./0cv-herdr-mobile-relay.md) | ⭐ 376 | TypeScript | 67/100 |
 | 36 | [patman15/BMS_BLE-HA](./patman15-bms-ble-ha.md) | ⭐ 379 | Python | 67/100 |
 | 37 | [GoogleChrome/chromium-dashboard](./googlechrome-chromium-dashboard.md) | ⭐ 747 | Python | 67/100 |
 | 38 | [prometheus/client_golang](./prometheus-client-golang.md) | ⭐ 6k | Go | 67/100 |
@@ -61,7 +61,7 @@
 | 51 | [prometheus/node_exporter](./prometheus-node-exporter.md) | ⭐ 13.9k | Go | 66/100 |
 | 52 | [OISF/suricata](./oisf-suricata.md) | ⭐ 6.9k | C | 66/100 |
 | 53 | [sni/thruk](./sni-thruk.md) | ⭐ 446 | Perl | 66/100 |
-| 54 | [grouzen/framework-tool-tui](./grouzen-framework-tool-tui.md) | ⭐ 361 | Rust | 66/100 |
+| 54 | [grouzen/framework-tool-tui](./grouzen-framework-tool-tui.md) | ⭐ 362 | Rust | 66/100 |
 | 55 | [shizunge/endlessh-go](./shizunge-endlessh-go.md) | ⭐ 1.5k | Go | 66/100 |
 | 56 | [ossec/ossec-hids](./ossec-ossec-hids.md) | ⭐ 5.1k | C | 65/100 |
 | 57 | [squzy/squzy](./squzy-squzy.md) | ⭐ 479 | Go | 65/100 |
@@ -112,7 +112,7 @@
 | 102 | [parca-dev/parca-agent](./parca-dev-parca-agent.md) | ⭐ 751 | Go | 61/100 |
 | 103 | [zeek/zeek](./zeek-zeek.md) | ⭐ 8.2k | C++ | 61/100 |
 | 104 | [ccfos/nightingale](./ccfos-nightingale.md) | ⭐ 13.5k | Go | 61/100 |
-| 105 | [prometheus/exporter-toolkit](./prometheus-exporter-toolkit.md) | ⭐ 312 | Go | 60/100 |
+| 105 | [prometheus/exporter-toolkit](./prometheus-exporter-toolkit.md) | ⭐ 314 | Go | 60/100 |
 | 106 | [ossf/scorecard](./ossf-scorecard.md) | ⭐ 5.8k | Go | 60/100 |
 | 107 | [elastic/apm-agent-dotnet](./elastic-apm-agent-dotnet.md) | ⭐ 593 | C# | 60/100 |
 | 108 | [OpsiMate/OpsiMate](./opsimate-opsimate.md) | ⭐ 290 | TypeScript | 60/100 |
@@ -127,7 +127,7 @@
 | 117 | [grafana/beyla](./grafana-beyla.md) | ⭐ 2.2k | Go | 59/100 |
 | 118 | [nginx/nginx-prometheus-exporter](./nginx-nginx-prometheus-exporter.md) | ⭐ 2k | Go | 59/100 |
 | 119 | [GoogleChrome/web-vitals](./googlechrome-web-vitals.md) | ⭐ 8.7k | JavaScript | 59/100 |
-| 120 | [UCSBarchlab/PyRTL](./ucsbarchlab-pyrtl.md) | ⭐ 307 | Python | 59/100 |
+| 120 | [UCSBarchlab/PyRTL](./ucsbarchlab-pyrtl.md) | ⭐ 308 | Python | 59/100 |
 | 121 | [esrlabs/chipmunk](./esrlabs-chipmunk.md) | ⭐ 871 | Rust | 59/100 |
 | 122 | [open-telemetry/opentelemetry-rust](./open-telemetry-opentelemetry-rust.md) | ⭐ 2.8k | Rust | 59/100 |
 | 123 | [zentralopensource/zentral](./zentralopensource-zentral.md) | ⭐ 890 | Python | 59/100 |
@@ -157,7 +157,7 @@
 | 147 | [hedhyw/json-log-viewer](./hedhyw-json-log-viewer.md) | ⭐ 244 | Go | 56/100 |
 | 148 | [laravel/nightwatch](./laravel-nightwatch.md) | ⭐ 379 | PHP | 56/100 |
 | 149 | [OxidizeLabs/cachekit](./oxidizelabs-cachekit.md) | ⭐ 163 | Rust | 56/100 |
-| 150 | [TIANLI0/THRM](./tianli0-thrm.md) | ⭐ 457 | Go | 56/100 |
+| 150 | [TIANLI0/THRM](./tianli0-thrm.md) | ⭐ 460 | Go | 56/100 |
 | 151 | [prometheus/test-infra](./prometheus-test-infra.md) | ⭐ 166 | Go | 56/100 |
 | 152 | [Daminoup88/WattSeal](./daminoup88-wattseal.md) | ⭐ 289 | Rust | 56/100 |
 | 153 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 944 | TypeScript | 56/100 |
@@ -303,7 +303,7 @@
 | 293 | [Jeffy123-zhu/logspecter](./jeffy123-zhu-logspecter.md) | ⭐ 5 | — | 41/100 |
 | 294 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ 7 | — | 41/100 |
 | 295 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ 1 | — | 41/100 |
-| 296 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 449 | Rust | 41/100 |
+| 296 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 450 | Rust | 41/100 |
 | 297 | [Claven07/dsh-plugin-agent-insights](./claven07-dsh-plugin-agent-insights.md) | ⭐ — | TypeScript | 41/100 |
 | 298 | [Pager-dot/AeroVision](./pager-dot-aerovision.md) | ⭐ — | HTML | 40/100 |
 | 299 | [nixys/nxs-anomaly](./nixys-nxs-anomaly.md) | ⭐ 14 | — | 40/100 |

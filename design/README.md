@@ -22,7 +22,7 @@
 | 12 | [WPS/egon.io](./wps-egon.io.md) | ⭐ 839 | TypeScript | 65/100 |
 | 13 | [logisim-evolution/logisim-evolution](./logisim-evolution-logisim-evolution.md) | ⭐ 7.9k | Java | 65/100 |
 | 14 | [nextcloud/server](./nextcloud-server.md) | ⭐ 37.5k | PHP | 65/100 |
-| 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 593 | Python | 64/100 |
+| 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 596 | Python | 64/100 |
 | 16 | [eclipse-ee4j/cargotracker](./eclipse-ee4j-cargotracker.md) | ⭐ 395 | JavaScript | 64/100 |
 | 17 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 908 | C# | 64/100 |
 | 18 | [kando-menu/kando](./kando-menu-kando.md) | ⭐ 6.6k | TypeScript | 63/100 |
@@ -30,7 +30,7 @@
 | 20 | [monkeytypegame/monkeytype](./monkeytypegame-monkeytype.md) | ⭐ 21k | TypeScript | 63/100 |
 | 21 | [psychopy/psychopy](./psychopy-psychopy.md) | ⭐ 2.1k | Python | 62/100 |
 | 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 701 | Python | 62/100 |
-| 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 550 | Python | 62/100 |
+| 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 551 | Python | 62/100 |
 | 24 | [MewPurPur/GodSVG](./mewpurpur-godsvg.md) | ⭐ 2.8k | GDScript | 61/100 |
 | 25 | [Lailloken/Exile-UI](./lailloken-exile-ui.md) | ⭐ 1.4k | AutoHotkey | 61/100 |
 | 26 | [bastani-inc/atomic](./bastani-inc-atomic.md) | ⭐ 882 | TypeScript | 61/100 |
@@ -61,7 +61,7 @@
 | 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.2k | C++ | 57/100 |
 | 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 717 | Python | 57/100 |
 | 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 2 | JavaScript | 57/100 |
-| 54 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 353 | Lua | 56/100 |
+| 54 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 354 | Lua | 56/100 |
 | 55 | [OpenOLAT/OpenOLAT](./openolat-openolat.md) | ⭐ 451 | Java | 56/100 |
 | 56 | [uswds/uswds-site](./uswds-uswds-site.md) | ⭐ 252 | HTML | 56/100 |
 | 57 | [nuxt/icon](./nuxt-icon.md) | ⭐ 1.2k | TypeScript | 56/100 |
@@ -74,14 +74,14 @@
 | 64 | [HapeLee/legado-with-MD3](./hapelee-legado-with-md3.md) | ⭐ 6.9k | Kotlin | 55/100 |
 | 65 | [braver/programmingfonts](./braver-programmingfonts.md) | ⭐ 1.8k | CSS | 55/100 |
 | 66 | [SamToki/Sam-Toki-Mouse-Cursors](./samtoki-sam-toki-mouse-cursors.md) | ⭐ 876 | — | 55/100 |
-| 67 | [chipsalliance/Cores-VeeR-EL2](./chipsalliance-cores-veer-el2.md) | ⭐ 350 | SystemVerilog | 55/100 |
+| 67 | [chipsalliance/Cores-VeeR-EL2](./chipsalliance-cores-veer-el2.md) | ⭐ 351 | SystemVerilog | 55/100 |
 | 68 | [emilkowalski/skills](./emilkowalski-skills.md) | ⭐ 55.8k | — | 55/100 |
 | 69 | [daangn/seed-design](./daangn-seed-design.md) | ⭐ 1.2k | TypeScript | 55/100 |
 | 70 | [ZeroZ-lab/cc-design](./zeroz-lab-cc-design.md) | ⭐ 831 | JavaScript | 55/100 |
 | 71 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 829 | Shell | 55/100 |
 | 72 | [AxonIQ/AxonFramework](./axoniq-axonframework.md) | ⭐ 3.6k | Java | 55/100 |
 | 73 | [amaancoderx/npxskillui](./amaancoderx-npxskillui.md) | ⭐ 2.5k | TypeScript | 54/100 |
-| 74 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 348 | Python | 54/100 |
+| 74 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 349 | Python | 54/100 |
 | 75 | [coinbase/cds](./coinbase-cds.md) | ⭐ 510 | TypeScript | 54/100 |
 | 76 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 164 | TypeScript | 54/100 |
 | 77 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 984 | TypeScript | 54/100 |
@@ -137,7 +137,7 @@
 | 127 | [kmaida/deslop-skills](./kmaida-deslop-skills.md) | ⭐ 15 | — | 45/100 |
 | 128 | [boldaxolotl/booley](./boldaxolotl-booley.md) | ⭐ 25 | — | 45/100 |
 | 129 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 656 | Java | 45/100 |
-| 130 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 343 | C++ | 45/100 |
+| 130 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 344 | C++ | 45/100 |
 | 131 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 221 | PHP | 45/100 |
 | 132 | [MickeyAlton33/web-designer-plugin](./mickeyalton33-web-designer-plugin.md) | ⭐ 115 | — | 44/100 |
 | 133 | [remojansen/rflct](./remojansen-rflct.md) | ⭐ 2 | TypeScript | 44/100 |

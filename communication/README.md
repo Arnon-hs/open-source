@@ -66,7 +66,7 @@
 | 56 | [nager/Nager.Date](./nager-nager.date.md) | ⭐ 1.4k | C# | 68/100 |
 | 57 | [Shoshuo/Prismarr](./shoshuo-prismarr.md) | ⭐ 475 | Twig | 68/100 |
 | 58 | [abdolence/slack-morphism-rust](./abdolence-slack-morphism-rust.md) | ⭐ 232 | Rust | 67/100 |
-| 59 | [firebase/firebase-cpp-sdk](./firebase-firebase-cpp-sdk.md) | ⭐ 325 | C++ | 67/100 |
+| 59 | [firebase/firebase-cpp-sdk](./firebase-firebase-cpp-sdk.md) | ⭐ 326 | C++ | 67/100 |
 | 60 | [intri-in/manage-my-damn-life-nextjs](./intri-in-manage-my-damn-life-nextjs.md) | ⭐ 647 | JavaScript | 67/100 |
 | 61 | [goshs-labs/goshs](./goshs-labs-goshs.md) | ⭐ 1k | Go | 67/100 |
 | 62 | [pimalaya/himalaya](./pimalaya-himalaya.md) | ⭐ 7.6k | Rust | 67/100 |
@@ -85,13 +85,13 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
-| 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 361 | TypeScript | 65/100 |
+| 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
 | 83 | [stoatchat/self-hosted](./stoatchat-self-hosted.md) | ⭐ 2.7k | JavaScript | 65/100 |
-| 84 | [domainaware/checkdmarc](./domainaware-checkdmarc.md) | ⭐ 324 | Python | 65/100 |
+| 84 | [domainaware/checkdmarc](./domainaware-checkdmarc.md) | ⭐ 326 | Python | 65/100 |
 | 85 | [docker-mailserver/docker-mailserver](./docker-mailserver-docker-mailserver.md) | ⭐ 19.7k | Shell | 64/100 |
 | 86 | [baptisteArno/typebot.io](./baptistearno-typebot.io.md) | ⭐ 10.6k | TypeScript | 64/100 |
 | 87 | [cherry-game/cherry](./cherry-game-cherry.md) | ⭐ 827 | Go | 64/100 |
@@ -110,7 +110,7 @@
 | 100 | [monal-im/Monal](./monal-im-monal.md) | ⭐ 688 | Objective-C | 64/100 |
 | 101 | [deriv-security/MeetC2](./deriv-security-meetc2.md) | ⭐ 145 | Go | 63/100 |
 | 102 | [Obiente/nc-native](./obiente-nc-native.md) | ⭐ 225 | Kotlin | 63/100 |
-| 103 | [maathimself/mailflow](./maathimself-mailflow.md) | ⭐ 668 | JavaScript | 63/100 |
+| 103 | [maathimself/mailflow](./maathimself-mailflow.md) | ⭐ 674 | JavaScript | 63/100 |
 | 104 | [meli/meli](./meli-meli.md) | ⭐ 898 | Rust | 63/100 |
 | 105 | [krishn404/Git-Friend](./krishn404-git-friend.md) | ⭐ 599 | TypeScript | 63/100 |
 | 106 | [disposable-email-domains/disposable-email-domains](./disposable-email-domains-disposable-email-domains.md) | ⭐ 5.7k | Python | 63/100 |
@@ -124,9 +124,9 @@
 | 114 | [keybase/client](./keybase-client.md) | ⭐ 9.3k | Go | 63/100 |
 | 115 | [vkpdeveloper/calsdk](./vkpdeveloper-calsdk.md) | ⭐ 8 | — | 62/100 |
 | 116 | [simple-login/app](./simple-login-app.md) | ⭐ 7.1k | Python | 62/100 |
-| 117 | [kcsujeet/ilamy-calendar](./kcsujeet-ilamy-calendar.md) | ⭐ 354 | TypeScript | 62/100 |
+| 117 | [kcsujeet/ilamy-calendar](./kcsujeet-ilamy-calendar.md) | ⭐ 355 | TypeScript | 62/100 |
 | 118 | [mjl-/mox](./mjl--mox.md) | ⭐ 5.9k | Go | 62/100 |
-| 119 | [zoff99/ToxAndroidRefImpl](./zoff99-toxandroidrefimpl.md) | ⭐ 349 | C | 62/100 |
+| 119 | [zoff99/ToxAndroidRefImpl](./zoff99-toxandroidrefimpl.md) | ⭐ 350 | C | 62/100 |
 | 120 | [BurntSushi/jiff](./burntsushi-jiff.md) | ⭐ 3k | Rust | 62/100 |
 | 121 | [discord-php/DiscordPHP](./discord-php-discordphp.md) | ⭐ 1.1k | PHP | 62/100 |
 | 122 | [apache/pulsar](./apache-pulsar.md) | ⭐ 15.4k | Java | 62/100 |
@@ -171,7 +171,7 @@
 | 161 | [circled-me/server](./circled-me-server.md) | ⭐ 211 | Go | 59/100 |
 | 162 | [onetimesecret/onetimesecret](./onetimesecret-onetimesecret.md) | ⭐ 3k | Ruby | 59/100 |
 | 163 | [hackthedev/dcts-shipping](./hackthedev-dcts-shipping.md) | ⭐ 641 | JavaScript | 59/100 |
-| 164 | [cry-inc/dmarc-report-viewer](./cry-inc-dmarc-report-viewer.md) | ⭐ 369 | Rust | 59/100 |
+| 164 | [cry-inc/dmarc-report-viewer](./cry-inc-dmarc-report-viewer.md) | ⭐ 371 | Rust | 59/100 |
 | 165 | [spacebarchat/server](./spacebarchat-server.md) | ⭐ 2.2k | TypeScript | 59/100 |
 | 166 | [scraly/developers-conferences-agenda](./scraly-developers-conferences-agenda.md) | ⭐ 2k | JavaScript | 59/100 |
 | 167 | [zulip/zulip](./zulip-zulip.md) | ⭐ 26.2k | Python | 59/100 |
@@ -227,7 +227,7 @@
 | 217 | [Medvedev91/timeto.me](./medvedev91-timeto.me.md) | ⭐ 727 | Kotlin | 55/100 |
 | 218 | [jmhobbs/cultofthepartyparrot.com](./jmhobbs-cultofthepartyparrot.com.md) | ⭐ 1.6k | HTML | 55/100 |
 | 219 | [microsoft/LangChain4j-for-Beginners](./microsoft-langchain4j-for-beginners.md) | ⭐ 556 | Java | 55/100 |
-| 220 | [appleboy/go-fcm](./appleboy-go-fcm.md) | ⭐ 329 | Go | 55/100 |
+| 220 | [appleboy/go-fcm](./appleboy-go-fcm.md) | ⭐ 330 | Go | 55/100 |
 | 221 | [Sharkord/sharkord](./sharkord-sharkord.md) | ⭐ 1.6k | TypeScript | 55/100 |
 | 222 | [jerryxff26-alt/dsh-delivery-board](./jerryxff26-alt-dsh-delivery-board.md) | ⭐ 4 | JavaScript | 54/100 |
 | 223 | [codeswithroh/baad-mein](./codeswithroh-baad-mein.md) | ⭐ — | TypeScript | 54/100 |
@@ -238,7 +238,7 @@
 | 228 | [nextcloud/tasks](./nextcloud-tasks.md) | ⭐ 709 | JavaScript | 54/100 |
 | 229 | [openmls/openmls](./openmls-openmls.md) | ⭐ 1.1k | Rust | 54/100 |
 | 230 | [ruma/ruma](./ruma-ruma.md) | ⭐ 746 | Rust | 54/100 |
-| 231 | [khaled-alshamaa/ar-php](./khaled-alshamaa-ar-php.md) | ⭐ 342 | PHP | 54/100 |
+| 231 | [khaled-alshamaa/ar-php](./khaled-alshamaa-ar-php.md) | ⭐ 343 | PHP | 54/100 |
 | 232 | [lennart-k/rustical](./lennart-k-rustical.md) | ⭐ 574 | Rust | 54/100 |
 | 233 | [containrrr/shoutrrr](./containrrr-shoutrrr.md) | ⭐ 1.7k | Go | 54/100 |
 | 234 | [telegramdesktop/tdesktop](./telegramdesktop-tdesktop.md) | ⭐ 33.5k | C++ | 54/100 |
@@ -361,8 +361,8 @@
 | 351 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 352 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 353 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 354 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 354 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 356 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 357 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 358 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

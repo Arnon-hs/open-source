@@ -49,7 +49,7 @@
 | 39 | [alisaifee/limits](./alisaifee-limits.md) | ⭐ 654 | Python | 66/100 |
 | 40 | [supabase/postgres-meta](./supabase-postgres-meta.md) | ⭐ 1.3k | TypeScript | 65/100 |
 | 41 | [facebook/rocksdb](./facebook-rocksdb.md) | ⭐ 31.9k | C++ | 65/100 |
-| 42 | [eclipse-store/store](./eclipse-store-store.md) | ⭐ 351 | Java | 65/100 |
+| 42 | [eclipse-store/store](./eclipse-store-store.md) | ⭐ 352 | Java | 65/100 |
 | 43 | [amalshaji/dbcooper](./amalshaji-dbcooper.md) | ⭐ 457 | TypeScript | 65/100 |
 | 44 | [mongodb/mongo-python-driver](./mongodb-mongo-python-driver.md) | ⭐ 4.4k | Python | 65/100 |
 | 45 | [5e-bits/5e-database](./5e-bits-5e-database.md) | ⭐ 944 | TypeScript | 65/100 |
@@ -96,7 +96,7 @@
 | 86 | [supabase/supabase-flutter](./supabase-supabase-flutter.md) | ⭐ 1k | Dart | 62/100 |
 | 87 | [dbeaver/cloudbeaver](./dbeaver-cloudbeaver.md) | ⭐ 5.2k | TypeScript | 62/100 |
 | 88 | [mikependon/RepoDB](./mikependon-repodb.md) | ⭐ 1.9k | C# | 62/100 |
-| 89 | [Galeax/CVE2CAPEC](./galeax-cve2capec.md) | ⭐ 325 | Python | 62/100 |
+| 89 | [Galeax/CVE2CAPEC](./galeax-cve2capec.md) | ⭐ 326 | Python | 62/100 |
 | 90 | [cloudnative-pg/cloudnative-pg](./cloudnative-pg-cloudnative-pg.md) | ⭐ 9.6k | Go | 62/100 |
 | 91 | [grantjenks/python-diskcache](./grantjenks-python-diskcache.md) | ⭐ 2.9k | Python | 61/100 |
 | 92 | [dineug/erd-editor](./dineug-erd-editor.md) | ⭐ 1.7k | TypeScript | 61/100 |
@@ -204,7 +204,7 @@
 | 194 | [charmbracelet/skate](./charmbracelet-skate.md) | ⭐ 1.9k | Go | 56/100 |
 | 195 | [replikativ/datahike](./replikativ-datahike.md) | ⭐ 1.9k | Clojure | 56/100 |
 | 196 | [builtbybel/FluentCleaner](./builtbybel-fluentcleaner.md) | ⭐ 7k | C# | 56/100 |
-| 197 | [confluentinc/ksql](./confluentinc-ksql.md) | ⭐ 316 | Java | 56/100 |
+| 197 | [confluentinc/ksql](./confluentinc-ksql.md) | ⭐ 315 | Java | 56/100 |
 | 198 | [rustsec/advisory-db](./rustsec-advisory-db.md) | ⭐ 1.2k | — | 56/100 |
 | 199 | [mongodb-js/boxednode](./mongodb-js-boxednode.md) | ⭐ 657 | TypeScript | 56/100 |
 | 200 | [adysec/IP_database](./adysec-ip-database.md) | ⭐ 750 | HTML | 56/100 |
@@ -549,8 +549,8 @@
 | 539 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 540 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 541 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 428 | — | 38/100 |
-| 542 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
-| 543 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 69 | — | 38/100 |
+| 542 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 69 | — | 38/100 |
+| 543 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
 | 544 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 545 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 442 | — | 38/100 |
 | 546 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |

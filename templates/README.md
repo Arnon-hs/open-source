@@ -81,7 +81,7 @@
 | 71 | [mathematic-inc/earl](./mathematic-inc-earl.md) | ⭐ 113 | Rust | 77/100 |
 | 72 | [tabler/tabler](./tabler-tabler.md) | ⭐ 42k | Astro | 77/100 |
 | 73 | [raintree-technology/agent-starter](./raintree-technology-agent-starter.md) | ⭐ 84 | JavaScript | 77/100 |
-| 74 | [bitwize-music-studio/claude-ai-music-skills](./bitwize-music-studio-claude-ai-music-skills.md) | ⭐ 648 | Python | 77/100 |
+| 74 | [bitwize-music-studio/claude-ai-music-skills](./bitwize-music-studio-claude-ai-music-skills.md) | ⭐ 655 | Python | 77/100 |
 | 75 | [Sri-Krishna-V/awesome-adk-agents](./sri-krishna-v-awesome-adk-agents.md) | ⭐ 352 | Python | 77/100 |
 | 76 | [fabriziosalmi/lws](./fabriziosalmi-lws.md) | ⭐ 75 | Python | 77/100 |
 | 77 | [davila7/claude-code-templates](./davila7-claude-code-templates.md) | ⭐ 33.3k | Python | 77/100 |
@@ -190,7 +190,7 @@
 | 180 | [zengfr/n8n-workflow-all-templates](./zengfr-n8n-workflow-all-templates.md) | ⭐ 124 | — | 69/100 |
 | 181 | [marcoturi/fastify-boilerplate](./marcoturi-fastify-boilerplate.md) | ⭐ 476 | TypeScript | 69/100 |
 | 182 | [mcanouil/awesome-quarto](./mcanouil-awesome-quarto.md) | ⭐ 2.2k | — | 69/100 |
-| 183 | [HTTP-RPC/Kilo](./http-rpc-kilo.md) | ⭐ 341 | Java | 69/100 |
+| 183 | [HTTP-RPC/Kilo](./http-rpc-kilo.md) | ⭐ 342 | Java | 69/100 |
 | 184 | [langchain-ai/agent-auth-payments](./langchain-ai-agent-auth-payments.md) | ⭐ 200 | TypeScript | 69/100 |
 | 185 | [yanliudesign/offer-toolkit-skill](./yanliudesign-offer-toolkit-skill.md) | ⭐ 569 | HTML | 69/100 |
 | 186 | [cargo-generate/cargo-generate](./cargo-generate-cargo-generate.md) | ⭐ 2.5k | Rust | 69/100 |
@@ -232,7 +232,7 @@
 | 222 | [pavlobu/deskreen](./pavlobu-deskreen.md) | ⭐ 21.4k | TypeScript | 67/100 |
 | 223 | [solana-foundation/templates](./solana-foundation-templates.md) | ⭐ 106 | TypeScript | 67/100 |
 | 224 | [NamesMT/starter-monorepo](./namesmt-starter-monorepo.md) | ⭐ 190 | Vue | 67/100 |
-| 225 | [ergebnis/php-package-template](./ergebnis-php-package-template.md) | ⭐ 310 | PHP | 67/100 |
+| 225 | [ergebnis/php-package-template](./ergebnis-php-package-template.md) | ⭐ 311 | PHP | 67/100 |
 | 226 | [bjw-s-labs/helm-charts](./bjw-s-labs-helm-charts.md) | ⭐ 1.1k | Go Template | 67/100 |
 | 227 | [Danielopol/Claude-Code-Playbooks](./danielopol-claude-code-playbooks.md) | ⭐ 68 | MDX | 67/100 |
 | 228 | [zopdev/helm-charts](./zopdev-helm-charts.md) | ⭐ 1.1k | Go Template | 67/100 |
@@ -324,7 +324,7 @@
 | 314 | [Miosa-osa/BusinessOS](./miosa-osa-businessos.md) | ⭐ 138 | Go | 62/100 |
 | 315 | [Roll20/roll20-character-sheets](./roll20-roll20-character-sheets.md) | ⭐ 1.2k | HTML | 62/100 |
 | 316 | [gaelcolas/Sampler](./gaelcolas-sampler.md) | ⭐ 245 | PowerShell | 62/100 |
-| 317 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 604 | Rust | 62/100 |
+| 317 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 605 | Rust | 62/100 |
 | 318 | [microsoft/teams-agent-accelerator-templates](./microsoft-teams-agent-accelerator-templates.md) | ⭐ 95 | TypeScript | 62/100 |
 | 319 | [pulkitxm/claude-directory](./pulkitxm-claude-directory.md) | ⭐ 625 | HTML | 62/100 |
 | 320 | [shinpr/mcp-image](./shinpr-mcp-image.md) | ⭐ 189 | TypeScript | 62/100 |
@@ -346,7 +346,7 @@
 | 336 | [elkowar/yolk](./elkowar-yolk.md) | ⭐ 453 | Rust | 61/100 |
 | 337 | [Tencent/tdesign-vue-next-starter](./tencent-tdesign-vue-next-starter.md) | ⭐ 1k | Vue | 61/100 |
 | 338 | [Polaris-Aeterna/loom-notes](./polaris-aeterna-loom-notes.md) | ⭐ 176 | TeX | 61/100 |
-| 339 | [patrickloeber/python-github-action-template](./patrickloeber-python-github-action-template.md) | ⭐ 336 | Python | 61/100 |
+| 339 | [patrickloeber/python-github-action-template](./patrickloeber-python-github-action-template.md) | ⭐ 337 | Python | 61/100 |
 | 340 | [djlint/djLint](./djlint-djlint.md) | ⭐ 958 | Python | 61/100 |
 | 341 | [pdfme/pdfme](./pdfme-pdfme.md) | ⭐ 5k | TypeScript | 61/100 |
 | 342 | [adysec/nuclei_poc](./adysec-nuclei-poc.md) | ⭐ 2k | — | 61/100 |
@@ -364,7 +364,7 @@
 | 354 | [cobalt-org/liquid-rust](./cobalt-org-liquid-rust.md) | ⭐ 593 | Rust | 60/100 |
 | 355 | [rust-sailfish/sailfish](./rust-sailfish-sailfish.md) | ⭐ 997 | Rust | 60/100 |
 | 356 | [emilk/eframe_template](./emilk-eframe-template.md) | ⭐ 1.2k | Rust | 60/100 |
-| 357 | [pipecat-ai/voice-ui-kit](./pipecat-ai-voice-ui-kit.md) | ⭐ 419 | TypeScript | 60/100 |
+| 357 | [pipecat-ai/voice-ui-kit](./pipecat-ai-voice-ui-kit.md) | ⭐ 418 | TypeScript | 60/100 |
 | 358 | [ublue-os/image-template](./ublue-os-image-template.md) | ⭐ 892 | Just | 60/100 |
 | 359 | [shinpr/ai-coding-project-boilerplate](./shinpr-ai-coding-project-boilerplate.md) | ⭐ 238 | JavaScript | 60/100 |
 | 360 | [thought2code/mcp-annotated-java-sdk](./thought2code-mcp-annotated-java-sdk.md) | ⭐ 33 | Java | 60/100 |
@@ -415,7 +415,7 @@
 | 405 | [supertj/readableresume-parser-tests](./supertj-readableresume-parser-tests.md) | ⭐ — | TypeScript | 55/100 |
 | 406 | [banisond/ecg-signal-processing-python](./banisond-ecg-signal-processing-python.md) | ⭐ 3 | — | 55/100 |
 | 407 | [gacabartosz/linkedin-mcp-server](./gacabartosz-linkedin-mcp-server.md) | ⭐ 6 | JavaScript | 55/100 |
-| 408 | [Shopify/shopify-app-template-php](./shopify-shopify-app-template-php.md) | ⭐ 339 | PHP | 55/100 |
+| 408 | [Shopify/shopify-app-template-php](./shopify-shopify-app-template-php.md) | ⭐ 340 | PHP | 55/100 |
 | 409 | [gofiber/boilerplate](./gofiber-boilerplate.md) | ⭐ 502 | Go | 55/100 |
 | 410 | [pytorch/helion](./pytorch-helion.md) | ⭐ 980 | Python | 55/100 |
 | 411 | [marcantondahmen/automad](./marcantondahmen-automad.md) | ⭐ 962 | TypeScript | 55/100 |
@@ -436,7 +436,7 @@
 | 426 | [arabcoders/ytptube](./arabcoders-ytptube.md) | ⭐ 1.1k | Python | 53/100 |
 | 427 | [somnathraz/nextjs-webgl-templates](./somnathraz-nextjs-webgl-templates.md) | ⭐ 1 | TypeScript | 53/100 |
 | 428 | [vercel-labs/eve-contentful-agent-template](./vercel-labs-eve-contentful-agent-template.md) | ⭐ 1 | — | 52/100 |
-| 429 | [ndpvt-web/latex-document-skill](./ndpvt-web-latex-document-skill.md) | ⭐ 826 | TeX | 52/100 |
+| 429 | [ndpvt-web/latex-document-skill](./ndpvt-web-latex-document-skill.md) | ⭐ 828 | TeX | 52/100 |
 | 430 | [con-dog/clingon](./con-dog-clingon.md) | ⭐ — | — | 51/100 |
 | 431 | [john-claude-1337/agent-memory-files](./john-claude-1337-agent-memory-files.md) | ⭐ — | JavaScript | 51/100 |
 | 432 | [mcmah309/eros](./mcmah309-eros.md) | ⭐ 452 | Rust | 51/100 |

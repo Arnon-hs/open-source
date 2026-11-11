@@ -121,7 +121,7 @@
 | 111 | [colour-science/colour](./colour-science-colour.md) | ⭐ 2.7k | Python | 62/100 |
 | 112 | [rucio/rucio](./rucio-rucio.md) | ⭐ 324 | Python | 62/100 |
 | 113 | [MultiQC/MultiQC](./multiqc-multiqc.md) | ⭐ 1.5k | JavaScript | 62/100 |
-| 114 | [cqframework/clinical_quality_language](./cqframework-clinical-quality-language.md) | ⭐ 338 | Kotlin | 62/100 |
+| 114 | [cqframework/clinical_quality_language](./cqframework-clinical-quality-language.md) | ⭐ 339 | Kotlin | 62/100 |
 | 115 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 143 | Go | 61/100 |
 | 116 | [graphene-data/graphene](./graphene-data-graphene.md) | ⭐ 218 | TypeScript | 61/100 |
 | 117 | [gloom-sh/gloomberb](./gloom-sh-gloomberb.md) | ⭐ 2.7k | TypeScript | 61/100 |
@@ -135,7 +135,7 @@
 | 125 | [openmc-dev/openmc](./openmc-dev-openmc.md) | ⭐ 1.1k | Python | 61/100 |
 | 126 | [apache/hive](./apache-hive.md) | ⭐ 6k | Java | 61/100 |
 | 127 | [onceupon/Bash-Oneliner](./onceupon-bash-oneliner.md) | ⭐ 10.8k | — | 61/100 |
-| 128 | [rosslh/Mandelbrot.site](./rosslh-mandelbrot.site.md) | ⭐ 337 | Rust | 61/100 |
+| 128 | [rosslh/Mandelbrot.site](./rosslh-mandelbrot.site.md) | ⭐ 338 | Rust | 61/100 |
 | 129 | [microprediction/timemachines](./microprediction-timemachines.md) | ⭐ 445 | Python | 61/100 |
 | 130 | [glpi-project/glpi](./glpi-project-glpi.md) | ⭐ 6.6k | PHP | 61/100 |
 | 131 | [augurlabs/augur](./augurlabs-augur.md) | ⭐ 696 | Go | 61/100 |
@@ -190,7 +190,7 @@
 | 180 | [bytewax/awesome-public-real-time-datasets](./bytewax-awesome-public-real-time-datasets.md) | ⭐ 3k | — | 58/100 |
 | 181 | [dealii/dealii](./dealii-dealii.md) | ⭐ 1.8k | C++ | 58/100 |
 | 182 | [PostHog/posthog-js](./posthog-posthog-js.md) | ⭐ 645 | TypeScript | 58/100 |
-| 183 | [gnudatalanguage/gdl](./gnudatalanguage-gdl.md) | ⭐ 317 | C++ | 58/100 |
+| 183 | [gnudatalanguage/gdl](./gnudatalanguage-gdl.md) | ⭐ 318 | C++ | 58/100 |
 | 184 | [girder/girder](./girder-girder.md) | ⭐ 459 | Python | 58/100 |
 | 185 | [cahyadsn/wilayah](./cahyadsn-wilayah.md) | ⭐ 1.3k | SQL | 58/100 |
 | 186 | [max0x7ba/atomic_queue](./max0x7ba-atomic-queue.md) | ⭐ 1.9k | C++ | 58/100 |
@@ -210,7 +210,7 @@
 | 200 | [GeiserX/awesome-spain](./geiserx-awesome-spain.md) | ⭐ 369 | Python | 57/100 |
 | 201 | [zwicker-group/py-pde](./zwicker-group-py-pde.md) | ⭐ 471 | Python | 57/100 |
 | 202 | [nao1215/filesql](./nao1215-filesql.md) | ⭐ 385 | Go | 57/100 |
-| 203 | [Marsilea-viz/marsilea](./marsilea-viz-marsilea.md) | ⭐ 329 | Python | 57/100 |
+| 203 | [Marsilea-viz/marsilea](./marsilea-viz-marsilea.md) | ⭐ 331 | Python | 57/100 |
 | 204 | [bordoni/fakerpress](./bordoni-fakerpress.md) | ⭐ 364 | PHP | 57/100 |
 | 205 | [apache/datafusion-sqlparser-rs](./apache-datafusion-sqlparser-rs.md) | ⭐ 3.5k | Rust | 57/100 |
 | 206 | [gh0stkey/HaE](./gh0stkey-hae.md) | ⭐ 4.2k | Java | 57/100 |
@@ -244,7 +244,7 @@
 | 234 | [apache/datafusion](./apache-datafusion.md) | ⭐ 9.6k | Rust | 56/100 |
 | 235 | [NVIDIA/spark-rapids](./nvidia-spark-rapids.md) | ⭐ 975 | Scala | 56/100 |
 | 236 | [openhpc/ohpc](./openhpc-ohpc.md) | ⭐ 1k | C | 56/100 |
-| 237 | [tauri-apps/tauri-plugin-store](./tauri-apps-tauri-plugin-store.md) | ⭐ 311 | Rust | 55/100 |
+| 237 | [tauri-apps/tauri-plugin-store](./tauri-apps-tauri-plugin-store.md) | ⭐ 312 | Rust | 55/100 |
 | 238 | [rt-bishop/Look4Sat](./rt-bishop-look4sat.md) | ⭐ 1.5k | Kotlin | 55/100 |
 | 239 | [KDE/labplot](./kde-labplot.md) | ⭐ 490 | C++ | 55/100 |
 | 240 | [quanteda/quanteda](./quanteda-quanteda.md) | ⭐ 895 | R | 55/100 |
@@ -331,7 +331,7 @@
 | 321 | [feldera/feldera](./feldera-feldera.md) | ⭐ 2.2k | Rust | 48/100 |
 | 322 | [supabase/etl](./supabase-etl.md) | ⭐ 2.4k | Rust | 48/100 |
 | 323 | [MMMystery/foto-documento-specs](./mmmystery-foto-documento-specs.md) | ⭐ 1 | JavaScript | 47/100 |
-| 324 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 757 | Rust | 47/100 |
+| 324 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 759 | Rust | 47/100 |
 | 325 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 484 | Java | 47/100 |
 | 326 | [ashtonckj/Purrrfessorrr-Slothhh](./ashtonckj-purrrfessorrr-slothhh.md) | ⭐ 3 | Python | 46/100 |
 | 327 | [dmitriy-iliyov/oncebox](./dmitriy-iliyov-oncebox.md) | ⭐ 15 | Java | 46/100 |

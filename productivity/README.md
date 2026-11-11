@@ -80,8 +80,8 @@
 | 70 | [ctrlaltvikas/awesome-bash-alias](./ctrlaltvikas-awesome-bash-alias.md) | ⭐ 246 | — | 65/100 |
 | 71 | [Pixeval/Pixeval](./pixeval-pixeval.md) | ⭐ 3.2k | C# | 65/100 |
 | 72 | [replydev/cotp](./replydev-cotp.md) | ⭐ 395 | Rust | 65/100 |
-| 73 | [reekta92/clin-rs](./reekta92-clin-rs.md) | ⭐ 584 | Rust | 65/100 |
-| 74 | [altstackHQ/altstack-data](./altstackhq-altstack-data.md) | ⭐ 323 | Shell | 65/100 |
+| 73 | [reekta92/clin-rs](./reekta92-clin-rs.md) | ⭐ 587 | Rust | 65/100 |
+| 74 | [altstackHQ/altstack-data](./altstackhq-altstack-data.md) | ⭐ 324 | Shell | 65/100 |
 | 75 | [journiv/journiv-app](./journiv-journiv-app.md) | ⭐ 1.3k | JavaScript | 65/100 |
 | 76 | [semantic-release/release-notes-generator](./semantic-release-release-notes-generator.md) | ⭐ 368 | JavaScript | 65/100 |
 | 77 | [wavetermdev/waveterm](./wavetermdev-waveterm.md) | ⭐ 22.7k | Go | 65/100 |
@@ -117,7 +117,7 @@
 | 107 | [Taiko2k/Tauon](./taiko2k-tauon.md) | ⭐ 3k | Python | 61/100 |
 | 108 | [Voxelum/x-minecraft-launcher](./voxelum-x-minecraft-launcher.md) | ⭐ 1.7k | TypeScript | 61/100 |
 | 109 | [doraemonkeys/WindSend](./doraemonkeys-windsend.md) | ⭐ 619 | Dart | 61/100 |
-| 110 | [volotat/Anagnorisis](./volotat-anagnorisis.md) | ⭐ 358 | Python | 61/100 |
+| 110 | [volotat/Anagnorisis](./volotat-anagnorisis.md) | ⭐ 359 | Python | 61/100 |
 | 111 | [gethouston/houston](./gethouston-houston.md) | ⭐ 119 | TypeScript | 61/100 |
 | 112 | [rommapp/argosy-launcher](./rommapp-argosy-launcher.md) | ⭐ 716 | Kotlin | 60/100 |
 | 113 | [gioxx/MarvellousSuspender](./gioxx-marvelloussuspender.md) | ⭐ 1.4k | JavaScript | 60/100 |
@@ -185,10 +185,10 @@
 | 175 | [fabiospampinato/phoenix](./fabiospampinato-phoenix.md) | ⭐ 406 | JavaScript | 56/100 |
 | 176 | [RoderickQiu/wnr](./roderickqiu-wnr.md) | ⭐ 1.1k | JavaScript | 56/100 |
 | 177 | [ludoven/QADB](./ludoven-qadb.md) | ⭐ 177 | Kotlin | 56/100 |
-| 178 | [kylejckson/PaintFE](./kylejckson-paintfe.md) | ⭐ 412 | Rust | 56/100 |
+| 178 | [kylejckson/PaintFE](./kylejckson-paintfe.md) | ⭐ 413 | Rust | 56/100 |
 | 179 | [proginosko/LeechBlockNG](./proginosko-leechblockng.md) | ⭐ 1.1k | JavaScript | 56/100 |
 | 180 | [JayanAXHF/gitv](./jayanaxhf-gitv.md) | ⭐ 116 | Rust | 56/100 |
-| 181 | [Stewart86/hamr](./stewart86-hamr.md) | ⭐ 336 | Rust | 56/100 |
+| 181 | [Stewart86/hamr](./stewart86-hamr.md) | ⭐ 337 | Rust | 56/100 |
 | 182 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 1k | Dart | 56/100 |
 | 183 | [CrossPaste/crosspaste-desktop](./crosspaste-crosspaste-desktop.md) | ⭐ 2.7k | Kotlin | 56/100 |
 | 184 | [nickotmazgin/clipflow-pro](./nickotmazgin-clipflow-pro.md) | ⭐ 6 | JavaScript | 55/100 |
@@ -199,7 +199,7 @@
 | 189 | [vietanhdev/ThinkUtils](./vietanhdev-thinkutils.md) | ⭐ 124 | Rust | 55/100 |
 | 190 | [FreesmTeam/FreesmLauncher](./freesmteam-freesmlauncher.md) | ⭐ 930 | C++ | 55/100 |
 | 191 | [ghost-him/ZeroLaunch-rs](./ghost-him-zerolaunch-rs.md) | ⭐ 580 | Rust | 55/100 |
-| 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 360 | Rust | 55/100 |
+| 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 361 | Rust | 55/100 |
 | 193 | [modrinth/code](./modrinth-code.md) | ⭐ 2.5k | Rust | 55/100 |
 | 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.7k | Rust | 55/100 |
 | 195 | [openbezal/rhema](./openbezal-rhema.md) | ⭐ 357 | TypeScript | 54/100 |
@@ -219,10 +219,10 @@
 | 209 | [karkemo/todomint](./karkemo-todomint.md) | ⭐ 1 | JavaScript | 52/100 |
 | 210 | [FufuLauncher/FufuLauncher](./fufulauncher-fufulauncher.md) | ⭐ 2.3k | C# | 52/100 |
 | 211 | [deft-ui/deft](./deft-ui-deft.md) | ⭐ 213 | Rust | 52/100 |
-| 212 | [heroku/webapp-runner](./heroku-webapp-runner.md) | ⭐ 323 | Java | 52/100 |
+| 212 | [heroku/webapp-runner](./heroku-webapp-runner.md) | ⭐ 324 | Java | 52/100 |
 | 213 | [d12frosted/vulpea](./d12frosted-vulpea.md) | ⭐ 473 | Emacs Lisp | 52/100 |
 | 214 | [goweiwen/Allium](./goweiwen-allium.md) | ⭐ 395 | Rust | 52/100 |
-| 215 | [Mjoyufull/fsel](./mjoyufull-fsel.md) | ⭐ 485 | Rust | 52/100 |
+| 215 | [Mjoyufull/fsel](./mjoyufull-fsel.md) | ⭐ 488 | Rust | 52/100 |
 | 216 | [Akhouri-Anmol-Kumar/APIC](./akhouri-anmol-kumar-apic.md) | ⭐ 1 | — | 51/100 |
 | 217 | [CCBlueX/LiquidLauncher](./ccbluex-liquidlauncher.md) | ⭐ 290 | Rust | 51/100 |
 | 218 | [veloren/airshipper](./veloren-airshipper.md) | ⭐ 290 | Rust | 51/100 |
@@ -269,7 +269,7 @@
 | 259 | [yibie/org-supertag](./yibie-org-supertag.md) | ⭐ 353 | Emacs Lisp | 48/100 |
 | 260 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 265 | Rust | 48/100 |
 | 261 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 1.5k | Shell | 48/100 |
-| 262 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 546 | C++ | 48/100 |
+| 262 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 545 | C++ | 48/100 |
 | 263 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 618 | Rust | 48/100 |
 | 264 | [beyluta/WinWidgets](./beyluta-winwidgets.md) | ⭐ 167 | C | 48/100 |
 | 265 | [StudentWeis/ropy](./studentweis-ropy.md) | ⭐ 205 | Rust | 48/100 |
@@ -307,13 +307,13 @@
 | 297 | [AstrBotDevs/astrbot-launcher](./astrbotdevs-astrbot-launcher.md) | ⭐ 2.7k | Rust | 45/100 |
 | 298 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 825 | Shell | 45/100 |
 | 299 | [nstlaurent/DoomLauncher](./nstlaurent-doomlauncher.md) | ⭐ 336 | C# | 45/100 |
-| 300 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 473 | Kotlin | 45/100 |
+| 300 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 475 | Kotlin | 45/100 |
 | 301 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 623 | QML | 45/100 |
 | 302 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 303 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 304 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
-| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 305 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
 | 307 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 308 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 309 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |
