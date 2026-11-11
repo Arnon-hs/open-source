@@ -361,8 +361,8 @@
 | 351 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 352 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 353 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 354 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 354 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 356 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 357 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 358 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |
@@ -375,7 +375,7 @@
 | 365 | [mestr-io/channelvault](./mestr-io-channelvault.md) | ⭐ 4 | — | 41/100 |
 | 366 | [adrianCX/picohive-epaper](./adriancx-picohive-epaper.md) | ⭐ 1 | — | 41/100 |
 | 367 | [azc5OQ/lemon-chat](./azc5oq-lemon-chat.md) | ⭐ 19 | — | 41/100 |
-| 368 | [VictorTaelin/uniichat](./victortaelin-uniichat.md) | ⭐ 664 | — | 41/100 |
+| 368 | [VictorTaelin/uniichat](./victortaelin-uniichat.md) | ⭐ 665 | — | 41/100 |
 | 369 | [UKA-135/deepseek-long-thread-record](./uka-135-deepseek-long-thread-record.md) | ⭐ — | — | 41/100 |
 | 370 | [maelswarm/openrock](./maelswarm-openrock.md) | ⭐ 2 | — | 41/100 |
 | 371 | [sums001/OpenInbox](./sums001-openinbox.md) | ⭐ 329 | — | 41/100 |

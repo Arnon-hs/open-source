@@ -341,8 +341,8 @@
 | 331 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 332 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 333 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 453 | TypeScript | 58/100 |
-| 334 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
-| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 334 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
 | 336 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 337 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 338 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -627,7 +627,7 @@
 | 617 | [Carloscodix/qapla](./carloscodix-qapla.md) | ⭐ 89 | — | 38/100 |
 | 618 | [varveio/swath](./varveio-swath.md) | ⭐ 12 | — | 38/100 |
 | 619 | [harmansingh4163-ai/R-457](./harmansingh4163-ai-r-457.md) | ⭐ 11 | — | 38/100 |
-| 620 | [wladimiravila/esp32s3-distributed-ai](./wladimiravila-esp32s3-distributed-ai.md) | ⭐ 117 | — | 38/100 |
+| 620 | [wladimiravila/esp32s3-distributed-ai](./wladimiravila-esp32s3-distributed-ai.md) | ⭐ 118 | — | 38/100 |
 | 621 | [wizenink/aethers3](./wizenink-aethers3.md) | ⭐ 53 | — | 38/100 |
 | 622 | [dbsystel/cdk-sops-secrets](./dbsystel-cdk-sops-secrets.md) | ⭐ 84 | — | 38/100 |
 | 623 | [michidk/shimesu](./michidk-shimesu.md) | ⭐ 1 | — | 38/100 |

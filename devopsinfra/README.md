@@ -129,8 +129,8 @@
 | 119 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 9k | Go | 64/100 |
 | 120 | [tborychowski/self-hosted-cookbook](./tborychowski-self-hosted-cookbook.md) | ⭐ 1.3k | — | 64/100 |
 | 121 | [open-policy-agent/gatekeeper-library](./open-policy-agent-gatekeeper-library.md) | ⭐ 705 | Open Policy Agent | 64/100 |
-| 122 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 676 | Go | 64/100 |
-| 123 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
+| 122 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
+| 123 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 676 | Go | 64/100 |
 | 124 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 64/100 |
 | 125 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 324 | Python | 64/100 |
 | 126 | [mkubaczyk/helmsman](./mkubaczyk-helmsman.md) | ⭐ 1.5k | Go | 64/100 |
@@ -218,8 +218,8 @@
 | 208 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 32.2k | Go | 61/100 |
 | 209 | [docker/setup-buildx-action](./docker-setup-buildx-action.md) | ⭐ 1.4k | TypeScript | 60/100 |
 | 210 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 921 | Svelte | 60/100 |
-| 211 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
-| 212 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 211 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 212 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
 | 213 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 842 | JavaScript | 60/100 |
 | 214 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 32 | Nix | 60/100 |
 | 215 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 401 | Go | 60/100 |
@@ -353,7 +353,7 @@
 | 343 | [adamdecaf/deadcheck](./adamdecaf-deadcheck.md) | ⭐ 334 | Go | 53/100 |
 | 344 | [gna1280072/LeePanel](./gna1280072-leepanel.md) | ⭐ 673 | Rust | 53/100 |
 | 345 | [linuxserver/docker-transmission](./linuxserver-docker-transmission.md) | ⭐ 742 | Dockerfile | 53/100 |
-| 346 | [VibePod/vibepod-cli](./vibepod-vibepod-cli.md) | ⭐ 192 | — | 53/100 |
+| 346 | [VibePod/vibepod-cli](./vibepod-vibepod-cli.md) | ⭐ 193 | — | 53/100 |
 | 347 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 644 | PHP | 53/100 |
 | 348 | [onedr0p/home-ops](./onedr0p-home-ops.md) | ⭐ 2.9k | YAML | 53/100 |
 | 349 | [stackrox/stackrox](./stackrox-stackrox.md) | ⭐ 1.3k | Go | 53/100 |
@@ -370,7 +370,7 @@
 | 360 | [openSUSE/open-build-service](./opensuse-open-build-service.md) | ⭐ 1.1k | Ruby | 52/100 |
 | 361 | [IceWhaleTech/CasaOS-AppStore](./icewhaletech-casaos-appstore.md) | ⭐ 375 | Shell | 52/100 |
 | 362 | [BreezeDelegate/beforeup](./breezedelegate-beforeup.md) | ⭐ — | Go | 51/100 |
-| 363 | [unxsist/jet-pilot](./unxsist-jet-pilot.md) | ⭐ 662 | — | 51/100 |
+| 363 | [unxsist/jet-pilot](./unxsist-jet-pilot.md) | ⭐ 663 | — | 51/100 |
 | 364 | [tdk-landscape/tdk-cli-core](./tdk-landscape-tdk-cli-core.md) | ⭐ — | — | 51/100 |
 | 365 | [TiPunchLabs/ckad-dojo](./tipunchlabs-ckad-dojo.md) | ⭐ 89 | Shell | 51/100 |
 | 366 | [lockdep/stackradar-cli](./lockdep-stackradar-cli.md) | ⭐ 3 | — | 51/100 |
@@ -460,7 +460,7 @@
 | 450 | [hivepaas/hivepaas](./hivepaas-hivepaas.md) | ⭐ 342 | — | 44/100 |
 | 451 | [ricardoborges/rcdesktop](./ricardoborges-rcdesktop.md) | ⭐ 5 | — | 44/100 |
 | 452 | [abdulsalam-create/bounty-watch](./abdulsalam-create-bounty-watch.md) | ⭐ — | Python | 44/100 |
-| 453 | [v94lere/solon](./v94lere-solon.md) | ⭐ 13 | — | 44/100 |
+| 453 | [v94lere/solon](./v94lere-solon.md) | ⭐ 14 | — | 44/100 |
 | 454 | [robgonnella/minienv](./robgonnella-minienv.md) | ⭐ 1 | — | 44/100 |
 | 455 | [ianrumac/bridgeflare](./ianrumac-bridgeflare.md) | ⭐ 4 | — | 44/100 |
 | 456 | [kobblestoneio/kobblestone](./kobblestoneio-kobblestone.md) | ⭐ 4 | — | 44/100 |
@@ -494,7 +494,7 @@
 | 484 | [muhammadyulasfipahrizal/circle](./muhammadyulasfipahrizal-circle.md) | ⭐ — | Go | 42/100 |
 | 485 | [linsomniac/apt-cacher-ultra](./linsomniac-apt-cacher-ultra.md) | ⭐ — | — | 41/100 |
 | 486 | [giovantenne/nixorium](./giovantenne-nixorium.md) | ⭐ 65 | — | 41/100 |
-| 487 | [UniXNU/UniXNU](./unixnu-unixnu.md) | ⭐ 2.3k | — | 41/100 |
+| 487 | [UniXNU/UniXNU](./unixnu-unixnu.md) | ⭐ 2.6k | — | 41/100 |
 | 488 | [tanishqkancharla/tandem](./tanishqkancharla-tandem.md) | ⭐ 24 | — | 41/100 |
 | 489 | [picubedllc/terraform-provider-appleads](./picubedllc-terraform-provider-appleads.md) | ⭐ 3 | — | 41/100 |
 | 490 | [TilakMaddy/hyperindex-openinfra](./tilakmaddy-hyperindex-openinfra.md) | ⭐ 2 | — | 41/100 |
@@ -521,7 +521,7 @@
 | 511 | [SRENIX-AI/agentic-sre](./srenix-ai-agentic-sre.md) | ⭐ — | — | 41/100 |
 | 512 | [maddhruv/rasptele](./maddhruv-rasptele.md) | ⭐ — | — | 41/100 |
 | 513 | [hyturing/compose-pulse](./hyturing-compose-pulse.md) | ⭐ 9 | — | 41/100 |
-| 514 | [unihosted/unifi-os-server-docker](./unihosted-unifi-os-server-docker.md) | ⭐ 95 | — | 41/100 |
+| 514 | [unihosted/unifi-os-server-docker](./unihosted-unifi-os-server-docker.md) | ⭐ 96 | — | 41/100 |
 | 515 | [upbound/asterkube](./upbound-asterkube.md) | ⭐ — | — | 41/100 |
 | 516 | [Cloud-V-10xE/RISC-V-software](./cloud-v-10xe-risc-v-software.md) | ⭐ 3 | — | 41/100 |
 | 517 | [hrodrig/groot](./hrodrig-groot.md) | ⭐ — | — | 41/100 |

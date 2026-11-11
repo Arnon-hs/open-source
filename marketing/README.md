@@ -18,7 +18,7 @@
 | 8 | [tin-computer/tin](./tin-computer-tin.md) | ⭐ 181 | Python | 57/100 |
 | 9 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 1.1k | TypeScript | 56/100 |
 | 10 | [codialab/panacus](./codialab-panacus.md) | ⭐ 141 | Rust | 55/100 |
-| 11 | [testedmedia/seo-command-center](./testedmedia-seo-command-center.md) | ⭐ 26 | — | 54/100 |
+| 11 | [testedmedia/seo-command-center](./testedmedia-seo-command-center.md) | ⭐ 27 | — | 54/100 |
 | 12 | [dvygolov/YellowTDS](./dvygolov-yellowtds.md) | ⭐ 395 | JavaScript | 53/100 |
 | 13 | [Yoast/wordpress-seo](./yoast-wordpress-seo.md) | ⭐ 2k | JavaScript | 53/100 |
 | 14 | [zhangkunlv-ship-it/xuehui-shortvideo-skill](./zhangkunlv-ship-it-xuehui-shortvideo-skill.md) | ⭐ 13 | — | 51/100 |

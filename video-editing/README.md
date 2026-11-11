@@ -505,8 +505,8 @@
 | 495 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 806 | C++ | 54/100 |
 | 496 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 497 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 498 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
-| 499 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
+| 498 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
+| 499 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
 | 500 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 501 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 522 | — | 53/100 |
 | 502 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
@@ -591,7 +591,7 @@
 | 581 | [openfilm/openfilm](./openfilm-openfilm.md) | ⭐ 5.8k | — | 45/100 |
 | 582 | [iterative-computer/powermove](./iterative-computer-powermove.md) | ⭐ 363 | — | 45/100 |
 | 583 | [google/ExoPlayer](./google-exoplayer.md) | ⭐ 21.9k | — | 45/100 |
-| 584 | [videojs/video.js](./videojs-video.js.md) | ⭐ 40.1k | — | 45/100 |
+| 584 | [videojs/video.js](./videojs-video.js.md) | ⭐ 40.2k | — | 45/100 |
 | 585 | [Netflix/vmaf](./netflix-vmaf.md) | ⭐ 5.6k | — | 45/100 |
 | 586 | [gdavila/easyVmaf](./gdavila-easyvmaf.md) | ⭐ 208 | — | 45/100 |
 | 587 | [0xhappyboy/SoulCut](./0xhappyboy-soulcut.md) | ⭐ 11 | — | 45/100 |

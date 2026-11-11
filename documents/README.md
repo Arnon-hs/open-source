@@ -508,8 +508,8 @@
 | 498 | [qpdf/qpdf](./qpdf-qpdf.md) | ⭐ 5.6k | C++ | 47/100 |
 | 499 | [rtostudioco/vulncheck-local](./rtostudioco-vulncheck-local.md) | ⭐ — | TypeScript | 47/100 |
 | 500 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
-| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
-| 502 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
+| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
+| 502 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
 | 503 | [waka/sghtmltopdf](./waka-sghtmltopdf.md) | ⭐ 381 | Rust | 46/100 |
 | 504 | [Sigil-Ebook/Sigil](./sigil-ebook-sigil.md) | ⭐ 7k | C++ | 46/100 |
 | 505 | [fiduswriter/fiduswriter](./fiduswriter-fiduswriter.md) | ⭐ 569 | JavaScript | 46/100 |
@@ -528,7 +528,7 @@
 | 518 | [alex-zaporozhan/leo](./alex-zaporozhan-leo.md) | ⭐ 4 | — | 45/100 |
 | 519 | [spencerldixon/lime](./spencerldixon-lime.md) | ⭐ 15 | — | 45/100 |
 | 520 | [heetdalsania/quire](./heetdalsania-quire.md) | ⭐ 12 | — | 45/100 |
-| 521 | [Thysrael/markdown-ts-appear](./thysrael-markdown-ts-appear.md) | ⭐ 61 | — | 45/100 |
+| 521 | [Thysrael/markdown-ts-appear](./thysrael-markdown-ts-appear.md) | ⭐ 63 | — | 45/100 |
 | 522 | [justrinari/handoff](./justrinari-handoff.md) | ⭐ 1 | — | 45/100 |
 | 523 | [slidr-cli/slidr](./slidr-cli-slidr.md) | ⭐ — | — | 45/100 |
 | 524 | [y9695430-lang/xiaoke-api-gateway](./y9695430-lang-xiaoke-api-gateway.md) | ⭐ — | — | 45/100 |
@@ -611,7 +611,7 @@
 | 601 | [ZacharyZhang-NY/ElyOffice](./zacharyzhang-ny-elyoffice.md) | ⭐ 47 | — | 41/100 |
 | 602 | [myrvmsr/folio](./myrvmsr-folio.md) | ⭐ 8 | — | 41/100 |
 | 603 | [zztaeha/daepdf](./zztaeha-daepdf.md) | ⭐ 8 | — | 41/100 |
-| 604 | [wmahfoudh/oryx](./wmahfoudh-oryx.md) | ⭐ 177 | — | 41/100 |
+| 604 | [wmahfoudh/oryx](./wmahfoudh-oryx.md) | ⭐ 178 | — | 41/100 |
 | 605 | [LeBaux/lebaux.github.io](./lebaux-lebaux.github.io.md) | ⭐ — | — | 41/100 |
 | 606 | [beatrizalmeidaf/papero-pdf-text-extractor](./beatrizalmeidaf-papero-pdf-text-extractor.md) | ⭐ 215 | — | 41/100 |
 | 607 | [keskival/sleeping_machines](./keskival-sleeping-machines.md) | ⭐ — | — | 41/100 |
@@ -713,8 +713,8 @@
 | 703 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
 | 704 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 705 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
-| 706 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
-| 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 706 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
 | 708 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
 | 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |

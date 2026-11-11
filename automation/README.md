@@ -585,8 +585,8 @@
 | 575 | [AdrienMttn/TgCloud](./adrienmttn-tgcloud.md) | ⭐ 12 | Go | 65/100 |
 | 576 | [outcrawlai/scout](./outcrawlai-scout.md) | ⭐ 744 | TypeScript | 65/100 |
 | 577 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.2k | AutoHotkey | 65/100 |
-| 578 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 826 | TypeScript | 65/100 |
-| 579 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 578 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 579 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 826 | TypeScript | 65/100 |
 | 580 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 581 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 631 | TypeScript | 65/100 |
 | 582 | [askbudi/juno-code](./askbudi-juno-code.md) | ⭐ 55 | TypeScript | 65/100 |
@@ -835,8 +835,8 @@
 | 825 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.9k | Go | 62/100 |
 | 826 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 62 | Rust | 62/100 |
 | 827 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.4k | Rust | 62/100 |
-| 828 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 256 | TypeScript | 62/100 |
-| 829 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 89 | Rust | 62/100 |
+| 828 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 89 | Rust | 62/100 |
+| 829 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 256 | TypeScript | 62/100 |
 | 830 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 119 | Shell | 62/100 |
 | 831 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 616 | Python | 62/100 |
 | 832 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 138 | TypeScript | 62/100 |
@@ -1295,7 +1295,7 @@
 | 1285 | [josh-project/josh](./josh-project-josh.md) | ⭐ 2k | Rust | 50/100 |
 | 1286 | [nha6ki/google-calendar-screenshot-automation](./nha6ki-google-calendar-screenshot-automation.md) | ⭐ — | Python | 50/100 |
 | 1287 | [ZenyaDAR/humanloads](./zenyadar-humanloads.md) | ⭐ 2 | TypeScript | 50/100 |
-| 1288 | [wainmann/agent-manager](./wainmann-agent-manager.md) | ⭐ 681 | — | 49/100 |
+| 1288 | [wainmann/agent-manager](./wainmann-agent-manager.md) | ⭐ 688 | — | 49/100 |
 | 1289 | [aiwithrajan/RelayOS](./aiwithrajan-relayos.md) | ⭐ — | — | 49/100 |
 | 1290 | [PersonaliAI/chatty](./personaliai-chatty.md) | ⭐ 22 | — | 49/100 |
 | 1291 | [rassulz/multirobot_painting_control_system](./rassulz-multirobot-painting-control-system.md) | ⭐ 3 | MATLAB | 49/100 |
@@ -1322,8 +1322,8 @@
 | 1312 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 779 | Python | 49/100 |
 | 1313 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 583 | — | 49/100 |
 | 1314 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 237 | Rust | 49/100 |
-| 1315 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
-| 1316 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 515 | Go | 49/100 |
+| 1315 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 515 | Go | 49/100 |
+| 1316 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
 | 1317 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 4.8k | Shell | 49/100 |
 | 1318 | [EC-Roshan/refund-court](./ec-roshan-refund-court.md) | ⭐ — | — | 49/100 |
 | 1319 | [habsology/lazywatch](./habsology-lazywatch.md) | ⭐ — | Python | 49/100 |
@@ -1364,7 +1364,7 @@
 | 1354 | [Juliecodestack/Juliecodestack.github.io](./juliecodestack-juliecodestack.github.io.md) | ⭐ 4 | — | 46/100 |
 | 1355 | [praveen-pravi6B/MailMate](./praveen-pravi6b-mailmate.md) | ⭐ — | Python | 46/100 |
 | 1356 | [aiapplyd/aiapplyd-mcp](./aiapplyd-aiapplyd-mcp.md) | ⭐ — | — | 46/100 |
-| 1357 | [Xeven777/openinstadm](./xeven777-openinstadm.md) | ⭐ 36 | — | 46/100 |
+| 1357 | [Xeven777/openinstadm](./xeven777-openinstadm.md) | ⭐ 37 | — | 46/100 |
 | 1358 | [shubhamkumbhalkar/lever-auto-apply](./shubhamkumbhalkar-lever-auto-apply.md) | ⭐ 5 | Python | 46/100 |
 | 1359 | [raideria-software/dagychu](./raideria-software-dagychu.md) | ⭐ 20 | — | 46/100 |
 | 1360 | [camthink-ai/NeoMind](./camthink-ai-neomind.md) | ⭐ 40 | Rust | 46/100 |
@@ -1377,7 +1377,7 @@
 | 1367 | [ansible/ansible-dev-tools](./ansible-ansible-dev-tools.md) | ⭐ 211 | — | 46/100 |
 | 1368 | [robgonnella/releasaurus](./robgonnella-releasaurus.md) | ⭐ 31 | — | 46/100 |
 | 1369 | [lgxz/winuse](./lgxz-winuse.md) | ⭐ 1 | — | 46/100 |
-| 1370 | [visnia-ai/browser-agent](./visnia-ai-browser-agent.md) | ⭐ 24 | — | 46/100 |
+| 1370 | [visnia-ai/browser-agent](./visnia-ai-browser-agent.md) | ⭐ 25 | — | 46/100 |
 | 1371 | [sonic0002/pikabo](./sonic0002-pikabo.md) | ⭐ 10 | — | 46/100 |
 | 1372 | [silo-code/silo](./silo-code-silo.md) | ⭐ 62 | — | 46/100 |
 | 1373 | [jezmn/hanesu](./jezmn-hanesu.md) | ⭐ 5 | — | 46/100 |
@@ -1465,8 +1465,8 @@
 | 1455 | [AlejandroSilvaMendez/fail-closed-python-assessment](./alejandrosilvamendez-fail-closed-python-assessment.md) | ⭐ — | Python | 43/100 |
 | 1456 | [truongsontung/pr-monitor](./truongsontung-pr-monitor.md) | ⭐ — | Python | 43/100 |
 | 1457 | [aws/n8n-nodes-agentcore](./aws-n8n-nodes-agentcore.md) | ⭐ 16 | TypeScript | 43/100 |
-| 1458 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
-| 1459 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
+| 1458 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
+| 1459 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
 | 1460 | [etkecc/baibot](./etkecc-baibot.md) | ⭐ 254 | Rust | 43/100 |
 | 1461 | [kompiro/karasu](./kompiro-karasu.md) | ⭐ 1 | TypeScript | 43/100 |
 | 1462 | [mukuvi/doorman](./mukuvi-doorman.md) | ⭐ — | Python | 43/100 |
@@ -1604,8 +1604,8 @@
 | 1594 | [unkeyed/keanu-reviews](./unkeyed-keanu-reviews.md) | ⭐ 6 | — | 38/100 |
 | 1595 | [madebywelch/guaca](./madebywelch-guaca.md) | ⭐ 54 | — | 38/100 |
 | 1596 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ 1 | — | 38/100 |
-| 1597 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ 8 | — | 38/100 |
-| 1598 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
+| 1597 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
+| 1598 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ 8 | — | 38/100 |
 | 1599 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ 1 | — | 38/100 |
 | 1600 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ 1 | — | 38/100 |
 | 1601 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ 5 | — | 38/100 |
