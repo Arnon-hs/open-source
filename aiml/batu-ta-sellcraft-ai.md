@@ -1,6 +1,6 @@
 # batu-ta/sellcraft-ai
 
-[![Stars](https://img.shields.io/github/stars/batu-ta/sellcraft-ai?style=flat-square&color=yellow)](https://github.com/batu-ta/sellcraft-ai/stargazers) [![Forks](https://img.shields.io/github/forks/batu-ta/sellcraft-ai?style=flat-square&color=blue)](https://github.com/batu-ta/sellcraft-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/batu-ta/sellcraft-ai?style=flat-square&color=yellow)](https://github.com/batu-ta/sellcraft-ai/stargazers) [![Forks](https://img.shields.io/github/forks/batu-ta/sellcraft-ai?style=flat-square&color=blue)](https://github.com/batu-ta/sellcraft-ai/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-31%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 34/100 |
+| 📈 **Score** | 31/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ batu-ta/sellcraft-ai：batu-ta/sellcraft-ai helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 37/100 |
+| quality | 32/100 |
 | integration | 18/100 |
-| production | 44/100 |
-| outlook | 44/100 |
+| production | 38/100 |
+| outlook | 37/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

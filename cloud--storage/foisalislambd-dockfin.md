@@ -64,18 +64,18 @@ foisalislambd/dockfin：foisalislambd/dockfin may be useful when its README and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 56/100 |
-| integration | 78/100 |
-| production | 64/100 |
-| outlook | 66/100 |
-| adoption | 23/100 |
-| categoryMatchCount | 400/100 |
-| stars | 23/100 |
 | forks | 24/100 |
-| recency | 80/100 |
+| stars | 23/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 56/100 |
+| recency | 80/100 |
+| adoption | 23/100 |
+| production | 64/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

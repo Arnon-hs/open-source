@@ -329,7 +329,7 @@
 | 319 | [G00dS0ul/G00dS0ul](./g00ds0ul-g00ds0ul.md) | ⭐ — | — | 42/100 |
 | 320 | [vanyle/vectarine](./vanyle-vectarine.md) | ⭐ 140 | Rust | 42/100 |
 | 321 | [OpenDreamProject/OpenDream](./opendreamproject-opendream.md) | ⭐ 281 | C# | 42/100 |
-| 322 | [Hash-7777/open-Hash-LMG](./hash-7777-open-hash-lmg.md) | ⭐ — | — | 41/100 |
+| 322 | [Hash-7777/open-Hash-LMG](./hash-7777-open-hash-lmg.md) | ⭐ 2 | — | 41/100 |
 | 323 | [LaurentiuGabriel/retro-break](./laurentiugabriel-retro-break.md) | ⭐ 1 | — | 41/100 |
 | 324 | [leonlarsson/isometrics](./leonlarsson-isometrics.md) | ⭐ 1 | — | 41/100 |
 | 325 | [akoaysigod/pocket_saturn_core](./akoaysigod-pocket-saturn-core.md) | ⭐ 19 | — | 41/100 |
