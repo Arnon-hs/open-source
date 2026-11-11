@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation
+MCP
 
 ## 📝 Summary
 
 ### English
 
-Schultzenator/HCTN: Schultzenator/HCTN helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Schultzenator/HCTN: Schultzenator/HCTN helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Schultzenator/HCTN: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Schultzenator/HCTN: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Schultzenator/HCTN：Schultzenator/HCTN helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Schultzenator/HCTN：Schultzenator/HCTN helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Schultzenator/HCTN helps remove repetitive manual operations from a workflow.
+**Value:** Schultzenator/HCTN helps connect AI assistants to real tools and data through a standard protocol.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -63,19 +63,19 @@ Schultzenator/HCTN：Schultzenator/HCTN helps remove repetitive manual operation
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 38/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 55/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 50/100 |
+| outlook | 55/100 |
+| quality | 38/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/Schultzenator/HCTN) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/Schultzenator/HCTN) · [← Back to Mcp](./README.md)</sub>

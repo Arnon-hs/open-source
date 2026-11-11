@@ -369,7 +369,7 @@
 | 359 | [2JasonP/agentpost](./2jasonp-agentpost.md) | ⭐ — | — | 42/100 |
 | 360 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ 5 | — | 42/100 |
 | 361 | [Mnexa-AI/e2a](./mnexa-ai-e2a.md) | ⭐ — | — | 42/100 |
-| 362 | [livekit/ros-portal](./livekit-ros-portal.md) | ⭐ — | — | 41/100 |
+| 362 | [livekit/ros-portal](./livekit-ros-portal.md) | ⭐ 8 | — | 41/100 |
 | 363 | [mre/thundervim](./mre-thundervim.md) | ⭐ 6 | — | 41/100 |
 | 364 | [nashbridges/dial-r-for-reply](./nashbridges-dial-r-for-reply.md) | ⭐ 2 | — | 41/100 |
 | 365 | [mestr-io/channelvault](./mestr-io-channelvault.md) | ⭐ 4 | — | 41/100 |

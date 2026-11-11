@@ -19,7 +19,7 @@
 | 9 | [FrigadeHQ/yogurt](./frigadehq-yogurt.md) | ⭐ — | — | 41/100 |
 | 10 | [SreeNaresh1/episteme-ai](./sreenaresh1-episteme-ai.md) | ⭐ — | — | 41/100 |
 | 11 | [sridharchaildn/notebook-ai](./sridharchaildn-notebook-ai.md) | ⭐ — | — | 41/100 |
-| 12 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ — | — | 41/100 |
+| 12 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ 6 | — | 41/100 |
 | 13 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ 1 | — | 41/100 |
 | 14 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ 2 | — | 41/100 |
 | 15 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ 1 | — | 41/100 |
