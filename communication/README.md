@@ -295,7 +295,7 @@
 | 285 | [d99kris/nmail](./d99kris-nmail.md) | ⭐ 268 | — | 48/100 |
 | 286 | [roman-16/proton-cli](./roman-16-proton-cli.md) | ⭐ 109 | — | 48/100 |
 | 287 | [joshumax/git2imap](./joshumax-git2imap.md) | ⭐ 1 | — | 48/100 |
-| 288 | [slackhq/hakana](./slackhq-hakana.md) | ⭐ 110 | Rust | 48/100 |
+| 288 | [slackhq/hakana](./slackhq-hakana.md) | ⭐ 111 | Rust | 48/100 |
 | 289 | [trougnouf/cfait](./trougnouf-cfait.md) | ⭐ 211 | Rust | 48/100 |
 | 290 | [agntcy/slim](./agntcy-slim.md) | ⭐ 233 | Rust | 48/100 |
 | 291 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 468 | Swift | 48/100 |
@@ -361,8 +361,8 @@
 | 351 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 352 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 353 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 354 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 354 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 356 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 357 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 358 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

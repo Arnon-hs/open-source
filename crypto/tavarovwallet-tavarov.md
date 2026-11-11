@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Payments
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ tavarovwallet/tavarov: tavarovwallet/tavarov helps prototype or inspect blockcha
 
 ### Русский
 
-tavarovwallet/tavarov: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+tavarovwallet/tavarov: open-source проект в категориях Crypto, Payments. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,18 +65,18 @@ tavarovwallet/tavarov：tavarovwallet/tavarov helps prototype or inspect blockch
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 58/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

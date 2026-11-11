@@ -1,6 +1,6 @@
 # OOuph/agent-team
 
-[![Stars](https://img.shields.io/github/stars/OOuph/agent-team?style=flat-square&color=yellow)](https://github.com/OOuph/agent-team/stargazers) [![Forks](https://img.shields.io/github/forks/OOuph/agent-team?style=flat-square&color=blue)](https://github.com/OOuph/agent-team/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/OOuph/agent-team?style=flat-square&color=yellow)](https://github.com/OOuph/agent-team/stargazers) [![Forks](https://img.shields.io/github/forks/OOuph/agent-team?style=flat-square&color=blue)](https://github.com/OOuph/agent-team/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ OOuph/agent-team：OOuph/agent-team helps add AI capability without starting fro
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 50/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 54/100 |
+| outlook | 55/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

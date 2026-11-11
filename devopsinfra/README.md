@@ -129,8 +129,8 @@
 | 119 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 9k | Go | 64/100 |
 | 120 | [tborychowski/self-hosted-cookbook](./tborychowski-self-hosted-cookbook.md) | ⭐ 1.3k | — | 64/100 |
 | 121 | [open-policy-agent/gatekeeper-library](./open-policy-agent-gatekeeper-library.md) | ⭐ 705 | Open Policy Agent | 64/100 |
-| 122 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
-| 123 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 676 | Go | 64/100 |
+| 122 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 676 | Go | 64/100 |
+| 123 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
 | 124 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 64/100 |
 | 125 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 324 | Python | 64/100 |
 | 126 | [mkubaczyk/helmsman](./mkubaczyk-helmsman.md) | ⭐ 1.5k | Go | 64/100 |
@@ -175,7 +175,7 @@
 | 165 | [piomin/sample-spring-microservices-kubernetes](./piomin-sample-spring-microservices-kubernetes.md) | ⭐ 538 | Java | 63/100 |
 | 166 | [google/gvisor](./google-gvisor.md) | ⭐ 20k | Go | 63/100 |
 | 167 | [hanxi/cups-web](./hanxi-cups-web.md) | ⭐ 1.5k | Go | 62/100 |
-| 168 | [ovumcy/ovumcy-web](./ovumcy-ovumcy-web.md) | ⭐ 134 | Go | 62/100 |
+| 168 | [ovumcy/ovumcy-web](./ovumcy-ovumcy-web.md) | ⭐ 136 | Go | 62/100 |
 | 169 | [jenkinsci/docker](./jenkinsci-docker.md) | ⭐ 7.7k | PowerShell | 62/100 |
 | 170 | [enix/kube-image-keeper](./enix-kube-image-keeper.md) | ⭐ 759 | Go | 62/100 |
 | 171 | [spacelift-io/spacectl](./spacelift-io-spacectl.md) | ⭐ 174 | Go | 62/100 |
@@ -351,7 +351,7 @@
 | 341 | [kcp-dev/kcp](./kcp-dev-kcp.md) | ⭐ 2.9k | Go | 54/100 |
 | 342 | [Ursa-Minor-Beta/agent-factory-docker-api-ui](./ursa-minor-beta-agent-factory-docker-api-ui.md) | ⭐ 100 | — | 53/100 |
 | 343 | [adamdecaf/deadcheck](./adamdecaf-deadcheck.md) | ⭐ 334 | Go | 53/100 |
-| 344 | [gna1280072/LeePanel](./gna1280072-leepanel.md) | ⭐ 667 | Rust | 53/100 |
+| 344 | [gna1280072/LeePanel](./gna1280072-leepanel.md) | ⭐ 673 | Rust | 53/100 |
 | 345 | [linuxserver/docker-transmission](./linuxserver-docker-transmission.md) | ⭐ 742 | Dockerfile | 53/100 |
 | 346 | [VibePod/vibepod-cli](./vibepod-vibepod-cli.md) | ⭐ 192 | — | 53/100 |
 | 347 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 644 | PHP | 53/100 |
@@ -441,7 +441,7 @@
 | 431 | [av/mi](./av-mi.md) | ⭐ — | — | 45/100 |
 | 432 | [hwdsl2/docker-ai-stack](./hwdsl2-docker-ai-stack.md) | ⭐ — | — | 45/100 |
 | 433 | [openstack/openstack-helm](./openstack-openstack-helm.md) | ⭐ 581 | Shell | 45/100 |
-| 434 | [shakg/g-systemctl](./shakg-g-systemctl.md) | ⭐ — | — | 44/100 |
+| 434 | [shakg/g-systemctl](./shakg-g-systemctl.md) | ⭐ 98 | — | 44/100 |
 | 435 | [vitekube/vitekube](./vitekube-vitekube.md) | ⭐ 3 | — | 44/100 |
 | 436 | [dsx-ai-factory/nvke](./dsx-ai-factory-nvke.md) | ⭐ 1.1k | — | 44/100 |
 | 437 | [matty234/k8sman](./matty234-k8sman.md) | ⭐ 5 | — | 44/100 |
@@ -484,8 +484,8 @@
 | 474 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 475 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 476 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 477 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
-| 478 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 477 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 478 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
 | 479 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 480 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 481 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |

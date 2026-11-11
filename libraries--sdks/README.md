@@ -169,7 +169,7 @@
 | 159 | [rust-lang/rust-bindgen](./rust-lang-rust-bindgen.md) | ⭐ 5.3k | Rust | 57/100 |
 | 160 | [stellar/rs-soroban-sdk](./stellar-rs-soroban-sdk.md) | ⭐ 210 | Rust | 57/100 |
 | 161 | [esp-rs/esp-idf-sys](./esp-rs-esp-idf-sys.md) | ⭐ 405 | Rust | 57/100 |
-| 162 | [bitwarden/sdk-internal](./bitwarden-sdk-internal.md) | ⭐ 117 | Rust | 57/100 |
+| 162 | [bitwarden/sdk-internal](./bitwarden-sdk-internal.md) | ⭐ 118 | Rust | 57/100 |
 | 163 | [apache/avro-rs](./apache-avro-rs.md) | ⭐ 132 | Rust | 57/100 |
 | 164 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 457 | Kotlin | 57/100 |
 | 165 | [kubernetes-client/java](./kubernetes-client-java.md) | ⭐ 4k | Java | 57/100 |

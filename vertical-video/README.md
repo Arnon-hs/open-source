@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [harry0703/MoneyPrinterTurbo](./harry0703-moneyprinterturbo.md) | ⭐ 142k | Python | 85/100 |
-| 2 | [NaufalRizqullah/opensource-clipping](./naufalrizqullah-opensource-clipping.md) | ⭐ 230 | Python | 84/100 |
+| 2 | [NaufalRizqullah/opensource-clipping](./naufalrizqullah-opensource-clipping.md) | ⭐ 235 | Python | 84/100 |
 | 3 | [jipraks/yt-short-clipper](./jipraks-yt-short-clipper.md) | ⭐ 1.1k | TypeScript | 84/100 |
 | 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 913 | TypeScript | 83/100 |
 | 5 | [el-frontend/video-wizard](./el-frontend-video-wizard.md) | ⭐ 18 | TypeScript | 82/100 |
@@ -67,11 +67,11 @@
 | 57 | [sajid5669/AutoShorts-Studio](./sajid5669-autoshorts-studio.md) | ⭐ 15 | HTML | 69/100 |
 | 58 | [webkubor/reel-kit](./webkubor-reel-kit.md) | ⭐ 7 | Vue | 69/100 |
 | 59 | [outhsics/openfang-auto-clip](./outhsics-openfang-auto-clip.md) | ⭐ 38 | Python | 69/100 |
-| 60 | [krakonjac300-pixel/podcast-shorts-factory](./krakonjac300-pixel-podcast-shorts-factory.md) | ⭐ 134 | Python | 69/100 |
+| 60 | [krakonjac300-pixel/podcast-shorts-factory](./krakonjac300-pixel-podcast-shorts-factory.md) | ⭐ 135 | Python | 69/100 |
 | 61 | [orylite/lindyson-ai](./orylite-lindyson-ai.md) | ⭐ 39 | TypeScript | 68/100 |
 | 62 | [numbpill3d/ffmpeg-ai](./numbpill3d-ffmpeg-ai.md) | ⭐ 39 | Python | 68/100 |
 | 63 | [WANGLEVY9/VidForge](./wanglevy9-vidforge.md) | ⭐ 91 | TypeScript | 68/100 |
-| 64 | [rediumvex/social-media-caption-generator-claude](./rediumvex-social-media-caption-generator-claude.md) | ⭐ 149 | — | 68/100 |
+| 64 | [rediumvex/social-media-caption-generator-claude](./rediumvex-social-media-caption-generator-claude.md) | ⭐ 151 | — | 68/100 |
 | 65 | [artemisln/edit-reel](./artemisln-edit-reel.md) | ⭐ 40 | Python | 67/100 |
 | 66 | [paulherter/sequence-studio](./paulherter-sequence-studio.md) | ⭐ 22 | Swift | 67/100 |
 | 67 | [marvtub/takes-public](./marvtub-takes-public.md) | ⭐ 38 | Swift | 67/100 |
@@ -116,7 +116,7 @@
 | 106 | [ronin1770/reel-quick](./ronin1770-reel-quick.md) | ⭐ 16 | Python | 60/100 |
 | 107 | [MelonS/MelonS-Agents](./melons-melons-agents.md) | ⭐ 17 | C# | 60/100 |
 | 108 | [CharlesPikachu/videodl](./charlespikachu-videodl.md) | ⭐ 3.2k | Python | 60/100 |
-| 109 | [liuhaisi2026212-maker/taishang-laojun](./liuhaisi2026212-maker-taishang-laojun.md) | ⭐ 533 | Markdown | 59/100 |
+| 109 | [liuhaisi2026212-maker/taishang-laojun](./liuhaisi2026212-maker-taishang-laojun.md) | ⭐ 542 | Markdown | 59/100 |
 | 110 | [hanli1999/video-breakdown-skill](./hanli1999-video-breakdown-skill.md) | ⭐ 12 | — | 59/100 |
 | 111 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 4 | Python | 59/100 |
 | 112 | [kurbaitaev/ghost-editor](./kurbaitaev-ghost-editor.md) | ⭐ 339 | JavaScript | 59/100 |
@@ -167,8 +167,8 @@
 | 157 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 2.4k | JavaScript | 50/100 |
 | 158 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ 1 | — | 48/100 |
 | 159 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 42 | — | 47/100 |
-| 160 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
-| 161 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
+| 160 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
+| 161 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
 | 162 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 37 | JavaScript | 47/100 |
 | 163 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
 | 164 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |

@@ -243,7 +243,7 @@
 | 233 | [sftwrdotdev/Markpad](./sftwrdotdev-markpad.md) | ⭐ 1.4k | TypeScript | 59/100 |
 | 234 | [happycola233/tchMaterial-parser](./happycola233-tchmaterial-parser.md) | ⭐ 7.8k | Python | 59/100 |
 | 235 | [MarkBind/markbind](./markbind-markbind.md) | ⭐ 158 | HTML | 59/100 |
-| 236 | [sazardev/shiki](./sazardev-shiki.md) | ⭐ 335 | Rust | 59/100 |
+| 236 | [sazardev/shiki](./sazardev-shiki.md) | ⭐ 337 | Rust | 59/100 |
 | 237 | [Karna14314/Pdf_Tools](./karna14314-pdf-tools.md) | ⭐ 696 | Kotlin | 59/100 |
 | 238 | [liuzi6612/awesome-web-editor](./liuzi6612-awesome-web-editor.md) | ⭐ 899 | Python | 59/100 |
 | 239 | [marp-team/marp-vscode](./marp-team-marp-vscode.md) | ⭐ 2.1k | TypeScript | 59/100 |
@@ -715,8 +715,8 @@
 | 705 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
 | 706 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
 | 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
-| 708 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
-| 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
+| 708 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
+| 709 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
 | 710 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |
 | 711 | [grinev/boardown](./grinev-boardown.md) | ⭐ 46 | — | 38/100 |
 | 712 | [dsbitor/technotes-releases](./dsbitor-technotes-releases.md) | ⭐ 1 | — | 38/100 |

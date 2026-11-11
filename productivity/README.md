@@ -139,7 +139,7 @@
 | 129 | [samirpatil2000/Buffer](./samirpatil2000-buffer.md) | ⭐ 483 | Swift | 59/100 |
 | 130 | [ever-co/ever-teams](./ever-co-ever-teams.md) | ⭐ 606 | TypeScript | 59/100 |
 | 131 | [tim-hub/obsidian-bible-reference](./tim-hub-obsidian-bible-reference.md) | ⭐ 348 | TypeScript | 59/100 |
-| 132 | [codewiththiha/OpenSlides](./codewiththiha-openslides.md) | ⭐ 241 | TypeScript | 59/100 |
+| 132 | [codewiththiha/OpenSlides](./codewiththiha-openslides.md) | ⭐ 242 | TypeScript | 59/100 |
 | 133 | [Ruben2776/PicView](./ruben2776-picview.md) | ⭐ 3.8k | C# | 59/100 |
 | 134 | [Y-ASLant/ElegantClipboard](./y-aslant-elegantclipboard.md) | ⭐ 486 | Rust | 59/100 |
 | 135 | [zhensherlock/intellij-platform-git-stats-plugin](./zhensherlock-intellij-platform-git-stats-plugin.md) | ⭐ 210 | Kotlin | 59/100 |
@@ -211,7 +211,7 @@
 | 201 | [Comfy-Org/Comfy-Desktop](./comfy-org-comfy-desktop.md) | ⭐ 695 | TypeScript | 53/100 |
 | 202 | [fossasia/badgemagic-app](./fossasia-badgemagic-app.md) | ⭐ 2k | Dart | 53/100 |
 | 203 | [gitpod-io/memo](./gitpod-io-memo.md) | ⭐ 63 | TypeScript | 53/100 |
-| 204 | [Ruszero01/clippi](./ruszero01-clippi.md) | ⭐ 453 | Rust | 53/100 |
+| 204 | [Ruszero01/clippi](./ruszero01-clippi.md) | ⭐ 454 | Rust | 53/100 |
 | 205 | [SUPERCILEX/clipboard-history](./supercilex-clipboard-history.md) | ⭐ 495 | Rust | 53/100 |
 | 206 | [irbis-sh/zen-desktop](./irbis-sh-zen-desktop.md) | ⭐ 4.4k | Go | 53/100 |
 | 207 | [cccadet/omni-sql](./cccadet-omni-sql.md) | ⭐ 4 | TypeScript | 52/100 |
@@ -312,8 +312,8 @@
 | 302 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 303 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 304 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
-| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 305 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
 | 307 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 308 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 309 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |

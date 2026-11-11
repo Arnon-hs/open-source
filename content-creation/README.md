@@ -11,7 +11,7 @@
 | 1 | [szczyglis-dev/py-gpt](./szczyglis-dev-py-gpt.md) | ⭐ 2k | Python | 84/100 |
 | 2 | [SamurAIGPT/Generative-Media-Skills](./samuraigpt-generative-media-skills.md) | ⭐ 36 | Shell | 84/100 |
 | 3 | [ma2za/python-substack](./ma2za-python-substack.md) | ⭐ 184 | Python | 83/100 |
-| 4 | [kodelyx/flow-agent](./kodelyx-flow-agent.md) | ⭐ 262 | Python | 82/100 |
+| 4 | [kodelyx/flow-agent](./kodelyx-flow-agent.md) | ⭐ 264 | Python | 82/100 |
 | 5 | [SamurAIGPT/muapi-cli](./samuraigpt-muapi-cli.md) | ⭐ 17 | Python | 82/100 |
 | 6 | [darkzOGx/youtube-automation-agent](./darkzogx-youtube-automation-agent.md) | ⭐ 5.1k | JavaScript | 80/100 |
 | 7 | [Ratimon/openquok-monorepo](./ratimon-openquok-monorepo.md) | ⭐ 107 | TypeScript | 79/100 |
@@ -30,7 +30,7 @@
 | 20 | [alecs5am/ralphy](./alecs5am-ralphy.md) | ⭐ 144 | TypeScript | 76/100 |
 | 21 | [dramaclaw/dramaclaw](./dramaclaw-dramaclaw.md) | ⭐ 7.7k | TypeScript | 75/100 |
 | 22 | [volcengine/ark-cli](./volcengine-ark-cli.md) | ⭐ 149 | Python | 75/100 |
-| 23 | [heygen-com/heygen-cli](./heygen-com-heygen-cli.md) | ⭐ 171 | Go | 74/100 |
+| 23 | [heygen-com/heygen-cli](./heygen-com-heygen-cli.md) | ⭐ 172 | Go | 74/100 |
 | 24 | [vaaya-ai/vaaya-mcp](./vaaya-ai-vaaya-mcp.md) | ⭐ 44 | Shell | 74/100 |
 | 25 | [gongxings/ai-creator](./gongxings-ai-creator.md) | ⭐ 93 | Python | 74/100 |
 | 26 | [aman179102/podvoice](./aman179102-podvoice.md) | ⭐ 38 | Python | 73/100 |
@@ -98,7 +98,7 @@
 | 88 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 23 | Python | 61/100 |
 | 89 | [Wan-Video/Wan2.2](./wan-video-wan2.2.md) | ⭐ 18.5k | Python | 60/100 |
 | 90 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 204 | — | 60/100 |
-| 91 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 157 | Vue | 60/100 |
+| 91 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 158 | Vue | 60/100 |
 | 92 | [WaveSpeedAI/mcp-server](./wavespeedai-mcp-server.md) | ⭐ 36 | TypeScript | 59/100 |
 | 93 | [rolfie-han/YoLuster-shorts](./rolfie-han-yoluster-shorts.md) | ⭐ 296 | HTML | 59/100 |
 | 94 | [zxhwolfe-dev/aiworkstation-topic-intelligence](./zxhwolfe-dev-aiworkstation-topic-intelligence.md) | ⭐ 2 | Python | 58/100 |

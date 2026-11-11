@@ -106,7 +106,7 @@
 | 96 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.2k | C++ | 51/100 |
 | 97 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 849 | Haskell | 51/100 |
 | 98 | [PostHog/posthog.com](./posthog-posthog.com.md) | ⭐ 1.2k | TypeScript | 51/100 |
-| 99 | [ghaida/intent](./ghaida-intent.md) | ⭐ 252 | CSS | 50/100 |
+| 99 | [ghaida/intent](./ghaida-intent.md) | ⭐ 254 | CSS | 50/100 |
 | 100 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 130 | Rust | 50/100 |
 | 101 | [synfig/synfig](./synfig-synfig.md) | ⭐ 2.4k | C++ | 50/100 |
 | 102 | [drawcms/drawcms](./drawcms-drawcms.md) | ⭐ 45 | — | 49/100 |

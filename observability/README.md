@@ -175,7 +175,7 @@
 | 165 | [open-telemetry/opentelemetry-collector-releases](./open-telemetry-opentelemetry-collector-releases.md) | ⭐ 524 | Go | 55/100 |
 | 166 | [ymtdzzz/otel-tui](./ymtdzzz-otel-tui.md) | ⭐ 1.1k | Go | 55/100 |
 | 167 | [carverauto/serviceradar](./carverauto-serviceradar.md) | ⭐ 933 | JavaScript | 55/100 |
-| 168 | [openbkn-ai/bkn-foundry](./openbkn-ai-bkn-foundry.md) | ⭐ 1.2k | Go | 54/100 |
+| 168 | [openbkn-ai/bkn-foundry](./openbkn-ai-bkn-foundry.md) | ⭐ 1.3k | Go | 54/100 |
 | 169 | [overcheck/overcheck](./overcheck-overcheck.md) | ⭐ 1 | — | 54/100 |
 | 170 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 587 | Python | 54/100 |
 | 171 | [vince-lam/awesome-local-llms](./vince-lam-awesome-local-llms.md) | ⭐ 813 | Python | 54/100 |

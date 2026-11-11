@@ -201,7 +201,7 @@
 | 191 | [pandas-dev/pandas](./pandas-dev-pandas.md) | ⭐ 50.6k | Python | 58/100 |
 | 192 | [pola-rs/polars](./pola-rs-polars.md) | ⭐ 40.3k | Rust | 58/100 |
 | 193 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 23.4k | Python | 58/100 |
-| 194 | [sysevol-ai/CodeNib](./sysevol-ai-codenib.md) | ⭐ 94 | Python | 57/100 |
+| 194 | [sysevol-ai/CodeNib](./sysevol-ai-codenib.md) | ⭐ 95 | Python | 57/100 |
 | 195 | [zinggAI/zingg](./zinggai-zingg.md) | ⭐ 1.3k | Java | 57/100 |
 | 196 | [hellobertrand/zxc](./hellobertrand-zxc.md) | ⭐ 537 | C | 57/100 |
 | 197 | [OpenSpace/OpenSpace](./openspace-openspace.md) | ⭐ 1.3k | C++ | 57/100 |

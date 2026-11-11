@@ -537,7 +537,7 @@
 | 527 | [pivpn/pivpn](./pivpn-pivpn.md) | ⭐ 8.1k | Shell | 47/100 |
 | 528 | [aecsocket/aeronet](./aecsocket-aeronet.md) | ⭐ 140 | Rust | 47/100 |
 | 529 | [CNMan/dnscrypt-proxy-config](./cnman-dnscrypt-proxy-config.md) | ⭐ 384 | Shell | 47/100 |
-| 530 | [shayanheidari01/ShineNETVPN](./shayanheidari01-shinenetvpn.md) | ⭐ 139 | Rust | 47/100 |
+| 530 | [shayanheidari01/ShineNETVPN](./shayanheidari01-shinenetvpn.md) | ⭐ 138 | Rust | 47/100 |
 | 531 | [Happ-proxy/happ-android](./happ-proxy-happ-android.md) | ⭐ 889 | — | 47/100 |
 | 532 | [PuddinCat/BestClash](./puddincat-bestclash.md) | ⭐ 2.1k | — | 47/100 |
 | 533 | [ecki/net-tools](./ecki-net-tools.md) | ⭐ 312 | C | 47/100 |

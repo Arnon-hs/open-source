@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation
+Orchestration
 
 ## 📝 Summary
 
 ### English
 
-scrapinghub/scrapy-poet: scrapinghub/scrapy-poet helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+scrapinghub/scrapy-poet: scrapinghub/scrapy-poet helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-scrapinghub/scrapy-poet: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+scrapinghub/scrapy-poet: open-source проект в категориях Orchestration. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-scrapinghub/scrapy-poet：scrapinghub/scrapy-poet helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+scrapinghub/scrapy-poet：scrapinghub/scrapy-poet helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** scrapinghub/scrapy-poet helps remove repetitive manual operations from a workflow.
+**Value:** scrapinghub/scrapy-poet helps turn isolated prompts and tools into repeatable agent workflows.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,19 +65,19 @@ scrapinghub/scrapy-poet：scrapinghub/scrapy-poet helps remove repetitive manual
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 61/100 |
-| integration | 62/100 |
-| production | 64/100 |
-| outlook | 68/100 |
-| adoption | 43/100 |
-| categoryMatchCount | 100/100 |
-| stars | 45/100 |
 | forks | 37/100 |
-| recency | 80/100 |
+| stars | 45/100 |
 | topics | 75/100 |
+| outlook | 68/100 |
+| quality | 61/100 |
+| recency | 80/100 |
+| adoption | 43/100 |
+| production | 64/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/scrapinghub/scrapy-poet) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/scrapinghub/scrapy-poet) · [← Back to Orchestration](./README.md)</sub>
