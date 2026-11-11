@@ -6,9 +6,9 @@ Only categories with at least 10 project cards have folders. The complete machin
 
 | Category | Project cards |
 | --- | ---: |
-| [AI/ML](../aiml/README.md) | 5,154 |
-| [Automation](../automation/README.md) | 1,679 |
-| [Backend](../backend/README.md) | 994 |
+| [AI/ML](../aiml/README.md) | 5,155 |
+| [Automation](../automation/README.md) | 1,680 |
+| [Backend](../backend/README.md) | 995 |
 | [Cloud & Storage](../cloud--storage/README.md) | 639 |
 | [Communication](../communication/README.md) | 481 |
 | [Content Creation](../content-creation/README.md) | 169 |
@@ -16,7 +16,7 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Data](../data/README.md) | 367 |
 | [Database](../database/README.md) | 586 |
 | [Design](../design/README.md) | 198 |
-| [DevOps/Infra](../devopsinfra/README.md) | 550 |
+| [DevOps/Infra](../devopsinfra/README.md) | 551 |
 | [DevTools](../devtools/README.md) | 1,665 |
 | [Documents](../documents/README.md) | 754 |
 | [Education](../education/README.md) | 34 |
@@ -28,14 +28,14 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [MCP](../mcp/README.md) | 3,007 |
 | [Misc](../misc/README.md) | 18,208 |
 | [Mobile](../mobile/README.md) | 710 |
-| [Networking](../networking/README.md) | 680 |
+| [Networking](../networking/README.md) | 681 |
 | [Observability](../observability/README.md) | 327 |
 | [Orchestration](../orchestration/README.md) | 2,507 |
 | [Payments](../payments/README.md) | 393 |
 | [Product](../product/README.md) | 15 |
-| [Productivity](../productivity/README.md) | 369 |
-| [Security](../security/README.md) | 514 |
+| [Productivity](../productivity/README.md) | 370 |
+| [Security](../security/README.md) | 515 |
 | [Templates](../templates/README.md) | 499 |
 | [Trading](../trading/README.md) | 227 |
 | [Vertical Video](../vertical-video/README.md) | 171 |
-| [Video Editing](../video-editing/README.md) | 625 |
+| [Video Editing](../video-editing/README.md) | 627 |
