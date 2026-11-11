@@ -581,8 +581,8 @@
 | 571 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 572 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 652 | — | 45/100 |
 | 573 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 574 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
-| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 574 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
 | 576 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 577 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 578 | [hoysengleang/wslog](./hoysengleang-wslog.md) | ⭐ 1 | TypeScript | 43/100 |
@@ -600,7 +600,7 @@
 | 590 | [naia-lib/naia](./naia-lib-naia.md) | ⭐ 1.2k | Rust | 42/100 |
 | 591 | [CLoaKY233/kith](./cloaky233-kith.md) | ⭐ — | — | 41/100 |
 | 592 | [matthewmrichter/moofport](./matthewmrichter-moofport.md) | ⭐ 1 | — | 41/100 |
-| 593 | [rmediatech/propylea](./rmediatech-propylea.md) | ⭐ 3 | — | 41/100 |
+| 593 | [rmediatech/propylea](./rmediatech-propylea.md) | ⭐ 4 | — | 41/100 |
 | 594 | [usetrim/trim](./usetrim-trim.md) | ⭐ 3 | — | 41/100 |
 | 595 | [hakuxyz/rustdrop](./hakuxyz-rustdrop.md) | ⭐ 14 | — | 41/100 |
 | 596 | [nicorobinreal/molehill](./nicorobinreal-molehill.md) | ⭐ 4 | — | 41/100 |

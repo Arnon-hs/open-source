@@ -2,7 +2,7 @@
 
 > Design tools, UX, creative software
 
-**197 projects** in this category.
+**198 projects** in this category.
 
 ## Projects
 
@@ -181,30 +181,31 @@
 | 171 | [gjaekz/rea-websites](./gjaekz-rea-websites.md) | ⭐ 3 | — | 40/100 |
 | 172 | [bryceelliot/website-launch-checklist](./bryceelliot-website-launch-checklist.md) | ⭐ — | — | 39/100 |
 | 173 | [carsten-riedel/Coree.Analyzers](./carsten-riedel-coree.analyzers.md) | ⭐ 1 | C# | 39/100 |
-| 174 | [xevrion/breakscale](./xevrion-breakscale.md) | ⭐ — | — | 38/100 |
-| 175 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ 40 | — | 38/100 |
-| 176 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
-| 177 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ 120 | — | 38/100 |
-| 178 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ 738 | — | 38/100 |
-| 179 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ 13.2k | — | 38/100 |
-| 180 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ 1 | — | 38/100 |
-| 181 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ 116 | — | 38/100 |
-| 182 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
-| 183 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ 2 | — | 38/100 |
-| 184 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ 78 | — | 38/100 |
-| 185 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ 28 | — | 38/100 |
-| 186 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ 1.9k | — | 38/100 |
-| 187 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ 35 | — | 38/100 |
-| 188 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 38/100 |
-| 189 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
-| 190 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ 2.1k | — | 38/100 |
-| 191 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ 970 | — | 38/100 |
-| 192 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ 310 | — | 38/100 |
-| 193 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ 126.8k | — | 38/100 |
-| 194 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ 272 | — | 38/100 |
-| 195 | [boya16573-design/Cube3.in](./boya16573-design-cube3.in.md) | ⭐ — | HTML | 36/100 |
-| 196 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |
-| 197 | [paper-design/shaders](./paper-design-shaders.md) | ⭐ 4k | — | 29/100 |
+| 174 | [smakwana2/classifieds](./smakwana2-classifieds.md) | ⭐ — | Python | 39/100 |
+| 175 | [xevrion/breakscale](./xevrion-breakscale.md) | ⭐ — | — | 38/100 |
+| 176 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ 40 | — | 38/100 |
+| 177 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
+| 178 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ 120 | — | 38/100 |
+| 179 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ 738 | — | 38/100 |
+| 180 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ 13.2k | — | 38/100 |
+| 181 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ 1 | — | 38/100 |
+| 182 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ 116 | — | 38/100 |
+| 183 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
+| 184 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ 2 | — | 38/100 |
+| 185 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ 78 | — | 38/100 |
+| 186 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ 28 | — | 38/100 |
+| 187 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ 1.9k | — | 38/100 |
+| 188 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ 35 | — | 38/100 |
+| 189 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 38/100 |
+| 190 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
+| 191 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ 2.1k | — | 38/100 |
+| 192 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ 970 | — | 38/100 |
+| 193 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ 310 | — | 38/100 |
+| 194 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ 126.8k | — | 38/100 |
+| 195 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ 272 | — | 38/100 |
+| 196 | [boya16573-design/Cube3.in](./boya16573-design-cube3.in.md) | ⭐ — | HTML | 36/100 |
+| 197 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |
+| 198 | [paper-design/shaders](./paper-design-shaders.md) | ⭐ 4k | — | 29/100 |
 
 ---
 
