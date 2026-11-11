@@ -1,6 +1,6 @@
 # Arthur031221/Couchcade
 
-[![Stars](https://img.shields.io/github/stars/Arthur031221/Couchcade?style=flat-square&color=yellow)](https://github.com/Arthur031221/Couchcade/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur031221/Couchcade?style=flat-square&color=blue)](https://github.com/Arthur031221/Couchcade/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Arthur031221/Couchcade?style=flat-square&color=yellow)](https://github.com/Arthur031221/Couchcade/stargazers) [![Forks](https://img.shields.io/github/forks/Arthur031221/Couchcade?style=flat-square&color=blue)](https://github.com/Arthur031221/Couchcade/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Free self-hosted party games for one TV and everyone's phones, in a single Go binary
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -62,15 +62,15 @@ Arthur031221/Couchcade：Arthur031221/Couchcade may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 0/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

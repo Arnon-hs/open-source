@@ -129,8 +129,8 @@
 | 119 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 9k | Go | 64/100 |
 | 120 | [tborychowski/self-hosted-cookbook](./tborychowski-self-hosted-cookbook.md) | ⭐ 1.3k | — | 64/100 |
 | 121 | [open-policy-agent/gatekeeper-library](./open-policy-agent-gatekeeper-library.md) | ⭐ 705 | Open Policy Agent | 64/100 |
-| 122 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 676 | Go | 64/100 |
-| 123 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
+| 122 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
+| 123 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 676 | Go | 64/100 |
 | 124 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 64/100 |
 | 125 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 321 | Python | 64/100 |
 | 126 | [mkubaczyk/helmsman](./mkubaczyk-helmsman.md) | ⭐ 1.5k | Go | 64/100 |
@@ -357,7 +357,7 @@
 | 347 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 644 | PHP | 53/100 |
 | 348 | [onedr0p/home-ops](./onedr0p-home-ops.md) | ⭐ 2.9k | YAML | 53/100 |
 | 349 | [stackrox/stackrox](./stackrox-stackrox.md) | ⭐ 1.3k | Go | 53/100 |
-| 350 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 3.1k | Go | 53/100 |
+| 350 | [kubernetes-sigs/kueue](./kubernetes-sigs-kueue.md) | ⭐ 3.2k | Go | 53/100 |
 | 351 | [hackforla/website](./hackforla-website.md) | ⭐ 365 | JavaScript | 53/100 |
 | 352 | [xavidop/mamori](./xavidop-mamori.md) | ⭐ 17 | Go | 52/100 |
 | 353 | [calasdan-sketch/onememory](./calasdan-sketch-onememory.md) | ⭐ — | — | 52/100 |

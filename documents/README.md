@@ -131,7 +131,7 @@
 | 121 | [TagStudioDev/TagStudio](./tagstudiodev-tagstudio.md) | ⭐ 7.3k | Python | 64/100 |
 | 122 | [avitorio/outstatic](./avitorio-outstatic.md) | ⭐ 3.2k | TypeScript | 64/100 |
 | 123 | [ubugeeei-prod/ox-content](./ubugeeei-prod-ox-content.md) | ⭐ 257 | Rust | 64/100 |
-| 124 | [shadcn-labs/pdfcn](./shadcn-labs-pdfcn.md) | ⭐ 3k | TypeScript | 63/100 |
+| 124 | [shadcn-labs/pdfcn](./shadcn-labs-pdfcn.md) | ⭐ 3.1k | TypeScript | 63/100 |
 | 125 | [Hopding/pdf-lib](./hopding-pdf-lib.md) | ⭐ 8.7k | TypeScript | 63/100 |
 | 126 | [ciromattia/kcc](./ciromattia-kcc.md) | ⭐ 6k | Python | 63/100 |
 | 127 | [getgrav/grav](./getgrav-grav.md) | ⭐ 15.7k | PHP | 63/100 |
@@ -488,7 +488,7 @@
 | 478 | [seazon/FeedMe](./seazon-feedme.md) | ⭐ 353 | — | 48/100 |
 | 479 | [dromara/skyeye](./dromara-skyeye.md) | ⭐ 1.2k | Java | 48/100 |
 | 480 | [redimp/otterwiki](./redimp-otterwiki.md) | ⭐ 1.6k | Python | 48/100 |
-| 481 | [ossappscollective/OSS-DocumentScanner](./ossappscollective-oss-documentscanner.md) | ⭐ 2.6k | C++ | 48/100 |
+| 481 | [ossappscollective/OSS-DocumentScanner](./ossappscollective-oss-documentscanner.md) | ⭐ 2.7k | C++ | 48/100 |
 | 482 | [Tencent/cherry-markdown](./tencent-cherry-markdown.md) | ⭐ 4.9k | JavaScript | 48/100 |
 | 483 | [benjaminshoemaker/ai_coding_project_base](./benjaminshoemaker-ai-coding-project-base.md) | ⭐ 39 | Shell | 48/100 |
 | 484 | [dotCMS/core](./dotcms-core.md) | ⭐ 971 | Java | 48/100 |
@@ -713,8 +713,8 @@
 | 703 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
 | 704 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 705 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
-| 706 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
+| 706 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
+| 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
 | 708 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
 | 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |
@@ -747,8 +747,8 @@
 | 737 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ 2 | — | 38/100 |
 | 738 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 739 | [bruits/satteri](./bruits-satteri.md) | ⭐ 1.3k | — | 38/100 |
-| 740 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
-| 741 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
+| 740 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
+| 741 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
 | 742 | [JagaTheGhost/visualmark-studio](./jagatheghost-visualmark-studio.md) | ⭐ 11 | JavaScript | 37/100 |
 | 743 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 744 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |

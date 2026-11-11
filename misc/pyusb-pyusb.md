@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.3k |
-| 🍴 **Forks** | 671 |
+| 🍴 **Forks** | 672 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-03 |
@@ -52,7 +52,7 @@ pyusb/pyusb：pyusb/pyusb may be useful when its README and activity match a con
 **Quality signals**
 
 - 2317 GitHub stars
-- 671 forks
+- 672 forks
 - updated 2026-11-03
 - primary language: Python
 - 10 topics

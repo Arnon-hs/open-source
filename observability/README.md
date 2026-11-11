@@ -108,7 +108,7 @@
 | 98 | [grigio/network-monitor](./grigio-network-monitor.md) | ⭐ 324 | Rust | 61/100 |
 | 99 | [DataDog/orchestrion](./datadog-orchestrion.md) | ⭐ 625 | Go | 61/100 |
 | 100 | [prometheus-community/windows_exporter](./prometheus-community-windows-exporter.md) | ⭐ 3.7k | Go | 61/100 |
-| 101 | [grafana/docker-otel-lgtm](./grafana-docker-otel-lgtm.md) | ⭐ 2.1k | Shell | 61/100 |
+| 101 | [grafana/docker-otel-lgtm](./grafana-docker-otel-lgtm.md) | ⭐ 2.2k | Shell | 61/100 |
 | 102 | [parca-dev/parca-agent](./parca-dev-parca-agent.md) | ⭐ 750 | Go | 61/100 |
 | 103 | [zeek/zeek](./zeek-zeek.md) | ⭐ 8.2k | C++ | 61/100 |
 | 104 | [ccfos/nightingale](./ccfos-nightingale.md) | ⭐ 13.5k | Go | 61/100 |

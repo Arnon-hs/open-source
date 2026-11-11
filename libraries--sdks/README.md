@@ -89,7 +89,7 @@
 | 79 | [DataDog/dd-trace-rb](./datadog-dd-trace-rb.md) | ⭐ 418 | Ruby | 64/100 |
 | 80 | [TanStack/ai](./tanstack-ai.md) | ⭐ 3.3k | TypeScript | 64/100 |
 | 81 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 8k | Python | 64/100 |
-| 82 | [bytecodealliance/rustix](./bytecodealliance-rustix.md) | ⭐ 2.1k | Rust | 63/100 |
+| 82 | [bytecodealliance/rustix](./bytecodealliance-rustix.md) | ⭐ 2.2k | Rust | 63/100 |
 | 83 | [supabase/supabase-swift](./supabase-supabase-swift.md) | ⭐ 1.3k | Swift | 63/100 |
 | 84 | [apache/hudi-rs](./apache-hudi-rs.md) | ⭐ 282 | Rust | 63/100 |
 | 85 | [cloudevents/sdk-go](./cloudevents-sdk-go.md) | ⭐ 965 | Go | 63/100 |

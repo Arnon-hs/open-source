@@ -64,7 +64,7 @@
 | 54 | [Anil-matcha/Open-AI-UGC](./anil-matcha-open-ai-ugc.md) | ⭐ 423 | JavaScript | 68/100 |
 | 55 | [vllm-project/vllm-omni](./vllm-project-vllm-omni.md) | ⭐ 7.7k | Python | 68/100 |
 | 56 | [ArcReel/ArcReel](./arcreel-arcreel.md) | ⭐ 6.4k | Python | 68/100 |
-| 57 | [Anil-matcha/ai-creator-academy](./anil-matcha-ai-creator-academy.md) | ⭐ 23 | — | 67/100 |
+| 57 | [Anil-matcha/ai-creator-academy](./anil-matcha-ai-creator-academy.md) | ⭐ 24 | — | 67/100 |
 | 58 | [runapi-ai/mcp](./runapi-ai-mcp.md) | ⭐ 56 | TypeScript | 67/100 |
 | 59 | [yaojingang/GEOFlow](./yaojingang-geoflow.md) | ⭐ 4.1k | PHP | 67/100 |
 | 60 | [limecloud/lime](./limecloud-lime.md) | ⭐ 1.5k | Rust | 67/100 |

@@ -64,18 +64,18 @@ BenniAlencar/agent-browser-mesh：BenniAlencar/agent-browser-mesh helps connect 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 43/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 61/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 300/100 |
-| stars | 10/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 10/100 |
 | topics | 63/100 |
+| outlook | 61/100 |
+| quality | 43/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

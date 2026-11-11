@@ -118,7 +118,7 @@
 | 108 | [git-cola/git-cola](./git-cola-git-cola.md) | ⭐ 2.6k | Python | 62/100 |
 | 109 | [sindresorhus/p-queue](./sindresorhus-p-queue.md) | ⭐ 4.3k | TypeScript | 62/100 |
 | 110 | [fluent/fluent-bit](./fluent-fluent-bit.md) | ⭐ 8.2k | C | 62/100 |
-| 111 | [RDFLib/rdflib](./rdflib-rdflib.md) | ⭐ 2.5k | Python | 62/100 |
+| 111 | [RDFLib/rdflib](./rdflib-rdflib.md) | ⭐ 2.6k | Python | 62/100 |
 | 112 | [colour-science/colour](./colour-science-colour.md) | ⭐ 2.7k | Python | 62/100 |
 | 113 | [rucio/rucio](./rucio-rucio.md) | ⭐ 324 | Python | 62/100 |
 | 114 | [MultiQC/MultiQC](./multiqc-multiqc.md) | ⭐ 1.5k | JavaScript | 62/100 |

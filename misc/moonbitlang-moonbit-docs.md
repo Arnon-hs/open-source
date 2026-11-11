@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.5k |
-| 🍴 **Forks** | 109 |
+| 🍴 **Forks** | 110 |
 | 💻 **Language** | MoonBit |
 | 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-09-05 |

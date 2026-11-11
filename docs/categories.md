@@ -20,15 +20,15 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [DevTools](../devtools/README.md) | 1,661 |
 | [Documents](../documents/README.md) | 754 |
 | [Education](../education/README.md) | 34 |
-| [Frontend](../frontend/README.md) | 935 |
+| [Frontend](../frontend/README.md) | 936 |
 | [Games & Graphics](../games--graphics/README.md) | 360 |
 | [Knowledge/RAG](../knowledgerag/README.md) | 651 |
 | [Libraries & SDKs](../libraries--sdks/README.md) | 281 |
 | [Marketing](../marketing/README.md) | 38 |
 | [MCP](../mcp/README.md) | 3,003 |
-| [Misc](../misc/README.md) | 18,189 |
-| [Mobile](../mobile/README.md) | 707 |
-| [Networking](../networking/README.md) | 677 |
+| [Misc](../misc/README.md) | 18,190 |
+| [Mobile](../mobile/README.md) | 708 |
+| [Networking](../networking/README.md) | 678 |
 | [Observability](../observability/README.md) | 327 |
 | [Orchestration](../orchestration/README.md) | 2,498 |
 | [Payments](../payments/README.md) | 393 |
