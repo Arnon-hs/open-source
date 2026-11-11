@@ -283,7 +283,7 @@
 | 273 | [nextcloud/spreed](./nextcloud-spreed.md) | ⭐ 2.2k | JavaScript | 50/100 |
 | 274 | [Expensify/App](./expensify-app.md) | ⭐ 5.1k | TypeScript | 50/100 |
 | 275 | [panda-sandeep/dearagent](./panda-sandeep-dearagent.md) | ⭐ 49 | — | 49/100 |
-| 276 | [adecubed/gigamail](./adecubed-gigamail.md) | ⭐ 18 | — | 49/100 |
+| 276 | [adecubed/gigamail](./adecubed-gigamail.md) | ⭐ 19 | — | 49/100 |
 | 277 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 631 | Kotlin | 49/100 |
 | 278 | [awslabs/mls-rs](./awslabs-mls-rs.md) | ⭐ 262 | Rust | 49/100 |
 | 279 | [freenet/river](./freenet-river.md) | ⭐ 315 | Rust | 49/100 |
@@ -328,7 +328,7 @@
 | 318 | [eyeguide-dev/speakvora-pack-agent](./eyeguide-dev-speakvora-pack-agent.md) | ⭐ — | — | 45/100 |
 | 319 | [cw12574/abralo-workspace](./cw12574-abralo-workspace.md) | ⭐ 6 | — | 45/100 |
 | 320 | [yoavshalev/live-video-chat](./yoavshalev-live-video-chat.md) | ⭐ 4 | — | 45/100 |
-| 321 | [alphasolutionsrepo/interakt](./alphasolutionsrepo-interakt.md) | ⭐ 18 | — | 45/100 |
+| 321 | [alphasolutionsrepo/interakt](./alphasolutionsrepo-interakt.md) | ⭐ 23 | — | 45/100 |
 | 322 | [R44VC0RP/opensend](./r44vc0rp-opensend.md) | ⭐ 170 | — | 45/100 |
 | 323 | [vilaca/cursor-chat-cleaner](./vilaca-cursor-chat-cleaner.md) | ⭐ 3 | — | 45/100 |
 | 324 | [WICG/email-verification](./wicg-email-verification.md) | ⭐ 678 | — | 45/100 |
@@ -428,7 +428,7 @@
 | 418 | [djc/tokio-imap](./djc-tokio-imap.md) | ⭐ 132 | Rust | 41/100 |
 | 419 | [5012763083a-oss/email-list-cleaner](./5012763083a-oss-email-list-cleaner.md) | ⭐ — | JavaScript | 41/100 |
 | 420 | [ssanaullahrais/Chat-Vault](./ssanaullahrais-chat-vault.md) | ⭐ 82 | TypeScript | 40/100 |
-| 421 | [allure-framework/allure3](./allure-framework-allure3.md) | ⭐ 451 | — | 40/100 |
+| 421 | [allure-framework/allure3](./allure-framework-allure3.md) | ⭐ 452 | — | 40/100 |
 | 422 | [sebklaey/openos-momo-ai](./sebklaey-openos-momo-ai.md) | ⭐ — | JavaScript | 39/100 |
 | 423 | [RivierGrullon/mailrules](./riviergrullon-mailrules.md) | ⭐ 1 | TypeScript | 39/100 |
 | 424 | [2db2du-byte/hitchhikers-guide](./2db2du-byte-hitchhikers-guide.md) | ⭐ — | Python | 39/100 |

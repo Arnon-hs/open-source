@@ -209,7 +209,7 @@
 | 199 | [krasserm/agent-exchange](./krasserm-agent-exchange.md) | ⭐ 4 | — | 42/100 |
 | 200 | [PredictionMarketTrader/openthomas](./predictionmarkettrader-openthomas.md) | ⭐ 25 | — | 42/100 |
 | 201 | [bagoldbe/form4lab](./bagoldbe-form4lab.md) | ⭐ 8 | — | 42/100 |
-| 202 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ 51 | — | 42/100 |
+| 202 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ 52 | — | 42/100 |
 | 203 | [AlonDrilich/tld-renewal-prices](./alondrilich-tld-renewal-prices.md) | ⭐ 1 | — | 41/100 |
 | 204 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ 53 | — | 41/100 |
 | 205 | [aybvip/pi-fungibility](./aybvip-pi-fungibility.md) | ⭐ 2 | — | 41/100 |

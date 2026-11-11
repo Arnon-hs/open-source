@@ -611,7 +611,7 @@
 | 601 | [oauth2-proxy/oauth2-proxy](./oauth2-proxy-oauth2-proxy.md) | ⭐ 15.4k | — | 41/100 |
 | 602 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 480 | Bicep | 41/100 |
 | 603 | [suzuki0430/kro-crossplane-eks-idp-lab](./suzuki0430-kro-crossplane-eks-idp-lab.md) | ⭐ — | Shell | 40/100 |
-| 604 | [amananandrai/system-design-explainer](./amananandrai-system-design-explainer.md) | ⭐ 66 | TypeScript | 39/100 |
+| 604 | [amananandrai/system-design-explainer](./amananandrai-system-design-explainer.md) | ⭐ 79 | TypeScript | 39/100 |
 | 605 | [rendyachmad-dev/ark](./rendyachmad-dev-ark.md) | ⭐ 8 | Shell | 39/100 |
 | 606 | [earlgreyhot1701D/madame-minou](./earlgreyhot1701d-madame-minou.md) | ⭐ — | — | 39/100 |
 | 607 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 495 | Rust | 39/100 |

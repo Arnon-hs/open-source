@@ -1,6 +1,6 @@
 # manoharys/paperwall
 
-[![Stars](https://img.shields.io/github/stars/manoharys/paperwall?style=flat-square&color=yellow)](https://github.com/manoharys/paperwall/stargazers) [![Forks](https://img.shields.io/github/forks/manoharys/paperwall?style=flat-square&color=blue)](https://github.com/manoharys/paperwall/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/manoharys/paperwall?style=flat-square&color=yellow)](https://github.com/manoharys/paperwall/stargazers) [![Forks](https://img.shields.io/github/forks/manoharys/paperwall?style=flat-square&color=blue)](https://github.com/manoharys/paperwall/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
 
 > Free, offline, open-source design tool. An alternative to Canva that runs on your device: one HTML file, no account, no upload, no watermark.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2 |
+| ⭐ **Stars** | 13 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -52,7 +52,7 @@ manoharys/paperwall：manoharys/paperwall may be useful when its README and acti
 
 **Quality signals**
 
-- 2 GitHub stars
+- 13 GitHub stars
 - updated 2026-11-08
 - primary language: JavaScript
 - 21 topics
@@ -64,13 +64,13 @@ manoharys/paperwall：manoharys/paperwall may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 54/100 |
+| quality | 58/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 69/100 |
-| adoption | 7/100 |
+| production | 66/100 |
+| outlook | 71/100 |
+| adoption | 18/100 |
 | categoryMatchCount | 200/100 |
-| stars | 10/100 |
+| stars | 24/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |

@@ -449,7 +449,7 @@
 | 439 | [vighnesh-bheed/eski](./vighnesh-bheed-eski.md) | ⭐ 2 | — | 41/100 |
 | 440 | [sidsri14/resilient-ai-worker-kit](./sidsri14-resilient-ai-worker-kit.md) | ⭐ — | — | 41/100 |
 | 441 | [ndrean/ZeBridge](./ndrean-zebridge.md) | ⭐ 42 | — | 41/100 |
-| 442 | [4yk5/GhostBase](./4yk5-ghostbase.md) | ⭐ 6 | — | 41/100 |
+| 442 | [4yk5/GhostBase](./4yk5-ghostbase.md) | ⭐ 7 | — | 41/100 |
 | 443 | [srdzank/WinSQLite-Editor](./srdzank-winsqlite-editor.md) | ⭐ 23 | — | 41/100 |
 | 444 | [Dem1241/slotwatch](./dem1241-slotwatch.md) | ⭐ 5 | — | 41/100 |
 | 445 | [tooltechgeek/nodb_table](./tooltechgeek-nodb-table.md) | ⭐ 3 | — | 41/100 |
@@ -480,7 +480,7 @@
 | 470 | [x7ssss/ddlforge](./x7ssss-ddlforge.md) | ⭐ 1 | — | 41/100 |
 | 471 | [raptodb/rapto](./raptodb-rapto.md) | ⭐ 39 | — | 41/100 |
 | 472 | [sqliteai/sqlite-vector](./sqliteai-sqlite-vector.md) | ⭐ 1.2k | — | 41/100 |
-| 473 | [agenticfabriq/mnemiq](./agenticfabriq-mnemiq.md) | ⭐ 79 | — | 41/100 |
+| 473 | [agenticfabriq/mnemiq](./agenticfabriq-mnemiq.md) | ⭐ 81 | — | 41/100 |
 | 474 | [greenstevester/postgres-schema-gallery](./greenstevester-postgres-schema-gallery.md) | ⭐ 1 | — | 41/100 |
 | 475 | [mchl-labs/chronovec](./mchl-labs-chronovec.md) | ⭐ 2 | — | 41/100 |
 | 476 | [tamnd/rucc](./tamnd-rucc.md) | ⭐ — | — | 41/100 |
@@ -568,8 +568,8 @@
 | 558 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 559 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 560 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 561 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
-| 562 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
+| 561 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
+| 562 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
 | 563 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 564 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 565 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |

@@ -266,7 +266,7 @@
 | 256 | [railspulse-org/rails_pulse](./railspulse-org-rails-pulse.md) | ⭐ — | — | 42/100 |
 | 257 | [issacnitin/SshSessionMonitor](./issacnitin-sshsessionmonitor.md) | ⭐ 5 | — | 42/100 |
 | 258 | [fireinbelly/biomass-conversion-index-monitoring-system](./fireinbelly-biomass-conversion-index-monitoring-system.md) | ⭐ 5 | — | 42/100 |
-| 259 | [alexander-akhmetov/grafana-agento11y-hermes](./alexander-akhmetov-grafana-agento11y-hermes.md) | ⭐ 49 | — | 42/100 |
+| 259 | [alexander-akhmetov/grafana-agento11y-hermes](./alexander-akhmetov-grafana-agento11y-hermes.md) | ⭐ 50 | — | 42/100 |
 | 260 | [coroot/rca-lab](./coroot-rca-lab.md) | ⭐ 38 | — | 42/100 |
 | 261 | [Tboworst/beacon](./tboworst-beacon.md) | ⭐ 3 | — | 42/100 |
 | 262 | [SmolNero/quack](./smolnero-quack.md) | ⭐ 2 | — | 42/100 |

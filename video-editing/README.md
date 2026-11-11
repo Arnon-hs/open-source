@@ -546,7 +546,7 @@
 | 536 | [haasn/libplacebo](./haasn-libplacebo.md) | ⭐ 810 | C | 50/100 |
 | 537 | [ffplayout/ffplayout](./ffplayout-ffplayout.md) | ⭐ 600 | Rust | 50/100 |
 | 538 | [vaughnn/burned-in-subtitle-removal-benchmark](./vaughnn-burned-in-subtitle-removal-benchmark.md) | ⭐ — | — | 49/100 |
-| 539 | [adalbertobrant/animagit](./adalbertobrant-animagit.md) | ⭐ 2 | — | 49/100 |
+| 539 | [adalbertobrant/animagit](./adalbertobrant-animagit.md) | ⭐ 3 | — | 49/100 |
 | 540 | [remotion-dev/github-unwrapped-2023](./remotion-dev-github-unwrapped-2023.md) | ⭐ — | — | 49/100 |
 | 541 | [PunithVT/ai-avatar-system](./punithvt-ai-avatar-system.md) | ⭐ 574 | Python | 49/100 |
 | 542 | [1Step621/zerium](./1step621-zerium.md) | ⭐ 66 | Rust | 49/100 |
@@ -559,8 +559,8 @@
 | 549 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 11 | — | 48/100 |
 | 550 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 551 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 3 | Python | 48/100 |
-| 552 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
-| 553 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 552 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 553 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
 | 554 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 555 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 32 | — | 48/100 |
 | 556 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ 21 | — | 48/100 |
@@ -614,7 +614,7 @@
 | 604 | [effessdev/GiffyPy](./effessdev-giffypy.md) | ⭐ 5 | Python | 41/100 |
 | 605 | [ranahaani/i-hate-editing](./ranahaani-i-hate-editing.md) | ⭐ 103 | — | 41/100 |
 | 606 | [soirihiroka/shrimply](./soirihiroka-shrimply.md) | ⭐ 1.2k | — | 41/100 |
-| 607 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ 521 | — | 41/100 |
+| 607 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ 524 | — | 41/100 |
 | 608 | [Vanilagy/turbores](./vanilagy-turbores.md) | ⭐ 213 | — | 41/100 |
 | 609 | [lethanhvietctt5/lightshot](./lethanhvietctt5-lightshot.md) | ⭐ 1 | Swift | 40/100 |
 | 610 | [krgpi/fennec](./krgpi-fennec.md) | ⭐ 1 | Rust | 40/100 |
