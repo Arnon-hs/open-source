@@ -1,6 +1,6 @@
 # HLIntel/headron
 
-[![Stars](https://img.shields.io/github/stars/HLIntel/headron?style=flat-square&color=yellow)](https://github.com/HLIntel/headron/stargazers) [![Forks](https://img.shields.io/github/forks/HLIntel/headron?style=flat-square&color=blue)](https://github.com/HLIntel/headron/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/HLIntel/headron?style=flat-square&color=yellow)](https://github.com/HLIntel/headron/stargazers) [![Forks](https://img.shields.io/github/forks/HLIntel/headron?style=flat-square&color=blue)](https://github.com/HLIntel/headron/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > The verification layer for AI coding agents. Headron computes what proof each change owes, holds the landing until receipts exist, and keeps the evidence. Any agent, any model, any chat. CLI, MCP, CI.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 4 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 71/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,8 @@ HLIntel/headron：HLIntel/headron helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 3 GitHub stars
+- 4 GitHub stars
+- 1 forks
 - updated 2026-11-10
 - primary language: Python
 - 20 topics
@@ -65,14 +66,14 @@ HLIntel/headron：HLIntel/headron helps connect AI assistants to real tools and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 56/100 |
 | integration | 78/100 |
 | production | 69/100 |
-| outlook | 74/100 |
-| adoption | 9/100 |
+| outlook | 75/100 |
+| adoption | 13/100 |
 | categoryMatchCount | 500/100 |
-| stars | 13/100 |
-| forks | 0/100 |
+| stars | 15/100 |
+| forks | 8/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

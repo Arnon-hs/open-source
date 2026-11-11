@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 337 |
+| 🍴 **Forks** | 336 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-06 |
@@ -53,8 +53,8 @@ adrienverge/yamllint：adrienverge/yamllint helps add AI capability without star
 
 **Quality signals**
 
-- 3489 GitHub stars
-- 337 forks
+- 3490 GitHub stars
+- 336 forks
 - updated 2026-11-06
 - primary language: Python
 - 11 topics

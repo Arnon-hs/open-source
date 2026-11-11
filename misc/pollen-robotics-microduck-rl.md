@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.9k |
-| 🍴 **Forks** | 694 |
+| 🍴 **Forks** | 698 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-11-09 |
@@ -51,8 +51,8 @@ pollen-robotics/microduck_rl：pollen-robotics/microduck_rl may be useful when i
 
 **Quality signals**
 
-- 2858 GitHub stars
-- 694 forks
+- 2870 GitHub stars
+- 698 forks
 - updated 2026-11-09
 - primary language: Python
 - 5 topics

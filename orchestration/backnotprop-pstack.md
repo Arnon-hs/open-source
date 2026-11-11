@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 3.9k |
-| 🍴 **Forks** | 268 |
+| 🍴 **Forks** | 293 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-11-04 |
@@ -53,8 +53,8 @@ backnotprop/pstack：backnotprop/pstack helps turn isolated prompts and tools in
 
 **Quality signals**
 
-- 3891 GitHub stars
-- 268 forks
+- 3935 GitHub stars
+- 293 forks
 - updated 2026-11-04
 - primary language: TypeScript
 - 18 topics
@@ -72,8 +72,8 @@ backnotprop/pstack：backnotprop/pstack helps turn isolated prompts and tools in
 | outlook | 78/100 |
 | adoption | 72/100 |
 | categoryMatchCount | 300/100 |
-| stars | 76/100 |
-| forks | 61/100 |
+| stars | 77/100 |
+| forks | 62/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

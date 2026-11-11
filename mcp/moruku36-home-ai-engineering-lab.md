@@ -1,6 +1,6 @@
 # moruku36/home-ai-engineering-lab
 
-[![Stars](https://img.shields.io/github/stars/moruku36/home-ai-engineering-lab?style=flat-square&color=yellow)](https://github.com/moruku36/home-ai-engineering-lab/stargazers) [![Forks](https://img.shields.io/github/forks/moruku36/home-ai-engineering-lab?style=flat-square&color=blue)](https://github.com/moruku36/home-ai-engineering-lab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/moruku36/home-ai-engineering-lab?style=flat-square&color=yellow)](https://github.com/moruku36/home-ai-engineering-lab/stargazers) [![Forks](https://img.shields.io/github/forks/moruku36/home-ai-engineering-lab?style=flat-square&color=blue)](https://github.com/moruku36/home-ai-engineering-lab/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Home AI engineering lab: an always-on, LAN-only control plane on an Intel NUC (Docker Compose) — n8n automations, Open WebUI for cloud LLMs, a read-only MCP server, Uptime Kuma monitoring and encrypted backups. Docs in English + 日本語.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ moruku36/home-ai-engineering-lab：moruku36/home-ai-engineering-lab helps connec
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 94/100 |
-| production | 70/100 |
-| outlook | 72/100 |
+| production | 63/100 |
+| outlook | 65/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 500/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
