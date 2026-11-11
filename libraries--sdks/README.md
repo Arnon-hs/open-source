@@ -210,7 +210,7 @@
 | 200 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.4k | Rust | 53/100 |
 | 201 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.5k | Kotlin | 53/100 |
 | 202 | [snowtech738-byte/auria-chain](./snowtech738-byte-auria-chain.md) | ⭐ 1 | — | 52/100 |
-| 203 | [meta-models/muse-code-sdk](./meta-models-muse-code-sdk.md) | ⭐ 86 | TypeScript | 52/100 |
+| 203 | [meta-models/muse-code-sdk](./meta-models-muse-code-sdk.md) | ⭐ 87 | TypeScript | 52/100 |
 | 204 | [stepfunc/rodbus](./stepfunc-rodbus.md) | ⭐ 111 | Rust | 52/100 |
 | 205 | [apache/datasketches-rust](./apache-datasketches-rust.md) | ⭐ 142 | Rust | 52/100 |
 | 206 | [tensorflow/java](./tensorflow-java.md) | ⭐ 926 | Java | 52/100 |

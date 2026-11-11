@@ -1,6 +1,6 @@
 # inuh22/Sync-SL
 
-[![Stars](https://img.shields.io/github/stars/inuh22/Sync-SL?style=flat-square&color=yellow)](https://github.com/inuh22/Sync-SL/stargazers) [![Forks](https://img.shields.io/github/forks/inuh22/Sync-SL?style=flat-square&color=blue)](https://github.com/inuh22/Sync-SL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/inuh22/Sync-SL?style=flat-square&color=yellow)](https://github.com/inuh22/Sync-SL/stargazers) [![Forks](https://img.shields.io/github/forks/inuh22/Sync-SL?style=flat-square&color=blue)](https://github.com/inuh22/Sync-SL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > A Python CLI tool for centrally syncing SSL/TLS certificates from remote Linux servers to a reverse proxy over SSH/SFTP.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ inuh22/Sync-SL：inuh22/Sync-SL helps remove repetitive manual operations from a
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 43/100 |
+| quality | 38/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 62/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

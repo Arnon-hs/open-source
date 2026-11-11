@@ -407,7 +407,7 @@
 | 397 | [philippprimisser-max/ted-tender-alerts](./philippprimisser-max-ted-tender-alerts.md) | ⭐ — | Python | 52/100 |
 | 398 | [krotname/NppMarkdownTableEditor](./krotname-nppmarkdowntableeditor.md) | ⭐ 8 | C++ | 52/100 |
 | 399 | [cjccjj/mdflow](./cjccjj-mdflow.md) | ⭐ 20 | — | 52/100 |
-| 400 | [JeffSteinbok/reMarkableSync](./jeffsteinbok-remarkablesync.md) | ⭐ 60 | Python | 52/100 |
+| 400 | [JeffSteinbok/reMarkableSync](./jeffsteinbok-remarkablesync.md) | ⭐ 61 | Python | 52/100 |
 | 401 | [opendocument-app/OpenDocument.droid](./opendocument-app-opendocument.droid.md) | ⭐ 496 | HTML | 52/100 |
 | 402 | [kodama-community/kodama](./kodama-community-kodama.md) | ⭐ 228 | Rust | 52/100 |
 | 403 | [wdcpclover/ai4paper](./wdcpclover-ai4paper.md) | ⭐ 4.7k | HTML | 52/100 |
@@ -698,8 +698,8 @@
 | 688 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |
 | 689 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ 12 | — | 38/100 |
 | 690 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ 36 | — | 38/100 |
-| 691 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
-| 692 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 691 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 692 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
 | 693 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 120 | — | 38/100 |
 | 694 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 262 | — | 38/100 |
 | 695 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ 24 | — | 38/100 |

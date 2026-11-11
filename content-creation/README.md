@@ -18,7 +18,7 @@
 | 8 | [AuraVixStudio/caelo](./auravixstudio-caelo.md) | ⭐ 26 | Python | 79/100 |
 | 9 | [modelstudioai/cli](./modelstudioai-cli.md) | ⭐ 370 | TypeScript | 79/100 |
 | 10 | [neopen/story-shot-agent](./neopen-story-shot-agent.md) | ⭐ 238 | Python | 78/100 |
-| 11 | [ffroliva/gflow-cli](./ffroliva-gflow-cli.md) | ⭐ 377 | Python | 78/100 |
+| 11 | [ffroliva/gflow-cli](./ffroliva-gflow-cli.md) | ⭐ 380 | Python | 78/100 |
 | 12 | [HBAI-Ltd/Toonflow-app](./hbai-ltd-toonflow-app.md) | ⭐ 21.4k | HTML | 78/100 |
 | 13 | [SlavaSexton/ComfyUI-Agent-Kit](./slavasexton-comfyui-agent-kit.md) | ⭐ 120 | Python | 77/100 |
 | 14 | [gokayfem/ComfyUI-fal-API](./gokayfem-comfyui-fal-api.md) | ⭐ 227 | Python | 76/100 |
@@ -53,7 +53,7 @@
 | 43 | [waooAI/waoowaoo](./waooai-waoowaoo.md) | ⭐ 14.8k | TypeScript | 70/100 |
 | 44 | [zJay26/douyin-skills](./zjay26-douyin-skills.md) | ⭐ 61 | Python | 69/100 |
 | 45 | [vargHQ/sdk](./varghq-sdk.md) | ⭐ 343 | TypeScript | 69/100 |
-| 46 | [social-media-skills/skills](./social-media-skills-skills.md) | ⭐ 286 | Shell | 69/100 |
+| 46 | [social-media-skills/skills](./social-media-skills-skills.md) | ⭐ 295 | Shell | 69/100 |
 | 47 | [phpList/phplist3](./phplist-phplist3.md) | ⭐ 883 | PHP | 69/100 |
 | 48 | [zth0828/mmx-mcp-server](./zth0828-mmx-mcp-server.md) | ⭐ 30 | JavaScript | 69/100 |
 | 49 | [stabgan/openrouter-mcp-multimodal](./stabgan-openrouter-mcp-multimodal.md) | ⭐ 102 | TypeScript | 69/100 |

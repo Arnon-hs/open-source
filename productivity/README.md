@@ -125,7 +125,7 @@
 | 115 | [noahbclarkson/rgitui](./noahbclarkson-rgitui.md) | ⭐ 278 | Rust | 60/100 |
 | 116 | [elvisun/newsjack](./elvisun-newsjack.md) | ⭐ 1.7k | Go | 60/100 |
 | 117 | [mudkipme/MoeMemos](./mudkipme-moememos.md) | ⭐ 921 | Swift | 60/100 |
-| 118 | [sathish316/opus_agents](./sathish316-opus-agents.md) | ⭐ 34 | Python | 60/100 |
+| 118 | [sathish316/opus_agents](./sathish316-opus-agents.md) | ⭐ 35 | Python | 60/100 |
 | 119 | [swiftbar/SwiftBar](./swiftbar-swiftbar.md) | ⭐ 4.8k | Swift | 60/100 |
 | 120 | [Gimanh/taskview-community](./gimanh-taskview-community.md) | ⭐ 1.4k | TypeScript | 60/100 |
 | 121 | [oxdc/obsidian-vertical-tabs](./oxdc-obsidian-vertical-tabs.md) | ⭐ 640 | TypeScript | 60/100 |
@@ -312,8 +312,8 @@
 | 302 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 303 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 304 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 305 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
-| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
 | 307 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 308 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 309 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |

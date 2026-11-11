@@ -71,10 +71,10 @@
 | 61 | [joematthews/extreme-angular](./joematthews-extreme-angular.md) | ⭐ 190 | HTML | 78/100 |
 | 62 | [minipuft/claude-prompts](./minipuft-claude-prompts.md) | ⭐ 148 | TypeScript | 78/100 |
 | 63 | [denizgursoy/gotouch](./denizgursoy-gotouch.md) | ⭐ 142 | Go | 78/100 |
-| 64 | [open-agreements/open-agreements](./open-agreements-open-agreements.md) | ⭐ 62 | TypeScript | 78/100 |
+| 64 | [open-agreements/open-agreements](./open-agreements-open-agreements.md) | ⭐ 63 | TypeScript | 78/100 |
 | 65 | [hairyhenderson/gomplate](./hairyhenderson-gomplate.md) | ⭐ 3.2k | Go | 78/100 |
 | 66 | [study8677/antigravity-workspace-template](./study8677-antigravity-workspace-template.md) | ⭐ 1.2k | Python | 78/100 |
-| 67 | [get-nathan/nathan](./get-nathan-nathan.md) | ⭐ 28 | TypeScript | 77/100 |
+| 67 | [get-nathan/nathan](./get-nathan-nathan.md) | ⭐ 29 | TypeScript | 77/100 |
 | 68 | [RyanJHamby/stock-screener](./ryanjhamby-stock-screener.md) | ⭐ 73 | Python | 77/100 |
 | 69 | [TserenTserenov/FMT-exocortex-template](./tserentserenov-fmt-exocortex-template.md) | ⭐ 64 | Shell | 77/100 |
 | 70 | [systempromptio/systemprompt-template](./systempromptio-systemprompt-template.md) | ⭐ 29 | Rust | 77/100 |
@@ -108,7 +108,7 @@
 | 98 | [DarkWorldCoder/arguseye](./darkworldcoder-arguseye.md) | ⭐ 7 | TypeScript | 74/100 |
 | 99 | [elementalsouls/Claude-OSINT](./elementalsouls-claude-osint.md) | ⭐ 3k | Python | 74/100 |
 | 100 | [devtodollars/mvp-boilerplate](./devtodollars-mvp-boilerplate.md) | ⭐ 996 | TypeScript | 74/100 |
-| 101 | [reichenbach/iwork_mcp](./reichenbach-iwork-mcp.md) | ⭐ 43 | TypeScript | 74/100 |
+| 101 | [reichenbach/iwork_mcp](./reichenbach-iwork-mcp.md) | ⭐ 44 | TypeScript | 74/100 |
 | 102 | [Angular-RU/angular-ru-interview-questions](./angular-ru-angular-ru-interview-questions.md) | ⭐ 397 | HTML | 74/100 |
 | 103 | [study8677/awesome-architecture](./study8677-awesome-architecture.md) | ⭐ 2.5k | Vue | 74/100 |
 | 104 | [MervinPraison/PraisonAI](./mervinpraison-praisonai.md) | ⭐ 9.3k | Python | 74/100 |
@@ -116,7 +116,7 @@
 | 106 | [nasirkhan/laravel-starter](./nasirkhan-laravel-starter.md) | ⭐ 1.4k | PHP | 73/100 |
 | 107 | [coreui/coreui-free-react-admin-template](./coreui-coreui-free-react-admin-template.md) | ⭐ 5k | JavaScript | 73/100 |
 | 108 | [IronTony/voltrn-cli](./irontony-voltrn-cli.md) | ⭐ 481 | JavaScript | 73/100 |
-| 109 | [northflank/skills](./northflank-skills.md) | ⭐ 39 | JavaScript | 73/100 |
+| 109 | [northflank/skills](./northflank-skills.md) | ⭐ 40 | JavaScript | 73/100 |
 | 110 | [kinngh/shopify-nextjs-prisma-app](./kinngh-shopify-nextjs-prisma-app.md) | ⭐ 515 | JavaScript | 73/100 |
 | 111 | [aws/serverless-application-model](./aws-serverless-application-model.md) | ⭐ 9.6k | Python | 73/100 |
 | 112 | [turnerlabs/fargate-create](./turnerlabs-fargate-create.md) | ⭐ 105 | Go | 73/100 |
@@ -289,7 +289,7 @@
 | 279 | [nickvasilescu/nicks-stack](./nickvasilescu-nicks-stack.md) | ⭐ 149 | Python | 64/100 |
 | 280 | [runpod-workers/worker-vllm](./runpod-workers-worker-vllm.md) | ⭐ 474 | Python | 64/100 |
 | 281 | [taiga-family/polymorpheus](./taiga-family-polymorpheus.md) | ⭐ 429 | TypeScript | 64/100 |
-| 282 | [SlideSpeak/presentation-design-prompts](./slidespeak-presentation-design-prompts.md) | ⭐ 208 | — | 64/100 |
+| 282 | [SlideSpeak/presentation-design-prompts](./slidespeak-presentation-design-prompts.md) | ⭐ 211 | — | 64/100 |
 | 283 | [dotnet-presentations/ai-workshop](./dotnet-presentations-ai-workshop.md) | ⭐ 62 | JavaScript | 64/100 |
 | 284 | [lincolnloop/django-layout](./lincolnloop-django-layout.md) | ⭐ 332 | Python | 64/100 |
 | 285 | [ntorga/agent-starter-kit](./ntorga-agent-starter-kit.md) | ⭐ 148 | Shell | 64/100 |
@@ -298,7 +298,7 @@
 | 288 | [stan-dev/math](./stan-dev-math.md) | ⭐ 846 | C++ | 64/100 |
 | 289 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 55 | Shell | 64/100 |
 | 290 | [emretasss/AI-Workflow-Hub-2000-](./emretasss-ai-workflow-hub-2000-.md) | ⭐ 322 | — | 64/100 |
-| 291 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 48 | Go | 63/100 |
+| 291 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 49 | Go | 63/100 |
 | 292 | [SurgePix/ai-ppt-prompts](./surgepix-ai-ppt-prompts.md) | ⭐ 14 | JavaScript | 63/100 |
 | 293 | [assassinationss/awesome-china-sourcing](./assassinationss-awesome-china-sourcing.md) | ⭐ — | — | 63/100 |
 | 294 | [bullet-train-co/bullet_train](./bullet-train-co-bullet-train.md) | ⭐ 1.9k | Ruby | 63/100 |
