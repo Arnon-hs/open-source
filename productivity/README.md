@@ -11,7 +11,7 @@
 | 1 | [ohmyzsh/ohmyzsh](./ohmyzsh-ohmyzsh.md) | ⭐ 190.4k | Shell | 82/100 |
 | 2 | [javinizer/javinizer-go](./javinizer-javinizer-go.md) | ⭐ 106 | Go | 78/100 |
 | 3 | [muety/wakapi](./muety-wakapi.md) | ⭐ 4.5k | Go | 78/100 |
-| 4 | [Priyanshu-byte-coder/devtrack](./priyanshu-byte-coder-devtrack.md) | ⭐ 297 | TypeScript | 77/100 |
+| 4 | [Priyanshu-byte-coder/devtrack](./priyanshu-byte-coder-devtrack.md) | ⭐ 301 | TypeScript | 77/100 |
 | 5 | [Umbrella-io/devtrack](./umbrella-io-devtrack.md) | ⭐ 141 | TypeScript | 77/100 |
 | 6 | [tach-org/tach](./tach-org-tach.md) | ⭐ 2.9k | Rust | 77/100 |
 | 7 | [tiddly-gittly/TidGi-Desktop](./tiddly-gittly-tidgi-desktop.md) | ⭐ 2k | TypeScript | 76/100 |
@@ -276,7 +276,7 @@
 | 266 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 48/100 |
 | 267 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 2.4k | Java | 48/100 |
 | 268 | [omikuji-launcher/omikuji](./omikuji-launcher-omikuji.md) | ⭐ 239 | Rust | 47/100 |
-| 269 | [music-assistant/desktop-app](./music-assistant-desktop-app.md) | ⭐ 241 | Rust | 47/100 |
+| 269 | [music-assistant/desktop-app](./music-assistant-desktop-app.md) | ⭐ 243 | Rust | 47/100 |
 | 270 | [kunkka19xx/look](./kunkka19xx-look.md) | ⭐ 1.3k | Swift | 47/100 |
 | 271 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 633 | PHP | 47/100 |
 | 272 | [larastan/larastan](./larastan-larastan.md) | ⭐ 6.5k | PHP | 46/100 |
@@ -284,7 +284,7 @@
 | 274 | [lovestaco/ratatop](./lovestaco-ratatop.md) | ⭐ 2 | — | 46/100 |
 | 275 | [google/clasp](./google-clasp.md) | ⭐ 5.9k | — | 46/100 |
 | 276 | [bmorcelli/Launcher](./bmorcelli-launcher.md) | ⭐ 2.3k | C++ | 46/100 |
-| 277 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 440 | Rust | 46/100 |
+| 277 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 444 | Rust | 46/100 |
 | 278 | [eval-exec/neomacs](./eval-exec-neomacs.md) | ⭐ 1.8k | Emacs Lisp | 46/100 |
 | 279 | [KewinDousse/natel](./kewindousse-natel.md) | ⭐ 10 | — | 45/100 |
 | 280 | [snehaldutta/Dhwani](./snehaldutta-dhwani.md) | ⭐ — | — | 45/100 |
@@ -312,8 +312,8 @@
 | 302 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 303 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 304 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 305 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
-| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
 | 307 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 308 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 309 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |

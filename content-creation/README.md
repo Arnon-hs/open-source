@@ -37,14 +37,14 @@
 | 27 | [claude-world/claude-world-studio](./claude-world-claude-world-studio.md) | ⭐ 71 | TypeScript | 73/100 |
 | 28 | [EvoLinkAI/awesome-seedance-2.5-guide](./evolinkai-awesome-seedance-2.5-guide.md) | ⭐ 392 | Shell | 73/100 |
 | 29 | [aiworkskills/wechat-article-skills](./aiworkskills-wechat-article-skills.md) | ⭐ 737 | Python | 72/100 |
-| 30 | [smixs/visual-skills](./smixs-visual-skills.md) | ⭐ 645 | — | 72/100 |
+| 30 | [smixs/visual-skills](./smixs-visual-skills.md) | ⭐ 650 | — | 72/100 |
 | 31 | [Haervwe/open-webui-tools](./haervwe-open-webui-tools.md) | ⭐ 838 | Python | 72/100 |
 | 32 | [ddalcu/mlx-serve](./ddalcu-mlx-serve.md) | ⭐ 2.4k | Zig | 72/100 |
 | 33 | [Notifuse/notifuse](./notifuse-notifuse.md) | ⭐ 2.3k | Go | 72/100 |
 | 34 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 366 | Python | 71/100 |
 | 35 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 24 | — | 71/100 |
 | 36 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 898 | Python | 71/100 |
-| 37 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 312 | Python | 71/100 |
+| 37 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 315 | Python | 71/100 |
 | 38 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 3.7k | TypeScript | 71/100 |
 | 39 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
 | 40 | [cporter202/awesome-ai-tools](./cporter202-awesome-ai-tools.md) | ⭐ 326 | — | 70/100 |
@@ -61,7 +61,7 @@
 | 51 | [utensils/mold](./utensils-mold.md) | ⭐ 57 | Rust | 68/100 |
 | 52 | [Kuhakucai/douyin-mcp](./kuhakucai-douyin-mcp.md) | ⭐ 90 | Python | 68/100 |
 | 53 | [backblaze-labs/genblaze](./backblaze-labs-genblaze.md) | ⭐ 549 | Python | 68/100 |
-| 54 | [Anil-matcha/Open-AI-UGC](./anil-matcha-open-ai-ugc.md) | ⭐ 423 | JavaScript | 68/100 |
+| 54 | [Anil-matcha/Open-AI-UGC](./anil-matcha-open-ai-ugc.md) | ⭐ 427 | JavaScript | 68/100 |
 | 55 | [vllm-project/vllm-omni](./vllm-project-vllm-omni.md) | ⭐ 7.7k | Python | 68/100 |
 | 56 | [ArcReel/ArcReel](./arcreel-arcreel.md) | ⭐ 6.4k | Python | 68/100 |
 | 57 | [Anil-matcha/ai-creator-academy](./anil-matcha-ai-creator-academy.md) | ⭐ 24 | — | 67/100 |
@@ -100,7 +100,7 @@
 | 90 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 204 | — | 60/100 |
 | 91 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 157 | Vue | 60/100 |
 | 92 | [WaveSpeedAI/mcp-server](./wavespeedai-mcp-server.md) | ⭐ 36 | TypeScript | 59/100 |
-| 93 | [rolfie-han/YoLuster-shorts](./rolfie-han-yoluster-shorts.md) | ⭐ 295 | HTML | 59/100 |
+| 93 | [rolfie-han/YoLuster-shorts](./rolfie-han-yoluster-shorts.md) | ⭐ 296 | HTML | 59/100 |
 | 94 | [zxhwolfe-dev/aiworkstation-topic-intelligence](./zxhwolfe-dev-aiworkstation-topic-intelligence.md) | ⭐ 2 | Python | 58/100 |
 | 95 | [kostas2370/Video-Creator](./kostas2370-video-creator.md) | ⭐ 28 | Python | 58/100 |
 | 96 | [Mrkomiljon/awesome-generative-ai](./mrkomiljon-awesome-generative-ai.md) | ⭐ 41 | Python | 58/100 |

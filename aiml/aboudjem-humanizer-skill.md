@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 305 |
+| ⭐ **Stars** | 306 |
 | 🍴 **Forks** | 43 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 60/100 |

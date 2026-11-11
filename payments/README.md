@@ -105,7 +105,7 @@
 | 95 | [stripe/stripe-mock](./stripe-stripe-mock.md) | ⭐ 1.7k | Go | 63/100 |
 | 96 | [aelassas/bookcars](./aelassas-bookcars.md) | ⭐ 642 | TypeScript | 63/100 |
 | 97 | [RicardoGEsteves/next-digital-marketplace](./ricardogesteves-next-digital-marketplace.md) | ⭐ 94 | TypeScript | 63/100 |
-| 98 | [stripe/stripe-connect-furever-demo](./stripe-stripe-connect-furever-demo.md) | ⭐ 148 | TypeScript | 63/100 |
+| 98 | [stripe/stripe-connect-furever-demo](./stripe-stripe-connect-furever-demo.md) | ⭐ 147 | TypeScript | 63/100 |
 | 99 | [adaptyteam/AdaptySDK-iOS](./adaptyteam-adaptysdk-ios.md) | ⭐ 494 | Swift | 63/100 |
 | 100 | [beam-community/stripity-stripe](./beam-community-stripity-stripe.md) | ⭐ 1.1k | Elixir | 63/100 |
 | 101 | [dtzp555-max/ocp](./dtzp555-max-ocp.md) | ⭐ 138 | JavaScript | 63/100 |
@@ -285,8 +285,8 @@
 | 275 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 276 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 181 | HTML | 50/100 |
-| 278 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
-| 279 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 278 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 279 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 280 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 281 | [FetchDoge/permit](./fetchdoge-permit.md) | ⭐ — | Python | 49/100 |
 | 282 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 49/100 |
@@ -323,7 +323,7 @@
 | 313 | [Surge77/proofcheck](./surge77-proofcheck.md) | ⭐ — | Python | 46/100 |
 | 314 | [alexjvv52-ops/groundtruth-app](./alexjvv52-ops-groundtruth-app.md) | ⭐ 1 | Rust | 46/100 |
 | 315 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 86 | Go | 46/100 |
-| 316 | [wevm/mppx](./wevm-mppx.md) | ⭐ 189 | TypeScript | 46/100 |
+| 316 | [wevm/mppx](./wevm-mppx.md) | ⭐ 190 | TypeScript | 46/100 |
 | 317 | [elementary/appcenter](./elementary-appcenter.md) | ⭐ 556 | Vala | 46/100 |
 | 318 | [gethardcount/hardcount](./gethardcount-hardcount.md) | ⭐ 8 | — | 45/100 |
 | 319 | [livastic-vm2-primary-20260911/workflow-risk-usdc-studio](./livastic-vm2-primary-20260911-workflow-risk-usdc-studio.md) | ⭐ — | JavaScript | 45/100 |

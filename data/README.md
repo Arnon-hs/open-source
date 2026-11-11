@@ -122,7 +122,7 @@
 | 112 | [rucio/rucio](./rucio-rucio.md) | ⭐ 325 | Python | 62/100 |
 | 113 | [MultiQC/MultiQC](./multiqc-multiqc.md) | ⭐ 1.5k | JavaScript | 62/100 |
 | 114 | [cqframework/clinical_quality_language](./cqframework-clinical-quality-language.md) | ⭐ 339 | Kotlin | 62/100 |
-| 115 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 143 | Go | 61/100 |
+| 115 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 144 | Go | 61/100 |
 | 116 | [graphene-data/graphene](./graphene-data-graphene.md) | ⭐ 218 | TypeScript | 61/100 |
 | 117 | [gloom-sh/gloomberb](./gloom-sh-gloomberb.md) | ⭐ 2.7k | TypeScript | 61/100 |
 | 118 | [taleshape-com/shaper](./taleshape-com-shaper.md) | ⭐ 1.3k | Go | 61/100 |
@@ -270,7 +270,7 @@
 | 260 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 713 | Rust | 54/100 |
 | 261 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 830 | JavaScript | 54/100 |
 | 262 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 575 | HTML | 54/100 |
-| 263 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 153 | Rust | 54/100 |
+| 263 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 154 | Rust | 54/100 |
 | 264 | [beava-dev/beava](./beava-dev-beava.md) | ⭐ 139 | Rust | 54/100 |
 | 265 | [rpbouman/huey](./rpbouman-huey.md) | ⭐ 635 | JavaScript | 54/100 |
 | 266 | [MAZHARMIK/Interview_DS_Algo](./mazharmik-interview-ds-algo.md) | ⭐ 5.3k | C++ | 54/100 |

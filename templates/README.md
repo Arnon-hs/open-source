@@ -78,7 +78,7 @@
 | 68 | [RyanJHamby/stock-screener](./ryanjhamby-stock-screener.md) | ⭐ 73 | Python | 77/100 |
 | 69 | [TserenTserenov/FMT-exocortex-template](./tserentserenov-fmt-exocortex-template.md) | ⭐ 63 | Shell | 77/100 |
 | 70 | [systempromptio/systemprompt-template](./systempromptio-systemprompt-template.md) | ⭐ 29 | Rust | 77/100 |
-| 71 | [mathematic-inc/earl](./mathematic-inc-earl.md) | ⭐ 113 | Rust | 77/100 |
+| 71 | [mathematic-inc/earl](./mathematic-inc-earl.md) | ⭐ 114 | Rust | 77/100 |
 | 72 | [tabler/tabler](./tabler-tabler.md) | ⭐ 42k | Astro | 77/100 |
 | 73 | [raintree-technology/agent-starter](./raintree-technology-agent-starter.md) | ⭐ 84 | JavaScript | 77/100 |
 | 74 | [bitwize-music-studio/claude-ai-music-skills](./bitwize-music-studio-claude-ai-music-skills.md) | ⭐ 655 | Python | 77/100 |
@@ -148,7 +148,7 @@
 | 138 | [wp-cli/scaffold-command](./wp-cli-scaffold-command.md) | ⭐ 173 | Gherkin | 72/100 |
 | 139 | [iPythoning/b2b-sdr-agent-template](./ipythoning-b2b-sdr-agent-template.md) | ⭐ 91 | Shell | 72/100 |
 | 140 | [fitlab-ai/agent-infra](./fitlab-ai-agent-infra.md) | ⭐ 87 | JavaScript | 72/100 |
-| 141 | [sammcj/agentic-coding](./sammcj-agentic-coding.md) | ⭐ 169 | Python | 72/100 |
+| 141 | [sammcj/agentic-coding](./sammcj-agentic-coding.md) | ⭐ 170 | Python | 72/100 |
 | 142 | [lbedner/aegis-stack](./lbedner-aegis-stack.md) | ⭐ 146 | Python | 72/100 |
 | 143 | [codedthemes/berry-free-react-admin-template](./codedthemes-berry-free-react-admin-template.md) | ⭐ 2.2k | JavaScript | 71/100 |
 | 144 | [dioptx/weft](./dioptx-weft.md) | ⭐ 28 | Python | 71/100 |
@@ -381,7 +381,7 @@
 | 371 | [TheArchitectit/agent-guardrails-template](./thearchitectit-agent-guardrails-template.md) | ⭐ 1 | Go | 59/100 |
 | 372 | [TailGrids/tailgrids](./tailgrids-tailgrids.md) | ⭐ 1.7k | TypeScript | 59/100 |
 | 373 | [The-AppLab/ultimate-fastapi-langchain-boilerplate](./the-applab-ultimate-fastapi-langchain-boilerplate.md) | ⭐ 1 | Python | 58/100 |
-| 374 | [typed-ember/glint](./typed-ember-glint.md) | ⭐ 119 | TypeScript | 58/100 |
+| 374 | [typed-ember/glint](./typed-ember-glint.md) | ⭐ 118 | TypeScript | 58/100 |
 | 375 | [gacabartosz/linkedin-mcp-server](./gacabartosz-linkedin-mcp-server.md) | ⭐ 5 | JavaScript | 58/100 |
 | 376 | [Tam-Taro/SEL-Filtering-and-Sorting](./tam-taro-sel-filtering-and-sorting.md) | ⭐ 889 | — | 58/100 |
 | 377 | [cfndsl/cfndsl](./cfndsl-cfndsl.md) | ⭐ 424 | Ruby | 58/100 |

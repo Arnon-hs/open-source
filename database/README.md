@@ -188,7 +188,7 @@
 | 178 | [erans/pgsqlite](./erans-pgsqlite.md) | ⭐ 227 | Rust | 57/100 |
 | 179 | [DEEP-PolyU/Awesome-LLM-based-Text2SQL](./deep-polyu-awesome-llm-based-text2sql.md) | ⭐ 1.4k | — | 57/100 |
 | 180 | [libretro/libretro-database](./libretro-libretro-database.md) | ⭐ 1.5k | Python | 57/100 |
-| 181 | [QoreDB/QoreDB](./qoredb-qoredb.md) | ⭐ 153 | Rust | 57/100 |
+| 181 | [QoreDB/QoreDB](./qoredb-qoredb.md) | ⭐ 154 | Rust | 57/100 |
 | 182 | [mongodb/mongo-php-driver](./mongodb-mongo-php-driver.md) | ⭐ 925 | PHP | 57/100 |
 | 183 | [shieldproject/shield](./shieldproject-shield.md) | ⭐ 401 | Go | 57/100 |
 | 184 | [redis/NRedisStack](./redis-nredisstack.md) | ⭐ 332 | C# | 57/100 |
@@ -568,8 +568,8 @@
 | 558 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 559 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 560 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 561 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
-| 562 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
+| 561 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
+| 562 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
 | 563 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 564 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 565 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |

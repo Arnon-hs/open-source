@@ -35,7 +35,7 @@
 | 25 | [chatwoot/chatwoot](./chatwoot-chatwoot.md) | ⭐ 39.6k | Ruby | 72/100 |
 | 26 | [rustmailer/bichon](./rustmailer-bichon.md) | ⭐ 2.1k | TypeScript | 72/100 |
 | 27 | [muhammedaksam/waha-tui](./muhammedaksam-waha-tui.md) | ⭐ 413 | TypeScript | 72/100 |
-| 28 | [jchultarsky/mirador](./jchultarsky-mirador.md) | ⭐ 326 | Rust | 71/100 |
+| 28 | [jchultarsky/mirador](./jchultarsky-mirador.md) | ⭐ 328 | Rust | 71/100 |
 | 29 | [maildev/maildev](./maildev-maildev.md) | ⭐ 6.2k | TypeScript | 71/100 |
 | 30 | [ProtonMail/WebClients](./protonmail-webclients.md) | ⭐ 5.7k | TypeScript | 71/100 |
 | 31 | [eclipse-zenoh/zenoh](./eclipse-zenoh-zenoh.md) | ⭐ 3.3k | Rust | 71/100 |
@@ -245,7 +245,7 @@
 | 235 | [DomaCKBO3H9K/chatstyle](./domackbo3h9k-chatstyle.md) | ⭐ 1 | Python | 53/100 |
 | 236 | [swiftkit-dev/website-tech-stack-detector](./swiftkit-dev-website-tech-stack-detector.md) | ⭐ — | JavaScript | 53/100 |
 | 237 | [xiaowu0162/LongMemEval](./xiaowu0162-longmemeval.md) | ⭐ 1.2k | Python | 53/100 |
-| 238 | [stalwartlabs/mail-auth](./stalwartlabs-mail-auth.md) | ⭐ 129 | Rust | 53/100 |
+| 238 | [stalwartlabs/mail-auth](./stalwartlabs-mail-auth.md) | ⭐ 130 | Rust | 53/100 |
 | 239 | [pydantic/ai-chat-ui](./pydantic-ai-chat-ui.md) | ⭐ 72 | TypeScript | 53/100 |
 | 240 | [hadashiA/VitalRouter](./hadashia-vitalrouter.md) | ⭐ 370 | C# | 53/100 |
 | 241 | [aree6/LiftShift](./aree6-liftshift.md) | ⭐ 527 | TypeScript | 53/100 |
@@ -296,7 +296,7 @@
 | 286 | [roman-16/proton-cli](./roman-16-proton-cli.md) | ⭐ 109 | — | 48/100 |
 | 287 | [joshumax/git2imap](./joshumax-git2imap.md) | ⭐ 1 | — | 48/100 |
 | 288 | [slackhq/hakana](./slackhq-hakana.md) | ⭐ 110 | Rust | 48/100 |
-| 289 | [trougnouf/cfait](./trougnouf-cfait.md) | ⭐ 210 | Rust | 48/100 |
+| 289 | [trougnouf/cfait](./trougnouf-cfait.md) | ⭐ 211 | Rust | 48/100 |
 | 290 | [agntcy/slim](./agntcy-slim.md) | ⭐ 233 | Rust | 48/100 |
 | 291 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 468 | Swift | 48/100 |
 | 292 | [awebai/aweb](./awebai-aweb.md) | ⭐ 129 | Go | 48/100 |

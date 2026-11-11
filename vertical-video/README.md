@@ -43,7 +43,7 @@
 | 33 | [siri2moon/moonreel](./siri2moon-moonreel.md) | ⭐ 21 | TypeScript | 73/100 |
 | 34 | [jnMetaCode/openshorts](./jnmetacode-openshorts.md) | ⭐ 61 | JavaScript | 73/100 |
 | 35 | [OStudi/short-video-generator-AI](./ostudi-short-video-generator-ai.md) | ⭐ 1.2k | Python | 73/100 |
-| 36 | [hassancs91/claude-faceless-shorts-creator](./hassancs91-claude-faceless-shorts-creator.md) | ⭐ 352 | TypeScript | 73/100 |
+| 36 | [hassancs91/claude-faceless-shorts-creator](./hassancs91-claude-faceless-shorts-creator.md) | ⭐ 356 | TypeScript | 73/100 |
 | 37 | [social-media-skills/remotion-shorts-skill](./social-media-skills-remotion-shorts-skill.md) | ⭐ 15 | TypeScript | 72/100 |
 | 38 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 234 | JavaScript | 72/100 |
 | 39 | [SamurAIGPT/revideo](./samuraigpt-revideo.md) | ⭐ 165 | JavaScript | 72/100 |
@@ -167,8 +167,8 @@
 | 157 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 2.4k | JavaScript | 50/100 |
 | 158 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ 1 | — | 48/100 |
 | 159 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 42 | — | 47/100 |
-| 160 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
-| 161 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
+| 160 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
+| 161 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
 | 162 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 37 | JavaScript | 47/100 |
 | 163 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
 | 164 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |

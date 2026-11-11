@@ -290,7 +290,7 @@
 | 280 | [Azure/azure-sdk-for-js](./azure-azure-sdk-for-js.md) | ⭐ 2.3k | TypeScript | 61/100 |
 | 281 | [arcjet/arcjet-js](./arcjet-arcjet-js.md) | ⭐ 699 | TypeScript | 61/100 |
 | 282 | [nubenetes/awesome-kubernetes](./nubenetes-awesome-kubernetes.md) | ⭐ 676 | Python | 61/100 |
-| 283 | [axpdev-lab/aeroftp](./axpdev-lab-aeroftp.md) | ⭐ 278 | Rust | 61/100 |
+| 283 | [axpdev-lab/aeroftp](./axpdev-lab-aeroftp.md) | ⭐ 279 | Rust | 61/100 |
 | 284 | [wso2/product-integrator-mi](./wso2-product-integrator-mi.md) | ⭐ 290 | Java | 61/100 |
 | 285 | [Azure/azure-sdk-for-python](./azure-azure-sdk-for-python.md) | ⭐ 5.6k | Python | 61/100 |
 | 286 | [prowler-cloud/prowler](./prowler-cloud-prowler.md) | ⭐ 15.2k | Python | 61/100 |
@@ -432,7 +432,7 @@
 | 422 | [awslabs/aws-sdk-swift](./awslabs-aws-sdk-swift.md) | ⭐ 484 | Swift | 55/100 |
 | 423 | [adamfowlerit/msportals.io](./adamfowlerit-msportals.io.md) | ⭐ 338 | HTML | 55/100 |
 | 424 | [1095071913/maozi-cloud-parent](./1095071913-maozi-cloud-parent.md) | ⭐ 1.4k | PLpgSQL | 55/100 |
-| 425 | [matisiekpl/neond](./matisiekpl-neond.md) | ⭐ 142 | Rust | 55/100 |
+| 425 | [matisiekpl/neond](./matisiekpl-neond.md) | ⭐ 143 | Rust | 55/100 |
 | 426 | [tilfinltd/aws-extend-switch-roles](./tilfinltd-aws-extend-switch-roles.md) | ⭐ 1.4k | JavaScript | 55/100 |
 | 427 | [aws/s2n-quic](./aws-s2n-quic.md) | ⭐ 1.4k | Rust | 55/100 |
 | 428 | [kloudkit/ws-meta](./kloudkit-ws-meta.md) | ⭐ 152 | Shell | 55/100 |
@@ -491,8 +491,8 @@
 | 481 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 447 | Go | 52/100 |
 | 482 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 483 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
-| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
 | 486 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 60 | Python | 51/100 |
 | 487 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 490 | Jupyter Notebook | 51/100 |
 | 488 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
@@ -510,8 +510,8 @@
 | 500 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 362 | Rust | 50/100 |
 | 501 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 138 | Rust | 50/100 |
 | 502 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 366 | Java | 50/100 |
-| 503 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
-| 504 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 503 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 504 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
 | 505 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1.1k | Go | 50/100 |
 | 506 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 757 | Rust | 50/100 |
 | 507 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 670 | Python | 50/100 |
@@ -532,7 +532,7 @@
 | 522 | [vivan1211/opengp](./vivan1211-opengp.md) | ⭐ 8 | — | 48/100 |
 | 523 | [tansu-io/tansu](./tansu-io-tansu.md) | ⭐ 1.8k | Rust | 48/100 |
 | 524 | [amanbolat/awesome-go-with-stars](./amanbolat-awesome-go-with-stars.md) | ⭐ 860 | — | 48/100 |
-| 525 | [AtomaAI/atoma-infer](./atomaai-atoma-infer.md) | ⭐ 136 | Rust | 47/100 |
+| 525 | [AtomaAI/atoma-infer](./atomaai-atoma-infer.md) | ⭐ 135 | Rust | 47/100 |
 | 526 | [monoscope-tech/timefusion](./monoscope-tech-timefusion.md) | ⭐ 225 | Rust | 47/100 |
 | 527 | [opengeos/aws-open-data-geo](./opengeos-aws-open-data-geo.md) | ⭐ 312 | Python | 47/100 |
 | 528 | [coolchigi/strands-vs-adk](./coolchigi-strands-vs-adk.md) | ⭐ — | Python | 46/100 |

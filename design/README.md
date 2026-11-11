@@ -89,7 +89,7 @@
 | 79 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 404 | HTML | 53/100 |
 | 80 | [carbon-design-system/gatsby-theme-carbon](./carbon-design-system-gatsby-theme-carbon.md) | ⭐ 358 | MDX | 53/100 |
 | 81 | [neetly/figma-agent-linux](./neetly-figma-agent-linux.md) | ⭐ 401 | Rust | 53/100 |
-| 82 | [adobe/spectrum-design-data](./adobe-spectrum-design-data.md) | ⭐ 158 | Rust | 53/100 |
+| 82 | [adobe/spectrum-design-data](./adobe-spectrum-design-data.md) | ⭐ 157 | Rust | 53/100 |
 | 83 | [su2code/SU2](./su2code-su2.md) | ⭐ 1.9k | C++ | 53/100 |
 | 84 | [smokeeaasd/flawless-ui-ux](./smokeeaasd-flawless-ui-ux.md) | ⭐ 213 | — | 52/100 |
 | 85 | [vuematerial/vue-material](./vuematerial-vue-material.md) | ⭐ 9.8k | Vue | 52/100 |

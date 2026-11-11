@@ -175,7 +175,7 @@
 | 165 | [kubernetes-client/java](./kubernetes-client-java.md) | ⭐ 4k | Java | 57/100 |
 | 166 | [dotnet/macios](./dotnet-macios.md) | ⭐ 2.9k | C# | 57/100 |
 | 167 | [opencoredev/social-sdk](./opencoredev-social-sdk.md) | ⭐ 844 | — | 56/100 |
-| 168 | [Atostek/ros2-client](./atostek-ros2-client.md) | ⭐ 130 | Rust | 56/100 |
+| 168 | [Atostek/ros2-client](./atostek-ros2-client.md) | ⭐ 131 | Rust | 56/100 |
 | 169 | [birabittoh/NocturneRecomp](./birabittoh-nocturnerecomp.md) | ⭐ 427 | C++ | 56/100 |
 | 170 | [denoland/rusty_v8](./denoland-rusty-v8.md) | ⭐ 4k | Rust | 56/100 |
 | 171 | [jellydn/zed-101-setup](./jellydn-zed-101-setup.md) | ⭐ 1.5k | TypeScript | 56/100 |
