@@ -322,14 +322,14 @@
 | 312 | [y-times-y/y](./y-times-y-y.md) | ⭐ 93 | — | 42/100 |
 | 313 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 953 | Rust | 42/100 |
 | 314 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
-| 315 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ — | — | 41/100 |
+| 315 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 1 | — | 41/100 |
 | 316 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 1 | — | 41/100 |
 | 317 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ — | — | 41/100 |
 | 318 | [1-apex/screen-draw](./1-apex-screen-draw.md) | ⭐ — | — | 41/100 |
 | 319 | [demirelo/nib](./demirelo-nib.md) | ⭐ — | — | 41/100 |
 | 320 | [zdying/true-date-extension](./zdying-true-date-extension.md) | ⭐ 1 | — | 41/100 |
 | 321 | [dev-kleo/OpenHighlights](./dev-kleo-openhighlights.md) | ⭐ — | — | 41/100 |
-| 322 | [TinkeringDao/satori](./tinkeringdao-satori.md) | ⭐ — | — | 41/100 |
+| 322 | [TinkeringDao/satori](./tinkeringdao-satori.md) | ⭐ 7 | — | 41/100 |
 | 323 | [code-Baruch/noleon-releases](./code-baruch-noleon-releases.md) | ⭐ 1 | — | 41/100 |
 | 324 | [Ludvig2457Ultra/SuperLauncherMC](./ludvig2457ultra-superlaunchermc.md) | ⭐ 3 | — | 41/100 |
 | 325 | [MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5](./mothersphere-d6c049a09ba8ac3085c51ee9df24a4e5.md) | ⭐ — | — | 41/100 |
@@ -354,8 +354,8 @@
 | 344 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 345 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 346 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 347 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
-| 348 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 347 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 348 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
 | 349 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 350 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.8k | — | 38/100 |
 | 351 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

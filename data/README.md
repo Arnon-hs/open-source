@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**367 projects** in this category.
+**368 projects** in this category.
 
 ## Projects
 
@@ -337,44 +337,45 @@
 | 327 | [dmitriy-iliyov/oncebox](./dmitriy-iliyov-oncebox.md) | ⭐ 18 | Java | 46/100 |
 | 328 | [emptiesvoid-cloud/QF_solver](./emptiesvoid-cloud-qf-solver.md) | ⭐ 13 | Python | 46/100 |
 | 329 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 516 | R | 46/100 |
-| 330 | [yakshjethva/jvm-inside-out](./yakshjethva-jvm-inside-out.md) | ⭐ 4 | TypeScript | 45/100 |
-| 331 | [HimanshuS073/music_visualizer](./himanshus073-music-visualizer.md) | ⭐ 2 | Lua | 45/100 |
-| 332 | [partick33/internal-links-export](./partick33-internal-links-export.md) | ⭐ — | JavaScript | 45/100 |
-| 333 | [idk-arsh/data-agent-rules](./idk-arsh-data-agent-rules.md) | ⭐ 2 | — | 45/100 |
-| 334 | [GetCassis/analytics-agent-articles](./getcassis-analytics-agent-articles.md) | ⭐ 67 | — | 45/100 |
-| 335 | [trynova/nova](./trynova-nova.md) | ⭐ 2k | Rust | 45/100 |
-| 336 | [apache/tez](./apache-tez.md) | ⭐ 523 | Java | 45/100 |
-| 337 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 709 | Python | 45/100 |
-| 338 | [scigolib/matlab](./scigolib-matlab.md) | ⭐ 12 | Go | 45/100 |
-| 339 | [gregjotau/google-photos-cli](./gregjotau-google-photos-cli.md) | ⭐ — | — | 44/100 |
-| 340 | [Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture](./dr-logvinovich-it3-solar-system-quantum-architecture.md) | ⭐ — | — | 44/100 |
-| 341 | [decodeaditya/Cirqmon](./decodeaditya-cirqmon.md) | ⭐ 26 | JavaScript | 44/100 |
-| 342 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ 3 | — | 44/100 |
-| 343 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 115 | Rust | 44/100 |
-| 344 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 214 | Rust | 44/100 |
-| 345 | [idimetrix/canchas-mexico](./idimetrix-canchas-mexico.md) | ⭐ — | TypeScript | 44/100 |
-| 346 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 140 | Rust | 43/100 |
-| 347 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 309 | Rust | 43/100 |
-| 348 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 43/100 |
-| 349 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
-| 350 | [shilpidaswani/finkit](./shilpidaswani-finkit.md) | ⭐ — | TypeScript | 42/100 |
-| 351 | [vicena-labs/scientific-prediction-benchmark](./vicena-labs-scientific-prediction-benchmark.md) | ⭐ — | — | 41/100 |
-| 352 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ 45 | — | 41/100 |
-| 353 | [RedRiotTank/NativeJsonNavigator](./redriottank-nativejsonnavigator.md) | ⭐ 14 | — | 41/100 |
-| 354 | [luchtan-GIT/m4r-data](./luchtan-git-m4r-data.md) | ⭐ 1 | — | 41/100 |
-| 355 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |
-| 356 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ 3 | — | 41/100 |
-| 357 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
-| 358 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 660 | Rust | 41/100 |
-| 359 | [nsijwali/WhoRuled](./nsijwali-whoruled.md) | ⭐ 1 | TypeScript | 40/100 |
-| 360 | [zhairAhmad/pakistan-address](./zhairahmad-pakistan-address.md) | ⭐ — | PHP | 40/100 |
-| 361 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ 2 | Swift | 38/100 |
-| 362 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ 6 | — | 38/100 |
-| 363 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ 18 | — | 38/100 |
-| 364 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
-| 365 | [MegPhapha/EduDisruption-Index](./megphapha-edudisruption-index.md) | ⭐ — | HTML | 36/100 |
-| 366 | [Nidhi-bhai/backtestcard](./nidhi-bhai-backtestcard.md) | ⭐ — | HTML | 33/100 |
-| 367 | [vinamraa05/Recaller-Study](./vinamraa05-recaller-study.md) | ⭐ — | JavaScript | 32/100 |
+| 330 | [akkio-inc/igloo](./akkio-inc-igloo.md) | ⭐ — | — | 45/100 |
+| 331 | [yakshjethva/jvm-inside-out](./yakshjethva-jvm-inside-out.md) | ⭐ 4 | TypeScript | 45/100 |
+| 332 | [HimanshuS073/music_visualizer](./himanshus073-music-visualizer.md) | ⭐ 2 | Lua | 45/100 |
+| 333 | [partick33/internal-links-export](./partick33-internal-links-export.md) | ⭐ — | JavaScript | 45/100 |
+| 334 | [idk-arsh/data-agent-rules](./idk-arsh-data-agent-rules.md) | ⭐ 2 | — | 45/100 |
+| 335 | [GetCassis/analytics-agent-articles](./getcassis-analytics-agent-articles.md) | ⭐ 67 | — | 45/100 |
+| 336 | [trynova/nova](./trynova-nova.md) | ⭐ 2k | Rust | 45/100 |
+| 337 | [apache/tez](./apache-tez.md) | ⭐ 523 | Java | 45/100 |
+| 338 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 709 | Python | 45/100 |
+| 339 | [scigolib/matlab](./scigolib-matlab.md) | ⭐ 12 | Go | 45/100 |
+| 340 | [gregjotau/google-photos-cli](./gregjotau-google-photos-cli.md) | ⭐ — | — | 44/100 |
+| 341 | [Dr-Logvinovich/IT3-Solar-System-Quantum-Architecture](./dr-logvinovich-it3-solar-system-quantum-architecture.md) | ⭐ — | — | 44/100 |
+| 342 | [decodeaditya/Cirqmon](./decodeaditya-cirqmon.md) | ⭐ 26 | JavaScript | 44/100 |
+| 343 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ 3 | — | 44/100 |
+| 344 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 115 | Rust | 44/100 |
+| 345 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 214 | Rust | 44/100 |
+| 346 | [idimetrix/canchas-mexico](./idimetrix-canchas-mexico.md) | ⭐ — | TypeScript | 44/100 |
+| 347 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 140 | Rust | 43/100 |
+| 348 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 309 | Rust | 43/100 |
+| 349 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 43/100 |
+| 350 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
+| 351 | [shilpidaswani/finkit](./shilpidaswani-finkit.md) | ⭐ — | TypeScript | 42/100 |
+| 352 | [vicena-labs/scientific-prediction-benchmark](./vicena-labs-scientific-prediction-benchmark.md) | ⭐ — | — | 41/100 |
+| 353 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ 45 | — | 41/100 |
+| 354 | [RedRiotTank/NativeJsonNavigator](./redriottank-nativejsonnavigator.md) | ⭐ 14 | — | 41/100 |
+| 355 | [luchtan-GIT/m4r-data](./luchtan-git-m4r-data.md) | ⭐ 1 | — | 41/100 |
+| 356 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |
+| 357 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ 3 | — | 41/100 |
+| 358 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
+| 359 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 660 | Rust | 41/100 |
+| 360 | [nsijwali/WhoRuled](./nsijwali-whoruled.md) | ⭐ 1 | TypeScript | 40/100 |
+| 361 | [zhairAhmad/pakistan-address](./zhairahmad-pakistan-address.md) | ⭐ — | PHP | 40/100 |
+| 362 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ 2 | Swift | 38/100 |
+| 363 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ 6 | — | 38/100 |
+| 364 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ 18 | — | 38/100 |
+| 365 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
+| 366 | [MegPhapha/EduDisruption-Index](./megphapha-edudisruption-index.md) | ⭐ — | HTML | 36/100 |
+| 367 | [Nidhi-bhai/backtestcard](./nidhi-bhai-backtestcard.md) | ⭐ — | HTML | 33/100 |
+| 368 | [vinamraa05/Recaller-Study](./vinamraa05-recaller-study.md) | ⭐ — | JavaScript | 32/100 |
 
 ---
 

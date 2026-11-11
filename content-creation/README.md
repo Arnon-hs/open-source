@@ -143,7 +143,7 @@
 | 133 | [walterwritesai/walter-skills](./walterwritesai-walter-skills.md) | ⭐ 13 | — | 46/100 |
 | 134 | [Lightricks/LTX-2.5](./lightricks-ltx-2.5.md) | ⭐ 1.6k | diffusion-single-file | 46/100 |
 | 135 | [Lightricks/LTX-2.3](./lightricks-ltx-2.3.md) | ⭐ 1.8k | diffusers | 46/100 |
-| 136 | [MaxonT/aisync](./maxont-aisync.md) | ⭐ — | — | 45/100 |
+| 136 | [MaxonT/aisync](./maxont-aisync.md) | ⭐ 38 | — | 45/100 |
 | 137 | [GoogleChrome/modern-web-guidance](./googlechrome-modern-web-guidance.md) | ⭐ 4.7k | — | 45/100 |
 | 138 | [bquenin/qitt](./bquenin-qitt.md) | ⭐ 1 | — | 45/100 |
 | 139 | [Comfy-Org/Wan-2.2](./comfy-org-wan-2.2.md) | ⭐ 963 | diffusion-single-file | 45/100 |
@@ -152,12 +152,12 @@
 | 142 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
 | 143 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 144 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 145 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
-| 146 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 354 | — | 43/100 |
+| 145 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 354 | — | 43/100 |
+| 146 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
 | 147 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 148 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 149 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
-| 150 | [peterhudson/timegrapher](./peterhudson-timegrapher.md) | ⭐ — | — | 41/100 |
+| 150 | [peterhudson/timegrapher](./peterhudson-timegrapher.md) | ⭐ 21 | — | 41/100 |
 | 151 | [occiderunt/netstudy-mac](./occiderunt-netstudy-mac.md) | ⭐ — | — | 41/100 |
 | 152 | [maths-oliveira/blabla-meter](./maths-oliveira-blabla-meter.md) | ⭐ — | — | 41/100 |
 | 153 | [worldlabsai/atlas-camera-studio](./worldlabsai-atlas-camera-studio.md) | ⭐ 72 | — | 41/100 |

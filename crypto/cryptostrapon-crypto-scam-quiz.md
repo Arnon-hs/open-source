@@ -1,6 +1,6 @@
 # cryptostrapon/crypto-scam-quiz
 
-[![Stars](https://img.shields.io/github/stars/cryptostrapon/crypto-scam-quiz?style=flat-square&color=yellow)](https://github.com/cryptostrapon/crypto-scam-quiz/stargazers) [![Forks](https://img.shields.io/github/forks/cryptostrapon/crypto-scam-quiz?style=flat-square&color=blue)](https://github.com/cryptostrapon/crypto-scam-quiz/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/cryptostrapon/crypto-scam-quiz?style=flat-square&color=yellow)](https://github.com/cryptostrapon/crypto-scam-quiz/stargazers) [![Forks](https://img.shields.io/github/forks/cryptostrapon/crypto-scam-quiz?style=flat-square&color=blue)](https://github.com/cryptostrapon/crypto-scam-quiz/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open-source crypto scam detection quiz: 50 scenarios based on observed scam patterns covering drainers, approval phishing, rug pulls, AI scams and more. Maintained by CryptoStrapon.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ cryptostrapon/crypto-scam-quiz：cryptostrapon/crypto-scam-quiz helps prototype 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 41/100 |
+| quality | 36/100 |
 | integration | 30/100 |
-| production | 47/100 |
-| outlook | 46/100 |
+| production | 41/100 |
+| outlook | 39/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
