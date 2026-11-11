@@ -163,8 +163,8 @@
 | 153 | [jiangtian616/JHenTai](./jiangtian616-jhentai.md) | ⭐ 5.8k | Dart | 59/100 |
 | 154 | [komikku-app/komikku](./komikku-app-komikku.md) | ⭐ 5k | Kotlin | 59/100 |
 | 155 | [florisboard/florisboard](./florisboard-florisboard.md) | ⭐ 8.8k | Kotlin | 59/100 |
-| 156 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.9k | Kotlin | 59/100 |
-| 157 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 156 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 157 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.9k | Kotlin | 59/100 |
 | 158 | [bonigarcia/mastering-junit5](./bonigarcia-mastering-junit5.md) | ⭐ 429 | Java | 59/100 |
 | 159 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.8k | Java | 59/100 |
 | 160 | [patrykandpatrick/vico](./patrykandpatrick-vico.md) | ⭐ 3.2k | Kotlin | 59/100 |
@@ -208,7 +208,7 @@
 | 198 | [opengisch/QField](./opengisch-qfield.md) | ⭐ 1.4k | C++ | 58/100 |
 | 199 | [nekomangaorg/Neko](./nekomangaorg-neko.md) | ⭐ 2.8k | Kotlin | 58/100 |
 | 200 | [claration/Impactor](./claration-impactor.md) | ⭐ 3.8k | Rust | 58/100 |
-| 201 | [nab138/iloader](./nab138-iloader.md) | ⭐ 4.6k | TypeScript | 58/100 |
+| 201 | [nab138/iloader](./nab138-iloader.md) | ⭐ 4.7k | TypeScript | 58/100 |
 | 202 | [krvstek/uni-apks](./krvstek-uni-apks.md) | ⭐ 683 | Python | 58/100 |
 | 203 | [Radiokot/photoprism-android-client](./radiokot-photoprism-android-client.md) | ⭐ 620 | Kotlin | 58/100 |
 | 204 | [Snapchat/Valdi](./snapchat-valdi.md) | ⭐ 16.4k | C++ | 58/100 |
@@ -310,7 +310,7 @@
 | 300 | [LawnchairLauncher/lawnicons](./lawnchairlauncher-lawnicons.md) | ⭐ 2.1k | Kotlin | 55/100 |
 | 301 | [JetBrains/android](./jetbrains-android.md) | ⭐ 1.1k | Kotlin | 55/100 |
 | 302 | [sebaslogen/resaca](./sebaslogen-resaca.md) | ⭐ 651 | Kotlin | 55/100 |
-| 303 | [sameerasw/essentials](./sameerasw-essentials.md) | ⭐ 3.7k | Kotlin | 55/100 |
+| 303 | [sameerasw/essentials](./sameerasw-essentials.md) | ⭐ 3.8k | Kotlin | 55/100 |
 | 304 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 40.6k | Java | 55/100 |
 | 305 | [offa/android-foss](./offa-android-foss.md) | ⭐ 11.7k | Python | 55/100 |
 | 306 | [d4rken-org/sdmaid-se](./d4rken-org-sdmaid-se.md) | ⭐ 8k | Kotlin | 55/100 |

@@ -55,7 +55,7 @@
 | 45 | [Greedeks/GTweak](./greedeks-gtweak.md) | ⭐ 1.8k | C# | 66/100 |
 | 46 | [PierreGode/Ragnar](./pierregode-ragnar.md) | ⭐ 971 | Python | 66/100 |
 | 47 | [danielbrendel/hortusfox-web](./danielbrendel-hortusfox-web.md) | ⭐ 1.7k | PHP | 66/100 |
-| 48 | [bramstroker/homeassistant-powercalc](./bramstroker-homeassistant-powercalc.md) | ⭐ 1.6k | Python | 66/100 |
+| 48 | [bramstroker/homeassistant-powercalc](./bramstroker-homeassistant-powercalc.md) | ⭐ 1.7k | Python | 66/100 |
 | 49 | [samber/awesome-prometheus-alerts](./samber-awesome-prometheus-alerts.md) | ⭐ 8.3k | Astro | 66/100 |
 | 50 | [hubblo-org/scaphandre](./hubblo-org-scaphandre.md) | ⭐ 2k | Rust | 66/100 |
 | 51 | [prometheus/node_exporter](./prometheus-node-exporter.md) | ⭐ 13.9k | Go | 66/100 |
@@ -148,7 +148,7 @@
 | 138 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 57/100 |
 | 139 | [simple10/agents-observe](./simple10-agents-observe.md) | ⭐ 716 | TypeScript | 57/100 |
 | 140 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 600 | Python | 57/100 |
-| 141 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 4.9k | TypeScript | 57/100 |
+| 141 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 5k | TypeScript | 57/100 |
 | 142 | [jaegertracing/jaeger](./jaegertracing-jaeger.md) | ⭐ 23.4k | Go | 57/100 |
 | 143 | [ilya-zlobintsev/LACT](./ilya-zlobintsev-lact.md) | ⭐ 5.9k | Rust | 57/100 |
 | 144 | [google/perfetto](./google-perfetto.md) | ⭐ 6.8k | C++ | 57/100 |

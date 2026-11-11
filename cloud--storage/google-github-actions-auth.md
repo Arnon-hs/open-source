@@ -52,7 +52,7 @@ google-github-actions/auth：google-github-actions/auth may be useful when its R
 
 **Quality signals**
 
-- 1416 GitHub stars
+- 1417 GitHub stars
 - 306 forks
 - updated 2026-11-07
 - primary language: TypeScript

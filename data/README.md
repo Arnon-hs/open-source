@@ -113,7 +113,7 @@
 | 103 | [rapidsai/cudf](./rapidsai-cudf.md) | ⭐ 9.6k | C++ | 63/100 |
 | 104 | [ARM-DOE/pyart](./arm-doe-pyart.md) | ⭐ 610 | Python | 62/100 |
 | 105 | [ChartGPU/ChartGPU](./chartgpu-chartgpu.md) | ⭐ 3.3k | TypeScript | 62/100 |
-| 106 | [lf-edge/ekuiper](./lf-edge-ekuiper.md) | ⭐ 1.7k | Go | 62/100 |
+| 106 | [lf-edge/ekuiper](./lf-edge-ekuiper.md) | ⭐ 1.8k | Go | 62/100 |
 | 107 | [eclipse-rdf4j/rdf4j](./eclipse-rdf4j-rdf4j.md) | ⭐ 424 | Java | 62/100 |
 | 108 | [git-cola/git-cola](./git-cola-git-cola.md) | ⭐ 2.6k | Python | 62/100 |
 | 109 | [sindresorhus/p-queue](./sindresorhus-p-queue.md) | ⭐ 4.3k | TypeScript | 62/100 |

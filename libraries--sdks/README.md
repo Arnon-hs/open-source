@@ -191,7 +191,7 @@
 | 181 | [gtk-rs/gtk3-rs](./gtk-rs-gtk3-rs.md) | ⭐ 508 | Rust | 55/100 |
 | 182 | [prove-rs/z3.rs](./prove-rs-z3.rs.md) | ⭐ 541 | Rust | 55/100 |
 | 183 | [y3owk1n/neru](./y3owk1n-neru.md) | ⭐ 917 | Go | 55/100 |
-| 184 | [rust-openssl/rust-openssl](./rust-openssl-rust-openssl.md) | ⭐ 1.6k | Rust | 54/100 |
+| 184 | [rust-openssl/rust-openssl](./rust-openssl-rust-openssl.md) | ⭐ 1.7k | Rust | 54/100 |
 | 185 | [frida/frida-core](./frida-frida-core.md) | ⭐ 789 | Vala | 54/100 |
 | 186 | [sdroege/gstreamer-rs](./sdroege-gstreamer-rs.md) | ⭐ 595 | Rust | 54/100 |
 | 187 | [restsend/restsend-rs](./restsend-restsend-rs.md) | ⭐ 143 | Rust | 54/100 |

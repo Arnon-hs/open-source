@@ -20,7 +20,7 @@
 | 10 | [TNT-Likely/PanWatch](./tnt-likely-panwatch.md) | ⭐ 2.4k | Python | 76/100 |
 | 11 | [stefan-jansen/machine-learning-for-trading](./stefan-jansen-machine-learning-for-trading.md) | ⭐ 21.8k | Jupyter Notebook | 76/100 |
 | 12 | [YizhiSong/FriesTrader](./yizhisong-friestrader.md) | ⭐ 304 | — | 75/100 |
-| 13 | [mw00/project-maya](./mw00-project-maya.md) | ⭐ 2.7k | C++ | 74/100 |
+| 13 | [mw00/project-maya](./mw00-project-maya.md) | ⭐ 2.8k | C++ | 74/100 |
 | 14 | [simonlin1212/a-stock-data](./simonlin1212-a-stock-data.md) | ⭐ 11.7k | — | 74/100 |
 | 15 | [dgunning/edgartools](./dgunning-edgartools.md) | ⭐ 2.8k | Python | 74/100 |
 | 16 | [akfamily/akshare](./akfamily-akshare.md) | ⭐ 23.3k | Python | 74/100 |
@@ -86,8 +86,8 @@
 | 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 231 | Rust | 64/100 |
 | 77 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 78 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
-| 80 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
+| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
+| 80 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
 | 81 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 82 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 83 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |
@@ -168,8 +168,8 @@
 | 158 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 159 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
 | 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 231 | Go | 52/100 |
-| 161 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
-| 162 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
+| 161 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
+| 162 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
 | 163 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 164 | [uselayer/uselayer-sdk](./uselayer-uselayer-sdk.md) | ⭐ 3 | — | 51/100 |
 | 165 | [weirdapps/etorotrade](./weirdapps-etorotrade.md) | ⭐ 39 | Python | 51/100 |

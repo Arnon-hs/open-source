@@ -200,8 +200,8 @@
 | 190 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 103 | Swift | 67/100 |
 | 191 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 226 | Python | 67/100 |
 | 192 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 305 | TypeScript | 67/100 |
-| 193 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 373 | TypeScript | 67/100 |
-| 194 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 253 | JavaScript | 67/100 |
+| 193 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 253 | JavaScript | 67/100 |
+| 194 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 373 | TypeScript | 67/100 |
 | 195 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 239 | Go | 67/100 |
 | 196 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 197 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 133 | Python | 67/100 |
@@ -296,7 +296,7 @@
 | 286 | [LaoFeng-mouse/flyingmouse-format](./laofeng-mouse-flyingmouse-format.md) | ⭐ 7.1k | JavaScript | 63/100 |
 | 287 | [SPlayer-Dev/SPlayer-Next](./splayer-dev-splayer-next.md) | ⭐ 1.6k | TypeScript | 63/100 |
 | 288 | [scraed/LanPaint](./scraed-lanpaint.md) | ⭐ 1.5k | Python | 63/100 |
-| 289 | [getopenscreen/openscreen](./getopenscreen-openscreen.md) | ⭐ 6.8k | TypeScript | 63/100 |
+| 289 | [getopenscreen/openscreen](./getopenscreen-openscreen.md) | ⭐ 6.9k | TypeScript | 63/100 |
 | 290 | [benedict2310/TelePi](./benedict2310-telepi.md) | ⭐ 147 | TypeScript | 63/100 |
 | 291 | [lukaszliniewicz/Pandrator](./lukaszliniewicz-pandrator.md) | ⭐ 648 | Python | 63/100 |
 | 292 | [whyboris/Video-Hub-App](./whyboris-video-hub-app.md) | ⭐ 737 | TypeScript | 63/100 |

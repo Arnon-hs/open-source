@@ -1,6 +1,6 @@
 # tonger-lab/donetrace
 
-[![Stars](https://img.shields.io/github/stars/tonger-lab/donetrace?style=flat-square&color=yellow)](https://github.com/tonger-lab/donetrace/stargazers) [![Forks](https://img.shields.io/github/forks/tonger-lab/donetrace?style=flat-square&color=blue)](https://github.com/tonger-lab/donetrace/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonger-lab/donetrace?style=flat-square&color=yellow)](https://github.com/tonger-lab/donetrace/stargazers) [![Forks](https://img.shields.io/github/forks/tonger-lab/donetrace?style=flat-square&color=blue)](https://github.com/tonger-lab/donetrace/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > DoneTrace — a local-first achievement tracker for knowledge workers. Record completed work, score your output in weighted hours, and review your journey with AI retrospectives. Not a todo app — a record of what you've done. Built with Tauri (Rust) + React.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ tonger-lab/donetrace：tonger-lab/donetrace helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 63/100 |
+| production | 58/100 |
+| outlook | 56/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 100/100 |
 | stars | 10/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

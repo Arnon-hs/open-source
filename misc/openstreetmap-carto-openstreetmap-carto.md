@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 893 |
+| 🍴 **Forks** | 894 |
 | 💻 **Language** | CartoCSS |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-05 |
