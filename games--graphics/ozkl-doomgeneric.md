@@ -1,6 +1,6 @@
 # ozkl/doomgeneric
 
-[![Stars](https://img.shields.io/github/stars/ozkl/doomgeneric?style=flat-square&color=yellow)](https://github.com/ozkl/doomgeneric/stargazers) [![Forks](https://img.shields.io/github/forks/ozkl/doomgeneric?style=flat-square&color=blue)](https://github.com/ozkl/doomgeneric/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ozkl/doomgeneric?style=flat-square&color=yellow)](https://github.com/ozkl/doomgeneric/stargazers) [![Forks](https://img.shields.io/github/forks/ozkl/doomgeneric?style=flat-square&color=blue)](https://github.com/ozkl/doomgeneric/network) [![Language](https://img.shields.io/badge/lang-C-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Easily portable doom
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.2k |
 | 🍴 **Forks** | 380 |
 | 💻 **Language** | C |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ ozkl/doomgeneric：ozkl/doomgeneric may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 82/100 |
+| quality | 77/100 |
 | integration | 30/100 |
-| production | 72/100 |
-| outlook | 81/100 |
+| production | 65/100 |
+| outlook | 74/100 |
 | adoption | 69/100 |
 | categoryMatchCount | 100/100 |
 | stars | 71/100 |
 | forks | 65/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -124,7 +124,7 @@
 | 114 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ 25 | — | 46/100 |
 | 115 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |
 | 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 678 | TypeScript | 46/100 |
-| 117 | [meta/astryx](./meta-astryx.md) | ⭐ 21.7k | — | 45/100 |
+| 117 | [meta/astryx](./meta-astryx.md) | ⭐ 24.3k | — | 45/100 |
 | 118 | [VenoM9078/gradientdeck-skill](./venom9078-gradientdeck-skill.md) | ⭐ 44 | — | 45/100 |
 | 119 | [ui-layouts/uilayouts](./ui-layouts-uilayouts.md) | ⭐ 3.9k | — | 45/100 |
 | 120 | [qrstajalli/BranchOut](./qrstajalli-branchout.md) | ⭐ 2 | — | 45/100 |

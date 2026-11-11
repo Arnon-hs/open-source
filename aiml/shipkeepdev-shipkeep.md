@@ -1,6 +1,6 @@
 # shipkeepdev/shipkeep
 
-[![Stars](https://img.shields.io/github/stars/shipkeepdev/shipkeep?style=flat-square&color=yellow)](https://github.com/shipkeepdev/shipkeep/stargazers) [![Forks](https://img.shields.io/github/forks/shipkeepdev/shipkeep?style=flat-square&color=blue)](https://github.com/shipkeepdev/shipkeep/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shipkeepdev/shipkeep?style=flat-square&color=yellow)](https://github.com/shipkeepdev/shipkeep/stargazers) [![Forks](https://img.shields.io/github/forks/shipkeepdev/shipkeep?style=flat-square&color=blue)](https://github.com/shipkeepdev/shipkeep/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted PaaS: your own cloud on your own servers
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ shipkeepdev/shipkeep：shipkeepdev/shipkeep helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 78/100 |
-| production | 69/100 |
-| outlook | 70/100 |
+| production | 63/100 |
+| outlook | 63/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 500/100 |
 | stars | 15/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

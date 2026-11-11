@@ -276,8 +276,8 @@
 | 266 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 267 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 268 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
-| 270 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 270 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
 | 271 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 272 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 631 | Python | 55/100 |
 | 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
@@ -561,7 +561,7 @@
 | 551 | [ssilvestri15/openfruit](./ssilvestri15-openfruit.md) | ⭐ 17 | — | 41/100 |
 | 552 | [MikeCer/DrawDock](./mikecer-drawdock.md) | ⭐ 1 | — | 41/100 |
 | 553 | [hito-dev/wand-browser](./hito-dev-wand-browser.md) | ⭐ 10 | — | 41/100 |
-| 554 | [nnnlog/phone-link](./nnnlog-phone-link.md) | ⭐ 21 | — | 41/100 |
+| 554 | [nnnlog/phone-link](./nnnlog-phone-link.md) | ⭐ 23 | — | 41/100 |
 | 555 | [orailnoor/cross-platform-llm-client](./orailnoor-cross-platform-llm-client.md) | ⭐ 2.1k | — | 41/100 |
 | 556 | [fform/touchrecordkit](./fform-touchrecordkit.md) | ⭐ — | — | 41/100 |
 | 557 | [Gladimore/TouchSynth](./gladimore-touchsynth.md) | ⭐ 2 | — | 41/100 |
@@ -572,7 +572,7 @@
 | 562 | [BEKO2210/spyhound](./beko2210-spyhound.md) | ⭐ — | Kotlin | 41/100 |
 | 563 | [google/three-live](./google-three-live.md) | ⭐ 319 | — | 41/100 |
 | 564 | [brosiog/pebbleos-linux](./brosiog-pebbleos-linux.md) | ⭐ 5 | — | 41/100 |
-| 565 | [morzelowski/FairPlayed](./morzelowski-fairplayed.md) | ⭐ 125 | — | 41/100 |
+| 565 | [morzelowski/FairPlayed](./morzelowski-fairplayed.md) | ⭐ 127 | — | 41/100 |
 | 566 | [dixonSolutions/lindroids](./dixonsolutions-lindroids.md) | ⭐ 24 | — | 41/100 |
 | 567 | [junkuang1/bad-poochy-development-notes](./junkuang1-bad-poochy-development-notes.md) | ⭐ — | — | 41/100 |
 | 568 | [skynetigor/SkyNetEmu](./skynetigor-skynetemu.md) | ⭐ 26 | — | 41/100 |
@@ -624,7 +624,7 @@
 | 614 | [Suprhimp/castla](./suprhimp-castla.md) | ⭐ — | — | 41/100 |
 | 615 | [fcavalcantirj/droidputter](./fcavalcantirj-droidputter.md) | ⭐ — | — | 41/100 |
 | 616 | [gregsramblings/ios-charging-monitor](./gregsramblings-ios-charging-monitor.md) | ⭐ 41 | — | 41/100 |
-| 617 | [mazer666/PhairPlay](./mazer666-phairplay.md) | ⭐ 216 | — | 41/100 |
+| 617 | [mazer666/PhairPlay](./mazer666-phairplay.md) | ⭐ 218 | — | 41/100 |
 | 618 | [hsandhu/mobilecode](./hsandhu-mobilecode.md) | ⭐ 243 | — | 41/100 |
 | 619 | [theghostshinobi/SMOKE](./theghostshinobi-smoke.md) | ⭐ — | — | 41/100 |
 | 620 | [rPlayAI/rplayhub-android](./rplayai-rplayhub-android.md) | ⭐ 46 | — | 41/100 |
@@ -690,8 +690,8 @@
 | 680 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 681 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ 12 | — | 38/100 |
 | 682 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 683 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
-| 684 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
+| 683 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
+| 684 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
 | 685 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ 1 | — | 38/100 |
 | 686 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ 18 | — | 38/100 |
 | 687 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ 580 | — | 38/100 |

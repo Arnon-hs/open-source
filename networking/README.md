@@ -656,7 +656,7 @@
 | 646 | [clevotec/cleversocks](./clevotec-cleversocks.md) | ⭐ 1 | — | 38/100 |
 | 647 | [ryanzhou/dsv4-codex-proxy](./ryanzhou-dsv4-codex-proxy.md) | ⭐ 1 | — | 38/100 |
 | 648 | [chriscohnen/islandr](./chriscohnen-islandr.md) | ⭐ 43 | — | 38/100 |
-| 649 | [ninadphalak/LLM-Shield-Proxy](./ninadphalak-llm-shield-proxy.md) | ⭐ 15 | — | 38/100 |
+| 649 | [ninadphalak/LLM-Shield-Proxy](./ninadphalak-llm-shield-proxy.md) | ⭐ 16 | — | 38/100 |
 | 650 | [Liana64/eek](./liana64-eek.md) | ⭐ 1 | — | 38/100 |
 | 651 | [robolamp/smol-llm-proxy](./robolamp-smol-llm-proxy.md) | ⭐ 3 | — | 38/100 |
 | 652 | [bruno-de-queiroz/hoop](./bruno-de-queiroz-hoop.md) | ⭐ — | — | 38/100 |

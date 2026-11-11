@@ -19,7 +19,7 @@
 | 9 | [SreeNaresh1/episteme-ai](./sreenaresh1-episteme-ai.md) | ⭐ — | — | 41/100 |
 | 10 | [sridharchaildn/notebook-ai](./sridharchaildn-notebook-ai.md) | ⭐ — | — | 41/100 |
 | 11 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ — | — | 41/100 |
-| 12 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ — | — | 41/100 |
+| 12 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ 1 | — | 41/100 |
 | 13 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ — | — | 41/100 |
 | 14 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ 1 | — | 41/100 |
 

@@ -542,7 +542,7 @@
 | 532 | [luoy16002-svg/tickmark](./luoy16002-svg-tickmark.md) | ⭐ — | TypeScript | 44/100 |
 | 533 | [jaronilan/stories](./jaronilan-stories.md) | ⭐ — | — | 44/100 |
 | 534 | [ulrischa/MarkyDown](./ulrischa-markydown.md) | ⭐ 4 | — | 44/100 |
-| 535 | [mini-software/MiniPdf](./mini-software-minipdf.md) | ⭐ 509 | — | 44/100 |
+| 535 | [mini-software/MiniPdf](./mini-software-minipdf.md) | ⭐ 510 | — | 44/100 |
 | 536 | [docuqueue/docuqueue-plugin](./docuqueue-docuqueue-plugin.md) | ⭐ — | — | 44/100 |
 | 537 | [joshka/tui-markdown](./joshka-tui-markdown.md) | ⭐ 118 | Rust | 44/100 |
 | 538 | [mdlight-dev/mdlight](./mdlight-dev-mdlight.md) | ⭐ 6 | — | 44/100 |
@@ -619,7 +619,7 @@
 | 609 | [Kortexio/ContextMemory](./kortexio-contextmemory.md) | ⭐ 8 | — | 41/100 |
 | 610 | [samestep/satin](./samestep-satin.md) | ⭐ 1 | — | 41/100 |
 | 611 | [docukit/docukit](./docukit-docukit.md) | ⭐ 98 | — | 41/100 |
-| 612 | [nkitsaini/sanemark](./nkitsaini-sanemark.md) | ⭐ 17 | — | 41/100 |
+| 612 | [nkitsaini/sanemark](./nkitsaini-sanemark.md) | ⭐ 18 | — | 41/100 |
 | 613 | [UsboKirishima/rr](./usbokirishima-rr.md) | ⭐ 6 | — | 41/100 |
 | 614 | [alecerca/repoDocs](./alecerca-repodocs.md) | ⭐ 3 | — | 41/100 |
 | 615 | [temir-dev/tims-markdown-reader](./temir-dev-tims-markdown-reader.md) | ⭐ 22 | — | 41/100 |
@@ -637,7 +637,7 @@
 | 627 | [aws-samples/sample-textract-field-memory](./aws-samples-sample-textract-field-memory.md) | ⭐ 25 | — | 41/100 |
 | 628 | [FrancisMarzynski/operating-memory-public](./francismarzynski-operating-memory-public.md) | ⭐ — | — | 41/100 |
 | 629 | [skanga/mdedit](./skanga-mdedit.md) | ⭐ 7 | — | 41/100 |
-| 630 | [MJrFusion/Docxion](./mjrfusion-docxion.md) | ⭐ 6 | — | 41/100 |
+| 630 | [MJrFusion/Docxion](./mjrfusion-docxion.md) | ⭐ 7 | — | 41/100 |
 | 631 | [ajithraghavan/qmd](./ajithraghavan-qmd.md) | ⭐ 7 | — | 41/100 |
 | 632 | [hahwul/hwaro](./hahwul-hwaro.md) | ⭐ 42 | — | 41/100 |
 | 633 | [openwhale-labs/md2pdf](./openwhale-labs-md2pdf.md) | ⭐ 2 | — | 41/100 |
@@ -713,8 +713,8 @@
 | 703 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
 | 704 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 705 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
-| 706 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
-| 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 706 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
 | 708 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
 | 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |

@@ -33,7 +33,7 @@
 | 23 | [heygen-com/heygen-cli](./heygen-com-heygen-cli.md) | ⭐ 172 | Go | 74/100 |
 | 24 | [vaaya-ai/vaaya-mcp](./vaaya-ai-vaaya-mcp.md) | ⭐ 44 | Shell | 74/100 |
 | 25 | [gongxings/ai-creator](./gongxings-ai-creator.md) | ⭐ 93 | Python | 74/100 |
-| 26 | [aman179102/podvoice](./aman179102-podvoice.md) | ⭐ 38 | Python | 73/100 |
+| 26 | [aman179102/podvoice](./aman179102-podvoice.md) | ⭐ 39 | Python | 73/100 |
 | 27 | [claude-world/claude-world-studio](./claude-world-claude-world-studio.md) | ⭐ 71 | TypeScript | 73/100 |
 | 28 | [EvoLinkAI/awesome-seedance-2.5-guide](./evolinkai-awesome-seedance-2.5-guide.md) | ⭐ 392 | Shell | 73/100 |
 | 29 | [aiworkskills/wechat-article-skills](./aiworkskills-wechat-article-skills.md) | ⭐ 737 | Python | 72/100 |
