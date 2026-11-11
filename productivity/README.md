@@ -295,7 +295,7 @@
 | 285 | [dotcmdhq/dotcmd](./dotcmdhq-dotcmd.md) | ⭐ 4 | — | 45/100 |
 | 286 | [cssllcio/typeclip](./cssllcio-typeclip.md) | ⭐ 2 | — | 45/100 |
 | 287 | [xvertile/SwiftPaste](./xvertile-swiftpaste.md) | ⭐ 5 | — | 45/100 |
-| 288 | [Deepender25/Edge-Drop](./deepender25-edge-drop.md) | ⭐ 781 | — | 45/100 |
+| 288 | [Deepender25/Edge-Drop](./deepender25-edge-drop.md) | ⭐ 785 | — | 45/100 |
 | 289 | [slaveofcode/goodwebtools](./slaveofcode-goodwebtools.md) | ⭐ 12 | — | 45/100 |
 | 290 | [HexCodeYT/PlainLink](./hexcodeyt-plainlink.md) | ⭐ 7 | — | 45/100 |
 | 291 | [willmeyers/coypa](./willmeyers-coypa.md) | ⭐ 4 | — | 45/100 |
@@ -322,13 +322,13 @@
 | 312 | [y-times-y/y](./y-times-y-y.md) | ⭐ 93 | — | 42/100 |
 | 313 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 953 | Rust | 42/100 |
 | 314 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
-| 315 | [zdying/true-date-extension](./zdying-true-date-extension.md) | ⭐ — | — | 41/100 |
+| 315 | [zdying/true-date-extension](./zdying-true-date-extension.md) | ⭐ 1 | — | 41/100 |
 | 316 | [dev-kleo/OpenHighlights](./dev-kleo-openhighlights.md) | ⭐ — | — | 41/100 |
 | 317 | [TinkeringDao/satori](./tinkeringdao-satori.md) | ⭐ — | — | 41/100 |
 | 318 | [code-Baruch/noleon-releases](./code-baruch-noleon-releases.md) | ⭐ — | — | 41/100 |
 | 319 | [Ludvig2457Ultra/SuperLauncherMC](./ludvig2457ultra-superlaunchermc.md) | ⭐ 3 | — | 41/100 |
 | 320 | [MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5](./mothersphere-d6c049a09ba8ac3085c51ee9df24a4e5.md) | ⭐ — | — | 41/100 |
-| 321 | [Fardin7798/Spider-Tv-Launcher](./fardin7798-spider-tv-launcher.md) | ⭐ 30 | — | 41/100 |
+| 321 | [Fardin7798/Spider-Tv-Launcher](./fardin7798-spider-tv-launcher.md) | ⭐ 31 | — | 41/100 |
 | 322 | [stronxyo/quarter](./stronxyo-quarter.md) | ⭐ 5 | — | 41/100 |
 | 323 | [andrewarrow/ruie](./andrewarrow-ruie.md) | ⭐ 1 | — | 41/100 |
 | 324 | [MarcelNazare/Reeve](./marcelnazare-reeve.md) | ⭐ 5 | — | 41/100 |
@@ -356,7 +356,7 @@
 | 346 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |
 | 347 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ 1 | — | 38/100 |
 | 348 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ 40 | — | 38/100 |
-| 349 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ 92 | — | 38/100 |
+| 349 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ 104 | — | 38/100 |
 | 350 | [github/app](./github-app.md) | ⭐ 2.3k | — | 38/100 |
 | 351 | [maitriii08/FlowOutside](./maitriii08-flowoutside.md) | ⭐ 1 | HTML | 37/100 |
 | 352 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |

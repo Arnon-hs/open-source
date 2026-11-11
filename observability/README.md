@@ -278,7 +278,7 @@
 | 268 | [amitbidlan/zistica-lumin](./amitbidlan-zistica-lumin.md) | ⭐ 2 | — | 42/100 |
 | 269 | [rbmuller/scherlok](./rbmuller-scherlok.md) | ⭐ 14 | — | 42/100 |
 | 270 | [thisisvaze/Gauge](./thisisvaze-gauge.md) | ⭐ 1 | — | 41/100 |
-| 271 | [dooly6276/claude-bulkhead](./dooly6276-claude-bulkhead.md) | ⭐ 27 | — | 41/100 |
+| 271 | [dooly6276/claude-bulkhead](./dooly6276-claude-bulkhead.md) | ⭐ 28 | — | 41/100 |
 | 272 | [lagudafuadtosin/inline-logs](./lagudafuadtosin-inline-logs.md) | ⭐ 1 | — | 41/100 |
 | 273 | [jonprice0/architecture-of-failure](./jonprice0-architecture-of-failure.md) | ⭐ 1 | — | 41/100 |
 | 274 | [jjinendra3/amidumb](./jjinendra3-amidumb.md) | ⭐ 6 | — | 41/100 |

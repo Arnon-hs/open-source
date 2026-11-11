@@ -361,8 +361,8 @@
 | 351 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 352 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 353 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 354 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 354 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 356 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 357 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 358 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |
@@ -445,7 +445,7 @@
 | 435 | [EbodShojaei/EMLViewer](./ebodshojaei-emlviewer.md) | ⭐ 1 | — | 38/100 |
 | 436 | [SunnyLich/OpenWand](./sunnylich-openwand.md) | ⭐ 16 | — | 38/100 |
 | 437 | [flovoice53-tech/otp-watch](./flovoice53-tech-otp-watch.md) | ⭐ 2 | — | 38/100 |
-| 438 | [DouglasdeMoura/chroncal](./douglasdemoura-chroncal.md) | ⭐ 241 | — | 38/100 |
+| 438 | [DouglasdeMoura/chroncal](./douglasdemoura-chroncal.md) | ⭐ 243 | — | 38/100 |
 | 439 | [luoxiprovo/bearmail](./luoxiprovo-bearmail.md) | ⭐ 5 | — | 38/100 |
 | 440 | [john-abah/ABAH_CHAT](./john-abah-abah-chat.md) | ⭐ 1 | — | 38/100 |
 | 441 | [beescuit/chatflare](./beescuit-chatflare.md) | ⭐ 105 | — | 38/100 |
@@ -468,7 +468,7 @@
 | 458 | [jeninh/openotp](./jeninh-openotp.md) | ⭐ 10 | — | 38/100 |
 | 459 | [gianlucamazza/xllama](./gianlucamazza-xllama.md) | ⭐ 84 | — | 38/100 |
 | 460 | [bounce-chat/bounce](./bounce-chat-bounce.md) | ⭐ 9 | — | 38/100 |
-| 461 | [docbrain-ai/docbrain](./docbrain-ai-docbrain.md) | ⭐ 34 | — | 38/100 |
+| 461 | [docbrain-ai/docbrain](./docbrain-ai-docbrain.md) | ⭐ 33 | — | 38/100 |
 | 462 | [knguyenanhoa/lifecalwall](./knguyenanhoa-lifecalwall.md) | ⭐ — | — | 38/100 |
 | 463 | [glenncalleja/wakewire](./glenncalleja-wakewire.md) | ⭐ 13 | — | 38/100 |
 | 464 | [leapmemory/memory-bench](./leapmemory-memory-bench.md) | ⭐ 3 | — | 38/100 |

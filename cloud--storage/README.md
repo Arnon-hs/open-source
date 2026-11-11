@@ -491,8 +491,8 @@
 | 481 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 447 | Go | 52/100 |
 | 482 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 483 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
-| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
 | 486 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 61 | Python | 51/100 |
 | 487 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 490 | Jupyter Notebook | 51/100 |
 | 488 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
@@ -546,8 +546,8 @@
 | 536 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 537 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 538 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 541 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 542 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 543 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |
@@ -587,7 +587,7 @@
 | 577 | [genbs/reactive-leds](./genbs-reactive-leds.md) | ⭐ 13 | — | 41/100 |
 | 578 | [Whospr/Whospair](./whospr-whospair.md) | ⭐ 1 | — | 41/100 |
 | 579 | [Annora998/Wardkey](./annora998-wardkey.md) | ⭐ — | — | 41/100 |
-| 580 | [dev2ex/twig](./dev2ex-twig.md) | ⭐ 129 | — | 41/100 |
+| 580 | [dev2ex/twig](./dev2ex-twig.md) | ⭐ 131 | — | 41/100 |
 | 581 | [ioflux-org/armite](./ioflux-org-armite.md) | ⭐ 9 | — | 41/100 |
 | 582 | [arabo11/zombiecost](./arabo11-zombiecost.md) | ⭐ 1 | — | 41/100 |
 | 583 | [omerfeyzioglu/glider](./omerfeyzioglu-glider.md) | ⭐ 6 | — | 41/100 |
@@ -603,7 +603,7 @@
 | 593 | [sbalmt/ez4](./sbalmt-ez4.md) | ⭐ 11 | — | 41/100 |
 | 594 | [HQarroum/laymbda](./hqarroum-laymbda.md) | ⭐ 7 | — | 41/100 |
 | 595 | [NetGadz/NodeX](./netgadz-nodex.md) | ⭐ 4 | — | 41/100 |
-| 596 | [dashersw/coyopedal](./dashersw-coyopedal.md) | ⭐ 295 | — | 41/100 |
+| 596 | [dashersw/coyopedal](./dashersw-coyopedal.md) | ⭐ 297 | — | 41/100 |
 | 597 | [seacloud-lab/seasearch](./seacloud-lab-seasearch.md) | ⭐ 35 | — | 41/100 |
 | 598 | [paguasmar/veloxml-deploy](./paguasmar-veloxml-deploy.md) | ⭐ — | — | 41/100 |
 | 599 | [archiecobbs/s3backer](./archiecobbs-s3backer.md) | ⭐ 621 | — | 41/100 |
@@ -639,7 +639,7 @@
 | 629 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ 1 | — | 38/100 |
 | 630 | [cgopalan/s3fileviewer](./cgopalan-s3fileviewer.md) | ⭐ 7 | — | 38/100 |
 | 631 | [bolt-earth/Berg](./bolt-earth-berg.md) | ⭐ 2 | — | 38/100 |
-| 632 | [floci-io/floci](./floci-io-floci.md) | ⭐ 31.2k | — | 38/100 |
+| 632 | [floci-io/floci](./floci-io-floci.md) | ⭐ 31.3k | — | 38/100 |
 | 633 | [x-tahosin/groundstate](./x-tahosin-groundstate.md) | ⭐ — | JavaScript | 36/100 |
 | 634 | [psantus/aws-console-url](./psantus-aws-console-url.md) | ⭐ 1 | Shell | 36/100 |
 | 635 | [WalnutIcecream/Nomad](./walnuticecream-nomad.md) | ⭐ 1 | Python | 35/100 |

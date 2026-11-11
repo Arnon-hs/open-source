@@ -369,7 +369,7 @@
 | 359 | [cberner/redb](./cberner-redb.md) | ⭐ 4.9k | Rust | 46/100 |
 | 360 | [AydenGroup/nitrobase](./aydengroup-nitrobase.md) | ⭐ 8 | TypeScript | 46/100 |
 | 361 | [DevLoops-ai/unified-brain](./devloops-ai-unified-brain.md) | ⭐ 34 | — | 45/100 |
-| 362 | [deedglass/deedglass](./deedglass-deedglass.md) | ⭐ 4 | — | 45/100 |
+| 362 | [deedglass/deedglass](./deedglass-deedglass.md) | ⭐ 5 | — | 45/100 |
 | 363 | [objectbox/adhoc-db-benchmarks](./objectbox-adhoc-db-benchmarks.md) | ⭐ 1 | — | 45/100 |
 | 364 | [claix-dev/claix-for-devs](./claix-dev-claix-for-devs.md) | ⭐ 3 | — | 45/100 |
 | 365 | [artmih24/TeleParser](./artmih24-teleparser.md) | ⭐ 153 | Python | 45/100 |
@@ -549,7 +549,7 @@
 | 539 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 540 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 541 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 431 | — | 38/100 |
-| 542 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 69 | — | 38/100 |
+| 542 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 70 | — | 38/100 |
 | 543 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
 | 544 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 545 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 442 | — | 38/100 |
@@ -574,7 +574,7 @@
 | 564 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 565 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 566 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
-| 567 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 104 | — | 38/100 |
+| 567 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 105 | — | 38/100 |
 | 568 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
 | 569 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
 | 570 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |

@@ -64,18 +64,18 @@ marshlw/vistest：marshlw/vistest helps engineers save time in daily development
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 42/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 51/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 63/100 |
+| outlook | 51/100 |
+| quality | 42/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 55/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

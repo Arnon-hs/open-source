@@ -144,7 +144,7 @@
 | 134 | [USER/APP](./user-app.md) | ⭐ — | — | 42/100 |
 | 135 | [cedRiC874/researchops-agent](./cedric874-researchops-agent.md) | ⭐ — | — | 42/100 |
 | 136 | [EightPotions/Myli](./eightpotions-myli.md) | ⭐ 5 | — | 42/100 |
-| 137 | [eraserlabs/eraser-diagrams](./eraserlabs-eraser-diagrams.md) | ⭐ 312 | — | 42/100 |
+| 137 | [eraserlabs/eraser-diagrams](./eraserlabs-eraser-diagrams.md) | ⭐ 313 | — | 42/100 |
 | 138 | [David-OConnor/bio_tools](./david-oconnor-bio-tools.md) | ⭐ 1 | — | 42/100 |
 | 139 | [bitjaru/styleseed](./bitjaru-styleseed.md) | ⭐ 1k | — | 42/100 |
 | 140 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ 38 | — | 42/100 |
@@ -154,7 +154,7 @@
 | 144 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 746 | — | 41/100 |
 | 145 | [posterlet/amazing-posters](./posterlet-amazing-posters.md) | ⭐ 4 | — | 41/100 |
 | 146 | [nhunsaker/screenshot-to-tokens](./nhunsaker-screenshot-to-tokens.md) | ⭐ 7 | — | 41/100 |
-| 147 | [daneb/ai-system-design-primer](./daneb-ai-system-design-primer.md) | ⭐ 8 | — | 41/100 |
+| 147 | [daneb/ai-system-design-primer](./daneb-ai-system-design-primer.md) | ⭐ 9 | — | 41/100 |
 | 148 | [dysgn/Embedded_guide_publish](./dysgn-embedded-guide-publish.md) | ⭐ 4 | — | 41/100 |
 | 149 | [macauhome/winform-designer](./macauhome-winform-designer.md) | ⭐ 2 | — | 41/100 |
 | 150 | [RohiRIK/SummonOS](./rohirik-summonos.md) | ⭐ — | — | 41/100 |
