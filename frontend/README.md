@@ -36,7 +36,7 @@
 | 26 | [evroon/bracket](./evroon-bracket.md) | ⭐ 1.8k | TypeScript | 75/100 |
 | 27 | [solidjs/solid-start](./solidjs-solid-start.md) | ⭐ 5.9k | TypeScript | 75/100 |
 | 28 | [react-native-community/cli](./react-native-community-cli.md) | ⭐ 2.9k | TypeScript | 75/100 |
-| 29 | [podman-desktop/podman-desktop](./podman-desktop-podman-desktop.md) | ⭐ 8.1k | TypeScript | 75/100 |
+| 29 | [podman-desktop/podman-desktop](./podman-desktop-podman-desktop.md) | ⭐ 8.2k | TypeScript | 75/100 |
 | 30 | [sublay-io/monorepo](./sublay-io-monorepo.md) | ⭐ 182 | TypeScript | 75/100 |
 | 31 | [altair-graphql/altair](./altair-graphql-altair.md) | ⭐ 5.4k | TypeScript | 75/100 |
 | 32 | [amalshaji/portr](./amalshaji-portr.md) | ⭐ 3.2k | TypeScript | 75/100 |
@@ -60,7 +60,7 @@
 | 50 | [surveyjs/survey-library](./surveyjs-survey-library.md) | ⭐ 4.9k | TypeScript | 72/100 |
 | 51 | [apiflask/apiflask](./apiflask-apiflask.md) | ⭐ 1.1k | Python | 72/100 |
 | 52 | [appbaseio/reactivesearch](./appbaseio-reactivesearch.md) | ⭐ 4.9k | JavaScript | 72/100 |
-| 53 | [CyberTimon/RapidRAW](./cybertimon-rapidraw.md) | ⭐ 11k | TypeScript | 72/100 |
+| 53 | [CyberTimon/RapidRAW](./cybertimon-rapidraw.md) | ⭐ 11.1k | TypeScript | 72/100 |
 | 54 | [goniszewski/grimoire](./goniszewski-grimoire.md) | ⭐ 2.9k | TypeScript | 72/100 |
 | 55 | [chamanbravo/upstat](./chamanbravo-upstat.md) | ⭐ 200 | TypeScript | 72/100 |
 | 56 | [jeremiaa/magic-frame](./jeremiaa-magic-frame.md) | ⭐ 517 | TypeScript | 72/100 |
@@ -260,8 +260,8 @@
 | 250 | [lynx-family/lynx-stack](./lynx-family-lynx-stack.md) | ⭐ 739 | TypeScript | 65/100 |
 | 251 | [zhenorzz/goploy](./zhenorzz-goploy.md) | ⭐ 1.3k | Go | 65/100 |
 | 252 | [ng-doc/ng-doc](./ng-doc-ng-doc.md) | ⭐ 326 | TypeScript | 65/100 |
-| 253 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
-| 254 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
+| 253 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
+| 254 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
 | 255 | [magicuidesign/magicui](./magicuidesign-magicui.md) | ⭐ 23.2k | MDX | 65/100 |
 | 256 | [mealie-recipes/mealie](./mealie-recipes-mealie.md) | ⭐ 13.9k | Python | 65/100 |
 | 257 | [marko-js/marko](./marko-js-marko.md) | ⭐ 14.5k | JavaScript | 65/100 |
@@ -273,7 +273,7 @@
 | 263 | [imba/imba](./imba-imba.md) | ⭐ 6.5k | JavaScript | 64/100 |
 | 264 | [DavidHDev/react-bits](./davidhdev-react-bits.md) | ⭐ 51.7k | JavaScript | 64/100 |
 | 265 | [mozilla/bedrock](./mozilla-bedrock.md) | ⭐ 1.3k | HTML | 64/100 |
-| 266 | [XiaoYouChR/Ghost-Downloader-3](./xiaoyouchr-ghost-downloader-3.md) | ⭐ 10.9k | Python | 64/100 |
+| 266 | [XiaoYouChR/Ghost-Downloader-3](./xiaoyouchr-ghost-downloader-3.md) | ⭐ 11k | Python | 64/100 |
 | 267 | [sethcottle/littlelink](./sethcottle-littlelink.md) | ⭐ 3.1k | HTML | 64/100 |
 | 268 | [software-mansion/react-native-audio-api](./software-mansion-react-native-audio-api.md) | ⭐ 856 | C++ | 64/100 |
 | 269 | [RedMadRobot/figma-export](./redmadrobot-figma-export.md) | ⭐ 824 | Swift | 64/100 |
@@ -332,7 +332,7 @@
 | 322 | [CarGuo/gsy_github_app_flutter](./carguo-gsy-github-app-flutter.md) | ⭐ 15.5k | Dart | 63/100 |
 | 323 | [ronisarkarexe/story-spark-ai](./ronisarkarexe-story-spark-ai.md) | ⭐ 316 | TypeScript | 63/100 |
 | 324 | [sorokin-vladimir/tele](./sorokin-vladimir-tele.md) | ⭐ 244 | Go | 63/100 |
-| 325 | [mui/base-ui](./mui-base-ui.md) | ⭐ 11.3k | TypeScript | 63/100 |
+| 325 | [mui/base-ui](./mui-base-ui.md) | ⭐ 11.4k | TypeScript | 63/100 |
 | 326 | [arco-design/arco-design-vue](./arco-design-arco-design-vue.md) | ⭐ 3.1k | TypeScript | 63/100 |
 | 327 | [gokadzev/Musify](./gokadzev-musify.md) | ⭐ 4.4k | Dart | 63/100 |
 | 328 | [MertJSX/folderhost](./mertjsx-folderhost.md) | ⭐ 365 | TypeScript | 63/100 |
@@ -483,8 +483,8 @@
 | 473 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 474 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
 | 475 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 297 | Rust | 60/100 |
-| 476 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
-| 477 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 476 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 477 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
 | 478 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.8k | TypeScript | 60/100 |
 | 479 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 365 | Go | 60/100 |
 | 480 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
@@ -699,7 +699,7 @@
 | 689 | [motiondivision/motion](./motiondivision-motion.md) | ⭐ 35.1k | TypeScript | 56/100 |
 | 690 | [millionco/react-doctor](./millionco-react-doctor.md) | ⭐ 15.1k | TypeScript | 56/100 |
 | 691 | [microsoft/react-native-windows](./microsoft-react-native-windows.md) | ⭐ 17.4k | C++ | 56/100 |
-| 692 | [Automattic/harper](./automattic-harper.md) | ⭐ 17.5k | Rust | 56/100 |
+| 692 | [Automattic/harper](./automattic-harper.md) | ⭐ 17.6k | Rust | 56/100 |
 | 693 | [electron/electron](./electron-electron.md) | ⭐ 123.8k | C++ | 56/100 |
 | 694 | [ChromeDevTools/devtools-frontend](./chromedevtools-devtools-frontend.md) | ⭐ 4.1k | TypeScript | 56/100 |
 | 695 | [PureStackStudio/Regor](./purestackstudio-regor.md) | ⭐ 10 | TypeScript | 55/100 |
@@ -809,7 +809,7 @@
 | 799 | [remarkablemark/html-react-parser](./remarkablemark-html-react-parser.md) | ⭐ 2.4k | TypeScript | 52/100 |
 | 800 | [whisper-money/whisper-money](./whisper-money-whisper-money.md) | ⭐ 1.2k | TypeScript | 52/100 |
 | 801 | [SasanLabs/VulnerableApp](./sasanlabs-vulnerableapp.md) | ⭐ 482 | Java | 52/100 |
-| 802 | [shellui-dev/shellui](./shellui-dev-shellui.md) | ⭐ 12 | C# | 52/100 |
+| 802 | [shellui-dev/shellui](./shellui-dev-shellui.md) | ⭐ 13 | C# | 52/100 |
 | 803 | [fast-compose/fast-compose](./fast-compose-fast-compose.md) | ⭐ 4 | Kotlin | 52/100 |
 | 804 | [NGdev2/earful](./ngdev2-earful.md) | ⭐ 10 | JavaScript | 51/100 |
 | 805 | [jnreis/briojs](./jnreis-briojs.md) | ⭐ 2 | JavaScript | 51/100 |

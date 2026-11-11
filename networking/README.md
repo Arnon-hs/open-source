@@ -42,7 +42,7 @@
 | 32 | [tonyantony300/dashbeam](./tonyantony300-dashbeam.md) | ⭐ 10.3k | TypeScript | 73/100 |
 | 33 | [hggq/paozhu](./hggq-paozhu.md) | ⭐ 673 | C++ | 73/100 |
 | 34 | [posva/mande](./posva-mande.md) | ⭐ 1.3k | TypeScript | 73/100 |
-| 35 | [apple/swift-nio](./apple-swift-nio.md) | ⭐ 8.5k | Swift | 73/100 |
+| 35 | [apple/swift-nio](./apple-swift-nio.md) | ⭐ 8.6k | Swift | 73/100 |
 | 36 | [verdaccio/verdaccio](./verdaccio-verdaccio.md) | ⭐ 18k | TypeScript | 73/100 |
 | 37 | [2dust/v2rayN](./2dust-v2rayn.md) | ⭐ 120.3k | C# | 73/100 |
 | 38 | [wiredoor/wiredoor](./wiredoor-wiredoor.md) | ⭐ 1.6k | TypeScript | 72/100 |
@@ -189,7 +189,7 @@
 | 179 | [Juwan-Hwang/Zephyr](./juwan-hwang-zephyr.md) | ⭐ 739 | JavaScript | 63/100 |
 | 180 | [iximiuz/labctl](./iximiuz-labctl.md) | ⭐ 461 | Go | 63/100 |
 | 181 | [DebugSwift/DebugSwift](./debugswift-debugswift.md) | ⭐ 2.5k | Swift | 63/100 |
-| 182 | [getlantern/lantern](./getlantern-lantern.md) | ⭐ 16.7k | Dart | 63/100 |
+| 182 | [getlantern/lantern](./getlantern-lantern.md) | ⭐ 16.8k | Dart | 63/100 |
 | 183 | [openwisp/openwisp-controller](./openwisp-openwisp-controller.md) | ⭐ 795 | Python | 63/100 |
 | 184 | [microsoft/vs-streamjsonrpc](./microsoft-vs-streamjsonrpc.md) | ⭐ 943 | C# | 63/100 |
 | 185 | [algesten/ureq](./algesten-ureq.md) | ⭐ 2.2k | Rust | 63/100 |
@@ -294,7 +294,7 @@
 | 284 | [lf-edge/eve](./lf-edge-eve.md) | ⭐ 551 | Go | 59/100 |
 | 285 | [Sovereign-Engineering/obscuravpn-client](./sovereign-engineering-obscuravpn-client.md) | ⭐ 503 | Rust | 59/100 |
 | 286 | [EvilGenius-dot/RustMinerSystem](./evilgenius-dot-rustminersystem.md) | ⭐ 3.9k | Rust | 59/100 |
-| 287 | [coturn/coturn](./coturn-coturn.md) | ⭐ 14.5k | C | 59/100 |
+| 287 | [coturn/coturn](./coturn-coturn.md) | ⭐ 14.6k | C | 59/100 |
 | 288 | [libp2p/rust-libp2p](./libp2p-rust-libp2p.md) | ⭐ 5.6k | Rust | 59/100 |
 | 289 | [ShadowsocksR-Live/overtls](./shadowsocksr-live-overtls.md) | ⭐ 462 | Rust | 59/100 |
 | 290 | [MizuchiLabs/mantrae](./mizuchilabs-mantrae.md) | ⭐ 493 | TypeScript | 59/100 |
@@ -437,7 +437,7 @@
 | 427 | [ALIILAPRO/v2rayNG-Config](./aliilapro-v2rayng-config.md) | ⭐ 377 | HTML | 53/100 |
 | 428 | [Tght1211/lan-proxy-gateway](./tght1211-lan-proxy-gateway.md) | ⭐ 545 | Go | 53/100 |
 | 429 | [simgine/bevy_replicon](./simgine-bevy-replicon.md) | ⭐ 658 | Rust | 53/100 |
-| 430 | [free-nodes/v2rayfree](./free-nodes-v2rayfree.md) | ⭐ 14.9k | — | 53/100 |
+| 430 | [free-nodes/v2rayfree](./free-nodes-v2rayfree.md) | ⭐ 15k | — | 53/100 |
 | 431 | [xinggaoya/sing-box-windows](./xinggaoya-sing-box-windows.md) | ⭐ 911 | Rust | 53/100 |
 | 432 | [ancwrd1/snx-rs](./ancwrd1-snx-rs.md) | ⭐ 535 | Rust | 53/100 |
 | 433 | [ivpn/ios-app](./ivpn-ios-app.md) | ⭐ 576 | Swift | 53/100 |
@@ -458,7 +458,7 @@
 | 448 | [kroxylicious/kroxylicious](./kroxylicious-kroxylicious.md) | ⭐ 334 | Java | 52/100 |
 | 449 | [gen0sec/synapse](./gen0sec-synapse.md) | ⭐ 128 | Rust | 52/100 |
 | 450 | [barry-far/V2ray-Config](./barry-far-v2ray-config.md) | ⭐ 2.7k | Python | 52/100 |
-| 451 | [DiningFactory/panda-vpn-pro](./diningfactory-panda-vpn-pro.md) | ⭐ 17.6k | — | 52/100 |
+| 451 | [DiningFactory/panda-vpn-pro](./diningfactory-panda-vpn-pro.md) | ⭐ 17.7k | — | 52/100 |
 | 452 | [Mygod/VPNHotspot](./mygod-vpnhotspot.md) | ⭐ 6.7k | Kotlin | 52/100 |
 | 453 | [tokio-rs/tokio](./tokio-rs-tokio.md) | ⭐ 33.8k | Rust | 52/100 |
 | 454 | [humhub/humhub](./humhub-humhub.md) | ⭐ 6.8k | PHP | 52/100 |
@@ -483,7 +483,7 @@
 | 473 | [httptoolkit/httptoolkit-ui](./httptoolkit-httptoolkit-ui.md) | ⭐ 383 | TypeScript | 51/100 |
 | 474 | [proxifly/free-proxy-list](./proxifly-free-proxy-list.md) | ⭐ 7k | — | 51/100 |
 | 475 | [ntex-rs/ntex](./ntex-rs-ntex.md) | ⭐ 2.5k | Rust | 51/100 |
-| 476 | [EasyTier/EasyTier](./easytier-easytier.md) | ⭐ 14.6k | Rust | 51/100 |
+| 476 | [EasyTier/EasyTier](./easytier-easytier.md) | ⭐ 14.7k | Rust | 51/100 |
 | 477 | [amnezia-vpn/amneziawg-android](./amnezia-vpn-amneziawg-android.md) | ⭐ 593 | Kotlin | 50/100 |
 | 478 | [manic-systems/ncro](./manic-systems-ncro.md) | ⭐ 157 | Rust | 50/100 |
 | 479 | [Ground-Zerro/HydraRoute](./ground-zerro-hydraroute.md) | ⭐ 659 | C | 50/100 |

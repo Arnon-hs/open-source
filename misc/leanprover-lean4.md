@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9.9k |
+| ⭐ **Stars** | 10k |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Lean |
 | 📈 **Score** | 57/100 |

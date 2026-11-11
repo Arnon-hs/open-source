@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ BenniAlencar/agent-code-sandbox: BenniAlencar/agent-code-sandbox helps connect A
 
 ### Русский
 
-BenniAlencar/agent-code-sandbox: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+BenniAlencar/agent-code-sandbox: open-source проект в категориях MCP, AI/ML. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,18 +64,18 @@ BenniAlencar/agent-code-sandbox：BenniAlencar/agent-code-sandbox helps connect 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 42/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 57/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 63/100 |
+| outlook | 57/100 |
+| quality | 42/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -15,7 +15,7 @@
 | 5 | [assimp/assimp](./assimp-assimp.md) | ⭐ 13.3k | C++ | 70/100 |
 | 6 | [IppClub/Dora-SSR](./ippclub-dora-ssr.md) | ⭐ 542 | C++ | 70/100 |
 | 7 | [LukasBanana/LLGL](./lukasbanana-llgl.md) | ⭐ 2.6k | C++ | 69/100 |
-| 8 | [Orama-Interactive/Pixelorama](./orama-interactive-pixelorama.md) | ⭐ 11k | GDScript | 69/100 |
+| 8 | [Orama-Interactive/Pixelorama](./orama-interactive-pixelorama.md) | ⭐ 11.1k | GDScript | 69/100 |
 | 9 | [graphistry/pygraphistry](./graphistry-pygraphistry.md) | ⭐ 2.6k | Python | 69/100 |
 | 10 | [OGRECave/ogre](./ogrecave-ogre.md) | ⭐ 4.7k | C++ | 68/100 |
 | 11 | [selkies-project/selkies](./selkies-project-selkies.md) | ⭐ 2.5k | Python | 68/100 |
@@ -64,7 +64,7 @@
 | 54 | [sinanata/unity-ui-toolkit-design-system](./sinanata-unity-ui-toolkit-design-system.md) | ⭐ 568 | C# | 63/100 |
 | 55 | [Redot-Engine/redot-engine](./redot-engine-redot-engine.md) | ⭐ 6.2k | C++ | 63/100 |
 | 56 | [RPCS3/rpcs3](./rpcs3-rpcs3.md) | ⭐ 20.4k | C++ | 63/100 |
-| 57 | [doitsujin/dxvk](./doitsujin-dxvk.md) | ⭐ 18.4k | C++ | 63/100 |
+| 57 | [doitsujin/dxvk](./doitsujin-dxvk.md) | ⭐ 18.5k | C++ | 63/100 |
 | 58 | [bjornbytes/lovr](./bjornbytes-lovr.md) | ⭐ 2.6k | C | 63/100 |
 | 59 | [CesiumGS/cesium](./cesiumgs-cesium.md) | ⭐ 15.9k | JavaScript | 63/100 |
 | 60 | [4ian/GDevelop](./4ian-gdevelop.md) | ⭐ 28.7k | JavaScript | 63/100 |
@@ -99,7 +99,7 @@
 | 89 | [gpujs/gpu.js](./gpujs-gpu.js.md) | ⭐ 15.5k | JavaScript | 61/100 |
 | 90 | [rbfx/rbfx](./rbfx-rbfx.md) | ⭐ 1.1k | C++ | 61/100 |
 | 91 | [gogpu/gogpu](./gogpu-gogpu.md) | ⭐ 438 | Go | 61/100 |
-| 92 | [o3de/o3de](./o3de-o3de.md) | ⭐ 9.8k | C++ | 61/100 |
+| 92 | [o3de/o3de](./o3de-o3de.md) | ⭐ 9.9k | C++ | 61/100 |
 | 93 | [KilledByAPixel/LittleJS](./killedbyapixel-littlejs.md) | ⭐ 4.4k | JavaScript | 61/100 |
 | 94 | [gfx-rs/wgpu](./gfx-rs-wgpu.md) | ⭐ 18.5k | Rust | 61/100 |
 | 95 | [kovidgoyal/kitty](./kovidgoyal-kitty.md) | ⭐ 35.6k | Python | 61/100 |

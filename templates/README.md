@@ -13,7 +13,7 @@
 | 3 | [zxwk1998/vue-admin-better](./zxwk1998-vue-admin-better.md) | ⭐ 18.9k | Vue | 89/100 |
 | 4 | [wassim249/fastapi-langgraph-agent-production-ready-template](./wassim249-fastapi-langgraph-agent-production-ready-template.md) | ⭐ 2.7k | Python | 88/100 |
 | 5 | [fastapi/full-stack-fastapi-template](./fastapi-full-stack-fastapi-template.md) | ⭐ 46.2k | TypeScript | 88/100 |
-| 6 | [Kiranism/next-shadcn-dashboard-starter](./kiranism-next-shadcn-dashboard-starter.md) | ⭐ 7.2k | TypeScript | 87/100 |
+| 6 | [Kiranism/next-shadcn-dashboard-starter](./kiranism-next-shadcn-dashboard-starter.md) | ⭐ 7.3k | TypeScript | 87/100 |
 | 7 | [vstorm-co/full-stack-ai-agent-template](./vstorm-co-full-stack-ai-agent-template.md) | ⭐ 2k | Python | 87/100 |
 | 8 | [enescingoz/awesome-n8n-templates](./enescingoz-awesome-n8n-templates.md) | ⭐ 26.4k | — | 86/100 |
 | 9 | [GrapesJS/grapesjs](./grapesjs-grapesjs.md) | ⭐ 26.4k | TypeScript | 86/100 |
@@ -60,7 +60,7 @@
 | 50 | [fastapi-practices/fastapi-best-architecture](./fastapi-practices-fastapi-best-architecture.md) | ⭐ 2.6k | Python | 79/100 |
 | 51 | [synaptiai/prompt-decorators](./synaptiai-prompt-decorators.md) | ⭐ 44 | Python | 79/100 |
 | 52 | [FlorianBruniaux/claude-code-ultimate-guide](./florianbruniaux-claude-code-ultimate-guide.md) | ⭐ 6.4k | TypeScript | 79/100 |
-| 53 | [JCodesMore/ai-website-cloner-template](./jcodesmore-ai-website-cloner-template.md) | ⭐ 38.9k | TypeScript | 79/100 |
+| 53 | [JCodesMore/ai-website-cloner-template](./jcodesmore-ai-website-cloner-template.md) | ⭐ 39k | TypeScript | 79/100 |
 | 54 | [JSONbored/mem0-aio](./jsonbored-mem0-aio.md) | ⭐ 21 | Python | 78/100 |
 | 55 | [virastack/start](./virastack-start.md) | ⭐ 103 | TypeScript | 78/100 |
 | 56 | [arhamkhnz/next-shadcn-admin-dashboard](./arhamkhnz-next-shadcn-admin-dashboard.md) | ⭐ 3.3k | TypeScript | 78/100 |

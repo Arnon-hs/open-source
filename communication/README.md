@@ -17,7 +17,7 @@
 | 7 | [GetStream/stream-chat-react-native](./getstream-stream-chat-react-native.md) | ⭐ 1.2k | TypeScript | 76/100 |
 | 8 | [8go/matrix-commander-rs](./8go-matrix-commander-rs.md) | ⭐ 250 | Rust | 76/100 |
 | 9 | [firebase/firebase-js-sdk](./firebase-firebase-js-sdk.md) | ⭐ 5.2k | TypeScript | 76/100 |
-| 10 | [reacherhq/check-if-email-exists](./reacherhq-check-if-email-exists.md) | ⭐ 10.4k | Rust | 75/100 |
+| 10 | [reacherhq/check-if-email-exists](./reacherhq-check-if-email-exists.md) | ⭐ 10.5k | Rust | 75/100 |
 | 11 | [matrix-org/matrix-js-sdk](./matrix-org-matrix-js-sdk.md) | ⭐ 2.2k | TypeScript | 75/100 |
 | 12 | [opencoredev/email-sdk](./opencoredev-email-sdk.md) | ⭐ 516 | MDX | 75/100 |
 | 13 | [jeboehm/docker-mailserver](./jeboehm-docker-mailserver.md) | ⭐ 478 | Shell | 74/100 |
@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 361 | TypeScript | 65/100 |
@@ -160,7 +160,7 @@
 | 150 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 521 | JavaScript | 60/100 |
 | 151 | [zfogg/ascii-chat](./zfogg-ascii-chat.md) | ⭐ 203 | C | 60/100 |
 | 152 | [apache/activemq](./apache-activemq.md) | ⭐ 2.5k | Java | 60/100 |
-| 153 | [owncast/owncast](./owncast-owncast.md) | ⭐ 11.6k | Go | 60/100 |
+| 153 | [owncast/owncast](./owncast-owncast.md) | ⭐ 11.7k | Go | 60/100 |
 | 154 | [hieunc229/mailflare](./hieunc229-mailflare.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 155 | [freebsd/pkg](./freebsd-pkg.md) | ⭐ 832 | C | 59/100 |
 | 156 | [HQBase/hqbase](./hqbase-hqbase.md) | ⭐ 354 | TypeScript | 59/100 |

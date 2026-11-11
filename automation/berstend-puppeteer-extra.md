@@ -53,7 +53,7 @@ berstend/puppeteer-extra：berstend/puppeteer-extra helps remove repetitive manu
 
 **Quality signals**
 
-- 7420 GitHub stars
+- 7422 GitHub stars
 - 782 forks
 - updated 2026-11-05
 - primary language: JavaScript

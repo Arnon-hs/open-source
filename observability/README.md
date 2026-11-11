@@ -132,7 +132,7 @@
 | 122 | [open-telemetry/opentelemetry-rust](./open-telemetry-opentelemetry-rust.md) | ⭐ 2.8k | Rust | 59/100 |
 | 123 | [zentralopensource/zentral](./zentralopensource-zentral.md) | ⭐ 890 | Python | 59/100 |
 | 124 | [itsDNNS/docsight](./itsdnns-docsight.md) | ⭐ 291 | Python | 59/100 |
-| 125 | [open-telemetry/opentelemetry-collector](./open-telemetry-opentelemetry-collector.md) | ⭐ 7.7k | Go | 59/100 |
+| 125 | [open-telemetry/opentelemetry-collector](./open-telemetry-opentelemetry-collector.md) | ⭐ 7.8k | Go | 59/100 |
 | 126 | [TX230/winproc-tui](./tx230-winproc-tui.md) | ⭐ 122 | Rust | 58/100 |
 | 127 | [tox-dev/platformdirs](./tox-dev-platformdirs.md) | ⭐ 1k | Python | 58/100 |
 | 128 | [openshift/cluster-monitoring-operator](./openshift-cluster-monitoring-operator.md) | ⭐ 266 | Go | 58/100 |

@@ -51,7 +51,7 @@ google/guice：google/guice may be useful when its README and activity match a c
 
 **Quality signals**
 
-- 12730 GitHub stars
+- 12732 GitHub stars
 - 1675 forks
 - updated 2026-11-06
 - primary language: Java

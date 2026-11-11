@@ -51,7 +51,7 @@ QwenLM/Qwen3：QwenLM/Qwen3 may be useful when its README and activity match a c
 
 **Quality signals**
 
-- 27719 GitHub stars
+- 27722 GitHub stars
 - 2102 forks
 - updated 2026-01-09
 - primary language: Python

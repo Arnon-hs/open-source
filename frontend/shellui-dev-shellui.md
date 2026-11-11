@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12 |
+| ⭐ **Stars** | 13 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
 | 📈 **Score** | 52/100 |
@@ -53,7 +53,7 @@ shellui-dev/shellui：shellui-dev/shellui helps ship user-facing interfaces with
 
 **Quality signals**
 
-- 12 GitHub stars
+- 13 GitHub stars
 - updated 2026-11-06
 - primary language: C#
 - 7 topics
@@ -65,11 +65,11 @@ shellui-dev/shellui：shellui-dev/shellui helps ship user-facing interfaces with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 52/100 |
 | integration | 46/100 |
 | production | 58/100 |
 | outlook | 60/100 |
-| adoption | 17/100 |
+| adoption | 18/100 |
 | categoryMatchCount | 200/100 |
 | stars | 24/100 |
 | forks | 0/100 |

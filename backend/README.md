@@ -45,7 +45,7 @@
 | 35 | [hasura/graphql-engine](./hasura-graphql-engine.md) | ⭐ 32.1k | TypeScript | 78/100 |
 | 36 | [tanaikech/goodls](./tanaikech-goodls.md) | ⭐ 545 | Go | 78/100 |
 | 37 | [svg/svgo](./svg-svgo.md) | ⭐ 22.8k | JavaScript | 78/100 |
-| 38 | [public-api-lists/public-api-lists](./public-api-lists-public-api-lists.md) | ⭐ 16.3k | — | 78/100 |
+| 38 | [public-api-lists/public-api-lists](./public-api-lists-public-api-lists.md) | ⭐ 16.4k | — | 78/100 |
 | 39 | [hashicorp/consul](./hashicorp-consul.md) | ⭐ 30.1k | Go | 78/100 |
 | 40 | [nestjs/nest-cli](./nestjs-nest-cli.md) | ⭐ 2.2k | TypeScript | 78/100 |
 | 41 | [Redocly/redocly-cli](./redocly-redocly-cli.md) | ⭐ 1.6k | TypeScript | 77/100 |
@@ -129,7 +129,7 @@
 | 119 | [Unitech/pm2](./unitech-pm2.md) | ⭐ 43.3k | JavaScript | 73/100 |
 | 120 | [moonrepo/moon](./moonrepo-moon.md) | ⭐ 4.2k | Rust | 73/100 |
 | 121 | [lirantal/dockly](./lirantal-dockly.md) | ⭐ 4k | JavaScript | 73/100 |
-| 122 | [npm/cli](./npm-cli.md) | ⭐ 10.2k | JavaScript | 73/100 |
+| 122 | [npm/cli](./npm-cli.md) | ⭐ 10.3k | JavaScript | 73/100 |
 | 123 | [openebs/lvm-localpv](./openebs-lvm-localpv.md) | ⭐ 361 | Go | 73/100 |
 | 124 | [Swetrix/swetrix](./swetrix-swetrix.md) | ⭐ 1.2k | TypeScript | 73/100 |
 | 125 | [baserow/baserow](./baserow-baserow.md) | ⭐ 6.3k | Python | 73/100 |
@@ -256,8 +256,8 @@
 | 246 | [BenLorantfy/nestjs-zod](./benlorantfy-nestjs-zod.md) | ⭐ 1.1k | TypeScript | 68/100 |
 | 247 | [DeepL/deepl-python](./deepl-deepl-python.md) | ⭐ 1.3k | Python | 68/100 |
 | 248 | [nwjs/nw.js](./nwjs-nw.js.md) | ⭐ 41.1k | JavaScript | 68/100 |
-| 249 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2.1k | Go | 68/100 |
-| 250 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 68/100 |
+| 249 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 68/100 |
+| 250 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2.1k | Go | 68/100 |
 | 251 | [DnsChanger/dnsChanger-desktop](./dnschanger-dnschanger-desktop.md) | ⭐ 1.4k | TypeScript | 68/100 |
 | 252 | [launchdarkly/rust-eventsource-client](./launchdarkly-rust-eventsource-client.md) | ⭐ 113 | Rust | 68/100 |
 | 253 | [sequelize/sequelize](./sequelize-sequelize.md) | ⭐ 30.3k | TypeScript | 68/100 |
@@ -603,7 +603,7 @@
 | 593 | [LargeModGames/spotatui](./largemodgames-spotatui.md) | ⭐ 1.8k | Rust | 61/100 |
 | 594 | [flutter/flutter](./flutter-flutter.md) | ⭐ 181.1k | Dart | 61/100 |
 | 595 | [getsentry/sentry-python](./getsentry-sentry-python.md) | ⭐ 2.2k | Python | 61/100 |
-| 596 | [go-git/go-git](./go-git-go-git.md) | ⭐ 7.8k | Go | 61/100 |
+| 596 | [go-git/go-git](./go-git-go-git.md) | ⭐ 7.9k | Go | 61/100 |
 | 597 | [mikopbx/Core](./mikopbx-core.md) | ⭐ 600 | PHP | 61/100 |
 | 598 | [eggjs/egg](./eggjs-egg.md) | ⭐ 19k | TypeScript | 61/100 |
 | 599 | [psuvraneel-cyber/Clone-Proof](./psuvraneel-cyber-clone-proof.md) | ⭐ 1 | JavaScript | 60/100 |
@@ -764,7 +764,7 @@
 | 754 | [ibizaman/selfhostblocks](./ibizaman-selfhostblocks.md) | ⭐ 519 | Nix | 56/100 |
 | 755 | [eclipse-iceoryx/iceoryx2](./eclipse-iceoryx-iceoryx2.md) | ⭐ 2.6k | Rust | 56/100 |
 | 756 | [mytechnotalent/Go-Hacking](./mytechnotalent-go-hacking.md) | ⭐ 383 | Go | 56/100 |
-| 757 | [faker-js/faker](./faker-js-faker.md) | ⭐ 15.5k | TypeScript | 56/100 |
+| 757 | [faker-js/faker](./faker-js-faker.md) | ⭐ 15.6k | TypeScript | 56/100 |
 | 758 | [inducer/relate](./inducer-relate.md) | ⭐ 437 | Python | 56/100 |
 | 759 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 489 | Go | 56/100 |
 | 760 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 193 | TypeScript | 56/100 |

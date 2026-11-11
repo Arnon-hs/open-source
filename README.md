@@ -2,8 +2,8 @@
 
 Find an open-source way to solve a task, compare practical fit, and give your coding agent a grounded starting point. Browse project cards here, search the [AtlasRepo website](https://atlasrepo.com), or use the same catalog through MCP and agent skills.
 
-- **Complete data:** 45,223 indexed projects in a downloadable JSON snapshot.
-- **Focused browsing:** 44,528 project cards across 33 categories with 10+ entries.
+- **Complete data:** 45,226 indexed projects in a downloadable JSON snapshot.
+- **Focused browsing:** 44,530 project cards across 33 categories with 10+ entries.
 - **Practical context:** multilingual summaries, use cases, integration notes, repository signals and score breakdowns.
 - **Open metadata:** MIT-licensed catalog data. Each linked project has its own license.
 
@@ -15,17 +15,17 @@ Start with a main category, then open a project card for its summary and evidenc
 
 | Category | Project cards |
 | --- | ---: |
-| [Misc](./misc/README.md) | 18,188 |
+| [Misc](./misc/README.md) | 18,189 |
 | [AI/ML](./aiml/README.md) | 5,142 |
 | [MCP](./mcp/README.md) | 3,003 |
-| [Orchestration](./orchestration/README.md) | 2,497 |
-| [Automation](./automation/README.md) | 1,670 |
+| [Orchestration](./orchestration/README.md) | 2,498 |
+| [Automation](./automation/README.md) | 1,669 |
 | [DevTools](./devtools/README.md) | 1,661 |
 | [Backend](./backend/README.md) | 990 |
 | [Frontend](./frontend/README.md) | 935 |
 | [Crypto](./crypto/README.md) | 843 |
 | [Documents](./documents/README.md) | 754 |
-| [Mobile](./mobile/README.md) | 706 |
+| [Mobile](./mobile/README.md) | 707 |
 | [Networking](./networking/README.md) | 677 |
 
 [Browse all categories alphabetically](./docs/categories.md)
@@ -42,12 +42,12 @@ Scores help shortlist candidates. They do not establish security, maintenance qu
 | [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | 49,497 | 94/100 |
 | [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | 110,904 | 93/100 |
 | [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | 79,312 | 93/100 |
-| [wasp-lang/open-saas](./templates/wasp-lang-open-saas.md) | 16,290 | 92/100 |
-| [xberg-io/xberg](./mcp/xberg-io-xberg.md) | 9,568 | 91/100 |
+| [wasp-lang/open-saas](./templates/wasp-lang-open-saas.md) | 16,292 | 92/100 |
+| [xberg-io/xberg](./mcp/xberg-io-xberg.md) | 9,574 | 91/100 |
 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | 8,543 | 91/100 |
 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | 6,732 | 91/100 |
 | [langgenius/dify](./orchestration/langgenius-dify.md) | 160,883 | 91/100 |
-| [firerpa/lamda](./mcp/firerpa-lamda.md) | 8,720 | 90/100 |
+| [firerpa/lamda](./mcp/firerpa-lamda.md) | 8,722 | 90/100 |
 
 ## Read the data
 

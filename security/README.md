@@ -40,7 +40,7 @@
 | 30 | [twpayne/chezmoi](./twpayne-chezmoi.md) | ⭐ 22.2k | Go | 66/100 |
 | 31 | [soltia48/suica-viewer](./soltia48-suica-viewer.md) | ⭐ 381 | Python | 66/100 |
 | 32 | [cocomelonc/peekaboo](./cocomelonc-peekaboo.md) | ⭐ 338 | Python | 66/100 |
-| 33 | [mytechnotalent/Reverse-Engineering](./mytechnotalent-reverse-engineering.md) | ⭐ 15.1k | Assembly | 66/100 |
+| 33 | [mytechnotalent/Reverse-Engineering](./mytechnotalent-reverse-engineering.md) | ⭐ 15.2k | Assembly | 66/100 |
 | 34 | [webprofusion/certify](./webprofusion-certify.md) | ⭐ 1.7k | C# | 66/100 |
 | 35 | [rthalley/dnspython](./rthalley-dnspython.md) | ⭐ 2.7k | Python | 65/100 |
 | 36 | [martin-olivier/airgorah](./martin-olivier-airgorah.md) | ⭐ 5.1k | Rust | 65/100 |
@@ -70,7 +70,7 @@
 | 60 | [rubysec/bundler-audit](./rubysec-bundler-audit.md) | ⭐ 2.8k | Ruby | 63/100 |
 | 61 | [knownsec/404StarLink](./knownsec-404starlink.md) | ⭐ 11.5k | — | 63/100 |
 | 62 | [Velocidex/velociraptor](./velocidex-velociraptor.md) | ⭐ 4.4k | Go | 63/100 |
-| 63 | [zaproxy/zaproxy](./zaproxy-zaproxy.md) | ⭐ 16.1k | Java | 63/100 |
+| 63 | [zaproxy/zaproxy](./zaproxy-zaproxy.md) | ⭐ 16.2k | Java | 63/100 |
 | 64 | [radareorg/radare2](./radareorg-radare2.md) | ⭐ 25.4k | C | 63/100 |
 | 65 | [jasveerai88/permission-audit](./jasveerai88-permission-audit.md) | ⭐ — | Python | 63/100 |
 | 66 | [cure53/DOMPurify](./cure53-dompurify.md) | ⭐ 17.5k | JavaScript | 62/100 |
@@ -226,8 +226,8 @@
 | 216 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 360 | Java | 53/100 |
 | 217 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 580 | Nix | 53/100 |
 | 218 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 452 | TypeScript | 53/100 |
-| 219 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 137 | Rust | 53/100 |
-| 220 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
+| 219 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
+| 220 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 137 | Rust | 53/100 |
 | 221 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 222 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 594 | C | 53/100 |
 | 223 | [tkhq/qos](./tkhq-qos.md) | ⭐ 125 | Rust | 53/100 |
@@ -383,8 +383,8 @@
 | 373 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ 5 | — | 42/100 |
 | 374 | [barvhaim/code-security-skills](./barvhaim-code-security-skills.md) | ⭐ 1 | — | 42/100 |
 | 375 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ 6 | — | 42/100 |
-| 376 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
-| 377 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 376 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 377 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
 | 378 | [arm/metis](./arm-metis.md) | ⭐ 892 | — | 42/100 |
 | 379 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 42/100 |
 | 380 | [renton4code/propagate-cli](./renton4code-propagate-cli.md) | ⭐ 3 | — | 42/100 |
@@ -484,8 +484,8 @@
 | 474 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ 43 | — | 38/100 |
 | 475 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ 4 | — | 38/100 |
 | 476 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ 289 | — | 38/100 |
-| 477 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
-| 478 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
+| 477 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
+| 478 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
 | 479 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ 23 | — | 38/100 |
 | 480 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ 11 | — | 38/100 |
 | 481 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ 2 | — | 38/100 |
@@ -500,8 +500,8 @@
 | 490 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 167 | Rust | 38/100 |
 | 491 | [SertaCanbey/IDSignal](./sertacanbey-idsignal.md) | ⭐ 1 | JavaScript | 37/100 |
 | 492 | [TemujinCalidius/FediHome](./temujincalidius-fedihome.md) | ⭐ 10 | — | 37/100 |
-| 493 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
-| 494 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 493 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 494 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
 | 495 | [jaredhanson/passport](./jaredhanson-passport.md) | ⭐ 23.5k | — | 37/100 |
 | 496 | [wrium/password-strength](./wrium-password-strength.md) | ⭐ — | JavaScript | 37/100 |
 | 497 | [IWEBai/railo-action](./iwebai-railo-action.md) | ⭐ — | — | 36/100 |

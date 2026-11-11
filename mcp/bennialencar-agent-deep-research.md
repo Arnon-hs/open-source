@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ BenniAlencar/agent-deep-research: BenniAlencar/agent-deep-research helps connect
 
 ### Русский
 
-BenniAlencar/agent-deep-research: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+BenniAlencar/agent-deep-research: open-source проект в категориях MCP, Automation, AI/ML. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,18 +64,18 @@ BenniAlencar/agent-deep-research：BenniAlencar/agent-deep-research helps connec
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 46/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 88/100 |
+| outlook | 60/100 |
+| quality | 46/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

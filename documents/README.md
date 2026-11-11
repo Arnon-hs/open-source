@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [strapi/strapi](./strapi-strapi.md) | ⭐ 73.5k | TypeScript | 85/100 |
 | 2 | [markdown-it/markdown-it](./markdown-it-markdown-it.md) | ⭐ 22k | TypeScript | 82/100 |
-| 3 | [gotenberg/gotenberg](./gotenberg-gotenberg.md) | ⭐ 13.5k | Go | 80/100 |
+| 3 | [gotenberg/gotenberg](./gotenberg-gotenberg.md) | ⭐ 13.6k | Go | 80/100 |
 | 4 | [mediacms-io/mediacms](./mediacms-io-mediacms.md) | ⭐ 5.2k | JavaScript | 79/100 |
 | 5 | [NiklasRosenstein/pydoc-markdown](./niklasrosenstein-pydoc-markdown.md) | ⭐ 502 | Python | 78/100 |
 | 6 | [papis/papis](./papis-papis.md) | ⭐ 1.8k | HTML | 77/100 |
@@ -193,7 +193,7 @@
 | 183 | [umbraco/Umbraco-CMS](./umbraco-umbraco-cms.md) | ⭐ 5.3k | C# | 61/100 |
 | 184 | [PSPDFKit/pdf-to-markdown](./pspdfkit-pdf-to-markdown.md) | ⭐ 356 | Shell | 61/100 |
 | 185 | [zhashut/goread](./zhashut-goread.md) | ⭐ 637 | TypeScript | 61/100 |
-| 186 | [flxzt/rnote](./flxzt-rnote.md) | ⭐ 11.8k | Rust | 61/100 |
+| 186 | [flxzt/rnote](./flxzt-rnote.md) | ⭐ 11.9k | Rust | 61/100 |
 | 187 | [yukiyokotani/office-open-xml-viewer](./yukiyokotani-office-open-xml-viewer.md) | ⭐ 876 | TypeScript | 61/100 |
 | 188 | [marph91/jimmy](./marph91-jimmy.md) | ⭐ 543 | Python | 61/100 |
 | 189 | [sumatrapdfreader/sumatrapdf](./sumatrapdfreader-sumatrapdf.md) | ⭐ 18k | C | 61/100 |
@@ -402,7 +402,7 @@
 | 392 | [standardebooks/tools](./standardebooks-tools.md) | ⭐ 1.7k | HTML | 53/100 |
 | 393 | [vnotex/vnote](./vnotex-vnote.md) | ⭐ 13k | C++ | 53/100 |
 | 394 | [mdx-editor/editor](./mdx-editor-editor.md) | ⭐ 3.7k | TypeScript | 53/100 |
-| 395 | [emdash-cms/emdash](./emdash-cms-emdash.md) | ⭐ 14.3k | TypeScript | 53/100 |
+| 395 | [emdash-cms/emdash](./emdash-cms-emdash.md) | ⭐ 14.4k | TypeScript | 53/100 |
 | 396 | [foisalislambd/openpress](./foisalislambd-openpress.md) | ⭐ 1 | TypeScript | 53/100 |
 | 397 | [philippprimisser-max/ted-tender-alerts](./philippprimisser-max-ted-tender-alerts.md) | ⭐ — | Python | 52/100 |
 | 398 | [krotname/NppMarkdownTableEditor](./krotname-nppmarkdowntableeditor.md) | ⭐ 8 | C++ | 52/100 |
@@ -537,17 +537,17 @@
 | 527 | [bigbag/papyrix-reader](./bigbag-papyrix-reader.md) | ⭐ 510 | C | 45/100 |
 | 528 | [RivoLink/leaf](./rivolink-leaf.md) | ⭐ 2.4k | Rust | 45/100 |
 | 529 | [edragoev1/pdfjet](./edragoev1-pdfjet.md) | ⭐ 31 | — | 44/100 |
-| 530 | [OlegChe77/leaflet](./olegche77-leaflet.md) | ⭐ 21 | C# | 44/100 |
-| 531 | [luoy16002-svg/tickmark](./luoy16002-svg-tickmark.md) | ⭐ — | TypeScript | 44/100 |
-| 532 | [jaronilan/stories](./jaronilan-stories.md) | ⭐ — | — | 44/100 |
-| 533 | [ulrischa/MarkyDown](./ulrischa-markydown.md) | ⭐ 4 | — | 44/100 |
-| 534 | [mini-software/MiniPdf](./mini-software-minipdf.md) | ⭐ 509 | — | 44/100 |
-| 535 | [docuqueue/docuqueue-plugin](./docuqueue-docuqueue-plugin.md) | ⭐ — | — | 44/100 |
-| 536 | [joshka/tui-markdown](./joshka-tui-markdown.md) | ⭐ 118 | Rust | 44/100 |
-| 537 | [mdlight-dev/mdlight](./mdlight-dev-mdlight.md) | ⭐ 6 | — | 44/100 |
-| 538 | [novalagung/dasarpemrogramanrust](./novalagung-dasarpemrogramanrust.md) | ⭐ 385 | Rust | 44/100 |
-| 539 | [plone/volto](./plone-volto.md) | ⭐ 606 | JavaScript | 44/100 |
-| 540 | [mafzalkalwardev/tapvio](./mafzalkalwardev-tapvio.md) | ⭐ — | HTML | 44/100 |
+| 530 | [mafzalkalwardev/tapvio](./mafzalkalwardev-tapvio.md) | ⭐ — | HTML | 44/100 |
+| 531 | [OlegChe77/leaflet](./olegche77-leaflet.md) | ⭐ 21 | C# | 44/100 |
+| 532 | [luoy16002-svg/tickmark](./luoy16002-svg-tickmark.md) | ⭐ — | TypeScript | 44/100 |
+| 533 | [jaronilan/stories](./jaronilan-stories.md) | ⭐ — | — | 44/100 |
+| 534 | [ulrischa/MarkyDown](./ulrischa-markydown.md) | ⭐ 4 | — | 44/100 |
+| 535 | [mini-software/MiniPdf](./mini-software-minipdf.md) | ⭐ 509 | — | 44/100 |
+| 536 | [docuqueue/docuqueue-plugin](./docuqueue-docuqueue-plugin.md) | ⭐ — | — | 44/100 |
+| 537 | [joshka/tui-markdown](./joshka-tui-markdown.md) | ⭐ 118 | Rust | 44/100 |
+| 538 | [mdlight-dev/mdlight](./mdlight-dev-mdlight.md) | ⭐ 6 | — | 44/100 |
+| 539 | [novalagung/dasarpemrogramanrust](./novalagung-dasarpemrogramanrust.md) | ⭐ 385 | Rust | 44/100 |
+| 540 | [plone/volto](./plone-volto.md) | ⭐ 606 | JavaScript | 44/100 |
 | 541 | [POL0ROID/Atari7800XT](./pol0roid-atari7800xt.md) | ⭐ 3 | — | 43/100 |
 | 542 | [williamhumbwavali/bando-blog](./williamhumbwavali-bando-blog.md) | ⭐ 1 | TypeScript | 43/100 |
 | 543 | [vincent-uden/miro](./vincent-uden-miro.md) | ⭐ 557 | Rust | 43/100 |
@@ -713,8 +713,8 @@
 | 703 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
 | 704 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 705 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
-| 706 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
-| 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 706 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
 | 708 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
 | 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |
@@ -747,8 +747,8 @@
 | 737 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ 2 | — | 38/100 |
 | 738 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 739 | [bruits/satteri](./bruits-satteri.md) | ⭐ 1.3k | — | 38/100 |
-| 740 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
-| 741 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 740 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 741 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
 | 742 | [JagaTheGhost/visualmark-studio](./jagatheghost-visualmark-studio.md) | ⭐ 11 | JavaScript | 37/100 |
 | 743 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 744 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |
