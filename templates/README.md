@@ -84,7 +84,7 @@
 | 74 | [bitwize-music-studio/claude-ai-music-skills](./bitwize-music-studio-claude-ai-music-skills.md) | ⭐ 655 | Python | 77/100 |
 | 75 | [Sri-Krishna-V/awesome-adk-agents](./sri-krishna-v-awesome-adk-agents.md) | ⭐ 352 | Python | 77/100 |
 | 76 | [fabriziosalmi/lws](./fabriziosalmi-lws.md) | ⭐ 75 | Python | 77/100 |
-| 77 | [davila7/claude-code-templates](./davila7-claude-code-templates.md) | ⭐ 33.3k | Python | 77/100 |
+| 77 | [davila7/claude-code-templates](./davila7-claude-code-templates.md) | ⭐ 33.4k | Python | 77/100 |
 | 78 | [OpenTouryoProject/OpenTouryo](./opentouryoproject-opentouryo.md) | ⭐ 238 | C# | 76/100 |
 | 79 | [vbenjs/vue-vben-admin](./vbenjs-vue-vben-admin.md) | ⭐ 33.8k | Vue | 76/100 |
 | 80 | [e2b-dev/fragments](./e2b-dev-fragments.md) | ⭐ 6.4k | TypeScript | 76/100 |
@@ -209,7 +209,7 @@
 | 199 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 976 | Go Template | 69/100 |
 | 200 | [codewithMUHILAN/Lightswind-UI-Library](./codewithmuhilan-lightswind-ui-library.md) | ⭐ 1.3k | TypeScript | 69/100 |
 | 201 | [promptdriven/pdd](./promptdriven-pdd.md) | ⭐ 934 | Python | 69/100 |
-| 202 | [n8n-io/self-hosted-ai-starter-kit](./n8n-io-self-hosted-ai-starter-kit.md) | ⭐ 15.3k | — | 68/100 |
+| 202 | [n8n-io/self-hosted-ai-starter-kit](./n8n-io-self-hosted-ai-starter-kit.md) | ⭐ 15.4k | — | 68/100 |
 | 203 | [fabwaseem/forgekit](./fabwaseem-forgekit.md) | ⭐ — | TypeScript | 68/100 |
 | 204 | [MinaSaad1/n8n-ai-agents](./minasaad1-n8n-ai-agents.md) | ⭐ 13 | — | 68/100 |
 | 205 | [ZSeven-W/dsh-crew](./zseven-w-dsh-crew.md) | ⭐ 210 | JavaScript | 68/100 |

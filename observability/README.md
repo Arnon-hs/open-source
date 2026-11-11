@@ -152,7 +152,7 @@
 | 142 | [jaegertracing/jaeger](./jaegertracing-jaeger.md) | ⭐ 23.4k | Go | 57/100 |
 | 143 | [ilya-zlobintsev/LACT](./ilya-zlobintsev-lact.md) | ⭐ 5.9k | Rust | 57/100 |
 | 144 | [google/perfetto](./google-perfetto.md) | ⭐ 6.8k | C++ | 57/100 |
-| 145 | [grafana/loki](./grafana-loki.md) | ⭐ 29.1k | Go | 57/100 |
+| 145 | [grafana/loki](./grafana-loki.md) | ⭐ 29.2k | Go | 57/100 |
 | 146 | [grafana/mimir](./grafana-mimir.md) | ⭐ 5.3k | Go | 57/100 |
 | 147 | [hedhyw/json-log-viewer](./hedhyw-json-log-viewer.md) | ⭐ 244 | Go | 56/100 |
 | 148 | [laravel/nightwatch](./laravel-nightwatch.md) | ⭐ 379 | PHP | 56/100 |

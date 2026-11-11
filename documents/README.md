@@ -98,7 +98,7 @@
 | 88 | [superstarryeyes/lue](./superstarryeyes-lue.md) | ⭐ 787 | Python | 66/100 |
 | 89 | [slidevjs/slidev](./slidevjs-slidev.md) | ⭐ 49.4k | TypeScript | 66/100 |
 | 90 | [chrisguttandin/angular-prerender](./chrisguttandin-angular-prerender.md) | ⭐ 128 | JavaScript | 66/100 |
-| 91 | [obsidianmd/obsidian-releases](./obsidianmd-obsidian-releases.md) | ⭐ 23.3k | — | 66/100 |
+| 91 | [obsidianmd/obsidian-releases](./obsidianmd-obsidian-releases.md) | ⭐ 23.2k | — | 66/100 |
 | 92 | [payloadcms/payload](./payloadcms-payload.md) | ⭐ 45.8k | TypeScript | 66/100 |
 | 93 | [JimmXinu/FanFicFare](./jimmxinu-fanficfare.md) | ⭐ 1.1k | Python | 66/100 |
 | 94 | [directus/directus](./directus-directus.md) | ⭐ 38.7k | TypeScript | 66/100 |
@@ -211,10 +211,10 @@
 | 201 | [rstudio/bookdown](./rstudio-bookdown.md) | ⭐ 4.1k | JavaScript | 60/100 |
 | 202 | [kjur/jsrsasign](./kjur-jsrsasign.md) | ⭐ 3.4k | HTML | 60/100 |
 | 203 | [Chaptarr/chaptarr](./chaptarr-chaptarr.md) | ⭐ 771 | C# | 60/100 |
-| 204 | [immersive-translate/immersive-translate](./immersive-translate-immersive-translate.md) | ⭐ 19.7k | — | 60/100 |
+| 204 | [immersive-translate/immersive-translate](./immersive-translate-immersive-translate.md) | ⭐ 19.8k | — | 60/100 |
 | 205 | [Chenruishuo/posterly](./chenruishuo-posterly.md) | ⭐ 437 | Python | 60/100 |
 | 206 | [mozilla/pdf.js](./mozilla-pdf.js.md) | ⭐ 54.1k | JavaScript | 60/100 |
-| 207 | [virgiliojr94/book-to-skill](./virgiliojr94-book-to-skill.md) | ⭐ 37.5k | Python | 60/100 |
+| 207 | [virgiliojr94/book-to-skill](./virgiliojr94-book-to-skill.md) | ⭐ 37.6k | Python | 60/100 |
 | 208 | [react-native-documents/document-picker](./react-native-documents-document-picker.md) | ⭐ 1.5k | TypeScript | 60/100 |
 | 209 | [tw93/MiaoYan](./tw93-miaoyan.md) | ⭐ 8.8k | Swift | 60/100 |
 | 210 | [kanasimi/work_crawler](./kanasimi-work-crawler.md) | ⭐ 4.4k | JavaScript | 60/100 |
@@ -715,8 +715,8 @@
 | 705 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
 | 706 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
 | 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 708 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
-| 709 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 708 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |
 | 711 | [grinev/boardown](./grinev-boardown.md) | ⭐ 46 | — | 38/100 |
 | 712 | [dsbitor/technotes-releases](./dsbitor-technotes-releases.md) | ⭐ 1 | — | 38/100 |

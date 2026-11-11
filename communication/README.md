@@ -32,7 +32,7 @@
 | 22 | [pact-foundation/pact-js](./pact-foundation-pact-js.md) | ⭐ 1.8k | TypeScript | 73/100 |
 | 23 | [slackapi/bolt-js](./slackapi-bolt-js.md) | ⭐ 3k | TypeScript | 73/100 |
 | 24 | [ovh/venom](./ovh-venom.md) | ⭐ 1.2k | Go | 72/100 |
-| 25 | [chatwoot/chatwoot](./chatwoot-chatwoot.md) | ⭐ 39.6k | Ruby | 72/100 |
+| 25 | [chatwoot/chatwoot](./chatwoot-chatwoot.md) | ⭐ 39.7k | Ruby | 72/100 |
 | 26 | [rustmailer/bichon](./rustmailer-bichon.md) | ⭐ 2.1k | TypeScript | 72/100 |
 | 27 | [muhammedaksam/waha-tui](./muhammedaksam-waha-tui.md) | ⭐ 413 | TypeScript | 72/100 |
 | 28 | [jchultarsky/mirador](./jchultarsky-mirador.md) | ⭐ 328 | Rust | 71/100 |
@@ -253,7 +253,7 @@
 | 243 | [nextcloud/calendar](./nextcloud-calendar.md) | ⭐ 1.2k | JavaScript | 53/100 |
 | 244 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 958 | JavaScript | 53/100 |
 | 245 | [resend/react-email](./resend-react-email.md) | ⭐ 19.9k | TypeScript | 53/100 |
-| 246 | [stalwartlabs/stalwart](./stalwartlabs-stalwart.md) | ⭐ 15.8k | Rust | 53/100 |
+| 246 | [stalwartlabs/stalwart](./stalwartlabs-stalwart.md) | ⭐ 15.9k | Rust | 53/100 |
 | 247 | [Felix-Helleckes/ICQ](./felix-helleckes-icq.md) | ⭐ 9 | JavaScript | 52/100 |
 | 248 | [PijarAdiluhung/mabims-hijri](./pijaradiluhung-mabims-hijri.md) | ⭐ 1 | TypeScript | 52/100 |
 | 249 | [drewmt/lineweb-social](./drewmt-lineweb-social.md) | ⭐ 14 | PHP | 52/100 |
@@ -362,8 +362,8 @@
 | 352 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 353 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 354 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
-| 356 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 356 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
 | 357 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 358 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 359 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

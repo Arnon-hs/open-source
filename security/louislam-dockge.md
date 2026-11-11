@@ -53,7 +53,7 @@ louislam/dockge：louislam/dockge helps catch security and privacy issues earlie
 
 **Quality signals**
 
-- 24797 GitHub stars
+- 24805 GitHub stars
 - 870 forks
 - updated 2026-11-08
 - primary language: TypeScript

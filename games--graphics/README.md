@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [bkaradzic/bgfx](./bkaradzic-bgfx.md) | ⭐ 17.6k | C | 79/100 |
 | 2 | [evennia/evennia](./evennia-evennia.md) | ⭐ 2.1k | Python | 73/100 |
-| 3 | [visgl/deck.gl](./visgl-deck.gl.md) | ⭐ 14.7k | TypeScript | 73/100 |
+| 3 | [visgl/deck.gl](./visgl-deck.gl.md) | ⭐ 14.8k | TypeScript | 73/100 |
 | 4 | [google/filament](./google-filament.md) | ⭐ 20.7k | C++ | 71/100 |
 | 5 | [assimp/assimp](./assimp-assimp.md) | ⭐ 13.3k | C++ | 70/100 |
 | 6 | [IppClub/Dora-SSR](./ippclub-dora-ssr.md) | ⭐ 543 | C++ | 70/100 |
@@ -101,7 +101,7 @@
 | 91 | [o3de/o3de](./o3de-o3de.md) | ⭐ 9.9k | C++ | 61/100 |
 | 92 | [KilledByAPixel/LittleJS](./killedbyapixel-littlejs.md) | ⭐ 4.4k | JavaScript | 61/100 |
 | 93 | [gfx-rs/wgpu](./gfx-rs-wgpu.md) | ⭐ 18.5k | Rust | 61/100 |
-| 94 | [kovidgoyal/kitty](./kovidgoyal-kitty.md) | ⭐ 35.6k | Python | 61/100 |
+| 94 | [kovidgoyal/kitty](./kovidgoyal-kitty.md) | ⭐ 35.7k | Python | 61/100 |
 | 95 | [ozkl/doomgeneric](./ozkl-doomgeneric.md) | ⭐ 2.2k | C | 61/100 |
 | 96 | [rudra496/cnc](./rudra496-cnc.md) | ⭐ 16 | TypeScript | 60/100 |
 | 97 | [mitsuba-renderer/nanogui](./mitsuba-renderer-nanogui.md) | ⭐ 1.8k | C++ | 60/100 |

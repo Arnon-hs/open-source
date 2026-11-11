@@ -58,7 +58,7 @@
 | 48 | [phpList/phplist3](./phplist-phplist3.md) | ⭐ 883 | PHP | 69/100 |
 | 49 | [zth0828/mmx-mcp-server](./zth0828-mmx-mcp-server.md) | ⭐ 30 | JavaScript | 69/100 |
 | 50 | [stabgan/openrouter-mcp-multimodal](./stabgan-openrouter-mcp-multimodal.md) | ⭐ 102 | TypeScript | 69/100 |
-| 51 | [Anil-matcha/Open-Generative-AI](./anil-matcha-open-generative-ai.md) | ⭐ 33.9k | JavaScript | 69/100 |
+| 51 | [Anil-matcha/Open-Generative-AI](./anil-matcha-open-generative-ai.md) | ⭐ 34.1k | JavaScript | 69/100 |
 | 52 | [utensils/mold](./utensils-mold.md) | ⭐ 57 | Rust | 68/100 |
 | 53 | [Kuhakucai/douyin-mcp](./kuhakucai-douyin-mcp.md) | ⭐ 90 | Python | 68/100 |
 | 54 | [backblaze-labs/genblaze](./backblaze-labs-genblaze.md) | ⭐ 549 | Python | 68/100 |
@@ -75,7 +75,7 @@
 | 65 | [merterbak/Grok-MCP](./merterbak-grok-mcp.md) | ⭐ 55 | Python | 66/100 |
 | 66 | [hao-ai-lab/FastVideo](./hao-ai-lab-fastvideo.md) | ⭐ 4.8k | Python | 66/100 |
 | 67 | [benlamiro/ShipGenAI](./benlamiro-shipgenai.md) | ⭐ 258 | JavaScript | 66/100 |
-| 68 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 24.2k | Go | 66/100 |
+| 68 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 24.3k | Go | 66/100 |
 | 69 | [mx-space/core](./mx-space-core.md) | ⭐ 567 | TypeScript | 66/100 |
 | 70 | [wanshuiyin/ARIS-in-AI-Offer](./wanshuiyin-aris-in-ai-offer.md) | ⭐ 649 | Python | 65/100 |
 | 71 | [Jamailar/Beav](./jamailar-beav.md) | ⭐ 2.4k | TypeScript | 65/100 |
@@ -98,7 +98,7 @@
 | 88 | [frankzch/ai-news-skill](./frankzch-ai-news-skill.md) | ⭐ 23 | Python | 61/100 |
 | 89 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
 | 90 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 23 | Python | 61/100 |
-| 91 | [Wan-Video/Wan2.2](./wan-video-wan2.2.md) | ⭐ 18.5k | Python | 60/100 |
+| 91 | [Wan-Video/Wan2.2](./wan-video-wan2.2.md) | ⭐ 18.6k | Python | 60/100 |
 | 92 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 206 | — | 60/100 |
 | 93 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 158 | Vue | 60/100 |
 | 94 | [WaveSpeedAI/mcp-server](./wavespeedai-mcp-server.md) | ⭐ 36 | TypeScript | 59/100 |

@@ -57,7 +57,7 @@
 | 47 | [sissbruecker/linkding](./sissbruecker-linkding.md) | ⭐ 11.4k | Python | 70/100 |
 | 48 | [kubernetes/sample-controller](./kubernetes-sample-controller.md) | ⭐ 3.5k | Go | 70/100 |
 | 49 | [kubernetes-sigs/alibaba-cloud-csi-driver](./kubernetes-sigs-alibaba-cloud-csi-driver.md) | ⭐ 588 | Go | 70/100 |
-| 50 | [winapps-org/winapps](./winapps-org-winapps.md) | ⭐ 16.1k | Shell | 69/100 |
+| 50 | [winapps-org/winapps](./winapps-org-winapps.md) | ⭐ 16.2k | Shell | 69/100 |
 | 51 | [projectcapsule/capsule](./projectcapsule-capsule.md) | ⭐ 2.2k | Go | 69/100 |
 | 52 | [dannymcc/may](./dannymcc-may.md) | ⭐ 273 | HTML | 69/100 |
 | 53 | [jupyter/docker-stacks](./jupyter-docker-stacks.md) | ⭐ 8.5k | Python | 69/100 |
@@ -484,8 +484,8 @@
 | 474 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 475 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 476 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 477 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
-| 478 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 477 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 478 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
 | 479 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 480 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 481 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |

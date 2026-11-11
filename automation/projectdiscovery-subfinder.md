@@ -53,8 +53,8 @@ projectdiscovery/subfinder：projectdiscovery/subfinder helps remove repetitive 
 
 **Quality signals**
 
-- 14770 GitHub stars
-- 1647 forks
+- 14779 GitHub stars
+- 1648 forks
 - updated 2026-11-05
 - primary language: Go
 - 11 topics

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 99 |
+| ⭐ **Stars** | 100 |
 | 🍴 **Forks** | 31 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 83/100 |
@@ -53,7 +53,7 @@ FROWNINGdev/orm-lens：FROWNINGdev/orm-lens helps connect AI assistants to real 
 
 **Quality signals**
 
-- 99 GitHub stars
+- 100 GitHub stars
 - 31 forks
 - updated 2026-11-10
 - primary language: Python

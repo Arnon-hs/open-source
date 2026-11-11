@@ -89,7 +89,7 @@
 | 79 | [surveyjs/survey-creator](./surveyjs-survey-creator.md) | ⭐ 1.3k | TypeScript | 70/100 |
 | 80 | [evanw/esbuild](./evanw-esbuild.md) | ⭐ 40.1k | Go | 70/100 |
 | 81 | [react-grid-layout/react-grid-layout](./react-grid-layout-react-grid-layout.md) | ⭐ 22.5k | TypeScript | 70/100 |
-| 82 | [pmndrs/react-three-fiber](./pmndrs-react-three-fiber.md) | ⭐ 33.6k | TypeScript | 70/100 |
+| 82 | [pmndrs/react-three-fiber](./pmndrs-react-three-fiber.md) | ⭐ 33.7k | TypeScript | 70/100 |
 | 83 | [ziex-dev/ziex](./ziex-dev-ziex.md) | ⭐ 421 | Zig | 70/100 |
 | 84 | [divkit/divkit](./divkit-divkit.md) | ⭐ 2.7k | Kotlin | 70/100 |
 | 85 | [obsfx/libgen-downloader](./obsfx-libgen-downloader.md) | ⭐ 470 | TypeScript | 70/100 |
@@ -98,7 +98,7 @@
 | 88 | [Yooooomi/your_spotify](./yooooomi-your-spotify.md) | ⭐ 4.6k | TypeScript | 70/100 |
 | 89 | [w3bdesign/nextjs-woocommerce](./w3bdesign-nextjs-woocommerce.md) | ⭐ 610 | TypeScript | 70/100 |
 | 90 | [react/react-native](./react-react-native.md) | ⭐ 126.9k | C++ | 70/100 |
-| 91 | [karakeep-app/karakeep](./karakeep-app-karakeep.md) | ⭐ 30.4k | TypeScript | 70/100 |
+| 91 | [karakeep-app/karakeep](./karakeep-app-karakeep.md) | ⭐ 30.5k | TypeScript | 70/100 |
 | 92 | [middleapi/orpc](./middleapi-orpc.md) | ⭐ 5.8k | TypeScript | 70/100 |
 | 93 | [umijs/qiankun](./umijs-qiankun.md) | ⭐ 16.7k | TypeScript | 70/100 |
 | 94 | [Karanjot786/TermUI](./karanjot786-termui.md) | ⭐ 239 | TypeScript | 70/100 |
@@ -176,7 +176,7 @@
 | 166 | [sgoudelis/ground-station](./sgoudelis-ground-station.md) | ⭐ 4.9k | JavaScript | 67/100 |
 | 167 | [web-infra-dev/rsbuild](./web-infra-dev-rsbuild.md) | ⭐ 3.4k | TypeScript | 67/100 |
 | 168 | [denho/faved](./denho-faved.md) | ⭐ 1.4k | TypeScript | 67/100 |
-| 169 | [opf/openproject](./opf-openproject.md) | ⭐ 17.2k | Ruby | 67/100 |
+| 169 | [opf/openproject](./opf-openproject.md) | ⭐ 17.3k | Ruby | 67/100 |
 | 170 | [SAPTARSHI-coder/EaseMotion-css](./saptarshi-coder-easemotion-css.md) | ⭐ 1 | HTML | 67/100 |
 | 171 | [lingdojo/kana-dojo](./lingdojo-kana-dojo.md) | ⭐ 3.8k | TypeScript | 67/100 |
 | 172 | [Rabithua/Rote](./rabithua-rote.md) | ⭐ 1.1k | TypeScript | 67/100 |
@@ -445,7 +445,7 @@
 | 435 | [flipt-io/flipt](./flipt-io-flipt.md) | ⭐ 4.9k | Go | 61/100 |
 | 436 | [tangly1024/NotionNext](./tangly1024-notionnext.md) | ⭐ 11.4k | JavaScript | 61/100 |
 | 437 | [czy0729/Bangumi](./czy0729-bangumi.md) | ⭐ 6.2k | TypeScript | 61/100 |
-| 438 | [slint-ui/slint](./slint-ui-slint.md) | ⭐ 24.5k | Rust | 61/100 |
+| 438 | [slint-ui/slint](./slint-ui-slint.md) | ⭐ 24.6k | Rust | 61/100 |
 | 439 | [sanskarIN/RepoDNA](./sanskarin-repodna.md) | ⭐ 8 | Rust | 60/100 |
 | 440 | [contactumairrana/omnitools-community](./contactumairrana-omnitools-community.md) | ⭐ — | — | 60/100 |
 | 441 | [bionic-tech/fathomline](./bionic-tech-fathomline.md) | ⭐ 2 | Python | 60/100 |
@@ -603,7 +603,7 @@
 | 593 | [element-plus/element-plus](./element-plus-element-plus.md) | ⭐ 27.8k | TypeScript | 58/100 |
 | 594 | [facebook/docusaurus](./facebook-docusaurus.md) | ⭐ 64.9k | TypeScript | 58/100 |
 | 595 | [usekaneo/kaneo](./usekaneo-kaneo.md) | ⭐ 9.8k | TypeScript | 58/100 |
-| 596 | [wailsapp/wails](./wailsapp-wails.md) | ⭐ 37k | Go | 58/100 |
+| 596 | [wailsapp/wails](./wailsapp-wails.md) | ⭐ 37.1k | Go | 58/100 |
 | 597 | [mui/material-ui](./mui-material-ui.md) | ⭐ 99.3k | JavaScript | 58/100 |
 | 598 | [recharts/recharts](./recharts-recharts.md) | ⭐ 27.7k | TypeScript | 58/100 |
 | 599 | [t8y2/dbx](./t8y2-dbx.md) | ⭐ 29.9k | Vue | 58/100 |
@@ -655,7 +655,7 @@
 | 645 | [jaegertracing/jaeger-ui](./jaegertracing-jaeger-ui.md) | ⭐ 1.5k | TypeScript | 57/100 |
 | 646 | [vizia/vizia](./vizia-vizia.md) | ⭐ 2.4k | Rust | 57/100 |
 | 647 | [SayYoungMan/tfui](./sayyoungman-tfui.md) | ⭐ 217 | Go | 57/100 |
-| 648 | [CapSoftware/Cap](./capsoftware-cap.md) | ⭐ 24.8k | TypeScript | 57/100 |
+| 648 | [CapSoftware/Cap](./capsoftware-cap.md) | ⭐ 24.9k | TypeScript | 57/100 |
 | 649 | [gui-cs/Terminal.Gui](./gui-cs-terminal.gui.md) | ⭐ 11k | C# | 57/100 |
 | 650 | [Automattic/jetpack](./automattic-jetpack.md) | ⭐ 1.9k | PHP | 57/100 |
 | 651 | [vscodev/neokikoeru](./vscodev-neokikoeru.md) | ⭐ 645 | — | 57/100 |
@@ -755,8 +755,8 @@
 | 745 | [sanusart/react-dropdown-select](./sanusart-react-dropdown-select.md) | ⭐ 365 | JavaScript | 54/100 |
 | 746 | [blackfyre/wga](./blackfyre-wga.md) | ⭐ 193 | Go | 54/100 |
 | 747 | [IT-BAER/proxmorph](./it-baer-proxmorph.md) | ⭐ 637 | CSS | 54/100 |
-| 748 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 885 | Rust | 54/100 |
-| 749 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
+| 748 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
+| 749 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 885 | Rust | 54/100 |
 | 750 | [coi/coi](./coi-coi.md) | ⭐ 568 | C++ | 54/100 |
 | 751 | [lvzhenbo/115-plus-desktop](./lvzhenbo-115-plus-desktop.md) | ⭐ 384 | Rust | 54/100 |
 | 752 | [rust-ui/ui](./rust-ui-ui.md) | ⭐ 809 | Rust | 54/100 |

@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [gogs/gogs](./gogs-gogs.md) | ⭐ 47.9k | Go | 76/100 |
-| 2 | [gitroomhq/postiz-app](./gitroomhq-postiz-app.md) | ⭐ 41.3k | TypeScript | 76/100 |
+| 2 | [gitroomhq/postiz-app](./gitroomhq-postiz-app.md) | ⭐ 41.4k | TypeScript | 76/100 |
 | 3 | [labring/sealos](./labring-sealos.md) | ⭐ 18.4k | TypeScript | 76/100 |
 | 4 | [lionsoul2014/ip2region](./lionsoul2014-ip2region.md) | ⭐ 19.9k | Java | 75/100 |
 | 5 | [VictoriaMetrics/VictoriaMetrics](./victoriametrics-victoriametrics.md) | ⭐ 18.1k | Go | 74/100 |
@@ -26,7 +26,7 @@
 | 16 | [redis/redis-py](./redis-redis-py.md) | ⭐ 13.7k | Python | 70/100 |
 | 17 | [FirebirdSQL/firebird](./firebirdsql-firebird.md) | ⭐ 1.5k | C++ | 70/100 |
 | 18 | [mher/flower](./mher-flower.md) | ⭐ 7.2k | Python | 69/100 |
-| 19 | [sqlc-dev/sqlc](./sqlc-dev-sqlc.md) | ⭐ 18.4k | Go | 69/100 |
+| 19 | [sqlc-dev/sqlc](./sqlc-dev-sqlc.md) | ⭐ 18.5k | Go | 69/100 |
 | 20 | [vitessio/vitess](./vitessio-vitess.md) | ⭐ 21.4k | Go | 69/100 |
 | 21 | [calcom/cal.diy](./calcom-cal.diy.md) | ⭐ 49.9k | TypeScript | 69/100 |
 | 22 | [unjs/unstorage](./unjs-unstorage.md) | ⭐ 2.7k | TypeScript | 68/100 |
@@ -35,7 +35,7 @@
 | 25 | [percona/pmm](./percona-pmm.md) | ⭐ 1.1k | Go | 68/100 |
 | 26 | [sidorares/node-mysql2](./sidorares-node-mysql2.md) | ⭐ 4.4k | TypeScript | 68/100 |
 | 27 | [brianc/node-postgres](./brianc-node-postgres.md) | ⭐ 13.2k | JavaScript | 68/100 |
-| 28 | [transact-rs/sqlx](./transact-rs-sqlx.md) | ⭐ 17.6k | Rust | 67/100 |
+| 28 | [transact-rs/sqlx](./transact-rs-sqlx.md) | ⭐ 17.7k | Rust | 67/100 |
 | 29 | [pgsty/pigsty](./pgsty-pigsty.md) | ⭐ 5.9k | Shell | 67/100 |
 | 30 | [geotools/geotools](./geotools-geotools.md) | ⭐ 1.9k | Java | 67/100 |
 | 31 | [dbfixtures/pytest-postgresql](./dbfixtures-pytest-postgresql.md) | ⭐ 533 | Python | 67/100 |
@@ -576,8 +576,8 @@
 | 566 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 567 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 568 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 105 | — | 38/100 |
-| 569 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
-| 570 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
+| 569 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
+| 570 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
 | 571 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 572 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 573 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

@@ -73,7 +73,7 @@
 | 63 | [tanaikech/taking-advantage-of-google-apps-script](./tanaikech-taking-advantage-of-google-apps-script.md) | ⭐ 456 | — | 76/100 |
 | 64 | [MobSF/Mobile-Security-Framework-MobSF](./mobsf-mobile-security-framework-mobsf.md) | ⭐ 22.2k | JavaScript | 76/100 |
 | 65 | [thobiasn/tori-cli](./thobiasn-tori-cli.md) | ⭐ 319 | Go | 76/100 |
-| 66 | [getsentry/sentry](./getsentry-sentry.md) | ⭐ 45.7k | Python | 76/100 |
+| 66 | [getsentry/sentry](./getsentry-sentry.md) | ⭐ 45.8k | Python | 76/100 |
 | 67 | [s3rgeym/hh-applicant-tool](./s3rgeym-hh-applicant-tool.md) | ⭐ 663 | Python | 76/100 |
 | 68 | [nocodb/nocodb](./nocodb-nocodb.md) | ⭐ 65.5k | TypeScript | 76/100 |
 | 69 | [parsecph/clobbr](./parsecph-clobbr.md) | ⭐ 240 | TypeScript | 76/100 |
@@ -246,7 +246,7 @@
 | 236 | [drogonframework/drogon](./drogonframework-drogon.md) | ⭐ 14.4k | C++ | 69/100 |
 | 237 | [kingston-csj/jforgame](./kingston-csj-jforgame.md) | ⭐ 1.1k | Java | 69/100 |
 | 238 | [TencentCloud/tencentcloud-sdk-nodejs](./tencentcloud-tencentcloud-sdk-nodejs.md) | ⭐ 600 | TypeScript | 69/100 |
-| 239 | [navidrome/navidrome](./navidrome-navidrome.md) | ⭐ 24.6k | Go | 69/100 |
+| 239 | [navidrome/navidrome](./navidrome-navidrome.md) | ⭐ 24.7k | Go | 69/100 |
 | 240 | [iamtelescope/telescope](./iamtelescope-telescope.md) | ⭐ 716 | Python | 69/100 |
 | 241 | [strawberry-graphql/strawberry](./strawberry-graphql-strawberry.md) | ⭐ 4.7k | Python | 69/100 |
 | 242 | [tweepy/tweepy](./tweepy-tweepy.md) | ⭐ 11.2k | Python | 68/100 |
@@ -285,7 +285,7 @@
 | 275 | [tobiasehlert/teslamateapi](./tobiasehlert-teslamateapi.md) | ⭐ 260 | Go | 68/100 |
 | 276 | [hickory-dns/hickory-dns](./hickory-dns-hickory-dns.md) | ⭐ 5.5k | Rust | 68/100 |
 | 277 | [cloudsmith-io/cloudsmith-cli](./cloudsmith-io-cloudsmith-cli.md) | ⭐ 78 | Python | 68/100 |
-| 278 | [caronc/apprise](./caronc-apprise.md) | ⭐ 17.7k | Python | 68/100 |
+| 278 | [caronc/apprise](./caronc-apprise.md) | ⭐ 17.8k | Python | 68/100 |
 | 279 | [open-wa/wa-automate-nodejs](./open-wa-wa-automate-nodejs.md) | ⭐ 3.7k | TypeScript | 68/100 |
 | 280 | [msgbyte/tianji](./msgbyte-tianji.md) | ⭐ 3.1k | TypeScript | 68/100 |
 | 281 | [schemathesis/schemathesis](./schemathesis-schemathesis.md) | ⭐ 3.8k | Python | 68/100 |
@@ -476,8 +476,8 @@
 | 466 | [elastic/apm-server](./elastic-apm-server.md) | ⭐ 1.3k | Go | 63/100 |
 | 467 | [MicroPyramid/opensource-job-portal](./micropyramid-opensource-job-portal.md) | ⭐ 494 | HTML | 63/100 |
 | 468 | [joreilly/BikeShare](./joreilly-bikeshare.md) | ⭐ 828 | Jupyter Notebook | 63/100 |
-| 469 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 369 | TypeScript | 63/100 |
-| 470 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
+| 469 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
+| 470 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 369 | TypeScript | 63/100 |
 | 471 | [Karben233/bili-hardcore](./karben233-bili-hardcore.md) | ⭐ 2.4k | Rust | 63/100 |
 | 472 | [markitosgv/JWTRefreshTokenBundle](./markitosgv-jwtrefreshtokenbundle.md) | ⭐ 713 | PHP | 63/100 |
 | 473 | [ansible/vscode-ansible](./ansible-vscode-ansible.md) | ⭐ 492 | TypeScript | 63/100 |
@@ -765,7 +765,7 @@
 | 755 | [ibizaman/selfhostblocks](./ibizaman-selfhostblocks.md) | ⭐ 519 | Nix | 56/100 |
 | 756 | [eclipse-iceoryx/iceoryx2](./eclipse-iceoryx-iceoryx2.md) | ⭐ 2.6k | Rust | 56/100 |
 | 757 | [mytechnotalent/Go-Hacking](./mytechnotalent-go-hacking.md) | ⭐ 384 | Go | 56/100 |
-| 758 | [faker-js/faker](./faker-js-faker.md) | ⭐ 15.6k | TypeScript | 56/100 |
+| 758 | [faker-js/faker](./faker-js-faker.md) | ⭐ 15.5k | TypeScript | 56/100 |
 | 759 | [inducer/relate](./inducer-relate.md) | ⭐ 438 | Python | 56/100 |
 | 760 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 489 | Go | 56/100 |
 | 761 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 193 | TypeScript | 56/100 |

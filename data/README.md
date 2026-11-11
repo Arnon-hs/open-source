@@ -12,7 +12,7 @@
 | 2 | [jitsucom/jitsu](./jitsucom-jitsu.md) | ⭐ 5.1k | TypeScript | 78/100 |
 | 3 | [bruin-data/ingestr](./bruin-data-ingestr.md) | ⭐ 4k | Go | 78/100 |
 | 4 | [dr5hn/countries-states-cities-database](./dr5hn-countries-states-cities-database.md) | ⭐ 10k | Python | 76/100 |
-| 5 | [umami-software/umami](./umami-software-umami.md) | ⭐ 40k | TypeScript | 74/100 |
+| 5 | [umami-software/umami](./umami-software-umami.md) | ⭐ 40.1k | TypeScript | 74/100 |
 | 6 | [rapidsai/cugraph](./rapidsai-cugraph.md) | ⭐ 2.3k | Cuda | 74/100 |
 | 7 | [Gururagavendra/gmail-cleaner](./gururagavendra-gmail-cleaner.md) | ⭐ 2.1k | Python | 73/100 |
 | 8 | [plausible/analytics](./plausible-analytics.md) | ⭐ 29.8k | Elixir | 73/100 |
