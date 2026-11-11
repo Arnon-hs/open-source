@@ -268,7 +268,7 @@
 | 258 | [sunng87/pgwire](./sunng87-pgwire.md) | ⭐ 812 | Rust | 53/100 |
 | 259 | [pypa/advisory-database](./pypa-advisory-database.md) | ⭐ 379 | Shell | 53/100 |
 | 260 | [Dailin521/codex-provider-sync](./dailin521-codex-provider-sync.md) | ⭐ 3.6k | C# | 53/100 |
-| 261 | [xataio/deltax](./xataio-deltax.md) | ⭐ 292 | Rust | 53/100 |
+| 261 | [xataio/deltax](./xataio-deltax.md) | ⭐ 293 | Rust | 53/100 |
 | 262 | [VCVRack/library](./vcvrack-library.md) | ⭐ 450 | Python | 53/100 |
 | 263 | [MobilityDB/MobilityDB](./mobilitydb-mobilitydb.md) | ⭐ 633 | C | 53/100 |
 | 264 | [open-wanderer/wanderer](./open-wanderer-wanderer.md) | ⭐ 4.1k | Svelte | 53/100 |
@@ -568,8 +568,8 @@
 | 558 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 559 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 560 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 561 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
-| 562 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
+| 561 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
+| 562 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
 | 563 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 564 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 565 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |

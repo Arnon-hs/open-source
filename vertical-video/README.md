@@ -30,7 +30,7 @@
 | 20 | [xuliang2024/cutcli-cookbook](./xuliang2024-cutcli-cookbook.md) | ⭐ 201 | JavaScript | 75/100 |
 | 21 | [leke-adewa/short-video-maker](./leke-adewa-short-video-maker.md) | ⭐ 36 | Python | 75/100 |
 | 22 | [myccarl/ai-shortVideo-pipeline](./myccarl-ai-shortvideo-pipeline.md) | ⭐ 813 | Python | 75/100 |
-| 23 | [Cuongyd196/remotion-cuongit-template](./cuongyd196-remotion-cuongit-template.md) | ⭐ 241 | TypeScript | 74/100 |
+| 23 | [Cuongyd196/remotion-cuongit-template](./cuongyd196-remotion-cuongit-template.md) | ⭐ 243 | TypeScript | 74/100 |
 | 24 | [opus-pro/opus-skills](./opus-pro-opus-skills.md) | ⭐ 28 | JavaScript | 74/100 |
 | 25 | [2417467487-hub/Trend2Video-Pro](./2417467487-hub-trend2video-pro.md) | ⭐ 211 | Python | 74/100 |
 | 26 | [Anil-matcha/AI-Youtube-Shorts-Generator](./anil-matcha-ai-youtube-shorts-generator.md) | ⭐ 5.9k | Python | 74/100 |

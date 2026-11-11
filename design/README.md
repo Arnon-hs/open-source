@@ -33,7 +33,7 @@
 | 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 551 | Python | 62/100 |
 | 24 | [MewPurPur/GodSVG](./mewpurpur-godsvg.md) | ⭐ 2.8k | GDScript | 61/100 |
 | 25 | [Lailloken/Exile-UI](./lailloken-exile-ui.md) | ⭐ 1.4k | AutoHotkey | 61/100 |
-| 26 | [bastani-inc/atomic](./bastani-inc-atomic.md) | ⭐ 882 | TypeScript | 61/100 |
+| 26 | [bastani-inc/atomic](./bastani-inc-atomic.md) | ⭐ 883 | TypeScript | 61/100 |
 | 27 | [material-extensions/vscode-material-icon-theme](./material-extensions-vscode-material-icon-theme.md) | ⭐ 3k | TypeScript | 61/100 |
 | 28 | [gdsfactory/gdsfactory](./gdsfactory-gdsfactory.md) | ⭐ 1.1k | Python | 61/100 |
 | 29 | [elementor/elementor](./elementor-elementor.md) | ⭐ 7.1k | PHP | 61/100 |

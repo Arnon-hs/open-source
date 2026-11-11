@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 235 |
+| ⭐ **Stars** | 236 |
 | 🍴 **Forks** | 175 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 59/100 |
@@ -51,7 +51,7 @@ XTLS/libXray：XTLS/libXray may be useful when its README and activity match a c
 
 **Quality signals**
 
-- 235 GitHub stars
+- 236 GitHub stars
 - 175 forks
 - updated 2026-11-09
 - primary language: Go
@@ -70,7 +70,7 @@ XTLS/libXray：XTLS/libXray may be useful when its README and activity match a c
 | outlook | 73/100 |
 | adoption | 52/100 |
 | categoryMatchCount | 200/100 |
-| stars | 50/100 |
+| stars | 51/100 |
 | forks | 56/100 |
 | recency | 100/100 |
 | topics | 100/100 |

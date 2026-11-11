@@ -119,7 +119,7 @@
 | 109 | [fluent/fluent-bit](./fluent-fluent-bit.md) | ⭐ 8.2k | C | 62/100 |
 | 110 | [RDFLib/rdflib](./rdflib-rdflib.md) | ⭐ 2.6k | Python | 62/100 |
 | 111 | [colour-science/colour](./colour-science-colour.md) | ⭐ 2.7k | Python | 62/100 |
-| 112 | [rucio/rucio](./rucio-rucio.md) | ⭐ 324 | Python | 62/100 |
+| 112 | [rucio/rucio](./rucio-rucio.md) | ⭐ 325 | Python | 62/100 |
 | 113 | [MultiQC/MultiQC](./multiqc-multiqc.md) | ⭐ 1.5k | JavaScript | 62/100 |
 | 114 | [cqframework/clinical_quality_language](./cqframework-clinical-quality-language.md) | ⭐ 339 | Kotlin | 62/100 |
 | 115 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 143 | Go | 61/100 |
@@ -353,7 +353,7 @@
 | 343 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 214 | Rust | 44/100 |
 | 344 | [idimetrix/canchas-mexico](./idimetrix-canchas-mexico.md) | ⭐ — | TypeScript | 44/100 |
 | 345 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 140 | Rust | 43/100 |
-| 346 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 310 | Rust | 43/100 |
+| 346 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 309 | Rust | 43/100 |
 | 347 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 43/100 |
 | 348 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
 | 349 | [vicena-labs/scientific-prediction-benchmark](./vicena-labs-scientific-prediction-benchmark.md) | ⭐ — | — | 41/100 |

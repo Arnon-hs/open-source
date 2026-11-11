@@ -88,7 +88,7 @@
 | 78 | [surajverma/homehub](./surajverma-homehub.md) | ⭐ 1.3k | HTML | 64/100 |
 | 79 | [ranger/ranger](./ranger-ranger.md) | ⭐ 17.5k | Python | 64/100 |
 | 80 | [bgreenwell/xleak](./bgreenwell-xleak.md) | ⭐ 1.5k | Rust | 64/100 |
-| 81 | [XxMinor/mykvm](./xxminor-mykvm.md) | ⭐ 733 | Rust | 64/100 |
+| 81 | [XxMinor/mykvm](./xxminor-mykvm.md) | ⭐ 734 | Rust | 64/100 |
 | 82 | [nextcloud/notes-android](./nextcloud-notes-android.md) | ⭐ 1.1k | Java | 64/100 |
 | 83 | [ViscousPot/GitSync](./viscouspot-gitsync.md) | ⭐ 2.5k | Dart | 63/100 |
 | 84 | [kbrdn1/gwm-cli](./kbrdn1-gwm-cli.md) | ⭐ 150 | Rust | 63/100 |
@@ -122,7 +122,7 @@
 | 112 | [rommapp/argosy-launcher](./rommapp-argosy-launcher.md) | ⭐ 716 | Kotlin | 60/100 |
 | 113 | [gioxx/MarvellousSuspender](./gioxx-marvelloussuspender.md) | ⭐ 1.4k | JavaScript | 60/100 |
 | 114 | [cosmic-utils/clipboard-manager](./cosmic-utils-clipboard-manager.md) | ⭐ 243 | Rust | 60/100 |
-| 115 | [noahbclarkson/rgitui](./noahbclarkson-rgitui.md) | ⭐ 276 | Rust | 60/100 |
+| 115 | [noahbclarkson/rgitui](./noahbclarkson-rgitui.md) | ⭐ 278 | Rust | 60/100 |
 | 116 | [elvisun/newsjack](./elvisun-newsjack.md) | ⭐ 1.7k | Go | 60/100 |
 | 117 | [mudkipme/MoeMemos](./mudkipme-moememos.md) | ⭐ 921 | Swift | 60/100 |
 | 118 | [sathish316/opus_agents](./sathish316-opus-agents.md) | ⭐ 34 | Python | 60/100 |
@@ -204,7 +204,7 @@
 | 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.7k | Rust | 55/100 |
 | 195 | [openbezal/rhema](./openbezal-rhema.md) | ⭐ 357 | TypeScript | 54/100 |
 | 196 | [FCL-Team/FoldCraftLauncher](./fcl-team-foldcraftlauncher.md) | ⭐ 5.2k | Java | 54/100 |
-| 197 | [Xoshbin/asyar](./xoshbin-asyar.md) | ⭐ 989 | Rust | 54/100 |
+| 197 | [Xoshbin/asyar](./xoshbin-asyar.md) | ⭐ 992 | Rust | 54/100 |
 | 198 | [Sirulex/cursor-clip](./sirulex-cursor-clip.md) | ⭐ 122 | Rust | 54/100 |
 | 199 | [l0ng-ai/papr](./l0ng-ai-papr.md) | ⭐ 592 | Rust | 54/100 |
 | 200 | [ziadshalaby00/ZS-New-Tab](./ziadshalaby00-zs-new-tab.md) | ⭐ 1 | JavaScript | 53/100 |
@@ -253,7 +253,7 @@
 | 243 | [shadps4-emu/shadps4-qtlauncher](./shadps4-emu-shadps4-qtlauncher.md) | ⭐ 525 | C++ | 49/100 |
 | 244 | [coderGtm/yantra-app-launcher](./codergtm-yantra-app-launcher.md) | ⭐ 146 | Kotlin | 49/100 |
 | 245 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 918 | Java | 49/100 |
-| 246 | [memospot/memospot](./memospot-memospot.md) | ⭐ 320 | Rust | 49/100 |
+| 246 | [memospot/memospot](./memospot-memospot.md) | ⭐ 321 | Rust | 49/100 |
 | 247 | [facebook/flow](./facebook-flow.md) | ⭐ 22.2k | Rust | 49/100 |
 | 248 | [luskaner/ageLANServer](./luskaner-agelanserver.md) | ⭐ 674 | Go | 49/100 |
 | 249 | [timothepoznanski/poznote](./timothepoznanski-poznote.md) | ⭐ 1k | JavaScript | 49/100 |
@@ -267,7 +267,7 @@
 | 257 | [OmniCouncil/OmniCouncil](./omnicouncil-omnicouncil.md) | ⭐ — | — | 48/100 |
 | 258 | [fralsare/fralculator](./fralsare-fralculator.md) | ⭐ 1 | TypeScript | 48/100 |
 | 259 | [yibie/org-supertag](./yibie-org-supertag.md) | ⭐ 353 | Emacs Lisp | 48/100 |
-| 260 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 265 | Rust | 48/100 |
+| 260 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 266 | Rust | 48/100 |
 | 261 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 1.5k | Shell | 48/100 |
 | 262 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 545 | C++ | 48/100 |
 | 263 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 618 | Rust | 48/100 |
@@ -347,8 +347,8 @@
 | 337 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 338 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 339 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 340 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
-| 341 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 340 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 341 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
 | 342 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 343 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.7k | — | 38/100 |
 | 344 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

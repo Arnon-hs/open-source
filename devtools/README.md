@@ -29,7 +29,7 @@
 | 19 | [asdf-vm/asdf](./asdf-vm-asdf.md) | ⭐ 25.6k | Go | 77/100 |
 | 20 | [goinfinite/os](./goinfinite-os.md) | ⭐ 361 | Go | 77/100 |
 | 21 | [BurntSushi/ripgrep](./burntsushi-ripgrep.md) | ⭐ 70k | Rust | 77/100 |
-| 22 | [phoenixthrush/AniWorld-Downloader](./phoenixthrush-aniworld-downloader.md) | ⭐ 362 | Python | 77/100 |
+| 22 | [phoenixthrush/AniWorld-Downloader](./phoenixthrush-aniworld-downloader.md) | ⭐ 363 | Python | 77/100 |
 | 23 | [Effect-TS/effect](./effect-ts-effect.md) | ⭐ 17.5k | TypeScript | 77/100 |
 | 24 | [mikefarah/yq](./mikefarah-yq.md) | ⭐ 16.3k | Go | 77/100 |
 | 25 | [projectdiscovery/httpx](./projectdiscovery-httpx.md) | ⭐ 10.6k | Go | 77/100 |
@@ -71,7 +71,7 @@
 | 61 | [go-task/task](./go-task-task.md) | ⭐ 16.3k | Go | 74/100 |
 | 62 | [leoafarias/fvm](./leoafarias-fvm.md) | ⭐ 5.5k | Dart | 74/100 |
 | 63 | [chaterm/Chaterm](./chaterm-chaterm.md) | ⭐ 3.1k | TypeScript | 74/100 |
-| 64 | [withoneai/cli](./withoneai-cli.md) | ⭐ 414 | TypeScript | 74/100 |
+| 64 | [withoneai/cli](./withoneai-cli.md) | ⭐ 415 | TypeScript | 74/100 |
 | 65 | [pypa/hatch](./pypa-hatch.md) | ⭐ 7.2k | Python | 74/100 |
 | 66 | [GoogleContainerTools/skaffold](./googlecontainertools-skaffold.md) | ⭐ 15.9k | Go | 74/100 |
 | 67 | [dynatrace-oss/dtctl](./dynatrace-oss-dtctl.md) | ⭐ 133 | Go | 74/100 |
@@ -79,7 +79,7 @@
 | 69 | [AdnanHodzic/auto-cpufreq](./adnanhodzic-auto-cpufreq.md) | ⭐ 7.9k | Python | 74/100 |
 | 70 | [withfig/autocomplete](./withfig-autocomplete.md) | ⭐ 25.2k | TypeScript | 73/100 |
 | 71 | [vulnersCom/getsploit](./vulnerscom-getsploit.md) | ⭐ 1.8k | Python | 73/100 |
-| 72 | [Jia-Ethan/grok-keysmith](./jia-ethan-grok-keysmith.md) | ⭐ 508 | Python | 73/100 |
+| 72 | [Jia-Ethan/grok-keysmith](./jia-ethan-grok-keysmith.md) | ⭐ 507 | Python | 73/100 |
 | 73 | [SecureAuthCorp/oauth2c](./secureauthcorp-oauth2c.md) | ⭐ 954 | Go | 73/100 |
 | 74 | [tqdm/shtab](./tqdm-shtab.md) | ⭐ 482 | Python | 73/100 |
 | 75 | [yonaskolb/XcodeGen](./yonaskolb-xcodegen.md) | ⭐ 8.9k | Swift | 73/100 |
@@ -181,7 +181,7 @@
 | 171 | [nao1215/gup](./nao1215-gup.md) | ⭐ 624 | Go | 70/100 |
 | 172 | [brandonyoungdev/tldx](./brandonyoungdev-tldx.md) | ⭐ 1.9k | Go | 70/100 |
 | 173 | [gookit/gcli](./gookit-gcli.md) | ⭐ 382 | Go | 70/100 |
-| 174 | [dragonked2/Egyscan](./dragonked2-egyscan.md) | ⭐ 304 | Python | 69/100 |
+| 174 | [dragonked2/Egyscan](./dragonked2-egyscan.md) | ⭐ 305 | Python | 69/100 |
 | 175 | [stabldev/torrra](./stabldev-torrra.md) | ⭐ 1.2k | Python | 69/100 |
 | 176 | [equationzhao/g](./equationzhao-g.md) | ⭐ 356 | Go | 69/100 |
 | 177 | [asciinema/asciinema](./asciinema-asciinema.md) | ⭐ 18k | Rust | 69/100 |
@@ -243,8 +243,8 @@
 | 233 | [bgreenwell/lstr](./bgreenwell-lstr.md) | ⭐ 1.6k | Rust | 68/100 |
 | 234 | [hatoo/oha](./hatoo-oha.md) | ⭐ 10.7k | Rust | 68/100 |
 | 235 | [stepchowfun/toast](./stepchowfun-toast.md) | ⭐ 1.6k | Rust | 68/100 |
-| 236 | [kubernetes/sample-cli-plugin](./kubernetes-sample-cli-plugin.md) | ⭐ 308 | Go | 68/100 |
-| 237 | [kubernetes/cli-runtime](./kubernetes-cli-runtime.md) | ⭐ 307 | Go | 68/100 |
+| 236 | [kubernetes/cli-runtime](./kubernetes-cli-runtime.md) | ⭐ 307 | Go | 68/100 |
+| 237 | [kubernetes/sample-cli-plugin](./kubernetes-sample-cli-plugin.md) | ⭐ 308 | Go | 68/100 |
 | 238 | [chenquan/diskusage](./chenquan-diskusage.md) | ⭐ 313 | Go | 68/100 |
 | 239 | [charmbracelet/ultraviolet](./charmbracelet-ultraviolet.md) | ⭐ 403 | Go | 68/100 |
 | 240 | [Albert-Weasker/niubi_guard](./albert-weasker-niubi-guard.md) | ⭐ 1.3k | TypeScript | 68/100 |
@@ -261,8 +261,8 @@
 | 251 | [bitrise-io/bitrise](./bitrise-io-bitrise.md) | ⭐ 902 | Go | 68/100 |
 | 252 | [us/mocker](./us-mocker.md) | ⭐ 373 | Swift | 68/100 |
 | 253 | [schpet/linear-cli](./schpet-linear-cli.md) | ⭐ 1k | TypeScript | 68/100 |
-| 254 | [boostsecurityio/smokedmeat](./boostsecurityio-smokedmeat.md) | ⭐ 399 | Go | 68/100 |
-| 255 | [antoniorodr/memo](./antoniorodr-memo.md) | ⭐ 367 | Python | 68/100 |
+| 254 | [boostsecurityio/smokedmeat](./boostsecurityio-smokedmeat.md) | ⭐ 400 | Go | 68/100 |
+| 255 | [antoniorodr/memo](./antoniorodr-memo.md) | ⭐ 368 | Python | 68/100 |
 | 256 | [mobile-next/mobilecli](./mobile-next-mobilecli.md) | ⭐ 316 | Go | 68/100 |
 | 257 | [bensadeh/circumflex](./bensadeh-circumflex.md) | ⭐ 2.1k | Go | 68/100 |
 | 258 | [mermaid-js/mermaid-cli](./mermaid-js-mermaid-cli.md) | ⭐ 5.2k | JavaScript | 68/100 |
@@ -308,8 +308,8 @@
 | 298 | [wolph/python-progressbar](./wolph-python-progressbar.md) | ⭐ 881 | Python | 67/100 |
 | 299 | [tuna-f1sh/cyme](./tuna-f1sh-cyme.md) | ⭐ 1.2k | Rust | 67/100 |
 | 300 | [all-contributors/cli](./all-contributors-cli.md) | ⭐ 425 | JavaScript | 67/100 |
-| 301 | [orhun/halp](./orhun-halp.md) | ⭐ 770 | Rust | 67/100 |
-| 302 | [hugovk/em-keyboard](./hugovk-em-keyboard.md) | ⭐ 336 | Python | 67/100 |
+| 301 | [hugovk/em-keyboard](./hugovk-em-keyboard.md) | ⭐ 336 | Python | 67/100 |
+| 302 | [orhun/halp](./orhun-halp.md) | ⭐ 770 | Rust | 67/100 |
 | 303 | [rosetta-rs/argparse-rosetta-rs](./rosetta-rs-argparse-rosetta-rs.md) | ⭐ 198 | Python | 67/100 |
 | 304 | [contentful-userland/cf-content-types-generator](./contentful-userland-cf-content-types-generator.md) | ⭐ 142 | TypeScript | 67/100 |
 | 305 | [jenkinsci/build-monitor-plugin](./jenkinsci-build-monitor-plugin.md) | ⭐ 728 | Java | 67/100 |
@@ -323,7 +323,7 @@
 | 313 | [brevdev/brev-cli](./brevdev-brev-cli.md) | ⭐ 285 | Go | 67/100 |
 | 314 | [cloudfoundry/cli](./cloudfoundry-cli.md) | ⭐ 1.9k | Go | 67/100 |
 | 315 | [bmf-san/ggc](./bmf-san-ggc.md) | ⭐ 288 | Go | 67/100 |
-| 316 | [hauler-dev/hauler](./hauler-dev-hauler.md) | ⭐ 266 | Go | 67/100 |
+| 316 | [hauler-dev/hauler](./hauler-dev-hauler.md) | ⭐ 267 | Go | 67/100 |
 | 317 | [alajmo/mani](./alajmo-mani.md) | ⭐ 790 | Go | 67/100 |
 | 318 | [shibayan/Sharprompt](./shibayan-sharprompt.md) | ⭐ 854 | C# | 67/100 |
 | 319 | [sibprogrammer/xq](./sibprogrammer-xq.md) | ⭐ 1.2k | Go | 67/100 |
@@ -382,8 +382,8 @@
 | 372 | [INRIA/spoon](./inria-spoon.md) | ⭐ 2k | Java | 66/100 |
 | 373 | [praetorian-inc/titus](./praetorian-inc-titus.md) | ⭐ 770 | Go | 66/100 |
 | 374 | [jcouture/nv](./jcouture-nv.md) | ⭐ 77 | Go | 66/100 |
-| 375 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 275 | Go | 66/100 |
-| 376 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 890 | Go | 66/100 |
+| 375 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 890 | Go | 66/100 |
+| 376 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 275 | Go | 66/100 |
 | 377 | [fastify/fastify-cli](./fastify-fastify-cli.md) | ⭐ 738 | JavaScript | 66/100 |
 | 378 | [justcallmekoko/ESP32Marauder](./justcallmekoko-esp32marauder.md) | ⭐ 13.1k | C++ | 66/100 |
 | 379 | [fiatjaf/nak](./fiatjaf-nak.md) | ⭐ 426 | Go | 66/100 |
@@ -392,8 +392,8 @@
 | 382 | [julesklord/mangofetch](./julesklord-mangofetch.md) | ⭐ 184 | Rust | 66/100 |
 | 383 | [xx4h/hctl](./xx4h-hctl.md) | ⭐ 85 | Go | 66/100 |
 | 384 | [microsoft/testfx](./microsoft-testfx.md) | ⭐ 1.1k | C# | 66/100 |
-| 385 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.7k | Python | 66/100 |
-| 386 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 844 | Python | 66/100 |
+| 385 | [earwig/git-repo-updater](./earwig-git-repo-updater.md) | ⭐ 844 | Python | 66/100 |
+| 386 | [statsmodels/statsmodels](./statsmodels-statsmodels.md) | ⭐ 11.7k | Python | 66/100 |
 | 387 | [onotelli/justniffer](./onotelli-justniffer.md) | ⭐ 229 | C | 66/100 |
 | 388 | [Icinga/icingaweb2](./icinga-icingaweb2.md) | ⭐ 840 | PHP | 66/100 |
 | 389 | [SAP/jenkins-library](./sap-jenkins-library.md) | ⭐ 824 | Go | 66/100 |
@@ -413,7 +413,7 @@
 | 403 | [zync-sh/zync](./zync-sh-zync.md) | ⭐ 116 | TypeScript | 65/100 |
 | 404 | [quii/learn-go-with-tests](./quii-learn-go-with-tests.md) | ⭐ 24k | Go | 65/100 |
 | 405 | [wfxr/tmux-fzf-url](./wfxr-tmux-fzf-url.md) | ⭐ 741 | Shell | 65/100 |
-| 406 | [cristianoliveira/funzzy](./cristianoliveira-funzzy.md) | ⭐ 332 | Rust | 65/100 |
+| 406 | [cristianoliveira/funzzy](./cristianoliveira-funzzy.md) | ⭐ 333 | Rust | 65/100 |
 | 407 | [gowsp/cloud189](./gowsp-cloud189.md) | ⭐ 122 | Go | 65/100 |
 | 408 | [cablehead/xs](./cablehead-xs.md) | ⭐ 233 | Rust | 65/100 |
 | 409 | [grpc-ecosystem/grpc-health-probe](./grpc-ecosystem-grpc-health-probe.md) | ⭐ 1.6k | Go | 65/100 |
@@ -425,7 +425,7 @@
 | 415 | [hrtsegv/gitcs](./hrtsegv-gitcs.md) | ⭐ 136 | Go | 65/100 |
 | 416 | [dapr/cli](./dapr-cli.md) | ⭐ 354 | Go | 65/100 |
 | 417 | [sindresorhus/conf](./sindresorhus-conf.md) | ⭐ 1.4k | TypeScript | 65/100 |
-| 418 | [kyu08/fzf-make](./kyu08-fzf-make.md) | ⭐ 309 | Rust | 65/100 |
+| 418 | [kyu08/fzf-make](./kyu08-fzf-make.md) | ⭐ 311 | Rust | 65/100 |
 | 419 | [MohsenBg/bgscan](./mohsenbg-bgscan.md) | ⭐ 89 | Go | 65/100 |
 | 420 | [hmarr/codeowners](./hmarr-codeowners.md) | ⭐ 238 | Go | 65/100 |
 | 421 | [marcosnils/bin](./marcosnils-bin.md) | ⭐ 1.3k | Go | 65/100 |
@@ -492,8 +492,8 @@
 | 482 | [Veirt/weathr](./veirt-weathr.md) | ⭐ 3.1k | Rust | 64/100 |
 | 483 | [rafaeltonholo/svg-to-compose](./rafaeltonholo-svg-to-compose.md) | ⭐ 223 | Kotlin | 64/100 |
 | 484 | [fluentassertions/fluentassertions](./fluentassertions-fluentassertions.md) | ⭐ 3.8k | C# | 64/100 |
-| 485 | [voska/qbo-cli](./voska-qbo-cli.md) | ⭐ 39 | Go | 64/100 |
-| 486 | [sohamw03/wifui](./sohamw03-wifui.md) | ⭐ 161 | Rust | 64/100 |
+| 485 | [sohamw03/wifui](./sohamw03-wifui.md) | ⭐ 161 | Rust | 64/100 |
+| 486 | [voska/qbo-cli](./voska-qbo-cli.md) | ⭐ 39 | Go | 64/100 |
 | 487 | [style-dictionary/style-dictionary](./style-dictionary-style-dictionary.md) | ⭐ 4.9k | JavaScript | 64/100 |
 | 488 | [stackryze/FreeDomains](./stackryze-freedomains.md) | ⭐ 14.4k | JavaScript | 64/100 |
 | 489 | [zap-studio/monorepo](./zap-studio-monorepo.md) | ⭐ 173 | TypeScript | 64/100 |
@@ -520,7 +520,7 @@
 | 510 | [mayuso/PNGToSVG](./mayuso-pngtosvg.md) | ⭐ 117 | Rust | 64/100 |
 | 511 | [OpenKeyring/oak-keyring](./openkeyring-oak-keyring.md) | ⭐ 236 | Rust | 64/100 |
 | 512 | [1rhino2/go-memory-visualizer](./1rhino2-go-memory-visualizer.md) | ⭐ 259 | TypeScript | 64/100 |
-| 513 | [vypivshiy/ani-cli-ru](./vypivshiy-ani-cli-ru.md) | ⭐ 242 | Python | 64/100 |
+| 513 | [vypivshiy/ani-cli-ru](./vypivshiy-ani-cli-ru.md) | ⭐ 243 | Python | 64/100 |
 | 514 | [gazorby/fifc](./gazorby-fifc.md) | ⭐ 274 | Shell | 64/100 |
 | 515 | [PHP-CS-Fixer/PHP-CS-Fixer](./php-cs-fixer-php-cs-fixer.md) | ⭐ 13.6k | PHP | 64/100 |
 | 516 | [altsem/gitu](./altsem-gitu.md) | ⭐ 2.9k | Rust | 64/100 |
@@ -571,7 +571,7 @@
 | 561 | [bamboostrip/Handwriting-simulator](./bamboostrip-handwriting-simulator.md) | ⭐ 210 | Python | 63/100 |
 | 562 | [kootenpv/cliche](./kootenpv-cliche.md) | ⭐ 111 | Python | 63/100 |
 | 563 | [openfga/cli](./openfga-cli.md) | ⭐ 108 | Go | 63/100 |
-| 564 | [emprcl/signls](./emprcl-signls.md) | ⭐ 272 | Go | 63/100 |
+| 564 | [emprcl/signls](./emprcl-signls.md) | ⭐ 274 | Go | 63/100 |
 | 565 | [jcubic/jquery.terminal](./jcubic-jquery.terminal.md) | ⭐ 3.2k | JavaScript | 63/100 |
 | 566 | [regexident/cargo-modules](./regexident-cargo-modules.md) | ⭐ 1.3k | Rust | 63/100 |
 | 567 | [adamreisnz/replace-in-file](./adamreisnz-replace-in-file.md) | ⭐ 617 | JavaScript | 63/100 |
@@ -594,7 +594,7 @@
 | 584 | [LoLei/razer-cli](./lolei-razer-cli.md) | ⭐ 167 | Python | 63/100 |
 | 585 | [writeas/writeas-cli](./writeas-writeas-cli.md) | ⭐ 122 | Go | 63/100 |
 | 586 | [go-shiori/shiori](./go-shiori-shiori.md) | ⭐ 11.8k | Go | 63/100 |
-| 587 | [amterp/rad](./amterp-rad.md) | ⭐ 302 | Go | 63/100 |
+| 587 | [amterp/rad](./amterp-rad.md) | ⭐ 303 | Go | 63/100 |
 | 588 | [iterative/gto](./iterative-gto.md) | ⭐ 161 | Python | 63/100 |
 | 589 | [software-mansion/live-debugger](./software-mansion-live-debugger.md) | ⭐ 767 | Elixir | 63/100 |
 | 590 | [auyer/Protonup-rs](./auyer-protonup-rs.md) | ⭐ 156 | Rust | 63/100 |
@@ -666,8 +666,8 @@
 | 656 | [hetznercloud/cli](./hetznercloud-cli.md) | ⭐ 1.9k | Go | 63/100 |
 | 657 | [GoogleChrome/lighthouse](./googlechrome-lighthouse.md) | ⭐ 31k | JavaScript | 63/100 |
 | 658 | [noborus/ov](./noborus-ov.md) | ⭐ 2k | Go | 63/100 |
-| 659 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.2k | C# | 63/100 |
-| 660 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
+| 659 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
+| 660 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.2k | C# | 63/100 |
 | 661 | [backstage/backstage](./backstage-backstage.md) | ⭐ 34.8k | TypeScript | 63/100 |
 | 662 | [Nutts5796/logiparity](./nutts5796-logiparity.md) | ⭐ 5 | TypeScript | 62/100 |
 | 663 | [xynorash/xynovim](./xynorash-xynovim.md) | ⭐ 4 | Lua | 62/100 |
@@ -703,7 +703,7 @@
 | 693 | [jiro4989/textimg](./jiro4989-textimg.md) | ⭐ 263 | Go | 62/100 |
 | 694 | [mattbrictson/tomo](./mattbrictson-tomo.md) | ⭐ 423 | Ruby | 62/100 |
 | 695 | [skatkov/devtui](./skatkov-devtui.md) | ⭐ 557 | Go | 62/100 |
-| 696 | [sazardev/goca](./sazardev-goca.md) | ⭐ 305 | Go | 62/100 |
+| 696 | [sazardev/goca](./sazardev-goca.md) | ⭐ 306 | Go | 62/100 |
 | 697 | [npm/documentation](./npm-documentation.md) | ⭐ 735 | MDX | 62/100 |
 | 698 | [sbt/sbt](./sbt-sbt.md) | ⭐ 5k | Scala | 62/100 |
 | 699 | [SoulMelody/LibreSVIP](./soulmelody-libresvip.md) | ⭐ 140 | Python | 62/100 |
@@ -811,7 +811,7 @@
 | 801 | [arnica/depsguard](./arnica-depsguard.md) | ⭐ 381 | Rust | 61/100 |
 | 802 | [TheBevyFlock/bevy_cli](./thebevyflock-bevy-cli.md) | ⭐ 432 | Rust | 61/100 |
 | 803 | [smbl64/humble-cli](./smbl64-humble-cli.md) | ⭐ 145 | Go | 61/100 |
-| 804 | [0sec-labs/foxguard](./0sec-labs-foxguard.md) | ⭐ 316 | Rust | 61/100 |
+| 804 | [0sec-labs/foxguard](./0sec-labs-foxguard.md) | ⭐ 321 | Rust | 61/100 |
 | 805 | [pls-rs/pls](./pls-rs-pls.md) | ⭐ 971 | Rust | 61/100 |
 | 806 | [pascal-lab/Tai-e](./pascal-lab-tai-e.md) | ⭐ 1.8k | Java | 61/100 |
 | 807 | [thousandflowers/Raccoon](./thousandflowers-raccoon.md) | ⭐ 132 | Shell | 61/100 |
@@ -822,8 +822,8 @@
 | 812 | [techouse/mysql-to-sqlite3](./techouse-mysql-to-sqlite3.md) | ⭐ 275 | Python | 61/100 |
 | 813 | [joknarf/pgtree](./joknarf-pgtree.md) | ⭐ 40 | Shell | 61/100 |
 | 814 | [swiftlang/swift-build](./swiftlang-swift-build.md) | ⭐ 2.3k | Swift | 61/100 |
-| 815 | [wp-cli/entity-command](./wp-cli-entity-command.md) | ⭐ 105 | PHP | 61/100 |
-| 816 | [wp-cli/profile-command](./wp-cli-profile-command.md) | ⭐ 295 | PHP | 61/100 |
+| 815 | [wp-cli/profile-command](./wp-cli-profile-command.md) | ⭐ 295 | PHP | 61/100 |
+| 816 | [wp-cli/entity-command](./wp-cli-entity-command.md) | ⭐ 105 | PHP | 61/100 |
 | 817 | [ad-si/TaskLite](./ad-si-tasklite.md) | ⭐ 291 | Elm | 61/100 |
 | 818 | [MicrosoftDocs/edge-developer](./microsoftdocs-edge-developer.md) | ⭐ 454 | JavaScript | 61/100 |
 | 819 | [alexdlaird/amazon-orders](./alexdlaird-amazon-orders.md) | ⭐ 206 | Python | 61/100 |
@@ -915,7 +915,7 @@
 | 905 | [conduktor/conduktor-platform](./conduktor-conduktor-platform.md) | ⭐ 162 | — | 60/100 |
 | 906 | [eduwass/tmux-palette](./eduwass-tmux-palette.md) | ⭐ 411 | TypeScript | 60/100 |
 | 907 | [tlipinski/rura](./tlipinski-rura.md) | ⭐ 343 | Rust | 60/100 |
-| 908 | [bahdotsh/feedr](./bahdotsh-feedr.md) | ⭐ 449 | Rust | 60/100 |
+| 908 | [bahdotsh/feedr](./bahdotsh-feedr.md) | ⭐ 450 | Rust | 60/100 |
 | 909 | [ashishb/amazing-sandbox](./ashishb-amazing-sandbox.md) | ⭐ 205 | Go | 60/100 |
 | 910 | [ant-design/ant-design-cli](./ant-design-ant-design-cli.md) | ⭐ 261 | TypeScript | 60/100 |
 | 911 | [laravel-zero/awesome-laravel-zero](./laravel-zero-awesome-laravel-zero.md) | ⭐ 136 | — | 60/100 |
@@ -1080,7 +1080,7 @@
 | 1070 | [lcn2/calc](./lcn2-calc.md) | ⭐ 456 | C | 58/100 |
 | 1071 | [ispc/ispc](./ispc-ispc.md) | ⭐ 3k | C++ | 58/100 |
 | 1072 | [topgrade-rs/topgrade](./topgrade-rs-topgrade.md) | ⭐ 4.8k | Rust | 58/100 |
-| 1073 | [oclif/core](./oclif-core.md) | ⭐ 318 | TypeScript | 58/100 |
+| 1073 | [oclif/core](./oclif-core.md) | ⭐ 319 | TypeScript | 58/100 |
 | 1074 | [newrelic/newrelic-cli](./newrelic-newrelic-cli.md) | ⭐ 150 | Go | 58/100 |
 | 1075 | [eclipse-openj9/openj9](./eclipse-openj9-openj9.md) | ⭐ 3.5k | Java | 58/100 |
 | 1076 | [ethyca/fides](./ethyca-fides.md) | ⭐ 483 | Python | 58/100 |
@@ -1088,7 +1088,7 @@
 | 1078 | [chenxin-yan/crust](./chenxin-yan-crust.md) | ⭐ 416 | TypeScript | 58/100 |
 | 1079 | [AstraeLabs/VibraVid](./astraelabs-vibravid.md) | ⭐ 1.3k | Python | 58/100 |
 | 1080 | [1jehuang/mermaid-rs-renderer](./1jehuang-mermaid-rs-renderer.md) | ⭐ 1.8k | Rust | 58/100 |
-| 1081 | [patrickhoefler/dockerfilegraph](./patrickhoefler-dockerfilegraph.md) | ⭐ 276 | Go | 58/100 |
+| 1081 | [patrickhoefler/dockerfilegraph](./patrickhoefler-dockerfilegraph.md) | ⭐ 277 | Go | 58/100 |
 | 1082 | [dyatko/arkit](./dyatko-arkit.md) | ⭐ 973 | JavaScript | 58/100 |
 | 1083 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 465 | Go | 58/100 |
 | 1084 | [nikolaydubina/go-recipes](./nikolaydubina-go-recipes.md) | ⭐ 4.8k | Go | 58/100 |
@@ -1135,7 +1135,7 @@
 | 1125 | [gilch/hissp](./gilch-hissp.md) | ⭐ 453 | Python | 57/100 |
 | 1126 | [SquirrelJME/SquirrelJME](./squirreljme-squirreljme.md) | ⭐ 329 | Java | 57/100 |
 | 1127 | [SonarSource/sonar-dotnet](./sonarsource-sonar-dotnet.md) | ⭐ 923 | C# | 57/100 |
-| 1128 | [abaplint/abaplint](./abaplint-abaplint.md) | ⭐ 321 | TypeScript | 57/100 |
+| 1128 | [abaplint/abaplint](./abaplint-abaplint.md) | ⭐ 322 | TypeScript | 57/100 |
 | 1129 | [jez/dotfiles](./jez-dotfiles.md) | ⭐ 131 | Shell | 57/100 |
 | 1130 | [dmi3/bin](./dmi3-bin.md) | ⭐ 143 | Shell | 57/100 |
 | 1131 | [DeterminateSystems/fh](./determinatesystems-fh.md) | ⭐ 164 | Rust | 57/100 |
@@ -1307,7 +1307,7 @@
 | 1297 | [aisk/timeout](./aisk-timeout.md) | ⭐ 59 | Haskell | 54/100 |
 | 1298 | [slackhq/compose-lints](./slackhq-compose-lints.md) | ⭐ 522 | Kotlin | 54/100 |
 | 1299 | [SonarSource/sonarlint-visualstudio](./sonarsource-sonarlint-visualstudio.md) | ⭐ 502 | C# | 54/100 |
-| 1300 | [Shopify/rubydex](./shopify-rubydex.md) | ⭐ 374 | Rust | 54/100 |
+| 1300 | [Shopify/rubydex](./shopify-rubydex.md) | ⭐ 376 | Rust | 54/100 |
 | 1301 | [liblouis/liblouis](./liblouis-liblouis.md) | ⭐ 353 | C | 54/100 |
 | 1302 | [PlasmaFAIR/fortitude](./plasmafair-fortitude.md) | ⭐ 221 | Rust | 54/100 |
 | 1303 | [arkanelinux/arkdep](./arkanelinux-arkdep.md) | ⭐ 190 | Shell | 54/100 |
@@ -1430,7 +1430,7 @@
 | 1420 | [chaqchase/lla](./chaqchase-lla.md) | ⭐ 1.2k | Rust | 52/100 |
 | 1421 | [crystal-lang/crystal](./crystal-lang-crystal.md) | ⭐ 20.5k | Crystal | 52/100 |
 | 1422 | [newrelic/terraform-provider-newrelic](./newrelic-terraform-provider-newrelic.md) | ⭐ 214 | Go | 52/100 |
-| 1423 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 337 | TypeScript | 52/100 |
+| 1423 | [SocketDev/socket-cli](./socketdev-socket-cli.md) | ⭐ 336 | TypeScript | 52/100 |
 | 1424 | [MCreator/MCreator](./mcreator-mcreator.md) | ⭐ 1.2k | Java | 52/100 |
 | 1425 | [vlang/v](./vlang-v.md) | ⭐ 38.1k | V | 52/100 |
 | 1426 | [horsicq/Detect-It-Easy](./horsicq-detect-it-easy.md) | ⭐ 11.9k | JavaScript | 52/100 |
@@ -1469,7 +1469,7 @@
 | 1459 | [safedep/vet](./safedep-vet.md) | ⭐ 1.1k | Go | 51/100 |
 | 1460 | [cppcheck-opensource/cppcheck](./cppcheck-opensource-cppcheck.md) | ⭐ 6.8k | C++ | 51/100 |
 | 1461 | [xvitaly/zswap-cli](./xvitaly-zswap-cli.md) | ⭐ 48 | C++ | 51/100 |
-| 1462 | [tstyche/tstyche](./tstyche-tstyche.md) | ⭐ 336 | TypeScript | 51/100 |
+| 1462 | [tstyche/tstyche](./tstyche-tstyche.md) | ⭐ 337 | TypeScript | 51/100 |
 | 1463 | [salesforcecli/cli](./salesforcecli-cli.md) | ⭐ 187 | TypeScript | 51/100 |
 | 1464 | [duriantaco/fyn](./duriantaco-fyn.md) | ⭐ 358 | Rust | 51/100 |
 | 1465 | [Dokploy/cli](./dokploy-cli.md) | ⭐ 171 | TypeScript | 51/100 |
@@ -1481,7 +1481,7 @@
 | 1471 | [openchoreo/openchoreo](./openchoreo-openchoreo.md) | ⭐ 1.9k | Go | 51/100 |
 | 1472 | [serkanyersen/dotstate](./serkanyersen-dotstate.md) | ⭐ 391 | Rust | 51/100 |
 | 1473 | [steipete/sonoscli](./steipete-sonoscli.md) | ⭐ 190 | Go | 51/100 |
-| 1474 | [rustledger/rustledger](./rustledger-rustledger.md) | ⭐ 423 | Rust | 51/100 |
+| 1474 | [rustledger/rustledger](./rustledger-rustledger.md) | ⭐ 426 | Rust | 51/100 |
 | 1475 | [railwayapp/cli](./railwayapp-cli.md) | ⭐ 628 | Rust | 51/100 |
 | 1476 | [ValkDB/postgresparser](./valkdb-postgresparser.md) | ⭐ 265 | Go | 51/100 |
 | 1477 | [KhronosGroup/glslang](./khronosgroup-glslang.md) | ⭐ 3.6k | C++ | 51/100 |
@@ -1611,7 +1611,7 @@
 | 1601 | [astral-experiments/serc](./astral-experiments-serc.md) | ⭐ 94 | — | 44/100 |
 | 1602 | [repo-tech/tarvos](./repo-tech-tarvos.md) | ⭐ 1 | Rust | 44/100 |
 | 1603 | [doug-gilbert/sg3_utils](./doug-gilbert-sg3-utils.md) | ⭐ 60 | C | 44/100 |
-| 1604 | [Firstp1ck/Pacsea](./firstp1ck-pacsea.md) | ⭐ 303 | Rust | 44/100 |
+| 1604 | [Firstp1ck/Pacsea](./firstp1ck-pacsea.md) | ⭐ 304 | Rust | 44/100 |
 | 1605 | [AeneasVerif/charon](./aeneasverif-charon.md) | ⭐ 482 | Rust | 44/100 |
 | 1606 | [tarka/xcp](./tarka-xcp.md) | ⭐ 933 | Rust | 44/100 |
 | 1607 | [techdevfun/ci-failure-detective](./techdevfun-ci-failure-detective.md) | ⭐ — | JavaScript | 43/100 |
@@ -1623,12 +1623,12 @@
 | 1613 | [mainak55512/flint](./mainak55512-flint.md) | ⭐ 31 | — | 42/100 |
 | 1614 | [coder/wush](./coder-wush.md) | ⭐ 1.5k | — | 42/100 |
 | 1615 | [berggren/tss](./berggren-tss.md) | ⭐ 4 | — | 42/100 |
-| 1616 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ 1 | — | 42/100 |
-| 1617 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ 1.9k | — | 42/100 |
+| 1616 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ 1.9k | — | 42/100 |
+| 1617 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ 1 | — | 42/100 |
 | 1618 | [mozilla/web-ext](./mozilla-web-ext.md) | ⭐ — | — | 42/100 |
 | 1619 | [scascino4/dither](./scascino4-dither.md) | ⭐ — | — | 42/100 |
 | 1620 | [crawshaw/yeah](./crawshaw-yeah.md) | ⭐ 8 | — | 42/100 |
-| 1621 | [aaronriekenberg/rust-parallel](./aaronriekenberg-rust-parallel.md) | ⭐ 322 | Rust | 42/100 |
+| 1621 | [aaronriekenberg/rust-parallel](./aaronriekenberg-rust-parallel.md) | ⭐ 323 | Rust | 42/100 |
 | 1622 | [nyaosorg/go-readline-ny](./nyaosorg-go-readline-ny.md) | ⭐ 37 | Go | 42/100 |
 | 1623 | [kolemannix/k1](./kolemannix-k1.md) | ⭐ 120 | Rust | 42/100 |
 | 1624 | [lumen-oss/lux](./lumen-oss-lux.md) | ⭐ 1k | Rust | 42/100 |

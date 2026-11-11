@@ -24,7 +24,7 @@
 | 14 | [gokayfem/ComfyUI-fal-API](./gokayfem-comfyui-fal-api.md) | ⭐ 227 | Python | 76/100 |
 | 15 | [promptslab/Awesome-Prompt-Engineering](./promptslab-awesome-prompt-engineering.md) | ⭐ 6.4k | TypeScript | 76/100 |
 | 16 | [Anil-matcha/Wan-3.0-API](./anil-matcha-wan-3.0-api.md) | ⭐ 80 | Python | 76/100 |
-| 17 | [SamurAIGPT/AI-Influencer-Generator](./samuraigpt-ai-influencer-generator.md) | ⭐ 342 | Jupyter Notebook | 76/100 |
+| 17 | [SamurAIGPT/AI-Influencer-Generator](./samuraigpt-ai-influencer-generator.md) | ⭐ 344 | Jupyter Notebook | 76/100 |
 | 18 | [sergebulaev/linkedin-skills](./sergebulaev-linkedin-skills.md) | ⭐ 5.8k | Python | 76/100 |
 | 19 | [artokun/comfyui-mcp](./artokun-comfyui-mcp.md) | ⭐ 906 | TypeScript | 76/100 |
 | 20 | [alecs5am/ralphy](./alecs5am-ralphy.md) | ⭐ 144 | TypeScript | 76/100 |
@@ -47,7 +47,7 @@
 | 37 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 312 | Python | 71/100 |
 | 38 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 3.7k | TypeScript | 71/100 |
 | 39 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
-| 40 | [cporter202/awesome-ai-tools](./cporter202-awesome-ai-tools.md) | ⭐ 324 | — | 70/100 |
+| 40 | [cporter202/awesome-ai-tools](./cporter202-awesome-ai-tools.md) | ⭐ 326 | — | 70/100 |
 | 41 | [claude-world/notebooklm-skill](./claude-world-notebooklm-skill.md) | ⭐ 499 | Python | 70/100 |
 | 42 | [ZeroLu/awesome-seedance](./zerolu-awesome-seedance.md) | ⭐ 2.8k | Shell | 70/100 |
 | 43 | [waooAI/waoowaoo](./waooai-waoowaoo.md) | ⭐ 14.8k | TypeScript | 70/100 |
@@ -74,10 +74,10 @@
 | 64 | [benlamiro/ShipGenAI](./benlamiro-shipgenai.md) | ⭐ 258 | JavaScript | 66/100 |
 | 65 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 24.2k | Go | 66/100 |
 | 66 | [mx-space/core](./mx-space-core.md) | ⭐ 567 | TypeScript | 66/100 |
-| 67 | [wanshuiyin/ARIS-in-AI-Offer](./wanshuiyin-aris-in-ai-offer.md) | ⭐ 648 | Python | 65/100 |
+| 67 | [wanshuiyin/ARIS-in-AI-Offer](./wanshuiyin-aris-in-ai-offer.md) | ⭐ 649 | Python | 65/100 |
 | 68 | [Jamailar/Beav](./jamailar-beav.md) | ⭐ 2.4k | TypeScript | 65/100 |
 | 69 | [Jamailar/RedBox](./jamailar-redbox.md) | ⭐ 1.1k | TypeScript | 65/100 |
-| 70 | [ChrisChen667788/wind-comic](./chrischen667788-wind-comic.md) | ⭐ 710 | TypeScript | 65/100 |
+| 70 | [ChrisChen667788/wind-comic](./chrischen667788-wind-comic.md) | ⭐ 712 | TypeScript | 65/100 |
 | 71 | [Stonewuu/ai-fusion-video](./stonewuu-ai-fusion-video.md) | ⭐ 1.7k | Java | 64/100 |
 | 72 | [Anil-matcha/Free-AI-Social-Media-Scheduler](./anil-matcha-free-ai-social-media-scheduler.md) | ⭐ 458 | JavaScript | 64/100 |
 | 73 | [jeffstric/ZJT](./jeffstric-zjt.md) | ⭐ 240 | Python | 64/100 |

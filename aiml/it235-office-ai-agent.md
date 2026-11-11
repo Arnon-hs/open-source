@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 264 |
+| ⭐ **Stars** | 265 |
 | 🍴 **Forks** | 56 |
 | 💻 **Language** | Visual Basic .NET |
 | 📈 **Score** | 56/100 |

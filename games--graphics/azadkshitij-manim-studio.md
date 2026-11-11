@@ -1,6 +1,6 @@
 # AzadKshitij/manim-studio
 
-[![Stars](https://img.shields.io/github/stars/AzadKshitij/manim-studio?style=flat-square&color=yellow)](https://github.com/AzadKshitij/manim-studio/stargazers) [![Forks](https://img.shields.io/github/forks/AzadKshitij/manim-studio?style=flat-square&color=blue)](https://github.com/AzadKshitij/manim-studio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AzadKshitij/manim-studio?style=flat-square&color=yellow)](https://github.com/AzadKshitij/manim-studio/stargazers) [![Forks](https://img.shields.io/github/forks/AzadKshitij/manim-studio?style=flat-square&color=blue)](https://github.com/AzadKshitij/manim-studio/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 46/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ AzadKshitij/manim-studio：AzadKshitij/manim-studio may be useful when its READM
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 50/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

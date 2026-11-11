@@ -163,8 +163,8 @@
 | 153 | [jiangtian616/JHenTai](./jiangtian616-jhentai.md) | ⭐ 5.8k | Dart | 59/100 |
 | 154 | [komikku-app/komikku](./komikku-app-komikku.md) | ⭐ 5k | Kotlin | 59/100 |
 | 155 | [florisboard/florisboard](./florisboard-florisboard.md) | ⭐ 8.8k | Kotlin | 59/100 |
-| 156 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.9k | Kotlin | 59/100 |
-| 157 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 156 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 157 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.9k | Kotlin | 59/100 |
 | 158 | [bonigarcia/mastering-junit5](./bonigarcia-mastering-junit5.md) | ⭐ 430 | Java | 59/100 |
 | 159 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.8k | Java | 59/100 |
 | 160 | [patrykandpatrick/vico](./patrykandpatrick-vico.md) | ⭐ 3.2k | Kotlin | 59/100 |
@@ -276,8 +276,8 @@
 | 266 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 267 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 268 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
-| 270 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
+| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
+| 270 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
 | 271 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 272 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 631 | Python | 55/100 |
 | 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
@@ -352,7 +352,7 @@
 | 342 | [MobAI-App/simslim](./mobai-app-simslim.md) | ⭐ 3.6k | Go | 53/100 |
 | 343 | [SideloadLabs/EeveeSpotifyReincarnated](./sideloadlabs-eeveespotifyreincarnated.md) | ⭐ 1.6k | Swift | 53/100 |
 | 344 | [parawanderer/OpenTagViewer](./parawanderer-opentagviewer.md) | ⭐ 464 | Java | 53/100 |
-| 345 | [WinIslandProject/WinIsland](./winislandproject-winisland.md) | ⭐ 407 | Rust | 53/100 |
+| 345 | [WinIslandProject/WinIsland](./winislandproject-winisland.md) | ⭐ 413 | Rust | 53/100 |
 | 346 | [asLody/dexdec](./aslody-dexdec.md) | ⭐ 127 | Rust | 53/100 |
 | 347 | [mapbox/mapbox-navigation-ios](./mapbox-mapbox-navigation-ios.md) | ⭐ 921 | Swift | 53/100 |
 | 348 | [MartinStyk/AndroidApkAnalyzer](./martinstyk-androidapkanalyzer.md) | ⭐ 343 | Kotlin | 53/100 |
@@ -411,7 +411,7 @@
 | 401 | [open-ani/mediamp](./open-ani-mediamp.md) | ⭐ 154 | Kotlin | 51/100 |
 | 402 | [jegly/jegly](./jegly-jegly.md) | ⭐ 3 | — | 51/100 |
 | 403 | [equeim/tremotesf-android](./equeim-tremotesf-android.md) | ⭐ 325 | Kotlin | 51/100 |
-| 404 | [confeden/Nova-Android](./confeden-nova-android.md) | ⭐ 401 | Go | 51/100 |
+| 404 | [confeden/Nova-Android](./confeden-nova-android.md) | ⭐ 404 | Go | 51/100 |
 | 405 | [delvinru/apk-info](./delvinru-apk-info.md) | ⭐ 146 | Rust | 51/100 |
 | 406 | [jkcoxson/idevice_pair](./jkcoxson-idevice-pair.md) | ⭐ 983 | Rust | 51/100 |
 | 407 | [cfw-guide/ios.cfw.guide](./cfw-guide-ios.cfw.guide.md) | ⭐ 780 | Vue | 51/100 |
@@ -447,7 +447,7 @@
 | 437 | [ModinMobileSTS/SlayTheAmethystModded](./modinmobilests-slaytheamethystmodded.md) | ⭐ 466 | Kotlin | 49/100 |
 | 438 | [sfsakhawat999/mpvRex](./sfsakhawat999-mpvrex.md) | ⭐ 369 | Kotlin | 49/100 |
 | 439 | [zotero/zotero-ios](./zotero-zotero-ios.md) | ⭐ 316 | Swift | 49/100 |
-| 440 | [mytv-android/China-TV-Live-M3U8](./mytv-android-china-tv-live-m3u8.md) | ⭐ 343 | — | 49/100 |
+| 440 | [mytv-android/China-TV-Live-M3U8](./mytv-android-china-tv-live-m3u8.md) | ⭐ 344 | — | 49/100 |
 | 441 | [shaoting0730/Flutter_learn_demo](./shaoting0730-flutter-learn-demo.md) | ⭐ 314 | Dart | 49/100 |
 | 442 | [Haoest/SudokuResolv](./haoest-sudokuresolv.md) | ⭐ 324 | Swift | 49/100 |
 | 443 | [pure-music/PureMusic](./pure-music-puremusic.md) | ⭐ 608 | Kotlin | 49/100 |
@@ -469,7 +469,7 @@
 | 459 | [SoItsTime/I2PdiOS](./soitstime-i2pdios.md) | ⭐ 5 | — | 48/100 |
 | 460 | [samm-git/nocview](./samm-git-nocview.md) | ⭐ — | — | 48/100 |
 | 461 | [luizgustavo76/Linka](./luizgustavo76-linka.md) | ⭐ 25 | — | 48/100 |
-| 462 | [leegeunhyeok/craby](./leegeunhyeok-craby.md) | ⭐ 245 | Rust | 48/100 |
+| 462 | [leegeunhyeok/craby](./leegeunhyeok-craby.md) | ⭐ 246 | Rust | 48/100 |
 | 463 | [lkebin/GostX](./lkebin-gostx.md) | ⭐ 5 | — | 48/100 |
 | 464 | [wuplayapp/wuplay-releases](./wuplayapp-wuplay-releases.md) | ⭐ 571 | — | 48/100 |
 | 465 | [GlassHaven/Haven](./glasshaven-haven.md) | ⭐ 1.4k | Kotlin | 48/100 |
@@ -632,7 +632,7 @@
 | 622 | [lekandigital/android-tv-airplay-receiver](./lekandigital-android-tv-airplay-receiver.md) | ⭐ 4 | — | 41/100 |
 | 623 | [ffmpegkit-maintained/ffmpeg-kit](./ffmpegkit-maintained-ffmpeg-kit.md) | ⭐ — | — | 41/100 |
 | 624 | [RTiK/mosaic](./rtik-mosaic.md) | ⭐ 3 | — | 41/100 |
-| 625 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 259 | Dart | 41/100 |
+| 625 | [nucleus-ffm/foss_warn](./nucleus-ffm-foss-warn.md) | ⭐ 260 | Dart | 41/100 |
 | 626 | [kotlinsyd/Plavio](./kotlinsyd-plavio.md) | ⭐ 22 | Kotlin | 40/100 |
 | 627 | [android/skills](./android-skills.md) | ⭐ 10.5k | — | 40/100 |
 | 628 | [LalanaChami/CandleKit](./lalanachami-candlekit.md) | ⭐ 5 | Swift | 40/100 |

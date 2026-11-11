@@ -118,8 +118,8 @@
 | 108 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.8k | PHP | 62/100 |
 | 109 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 10.3k | PHP | 62/100 |
 | 110 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 1.1k | TypeScript | 62/100 |
-| 111 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
-| 112 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 111 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 112 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
 | 113 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 114 | [actions/checkout](./actions-checkout.md) | ⭐ 8.8k | TypeScript | 61/100 |
 | 115 | [paid-tw/payment](./paid-tw-payment.md) | ⭐ 86 | TypeScript | 61/100 |
@@ -137,7 +137,7 @@
 | 127 | [flovoice53-tech/acp-sandbox](./flovoice53-tech-acp-sandbox.md) | ⭐ — | TypeScript | 60/100 |
 | 128 | [ahmadzakiyox/gopay-api-gateaway](./ahmadzakiyox-gopay-api-gateaway.md) | ⭐ 278 | JavaScript | 60/100 |
 | 129 | [eallion/uBlacklist-subscription-compilation](./eallion-ublacklist-subscription-compilation.md) | ⭐ 1.3k | Go | 60/100 |
-| 130 | [abishekmuthian/open-payment-host](./abishekmuthian-open-payment-host.md) | ⭐ 243 | Go | 60/100 |
+| 130 | [abishekmuthian/open-payment-host](./abishekmuthian-open-payment-host.md) | ⭐ 244 | Go | 60/100 |
 | 131 | [voidly-ai/voidly-pay](./voidly-ai-voidly-pay.md) | ⭐ 11 | JavaScript | 60/100 |
 | 132 | [dimthink/PriceAI](./dimthink-priceai.md) | ⭐ 5.3k | TypeScript | 60/100 |
 | 133 | [trickv/hass-claude-usage](./trickv-hass-claude-usage.md) | ⭐ 61 | Python | 60/100 |
@@ -166,7 +166,7 @@
 | 156 | [stripe/openapi](./stripe-openapi.md) | ⭐ 510 | — | 58/100 |
 | 157 | [spacious-team/investbook](./spacious-team-investbook.md) | ⭐ 338 | Java | 58/100 |
 | 158 | [joshnuss/svelte-stripe](./joshnuss-svelte-stripe.md) | ⭐ 493 | Svelte | 58/100 |
-| 159 | [saksham2001/PulseLoopiOS](./saksham2001-pulseloopios.md) | ⭐ 333 | Swift | 58/100 |
+| 159 | [saksham2001/PulseLoopiOS](./saksham2001-pulseloopios.md) | ⭐ 334 | Swift | 58/100 |
 | 160 | [namiml/nami-apple](./namiml-nami-apple.md) | ⭐ 63 | Ruby | 58/100 |
 | 161 | [vibheksoni/free-ai](./vibheksoni-free-ai.md) | ⭐ 364 | Astro | 58/100 |
 | 162 | [stripe/sync-engine](./stripe-sync-engine.md) | ⭐ 1.1k | TypeScript | 58/100 |
@@ -226,7 +226,7 @@
 | 216 | [Danialsamadi/v2go](./danialsamadi-v2go.md) | ⭐ 156 | Go | 54/100 |
 | 217 | [tempoxyz/mpp-specs](./tempoxyz-mpp-specs.md) | ⭐ 97 | Python | 54/100 |
 | 218 | [UllrAI/HeadShots.fun](./ullrai-headshots.fun.md) | ⭐ 128 | TypeScript | 54/100 |
-| 219 | [MhdiTaheri/V2rayCollector](./mhditaheri-v2raycollector.md) | ⭐ 323 | PHP | 54/100 |
+| 219 | [MhdiTaheri/V2rayCollector](./mhditaheri-v2raycollector.md) | ⭐ 324 | PHP | 54/100 |
 | 220 | [NoopApp/noop](./noopapp-noop.md) | ⭐ 2.1k | Swift | 54/100 |
 | 221 | [xiaoji235/airport-free](./xiaoji235-airport-free.md) | ⭐ 556 | Python | 54/100 |
 | 222 | [billabear/billabear](./billabear-billabear.md) | ⭐ 761 | PHP | 54/100 |
@@ -238,7 +238,7 @@
 | 228 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 229 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 230 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 88 | Rust | 53/100 |
-| 231 | [shetabit/multipay](./shetabit-multipay.md) | ⭐ 308 | PHP | 53/100 |
+| 231 | [shetabit/multipay](./shetabit-multipay.md) | ⭐ 309 | PHP | 53/100 |
 | 232 | [piratuks/invoice-builder](./piratuks-invoice-builder.md) | ⭐ 1.5k | TypeScript | 53/100 |
 | 233 | [spatie/laravel-stripe-webhooks](./spatie-laravel-stripe-webhooks.md) | ⭐ 524 | PHP | 53/100 |
 | 234 | [braintree/braintree_php](./braintree-braintree-php.md) | ⭐ 554 | PHP | 53/100 |
@@ -272,8 +272,8 @@
 | 262 | [killbill/killbill-commons](./killbill-killbill-commons.md) | ⭐ 145 | Java | 51/100 |
 | 263 | [Franlinozz/Sluice](./franlinozz-sluice.md) | ⭐ 32 | TypeScript | 51/100 |
 | 264 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 133 | PHP | 51/100 |
-| 265 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
-| 266 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
+| 265 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
+| 266 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
 | 267 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 51/100 |
 | 268 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 763 | Rust | 51/100 |
 | 269 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 504 | PHP | 51/100 |
@@ -304,7 +304,7 @@
 | 294 | [Faouzielbakri/what-would-it-cost](./faouzielbakri-what-would-it-cost.md) | ⭐ — | — | 48/100 |
 | 295 | [Nikoble1926/sanctions-check-before-pay](./nikoble1926-sanctions-check-before-pay.md) | ⭐ — | JavaScript | 48/100 |
 | 296 | [web4-watchbot/web4-automaton](./web4-watchbot-web4-automaton.md) | ⭐ — | — | 48/100 |
-| 297 | [raine/claude-code-proxy](./raine-claude-code-proxy.md) | ⭐ 700 | Rust | 48/100 |
+| 297 | [raine/claude-code-proxy](./raine-claude-code-proxy.md) | ⭐ 703 | Rust | 48/100 |
 | 298 | [juspay/decision-engine](./juspay-decision-engine.md) | ⭐ 138 | Rust | 48/100 |
 | 299 | [Dicklesworthstone/flywheel_connectors](./dicklesworthstone-flywheel-connectors.md) | ⭐ 97 | Rust | 48/100 |
 | 300 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 93 | Rust | 48/100 |

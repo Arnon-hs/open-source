@@ -17,12 +17,12 @@
 | 7 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.7k | Python | 75/100 |
 | 8 | [dropbox/dropbox-sdk-python](./dropbox-dropbox-sdk-python.md) | ⭐ 986 | Python | 74/100 |
 | 9 | [meilisearch/meilisearch-dotnet](./meilisearch-meilisearch-dotnet.md) | ⭐ 345 | C# | 74/100 |
-| 10 | [gungraun/gungraun](./gungraun-gungraun.md) | ⭐ 341 | Rust | 73/100 |
+| 10 | [gungraun/gungraun](./gungraun-gungraun.md) | ⭐ 342 | Rust | 73/100 |
 | 11 | [googleapis/google-api-dotnet-client](./googleapis-google-api-dotnet-client.md) | ⭐ 1.5k | C# | 72/100 |
 | 12 | [Unleash/unleash](./unleash-unleash.md) | ⭐ 14.3k | TypeScript | 72/100 |
 | 13 | [lizhiyao/sentry-miniapp](./lizhiyao-sentry-miniapp.md) | ⭐ 712 | TypeScript | 71/100 |
 | 14 | [mixpanel/mixpanel-js](./mixpanel-mixpanel-js.md) | ⭐ 943 | JavaScript | 71/100 |
-| 15 | [elgatosf/streamdeck](./elgatosf-streamdeck.md) | ⭐ 275 | TypeScript | 71/100 |
+| 15 | [elgatosf/streamdeck](./elgatosf-streamdeck.md) | ⭐ 276 | TypeScript | 71/100 |
 | 16 | [matrix-org/matrix-rust-sdk](./matrix-org-matrix-rust-sdk.md) | ⭐ 2.4k | Rust | 71/100 |
 | 17 | [linear/linear](./linear-linear.md) | ⭐ 1.7k | TypeScript | 71/100 |
 | 18 | [firebase/firebase-android-sdk](./firebase-firebase-android-sdk.md) | ⭐ 2.6k | Java | 71/100 |
@@ -79,7 +79,7 @@
 | 69 | [godotengine/godot-cpp](./godotengine-godot-cpp.md) | ⭐ 2.8k | C++ | 65/100 |
 | 70 | [BitGo/BitGoJS](./bitgo-bitgojs.md) | ⭐ 397 | TypeScript | 65/100 |
 | 71 | [nix-rust/nix](./nix-rust-nix.md) | ⭐ 3.1k | Rust | 65/100 |
-| 72 | [apache/teaclave-trustzone-sdk](./apache-teaclave-trustzone-sdk.md) | ⭐ 286 | Rust | 64/100 |
+| 72 | [apache/teaclave-trustzone-sdk](./apache-teaclave-trustzone-sdk.md) | ⭐ 287 | Rust | 64/100 |
 | 73 | [parse-community/Parse-SDK-JS](./parse-community-parse-sdk-js.md) | ⭐ 1.3k | JavaScript | 64/100 |
 | 74 | [Blaizzy/mlx-audio-swift](./blaizzy-mlx-audio-swift.md) | ⭐ 694 | Swift | 64/100 |
 | 75 | [auth0/go-jwt-middleware](./auth0-go-jwt-middleware.md) | ⭐ 1.2k | Go | 64/100 |
@@ -163,7 +163,7 @@
 | 153 | [gtk-rs/gtk4-rs](./gtk-rs-gtk4-rs.md) | ⭐ 2.4k | Rust | 58/100 |
 | 154 | [rust-nvml/nvml-wrapper](./rust-nvml-nvml-wrapper.md) | ⭐ 215 | Rust | 58/100 |
 | 155 | [habedi/graphina](./habedi-graphina.md) | ⭐ 130 | Rust | 58/100 |
-| 156 | [dapr/java-sdk](./dapr-java-sdk.md) | ⭐ 301 | Java | 58/100 |
+| 156 | [dapr/java-sdk](./dapr-java-sdk.md) | ⭐ 302 | Java | 58/100 |
 | 157 | [alchemyplatform/aa-sdk](./alchemyplatform-aa-sdk.md) | ⭐ 323 | TypeScript | 58/100 |
 | 158 | [tadfisher/android-nixpkgs](./tadfisher-android-nixpkgs.md) | ⭐ 435 | Nix | 57/100 |
 | 159 | [rust-lang/rust-bindgen](./rust-lang-rust-bindgen.md) | ⭐ 5.3k | Rust | 57/100 |
@@ -183,14 +183,14 @@
 | 173 | [apple/swift-temporal-sdk](./apple-swift-temporal-sdk.md) | ⭐ 321 | Swift | 56/100 |
 | 174 | [rodrigocfd/winsafe](./rodrigocfd-winsafe.md) | ⭐ 707 | Rust | 56/100 |
 | 175 | [get-convex/convex-js](./get-convex-convex-js.md) | ⭐ 347 | TypeScript | 56/100 |
-| 176 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 320 | Rust | 56/100 |
+| 176 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 321 | Rust | 56/100 |
 | 177 | [Enos2/my-sdk-work](./enos2-my-sdk-work.md) | ⭐ 1 | TypeScript | 56/100 |
 | 178 | [Convertio/convertio-php](./convertio-convertio-php.md) | ⭐ 275 | PHP | 55/100 |
 | 179 | [xbill9/devto-sanity](./xbill9-devto-sanity.md) | ⭐ — | HTML | 55/100 |
 | 180 | [frida/frida-python](./frida-frida-python.md) | ⭐ 878 | Python | 55/100 |
 | 181 | [gtk-rs/gtk3-rs](./gtk-rs-gtk3-rs.md) | ⭐ 509 | Rust | 55/100 |
 | 182 | [prove-rs/z3.rs](./prove-rs-z3.rs.md) | ⭐ 542 | Rust | 55/100 |
-| 183 | [y3owk1n/neru](./y3owk1n-neru.md) | ⭐ 917 | Go | 55/100 |
+| 183 | [y3owk1n/neru](./y3owk1n-neru.md) | ⭐ 919 | Go | 55/100 |
 | 184 | [rust-openssl/rust-openssl](./rust-openssl-rust-openssl.md) | ⭐ 1.7k | Rust | 54/100 |
 | 185 | [frida/frida-core](./frida-frida-core.md) | ⭐ 790 | Vala | 54/100 |
 | 186 | [sdroege/gstreamer-rs](./sdroege-gstreamer-rs.md) | ⭐ 596 | Rust | 54/100 |
@@ -205,7 +205,7 @@
 | 195 | [georust/gdal](./georust-gdal.md) | ⭐ 459 | Rust | 53/100 |
 | 196 | [Dario-Chang/Spark-Governance-SDK](./dario-chang-spark-governance-sdk.md) | ⭐ — | — | 53/100 |
 | 197 | [twistedfall/opencv-rust](./twistedfall-opencv-rust.md) | ⭐ 2.5k | Rust | 53/100 |
-| 198 | [beowolx/rensa](./beowolx-rensa.md) | ⭐ 316 | Rust | 53/100 |
+| 198 | [beowolx/rensa](./beowolx-rensa.md) | ⭐ 317 | Rust | 53/100 |
 | 199 | [vhspace/sdl3-rs](./vhspace-sdl3-rs.md) | ⭐ 403 | Rust | 53/100 |
 | 200 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.4k | Rust | 53/100 |
 | 201 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.5k | Kotlin | 53/100 |
@@ -225,7 +225,7 @@
 | 215 | [apple/apple-ads-platform-api-node](./apple-apple-ads-platform-api-node.md) | ⭐ 6 | TypeScript | 51/100 |
 | 216 | [embedder-dev/pytrace](./embedder-dev-pytrace.md) | ⭐ 19 | — | 51/100 |
 | 217 | [abhinav00anand/viento](./abhinav00anand-viento.md) | ⭐ 1 | Python | 51/100 |
-| 218 | [freedesktop-rs/nmrs](./freedesktop-rs-nmrs.md) | ⭐ 328 | Rust | 51/100 |
+| 218 | [freedesktop-rs/nmrs](./freedesktop-rs-nmrs.md) | ⭐ 329 | Rust | 51/100 |
 | 219 | [google/rust_icu](./google-rust-icu.md) | ⭐ 141 | Rust | 51/100 |
 | 220 | [cloudflare/boring](./cloudflare-boring.md) | ⭐ 532 | Rust | 51/100 |
 | 221 | [DelSkayn/rquickjs](./delskayn-rquickjs.md) | ⭐ 1.1k | Rust | 51/100 |

@@ -50,7 +50,7 @@
 | 40 | [apache/shenyu](./apache-shenyu.md) | ⭐ 8.9k | Java | 72/100 |
 | 41 | [chen08209/FlClash](./chen08209-flclash.md) | ⭐ 62.5k | Dart | 72/100 |
 | 42 | [kubernetes-sigs/gateway-api](./kubernetes-sigs-gateway-api.md) | ⭐ 3k | Go | 72/100 |
-| 43 | [EvilFreelancer/openapi-to-cli](./evilfreelancer-openapi-to-cli.md) | ⭐ 267 | TypeScript | 71/100 |
+| 43 | [EvilFreelancer/openapi-to-cli](./evilfreelancer-openapi-to-cli.md) | ⭐ 268 | TypeScript | 71/100 |
 | 44 | [windtf/wireproxy](./windtf-wireproxy.md) | ⭐ 5.9k | Go | 71/100 |
 | 45 | [qbittorrent/qBittorrent](./qbittorrent-qbittorrent.md) | ⭐ 41.5k | C++ | 71/100 |
 | 46 | [msoap/shell2http](./msoap-shell2http.md) | ⭐ 1.5k | Go | 71/100 |
@@ -300,7 +300,7 @@
 | 290 | [MizuchiLabs/mantrae](./mizuchilabs-mantrae.md) | ⭐ 493 | TypeScript | 59/100 |
 | 291 | [warmcat/libwebsockets](./warmcat-libwebsockets.md) | ⭐ 5.4k | C | 59/100 |
 | 292 | [dotnet/dev-proxy](./dotnet-dev-proxy.md) | ⭐ 842 | C# | 59/100 |
-| 293 | [XTLS/libXray](./xtls-libxray.md) | ⭐ 235 | Go | 59/100 |
+| 293 | [XTLS/libXray](./xtls-libxray.md) | ⭐ 236 | Go | 59/100 |
 | 294 | [AppsGanin/rospanel](./appsganin-rospanel.md) | ⭐ 32 | Go | 58/100 |
 | 295 | [shadow/shadow](./shadow-shadow.md) | ⭐ 1.7k | Rust | 58/100 |
 | 296 | [heiher/hev-socks5-tunnel](./heiher-hev-socks5-tunnel.md) | ⭐ 2.1k | C | 58/100 |
@@ -384,7 +384,7 @@
 | 374 | [HatsuneMikuUwU/MikuBoxForAndroid](./hatsunemikuuwu-mikuboxforandroid.md) | ⭐ 768 | Kotlin | 55/100 |
 | 375 | [mullvad/gotatun](./mullvad-gotatun.md) | ⭐ 1.4k | Rust | 55/100 |
 | 376 | [0x676e67/vproxy](./0x676e67-vproxy.md) | ⭐ 425 | Rust | 55/100 |
-| 377 | [guibeira/wakezilla](./guibeira-wakezilla.md) | ⭐ 303 | Rust | 55/100 |
+| 377 | [guibeira/wakezilla](./guibeira-wakezilla.md) | ⭐ 305 | Rust | 55/100 |
 | 378 | [ngrok/ngrok-python](./ngrok-ngrok-python.md) | ⭐ 183 | Rust | 55/100 |
 | 379 | [appleboy/easyssh-proxy](./appleboy-easyssh-proxy.md) | ⭐ 349 | Go | 55/100 |
 | 380 | [EmbarkStudios/quilkin](./embarkstudios-quilkin.md) | ⭐ 1.6k | Rust | 55/100 |
@@ -455,7 +455,7 @@
 | 445 | [eepnet/emissary](./eepnet-emissary.md) | ⭐ 263 | Rust | 52/100 |
 | 446 | [tun-rs/tun-rs](./tun-rs-tun-rs.md) | ⭐ 237 | Rust | 52/100 |
 | 447 | [ngrok/ngrok-rust](./ngrok-ngrok-rust.md) | ⭐ 397 | Rust | 52/100 |
-| 448 | [kroxylicious/kroxylicious](./kroxylicious-kroxylicious.md) | ⭐ 334 | Java | 52/100 |
+| 448 | [kroxylicious/kroxylicious](./kroxylicious-kroxylicious.md) | ⭐ 335 | Java | 52/100 |
 | 449 | [gen0sec/synapse](./gen0sec-synapse.md) | ⭐ 128 | Rust | 52/100 |
 | 450 | [barry-far/V2ray-Config](./barry-far-v2ray-config.md) | ⭐ 2.7k | Python | 52/100 |
 | 451 | [DiningFactory/panda-vpn-pro](./diningfactory-panda-vpn-pro.md) | ⭐ 17.7k | — | 52/100 |
@@ -474,7 +474,7 @@
 | 464 | [femboyisp/yip](./femboyisp-yip.md) | ⭐ 130 | Rust | 51/100 |
 | 465 | [PinkD/corplink-rs](./pinkd-corplink-rs.md) | ⭐ 435 | Rust | 51/100 |
 | 466 | [X4BNet/lists_vpn](./x4bnet-lists-vpn.md) | ⭐ 930 | Shell | 51/100 |
-| 467 | [rayfish/rayfish](./rayfish-rayfish.md) | ⭐ 788 | Rust | 51/100 |
+| 467 | [rayfish/rayfish](./rayfish-rayfish.md) | ⭐ 791 | Rust | 51/100 |
 | 468 | [lzwme/scoop-proxy-cn](./lzwme-scoop-proxy-cn.md) | ⭐ 429 | templ | 51/100 |
 | 469 | [Devolutions/devolutions-gateway](./devolutions-devolutions-gateway.md) | ⭐ 168 | Rust | 51/100 |
 | 470 | [razvandimescu/numa](./razvandimescu-numa.md) | ⭐ 2k | Rust | 51/100 |
