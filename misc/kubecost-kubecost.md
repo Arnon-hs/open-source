@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 675 |
+| ⭐ **Stars** | 676 |
 | 🍴 **Forks** | 433 |
 | 💻 **Language** | Mustache |
 | 📈 **Score** | 43/100 |

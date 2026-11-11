@@ -14,7 +14,7 @@
 | 4 | [kpumuk/meta-tags](./kpumuk-meta-tags.md) | ⭐ 2.8k | Ruby | 63/100 |
 | 5 | [jasonwebb/morphogenesis-resources](./jasonwebb-morphogenesis-resources.md) | ⭐ 2.3k | — | 61/100 |
 | 6 | [nonbili/Nora](./nonbili-nora.md) | ⭐ 1.2k | TypeScript | 59/100 |
-| 7 | [openplayerjs/openplayerjs](./openplayerjs-openplayerjs.md) | ⭐ 649 | TypeScript | 59/100 |
+| 7 | [openplayerjs/openplayerjs](./openplayerjs-openplayerjs.md) | ⭐ 650 | TypeScript | 59/100 |
 | 8 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 1.1k | TypeScript | 56/100 |
 | 9 | [codialab/panacus](./codialab-panacus.md) | ⭐ 141 | Rust | 55/100 |
 | 10 | [testedmedia/seo-command-center](./testedmedia-seo-command-center.md) | ⭐ 26 | — | 54/100 |

@@ -15,7 +15,7 @@
 | 5 | [Consensys/gnark](./consensys-gnark.md) | ⭐ 1.7k | Go | 69/100 |
 | 6 | [google-labs-code/design.md](./google-labs-code-design.md.md) | ⭐ 28.8k | TypeScript | 69/100 |
 | 7 | [PapirusDevelopmentTeam/papirus-icon-theme](./papirusdevelopmentteam-papirus-icon-theme.md) | ⭐ 8.2k | Shell | 68/100 |
-| 8 | [HavenDV/H.NotifyIcon](./havendv-h.notifyicon.md) | ⭐ 769 | C# | 68/100 |
+| 8 | [HavenDV/H.NotifyIcon](./havendv-h.notifyicon.md) | ⭐ 771 | C# | 68/100 |
 | 9 | [partcad/partcad](./partcad-partcad.md) | ⭐ 529 | Python | 67/100 |
 | 10 | [intel/rohd](./intel-rohd.md) | ⭐ 497 | Dart | 67/100 |
 | 11 | [GoogleChromeLabs/ProjectVisBug](./googlechromelabs-projectvisbug.md) | ⭐ 5.8k | JavaScript | 66/100 |
@@ -29,7 +29,7 @@
 | 19 | [xiangechen/chili3d](./xiangechen-chili3d.md) | ⭐ 5k | TypeScript | 63/100 |
 | 20 | [monkeytypegame/monkeytype](./monkeytypegame-monkeytype.md) | ⭐ 21k | TypeScript | 63/100 |
 | 21 | [psychopy/psychopy](./psychopy-psychopy.md) | ⭐ 2.1k | Python | 62/100 |
-| 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 700 | Python | 62/100 |
+| 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 701 | Python | 62/100 |
 | 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 550 | Python | 62/100 |
 | 24 | [MewPurPur/GodSVG](./mewpurpur-godsvg.md) | ⭐ 2.8k | GDScript | 61/100 |
 | 25 | [Lailloken/Exile-UI](./lailloken-exile-ui.md) | ⭐ 1.4k | AutoHotkey | 61/100 |
@@ -45,9 +45,9 @@
 | 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 107.6k | JavaScript | 59/100 |
 | 36 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 7.1k | PHP | 59/100 |
 | 37 | [QwenLM/Qwen3-TTS](./qwenlm-qwen3-tts.md) | ⭐ 14.3k | Python | 58/100 |
-| 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 674 | Vue | 58/100 |
+| 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 675 | Vue | 58/100 |
 | 39 | [TousstNicolas/JLC2KiCad_lib](./tousstnicolas-jlc2kicad-lib.md) | ⭐ 491 | Python | 58/100 |
-| 40 | [alphagov/govuk-design-system](./alphagov-govuk-design-system.md) | ⭐ 688 | Nunjucks | 58/100 |
+| 40 | [alphagov/govuk-design-system](./alphagov-govuk-design-system.md) | ⭐ 689 | Nunjucks | 58/100 |
 | 41 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 520 | TypeScript | 58/100 |
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 609 | Python | 58/100 |
 | 43 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 26.2k | JavaScript | 58/100 |
@@ -78,7 +78,7 @@
 | 68 | [emilkowalski/skills](./emilkowalski-skills.md) | ⭐ 55.8k | — | 55/100 |
 | 69 | [daangn/seed-design](./daangn-seed-design.md) | ⭐ 1.2k | TypeScript | 55/100 |
 | 70 | [ZeroZ-lab/cc-design](./zeroz-lab-cc-design.md) | ⭐ 831 | JavaScript | 55/100 |
-| 71 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 828 | Shell | 55/100 |
+| 71 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 829 | Shell | 55/100 |
 | 72 | [AxonIQ/AxonFramework](./axoniq-axonframework.md) | ⭐ 3.6k | Java | 55/100 |
 | 73 | [amaancoderx/npxskillui](./amaancoderx-npxskillui.md) | ⭐ 2.5k | TypeScript | 54/100 |
 | 74 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 348 | Python | 54/100 |
@@ -123,7 +123,7 @@
 | 113 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 47/100 |
 | 114 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ 24 | — | 46/100 |
 | 115 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |
-| 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 675 | TypeScript | 46/100 |
+| 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 678 | TypeScript | 46/100 |
 | 117 | [meta/astryx](./meta-astryx.md) | ⭐ 21.7k | — | 45/100 |
 | 118 | [VenoM9078/gradientdeck-skill](./venom9078-gradientdeck-skill.md) | ⭐ 44 | — | 45/100 |
 | 119 | [ui-layouts/uilayouts](./ui-layouts-uilayouts.md) | ⭐ 3.9k | — | 45/100 |

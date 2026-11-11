@@ -1,6 +1,6 @@
 # circuitlab-app/circuitlab
 
-[![Stars](https://img.shields.io/github/stars/circuitlab-app/circuitlab?style=flat-square&color=yellow)](https://github.com/circuitlab-app/circuitlab/stargazers) [![Forks](https://img.shields.io/github/forks/circuitlab-app/circuitlab?style=flat-square&color=blue)](https://github.com/circuitlab-app/circuitlab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/circuitlab-app/circuitlab?style=flat-square&color=yellow)](https://github.com/circuitlab-app/circuitlab/stargazers) [![Forks](https://img.shields.io/github/forks/circuitlab-app/circuitlab?style=flat-square&color=blue)](https://github.com/circuitlab-app/circuitlab/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > 🚀 Open-source 3D electronics simulator with Arduino, ESP32, Raspberry Pi & AI-powered circuit control. Build, simulate, experiment, and learn electronics interactively!
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | 7 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ circuitlab-app/circuitlab：circuitlab-app/circuitlab helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 59/100 |
+| quality | 54/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 68/100 |
+| production | 62/100 |
+| outlook | 61/100 |
 | adoption | 19/100 |
 | categoryMatchCount | 200/100 |
 | stars | 18/100 |
 | forks | 23/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

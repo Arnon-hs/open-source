@@ -21,7 +21,7 @@
 | 11 | [matrix-org/matrix-js-sdk](./matrix-org-matrix-js-sdk.md) | ⭐ 2.2k | TypeScript | 75/100 |
 | 12 | [opencoredev/email-sdk](./opencoredev-email-sdk.md) | ⭐ 516 | MDX | 75/100 |
 | 13 | [jeboehm/docker-mailserver](./jeboehm-docker-mailserver.md) | ⭐ 478 | Shell | 74/100 |
-| 14 | [8go/matrix-commander](./8go-matrix-commander.md) | ⭐ 762 | Python | 74/100 |
+| 14 | [8go/matrix-commander](./8go-matrix-commander.md) | ⭐ 763 | Python | 74/100 |
 | 15 | [juggleim/im-server](./juggleim-im-server.md) | ⭐ 3.5k | Go | 74/100 |
 | 16 | [beste/firebase-php](./beste-firebase-php.md) | ⭐ 2.4k | PHP | 74/100 |
 | 17 | [metabase/metabase](./metabase-metabase.md) | ⭐ 50.3k | Clojure | 74/100 |
@@ -67,7 +67,7 @@
 | 57 | [Shoshuo/Prismarr](./shoshuo-prismarr.md) | ⭐ 474 | Twig | 68/100 |
 | 58 | [abdolence/slack-morphism-rust](./abdolence-slack-morphism-rust.md) | ⭐ 232 | Rust | 67/100 |
 | 59 | [firebase/firebase-cpp-sdk](./firebase-firebase-cpp-sdk.md) | ⭐ 325 | C++ | 67/100 |
-| 60 | [intri-in/manage-my-damn-life-nextjs](./intri-in-manage-my-damn-life-nextjs.md) | ⭐ 646 | JavaScript | 67/100 |
+| 60 | [intri-in/manage-my-damn-life-nextjs](./intri-in-manage-my-damn-life-nextjs.md) | ⭐ 647 | JavaScript | 67/100 |
 | 61 | [goshs-labs/goshs](./goshs-labs-goshs.md) | ⭐ 1k | Go | 67/100 |
 | 62 | [pimalaya/himalaya](./pimalaya-himalaya.md) | ⭐ 7.6k | Rust | 67/100 |
 | 63 | [s1t5/mail-archiver](./s1t5-mail-archiver.md) | ⭐ 2.2k | C# | 67/100 |
@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 361 | TypeScript | 65/100 |
@@ -197,7 +197,7 @@
 | 187 | [rufftruffles/spameater](./rufftruffles-spameater.md) | ⭐ 229 | JavaScript | 57/100 |
 | 188 | [spatie/calendar-links](./spatie-calendar-links.md) | ⭐ 1k | PHP | 57/100 |
 | 189 | [happyDomain/happydeliver](./happydomain-happydeliver.md) | ⭐ 238 | Go | 57/100 |
-| 190 | [decke/smtprelay](./decke-smtprelay.md) | ⭐ 640 | Go | 57/100 |
+| 190 | [decke/smtprelay](./decke-smtprelay.md) | ⭐ 641 | Go | 57/100 |
 | 191 | [KashCal/KashCal](./kashcal-kashcal.md) | ⭐ 490 | Kotlin | 57/100 |
 | 192 | [movim/movim](./movim-movim.md) | ⭐ 2.1k | PHP | 57/100 |
 | 193 | [foundation/inky](./foundation-inky.md) | ⭐ 711 | Rust | 57/100 |
@@ -222,7 +222,7 @@
 | 212 | [Vizards/deepseek-v4-for-copilot](./vizards-deepseek-v4-for-copilot.md) | ⭐ 1.5k | TypeScript | 55/100 |
 | 213 | [mautrix/slack](./mautrix-slack.md) | ⭐ 107 | Go | 55/100 |
 | 214 | [allegro/hermes](./allegro-hermes.md) | ⭐ 872 | Java | 55/100 |
-| 215 | [morgan3d/markdeep](./morgan3d-markdeep.md) | ⭐ 644 | JavaScript | 55/100 |
+| 215 | [morgan3d/markdeep](./morgan3d-markdeep.md) | ⭐ 646 | JavaScript | 55/100 |
 | 216 | [sebbo2002/ical-generator](./sebbo2002-ical-generator.md) | ⭐ 858 | TypeScript | 55/100 |
 | 217 | [Medvedev91/timeto.me](./medvedev91-timeto.me.md) | ⭐ 727 | Kotlin | 55/100 |
 | 218 | [jmhobbs/cultofthepartyparrot.com](./jmhobbs-cultofthepartyparrot.com.md) | ⭐ 1.6k | HTML | 55/100 |
@@ -233,11 +233,11 @@
 | 223 | [codeswithroh/baad-mein](./codeswithroh-baad-mein.md) | ⭐ — | TypeScript | 54/100 |
 | 224 | [NextOSP/comail](./nextosp-comail.md) | ⭐ 124 | Rust | 54/100 |
 | 225 | [swoosh/swoosh](./swoosh-swoosh.md) | ⭐ 1.5k | Elixir | 54/100 |
-| 226 | [Blaizzy/nativ](./blaizzy-nativ.md) | ⭐ 2 | Swift | 54/100 |
+| 226 | [Blaizzy/nativ](./blaizzy-nativ.md) | ⭐ 3 | Swift | 54/100 |
 | 227 | [tweedegolf/mailcrab](./tweedegolf-mailcrab.md) | ⭐ 1k | Rust | 54/100 |
 | 228 | [nextcloud/tasks](./nextcloud-tasks.md) | ⭐ 709 | JavaScript | 54/100 |
 | 229 | [openmls/openmls](./openmls-openmls.md) | ⭐ 1.1k | Rust | 54/100 |
-| 230 | [ruma/ruma](./ruma-ruma.md) | ⭐ 744 | Rust | 54/100 |
+| 230 | [ruma/ruma](./ruma-ruma.md) | ⭐ 746 | Rust | 54/100 |
 | 231 | [khaled-alshamaa/ar-php](./khaled-alshamaa-ar-php.md) | ⭐ 342 | PHP | 54/100 |
 | 232 | [lennart-k/rustical](./lennart-k-rustical.md) | ⭐ 573 | Rust | 54/100 |
 | 233 | [containrrr/shoutrrr](./containrrr-shoutrrr.md) | ⭐ 1.7k | Go | 54/100 |
@@ -304,7 +304,7 @@
 | 294 | [egulias/EmailValidator](./egulias-emailvalidator.md) | ⭐ 11.6k | PHP | 47/100 |
 | 295 | [gotchat-ai/foundry](./gotchat-ai-foundry.md) | ⭐ 5 | — | 47/100 |
 | 296 | [cpkb-bluezoo/gumdrop](./cpkb-bluezoo-gumdrop.md) | ⭐ 2 | Java | 47/100 |
-| 297 | [qaul/qaul.net](./qaul-qaul.net.md) | ⭐ 738 | Dart | 47/100 |
+| 297 | [qaul/qaul.net](./qaul-qaul.net.md) | ⭐ 739 | Dart | 47/100 |
 | 298 | [QingJ01/Pebble](./qingj01-pebble.md) | ⭐ 609 | Rust | 47/100 |
 | 299 | [chatmail/core](./chatmail-core.md) | ⭐ 949 | Rust | 47/100 |
 | 300 | [tangyoha/telegram_media_downloader](./tangyoha-telegram-media-downloader.md) | ⭐ 5.7k | JavaScript | 46/100 |

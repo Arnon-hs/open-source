@@ -31,12 +31,12 @@
 | 21 | [MagicStack/asyncpg](./magicstack-asyncpg.md) | ⭐ 8.1k | Python | 70/100 |
 | 22 | [adyanth/cloudflare-operator](./adyanth-cloudflare-operator.md) | ⭐ 693 | Go | 70/100 |
 | 23 | [remotestorage/remotestorage.js](./remotestorage-remotestorage.js.md) | ⭐ 2.4k | JavaScript | 70/100 |
-| 24 | [TencentCloud/tencentcloud-sdk-python](./tencentcloud-tencentcloud-sdk-python.md) | ⭐ 718 | Python | 70/100 |
+| 24 | [TencentCloud/tencentcloud-sdk-python](./tencentcloud-tencentcloud-sdk-python.md) | ⭐ 719 | Python | 70/100 |
 | 25 | [googleads/googleads-mobile-unity](./googleads-googleads-mobile-unity.md) | ⭐ 1.6k | C# | 70/100 |
 | 26 | [operator-framework/java-operator-sdk](./operator-framework-java-operator-sdk.md) | ⭐ 946 | Java | 70/100 |
-| 27 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 750 | Go | 70/100 |
+| 27 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 751 | Go | 70/100 |
 | 28 | [octokit/octokit.js](./octokit-octokit.js.md) | ⭐ 7.9k | TypeScript | 69/100 |
-| 29 | [meilisearch/meilisearch-php](./meilisearch-meilisearch-php.md) | ⭐ 763 | PHP | 69/100 |
+| 29 | [meilisearch/meilisearch-php](./meilisearch-meilisearch-php.md) | ⭐ 764 | PHP | 69/100 |
 | 30 | [yhirose/cpp-httplib](./yhirose-cpp-httplib.md) | ⭐ 17k | C++ | 69/100 |
 | 31 | [getsentry/sentry-cocoa](./getsentry-sentry-cocoa.md) | ⭐ 1.1k | Swift | 69/100 |
 | 32 | [xberg-io/tree-sitter-language-pack](./xberg-io-tree-sitter-language-pack.md) | ⭐ 483 | Rust | 69/100 |
@@ -119,12 +119,12 @@
 | 109 | [idalib-rs/idalib](./idalib-rs-idalib.md) | ⭐ 353 | Rust | 61/100 |
 | 110 | [nrfconnect/sdk-nrf](./nrfconnect-sdk-nrf.md) | ⭐ 1.4k | C | 61/100 |
 | 111 | [temporalio/samples-python](./temporalio-samples-python.md) | ⭐ 380 | Python | 61/100 |
-| 112 | [awslabs/amazon-kinesis-client](./awslabs-amazon-kinesis-client.md) | ⭐ 668 | Java | 61/100 |
+| 112 | [awslabs/amazon-kinesis-client](./awslabs-amazon-kinesis-client.md) | ⭐ 669 | Java | 61/100 |
 | 113 | [dotnet/android](./dotnet-android.md) | ⭐ 2.1k | C# | 61/100 |
 | 114 | [mailgun/mailgun.js](./mailgun-mailgun.js.md) | ⭐ 551 | TypeScript | 61/100 |
 | 115 | [LottieFiles/dotlottie-rs](./lottiefiles-dotlottie-rs.md) | ⭐ 288 | Rust | 61/100 |
 | 116 | [raydium-io/raydium-sdk-V2](./raydium-io-raydium-sdk-v2.md) | ⭐ 352 | TypeScript | 61/100 |
-| 117 | [open-telemetry/opentelemetry-dotnet-contrib](./open-telemetry-opentelemetry-dotnet-contrib.md) | ⭐ 680 | C# | 61/100 |
+| 117 | [open-telemetry/opentelemetry-dotnet-contrib](./open-telemetry-opentelemetry-dotnet-contrib.md) | ⭐ 679 | C# | 61/100 |
 | 118 | [madsmtm/objc2](./madsmtm-objc2.md) | ⭐ 1.1k | Rust | 61/100 |
 | 119 | [dotnet/dotnet](./dotnet-dotnet.md) | ⭐ 1.3k | C# | 61/100 |
 | 120 | [DataDog/browser-sdk](./datadog-browser-sdk.md) | ⭐ 401 | TypeScript | 61/100 |
@@ -147,7 +147,7 @@
 | 137 | [xai-org/xai-sdk-ts](./xai-org-xai-sdk-ts.md) | ⭐ 68 | — | 59/100 |
 | 138 | [sahlberg/libnfs](./sahlberg-libnfs.md) | ⭐ 609 | C | 59/100 |
 | 139 | [gtk-rs/gtk-rs-core](./gtk-rs-gtk-rs-core.md) | ⭐ 381 | Rust | 59/100 |
-| 140 | [pygobject/pycairo](./pygobject-pycairo.md) | ⭐ 701 | C | 59/100 |
+| 140 | [pygobject/pycairo](./pygobject-pycairo.md) | ⭐ 702 | C | 59/100 |
 | 141 | [ceph/go-ceph](./ceph-go-ceph.md) | ⭐ 695 | Go | 59/100 |
 | 142 | [mpi4py/mpi4py](./mpi4py-mpi4py.md) | ⭐ 934 | Python | 59/100 |
 | 143 | [databento/databento-rs](./databento-databento-rs.md) | ⭐ 108 | Rust | 59/100 |
@@ -181,7 +181,7 @@
 | 171 | [jellydn/zed-101-setup](./jellydn-zed-101-setup.md) | ⭐ 1.5k | TypeScript | 56/100 |
 | 172 | [bytecodealliance/wit-bindgen](./bytecodealliance-wit-bindgen.md) | ⭐ 1.5k | Rust | 56/100 |
 | 173 | [apple/swift-temporal-sdk](./apple-swift-temporal-sdk.md) | ⭐ 321 | Swift | 56/100 |
-| 174 | [rodrigocfd/winsafe](./rodrigocfd-winsafe.md) | ⭐ 706 | Rust | 56/100 |
+| 174 | [rodrigocfd/winsafe](./rodrigocfd-winsafe.md) | ⭐ 707 | Rust | 56/100 |
 | 175 | [get-convex/convex-js](./get-convex-convex-js.md) | ⭐ 347 | TypeScript | 56/100 |
 | 176 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 320 | Rust | 56/100 |
 | 177 | [Enos2/my-sdk-work](./enos2-my-sdk-work.md) | ⭐ 1 | TypeScript | 56/100 |
@@ -192,7 +192,7 @@
 | 182 | [prove-rs/z3.rs](./prove-rs-z3.rs.md) | ⭐ 541 | Rust | 55/100 |
 | 183 | [y3owk1n/neru](./y3owk1n-neru.md) | ⭐ 917 | Go | 55/100 |
 | 184 | [rust-openssl/rust-openssl](./rust-openssl-rust-openssl.md) | ⭐ 1.7k | Rust | 54/100 |
-| 185 | [frida/frida-core](./frida-frida-core.md) | ⭐ 789 | Vala | 54/100 |
+| 185 | [frida/frida-core](./frida-frida-core.md) | ⭐ 790 | Vala | 54/100 |
 | 186 | [sdroege/gstreamer-rs](./sdroege-gstreamer-rs.md) | ⭐ 595 | Rust | 54/100 |
 | 187 | [restsend/restsend-rs](./restsend-restsend-rs.md) | ⭐ 143 | Rust | 54/100 |
 | 188 | [google/crubit](./google-crubit.md) | ⭐ 1.1k | C++ | 54/100 |

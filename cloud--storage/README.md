@@ -11,7 +11,7 @@
 | 1 | [GAM-team/GAM](./gam-team-gam.md) | ⭐ 4.4k | Python | 87/100 |
 | 2 | [googleapis/google-cloud-go](./googleapis-google-cloud-go.md) | ⭐ 4.6k | Go | 83/100 |
 | 3 | [minio/minio-go](./minio-minio-go.md) | ⭐ 3k | Go | 82/100 |
-| 4 | [googleapis/google-cloud-cpp](./googleapis-google-cloud-cpp.md) | ⭐ 661 | C++ | 80/100 |
+| 4 | [googleapis/google-cloud-cpp](./googleapis-google-cloud-cpp.md) | ⭐ 662 | C++ | 80/100 |
 | 5 | [utkuozdemir/pv-migrate](./utkuozdemir-pv-migrate.md) | ⭐ 2.4k | Go | 80/100 |
 | 6 | [microsoft/aspire-samples](./microsoft-aspire-samples.md) | ⭐ 1.2k | C# | 80/100 |
 | 7 | [myrosama/DaemonClient](./myrosama-daemonclient.md) | ⭐ 8 | TypeScript | 79/100 |
@@ -79,7 +79,7 @@
 | 69 | [apify/apify-cli](./apify-apify-cli.md) | ⭐ 264 | TypeScript | 71/100 |
 | 70 | [ceph/ceph](./ceph-ceph.md) | ⭐ 17.2k | C++ | 71/100 |
 | 71 | [appwrite/appwrite](./appwrite-appwrite.md) | ⭐ 57.9k | TypeScript | 71/100 |
-| 72 | [scality/Zenko](./scality-zenko.md) | ⭐ 673 | Gherkin | 70/100 |
+| 72 | [scality/Zenko](./scality-zenko.md) | ⭐ 674 | Gherkin | 70/100 |
 | 73 | [sameerk27/vigil365](./sameerk27-vigil365.md) | ⭐ 284 | C# | 70/100 |
 | 74 | [aboutcode-org/scancode-toolkit](./aboutcode-org-scancode-toolkit.md) | ⭐ 2.7k | Python | 70/100 |
 | 75 | [DaviReisVieira/stackport](./davireisvieira-stackport.md) | ⭐ 176 | TypeScript | 70/100 |
@@ -124,7 +124,7 @@
 | 114 | [apache/openwhisk](./apache-openwhisk.md) | ⭐ 6.8k | Scala | 68/100 |
 | 115 | [kubevela/kubevela](./kubevela-kubevela.md) | ⭐ 7.9k | Go | 68/100 |
 | 116 | [longhorn/longhorn](./longhorn-longhorn.md) | ⭐ 8.1k | Shell | 68/100 |
-| 117 | [smithy-lang/smithy-rs](./smithy-lang-smithy-rs.md) | ⭐ 686 | Rust | 68/100 |
+| 117 | [smithy-lang/smithy-rs](./smithy-lang-smithy-rs.md) | ⭐ 687 | Rust | 68/100 |
 | 118 | [midwayjs/midway](./midwayjs-midway.md) | ⭐ 7.8k | TypeScript | 68/100 |
 | 119 | [cloudflare/workers-sdk](./cloudflare-workers-sdk.md) | ⭐ 4.7k | TypeScript | 68/100 |
 | 120 | [Chistogov/syncra](./chistogov-syncra.md) | ⭐ 4 | TypeScript | 67/100 |
@@ -179,7 +179,7 @@
 | 169 | [terraform-google-modules/terraform-google-gcloud](./terraform-google-modules-terraform-google-gcloud.md) | ⭐ 180 | HCL | 65/100 |
 | 170 | [spinframework/spin](./spinframework-spin.md) | ⭐ 6.6k | Rust | 65/100 |
 | 171 | [mickael-kerjean/filestash](./mickael-kerjean-filestash.md) | ⭐ 14.9k | Go | 65/100 |
-| 172 | [drivendataorg/cloudpathlib](./drivendataorg-cloudpathlib.md) | ⭐ 633 | Python | 65/100 |
+| 172 | [drivendataorg/cloudpathlib](./drivendataorg-cloudpathlib.md) | ⭐ 634 | Python | 65/100 |
 | 173 | [kubeovn/kube-ovn](./kubeovn-kube-ovn.md) | ⭐ 2.4k | Go | 65/100 |
 | 174 | [yoshidan/google-cloud-rust](./yoshidan-google-cloud-rust.md) | ⭐ 302 | Rust | 65/100 |
 | 175 | [aws/aws-sdk-ruby](./aws-aws-sdk-ruby.md) | ⭐ 3.7k | Ruby | 65/100 |
@@ -248,7 +248,7 @@
 | 238 | [serverless-heaven/serverless-webpack](./serverless-heaven-serverless-webpack.md) | ⭐ 1.7k | JavaScript | 62/100 |
 | 239 | [gardener/etcd-backup-restore](./gardener-etcd-backup-restore.md) | ⭐ 336 | Go | 62/100 |
 | 240 | [bitwarden/directory-connector](./bitwarden-directory-connector.md) | ⭐ 320 | TypeScript | 62/100 |
-| 241 | [spidernet-io/spiderpool](./spidernet-io-spiderpool.md) | ⭐ 683 | Go | 62/100 |
+| 241 | [spidernet-io/spiderpool](./spidernet-io-spiderpool.md) | ⭐ 684 | Go | 62/100 |
 | 242 | [jamebal/jmal-cloud-server](./jamebal-jmal-cloud-server.md) | ⭐ 409 | Java | 62/100 |
 | 243 | [tursodatabase/turso-cli](./tursodatabase-turso-cli.md) | ⭐ 326 | Go | 62/100 |
 | 244 | [cf-pages/Telegraph-Image](./cf-pages-telegraph-image.md) | ⭐ 4.7k | HTML | 62/100 |
@@ -256,7 +256,7 @@
 | 246 | [raulcastillabravo/mistlock](./raulcastillabravo-mistlock.md) | ⭐ 488 | Python | 62/100 |
 | 247 | [canonical/microceph](./canonical-microceph.md) | ⭐ 398 | Go | 62/100 |
 | 248 | [cloudbase/garm](./cloudbase-garm.md) | ⭐ 460 | Go | 62/100 |
-| 249 | [KunMoe/kun-touchgal-next](./kunmoe-kun-touchgal-next.md) | ⭐ 846 | TypeScript | 62/100 |
+| 249 | [KunMoe/kun-touchgal-next](./kunmoe-kun-touchgal-next.md) | ⭐ 848 | TypeScript | 62/100 |
 | 250 | [artifacthub/hub](./artifacthub-hub.md) | ⭐ 2.1k | TypeScript | 62/100 |
 | 251 | [AzureAD/microsoft-identity-web](./azuread-microsoft-identity-web.md) | ⭐ 792 | C# | 62/100 |
 | 252 | [bigstack-oss/cubecos](./bigstack-oss-cubecos.md) | ⭐ 162 | Python | 62/100 |
@@ -285,11 +285,11 @@
 | 275 | [zKillboard/zKillboard](./zkillboard-zkillboard.md) | ⭐ 315 | HTML | 61/100 |
 | 276 | [Barre/ZeroFS](./barre-zerofs.md) | ⭐ 3.2k | Rust | 61/100 |
 | 277 | [aws/secrets-store-csi-driver-provider-aws](./aws-secrets-store-csi-driver-provider-aws.md) | ⭐ 598 | Go | 61/100 |
-| 278 | [meshery/meshery.io](./meshery-meshery.io.md) | ⭐ 906 | JavaScript | 61/100 |
+| 278 | [meshery/meshery.io](./meshery-meshery.io.md) | ⭐ 907 | JavaScript | 61/100 |
 | 279 | [saltbo/zpan](./saltbo-zpan.md) | ⭐ 2.1k | TypeScript | 61/100 |
 | 280 | [Azure/azure-sdk-for-js](./azure-azure-sdk-for-js.md) | ⭐ 2.3k | TypeScript | 61/100 |
 | 281 | [arcjet/arcjet-js](./arcjet-arcjet-js.md) | ⭐ 699 | TypeScript | 61/100 |
-| 282 | [nubenetes/awesome-kubernetes](./nubenetes-awesome-kubernetes.md) | ⭐ 675 | Python | 61/100 |
+| 282 | [nubenetes/awesome-kubernetes](./nubenetes-awesome-kubernetes.md) | ⭐ 676 | Python | 61/100 |
 | 283 | [axpdev-lab/aeroftp](./axpdev-lab-aeroftp.md) | ⭐ 278 | Rust | 61/100 |
 | 284 | [wso2/product-integrator-mi](./wso2-product-integrator-mi.md) | ⭐ 290 | Java | 61/100 |
 | 285 | [Azure/azure-sdk-for-python](./azure-azure-sdk-for-python.md) | ⭐ 5.6k | Python | 61/100 |
@@ -318,7 +318,7 @@
 | 308 | [Azure/APIOps](./azure-apiops.md) | ⭐ 448 | C# | 59/100 |
 | 309 | [softwaremill/elasticmq](./softwaremill-elasticmq.md) | ⭐ 2.9k | Scala | 59/100 |
 | 310 | [Awuqing/BackupX](./awuqing-backupx.md) | ⭐ 103 | Go | 59/100 |
-| 311 | [Ahoo-Wang/CosId](./ahoo-wang-cosid.md) | ⭐ 653 | Java | 59/100 |
+| 311 | [Ahoo-Wang/CosId](./ahoo-wang-cosid.md) | ⭐ 654 | Java | 59/100 |
 | 312 | [GoogleCloudPlatform/terraform-google-conversion](./googlecloudplatform-terraform-google-conversion.md) | ⭐ 133 | Go | 59/100 |
 | 313 | [Azure/azure-storage-azcopy](./azure-azure-storage-azcopy.md) | ⭐ 700 | Go | 59/100 |
 | 314 | [topling/toplingdb](./topling-toplingdb.md) | ⭐ 1k | C++ | 59/100 |
@@ -404,10 +404,10 @@
 | 394 | [rustfs/cli](./rustfs-cli.md) | ⭐ 179 | Rust | 56/100 |
 | 395 | [SpecterOps/AzureHound](./specterops-azurehound.md) | ⭐ 986 | Go | 56/100 |
 | 396 | [aws-amplify/amplify-flutter](./aws-amplify-amplify-flutter.md) | ⭐ 1.4k | Dart | 56/100 |
-| 397 | [21cncstudio/project_aura](./21cncstudio-project-aura.md) | ⭐ 790 | C | 56/100 |
+| 397 | [21cncstudio/project_aura](./21cncstudio-project-aura.md) | ⭐ 791 | C | 56/100 |
 | 398 | [spiffe/spike](./spiffe-spike.md) | ⭐ 180 | Go | 56/100 |
 | 399 | [cargo-lambda/cargo-lambda](./cargo-lambda-cargo-lambda.md) | ⭐ 929 | Rust | 56/100 |
-| 400 | [borgbase/vykar](./borgbase-vykar.md) | ⭐ 723 | Rust | 56/100 |
+| 400 | [borgbase/vykar](./borgbase-vykar.md) | ⭐ 724 | Rust | 56/100 |
 | 401 | [opencomponents/oc](./opencomponents-oc.md) | ⭐ 1.5k | JavaScript | 56/100 |
 | 402 | [radius-project/radius](./radius-project-radius.md) | ⭐ 1.7k | Go | 56/100 |
 | 403 | [spring-cloud/spring-cloud-release](./spring-cloud-spring-cloud-release.md) | ⭐ 956 | — | 56/100 |
@@ -449,7 +449,7 @@
 | 439 | [quarkusio/quarkus](./quarkusio-quarkus.md) | ⭐ 16k | Java | 55/100 |
 | 440 | [JiRaska/open-bank-oss](./jiraska-open-bank-oss.md) | ⭐ 44 | Kotlin | 54/100 |
 | 441 | [94fzb/zrlog](./94fzb-zrlog.md) | ⭐ 407 | Java | 54/100 |
-| 442 | [mitchmac/ServerlessWP](./mitchmac-serverlesswp.md) | ⭐ 692 | PHP | 54/100 |
+| 442 | [mitchmac/ServerlessWP](./mitchmac-serverlesswp.md) | ⭐ 691 | PHP | 54/100 |
 | 443 | [aws/aws-cdk-rfcs](./aws-aws-cdk-rfcs.md) | ⭐ 571 | JavaScript | 54/100 |
 | 444 | [s60sc/ESP32_AdBlocker](./s60sc-esp32-adblocker.md) | ⭐ 586 | C++ | 54/100 |
 | 445 | [objectify/objectify](./objectify-objectify.md) | ⭐ 728 | Java | 54/100 |

@@ -71,7 +71,7 @@
 | 61 | [claabs/epicgames-freegames-node](./claabs-epicgames-freegames-node.md) | ⭐ 1.9k | TypeScript | 67/100 |
 | 62 | [openmeterio/openmeter](./openmeterio-openmeter.md) | ⭐ 2.4k | Go | 67/100 |
 | 63 | [roblambert9/nano-empire-tollbooth](./roblambert9-nano-empire-tollbooth.md) | ⭐ — | Python | 66/100 |
-| 64 | [stripe/link-cli](./stripe-link-cli.md) | ⭐ 901 | TypeScript | 66/100 |
+| 64 | [stripe/link-cli](./stripe-link-cli.md) | ⭐ 903 | TypeScript | 66/100 |
 | 65 | [square/in-app-payments-flutter-plugin](./square-in-app-payments-flutter-plugin.md) | ⭐ 339 | Objective-C | 66/100 |
 | 66 | [ethibox/ethibox](./ethibox-ethibox.md) | ⭐ 260 | JavaScript | 66/100 |
 | 67 | [samber/ro](./samber-ro.md) | ⭐ 698 | Go | 66/100 |
@@ -198,7 +198,7 @@
 | 188 | [Kikobeats/tom](./kikobeats-tom.md) | ⭐ 156 | JavaScript | 56/100 |
 | 189 | [Subscribie/subscribie](./subscribie-subscribie.md) | ⭐ 63 | HTML | 56/100 |
 | 190 | [sinavm/sinavm](./sinavm-sinavm.md) | ⭐ 869 | HTML | 56/100 |
-| 191 | [Glench/ExtPay](./glench-extpay.md) | ⭐ 788 | JavaScript | 56/100 |
+| 191 | [Glench/ExtPay](./glench-extpay.md) | ⭐ 789 | JavaScript | 56/100 |
 | 192 | [hexxt-git/ccpool](./hexxt-git-ccpool.md) | ⭐ 71 | TypeScript | 56/100 |
 | 193 | [ProwlFi/ProwlFinance](./prowlfi-prowlfinance.md) | ⭐ 496 | TypeScript | 56/100 |
 | 194 | [iliyami/MacSai](./iliyami-macsai.md) | ⭐ 2.1k | Swift | 56/100 |
@@ -233,8 +233,8 @@
 | 223 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 187 | PHP | 54/100 |
 | 224 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.8k | TypeScript | 54/100 |
 | 225 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 226 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 567 | — | 53/100 |
-| 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 649 | — | 53/100 |
+| 226 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 649 | — | 53/100 |
+| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 567 | — | 53/100 |
 | 228 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 229 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 230 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 88 | Rust | 53/100 |
@@ -246,7 +246,7 @@
 | 236 | [AyeCode/invoicing](./ayecode-invoicing.md) | ⭐ 43 | PHP | 53/100 |
 | 237 | [bytedoger/awesome-OpenPrice](./bytedoger-awesome-openprice.md) | ⭐ 1.1k | TypeScript | 53/100 |
 | 238 | [ali-zahedi/az-iranian-bank-gateways](./ali-zahedi-az-iranian-bank-gateways.md) | ⭐ 617 | Python | 53/100 |
-| 239 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 640 | Java | 53/100 |
+| 239 | [Sunagatov/Iced-Latte](./sunagatov-iced-latte.md) | ⭐ 641 | Java | 53/100 |
 | 240 | [flutter-stripe/flutter_stripe](./flutter-stripe-flutter-stripe.md) | ⭐ 1.1k | Dart | 53/100 |
 | 241 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.6k | Kotlin | 53/100 |
 | 242 | [invoiceninja/invoiceninja](./invoiceninja-invoiceninja.md) | ⭐ 10.6k | PHP | 53/100 |
@@ -272,10 +272,10 @@
 | 262 | [killbill/killbill-commons](./killbill-killbill-commons.md) | ⭐ 145 | Java | 51/100 |
 | 263 | [Franlinozz/Sluice](./franlinozz-sluice.md) | ⭐ 32 | TypeScript | 51/100 |
 | 264 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 133 | PHP | 51/100 |
-| 265 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
-| 266 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
+| 265 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
+| 266 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
 | 267 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 51/100 |
-| 268 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 762 | Rust | 51/100 |
+| 268 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 763 | Rust | 51/100 |
 | 269 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 503 | PHP | 51/100 |
 | 270 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 60 | Rust | 50/100 |
 | 271 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 104 | PHP | 50/100 |

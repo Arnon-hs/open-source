@@ -56,7 +56,7 @@
 | 46 | [bnomei/kirby-mcp](./bnomei-kirby-mcp.md) | ⭐ 69 | PHP | 80/100 |
 | 47 | [syahiidkamil/Software-Engineer-AI-Agent-Atlas](./syahiidkamil-software-engineer-ai-agent-atlas.md) | ⭐ 406 | Python | 80/100 |
 | 48 | [juancarlospaco/awesome-streaming-tools](./juancarlospaco-awesome-streaming-tools.md) | ⭐ 396 | — | 80/100 |
-| 49 | [solana-foundation/create-solana-dapp](./solana-foundation-create-solana-dapp.md) | ⭐ 656 | TypeScript | 79/100 |
+| 49 | [solana-foundation/create-solana-dapp](./solana-foundation-create-solana-dapp.md) | ⭐ 655 | TypeScript | 79/100 |
 | 50 | [fastapi-practices/fastapi-best-architecture](./fastapi-practices-fastapi-best-architecture.md) | ⭐ 2.6k | Python | 79/100 |
 | 51 | [synaptiai/prompt-decorators](./synaptiai-prompt-decorators.md) | ⭐ 44 | Python | 79/100 |
 | 52 | [FlorianBruniaux/claude-code-ultimate-guide](./florianbruniaux-claude-code-ultimate-guide.md) | ⭐ 6.4k | TypeScript | 79/100 |
@@ -208,7 +208,7 @@
 | 198 | [AlekseiUL/agentforge-openclaw](./alekseiul-agentforge-openclaw.md) | ⭐ 44 | — | 69/100 |
 | 199 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 976 | Go Template | 69/100 |
 | 200 | [codewithMUHILAN/Lightswind-UI-Library](./codewithmuhilan-lightswind-ui-library.md) | ⭐ 1.3k | TypeScript | 69/100 |
-| 201 | [promptdriven/pdd](./promptdriven-pdd.md) | ⭐ 933 | Python | 69/100 |
+| 201 | [promptdriven/pdd](./promptdriven-pdd.md) | ⭐ 934 | Python | 69/100 |
 | 202 | [n8n-io/self-hosted-ai-starter-kit](./n8n-io-self-hosted-ai-starter-kit.md) | ⭐ 15.3k | — | 68/100 |
 | 203 | [fabwaseem/forgekit](./fabwaseem-forgekit.md) | ⭐ — | TypeScript | 68/100 |
 | 204 | [MinaSaad1/n8n-ai-agents](./minasaad1-n8n-ai-agents.md) | ⭐ 13 | — | 68/100 |
@@ -329,7 +329,7 @@
 | 319 | [pulkitxm/claude-directory](./pulkitxm-claude-directory.md) | ⭐ 625 | HTML | 62/100 |
 | 320 | [shinpr/mcp-image](./shinpr-mcp-image.md) | ⭐ 189 | TypeScript | 62/100 |
 | 321 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.8k | Go Template | 62/100 |
-| 322 | [WeAreAthlon/frontend-webpack-boilerplate](./weareathlon-frontend-webpack-boilerplate.md) | ⭐ 730 | HTML | 62/100 |
+| 322 | [WeAreAthlon/frontend-webpack-boilerplate](./weareathlon-frontend-webpack-boilerplate.md) | ⭐ 731 | HTML | 62/100 |
 | 323 | [statmike/vertex-ai-mlops](./statmike-vertex-ai-mlops.md) | ⭐ 689 | Jupyter Notebook | 62/100 |
 | 324 | [lit/lit](./lit-lit.md) | ⭐ 21.9k | TypeScript | 62/100 |
 | 325 | [mergisi/awesome-openclaw-agents](./mergisi-awesome-openclaw-agents.md) | ⭐ 4.1k | HTML | 61/100 |
@@ -365,7 +365,7 @@
 | 355 | [rust-sailfish/sailfish](./rust-sailfish-sailfish.md) | ⭐ 997 | Rust | 60/100 |
 | 356 | [emilk/eframe_template](./emilk-eframe-template.md) | ⭐ 1.2k | Rust | 60/100 |
 | 357 | [pipecat-ai/voice-ui-kit](./pipecat-ai-voice-ui-kit.md) | ⭐ 419 | TypeScript | 60/100 |
-| 358 | [ublue-os/image-template](./ublue-os-image-template.md) | ⭐ 891 | Just | 60/100 |
+| 358 | [ublue-os/image-template](./ublue-os-image-template.md) | ⭐ 892 | Just | 60/100 |
 | 359 | [shinpr/ai-coding-project-boilerplate](./shinpr-ai-coding-project-boilerplate.md) | ⭐ 238 | JavaScript | 60/100 |
 | 360 | [thought2code/mcp-annotated-java-sdk](./thought2code-mcp-annotated-java-sdk.md) | ⭐ 33 | Java | 60/100 |
 | 361 | [aimeos/pagible](./aimeos-pagible.md) | ⭐ 602 | PHP | 60/100 |

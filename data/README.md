@@ -76,13 +76,13 @@
 | 66 | [IAmTomShaw/f1-race-replay](./iamtomshaw-f1-race-replay.md) | ⭐ 7k | Python | 65/100 |
 | 67 | [sirixdb/sirix](./sirixdb-sirix.md) | ⭐ 1.2k | Java | 65/100 |
 | 68 | [NVIDIA/cudf-spark](./nvidia-cudf-spark.md) | ⭐ 1k | Scala | 65/100 |
-| 69 | [apache/streampipes](./apache-streampipes.md) | ⭐ 757 | Java | 65/100 |
+| 69 | [apache/streampipes](./apache-streampipes.md) | ⭐ 760 | Java | 65/100 |
 | 70 | [moj-analytical-services/splink](./moj-analytical-services-splink.md) | ⭐ 2.6k | Python | 65/100 |
 | 71 | [timelinize/timelinize](./timelinize-timelinize.md) | ⭐ 3.7k | Go | 65/100 |
 | 72 | [pymc-labs/pymc-marketing](./pymc-labs-pymc-marketing.md) | ⭐ 1.3k | Python | 65/100 |
 | 73 | [openobserve/openobserve](./openobserve-openobserve.md) | ⭐ 23k | TypeScript | 65/100 |
 | 74 | [databuddy-analytics/Databuddy](./databuddy-analytics-databuddy.md) | ⭐ 1.1k | TypeScript | 64/100 |
-| 75 | [houbb/sensitive](./houbb-sensitive.md) | ⭐ 715 | Java | 64/100 |
+| 75 | [houbb/sensitive](./houbb-sensitive.md) | ⭐ 716 | Java | 64/100 |
 | 76 | [gchq/stroom](./gchq-stroom.md) | ⭐ 489 | Java | 64/100 |
 | 77 | [randyzwitch/streamlit-folium](./randyzwitch-streamlit-folium.md) | ⭐ 586 | Python | 64/100 |
 | 78 | [dreeveapp/dreeve](./dreeveapp-dreeve.md) | ⭐ 2.2k | PHP | 64/100 |
@@ -90,7 +90,7 @@
 | 80 | [JerBouma/FinanceDatabase](./jerbouma-financedatabase.md) | ⭐ 9.6k | Python | 64/100 |
 | 81 | [weifuwan/seatunnel-web](./weifuwan-seatunnel-web.md) | ⭐ 1.4k | TypeScript | 64/100 |
 | 82 | [apache/arrow](./apache-arrow.md) | ⭐ 17.3k | C++ | 64/100 |
-| 83 | [SciTools/iris](./scitools-iris.md) | ⭐ 729 | Python | 64/100 |
+| 83 | [SciTools/iris](./scitools-iris.md) | ⭐ 730 | Python | 64/100 |
 | 84 | [EndlessCheng/codeforces-go](./endlesscheng-codeforces-go.md) | ⭐ 8.8k | Go | 64/100 |
 | 85 | [scikit-hep/awkward](./scikit-hep-awkward.md) | ⭐ 990 | Python | 64/100 |
 | 86 | [mourner/flamebearer](./mourner-flamebearer.md) | ⭐ 1.7k | JavaScript | 64/100 |
@@ -138,14 +138,14 @@
 | 128 | [rosslh/Mandelbrot.site](./rosslh-mandelbrot.site.md) | ⭐ 337 | Rust | 61/100 |
 | 129 | [microprediction/timemachines](./microprediction-timemachines.md) | ⭐ 445 | Python | 61/100 |
 | 130 | [glpi-project/glpi](./glpi-project-glpi.md) | ⭐ 6.6k | PHP | 61/100 |
-| 131 | [augurlabs/augur](./augurlabs-augur.md) | ⭐ 695 | Go | 61/100 |
+| 131 | [augurlabs/augur](./augurlabs-augur.md) | ⭐ 696 | Go | 61/100 |
 | 132 | [MobilityData/awesome-transit](./mobilitydata-awesome-transit.md) | ⭐ 1.9k | — | 61/100 |
 | 133 | [MarquezProject/marquez](./marquezproject-marquez.md) | ⭐ 2.3k | Java | 60/100 |
 | 134 | [fluent/fluentd](./fluent-fluentd.md) | ⭐ 13.6k | Ruby | 60/100 |
 | 135 | [osalvador/ReplicaDB](./osalvador-replicadb.md) | ⭐ 505 | Java | 60/100 |
 | 136 | [NVIDIA/NVFlare](./nvidia-nvflare.md) | ⭐ 1k | Python | 60/100 |
 | 137 | [firefly-iii/data-importer](./firefly-iii-data-importer.md) | ⭐ 858 | PHP | 60/100 |
-| 138 | [Axect/Peroxide](./axect-peroxide.md) | ⭐ 733 | Rust | 60/100 |
+| 138 | [Axect/Peroxide](./axect-peroxide.md) | ⭐ 734 | Rust | 60/100 |
 | 139 | [alibaba/fastjson2](./alibaba-fastjson2.md) | ⭐ 4.4k | Java | 60/100 |
 | 140 | [AtomGraph/LinkedDataHub](./atomgraph-linkeddatahub.md) | ⭐ 638 | XSLT | 60/100 |
 | 141 | [apache/calcite](./apache-calcite.md) | ⭐ 5.2k | Java | 60/100 |
@@ -165,7 +165,7 @@
 | 155 | [BOINC/boinc](./boinc-boinc.md) | ⭐ 2.5k | C++ | 59/100 |
 | 156 | [ArturSepp/QuantInvestStrats](./artursepp-quantinveststrats.md) | ⭐ 649 | Python | 59/100 |
 | 157 | [ClickHouse/adsb.exposed](./clickhouse-adsb.exposed.md) | ⭐ 470 | HTML | 59/100 |
-| 158 | [inducer/loopy](./inducer-loopy.md) | ⭐ 639 | Python | 59/100 |
+| 158 | [inducer/loopy](./inducer-loopy.md) | ⭐ 640 | Python | 59/100 |
 | 159 | [opendatacube/datacube-core](./opendatacube-datacube-core.md) | ⭐ 596 | Python | 59/100 |
 | 160 | [viser-project/viser](./viser-project-viser.md) | ⭐ 2.9k | Python | 59/100 |
 | 161 | [nette/schema](./nette-schema.md) | ⭐ 1k | PHP | 59/100 |
@@ -173,7 +173,7 @@
 | 163 | [supabase/wrappers](./supabase-wrappers.md) | ⭐ 900 | Rust | 59/100 |
 | 164 | [gem/oq-engine](./gem-oq-engine.md) | ⭐ 470 | Python | 59/100 |
 | 165 | [mfem/mfem](./mfem-mfem.md) | ⭐ 2.3k | C++ | 59/100 |
-| 166 | [risesoft-y9/DataFlow-Engine](./risesoft-y9-dataflow-engine.md) | ⭐ 697 | Java | 59/100 |
+| 166 | [risesoft-y9/DataFlow-Engine](./risesoft-y9-dataflow-engine.md) | ⭐ 698 | Java | 59/100 |
 | 167 | [alpha-xone/xbbg](./alpha-xone-xbbg.md) | ⭐ 710 | Rust | 59/100 |
 | 168 | [netdisco/netdisco](./netdisco-netdisco.md) | ⭐ 940 | Perl | 59/100 |
 | 169 | [typeorm/typeorm](./typeorm-typeorm.md) | ⭐ 36.7k | TypeScript | 59/100 |
@@ -181,7 +181,7 @@
 | 171 | [CS-SI/eodag](./cs-si-eodag.md) | ⭐ 441 | Python | 58/100 |
 | 172 | [hms-dbmi/viv](./hms-dbmi-viv.md) | ⭐ 373 | JavaScript | 58/100 |
 | 173 | [microprediction/microprediction](./microprediction-microprediction.md) | ⭐ 377 | Jupyter Notebook | 58/100 |
-| 174 | [d3blocks/d3blocks](./d3blocks-d3blocks.md) | ⭐ 776 | Jupyter Notebook | 58/100 |
+| 174 | [d3blocks/d3blocks](./d3blocks-d3blocks.md) | ⭐ 777 | Jupyter Notebook | 58/100 |
 | 175 | [avaneev/lzav](./avaneev-lzav.md) | ⭐ 564 | C++ | 58/100 |
 | 176 | [datavane/tis](./datavane-tis.md) | ⭐ 1.4k | Java | 58/100 |
 | 177 | [powturbo/TurboBench](./powturbo-turbobench.md) | ⭐ 377 | C | 58/100 |
@@ -267,7 +267,7 @@
 | 257 | [dflib/dflib](./dflib-dflib.md) | ⭐ 326 | Java | 54/100 |
 | 258 | [pyOpenSci/python-package-guide](./pyopensci-python-package-guide.md) | ⭐ 152 | Python | 54/100 |
 | 259 | [3DStreet/3dstreet](./3dstreet-3dstreet.md) | ⭐ 335 | JavaScript | 54/100 |
-| 260 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 712 | Rust | 54/100 |
+| 260 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 713 | Rust | 54/100 |
 | 261 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 830 | JavaScript | 54/100 |
 | 262 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 574 | HTML | 54/100 |
 | 263 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 153 | Rust | 54/100 |
@@ -279,7 +279,7 @@
 | 269 | [prestodb/presto](./prestodb-presto.md) | ⭐ 16.8k | Java | 54/100 |
 | 270 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 10 | PHP | 54/100 |
 | 271 | [tech-pw/cryo](./tech-pw-cryo.md) | ⭐ 11 | Python | 53/100 |
-| 272 | [ofrohn/d3-celestial](./ofrohn-d3-celestial.md) | ⭐ 758 | JavaScript | 53/100 |
+| 272 | [ofrohn/d3-celestial](./ofrohn-d3-celestial.md) | ⭐ 759 | JavaScript | 53/100 |
 | 273 | [alexar76/signal-hunt](./alexar76-signal-hunt.md) | ⭐ — | Python | 53/100 |
 | 274 | [aptabase/tauri-plugin-aptabase](./aptabase-tauri-plugin-aptabase.md) | ⭐ 153 | Rust | 53/100 |
 | 275 | [evolve75/RubyTree](./evolve75-rubytree.md) | ⭐ 391 | Ruby | 53/100 |
@@ -290,7 +290,7 @@
 | 280 | [ayazhafiz/xorf](./ayazhafiz-xorf.md) | ⭐ 171 | Rust | 52/100 |
 | 281 | [ShisoftResearch/bifrost](./shisoftresearch-bifrost.md) | ⭐ 174 | Rust | 52/100 |
 | 282 | [adixmr/leetcode](./adixmr-leetcode.md) | ⭐ 327 | HTML | 52/100 |
-| 283 | [gallantlab/pycortex](./gallantlab-pycortex.md) | ⭐ 666 | JavaScript | 52/100 |
+| 283 | [gallantlab/pycortex](./gallantlab-pycortex.md) | ⭐ 667 | JavaScript | 52/100 |
 | 284 | [numaproj/numaflow](./numaproj-numaflow.md) | ⭐ 2.8k | Rust | 52/100 |
 | 285 | [apache/fluss](./apache-fluss.md) | ⭐ 2.2k | Java | 52/100 |
 | 286 | [apache/datafusion-ballista](./apache-datafusion-ballista.md) | ⭐ 2.2k | Rust | 52/100 |

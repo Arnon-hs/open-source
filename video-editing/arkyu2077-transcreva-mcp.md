@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-MCP
+Video Editing · Orchestration · MCP · AI/ML · Documents
 
 ## 📝 Summary
 
 ### English
 
-arkyu2077/transcreva-mcp: arkyu2077/transcreva-mcp helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+arkyu2077/transcreva-mcp: arkyu2077/transcreva-mcp helps turn media editing, captions, rendering, and transcoding into repeatable workflows.. Use it for automate editing and rendering; generate subtitles or dubbing. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-arkyu2077/transcreva-mcp: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+arkyu2077/transcreva-mcp: open-source проект в категориях Video Editing, Orchestration, MCP, AI/ML, Documents. Практическое применение: automate editing and rendering; generate subtitles or dubbing. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-arkyu2077/transcreva-mcp：arkyu2077/transcreva-mcp helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+arkyu2077/transcreva-mcp：arkyu2077/transcreva-mcp helps turn media editing, captions, rendering, and transcoding into repeatable workflows.。适合用于automate editing and rendering、generate subtitles or dubbing。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** arkyu2077/transcreva-mcp helps connect AI assistants to real tools and data through a standard protocol.
+**Value:** arkyu2077/transcreva-mcp helps turn media editing, captions, rendering, and transcoding into repeatable workflows.
 
 **Best use cases**
 
-- connect AI agents to tools
-- ship Model Context Protocol servers
-- standardize integrations
+- automate editing and rendering
+- generate subtitles or dubbing
+- build repeatable media-processing pipelines
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -63,19 +63,19 @@ arkyu2077/transcreva-mcp：arkyu2077/transcreva-mcp helps connect AI assistants 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 65/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/arkyu2077/transcreva-mcp) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/arkyu2077/transcreva-mcp) · [← Back to Video-editing](./README.md)</sub>

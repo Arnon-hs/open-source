@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML · MCP · Security · Automation
+MCP · AI/ML · Productivity · Backend
 
 ## 📝 Summary
 
 ### English
 
-meta-taro/sshboard: meta-taro/sshboard helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+meta-taro/sshboard: meta-taro/sshboard helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-meta-taro/sshboard: open-source проект в категориях AI/ML, MCP, Security, Automation. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+meta-taro/sshboard: open-source проект в категориях MCP, AI/ML, Productivity, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-meta-taro/sshboard：meta-taro/sshboard helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+meta-taro/sshboard：meta-taro/sshboard helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** meta-taro/sshboard helps add AI capability without starting from a blank model stack.
+**Value:** meta-taro/sshboard helps connect AI assistants to real tools and data through a standard protocol.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -63,19 +63,19 @@ meta-taro/sshboard：meta-taro/sshboard helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 63/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 400/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/meta-taro/sshboard) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/meta-taro/sshboard) · [← Back to Mcp](./README.md)</sub>
