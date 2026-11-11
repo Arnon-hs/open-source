@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 497 |
+| ⭐ **Stars** | 499 |
 | 🍴 **Forks** | 71 |
 | 💻 **Language** | Squirrel |
 | 📈 **Score** | 50/100 |

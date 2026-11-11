@@ -44,7 +44,7 @@
 | 34 | [Foundry376/Mailspring](./foundry376-mailspring.md) | ⭐ 18k | JavaScript | 70/100 |
 | 35 | [pact-foundation/pact-go](./pact-foundation-pact-go.md) | ⭐ 963 | Go | 70/100 |
 | 36 | [openclaw/slacrawl](./openclaw-slacrawl.md) | ⭐ 238 | Go | 70/100 |
-| 37 | [project-robius/robrix](./project-robius-robrix.md) | ⭐ 514 | Rust | 70/100 |
+| 37 | [project-robius/robrix](./project-robius-robrix.md) | ⭐ 515 | Rust | 70/100 |
 | 38 | [wasp-lang/wasp](./wasp-lang-wasp.md) | ⭐ 18.8k | TypeScript | 70/100 |
 | 39 | [arikchakma/maily.to](./arikchakma-maily.to.md) | ⭐ 4k | TypeScript | 69/100 |
 | 40 | [centrifugal/centrifugo](./centrifugal-centrifugo.md) | ⭐ 11k | Go | 69/100 |
@@ -76,7 +76,7 @@
 | 66 | [jstedfast/MailKit](./jstedfast-mailkit.md) | ⭐ 6.9k | C# | 66/100 |
 | 67 | [emersion/go-smtp](./emersion-go-smtp.md) | ⭐ 2.1k | Go | 66/100 |
 | 68 | [Oxygem/Kanmail](./oxygem-kanmail.md) | ⭐ 1.4k | Go | 66/100 |
-| 69 | [apache/rocketmq-clients](./apache-rocketmq-clients.md) | ⭐ 509 | Java | 66/100 |
+| 69 | [apache/rocketmq-clients](./apache-rocketmq-clients.md) | ⭐ 511 | Java | 66/100 |
 | 70 | [reduxframework/redux-framework](./reduxframework-redux-framework.md) | ⭐ 1.8k | PHP | 66/100 |
 | 71 | [bokysan/docker-postfix](./bokysan-docker-postfix.md) | ⭐ 821 | Shell | 66/100 |
 | 72 | [rabbitmq/rabbitmq-server](./rabbitmq-rabbitmq-server.md) | ⭐ 14k | JavaScript | 66/100 |
@@ -144,7 +144,7 @@
 | 134 | [jech/galene](./jech-galene.md) | ⭐ 1.4k | Go | 61/100 |
 | 135 | [phw198/OutlookGoogleCalendarSync](./phw198-outlookgooglecalendarsync.md) | ⭐ 2.2k | C# | 61/100 |
 | 136 | [add2cal/add-to-calendar-button](./add2cal-add-to-calendar-button.md) | ⭐ 1.5k | JavaScript | 61/100 |
-| 137 | [slackhq/foundry](./slackhq-foundry.md) | ⭐ 479 | Kotlin | 61/100 |
+| 137 | [slackhq/foundry](./slackhq-foundry.md) | ⭐ 480 | Kotlin | 61/100 |
 | 138 | [postalsys/emailengine](./postalsys-emailengine.md) | ⭐ 2.2k | JavaScript | 61/100 |
 | 139 | [RocketChat/Rocket.Chat.ReactNative](./rocketchat-rocket.chat.reactnative.md) | ⭐ 2.4k | TypeScript | 61/100 |
 | 140 | [stoatchat/stoatchat](./stoatchat-stoatchat.md) | ⭐ 3.5k | Rust | 61/100 |
@@ -239,7 +239,7 @@
 | 229 | [openmls/openmls](./openmls-openmls.md) | ⭐ 1.1k | Rust | 54/100 |
 | 230 | [ruma/ruma](./ruma-ruma.md) | ⭐ 746 | Rust | 54/100 |
 | 231 | [khaled-alshamaa/ar-php](./khaled-alshamaa-ar-php.md) | ⭐ 342 | PHP | 54/100 |
-| 232 | [lennart-k/rustical](./lennart-k-rustical.md) | ⭐ 573 | Rust | 54/100 |
+| 232 | [lennart-k/rustical](./lennart-k-rustical.md) | ⭐ 574 | Rust | 54/100 |
 | 233 | [containrrr/shoutrrr](./containrrr-shoutrrr.md) | ⭐ 1.7k | Go | 54/100 |
 | 234 | [telegramdesktop/tdesktop](./telegramdesktop-tdesktop.md) | ⭐ 33.5k | C++ | 54/100 |
 | 235 | [DomaCKBO3H9K/chatstyle](./domackbo3h9k-chatstyle.md) | ⭐ 1 | Python | 53/100 |
@@ -248,9 +248,9 @@
 | 238 | [stalwartlabs/mail-auth](./stalwartlabs-mail-auth.md) | ⭐ 129 | Rust | 53/100 |
 | 239 | [pydantic/ai-chat-ui](./pydantic-ai-chat-ui.md) | ⭐ 72 | TypeScript | 53/100 |
 | 240 | [hadashiA/VitalRouter](./hadashia-vitalrouter.md) | ⭐ 370 | C# | 53/100 |
-| 241 | [aree6/LiftShift](./aree6-liftshift.md) | ⭐ 526 | TypeScript | 53/100 |
+| 241 | [aree6/LiftShift](./aree6-liftshift.md) | ⭐ 527 | TypeScript | 53/100 |
 | 242 | [nextcloud/calendar](./nextcloud-calendar.md) | ⭐ 1.2k | JavaScript | 53/100 |
-| 243 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 951 | JavaScript | 53/100 |
+| 243 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 958 | JavaScript | 53/100 |
 | 244 | [resend/react-email](./resend-react-email.md) | ⭐ 19.9k | TypeScript | 53/100 |
 | 245 | [stalwartlabs/stalwart](./stalwartlabs-stalwart.md) | ⭐ 15.8k | Rust | 53/100 |
 | 246 | [grloper/NoMorePwn-Password-Manager](./grloper-nomorepwn-password-manager.md) | ⭐ 1 | Python | 53/100 |
@@ -284,7 +284,7 @@
 | 274 | [Expensify/App](./expensify-app.md) | ⭐ 5.1k | TypeScript | 50/100 |
 | 275 | [panda-sandeep/dearagent](./panda-sandeep-dearagent.md) | ⭐ 49 | — | 49/100 |
 | 276 | [adecubed/gigamail](./adecubed-gigamail.md) | ⭐ 18 | — | 49/100 |
-| 277 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 630 | Kotlin | 49/100 |
+| 277 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 631 | Kotlin | 49/100 |
 | 278 | [awslabs/mls-rs](./awslabs-mls-rs.md) | ⭐ 262 | Rust | 49/100 |
 | 279 | [freenet/river](./freenet-river.md) | ⭐ 314 | Rust | 49/100 |
 | 280 | [matrix-construct/tuwunel](./matrix-construct-tuwunel.md) | ⭐ 2.8k | Rust | 49/100 |
@@ -336,7 +336,7 @@
 | 326 | [matt0x6F/irc-client](./matt0x6f-irc-client.md) | ⭐ 16 | — | 45/100 |
 | 327 | [anuragmerndev/kontext-ai](./anuragmerndev-kontext-ai.md) | ⭐ 25 | — | 45/100 |
 | 328 | [3kh0/slick](./3kh0-slick.md) | ⭐ 119 | — | 45/100 |
-| 329 | [stalwartlabs/mail-parser](./stalwartlabs-mail-parser.md) | ⭐ 477 | Rust | 45/100 |
+| 329 | [stalwartlabs/mail-parser](./stalwartlabs-mail-parser.md) | ⭐ 479 | Rust | 45/100 |
 | 330 | [shellscape/jsx-email](./shellscape-jsx-email.md) | ⭐ 1.3k | TypeScript | 45/100 |
 | 331 | [continuwuity/continuwuity](./continuwuity-continuwuity.md) | ⭐ 1.2k | Rust | 45/100 |
 | 332 | [zicojiao/trick-or-take](./zicojiao-trick-or-take.md) | ⭐ — | JavaScript | 44/100 |

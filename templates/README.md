@@ -45,11 +45,11 @@
 | 35 | [ScraperNode/awesome-n8n-templates](./scrapernode-awesome-n8n-templates.md) | ⭐ 117 | Astro | 80/100 |
 | 36 | [undergroundrap/UEFN-TOOLBELT](./undergroundrap-uefn-toolbelt.md) | ⭐ 54 | Python | 80/100 |
 | 37 | [spring-projects/spring-data-mongodb](./spring-projects-spring-data-mongodb.md) | ⭐ 1.7k | Java | 80/100 |
-| 38 | [templatical/sdk](./templatical-sdk.md) | ⭐ 550 | TypeScript | 80/100 |
+| 38 | [templatical/sdk](./templatical-sdk.md) | ⭐ 551 | TypeScript | 80/100 |
 | 39 | [kitwork/starter](./kitwork-starter.md) | ⭐ 40 | HTML | 80/100 |
 | 40 | [CuriousLearner/django-keel](./curiouslearner-django-keel.md) | ⭐ 382 | Jinja | 80/100 |
 | 41 | [oapi-codegen/oapi-codegen](./oapi-codegen-oapi-codegen.md) | ⭐ 8.7k | Go | 80/100 |
-| 42 | [rustmailer/rustmailer](./rustmailer-rustmailer.md) | ⭐ 518 | Rust | 80/100 |
+| 42 | [rustmailer/rustmailer](./rustmailer-rustmailer.md) | ⭐ 519 | Rust | 80/100 |
 | 43 | [iniwap/AIWriteX](./iniwap-aiwritex.md) | ⭐ 2.2k | Python | 80/100 |
 | 44 | [Quicksi-CLI/quicksiCLI](./quicksi-cli-quicksicli.md) | ⭐ 100 | TypeScript | 80/100 |
 | 45 | [AterDev/Perigon.CLI](./aterdev-perigon.cli.md) | ⭐ 54 | C# | 80/100 |
@@ -94,7 +94,7 @@
 | 84 | [extension-js/extension.js](./extension-js-extension.js.md) | ⭐ 5.2k | TypeScript | 76/100 |
 | 85 | [Decodo/n8n-nodes-decodo](./decodo-n8n-nodes-decodo.md) | ⭐ 9 | TypeScript | 75/100 |
 | 86 | [salmanshahriar/Next-Elite](./salmanshahriar-next-elite.md) | ⭐ 109 | TypeScript | 75/100 |
-| 87 | [epicserve/django-base-site](./epicserve-django-base-site.md) | ⭐ 452 | Python | 75/100 |
+| 87 | [epicserve/django-base-site](./epicserve-django-base-site.md) | ⭐ 453 | Python | 75/100 |
 | 88 | [voglster/lumbergh](./voglster-lumbergh.md) | ⭐ 33 | TypeScript | 75/100 |
 | 89 | [microsoft/iq-series](./microsoft-iq-series.md) | ⭐ 408 | Jupyter Notebook | 75/100 |
 | 90 | [mattgierhart/PRD-driven-context-engineering](./mattgierhart-prd-driven-context-engineering.md) | ⭐ 179 | HTML | 75/100 |
@@ -115,7 +115,7 @@
 | 105 | [copier-org/copier](./copier-org-copier.md) | ⭐ 3.7k | Python | 73/100 |
 | 106 | [nasirkhan/laravel-starter](./nasirkhan-laravel-starter.md) | ⭐ 1.4k | PHP | 73/100 |
 | 107 | [coreui/coreui-free-react-admin-template](./coreui-coreui-free-react-admin-template.md) | ⭐ 5k | JavaScript | 73/100 |
-| 108 | [IronTony/voltrn-cli](./irontony-voltrn-cli.md) | ⭐ 480 | JavaScript | 73/100 |
+| 108 | [IronTony/voltrn-cli](./irontony-voltrn-cli.md) | ⭐ 481 | JavaScript | 73/100 |
 | 109 | [northflank/skills](./northflank-skills.md) | ⭐ 39 | JavaScript | 73/100 |
 | 110 | [kinngh/shopify-nextjs-prisma-app](./kinngh-shopify-nextjs-prisma-app.md) | ⭐ 515 | JavaScript | 73/100 |
 | 111 | [aws/serverless-application-model](./aws-serverless-application-model.md) | ⭐ 9.6k | Python | 73/100 |
@@ -177,7 +177,7 @@
 | 167 | [spring-projects/spring-data-elasticsearch](./spring-projects-spring-data-elasticsearch.md) | ⭐ 3k | Java | 70/100 |
 | 168 | [SilentVoid13/Templater](./silentvoid13-templater.md) | ⭐ 5.4k | TypeScript | 70/100 |
 | 169 | [developer2013/bricks-mcp-open](./developer2013-bricks-mcp-open.md) | ⭐ 94 | PHP | 70/100 |
-| 170 | [nadimtuhin/claude-token-optimizer](./nadimtuhin-claude-token-optimizer.md) | ⭐ 646 | JavaScript | 70/100 |
+| 170 | [nadimtuhin/claude-token-optimizer](./nadimtuhin-claude-token-optimizer.md) | ⭐ 649 | JavaScript | 70/100 |
 | 171 | [BlessedRebuS/Krawl](./blessedrebus-krawl.md) | ⭐ 838 | HTML | 70/100 |
 | 172 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 13.3k | JavaScript | 70/100 |
 | 173 | [velobase/velobase-harness](./velobase-velobase-harness.md) | ⭐ 621 | TypeScript | 70/100 |
@@ -188,7 +188,7 @@
 | 178 | [BoundaryML/baml](./boundaryml-baml.md) | ⭐ 9.5k | Rust | 70/100 |
 | 179 | [bradraylucas-eng/mcp-notes-server](./bradraylucas-eng-mcp-notes-server.md) | ⭐ — | Python | 69/100 |
 | 180 | [zengfr/n8n-workflow-all-templates](./zengfr-n8n-workflow-all-templates.md) | ⭐ 124 | — | 69/100 |
-| 181 | [marcoturi/fastify-boilerplate](./marcoturi-fastify-boilerplate.md) | ⭐ 474 | TypeScript | 69/100 |
+| 181 | [marcoturi/fastify-boilerplate](./marcoturi-fastify-boilerplate.md) | ⭐ 476 | TypeScript | 69/100 |
 | 182 | [mcanouil/awesome-quarto](./mcanouil-awesome-quarto.md) | ⭐ 2.2k | — | 69/100 |
 | 183 | [HTTP-RPC/Kilo](./http-rpc-kilo.md) | ⭐ 341 | Java | 69/100 |
 | 184 | [langchain-ai/agent-auth-payments](./langchain-ai-agent-auth-payments.md) | ⭐ 200 | TypeScript | 69/100 |
@@ -197,12 +197,12 @@
 | 187 | [BorisPolonsky/dify-helm](./borispolonsky-dify-helm.md) | ⭐ 679 | Go Template | 69/100 |
 | 188 | [davekilleen/Dex](./davekilleen-dex.md) | ⭐ 514 | Python | 69/100 |
 | 189 | [raulvidis/openclaw-multi-agent-kit](./raulvidis-openclaw-multi-agent-kit.md) | ⭐ 391 | — | 69/100 |
-| 190 | [VigoZhao/AI-Visual-Prompt-Cookbook](./vigozhao-ai-visual-prompt-cookbook.md) | ⭐ 839 | Python | 69/100 |
+| 190 | [VigoZhao/AI-Visual-Prompt-Cookbook](./vigozhao-ai-visual-prompt-cookbook.md) | ⭐ 840 | Python | 69/100 |
 | 191 | [clarity-digital-development/tworkflow](./clarity-digital-development-tworkflow.md) | ⭐ 46 | Python | 69/100 |
 | 192 | [dannote/dot-pi](./dannote-dot-pi.md) | ⭐ 57 | TypeScript | 69/100 |
 | 193 | [hoangnb24/repository-harness](./hoangnb24-repository-harness.md) | ⭐ 1.3k | Rust | 69/100 |
 | 194 | [golang-templates/seed](./golang-templates-seed.md) | ⭐ 566 | Makefile | 69/100 |
-| 195 | [pilinux/gorest](./pilinux-gorest.md) | ⭐ 507 | Go | 69/100 |
+| 195 | [pilinux/gorest](./pilinux-gorest.md) | ⭐ 508 | Go | 69/100 |
 | 196 | [ai-driven-dev/framework](./ai-driven-dev-framework.md) | ⭐ 554 | JavaScript | 69/100 |
 | 197 | [sveltejs/svelte](./sveltejs-svelte.md) | ⭐ 88.7k | JavaScript | 69/100 |
 | 198 | [AlekseiUL/agentforge-openclaw](./alekseiul-agentforge-openclaw.md) | ⭐ 44 | — | 69/100 |
@@ -251,7 +251,7 @@
 | 241 | [Emin-ACIKGOZ/scbake](./emin-acikgoz-scbake.md) | ⭐ 5 | Go | 66/100 |
 | 242 | [YuriCrystal/n8n-marketing-flows](./yuricrystal-n8n-marketing-flows.md) | ⭐ 184 | — | 66/100 |
 | 243 | [skymanbp/cc-tree](./skymanbp-cc-tree.md) | ⭐ 80 | Python | 66/100 |
-| 244 | [wemake-services/wemake-python-package](./wemake-services-wemake-python-package.md) | ⭐ 450 | Python | 66/100 |
+| 244 | [wemake-services/wemake-python-package](./wemake-services-wemake-python-package.md) | ⭐ 451 | Python | 66/100 |
 | 245 | [firebase/firebaseui-web](./firebase-firebaseui-web.md) | ⭐ 4.9k | TypeScript | 66/100 |
 | 246 | [taocpp/PEGTL](./taocpp-pegtl.md) | ⭐ 2.2k | C++ | 66/100 |
 | 247 | [entropy-cloud/attractor-guided-engineering-template](./entropy-cloud-attractor-guided-engineering-template.md) | ⭐ 80 | JavaScript | 66/100 |
@@ -271,7 +271,7 @@
 | 261 | [seungmanchoi/react-native-fsd-agent-template](./seungmanchoi-react-native-fsd-agent-template.md) | ⭐ 52 | TypeScript | 65/100 |
 | 262 | [thecodeorigin/nuxt-template](./thecodeorigin-nuxt-template.md) | ⭐ 35 | TypeScript | 65/100 |
 | 263 | [google/mug](./google-mug.md) | ⭐ 539 | Java | 65/100 |
-| 264 | [Uninen/tauri-vue-template](./uninen-tauri-vue-template.md) | ⭐ 492 | TypeScript | 65/100 |
+| 264 | [Uninen/tauri-vue-template](./uninen-tauri-vue-template.md) | ⭐ 493 | TypeScript | 65/100 |
 | 265 | [cortex-tms/cortex-tms](./cortex-tms-cortex-tms.md) | ⭐ 180 | MDX | 65/100 |
 | 266 | [cshum/imagor-studio](./cshum-imagor-studio.md) | ⭐ 232 | TypeScript | 65/100 |
 | 267 | [linode/apl-core](./linode-apl-core.md) | ⭐ 2.3k | Go Template | 65/100 |
@@ -342,8 +342,8 @@
 | 332 | [devpunks/snuggsi](./devpunks-snuggsi.md) | ⭐ 395 | JavaScript | 61/100 |
 | 333 | [selfishprimate/gerillass](./selfishprimate-gerillass.md) | ⭐ 171 | SCSS | 61/100 |
 | 334 | [jeffweisbein/openclaw-starter-kit](./jeffweisbein-openclaw-starter-kit.md) | ⭐ 72 | Shell | 61/100 |
-| 335 | [twpayne/dotfiles](./twpayne-dotfiles.md) | ⭐ 466 | Go Template | 61/100 |
-| 336 | [elkowar/yolk](./elkowar-yolk.md) | ⭐ 451 | Rust | 61/100 |
+| 335 | [twpayne/dotfiles](./twpayne-dotfiles.md) | ⭐ 467 | Go Template | 61/100 |
+| 336 | [elkowar/yolk](./elkowar-yolk.md) | ⭐ 453 | Rust | 61/100 |
 | 337 | [Tencent/tdesign-vue-next-starter](./tencent-tdesign-vue-next-starter.md) | ⭐ 1k | Vue | 61/100 |
 | 338 | [Polaris-Aeterna/loom-notes](./polaris-aeterna-loom-notes.md) | ⭐ 176 | TeX | 61/100 |
 | 339 | [patrickloeber/python-github-action-template](./patrickloeber-python-github-action-template.md) | ⭐ 336 | Python | 61/100 |
@@ -404,7 +404,7 @@
 | 394 | [prathamdmehta/backend-dash](./prathamdmehta-backend-dash.md) | ⭐ 2 | — | 56/100 |
 | 395 | [matteobaccan/owner](./matteobaccan-owner.md) | ⭐ 940 | Java | 56/100 |
 | 396 | [pureconfig/pureconfig](./pureconfig-pureconfig.md) | ⭐ 1.5k | Scala | 56/100 |
-| 397 | [kovrichard/catalyst](./kovrichard-catalyst.md) | ⭐ 470 | TypeScript | 56/100 |
+| 397 | [kovrichard/catalyst](./kovrichard-catalyst.md) | ⭐ 471 | TypeScript | 56/100 |
 | 398 | [geofffranks/spruce](./geofffranks-spruce.md) | ⭐ 453 | Go | 56/100 |
 | 399 | [getreu/tp-note](./getreu-tp-note.md) | ⭐ 145 | Rust | 56/100 |
 | 400 | [LivingFramework/LivingFramework.github.io](./livingframework-livingframework.github.io.md) | ⭐ 45 | HTML | 56/100 |

@@ -16,8 +16,8 @@
 | 6 | [google-labs-code/design.md](./google-labs-code-design.md.md) | ⭐ 28.8k | TypeScript | 69/100 |
 | 7 | [PapirusDevelopmentTeam/papirus-icon-theme](./papirusdevelopmentteam-papirus-icon-theme.md) | ⭐ 8.2k | Shell | 68/100 |
 | 8 | [HavenDV/H.NotifyIcon](./havendv-h.notifyicon.md) | ⭐ 771 | C# | 68/100 |
-| 9 | [partcad/partcad](./partcad-partcad.md) | ⭐ 529 | Python | 67/100 |
-| 10 | [intel/rohd](./intel-rohd.md) | ⭐ 497 | Dart | 67/100 |
+| 9 | [partcad/partcad](./partcad-partcad.md) | ⭐ 530 | Python | 67/100 |
+| 10 | [intel/rohd](./intel-rohd.md) | ⭐ 498 | Dart | 67/100 |
 | 11 | [GoogleChromeLabs/ProjectVisBug](./googlechromelabs-projectvisbug.md) | ⭐ 5.8k | JavaScript | 66/100 |
 | 12 | [WPS/egon.io](./wps-egon.io.md) | ⭐ 839 | TypeScript | 65/100 |
 | 13 | [logisim-evolution/logisim-evolution](./logisim-evolution-logisim-evolution.md) | ⭐ 7.9k | Java | 65/100 |
@@ -46,7 +46,7 @@
 | 36 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 7.1k | PHP | 59/100 |
 | 37 | [QwenLM/Qwen3-TTS](./qwenlm-qwen3-tts.md) | ⭐ 14.3k | Python | 58/100 |
 | 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 675 | Vue | 58/100 |
-| 39 | [TousstNicolas/JLC2KiCad_lib](./tousstnicolas-jlc2kicad-lib.md) | ⭐ 491 | Python | 58/100 |
+| 39 | [TousstNicolas/JLC2KiCad_lib](./tousstnicolas-jlc2kicad-lib.md) | ⭐ 492 | Python | 58/100 |
 | 40 | [alphagov/govuk-design-system](./alphagov-govuk-design-system.md) | ⭐ 689 | Nunjucks | 58/100 |
 | 41 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 519 | TypeScript | 58/100 |
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 610 | Python | 58/100 |
@@ -57,12 +57,12 @@
 | 47 | [visioncortex/vtracer](./visioncortex-vtracer.md) | ⭐ 7.5k | Rust | 57/100 |
 | 48 | [RailsEventStore/rails_event_store](./railseventstore-rails-event-store.md) | ⭐ 1.6k | Ruby | 57/100 |
 | 49 | [CircuitVerse/CircuitVerse](./circuitverse-circuitverse.md) | ⭐ 1.3k | JavaScript | 57/100 |
-| 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 654 | TypeScript | 57/100 |
+| 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 656 | TypeScript | 57/100 |
 | 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.2k | C++ | 57/100 |
 | 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 717 | Python | 57/100 |
 | 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 2 | JavaScript | 57/100 |
 | 54 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 353 | Lua | 56/100 |
-| 55 | [OpenOLAT/OpenOLAT](./openolat-openolat.md) | ⭐ 449 | Java | 56/100 |
+| 55 | [OpenOLAT/OpenOLAT](./openolat-openolat.md) | ⭐ 451 | Java | 56/100 |
 | 56 | [uswds/uswds-site](./uswds-uswds-site.md) | ⭐ 252 | HTML | 56/100 |
 | 57 | [nuxt/icon](./nuxt-icon.md) | ⭐ 1.2k | TypeScript | 56/100 |
 | 58 | [theexperiencecompany/keyloom](./theexperiencecompany-keyloom.md) | ⭐ 89 | TypeScript | 56/100 |
@@ -113,7 +113,7 @@
 | 103 | [finix-community/finix](./finix-community-finix.md) | ⭐ 614 | Nix | 49/100 |
 | 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 539 | Shell | 49/100 |
 | 105 | [kzhrknt/awesome-design-md-jp](./kzhrknt-awesome-design-md-jp.md) | ⭐ 1k | HTML | 49/100 |
-| 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 554 | Python | 49/100 |
+| 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 555 | Python | 49/100 |
 | 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.1k | Ruby | 49/100 |
 | 108 | [pixel-point/toolcraft](./pixel-point-toolcraft.md) | ⭐ 1.1k | — | 48/100 |
 | 109 | [victorzhang016-code/victor-design](./victorzhang016-code-victor-design.md) | ⭐ 71 | JavaScript | 48/100 |

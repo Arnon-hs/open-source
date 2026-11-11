@@ -20,7 +20,7 @@
 | 10 | [kubernetes/metrics](./kubernetes-metrics.md) | ⭐ 536 | Go | 73/100 |
 | 11 | [pyrra-dev/pyrra](./pyrra-dev-pyrra.md) | ⭐ 1.5k | Go | 72/100 |
 | 12 | [iipeace/guider](./iipeace-guider.md) | ⭐ 684 | Python | 72/100 |
-| 13 | [logtide-dev/logtide](./logtide-dev-logtide.md) | ⭐ 457 | TypeScript | 72/100 |
+| 13 | [logtide-dev/logtide](./logtide-dev-logtide.md) | ⭐ 458 | TypeScript | 72/100 |
 | 14 | [ntop/ntopng](./ntop-ntopng.md) | ⭐ 8.3k | Lua | 72/100 |
 | 15 | [louislam/uptime-kuma](./louislam-uptime-kuma.md) | ⭐ 93.5k | JavaScript | 72/100 |
 | 16 | [elastic/kibana](./elastic-kibana.md) | ⭐ 21.4k | TypeScript | 71/100 |
@@ -29,7 +29,7 @@
 | 19 | [jetstack/version-checker](./jetstack-version-checker.md) | ⭐ 778 | Go | 70/100 |
 | 20 | [SigmaHQ/sigma](./sigmahq-sigma.md) | ⭐ 11.5k | Python | 70/100 |
 | 21 | [errbit/errbit](./errbit-errbit.md) | ⭐ 4.3k | Ruby | 70/100 |
-| 22 | [Enapiuz/awesome-monitoring](./enapiuz-awesome-monitoring.md) | ⭐ 436 | — | 69/100 |
+| 22 | [Enapiuz/awesome-monitoring](./enapiuz-awesome-monitoring.md) | ⭐ 437 | — | 69/100 |
 | 23 | [komari-monitor/komari](./komari-monitor-komari.md) | ⭐ 7k | Go | 69/100 |
 | 24 | [cilium/tetragon](./cilium-tetragon.md) | ⭐ 5.2k | C | 69/100 |
 | 25 | [dromara/dynamic-tp](./dromara-dynamic-tp.md) | ⭐ 4.8k | Java | 69/100 |
@@ -64,7 +64,7 @@
 | 54 | [grouzen/framework-tool-tui](./grouzen-framework-tool-tui.md) | ⭐ 361 | Rust | 66/100 |
 | 55 | [shizunge/endlessh-go](./shizunge-endlessh-go.md) | ⭐ 1.5k | Go | 66/100 |
 | 56 | [ossec/ossec-hids](./ossec-ossec-hids.md) | ⭐ 5.1k | C | 65/100 |
-| 57 | [squzy/squzy](./squzy-squzy.md) | ⭐ 478 | Go | 65/100 |
+| 57 | [squzy/squzy](./squzy-squzy.md) | ⭐ 479 | Go | 65/100 |
 | 58 | [DataDog/dd-trace-go](./datadog-dd-trace-go.md) | ⭐ 863 | Go | 65/100 |
 | 59 | [prometheus-erl/prometheus.erl](./prometheus-erl-prometheus.erl.md) | ⭐ 355 | Erlang | 65/100 |
 | 60 | [nci/scores](./nci-scores.md) | ⭐ 239 | Python | 65/100 |
@@ -98,7 +98,7 @@
 | 88 | [Checkmk/checkmk](./checkmk-checkmk.md) | ⭐ 2.6k | Python | 62/100 |
 | 89 | [dropwizard/metrics](./dropwizard-metrics.md) | ⭐ 7.8k | Java | 62/100 |
 | 90 | [SkyAPM/SkyAPM-dotnet](./skyapm-skyapm-dotnet.md) | ⭐ 1.7k | C# | 62/100 |
-| 91 | [Yeraze/meshmonitor](./yeraze-meshmonitor.md) | ⭐ 725 | TypeScript | 62/100 |
+| 91 | [Yeraze/meshmonitor](./yeraze-meshmonitor.md) | ⭐ 728 | TypeScript | 62/100 |
 | 92 | [pglombardo/PasswordPusher](./pglombardo-passwordpusher.md) | ⭐ 3.2k | Ruby | 62/100 |
 | 93 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 16.5k | C | 62/100 |
 | 94 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 532 | TypeScript | 62/100 |
@@ -203,7 +203,7 @@
 | 193 | [danielfm/pybreaker](./danielfm-pybreaker.md) | ⭐ 702 | Python | 52/100 |
 | 194 | [Abdenasser/neohtop](./abdenasser-neohtop.md) | ⭐ 9.5k | Svelte | 51/100 |
 | 195 | [amimof/node-cert-exporter](./amimof-node-cert-exporter.md) | ⭐ 185 | Go | 51/100 |
-| 196 | [metrics-rs/quanta](./metrics-rs-quanta.md) | ⭐ 435 | Rust | 51/100 |
+| 196 | [metrics-rs/quanta](./metrics-rs-quanta.md) | ⭐ 436 | Rust | 51/100 |
 | 197 | [fast/fastrace](./fast-fastrace.md) | ⭐ 1.2k | Rust | 51/100 |
 | 198 | [dgunzy/flux9s](./dgunzy-flux9s.md) | ⭐ 288 | Rust | 51/100 |
 | 199 | [grafana/tempo](./grafana-tempo.md) | ⭐ 5.6k | Go | 51/100 |

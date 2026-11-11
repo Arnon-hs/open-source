@@ -136,7 +136,7 @@
 | 126 | [libressl/portable](./libressl-portable.md) | ⭐ 1.5k | C | 58/100 |
 | 127 | [Breakthrough/DVR-Scan](./breakthrough-dvr-scan.md) | ⭐ 535 | Python | 58/100 |
 | 128 | [rustls/rustls](./rustls-rustls.md) | ⭐ 7.7k | Rust | 58/100 |
-| 129 | [Tencent/TencentKonaSMSuite](./tencent-tencentkonasmsuite.md) | ⭐ 461 | Java | 58/100 |
+| 129 | [Tencent/TencentKonaSMSuite](./tencent-tencentkonasmsuite.md) | ⭐ 462 | Java | 58/100 |
 | 130 | [visa/visa-vulnerability-agentic-harness](./visa-visa-vulnerability-agentic-harness.md) | ⭐ 3.1k | Python | 58/100 |
 | 131 | [shaka-project/shaka-packager](./shaka-project-shaka-packager.md) | ⭐ 2.7k | C++ | 58/100 |
 | 132 | [zaproxy/zap-extensions](./zaproxy-zap-extensions.md) | ⭐ 954 | HTML | 58/100 |
@@ -274,9 +274,9 @@
 | 264 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 438 | HTML | 50/100 |
 | 265 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 266 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 136 | Rust | 50/100 |
-| 267 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 268 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 269 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
+| 267 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
+| 268 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 269 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
 | 270 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 271 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 530 | JavaScript | 50/100 |
 | 272 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 50/100 |
@@ -382,8 +382,8 @@
 | 372 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ 5 | — | 42/100 |
 | 373 | [barvhaim/code-security-skills](./barvhaim-code-security-skills.md) | ⭐ 1 | — | 42/100 |
 | 374 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ 6 | — | 42/100 |
-| 375 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
-| 376 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 375 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 376 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
 | 377 | [arm/metis](./arm-metis.md) | ⭐ 892 | — | 42/100 |
 | 378 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 42/100 |
 | 379 | [renton4code/propagate-cli](./renton4code-propagate-cli.md) | ⭐ 3 | — | 42/100 |
@@ -406,7 +406,7 @@
 | 396 | [ribato22/vibecheck](./ribato22-vibecheck.md) | ⭐ 3 | — | 41/100 |
 | 397 | [chriscasper/startica](./chriscasper-startica.md) | ⭐ 3 | — | 41/100 |
 | 398 | [ADCDS/xiaomi-ax3000t-cabmeshd-disclosure](./adcds-xiaomi-ax3000t-cabmeshd-disclosure.md) | ⭐ 1 | — | 41/100 |
-| 399 | [SmItH197/SteamAuthentication](./smith197-steamauthentication.md) | ⭐ 439 | PHP | 41/100 |
+| 399 | [SmItH197/SteamAuthentication](./smith197-steamauthentication.md) | ⭐ 440 | PHP | 41/100 |
 | 400 | [abismalmx/MySecret](./abismalmx-mysecret.md) | ⭐ 2 | — | 41/100 |
 | 401 | [eagle9111/Puedobot-Open-Source](./eagle9111-puedobot-open-source.md) | ⭐ 4 | — | 41/100 |
 | 402 | [advisories/GHSA-9v8h-qqgm-4m35](./advisories-ghsa-9v8h-qqgm-4m35.md) | ⭐ — | — | 41/100 |
@@ -467,8 +467,8 @@
 | 457 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 38/100 |
 | 458 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ 1.6k | — | 38/100 |
 | 459 | [openai/codex-security](./openai-codex-security.md) | ⭐ 11.4k | — | 38/100 |
-| 460 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
-| 461 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
+| 460 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
+| 461 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
 | 462 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
 | 463 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ 415 | — | 38/100 |
 | 464 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |

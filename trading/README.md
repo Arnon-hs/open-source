@@ -65,7 +65,7 @@
 | 55 | [pmxt-dev/pmxt](./pmxt-dev-pmxt.md) | ⭐ 2.2k | TypeScript | 67/100 |
 | 56 | [Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING](./amey-thakur-optimizing-stock-trading-strategy-with-reinforcement-learning.md) | ⭐ 58 | Python | 66/100 |
 | 57 | [FerroxLabs/tvcontrol](./ferroxlabs-tvcontrol.md) | ⭐ 60 | JavaScript | 66/100 |
-| 58 | [NVIDIA-AI-Blueprints/portfolio-optimization](./nvidia-ai-blueprints-portfolio-optimization.md) | ⭐ 504 | Jupyter Notebook | 66/100 |
+| 58 | [NVIDIA-AI-Blueprints/portfolio-optimization](./nvidia-ai-blueprints-portfolio-optimization.md) | ⭐ 505 | Jupyter Notebook | 66/100 |
 | 59 | [Jakeschincariol/day-trader-skill](./jakeschincariol-day-trader-skill.md) | ⭐ 6.7k | Python | 66/100 |
 | 60 | [sngyai/Sequoia-X](./sngyai-sequoia-x.md) | ⭐ 6k | Python | 65/100 |
 | 61 | [cinar/indicator](./cinar-indicator.md) | ⭐ 1.9k | Go | 65/100 |
@@ -79,8 +79,8 @@
 | 69 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 1k | — | 65/100 |
 | 70 | [arhancanli/canlicapital](./arhancanli-canlicapital.md) | ⭐ 6 | HTML | 64/100 |
 | 71 | [HKUDS/AI-Trader](./hkuds-ai-trader.md) | ⭐ 23.2k | Python | 64/100 |
-| 72 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.7k | — | 64/100 |
-| 73 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 97 | Python | 64/100 |
+| 72 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 97 | Python | 64/100 |
+| 73 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.7k | — | 64/100 |
 | 74 | [HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](./harrieronchain-prediction-markets-trading-bot-toolkits.md) | ⭐ 354 | Rust | 64/100 |
 | 75 | [Travisun/Opptrix](./travisun-opptrix.md) | ⭐ 32 | TypeScript | 64/100 |
 | 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 231 | Rust | 64/100 |
@@ -139,7 +139,7 @@
 | 129 | [joaquinbejar/OptionStratLib](./joaquinbejar-optionstratlib.md) | ⭐ 264 | Rust | 57/100 |
 | 130 | [saidsurucu/borsaci](./saidsurucu-borsaci.md) | ⭐ 288 | Python | 56/100 |
 | 131 | [warproxxx/poly-maker](./warproxxx-poly-maker.md) | ⭐ 1.5k | Python | 56/100 |
-| 132 | [Erio-Harrison/rust-trade](./erio-harrison-rust-trade.md) | ⭐ 491 | Rust | 56/100 |
+| 132 | [Erio-Harrison/rust-trade](./erio-harrison-rust-trade.md) | ⭐ 492 | Rust | 56/100 |
 | 133 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 312 | TypeScript | 56/100 |
 | 134 | [ghostfolio/ghostfolio](./ghostfolio-ghostfolio.md) | ⭐ 9.7k | TypeScript | 56/100 |
 | 135 | [AlexWan/OsEngine](./alexwan-osengine.md) | ⭐ 1k | C# | 56/100 |

@@ -13,7 +13,7 @@
 | 3 | [visgl/deck.gl](./visgl-deck.gl.md) | ⭐ 14.7k | TypeScript | 73/100 |
 | 4 | [google/filament](./google-filament.md) | ⭐ 20.7k | C++ | 71/100 |
 | 5 | [assimp/assimp](./assimp-assimp.md) | ⭐ 13.3k | C++ | 70/100 |
-| 6 | [IppClub/Dora-SSR](./ippclub-dora-ssr.md) | ⭐ 542 | C++ | 70/100 |
+| 6 | [IppClub/Dora-SSR](./ippclub-dora-ssr.md) | ⭐ 543 | C++ | 70/100 |
 | 7 | [LukasBanana/LLGL](./lukasbanana-llgl.md) | ⭐ 2.6k | C++ | 69/100 |
 | 8 | [Orama-Interactive/Pixelorama](./orama-interactive-pixelorama.md) | ⭐ 11.1k | GDScript | 69/100 |
 | 9 | [graphistry/pygraphistry](./graphistry-pygraphistry.md) | ⭐ 2.6k | Python | 69/100 |
@@ -38,7 +38,7 @@
 | 28 | [hajimehoshi/ebiten](./hajimehoshi-ebiten.md) | ⭐ 13.6k | Go | 65/100 |
 | 29 | [ColleagueRiley/RGFW](./colleagueriley-rgfw.md) | ⭐ 1.9k | C | 65/100 |
 | 30 | [BlueMap-Minecraft/BlueMap](./bluemap-minecraft-bluemap.md) | ⭐ 2.9k | Java | 65/100 |
-| 31 | [sockmaster27/svader](./sockmaster27-svader.md) | ⭐ 464 | Svelte | 65/100 |
+| 31 | [sockmaster27/svader](./sockmaster27-svader.md) | ⭐ 465 | Svelte | 65/100 |
 | 32 | [fungos/cr](./fungos-cr.md) | ⭐ 1.8k | C++ | 65/100 |
 | 33 | [elishacloud/dxwrapper](./elishacloud-dxwrapper.md) | ⭐ 2.1k | C | 65/100 |
 | 34 | [erichlof/THREE.js-PathTracing-Renderer](./erichlof-three.js-pathtracing-renderer.md) | ⭐ 2.3k | GLSL | 65/100 |
@@ -140,7 +140,7 @@
 | 130 | [HyperionGameTech/HyperionEngine](./hyperiongametech-hyperionengine.md) | ⭐ 571 | C++ | 59/100 |
 | 131 | [OpenWebGAL/WebGAL_Terre](./openwebgal-webgal-terre.md) | ⭐ 662 | TypeScript | 59/100 |
 | 132 | [google/neuroglancer](./google-neuroglancer.md) | ⭐ 1.6k | TypeScript | 59/100 |
-| 133 | [JeanPhilippeKernel/RendererEngine](./jeanphilippekernel-rendererengine.md) | ⭐ 470 | C++ | 59/100 |
+| 133 | [JeanPhilippeKernel/RendererEngine](./jeanphilippekernel-rendererengine.md) | ⭐ 471 | C++ | 59/100 |
 | 134 | [AlizaMedicalImaging/AlizaMS](./alizamedicalimaging-alizams.md) | ⭐ 318 | C++ | 59/100 |
 | 135 | [vladbat00/bevy_egui](./vladbat00-bevy-egui.md) | ⭐ 1.4k | Rust | 59/100 |
 | 136 | [KhronosGroup/Vulkan-Tutorial](./khronosgroup-vulkan-tutorial.md) | ⭐ 442 | C++ | 59/100 |
@@ -212,12 +212,12 @@
 | 202 | [Librelancer/Librelancer](./librelancer-librelancer.md) | ⭐ 612 | C# | 55/100 |
 | 203 | [vchelaru/FlatRedBall](./vchelaru-flatredball.md) | ⭐ 582 | C# | 55/100 |
 | 204 | [grovesNL/glow](./grovesnl-glow.md) | ⭐ 1.5k | Rust | 55/100 |
-| 205 | [bytemeadow/godot-bevy](./bytemeadow-godot-bevy.md) | ⭐ 578 | Rust | 55/100 |
+| 205 | [bytemeadow/godot-bevy](./bytemeadow-godot-bevy.md) | ⭐ 579 | Rust | 55/100 |
 | 206 | [jakubtomsu/awesome-odin](./jakubtomsu-awesome-odin.md) | ⭐ 1.1k | Odin | 55/100 |
 | 207 | [makepad/makepad](./makepad-makepad.md) | ⭐ 7.3k | Rust | 55/100 |
 | 208 | [cvet/fonline](./cvet-fonline.md) | ⭐ 343 | C++ | 55/100 |
 | 209 | [dontpanic92/OpenPAL3](./dontpanic92-openpal3.md) | ⭐ 587 | Rust | 55/100 |
-| 210 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 470 | JavaScript | 55/100 |
+| 210 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 471 | JavaScript | 55/100 |
 | 211 | [kool-engine/kool](./kool-engine-kool.md) | ⭐ 597 | Kotlin | 55/100 |
 | 212 | [bevyengine/bevy](./bevyengine-bevy.md) | ⭐ 49.7k | Rust | 55/100 |
 | 213 | [mayakhalil-cmd/inoscula](./mayakhalil-cmd-inoscula.md) | ⭐ 7 | TypeScript | 55/100 |
@@ -226,7 +226,7 @@
 | 216 | [Shadowss/TravianZ](./shadowss-travianz.md) | ⭐ 348 | PHP | 54/100 |
 | 217 | [vleue/polyanya](./vleue-polyanya.md) | ⭐ 529 | Rust | 54/100 |
 | 218 | [flingengine/FlingEngine](./flingengine-flingengine.md) | ⭐ 414 | C++ | 54/100 |
-| 219 | [rednblackgames/HyperLap2D](./rednblackgames-hyperlap2d.md) | ⭐ 449 | Java | 54/100 |
+| 219 | [rednblackgames/HyperLap2D](./rednblackgames-hyperlap2d.md) | ⭐ 451 | Java | 54/100 |
 | 220 | [raylib-cs/raylib-cs](./raylib-cs-raylib-cs.md) | ⭐ 1.5k | C# | 54/100 |
 | 221 | [ZyFou/ProceduralTerrains](./zyfou-proceduralterrains.md) | ⭐ 664 | JavaScript | 54/100 |
 | 222 | [tesselode/kira](./tesselode-kira.md) | ⭐ 1.1k | Rust | 54/100 |
@@ -242,7 +242,7 @@
 | 232 | [KDABLabs/kdabtv](./kdablabs-kdabtv.md) | ⭐ 327 | C++ | 53/100 |
 | 233 | [GlistEngine/GlistEngine](./glistengine-glistengine.md) | ⭐ 385 | C++ | 53/100 |
 | 234 | [dimforge/kiss3d](./dimforge-kiss3d.md) | ⭐ 1.8k | Rust | 53/100 |
-| 235 | [Traverse-Research/gpu-allocator](./traverse-research-gpu-allocator.md) | ⭐ 508 | Rust | 53/100 |
+| 235 | [Traverse-Research/gpu-allocator](./traverse-research-gpu-allocator.md) | ⭐ 509 | Rust | 53/100 |
 | 236 | [dimforge/parry](./dimforge-parry.md) | ⭐ 890 | Rust | 53/100 |
 | 237 | [flame-engine/flame](./flame-engine-flame.md) | ⭐ 10.8k | Dart | 53/100 |
 | 238 | [luanti-org/luanti](./luanti-org-luanti.md) | ⭐ 13.8k | C++ | 53/100 |
@@ -251,7 +251,7 @@
 | 241 | [mapbox/mapbox-maps-android](./mapbox-mapbox-maps-android.md) | ⭐ 582 | Kotlin | 52/100 |
 | 242 | [dxx-rebirth/dxx-rebirth](./dxx-rebirth-dxx-rebirth.md) | ⭐ 646 | C++ | 52/100 |
 | 243 | [storycraft/asdf-overlay](./storycraft-asdf-overlay.md) | ⭐ 182 | Rust | 52/100 |
-| 244 | [agbrs/agb](./agbrs-agb.md) | ⭐ 497 | Rust | 52/100 |
+| 244 | [agbrs/agb](./agbrs-agb.md) | ⭐ 498 | Rust | 52/100 |
 | 245 | [bryanedds/Nu](./bryanedds-nu.md) | ⭐ 1.4k | F# | 52/100 |
 | 246 | [stride3d/stride](./stride3d-stride.md) | ⭐ 7.9k | C# | 52/100 |
 | 247 | [facebook/igl](./facebook-igl.md) | ⭐ 3.2k | C++ | 52/100 |
@@ -297,7 +297,7 @@
 | 287 | [Unvanquished/Unvanquished](./unvanquished-unvanquished.md) | ⭐ 1.1k | C++ | 48/100 |
 | 288 | [Rust-GPU/rust-gpu](./rust-gpu-rust-gpu.md) | ⭐ 3.4k | Rust | 48/100 |
 | 289 | [LostBeard/SpawnDev.ILGPU](./lostbeard-spawndev.ilgpu.md) | ⭐ 35 | C# | 47/100 |
-| 290 | [BasisVR/Basis](./basisvr-basis.md) | ⭐ 535 | C# | 47/100 |
+| 290 | [BasisVR/Basis](./basisvr-basis.md) | ⭐ 536 | C# | 47/100 |
 | 291 | [dkfans/keeperfx](./dkfans-keeperfx.md) | ⭐ 1k | C | 47/100 |
 | 292 | [microsoft/DirectXMesh](./microsoft-directxmesh.md) | ⭐ 860 | C++ | 47/100 |
 | 293 | [ZhuNemo/locus-earth](./zhunemo-locus-earth.md) | ⭐ 4 | JavaScript | 46/100 |

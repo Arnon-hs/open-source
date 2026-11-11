@@ -92,7 +92,7 @@
 | 82 | [pmndrs/react-three-fiber](./pmndrs-react-three-fiber.md) | ⭐ 33.6k | TypeScript | 70/100 |
 | 83 | [ziex-dev/ziex](./ziex-dev-ziex.md) | ⭐ 419 | Zig | 70/100 |
 | 84 | [divkit/divkit](./divkit-divkit.md) | ⭐ 2.7k | Kotlin | 70/100 |
-| 85 | [obsfx/libgen-downloader](./obsfx-libgen-downloader.md) | ⭐ 469 | TypeScript | 70/100 |
+| 85 | [obsfx/libgen-downloader](./obsfx-libgen-downloader.md) | ⭐ 470 | TypeScript | 70/100 |
 | 86 | [graphif/project-graph](./graphif-project-graph.md) | ⭐ 4.5k | TypeScript | 70/100 |
 | 87 | [FirebaseExtended/reactfire](./firebaseextended-reactfire.md) | ⭐ 3.6k | TypeScript | 70/100 |
 | 88 | [Yooooomi/your_spotify](./yooooomi-your-spotify.md) | ⭐ 4.6k | TypeScript | 70/100 |
@@ -114,7 +114,7 @@
 | 104 | [MetrolistGroup/Metrolist](./metrolistgroup-metrolist.md) | ⭐ 14.1k | Kotlin | 69/100 |
 | 105 | [gridstack/gridstack.js](./gridstack-gridstack.js.md) | ⭐ 9.2k | TypeScript | 69/100 |
 | 106 | [qodex-ai/apimesh](./qodex-ai-apimesh.md) | ⭐ 325 | Python | 69/100 |
-| 107 | [barrel/shopify-vite](./barrel-shopify-vite.md) | ⭐ 468 | TypeScript | 69/100 |
+| 107 | [barrel/shopify-vite](./barrel-shopify-vite.md) | ⭐ 470 | TypeScript | 69/100 |
 | 108 | [mosamlife/wpmgr](./mosamlife-wpmgr.md) | ⭐ 167 | Go | 69/100 |
 | 109 | [adobe/react-spectrum](./adobe-react-spectrum.md) | ⭐ 16k | TypeScript | 69/100 |
 | 110 | [ng-packagr/ng-packagr](./ng-packagr-ng-packagr.md) | ⭐ 1.9k | TypeScript | 69/100 |
@@ -197,7 +197,7 @@
 | 187 | [firefox-devtools/profiler](./firefox-devtools-profiler.md) | ⭐ 1.5k | TypeScript | 66/100 |
 | 188 | [Jakubantalik/transitions.dev](./jakubantalik-transitions.dev.md) | ⭐ 6.2k | HTML | 66/100 |
 | 189 | [fontsource/fontsource](./fontsource-fontsource.md) | ⭐ 6.3k | TypeScript | 66/100 |
-| 190 | [scaccogatto/vue-waypoint](./scaccogatto-vue-waypoint.md) | ⭐ 463 | TypeScript | 66/100 |
+| 190 | [scaccogatto/vue-waypoint](./scaccogatto-vue-waypoint.md) | ⭐ 464 | TypeScript | 66/100 |
 | 191 | [Studio-Saelix/sencho](./studio-saelix-sencho.md) | ⭐ 500 | TypeScript | 66/100 |
 | 192 | [rjsf-team/react-jsonschema-form](./rjsf-team-react-jsonschema-form.md) | ⭐ 15.9k | TypeScript | 66/100 |
 | 193 | [saleor/saleor-dashboard](./saleor-saleor-dashboard.md) | ⭐ 1.1k | TypeScript | 66/100 |
@@ -216,7 +216,7 @@
 | 206 | [NG-ZORRO/ng-zorro-antd](./ng-zorro-ng-zorro-antd.md) | ⭐ 9.2k | TypeScript | 66/100 |
 | 207 | [rahmanef63/os-vps](./rahmanef63-os-vps.md) | ⭐ 33 | TypeScript | 66/100 |
 | 208 | [mathuo/dockview](./mathuo-dockview.md) | ⭐ 3.3k | TypeScript | 66/100 |
-| 209 | [SteamAchievementNotifier/SteamAchievementNotifier](./steamachievementnotifier-steamachievementnotifier.md) | ⭐ 575 | TypeScript | 66/100 |
+| 209 | [SteamAchievementNotifier/SteamAchievementNotifier](./steamachievementnotifier-steamachievementnotifier.md) | ⭐ 576 | TypeScript | 66/100 |
 | 210 | [ianshulx/Django-Projects-for-beginners](./ianshulx-django-projects-for-beginners.md) | ⭐ 390 | JavaScript | 66/100 |
 | 211 | [convertigo/convertigo](./convertigo-convertigo.md) | ⭐ 388 | Java | 66/100 |
 | 212 | [formbricks/formbricks](./formbricks-formbricks.md) | ⭐ 13.2k | TypeScript | 66/100 |
@@ -231,7 +231,7 @@
 | 221 | [microsoft/fluentui](./microsoft-fluentui.md) | ⭐ 20.4k | TypeScript | 65/100 |
 | 222 | [7nohe/openapi-react-query-codegen](./7nohe-openapi-react-query-codegen.md) | ⭐ 430 | TypeScript | 65/100 |
 | 223 | [asyncapi/website](./asyncapi-website.md) | ⭐ 717 | TypeScript | 65/100 |
-| 224 | [bucketeer-io/bucketeer](./bucketeer-io-bucketeer.md) | ⭐ 485 | Go | 65/100 |
+| 224 | [bucketeer-io/bucketeer](./bucketeer-io-bucketeer.md) | ⭐ 486 | Go | 65/100 |
 | 225 | [callstack/repack](./callstack-repack.md) | ⭐ 1.9k | TypeScript | 65/100 |
 | 226 | [Studio-42/elFinder](./studio-42-elfinder.md) | ⭐ 4.8k | JavaScript | 65/100 |
 | 227 | [jaydenseric/apollo-upload-client](./jaydenseric-apollo-upload-client.md) | ⭐ 1.5k | JavaScript | 65/100 |
@@ -262,8 +262,8 @@
 | 252 | [lynx-family/lynx-stack](./lynx-family-lynx-stack.md) | ⭐ 741 | TypeScript | 65/100 |
 | 253 | [zhenorzz/goploy](./zhenorzz-goploy.md) | ⭐ 1.3k | Go | 65/100 |
 | 254 | [ng-doc/ng-doc](./ng-doc-ng-doc.md) | ⭐ 326 | TypeScript | 65/100 |
-| 255 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
-| 256 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
+| 255 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
+| 256 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
 | 257 | [magicuidesign/magicui](./magicuidesign-magicui.md) | ⭐ 23.2k | MDX | 65/100 |
 | 258 | [mealie-recipes/mealie](./mealie-recipes-mealie.md) | ⭐ 13.9k | Python | 65/100 |
 | 259 | [marko-js/marko](./marko-js-marko.md) | ⭐ 14.5k | JavaScript | 65/100 |
@@ -292,7 +292,7 @@
 | 282 | [RackulaLives/Rackula](./rackulalives-rackula.md) | ⭐ 1.8k | TypeScript | 64/100 |
 | 283 | [mongodb-js/mongosh](./mongodb-js-mongosh.md) | ⭐ 402 | TypeScript | 64/100 |
 | 284 | [swingmx/swingmusic](./swingmx-swingmusic.md) | ⭐ 2.1k | Python | 64/100 |
-| 285 | [sveltejs/cli](./sveltejs-cli.md) | ⭐ 512 | TypeScript | 64/100 |
+| 285 | [sveltejs/cli](./sveltejs-cli.md) | ⭐ 513 | TypeScript | 64/100 |
 | 286 | [microsoft/vscode-react-native](./microsoft-vscode-react-native.md) | ⭐ 2.7k | TypeScript | 64/100 |
 | 287 | [opentiny/genui-sdk](./opentiny-genui-sdk.md) | ⭐ 191 | TypeScript | 64/100 |
 | 288 | [mui/mui-x](./mui-mui-x.md) | ⭐ 5.9k | TypeScript | 64/100 |
@@ -312,7 +312,7 @@
 | 302 | [yangzongzhuan/RuoYi-Vue-Oracle](./yangzongzhuan-ruoyi-vue-oracle.md) | ⭐ 339 | Java | 63/100 |
 | 303 | [arco-design/arco-design](./arco-design-arco-design.md) | ⭐ 5.8k | TypeScript | 63/100 |
 | 304 | [qmhc/grid-layout-plus](./qmhc-grid-layout-plus.md) | ⭐ 624 | TypeScript | 63/100 |
-| 305 | [telekom/scale](./telekom-scale.md) | ⭐ 431 | TypeScript | 63/100 |
+| 305 | [telekom/scale](./telekom-scale.md) | ⭐ 432 | TypeScript | 63/100 |
 | 306 | [Clariity/react-chessboard](./clariity-react-chessboard.md) | ⭐ 551 | TypeScript | 63/100 |
 | 307 | [jdf2e/nutui-react](./jdf2e-nutui-react.md) | ⭐ 1.2k | TypeScript | 63/100 |
 | 308 | [garmeeh/next-seo](./garmeeh-next-seo.md) | ⭐ 8.5k | TypeScript | 63/100 |
@@ -329,7 +329,7 @@
 | 319 | [vobyjs/voby](./vobyjs-voby.md) | ⭐ 910 | TypeScript | 63/100 |
 | 320 | [tabler/tabler-icons](./tabler-tabler-icons.md) | ⭐ 22.6k | JavaScript | 63/100 |
 | 321 | [lingui/js-lingui](./lingui-js-lingui.md) | ⭐ 5.9k | TypeScript | 63/100 |
-| 322 | [Foblex/f-flow](./foblex-f-flow.md) | ⭐ 542 | TypeScript | 63/100 |
+| 322 | [Foblex/f-flow](./foblex-f-flow.md) | ⭐ 541 | TypeScript | 63/100 |
 | 323 | [komodorio/komoplane](./komodorio-komoplane.md) | ⭐ 389 | TypeScript | 63/100 |
 | 324 | [CarGuo/gsy_github_app_flutter](./carguo-gsy-github-app-flutter.md) | ⭐ 15.5k | Dart | 63/100 |
 | 325 | [ronisarkarexe/story-spark-ai](./ronisarkarexe-story-spark-ai.md) | ⭐ 316 | TypeScript | 63/100 |
@@ -409,9 +409,9 @@
 | 399 | [programmersd21/pik](./programmersd21-pik.md) | ⭐ 33 | Rust | 61/100 |
 | 400 | [p-dor/LiveboxMonitor](./p-dor-liveboxmonitor.md) | ⭐ 426 | Python | 61/100 |
 | 401 | [omegaee/my-fingerprint](./omegaee-my-fingerprint.md) | ⭐ 1.5k | TypeScript | 61/100 |
-| 402 | [s-theo/lumen](./s-theo-lumen.md) | ⭐ 456 | Vue | 61/100 |
+| 402 | [s-theo/lumen](./s-theo-lumen.md) | ⭐ 457 | Vue | 61/100 |
 | 403 | [bex-co/beancount-io](./bex-co-beancount-io.md) | ⭐ 332 | TypeScript | 61/100 |
-| 404 | [reearth/reearth-visualizer](./reearth-reearth-visualizer.md) | ⭐ 451 | TypeScript | 61/100 |
+| 404 | [reearth/reearth-visualizer](./reearth-reearth-visualizer.md) | ⭐ 452 | TypeScript | 61/100 |
 | 405 | [epicweb-dev/react-hooks](./epicweb-dev-react-hooks.md) | ⭐ 2.8k | TypeScript | 61/100 |
 | 406 | [edmundhung/conform](./edmundhung-conform.md) | ⭐ 2.6k | TypeScript | 61/100 |
 | 407 | [josdejong/svelte-jsoneditor](./josdejong-svelte-jsoneditor.md) | ⭐ 1.3k | TypeScript | 61/100 |
@@ -456,9 +456,9 @@
 | 446 | [ianshulx/React-projects-for-beginners](./ianshulx-react-projects-for-beginners.md) | ⭐ 570 | JavaScript | 60/100 |
 | 447 | [testing-library/user-event](./testing-library-user-event.md) | ⭐ 2.3k | TypeScript | 60/100 |
 | 448 | [duckduckgo/duckduckgo-privacy-extension](./duckduckgo-duckduckgo-privacy-extension.md) | ⭐ 1.5k | JavaScript | 60/100 |
-| 449 | [dietrichmax/colota](./dietrichmax-colota.md) | ⭐ 712 | TypeScript | 60/100 |
+| 449 | [dietrichmax/colota](./dietrichmax-colota.md) | ⭐ 714 | TypeScript | 60/100 |
 | 450 | [DuarteSantos8/openGym](./duartesantos8-opengym.md) | ⭐ 20.7k | JavaScript | 60/100 |
-| 451 | [anzellai/sky](./anzellai-sky.md) | ⭐ 439 | Go | 60/100 |
+| 451 | [anzellai/sky](./anzellai-sky.md) | ⭐ 440 | Go | 60/100 |
 | 452 | [reatom/reatom](./reatom-reatom.md) | ⭐ 1.4k | TypeScript | 60/100 |
 | 453 | [midudev/preguntas-entrevista-react](./midudev-preguntas-entrevista-react.md) | ⭐ 7.8k | Astro | 60/100 |
 | 454 | [kolkov/angular-editor](./kolkov-angular-editor.md) | ⭐ 722 | TypeScript | 60/100 |
@@ -480,7 +480,7 @@
 | 470 | [ow-mods/ow-mod-man](./ow-mods-ow-mod-man.md) | ⭐ 161 | Rust | 60/100 |
 | 471 | [unovue/inspira-ui](./unovue-inspira-ui.md) | ⭐ 5.1k | Vue | 60/100 |
 | 472 | [tektoncd/dashboard](./tektoncd-dashboard.md) | ⭐ 964 | JavaScript | 60/100 |
-| 473 | [getsentry/sentry-docs](./getsentry-sentry-docs.md) | ⭐ 449 | MDX | 60/100 |
+| 473 | [getsentry/sentry-docs](./getsentry-sentry-docs.md) | ⭐ 450 | MDX | 60/100 |
 | 474 | [chatwoot/chatwoot-mobile-app](./chatwoot-chatwoot-mobile-app.md) | ⭐ 1.1k | TypeScript | 60/100 |
 | 475 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 476 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
@@ -494,7 +494,7 @@
 | 484 | [ubugeeei-prod/vize](./ubugeeei-prod-vize.md) | ⭐ 927 | Rust | 60/100 |
 | 485 | [stylelint/stylelint](./stylelint-stylelint.md) | ⭐ 11.5k | JavaScript | 60/100 |
 | 486 | [software-mansion/react-native-screens](./software-mansion-react-native-screens.md) | ⭐ 3.8k | TypeScript | 60/100 |
-| 487 | [Mustard2/MustardUI](./mustard2-mustardui.md) | ⭐ 469 | Python | 60/100 |
+| 487 | [Mustard2/MustardUI](./mustard2-mustardui.md) | ⭐ 470 | Python | 60/100 |
 | 488 | [Techtonica/curriculum](./techtonica-curriculum.md) | ⭐ 656 | JavaScript | 60/100 |
 | 489 | [go-drift/drift](./go-drift-drift.md) | ⭐ 316 | Go | 60/100 |
 | 490 | [csstools/postcss-plugins](./csstools-postcss-plugins.md) | ⭐ 1.1k | CSS | 60/100 |
@@ -564,7 +564,7 @@
 | 554 | [cartesiancs/map3d](./cartesiancs-map3d.md) | ⭐ 2.7k | TypeScript | 58/100 |
 | 555 | [nuxt/fonts](./nuxt-fonts.md) | ⭐ 610 | TypeScript | 58/100 |
 | 556 | [eduardoborges/use-mask-input](./eduardoborges-use-mask-input.md) | ⭐ 687 | TypeScript | 58/100 |
-| 557 | [jpettitt/weather-radar-card](./jpettitt-weather-radar-card.md) | ⭐ 476 | TypeScript | 58/100 |
+| 557 | [jpettitt/weather-radar-card](./jpettitt-weather-radar-card.md) | ⭐ 477 | TypeScript | 58/100 |
 | 558 | [anyblades/blades](./anyblades-blades.md) | ⭐ 472 | CSS | 58/100 |
 | 559 | [rahmanef63/mso](./rahmanef63-mso.md) | ⭐ 106 | TypeScript | 58/100 |
 | 560 | [meszmate/zigzag](./meszmate-zigzag.md) | ⭐ 590 | Zig | 58/100 |
@@ -577,7 +577,7 @@
 | 567 | [radiantearth/stac-browser](./radiantearth-stac-browser.md) | ⭐ 435 | JavaScript | 58/100 |
 | 568 | [qingkuai-js/qingkuai](./qingkuai-js-qingkuai.md) | ⭐ 428 | TypeScript | 58/100 |
 | 569 | [DioxusLabs/taffy](./dioxuslabs-taffy.md) | ⭐ 3.8k | Rust | 58/100 |
-| 570 | [ag-grid/ag-charts](./ag-grid-ag-charts.md) | ⭐ 489 | TypeScript | 58/100 |
+| 570 | [ag-grid/ag-charts](./ag-grid-ag-charts.md) | ⭐ 490 | TypeScript | 58/100 |
 | 571 | [aidenybai/bippy](./aidenybai-bippy.md) | ⭐ 1.4k | TypeScript | 58/100 |
 | 572 | [skerkour/bloom](./skerkour-bloom.md) | ⭐ 1.5k | Rust | 58/100 |
 | 573 | [starc007/ui-components](./starc007-ui-components.md) | ⭐ 2k | TypeScript | 58/100 |
@@ -686,11 +686,11 @@
 | 676 | [codemistic/Web-Development](./codemistic-web-development.md) | ⭐ 353 | JavaScript | 56/100 |
 | 677 | [livekit/components-js](./livekit-components-js.md) | ⭐ 474 | TypeScript | 56/100 |
 | 678 | [akinncar/react-native-mask-text](./akinncar-react-native-mask-text.md) | ⭐ 464 | TypeScript | 56/100 |
-| 679 | [instructure/instructure-ui](./instructure-instructure-ui.md) | ⭐ 486 | TypeScript | 56/100 |
+| 679 | [instructure/instructure-ui](./instructure-instructure-ui.md) | ⭐ 487 | TypeScript | 56/100 |
 | 680 | [oekazuma/svelte-meta-tags](./oekazuma-svelte-meta-tags.md) | ⭐ 685 | TypeScript | 56/100 |
 | 681 | [wcandillon/react-native-webgpu](./wcandillon-react-native-webgpu.md) | ⭐ 1.3k | TypeScript | 56/100 |
 | 682 | [wKovacs64/react-native-responsive-image-view](./wkovacs64-react-native-responsive-image-view.md) | ⭐ 401 | TypeScript | 56/100 |
-| 683 | [carbon-design-system/sveld](./carbon-design-system-sveld.md) | ⭐ 454 | TypeScript | 56/100 |
+| 683 | [carbon-design-system/sveld](./carbon-design-system-sveld.md) | ⭐ 455 | TypeScript | 56/100 |
 | 684 | [JetBrains/kotlin-wrappers](./jetbrains-kotlin-wrappers.md) | ⭐ 1.6k | Kotlin | 56/100 |
 | 685 | [containers/podman-tui](./containers-podman-tui.md) | ⭐ 1.3k | Go | 56/100 |
 | 686 | [LeSuisse/vue-dompurify-html](./lesuisse-vue-dompurify-html.md) | ⭐ 333 | TypeScript | 56/100 |
@@ -720,12 +720,12 @@
 | 710 | [nuxt/nuxt.com](./nuxt-nuxt.com.md) | ⭐ 461 | TypeScript | 55/100 |
 | 711 | [DAGINATSUKO/www-rpcs3](./daginatsuko-www-rpcs3.md) | ⭐ 370 | PHP | 55/100 |
 | 712 | [GSTJ/react-native-magic-modal](./gstj-react-native-magic-modal.md) | ⭐ 619 | TypeScript | 55/100 |
-| 713 | [Synphonyte/leptos-use](./synphonyte-leptos-use.md) | ⭐ 496 | Rust | 55/100 |
+| 713 | [Synphonyte/leptos-use](./synphonyte-leptos-use.md) | ⭐ 499 | Rust | 55/100 |
 | 714 | [kirillzyusko/react-native-teleport](./kirillzyusko-react-native-teleport.md) | ⭐ 829 | TypeScript | 55/100 |
 | 715 | [xlch88/YouTubeTweak](./xlch88-youtubetweak.md) | ⭐ 420 | TypeScript | 55/100 |
 | 716 | [Hamza417/Peristyle](./hamza417-peristyle.md) | ⭐ 737 | Kotlin | 55/100 |
 | 717 | [sibiraj-s/svelte-tiptap](./sibiraj-s-svelte-tiptap.md) | ⭐ 338 | TypeScript | 55/100 |
-| 718 | [SamTV12345/PodFetch](./samtv12345-podfetch.md) | ⭐ 523 | Rust | 55/100 |
+| 718 | [SamTV12345/PodFetch](./samtv12345-podfetch.md) | ⭐ 524 | Rust | 55/100 |
 | 719 | [DerYeger/yeger](./deryeger-yeger.md) | ⭐ 380 | TypeScript | 55/100 |
 | 720 | [selemondev/spark-ui](./selemondev-spark-ui.md) | ⭐ 634 | TypeScript | 55/100 |
 | 721 | [gravity-ui/uikit](./gravity-ui-uikit.md) | ⭐ 1.1k | TypeScript | 55/100 |
@@ -750,7 +750,7 @@
 | 740 | [ashuttl/linecast](./ashuttl-linecast.md) | ⭐ 678 | Python | 54/100 |
 | 741 | [coderwhy/hy-event-store](./coderwhy-hy-event-store.md) | ⭐ 411 | JavaScript | 54/100 |
 | 742 | [mardous/BoomingMusic](./mardous-boomingmusic.md) | ⭐ 607 | Kotlin | 54/100 |
-| 743 | [schell/mogwai](./schell-mogwai.md) | ⭐ 427 | Rust | 54/100 |
+| 743 | [schell/mogwai](./schell-mogwai.md) | ⭐ 428 | Rust | 54/100 |
 | 744 | [compose-miuix-ui/miuix](./compose-miuix-ui-miuix.md) | ⭐ 1.6k | Kotlin | 54/100 |
 | 745 | [colorjs/color-space](./colorjs-color-space.md) | ⭐ 392 | JavaScript | 54/100 |
 | 746 | [sanusart/react-dropdown-select](./sanusart-react-dropdown-select.md) | ⭐ 364 | JavaScript | 54/100 |
@@ -773,13 +773,13 @@
 | 763 | [LimeSurvey/LimeSurvey](./limesurvey-limesurvey.md) | ⭐ 3.8k | JavaScript | 54/100 |
 | 764 | [riophae/vue-treeselect](./riophae-vue-treeselect.md) | ⭐ 3k | JavaScript | 53/100 |
 | 765 | [amahteru/x-comment-blocker](./amahteru-x-comment-blocker.md) | ⭐ 427 | JavaScript | 53/100 |
-| 766 | [TheRedDeveloper/ply-engine](./thereddeveloper-ply-engine.md) | ⭐ 516 | Rust | 53/100 |
+| 766 | [TheRedDeveloper/ply-engine](./thereddeveloper-ply-engine.md) | ⭐ 517 | Rust | 53/100 |
 | 767 | [7ritn/VaulTLS](./7ritn-vaultls.md) | ⭐ 1.2k | Rust | 53/100 |
 | 768 | [oddbird/popover-polyfill](./oddbird-popover-polyfill.md) | ⭐ 366 | TypeScript | 53/100 |
 | 769 | [sweetwisdom/onlyoffice-web-local](./sweetwisdom-onlyoffice-web-local.md) | ⭐ 380 | HTML | 53/100 |
 | 770 | [koumoul-dev/vuetify-jsonschema-form](./koumoul-dev-vuetify-jsonschema-form.md) | ⭐ 579 | Vue | 53/100 |
 | 771 | [kirill-grouchnikov/aurora](./kirill-grouchnikov-aurora.md) | ⭐ 652 | Kotlin | 53/100 |
-| 772 | [w3c/webref](./w3c-webref.md) | ⭐ 489 | JavaScript | 53/100 |
+| 772 | [w3c/webref](./w3c-webref.md) | ⭐ 491 | JavaScript | 53/100 |
 | 773 | [AmoebeLabs/flex-horseshoe-card](./amoebelabs-flex-horseshoe-card.md) | ⭐ 401 | JavaScript | 53/100 |
 | 774 | [focus-trap/focus-trap-react](./focus-trap-focus-trap-react.md) | ⭐ 786 | JavaScript | 53/100 |
 | 775 | [felipegcoutinho/openmonetis](./felipegcoutinho-openmonetis.md) | ⭐ 248 | TypeScript | 53/100 |
@@ -807,7 +807,7 @@
 | 797 | [greeeen-dev/natsumi-browser](./greeeen-dev-natsumi-browser.md) | ⭐ 897 | JavaScript | 52/100 |
 | 798 | [ArthurSonzogni/FTXUI](./arthursonzogni-ftxui.md) | ⭐ 10.9k | C++ | 52/100 |
 | 799 | [Hamza417/Inure](./hamza417-inure.md) | ⭐ 2k | Kotlin | 52/100 |
-| 800 | [operately/operately](./operately-operately.md) | ⭐ 619 | Elixir | 52/100 |
+| 800 | [operately/operately](./operately-operately.md) | ⭐ 620 | Elixir | 52/100 |
 | 801 | [remarkablemark/html-react-parser](./remarkablemark-html-react-parser.md) | ⭐ 2.4k | TypeScript | 52/100 |
 | 802 | [whisper-money/whisper-money](./whisper-money-whisper-money.md) | ⭐ 1.2k | TypeScript | 52/100 |
 | 803 | [SasanLabs/VulnerableApp](./sasanlabs-vulnerableapp.md) | ⭐ 482 | Java | 52/100 |
@@ -841,9 +841,9 @@
 | 831 | [skywind3000/vim-quickui](./skywind3000-vim-quickui.md) | ⭐ 1.2k | Vim Script | 50/100 |
 | 832 | [UI5/openui5](./ui5-openui5.md) | ⭐ 3.3k | JavaScript | 50/100 |
 | 833 | [generaltranslation/gt](./generaltranslation-gt.md) | ⭐ 1.1k | TypeScript | 50/100 |
-| 834 | [vchelaru/Gum](./vchelaru-gum.md) | ⭐ 657 | C# | 50/100 |
+| 834 | [vchelaru/Gum](./vchelaru-gum.md) | ⭐ 658 | C# | 50/100 |
 | 835 | [KittyCAD/modeling-app](./kittycad-modeling-app.md) | ⭐ 1.3k | TypeScript | 50/100 |
-| 836 | [sanidhyy/space-portfolio](./sanidhyy-space-portfolio.md) | ⭐ 546 | TypeScript | 50/100 |
+| 836 | [sanidhyy/space-portfolio](./sanidhyy-space-portfolio.md) | ⭐ 547 | TypeScript | 50/100 |
 | 837 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 48 | TypeScript | 49/100 |
 | 838 | [ShazMoghaddam/bezel-charts](./shazmoghaddam-bezel-charts.md) | ⭐ 1 | JavaScript | 49/100 |
 | 839 | [MA-Ahmad/myPortfolio](./ma-ahmad-myportfolio.md) | ⭐ 239 | — | 49/100 |
@@ -861,7 +861,7 @@
 | 851 | [terrizoaguimor/aureform-ui](./terrizoaguimor-aureform-ui.md) | ⭐ 5 | TypeScript | 48/100 |
 | 852 | [NIPE-Solutions/react-data-inspector](./nipe-solutions-react-data-inspector.md) | ⭐ 2 | TypeScript | 48/100 |
 | 853 | [dekirisu/mevy](./dekirisu-mevy.md) | ⭐ 129 | Rust | 48/100 |
-| 854 | [LiamMorrow/LiftLog](./liammorrow-liftlog.md) | ⭐ 604 | TypeScript | 48/100 |
+| 854 | [LiamMorrow/LiftLog](./liammorrow-liftlog.md) | ⭐ 606 | TypeScript | 48/100 |
 | 855 | [EvgenyOrekhov/eslint-config-hardcore](./evgenyorekhov-eslint-config-hardcore.md) | ⭐ 473 | JavaScript | 48/100 |
 | 856 | [bluerobotics/cockpit](./bluerobotics-cockpit.md) | ⭐ 203 | Vue | 48/100 |
 | 857 | [isographlabs/isograph](./isographlabs-isograph.md) | ⭐ 402 | Rust | 48/100 |
