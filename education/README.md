@@ -2,7 +2,7 @@
 
 > 
 
-**34 projects** in this category.
+**35 projects** in this category.
 
 ## Projects
 
@@ -31,17 +31,18 @@
 | 21 | [junit-team/junit-examples](./junit-team-junit-examples.md) | ⭐ 1.6k | Java | 54/100 |
 | 22 | [aio-libs/aiohttp-demos](./aio-libs-aiohttp-demos.md) | ⭐ 749 | Makefile | 54/100 |
 | 23 | [zigcc/zig-course](./zigcc-zig-course.md) | ⭐ 385 | Zig | 53/100 |
-| 24 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.2k | Vim Script | 50/100 |
-| 25 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 232 | Rust | 49/100 |
-| 26 | [AloisSeckar/demos-java](./aloisseckar-demos-java.md) | ⭐ 25 | Java | 48/100 |
-| 27 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 385 | Rust | 45/100 |
-| 28 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 441 | Mojo | 44/100 |
-| 29 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 262 | Rust | 44/100 |
-| 30 | [Jay-Naik2526/or-studio](./jay-naik2526-or-studio.md) | ⭐ — | TypeScript | 44/100 |
-| 31 | [rapha-rodrigues/cc-esol](./rapha-rodrigues-cc-esol.md) | ⭐ 3 | — | 41/100 |
-| 32 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 40/100 |
-| 33 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 34/100 |
-| 34 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 33/100 |
+| 24 | [Sefa177/Programming-Guide](./sefa177-programming-guide.md) | ⭐ 1 | JavaScript | 51/100 |
+| 25 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.2k | Vim Script | 50/100 |
+| 26 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 232 | Rust | 49/100 |
+| 27 | [AloisSeckar/demos-java](./aloisseckar-demos-java.md) | ⭐ 25 | Java | 48/100 |
+| 28 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 385 | Rust | 45/100 |
+| 29 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 441 | Mojo | 44/100 |
+| 30 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 262 | Rust | 44/100 |
+| 31 | [Jay-Naik2526/or-studio](./jay-naik2526-or-studio.md) | ⭐ — | TypeScript | 44/100 |
+| 32 | [rapha-rodrigues/cc-esol](./rapha-rodrigues-cc-esol.md) | ⭐ 3 | — | 41/100 |
+| 33 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 40/100 |
+| 34 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 34/100 |
+| 35 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

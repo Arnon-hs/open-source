@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-AI/ML
+AI/ML · Productivity · Backend · DevTools
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Spacexcx/pr-check: Spacexcx/pr-check helps add AI capability without starting fr
 
 ### Русский
 
-Spacexcx/pr-check: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Spacexcx/pr-check: open-source проект в категориях AI/ML, Productivity, Backend, DevTools. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,18 +65,18 @@ Spacexcx/pr-check：Spacexcx/pr-check helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 51/100 |
-| integration | 94/100 |
-| production | 65/100 |
-| outlook | 68/100 |
-| adoption | 11/100 |
-| categoryMatchCount | 100/100 |
-| stars | 13/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 13/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 51/100 |
+| recency | 80/100 |
+| adoption | 11/100 |
+| production | 65/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

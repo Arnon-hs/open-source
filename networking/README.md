@@ -598,7 +598,7 @@
 | 588 | [aleenz1102/AgentState](./aleenz1102-agentstate.md) | ⭐ 5 | — | 42/100 |
 | 589 | [madeye/BaoLianDeng](./madeye-baoliandeng.md) | ⭐ 779 | Swift | 42/100 |
 | 590 | [naia-lib/naia](./naia-lib-naia.md) | ⭐ 1.2k | Rust | 42/100 |
-| 591 | [jkfran/stadiacast](./jkfran-stadiacast.md) | ⭐ — | — | 41/100 |
+| 591 | [jkfran/stadiacast](./jkfran-stadiacast.md) | ⭐ 58 | — | 41/100 |
 | 592 | [CLoaKY233/kith](./cloaky233-kith.md) | ⭐ — | — | 41/100 |
 | 593 | [matthewmrichter/moofport](./matthewmrichter-moofport.md) | ⭐ 1 | — | 41/100 |
 | 594 | [rmediatech/propylea](./rmediatech-propylea.md) | ⭐ 4 | — | 41/100 |
