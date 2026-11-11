@@ -59,7 +59,7 @@
 | 49 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.4k | Rust | 70/100 |
 | 50 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2.2k | Go | 69/100 |
 | 51 | [stripe/stripe-java](./stripe-stripe-java.md) | ⭐ 1k | Java | 69/100 |
-| 52 | [diegosouzapw/OmniGlyph](./diegosouzapw-omniglyph.md) | ⭐ 165 | TypeScript | 68/100 |
+| 52 | [diegosouzapw/OmniGlyph](./diegosouzapw-omniglyph.md) | ⭐ 168 | TypeScript | 68/100 |
 | 53 | [NVIDIA-AI-Blueprints/Retail-Agentic-Commerce](./nvidia-ai-blueprints-retail-agentic-commerce.md) | ⭐ 86 | Python | 68/100 |
 | 54 | [mag123c/toktrack](./mag123c-toktrack.md) | ⭐ 196 | Rust | 68/100 |
 | 55 | [ianjwhite99/opencode-with-claude](./ianjwhite99-opencode-with-claude.md) | ⭐ 628 | JavaScript | 68/100 |
@@ -76,8 +76,8 @@
 | 66 | [ethibox/ethibox](./ethibox-ethibox.md) | ⭐ 260 | JavaScript | 66/100 |
 | 67 | [samber/ro](./samber-ro.md) | ⭐ 698 | Go | 66/100 |
 | 68 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.6k | TypeScript | 66/100 |
-| 69 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.5k | Python | 66/100 |
-| 70 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
+| 69 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
+| 70 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.5k | Python | 66/100 |
 | 71 | [librae8226/nexus4cc](./librae8226-nexus4cc.md) | ⭐ 134 | TypeScript | 65/100 |
 | 72 | [hugoii/llm-agent-audit](./hugoii-llm-agent-audit.md) | ⭐ 62 | Python | 65/100 |
 | 73 | [zmievsa/cadwyn](./zmievsa-cadwyn.md) | ⭐ 314 | Python | 65/100 |
@@ -95,7 +95,7 @@
 | 85 | [talivia-group/talivia](./talivia-group-talivia.md) | ⭐ 2.3k | TypeScript | 64/100 |
 | 86 | [myapihq/myapi](./myapihq-myapi.md) | ⭐ 107 | TypeScript | 64/100 |
 | 87 | [Adyen/adyen-java-api-library](./adyen-adyen-java-api-library.md) | ⭐ 147 | Java | 64/100 |
-| 88 | [paypal-examples/v6-web-sdk-sample-integration](./paypal-examples-v6-web-sdk-sample-integration.md) | ⭐ 153 | TypeScript | 64/100 |
+| 88 | [paypal-examples/v6-web-sdk-sample-integration](./paypal-examples-v6-web-sdk-sample-integration.md) | ⭐ 154 | TypeScript | 64/100 |
 | 89 | [Adyen/adyen-dotnet-api-library](./adyen-adyen-dotnet-api-library.md) | ⭐ 128 | C# | 64/100 |
 | 90 | [stripe/stripe-python](./stripe-stripe-python.md) | ⭐ 2.1k | Python | 64/100 |
 | 91 | [FOSSBilling/FOSSBilling](./fossbilling-fossbilling.md) | ⭐ 1.7k | PHP | 64/100 |
@@ -280,13 +280,13 @@
 | 270 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 60 | Rust | 50/100 |
 | 271 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 50/100 |
 | 272 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 224 | Rust | 50/100 |
-| 273 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
-| 274 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
+| 273 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
+| 274 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
 | 275 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 276 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 181 | HTML | 50/100 |
-| 278 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
-| 279 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
+| 278 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
+| 279 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
 | 280 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 281 | [FetchDoge/permit](./fetchdoge-permit.md) | ⭐ — | Python | 49/100 |
 | 282 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 49/100 |

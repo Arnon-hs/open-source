@@ -14,7 +14,7 @@
 | 4 | [kodelyx/flow-agent](./kodelyx-flow-agent.md) | ⭐ 264 | Python | 82/100 |
 | 5 | [SamurAIGPT/muapi-cli](./samuraigpt-muapi-cli.md) | ⭐ 17 | Python | 82/100 |
 | 6 | [darkzOGx/youtube-automation-agent](./darkzogx-youtube-automation-agent.md) | ⭐ 5.1k | JavaScript | 80/100 |
-| 7 | [Ratimon/openquok-monorepo](./ratimon-openquok-monorepo.md) | ⭐ 107 | TypeScript | 79/100 |
+| 7 | [Ratimon/openquok-monorepo](./ratimon-openquok-monorepo.md) | ⭐ 106 | TypeScript | 79/100 |
 | 8 | [AuraVixStudio/caelo](./auravixstudio-caelo.md) | ⭐ 26 | Python | 79/100 |
 | 9 | [modelstudioai/cli](./modelstudioai-cli.md) | ⭐ 370 | TypeScript | 79/100 |
 | 10 | [neopen/story-shot-agent](./neopen-story-shot-agent.md) | ⭐ 238 | Python | 78/100 |
@@ -23,7 +23,7 @@
 | 13 | [SlavaSexton/ComfyUI-Agent-Kit](./slavasexton-comfyui-agent-kit.md) | ⭐ 120 | Python | 77/100 |
 | 14 | [gokayfem/ComfyUI-fal-API](./gokayfem-comfyui-fal-api.md) | ⭐ 227 | Python | 76/100 |
 | 15 | [promptslab/Awesome-Prompt-Engineering](./promptslab-awesome-prompt-engineering.md) | ⭐ 6.4k | TypeScript | 76/100 |
-| 16 | [Anil-matcha/Wan-3.0-API](./anil-matcha-wan-3.0-api.md) | ⭐ 80 | Python | 76/100 |
+| 16 | [Anil-matcha/Wan-3.0-API](./anil-matcha-wan-3.0-api.md) | ⭐ 81 | Python | 76/100 |
 | 17 | [SamurAIGPT/AI-Influencer-Generator](./samuraigpt-ai-influencer-generator.md) | ⭐ 344 | Jupyter Notebook | 76/100 |
 | 18 | [sergebulaev/linkedin-skills](./sergebulaev-linkedin-skills.md) | ⭐ 5.8k | Python | 76/100 |
 | 19 | [artokun/comfyui-mcp](./artokun-comfyui-mcp.md) | ⭐ 914 | TypeScript | 76/100 |
@@ -68,7 +68,7 @@
 | 58 | [runapi-ai/mcp](./runapi-ai-mcp.md) | ⭐ 56 | TypeScript | 67/100 |
 | 59 | [yaojingang/GEOFlow](./yaojingang-geoflow.md) | ⭐ 4.1k | PHP | 67/100 |
 | 60 | [limecloud/lime](./limecloud-lime.md) | ⭐ 1.5k | Rust | 67/100 |
-| 61 | [SpeedPainterOrg/explainer-video](./speedpainterorg-explainer-video.md) | ⭐ 57 | JavaScript | 66/100 |
+| 61 | [SpeedPainterOrg/explainer-video](./speedpainterorg-explainer-video.md) | ⭐ 58 | JavaScript | 66/100 |
 | 62 | [ModelTC/LightX2V](./modeltc-lightx2v.md) | ⭐ 3k | Python | 66/100 |
 | 63 | [merterbak/Grok-MCP](./merterbak-grok-mcp.md) | ⭐ 55 | Python | 66/100 |
 | 64 | [hao-ai-lab/FastVideo](./hao-ai-lab-fastvideo.md) | ⭐ 4.8k | Python | 66/100 |
@@ -92,12 +92,12 @@
 | 82 | [TechMitten/Origami-AI](./techmitten-origami-ai.md) | ⭐ 11 | TypeScript | 62/100 |
 | 83 | [BlackMixture/Mix-Studio](./blackmixture-mix-studio.md) | ⭐ 304 | JavaScript | 62/100 |
 | 84 | [FurkanGozukara/Stable-Diffusion](./furkangozukara-stable-diffusion.md) | ⭐ 2.8k | HTML | 62/100 |
-| 85 | [calesthio/generative-media-skills](./calesthio-generative-media-skills.md) | ⭐ 239 | Python | 62/100 |
+| 85 | [calesthio/generative-media-skills](./calesthio-generative-media-skills.md) | ⭐ 241 | Python | 62/100 |
 | 86 | [frankzch/ai-news-skill](./frankzch-ai-news-skill.md) | ⭐ 23 | Python | 61/100 |
 | 87 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
 | 88 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 23 | Python | 61/100 |
 | 89 | [Wan-Video/Wan2.2](./wan-video-wan2.2.md) | ⭐ 18.5k | Python | 60/100 |
-| 90 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 204 | — | 60/100 |
+| 90 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 206 | — | 60/100 |
 | 91 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 158 | Vue | 60/100 |
 | 92 | [WaveSpeedAI/mcp-server](./wavespeedai-mcp-server.md) | ⭐ 36 | TypeScript | 59/100 |
 | 93 | [rolfie-han/YoLuster-shorts](./rolfie-han-yoluster-shorts.md) | ⭐ 296 | HTML | 59/100 |
@@ -171,8 +171,8 @@
 | 161 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 162 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 163 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 164 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 165 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 164 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 165 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
 | 166 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 167 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 

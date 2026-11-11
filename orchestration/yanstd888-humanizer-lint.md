@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 102 |
+| ⭐ **Stars** | 104 |
 | 🍴 **Forks** | 15 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 66/100 |
@@ -53,7 +53,7 @@ yanstd888/humanizer-lint：yanstd888/humanizer-lint helps turn isolated prompts 
 
 **Quality signals**
 
-- 102 GitHub stars
+- 104 GitHub stars
 - 15 forks
 - updated 2026-11-05
 - primary language: JavaScript

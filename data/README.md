@@ -123,7 +123,7 @@
 | 113 | [MultiQC/MultiQC](./multiqc-multiqc.md) | ⭐ 1.5k | JavaScript | 62/100 |
 | 114 | [cqframework/clinical_quality_language](./cqframework-clinical-quality-language.md) | ⭐ 339 | Kotlin | 62/100 |
 | 115 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 144 | Go | 61/100 |
-| 116 | [graphene-data/graphene](./graphene-data-graphene.md) | ⭐ 218 | TypeScript | 61/100 |
+| 116 | [graphene-data/graphene](./graphene-data-graphene.md) | ⭐ 219 | TypeScript | 61/100 |
 | 117 | [gloom-sh/gloomberb](./gloom-sh-gloomberb.md) | ⭐ 2.7k | TypeScript | 61/100 |
 | 118 | [taleshape-com/shaper](./taleshape-com-shaper.md) | ⭐ 1.3k | Go | 61/100 |
 | 119 | [guacsec/guac](./guacsec-guac.md) | ⭐ 1.6k | Go | 61/100 |

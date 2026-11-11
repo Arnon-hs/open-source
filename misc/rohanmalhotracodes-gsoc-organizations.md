@@ -1,6 +1,6 @@
 # rohanmalhotracodes/GSoC-Organizations
 
-[![Stars](https://img.shields.io/github/stars/rohanmalhotracodes/GSoC-Organizations?style=flat-square&color=yellow)](https://github.com/rohanmalhotracodes/GSoC-Organizations/stargazers) [![Forks](https://img.shields.io/github/forks/rohanmalhotracodes/GSoC-Organizations?style=flat-square&color=blue)](https://github.com/rohanmalhotracodes/GSoC-Organizations/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rohanmalhotracodes/GSoC-Organizations?style=flat-square&color=yellow)](https://github.com/rohanmalhotracodes/GSoC-Organizations/stargazers) [![Forks](https://img.shields.io/github/forks/rohanmalhotracodes/GSoC-Organizations?style=flat-square&color=blue)](https://github.com/rohanmalhotracodes/GSoC-Organizations/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > A comprehensive directory of all Google Summer of Code (GSoC) organizations, helping aspiring open-source contributors discover projects, explore participation history, and find opportunities to contribute.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 9 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ rohanmalhotracodes/GSoC-Organizations：rohanmalhotracodes/GSoC-Organizations ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 58/100 |
+| quality | 53/100 |
 | integration | 62/100 |
-| production | 68/100 |
-| outlook | 65/100 |
+| production | 61/100 |
+| outlook | 58/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 0/100 |
 | stars | 21/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

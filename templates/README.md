@@ -76,7 +76,7 @@
 | 66 | [study8677/antigravity-workspace-template](./study8677-antigravity-workspace-template.md) | ⭐ 1.2k | Python | 78/100 |
 | 67 | [get-nathan/nathan](./get-nathan-nathan.md) | ⭐ 28 | TypeScript | 77/100 |
 | 68 | [RyanJHamby/stock-screener](./ryanjhamby-stock-screener.md) | ⭐ 73 | Python | 77/100 |
-| 69 | [TserenTserenov/FMT-exocortex-template](./tserentserenov-fmt-exocortex-template.md) | ⭐ 63 | Shell | 77/100 |
+| 69 | [TserenTserenov/FMT-exocortex-template](./tserentserenov-fmt-exocortex-template.md) | ⭐ 64 | Shell | 77/100 |
 | 70 | [systempromptio/systemprompt-template](./systempromptio-systemprompt-template.md) | ⭐ 29 | Rust | 77/100 |
 | 71 | [mathematic-inc/earl](./mathematic-inc-earl.md) | ⭐ 114 | Rust | 77/100 |
 | 72 | [tabler/tabler](./tabler-tabler.md) | ⭐ 42k | Astro | 77/100 |
@@ -199,7 +199,7 @@
 | 189 | [raulvidis/openclaw-multi-agent-kit](./raulvidis-openclaw-multi-agent-kit.md) | ⭐ 391 | — | 69/100 |
 | 190 | [VigoZhao/AI-Visual-Prompt-Cookbook](./vigozhao-ai-visual-prompt-cookbook.md) | ⭐ 840 | Python | 69/100 |
 | 191 | [clarity-digital-development/tworkflow](./clarity-digital-development-tworkflow.md) | ⭐ 46 | Python | 69/100 |
-| 192 | [dannote/dot-pi](./dannote-dot-pi.md) | ⭐ 57 | TypeScript | 69/100 |
+| 192 | [dannote/dot-pi](./dannote-dot-pi.md) | ⭐ 58 | TypeScript | 69/100 |
 | 193 | [hoangnb24/repository-harness](./hoangnb24-repository-harness.md) | ⭐ 1.3k | Rust | 69/100 |
 | 194 | [golang-templates/seed](./golang-templates-seed.md) | ⭐ 566 | Makefile | 69/100 |
 | 195 | [pilinux/gorest](./pilinux-gorest.md) | ⭐ 508 | Go | 69/100 |
@@ -212,7 +212,7 @@
 | 202 | [n8n-io/self-hosted-ai-starter-kit](./n8n-io-self-hosted-ai-starter-kit.md) | ⭐ 15.3k | — | 68/100 |
 | 203 | [fabwaseem/forgekit](./fabwaseem-forgekit.md) | ⭐ — | TypeScript | 68/100 |
 | 204 | [MinaSaad1/n8n-ai-agents](./minasaad1-n8n-ai-agents.md) | ⭐ 13 | — | 68/100 |
-| 205 | [ZSeven-W/dsh-crew](./zseven-w-dsh-crew.md) | ⭐ 207 | JavaScript | 68/100 |
+| 205 | [ZSeven-W/dsh-crew](./zseven-w-dsh-crew.md) | ⭐ 210 | JavaScript | 68/100 |
 | 206 | [Naresh-Khatri/3d-portfolio](./naresh-khatri-3d-portfolio.md) | ⭐ 1.3k | TypeScript | 68/100 |
 | 207 | [egvijayanand/dotnet-maui-templates](./egvijayanand-dotnet-maui-templates.md) | ⭐ 217 | C# | 68/100 |
 | 208 | [sudara/awesome-juce](./sudara-awesome-juce.md) | ⭐ 1.4k | Ruby | 68/100 |
@@ -296,7 +296,7 @@
 | 286 | [softwaremill/bootzooka](./softwaremill-bootzooka.md) | ⭐ 786 | TypeScript | 64/100 |
 | 287 | [Ethan-YS/project-brain](./ethan-ys-project-brain.md) | ⭐ 173 | Shell | 64/100 |
 | 288 | [stan-dev/math](./stan-dev-math.md) | ⭐ 846 | C++ | 64/100 |
-| 289 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 54 | Shell | 64/100 |
+| 289 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 55 | Shell | 64/100 |
 | 290 | [emretasss/AI-Workflow-Hub-2000-](./emretasss-ai-workflow-hub-2000-.md) | ⭐ 322 | — | 64/100 |
 | 291 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 48 | Go | 63/100 |
 | 292 | [SurgePix/ai-ppt-prompts](./surgepix-ai-ppt-prompts.md) | ⭐ 14 | JavaScript | 63/100 |
@@ -391,7 +391,7 @@
 | 381 | [operantsolo-com/n8n-free-workflow-templates](./operantsolo-com-n8n-free-workflow-templates.md) | ⭐ — | JavaScript | 57/100 |
 | 382 | [joyrswd/AIDDSkeleton](./joyrswd-aiddskeleton.md) | ⭐ — | — | 57/100 |
 | 383 | [workos/next-b2b-starter-kit](./workos-next-b2b-starter-kit.md) | ⭐ 99 | TypeScript | 57/100 |
-| 384 | [FlareStarter/flarestarter](./flarestarter-flarestarter.md) | ⭐ 461 | TypeScript | 57/100 |
+| 384 | [FlareStarter/flarestarter](./flarestarter-flarestarter.md) | ⭐ 462 | TypeScript | 57/100 |
 | 385 | [thymikee/jest-preset-angular](./thymikee-jest-preset-angular.md) | ⭐ 917 | TypeScript | 57/100 |
 | 386 | [antfu/eslint-config](./antfu-eslint-config.md) | ⭐ 6.3k | JavaScript | 57/100 |
 | 387 | [balajeerc/straitjacket](./balajeerc-straitjacket.md) | ⭐ 4 | — | 56/100 |
