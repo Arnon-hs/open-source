@@ -34,7 +34,7 @@
 | 24 | [avivgerz-hue/vibe-shield](./avivgerz-hue-vibe-shield.md) | ⭐ 26 | TypeScript | 68/100 |
 | 25 | [giovantenne/lastsignal](./giovantenne-lastsignal.md) | ⭐ 759 | Ruby | 67/100 |
 | 26 | [AdguardTeam/AdGuardHome](./adguardteam-adguardhome.md) | ⭐ 38.3k | Go | 67/100 |
-| 27 | [OpenMage/magento-lts](./openmage-magento-lts.md) | ⭐ 936 | PHP | 66/100 |
+| 27 | [OpenMage/magento-lts](./openmage-magento-lts.md) | ⭐ 938 | PHP | 66/100 |
 | 28 | [apache/casbin](./apache-casbin.md) | ⭐ 20.5k | Go | 66/100 |
 | 29 | [google/osv-scanner](./google-osv-scanner.md) | ⭐ 11.5k | Go | 66/100 |
 | 30 | [twpayne/chezmoi](./twpayne-chezmoi.md) | ⭐ 22.2k | Go | 66/100 |
@@ -79,8 +79,8 @@
 | 69 | [Syslifters/offsec-tools](./syslifters-offsec-tools.md) | ⭐ 412 | Python | 62/100 |
 | 70 | [jofoerster/habitsync](./jofoerster-habitsync.md) | ⭐ 349 | TypeScript | 62/100 |
 | 71 | [TecharoHQ/anubis](./techarohq-anubis.md) | ⭐ 24.1k | Go | 62/100 |
-| 72 | [cisco-ai-defense/defenseclaw](./cisco-ai-defense-defenseclaw.md) | ⭐ 912 | Python | 62/100 |
-| 73 | [theowni/Damn-Vulnerable-RESTaurant-API-Game](./theowni-damn-vulnerable-restaurant-api-game.md) | ⭐ 945 | Python | 62/100 |
+| 72 | [cisco-ai-defense/defenseclaw](./cisco-ai-defense-defenseclaw.md) | ⭐ 911 | Python | 62/100 |
+| 73 | [theowni/Damn-Vulnerable-RESTaurant-API-Game](./theowni-damn-vulnerable-restaurant-api-game.md) | ⭐ 947 | Python | 62/100 |
 | 74 | [keycloak/keycloak](./keycloak-keycloak.md) | ⭐ 37.8k | Java | 62/100 |
 | 75 | [3052/rosso](./3052-rosso.md) | ⭐ 114 | Go | 62/100 |
 | 76 | [hello-yunshu/Xray_bash_onekey](./hello-yunshu-xray-bash-onekey.md) | ⭐ 670 | Shell | 62/100 |
@@ -245,7 +245,7 @@
 | 235 | [nuxt/hints](./nuxt-hints.md) | ⭐ 347 | TypeScript | 52/100 |
 | 236 | [better-auth-rs/better-auth-rs](./better-auth-rs-better-auth-rs.md) | ⭐ 297 | Rust | 52/100 |
 | 237 | [portier/portier-broker](./portier-portier-broker.md) | ⭐ 580 | Rust | 52/100 |
-| 238 | [SSSD/sssd](./sssd-sssd.md) | ⭐ 803 | C | 52/100 |
+| 238 | [SSSD/sssd](./sssd-sssd.md) | ⭐ 804 | C | 52/100 |
 | 239 | [facebookincubator/fizz](./facebookincubator-fizz.md) | ⭐ 1.2k | C++ | 52/100 |
 | 240 | [CodeSentryAI/lockbud](./codesentryai-lockbud.md) | ⭐ — | Rust | 52/100 |
 | 241 | [LeChatP/RootAsRole](./lechatp-rootasrole.md) | ⭐ 332 | Rust | 52/100 |
@@ -484,8 +484,8 @@
 | 474 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ 43 | — | 38/100 |
 | 475 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ 4 | — | 38/100 |
 | 476 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ 289 | — | 38/100 |
-| 477 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
-| 478 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
+| 477 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
+| 478 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
 | 479 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ 23 | — | 38/100 |
 | 480 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ 11 | — | 38/100 |
 | 481 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ 2 | — | 38/100 |

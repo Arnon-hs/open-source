@@ -92,7 +92,7 @@
 | 82 | [apache/arrow](./apache-arrow.md) | ⭐ 17.3k | C++ | 64/100 |
 | 83 | [SciTools/iris](./scitools-iris.md) | ⭐ 729 | Python | 64/100 |
 | 84 | [EndlessCheng/codeforces-go](./endlesscheng-codeforces-go.md) | ⭐ 8.8k | Go | 64/100 |
-| 85 | [scikit-hep/awkward](./scikit-hep-awkward.md) | ⭐ 989 | Python | 64/100 |
+| 85 | [scikit-hep/awkward](./scikit-hep-awkward.md) | ⭐ 990 | Python | 64/100 |
 | 86 | [mourner/flamebearer](./mourner-flamebearer.md) | ⭐ 1.7k | JavaScript | 64/100 |
 | 87 | [JetBrains/lets-plot](./jetbrains-lets-plot.md) | ⭐ 1.8k | Kotlin | 64/100 |
 | 88 | [bruin-data/bruin](./bruin-data-bruin.md) | ⭐ 1.8k | Go | 64/100 |
@@ -129,7 +129,7 @@
 | 119 | [guacsec/guac](./guacsec-guac.md) | ⭐ 1.6k | Go | 61/100 |
 | 120 | [vega/vega](./vega-vega.md) | ⭐ 12k | JavaScript | 61/100 |
 | 121 | [zio/zio](./zio-zio.md) | ⭐ 4.4k | Scala | 61/100 |
-| 122 | [PrismarineJS/minecraft-data](./prismarinejs-minecraft-data.md) | ⭐ 959 | JavaScript | 61/100 |
+| 122 | [PrismarineJS/minecraft-data](./prismarinejs-minecraft-data.md) | ⭐ 960 | JavaScript | 61/100 |
 | 123 | [freelawproject/courtlistener](./freelawproject-courtlistener.md) | ⭐ 1.1k | Python | 61/100 |
 | 124 | [ibericode/koko-analytics](./ibericode-koko-analytics.md) | ⭐ 406 | PHP | 61/100 |
 | 125 | [openmc-dev/openmc](./openmc-dev-openmc.md) | ⭐ 1.1k | Python | 61/100 |
@@ -170,12 +170,12 @@
 | 160 | [viser-project/viser](./viser-project-viser.md) | ⭐ 2.9k | Python | 59/100 |
 | 161 | [nette/schema](./nette-schema.md) | ⭐ 1k | PHP | 59/100 |
 | 162 | [jaswdr/faker](./jaswdr-faker.md) | ⭐ 645 | Go | 59/100 |
-| 163 | [supabase/wrappers](./supabase-wrappers.md) | ⭐ 899 | Rust | 59/100 |
+| 163 | [supabase/wrappers](./supabase-wrappers.md) | ⭐ 900 | Rust | 59/100 |
 | 164 | [gem/oq-engine](./gem-oq-engine.md) | ⭐ 470 | Python | 59/100 |
 | 165 | [mfem/mfem](./mfem-mfem.md) | ⭐ 2.3k | C++ | 59/100 |
 | 166 | [risesoft-y9/DataFlow-Engine](./risesoft-y9-dataflow-engine.md) | ⭐ 697 | Java | 59/100 |
 | 167 | [alpha-xone/xbbg](./alpha-xone-xbbg.md) | ⭐ 710 | Rust | 59/100 |
-| 168 | [netdisco/netdisco](./netdisco-netdisco.md) | ⭐ 939 | Perl | 59/100 |
+| 168 | [netdisco/netdisco](./netdisco-netdisco.md) | ⭐ 940 | Perl | 59/100 |
 | 169 | [typeorm/typeorm](./typeorm-typeorm.md) | ⭐ 36.7k | TypeScript | 59/100 |
 | 170 | [celestiaorg/celestia-core](./celestiaorg-celestia-core.md) | ⭐ 551 | Go | 58/100 |
 | 171 | [CS-SI/eodag](./cs-si-eodag.md) | ⭐ 441 | Python | 58/100 |
@@ -268,7 +268,7 @@
 | 258 | [pyOpenSci/python-package-guide](./pyopensci-python-package-guide.md) | ⭐ 152 | Python | 54/100 |
 | 259 | [3DStreet/3dstreet](./3dstreet-3dstreet.md) | ⭐ 335 | JavaScript | 54/100 |
 | 260 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 712 | Rust | 54/100 |
-| 261 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 829 | JavaScript | 54/100 |
+| 261 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 830 | JavaScript | 54/100 |
 | 262 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 574 | HTML | 54/100 |
 | 263 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 153 | Rust | 54/100 |
 | 264 | [beava-dev/beava](./beava-dev-beava.md) | ⭐ 139 | Rust | 54/100 |
@@ -319,12 +319,12 @@
 | 309 | [crepererum-oss/pdatastructs.rs](./crepererum-oss-pdatastructs.rs.md) | ⭐ 147 | Rust | 49/100 |
 | 310 | [tonbo-io/typed-arrow](./tonbo-io-typed-arrow.md) | ⭐ 215 | Rust | 49/100 |
 | 311 | [MFlowCode/MFC](./mflowcode-mfc.md) | ⭐ 439 | Fortran | 49/100 |
-| 312 | [tryandromeda/andromeda](./tryandromeda-andromeda.md) | ⭐ 857 | Rust | 49/100 |
+| 312 | [tryandromeda/andromeda](./tryandromeda-andromeda.md) | ⭐ 858 | Rust | 49/100 |
 | 313 | [emanuelef/daily-stars-explorer](./emanuelef-daily-stars-explorer.md) | ⭐ 412 | JavaScript | 49/100 |
 | 314 | [celestiaorg/celestia-node](./celestiaorg-celestia-node.md) | ⭐ 1k | Go | 49/100 |
 | 315 | [quantgirluk/aleatory](./quantgirluk-aleatory.md) | ⭐ 373 | Python | 48/100 |
 | 316 | [WerWolv/ImHex-Patterns](./werwolv-imhex-patterns.md) | ⭐ 1k | Rust | 48/100 |
-| 317 | [rweekly/rweekly.org](./rweekly-rweekly.org.md) | ⭐ 830 | Rez | 48/100 |
+| 317 | [rweekly/rweekly.org](./rweekly-rweekly.org.md) | ⭐ 831 | Rez | 48/100 |
 | 318 | [PRQL/prql](./prql-prql.md) | ⭐ 10.9k | Rust | 48/100 |
 | 319 | [posit-dev/positron](./posit-dev-positron.md) | ⭐ 4.3k | TypeScript | 48/100 |
 | 320 | [facebookincubator/velox](./facebookincubator-velox.md) | ⭐ 4.3k | C++ | 48/100 |

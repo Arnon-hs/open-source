@@ -103,7 +103,7 @@
 | 93 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 16.5k | C | 62/100 |
 | 94 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 531 | TypeScript | 62/100 |
 | 95 | [daboss2003/mooring](./daboss2003-mooring.md) | ⭐ 1 | Go | 61/100 |
-| 96 | [apache/skywalking-java](./apache-skywalking-java.md) | ⭐ 927 | Java | 61/100 |
+| 96 | [apache/skywalking-java](./apache-skywalking-java.md) | ⭐ 928 | Java | 61/100 |
 | 97 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 479 | Go | 61/100 |
 | 98 | [grigio/network-monitor](./grigio-network-monitor.md) | ⭐ 324 | Rust | 61/100 |
 | 99 | [DataDog/orchestrion](./datadog-orchestrion.md) | ⭐ 625 | Go | 61/100 |
@@ -116,7 +116,7 @@
 | 106 | [ossf/scorecard](./ossf-scorecard.md) | ⭐ 5.8k | Go | 60/100 |
 | 107 | [elastic/apm-agent-dotnet](./elastic-apm-agent-dotnet.md) | ⭐ 593 | C# | 60/100 |
 | 108 | [OpsiMate/OpsiMate](./opsimate-opsimate.md) | ⭐ 290 | TypeScript | 60/100 |
-| 109 | [threathunters-io/laurel](./threathunters-io-laurel.md) | ⭐ 876 | Rust | 60/100 |
+| 109 | [threathunters-io/laurel](./threathunters-io-laurel.md) | ⭐ 878 | Rust | 60/100 |
 | 110 | [namhyung/uftrace](./namhyung-uftrace.md) | ⭐ 3.5k | C | 60/100 |
 | 111 | [shm11C3/HardwareVisualizer](./shm11c3-hardwarevisualizer.md) | ⭐ 187 | Rust | 60/100 |
 | 112 | [prymitive/karma](./prymitive-karma.md) | ⭐ 2.7k | TypeScript | 60/100 |
@@ -160,7 +160,7 @@
 | 150 | [TIANLI0/THRM](./tianli0-thrm.md) | ⭐ 457 | Go | 56/100 |
 | 151 | [prometheus/test-infra](./prometheus-test-infra.md) | ⭐ 166 | Go | 56/100 |
 | 152 | [Daminoup88/WattSeal](./daminoup88-wattseal.md) | ⭐ 289 | Rust | 56/100 |
-| 153 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 942 | TypeScript | 56/100 |
+| 153 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 944 | TypeScript | 56/100 |
 | 154 | [oshi/oshi](./oshi-oshi.md) | ⭐ 5.3k | Java | 56/100 |
 | 155 | [sarub0b0/kubetui](./sarub0b0-kubetui.md) | ⭐ 402 | Rust | 56/100 |
 | 156 | [LibreHardwareMonitor/LibreHardwareMonitor](./librehardwaremonitor-librehardwaremonitor.md) | ⭐ 9.4k | C# | 56/100 |
@@ -174,7 +174,7 @@
 | 164 | [abrignoni/iLEAPP](./abrignoni-ileapp.md) | ⭐ 1.4k | Python | 55/100 |
 | 165 | [open-telemetry/opentelemetry-collector-releases](./open-telemetry-opentelemetry-collector-releases.md) | ⭐ 524 | Go | 55/100 |
 | 166 | [ymtdzzz/otel-tui](./ymtdzzz-otel-tui.md) | ⭐ 1.1k | Go | 55/100 |
-| 167 | [carverauto/serviceradar](./carverauto-serviceradar.md) | ⭐ 932 | JavaScript | 55/100 |
+| 167 | [carverauto/serviceradar](./carverauto-serviceradar.md) | ⭐ 933 | JavaScript | 55/100 |
 | 168 | [openbkn-ai/bkn-foundry](./openbkn-ai-bkn-foundry.md) | ⭐ 1.2k | Go | 54/100 |
 | 169 | [overcheck/overcheck](./overcheck-overcheck.md) | ⭐ 1 | — | 54/100 |
 | 170 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 586 | Python | 54/100 |
@@ -193,7 +193,7 @@
 | 183 | [casareanderson/warden](./casareanderson-warden.md) | ⭐ 1 | Python | 52/100 |
 | 184 | [hyzyla/kibana-agent](./hyzyla-kibana-agent.md) | ⭐ 8 | — | 52/100 |
 | 185 | [GSI-HPC/lustre_exporter](./gsi-hpc-lustre-exporter.md) | ⭐ 30 | Go | 52/100 |
-| 186 | [open-telemetry/opentelemetry-proto](./open-telemetry-opentelemetry-proto.md) | ⭐ 829 | Makefile | 52/100 |
+| 186 | [open-telemetry/opentelemetry-proto](./open-telemetry-opentelemetry-proto.md) | ⭐ 830 | Makefile | 52/100 |
 | 187 | [rgwood/systemctl-tui](./rgwood-systemctl-tui.md) | ⭐ 2.1k | Rust | 52/100 |
 | 188 | [grafana/logs-drilldown](./grafana-logs-drilldown.md) | ⭐ 422 | TypeScript | 52/100 |
 | 189 | [Makisuo/maple](./makisuo-maple.md) | ⭐ 322 | TypeScript | 52/100 |

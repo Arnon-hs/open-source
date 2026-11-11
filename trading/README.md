@@ -52,7 +52,7 @@
 | 42 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 45 | Swift | 69/100 |
 | 43 | [livetennisapi/polymarket-tennis](./livetennisapi-polymarket-tennis.md) | ⭐ 257 | Python | 68/100 |
 | 44 | [OctagonAI/kalshi-trading-bot-cli](./octagonai-kalshi-trading-bot-cli.md) | ⭐ 415 | TypeScript | 68/100 |
-| 45 | [tylerebowers/Schwabdev](./tylerebowers-schwabdev.md) | ⭐ 895 | Python | 68/100 |
+| 45 | [tylerebowers/Schwabdev](./tylerebowers-schwabdev.md) | ⭐ 896 | Python | 68/100 |
 | 46 | [SimplifyJobs/Summer2027-Internships](./simplifyjobs-summer2027-internships.md) | ⭐ 48.4k | Python | 68/100 |
 | 47 | [tcgdex/cards-database](./tcgdex-cards-database.md) | ⭐ 1.2k | TypeScript | 68/100 |
 | 48 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 1.6k | Shell | 68/100 |
@@ -79,15 +79,15 @@
 | 69 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 1k | — | 65/100 |
 | 70 | [arhancanli/canlicapital](./arhancanli-canlicapital.md) | ⭐ 6 | HTML | 64/100 |
 | 71 | [HKUDS/AI-Trader](./hkuds-ai-trader.md) | ⭐ 23.2k | Python | 64/100 |
-| 72 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.7k | — | 64/100 |
-| 73 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 97 | Python | 64/100 |
+| 72 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 97 | Python | 64/100 |
+| 73 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.7k | — | 64/100 |
 | 74 | [HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](./harrieronchain-prediction-markets-trading-bot-toolkits.md) | ⭐ 354 | Rust | 64/100 |
 | 75 | [Travisun/Opptrix](./travisun-opptrix.md) | ⭐ 32 | TypeScript | 64/100 |
 | 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 231 | Rust | 64/100 |
 | 77 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 78 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
-| 80 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
+| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
+| 80 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 664 | Jupyter Notebook | 63/100 |
 | 81 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 82 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 83 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [Katakate/k7](./katakate-k7.md) | ⭐ 825 | Python | 85/100 |
+| 1 | [Katakate/k7](./katakate-k7.md) | ⭐ 826 | Python | 85/100 |
 | 2 | [googleapis/google-api-python-client](./googleapis-google-api-python-client.md) | ⭐ 9k | Python | 79/100 |
 | 3 | [open-telemetry/opentelemetry-python](./open-telemetry-opentelemetry-python.md) | ⭐ 2.7k | Python | 78/100 |
 | 4 | [open-telemetry/opentelemetry-go](./open-telemetry-opentelemetry-go.md) | ⭐ 6.6k | Go | 77/100 |
@@ -21,7 +21,7 @@
 | 11 | [googleapis/google-api-dotnet-client](./googleapis-google-api-dotnet-client.md) | ⭐ 1.5k | C# | 72/100 |
 | 12 | [Unleash/unleash](./unleash-unleash.md) | ⭐ 14.3k | TypeScript | 72/100 |
 | 13 | [lizhiyao/sentry-miniapp](./lizhiyao-sentry-miniapp.md) | ⭐ 712 | TypeScript | 71/100 |
-| 14 | [mixpanel/mixpanel-js](./mixpanel-mixpanel-js.md) | ⭐ 942 | JavaScript | 71/100 |
+| 14 | [mixpanel/mixpanel-js](./mixpanel-mixpanel-js.md) | ⭐ 943 | JavaScript | 71/100 |
 | 15 | [elgatosf/streamdeck](./elgatosf-streamdeck.md) | ⭐ 275 | TypeScript | 71/100 |
 | 16 | [matrix-org/matrix-rust-sdk](./matrix-org-matrix-rust-sdk.md) | ⭐ 2.4k | Rust | 71/100 |
 | 17 | [linear/linear](./linear-linear.md) | ⭐ 1.7k | TypeScript | 71/100 |
@@ -33,7 +33,7 @@
 | 23 | [remotestorage/remotestorage.js](./remotestorage-remotestorage.js.md) | ⭐ 2.4k | JavaScript | 70/100 |
 | 24 | [TencentCloud/tencentcloud-sdk-python](./tencentcloud-tencentcloud-sdk-python.md) | ⭐ 718 | Python | 70/100 |
 | 25 | [googleads/googleads-mobile-unity](./googleads-googleads-mobile-unity.md) | ⭐ 1.6k | C# | 70/100 |
-| 26 | [operator-framework/java-operator-sdk](./operator-framework-java-operator-sdk.md) | ⭐ 945 | Java | 70/100 |
+| 26 | [operator-framework/java-operator-sdk](./operator-framework-java-operator-sdk.md) | ⭐ 946 | Java | 70/100 |
 | 27 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 750 | Go | 70/100 |
 | 28 | [octokit/octokit.js](./octokit-octokit.js.md) | ⭐ 7.9k | TypeScript | 69/100 |
 | 29 | [meilisearch/meilisearch-php](./meilisearch-meilisearch-php.md) | ⭐ 763 | PHP | 69/100 |
@@ -85,7 +85,7 @@
 | 75 | [auth0/go-jwt-middleware](./auth0-go-jwt-middleware.md) | ⭐ 1.2k | Go | 64/100 |
 | 76 | [dotnet/dotnet-operator-sdk](./dotnet-dotnet-operator-sdk.md) | ⭐ 376 | C# | 64/100 |
 | 77 | [celestiaorg/celestia-app](./celestiaorg-celestia-app.md) | ⭐ 422 | Go | 64/100 |
-| 78 | [xybp888/iOS-SDKs](./xybp888-ios-sdks.md) | ⭐ 924 | Objective-C | 64/100 |
+| 78 | [xybp888/iOS-SDKs](./xybp888-ios-sdks.md) | ⭐ 925 | Objective-C | 64/100 |
 | 79 | [DataDog/dd-trace-rb](./datadog-dd-trace-rb.md) | ⭐ 418 | Ruby | 64/100 |
 | 80 | [TanStack/ai](./tanstack-ai.md) | ⭐ 3.3k | TypeScript | 64/100 |
 | 81 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 8k | Python | 64/100 |
@@ -103,7 +103,7 @@
 | 93 | [equalsraf/neovim-qt](./equalsraf-neovim-qt.md) | ⭐ 2k | C++ | 62/100 |
 | 94 | [DataDog/dd-trace-dotnet](./datadog-dd-trace-dotnet.md) | ⭐ 573 | C# | 62/100 |
 | 95 | [qntx/ra2a](./qntx-ra2a.md) | ⭐ 167 | Rust | 62/100 |
-| 96 | [solariumphp/solarium](./solariumphp-solarium.md) | ⭐ 932 | PHP | 62/100 |
+| 96 | [solariumphp/solarium](./solariumphp-solarium.md) | ⭐ 933 | PHP | 62/100 |
 | 97 | [temporalio/samples-typescript](./temporalio-samples-typescript.md) | ⭐ 471 | TypeScript | 62/100 |
 | 98 | [auth0/lock](./auth0-lock.md) | ⭐ 1.1k | JavaScript | 62/100 |
 | 99 | [rust-lang/libc](./rust-lang-libc.md) | ⭐ 2.6k | Rust | 62/100 |
@@ -138,7 +138,7 @@
 | 128 | [lazy-hq/aisdk](./lazy-hq-aisdk.md) | ⭐ 264 | Rust | 60/100 |
 | 129 | [mapbox/mapbox-navigation-android](./mapbox-mapbox-navigation-android.md) | ⭐ 653 | Kotlin | 60/100 |
 | 130 | [espressif/esp-matter](./espressif-esp-matter.md) | ⭐ 1.1k | C++ | 60/100 |
-| 131 | [duckdb/duckdb-rs](./duckdb-duckdb-rs.md) | ⭐ 986 | Rust | 60/100 |
+| 131 | [duckdb/duckdb-rs](./duckdb-duckdb-rs.md) | ⭐ 988 | Rust | 60/100 |
 | 132 | [CrankBoyHQ/crankboy-app](./crankboyhq-crankboy-app.md) | ⭐ 413 | C | 60/100 |
 | 133 | [bitwarden/sdk-sm](./bitwarden-sdk-sm.md) | ⭐ 502 | Rust | 60/100 |
 | 134 | [langfuse/langfuse-python](./langfuse-langfuse-python.md) | ⭐ 509 | Python | 60/100 |
@@ -149,7 +149,7 @@
 | 139 | [gtk-rs/gtk-rs-core](./gtk-rs-gtk-rs-core.md) | ⭐ 381 | Rust | 59/100 |
 | 140 | [pygobject/pycairo](./pygobject-pycairo.md) | ⭐ 701 | C | 59/100 |
 | 141 | [ceph/go-ceph](./ceph-go-ceph.md) | ⭐ 695 | Go | 59/100 |
-| 142 | [mpi4py/mpi4py](./mpi4py-mpi4py.md) | ⭐ 933 | Python | 59/100 |
+| 142 | [mpi4py/mpi4py](./mpi4py-mpi4py.md) | ⭐ 934 | Python | 59/100 |
 | 143 | [databento/databento-rs](./databento-databento-rs.md) | ⭐ 108 | Rust | 59/100 |
 | 144 | [moetayuko/openwrt-passwall-build](./moetayuko-openwrt-passwall-build.md) | ⭐ 537 | — | 59/100 |
 | 145 | [mlua-rs/mlua](./mlua-rs-mlua.md) | ⭐ 2.9k | Rust | 59/100 |
@@ -187,7 +187,7 @@
 | 177 | [Enos2/my-sdk-work](./enos2-my-sdk-work.md) | ⭐ 1 | TypeScript | 56/100 |
 | 178 | [Convertio/convertio-php](./convertio-convertio-php.md) | ⭐ 275 | PHP | 55/100 |
 | 179 | [xbill9/devto-sanity](./xbill9-devto-sanity.md) | ⭐ — | HTML | 55/100 |
-| 180 | [frida/frida-python](./frida-frida-python.md) | ⭐ 877 | Python | 55/100 |
+| 180 | [frida/frida-python](./frida-frida-python.md) | ⭐ 878 | Python | 55/100 |
 | 181 | [gtk-rs/gtk3-rs](./gtk-rs-gtk3-rs.md) | ⭐ 508 | Rust | 55/100 |
 | 182 | [prove-rs/z3.rs](./prove-rs-z3.rs.md) | ⭐ 541 | Rust | 55/100 |
 | 183 | [y3owk1n/neru](./y3owk1n-neru.md) | ⭐ 917 | Go | 55/100 |
@@ -199,7 +199,7 @@
 | 189 | [kubernetes-client/csharp](./kubernetes-client-csharp.md) | ⭐ 1.2k | C# | 54/100 |
 | 190 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 473 | Swift | 54/100 |
 | 191 | [PyO3/maturin](./pyo3-maturin.md) | ⭐ 5.9k | Rust | 54/100 |
-| 192 | [matsadler/magnus](./matsadler-magnus.md) | ⭐ 918 | Rust | 53/100 |
+| 192 | [matsadler/magnus](./matsadler-magnus.md) | ⭐ 919 | Rust | 53/100 |
 | 193 | [quickwit-oss/tantivy-py](./quickwit-oss-tantivy-py.md) | ⭐ 433 | Rust | 53/100 |
 | 194 | [dotnet/ClangSharp](./dotnet-clangsharp.md) | ⭐ 1.3k | C# | 53/100 |
 | 195 | [georust/gdal](./georust-gdal.md) | ⭐ 458 | Rust | 53/100 |
@@ -213,7 +213,7 @@
 | 203 | [meta-models/muse-code-sdk](./meta-models-muse-code-sdk.md) | ⭐ 86 | TypeScript | 52/100 |
 | 204 | [stepfunc/rodbus](./stepfunc-rodbus.md) | ⭐ 111 | Rust | 52/100 |
 | 205 | [apache/datasketches-rust](./apache-datasketches-rust.md) | ⭐ 142 | Rust | 52/100 |
-| 206 | [tensorflow/java](./tensorflow-java.md) | ⭐ 925 | Java | 52/100 |
+| 206 | [tensorflow/java](./tensorflow-java.md) | ⭐ 926 | Java | 52/100 |
 | 207 | [apple/pkl-go](./apple-pkl-go.md) | ⭐ 336 | Go | 52/100 |
 | 208 | [pola-rs/r-polars](./pola-rs-r-polars.md) | ⭐ 577 | R | 52/100 |
 | 209 | [mlir-rs/melior](./mlir-rs-melior.md) | ⭐ 559 | Rust | 52/100 |

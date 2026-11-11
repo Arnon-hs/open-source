@@ -53,7 +53,7 @@
 | 43 | [unhappychoice/gittype](./unhappychoice-gittype.md) | ⭐ 1.7k | Rust | 68/100 |
 | 44 | [Heroic-Games-Launcher/HeroicGamesLauncher](./heroic-games-launcher-heroicgameslauncher.md) | ⭐ 12.6k | TypeScript | 68/100 |
 | 45 | [3ni8ma/astro-tasks](./3ni8ma-astro-tasks.md) | ⭐ 2 | Python | 67/100 |
-| 46 | [golang-design/clipboard](./golang-design-clipboard.md) | ⭐ 865 | Go | 67/100 |
+| 46 | [golang-design/clipboard](./golang-design-clipboard.md) | ⭐ 866 | Go | 67/100 |
 | 47 | [relaticle/flowforge](./relaticle-flowforge.md) | ⭐ 421 | PHP | 67/100 |
 | 48 | [0-don/clippy](./0-don-clippy.md) | ⭐ 236 | Rust | 67/100 |
 | 49 | [iffse/pay-respects](./iffse-pay-respects.md) | ⭐ 735 | Rust | 67/100 |
@@ -98,7 +98,7 @@
 | 88 | [ljtn/epiq](./ljtn-epiq.md) | ⭐ 583 | TypeScript | 63/100 |
 | 89 | [brevity1swos/rgx](./brevity1swos-rgx.md) | ⭐ 244 | Rust | 63/100 |
 | 90 | [Shopify/tophat](./shopify-tophat.md) | ⭐ 1.1k | Swift | 62/100 |
-| 91 | [Keruspe/GPaste](./keruspe-gpaste.md) | ⭐ 963 | C | 62/100 |
+| 91 | [Keruspe/GPaste](./keruspe-gpaste.md) | ⭐ 964 | C | 62/100 |
 | 92 | [PrismLauncher/PrismLauncher](./prismlauncher-prismlauncher.md) | ⭐ 11.1k | C++ | 62/100 |
 | 93 | [amir1376/ab-download-manager](./amir1376-ab-download-manager.md) | ⭐ 19.2k | Kotlin | 62/100 |
 | 94 | [mrusme/zeit](./mrusme-zeit.md) | ⭐ 594 | Go | 62/100 |
@@ -124,7 +124,7 @@
 | 114 | [cosmic-utils/clipboard-manager](./cosmic-utils-clipboard-manager.md) | ⭐ 243 | Rust | 60/100 |
 | 115 | [noahbclarkson/rgitui](./noahbclarkson-rgitui.md) | ⭐ 276 | Rust | 60/100 |
 | 116 | [elvisun/newsjack](./elvisun-newsjack.md) | ⭐ 1.7k | Go | 60/100 |
-| 117 | [mudkipme/MoeMemos](./mudkipme-moememos.md) | ⭐ 918 | Swift | 60/100 |
+| 117 | [mudkipme/MoeMemos](./mudkipme-moememos.md) | ⭐ 921 | Swift | 60/100 |
 | 118 | [sathish316/opus_agents](./sathish316-opus-agents.md) | ⭐ 34 | Python | 60/100 |
 | 119 | [swiftbar/SwiftBar](./swiftbar-swiftbar.md) | ⭐ 4.8k | Swift | 60/100 |
 | 120 | [Gimanh/taskview-community](./gimanh-taskview-community.md) | ⭐ 1.4k | TypeScript | 60/100 |
@@ -143,12 +143,12 @@
 | 133 | [Ruben2776/PicView](./ruben2776-picview.md) | ⭐ 3.8k | C# | 59/100 |
 | 134 | [Y-ASLant/ElegantClipboard](./y-aslant-elegantclipboard.md) | ⭐ 485 | Rust | 59/100 |
 | 135 | [zhensherlock/intellij-platform-git-stats-plugin](./zhensherlock-intellij-platform-git-stats-plugin.md) | ⭐ 210 | Kotlin | 59/100 |
-| 136 | [kra-mo/cartridges](./kra-mo-cartridges.md) | ⭐ 823 | Python | 59/100 |
+| 136 | [kra-mo/cartridges](./kra-mo-cartridges.md) | ⭐ 824 | Python | 59/100 |
 | 137 | [timholy/Revise.jl](./timholy-revise.jl.md) | ⭐ 1.4k | Julia | 59/100 |
 | 138 | [poetaman/arttime](./poetaman-arttime.md) | ⭐ 1.4k | Shell | 59/100 |
 | 139 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 135.5k | TypeScript | 59/100 |
 | 140 | [carapace-sh/carapace-bin](./carapace-sh-carapace-bin.md) | ⭐ 2k | Go | 59/100 |
-| 141 | [scalacenter/bloop](./scalacenter-bloop.md) | ⭐ 945 | Scala | 59/100 |
+| 141 | [scalacenter/bloop](./scalacenter-bloop.md) | ⭐ 946 | Scala | 59/100 |
 | 142 | [bug-ops/helix-trainer](./bug-ops-helix-trainer.md) | ⭐ 92 | Rust | 58/100 |
 | 143 | [HMCL-dev/HMCL](./hmcl-dev-hmcl.md) | ⭐ 11k | Java | 58/100 |
 | 144 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 800 | TypeScript | 58/100 |
@@ -320,7 +320,7 @@
 | 310 | [yasinozmeen/smartpause](./yasinozmeen-smartpause.md) | ⭐ 8 | HTML | 42/100 |
 | 311 | [dullage/flatnotes](./dullage-flatnotes.md) | ⭐ 3.3k | — | 42/100 |
 | 312 | [y-times-y/y](./y-times-y-y.md) | ⭐ 93 | — | 42/100 |
-| 313 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 951 | Rust | 42/100 |
+| 313 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 953 | Rust | 42/100 |
 | 314 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
 | 315 | [TinkeringDao/satori](./tinkeringdao-satori.md) | ⭐ — | — | 41/100 |
 | 316 | [code-Baruch/noleon-releases](./code-baruch-noleon-releases.md) | ⭐ — | — | 41/100 |
@@ -347,8 +347,8 @@
 | 337 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 338 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 339 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 340 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
-| 341 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 340 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 341 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
 | 342 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 343 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.7k | — | 38/100 |
 | 344 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

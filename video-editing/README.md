@@ -50,7 +50,7 @@
 | 40 | [metiutek/tube-assistant](./metiutek-tube-assistant.md) | ⭐ 39 | Python | 77/100 |
 | 41 | [Monet-AI-Editor/Monet](./monet-ai-editor-monet.md) | ⭐ 119 | TypeScript | 77/100 |
 | 42 | [heristop/leclap](./heristop-leclap.md) | ⭐ 35 | TypeScript | 77/100 |
-| 43 | [JMS1717/8mb.local](./jms1717-8mb.local.md) | ⭐ 936 | Python | 77/100 |
+| 43 | [JMS1717/8mb.local](./jms1717-8mb.local.md) | ⭐ 937 | Python | 77/100 |
 | 44 | [madiele/vod2pod-rss](./madiele-vod2pod-rss.md) | ⭐ 392 | Rust | 77/100 |
 | 45 | [Cerlancism/chatgpt-subtitle-translator](./cerlancism-chatgpt-subtitle-translator.md) | ⭐ 391 | JavaScript | 77/100 |
 | 46 | [ArchiveBox/abx-dl](./archivebox-abx-dl.md) | ⭐ 151 | Python | 77/100 |
@@ -231,7 +231,7 @@
 | 221 | [Mentra-Community/MentraOS](./mentra-community-mentraos.md) | ⭐ 2.4k | TypeScript | 66/100 |
 | 222 | [BasedHardware/omi](./basedhardware-omi.md) | ⭐ 13.9k | Dart | 66/100 |
 | 223 | [debpalash/OmniVoice-Studio](./debpalash-omnivoice-studio.md) | ⭐ 507 | Python | 66/100 |
-| 224 | [hauxir/rapidbay](./hauxir-rapidbay.md) | ⭐ 907 | Python | 66/100 |
+| 224 | [hauxir/rapidbay](./hauxir-rapidbay.md) | ⭐ 908 | Python | 66/100 |
 | 225 | [dthomas9819/Final-Cut-Pro-Studio](./dthomas9819-final-cut-pro-studio.md) | ⭐ 36 | — | 65/100 |
 | 226 | [sirioberati/YouTube-AI-Video-Editing-System](./sirioberati-youtube-ai-video-editing-system.md) | ⭐ 133 | HTML | 65/100 |
 | 227 | [gustavomenani/editing-gameplay-montages](./gustavomenani-editing-gameplay-montages.md) | ⭐ 77 | Python | 65/100 |
@@ -398,7 +398,7 @@
 | 388 | [WishCasterScrew/CapCut-Pro](./wishcasterscrew-capcut-pro.md) | ⭐ 74 | Python | 59/100 |
 | 389 | [CTCycle/XREPORT-radiological-reports-generator](./ctcycle-xreport-radiological-reports-generator.md) | ⭐ 6 | Python | 59/100 |
 | 390 | [AmitDigga/fabric-video-editor](./amitdigga-fabric-video-editor.md) | ⭐ 574 | TypeScript | 59/100 |
-| 391 | [OpenDCAI/OpenWorldLib](./opendcai-openworldlib.md) | ⭐ 889 | Python | 59/100 |
+| 391 | [OpenDCAI/OpenWorldLib](./opendcai-openworldlib.md) | ⭐ 890 | Python | 59/100 |
 | 392 | [Zane-0x5a/remotion-director](./zane-0x5a-remotion-director.md) | ⭐ 50 | TypeScript | 59/100 |
 | 393 | [Laxcorp-Research/project-raven](./laxcorp-research-project-raven.md) | ⭐ 433 | TypeScript | 59/100 |
 | 394 | [66HEX/frame](./66hex-frame.md) | ⭐ 2.3k | Rust | 59/100 |
@@ -556,8 +556,8 @@
 | 546 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 11 | — | 48/100 |
 | 547 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 548 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 2 | Python | 48/100 |
-| 549 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
-| 550 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
+| 549 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
+| 550 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
 | 551 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 552 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 32 | — | 48/100 |
 | 553 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ 21 | — | 48/100 |
