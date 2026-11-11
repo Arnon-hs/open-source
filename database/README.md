@@ -443,7 +443,7 @@
 | 433 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 341 | R | 42/100 |
 | 434 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 252 | Rust | 42/100 |
 | 435 | [joao00001/pg-regression-radar](./joao00001-pg-regression-radar.md) | ⭐ — | — | 41/100 |
-| 436 | [Pragadeesh-19/nodusdb](./pragadeesh-19-nodusdb.md) | ⭐ — | — | 41/100 |
+| 436 | [Pragadeesh-19/nodusdb](./pragadeesh-19-nodusdb.md) | ⭐ 1 | — | 41/100 |
 | 437 | [mishabunte/pgxio](./mishabunte-pgxio.md) | ⭐ 4 | — | 41/100 |
 | 438 | [ayeshrodz/slonbase](./ayeshrodz-slonbase.md) | ⭐ 5 | — | 41/100 |
 | 439 | [vighnesh-bheed/eski](./vighnesh-bheed-eski.md) | ⭐ 2 | — | 41/100 |
@@ -542,7 +542,7 @@
 | 532 | [Alurith/sqlitewatch](./alurith-sqlitewatch.md) | ⭐ 3 | — | 38/100 |
 | 533 | [berabuddies/redis-poc](./berabuddies-redis-poc.md) | ⭐ 522 | — | 38/100 |
 | 534 | [osmanahmadxai/SYNCLE](./osmanahmadxai-syncle.md) | ⭐ 53 | — | 38/100 |
-| 535 | [SynnoDB/SynnoDB](./synnodb-synnodb.md) | ⭐ 28 | — | 38/100 |
+| 535 | [SynnoDB/SynnoDB](./synnodb-synnodb.md) | ⭐ 30 | — | 38/100 |
 | 536 | [cursor/minisqlite](./cursor-minisqlite.md) | ⭐ 292 | — | 38/100 |
 | 537 | [Rionlyu/spoold](./rionlyu-spoold.md) | ⭐ 2 | — | 38/100 |
 | 538 | [rozhnev/university-db](./rozhnev-university-db.md) | ⭐ 6 | — | 38/100 |
@@ -568,8 +568,8 @@
 | 558 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 559 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 560 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 561 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
-| 562 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
+| 561 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
+| 562 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
 | 563 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 564 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 565 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |

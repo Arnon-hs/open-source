@@ -246,7 +246,7 @@
 | 236 | [jonhoo/rust-ibverbs](./jonhoo-rust-ibverbs.md) | ⭐ 235 | Rust | 49/100 |
 | 237 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 217 | JavaScript | 49/100 |
 | 238 | [apple-auth/apple-auth](./apple-auth-apple-auth.md) | ⭐ 2 | — | 48/100 |
-| 239 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ 99 | — | 48/100 |
+| 239 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ 106 | — | 48/100 |
 | 240 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |
 | 241 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ 9 | — | 48/100 |
 | 242 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ 2.7k | — | 48/100 |

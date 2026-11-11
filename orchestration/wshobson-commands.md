@@ -64,18 +64,18 @@ wshobson/commands：wshobson/commands helps turn isolated prompts and tools into
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 77/100 |
-| integration | 62/100 |
-| production | 70/100 |
-| outlook | 82/100 |
-| adoption | 70/100 |
-| categoryMatchCount | 500/100 |
-| stars | 73/100 |
 | forks | 62/100 |
-| recency | 80/100 |
+| stars | 73/100 |
 | topics | 100/100 |
+| outlook | 82/100 |
+| quality | 77/100 |
+| recency | 80/100 |
+| adoption | 70/100 |
+| production | 70/100 |
+| usefulness | 100/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Product-focused apps
 
-**14 projects** in this category.
+**15 projects** in this category.
 
 ## Projects
 
@@ -16,12 +16,13 @@
 | 6 | [orbivort/scrumooth](./orbivort-scrumooth.md) | ⭐ 1 | TypeScript | 53/100 |
 | 7 | [agenttools/headroom](./agenttools-headroom.md) | ⭐ — | — | 45/100 |
 | 8 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
-| 9 | [SreeNaresh1/episteme-ai](./sreenaresh1-episteme-ai.md) | ⭐ — | — | 41/100 |
-| 10 | [sridharchaildn/notebook-ai](./sridharchaildn-notebook-ai.md) | ⭐ — | — | 41/100 |
-| 11 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ — | — | 41/100 |
-| 12 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ 1 | — | 41/100 |
-| 13 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ — | — | 41/100 |
-| 14 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ 1 | — | 41/100 |
+| 9 | [FrigadeHQ/yogurt](./frigadehq-yogurt.md) | ⭐ — | — | 41/100 |
+| 10 | [SreeNaresh1/episteme-ai](./sreenaresh1-episteme-ai.md) | ⭐ — | — | 41/100 |
+| 11 | [sridharchaildn/notebook-ai](./sridharchaildn-notebook-ai.md) | ⭐ — | — | 41/100 |
+| 12 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ — | — | 41/100 |
+| 13 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ 1 | — | 41/100 |
+| 14 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ — | — | 41/100 |
+| 15 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ 1 | — | 41/100 |
 
 ---
 

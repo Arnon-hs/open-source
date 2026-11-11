@@ -500,7 +500,7 @@
 | 490 | [launchapp-studio/launchpaywall-ios](./launchapp-studio-launchpaywall-ios.md) | ⭐ 2 | — | 41/100 |
 | 491 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ 1 | — | 41/100 |
 | 492 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ 484 | — | 41/100 |
-| 493 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ 180 | — | 41/100 |
+| 493 | [saaspegasus/django-boilerplate](./saaspegasus-django-boilerplate.md) | ⭐ 181 | — | 41/100 |
 | 494 | [bryan-basg/samd-starter-kit](./bryan-basg-samd-starter-kit.md) | ⭐ 5 | — | 41/100 |
 | 495 | [sayahweb2-png/saas-starter-lite](./sayahweb2-png-saas-starter-lite.md) | ⭐ 3 | — | 41/100 |
 | 496 | [RandalSchwartz/BlocSignal](./randalschwartz-blocsignal.md) | ⭐ 58 | — | 39/100 |
