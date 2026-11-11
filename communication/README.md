@@ -267,7 +267,7 @@
 | 257 | [cyrusimap/cyrus-imapd](./cyrusimap-cyrus-imapd.md) | ⭐ 653 | C | 51/100 |
 | 258 | [copilotKit/channels-sdk](./copilotkit-channels-sdk.md) | ⭐ 952 | — | 51/100 |
 | 259 | [roehling/postsrsd](./roehling-postsrsd.md) | ⭐ 366 | C | 51/100 |
-| 260 | [SlimeBoyOwO/LingChat](./slimeboyowo-lingchat.md) | ⭐ 2.4k | Rust | 51/100 |
+| 260 | [SlimeBoyOwO/LingChat](./slimeboyowo-lingchat.md) | ⭐ 2.5k | Rust | 51/100 |
 | 261 | [themadorg/madmail](./themadorg-madmail.md) | ⭐ 209 | Rust | 51/100 |
 | 262 | [versatica/mediasoup](./versatica-mediasoup.md) | ⭐ 7.4k | C++ | 51/100 |
 | 263 | [maillab/cloud-mail](./maillab-cloud-mail.md) | ⭐ 15.6k | JavaScript | 51/100 |
@@ -361,8 +361,8 @@
 | 351 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 352 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 353 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 354 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 354 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 356 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 357 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 358 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

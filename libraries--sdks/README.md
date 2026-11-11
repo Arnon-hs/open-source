@@ -15,7 +15,7 @@
 | 5 | [vmware/govmomi](./vmware-govmomi.md) | ⭐ 2.6k | Go | 75/100 |
 | 6 | [auth0/auth0.net](./auth0-auth0.net.md) | ⭐ 364 | C# | 75/100 |
 | 7 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.7k | Python | 75/100 |
-| 8 | [dropbox/dropbox-sdk-python](./dropbox-dropbox-sdk-python.md) | ⭐ 985 | Python | 74/100 |
+| 8 | [dropbox/dropbox-sdk-python](./dropbox-dropbox-sdk-python.md) | ⭐ 986 | Python | 74/100 |
 | 9 | [meilisearch/meilisearch-dotnet](./meilisearch-meilisearch-dotnet.md) | ⭐ 345 | C# | 74/100 |
 | 10 | [gungraun/gungraun](./gungraun-gungraun.md) | ⭐ 341 | Rust | 73/100 |
 | 11 | [googleapis/google-api-dotnet-client](./googleapis-google-api-dotnet-client.md) | ⭐ 1.5k | C# | 72/100 |
@@ -59,7 +59,7 @@
 | 49 | [google/play-services-plugins](./google-play-services-plugins.md) | ⭐ 526 | Kotlin | 67/100 |
 | 50 | [aliyun/openapi-sdk-php](./aliyun-openapi-sdk-php.md) | ⭐ 530 | PHP | 67/100 |
 | 51 | [venturedrake/laravel-crm](./venturedrake-laravel-crm.md) | ⭐ 473 | PHP | 67/100 |
-| 52 | [grafana/faro-web-sdk](./grafana-faro-web-sdk.md) | ⭐ 1.1k | TypeScript | 67/100 |
+| 52 | [grafana/faro-web-sdk](./grafana-faro-web-sdk.md) | ⭐ 1.2k | TypeScript | 67/100 |
 | 53 | [googleapis/python-genai](./googleapis-python-genai.md) | ⭐ 4.1k | Python | 67/100 |
 | 54 | [emscripten-core/emsdk](./emscripten-core-emsdk.md) | ⭐ 3.7k | Python | 66/100 |
 | 55 | [prometheus/client_rust](./prometheus-client-rust.md) | ⭐ 612 | Rust | 66/100 |
@@ -158,7 +158,7 @@
 | 148 | [googleapis/java-genai](./googleapis-java-genai.md) | ⭐ 399 | Java | 59/100 |
 | 149 | [PyMySQL/PyMySQL](./pymysql-pymysql.md) | ⭐ 7.9k | Python | 59/100 |
 | 150 | [kreuzberg-dev/tree-sitter-language-pack](./kreuzberg-dev-tree-sitter-language-pack.md) | ⭐ 349 | Rust | 59/100 |
-| 151 | [aliyun/aliyun-oss-python-sdk](./aliyun-aliyun-oss-python-sdk.md) | ⭐ 995 | Python | 58/100 |
+| 151 | [aliyun/aliyun-oss-python-sdk](./aliyun-aliyun-oss-python-sdk.md) | ⭐ 996 | Python | 58/100 |
 | 152 | [saddam213/AmuseAI](./saddam213-amuseai.md) | ⭐ 663 | C# | 58/100 |
 | 153 | [gtk-rs/gtk4-rs](./gtk-rs-gtk4-rs.md) | ⭐ 2.4k | Rust | 58/100 |
 | 154 | [rust-nvml/nvml-wrapper](./rust-nvml-nvml-wrapper.md) | ⭐ 215 | Rust | 58/100 |

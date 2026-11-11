@@ -75,7 +75,7 @@
 | 65 | [knadh/listmonk](./knadh-listmonk.md) | ⭐ 24.2k | Go | 66/100 |
 | 66 | [mx-space/core](./mx-space-core.md) | ⭐ 567 | TypeScript | 66/100 |
 | 67 | [wanshuiyin/ARIS-in-AI-Offer](./wanshuiyin-aris-in-ai-offer.md) | ⭐ 648 | Python | 65/100 |
-| 68 | [Jamailar/Beav](./jamailar-beav.md) | ⭐ 2.3k | TypeScript | 65/100 |
+| 68 | [Jamailar/Beav](./jamailar-beav.md) | ⭐ 2.4k | TypeScript | 65/100 |
 | 69 | [Jamailar/RedBox](./jamailar-redbox.md) | ⭐ 1.1k | TypeScript | 65/100 |
 | 70 | [ChrisChen667788/wind-comic](./chrischen667788-wind-comic.md) | ⭐ 710 | TypeScript | 65/100 |
 | 71 | [Stonewuu/ai-fusion-video](./stonewuu-ai-fusion-video.md) | ⭐ 1.7k | Java | 64/100 |

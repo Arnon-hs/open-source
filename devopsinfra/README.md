@@ -295,8 +295,8 @@
 | 285 | [rancher/k3k](./rancher-k3k.md) | ⭐ 920 | Go | 57/100 |
 | 286 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 459 | Dockerfile | 57/100 |
 | 287 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.4k | PHP | 57/100 |
-| 288 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
-| 289 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 288 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 289 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
 | 290 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10.4k | Go | 57/100 |
 | 291 | [tackish/pigeoneye](./tackish-pigeoneye.md) | ⭐ 94 | — | 56/100 |
 | 292 | [softcane/codex-session-operator](./softcane-codex-session-operator.md) | ⭐ 6 | — | 56/100 |
@@ -483,8 +483,8 @@
 | 473 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 474 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 475 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 476 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
-| 477 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 476 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 477 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
 | 478 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 479 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 480 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |

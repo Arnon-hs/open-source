@@ -362,7 +362,7 @@
 | 352 | [AdamMc331/AndroidAppTemplate](./adammc331-androidapptemplate.md) | ⭐ 306 | Kotlin | 60/100 |
 | 353 | [speedpy/speedpy](./speedpy-speedpy.md) | ⭐ 82 | Python | 60/100 |
 | 354 | [cobalt-org/liquid-rust](./cobalt-org-liquid-rust.md) | ⭐ 592 | Rust | 60/100 |
-| 355 | [rust-sailfish/sailfish](./rust-sailfish-sailfish.md) | ⭐ 996 | Rust | 60/100 |
+| 355 | [rust-sailfish/sailfish](./rust-sailfish-sailfish.md) | ⭐ 997 | Rust | 60/100 |
 | 356 | [emilk/eframe_template](./emilk-eframe-template.md) | ⭐ 1.2k | Rust | 60/100 |
 | 357 | [pipecat-ai/voice-ui-kit](./pipecat-ai-voice-ui-kit.md) | ⭐ 419 | TypeScript | 60/100 |
 | 358 | [ublue-os/image-template](./ublue-os-image-template.md) | ⭐ 891 | Just | 60/100 |

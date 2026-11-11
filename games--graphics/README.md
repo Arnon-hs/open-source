@@ -162,7 +162,7 @@
 | 152 | [clockworklabs/SpacetimeDB](./clockworklabs-spacetimedb.md) | ⭐ 25.5k | Rust | 58/100 |
 | 153 | [dodorare/crossbow](./dodorare-crossbow.md) | ⭐ 213 | Rust | 57/100 |
 | 154 | [racenis/tram-sdk](./racenis-tram-sdk.md) | ⭐ 417 | C++ | 57/100 |
-| 155 | [KytyPS5/KytyPS5](./kytyps5-kytyps5.md) | ⭐ 10.9k | C++ | 57/100 |
+| 155 | [KytyPS5/KytyPS5](./kytyps5-kytyps5.md) | ⭐ 11k | C++ | 57/100 |
 | 156 | [panxinmiao/myth](./panxinmiao-myth.md) | ⭐ 226 | Rust | 57/100 |
 | 157 | [microsoft/DirectXShaderCompiler](./microsoft-directxshadercompiler.md) | ⭐ 3.7k | C++ | 57/100 |
 | 158 | [ddnet/ddnet](./ddnet-ddnet.md) | ⭐ 860 | C++ | 57/100 |

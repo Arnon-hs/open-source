@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 774 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 563 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
-| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.3k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -248,7 +248,7 @@
 | 238 | [jeremylvln/Shulker](./jeremylvln-shulker.md) | ⭐ 414 | Rust | 61/100 |
 | 239 | [ipfs/ipfs-desktop](./ipfs-ipfs-desktop.md) | ⭐ 6.6k | JavaScript | 61/100 |
 | 240 | [crev-dev/cargo-crev](./crev-dev-cargo-crev.md) | ⭐ 2.3k | Rust | 61/100 |
-| 241 | [apple/servicetalk](./apple-servicetalk.md) | ⭐ 1k | Java | 61/100 |
+| 241 | [apple/servicetalk](./apple-servicetalk.md) | ⭐ 1.1k | Java | 61/100 |
 | 242 | [snakem982/proxypool](./snakem982-proxypool.md) | ⭐ 2.3k | Go | 61/100 |
 | 243 | [FRRouting/frr](./frrouting-frr.md) | ⭐ 4.4k | C | 61/100 |
 | 244 | [istio/proxy](./istio-proxy.md) | ⭐ 916 | C++ | 61/100 |
@@ -334,7 +334,7 @@
 | 324 | [DevLARLEY/WidevineProxy2](./devlarley-widevineproxy2.md) | ⭐ 1.2k | JavaScript | 57/100 |
 | 325 | [Delta-Kronecker/V2ray-Config](./delta-kronecker-v2ray-config.md) | ⭐ 373 | Go | 57/100 |
 | 326 | [vpnhood/VpnHood](./vpnhood-vpnhood.md) | ⭐ 2.5k | C# | 57/100 |
-| 327 | [vpnfast/vpnfast.github.io](./vpnfast-vpnfast.github.io.md) | ⭐ 1.7k | HTML | 57/100 |
+| 327 | [vpnfast/vpnfast.github.io](./vpnfast-vpnfast.github.io.md) | ⭐ 1.8k | HTML | 57/100 |
 | 328 | [doganarif/GoVisual](./doganarif-govisual.md) | ⭐ 683 | Go | 57/100 |
 | 329 | [snltty/linker](./snltty-linker.md) | ⭐ 1.5k | C# | 57/100 |
 | 330 | [kort0881/telegram-proxy-collector](./kort0881-telegram-proxy-collector.md) | ⭐ 1.1k | Python | 57/100 |

@@ -834,8 +834,8 @@
 | 824 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.9k | Go | 62/100 |
 | 825 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 62 | Rust | 62/100 |
 | 826 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.4k | Rust | 62/100 |
-| 827 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 255 | TypeScript | 62/100 |
-| 828 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 88 | Rust | 62/100 |
+| 827 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 88 | Rust | 62/100 |
+| 828 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 255 | TypeScript | 62/100 |
 | 829 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 119 | Shell | 62/100 |
 | 830 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 615 | Python | 62/100 |
 | 831 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 138 | TypeScript | 62/100 |
@@ -1122,7 +1122,7 @@
 | 1112 | [Blackman99/agent-feishu-channel](./blackman99-agent-feishu-channel.md) | ⭐ 48 | TypeScript | 55/100 |
 | 1113 | [bgyeth/apify-mcp-durable-state-companion](./bgyeth-apify-mcp-durable-state-companion.md) | ⭐ — | — | 55/100 |
 | 1114 | [Shubhbhangoo/agent-firewall](./shubhbhangoo-agent-firewall.md) | ⭐ — | — | 55/100 |
-| 1115 | [milind-soni/OpenMausBot](./milind-soni-openmausbot.md) | ⭐ 19.8k | TypeScript | 55/100 |
+| 1115 | [milind-soni/OpenMausBot](./milind-soni-openmausbot.md) | ⭐ 20.7k | TypeScript | 55/100 |
 | 1116 | [orwa-mahmoud/nightshift](./orwa-mahmoud-nightshift.md) | ⭐ 207 | Shell | 55/100 |
 | 1117 | [Sets88/sets88_telegram_bot](./sets88-sets88-telegram-bot.md) | ⭐ 119 | Python | 55/100 |
 | 1118 | [FredYakumo/zihuan-next](./fredyakumo-zihuan-next.md) | ⭐ 40 | Rust | 55/100 |

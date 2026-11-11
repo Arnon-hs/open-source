@@ -1,6 +1,6 @@
 # terryso/ego-skills
 
-[![Stars](https://img.shields.io/github/stars/terryso/ego-skills?style=flat-square&color=yellow)](https://github.com/terryso/ego-skills/stargazers) [![Forks](https://img.shields.io/github/forks/terryso/ego-skills?style=flat-square&color=blue)](https://github.com/terryso/ego-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/terryso/ego-skills?style=flat-square&color=yellow)](https://github.com/terryso/ego-skills/stargazers) [![Forks](https://img.shields.io/github/forks/terryso/ego-skills?style=flat-square&color=blue)](https://github.com/terryso/ego-skills/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
 
 > Agent Skills for ego-browser: logged-in Chromium recipes (MIT, stars not SaaS)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 34 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ terryso/ego-skills：terryso/ego-skills helps turn isolated prompts and tools in
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 46/100 |
-| production | 65/100 |
-| outlook | 70/100 |
+| production | 59/100 |
+| outlook | 63/100 |
 | adoption | 28/100 |
 | categoryMatchCount | 300/100 |
 | stars | 33/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
