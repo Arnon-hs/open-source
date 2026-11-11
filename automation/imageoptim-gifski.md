@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.7k |
-| 🍴 **Forks** | 181 |
+| 🍴 **Forks** | 182 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-06 |
@@ -53,8 +53,8 @@ ImageOptim/gifski：ImageOptim/gifski helps remove repetitive manual operations 
 
 **Quality signals**
 
-- 5699 GitHub stars
-- 181 forks
+- 5702 GitHub stars
+- 182 forks
 - updated 2026-11-06
 - primary language: Rust
 - 11 topics

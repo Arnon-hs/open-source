@@ -53,7 +53,7 @@ rhysd/actionlint：rhysd/actionlint helps remove repetitive manual operations fr
 
 **Quality signals**
 
-- 4406 GitHub stars
+- 4408 GitHub stars
 - 298 forks
 - updated 2026-11-05
 - primary language: Go

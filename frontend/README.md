@@ -157,7 +157,7 @@
 | 147 | [diffplug/spotless](./diffplug-spotless.md) | ⭐ 5.7k | Java | 67/100 |
 | 148 | [activist-org/activist](./activist-org-activist.md) | ⭐ 767 | TypeScript | 67/100 |
 | 149 | [react-dropzone/react-dropzone](./react-dropzone-react-dropzone.md) | ⭐ 11k | TypeScript | 67/100 |
-| 150 | [rukamori/ArchiveTune](./rukamori-archivetune.md) | ⭐ 8.1k | Kotlin | 67/100 |
+| 150 | [rukamori/ArchiveTune](./rukamori-archivetune.md) | ⭐ 8.2k | Kotlin | 67/100 |
 | 151 | [kivymd/KivyMD](./kivymd-kivymd.md) | ⭐ 2.5k | Python | 67/100 |
 | 152 | [springdoc/springdoc-openapi](./springdoc-springdoc-openapi.md) | ⭐ 3.7k | Java | 67/100 |
 | 153 | [peetzweg/commit-history](./peetzweg-commit-history.md) | ⭐ 118 | TypeScript | 67/100 |
@@ -219,7 +219,7 @@
 | 209 | [convertigo/convertigo](./convertigo-convertigo.md) | ⭐ 388 | Java | 66/100 |
 | 210 | [formbricks/formbricks](./formbricks-formbricks.md) | ⭐ 13.2k | TypeScript | 66/100 |
 | 211 | [AmanVarshney01/create-better-t-stack](./amanvarshney01-create-better-t-stack.md) | ⭐ 5.9k | TypeScript | 66/100 |
-| 212 | [Flagsmith/flagsmith](./flagsmith-flagsmith.md) | ⭐ 7k | Python | 66/100 |
+| 212 | [Flagsmith/flagsmith](./flagsmith-flagsmith.md) | ⭐ 7.1k | Python | 66/100 |
 | 213 | [chr0nzz/traefik-manager](./chr0nzz-traefik-manager.md) | ⭐ 1.7k | Python | 65/100 |
 | 214 | [pmndrs/zustand](./pmndrs-zustand.md) | ⭐ 58.9k | TypeScript | 65/100 |
 | 215 | [theBigGavin/marketingdashboard](./thebiggavin-marketingdashboard.md) | ⭐ 459 | TypeScript | 65/100 |
@@ -260,12 +260,12 @@
 | 250 | [lynx-family/lynx-stack](./lynx-family-lynx-stack.md) | ⭐ 739 | TypeScript | 65/100 |
 | 251 | [zhenorzz/goploy](./zhenorzz-goploy.md) | ⭐ 1.3k | Go | 65/100 |
 | 252 | [ng-doc/ng-doc](./ng-doc-ng-doc.md) | ⭐ 326 | TypeScript | 65/100 |
-| 253 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
-| 254 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
+| 253 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
+| 254 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
 | 255 | [magicuidesign/magicui](./magicuidesign-magicui.md) | ⭐ 23.2k | MDX | 65/100 |
 | 256 | [mealie-recipes/mealie](./mealie-recipes-mealie.md) | ⭐ 13.9k | Python | 65/100 |
 | 257 | [marko-js/marko](./marko-js-marko.md) | ⭐ 14.5k | JavaScript | 65/100 |
-| 258 | [mayswind/ezbookkeeping](./mayswind-ezbookkeeping.md) | ⭐ 6k | Go | 65/100 |
+| 258 | [mayswind/ezbookkeeping](./mayswind-ezbookkeeping.md) | ⭐ 6.1k | Go | 65/100 |
 | 259 | [go-admin-team/go-admin](./go-admin-team-go-admin.md) | ⭐ 12.8k | Go | 64/100 |
 | 260 | [go-admin-team/go-admin](./go-admin-team-go-admin.md) | ⭐ 12.8k | Go | 64/100 |
 | 261 | [tusen-ai/naive-ui](./tusen-ai-naive-ui.md) | ⭐ 18.6k | TypeScript | 64/100 |
@@ -483,8 +483,8 @@
 | 473 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 474 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
 | 475 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 297 | Rust | 60/100 |
-| 476 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
-| 477 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
+| 476 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
+| 477 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
 | 478 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.8k | TypeScript | 60/100 |
 | 479 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 365 | Go | 60/100 |
 | 480 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
@@ -515,8 +515,8 @@
 | 505 | [sveltejs/eslint-plugin-svelte](./sveltejs-eslint-plugin-svelte.md) | ⭐ 412 | TypeScript | 59/100 |
 | 506 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 892 | TypeScript | 59/100 |
 | 507 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 814 | TypeScript | 59/100 |
-| 508 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
-| 509 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 508 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 509 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
 | 510 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 511 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 360 | TypeScript | 59/100 |
 | 512 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 675 | Rust | 59/100 |
@@ -754,8 +754,8 @@
 | 744 | [sanusart/react-dropdown-select](./sanusart-react-dropdown-select.md) | ⭐ 364 | JavaScript | 54/100 |
 | 745 | [blackfyre/wga](./blackfyre-wga.md) | ⭐ 193 | Go | 54/100 |
 | 746 | [IT-BAER/proxmorph](./it-baer-proxmorph.md) | ⭐ 637 | CSS | 54/100 |
-| 747 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 884 | Rust | 54/100 |
-| 748 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
+| 747 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
+| 748 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 884 | Rust | 54/100 |
 | 749 | [coi/coi](./coi-coi.md) | ⭐ 567 | C++ | 54/100 |
 | 750 | [lvzhenbo/115-plus-desktop](./lvzhenbo-115-plus-desktop.md) | ⭐ 383 | Rust | 54/100 |
 | 751 | [rust-ui/ui](./rust-ui-ui.md) | ⭐ 805 | Rust | 54/100 |
@@ -923,8 +923,8 @@
 | 913 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ 42 | — | 39/100 |
 | 914 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ 4 | — | 39/100 |
 | 915 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ 16 | — | 39/100 |
-| 916 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
-| 917 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
+| 916 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
+| 917 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
 | 918 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
 | 919 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ 11 | — | 39/100 |
 | 920 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |

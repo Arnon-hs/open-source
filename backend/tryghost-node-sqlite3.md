@@ -53,7 +53,7 @@ TryGhost/node-sqlite3：TryGhost/node-sqlite3 helps teams reuse service infrastr
 
 **Quality signals**
 
-- 6407 GitHub stars
+- 6408 GitHub stars
 - 844 forks
 - updated 2026-11-06
 - primary language: PLpgSQL

@@ -262,7 +262,7 @@
 | 252 | [OpenRunner/clash-freenode](./openrunner-clash-freenode.md) | ⭐ 6.5k | — | 60/100 |
 | 253 | [dqzboy/Docker-Proxy](./dqzboy-docker-proxy.md) | ⭐ 4.5k | JavaScript | 60/100 |
 | 254 | [chili-chips-ba/wireguard-fpga](./chili-chips-ba-wireguard-fpga.md) | ⭐ 1.3k | Verilog | 60/100 |
-| 255 | [LOWERTOP/Shadowrocket-First](./lowertop-shadowrocket-first.md) | ⭐ 5.6k | — | 60/100 |
+| 255 | [LOWERTOP/Shadowrocket-First](./lowertop-shadowrocket-first.md) | ⭐ 5.7k | — | 60/100 |
 | 256 | [free18/v2ray](./free18-v2ray.md) | ⭐ 5.9k | — | 60/100 |
 | 257 | [throneproj/Throne](./throneproj-throne.md) | ⭐ 7.8k | C++ | 60/100 |
 | 258 | [pion/ice](./pion-ice.md) | ⭐ 622 | Go | 60/100 |

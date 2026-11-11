@@ -1,6 +1,6 @@
 # jamesondh/chimera-vocal-synth
 
-[![Stars](https://img.shields.io/github/stars/jamesondh/chimera-vocal-synth?style=flat-square&color=yellow)](https://github.com/jamesondh/chimera-vocal-synth/stargazers) [![Forks](https://img.shields.io/github/forks/jamesondh/chimera-vocal-synth?style=flat-square&color=blue)](https://github.com/jamesondh/chimera-vocal-synth/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jamesondh/chimera-vocal-synth?style=flat-square&color=yellow)](https://github.com/jamesondh/chimera-vocal-synth/stargazers) [![Forks](https://img.shields.io/github/forks/jamesondh/chimera-vocal-synth?style=flat-square&color=blue)](https://github.com/jamesondh/chimera-vocal-synth/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > the ultimate vocal synthesizer - sing, speak, beatbox, and more
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 168 |
+| ⭐ **Stars** | 1.7k |
+| 🍴 **Forks** | 191 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -53,8 +53,8 @@ jamesondh/chimera-vocal-synth：jamesondh/chimera-vocal-synth helps engineers sa
 
 **Quality signals**
 
-- 1483 GitHub stars
-- 168 forks
+- 1684 GitHub stars
+- 191 forks
 - updated 2026-11-10
 - primary language: Rust
 
@@ -65,14 +65,14 @@ jamesondh/chimera-vocal-synth：jamesondh/chimera-vocal-synth helps engineers sa
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 64/100 |
+| quality | 65/100 |
 | integration | 30/100 |
 | production | 66/100 |
-| outlook | 66/100 |
-| adoption | 64/100 |
+| outlook | 67/100 |
+| adoption | 65/100 |
 | categoryMatchCount | 100/100 |
-| stars | 67/100 |
-| forks | 56/100 |
+| stars | 69/100 |
+| forks | 57/100 |
 | recency | 100/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |

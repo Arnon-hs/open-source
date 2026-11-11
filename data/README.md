@@ -308,7 +308,7 @@
 | 298 | [common-voice/common-voice](./common-voice-common-voice.md) | ⭐ 3.5k | TypeScript | 51/100 |
 | 299 | [lakekeeper/lakekeeper](./lakekeeper-lakekeeper.md) | ⭐ 1.5k | Rust | 51/100 |
 | 300 | [scigolib/hdf5](./scigolib-hdf5.md) | ⭐ 32 | Go | 51/100 |
-| 301 | [OSGeo/gdal](./osgeo-gdal.md) | ⭐ 6.1k | C++ | 50/100 |
+| 301 | [OSGeo/gdal](./osgeo-gdal.md) | ⭐ 6.2k | C++ | 50/100 |
 | 302 | [nohajc/anylinuxfs](./nohajc-anylinuxfs.md) | ⭐ 1.7k | Rust | 50/100 |
 | 303 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 539 | C | 50/100 |
 | 304 | [wavelog/wavelog](./wavelog-wavelog.md) | ⭐ 588 | PHP | 50/100 |

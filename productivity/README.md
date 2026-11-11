@@ -45,7 +45,7 @@
 | 35 | [Clipy/Clipy](./clipy-clipy.md) | ⭐ 9k | Swift | 68/100 |
 | 36 | [brettcannon/python-launcher](./brettcannon-python-launcher.md) | ⭐ 631 | Rust | 68/100 |
 | 37 | [Giammarco-Ferranti/deja](./giammarco-ferranti-deja.md) | ⭐ 933 | Go | 68/100 |
-| 38 | [wmariuss/awesome-devops](./wmariuss-awesome-devops.md) | ⭐ 4.4k | Python | 68/100 |
+| 38 | [wmariuss/awesome-devops](./wmariuss-awesome-devops.md) | ⭐ 4.5k | Python | 68/100 |
 | 39 | [rayenghanmi/RyTuneX](./rayenghanmi-rytunex.md) | ⭐ 5.6k | C# | 68/100 |
 | 40 | [SoCkEt7/Livediff](./socket7-livediff.md) | ⭐ 237 | Rust | 68/100 |
 | 41 | [lutris/lutris](./lutris-lutris.md) | ⭐ 10.4k | Python | 68/100 |
@@ -347,8 +347,8 @@
 | 337 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 338 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 339 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 340 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
-| 341 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 340 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 341 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
 | 342 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 343 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.7k | — | 38/100 |
 | 344 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

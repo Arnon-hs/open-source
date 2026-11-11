@@ -53,7 +53,7 @@ pythonnet/pythonnet：pythonnet/pythonnet helps add AI capability without starti
 
 **Quality signals**
 
-- 5536 GitHub stars
+- 5537 GitHub stars
 - 779 forks
 - updated 2026-11-05
 - primary language: C#

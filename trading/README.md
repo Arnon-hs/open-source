@@ -66,7 +66,7 @@
 | 56 | [Amey-Thakur/OPTIMIZING-STOCK-TRADING-STRATEGY-WITH-REINFORCEMENT-LEARNING](./amey-thakur-optimizing-stock-trading-strategy-with-reinforcement-learning.md) | ⭐ 58 | Python | 66/100 |
 | 57 | [FerroxLabs/tvcontrol](./ferroxlabs-tvcontrol.md) | ⭐ 60 | JavaScript | 66/100 |
 | 58 | [NVIDIA-AI-Blueprints/portfolio-optimization](./nvidia-ai-blueprints-portfolio-optimization.md) | ⭐ 504 | Jupyter Notebook | 66/100 |
-| 59 | [Jakeschincariol/day-trader-skill](./jakeschincariol-day-trader-skill.md) | ⭐ 6.4k | Python | 66/100 |
+| 59 | [Jakeschincariol/day-trader-skill](./jakeschincariol-day-trader-skill.md) | ⭐ 6.7k | Python | 66/100 |
 | 60 | [sngyai/Sequoia-X](./sngyai-sequoia-x.md) | ⭐ 6k | Python | 65/100 |
 | 61 | [cinar/indicator](./cinar-indicator.md) | ⭐ 1.9k | Go | 65/100 |
 | 62 | [binance/binance-cli](./binance-binance-cli.md) | ⭐ 75 | Rust | 65/100 |
