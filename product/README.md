@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [mouredev/roadmap-retos-programacion](./mouredev-roadmap-retos-programacion.md) | ⭐ 9k | Python | 77/100 |
 | 2 | [unopim/unopim](./unopim-unopim.md) | ⭐ 11.1k | PHP | 65/100 |
-| 3 | [QuackbackIO/quackback](./quackbackio-quackback.md) | ⭐ 349 | TypeScript | 61/100 |
+| 3 | [QuackbackIO/quackback](./quackbackio-quackback.md) | ⭐ 353 | TypeScript | 61/100 |
 | 4 | [lsfusion-solutions/mycompany](./lsfusion-solutions-mycompany.md) | ⭐ 376 | JavaScript | 59/100 |
 | 5 | [fastly/Viceroy](./fastly-viceroy.md) | ⭐ 178 | Rust | 54/100 |
 | 6 | [orbivort/scrumooth](./orbivort-scrumooth.md) | ⭐ 1 | TypeScript | 53/100 |

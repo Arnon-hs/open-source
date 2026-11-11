@@ -115,7 +115,7 @@
 | 105 | [prometheus/exporter-toolkit](./prometheus-exporter-toolkit.md) | ⭐ 314 | Go | 60/100 |
 | 106 | [ossf/scorecard](./ossf-scorecard.md) | ⭐ 5.8k | Go | 60/100 |
 | 107 | [elastic/apm-agent-dotnet](./elastic-apm-agent-dotnet.md) | ⭐ 593 | C# | 60/100 |
-| 108 | [OpsiMate/OpsiMate](./opsimate-opsimate.md) | ⭐ 290 | TypeScript | 60/100 |
+| 108 | [OpsiMate/OpsiMate](./opsimate-opsimate.md) | ⭐ 293 | TypeScript | 60/100 |
 | 109 | [threathunters-io/laurel](./threathunters-io-laurel.md) | ⭐ 878 | Rust | 60/100 |
 | 110 | [namhyung/uftrace](./namhyung-uftrace.md) | ⭐ 3.5k | C | 60/100 |
 | 111 | [shm11C3/HardwareVisualizer](./shm11c3-hardwarevisualizer.md) | ⭐ 187 | Rust | 60/100 |

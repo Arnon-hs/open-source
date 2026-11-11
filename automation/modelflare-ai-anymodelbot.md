@@ -53,7 +53,7 @@ modelflare-ai/AnyModelBot：modelflare-ai/AnyModelBot helps remove repetitive ma
 
 **Quality signals**
 
-- 3074 GitHub stars
+- 3084 GitHub stars
 - 46 forks
 - updated 2026-11-10
 - primary language: Python

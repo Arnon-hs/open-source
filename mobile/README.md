@@ -259,7 +259,7 @@
 | 249 | [SimonSchubert/LinuxCommandLibrary](./simonschubert-linuxcommandlibrary.md) | ⭐ 2.1k | Kotlin | 56/100 |
 | 250 | [Gracker/awesome-android-ai-dev-sources](./gracker-awesome-android-ai-dev-sources.md) | ⭐ 1.9k | Python | 56/100 |
 | 251 | [slackhq/circuit](./slackhq-circuit.md) | ⭐ 1.9k | Kotlin | 56/100 |
-| 252 | [fuqiuluo/amice](./fuqiuluo-amice.md) | ⭐ 272 | Rust | 56/100 |
+| 252 | [fuqiuluo/amice](./fuqiuluo-amice.md) | ⭐ 274 | Rust | 56/100 |
 | 253 | [quran/quran_android](./quran-quran-android.md) | ⭐ 2.4k | Kotlin | 56/100 |
 | 254 | [v1tzor/TimePlanner](./v1tzor-timeplanner.md) | ⭐ 702 | Kotlin | 56/100 |
 | 255 | [Monica-Pass/Monica](./monica-pass-monica.md) | ⭐ 1.2k | Kotlin | 56/100 |
@@ -276,12 +276,12 @@
 | 266 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 267 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 268 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
-| 270 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 270 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
 | 271 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 272 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 631 | Python | 55/100 |
-| 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
-| 274 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
+| 273 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
+| 274 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
 | 275 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 499 | Kotlin | 55/100 |
 | 276 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 277 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 3.3k | Kotlin | 55/100 |
@@ -408,7 +408,7 @@
 | 398 | [uholeschak/ediabaslib](./uholeschak-ediabaslib.md) | ⭐ 950 | C# | 52/100 |
 | 399 | [WebKit/WebKit](./webkit-webkit.md) | ⭐ 10.3k | JavaScript | 52/100 |
 | 400 | [Alvin9999-newpac/fanqiang](./alvin9999-newpac-fanqiang.md) | ⭐ 1.7k | Shell | 52/100 |
-| 401 | [open-ani/mediamp](./open-ani-mediamp.md) | ⭐ 154 | Kotlin | 51/100 |
+| 401 | [open-ani/mediamp](./open-ani-mediamp.md) | ⭐ 155 | Kotlin | 51/100 |
 | 402 | [jegly/jegly](./jegly-jegly.md) | ⭐ 3 | — | 51/100 |
 | 403 | [equeim/tremotesf-android](./equeim-tremotesf-android.md) | ⭐ 325 | Kotlin | 51/100 |
 | 404 | [confeden/Nova-Android](./confeden-nova-android.md) | ⭐ 404 | Go | 51/100 |
@@ -438,7 +438,7 @@
 | 428 | [meshtastic/Meshtastic-Apple](./meshtastic-meshtastic-apple.md) | ⭐ 964 | Swift | 50/100 |
 | 429 | [bitwarden/android](./bitwarden-android.md) | ⭐ 9.6k | Kotlin | 50/100 |
 | 430 | [wordpress-mobile/WordPress-Android](./wordpress-mobile-wordpress-android.md) | ⭐ 3.2k | Kotlin | 50/100 |
-| 431 | [Dweep4269/sideraven](./dweep4269-sideraven.md) | ⭐ 156 | Kotlin | 49/100 |
+| 431 | [Dweep4269/sideraven](./dweep4269-sideraven.md) | ⭐ 157 | Kotlin | 49/100 |
 | 432 | [voicute/onnx-wakeword](./voicute-onnx-wakeword.md) | ⭐ 89 | C | 49/100 |
 | 433 | [latipun7/dotfiles](./latipun7-dotfiles.md) | ⭐ 41 | Shell | 49/100 |
 | 434 | [bjzhou/PhotonCamera](./bjzhou-photoncamera.md) | ⭐ 646 | Kotlin | 49/100 |

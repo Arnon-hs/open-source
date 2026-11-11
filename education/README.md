@@ -36,7 +36,7 @@
 | 26 | [AloisSeckar/demos-java](./aloisseckar-demos-java.md) | ⭐ 25 | Java | 48/100 |
 | 27 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 385 | Rust | 45/100 |
 | 28 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 441 | Mojo | 44/100 |
-| 29 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 263 | Rust | 44/100 |
+| 29 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 262 | Rust | 44/100 |
 | 30 | [Jay-Naik2526/or-studio](./jay-naik2526-or-studio.md) | ⭐ — | TypeScript | 44/100 |
 | 31 | [rapha-rodrigues/cc-esol](./rapha-rodrigues-cc-esol.md) | ⭐ 3 | — | 41/100 |
 | 32 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 40/100 |

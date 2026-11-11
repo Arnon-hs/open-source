@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML · Automation · MCP
+Content Creation · MCP · AI/ML · Documents · Backend
 
 ## 📝 Summary
 
 ### English
 
-SpeedPainterOrg/explainer-video: SpeedPainterOrg/explainer-video helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SpeedPainterOrg/explainer-video: SpeedPainterOrg/explainer-video helps creators research, generate, repurpose, and publish content with less manual work.. Use it for research and produce content; repurpose assets across channels. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-SpeedPainterOrg/explainer-video: open-source проект в категориях AI/ML, Automation, MCP. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+SpeedPainterOrg/explainer-video: open-source проект в категориях Content Creation, MCP, AI/ML, Documents, Backend. Практическое применение: research and produce content; repurpose assets across channels. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-SpeedPainterOrg/explainer-video：SpeedPainterOrg/explainer-video helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+SpeedPainterOrg/explainer-video：SpeedPainterOrg/explainer-video helps creators research, generate, repurpose, and publish content with less manual work.。适合用于research and produce content、repurpose assets across channels。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** SpeedPainterOrg/explainer-video helps add AI capability without starting from a blank model stack.
+**Value:** SpeedPainterOrg/explainer-video helps creators research, generate, repurpose, and publish content with less manual work.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- research and produce content
+- repurpose assets across channels
+- automate a creator production pipeline
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,19 +65,19 @@ SpeedPainterOrg/explainer-video：SpeedPainterOrg/explainer-video helps add AI c
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 60/100 |
-| integration | 78/100 |
-| production | 66/100 |
-| outlook | 68/100 |
-| adoption | 31/100 |
-| categoryMatchCount | 300/100 |
-| stars | 38/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| stars | 38/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 60/100 |
+| recency | 80/100 |
+| adoption | 31/100 |
+| production | 66/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/SpeedPainterOrg/explainer-video) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/SpeedPainterOrg/explainer-video) · [← Back to Content-creation](./README.md)</sub>

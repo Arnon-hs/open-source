@@ -372,12 +372,12 @@
 | 362 | [onedr0p/cluster-template](./onedr0p-cluster-template.md) | ⭐ 2.8k | YAML | 60/100 |
 | 363 | [Alchemyst-ai/awesome-saas](./alchemyst-ai-awesome-saas.md) | ⭐ 421 | TypeScript | 60/100 |
 | 364 | [chrisdoc/hevy-mcp](./chrisdoc-hevy-mcp.md) | ⭐ 535 | TypeScript | 60/100 |
-| 365 | [product-on-purpose/pm-skills](./product-on-purpose-pm-skills.md) | ⭐ 795 | PowerShell | 60/100 |
+| 365 | [product-on-purpose/pm-skills](./product-on-purpose-pm-skills.md) | ⭐ 796 | PowerShell | 60/100 |
 | 366 | [trueforge-org/truecharts](./trueforge-org-truecharts.md) | ⭐ 1.4k | Go Template | 60/100 |
 | 367 | [iydon/sustechthesis](./iydon-sustechthesis.md) | ⭐ 348 | TeX | 59/100 |
 | 368 | [bearcove/dodeca](./bearcove-dodeca.md) | ⭐ 228 | Rust | 59/100 |
 | 369 | [orium/cargo-rdme](./orium-cargo-rdme.md) | ⭐ 223 | Rust | 59/100 |
-| 370 | [Micro-SaaS-Examples/Best-Micro-SaaS-Tools](./micro-saas-examples-best-micro-saas-tools.md) | ⭐ 295 | — | 59/100 |
+| 370 | [Micro-SaaS-Examples/Best-Micro-SaaS-Tools](./micro-saas-examples-best-micro-saas-tools.md) | ⭐ 296 | — | 59/100 |
 | 371 | [TheArchitectit/agent-guardrails-template](./thearchitectit-agent-guardrails-template.md) | ⭐ 1 | Go | 59/100 |
 | 372 | [TailGrids/tailgrids](./tailgrids-tailgrids.md) | ⭐ 1.7k | TypeScript | 59/100 |
 | 373 | [The-AppLab/ultimate-fastapi-langchain-boilerplate](./the-applab-ultimate-fastapi-langchain-boilerplate.md) | ⭐ 1 | Python | 58/100 |

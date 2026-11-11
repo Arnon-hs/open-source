@@ -16,7 +16,7 @@
 | 6 | [tach-org/tach](./tach-org-tach.md) | ⭐ 2.9k | Rust | 77/100 |
 | 7 | [tiddly-gittly/TidGi-Desktop](./tiddly-gittly-tidgi-desktop.md) | ⭐ 2k | TypeScript | 76/100 |
 | 8 | [ankitpokhrel/jira-cli](./ankitpokhrel-jira-cli.md) | ⭐ 6.1k | Go | 75/100 |
-| 9 | [Ketbome/minepanel](./ketbome-minepanel.md) | ⭐ 285 | TypeScript | 75/100 |
+| 9 | [Ketbome/minepanel](./ketbome-minepanel.md) | ⭐ 286 | TypeScript | 75/100 |
 | 10 | [AlexanderPro/SmartSystemMenu](./alexanderpro-smartsystemmenu.md) | ⭐ 3.3k | C# | 75/100 |
 | 11 | [awslabs/tecli](./awslabs-tecli.md) | ⭐ 219 | Go | 75/100 |
 | 12 | [jeffreytse/zsh-vi-mode](./jeffreytse-zsh-vi-mode.md) | ⭐ 4.5k | Shell | 74/100 |
@@ -92,7 +92,7 @@
 | 82 | [nextcloud/notes-android](./nextcloud-notes-android.md) | ⭐ 1.1k | Java | 64/100 |
 | 83 | [ViscousPot/GitSync](./viscouspot-gitsync.md) | ⭐ 2.5k | Dart | 63/100 |
 | 84 | [kbrdn1/gwm-cli](./kbrdn1-gwm-cli.md) | ⭐ 150 | Rust | 63/100 |
-| 85 | [nylxar/curium](./nylxar-curium.md) | ⭐ 289 | TypeScript | 63/100 |
+| 85 | [nylxar/curium](./nylxar-curium.md) | ⭐ 294 | TypeScript | 63/100 |
 | 86 | [moraroy/NonSteamLaunchers-On-Steam-Deck](./moraroy-nonsteamlaunchers-on-steam-deck.md) | ⭐ 4.4k | Python | 63/100 |
 | 87 | [heyman/heynote](./heyman-heynote.md) | ⭐ 5.4k | JavaScript | 63/100 |
 | 88 | [ljtn/epiq](./ljtn-epiq.md) | ⭐ 583 | TypeScript | 63/100 |
@@ -131,7 +131,7 @@
 | 121 | [oxdc/obsidian-vertical-tabs](./oxdc-obsidian-vertical-tabs.md) | ⭐ 640 | TypeScript | 60/100 |
 | 122 | [tanujnotes/Olauncher](./tanujnotes-olauncher.md) | ⭐ 4k | Kotlin | 60/100 |
 | 123 | [Ulauncher/Ulauncher](./ulauncher-ulauncher.md) | ⭐ 4.5k | Python | 60/100 |
-| 124 | [EbadShelby/dotfiles](./ebadshelby-dotfiles.md) | ⭐ 274 | CSS | 60/100 |
+| 124 | [EbadShelby/dotfiles](./ebadshelby-dotfiles.md) | ⭐ 276 | CSS | 60/100 |
 | 125 | [Squirreljetpack/matchmaker](./squirreljetpack-matchmaker.md) | ⭐ 239 | Rust | 60/100 |
 | 126 | [tuist/tuist](./tuist-tuist.md) | ⭐ 5.9k | Swift | 60/100 |
 | 127 | [WLDKK/snippet-fidelity](./wldkk-snippet-fidelity.md) | ⭐ 5 | TypeScript | 59/100 |
@@ -275,7 +275,7 @@
 | 265 | [StudentWeis/ropy](./studentweis-ropy.md) | ⭐ 205 | Rust | 48/100 |
 | 266 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 48/100 |
 | 267 | [Xed-Editor/Xed-Editor](./xed-editor-xed-editor.md) | ⭐ 2.4k | Java | 48/100 |
-| 268 | [omikuji-launcher/omikuji](./omikuji-launcher-omikuji.md) | ⭐ 240 | Rust | 47/100 |
+| 268 | [omikuji-launcher/omikuji](./omikuji-launcher-omikuji.md) | ⭐ 239 | Rust | 47/100 |
 | 269 | [music-assistant/desktop-app](./music-assistant-desktop-app.md) | ⭐ 241 | Rust | 47/100 |
 | 270 | [kunkka19xx/look](./kunkka19xx-look.md) | ⭐ 1.3k | Swift | 47/100 |
 | 271 | [SemanticMediaWiki/SemanticMediaWiki](./semanticmediawiki-semanticmediawiki.md) | ⭐ 633 | PHP | 47/100 |

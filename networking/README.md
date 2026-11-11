@@ -57,7 +57,7 @@
 | 47 | [anacrolix/torrent](./anacrolix-torrent.md) | ⭐ 6.1k | Go | 71/100 |
 | 48 | [marvinvr/docktail](./marvinvr-docktail.md) | ⭐ 1.4k | Go | 71/100 |
 | 49 | [python-websockets/websockets](./python-websockets-websockets.md) | ⭐ 5.7k | Python | 71/100 |
-| 50 | [Kobii-git/rackpad](./kobii-git-rackpad.md) | ⭐ 433 | TypeScript | 71/100 |
+| 50 | [Kobii-git/rackpad](./kobii-git-rackpad.md) | ⭐ 434 | TypeScript | 71/100 |
 | 51 | [projectcontour/contour](./projectcontour-contour.md) | ⭐ 4k | HTML | 71/100 |
 | 52 | [warp-tech/warpgate](./warp-tech-warpgate.md) | ⭐ 8.2k | Rust | 71/100 |
 | 53 | [http4k/http4k](./http4k-http4k.md) | ⭐ 2.8k | Kotlin | 71/100 |
@@ -419,7 +419,7 @@
 | 409 | [sigcli/sigcli](./sigcli-sigcli.md) | ⭐ 292 | TypeScript | 54/100 |
 | 410 | [emanuele-em/proxelar](./emanuele-em-proxelar.md) | ⭐ 1.1k | Rust | 54/100 |
 | 411 | [fangfufu/httpdirfs](./fangfufu-httpdirfs.md) | ⭐ 975 | C | 54/100 |
-| 412 | [getnora-io/nora](./getnora-io-nora.md) | ⭐ 375 | Rust | 54/100 |
+| 412 | [getnora-io/nora](./getnora-io-nora.md) | ⭐ 377 | Rust | 54/100 |
 | 413 | [wolfsoftwaresystemsltd/WolfStack](./wolfsoftwaresystemsltd-wolfstack.md) | ⭐ 107 | Rust | 54/100 |
 | 414 | [openthread/openthread](./openthread-openthread.md) | ⭐ 4.1k | C++ | 54/100 |
 | 415 | [peasoft/NoMoreWalls](./peasoft-nomorewalls.md) | ⭐ 3.6k | Python | 54/100 |
@@ -479,7 +479,7 @@
 | 469 | [Devolutions/devolutions-gateway](./devolutions-devolutions-gateway.md) | ⭐ 168 | Rust | 51/100 |
 | 470 | [razvandimescu/numa](./razvandimescu-numa.md) | ⭐ 2k | Rust | 51/100 |
 | 471 | [libp2p/js-libp2p](./libp2p-js-libp2p.md) | ⭐ 2.6k | TypeScript | 51/100 |
-| 472 | [StanMarek/ghost-complete](./stanmarek-ghost-complete.md) | ⭐ 342 | Rust | 51/100 |
+| 472 | [StanMarek/ghost-complete](./stanmarek-ghost-complete.md) | ⭐ 343 | Rust | 51/100 |
 | 473 | [httptoolkit/httptoolkit-ui](./httptoolkit-httptoolkit-ui.md) | ⭐ 383 | TypeScript | 51/100 |
 | 474 | [proxifly/free-proxy-list](./proxifly-free-proxy-list.md) | ⭐ 7k | — | 51/100 |
 | 475 | [ntex-rs/ntex](./ntex-rs-ntex.md) | ⭐ 2.5k | Rust | 51/100 |
@@ -553,7 +553,7 @@
 | 543 | [YoulianBoshi/vpn](./youlianboshi-vpn.md) | ⭐ 5.5k | — | 46/100 |
 | 544 | [qr243vbi/nekobox](./qr243vbi-nekobox.md) | ⭐ 1.5k | C++ | 46/100 |
 | 545 | [davidmhewitt/torrential](./davidmhewitt-torrential.md) | ⭐ 142 | Rust | 46/100 |
-| 546 | [dennisss/dacha](./dennisss-dacha.md) | ⭐ 397 | Rust | 46/100 |
+| 546 | [dennisss/dacha](./dennisss-dacha.md) | ⭐ 398 | Rust | 46/100 |
 | 547 | [MatinGhanbari/v2ray-configs](./matinghanbari-v2ray-configs.md) | ⭐ 706 | HTML | 46/100 |
 | 548 | [monosans/proxy-scraper-checker](./monosans-proxy-scraper-checker.md) | ⭐ 1.4k | Rust | 46/100 |
 | 549 | [junkurihara/rust-rpxy](./junkurihara-rust-rpxy.md) | ⭐ 792 | Rust | 46/100 |
@@ -577,7 +577,7 @@
 | 567 | [s-bose/arrest](./s-bose-arrest.md) | ⭐ 174 | — | 45/100 |
 | 568 | [sleep3r/mtproto.zig](./sleep3r-mtproto.zig.md) | ⭐ 2.2k | Zig | 45/100 |
 | 569 | [Zaeem20/FREE_PROXIES_LIST](./zaeem20-free-proxies-list.md) | ⭐ 427 | — | 45/100 |
-| 570 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 264 | TypeScript | 45/100 |
+| 570 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 265 | TypeScript | 45/100 |
 | 571 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 572 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 652 | — | 45/100 |
 | 573 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
@@ -641,7 +641,7 @@
 | 631 | [cloudflare/cbpfc](./cloudflare-cbpfc.md) | ⭐ 217 | — | 39/100 |
 | 632 | [kushal1o1/ZeroRelay](./kushal1o1-zerorelay.md) | ⭐ 18 | — | 39/100 |
 | 633 | [ABHIRAM-CREATOR06/Halonyx](./abhiram-creator06-halonyx.md) | ⭐ 23 | — | 39/100 |
-| 634 | [spongebob888/shadowquic](./spongebob888-shadowquic.md) | ⭐ 276 | Rust | 39/100 |
+| 634 | [spongebob888/shadowquic](./spongebob888-shadowquic.md) | ⭐ 278 | Rust | 39/100 |
 | 635 | [NVIDIA/infra-controller-core](./nvidia-infra-controller-core.md) | ⭐ 141 | Rust | 39/100 |
 | 636 | [Linchevatel/hyperion-browser](./linchevatel-hyperion-browser.md) | ⭐ 4 | JavaScript | 39/100 |
 | 637 | [darksworm/doormouse](./darksworm-doormouse.md) | ⭐ 160 | — | 38/100 |

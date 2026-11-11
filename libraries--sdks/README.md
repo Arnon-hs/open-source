@@ -54,7 +54,7 @@
 | 44 | [meilisearch/meilisearch-java](./meilisearch-meilisearch-java.md) | ⭐ 245 | Java | 67/100 |
 | 45 | [dart-lang/sdk](./dart-lang-sdk.md) | ⭐ 11.3k | Dart | 67/100 |
 | 46 | [korginc/logue-sdk](./korginc-logue-sdk.md) | ⭐ 1.1k | C | 67/100 |
-| 47 | [agentclientprotocol/rust-sdk](./agentclientprotocol-rust-sdk.md) | ⭐ 244 | Rust | 67/100 |
+| 47 | [agentclientprotocol/rust-sdk](./agentclientprotocol-rust-sdk.md) | ⭐ 245 | Rust | 67/100 |
 | 48 | [grafana/alloy-scenarios](./grafana-alloy-scenarios.md) | ⭐ 400 | Python | 67/100 |
 | 49 | [google/play-services-plugins](./google-play-services-plugins.md) | ⭐ 526 | Kotlin | 67/100 |
 | 50 | [aliyun/openapi-sdk-php](./aliyun-openapi-sdk-php.md) | ⭐ 531 | PHP | 67/100 |

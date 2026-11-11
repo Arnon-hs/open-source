@@ -48,7 +48,7 @@
 | 38 | [nirholas/bnbchain-mcp](./nirholas-bnbchain-mcp.md) | ⭐ 35 | TypeScript | 75/100 |
 | 39 | [binance/binance-connector-js](./binance-binance-connector-js.md) | ⭐ 755 | TypeScript | 75/100 |
 | 40 | [unicity-sphere/sphere-sdk](./unicity-sphere-sphere-sdk.md) | ⭐ 5.4k | TypeScript | 75/100 |
-| 41 | [xpaysh/awesome-x402](./xpaysh-awesome-x402.md) | ⭐ 303 | — | 75/100 |
+| 41 | [xpaysh/awesome-x402](./xpaysh-awesome-x402.md) | ⭐ 304 | — | 75/100 |
 | 42 | [dappros/ethora](./dappros-ethora.md) | ⭐ 553 | JavaScript | 75/100 |
 | 43 | [egametang/ET](./egametang-et.md) | ⭐ 10k | C# | 74/100 |
 | 44 | [stellar/js-stellar-sdk](./stellar-js-stellar-sdk.md) | ⭐ 696 | TypeScript | 74/100 |
@@ -93,8 +93,8 @@
 | 83 | [ethereumjs/ethereumjs-monorepo](./ethereumjs-ethereumjs-monorepo.md) | ⭐ 2.8k | TypeScript | 70/100 |
 | 84 | [Veridise/audithub-mcp](./veridise-audithub-mcp.md) | ⭐ 22 | Python | 70/100 |
 | 85 | [binance/binance-connector-python](./binance-binance-connector-python.md) | ⭐ 3k | Python | 70/100 |
-| 86 | [suenot/profitmaker](./suenot-profitmaker.md) | ⭐ 365 | TypeScript | 70/100 |
-| 87 | [edtechre/pybroker](./edtechre-pybroker.md) | ⭐ 3.7k | Python | 70/100 |
+| 86 | [edtechre/pybroker](./edtechre-pybroker.md) | ⭐ 3.7k | Python | 70/100 |
+| 87 | [suenot/profitmaker](./suenot-profitmaker.md) | ⭐ 365 | TypeScript | 70/100 |
 | 88 | [paxlabs-inc/matrix-core](./paxlabs-inc-matrix-core.md) | ⭐ 62 | Go | 70/100 |
 | 89 | [hyperledger/fabric](./hyperledger-fabric.md) | ⭐ 16.8k | Go | 70/100 |
 | 90 | [fireblocks/fireblocks-sdk-js](./fireblocks-fireblocks-sdk-js.md) | ⭐ 85 | TypeScript | 70/100 |
@@ -117,8 +117,8 @@
 | 107 | [onflow/flow-cli](./onflow-flow-cli.md) | ⭐ 209 | Go | 69/100 |
 | 108 | [lev-corrupted/TradingViewMCPServer](./lev-corrupted-tradingviewmcpserver.md) | ⭐ 41 | Python | 69/100 |
 | 109 | [BlockRunAI/blockrun-mcp](./blockrunai-blockrun-mcp.md) | ⭐ 390 | TypeScript | 69/100 |
-| 110 | [dante-gpu/dantegpu-core](./dante-gpu-dantegpu-core.md) | ⭐ 79 | Go | 69/100 |
-| 111 | [DSB-117/brainblast](./dsb-117-brainblast.md) | ⭐ 81 | TypeScript | 69/100 |
+| 110 | [DSB-117/brainblast](./dsb-117-brainblast.md) | ⭐ 81 | TypeScript | 69/100 |
+| 111 | [dante-gpu/dantegpu-core](./dante-gpu-dantegpu-core.md) | ⭐ 79 | Go | 69/100 |
 | 112 | [qntx/x402-openai-python](./qntx-x402-openai-python.md) | ⭐ 260 | Python | 69/100 |
 | 113 | [zonelessdev/zoneless](./zonelessdev-zoneless.md) | ⭐ 581 | TypeScript | 69/100 |
 | 114 | [rust-nostr/nostr](./rust-nostr-nostr.md) | ⭐ 627 | Rust | 69/100 |
@@ -138,12 +138,12 @@
 | 128 | [Scottcjn/iota-agent-mcp](./scottcjn-iota-agent-mcp.md) | ⭐ 65 | JavaScript | 68/100 |
 | 129 | [argotorg/solidity](./argotorg-solidity.md) | ⭐ 25.8k | C++ | 68/100 |
 | 130 | [abdokhalil5555/AgenticDeFi-Trainer](./abdokhalil5555-agenticdefi-trainer.md) | ⭐ 56 | Python | 68/100 |
-| 131 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 68/100 |
-| 132 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 68/100 |
+| 131 | [josevapriambudi111-cyber/AgenticDeFi-Trainer](./josevapriambudi111-cyber-agenticdefi-trainer.md) | ⭐ 49 | Python | 68/100 |
+| 132 | [IACKuchau/AgenticDeFi-Trainer](./iackuchau-agenticdefi-trainer.md) | ⭐ 53 | Python | 68/100 |
 | 133 | [besoeasy/yantr](./besoeasy-yantr.md) | ⭐ 210 | Vue | 68/100 |
 | 134 | [CacheCarti/dmoera-mcp](./cachecarti-dmoera-mcp.md) | ⭐ 9 | Python | 67/100 |
-| 135 | [JKorf/CoinEx.Net](./jkorf-coinex.net.md) | ⭐ 55 | C# | 67/100 |
-| 136 | [JKorf/HTX.Net](./jkorf-htx.net.md) | ⭐ 78 | C# | 67/100 |
+| 135 | [JKorf/HTX.Net](./jkorf-htx.net.md) | ⭐ 78 | C# | 67/100 |
+| 136 | [JKorf/CoinEx.Net](./jkorf-coinex.net.md) | ⭐ 55 | C# | 67/100 |
 | 137 | [thrasher-corp/gocryptotrader](./thrasher-corp-gocryptotrader.md) | ⭐ 3.5k | Go | 67/100 |
 | 138 | [hiero-ledger/hiero-sdk-cpp](./hiero-ledger-hiero-sdk-cpp.md) | ⭐ 43 | C++ | 67/100 |
 | 139 | [tonnode/mcp](./tonnode-mcp.md) | ⭐ 20 | TypeScript | 67/100 |
@@ -169,8 +169,8 @@
 | 159 | [drduh/YubiKey-Guide](./drduh-yubikey-guide.md) | ⭐ 13.1k | HTML | 66/100 |
 | 160 | [zeriontech/zerion-ai](./zeriontech-zerion-ai.md) | ⭐ 69 | JavaScript | 66/100 |
 | 161 | [TraderAlice/OpenAlice](./traderalice-openalice.md) | ⭐ 7.4k | TypeScript | 66/100 |
-| 162 | [squidKid-deluxe/QTradeX-Algo-Trading-SDK](./squidkid-deluxe-qtradex-algo-trading-sdk.md) | ⭐ 91 | Python | 66/100 |
-| 163 | [tradingstrategy-ai/trading-strategy](./tradingstrategy-ai-trading-strategy.md) | ⭐ 383 | Python | 66/100 |
+| 162 | [tradingstrategy-ai/trading-strategy](./tradingstrategy-ai-trading-strategy.md) | ⭐ 383 | Python | 66/100 |
+| 163 | [squidKid-deluxe/QTradeX-Algo-Trading-SDK](./squidkid-deluxe-qtradex-algo-trading-sdk.md) | ⭐ 91 | Python | 66/100 |
 | 164 | [PFund-Software-Ltd/pfund](./pfund-software-ltd-pfund.md) | ⭐ 69 | Python | 66/100 |
 | 165 | [TorchTrade/torchtrade](./torchtrade-torchtrade.md) | ⭐ 429 | Python | 66/100 |
 | 166 | [xca-sh/xcash](./xca-sh-xcash.md) | ⭐ 192 | Python | 66/100 |
@@ -212,8 +212,8 @@
 | 202 | [BowTiedDevil/degenbot](./bowtieddevil-degenbot.md) | ⭐ 573 | Rust | 64/100 |
 | 203 | [binance/binance-connector-java](./binance-binance-connector-java.md) | ⭐ 583 | Java | 64/100 |
 | 204 | [beefyfinance/beefy-api](./beefyfinance-beefy-api.md) | ⭐ 128 | TypeScript | 64/100 |
-| 205 | [tradingstrategy-ai/trade-executor](./tradingstrategy-ai-trade-executor.md) | ⭐ 162 | Jupyter Notebook | 64/100 |
-| 206 | [LFDT-Panurus/panurus](./lfdt-panurus-panurus.md) | ⭐ 126 | Go | 64/100 |
+| 205 | [LFDT-Panurus/panurus](./lfdt-panurus-panurus.md) | ⭐ 126 | Go | 64/100 |
+| 206 | [tradingstrategy-ai/trade-executor](./tradingstrategy-ai-trade-executor.md) | ⭐ 162 | Jupyter Notebook | 64/100 |
 | 207 | [alexafinode/claude-arbitrage-bot](./alexafinode-claude-arbitrage-bot.md) | ⭐ 81 | Solidity | 64/100 |
 | 208 | [status-im/nimbus-eth1](./status-im-nimbus-eth1.md) | ⭐ 637 | Nim | 64/100 |
 | 209 | [crypto-org-chain/cronos](./crypto-org-chain-cronos.md) | ⭐ 336 | Go | 64/100 |
@@ -304,8 +304,8 @@
 | 294 | [WINwwwwww/agent-social](./winwwwwww-agent-social.md) | ⭐ 33 | JavaScript | 61/100 |
 | 295 | [solana-foundation/program-examples](./solana-foundation-program-examples.md) | ⭐ 1.4k | TypeScript | 61/100 |
 | 296 | [0xcregis/anychain](./0xcregis-anychain.md) | ⭐ 249 | Rust | 61/100 |
-| 297 | [DimensionDev/Maskbook](./dimensiondev-maskbook.md) | ⭐ 1.6k | TypeScript | 61/100 |
-| 298 | [rodrigo-brito/ninjabot](./rodrigo-brito-ninjabot.md) | ⭐ 1.6k | Go | 61/100 |
+| 297 | [rodrigo-brito/ninjabot](./rodrigo-brito-ninjabot.md) | ⭐ 1.6k | Go | 61/100 |
+| 298 | [DimensionDev/Maskbook](./dimensiondev-maskbook.md) | ⭐ 1.6k | TypeScript | 61/100 |
 | 299 | [besu-eth/besu-docs](./besu-eth-besu-docs.md) | ⭐ 90 | JavaScript | 61/100 |
 | 300 | [openwisp/django-x509](./openwisp-django-x509.md) | ⭐ 350 | Python | 61/100 |
 | 301 | [protofire/solhint](./protofire-solhint.md) | ⭐ 1.1k | JavaScript | 61/100 |
@@ -395,8 +395,8 @@
 | 385 | [Ashutosh0x/rust-finance](./ashutosh0x-rust-finance.md) | ⭐ 422 | Rust | 58/100 |
 | 386 | [XRPLF/xrpl-py](./xrplf-xrpl-py.md) | ⭐ 248 | Python | 58/100 |
 | 387 | [nanocurrency/nano-node](./nanocurrency-nano-node.md) | ⭐ 3.5k | C++ | 58/100 |
-| 388 | [Coldcard/firmware](./coldcard-firmware.md) | ⭐ 783 | Python | 58/100 |
-| 389 | [apache/incubator-resilientdb](./apache-incubator-resilientdb.md) | ⭐ 169 | TypeScript | 58/100 |
+| 388 | [apache/incubator-resilientdb](./apache-incubator-resilientdb.md) | ⭐ 169 | TypeScript | 58/100 |
+| 389 | [Coldcard/firmware](./coldcard-firmware.md) | ⭐ 783 | Python | 58/100 |
 | 390 | [wonglaitung/fortune](./wonglaitung-fortune.md) | ⭐ 93 | Python | 58/100 |
 | 391 | [cosmos/ibc](./cosmos-ibc.md) | ⭐ 1k | Go | 58/100 |
 | 392 | [iktok90-design/ai-smart-contract-auditor](./iktok90-design-ai-smart-contract-auditor.md) | ⭐ 36 | JavaScript | 58/100 |
@@ -430,8 +430,8 @@
 | 420 | [bitcoin-dot-org/Bitcoin.org](./bitcoin-dot-org-bitcoin.org.md) | ⭐ 1.8k | HTML | 57/100 |
 | 421 | [softstack/Smart-Contract-Security-Audits](./softstack-smart-contract-security-audits.md) | ⭐ 800 | HTML | 57/100 |
 | 422 | [cyberia-to/cyb](./cyberia-to-cyb.md) | ⭐ 175 | Rust | 57/100 |
-| 423 | [AcalaNetwork/Acala](./acalanetwork-acala.md) | ⭐ 764 | Rust | 57/100 |
-| 424 | [tink-crypto/tink-py](./tink-crypto-tink-py.md) | ⭐ 79 | Python | 57/100 |
+| 423 | [tink-crypto/tink-py](./tink-crypto-tink-py.md) | ⭐ 79 | Python | 57/100 |
+| 424 | [AcalaNetwork/Acala](./acalanetwork-acala.md) | ⭐ 764 | Rust | 57/100 |
 | 425 | [eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT](./eagerwrenmey8308-uniswap-arbitrage-bot.md) | ⭐ 82 | Solidity | 57/100 |
 | 426 | [kogecodaviw9225/UNISWAP-ARBITRAGE-BOT](./kogecodaviw9225-uniswap-arbitrage-bot.md) | ⭐ 86 | Solidity | 57/100 |
 | 427 | [celo-org/celo-monorepo](./celo-org-celo-monorepo.md) | ⭐ 824 | Solidity | 57/100 |
@@ -470,13 +470,13 @@
 | 460 | [skavio-eu/skavio-agent-tools](./skavio-eu-skavio-agent-tools.md) | ⭐ — | — | 57/100 |
 | 461 | [ogasurfproject-jpg/horizon-shield](./ogasurfproject-jpg-horizon-shield.md) | ⭐ 2 | HTML | 56/100 |
 | 462 | [opexdev/core](./opexdev-core.md) | ⭐ 139 | Kotlin | 56/100 |
-| 463 | [EthyMoney/TsukiBot](./ethymoney-tsukibot.md) | ⭐ 67 | JavaScript | 56/100 |
-| 464 | [stefanberger/swtpm](./stefanberger-swtpm.md) | ⭐ 834 | C | 56/100 |
+| 463 | [stefanberger/swtpm](./stefanberger-swtpm.md) | ⭐ 834 | C | 56/100 |
+| 464 | [EthyMoney/TsukiBot](./ethymoney-tsukibot.md) | ⭐ 67 | JavaScript | 56/100 |
 | 465 | [Pymmdrza/Rich-Address-Wallet](./pymmdrza-rich-address-wallet.md) | ⭐ 401 | — | 56/100 |
 | 466 | [mikegianfelice/Hunter](./mikegianfelice-hunter.md) | ⭐ 40 | Python | 56/100 |
 | 467 | [MetaMask/metamask-docs](./metamask-metamask-docs.md) | ⭐ 870 | MDX | 56/100 |
 | 468 | [ipsilon/evmone](./ipsilon-evmone.md) | ⭐ 981 | C++ | 56/100 |
-| 469 | [solana-program/token](./solana-program-token.md) | ⭐ 210 | Rust | 56/100 |
+| 469 | [solana-program/token](./solana-program-token.md) | ⭐ 211 | Rust | 56/100 |
 | 470 | [solana-foundation/solana-com](./solana-foundation-solana-com.md) | ⭐ 529 | MDX | 56/100 |
 | 471 | [Commit-Boost/commit-boost-client](./commit-boost-commit-boost-client.md) | ⭐ 140 | Rust | 56/100 |
 | 472 | [OpenZeppelin/openzeppelin-monitor](./openzeppelin-openzeppelin-monitor.md) | ⭐ 147 | Rust | 56/100 |
@@ -502,8 +502,8 @@
 | 492 | [romankurnovskii/etemaro](./romankurnovskii-etemaro.md) | ⭐ 42 | TypeScript | 55/100 |
 | 493 | [zhaozg/lua-openssl](./zhaozg-lua-openssl.md) | ⭐ 316 | C | 55/100 |
 | 494 | [massalabs/massa](./massalabs-massa.md) | ⭐ 5.5k | Rust | 55/100 |
-| 495 | [AmbireTech/extension](./ambiretech-extension.md) | ⭐ 72 | TypeScript | 55/100 |
-| 496 | [GLEECBTC/gleec-wallet](./gleecbtc-gleec-wallet.md) | ⭐ 292 | Dart | 55/100 |
+| 495 | [GLEECBTC/gleec-wallet](./gleecbtc-gleec-wallet.md) | ⭐ 292 | Dart | 55/100 |
+| 496 | [AmbireTech/extension](./ambiretech-extension.md) | ⭐ 72 | TypeScript | 55/100 |
 | 497 | [joinmarket-webui/jam](./joinmarket-webui-jam.md) | ⭐ 335 | TypeScript | 55/100 |
 | 498 | [hockeypuck/hockeypuck](./hockeypuck-hockeypuck.md) | ⭐ 382 | Go | 55/100 |
 | 499 | [tink-crypto/tink-go](./tink-crypto-tink-go.md) | ⭐ 286 | Go | 55/100 |
@@ -516,7 +516,7 @@
 | 506 | [Shyft-to/solana-defi](./shyft-to-solana-defi.md) | ⭐ 355 | Rust | 55/100 |
 | 507 | [hyperledger-cacti/cacti](./hyperledger-cacti-cacti.md) | ⭐ 412 | TypeScript | 55/100 |
 | 508 | [dfinity/examples](./dfinity-examples.md) | ⭐ 612 | Rust | 55/100 |
-| 509 | [chainbase-labs/Agentkey](./chainbase-labs-agentkey.md) | ⭐ 654 | Shell | 55/100 |
+| 509 | [chainbase-labs/Agentkey](./chainbase-labs-agentkey.md) | ⭐ 655 | Shell | 55/100 |
 | 510 | [gear-tech/gear](./gear-tech-gear.md) | ⭐ 263 | Rust | 55/100 |
 | 511 | [mwarning/KadNode](./mwarning-kadnode.md) | ⭐ 441 | C | 55/100 |
 | 512 | [paradigmxyz/solar](./paradigmxyz-solar.md) | ⭐ 613 | Rust | 55/100 |
@@ -551,7 +551,7 @@
 | 541 | [nervosnetwork/ckb-vm](./nervosnetwork-ckb-vm.md) | ⭐ 422 | Rust | 54/100 |
 | 542 | [andrerfneves/lightning-address](./andrerfneves-lightning-address.md) | ⭐ 415 | JavaScript | 54/100 |
 | 543 | [boundless-xyz/boundless](./boundless-xyz-boundless.md) | ⭐ 193 | Rust | 54/100 |
-| 544 | [skyf0l/RsaCracker](./skyf0l-rsacracker.md) | ⭐ 160 | Rust | 54/100 |
+| 544 | [skyf0l/RsaCracker](./skyf0l-rsacracker.md) | ⭐ 159 | Rust | 54/100 |
 | 545 | [0xfnzero/solana-streamer](./0xfnzero-solana-streamer.md) | ⭐ 188 | Rust | 54/100 |
 | 546 | [firedancer-io/firedancer](./firedancer-io-firedancer.md) | ⭐ 1.6k | C | 54/100 |
 | 547 | [shocknet/Lightning.Pub](./shocknet-lightning.pub.md) | ⭐ 97 | TypeScript | 54/100 |
@@ -579,12 +579,12 @@
 | 569 | [rustyharbor308774/Ethereum-bot](./rustyharbor308774-ethereum-bot.md) | ⭐ 313 | Solidity | 53/100 |
 | 570 | [wizardsardine/liana](./wizardsardine-liana.md) | ⭐ 472 | Rust | 53/100 |
 | 571 | [yetanotherco/aligned_layer](./yetanotherco-aligned-layer.md) | ⭐ 314 | Rust | 53/100 |
-| 572 | [PrismRebalance/Prism](./prismrebalance-prism.md) | ⭐ 22 | TypeScript | 53/100 |
-| 573 | [EpochFunding/Epoch](./epochfunding-epoch.md) | ⭐ 24 | TypeScript | 53/100 |
-| 574 | [QuillReports/Quill](./quillreports-quill.md) | ⭐ 22 | TypeScript | 53/100 |
+| 572 | [EpochFunding/Epoch](./epochfunding-epoch.md) | ⭐ 24 | TypeScript | 53/100 |
+| 573 | [QuillReports/Quill](./quillreports-quill.md) | ⭐ 22 | TypeScript | 53/100 |
+| 574 | [PrismRebalance/Prism](./prismrebalance-prism.md) | ⭐ 22 | TypeScript | 53/100 |
 | 575 | [RaoFoundation/subtensor](./raofoundation-subtensor.md) | ⭐ 403 | Rust | 53/100 |
 | 576 | [brndnmtthws/dryoc](./brndnmtthws-dryoc.md) | ⭐ 347 | Rust | 53/100 |
-| 577 | [wmaslonek/guardian-db](./wmaslonek-guardian-db.md) | ⭐ 215 | Rust | 53/100 |
+| 577 | [wmaslonek/guardian-db](./wmaslonek-guardian-db.md) | ⭐ 214 | Rust | 53/100 |
 | 578 | [MixinNetwork/ios-app](./mixinnetwork-ios-app.md) | ⭐ 527 | Swift | 53/100 |
 | 579 | [rust-stdx/stdx](./rust-stdx-stdx.md) | ⭐ 366 | Rust | 53/100 |
 | 580 | [richkuo/go-trader](./richkuo-go-trader.md) | ⭐ 366 | Go | 53/100 |
@@ -608,8 +608,8 @@
 | 598 | [BlockRunAI/Franklin](./blockrunai-franklin.md) | ⭐ 564 | TypeScript | 53/100 |
 | 599 | [YaroslavBaienko/marma-crypto-protocol](./yaroslavbaienko-marma-crypto-protocol.md) | ⭐ 1 | Python | 52/100 |
 | 600 | [IntersectMBO/cardano-ledger](./intersectmbo-cardano-ledger.md) | ⭐ 298 | Haskell | 52/100 |
-| 601 | [Drix10/ai-resources](./drix10-ai-resources.md) | ⭐ 128 | — | 52/100 |
-| 602 | [morpho-org/morpho-blue-oracles](./morpho-org-morpho-blue-oracles.md) | ⭐ 123 | Solidity | 52/100 |
+| 601 | [morpho-org/morpho-blue-oracles](./morpho-org-morpho-blue-oracles.md) | ⭐ 123 | Solidity | 52/100 |
+| 602 | [Drix10/ai-resources](./drix10-ai-resources.md) | ⭐ 128 | — | 52/100 |
 | 603 | [nirholas/PAI](./nirholas-pai.md) | ⭐ 115 | Shell | 52/100 |
 | 604 | [novasamatech/nova-wallet-ios](./novasamatech-nova-wallet-ios.md) | ⭐ 66 | Swift | 52/100 |
 | 605 | [bitaxeorg/ESP-Miner](./bitaxeorg-esp-miner.md) | ⭐ 993 | C | 52/100 |
@@ -633,9 +633,9 @@
 | 623 | [Synthetixio/SIPs](./synthetixio-sips.md) | ⭐ 119 | Jupyter Notebook | 51/100 |
 | 624 | [ErcinDedeoglu/crypto-market-data](./ercindedeoglu-crypto-market-data.md) | ⭐ 75 | — | 51/100 |
 | 625 | [solana-mobile/mobile-wallet-adapter](./solana-mobile-mobile-wallet-adapter.md) | ⭐ 329 | TypeScript | 51/100 |
-| 626 | [gemwalletcom/wallet](./gemwalletcom-wallet.md) | ⭐ 412 | Rust | 51/100 |
+| 626 | [sanbir/evm-hack-registry](./sanbir-evm-hack-registry.md) | ⭐ 65 | Solidity | 51/100 |
 | 627 | [balancer/frontend-monorepo](./balancer-frontend-monorepo.md) | ⭐ 38 | TypeScript | 51/100 |
-| 628 | [sanbir/evm-hack-registry](./sanbir-evm-hack-registry.md) | ⭐ 65 | Solidity | 51/100 |
+| 628 | [gemwalletcom/wallet](./gemwalletcom-wallet.md) | ⭐ 412 | Rust | 51/100 |
 | 629 | [mynodebtc/mynode](./mynodebtc-mynode.md) | ⭐ 745 | HTML | 51/100 |
 | 630 | [tink-crypto/tink-java](./tink-crypto-tink-java.md) | ⭐ 313 | Java | 51/100 |
 | 631 | [OriginProtocol/origin-dollar](./originprotocol-origin-dollar.md) | ⭐ 154 | JavaScript | 51/100 |
@@ -671,8 +671,8 @@
 | 661 | [impierce/identity-wallet](./impierce-identity-wallet.md) | ⭐ 128 | Rust | 50/100 |
 | 662 | [axiom-crypto/halo2-lib](./axiom-crypto-halo2-lib.md) | ⭐ 314 | Rust | 50/100 |
 | 663 | [stacks-sbtc/sbtc](./stacks-sbtc-sbtc.md) | ⭐ 579 | Rust | 50/100 |
-| 664 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 108 | Rust | 50/100 |
-| 665 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 290 | Rust | 50/100 |
+| 664 | [alloy-rs/svm-rs](./alloy-rs-svm-rs.md) | ⭐ 290 | Rust | 50/100 |
+| 665 | [alloy-rs/chains](./alloy-rs-chains.md) | ⭐ 108 | Rust | 50/100 |
 | 666 | [getAlby/awesome-nwc](./getalby-awesome-nwc.md) | ⭐ 98 | — | 50/100 |
 | 667 | [nimiq/core-rs-albatross](./nimiq-core-rs-albatross.md) | ⭐ 172 | Rust | 50/100 |
 | 668 | [Bonasa-Tech/manifest](./bonasa-tech-manifest.md) | ⭐ 159 | Rust | 50/100 |
@@ -784,7 +784,7 @@
 | 774 | [flashbots/contender](./flashbots-contender.md) | ⭐ 144 | Rust | 44/100 |
 | 775 | [bitcoin-s/bitcoin-s](./bitcoin-s-bitcoin-s.md) | ⭐ 385 | Scala | 44/100 |
 | 776 | [dfinity/internet-identity](./dfinity-internet-identity.md) | ⭐ 546 | Rust | 44/100 |
-| 777 | [FinAegis/core-banking-prototype-laravel](./finaegis-core-banking-prototype-laravel.md) | ⭐ 209 | PHP | 44/100 |
+| 777 | [FinAegis/core-banking-prototype-laravel](./finaegis-core-banking-prototype-laravel.md) | ⭐ 210 | PHP | 44/100 |
 | 778 | [shobrook/BitVision](./shobrook-bitvision.md) | ⭐ 1.2k | JavaScript | 43/100 |
 | 779 | [gemwalletcom/core](./gemwalletcom-core.md) | ⭐ 150 | Rust | 43/100 |
 | 780 | [0xMiden/crypto](./0xmiden-crypto.md) | ⭐ 136 | Rust | 43/100 |

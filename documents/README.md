@@ -151,7 +151,7 @@
 | 141 | [suitenumerique/drive](./suitenumerique-drive.md) | ⭐ 482 | JavaScript | 63/100 |
 | 142 | [tagspaces/tagspaces](./tagspaces-tagspaces.md) | ⭐ 5.4k | TypeScript | 63/100 |
 | 143 | [gmsgowtham/react-native-marked](./gmsgowtham-react-native-marked.md) | ⭐ 330 | TypeScript | 63/100 |
-| 144 | [unhappychoice/mdts](./unhappychoice-mdts.md) | ⭐ 261 | TypeScript | 63/100 |
+| 144 | [unhappychoice/mdts](./unhappychoice-mdts.md) | ⭐ 262 | TypeScript | 63/100 |
 | 145 | [plasmicapp/plasmic](./plasmicapp-plasmic.md) | ⭐ 7.2k | TypeScript | 63/100 |
 | 146 | [pH7Software/pH7-Social-Dating-CMS](./ph7software-ph7-social-dating-cms.md) | ⭐ 1.1k | PHP | 62/100 |
 | 147 | [fecommunity/reactpress](./fecommunity-reactpress.md) | ⭐ 752 | TypeScript | 62/100 |
@@ -222,7 +222,7 @@
 | 212 | [bangle-io/bangle-io](./bangle-io-bangle-io.md) | ⭐ 1.2k | TypeScript | 60/100 |
 | 213 | [snownico0722/PaperTodo](./snownico0722-papertodo.md) | ⭐ 2.8k | C# | 60/100 |
 | 214 | [zokrezyl/yetty](./zokrezyl-yetty.md) | ⭐ 96 | C | 60/100 |
-| 215 | [gnoviawan/termul](./gnoviawan-termul.md) | ⭐ 304 | TypeScript | 60/100 |
+| 215 | [gnoviawan/termul](./gnoviawan-termul.md) | ⭐ 306 | TypeScript | 60/100 |
 | 216 | [readium/swift-toolkit](./readium-swift-toolkit.md) | ⭐ 578 | Swift | 60/100 |
 | 217 | [CollaboraOnline/online](./collaboraonline-online.md) | ⭐ 3.4k | Shell | 60/100 |
 | 218 | [tenngoxars/WeMD](./tenngoxars-wemd.md) | ⭐ 994 | TypeScript | 60/100 |
@@ -299,11 +299,11 @@
 | 289 | [dromara/ujcms](./dromara-ujcms.md) | ⭐ 673 | Java | 57/100 |
 | 290 | [jhaygood86/PeachPDF](./jhaygood86-peachpdf.md) | ⭐ 617 | C# | 57/100 |
 | 291 | [AstraBert/PdfItDown](./astrabert-pdfitdown.md) | ⭐ 251 | Rust | 57/100 |
-| 292 | [zeelsheladiya/Awesome-IDEs](./zeelsheladiya-awesome-ides.md) | ⭐ 249 | Markdown | 57/100 |
+| 292 | [zeelsheladiya/Awesome-IDEs](./zeelsheladiya-awesome-ides.md) | ⭐ 250 | Markdown | 57/100 |
 | 293 | [cms-sw/cmssw](./cms-sw-cmssw.md) | ⭐ 1.4k | C++ | 57/100 |
 | 294 | [neos/neos-ui](./neos-neos-ui.md) | ⭐ 265 | TypeScript | 57/100 |
 | 295 | [Expensify/react-native-live-markdown](./expensify-react-native-live-markdown.md) | ⭐ 1.3k | TypeScript | 57/100 |
-| 296 | [andes90/collabmd](./andes90-collabmd.md) | ⭐ 289 | JavaScript | 57/100 |
+| 296 | [andes90/collabmd](./andes90-collabmd.md) | ⭐ 290 | JavaScript | 57/100 |
 | 297 | [benjajaja/mdfried](./benjajaja-mdfried.md) | ⭐ 538 | Rust | 57/100 |
 | 298 | [Peergos/Peergos](./peergos-peergos.md) | ⭐ 2.6k | Java | 57/100 |
 | 299 | [Burthcer/IHatePDF](./burthcer-ihatepdf.md) | ⭐ 1 | TypeScript | 57/100 |
@@ -311,8 +311,8 @@
 | 301 | [Shahedr/data-quality-detective](./shahedr-data-quality-detective.md) | ⭐ — | Python | 56/100 |
 | 302 | [erekola/markdown-parity-check](./erekola-markdown-parity-check.md) | ⭐ — | TypeScript | 56/100 |
 | 303 | [pulldown-cmark/pulldown-cmark](./pulldown-cmark-pulldown-cmark.md) | ⭐ 2.8k | Rust | 56/100 |
-| 304 | [openooxml/betteroffice](./openooxml-betteroffice.md) | ⭐ 343 | Rust | 56/100 |
-| 305 | [ningg/Agentic-Design-Patterns-CN](./ningg-agentic-design-patterns-cn.md) | ⭐ 327 | Python | 56/100 |
+| 304 | [openooxml/betteroffice](./openooxml-betteroffice.md) | ⭐ 346 | Rust | 56/100 |
+| 305 | [ningg/Agentic-Design-Patterns-CN](./ningg-agentic-design-patterns-cn.md) | ⭐ 329 | Python | 56/100 |
 | 306 | [obsidianmd/obsidian-help](./obsidianmd-obsidian-help.md) | ⭐ 2k | JavaScript | 56/100 |
 | 307 | [channprj/markdowner](./channprj-markdowner.md) | ⭐ 28 | TypeScript | 56/100 |
 | 308 | [hanebox/ekphos](./hanebox-ekphos.md) | ⭐ 13 | Rust | 56/100 |
@@ -430,8 +430,8 @@
 | 420 | [ttu-ttu/ebook-reader](./ttu-ttu-ebook-reader.md) | ⭐ 1.1k | Svelte | 51/100 |
 | 421 | [spawnia/md-to-pdf](./spawnia-md-to-pdf.md) | ⭐ 171 | Rust | 51/100 |
 | 422 | [messense/mupdf-rs](./messense-mupdf-rs.md) | ⭐ 215 | Rust | 51/100 |
-| 423 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
-| 424 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 183 | Rust | 51/100 |
+| 423 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 183 | Rust | 51/100 |
+| 424 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
 | 425 | [CultivateLabs/storytime](./cultivatelabs-storytime.md) | ⭐ 743 | Ruby | 51/100 |
 | 426 | [clerkma/ptex-ng](./clerkma-ptex-ng.md) | ⭐ 307 | C | 51/100 |
 | 427 | [3xxx/engineercms](./3xxx-engineercms.md) | ⭐ 1.4k | Go | 51/100 |
@@ -698,8 +698,8 @@
 | 688 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |
 | 689 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ 12 | — | 38/100 |
 | 690 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ 36 | — | 38/100 |
-| 691 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
-| 692 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 691 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 692 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
 | 693 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 120 | — | 38/100 |
 | 694 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 262 | — | 38/100 |
 | 695 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ 24 | — | 38/100 |
@@ -715,8 +715,8 @@
 | 705 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
 | 706 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
 | 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 708 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
-| 709 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 708 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |
 | 711 | [grinev/boardown](./grinev-boardown.md) | ⭐ 46 | — | 38/100 |
 | 712 | [dsbitor/technotes-releases](./dsbitor-technotes-releases.md) | ⭐ 1 | — | 38/100 |
