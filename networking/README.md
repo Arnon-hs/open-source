@@ -549,7 +549,7 @@
 | 539 | [red-orbita/bulwark-gateway](./red-orbita-bulwark-gateway.md) | ⭐ 8 | — | 46/100 |
 | 540 | [libp2p/py-libp2p](./libp2p-py-libp2p.md) | ⭐ 629 | — | 46/100 |
 | 541 | [valnesfjord/tg-ws-proxy-rs](./valnesfjord-tg-ws-proxy-rs.md) | ⭐ 291 | Rust | 46/100 |
-| 542 | [crp4222/PrivAiTe](./crp4222-privaite.md) | ⭐ 63 | — | 46/100 |
+| 542 | [crp4222/PrivAiTe](./crp4222-privaite.md) | ⭐ 64 | — | 46/100 |
 | 543 | [YoulianBoshi/vpn](./youlianboshi-vpn.md) | ⭐ 5.5k | — | 46/100 |
 | 544 | [qr243vbi/nekobox](./qr243vbi-nekobox.md) | ⭐ 1.5k | C++ | 46/100 |
 | 545 | [davidmhewitt/torrential](./davidmhewitt-torrential.md) | ⭐ 142 | Rust | 46/100 |

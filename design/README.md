@@ -121,7 +121,7 @@
 | 111 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 1.2k | JavaScript | 48/100 |
 | 112 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 592 | Python | 47/100 |
 | 113 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 47/100 |
-| 114 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ 24 | — | 46/100 |
+| 114 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ 25 | — | 46/100 |
 | 115 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |
 | 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 678 | TypeScript | 46/100 |
 | 117 | [meta/astryx](./meta-astryx.md) | ⭐ 21.7k | — | 45/100 |
@@ -151,7 +151,7 @@
 | 141 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 42/100 |
 | 142 | [robbietilton/Compositor](./robbietilton-compositor.md) | ⭐ 18.6k | — | 41/100 |
 | 143 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ 883 | — | 41/100 |
-| 144 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 662 | — | 41/100 |
+| 144 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 746 | — | 41/100 |
 | 145 | [posterlet/amazing-posters](./posterlet-amazing-posters.md) | ⭐ 4 | — | 41/100 |
 | 146 | [nhunsaker/screenshot-to-tokens](./nhunsaker-screenshot-to-tokens.md) | ⭐ 7 | — | 41/100 |
 | 147 | [daneb/ai-system-design-primer](./daneb-ai-system-design-primer.md) | ⭐ 8 | — | 41/100 |
@@ -176,7 +176,7 @@
 | 166 | [Prometheus-000/strata](./prometheus-000-strata.md) | ⭐ 2 | — | 41/100 |
 | 167 | [TySteele1/318a38cb5725c692b2318d7a0246c953](./tysteele1-318a38cb5725c692b2318d7a0246c953.md) | ⭐ — | — | 41/100 |
 | 168 | [PJHkorea/discrete-filament-router](./pjhkorea-discrete-filament-router.md) | ⭐ — | — | 41/100 |
-| 169 | [Cascadia-PLM/Cascadia-App](./cascadia-plm-cascadia-app.md) | ⭐ 38 | — | 41/100 |
+| 169 | [Cascadia-PLM/Cascadia-App](./cascadia-plm-cascadia-app.md) | ⭐ 39 | — | 41/100 |
 | 170 | [gjaekz/rea-websites](./gjaekz-rea-websites.md) | ⭐ 3 | — | 40/100 |
 | 171 | [bryceelliot/website-launch-checklist](./bryceelliot-website-launch-checklist.md) | ⭐ — | — | 39/100 |
 | 172 | [carsten-riedel/Coree.Analyzers](./carsten-riedel-coree.analyzers.md) | ⭐ 1 | C# | 39/100 |

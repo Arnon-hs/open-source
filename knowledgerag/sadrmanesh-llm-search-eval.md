@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML · Security
+Knowledge/RAG · AI/ML · DevTools · Observability
 
 ## 📝 Summary
 
 ### English
 
-sadrmanesh/llm-search-eval: sadrmanesh/llm-search-eval helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sadrmanesh/llm-search-eval: sadrmanesh/llm-search-eval helps make internal knowledge searchable and usable by assistants.. Use it for index knowledge bases; improve search over documents. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-sadrmanesh/llm-search-eval: open-source проект в категориях AI/ML, Security. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+sadrmanesh/llm-search-eval: open-source проект в категориях Knowledge/RAG, AI/ML, DevTools, Observability. Практическое применение: index knowledge bases; improve search over documents. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-sadrmanesh/llm-search-eval：sadrmanesh/llm-search-eval helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+sadrmanesh/llm-search-eval：sadrmanesh/llm-search-eval helps make internal knowledge searchable and usable by assistants.。适合用于index knowledge bases、improve search over documents。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** sadrmanesh/llm-search-eval helps add AI capability without starting from a blank model stack.
+**Value:** sadrmanesh/llm-search-eval helps make internal knowledge searchable and usable by assistants.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- index knowledge bases
+- improve search over documents
+- ground assistant answers
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,19 +64,19 @@ sadrmanesh/llm-search-eval：sadrmanesh/llm-search-eval helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 58/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 200/100 |
-| stars | 10/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 10/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/sadrmanesh/llm-search-eval) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/sadrmanesh/llm-search-eval) · [← Back to Knowledgerag](./README.md)</sub>

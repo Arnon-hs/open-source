@@ -6,8 +6,8 @@ Only categories with at least 10 project cards have folders. The complete machin
 
 | Category | Project cards |
 | --- | ---: |
-| [AI/ML](../aiml/README.md) | 5,148 |
-| [Automation](../automation/README.md) | 1,671 |
+| [AI/ML](../aiml/README.md) | 5,146 |
+| [Automation](../automation/README.md) | 1,673 |
 | [Backend](../backend/README.md) | 993 |
 | [Cloud & Storage](../cloud--storage/README.md) | 639 |
 | [Communication](../communication/README.md) | 481 |
@@ -17,25 +17,25 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Database](../database/README.md) | 586 |
 | [Design](../design/README.md) | 196 |
 | [DevOps/Infra](../devopsinfra/README.md) | 548 |
-| [DevTools](../devtools/README.md) | 1,662 |
+| [DevTools](../devtools/README.md) | 1,663 |
 | [Documents](../documents/README.md) | 754 |
 | [Education](../education/README.md) | 34 |
 | [Frontend](../frontend/README.md) | 938 |
 | [Games & Graphics](../games--graphics/README.md) | 360 |
-| [Knowledge/RAG](../knowledgerag/README.md) | 651 |
-| [Libraries & SDKs](../libraries--sdks/README.md) | 281 |
+| [Knowledge/RAG](../knowledgerag/README.md) | 653 |
+| [Libraries & SDKs](../libraries--sdks/README.md) | 282 |
 | [Marketing](../marketing/README.md) | 39 |
-| [MCP](../mcp/README.md) | 3,005 |
-| [Misc](../misc/README.md) | 18,196 |
+| [MCP](../mcp/README.md) | 3,006 |
+| [Misc](../misc/README.md) | 18,197 |
 | [Mobile](../mobile/README.md) | 710 |
 | [Networking](../networking/README.md) | 679 |
 | [Observability](../observability/README.md) | 327 |
-| [Orchestration](../orchestration/README.md) | 2,501 |
+| [Orchestration](../orchestration/README.md) | 2,502 |
 | [Payments](../payments/README.md) | 393 |
 | [Product](../product/README.md) | 13 |
-| [Productivity](../productivity/README.md) | 365 |
+| [Productivity](../productivity/README.md) | 366 |
 | [Security](../security/README.md) | 510 |
-| [Templates](../templates/README.md) | 498 |
+| [Templates](../templates/README.md) | 499 |
 | [Trading](../trading/README.md) | 227 |
-| [Vertical Video](../vertical-video/README.md) | 170 |
+| [Vertical Video](../vertical-video/README.md) | 171 |
 | [Video Editing](../video-editing/README.md) | 625 |

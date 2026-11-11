@@ -1,6 +1,6 @@
 # ms-singh83/SkyGap
 
-[![Stars](https://img.shields.io/github/stars/ms-singh83/SkyGap?style=flat-square&color=yellow)](https://github.com/ms-singh83/SkyGap/stargazers) [![Forks](https://img.shields.io/github/forks/ms-singh83/SkyGap?style=flat-square&color=blue)](https://github.com/ms-singh83/SkyGap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ms-singh83/SkyGap?style=flat-square&color=yellow)](https://github.com/ms-singh83/SkyGap/stargazers) [![Forks](https://img.shields.io/github/forks/ms-singh83/SkyGap?style=flat-square&color=blue)](https://github.com/ms-singh83/SkyGap/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-10-12 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ ms-singh83/SkyGap：ms-singh83/SkyGap helps teams reuse service infrastructure i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 50/100 |
-| production | 50/100 |
-| outlook | 52/100 |
+| production | 43/100 |
+| outlook | 45/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

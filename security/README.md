@@ -226,8 +226,8 @@
 | 216 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 360 | Java | 53/100 |
 | 217 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 581 | Nix | 53/100 |
 | 218 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 452 | TypeScript | 53/100 |
-| 219 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
-| 220 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
+| 219 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
+| 220 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
 | 221 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 222 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 595 | C | 53/100 |
 | 223 | [tkhq/qos](./tkhq-qos.md) | ⭐ 125 | Rust | 53/100 |
@@ -274,9 +274,9 @@
 | 264 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 439 | HTML | 50/100 |
 | 265 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 266 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
-| 267 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 268 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
-| 269 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 267 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
+| 268 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 269 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 270 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 271 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 530 | JavaScript | 50/100 |
 | 272 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.1k | TypeScript | 50/100 |
@@ -395,7 +395,7 @@
 | 385 | [movray/meles](./movray-meles.md) | ⭐ — | — | 41/100 |
 | 386 | [forcequitOS/worse_query](./forcequitos-worse-query.md) | ⭐ 415 | — | 41/100 |
 | 387 | [janpmz/mybox](./janpmz-mybox.md) | ⭐ — | — | 41/100 |
-| 388 | [ClementG91/winsight](./clementg91-winsight.md) | ⭐ 8 | — | 41/100 |
+| 388 | [ClementG91/winsight](./clementg91-winsight.md) | ⭐ 10 | — | 41/100 |
 | 389 | [dvirby6/developer-shield](./dvirby6-developer-shield.md) | ⭐ 2 | — | 41/100 |
 | 390 | [en/code-security](./en-code-security.md) | ⭐ — | — | 41/100 |
 | 391 | [danoszz/penthera](./danoszz-penthera.md) | ⭐ 102 | — | 41/100 |
@@ -428,7 +428,7 @@
 | 418 | [emir/claude-s40](./emir-claude-s40.md) | ⭐ — | — | 41/100 |
 | 419 | [Lovejoy-Zero/BlackWire-Arduino](./lovejoy-zero-blackwire-arduino.md) | ⭐ 2 | — | 41/100 |
 | 420 | [shadcn-ui/ui](./shadcn-ui-ui.md) | ⭐ — | — | 41/100 |
-| 421 | [cloudflare/security-audit-skill](./cloudflare-security-audit-skill.md) | ⭐ 68.6k | — | 41/100 |
+| 421 | [cloudflare/security-audit-skill](./cloudflare-security-audit-skill.md) | ⭐ 69.8k | — | 41/100 |
 | 422 | [BZDevelopments/LaunchPad-Lite](./bzdevelopments-launchpad-lite.md) | ⭐ — | — | 41/100 |
 | 423 | [jedisct1/turbocrypt](./jedisct1-turbocrypt.md) | ⭐ 136 | — | 41/100 |
 | 424 | [theronic/eacl](./theronic-eacl.md) | ⭐ 98 | — | 41/100 |
@@ -503,8 +503,8 @@
 | 493 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 167 | Rust | 38/100 |
 | 494 | [SertaCanbey/IDSignal](./sertacanbey-idsignal.md) | ⭐ 1 | JavaScript | 37/100 |
 | 495 | [TemujinCalidius/FediHome](./temujincalidius-fedihome.md) | ⭐ 10 | — | 37/100 |
-| 496 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
-| 497 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 496 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 497 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
 | 498 | [jaredhanson/passport](./jaredhanson-passport.md) | ⭐ 23.5k | — | 37/100 |
 | 499 | [wrium/password-strength](./wrium-password-strength.md) | ⭐ — | JavaScript | 37/100 |
 | 500 | [IWEBai/railo-action](./iwebai-railo-action.md) | ⭐ — | — | 36/100 |

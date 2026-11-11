@@ -65,18 +65,18 @@ CognizTech/stateroot：CognizTech/stateroot helps turn isolated prompts and tool
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 52/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 67/100 |
-| adoption | 14/100 |
-| categoryMatchCount | 400/100 |
-| stars | 17/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 17/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 52/100 |
+| recency | 80/100 |
+| adoption | 14/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

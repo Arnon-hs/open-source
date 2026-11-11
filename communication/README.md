@@ -292,7 +292,7 @@
 | 282 | [aio-libs/aiosmtpd](./aio-libs-aiosmtpd.md) | ⭐ 374 | Python | 49/100 |
 | 283 | [michaelmagan/OpenHuman](./michaelmagan-openhuman.md) | ⭐ 11 | — | 48/100 |
 | 284 | [Groundmail/groundhog](./groundmail-groundhog.md) | ⭐ 2 | — | 48/100 |
-| 285 | [d99kris/nmail](./d99kris-nmail.md) | ⭐ 268 | — | 48/100 |
+| 285 | [d99kris/nmail](./d99kris-nmail.md) | ⭐ 267 | — | 48/100 |
 | 286 | [roman-16/proton-cli](./roman-16-proton-cli.md) | ⭐ 109 | — | 48/100 |
 | 287 | [joshumax/git2imap](./joshumax-git2imap.md) | ⭐ 1 | — | 48/100 |
 | 288 | [slackhq/hakana](./slackhq-hakana.md) | ⭐ 111 | Rust | 48/100 |
@@ -407,7 +407,7 @@
 | 397 | [achempion/tlx](./achempion-tlx.md) | ⭐ — | — | 41/100 |
 | 398 | [Inkline-Verify/ProofOfHuman](./inkline-verify-proofofhuman.md) | ⭐ 8 | — | 41/100 |
 | 399 | [Aaronmike481/BreachScanner](./aaronmike481-breachscanner.md) | ⭐ 1 | — | 41/100 |
-| 400 | [bilalyazicioglu/tincan-cli](./bilalyazicioglu-tincan-cli.md) | ⭐ 236 | — | 41/100 |
+| 400 | [bilalyazicioglu/tincan-cli](./bilalyazicioglu-tincan-cli.md) | ⭐ 238 | — | 41/100 |
 | 401 | [theletterf/comic-chat-ai](./theletterf-comic-chat-ai.md) | ⭐ — | — | 41/100 |
 | 402 | [OlegIGalkin/tendayweekcalendar](./olegigalkin-tendayweekcalendar.md) | ⭐ 1 | — | 41/100 |
 | 403 | [bwasti/serverside.chat](./bwasti-serverside.chat.md) | ⭐ — | — | 41/100 |
@@ -456,7 +456,7 @@
 | 446 | [Fake4d/claude-school](./fake4d-claude-school.md) | ⭐ 2 | — | 38/100 |
 | 447 | [Nellix/sonic-chat](./nellix-sonic-chat.md) | ⭐ 5 | — | 38/100 |
 | 448 | [Tonterias/h2aichat](./tonterias-h2aichat.md) | ⭐ 4 | — | 38/100 |
-| 449 | [chddaniel/chatpack](./chddaniel-chatpack.md) | ⭐ 225 | — | 38/100 |
+| 449 | [chddaniel/chatpack](./chddaniel-chatpack.md) | ⭐ 226 | — | 38/100 |
 | 450 | [EvanZhouDev/calendar-tetris](./evanzhoudev-calendar-tetris.md) | ⭐ 5 | — | 38/100 |
 | 451 | [bctnry/OpenSyzygy](./bctnry-opensyzygy.md) | ⭐ 1 | — | 38/100 |
 | 452 | [Emn4tor/Seal](./emn4tor-seal.md) | ⭐ 17 | — | 38/100 |

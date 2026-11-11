@@ -240,7 +240,7 @@
 | 230 | [mohitdebian/relay](./mohitdebian-relay.md) | ⭐ — | TypeScript | 46/100 |
 | 231 | [kontext-security/sandy](./kontext-security-sandy.md) | ⭐ 5 | — | 46/100 |
 | 232 | [Somnora/GSPOT](./somnora-gspot.md) | ⭐ 7 | — | 46/100 |
-| 233 | [CortexFlow/CortexBrain](./cortexflow-cortexbrain.md) | ⭐ 93 | — | 46/100 |
+| 233 | [CortexFlow/CortexBrain](./cortexflow-cortexbrain.md) | ⭐ 94 | — | 46/100 |
 | 234 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 334 | Java | 46/100 |
 | 235 | [lxyeternal/NPMAnalysis](./lxyeternal-npmanalysis.md) | ⭐ 3 | — | 46/100 |
 | 236 | [mintlify/agent-traffic](./mintlify-agent-traffic.md) | ⭐ 12 | — | 45/100 |

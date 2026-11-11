@@ -341,8 +341,8 @@
 | 331 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 332 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 333 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 453 | TypeScript | 58/100 |
-| 334 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
-| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 334 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
 | 336 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 337 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 338 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -491,8 +491,8 @@
 | 481 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 447 | Go | 52/100 |
 | 482 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 483 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 486 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 61 | Python | 51/100 |
 | 487 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 490 | Jupyter Notebook | 51/100 |
 | 488 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
@@ -523,7 +523,7 @@
 | 513 | [Azure/azure-functions-core-tools](./azure-azure-functions-core-tools.md) | ⭐ 1.5k | C# | 49/100 |
 | 514 | [alekseev04051988-blip/ai-cost-calculator](./alekseev04051988-blip-ai-cost-calculator.md) | ⭐ — | — | 48/100 |
 | 515 | [datareceipts/data-receipts](./datareceipts-data-receipts.md) | ⭐ — | — | 48/100 |
-| 516 | [awesome-foundation/cfnrain](./awesome-foundation-cfnrain.md) | ⭐ 18 | — | 48/100 |
+| 516 | [awesome-foundation/cfnrain](./awesome-foundation-cfnrain.md) | ⭐ 20 | — | 48/100 |
 | 517 | [kamsteph/finops-scan](./kamsteph-finops-scan.md) | ⭐ 3 | — | 48/100 |
 | 518 | [R3n3r0/Nexo](./r3n3r0-nexo.md) | ⭐ 9 | — | 48/100 |
 | 519 | [xbill9/zombiescan-gcp](./xbill9-zombiescan-gcp.md) | ⭐ — | — | 48/100 |
@@ -581,7 +581,7 @@
 | 571 | [SIENNA-IT-Solutions/s3gw](./sienna-it-solutions-s3gw.md) | ⭐ 3 | — | 41/100 |
 | 572 | [joeiko3424-svg/oikonomia-benchmarks](./joeiko3424-svg-oikonomia-benchmarks.md) | ⭐ — | — | 41/100 |
 | 573 | [ocelhq/ocel](./ocelhq-ocel.md) | ⭐ 5 | — | 41/100 |
-| 574 | [bompus/sigflint](./bompus-sigflint.md) | ⭐ 2 | — | 41/100 |
+| 574 | [bompus/sigflint](./bompus-sigflint.md) | ⭐ 3 | — | 41/100 |
 | 575 | [Millillion/lasm](./millillion-lasm.md) | ⭐ 104 | — | 41/100 |
 | 576 | [amazonlinux/amazon-linux-2023](./amazonlinux-amazon-linux-2023.md) | ⭐ — | — | 41/100 |
 | 577 | [genbs/reactive-leds](./genbs-reactive-leds.md) | ⭐ 13 | — | 41/100 |

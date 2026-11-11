@@ -1,6 +1,6 @@
 # psrockstar098/yatta.js
 
-[![Stars](https://img.shields.io/github/stars/psrockstar098/yatta.js?style=flat-square&color=yellow)](https://github.com/psrockstar098/yatta.js/stargazers) [![Forks](https://img.shields.io/github/forks/psrockstar098/yatta.js?style=flat-square&color=blue)](https://github.com/psrockstar098/yatta.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/psrockstar098/yatta.js?style=flat-square&color=yellow)](https://github.com/psrockstar098/yatta.js/stargazers) [![Forks](https://img.shields.io/github/forks/psrockstar098/yatta.js?style=flat-square&color=blue)](https://github.com/psrockstar098/yatta.js/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Backend-as-a-server for Bun. Database, auth, mail, storage, realtime, jobs and observability in one runtime. No build step. MIT licensed.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ psrockstar098/yatta.js：psrockstar098/yatta.js helps teams reuse service infras
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 56/100 |
+| quality | 51/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 75/100 |
+| production | 61/100 |
+| outlook | 68/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 100/100 |
 | stars | 18/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

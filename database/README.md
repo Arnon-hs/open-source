@@ -342,7 +342,7 @@
 | 332 | [frizurd/postquel](./frizurd-postquel.md) | ⭐ 3 | — | 48/100 |
 | 333 | [abhiraj-ku/iCli](./abhiraj-ku-icli.md) | ⭐ 2 | — | 48/100 |
 | 334 | [karlis-vagalis/banker](./karlis-vagalis-banker.md) | ⭐ 2 | — | 48/100 |
-| 335 | [ClickHouse/walshadow](./clickhouse-walshadow.md) | ⭐ 261 | — | 48/100 |
+| 335 | [ClickHouse/walshadow](./clickhouse-walshadow.md) | ⭐ 262 | — | 48/100 |
 | 336 | [launix-de/memcp](./launix-de-memcp.md) | ⭐ 69 | — | 48/100 |
 | 337 | [timgordontg/engrim](./timgordontg-engrim.md) | ⭐ 305 | — | 48/100 |
 | 338 | [sadofriod/graphrag-ts](./sadofriod-graphrag-ts.md) | ⭐ 9 | — | 48/100 |
@@ -411,7 +411,7 @@
 | 401 | [batcoder-1/Redis-Ratekit](./batcoder-1-redis-ratekit.md) | ⭐ — | — | 44/100 |
 | 402 | [saums-1391/sqlthon](./saums-1391-sqlthon.md) | ⭐ 6 | — | 44/100 |
 | 403 | [rogerbinns/apsw](./rogerbinns-apsw.md) | ⭐ 955 | — | 44/100 |
-| 404 | [configstream/configstream](./configstream-configstream.md) | ⭐ 4 | — | 44/100 |
+| 404 | [configstream/configstream](./configstream-configstream.md) | ⭐ 5 | — | 44/100 |
 | 405 | [karanrajsurya/CatQueue](./karanrajsurya-catqueue.md) | ⭐ 4 | — | 44/100 |
 | 406 | [maayanlevy/mysql-ailike](./maayanlevy-mysql-ailike.md) | ⭐ 4 | — | 44/100 |
 | 407 | [IgnaceMaes/redis-lua-py](./ignacemaes-redis-lua-py.md) | ⭐ 10 | — | 44/100 |
@@ -540,7 +540,7 @@
 | 530 | [joshmeek/otlet](./joshmeek-otlet.md) | ⭐ 3 | — | 38/100 |
 | 531 | [NikolayS/pgsimcity](./nikolays-pgsimcity.md) | ⭐ 777 | — | 38/100 |
 | 532 | [Alurith/sqlitewatch](./alurith-sqlitewatch.md) | ⭐ 3 | — | 38/100 |
-| 533 | [berabuddies/redis-poc](./berabuddies-redis-poc.md) | ⭐ 521 | — | 38/100 |
+| 533 | [berabuddies/redis-poc](./berabuddies-redis-poc.md) | ⭐ 522 | — | 38/100 |
 | 534 | [osmanahmadxai/SYNCLE](./osmanahmadxai-syncle.md) | ⭐ 53 | — | 38/100 |
 | 535 | [SynnoDB/SynnoDB](./synnodb-synnodb.md) | ⭐ 28 | — | 38/100 |
 | 536 | [cursor/minisqlite](./cursor-minisqlite.md) | ⭐ 292 | — | 38/100 |
@@ -548,7 +548,7 @@
 | 538 | [rozhnev/university-db](./rozhnev-university-db.md) | ⭐ 6 | — | 38/100 |
 | 539 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 540 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
-| 541 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 428 | — | 38/100 |
+| 541 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 431 | — | 38/100 |
 | 542 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 69 | — | 38/100 |
 | 543 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
 | 544 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
@@ -560,7 +560,7 @@
 | 550 | [ch-bas/cctv-camera-database](./ch-bas-cctv-camera-database.md) | ⭐ 272 | — | 38/100 |
 | 551 | [matte97p/rlsgrid](./matte97p-rlsgrid.md) | ⭐ 7 | — | 38/100 |
 | 552 | [kyuuri1791/schema_ferry](./kyuuri1791-schema-ferry.md) | ⭐ 1 | — | 38/100 |
-| 553 | [columnar-tech/duckdb-adbc-client](./columnar-tech-duckdb-adbc-client.md) | ⭐ 51 | — | 38/100 |
+| 553 | [columnar-tech/duckdb-adbc-client](./columnar-tech-duckdb-adbc-client.md) | ⭐ 52 | — | 38/100 |
 | 554 | [nikitazigman/badger](./nikitazigman-badger.md) | ⭐ 19 | — | 38/100 |
 | 555 | [commandprompt/open_pg_tde](./commandprompt-open-pg-tde.md) | ⭐ 15 | — | 38/100 |
 | 556 | [commandprompt/plruby](./commandprompt-plruby.md) | ⭐ 36 | — | 38/100 |
