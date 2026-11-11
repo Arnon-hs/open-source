@@ -203,7 +203,7 @@
 | 193 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ 272 | — | 38/100 |
 | 194 | [boya16573-design/Cube3.in](./boya16573-design-cube3.in.md) | ⭐ — | HTML | 36/100 |
 | 195 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |
-| 196 | [paper-design/shaders](./paper-design-shaders.md) | ⭐ 3.9k | — | 29/100 |
+| 196 | [paper-design/shaders](./paper-design-shaders.md) | ⭐ 4k | — | 29/100 |
 
 ---
 

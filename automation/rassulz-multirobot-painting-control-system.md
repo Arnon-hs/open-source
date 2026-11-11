@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML
+Automation · Observability
 
 ## 📝 Summary
 
 ### English
 
-rassulz/multirobot_painting_control_system: rassulz/multirobot_painting_control_system helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+rassulz/multirobot_painting_control_system: rassulz/multirobot_painting_control_system helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-rassulz/multirobot_painting_control_system: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+rassulz/multirobot_painting_control_system: open-source проект в категориях Automation, Observability. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-rassulz/multirobot_painting_control_system：rassulz/multirobot_painting_control_system helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+rassulz/multirobot_painting_control_system：rassulz/multirobot_painting_control_system helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** rassulz/multirobot_painting_control_system helps add AI capability without starting from a blank model stack.
+**Value:** rassulz/multirobot_painting_control_system helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,19 +65,19 @@ rassulz/multirobot_painting_control_system：rassulz/multirobot_painting_control
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 46/100 |
-| integration | 30/100 |
-| production | 49/100 |
-| outlook | 56/100 |
-| adoption | 13/100 |
-| categoryMatchCount | 100/100 |
-| stars | 13/100 |
 | forks | 12/100 |
-| recency | 60/100 |
+| stars | 13/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 46/100 |
+| recency | 60/100 |
+| adoption | 13/100 |
+| production | 49/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/rassulz/multirobot_painting_control_system) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/rassulz/multirobot_painting_control_system) · [← Back to Automation](./README.md)</sub>

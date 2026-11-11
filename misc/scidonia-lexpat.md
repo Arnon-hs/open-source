@@ -21,31 +21,29 @@
 
 ## 🎯 Categories
 
-Security
+Misc
 
 ## 📝 Summary
 
 ### English
 
-scidonia/lexpat: scidonia/lexpat helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+scidonia/lexpat: scidonia/lexpat may be useful when its README and activity match a concrete workflow.. Use it for Misc. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-scidonia/lexpat: open-source проект в категориях Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+scidonia/lexpat: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-scidonia/lexpat：scidonia/lexpat helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+scidonia/lexpat：scidonia/lexpat may be useful when its README and activity match a concrete workflow.。适合用于Misc。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** scidonia/lexpat helps catch security and privacy issues earlier in the workflow.
+**Value:** scidonia/lexpat may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
-- audit risk earlier
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,19 +62,19 @@ scidonia/lexpat：scidonia/lexpat helps catch security and privacy issues earlie
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 39/100 |
-| integration | 46/100 |
-| production | 49/100 |
-| outlook | 45/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| stars | 6/100 |
 | topics | 75/100 |
+| outlook | 45/100 |
+| quality | 39/100 |
+| recency | 60/100 |
+| adoption | 5/100 |
+| production | 49/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/scidonia/lexpat) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/scidonia/lexpat) · [← Back to Misc](./README.md)</sub>

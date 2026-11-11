@@ -581,8 +581,8 @@
 | 571 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 572 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 652 | — | 45/100 |
 | 573 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 574 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
-| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 574 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
 | 576 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 577 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 578 | [aschmelyun/docker-compose-traefik](./aschmelyun-docker-compose-traefik.md) | ⭐ 59 | PHP | 43/100 |
@@ -609,7 +609,7 @@
 | 599 | [mikael-titinovskii/orr](./mikael-titinovskii-orr.md) | ⭐ 6 | — | 41/100 |
 | 600 | [vandot/zlodev](./vandot-zlodev.md) | ⭐ 3 | — | 41/100 |
 | 601 | [JackKnifeAI/killa-yue](./jackknifeai-killa-yue.md) | ⭐ 11 | — | 41/100 |
-| 602 | [pigyon/tanuki](./pigyon-tanuki.md) | ⭐ 41 | — | 41/100 |
+| 602 | [pigyon/tanuki](./pigyon-tanuki.md) | ⭐ 42 | — | 41/100 |
 | 603 | [franciscocarloserra/p2p-call](./franciscocarloserra-p2p-call.md) | ⭐ 2 | — | 41/100 |
 | 604 | [legostin/wirepane](./legostin-wirepane.md) | ⭐ 4 | — | 41/100 |
 | 605 | [Rewsr/unawesome-ai-fabric-engineering](./rewsr-unawesome-ai-fabric-engineering.md) | ⭐ 41 | — | 41/100 |

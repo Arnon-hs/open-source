@@ -576,7 +576,7 @@
 | 566 | [tola-rs/tola-ssg](./tola-rs-tola-ssg.md) | ⭐ 202 | Rust | 42/100 |
 | 567 | [jolars/panache](./jolars-panache.md) | ⭐ 246 | Rust | 42/100 |
 | 568 | [szdytom/markview](./szdytom-markview.md) | ⭐ 112 | — | 41/100 |
-| 569 | [pgrekovich/simstim](./pgrekovich-simstim.md) | ⭐ 4 | — | 41/100 |
+| 569 | [pgrekovich/simstim](./pgrekovich-simstim.md) | ⭐ 5 | — | 41/100 |
 | 570 | [fynepdf/fynepdf-pdfa](./fynepdf-fynepdf-pdfa.md) | ⭐ 10 | — | 41/100 |
 | 571 | [hakuxyz/pdfq](./hakuxyz-pdfq.md) | ⭐ 7 | — | 41/100 |
 | 572 | [aryamantepal/tabvault](./aryamantepal-tabvault.md) | ⭐ 3 | — | 41/100 |
@@ -692,7 +692,7 @@
 | 682 | [jsvine/pdfplumber](./jsvine-pdfplumber.md) | ⭐ 10.9k | — | 38/100 |
 | 683 | [callosium/callosium](./callosium-callosium.md) | ⭐ 11 | — | 38/100 |
 | 684 | [genspark-ai/genoffice](./genspark-ai-genoffice.md) | ⭐ 12.1k | — | 38/100 |
-| 685 | [opendatalab/mineru](./opendatalab-mineru.md) | ⭐ 83.4k | — | 38/100 |
+| 685 | [opendatalab/mineru](./opendatalab-mineru.md) | ⭐ 83.5k | — | 38/100 |
 | 686 | [ramblingenzyme/ebookfs](./ramblingenzyme-ebookfs.md) | ⭐ 3 | — | 38/100 |
 | 687 | [xatuke/markdowngg](./xatuke-markdowngg.md) | ⭐ 11 | — | 38/100 |
 | 688 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |
@@ -713,8 +713,8 @@
 | 703 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
 | 704 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 705 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
-| 706 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
+| 706 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
+| 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
 | 708 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
 | 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |

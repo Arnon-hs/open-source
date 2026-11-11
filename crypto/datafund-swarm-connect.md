@@ -65,18 +65,18 @@ datafund/swarm_connect：datafund/swarm_connect helps prototype or inspect block
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 39/100 |
-| integration | 62/100 |
-| production | 46/100 |
-| outlook | 47/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 400/100 |
-| stars | 6/100 |
 | forks | 8/100 |
-| recency | 40/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 47/100 |
+| quality | 39/100 |
+| recency | 40/100 |
+| adoption | 7/100 |
+| production | 46/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

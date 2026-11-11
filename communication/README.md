@@ -282,7 +282,7 @@
 | 272 | [apache/iggy](./apache-iggy.md) | ⭐ 5.3k | Rust | 50/100 |
 | 273 | [nextcloud/spreed](./nextcloud-spreed.md) | ⭐ 2.2k | JavaScript | 50/100 |
 | 274 | [Expensify/App](./expensify-app.md) | ⭐ 5.1k | TypeScript | 50/100 |
-| 275 | [panda-sandeep/dearagent](./panda-sandeep-dearagent.md) | ⭐ 49 | — | 49/100 |
+| 275 | [panda-sandeep/dearagent](./panda-sandeep-dearagent.md) | ⭐ 50 | — | 49/100 |
 | 276 | [adecubed/gigamail](./adecubed-gigamail.md) | ⭐ 19 | — | 49/100 |
 | 277 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 631 | Kotlin | 49/100 |
 | 278 | [awslabs/mls-rs](./awslabs-mls-rs.md) | ⭐ 262 | Rust | 49/100 |
@@ -312,7 +312,7 @@
 | 302 | [munimv2/federal-prize-feed](./munimv2-federal-prize-feed.md) | ⭐ — | Python | 46/100 |
 | 303 | [permissionlesstech/bitchat-android](./permissionlesstech-bitchat-android.md) | ⭐ 8k | Kotlin | 46/100 |
 | 304 | [persian-calendar/persian-calendar](./persian-calendar-persian-calendar.md) | ⭐ 995 | Kotlin | 46/100 |
-| 305 | [armysarge/ham-radio-tools](./armysarge-ham-radio-tools.md) | ⭐ 1 | — | 45/100 |
+| 305 | [armysarge/ham-radio-tools](./armysarge-ham-radio-tools.md) | ⭐ 3 | — | 45/100 |
 | 306 | [agentisend/agent-email-guard](./agentisend-agent-email-guard.md) | ⭐ 5 | — | 45/100 |
 | 307 | [paoloviviani/Cerea](./paoloviviani-cerea.md) | ⭐ 4 | — | 45/100 |
 | 308 | [altrudev/lullwire-relay](./altrudev-lullwire-relay.md) | ⭐ — | JavaScript | 45/100 |

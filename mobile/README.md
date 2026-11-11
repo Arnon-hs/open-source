@@ -276,8 +276,8 @@
 | 266 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 267 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 268 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
-| 270 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
+| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
+| 270 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
 | 271 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 272 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 631 | Python | 55/100 |
 | 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
@@ -516,7 +516,7 @@
 | 506 | [PrivSec-dev/banking-apps-compat-report](./privsec-dev-banking-apps-compat-report.md) | ⭐ — | — | 44/100 |
 | 507 | [visiongaiatechnology/gedefense_androidtv](./visiongaiatechnology-gedefense-androidtv.md) | ⭐ 2 | — | 44/100 |
 | 508 | [techjarves/Uncensored-Local-AI-Multiplatform](./techjarves-uncensored-local-ai-multiplatform.md) | ⭐ 1.5k | Dart | 44/100 |
-| 509 | [pacewisdomhq/TutorLoom](./pacewisdomhq-tutorloom.md) | ⭐ 91 | — | 44/100 |
+| 509 | [pacewisdomhq/TutorLoom](./pacewisdomhq-tutorloom.md) | ⭐ 92 | — | 44/100 |
 | 510 | [Seb3thehacker/gearslip](./seb3thehacker-gearslip.md) | ⭐ — | — | 44/100 |
 | 511 | [MeshLive/meshlive-android](./meshlive-meshlive-android.md) | ⭐ 346 | Kotlin | 44/100 |
 | 512 | [Fluxionics/InteeBuild](./fluxionics-inteebuild.md) | ⭐ 3 | JavaScript | 44/100 |
@@ -526,8 +526,8 @@
 | 516 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 520 | Java | 44/100 |
 | 517 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 548 | Kotlin | 44/100 |
 | 518 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 22 | Kotlin | 43/100 |
-| 519 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 984 | — | 43/100 |
-| 520 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.1k | — | 43/100 |
+| 519 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.1k | — | 43/100 |
+| 520 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 984 | — | 43/100 |
 | 521 | [kuscholar/iDeck](./kuscholar-ideck.md) | ⭐ 386 | C | 43/100 |
 | 522 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 2 | JavaScript | 43/100 |
 | 523 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 10 | Kotlin | 43/100 |
@@ -557,12 +557,12 @@
 | 547 | [kolbicz/WQFiles](./kolbicz-wqfiles.md) | ⭐ 594 | — | 41/100 |
 | 548 | [pounceandmiss/tkabber-demo](./pounceandmiss-tkabber-demo.md) | ⭐ 1 | — | 41/100 |
 | 549 | [LuKks/webrtc-runtime](./lukks-webrtc-runtime.md) | ⭐ 1 | — | 41/100 |
-| 550 | [prototux/AARE](./prototux-aare.md) | ⭐ 529 | — | 41/100 |
+| 550 | [prototux/AARE](./prototux-aare.md) | ⭐ 531 | — | 41/100 |
 | 551 | [ssilvestri15/openfruit](./ssilvestri15-openfruit.md) | ⭐ 17 | — | 41/100 |
 | 552 | [MikeCer/DrawDock](./mikecer-drawdock.md) | ⭐ 1 | — | 41/100 |
 | 553 | [hito-dev/wand-browser](./hito-dev-wand-browser.md) | ⭐ 10 | — | 41/100 |
 | 554 | [nnnlog/phone-link](./nnnlog-phone-link.md) | ⭐ 23 | — | 41/100 |
-| 555 | [orailnoor/cross-platform-llm-client](./orailnoor-cross-platform-llm-client.md) | ⭐ 2.1k | — | 41/100 |
+| 555 | [orailnoor/cross-platform-llm-client](./orailnoor-cross-platform-llm-client.md) | ⭐ 2.2k | — | 41/100 |
 | 556 | [fform/touchrecordkit](./fform-touchrecordkit.md) | ⭐ — | — | 41/100 |
 | 557 | [Gladimore/TouchSynth](./gladimore-touchsynth.md) | ⭐ 2 | — | 41/100 |
 | 558 | [akshit-bansal11/edgepad](./akshit-bansal11-edgepad.md) | ⭐ 38 | — | 41/100 |
@@ -662,7 +662,7 @@
 | 652 | [scastiel/kado](./scastiel-kado.md) | ⭐ 191 | — | 38/100 |
 | 653 | [wmww/tawc](./wmww-tawc.md) | ⭐ 269 | — | 38/100 |
 | 654 | [jocmp/capyreader](./jocmp-capyreader.md) | ⭐ 1.5k | — | 38/100 |
-| 655 | [rfandango/XenDroid](./rfandango-xendroid.md) | ⭐ 518 | — | 38/100 |
+| 655 | [rfandango/XenDroid](./rfandango-xendroid.md) | ⭐ 523 | — | 38/100 |
 | 656 | [shinyquagsire23/Klepton](./shinyquagsire23-klepton.md) | ⭐ 270 | — | 38/100 |
 | 657 | [ddagunts/pwagen](./ddagunts-pwagen.md) | ⭐ 5 | — | 38/100 |
 | 658 | [z0rats/freqcast](./z0rats-freqcast.md) | ⭐ 17 | — | 38/100 |
