@@ -53,7 +53,7 @@
 | 43 | [mumble-voip/mumble](./mumble-voip-mumble.md) | ⭐ 8.4k | C++ | 69/100 |
 | 44 | [sudodevdante/enchat](./sudodevdante-enchat.md) | ⭐ 267 | Python | 69/100 |
 | 45 | [Lifeforge-app/lifeforge](./lifeforge-app-lifeforge.md) | ⭐ 1.7k | TypeScript | 69/100 |
-| 46 | [RocketChat/Rocket.Chat](./rocketchat-rocket.chat.md) | ⭐ 46.4k | TypeScript | 69/100 |
+| 46 | [RocketChat/Rocket.Chat](./rocketchat-rocket.chat.md) | ⭐ 46.5k | TypeScript | 69/100 |
 | 47 | [go-pkgz/auth](./go-pkgz-auth.md) | ⭐ 1.4k | Go | 68/100 |
 | 48 | [slack-go/slack](./slack-go-slack.md) | ⭐ 5k | Go | 68/100 |
 | 49 | [miroslavpejic85/mirotalk](./miroslavpejic85-mirotalk.md) | ⭐ 4.8k | JavaScript | 68/100 |
@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |

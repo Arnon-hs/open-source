@@ -76,7 +76,7 @@
 | 66 | [gxr404/yuque-dl](./gxr404-yuque-dl.md) | ⭐ 2.4k | TypeScript | 68/100 |
 | 67 | [AnswerDotAI/nbdev](./answerdotai-nbdev.md) | ⭐ 5.3k | Jupyter Notebook | 68/100 |
 | 68 | [OpenSignLabs/OpenSign](./opensignlabs-opensign.md) | ⭐ 7.2k | JavaScript | 68/100 |
-| 69 | [gohugoio/hugo](./gohugoio-hugo.md) | ⭐ 90.4k | Go | 68/100 |
+| 69 | [gohugoio/hugo](./gohugoio-hugo.md) | ⭐ 90.5k | Go | 68/100 |
 | 70 | [nuxt/nuxt](./nuxt-nuxt.md) | ⭐ 61.1k | TypeScript | 68/100 |
 | 71 | [dotnet/docfx](./dotnet-docfx.md) | ⭐ 4.5k | C# | 67/100 |
 | 72 | [carbon-language/carbon-lang](./carbon-language-carbon-lang.md) | ⭐ 33.9k | C++ | 67/100 |
@@ -103,7 +103,7 @@
 | 93 | [JimmXinu/FanFicFare](./jimmxinu-fanficfare.md) | ⭐ 1.1k | Python | 66/100 |
 | 94 | [directus/directus](./directus-directus.md) | ⭐ 38.7k | TypeScript | 66/100 |
 | 95 | [peaceiris/actions-gh-pages](./peaceiris-actions-gh-pages.md) | ⭐ 5.4k | TypeScript | 65/100 |
-| 96 | [DigitalPlatDev/FreeDomain](./digitalplatdev-freedomain.md) | ⭐ 207.8k | Markdown | 65/100 |
+| 96 | [DigitalPlatDev/FreeDomain](./digitalplatdev-freedomain.md) | ⭐ 207.9k | Markdown | 65/100 |
 | 97 | [vuejs/vitepress](./vuejs-vitepress.md) | ⭐ 18.5k | TypeScript | 65/100 |
 | 98 | [jackyzha0/quartz](./jackyzha0-quartz.md) | ⭐ 13.6k | TypeScript | 65/100 |
 | 99 | [lepture/mistune](./lepture-mistune.md) | ⭐ 3.1k | Python | 65/100 |
@@ -113,7 +113,7 @@
 | 103 | [mrmn2/PdfDing](./mrmn2-pdfding.md) | ⭐ 1.8k | Python | 65/100 |
 | 104 | [halo-dev/halo](./halo-dev-halo.md) | ⭐ 40.2k | Java | 65/100 |
 | 105 | [webstudio-is/webstudio](./webstudio-is-webstudio.md) | ⭐ 9.2k | TypeScript | 65/100 |
-| 106 | [marktext/marktext](./marktext-marktext.md) | ⭐ 63.8k | JavaScript | 65/100 |
+| 106 | [marktext/marktext](./marktext-marktext.md) | ⭐ 63.9k | JavaScript | 65/100 |
 | 107 | [jgm/pandoc](./jgm-pandoc.md) | ⭐ 46.9k | Haskell | 65/100 |
 | 108 | [papra-hq/papra](./papra-hq-papra.md) | ⭐ 5.7k | TypeScript | 65/100 |
 | 109 | [transmute-app/transmute](./transmute-app-transmute.md) | ⭐ 1.5k | Python | 65/100 |
@@ -339,7 +339,7 @@
 | 329 | [upptime/upptime](./upptime-upptime.md) | ⭐ 17.2k | Markdown | 56/100 |
 | 330 | [tinacms/tinacms](./tinacms-tinacms.md) | ⭐ 13.9k | TypeScript | 56/100 |
 | 331 | [lin-snow/Ech0](./lin-snow-ech0.md) | ⭐ 2.1k | Go | 56/100 |
-| 332 | [TryGhost/Ghost](./tryghost-ghost.md) | ⭐ 55.7k | JavaScript | 56/100 |
+| 332 | [TryGhost/Ghost](./tryghost-ghost.md) | ⭐ 55.8k | JavaScript | 56/100 |
 | 333 | [tldr-pages/tldr](./tldr-pages-tldr.md) | ⭐ 64.2k | Markdown | 56/100 |
 | 334 | [pimcore/pimcore](./pimcore-pimcore.md) | ⭐ 3.9k | PHP | 56/100 |
 | 335 | [foliojs/pdfkit](./foliojs-pdfkit.md) | ⭐ 10.7k | JavaScript | 55/100 |
@@ -747,8 +747,8 @@
 | 737 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ 2 | — | 38/100 |
 | 738 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 739 | [bruits/satteri](./bruits-satteri.md) | ⭐ 1.3k | — | 38/100 |
-| 740 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
-| 741 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 740 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 741 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
 | 742 | [JagaTheGhost/visualmark-studio](./jagatheghost-visualmark-studio.md) | ⭐ 11 | JavaScript | 37/100 |
 | 743 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 744 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |

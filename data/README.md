@@ -198,7 +198,7 @@
 | 188 | [catalyst-cooperative/pudl](./catalyst-cooperative-pudl.md) | ⭐ 616 | Python | 58/100 |
 | 189 | [zalando/postgres-operator](./zalando-postgres-operator.md) | ⭐ 5.3k | Go | 58/100 |
 | 190 | [pgmpy/pgmpy](./pgmpy-pgmpy.md) | ⭐ 3.4k | Python | 58/100 |
-| 191 | [pandas-dev/pandas](./pandas-dev-pandas.md) | ⭐ 50.6k | Python | 58/100 |
+| 191 | [pandas-dev/pandas](./pandas-dev-pandas.md) | ⭐ 50.5k | Python | 58/100 |
 | 192 | [pola-rs/polars](./pola-rs-polars.md) | ⭐ 40.3k | Rust | 58/100 |
 | 193 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 23.4k | Python | 58/100 |
 | 194 | [sysevol-ai/CodeNib](./sysevol-ai-codenib.md) | ⭐ 95 | Python | 57/100 |

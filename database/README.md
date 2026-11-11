@@ -17,7 +17,7 @@
 | 7 | [dubinc/dub](./dubinc-dub.md) | ⭐ 23.5k | TypeScript | 74/100 |
 | 8 | [OT-CONTAINER-KIT/redis-operator](./ot-container-kit-redis-operator.md) | ⭐ 1.5k | Go | 73/100 |
 | 9 | [microsoft/garnet](./microsoft-garnet.md) | ⭐ 12.1k | C# | 73/100 |
-| 10 | [etcd-io/etcd](./etcd-io-etcd.md) | ⭐ 52.7k | Go | 72/100 |
+| 10 | [etcd-io/etcd](./etcd-io-etcd.md) | ⭐ 52.6k | Go | 72/100 |
 | 11 | [eclipse-ditto/ditto](./eclipse-ditto-ditto.md) | ⭐ 949 | Java | 72/100 |
 | 12 | [jtv/libpqxx](./jtv-libpqxx.md) | ⭐ 1.4k | C++ | 72/100 |
 | 13 | [requests-cache/requests-cache](./requests-cache-requests-cache.md) | ⭐ 1.5k | Python | 72/100 |
@@ -550,8 +550,8 @@
 | 540 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 541 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 542 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 431 | — | 38/100 |
-| 543 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
-| 544 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 70 | — | 38/100 |
+| 543 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 70 | — | 38/100 |
+| 544 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
 | 545 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 546 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 442 | — | 38/100 |
 | 547 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |
@@ -576,8 +576,8 @@
 | 566 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 567 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 568 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 105 | — | 38/100 |
-| 569 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
-| 570 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 569 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 570 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
 | 571 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 572 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 573 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

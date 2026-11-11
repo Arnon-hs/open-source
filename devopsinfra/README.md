@@ -81,7 +81,7 @@
 | 71 | [dexidp/dex](./dexidp-dex.md) | ⭐ 11.2k | Go | 67/100 |
 | 72 | [stakater/IngressMonitorController](./stakater-ingressmonitorcontroller.md) | ⭐ 748 | Go | 67/100 |
 | 73 | [k3s-io/k3s](./k3s-io-k3s.md) | ⭐ 34.4k | Go | 67/100 |
-| 74 | [dani-garcia/vaultwarden](./dani-garcia-vaultwarden.md) | ⭐ 70.5k | Rust | 67/100 |
+| 74 | [dani-garcia/vaultwarden](./dani-garcia-vaultwarden.md) | ⭐ 70.6k | Rust | 67/100 |
 | 75 | [HaschekSolutions/pictshare](./hascheksolutions-pictshare.md) | ⭐ 952 | PHP | 67/100 |
 | 76 | [jovandeginste/workout-tracker](./jovandeginste-workout-tracker.md) | ⭐ 1.3k | Go | 67/100 |
 | 77 | [RayLabsHQ/gitea-mirror](./raylabshq-gitea-mirror.md) | ⭐ 1.5k | TypeScript | 67/100 |
@@ -148,7 +148,7 @@
 | 138 | [thomiceli/opengist](./thomiceli-opengist.md) | ⭐ 3.4k | Go | 64/100 |
 | 139 | [authelia/authelia](./authelia-authelia.md) | ⭐ 29.6k | Go | 64/100 |
 | 140 | [openshift/origin](./openshift-origin.md) | ⭐ 8.7k | Go | 64/100 |
-| 141 | [mastodon/mastodon](./mastodon-mastodon.md) | ⭐ 50.5k | Ruby | 64/100 |
+| 141 | [mastodon/mastodon](./mastodon-mastodon.md) | ⭐ 50.6k | Ruby | 64/100 |
 | 142 | [docker/build-push-action](./docker-build-push-action.md) | ⭐ 5.4k | TypeScript | 63/100 |
 | 143 | [metal3-io/baremetal-operator](./metal3-io-baremetal-operator.md) | ⭐ 767 | Go | 63/100 |
 | 144 | [kubernetes-sigs/promo-tools](./kubernetes-sigs-promo-tools.md) | ⭐ 176 | Go | 63/100 |
@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -227,7 +227,7 @@
 | 217 | [bex-co/bex](./bex-co-bex.md) | ⭐ 578 | Go | 60/100 |
 | 218 | [docker-library/docs](./docker-library-docs.md) | ⭐ 5.3k | Shell | 60/100 |
 | 219 | [opf/openproject-docker-compose](./opf-openproject-docker-compose.md) | ⭐ 351 | Shell | 60/100 |
-| 220 | [moby/moby](./moby-moby.md) | ⭐ 72.4k | Go | 60/100 |
+| 220 | [moby/moby](./moby-moby.md) | ⭐ 72.3k | Go | 60/100 |
 | 221 | [projectsveltos/addon-controller](./projectsveltos-addon-controller.md) | ⭐ 596 | Go | 60/100 |
 | 222 | [Project-HAMi/HAMi](./project-hami-hami.md) | ⭐ 5k | Go | 60/100 |
 | 223 | [helm/helm](./helm-helm.md) | ⭐ 30.4k | Go | 60/100 |
@@ -257,7 +257,7 @@
 | 247 | [containerd/runwasi](./containerd-runwasi.md) | ⭐ 1.3k | Rust | 59/100 |
 | 248 | [vdesabou/kafka-docker-playground](./vdesabou-kafka-docker-playground.md) | ⭐ 786 | Shell | 59/100 |
 | 249 | [stakater/Forecastle](./stakater-forecastle.md) | ⭐ 815 | Go | 59/100 |
-| 250 | [dockur/windows](./dockur-windows.md) | ⭐ 54.1k | Shell | 59/100 |
+| 250 | [dockur/windows](./dockur-windows.md) | ⭐ 54.2k | Shell | 59/100 |
 | 251 | [awesome-foss/awesome-sysadmin](./awesome-foss-awesome-sysadmin.md) | ⭐ 35.7k | — | 59/100 |
 | 252 | [kata-containers/kata-containers](./kata-containers-kata-containers.md) | ⭐ 9.1k | Rust | 59/100 |
 | 253 | [huangchengsir/pipewright](./huangchengsir-pipewright.md) | ⭐ 152 | Go | 58/100 |
@@ -484,8 +484,8 @@
 | 474 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 475 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 476 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 477 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
-| 478 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 477 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 478 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
 | 479 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 480 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 481 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |

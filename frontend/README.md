@@ -50,7 +50,7 @@
 | 40 | [distr-sh/distr](./distr-sh-distr.md) | ⭐ 1.2k | Go | 74/100 |
 | 41 | [refinedev/refine](./refinedev-refine.md) | ⭐ 36k | TypeScript | 74/100 |
 | 42 | [SigNoz/signoz](./signoz-signoz.md) | ⭐ 32.6k | TypeScript | 74/100 |
-| 43 | [coollabsio/coolify](./coollabsio-coolify.md) | ⭐ 65.9k | PHP | 74/100 |
+| 43 | [coollabsio/coolify](./coollabsio-coolify.md) | ⭐ 66k | PHP | 74/100 |
 | 44 | [nrwl/nx](./nrwl-nx.md) | ⭐ 29.5k | TypeScript | 74/100 |
 | 45 | [RevylAI/greenlight](./revylai-greenlight.md) | ⭐ 2.5k | Go | 73/100 |
 | 46 | [ever-co/ever-traduora](./ever-co-ever-traduora.md) | ⭐ 2.1k | JavaScript | 73/100 |
@@ -84,7 +84,7 @@
 | 74 | [hanxi/xiaomusic](./hanxi-xiaomusic.md) | ⭐ 10k | Python | 71/100 |
 | 75 | [pubkey/rxdb](./pubkey-rxdb.md) | ⭐ 23.4k | TypeScript | 71/100 |
 | 76 | [gitify-app/gitify](./gitify-app-gitify.md) | ⭐ 5.4k | TypeScript | 71/100 |
-| 77 | [immich-app/immich](./immich-app-immich.md) | ⭐ 118.7k | TypeScript | 71/100 |
+| 77 | [immich-app/immich](./immich-app-immich.md) | ⭐ 118.9k | TypeScript | 71/100 |
 | 78 | [elkozmon/zoonavigator](./elkozmon-zoonavigator.md) | ⭐ 571 | TypeScript | 70/100 |
 | 79 | [surveyjs/survey-creator](./surveyjs-survey-creator.md) | ⭐ 1.3k | TypeScript | 70/100 |
 | 80 | [evanw/esbuild](./evanw-esbuild.md) | ⭐ 40.1k | Go | 70/100 |
@@ -109,7 +109,7 @@
 | 99 | [linkwarden/linkwarden](./linkwarden-linkwarden.md) | ⭐ 20.4k | TypeScript | 70/100 |
 | 100 | [redwoodjs/sdk](./redwoodjs-sdk.md) | ⭐ 1.7k | TypeScript | 70/100 |
 | 101 | [facebook/react-native](./facebook-react-native.md) | ⭐ 125.8k | C++ | 70/100 |
-| 102 | [tldraw/tldraw](./tldraw-tldraw.md) | ⭐ 51.5k | TypeScript | 70/100 |
+| 102 | [tldraw/tldraw](./tldraw-tldraw.md) | ⭐ 51.4k | TypeScript | 70/100 |
 | 103 | [go-gitea/gitea](./go-gitea-gitea.md) | ⭐ 59k | Go | 70/100 |
 | 104 | [MetrolistGroup/Metrolist](./metrolistgroup-metrolist.md) | ⭐ 14.1k | Kotlin | 69/100 |
 | 105 | [gridstack/gridstack.js](./gridstack-gridstack.js.md) | ⭐ 9.2k | TypeScript | 69/100 |
@@ -122,7 +122,7 @@
 | 112 | [epicweb-dev/advanced-react-apis](./epicweb-dev-advanced-react-apis.md) | ⭐ 2.1k | TypeScript | 69/100 |
 | 113 | [jesec/flood](./jesec-flood.md) | ⭐ 2.9k | TypeScript | 69/100 |
 | 114 | [kalfasyan/desto](./kalfasyan-desto.md) | ⭐ 104 | Python | 69/100 |
-| 115 | [freeCodeCamp/freeCodeCamp](./freecodecamp-freecodecamp.md) | ⭐ 458.9k | TypeScript | 69/100 |
+| 115 | [freeCodeCamp/freeCodeCamp](./freecodecamp-freecodecamp.md) | ⭐ 459k | TypeScript | 69/100 |
 | 116 | [ArtalkJS/Artalk](./artalkjs-artalk.md) | ⭐ 2.4k | Go | 69/100 |
 | 117 | [classroomio/classroomio](./classroomio-classroomio.md) | ⭐ 1.7k | TypeScript | 69/100 |
 | 118 | [meshtastic/web](./meshtastic-web.md) | ⭐ 876 | TypeScript | 69/100 |
@@ -134,7 +134,7 @@
 | 124 | [biomejs/biome](./biomejs-biome.md) | ⭐ 26.1k | Rust | 69/100 |
 | 125 | [Manak-hash/LinkBreeze](./manak-hash-linkbreeze.md) | ⭐ 202 | TypeScript | 68/100 |
 | 126 | [kerberos-io/agent](./kerberos-io-agent.md) | ⭐ 1.1k | Go | 68/100 |
-| 127 | [gorhill/uBlock](./gorhill-ublock.md) | ⭐ 69.2k | JavaScript | 68/100 |
+| 127 | [gorhill/uBlock](./gorhill-ublock.md) | ⭐ 69.3k | JavaScript | 68/100 |
 | 128 | [ReactUnity/core](./reactunity-core.md) | ⭐ 904 | JavaScript | 68/100 |
 | 129 | [9001/copyparty](./9001-copyparty.md) | ⭐ 47.3k | Python | 68/100 |
 | 130 | [St0ff3l/fileterm](./st0ff3l-fileterm.md) | ⭐ 433 | TypeScript | 68/100 |
@@ -347,7 +347,7 @@
 | 337 | [VisActor/VTable](./visactor-vtable.md) | ⭐ 3.7k | TypeScript | 63/100 |
 | 338 | [influxdata/influxdb](./influxdata-influxdb.md) | ⭐ 31.8k | Rust | 63/100 |
 | 339 | [vuetifyjs/vuetify](./vuetifyjs-vuetify.md) | ⭐ 41k | TypeScript | 63/100 |
-| 340 | [twentyhq/twenty](./twentyhq-twenty.md) | ⭐ 60.7k | TypeScript | 63/100 |
+| 340 | [twentyhq/twenty](./twentyhq-twenty.md) | ⭐ 60.8k | TypeScript | 63/100 |
 | 341 | [angular/angular](./angular-angular.md) | ⭐ 101.5k | TypeScript | 63/100 |
 | 342 | [microsoft/rnx-kit](./microsoft-rnx-kit.md) | ⭐ 1.7k | TypeScript | 63/100 |
 | 343 | [amruthpillai/reactive-resume](./amruthpillai-reactive-resume.md) | ⭐ 36.7k | TypeScript | 63/100 |
@@ -485,8 +485,8 @@
 | 475 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 476 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
 | 477 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 298 | Rust | 60/100 |
-| 478 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
-| 479 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 478 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 479 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
 | 480 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.8k | TypeScript | 60/100 |
 | 481 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 366 | Go | 60/100 |
 | 482 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
@@ -552,7 +552,7 @@
 | 542 | [jackocnr/intl-tel-input](./jackocnr-intl-tel-input.md) | ⭐ 8.3k | TypeScript | 59/100 |
 | 543 | [Rel1cx/eslint-react](./rel1cx-eslint-react.md) | ⭐ 594 | TypeScript | 59/100 |
 | 544 | [reactjs/react-docgen](./reactjs-react-docgen.md) | ⭐ 3.8k | TypeScript | 59/100 |
-| 545 | [ant-design/ant-design](./ant-design-ant-design.md) | ⭐ 100.1k | TypeScript | 59/100 |
+| 545 | [ant-design/ant-design](./ant-design-ant-design.md) | ⭐ 100.2k | TypeScript | 59/100 |
 | 546 | [vavallee/bindery](./vavallee-bindery.md) | ⭐ 568 | Go | 59/100 |
 | 547 | [DioxusLabs/dioxus](./dioxuslabs-dioxus.md) | ⭐ 39.7k | Rust | 59/100 |
 | 548 | [penpot/penpot](./penpot-penpot.md) | ⭐ 62.3k | Clojure | 59/100 |
@@ -701,7 +701,7 @@
 | 691 | [millionco/react-doctor](./millionco-react-doctor.md) | ⭐ 15.1k | TypeScript | 56/100 |
 | 692 | [microsoft/react-native-windows](./microsoft-react-native-windows.md) | ⭐ 17.4k | C++ | 56/100 |
 | 693 | [Automattic/harper](./automattic-harper.md) | ⭐ 17.6k | Rust | 56/100 |
-| 694 | [electron/electron](./electron-electron.md) | ⭐ 123.8k | C++ | 56/100 |
+| 694 | [electron/electron](./electron-electron.md) | ⭐ 123.9k | C++ | 56/100 |
 | 695 | [ChromeDevTools/devtools-frontend](./chromedevtools-devtools-frontend.md) | ⭐ 4.1k | TypeScript | 56/100 |
 | 696 | [PureStackStudio/Regor](./purestackstudio-regor.md) | ⭐ 10 | TypeScript | 55/100 |
 | 697 | [calvinhxx/Fluent-Qt](./calvinhxx-fluent-qt.md) | ⭐ 72 | C++ | 55/100 |
@@ -755,8 +755,8 @@
 | 745 | [sanusart/react-dropdown-select](./sanusart-react-dropdown-select.md) | ⭐ 365 | JavaScript | 54/100 |
 | 746 | [blackfyre/wga](./blackfyre-wga.md) | ⭐ 193 | Go | 54/100 |
 | 747 | [IT-BAER/proxmorph](./it-baer-proxmorph.md) | ⭐ 637 | CSS | 54/100 |
-| 748 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
-| 749 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 885 | Rust | 54/100 |
+| 748 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 885 | Rust | 54/100 |
+| 749 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
 | 750 | [coi/coi](./coi-coi.md) | ⭐ 568 | C++ | 54/100 |
 | 751 | [lvzhenbo/115-plus-desktop](./lvzhenbo-115-plus-desktop.md) | ⭐ 384 | Rust | 54/100 |
 | 752 | [rust-ui/ui](./rust-ui-ui.md) | ⭐ 809 | Rust | 54/100 |

@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [ohmyzsh/ohmyzsh](./ohmyzsh-ohmyzsh.md) | ⭐ 190.4k | Shell | 82/100 |
+| 1 | [ohmyzsh/ohmyzsh](./ohmyzsh-ohmyzsh.md) | ⭐ 190.6k | Shell | 82/100 |
 | 2 | [javinizer/javinizer-go](./javinizer-javinizer-go.md) | ⭐ 106 | Go | 78/100 |
 | 3 | [muety/wakapi](./muety-wakapi.md) | ⭐ 4.5k | Go | 78/100 |
 | 4 | [Priyanshu-byte-coder/devtrack](./priyanshu-byte-coder-devtrack.md) | ⭐ 301 | TypeScript | 77/100 |
@@ -40,7 +40,7 @@
 | 30 | [files-community/Files](./files-community-files.md) | ⭐ 46.6k | C# | 70/100 |
 | 31 | [0PandaDEV/Ziit](./0pandadev-ziit.md) | ⭐ 258 | TypeScript | 69/100 |
 | 32 | [BYTEDz/PCLink](./bytedz-pclink.md) | ⭐ 947 | Python | 69/100 |
-| 33 | [jaywcjlove/awesome-mac](./jaywcjlove-awesome-mac.md) | ⭐ 118.2k | Swift | 69/100 |
+| 33 | [jaywcjlove/awesome-mac](./jaywcjlove-awesome-mac.md) | ⭐ 118.3k | Swift | 69/100 |
 | 34 | [kriuchkov/tock](./kriuchkov-tock.md) | ⭐ 506 | Go | 69/100 |
 | 35 | [Clipy/Clipy](./clipy-clipy.md) | ⭐ 9k | Swift | 68/100 |
 | 36 | [brettcannon/python-launcher](./brettcannon-python-launcher.md) | ⭐ 632 | Rust | 68/100 |
@@ -59,7 +59,7 @@
 | 49 | [iffse/pay-respects](./iffse-pay-respects.md) | ⭐ 736 | Rust | 67/100 |
 | 50 | [laurent22/joplin](./laurent22-joplin.md) | ⭐ 57.1k | TypeScript | 67/100 |
 | 51 | [phlx0/snip](./phlx0-snip.md) | ⭐ 112 | Python | 66/100 |
-| 52 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 140.8k | C | 66/100 |
+| 52 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 140.9k | C | 66/100 |
 | 53 | [jaywcjlove/rightmenu-master](./jaywcjlove-rightmenu-master.md) | ⭐ 564 | Swift | 66/100 |
 | 54 | [AmineDjeghri/personal-os-setup](./aminedjeghri-personal-os-setup.md) | ⭐ 675 | Python | 66/100 |
 | 55 | [espanso/espanso](./espanso-espanso.md) | ⭐ 14.8k | Rust | 66/100 |
@@ -201,7 +201,7 @@
 | 191 | [ghost-him/ZeroLaunch-rs](./ghost-him-zerolaunch-rs.md) | ⭐ 580 | Rust | 55/100 |
 | 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 361 | Rust | 55/100 |
 | 193 | [modrinth/code](./modrinth-code.md) | ⭐ 2.5k | Rust | 55/100 |
-| 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.7k | Rust | 55/100 |
+| 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.8k | Rust | 55/100 |
 | 195 | [openbezal/rhema](./openbezal-rhema.md) | ⭐ 357 | TypeScript | 54/100 |
 | 196 | [FCL-Team/FoldCraftLauncher](./fcl-team-foldcraftlauncher.md) | ⭐ 5.2k | Java | 54/100 |
 | 197 | [Xoshbin/asyar](./xoshbin-asyar.md) | ⭐ 992 | Rust | 54/100 |
@@ -354,8 +354,8 @@
 | 344 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 345 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 346 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 347 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
-| 348 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 347 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 348 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
 | 349 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 350 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.8k | — | 38/100 |
 | 351 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |
