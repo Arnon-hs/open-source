@@ -1,6 +1,6 @@
 # rtostudioco/vulncheck-local
 
-[![Stars](https://img.shields.io/github/stars/rtostudioco/vulncheck-local?style=flat-square&color=yellow)](https://github.com/rtostudioco/vulncheck-local/stargazers) [![Forks](https://img.shields.io/github/forks/rtostudioco/vulncheck-local?style=flat-square&color=blue)](https://github.com/rtostudioco/vulncheck-local/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rtostudioco/vulncheck-local?style=flat-square&color=yellow)](https://github.com/rtostudioco/vulncheck-local/stargazers) [![Forks](https://img.shields.io/github/forks/rtostudioco/vulncheck-local?style=flat-square&color=blue)](https://github.com/rtostudioco/vulncheck-local/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > Local-first defensive security auditor for Windows & Linux — read-only checks, 0–100 score, CIS-style compliance mapping, PDF/JSON/CSV reports. No cloud, no telemetry, 100% on your machine.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ rtostudioco/vulncheck-local：rtostudioco/vulncheck-local may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
