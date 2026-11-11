@@ -53,7 +53,7 @@ makeplane/plane：makeplane/plane helps ship user-facing interfaces with less cu
 
 **Quality signals**
 
-- 62275 GitHub stars
+- 62277 GitHub stars
 - 6373 forks
 - updated 2026-11-10
 - primary language: TypeScript

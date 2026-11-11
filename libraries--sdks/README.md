@@ -57,12 +57,12 @@
 | 47 | [agentclientprotocol/rust-sdk](./agentclientprotocol-rust-sdk.md) | ⭐ 244 | Rust | 67/100 |
 | 48 | [grafana/alloy-scenarios](./grafana-alloy-scenarios.md) | ⭐ 400 | Python | 67/100 |
 | 49 | [google/play-services-plugins](./google-play-services-plugins.md) | ⭐ 526 | Kotlin | 67/100 |
-| 50 | [aliyun/openapi-sdk-php](./aliyun-openapi-sdk-php.md) | ⭐ 530 | PHP | 67/100 |
+| 50 | [aliyun/openapi-sdk-php](./aliyun-openapi-sdk-php.md) | ⭐ 531 | PHP | 67/100 |
 | 51 | [venturedrake/laravel-crm](./venturedrake-laravel-crm.md) | ⭐ 473 | PHP | 67/100 |
 | 52 | [grafana/faro-web-sdk](./grafana-faro-web-sdk.md) | ⭐ 1.2k | TypeScript | 67/100 |
 | 53 | [googleapis/python-genai](./googleapis-python-genai.md) | ⭐ 4.1k | Python | 67/100 |
 | 54 | [emscripten-core/emsdk](./emscripten-core-emsdk.md) | ⭐ 3.7k | Python | 66/100 |
-| 55 | [prometheus/client_rust](./prometheus-client-rust.md) | ⭐ 612 | Rust | 66/100 |
+| 55 | [prometheus/client_rust](./prometheus-client-rust.md) | ⭐ 613 | Rust | 66/100 |
 | 56 | [librespot-org/librespot](./librespot-org-librespot.md) | ⭐ 7.4k | Rust | 66/100 |
 | 57 | [apple/python-apple-fm-sdk](./apple-python-apple-fm-sdk.md) | ⭐ 1.4k | Python | 66/100 |
 | 58 | [microsoft/WindowsAppSDK](./microsoft-windowsappsdk.md) | ⭐ 4.7k | C++ | 66/100 |
@@ -121,7 +121,7 @@
 | 111 | [temporalio/samples-python](./temporalio-samples-python.md) | ⭐ 380 | Python | 61/100 |
 | 112 | [awslabs/amazon-kinesis-client](./awslabs-amazon-kinesis-client.md) | ⭐ 669 | Java | 61/100 |
 | 113 | [dotnet/android](./dotnet-android.md) | ⭐ 2.1k | C# | 61/100 |
-| 114 | [mailgun/mailgun.js](./mailgun-mailgun.js.md) | ⭐ 551 | TypeScript | 61/100 |
+| 114 | [mailgun/mailgun.js](./mailgun-mailgun.js.md) | ⭐ 552 | TypeScript | 61/100 |
 | 115 | [LottieFiles/dotlottie-rs](./lottiefiles-dotlottie-rs.md) | ⭐ 288 | Rust | 61/100 |
 | 116 | [raydium-io/raydium-sdk-V2](./raydium-io-raydium-sdk-v2.md) | ⭐ 352 | TypeScript | 61/100 |
 | 117 | [open-telemetry/opentelemetry-dotnet-contrib](./open-telemetry-opentelemetry-dotnet-contrib.md) | ⭐ 679 | C# | 61/100 |
@@ -189,11 +189,11 @@
 | 179 | [xbill9/devto-sanity](./xbill9-devto-sanity.md) | ⭐ — | HTML | 55/100 |
 | 180 | [frida/frida-python](./frida-frida-python.md) | ⭐ 878 | Python | 55/100 |
 | 181 | [gtk-rs/gtk3-rs](./gtk-rs-gtk3-rs.md) | ⭐ 508 | Rust | 55/100 |
-| 182 | [prove-rs/z3.rs](./prove-rs-z3.rs.md) | ⭐ 541 | Rust | 55/100 |
+| 182 | [prove-rs/z3.rs](./prove-rs-z3.rs.md) | ⭐ 542 | Rust | 55/100 |
 | 183 | [y3owk1n/neru](./y3owk1n-neru.md) | ⭐ 917 | Go | 55/100 |
 | 184 | [rust-openssl/rust-openssl](./rust-openssl-rust-openssl.md) | ⭐ 1.7k | Rust | 54/100 |
 | 185 | [frida/frida-core](./frida-frida-core.md) | ⭐ 790 | Vala | 54/100 |
-| 186 | [sdroege/gstreamer-rs](./sdroege-gstreamer-rs.md) | ⭐ 595 | Rust | 54/100 |
+| 186 | [sdroege/gstreamer-rs](./sdroege-gstreamer-rs.md) | ⭐ 596 | Rust | 54/100 |
 | 187 | [restsend/restsend-rs](./restsend-restsend-rs.md) | ⭐ 143 | Rust | 54/100 |
 | 188 | [google/crubit](./google-crubit.md) | ⭐ 1.1k | C++ | 54/100 |
 | 189 | [kubernetes-client/csharp](./kubernetes-client-csharp.md) | ⭐ 1.2k | C# | 54/100 |
@@ -215,8 +215,8 @@
 | 205 | [apache/datasketches-rust](./apache-datasketches-rust.md) | ⭐ 142 | Rust | 52/100 |
 | 206 | [tensorflow/java](./tensorflow-java.md) | ⭐ 926 | Java | 52/100 |
 | 207 | [apple/pkl-go](./apple-pkl-go.md) | ⭐ 336 | Go | 52/100 |
-| 208 | [pola-rs/r-polars](./pola-rs-r-polars.md) | ⭐ 577 | R | 52/100 |
-| 209 | [mlir-rs/melior](./mlir-rs-melior.md) | ⭐ 559 | Rust | 52/100 |
+| 208 | [pola-rs/r-polars](./pola-rs-r-polars.md) | ⭐ 578 | R | 52/100 |
+| 209 | [mlir-rs/melior](./mlir-rs-melior.md) | ⭐ 560 | Rust | 52/100 |
 | 210 | [uhop/node-re2](./uhop-node-re2.md) | ⭐ 565 | JavaScript | 52/100 |
 | 211 | [borchero/ducklake-sdk](./borchero-ducklake-sdk.md) | ⭐ 65 | — | 52/100 |
 | 212 | [yury/cidre](./yury-cidre.md) | ⭐ 225 | Rust | 52/100 |
@@ -238,7 +238,7 @@
 | 228 | [ruby-gnome/ruby-gnome](./ruby-gnome-ruby-gnome.md) | ⭐ 404 | Ruby | 50/100 |
 | 229 | [rust-x-bindings/rust-xcb](./rust-x-bindings-rust-xcb.md) | ⭐ 168 | Rust | 50/100 |
 | 230 | [ada-url/rust](./ada-url-rust.md) | ⭐ 123 | Rust | 50/100 |
-| 231 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 907 | Rust | 50/100 |
+| 231 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 909 | Rust | 50/100 |
 | 232 | [nrfconnect/sdk-zephyr](./nrfconnect-sdk-zephyr.md) | ⭐ 443 | C | 50/100 |
 | 233 | [gakonst/nanocodex](./gakonst-nanocodex.md) | ⭐ — | — | 49/100 |
 | 234 | [PerhapxinLab/dotdotduck](./perhapxinlab-dotdotduck.md) | ⭐ 11 | — | 49/100 |

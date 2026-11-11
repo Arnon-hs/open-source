@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 537 |
-| 🍴 **Forks** | 354 |
+| 🍴 **Forks** | 355 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-06 |
@@ -54,7 +54,7 @@ kubevirt/containerized-data-importer：kubevirt/containerized-data-importer help
 **Quality signals**
 
 - 537 GitHub stars
-- 354 forks
+- 355 forks
 - updated 2026-11-06
 - primary language: Go
 - 6 topics

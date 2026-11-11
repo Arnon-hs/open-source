@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Database · Security
+Database · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ dbadminer/dbadminer: dbadminer/dbadminer helps teams persist, query, and move da
 
 ### Русский
 
-dbadminer/dbadminer: open-source проект в категориях Database, Security. Практическое применение: manage persistence; speed up data access. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+dbadminer/dbadminer: open-source проект в категориях Database, DevOps/Infra. Практическое применение: manage persistence; speed up data access. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,18 +65,18 @@ dbadminer/dbadminer：dbadminer/dbadminer helps teams persist, query, and move d
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 39/100 |
-| integration | 62/100 |
-| production | 56/100 |
-| outlook | 49/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 38/100 |
+| outlook | 49/100 |
+| quality | 39/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

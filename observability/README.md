@@ -101,7 +101,7 @@
 | 91 | [Yeraze/meshmonitor](./yeraze-meshmonitor.md) | ⭐ 725 | TypeScript | 62/100 |
 | 92 | [pglombardo/PasswordPusher](./pglombardo-passwordpusher.md) | ⭐ 3.2k | Ruby | 62/100 |
 | 93 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 16.5k | C | 62/100 |
-| 94 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 531 | TypeScript | 62/100 |
+| 94 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 532 | TypeScript | 62/100 |
 | 95 | [daboss2003/mooring](./daboss2003-mooring.md) | ⭐ 1 | Go | 61/100 |
 | 96 | [apache/skywalking-java](./apache-skywalking-java.md) | ⭐ 928 | Java | 61/100 |
 | 97 | [grafana/carbon-relay-ng](./grafana-carbon-relay-ng.md) | ⭐ 479 | Go | 61/100 |
@@ -136,7 +136,7 @@
 | 126 | [TX230/winproc-tui](./tx230-winproc-tui.md) | ⭐ 122 | Rust | 58/100 |
 | 127 | [tox-dev/platformdirs](./tox-dev-platformdirs.md) | ⭐ 1k | Python | 58/100 |
 | 128 | [openshift/cluster-monitoring-operator](./openshift-cluster-monitoring-operator.md) | ⭐ 266 | Go | 58/100 |
-| 129 | [github-community-projects/issue-metrics](./github-community-projects-issue-metrics.md) | ⭐ 541 | Python | 58/100 |
+| 129 | [github-community-projects/issue-metrics](./github-community-projects-issue-metrics.md) | ⭐ 542 | Python | 58/100 |
 | 130 | [DSheirer/sdrtrunk](./dsheirer-sdrtrunk.md) | ⭐ 2.2k | Java | 58/100 |
 | 131 | [aya-rs/aya](./aya-rs-aya.md) | ⭐ 4.9k | Rust | 58/100 |
 | 132 | [open-telemetry/opentelemetry-swift](./open-telemetry-opentelemetry-swift.md) | ⭐ 374 | Swift | 58/100 |
@@ -177,7 +177,7 @@
 | 167 | [carverauto/serviceradar](./carverauto-serviceradar.md) | ⭐ 933 | JavaScript | 55/100 |
 | 168 | [openbkn-ai/bkn-foundry](./openbkn-ai-bkn-foundry.md) | ⭐ 1.2k | Go | 54/100 |
 | 169 | [overcheck/overcheck](./overcheck-overcheck.md) | ⭐ 1 | — | 54/100 |
-| 170 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 586 | Python | 54/100 |
+| 170 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 587 | Python | 54/100 |
 | 171 | [vince-lam/awesome-local-llms](./vince-lam-awesome-local-llms.md) | ⭐ 813 | Python | 54/100 |
 | 172 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 54/100 |
 | 173 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.7k | Java | 54/100 |
@@ -228,7 +228,7 @@
 | 218 | [tallyhook/tallyhook-collector](./tallyhook-tallyhook-collector.md) | ⭐ 1 | — | 48/100 |
 | 219 | [poonesnerfect/jlf](./poonesnerfect-jlf.md) | ⭐ 34 | — | 48/100 |
 | 220 | [el10savio/obsIngest](./el10savio-obsingest.md) | ⭐ — | — | 48/100 |
-| 221 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 632 | C | 48/100 |
+| 221 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 637 | C | 48/100 |
 | 222 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 599 | Go | 48/100 |
 | 223 | [open-telemetry/opentelemetry-go-contrib](./open-telemetry-opentelemetry-go-contrib.md) | ⭐ 1.7k | Go | 48/100 |
 | 224 | [cloudwalk/stratus](./cloudwalk-stratus.md) | ⭐ 175 | Rust | 47/100 |

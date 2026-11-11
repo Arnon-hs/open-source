@@ -142,7 +142,7 @@
 | 132 | [budimanjojo/talhelper](./budimanjojo-talhelper.md) | ⭐ 693 | Go | 64/100 |
 | 133 | [oras-project/rust-oci-client](./oras-project-rust-oci-client.md) | ⭐ 191 | Rust | 64/100 |
 | 134 | [timothystewart6/techno-tim.github.io](./timothystewart6-techno-tim.github.io.md) | ⭐ 1.2k | Shell | 64/100 |
-| 135 | [rancher/dashboard](./rancher-dashboard.md) | ⭐ 631 | TypeScript | 64/100 |
+| 135 | [rancher/dashboard](./rancher-dashboard.md) | ⭐ 630 | TypeScript | 64/100 |
 | 136 | [SinTan1729/chhoto-url](./sintan1729-chhoto-url.md) | ⭐ 1k | Rust | 64/100 |
 | 137 | [henriquesebastiao/downtify](./henriquesebastiao-downtify.md) | ⭐ 868 | Python | 64/100 |
 | 138 | [thomiceli/opengist](./thomiceli-opengist.md) | ⭐ 3.4k | Go | 64/100 |
@@ -169,7 +169,7 @@
 | 159 | [openshift/microshift](./openshift-microshift.md) | ⭐ 850 | Go | 63/100 |
 | 160 | [pi-hole/docker-pi-hole](./pi-hole-docker-pi-hole.md) | ⭐ 11.8k | Shell | 63/100 |
 | 161 | [wodby/docker4drupal](./wodby-docker4drupal.md) | ⭐ 1.3k | Shell | 63/100 |
-| 162 | [Jagalite/superseedr](./jagalite-superseedr.md) | ⭐ 680 | Rust | 63/100 |
+| 162 | [Jagalite/superseedr](./jagalite-superseedr.md) | ⭐ 681 | Rust | 63/100 |
 | 163 | [suzuki-shunsuke/tfaction](./suzuki-shunsuke-tfaction.md) | ⭐ 406 | TypeScript | 63/100 |
 | 164 | [quay/quay](./quay-quay.md) | ⭐ 2.8k | Python | 63/100 |
 | 165 | [piomin/sample-spring-microservices-kubernetes](./piomin-sample-spring-microservices-kubernetes.md) | ⭐ 538 | Java | 63/100 |
@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -218,8 +218,8 @@
 | 208 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 32.2k | Go | 61/100 |
 | 209 | [docker/setup-buildx-action](./docker-setup-buildx-action.md) | ⭐ 1.4k | TypeScript | 60/100 |
 | 210 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 921 | Svelte | 60/100 |
-| 211 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
-| 212 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
+| 211 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
+| 212 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
 | 213 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 842 | JavaScript | 60/100 |
 | 214 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 32 | Nix | 60/100 |
 | 215 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 401 | Go | 60/100 |
@@ -239,7 +239,7 @@
 | 229 | [jenkinsci/helm-charts](./jenkinsci-helm-charts.md) | ⭐ 662 | Mustache | 59/100 |
 | 230 | [kubernetes/sig-release](./kubernetes-sig-release.md) | ⭐ 643 | Shell | 59/100 |
 | 231 | [microsoft/AL-Go](./microsoft-al-go.md) | ⭐ 515 | PowerShell | 59/100 |
-| 232 | [metabrainz/musicbrainz-docker](./metabrainz-musicbrainz-docker.md) | ⭐ 567 | Shell | 59/100 |
+| 232 | [metabrainz/musicbrainz-docker](./metabrainz-musicbrainz-docker.md) | ⭐ 568 | Shell | 59/100 |
 | 233 | [replicatedhq/kURL](./replicatedhq-kurl.md) | ⭐ 807 | Shell | 59/100 |
 | 234 | [kubernetes/cloud-provider-vsphere](./kubernetes-cloud-provider-vsphere.md) | ⭐ 278 | Go | 59/100 |
 | 235 | [web-infra-dev/rsdoctor](./web-infra-dev-rsdoctor.md) | ⭐ 1.2k | TypeScript | 59/100 |
@@ -279,7 +279,7 @@
 | 269 | [dag-andersen/argocd-diff-preview](./dag-andersen-argocd-diff-preview.md) | ⭐ 775 | HTML | 58/100 |
 | 270 | [The-DevOps-Daily/devops-daily](./the-devops-daily-devops-daily.md) | ⭐ 1.2k | TypeScript | 58/100 |
 | 271 | [lichess-org/lila-docker](./lichess-org-lila-docker.md) | ⭐ 130 | Rust | 57/100 |
-| 272 | [Tecnativa/doodba](./tecnativa-doodba.md) | ⭐ 557 | Dockerfile | 57/100 |
+| 272 | [Tecnativa/doodba](./tecnativa-doodba.md) | ⭐ 558 | Dockerfile | 57/100 |
 | 273 | [netbrain/zwift](./netbrain-zwift.md) | ⭐ 706 | Shell | 57/100 |
 | 274 | [googlecloudrobotics/core](./googlecloudrobotics-core.md) | ⭐ 210 | Go | 57/100 |
 | 275 | [hashicorp/terraform-provider-vault](./hashicorp-terraform-provider-vault.md) | ⭐ 513 | Go | 57/100 |
@@ -288,7 +288,7 @@
 | 278 | [pl4nty/cloudflare-kubernetes-gateway](./pl4nty-cloudflare-kubernetes-gateway.md) | ⭐ 327 | Go | 57/100 |
 | 279 | [fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter](./fluent-plugins-nursery-fluent-plugin-kubernetes-metadata-filter.md) | ⭐ 355 | Ruby | 57/100 |
 | 280 | [devops-works/binenv](./devops-works-binenv.md) | ⭐ 408 | Go | 57/100 |
-| 281 | [docker/model-runner](./docker-model-runner.md) | ⭐ 659 | Go | 57/100 |
+| 281 | [docker/model-runner](./docker-model-runner.md) | ⭐ 661 | Go | 57/100 |
 | 282 | [discourse/discourse_docker](./discourse-discourse-docker.md) | ⭐ 1.9k | Shell | 57/100 |
 | 283 | [volcano-sh/kthena](./volcano-sh-kthena.md) | ⭐ 497 | Go | 57/100 |
 | 284 | [aliyun/terraform-provider-alicloud](./aliyun-terraform-provider-alicloud.md) | ⭐ 663 | Go | 57/100 |
@@ -408,11 +408,11 @@
 | 398 | [trydirect/stacker](./trydirect-stacker.md) | ⭐ 7 | — | 48/100 |
 | 399 | [amiorin/red](./amiorin-red.md) | ⭐ — | — | 48/100 |
 | 400 | [shirozuki/claude-cli](./shirozuki-claude-cli.md) | ⭐ 8 | — | 48/100 |
-| 401 | [mkuthan/homelab-public](./mkuthan-homelab-public.md) | ⭐ 628 | HCL | 48/100 |
+| 401 | [mkuthan/homelab-public](./mkuthan-homelab-public.md) | ⭐ 630 | HCL | 48/100 |
 | 402 | [platform-engineering-labs/formae](./platform-engineering-labs-formae.md) | ⭐ 782 | Go | 48/100 |
 | 403 | [kubernetes/k8s.io](./kubernetes-k8s.io.md) | ⭐ 982 | HCL | 48/100 |
 | 404 | [buroa/k8s-gitops](./buroa-k8s-gitops.md) | ⭐ 374 | YAML | 48/100 |
-| 405 | [nikolaik/docker-python-nodejs](./nikolaik-docker-python-nodejs.md) | ⭐ 561 | Python | 48/100 |
+| 405 | [nikolaik/docker-python-nodejs](./nikolaik-docker-python-nodejs.md) | ⭐ 562 | Python | 48/100 |
 | 406 | [mtizima/docker-rollout-action](./mtizima-docker-rollout-action.md) | ⭐ 16 | — | 47/100 |
 | 407 | [kubernetes-sigs/kind](./kubernetes-sigs-kind.md) | ⭐ 15.6k | — | 47/100 |
 | 408 | [rafnixg/odoo-platform-ephemeral-environment](./rafnixg-odoo-platform-ephemeral-environment.md) | ⭐ 6 | — | 47/100 |
@@ -424,7 +424,7 @@
 | 414 | [gisiahq/gisia](./gisiahq-gisia.md) | ⭐ 167 | Ruby | 46/100 |
 | 415 | [anway-dev/anway](./anway-dev-anway.md) | ⭐ 8 | — | 46/100 |
 | 416 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 398 | Go | 46/100 |
-| 417 | [docker-library/repo-info](./docker-library-repo-info.md) | ⭐ 611 | Perl | 46/100 |
+| 417 | [docker-library/repo-info](./docker-library-repo-info.md) | ⭐ 612 | Perl | 46/100 |
 | 418 | [signadot/hotrod](./signadot-hotrod.md) | ⭐ 23 | Go | 46/100 |
 | 419 | [docker/sandbox-kit-spec](./docker-sandbox-kit-spec.md) | ⭐ 183 | — | 45/100 |
 | 420 | [tara-vision/taracode](./tara-vision-taracode.md) | ⭐ 51 | — | 45/100 |

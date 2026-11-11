@@ -65,18 +65,18 @@ microsoft/monaco-editor：microsoft/monaco-editor helps add AI capability withou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 89/100 |
-| integration | 46/100 |
-| production | 72/100 |
-| outlook | 81/100 |
-| adoption | 97/100 |
-| categoryMatchCount | 100/100 |
-| stars | 99/100 |
 | forks | 90/100 |
-| recency | 80/100 |
+| stars | 99/100 |
 | topics | 100/100 |
+| outlook | 81/100 |
+| quality | 89/100 |
+| recency | 80/100 |
+| adoption | 97/100 |
+| production | 72/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

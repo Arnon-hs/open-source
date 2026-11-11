@@ -48,8 +48,8 @@
 | 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 675 | Vue | 58/100 |
 | 39 | [TousstNicolas/JLC2KiCad_lib](./tousstnicolas-jlc2kicad-lib.md) | ⭐ 491 | Python | 58/100 |
 | 40 | [alphagov/govuk-design-system](./alphagov-govuk-design-system.md) | ⭐ 689 | Nunjucks | 58/100 |
-| 41 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 520 | TypeScript | 58/100 |
-| 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 609 | Python | 58/100 |
+| 41 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 519 | TypeScript | 58/100 |
+| 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 610 | Python | 58/100 |
 | 43 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 26.2k | JavaScript | 58/100 |
 | 44 | [liquidslr/system-design-notes](./liquidslr-system-design-notes.md) | ⭐ 28.2k | — | 57/100 |
 | 45 | [davgar99/arch-linux-font-improvement-guide](./davgar99-arch-linux-font-improvement-guide.md) | ⭐ 263 | — | 57/100 |
@@ -96,7 +96,7 @@
 | 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 562 | Swift | 52/100 |
 | 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.2k | Handlebars | 52/100 |
 | 88 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 107 | Rust | 52/100 |
-| 89 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 625 | Rust | 52/100 |
+| 89 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 627 | Rust | 52/100 |
 | 90 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 329 | HTML | 52/100 |
 | 91 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.4k | WebAssembly | 52/100 |
 | 92 | [openhwgroup/cvw](./openhwgroup-cvw.md) | ⭐ 553 | SystemVerilog | 52/100 |
@@ -136,7 +136,7 @@
 | 126 | [ckcool6/GGUF_Libra](./ckcool6-gguf-libra.md) | ⭐ 2 | — | 45/100 |
 | 127 | [kmaida/deslop-skills](./kmaida-deslop-skills.md) | ⭐ 15 | — | 45/100 |
 | 128 | [boldaxolotl/booley](./boldaxolotl-booley.md) | ⭐ 25 | — | 45/100 |
-| 129 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 655 | Java | 45/100 |
+| 129 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 656 | Java | 45/100 |
 | 130 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 343 | C++ | 45/100 |
 | 131 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 221 | PHP | 45/100 |
 | 132 | [MickeyAlton33/web-designer-plugin](./mickeyalton33-web-designer-plugin.md) | ⭐ 115 | — | 44/100 |

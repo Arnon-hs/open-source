@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 361 | TypeScript | 65/100 |
@@ -112,7 +112,7 @@
 | 102 | [Obiente/nc-native](./obiente-nc-native.md) | ⭐ 225 | Kotlin | 63/100 |
 | 103 | [maathimself/mailflow](./maathimself-mailflow.md) | ⭐ 668 | JavaScript | 63/100 |
 | 104 | [meli/meli](./meli-meli.md) | ⭐ 898 | Rust | 63/100 |
-| 105 | [krishn404/Git-Friend](./krishn404-git-friend.md) | ⭐ 598 | TypeScript | 63/100 |
+| 105 | [krishn404/Git-Friend](./krishn404-git-friend.md) | ⭐ 599 | TypeScript | 63/100 |
 | 106 | [disposable-email-domains/disposable-email-domains](./disposable-email-domains-disposable-email-domains.md) | ⭐ 5.7k | Python | 63/100 |
 | 107 | [shuakami/qq-chat-exporter](./shuakami-qq-chat-exporter.md) | ⭐ 6.1k | TypeScript | 63/100 |
 | 108 | [GetStream/stream-cli](./getstream-stream-cli.md) | ⭐ 89 | Go | 63/100 |
@@ -137,7 +137,7 @@
 | 127 | [miroslavpejic85/call-me](./miroslavpejic85-call-me.md) | ⭐ 767 | JavaScript | 62/100 |
 | 128 | [nodemailer/nodemailer](./nodemailer-nodemailer.md) | ⭐ 17.7k | TypeScript | 61/100 |
 | 129 | [Andiveli/wptui](./andiveli-wptui.md) | ⭐ 200 | Rust | 61/100 |
-| 130 | [jonhoo/rust-imap](./jonhoo-rust-imap.md) | ⭐ 583 | Rust | 61/100 |
+| 130 | [jonhoo/rust-imap](./jonhoo-rust-imap.md) | ⭐ 584 | Rust | 61/100 |
 | 131 | [fluxerapp/fluxer](./fluxerapp-fluxer.md) | ⭐ 10.8k | TypeScript | 61/100 |
 | 132 | [bigbluebutton/bigbluebutton](./bigbluebutton-bigbluebutton.md) | ⭐ 9.3k | JavaScript | 61/100 |
 | 133 | [Kozea/Radicale](./kozea-radicale.md) | ⭐ 5.2k | Python | 61/100 |
@@ -193,7 +193,7 @@
 | 183 | [opensource-socialnetwork/opensource-socialnetwork](./opensource-socialnetwork-opensource-socialnetwork.md) | ⭐ 1.3k | PHP | 58/100 |
 | 184 | [alainm23/planify](./alainm23-planify.md) | ⭐ 5.8k | Vala | 58/100 |
 | 185 | [neomutt/neomutt](./neomutt-neomutt.md) | ⭐ 3.9k | C | 58/100 |
-| 186 | [jhillyerd/enmime](./jhillyerd-enmime.md) | ⭐ 526 | Go | 57/100 |
+| 186 | [jhillyerd/enmime](./jhillyerd-enmime.md) | ⭐ 528 | Go | 57/100 |
 | 187 | [rufftruffles/spameater](./rufftruffles-spameater.md) | ⭐ 229 | JavaScript | 57/100 |
 | 188 | [spatie/calendar-links](./spatie-calendar-links.md) | ⭐ 1k | PHP | 57/100 |
 | 189 | [happyDomain/happydeliver](./happydomain-happydeliver.md) | ⭐ 238 | Go | 57/100 |
@@ -276,7 +276,7 @@
 | 266 | [aeron-io/aeron](./aeron-io-aeron.md) | ⭐ 9k | Java | 51/100 |
 | 267 | [edulazaro/laragents](./edulazaro-laragents.md) | ⭐ 5 | PHP | 50/100 |
 | 268 | [inline-chat/inline](./inline-chat-inline.md) | ⭐ 909 | Rust | 50/100 |
-| 269 | [OpenClaudia/openclaudia-skills](./openclaudia-openclaudia-skills.md) | ⭐ 736 | JavaScript | 50/100 |
+| 269 | [OpenClaudia/openclaudia-skills](./openclaudia-openclaudia-skills.md) | ⭐ 737 | JavaScript | 50/100 |
 | 270 | [open-chat-labs/open-chat](./open-chat-labs-open-chat.md) | ⭐ 208 | Rust | 50/100 |
 | 271 | [7c/fakefilter](./7c-fakefilter.md) | ⭐ 359 | JavaScript | 50/100 |
 | 272 | [apache/iggy](./apache-iggy.md) | ⭐ 5.3k | Rust | 50/100 |
@@ -361,8 +361,8 @@
 | 351 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 352 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 353 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 354 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 354 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 356 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 357 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 358 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

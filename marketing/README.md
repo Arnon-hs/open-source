@@ -39,7 +39,7 @@
 | 29 | [clicksdynastyincali/local-seo-lint](./clicksdynastyincali-local-seo-lint.md) | ⭐ — | — | 41/100 |
 | 30 | [imlotso/discourse-indexnow](./imlotso-discourse-indexnow.md) | ⭐ 2 | Ruby | 39/100 |
 | 31 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 39/100 |
-| 32 | [Illyism/seo-skills](./illyism-seo-skills.md) | ⭐ 732 | — | 38/100 |
+| 32 | [Illyism/seo-skills](./illyism-seo-skills.md) | ⭐ 741 | — | 38/100 |
 | 33 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ 75 | — | 38/100 |
 | 34 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 38/100 |
 | 35 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ 8 | — | 38/100 |
