@@ -1,6 +1,6 @@
 # johnohhh1/librelink-mcp-rs
 
-[![Stars](https://img.shields.io/github/stars/johnohhh1/librelink-mcp-rs?style=flat-square&color=yellow)](https://github.com/johnohhh1/librelink-mcp-rs/stargazers) [![Forks](https://img.shields.io/github/forks/johnohhh1/librelink-mcp-rs?style=flat-square&color=blue)](https://github.com/johnohhh1/librelink-mcp-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/johnohhh1/librelink-mcp-rs?style=flat-square&color=yellow)](https://github.com/johnohhh1/librelink-mcp-rs/stargazers) [![Forks](https://img.shields.io/github/forks/johnohhh1/librelink-mcp-rs?style=flat-square&color=blue)](https://github.com/johnohhh1/librelink-mcp-rs/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Privacy-conscious Rust MCP server for LibreLinkUp sharing data, with eight compatible tools and honest data freshness.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ johnohhh1/librelink-mcp-rs：johnohhh1/librelink-mcp-rs helps connect AI assista
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-06
 - primary language: Rust
 - 8 topics
@@ -64,13 +65,13 @@ johnohhh1/librelink-mcp-rs：johnohhh1/librelink-mcp-rs helps connect AI assista
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 45/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 63/100 |
-| adoption | 0/100 |
+| production | 57/100 |
+| outlook | 64/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 300/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

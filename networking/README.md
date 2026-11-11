@@ -560,7 +560,7 @@
 | 550 | [sunny9577/proxy-scraper](./sunny9577-proxy-scraper.md) | ⭐ 598 | JavaScript | 46/100 |
 | 551 | [gnu4cn/ccna60d](./gnu4cn-ccna60d.md) | ⭐ 509 | Handlebars | 46/100 |
 | 552 | [actix/actix-net](./actix-actix-net.md) | ⭐ 777 | Rust | 46/100 |
-| 553 | [lastreload/mnemonic-proxy](./lastreload-mnemonic-proxy.md) | ⭐ 61 | — | 45/100 |
+| 553 | [lastreload/mnemonic-proxy](./lastreload-mnemonic-proxy.md) | ⭐ 65 | — | 45/100 |
 | 554 | [koldakov/proxium](./koldakov-proxium.md) | ⭐ 5 | — | 45/100 |
 | 555 | [personalagentproxy/proxy](./personalagentproxy-proxy.md) | ⭐ 165 | — | 45/100 |
 | 556 | [roozjalali/ariodb](./roozjalali-ariodb.md) | ⭐ — | — | 45/100 |
@@ -581,8 +581,8 @@
 | 571 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 572 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 652 | — | 45/100 |
 | 573 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 574 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
-| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 574 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
 | 576 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 577 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 578 | [aschmelyun/docker-compose-traefik](./aschmelyun-docker-compose-traefik.md) | ⭐ 59 | PHP | 43/100 |
@@ -625,7 +625,7 @@
 | 615 | [shellroute/shellroute-cli](./shellroute-shellroute-cli.md) | ⭐ 8 | — | 41/100 |
 | 616 | [nodemaven/proxy-benchmark](./nodemaven-proxy-benchmark.md) | ⭐ 71 | — | 41/100 |
 | 617 | [coderexpert123/cognition-claude-proxy](./coderexpert123-cognition-claude-proxy.md) | ⭐ 6 | — | 41/100 |
-| 618 | [logimaxx/wg-admin](./logimaxx-wg-admin.md) | ⭐ 44 | — | 41/100 |
+| 618 | [logimaxx/wg-admin](./logimaxx-wg-admin.md) | ⭐ 45 | — | 41/100 |
 | 619 | [marsbos/mador](./marsbos-mador.md) | ⭐ 123 | — | 41/100 |
 | 620 | [Geod24/wireguard](./geod24-wireguard.md) | ⭐ — | — | 41/100 |
 | 621 | [lordraw77/llmproxy](./lordraw77-llmproxy.md) | ⭐ 2 | — | 41/100 |
@@ -651,7 +651,7 @@
 | 641 | [bartei/wiregui](./bartei-wiregui.md) | ⭐ 81 | — | 38/100 |
 | 642 | [shivnathtathe/UnlimitedNIM](./shivnathtathe-unlimitednim.md) | ⭐ 4 | — | 38/100 |
 | 643 | [ytkoka/impersonate-proxy](./ytkoka-impersonate-proxy.md) | ⭐ 47 | — | 38/100 |
-| 644 | [linxiv-dev/linXiv](./linxiv-dev-linxiv.md) | ⭐ 64 | — | 38/100 |
+| 644 | [linxiv-dev/linXiv](./linxiv-dev-linxiv.md) | ⭐ 65 | — | 38/100 |
 | 645 | [aikitoria/open-gpu-kernel-modules](./aikitoria-open-gpu-kernel-modules.md) | ⭐ 703 | — | 38/100 |
 | 646 | [clevotec/cleversocks](./clevotec-cleversocks.md) | ⭐ 1 | — | 38/100 |
 | 647 | [ryanzhou/dsv4-codex-proxy](./ryanzhou-dsv4-codex-proxy.md) | ⭐ 1 | — | 38/100 |
@@ -665,7 +665,7 @@
 | 655 | [magik6k/git-remote-iroh](./magik6k-git-remote-iroh.md) | ⭐ 10 | — | 38/100 |
 | 656 | [jamkernel/jamkernelp2p](./jamkernel-jamkernelp2p.md) | ⭐ 3 | — | 38/100 |
 | 657 | [proxybasehq/socks5-bridge](./proxybasehq-socks5-bridge.md) | ⭐ 1 | — | 38/100 |
-| 658 | [ktock/llmlet](./ktock-llmlet.md) | ⭐ 24 | — | 38/100 |
+| 658 | [ktock/llmlet](./ktock-llmlet.md) | ⭐ 25 | — | 38/100 |
 | 659 | [aashish-thapa/wlctl](./aashish-thapa-wlctl.md) | ⭐ 190 | — | 38/100 |
 | 660 | [Realman78/Kiyeovo](./realman78-kiyeovo.md) | ⭐ — | — | 38/100 |
 | 661 | [hajoon22/icmp-p2p](./hajoon22-icmp-p2p.md) | ⭐ — | — | 38/100 |

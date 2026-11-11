@@ -286,7 +286,7 @@
 | 276 | [premtonx/statetrack](./premtonx-statetrack.md) | ⭐ 3 | — | 41/100 |
 | 277 | [janinishant/otel-log-span-status](./janinishant-otel-log-span-status.md) | ⭐ 1 | — | 41/100 |
 | 278 | [nico/ninjatracing](./nico-ninjatracing.md) | ⭐ 530 | — | 41/100 |
-| 279 | [LogneBudo/llmxray](./lognebudo-llmxray.md) | ⭐ 28 | — | 41/100 |
+| 279 | [LogneBudo/llmxray](./lognebudo-llmxray.md) | ⭐ 29 | — | 41/100 |
 | 280 | [jdleonruiz/estela-cli](./jdleonruiz-estela-cli.md) | ⭐ 3 | — | 41/100 |
 | 281 | [sponsoredlogs/sponsored-logs-rs](./sponsoredlogs-sponsored-logs-rs.md) | ⭐ 3 | — | 41/100 |
 | 282 | [datadog-labs/reflex](./datadog-labs-reflex.md) | ⭐ 34 | — | 41/100 |

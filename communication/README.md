@@ -385,7 +385,7 @@
 | 375 | [skorotkiewicz/lfm3-chat](./skorotkiewicz-lfm3-chat.md) | ⭐ 1 | — | 41/100 |
 | 376 | [moldandyeast/claude-computer](./moldandyeast-claude-computer.md) | ⭐ 14 | — | 41/100 |
 | 377 | [anasachouri/flowboard](./anasachouri-flowboard.md) | ⭐ 3 | — | 41/100 |
-| 378 | [lkorth/space-calendar](./lkorth-space-calendar.md) | ⭐ 11 | — | 41/100 |
+| 378 | [lkorth/space-calendar](./lkorth-space-calendar.md) | ⭐ 12 | — | 41/100 |
 | 379 | [shuaibird/Quick-Chat](./shuaibird-quick-chat.md) | ⭐ 13 | — | 41/100 |
 | 380 | [waifu-devs/fuwa](./waifu-devs-fuwa.md) | ⭐ — | — | 41/100 |
 | 381 | [cloudamqp/lavinmq-demos](./cloudamqp-lavinmq-demos.md) | ⭐ — | — | 41/100 |

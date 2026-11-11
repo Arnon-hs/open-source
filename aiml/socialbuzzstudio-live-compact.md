@@ -65,18 +65,18 @@ SocialBuzzStudio/live-compact：SocialBuzzStudio/live-compact helps add AI capab
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 52/100 |
-| adoption | 11/100 |
-| categoryMatchCount | 100/100 |
-| stars | 13/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 13/100 |
 | topics | 63/100 |
+| outlook | 52/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 11/100 |
+| production | 58/100 |
+| usefulness | 42/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

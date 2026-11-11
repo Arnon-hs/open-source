@@ -286,7 +286,7 @@
 | 276 | [bmorcelli/Launcher](./bmorcelli-launcher.md) | ⭐ 2.3k | C++ | 46/100 |
 | 277 | [gaopengbin/geo-downloader](./gaopengbin-geo-downloader.md) | ⭐ 444 | Rust | 46/100 |
 | 278 | [eval-exec/neomacs](./eval-exec-neomacs.md) | ⭐ 1.8k | Emacs Lisp | 46/100 |
-| 279 | [KewinDousse/natel](./kewindousse-natel.md) | ⭐ 10 | — | 45/100 |
+| 279 | [KewinDousse/natel](./kewindousse-natel.md) | ⭐ 12 | — | 45/100 |
 | 280 | [snehaldutta/Dhwani](./snehaldutta-dhwani.md) | ⭐ — | — | 45/100 |
 | 281 | [AbsoluteMode/whytap](./absolutemode-whytap.md) | ⭐ 1 | — | 45/100 |
 | 282 | [Martzcode/Capricio](./martzcode-capricio.md) | ⭐ 1 | TypeScript | 45/100 |
@@ -312,8 +312,8 @@
 | 302 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 303 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 304 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 305 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
-| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 305 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
 | 307 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 308 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 309 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |

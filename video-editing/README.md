@@ -607,7 +607,7 @@
 | 597 | [wojciechowskiapp/Kaption](./wojciechowskiapp-kaption.md) | ⭐ 8 | — | 42/100 |
 | 598 | [DeegoFronk/Auto-Vod-Trimmer](./deegofronk-auto-vod-trimmer.md) | ⭐ 5 | — | 42/100 |
 | 599 | [justinseanmartin/Retake](./justinseanmartin-retake.md) | ⭐ — | — | 41/100 |
-| 600 | [kadirb4rut/voxadub](./kadirb4rut-voxadub.md) | ⭐ 22 | — | 41/100 |
+| 600 | [kadirb4rut/voxadub](./kadirb4rut-voxadub.md) | ⭐ 24 | — | 41/100 |
 | 601 | [belfortlabs/blindsight-demo](./belfortlabs-blindsight-demo.md) | ⭐ — | — | 41/100 |
 | 602 | [acalejos/CinEx](./acalejos-cinex.md) | ⭐ 142 | — | 41/100 |
 | 603 | [hydope/shortsmash](./hydope-shortsmash.md) | ⭐ 3 | — | 41/100 |

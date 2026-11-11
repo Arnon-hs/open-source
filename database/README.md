@@ -455,7 +455,7 @@
 | 445 | [tooltechgeek/nodb_table](./tooltechgeek-nodb-table.md) | ⭐ 3 | — | 41/100 |
 | 446 | [mkleczek/pseudogress](./mkleczek-pseudogress.md) | ⭐ 3 | — | 41/100 |
 | 447 | [agntflw/claude-dbview](./agntflw-claude-dbview.md) | ⭐ 1 | — | 41/100 |
-| 448 | [kividbio/kividb](./kividbio-kividb.md) | ⭐ 1k | — | 41/100 |
+| 448 | [kividbio/kividb](./kividbio-kividb.md) | ⭐ 1.1k | — | 41/100 |
 | 449 | [exasol-labs/language-container-mojo](./exasol-labs-language-container-mojo.md) | ⭐ — | — | 41/100 |
 | 450 | [scriptella/scriptella-benchmarks](./scriptella-scriptella-benchmarks.md) | ⭐ 3 | — | 41/100 |
 | 451 | [govindgcoder/arcKode](./govindgcoder-arckode.md) | ⭐ 4 | — | 41/100 |
@@ -549,8 +549,8 @@
 | 539 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 540 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 541 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 431 | — | 38/100 |
-| 542 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 70 | — | 38/100 |
-| 543 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 542 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 543 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 70 | — | 38/100 |
 | 544 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 545 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 442 | — | 38/100 |
 | 546 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |

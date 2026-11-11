@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML
+Automation · AI/ML · Productivity · DevTools
 
 ## 📝 Summary
 
 ### English
 
-kharchangai/Mocu: kharchangai/Mocu helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kharchangai/Mocu: kharchangai/Mocu helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-kharchangai/Mocu: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+kharchangai/Mocu: open-source проект в категориях Automation, AI/ML, Productivity, DevTools. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-kharchangai/Mocu：kharchangai/Mocu helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+kharchangai/Mocu：kharchangai/Mocu helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** kharchangai/Mocu helps add AI capability without starting from a blank model stack.
+**Value:** kharchangai/Mocu helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -63,19 +63,19 @@ kharchangai/Mocu：kharchangai/Mocu helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 67/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 100/100 |
-| stars | 10/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 10/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/kharchangai/Mocu) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/kharchangai/Mocu) · [← Back to Automation](./README.md)</sub>
