@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 778 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 564 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
-| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
+| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
+| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.3k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -369,7 +369,7 @@
 | 359 | [masterking32/MasterHttpRelayVPN](./masterking32-masterhttprelayvpn.md) | ⭐ 4k | Python | 56/100 |
 | 360 | [safedep/pmg](./safedep-pmg.md) | ⭐ 563 | Go | 56/100 |
 | 361 | [firezone/firezone](./firezone-firezone.md) | ⭐ 9.2k | Elixir | 56/100 |
-| 362 | [glincker/levelrail](./glincker-levelrail.md) | ⭐ 197 | Go | 55/100 |
+| 362 | [glincker/levelrail](./glincker-levelrail.md) | ⭐ 200 | Go | 55/100 |
 | 363 | [OpenAyame/ayame](./openayame-ayame.md) | ⭐ 337 | Go | 55/100 |
 | 364 | [orbien-org/orbien](./orbien-org-orbien.md) | ⭐ 1.6k | Rust | 55/100 |
 | 365 | [ShadowWhisperer/BlockLists](./shadowwhisperer-blocklists.md) | ⭐ 460 | — | 55/100 |

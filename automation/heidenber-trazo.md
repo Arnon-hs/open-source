@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2 |
+| ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 66/100 |
@@ -53,7 +53,7 @@ heidenber/trazo：heidenber/trazo helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 2 GitHub stars
+- 3 GitHub stars
 - 3 forks
 - updated 2026-11-09
 - primary language: TypeScript
@@ -66,13 +66,13 @@ heidenber/trazo：heidenber/trazo helps remove repetitive manual operations from
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 56/100 |
+| quality | 57/100 |
 | integration | 62/100 |
 | production | 67/100 |
 | outlook | 73/100 |
-| adoption | 12/100 |
+| adoption | 13/100 |
 | categoryMatchCount | 100/100 |
-| stars | 10/100 |
+| stars | 13/100 |
 | forks | 15/100 |
 | recency | 100/100 |
 | topics | 100/100 |

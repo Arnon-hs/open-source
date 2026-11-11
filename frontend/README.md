@@ -399,7 +399,7 @@
 | 389 | [palantir/blueprint](./palantir-blueprint.md) | ⭐ 22.2k | TypeScript | 62/100 |
 | 390 | [mattermost/mattermost](./mattermost-mattermost.md) | ⭐ 39.6k | TypeScript | 62/100 |
 | 391 | [invertase/react-native-google-mobile-ads](./invertase-react-native-google-mobile-ads.md) | ⭐ 1k | TypeScript | 61/100 |
-| 392 | [aixisstudio/Snitch](./aixisstudio-snitch.md) | ⭐ 786 | Python | 61/100 |
+| 392 | [aixisstudio/Snitch](./aixisstudio-snitch.md) | ⭐ 790 | Python | 61/100 |
 | 393 | [AkiChase/scrcpy-mask](./akichase-scrcpy-mask.md) | ⭐ 1.1k | Rust | 61/100 |
 | 394 | [gtkx-org/gtkx](./gtkx-org-gtkx.md) | ⭐ 493 | TypeScript | 61/100 |
 | 395 | [zhu1090093659/dsh-web-ui](./zhu1090093659-dsh-web-ui.md) | ⭐ 2k | TypeScript | 61/100 |
@@ -517,8 +517,8 @@
 | 507 | [sveltejs/eslint-plugin-svelte](./sveltejs-eslint-plugin-svelte.md) | ⭐ 413 | TypeScript | 59/100 |
 | 508 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 893 | TypeScript | 59/100 |
 | 509 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 815 | TypeScript | 59/100 |
-| 510 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
-| 511 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 510 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 511 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 512 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 513 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 360 | TypeScript | 59/100 |
 | 514 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 676 | Rust | 59/100 |
@@ -793,9 +793,9 @@
 | 783 | [libnyanpasu/clash-nyanpasu](./libnyanpasu-clash-nyanpasu.md) | ⭐ 13.3k | Rust | 53/100 |
 | 784 | [Mozzo1000/booklogr](./mozzo1000-booklogr.md) | ⭐ 638 | JavaScript | 53/100 |
 | 785 | [metasfresh/metasfresh](./metasfresh-metasfresh.md) | ⭐ 2.5k | Java | 53/100 |
-| 786 | [Hanubaki/GraphFlow](./hanubaki-graphflow.md) | ⭐ 12 | TypeScript | 52/100 |
+| 786 | [Hanubaki/GraphFlow](./hanubaki-graphflow.md) | ⭐ 13 | TypeScript | 52/100 |
 | 787 | [GhaziAlibi/helixsync](./ghazialibi-helixsync.md) | ⭐ 26 | TypeScript | 52/100 |
-| 788 | [vikashsparxit/the-talent-app](./vikashsparxit-the-talent-app.md) | ⭐ 3 | TypeScript | 52/100 |
+| 788 | [vikashsparxit/the-talent-app](./vikashsparxit-the-talent-app.md) | ⭐ 4 | TypeScript | 52/100 |
 | 789 | [F0Rextasy/bigbullui](./f0rextasy-bigbullui.md) | ⭐ 5 | TypeScript | 52/100 |
 | 790 | [darkly-art/darkly](./darkly-art-darkly.md) | ⭐ 417 | Rust | 52/100 |
 | 791 | [iamnbutler/gpuikit](./iamnbutler-gpuikit.md) | ⭐ 201 | Rust | 52/100 |
@@ -844,7 +844,7 @@
 | 834 | [vchelaru/Gum](./vchelaru-gum.md) | ⭐ 658 | C# | 50/100 |
 | 835 | [KittyCAD/modeling-app](./kittycad-modeling-app.md) | ⭐ 1.3k | TypeScript | 50/100 |
 | 836 | [sanidhyy/space-portfolio](./sanidhyy-space-portfolio.md) | ⭐ 547 | TypeScript | 50/100 |
-| 837 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 48 | TypeScript | 49/100 |
+| 837 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 50 | TypeScript | 49/100 |
 | 838 | [ShazMoghaddam/bezel-charts](./shazmoghaddam-bezel-charts.md) | ⭐ 1 | JavaScript | 49/100 |
 | 839 | [MA-Ahmad/myPortfolio](./ma-ahmad-myportfolio.md) | ⭐ 239 | — | 49/100 |
 | 840 | [shane-jacobeen/schema3d](./shane-jacobeen-schema3d.md) | ⭐ 19 | TypeScript | 49/100 |

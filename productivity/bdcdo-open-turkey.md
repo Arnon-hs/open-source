@@ -1,6 +1,6 @@
 # bdcdo/open-turkey
 
-[![Stars](https://img.shields.io/github/stars/bdcdo/open-turkey?style=flat-square&color=yellow)](https://github.com/bdcdo/open-turkey/stargazers) [![Forks](https://img.shields.io/github/forks/bdcdo/open-turkey?style=flat-square&color=blue)](https://github.com/bdcdo/open-turkey/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/bdcdo/open-turkey?style=flat-square&color=yellow)](https://github.com/bdcdo/open-turkey/stargazers) [![Forks](https://img.shields.io/github/forks/bdcdo/open-turkey?style=flat-square&color=blue)](https://github.com/bdcdo/open-turkey/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, Linux-native website & app blocker (Cold Turkey alternative). CLI + systemd, 4 enforcement layers.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 19 |
-| 🍴 **Forks** | 6 |
+| 🍴 **Forks** | 7 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -52,7 +52,7 @@ bdcdo/open-turkey：bdcdo/open-turkey may be useful when its README and activity
 **Quality signals**
 
 - 19 GitHub stars
-- 6 forks
+- 7 forks
 - updated 2026-11-03
 - primary language: Go
 - 17 topics
@@ -71,7 +71,7 @@ bdcdo/open-turkey：bdcdo/open-turkey may be useful when its README and activity
 | adoption | 26/100 |
 | categoryMatchCount | 100/100 |
 | stars | 28/100 |
-| forks | 21/100 |
+| forks | 23/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

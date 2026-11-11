@@ -151,7 +151,7 @@
 | 141 | [sammcj/agentic-coding](./sammcj-agentic-coding.md) | ⭐ 170 | Python | 72/100 |
 | 142 | [lbedner/aegis-stack](./lbedner-aegis-stack.md) | ⭐ 146 | Python | 72/100 |
 | 143 | [codedthemes/berry-free-react-admin-template](./codedthemes-berry-free-react-admin-template.md) | ⭐ 2.2k | JavaScript | 71/100 |
-| 144 | [dioptx/weft](./dioptx-weft.md) | ⭐ 28 | Python | 71/100 |
+| 144 | [dioptx/weft](./dioptx-weft.md) | ⭐ 29 | Python | 71/100 |
 | 145 | [AbhiVarde/syncui](./abhivarde-syncui.md) | ⭐ 126 | JavaScript | 71/100 |
 | 146 | [wingkwong/leetcode-the-hard-way](./wingkwong-leetcode-the-hard-way.md) | ⭐ 954 | MDX | 71/100 |
 | 147 | [mugnavo/tanstarter](./mugnavo-tanstarter.md) | ⭐ 1.3k | TypeScript | 71/100 |

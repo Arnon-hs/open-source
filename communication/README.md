@@ -348,7 +348,7 @@
 | 338 | [jafoers/kalkee](./jafoers-kalkee.md) | ⭐ 2 | — | 44/100 |
 | 339 | [effessdev/reptclip](./effessdev-reptclip.md) | ⭐ — | Python | 44/100 |
 | 340 | [royalpinto007/Kabootar](./royalpinto007-kabootar.md) | ⭐ 3 | Dart | 43/100 |
-| 341 | [ahmad-maqsood/unitask](./ahmad-maqsood-unitask.md) | ⭐ 2 | Kotlin | 42/100 |
+| 341 | [ahmad-maqsood/unitask](./ahmad-maqsood-unitask.md) | ⭐ 11 | Kotlin | 42/100 |
 | 342 | [Arthur031221/ChitWeave](./arthur031221-chitweave.md) | ⭐ 1 | JavaScript | 42/100 |
 | 343 | [AniketWathore/bolnee-chat](./aniketwathore-bolnee-chat.md) | ⭐ 37 | — | 42/100 |
 | 344 | [leeguooooo/AgentParty](./leeguooooo-agentparty.md) | ⭐ 35 | — | 42/100 |
@@ -361,8 +361,8 @@
 | 351 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 352 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 353 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 354 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
-| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 354 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
 | 356 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 357 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 358 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

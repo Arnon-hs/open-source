@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
 | 📈 **Score** | 61/100 |
@@ -53,7 +53,7 @@ dlfkdLR/CodeRim：dlfkdLR/CodeRim helps add AI capability without starting from 
 
 **Quality signals**
 
-- 3 GitHub stars
+- 4 GitHub stars
 - updated 2026-11-09
 - primary language: C#
 - 6 topics
@@ -65,13 +65,13 @@ dlfkdLR/CodeRim：dlfkdLR/CodeRim helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 51/100 |
+| quality | 52/100 |
 | integration | 46/100 |
 | production | 63/100 |
 | outlook | 70/100 |
-| adoption | 9/100 |
+| adoption | 11/100 |
 | categoryMatchCount | 200/100 |
-| stars | 13/100 |
+| stars | 15/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 75/100 |

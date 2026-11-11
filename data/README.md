@@ -334,7 +334,7 @@
 | 324 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 759 | Rust | 47/100 |
 | 325 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 484 | Java | 47/100 |
 | 326 | [ashtonckj/Purrrfessorrr-Slothhh](./ashtonckj-purrrfessorrr-slothhh.md) | ⭐ 3 | Python | 46/100 |
-| 327 | [dmitriy-iliyov/oncebox](./dmitriy-iliyov-oncebox.md) | ⭐ 15 | Java | 46/100 |
+| 327 | [dmitriy-iliyov/oncebox](./dmitriy-iliyov-oncebox.md) | ⭐ 18 | Java | 46/100 |
 | 328 | [emptiesvoid-cloud/QF_solver](./emptiesvoid-cloud-qf-solver.md) | ⭐ 13 | Python | 46/100 |
 | 329 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 516 | R | 46/100 |
 | 330 | [yakshjethva/jvm-inside-out](./yakshjethva-jvm-inside-out.md) | ⭐ 4 | TypeScript | 45/100 |

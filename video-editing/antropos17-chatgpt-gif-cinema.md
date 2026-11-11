@@ -1,6 +1,6 @@
 # antropos17/chatgpt-gif-cinema
 
-[![Stars](https://img.shields.io/github/stars/antropos17/chatgpt-gif-cinema?style=flat-square&color=yellow)](https://github.com/antropos17/chatgpt-gif-cinema/stargazers) [![Forks](https://img.shields.io/github/forks/antropos17/chatgpt-gif-cinema?style=flat-square&color=blue)](https://github.com/antropos17/chatgpt-gif-cinema/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/antropos17/chatgpt-gif-cinema?style=flat-square&color=yellow)](https://github.com/antropos17/chatgpt-gif-cinema/stargazers) [![Forks](https://img.shields.io/github/forks/antropos17/chatgpt-gif-cinema?style=flat-square&color=blue)](https://github.com/antropos17/chatgpt-gif-cinema/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > An agent skill for turning GPT GIF shots into reviewed films. Generate shots, compare takes, and export MP4.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ antropos17/chatgpt-gif-cinema：antropos17/chatgpt-gif-cinema helps turn media e
 
 **Quality signals**
 
-- 4 GitHub stars
+- 5 GitHub stars
 - updated 2026-11-06
 - primary language: Python
 - 14 topics
@@ -65,13 +65,13 @@ antropos17/chatgpt-gif-cinema：antropos17/chatgpt-gif-cinema helps turn media e
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 50/100 |
+| quality | 51/100 |
 | integration | 62/100 |
 | production | 60/100 |
-| outlook | 62/100 |
-| adoption | 11/100 |
+| outlook | 63/100 |
+| adoption | 12/100 |
 | categoryMatchCount | 500/100 |
-| stars | 15/100 |
+| stars | 17/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

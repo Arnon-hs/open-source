@@ -62,18 +62,18 @@ mayakhalil-cmd/inoscula：mayakhalil-cmd/inoscula may be useful when its README 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 60/100 |
-| adoption | 14/100 |
-| categoryMatchCount | 100/100 |
-| stars | 19/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 19/100 |
 | topics | 100/100 |
+| outlook | 60/100 |
+| quality | 52/100 |
+| recency | 80/100 |
+| adoption | 14/100 |
+| production | 61/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
