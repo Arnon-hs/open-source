@@ -527,7 +527,7 @@
 | 517 | [Allra-Fintech/texio](./allra-fintech-texio.md) | ⭐ 4 | — | 45/100 |
 | 518 | [alex-zaporozhan/leo](./alex-zaporozhan-leo.md) | ⭐ 4 | — | 45/100 |
 | 519 | [spencerldixon/lime](./spencerldixon-lime.md) | ⭐ 14 | — | 45/100 |
-| 520 | [heetdalsania/quire](./heetdalsania-quire.md) | ⭐ 13 | — | 45/100 |
+| 520 | [heetdalsania/quire](./heetdalsania-quire.md) | ⭐ 12 | — | 45/100 |
 | 521 | [Thysrael/markdown-ts-appear](./thysrael-markdown-ts-appear.md) | ⭐ 61 | — | 45/100 |
 | 522 | [justrinari/handoff](./justrinari-handoff.md) | ⭐ 1 | — | 45/100 |
 | 523 | [slidr-cli/slidr](./slidr-cli-slidr.md) | ⭐ — | — | 45/100 |
@@ -577,8 +577,8 @@
 | 567 | [jolars/panache](./jolars-panache.md) | ⭐ 246 | Rust | 42/100 |
 | 568 | [szdytom/markview](./szdytom-markview.md) | ⭐ 112 | — | 41/100 |
 | 569 | [pgrekovich/simstim](./pgrekovich-simstim.md) | ⭐ 4 | — | 41/100 |
-| 570 | [fynepdf/fynepdf-pdfa](./fynepdf-fynepdf-pdfa.md) | ⭐ 7 | — | 41/100 |
-| 571 | [hakuxyz/pdfq](./hakuxyz-pdfq.md) | ⭐ 6 | — | 41/100 |
+| 570 | [fynepdf/fynepdf-pdfa](./fynepdf-fynepdf-pdfa.md) | ⭐ 10 | — | 41/100 |
+| 571 | [hakuxyz/pdfq](./hakuxyz-pdfq.md) | ⭐ 7 | — | 41/100 |
 | 572 | [aryamantepal/tabvault](./aryamantepal-tabvault.md) | ⭐ 3 | — | 41/100 |
 | 573 | [alam00000/bentopdf-hyper-compress](./alam00000-bentopdf-hyper-compress.md) | ⭐ 37 | — | 41/100 |
 | 574 | [jaywonchung/vimium2](./jaywonchung-vimium2.md) | ⭐ — | — | 41/100 |
@@ -698,10 +698,10 @@
 | 688 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |
 | 689 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ 12 | — | 38/100 |
 | 690 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ 36 | — | 38/100 |
-| 691 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
-| 692 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 691 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 692 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
 | 693 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 120 | — | 38/100 |
-| 694 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 262 | — | 38/100 |
+| 694 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 264 | — | 38/100 |
 | 695 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ 24 | — | 38/100 |
 | 696 | [asong56/rudoc](./asong56-rudoc.md) | ⭐ 39 | — | 38/100 |
 | 697 | [transformyio/html-to-pdf-libraries](./transformyio-html-to-pdf-libraries.md) | ⭐ 1 | — | 38/100 |
@@ -713,8 +713,8 @@
 | 703 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
 | 704 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 705 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
-| 706 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
-| 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 706 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
 | 708 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
 | 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |

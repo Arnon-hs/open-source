@@ -192,7 +192,7 @@
 | 182 | [hagezi/dns-blocklists](./hagezi-dns-blocklists.md) | ⭐ 28.7k | Text | 53/100 |
 | 183 | [danielfm/pybreaker](./danielfm-pybreaker.md) | ⭐ 702 | Python | 52/100 |
 | 184 | [casareanderson/warden](./casareanderson-warden.md) | ⭐ 1 | Python | 52/100 |
-| 185 | [hyzyla/kibana-agent](./hyzyla-kibana-agent.md) | ⭐ 8 | — | 52/100 |
+| 185 | [hyzyla/kibana-agent](./hyzyla-kibana-agent.md) | ⭐ 9 | — | 52/100 |
 | 186 | [GSI-HPC/lustre_exporter](./gsi-hpc-lustre-exporter.md) | ⭐ 30 | Go | 52/100 |
 | 187 | [open-telemetry/opentelemetry-proto](./open-telemetry-opentelemetry-proto.md) | ⭐ 830 | Makefile | 52/100 |
 | 188 | [rgwood/systemctl-tui](./rgwood-systemctl-tui.md) | ⭐ 2.1k | Rust | 52/100 |

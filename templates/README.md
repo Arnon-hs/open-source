@@ -480,7 +480,7 @@
 | 470 | [Alessandro114/scala-sites](./alessandro114-scala-sites.md) | ⭐ 6 | — | 45/100 |
 | 471 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ 455 | — | 45/100 |
 | 472 | [artob/readmer](./artob-readmer.md) | ⭐ 13 | — | 45/100 |
-| 473 | [human0-ai/template](./human0-ai-template.md) | ⭐ 2 | — | 45/100 |
+| 473 | [human0-ai/template](./human0-ai-template.md) | ⭐ 3 | — | 45/100 |
 | 474 | [brescou/langgraph-agent-stack](./brescou-langgraph-agent-stack.md) | ⭐ 20 | — | 45/100 |
 | 475 | [leomos/pigiaminja](./leomos-pigiaminja.md) | ⭐ 2 | — | 45/100 |
 | 476 | [domenukk/md-tmpl](./domenukk-md-tmpl.md) | ⭐ 4 | — | 45/100 |

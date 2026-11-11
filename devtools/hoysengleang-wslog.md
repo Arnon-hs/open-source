@@ -1,6 +1,6 @@
 # hoysengleang/wslog
 
-[![Stars](https://img.shields.io/github/stars/hoysengleang/wslog?style=flat-square&color=yellow)](https://github.com/hoysengleang/wslog/stargazers) [![Forks](https://img.shields.io/github/forks/hoysengleang/wslog?style=flat-square&color=blue)](https://github.com/hoysengleang/wslog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hoysengleang/wslog?style=flat-square&color=yellow)](https://github.com/hoysengleang/wslog/stargazers) [![Forks](https://img.shields.io/github/forks/hoysengleang/wslog?style=flat-square&color=blue)](https://github.com/hoysengleang/wslog/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
 
 > wslog
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 43/100 |
 | 🗓️ **Last push** | 2026-11-01 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ hoysengleang/wslog：hoysengleang/wslog helps engineers save time in daily devel
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-01
 - primary language: TypeScript
 - 5 topics
@@ -64,13 +65,13 @@ hoysengleang/wslog：hoysengleang/wslog helps engineers save time in daily devel
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 40/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 50/100 |
-| adoption | 0/100 |
+| production | 55/100 |
+| outlook | 51/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 100/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 63/100 |

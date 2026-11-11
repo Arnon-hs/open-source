@@ -385,7 +385,7 @@
 | 375 | [tedious-code/foxschema](./tedious-code-foxschema.md) | ⭐ 12 | — | 45/100 |
 | 376 | [busabase/busabase-dsh-plugin](./busabase-busabase-dsh-plugin.md) | ⭐ 10 | — | 45/100 |
 | 377 | [silo-ai/silo](./silo-ai-silo.md) | ⭐ 5 | — | 45/100 |
-| 378 | [jamalhill12321-hash/patm](./jamalhill12321-hash-patm.md) | ⭐ 3 | — | 45/100 |
+| 378 | [jamalhill12321-hash/patm](./jamalhill12321-hash-patm.md) | ⭐ 4 | — | 45/100 |
 | 379 | [Helius-Finance/helius-finance-tracker](./helius-finance-helius-finance-tracker.md) | ⭐ 212 | — | 45/100 |
 | 380 | [cardmagic/solid-objects-ruby](./cardmagic-solid-objects-ruby.md) | ⭐ 40 | Ruby | 45/100 |
 | 381 | [sib-project/sib](./sib-project-sib.md) | ⭐ — | — | 45/100 |
@@ -458,7 +458,7 @@
 | 448 | [kividbio/kividb](./kividbio-kividb.md) | ⭐ 1k | — | 41/100 |
 | 449 | [exasol-labs/language-container-mojo](./exasol-labs-language-container-mojo.md) | ⭐ — | — | 41/100 |
 | 450 | [scriptella/scriptella-benchmarks](./scriptella-scriptella-benchmarks.md) | ⭐ 3 | — | 41/100 |
-| 451 | [govindgcoder/arcKode](./govindgcoder-arckode.md) | ⭐ 3 | — | 41/100 |
+| 451 | [govindgcoder/arcKode](./govindgcoder-arckode.md) | ⭐ 4 | — | 41/100 |
 | 452 | [barddoo/pgzx](./barddoo-pgzx.md) | ⭐ 5 | — | 41/100 |
 | 453 | [benbjohnson/litestream](./benbjohnson-litestream.md) | ⭐ 14.6k | — | 41/100 |
 | 454 | [misaelzapata/duckonwire](./misaelzapata-duckonwire.md) | ⭐ 2 | — | 41/100 |
@@ -507,7 +507,7 @@
 | 497 | [harsh8398/saathi-yoga-copilot](./harsh8398-saathi-yoga-copilot.md) | ⭐ 1 | TypeScript | 39/100 |
 | 498 | [munimtechnologies/urdb-audit](./munimtechnologies-urdb-audit.md) | ⭐ — | Python | 39/100 |
 | 499 | [thedonmon/nats-backbone-examples](./thedonmon-nats-backbone-examples.md) | ⭐ — | TypeScript | 39/100 |
-| 500 | [GoogleCloudPlatform/knowledge-catalog](./googlecloudplatform-knowledge-catalog.md) | ⭐ 9.6k | — | 39/100 |
+| 500 | [GoogleCloudPlatform/knowledge-catalog](./googlecloudplatform-knowledge-catalog.md) | ⭐ 9.7k | — | 39/100 |
 | 501 | [beltagyy/vehicle-metrics](./beltagyy-vehicle-metrics.md) | ⭐ 1 | — | 39/100 |
 | 502 | [milen-denev/rasterizeddb](./milen-denev-rasterizeddb.md) | ⭐ 233 | Rust | 39/100 |
 | 503 | [advisories/GHSA-2xp9-vwfh-vxw4](./advisories-ghsa-2xp9-vwfh-vxw4.md) | ⭐ — | — | 38/100 |
@@ -516,7 +516,7 @@
 | 506 | [kingroryg/turbokv](./kingroryg-turbokv.md) | ⭐ 280 | — | 38/100 |
 | 507 | [MigMarGil/sqlite-diff-log](./migmargil-sqlite-diff-log.md) | ⭐ 1 | — | 38/100 |
 | 508 | [jncastilho/luadb](./jncastilho-luadb.md) | ⭐ — | — | 38/100 |
-| 509 | [jeffhajewski/latticedb](./jeffhajewski-latticedb.md) | ⭐ 748 | — | 38/100 |
+| 509 | [jeffhajewski/latticedb](./jeffhajewski-latticedb.md) | ⭐ 751 | — | 38/100 |
 | 510 | [borborich/pgextassure](./borborich-pgextassure.md) | ⭐ 2 | — | 38/100 |
 | 511 | [p2r3/ha.mr](./p2r3-ha.mr.md) | ⭐ 1.1k | — | 38/100 |
 | 512 | [RyanRana/nibble](./ryanrana-nibble.md) | ⭐ 1 | — | 38/100 |

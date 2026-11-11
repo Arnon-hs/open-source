@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -418,7 +418,7 @@
 | 408 | [rafnixg/odoo-platform-ephemeral-environment](./rafnixg-odoo-platform-ephemeral-environment.md) | ⭐ 6 | — | 47/100 |
 | 409 | [Arnon-hs/jit-runner-kit](./arnon-hs-jit-runner-kit.md) | ⭐ 1 | Shell | 47/100 |
 | 410 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 699 | Go | 47/100 |
-| 411 | [github/gh-actions-lock](./github-gh-actions-lock.md) | ⭐ 313 | — | 46/100 |
+| 411 | [github/gh-actions-lock](./github-gh-actions-lock.md) | ⭐ 315 | — | 46/100 |
 | 412 | [GauravS13/raptor-desk](./gauravs13-raptor-desk.md) | ⭐ — | Python | 46/100 |
 | 413 | [The-DevOps-Daily/do-agent-issue-to-pr](./the-devops-daily-do-agent-issue-to-pr.md) | ⭐ — | — | 46/100 |
 | 414 | [gisiahq/gisia](./gisiahq-gisia.md) | ⭐ 167 | Ruby | 46/100 |
@@ -457,7 +457,7 @@
 | 447 | [microsoft/brewlet](./microsoft-brewlet.md) | ⭐ 55 | — | 44/100 |
 | 448 | [chenhunghan/lens-racks](./chenhunghan-lens-racks.md) | ⭐ 4 | — | 44/100 |
 | 449 | [lask-task-runner/lask](./lask-task-runner-lask.md) | ⭐ 4 | — | 44/100 |
-| 450 | [hivepaas/hivepaas](./hivepaas-hivepaas.md) | ⭐ 340 | — | 44/100 |
+| 450 | [hivepaas/hivepaas](./hivepaas-hivepaas.md) | ⭐ 342 | — | 44/100 |
 | 451 | [ricardoborges/rcdesktop](./ricardoborges-rcdesktop.md) | ⭐ 5 | — | 44/100 |
 | 452 | [abdulsalam-create/bounty-watch](./abdulsalam-create-bounty-watch.md) | ⭐ — | Python | 44/100 |
 | 453 | [v94lere/solon](./v94lere-solon.md) | ⭐ 13 | — | 44/100 |

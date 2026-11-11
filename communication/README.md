@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -262,7 +262,7 @@
 | 252 | [sublime-security/sublime-rules](./sublime-security-sublime-rules.md) | ⭐ 381 | YAML | 52/100 |
 | 253 | [logos-messaging/logos-delivery](./logos-messaging-logos-delivery.md) | ⭐ 249 | Nim | 52/100 |
 | 254 | [LemmyNet/lemmy](./lemmynet-lemmy.md) | ⭐ 14.7k | Rust | 52/100 |
-| 255 | [iktakahiro/calendarpit](./iktakahiro-calendarpit.md) | ⭐ 11 | — | 51/100 |
+| 255 | [iktakahiro/calendarpit](./iktakahiro-calendarpit.md) | ⭐ 12 | — | 51/100 |
 | 256 | [Kandeepasundaram/Grit](./kandeepasundaram-grit.md) | ⭐ 1 | Python | 51/100 |
 | 257 | [cyrusimap/cyrus-imapd](./cyrusimap-cyrus-imapd.md) | ⭐ 653 | C | 51/100 |
 | 258 | [copilotKit/channels-sdk](./copilotkit-channels-sdk.md) | ⭐ 952 | — | 51/100 |
@@ -361,8 +361,8 @@
 | 351 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 352 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 353 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 354 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
-| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 354 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
 | 356 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 357 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 358 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |
@@ -380,7 +380,7 @@
 | 370 | [maelswarm/openrock](./maelswarm-openrock.md) | ⭐ 2 | — | 41/100 |
 | 371 | [sums001/OpenInbox](./sums001-openinbox.md) | ⭐ 303 | — | 41/100 |
 | 372 | [IrondomeDev/GATES](./irondomedev-gates.md) | ⭐ 3 | — | 41/100 |
-| 373 | [HiAriesZhou/Howler](./hiarieszhou-howler.md) | ⭐ 19 | — | 41/100 |
+| 373 | [HiAriesZhou/Howler](./hiarieszhou-howler.md) | ⭐ 20 | — | 41/100 |
 | 374 | [cjus/audio-chat-box](./cjus-audio-chat-box.md) | ⭐ 3 | — | 41/100 |
 | 375 | [skorotkiewicz/lfm3-chat](./skorotkiewicz-lfm3-chat.md) | ⭐ 1 | — | 41/100 |
 | 376 | [moldandyeast/claude-computer](./moldandyeast-claude-computer.md) | ⭐ 14 | — | 41/100 |
@@ -466,7 +466,7 @@
 | 456 | [lascauje/callmar](./lascauje-callmar.md) | ⭐ — | — | 38/100 |
 | 457 | [mihirshaikbugs/kid-compass](./mihirshaikbugs-kid-compass.md) | ⭐ 2 | — | 38/100 |
 | 458 | [jeninh/openotp](./jeninh-openotp.md) | ⭐ 10 | — | 38/100 |
-| 459 | [gianlucamazza/xllama](./gianlucamazza-xllama.md) | ⭐ 84 | — | 38/100 |
+| 459 | [gianlucamazza/xllama](./gianlucamazza-xllama.md) | ⭐ 85 | — | 38/100 |
 | 460 | [bounce-chat/bounce](./bounce-chat-bounce.md) | ⭐ 9 | — | 38/100 |
 | 461 | [docbrain-ai/docbrain](./docbrain-ai-docbrain.md) | ⭐ 33 | — | 38/100 |
 | 462 | [knguyenanhoa/lifecalwall](./knguyenanhoa-lifecalwall.md) | ⭐ — | — | 38/100 |

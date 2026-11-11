@@ -503,7 +503,7 @@
 | 493 | [bluesky-social/atproto](./bluesky-social-atproto.md) | ⭐ 9.7k | TypeScript | 50/100 |
 | 494 | [pg-sharding/spqr](./pg-sharding-spqr.md) | ⭐ 1.5k | Go | 50/100 |
 | 495 | [ngoduykhanh/wireguard-ui](./ngoduykhanh-wireguard-ui.md) | ⭐ 5.2k | Go | 49/100 |
-| 496 | [guyavrhm/orion](./guyavrhm-orion.md) | ⭐ 23 | — | 49/100 |
+| 496 | [guyavrhm/orion](./guyavrhm-orion.md) | ⭐ 24 | — | 49/100 |
 | 497 | [airtrack/stunnel](./airtrack-stunnel.md) | ⭐ 170 | Rust | 49/100 |
 | 498 | [kdeps/turo](./kdeps-turo.md) | ⭐ 11 | — | 49/100 |
 | 499 | [BeechatNetworkSystemsLtd/Reticulum-rs](./beechatnetworksystemsltd-reticulum-rs.md) | ⭐ 362 | Rust | 49/100 |
@@ -601,7 +601,7 @@
 | 591 | [matthewmrichter/moofport](./matthewmrichter-moofport.md) | ⭐ 1 | — | 41/100 |
 | 592 | [rmediatech/propylea](./rmediatech-propylea.md) | ⭐ 3 | — | 41/100 |
 | 593 | [usetrim/trim](./usetrim-trim.md) | ⭐ 3 | — | 41/100 |
-| 594 | [hakuxyz/rustdrop](./hakuxyz-rustdrop.md) | ⭐ 13 | — | 41/100 |
+| 594 | [hakuxyz/rustdrop](./hakuxyz-rustdrop.md) | ⭐ 14 | — | 41/100 |
 | 595 | [nicorobinreal/molehill](./nicorobinreal-molehill.md) | ⭐ 4 | — | 41/100 |
 | 596 | [dex0shubham/pith](./dex0shubham-pith.md) | ⭐ 3 | — | 41/100 |
 | 597 | [Qbix/proxy](./qbix-proxy.md) | ⭐ 14 | — | 41/100 |
@@ -619,7 +619,7 @@
 | 609 | [brofranks/headwire](./brofranks-headwire.md) | ⭐ 3 | — | 41/100 |
 | 610 | [dangowrt/comrade](./dangowrt-comrade.md) | ⭐ 11 | — | 41/100 |
 | 611 | [hack-tramp/ESP-MQTTunnel](./hack-tramp-esp-mqttunnel.md) | ⭐ 4 | — | 41/100 |
-| 612 | [ghuntley/preflight](./ghuntley-preflight.md) | ⭐ 125 | — | 41/100 |
+| 612 | [ghuntley/preflight](./ghuntley-preflight.md) | ⭐ 126 | — | 41/100 |
 | 613 | [ghuntley/underclass](./ghuntley-underclass.md) | ⭐ 296 | — | 41/100 |
 | 614 | [amarongrantham-dev/README.md](./amarongrantham-dev-readme.md.md) | ⭐ 1 | — | 41/100 |
 | 615 | [shellroute/shellroute-cli](./shellroute-shellroute-cli.md) | ⭐ 8 | — | 41/100 |

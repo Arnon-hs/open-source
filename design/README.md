@@ -164,7 +164,7 @@
 | 154 | [storytold/figcraft](./storytold-figcraft.md) | ⭐ 4.8k | — | 41/100 |
 | 155 | [triggeredcode/lucid](./triggeredcode-lucid.md) | ⭐ 6 | — | 41/100 |
 | 156 | [dplanitzer/Serena](./dplanitzer-serena.md) | ⭐ 293 | — | 41/100 |
-| 157 | [google-deepmind/alphaprotein-novo](./google-deepmind-alphaprotein-novo.md) | ⭐ 319 | — | 41/100 |
+| 157 | [google-deepmind/alphaprotein-novo](./google-deepmind-alphaprotein-novo.md) | ⭐ 320 | — | 41/100 |
 | 158 | [dimonomid/montray](./dimonomid-montray.md) | ⭐ 89 | — | 41/100 |
 | 159 | [rishimohan/colorshot](./rishimohan-colorshot.md) | ⭐ 16 | — | 41/100 |
 | 160 | [devdotfast/whiteboard](./devdotfast-whiteboard.md) | ⭐ 3.5k | — | 41/100 |
