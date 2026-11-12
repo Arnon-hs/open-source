@@ -54,7 +54,7 @@
 | 44 | [DrDBanner/inmanage](./drdbanner-inmanage.md) | ⭐ 76 | Shell | 70/100 |
 | 45 | [sums001/Windows-Copilot-API](./sums001-windows-copilot-api.md) | ⭐ 1.3k | Python | 70/100 |
 | 46 | [Dicklesworthstone/coding_agent_account_manager](./dicklesworthstone-coding-agent-account-manager.md) | ⭐ 213 | Go | 70/100 |
-| 47 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 277 | JavaScript | 70/100 |
+| 47 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 279 | JavaScript | 70/100 |
 | 48 | [bigcapitalhq/bigcapital](./bigcapitalhq-bigcapital.md) | ⭐ 4.1k | TypeScript | 70/100 |
 | 49 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.4k | Rust | 70/100 |
 | 50 | [stripe/stripe-cli](./stripe-stripe-cli.md) | ⭐ 2.2k | Go | 69/100 |
@@ -166,12 +166,12 @@
 | 156 | [stripe/openapi](./stripe-openapi.md) | ⭐ 510 | — | 58/100 |
 | 157 | [spacious-team/investbook](./spacious-team-investbook.md) | ⭐ 338 | Java | 58/100 |
 | 158 | [joshnuss/svelte-stripe](./joshnuss-svelte-stripe.md) | ⭐ 493 | Svelte | 58/100 |
-| 159 | [saksham2001/PulseLoopiOS](./saksham2001-pulseloopios.md) | ⭐ 334 | Swift | 58/100 |
+| 159 | [saksham2001/PulseLoopiOS](./saksham2001-pulseloopios.md) | ⭐ 335 | Swift | 58/100 |
 | 160 | [namiml/nami-apple](./namiml-nami-apple.md) | ⭐ 63 | Ruby | 58/100 |
 | 161 | [vibheksoni/free-ai](./vibheksoni-free-ai.md) | ⭐ 364 | Astro | 58/100 |
 | 162 | [stripe/sync-engine](./stripe-sync-engine.md) | ⭐ 1.1k | TypeScript | 58/100 |
-| 163 | [Eigenwise/eigenwise-toolshed](./eigenwise-eigenwise-toolshed.md) | ⭐ 283 | TypeScript | 57/100 |
-| 164 | [0xRadikal/Free-v2ray-Configs](./0xradikal-free-v2ray-configs.md) | ⭐ 815 | Python | 57/100 |
+| 163 | [Eigenwise/eigenwise-toolshed](./eigenwise-eigenwise-toolshed.md) | ⭐ 284 | TypeScript | 57/100 |
+| 164 | [0xRadikal/Free-v2ray-Configs](./0xradikal-free-v2ray-configs.md) | ⭐ 828 | Python | 57/100 |
 | 165 | [Lulzx/tinypdf](./lulzx-tinypdf.md) | ⭐ 1.9k | TypeScript | 57/100 |
 | 166 | [Adyen/adyen-salesforce-commerce-cloud](./adyen-adyen-salesforce-commerce-cloud.md) | ⭐ 104 | JavaScript | 57/100 |
 | 167 | [Bestpart-Irene/secondsign-core](./bestpart-irene-secondsign-core.md) | ⭐ 33 | Python | 57/100 |
@@ -185,7 +185,7 @@
 | 175 | [crossxx-labs/free-proxy](./crossxx-labs-free-proxy.md) | ⭐ 1.9k | Shell | 57/100 |
 | 176 | [sumup/sumup-ios-sdk](./sumup-sumup-ios-sdk.md) | ⭐ 63 | Swift | 57/100 |
 | 177 | [nymtech/nym-vpn-client](./nymtech-nym-vpn-client.md) | ⭐ 611 | Rust | 57/100 |
-| 178 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 401 | — | 57/100 |
+| 178 | [moov-io/awesome-fintech](./moov-io-awesome-fintech.md) | ⭐ 403 | — | 57/100 |
 | 179 | [juspay/hyperswitch-prism](./juspay-hyperswitch-prism.md) | ⭐ 1.4k | Rust | 57/100 |
 | 180 | [ParabolInc/parabol](./parabolinc-parabol.md) | ⭐ 2k | TypeScript | 57/100 |
 | 181 | [thoughtpivot/scribe](./thoughtpivot-scribe.md) | ⭐ 4 | TypeScript | 57/100 |
@@ -233,8 +233,8 @@
 | 223 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 187 | PHP | 54/100 |
 | 224 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.8k | TypeScript | 54/100 |
 | 225 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 226 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 664 | — | 53/100 |
-| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 572 | — | 53/100 |
+| 226 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 572 | — | 53/100 |
+| 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 664 | — | 53/100 |
 | 228 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 229 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 230 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 88 | Rust | 53/100 |

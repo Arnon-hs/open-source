@@ -143,7 +143,7 @@
 | 133 | [TableProApp/TablePro](./tableproapp-tablepro.md) | ⭐ 6.5k | Swift | 60/100 |
 | 134 | [akopytov/sysbench](./akopytov-sysbench.md) | ⭐ 6.8k | C | 59/100 |
 | 135 | [laraowl/laraowl](./laraowl-laraowl.md) | ⭐ 363 | TypeScript | 59/100 |
-| 136 | [pgmoneta/pgmoneta](./pgmoneta-pgmoneta.md) | ⭐ 325 | C | 59/100 |
+| 136 | [pgmoneta/pgmoneta](./pgmoneta-pgmoneta.md) | ⭐ 326 | C | 59/100 |
 | 137 | [dolthub/doltgresql](./dolthub-doltgresql.md) | ⭐ 2.2k | Go | 59/100 |
 | 138 | [Donkie/Spoolman](./donkie-spoolman.md) | ⭐ 3k | TypeScript | 59/100 |
 | 139 | [skyzh/type-exercise-in-rust](./skyzh-type-exercise-in-rust.md) | ⭐ 1.5k | Rust | 59/100 |
@@ -204,7 +204,7 @@
 | 194 | [charmbracelet/skate](./charmbracelet-skate.md) | ⭐ 1.9k | Go | 56/100 |
 | 195 | [replikativ/datahike](./replikativ-datahike.md) | ⭐ 1.9k | Clojure | 56/100 |
 | 196 | [builtbybel/FluentCleaner](./builtbybel-fluentcleaner.md) | ⭐ 7k | C# | 56/100 |
-| 197 | [confluentinc/ksql](./confluentinc-ksql.md) | ⭐ 315 | Java | 56/100 |
+| 197 | [confluentinc/ksql](./confluentinc-ksql.md) | ⭐ 316 | Java | 56/100 |
 | 198 | [rustsec/advisory-db](./rustsec-advisory-db.md) | ⭐ 1.2k | — | 56/100 |
 | 199 | [mongodb-js/boxednode](./mongodb-js-boxednode.md) | ⭐ 657 | TypeScript | 56/100 |
 | 200 | [adysec/IP_database](./adysec-ip-database.md) | ⭐ 750 | HTML | 56/100 |
@@ -551,8 +551,8 @@
 | 541 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 542 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 543 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 431 | — | 38/100 |
-| 544 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 70 | — | 38/100 |
-| 545 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 544 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 545 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 70 | — | 38/100 |
 | 546 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 547 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 442 | — | 38/100 |
 | 548 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |

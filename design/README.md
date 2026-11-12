@@ -22,7 +22,7 @@
 | 12 | [WPS/egon.io](./wps-egon.io.md) | ⭐ 839 | TypeScript | 65/100 |
 | 13 | [logisim-evolution/logisim-evolution](./logisim-evolution-logisim-evolution.md) | ⭐ 7.9k | Java | 65/100 |
 | 14 | [nextcloud/server](./nextcloud-server.md) | ⭐ 37.5k | PHP | 65/100 |
-| 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 596 | Python | 64/100 |
+| 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 597 | Python | 64/100 |
 | 16 | [eclipse-ee4j/cargotracker](./eclipse-ee4j-cargotracker.md) | ⭐ 396 | JavaScript | 64/100 |
 | 17 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 909 | C# | 64/100 |
 | 18 | [kando-menu/kando](./kando-menu-kando.md) | ⭐ 6.6k | TypeScript | 63/100 |
@@ -52,7 +52,7 @@
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 610 | Python | 58/100 |
 | 43 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 26.2k | JavaScript | 58/100 |
 | 44 | [liquidslr/system-design-notes](./liquidslr-system-design-notes.md) | ⭐ 28.2k | — | 57/100 |
-| 45 | [davgar99/arch-linux-font-improvement-guide](./davgar99-arch-linux-font-improvement-guide.md) | ⭐ 263 | — | 57/100 |
+| 45 | [davgar99/arch-linux-font-improvement-guide](./davgar99-arch-linux-font-improvement-guide.md) | ⭐ 264 | — | 57/100 |
 | 46 | [YosysHQ/oss-cad-suite-build](./yosyshq-oss-cad-suite-build.md) | ⭐ 1.8k | Shell | 57/100 |
 | 47 | [visioncortex/vtracer](./visioncortex-vtracer.md) | ⭐ 7.5k | Rust | 57/100 |
 | 48 | [RailsEventStore/rails_event_store](./railseventstore-rails-event-store.md) | ⭐ 1.6k | Ruby | 57/100 |
@@ -138,7 +138,7 @@
 | 128 | [kmaida/deslop-skills](./kmaida-deslop-skills.md) | ⭐ 15 | — | 45/100 |
 | 129 | [boldaxolotl/booley](./boldaxolotl-booley.md) | ⭐ 25 | — | 45/100 |
 | 130 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 656 | Java | 45/100 |
-| 131 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 344 | C++ | 45/100 |
+| 131 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 345 | C++ | 45/100 |
 | 132 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 221 | PHP | 45/100 |
 | 133 | [MickeyAlton33/web-designer-plugin](./mickeyalton33-web-designer-plugin.md) | ⭐ 115 | — | 44/100 |
 | 134 | [remojansen/rflct](./remojansen-rflct.md) | ⭐ 2 | TypeScript | 44/100 |

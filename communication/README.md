@@ -110,7 +110,7 @@
 | 100 | [monal-im/Monal](./monal-im-monal.md) | ⭐ 688 | Objective-C | 64/100 |
 | 101 | [deriv-security/MeetC2](./deriv-security-meetc2.md) | ⭐ 145 | Go | 63/100 |
 | 102 | [Obiente/nc-native](./obiente-nc-native.md) | ⭐ 225 | Kotlin | 63/100 |
-| 103 | [maathimself/mailflow](./maathimself-mailflow.md) | ⭐ 674 | JavaScript | 63/100 |
+| 103 | [maathimself/mailflow](./maathimself-mailflow.md) | ⭐ 680 | JavaScript | 63/100 |
 | 104 | [meli/meli](./meli-meli.md) | ⭐ 899 | Rust | 63/100 |
 | 105 | [krishn404/Git-Friend](./krishn404-git-friend.md) | ⭐ 599 | TypeScript | 63/100 |
 | 106 | [disposable-email-domains/disposable-email-domains](./disposable-email-domains-disposable-email-domains.md) | ⭐ 5.7k | Python | 63/100 |
@@ -150,7 +150,7 @@
 | 140 | [stoatchat/stoatchat](./stoatchat-stoatchat.md) | ⭐ 3.5k | Rust | 61/100 |
 | 141 | [bulwarkmail/webmail](./bulwarkmail-webmail.md) | ⭐ 1.5k | TypeScript | 61/100 |
 | 142 | [centrifugal/centrifuge](./centrifugal-centrifuge.md) | ⭐ 1.5k | Go | 60/100 |
-| 143 | [BlackBeltTechnology/pi-agent-dashboard](./blackbelttechnology-pi-agent-dashboard.md) | ⭐ 346 | TypeScript | 60/100 |
+| 143 | [BlackBeltTechnology/pi-agent-dashboard](./blackbelttechnology-pi-agent-dashboard.md) | ⭐ 348 | TypeScript | 60/100 |
 | 144 | [LockGit/gochat](./lockgit-gochat.md) | ⭐ 2.9k | Go | 60/100 |
 | 145 | [rafatosta/zapzap](./rafatosta-zapzap.md) | ⭐ 1.7k | Python | 60/100 |
 | 146 | [zoidsh/meru](./zoidsh-meru.md) | ⭐ 1k | TypeScript | 60/100 |
@@ -306,7 +306,7 @@
 | 296 | [gotchat-ai/foundry](./gotchat-ai-foundry.md) | ⭐ 5 | — | 47/100 |
 | 297 | [cpkb-bluezoo/gumdrop](./cpkb-bluezoo-gumdrop.md) | ⭐ 2 | Java | 47/100 |
 | 298 | [qaul/qaul.net](./qaul-qaul.net.md) | ⭐ 739 | Dart | 47/100 |
-| 299 | [QingJ01/Pebble](./qingj01-pebble.md) | ⭐ 608 | Rust | 47/100 |
+| 299 | [QingJ01/Pebble](./qingj01-pebble.md) | ⭐ 609 | Rust | 47/100 |
 | 300 | [chatmail/core](./chatmail-core.md) | ⭐ 949 | Rust | 47/100 |
 | 301 | [tangyoha/telegram_media_downloader](./tangyoha-telegram-media-downloader.md) | ⭐ 5.7k | JavaScript | 46/100 |
 | 302 | [transmitly/transmitly](./transmitly-transmitly.md) | ⭐ 25 | C# | 46/100 |
@@ -362,8 +362,8 @@
 | 352 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 353 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 354 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 356 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 356 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 357 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 358 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 359 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

@@ -173,7 +173,7 @@
 | 163 | [attackgoat/vk-graph](./attackgoat-vk-graph.md) | ⭐ 348 | Rust | 57/100 |
 | 164 | [castle-engine/castle-engine](./castle-engine-castle-engine.md) | ⭐ 1.3k | Pascal | 57/100 |
 | 165 | [Facepunch/sbox-public](./facepunch-sbox-public.md) | ⭐ 6.5k | C# | 57/100 |
-| 166 | [esengine/estella](./esengine-estella.md) | ⭐ 708 | TypeScript | 57/100 |
+| 166 | [esengine/estella](./esengine-estella.md) | ⭐ 710 | TypeScript | 57/100 |
 | 167 | [ZeroK-RTS/Zero-K](./zerok-rts-zero-k.md) | ⭐ 884 | Lua | 57/100 |
 | 168 | [timschmidt/csgrs](./timschmidt-csgrs.md) | ⭐ 264 | Rust | 57/100 |
 | 169 | [kitao/pyxel](./kitao-pyxel.md) | ⭐ 18.6k | Rust | 57/100 |

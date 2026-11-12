@@ -113,7 +113,7 @@
 | 103 | [kurrier-org/kurrier](./kurrier-org-kurrier.md) | ⭐ 1.1k | TypeScript | 68/100 |
 | 104 | [fregie/pho](./fregie-pho.md) | ⭐ 1.2k | Dart | 68/100 |
 | 105 | [redis/lettuce](./redis-lettuce.md) | ⭐ 5.8k | Java | 68/100 |
-| 106 | [Skyfay/SkySend](./skyfay-skysend.md) | ⭐ 458 | TypeScript | 68/100 |
+| 106 | [Skyfay/SkySend](./skyfay-skysend.md) | ⭐ 459 | TypeScript | 68/100 |
 | 107 | [shrinerb/shrine](./shrinerb-shrine.md) | ⭐ 3.3k | Ruby | 68/100 |
 | 108 | [mariadb-operator/mariadb-operator](./mariadb-operator-mariadb-operator.md) | ⭐ 1k | Go | 68/100 |
 | 109 | [kubernetes-sigs/cluster-api-provider-aws](./kubernetes-sigs-cluster-api-provider-aws.md) | ⭐ 730 | Go | 68/100 |
@@ -282,7 +282,7 @@
 | 272 | [hail-is/hail](./hail-is-hail.md) | ⭐ 1.1k | Python | 61/100 |
 | 273 | [kedacore/http-add-on](./kedacore-http-add-on.md) | ⭐ 558 | Go | 61/100 |
 | 274 | [GoogleCloudPlatform/gcsfuse](./googlecloudplatform-gcsfuse.md) | ⭐ 2.3k | Go | 61/100 |
-| 275 | [zKillboard/zKillboard](./zkillboard-zkillboard.md) | ⭐ 316 | HTML | 61/100 |
+| 275 | [zKillboard/zKillboard](./zkillboard-zkillboard.md) | ⭐ 317 | HTML | 61/100 |
 | 276 | [Barre/ZeroFS](./barre-zerofs.md) | ⭐ 3.2k | Rust | 61/100 |
 | 277 | [aws/secrets-store-csi-driver-provider-aws](./aws-secrets-store-csi-driver-provider-aws.md) | ⭐ 599 | Go | 61/100 |
 | 278 | [meshery/meshery.io](./meshery-meshery.io.md) | ⭐ 908 | JavaScript | 61/100 |
@@ -354,7 +354,7 @@
 | 344 | [apache/opendal-reqsign](./apache-opendal-reqsign.md) | ⭐ 162 | Rust | 58/100 |
 | 345 | [scireum/s3ninja](./scireum-s3ninja.md) | ⭐ 557 | Java | 58/100 |
 | 346 | [NoKV-Lab/NoKV](./nokv-lab-nokv.md) | ⭐ 512 | Rust | 58/100 |
-| 347 | [MicrosoftLearning/mslearn-ai-agents](./microsoftlearning-mslearn-ai-agents.md) | ⭐ 349 | Python | 58/100 |
+| 347 | [MicrosoftLearning/mslearn-ai-agents](./microsoftlearning-mslearn-ai-agents.md) | ⭐ 350 | Python | 58/100 |
 | 348 | [anolilab/lunora](./anolilab-lunora.md) | ⭐ 295 | TypeScript | 58/100 |
 | 349 | [aws-beam/aws-elixir](./aws-beam-aws-elixir.md) | ⭐ 594 | Elixir | 58/100 |
 | 350 | [kubernetes/cloud-provider-aws](./kubernetes-cloud-provider-aws.md) | ⭐ 467 | Go | 58/100 |
@@ -510,8 +510,8 @@
 | 500 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 362 | Rust | 50/100 |
 | 501 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 138 | Rust | 50/100 |
 | 502 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 366 | Java | 50/100 |
-| 503 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
-| 504 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
+| 503 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
+| 504 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
 | 505 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1.1k | Go | 50/100 |
 | 506 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 758 | Rust | 50/100 |
 | 507 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 670 | Python | 50/100 |
@@ -539,7 +539,7 @@
 | 529 | [Turya-Kalburgi/api-drift-sentinel](./turya-kalburgi-api-drift-sentinel.md) | ⭐ — | TypeScript | 46/100 |
 | 530 | [murerkinn/bookshelf](./murerkinn-bookshelf.md) | ⭐ 375 | — | 46/100 |
 | 531 | [ministryofjustice/modernisation-platform](./ministryofjustice-modernisation-platform.md) | ⭐ 724 | HCL | 46/100 |
-| 532 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 318 | Go | 46/100 |
+| 532 | [hashicorp/terraform-provider-google-beta](./hashicorp-terraform-provider-google-beta.md) | ⭐ 319 | Go | 46/100 |
 | 533 | [fatlotus/sqlite-on-gcs-rapid](./fatlotus-sqlite-on-gcs-rapid.md) | ⭐ 3 | — | 45/100 |
 | 534 | [siris9476/CeruleanToolbox](./siris9476-ceruleantoolbox.md) | ⭐ 1 | — | 45/100 |
 | 535 | [sergiors/relay](./sergiors-relay.md) | ⭐ 10 | — | 45/100 |

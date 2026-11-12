@@ -65,18 +65,18 @@ valteresj2/agent-hangar：valteresj2/agent-hangar helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 53/100 |
-| integration | 100/100 |
-| production | 66/100 |
-| outlook | 69/100 |
-| adoption | 16/100 |
-| categoryMatchCount | 500/100 |
-| stars | 15/100 |
 | forks | 17/100 |
-| recency | 80/100 |
+| stars | 15/100 |
 | topics | 100/100 |
+| outlook | 69/100 |
+| quality | 53/100 |
+| recency | 80/100 |
+| adoption | 16/100 |
+| production | 66/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
