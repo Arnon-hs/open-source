@@ -364,7 +364,7 @@
 | 354 | [PlayForm/Compress](./playform-compress.md) | ⭐ 666 | TypeScript | 62/100 |
 | 355 | [Buoy-gg/Buoy-Desktop](./buoy-gg-buoy-desktop.md) | ⭐ 874 | — | 62/100 |
 | 356 | [material-components/material-web](./material-components-material-web.md) | ⭐ 11.4k | SCSS | 62/100 |
-| 357 | [hsr88/log-voyager](./hsr88-log-voyager.md) | ⭐ 119 | TypeScript | 62/100 |
+| 357 | [hsr88/log-voyager](./hsr88-log-voyager.md) | ⭐ 120 | TypeScript | 62/100 |
 | 358 | [rlemaigre/Easy-DnD](./rlemaigre-easy-dnd.md) | ⭐ 399 | TypeScript | 62/100 |
 | 359 | [tx7do/go-wind-admin](./tx7do-go-wind-admin.md) | ⭐ 586 | TypeScript | 62/100 |
 | 360 | [heroui-inc/heroui-native](./heroui-inc-heroui-native.md) | ⭐ 3.7k | TypeScript | 62/100 |
@@ -517,8 +517,8 @@
 | 507 | [sveltejs/eslint-plugin-svelte](./sveltejs-eslint-plugin-svelte.md) | ⭐ 413 | TypeScript | 59/100 |
 | 508 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 893 | TypeScript | 59/100 |
 | 509 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 815 | TypeScript | 59/100 |
-| 510 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
-| 511 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 510 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 511 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
 | 512 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 513 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 360 | TypeScript | 59/100 |
 | 514 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 676 | Rust | 59/100 |
@@ -875,7 +875,7 @@
 | 865 | [w3c/csswg-drafts](./w3c-csswg-drafts.md) | ⭐ 4.9k | Bikeshed | 47/100 |
 | 866 | [crocs/peer](./crocs-peer.md) | ⭐ — | TypeScript | 47/100 |
 | 867 | [LemmyNet/lemmy-ui](./lemmynet-lemmy-ui.md) | ⭐ 1k | CSS | 46/100 |
-| 868 | [scpwiki/wikijump](./scpwiki-wikijump.md) | ⭐ 194 | Rust | 46/100 |
+| 868 | [scpwiki/wikijump](./scpwiki-wikijump.md) | ⭐ 193 | Rust | 46/100 |
 | 869 | [dekkerglen/CubeCobra](./dekkerglen-cubecobra.md) | ⭐ 268 | TypeScript | 46/100 |
 | 870 | [antithesishq/bombadil](./antithesishq-bombadil.md) | ⭐ 1.6k | Rust | 46/100 |
 | 871 | [vaadin/web-components](./vaadin-web-components.md) | ⭐ 585 | JavaScript | 46/100 |
@@ -927,8 +927,8 @@
 | 917 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ 43 | — | 39/100 |
 | 918 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ 4 | — | 39/100 |
 | 919 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ 16 | — | 39/100 |
-| 920 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
-| 921 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
+| 920 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
+| 921 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
 | 922 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
 | 923 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ 11 | — | 39/100 |
 | 924 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |

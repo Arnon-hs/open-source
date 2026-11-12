@@ -43,7 +43,7 @@
 | 33 | [jellyfin/Swiftfin](./jellyfin-swiftfin.md) | ⭐ 4.3k | Swift | 65/100 |
 | 34 | [JingMatrix/Vector](./jingmatrix-vector.md) | ⭐ 13.1k | Kotlin | 64/100 |
 | 35 | [square/leakcanary](./square-leakcanary.md) | ⭐ 30k | Kotlin | 64/100 |
-| 36 | [lautarovculic/ioscpy](./lautarovculic-ioscpy.md) | ⭐ 230 | Rust | 64/100 |
+| 36 | [lautarovculic/ioscpy](./lautarovculic-ioscpy.md) | ⭐ 231 | Rust | 64/100 |
 | 37 | [flutter-webrtc/flutter-webrtc](./flutter-webrtc-flutter-webrtc.md) | ⭐ 4.5k | C++ | 64/100 |
 | 38 | [nextcloud/news-android](./nextcloud-news-android.md) | ⭐ 771 | Java | 64/100 |
 | 39 | [rrousselGit/freezed](./rrousselgit-freezed.md) | ⭐ 2.2k | Dart | 64/100 |
@@ -108,8 +108,8 @@
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.5k | Kotlin | 61/100 |
 | 99 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 648 | Kotlin | 61/100 |
 | 100 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 264 | Kotlin | 61/100 |
-| 101 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
-| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 956 | C++ | 61/100 |
+| 101 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 956 | C++ | 61/100 |
+| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 921 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13.1k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.7k | Kotlin | 61/100 |
@@ -259,7 +259,7 @@
 | 249 | [SimonSchubert/LinuxCommandLibrary](./simonschubert-linuxcommandlibrary.md) | ⭐ 2.1k | Kotlin | 56/100 |
 | 250 | [Gracker/awesome-android-ai-dev-sources](./gracker-awesome-android-ai-dev-sources.md) | ⭐ 1.9k | Python | 56/100 |
 | 251 | [slackhq/circuit](./slackhq-circuit.md) | ⭐ 1.9k | Kotlin | 56/100 |
-| 252 | [fuqiuluo/amice](./fuqiuluo-amice.md) | ⭐ 274 | Rust | 56/100 |
+| 252 | [fuqiuluo/amice](./fuqiuluo-amice.md) | ⭐ 275 | Rust | 56/100 |
 | 253 | [quran/quran_android](./quran-quran-android.md) | ⭐ 2.4k | Kotlin | 56/100 |
 | 254 | [v1tzor/TimePlanner](./v1tzor-timeplanner.md) | ⭐ 702 | Kotlin | 56/100 |
 | 255 | [Monica-Pass/Monica](./monica-pass-monica.md) | ⭐ 1.2k | Kotlin | 56/100 |
@@ -280,8 +280,8 @@
 | 270 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
 | 271 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 272 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 634 | Python | 55/100 |
-| 273 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
-| 274 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 274 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
 | 275 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 500 | Kotlin | 55/100 |
 | 276 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 277 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 3.3k | Kotlin | 55/100 |
@@ -526,8 +526,8 @@
 | 516 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 520 | Java | 44/100 |
 | 517 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 548 | Kotlin | 44/100 |
 | 518 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 22 | Kotlin | 43/100 |
-| 519 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 989 | — | 43/100 |
-| 520 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
+| 519 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
+| 520 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 989 | — | 43/100 |
 | 521 | [kuscholar/iDeck](./kuscholar-ideck.md) | ⭐ 386 | C | 43/100 |
 | 522 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 2 | JavaScript | 43/100 |
 | 523 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 10 | Kotlin | 43/100 |

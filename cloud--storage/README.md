@@ -62,7 +62,7 @@
 | 52 | [Azure/azure-devops-cli-extension](./azure-azure-devops-cli-extension.md) | ⭐ 692 | Python | 72/100 |
 | 53 | [Forceu/Gokapi](./forceu-gokapi.md) | ⭐ 3k | Go | 72/100 |
 | 54 | [googleapis/google-cloud-java](./googleapis-google-cloud-java.md) | ⭐ 2.1k | Java | 72/100 |
-| 55 | [go-to-k/cdkd](./go-to-k-cdkd.md) | ⭐ 172 | TypeScript | 71/100 |
+| 55 | [go-to-k/cdkd](./go-to-k-cdkd.md) | ⭐ 174 | TypeScript | 71/100 |
 | 56 | [boto/boto3](./boto-boto3.md) | ⭐ 9.9k | Python | 71/100 |
 | 57 | [syself/cluster-api-provider-hetzner](./syself-cluster-api-provider-hetzner.md) | ⭐ 1.1k | Go | 71/100 |
 | 58 | [middyjs/middy](./middyjs-middy.md) | ⭐ 3.9k | JavaScript | 71/100 |
@@ -269,7 +269,7 @@
 | 259 | [Websoft9/websoft9](./websoft9-websoft9.md) | ⭐ 2.1k | Python | 62/100 |
 | 260 | [nats-io/nats.go](./nats-io-nats.go.md) | ⭐ 6.8k | Go | 62/100 |
 | 261 | [google-github-actions/auth](./google-github-actions-auth.md) | ⭐ 1.4k | TypeScript | 62/100 |
-| 262 | [Mi-Bee-Studio/MiBeeNvr](./mi-bee-studio-mibeenvr.md) | ⭐ 195 | Go | 61/100 |
+| 262 | [Mi-Bee-Studio/MiBeeNvr](./mi-bee-studio-mibeenvr.md) | ⭐ 196 | Go | 61/100 |
 | 263 | [chrislusf/seaweedfs](./chrislusf-seaweedfs.md) | ⭐ 45 | Go | 61/100 |
 | 264 | [aws-cloudformation/cfn-lint](./aws-cloudformation-cfn-lint.md) | ⭐ 2.6k | Python | 61/100 |
 | 265 | [pshenok/server-survival](./pshenok-server-survival.md) | ⭐ 6.5k | JavaScript | 61/100 |
@@ -290,7 +290,7 @@
 | 280 | [Azure/azure-sdk-for-js](./azure-azure-sdk-for-js.md) | ⭐ 2.3k | TypeScript | 61/100 |
 | 281 | [arcjet/arcjet-js](./arcjet-arcjet-js.md) | ⭐ 699 | TypeScript | 61/100 |
 | 282 | [nubenetes/awesome-kubernetes](./nubenetes-awesome-kubernetes.md) | ⭐ 676 | Python | 61/100 |
-| 283 | [axpdev-lab/aeroftp](./axpdev-lab-aeroftp.md) | ⭐ 279 | Rust | 61/100 |
+| 283 | [axpdev-lab/aeroftp](./axpdev-lab-aeroftp.md) | ⭐ 281 | Rust | 61/100 |
 | 284 | [wso2/product-integrator-mi](./wso2-product-integrator-mi.md) | ⭐ 290 | Java | 61/100 |
 | 285 | [Azure/azure-sdk-for-python](./azure-azure-sdk-for-python.md) | ⭐ 5.6k | Python | 61/100 |
 | 286 | [prowler-cloud/prowler](./prowler-cloud-prowler.md) | ⭐ 15.2k | Python | 61/100 |
@@ -546,8 +546,8 @@
 | 536 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 537 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 538 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
-| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
 | 541 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 542 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 543 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |

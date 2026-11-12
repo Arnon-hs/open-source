@@ -270,7 +270,7 @@
 | 260 | [h44z/wg-portal](./h44z-wg-portal.md) | ⭐ 1.9k | Go | 60/100 |
 | 261 | [RaspAP/raspap-webgui](./raspap-raspap-webgui.md) | ⭐ 5.2k | PHP | 60/100 |
 | 262 | [Fanju6/NetProxy-Magisk](./fanju6-netproxy-magisk.md) | ⭐ 1.4k | Shell | 60/100 |
-| 263 | [wilsonglasser/oryxis](./wilsonglasser-oryxis.md) | ⭐ 483 | Rust | 60/100 |
+| 263 | [wilsonglasser/oryxis](./wilsonglasser-oryxis.md) | ⭐ 486 | Rust | 60/100 |
 | 264 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 636 | JavaScript | 60/100 |
 | 265 | [ozeranskii/httptap](./ozeranskii-httptap.md) | ⭐ 851 | Python | 60/100 |
 | 266 | [yusing/godoxy](./yusing-godoxy.md) | ⭐ 4.2k | Go | 60/100 |
@@ -419,7 +419,7 @@
 | 409 | [sigcli/sigcli](./sigcli-sigcli.md) | ⭐ 292 | TypeScript | 54/100 |
 | 410 | [emanuele-em/proxelar](./emanuele-em-proxelar.md) | ⭐ 1.1k | Rust | 54/100 |
 | 411 | [fangfufu/httpdirfs](./fangfufu-httpdirfs.md) | ⭐ 975 | C | 54/100 |
-| 412 | [getnora-io/nora](./getnora-io-nora.md) | ⭐ 377 | Rust | 54/100 |
+| 412 | [getnora-io/nora](./getnora-io-nora.md) | ⭐ 379 | Rust | 54/100 |
 | 413 | [wolfsoftwaresystemsltd/WolfStack](./wolfsoftwaresystemsltd-wolfstack.md) | ⭐ 107 | Rust | 54/100 |
 | 414 | [openthread/openthread](./openthread-openthread.md) | ⭐ 4.1k | C++ | 54/100 |
 | 415 | [peasoft/NoMoreWalls](./peasoft-nomorewalls.md) | ⭐ 3.6k | Python | 54/100 |

@@ -275,8 +275,8 @@
 | 265 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 266 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
 | 267 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
-| 268 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 269 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 268 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 269 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 270 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 271 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 530 | JavaScript | 50/100 |
 | 272 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.2k | TypeScript | 50/100 |

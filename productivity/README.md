@@ -11,7 +11,7 @@
 | 1 | [ohmyzsh/ohmyzsh](./ohmyzsh-ohmyzsh.md) | ⭐ 190.6k | Shell | 82/100 |
 | 2 | [javinizer/javinizer-go](./javinizer-javinizer-go.md) | ⭐ 106 | Go | 78/100 |
 | 3 | [muety/wakapi](./muety-wakapi.md) | ⭐ 4.5k | Go | 78/100 |
-| 4 | [Priyanshu-byte-coder/devtrack](./priyanshu-byte-coder-devtrack.md) | ⭐ 301 | TypeScript | 77/100 |
+| 4 | [Priyanshu-byte-coder/devtrack](./priyanshu-byte-coder-devtrack.md) | ⭐ 302 | TypeScript | 77/100 |
 | 5 | [Umbrella-io/devtrack](./umbrella-io-devtrack.md) | ⭐ 141 | TypeScript | 77/100 |
 | 6 | [tach-org/tach](./tach-org-tach.md) | ⭐ 2.9k | Rust | 77/100 |
 | 7 | [tiddly-gittly/TidGi-Desktop](./tiddly-gittly-tidgi-desktop.md) | ⭐ 2k | TypeScript | 76/100 |
@@ -184,7 +184,7 @@
 | 174 | [200ok-ch/organice](./200ok-ch-organice.md) | ⭐ 2.7k | JavaScript | 56/100 |
 | 175 | [fabiospampinato/phoenix](./fabiospampinato-phoenix.md) | ⭐ 406 | JavaScript | 56/100 |
 | 176 | [RoderickQiu/wnr](./roderickqiu-wnr.md) | ⭐ 1.1k | JavaScript | 56/100 |
-| 177 | [ludoven/QADB](./ludoven-qadb.md) | ⭐ 177 | Kotlin | 56/100 |
+| 177 | [ludoven/QADB](./ludoven-qadb.md) | ⭐ 179 | Kotlin | 56/100 |
 | 178 | [kylejckson/PaintFE](./kylejckson-paintfe.md) | ⭐ 414 | Rust | 56/100 |
 | 179 | [proginosko/LeechBlockNG](./proginosko-leechblockng.md) | ⭐ 1.1k | JavaScript | 56/100 |
 | 180 | [JayanAXHF/gitv](./jayanaxhf-gitv.md) | ⭐ 116 | Rust | 56/100 |
@@ -313,8 +313,8 @@
 | 303 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 304 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 305 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
-| 307 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 307 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
 | 308 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 309 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 310 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |
@@ -324,8 +324,8 @@
 | 314 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 954 | Rust | 42/100 |
 | 315 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
 | 316 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ — | — | 41/100 |
-| 317 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ — | — | 41/100 |
-| 318 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
+| 317 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
+| 318 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ — | — | 41/100 |
 | 319 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 1 | — | 41/100 |
 | 320 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 1 | — | 41/100 |
 | 321 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ — | — | 41/100 |

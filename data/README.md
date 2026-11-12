@@ -270,7 +270,7 @@
 | 260 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 714 | Rust | 54/100 |
 | 261 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 830 | JavaScript | 54/100 |
 | 262 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 577 | HTML | 54/100 |
-| 263 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 154 | Rust | 54/100 |
+| 263 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 155 | Rust | 54/100 |
 | 264 | [beava-dev/beava](./beava-dev-beava.md) | ⭐ 139 | Rust | 54/100 |
 | 265 | [rpbouman/huey](./rpbouman-huey.md) | ⭐ 636 | JavaScript | 54/100 |
 | 266 | [MAZHARMIK/Interview_DS_Algo](./mazharmik-interview-ds-algo.md) | ⭐ 5.3k | C++ | 54/100 |

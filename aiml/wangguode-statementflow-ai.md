@@ -1,6 +1,6 @@
 # wangguode/statementflow-ai
 
-[![Stars](https://img.shields.io/github/stars/wangguode/statementflow-ai?style=flat-square&color=yellow)](https://github.com/wangguode/statementflow-ai/stargazers) [![Forks](https://img.shields.io/github/forks/wangguode/statementflow-ai?style=flat-square&color=blue)](https://github.com/wangguode/statementflow-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wangguode/statementflow-ai?style=flat-square&color=yellow)](https://github.com/wangguode/statementflow-ai/stargazers) [![Forks](https://img.shields.io/github/forks/wangguode/statementflow-ai?style=flat-square&color=blue)](https://github.com/wangguode/statementflow-ai/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > StatementFlow AI // 跨境银行对账单与税票 AI 解析及复式平账核验平台 | B2B Bank Statement & Invoice to Verified Excel Micro-SaaS
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -58,22 +58,22 @@ wangguode/statementflow-ai：wangguode/statementflow-ai helps add AI capability 
 - primary language: TypeScript
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 59/100 |
+| production | 56/100 |
+| outlook | 52/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
