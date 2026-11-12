@@ -1,6 +1,6 @@
 # MASHHOOD2019/todo-cli
 
-[![Stars](https://img.shields.io/github/stars/MASHHOOD2019/todo-cli?style=flat-square&color=yellow)](https://github.com/MASHHOOD2019/todo-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MASHHOOD2019/todo-cli?style=flat-square&color=blue)](https://github.com/MASHHOOD2019/todo-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/MASHHOOD2019/todo-cli?style=flat-square&color=yellow)](https://github.com/MASHHOOD2019/todo-cli/stargazers) [![Forks](https://img.shields.io/github/forks/MASHHOOD2019/todo-cli?style=flat-square&color=blue)](https://github.com/MASHHOOD2019/todo-cli/network) [![Language](https://img.shields.io/badge/lang-Unknown-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > To-Do CLI in C++: add, list, mark done, delete, with file persistence.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Unknown |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-29 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ DevTools
 
 ### English
 
-MASHHOOD2019/todo-cli: MASHHOOD2019/todo-cli helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MASHHOOD2019/todo-cli: MASHHOOD2019/todo-cli helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-MASHHOOD2019/todo-cli: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+MASHHOOD2019/todo-cli: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-MASHHOOD2019/todo-cli：MASHHOOD2019/todo-cli helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+MASHHOOD2019/todo-cli：MASHHOOD2019/todo-cli helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ MASHHOOD2019/todo-cli：MASHHOOD2019/todo-cli helps engineers save time in daily
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -63,15 +63,15 @@ MASHHOOD2019/todo-cli：MASHHOOD2019/todo-cli helps engineers save time in daily
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 46/100 |
-| production | 55/100 |
-| outlook | 57/100 |
+| production | 48/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

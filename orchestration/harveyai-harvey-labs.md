@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 299 |
+| 🍴 **Forks** | 301 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-11-07 |
@@ -53,8 +53,8 @@ harveyai/harvey-labs：harveyai/harvey-labs helps turn isolated prompts and tool
 
 **Quality signals**
 
-- 1599 GitHub stars
-- 299 forks
+- 1605 GitHub stars
+- 301 forks
 - updated 2026-11-07
 - primary language: Python
 - 5 topics

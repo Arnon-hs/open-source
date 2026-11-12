@@ -63,7 +63,7 @@
 | 53 | [AbdullahNaveed/ai-shorts-generator](./abdullahnaveed-ai-shorts-generator.md) | ⭐ 18 | Python | 70/100 |
 | 54 | [artryazanov/shorts-maker-gpu](./artryazanov-shorts-maker-gpu.md) | ⭐ 14 | Python | 70/100 |
 | 55 | [DaBaoAgent/AutoDSJ](./dabaoagent-autodsj.md) | ⭐ 11 | Python | 69/100 |
-| 56 | [nateherkai/herk-edit-kit](./nateherkai-herk-edit-kit.md) | ⭐ 2.7k | HTML | 69/100 |
+| 56 | [nateherkai/herk-edit-kit](./nateherkai-herk-edit-kit.md) | ⭐ 2.8k | HTML | 69/100 |
 | 57 | [sajid5669/AutoShorts-Studio](./sajid5669-autoshorts-studio.md) | ⭐ 15 | HTML | 69/100 |
 | 58 | [webkubor/reel-kit](./webkubor-reel-kit.md) | ⭐ 7 | Vue | 69/100 |
 | 59 | [outhsics/openfang-auto-clip](./outhsics-openfang-auto-clip.md) | ⭐ 38 | Python | 69/100 |

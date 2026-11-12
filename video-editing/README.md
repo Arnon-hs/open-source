@@ -99,7 +99,7 @@
 | 89 | [kouhxp/yapsnap](./kouhxp-yapsnap.md) | ⭐ 427 | Python | 73/100 |
 | 90 | [Cassette-Editor/oh-my-cassette](./cassette-editor-oh-my-cassette.md) | ⭐ 217 | Python | 73/100 |
 | 91 | [pireel/pireel](./pireel-pireel.md) | ⭐ 1.4k | TypeScript | 73/100 |
-| 92 | [Lynpoint/CyberVerse](./lynpoint-cyberverse.md) | ⭐ 1.9k | Python | 73/100 |
+| 92 | [Lynpoint/CyberVerse](./lynpoint-cyberverse.md) | ⭐ 2k | Python | 73/100 |
 | 93 | [laylaellis20/PremierePro-Cinematic-Editor-2026](./laylaellis20-premierepro-cinematic-editor-2026.md) | ⭐ 51 | — | 72/100 |
 | 94 | [Miftahul-Islam-Efaz/Motion-graphics-skill](./miftahul-islam-efaz-motion-graphics-skill.md) | ⭐ 12 | Shell | 72/100 |
 | 95 | [farshidrezaei/vidonex](./farshidrezaei-vidonex.md) | ⭐ 23 | Go | 72/100 |
@@ -304,7 +304,7 @@
 | 294 | [LaoFeng-mouse/flyingmouse-format](./laofeng-mouse-flyingmouse-format.md) | ⭐ 7.1k | JavaScript | 63/100 |
 | 295 | [SPlayer-Dev/SPlayer-Next](./splayer-dev-splayer-next.md) | ⭐ 1.6k | TypeScript | 63/100 |
 | 296 | [scraed/LanPaint](./scraed-lanpaint.md) | ⭐ 1.5k | Python | 63/100 |
-| 297 | [getopenscreen/openscreen](./getopenscreen-openscreen.md) | ⭐ 6.9k | TypeScript | 63/100 |
+| 297 | [getopenscreen/openscreen](./getopenscreen-openscreen.md) | ⭐ 7.1k | TypeScript | 63/100 |
 | 298 | [benedict2310/TelePi](./benedict2310-telepi.md) | ⭐ 147 | TypeScript | 63/100 |
 | 299 | [lukaszliniewicz/Pandrator](./lukaszliniewicz-pandrator.md) | ⭐ 649 | Python | 63/100 |
 | 300 | [whyboris/Video-Hub-App](./whyboris-video-hub-app.md) | ⭐ 738 | TypeScript | 63/100 |
@@ -513,8 +513,8 @@
 | 503 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 806 | C++ | 54/100 |
 | 504 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 505 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 506 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
-| 507 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
+| 506 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
+| 507 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
 | 508 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 509 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 522 | — | 53/100 |
 | 510 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
