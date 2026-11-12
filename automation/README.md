@@ -1544,9 +1544,9 @@
 | 1534 | [mstan/newtype](./mstan-newtype.md) | ⭐ 3 | — | 41/100 |
 | 1535 | [MantissaLabs/mantissa](./mantissalabs-mantissa.md) | ⭐ 26 | — | 41/100 |
 | 1536 | [jalemieux/bot_board](./jalemieux-bot-board.md) | ⭐ 20 | — | 41/100 |
-| 1537 | [ekzhang/resin](./ekzhang-resin.md) | ⭐ 424 | — | 41/100 |
+| 1537 | [ekzhang/resin](./ekzhang-resin.md) | ⭐ 426 | — | 41/100 |
 | 1538 | [php-telegram-bot/example-bot](./php-telegram-bot-example-bot.md) | ⭐ 383 | PHP | 41/100 |
-| 1539 | [gowthamgts/mailrelay](./gowthamgts-mailrelay.md) | ⭐ 43 | — | 41/100 |
+| 1539 | [gowthamgts/mailrelay](./gowthamgts-mailrelay.md) | ⭐ 44 | — | 41/100 |
 | 1540 | [OmShiv/39-humanizer](./omshiv-39-humanizer.md) | ⭐ 1 | — | 41/100 |
 | 1541 | [veinpsycoo/lastwarbotu-indir](./veinpsycoo-lastwarbotu-indir.md) | ⭐ — | — | 41/100 |
 | 1542 | [handlewithcarecollective/correct-hooks](./handlewithcarecollective-correct-hooks.md) | ⭐ 7 | — | 41/100 |
@@ -1612,8 +1612,8 @@
 | 1602 | [unkeyed/keanu-reviews](./unkeyed-keanu-reviews.md) | ⭐ 6 | — | 38/100 |
 | 1603 | [madebywelch/guaca](./madebywelch-guaca.md) | ⭐ 54 | — | 38/100 |
 | 1604 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ 1 | — | 38/100 |
-| 1605 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ 8 | — | 38/100 |
-| 1606 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
+| 1605 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
+| 1606 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ 8 | — | 38/100 |
 | 1607 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ 1 | — | 38/100 |
 | 1608 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ 1 | — | 38/100 |
 | 1609 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ 5 | — | 38/100 |
@@ -1623,8 +1623,8 @@
 | 1613 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ 8 | — | 38/100 |
 | 1614 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 38/100 |
 | 1615 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 38/100 |
-| 1616 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
-| 1617 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ 4 | — | 38/100 |
+| 1616 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ 4 | — | 38/100 |
+| 1617 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
 | 1618 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ 7 | — | 38/100 |
 | 1619 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ 3 | — | 38/100 |
 | 1620 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ 3 | — | 38/100 |

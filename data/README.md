@@ -342,7 +342,7 @@
 | 332 | [HimanshuS073/music_visualizer](./himanshus073-music-visualizer.md) | ⭐ 2 | Lua | 45/100 |
 | 333 | [partick33/internal-links-export](./partick33-internal-links-export.md) | ⭐ — | JavaScript | 45/100 |
 | 334 | [idk-arsh/data-agent-rules](./idk-arsh-data-agent-rules.md) | ⭐ 2 | — | 45/100 |
-| 335 | [GetCassis/analytics-agent-articles](./getcassis-analytics-agent-articles.md) | ⭐ 67 | — | 45/100 |
+| 335 | [GetCassis/analytics-agent-articles](./getcassis-analytics-agent-articles.md) | ⭐ 68 | — | 45/100 |
 | 336 | [trynova/nova](./trynova-nova.md) | ⭐ 2k | Rust | 45/100 |
 | 337 | [apache/tez](./apache-tez.md) | ⭐ 523 | Java | 45/100 |
 | 338 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 709 | Python | 45/100 |

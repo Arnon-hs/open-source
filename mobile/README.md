@@ -280,8 +280,8 @@
 | 270 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
 | 271 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 272 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 634 | Python | 55/100 |
-| 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
-| 274 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
+| 273 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
+| 274 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
 | 275 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 500 | Kotlin | 55/100 |
 | 276 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 277 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 3.3k | Kotlin | 55/100 |
@@ -295,8 +295,8 @@
 | 285 | [solkin/appteka-android](./solkin-appteka-android.md) | ⭐ 1.4k | Kotlin | 55/100 |
 | 286 | [tabletseeker/mobian](./tabletseeker-mobian.md) | ⭐ 276 | Shell | 55/100 |
 | 287 | [square/wire](./square-wire.md) | ⭐ 4.4k | Kotlin | 55/100 |
-| 288 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 968 | Kotlin | 55/100 |
-| 289 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 1.6k | Kotlin | 55/100 |
+| 288 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 1.6k | Kotlin | 55/100 |
+| 289 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 968 | Kotlin | 55/100 |
 | 290 | [CatimaLoyalty/Android](./catimaloyalty-android.md) | ⭐ 1.7k | Java | 55/100 |
 | 291 | [facebook/redex](./facebook-redex.md) | ⭐ 6.3k | C++ | 55/100 |
 | 292 | [OneBusAway/onebusaway-android](./onebusaway-onebusaway-android.md) | ⭐ 582 | Kotlin | 55/100 |
@@ -567,11 +567,11 @@
 | 557 | [fform/touchrecordkit](./fform-touchrecordkit.md) | ⭐ — | — | 41/100 |
 | 558 | [Gladimore/TouchSynth](./gladimore-touchsynth.md) | ⭐ 2 | — | 41/100 |
 | 559 | [akshit-bansal11/edgepad](./akshit-bansal11-edgepad.md) | ⭐ 40 | — | 41/100 |
-| 560 | [flyfishxu/Kadb](./flyfishxu-kadb.md) | ⭐ 116 | — | 41/100 |
+| 560 | [flyfishxu/Kadb](./flyfishxu-kadb.md) | ⭐ 117 | — | 41/100 |
 | 561 | [biolend83/tubehaus](./biolend83-tubehaus.md) | ⭐ 342 | — | 41/100 |
 | 562 | [tripathiamritansh/adbdock](./tripathiamritansh-adbdock.md) | ⭐ 3 | — | 41/100 |
 | 563 | [BEKO2210/spyhound](./beko2210-spyhound.md) | ⭐ — | Kotlin | 41/100 |
-| 564 | [google/three-live](./google-three-live.md) | ⭐ 319 | — | 41/100 |
+| 564 | [google/three-live](./google-three-live.md) | ⭐ 334 | — | 41/100 |
 | 565 | [brosiog/pebbleos-linux](./brosiog-pebbleos-linux.md) | ⭐ 5 | — | 41/100 |
 | 566 | [morzelowski/FairPlayed](./morzelowski-fairplayed.md) | ⭐ 127 | — | 41/100 |
 | 567 | [dixonSolutions/lindroids](./dixonsolutions-lindroids.md) | ⭐ 25 | — | 41/100 |
@@ -605,7 +605,7 @@
 | 595 | [OpenCommunityEdition/OpenCE](./opencommunityedition-opence.md) | ⭐ 2k | — | 41/100 |
 | 596 | [joshuaswarren/omarchy-apple-dev](./joshuaswarren-omarchy-apple-dev.md) | ⭐ 1.9k | — | 41/100 |
 | 597 | [bouhafara-bot/10ed249b1005d61397a621621edf4892](./bouhafara-bot-10ed249b1005d61397a621621edf4892.md) | ⭐ — | — | 41/100 |
-| 598 | [filippofinke/sideloop](./filippofinke-sideloop.md) | ⭐ 49 | — | 41/100 |
+| 598 | [filippofinke/sideloop](./filippofinke-sideloop.md) | ⭐ 50 | — | 41/100 |
 | 599 | [Droid-Deck/DroidDeck](./droid-deck-droiddeck.md) | ⭐ 19.6k | — | 41/100 |
 | 600 | [atgreen/evergreen](./atgreen-evergreen.md) | ⭐ 65 | — | 41/100 |
 | 601 | [AnaaySampat/jarvis](./anaaysampat-jarvis.md) | ⭐ 31 | — | 41/100 |
@@ -624,7 +624,7 @@
 | 614 | [EdiBianco/OpenWhispr](./edibianco-openwhispr.md) | ⭐ 19 | — | 41/100 |
 | 615 | [Suprhimp/castla](./suprhimp-castla.md) | ⭐ — | — | 41/100 |
 | 616 | [fcavalcantirj/droidputter](./fcavalcantirj-droidputter.md) | ⭐ — | — | 41/100 |
-| 617 | [gregsramblings/ios-charging-monitor](./gregsramblings-ios-charging-monitor.md) | ⭐ 41 | — | 41/100 |
+| 617 | [gregsramblings/ios-charging-monitor](./gregsramblings-ios-charging-monitor.md) | ⭐ 42 | — | 41/100 |
 | 618 | [mazer666/PhairPlay](./mazer666-phairplay.md) | ⭐ 218 | — | 41/100 |
 | 619 | [hsandhu/mobilecode](./hsandhu-mobilecode.md) | ⭐ 243 | — | 41/100 |
 | 620 | [theghostshinobi/SMOKE](./theghostshinobi-smoke.md) | ⭐ — | — | 41/100 |
@@ -679,7 +679,7 @@
 | 669 | [ivancernja/crate](./ivancernja-crate.md) | ⭐ 3 | — | 38/100 |
 | 670 | [shubhang-d/Loophole](./shubhang-d-loophole.md) | ⭐ 124 | — | 38/100 |
 | 671 | [Pedroshakoor/grok-build-ios](./pedroshakoor-grok-build-ios.md) | ⭐ 20 | — | 38/100 |
-| 672 | [Helldez/BigMoeOnEdge](./helldez-bigmoeonedge.md) | ⭐ 743 | — | 38/100 |
+| 672 | [Helldez/BigMoeOnEdge](./helldez-bigmoeonedge.md) | ⭐ 751 | — | 38/100 |
 | 673 | [mykolaharmash/notelet](./mykolaharmash-notelet.md) | ⭐ 562 | — | 38/100 |
 | 674 | [Gedsh/InviZible](./gedsh-invizible.md) | ⭐ 2.9k | — | 38/100 |
 | 675 | [eu-digital-identity-wallet/av-doc-technical-specification](./eu-digital-identity-wallet-av-doc-technical-specification.md) | ⭐ — | — | 38/100 |

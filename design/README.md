@@ -145,7 +145,7 @@
 | 135 | [USER/APP](./user-app.md) | ⭐ — | — | 42/100 |
 | 136 | [cedRiC874/researchops-agent](./cedric874-researchops-agent.md) | ⭐ — | — | 42/100 |
 | 137 | [EightPotions/Myli](./eightpotions-myli.md) | ⭐ 5 | — | 42/100 |
-| 138 | [eraserlabs/eraser-diagrams](./eraserlabs-eraser-diagrams.md) | ⭐ 313 | — | 42/100 |
+| 138 | [eraserlabs/eraser-diagrams](./eraserlabs-eraser-diagrams.md) | ⭐ 314 | — | 42/100 |
 | 139 | [David-OConnor/bio_tools](./david-oconnor-bio-tools.md) | ⭐ 1 | — | 42/100 |
 | 140 | [bitjaru/styleseed](./bitjaru-styleseed.md) | ⭐ 1k | — | 42/100 |
 | 141 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ 38 | — | 42/100 |
@@ -161,11 +161,11 @@
 | 151 | [RohiRIK/SummonOS](./rohirik-summonos.md) | ⭐ — | — | 41/100 |
 | 152 | [giminycricket0-blip/design-html](./giminycricket0-blip-design-html.md) | ⭐ — | — | 41/100 |
 | 153 | [peterdsharpe/AeroSandbox](./peterdsharpe-aerosandbox.md) | ⭐ 1.4k | — | 41/100 |
-| 154 | [fyzugx/DEsk](./fyzugx-desk.md) | ⭐ 1.6k | — | 41/100 |
+| 154 | [fyzugx/DEsk](./fyzugx-desk.md) | ⭐ 1.7k | — | 41/100 |
 | 155 | [storytold/figcraft](./storytold-figcraft.md) | ⭐ 4.8k | — | 41/100 |
 | 156 | [triggeredcode/lucid](./triggeredcode-lucid.md) | ⭐ 6 | — | 41/100 |
 | 157 | [dplanitzer/Serena](./dplanitzer-serena.md) | ⭐ 293 | — | 41/100 |
-| 158 | [google-deepmind/alphaprotein-novo](./google-deepmind-alphaprotein-novo.md) | ⭐ 320 | — | 41/100 |
+| 158 | [google-deepmind/alphaprotein-novo](./google-deepmind-alphaprotein-novo.md) | ⭐ 321 | — | 41/100 |
 | 159 | [dimonomid/montray](./dimonomid-montray.md) | ⭐ 89 | — | 41/100 |
 | 160 | [rishimohan/colorshot](./rishimohan-colorshot.md) | ⭐ 16 | — | 41/100 |
 | 161 | [devdotfast/whiteboard](./devdotfast-whiteboard.md) | ⭐ 3.5k | — | 41/100 |

@@ -177,7 +177,7 @@
 | 167 | [ZeroK-RTS/Zero-K](./zerok-rts-zero-k.md) | ⭐ 884 | Lua | 57/100 |
 | 168 | [timschmidt/csgrs](./timschmidt-csgrs.md) | ⭐ 264 | Rust | 57/100 |
 | 169 | [kitao/pyxel](./kitao-pyxel.md) | ⭐ 18.6k | Rust | 57/100 |
-| 170 | [piteengine/pite](./piteengine-pite.md) | ⭐ — | — | 56/100 |
+| 170 | [piteengine/pite](./piteengine-pite.md) | ⭐ 11 | — | 56/100 |
 | 171 | [three-types/three-ts-types](./three-types-three-ts-types.md) | ⭐ 305 | TypeScript | 56/100 |
 | 172 | [plotly/plotly_matlab](./plotly-plotly-matlab.md) | ⭐ 416 | MATLAB | 56/100 |
 | 173 | [max-baz/wluma](./max-baz-wluma.md) | ⭐ 960 | Rust | 56/100 |

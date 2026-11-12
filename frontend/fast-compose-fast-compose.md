@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7 |
+| ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 52/100 |
@@ -53,7 +53,7 @@ fast-compose/fast-compose：fast-compose/fast-compose helps ship user-facing int
 
 **Quality signals**
 
-- 7 GitHub stars
+- 8 GitHub stars
 - 2 forks
 - updated 2026-11-05
 - primary language: Kotlin
@@ -66,13 +66,13 @@ fast-compose/fast-compose：fast-compose/fast-compose helps ship user-facing int
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 54/100 |
 | integration | 46/100 |
 | production | 59/100 |
 | outlook | 61/100 |
-| adoption | 17/100 |
+| adoption | 18/100 |
 | categoryMatchCount | 100/100 |
-| stars | 19/100 |
+| stars | 20/100 |
 | forks | 12/100 |
 | recency | 80/100 |
 | topics | 100/100 |
