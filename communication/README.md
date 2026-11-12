@@ -362,8 +362,8 @@
 | 352 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 353 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 354 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
-| 356 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 356 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
 | 357 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 358 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 359 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |
@@ -410,7 +410,7 @@
 | 400 | [achempion/tlx](./achempion-tlx.md) | ⭐ — | — | 41/100 |
 | 401 | [Inkline-Verify/ProofOfHuman](./inkline-verify-proofofhuman.md) | ⭐ 8 | — | 41/100 |
 | 402 | [Aaronmike481/BreachScanner](./aaronmike481-breachscanner.md) | ⭐ 1 | — | 41/100 |
-| 403 | [bilalyazicioglu/tincan-cli](./bilalyazicioglu-tincan-cli.md) | ⭐ 238 | — | 41/100 |
+| 403 | [bilalyazicioglu/tincan-cli](./bilalyazicioglu-tincan-cli.md) | ⭐ 239 | — | 41/100 |
 | 404 | [theletterf/comic-chat-ai](./theletterf-comic-chat-ai.md) | ⭐ — | — | 41/100 |
 | 405 | [OlegIGalkin/tendayweekcalendar](./olegigalkin-tendayweekcalendar.md) | ⭐ 1 | — | 41/100 |
 | 406 | [bwasti/serverside.chat](./bwasti-serverside.chat.md) | ⭐ — | — | 41/100 |
@@ -431,7 +431,7 @@
 | 421 | [djc/tokio-imap](./djc-tokio-imap.md) | ⭐ 132 | Rust | 41/100 |
 | 422 | [5012763083a-oss/email-list-cleaner](./5012763083a-oss-email-list-cleaner.md) | ⭐ — | JavaScript | 41/100 |
 | 423 | [ssanaullahrais/Chat-Vault](./ssanaullahrais-chat-vault.md) | ⭐ 82 | TypeScript | 40/100 |
-| 424 | [allure-framework/allure3](./allure-framework-allure3.md) | ⭐ 452 | — | 40/100 |
+| 424 | [allure-framework/allure3](./allure-framework-allure3.md) | ⭐ 454 | — | 40/100 |
 | 425 | [sebklaey/openos-momo-ai](./sebklaey-openos-momo-ai.md) | ⭐ — | JavaScript | 39/100 |
 | 426 | [RivierGrullon/mailrules](./riviergrullon-mailrules.md) | ⭐ 1 | TypeScript | 39/100 |
 | 427 | [2db2du-byte/hitchhikers-guide](./2db2du-byte-hitchhikers-guide.md) | ⭐ — | Python | 39/100 |

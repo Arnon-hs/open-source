@@ -1,6 +1,6 @@
 # lucaong/minisearch
 
-[![Stars](https://img.shields.io/github/stars/lucaong/minisearch?style=flat-square&color=yellow)](https://github.com/lucaong/minisearch/stargazers) [![Forks](https://img.shields.io/github/forks/lucaong/minisearch?style=flat-square&color=blue)](https://github.com/lucaong/minisearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-75%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/lucaong/minisearch?style=flat-square&color=yellow)](https://github.com/lucaong/minisearch/stargazers) [![Forks](https://img.shields.io/github/forks/lucaong/minisearch?style=flat-square&color=blue)](https://github.com/lucaong/minisearch/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > Tiny and powerful JavaScript full-text search engine for browser and Node
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 6.2k |
 | 🍴 **Forks** | 176 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 75/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Documents · DevOps/Infra
 
 ### English
 
-lucaong/minisearch: lucaong/minisearch may be useful when its README and activity match a concrete workflow.. Use it for standardize deployment; automate operations. High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+lucaong/minisearch: lucaong/minisearch may be useful when its README and activity match a concrete workflow.. Use it for standardize deployment; automate operations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-lucaong/minisearch: open-source проект в категориях Documents, DevOps/Infra. Практическое применение: standardize deployment; automate operations. Уровень готовности: готов для серьезного pilot с проверкой license, security и maintainer activity.
+lucaong/minisearch: open-source проект в категориях Documents, DevOps/Infra. Практическое применение: standardize deployment; automate operations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-lucaong/minisearch：lucaong/minisearch may be useful when its README and activity match a concrete workflow.。适合用于standardize deployment、automate operations。High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+lucaong/minisearch：lucaong/minisearch may be useful when its README and activity match a concrete workflow.。适合用于standardize deployment、automate operations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -48,7 +48,7 @@ lucaong/minisearch：lucaong/minisearch may be useful when its README and activi
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** High for an OSS candidate: recent activity, adoption, and ecosystem signals are strong enough for a serious pilot.
+**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 **Quality signals**
 
@@ -65,15 +65,15 @@ lucaong/minisearch：lucaong/minisearch may be useful when its README and activi
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 84/100 |
+| quality | 79/100 |
 | integration | 78/100 |
-| production | 79/100 |
-| outlook | 82/100 |
+| production | 73/100 |
+| outlook | 75/100 |
 | adoption | 74/100 |
 | categoryMatchCount | 200/100 |
 | stars | 81/100 |
 | forks | 56/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

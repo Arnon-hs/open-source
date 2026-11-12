@@ -136,7 +136,7 @@
 | 126 | [ctxrs/figma-server](./ctxrs-figma-server.md) | ⭐ 2 | — | 45/100 |
 | 127 | [ckcool6/GGUF_Libra](./ckcool6-gguf-libra.md) | ⭐ 2 | — | 45/100 |
 | 128 | [kmaida/deslop-skills](./kmaida-deslop-skills.md) | ⭐ 15 | — | 45/100 |
-| 129 | [boldaxolotl/booley](./boldaxolotl-booley.md) | ⭐ 25 | — | 45/100 |
+| 129 | [boldaxolotl/booley](./boldaxolotl-booley.md) | ⭐ 26 | — | 45/100 |
 | 130 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 656 | Java | 45/100 |
 | 131 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 345 | C++ | 45/100 |
 | 132 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 221 | PHP | 45/100 |
@@ -152,7 +152,7 @@
 | 142 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 42/100 |
 | 143 | [robbietilton/Compositor](./robbietilton-compositor.md) | ⭐ 18.6k | — | 41/100 |
 | 144 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ 883 | — | 41/100 |
-| 145 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 746 | — | 41/100 |
+| 145 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 806 | — | 41/100 |
 | 146 | [posterlet/amazing-posters](./posterlet-amazing-posters.md) | ⭐ 4 | — | 41/100 |
 | 147 | [nhunsaker/screenshot-to-tokens](./nhunsaker-screenshot-to-tokens.md) | ⭐ 7 | — | 41/100 |
 | 148 | [daneb/ai-system-design-primer](./daneb-ai-system-design-primer.md) | ⭐ 9 | — | 41/100 |
@@ -199,7 +199,7 @@
 | 189 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 38/100 |
 | 190 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
 | 191 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ 2.1k | — | 38/100 |
-| 192 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ 970 | — | 38/100 |
+| 192 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ 972 | — | 38/100 |
 | 193 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ 310 | — | 38/100 |
 | 194 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ 126.8k | — | 38/100 |
 | 195 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ 272 | — | 38/100 |

@@ -498,7 +498,7 @@
 | 488 | [Staxless/staxless](./staxless-staxless.md) | ⭐ 2 | — | 41/100 |
 | 489 | [gojko/lights-on-software-factory](./gojko-lights-on-software-factory.md) | ⭐ 111 | — | 41/100 |
 | 490 | [Shokun123/binance-pay-saas-starter](./shokun123-binance-pay-saas-starter.md) | ⭐ — | — | 41/100 |
-| 491 | [biopoetic/foveon-lab](./biopoetic-foveon-lab.md) | ⭐ 2 | — | 41/100 |
+| 491 | [biopoetic/foveon-lab](./biopoetic-foveon-lab.md) | ⭐ 3 | — | 41/100 |
 | 492 | [launchapp-studio/launchpaywall-ios](./launchapp-studio-launchpaywall-ios.md) | ⭐ 2 | — | 41/100 |
 | 493 | [SrikanthVemulapally/ai-native-boilerplate](./srikanthvemulapally-ai-native-boilerplate.md) | ⭐ 1 | — | 41/100 |
 | 494 | [GeekyAnts/flutter-starter](./geekyants-flutter-starter.md) | ⭐ 484 | — | 41/100 |

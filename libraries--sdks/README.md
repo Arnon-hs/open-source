@@ -218,7 +218,7 @@
 | 208 | [pola-rs/r-polars](./pola-rs-r-polars.md) | ⭐ 578 | R | 52/100 |
 | 209 | [mlir-rs/melior](./mlir-rs-melior.md) | ⭐ 560 | Rust | 52/100 |
 | 210 | [uhop/node-re2](./uhop-node-re2.md) | ⭐ 565 | JavaScript | 52/100 |
-| 211 | [borchero/ducklake-sdk](./borchero-ducklake-sdk.md) | ⭐ 65 | — | 52/100 |
+| 211 | [borchero/ducklake-sdk](./borchero-ducklake-sdk.md) | ⭐ 66 | — | 52/100 |
 | 212 | [yury/cidre](./yury-cidre.md) | ⭐ 225 | Rust | 52/100 |
 | 213 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 508 | Rust | 52/100 |
 | 214 | [squirix/squirix](./squirix-squirix.md) | ⭐ 1 | C# | 51/100 |
@@ -246,7 +246,7 @@
 | 236 | [jonhoo/rust-ibverbs](./jonhoo-rust-ibverbs.md) | ⭐ 235 | Rust | 49/100 |
 | 237 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 217 | JavaScript | 49/100 |
 | 238 | [CH-Abhinav/JNum](./ch-abhinav-jnum.md) | ⭐ 33 | — | 48/100 |
-| 239 | [apple-auth/apple-auth](./apple-auth-apple-auth.md) | ⭐ 2 | — | 48/100 |
+| 239 | [apple-auth/apple-auth](./apple-auth-apple-auth.md) | ⭐ 3 | — | 48/100 |
 | 240 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ 106 | — | 48/100 |
 | 241 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |
 | 242 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ 9 | — | 48/100 |
@@ -269,7 +269,7 @@
 | 259 | [necoz-oss/type-tune](./necoz-oss-type-tune.md) | ⭐ — | — | 45/100 |
 | 260 | [sandrpod/sandrpod](./sandrpod-sandrpod.md) | ⭐ 4 | — | 45/100 |
 | 261 | [RanjithRagavan/Noctua](./ranjithragavan-noctua.md) | ⭐ 3 | — | 45/100 |
-| 262 | [BandarLabs/Cobalt](./bandarlabs-cobalt.md) | ⭐ 432 | — | 45/100 |
+| 262 | [BandarLabs/Cobalt](./bandarlabs-cobalt.md) | ⭐ 433 | — | 45/100 |
 | 263 | [Vivek76760/shatachandra-shield-sdk](./vivek76760-shatachandra-shield-sdk.md) | ⭐ — | — | 45/100 |
 | 264 | [bbenchoff/AGaMEMnon](./bbenchoff-agamemnon.md) | ⭐ 63 | — | 45/100 |
 | 265 | [s2-streamstore/nfs-crust](./s2-streamstore-nfs-crust.md) | ⭐ 9 | — | 45/100 |

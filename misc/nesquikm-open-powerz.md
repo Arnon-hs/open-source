@@ -1,6 +1,6 @@
 # nesquikm/open-powerz
 
-[![Stars](https://img.shields.io/github/stars/nesquikm/open-powerz?style=flat-square&color=yellow)](https://github.com/nesquikm/open-powerz/stargazers) [![Forks](https://img.shields.io/github/forks/nesquikm/open-powerz?style=flat-square&color=blue)](https://github.com/nesquikm/open-powerz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/nesquikm/open-powerz?style=flat-square&color=yellow)](https://github.com/nesquikm/open-powerz/stargazers) [![Forks](https://img.shields.io/github/forks/nesquikm/open-powerz?style=flat-square&color=blue)](https://github.com/nesquikm/open-powerz/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source, cross-platform (macOS/Linux/Windows) app for POWER-Z KM003C/KM002C USB-C power meters & PD analyzers. Unofficial.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -51,6 +51,7 @@ nesquikm/open-powerz：nesquikm/open-powerz may be useful when its README and ac
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-11
 - primary language: Rust
 
@@ -61,13 +62,13 @@ nesquikm/open-powerz：nesquikm/open-powerz may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 38/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 50/100 |
-| adoption | 0/100 |
+| production | 56/100 |
+| outlook | 52/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 0/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 0/100 |
