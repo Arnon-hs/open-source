@@ -485,8 +485,8 @@
 | 475 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 476 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
 | 477 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 298 | Rust | 60/100 |
-| 478 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
-| 479 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
+| 478 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
+| 479 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
 | 480 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.8k | TypeScript | 60/100 |
 | 481 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 366 | Go | 60/100 |
 | 482 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
@@ -746,7 +746,7 @@
 | 736 | [rari-build/rari](./rari-build-rari.md) | ⭐ 1.2k | Rust | 55/100 |
 | 737 | [metabrainz/listenbrainz-server](./metabrainz-listenbrainz-server.md) | ⭐ 1.1k | Python | 55/100 |
 | 738 | [kaezee/Augur](./kaezee-augur.md) | ⭐ 6 | TypeScript | 54/100 |
-| 739 | [ashuttl/linecast](./ashuttl-linecast.md) | ⭐ 680 | Python | 54/100 |
+| 739 | [ashuttl/linecast](./ashuttl-linecast.md) | ⭐ 682 | Python | 54/100 |
 | 740 | [coderwhy/hy-event-store](./coderwhy-hy-event-store.md) | ⭐ 411 | JavaScript | 54/100 |
 | 741 | [mardous/BoomingMusic](./mardous-boomingmusic.md) | ⭐ 610 | Kotlin | 54/100 |
 | 742 | [schell/mogwai](./schell-mogwai.md) | ⭐ 428 | Rust | 54/100 |

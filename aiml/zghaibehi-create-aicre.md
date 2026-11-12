@@ -1,6 +1,6 @@
 # zghaibehi-create/aicre
 
-[![Stars](https://img.shields.io/github/stars/zghaibehi-create/aicre?style=flat-square&color=yellow)](https://github.com/zghaibehi-create/aicre/stargazers) [![Forks](https://img.shields.io/github/forks/zghaibehi-create/aicre?style=flat-square&color=blue)](https://github.com/zghaibehi-create/aicre/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/zghaibehi-create/aicre?style=flat-square&color=yellow)](https://github.com/zghaibehi-create/aicre/stargazers) [![Forks](https://img.shields.io/github/forks/zghaibehi-create/aicre?style=flat-square&color=blue)](https://github.com/zghaibehi-create/aicre/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI Computer Readiness Engine — a local-first Linux environment inventory and workload-readiness CLI.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ zghaibehi-create/aicre：zghaibehi-create/aicre helps add AI capability without 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

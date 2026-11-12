@@ -13,7 +13,7 @@
 | 3 | [jipraks/yt-short-clipper](./jipraks-yt-short-clipper.md) | ⭐ 1.1k | TypeScript | 84/100 |
 | 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 914 | TypeScript | 83/100 |
 | 5 | [el-frontend/video-wizard](./el-frontend-video-wizard.md) | ⭐ 18 | TypeScript | 82/100 |
-| 6 | [adityaarsharma/youtube-marketing-skills](./adityaarsharma-youtube-marketing-skills.md) | ⭐ 82 | JavaScript | 82/100 |
+| 6 | [adityaarsharma/youtube-marketing-skills](./adityaarsharma-youtube-marketing-skills.md) | ⭐ 83 | JavaScript | 82/100 |
 | 7 | [yi1108/printfilm](./yi1108-printfilm.md) | ⭐ 7.4k | Python | 82/100 |
 | 8 | [fralapo/clippyme](./fralapo-clippyme.md) | ⭐ 63 | Python | 82/100 |
 | 9 | [Hao0321/video-autopilot-kit](./hao0321-video-autopilot-kit.md) | ⭐ 2.3k | Python | 80/100 |
@@ -22,7 +22,7 @@
 | 12 | [feyzilim/clipfactory](./feyzilim-clipfactory.md) | ⭐ 106 | Python | 79/100 |
 | 13 | [xixihhhh/clipforge](./xixihhhh-clipforge.md) | ⭐ 1.3k | TypeScript | 79/100 |
 | 14 | [JeremySNR/cutawan](./jeremysnr-cutawan.md) | ⭐ 41 | TypeScript | 77/100 |
-| 15 | [openclaw-easy/ViralMint](./openclaw-easy-viralmint.md) | ⭐ 196 | Python | 77/100 |
+| 15 | [openclaw-easy/ViralMint](./openclaw-easy-viralmint.md) | ⭐ 197 | Python | 77/100 |
 | 16 | [nmbrthirteen/podcli](./nmbrthirteen-podcli.md) | ⭐ 88 | Python | 77/100 |
 | 17 | [tarai-dl/fablr](./tarai-dl-fablr.md) | ⭐ 159 | TypeScript | 76/100 |
 | 18 | [Chamanrajragu/purffle-shorts](./chamanrajragu-purffle-shorts.md) | ⭐ 73 | Python | 76/100 |
@@ -84,7 +84,7 @@
 | 74 | [ymybxx/SoloMCN](./ymybxx-solomcn.md) | ⭐ 75 | JavaScript | 66/100 |
 | 75 | [Finderchangchang/brewreel](./finderchangchang-brewreel.md) | ⭐ 185 | TypeScript | 66/100 |
 | 76 | [nateherkai/hyperframes-student-kit](./nateherkai-hyperframes-student-kit.md) | ⭐ 616 | HTML | 66/100 |
-| 77 | [getcurate/reel-studio](./getcurate-reel-studio.md) | ⭐ 82 | TypeScript | 65/100 |
+| 77 | [getcurate/reel-studio](./getcurate-reel-studio.md) | ⭐ 83 | TypeScript | 65/100 |
 | 78 | [hey-yx/allparse](./hey-yx-allparse.md) | ⭐ 106 | TypeScript | 65/100 |
 | 79 | [mutonby/openshorts](./mutonby-openshorts.md) | ⭐ 7.8k | Python | 65/100 |
 | 80 | [hey-yx/short-video-extractor](./hey-yx-short-video-extractor.md) | ⭐ 103 | TypeScript | 65/100 |
@@ -121,7 +121,7 @@
 | 111 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 4 | Python | 59/100 |
 | 112 | [kurbaitaev/ghost-editor](./kurbaitaev-ghost-editor.md) | ⭐ 406 | JavaScript | 59/100 |
 | 113 | [XshuiAi/media-publish-check](./xshuiai-media-publish-check.md) | ⭐ 73 | Python | 59/100 |
-| 114 | [SamurAIGPT/ai-clipping-generator](./samuraigpt-ai-clipping-generator.md) | ⭐ 115 | JavaScript | 59/100 |
+| 114 | [SamurAIGPT/ai-clipping-generator](./samuraigpt-ai-clipping-generator.md) | ⭐ 117 | JavaScript | 59/100 |
 | 115 | [m1ng-li/mac-thermalright-ai-monitor](./m1ng-li-mac-thermalright-ai-monitor.md) | ⭐ 61 | Swift | 59/100 |
 | 116 | [threerocks/article2media](./threerocks-article2media.md) | ⭐ 67 | JavaScript | 58/100 |
 | 117 | [DeadY2J/factreel](./deady2j-factreel.md) | ⭐ 3 | Python | 58/100 |

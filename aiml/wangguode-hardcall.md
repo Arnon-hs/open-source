@@ -1,6 +1,6 @@
 # wangguode/hardcall
 
-[![Stars](https://img.shields.io/github/stars/wangguode/hardcall?style=flat-square&color=yellow)](https://github.com/wangguode/hardcall/stargazers) [![Forks](https://img.shields.io/github/forks/wangguode/hardcall?style=flat-square&color=blue)](https://github.com/wangguode/hardcall/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wangguode/hardcall?style=flat-square&color=yellow)](https://github.com/wangguode/hardcall/stargazers) [![Forks](https://img.shields.io/github/forks/wangguode/hardcall?style=flat-square&color=blue)](https://github.com/wangguode/hardcall/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > HardCall — 52ms 实时打断 AI 高压语音面试与演说路演模拟器 | High-pressure AI voice interviewer & keynote simulator with 52ms barge-in.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ wangguode/hardcall：wangguode/hardcall helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 46/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

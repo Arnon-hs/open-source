@@ -316,7 +316,7 @@
 | 306 | [tangle-network/blueprint](./tangle-network-blueprint.md) | ⭐ 348 | Rust | 58/100 |
 | 307 | [Anirudh-pandit-466/android-adb-tunnel-vantage](./anirudh-pandit-466-android-adb-tunnel-vantage.md) | ⭐ 114 | HTML | 58/100 |
 | 308 | [sozu-proxy/sozu](./sozu-proxy-sozu.md) | ⭐ 3.8k | Rust | 58/100 |
-| 309 | [sorinipate/vpn-up-for-openconnect](./sorinipate-vpn-up-for-openconnect.md) | ⭐ 56 | Shell | 58/100 |
+| 309 | [sorinipate/vpn-up-for-openconnect](./sorinipate-vpn-up-for-openconnect.md) | ⭐ 55 | Shell | 58/100 |
 | 310 | [openstack/neutron](./openstack-neutron.md) | ⭐ 1.5k | Python | 58/100 |
 | 311 | [ngtcp2/ngtcp2](./ngtcp2-ngtcp2.md) | ⭐ 1.5k | C | 58/100 |
 | 312 | [smol-rs/smol](./smol-rs-smol.md) | ⭐ 5.1k | Rust | 58/100 |
@@ -582,8 +582,8 @@
 | 572 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 573 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 653 | — | 45/100 |
 | 574 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
-| 576 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 576 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
 | 577 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 578 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 579 | [hoysengleang/wslog](./hoysengleang-wslog.md) | ⭐ 1 | TypeScript | 43/100 |
