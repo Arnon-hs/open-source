@@ -64,18 +64,18 @@ spranab/mcpier：spranab/mcpier helps connect AI assistants to real tools and da
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 38/100 |
-| integration | 100/100 |
-| production | 51/100 |
-| outlook | 52/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 500/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 52/100 |
+| quality | 38/100 |
+| recency | 40/100 |
+| adoption | 5/100 |
+| production | 51/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

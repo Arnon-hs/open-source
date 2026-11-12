@@ -2,7 +2,7 @@
 
 > 
 
-**291 projects** in this category.
+**292 projects** in this category.
 
 ## Projects
 
@@ -144,7 +144,7 @@
 | 134 | [langfuse/langfuse-python](./langfuse-langfuse-python.md) | ⭐ 514 | Python | 60/100 |
 | 135 | [okunix/gollama](./okunix-gollama.md) | ⭐ 2 | — | 59/100 |
 | 136 | [sanity-io/client](./sanity-io-client.md) | ⭐ 114 | TypeScript | 59/100 |
-| 137 | [xai-org/xai-sdk-ts](./xai-org-xai-sdk-ts.md) | ⭐ 68 | — | 59/100 |
+| 137 | [xai-org/xai-sdk-ts](./xai-org-xai-sdk-ts.md) | ⭐ 69 | — | 59/100 |
 | 138 | [sahlberg/libnfs](./sahlberg-libnfs.md) | ⭐ 609 | C | 59/100 |
 | 139 | [gtk-rs/gtk-rs-core](./gtk-rs-gtk-rs-core.md) | ⭐ 382 | Rust | 59/100 |
 | 140 | [pygobject/pycairo](./pygobject-pycairo.md) | ⭐ 702 | C | 59/100 |
@@ -262,7 +262,7 @@
 | 252 | [georust/netcdf](./georust-netcdf.md) | ⭐ 106 | Rust | 47/100 |
 | 253 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 47/100 |
 | 254 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 5.1k | Rust | 47/100 |
-| 255 | [Domenico-Tenace-Open-Labs/spellbook-of-skill](./domenico-tenace-open-labs-spellbook-of-skill.md) | ⭐ — | — | 46/100 |
+| 255 | [Domenico-Tenace-Open-Labs/spellbook-of-skill](./domenico-tenace-open-labs-spellbook-of-skill.md) | ⭐ 2 | — | 46/100 |
 | 256 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 125 | Rust | 46/100 |
 | 257 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.6k | Rust | 46/100 |
 | 258 | [jpdagostin0/amc](./jpdagostin0-amc.md) | ⭐ — | — | 45/100 |
@@ -283,22 +283,23 @@
 | 273 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 43/100 |
 | 274 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 160 | Rust | 43/100 |
 | 275 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
-| 276 | [openvi-foundation/openvue](./openvi-foundation-openvue.md) | ⭐ 442 | — | 41/100 |
-| 277 | [dannkkie/pure-sift](./dannkkie-pure-sift.md) | ⭐ — | — | 41/100 |
-| 278 | [romeroej2/ContextCall](./romeroej2-contextcall.md) | ⭐ — | — | 41/100 |
-| 279 | [V0rtexLinux/ILrDOS](./v0rtexlinux-ilrdos.md) | ⭐ — | — | 41/100 |
-| 280 | [Eazydraft/docxtor](./eazydraft-docxtor.md) | ⭐ — | — | 41/100 |
-| 281 | [FuzzyIdeas/LimbaKit](./fuzzyideas-limbakit.md) | ⭐ 1 | — | 41/100 |
-| 282 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ 16.3k | — | 41/100 |
-| 283 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ 1 | — | 41/100 |
-| 284 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
-| 285 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 135 | Rust | 39/100 |
-| 286 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 8 | Rust | 38/100 |
-| 287 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
-| 288 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ 4 | — | 37/100 |
-| 289 | [storj-thirdparty/uplink-php](./storj-thirdparty-uplink-php.md) | ⭐ 31 | PHP | 35/100 |
-| 290 | [thisisamirv/loess-project](./thisisamirv-loess-project.md) | ⭐ 3 | Rust | 33/100 |
-| 291 | [rustwasm/wasm-bindgen](./rustwasm-wasm-bindgen.md) | ⭐ — | — | 28/100 |
+| 276 | [useswype/kotlin-pdfx](./useswype-kotlin-pdfx.md) | ⭐ — | — | 41/100 |
+| 277 | [openvi-foundation/openvue](./openvi-foundation-openvue.md) | ⭐ 442 | — | 41/100 |
+| 278 | [dannkkie/pure-sift](./dannkkie-pure-sift.md) | ⭐ — | — | 41/100 |
+| 279 | [romeroej2/ContextCall](./romeroej2-contextcall.md) | ⭐ — | — | 41/100 |
+| 280 | [V0rtexLinux/ILrDOS](./v0rtexlinux-ilrdos.md) | ⭐ — | — | 41/100 |
+| 281 | [Eazydraft/docxtor](./eazydraft-docxtor.md) | ⭐ — | — | 41/100 |
+| 282 | [FuzzyIdeas/LimbaKit](./fuzzyideas-limbakit.md) | ⭐ 2 | — | 41/100 |
+| 283 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ 16.3k | — | 41/100 |
+| 284 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ 1 | — | 41/100 |
+| 285 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
+| 286 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 135 | Rust | 39/100 |
+| 287 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 8 | Rust | 38/100 |
+| 288 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
+| 289 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ 4 | — | 37/100 |
+| 290 | [storj-thirdparty/uplink-php](./storj-thirdparty-uplink-php.md) | ⭐ 31 | PHP | 35/100 |
+| 291 | [thisisamirv/loess-project](./thisisamirv-loess-project.md) | ⭐ 3 | Rust | 33/100 |
+| 292 | [rustwasm/wasm-bindgen](./rustwasm-wasm-bindgen.md) | ⭐ — | — | 28/100 |
 
 ---
 

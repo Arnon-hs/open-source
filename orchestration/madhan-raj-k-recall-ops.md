@@ -1,6 +1,6 @@
 # Madhan-raj-k/recall-ops
 
-[![Stars](https://img.shields.io/github/stars/Madhan-raj-k/recall-ops?style=flat-square&color=yellow)](https://github.com/Madhan-raj-k/recall-ops/stargazers) [![Forks](https://img.shields.io/github/forks/Madhan-raj-k/recall-ops?style=flat-square&color=blue)](https://github.com/Madhan-raj-k/recall-ops/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Madhan-raj-k/recall-ops?style=flat-square&color=yellow)](https://github.com/Madhan-raj-k/recall-ops/stargazers) [![Forks](https://img.shields.io/github/forks/Madhan-raj-k/recall-ops?style=flat-square&color=blue)](https://github.com/Madhan-raj-k/recall-ops/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > On-call incident-response copilot that remembers every past incident, powered by Hindsight agent memory
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ Madhan-raj-k/recall-ops：Madhan-raj-k/recall-ops helps turn isolated prompts an
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

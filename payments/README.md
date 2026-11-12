@@ -191,7 +191,7 @@
 | 181 | [thoughtpivot/scribe](./thoughtpivot-scribe.md) | ⭐ 4 | TypeScript | 57/100 |
 | 182 | [Pink-Agentic-Payments/agent-payment-protocols-tracker](./pink-agentic-payments-agent-payment-protocols-tracker.md) | ⭐ — | Python | 56/100 |
 | 183 | [Pink-Agentic-Payments/overspend-challenge](./pink-agentic-payments-overspend-challenge.md) | ⭐ — | Python | 56/100 |
-| 184 | [vayungodara/cliproxy-rs](./vayungodara-cliproxy-rs.md) | ⭐ 71 | — | 56/100 |
+| 184 | [vayungodara/cliproxy-rs](./vayungodara-cliproxy-rs.md) | ⭐ 72 | — | 56/100 |
 | 185 | [Voxyfy/anadolupay-node](./voxyfy-anadolupay-node.md) | ⭐ 71 | TypeScript | 56/100 |
 | 186 | [KalimeroMK/LaravelEcomm](./kalimeromk-laravelecomm.md) | ⭐ 139 | PHP | 56/100 |
 | 187 | [MusahMusah/laravel-multipayment-gateways](./musahmusah-laravel-multipayment-gateways.md) | ⭐ 91 | PHP | 56/100 |
