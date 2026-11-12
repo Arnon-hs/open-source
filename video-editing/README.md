@@ -600,7 +600,7 @@
 | 590 | [waldo-van-der-code/whatyousay-oss](./waldo-van-der-code-whatyousay-oss.md) | ⭐ 1 | — | 45/100 |
 | 591 | [wutlu/notchsub](./wutlu-notchsub.md) | ⭐ 1 | — | 45/100 |
 | 592 | [openfilm/openfilm](./openfilm-openfilm.md) | ⭐ 5.8k | — | 45/100 |
-| 593 | [iterative-computer/powermove](./iterative-computer-powermove.md) | ⭐ 363 | — | 45/100 |
+| 593 | [iterative-computer/powermove](./iterative-computer-powermove.md) | ⭐ 387 | — | 45/100 |
 | 594 | [google/ExoPlayer](./google-exoplayer.md) | ⭐ 21.9k | — | 45/100 |
 | 595 | [videojs/video.js](./videojs-video.js.md) | ⭐ 40.2k | — | 45/100 |
 | 596 | [Netflix/vmaf](./netflix-vmaf.md) | ⭐ 5.6k | — | 45/100 |
@@ -619,7 +619,7 @@
 | 609 | [wojciechowskiapp/Kaption](./wojciechowskiapp-kaption.md) | ⭐ 8 | — | 42/100 |
 | 610 | [DeegoFronk/Auto-Vod-Trimmer](./deegofronk-auto-vod-trimmer.md) | ⭐ 5 | — | 42/100 |
 | 611 | [justinseanmartin/Retake](./justinseanmartin-retake.md) | ⭐ 2 | — | 41/100 |
-| 612 | [kadirb4rut/voxadub](./kadirb4rut-voxadub.md) | ⭐ 24 | — | 41/100 |
+| 612 | [kadirb4rut/voxadub](./kadirb4rut-voxadub.md) | ⭐ 25 | — | 41/100 |
 | 613 | [belfortlabs/blindsight-demo](./belfortlabs-blindsight-demo.md) | ⭐ — | — | 41/100 |
 | 614 | [acalejos/CinEx](./acalejos-cinex.md) | ⭐ 142 | — | 41/100 |
 | 615 | [hydope/shortsmash](./hydope-shortsmash.md) | ⭐ 3 | — | 41/100 |

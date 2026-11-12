@@ -24,7 +24,7 @@
 | 14 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ 6 | — | 41/100 |
 | 15 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ 1 | — | 41/100 |
 | 16 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ 2 | — | 41/100 |
-| 17 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ 1 | — | 41/100 |
+| 17 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ 2 | — | 41/100 |
 
 ---
 

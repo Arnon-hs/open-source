@@ -79,8 +79,8 @@
 | 69 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 1k | — | 65/100 |
 | 70 | [arhancanli/canlicapital](./arhancanli-canlicapital.md) | ⭐ 6 | HTML | 64/100 |
 | 71 | [HKUDS/AI-Trader](./hkuds-ai-trader.md) | ⭐ 23.2k | Python | 64/100 |
-| 72 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.7k | — | 64/100 |
-| 73 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 98 | Python | 64/100 |
+| 72 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 98 | Python | 64/100 |
+| 73 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.7k | — | 64/100 |
 | 74 | [HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](./harrieronchain-prediction-markets-trading-bot-toolkits.md) | ⭐ 354 | Rust | 64/100 |
 | 75 | [Travisun/Opptrix](./travisun-opptrix.md) | ⭐ 32 | TypeScript | 64/100 |
 | 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 232 | Rust | 64/100 |
@@ -168,8 +168,8 @@
 | 158 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 159 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
 | 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 231 | Go | 52/100 |
-| 161 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
-| 162 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 161 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 162 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
 | 163 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 164 | [uselayer/uselayer-sdk](./uselayer-uselayer-sdk.md) | ⭐ 3 | — | 51/100 |
 | 165 | [weirdapps/etorotrade](./weirdapps-etorotrade.md) | ⭐ 39 | Python | 51/100 |
@@ -211,14 +211,14 @@
 | 201 | [bagoldbe/form4lab](./bagoldbe-form4lab.md) | ⭐ 8 | — | 42/100 |
 | 202 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ 52 | — | 42/100 |
 | 203 | [AlonDrilich/tld-renewal-prices](./alondrilich-tld-renewal-prices.md) | ⭐ 1 | — | 41/100 |
-| 204 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ 55 | — | 41/100 |
+| 204 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ 60 | — | 41/100 |
 | 205 | [aybvip/pi-fungibility](./aybvip-pi-fungibility.md) | ⭐ 2 | — | 41/100 |
 | 206 | [RayDCodes/pqc-migration-bench](./raydcodes-pqc-migration-bench.md) | ⭐ — | — | 41/100 |
 | 207 | [BubbleParticles/Planar.jl](./bubbleparticles-planar.jl.md) | ⭐ 12 | — | 41/100 |
 | 208 | [vincent212/kaspar-hft](./vincent212-kaspar-hft.md) | ⭐ 46 | — | 41/100 |
 | 209 | [strahinjastojanovic826-code/quant](./strahinjastojanovic826-code-quant.md) | ⭐ 2 | — | 41/100 |
 | 210 | [SaratAngajalaoffl/jeeva](./saratangajalaoffl-jeeva.md) | ⭐ 16 | — | 41/100 |
-| 211 | [jmelo11/quantsupport](./jmelo11-quantsupport.md) | ⭐ 28 | — | 41/100 |
+| 211 | [jmelo11/quantsupport](./jmelo11-quantsupport.md) | ⭐ 29 | — | 41/100 |
 | 212 | [maddogfinance/dsh-trading](./maddogfinance-dsh-trading.md) | ⭐ 41 | — | 41/100 |
 | 213 | [rkang30/open-trade-bot](./rkang30-open-trade-bot.md) | ⭐ 2 | — | 41/100 |
 | 214 | [ayush-agrawal001/cloutCall](./ayush-agrawal001-cloutcall.md) | ⭐ 1 | TypeScript | 40/100 |

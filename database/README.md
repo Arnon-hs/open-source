@@ -341,7 +341,7 @@
 | 331 | [Shman4ik/pgNimbus](./shman4ik-pgnimbus.md) | ⭐ 29 | — | 48/100 |
 | 332 | [frizurd/postquel](./frizurd-postquel.md) | ⭐ 3 | — | 48/100 |
 | 333 | [abhiraj-ku/iCli](./abhiraj-ku-icli.md) | ⭐ 2 | — | 48/100 |
-| 334 | [karlis-vagalis/banker](./karlis-vagalis-banker.md) | ⭐ 2 | — | 48/100 |
+| 334 | [karlis-vagalis/banker](./karlis-vagalis-banker.md) | ⭐ 3 | — | 48/100 |
 | 335 | [ClickHouse/walshadow](./clickhouse-walshadow.md) | ⭐ 267 | — | 48/100 |
 | 336 | [launix-de/memcp](./launix-de-memcp.md) | ⭐ 69 | — | 48/100 |
 | 337 | [timgordontg/engrim](./timgordontg-engrim.md) | ⭐ 305 | — | 48/100 |
@@ -518,7 +518,7 @@
 | 508 | [kingroryg/turbokv](./kingroryg-turbokv.md) | ⭐ 280 | — | 38/100 |
 | 509 | [MigMarGil/sqlite-diff-log](./migmargil-sqlite-diff-log.md) | ⭐ 1 | — | 38/100 |
 | 510 | [jncastilho/luadb](./jncastilho-luadb.md) | ⭐ — | — | 38/100 |
-| 511 | [jeffhajewski/latticedb](./jeffhajewski-latticedb.md) | ⭐ 751 | — | 38/100 |
+| 511 | [jeffhajewski/latticedb](./jeffhajewski-latticedb.md) | ⭐ 752 | — | 38/100 |
 | 512 | [borborich/pgextassure](./borborich-pgextassure.md) | ⭐ 2 | — | 38/100 |
 | 513 | [p2r3/ha.mr](./p2r3-ha.mr.md) | ⭐ 1.1k | — | 38/100 |
 | 514 | [RyanRana/nibble](./ryanrana-nibble.md) | ⭐ 1 | — | 38/100 |
@@ -554,7 +554,7 @@
 | 544 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
 | 545 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
 | 546 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
-| 547 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 442 | — | 38/100 |
+| 547 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 548 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |
 | 549 | [clickhouse/pg_re2](./clickhouse-pg-re2.md) | ⭐ 21 | — | 38/100 |
 | 550 | [janbjorge/pgnudge](./janbjorge-pgnudge.md) | ⭐ 2 | — | 38/100 |
@@ -570,15 +570,15 @@
 | 560 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 561 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 562 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 563 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
-| 564 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
+| 563 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
+| 564 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
 | 565 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 566 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 567 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 568 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 569 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 106 | — | 38/100 |
-| 570 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
-| 571 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 570 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 571 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
 | 572 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 573 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 574 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

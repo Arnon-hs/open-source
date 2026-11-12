@@ -171,7 +171,7 @@
 | 161 | [devdotfast/whiteboard](./devdotfast-whiteboard.md) | ⭐ 3.5k | — | 41/100 |
 | 162 | [carlosphyll/phyll](./carlosphyll-phyll.md) | ⭐ 2 | — | 41/100 |
 | 163 | [andrsrxn/icons](./andrsrxn-icons.md) | ⭐ 37 | — | 41/100 |
-| 164 | [HZou9/PCBSchemaGen_v2](./hzou9-pcbschemagen-v2.md) | ⭐ 22 | — | 41/100 |
+| 164 | [HZou9/PCBSchemaGen_v2](./hzou9-pcbschemagen-v2.md) | ⭐ 23 | — | 41/100 |
 | 165 | [eremes81/game-design-ai-practice-en](./eremes81-game-design-ai-practice-en.md) | ⭐ 6 | — | 41/100 |
 | 166 | [definitemaybe0/vdr](./definitemaybe0-vdr.md) | ⭐ — | — | 41/100 |
 | 167 | [Prometheus-000/strata](./prometheus-000-strata.md) | ⭐ 2 | — | 41/100 |

@@ -1,6 +1,6 @@
 # Idrees-Saifuddin/blast-radius
 
-[![Stars](https://img.shields.io/github/stars/Idrees-Saifuddin/blast-radius?style=flat-square&color=yellow)](https://github.com/Idrees-Saifuddin/blast-radius/stargazers) [![Forks](https://img.shields.io/github/forks/Idrees-Saifuddin/blast-radius?style=flat-square&color=blue)](https://github.com/Idrees-Saifuddin/blast-radius/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Idrees-Saifuddin/blast-radius?style=flat-square&color=yellow)](https://github.com/Idrees-Saifuddin/blast-radius/stargazers) [![Forks](https://img.shields.io/github/forks/Idrees-Saifuddin/blast-radius?style=flat-square&color=blue)](https://github.com/Idrees-Saifuddin/blast-radius/network) [![Language](https://img.shields.io/badge/lang-PHP-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > See what your Laravel code does and what a change can break, in your browser: code flow diagrams, live request tracing linked to your code, and change impact from a git diff. Like Telescope, but connected to your code.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | PHP |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ Idrees-Saifuddin/blast-radius：Idrees-Saifuddin/blast-radius helps engineers sa
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-06
 - primary language: PHP
 - 11 topics
@@ -64,13 +65,13 @@ Idrees-Saifuddin/blast-radius：Idrees-Saifuddin/blast-radius helps engineers sa
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 54/100 |
-| outlook | 57/100 |
-| adoption | 0/100 |
+| production | 55/100 |
+| outlook | 58/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 200/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

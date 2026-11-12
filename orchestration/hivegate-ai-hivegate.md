@@ -1,6 +1,6 @@
 # hivegate-ai/hivegate
 
-[![Stars](https://img.shields.io/github/stars/hivegate-ai/hivegate?style=flat-square&color=yellow)](https://github.com/hivegate-ai/hivegate/stargazers) [![Forks](https://img.shields.io/github/forks/hivegate-ai/hivegate?style=flat-square&color=blue)](https://github.com/hivegate-ai/hivegate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hivegate-ai/hivegate?style=flat-square&color=yellow)](https://github.com/hivegate-ai/hivegate/stargazers) [![Forks](https://img.shields.io/github/forks/hivegate-ai/hivegate?style=flat-square&color=blue)](https://github.com/hivegate-ai/hivegate/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-71%2F100-brightgreen?style=flat-square)](#)
 
 > HiveGate AI agent runtime — run your Agno agents as a production REST API: per-user sessions and OAuth, human approval, multi-agent teams. (formerly Agents Gateway)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 74/100 |
+| 📈 **Score** | 71/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ hivegate-ai/hivegate：hivegate-ai/hivegate helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 60/100 |
+| quality | 55/100 |
 | integration | 78/100 |
-| production | 71/100 |
-| outlook | 77/100 |
+| production | 64/100 |
+| outlook | 70/100 |
 | adoption | 22/100 |
 | categoryMatchCount | 500/100 |
 | stars | 19/100 |
 | forks | 28/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

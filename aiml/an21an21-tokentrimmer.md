@@ -64,18 +64,18 @@ an21an21/tokentrimmer：an21an21/tokentrimmer helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 64/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 300/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 48/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 57/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-Mobile
+Automation · AI/ML · Communication · Mobile
 
 ## 📝 Summary
 
 ### English
 
-ateymoori/pomelu: ateymoori/pomelu may be useful when its README and activity match a concrete workflow.. Use it for Mobile. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ateymoori/pomelu: ateymoori/pomelu helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-ateymoori/pomelu: open-source проект в категориях Mobile. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ateymoori/pomelu: open-source проект в категориях Automation, AI/ML, Communication, Mobile. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-ateymoori/pomelu：ateymoori/pomelu may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ateymoori/pomelu：ateymoori/pomelu helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** ateymoori/pomelu may be useful when its README and activity match a concrete workflow.
+**Value:** ateymoori/pomelu helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -63,19 +65,19 @@ ateymoori/pomelu：ateymoori/pomelu may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 54/100 |
-| integration | 46/100 |
-| production | 59/100 |
-| outlook | 68/100 |
-| adoption | 18/100 |
-| categoryMatchCount | 100/100 |
-| stars | 22/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 22/100 |
 | topics | 100/100 |
+| outlook | 68/100 |
+| quality | 54/100 |
+| recency | 80/100 |
+| adoption | 18/100 |
+| production | 59/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/ateymoori/pomelu) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/ateymoori/pomelu) · [← Back to Automation](./README.md)</sub>

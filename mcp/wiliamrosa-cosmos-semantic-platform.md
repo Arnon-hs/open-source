@@ -65,18 +65,18 @@ WiliamRosa/cosmos-semantic-platform：WiliamRosa/cosmos-semantic-platform helps 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 49/100 |
-| integration | 78/100 |
-| production | 62/100 |
-| outlook | 62/100 |
-| adoption | 9/100 |
-| categoryMatchCount | 500/100 |
-| stars | 6/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 9/100 |
+| production | 62/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

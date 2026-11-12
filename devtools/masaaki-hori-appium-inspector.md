@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation
+DevTools · Mobile
 
 ## 📝 Summary
 
 ### English
 
-masaaki-hori/appium-inspector: masaaki-hori/appium-inspector helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+masaaki-hori/appium-inspector: masaaki-hori/appium-inspector helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-masaaki-hori/appium-inspector: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+masaaki-hori/appium-inspector: open-source проект в категориях DevTools, Mobile. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-masaaki-hori/appium-inspector：masaaki-hori/appium-inspector helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+masaaki-hori/appium-inspector：masaaki-hori/appium-inspector helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** masaaki-hori/appium-inspector helps remove repetitive manual operations from a workflow.
+**Value:** masaaki-hori/appium-inspector helps engineers save time in daily development and review loops.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -63,19 +63,19 @@ masaaki-hori/appium-inspector：masaaki-hori/appium-inspector helps remove repet
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 52/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 88/100 |
+| outlook | 52/100 |
+| quality | 44/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 53/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/masaaki-hori/appium-inspector) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/masaaki-hori/appium-inspector) · [← Back to DevTools](./README.md)</sub>
