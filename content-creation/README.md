@@ -151,8 +151,8 @@
 | 141 | [ShadowKingYT444/unglazed](./shadowkingyt444-unglazed.md) | ⭐ — | — | 45/100 |
 | 142 | [lettercamp/lettercamp](./lettercamp-lettercamp.md) | ⭐ — | — | 45/100 |
 | 143 | [MaxonT/aisync](./maxont-aisync.md) | ⭐ 38 | — | 45/100 |
-| 144 | [GoogleChrome/modern-web-guidance](./googlechrome-modern-web-guidance.md) | ⭐ 4.7k | — | 45/100 |
-| 145 | [bquenin/qitt](./bquenin-qitt.md) | ⭐ 1 | — | 45/100 |
+| 144 | [GoogleChrome/modern-web-guidance](./googlechrome-modern-web-guidance.md) | ⭐ 6.8k | — | 45/100 |
+| 145 | [bquenin/qitt](./bquenin-qitt.md) | ⭐ 2 | — | 45/100 |
 | 146 | [Comfy-Org/Wan-2.2](./comfy-org-wan-2.2.md) | ⭐ 963 | diffusion-single-file | 45/100 |
 | 147 | [DeveloperPuneet/Crowdwide](./developerpuneet-crowdwide.md) | ⭐ 7 | JavaScript | 45/100 |
 | 148 | [Comfy-Org/Wan_2.2_ComfyUI_Repackaged](./comfy-org-wan-2.2-comfyui-repackaged.md) | ⭐ 842 | diffusion-single-file | 45/100 |
@@ -182,8 +182,8 @@
 | 172 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 173 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 174 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 175 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 176 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 175 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 176 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
 | 177 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 178 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 
