@@ -125,7 +125,7 @@
 | 115 | [freeCodeCamp/freeCodeCamp](./freecodecamp-freecodecamp.md) | ⭐ 459k | TypeScript | 69/100 |
 | 116 | [ArtalkJS/Artalk](./artalkjs-artalk.md) | ⭐ 2.4k | Go | 69/100 |
 | 117 | [classroomio/classroomio](./classroomio-classroomio.md) | ⭐ 1.7k | TypeScript | 69/100 |
-| 118 | [meshtastic/web](./meshtastic-web.md) | ⭐ 876 | TypeScript | 69/100 |
+| 118 | [meshtastic/web](./meshtastic-web.md) | ⭐ 877 | TypeScript | 69/100 |
 | 119 | [software-mansion/react-native-gesture-handler](./software-mansion-react-native-gesture-handler.md) | ⭐ 6.8k | TypeScript | 69/100 |
 | 120 | [lscambo13/ElegantFin](./lscambo13-elegantfin.md) | ⭐ 2.3k | CSS | 69/100 |
 | 121 | [kafbat/kafka-ui](./kafbat-kafka-ui.md) | ⭐ 2.8k | TypeScript | 69/100 |
@@ -277,7 +277,7 @@
 | 267 | [mozilla/bedrock](./mozilla-bedrock.md) | ⭐ 1.3k | HTML | 64/100 |
 | 268 | [XiaoYouChR/Ghost-Downloader-3](./xiaoyouchr-ghost-downloader-3.md) | ⭐ 11.1k | Python | 64/100 |
 | 269 | [sethcottle/littlelink](./sethcottle-littlelink.md) | ⭐ 3.1k | HTML | 64/100 |
-| 270 | [software-mansion/react-native-audio-api](./software-mansion-react-native-audio-api.md) | ⭐ 858 | C++ | 64/100 |
+| 270 | [software-mansion/react-native-audio-api](./software-mansion-react-native-audio-api.md) | ⭐ 859 | C++ | 64/100 |
 | 271 | [RedMadRobot/figma-export](./redmadrobot-figma-export.md) | ⭐ 824 | Swift | 64/100 |
 | 272 | [arminbro/generate-react-cli](./arminbro-generate-react-cli.md) | ⭐ 409 | JavaScript | 64/100 |
 | 273 | [pythonnative/pythonnative](./pythonnative-pythonnative.md) | ⭐ 135 | Python | 64/100 |
@@ -326,7 +326,7 @@
 | 316 | [opentiny/tiny-vue](./opentiny-tiny-vue.md) | ⭐ 2.3k | Less | 63/100 |
 | 317 | [Wisser/Jailer](./wisser-jailer.md) | ⭐ 3.2k | Java | 63/100 |
 | 318 | [epicweb-dev/advanced-react-patterns](./epicweb-dev-advanced-react-patterns.md) | ⭐ 3.5k | TypeScript | 63/100 |
-| 319 | [vobyjs/voby](./vobyjs-voby.md) | ⭐ 910 | TypeScript | 63/100 |
+| 319 | [vobyjs/voby](./vobyjs-voby.md) | ⭐ 909 | TypeScript | 63/100 |
 | 320 | [tabler/tabler-icons](./tabler-tabler-icons.md) | ⭐ 22.6k | JavaScript | 63/100 |
 | 321 | [lingui/js-lingui](./lingui-js-lingui.md) | ⭐ 5.9k | TypeScript | 63/100 |
 | 322 | [Foblex/f-flow](./foblex-f-flow.md) | ⭐ 541 | TypeScript | 63/100 |
@@ -368,7 +368,7 @@
 | 358 | [rlemaigre/Easy-DnD](./rlemaigre-easy-dnd.md) | ⭐ 399 | TypeScript | 62/100 |
 | 359 | [tx7do/go-wind-admin](./tx7do-go-wind-admin.md) | ⭐ 586 | TypeScript | 62/100 |
 | 360 | [heroui-inc/heroui-native](./heroui-inc-heroui-native.md) | ⭐ 3.7k | TypeScript | 62/100 |
-| 361 | [igordanchenko/react-photo-album](./igordanchenko-react-photo-album.md) | ⭐ 789 | TypeScript | 62/100 |
+| 361 | [igordanchenko/react-photo-album](./igordanchenko-react-photo-album.md) | ⭐ 790 | TypeScript | 62/100 |
 | 362 | [lobehub/lobe-ui](./lobehub-lobe-ui.md) | ⭐ 2.3k | TypeScript | 62/100 |
 | 363 | [thisuxhq/sveltednd](./thisuxhq-sveltednd.md) | ⭐ 614 | TypeScript | 62/100 |
 | 364 | [astoilkov/use-local-storage-state](./astoilkov-use-local-storage-state.md) | ⭐ 1.2k | TypeScript | 62/100 |
@@ -439,7 +439,7 @@
 | 429 | [primer/react](./primer-react.md) | ⭐ 3.9k | TypeScript | 61/100 |
 | 430 | [software-mansion/argent](./software-mansion-argent.md) | ⭐ 3.2k | TypeScript | 61/100 |
 | 431 | [bridge-core/editor](./bridge-core-editor.md) | ⭐ 198 | TypeScript | 61/100 |
-| 432 | [buildbuddy-io/buildbuddy](./buildbuddy-io-buildbuddy.md) | ⭐ 805 | Go | 61/100 |
+| 432 | [buildbuddy-io/buildbuddy](./buildbuddy-io-buildbuddy.md) | ⭐ 804 | Go | 61/100 |
 | 433 | [zauberzeug/nicegui](./zauberzeug-nicegui.md) | ⭐ 16.3k | Python | 61/100 |
 | 434 | [unfoldadmin/django-unfold](./unfoldadmin-django-unfold.md) | ⭐ 3.8k | Python | 61/100 |
 | 435 | [flipt-io/flipt](./flipt-io-flipt.md) | ⭐ 4.9k | Go | 61/100 |
@@ -491,7 +491,7 @@
 | 481 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 366 | Go | 60/100 |
 | 482 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
 | 483 | [VKCOM/VKUI](./vkcom-vkui.md) | ⭐ 1.2k | TypeScript | 60/100 |
-| 484 | [ubugeeei-prod/vize](./ubugeeei-prod-vize.md) | ⭐ 927 | Rust | 60/100 |
+| 484 | [ubugeeei-prod/vize](./ubugeeei-prod-vize.md) | ⭐ 929 | Rust | 60/100 |
 | 485 | [stylelint/stylelint](./stylelint-stylelint.md) | ⭐ 11.5k | JavaScript | 60/100 |
 | 486 | [software-mansion/react-native-screens](./software-mansion-react-native-screens.md) | ⭐ 3.8k | TypeScript | 60/100 |
 | 487 | [Mustard2/MustardUI](./mustard2-mustardui.md) | ⭐ 470 | Python | 60/100 |
@@ -662,7 +662,7 @@
 | 652 | [redpanda-data/console](./redpanda-data-console.md) | ⭐ 4.4k | TypeScript | 57/100 |
 | 653 | [poooi/poi](./poooi-poi.md) | ⭐ 1.8k | TypeScript | 57/100 |
 | 654 | [Arthur031221/rn-artifact-check](./arthur031221-rn-artifact-check.md) | ⭐ — | JavaScript | 56/100 |
-| 655 | [nicejade/wealth-tracker](./nicejade-wealth-tracker.md) | ⭐ 914 | Svelte | 56/100 |
+| 655 | [nicejade/wealth-tracker](./nicejade-wealth-tracker.md) | ⭐ 915 | Svelte | 56/100 |
 | 656 | [justintaddei/v-wave](./justintaddei-v-wave.md) | ⭐ 413 | TypeScript | 56/100 |
 | 657 | [avishayil/react-native-restart](./avishayil-react-native-restart.md) | ⭐ 987 | JavaScript | 56/100 |
 | 658 | [margelo/react-native-nitro-fetch](./margelo-react-native-nitro-fetch.md) | ⭐ 1k | C++ | 56/100 |
@@ -720,7 +720,7 @@
 | 710 | [DAGINATSUKO/www-rpcs3](./daginatsuko-www-rpcs3.md) | ⭐ 371 | PHP | 55/100 |
 | 711 | [GSTJ/react-native-magic-modal](./gstj-react-native-magic-modal.md) | ⭐ 619 | TypeScript | 55/100 |
 | 712 | [Synphonyte/leptos-use](./synphonyte-leptos-use.md) | ⭐ 499 | Rust | 55/100 |
-| 713 | [kirillzyusko/react-native-teleport](./kirillzyusko-react-native-teleport.md) | ⭐ 829 | TypeScript | 55/100 |
+| 713 | [kirillzyusko/react-native-teleport](./kirillzyusko-react-native-teleport.md) | ⭐ 830 | TypeScript | 55/100 |
 | 714 | [xlch88/YouTubeTweak](./xlch88-youtubetweak.md) | ⭐ 420 | TypeScript | 55/100 |
 | 715 | [Hamza417/Peristyle](./hamza417-peristyle.md) | ⭐ 737 | Kotlin | 55/100 |
 | 716 | [sibiraj-s/svelte-tiptap](./sibiraj-s-svelte-tiptap.md) | ⭐ 338 | TypeScript | 55/100 |
@@ -755,8 +755,8 @@
 | 745 | [sanusart/react-dropdown-select](./sanusart-react-dropdown-select.md) | ⭐ 365 | JavaScript | 54/100 |
 | 746 | [blackfyre/wga](./blackfyre-wga.md) | ⭐ 193 | Go | 54/100 |
 | 747 | [IT-BAER/proxmorph](./it-baer-proxmorph.md) | ⭐ 637 | CSS | 54/100 |
-| 748 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
-| 749 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 885 | Rust | 54/100 |
+| 748 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 885 | Rust | 54/100 |
+| 749 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
 | 750 | [coi/coi](./coi-coi.md) | ⭐ 568 | C++ | 54/100 |
 | 751 | [lvzhenbo/115-plus-desktop](./lvzhenbo-115-plus-desktop.md) | ⭐ 384 | Rust | 54/100 |
 | 752 | [rust-ui/ui](./rust-ui-ui.md) | ⭐ 809 | Rust | 54/100 |

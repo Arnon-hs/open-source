@@ -1,6 +1,6 @@
 # dockndevai/laya-guard
 
-[![Stars](https://img.shields.io/github/stars/dockndevai/laya-guard?style=flat-square&color=yellow)](https://github.com/dockndevai/laya-guard/stargazers) [![Forks](https://img.shields.io/github/forks/dockndevai/laya-guard?style=flat-square&color=blue)](https://github.com/dockndevai/laya-guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dockndevai/laya-guard?style=flat-square&color=yellow)](https://github.com/dockndevai/laya-guard/stargazers) [![Forks](https://img.shields.io/github/forks/dockndevai/laya-guard?style=flat-square&color=blue)](https://github.com/dockndevai/laya-guard/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ dockndevai/laya-guard：dockndevai/laya-guard helps catch security and privacy i
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 50/100 |
-| production | 64/100 |
-| outlook | 64/100 |
+| production | 57/100 |
+| outlook | 57/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

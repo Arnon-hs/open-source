@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 810 |
+| ⭐ **Stars** | 811 |
 | 🍴 **Forks** | 77 |
 | 💻 **Language** | Vim Snippet |
 | 📈 **Score** | 51/100 |

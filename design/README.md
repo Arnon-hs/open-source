@@ -24,7 +24,7 @@
 | 14 | [nextcloud/server](./nextcloud-server.md) | ⭐ 37.5k | PHP | 65/100 |
 | 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 596 | Python | 64/100 |
 | 16 | [eclipse-ee4j/cargotracker](./eclipse-ee4j-cargotracker.md) | ⭐ 395 | JavaScript | 64/100 |
-| 17 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 908 | C# | 64/100 |
+| 17 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 909 | C# | 64/100 |
 | 18 | [kando-menu/kando](./kando-menu-kando.md) | ⭐ 6.6k | TypeScript | 63/100 |
 | 19 | [xiangechen/chili3d](./xiangechen-chili3d.md) | ⭐ 5k | TypeScript | 63/100 |
 | 20 | [monkeytypegame/monkeytype](./monkeytypegame-monkeytype.md) | ⭐ 21k | TypeScript | 63/100 |
@@ -41,7 +41,7 @@
 | 31 | [chipsalliance/chisel](./chipsalliance-chisel.md) | ⭐ 4.8k | Scala | 60/100 |
 | 32 | [eliheuer/img2bez](./eliheuer-img2bez.md) | ⭐ 164 | Rust | 60/100 |
 | 33 | [HMBSbige/BilibiliLiveRecordDownLoader](./hmbsbige-bilibililiverecorddownloader.md) | ⭐ 834 | C# | 60/100 |
-| 34 | [streetmix/streetmix](./streetmix-streetmix.md) | ⭐ 755 | TypeScript | 59/100 |
+| 34 | [streetmix/streetmix](./streetmix-streetmix.md) | ⭐ 756 | TypeScript | 59/100 |
 | 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 108.3k | JavaScript | 59/100 |
 | 36 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 7.1k | PHP | 59/100 |
 | 37 | [QwenLM/Qwen3-TTS](./qwenlm-qwen3-tts.md) | ⭐ 14.4k | Python | 58/100 |
@@ -84,7 +84,7 @@
 | 74 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 349 | Python | 54/100 |
 | 75 | [coinbase/cds](./coinbase-cds.md) | ⭐ 510 | TypeScript | 54/100 |
 | 76 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 164 | TypeScript | 54/100 |
-| 77 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 984 | TypeScript | 54/100 |
+| 77 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 986 | TypeScript | 54/100 |
 | 78 | [SAP/macOS-icon-generator](./sap-macos-icon-generator.md) | ⭐ 647 | C | 53/100 |
 | 79 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 404 | HTML | 53/100 |
 | 80 | [carbon-design-system/gatsby-theme-carbon](./carbon-design-system-gatsby-theme-carbon.md) | ⭐ 358 | MDX | 53/100 |

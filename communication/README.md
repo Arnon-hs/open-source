@@ -57,7 +57,7 @@
 | 47 | [go-pkgz/auth](./go-pkgz-auth.md) | ⭐ 1.4k | Go | 68/100 |
 | 48 | [slack-go/slack](./slack-go-slack.md) | ⭐ 5k | Go | 68/100 |
 | 49 | [miroslavpejic85/mirotalk](./miroslavpejic85-mirotalk.md) | ⭐ 4.8k | JavaScript | 68/100 |
-| 50 | [zulip/zulip-terminal](./zulip-zulip-terminal.md) | ⭐ 880 | Python | 68/100 |
+| 50 | [zulip/zulip-terminal](./zulip-zulip-terminal.md) | ⭐ 881 | Python | 68/100 |
 | 51 | [aliasvault/aliasvault](./aliasvault-aliasvault.md) | ⭐ 3.5k | TypeScript | 68/100 |
 | 52 | [berty/berty](./berty-berty.md) | ⭐ 9.3k | TypeScript | 68/100 |
 | 53 | [eclipse-zenoh/zenoh-c](./eclipse-zenoh-zenoh-c.md) | ⭐ 141 | Rust | 68/100 |
@@ -87,7 +87,7 @@
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
 | 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 780 | TypeScript | 65/100 |
+| 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
 | 83 | [stoatchat/self-hosted](./stoatchat-self-hosted.md) | ⭐ 2.7k | JavaScript | 65/100 |
@@ -95,7 +95,7 @@
 | 85 | [docker-mailserver/docker-mailserver](./docker-mailserver-docker-mailserver.md) | ⭐ 19.7k | Shell | 64/100 |
 | 86 | [baptisteArno/typebot.io](./baptistearno-typebot.io.md) | ⭐ 10.6k | TypeScript | 64/100 |
 | 87 | [cherry-game/cherry](./cherry-game-cherry.md) | ⭐ 827 | Go | 64/100 |
-| 88 | [hyvor/relay](./hyvor-relay.md) | ⭐ 922 | PHP | 64/100 |
+| 88 | [hyvor/relay](./hyvor-relay.md) | ⭐ 923 | PHP | 64/100 |
 | 89 | [mozilla/fx-private-relay](./mozilla-fx-private-relay.md) | ⭐ 1.8k | Python | 64/100 |
 | 90 | [tommyxchow/frosty](./tommyxchow-frosty.md) | ⭐ 1.1k | Dart | 64/100 |
 | 91 | [mailgun/mailgun-go](./mailgun-mailgun-go.md) | ⭐ 743 | Go | 64/100 |
@@ -111,7 +111,7 @@
 | 101 | [deriv-security/MeetC2](./deriv-security-meetc2.md) | ⭐ 145 | Go | 63/100 |
 | 102 | [Obiente/nc-native](./obiente-nc-native.md) | ⭐ 225 | Kotlin | 63/100 |
 | 103 | [maathimself/mailflow](./maathimself-mailflow.md) | ⭐ 674 | JavaScript | 63/100 |
-| 104 | [meli/meli](./meli-meli.md) | ⭐ 898 | Rust | 63/100 |
+| 104 | [meli/meli](./meli-meli.md) | ⭐ 899 | Rust | 63/100 |
 | 105 | [krishn404/Git-Friend](./krishn404-git-friend.md) | ⭐ 599 | TypeScript | 63/100 |
 | 106 | [disposable-email-domains/disposable-email-domains](./disposable-email-domains-disposable-email-domains.md) | ⭐ 5.7k | Python | 63/100 |
 | 107 | [shuakami/qq-chat-exporter](./shuakami-qq-chat-exporter.md) | ⭐ 6.1k | TypeScript | 63/100 |
@@ -237,7 +237,7 @@
 | 227 | [tweedegolf/mailcrab](./tweedegolf-mailcrab.md) | ⭐ 1k | Rust | 54/100 |
 | 228 | [nextcloud/tasks](./nextcloud-tasks.md) | ⭐ 709 | JavaScript | 54/100 |
 | 229 | [openmls/openmls](./openmls-openmls.md) | ⭐ 1.1k | Rust | 54/100 |
-| 230 | [ruma/ruma](./ruma-ruma.md) | ⭐ 746 | Rust | 54/100 |
+| 230 | [ruma/ruma](./ruma-ruma.md) | ⭐ 749 | Rust | 54/100 |
 | 231 | [khaled-alshamaa/ar-php](./khaled-alshamaa-ar-php.md) | ⭐ 343 | PHP | 54/100 |
 | 232 | [lennart-k/rustical](./lennart-k-rustical.md) | ⭐ 574 | Rust | 54/100 |
 | 233 | [containrrr/shoutrrr](./containrrr-shoutrrr.md) | ⭐ 1.7k | Go | 54/100 |

@@ -383,7 +383,7 @@
 | 373 | [The-AppLab/ultimate-fastapi-langchain-boilerplate](./the-applab-ultimate-fastapi-langchain-boilerplate.md) | ⭐ 1 | Python | 58/100 |
 | 374 | [typed-ember/glint](./typed-ember-glint.md) | ⭐ 118 | TypeScript | 58/100 |
 | 375 | [gacabartosz/linkedin-mcp-server](./gacabartosz-linkedin-mcp-server.md) | ⭐ 5 | JavaScript | 58/100 |
-| 376 | [Tam-Taro/SEL-Filtering-and-Sorting](./tam-taro-sel-filtering-and-sorting.md) | ⭐ 889 | — | 58/100 |
+| 376 | [Tam-Taro/SEL-Filtering-and-Sorting](./tam-taro-sel-filtering-and-sorting.md) | ⭐ 890 | — | 58/100 |
 | 377 | [cfndsl/cfndsl](./cfndsl-cfndsl.md) | ⭐ 424 | Ruby | 58/100 |
 | 378 | [jdrouet/catapulte](./jdrouet-catapulte.md) | ⭐ 152 | Rust | 58/100 |
 | 379 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 157 | Rust | 58/100 |
@@ -417,7 +417,7 @@
 | 407 | [gacabartosz/linkedin-mcp-server](./gacabartosz-linkedin-mcp-server.md) | ⭐ 6 | JavaScript | 55/100 |
 | 408 | [Shopify/shopify-app-template-php](./shopify-shopify-app-template-php.md) | ⭐ 340 | PHP | 55/100 |
 | 409 | [gofiber/boilerplate](./gofiber-boilerplate.md) | ⭐ 502 | Go | 55/100 |
-| 410 | [pytorch/helion](./pytorch-helion.md) | ⭐ 980 | Python | 55/100 |
+| 410 | [pytorch/helion](./pytorch-helion.md) | ⭐ 981 | Python | 55/100 |
 | 411 | [marcantondahmen/automad](./marcantondahmen-automad.md) | ⭐ 962 | TypeScript | 55/100 |
 | 412 | [Azure/bicep](./azure-bicep.md) | ⭐ 3.7k | Bicep | 55/100 |
 | 413 | [xvdvlinux-coder/Oriented-Direct](./xvdvlinux-coder-oriented-direct.md) | ⭐ 4 | JavaScript | 54/100 |
@@ -425,7 +425,7 @@
 | 415 | [theovilardo/PixelPlayer](./theovilardo-pixelplayer.md) | ⭐ 4.3k | Kotlin | 54/100 |
 | 416 | [ustctug/ustcthesis](./ustctug-ustcthesis.md) | ⭐ 2.1k | TeX | 54/100 |
 | 417 | [mantinedev/next-pages-template](./mantinedev-next-pages-template.md) | ⭐ 511 | TypeScript | 54/100 |
-| 418 | [sjtug/SJTUBeamer](./sjtug-sjtubeamer.md) | ⭐ 835 | TeX | 54/100 |
+| 418 | [sjtug/SJTUBeamer](./sjtug-sjtubeamer.md) | ⭐ 836 | TeX | 54/100 |
 | 419 | [hiroppy/web-app-template](./hiroppy-web-app-template.md) | ⭐ 172 | TypeScript | 54/100 |
 | 420 | [RobinaMirbahar/antigravity-science-plugin-cookbook](./robinamirbahar-antigravity-science-plugin-cookbook.md) | ⭐ — | HTML | 53/100 |
 | 421 | [olicesx/kixparadigm](./olicesx-kixparadigm.md) | ⭐ 30 | JavaScript | 53/100 |

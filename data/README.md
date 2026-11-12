@@ -76,7 +76,7 @@
 | 66 | [IAmTomShaw/f1-race-replay](./iamtomshaw-f1-race-replay.md) | ⭐ 7k | Python | 65/100 |
 | 67 | [sirixdb/sirix](./sirixdb-sirix.md) | ⭐ 1.2k | Java | 65/100 |
 | 68 | [NVIDIA/cudf-spark](./nvidia-cudf-spark.md) | ⭐ 1k | Scala | 65/100 |
-| 69 | [apache/streampipes](./apache-streampipes.md) | ⭐ 760 | Java | 65/100 |
+| 69 | [apache/streampipes](./apache-streampipes.md) | ⭐ 761 | Java | 65/100 |
 | 70 | [moj-analytical-services/splink](./moj-analytical-services-splink.md) | ⭐ 2.6k | Python | 65/100 |
 | 71 | [timelinize/timelinize](./timelinize-timelinize.md) | ⭐ 3.7k | Go | 65/100 |
 | 72 | [pymc-labs/pymc-marketing](./pymc-labs-pymc-marketing.md) | ⭐ 1.3k | Python | 65/100 |
@@ -144,7 +144,7 @@
 | 134 | [fluent/fluentd](./fluent-fluentd.md) | ⭐ 13.6k | Ruby | 60/100 |
 | 135 | [osalvador/ReplicaDB](./osalvador-replicadb.md) | ⭐ 505 | Java | 60/100 |
 | 136 | [NVIDIA/NVFlare](./nvidia-nvflare.md) | ⭐ 1k | Python | 60/100 |
-| 137 | [firefly-iii/data-importer](./firefly-iii-data-importer.md) | ⭐ 858 | PHP | 60/100 |
+| 137 | [firefly-iii/data-importer](./firefly-iii-data-importer.md) | ⭐ 857 | PHP | 60/100 |
 | 138 | [Axect/Peroxide](./axect-peroxide.md) | ⭐ 734 | Rust | 60/100 |
 | 139 | [alibaba/fastjson2](./alibaba-fastjson2.md) | ⭐ 4.4k | Java | 60/100 |
 | 140 | [AtomGraph/LinkedDataHub](./atomgraph-linkeddatahub.md) | ⭐ 638 | XSLT | 60/100 |
@@ -181,7 +181,7 @@
 | 171 | [CS-SI/eodag](./cs-si-eodag.md) | ⭐ 441 | Python | 58/100 |
 | 172 | [hms-dbmi/viv](./hms-dbmi-viv.md) | ⭐ 374 | JavaScript | 58/100 |
 | 173 | [microprediction/microprediction](./microprediction-microprediction.md) | ⭐ 377 | Jupyter Notebook | 58/100 |
-| 174 | [d3blocks/d3blocks](./d3blocks-d3blocks.md) | ⭐ 777 | Jupyter Notebook | 58/100 |
+| 174 | [d3blocks/d3blocks](./d3blocks-d3blocks.md) | ⭐ 779 | Jupyter Notebook | 58/100 |
 | 175 | [avaneev/lzav](./avaneev-lzav.md) | ⭐ 564 | C++ | 58/100 |
 | 176 | [datavane/tis](./datavane-tis.md) | ⭐ 1.4k | Java | 58/100 |
 | 177 | [powturbo/TurboBench](./powturbo-turbobench.md) | ⭐ 377 | C | 58/100 |
@@ -251,7 +251,7 @@
 | 241 | [yegor256/micromap](./yegor256-micromap.md) | ⭐ 222 | Rust | 55/100 |
 | 242 | [delta-io/delta-sharing](./delta-io-delta-sharing.md) | ⭐ 961 | Scala | 55/100 |
 | 243 | [Shopify/maintenance_tasks](./shopify-maintenance-tasks.md) | ⭐ 1.3k | Ruby | 55/100 |
-| 244 | [stepchowfun/typical](./stepchowfun-typical.md) | ⭐ 767 | Rust | 55/100 |
+| 244 | [stepchowfun/typical](./stepchowfun-typical.md) | ⭐ 768 | Rust | 55/100 |
 | 245 | [cBioPortal/cbioportal](./cbioportal-cbioportal.md) | ⭐ 1.1k | Java | 55/100 |
 | 246 | [flekschas/jupyter-scatter](./flekschas-jupyter-scatter.md) | ⭐ 474 | Python | 55/100 |
 | 247 | [vlang/vsl](./vlang-vsl.md) | ⭐ 406 | V | 55/100 |

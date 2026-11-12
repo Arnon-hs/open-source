@@ -11,7 +11,7 @@
 | 1 | [harry0703/MoneyPrinterTurbo](./harry0703-moneyprinterturbo.md) | ⭐ 142.6k | Python | 85/100 |
 | 2 | [NaufalRizqullah/opensource-clipping](./naufalrizqullah-opensource-clipping.md) | ⭐ 235 | Python | 84/100 |
 | 3 | [jipraks/yt-short-clipper](./jipraks-yt-short-clipper.md) | ⭐ 1.1k | TypeScript | 84/100 |
-| 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 913 | TypeScript | 83/100 |
+| 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 914 | TypeScript | 83/100 |
 | 5 | [el-frontend/video-wizard](./el-frontend-video-wizard.md) | ⭐ 18 | TypeScript | 82/100 |
 | 6 | [adityaarsharma/youtube-marketing-skills](./adityaarsharma-youtube-marketing-skills.md) | ⭐ 82 | JavaScript | 82/100 |
 | 7 | [yi1108/printfilm](./yi1108-printfilm.md) | ⭐ 7.4k | Python | 82/100 |
@@ -51,7 +51,7 @@
 | 41 | [justynberk/reel-kit](./justynberk-reel-kit.md) | ⭐ 11 | Python | 72/100 |
 | 42 | [DaBaoAgent/DaobaoAI-DY](./dabaoagent-daobaoai-dy.md) | ⭐ 11 | Python | 72/100 |
 | 43 | [Agions/story-fab](./agions-story-fab.md) | ⭐ 134 | TypeScript | 72/100 |
-| 44 | [Vibha-Ramprakash/claude-video-effects](./vibha-ramprakash-claude-video-effects.md) | ⭐ 853 | Python | 71/100 |
+| 44 | [Vibha-Ramprakash/claude-video-effects](./vibha-ramprakash-claude-video-effects.md) | ⭐ 875 | Python | 71/100 |
 | 45 | [JuneYaooo/rea-video](./juneyaooo-rea-video.md) | ⭐ 6.8k | Python | 71/100 |
 | 46 | [andriidrok1/autobroll](./andriidrok1-autobroll.md) | ⭐ 25 | TypeScript | 71/100 |
 | 47 | [KaanGoker/GetSubtitlesApp](./kaangoker-getsubtitlesapp.md) | ⭐ 11 | Python | 71/100 |
@@ -99,7 +99,7 @@
 | 89 | [toki-plus/ai-video-workflow](./toki-plus-ai-video-workflow.md) | ⭐ 112 | Python | 64/100 |
 | 90 | [LordOmegabit6093/short-video-resp-maker](./lordomegabit6093-short-video-resp-maker.md) | ⭐ 53 | — | 63/100 |
 | 91 | [helloworld8661/Viddeos-ai-system-review](./helloworld8661-viddeos-ai-system-review.md) | ⭐ 22 | — | 63/100 |
-| 92 | [HeyChengC/vibe-knowledge-film](./heychengc-vibe-knowledge-film.md) | ⭐ 1.2k | JavaScript | 63/100 |
+| 92 | [HeyChengC/vibe-knowledge-film](./heychengc-vibe-knowledge-film.md) | ⭐ 1.3k | JavaScript | 63/100 |
 | 93 | [1076184145/video-automation](./1076184145-video-automation.md) | ⭐ 20 | Python | 63/100 |
 | 94 | [tommylin07-web/podclip-matrix](./tommylin07-web-podclip-matrix.md) | ⭐ 16 | JavaScript | 63/100 |
 | 95 | [toki-plus/ai-mixed-cut](./toki-plus-ai-mixed-cut.md) | ⭐ 94 | — | 63/100 |
@@ -168,8 +168,8 @@
 | 158 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 2.4k | JavaScript | 50/100 |
 | 159 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ 1 | — | 48/100 |
 | 160 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 44 | — | 47/100 |
-| 161 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
-| 162 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
+| 161 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
+| 162 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
 | 163 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 38 | JavaScript | 47/100 |
 | 164 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
 | 165 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |

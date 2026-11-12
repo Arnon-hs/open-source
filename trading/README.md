@@ -52,7 +52,7 @@
 | 42 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 45 | Swift | 69/100 |
 | 43 | [livetennisapi/polymarket-tennis](./livetennisapi-polymarket-tennis.md) | ⭐ 257 | Python | 68/100 |
 | 44 | [OctagonAI/kalshi-trading-bot-cli](./octagonai-kalshi-trading-bot-cli.md) | ⭐ 416 | TypeScript | 68/100 |
-| 45 | [tylerebowers/Schwabdev](./tylerebowers-schwabdev.md) | ⭐ 896 | Python | 68/100 |
+| 45 | [tylerebowers/Schwabdev](./tylerebowers-schwabdev.md) | ⭐ 899 | Python | 68/100 |
 | 46 | [SimplifyJobs/Summer2027-Internships](./simplifyjobs-summer2027-internships.md) | ⭐ 48.4k | Python | 68/100 |
 | 47 | [tcgdex/cards-database](./tcgdex-cards-database.md) | ⭐ 1.2k | TypeScript | 68/100 |
 | 48 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 1.6k | Shell | 68/100 |
@@ -86,8 +86,8 @@
 | 76 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 231 | Rust | 64/100 |
 | 77 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 78 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 666 | Jupyter Notebook | 63/100 |
-| 80 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
+| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 331 | Go | 63/100 |
+| 80 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 666 | Jupyter Notebook | 63/100 |
 | 81 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 82 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 83 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |
@@ -121,7 +121,7 @@
 | 111 | [Bhala-Srinivash/nse-trading-skills](./bhala-srinivash-nse-trading-skills.md) | ⭐ 61 | — | 60/100 |
 | 112 | [FinHackCN/finhack](./finhackcn-finhack.md) | ⭐ 1.3k | Python | 59/100 |
 | 113 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 239 | Rust | 59/100 |
-| 114 | [nordic-institute/X-Road](./nordic-institute-x-road.md) | ⭐ 874 | Java | 59/100 |
+| 114 | [nordic-institute/X-Road](./nordic-institute-x-road.md) | ⭐ 876 | Java | 59/100 |
 | 115 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 784 | Jupyter Notebook | 59/100 |
 | 116 | [kungfu-systems/kungfu](./kungfu-systems-kungfu.md) | ⭐ 4.5k | C++ | 59/100 |
 | 117 | [sartoopjj/thefeed](./sartoopjj-thefeed.md) | ⭐ 1.7k | Go | 59/100 |
@@ -168,15 +168,15 @@
 | 158 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 159 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
 | 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 231 | Go | 52/100 |
-| 161 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
-| 162 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 161 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 162 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
 | 163 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 164 | [uselayer/uselayer-sdk](./uselayer-uselayer-sdk.md) | ⭐ 3 | — | 51/100 |
 | 165 | [weirdapps/etorotrade](./weirdapps-etorotrade.md) | ⭐ 39 | Python | 51/100 |
 | 166 | [alphabench/raptorbt](./alphabench-raptorbt.md) | ⭐ 58 | Rust | 51/100 |
 | 167 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 651 | Python | 51/100 |
 | 168 | [tradingeconomics/tradingeconomics](./tradingeconomics-tradingeconomics.md) | ⭐ 986 | JavaScript | 51/100 |
-| 169 | [nftechie/stonkfly](./nftechie-stonkfly.md) | ⭐ 901 | Python | 50/100 |
+| 169 | [nftechie/stonkfly](./nftechie-stonkfly.md) | ⭐ 902 | Python | 50/100 |
 | 170 | [humzakt/psx-investor](./humzakt-psx-investor.md) | ⭐ — | Python | 50/100 |
 | 171 | [sstklen/trump-code](./sstklen-trump-code.md) | ⭐ 812 | Python | 50/100 |
 | 172 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 401 | Rust | 50/100 |

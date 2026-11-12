@@ -158,7 +158,7 @@
 | 148 | [awslabs/dynein](./awslabs-dynein.md) | ⭐ 400 | Rust | 66/100 |
 | 149 | [Afilmory/afilmory](./afilmory-afilmory.md) | ⭐ 2.7k | TypeScript | 66/100 |
 | 150 | [Zarestia-Dev/rclone-manager](./zarestia-dev-rclone-manager.md) | ⭐ 1.2k | TypeScript | 66/100 |
-| 151 | [developmentseed/obstore](./developmentseed-obstore.md) | ⭐ 834 | Python | 66/100 |
+| 151 | [developmentseed/obstore](./developmentseed-obstore.md) | ⭐ 836 | Python | 66/100 |
 | 152 | [kayac/ecspresso](./kayac-ecspresso.md) | ⭐ 1.1k | Go | 66/100 |
 | 153 | [caoyingjunz/pixiu](./caoyingjunz-pixiu.md) | ⭐ 1.4k | Go | 66/100 |
 | 154 | [microg/GmsCore](./microg-gmscore.md) | ⭐ 15.3k | Java | 66/100 |
@@ -191,7 +191,7 @@
 | 181 | [stormkit-io/stormkit-io](./stormkit-io-stormkit-io.md) | ⭐ 267 | Go | 64/100 |
 | 182 | [dynamodb-toolbox/dynamodb-toolbox](./dynamodb-toolbox-dynamodb-toolbox.md) | ⭐ 2k | TypeScript | 64/100 |
 | 183 | [dgkanatsios/CKAD-exercises](./dgkanatsios-ckad-exercises.md) | ⭐ 10.2k | — | 64/100 |
-| 184 | [devld/go-drive](./devld-go-drive.md) | ⭐ 805 | Go | 64/100 |
+| 184 | [devld/go-drive](./devld-go-drive.md) | ⭐ 806 | Go | 64/100 |
 | 185 | [rivet-dev/actors](./rivet-dev-actors.md) | ⭐ 6k | Rust | 64/100 |
 | 186 | [EdiWang/Moonglade](./ediwang-moonglade.md) | ⭐ 537 | C# | 64/100 |
 | 187 | [aws/aws-sdk-cpp](./aws-aws-sdk-cpp.md) | ⭐ 2.2k | C++ | 64/100 |
@@ -285,7 +285,7 @@
 | 275 | [zKillboard/zKillboard](./zkillboard-zkillboard.md) | ⭐ 316 | HTML | 61/100 |
 | 276 | [Barre/ZeroFS](./barre-zerofs.md) | ⭐ 3.2k | Rust | 61/100 |
 | 277 | [aws/secrets-store-csi-driver-provider-aws](./aws-secrets-store-csi-driver-provider-aws.md) | ⭐ 599 | Go | 61/100 |
-| 278 | [meshery/meshery.io](./meshery-meshery.io.md) | ⭐ 907 | JavaScript | 61/100 |
+| 278 | [meshery/meshery.io](./meshery-meshery.io.md) | ⭐ 908 | JavaScript | 61/100 |
 | 279 | [saltbo/zpan](./saltbo-zpan.md) | ⭐ 2.1k | TypeScript | 61/100 |
 | 280 | [Azure/azure-sdk-for-js](./azure-azure-sdk-for-js.md) | ⭐ 2.3k | TypeScript | 61/100 |
 | 281 | [arcjet/arcjet-js](./arcjet-arcjet-js.md) | ⭐ 699 | TypeScript | 61/100 |

@@ -2,8 +2,8 @@
 
 Find an open-source way to solve a task, compare practical fit, and give your coding agent a grounded starting point. Browse project cards here, search the [AtlasRepo website](https://atlasrepo.com), or use the same catalog through MCP and agent skills.
 
-- **Complete data:** 45,432 indexed projects in a downloadable JSON snapshot.
-- **Focused browsing:** 44,731 project cards across 33 categories with 10+ entries.
+- **Complete data:** 45,436 indexed projects in a downloadable JSON snapshot.
+- **Focused browsing:** 44,735 project cards across 33 categories with 10+ entries.
 - **Practical context:** multilingual summaries, use cases, integration notes, repository signals and score breakdowns.
 - **Open metadata:** MIT-licensed catalog data. Each linked project has its own license.
 
@@ -15,12 +15,12 @@ Start with a main category, then open a project card for its summary and evidenc
 
 | Category | Project cards |
 | --- | ---: |
-| [Misc](./misc/README.md) | 18,212 |
-| [AI/ML](./aiml/README.md) | 5,166 |
+| [Misc](./misc/README.md) | 18,213 |
+| [AI/ML](./aiml/README.md) | 5,168 |
 | [MCP](./mcp/README.md) | 3,010 |
 | [Orchestration](./orchestration/README.md) | 2,513 |
 | [Automation](./automation/README.md) | 1,684 |
-| [DevTools](./devtools/README.md) | 1,675 |
+| [DevTools](./devtools/README.md) | 1,676 |
 | [Backend](./backend/README.md) | 1,002 |
 | [Frontend](./frontend/README.md) | 939 |
 | [Crypto](./crypto/README.md) | 844 |

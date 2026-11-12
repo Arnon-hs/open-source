@@ -51,7 +51,7 @@
 | 41 | [metiutek/tube-assistant](./metiutek-tube-assistant.md) | ⭐ 39 | Python | 77/100 |
 | 42 | [Monet-AI-Editor/Monet](./monet-ai-editor-monet.md) | ⭐ 119 | TypeScript | 77/100 |
 | 43 | [heristop/leclap](./heristop-leclap.md) | ⭐ 35 | TypeScript | 77/100 |
-| 44 | [JMS1717/8mb.local](./jms1717-8mb.local.md) | ⭐ 937 | Python | 77/100 |
+| 44 | [JMS1717/8mb.local](./jms1717-8mb.local.md) | ⭐ 938 | Python | 77/100 |
 | 45 | [madiele/vod2pod-rss](./madiele-vod2pod-rss.md) | ⭐ 392 | Rust | 77/100 |
 | 46 | [Cerlancism/chatgpt-subtitle-translator](./cerlancism-chatgpt-subtitle-translator.md) | ⭐ 391 | JavaScript | 77/100 |
 | 47 | [ArchiveBox/abx-dl](./archivebox-abx-dl.md) | ⭐ 151 | Python | 77/100 |
@@ -126,7 +126,7 @@
 | 116 | [BadgeCorporal/Adobe-Tool-Premiere-Pro](./badgecorporal-adobe-tool-premiere-pro.md) | ⭐ 50 | — | 71/100 |
 | 117 | [siuserxiaowei/reference-driven-cinematic-video-skill](./siuserxiaowei-reference-driven-cinematic-video-skill.md) | ⭐ 69 | Python | 71/100 |
 | 118 | [MerlinStacks/socaliseit](./merlinstacks-socaliseit.md) | ⭐ 32 | TypeScript | 71/100 |
-| 119 | [jub0t/Concat](./jub0t-concat.md) | ⭐ 16.6k | TypeScript | 71/100 |
+| 119 | [jub0t/Concat](./jub0t-concat.md) | ⭐ 16.9k | TypeScript | 71/100 |
 | 120 | [cacity/VideoHub](./cacity-videohub.md) | ⭐ 186 | Python | 71/100 |
 | 121 | [zh-plus/openlrc](./zh-plus-openlrc.md) | ⭐ 686 | Python | 71/100 |
 | 122 | [OpenShot/openshot-qt](./openshot-openshot-qt.md) | ⭐ 6.8k | Python | 71/100 |
@@ -406,7 +406,7 @@
 | 396 | [WishCasterScrew/CapCut-Pro](./wishcasterscrew-capcut-pro.md) | ⭐ 74 | Python | 59/100 |
 | 397 | [CTCycle/XREPORT-radiological-reports-generator](./ctcycle-xreport-radiological-reports-generator.md) | ⭐ 6 | Python | 59/100 |
 | 398 | [AmitDigga/fabric-video-editor](./amitdigga-fabric-video-editor.md) | ⭐ 575 | TypeScript | 59/100 |
-| 399 | [OpenDCAI/OpenWorldLib](./opendcai-openworldlib.md) | ⭐ 890 | Python | 59/100 |
+| 399 | [OpenDCAI/OpenWorldLib](./opendcai-openworldlib.md) | ⭐ 889 | Python | 59/100 |
 | 400 | [Zane-0x5a/remotion-director](./zane-0x5a-remotion-director.md) | ⭐ 50 | TypeScript | 59/100 |
 | 401 | [Laxcorp-Research/project-raven](./laxcorp-research-project-raven.md) | ⭐ 434 | TypeScript | 59/100 |
 | 402 | [66HEX/frame](./66hex-frame.md) | ⭐ 2.3k | Rust | 59/100 |
@@ -551,7 +551,7 @@
 | 541 | [CheshireMew/visual-multimedia](./cheshiremew-visual-multimedia.md) | ⭐ 24 | JavaScript | 50/100 |
 | 542 | [gcanat/video_reader-rs](./gcanat-video-reader-rs.md) | ⭐ 127 | Rust | 50/100 |
 | 543 | [McCloudS/subgen](./mcclouds-subgen.md) | ⭐ 1.5k | Python | 50/100 |
-| 544 | [haasn/libplacebo](./haasn-libplacebo.md) | ⭐ 810 | C | 50/100 |
+| 544 | [haasn/libplacebo](./haasn-libplacebo.md) | ⭐ 813 | C | 50/100 |
 | 545 | [ffplayout/ffplayout](./ffplayout-ffplayout.md) | ⭐ 600 | Rust | 50/100 |
 | 546 | [vanakala/cinelerra-cve](./vanakala-cinelerra-cve.md) | ⭐ 31 | C | 49/100 |
 | 547 | [vaughnn/burned-in-subtitle-removal-benchmark](./vaughnn-burned-in-subtitle-removal-benchmark.md) | ⭐ — | — | 49/100 |

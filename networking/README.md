@@ -197,7 +197,7 @@
 | 187 | [YumeYucca/YumeBox](./yumeyucca-yumebox.md) | ⭐ 1k | Kotlin | 63/100 |
 | 188 | [SagerNet/sing-box](./sagernet-sing-box.md) | ⭐ 39.9k | Go | 63/100 |
 | 189 | [threatexpert/gonc](./threatexpert-gonc.md) | ⭐ 739 | Go | 63/100 |
-| 190 | [NHAS/wag](./nhas-wag.md) | ⭐ 735 | Go | 63/100 |
+| 190 | [NHAS/wag](./nhas-wag.md) | ⭐ 736 | Go | 63/100 |
 | 191 | [antrea-io/antrea](./antrea-io-antrea.md) | ⭐ 1.8k | Go | 63/100 |
 | 192 | [elesiuta/picosnitch](./elesiuta-picosnitch.md) | ⭐ 1k | Python | 63/100 |
 | 193 | [fujiapple852/trippy](./fujiapple852-trippy.md) | ⭐ 8.2k | Rust | 63/100 |
@@ -288,7 +288,7 @@
 | 278 | [Windscribe/Desktop-App](./windscribe-desktop-app.md) | ⭐ 1.2k | C++ | 59/100 |
 | 279 | [loro-dev/loro](./loro-dev-loro.md) | ⭐ 6.3k | Rust | 59/100 |
 | 280 | [apache/trafficserver](./apache-trafficserver.md) | ⭐ 2k | C++ | 59/100 |
-| 281 | [zhouzhouprogram/Shadowrocket-ADBlock-Rules](./zhouzhouprogram-shadowrocket-adblock-rules.md) | ⭐ 873 | Python | 59/100 |
+| 281 | [zhouzhouprogram/Shadowrocket-ADBlock-Rules](./zhouzhouprogram-shadowrocket-adblock-rules.md) | ⭐ 872 | Python | 59/100 |
 | 282 | [ZeroTworu/anet](./zerotworu-anet.md) | ⭐ 740 | Rust | 59/100 |
 | 283 | [junkurihara/rust-rpxy-l4](./junkurihara-rust-rpxy-l4.md) | ⭐ 128 | Rust | 59/100 |
 | 284 | [mfuu/v2ray](./mfuu-v2ray.md) | ⭐ 893 | Python | 59/100 |
@@ -439,7 +439,7 @@
 | 429 | [Tght1211/lan-proxy-gateway](./tght1211-lan-proxy-gateway.md) | ⭐ 545 | Go | 53/100 |
 | 430 | [simgine/bevy_replicon](./simgine-bevy-replicon.md) | ⭐ 659 | Rust | 53/100 |
 | 431 | [free-nodes/v2rayfree](./free-nodes-v2rayfree.md) | ⭐ 15k | — | 53/100 |
-| 432 | [xinggaoya/sing-box-windows](./xinggaoya-sing-box-windows.md) | ⭐ 912 | Rust | 53/100 |
+| 432 | [xinggaoya/sing-box-windows](./xinggaoya-sing-box-windows.md) | ⭐ 915 | Rust | 53/100 |
 | 433 | [ancwrd1/snx-rs](./ancwrd1-snx-rs.md) | ⭐ 537 | Rust | 53/100 |
 | 434 | [ivpn/ios-app](./ivpn-ios-app.md) | ⭐ 577 | Swift | 53/100 |
 | 435 | [Epodonios/v2ray-configs](./epodonios-v2ray-configs.md) | ⭐ 2.9k | Python | 53/100 |
@@ -450,7 +450,7 @@
 | 440 | [unavi-xyz/unavi](./unavi-xyz-unavi.md) | ⭐ 118 | Rust | 52/100 |
 | 441 | [Power2All/torrust-actix](./power2all-torrust-actix.md) | ⭐ 144 | Rust | 52/100 |
 | 442 | [USBridge-Technologies/USBridge-Remote](./usbridge-technologies-usbridge-remote.md) | ⭐ 673 | Go | 52/100 |
-| 443 | [LLukas22/Jellyswarrm](./llukas22-jellyswarrm.md) | ⭐ 967 | Rust | 52/100 |
+| 443 | [LLukas22/Jellyswarrm](./llukas22-jellyswarrm.md) | ⭐ 969 | Rust | 52/100 |
 | 444 | [OkuBrowser/oku](./okubrowser-oku.md) | ⭐ 213 | Rust | 52/100 |
 | 445 | [SoliSpirit/mtproto](./solispirit-mtproto.md) | ⭐ 1.9k | — | 52/100 |
 | 446 | [eepnet/emissary](./eepnet-emissary.md) | ⭐ 263 | Rust | 52/100 |
@@ -582,8 +582,8 @@
 | 572 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 573 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 652 | — | 45/100 |
 | 574 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
-| 576 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 576 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
 | 577 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 578 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 579 | [hoysengleang/wslog](./hoysengleang-wslog.md) | ⭐ 1 | TypeScript | 43/100 |

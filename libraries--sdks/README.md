@@ -36,11 +36,11 @@
 | 26 | [operator-framework/java-operator-sdk](./operator-framework-java-operator-sdk.md) | ⭐ 947 | Java | 70/100 |
 | 27 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 751 | Go | 70/100 |
 | 28 | [octokit/octokit.js](./octokit-octokit.js.md) | ⭐ 7.9k | TypeScript | 69/100 |
-| 29 | [meilisearch/meilisearch-php](./meilisearch-meilisearch-php.md) | ⭐ 764 | PHP | 69/100 |
+| 29 | [meilisearch/meilisearch-php](./meilisearch-meilisearch-php.md) | ⭐ 763 | PHP | 69/100 |
 | 30 | [yhirose/cpp-httplib](./yhirose-cpp-httplib.md) | ⭐ 17k | C++ | 69/100 |
 | 31 | [getsentry/sentry-cocoa](./getsentry-sentry-cocoa.md) | ⭐ 1.1k | Swift | 69/100 |
 | 32 | [xberg-io/tree-sitter-language-pack](./xberg-io-tree-sitter-language-pack.md) | ⭐ 485 | Rust | 69/100 |
-| 33 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 775 | C# | 69/100 |
+| 33 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 776 | C# | 69/100 |
 | 34 | [livekit/client-sdk-android](./livekit-client-sdk-android.md) | ⭐ 370 | Kotlin | 68/100 |
 | 35 | [pika/pika](./pika-pika.md) | ⭐ 3.9k | Python | 68/100 |
 | 36 | [livekit/client-sdk-flutter](./livekit-client-sdk-flutter.md) | ⭐ 422 | Dart | 68/100 |
@@ -199,7 +199,7 @@
 | 189 | [kubernetes-client/csharp](./kubernetes-client-csharp.md) | ⭐ 1.2k | C# | 54/100 |
 | 190 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 473 | Swift | 54/100 |
 | 191 | [PyO3/maturin](./pyo3-maturin.md) | ⭐ 5.9k | Rust | 54/100 |
-| 192 | [matsadler/magnus](./matsadler-magnus.md) | ⭐ 919 | Rust | 53/100 |
+| 192 | [matsadler/magnus](./matsadler-magnus.md) | ⭐ 920 | Rust | 53/100 |
 | 193 | [quickwit-oss/tantivy-py](./quickwit-oss-tantivy-py.md) | ⭐ 435 | Rust | 53/100 |
 | 194 | [dotnet/ClangSharp](./dotnet-clangsharp.md) | ⭐ 1.3k | C# | 53/100 |
 | 195 | [georust/gdal](./georust-gdal.md) | ⭐ 459 | Rust | 53/100 |

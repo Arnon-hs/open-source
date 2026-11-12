@@ -17,7 +17,7 @@
 | 7 | [llmware-ai/llmware](./llmware-ai-llmware.md) | ⭐ 14.8k | Python | 82/100 |
 | 8 | [Graphify-Labs/graphify](./graphify-labs-graphify.md) | ⭐ 146.1k | Python | 81/100 |
 | 9 | [adbar/trafilatura](./adbar-trafilatura.md) | ⭐ 7.1k | Python | 80/100 |
-| 10 | [kossakovsky/selfhost-ai](./kossakovsky-selfhost-ai.md) | ⭐ 961 | Shell | 79/100 |
+| 10 | [kossakovsky/selfhost-ai](./kossakovsky-selfhost-ai.md) | ⭐ 962 | Shell | 79/100 |
 | 11 | [kossakovsky/n8n-install](./kossakovsky-n8n-install.md) | ⭐ 890 | Shell | 79/100 |
 | 12 | [potpie-ai/potpie](./potpie-ai-potpie.md) | ⭐ 5.8k | Python | 79/100 |
 | 13 | [pathwaycom/pathway](./pathwaycom-pathway.md) | ⭐ 62k | Python | 79/100 |
@@ -335,7 +335,7 @@
 | 325 | [raphaelmansuy/edgequake](./raphaelmansuy-edgequake.md) | ⭐ 2.3k | Rust | 60/100 |
 | 326 | [Danielskry/Awesome-RAG](./danielskry-awesome-rag.md) | ⭐ 1.4k | — | 60/100 |
 | 327 | [NVIDIA/raft](./nvidia-raft.md) | ⭐ 1.1k | Cuda | 60/100 |
-| 328 | [xberg-io/html-to-markdown](./xberg-io-html-to-markdown.md) | ⭐ 888 | HTML | 60/100 |
+| 328 | [xberg-io/html-to-markdown](./xberg-io-html-to-markdown.md) | ⭐ 887 | HTML | 60/100 |
 | 329 | [jamie8johnson/cqs](./jamie8johnson-cqs.md) | ⭐ 18 | Rust | 60/100 |
 | 330 | [ravendb/ravendb](./ravendb-ravendb.md) | ⭐ 4k | C# | 60/100 |
 | 331 | [infinilabs/coco-server](./infinilabs-coco-server.md) | ⭐ 150 | TypeScript | 60/100 |
@@ -402,7 +402,7 @@
 | 392 | [Gixsy95/abap_wiki](./gixsy95-abap-wiki.md) | ⭐ 50 | Python | 57/100 |
 | 393 | [currentslab/awesome-vector-search](./currentslab-awesome-vector-search.md) | ⭐ 1.6k | — | 57/100 |
 | 394 | [jolibrain/colette](./jolibrain-colette.md) | ⭐ 302 | HTML | 57/100 |
-| 395 | [NVIDIA/cuvs](./nvidia-cuvs.md) | ⭐ 892 | Cuda | 57/100 |
+| 395 | [NVIDIA/cuvs](./nvidia-cuvs.md) | ⭐ 893 | Cuda | 57/100 |
 | 396 | [linyshdhhcb/PigHealthSmartMedicine](./linyshdhhcb-pighealthsmartmedicine.md) | ⭐ 198 | Vue | 57/100 |
 | 397 | [andreiramani/pgvector_pgsql_windows](./andreiramani-pgvector-pgsql-windows.md) | ⭐ 233 | — | 57/100 |
 | 398 | [kronotop/kronotop](./kronotop-kronotop.md) | ⭐ 313 | Java | 57/100 |
@@ -435,8 +435,8 @@
 | 425 | [Threekiii/Awesome-POC](./threekiii-awesome-poc.md) | ⭐ 5.3k | Java | 56/100 |
 | 426 | [sysid/bkmr](./sysid-bkmr.md) | ⭐ 268 | Rust | 56/100 |
 | 427 | [jeffreylanters/react-unity-webgl](./jeffreylanters-react-unity-webgl.md) | ⭐ 1.9k | TypeScript | 56/100 |
-| 428 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 16.1k | Python | 56/100 |
-| 429 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 7.1k | JavaScript | 56/100 |
+| 428 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 7.1k | JavaScript | 56/100 |
+| 429 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 16.1k | Python | 56/100 |
 | 430 | [aws-samples/generative-ai-use-cases](./aws-samples-generative-ai-use-cases.md) | ⭐ 1.4k | TypeScript | 56/100 |
 | 431 | [tetherto/qvac](./tetherto-qvac.md) | ⭐ 760 | JavaScript | 56/100 |
 | 432 | [neo4j/neo4j-graphrag-python](./neo4j-neo4j-graphrag-python.md) | ⭐ 1.3k | Python | 56/100 |
@@ -444,7 +444,7 @@
 | 434 | [olafurjohannsson/kjarni](./olafurjohannsson-kjarni.md) | ⭐ 38 | Rust | 55/100 |
 | 435 | [stephanrauh/ngx-extended-pdf-viewer](./stephanrauh-ngx-extended-pdf-viewer.md) | ⭐ 582 | Fluent | 55/100 |
 | 436 | [deepset-ai/haystack-tutorials](./deepset-ai-haystack-tutorials.md) | ⭐ 378 | Jupyter Notebook | 55/100 |
-| 437 | [ad-freiburg/qlever](./ad-freiburg-qlever.md) | ⭐ 943 | C++ | 55/100 |
+| 437 | [ad-freiburg/qlever](./ad-freiburg-qlever.md) | ⭐ 945 | C++ | 55/100 |
 | 438 | [rryam/VecturaKit](./rryam-vecturakit.md) | ⭐ 328 | Swift | 55/100 |
 | 439 | [crownleo/ClaudeViewer](./crownleo-claudeviewer.md) | ⭐ 222 | HTML | 55/100 |
 | 440 | [MantisAI/sieves](./mantisai-sieves.md) | ⭐ 127 | Python | 55/100 |
@@ -527,17 +527,17 @@
 | 517 | [kc-2705/job-hunt-copilot](./kc-2705-job-hunt-copilot.md) | ⭐ — | JavaScript | 48/100 |
 | 518 | [torrua/loglan-bench](./torrua-loglan-bench.md) | ⭐ — | Python | 48/100 |
 | 519 | [Christopher22/charon](./christopher22-charon.md) | ⭐ 9 | — | 48/100 |
-| 520 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 520 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
 | 521 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
-| 522 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
+| 522 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
 | 523 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 253 | Python | 48/100 |
 | 524 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 792 | TypeScript | 48/100 |
 | 525 | [SeekStorm/SeekStorm](./seekstorm-seekstorm.md) | ⭐ 1.9k | Rust | 48/100 |
 | 526 | [software-mansion/react-native-executorch](./software-mansion-react-native-executorch.md) | ⭐ 1.8k | C++ | 48/100 |
 | 527 | [dqunbp/buffera](./dqunbp-buffera.md) | ⭐ 3 | Swift | 48/100 |
 | 528 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 47/100 |
-| 529 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 47/100 |
-| 530 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 47/100 |
+| 529 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 47/100 |
+| 530 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 47/100 |
 | 531 | [intfloat/multilingual-e5-small](./intfloat-multilingual-e5-small.md) | ⭐ 374 | sentence-transformers | 47/100 |
 | 532 | [yologdev/karpathy-llm-wiki](./yologdev-karpathy-llm-wiki.md) | ⭐ 48 | TypeScript | 47/100 |
 | 533 | [qiantongtech/qKnow](./qiantongtech-qknow.md) | ⭐ 296 | Java | 47/100 |

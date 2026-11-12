@@ -46,7 +46,7 @@
 | 36 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 24 | — | 71/100 |
 | 37 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 898 | Python | 71/100 |
 | 38 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 315 | Python | 71/100 |
-| 39 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 3.7k | TypeScript | 71/100 |
+| 39 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 3.9k | TypeScript | 71/100 |
 | 40 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
 | 41 | [cporter202/awesome-ai-tools](./cporter202-awesome-ai-tools.md) | ⭐ 326 | — | 70/100 |
 | 42 | [claude-world/notebooklm-skill](./claude-world-notebooklm-skill.md) | ⭐ 499 | Python | 70/100 |
@@ -114,7 +114,7 @@
 | 104 | [bborn/lewsnetter](./bborn-lewsnetter.md) | ⭐ 330 | Ruby | 57/100 |
 | 105 | [Eva-311/hermes-automation-examples](./eva-311-hermes-automation-examples.md) | ⭐ 3 | — | 56/100 |
 | 106 | [SandAI-org/MagiCompiler](./sandai-org-magicompiler.md) | ⭐ 337 | Python | 56/100 |
-| 107 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 889 | Rust | 56/100 |
+| 107 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 890 | Rust | 56/100 |
 | 108 | [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](./youmind-openlab-nano-banana-pro-prompts-recommend-skill.md) | ⭐ 1.9k | TypeScript | 56/100 |
 | 109 | [wide-trace/open-higgsfield](./wide-trace-open-higgsfield.md) | ⭐ 5.7k | TypeScript | 55/100 |
 | 110 | [doka-guide/content](./doka-guide-content.md) | ⭐ 1.5k | HTML | 55/100 |

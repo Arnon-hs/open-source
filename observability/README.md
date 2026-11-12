@@ -53,7 +53,7 @@
 | 43 | [prometheus/client_python](./prometheus-client-python.md) | ⭐ 4.4k | Python | 66/100 |
 | 44 | [CtrlSpice/otel-desktop-viewer](./ctrlspice-otel-desktop-viewer.md) | ⭐ 1.3k | Go | 66/100 |
 | 45 | [Greedeks/GTweak](./greedeks-gtweak.md) | ⭐ 1.8k | C# | 66/100 |
-| 46 | [PierreGode/Ragnar](./pierregode-ragnar.md) | ⭐ 971 | Python | 66/100 |
+| 46 | [PierreGode/Ragnar](./pierregode-ragnar.md) | ⭐ 973 | Python | 66/100 |
 | 47 | [danielbrendel/hortusfox-web](./danielbrendel-hortusfox-web.md) | ⭐ 1.7k | PHP | 66/100 |
 | 48 | [bramstroker/homeassistant-powercalc](./bramstroker-homeassistant-powercalc.md) | ⭐ 1.7k | Python | 66/100 |
 | 49 | [samber/awesome-prometheus-alerts](./samber-awesome-prometheus-alerts.md) | ⭐ 8.3k | Astro | 66/100 |
@@ -128,7 +128,7 @@
 | 118 | [nginx/nginx-prometheus-exporter](./nginx-nginx-prometheus-exporter.md) | ⭐ 2k | Go | 59/100 |
 | 119 | [GoogleChrome/web-vitals](./googlechrome-web-vitals.md) | ⭐ 8.7k | JavaScript | 59/100 |
 | 120 | [UCSBarchlab/PyRTL](./ucsbarchlab-pyrtl.md) | ⭐ 308 | Python | 59/100 |
-| 121 | [esrlabs/chipmunk](./esrlabs-chipmunk.md) | ⭐ 871 | Rust | 59/100 |
+| 121 | [esrlabs/chipmunk](./esrlabs-chipmunk.md) | ⭐ 872 | Rust | 59/100 |
 | 122 | [open-telemetry/opentelemetry-rust](./open-telemetry-opentelemetry-rust.md) | ⭐ 2.8k | Rust | 59/100 |
 | 123 | [zentralopensource/zentral](./zentralopensource-zentral.md) | ⭐ 890 | Python | 59/100 |
 | 124 | [itsDNNS/docsight](./itsdnns-docsight.md) | ⭐ 291 | Python | 59/100 |
@@ -160,7 +160,7 @@
 | 150 | [TIANLI0/THRM](./tianli0-thrm.md) | ⭐ 460 | Go | 56/100 |
 | 151 | [prometheus/test-infra](./prometheus-test-infra.md) | ⭐ 166 | Go | 56/100 |
 | 152 | [Daminoup88/WattSeal](./daminoup88-wattseal.md) | ⭐ 291 | Rust | 56/100 |
-| 153 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 944 | TypeScript | 56/100 |
+| 153 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 945 | TypeScript | 56/100 |
 | 154 | [oshi/oshi](./oshi-oshi.md) | ⭐ 5.3k | Java | 56/100 |
 | 155 | [sarub0b0/kubetui](./sarub0b0-kubetui.md) | ⭐ 403 | Rust | 56/100 |
 | 156 | [LibreHardwareMonitor/LibreHardwareMonitor](./librehardwaremonitor-librehardwaremonitor.md) | ⭐ 9.4k | C# | 56/100 |

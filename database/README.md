@@ -18,7 +18,7 @@
 | 8 | [OT-CONTAINER-KIT/redis-operator](./ot-container-kit-redis-operator.md) | ⭐ 1.5k | Go | 73/100 |
 | 9 | [microsoft/garnet](./microsoft-garnet.md) | ⭐ 12.1k | C# | 73/100 |
 | 10 | [etcd-io/etcd](./etcd-io-etcd.md) | ⭐ 52.6k | Go | 72/100 |
-| 11 | [eclipse-ditto/ditto](./eclipse-ditto-ditto.md) | ⭐ 949 | Java | 72/100 |
+| 11 | [eclipse-ditto/ditto](./eclipse-ditto-ditto.md) | ⭐ 950 | Java | 72/100 |
 | 12 | [jtv/libpqxx](./jtv-libpqxx.md) | ⭐ 1.4k | C++ | 72/100 |
 | 13 | [requests-cache/requests-cache](./requests-cache-requests-cache.md) | ⭐ 1.5k | Python | 72/100 |
 | 14 | [maxmind/GeoIP2-php](./maxmind-geoip2-php.md) | ⭐ 2.5k | PHP | 71/100 |
@@ -180,7 +180,7 @@
 | 170 | [exceptionless/Exceptionless](./exceptionless-exceptionless.md) | ⭐ 2.5k | C# | 58/100 |
 | 171 | [walinejs/waline](./walinejs-waline.md) | ⭐ 3.2k | JavaScript | 58/100 |
 | 172 | [tess1o/geopulse](./tess1o-geopulse.md) | ⭐ 1.5k | Java | 58/100 |
-| 173 | [signal18/replication-manager](./signal18-replication-manager.md) | ⭐ 744 | Go | 58/100 |
+| 173 | [signal18/replication-manager](./signal18-replication-manager.md) | ⭐ 745 | Go | 58/100 |
 | 174 | [dennisonbertram/agentic-hosting](./dennisonbertram-agentic-hosting.md) | ⭐ 34 | Go | 57/100 |
 | 175 | [etcd-io/bbolt](./etcd-io-bbolt.md) | ⭐ 9.8k | Go | 57/100 |
 | 176 | [postgis/postgis](./postgis-postgis.md) | ⭐ 2.3k | PLpgSQL | 57/100 |
@@ -252,7 +252,7 @@
 | 242 | [cmu-db/dbdb.io](./cmu-db-dbdb.io.md) | ⭐ 591 | Python | 54/100 |
 | 243 | [apache/jackrabbit-oak](./apache-jackrabbit-oak.md) | ⭐ 415 | Java | 54/100 |
 | 244 | [cornucopia-rs/cornucopia](./cornucopia-rs-cornucopia.md) | ⭐ 1.2k | Rust | 54/100 |
-| 245 | [teorth/erdosproblems](./teorth-erdosproblems.md) | ⭐ 882 | Python | 54/100 |
+| 245 | [teorth/erdosproblems](./teorth-erdosproblems.md) | ⭐ 884 | Python | 54/100 |
 | 246 | [nikita-volkov/hasql](./nikita-volkov-hasql.md) | ⭐ 554 | Haskell | 54/100 |
 | 247 | [openstack/trove](./openstack-trove.md) | ⭐ 321 | Python | 54/100 |
 | 248 | [gaarason/database-all](./gaarason-database-all.md) | ⭐ 1k | Java | 54/100 |
@@ -321,7 +321,7 @@
 | 311 | [The-OpenROAD-Project/OpenROAD](./the-openroad-project-openroad.md) | ⭐ 3.3k | Verilog | 50/100 |
 | 312 | [mongodb/docs](./mongodb-docs.md) | ⭐ 779 | TypeScript | 50/100 |
 | 313 | [uyuni-project/uyuni](./uyuni-project-uyuni.md) | ⭐ 600 | Java | 50/100 |
-| 314 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 873 | Python | 50/100 |
+| 314 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 874 | Python | 50/100 |
 | 315 | [openresty/drizzle-nginx-module](./openresty-drizzle-nginx-module.md) | ⭐ 335 | C | 49/100 |
 | 316 | [ClickHouse/RayTracer](./clickhouse-raytracer.md) | ⭐ 110 | — | 49/100 |
 | 317 | [Syngnat/GoNavi](./syngnat-gonavi.md) | ⭐ 2.1k | TypeScript | 49/100 |
@@ -551,8 +551,8 @@
 | 541 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 542 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 543 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 431 | — | 38/100 |
-| 544 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 70 | — | 38/100 |
-| 545 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 544 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 545 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 70 | — | 38/100 |
 | 546 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 547 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 442 | — | 38/100 |
 | 548 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |
