@@ -275,7 +275,7 @@
 | 265 | [imba/imba](./imba-imba.md) | ⭐ 6.5k | JavaScript | 64/100 |
 | 266 | [DavidHDev/react-bits](./davidhdev-react-bits.md) | ⭐ 51.7k | JavaScript | 64/100 |
 | 267 | [mozilla/bedrock](./mozilla-bedrock.md) | ⭐ 1.3k | HTML | 64/100 |
-| 268 | [XiaoYouChR/Ghost-Downloader-3](./xiaoyouchr-ghost-downloader-3.md) | ⭐ 11k | Python | 64/100 |
+| 268 | [XiaoYouChR/Ghost-Downloader-3](./xiaoyouchr-ghost-downloader-3.md) | ⭐ 11.1k | Python | 64/100 |
 | 269 | [sethcottle/littlelink](./sethcottle-littlelink.md) | ⭐ 3.1k | HTML | 64/100 |
 | 270 | [software-mansion/react-native-audio-api](./software-mansion-react-native-audio-api.md) | ⭐ 858 | C++ | 64/100 |
 | 271 | [RedMadRobot/figma-export](./redmadrobot-figma-export.md) | ⭐ 824 | Swift | 64/100 |
@@ -485,8 +485,8 @@
 | 475 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 476 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
 | 477 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 298 | Rust | 60/100 |
-| 478 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
-| 479 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
+| 478 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
+| 479 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
 | 480 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.8k | TypeScript | 60/100 |
 | 481 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 366 | Go | 60/100 |
 | 482 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
@@ -763,7 +763,7 @@
 | 753 | [DennisBauer/RecurringExpenseTracker](./dennisbauer-recurringexpensetracker.md) | ⭐ 407 | Kotlin | 54/100 |
 | 754 | [conceptualspace/yet-another-speed-dial](./conceptualspace-yet-another-speed-dial.md) | ⭐ 308 | JavaScript | 54/100 |
 | 755 | [Rule-34/App](./rule-34-app.md) | ⭐ 388 | Vue | 54/100 |
-| 756 | [fastrepl/anarlog](./fastrepl-anarlog.md) | ⭐ 9.8k | Rust | 54/100 |
+| 756 | [fastrepl/anarlog](./fastrepl-anarlog.md) | ⭐ 9.9k | Rust | 54/100 |
 | 757 | [skeletonlabs/skeleton](./skeletonlabs-skeleton.md) | ⭐ 6.1k | TypeScript | 54/100 |
 | 758 | [taiga-family/taiga-ui](./taiga-family-taiga-ui.md) | ⭐ 4.1k | TypeScript | 54/100 |
 | 759 | [jellyfin/jellyfin-vue](./jellyfin-jellyfin-vue.md) | ⭐ 1.7k | Vue | 54/100 |

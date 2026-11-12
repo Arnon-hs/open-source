@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
 ### English
 
-jeffev/hollowtest: jeffev/hollowtest helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jeffev/hollowtest: jeffev/hollowtest helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-jeffev/hollowtest: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+jeffev/hollowtest: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-jeffev/hollowtest：jeffev/hollowtest helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+jeffev/hollowtest：jeffev/hollowtest helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** jeffev/hollowtest helps add AI capability without starting from a blank model stack.
+**Value:** jeffev/hollowtest helps turn isolated prompts and tools into repeatable agent workflows.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -63,19 +63,19 @@ jeffev/hollowtest：jeffev/hollowtest helps add AI capability without starting f
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 57/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 57/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/jeffev/hollowtest) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-04 · [View on GitHub](https://github.com/jeffev/hollowtest) · [← Back to Orchestration](./README.md)</sub>

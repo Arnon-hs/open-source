@@ -53,7 +53,7 @@ ImageOptim/gifski：ImageOptim/gifski helps remove repetitive manual operations 
 
 **Quality signals**
 
-- 5702 GitHub stars
+- 5703 GitHub stars
 - 182 forks
 - updated 2026-11-06
 - primary language: Rust

@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.4k |
-| 🍴 **Forks** | 273 |
+| ⭐ **Stars** | 3.7k |
+| 🍴 **Forks** | 298 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-11-10 |
@@ -53,8 +53,8 @@ haydenschmitty/floorplan：haydenschmitty/floorplan helps add AI capability with
 
 **Quality signals**
 
-- 3444 GitHub stars
-- 273 forks
+- 3679 GitHub stars
+- 298 forks
 - updated 2026-11-10
 - primary language: JavaScript
 - 12 topics
@@ -69,11 +69,11 @@ haydenschmitty/floorplan：haydenschmitty/floorplan helps add AI capability with
 | quality | 83/100 |
 | integration | 46/100 |
 | production | 74/100 |
-| outlook | 81/100 |
-| adoption | 71/100 |
+| outlook | 82/100 |
+| adoption | 72/100 |
 | categoryMatchCount | 300/100 |
-| stars | 75/100 |
-| forks | 61/100 |
+| stars | 76/100 |
+| forks | 62/100 |
 | recency | 100/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

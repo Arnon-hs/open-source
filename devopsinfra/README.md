@@ -37,7 +37,7 @@
 | 27 | [whyour/qinglong](./whyour-qinglong.md) | ⭐ 20.1k | TypeScript | 73/100 |
 | 28 | [regclient/regclient](./regclient-regclient.md) | ⭐ 2k | Go | 73/100 |
 | 29 | [GhostWriters/DockSTARTer](./ghostwriters-dockstarter.md) | ⭐ 2.6k | Shell | 73/100 |
-| 30 | [getsentry/self-hosted](./getsentry-self-hosted.md) | ⭐ 9.6k | Shell | 73/100 |
+| 30 | [getsentry/self-hosted](./getsentry-self-hosted.md) | ⭐ 9.7k | Shell | 73/100 |
 | 31 | [podman-container-tools/buildah](./podman-container-tools-buildah.md) | ⭐ 9.2k | Go | 72/100 |
 | 32 | [docker/buildx](./docker-buildx.md) | ⭐ 4.5k | Go | 72/100 |
 | 33 | [flannel-io/flannel](./flannel-io-flannel.md) | ⭐ 9.6k | Go | 72/100 |
@@ -78,7 +78,7 @@
 | 68 | [Yelp/paasta](./yelp-paasta.md) | ⭐ 1.7k | Python | 67/100 |
 | 69 | [confluentinc/cp-all-in-one](./confluentinc-cp-all-in-one.md) | ⭐ 1.2k | Python | 67/100 |
 | 70 | [timothystewart6/k3s-ansible](./timothystewart6-k3s-ansible.md) | ⭐ 3k | Jinja | 67/100 |
-| 71 | [dexidp/dex](./dexidp-dex.md) | ⭐ 11.2k | Go | 67/100 |
+| 71 | [dexidp/dex](./dexidp-dex.md) | ⭐ 11.3k | Go | 67/100 |
 | 72 | [stakater/IngressMonitorController](./stakater-ingressmonitorcontroller.md) | ⭐ 748 | Go | 67/100 |
 | 73 | [k3s-io/k3s](./k3s-io-k3s.md) | ⭐ 34.4k | Go | 67/100 |
 | 74 | [dani-garcia/vaultwarden](./dani-garcia-vaultwarden.md) | ⭐ 70.6k | Rust | 67/100 |
@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |

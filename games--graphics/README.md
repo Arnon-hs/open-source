@@ -19,7 +19,7 @@
 | 9 | [graphistry/pygraphistry](./graphistry-pygraphistry.md) | ⭐ 2.6k | Python | 69/100 |
 | 10 | [OGRECave/ogre](./ogrecave-ogre.md) | ⭐ 4.7k | C++ | 68/100 |
 | 11 | [selkies-project/selkies](./selkies-project-selkies.md) | ⭐ 2.5k | Python | 68/100 |
-| 12 | [RodZill4/material-maker](./rodzill4-material-maker.md) | ⭐ 6.2k | GDScript | 68/100 |
+| 12 | [RodZill4/material-maker](./rodzill4-material-maker.md) | ⭐ 6.3k | GDScript | 68/100 |
 | 13 | [milos-agathon/forge3d](./milos-agathon-forge3d.md) | ⭐ 858 | Rust | 68/100 |
 | 14 | [flightlessmango/MangoHud](./flightlessmango-mangohud.md) | ⭐ 9.2k | C | 67/100 |
 | 15 | [MonoGame/MonoGame](./monogame-monogame.md) | ⭐ 14.6k | C# | 67/100 |
@@ -73,7 +73,7 @@
 | 63 | [google/swiftshader](./google-swiftshader.md) | ⭐ 2.6k | C++ | 62/100 |
 | 64 | [openfl/lime](./openfl-lime.md) | ⭐ 857 | JavaScript | 62/100 |
 | 65 | [2shady4u/godot-sqlite](./2shady4u-godot-sqlite.md) | ⭐ 1.5k | C++ | 62/100 |
-| 66 | [CaffeineMC/sodium](./caffeinemc-sodium.md) | ⭐ 5.9k | Java | 62/100 |
+| 66 | [CaffeineMC/sodium](./caffeinemc-sodium.md) | ⭐ 5.8k | Java | 62/100 |
 | 67 | [Quenty/NevermoreEngine](./quenty-nevermoreengine.md) | ⭐ 634 | Lua | 62/100 |
 | 68 | [wolfpld/tracy](./wolfpld-tracy.md) | ⭐ 17.1k | C++ | 62/100 |
 | 69 | [thi-ng/umbrella](./thi-ng-umbrella.md) | ⭐ 3.8k | TypeScript | 62/100 |

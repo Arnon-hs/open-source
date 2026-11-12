@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.7k |
-| 🍴 **Forks** | 307 |
+| 🍴 **Forks** | 306 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-06-16 |
@@ -53,8 +53,8 @@ liquidctl/liquidctl：liquidctl/liquidctl helps remove repetitive manual operati
 
 **Quality signals**
 
-- 2705 GitHub stars
-- 307 forks
+- 2706 GitHub stars
+- 306 forks
 - updated 2026-06-16
 - primary language: Python
 - 15 topics

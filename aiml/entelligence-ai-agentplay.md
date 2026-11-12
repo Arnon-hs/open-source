@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 358 |
-| 🍴 **Forks** | 43 |
+| ⭐ **Stars** | 360 |
+| 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 67/100 |
 | 🗓️ **Last push** | 2026-11-06 |
@@ -53,8 +53,8 @@ Entelligence-AI/agentplay：Entelligence-AI/agentplay helps add AI capability wi
 
 **Quality signals**
 
-- 358 GitHub stars
-- 43 forks
+- 360 GitHub stars
+- 46 forks
 - updated 2026-11-06
 - primary language: Python
 - 19 topics
@@ -69,11 +69,11 @@ Entelligence-AI/agentplay：Entelligence-AI/agentplay helps add AI capability wi
 | quality | 68/100 |
 | integration | 62/100 |
 | production | 67/100 |
-| outlook | 72/100 |
+| outlook | 73/100 |
 | adoption | 51/100 |
 | categoryMatchCount | 100/100 |
 | stars | 54/100 |
-| forks | 41/100 |
+| forks | 42/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

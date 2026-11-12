@@ -65,18 +65,18 @@ backnotprop/pstack：backnotprop/pstack helps turn isolated prompts and tools in
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 78/100 |
-| integration | 78/100 |
-| production | 72/100 |
-| outlook | 78/100 |
-| adoption | 72/100 |
-| categoryMatchCount | 300/100 |
-| stars | 77/100 |
 | forks | 62/100 |
-| recency | 80/100 |
+| stars | 77/100 |
 | topics | 100/100 |
+| outlook | 78/100 |
+| quality | 78/100 |
+| recency | 80/100 |
+| adoption | 72/100 |
+| production | 72/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

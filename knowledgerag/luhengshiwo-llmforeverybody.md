@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.5k |
-| 🍴 **Forks** | 709 |
+| ⭐ **Stars** | 7.6k |
+| 🍴 **Forks** | 711 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-09-05 |

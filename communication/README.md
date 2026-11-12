@@ -119,7 +119,7 @@
 | 109 | [MetaFARS/codex-relay](./metafars-codex-relay.md) | ⭐ 192 | Rust | 63/100 |
 | 110 | [processone/fluux-messenger](./processone-fluux-messenger.md) | ⭐ 451 | TypeScript | 63/100 |
 | 111 | [miranda-ng/miranda-ng](./miranda-ng-miranda-ng.md) | ⭐ 570 | C++ | 63/100 |
-| 112 | [tutao/tutanota](./tutao-tutanota.md) | ⭐ 8.1k | TypeScript | 63/100 |
+| 112 | [tutao/tutanota](./tutao-tutanota.md) | ⭐ 8.2k | TypeScript | 63/100 |
 | 113 | [BrighterCommand/Brighter](./brightercommand-brighter.md) | ⭐ 2.5k | C# | 63/100 |
 | 114 | [keybase/client](./keybase-client.md) | ⭐ 9.3k | Go | 63/100 |
 | 115 | [vkpdeveloper/calsdk](./vkpdeveloper-calsdk.md) | ⭐ 8 | — | 62/100 |
@@ -362,8 +362,8 @@
 | 352 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 353 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 354 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 356 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 356 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 357 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 358 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 359 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

@@ -1,6 +1,6 @@
 # WafflingNinja/waffleboost
 
-[![Stars](https://img.shields.io/github/stars/WafflingNinja/waffleboost?style=flat-square&color=yellow)](https://github.com/WafflingNinja/waffleboost/stargazers) [![Forks](https://img.shields.io/github/forks/WafflingNinja/waffleboost?style=flat-square&color=blue)](https://github.com/WafflingNinja/waffleboost/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/WafflingNinja/waffleboost?style=flat-square&color=yellow)](https://github.com/WafflingNinja/waffleboost/stargazers) [![Forks](https://img.shields.io/github/forks/WafflingNinja/waffleboost?style=flat-square&color=blue)](https://github.com/WafflingNinja/waffleboost/network) [![Language](https://img.shields.io/badge/lang-Kotlin-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > Free, open-source game booster for Android. No root, no PC, no ads. Runs ADB performance tweaks over wireless debugging and reverts them when you stop playing.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2 |
+| ⭐ **Stars** | 7 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Kotlin |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -51,7 +51,7 @@ WafflingNinja/waffleboost：WafflingNinja/waffleboost may be useful when its REA
 
 **Quality signals**
 
-- 2 GitHub stars
+- 7 GitHub stars
 - updated 2026-11-10
 - primary language: Kotlin
 - 10 topics
@@ -63,13 +63,13 @@ WafflingNinja/waffleboost：WafflingNinja/waffleboost may be useful when its REA
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 57/100 |
 | integration | 30/100 |
-| production | 62/100 |
-| outlook | 62/100 |
-| adoption | 7/100 |
+| production | 63/100 |
+| outlook | 64/100 |
+| adoption | 14/100 |
 | categoryMatchCount | 200/100 |
-| stars | 10/100 |
+| stars | 19/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |

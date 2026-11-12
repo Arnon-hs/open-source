@@ -70,7 +70,7 @@
 | 60 | [hogan-tech/leetcode-solution](./hogan-tech-leetcode-solution.md) | ⭐ 548 | Python | 65/100 |
 | 61 | [igerber/diff-diff](./igerber-diff-diff.md) | ⭐ 414 | Python | 65/100 |
 | 62 | [datavane/datavines](./datavane-datavines.md) | ⭐ 767 | Java | 65/100 |
-| 63 | [crossbeam-rs/crossbeam](./crossbeam-rs-crossbeam.md) | ⭐ 8.6k | Rust | 65/100 |
+| 63 | [crossbeam-rs/crossbeam](./crossbeam-rs-crossbeam.md) | ⭐ 8.7k | Rust | 65/100 |
 | 64 | [OWASP/pytm](./owasp-pytm.md) | ⭐ 1.2k | Python | 65/100 |
 | 65 | [disclose/diodb](./disclose-diodb.md) | ⭐ 1.1k | Python | 65/100 |
 | 66 | [IAmTomShaw/f1-race-replay](./iamtomshaw-f1-race-replay.md) | ⭐ 7k | Python | 65/100 |
