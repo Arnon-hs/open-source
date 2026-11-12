@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 31 |
+| ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 48/100 |
@@ -53,7 +53,7 @@ haampie/tar-minefield：haampie/tar-minefield helps catch security and privacy i
 
 **Quality signals**
 
-- 31 GitHub stars
+- 32 GitHub stars
 - 1 forks
 - updated 2026-11-10
 - primary language: Python
@@ -67,7 +67,7 @@ haampie/tar-minefield：haampie/tar-minefield helps catch security and privacy i
 | usefulness | 42/100 |
 | quality | 47/100 |
 | integration | 46/100 |
-| production | 61/100 |
+| production | 62/100 |
 | outlook | 57/100 |
 | adoption | 25/100 |
 | categoryMatchCount | 100/100 |
