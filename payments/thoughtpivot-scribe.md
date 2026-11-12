@@ -64,18 +64,18 @@ thoughtpivot/scribe：thoughtpivot/scribe helps integrate monetization, billing,
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 47/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 60/100 |
-| adoption | 11/100 |
-| categoryMatchCount | 400/100 |
-| stars | 15/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 15/100 |
 | topics | 75/100 |
+| outlook | 60/100 |
+| quality | 47/100 |
+| recency | 80/100 |
+| adoption | 11/100 |
+| production | 59/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

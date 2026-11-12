@@ -22,7 +22,7 @@
 | 12 | [jessn-dev/jobDork](./jessn-dev-jobdork.md) | ⭐ 1 | — | 41/100 |
 | 13 | [FrigadeHQ/yogurt](./frigadehq-yogurt.md) | ⭐ 797 | — | 41/100 |
 | 14 | [SreeNaresh1/episteme-ai](./sreenaresh1-episteme-ai.md) | ⭐ — | — | 41/100 |
-| 15 | [sridharchaildn/notebook-ai](./sridharchaildn-notebook-ai.md) | ⭐ 1 | — | 41/100 |
+| 15 | [sridharchaildn/notebook-ai](./sridharchaildn-notebook-ai.md) | ⭐ 2 | — | 41/100 |
 | 16 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ 8 | — | 41/100 |
 | 17 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ 1 | — | 41/100 |
 | 18 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ 3 | — | 41/100 |

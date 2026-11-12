@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation
+Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-thallylabs/thally: thallylabs/thally helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+thallylabs/thally: thallylabs/thally helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-thallylabs/thally: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+thallylabs/thally: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-thallylabs/thally：thallylabs/thally helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+thallylabs/thally：thallylabs/thally helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** thallylabs/thally helps remove repetitive manual operations from a workflow.
+**Value:** thallylabs/thally helps teams reuse service infrastructure instead of rebuilding common backend pieces.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- ship API services faster
+- reuse backend infrastructure
+- standardize service patterns
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,19 +65,19 @@ thallylabs/thally：thallylabs/thally helps remove repetitive manual operations 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 49/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 55/100 |
-| adoption | 21/100 |
-| categoryMatchCount | 100/100 |
-| stars | 19/100 |
 | forks | 25/100 |
-| recency | 80/100 |
+| stars | 19/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 21/100 |
+| production | 58/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/thallylabs/thally) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/thallylabs/thally) · [← Back to Backend](./README.md)</sub>

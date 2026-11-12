@@ -336,7 +336,7 @@
 | 326 | [openigi/openigi](./openigi-openigi.md) | ⭐ 151 | — | 41/100 |
 | 327 | [Open-Game-Standards/OGS-Telemetry-Standard](./open-game-standards-ogs-telemetry-standard.md) | ⭐ — | — | 41/100 |
 | 328 | [apex-compute/ANR](./apex-compute-anr.md) | ⭐ 62 | — | 41/100 |
-| 329 | [Hash-7777/open-Hash-LMG](./hash-7777-open-hash-lmg.md) | ⭐ 2 | — | 41/100 |
+| 329 | [Hash-7777/open-Hash-LMG](./hash-7777-open-hash-lmg.md) | ⭐ 4 | — | 41/100 |
 | 330 | [LaurentiuGabriel/retro-break](./laurentiugabriel-retro-break.md) | ⭐ 2 | — | 41/100 |
 | 331 | [leonlarsson/isometrics](./leonlarsson-isometrics.md) | ⭐ 1 | — | 41/100 |
 | 332 | [akoaysigod/pocket_saturn_core](./akoaysigod-pocket-saturn-core.md) | ⭐ 19 | — | 41/100 |

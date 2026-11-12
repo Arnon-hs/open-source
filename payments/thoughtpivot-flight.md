@@ -65,18 +65,18 @@ thoughtpivot/flight：thoughtpivot/flight helps integrate monetization, billing,
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 46/100 |
-| integration | 62/100 |
-| production | 59/100 |
-| outlook | 56/100 |
-| adoption | 9/100 |
-| categoryMatchCount | 300/100 |
-| stars | 6/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 75/100 |
+| outlook | 56/100 |
+| quality | 46/100 |
+| recency | 80/100 |
+| adoption | 9/100 |
+| production | 59/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

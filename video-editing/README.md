@@ -571,8 +571,8 @@
 | 561 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 17 | — | 48/100 |
 | 562 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 563 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 3 | Python | 48/100 |
-| 564 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
-| 565 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
+| 564 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
+| 565 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
 | 566 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 567 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 34 | — | 48/100 |
 | 568 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ 22 | — | 48/100 |

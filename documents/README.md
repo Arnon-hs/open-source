@@ -507,8 +507,8 @@
 | 497 | [cfug/flutter.cn](./cfug-flutter.cn.md) | ⭐ 568 | Dart | 47/100 |
 | 498 | [qpdf/qpdf](./qpdf-qpdf.md) | ⭐ 5.6k | C++ | 47/100 |
 | 499 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
-| 500 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
-| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
+| 500 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
+| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
 | 502 | [waka/sghtmltopdf](./waka-sghtmltopdf.md) | ⭐ 381 | Rust | 46/100 |
 | 503 | [Sigil-Ebook/Sigil](./sigil-ebook-sigil.md) | ⭐ 7k | C++ | 46/100 |
 | 504 | [fiduswriter/fiduswriter](./fiduswriter-fiduswriter.md) | ⭐ 569 | JavaScript | 46/100 |
@@ -699,8 +699,8 @@
 | 689 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |
 | 690 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ 12 | — | 38/100 |
 | 691 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ 36 | — | 38/100 |
-| 692 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
-| 693 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 692 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 693 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
 | 694 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 120 | — | 38/100 |
 | 695 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 265 | — | 38/100 |
 | 696 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ 24 | — | 38/100 |
@@ -714,8 +714,8 @@
 | 704 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
 | 705 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 706 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
-| 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
-| 708 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 708 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
 | 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
 | 711 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |
@@ -748,8 +748,8 @@
 | 738 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ 2 | — | 38/100 |
 | 739 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 740 | [bruits/satteri](./bruits-satteri.md) | ⭐ 1.3k | — | 38/100 |
-| 741 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
-| 742 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
+| 741 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
+| 742 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
 | 743 | [JagaTheGhost/visualmark-studio](./jagatheghost-visualmark-studio.md) | ⭐ 11 | JavaScript | 37/100 |
 | 744 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 745 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |

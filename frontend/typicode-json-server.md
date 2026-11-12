@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation
+Frontend · Backend · DevTools
 
 ## 📝 Summary
 
 ### English
 
-typicode/json-server: typicode/json-server helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+typicode/json-server: typicode/json-server helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-typicode/json-server: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+typicode/json-server: open-source проект в категориях Frontend, Backend, DevTools. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-typicode/json-server：typicode/json-server helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+typicode/json-server：typicode/json-server helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** typicode/json-server helps remove repetitive manual operations from a workflow.
+**Value:** typicode/json-server helps ship user-facing interfaces with less custom UI work.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- build product UI faster
+- reuse interface components
+- improve frontend delivery
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,19 +65,19 @@ typicode/json-server：typicode/json-server helps remove repetitive manual opera
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 90/100 |
-| integration | 46/100 |
-| production | 72/100 |
-| outlook | 81/100 |
-| adoption | 99/100 |
-| categoryMatchCount | 100/100 |
-| stars | 100/100 |
 | forks | 97/100 |
-| recency | 80/100 |
+| stars | 100/100 |
 | topics | 100/100 |
+| outlook | 81/100 |
+| quality | 90/100 |
+| recency | 80/100 |
+| adoption | 99/100 |
+| production | 72/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/typicode/json-server) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/typicode/json-server) · [← Back to Frontend](./README.md)</sub>

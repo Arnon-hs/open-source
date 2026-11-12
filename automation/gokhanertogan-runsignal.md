@@ -1,6 +1,6 @@
 # gokhanertogan/RunSignal
 
-[![Stars](https://img.shields.io/github/stars/gokhanertogan/RunSignal?style=flat-square&color=yellow)](https://github.com/gokhanertogan/RunSignal/stargazers) [![Forks](https://img.shields.io/github/forks/gokhanertogan/RunSignal?style=flat-square&color=blue)](https://github.com/gokhanertogan/RunSignal/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/gokhanertogan/RunSignal?style=flat-square&color=yellow)](https://github.com/gokhanertogan/RunSignal/stargazers) [![Forks](https://img.shields.io/github/forks/gokhanertogan/RunSignal?style=flat-square&color=blue)](https://github.com/gokhanertogan/RunSignal/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > Cron job & background job monitoring on OpenTelemetry: alerts as code for New Relic, Prometheus and Grafana. .NET, Go, Java, Node.js, Python, Rust.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ gokhanertogan/RunSignal：gokhanertogan/RunSignal helps remove repetitive manual
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 65/100 |
+| production | 59/100 |
+| outlook | 58/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 200/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
