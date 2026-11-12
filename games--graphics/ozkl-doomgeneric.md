@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2.2k |
-| 🍴 **Forks** | 380 |
+| 🍴 **Forks** | 381 |
 | 💻 **Language** | C |
 | 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-08 |
@@ -52,7 +52,7 @@ ozkl/doomgeneric：ozkl/doomgeneric may be useful when its README and activity m
 **Quality signals**
 
 - 2163 GitHub stars
-- 380 forks
+- 381 forks
 - updated 2026-11-08
 - primary language: C
 - 8 topics

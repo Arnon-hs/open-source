@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kajisho5/ffmpeg-skill](./kajisho5-ffmpeg-skill.md) | ⭐ 5k | Python | 89/100 |
+| 1 | [kajisho5/ffmpeg-skill](./kajisho5-ffmpeg-skill.md) | ⭐ 5.1k | Python | 89/100 |
 | 2 | [nexu-io/openmotion](./nexu-io-openmotion.md) | ⭐ 9.5k | TypeScript | 87/100 |
 | 3 | [OpenMontageInc/OpenMontage](./openmontageinc-openmontage.md) | ⭐ 79.7k | Python | 87/100 |
 | 4 | [modelscope/FunASR](./modelscope-funasr.md) | ⭐ 21k | Python | 86/100 |
@@ -203,8 +203,8 @@
 | 193 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 103 | Swift | 67/100 |
 | 194 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 226 | Python | 67/100 |
 | 195 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 307 | TypeScript | 67/100 |
-| 196 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
-| 197 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 378 | TypeScript | 67/100 |
+| 196 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 378 | TypeScript | 67/100 |
+| 197 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
 | 198 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 239 | Go | 67/100 |
 | 199 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 200 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 133 | Python | 67/100 |
@@ -227,7 +227,7 @@
 | 217 | [mishkatik/infra-billing](./mishkatik-infra-billing.md) | ⭐ 89 | TypeScript | 66/100 |
 | 218 | [tgotwig/vidmerger](./tgotwig-vidmerger.md) | ⭐ 154 | Rust | 66/100 |
 | 219 | [Agions/splicr](./agions-splicr.md) | ⭐ 410 | TypeScript | 66/100 |
-| 220 | [meizhong986/WhisperJAV](./meizhong986-whisperjav.md) | ⭐ 2.4k | Python | 66/100 |
+| 220 | [meizhong986/WhisperJAV](./meizhong986-whisperjav.md) | ⭐ 2.5k | Python | 66/100 |
 | 221 | [homelab-00/TranscriptionSuite](./homelab-00-transcriptionsuite.md) | ⭐ 810 | Python | 66/100 |
 | 222 | [pattern-ai-labs/agentcall](./pattern-ai-labs-agentcall.md) | ⭐ 191 | Python | 66/100 |
 | 223 | [bililive-go/bililive-go](./bililive-go-bililive-go.md) | ⭐ 5.8k | Go | 66/100 |

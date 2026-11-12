@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.7k |
-| 🍴 **Forks** | 424 |
+| 🍴 **Forks** | 423 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-06 |
@@ -53,8 +53,8 @@ NVlabs/sionna：NVlabs/sionna helps add AI capability without starting from a bl
 
 **Quality signals**
 
-- 1672 GitHub stars
-- 424 forks
+- 1675 GitHub stars
+- 423 forks
 - updated 2026-11-06
 - primary language: Jupyter Notebook
 - 15 topics

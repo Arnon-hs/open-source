@@ -72,7 +72,7 @@
 | 62 | [etchdroid/etchdroid](./etchdroid-etchdroid.md) | ⭐ 3.6k | Kotlin | 63/100 |
 | 63 | [zly2006/zhihu-plus-plus](./zly2006-zhihu-plus-plus.md) | ⭐ 4.5k | Kotlin | 63/100 |
 | 64 | [juliansteenbakker/flutter_secure_storage](./juliansteenbakker-flutter-secure-storage.md) | ⭐ 1.3k | C++ | 63/100 |
-| 65 | [codenameone/CodenameOne](./codenameone-codenameone.md) | ⭐ 1.9k | Java | 63/100 |
+| 65 | [codenameone/CodenameOne](./codenameone-codenameone.md) | ⭐ 2k | Java | 63/100 |
 | 66 | [appium/WebDriverAgent](./appium-webdriveragent.md) | ⭐ 2k | Objective-C | 62/100 |
 | 67 | [termux/termux-api](./termux-termux-api.md) | ⭐ 4.6k | Java | 62/100 |
 | 68 | [jhomlala/betterplayer](./jhomlala-betterplayer.md) | ⭐ 1.1k | Dart | 62/100 |
@@ -108,8 +108,8 @@
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.5k | Kotlin | 61/100 |
 | 99 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 648 | Kotlin | 61/100 |
 | 100 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 264 | Kotlin | 61/100 |
-| 101 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
-| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 956 | C++ | 61/100 |
+| 101 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 956 | C++ | 61/100 |
+| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 920 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13.1k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.7k | Kotlin | 61/100 |
@@ -198,7 +198,7 @@
 | 188 | [VishnuSanal/WhatsAppCleaner](./vishnusanal-whatsappcleaner.md) | ⭐ 356 | Kotlin | 58/100 |
 | 189 | [KaringX/clashmi](./karingx-clashmi.md) | ⭐ 10.4k | Dart | 58/100 |
 | 190 | [BelledonneCommunications/linphone-android](./belledonnecommunications-linphone-android.md) | ⭐ 1.3k | Kotlin | 58/100 |
-| 191 | [MMRLApp/MMRL](./mmrlapp-mmrl.md) | ⭐ 2.2k | Kotlin | 58/100 |
+| 191 | [MMRLApp/MMRL](./mmrlapp-mmrl.md) | ⭐ 2.3k | Kotlin | 58/100 |
 | 192 | [DP-Hridayan/aShellYou](./dp-hridayan-ashellyou.md) | ⭐ 2.6k | Kotlin | 58/100 |
 | 193 | [f-io/LIVI](./f-io-livi.md) | ⭐ 1.1k | TypeScript | 58/100 |
 | 194 | [media-kit/media-kit](./media-kit-media-kit.md) | ⭐ 1.9k | Dart | 58/100 |
@@ -208,7 +208,7 @@
 | 198 | [opengisch/QField](./opengisch-qfield.md) | ⭐ 1.4k | C++ | 58/100 |
 | 199 | [nekomangaorg/Neko](./nekomangaorg-neko.md) | ⭐ 2.8k | Kotlin | 58/100 |
 | 200 | [claration/Impactor](./claration-impactor.md) | ⭐ 3.8k | Rust | 58/100 |
-| 201 | [nab138/iloader](./nab138-iloader.md) | ⭐ 4.7k | TypeScript | 58/100 |
+| 201 | [nab138/iloader](./nab138-iloader.md) | ⭐ 4.8k | TypeScript | 58/100 |
 | 202 | [krvstek/uni-apks](./krvstek-uni-apks.md) | ⭐ 683 | Python | 58/100 |
 | 203 | [Radiokot/photoprism-android-client](./radiokot-photoprism-android-client.md) | ⭐ 620 | Kotlin | 58/100 |
 | 204 | [Snapchat/Valdi](./snapchat-valdi.md) | ⭐ 16.4k | C++ | 58/100 |
@@ -345,7 +345,7 @@
 | 335 | [sweetpad-dev/sweetpad](./sweetpad-dev-sweetpad.md) | ⭐ 1.9k | Rust | 54/100 |
 | 336 | [urikdev/Urik](./urikdev-urik.md) | ⭐ 414 | Kotlin | 54/100 |
 | 337 | [filedonkey/filedonkey](./filedonkey-filedonkey.md) | ⭐ 353 | C++ | 54/100 |
-| 338 | [MorpheApp/morphe-patches](./morpheapp-morphe-patches.md) | ⭐ 4.7k | Java | 54/100 |
+| 338 | [MorpheApp/morphe-patches](./morpheapp-morphe-patches.md) | ⭐ 4.8k | Java | 54/100 |
 | 339 | [localdesktop/localdesktop.github.io](./localdesktop-localdesktop.github.io.md) | ⭐ 1.7k | Rust | 54/100 |
 | 340 | [Tencent-TDS/KuiklyUI](./tencent-tds-kuiklyui.md) | ⭐ 3.6k | Kotlin | 54/100 |
 | 341 | [dibyapp/pc-to-iphone-share](./dibyapp-pc-to-iphone-share.md) | ⭐ 1 | Python | 53/100 |
@@ -553,7 +553,7 @@
 | 543 | [Aniruddhashirke/TerraQuest](./aniruddhashirke-terraquest.md) | ⭐ — | TypeScript | 42/100 |
 | 544 | [Ninnix/lokey](./ninnix-lokey.md) | ⭐ — | — | 41/100 |
 | 545 | [bsidio/OpenVaccum](./bsidio-openvaccum.md) | ⭐ — | — | 41/100 |
-| 546 | [kbr-/kotlean](./kbr--kotlean.md) | ⭐ — | — | 41/100 |
+| 546 | [kbr-/kotlean](./kbr--kotlean.md) | ⭐ 1 | — | 41/100 |
 | 547 | [kolbicz/WQFiles](./kolbicz-wqfiles.md) | ⭐ 594 | — | 41/100 |
 | 548 | [pounceandmiss/tkabber-demo](./pounceandmiss-tkabber-demo.md) | ⭐ 1 | — | 41/100 |
 | 549 | [LuKks/webrtc-runtime](./lukks-webrtc-runtime.md) | ⭐ 1 | — | 41/100 |
@@ -690,8 +690,8 @@
 | 680 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 681 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ 12 | — | 38/100 |
 | 682 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 683 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
-| 684 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
+| 683 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
+| 684 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
 | 685 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ 1 | — | 38/100 |
 | 686 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ 18 | — | 38/100 |
 | 687 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ 580 | — | 38/100 |
