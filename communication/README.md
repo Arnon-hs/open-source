@@ -266,7 +266,7 @@
 | 256 | [iktakahiro/calendarpit](./iktakahiro-calendarpit.md) | ⭐ 12 | — | 51/100 |
 | 257 | [Kandeepasundaram/Grit](./kandeepasundaram-grit.md) | ⭐ 1 | Python | 51/100 |
 | 258 | [cyrusimap/cyrus-imapd](./cyrusimap-cyrus-imapd.md) | ⭐ 653 | C | 51/100 |
-| 259 | [copilotKit/channels-sdk](./copilotkit-channels-sdk.md) | ⭐ 952 | — | 51/100 |
+| 259 | [copilotKit/channels-sdk](./copilotkit-channels-sdk.md) | ⭐ 953 | — | 51/100 |
 | 260 | [roehling/postsrsd](./roehling-postsrsd.md) | ⭐ 366 | C | 51/100 |
 | 261 | [SlimeBoyOwO/LingChat](./slimeboyowo-lingchat.md) | ⭐ 2.5k | Rust | 51/100 |
 | 262 | [themadorg/madmail](./themadorg-madmail.md) | ⭐ 209 | Rust | 51/100 |
@@ -459,7 +459,7 @@
 | 449 | [Fake4d/claude-school](./fake4d-claude-school.md) | ⭐ 2 | — | 38/100 |
 | 450 | [Nellix/sonic-chat](./nellix-sonic-chat.md) | ⭐ 5 | — | 38/100 |
 | 451 | [Tonterias/h2aichat](./tonterias-h2aichat.md) | ⭐ 4 | — | 38/100 |
-| 452 | [chddaniel/chatpack](./chddaniel-chatpack.md) | ⭐ 226 | — | 38/100 |
+| 452 | [chddaniel/chatpack](./chddaniel-chatpack.md) | ⭐ 225 | — | 38/100 |
 | 453 | [EvanZhouDev/calendar-tetris](./evanzhoudev-calendar-tetris.md) | ⭐ 5 | — | 38/100 |
 | 454 | [bctnry/OpenSyzygy](./bctnry-opensyzygy.md) | ⭐ 1 | — | 38/100 |
 | 455 | [Emn4tor/Seal](./emn4tor-seal.md) | ⭐ 17 | — | 38/100 |

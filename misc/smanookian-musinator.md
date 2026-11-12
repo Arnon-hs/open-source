@@ -1,6 +1,6 @@
 # smanookian/musinator
 
-[![Stars](https://img.shields.io/github/stars/smanookian/musinator?style=flat-square&color=yellow)](https://github.com/smanookian/musinator/stargazers) [![Forks](https://img.shields.io/github/forks/smanookian/musinator?style=flat-square&color=blue)](https://github.com/smanookian/musinator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/smanookian/musinator?style=flat-square&color=yellow)](https://github.com/smanookian/musinator/stargazers) [![Forks](https://img.shields.io/github/forks/smanookian/musinator?style=flat-square&color=blue)](https://github.com/smanookian/musinator/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
 
 > A modern music player for the terminal: album covers, synced lyrics, 22 themes, radio, podcasts, Navidrome/Jellyfin. Linux/Omarchy.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 47/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -51,7 +51,7 @@ smanookian/musinator：smanookian/musinator may be useful when its README and ac
 
 **Quality signals**
 
-- 1 GitHub stars
+- 5 GitHub stars
 - updated 2026-11-11
 - primary language: Rust
 - 10 topics
@@ -63,13 +63,13 @@ smanookian/musinator：smanookian/musinator may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 56/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 62/100 |
-| adoption | 5/100 |
+| production | 63/100 |
+| outlook | 63/100 |
+| adoption | 12/100 |
 | categoryMatchCount | 0/100 |
-| stars | 6/100 |
+| stars | 17/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |

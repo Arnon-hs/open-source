@@ -296,7 +296,7 @@
 | 286 | [dotcmdhq/dotcmd](./dotcmdhq-dotcmd.md) | ⭐ 4 | — | 45/100 |
 | 287 | [cssllcio/typeclip](./cssllcio-typeclip.md) | ⭐ 2 | — | 45/100 |
 | 288 | [xvertile/SwiftPaste](./xvertile-swiftpaste.md) | ⭐ 5 | — | 45/100 |
-| 289 | [Deepender25/Edge-Drop](./deepender25-edge-drop.md) | ⭐ 785 | — | 45/100 |
+| 289 | [Deepender25/Edge-Drop](./deepender25-edge-drop.md) | ⭐ 787 | — | 45/100 |
 | 290 | [slaveofcode/goodwebtools](./slaveofcode-goodwebtools.md) | ⭐ 12 | — | 45/100 |
 | 291 | [HexCodeYT/PlainLink](./hexcodeyt-plainlink.md) | ⭐ 7 | — | 45/100 |
 | 292 | [willmeyers/coypa](./willmeyers-coypa.md) | ⭐ 4 | — | 45/100 |
@@ -325,14 +325,14 @@
 | 315 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
 | 316 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 317 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ — | — | 41/100 |
-| 318 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ — | — | 41/100 |
-| 319 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
+| 318 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
+| 319 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ — | — | 41/100 |
 | 320 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 1 | — | 41/100 |
 | 321 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 1 | — | 41/100 |
 | 322 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ — | — | 41/100 |
 | 323 | [1-apex/screen-draw](./1-apex-screen-draw.md) | ⭐ — | — | 41/100 |
 | 324 | [demirelo/nib](./demirelo-nib.md) | ⭐ — | — | 41/100 |
-| 325 | [zdying/true-date-extension](./zdying-true-date-extension.md) | ⭐ 1 | — | 41/100 |
+| 325 | [zdying/true-date-extension](./zdying-true-date-extension.md) | ⭐ 2 | — | 41/100 |
 | 326 | [dev-kleo/OpenHighlights](./dev-kleo-openhighlights.md) | ⭐ — | — | 41/100 |
 | 327 | [TinkeringDao/satori](./tinkeringdao-satori.md) | ⭐ 7 | — | 41/100 |
 | 328 | [code-Baruch/noleon-releases](./code-baruch-noleon-releases.md) | ⭐ 1 | — | 41/100 |
@@ -366,7 +366,7 @@
 | 356 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |
 | 357 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ 1 | — | 38/100 |
 | 358 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ 40 | — | 38/100 |
-| 359 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ 104 | — | 38/100 |
+| 359 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ 115 | — | 38/100 |
 | 360 | [github/app](./github-app.md) | ⭐ 2.3k | — | 38/100 |
 | 361 | [maitriii08/FlowOutside](./maitriii08-flowoutside.md) | ⭐ 1 | HTML | 37/100 |
 | 362 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |

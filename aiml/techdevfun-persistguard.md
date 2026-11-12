@@ -1,6 +1,6 @@
 # techdevfun/persistguard
 
-[![Stars](https://img.shields.io/github/stars/techdevfun/persistguard?style=flat-square&color=yellow)](https://github.com/techdevfun/persistguard/stargazers) [![Forks](https://img.shields.io/github/forks/techdevfun/persistguard?style=flat-square&color=blue)](https://github.com/techdevfun/persistguard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/techdevfun/persistguard?style=flat-square&color=yellow)](https://github.com/techdevfun/persistguard/stargazers) [![Forks](https://img.shields.io/github/forks/techdevfun/persistguard?style=flat-square&color=blue)](https://github.com/techdevfun/persistguard/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Guard the agent's persisted approvals: scan Claude Code settings files for secrets saved inside allow rules, check git history, redact them, and install a pre-commit gate.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ techdevfun/persistguard：techdevfun/persistguard helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 45/100 |
+| quality | 40/100 |
 | integration | 62/100 |
-| production | 63/100 |
-| outlook | 63/100 |
+| production | 56/100 |
+| outlook | 56/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

@@ -1,6 +1,6 @@
 # Dimoncelli/cold-jury
 
-[![Stars](https://img.shields.io/github/stars/Dimoncelli/cold-jury?style=flat-square&color=yellow)](https://github.com/Dimoncelli/cold-jury/stargazers) [![Forks](https://img.shields.io/github/forks/Dimoncelli/cold-jury?style=flat-square&color=blue)](https://github.com/Dimoncelli/cold-jury/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Dimoncelli/cold-jury?style=flat-square&color=yellow)](https://github.com/Dimoncelli/cold-jury/stargazers) [![Forks](https://img.shields.io/github/forks/Dimoncelli/cold-jury?style=flat-square&color=blue)](https://github.com/Dimoncelli/cold-jury/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Cross-CLI hostile code review (Claude, Codex, Gemini, OpenCode, Ollama). Zero-context sterile room, pre-flight secret shield, deterministic PASS/BLOCK gate. Zero dependencies.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-08 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ Dimoncelli/cold-jury：Dimoncelli/cold-jury helps catch security and privacy iss
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-08
 - primary language: JavaScript
 - 12 topics
@@ -64,13 +65,13 @@ Dimoncelli/cold-jury：Dimoncelli/cold-jury helps catch security and privacy iss
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 45/100 |
+| quality | 48/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 60/100 |
-| adoption | 0/100 |
+| production | 57/100 |
+| outlook | 61/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 200/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

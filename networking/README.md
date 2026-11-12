@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 783 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 565 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
-| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.4k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -550,7 +550,7 @@
 | 540 | [red-orbita/bulwark-gateway](./red-orbita-bulwark-gateway.md) | ⭐ 8 | — | 46/100 |
 | 541 | [libp2p/py-libp2p](./libp2p-py-libp2p.md) | ⭐ 629 | — | 46/100 |
 | 542 | [valnesfjord/tg-ws-proxy-rs](./valnesfjord-tg-ws-proxy-rs.md) | ⭐ 294 | Rust | 46/100 |
-| 543 | [crp4222/PrivAiTe](./crp4222-privaite.md) | ⭐ 64 | — | 46/100 |
+| 543 | [crp4222/PrivAiTe](./crp4222-privaite.md) | ⭐ 65 | — | 46/100 |
 | 544 | [YoulianBoshi/vpn](./youlianboshi-vpn.md) | ⭐ 5.5k | — | 46/100 |
 | 545 | [qr243vbi/nekobox](./qr243vbi-nekobox.md) | ⭐ 1.5k | C++ | 46/100 |
 | 546 | [davidmhewitt/torrential](./davidmhewitt-torrential.md) | ⭐ 142 | Rust | 46/100 |
@@ -616,7 +616,7 @@
 | 606 | [franciscocarloserra/p2p-call](./franciscocarloserra-p2p-call.md) | ⭐ 2 | — | 41/100 |
 | 607 | [legostin/wirepane](./legostin-wirepane.md) | ⭐ 4 | — | 41/100 |
 | 608 | [Rewsr/unawesome-ai-fabric-engineering](./rewsr-unawesome-ai-fabric-engineering.md) | ⭐ 41 | — | 41/100 |
-| 609 | [divinelabio/Aegis](./divinelabio-aegis.md) | ⭐ 48 | — | 41/100 |
+| 609 | [divinelabio/Aegis](./divinelabio-aegis.md) | ⭐ 49 | — | 41/100 |
 | 610 | [jcubic/mitty](./jcubic-mitty.md) | ⭐ 5 | — | 41/100 |
 | 611 | [xuoxod/propylea](./xuoxod-propylea.md) | ⭐ — | — | 41/100 |
 | 612 | [brofranks/headwire](./brofranks-headwire.md) | ⭐ 3 | — | 41/100 |

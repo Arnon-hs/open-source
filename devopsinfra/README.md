@@ -426,7 +426,7 @@
 | 416 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 398 | Go | 46/100 |
 | 417 | [docker-library/repo-info](./docker-library-repo-info.md) | ⭐ 612 | Perl | 46/100 |
 | 418 | [signadot/hotrod](./signadot-hotrod.md) | ⭐ 23 | Go | 46/100 |
-| 419 | [docker/sandbox-kit-spec](./docker-sandbox-kit-spec.md) | ⭐ 185 | — | 45/100 |
+| 419 | [docker/sandbox-kit-spec](./docker-sandbox-kit-spec.md) | ⭐ 190 | — | 45/100 |
 | 420 | [tara-vision/taracode](./tara-vision-taracode.md) | ⭐ 51 | — | 45/100 |
 | 421 | [boundflow/charter](./boundflow-charter.md) | ⭐ 17 | — | 45/100 |
 | 422 | [egma-ai/egma](./egma-ai-egma.md) | ⭐ 147 | — | 45/100 |
@@ -537,7 +537,7 @@
 | 527 | [IceWhaleTech/CasaOS](./icewhaletech-casaos.md) | ⭐ 37.6k | — | 41/100 |
 | 528 | [Elpulgo/polysbx](./elpulgo-polysbx.md) | ⭐ 2 | — | 41/100 |
 | 529 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ 3 | — | 41/100 |
-| 530 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ 792 | — | 41/100 |
+| 530 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ 793 | — | 41/100 |
 | 531 | [kubernetes/community](./kubernetes-community.md) | ⭐ 13.1k | — | 40/100 |
 | 532 | [The-DevOps-Daily/soc2-evidence-collector](./the-devops-daily-soc2-evidence-collector.md) | ⭐ — | — | 39/100 |
 | 533 | [reachdiff/reachdiff](./reachdiff-reachdiff.md) | ⭐ — | Python | 39/100 |
@@ -558,7 +558,7 @@
 | 548 | [davidecampora/Omnibaas](./davidecampora-omnibaas.md) | ⭐ 1 | — | 38/100 |
 | 549 | [omarismail/terraform-plan-tui](./omarismail-terraform-plan-tui.md) | ⭐ 121 | — | 38/100 |
 | 550 | [ilyesarf/straw](./ilyesarf-straw.md) | ⭐ — | — | 38/100 |
-| 551 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ 37 | — | 38/100 |
+| 551 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ 38 | — | 38/100 |
 | 552 | [ArmorerLabs/Armorer](./armorerlabs-armorer.md) | ⭐ — | — | 36/100 |
 | 553 | [jaequery/dockerhoster](./jaequery-dockerhoster.md) | ⭐ — | Shell | 30/100 |
 

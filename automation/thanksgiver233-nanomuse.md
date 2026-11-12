@@ -1,6 +1,6 @@
 # Thanksgiver233/nanoMuse
 
-[![Stars](https://img.shields.io/github/stars/Thanksgiver233/nanoMuse?style=flat-square&color=yellow)](https://github.com/Thanksgiver233/nanoMuse/stargazers) [![Forks](https://img.shields.io/github/forks/Thanksgiver233/nanoMuse?style=flat-square&color=blue)](https://github.com/Thanksgiver233/nanoMuse/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Thanksgiver233/nanoMuse?style=flat-square&color=yellow)](https://github.com/Thanksgiver233/nanoMuse/stargazers) [![Forks](https://img.shields.io/github/forks/Thanksgiver233/nanoMuse?style=flat-square&color=blue)](https://github.com/Thanksgiver233/nanoMuse/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ Thanksgiver233/nanoMuse：Thanksgiver233/nanoMuse helps remove repetitive manual
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 69/100 |
+| production | 57/100 |
+| outlook | 62/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 300/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -341,8 +341,8 @@
 | 331 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 332 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 333 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 334 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
-| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 334 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
 | 336 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 337 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 338 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -491,8 +491,8 @@
 | 481 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 447 | Go | 52/100 |
 | 482 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 483 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 486 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 62 | Python | 51/100 |
 | 487 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 490 | Jupyter Notebook | 51/100 |
 | 488 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
@@ -510,8 +510,8 @@
 | 500 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 362 | Rust | 50/100 |
 | 501 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 138 | Rust | 50/100 |
 | 502 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 366 | Java | 50/100 |
-| 503 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
-| 504 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 503 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 504 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
 | 505 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1.1k | Go | 50/100 |
 | 506 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 758 | Rust | 50/100 |
 | 507 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 670 | Python | 50/100 |
@@ -587,7 +587,7 @@
 | 577 | [genbs/reactive-leds](./genbs-reactive-leds.md) | ⭐ 13 | — | 41/100 |
 | 578 | [Whospr/Whospair](./whospr-whospair.md) | ⭐ 1 | — | 41/100 |
 | 579 | [Annora998/Wardkey](./annora998-wardkey.md) | ⭐ — | — | 41/100 |
-| 580 | [dev2ex/twig](./dev2ex-twig.md) | ⭐ 131 | — | 41/100 |
+| 580 | [dev2ex/twig](./dev2ex-twig.md) | ⭐ 132 | — | 41/100 |
 | 581 | [ioflux-org/armite](./ioflux-org-armite.md) | ⭐ 9 | — | 41/100 |
 | 582 | [arabo11/zombiecost](./arabo11-zombiecost.md) | ⭐ 1 | — | 41/100 |
 | 583 | [omerfeyzioglu/glider](./omerfeyzioglu-glider.md) | ⭐ 6 | — | 41/100 |
@@ -603,7 +603,7 @@
 | 593 | [sbalmt/ez4](./sbalmt-ez4.md) | ⭐ 11 | — | 41/100 |
 | 594 | [HQarroum/laymbda](./hqarroum-laymbda.md) | ⭐ 7 | — | 41/100 |
 | 595 | [NetGadz/NodeX](./netgadz-nodex.md) | ⭐ 4 | — | 41/100 |
-| 596 | [dashersw/coyopedal](./dashersw-coyopedal.md) | ⭐ 297 | — | 41/100 |
+| 596 | [dashersw/coyopedal](./dashersw-coyopedal.md) | ⭐ 298 | — | 41/100 |
 | 597 | [seacloud-lab/seasearch](./seacloud-lab-seasearch.md) | ⭐ 35 | — | 41/100 |
 | 598 | [paguasmar/veloxml-deploy](./paguasmar-veloxml-deploy.md) | ⭐ — | — | 41/100 |
 | 599 | [archiecobbs/s3backer](./archiecobbs-s3backer.md) | ⭐ 621 | — | 41/100 |
@@ -619,7 +619,7 @@
 | 609 | [crabbuild/crab](./crabbuild-crab.md) | ⭐ 160 | — | 38/100 |
 | 610 | [fregacmols/RotaryCell](./fregacmols-rotarycell.md) | ⭐ 197 | — | 38/100 |
 | 611 | [robertpitt/git3](./robertpitt-git3.md) | ⭐ 12 | — | 38/100 |
-| 612 | [danthegoodman1/waltier](./danthegoodman1-waltier.md) | ⭐ 56 | — | 38/100 |
+| 612 | [danthegoodman1/waltier](./danthegoodman1-waltier.md) | ⭐ 58 | — | 38/100 |
 | 613 | [themew2/FreeRDP-to-Entra-Connected-Windows-Device](./themew2-freerdp-to-entra-connected-windows-device.md) | ⭐ 2 | — | 38/100 |
 | 614 | [tombaldwin/ebman](./tombaldwin-ebman.md) | ⭐ 1 | — | 38/100 |
 | 615 | [aws/dotnet-foss](./aws-dotnet-foss.md) | ⭐ 87 | — | 38/100 |

@@ -146,7 +146,7 @@
 | 136 | [yangbin1322/hongguo-player](./yangbin1322-hongguo-player.md) | ⭐ 3.5k | — | 55/100 |
 | 137 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
 | 138 | [Mr-funny/hbg-hanzi-chaizi-video](./mr-funny-hbg-hanzi-chaizi-video.md) | ⭐ 124 | TypeScript | 55/100 |
-| 139 | [artemiimillier/skill-multik](./artemiimillier-skill-multik.md) | ⭐ 21 | TypeScript | 54/100 |
+| 139 | [artemiimillier/skill-multik](./artemiimillier-skill-multik.md) | ⭐ 23 | TypeScript | 54/100 |
 | 140 | [2282199198/zuiqiang-shifu](./2282199198-zuiqiang-shifu.md) | ⭐ 17 | — | 54/100 |
 | 141 | [gxr404/gen-short-vid](./gxr404-gen-short-vid.md) | ⭐ 34 | TypeScript | 54/100 |
 | 142 | [waterbrojx/water-koubo](./waterbrojx-water-koubo.md) | ⭐ 41 | Python | 54/100 |
@@ -175,7 +175,7 @@
 | 165 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
 | 166 | [egeozcan/glasnost](./egeozcan-glasnost.md) | ⭐ 13 | — | 41/100 |
 | 167 | [RyzovaTech/Ryzova-Kernel](./ryzovatech-ryzova-kernel.md) | ⭐ 2 | — | 41/100 |
-| 168 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 34 | — | 41/100 |
+| 168 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 46 | — | 41/100 |
 | 169 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ 3 | — | 41/100 |
 | 170 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ 2 | — | 41/100 |
 | 171 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |
