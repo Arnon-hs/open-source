@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
@@ -53,7 +53,7 @@ shipkeepdev/shipkeep：shipkeepdev/shipkeep helps add AI capability without star
 
 **Quality signals**
 
-- 4 GitHub stars
+- 5 GitHub stars
 - 1 forks
 - updated 2026-11-08
 - primary language: TypeScript
@@ -66,13 +66,13 @@ shipkeepdev/shipkeep：shipkeepdev/shipkeep helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 52/100 |
 | integration | 78/100 |
 | production | 63/100 |
 | outlook | 63/100 |
-| adoption | 13/100 |
+| adoption | 14/100 |
 | categoryMatchCount | 500/100 |
-| stars | 15/100 |
+| stars | 17/100 |
 | forks | 8/100 |
 | recency | 80/100 |
 | topics | 100/100 |

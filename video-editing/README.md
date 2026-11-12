@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [kajisho5/ffmpeg-skill](./kajisho5-ffmpeg-skill.md) | ⭐ 5.1k | Python | 89/100 |
-| 2 | [nexu-io/openmotion](./nexu-io-openmotion.md) | ⭐ 9.5k | TypeScript | 87/100 |
+| 2 | [nexu-io/openmotion](./nexu-io-openmotion.md) | ⭐ 9.6k | TypeScript | 87/100 |
 | 3 | [OpenMontageInc/OpenMontage](./openmontageinc-openmontage.md) | ⭐ 79.7k | Python | 87/100 |
 | 4 | [modelscope/FunASR](./modelscope-funasr.md) | ⭐ 21k | Python | 86/100 |
 | 5 | [jdepoix/youtube-transcript-api](./jdepoix-youtube-transcript-api.md) | ⭐ 8.6k | Python | 86/100 |
@@ -191,7 +191,7 @@
 | 181 | [LockTheDuel/Adobe-Video-Toolkit-rpocket](./locktheduel-adobe-video-toolkit-rpocket.md) | ⭐ 40 | HTML | 67/100 |
 | 182 | [FateShadowfelltrack/Adobe-Video-Toolkit-rpocket](./fateshadowfelltrack-adobe-video-toolkit-rpocket.md) | ⭐ 19 | HTML | 67/100 |
 | 183 | [TurboAuroracomet51520/Adobe-Video-Toolkit-rpocket](./turboauroracomet51520-adobe-video-toolkit-rpocket.md) | ⭐ 21 | HTML | 67/100 |
-| 184 | [gmpetrov/agent-screenplay](./gmpetrov-agent-screenplay.md) | ⭐ 110 | TypeScript | 67/100 |
+| 184 | [gmpetrov/agent-screenplay](./gmpetrov-agent-screenplay.md) | ⭐ 112 | TypeScript | 67/100 |
 | 185 | [Yorghostwing/Adobe-Video-Toolkit-rpocket](./yorghostwing-adobe-video-toolkit-rpocket.md) | ⭐ 20 | HTML | 67/100 |
 | 186 | [sirioberati/YouTube-AI-Motion-Graphics](./sirioberati-youtube-ai-motion-graphics.md) | ⭐ 193 | HTML | 67/100 |
 | 187 | [derek-zhuolin/motion-skill](./derek-zhuolin-motion-skill.md) | ⭐ 127 | TypeScript | 67/100 |
@@ -514,8 +514,8 @@
 | 504 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 505 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 50 | Kotlin | 53/100 |
 | 506 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 507 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
-| 508 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 507 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 508 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
 | 509 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 510 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 523 | — | 53/100 |
 | 511 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
@@ -581,7 +581,7 @@
 | 571 | [Salesforce/blip-image-captioning-base](./salesforce-blip-image-captioning-base.md) | ⭐ 868 | transformers | 48/100 |
 | 572 | [benwbrum/fromthepage](./benwbrum-fromthepage.md) | ⭐ 187 | Ruby | 48/100 |
 | 573 | [omanshchoudhary/briareus](./omanshchoudhary-briareus.md) | ⭐ 5 | — | 47/100 |
-| 574 | [sunerpy/voltip](./sunerpy-voltip.md) | ⭐ 98 | Rust | 47/100 |
+| 574 | [sunerpy/voltip](./sunerpy-voltip.md) | ⭐ 102 | Rust | 47/100 |
 | 575 | [nirmaljosephukken/pylon-player](./nirmaljosephukken-pylon-player.md) | ⭐ 66 | Python | 47/100 |
 | 576 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 5.6k | TypeScript | 47/100 |
 | 577 | [prometheus-maker/corpusdiff](./prometheus-maker-corpusdiff.md) | ⭐ — | Python | 47/100 |

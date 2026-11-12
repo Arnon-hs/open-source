@@ -16,7 +16,7 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Data](../data/README.md) | 368 |
 | [Database](../database/README.md) | 588 |
 | [Design](../design/README.md) | 198 |
-| [DevOps/Infra](../devopsinfra/README.md) | 552 |
+| [DevOps/Infra](../devopsinfra/README.md) | 553 |
 | [DevTools](../devtools/README.md) | 1,678 |
 | [Documents](../documents/README.md) | 755 |
 | [Education](../education/README.md) | 35 |

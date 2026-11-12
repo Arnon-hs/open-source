@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 59/100 |
@@ -53,7 +53,7 @@ tia-forge/tialink：tia-forge/tialink helps connect AI assistants to real tools 
 
 **Quality signals**
 
-- 3 GitHub stars
+- 4 GitHub stars
 - updated 2026-11-03
 - primary language: JavaScript
 - 19 topics
@@ -68,10 +68,10 @@ tia-forge/tialink：tia-forge/tialink helps connect AI assistants to real tools 
 | quality | 50/100 |
 | integration | 46/100 |
 | production | 58/100 |
-| outlook | 65/100 |
-| adoption | 9/100 |
+| outlook | 66/100 |
+| adoption | 11/100 |
 | categoryMatchCount | 200/100 |
-| stars | 13/100 |
+| stars | 15/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

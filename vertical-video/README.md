@@ -118,7 +118,7 @@
 | 108 | [CharlesPikachu/videodl](./charlespikachu-videodl.md) | ⭐ 3.2k | Python | 60/100 |
 | 109 | [liuhaisi2026212-maker/taishang-laojun](./liuhaisi2026212-maker-taishang-laojun.md) | ⭐ 550 | Markdown | 59/100 |
 | 110 | [hanli1999/video-breakdown-skill](./hanli1999-video-breakdown-skill.md) | ⭐ 12 | — | 59/100 |
-| 111 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 4 | Python | 59/100 |
+| 111 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 5 | Python | 59/100 |
 | 112 | [kurbaitaev/ghost-editor](./kurbaitaev-ghost-editor.md) | ⭐ 433 | JavaScript | 59/100 |
 | 113 | [XshuiAi/media-publish-check](./xshuiai-media-publish-check.md) | ⭐ 73 | Python | 59/100 |
 | 114 | [SamurAIGPT/ai-clipping-generator](./samuraigpt-ai-clipping-generator.md) | ⭐ 117 | JavaScript | 59/100 |

@@ -1,6 +1,6 @@
 # goshtasb/OpenCouncil
 
-[![Stars](https://img.shields.io/github/stars/goshtasb/OpenCouncil?style=flat-square&color=yellow)](https://github.com/goshtasb/OpenCouncil/stargazers) [![Forks](https://img.shields.io/github/forks/goshtasb/OpenCouncil?style=flat-square&color=blue)](https://github.com/goshtasb/OpenCouncil/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/goshtasb/OpenCouncil?style=flat-square&color=yellow)](https://github.com/goshtasb/OpenCouncil/stargazers) [![Forks](https://img.shields.io/github/forks/goshtasb/OpenCouncil?style=flat-square&color=blue)](https://github.com/goshtasb/OpenCouncil/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > Three AIs argue over your spec until they agree. Then one ships it: tested, gated, as a PR. It never says done when it isn't.
 
@@ -9,9 +9,9 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1 |
-| 🍴 **Forks** | 2 |
+| 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-11-07 |
 | 🔍 **Source** | story-link |
 
@@ -54,7 +54,7 @@ goshtasb/OpenCouncil：goshtasb/OpenCouncil helps add AI capability without star
 **Quality signals**
 
 - 1 GitHub stars
-- 2 forks
+- 3 forks
 - updated 2026-11-07
 - primary language: TypeScript
 - 18 topics
@@ -70,10 +70,10 @@ goshtasb/OpenCouncil：goshtasb/OpenCouncil helps add AI capability without star
 | integration | 94/100 |
 | production | 64/100 |
 | outlook | 65/100 |
-| adoption | 8/100 |
+| adoption | 9/100 |
 | categoryMatchCount | 200/100 |
 | stars | 6/100 |
-| forks | 12/100 |
+| forks | 15/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

@@ -108,8 +108,8 @@
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.5k | Kotlin | 61/100 |
 | 99 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 648 | Kotlin | 61/100 |
 | 100 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 264 | Kotlin | 61/100 |
-| 101 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
-| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 956 | C++ | 61/100 |
+| 101 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 956 | C++ | 61/100 |
+| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 921 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13.1k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.7k | Kotlin | 61/100 |
@@ -591,7 +591,7 @@
 | 581 | [dipa-studio/ios-sweet](./dipa-studio-ios-sweet.md) | ⭐ 1.4k | — | 41/100 |
 | 582 | [rahimnathwani/sill-android](./rahimnathwani-sill-android.md) | ⭐ 5 | — | 41/100 |
 | 583 | [allexp1/app-store-kit](./allexp1-app-store-kit.md) | ⭐ 15 | — | 41/100 |
-| 584 | [abacusai/simless](./abacusai-simless.md) | ⭐ 51 | — | 41/100 |
+| 584 | [abacusai/simless](./abacusai-simless.md) | ⭐ 52 | — | 41/100 |
 | 585 | [samhenrigold/LightTouchMac](./samhenrigold-lighttouchmac.md) | ⭐ 341 | — | 41/100 |
 | 586 | [xtool-org/xtool](./xtool-org-xtool.md) | ⭐ 15.3k | — | 41/100 |
 | 587 | [lucianRME/rme-pdf-scanner](./lucianrme-rme-pdf-scanner.md) | ⭐ 8 | — | 41/100 |

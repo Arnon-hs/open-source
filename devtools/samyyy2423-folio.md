@@ -1,6 +1,6 @@
 # samyyy2423/folio
 
-[![Stars](https://img.shields.io/github/stars/samyyy2423/folio?style=flat-square&color=yellow)](https://github.com/samyyy2423/folio/stargazers) [![Forks](https://img.shields.io/github/forks/samyyy2423/folio?style=flat-square&color=blue)](https://github.com/samyyy2423/folio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/samyyy2423/folio?style=flat-square&color=yellow)](https://github.com/samyyy2423/folio/stargazers) [![Forks](https://img.shields.io/github/forks/samyyy2423/folio?style=flat-square&color=blue)](https://github.com/samyyy2423/folio/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A programming language that reads like plain English, built from scratch with no dependencies: native programs for Windows and Linux with no assembler or linker, a VM, a JIT and WebAssembly that agree, a compiler written in itself, a time-travel debugger, C libraries, every core at once, and a standard library from HTTP and SQLite to charts.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ samyyy2423/folio：samyyy2423/folio helps engineers save time in daily developme
 
 **Quality signals**
 
-- 1 GitHub stars
+- 2 GitHub stars
 - updated 2026-11-09
 - primary language: JavaScript
 - 20 topics
@@ -65,15 +65,15 @@ samyyy2423/folio：samyyy2423/folio helps engineers save time in daily developme
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 49/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 62/100 |
-| adoption | 5/100 |
+| production | 55/100 |
+| outlook | 55/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 300/100 |
-| stars | 6/100 |
+| stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

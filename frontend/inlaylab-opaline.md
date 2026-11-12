@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 44/100 |
@@ -53,7 +53,7 @@ Inlaylab/Opaline：Inlaylab/Opaline helps ship user-facing interfaces with less 
 
 **Quality signals**
 
-- 4 GitHub stars
+- 5 GitHub stars
 - updated 2026-11-06
 - primary language: TypeScript
 - 4 topics
@@ -69,9 +69,9 @@ Inlaylab/Opaline：Inlaylab/Opaline helps ship user-facing interfaces with less 
 | integration | 46/100 |
 | production | 55/100 |
 | outlook | 51/100 |
-| adoption | 11/100 |
+| adoption | 12/100 |
 | categoryMatchCount | 100/100 |
-| stars | 15/100 |
+| stars | 17/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 50/100 |

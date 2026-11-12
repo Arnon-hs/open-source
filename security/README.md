@@ -296,7 +296,7 @@
 | 286 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 49/100 |
 | 287 | [asgardeo/thunder](./asgardeo-thunder.md) | ⭐ 165 | Go | 49/100 |
 | 288 | [Srinivas26k/Hekara](./srinivas26k-hekara.md) | ⭐ 1 | TypeScript | 49/100 |
-| 289 | [qybaihe/bla](./qybaihe-bla.md) | ⭐ — | — | 48/100 |
+| 289 | [qybaihe/bla](./qybaihe-bla.md) | ⭐ 5.4k | — | 48/100 |
 | 290 | [mateasmario/keystore](./mateasmario-keystore.md) | ⭐ 1 | — | 48/100 |
 | 291 | [ashvolt/replayguard](./ashvolt-replayguard.md) | ⭐ 1 | — | 48/100 |
 | 292 | [y6861977-ui/jetscan](./y6861977-ui-jetscan.md) | ⭐ 4 | — | 48/100 |
@@ -380,8 +380,8 @@
 | 370 | [ppeccin/WebMSX](./ppeccin-webmsx.md) | ⭐ 485 | HTML | 43/100 |
 | 371 | [prathamanvekar/secure-llm-proxy](./prathamanvekar-secure-llm-proxy.md) | ⭐ — | Jupyter Notebook | 43/100 |
 | 372 | [marcosblg/certscope](./marcosblg-certscope.md) | ⭐ 9 | HTML | 42/100 |
-| 373 | [taha-rafi/php-zkteco](./taha-rafi-php-zkteco.md) | ⭐ 5 | PHP | 42/100 |
-| 374 | [secfoo-com/secfoo](./secfoo-com-secfoo.md) | ⭐ 172 | Python | 42/100 |
+| 373 | [taha-rafi/php-zkteco](./taha-rafi-php-zkteco.md) | ⭐ 6 | PHP | 42/100 |
+| 374 | [secfoo-com/secfoo](./secfoo-com-secfoo.md) | ⭐ 224 | Python | 42/100 |
 | 375 | [JackerArchitect/hide-login-secure](./jackerarchitect-hide-login-secure.md) | ⭐ — | PHP | 42/100 |
 | 376 | [ProofCore-Protocol/proofcore-action](./proofcore-protocol-proofcore-action.md) | ⭐ 3 | — | 42/100 |
 | 377 | [AndrewSispoidis/contemporary-agent-attacks](./andrewsispoidis-contemporary-agent-attacks.md) | ⭐ 4 | — | 42/100 |
@@ -401,8 +401,8 @@
 | 391 | [aws/credential-daemon](./aws-credential-daemon.md) | ⭐ 5 | — | 41/100 |
 | 392 | [humanethq/sandbox-check](./humanethq-sandbox-check.md) | ⭐ — | — | 41/100 |
 | 393 | [notaharness/beam](./notaharness-beam.md) | ⭐ — | — | 41/100 |
-| 394 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
-| 395 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
+| 394 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
+| 395 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
 | 396 | [spapas/totpvault](./spapas-totpvault.md) | ⭐ — | — | 41/100 |
 | 397 | [movray/meles](./movray-meles.md) | ⭐ 2 | — | 41/100 |
 | 398 | [forcequitOS/worse_query](./forcequitos-worse-query.md) | ⭐ 531 | — | 41/100 |
@@ -514,8 +514,8 @@
 | 504 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 167 | Rust | 38/100 |
 | 505 | [SertaCanbey/IDSignal](./sertacanbey-idsignal.md) | ⭐ 1 | JavaScript | 37/100 |
 | 506 | [TemujinCalidius/FediHome](./temujincalidius-fedihome.md) | ⭐ 10 | — | 37/100 |
-| 507 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
-| 508 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 507 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
+| 508 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
 | 509 | [jaredhanson/passport](./jaredhanson-passport.md) | ⭐ 23.5k | — | 37/100 |
 | 510 | [wrium/password-strength](./wrium-password-strength.md) | ⭐ — | JavaScript | 37/100 |
 | 511 | [IWEBai/railo-action](./iwebai-railo-action.md) | ⭐ — | — | 36/100 |
