@@ -313,8 +313,8 @@
 | 303 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 304 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 305 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
-| 307 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 307 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
 | 308 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 309 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 310 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |
@@ -327,14 +327,14 @@
 | 317 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ — | — | 41/100 |
 | 318 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ — | — | 41/100 |
 | 319 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
-| 320 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 1 | — | 41/100 |
+| 320 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 2 | — | 41/100 |
 | 321 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 322 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 2 | — | 41/100 |
 | 323 | [1-apex/screen-draw](./1-apex-screen-draw.md) | ⭐ — | — | 41/100 |
 | 324 | [demirelo/nib](./demirelo-nib.md) | ⭐ 2 | — | 41/100 |
 | 325 | [zdying/true-date-extension](./zdying-true-date-extension.md) | ⭐ 2 | — | 41/100 |
 | 326 | [dev-kleo/OpenHighlights](./dev-kleo-openhighlights.md) | ⭐ — | — | 41/100 |
-| 327 | [TinkeringDao/satori](./tinkeringdao-satori.md) | ⭐ 7 | — | 41/100 |
+| 327 | [TinkeringDao/satori](./tinkeringdao-satori.md) | ⭐ 9 | — | 41/100 |
 | 328 | [code-Baruch/noleon-releases](./code-baruch-noleon-releases.md) | ⭐ 1 | — | 41/100 |
 | 329 | [Ludvig2457Ultra/SuperLauncherMC](./ludvig2457ultra-superlaunchermc.md) | ⭐ 3 | — | 41/100 |
 | 330 | [MotherSphere/d6c049a09ba8ac3085c51ee9df24a4e5](./mothersphere-d6c049a09ba8ac3085c51ee9df24a4e5.md) | ⭐ — | — | 41/100 |

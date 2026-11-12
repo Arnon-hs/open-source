@@ -166,7 +166,7 @@
 | 156 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
 | 157 | [eon-io/era](./eon-io-era.md) | ⭐ 8 | — | 41/100 |
 | 158 | [twobitapps/nvidia-headlines-ethics-2026](./twobitapps-nvidia-headlines-ethics-2026.md) | ⭐ — | — | 41/100 |
-| 159 | [peterhudson/timegrapher](./peterhudson-timegrapher.md) | ⭐ 21 | — | 41/100 |
+| 159 | [peterhudson/timegrapher](./peterhudson-timegrapher.md) | ⭐ 23 | — | 41/100 |
 | 160 | [occiderunt/netstudy-mac](./occiderunt-netstudy-mac.md) | ⭐ — | — | 41/100 |
 | 161 | [maths-oliveira/blabla-meter](./maths-oliveira-blabla-meter.md) | ⭐ — | — | 41/100 |
 | 162 | [worldlabsai/atlas-camera-studio](./worldlabsai-atlas-camera-studio.md) | ⭐ 72 | — | 41/100 |
@@ -182,8 +182,8 @@
 | 172 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 173 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 174 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 175 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
-| 176 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 175 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 176 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
 | 177 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 178 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 

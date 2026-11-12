@@ -224,8 +224,8 @@
 | 214 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 360 | Java | 53/100 |
 | 215 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 581 | Nix | 53/100 |
 | 216 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 452 | TypeScript | 53/100 |
-| 217 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
-| 218 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
+| 217 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
+| 218 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
 | 219 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 220 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 596 | C | 53/100 |
 | 221 | [tkhq/qos](./tkhq-qos.md) | ⭐ 125 | Rust | 53/100 |
@@ -273,9 +273,9 @@
 | 263 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 439 | HTML | 50/100 |
 | 264 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 265 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
-| 266 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
-| 267 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 268 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 266 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 267 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 268 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
 | 269 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 270 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 530 | JavaScript | 50/100 |
 | 271 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.2k | TypeScript | 50/100 |
@@ -401,8 +401,8 @@
 | 391 | [aws/credential-daemon](./aws-credential-daemon.md) | ⭐ 5 | — | 41/100 |
 | 392 | [humanethq/sandbox-check](./humanethq-sandbox-check.md) | ⭐ — | — | 41/100 |
 | 393 | [notaharness/beam](./notaharness-beam.md) | ⭐ 8 | — | 41/100 |
-| 394 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
-| 395 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
+| 394 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
+| 395 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
 | 396 | [spapas/totpvault](./spapas-totpvault.md) | ⭐ — | — | 41/100 |
 | 397 | [movray/meles](./movray-meles.md) | ⭐ 3 | — | 41/100 |
 | 398 | [forcequitOS/worse_query](./forcequitos-worse-query.md) | ⭐ 584 | — | 41/100 |
@@ -481,8 +481,8 @@
 | 471 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 38/100 |
 | 472 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ 1.6k | — | 38/100 |
 | 473 | [openai/codex-security](./openai-codex-security.md) | ⭐ 12.2k | — | 38/100 |
-| 474 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
-| 475 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 474 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 475 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
 | 476 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
 | 477 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ 415 | — | 38/100 |
 | 478 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |

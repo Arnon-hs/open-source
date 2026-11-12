@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 783 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 565 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
-| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
+| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
+| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.4k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -582,8 +582,8 @@
 | 572 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 573 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 653 | — | 45/100 |
 | 574 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
-| 576 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 576 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
 | 577 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 578 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 579 | [hoysengleang/wslog](./hoysengleang-wslog.md) | ⭐ 1 | TypeScript | 43/100 |

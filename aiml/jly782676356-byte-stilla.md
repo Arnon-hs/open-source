@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
 | 📈 **Score** | 46/100 |
@@ -53,7 +53,7 @@ jly782676356-byte/Stilla：jly782676356-byte/Stilla helps add AI capability with
 
 **Quality signals**
 
-- 3 GitHub stars
+- 4 GitHub stars
 - updated 2026-11-11
 - primary language: C#
 - 8 topics
@@ -69,9 +69,9 @@ jly782676356-byte/Stilla：jly782676356-byte/Stilla helps add AI capability with
 | integration | 30/100 |
 | production | 62/100 |
 | outlook | 63/100 |
-| adoption | 9/100 |
+| adoption | 11/100 |
 | categoryMatchCount | 200/100 |
-| stars | 13/100 |
+| stars | 15/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |
