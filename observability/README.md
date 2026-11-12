@@ -85,7 +85,7 @@
 | 75 | [HugoRCD/evlog](./hugorcd-evlog.md) | ⭐ 1.6k | TypeScript | 63/100 |
 | 76 | [jez500/pricebuddy](./jez500-pricebuddy.md) | ⭐ 1.5k | PHP | 63/100 |
 | 77 | [Microsoft365DSC/Microsoft365DSC](./microsoft365dsc-microsoft365dsc.md) | ⭐ 2.5k | PowerShell | 63/100 |
-| 78 | [jgyates/genmon](./jgyates-genmon.md) | ⭐ 571 | Python | 63/100 |
+| 78 | [jgyates/genmon](./jgyates-genmon.md) | ⭐ 572 | Python | 63/100 |
 | 79 | [weiesky/cc-viewer](./weiesky-cc-viewer.md) | ⭐ 1.1k | JavaScript | 63/100 |
 | 80 | [PLFJY/ContextMenuMgr](./plfjy-contextmenumgr.md) | ⭐ 3.7k | C# | 63/100 |
 | 81 | [stakater/application](./stakater-application.md) | ⭐ 397 | Mustache | 63/100 |
@@ -146,7 +146,7 @@
 | 136 | [mk-runner/Awesome-Radiology-Report-Generation](./mk-runner-awesome-radiology-report-generation.md) | ⭐ 500 | — | 57/100 |
 | 137 | [aelassas/servy](./aelassas-servy.md) | ⭐ 2.1k | C# | 57/100 |
 | 138 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 57/100 |
-| 139 | [simple10/agents-observe](./simple10-agents-observe.md) | ⭐ 716 | TypeScript | 57/100 |
+| 139 | [simple10/agents-observe](./simple10-agents-observe.md) | ⭐ 717 | TypeScript | 57/100 |
 | 140 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 601 | Python | 57/100 |
 | 141 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 5k | TypeScript | 57/100 |
 | 142 | [jaegertracing/jaeger](./jaegertracing-jaeger.md) | ⭐ 23.4k | Go | 57/100 |
@@ -172,12 +172,12 @@
 | 162 | [MapleTechLabs/maple](./mapletechlabs-maple.md) | ⭐ 2k | TypeScript | 55/100 |
 | 163 | [abrignoni/ALEAPP](./abrignoni-aleapp.md) | ⭐ 1k | Python | 55/100 |
 | 164 | [abrignoni/iLEAPP](./abrignoni-ileapp.md) | ⭐ 1.4k | Python | 55/100 |
-| 165 | [open-telemetry/opentelemetry-collector-releases](./open-telemetry-opentelemetry-collector-releases.md) | ⭐ 524 | Go | 55/100 |
+| 165 | [open-telemetry/opentelemetry-collector-releases](./open-telemetry-opentelemetry-collector-releases.md) | ⭐ 525 | Go | 55/100 |
 | 166 | [ymtdzzz/otel-tui](./ymtdzzz-otel-tui.md) | ⭐ 1.1k | Go | 55/100 |
 | 167 | [carverauto/serviceradar](./carverauto-serviceradar.md) | ⭐ 933 | JavaScript | 55/100 |
 | 168 | [openbkn-ai/bkn-foundry](./openbkn-ai-bkn-foundry.md) | ⭐ 1.3k | Go | 54/100 |
 | 169 | [overcheck/overcheck](./overcheck-overcheck.md) | ⭐ 1 | — | 54/100 |
-| 170 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 587 | Python | 54/100 |
+| 170 | [prometheus-community/ansible](./prometheus-community-ansible.md) | ⭐ 588 | Python | 54/100 |
 | 171 | [vince-lam/awesome-local-llms](./vince-lam-awesome-local-llms.md) | ⭐ 813 | Python | 54/100 |
 | 172 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 54/100 |
 | 173 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.7k | Java | 54/100 |
@@ -228,7 +228,7 @@
 | 218 | [tallyhook/tallyhook-collector](./tallyhook-tallyhook-collector.md) | ⭐ 1 | — | 48/100 |
 | 219 | [poonesnerfect/jlf](./poonesnerfect-jlf.md) | ⭐ 34 | — | 48/100 |
 | 220 | [el10savio/obsIngest](./el10savio-obsingest.md) | ⭐ — | — | 48/100 |
-| 221 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 637 | C | 48/100 |
+| 221 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 639 | C | 48/100 |
 | 222 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 599 | Go | 48/100 |
 | 223 | [open-telemetry/opentelemetry-go-contrib](./open-telemetry-opentelemetry-go-contrib.md) | ⭐ 1.7k | Go | 48/100 |
 | 224 | [cloudwalk/stratus](./cloudwalk-stratus.md) | ⭐ 175 | Rust | 47/100 |

@@ -61,7 +61,7 @@
 | 51 | [phlx0/snip](./phlx0-snip.md) | ⭐ 112 | Python | 66/100 |
 | 52 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 140.9k | C | 66/100 |
 | 53 | [jaywcjlove/rightmenu-master](./jaywcjlove-rightmenu-master.md) | ⭐ 564 | Swift | 66/100 |
-| 54 | [AmineDjeghri/personal-os-setup](./aminedjeghri-personal-os-setup.md) | ⭐ 675 | Python | 66/100 |
+| 54 | [AmineDjeghri/personal-os-setup](./aminedjeghri-personal-os-setup.md) | ⭐ 677 | Python | 66/100 |
 | 55 | [espanso/espanso](./espanso-espanso.md) | ⭐ 14.8k | Rust | 66/100 |
 | 56 | [kamiyaa/joshuto](./kamiyaa-joshuto.md) | ⭐ 3.7k | Rust | 66/100 |
 | 57 | [lfnovo/open-notebook](./lfnovo-open-notebook.md) | ⭐ 41.9k | TypeScript | 66/100 |
@@ -106,7 +106,7 @@
 | 96 | [Vortrix5/sifty](./vortrix5-sifty.md) | ⭐ 126 | Python | 62/100 |
 | 97 | [ConnorSweeneyDev/.config](./connorsweeneydev-.config.md) | ⭐ 66 | Lua | 62/100 |
 | 98 | [jemishavasoya/dev-cleaner](./jemishavasoya-dev-cleaner.md) | ⭐ 359 | Shell | 62/100 |
-| 99 | [seun-novodev/android-tv-debloat-toolkit](./seun-novodev-android-tv-debloat-toolkit.md) | ⭐ 814 | Python | 62/100 |
+| 99 | [seun-novodev/android-tv-debloat-toolkit](./seun-novodev-android-tv-debloat-toolkit.md) | ⭐ 817 | Python | 62/100 |
 | 100 | [ospfranco/sol](./ospfranco-sol.md) | ⭐ 3.2k | TypeScript | 62/100 |
 | 101 | [httptoolkit/httptoolkit-desktop](./httptoolkit-httptoolkit-desktop.md) | ⭐ 741 | TypeScript | 62/100 |
 | 102 | [hywax/mafl](./hywax-mafl.md) | ⭐ 761 | TypeScript | 62/100 |
@@ -119,7 +119,7 @@
 | 109 | [doraemonkeys/WindSend](./doraemonkeys-windsend.md) | ⭐ 620 | Dart | 61/100 |
 | 110 | [volotat/Anagnorisis](./volotat-anagnorisis.md) | ⭐ 359 | Python | 61/100 |
 | 111 | [gethouston/houston](./gethouston-houston.md) | ⭐ 119 | TypeScript | 61/100 |
-| 112 | [rommapp/argosy-launcher](./rommapp-argosy-launcher.md) | ⭐ 716 | Kotlin | 60/100 |
+| 112 | [rommapp/argosy-launcher](./rommapp-argosy-launcher.md) | ⭐ 721 | Kotlin | 60/100 |
 | 113 | [gioxx/MarvellousSuspender](./gioxx-marvelloussuspender.md) | ⭐ 1.4k | JavaScript | 60/100 |
 | 114 | [cosmic-utils/clipboard-manager](./cosmic-utils-clipboard-manager.md) | ⭐ 243 | Rust | 60/100 |
 | 115 | [noahbclarkson/rgitui](./noahbclarkson-rgitui.md) | ⭐ 278 | Rust | 60/100 |
@@ -151,7 +151,7 @@
 | 141 | [scalacenter/bloop](./scalacenter-bloop.md) | ⭐ 946 | Scala | 59/100 |
 | 142 | [bug-ops/helix-trainer](./bug-ops-helix-trainer.md) | ⭐ 92 | Rust | 58/100 |
 | 143 | [HMCL-dev/HMCL](./hmcl-dev-hmcl.md) | ⭐ 11k | Java | 58/100 |
-| 144 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 801 | TypeScript | 58/100 |
+| 144 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 804 | TypeScript | 58/100 |
 | 145 | [kxxt/tracexec](./kxxt-tracexec.md) | ⭐ 449 | Rust | 58/100 |
 | 146 | [LinwoodDev/Butterfly](./linwooddev-butterfly.md) | ⭐ 2.1k | Dart | 58/100 |
 | 147 | [jenius-apps/ambie](./jenius-apps-ambie.md) | ⭐ 2.2k | C# | 58/100 |
@@ -198,7 +198,7 @@
 | 188 | [lawrencehook/remove-youtube-suggestions](./lawrencehook-remove-youtube-suggestions.md) | ⭐ 588 | JavaScript | 55/100 |
 | 189 | [vietanhdev/ThinkUtils](./vietanhdev-thinkutils.md) | ⭐ 124 | Rust | 55/100 |
 | 190 | [FreesmTeam/FreesmLauncher](./freesmteam-freesmlauncher.md) | ⭐ 931 | C++ | 55/100 |
-| 191 | [ghost-him/ZeroLaunch-rs](./ghost-him-zerolaunch-rs.md) | ⭐ 580 | Rust | 55/100 |
+| 191 | [ghost-him/ZeroLaunch-rs](./ghost-him-zerolaunch-rs.md) | ⭐ 582 | Rust | 55/100 |
 | 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 361 | Rust | 55/100 |
 | 193 | [modrinth/code](./modrinth-code.md) | ⭐ 2.5k | Rust | 55/100 |
 | 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.8k | Rust | 55/100 |
@@ -322,8 +322,8 @@
 | 312 | [y-times-y/y](./y-times-y-y.md) | ⭐ 93 | — | 42/100 |
 | 313 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 954 | Rust | 42/100 |
 | 314 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
-| 315 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
-| 316 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ — | — | 41/100 |
+| 315 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ — | — | 41/100 |
+| 316 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
 | 317 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 1 | — | 41/100 |
 | 318 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 1 | — | 41/100 |
 | 319 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ — | — | 41/100 |

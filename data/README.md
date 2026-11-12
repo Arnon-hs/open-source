@@ -246,7 +246,7 @@
 | 236 | [openhpc/ohpc](./openhpc-ohpc.md) | ⭐ 1k | C | 56/100 |
 | 237 | [tauri-apps/tauri-plugin-store](./tauri-apps-tauri-plugin-store.md) | ⭐ 312 | Rust | 55/100 |
 | 238 | [rt-bishop/Look4Sat](./rt-bishop-look4sat.md) | ⭐ 1.5k | Kotlin | 55/100 |
-| 239 | [KDE/labplot](./kde-labplot.md) | ⭐ 490 | C++ | 55/100 |
+| 239 | [KDE/labplot](./kde-labplot.md) | ⭐ 491 | C++ | 55/100 |
 | 240 | [quanteda/quanteda](./quanteda-quanteda.md) | ⭐ 895 | R | 55/100 |
 | 241 | [yegor256/micromap](./yegor256-micromap.md) | ⭐ 222 | Rust | 55/100 |
 | 242 | [delta-io/delta-sharing](./delta-io-delta-sharing.md) | ⭐ 961 | Scala | 55/100 |
@@ -269,10 +269,10 @@
 | 259 | [3DStreet/3dstreet](./3dstreet-3dstreet.md) | ⭐ 335 | JavaScript | 54/100 |
 | 260 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 714 | Rust | 54/100 |
 | 261 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 830 | JavaScript | 54/100 |
-| 262 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 575 | HTML | 54/100 |
+| 262 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 577 | HTML | 54/100 |
 | 263 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 154 | Rust | 54/100 |
 | 264 | [beava-dev/beava](./beava-dev-beava.md) | ⭐ 139 | Rust | 54/100 |
-| 265 | [rpbouman/huey](./rpbouman-huey.md) | ⭐ 635 | JavaScript | 54/100 |
+| 265 | [rpbouman/huey](./rpbouman-huey.md) | ⭐ 636 | JavaScript | 54/100 |
 | 266 | [MAZHARMIK/Interview_DS_Algo](./mazharmik-interview-ds-algo.md) | ⭐ 5.3k | C++ | 54/100 |
 | 267 | [blaylockbk/Herbie](./blaylockbk-herbie.md) | ⭐ 800 | Python | 54/100 |
 | 268 | [trinodb/trino](./trinodb-trino.md) | ⭐ 13.5k | Java | 54/100 |
@@ -311,7 +311,7 @@
 | 301 | [nohajc/anylinuxfs](./nohajc-anylinuxfs.md) | ⭐ 1.7k | Rust | 50/100 |
 | 302 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 540 | C | 50/100 |
 | 303 | [wavelog/wavelog](./wavelog-wavelog.md) | ⭐ 588 | PHP | 50/100 |
-| 304 | [linkml/linkml](./linkml-linkml.md) | ⭐ 696 | Python | 50/100 |
+| 304 | [linkml/linkml](./linkml-linkml.md) | ⭐ 700 | Python | 50/100 |
 | 305 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 653 | Rust | 50/100 |
 | 306 | [mdn/browser-compat-data](./mdn-browser-compat-data.md) | ⭐ 5.8k | JSON | 50/100 |
 | 307 | [odebo/planet-zoo-2-dataset](./odebo-planet-zoo-2-dataset.md) | ⭐ — | — | 49/100 |

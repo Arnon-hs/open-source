@@ -156,7 +156,7 @@
 | 146 | [TentacleOpera/switchboard](./tentacleopera-switchboard.md) | ⭐ 216 | TypeScript | 59/100 |
 | 147 | [shaxzodbek-uzb/pay-uz](./shaxzodbek-uzb-pay-uz.md) | ⭐ 89 | PHP | 59/100 |
 | 148 | [physics-dimension/PriceAI](./physics-dimension-priceai.md) | ⭐ 671 | TypeScript | 59/100 |
-| 149 | [PatWie/drafft-ink](./patwie-drafft-ink.md) | ⭐ 576 | Rust | 59/100 |
+| 149 | [PatWie/drafft-ink](./patwie-drafft-ink.md) | ⭐ 577 | Rust | 59/100 |
 | 150 | [PtPrashantTripathi/linkpe](./ptprashanttripathi-linkpe.md) | ⭐ 100 | HTML | 59/100 |
 | 151 | [emmanuelerogian723-alt/stew-ai](./emmanuelerogian723-alt-stew-ai.md) | ⭐ 1 | JavaScript | 58/100 |
 | 152 | [Payum/Payum](./payum-payum.md) | ⭐ 1.9k | PHP | 58/100 |
@@ -217,7 +217,7 @@
 | 207 | [Payum/PayumBundle](./payum-payumbundle.md) | ⭐ 580 | PHP | 55/100 |
 | 208 | [a-tokyo/react-native-stripe-checkout-webview](./a-tokyo-react-native-stripe-checkout-webview.md) | ⭐ 91 | JavaScript | 55/100 |
 | 209 | [zdigoo/edd-gateway-securionpay-flow](./zdigoo-edd-gateway-securionpay-flow.md) | ⭐ 114 | HTML | 55/100 |
-| 210 | [Silentely/AdBlock-Acceleration](./silentely-adblock-acceleration.md) | ⭐ 552 | Adblock Filter List | 55/100 |
+| 210 | [Silentely/AdBlock-Acceleration](./silentely-adblock-acceleration.md) | ⭐ 553 | Adblock Filter List | 55/100 |
 | 211 | [ynnoj/next-stripe](./ynnoj-next-stripe.md) | ⭐ 559 | JavaScript | 55/100 |
 | 212 | [magnussolution/magnusbilling7](./magnussolution-magnusbilling7.md) | ⭐ — | JavaScript | 55/100 |
 | 213 | [samueltuyizere/oc-go-cc](./samueltuyizere-oc-go-cc.md) | ⭐ 299 | Go | 55/100 |
@@ -228,19 +228,19 @@
 | 218 | [UllrAI/HeadShots.fun](./ullrai-headshots.fun.md) | ⭐ 128 | TypeScript | 54/100 |
 | 219 | [MhdiTaheri/V2rayCollector](./mhditaheri-v2raycollector.md) | ⭐ 324 | PHP | 54/100 |
 | 220 | [NoopApp/noop](./noopapp-noop.md) | ⭐ 2.1k | Swift | 54/100 |
-| 221 | [xiaoji235/airport-free](./xiaoji235-airport-free.md) | ⭐ 556 | Python | 54/100 |
+| 221 | [xiaoji235/airport-free](./xiaoji235-airport-free.md) | ⭐ 555 | Python | 54/100 |
 | 222 | [billabear/billabear](./billabear-billabear.md) | ⭐ 761 | PHP | 54/100 |
 | 223 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 187 | PHP | 54/100 |
 | 224 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.8k | TypeScript | 54/100 |
 | 225 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 226 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 650 | — | 53/100 |
-| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 568 | — | 53/100 |
+| 226 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 664 | — | 53/100 |
+| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 572 | — | 53/100 |
 | 228 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 229 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 230 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 88 | Rust | 53/100 |
 | 231 | [shetabit/multipay](./shetabit-multipay.md) | ⭐ 309 | PHP | 53/100 |
 | 232 | [piratuks/invoice-builder](./piratuks-invoice-builder.md) | ⭐ 1.5k | TypeScript | 53/100 |
-| 233 | [spatie/laravel-stripe-webhooks](./spatie-laravel-stripe-webhooks.md) | ⭐ 524 | PHP | 53/100 |
+| 233 | [spatie/laravel-stripe-webhooks](./spatie-laravel-stripe-webhooks.md) | ⭐ 525 | PHP | 53/100 |
 | 234 | [braintree/braintree_php](./braintree-braintree-php.md) | ⭐ 554 | PHP | 53/100 |
 | 235 | [braintree/braintree_ruby](./braintree-braintree-ruby.md) | ⭐ 448 | Ruby | 53/100 |
 | 236 | [AyeCode/invoicing](./ayecode-invoicing.md) | ⭐ 43 | PHP | 53/100 |
@@ -272,8 +272,8 @@
 | 262 | [killbill/killbill-commons](./killbill-killbill-commons.md) | ⭐ 145 | Java | 51/100 |
 | 263 | [Franlinozz/Sluice](./franlinozz-sluice.md) | ⭐ 32 | TypeScript | 51/100 |
 | 264 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 133 | PHP | 51/100 |
-| 265 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
-| 266 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
+| 265 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
+| 266 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
 | 267 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 51/100 |
 | 268 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 764 | Rust | 51/100 |
 | 269 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 504 | PHP | 51/100 |
@@ -285,8 +285,8 @@
 | 275 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 276 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 181 | HTML | 50/100 |
-| 278 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
-| 279 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 278 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 279 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 280 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 281 | [FetchDoge/permit](./fetchdoge-permit.md) | ⭐ — | Python | 49/100 |
 | 282 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 49/100 |
@@ -312,7 +312,7 @@
 | 302 | [vivantel/terraform-provider-paddle](./vivantel-terraform-provider-paddle.md) | ⭐ — | Go | 47/100 |
 | 303 | [nutcas3/lets-bet](./nutcas3-lets-bet.md) | ⭐ 180 | Go | 47/100 |
 | 304 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 4.4k | C# | 47/100 |
-| 305 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 577 | Perl | 47/100 |
+| 305 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 578 | Perl | 47/100 |
 | 306 | [ebrasha/free-v2ray-public-list](./ebrasha-free-v2ray-public-list.md) | ⭐ 731 | — | 47/100 |
 | 307 | [laravel/cashier-stripe](./laravel-cashier-stripe.md) | ⭐ 2.5k | PHP | 47/100 |
 | 308 | [challengepost/learn-ai-basics](./challengepost-learn-ai-basics.md) | ⭐ 63 | — | 47/100 |

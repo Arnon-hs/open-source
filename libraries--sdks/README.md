@@ -71,7 +71,7 @@
 | 61 | [gophercloud/gophercloud](./gophercloud-gophercloud.md) | ⭐ 1k | Go | 65/100 |
 | 62 | [scs/substrate-api-client](./scs-substrate-api-client.md) | ⭐ 265 | Rust | 65/100 |
 | 63 | [getsentry/sentry-dart](./getsentry-sentry-dart.md) | ⭐ 877 | Dart | 65/100 |
-| 64 | [m-sec-org/BreachWeave](./m-sec-org-breachweave.md) | ⭐ 754 | TypeScript | 65/100 |
+| 64 | [m-sec-org/BreachWeave](./m-sec-org-breachweave.md) | ⭐ 760 | TypeScript | 65/100 |
 | 65 | [bnb-chain/bnbagent-sdk](./bnb-chain-bnbagent-sdk.md) | ⭐ 66 | Python | 65/100 |
 | 66 | [openai/openai-ruby](./openai-openai-ruby.md) | ⭐ 475 | Ruby | 65/100 |
 | 67 | [GitLiveApp/firebase-kotlin-sdk](./gitliveapp-firebase-kotlin-sdk.md) | ⭐ 1.7k | Kotlin | 65/100 |
@@ -151,7 +151,7 @@
 | 141 | [ceph/go-ceph](./ceph-go-ceph.md) | ⭐ 695 | Go | 59/100 |
 | 142 | [mpi4py/mpi4py](./mpi4py-mpi4py.md) | ⭐ 934 | Python | 59/100 |
 | 143 | [databento/databento-rs](./databento-databento-rs.md) | ⭐ 108 | Rust | 59/100 |
-| 144 | [moetayuko/openwrt-passwall-build](./moetayuko-openwrt-passwall-build.md) | ⭐ 538 | — | 59/100 |
+| 144 | [moetayuko/openwrt-passwall-build](./moetayuko-openwrt-passwall-build.md) | ⭐ 539 | — | 59/100 |
 | 145 | [mlua-rs/mlua](./mlua-rs-mlua.md) | ⭐ 2.9k | Rust | 59/100 |
 | 146 | [fish2018/webhtv](./fish2018-webhtv.md) | ⭐ 683 | Java | 59/100 |
 | 147 | [contentauth/c2pa-rs](./contentauth-c2pa-rs.md) | ⭐ 445 | Rust | 59/100 |
@@ -159,7 +159,7 @@
 | 149 | [PyMySQL/PyMySQL](./pymysql-pymysql.md) | ⭐ 7.9k | Python | 59/100 |
 | 150 | [kreuzberg-dev/tree-sitter-language-pack](./kreuzberg-dev-tree-sitter-language-pack.md) | ⭐ 349 | Rust | 59/100 |
 | 151 | [aliyun/aliyun-oss-python-sdk](./aliyun-aliyun-oss-python-sdk.md) | ⭐ 996 | Python | 58/100 |
-| 152 | [saddam213/AmuseAI](./saddam213-amuseai.md) | ⭐ 663 | C# | 58/100 |
+| 152 | [saddam213/AmuseAI](./saddam213-amuseai.md) | ⭐ 664 | C# | 58/100 |
 | 153 | [gtk-rs/gtk4-rs](./gtk-rs-gtk4-rs.md) | ⭐ 2.4k | Rust | 58/100 |
 | 154 | [rust-nvml/nvml-wrapper](./rust-nvml-nvml-wrapper.md) | ⭐ 215 | Rust | 58/100 |
 | 155 | [habedi/graphina](./habedi-graphina.md) | ⭐ 130 | Rust | 58/100 |

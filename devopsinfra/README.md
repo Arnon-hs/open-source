@@ -202,7 +202,7 @@
 | 192 | [unikraft/kraftkit](./unikraft-kraftkit.md) | ⭐ 453 | Go | 61/100 |
 | 193 | [kubernetes-sigs/kro](./kubernetes-sigs-kro.md) | ⭐ 3.1k | Go | 61/100 |
 | 194 | [tektoncd/pipelines-as-code](./tektoncd-pipelines-as-code.md) | ⭐ 222 | Go | 61/100 |
-| 195 | [tektoncd/operator](./tektoncd-operator.md) | ⭐ 608 | Go | 61/100 |
+| 195 | [tektoncd/operator](./tektoncd-operator.md) | ⭐ 610 | Go | 61/100 |
 | 196 | [crazy-max/docker-fail2ban](./crazy-max-docker-fail2ban.md) | ⭐ 764 | Dockerfile | 61/100 |
 | 197 | [chainguard-dev/apko](./chainguard-dev-apko.md) | ⭐ 1.7k | Go | 61/100 |
 | 198 | [emberstack/kubernetes-reflector](./emberstack-kubernetes-reflector.md) | ⭐ 1.7k | C# | 61/100 |
@@ -295,8 +295,8 @@
 | 285 | [rancher/k3k](./rancher-k3k.md) | ⭐ 921 | Go | 57/100 |
 | 286 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 459 | Dockerfile | 57/100 |
 | 287 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.4k | PHP | 57/100 |
-| 288 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
-| 289 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
+| 288 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
+| 289 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
 | 290 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10.4k | Go | 57/100 |
 | 291 | [tackish/pigeoneye](./tackish-pigeoneye.md) | ⭐ 95 | — | 56/100 |
 | 292 | [softcane/codex-session-operator](./softcane-codex-session-operator.md) | ⭐ 6 | — | 56/100 |
@@ -365,7 +365,7 @@
 | 355 | [omarsenusi/sshbool](./omarsenusi-sshbool.md) | ⭐ 33 | TypeScript | 52/100 |
 | 356 | [chainwayxyz/citrea](./chainwayxyz-citrea.md) | ⭐ 294 | Rust | 52/100 |
 | 357 | [dockur/windows-arm](./dockur-windows-arm.md) | ⭐ 2.3k | Shell | 52/100 |
-| 358 | [frappe/press](./frappe-press.md) | ⭐ 579 | Python | 52/100 |
+| 358 | [frappe/press](./frappe-press.md) | ⭐ 580 | Python | 52/100 |
 | 359 | [lavalink-devs/Lavalink](./lavalink-devs-lavalink.md) | ⭐ 1.9k | Kotlin | 52/100 |
 | 360 | [openSUSE/open-build-service](./opensuse-open-build-service.md) | ⭐ 1.1k | Ruby | 52/100 |
 | 361 | [IceWhaleTech/CasaOS-AppStore](./icewhaletech-casaos-appstore.md) | ⭐ 375 | Shell | 52/100 |

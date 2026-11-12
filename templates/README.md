@@ -35,7 +35,7 @@
 | 25 | [gizmax/Sandcastle](./gizmax-sandcastle.md) | ⭐ 89 | Python | 81/100 |
 | 26 | [KhazP/vibe-coding-prompt-template](./khazp-vibe-coding-prompt-template.md) | ⭐ 3.2k | Python | 81/100 |
 | 27 | [kangarooking/cangjie-skill](./kangarooking-cangjie-skill.md) | ⭐ 12.8k | Python | 81/100 |
-| 28 | [NextAdminHQ/nextjs-admin-dashboard](./nextadminhq-nextjs-admin-dashboard.md) | ⭐ 607 | TypeScript | 81/100 |
+| 28 | [NextAdminHQ/nextjs-admin-dashboard](./nextadminhq-nextjs-admin-dashboard.md) | ⭐ 609 | TypeScript | 81/100 |
 | 29 | [kadykov/mcp-openapi-schema-explorer](./kadykov-mcp-openapi-schema-explorer.md) | ⭐ 76 | TypeScript | 81/100 |
 | 30 | [kadevin/ilab-gpt-conjure](./kadevin-ilab-gpt-conjure.md) | ⭐ 582 | JavaScript | 81/100 |
 | 31 | [Skyscanner/cfripper](./skyscanner-cfripper.md) | ⭐ 415 | Python | 81/100 |
@@ -45,7 +45,7 @@
 | 35 | [ScraperNode/awesome-n8n-templates](./scrapernode-awesome-n8n-templates.md) | ⭐ 118 | Astro | 80/100 |
 | 36 | [undergroundrap/UEFN-TOOLBELT](./undergroundrap-uefn-toolbelt.md) | ⭐ 54 | Python | 80/100 |
 | 37 | [spring-projects/spring-data-mongodb](./spring-projects-spring-data-mongodb.md) | ⭐ 1.7k | Java | 80/100 |
-| 38 | [templatical/sdk](./templatical-sdk.md) | ⭐ 551 | TypeScript | 80/100 |
+| 38 | [templatical/sdk](./templatical-sdk.md) | ⭐ 552 | TypeScript | 80/100 |
 | 39 | [kitwork/starter](./kitwork-starter.md) | ⭐ 40 | HTML | 80/100 |
 | 40 | [CuriousLearner/django-keel](./curiouslearner-django-keel.md) | ⭐ 382 | Jinja | 80/100 |
 | 41 | [oapi-codegen/oapi-codegen](./oapi-codegen-oapi-codegen.md) | ⭐ 8.7k | Go | 80/100 |
@@ -117,14 +117,14 @@
 | 107 | [coreui/coreui-free-react-admin-template](./coreui-coreui-free-react-admin-template.md) | ⭐ 5k | JavaScript | 73/100 |
 | 108 | [IronTony/voltrn-cli](./irontony-voltrn-cli.md) | ⭐ 481 | JavaScript | 73/100 |
 | 109 | [northflank/skills](./northflank-skills.md) | ⭐ 40 | JavaScript | 73/100 |
-| 110 | [kinngh/shopify-nextjs-prisma-app](./kinngh-shopify-nextjs-prisma-app.md) | ⭐ 515 | JavaScript | 73/100 |
+| 110 | [kinngh/shopify-nextjs-prisma-app](./kinngh-shopify-nextjs-prisma-app.md) | ⭐ 516 | JavaScript | 73/100 |
 | 111 | [aws/serverless-application-model](./aws-serverless-application-model.md) | ⭐ 9.6k | Python | 73/100 |
 | 112 | [turnerlabs/fargate-create](./turnerlabs-fargate-create.md) | ⭐ 105 | Go | 73/100 |
 | 113 | [HugoBlox/hugo-theme-academic-cv](./hugoblox-hugo-theme-academic-cv.md) | ⭐ 5.1k | Jupyter Notebook | 73/100 |
 | 114 | [faizkhairi/claude-code-blueprint](./faizkhairi-claude-code-blueprint.md) | ⭐ 73 | Shell | 73/100 |
 | 115 | [moshehbenavraham/Ultimate-Agent-Directory](./moshehbenavraham-ultimate-agent-directory.md) | ⭐ 72 | Python | 73/100 |
 | 116 | [viticci/remctl](./viticci-remctl.md) | ⭐ 655 | Python | 73/100 |
-| 117 | [InvadingOctopus/comedot](./invadingoctopus-comedot.md) | ⭐ 549 | GDScript | 73/100 |
+| 117 | [InvadingOctopus/comedot](./invadingoctopus-comedot.md) | ⭐ 551 | GDScript | 73/100 |
 | 118 | [a5chin/python-uv](./a5chin-python-uv.md) | ⭐ 373 | Python | 73/100 |
 | 119 | [Camelcade/Perl5-IDEA](./camelcade-perl5-idea.md) | ⭐ 421 | Java | 73/100 |
 | 120 | [h5bp/html5-boilerplate](./h5bp-html5-boilerplate.md) | ⭐ 57.7k | JavaScript | 73/100 |
@@ -177,8 +177,8 @@
 | 167 | [spring-projects/spring-data-elasticsearch](./spring-projects-spring-data-elasticsearch.md) | ⭐ 3k | Java | 70/100 |
 | 168 | [SilentVoid13/Templater](./silentvoid13-templater.md) | ⭐ 5.4k | TypeScript | 70/100 |
 | 169 | [developer2013/bricks-mcp-open](./developer2013-bricks-mcp-open.md) | ⭐ 94 | PHP | 70/100 |
-| 170 | [nadimtuhin/claude-token-optimizer](./nadimtuhin-claude-token-optimizer.md) | ⭐ 649 | JavaScript | 70/100 |
-| 171 | [BlessedRebuS/Krawl](./blessedrebus-krawl.md) | ⭐ 838 | HTML | 70/100 |
+| 170 | [nadimtuhin/claude-token-optimizer](./nadimtuhin-claude-token-optimizer.md) | ⭐ 652 | JavaScript | 70/100 |
+| 171 | [BlessedRebuS/Krawl](./blessedrebus-krawl.md) | ⭐ 839 | HTML | 70/100 |
 | 172 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 13.3k | JavaScript | 70/100 |
 | 173 | [velobase/velobase-harness](./velobase-velobase-harness.md) | ⭐ 621 | TypeScript | 70/100 |
 | 174 | [darkroomengineering/satus](./darkroomengineering-satus.md) | ⭐ 1k | TypeScript | 70/100 |
@@ -197,7 +197,7 @@
 | 187 | [BorisPolonsky/dify-helm](./borispolonsky-dify-helm.md) | ⭐ 679 | Go Template | 69/100 |
 | 188 | [davekilleen/Dex](./davekilleen-dex.md) | ⭐ 514 | Python | 69/100 |
 | 189 | [raulvidis/openclaw-multi-agent-kit](./raulvidis-openclaw-multi-agent-kit.md) | ⭐ 391 | — | 69/100 |
-| 190 | [VigoZhao/AI-Visual-Prompt-Cookbook](./vigozhao-ai-visual-prompt-cookbook.md) | ⭐ 840 | Python | 69/100 |
+| 190 | [VigoZhao/AI-Visual-Prompt-Cookbook](./vigozhao-ai-visual-prompt-cookbook.md) | ⭐ 841 | Python | 69/100 |
 | 191 | [clarity-digital-development/tworkflow](./clarity-digital-development-tworkflow.md) | ⭐ 46 | Python | 69/100 |
 | 192 | [dannote/dot-pi](./dannote-dot-pi.md) | ⭐ 58 | TypeScript | 69/100 |
 | 193 | [hoangnb24/repository-harness](./hoangnb24-repository-harness.md) | ⭐ 1.3k | Rust | 69/100 |
@@ -303,7 +303,7 @@
 | 293 | [assassinationss/awesome-china-sourcing](./assassinationss-awesome-china-sourcing.md) | ⭐ — | — | 63/100 |
 | 294 | [bullet-train-co/bullet_train](./bullet-train-co-bullet-train.md) | ⭐ 1.9k | Ruby | 63/100 |
 | 295 | [rockbenben/LearnData](./rockbenben-learndata.md) | ⭐ 532 | JavaScript | 63/100 |
-| 296 | [EveSunMaple/Frosti](./evesunmaple-frosti.md) | ⭐ 491 | Astro | 63/100 |
+| 296 | [EveSunMaple/Frosti](./evesunmaple-frosti.md) | ⭐ 492 | Astro | 63/100 |
 | 297 | [jmcollin78/versatile_thermostat](./jmcollin78-versatile-thermostat.md) | ⭐ 1.3k | Python | 63/100 |
 | 298 | [mitsuhiko/minijinja](./mitsuhiko-minijinja.md) | ⭐ 2.8k | Rust | 63/100 |
 | 299 | [KumoCorp/kumomta](./kumocorp-kumomta.md) | ⭐ 584 | Rust | 63/100 |

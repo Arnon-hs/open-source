@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 509 |
+| ⭐ **Stars** | 510 |
 | 🍴 **Forks** | 83 |
 | 💻 **Language** | Handlebars |
 | 📈 **Score** | 46/100 |

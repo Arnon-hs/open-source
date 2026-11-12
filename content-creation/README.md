@@ -36,7 +36,7 @@
 | 26 | [aman179102/podvoice](./aman179102-podvoice.md) | ⭐ 39 | Python | 73/100 |
 | 27 | [claude-world/claude-world-studio](./claude-world-claude-world-studio.md) | ⭐ 71 | TypeScript | 73/100 |
 | 28 | [EvoLinkAI/awesome-seedance-2.5-guide](./evolinkai-awesome-seedance-2.5-guide.md) | ⭐ 392 | Shell | 73/100 |
-| 29 | [aiworkskills/wechat-article-skills](./aiworkskills-wechat-article-skills.md) | ⭐ 737 | Python | 72/100 |
+| 29 | [aiworkskills/wechat-article-skills](./aiworkskills-wechat-article-skills.md) | ⭐ 738 | Python | 72/100 |
 | 30 | [smixs/visual-skills](./smixs-visual-skills.md) | ⭐ 650 | — | 72/100 |
 | 31 | [Haervwe/open-webui-tools](./haervwe-open-webui-tools.md) | ⭐ 838 | Python | 72/100 |
 | 32 | [ddalcu/mlx-serve](./ddalcu-mlx-serve.md) | ⭐ 2.4k | Zig | 72/100 |
@@ -153,8 +153,8 @@
 | 143 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
 | 144 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 145 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 146 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 354 | — | 43/100 |
-| 147 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 146 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 147 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 354 | — | 43/100 |
 | 148 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 149 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 150 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |

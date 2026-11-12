@@ -44,7 +44,7 @@
 | 34 | [Foundry376/Mailspring](./foundry376-mailspring.md) | ⭐ 18k | JavaScript | 70/100 |
 | 35 | [pact-foundation/pact-go](./pact-foundation-pact-go.md) | ⭐ 963 | Go | 70/100 |
 | 36 | [openclaw/slacrawl](./openclaw-slacrawl.md) | ⭐ 238 | Go | 70/100 |
-| 37 | [project-robius/robrix](./project-robius-robrix.md) | ⭐ 515 | Rust | 70/100 |
+| 37 | [project-robius/robrix](./project-robius-robrix.md) | ⭐ 516 | Rust | 70/100 |
 | 38 | [wasp-lang/wasp](./wasp-lang-wasp.md) | ⭐ 18.8k | TypeScript | 70/100 |
 | 39 | [arikchakma/maily.to](./arikchakma-maily.to.md) | ⭐ 4k | TypeScript | 69/100 |
 | 40 | [centrifugal/centrifugo](./centrifugal-centrifugo.md) | ⭐ 11k | Go | 69/100 |
@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -211,7 +211,7 @@
 | 201 | [jalaali/jalaali-js](./jalaali-jalaali-js.md) | ⭐ 368 | TypeScript | 56/100 |
 | 202 | [kenn-io/msgvault](./kenn-io-msgvault.md) | ⭐ 2.2k | Go | 56/100 |
 | 203 | [roundcube/roundcubemail](./roundcube-roundcubemail.md) | ⭐ 7.3k | PHP | 56/100 |
-| 204 | [muni-town/roomy](./muni-town-roomy.md) | ⭐ 499 | TypeScript | 56/100 |
+| 204 | [muni-town/roomy](./muni-town-roomy.md) | ⭐ 498 | TypeScript | 56/100 |
 | 205 | [analogdotnow/Analog](./analogdotnow-analog.md) | ⭐ 1.6k | TypeScript | 56/100 |
 | 206 | [markuspoerschke/iCal](./markuspoerschke-ical.md) | ⭐ 1.2k | PHP | 56/100 |
 | 207 | [RblSb/SyncTube](./rblsb-synctube.md) | ⭐ 397 | Haxe | 56/100 |
@@ -277,7 +277,7 @@
 | 267 | [aeron-io/aeron](./aeron-io-aeron.md) | ⭐ 9k | Java | 51/100 |
 | 268 | [edulazaro/laragents](./edulazaro-laragents.md) | ⭐ 5 | PHP | 50/100 |
 | 269 | [inline-chat/inline](./inline-chat-inline.md) | ⭐ 909 | Rust | 50/100 |
-| 270 | [OpenClaudia/openclaudia-skills](./openclaudia-openclaudia-skills.md) | ⭐ 737 | JavaScript | 50/100 |
+| 270 | [OpenClaudia/openclaudia-skills](./openclaudia-openclaudia-skills.md) | ⭐ 738 | JavaScript | 50/100 |
 | 271 | [open-chat-labs/open-chat](./open-chat-labs-open-chat.md) | ⭐ 208 | Rust | 50/100 |
 | 272 | [7c/fakefilter](./7c-fakefilter.md) | ⭐ 359 | JavaScript | 50/100 |
 | 273 | [apache/iggy](./apache-iggy.md) | ⭐ 5.3k | Rust | 50/100 |
