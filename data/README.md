@@ -163,13 +163,13 @@
 | 153 | [itskovacs/trip](./itskovacs-trip.md) | ⭐ 2k | TypeScript | 59/100 |
 | 154 | [KnowageLabs/Knowage-Server](./knowagelabs-knowage-server.md) | ⭐ 450 | Java | 59/100 |
 | 155 | [BOINC/boinc](./boinc-boinc.md) | ⭐ 2.5k | C++ | 59/100 |
-| 156 | [ArturSepp/QuantInvestStrats](./artursepp-quantinveststrats.md) | ⭐ 651 | Python | 59/100 |
+| 156 | [ArturSepp/QuantInvestStrats](./artursepp-quantinveststrats.md) | ⭐ 653 | Python | 59/100 |
 | 157 | [ClickHouse/adsb.exposed](./clickhouse-adsb.exposed.md) | ⭐ 472 | HTML | 59/100 |
 | 158 | [inducer/loopy](./inducer-loopy.md) | ⭐ 640 | Python | 59/100 |
 | 159 | [opendatacube/datacube-core](./opendatacube-datacube-core.md) | ⭐ 596 | Python | 59/100 |
 | 160 | [viser-project/viser](./viser-project-viser.md) | ⭐ 2.9k | Python | 59/100 |
 | 161 | [nette/schema](./nette-schema.md) | ⭐ 1k | PHP | 59/100 |
-| 162 | [jaswdr/faker](./jaswdr-faker.md) | ⭐ 645 | Go | 59/100 |
+| 162 | [jaswdr/faker](./jaswdr-faker.md) | ⭐ 646 | Go | 59/100 |
 | 163 | [supabase/wrappers](./supabase-wrappers.md) | ⭐ 900 | Rust | 59/100 |
 | 164 | [gem/oq-engine](./gem-oq-engine.md) | ⭐ 471 | Python | 59/100 |
 | 165 | [mfem/mfem](./mfem-mfem.md) | ⭐ 2.3k | C++ | 59/100 |
@@ -267,7 +267,7 @@
 | 257 | [dflib/dflib](./dflib-dflib.md) | ⭐ 326 | Java | 54/100 |
 | 258 | [pyOpenSci/python-package-guide](./pyopensci-python-package-guide.md) | ⭐ 152 | Python | 54/100 |
 | 259 | [3DStreet/3dstreet](./3dstreet-3dstreet.md) | ⭐ 335 | JavaScript | 54/100 |
-| 260 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 713 | Rust | 54/100 |
+| 260 | [blitzarx1/egui_graphs](./blitzarx1-egui-graphs.md) | ⭐ 714 | Rust | 54/100 |
 | 261 | [nasa/earthdata-search](./nasa-earthdata-search.md) | ⭐ 830 | JavaScript | 54/100 |
 | 262 | [mrshu/github-statuses](./mrshu-github-statuses.md) | ⭐ 575 | HTML | 54/100 |
 | 263 | [CogitatorTech/onager](./cogitatortech-onager.md) | ⭐ 154 | Rust | 54/100 |

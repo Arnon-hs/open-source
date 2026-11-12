@@ -46,7 +46,7 @@
 | 36 | [rqlite/rqlite](./rqlite-rqlite.md) | ⭐ 17.9k | Go | 66/100 |
 | 37 | [ron190/jsql-injection](./ron190-jsql-injection.md) | ⭐ 1.8k | Java | 66/100 |
 | 38 | [scylladb/scylladb](./scylladb-scylladb.md) | ⭐ 15.8k | C++ | 66/100 |
-| 39 | [alisaifee/limits](./alisaifee-limits.md) | ⭐ 654 | Python | 66/100 |
+| 39 | [alisaifee/limits](./alisaifee-limits.md) | ⭐ 655 | Python | 66/100 |
 | 40 | [supabase/postgres-meta](./supabase-postgres-meta.md) | ⭐ 1.3k | TypeScript | 65/100 |
 | 41 | [facebook/rocksdb](./facebook-rocksdb.md) | ⭐ 31.9k | C++ | 65/100 |
 | 42 | [eclipse-store/store](./eclipse-store-store.md) | ⭐ 352 | Java | 65/100 |
@@ -260,7 +260,7 @@
 | 250 | [tikv/tikv](./tikv-tikv.md) | ⭐ 16.9k | Rust | 54/100 |
 | 251 | [achristmascarl/rainfrog](./achristmascarl-rainfrog.md) | ⭐ 5.4k | Rust | 54/100 |
 | 252 | [maplibre/martin](./maplibre-martin.md) | ⭐ 4.1k | Rust | 54/100 |
-| 253 | [synopse/mORMot2](./synopse-mormot2.md) | ⭐ 733 | Pascal | 54/100 |
+| 253 | [synopse/mORMot2](./synopse-mormot2.md) | ⭐ 734 | Pascal | 54/100 |
 | 254 | [frectonz/pglite-fusion](./frectonz-pglite-fusion.md) | ⭐ 833 | Rust | 53/100 |
 | 255 | [open-reaction-database/ord-data](./open-reaction-database-ord-data.md) | ⭐ 352 | Python | 53/100 |
 | 256 | [maxmind/MaxMind-DB-Reader-php](./maxmind-maxmind-db-reader-php.md) | ⭐ 709 | PHP | 53/100 |
@@ -270,7 +270,7 @@
 | 260 | [Dailin521/codex-provider-sync](./dailin521-codex-provider-sync.md) | ⭐ 3.6k | C# | 53/100 |
 | 261 | [xataio/deltax](./xataio-deltax.md) | ⭐ 293 | Rust | 53/100 |
 | 262 | [VCVRack/library](./vcvrack-library.md) | ⭐ 450 | Python | 53/100 |
-| 263 | [MobilityDB/MobilityDB](./mobilitydb-mobilitydb.md) | ⭐ 633 | C | 53/100 |
+| 263 | [MobilityDB/MobilityDB](./mobilitydb-mobilitydb.md) | ⭐ 634 | C | 53/100 |
 | 264 | [open-wanderer/wanderer](./open-wanderer-wanderer.md) | ⭐ 4.1k | Svelte | 53/100 |
 | 265 | [sqldef/sqldef](./sqldef-sqldef.md) | ⭐ 3.2k | Go | 53/100 |
 | 266 | [OneClickDBA/harry-performance-scraper](./oneclickdba-harry-performance-scraper.md) | ⭐ 5 | Go | 52/100 |
@@ -577,8 +577,8 @@
 | 567 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 568 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 569 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 105 | — | 38/100 |
-| 570 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
-| 571 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 570 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 571 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
 | 572 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 573 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 574 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

@@ -1,6 +1,6 @@
 # pollen-robotics/microduck_rl
 
-[![Stars](https://img.shields.io/github/stars/pollen-robotics/microduck_rl?style=flat-square&color=yellow)](https://github.com/pollen-robotics/microduck_rl/stargazers) [![Forks](https://img.shields.io/github/forks/pollen-robotics/microduck_rl?style=flat-square&color=blue)](https://github.com/pollen-robotics/microduck_rl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/pollen-robotics/microduck_rl?style=flat-square&color=yellow)](https://github.com/pollen-robotics/microduck_rl/stargazers) [![Forks](https://img.shields.io/github/forks/pollen-robotics/microduck_rl?style=flat-square&color=blue)](https://github.com/pollen-robotics/microduck_rl/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > RL training environments for Microduck (mjlab)
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2.9k |
 | 🍴 **Forks** | 698 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 62/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ pollen-robotics/microduck_rl：pollen-robotics/microduck_rl may be useful when i
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 78/100 |
+| quality | 73/100 |
 | integration | 46/100 |
-| production | 73/100 |
-| outlook | 75/100 |
+| production | 66/100 |
+| outlook | 68/100 |
 | adoption | 73/100 |
 | categoryMatchCount | 0/100 |
 | stars | 74/100 |
 | forks | 71/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

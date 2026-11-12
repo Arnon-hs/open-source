@@ -16,7 +16,7 @@
 | 6 | [ChatCut-Inc/agent-plugin](./chatcut-inc-agent-plugin.md) | ⭐ 1k | JavaScript | 85/100 |
 | 7 | [Anil-matcha/open-genjutsu](./anil-matcha-open-genjutsu.md) | ⭐ 1k | JavaScript | 85/100 |
 | 8 | [zhouxiaoka/autoclip](./zhouxiaoka-autoclip.md) | ⭐ 10.3k | Python | 84/100 |
-| 9 | [0xsline/OpenChatCut](./0xsline-openchatcut.md) | ⭐ 3k | TypeScript | 84/100 |
+| 9 | [0xsline/OpenChatCut](./0xsline-openchatcut.md) | ⭐ 3.1k | TypeScript | 84/100 |
 | 10 | [oxbshw/watch-skill](./oxbshw-watch-skill.md) | ⭐ 570 | Python | 83/100 |
 | 11 | [FavioVazquez/showtime](./faviovazquez-showtime.md) | ⭐ 327 | Python | 82/100 |
 | 12 | [renezander030/capcut-cli](./renezander030-capcut-cli.md) | ⭐ 1.2k | TypeScript | 82/100 |
@@ -79,7 +79,7 @@
 | 69 | [DojoCodingLabs/remotion-superpowers](./dojocodinglabs-remotion-superpowers.md) | ⭐ 166 | Shell | 74/100 |
 | 70 | [Gitruck/cli](./gitruck-cli.md) | ⭐ 965 | TypeScript | 74/100 |
 | 71 | [Vanszs/tiktok-viral-factory](./vanszs-tiktok-viral-factory.md) | ⭐ 38 | Python | 74/100 |
-| 72 | [GuanYixuan/pyCapCut](./guanyixuan-pycapcut.md) | ⭐ 744 | Python | 74/100 |
+| 72 | [GuanYixuan/pyCapCut](./guanyixuan-pycapcut.md) | ⭐ 747 | Python | 74/100 |
 | 73 | [hypit-ai/hypit](./hypit-ai-hypit.md) | ⭐ 29.3k | TypeScript | 74/100 |
 | 74 | [Battam1111/omniseek](./battam1111-omniseek.md) | ⭐ 98 | Python | 74/100 |
 | 75 | [aqm857886159/Nomi](./aqm857886159-nomi.md) | ⭐ 639 | TypeScript | 74/100 |
@@ -513,8 +513,8 @@
 | 503 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 806 | C++ | 54/100 |
 | 504 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 505 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 506 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
-| 507 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
+| 506 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
+| 507 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
 | 508 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 509 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 522 | — | 53/100 |
 | 510 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |

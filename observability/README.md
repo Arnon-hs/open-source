@@ -48,7 +48,7 @@
 | 38 | [prometheus/client_golang](./prometheus-client-golang.md) | ⭐ 6k | Go | 67/100 |
 | 39 | [OneUptime/oneuptime](./oneuptime-oneuptime.md) | ⭐ 7.8k | TypeScript | 67/100 |
 | 40 | [amir20/dtop](./amir20-dtop.md) | ⭐ 1.5k | Rust | 67/100 |
-| 41 | [cloudprober/cloudprober](./cloudprober-cloudprober.md) | ⭐ 718 | Go | 67/100 |
+| 41 | [cloudprober/cloudprober](./cloudprober-cloudprober.md) | ⭐ 719 | Go | 67/100 |
 | 42 | [kubetail-org/kubetail](./kubetail-org-kubetail.md) | ⭐ 1.8k | Go | 67/100 |
 | 43 | [prometheus/client_python](./prometheus-client-python.md) | ⭐ 4.4k | Python | 66/100 |
 | 44 | [CtrlSpice/otel-desktop-viewer](./ctrlspice-otel-desktop-viewer.md) | ⭐ 1.3k | Go | 66/100 |
@@ -186,7 +186,7 @@
 | 176 | [metafab/otel-gui](./metafab-otel-gui.md) | ⭐ 198 | TypeScript | 53/100 |
 | 177 | [open-telemetry/opentelemetry-go-compile-instrumentation](./open-telemetry-opentelemetry-go-compile-instrumentation.md) | ⭐ 504 | Go | 53/100 |
 | 178 | [prometheus-community/avalanche](./prometheus-community-avalanche.md) | ⭐ 456 | Go | 53/100 |
-| 179 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 749 | — | 53/100 |
+| 179 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 750 | — | 53/100 |
 | 180 | [elastic/elastic-agent](./elastic-elastic-agent.md) | ⭐ 290 | Go | 53/100 |
 | 181 | [bpftrace/bpftrace](./bpftrace-bpftrace.md) | ⭐ 10.4k | C++ | 53/100 |
 | 182 | [hagezi/dns-blocklists](./hagezi-dns-blocklists.md) | ⭐ 28.7k | Text | 53/100 |

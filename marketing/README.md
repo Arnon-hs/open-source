@@ -26,7 +26,7 @@
 | 16 | [zhangkunlv-ship-it/xuehui-shortvideo-skill](./zhangkunlv-ship-it-xuehui-shortvideo-skill.md) | ⭐ 13 | — | 51/100 |
 | 17 | [angelotc/antigravity-seo](./angelotc-antigravity-seo.md) | ⭐ 2 | — | 51/100 |
 | 18 | [okou-ai/okou](./okou-ai-okou.md) | ⭐ 1.2k | TypeScript | 50/100 |
-| 19 | [lix-project/lix](./lix-project-lix.md) | ⭐ 650 | C++ | 50/100 |
+| 19 | [lix-project/lix](./lix-project-lix.md) | ⭐ 651 | C++ | 50/100 |
 | 20 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 7.2k | — | 48/100 |
 | 21 | [neodevpro/neodevhost](./neodevpro-neodevhost.md) | ⭐ 1.4k | Adblock Filter List | 48/100 |
 | 22 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 2.5k | JavaScript | 47/100 |
@@ -43,7 +43,7 @@
 | 33 | [clicksdynastyincali/local-seo-lint](./clicksdynastyincali-local-seo-lint.md) | ⭐ — | — | 41/100 |
 | 34 | [imlotso/discourse-indexnow](./imlotso-discourse-indexnow.md) | ⭐ 2 | Ruby | 39/100 |
 | 35 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 39/100 |
-| 36 | [Illyism/seo-skills](./illyism-seo-skills.md) | ⭐ 741 | — | 38/100 |
+| 36 | [Illyism/seo-skills](./illyism-seo-skills.md) | ⭐ 1k | — | 38/100 |
 | 37 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ 75 | — | 38/100 |
 | 38 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 38/100 |
 | 39 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ 8 | — | 38/100 |

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 674 |
+| ⭐ **Stars** | 675 |
 | 🍴 **Forks** | 92 |
 | 💻 **Language** | Gherkin |
 | 📈 **Score** | 70/100 |
