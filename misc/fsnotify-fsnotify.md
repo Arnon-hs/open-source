@@ -52,7 +52,7 @@ fsnotify/fsnotify：fsnotify/fsnotify may be useful when its README and activity
 **Quality signals**
 
 - 10811 GitHub stars
-- 1006 forks
+- 1007 forks
 - updated 2026-11-10
 - primary language: Go
 

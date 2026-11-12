@@ -66,7 +66,7 @@
 | 56 | [doitsujin/dxvk](./doitsujin-dxvk.md) | ⭐ 18.5k | C++ | 63/100 |
 | 57 | [bjornbytes/lovr](./bjornbytes-lovr.md) | ⭐ 2.6k | C | 63/100 |
 | 58 | [CesiumGS/cesium](./cesiumgs-cesium.md) | ⭐ 15.9k | JavaScript | 63/100 |
-| 59 | [4ian/GDevelop](./4ian-gdevelop.md) | ⭐ 28.7k | JavaScript | 63/100 |
+| 59 | [4ian/GDevelop](./4ian-gdevelop.md) | ⭐ 28.8k | JavaScript | 63/100 |
 | 60 | [visgl/luma.gl](./visgl-luma.gl.md) | ⭐ 2.5k | TypeScript | 63/100 |
 | 61 | [LunarG/gfxreconstruct](./lunarg-gfxreconstruct.md) | ⭐ 615 | C++ | 63/100 |
 | 62 | [XenolithEngine/xenolith-engine](./xenolithengine-xenolith-engine.md) | ⭐ 22 | C++ | 62/100 |
@@ -330,7 +330,7 @@
 | 320 | [G00dS0ul/G00dS0ul](./g00ds0ul-g00ds0ul.md) | ⭐ — | — | 42/100 |
 | 321 | [vanyle/vectarine](./vanyle-vectarine.md) | ⭐ 140 | Rust | 42/100 |
 | 322 | [OpenDreamProject/OpenDream](./opendreamproject-opendream.md) | ⭐ 281 | C# | 42/100 |
-| 323 | [davidgiven/pet-elite](./davidgiven-pet-elite.md) | ⭐ — | — | 41/100 |
+| 323 | [davidgiven/pet-elite](./davidgiven-pet-elite.md) | ⭐ 6 | — | 41/100 |
 | 324 | [angelotc/lol-companion](./angelotc-lol-companion.md) | ⭐ — | — | 41/100 |
 | 325 | [Sunghwan0112/spritecast](./sunghwan0112-spritecast.md) | ⭐ — | — | 41/100 |
 | 326 | [theagentd/CORTAO](./theagentd-cortao.md) | ⭐ 80 | — | 41/100 |

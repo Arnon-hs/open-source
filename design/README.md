@@ -42,7 +42,7 @@
 | 32 | [eliheuer/img2bez](./eliheuer-img2bez.md) | ⭐ 164 | Rust | 60/100 |
 | 33 | [HMBSbige/BilibiliLiveRecordDownLoader](./hmbsbige-bilibililiverecorddownloader.md) | ⭐ 834 | C# | 60/100 |
 | 34 | [streetmix/streetmix](./streetmix-streetmix.md) | ⭐ 756 | TypeScript | 59/100 |
-| 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 108.3k | JavaScript | 59/100 |
+| 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 109k | JavaScript | 59/100 |
 | 36 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 7.1k | PHP | 59/100 |
 | 37 | [QwenLM/Qwen3-TTS](./qwenlm-qwen3-tts.md) | ⭐ 14.4k | Python | 58/100 |
 | 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 675 | Vue | 58/100 |
@@ -51,7 +51,7 @@
 | 41 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 519 | TypeScript | 58/100 |
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 610 | Python | 58/100 |
 | 43 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 26.2k | JavaScript | 58/100 |
-| 44 | [liquidslr/system-design-notes](./liquidslr-system-design-notes.md) | ⭐ 28.2k | — | 57/100 |
+| 44 | [liquidslr/system-design-notes](./liquidslr-system-design-notes.md) | ⭐ 28.3k | — | 57/100 |
 | 45 | [davgar99/arch-linux-font-improvement-guide](./davgar99-arch-linux-font-improvement-guide.md) | ⭐ 264 | — | 57/100 |
 | 46 | [YosysHQ/oss-cad-suite-build](./yosyshq-oss-cad-suite-build.md) | ⭐ 1.8k | Shell | 57/100 |
 | 47 | [visioncortex/vtracer](./visioncortex-vtracer.md) | ⭐ 7.5k | Rust | 57/100 |

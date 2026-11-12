@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 24.8k |
-| 🍴 **Forks** | 870 |
+| 🍴 **Forks** | 871 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 75/100 |
 | 🗓️ **Last push** | 2026-11-08 |
@@ -53,8 +53,8 @@ louislam/dockge：louislam/dockge helps catch security and privacy issues earlie
 
 **Quality signals**
 
-- 24805 GitHub stars
-- 870 forks
+- 24813 GitHub stars
+- 871 forks
 - updated 2026-11-08
 - primary language: TypeScript
 - 20 topics

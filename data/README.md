@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [grafana/grafana](./grafana-grafana.md) | ⭐ 77.8k | TypeScript | 81/100 |
+| 1 | [grafana/grafana](./grafana-grafana.md) | ⭐ 77.9k | TypeScript | 81/100 |
 | 2 | [jitsucom/jitsu](./jitsucom-jitsu.md) | ⭐ 5.1k | TypeScript | 78/100 |
 | 3 | [bruin-data/ingestr](./bruin-data-ingestr.md) | ⭐ 4k | Go | 78/100 |
 | 4 | [dr5hn/countries-states-cities-database](./dr5hn-countries-states-cities-database.md) | ⭐ 10k | Python | 76/100 |
@@ -107,7 +107,7 @@
 | 97 | [mljar/mercury](./mljar-mercury.md) | ⭐ 4.4k | Python | 63/100 |
 | 98 | [ConduitIO/conduit](./conduitio-conduit.md) | ⭐ 617 | Go | 63/100 |
 | 99 | [pydata/pandas-datareader](./pydata-pandas-datareader.md) | ⭐ 3.3k | Python | 63/100 |
-| 100 | [timescale/timescaledb](./timescale-timescaledb.md) | ⭐ 23.8k | C | 63/100 |
+| 100 | [timescale/timescaledb](./timescale-timescaledb.md) | ⭐ 23.9k | C | 63/100 |
 | 101 | [xoolive/traffic](./xoolive-traffic.md) | ⭐ 524 | Python | 63/100 |
 | 102 | [rapidsai/cudf](./rapidsai-cudf.md) | ⭐ 9.6k | C++ | 63/100 |
 | 103 | [ARM-DOE/pyart](./arm-doe-pyart.md) | ⭐ 611 | Python | 62/100 |
@@ -200,7 +200,7 @@
 | 190 | [pgmpy/pgmpy](./pgmpy-pgmpy.md) | ⭐ 3.4k | Python | 58/100 |
 | 191 | [pandas-dev/pandas](./pandas-dev-pandas.md) | ⭐ 50.5k | Python | 58/100 |
 | 192 | [pola-rs/polars](./pola-rs-polars.md) | ⭐ 40.3k | Rust | 58/100 |
-| 193 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 23.4k | Python | 58/100 |
+| 193 | [matplotlib/matplotlib](./matplotlib-matplotlib.md) | ⭐ 23.5k | Python | 58/100 |
 | 194 | [sysevol-ai/CodeNib](./sysevol-ai-codenib.md) | ⭐ 95 | Python | 57/100 |
 | 195 | [zinggAI/zingg](./zinggai-zingg.md) | ⭐ 1.3k | Java | 57/100 |
 | 196 | [hellobertrand/zxc](./hellobertrand-zxc.md) | ⭐ 539 | C | 57/100 |

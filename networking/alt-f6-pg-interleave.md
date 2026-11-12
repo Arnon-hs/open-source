@@ -1,6 +1,6 @@
 # alt-f6/pg-interleave
 
-[![Stars](https://img.shields.io/github/stars/alt-f6/pg-interleave?style=flat-square&color=yellow)](https://github.com/alt-f6/pg-interleave/stargazers) [![Forks](https://img.shields.io/github/forks/alt-f6/pg-interleave?style=flat-square&color=blue)](https://github.com/alt-f6/pg-interleave/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/alt-f6/pg-interleave?style=flat-square&color=yellow)](https://github.com/alt-f6/pg-interleave/stargazers) [![Forks](https://img.shields.io/github/forks/alt-f6/pg-interleave?style=flat-square&color=blue)](https://github.com/alt-f6/pg-interleave/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Deterministic PostgreSQL proxy to pause, reorder, and fuzz queries in concurrency integration tests.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -52,6 +52,7 @@ alt-f6/pg-interleave：alt-f6/pg-interleave may be useful when its README and ac
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-10
 - primary language: Rust
 - 10 topics
@@ -63,13 +64,13 @@ alt-f6/pg-interleave：alt-f6/pg-interleave may be useful when its README and ac
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 53/100 |
 | integration | 30/100 |
 | production | 61/100 |
-| outlook | 64/100 |
-| adoption | 0/100 |
+| outlook | 65/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 300/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |

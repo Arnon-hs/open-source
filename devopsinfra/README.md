@@ -11,10 +11,10 @@
 | 1 | [axllent/mailpit](./axllent-mailpit.md) | ⭐ 10.9k | Go | 82/100 |
 | 2 | [redpanda-data/redpanda](./redpanda-data-redpanda.md) | ⭐ 12.7k | C++ | 80/100 |
 | 3 | [TheDuffman85/crowdsec-web-ui](./theduffman85-crowdsec-web-ui.md) | ⭐ 1.1k | TypeScript | 80/100 |
-| 4 | [aquasecurity/trivy](./aquasecurity-trivy.md) | ⭐ 39.2k | Go | 77/100 |
+| 4 | [aquasecurity/trivy](./aquasecurity-trivy.md) | ⭐ 39.3k | Go | 77/100 |
 | 5 | [buildkite/agent](./buildkite-agent.md) | ⭐ 1.1k | Go | 77/100 |
 | 6 | [project-copacetic/copacetic](./project-copacetic-copacetic.md) | ⭐ 1.7k | Go | 76/100 |
-| 7 | [podman-container-tools/podman](./podman-container-tools-podman.md) | ⭐ 33.2k | Go | 76/100 |
+| 7 | [podman-container-tools/podman](./podman-container-tools-podman.md) | ⭐ 33.3k | Go | 76/100 |
 | 8 | [oras-project/oras](./oras-project-oras.md) | ⭐ 2.5k | Go | 75/100 |
 | 9 | [timothymiller/cloudflare-ddns](./timothymiller-cloudflare-ddns.md) | ⭐ 4.6k | Rust | 75/100 |
 | 10 | [mag37/dockcheck](./mag37-dockcheck.md) | ⭐ 2.5k | Shell | 75/100 |
@@ -81,7 +81,7 @@
 | 71 | [dexidp/dex](./dexidp-dex.md) | ⭐ 11.3k | Go | 67/100 |
 | 72 | [stakater/IngressMonitorController](./stakater-ingressmonitorcontroller.md) | ⭐ 748 | Go | 67/100 |
 | 73 | [k3s-io/k3s](./k3s-io-k3s.md) | ⭐ 34.4k | Go | 67/100 |
-| 74 | [dani-garcia/vaultwarden](./dani-garcia-vaultwarden.md) | ⭐ 70.6k | Rust | 67/100 |
+| 74 | [dani-garcia/vaultwarden](./dani-garcia-vaultwarden.md) | ⭐ 70.7k | Rust | 67/100 |
 | 75 | [HaschekSolutions/pictshare](./hascheksolutions-pictshare.md) | ⭐ 952 | PHP | 67/100 |
 | 76 | [jovandeginste/workout-tracker](./jovandeginste-workout-tracker.md) | ⭐ 1.3k | Go | 67/100 |
 | 77 | [RayLabsHQ/gitea-mirror](./raylabshq-gitea-mirror.md) | ⭐ 1.5k | TypeScript | 67/100 |
@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -218,8 +218,8 @@
 | 208 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 32.2k | Go | 61/100 |
 | 209 | [docker/setup-buildx-action](./docker-setup-buildx-action.md) | ⭐ 1.4k | TypeScript | 60/100 |
 | 210 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 921 | Svelte | 60/100 |
-| 211 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
-| 212 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
+| 211 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
+| 212 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
 | 213 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 843 | JavaScript | 60/100 |
 | 214 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 32 | Nix | 60/100 |
 | 215 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 401 | Go | 60/100 |
@@ -295,8 +295,8 @@
 | 285 | [rancher/k3k](./rancher-k3k.md) | ⭐ 921 | Go | 57/100 |
 | 286 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 459 | Dockerfile | 57/100 |
 | 287 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.4k | PHP | 57/100 |
-| 288 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
-| 289 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 288 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 289 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
 | 290 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10.4k | Go | 57/100 |
 | 291 | [tackish/pigeoneye](./tackish-pigeoneye.md) | ⭐ 95 | — | 56/100 |
 | 292 | [softcane/codex-session-operator](./softcane-codex-session-operator.md) | ⭐ 6 | — | 56/100 |
@@ -442,7 +442,7 @@
 | 432 | [av/mi](./av-mi.md) | ⭐ — | — | 45/100 |
 | 433 | [hwdsl2/docker-ai-stack](./hwdsl2-docker-ai-stack.md) | ⭐ — | — | 45/100 |
 | 434 | [openstack/openstack-helm](./openstack-openstack-helm.md) | ⭐ 581 | Shell | 45/100 |
-| 435 | [ChrispyBacon-dev/DockFlare](./chrispybacon-dev-dockflare.md) | ⭐ — | — | 44/100 |
+| 435 | [ChrispyBacon-dev/DockFlare](./chrispybacon-dev-dockflare.md) | ⭐ 2.5k | — | 44/100 |
 | 436 | [shakg/g-systemctl](./shakg-g-systemctl.md) | ⭐ 101 | — | 44/100 |
 | 437 | [vitekube/vitekube](./vitekube-vitekube.md) | ⭐ 3 | — | 44/100 |
 | 438 | [dsx-ai-factory/nvke](./dsx-ai-factory-nvke.md) | ⭐ 1.2k | — | 44/100 |
@@ -487,8 +487,8 @@
 | 477 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 478 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 479 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 480 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
-| 481 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 480 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 481 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
 | 482 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 483 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 484 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |

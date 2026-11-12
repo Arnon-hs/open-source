@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 130 |
-| 🍴 **Forks** | 5 |
+| 🍴 **Forks** | 6 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 78/100 |
 | 🗓️ **Last push** | 2026-11-06 |
@@ -54,7 +54,7 @@ bailinghub/bailinghub：bailinghub/bailinghub helps connect AI assistants to rea
 **Quality signals**
 
 - 130 GitHub stars
-- 5 forks
+- 6 forks
 - updated 2026-11-06
 - primary language: TypeScript
 - 17 topics
@@ -69,11 +69,11 @@ bailinghub/bailinghub：bailinghub/bailinghub helps connect AI assistants to rea
 | quality | 63/100 |
 | integration | 94/100 |
 | production | 69/100 |
-| outlook | 74/100 |
+| outlook | 75/100 |
 | adoption | 38/100 |
 | categoryMatchCount | 500/100 |
 | stars | 45/100 |
-| forks | 19/100 |
+| forks | 21/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

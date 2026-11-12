@@ -15,7 +15,7 @@
 | 5 | [getsentry/sentry-javascript](./getsentry-sentry-javascript.md) | ⭐ 8.8k | TypeScript | 84/100 |
 | 6 | [connorgallopo/Tracearr](./connorgallopo-tracearr.md) | ⭐ 2.7k | TypeScript | 83/100 |
 | 7 | [alovajs/alova](./alovajs-alova.md) | ⭐ 4k | TypeScript | 81/100 |
-| 8 | [fastapi/fastapi](./fastapi-fastapi.md) | ⭐ 104.6k | Python | 81/100 |
+| 8 | [fastapi/fastapi](./fastapi-fastapi.md) | ⭐ 104.7k | Python | 81/100 |
 | 9 | [tailwindlabs/tailwindcss](./tailwindlabs-tailwindcss.md) | ⭐ 98.6k | TypeScript | 81/100 |
 | 10 | [uptrace/uptrace](./uptrace-uptrace.md) | ⭐ 4.3k | Go | 79/100 |
 | 11 | [invertase/react-native-firebase](./invertase-react-native-firebase.md) | ⭐ 12.3k | TypeScript | 78/100 |
@@ -85,7 +85,7 @@
 | 75 | [hanxi/xiaomusic](./hanxi-xiaomusic.md) | ⭐ 10k | Python | 71/100 |
 | 76 | [pubkey/rxdb](./pubkey-rxdb.md) | ⭐ 23.4k | TypeScript | 71/100 |
 | 77 | [gitify-app/gitify](./gitify-app-gitify.md) | ⭐ 5.4k | TypeScript | 71/100 |
-| 78 | [immich-app/immich](./immich-app-immich.md) | ⭐ 118.9k | TypeScript | 71/100 |
+| 78 | [immich-app/immich](./immich-app-immich.md) | ⭐ 119k | TypeScript | 71/100 |
 | 79 | [elkozmon/zoonavigator](./elkozmon-zoonavigator.md) | ⭐ 571 | TypeScript | 70/100 |
 | 80 | [surveyjs/survey-creator](./surveyjs-survey-creator.md) | ⭐ 1.3k | TypeScript | 70/100 |
 | 81 | [evanw/esbuild](./evanw-esbuild.md) | ⭐ 40.1k | Go | 70/100 |
@@ -123,7 +123,7 @@
 | 113 | [epicweb-dev/advanced-react-apis](./epicweb-dev-advanced-react-apis.md) | ⭐ 2.1k | TypeScript | 69/100 |
 | 114 | [jesec/flood](./jesec-flood.md) | ⭐ 2.9k | TypeScript | 69/100 |
 | 115 | [kalfasyan/desto](./kalfasyan-desto.md) | ⭐ 104 | Python | 69/100 |
-| 116 | [freeCodeCamp/freeCodeCamp](./freecodecamp-freecodecamp.md) | ⭐ 459k | TypeScript | 69/100 |
+| 116 | [freeCodeCamp/freeCodeCamp](./freecodecamp-freecodecamp.md) | ⭐ 459.1k | TypeScript | 69/100 |
 | 117 | [ArtalkJS/Artalk](./artalkjs-artalk.md) | ⭐ 2.4k | Go | 69/100 |
 | 118 | [classroomio/classroomio](./classroomio-classroomio.md) | ⭐ 1.7k | TypeScript | 69/100 |
 | 119 | [meshtastic/web](./meshtastic-web.md) | ⭐ 877 | TypeScript | 69/100 |
@@ -131,7 +131,7 @@
 | 121 | [lscambo13/ElegantFin](./lscambo13-elegantfin.md) | ⭐ 2.3k | CSS | 69/100 |
 | 122 | [kafbat/kafka-ui](./kafbat-kafka-ui.md) | ⭐ 2.8k | TypeScript | 69/100 |
 | 123 | [ferdikoomen/openapi-typescript-codegen](./ferdikoomen-openapi-typescript-codegen.md) | ⭐ 3.4k | TypeScript | 69/100 |
-| 124 | [Dokploy/dokploy](./dokploy-dokploy.md) | ⭐ 38.4k | TypeScript | 69/100 |
+| 124 | [Dokploy/dokploy](./dokploy-dokploy.md) | ⭐ 38.5k | TypeScript | 69/100 |
 | 125 | [biomejs/biome](./biomejs-biome.md) | ⭐ 26.1k | Rust | 69/100 |
 | 126 | [Manak-hash/LinkBreeze](./manak-hash-linkbreeze.md) | ⭐ 202 | TypeScript | 68/100 |
 | 127 | [kerberos-io/agent](./kerberos-io-agent.md) | ⭐ 1.1k | Go | 68/100 |
@@ -274,7 +274,7 @@
 | 264 | [tusen-ai/naive-ui](./tusen-ai-naive-ui.md) | ⭐ 18.6k | TypeScript | 64/100 |
 | 265 | [Bee-Mar/mmpm](./bee-mar-mmpm.md) | ⭐ 250 | Python | 64/100 |
 | 266 | [imba/imba](./imba-imba.md) | ⭐ 6.5k | JavaScript | 64/100 |
-| 267 | [DavidHDev/react-bits](./davidhdev-react-bits.md) | ⭐ 51.7k | JavaScript | 64/100 |
+| 267 | [DavidHDev/react-bits](./davidhdev-react-bits.md) | ⭐ 51.8k | JavaScript | 64/100 |
 | 268 | [mozilla/bedrock](./mozilla-bedrock.md) | ⭐ 1.3k | HTML | 64/100 |
 | 269 | [XiaoYouChR/Ghost-Downloader-3](./xiaoyouchr-ghost-downloader-3.md) | ⭐ 11.1k | Python | 64/100 |
 | 270 | [sethcottle/littlelink](./sethcottle-littlelink.md) | ⭐ 3.1k | HTML | 64/100 |
@@ -348,7 +348,7 @@
 | 338 | [VisActor/VTable](./visactor-vtable.md) | ⭐ 3.7k | TypeScript | 63/100 |
 | 339 | [influxdata/influxdb](./influxdata-influxdb.md) | ⭐ 31.8k | Rust | 63/100 |
 | 340 | [vuetifyjs/vuetify](./vuetifyjs-vuetify.md) | ⭐ 41k | TypeScript | 63/100 |
-| 341 | [twentyhq/twenty](./twentyhq-twenty.md) | ⭐ 60.8k | TypeScript | 63/100 |
+| 341 | [twentyhq/twenty](./twentyhq-twenty.md) | ⭐ 60.9k | TypeScript | 63/100 |
 | 342 | [angular/angular](./angular-angular.md) | ⭐ 101.5k | TypeScript | 63/100 |
 | 343 | [microsoft/rnx-kit](./microsoft-rnx-kit.md) | ⭐ 1.7k | TypeScript | 63/100 |
 | 344 | [amruthpillai/reactive-resume](./amruthpillai-reactive-resume.md) | ⭐ 36.7k | TypeScript | 63/100 |
@@ -486,8 +486,8 @@
 | 476 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 477 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
 | 478 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 298 | Rust | 60/100 |
-| 479 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
-| 480 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
+| 479 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
+| 480 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
 | 481 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.8k | TypeScript | 60/100 |
 | 482 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 366 | Go | 60/100 |
 | 483 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
@@ -928,8 +928,8 @@
 | 918 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ 43 | — | 39/100 |
 | 919 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ 4 | — | 39/100 |
 | 920 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ 16 | — | 39/100 |
-| 921 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
-| 922 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
+| 921 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
+| 922 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
 | 923 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
 | 924 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ 11 | — | 39/100 |
 | 925 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |

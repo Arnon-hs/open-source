@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 301.3k |
-| 🍴 **Forks** | 44.5k |
+| ⭐ **Stars** | 302k |
+| 🍴 **Forks** | 44.6k |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-09-05 |
