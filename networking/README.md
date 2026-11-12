@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 783 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 565 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
-| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
+| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
+| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.4k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -561,7 +561,7 @@
 | 551 | [sunny9577/proxy-scraper](./sunny9577-proxy-scraper.md) | ⭐ 598 | JavaScript | 46/100 |
 | 552 | [gnu4cn/ccna60d](./gnu4cn-ccna60d.md) | ⭐ 510 | Handlebars | 46/100 |
 | 553 | [actix/actix-net](./actix-actix-net.md) | ⭐ 777 | Rust | 46/100 |
-| 554 | [lastreload/mnemonic-proxy](./lastreload-mnemonic-proxy.md) | ⭐ 65 | — | 45/100 |
+| 554 | [lastreload/mnemonic-proxy](./lastreload-mnemonic-proxy.md) | ⭐ 66 | — | 45/100 |
 | 555 | [koldakov/proxium](./koldakov-proxium.md) | ⭐ 5 | — | 45/100 |
 | 556 | [personalagentproxy/proxy](./personalagentproxy-proxy.md) | ⭐ 165 | — | 45/100 |
 | 557 | [roozjalali/ariodb](./roozjalali-ariodb.md) | ⭐ — | — | 45/100 |
@@ -582,8 +582,8 @@
 | 572 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 573 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 653 | — | 45/100 |
 | 574 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
-| 576 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 576 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
 | 577 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 578 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 579 | [hoysengleang/wslog](./hoysengleang-wslog.md) | ⭐ 1 | TypeScript | 43/100 |
@@ -629,7 +629,7 @@
 | 619 | [nodemaven/proxy-benchmark](./nodemaven-proxy-benchmark.md) | ⭐ 71 | — | 41/100 |
 | 620 | [coderexpert123/cognition-claude-proxy](./coderexpert123-cognition-claude-proxy.md) | ⭐ 6 | — | 41/100 |
 | 621 | [logimaxx/wg-admin](./logimaxx-wg-admin.md) | ⭐ 45 | — | 41/100 |
-| 622 | [marsbos/mador](./marsbos-mador.md) | ⭐ 123 | — | 41/100 |
+| 622 | [marsbos/mador](./marsbos-mador.md) | ⭐ 124 | — | 41/100 |
 | 623 | [Geod24/wireguard](./geod24-wireguard.md) | ⭐ — | — | 41/100 |
 | 624 | [lordraw77/llmproxy](./lordraw77-llmproxy.md) | ⭐ 2 | — | 41/100 |
 | 625 | [marketplace/actions](./marketplace-actions.md) | ⭐ — | — | 41/100 |
@@ -654,7 +654,7 @@
 | 644 | [bartei/wiregui](./bartei-wiregui.md) | ⭐ 81 | — | 38/100 |
 | 645 | [shivnathtathe/UnlimitedNIM](./shivnathtathe-unlimitednim.md) | ⭐ 4 | — | 38/100 |
 | 646 | [ytkoka/impersonate-proxy](./ytkoka-impersonate-proxy.md) | ⭐ 47 | — | 38/100 |
-| 647 | [linxiv-dev/linXiv](./linxiv-dev-linxiv.md) | ⭐ 65 | — | 38/100 |
+| 647 | [linxiv-dev/linXiv](./linxiv-dev-linxiv.md) | ⭐ 66 | — | 38/100 |
 | 648 | [aikitoria/open-gpu-kernel-modules](./aikitoria-open-gpu-kernel-modules.md) | ⭐ 719 | — | 38/100 |
 | 649 | [clevotec/cleversocks](./clevotec-cleversocks.md) | ⭐ 1 | — | 38/100 |
 | 650 | [ryanzhou/dsv4-codex-proxy](./ryanzhou-dsv4-codex-proxy.md) | ⭐ 1 | — | 38/100 |

@@ -125,7 +125,7 @@
 | 115 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |
 | 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 678 | TypeScript | 46/100 |
 | 117 | [klad-app/klad](./klad-app-klad.md) | ⭐ — | — | 45/100 |
-| 118 | [meta/astryx](./meta-astryx.md) | ⭐ 24.3k | — | 45/100 |
+| 118 | [meta/astryx](./meta-astryx.md) | ⭐ 26.1k | — | 45/100 |
 | 119 | [VenoM9078/gradientdeck-skill](./venom9078-gradientdeck-skill.md) | ⭐ 44 | — | 45/100 |
 | 120 | [ui-layouts/uilayouts](./ui-layouts-uilayouts.md) | ⭐ 3.9k | — | 45/100 |
 | 121 | [qrstajalli/BranchOut](./qrstajalli-branchout.md) | ⭐ 2 | — | 45/100 |
@@ -140,7 +140,7 @@
 | 130 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 656 | Java | 45/100 |
 | 131 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 345 | C++ | 45/100 |
 | 132 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 221 | PHP | 45/100 |
-| 133 | [MickeyAlton33/web-designer-plugin](./mickeyalton33-web-designer-plugin.md) | ⭐ 115 | — | 44/100 |
+| 133 | [MickeyAlton33/web-designer-plugin](./mickeyalton33-web-designer-plugin.md) | ⭐ 114 | — | 44/100 |
 | 134 | [remojansen/rflct](./remojansen-rflct.md) | ⭐ 2 | TypeScript | 44/100 |
 | 135 | [USER/APP](./user-app.md) | ⭐ — | — | 42/100 |
 | 136 | [cedRiC874/researchops-agent](./cedric874-researchops-agent.md) | ⭐ — | — | 42/100 |

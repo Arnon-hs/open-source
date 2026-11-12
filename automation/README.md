@@ -834,8 +834,8 @@
 | 824 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.9k | Go | 62/100 |
 | 825 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 62 | Rust | 62/100 |
 | 826 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.4k | Rust | 62/100 |
-| 827 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 257 | TypeScript | 62/100 |
-| 828 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 89 | Rust | 62/100 |
+| 827 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 89 | Rust | 62/100 |
+| 828 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 257 | TypeScript | 62/100 |
 | 829 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 119 | Shell | 62/100 |
 | 830 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 616 | Python | 62/100 |
 | 831 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 138 | TypeScript | 62/100 |
@@ -1312,7 +1312,7 @@
 | 1302 | [Agilno-Tech/rivet](./agilno-tech-rivet.md) | ⭐ 5 | — | 49/100 |
 | 1303 | [mourad-baazi/hotpath](./mourad-baazi-hotpath.md) | ⭐ 1 | — | 49/100 |
 | 1304 | [ailaflow/ailaflow](./ailaflow-ailaflow.md) | ⭐ 7 | — | 49/100 |
-| 1305 | [linuztx/alter-zero](./linuztx-alter-zero.md) | ⭐ 149 | — | 49/100 |
+| 1305 | [linuztx/alter-zero](./linuztx-alter-zero.md) | ⭐ 152 | — | 49/100 |
 | 1306 | [VBS2004/jev-windows-agent](./vbs2004-jev-windows-agent.md) | ⭐ 8 | — | 49/100 |
 | 1307 | [Moeeryani/Vibe-Coding-Production-Kit](./moeeryani-vibe-coding-production-kit.md) | ⭐ 38 | — | 49/100 |
 | 1308 | [Sev7eNup/NodePilot](./sev7enup-nodepilot.md) | ⭐ 120 | — | 49/100 |
@@ -1326,8 +1326,8 @@
 | 1316 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 779 | Python | 49/100 |
 | 1317 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 583 | — | 49/100 |
 | 1318 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 237 | Rust | 49/100 |
-| 1319 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 515 | Go | 49/100 |
-| 1320 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1319 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1320 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 515 | Go | 49/100 |
 | 1321 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 4.8k | Shell | 49/100 |
 | 1322 | [p-j-code/phase-orchestrator](./p-j-code-phase-orchestrator.md) | ⭐ — | JavaScript | 49/100 |
 | 1323 | [EC-Roshan/refund-court](./ec-roshan-refund-court.md) | ⭐ — | — | 49/100 |
@@ -1396,7 +1396,7 @@
 | 1386 | [gutzerk/code_chroma](./gutzerk-code-chroma.md) | ⭐ 5 | TypeScript | 46/100 |
 | 1387 | [pandadad0214/Watchdog_Panda](./pandadad0214-watchdog-panda.md) | ⭐ 1 | Shell | 46/100 |
 | 1388 | [recued/recued-browser-bench](./recued-recued-browser-bench.md) | ⭐ — | — | 45/100 |
-| 1389 | [matousfiser/pvewarden](./matousfiser-pvewarden.md) | ⭐ 24 | — | 45/100 |
+| 1389 | [matousfiser/pvewarden](./matousfiser-pvewarden.md) | ⭐ 25 | — | 45/100 |
 | 1390 | [HolyArrs/HolyArrs](./holyarrs-holyarrs.md) | ⭐ 899 | — | 45/100 |
 | 1391 | [orikami048/trace-agent-lang](./orikami048-trace-agent-lang.md) | ⭐ — | — | 45/100 |
 | 1392 | [iswalterwu/dev-circuit-ultra](./iswalterwu-dev-circuit-ultra.md) | ⭐ 1 | — | 45/100 |
@@ -1522,7 +1522,7 @@
 | 1512 | [authsec-ai/authsec-ai](./authsec-ai-authsec-ai.md) | ⭐ 16 | — | 42/100 |
 | 1513 | [acip/slack-claude-agent](./acip-slack-claude-agent.md) | ⭐ 7 | — | 42/100 |
 | 1514 | [SuLab/ECAA-workflow](./sulab-ecaa-workflow.md) | ⭐ 3 | — | 42/100 |
-| 1515 | [msitarzewski/agency-agents](./msitarzewski-agency-agents.md) | ⭐ 167.7k | — | 42/100 |
+| 1515 | [msitarzewski/agency-agents](./msitarzewski-agency-agents.md) | ⭐ 167.9k | — | 42/100 |
 | 1516 | [app-vitals/shipwright](./app-vitals-shipwright.md) | ⭐ 16 | — | 42/100 |
 | 1517 | [chafoo/anchored](./chafoo-anchored.md) | ⭐ 3 | — | 42/100 |
 | 1518 | [gosparq/sparq](./gosparq-sparq.md) | ⭐ 38 | — | 42/100 |
@@ -1613,8 +1613,8 @@
 | 1603 | [unkeyed/keanu-reviews](./unkeyed-keanu-reviews.md) | ⭐ 6 | — | 38/100 |
 | 1604 | [madebywelch/guaca](./madebywelch-guaca.md) | ⭐ 54 | — | 38/100 |
 | 1605 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ 1 | — | 38/100 |
-| 1606 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
-| 1607 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ 8 | — | 38/100 |
+| 1606 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ 8 | — | 38/100 |
+| 1607 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
 | 1608 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ 1 | — | 38/100 |
 | 1609 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ 1 | — | 38/100 |
 | 1610 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ 5 | — | 38/100 |
@@ -1685,8 +1685,8 @@
 | 1675 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 32/100 |
 | 1676 | [RazorBlade74/Michaele-tutoring-books](./razorblade74-michaele-tutoring-books.md) | ⭐ — | JavaScript | 31/100 |
 | 1677 | [muhammad-zulqarnain-awan/n8n-on-vercel](./muhammad-zulqarnain-awan-n8n-on-vercel.md) | ⭐ 2 | JavaScript | 31/100 |
-| 1678 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
-| 1679 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ 16 | — | 30/100 |
+| 1678 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ 16 | — | 30/100 |
+| 1679 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
 | 1680 | [jaksdhflkjahsdfkjahsdfkjh/SherpaManager](./jaksdhflkjahsdfkjahsdfkjh-sherpamanager.md) | ⭐ — | C# | 30/100 |
 | 1681 | [anggadb/loop-engine](./anggadb-loop-engine.md) | ⭐ — | Rust | 30/100 |
 | 1682 | [RomanSlack/jev-drone](./romanslack-jev-drone.md) | ⭐ 300 | — | 29/100 |

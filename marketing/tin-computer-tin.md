@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 181 |
-| 🍴 **Forks** | 95 |
+| ⭐ **Stars** | 182 |
+| 🍴 **Forks** | 96 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 57/100 |
 | 🗓️ **Last push** | 2026-11-11 |
@@ -51,8 +51,8 @@ tin-computer/tin：tin-computer/tin may be useful when its README and activity m
 
 **Quality signals**
 
-- 181 GitHub stars
-- 95 forks
+- 182 GitHub stars
+- 96 forks
 - updated 2026-11-11
 - primary language: Python
 

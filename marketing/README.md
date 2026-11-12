@@ -15,7 +15,7 @@
 | 5 | [jasonwebb/morphogenesis-resources](./jasonwebb-morphogenesis-resources.md) | ⭐ 2.3k | — | 61/100 |
 | 6 | [nonbili/Nora](./nonbili-nora.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 7 | [openplayerjs/openplayerjs](./openplayerjs-openplayerjs.md) | ⭐ 650 | TypeScript | 59/100 |
-| 8 | [tin-computer/tin](./tin-computer-tin.md) | ⭐ 181 | Python | 57/100 |
+| 8 | [tin-computer/tin](./tin-computer-tin.md) | ⭐ 182 | Python | 57/100 |
 | 9 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 1.1k | TypeScript | 56/100 |
 | 10 | [codialab/panacus](./codialab-panacus.md) | ⭐ 141 | Rust | 55/100 |
 | 11 | [testedmedia/seo-command-center](./testedmedia-seo-command-center.md) | ⭐ 27 | — | 54/100 |

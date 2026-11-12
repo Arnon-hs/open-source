@@ -275,7 +275,7 @@
 | 265 | [s2-streamstore/nfs-crust](./s2-streamstore-nfs-crust.md) | ⭐ 9 | — | 45/100 |
 | 266 | [steel-experiments/atlas-demo](./steel-experiments-atlas-demo.md) | ⭐ 2 | — | 45/100 |
 | 267 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |
-| 268 | [cattlecloud/litesql](./cattlecloud-litesql.md) | ⭐ 6 | — | 44/100 |
+| 268 | [cattlecloud/litesql](./cattlecloud-litesql.md) | ⭐ 23 | — | 44/100 |
 | 269 | [deepdroptoronto/aperture](./deepdroptoronto-aperture.md) | ⭐ — | — | 44/100 |
 | 270 | [tpkarras/BasicOboe](./tpkarras-basicoboe.md) | ⭐ — | — | 44/100 |
 | 271 | [egoisutolabs/scipgo](./egoisutolabs-scipgo.md) | ⭐ 8 | — | 44/100 |
