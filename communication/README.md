@@ -363,8 +363,8 @@
 | 353 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 354 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 355 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 356 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 357 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 356 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 357 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 358 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 359 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 360 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |
@@ -372,7 +372,7 @@
 | 362 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ 5 | — | 42/100 |
 | 363 | [Mnexa-AI/e2a](./mnexa-ai-e2a.md) | ⭐ — | — | 42/100 |
 | 364 | [rebisway/freespeech](./rebisway-freespeech.md) | ⭐ — | — | 41/100 |
-| 365 | [seanparkross/slack-thread-police](./seanparkross-slack-thread-police.md) | ⭐ 4 | — | 41/100 |
+| 365 | [seanparkross/slack-thread-police](./seanparkross-slack-thread-police.md) | ⭐ 6 | — | 41/100 |
 | 366 | [livekit/ros-portal](./livekit-ros-portal.md) | ⭐ 8 | — | 41/100 |
 | 367 | [mre/thundervim](./mre-thundervim.md) | ⭐ 6 | — | 41/100 |
 | 368 | [nashbridges/dial-r-for-reply](./nashbridges-dial-r-for-reply.md) | ⭐ 2 | — | 41/100 |

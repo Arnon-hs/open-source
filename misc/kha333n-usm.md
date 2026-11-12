@@ -62,18 +62,18 @@ kha333n/usm：kha333n/usm may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 56/100 |
-| adoption | 11/100 |
-| categoryMatchCount | 0/100 |
-| stars | 15/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 15/100 |
 | topics | 100/100 |
+| outlook | 56/100 |
+| quality | 50/100 |
+| recency | 80/100 |
+| adoption | 11/100 |
+| production | 58/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
