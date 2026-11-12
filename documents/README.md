@@ -237,7 +237,7 @@
 | 227 | [UglyToad/PdfPig](./uglytoad-pdfpig.md) | ⭐ 2.6k | C# | 59/100 |
 | 228 | [danmolitor/forme](./danmolitor-forme.md) | ⭐ 234 | Rust | 59/100 |
 | 229 | [lsnepomuceno/laravel-a1-pdf-sign](./lsnepomuceno-laravel-a1-pdf-sign.md) | ⭐ 324 | PHP | 59/100 |
-| 230 | [lektor/lektor](./lektor-lektor.md) | ⭐ 4k | Python | 59/100 |
+| 230 | [lektor/lektor](./lektor-lektor.md) | ⭐ 3.9k | Python | 59/100 |
 | 231 | [freref/fancy-cat](./freref-fancy-cat.md) | ⭐ 580 | Zig | 59/100 |
 | 232 | [linkdotnet/Blog](./linkdotnet-blog.md) | ⭐ 432 | C# | 59/100 |
 | 233 | [sftwrdotdev/Markpad](./sftwrdotdev-markpad.md) | ⭐ 1.4k | TypeScript | 59/100 |
@@ -430,14 +430,14 @@
 | 420 | [ttu-ttu/ebook-reader](./ttu-ttu-ebook-reader.md) | ⭐ 1.1k | Svelte | 51/100 |
 | 421 | [spawnia/md-to-pdf](./spawnia-md-to-pdf.md) | ⭐ 171 | Rust | 51/100 |
 | 422 | [messense/mupdf-rs](./messense-mupdf-rs.md) | ⭐ 215 | Rust | 51/100 |
-| 423 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 183 | Rust | 51/100 |
-| 424 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
+| 423 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
+| 424 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 183 | Rust | 51/100 |
 | 425 | [CultivateLabs/storytime](./cultivatelabs-storytime.md) | ⭐ 743 | Ruby | 51/100 |
 | 426 | [clerkma/ptex-ng](./clerkma-ptex-ng.md) | ⭐ 307 | C | 51/100 |
 | 427 | [3xxx/engineercms](./3xxx-engineercms.md) | ⭐ 1.4k | Go | 51/100 |
 | 428 | [Epistates/treemd](./epistates-treemd.md) | ⭐ 732 | Rust | 51/100 |
 | 429 | [craftcms/cms](./craftcms-cms.md) | ⭐ 3.6k | PHP | 51/100 |
-| 430 | [cloudflare/cloudflare-docs](./cloudflare-cloudflare-docs.md) | ⭐ 5.4k | MDX | 51/100 |
+| 430 | [cloudflare/cloudflare-docs](./cloudflare-cloudflare-docs.md) | ⭐ 5.5k | MDX | 51/100 |
 | 431 | [docker/docs](./docker-docs.md) | ⭐ 4.7k | Markdown | 51/100 |
 | 432 | [hrishu802/TidyByte](./hrishu802-tidybyte.md) | ⭐ — | TypeScript | 50/100 |
 | 433 | [phodal/awesome-iot-document](./phodal-awesome-iot-document.md) | ⭐ 348 | — | 50/100 |
@@ -507,8 +507,8 @@
 | 497 | [cfug/flutter.cn](./cfug-flutter.cn.md) | ⭐ 568 | Dart | 47/100 |
 | 498 | [qpdf/qpdf](./qpdf-qpdf.md) | ⭐ 5.6k | C++ | 47/100 |
 | 499 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
-| 500 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
-| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
+| 500 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
+| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
 | 502 | [waka/sghtmltopdf](./waka-sghtmltopdf.md) | ⭐ 381 | Rust | 46/100 |
 | 503 | [Sigil-Ebook/Sigil](./sigil-ebook-sigil.md) | ⭐ 7k | C++ | 46/100 |
 | 504 | [fiduswriter/fiduswriter](./fiduswriter-fiduswriter.md) | ⭐ 569 | JavaScript | 46/100 |

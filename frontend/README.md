@@ -73,7 +73,7 @@
 | 63 | [LucivHuang/heimdallr-sdk](./lucivhuang-heimdallr-sdk.md) | ⭐ 686 | TypeScript | 71/100 |
 | 64 | [lucide-icons/lucide](./lucide-icons-lucide.md) | ⭐ 25.7k | TypeScript | 71/100 |
 | 65 | [Cawlumm/lyftr](./cawlumm-lyftr.md) | ⭐ 363 | TypeScript | 71/100 |
-| 66 | [obsidianmd/obsidian-clipper](./obsidianmd-obsidian-clipper.md) | ⭐ 5.5k | TypeScript | 71/100 |
+| 66 | [obsidianmd/obsidian-clipper](./obsidianmd-obsidian-clipper.md) | ⭐ 5.6k | TypeScript | 71/100 |
 | 67 | [supabase/supabase-js](./supabase-supabase-js.md) | ⭐ 4.6k | TypeScript | 71/100 |
 | 68 | [sbondCo/Watcharr](./sbondco-watcharr.md) | ⭐ 1.6k | Go | 71/100 |
 | 69 | [frangoteam/FUXA](./frangoteam-fuxa.md) | ⭐ 5.3k | TypeScript | 71/100 |
@@ -517,8 +517,8 @@
 | 507 | [sveltejs/eslint-plugin-svelte](./sveltejs-eslint-plugin-svelte.md) | ⭐ 413 | TypeScript | 59/100 |
 | 508 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 893 | TypeScript | 59/100 |
 | 509 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 815 | TypeScript | 59/100 |
-| 510 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
-| 511 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 510 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 511 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 512 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 513 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 360 | TypeScript | 59/100 |
 | 514 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 676 | Rust | 59/100 |

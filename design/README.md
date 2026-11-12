@@ -58,7 +58,7 @@
 | 48 | [RailsEventStore/rails_event_store](./railseventstore-rails-event-store.md) | ⭐ 1.6k | Ruby | 57/100 |
 | 49 | [CircuitVerse/CircuitVerse](./circuitverse-circuitverse.md) | ⭐ 1.3k | JavaScript | 57/100 |
 | 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 656 | TypeScript | 57/100 |
-| 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.2k | C++ | 57/100 |
+| 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.3k | C++ | 57/100 |
 | 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 718 | Python | 57/100 |
 | 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 13 | JavaScript | 57/100 |
 | 54 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 354 | Lua | 56/100 |
@@ -71,7 +71,7 @@
 | 61 | [pctrade/end4-pC](./pctrade-end4-pc.md) | ⭐ 3.8k | QML | 55/100 |
 | 62 | [337547038/vue-form-design](./337547038-vue-form-design.md) | ⭐ 384 | JavaScript | 55/100 |
 | 63 | [seek-oss/capsize](./seek-oss-capsize.md) | ⭐ 1.7k | TypeScript | 55/100 |
-| 64 | [HapeLee/legado-with-MD3](./hapelee-legado-with-md3.md) | ⭐ 6.9k | Kotlin | 55/100 |
+| 64 | [HapeLee/legado-with-MD3](./hapelee-legado-with-md3.md) | ⭐ 7k | Kotlin | 55/100 |
 | 65 | [braver/programmingfonts](./braver-programmingfonts.md) | ⭐ 1.8k | CSS | 55/100 |
 | 66 | [SamToki/Sam-Toki-Mouse-Cursors](./samtoki-sam-toki-mouse-cursors.md) | ⭐ 876 | — | 55/100 |
 | 67 | [chipsalliance/Cores-VeeR-EL2](./chipsalliance-cores-veer-el2.md) | ⭐ 351 | SystemVerilog | 55/100 |

@@ -16,7 +16,7 @@
 | 6 | [orbivort/scrumooth](./orbivort-scrumooth.md) | ⭐ 1 | TypeScript | 53/100 |
 | 7 | [agenttools/headroom](./agenttools-headroom.md) | ⭐ — | — | 45/100 |
 | 8 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
-| 9 | [jessn-dev/jobDork](./jessn-dev-jobdork.md) | ⭐ — | — | 41/100 |
+| 9 | [jessn-dev/jobDork](./jessn-dev-jobdork.md) | ⭐ 1 | — | 41/100 |
 | 10 | [FrigadeHQ/yogurt](./frigadehq-yogurt.md) | ⭐ — | — | 41/100 |
 | 11 | [SreeNaresh1/episteme-ai](./sreenaresh1-episteme-ai.md) | ⭐ — | — | 41/100 |
 | 12 | [sridharchaildn/notebook-ai](./sridharchaildn-notebook-ai.md) | ⭐ 1 | — | 41/100 |

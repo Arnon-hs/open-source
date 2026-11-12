@@ -158,7 +158,7 @@
 | 148 | [google/angle](./google-angle.md) | ⭐ 4.1k | C++ | 58/100 |
 | 149 | [ggez/ggez](./ggez-ggez.md) | ⭐ 4.7k | Rust | 58/100 |
 | 150 | [appsinacup/godot-rapier-physics](./appsinacup-godot-rapier-physics.md) | ⭐ 1k | Rust | 58/100 |
-| 151 | [KaijuEngine/kaiju](./kaijuengine-kaiju.md) | ⭐ 4.7k | Go | 58/100 |
+| 151 | [KaijuEngine/kaiju](./kaijuengine-kaiju.md) | ⭐ 4.8k | Go | 58/100 |
 | 152 | [clockworklabs/SpacetimeDB](./clockworklabs-spacetimedb.md) | ⭐ 25.5k | Rust | 58/100 |
 | 153 | [dodorare/crossbow](./dodorare-crossbow.md) | ⭐ 213 | Rust | 57/100 |
 | 154 | [racenis/tram-sdk](./racenis-tram-sdk.md) | ⭐ 417 | C++ | 57/100 |

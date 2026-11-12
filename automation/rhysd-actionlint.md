@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.4k |
-| 🍴 **Forks** | 298 |
+| 🍴 **Forks** | 299 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-11-05 |
@@ -54,7 +54,7 @@ rhysd/actionlint：rhysd/actionlint helps remove repetitive manual operations fr
 **Quality signals**
 
 - 4408 GitHub stars
-- 298 forks
+- 299 forks
 - updated 2026-11-05
 - primary language: Go
 - 11 topics

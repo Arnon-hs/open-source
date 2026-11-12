@@ -33,7 +33,7 @@
 | 23 | [Cuongyd196/remotion-cuongit-template](./cuongyd196-remotion-cuongit-template.md) | ⭐ 243 | TypeScript | 74/100 |
 | 24 | [opus-pro/opus-skills](./opus-pro-opus-skills.md) | ⭐ 28 | JavaScript | 74/100 |
 | 25 | [2417467487-hub/Trend2Video-Pro](./2417467487-hub-trend2video-pro.md) | ⭐ 211 | Python | 74/100 |
-| 26 | [Anil-matcha/AI-Youtube-Shorts-Generator](./anil-matcha-ai-youtube-shorts-generator.md) | ⭐ 5.9k | Python | 74/100 |
+| 26 | [Anil-matcha/AI-Youtube-Shorts-Generator](./anil-matcha-ai-youtube-shorts-generator.md) | ⭐ 6k | Python | 74/100 |
 | 27 | [mkamranr/reelforge](./mkamranr-reelforge.md) | ⭐ 72 | Python | 74/100 |
 | 28 | [ColinGPT9/clips-studio](./colingpt9-clips-studio.md) | ⭐ 227 | Python | 74/100 |
 | 29 | [xixihhhh/hotclip](./xixihhhh-hotclip.md) | ⭐ 447 | TypeScript | 74/100 |

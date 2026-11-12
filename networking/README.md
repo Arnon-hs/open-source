@@ -96,7 +96,7 @@
 | 86 | [XTLS/Xray-core](./xtls-xray-core.md) | ⭐ 42.8k | Go | 68/100 |
 | 87 | [MHSanaei/3x-ui](./mhsanaei-3x-ui.md) | ⭐ 49.7k | Go | 68/100 |
 | 88 | [mistweaverco/kulala.nvim](./mistweaverco-kulala.nvim.md) | ⭐ 2.1k | Lua | 68/100 |
-| 89 | [scanopy/scanopy](./scanopy-scanopy.md) | ⭐ 5.9k | Rust | 68/100 |
+| 89 | [scanopy/scanopy](./scanopy-scanopy.md) | ⭐ 6k | Rust | 68/100 |
 | 90 | [AsyncHttpClient/async-http-client](./asynchttpclient-async-http-client.md) | ⭐ 6.4k | Java | 68/100 |
 | 91 | [plabayo/rama](./plabayo-rama.md) | ⭐ 1.3k | Rust | 68/100 |
 | 92 | [0xERR0R/blocky](./0xerr0r-blocky.md) | ⭐ 7.1k | Go | 68/100 |
@@ -496,7 +496,7 @@
 | 486 | [DevlogZz/Kivo](./devlogzz-kivo.md) | ⭐ 319 | JavaScript | 50/100 |
 | 487 | [Arcadia-Solutions/arcadia](./arcadia-solutions-arcadia.md) | ⭐ 368 | Rust | 50/100 |
 | 488 | [hoophq/hoop](./hoophq-hoop.md) | ⭐ 853 | Go | 50/100 |
-| 489 | [igareck/vpn-configs-for-russia](./igareck-vpn-configs-for-russia.md) | ⭐ 9.5k | — | 50/100 |
+| 489 | [igareck/vpn-configs-for-russia](./igareck-vpn-configs-for-russia.md) | ⭐ 9.6k | — | 50/100 |
 | 490 | [PabloLec/neoss](./pablolec-neoss.md) | ⭐ 234 | TypeScript | 50/100 |
 | 491 | [linzjian666/chromego_extractor](./linzjian666-chromego-extractor.md) | ⭐ 311 | Python | 50/100 |
 | 492 | [readysettech/readyset](./readysettech-readyset.md) | ⭐ 5.3k | Rust | 50/100 |

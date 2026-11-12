@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.1k |
-| 🍴 **Forks** | 978 |
+| 🍴 **Forks** | 980 |
 | 💻 **Language** | SystemVerilog |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-09-05 |

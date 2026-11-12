@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 4.5k |
-| 🍴 **Forks** | 994 |
+| 🍴 **Forks** | 995 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 60/100 |
 | 🗓️ **Last push** | 2026-11-04 |
@@ -51,8 +51,8 @@ jhlywa/chess.js：jhlywa/chess.js may be useful when its README and activity mat
 
 **Quality signals**
 
-- 4454 GitHub stars
-- 994 forks
+- 4456 GitHub stars
+- 995 forks
 - updated 2026-11-04
 - primary language: TypeScript
 - 6 topics
