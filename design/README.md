@@ -91,7 +91,7 @@
 | 81 | [neetly/figma-agent-linux](./neetly-figma-agent-linux.md) | ⭐ 401 | Rust | 53/100 |
 | 82 | [adobe/spectrum-design-data](./adobe-spectrum-design-data.md) | ⭐ 157 | Rust | 53/100 |
 | 83 | [su2code/SU2](./su2code-su2.md) | ⭐ 1.9k | C++ | 53/100 |
-| 84 | [smokeeaasd/flawless-ui-ux](./smokeeaasd-flawless-ui-ux.md) | ⭐ 219 | — | 52/100 |
+| 84 | [smokeeaasd/flawless-ui-ux](./smokeeaasd-flawless-ui-ux.md) | ⭐ 225 | — | 52/100 |
 | 85 | [vuematerial/vue-material](./vuematerial-vue-material.md) | ⭐ 9.8k | Vue | 52/100 |
 | 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 562 | Swift | 52/100 |
 | 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.2k | Handlebars | 52/100 |
@@ -151,7 +151,7 @@
 | 141 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ 38 | — | 42/100 |
 | 142 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 42/100 |
 | 143 | [robbietilton/Compositor](./robbietilton-compositor.md) | ⭐ 18.6k | — | 41/100 |
-| 144 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ 883 | — | 41/100 |
+| 144 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ 884 | — | 41/100 |
 | 145 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 806 | — | 41/100 |
 | 146 | [posterlet/amazing-posters](./posterlet-amazing-posters.md) | ⭐ 4 | — | 41/100 |
 | 147 | [nhunsaker/screenshot-to-tokens](./nhunsaker-screenshot-to-tokens.md) | ⭐ 7 | — | 41/100 |
@@ -162,7 +162,7 @@
 | 152 | [giminycricket0-blip/design-html](./giminycricket0-blip-design-html.md) | ⭐ — | — | 41/100 |
 | 153 | [peterdsharpe/AeroSandbox](./peterdsharpe-aerosandbox.md) | ⭐ 1.4k | — | 41/100 |
 | 154 | [fyzugx/DEsk](./fyzugx-desk.md) | ⭐ 1.7k | — | 41/100 |
-| 155 | [storytold/figcraft](./storytold-figcraft.md) | ⭐ 4.8k | — | 41/100 |
+| 155 | [storytold/figcraft](./storytold-figcraft.md) | ⭐ 4.9k | — | 41/100 |
 | 156 | [triggeredcode/lucid](./triggeredcode-lucid.md) | ⭐ 6 | — | 41/100 |
 | 157 | [dplanitzer/Serena](./dplanitzer-serena.md) | ⭐ 293 | — | 41/100 |
 | 158 | [google-deepmind/alphaprotein-novo](./google-deepmind-alphaprotein-novo.md) | ⭐ 321 | — | 41/100 |
@@ -200,8 +200,8 @@
 | 190 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
 | 191 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ 2.1k | — | 38/100 |
 | 192 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ 972 | — | 38/100 |
-| 193 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ 310 | — | 38/100 |
-| 194 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ 126.8k | — | 38/100 |
+| 193 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ 313 | — | 38/100 |
+| 194 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ 127.2k | — | 38/100 |
 | 195 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ 272 | — | 38/100 |
 | 196 | [boya16573-design/Cube3.in](./boya16573-design-cube3.in.md) | ⭐ — | HTML | 36/100 |
 | 197 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |

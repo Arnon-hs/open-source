@@ -359,7 +359,7 @@
 | 349 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 43/100 |
 | 350 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
 | 351 | [shilpidaswani/finkit](./shilpidaswani-finkit.md) | ⭐ — | TypeScript | 42/100 |
-| 352 | [aperiodic-io/tparquet](./aperiodic-io-tparquet.md) | ⭐ — | — | 41/100 |
+| 352 | [aperiodic-io/tparquet](./aperiodic-io-tparquet.md) | ⭐ 4 | — | 41/100 |
 | 353 | [vicena-labs/scientific-prediction-benchmark](./vicena-labs-scientific-prediction-benchmark.md) | ⭐ — | — | 41/100 |
 | 354 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ 45 | — | 41/100 |
 | 355 | [RedRiotTank/NativeJsonNavigator](./redriottank-nativejsonnavigator.md) | ⭐ 14 | — | 41/100 |

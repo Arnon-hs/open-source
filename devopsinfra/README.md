@@ -129,8 +129,8 @@
 | 119 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 9k | Go | 64/100 |
 | 120 | [tborychowski/self-hosted-cookbook](./tborychowski-self-hosted-cookbook.md) | ⭐ 1.3k | — | 64/100 |
 | 121 | [open-policy-agent/gatekeeper-library](./open-policy-agent-gatekeeper-library.md) | ⭐ 705 | Open Policy Agent | 64/100 |
-| 122 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
-| 123 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 677 | Go | 64/100 |
+| 122 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 677 | Go | 64/100 |
+| 123 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
 | 124 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 64/100 |
 | 125 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 326 | Python | 64/100 |
 | 126 | [mkubaczyk/helmsman](./mkubaczyk-helmsman.md) | ⭐ 1.5k | Go | 64/100 |
@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -494,16 +494,16 @@
 | 484 | [AgentLineHQ/AgentLine](./agentlinehq-agentline.md) | ⭐ 62 | — | 42/100 |
 | 485 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 328 | Dockerfile | 42/100 |
 | 486 | [muhammadyulasfipahrizal/circle](./muhammadyulasfipahrizal-circle.md) | ⭐ — | Go | 42/100 |
-| 487 | [ebrake/pulumi-journaling](./ebrake-pulumi-journaling.md) | ⭐ — | — | 41/100 |
+| 487 | [ebrake/pulumi-journaling](./ebrake-pulumi-journaling.md) | ⭐ 1 | — | 41/100 |
 | 488 | [tatsuikeda/sextant](./tatsuikeda-sextant.md) | ⭐ — | — | 41/100 |
 | 489 | [kelvindesman/cf-container-runners](./kelvindesman-cf-container-runners.md) | ⭐ — | — | 41/100 |
 | 490 | [greatPHPer/CloudRunner-Releases](./greatphper-cloudrunner-releases.md) | ⭐ — | — | 41/100 |
 | 491 | [aws/aws-emulator](./aws-aws-emulator.md) | ⭐ 99 | — | 41/100 |
 | 492 | [hashicorp/vagrant](./hashicorp-vagrant.md) | ⭐ — | — | 41/100 |
-| 493 | [linsomniac/apt-cacher-ultra](./linsomniac-apt-cacher-ultra.md) | ⭐ — | — | 41/100 |
-| 494 | [giovantenne/nixorium](./giovantenne-nixorium.md) | ⭐ 65 | — | 41/100 |
+| 493 | [linsomniac/apt-cacher-ultra](./linsomniac-apt-cacher-ultra.md) | ⭐ 25 | — | 41/100 |
+| 494 | [giovantenne/nixorium](./giovantenne-nixorium.md) | ⭐ 67 | — | 41/100 |
 | 495 | [UniXNU/UniXNU](./unixnu-unixnu.md) | ⭐ 2.6k | — | 41/100 |
-| 496 | [tanishqkancharla/tandem](./tanishqkancharla-tandem.md) | ⭐ 24 | — | 41/100 |
+| 496 | [tanishqkancharla/tandem](./tanishqkancharla-tandem.md) | ⭐ 25 | — | 41/100 |
 | 497 | [picubedllc/terraform-provider-appleads](./picubedllc-terraform-provider-appleads.md) | ⭐ 3 | — | 41/100 |
 | 498 | [TilakMaddy/hyperindex-openinfra](./tilakmaddy-hyperindex-openinfra.md) | ⭐ 2 | — | 41/100 |
 | 499 | [breezycourses/presage](./breezycourses-presage.md) | ⭐ 3 | — | 41/100 |

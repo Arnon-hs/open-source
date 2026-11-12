@@ -18,7 +18,7 @@
 | 8 | [agenttools/headroom](./agenttools-headroom.md) | ⭐ — | — | 45/100 |
 | 9 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
 | 10 | [jessn-dev/jobDork](./jessn-dev-jobdork.md) | ⭐ 1 | — | 41/100 |
-| 11 | [FrigadeHQ/yogurt](./frigadehq-yogurt.md) | ⭐ — | — | 41/100 |
+| 11 | [FrigadeHQ/yogurt](./frigadehq-yogurt.md) | ⭐ 797 | — | 41/100 |
 | 12 | [SreeNaresh1/episteme-ai](./sreenaresh1-episteme-ai.md) | ⭐ — | — | 41/100 |
 | 13 | [sridharchaildn/notebook-ai](./sridharchaildn-notebook-ai.md) | ⭐ 1 | — | 41/100 |
 | 14 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ 6 | — | 41/100 |

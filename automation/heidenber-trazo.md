@@ -1,6 +1,6 @@
 # heidenber/trazo
 
-[![Stars](https://img.shields.io/github/stars/heidenber/trazo?style=flat-square&color=yellow)](https://github.com/heidenber/trazo/stargazers) [![Forks](https://img.shields.io/github/forks/heidenber/trazo?style=flat-square&color=blue)](https://github.com/heidenber/trazo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/heidenber/trazo?style=flat-square&color=yellow)](https://github.com/heidenber/trazo/stargazers) [![Forks](https://img.shields.io/github/forks/heidenber/trazo?style=flat-square&color=blue)](https://github.com/heidenber/trazo/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
 
 > Semantic JSON in, laid-out interactive HTML out: diagrams for coding agents.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 66/100 |
+| 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ heidenber/trazo：heidenber/trazo helps remove repetitive manual operations from
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 57/100 |
+| quality | 52/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 73/100 |
+| production | 61/100 |
+| outlook | 66/100 |
 | adoption | 13/100 |
 | categoryMatchCount | 100/100 |
 | stars | 13/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

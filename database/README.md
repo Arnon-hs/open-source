@@ -368,7 +368,7 @@
 | 358 | [redis-rs/redis-rs](./redis-rs-redis-rs.md) | ⭐ 4.3k | Rust | 46/100 |
 | 359 | [cberner/redb](./cberner-redb.md) | ⭐ 4.9k | Rust | 46/100 |
 | 360 | [AydenGroup/nitrobase](./aydengroup-nitrobase.md) | ⭐ 8 | TypeScript | 46/100 |
-| 361 | [relatedb/relate](./relatedb-relate.md) | ⭐ — | — | 45/100 |
+| 361 | [relatedb/relate](./relatedb-relate.md) | ⭐ 160 | — | 45/100 |
 | 362 | [DevLoops-ai/unified-brain](./devloops-ai-unified-brain.md) | ⭐ 34 | — | 45/100 |
 | 363 | [deedglass/deedglass](./deedglass-deedglass.md) | ⭐ 6 | — | 45/100 |
 | 364 | [objectbox/adhoc-db-benchmarks](./objectbox-adhoc-db-benchmarks.md) | ⭐ 1 | — | 45/100 |
@@ -440,7 +440,7 @@
 | 430 | [grecinto/tensortree](./grecinto-tensortree.md) | ⭐ 1 | — | 42/100 |
 | 431 | [cybertec-postgresql/pg_hardstorage](./cybertec-postgresql-pg-hardstorage.md) | ⭐ 145 | — | 42/100 |
 | 432 | [sqliteai/sqlite-columnar](./sqliteai-sqlite-columnar.md) | ⭐ 17 | — | 42/100 |
-| 433 | [swytchdb/swytch](./swytchdb-swytch.md) | ⭐ 88 | — | 42/100 |
+| 433 | [swytchdb/swytch](./swytchdb-swytch.md) | ⭐ 89 | — | 42/100 |
 | 434 | [sseemayer/keepass-rs](./sseemayer-keepass-rs.md) | ⭐ 177 | Rust | 42/100 |
 | 435 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 341 | R | 42/100 |
 | 436 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 251 | Rust | 42/100 |
@@ -465,7 +465,7 @@
 | 455 | [barddoo/pgzx](./barddoo-pgzx.md) | ⭐ 5 | — | 41/100 |
 | 456 | [benbjohnson/litestream](./benbjohnson-litestream.md) | ⭐ 14.6k | — | 41/100 |
 | 457 | [misaelzapata/duckonwire](./misaelzapata-duckonwire.md) | ⭐ 2 | — | 41/100 |
-| 458 | [sqliteai/sqlite-multiwriter](./sqliteai-sqlite-multiwriter.md) | ⭐ 193 | — | 41/100 |
+| 458 | [sqliteai/sqlite-multiwriter](./sqliteai-sqlite-multiwriter.md) | ⭐ 194 | — | 41/100 |
 | 459 | [dobrinov/schema](./dobrinov-schema.md) | ⭐ 14 | — | 41/100 |
 | 460 | [samyfodil/musql](./samyfodil-musql.md) | ⭐ 128 | — | 41/100 |
 | 461 | [berry-apps/berrydb-desktop](./berry-apps-berrydb-desktop.md) | ⭐ 26 | — | 41/100 |
@@ -545,15 +545,15 @@
 | 535 | [Alurith/sqlitewatch](./alurith-sqlitewatch.md) | ⭐ 3 | — | 38/100 |
 | 536 | [berabuddies/redis-poc](./berabuddies-redis-poc.md) | ⭐ 522 | — | 38/100 |
 | 537 | [osmanahmadxai/SYNCLE](./osmanahmadxai-syncle.md) | ⭐ 53 | — | 38/100 |
-| 538 | [SynnoDB/SynnoDB](./synnodb-synnodb.md) | ⭐ 30 | — | 38/100 |
+| 538 | [SynnoDB/SynnoDB](./synnodb-synnodb.md) | ⭐ 31 | — | 38/100 |
 | 539 | [cursor/minisqlite](./cursor-minisqlite.md) | ⭐ 293 | — | 38/100 |
 | 540 | [Rionlyu/spoold](./rionlyu-spoold.md) | ⭐ 2 | — | 38/100 |
 | 541 | [rozhnev/university-db](./rozhnev-university-db.md) | ⭐ 6 | — | 38/100 |
 | 542 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 543 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 544 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 435 | — | 38/100 |
-| 545 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
-| 546 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 545 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 546 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
 | 547 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 548 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 549 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |
@@ -578,8 +578,8 @@
 | 568 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 569 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 570 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 106 | — | 38/100 |
-| 571 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
-| 572 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
+| 571 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
+| 572 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
 | 573 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 574 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 575 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

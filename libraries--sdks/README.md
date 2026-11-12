@@ -247,9 +247,9 @@
 | 237 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 217 | JavaScript | 49/100 |
 | 238 | [CH-Abhinav/JNum](./ch-abhinav-jnum.md) | ⭐ 33 | — | 48/100 |
 | 239 | [apple-auth/apple-auth](./apple-auth-apple-auth.md) | ⭐ 3 | — | 48/100 |
-| 240 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ 106 | — | 48/100 |
+| 240 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ 112 | — | 48/100 |
 | 241 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |
-| 242 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ 9 | — | 48/100 |
+| 242 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ 10 | — | 48/100 |
 | 243 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ 2.7k | — | 48/100 |
 | 244 | [DisplayLink/displaylink-direct](./displaylink-displaylink-direct.md) | ⭐ 1 | — | 48/100 |
 | 245 | [Q-ANT-GmbH/qant_native_computing_toolkit](./q-ant-gmbh-qant-native-computing-toolkit.md) | ⭐ 95 | — | 48/100 |
@@ -277,7 +277,7 @@
 | 267 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |
 | 268 | [cattlecloud/litesql](./cattlecloud-litesql.md) | ⭐ 23 | — | 44/100 |
 | 269 | [deepdroptoronto/aperture](./deepdroptoronto-aperture.md) | ⭐ — | — | 44/100 |
-| 270 | [tpkarras/BasicOboe](./tpkarras-basicoboe.md) | ⭐ — | — | 44/100 |
+| 270 | [tpkarras/BasicOboe](./tpkarras-basicoboe.md) | ⭐ 2 | — | 44/100 |
 | 271 | [egoisutolabs/scipgo](./egoisutolabs-scipgo.md) | ⭐ 8 | — | 44/100 |
 | 272 | [rust-lang/git2-rs](./rust-lang-git2-rs.md) | ⭐ 2.1k | Rust | 44/100 |
 | 273 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 43/100 |

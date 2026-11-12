@@ -522,7 +522,7 @@
 | 512 | [aimy1/Wmimo](./aimy1-wmimo.md) | ⭐ 7 | — | 48/100 |
 | 513 | [ventz/wombat-wireguard-mac-app](./ventz-wombat-wireguard-mac-app.md) | ⭐ — | — | 48/100 |
 | 514 | [aminueza/Keyfence](./aminueza-keyfence.md) | ⭐ 7 | — | 48/100 |
-| 515 | [theoriclabs/leanhttp](./theoriclabs-leanhttp.md) | ⭐ 16 | — | 48/100 |
+| 515 | [theoriclabs/leanhttp](./theoriclabs-leanhttp.md) | ⭐ 17 | — | 48/100 |
 | 516 | [TopChina/proxy-list](./topchina-proxy-list.md) | ⭐ 307 | — | 48/100 |
 | 517 | [ayuhito/safehttp](./ayuhito-safehttp.md) | ⭐ 4 | — | 48/100 |
 | 518 | [dpc/rostra](./dpc-rostra.md) | ⭐ 111 | Rust | 48/100 |
@@ -573,7 +573,7 @@
 | 563 | [kabirnarang39/wardline](./kabirnarang39-wardline.md) | ⭐ 17 | — | 45/100 |
 | 564 | [DerotLuna/vpn-kongtrol](./derotluna-vpn-kongtrol.md) | ⭐ 6 | — | 45/100 |
 | 565 | [genesisdb-io/genesisdb-orchestrator](./genesisdb-io-genesisdb-orchestrator.md) | ⭐ 1 | — | 45/100 |
-| 566 | [tkngate/tkngate](./tkngate-tkngate.md) | ⭐ 20 | — | 45/100 |
+| 566 | [tkngate/tkngate](./tkngate-tkngate.md) | ⭐ 21 | — | 45/100 |
 | 567 | [kotro-labs/kotro-proxy-engine](./kotro-labs-kotro-proxy-engine.md) | ⭐ 9 | — | 45/100 |
 | 568 | [s-bose/arrest](./s-bose-arrest.md) | ⭐ 174 | — | 45/100 |
 | 569 | [sleep3r/mtproto.zig](./sleep3r-mtproto.zig.md) | ⭐ 2.2k | Zig | 45/100 |

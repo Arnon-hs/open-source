@@ -118,8 +118,8 @@
 | 108 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.9k | PHP | 62/100 |
 | 109 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 10.3k | PHP | 62/100 |
 | 110 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 1.1k | TypeScript | 62/100 |
-| 111 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
-| 112 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 111 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 112 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
 | 113 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 114 | [actions/checkout](./actions-checkout.md) | ⭐ 8.8k | TypeScript | 61/100 |
 | 115 | [paid-tw/payment](./paid-tw-payment.md) | ⭐ 86 | TypeScript | 61/100 |
@@ -344,7 +344,7 @@
 | 334 | [Adyen/adyen-android](./adyen-adyen-android.md) | ⭐ 151 | Kotlin | 44/100 |
 | 335 | [bzsanti/oxidizePdf](./bzsanti-oxidizepdf.md) | ⭐ 193 | Rust | 44/100 |
 | 336 | [LaravelDaily/Laravel-File-Storage](./laraveldaily-laravel-file-storage.md) | ⭐ 101 | HTML | 43/100 |
-| 337 | [spksoft/pi-sub-anthropic](./spksoft-pi-sub-anthropic.md) | ⭐ 11 | TypeScript | 43/100 |
+| 337 | [spksoft/pi-sub-anthropic](./spksoft-pi-sub-anthropic.md) | ⭐ 12 | TypeScript | 43/100 |
 | 338 | [kleogeos/telegram-stars-checkout](./kleogeos-telegram-stars-checkout.md) | ⭐ — | Python | 42/100 |
 | 339 | [gesta-run/subpool](./gesta-run-subpool.md) | ⭐ 115 | — | 42/100 |
 | 340 | [devmster/x402-trinity](./devmster-x402-trinity.md) | ⭐ 3 | — | 42/100 |
