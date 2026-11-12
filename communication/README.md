@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -390,7 +390,7 @@
 | 380 | [moldandyeast/claude-computer](./moldandyeast-claude-computer.md) | ⭐ 14 | — | 41/100 |
 | 381 | [anasachouri/flowboard](./anasachouri-flowboard.md) | ⭐ 3 | — | 41/100 |
 | 382 | [lkorth/space-calendar](./lkorth-space-calendar.md) | ⭐ 12 | — | 41/100 |
-| 383 | [shuaibird/Quick-Chat](./shuaibird-quick-chat.md) | ⭐ 13 | — | 41/100 |
+| 383 | [shuaibird/Quick-Chat](./shuaibird-quick-chat.md) | ⭐ 14 | — | 41/100 |
 | 384 | [waifu-devs/fuwa](./waifu-devs-fuwa.md) | ⭐ — | — | 41/100 |
 | 385 | [cloudamqp/lavinmq-demos](./cloudamqp-lavinmq-demos.md) | ⭐ — | — | 41/100 |
 | 386 | [vercel-labs/eve-tanstack-start-template](./vercel-labs-eve-tanstack-start-template.md) | ⭐ 5 | — | 41/100 |

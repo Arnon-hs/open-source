@@ -118,8 +118,8 @@
 | 108 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.9k | PHP | 62/100 |
 | 109 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 10.3k | PHP | 62/100 |
 | 110 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 1.1k | TypeScript | 62/100 |
-| 111 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
-| 112 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
+| 111 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
+| 112 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
 | 113 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 114 | [actions/checkout](./actions-checkout.md) | ⭐ 8.8k | TypeScript | 61/100 |
 | 115 | [paid-tw/payment](./paid-tw-payment.md) | ⭐ 86 | TypeScript | 61/100 |
@@ -250,7 +250,7 @@
 | 240 | [flutter-stripe/flutter_stripe](./flutter-stripe-flutter-stripe.md) | ⭐ 1.1k | Dart | 53/100 |
 | 241 | [stripe/stripe-android](./stripe-stripe-android.md) | ⭐ 1.6k | Kotlin | 53/100 |
 | 242 | [invoiceninja/invoiceninja](./invoiceninja-invoiceninja.md) | ⭐ 10.6k | PHP | 53/100 |
-| 243 | [Raktim94/rechvix](./raktim94-rechvix.md) | ⭐ 4 | Go | 52/100 |
+| 243 | [Raktim94/rechvix](./raktim94-rechvix.md) | ⭐ 3 | Go | 52/100 |
 | 244 | [Zhiyilang/localledger](./zhiyilang-localledger.md) | ⭐ — | Python | 52/100 |
 | 245 | [yiaany/MCPay](./yiaany-mcpay.md) | ⭐ — | — | 52/100 |
 | 246 | [moov-io/iso8583-connection](./moov-io-iso8583-connection.md) | ⭐ 121 | Go | 52/100 |
@@ -285,8 +285,8 @@
 | 275 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 276 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 182 | HTML | 50/100 |
-| 278 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
-| 279 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 278 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 279 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 280 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 281 | [FetchDoge/permit](./fetchdoge-permit.md) | ⭐ — | Python | 49/100 |
 | 282 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 49/100 |

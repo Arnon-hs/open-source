@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**368 projects** in this category.
+**369 projects** in this category.
 
 ## Projects
 
@@ -359,23 +359,24 @@
 | 349 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 43/100 |
 | 350 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
 | 351 | [shilpidaswani/finkit](./shilpidaswani-finkit.md) | ⭐ — | TypeScript | 42/100 |
-| 352 | [vicena-labs/scientific-prediction-benchmark](./vicena-labs-scientific-prediction-benchmark.md) | ⭐ — | — | 41/100 |
-| 353 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ 45 | — | 41/100 |
-| 354 | [RedRiotTank/NativeJsonNavigator](./redriottank-nativejsonnavigator.md) | ⭐ 14 | — | 41/100 |
-| 355 | [luchtan-GIT/m4r-data](./luchtan-git-m4r-data.md) | ⭐ 1 | — | 41/100 |
-| 356 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |
-| 357 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ 3 | — | 41/100 |
-| 358 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
-| 359 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 660 | Rust | 41/100 |
-| 360 | [nsijwali/WhoRuled](./nsijwali-whoruled.md) | ⭐ 1 | TypeScript | 40/100 |
-| 361 | [zhairAhmad/pakistan-address](./zhairahmad-pakistan-address.md) | ⭐ — | PHP | 40/100 |
-| 362 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ 2 | Swift | 38/100 |
-| 363 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ 6 | — | 38/100 |
-| 364 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ 18 | — | 38/100 |
-| 365 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
-| 366 | [MegPhapha/EduDisruption-Index](./megphapha-edudisruption-index.md) | ⭐ — | HTML | 36/100 |
-| 367 | [Nidhi-bhai/backtestcard](./nidhi-bhai-backtestcard.md) | ⭐ — | HTML | 33/100 |
-| 368 | [vinamraa05/Recaller-Study](./vinamraa05-recaller-study.md) | ⭐ — | JavaScript | 32/100 |
+| 352 | [aperiodic-io/tparquet](./aperiodic-io-tparquet.md) | ⭐ — | — | 41/100 |
+| 353 | [vicena-labs/scientific-prediction-benchmark](./vicena-labs-scientific-prediction-benchmark.md) | ⭐ — | — | 41/100 |
+| 354 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ 45 | — | 41/100 |
+| 355 | [RedRiotTank/NativeJsonNavigator](./redriottank-nativejsonnavigator.md) | ⭐ 14 | — | 41/100 |
+| 356 | [luchtan-GIT/m4r-data](./luchtan-git-m4r-data.md) | ⭐ 1 | — | 41/100 |
+| 357 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |
+| 358 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ 3 | — | 41/100 |
+| 359 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
+| 360 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 660 | Rust | 41/100 |
+| 361 | [nsijwali/WhoRuled](./nsijwali-whoruled.md) | ⭐ 1 | TypeScript | 40/100 |
+| 362 | [zhairAhmad/pakistan-address](./zhairahmad-pakistan-address.md) | ⭐ — | PHP | 40/100 |
+| 363 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ 2 | Swift | 38/100 |
+| 364 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ 6 | — | 38/100 |
+| 365 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ 18 | — | 38/100 |
+| 366 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
+| 367 | [MegPhapha/EduDisruption-Index](./megphapha-edudisruption-index.md) | ⭐ — | HTML | 36/100 |
+| 368 | [Nidhi-bhai/backtestcard](./nidhi-bhai-backtestcard.md) | ⭐ — | HTML | 33/100 |
+| 369 | [vinamraa05/Recaller-Study](./vinamraa05-recaller-study.md) | ⭐ — | JavaScript | 32/100 |
 
 ---
 

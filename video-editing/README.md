@@ -570,12 +570,12 @@
 | 560 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 17 | — | 48/100 |
 | 561 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 562 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 3 | Python | 48/100 |
-| 563 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
-| 564 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
+| 563 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
+| 564 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
 | 565 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 566 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 34 | — | 48/100 |
 | 567 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ 22 | — | 48/100 |
-| 568 | [rtagliaviaz/video-streaming-service](./rtagliaviaz-video-streaming-service.md) | ⭐ — | — | 48/100 |
+| 568 | [rtagliaviaz/video-streaming-service](./rtagliaviaz-video-streaming-service.md) | ⭐ 1 | — | 48/100 |
 | 569 | [KenjiGinjo/bun-ffmpeg](./kenjiginjo-bun-ffmpeg.md) | ⭐ 18 | — | 48/100 |
 | 570 | [rtagliaviaz/audio-track-remover](./rtagliaviaz-audio-track-remover.md) | ⭐ — | — | 48/100 |
 | 571 | [devhyper/open-video-editor](./devhyper-open-video-editor.md) | ⭐ 737 | Kotlin | 48/100 |
@@ -624,7 +624,7 @@
 | 614 | [acalejos/CinEx](./acalejos-cinex.md) | ⭐ 142 | — | 41/100 |
 | 615 | [hydope/shortsmash](./hydope-shortsmash.md) | ⭐ 3 | — | 41/100 |
 | 616 | [effessdev/GiffyPy](./effessdev-giffypy.md) | ⭐ 5 | Python | 41/100 |
-| 617 | [ranahaani/i-hate-editing](./ranahaani-i-hate-editing.md) | ⭐ 103 | — | 41/100 |
+| 617 | [ranahaani/i-hate-editing](./ranahaani-i-hate-editing.md) | ⭐ 105 | — | 41/100 |
 | 618 | [soirihiroka/shrimply](./soirihiroka-shrimply.md) | ⭐ 1.2k | — | 41/100 |
 | 619 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ 524 | — | 41/100 |
 | 620 | [Vanilagy/turbores](./vanilagy-turbores.md) | ⭐ 213 | — | 41/100 |

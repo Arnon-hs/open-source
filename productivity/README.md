@@ -291,7 +291,7 @@
 | 281 | [snehaldutta/Dhwani](./snehaldutta-dhwani.md) | ⭐ — | — | 45/100 |
 | 282 | [AbsoluteMode/whytap](./absolutemode-whytap.md) | ⭐ 1 | — | 45/100 |
 | 283 | [Martzcode/Capricio](./martzcode-capricio.md) | ⭐ 1 | TypeScript | 45/100 |
-| 284 | [SimonSchubert/omalauncher](./simonschubert-omalauncher.md) | ⭐ 584 | — | 45/100 |
+| 284 | [SimonSchubert/omalauncher](./simonschubert-omalauncher.md) | ⭐ 587 | — | 45/100 |
 | 285 | [ntsd/pomodoro-chad](./ntsd-pomodoro-chad.md) | ⭐ — | Astro | 45/100 |
 | 286 | [dotcmdhq/dotcmd](./dotcmdhq-dotcmd.md) | ⭐ 4 | — | 45/100 |
 | 287 | [cssllcio/typeclip](./cssllcio-typeclip.md) | ⭐ 2 | — | 45/100 |
@@ -325,8 +325,8 @@
 | 315 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
 | 316 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 317 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ — | — | 41/100 |
-| 318 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
-| 319 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ — | — | 41/100 |
+| 318 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ — | — | 41/100 |
+| 319 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
 | 320 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 1 | — | 41/100 |
 | 321 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 1 | — | 41/100 |
 | 322 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ — | — | 41/100 |
@@ -344,7 +344,7 @@
 | 334 | [MarcelNazare/Reeve](./marcelnazare-reeve.md) | ⭐ 5 | — | 41/100 |
 | 335 | [xdagiz/xcalidraw](./xdagiz-xcalidraw.md) | ⭐ 14 | — | 41/100 |
 | 336 | [Amanbig/dockit](./amanbig-dockit.md) | ⭐ — | — | 41/100 |
-| 337 | [seacen/meetcap](./seacen-meetcap.md) | ⭐ 304 | — | 41/100 |
+| 337 | [seacen/meetcap](./seacen-meetcap.md) | ⭐ 305 | — | 41/100 |
 | 338 | [Mancasvel/FlowSight.AI](./mancasvel-flowsight.ai.md) | ⭐ 1 | Rust | 41/100 |
 | 339 | [mohannad789/claude-desktop-skin](./mohannad789-claude-desktop-skin.md) | ⭐ 2 | — | 41/100 |
 | 340 | [logrelu/swaybles](./logrelu-swaybles.md) | ⭐ — | — | 41/100 |
