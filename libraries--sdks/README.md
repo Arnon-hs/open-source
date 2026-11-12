@@ -212,7 +212,7 @@
 | 202 | [snowtech738-byte/auria-chain](./snowtech738-byte-auria-chain.md) | ⭐ 1 | — | 52/100 |
 | 203 | [meta-models/muse-code-sdk](./meta-models-muse-code-sdk.md) | ⭐ 87 | TypeScript | 52/100 |
 | 204 | [stepfunc/rodbus](./stepfunc-rodbus.md) | ⭐ 111 | Rust | 52/100 |
-| 205 | [apache/datasketches-rust](./apache-datasketches-rust.md) | ⭐ 142 | Rust | 52/100 |
+| 205 | [apache/datasketches-rust](./apache-datasketches-rust.md) | ⭐ 145 | Rust | 52/100 |
 | 206 | [tensorflow/java](./tensorflow-java.md) | ⭐ 926 | Java | 52/100 |
 | 207 | [apple/pkl-go](./apple-pkl-go.md) | ⭐ 336 | Go | 52/100 |
 | 208 | [pola-rs/r-polars](./pola-rs-r-polars.md) | ⭐ 578 | R | 52/100 |
@@ -263,7 +263,7 @@
 | 253 | [OpenDDS/OpenDDS](./opendds-opendds.md) | ⭐ 1.5k | C++ | 47/100 |
 | 254 | [mozilla/uniffi-rs](./mozilla-uniffi-rs.md) | ⭐ 5.1k | Rust | 47/100 |
 | 255 | [Domenico-Tenace-Open-Labs/spellbook-of-skill](./domenico-tenace-open-labs-spellbook-of-skill.md) | ⭐ — | — | 46/100 |
-| 256 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 124 | Rust | 46/100 |
+| 256 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 125 | Rust | 46/100 |
 | 257 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.6k | Rust | 46/100 |
 | 258 | [jpdagostin0/amc](./jpdagostin0-amc.md) | ⭐ — | — | 45/100 |
 | 259 | [necoz-oss/type-tune](./necoz-oss-type-tune.md) | ⭐ — | — | 45/100 |

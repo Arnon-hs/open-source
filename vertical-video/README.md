@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [harry0703/MoneyPrinterTurbo](./harry0703-moneyprinterturbo.md) | ⭐ 142.6k | Python | 85/100 |
-| 2 | [NaufalRizqullah/opensource-clipping](./naufalrizqullah-opensource-clipping.md) | ⭐ 235 | Python | 84/100 |
+| 2 | [NaufalRizqullah/opensource-clipping](./naufalrizqullah-opensource-clipping.md) | ⭐ 245 | Python | 84/100 |
 | 3 | [jipraks/yt-short-clipper](./jipraks-yt-short-clipper.md) | ⭐ 1.1k | TypeScript | 84/100 |
 | 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 914 | TypeScript | 83/100 |
 | 5 | [el-frontend/video-wizard](./el-frontend-video-wizard.md) | ⭐ 18 | TypeScript | 82/100 |
@@ -70,7 +70,7 @@
 | 60 | [krakonjac300-pixel/podcast-shorts-factory](./krakonjac300-pixel-podcast-shorts-factory.md) | ⭐ 135 | Python | 69/100 |
 | 61 | [orylite/lindyson-ai](./orylite-lindyson-ai.md) | ⭐ 39 | TypeScript | 68/100 |
 | 62 | [numbpill3d/ffmpeg-ai](./numbpill3d-ffmpeg-ai.md) | ⭐ 39 | Python | 68/100 |
-| 63 | [WANGLEVY9/VidForge](./wanglevy9-vidforge.md) | ⭐ 91 | TypeScript | 68/100 |
+| 63 | [WANGLEVY9/VidForge](./wanglevy9-vidforge.md) | ⭐ 92 | TypeScript | 68/100 |
 | 64 | [rediumvex/social-media-caption-generator-claude](./rediumvex-social-media-caption-generator-claude.md) | ⭐ 151 | — | 68/100 |
 | 65 | [artemisln/edit-reel](./artemisln-edit-reel.md) | ⭐ 40 | Python | 67/100 |
 | 66 | [paulherter/sequence-studio](./paulherter-sequence-studio.md) | ⭐ 23 | Swift | 67/100 |
@@ -116,7 +116,7 @@
 | 106 | [ronin1770/reel-quick](./ronin1770-reel-quick.md) | ⭐ 16 | Python | 60/100 |
 | 107 | [MelonS/MelonS-Agents](./melons-melons-agents.md) | ⭐ 17 | C# | 60/100 |
 | 108 | [CharlesPikachu/videodl](./charlespikachu-videodl.md) | ⭐ 3.2k | Python | 60/100 |
-| 109 | [liuhaisi2026212-maker/taishang-laojun](./liuhaisi2026212-maker-taishang-laojun.md) | ⭐ 542 | Markdown | 59/100 |
+| 109 | [liuhaisi2026212-maker/taishang-laojun](./liuhaisi2026212-maker-taishang-laojun.md) | ⭐ 550 | Markdown | 59/100 |
 | 110 | [hanli1999/video-breakdown-skill](./hanli1999-video-breakdown-skill.md) | ⭐ 12 | — | 59/100 |
 | 111 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 4 | Python | 59/100 |
 | 112 | [kurbaitaev/ghost-editor](./kurbaitaev-ghost-editor.md) | ⭐ 406 | JavaScript | 59/100 |

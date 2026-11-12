@@ -30,7 +30,7 @@
 | 20 | [krillinai/OpenCreator](./krillinai-opencreator.md) | ⭐ 14.3k | TypeScript | 80/100 |
 | 21 | [hetpatel-11/Adobe_Premiere_Pro_MCP](./hetpatel-11-adobe-premiere-pro-mcp.md) | ⭐ 854 | TypeScript | 80/100 |
 | 22 | [KyaniteLabs/kinocut](./kyanitelabs-kinocut.md) | ⭐ 264 | Python | 80/100 |
-| 23 | [Orkas-AI/Orkas-VideoStudio](./orkas-ai-orkas-videostudio.md) | ⭐ 347 | TypeScript | 80/100 |
+| 23 | [Orkas-AI/Orkas-VideoStudio](./orkas-ai-orkas-videostudio.md) | ⭐ 346 | TypeScript | 80/100 |
 | 24 | [Rich627/whatsapp-claude-plugin](./rich627-whatsapp-claude-plugin.md) | ⭐ 118 | TypeScript | 80/100 |
 | 25 | [KyaniteLabs/mcp-video](./kyanitelabs-mcp-video.md) | ⭐ 64 | Python | 80/100 |
 | 26 | [modelscope/FunClip](./modelscope-funclip.md) | ⭐ 6.5k | Python | 80/100 |
@@ -74,7 +74,7 @@
 | 64 | [denizsafak/AutoSubSync](./denizsafak-autosubsync.md) | ⭐ 1.2k | Python | 75/100 |
 | 65 | [ucsandman/marketing-studio](./ucsandman-marketing-studio.md) | ⭐ 255 | JavaScript | 75/100 |
 | 66 | [Vexa-ai/vexa](./vexa-ai-vexa.md) | ⭐ 3k | TypeScript | 75/100 |
-| 67 | [Evolink-AI/awesome-gemini-omni-1.2-flash-API-guide-and-prompt](./evolink-ai-awesome-gemini-omni-1.2-flash-api-guide-and-prompt.md) | ⭐ 124 | — | 74/100 |
+| 67 | [Evolink-AI/awesome-gemini-omni-1.2-flash-API-guide-and-prompt](./evolink-ai-awesome-gemini-omni-1.2-flash-api-guide-and-prompt.md) | ⭐ 127 | — | 74/100 |
 | 68 | [Co-Messi/supercut](./co-messi-supercut.md) | ⭐ 23 | TypeScript | 74/100 |
 | 69 | [DojoCodingLabs/remotion-superpowers](./dojocodinglabs-remotion-superpowers.md) | ⭐ 166 | Shell | 74/100 |
 | 70 | [Gitruck/cli](./gitruck-cli.md) | ⭐ 965 | TypeScript | 74/100 |
@@ -111,7 +111,7 @@
 | 101 | [Eyevinn/mp4ff](./eyevinn-mp4ff.md) | ⭐ 666 | Go | 72/100 |
 | 102 | [itsPremkumar/Automated-Video-Generator](./itspremkumar-automated-video-generator.md) | ⭐ 128 | TypeScript | 72/100 |
 | 103 | [pixop/video-compare](./pixop-video-compare.md) | ⭐ 1.8k | C++ | 72/100 |
-| 104 | [leancoderkavy/premiere-pro-mcp](./leancoderkavy-premiere-pro-mcp.md) | ⭐ 514 | TypeScript | 72/100 |
+| 104 | [leancoderkavy/premiere-pro-mcp](./leancoderkavy-premiere-pro-mcp.md) | ⭐ 517 | TypeScript | 72/100 |
 | 105 | [denizsafak/abogen](./denizsafak-abogen.md) | ⭐ 6.2k | Python | 72/100 |
 | 106 | [code-charity/youtube](./code-charity-youtube.md) | ⭐ 4.7k | JavaScript | 72/100 |
 | 107 | [chapmanjacobd/library](./chapmanjacobd-library.md) | ⭐ 486 | Python | 72/100 |
@@ -127,7 +127,7 @@
 | 117 | [siuserxiaowei/reference-driven-cinematic-video-skill](./siuserxiaowei-reference-driven-cinematic-video-skill.md) | ⭐ 69 | Python | 71/100 |
 | 118 | [MerlinStacks/socaliseit](./merlinstacks-socaliseit.md) | ⭐ 32 | TypeScript | 71/100 |
 | 119 | [jub0t/Concat](./jub0t-concat.md) | ⭐ 16.9k | TypeScript | 71/100 |
-| 120 | [cacity/VideoHub](./cacity-videohub.md) | ⭐ 186 | Python | 71/100 |
+| 120 | [cacity/VideoHub](./cacity-videohub.md) | ⭐ 185 | Python | 71/100 |
 | 121 | [zh-plus/openlrc](./zh-plus-openlrc.md) | ⭐ 686 | Python | 71/100 |
 | 122 | [OpenShot/openshot-qt](./openshot-openshot-qt.md) | ⭐ 6.8k | Python | 71/100 |
 | 123 | [Vincentwei1021/video-shotcraft](./vincentwei1021-video-shotcraft.md) | ⭐ 18.9k | TypeScript | 71/100 |
@@ -222,14 +222,14 @@
 | 212 | [chenwr727/TextToTalk](./chenwr727-texttotalk.md) | ⭐ 17 | TypeScript | 66/100 |
 | 213 | [flamexnreal/davinci-resolve-ai-bridge-mcp](./flamexnreal-davinci-resolve-ai-bridge-mcp.md) | ⭐ 48 | Python | 66/100 |
 | 214 | [openvideodev/react-video-editor](./openvideodev-react-video-editor.md) | ⭐ 1.8k | TypeScript | 66/100 |
-| 215 | [itsjwill/vanta](./itsjwill-vanta.md) | ⭐ 162 | TypeScript | 66/100 |
+| 215 | [itsjwill/vanta](./itsjwill-vanta.md) | ⭐ 163 | TypeScript | 66/100 |
 | 216 | [PoetCoderJun/MotionTalk](./poetcoderjun-motiontalk.md) | ⭐ 11 | Python | 66/100 |
 | 217 | [mishkatik/infra-billing](./mishkatik-infra-billing.md) | ⭐ 89 | TypeScript | 66/100 |
 | 218 | [tgotwig/vidmerger](./tgotwig-vidmerger.md) | ⭐ 154 | Rust | 66/100 |
 | 219 | [Agions/splicr](./agions-splicr.md) | ⭐ 410 | TypeScript | 66/100 |
 | 220 | [meizhong986/WhisperJAV](./meizhong986-whisperjav.md) | ⭐ 2.5k | Python | 66/100 |
 | 221 | [homelab-00/TranscriptionSuite](./homelab-00-transcriptionsuite.md) | ⭐ 811 | Python | 66/100 |
-| 222 | [pattern-ai-labs/agentcall](./pattern-ai-labs-agentcall.md) | ⭐ 191 | Python | 66/100 |
+| 222 | [pattern-ai-labs/agentcall](./pattern-ai-labs-agentcall.md) | ⭐ 194 | Python | 66/100 |
 | 223 | [bililive-go/bililive-go](./bililive-go-bililive-go.md) | ⭐ 5.8k | Go | 66/100 |
 | 224 | [Mentra-Community/MentraOS](./mentra-community-mentraos.md) | ⭐ 2.4k | TypeScript | 66/100 |
 | 225 | [BasedHardware/omi](./basedhardware-omi.md) | ⭐ 14k | Dart | 66/100 |
@@ -299,7 +299,7 @@
 | 289 | [remotion-dev/template-react-router](./remotion-dev-template-react-router.md) | ⭐ 40 | TypeScript | 63/100 |
 | 290 | [Alexwtlf/agentic-product-demo](./alexwtlf-agentic-product-demo.md) | ⭐ 454 | TypeScript | 63/100 |
 | 291 | [lipku/LiveTalking](./lipku-livetalking.md) | ⭐ 10.4k | Python | 63/100 |
-| 292 | [erduo1998-cell/erduo-broll-loop-engineering](./erduo1998-cell-erduo-broll-loop-engineering.md) | ⭐ 247 | TypeScript | 63/100 |
+| 292 | [erduo1998-cell/erduo-broll-loop-engineering](./erduo1998-cell-erduo-broll-loop-engineering.md) | ⭐ 249 | TypeScript | 63/100 |
 | 293 | [riaz37/remotion-ui](./riaz37-remotion-ui.md) | ⭐ 80 | TypeScript | 63/100 |
 | 294 | [LaoFeng-mouse/flyingmouse-format](./laofeng-mouse-flyingmouse-format.md) | ⭐ 7.1k | JavaScript | 63/100 |
 | 295 | [SPlayer-Dev/SPlayer-Next](./splayer-dev-splayer-next.md) | ⭐ 1.6k | TypeScript | 63/100 |
@@ -379,7 +379,7 @@
 | 369 | [Vincentwei1021/video-talkcraft](./vincentwei1021-video-talkcraft.md) | ⭐ 2.3k | HTML | 60/100 |
 | 370 | [longxiang-ai/awesome-video-diffusions](./longxiang-ai-awesome-video-diffusions.md) | ⭐ 46 | Python | 60/100 |
 | 371 | [zcbacxc/movie-narrator](./zcbacxc-movie-narrator.md) | ⭐ 1.1k | Python | 60/100 |
-| 372 | [remotion-dev/template-three](./remotion-dev-template-three.md) | ⭐ 119 | TypeScript | 60/100 |
+| 372 | [remotion-dev/template-three](./remotion-dev-template-three.md) | ⭐ 120 | TypeScript | 60/100 |
 | 373 | [innovatorved/realtime-interview-copilot](./innovatorved-realtime-interview-copilot.md) | ⭐ 137 | TypeScript | 60/100 |
 | 374 | [etro-js/etro](./etro-js-etro.md) | ⭐ 1.2k | TypeScript | 60/100 |
 | 375 | [laoma2053/awesome-zhuiju-free](./laoma2053-awesome-zhuiju-free.md) | ⭐ 806 | JavaScript | 60/100 |
@@ -442,9 +442,9 @@
 | 432 | [xcslys99/FootageFlow](./xcslys99-footageflow.md) | ⭐ 131 | Swift | 58/100 |
 | 433 | [jd-opensource/JoyAI-Video-Edit](./jd-opensource-joyai-video-edit.md) | ⭐ 2.1k | Python | 58/100 |
 | 434 | [Blue-B/WhisperSubTranslate](./blue-b-whispersubtranslate.md) | ⭐ 844 | JavaScript | 58/100 |
-| 435 | [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](./atlascloudai-awesome-seedance-2.5-prompts-skills.md) | ⭐ 265 | TypeScript | 58/100 |
+| 435 | [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](./atlascloudai-awesome-seedance-2.5-prompts-skills.md) | ⭐ 267 | TypeScript | 58/100 |
 | 436 | [Sportinger/MasterSelects](./sportinger-masterselects.md) | ⭐ 461 | TypeScript | 58/100 |
-| 437 | [nimbold/Firelink](./nimbold-firelink.md) | ⭐ 214 | Rust | 58/100 |
+| 437 | [nimbold/Firelink](./nimbold-firelink.md) | ⭐ 215 | Rust | 58/100 |
 | 438 | [taco-group/SparkVSR](./taco-group-sparkvsr.md) | ⭐ 750 | Python | 58/100 |
 | 439 | [yohasebe/whisper-stream](./yohasebe-whisper-stream.md) | ⭐ 131 | Shell | 58/100 |
 | 440 | [vanloctech/youwee](./vanloctech-youwee.md) | ⭐ 1.6k | TypeScript | 58/100 |
@@ -588,7 +588,7 @@
 | 578 | [manish7017/Whisper-FFmpeg-Transcriber-](./manish7017-whisper-ffmpeg-transcriber-.md) | ⭐ — | Python | 46/100 |
 | 579 | [cclank/lanshu-create-ai-presenter-video](./cclank-lanshu-create-ai-presenter-video.md) | ⭐ 3k | — | 46/100 |
 | 580 | [SteliyanH/kadr](./steliyanh-kadr.md) | ⭐ 61 | Swift | 46/100 |
-| 581 | [michaelwilhelmsen/humla](./michaelwilhelmsen-humla.md) | ⭐ 344 | Rust | 46/100 |
+| 581 | [michaelwilhelmsen/humla](./michaelwilhelmsen-humla.md) | ⭐ 345 | Rust | 46/100 |
 | 582 | [wongcyrus/Google-AI-Classroom](./wongcyrus-google-ai-classroom.md) | ⭐ 1 | — | 45/100 |
 | 583 | [yanjiliang/shengchang-ai-studio](./yanjiliang-shengchang-ai-studio.md) | ⭐ 3 | — | 45/100 |
 | 584 | [lonthq/overtone-captions](./lonthq-overtone-captions.md) | ⭐ 62 | — | 45/100 |

@@ -21,21 +21,21 @@
 
 ## 🎯 Categories
 
-Productivity
+Productivity · DevTools
 
 ## 📝 Summary
 
 ### English
 
-bdcdo/open-turkey: bdcdo/open-turkey may be useful when its README and activity match a concrete workflow.. Use it for Productivity. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bdcdo/open-turkey: bdcdo/open-turkey may be useful when its README and activity match a concrete workflow.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-bdcdo/open-turkey: open-source проект в категориях Productivity. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+bdcdo/open-turkey: open-source проект в категориях Productivity, DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-bdcdo/open-turkey：bdcdo/open-turkey may be useful when its README and activity match a concrete workflow.。适合用于Productivity。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+bdcdo/open-turkey：bdcdo/open-turkey may be useful when its README and activity match a concrete workflow.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
@@ -43,7 +43,8 @@ bdcdo/open-turkey：bdcdo/open-turkey may be useful when its README and activity
 
 **Best use cases**
 
-- Not enough metadata yet.
+- speed up developer workflows
+- automate local engineering tasks
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -63,18 +64,18 @@ bdcdo/open-turkey：bdcdo/open-turkey may be useful when its README and activity
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 57/100 |
-| integration | 62/100 |
-| production | 63/100 |
-| outlook | 63/100 |
-| adoption | 26/100 |
-| categoryMatchCount | 100/100 |
-| stars | 28/100 |
 | forks | 23/100 |
-| recency | 80/100 |
+| stars | 28/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 57/100 |
+| recency | 80/100 |
+| adoption | 26/100 |
+| production | 63/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -260,7 +260,7 @@
 | 250 | [openebs/mayastor](./openebs-mayastor.md) | ⭐ 1.1k | Rust | 55/100 |
 | 251 | [ArroyoSystems/arroyo](./arroyosystems-arroyo.md) | ⭐ 5.1k | Rust | 55/100 |
 | 252 | [fjykTec/ModernWMS](./fjyktec-modernwms.md) | ⭐ 1.8k | Vue | 54/100 |
-| 253 | [encero-systems/incan](./encero-systems-incan.md) | ⭐ 73 | Rust | 54/100 |
+| 253 | [encero-systems/incan](./encero-systems-incan.md) | ⭐ 74 | Rust | 54/100 |
 | 254 | [cieslarmichal/faker-cxx](./cieslarmichal-faker-cxx.md) | ⭐ 422 | C++ | 54/100 |
 | 255 | [moka-rs/moka](./moka-rs-moka.md) | ⭐ 2.7k | Rust | 54/100 |
 | 256 | [Kotlin/dataframe](./kotlin-dataframe.md) | ⭐ 1.1k | Kotlin | 54/100 |

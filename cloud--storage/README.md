@@ -82,7 +82,7 @@
 | 72 | [scality/Zenko](./scality-zenko.md) | ⭐ 675 | Gherkin | 70/100 |
 | 73 | [sameerk27/vigil365](./sameerk27-vigil365.md) | ⭐ 284 | C# | 70/100 |
 | 74 | [aboutcode-org/scancode-toolkit](./aboutcode-org-scancode-toolkit.md) | ⭐ 2.7k | Python | 70/100 |
-| 75 | [DaviReisVieira/stackport](./davireisvieira-stackport.md) | ⭐ 176 | TypeScript | 70/100 |
+| 75 | [DaviReisVieira/stackport](./davireisvieira-stackport.md) | ⭐ 177 | TypeScript | 70/100 |
 | 76 | [ory/oathkeeper](./ory-oathkeeper.md) | ⭐ 3.6k | Go | 70/100 |
 | 77 | [awslabs/mountpoint-s3](./awslabs-mountpoint-s3.md) | ⭐ 5.8k | Rust | 70/100 |
 | 78 | [juicedata/juicefs](./juicedata-juicefs.md) | ⭐ 14.7k | Go | 70/100 |
@@ -317,7 +317,7 @@
 | 307 | [dragonflyoss/dragonfly](./dragonflyoss-dragonfly.md) | ⭐ 3.4k | Go | 60/100 |
 | 308 | [Azure/APIOps](./azure-apiops.md) | ⭐ 448 | C# | 59/100 |
 | 309 | [softwaremill/elasticmq](./softwaremill-elasticmq.md) | ⭐ 2.9k | Scala | 59/100 |
-| 310 | [Awuqing/BackupX](./awuqing-backupx.md) | ⭐ 103 | Go | 59/100 |
+| 310 | [Awuqing/BackupX](./awuqing-backupx.md) | ⭐ 104 | Go | 59/100 |
 | 311 | [Ahoo-Wang/CosId](./ahoo-wang-cosid.md) | ⭐ 654 | Java | 59/100 |
 | 312 | [GoogleCloudPlatform/terraform-google-conversion](./googlecloudplatform-terraform-google-conversion.md) | ⭐ 133 | Go | 59/100 |
 | 313 | [Azure/azure-storage-azcopy](./azure-azure-storage-azcopy.md) | ⭐ 700 | Go | 59/100 |
@@ -341,8 +341,8 @@
 | 331 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 332 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 333 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 334 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
-| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 334 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
 | 336 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 337 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 338 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -355,7 +355,7 @@
 | 345 | [scireum/s3ninja](./scireum-s3ninja.md) | ⭐ 557 | Java | 58/100 |
 | 346 | [NoKV-Lab/NoKV](./nokv-lab-nokv.md) | ⭐ 512 | Rust | 58/100 |
 | 347 | [MicrosoftLearning/mslearn-ai-agents](./microsoftlearning-mslearn-ai-agents.md) | ⭐ 350 | Python | 58/100 |
-| 348 | [anolilab/lunora](./anolilab-lunora.md) | ⭐ 295 | TypeScript | 58/100 |
+| 348 | [anolilab/lunora](./anolilab-lunora.md) | ⭐ 296 | TypeScript | 58/100 |
 | 349 | [aws-beam/aws-elixir](./aws-beam-aws-elixir.md) | ⭐ 594 | Elixir | 58/100 |
 | 350 | [kubernetes/cloud-provider-aws](./kubernetes-cloud-provider-aws.md) | ⭐ 467 | Go | 58/100 |
 | 351 | [spinningfactory/kloak](./spinningfactory-kloak.md) | ⭐ 297 | C | 58/100 |
@@ -491,8 +491,8 @@
 | 481 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 447 | Go | 52/100 |
 | 482 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 483 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 486 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 61 | Python | 51/100 |
 | 487 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 490 | Jupyter Notebook | 51/100 |
 | 488 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |

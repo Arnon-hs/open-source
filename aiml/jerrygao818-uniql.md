@@ -1,6 +1,6 @@
 # JerryGao818/UniQL
 
-[![Stars](https://img.shields.io/github/stars/JerryGao818/UniQL?style=flat-square&color=yellow)](https://github.com/JerryGao818/UniQL/stargazers) [![Forks](https://img.shields.io/github/forks/JerryGao818/UniQL?style=flat-square&color=blue)](https://github.com/JerryGao818/UniQL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JerryGao818/UniQL?style=flat-square&color=yellow)](https://github.com/JerryGao818/UniQL/stargazers) [![Forks](https://img.shields.io/github/forks/JerryGao818/UniQL?style=flat-square&color=blue)](https://github.com/JerryGao818/UniQL/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-35%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 38/100 |
+| 📈 **Score** | 35/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ JerryGao818/UniQL：JerryGao818/UniQL helps add AI capability without starting f
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 37/100 |
+| quality | 32/100 |
 | integration | 34/100 |
-| production | 47/100 |
-| outlook | 44/100 |
+| production | 40/100 |
+| outlook | 37/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

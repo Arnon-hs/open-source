@@ -65,18 +65,18 @@ yanstd888/humanizer-lint：yanstd888/humanizer-lint helps turn isolated prompts 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 63/100 |
-| integration | 46/100 |
-| production | 63/100 |
-| outlook | 73/100 |
-| adoption | 39/100 |
-| categoryMatchCount | 500/100 |
-| stars | 43/100 |
 | forks | 30/100 |
-| recency | 80/100 |
+| stars | 43/100 |
 | topics | 100/100 |
+| outlook | 73/100 |
+| quality | 63/100 |
+| recency | 80/100 |
+| adoption | 39/100 |
+| production | 63/100 |
+| usefulness | 90/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

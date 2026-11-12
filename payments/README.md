@@ -46,7 +46,7 @@
 | 36 | [Lifecycle-Innovations-Limited/claude-ops](./lifecycle-innovations-limited-claude-ops.md) | ⭐ 551 | Shell | 71/100 |
 | 37 | [abracadabra50/uk-grocery-cli](./abracadabra50-uk-grocery-cli.md) | ⭐ 68 | TypeScript | 71/100 |
 | 38 | [nozomi-koborinai/gcp-cost-mcp-server](./nozomi-koborinai-gcp-cost-mcp-server.md) | ⭐ 23 | Go | 71/100 |
-| 39 | [sums001/Deepseek-API](./sums001-deepseek-api.md) | ⭐ 356 | Python | 71/100 |
+| 39 | [sums001/Deepseek-API](./sums001-deepseek-api.md) | ⭐ 359 | Python | 71/100 |
 | 40 | [Adyen/adyen-ruby-api-library](./adyen-adyen-ruby-api-library.md) | ⭐ 54 | Ruby | 71/100 |
 | 41 | [stripe/stripe-php](./stripe-stripe-php.md) | ⭐ 4k | PHP | 71/100 |
 | 42 | [stripe/ai](./stripe-ai.md) | ⭐ 2.1k | TypeScript | 71/100 |
@@ -76,8 +76,8 @@
 | 66 | [ethibox/ethibox](./ethibox-ethibox.md) | ⭐ 260 | JavaScript | 66/100 |
 | 67 | [samber/ro](./samber-ro.md) | ⭐ 698 | Go | 66/100 |
 | 68 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.6k | TypeScript | 66/100 |
-| 69 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
-| 70 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.5k | Python | 66/100 |
+| 69 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.5k | Python | 66/100 |
+| 70 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
 | 71 | [librae8226/nexus4cc](./librae8226-nexus4cc.md) | ⭐ 134 | TypeScript | 65/100 |
 | 72 | [hugoii/llm-agent-audit](./hugoii-llm-agent-audit.md) | ⭐ 62 | Python | 65/100 |
 | 73 | [zmievsa/cadwyn](./zmievsa-cadwyn.md) | ⭐ 314 | Python | 65/100 |
@@ -118,8 +118,8 @@
 | 108 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.9k | PHP | 62/100 |
 | 109 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 10.3k | PHP | 62/100 |
 | 110 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 1.1k | TypeScript | 62/100 |
-| 111 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
-| 112 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 111 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 112 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
 | 113 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 114 | [actions/checkout](./actions-checkout.md) | ⭐ 8.8k | TypeScript | 61/100 |
 | 115 | [paid-tw/payment](./paid-tw-payment.md) | ⭐ 86 | TypeScript | 61/100 |
@@ -285,8 +285,8 @@
 | 275 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 276 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 181 | HTML | 50/100 |
-| 278 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
-| 279 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 278 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 279 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 280 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 281 | [FetchDoge/permit](./fetchdoge-permit.md) | ⭐ — | Python | 49/100 |
 | 282 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 49/100 |
@@ -310,7 +310,7 @@
 | 300 | [tempoxyz/mpp-rs](./tempoxyz-mpp-rs.md) | ⭐ 93 | Rust | 48/100 |
 | 301 | [sinavm/SVM](./sinavm-svm.md) | ⭐ 449 | PHP | 48/100 |
 | 302 | [vivantel/terraform-provider-paddle](./vivantel-terraform-provider-paddle.md) | ⭐ — | Go | 47/100 |
-| 303 | [nutcas3/lets-bet](./nutcas3-lets-bet.md) | ⭐ 180 | Go | 47/100 |
+| 303 | [nutcas3/lets-bet](./nutcas3-lets-bet.md) | ⭐ 181 | Go | 47/100 |
 | 304 | [SteveTheKiller/KillerPDF](./stevethekiller-killerpdf.md) | ⭐ 4.4k | C# | 47/100 |
 | 305 | [ledgersmb/LedgerSMB](./ledgersmb-ledgersmb.md) | ⭐ 578 | Perl | 47/100 |
 | 306 | [ebrasha/free-v2ray-public-list](./ebrasha-free-v2ray-public-list.md) | ⭐ 731 | — | 47/100 |
@@ -322,7 +322,7 @@
 | 312 | [Surge77/proofcheck](./surge77-proofcheck.md) | ⭐ — | Python | 46/100 |
 | 313 | [alexjvv52-ops/groundtruth-app](./alexjvv52-ops-groundtruth-app.md) | ⭐ 1 | Rust | 46/100 |
 | 314 | [moov-io/achgateway](./moov-io-achgateway.md) | ⭐ 86 | Go | 46/100 |
-| 315 | [wevm/mppx](./wevm-mppx.md) | ⭐ 190 | TypeScript | 46/100 |
+| 315 | [wevm/mppx](./wevm-mppx.md) | ⭐ 192 | TypeScript | 46/100 |
 | 316 | [elementary/appcenter](./elementary-appcenter.md) | ⭐ 556 | Vala | 46/100 |
 | 317 | [gethardcount/hardcount](./gethardcount-hardcount.md) | ⭐ 8 | — | 45/100 |
 | 318 | [livastic-vm2-primary-20260911/workflow-risk-usdc-studio](./livastic-vm2-primary-20260911-workflow-risk-usdc-studio.md) | ⭐ — | JavaScript | 45/100 |

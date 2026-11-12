@@ -274,7 +274,7 @@
 | 264 | [Bluefinger/bevy_rand](./bluefinger-bevy-rand.md) | ⭐ 112 | Rust | 50/100 |
 | 265 | [fifengine/fifengine](./fifengine-fifengine.md) | ⭐ 578 | C++ | 50/100 |
 | 266 | [kpreid/all-is-cubes](./kpreid-all-is-cubes.md) | ⭐ 239 | Rust | 50/100 |
-| 267 | [mxpv/openusd](./mxpv-openusd.md) | ⭐ 156 | Rust | 50/100 |
+| 267 | [mxpv/openusd](./mxpv-openusd.md) | ⭐ 157 | Rust | 50/100 |
 | 268 | [brettchalupa/usagi](./brettchalupa-usagi.md) | ⭐ 880 | Rust | 50/100 |
 | 269 | [shader-slang/slang](./shader-slang-slang.md) | ⭐ 5.8k | C++ | 50/100 |
 | 270 | [gemrb/gemrb](./gemrb-gemrb.md) | ⭐ 1.3k | C++ | 50/100 |

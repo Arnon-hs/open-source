@@ -42,7 +42,7 @@
 | 32 | [pcliangx/AppGenesisForge](./pcliangx-appgenesisforge.md) | ⭐ 239 | Python | 81/100 |
 | 33 | [roninoss/create-expo-stack](./roninoss-create-expo-stack.md) | ⭐ 2.6k | TypeScript | 81/100 |
 | 34 | [Marve10s/Better-Fullstack](./marve10s-better-fullstack.md) | ⭐ 822 | TypeScript | 81/100 |
-| 35 | [ScraperNode/awesome-n8n-templates](./scrapernode-awesome-n8n-templates.md) | ⭐ 118 | Astro | 80/100 |
+| 35 | [ScraperNode/awesome-n8n-templates](./scrapernode-awesome-n8n-templates.md) | ⭐ 119 | Astro | 80/100 |
 | 36 | [undergroundrap/UEFN-TOOLBELT](./undergroundrap-uefn-toolbelt.md) | ⭐ 54 | Python | 80/100 |
 | 37 | [spring-projects/spring-data-mongodb](./spring-projects-spring-data-mongodb.md) | ⭐ 1.7k | Java | 80/100 |
 | 38 | [templatical/sdk](./templatical-sdk.md) | ⭐ 552 | TypeScript | 80/100 |
@@ -135,7 +135,7 @@
 | 125 | [CronusL-1141/AI-company](./cronusl-1141-ai-company.md) | ⭐ 375 | Python | 73/100 |
 | 126 | [projen/projen](./projen-projen.md) | ⭐ 3k | TypeScript | 73/100 |
 | 127 | [Tukdify/LeadIQ-AI](./tukdify-leadiq-ai.md) | ⭐ 13 | JavaScript | 72/100 |
-| 128 | [mubashir-786/n8n-whatsapp-automation](./mubashir-786-n8n-whatsapp-automation.md) | ⭐ 136 | JavaScript | 72/100 |
+| 128 | [mubashir-786/n8n-whatsapp-automation](./mubashir-786-n8n-whatsapp-automation.md) | ⭐ 137 | JavaScript | 72/100 |
 | 129 | [sup3rus3r/obsidian-ai](./sup3rus3r-obsidian-ai.md) | ⭐ 77 | Python | 72/100 |
 | 130 | [IndigoKageBait/filmora-utility-2026](./indigokagebait-filmora-utility-2026.md) | ⭐ 117 | HTML | 72/100 |
 | 131 | [mikemajesty/nestjs-microservice-boilerplate-api](./mikemajesty-nestjs-microservice-boilerplate-api.md) | ⭐ 397 | TypeScript | 72/100 |
@@ -188,7 +188,7 @@
 | 178 | [abpframework/abp](./abpframework-abp.md) | ⭐ 14.5k | C# | 70/100 |
 | 179 | [BoundaryML/baml](./boundaryml-baml.md) | ⭐ 9.5k | Rust | 70/100 |
 | 180 | [bradraylucas-eng/mcp-notes-server](./bradraylucas-eng-mcp-notes-server.md) | ⭐ — | Python | 69/100 |
-| 181 | [zengfr/n8n-workflow-all-templates](./zengfr-n8n-workflow-all-templates.md) | ⭐ 124 | — | 69/100 |
+| 181 | [zengfr/n8n-workflow-all-templates](./zengfr-n8n-workflow-all-templates.md) | ⭐ 125 | — | 69/100 |
 | 182 | [marcoturi/fastify-boilerplate](./marcoturi-fastify-boilerplate.md) | ⭐ 476 | TypeScript | 69/100 |
 | 183 | [mcanouil/awesome-quarto](./mcanouil-awesome-quarto.md) | ⭐ 2.2k | — | 69/100 |
 | 184 | [HTTP-RPC/Kilo](./http-rpc-kilo.md) | ⭐ 342 | Java | 69/100 |

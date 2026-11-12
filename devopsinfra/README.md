@@ -295,8 +295,8 @@
 | 285 | [rancher/k3k](./rancher-k3k.md) | ⭐ 921 | Go | 57/100 |
 | 286 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 459 | Dockerfile | 57/100 |
 | 287 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.4k | PHP | 57/100 |
-| 288 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
-| 289 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 288 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 289 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
 | 290 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10.4k | Go | 57/100 |
 | 291 | [tackish/pigeoneye](./tackish-pigeoneye.md) | ⭐ 95 | — | 56/100 |
 | 292 | [softcane/codex-session-operator](./softcane-codex-session-operator.md) | ⭐ 6 | — | 56/100 |
@@ -351,7 +351,7 @@
 | 341 | [kcp-dev/kcp](./kcp-dev-kcp.md) | ⭐ 2.9k | Go | 54/100 |
 | 342 | [Ursa-Minor-Beta/agent-factory-docker-api-ui](./ursa-minor-beta-agent-factory-docker-api-ui.md) | ⭐ 101 | — | 53/100 |
 | 343 | [adamdecaf/deadcheck](./adamdecaf-deadcheck.md) | ⭐ 334 | Go | 53/100 |
-| 344 | [gna1280072/LeePanel](./gna1280072-leepanel.md) | ⭐ 673 | Rust | 53/100 |
+| 344 | [gna1280072/LeePanel](./gna1280072-leepanel.md) | ⭐ 674 | Rust | 53/100 |
 | 345 | [linuxserver/docker-transmission](./linuxserver-docker-transmission.md) | ⭐ 742 | Dockerfile | 53/100 |
 | 346 | [VibePod/vibepod-cli](./vibepod-vibepod-cli.md) | ⭐ 193 | — | 53/100 |
 | 347 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 644 | PHP | 53/100 |
@@ -441,7 +441,7 @@
 | 431 | [av/mi](./av-mi.md) | ⭐ — | — | 45/100 |
 | 432 | [hwdsl2/docker-ai-stack](./hwdsl2-docker-ai-stack.md) | ⭐ — | — | 45/100 |
 | 433 | [openstack/openstack-helm](./openstack-openstack-helm.md) | ⭐ 581 | Shell | 45/100 |
-| 434 | [shakg/g-systemctl](./shakg-g-systemctl.md) | ⭐ 98 | — | 44/100 |
+| 434 | [shakg/g-systemctl](./shakg-g-systemctl.md) | ⭐ 101 | — | 44/100 |
 | 435 | [vitekube/vitekube](./vitekube-vitekube.md) | ⭐ 3 | — | 44/100 |
 | 436 | [dsx-ai-factory/nvke](./dsx-ai-factory-nvke.md) | ⭐ 1.1k | — | 44/100 |
 | 437 | [matty234/k8sman](./matty234-k8sman.md) | ⭐ 5 | — | 44/100 |
@@ -485,8 +485,8 @@
 | 475 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 476 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 477 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 478 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
-| 479 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 478 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 479 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
 | 480 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 481 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 482 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |

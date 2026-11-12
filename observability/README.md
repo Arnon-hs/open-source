@@ -159,7 +159,7 @@
 | 149 | [OxidizeLabs/cachekit](./oxidizelabs-cachekit.md) | ⭐ 163 | Rust | 56/100 |
 | 150 | [TIANLI0/THRM](./tianli0-thrm.md) | ⭐ 461 | Go | 56/100 |
 | 151 | [prometheus/test-infra](./prometheus-test-infra.md) | ⭐ 166 | Go | 56/100 |
-| 152 | [Daminoup88/WattSeal](./daminoup88-wattseal.md) | ⭐ 291 | Rust | 56/100 |
+| 152 | [Daminoup88/WattSeal](./daminoup88-wattseal.md) | ⭐ 300 | Rust | 56/100 |
 | 153 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 945 | TypeScript | 56/100 |
 | 154 | [oshi/oshi](./oshi-oshi.md) | ⭐ 5.3k | Java | 56/100 |
 | 155 | [sarub0b0/kubetui](./sarub0b0-kubetui.md) | ⭐ 404 | Rust | 56/100 |
