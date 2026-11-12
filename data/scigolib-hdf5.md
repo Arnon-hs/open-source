@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 32 |
-| 🍴 **Forks** | 8 |
+| 🍴 **Forks** | 9 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-06 |
@@ -54,7 +54,7 @@ scigolib/hdf5：scigolib/hdf5 helps convert raw data into searchable, analyzable
 **Quality signals**
 
 - 32 GitHub stars
-- 8 forks
+- 9 forks
 - updated 2026-11-06
 - primary language: Go
 - 12 topics
@@ -73,7 +73,7 @@ scigolib/hdf5：scigolib/hdf5 helps convert raw data into searchable, analyzable
 | adoption | 30/100 |
 | categoryMatchCount | 100/100 |
 | stars | 32/100 |
-| forks | 24/100 |
+| forks | 25/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

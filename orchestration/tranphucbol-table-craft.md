@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40 |
+| ⭐ **Stars** | 41 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 70/100 |
@@ -53,7 +53,7 @@ tranphucbol/table-craft：tranphucbol/table-craft helps turn isolated prompts an
 
 **Quality signals**
 
-- 40 GitHub stars
+- 41 GitHub stars
 - 1 forks
 - updated 2026-11-08
 - primary language: TypeScript
@@ -72,7 +72,7 @@ tranphucbol/table-craft：tranphucbol/table-craft helps turn isolated prompts an
 | outlook | 70/100 |
 | adoption | 27/100 |
 | categoryMatchCount | 500/100 |
-| stars | 34/100 |
+| stars | 35/100 |
 | forks | 8/100 |
 | recency | 80/100 |
 | topics | 100/100 |

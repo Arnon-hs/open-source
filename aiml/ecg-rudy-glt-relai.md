@@ -64,18 +64,18 @@ ECG-Rudy-Glt/RELAI：ECG-Rudy-Glt/RELAI helps add AI capability without starting
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 49/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 65/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 200/100 |
-| stars | 10/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 10/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 60/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

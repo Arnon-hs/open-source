@@ -102,7 +102,7 @@
 | 92 | [zabbix/zabbix](./zabbix-zabbix.md) | ⭐ 6.6k | Go Template | 75/100 |
 | 93 | [one-ie/one](./one-ie-one.md) | ⭐ 133 | Astro | 75/100 |
 | 94 | [nusquama/n8nworkflows.xyz](./nusquama-n8nworkflows.xyz.md) | ⭐ 2.5k | — | 75/100 |
-| 95 | [DollhouseMCP/mcp-server](./dollhousemcp-mcp-server.md) | ⭐ 45 | TypeScript | 75/100 |
+| 95 | [DollhouseMCP/mcp-server](./dollhousemcp-mcp-server.md) | ⭐ 46 | TypeScript | 75/100 |
 | 96 | [sno-ai/llmix](./sno-ai-llmix.md) | ⭐ 128 | Python | 75/100 |
 | 97 | [Skolaczk/next-starter](./skolaczk-next-starter.md) | ⭐ 1k | TypeScript | 75/100 |
 | 98 | [DarkWorldCoder/arguseye](./darkworldcoder-arguseye.md) | ⭐ 7 | TypeScript | 74/100 |
@@ -287,7 +287,7 @@
 | 277 | [grafana/k8s-monitoring-helm](./grafana-k8s-monitoring-helm.md) | ⭐ 696 | Go Template | 64/100 |
 | 278 | [naimkatiman/tradeclaw](./naimkatiman-tradeclaw.md) | ⭐ 44 | TypeScript | 64/100 |
 | 279 | [level09/readykit](./level09-readykit.md) | ⭐ 249 | CSS | 64/100 |
-| 280 | [nickvasilescu/nicks-stack](./nickvasilescu-nicks-stack.md) | ⭐ 149 | Python | 64/100 |
+| 280 | [nickvasilescu/nicks-stack](./nickvasilescu-nicks-stack.md) | ⭐ 150 | Python | 64/100 |
 | 281 | [runpod-workers/worker-vllm](./runpod-workers-worker-vllm.md) | ⭐ 474 | Python | 64/100 |
 | 282 | [taiga-family/polymorpheus](./taiga-family-polymorpheus.md) | ⭐ 429 | TypeScript | 64/100 |
 | 283 | [SlideSpeak/presentation-design-prompts](./slidespeak-presentation-design-prompts.md) | ⭐ 211 | — | 64/100 |
@@ -299,7 +299,7 @@
 | 289 | [stan-dev/math](./stan-dev-math.md) | ⭐ 846 | C++ | 64/100 |
 | 290 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 55 | Shell | 64/100 |
 | 291 | [emretasss/AI-Workflow-Hub-2000-](./emretasss-ai-workflow-hub-2000-.md) | ⭐ 322 | — | 64/100 |
-| 292 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 49 | Go | 63/100 |
+| 292 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 50 | Go | 63/100 |
 | 293 | [SurgePix/ai-ppt-prompts](./surgepix-ai-ppt-prompts.md) | ⭐ 14 | JavaScript | 63/100 |
 | 294 | [assassinationss/awesome-china-sourcing](./assassinationss-awesome-china-sourcing.md) | ⭐ — | — | 63/100 |
 | 295 | [bullet-train-co/bullet_train](./bullet-train-co-bullet-train.md) | ⭐ 1.9k | Ruby | 63/100 |

@@ -1,6 +1,6 @@
 # DataDog/guarddog
 
-[![Stars](https://img.shields.io/github/stars/DataDog/guarddog?style=flat-square&color=yellow)](https://github.com/DataDog/guarddog/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/guarddog?style=flat-square&color=blue)](https://github.com/DataDog/guarddog/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DataDog/guarddog?style=flat-square&color=yellow)](https://github.com/DataDog/guarddog/stargazers) [![Forks](https://img.shields.io/github/forks/DataDog/guarddog?style=flat-square&color=blue)](https://github.com/DataDog/guarddog/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
 
 > :snake: :mag: GuardDog is a CLI tool to Identify malicious PyPI and npm packages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1.2k |
 | 🍴 **Forks** | 126 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 72/100 |
+| 📈 **Score** | 69/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ DataDog/guarddog：DataDog/guarddog helps catch security and privacy issues earl
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 77/100 |
+| quality | 72/100 |
 | integration | 62/100 |
-| production | 74/100 |
-| outlook | 81/100 |
+| production | 68/100 |
+| outlook | 74/100 |
 | adoption | 62/100 |
 | categoryMatchCount | 100/100 |
 | stars | 66/100 |
 | forks | 53/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

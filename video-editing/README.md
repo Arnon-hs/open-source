@@ -31,7 +31,7 @@
 | 21 | [hetpatel-11/Adobe_Premiere_Pro_MCP](./hetpatel-11-adobe-premiere-pro-mcp.md) | ⭐ 854 | TypeScript | 80/100 |
 | 22 | [KyaniteLabs/kinocut](./kyanitelabs-kinocut.md) | ⭐ 265 | Python | 80/100 |
 | 23 | [Orkas-AI/Orkas-VideoStudio](./orkas-ai-orkas-videostudio.md) | ⭐ 346 | TypeScript | 80/100 |
-| 24 | [Rich627/whatsapp-claude-plugin](./rich627-whatsapp-claude-plugin.md) | ⭐ 118 | TypeScript | 80/100 |
+| 24 | [Rich627/whatsapp-claude-plugin](./rich627-whatsapp-claude-plugin.md) | ⭐ 119 | TypeScript | 80/100 |
 | 25 | [KyaniteLabs/mcp-video](./kyanitelabs-mcp-video.md) | ⭐ 64 | Python | 80/100 |
 | 26 | [modelscope/FunClip](./modelscope-funclip.md) | ⭐ 6.5k | Python | 80/100 |
 | 27 | [leshchenko1979/fast-mcp-telegram](./leshchenko1979-fast-mcp-telegram.md) | ⭐ 50 | Python | 80/100 |
@@ -80,8 +80,8 @@
 | 70 | [Gitruck/cli](./gitruck-cli.md) | ⭐ 965 | TypeScript | 74/100 |
 | 71 | [Vanszs/tiktok-viral-factory](./vanszs-tiktok-viral-factory.md) | ⭐ 38 | Python | 74/100 |
 | 72 | [GuanYixuan/pyCapCut](./guanyixuan-pycapcut.md) | ⭐ 747 | Python | 74/100 |
-| 73 | [hypit-ai/hypit](./hypit-ai-hypit.md) | ⭐ 29.3k | TypeScript | 74/100 |
-| 74 | [Battam1111/omniseek](./battam1111-omniseek.md) | ⭐ 98 | Python | 74/100 |
+| 73 | [hypit-ai/hypit](./hypit-ai-hypit.md) | ⭐ 29.5k | TypeScript | 74/100 |
+| 74 | [Battam1111/omniseek](./battam1111-omniseek.md) | ⭐ 100 | Python | 74/100 |
 | 75 | [aqm857886159/Nomi](./aqm857886159-nomi.md) | ⭐ 642 | TypeScript | 74/100 |
 | 76 | [GuanYixuan/pyJianYingDraft](./guanyixuan-pyjianyingdraft.md) | ⭐ 4.9k | Python | 74/100 |
 | 77 | [jianshuo/claude-skills](./jianshuo-claude-skills.md) | ⭐ 139 | Python | 74/100 |
@@ -170,7 +170,7 @@
 | 160 | [geovanneb/get-things-done](./geovanneb-get-things-done.md) | ⭐ 15 | TypeScript | 68/100 |
 | 161 | [JOVEMdevv/Premiere-Pro-For-Windows](./jovemdevv-premiere-pro-for-windows.md) | ⭐ 25 | — | 68/100 |
 | 162 | [Kemerd/premiere-agent](./kemerd-premiere-agent.md) | ⭐ 26 | Python | 68/100 |
-| 163 | [motalim-ai/motion-starter-kit](./motalim-ai-motion-starter-kit.md) | ⭐ 53 | TypeScript | 68/100 |
+| 163 | [motalim-ai/motion-starter-kit](./motalim-ai-motion-starter-kit.md) | ⭐ 55 | TypeScript | 68/100 |
 | 164 | [fly7632785/basketball-highlight-editor](./fly7632785-basketball-highlight-editor.md) | ⭐ 86 | Dart | 68/100 |
 | 165 | [nidhi-singh02/skills](./nidhi-singh02-skills.md) | ⭐ 23 | Python | 68/100 |
 | 166 | [francozanardi/pycaps](./francozanardi-pycaps.md) | ⭐ 231 | Python | 68/100 |
@@ -300,7 +300,7 @@
 | 290 | [Alexwtlf/agentic-product-demo](./alexwtlf-agentic-product-demo.md) | ⭐ 454 | TypeScript | 63/100 |
 | 291 | [lipku/LiveTalking](./lipku-livetalking.md) | ⭐ 10.4k | Python | 63/100 |
 | 292 | [erduo1998-cell/erduo-broll-loop-engineering](./erduo1998-cell-erduo-broll-loop-engineering.md) | ⭐ 249 | TypeScript | 63/100 |
-| 293 | [riaz37/remotion-ui](./riaz37-remotion-ui.md) | ⭐ 80 | TypeScript | 63/100 |
+| 293 | [riaz37/remotion-ui](./riaz37-remotion-ui.md) | ⭐ 81 | TypeScript | 63/100 |
 | 294 | [LaoFeng-mouse/flyingmouse-format](./laofeng-mouse-flyingmouse-format.md) | ⭐ 7.1k | JavaScript | 63/100 |
 | 295 | [SPlayer-Dev/SPlayer-Next](./splayer-dev-splayer-next.md) | ⭐ 1.6k | TypeScript | 63/100 |
 | 296 | [scraed/LanPaint](./scraed-lanpaint.md) | ⭐ 1.5k | Python | 63/100 |
@@ -368,7 +368,7 @@
 | 358 | [ysm-dev/cpdown](./ysm-dev-cpdown.md) | ⭐ 583 | TypeScript | 61/100 |
 | 359 | [Zackriya-Solutions/meetily](./zackriya-solutions-meetily.md) | ⭐ 32.6k | Rust | 61/100 |
 | 360 | [eliteludoglobal-create/mpeg-video-editor](./eliteludoglobal-create-mpeg-video-editor.md) | ⭐ 27 | HTML | 60/100 |
-| 361 | [dhruvthakur11/youtube-ai-video-editing-system](./dhruvthakur11-youtube-ai-video-editing-system.md) | ⭐ 481 | HTML | 60/100 |
+| 361 | [dhruvthakur11/youtube-ai-video-editing-system](./dhruvthakur11-youtube-ai-video-editing-system.md) | ⭐ 483 | HTML | 60/100 |
 | 362 | [Li-Evan/awesome-opus-5.5-video-prompts](./li-evan-awesome-opus-5.5-video-prompts.md) | ⭐ 38 | HTML | 60/100 |
 | 363 | [ChainEnchant/HandBrake-Video-Encoder-Guide](./chainenchant-handbrake-video-encoder-guide.md) | ⭐ 38 | — | 60/100 |
 | 364 | [Domemaccharge/capcut-commerce-pro-download](./domemaccharge-capcut-commerce-pro-download.md) | ⭐ 100 | Python | 60/100 |
@@ -514,8 +514,8 @@
 | 504 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 505 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 50 | Kotlin | 53/100 |
 | 506 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 507 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
-| 508 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 507 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 508 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
 | 509 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 510 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 523 | — | 53/100 |
 | 511 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 34 |
+| ⭐ **Stars** | 33 |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 57/100 |
@@ -53,7 +53,7 @@ terryso/ego-skills：terryso/ego-skills helps turn isolated prompts and tools in
 
 **Quality signals**
 
-- 34 GitHub stars
+- 33 GitHub stars
 - 3 forks
 - updated 2026-11-08
 - primary language: JavaScript
