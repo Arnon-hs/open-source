@@ -98,7 +98,7 @@
 | 88 | [ljtn/epiq](./ljtn-epiq.md) | ⭐ 583 | TypeScript | 63/100 |
 | 89 | [brevity1swos/rgx](./brevity1swos-rgx.md) | ⭐ 244 | Rust | 63/100 |
 | 90 | [Shopify/tophat](./shopify-tophat.md) | ⭐ 1.1k | Swift | 62/100 |
-| 91 | [Keruspe/GPaste](./keruspe-gpaste.md) | ⭐ 964 | C | 62/100 |
+| 91 | [Keruspe/GPaste](./keruspe-gpaste.md) | ⭐ 965 | C | 62/100 |
 | 92 | [PrismLauncher/PrismLauncher](./prismlauncher-prismlauncher.md) | ⭐ 11.1k | C++ | 62/100 |
 | 93 | [amir1376/ab-download-manager](./amir1376-ab-download-manager.md) | ⭐ 19.2k | Kotlin | 62/100 |
 | 94 | [mrusme/zeit](./mrusme-zeit.md) | ⭐ 594 | Go | 62/100 |
@@ -356,8 +356,8 @@
 | 346 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 347 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 348 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 349 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
-| 350 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 349 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 350 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
 | 351 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 352 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.8k | — | 38/100 |
 | 353 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

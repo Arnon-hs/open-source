@@ -153,7 +153,7 @@
 | 143 | [y-scope/clp](./y-scope-clp.md) | ⭐ 1.1k | C++ | 60/100 |
 | 144 | [apache/paimon](./apache-paimon.md) | ⭐ 3.4k | Java | 60/100 |
 | 145 | [Scille/parsec-cloud](./scille-parsec-cloud.md) | ⭐ 311 | Rust | 60/100 |
-| 146 | [samapriya/awesome-gee-community-datasets](./samapriya-awesome-gee-community-datasets.md) | ⭐ 1.2k | HTML | 60/100 |
+| 146 | [samapriya/awesome-gee-community-datasets](./samapriya-awesome-gee-community-datasets.md) | ⭐ 1.3k | HTML | 60/100 |
 | 147 | [OpenMS/OpenMS](./openms-openms.md) | ⭐ 630 | C++ | 60/100 |
 | 148 | [crate/crate](./crate-crate.md) | ⭐ 4.5k | Java | 60/100 |
 | 149 | [microsoft/Qcodes](./microsoft-qcodes.md) | ⭐ 469 | Python | 60/100 |

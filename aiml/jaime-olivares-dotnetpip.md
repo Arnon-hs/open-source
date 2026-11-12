@@ -64,18 +64,18 @@ jaime-olivares/DotNetPip：jaime-olivares/DotNetPip helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 43/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 48/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 43/100 |
+| recency | 60/100 |
+| adoption | 5/100 |
+| production | 50/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

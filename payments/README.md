@@ -118,8 +118,8 @@
 | 108 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.9k | PHP | 62/100 |
 | 109 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 10.3k | PHP | 62/100 |
 | 110 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 1.1k | TypeScript | 62/100 |
-| 111 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
-| 112 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 111 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 112 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
 | 113 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 114 | [actions/checkout](./actions-checkout.md) | ⭐ 8.8k | TypeScript | 61/100 |
 | 115 | [paid-tw/payment](./paid-tw-payment.md) | ⭐ 86 | TypeScript | 61/100 |
@@ -139,7 +139,7 @@
 | 129 | [eallion/uBlacklist-subscription-compilation](./eallion-ublacklist-subscription-compilation.md) | ⭐ 1.3k | Go | 60/100 |
 | 130 | [abishekmuthian/open-payment-host](./abishekmuthian-open-payment-host.md) | ⭐ 244 | Go | 60/100 |
 | 131 | [voidly-ai/voidly-pay](./voidly-ai-voidly-pay.md) | ⭐ 11 | JavaScript | 60/100 |
-| 132 | [dimthink/PriceAI](./dimthink-priceai.md) | ⭐ 5.3k | TypeScript | 60/100 |
+| 132 | [dimthink/PriceAI](./dimthink-priceai.md) | ⭐ 5.4k | TypeScript | 60/100 |
 | 133 | [trickv/hass-claude-usage](./trickv-hass-claude-usage.md) | ⭐ 61 | Python | 60/100 |
 | 134 | [vue-stripe/vue-stripe](./vue-stripe-vue-stripe.md) | ⭐ 1.1k | Vue | 60/100 |
 | 135 | [easylist/easylist](./easylist-easylist.md) | ⭐ 3.2k | Adblock Filter List | 60/100 |
@@ -201,7 +201,7 @@
 | 191 | [Glench/ExtPay](./glench-extpay.md) | ⭐ 789 | JavaScript | 56/100 |
 | 192 | [hexxt-git/ccpool](./hexxt-git-ccpool.md) | ⭐ 71 | TypeScript | 56/100 |
 | 193 | [ProwlFi/ProwlFinance](./prowlfi-prowlfinance.md) | ⭐ 496 | TypeScript | 56/100 |
-| 194 | [iliyami/MacSai](./iliyami-macsai.md) | ⭐ 2.1k | Swift | 56/100 |
+| 194 | [iliyami/MacSai](./iliyami-macsai.md) | ⭐ 2.2k | Swift | 56/100 |
 | 195 | [stustapay/stustapay](./stustapay-stustapay.md) | ⭐ 160 | Python | 56/100 |
 | 196 | [robinebers/openusage](./robinebers-openusage.md) | ⭐ 4.6k | JavaScript | 56/100 |
 | 197 | [Kingler16/Velora](./kingler16-velora.md) | ⭐ 49 | Python | 56/100 |
@@ -233,8 +233,8 @@
 | 223 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 187 | PHP | 54/100 |
 | 224 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.8k | TypeScript | 54/100 |
 | 225 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 226 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 568 | — | 53/100 |
-| 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 650 | — | 53/100 |
+| 226 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 650 | — | 53/100 |
+| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 568 | — | 53/100 |
 | 228 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 229 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 230 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 88 | Rust | 53/100 |
@@ -280,8 +280,8 @@
 | 270 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 60 | Rust | 50/100 |
 | 271 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 50/100 |
 | 272 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 224 | Rust | 50/100 |
-| 273 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
-| 274 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
+| 273 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
+| 274 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
 | 275 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 276 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 181 | HTML | 50/100 |

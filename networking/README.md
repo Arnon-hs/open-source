@@ -217,7 +217,7 @@
 | 207 | [heymaikol/network-doctor](./heymaikol-network-doctor.md) | ⭐ 443 | Go | 62/100 |
 | 208 | [Exa-Networks/exabgp](./exa-networks-exabgp.md) | ⭐ 2.3k | Python | 62/100 |
 | 209 | [wg-easy/wg-easy](./wg-easy-wg-easy.md) | ⭐ 27.5k | TypeScript | 62/100 |
-| 210 | [anyproto/any-sync-dockercompose](./anyproto-any-sync-dockercompose.md) | ⭐ 963 | Shell | 62/100 |
+| 210 | [anyproto/any-sync-dockercompose](./anyproto-any-sync-dockercompose.md) | ⭐ 964 | Shell | 62/100 |
 | 211 | [anyproto/anytype-swift](./anyproto-anytype-swift.md) | ⭐ 525 | Swift | 62/100 |
 | 212 | [TinyActive/nginx-love](./tinyactive-nginx-love.md) | ⭐ 311 | TypeScript | 62/100 |
 | 213 | [rune/rune](./rune-rune.md) | ⭐ 433 | TypeScript | 62/100 |
@@ -582,8 +582,8 @@
 | 572 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 573 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 652 | — | 45/100 |
 | 574 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
-| 576 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 576 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
 | 577 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 578 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 579 | [hoysengleang/wslog](./hoysengleang-wslog.md) | ⭐ 1 | TypeScript | 43/100 |

@@ -668,7 +668,7 @@
 | 658 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 509 | Ruby | 64/100 |
 | 659 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.2k | Java | 64/100 |
 | 660 | [nestjs/bull](./nestjs-bull.md) | ⭐ 709 | TypeScript | 64/100 |
-| 661 | [terrakube-io/terrakube](./terrakube-io-terrakube.md) | ⭐ 997 | Java | 64/100 |
+| 661 | [terrakube-io/terrakube](./terrakube-io-terrakube.md) | ⭐ 998 | Java | 64/100 |
 | 662 | [VyomKulshrestha/Heliox-OS](./vyomkulshrestha-heliox-os.md) | ⭐ 69 | Python | 64/100 |
 | 663 | [Dryxio/auto-re-agent](./dryxio-auto-re-agent.md) | ⭐ 1.1k | Python | 64/100 |
 | 664 | [PromptPartner/agentsmith](./promptpartner-agentsmith.md) | ⭐ 152 | Shell | 64/100 |
@@ -1125,7 +1125,7 @@
 | 1115 | [Blackman99/agent-feishu-channel](./blackman99-agent-feishu-channel.md) | ⭐ 48 | TypeScript | 55/100 |
 | 1116 | [bgyeth/apify-mcp-durable-state-companion](./bgyeth-apify-mcp-durable-state-companion.md) | ⭐ — | — | 55/100 |
 | 1117 | [Shubhbhangoo/agent-firewall](./shubhbhangoo-agent-firewall.md) | ⭐ — | — | 55/100 |
-| 1118 | [milind-soni/OpenMausBot](./milind-soni-openmausbot.md) | ⭐ 20.7k | TypeScript | 55/100 |
+| 1118 | [milind-soni/OpenMausBot](./milind-soni-openmausbot.md) | ⭐ 21.3k | TypeScript | 55/100 |
 | 1119 | [orwa-mahmoud/nightshift](./orwa-mahmoud-nightshift.md) | ⭐ 281 | Shell | 55/100 |
 | 1120 | [Sets88/sets88_telegram_bot](./sets88-sets88-telegram-bot.md) | ⭐ 119 | Python | 55/100 |
 | 1121 | [FredYakumo/zihuan-next](./fredyakumo-zihuan-next.md) | ⭐ 41 | Rust | 55/100 |
@@ -1325,8 +1325,8 @@
 | 1315 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 779 | Python | 49/100 |
 | 1316 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 583 | — | 49/100 |
 | 1317 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 237 | Rust | 49/100 |
-| 1318 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
-| 1319 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 515 | Go | 49/100 |
+| 1318 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 515 | Go | 49/100 |
+| 1319 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
 | 1320 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 4.8k | Shell | 49/100 |
 | 1321 | [EC-Roshan/refund-court](./ec-roshan-refund-court.md) | ⭐ — | — | 49/100 |
 | 1322 | [habsology/lazywatch](./habsology-lazywatch.md) | ⭐ — | Python | 49/100 |
@@ -1469,8 +1469,8 @@
 | 1459 | [AlejandroSilvaMendez/fail-closed-python-assessment](./alejandrosilvamendez-fail-closed-python-assessment.md) | ⭐ — | Python | 43/100 |
 | 1460 | [truongsontung/pr-monitor](./truongsontung-pr-monitor.md) | ⭐ — | Python | 43/100 |
 | 1461 | [aws/n8n-nodes-agentcore](./aws-n8n-nodes-agentcore.md) | ⭐ 16 | TypeScript | 43/100 |
-| 1462 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
-| 1463 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
+| 1462 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
+| 1463 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
 | 1464 | [etkecc/baibot](./etkecc-baibot.md) | ⭐ 254 | Rust | 43/100 |
 | 1465 | [kompiro/karasu](./kompiro-karasu.md) | ⭐ 1 | TypeScript | 43/100 |
 | 1466 | [mukuvi/doorman](./mukuvi-doorman.md) | ⭐ — | Python | 43/100 |
@@ -1610,8 +1610,8 @@
 | 1600 | [unkeyed/keanu-reviews](./unkeyed-keanu-reviews.md) | ⭐ 6 | — | 38/100 |
 | 1601 | [madebywelch/guaca](./madebywelch-guaca.md) | ⭐ 54 | — | 38/100 |
 | 1602 | [nsrht/micro-hook](./nsrht-micro-hook.md) | ⭐ 1 | — | 38/100 |
-| 1603 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
-| 1604 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ 8 | — | 38/100 |
+| 1603 | [openmetaloop/openmetaloop](./openmetaloop-openmetaloop.md) | ⭐ 8 | — | 38/100 |
+| 1604 | [IanSeyler/BareMetal-Discord-Bot](./ianseyler-baremetal-discord-bot.md) | ⭐ — | — | 38/100 |
 | 1605 | [Willbass65/SEAI-Identity-Standard](./willbass65-seai-identity-standard.md) | ⭐ 1 | — | 38/100 |
 | 1606 | [kamilprochazka27-art/HELIOS](./kamilprochazka27-art-helios.md) | ⭐ 1 | — | 38/100 |
 | 1607 | [MShekow/renovate-log-parser](./mshekow-renovate-log-parser.md) | ⭐ 5 | — | 38/100 |

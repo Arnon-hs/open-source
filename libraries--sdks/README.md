@@ -21,7 +21,7 @@
 | 11 | [googleapis/google-api-dotnet-client](./googleapis-google-api-dotnet-client.md) | ⭐ 1.5k | C# | 72/100 |
 | 12 | [Unleash/unleash](./unleash-unleash.md) | ⭐ 14.3k | TypeScript | 72/100 |
 | 13 | [lizhiyao/sentry-miniapp](./lizhiyao-sentry-miniapp.md) | ⭐ 712 | TypeScript | 71/100 |
-| 14 | [mixpanel/mixpanel-js](./mixpanel-mixpanel-js.md) | ⭐ 943 | JavaScript | 71/100 |
+| 14 | [mixpanel/mixpanel-js](./mixpanel-mixpanel-js.md) | ⭐ 944 | JavaScript | 71/100 |
 | 15 | [elgatosf/streamdeck](./elgatosf-streamdeck.md) | ⭐ 276 | TypeScript | 71/100 |
 | 16 | [matrix-org/matrix-rust-sdk](./matrix-org-matrix-rust-sdk.md) | ⭐ 2.4k | Rust | 71/100 |
 | 17 | [linear/linear](./linear-linear.md) | ⭐ 1.7k | TypeScript | 71/100 |
@@ -33,7 +33,7 @@
 | 23 | [remotestorage/remotestorage.js](./remotestorage-remotestorage.js.md) | ⭐ 2.4k | JavaScript | 70/100 |
 | 24 | [TencentCloud/tencentcloud-sdk-python](./tencentcloud-tencentcloud-sdk-python.md) | ⭐ 719 | Python | 70/100 |
 | 25 | [googleads/googleads-mobile-unity](./googleads-googleads-mobile-unity.md) | ⭐ 1.6k | C# | 70/100 |
-| 26 | [operator-framework/java-operator-sdk](./operator-framework-java-operator-sdk.md) | ⭐ 946 | Java | 70/100 |
+| 26 | [operator-framework/java-operator-sdk](./operator-framework-java-operator-sdk.md) | ⭐ 947 | Java | 70/100 |
 | 27 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 751 | Go | 70/100 |
 | 28 | [octokit/octokit.js](./octokit-octokit.js.md) | ⭐ 7.9k | TypeScript | 69/100 |
 | 29 | [meilisearch/meilisearch-php](./meilisearch-meilisearch-php.md) | ⭐ 764 | PHP | 69/100 |
@@ -92,7 +92,7 @@
 | 82 | [bytecodealliance/rustix](./bytecodealliance-rustix.md) | ⭐ 2.2k | Rust | 63/100 |
 | 83 | [supabase/supabase-swift](./supabase-supabase-swift.md) | ⭐ 1.3k | Swift | 63/100 |
 | 84 | [apache/hudi-rs](./apache-hudi-rs.md) | ⭐ 282 | Rust | 63/100 |
-| 85 | [cloudevents/sdk-go](./cloudevents-sdk-go.md) | ⭐ 965 | Go | 63/100 |
+| 85 | [cloudevents/sdk-go](./cloudevents-sdk-go.md) | ⭐ 966 | Go | 63/100 |
 | 86 | [NVIDIA-Omniverse/PhysX](./nvidia-omniverse-physx.md) | ⭐ 4.8k | C++ | 63/100 |
 | 87 | [firebase/firebase-functions](./firebase-firebase-functions.md) | ⭐ 1.1k | TypeScript | 63/100 |
 | 88 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 580 | C | 63/100 |

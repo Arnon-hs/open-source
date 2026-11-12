@@ -42,10 +42,10 @@
 | 32 | [fungos/cr](./fungos-cr.md) | ⭐ 1.8k | C++ | 65/100 |
 | 33 | [elishacloud/dxwrapper](./elishacloud-dxwrapper.md) | ⭐ 2.1k | C | 65/100 |
 | 34 | [erichlof/THREE.js-PathTracing-Renderer](./erichlof-three.js-pathtracing-renderer.md) | ⭐ 2.3k | GLSL | 65/100 |
-| 35 | [Shrey113/Android-Dex](./shrey113-android-dex.md) | ⭐ 3.8k | HTML | 64/100 |
+| 35 | [Shrey113/Android-Dex](./shrey113-android-dex.md) | ⭐ 3.9k | HTML | 64/100 |
 | 36 | [iShape-Rust/iOverlay](./ishape-rust-ioverlay.md) | ⭐ 220 | Rust | 64/100 |
 | 37 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 35.6k | C | 64/100 |
-| 38 | [openglobus/openglobus](./openglobus-openglobus.md) | ⭐ 951 | TypeScript | 64/100 |
+| 38 | [openglobus/openglobus](./openglobus-openglobus.md) | ⭐ 952 | TypeScript | 64/100 |
 | 39 | [mas-bandwidth/netcode](./mas-bandwidth-netcode.md) | ⭐ 2.6k | C | 64/100 |
 | 40 | [fschutt/azul](./fschutt-azul.md) | ⭐ 6.1k | Rust | 64/100 |
 | 41 | [Noxmore/bevy_trenchbroom](./noxmore-bevy-trenchbroom.md) | ⭐ 163 | Rust | 64/100 |
@@ -298,7 +298,7 @@
 | 288 | [Rust-GPU/rust-gpu](./rust-gpu-rust-gpu.md) | ⭐ 3.4k | Rust | 48/100 |
 | 289 | [LostBeard/SpawnDev.ILGPU](./lostbeard-spawndev.ilgpu.md) | ⭐ 35 | C# | 47/100 |
 | 290 | [BasisVR/Basis](./basisvr-basis.md) | ⭐ 536 | C# | 47/100 |
-| 291 | [dkfans/keeperfx](./dkfans-keeperfx.md) | ⭐ 1k | C | 47/100 |
+| 291 | [dkfans/keeperfx](./dkfans-keeperfx.md) | ⭐ 1.1k | C | 47/100 |
 | 292 | [microsoft/DirectXMesh](./microsoft-directxmesh.md) | ⭐ 860 | C++ | 47/100 |
 | 293 | [ZhuNemo/locus-earth](./zhunemo-locus-earth.md) | ⭐ 4 | JavaScript | 46/100 |
 | 294 | [z2586300277/three-cesium-examples](./z2586300277-three-cesium-examples.md) | ⭐ 2.2k | JavaScript | 46/100 |

@@ -65,18 +65,18 @@ ferrumio/pydynox：ferrumio/pydynox helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 62/100 |
-| integration | 46/100 |
-| production | 62/100 |
-| outlook | 62/100 |
-| adoption | 36/100 |
-| categoryMatchCount | 400/100 |
-| stars | 37/100 |
 | forks | 35/100 |
-| recency | 80/100 |
+| stars | 37/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 62/100 |
+| recency | 80/100 |
+| adoption | 36/100 |
+| production | 62/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

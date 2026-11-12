@@ -388,7 +388,7 @@
 | 378 | [Purfview/IMDb-Scout-Mod](./purfview-imdb-scout-mod.md) | ⭐ 594 | JavaScript | 60/100 |
 | 379 | [HandBrake/HandBrake](./handbrake-handbrake.md) | ⭐ 25k | C | 60/100 |
 | 380 | [spupuz/VibeNVR](./spupuz-vibenvr.md) | ⭐ 424 | JavaScript | 60/100 |
-| 381 | [Natively-AI-assistant/natively-cluely-ai-assistant](./natively-ai-assistant-natively-cluely-ai-assistant.md) | ⭐ 3.2k | TypeScript | 60/100 |
+| 381 | [Natively-AI-assistant/natively-cluely-ai-assistant](./natively-ai-assistant-natively-cluely-ai-assistant.md) | ⭐ 3.3k | TypeScript | 60/100 |
 | 382 | [silverstein/minutes](./silverstein-minutes.md) | ⭐ 1.6k | Rust | 60/100 |
 | 383 | [FFmpeg/FFmpeg](./ffmpeg-ffmpeg.md) | ⭐ 67.1k | C | 60/100 |
 | 384 | [jianxinss/iching-64-motion](./jianxinss-iching-64-motion.md) | ⭐ 170 | TypeScript | 59/100 |
@@ -513,8 +513,8 @@
 | 503 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 806 | C++ | 54/100 |
 | 504 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 505 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 506 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
-| 507 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 506 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 507 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
 | 508 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 509 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 522 | — | 53/100 |
 | 510 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
