@@ -2,7 +2,7 @@
 
 > 
 
-**176 projects** in this category.
+**177 projects** in this category.
 
 ## Projects
 
@@ -20,7 +20,7 @@
 | 10 | [neopen/story-shot-agent](./neopen-story-shot-agent.md) | ⭐ 238 | Python | 78/100 |
 | 11 | [ffroliva/gflow-cli](./ffroliva-gflow-cli.md) | ⭐ 383 | Python | 78/100 |
 | 12 | [HBAI-Ltd/Toonflow-app](./hbai-ltd-toonflow-app.md) | ⭐ 21.5k | HTML | 78/100 |
-| 13 | [SlavaSexton/ComfyUI-Agent-Kit](./slavasexton-comfyui-agent-kit.md) | ⭐ 120 | Python | 77/100 |
+| 13 | [SlavaSexton/ComfyUI-Agent-Kit](./slavasexton-comfyui-agent-kit.md) | ⭐ 121 | Python | 77/100 |
 | 14 | [gokayfem/ComfyUI-fal-API](./gokayfem-comfyui-fal-api.md) | ⭐ 227 | Python | 76/100 |
 | 15 | [promptslab/Awesome-Prompt-Engineering](./promptslab-awesome-prompt-engineering.md) | ⭐ 6.4k | TypeScript | 76/100 |
 | 16 | [Anil-matcha/Wan-3.0-API](./anil-matcha-wan-3.0-api.md) | ⭐ 81 | Python | 76/100 |
@@ -98,9 +98,9 @@
 | 88 | [FurkanGozukara/Stable-Diffusion](./furkangozukara-stable-diffusion.md) | ⭐ 2.8k | HTML | 62/100 |
 | 89 | [calesthio/generative-media-skills](./calesthio-generative-media-skills.md) | ⭐ 242 | Python | 62/100 |
 | 90 | [howoneai/xiaolin-explainer-packaging](./howoneai-xiaolin-explainer-packaging.md) | ⭐ 21 | TypeScript | 61/100 |
-| 91 | [frankzch/ai-news-skill](./frankzch-ai-news-skill.md) | ⭐ 23 | Python | 61/100 |
+| 91 | [frankzch/ai-news-skill](./frankzch-ai-news-skill.md) | ⭐ 24 | Python | 61/100 |
 | 92 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
-| 93 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 23 | Python | 61/100 |
+| 93 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 22 | Python | 61/100 |
 | 94 | [Wan-Video/Wan2.2](./wan-video-wan2.2.md) | ⭐ 18.6k | Python | 60/100 |
 | 95 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 208 | — | 60/100 |
 | 96 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 158 | Vue | 60/100 |
@@ -144,46 +144,47 @@
 | 134 | [lightx2v/Minimax-h3-Turbo](./lightx2v-minimax-h3-turbo.md) | ⭐ 764 | diffusers | 48/100 |
 | 135 | [joniilmanfahmi00-collab/musespark-mcp](./joniilmanfahmi00-collab-musespark-mcp.md) | ⭐ — | PHP | 47/100 |
 | 136 | [FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree](./fastvideo-fastvideo-fasth3-4-step-preview-v1-vsa-datafree.md) | ⭐ 296 | diffusers | 46/100 |
-| 137 | [walterwritesai/walter-skills](./walterwritesai-walter-skills.md) | ⭐ 13 | — | 46/100 |
+| 137 | [walterwritesai/walter-skills](./walterwritesai-walter-skills.md) | ⭐ 14 | — | 46/100 |
 | 138 | [Lightricks/LTX-2.5](./lightricks-ltx-2.5.md) | ⭐ 1.6k | diffusion-single-file | 46/100 |
 | 139 | [Lightricks/LTX-2.3](./lightricks-ltx-2.3.md) | ⭐ 1.8k | diffusers | 46/100 |
-| 140 | [ShadowKingYT444/unglazed](./shadowkingyt444-unglazed.md) | ⭐ — | — | 45/100 |
-| 141 | [lettercamp/lettercamp](./lettercamp-lettercamp.md) | ⭐ — | — | 45/100 |
-| 142 | [MaxonT/aisync](./maxont-aisync.md) | ⭐ 38 | — | 45/100 |
-| 143 | [GoogleChrome/modern-web-guidance](./googlechrome-modern-web-guidance.md) | ⭐ 4.7k | — | 45/100 |
-| 144 | [bquenin/qitt](./bquenin-qitt.md) | ⭐ 1 | — | 45/100 |
-| 145 | [Comfy-Org/Wan-2.2](./comfy-org-wan-2.2.md) | ⭐ 963 | diffusion-single-file | 45/100 |
-| 146 | [DeveloperPuneet/Crowdwide](./developerpuneet-crowdwide.md) | ⭐ 7 | JavaScript | 45/100 |
-| 147 | [Comfy-Org/Wan_2.2_ComfyUI_Repackaged](./comfy-org-wan-2.2-comfyui-repackaged.md) | ⭐ 842 | diffusion-single-file | 45/100 |
-| 148 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
-| 149 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
-| 150 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 151 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
-| 152 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 354 | — | 43/100 |
-| 153 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
-| 154 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
-| 155 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
-| 156 | [twobitapps/nvidia-headlines-ethics-2026](./twobitapps-nvidia-headlines-ethics-2026.md) | ⭐ — | — | 41/100 |
-| 157 | [peterhudson/timegrapher](./peterhudson-timegrapher.md) | ⭐ 21 | — | 41/100 |
-| 158 | [occiderunt/netstudy-mac](./occiderunt-netstudy-mac.md) | ⭐ — | — | 41/100 |
-| 159 | [maths-oliveira/blabla-meter](./maths-oliveira-blabla-meter.md) | ⭐ — | — | 41/100 |
-| 160 | [worldlabsai/atlas-camera-studio](./worldlabsai-atlas-camera-studio.md) | ⭐ 72 | — | 41/100 |
-| 161 | [ai/size-limit](./ai-size-limit.md) | ⭐ 7k | — | 40/100 |
-| 162 | [BigoudOps/Libre-financement](./bigoudops-libre-financement.md) | ⭐ 43 | — | 40/100 |
-| 163 | [Lightricks/LTX-Video](./lightricks-ltx-video.md) | ⭐ 2.3k | diffusers | 40/100 |
-| 164 | [pelazas/p2pmux](./pelazas-p2pmux.md) | ⭐ 76 | — | 40/100 |
-| 165 | [QuantStack/Wan2.2-I2V-A14B-GGUF](./quantstack-wan2.2-i2v-a14b-gguf.md) | ⭐ 458 | gguf | 38/100 |
-| 166 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ 8 | — | 38/100 |
-| 167 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 38/100 |
-| 168 | [QuantStack/Wan2.2-TI2V-5B-GGUF](./quantstack-wan2.2-ti2v-5b-gguf.md) | ⭐ 231 | gguf | 37/100 |
-| 169 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
-| 170 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
-| 171 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
-| 172 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 173 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 140 | [josh99smith/youtube-scraper](./josh99smith-youtube-scraper.md) | ⭐ — | — | 45/100 |
+| 141 | [ShadowKingYT444/unglazed](./shadowkingyt444-unglazed.md) | ⭐ — | — | 45/100 |
+| 142 | [lettercamp/lettercamp](./lettercamp-lettercamp.md) | ⭐ — | — | 45/100 |
+| 143 | [MaxonT/aisync](./maxont-aisync.md) | ⭐ 38 | — | 45/100 |
+| 144 | [GoogleChrome/modern-web-guidance](./googlechrome-modern-web-guidance.md) | ⭐ 4.7k | — | 45/100 |
+| 145 | [bquenin/qitt](./bquenin-qitt.md) | ⭐ 1 | — | 45/100 |
+| 146 | [Comfy-Org/Wan-2.2](./comfy-org-wan-2.2.md) | ⭐ 963 | diffusion-single-file | 45/100 |
+| 147 | [DeveloperPuneet/Crowdwide](./developerpuneet-crowdwide.md) | ⭐ 7 | JavaScript | 45/100 |
+| 148 | [Comfy-Org/Wan_2.2_ComfyUI_Repackaged](./comfy-org-wan-2.2-comfyui-repackaged.md) | ⭐ 842 | diffusion-single-file | 45/100 |
+| 149 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
+| 150 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
+| 151 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
+| 152 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 153 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 354 | — | 43/100 |
+| 154 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
+| 155 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
+| 156 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
+| 157 | [twobitapps/nvidia-headlines-ethics-2026](./twobitapps-nvidia-headlines-ethics-2026.md) | ⭐ — | — | 41/100 |
+| 158 | [peterhudson/timegrapher](./peterhudson-timegrapher.md) | ⭐ 21 | — | 41/100 |
+| 159 | [occiderunt/netstudy-mac](./occiderunt-netstudy-mac.md) | ⭐ — | — | 41/100 |
+| 160 | [maths-oliveira/blabla-meter](./maths-oliveira-blabla-meter.md) | ⭐ — | — | 41/100 |
+| 161 | [worldlabsai/atlas-camera-studio](./worldlabsai-atlas-camera-studio.md) | ⭐ 72 | — | 41/100 |
+| 162 | [ai/size-limit](./ai-size-limit.md) | ⭐ 7k | — | 40/100 |
+| 163 | [BigoudOps/Libre-financement](./bigoudops-libre-financement.md) | ⭐ 43 | — | 40/100 |
+| 164 | [Lightricks/LTX-Video](./lightricks-ltx-video.md) | ⭐ 2.3k | diffusers | 40/100 |
+| 165 | [pelazas/p2pmux](./pelazas-p2pmux.md) | ⭐ 76 | — | 40/100 |
+| 166 | [QuantStack/Wan2.2-I2V-A14B-GGUF](./quantstack-wan2.2-i2v-a14b-gguf.md) | ⭐ 458 | gguf | 38/100 |
+| 167 | [SaientAI/saient-quartz](./saientai-saient-quartz.md) | ⭐ 8 | — | 38/100 |
+| 168 | [Promyer/stellar-inbox](./promyer-stellar-inbox.md) | ⭐ — | — | 38/100 |
+| 169 | [QuantStack/Wan2.2-TI2V-5B-GGUF](./quantstack-wan2.2-ti2v-5b-gguf.md) | ⭐ 231 | gguf | 37/100 |
+| 170 | [QuantStack/Wan2.2-T2V-A14B-GGUF](./quantstack-wan2.2-t2v-a14b-gguf.md) | ⭐ 272 | gguf | 37/100 |
+| 171 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
+| 172 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
+| 173 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
 | 174 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 175 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
-| 176 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
+| 175 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 176 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
+| 177 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 
 ---
 

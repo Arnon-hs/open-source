@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 10 |
+| ⭐ **Stars** | 11 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 56/100 |
@@ -53,7 +53,7 @@ lvaoliveira/sonda：lvaoliveira/sonda helps make deployment and operations more 
 
 **Quality signals**
 
-- 10 GitHub stars
+- 11 GitHub stars
 - updated 2026-11-07
 - primary language: Rust
 - 4 topics
@@ -69,9 +69,9 @@ lvaoliveira/sonda：lvaoliveira/sonda helps make deployment and operations more 
 | integration | 78/100 |
 | production | 61/100 |
 | outlook | 56/100 |
-| adoption | 16/100 |
+| adoption | 17/100 |
 | categoryMatchCount | 100/100 |
-| stars | 22/100 |
+| stars | 23/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 50/100 |

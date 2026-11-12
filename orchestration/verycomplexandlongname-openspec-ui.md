@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12 |
+| ⭐ **Stars** | 13 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 67/100 |
@@ -53,7 +53,7 @@ VeryComplexAndLongName/OpenSpec-UI：VeryComplexAndLongName/OpenSpec-UI helps tu
 
 **Quality signals**
 
-- 12 GitHub stars
+- 13 GitHub stars
 - 1 forks
 - updated 2026-11-07
 - primary language: TypeScript
@@ -70,7 +70,7 @@ VeryComplexAndLongName/OpenSpec-UI：VeryComplexAndLongName/OpenSpec-UI helps tu
 | integration | 62/100 |
 | production | 62/100 |
 | outlook | 70/100 |
-| adoption | 19/100 |
+| adoption | 20/100 |
 | categoryMatchCount | 500/100 |
 | stars | 24/100 |
 | forks | 8/100 |

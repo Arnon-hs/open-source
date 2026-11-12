@@ -108,7 +108,7 @@
 | 98 | [DarkWorldCoder/arguseye](./darkworldcoder-arguseye.md) | ⭐ 7 | TypeScript | 74/100 |
 | 99 | [elementalsouls/Claude-OSINT](./elementalsouls-claude-osint.md) | ⭐ 3k | Python | 74/100 |
 | 100 | [devtodollars/mvp-boilerplate](./devtodollars-mvp-boilerplate.md) | ⭐ 996 | TypeScript | 74/100 |
-| 101 | [reichenbach/iwork_mcp](./reichenbach-iwork-mcp.md) | ⭐ 44 | TypeScript | 74/100 |
+| 101 | [reichenbach/iwork_mcp](./reichenbach-iwork-mcp.md) | ⭐ 45 | TypeScript | 74/100 |
 | 102 | [Angular-RU/angular-ru-interview-questions](./angular-ru-angular-ru-interview-questions.md) | ⭐ 397 | HTML | 74/100 |
 | 103 | [study8677/awesome-architecture](./study8677-awesome-architecture.md) | ⭐ 2.5k | Vue | 74/100 |
 | 104 | [MervinPraison/PraisonAI](./mervinpraison-praisonai.md) | ⭐ 9.3k | Python | 74/100 |

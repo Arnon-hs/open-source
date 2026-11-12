@@ -1,6 +1,6 @@
 # ateymoori/pomelu
 
-[![Stars](https://img.shields.io/github/stars/ateymoori/pomelu?style=flat-square&color=yellow)](https://github.com/ateymoori/pomelu/stargazers) [![Forks](https://img.shields.io/github/forks/ateymoori/pomelu?style=flat-square&color=blue)](https://github.com/ateymoori/pomelu/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-60%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/ateymoori/pomelu?style=flat-square&color=yellow)](https://github.com/ateymoori/pomelu/stargazers) [![Forks](https://img.shields.io/github/forks/ateymoori/pomelu?style=flat-square&color=blue)](https://github.com/ateymoori/pomelu/network) [![Language](https://img.shields.io/badge/lang-Dart-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Pomelu: open-source Android & iOS app for Hermes Agent (Nous Research). Chat with your self-hosted AI agent on phone, foldable and tablet: voice, files, approvals, Bot Screen.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 10 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Dart |
-| 📈 **Score** | 60/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-03 |
 | 🔍 **Source** | story-link |
 
@@ -51,7 +51,8 @@ ateymoori/pomelu：ateymoori/pomelu may be useful when its README and activity m
 
 **Quality signals**
 
-- 8 GitHub stars
+- 10 GitHub stars
+- 1 forks
 - updated 2026-11-03
 - primary language: Dart
 - 24 topics
@@ -63,14 +64,14 @@ ateymoori/pomelu：ateymoori/pomelu may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 52/100 |
+| quality | 54/100 |
 | integration | 46/100 |
 | production | 59/100 |
-| outlook | 67/100 |
-| adoption | 15/100 |
+| outlook | 68/100 |
+| adoption | 18/100 |
 | categoryMatchCount | 100/100 |
-| stars | 20/100 |
-| forks | 0/100 |
+| stars | 22/100 |
+| forks | 8/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

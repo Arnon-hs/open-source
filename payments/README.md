@@ -26,7 +26,7 @@
 | 16 | [Adyen/adyen-python-api-library](./adyen-adyen-python-api-library.md) | ⭐ 67 | Python | 75/100 |
 | 17 | [VictorAvelar/mollie-api-go](./victoravelar-mollie-api-go.md) | ⭐ 91 | Go | 75/100 |
 | 18 | [paypal/PayPal-TypeScript-Server-SDK](./paypal-paypal-typescript-server-sdk.md) | ⭐ 62 | TypeScript | 74/100 |
-| 19 | [shengyanlin/claude-overlay](./shengyanlin-claude-overlay.md) | ⭐ 98 | Python | 74/100 |
+| 19 | [shengyanlin/claude-overlay](./shengyanlin-claude-overlay.md) | ⭐ 100 | Python | 74/100 |
 | 20 | [ashfromsky/acquiremock](./ashfromsky-acquiremock.md) | ⭐ 89 | Python | 74/100 |
 | 21 | [multiplex-ai/muggle-ai-works](./multiplex-ai-muggle-ai-works.md) | ⭐ 16 | TypeScript | 73/100 |
 | 22 | [VonHoltenCodes/SlowBooks-Pro-2026](./vonholtencodes-slowbooks-pro-2026.md) | ⭐ 863 | Python | 73/100 |
@@ -43,7 +43,7 @@
 | 33 | [ClawLink-HQ/clawlink](./clawlink-hq-clawlink.md) | ⭐ 142 | TypeScript | 72/100 |
 | 34 | [paypal/PayPal-PHP-Server-SDK](./paypal-paypal-php-server-sdk.md) | ⭐ 70 | PHP | 71/100 |
 | 35 | [theYahia/WWmcp](./theyahia-wwmcp.md) | ⭐ 38 | TypeScript | 71/100 |
-| 36 | [Lifecycle-Innovations-Limited/claude-ops](./lifecycle-innovations-limited-claude-ops.md) | ⭐ 551 | Shell | 71/100 |
+| 36 | [Lifecycle-Innovations-Limited/claude-ops](./lifecycle-innovations-limited-claude-ops.md) | ⭐ 553 | Shell | 71/100 |
 | 37 | [abracadabra50/uk-grocery-cli](./abracadabra50-uk-grocery-cli.md) | ⭐ 68 | TypeScript | 71/100 |
 | 38 | [nozomi-koborinai/gcp-cost-mcp-server](./nozomi-koborinai-gcp-cost-mcp-server.md) | ⭐ 23 | Go | 71/100 |
 | 39 | [sums001/Deepseek-API](./sums001-deepseek-api.md) | ⭐ 359 | Python | 71/100 |
@@ -66,7 +66,7 @@
 | 56 | [BrowyHQ/browy](./browyhq-browy.md) | ⭐ 7 | JavaScript | 67/100 |
 | 57 | [ellite/Wallos](./ellite-wallos.md) | ⭐ 8.8k | PHP | 67/100 |
 | 58 | [Floe-Labs/floe-guard](./floe-labs-floe-guard.md) | ⭐ 288 | Python | 67/100 |
-| 59 | [giancarloerra/JanuScope](./giancarloerra-januscope.md) | ⭐ 32 | TypeScript | 67/100 |
+| 59 | [giancarloerra/JanuScope](./giancarloerra-januscope.md) | ⭐ 33 | TypeScript | 67/100 |
 | 60 | [oneshot-agent/sdk](./oneshot-agent-sdk.md) | ⭐ 127 | TypeScript | 67/100 |
 | 61 | [claabs/epicgames-freegames-node](./claabs-epicgames-freegames-node.md) | ⭐ 1.9k | TypeScript | 67/100 |
 | 62 | [openmeterio/openmeter](./openmeterio-openmeter.md) | ⭐ 2.4k | Go | 67/100 |
@@ -76,8 +76,8 @@
 | 66 | [ethibox/ethibox](./ethibox-ethibox.md) | ⭐ 260 | JavaScript | 66/100 |
 | 67 | [samber/ro](./samber-ro.md) | ⭐ 698 | Go | 66/100 |
 | 68 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.6k | TypeScript | 66/100 |
-| 69 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.5k | Python | 66/100 |
-| 70 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
+| 69 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
+| 70 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.5k | Python | 66/100 |
 | 71 | [librae8226/nexus4cc](./librae8226-nexus4cc.md) | ⭐ 134 | TypeScript | 65/100 |
 | 72 | [hugoii/llm-agent-audit](./hugoii-llm-agent-audit.md) | ⭐ 62 | Python | 65/100 |
 | 73 | [zmievsa/cadwyn](./zmievsa-cadwyn.md) | ⭐ 314 | Python | 65/100 |
@@ -233,11 +233,11 @@
 | 223 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 186 | PHP | 54/100 |
 | 224 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.8k | TypeScript | 54/100 |
 | 225 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 226 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 664 | — | 53/100 |
-| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 572 | — | 53/100 |
+| 226 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 572 | — | 53/100 |
+| 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 664 | — | 53/100 |
 | 228 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 229 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
-| 230 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 88 | Rust | 53/100 |
+| 230 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 89 | Rust | 53/100 |
 | 231 | [shetabit/multipay](./shetabit-multipay.md) | ⭐ 309 | PHP | 53/100 |
 | 232 | [piratuks/invoice-builder](./piratuks-invoice-builder.md) | ⭐ 1.5k | TypeScript | 53/100 |
 | 233 | [spatie/laravel-stripe-webhooks](./spatie-laravel-stripe-webhooks.md) | ⭐ 525 | PHP | 53/100 |
@@ -285,8 +285,8 @@
 | 275 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 276 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 182 | HTML | 50/100 |
-| 278 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
-| 279 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 278 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 279 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 280 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 281 | [FetchDoge/permit](./fetchdoge-permit.md) | ⭐ — | Python | 49/100 |
 | 282 | [pixari/opentodo](./pixari-opentodo.md) | ⭐ 84 | TypeScript | 49/100 |

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5 |
+| ⭐ **Stars** | 9 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Java |
 | 📈 **Score** | 48/100 |
@@ -51,7 +51,7 @@ AytmaTech/Querier：AytmaTech/Querier may be useful when its README and activity
 
 **Quality signals**
 
-- 5 GitHub stars
+- 9 GitHub stars
 - 1 forks
 - updated 2026-11-06
 - primary language: Java
@@ -64,13 +64,13 @@ AytmaTech/Querier：AytmaTech/Querier may be useful when its README and activity
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 50/100 |
+| quality | 51/100 |
 | integration | 30/100 |
 | production | 56/100 |
-| outlook | 59/100 |
-| adoption | 14/100 |
+| outlook | 60/100 |
+| adoption | 17/100 |
 | categoryMatchCount | 0/100 |
-| stars | 17/100 |
+| stars | 21/100 |
 | forks | 8/100 |
 | recency | 80/100 |
 | topics | 88/100 |

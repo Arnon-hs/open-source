@@ -21,31 +21,29 @@
 
 ## 🎯 Categories
 
-Automation
+Misc
 
 ## 📝 Summary
 
 ### English
 
-projectdiscovery/subfinder: projectdiscovery/subfinder helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+projectdiscovery/subfinder: projectdiscovery/subfinder may be useful when its README and activity match a concrete workflow.. Use it for Misc. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-projectdiscovery/subfinder: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+projectdiscovery/subfinder: open-source проект в категориях Misc. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-projectdiscovery/subfinder：projectdiscovery/subfinder helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+projectdiscovery/subfinder：projectdiscovery/subfinder may be useful when its README and activity match a concrete workflow.。适合用于Misc。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** projectdiscovery/subfinder helps remove repetitive manual operations from a workflow.
+**Value:** projectdiscovery/subfinder may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- Not enough metadata yet.
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,19 +63,19 @@ projectdiscovery/subfinder：projectdiscovery/subfinder helps remove repetitive 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 84/100 |
-| integration | 46/100 |
-| production | 70/100 |
-| outlook | 78/100 |
-| adoption | 86/100 |
-| categoryMatchCount | 100/100 |
-| stars | 89/100 |
 | forks | 80/100 |
-| recency | 80/100 |
+| stars | 89/100 |
 | topics | 100/100 |
+| outlook | 78/100 |
+| quality | 84/100 |
+| recency | 80/100 |
+| adoption | 86/100 |
+| production | 70/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/projectdiscovery/subfinder) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/projectdiscovery/subfinder) · [← Back to Misc](./README.md)</sub>

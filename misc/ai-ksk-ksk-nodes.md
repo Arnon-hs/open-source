@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12 |
+| ⭐ **Stars** | 13 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
 | 📈 **Score** | 47/100 |
@@ -51,7 +51,7 @@ AI-KSK/KSK-Nodes：AI-KSK/KSK-Nodes may be useful when its README and activity m
 
 **Quality signals**
 
-- 12 GitHub stars
+- 13 GitHub stars
 - updated 2026-11-06
 - primary language: Python
 - 6 topics
@@ -63,11 +63,11 @@ AI-KSK/KSK-Nodes：AI-KSK/KSK-Nodes may be useful when its README and activity m
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 49/100 |
+| quality | 50/100 |
 | integration | 46/100 |
 | production | 58/100 |
 | outlook | 55/100 |
-| adoption | 17/100 |
+| adoption | 18/100 |
 | categoryMatchCount | 0/100 |
 | stars | 24/100 |
 | forks | 0/100 |
