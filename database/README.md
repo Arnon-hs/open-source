@@ -420,7 +420,7 @@
 | 410 | [el1s7/model](./el1s7-model.md) | ⭐ 7 | — | 44/100 |
 | 411 | [EhTagTranslation/Database](./ehtagtranslation-database.md) | ⭐ 1.1k | PowerShell | 44/100 |
 | 412 | [supabase/postgres](./supabase-postgres.md) | ⭐ 1.8k | Nix | 44/100 |
-| 413 | [ks-tool/tembo](./ks-tool-tembo.md) | ⭐ — | — | 43/100 |
+| 413 | [ks-tool/tembo](./ks-tool-tembo.md) | ⭐ 1 | — | 43/100 |
 | 414 | [FoundationDB/fdb-record-layer](./foundationdb-fdb-record-layer.md) | ⭐ 680 | Java | 43/100 |
 | 415 | [tokio-rs/toasty](./tokio-rs-toasty.md) | ⭐ 3.3k | Rust | 43/100 |
 | 416 | [CodersAcademy006/raktsetu](./codersacademy006-raktsetu.md) | ⭐ — | TypeScript | 42/100 |
@@ -578,8 +578,8 @@
 | 568 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 569 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 570 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 106 | — | 38/100 |
-| 571 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
-| 572 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
+| 571 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
+| 572 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
 | 573 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 574 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 575 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

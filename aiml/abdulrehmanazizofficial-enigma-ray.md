@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 64/100 |
@@ -53,7 +53,7 @@ abdulrehmanazizofficial/Enigma-Ray：abdulrehmanazizofficial/Enigma-Ray helps ad
 
 **Quality signals**
 
-- 1 GitHub stars
+- 2 GitHub stars
 - updated 2026-11-11
 - primary language: JavaScript
 - 20 topics
@@ -65,13 +65,13 @@ abdulrehmanazizofficial/Enigma-Ray：abdulrehmanazizofficial/Enigma-Ray helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 54/100 |
 | integration | 46/100 |
 | production | 64/100 |
-| outlook | 73/100 |
-| adoption | 5/100 |
+| outlook | 74/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 100/100 |
-| stars | 6/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |

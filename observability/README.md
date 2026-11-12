@@ -244,7 +244,7 @@
 | 234 | [CortexFlow/CortexBrain](./cortexflow-cortexbrain.md) | ⭐ 94 | — | 46/100 |
 | 235 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 334 | Java | 46/100 |
 | 236 | [lxyeternal/NPMAnalysis](./lxyeternal-npmanalysis.md) | ⭐ 3 | — | 46/100 |
-| 237 | [mintlify/agent-traffic](./mintlify-agent-traffic.md) | ⭐ 58 | — | 45/100 |
+| 237 | [mintlify/agent-traffic](./mintlify-agent-traffic.md) | ⭐ 70 | — | 45/100 |
 | 238 | [B2ZO0/netcockpit](./b2zo0-netcockpit.md) | ⭐ 3 | JavaScript | 45/100 |
 | 239 | [devicelabvn/machinery-oee-ems-retrofit-examples](./devicelabvn-machinery-oee-ems-retrofit-examples.md) | ⭐ — | — | 45/100 |
 | 240 | [oxynote/oxynote](./oxynote-oxynote.md) | ⭐ 562 | — | 45/100 |

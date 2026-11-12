@@ -6,8 +6,8 @@ Only categories with at least 10 project cards have folders. The complete machin
 
 | Category | Project cards |
 | --- | ---: |
-| [AI/ML](../aiml/README.md) | 5,184 |
-| [Automation](../automation/README.md) | 1,695 |
+| [AI/ML](../aiml/README.md) | 5,185 |
+| [Automation](../automation/README.md) | 1,696 |
 | [Backend](../backend/README.md) | 1,007 |
 | [Cloud & Storage](../cloud--storage/README.md) | 639 |
 | [Communication](../communication/README.md) | 485 |
@@ -17,10 +17,10 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Database](../database/README.md) | 589 |
 | [Design](../design/README.md) | 198 |
 | [DevOps/Infra](../devopsinfra/README.md) | 557 |
-| [DevTools](../devtools/README.md) | 1,682 |
+| [DevTools](../devtools/README.md) | 1,683 |
 | [Documents](../documents/README.md) | 755 |
 | [Education](../education/README.md) | 36 |
-| [Frontend](../frontend/README.md) | 939 |
+| [Frontend](../frontend/README.md) | 940 |
 | [Games & Graphics](../games--graphics/README.md) | 367 |
 | [Knowledge/RAG](../knowledgerag/README.md) | 653 |
 | [Libraries & SDKs](../libraries--sdks/README.md) | 293 |
@@ -38,4 +38,4 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Templates](../templates/README.md) | 501 |
 | [Trading](../trading/README.md) | 227 |
 | [Vertical Video](../vertical-video/README.md) | 171 |
-| [Video Editing](../video-editing/README.md) | 638 |
+| [Video Editing](../video-editing/README.md) | 639 |

@@ -1,6 +1,6 @@
 # rumparoy3012-ops/shopcraft-ai
 
-[![Stars](https://img.shields.io/github/stars/rumparoy3012-ops/shopcraft-ai?style=flat-square&color=yellow)](https://github.com/rumparoy3012-ops/shopcraft-ai/stargazers) [![Forks](https://img.shields.io/github/forks/rumparoy3012-ops/shopcraft-ai?style=flat-square&color=blue)](https://github.com/rumparoy3012-ops/shopcraft-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rumparoy3012-ops/shopcraft-ai?style=flat-square&color=yellow)](https://github.com/rumparoy3012-ops/shopcraft-ai/stargazers) [![Forks](https://img.shields.io/github/forks/rumparoy3012-ops/shopcraft-ai?style=flat-square&color=blue)](https://github.com/rumparoy3012-ops/shopcraft-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-10-13 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ rumparoy3012-ops/shopcraft-ai：rumparoy3012-ops/shopcraft-ai helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 37/100 |
+| quality | 32/100 |
 | integration | 34/100 |
-| production | 47/100 |
-| outlook | 44/100 |
+| production | 40/100 |
+| outlook | 37/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
