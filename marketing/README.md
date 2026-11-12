@@ -37,7 +37,7 @@
 | 27 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 42/100 |
 | 28 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ 98 | — | 42/100 |
 | 29 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ 58 | — | 42/100 |
-| 30 | [ashvolt/free2Genius](./ashvolt-free2genius.md) | ⭐ 1 | — | 41/100 |
+| 30 | [ashvolt/free2Genius](./ashvolt-free2genius.md) | ⭐ 2 | — | 41/100 |
 | 31 | [mRs-/Black-Friday-Deals](./mrs--black-friday-deals.md) | ⭐ 2.3k | — | 41/100 |
 | 32 | [zachbrown29/lintel-marketing-playbooks](./zachbrown29-lintel-marketing-playbooks.md) | ⭐ 2 | — | 41/100 |
 | 33 | [clicksdynastyincali/local-seo-lint](./clicksdynastyincali-local-seo-lint.md) | ⭐ — | — | 41/100 |

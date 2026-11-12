@@ -9,10 +9,10 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [strapi/strapi](./strapi-strapi.md) | ⭐ 73.5k | TypeScript | 85/100 |
-| 2 | [markdown-it/markdown-it](./markdown-it-markdown-it.md) | ⭐ 22k | TypeScript | 82/100 |
-| 3 | [gotenberg/gotenberg](./gotenberg-gotenberg.md) | ⭐ 13.6k | Go | 80/100 |
-| 4 | [mediacms-io/mediacms](./mediacms-io-mediacms.md) | ⭐ 5.2k | JavaScript | 79/100 |
-| 5 | [NiklasRosenstein/pydoc-markdown](./niklasrosenstein-pydoc-markdown.md) | ⭐ 503 | Python | 78/100 |
+| 2 | [gotenberg/gotenberg](./gotenberg-gotenberg.md) | ⭐ 13.6k | Go | 80/100 |
+| 3 | [mediacms-io/mediacms](./mediacms-io-mediacms.md) | ⭐ 5.2k | JavaScript | 79/100 |
+| 4 | [NiklasRosenstein/pydoc-markdown](./niklasrosenstein-pydoc-markdown.md) | ⭐ 503 | Python | 78/100 |
+| 5 | [markdown-it/markdown-it](./markdown-it-markdown-it.md) | ⭐ 22k | TypeScript | 78/100 |
 | 6 | [papis/papis](./papis-papis.md) | ⭐ 1.8k | HTML | 77/100 |
 | 7 | [speakeasy-api/openapi](./speakeasy-api-openapi.md) | ⭐ 278 | Go | 76/100 |
 | 8 | [pdfcpu/pdfcpu](./pdfcpu-pdfcpu.md) | ⭐ 8.9k | Go | 76/100 |

@@ -21,29 +21,31 @@
 
 ## 🎯 Categories
 
-Mobile
+Automation · Productivity · DevTools
 
 ## 📝 Summary
 
 ### English
 
-fernand0/err-notes: fernand0/err-notes may be useful when its README and activity match a concrete workflow.. Use it for Mobile. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+fernand0/err-notes: fernand0/err-notes helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-fernand0/err-notes: open-source проект в категориях Mobile. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+fernand0/err-notes: open-source проект в категориях Automation, Productivity, DevTools. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-fernand0/err-notes：fernand0/err-notes may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+fernand0/err-notes：fernand0/err-notes helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** fernand0/err-notes may be useful when its README and activity match a concrete workflow.
+**Value:** fernand0/err-notes helps remove repetitive manual operations from a workflow.
 
 **Best use cases**
 
-- Not enough metadata yet.
+- remove manual work
+- connect tools into repeatable flows
+- schedule operational tasks
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -61,19 +63,19 @@ fernand0/err-notes：fernand0/err-notes may be useful when its README and activi
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 25/100 |
-| integration | 78/100 |
-| production | 39/100 |
-| outlook | 35/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 20/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 35/100 |
+| quality | 25/100 |
+| recency | 20/100 |
+| adoption | 0/100 |
+| production | 39/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/fernand0/err-notes) · [← Back to Mobile](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/fernand0/err-notes) · [← Back to Automation](./README.md)</sub>

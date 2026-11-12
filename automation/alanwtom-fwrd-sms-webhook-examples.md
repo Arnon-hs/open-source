@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · AI/ML · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ alanwtom/fwrd-sms-webhook-examples: alanwtom/fwrd-sms-webhook-examples helps rem
 
 ### Русский
 
-alanwtom/fwrd-sms-webhook-examples: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+alanwtom/fwrd-sms-webhook-examples: open-source проект в категориях Automation, AI/ML, Mobile. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ alanwtom/fwrd-sms-webhook-examples：alanwtom/fwrd-sms-webhook-examples helps re
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 41/100 |
-| integration | 62/100 |
-| production | 52/100 |
-| outlook | 53/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 41/100 |
+| recency | 60/100 |
+| adoption | 0/100 |
+| production | 52/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
