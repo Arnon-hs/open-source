@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 22 |
+| ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | C |
 | 📈 **Score** | 49/100 |
@@ -51,7 +51,7 @@ MindAllik/GPU-Tensor-Unlock-Universal：MindAllik/GPU-Tensor-Unlock-Universal ma
 
 **Quality signals**
 
-- 22 GitHub stars
+- 23 GitHub stars
 - 1 forks
 - updated 2026-11-09
 - primary language: C

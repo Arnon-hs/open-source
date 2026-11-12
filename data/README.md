@@ -355,7 +355,7 @@
 | 345 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 214 | Rust | 44/100 |
 | 346 | [idimetrix/canchas-mexico](./idimetrix-canchas-mexico.md) | ⭐ — | TypeScript | 44/100 |
 | 347 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 140 | Rust | 43/100 |
-| 348 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 309 | Rust | 43/100 |
+| 348 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 310 | Rust | 43/100 |
 | 349 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 43/100 |
 | 350 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
 | 351 | [shilpidaswani/finkit](./shilpidaswani-finkit.md) | ⭐ — | TypeScript | 42/100 |

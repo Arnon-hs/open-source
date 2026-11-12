@@ -163,7 +163,7 @@
 | 153 | [owncast/owncast](./owncast-owncast.md) | ⭐ 11.7k | Go | 60/100 |
 | 154 | [hieunc229/mailflare](./hieunc229-mailflare.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 155 | [freebsd/pkg](./freebsd-pkg.md) | ⭐ 832 | C | 59/100 |
-| 156 | [HQBase/hqbase](./hqbase-hqbase.md) | ⭐ 357 | TypeScript | 59/100 |
+| 156 | [HQBase/hqbase](./hqbase-hqbase.md) | ⭐ 365 | TypeScript | 59/100 |
 | 157 | [permissionlesstech/bitchat](./permissionlesstech-bitchat.md) | ⭐ 37.1k | Swift | 59/100 |
 | 158 | [stefangabos/Zebra_Datepicker](./stefangabos-zebra-datepicker.md) | ⭐ 404 | JavaScript | 59/100 |
 | 159 | [The-Osint-Toolbox/Email-Username-OSINT](./the-osint-toolbox-email-username-osint.md) | ⭐ 420 | — | 59/100 |

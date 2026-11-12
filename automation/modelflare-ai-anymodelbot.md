@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.1k |
+| ⭐ **Stars** | 3.3k |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 66/100 |
@@ -53,7 +53,7 @@ modelflare-ai/AnyModelBot：modelflare-ai/AnyModelBot helps remove repetitive ma
 
 **Quality signals**
 
-- 3084 GitHub stars
+- 3304 GitHub stars
 - 46 forks
 - updated 2026-11-10
 - primary language: Python
@@ -70,9 +70,9 @@ modelflare-ai/AnyModelBot：modelflare-ai/AnyModelBot helps remove repetitive ma
 | integration | 46/100 |
 | production | 73/100 |
 | outlook | 80/100 |
-| adoption | 65/100 |
+| adoption | 66/100 |
 | categoryMatchCount | 300/100 |
-| stars | 74/100 |
+| stars | 75/100 |
 | forks | 42/100 |
 | recency | 100/100 |
 | topics | 100/100 |

@@ -16,7 +16,7 @@
 | 6 | [green-coding-solutions/green-metrics-tool](./green-coding-solutions-green-metrics-tool.md) | ⭐ 259 | Python | 76/100 |
 | 7 | [enix/x509-certificate-exporter](./enix-x509-certificate-exporter.md) | ⭐ 965 | Go | 76/100 |
 | 8 | [nezhahq/nezha](./nezhahq-nezha.md) | ⭐ 10.4k | Go | 75/100 |
-| 9 | [CodesWhat/drydock](./codeswhat-drydock.md) | ⭐ 277 | TypeScript | 75/100 |
+| 9 | [CodesWhat/drydock](./codeswhat-drydock.md) | ⭐ 278 | TypeScript | 75/100 |
 | 10 | [kubernetes/metrics](./kubernetes-metrics.md) | ⭐ 536 | Go | 73/100 |
 | 11 | [pyrra-dev/pyrra](./pyrra-dev-pyrra.md) | ⭐ 1.5k | Go | 72/100 |
 | 12 | [iipeace/guider](./iipeace-guider.md) | ⭐ 684 | Python | 72/100 |
@@ -115,7 +115,7 @@
 | 105 | [prometheus/exporter-toolkit](./prometheus-exporter-toolkit.md) | ⭐ 314 | Go | 60/100 |
 | 106 | [ossf/scorecard](./ossf-scorecard.md) | ⭐ 5.8k | Go | 60/100 |
 | 107 | [elastic/apm-agent-dotnet](./elastic-apm-agent-dotnet.md) | ⭐ 593 | C# | 60/100 |
-| 108 | [OpsiMate/OpsiMate](./opsimate-opsimate.md) | ⭐ 293 | TypeScript | 60/100 |
+| 108 | [OpsiMate/OpsiMate](./opsimate-opsimate.md) | ⭐ 295 | TypeScript | 60/100 |
 | 109 | [threathunters-io/laurel](./threathunters-io-laurel.md) | ⭐ 878 | Rust | 60/100 |
 | 110 | [namhyung/uftrace](./namhyung-uftrace.md) | ⭐ 3.5k | C | 60/100 |
 | 111 | [shm11C3/HardwareVisualizer](./shm11c3-hardwarevisualizer.md) | ⭐ 187 | Rust | 60/100 |
@@ -205,12 +205,12 @@
 | 195 | [amimof/node-cert-exporter](./amimof-node-cert-exporter.md) | ⭐ 185 | Go | 51/100 |
 | 196 | [metrics-rs/quanta](./metrics-rs-quanta.md) | ⭐ 437 | Rust | 51/100 |
 | 197 | [fast/fastrace](./fast-fastrace.md) | ⭐ 1.2k | Rust | 51/100 |
-| 198 | [dgunzy/flux9s](./dgunzy-flux9s.md) | ⭐ 288 | Rust | 51/100 |
+| 198 | [dgunzy/flux9s](./dgunzy-flux9s.md) | ⭐ 289 | Rust | 51/100 |
 | 199 | [grafana/tempo](./grafana-tempo.md) | ⭐ 5.6k | Go | 51/100 |
 | 200 | [paintparty/fireworks](./paintparty-fireworks.md) | ⭐ 111 | Clojure | 50/100 |
 | 201 | [open-telemetry/opentelemetry-dotnet-instrumentation](./open-telemetry-opentelemetry-dotnet-instrumentation.md) | ⭐ 464 | C++ | 50/100 |
 | 202 | [swananan/ghostscope](./swananan-ghostscope.md) | ⭐ 192 | Rust | 50/100 |
-| 203 | [NodeSeekDev/NodeGet](./nodeseekdev-nodeget.md) | ⭐ 315 | Rust | 50/100 |
+| 203 | [NodeSeekDev/NodeGet](./nodeseekdev-nodeget.md) | ⭐ 314 | Rust | 50/100 |
 | 204 | [netxms/netxms](./netxms-netxms.md) | ⭐ 429 | C++ | 50/100 |
 | 205 | [tanin47/jping](./tanin47-jping.md) | ⭐ — | — | 49/100 |
 | 206 | [chirrop/chirrop-mcp](./chirrop-chirrop-mcp.md) | ⭐ 1 | — | 49/100 |

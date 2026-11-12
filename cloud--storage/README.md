@@ -385,7 +385,7 @@
 | 375 | [documentdb/documentdb](./documentdb-documentdb.md) | ⭐ 3.6k | C | 57/100 |
 | 376 | [polymind-inc/acmebot](./polymind-inc-acmebot.md) | ⭐ 1.2k | C# | 57/100 |
 | 377 | [earth-mover/icechunk](./earth-mover-icechunk.md) | ⭐ 702 | Rust | 57/100 |
-| 378 | [Yamato-Security/suzaku](./yamato-security-suzaku.md) | ⭐ 240 | Rust | 57/100 |
+| 378 | [Yamato-Security/suzaku](./yamato-security-suzaku.md) | ⭐ 242 | Rust | 57/100 |
 | 379 | [kunobi-ninja/kache](./kunobi-ninja-kache.md) | ⭐ 1.4k | Rust | 57/100 |
 | 380 | [fractalbits-labs/fractalbits](./fractalbits-labs-fractalbits.md) | ⭐ 313 | Rust | 57/100 |
 | 381 | [aws-actions/configure-aws-credentials](./aws-actions-configure-aws-credentials.md) | ⭐ 3k | TypeScript | 57/100 |
@@ -510,8 +510,8 @@
 | 500 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 362 | Rust | 50/100 |
 | 501 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 138 | Rust | 50/100 |
 | 502 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 366 | Java | 50/100 |
-| 503 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
-| 504 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 503 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 504 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
 | 505 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1.1k | Go | 50/100 |
 | 506 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 758 | Rust | 50/100 |
 | 507 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 670 | Python | 50/100 |

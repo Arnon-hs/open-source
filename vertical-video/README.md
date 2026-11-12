@@ -39,13 +39,13 @@
 | 29 | [xixihhhh/hotclip](./xixihhhh-hotclip.md) | ⭐ 447 | TypeScript | 74/100 |
 | 30 | [degausai/wonda](./degausai-wonda.md) | ⭐ 163 | TypeScript | 74/100 |
 | 31 | [RagnheavenDusk/content-machine-respocket](./ragnheavendusk-content-machine-respocket.md) | ⭐ 59 | HTML | 73/100 |
-| 32 | [wx4766/html-to-video](./wx4766-html-to-video.md) | ⭐ 191 | JavaScript | 73/100 |
+| 32 | [wx4766/html-to-video](./wx4766-html-to-video.md) | ⭐ 194 | JavaScript | 73/100 |
 | 33 | [siri2moon/moonreel](./siri2moon-moonreel.md) | ⭐ 21 | TypeScript | 73/100 |
 | 34 | [jnMetaCode/openshorts](./jnmetacode-openshorts.md) | ⭐ 61 | JavaScript | 73/100 |
 | 35 | [OStudi/short-video-generator-AI](./ostudi-short-video-generator-ai.md) | ⭐ 1.2k | Python | 73/100 |
 | 36 | [hassancs91/claude-faceless-shorts-creator](./hassancs91-claude-faceless-shorts-creator.md) | ⭐ 356 | TypeScript | 73/100 |
 | 37 | [social-media-skills/remotion-shorts-skill](./social-media-skills-remotion-shorts-skill.md) | ⭐ 15 | TypeScript | 72/100 |
-| 38 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 234 | JavaScript | 72/100 |
+| 38 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 242 | JavaScript | 72/100 |
 | 39 | [SamurAIGPT/revideo](./samuraigpt-revideo.md) | ⭐ 165 | JavaScript | 72/100 |
 | 40 | [phucnguyentvp1/frameweaver](./phucnguyentvp1-frameweaver.md) | ⭐ 113 | Python | 72/100 |
 | 41 | [justynberk/reel-kit](./justynberk-reel-kit.md) | ⭐ 11 | Python | 72/100 |
@@ -110,7 +110,7 @@
 | 100 | [Johnson-Jia/video-clipforge](./johnson-jia-video-clipforge.md) | ⭐ 46 | Python | 62/100 |
 | 101 | [isaachang/motion-video-workflow](./isaachang-motion-video-workflow.md) | ⭐ 15 | JavaScript | 61/100 |
 | 102 | [xianyu110/ecommerce-video-skills](./xianyu110-ecommerce-video-skills.md) | ⭐ 135 | Python | 61/100 |
-| 103 | [SaarD00/AI-Youtube-Shorts-Generator](./saard00-ai-youtube-shorts-generator.md) | ⭐ 275 | Python | 61/100 |
+| 103 | [SaarD00/AI-Youtube-Shorts-Generator](./saard00-ai-youtube-shorts-generator.md) | ⭐ 277 | Python | 61/100 |
 | 104 | [fxl1209739475-fxl/ai-xunjian](./fxl1209739475-fxl-ai-xunjian.md) | ⭐ 42 | TypeScript | 61/100 |
 | 105 | [HeyChengC/bighead-collage](./heychengc-bighead-collage.md) | ⭐ 70 | Python | 60/100 |
 | 106 | [ronin1770/reel-quick](./ronin1770-reel-quick.md) | ⭐ 16 | Python | 60/100 |

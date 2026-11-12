@@ -18,7 +18,7 @@
 | 8 | [enescingoz/awesome-n8n-templates](./enescingoz-awesome-n8n-templates.md) | ⭐ 26.4k | — | 86/100 |
 | 9 | [GrapesJS/grapesjs](./grapesjs-grapesjs.md) | ⭐ 26.4k | TypeScript | 86/100 |
 | 10 | [ArnasDon/wacrm](./arnasdon-wacrm.md) | ⭐ 2.7k | TypeScript | 85/100 |
-| 11 | [daydreamsai/lucid-agents](./daydreamsai-lucid-agents.md) | ⭐ 201 | TypeScript | 84/100 |
+| 11 | [daydreamsai/lucid-agents](./daydreamsai-lucid-agents.md) | ⭐ 202 | TypeScript | 84/100 |
 | 12 | [eli64s/readme-ai](./eli64s-readme-ai.md) | ⭐ 3k | Python | 84/100 |
 | 13 | [cookiecutter/cookiecutter-django](./cookiecutter-cookiecutter-django.md) | ⭐ 13.6k | Python | 84/100 |
 | 14 | [Lyellr88/MARM-Systems](./lyellr88-marm-systems.md) | ⭐ 305 | Python | 84/100 |
@@ -372,8 +372,8 @@
 | 362 | [aimeos/pagible](./aimeos-pagible.md) | ⭐ 603 | PHP | 60/100 |
 | 363 | [onedr0p/cluster-template](./onedr0p-cluster-template.md) | ⭐ 2.8k | YAML | 60/100 |
 | 364 | [Alchemyst-ai/awesome-saas](./alchemyst-ai-awesome-saas.md) | ⭐ 421 | TypeScript | 60/100 |
-| 365 | [chrisdoc/hevy-mcp](./chrisdoc-hevy-mcp.md) | ⭐ 535 | TypeScript | 60/100 |
-| 366 | [product-on-purpose/pm-skills](./product-on-purpose-pm-skills.md) | ⭐ 796 | PowerShell | 60/100 |
+| 365 | [chrisdoc/hevy-mcp](./chrisdoc-hevy-mcp.md) | ⭐ 538 | TypeScript | 60/100 |
+| 366 | [product-on-purpose/pm-skills](./product-on-purpose-pm-skills.md) | ⭐ 800 | PowerShell | 60/100 |
 | 367 | [trueforge-org/truecharts](./trueforge-org-truecharts.md) | ⭐ 1.4k | Go Template | 60/100 |
 | 368 | [iydon/sustechthesis](./iydon-sustechthesis.md) | ⭐ 348 | TeX | 59/100 |
 | 369 | [bearcove/dodeca](./bearcove-dodeca.md) | ⭐ 228 | Rust | 59/100 |

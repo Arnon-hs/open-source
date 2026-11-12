@@ -183,7 +183,7 @@
 | 173 | [apple/swift-temporal-sdk](./apple-swift-temporal-sdk.md) | ⭐ 321 | Swift | 56/100 |
 | 174 | [rodrigocfd/winsafe](./rodrigocfd-winsafe.md) | ⭐ 707 | Rust | 56/100 |
 | 175 | [get-convex/convex-js](./get-convex-convex-js.md) | ⭐ 347 | TypeScript | 56/100 |
-| 176 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 321 | Rust | 56/100 |
+| 176 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 322 | Rust | 56/100 |
 | 177 | [Enos2/my-sdk-work](./enos2-my-sdk-work.md) | ⭐ 1 | TypeScript | 56/100 |
 | 178 | [Convertio/convertio-php](./convertio-convertio-php.md) | ⭐ 276 | PHP | 55/100 |
 | 179 | [xbill9/devto-sanity](./xbill9-devto-sanity.md) | ⭐ — | HTML | 55/100 |
@@ -205,7 +205,7 @@
 | 195 | [georust/gdal](./georust-gdal.md) | ⭐ 459 | Rust | 53/100 |
 | 196 | [Dario-Chang/Spark-Governance-SDK](./dario-chang-spark-governance-sdk.md) | ⭐ — | — | 53/100 |
 | 197 | [twistedfall/opencv-rust](./twistedfall-opencv-rust.md) | ⭐ 2.5k | Rust | 53/100 |
-| 198 | [beowolx/rensa](./beowolx-rensa.md) | ⭐ 317 | Rust | 53/100 |
+| 198 | [beowolx/rensa](./beowolx-rensa.md) | ⭐ 318 | Rust | 53/100 |
 | 199 | [vhspace/sdl3-rs](./vhspace-sdl3-rs.md) | ⭐ 403 | Rust | 53/100 |
 | 200 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.4k | Rust | 53/100 |
 | 201 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.5k | Kotlin | 53/100 |
@@ -245,7 +245,7 @@
 | 235 | [Ralith/openxrs](./ralith-openxrs.md) | ⭐ 342 | Rust | 49/100 |
 | 236 | [jonhoo/rust-ibverbs](./jonhoo-rust-ibverbs.md) | ⭐ 235 | Rust | 49/100 |
 | 237 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 217 | JavaScript | 49/100 |
-| 238 | [CH-Abhinav/JNum](./ch-abhinav-jnum.md) | ⭐ — | — | 48/100 |
+| 238 | [CH-Abhinav/JNum](./ch-abhinav-jnum.md) | ⭐ 33 | — | 48/100 |
 | 239 | [apple-auth/apple-auth](./apple-auth-apple-auth.md) | ⭐ 2 | — | 48/100 |
 | 240 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ 106 | — | 48/100 |
 | 241 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |

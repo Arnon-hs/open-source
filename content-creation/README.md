@@ -26,7 +26,7 @@
 | 16 | [Anil-matcha/Wan-3.0-API](./anil-matcha-wan-3.0-api.md) | ⭐ 81 | Python | 76/100 |
 | 17 | [SamurAIGPT/AI-Influencer-Generator](./samuraigpt-ai-influencer-generator.md) | ⭐ 344 | Jupyter Notebook | 76/100 |
 | 18 | [sergebulaev/linkedin-skills](./sergebulaev-linkedin-skills.md) | ⭐ 5.9k | Python | 76/100 |
-| 19 | [artokun/comfyui-mcp](./artokun-comfyui-mcp.md) | ⭐ 914 | TypeScript | 76/100 |
+| 19 | [artokun/comfyui-mcp](./artokun-comfyui-mcp.md) | ⭐ 919 | TypeScript | 76/100 |
 | 20 | [alecs5am/ralphy](./alecs5am-ralphy.md) | ⭐ 144 | TypeScript | 76/100 |
 | 21 | [dramaclaw/dramaclaw](./dramaclaw-dramaclaw.md) | ⭐ 7.7k | TypeScript | 75/100 |
 | 22 | [volcengine/ark-cli](./volcengine-ark-cli.md) | ⭐ 149 | Python | 75/100 |
@@ -42,9 +42,9 @@
 | 32 | [ddalcu/mlx-serve](./ddalcu-mlx-serve.md) | ⭐ 2.4k | Zig | 72/100 |
 | 33 | [Notifuse/notifuse](./notifuse-notifuse.md) | ⭐ 2.3k | Go | 72/100 |
 | 34 | [pendpost/pendpost](./pendpost-pendpost.md) | ⭐ 21 | JavaScript | 71/100 |
-| 35 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 366 | Python | 71/100 |
+| 35 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 374 | Python | 71/100 |
 | 36 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 24 | — | 71/100 |
-| 37 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 898 | Python | 71/100 |
+| 37 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 902 | Python | 71/100 |
 | 38 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 315 | Python | 71/100 |
 | 39 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 3.9k | TypeScript | 71/100 |
 | 40 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
@@ -80,10 +80,10 @@
 | 70 | [wanshuiyin/ARIS-in-AI-Offer](./wanshuiyin-aris-in-ai-offer.md) | ⭐ 652 | Python | 65/100 |
 | 71 | [Jamailar/Beav](./jamailar-beav.md) | ⭐ 2.4k | TypeScript | 65/100 |
 | 72 | [Jamailar/RedBox](./jamailar-redbox.md) | ⭐ 1.1k | TypeScript | 65/100 |
-| 73 | [ChrisChen667788/wind-comic](./chrischen667788-wind-comic.md) | ⭐ 712 | TypeScript | 65/100 |
+| 73 | [ChrisChen667788/wind-comic](./chrischen667788-wind-comic.md) | ⭐ 713 | TypeScript | 65/100 |
 | 74 | [Stonewuu/ai-fusion-video](./stonewuu-ai-fusion-video.md) | ⭐ 1.8k | Java | 64/100 |
 | 75 | [Anil-matcha/Free-AI-Social-Media-Scheduler](./anil-matcha-free-ai-social-media-scheduler.md) | ⭐ 458 | JavaScript | 64/100 |
-| 76 | [jeffstric/ZJT](./jeffstric-zjt.md) | ⭐ 240 | Python | 64/100 |
+| 76 | [jeffstric/ZJT](./jeffstric-zjt.md) | ⭐ 241 | Python | 64/100 |
 | 77 | [Mann1988/awesome-claude-skills](./mann1988-awesome-claude-skills.md) | ⭐ 58 | Python | 64/100 |
 | 78 | [Xeron2000/openOii](./xeron2000-openoii.md) | ⭐ 299 | Python | 64/100 |
 | 79 | [helloworld8661/awesome-ai-book-writing](./helloworld8661-awesome-ai-book-writing.md) | ⭐ 24 | — | 63/100 |
@@ -154,8 +154,8 @@
 | 144 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
 | 145 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 146 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 147 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 354 | — | 43/100 |
-| 148 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 147 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 148 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 354 | — | 43/100 |
 | 149 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 150 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 151 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |

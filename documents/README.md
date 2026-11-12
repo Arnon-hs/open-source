@@ -210,7 +210,7 @@
 | 200 | [freeplane/freeplane](./freeplane-freeplane.md) | ⭐ 4.5k | Java | 60/100 |
 | 201 | [rstudio/bookdown](./rstudio-bookdown.md) | ⭐ 4.1k | JavaScript | 60/100 |
 | 202 | [kjur/jsrsasign](./kjur-jsrsasign.md) | ⭐ 3.4k | HTML | 60/100 |
-| 203 | [Chaptarr/chaptarr](./chaptarr-chaptarr.md) | ⭐ 771 | C# | 60/100 |
+| 203 | [Chaptarr/chaptarr](./chaptarr-chaptarr.md) | ⭐ 773 | C# | 60/100 |
 | 204 | [immersive-translate/immersive-translate](./immersive-translate-immersive-translate.md) | ⭐ 19.8k | — | 60/100 |
 | 205 | [Chenruishuo/posterly](./chenruishuo-posterly.md) | ⭐ 438 | Python | 60/100 |
 | 206 | [mozilla/pdf.js](./mozilla-pdf.js.md) | ⭐ 54.1k | JavaScript | 60/100 |
@@ -312,7 +312,7 @@
 | 302 | [erekola/markdown-parity-check](./erekola-markdown-parity-check.md) | ⭐ — | TypeScript | 56/100 |
 | 303 | [pulldown-cmark/pulldown-cmark](./pulldown-cmark-pulldown-cmark.md) | ⭐ 2.8k | Rust | 56/100 |
 | 304 | [openooxml/betteroffice](./openooxml-betteroffice.md) | ⭐ 346 | Rust | 56/100 |
-| 305 | [ningg/Agentic-Design-Patterns-CN](./ningg-agentic-design-patterns-cn.md) | ⭐ 329 | Python | 56/100 |
+| 305 | [ningg/Agentic-Design-Patterns-CN](./ningg-agentic-design-patterns-cn.md) | ⭐ 330 | Python | 56/100 |
 | 306 | [obsidianmd/obsidian-help](./obsidianmd-obsidian-help.md) | ⭐ 2k | JavaScript | 56/100 |
 | 307 | [channprj/markdowner](./channprj-markdowner.md) | ⭐ 28 | TypeScript | 56/100 |
 | 308 | [hanebox/ekphos](./hanebox-ekphos.md) | ⭐ 14 | Rust | 56/100 |
@@ -494,7 +494,7 @@
 | 484 | [dotCMS/core](./dotcms-core.md) | ⭐ 972 | Java | 48/100 |
 | 485 | [ollm/OpenComic](./ollm-opencomic.md) | ⭐ 2k | JavaScript | 48/100 |
 | 486 | [project-trans/MtF-wiki](./project-trans-mtf-wiki.md) | ⭐ 1.1k | Markdown | 48/100 |
-| 487 | [h3pdesign/Neon-Vision-Editor](./h3pdesign-neon-vision-editor.md) | ⭐ 460 | Swift | 48/100 |
+| 487 | [h3pdesign/Neon-Vision-Editor](./h3pdesign-neon-vision-editor.md) | ⭐ 461 | Swift | 48/100 |
 | 488 | [executablebooks/MyST-Parser](./executablebooks-myst-parser.md) | ⭐ 902 | Python | 48/100 |
 | 489 | [NVIDIA/NeMo-Retriever](./nvidia-nemo-retriever.md) | ⭐ 3k | Python | 48/100 |
 | 490 | [ossappcollective/OSS-DocumentScanner](./ossappcollective-oss-documentscanner.md) | ⭐ 2.1k | C++ | 48/100 |
@@ -698,8 +698,8 @@
 | 688 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |
 | 689 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ 12 | — | 38/100 |
 | 690 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ 36 | — | 38/100 |
-| 691 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
-| 692 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 691 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 692 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
 | 693 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 120 | — | 38/100 |
 | 694 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 264 | — | 38/100 |
 | 695 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ 24 | — | 38/100 |
@@ -713,8 +713,8 @@
 | 703 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
 | 704 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 705 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
-| 706 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
+| 706 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
+| 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
 | 708 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
 | 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |

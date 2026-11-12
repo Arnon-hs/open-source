@@ -132,7 +132,7 @@
 | 122 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 677 | Go | 64/100 |
 | 123 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
 | 124 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 64/100 |
-| 125 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 324 | Python | 64/100 |
+| 125 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 326 | Python | 64/100 |
 | 126 | [mkubaczyk/helmsman](./mkubaczyk-helmsman.md) | ⭐ 1.5k | Go | 64/100 |
 | 127 | [shipwright-io/build](./shipwright-io-build.md) | ⭐ 830 | Go | 64/100 |
 | 128 | [elastic/cloud-on-k8s](./elastic-cloud-on-k8s.md) | ⭐ 2.9k | Go | 64/100 |
@@ -144,7 +144,7 @@
 | 134 | [timothystewart6/techno-tim.github.io](./timothystewart6-techno-tim.github.io.md) | ⭐ 1.2k | Shell | 64/100 |
 | 135 | [rancher/dashboard](./rancher-dashboard.md) | ⭐ 630 | TypeScript | 64/100 |
 | 136 | [SinTan1729/chhoto-url](./sintan1729-chhoto-url.md) | ⭐ 1k | Rust | 64/100 |
-| 137 | [henriquesebastiao/downtify](./henriquesebastiao-downtify.md) | ⭐ 868 | Python | 64/100 |
+| 137 | [henriquesebastiao/downtify](./henriquesebastiao-downtify.md) | ⭐ 870 | Python | 64/100 |
 | 138 | [thomiceli/opengist](./thomiceli-opengist.md) | ⭐ 3.4k | Go | 64/100 |
 | 139 | [authelia/authelia](./authelia-authelia.md) | ⭐ 29.6k | Go | 64/100 |
 | 140 | [openshift/origin](./openshift-origin.md) | ⭐ 8.7k | Go | 64/100 |
@@ -188,13 +188,13 @@
 | 178 | [haloydev/haloy](./haloydev-haloy.md) | ⭐ 401 | Go | 62/100 |
 | 179 | [fossable/goldboot](./fossable-goldboot.md) | ⭐ 641 | Rust | 62/100 |
 | 180 | [mysticaltech/terraform-hcloud-kube-hetzner](./mysticaltech-terraform-hcloud-kube-hetzner.md) | ⭐ 3.9k | HCL | 62/100 |
-| 181 | [smp46/pingvin-share-x](./smp46-pingvin-share-x.md) | ⭐ 574 | TypeScript | 62/100 |
+| 181 | [smp46/pingvin-share-x](./smp46-pingvin-share-x.md) | ⭐ 576 | TypeScript | 62/100 |
 | 182 | [imagegenius/docker-immich](./imagegenius-docker-immich.md) | ⭐ 1.1k | Dockerfile | 62/100 |
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -218,8 +218,8 @@
 | 208 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 32.2k | Go | 61/100 |
 | 209 | [docker/setup-buildx-action](./docker-setup-buildx-action.md) | ⭐ 1.4k | TypeScript | 60/100 |
 | 210 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 921 | Svelte | 60/100 |
-| 211 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
-| 212 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 211 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 212 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
 | 213 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 843 | JavaScript | 60/100 |
 | 214 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 32 | Nix | 60/100 |
 | 215 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 401 | Go | 60/100 |
@@ -268,7 +268,7 @@
 | 258 | [nlewo/comin](./nlewo-comin.md) | ⭐ 1.2k | Go | 58/100 |
 | 259 | [ngrok/webernetes](./ngrok-webernetes.md) | ⭐ 1.3k | TypeScript | 58/100 |
 | 260 | [bjw-s-labs/home-ops](./bjw-s-labs-home-ops.md) | ⭐ 869 | YAML | 58/100 |
-| 261 | [anvil-verifier/anvil](./anvil-verifier-anvil.md) | ⭐ 250 | Rust | 58/100 |
+| 261 | [anvil-verifier/anvil](./anvil-verifier-anvil.md) | ⭐ 251 | Rust | 58/100 |
 | 262 | [siderolabs/omni](./siderolabs-omni.md) | ⭐ 1.4k | Go | 58/100 |
 | 263 | [cdk8s-team/cdk8s](./cdk8s-team-cdk8s.md) | ⭐ 4.9k | JavaScript | 58/100 |
 | 264 | [vmware/terraform-provider-vsphere](./vmware-terraform-provider-vsphere.md) | ⭐ 674 | Go | 58/100 |
@@ -295,8 +295,8 @@
 | 285 | [rancher/k3k](./rancher-k3k.md) | ⭐ 921 | Go | 57/100 |
 | 286 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 459 | Dockerfile | 57/100 |
 | 287 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.4k | PHP | 57/100 |
-| 288 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
-| 289 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
+| 288 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
+| 289 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
 | 290 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10.4k | Go | 57/100 |
 | 291 | [tackish/pigeoneye](./tackish-pigeoneye.md) | ⭐ 95 | — | 56/100 |
 | 292 | [softcane/codex-session-operator](./softcane-codex-session-operator.md) | ⭐ 6 | — | 56/100 |
@@ -332,7 +332,7 @@
 | 322 | [percona/percona-docker](./percona-percona-docker.md) | ⭐ 321 | Shell | 55/100 |
 | 323 | [kubewarden/adm-controller](./kubewarden-adm-controller.md) | ⭐ 246 | Rust | 55/100 |
 | 324 | [Mafyuh/iac](./mafyuh-iac.md) | ⭐ 959 | YAML | 55/100 |
-| 325 | [ai-dynamo/grove](./ai-dynamo-grove.md) | ⭐ 292 | Go | 55/100 |
+| 325 | [ai-dynamo/grove](./ai-dynamo-grove.md) | ⭐ 294 | Go | 55/100 |
 | 326 | [tofuutils/tenv](./tofuutils-tenv.md) | ⭐ 1.5k | Go | 55/100 |
 | 327 | [bitnami/containers](./bitnami-containers.md) | ⭐ 4.5k | Shell | 55/100 |
 | 328 | [5goos/botoview](./5goos-botoview.md) | ⭐ — | Astro | 55/100 |
