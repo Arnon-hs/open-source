@@ -12,20 +12,20 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Cloud & Storage](../cloud--storage/README.md) | 639 |
 | [Communication](../communication/README.md) | 485 |
 | [Content Creation](../content-creation/README.md) | 178 |
-| [Crypto](../crypto/README.md) | 846 |
+| [Crypto](../crypto/README.md) | 847 |
 | [Data](../data/README.md) | 370 |
 | [Database](../database/README.md) | 589 |
 | [Design](../design/README.md) | 198 |
-| [DevOps/Infra](../devopsinfra/README.md) | 558 |
+| [DevOps/Infra](../devopsinfra/README.md) | 559 |
 | [DevTools](../devtools/README.md) | 1,684 |
 | [Documents](../documents/README.md) | 755 |
 | [Education](../education/README.md) | 37 |
 | [Frontend](../frontend/README.md) | 941 |
-| [Games & Graphics](../games--graphics/README.md) | 370 |
+| [Games & Graphics](../games--graphics/README.md) | 371 |
 | [Knowledge/RAG](../knowledgerag/README.md) | 653 |
 | [Libraries & SDKs](../libraries--sdks/README.md) | 293 |
 | [Marketing](../marketing/README.md) | 42 |
-| [MCP](../mcp/README.md) | 3,013 |
+| [MCP](../mcp/README.md) | 3,014 |
 | [Misc](../misc/README.md) | 18,227 |
 | [Mobile](../mobile/README.md) | 709 |
 | [Networking](../networking/README.md) | 682 |
