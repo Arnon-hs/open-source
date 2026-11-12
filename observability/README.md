@@ -247,7 +247,7 @@
 | 237 | [mintlify/agent-traffic](./mintlify-agent-traffic.md) | ⭐ 58 | — | 45/100 |
 | 238 | [B2ZO0/netcockpit](./b2zo0-netcockpit.md) | ⭐ 3 | JavaScript | 45/100 |
 | 239 | [devicelabvn/machinery-oee-ems-retrofit-examples](./devicelabvn-machinery-oee-ems-retrofit-examples.md) | ⭐ — | — | 45/100 |
-| 240 | [oxynote/oxynote](./oxynote-oxynote.md) | ⭐ 556 | — | 45/100 |
+| 240 | [oxynote/oxynote](./oxynote-oxynote.md) | ⭐ 562 | — | 45/100 |
 | 241 | [greatPHPer/AlgoLassi-FileRecovery-Releases](./greatphper-algolassi-filerecovery-releases.md) | ⭐ — | — | 45/100 |
 | 242 | [Seqat/tuxctl](./seqat-tuxctl.md) | ⭐ — | Rust | 45/100 |
 | 243 | [ljedrz/nachalnik](./ljedrz-nachalnik.md) | ⭐ — | — | 45/100 |

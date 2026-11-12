@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -284,7 +284,7 @@
 | 274 | [apache/iggy](./apache-iggy.md) | ⭐ 5.3k | Rust | 50/100 |
 | 275 | [nextcloud/spreed](./nextcloud-spreed.md) | ⭐ 2.2k | JavaScript | 50/100 |
 | 276 | [Expensify/App](./expensify-app.md) | ⭐ 5.1k | TypeScript | 50/100 |
-| 277 | [panda-sandeep/dearagent](./panda-sandeep-dearagent.md) | ⭐ 50 | — | 49/100 |
+| 277 | [panda-sandeep/dearagent](./panda-sandeep-dearagent.md) | ⭐ 51 | — | 49/100 |
 | 278 | [adecubed/gigamail](./adecubed-gigamail.md) | ⭐ 19 | — | 49/100 |
 | 279 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 634 | Kotlin | 49/100 |
 | 280 | [awslabs/mls-rs](./awslabs-mls-rs.md) | ⭐ 262 | Rust | 49/100 |
@@ -363,8 +363,8 @@
 | 353 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 354 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 355 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 356 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 357 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 356 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 357 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 358 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 359 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 360 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

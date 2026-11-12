@@ -496,7 +496,7 @@
 | 486 | [michaelkremenetsky/valkey-wasm](./michaelkremenetsky-valkey-wasm.md) | ⭐ — | — | 41/100 |
 | 487 | [leontrolski/postgresql-testing](./leontrolski-postgresql-testing.md) | ⭐ 21 | — | 41/100 |
 | 488 | [Suleman-Elahi/frostdb](./suleman-elahi-frostdb.md) | ⭐ 2 | — | 41/100 |
-| 489 | [pglayers/pglayers](./pglayers-pglayers.md) | ⭐ 175 | — | 41/100 |
+| 489 | [pglayers/pglayers](./pglayers-pglayers.md) | ⭐ 176 | — | 41/100 |
 | 490 | [onlykh/translatable](./onlykh-translatable.md) | ⭐ 5 | — | 41/100 |
 | 491 | [gkavinrajanCodes/pulseDB](./gkavinrajancodes-pulsedb.md) | ⭐ 3 | — | 41/100 |
 | 492 | [an8kk/moxy](./an8kk-moxy.md) | ⭐ 8 | — | 41/100 |
@@ -540,7 +540,7 @@
 | 530 | [alshawai/PBTune](./alshawai-pbtune.md) | ⭐ 13 | — | 38/100 |
 | 531 | [Anode1/ljms](./anode1-ljms.md) | ⭐ 2 | — | 38/100 |
 | 532 | [joshmeek/otlet](./joshmeek-otlet.md) | ⭐ 3 | — | 38/100 |
-| 533 | [NikolayS/pgsimcity](./nikolays-pgsimcity.md) | ⭐ 777 | — | 38/100 |
+| 533 | [NikolayS/pgsimcity](./nikolays-pgsimcity.md) | ⭐ 778 | — | 38/100 |
 | 534 | [Alurith/sqlitewatch](./alurith-sqlitewatch.md) | ⭐ 3 | — | 38/100 |
 | 535 | [berabuddies/redis-poc](./berabuddies-redis-poc.md) | ⭐ 522 | — | 38/100 |
 | 536 | [osmanahmadxai/SYNCLE](./osmanahmadxai-syncle.md) | ⭐ 53 | — | 38/100 |

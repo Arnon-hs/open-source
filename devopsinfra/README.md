@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -218,8 +218,8 @@
 | 208 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 32.2k | Go | 61/100 |
 | 209 | [docker/setup-buildx-action](./docker-setup-buildx-action.md) | ⭐ 1.4k | TypeScript | 60/100 |
 | 210 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 921 | Svelte | 60/100 |
-| 211 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
-| 212 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 211 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 212 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
 | 213 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 843 | JavaScript | 60/100 |
 | 214 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 32 | Nix | 60/100 |
 | 215 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 401 | Go | 60/100 |
@@ -317,7 +317,7 @@
 | 307 | [youki-dev/youki](./youki-dev-youki.md) | ⭐ 7.7k | Rust | 56/100 |
 | 308 | [lvaoliveira/sonda](./lvaoliveira-sonda.md) | ⭐ 11 | Rust | 56/100 |
 | 309 | [plausible/community-edition](./plausible-community-edition.md) | ⭐ 3k | — | 55/100 |
-| 310 | [p10node/k10s](./p10node-k10s.md) | ⭐ 330 | — | 55/100 |
+| 310 | [p10node/k10s](./p10node-k10s.md) | ⭐ 331 | — | 55/100 |
 | 311 | [acrlabs/simkube](./acrlabs-simkube.md) | ⭐ 404 | Rust | 55/100 |
 | 312 | [huaweicloud/terraform-provider-huaweicloud](./huaweicloud-terraform-provider-huaweicloud.md) | ⭐ 275 | Go | 55/100 |
 | 313 | [kubernetes-sigs/zeitgeist](./kubernetes-sigs-zeitgeist.md) | ⭐ 206 | Go | 55/100 |
@@ -426,7 +426,7 @@
 | 416 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 398 | Go | 46/100 |
 | 417 | [docker-library/repo-info](./docker-library-repo-info.md) | ⭐ 612 | Perl | 46/100 |
 | 418 | [signadot/hotrod](./signadot-hotrod.md) | ⭐ 23 | Go | 46/100 |
-| 419 | [Flurit/applygate](./flurit-applygate.md) | ⭐ — | — | 45/100 |
+| 419 | [Flurit/applygate](./flurit-applygate.md) | ⭐ 4 | — | 45/100 |
 | 420 | [docker/sandbox-kit-spec](./docker-sandbox-kit-spec.md) | ⭐ 190 | — | 45/100 |
 | 421 | [tara-vision/taracode](./tara-vision-taracode.md) | ⭐ 51 | — | 45/100 |
 | 422 | [boundflow/charter](./boundflow-charter.md) | ⭐ 17 | — | 45/100 |
@@ -486,8 +486,8 @@
 | 476 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 477 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 478 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 479 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
-| 480 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 479 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 480 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
 | 481 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 482 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 483 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |
@@ -523,7 +523,7 @@
 | 513 | [AlaBouali/ubel](./alabouali-ubel.md) | ⭐ 6 | — | 41/100 |
 | 514 | [ricardoborges/Nautilus](./ricardoborges-nautilus.md) | ⭐ 36 | — | 41/100 |
 | 515 | [Emran-goat/sortie](./emran-goat-sortie.md) | ⭐ — | — | 41/100 |
-| 516 | [neural-maze/production-ocr-course](./neural-maze-production-ocr-course.md) | ⭐ 486 | — | 41/100 |
+| 516 | [neural-maze/production-ocr-course](./neural-maze-production-ocr-course.md) | ⭐ 487 | — | 41/100 |
 | 517 | [lensapp/openshell-k8s-operator](./lensapp-openshell-k8s-operator.md) | ⭐ 26 | — | 41/100 |
 | 518 | [SRENIX-AI/agentic-sre](./srenix-ai-agentic-sre.md) | ⭐ — | — | 41/100 |
 | 519 | [maddhruv/rasptele](./maddhruv-rasptele.md) | ⭐ — | — | 41/100 |
@@ -557,7 +557,7 @@
 | 547 | [AppsVortex/arness](./appsvortex-arness.md) | ⭐ 35 | — | 38/100 |
 | 548 | [techpivot/terraform-module-releaser](./techpivot-terraform-module-releaser.md) | ⭐ 236 | — | 38/100 |
 | 549 | [bonushora/surgical-dev-ops](./bonushora-surgical-dev-ops.md) | ⭐ — | — | 38/100 |
-| 550 | [openai/terraform-provider-openai](./openai-terraform-provider-openai.md) | ⭐ 42 | — | 38/100 |
+| 550 | [openai/terraform-provider-openai](./openai-terraform-provider-openai.md) | ⭐ 43 | — | 38/100 |
 | 551 | [davidecampora/Omnibaas](./davidecampora-omnibaas.md) | ⭐ 1 | — | 38/100 |
 | 552 | [omarismail/terraform-plan-tui](./omarismail-terraform-plan-tui.md) | ⭐ 121 | — | 38/100 |
 | 553 | [ilyesarf/straw](./ilyesarf-straw.md) | ⭐ — | — | 38/100 |

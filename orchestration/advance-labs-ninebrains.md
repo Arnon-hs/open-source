@@ -64,18 +64,18 @@ Advance-Labs/ninebrains：Advance-Labs/ninebrains helps turn isolated prompts an
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 9/100 |
-| categoryMatchCount | 400/100 |
-| stars | 13/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 13/100 |
 | topics | 100/100 |
+| outlook | 62/100 |
+| quality | 50/100 |
+| recency | 80/100 |
+| adoption | 9/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

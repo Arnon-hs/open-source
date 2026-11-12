@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML
+MCP · AI/ML
 
 ## 📝 Summary
 
 ### English
 
-CtrlAltDelete-Ops/opentuple: CtrlAltDelete-Ops/opentuple helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CtrlAltDelete-Ops/opentuple: CtrlAltDelete-Ops/opentuple helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-CtrlAltDelete-Ops/opentuple: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+CtrlAltDelete-Ops/opentuple: open-source проект в категориях MCP, AI/ML. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-CtrlAltDelete-Ops/opentuple：CtrlAltDelete-Ops/opentuple helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+CtrlAltDelete-Ops/opentuple：CtrlAltDelete-Ops/opentuple helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** CtrlAltDelete-Ops/opentuple helps add AI capability without starting from a blank model stack.
+**Value:** CtrlAltDelete-Ops/opentuple helps connect AI assistants to real tools and data through a standard protocol.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- connect AI agents to tools
+- ship Model Context Protocol servers
+- standardize integrations
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -64,19 +64,19 @@ CtrlAltDelete-Ops/opentuple：CtrlAltDelete-Ops/opentuple helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 42/100 |
-| integration | 62/100 |
-| production | 57/100 |
-| outlook | 57/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 63/100 |
+| outlook | 57/100 |
+| quality | 42/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 57/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/CtrlAltDelete-Ops/opentuple) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-05 · [View on GitHub](https://github.com/CtrlAltDelete-Ops/opentuple) · [← Back to Mcp](./README.md)</sub>

@@ -108,8 +108,8 @@
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.5k | Kotlin | 61/100 |
 | 99 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 648 | Kotlin | 61/100 |
 | 100 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 264 | Kotlin | 61/100 |
-| 101 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 956 | C++ | 61/100 |
-| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
+| 101 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
+| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 956 | C++ | 61/100 |
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 921 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13.1k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.7k | Kotlin | 61/100 |
@@ -516,7 +516,7 @@
 | 506 | [PrivSec-dev/banking-apps-compat-report](./privsec-dev-banking-apps-compat-report.md) | ⭐ — | — | 44/100 |
 | 507 | [visiongaiatechnology/gedefense_androidtv](./visiongaiatechnology-gedefense-androidtv.md) | ⭐ 2 | — | 44/100 |
 | 508 | [techjarves/Uncensored-Local-AI-Multiplatform](./techjarves-uncensored-local-ai-multiplatform.md) | ⭐ 1.5k | Dart | 44/100 |
-| 509 | [pacewisdomhq/TutorLoom](./pacewisdomhq-tutorloom.md) | ⭐ 92 | — | 44/100 |
+| 509 | [pacewisdomhq/TutorLoom](./pacewisdomhq-tutorloom.md) | ⭐ 93 | — | 44/100 |
 | 510 | [Seb3thehacker/gearslip](./seb3thehacker-gearslip.md) | ⭐ — | — | 44/100 |
 | 511 | [MeshLive/meshlive-android](./meshlive-meshlive-android.md) | ⭐ 347 | Kotlin | 44/100 |
 | 512 | [Fluxionics/InteeBuild](./fluxionics-inteebuild.md) | ⭐ 3 | JavaScript | 44/100 |
@@ -630,7 +630,7 @@
 | 620 | [rPlayAI/rplayhub-android](./rplayai-rplayhub-android.md) | ⭐ 47 | — | 41/100 |
 | 621 | [sedds89/StitchLabtools](./sedds89-stitchlabtools.md) | ⭐ 2 | — | 41/100 |
 | 622 | [EXALAB/LinuxBox](./exalab-linuxbox.md) | ⭐ 6 | — | 41/100 |
-| 623 | [notune/TextGrab](./notune-textgrab.md) | ⭐ 20 | — | 41/100 |
+| 623 | [notune/TextGrab](./notune-textgrab.md) | ⭐ 21 | — | 41/100 |
 | 624 | [lekandigital/android-tv-airplay-receiver](./lekandigital-android-tv-airplay-receiver.md) | ⭐ 4 | — | 41/100 |
 | 625 | [ffmpegkit-maintained/ffmpeg-kit](./ffmpegkit-maintained-ffmpeg-kit.md) | ⭐ — | — | 41/100 |
 | 626 | [RTiK/mosaic](./rtik-mosaic.md) | ⭐ 3 | — | 41/100 |
@@ -679,7 +679,7 @@
 | 669 | [shubhang-d/Loophole](./shubhang-d-loophole.md) | ⭐ 124 | — | 38/100 |
 | 670 | [Pedroshakoor/grok-build-ios](./pedroshakoor-grok-build-ios.md) | ⭐ 20 | — | 38/100 |
 | 671 | [Helldez/BigMoeOnEdge](./helldez-bigmoeonedge.md) | ⭐ 751 | — | 38/100 |
-| 672 | [mykolaharmash/notelet](./mykolaharmash-notelet.md) | ⭐ 562 | — | 38/100 |
+| 672 | [mykolaharmash/notelet](./mykolaharmash-notelet.md) | ⭐ 561 | — | 38/100 |
 | 673 | [Gedsh/InviZible](./gedsh-invizible.md) | ⭐ 2.9k | — | 38/100 |
 | 674 | [eu-digital-identity-wallet/av-doc-technical-specification](./eu-digital-identity-wallet-av-doc-technical-specification.md) | ⭐ — | — | 38/100 |
 | 675 | [dk8827/ra-port](./dk8827-ra-port.md) | ⭐ 252 | — | 38/100 |
@@ -690,8 +690,8 @@
 | 680 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 681 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ 12 | — | 38/100 |
 | 682 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 683 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
-| 684 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
+| 683 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
+| 684 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
 | 685 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ 1 | — | 38/100 |
 | 686 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ 18 | — | 38/100 |
 | 687 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ 580 | — | 38/100 |

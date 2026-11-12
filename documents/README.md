@@ -465,7 +465,7 @@
 | 455 | [kklimuk/docx-cli](./kklimuk-docx-cli.md) | ⭐ 246 | — | 49/100 |
 | 456 | [arto-app/Arto](./arto-app-arto.md) | ⭐ 261 | Rust | 49/100 |
 | 457 | [leonardosalasd/doc-engine-cli](./leonardosalasd-doc-engine-cli.md) | ⭐ 47 | — | 49/100 |
-| 458 | [plasma-ai/wiki](./plasma-ai-wiki.md) | ⭐ 106 | — | 49/100 |
+| 458 | [plasma-ai/wiki](./plasma-ai-wiki.md) | ⭐ 107 | — | 49/100 |
 | 459 | [binarynonsense/comic-book-reader](./binarynonsense-comic-book-reader.md) | ⭐ 435 | JavaScript | 49/100 |
 | 460 | [nodiscc/xsrv](./nodiscc-xsrv.md) | ⭐ 413 | Jinja | 49/100 |
 | 461 | [lycheeverse/lychee](./lycheeverse-lychee.md) | ⭐ 4.1k | Rust | 49/100 |
@@ -507,8 +507,8 @@
 | 497 | [cfug/flutter.cn](./cfug-flutter.cn.md) | ⭐ 568 | Dart | 47/100 |
 | 498 | [qpdf/qpdf](./qpdf-qpdf.md) | ⭐ 5.6k | C++ | 47/100 |
 | 499 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
-| 500 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
-| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
+| 500 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
+| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
 | 502 | [waka/sghtmltopdf](./waka-sghtmltopdf.md) | ⭐ 381 | Rust | 46/100 |
 | 503 | [Sigil-Ebook/Sigil](./sigil-ebook-sigil.md) | ⭐ 7k | C++ | 46/100 |
 | 504 | [fiduswriter/fiduswriter](./fiduswriter-fiduswriter.md) | ⭐ 569 | JavaScript | 46/100 |
@@ -577,7 +577,7 @@
 | 567 | [jolars/panache](./jolars-panache.md) | ⭐ 247 | Rust | 42/100 |
 | 568 | [datalab-to/marker](./datalab-to-marker.md) | ⭐ 40.9k | — | 41/100 |
 | 569 | [szdytom/markview](./szdytom-markview.md) | ⭐ 117 | — | 41/100 |
-| 570 | [pgrekovich/simstim](./pgrekovich-simstim.md) | ⭐ 5 | — | 41/100 |
+| 570 | [pgrekovich/simstim](./pgrekovich-simstim.md) | ⭐ 7 | — | 41/100 |
 | 571 | [fynepdf/fynepdf-pdfa](./fynepdf-fynepdf-pdfa.md) | ⭐ 11 | — | 41/100 |
 | 572 | [hakuxyz/pdfq](./hakuxyz-pdfq.md) | ⭐ 9 | — | 41/100 |
 | 573 | [aryamantepal/tabvault](./aryamantepal-tabvault.md) | ⭐ 3 | — | 41/100 |
@@ -682,7 +682,7 @@
 | 672 | [HellterEnjoy/Lilo](./hellterenjoy-lilo.md) | ⭐ 26 | — | 38/100 |
 | 673 | [Mangluu/overleaf-comments-export](./mangluu-overleaf-comments-export.md) | ⭐ 39 | — | 38/100 |
 | 674 | [MinottiAlessandro/Emerald](./minottialessandro-emerald.md) | ⭐ 14 | — | 38/100 |
-| 675 | [nextblock-cms/nextblock](./nextblock-cms-nextblock.md) | ⭐ 19 | — | 38/100 |
+| 675 | [nextblock-cms/nextblock](./nextblock-cms-nextblock.md) | ⭐ 20 | — | 38/100 |
 | 676 | [ahpxex/read-aware](./ahpxex-read-aware.md) | ⭐ 502 | — | 38/100 |
 | 677 | [anishmoncivarghese/docsift](./anishmoncivarghese-docsift.md) | ⭐ 7 | — | 38/100 |
 | 678 | [klirix/albedo](./klirix-albedo.md) | ⭐ 13 | — | 38/100 |
@@ -693,7 +693,7 @@
 | 683 | [jsvine/pdfplumber](./jsvine-pdfplumber.md) | ⭐ 10.9k | — | 38/100 |
 | 684 | [callosium/callosium](./callosium-callosium.md) | ⭐ 11 | — | 38/100 |
 | 685 | [genspark-ai/genoffice](./genspark-ai-genoffice.md) | ⭐ 12.2k | — | 38/100 |
-| 686 | [opendatalab/mineru](./opendatalab-mineru.md) | ⭐ 83.5k | — | 38/100 |
+| 686 | [opendatalab/mineru](./opendatalab-mineru.md) | ⭐ 83.6k | — | 38/100 |
 | 687 | [ramblingenzyme/ebookfs](./ramblingenzyme-ebookfs.md) | ⭐ 3 | — | 38/100 |
 | 688 | [xatuke/markdowngg](./xatuke-markdowngg.md) | ⭐ 11 | — | 38/100 |
 | 689 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |

@@ -570,7 +570,7 @@
 | 560 | [substructureai/subs](./substructureai-subs.md) | ⭐ 13 | — | 42/100 |
 | 561 | [xav-db/range-cache](./xav-db-range-cache.md) | ⭐ 33 | — | 42/100 |
 | 562 | [Sidd27/infrawise](./sidd27-infrawise.md) | ⭐ 22 | — | 42/100 |
-| 563 | [pgsty/silo](./pgsty-silo.md) | ⭐ 4.6k | — | 42/100 |
+| 563 | [pgsty/silo](./pgsty-silo.md) | ⭐ 4.7k | — | 42/100 |
 | 564 | [zettalane-systems/open-lustre-cloud](./zettalane-systems-open-lustre-cloud.md) | ⭐ 1 | — | 42/100 |
 | 565 | [buckit-io/buckit](./buckit-io-buckit.md) | ⭐ 82 | — | 42/100 |
 | 566 | [sthalatech/atropim-s3-storage](./sthalatech-atropim-s3-storage.md) | ⭐ — | — | 42/100 |

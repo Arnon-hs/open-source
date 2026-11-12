@@ -118,8 +118,8 @@
 | 108 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.9k | PHP | 62/100 |
 | 109 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 10.3k | PHP | 62/100 |
 | 110 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 1.1k | TypeScript | 62/100 |
-| 111 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
-| 112 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 111 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 112 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
 | 113 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 114 | [actions/checkout](./actions-checkout.md) | ⭐ 8.8k | TypeScript | 61/100 |
 | 115 | [paid-tw/payment](./paid-tw-payment.md) | ⭐ 86 | TypeScript | 61/100 |
@@ -280,8 +280,8 @@
 | 270 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 60 | Rust | 50/100 |
 | 271 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 50/100 |
 | 272 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 223 | Rust | 50/100 |
-| 273 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
-| 274 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
+| 273 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
+| 274 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
 | 275 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 276 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 277 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 182 | HTML | 50/100 |
@@ -395,7 +395,7 @@
 | 385 | [Prakhar0013/Paydar](./prakhar0013-paydar.md) | ⭐ — | TypeScript | 37/100 |
 | 386 | [abhinavnayak21/BillCraft-ai-x-MLH](./abhinavnayak21-billcraft-ai-x-mlh.md) | ⭐ — | TypeScript | 37/100 |
 | 387 | [edyiaeonian/eu-einvoice-bridge](./edyiaeonian-eu-einvoice-bridge.md) | ⭐ — | XSLT | 36/100 |
-| 388 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ 909 | — | 36/100 |
+| 388 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ 913 | — | 36/100 |
 | 389 | [YashAdake/parchi](./yashadake-parchi.md) | ⭐ — | HTML | 35/100 |
 | 390 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 35/100 |
 | 391 | [Godman-s/aiax](./godman-s-aiax.md) | ⭐ — | — | 34/100 |
