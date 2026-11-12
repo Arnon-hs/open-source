@@ -51,7 +51,7 @@ ROCm/hip：ROCm/hip may be useful when its README and activity match a concrete 
 
 **Quality signals**
 
-- 4428 GitHub stars
+- 4429 GitHub stars
 - 590 forks
 - updated 2026-10-30
 - primary language: C++

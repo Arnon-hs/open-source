@@ -168,7 +168,7 @@
 | 158 | [KunMoe/kun-galgame-forum](./kunmoe-kun-galgame-forum.md) | ⭐ 2.3k | Go | 67/100 |
 | 159 | [casosorg/casos](./casosorg-casos.md) | ⭐ 1.4k | JavaScript | 67/100 |
 | 160 | [israel-dryer/ttkbootstrap](./israel-dryer-ttkbootstrap.md) | ⭐ 2.7k | Python | 67/100 |
-| 161 | [vorssaint/vorssaint-utils](./vorssaint-vorssaint-utils.md) | ⭐ 34k | Swift | 67/100 |
+| 161 | [vorssaint/vorssaint-utils](./vorssaint-vorssaint-utils.md) | ⭐ 34.3k | Swift | 67/100 |
 | 162 | [TanStack/table](./tanstack-table.md) | ⭐ 28.6k | TypeScript | 67/100 |
 | 163 | [openMF/web-app](./openmf-web-app.md) | ⭐ 398 | TypeScript | 67/100 |
 | 164 | [TEAMMATES/teammates](./teammates-teammates.md) | ⭐ 1.9k | Java | 67/100 |
@@ -209,7 +209,7 @@
 | 199 | [worktile/plait](./worktile-plait.md) | ⭐ 700 | TypeScript | 66/100 |
 | 200 | [wuisabel-gif/MemWhale](./wuisabel-gif-memwhale.md) | ⭐ 145 | Rust | 66/100 |
 | 201 | [tui-cs/Terminal.Gui](./tui-cs-terminal.gui.md) | ⭐ 11.3k | C# | 66/100 |
-| 202 | [dmjio/miso](./dmjio-miso.md) | ⭐ 2.4k | Haskell | 66/100 |
+| 202 | [dmjio/miso](./dmjio-miso.md) | ⭐ 2.5k | Haskell | 66/100 |
 | 203 | [owncloud/web](./owncloud-web.md) | ⭐ 567 | TypeScript | 66/100 |
 | 204 | [ag-grid/ag-grid](./ag-grid-ag-grid.md) | ⭐ 15.7k | TypeScript | 66/100 |
 | 205 | [mantinedev/mantine](./mantinedev-mantine.md) | ⭐ 31.9k | TypeScript | 66/100 |
@@ -262,8 +262,8 @@
 | 252 | [lynx-family/lynx-stack](./lynx-family-lynx-stack.md) | ⭐ 741 | TypeScript | 65/100 |
 | 253 | [zhenorzz/goploy](./zhenorzz-goploy.md) | ⭐ 1.3k | Go | 65/100 |
 | 254 | [ng-doc/ng-doc](./ng-doc-ng-doc.md) | ⭐ 326 | TypeScript | 65/100 |
-| 255 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
-| 256 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
+| 255 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
+| 256 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
 | 257 | [magicuidesign/magicui](./magicuidesign-magicui.md) | ⭐ 23.2k | MDX | 65/100 |
 | 258 | [mealie-recipes/mealie](./mealie-recipes-mealie.md) | ⭐ 13.9k | Python | 65/100 |
 | 259 | [marko-js/marko](./marko-js-marko.md) | ⭐ 14.5k | JavaScript | 65/100 |
@@ -316,7 +316,7 @@
 | 306 | [Clariity/react-chessboard](./clariity-react-chessboard.md) | ⭐ 551 | TypeScript | 63/100 |
 | 307 | [jdf2e/nutui-react](./jdf2e-nutui-react.md) | ⭐ 1.2k | TypeScript | 63/100 |
 | 308 | [garmeeh/next-seo](./garmeeh-next-seo.md) | ⭐ 8.5k | TypeScript | 63/100 |
-| 309 | [frappe/crm](./frappe-crm.md) | ⭐ 3.9k | Vue | 63/100 |
+| 309 | [frappe/crm](./frappe-crm.md) | ⭐ 4k | Vue | 63/100 |
 | 310 | [tdewolff/minify](./tdewolff-minify.md) | ⭐ 4.2k | Go | 63/100 |
 | 311 | [openwallet-foundation/credo-ts](./openwallet-foundation-credo-ts.md) | ⭐ 360 | TypeScript | 63/100 |
 | 312 | [jsverse/transloco-keys-manager](./jsverse-transloco-keys-manager.md) | ⭐ 222 | TypeScript | 63/100 |
@@ -485,8 +485,8 @@
 | 475 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 476 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
 | 477 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 298 | Rust | 60/100 |
-| 478 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
-| 479 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 478 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 479 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
 | 480 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.8k | TypeScript | 60/100 |
 | 481 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 366 | Go | 60/100 |
 | 482 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
@@ -558,7 +558,7 @@
 | 548 | [penpot/penpot](./penpot-penpot.md) | ⭐ 62.3k | Clojure | 59/100 |
 | 549 | [oven-sh/bun](./oven-sh-bun.md) | ⭐ 96.7k | Zig | 59/100 |
 | 550 | [measure-sh/measure](./measure-sh-measure.md) | ⭐ 1.4k | TypeScript | 59/100 |
-| 551 | [aaronsuns/melarka](./aaronsuns-melarka.md) | ⭐ 12 | Go | 59/100 |
+| 551 | [aaronsuns/melarka](./aaronsuns-melarka.md) | ⭐ 13 | Go | 59/100 |
 | 552 | [amannn/next-intl](./amannn-next-intl.md) | ⭐ 4.4k | TypeScript | 58/100 |
 | 553 | [AnmolSaini16/mapcn](./anmolsaini16-mapcn.md) | ⭐ 12.4k | TypeScript | 58/100 |
 | 554 | [cartesiancs/map3d](./cartesiancs-map3d.md) | ⭐ 2.7k | TypeScript | 58/100 |

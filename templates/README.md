@@ -34,7 +34,7 @@
 | 24 | [8gears/n8n-helm-chart](./8gears-n8n-helm-chart.md) | ⭐ 709 | Go Template | 81/100 |
 | 25 | [gizmax/Sandcastle](./gizmax-sandcastle.md) | ⭐ 89 | Python | 81/100 |
 | 26 | [KhazP/vibe-coding-prompt-template](./khazp-vibe-coding-prompt-template.md) | ⭐ 3.2k | Python | 81/100 |
-| 27 | [kangarooking/cangjie-skill](./kangarooking-cangjie-skill.md) | ⭐ 12.7k | Python | 81/100 |
+| 27 | [kangarooking/cangjie-skill](./kangarooking-cangjie-skill.md) | ⭐ 12.8k | Python | 81/100 |
 | 28 | [NextAdminHQ/nextjs-admin-dashboard](./nextadminhq-nextjs-admin-dashboard.md) | ⭐ 607 | TypeScript | 81/100 |
 | 29 | [kadykov/mcp-openapi-schema-explorer](./kadykov-mcp-openapi-schema-explorer.md) | ⭐ 76 | TypeScript | 81/100 |
 | 30 | [kadevin/ilab-gpt-conjure](./kadevin-ilab-gpt-conjure.md) | ⭐ 582 | JavaScript | 81/100 |

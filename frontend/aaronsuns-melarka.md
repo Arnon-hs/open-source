@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 12 |
+| ⭐ **Stars** | 13 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Go |
 | 📈 **Score** | 59/100 |
@@ -53,7 +53,7 @@ aaronsuns/melarka：aaronsuns/melarka helps ship user-facing interfaces with les
 
 **Quality signals**
 
-- 12 GitHub stars
+- 13 GitHub stars
 - updated 2026-11-10
 - primary language: Go
 - 20 topics
@@ -69,7 +69,7 @@ aaronsuns/melarka：aaronsuns/melarka helps ship user-facing interfaces with les
 | integration | 62/100 |
 | production | 68/100 |
 | outlook | 68/100 |
-| adoption | 17/100 |
+| adoption | 18/100 |
 | categoryMatchCount | 400/100 |
 | stars | 24/100 |
 | forks | 0/100 |

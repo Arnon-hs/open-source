@@ -410,7 +410,7 @@
 | 400 | [JeffSteinbok/reMarkableSync](./jeffsteinbok-remarkablesync.md) | ⭐ 61 | Python | 52/100 |
 | 401 | [opendocument-app/OpenDocument.droid](./opendocument-app-opendocument.droid.md) | ⭐ 496 | HTML | 52/100 |
 | 402 | [kodama-community/kodama](./kodama-community-kodama.md) | ⭐ 228 | Rust | 52/100 |
-| 403 | [wdcpclover/ai4paper](./wdcpclover-ai4paper.md) | ⭐ 4.7k | HTML | 52/100 |
+| 403 | [wdcpclover/ai4paper](./wdcpclover-ai4paper.md) | ⭐ 4.8k | HTML | 52/100 |
 | 404 | [Ranrar/Marco](./ranrar-marco.md) | ⭐ 170 | Rust | 52/100 |
 | 405 | [pluk-inc/markdown-preview](./pluk-inc-markdown-preview.md) | ⭐ 2.8k | Swift | 52/100 |
 | 406 | [guilhermeprokisch/see](./guilhermeprokisch-see.md) | ⭐ 298 | Rust | 52/100 |
@@ -430,8 +430,8 @@
 | 420 | [ttu-ttu/ebook-reader](./ttu-ttu-ebook-reader.md) | ⭐ 1.1k | Svelte | 51/100 |
 | 421 | [spawnia/md-to-pdf](./spawnia-md-to-pdf.md) | ⭐ 171 | Rust | 51/100 |
 | 422 | [messense/mupdf-rs](./messense-mupdf-rs.md) | ⭐ 215 | Rust | 51/100 |
-| 423 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
-| 424 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 183 | Rust | 51/100 |
+| 423 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 183 | Rust | 51/100 |
+| 424 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
 | 425 | [CultivateLabs/storytime](./cultivatelabs-storytime.md) | ⭐ 743 | Ruby | 51/100 |
 | 426 | [clerkma/ptex-ng](./clerkma-ptex-ng.md) | ⭐ 307 | C | 51/100 |
 | 427 | [3xxx/engineercms](./3xxx-engineercms.md) | ⭐ 1.4k | Go | 51/100 |
@@ -507,8 +507,8 @@
 | 497 | [cfug/flutter.cn](./cfug-flutter.cn.md) | ⭐ 568 | Dart | 47/100 |
 | 498 | [qpdf/qpdf](./qpdf-qpdf.md) | ⭐ 5.6k | C++ | 47/100 |
 | 499 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
-| 500 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
-| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
+| 500 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
+| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
 | 502 | [waka/sghtmltopdf](./waka-sghtmltopdf.md) | ⭐ 381 | Rust | 46/100 |
 | 503 | [Sigil-Ebook/Sigil](./sigil-ebook-sigil.md) | ⭐ 7k | C++ | 46/100 |
 | 504 | [fiduswriter/fiduswriter](./fiduswriter-fiduswriter.md) | ⭐ 569 | JavaScript | 46/100 |

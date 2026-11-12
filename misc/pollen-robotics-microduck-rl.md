@@ -51,7 +51,7 @@ pollen-robotics/microduck_rl：pollen-robotics/microduck_rl may be useful when i
 
 **Quality signals**
 
-- 2870 GitHub stars
+- 2876 GitHub stars
 - 698 forks
 - updated 2026-11-09
 - primary language: Python

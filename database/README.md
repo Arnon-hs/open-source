@@ -140,7 +140,7 @@
 | 130 | [kwsch/PKHeX](./kwsch-pkhex.md) | ⭐ 5.3k | C# | 60/100 |
 | 131 | [redis/rueidis](./redis-rueidis.md) | ⭐ 3k | Go | 60/100 |
 | 132 | [redis/RedisInsight](./redis-redisinsight.md) | ⭐ 8.9k | TypeScript | 60/100 |
-| 133 | [TableProApp/TablePro](./tableproapp-tablepro.md) | ⭐ 6.4k | Swift | 60/100 |
+| 133 | [TableProApp/TablePro](./tableproapp-tablepro.md) | ⭐ 6.5k | Swift | 60/100 |
 | 134 | [akopytov/sysbench](./akopytov-sysbench.md) | ⭐ 6.8k | C | 59/100 |
 | 135 | [laraowl/laraowl](./laraowl-laraowl.md) | ⭐ 363 | TypeScript | 59/100 |
 | 136 | [pgmoneta/pgmoneta](./pgmoneta-pgmoneta.md) | ⭐ 325 | C | 59/100 |

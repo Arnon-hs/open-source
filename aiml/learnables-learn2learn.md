@@ -53,7 +53,7 @@ learnables/learn2learn：learnables/learn2learn helps add AI capability without 
 
 **Quality signals**
 
-- 2894 GitHub stars
+- 2895 GitHub stars
 - 356 forks
 - updated 2026-11-02
 - primary language: Python
