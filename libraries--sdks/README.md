@@ -16,7 +16,7 @@
 | 6 | [auth0/auth0.net](./auth0-auth0.net.md) | ⭐ 364 | C# | 75/100 |
 | 7 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.7k | Python | 75/100 |
 | 8 | [dropbox/dropbox-sdk-python](./dropbox-dropbox-sdk-python.md) | ⭐ 986 | Python | 74/100 |
-| 9 | [meilisearch/meilisearch-dotnet](./meilisearch-meilisearch-dotnet.md) | ⭐ 345 | C# | 74/100 |
+| 9 | [meilisearch/meilisearch-dotnet](./meilisearch-meilisearch-dotnet.md) | ⭐ 344 | C# | 74/100 |
 | 10 | [gungraun/gungraun](./gungraun-gungraun.md) | ⭐ 342 | Rust | 73/100 |
 | 11 | [googleapis/google-api-dotnet-client](./googleapis-google-api-dotnet-client.md) | ⭐ 1.5k | C# | 72/100 |
 | 12 | [Unleash/unleash](./unleash-unleash.md) | ⭐ 14.3k | TypeScript | 72/100 |
@@ -41,7 +41,7 @@
 | 31 | [getsentry/sentry-cocoa](./getsentry-sentry-cocoa.md) | ⭐ 1.1k | Swift | 69/100 |
 | 32 | [xberg-io/tree-sitter-language-pack](./xberg-io-tree-sitter-language-pack.md) | ⭐ 485 | Rust | 69/100 |
 | 33 | [getsentry/sentry-dotnet](./getsentry-sentry-dotnet.md) | ⭐ 776 | C# | 69/100 |
-| 34 | [livekit/client-sdk-android](./livekit-client-sdk-android.md) | ⭐ 370 | Kotlin | 68/100 |
+| 34 | [livekit/client-sdk-android](./livekit-client-sdk-android.md) | ⭐ 371 | Kotlin | 68/100 |
 | 35 | [pika/pika](./pika-pika.md) | ⭐ 3.9k | Python | 68/100 |
 | 36 | [livekit/client-sdk-flutter](./livekit-client-sdk-flutter.md) | ⭐ 422 | Dart | 68/100 |
 | 37 | [chanxuehong/wechat](./chanxuehong-wechat.md) | ⭐ 2.7k | Go | 68/100 |
@@ -98,7 +98,7 @@
 | 88 | [getsentry/sentry-native](./getsentry-sentry-native.md) | ⭐ 580 | C | 63/100 |
 | 89 | [yourtablecloth/TableCloth](./yourtablecloth-tablecloth.md) | ⭐ 1.1k | C# | 63/100 |
 | 90 | [gskinnerTeam/flutter-wonderous-app](./gskinnerteam-flutter-wonderous-app.md) | ⭐ 4.5k | Dart | 63/100 |
-| 91 | [cocool97/adb_client](./cocool97-adb-client.md) | ⭐ 407 | Rust | 63/100 |
+| 91 | [cocool97/adb_client](./cocool97-adb-client.md) | ⭐ 408 | Rust | 63/100 |
 | 92 | [bluez/bluer](./bluez-bluer.md) | ⭐ 452 | Rust | 62/100 |
 | 93 | [equalsraf/neovim-qt](./equalsraf-neovim-qt.md) | ⭐ 2k | C++ | 62/100 |
 | 94 | [DataDog/dd-trace-dotnet](./datadog-dd-trace-dotnet.md) | ⭐ 573 | C# | 62/100 |
@@ -154,7 +154,7 @@
 | 144 | [moetayuko/openwrt-passwall-build](./moetayuko-openwrt-passwall-build.md) | ⭐ 539 | — | 59/100 |
 | 145 | [mlua-rs/mlua](./mlua-rs-mlua.md) | ⭐ 2.9k | Rust | 59/100 |
 | 146 | [fish2018/webhtv](./fish2018-webhtv.md) | ⭐ 683 | Java | 59/100 |
-| 147 | [contentauth/c2pa-rs](./contentauth-c2pa-rs.md) | ⭐ 445 | Rust | 59/100 |
+| 147 | [contentauth/c2pa-rs](./contentauth-c2pa-rs.md) | ⭐ 446 | Rust | 59/100 |
 | 148 | [googleapis/java-genai](./googleapis-java-genai.md) | ⭐ 400 | Java | 59/100 |
 | 149 | [PyMySQL/PyMySQL](./pymysql-pymysql.md) | ⭐ 7.9k | Python | 59/100 |
 | 150 | [kreuzberg-dev/tree-sitter-language-pack](./kreuzberg-dev-tree-sitter-language-pack.md) | ⭐ 349 | Rust | 59/100 |

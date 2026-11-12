@@ -8,9 +8,9 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [axllent/mailpit](./axllent-mailpit.md) | ⭐ 10.9k | Go | 85/100 |
+| 1 | [axllent/mailpit](./axllent-mailpit.md) | ⭐ 10.9k | Go | 82/100 |
 | 2 | [redpanda-data/redpanda](./redpanda-data-redpanda.md) | ⭐ 12.7k | C++ | 80/100 |
-| 3 | [TheDuffman85/crowdsec-web-ui](./theduffman85-crowdsec-web-ui.md) | ⭐ 1k | TypeScript | 80/100 |
+| 3 | [TheDuffman85/crowdsec-web-ui](./theduffman85-crowdsec-web-ui.md) | ⭐ 1.1k | TypeScript | 80/100 |
 | 4 | [aquasecurity/trivy](./aquasecurity-trivy.md) | ⭐ 39.2k | Go | 77/100 |
 | 5 | [buildkite/agent](./buildkite-agent.md) | ⭐ 1.1k | Go | 77/100 |
 | 6 | [project-copacetic/copacetic](./project-copacetic-copacetic.md) | ⭐ 1.7k | Go | 76/100 |
@@ -20,7 +20,7 @@
 | 10 | [mag37/dockcheck](./mag37-dockcheck.md) | ⭐ 2.5k | Shell | 75/100 |
 | 11 | [saltyorg/Saltbox](./saltyorg-saltbox.md) | ⭐ 891 | Python | 75/100 |
 | 12 | [containerd/containerd](./containerd-containerd.md) | ⭐ 21.5k | Go | 74/100 |
-| 13 | [kubara-io/kubara](./kubara-io-kubara.md) | ⭐ 439 | Go | 74/100 |
+| 13 | [kubara-io/kubara](./kubara-io-kubara.md) | ⭐ 440 | Go | 74/100 |
 | 14 | [yeasy/docker_practice](./yeasy-docker-practice.md) | ⭐ 26.4k | Go | 74/100 |
 | 15 | [replicatedhq/kots](./replicatedhq-kots.md) | ⭐ 953 | Go | 74/100 |
 | 16 | [werf/werf](./werf-werf.md) | ⭐ 4.7k | Go | 74/100 |
@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -284,7 +284,7 @@
 | 274 | [googlecloudrobotics/core](./googlecloudrobotics-core.md) | ⭐ 211 | Go | 57/100 |
 | 275 | [hashicorp/terraform-provider-vault](./hashicorp-terraform-provider-vault.md) | ⭐ 513 | Go | 57/100 |
 | 276 | [Andriiklymiuk/corgi](./andriiklymiuk-corgi.md) | ⭐ 37 | Go | 57/100 |
-| 277 | [netbox-community/netbox-chart](./netbox-community-netbox-chart.md) | ⭐ 366 | Mustache | 57/100 |
+| 277 | [netbox-community/netbox-chart](./netbox-community-netbox-chart.md) | ⭐ 365 | Mustache | 57/100 |
 | 278 | [pl4nty/cloudflare-kubernetes-gateway](./pl4nty-cloudflare-kubernetes-gateway.md) | ⭐ 327 | Go | 57/100 |
 | 279 | [fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter](./fluent-plugins-nursery-fluent-plugin-kubernetes-metadata-filter.md) | ⭐ 355 | Ruby | 57/100 |
 | 280 | [devops-works/binenv](./devops-works-binenv.md) | ⭐ 409 | Go | 57/100 |
@@ -368,7 +368,7 @@
 | 358 | [frappe/press](./frappe-press.md) | ⭐ 580 | Python | 52/100 |
 | 359 | [lavalink-devs/Lavalink](./lavalink-devs-lavalink.md) | ⭐ 1.9k | Kotlin | 52/100 |
 | 360 | [openSUSE/open-build-service](./opensuse-open-build-service.md) | ⭐ 1.1k | Ruby | 52/100 |
-| 361 | [IceWhaleTech/CasaOS-AppStore](./icewhaletech-casaos-appstore.md) | ⭐ 375 | Shell | 52/100 |
+| 361 | [IceWhaleTech/CasaOS-AppStore](./icewhaletech-casaos-appstore.md) | ⭐ 376 | Shell | 52/100 |
 | 362 | [BreezeDelegate/beforeup](./breezedelegate-beforeup.md) | ⭐ — | Go | 51/100 |
 | 363 | [unxsist/jet-pilot](./unxsist-jet-pilot.md) | ⭐ 663 | — | 51/100 |
 | 364 | [tdk-landscape/tdk-cli-core](./tdk-landscape-tdk-cli-core.md) | ⭐ — | — | 51/100 |
@@ -485,8 +485,8 @@
 | 475 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 476 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 477 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 478 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
-| 479 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 478 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 479 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
 | 480 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 481 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 482 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |

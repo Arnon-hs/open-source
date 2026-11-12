@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 351 |
+| ⭐ **Stars** | 352 |
 | 🍴 **Forks** | 117 |
 | 💻 **Language** | SystemVerilog |
 | 📈 **Score** | 55/100 |

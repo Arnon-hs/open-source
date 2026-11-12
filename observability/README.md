@@ -42,7 +42,7 @@
 | 32 | [stamparm/maltrail](./stamparm-maltrail.md) | ⭐ 8.7k | Python | 68/100 |
 | 33 | [perses/perses](./perses-perses.md) | ⭐ 2.5k | Go | 68/100 |
 | 34 | [iflytek/skillhub](./iflytek-skillhub.md) | ⭐ 5.4k | Java | 68/100 |
-| 35 | [0cv/herdr-mobile-relay](./0cv-herdr-mobile-relay.md) | ⭐ 376 | TypeScript | 67/100 |
+| 35 | [0cv/herdr-mobile-relay](./0cv-herdr-mobile-relay.md) | ⭐ 377 | TypeScript | 67/100 |
 | 36 | [patman15/BMS_BLE-HA](./patman15-bms-ble-ha.md) | ⭐ 379 | Python | 67/100 |
 | 37 | [GoogleChrome/chromium-dashboard](./googlechrome-chromium-dashboard.md) | ⭐ 747 | Python | 67/100 |
 | 38 | [prometheus/client_golang](./prometheus-client-golang.md) | ⭐ 6k | Go | 67/100 |
@@ -139,7 +139,7 @@
 | 129 | [github-community-projects/issue-metrics](./github-community-projects-issue-metrics.md) | ⭐ 542 | Python | 58/100 |
 | 130 | [DSheirer/sdrtrunk](./dsheirer-sdrtrunk.md) | ⭐ 2.2k | Java | 58/100 |
 | 131 | [aya-rs/aya](./aya-rs-aya.md) | ⭐ 4.9k | Rust | 58/100 |
-| 132 | [open-telemetry/opentelemetry-swift](./open-telemetry-opentelemetry-swift.md) | ⭐ 374 | Swift | 58/100 |
+| 132 | [open-telemetry/opentelemetry-swift](./open-telemetry-opentelemetry-swift.md) | ⭐ 375 | Swift | 58/100 |
 | 133 | [WithSecureLabs/chainsaw](./withsecurelabs-chainsaw.md) | ⭐ 3.5k | Rust | 58/100 |
 | 134 | [adminsyspro/proxcenter-ui](./adminsyspro-proxcenter-ui.md) | ⭐ 1.8k | TypeScript | 58/100 |
 | 135 | [grafana/alloy](./grafana-alloy.md) | ⭐ 3.7k | Go | 58/100 |
@@ -147,7 +147,7 @@
 | 137 | [aelassas/servy](./aelassas-servy.md) | ⭐ 2.1k | C# | 57/100 |
 | 138 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 57/100 |
 | 139 | [simple10/agents-observe](./simple10-agents-observe.md) | ⭐ 717 | TypeScript | 57/100 |
-| 140 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 601 | Python | 57/100 |
+| 140 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 604 | Python | 57/100 |
 | 141 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 5k | TypeScript | 57/100 |
 | 142 | [jaegertracing/jaeger](./jaegertracing-jaeger.md) | ⭐ 23.4k | Go | 57/100 |
 | 143 | [ilya-zlobintsev/LACT](./ilya-zlobintsev-lact.md) | ⭐ 5.9k | Rust | 57/100 |
@@ -157,12 +157,12 @@
 | 147 | [hedhyw/json-log-viewer](./hedhyw-json-log-viewer.md) | ⭐ 244 | Go | 56/100 |
 | 148 | [laravel/nightwatch](./laravel-nightwatch.md) | ⭐ 379 | PHP | 56/100 |
 | 149 | [OxidizeLabs/cachekit](./oxidizelabs-cachekit.md) | ⭐ 163 | Rust | 56/100 |
-| 150 | [TIANLI0/THRM](./tianli0-thrm.md) | ⭐ 460 | Go | 56/100 |
+| 150 | [TIANLI0/THRM](./tianli0-thrm.md) | ⭐ 461 | Go | 56/100 |
 | 151 | [prometheus/test-infra](./prometheus-test-infra.md) | ⭐ 166 | Go | 56/100 |
 | 152 | [Daminoup88/WattSeal](./daminoup88-wattseal.md) | ⭐ 291 | Rust | 56/100 |
 | 153 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 945 | TypeScript | 56/100 |
 | 154 | [oshi/oshi](./oshi-oshi.md) | ⭐ 5.3k | Java | 56/100 |
-| 155 | [sarub0b0/kubetui](./sarub0b0-kubetui.md) | ⭐ 403 | Rust | 56/100 |
+| 155 | [sarub0b0/kubetui](./sarub0b0-kubetui.md) | ⭐ 404 | Rust | 56/100 |
 | 156 | [LibreHardwareMonitor/LibreHardwareMonitor](./librehardwaremonitor-librehardwaremonitor.md) | ⭐ 9.4k | C# | 56/100 |
 | 157 | [prometheus/snmp_exporter](./prometheus-snmp-exporter.md) | ⭐ 2.2k | Go | 56/100 |
 | 158 | [pixlcore/xyops](./pixlcore-xyops.md) | ⭐ 6.3k | JavaScript | 55/100 |
@@ -211,7 +211,7 @@
 | 201 | [open-telemetry/opentelemetry-dotnet-instrumentation](./open-telemetry-opentelemetry-dotnet-instrumentation.md) | ⭐ 464 | C++ | 50/100 |
 | 202 | [swananan/ghostscope](./swananan-ghostscope.md) | ⭐ 192 | Rust | 50/100 |
 | 203 | [NodeSeekDev/NodeGet](./nodeseekdev-nodeget.md) | ⭐ 315 | Rust | 50/100 |
-| 204 | [netxms/netxms](./netxms-netxms.md) | ⭐ 426 | C++ | 50/100 |
+| 204 | [netxms/netxms](./netxms-netxms.md) | ⭐ 429 | C++ | 50/100 |
 | 205 | [chirrop/chirrop-mcp](./chirrop-chirrop-mcp.md) | ⭐ 1 | — | 49/100 |
 | 206 | [Sjoerd305/tlswatch](./sjoerd305-tlswatch.md) | ⭐ 3 | — | 49/100 |
 | 207 | [sonic0002/eavesong](./sonic0002-eavesong.md) | ⭐ 6 | — | 49/100 |
@@ -303,7 +303,7 @@
 | 293 | [Jeffy123-zhu/logspecter](./jeffy123-zhu-logspecter.md) | ⭐ 5 | — | 41/100 |
 | 294 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ 7 | — | 41/100 |
 | 295 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ 1 | — | 41/100 |
-| 296 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 450 | Rust | 41/100 |
+| 296 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 451 | Rust | 41/100 |
 | 297 | [Claven07/dsh-plugin-agent-insights](./claven07-dsh-plugin-agent-insights.md) | ⭐ — | TypeScript | 41/100 |
 | 298 | [Pager-dot/AeroVision](./pager-dot-aerovision.md) | ⭐ — | HTML | 40/100 |
 | 299 | [nixys/nxs-anomaly](./nixys-nxs-anomaly.md) | ⭐ 14 | — | 40/100 |

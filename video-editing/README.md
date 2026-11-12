@@ -95,7 +95,7 @@
 | 85 | [drakulavich/kesha-voice-kit](./drakulavich-kesha-voice-kit.md) | ⭐ 80 | TypeScript | 73/100 |
 | 86 | [ayushozha/AdobePremiereProMCP](./ayushozha-adobepremierepromcp.md) | ⭐ 142 | Go | 73/100 |
 | 87 | [lcy362/agnes-video-generator](./lcy362-agnes-video-generator.md) | ⭐ 684 | Python | 73/100 |
-| 88 | [VelornLabs/velorn](./velornlabs-velorn.md) | ⭐ 527 | JavaScript | 73/100 |
+| 88 | [VelornLabs/velorn](./velornlabs-velorn.md) | ⭐ 530 | JavaScript | 73/100 |
 | 89 | [kouhxp/yapsnap](./kouhxp-yapsnap.md) | ⭐ 427 | Python | 73/100 |
 | 90 | [Cassette-Editor/oh-my-cassette](./cassette-editor-oh-my-cassette.md) | ⭐ 217 | Python | 73/100 |
 | 91 | [pireel/pireel](./pireel-pireel.md) | ⭐ 1.4k | TypeScript | 73/100 |
@@ -185,7 +185,7 @@
 | 175 | [tvheadend/tvheadend](./tvheadend-tvheadend.md) | ⭐ 3.6k | C | 68/100 |
 | 176 | [Agents365-ai/video-podcast-maker](./agents365-ai-video-podcast-maker.md) | ⭐ 1.7k | Python | 68/100 |
 | 177 | [palmier-io/palmier-pro](./palmier-io-palmier-pro.md) | ⭐ 14.7k | Swift | 68/100 |
-| 178 | [Ajatt-Tools/kitsunekko-mirror](./ajatt-tools-kitsunekko-mirror.md) | ⭐ 382 | SRecode Template | 68/100 |
+| 178 | [Ajatt-Tools/kitsunekko-mirror](./ajatt-tools-kitsunekko-mirror.md) | ⭐ 383 | SRecode Template | 68/100 |
 | 179 | [XimilalaXiang/DeLive](./ximilalaxiang-delive.md) | ⭐ 261 | TypeScript | 68/100 |
 | 180 | [hydropix/TranslateBooksWithLLMs](./hydropix-translatebookswithllms.md) | ⭐ 2.6k | Python | 68/100 |
 | 181 | [LockTheDuel/Adobe-Video-Toolkit-rpocket](./locktheduel-adobe-video-toolkit-rpocket.md) | ⭐ 40 | HTML | 67/100 |
@@ -259,7 +259,7 @@
 | 249 | [ersinkoc/AI-Video-Factory](./ersinkoc-ai-video-factory.md) | ⭐ 234 | TypeScript | 64/100 |
 | 250 | [cporter202/open-creator](./cporter202-open-creator.md) | ⭐ 23 | TypeScript | 64/100 |
 | 251 | [zidniryi/cutvii](./zidniryi-cutvii.md) | ⭐ 28 | TypeScript | 64/100 |
-| 252 | [supermosh/supermosh.github.io](./supermosh-supermosh.github.io.md) | ⭐ 381 | TypeScript | 64/100 |
+| 252 | [supermosh/supermosh.github.io](./supermosh-supermosh.github.io.md) | ⭐ 383 | TypeScript | 64/100 |
 | 253 | [aoguai/pyJianYingDraft](./aoguai-pyjianyingdraft.md) | ⭐ 29 | Python | 64/100 |
 | 254 | [dev-isaacmello/extreme-motion-design](./dev-isaacmello-extreme-motion-design.md) | ⭐ 75 | Python | 64/100 |
 | 255 | [atmirrr/persian-motion-director](./atmirrr-persian-motion-director.md) | ⭐ 152 | JavaScript | 64/100 |
@@ -482,7 +482,7 @@
 | 472 | [lyonjs/shortvid.io](./lyonjs-shortvid.io.md) | ⭐ 147 | TypeScript | 56/100 |
 | 473 | [showlab/Awesome-Video-Diffusion](./showlab-awesome-video-diffusion.md) | ⭐ 5.8k | — | 56/100 |
 | 474 | [kaltura/server](./kaltura-server.md) | ⭐ 405 | PHP | 56/100 |
-| 475 | [spartawhy117/JvedioNext](./spartawhy117-jvedionext.md) | ⭐ 428 | JavaScript | 56/100 |
+| 475 | [spartawhy117/JvedioNext](./spartawhy117-jvedionext.md) | ⭐ 430 | JavaScript | 56/100 |
 | 476 | [Muesli-HQ/muesli](./muesli-hq-muesli.md) | ⭐ 1.6k | Swift | 56/100 |
 | 477 | [zmwangx/rust-ffmpeg](./zmwangx-rust-ffmpeg.md) | ⭐ 2k | Rust | 56/100 |
 | 478 | [homebridge/docker-homebridge](./homebridge-docker-homebridge.md) | ⭐ 2.7k | Shell | 56/100 |
@@ -510,7 +510,7 @@
 | 500 | [cutbypham/awesome-davinci-resolve](./cutbypham-awesome-davinci-resolve.md) | ⭐ 69 | Lua | 54/100 |
 | 501 | [DozaVisuals/doza-assist](./dozavisuals-doza-assist.md) | ⭐ 57 | Python | 54/100 |
 | 502 | [TheAcharya/MarkersExtractor](./theacharya-markersextractor.md) | ⭐ 48 | Swift | 54/100 |
-| 503 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 806 | C++ | 54/100 |
+| 503 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 808 | C++ | 54/100 |
 | 504 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 505 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
 | 506 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |

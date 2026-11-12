@@ -207,7 +207,7 @@
 | 197 | [OpenSpace/OpenSpace](./openspace-openspace.md) | ⭐ 1.3k | C++ | 57/100 |
 | 198 | [JuliaPlots/Plots.jl](./juliaplots-plots.jl.md) | ⭐ 2k | Julia | 57/100 |
 | 199 | [productdevbook/etiket](./productdevbook-etiket.md) | ⭐ 494 | TypeScript | 57/100 |
-| 200 | [GeiserX/awesome-spain](./geiserx-awesome-spain.md) | ⭐ 369 | Python | 57/100 |
+| 200 | [GeiserX/awesome-spain](./geiserx-awesome-spain.md) | ⭐ 372 | Python | 57/100 |
 | 201 | [zwicker-group/py-pde](./zwicker-group-py-pde.md) | ⭐ 471 | Python | 57/100 |
 | 202 | [nao1215/filesql](./nao1215-filesql.md) | ⭐ 385 | Go | 57/100 |
 | 203 | [Marsilea-viz/marsilea](./marsilea-viz-marsilea.md) | ⭐ 331 | Python | 57/100 |
@@ -234,7 +234,7 @@
 | 224 | [opensearch-project/data-prepper](./opensearch-project-data-prepper.md) | ⭐ 378 | Java | 56/100 |
 | 225 | [cortex-lab/phy](./cortex-lab-phy.md) | ⭐ 438 | Python | 56/100 |
 | 226 | [the-turing-way/the-turing-way](./the-turing-way-the-turing-way.md) | ⭐ 2.2k | TeX | 56/100 |
-| 227 | [bids-standard/bids-specification](./bids-standard-bids-specification.md) | ⭐ 375 | Python | 56/100 |
+| 227 | [bids-standard/bids-specification](./bids-standard-bids-specification.md) | ⭐ 377 | Python | 56/100 |
 | 228 | [cordx56/rustowl](./cordx56-rustowl.md) | ⭐ 5.3k | Rust | 56/100 |
 | 229 | [beling/bsuccinct-rs](./beling-bsuccinct-rs.md) | ⭐ 173 | Rust | 56/100 |
 | 230 | [TheAlgorithms/Rust](./thealgorithms-rust.md) | ⭐ 26.2k | Rust | 56/100 |
@@ -318,7 +318,7 @@
 | 308 | [zhouyi207/WeiBoCrawler](./zhouyi207-weibocrawler.md) | ⭐ 162 | Rust | 49/100 |
 | 309 | [crepererum-oss/pdatastructs.rs](./crepererum-oss-pdatastructs.rs.md) | ⭐ 147 | Rust | 49/100 |
 | 310 | [tonbo-io/typed-arrow](./tonbo-io-typed-arrow.md) | ⭐ 215 | Rust | 49/100 |
-| 311 | [MFlowCode/MFC](./mflowcode-mfc.md) | ⭐ 439 | Fortran | 49/100 |
+| 311 | [MFlowCode/MFC](./mflowcode-mfc.md) | ⭐ 441 | Fortran | 49/100 |
 | 312 | [tryandromeda/andromeda](./tryandromeda-andromeda.md) | ⭐ 858 | Rust | 49/100 |
 | 313 | [emanuelef/daily-stars-explorer](./emanuelef-daily-stars-explorer.md) | ⭐ 412 | JavaScript | 49/100 |
 | 314 | [celestiaorg/celestia-node](./celestiaorg-celestia-node.md) | ⭐ 1k | Go | 49/100 |
@@ -331,7 +331,7 @@
 | 321 | [feldera/feldera](./feldera-feldera.md) | ⭐ 2.2k | Rust | 48/100 |
 | 322 | [supabase/etl](./supabase-etl.md) | ⭐ 2.4k | Rust | 48/100 |
 | 323 | [MMMystery/foto-documento-specs](./mmmystery-foto-documento-specs.md) | ⭐ 1 | JavaScript | 47/100 |
-| 324 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 759 | Rust | 47/100 |
+| 324 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 761 | Rust | 47/100 |
 | 325 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 484 | Java | 47/100 |
 | 326 | [ashtonckj/Purrrfessorrr-Slothhh](./ashtonckj-purrrfessorrr-slothhh.md) | ⭐ 3 | Python | 46/100 |
 | 327 | [dmitriy-iliyov/oncebox](./dmitriy-iliyov-oncebox.md) | ⭐ 18 | Java | 46/100 |

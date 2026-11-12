@@ -28,7 +28,7 @@
 | 18 | [projectsend/projectsend](./projectsend-projectsend.md) | ⭐ 2.1k | PHP | 77/100 |
 | 19 | [airbytehq/airbyte](./airbytehq-airbyte.md) | ⭐ 22.4k | Python | 77/100 |
 | 20 | [collinbarrett/FilterLists](./collinbarrett-filterlists.md) | ⭐ 1.7k | C# | 76/100 |
-| 21 | [savvyagents/larasend](./savvyagents-larasend.md) | ⭐ 497 | Vue | 76/100 |
+| 21 | [savvyagents/larasend](./savvyagents-larasend.md) | ⭐ 498 | Vue | 76/100 |
 | 22 | [aws-amplify/amplify-cli](./aws-amplify-amplify-cli.md) | ⭐ 2.9k | TypeScript | 76/100 |
 | 23 | [eksctl-io/eksctl](./eksctl-io-eksctl.md) | ⭐ 5.2k | Go | 75/100 |
 | 24 | [caamer20/Telegram-Drive](./caamer20-telegram-drive.md) | ⭐ 5.7k | TypeScript | 75/100 |
@@ -232,7 +232,7 @@
 | 222 | [wearedevilabs/CloudSlash](./wearedevilabs-cloudslash.md) | ⭐ 169 | Go | 63/100 |
 | 223 | [quiltdata/quilt](./quiltdata-quilt.md) | ⭐ 1.4k | TypeScript | 63/100 |
 | 224 | [sqlpage/SQLPage](./sqlpage-sqlpage.md) | ⭐ 2.6k | Rust | 63/100 |
-| 225 | [alchemy-run/distilled](./alchemy-run-distilled.md) | ⭐ 522 | TypeScript | 63/100 |
+| 225 | [alchemy-run/distilled](./alchemy-run-distilled.md) | ⭐ 523 | TypeScript | 63/100 |
 | 226 | [apache/kyuubi](./apache-kyuubi.md) | ⭐ 2.4k | Scala | 63/100 |
 | 227 | [clawscli/claws](./clawscli-claws.md) | ⭐ 166 | Go | 63/100 |
 | 228 | [GoogleCloudPlatform/khi](./googlecloudplatform-khi.md) | ⭐ 2.1k | Go | 63/100 |
@@ -546,8 +546,8 @@
 | 536 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 537 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 538 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 541 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 542 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 543 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |
@@ -609,7 +609,7 @@
 | 599 | [archiecobbs/s3backer](./archiecobbs-s3backer.md) | ⭐ 621 | — | 41/100 |
 | 600 | [mrhardlint/Hard-Chat](./mrhardlint-hard-chat.md) | ⭐ 12 | — | 41/100 |
 | 601 | [oauth2-proxy/oauth2-proxy](./oauth2-proxy-oauth2-proxy.md) | ⭐ 15.4k | — | 41/100 |
-| 602 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 480 | Bicep | 41/100 |
+| 602 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 482 | Bicep | 41/100 |
 | 603 | [suzuki0430/kro-crossplane-eks-idp-lab](./suzuki0430-kro-crossplane-eks-idp-lab.md) | ⭐ — | Shell | 40/100 |
 | 604 | [amananandrai/system-design-explainer](./amananandrai-system-design-explainer.md) | ⭐ 79 | TypeScript | 39/100 |
 | 605 | [rendyachmad-dev/ark](./rendyachmad-dev-ark.md) | ⭐ 8 | Shell | 39/100 |

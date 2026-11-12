@@ -1,6 +1,6 @@
 # DadonStyle/LULLWOOD
 
-[![Stars](https://img.shields.io/github/stars/DadonStyle/LULLWOOD?style=flat-square&color=yellow)](https://github.com/DadonStyle/LULLWOOD/stargazers) [![Forks](https://img.shields.io/github/forks/DadonStyle/LULLWOOD?style=flat-square&color=blue)](https://github.com/DadonStyle/LULLWOOD/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/DadonStyle/LULLWOOD?style=flat-square&color=yellow)](https://github.com/DadonStyle/LULLWOOD/stargazers) [![Forks](https://img.shields.io/github/forks/DadonStyle/LULLWOOD?style=flat-square&color=blue)](https://github.com/DadonStyle/LULLWOOD/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Lullwood - a free first-person horror browser game. Cross a foggy night forest and reach the lost glowing child while wolves, bears and lions hunt you by sight and scent. No download. Play: https://www.lullwoodgame.com
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ DadonStyle/LULLWOOD：DadonStyle/LULLWOOD helps add AI capability without starti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 62/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 200/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

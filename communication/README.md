@@ -64,7 +64,7 @@
 | 54 | [lukevella/rallly](./lukevella-rallly.md) | ⭐ 5.4k | TypeScript | 68/100 |
 | 55 | [wavebox/waveboxapp](./wavebox-waveboxapp.md) | ⭐ 1.4k | JavaScript | 68/100 |
 | 56 | [nager/Nager.Date](./nager-nager.date.md) | ⭐ 1.4k | C# | 68/100 |
-| 57 | [Shoshuo/Prismarr](./shoshuo-prismarr.md) | ⭐ 475 | Twig | 68/100 |
+| 57 | [Shoshuo/Prismarr](./shoshuo-prismarr.md) | ⭐ 477 | Twig | 68/100 |
 | 58 | [abdolence/slack-morphism-rust](./abdolence-slack-morphism-rust.md) | ⭐ 232 | Rust | 67/100 |
 | 59 | [firebase/firebase-cpp-sdk](./firebase-firebase-cpp-sdk.md) | ⭐ 326 | C++ | 67/100 |
 | 60 | [intri-in/manage-my-damn-life-nextjs](./intri-in-manage-my-damn-life-nextjs.md) | ⭐ 647 | JavaScript | 67/100 |
@@ -101,7 +101,7 @@
 | 91 | [mailgun/mailgun-go](./mailgun-mailgun-go.md) | ⭐ 743 | Go | 64/100 |
 | 92 | [maizzle/framework](./maizzle-framework.md) | ⭐ 1.6k | TypeScript | 64/100 |
 | 93 | [chiriapp/chiri](./chiriapp-chiri.md) | ⭐ 413 | TypeScript | 64/100 |
-| 94 | [MathMan05/Fermi](./mathman05-fermi.md) | ⭐ 340 | TypeScript | 64/100 |
+| 94 | [MathMan05/Fermi](./mathman05-fermi.md) | ⭐ 339 | TypeScript | 64/100 |
 | 95 | [twisted/twisted](./twisted-twisted.md) | ⭐ 6k | Python | 64/100 |
 | 96 | [plan-player-analytics/Plan](./plan-player-analytics-plan.md) | ⭐ 1k | Java | 64/100 |
 | 97 | [42wim/matterircd](./42wim-matterircd.md) | ⭐ 309 | Go | 64/100 |
@@ -117,7 +117,7 @@
 | 107 | [shuakami/qq-chat-exporter](./shuakami-qq-chat-exporter.md) | ⭐ 6.1k | TypeScript | 63/100 |
 | 108 | [GetStream/stream-cli](./getstream-stream-cli.md) | ⭐ 89 | Go | 63/100 |
 | 109 | [MetaFARS/codex-relay](./metafars-codex-relay.md) | ⭐ 192 | Rust | 63/100 |
-| 110 | [processone/fluux-messenger](./processone-fluux-messenger.md) | ⭐ 451 | TypeScript | 63/100 |
+| 110 | [processone/fluux-messenger](./processone-fluux-messenger.md) | ⭐ 450 | TypeScript | 63/100 |
 | 111 | [miranda-ng/miranda-ng](./miranda-ng-miranda-ng.md) | ⭐ 570 | C++ | 63/100 |
 | 112 | [tutao/tutanota](./tutao-tutanota.md) | ⭐ 8.2k | TypeScript | 63/100 |
 | 113 | [BrighterCommand/Brighter](./brightercommand-brighter.md) | ⭐ 2.5k | C# | 63/100 |
@@ -171,7 +171,7 @@
 | 161 | [circled-me/server](./circled-me-server.md) | ⭐ 211 | Go | 59/100 |
 | 162 | [onetimesecret/onetimesecret](./onetimesecret-onetimesecret.md) | ⭐ 3k | Ruby | 59/100 |
 | 163 | [hackthedev/dcts-shipping](./hackthedev-dcts-shipping.md) | ⭐ 642 | JavaScript | 59/100 |
-| 164 | [cry-inc/dmarc-report-viewer](./cry-inc-dmarc-report-viewer.md) | ⭐ 371 | Rust | 59/100 |
+| 164 | [cry-inc/dmarc-report-viewer](./cry-inc-dmarc-report-viewer.md) | ⭐ 372 | Rust | 59/100 |
 | 165 | [spacebarchat/server](./spacebarchat-server.md) | ⭐ 2.2k | TypeScript | 59/100 |
 | 166 | [scraly/developers-conferences-agenda](./scraly-developers-conferences-agenda.md) | ⭐ 2k | JavaScript | 59/100 |
 | 167 | [zulip/zulip](./zulip-zulip.md) | ⭐ 26.2k | Python | 59/100 |
@@ -258,7 +258,7 @@
 | 248 | [PijarAdiluhung/mabims-hijri](./pijaradiluhung-mabims-hijri.md) | ⭐ 1 | TypeScript | 52/100 |
 | 249 | [drewmt/lineweb-social](./drewmt-lineweb-social.md) | ⭐ 14 | PHP | 52/100 |
 | 250 | [staktrace/mailparse](./staktrace-mailparse.md) | ⭐ 226 | Rust | 52/100 |
-| 251 | [ArcaneChat/android](./arcanechat-android.md) | ⭐ 405 | Java | 52/100 |
+| 251 | [ArcaneChat/android](./arcanechat-android.md) | ⭐ 404 | Java | 52/100 |
 | 252 | [sublime-security/sublime-rules](./sublime-security-sublime-rules.md) | ⭐ 381 | YAML | 52/100 |
 | 253 | [logos-messaging/logos-delivery](./logos-messaging-logos-delivery.md) | ⭐ 249 | Nim | 52/100 |
 | 254 | [LemmyNet/lemmy](./lemmynet-lemmy.md) | ⭐ 14.7k | Rust | 52/100 |
@@ -362,8 +362,8 @@
 | 352 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 353 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 354 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 355 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
-| 356 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 355 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 356 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
 | 357 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 358 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 359 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |
