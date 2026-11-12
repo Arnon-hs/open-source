@@ -65,18 +65,18 @@ Fargo4u/ssms-ai-assistant：Fargo4u/ssms-ai-assistant helps connect AI assistant
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 78/100 |
-| production | 63/100 |
-| outlook | 63/100 |
-| adoption | 14/100 |
-| categoryMatchCount | 400/100 |
-| stars | 17/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 17/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 52/100 |
+| recency | 80/100 |
+| adoption | 14/100 |
+| production | 63/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

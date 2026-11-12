@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 98.7k |
+| ⭐ **Stars** | 98.6k |
 | 🍴 **Forks** | 6.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 81/100 |
@@ -53,8 +53,8 @@ tailwindlabs/tailwindcss：tailwindlabs/tailwindcss helps ship user-facing inter
 
 **Quality signals**
 
-- 98673 GitHub stars
-- 6400 forks
+- 98583 GitHub stars
+- 6388 forks
 - updated 2026-11-11
 - primary language: TypeScript
 - 7 topics

@@ -104,7 +104,7 @@
 | 94 | [tommylin07-web/podclip-matrix](./tommylin07-web-podclip-matrix.md) | ⭐ 16 | JavaScript | 63/100 |
 | 95 | [toki-plus/ai-mixed-cut](./toki-plus-ai-mixed-cut.md) | ⭐ 94 | — | 63/100 |
 | 96 | [JayWebtech/autoshorts](./jaywebtech-autoshorts.md) | ⭐ 1.5k | Rust | 63/100 |
-| 97 | [HeyChengC/wallstreet-explainer](./heychengc-wallstreet-explainer.md) | ⭐ 673 | JavaScript | 62/100 |
+| 97 | [HeyChengC/wallstreet-explainer](./heychengc-wallstreet-explainer.md) | ⭐ 677 | JavaScript | 62/100 |
 | 98 | [zr9959/auto-xhs](./zr9959-auto-xhs.md) | ⭐ 17 | HTML | 62/100 |
 | 99 | [JuneYaooo/capsule-cinema](./juneyaooo-capsule-cinema.md) | ⭐ 215 | Python | 62/100 |
 | 100 | [Johnson-Jia/video-clipforge](./johnson-jia-video-clipforge.md) | ⭐ 46 | Python | 62/100 |
@@ -152,7 +152,7 @@
 | 142 | [waterbrojx/water-koubo](./waterbrojx-water-koubo.md) | ⭐ 41 | Python | 54/100 |
 | 143 | [derek-zhuolin/interflow-video-cut](./derek-zhuolin-interflow-video-cut.md) | ⭐ 33 | HTML | 54/100 |
 | 144 | [wangcanyu/daihuo-fanpai](./wangcanyu-daihuo-fanpai.md) | ⭐ 101 | Python | 54/100 |
-| 145 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 466 | PHP | 54/100 |
+| 145 | [joinloops/loops-server](./joinloops-loops-server.md) | ⭐ 467 | PHP | 54/100 |
 | 146 | [xiaoliangliang/auto-publish](./xiaoliangliang-auto-publish.md) | ⭐ 27 | JavaScript | 53/100 |
 | 147 | [SuleynanAuir/OMNI-Multimodal-Intelligent-OneRec-Based-System](./suleynanauir-omni-multimodal-intelligent-onerec-based-system.md) | ⭐ 24 | Python | 52/100 |
 | 148 | [cacity/DouyinGo](./cacity-douyingo.md) | ⭐ 65 | Python | 52/100 |

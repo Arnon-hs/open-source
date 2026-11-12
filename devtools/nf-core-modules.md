@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 436 |
+| ⭐ **Stars** | 437 |
 | 🍴 **Forks** | 1.1k |
 | 💻 **Language** | Nextflow |
 | 📈 **Score** | 56/100 |

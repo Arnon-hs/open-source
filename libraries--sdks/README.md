@@ -49,7 +49,7 @@
 | 39 | [pragma-org/amaru](./pragma-org-amaru.md) | ⭐ 119 | Rust | 68/100 |
 | 40 | [coinbase/mesh-sdk-go](./coinbase-mesh-sdk-go.md) | ⭐ 200 | Go | 68/100 |
 | 41 | [google/digitalbuildings](./google-digitalbuildings.md) | ⭐ 467 | Python | 68/100 |
-| 42 | [longbridge/openapi](./longbridge-openapi.md) | ⭐ 470 | Rust | 68/100 |
+| 42 | [longbridge/openapi](./longbridge-openapi.md) | ⭐ 471 | Rust | 68/100 |
 | 43 | [ansible/awx-operator](./ansible-awx-operator.md) | ⭐ 1.5k | Jinja | 67/100 |
 | 44 | [meilisearch/meilisearch-java](./meilisearch-meilisearch-java.md) | ⭐ 245 | Java | 67/100 |
 | 45 | [dart-lang/sdk](./dart-lang-sdk.md) | ⭐ 11.3k | Dart | 67/100 |
@@ -84,9 +84,9 @@
 | 74 | [Blaizzy/mlx-audio-swift](./blaizzy-mlx-audio-swift.md) | ⭐ 694 | Swift | 64/100 |
 | 75 | [auth0/go-jwt-middleware](./auth0-go-jwt-middleware.md) | ⭐ 1.2k | Go | 64/100 |
 | 76 | [dotnet/dotnet-operator-sdk](./dotnet-dotnet-operator-sdk.md) | ⭐ 376 | C# | 64/100 |
-| 77 | [celestiaorg/celestia-app](./celestiaorg-celestia-app.md) | ⭐ 422 | Go | 64/100 |
+| 77 | [celestiaorg/celestia-app](./celestiaorg-celestia-app.md) | ⭐ 421 | Go | 64/100 |
 | 78 | [xybp888/iOS-SDKs](./xybp888-ios-sdks.md) | ⭐ 925 | Objective-C | 64/100 |
-| 79 | [DataDog/dd-trace-rb](./datadog-dd-trace-rb.md) | ⭐ 418 | Ruby | 64/100 |
+| 79 | [DataDog/dd-trace-rb](./datadog-dd-trace-rb.md) | ⭐ 419 | Ruby | 64/100 |
 | 80 | [TanStack/ai](./tanstack-ai.md) | ⭐ 3.3k | TypeScript | 64/100 |
 | 81 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 8k | Python | 64/100 |
 | 82 | [bytecodealliance/rustix](./bytecodealliance-rustix.md) | ⭐ 2.2k | Rust | 63/100 |
@@ -141,7 +141,7 @@
 | 131 | [duckdb/duckdb-rs](./duckdb-duckdb-rs.md) | ⭐ 988 | Rust | 60/100 |
 | 132 | [CrankBoyHQ/crankboy-app](./crankboyhq-crankboy-app.md) | ⭐ 413 | C | 60/100 |
 | 133 | [bitwarden/sdk-sm](./bitwarden-sdk-sm.md) | ⭐ 504 | Rust | 60/100 |
-| 134 | [langfuse/langfuse-python](./langfuse-langfuse-python.md) | ⭐ 511 | Python | 60/100 |
+| 134 | [langfuse/langfuse-python](./langfuse-langfuse-python.md) | ⭐ 514 | Python | 60/100 |
 | 135 | [okunix/gollama](./okunix-gollama.md) | ⭐ 2 | — | 59/100 |
 | 136 | [sanity-io/client](./sanity-io-client.md) | ⭐ 114 | TypeScript | 59/100 |
 | 137 | [xai-org/xai-sdk-ts](./xai-org-xai-sdk-ts.md) | ⭐ 68 | — | 59/100 |
@@ -220,7 +220,7 @@
 | 210 | [uhop/node-re2](./uhop-node-re2.md) | ⭐ 565 | JavaScript | 52/100 |
 | 211 | [borchero/ducklake-sdk](./borchero-ducklake-sdk.md) | ⭐ 65 | — | 52/100 |
 | 212 | [yury/cidre](./yury-cidre.md) | ⭐ 225 | Rust | 52/100 |
-| 213 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 507 | Rust | 52/100 |
+| 213 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 508 | Rust | 52/100 |
 | 214 | [squirix/squirix](./squirix-squirix.md) | ⭐ 1 | C# | 51/100 |
 | 215 | [apple/apple-ads-platform-api-node](./apple-apple-ads-platform-api-node.md) | ⭐ 6 | TypeScript | 51/100 |
 | 216 | [embedder-dev/pytrace](./embedder-dev-pytrace.md) | ⭐ 19 | — | 51/100 |

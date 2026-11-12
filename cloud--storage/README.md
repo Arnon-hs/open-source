@@ -238,7 +238,7 @@
 | 228 | [GoogleCloudPlatform/khi](./googlecloudplatform-khi.md) | ⭐ 2.1k | Go | 63/100 |
 | 229 | [orioledb/orioledb](./orioledb-orioledb.md) | ⭐ 4.3k | C | 63/100 |
 | 230 | [aws-actions/amazon-ecr-login](./aws-actions-amazon-ecr-login.md) | ⭐ 1.1k | JavaScript | 63/100 |
-| 231 | [plutonhq/pluton](./plutonhq-pluton.md) | ⭐ 880 | TypeScript | 63/100 |
+| 231 | [plutonhq/pluton](./plutonhq-pluton.md) | ⭐ 881 | TypeScript | 63/100 |
 | 232 | [openebs/openebs](./openebs-openebs.md) | ⭐ 9.8k | — | 63/100 |
 | 233 | [noobaa/noobaa-operator](./noobaa-noobaa-operator.md) | ⭐ 145 | Go | 63/100 |
 | 234 | [HeyPuter/puter](./heyputer-puter.md) | ⭐ 44.1k | JavaScript | 63/100 |
@@ -303,7 +303,7 @@
 | 293 | [Particular/NServiceBus](./particular-nservicebus.md) | ⭐ 2.2k | C# | 60/100 |
 | 294 | [tarmac-project/tarmac](./tarmac-project-tarmac.md) | ⭐ 346 | Go | 60/100 |
 | 295 | [spcl/serverless-benchmarks](./spcl-serverless-benchmarks.md) | ⭐ 199 | Python | 60/100 |
-| 296 | [wuzf/2fa](./wuzf-2fa.md) | ⭐ 462 | JavaScript | 60/100 |
+| 296 | [wuzf/2fa](./wuzf-2fa.md) | ⭐ 463 | JavaScript | 60/100 |
 | 297 | [Azure/azure-powershell](./azure-azure-powershell.md) | ⭐ 4.8k | C# | 60/100 |
 | 298 | [Xinyuan-LilyGO/LilyGo-LoRa-Series](./xinyuan-lilygo-lilygo-lora-series.md) | ⭐ 1k | C | 60/100 |
 | 299 | [luxury-yacht/app](./luxury-yacht-app.md) | ⭐ 446 | TypeScript | 60/100 |
@@ -340,7 +340,7 @@
 | 330 | [micrometer-metrics/micrometer](./micrometer-metrics-micrometer.md) | ⭐ 4.9k | Java | 59/100 |
 | 331 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 332 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
-| 333 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 453 | TypeScript | 58/100 |
+| 333 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
 | 334 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
 | 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
 | 336 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
@@ -441,7 +441,7 @@
 | 431 | [envoyproxy/envoy](./envoyproxy-envoy.md) | ⭐ 29.2k | C++ | 55/100 |
 | 432 | [ByteNess/aws-vault](./byteness-aws-vault.md) | ⭐ 485 | Go | 55/100 |
 | 433 | [fluvio-community/fluvio](./fluvio-community-fluvio.md) | ⭐ 5.3k | Rust | 55/100 |
-| 434 | [Azure/azure-cli-extensions](./azure-azure-cli-extensions.md) | ⭐ 455 | Python | 55/100 |
+| 434 | [Azure/azure-cli-extensions](./azure-azure-cli-extensions.md) | ⭐ 456 | Python | 55/100 |
 | 435 | [rivet-dev/rivet](./rivet-dev-rivet.md) | ⭐ 6.9k | Rust | 55/100 |
 | 436 | [deuxfleurs-org/garage](./deuxfleurs-org-garage.md) | ⭐ 4.9k | Rust | 55/100 |
 | 437 | [apache/opendal](./apache-opendal.md) | ⭐ 5.5k | Rust | 55/100 |
@@ -496,7 +496,7 @@
 | 486 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 61 | Python | 51/100 |
 | 487 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 490 | Jupyter Notebook | 51/100 |
 | 488 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
-| 489 | [aws-samples/sample-OpenClaw-on-AWS-with-Bedrock](./aws-samples-sample-openclaw-on-aws-with-bedrock.md) | ⭐ 416 | Python | 51/100 |
+| 489 | [aws-samples/sample-OpenClaw-on-AWS-with-Bedrock](./aws-samples-sample-openclaw-on-aws-with-bedrock.md) | ⭐ 418 | Python | 51/100 |
 | 490 | [Azure/azure-functions-dotnet-worker](./azure-azure-functions-dotnet-worker.md) | ⭐ 467 | C# | 51/100 |
 | 491 | [tonbo-io/ursula](./tonbo-io-ursula.md) | ⭐ 340 | Rust | 51/100 |
 | 492 | [inferx-net/inferx](./inferx-net-inferx.md) | ⭐ 6 | Rust | 51/100 |
@@ -546,8 +546,8 @@
 | 536 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 537 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 538 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
-| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
 | 541 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 542 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 543 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |

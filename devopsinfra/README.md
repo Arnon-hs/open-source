@@ -165,7 +165,7 @@
 | 155 | [harvester/harvester](./harvester-harvester.md) | ⭐ 5.2k | Go | 63/100 |
 | 156 | [TencentBlueKing/bk-ci](./tencentblueking-bk-ci.md) | ⭐ 2.5k | Kotlin | 63/100 |
 | 157 | [helmfile/helmfile](./helmfile-helmfile.md) | ⭐ 5.2k | Go | 63/100 |
-| 158 | [falcondev-oss/github-actions-cache-server](./falcondev-oss-github-actions-cache-server.md) | ⭐ 464 | TypeScript | 63/100 |
+| 158 | [falcondev-oss/github-actions-cache-server](./falcondev-oss-github-actions-cache-server.md) | ⭐ 466 | TypeScript | 63/100 |
 | 159 | [openshift/microshift](./openshift-microshift.md) | ⭐ 851 | Go | 63/100 |
 | 160 | [pi-hole/docker-pi-hole](./pi-hole-docker-pi-hole.md) | ⭐ 11.8k | Shell | 63/100 |
 | 161 | [wodby/docker4drupal](./wodby-docker4drupal.md) | ⭐ 1.3k | Shell | 63/100 |
@@ -182,7 +182,7 @@
 | 172 | [web-infra-dev/garfish](./web-infra-dev-garfish.md) | ⭐ 2.9k | TypeScript | 62/100 |
 | 173 | [glotzerlab/hoomd-blue](./glotzerlab-hoomd-blue.md) | ⭐ 458 | C++ | 62/100 |
 | 174 | [nicholas-fedor/watchtower](./nicholas-fedor-watchtower.md) | ⭐ 4.8k | Go | 62/100 |
-| 175 | [Sportarr/Sportarr](./sportarr-sportarr.md) | ⭐ 636 | C# | 62/100 |
+| 175 | [Sportarr/Sportarr](./sportarr-sportarr.md) | ⭐ 637 | C# | 62/100 |
 | 176 | [giantswarm/operatorkit](./giantswarm-operatorkit.md) | ⭐ 198 | Go | 62/100 |
 | 177 | [singh-inder/supabase-automated-self-host](./singh-inder-supabase-automated-self-host.md) | ⭐ 508 | Shell | 62/100 |
 | 178 | [haloydev/haloy](./haloydev-haloy.md) | ⭐ 401 | Go | 62/100 |
@@ -295,8 +295,8 @@
 | 285 | [rancher/k3k](./rancher-k3k.md) | ⭐ 921 | Go | 57/100 |
 | 286 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 459 | Dockerfile | 57/100 |
 | 287 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.4k | PHP | 57/100 |
-| 288 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
-| 289 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 288 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 289 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
 | 290 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10.4k | Go | 57/100 |
 | 291 | [tackish/pigeoneye](./tackish-pigeoneye.md) | ⭐ 95 | — | 56/100 |
 | 292 | [softcane/codex-session-operator](./softcane-codex-session-operator.md) | ⭐ 6 | — | 56/100 |
@@ -306,8 +306,8 @@
 | 296 | [DataDog/terraform-provider-datadog](./datadog-terraform-provider-datadog.md) | ⭐ 467 | Go | 56/100 |
 | 297 | [tencentcloudstack/terraform-provider-tencentcloud](./tencentcloudstack-terraform-provider-tencentcloud.md) | ⭐ 236 | Go | 56/100 |
 | 298 | [hetznercloud/terraform-provider-hcloud](./hetznercloud-terraform-provider-hcloud.md) | ⭐ 746 | Go | 56/100 |
-| 299 | [techiescamp/mlops-for-devops](./techiescamp-mlops-for-devops.md) | ⭐ 555 | Python | 56/100 |
-| 300 | [andrius/asterisk](./andrius-asterisk.md) | ⭐ 429 | Shell | 56/100 |
+| 299 | [techiescamp/mlops-for-devops](./techiescamp-mlops-for-devops.md) | ⭐ 556 | Python | 56/100 |
+| 300 | [andrius/asterisk](./andrius-asterisk.md) | ⭐ 430 | Shell | 56/100 |
 | 301 | [portainer/portainer-docs](./portainer-portainer-docs.md) | ⭐ 316 | — | 56/100 |
 | 302 | [FoundationDB/fdb-kubernetes-operator](./foundationdb-fdb-kubernetes-operator.md) | ⭐ 322 | Go | 56/100 |
 | 303 | [szinn/k8s-homelab](./szinn-k8s-homelab.md) | ⭐ 318 | YAML | 56/100 |
@@ -485,8 +485,8 @@
 | 475 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 476 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 477 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 478 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
-| 479 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 478 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 479 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
 | 480 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 481 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 482 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |

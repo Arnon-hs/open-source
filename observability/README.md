@@ -33,7 +33,7 @@
 | 23 | [komari-monitor/komari](./komari-monitor-komari.md) | ⭐ 7k | Go | 69/100 |
 | 24 | [cilium/tetragon](./cilium-tetragon.md) | ⭐ 5.2k | C | 69/100 |
 | 25 | [dromara/dynamic-tp](./dromara-dynamic-tp.md) | ⭐ 4.8k | Java | 69/100 |
-| 26 | [monocongo/climate_indices](./monocongo-climate-indices.md) | ⭐ 461 | Python | 69/100 |
+| 26 | [monocongo/climate_indices](./monocongo-climate-indices.md) | ⭐ 462 | Python | 69/100 |
 | 27 | [kyverno/policy-reporter](./kyverno-policy-reporter.md) | ⭐ 394 | Go | 69/100 |
 | 28 | [kdash-rs/kdash](./kdash-rs-kdash.md) | ⭐ 2.6k | Rust | 69/100 |
 | 29 | [networkupstools/nut](./networkupstools-nut.md) | ⭐ 4.5k | C | 68/100 |
@@ -185,7 +185,7 @@
 | 175 | [mother-of-all-self-hosting/mash-playbook](./mother-of-all-self-hosting-mash-playbook.md) | ⭐ 1.2k | Python | 54/100 |
 | 176 | [metafab/otel-gui](./metafab-otel-gui.md) | ⭐ 198 | TypeScript | 53/100 |
 | 177 | [open-telemetry/opentelemetry-go-compile-instrumentation](./open-telemetry-opentelemetry-go-compile-instrumentation.md) | ⭐ 504 | Go | 53/100 |
-| 178 | [prometheus-community/avalanche](./prometheus-community-avalanche.md) | ⭐ 456 | Go | 53/100 |
+| 178 | [prometheus-community/avalanche](./prometheus-community-avalanche.md) | ⭐ 457 | Go | 53/100 |
 | 179 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 750 | — | 53/100 |
 | 180 | [elastic/elastic-agent](./elastic-elastic-agent.md) | ⭐ 290 | Go | 53/100 |
 | 181 | [bpftrace/bpftrace](./bpftrace-bpftrace.md) | ⭐ 10.4k | C++ | 53/100 |
@@ -203,7 +203,7 @@
 | 193 | [open-telemetry/opentelemetry-collector-contrib](./open-telemetry-opentelemetry-collector-contrib.md) | ⭐ 5k | Go | 52/100 |
 | 194 | [Abdenasser/neohtop](./abdenasser-neohtop.md) | ⭐ 9.5k | Svelte | 51/100 |
 | 195 | [amimof/node-cert-exporter](./amimof-node-cert-exporter.md) | ⭐ 185 | Go | 51/100 |
-| 196 | [metrics-rs/quanta](./metrics-rs-quanta.md) | ⭐ 436 | Rust | 51/100 |
+| 196 | [metrics-rs/quanta](./metrics-rs-quanta.md) | ⭐ 437 | Rust | 51/100 |
 | 197 | [fast/fastrace](./fast-fastrace.md) | ⭐ 1.2k | Rust | 51/100 |
 | 198 | [dgunzy/flux9s](./dgunzy-flux9s.md) | ⭐ 288 | Rust | 51/100 |
 | 199 | [grafana/tempo](./grafana-tempo.md) | ⭐ 5.6k | Go | 51/100 |
@@ -220,7 +220,7 @@
 | 210 | [GG95-lab/FreshThread-app](./gg95-lab-freshthread-app.md) | ⭐ 1 | — | 49/100 |
 | 211 | [lucafossen/who-gpu](./lucafossen-who-gpu.md) | ⭐ 1 | — | 49/100 |
 | 212 | [eliau2005/statixagent](./eliau2005-statixagent.md) | ⭐ 5 | — | 49/100 |
-| 213 | [rotel-dev/rotel](./rotel-dev-rotel.md) | ⭐ 412 | Rust | 49/100 |
+| 213 | [rotel-dev/rotel](./rotel-dev-rotel.md) | ⭐ 414 | Rust | 49/100 |
 | 214 | [gbfr-logs/gbfr-logs](./gbfr-logs-gbfr-logs.md) | ⭐ 289 | Rust | 49/100 |
 | 215 | [Hayder-Rzaigui/cybernom-community](./hayder-rzaigui-cybernom-community.md) | ⭐ 3 | — | 49/100 |
 | 216 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 441 | Rust | 49/100 |

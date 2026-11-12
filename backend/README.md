@@ -70,11 +70,11 @@
 | 60 | [wundergraph/graphql-go-tools](./wundergraph-graphql-go-tools.md) | ⭐ 841 | Go | 76/100 |
 | 61 | [dropbox/dropbox-sdk-js](./dropbox-dropbox-sdk-js.md) | ⭐ 972 | JavaScript | 76/100 |
 | 62 | [microsoft/rushstack](./microsoft-rushstack.md) | ⭐ 6.5k | TypeScript | 76/100 |
-| 63 | [tanaikech/taking-advantage-of-google-apps-script](./tanaikech-taking-advantage-of-google-apps-script.md) | ⭐ 456 | — | 76/100 |
+| 63 | [tanaikech/taking-advantage-of-google-apps-script](./tanaikech-taking-advantage-of-google-apps-script.md) | ⭐ 455 | — | 76/100 |
 | 64 | [MobSF/Mobile-Security-Framework-MobSF](./mobsf-mobile-security-framework-mobsf.md) | ⭐ 22.2k | JavaScript | 76/100 |
 | 65 | [thobiasn/tori-cli](./thobiasn-tori-cli.md) | ⭐ 319 | Go | 76/100 |
 | 66 | [getsentry/sentry](./getsentry-sentry.md) | ⭐ 45.8k | Python | 76/100 |
-| 67 | [s3rgeym/hh-applicant-tool](./s3rgeym-hh-applicant-tool.md) | ⭐ 663 | Python | 76/100 |
+| 67 | [s3rgeym/hh-applicant-tool](./s3rgeym-hh-applicant-tool.md) | ⭐ 664 | Python | 76/100 |
 | 68 | [nocodb/nocodb](./nocodb-nocodb.md) | ⭐ 65.5k | TypeScript | 76/100 |
 | 69 | [parsecph/clobbr](./parsecph-clobbr.md) | ⭐ 240 | TypeScript | 76/100 |
 | 70 | [makenotion/notion-sdk-js](./makenotion-notion-sdk-js.md) | ⭐ 5.7k | TypeScript | 76/100 |
@@ -440,7 +440,7 @@
 | 430 | [commenthol/date-holidays](./commenthol-date-holidays.md) | ⭐ 1.1k | JavaScript | 64/100 |
 | 431 | [streambinder/spotitube](./streambinder-spotitube.md) | ⭐ 286 | Go | 64/100 |
 | 432 | [typeddjango/django-stubs](./typeddjango-django-stubs.md) | ⭐ 2k | Python | 64/100 |
-| 433 | [hetznercloud/hcloud-python](./hetznercloud-hcloud-python.md) | ⭐ 401 | Python | 64/100 |
+| 433 | [hetznercloud/hcloud-python](./hetznercloud-hcloud-python.md) | ⭐ 402 | Python | 64/100 |
 | 434 | [neoforged/NeoForge](./neoforged-neoforge.md) | ⭐ 2.1k | Java | 64/100 |
 | 435 | [geonetwork/core-geonetwork](./geonetwork-core-geonetwork.md) | ⭐ 524 | Java | 64/100 |
 | 436 | [zammad/zammad](./zammad-zammad.md) | ⭐ 6.1k | Ruby | 64/100 |
@@ -574,7 +574,7 @@
 | 564 | [ardanlabs/kronk](./ardanlabs-kronk.md) | ⭐ 868 | Go | 61/100 |
 | 565 | [lisachenko/z-engine](./lisachenko-z-engine.md) | ⭐ 459 | PHP | 61/100 |
 | 566 | [GSManagerXZ/GameServerManager](./gsmanagerxz-gameservermanager.md) | ⭐ 1.1k | TypeScript | 61/100 |
-| 567 | [vehagn/homelab](./vehagn-homelab.md) | ⭐ 402 | HCL | 61/100 |
+| 567 | [vehagn/homelab](./vehagn-homelab.md) | ⭐ 403 | HCL | 61/100 |
 | 568 | [mesamirh/MovieBox-Tui](./mesamirh-moviebox-tui.md) | ⭐ 2.8k | Rust | 61/100 |
 | 569 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
 | 570 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
@@ -831,7 +831,7 @@
 | 821 | [binbat/live777](./binbat-live777.md) | ⭐ 312 | Rust | 54/100 |
 | 822 | [DanielGavin/ols](./danielgavin-ols.md) | ⭐ 1.2k | Odin | 54/100 |
 | 823 | [eugef/node-mocks-http](./eugef-node-mocks-http.md) | ⭐ 769 | JavaScript | 54/100 |
-| 824 | [hagezi/dns-servers](./hagezi-dns-servers.md) | ⭐ 657 | PowerShell | 54/100 |
+| 824 | [hagezi/dns-servers](./hagezi-dns-servers.md) | ⭐ 661 | PowerShell | 54/100 |
 | 825 | [orhun/runst](./orhun-runst.md) | ⭐ 359 | Rust | 54/100 |
 | 826 | [robvanderleek/mudslide](./robvanderleek-mudslide.md) | ⭐ 314 | TypeScript | 54/100 |
 | 827 | [clojure-emacs/cider-nrepl](./clojure-emacs-cider-nrepl.md) | ⭐ 750 | Clojure | 54/100 |
