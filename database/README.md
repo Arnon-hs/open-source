@@ -154,7 +154,7 @@
 | 144 | [faust-streaming/faust](./faust-streaming-faust.md) | ⭐ 1.9k | Python | 59/100 |
 | 145 | [blnkfinance/blnk](./blnkfinance-blnk.md) | ⭐ 591 | Go | 59/100 |
 | 146 | [ridgepole/ridgepole](./ridgepole-ridgepole.md) | ⭐ 1.1k | Ruby | 59/100 |
-| 147 | [pandorafuture/wx-cli](./pandorafuture-wx-cli.md) | ⭐ 1k | Rust | 59/100 |
+| 147 | [pandorafuture/wx-cli](./pandorafuture-wx-cli.md) | ⭐ 1.1k | Rust | 59/100 |
 | 148 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 1.3k | Rust | 59/100 |
 | 149 | [ctripcorp/x-pipe](./ctripcorp-x-pipe.md) | ⭐ 2.1k | Java | 59/100 |
 | 150 | [fjall-rs/lsm-tree](./fjall-rs-lsm-tree.md) | ⭐ 466 | Rust | 59/100 |
@@ -554,8 +554,8 @@
 | 544 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 545 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 546 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 435 | — | 38/100 |
-| 547 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
-| 548 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
+| 547 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
+| 548 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
 | 549 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 550 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 551 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |

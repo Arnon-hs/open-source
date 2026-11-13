@@ -11,7 +11,7 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Backend](../backend/README.md) | 1,011 |
 | [Cloud & Storage](../cloud--storage/README.md) | 640 |
 | [Communication](../communication/README.md) | 488 |
-| [Content Creation](../content-creation/README.md) | 178 |
+| [Content Creation](../content-creation/README.md) | 179 |
 | [Crypto](../crypto/README.md) | 848 |
 | [Data](../data/README.md) | 372 |
 | [Database](../database/README.md) | 591 |

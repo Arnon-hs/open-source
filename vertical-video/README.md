@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [harry0703/MoneyPrinterTurbo](./harry0703-moneyprinterturbo.md) | ⭐ 142.9k | Python | 85/100 |
-| 2 | [NaufalRizqullah/opensource-clipping](./naufalrizqullah-opensource-clipping.md) | ⭐ 245 | Python | 84/100 |
+| 2 | [NaufalRizqullah/opensource-clipping](./naufalrizqullah-opensource-clipping.md) | ⭐ 252 | Python | 84/100 |
 | 3 | [jipraks/yt-short-clipper](./jipraks-yt-short-clipper.md) | ⭐ 1.1k | TypeScript | 84/100 |
 | 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 914 | TypeScript | 83/100 |
 | 5 | [el-frontend/video-wizard](./el-frontend-video-wizard.md) | ⭐ 18 | TypeScript | 82/100 |
@@ -70,7 +70,7 @@
 | 60 | [krakonjac300-pixel/podcast-shorts-factory](./krakonjac300-pixel-podcast-shorts-factory.md) | ⭐ 135 | Python | 69/100 |
 | 61 | [orylite/lindyson-ai](./orylite-lindyson-ai.md) | ⭐ 39 | TypeScript | 68/100 |
 | 62 | [numbpill3d/ffmpeg-ai](./numbpill3d-ffmpeg-ai.md) | ⭐ 40 | Python | 68/100 |
-| 63 | [WANGLEVY9/VidForge](./wanglevy9-vidforge.md) | ⭐ 92 | TypeScript | 68/100 |
+| 63 | [WANGLEVY9/VidForge](./wanglevy9-vidforge.md) | ⭐ 94 | TypeScript | 68/100 |
 | 64 | [rediumvex/social-media-caption-generator-claude](./rediumvex-social-media-caption-generator-claude.md) | ⭐ 151 | — | 68/100 |
 | 65 | [artemisln/edit-reel](./artemisln-edit-reel.md) | ⭐ 40 | Python | 67/100 |
 | 66 | [paulherter/sequence-studio](./paulherter-sequence-studio.md) | ⭐ 23 | Swift | 67/100 |
@@ -168,8 +168,8 @@
 | 158 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 2.4k | JavaScript | 50/100 |
 | 159 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ 1 | — | 48/100 |
 | 160 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 45 | — | 47/100 |
-| 161 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
-| 162 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
+| 161 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
+| 162 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
 | 163 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 38 | JavaScript | 47/100 |
 | 164 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
 | 165 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |

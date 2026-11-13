@@ -83,7 +83,7 @@
 | 73 | [amaancoderx/npxskillui](./amaancoderx-npxskillui.md) | ⭐ 2.5k | TypeScript | 54/100 |
 | 74 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 350 | Python | 54/100 |
 | 75 | [coinbase/cds](./coinbase-cds.md) | ⭐ 510 | TypeScript | 54/100 |
-| 76 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 164 | TypeScript | 54/100 |
+| 76 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 163 | TypeScript | 54/100 |
 | 77 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 987 | TypeScript | 54/100 |
 | 78 | [SAP/macOS-icon-generator](./sap-macos-icon-generator.md) | ⭐ 647 | C | 53/100 |
 | 79 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 404 | HTML | 53/100 |

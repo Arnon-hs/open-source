@@ -356,7 +356,7 @@
 | 346 | [scireum/s3ninja](./scireum-s3ninja.md) | ⭐ 556 | Java | 58/100 |
 | 347 | [NoKV-Lab/NoKV](./nokv-lab-nokv.md) | ⭐ 512 | Rust | 58/100 |
 | 348 | [MicrosoftLearning/mslearn-ai-agents](./microsoftlearning-mslearn-ai-agents.md) | ⭐ 352 | Python | 58/100 |
-| 349 | [anolilab/lunora](./anolilab-lunora.md) | ⭐ 296 | TypeScript | 58/100 |
+| 349 | [anolilab/lunora](./anolilab-lunora.md) | ⭐ 298 | TypeScript | 58/100 |
 | 350 | [aws-beam/aws-elixir](./aws-beam-aws-elixir.md) | ⭐ 594 | Elixir | 58/100 |
 | 351 | [kubernetes/cloud-provider-aws](./kubernetes-cloud-provider-aws.md) | ⭐ 467 | Go | 58/100 |
 | 352 | [spinningfactory/kloak](./spinningfactory-kloak.md) | ⭐ 297 | C | 58/100 |
@@ -505,14 +505,14 @@
 | 495 | [hashicorp/terraform-provider-google](./hashicorp-terraform-provider-google.md) | ⭐ 2.7k | Go | 51/100 |
 | 496 | [zalando-incubator/kubernetes-on-aws](./zalando-incubator-kubernetes-on-aws.md) | ⭐ 634 | Go | 51/100 |
 | 497 | [ydb-platform/ydb](./ydb-platform-ydb.md) | ⭐ 4.8k | C++ | 51/100 |
-| 498 | [stackshy/cloudemu](./stackshy-cloudemu.md) | ⭐ 228 | Go | 50/100 |
+| 498 | [stackshy/cloudemu](./stackshy-cloudemu.md) | ⭐ 229 | Go | 50/100 |
 | 499 | [aws-samples/aws-incident-response-playbooks](./aws-samples-aws-incident-response-playbooks.md) | ⭐ 1.1k | — | 50/100 |
 | 500 | [lostinpatterns/kassette](./lostinpatterns-kassette.md) | ⭐ 56 | — | 50/100 |
 | 501 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 362 | Rust | 50/100 |
 | 502 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 138 | Rust | 50/100 |
 | 503 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 366 | Java | 50/100 |
-| 504 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
-| 505 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
+| 504 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
+| 505 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
 | 506 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1.1k | Go | 50/100 |
 | 507 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 758 | Rust | 50/100 |
 | 508 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 670 | Python | 50/100 |

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3 |
+| ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 47/100 |
@@ -51,7 +51,7 @@ hippi345/nowPlayingDesktops：hippi345/nowPlayingDesktops may be useful when its
 
 **Quality signals**
 
-- 3 GitHub stars
+- 4 GitHub stars
 - 1 forks
 - updated 2026-11-09
 - primary language: Python
@@ -67,10 +67,10 @@ hippi345/nowPlayingDesktops：hippi345/nowPlayingDesktops may be useful when its
 | quality | 51/100 |
 | integration | 46/100 |
 | production | 58/100 |
-| outlook | 56/100 |
-| adoption | 11/100 |
+| outlook | 57/100 |
+| adoption | 13/100 |
 | categoryMatchCount | 0/100 |
-| stars | 13/100 |
+| stars | 15/100 |
 | forks | 8/100 |
 | recency | 80/100 |
 | topics | 100/100 |

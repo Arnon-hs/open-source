@@ -1,6 +1,6 @@
 # wangguode/terra-world-travel
 
-[![Stars](https://img.shields.io/github/stars/wangguode/terra-world-travel?style=flat-square&color=yellow)](https://github.com/wangguode/terra-world-travel/stargazers) [![Forks](https://img.shields.io/github/forks/wangguode/terra-world-travel?style=flat-square&color=blue)](https://github.com/wangguode/terra-world-travel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/wangguode/terra-world-travel?style=flat-square&color=yellow)](https://github.com/wangguode/terra-world-travel/stargazers) [![Forks](https://img.shields.io/github/forks/wangguode/terra-world-travel?style=flat-square&color=blue)](https://github.com/wangguode/terra-world-travel/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > TERRA // 跨国落地生存指南与 Web 3D 高斯点云世界模型旅游平台 (Seoul & Beijing) | Cross-Border Touchdown Survival OS & 3D World Model
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -58,22 +58,22 @@ wangguode/terra-world-travel：wangguode/terra-world-travel helps add AI capabil
 - primary language: TypeScript
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 62/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

@@ -136,7 +136,7 @@
 | 126 | [burnash/gspread](./burnash-gspread.md) | ⭐ 7.5k | Python | 72/100 |
 | 127 | [binwiederhier/ntfy](./binwiederhier-ntfy.md) | ⭐ 35.5k | Go | 72/100 |
 | 128 | [Arturo254/OpenTune](./arturo254-opentune.md) | ⭐ 1.8k | Kotlin | 72/100 |
-| 129 | [nicx17/mimick](./nicx17-mimick.md) | ⭐ 140 | Rust | 72/100 |
+| 129 | [nicx17/mimick](./nicx17-mimick.md) | ⭐ 141 | Rust | 72/100 |
 | 130 | [redis/node-redis](./redis-node-redis.md) | ⭐ 17.6k | TypeScript | 72/100 |
 | 131 | [wilfredinni/noodle](./wilfredinni-noodle.md) | ⭐ 80 | TypeScript | 72/100 |
 | 132 | [cunla/fakeredis-py](./cunla-fakeredis-py.md) | ⭐ 472 | Python | 72/100 |
@@ -576,8 +576,8 @@
 | 566 | [GSManagerXZ/GameServerManager](./gsmanagerxz-gameservermanager.md) | ⭐ 1.1k | TypeScript | 61/100 |
 | 567 | [vehagn/homelab](./vehagn-homelab.md) | ⭐ 403 | HCL | 61/100 |
 | 568 | [mesamirh/MovieBox-Tui](./mesamirh-moviebox-tui.md) | ⭐ 2.8k | Rust | 61/100 |
-| 569 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
-| 570 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
+| 569 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
+| 570 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
 | 571 | [simonepri/sympact](./simonepri-sympact.md) | ⭐ 441 | JavaScript | 61/100 |
 | 572 | [chung-leong/zigar](./chung-leong-zigar.md) | ⭐ 443 | Zig | 61/100 |
 | 573 | [rejetto/hfs](./rejetto-hfs.md) | ⭐ 4k | TypeScript | 61/100 |
@@ -636,8 +636,8 @@
 | 626 | [scottyzen/woonuxt](./scottyzen-woonuxt.md) | ⭐ 973 | TypeScript | 60/100 |
 | 627 | [ComunidadAylas/PackSquash](./comunidadaylas-packsquash.md) | ⭐ 872 | Rust | 60/100 |
 | 628 | [cabloy/cabloy](./cabloy-cabloy.md) | ⭐ 986 | TypeScript | 60/100 |
-| 629 | [bedrock-tool/bedrocktool](./bedrock-tool-bedrocktool.md) | ⭐ 370 | Go | 60/100 |
-| 630 | [vas3k/vas3k.club](./vas3k-vas3k.club.md) | ⭐ 941 | Python | 60/100 |
+| 629 | [vas3k/vas3k.club](./vas3k-vas3k.club.md) | ⭐ 941 | Python | 60/100 |
+| 630 | [bedrock-tool/bedrocktool](./bedrock-tool-bedrocktool.md) | ⭐ 370 | Go | 60/100 |
 | 631 | [PowerDNS/pdns](./powerdns-pdns.md) | ⭐ 4.5k | C++ | 60/100 |
 | 632 | [FreeRADIUS/freeradius-server](./freeradius-freeradius-server.md) | ⭐ 2.6k | C | 60/100 |
 | 633 | [apollographql/apollo-rs](./apollographql-apollo-rs.md) | ⭐ 608 | Rust | 60/100 |
@@ -700,7 +700,7 @@
 | 690 | [graphql-java/graphql-java](./graphql-java-graphql-java.md) | ⭐ 6.2k | Java | 58/100 |
 | 691 | [LMS-Community/slimserver](./lms-community-slimserver.md) | ⭐ 1.8k | Perl | 58/100 |
 | 692 | [aeyoll/soulseek-cli](./aeyoll-soulseek-cli.md) | ⭐ 194 | JavaScript | 58/100 |
-| 693 | [lostb1t/remux](./lostb1t-remux.md) | ⭐ 667 | Rust | 58/100 |
+| 693 | [lostb1t/remux](./lostb1t-remux.md) | ⭐ 669 | Rust | 58/100 |
 | 694 | [mateaix/matecloud](./mateaix-matecloud.md) | ⭐ 1.7k | Java | 58/100 |
 | 695 | [socketry/falcon](./socketry-falcon.md) | ⭐ 3.1k | Ruby | 58/100 |
 | 696 | [nextcloud/end_to_end_encryption](./nextcloud-end-to-end-encryption.md) | ⭐ 324 | PHP | 58/100 |
@@ -720,8 +720,8 @@
 | 710 | [mtalavi/coolify-mirror](./mtalavi-coolify-mirror.md) | ⭐ 19 | Go | 57/100 |
 | 711 | [bklaric/purescript-bklaric](./bklaric-purescript-bklaric.md) | ⭐ 1 | — | 57/100 |
 | 712 | [bklaric/team-tavern](./bklaric-team-tavern.md) | ⭐ 13 | — | 57/100 |
-| 713 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 61 | JavaScript | 57/100 |
-| 714 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 72 | JavaScript | 57/100 |
+| 713 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 72 | JavaScript | 57/100 |
+| 714 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 61 | JavaScript | 57/100 |
 | 715 | [HFQR/xitca-web](./hfqr-xitca-web.md) | ⭐ 1k | Rust | 57/100 |
 | 716 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 455 | JavaScript | 57/100 |
 | 717 | [speed-highlight/core](./speed-highlight-core.md) | ⭐ 419 | JavaScript | 57/100 |
@@ -1012,11 +1012,11 @@
 | 1002 | [kostyk348/mbscada-rs](./kostyk348-mbscada-rs.md) | ⭐ 6 | — | 41/100 |
 | 1003 | [clementezeusgabriel01-iswrtg/NIO-Pulse](./clementezeusgabriel01-iswrtg-nio-pulse.md) | ⭐ 1 | Java | 41/100 |
 | 1004 | [yarnpkg/zpm](./yarnpkg-zpm.md) | ⭐ 231 | Rust | 41/100 |
-| 1005 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 656 | Rust | 41/100 |
+| 1005 | [SvenShi/oxidns](./svenshi-oxidns.md) | ⭐ 658 | Rust | 41/100 |
 | 1006 | [iwadjp/timewitness](./iwadjp-timewitness.md) | ⭐ — | JavaScript | 39/100 |
 | 1007 | [8Protons/POWBlock](./8protons-powblock.md) | ⭐ 79 | — | 38/100 |
 | 1008 | [orgs/community](./orgs-community.md) | ⭐ — | — | 37/100 |
-| 1009 | [hyperlane-dev/hyperlane](./hyperlane-dev-hyperlane.md) | ⭐ 128 | Rust | 37/100 |
+| 1009 | [hyperlane-dev/hyperlane](./hyperlane-dev-hyperlane.md) | ⭐ 129 | Rust | 37/100 |
 | 1010 | [ravikisha/rustdns](./ravikisha-rustdns.md) | ⭐ 1 | Rust | 32/100 |
 | 1011 | [visionmedia/supertest](./visionmedia-supertest.md) | ⭐ — | — | 32/100 |
 

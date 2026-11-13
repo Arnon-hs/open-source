@@ -1,6 +1,6 @@
 # AjayakumarV/Qwen3Studio-LocalAI
 
-[![Stars](https://img.shields.io/github/stars/AjayakumarV/Qwen3Studio-LocalAI?style=flat-square&color=yellow)](https://github.com/AjayakumarV/Qwen3Studio-LocalAI/stargazers) [![Forks](https://img.shields.io/github/forks/AjayakumarV/Qwen3Studio-LocalAI?style=flat-square&color=blue)](https://github.com/AjayakumarV/Qwen3Studio-LocalAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/AjayakumarV/Qwen3Studio-LocalAI?style=flat-square&color=yellow)](https://github.com/AjayakumarV/Qwen3Studio-LocalAI/stargazers) [![Forks](https://img.shields.io/github/forks/AjayakumarV/Qwen3Studio-LocalAI?style=flat-square&color=blue)](https://github.com/AjayakumarV/Qwen3Studio-LocalAI/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > Run 30.5B Sparse MoE AI (Qwen3-30B-A3B) 100% offline at 39.2 tok/s on a 4 GB VRAM workstation with 0.6B Speculative Decoding, <1ms Symbolic+AST Hallucination Critic, Offline Whisper STT & BM25 RAG
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ AjayakumarV/Qwen3Studio-LocalAI：AjayakumarV/Qwen3Studio-LocalAI helps make int
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 64/100 |
+| production | 56/100 |
+| outlook | 57/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

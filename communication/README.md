@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -298,7 +298,7 @@
 | 288 | [roman-16/proton-cli](./roman-16-proton-cli.md) | ⭐ 109 | — | 48/100 |
 | 289 | [joshumax/git2imap](./joshumax-git2imap.md) | ⭐ 1 | — | 48/100 |
 | 290 | [slackhq/hakana](./slackhq-hakana.md) | ⭐ 111 | Rust | 48/100 |
-| 291 | [trougnouf/cfait](./trougnouf-cfait.md) | ⭐ 211 | Rust | 48/100 |
+| 291 | [trougnouf/cfait](./trougnouf-cfait.md) | ⭐ 212 | Rust | 48/100 |
 | 292 | [agntcy/slim](./agntcy-slim.md) | ⭐ 233 | Rust | 48/100 |
 | 293 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 468 | Swift | 48/100 |
 | 294 | [awebai/aweb](./awebai-aweb.md) | ⭐ 129 | Go | 48/100 |

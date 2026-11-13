@@ -42,7 +42,7 @@
 | 32 | [pcliangx/AppGenesisForge](./pcliangx-appgenesisforge.md) | ⭐ 239 | Python | 81/100 |
 | 33 | [roninoss/create-expo-stack](./roninoss-create-expo-stack.md) | ⭐ 2.6k | TypeScript | 81/100 |
 | 34 | [Marve10s/Better-Fullstack](./marve10s-better-fullstack.md) | ⭐ 823 | TypeScript | 81/100 |
-| 35 | [ScraperNode/awesome-n8n-templates](./scrapernode-awesome-n8n-templates.md) | ⭐ 119 | Astro | 80/100 |
+| 35 | [ScraperNode/awesome-n8n-templates](./scrapernode-awesome-n8n-templates.md) | ⭐ 120 | Astro | 80/100 |
 | 36 | [undergroundrap/UEFN-TOOLBELT](./undergroundrap-uefn-toolbelt.md) | ⭐ 54 | Python | 80/100 |
 | 37 | [spring-projects/spring-data-mongodb](./spring-projects-spring-data-mongodb.md) | ⭐ 1.7k | Java | 80/100 |
 | 38 | [templatical/sdk](./templatical-sdk.md) | ⭐ 553 | TypeScript | 80/100 |
@@ -100,7 +100,7 @@
 | 90 | [mattgierhart/PRD-driven-context-engineering](./mattgierhart-prd-driven-context-engineering.md) | ⭐ 179 | HTML | 75/100 |
 | 91 | [aws-samples/sample-genai-on-eks-starter-kit](./aws-samples-sample-genai-on-eks-starter-kit.md) | ⭐ 102 | JavaScript | 75/100 |
 | 92 | [zabbix/zabbix](./zabbix-zabbix.md) | ⭐ 6.6k | Go Template | 75/100 |
-| 93 | [one-ie/one](./one-ie-one.md) | ⭐ 133 | Astro | 75/100 |
+| 93 | [one-ie/one](./one-ie-one.md) | ⭐ 134 | Astro | 75/100 |
 | 94 | [nusquama/n8nworkflows.xyz](./nusquama-n8nworkflows.xyz.md) | ⭐ 2.5k | — | 75/100 |
 | 95 | [DollhouseMCP/mcp-server](./dollhousemcp-mcp-server.md) | ⭐ 46 | TypeScript | 75/100 |
 | 96 | [sno-ai/llmix](./sno-ai-llmix.md) | ⭐ 128 | Python | 75/100 |
