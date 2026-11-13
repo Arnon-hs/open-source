@@ -22,7 +22,7 @@
 | 12 | [WPS/egon.io](./wps-egon.io.md) | ⭐ 839 | TypeScript | 65/100 |
 | 13 | [logisim-evolution/logisim-evolution](./logisim-evolution-logisim-evolution.md) | ⭐ 7.9k | Java | 65/100 |
 | 14 | [nextcloud/server](./nextcloud-server.md) | ⭐ 37.5k | PHP | 65/100 |
-| 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 597 | Python | 64/100 |
+| 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 596 | Python | 64/100 |
 | 16 | [eclipse-ee4j/cargotracker](./eclipse-ee4j-cargotracker.md) | ⭐ 396 | JavaScript | 64/100 |
 | 17 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 909 | C# | 64/100 |
 | 18 | [kando-menu/kando](./kando-menu-kando.md) | ⭐ 6.6k | TypeScript | 63/100 |
@@ -30,7 +30,7 @@
 | 20 | [monkeytypegame/monkeytype](./monkeytypegame-monkeytype.md) | ⭐ 21k | TypeScript | 63/100 |
 | 21 | [psychopy/psychopy](./psychopy-psychopy.md) | ⭐ 2.1k | Python | 62/100 |
 | 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 701 | Python | 62/100 |
-| 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 551 | Python | 62/100 |
+| 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 552 | Python | 62/100 |
 | 24 | [MewPurPur/GodSVG](./mewpurpur-godsvg.md) | ⭐ 2.8k | GDScript | 61/100 |
 | 25 | [Lailloken/Exile-UI](./lailloken-exile-ui.md) | ⭐ 1.4k | AutoHotkey | 61/100 |
 | 26 | [bastani-inc/atomic](./bastani-inc-atomic.md) | ⭐ 883 | TypeScript | 61/100 |

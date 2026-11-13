@@ -22,7 +22,7 @@
 | 12 | [eli64s/readme-ai](./eli64s-readme-ai.md) | ⭐ 3k | Python | 84/100 |
 | 13 | [cookiecutter/cookiecutter-django](./cookiecutter-cookiecutter-django.md) | ⭐ 13.6k | Python | 84/100 |
 | 14 | [Lyellr88/MARM-Systems](./lyellr88-marm-systems.md) | ⭐ 305 | Python | 84/100 |
-| 15 | [praveen-ks-2001/hermes-agent-template](./praveen-ks-2001-hermes-agent-template.md) | ⭐ 328 | Python | 83/100 |
+| 15 | [praveen-ks-2001/hermes-agent-template](./praveen-ks-2001-hermes-agent-template.md) | ⭐ 329 | Python | 83/100 |
 | 16 | [jasontaylordev/CleanArchitecture](./jasontaylordev-cleanarchitecture.md) | ⭐ 20.7k | C# | 83/100 |
 | 17 | [Azure-Samples/mcp-agent-langchainjs](./azure-samples-mcp-agent-langchainjs.md) | ⭐ 205 | TypeScript | 83/100 |
 | 18 | [Lissy93/portainer-templates](./lissy93-portainer-templates.md) | ⭐ 2.9k | Python | 83/100 |
@@ -54,7 +54,7 @@
 | 44 | [Quicksi-CLI/quicksiCLI](./quicksi-cli-quicksicli.md) | ⭐ 100 | TypeScript | 80/100 |
 | 45 | [AterDev/Perigon.CLI](./aterdev-perigon.cli.md) | ⭐ 54 | C# | 80/100 |
 | 46 | [bnomei/kirby-mcp](./bnomei-kirby-mcp.md) | ⭐ 69 | PHP | 80/100 |
-| 47 | [syahiidkamil/Software-Engineer-AI-Agent-Atlas](./syahiidkamil-software-engineer-ai-agent-atlas.md) | ⭐ 405 | Python | 80/100 |
+| 47 | [syahiidkamil/Software-Engineer-AI-Agent-Atlas](./syahiidkamil-software-engineer-ai-agent-atlas.md) | ⭐ 406 | Python | 80/100 |
 | 48 | [juancarlospaco/awesome-streaming-tools](./juancarlospaco-awesome-streaming-tools.md) | ⭐ 397 | — | 80/100 |
 | 49 | [solana-foundation/create-solana-dapp](./solana-foundation-create-solana-dapp.md) | ⭐ 655 | TypeScript | 79/100 |
 | 50 | [fastapi-practices/fastapi-best-architecture](./fastapi-practices-fastapi-best-architecture.md) | ⭐ 2.6k | Python | 79/100 |
@@ -96,7 +96,7 @@
 | 86 | [salmanshahriar/Next-Elite](./salmanshahriar-next-elite.md) | ⭐ 109 | TypeScript | 75/100 |
 | 87 | [epicserve/django-base-site](./epicserve-django-base-site.md) | ⭐ 452 | Python | 75/100 |
 | 88 | [voglster/lumbergh](./voglster-lumbergh.md) | ⭐ 33 | TypeScript | 75/100 |
-| 89 | [microsoft/iq-series](./microsoft-iq-series.md) | ⭐ 409 | Jupyter Notebook | 75/100 |
+| 89 | [microsoft/iq-series](./microsoft-iq-series.md) | ⭐ 412 | Jupyter Notebook | 75/100 |
 | 90 | [mattgierhart/PRD-driven-context-engineering](./mattgierhart-prd-driven-context-engineering.md) | ⭐ 179 | HTML | 75/100 |
 | 91 | [aws-samples/sample-genai-on-eks-starter-kit](./aws-samples-sample-genai-on-eks-starter-kit.md) | ⭐ 102 | JavaScript | 75/100 |
 | 92 | [zabbix/zabbix](./zabbix-zabbix.md) | ⭐ 6.6k | Go Template | 75/100 |
@@ -233,7 +233,7 @@
 | 223 | [pavlobu/deskreen](./pavlobu-deskreen.md) | ⭐ 21.4k | TypeScript | 67/100 |
 | 224 | [solana-foundation/templates](./solana-foundation-templates.md) | ⭐ 106 | TypeScript | 67/100 |
 | 225 | [NamesMT/starter-monorepo](./namesmt-starter-monorepo.md) | ⭐ 190 | Vue | 67/100 |
-| 226 | [ergebnis/php-package-template](./ergebnis-php-package-template.md) | ⭐ 311 | PHP | 67/100 |
+| 226 | [ergebnis/php-package-template](./ergebnis-php-package-template.md) | ⭐ 310 | PHP | 67/100 |
 | 227 | [bjw-s-labs/helm-charts](./bjw-s-labs-helm-charts.md) | ⭐ 1.1k | Go Template | 67/100 |
 | 228 | [Danielopol/Claude-Code-Playbooks](./danielopol-claude-code-playbooks.md) | ⭐ 68 | MDX | 67/100 |
 | 229 | [zopdev/helm-charts](./zopdev-helm-charts.md) | ⭐ 1.1k | Go Template | 67/100 |
@@ -327,7 +327,7 @@
 | 317 | [gaelcolas/Sampler](./gaelcolas-sampler.md) | ⭐ 245 | PowerShell | 62/100 |
 | 318 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 607 | Rust | 62/100 |
 | 319 | [microsoft/teams-agent-accelerator-templates](./microsoft-teams-agent-accelerator-templates.md) | ⭐ 95 | TypeScript | 62/100 |
-| 320 | [pulkitxm/claude-directory](./pulkitxm-claude-directory.md) | ⭐ 674 | HTML | 62/100 |
+| 320 | [pulkitxm/claude-directory](./pulkitxm-claude-directory.md) | ⭐ 682 | HTML | 62/100 |
 | 321 | [shinpr/mcp-image](./shinpr-mcp-image.md) | ⭐ 190 | TypeScript | 62/100 |
 | 322 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.8k | Go Template | 62/100 |
 | 323 | [WeAreAthlon/frontend-webpack-boilerplate](./weareathlon-frontend-webpack-boilerplate.md) | ⭐ 731 | HTML | 62/100 |

@@ -80,7 +80,7 @@
 | 70 | [ctrlaltvikas/awesome-bash-alias](./ctrlaltvikas-awesome-bash-alias.md) | ⭐ 246 | — | 65/100 |
 | 71 | [Pixeval/Pixeval](./pixeval-pixeval.md) | ⭐ 3.2k | C# | 65/100 |
 | 72 | [replydev/cotp](./replydev-cotp.md) | ⭐ 395 | Rust | 65/100 |
-| 73 | [reekta92/clin-rs](./reekta92-clin-rs.md) | ⭐ 588 | Rust | 65/100 |
+| 73 | [reekta92/clin-rs](./reekta92-clin-rs.md) | ⭐ 589 | Rust | 65/100 |
 | 74 | [altstackHQ/altstack-data](./altstackhq-altstack-data.md) | ⭐ 324 | Shell | 65/100 |
 | 75 | [journiv/journiv-app](./journiv-journiv-app.md) | ⭐ 1.3k | JavaScript | 65/100 |
 | 76 | [semantic-release/release-notes-generator](./semantic-release-release-notes-generator.md) | ⭐ 368 | JavaScript | 65/100 |
@@ -88,7 +88,7 @@
 | 78 | [surajverma/homehub](./surajverma-homehub.md) | ⭐ 1.3k | HTML | 64/100 |
 | 79 | [ranger/ranger](./ranger-ranger.md) | ⭐ 17.5k | Python | 64/100 |
 | 80 | [bgreenwell/xleak](./bgreenwell-xleak.md) | ⭐ 1.5k | Rust | 64/100 |
-| 81 | [XxMinor/mykvm](./xxminor-mykvm.md) | ⭐ 734 | Rust | 64/100 |
+| 81 | [XxMinor/mykvm](./xxminor-mykvm.md) | ⭐ 736 | Rust | 64/100 |
 | 82 | [nextcloud/notes-android](./nextcloud-notes-android.md) | ⭐ 1.1k | Java | 64/100 |
 | 83 | [ViscousPot/GitSync](./viscouspot-gitsync.md) | ⭐ 2.5k | Dart | 63/100 |
 | 84 | [kbrdn1/gwm-cli](./kbrdn1-gwm-cli.md) | ⭐ 150 | Rust | 63/100 |
@@ -199,7 +199,7 @@
 | 189 | [vietanhdev/ThinkUtils](./vietanhdev-thinkutils.md) | ⭐ 124 | Rust | 55/100 |
 | 190 | [FreesmTeam/FreesmLauncher](./freesmteam-freesmlauncher.md) | ⭐ 931 | C++ | 55/100 |
 | 191 | [ghost-him/ZeroLaunch-rs](./ghost-him-zerolaunch-rs.md) | ⭐ 583 | Rust | 55/100 |
-| 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 361 | Rust | 55/100 |
+| 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 362 | Rust | 55/100 |
 | 193 | [modrinth/code](./modrinth-code.md) | ⭐ 2.5k | Rust | 55/100 |
 | 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.8k | Rust | 55/100 |
 | 195 | [openbezal/rhema](./openbezal-rhema.md) | ⭐ 357 | TypeScript | 54/100 |
@@ -221,11 +221,11 @@
 | 211 | [deft-ui/deft](./deft-ui-deft.md) | ⭐ 213 | Rust | 52/100 |
 | 212 | [heroku/webapp-runner](./heroku-webapp-runner.md) | ⭐ 324 | Java | 52/100 |
 | 213 | [d12frosted/vulpea](./d12frosted-vulpea.md) | ⭐ 474 | Emacs Lisp | 52/100 |
-| 214 | [goweiwen/Allium](./goweiwen-allium.md) | ⭐ 395 | Rust | 52/100 |
+| 214 | [goweiwen/Allium](./goweiwen-allium.md) | ⭐ 396 | Rust | 52/100 |
 | 215 | [Mjoyufull/fsel](./mjoyufull-fsel.md) | ⭐ 487 | Rust | 52/100 |
 | 216 | [Akhouri-Anmol-Kumar/APIC](./akhouri-anmol-kumar-apic.md) | ⭐ 1 | — | 51/100 |
 | 217 | [CCBlueX/LiquidLauncher](./ccbluex-liquidlauncher.md) | ⭐ 290 | Rust | 51/100 |
-| 218 | [veloren/airshipper](./veloren-airshipper.md) | ⭐ 290 | Rust | 51/100 |
+| 218 | [veloren/airshipper](./veloren-airshipper.md) | ⭐ 289 | Rust | 51/100 |
 | 219 | [2e3s/awatcher](./2e3s-awatcher.md) | ⭐ 319 | Rust | 51/100 |
 | 220 | [MBulli/SmartCommandlineArgs](./mbulli-smartcommandlineargs.md) | ⭐ 106 | C# | 51/100 |
 | 221 | [chmouel/raffi](./chmouel-raffi.md) | ⭐ 122 | Rust | 51/100 |
@@ -270,7 +270,7 @@
 | 260 | [yibie/org-supertag](./yibie-org-supertag.md) | ⭐ 353 | Emacs Lisp | 48/100 |
 | 261 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 268 | Rust | 48/100 |
 | 262 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 1.6k | Shell | 48/100 |
-| 263 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 546 | C++ | 48/100 |
+| 263 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 545 | C++ | 48/100 |
 | 264 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 618 | Rust | 48/100 |
 | 265 | [beyluta/WinWidgets](./beyluta-winwidgets.md) | ⭐ 167 | C | 48/100 |
 | 266 | [StudentWeis/ropy](./studentweis-ropy.md) | ⭐ 205 | Rust | 48/100 |
@@ -307,14 +307,14 @@
 | 297 | [tomboy-notes/tomboy-ng](./tomboy-notes-tomboy-ng.md) | ⭐ 453 | Pascal | 45/100 |
 | 298 | [AstrBotDevs/astrbot-launcher](./astrbotdevs-astrbot-launcher.md) | ⭐ 2.7k | Rust | 45/100 |
 | 299 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 829 | Shell | 45/100 |
-| 300 | [nstlaurent/DoomLauncher](./nstlaurent-doomlauncher.md) | ⭐ 335 | C# | 45/100 |
+| 300 | [nstlaurent/DoomLauncher](./nstlaurent-doomlauncher.md) | ⭐ 336 | C# | 45/100 |
 | 301 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 475 | Kotlin | 45/100 |
 | 302 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 624 | QML | 45/100 |
 | 303 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 304 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 305 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
-| 307 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 307 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
 | 308 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 309 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 310 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |
@@ -361,8 +361,8 @@
 | 351 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 352 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 353 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 354 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
-| 355 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 354 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 355 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
 | 356 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 357 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.8k | — | 38/100 |
 | 358 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

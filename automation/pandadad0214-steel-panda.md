@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation
+Automation · AI/ML · DevTools · Observability · Mobile
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ pandadad0214/Steel_Panda: pandadad0214/Steel_Panda helps remove repetitive manua
 
 ### Русский
 
-pandadad0214/Steel_Panda: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+pandadad0214/Steel_Panda: open-source проект в категориях Automation, AI/ML, DevTools, Observability, Mobile. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,18 +64,18 @@ pandadad0214/Steel_Panda：pandadad0214/Steel_Panda helps remove repetitive manu
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 66/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 48/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 57/100 |
+| usefulness | 100/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -112,11 +112,11 @@
 | 102 | [github/copilot-sdk](./github-copilot-sdk.md) | ⭐ 10.7k | TypeScript | 62/100 |
 | 103 | [metasearchcomtr/feed-validator](./metasearchcomtr-feed-validator.md) | ⭐ — | TypeScript | 61/100 |
 | 104 | [abetlen/llama-cpp-python](./abetlen-llama-cpp-python.md) | ⭐ 10.6k | Python | 61/100 |
-| 105 | [lrstanley/go-ytdlp](./lrstanley-go-ytdlp.md) | ⭐ 330 | Go | 61/100 |
+| 105 | [lrstanley/go-ytdlp](./lrstanley-go-ytdlp.md) | ⭐ 331 | Go | 61/100 |
 | 106 | [airalab/robonomics](./airalab-robonomics.md) | ⭐ 228 | Rust | 61/100 |
 | 107 | [rusqlite/rusqlite](./rusqlite-rusqlite.md) | ⭐ 4.5k | Rust | 61/100 |
 | 108 | [supabase-community/supabase-csharp](./supabase-community-supabase-csharp.md) | ⭐ 692 | C# | 61/100 |
-| 109 | [idalib-rs/idalib](./idalib-rs-idalib.md) | ⭐ 353 | Rust | 61/100 |
+| 109 | [idalib-rs/idalib](./idalib-rs-idalib.md) | ⭐ 354 | Rust | 61/100 |
 | 110 | [nrfconnect/sdk-nrf](./nrfconnect-sdk-nrf.md) | ⭐ 1.5k | C | 61/100 |
 | 111 | [temporalio/samples-python](./temporalio-samples-python.md) | ⭐ 381 | Python | 61/100 |
 | 112 | [awslabs/amazon-kinesis-client](./awslabs-amazon-kinesis-client.md) | ⭐ 669 | Java | 61/100 |
@@ -176,7 +176,7 @@
 | 166 | [dotnet/macios](./dotnet-macios.md) | ⭐ 2.9k | C# | 57/100 |
 | 167 | [opencoredev/social-sdk](./opencoredev-social-sdk.md) | ⭐ 849 | — | 56/100 |
 | 168 | [Atostek/ros2-client](./atostek-ros2-client.md) | ⭐ 131 | Rust | 56/100 |
-| 169 | [birabittoh/NocturneRecomp](./birabittoh-nocturnerecomp.md) | ⭐ 427 | C++ | 56/100 |
+| 169 | [birabittoh/NocturneRecomp](./birabittoh-nocturnerecomp.md) | ⭐ 430 | C++ | 56/100 |
 | 170 | [denoland/rusty_v8](./denoland-rusty-v8.md) | ⭐ 4k | Rust | 56/100 |
 | 171 | [jellydn/zed-101-setup](./jellydn-zed-101-setup.md) | ⭐ 1.5k | TypeScript | 56/100 |
 | 172 | [bytecodealliance/wit-bindgen](./bytecodealliance-wit-bindgen.md) | ⭐ 1.5k | Rust | 56/100 |
@@ -214,7 +214,7 @@
 | 204 | [stepfunc/rodbus](./stepfunc-rodbus.md) | ⭐ 111 | Rust | 52/100 |
 | 205 | [apache/datasketches-rust](./apache-datasketches-rust.md) | ⭐ 145 | Rust | 52/100 |
 | 206 | [tensorflow/java](./tensorflow-java.md) | ⭐ 926 | Java | 52/100 |
-| 207 | [apple/pkl-go](./apple-pkl-go.md) | ⭐ 336 | Go | 52/100 |
+| 207 | [apple/pkl-go](./apple-pkl-go.md) | ⭐ 337 | Go | 52/100 |
 | 208 | [pola-rs/r-polars](./pola-rs-r-polars.md) | ⭐ 578 | R | 52/100 |
 | 209 | [mlir-rs/melior](./mlir-rs-melior.md) | ⭐ 559 | Rust | 52/100 |
 | 210 | [uhop/node-re2](./uhop-node-re2.md) | ⭐ 566 | JavaScript | 52/100 |

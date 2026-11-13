@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation
+AI/ML · Backend
 
 ## 📝 Summary
 
 ### English
 
-foisalislambd/wowrouter: foisalislambd/wowrouter helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+foisalislambd/wowrouter: foisalislambd/wowrouter helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-foisalislambd/wowrouter: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+foisalislambd/wowrouter: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-foisalislambd/wowrouter：foisalislambd/wowrouter helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+foisalislambd/wowrouter：foisalislambd/wowrouter helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** foisalislambd/wowrouter helps remove repetitive manual operations from a workflow.
+**Value:** foisalislambd/wowrouter helps add AI capability without starting from a blank model stack.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,19 +65,19 @@ foisalislambd/wowrouter：foisalislambd/wowrouter helps remove repetitive manual
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 64/100 |
-| adoption | 15/100 |
-| categoryMatchCount | 100/100 |
-| stars | 15/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| stars | 15/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 52/100 |
+| recency | 80/100 |
+| adoption | 15/100 |
+| production | 61/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/foisalislambd/wowrouter) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/foisalislambd/wowrouter) · [← Back to AI/ML](./README.md)</sub>

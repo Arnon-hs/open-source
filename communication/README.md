@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -110,7 +110,7 @@
 | 100 | [monal-im/Monal](./monal-im-monal.md) | ⭐ 688 | Objective-C | 64/100 |
 | 101 | [deriv-security/MeetC2](./deriv-security-meetc2.md) | ⭐ 145 | Go | 63/100 |
 | 102 | [Obiente/nc-native](./obiente-nc-native.md) | ⭐ 225 | Kotlin | 63/100 |
-| 103 | [maathimself/mailflow](./maathimself-mailflow.md) | ⭐ 680 | JavaScript | 63/100 |
+| 103 | [maathimself/mailflow](./maathimself-mailflow.md) | ⭐ 684 | JavaScript | 63/100 |
 | 104 | [meli/meli](./meli-meli.md) | ⭐ 898 | Rust | 63/100 |
 | 105 | [krishn404/Git-Friend](./krishn404-git-friend.md) | ⭐ 599 | TypeScript | 63/100 |
 | 106 | [disposable-email-domains/disposable-email-domains](./disposable-email-domains-disposable-email-domains.md) | ⭐ 5.7k | Python | 63/100 |
@@ -124,7 +124,7 @@
 | 114 | [keybase/client](./keybase-client.md) | ⭐ 9.3k | Go | 63/100 |
 | 115 | [vkpdeveloper/calsdk](./vkpdeveloper-calsdk.md) | ⭐ 8 | — | 62/100 |
 | 116 | [simple-login/app](./simple-login-app.md) | ⭐ 7.1k | Python | 62/100 |
-| 117 | [kcsujeet/ilamy-calendar](./kcsujeet-ilamy-calendar.md) | ⭐ 355 | TypeScript | 62/100 |
+| 117 | [kcsujeet/ilamy-calendar](./kcsujeet-ilamy-calendar.md) | ⭐ 356 | TypeScript | 62/100 |
 | 118 | [mjl-/mox](./mjl--mox.md) | ⭐ 5.9k | Go | 62/100 |
 | 119 | [zoff99/ToxAndroidRefImpl](./zoff99-toxandroidrefimpl.md) | ⭐ 350 | C | 62/100 |
 | 120 | [BurntSushi/jiff](./burntsushi-jiff.md) | ⭐ 3k | Rust | 62/100 |
@@ -228,7 +228,7 @@
 | 218 | [Medvedev91/timeto.me](./medvedev91-timeto.me.md) | ⭐ 732 | Kotlin | 55/100 |
 | 219 | [jmhobbs/cultofthepartyparrot.com](./jmhobbs-cultofthepartyparrot.com.md) | ⭐ 1.6k | HTML | 55/100 |
 | 220 | [microsoft/LangChain4j-for-Beginners](./microsoft-langchain4j-for-beginners.md) | ⭐ 558 | Java | 55/100 |
-| 221 | [appleboy/go-fcm](./appleboy-go-fcm.md) | ⭐ 330 | Go | 55/100 |
+| 221 | [appleboy/go-fcm](./appleboy-go-fcm.md) | ⭐ 331 | Go | 55/100 |
 | 222 | [Sharkord/sharkord](./sharkord-sharkord.md) | ⭐ 1.6k | TypeScript | 55/100 |
 | 223 | [jerryxff26-alt/dsh-delivery-board](./jerryxff26-alt-dsh-delivery-board.md) | ⭐ 4 | JavaScript | 54/100 |
 | 224 | [codeswithroh/baad-mein](./codeswithroh-baad-mein.md) | ⭐ — | TypeScript | 54/100 |

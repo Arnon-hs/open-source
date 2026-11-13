@@ -204,7 +204,7 @@
 | 194 | [charmbracelet/skate](./charmbracelet-skate.md) | ⭐ 1.9k | Go | 56/100 |
 | 195 | [replikativ/datahike](./replikativ-datahike.md) | ⭐ 1.9k | Clojure | 56/100 |
 | 196 | [builtbybel/FluentCleaner](./builtbybel-fluentcleaner.md) | ⭐ 7.1k | C# | 56/100 |
-| 197 | [confluentinc/ksql](./confluentinc-ksql.md) | ⭐ 316 | Java | 56/100 |
+| 197 | [confluentinc/ksql](./confluentinc-ksql.md) | ⭐ 317 | Java | 56/100 |
 | 198 | [rustsec/advisory-db](./rustsec-advisory-db.md) | ⭐ 1.2k | — | 56/100 |
 | 199 | [mongodb-js/boxednode](./mongodb-js-boxednode.md) | ⭐ 658 | TypeScript | 56/100 |
 | 200 | [adysec/IP_database](./adysec-ip-database.md) | ⭐ 748 | HTML | 56/100 |
@@ -554,8 +554,8 @@
 | 544 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 545 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 546 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 435 | — | 38/100 |
-| 547 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
-| 548 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
+| 547 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
+| 548 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
 | 549 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 550 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 551 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |

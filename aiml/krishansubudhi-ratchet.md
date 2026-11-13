@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation
+AI/ML
 
 ## 📝 Summary
 
 ### English
 
-krishansubudhi/ratchet: krishansubudhi/ratchet helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+krishansubudhi/ratchet: krishansubudhi/ratchet helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-krishansubudhi/ratchet: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+krishansubudhi/ratchet: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-krishansubudhi/ratchet：krishansubudhi/ratchet helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+krishansubudhi/ratchet：krishansubudhi/ratchet helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** krishansubudhi/ratchet helps remove repetitive manual operations from a workflow.
+**Value:** krishansubudhi/ratchet helps add AI capability without starting from a blank model stack.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,19 +64,19 @@ krishansubudhi/ratchet：krishansubudhi/ratchet helps remove repetitive manual o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 59/100 |
-| adoption | 11/100 |
-| categoryMatchCount | 100/100 |
-| stars | 15/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 15/100 |
 | topics | 100/100 |
+| outlook | 59/100 |
+| quality | 50/100 |
+| recency | 80/100 |
+| adoption | 11/100 |
+| production | 58/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/krishansubudhi/ratchet) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/krishansubudhi/ratchet) · [← Back to AI/ML](./README.md)</sub>
