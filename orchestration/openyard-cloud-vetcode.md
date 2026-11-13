@@ -1,6 +1,6 @@
 # openyard-cloud/vetcode
 
-[![Stars](https://img.shields.io/github/stars/openyard-cloud/vetcode?style=flat-square&color=yellow)](https://github.com/openyard-cloud/vetcode/stargazers) [![Forks](https://img.shields.io/github/forks/openyard-cloud/vetcode?style=flat-square&color=blue)](https://github.com/openyard-cloud/vetcode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openyard-cloud/vetcode?style=flat-square&color=yellow)](https://github.com/openyard-cloud/vetcode/stargazers) [![Forks](https://img.shields.io/github/forks/openyard-cloud/vetcode?style=flat-square&color=blue)](https://github.com/openyard-cloud/vetcode/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-62%2F100-brightgreen?style=flat-square)](#)
 
 > Catch malicious npm/PyPI packages, supply-chain attacks and leaked secrets. Beats GuardDog on fresh samples (F1 96.1 vs 93.0, 4× fewer false alarms). Zero deps: CLI, MCP, Agent Skill, GitHub Action.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 65/100 |
+| 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ openyard-cloud/vetcode：openyard-cloud/vetcode helps turn isolated prompts and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 72/100 |
+| production | 60/100 |
+| outlook | 65/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 500/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

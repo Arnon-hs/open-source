@@ -341,8 +341,8 @@
 | 331 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 332 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 333 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 334 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
-| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 334 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
 | 336 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 337 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 338 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -367,7 +367,7 @@
 | 357 | [AtalayaLabs/OxiCloud](./atalayalabs-oxicloud.md) | ⭐ 3.7k | Rust | 58/100 |
 | 358 | [linkerd/linkerd2](./linkerd-linkerd2.md) | ⭐ 11.5k | Go | 58/100 |
 | 359 | [David-Crty/databasement](./david-crty-databasement.md) | ⭐ 2.6k | PHP | 58/100 |
-| 360 | [shuaiplus/nodewarden](./shuaiplus-nodewarden.md) | ⭐ 4.1k | TypeScript | 58/100 |
+| 360 | [shuaiplus/nodewarden](./shuaiplus-nodewarden.md) | ⭐ 4.2k | TypeScript | 58/100 |
 | 361 | [treeverse/lakeFS](./treeverse-lakefs.md) | ⭐ 5.6k | Go | 58/100 |
 | 362 | [kedacore/keda](./kedacore-keda.md) | ⭐ 10.7k | Go | 58/100 |
 | 363 | [jonico/awesome-runners](./jonico-awesome-runners.md) | ⭐ 910 | SCSS | 58/100 |
@@ -491,8 +491,8 @@
 | 481 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 447 | Go | 52/100 |
 | 482 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 483 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
-| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 484 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
 | 486 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 62 | Python | 51/100 |
 | 487 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 490 | Jupyter Notebook | 51/100 |
 | 488 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |

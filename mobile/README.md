@@ -162,8 +162,8 @@
 | 152 | [jiangtian616/JHenTai](./jiangtian616-jhentai.md) | ⭐ 5.8k | Dart | 59/100 |
 | 153 | [komikku-app/komikku](./komikku-app-komikku.md) | ⭐ 5k | Kotlin | 59/100 |
 | 154 | [florisboard/florisboard](./florisboard-florisboard.md) | ⭐ 8.8k | Kotlin | 59/100 |
-| 155 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
-| 156 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.9k | Kotlin | 59/100 |
+| 155 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.9k | Kotlin | 59/100 |
+| 156 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
 | 157 | [bonigarcia/mastering-junit5](./bonigarcia-mastering-junit5.md) | ⭐ 430 | Java | 59/100 |
 | 158 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.8k | Java | 59/100 |
 | 159 | [patrykandpatrick/vico](./patrykandpatrick-vico.md) | ⭐ 3.2k | Kotlin | 59/100 |
@@ -207,7 +207,7 @@
 | 197 | [opengisch/QField](./opengisch-qfield.md) | ⭐ 1.4k | C++ | 58/100 |
 | 198 | [nekomangaorg/Neko](./nekomangaorg-neko.md) | ⭐ 2.8k | Kotlin | 58/100 |
 | 199 | [claration/Impactor](./claration-impactor.md) | ⭐ 3.8k | Rust | 58/100 |
-| 200 | [nab138/iloader](./nab138-iloader.md) | ⭐ 4.8k | TypeScript | 58/100 |
+| 200 | [nab138/iloader](./nab138-iloader.md) | ⭐ 4.9k | TypeScript | 58/100 |
 | 201 | [krvstek/uni-apks](./krvstek-uni-apks.md) | ⭐ 684 | Python | 58/100 |
 | 202 | [Radiokot/photoprism-android-client](./radiokot-photoprism-android-client.md) | ⭐ 620 | Kotlin | 58/100 |
 | 203 | [Snapchat/Valdi](./snapchat-valdi.md) | ⭐ 16.4k | C++ | 58/100 |
@@ -275,8 +275,8 @@
 | 265 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 266 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 267 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 268 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
-| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
+| 268 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
+| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 634 | Python | 55/100 |
 | 272 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
@@ -524,8 +524,8 @@
 | 514 | [sspanak/tt9](./sspanak-tt9.md) | ⭐ 520 | Java | 44/100 |
 | 515 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 548 | Kotlin | 44/100 |
 | 516 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 22 | Kotlin | 43/100 |
-| 517 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
-| 518 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 989 | — | 43/100 |
+| 517 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 989 | — | 43/100 |
+| 518 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
 | 519 | [kuscholar/iDeck](./kuscholar-ideck.md) | ⭐ 398 | C | 43/100 |
 | 520 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 2 | JavaScript | 43/100 |
 | 521 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 10 | Kotlin | 43/100 |
@@ -552,7 +552,7 @@
 | 542 | [chocoford/ExcalidrawZ](./chocoford-excalidrawz.md) | ⭐ 1.5k | — | 41/100 |
 | 543 | [Ninnix/lokey](./ninnix-lokey.md) | ⭐ 7 | — | 41/100 |
 | 544 | [bsidio/OpenVaccum](./bsidio-openvaccum.md) | ⭐ 2 | — | 41/100 |
-| 545 | [kbr-/kotlean](./kbr--kotlean.md) | ⭐ 1 | — | 41/100 |
+| 545 | [kbr-/kotlean](./kbr--kotlean.md) | ⭐ 4 | — | 41/100 |
 | 546 | [kolbicz/WQFiles](./kolbicz-wqfiles.md) | ⭐ 704 | — | 41/100 |
 | 547 | [pounceandmiss/tkabber-demo](./pounceandmiss-tkabber-demo.md) | ⭐ 1 | — | 41/100 |
 | 548 | [LuKks/webrtc-runtime](./lukks-webrtc-runtime.md) | ⭐ 1 | — | 41/100 |

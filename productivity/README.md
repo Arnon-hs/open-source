@@ -313,8 +313,8 @@
 | 303 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 304 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 305 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
-| 307 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 307 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
 | 308 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 309 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 310 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |
@@ -360,8 +360,8 @@
 | 350 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 351 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 352 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 353 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
-| 354 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 353 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 354 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
 | 355 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 356 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.8k | — | 38/100 |
 | 357 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

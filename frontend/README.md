@@ -2,7 +2,7 @@
 
 > Web frameworks, UI libraries, browser tooling
 
-**941 projects** in this category.
+**942 projects** in this category.
 
 ## Projects
 
@@ -518,8 +518,8 @@
 | 508 | [sveltejs/eslint-plugin-svelte](./sveltejs-eslint-plugin-svelte.md) | ⭐ 413 | TypeScript | 59/100 |
 | 509 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 893 | TypeScript | 59/100 |
 | 510 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 815 | TypeScript | 59/100 |
-| 511 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
-| 512 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 511 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 512 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 513 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 514 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 360 | TypeScript | 59/100 |
 | 515 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 676 | Rust | 59/100 |
@@ -756,8 +756,8 @@
 | 746 | [sanusart/react-dropdown-select](./sanusart-react-dropdown-select.md) | ⭐ 365 | JavaScript | 54/100 |
 | 747 | [blackfyre/wga](./blackfyre-wga.md) | ⭐ 193 | Go | 54/100 |
 | 748 | [IT-BAER/proxmorph](./it-baer-proxmorph.md) | ⭐ 637 | CSS | 54/100 |
-| 749 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 885 | Rust | 54/100 |
-| 750 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
+| 749 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
+| 750 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 885 | Rust | 54/100 |
 | 751 | [coi/coi](./coi-coi.md) | ⭐ 568 | C++ | 54/100 |
 | 752 | [lvzhenbo/115-plus-desktop](./lvzhenbo-115-plus-desktop.md) | ⭐ 385 | Rust | 54/100 |
 | 753 | [rust-ui/ui](./rust-ui-ui.md) | ⭐ 815 | Rust | 54/100 |
@@ -909,46 +909,47 @@
 | 899 | [dhutaryan/ngx-signal-query](./dhutaryan-ngx-signal-query.md) | ⭐ 10 | — | 42/100 |
 | 900 | [11suixing11/mindnotes-pro](./11suixing11-mindnotes-pro.md) | ⭐ 13 | — | 42/100 |
 | 901 | [webview-native-ui/cordova-plugin](./webview-native-ui-cordova-plugin.md) | ⭐ — | JavaScript | 42/100 |
-| 902 | [alentodorov/casa-browser](./alentodorov-casa-browser.md) | ⭐ — | — | 41/100 |
-| 903 | [Deonkar/parkease](./deonkar-parkease.md) | ⭐ — | TypeScript | 41/100 |
-| 904 | [alexusmai/vue-laravel-file-manager](./alexusmai-vue-laravel-file-manager.md) | ⭐ 371 | JavaScript | 41/100 |
-| 905 | [emirmrkaljevic/shrinkwatch-eu](./emirmrkaljevic-shrinkwatch-eu.md) | ⭐ — | JavaScript | 41/100 |
-| 906 | [vyshakh/react-jsonschema-ui](./vyshakh-react-jsonschema-ui.md) | ⭐ 2 | — | 41/100 |
-| 907 | [emirmrkaljevic/truediscount](./emirmrkaljevic-truediscount.md) | ⭐ — | JavaScript | 41/100 |
-| 908 | [ndop-ui/ui](./ndop-ui-ui.md) | ⭐ 11 | — | 41/100 |
-| 909 | [BernardoGiordano/srl](./bernardogiordano-srl.md) | ⭐ 6 | — | 41/100 |
-| 910 | [shader-effects-inc/shaders](./shader-effects-inc-shaders.md) | ⭐ 5.9k | — | 41/100 |
-| 911 | [hyper-serve/video-uploader](./hyper-serve-video-uploader.md) | ⭐ 3 | — | 41/100 |
-| 912 | [TiltedLunar123/clearline](./tiltedlunar123-clearline.md) | ⭐ 2 | JavaScript | 41/100 |
-| 913 | [spiritov/ds.css](./spiritov-ds.css.md) | ⭐ 612 | — | 41/100 |
-| 914 | [zxcfrancyz/steam-currency-converter](./zxcfrancyz-steam-currency-converter.md) | ⭐ — | JavaScript | 41/100 |
-| 915 | [ui-layouts/cursify](./ui-layouts-cursify.md) | ⭐ 2.1k | — | 40/100 |
-| 916 | [sajjadcodes/baloot-neomorphic-ui](./sajjadcodes-baloot-neomorphic-ui.md) | ⭐ 1 | TypeScript | 40/100 |
-| 917 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 65 | Java | 40/100 |
-| 918 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ 43 | — | 39/100 |
-| 919 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ 4 | — | 39/100 |
-| 920 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ 16 | — | 39/100 |
-| 921 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
-| 922 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
-| 923 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
-| 924 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ 11 | — | 39/100 |
-| 925 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |
-| 926 | [Lanthanum89/dev.to-Frontend-Challenge-Comfort-Food-Edition](./lanthanum89-dev.to-frontend-challenge-comfort-food-edition.md) | ⭐ — | — | 39/100 |
-| 927 | [nobuo-miura/github-ui-translator](./nobuo-miura-github-ui-translator.md) | ⭐ 19 | — | 39/100 |
-| 928 | [paladini/aa-daily-reflections-database](./paladini-aa-daily-reflections-database.md) | ⭐ 2 | JavaScript | 39/100 |
-| 929 | [hub-env/ng-hub-ui-paginable](./hub-env-ng-hub-ui-paginable.md) | ⭐ 2 | TypeScript | 38/100 |
-| 930 | [Shadorux/shadow-the-hedgehog-css](./shadorux-shadow-the-hedgehog-css.md) | ⭐ — | HTML | 37/100 |
-| 931 | [viditx/sketchmorphism](./viditx-sketchmorphism.md) | ⭐ 2 | HTML | 37/100 |
-| 932 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ 59 | — | 37/100 |
-| 933 | [kagrawal61/rn-bundle-swapper](./kagrawal61-rn-bundle-swapper.md) | ⭐ 19 | TypeScript | 36/100 |
-| 934 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 34/100 |
-| 935 | [ravikisha/relaxicons](./ravikisha-relaxicons.md) | ⭐ 2 | JavaScript | 33/100 |
-| 936 | [Aditya8369/CampusQuest](./aditya8369-campusquest.md) | ⭐ — | CSS | 32/100 |
-| 937 | [aadifit/tdee-calc](./aadifit-tdee-calc.md) | ⭐ — | JavaScript | 31/100 |
-| 938 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ 2 | — | 30/100 |
-| 939 | [lillygrace-l/touchwood](./lillygrace-l-touchwood.md) | ⭐ — | JavaScript | 30/100 |
-| 940 | [shadcn/ui](./shadcn-ui.md) | ⭐ — | — | 27/100 |
-| 941 | [react-native-svg/react-native-svg](./react-native-svg-react-native-svg.md) | ⭐ — | — | 27/100 |
+| 902 | [graiz/kittybrowser](./graiz-kittybrowser.md) | ⭐ — | — | 41/100 |
+| 903 | [alentodorov/casa-browser](./alentodorov-casa-browser.md) | ⭐ — | — | 41/100 |
+| 904 | [Deonkar/parkease](./deonkar-parkease.md) | ⭐ — | TypeScript | 41/100 |
+| 905 | [alexusmai/vue-laravel-file-manager](./alexusmai-vue-laravel-file-manager.md) | ⭐ 371 | JavaScript | 41/100 |
+| 906 | [emirmrkaljevic/shrinkwatch-eu](./emirmrkaljevic-shrinkwatch-eu.md) | ⭐ — | JavaScript | 41/100 |
+| 907 | [vyshakh/react-jsonschema-ui](./vyshakh-react-jsonschema-ui.md) | ⭐ 2 | — | 41/100 |
+| 908 | [emirmrkaljevic/truediscount](./emirmrkaljevic-truediscount.md) | ⭐ — | JavaScript | 41/100 |
+| 909 | [ndop-ui/ui](./ndop-ui-ui.md) | ⭐ 11 | — | 41/100 |
+| 910 | [BernardoGiordano/srl](./bernardogiordano-srl.md) | ⭐ 6 | — | 41/100 |
+| 911 | [shader-effects-inc/shaders](./shader-effects-inc-shaders.md) | ⭐ 5.9k | — | 41/100 |
+| 912 | [hyper-serve/video-uploader](./hyper-serve-video-uploader.md) | ⭐ 3 | — | 41/100 |
+| 913 | [TiltedLunar123/clearline](./tiltedlunar123-clearline.md) | ⭐ 2 | JavaScript | 41/100 |
+| 914 | [spiritov/ds.css](./spiritov-ds.css.md) | ⭐ 612 | — | 41/100 |
+| 915 | [zxcfrancyz/steam-currency-converter](./zxcfrancyz-steam-currency-converter.md) | ⭐ — | JavaScript | 41/100 |
+| 916 | [ui-layouts/cursify](./ui-layouts-cursify.md) | ⭐ 2.1k | — | 40/100 |
+| 917 | [sajjadcodes/baloot-neomorphic-ui](./sajjadcodes-baloot-neomorphic-ui.md) | ⭐ 1 | TypeScript | 40/100 |
+| 918 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 65 | Java | 40/100 |
+| 919 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ 43 | — | 39/100 |
+| 920 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ 4 | — | 39/100 |
+| 921 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ 16 | — | 39/100 |
+| 922 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
+| 923 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
+| 924 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
+| 925 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ 11 | — | 39/100 |
+| 926 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |
+| 927 | [Lanthanum89/dev.to-Frontend-Challenge-Comfort-Food-Edition](./lanthanum89-dev.to-frontend-challenge-comfort-food-edition.md) | ⭐ — | — | 39/100 |
+| 928 | [nobuo-miura/github-ui-translator](./nobuo-miura-github-ui-translator.md) | ⭐ 19 | — | 39/100 |
+| 929 | [paladini/aa-daily-reflections-database](./paladini-aa-daily-reflections-database.md) | ⭐ 2 | JavaScript | 39/100 |
+| 930 | [hub-env/ng-hub-ui-paginable](./hub-env-ng-hub-ui-paginable.md) | ⭐ 2 | TypeScript | 38/100 |
+| 931 | [Shadorux/shadow-the-hedgehog-css](./shadorux-shadow-the-hedgehog-css.md) | ⭐ — | HTML | 37/100 |
+| 932 | [viditx/sketchmorphism](./viditx-sketchmorphism.md) | ⭐ 2 | HTML | 37/100 |
+| 933 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ 59 | — | 37/100 |
+| 934 | [kagrawal61/rn-bundle-swapper](./kagrawal61-rn-bundle-swapper.md) | ⭐ 19 | TypeScript | 36/100 |
+| 935 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 34/100 |
+| 936 | [ravikisha/relaxicons](./ravikisha-relaxicons.md) | ⭐ 2 | JavaScript | 33/100 |
+| 937 | [Aditya8369/CampusQuest](./aditya8369-campusquest.md) | ⭐ — | CSS | 32/100 |
+| 938 | [aadifit/tdee-calc](./aadifit-tdee-calc.md) | ⭐ — | JavaScript | 31/100 |
+| 939 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ 2 | — | 30/100 |
+| 940 | [lillygrace-l/touchwood](./lillygrace-l-touchwood.md) | ⭐ — | JavaScript | 30/100 |
+| 941 | [shadcn/ui](./shadcn-ui.md) | ⭐ — | — | 27/100 |
+| 942 | [react-native-svg/react-native-svg](./react-native-svg-react-native-svg.md) | ⭐ — | — | 27/100 |
 
 ---
 

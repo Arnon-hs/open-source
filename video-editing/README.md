@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [kajisho5/ffmpeg-skill](./kajisho5-ffmpeg-skill.md) | ⭐ 5.1k | Python | 89/100 |
+| 1 | [kajisho5/ffmpeg-skill](./kajisho5-ffmpeg-skill.md) | ⭐ 5.3k | Python | 89/100 |
 | 2 | [nexu-io/openmotion](./nexu-io-openmotion.md) | ⭐ 9.6k | TypeScript | 87/100 |
 | 3 | [OpenMontageInc/OpenMontage](./openmontageinc-openmontage.md) | ⭐ 80k | Python | 87/100 |
 | 4 | [modelscope/FunASR](./modelscope-funasr.md) | ⭐ 21k | Python | 86/100 |
@@ -585,7 +585,7 @@
 | 575 | [omanshchoudhary/briareus](./omanshchoudhary-briareus.md) | ⭐ 5 | — | 47/100 |
 | 576 | [sunerpy/voltip](./sunerpy-voltip.md) | ⭐ 102 | Rust | 47/100 |
 | 577 | [nirmaljosephukken/pylon-player](./nirmaljosephukken-pylon-player.md) | ⭐ 66 | Python | 47/100 |
-| 578 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 5.6k | TypeScript | 47/100 |
+| 578 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 5.7k | TypeScript | 47/100 |
 | 579 | [prometheus-maker/corpusdiff](./prometheus-maker-corpusdiff.md) | ⭐ — | Python | 47/100 |
 | 580 | [manish7017/Whisper-FFmpeg-Transcriber-](./manish7017-whisper-ffmpeg-transcriber-.md) | ⭐ — | Python | 46/100 |
 | 581 | [cclank/lanshu-create-ai-presenter-video](./cclank-lanshu-create-ai-presenter-video.md) | ⭐ 3k | — | 46/100 |

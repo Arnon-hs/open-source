@@ -145,7 +145,7 @@
 | 135 | [phw198/OutlookGoogleCalendarSync](./phw198-outlookgooglecalendarsync.md) | ⭐ 2.2k | C# | 61/100 |
 | 136 | [add2cal/add-to-calendar-button](./add2cal-add-to-calendar-button.md) | ⭐ 1.5k | JavaScript | 61/100 |
 | 137 | [slackhq/foundry](./slackhq-foundry.md) | ⭐ 480 | Kotlin | 61/100 |
-| 138 | [postalsys/emailengine](./postalsys-emailengine.md) | ⭐ 2.2k | JavaScript | 61/100 |
+| 138 | [postalsys/emailengine](./postalsys-emailengine.md) | ⭐ 2.3k | JavaScript | 61/100 |
 | 139 | [RocketChat/Rocket.Chat.ReactNative](./rocketchat-rocket.chat.reactnative.md) | ⭐ 2.4k | TypeScript | 61/100 |
 | 140 | [stoatchat/stoatchat](./stoatchat-stoatchat.md) | ⭐ 3.5k | Rust | 61/100 |
 | 141 | [bulwarkmail/webmail](./bulwarkmail-webmail.md) | ⭐ 1.5k | TypeScript | 61/100 |

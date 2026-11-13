@@ -403,7 +403,7 @@
 | 393 | [jiangzhe/doradb](./jiangzhe-doradb.md) | ⭐ 122 | Rust | 45/100 |
 | 394 | [gizmodata/gizmosql](./gizmodata-gizmosql.md) | ⭐ 377 | C++ | 45/100 |
 | 395 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 45/100 |
-| 396 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.5k | — | 45/100 |
+| 396 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.6k | — | 45/100 |
 | 397 | [tastyware/streaq](./tastyware-streaq.md) | ⭐ 172 | — | 44/100 |
 | 398 | [imaradesk/doveorm](./imaradesk-doveorm.md) | ⭐ 1 | — | 44/100 |
 | 399 | [FriendsOfPHP/security-advisories](./friendsofphp-security-advisories.md) | ⭐ 2.1k | PHP | 44/100 |
@@ -444,7 +444,7 @@
 | 434 | [sseemayer/keepass-rs](./sseemayer-keepass-rs.md) | ⭐ 177 | Rust | 42/100 |
 | 435 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 341 | R | 42/100 |
 | 436 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 251 | Rust | 42/100 |
-| 437 | [geldata/gel](./geldata-gel.md) | ⭐ — | — | 41/100 |
+| 437 | [geldata/gel](./geldata-gel.md) | ⭐ 14.2k | — | 41/100 |
 | 438 | [swiftstream/Duck](./swiftstream-duck.md) | ⭐ 1 | — | 41/100 |
 | 439 | [barddoo/tsfm-pg](./barddoo-tsfm-pg.md) | ⭐ 1 | — | 41/100 |
 | 440 | [joao00001/pg-regression-radar](./joao00001-pg-regression-radar.md) | ⭐ 9 | — | 41/100 |
@@ -573,8 +573,8 @@
 | 563 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 564 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 565 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 566 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
-| 567 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
+| 566 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
+| 567 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
 | 568 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 569 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 570 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |

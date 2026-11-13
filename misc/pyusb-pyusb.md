@@ -51,7 +51,7 @@ pyusb/pyusb：pyusb/pyusb may be useful when its README and activity match a con
 
 **Quality signals**
 
-- 2316 GitHub stars
+- 2317 GitHub stars
 - 672 forks
 - updated 2026-11-03
 - primary language: Python

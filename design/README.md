@@ -114,7 +114,7 @@
 | 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 539 | Shell | 49/100 |
 | 105 | [kzhrknt/awesome-design-md-jp](./kzhrknt-awesome-design-md-jp.md) | ⭐ 1k | HTML | 49/100 |
 | 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 555 | Python | 49/100 |
-| 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.1k | Ruby | 49/100 |
+| 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.2k | Ruby | 49/100 |
 | 108 | [pixel-point/toolcraft](./pixel-point-toolcraft.md) | ⭐ 1.1k | — | 48/100 |
 | 109 | [victorzhang016-code/victor-design](./victorzhang016-code-victor-design.md) | ⭐ 71 | JavaScript | 48/100 |
 | 110 | [everfu/hexo-theme-solitude](./everfu-hexo-theme-solitude.md) | ⭐ 1.2k | Stylus | 48/100 |
