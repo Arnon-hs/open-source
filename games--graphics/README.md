@@ -73,7 +73,7 @@
 | 63 | [google/swiftshader](./google-swiftshader.md) | ⭐ 2.6k | C++ | 62/100 |
 | 64 | [openfl/lime](./openfl-lime.md) | ⭐ 857 | JavaScript | 62/100 |
 | 65 | [2shady4u/godot-sqlite](./2shady4u-godot-sqlite.md) | ⭐ 1.5k | C++ | 62/100 |
-| 66 | [CaffeineMC/sodium](./caffeinemc-sodium.md) | ⭐ 5.8k | Java | 62/100 |
+| 66 | [CaffeineMC/sodium](./caffeinemc-sodium.md) | ⭐ 5.9k | Java | 62/100 |
 | 67 | [Quenty/NevermoreEngine](./quenty-nevermoreengine.md) | ⭐ 634 | Lua | 62/100 |
 | 68 | [wolfpld/tracy](./wolfpld-tracy.md) | ⭐ 17.1k | C++ | 62/100 |
 | 69 | [thi-ng/umbrella](./thi-ng-umbrella.md) | ⭐ 3.8k | TypeScript | 62/100 |
@@ -158,7 +158,7 @@
 | 148 | [google/angle](./google-angle.md) | ⭐ 4.1k | C++ | 58/100 |
 | 149 | [ggez/ggez](./ggez-ggez.md) | ⭐ 4.7k | Rust | 58/100 |
 | 150 | [appsinacup/godot-rapier-physics](./appsinacup-godot-rapier-physics.md) | ⭐ 1k | Rust | 58/100 |
-| 151 | [KaijuEngine/kaiju](./kaijuengine-kaiju.md) | ⭐ 4.8k | Go | 58/100 |
+| 151 | [KaijuEngine/kaiju](./kaijuengine-kaiju.md) | ⭐ 4.7k | Go | 58/100 |
 | 152 | [clockworklabs/SpacetimeDB](./clockworklabs-spacetimedb.md) | ⭐ 25.5k | Rust | 58/100 |
 | 153 | [dodorare/crossbow](./dodorare-crossbow.md) | ⭐ 213 | Rust | 57/100 |
 | 154 | [racenis/tram-sdk](./racenis-tram-sdk.md) | ⭐ 417 | C++ | 57/100 |
@@ -291,7 +291,7 @@
 | 281 | [crownengine/crown](./crownengine-crown.md) | ⭐ 2.5k | C++ | 49/100 |
 | 282 | [ousnius/BodySlide-and-Outfit-Studio](./ousnius-bodyslide-and-outfit-studio.md) | ⭐ 374 | C++ | 49/100 |
 | 283 | [novelrt/NovelRT](./novelrt-novelrt.md) | ⭐ 218 | C++ | 49/100 |
-| 284 | [DioxusLabs/blitz](./dioxuslabs-blitz.md) | ⭐ 4.4k | Rust | 49/100 |
+| 284 | [DioxusLabs/blitz](./dioxuslabs-blitz.md) | ⭐ 4.5k | Rust | 49/100 |
 | 285 | [ikemen-engine/Ikemen-GO](./ikemen-engine-ikemen-go.md) | ⭐ 1.7k | Go | 49/100 |
 | 286 | [amirrajan/9e71d13f3108e5e66ebc98c752337ca5](./amirrajan-9e71d13f3108e5e66ebc98c752337ca5.md) | ⭐ — | — | 48/100 |
 | 287 | [freeorion/freeorion](./freeorion-freeorion.md) | ⭐ 1.1k | C++ | 48/100 |

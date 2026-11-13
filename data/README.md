@@ -34,7 +34,7 @@
 | 24 | [trekhleb/javascript-algorithms](./trekhleb-javascript-algorithms.md) | ⭐ 196.7k | JavaScript | 69/100 |
 | 25 | [networkx/networkx](./networkx-networkx.md) | ⭐ 17.4k | Python | 69/100 |
 | 26 | [apache/spark](./apache-spark.md) | ⭐ 44.5k | Scala | 69/100 |
-| 27 | [foru17/neko-master](./foru17-neko-master.md) | ⭐ 4.3k | TypeScript | 68/100 |
+| 27 | [foru17/neko-master](./foru17-neko-master.md) | ⭐ 4.4k | TypeScript | 68/100 |
 | 28 | [scipy/scipy](./scipy-scipy.md) | ⭐ 15.2k | Python | 68/100 |
 | 29 | [warp-drive-data/warp-drive](./warp-drive-data-warp-drive.md) | ⭐ 3.2k | TypeScript | 68/100 |
 | 30 | [intel/pcm](./intel-pcm.md) | ⭐ 3.4k | C++ | 68/100 |

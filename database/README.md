@@ -366,7 +366,7 @@
 | 356 | [sabaka-chabaka/SabaMemDB](./sabaka-chabaka-sabamemdb.md) | ⭐ 8 | C# | 46/100 |
 | 357 | [pmpetit/pglinter](./pmpetit-pglinter.md) | ⭐ 171 | Rust | 46/100 |
 | 358 | [redis-rs/redis-rs](./redis-rs-redis-rs.md) | ⭐ 4.3k | Rust | 46/100 |
-| 359 | [cberner/redb](./cberner-redb.md) | ⭐ 4.9k | Rust | 46/100 |
+| 359 | [cberner/redb](./cberner-redb.md) | ⭐ 5k | Rust | 46/100 |
 | 360 | [AydenGroup/nitrobase](./aydengroup-nitrobase.md) | ⭐ 8 | TypeScript | 46/100 |
 | 361 | [relatedb/relate](./relatedb-relate.md) | ⭐ 160 | — | 45/100 |
 | 362 | [DevLoops-ai/unified-brain](./devloops-ai-unified-brain.md) | ⭐ 34 | — | 45/100 |
@@ -445,7 +445,7 @@
 | 435 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 341 | R | 42/100 |
 | 436 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 251 | Rust | 42/100 |
 | 437 | [swiftstream/Duck](./swiftstream-duck.md) | ⭐ 1 | — | 41/100 |
-| 438 | [barddoo/tsfm-pg](./barddoo-tsfm-pg.md) | ⭐ — | — | 41/100 |
+| 438 | [barddoo/tsfm-pg](./barddoo-tsfm-pg.md) | ⭐ 1 | — | 41/100 |
 | 439 | [joao00001/pg-regression-radar](./joao00001-pg-regression-radar.md) | ⭐ 9 | — | 41/100 |
 | 440 | [Pragadeesh-19/nodusdb](./pragadeesh-19-nodusdb.md) | ⭐ 1 | — | 41/100 |
 | 441 | [mishabunte/pgxio](./mishabunte-pgxio.md) | ⭐ 4 | — | 41/100 |
@@ -553,8 +553,8 @@
 | 543 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 544 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 545 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 435 | — | 38/100 |
-| 546 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
-| 547 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 546 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 547 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
 | 548 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 549 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 550 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |
@@ -572,8 +572,8 @@
 | 562 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 563 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 564 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 565 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
-| 566 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
+| 565 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
+| 566 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 152 | — | 38/100 |
 | 567 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 568 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 569 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |

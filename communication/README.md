@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -114,7 +114,7 @@
 | 104 | [meli/meli](./meli-meli.md) | ⭐ 899 | Rust | 63/100 |
 | 105 | [krishn404/Git-Friend](./krishn404-git-friend.md) | ⭐ 599 | TypeScript | 63/100 |
 | 106 | [disposable-email-domains/disposable-email-domains](./disposable-email-domains-disposable-email-domains.md) | ⭐ 5.7k | Python | 63/100 |
-| 107 | [shuakami/qq-chat-exporter](./shuakami-qq-chat-exporter.md) | ⭐ 6.1k | TypeScript | 63/100 |
+| 107 | [shuakami/qq-chat-exporter](./shuakami-qq-chat-exporter.md) | ⭐ 6.2k | TypeScript | 63/100 |
 | 108 | [GetStream/stream-cli](./getstream-stream-cli.md) | ⭐ 89 | Go | 63/100 |
 | 109 | [MetaFARS/codex-relay](./metafars-codex-relay.md) | ⭐ 192 | Rust | 63/100 |
 | 110 | [processone/fluux-messenger](./processone-fluux-messenger.md) | ⭐ 450 | TypeScript | 63/100 |
@@ -364,8 +364,8 @@
 | 354 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 355 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 356 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 357 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 358 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 357 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
+| 358 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 359 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 360 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 361 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

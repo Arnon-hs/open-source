@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 783 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 565 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
-| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.4k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -106,7 +106,7 @@
 | 96 | [NginxProxyManager/nginx-proxy-manager](./nginxproxymanager-nginx-proxy-manager.md) | ⭐ 34.7k | TypeScript | 67/100 |
 | 97 | [PurpleI2P/i2pd](./purplei2p-i2pd.md) | ⭐ 4.3k | C++ | 67/100 |
 | 98 | [anderspitman/awesome-tunneling](./anderspitman-awesome-tunneling.md) | ⭐ 22k | — | 67/100 |
-| 99 | [remnawave/panel](./remnawave-panel.md) | ⭐ 5.3k | TypeScript | 67/100 |
+| 99 | [remnawave/panel](./remnawave-panel.md) | ⭐ 5.4k | TypeScript | 67/100 |
 | 100 | [celzero/rethink-app](./celzero-rethink-app.md) | ⭐ 5.9k | Kotlin | 67/100 |
 | 101 | [sunchayn/nimbus](./sunchayn-nimbus.md) | ⭐ 347 | PHP | 67/100 |
 | 102 | [transmission-remote-gui/transgui](./transmission-remote-gui-transgui.md) | ⭐ 3.5k | Pascal | 67/100 |
@@ -309,7 +309,7 @@
 | 299 | [029danio/fly](./029danio-fly.md) | ⭐ 3.3k | HTML | 58/100 |
 | 300 | [cactus/go-camo](./cactus-go-camo.md) | ⭐ 319 | Go | 58/100 |
 | 301 | [tokio-rs/mio](./tokio-rs-mio.md) | ⭐ 7.1k | Rust | 58/100 |
-| 302 | [cilium/pwru](./cilium-pwru.md) | ⭐ 3.8k | C | 58/100 |
+| 302 | [cilium/pwru](./cilium-pwru.md) | ⭐ 3.9k | C | 58/100 |
 | 303 | [squid-cache/squid](./squid-cache-squid.md) | ⭐ 3.1k | C++ | 58/100 |
 | 304 | [proxy-wasm/proxy-wasm-rust-sdk](./proxy-wasm-proxy-wasm-rust-sdk.md) | ⭐ 604 | Rust | 58/100 |
 | 305 | [tangle-network/blueprint](./tangle-network-blueprint.md) | ⭐ 348 | Rust | 58/100 |
@@ -346,7 +346,7 @@
 | 336 | [netbirdio/netbird](./netbirdio-netbird.md) | ⭐ 30.9k | Go | 57/100 |
 | 337 | [Arthur031221/gitclone-doctor](./arthur031221-gitclone-doctor.md) | ⭐ — | JavaScript | 56/100 |
 | 338 | [hassio-addons/app-tailscale](./hassio-addons-app-tailscale.md) | ⭐ 567 | Shell | 56/100 |
-| 339 | [smoltcp-rs/smoltcp](./smoltcp-rs-smoltcp.md) | ⭐ 4.6k | Rust | 56/100 |
+| 339 | [smoltcp-rs/smoltcp](./smoltcp-rs-smoltcp.md) | ⭐ 4.7k | Rust | 56/100 |
 | 340 | [sakai135/wsl-vpnkit](./sakai135-wsl-vpnkit.md) | ⭐ 3k | Shell | 56/100 |
 | 341 | [AllexVeldman/pyoci](./allexveldman-pyoci.md) | ⭐ 113 | Rust | 56/100 |
 | 342 | [heiher/sockstun](./heiher-sockstun.md) | ⭐ 751 | Java | 56/100 |
@@ -582,8 +582,8 @@
 | 572 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 573 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 653 | — | 45/100 |
 | 574 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
-| 576 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 576 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
 | 577 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 578 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 579 | [hoysengleang/wslog](./hoysengleang-wslog.md) | ⭐ 1 | TypeScript | 43/100 |

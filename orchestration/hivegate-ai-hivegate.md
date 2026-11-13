@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7 |
+| ⭐ **Stars** | 8 |
 | 🍴 **Forks** | 12 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 71/100 |
@@ -53,7 +53,7 @@ hivegate-ai/hivegate：hivegate-ai/hivegate helps turn isolated prompts and tool
 
 **Quality signals**
 
-- 7 GitHub stars
+- 8 GitHub stars
 - 12 forks
 - updated 2026-11-09
 - primary language: Python
@@ -66,13 +66,13 @@ hivegate-ai/hivegate：hivegate-ai/hivegate helps turn isolated prompts and tool
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 55/100 |
+| quality | 56/100 |
 | integration | 78/100 |
 | production | 64/100 |
-| outlook | 70/100 |
+| outlook | 71/100 |
 | adoption | 22/100 |
 | categoryMatchCount | 500/100 |
-| stars | 19/100 |
+| stars | 20/100 |
 | forks | 28/100 |
 | recency | 80/100 |
 | topics | 100/100 |

@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 5.1k |
-| 🍴 **Forks** | 190 |
+| 🍴 **Forks** | 189 |
 | 💻 **Language** | Vim Snippet |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-05 |

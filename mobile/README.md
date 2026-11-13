@@ -56,7 +56,7 @@
 | 46 | [xiaoyvyv/bangumi](./xiaoyvyv-bangumi.md) | ⭐ 1.2k | Kotlin | 63/100 |
 | 47 | [YTLitePlus/YTLitePlus](./ytliteplus-ytliteplus.md) | ⭐ 3.6k | Logos | 63/100 |
 | 48 | [Apollo-Reborn/Apollo-Reborn](./apollo-reborn-apollo-reborn.md) | ⭐ 1.6k | Logos | 63/100 |
-| 49 | [awesome-android-root/awesome-android-root](./awesome-android-root-awesome-android-root.md) | ⭐ 5.9k | Python | 63/100 |
+| 49 | [awesome-android-root/awesome-android-root](./awesome-android-root-awesome-android-root.md) | ⭐ 6k | Python | 63/100 |
 | 50 | [google/j2objc](./google-j2objc.md) | ⭐ 6k | Java | 63/100 |
 | 51 | [damontecres/Wholphin](./damontecres-wholphin.md) | ⭐ 3.3k | Kotlin | 63/100 |
 | 52 | [fluxerapp/flutter_client](./fluxerapp-flutter-client.md) | ⭐ 492 | Dart | 63/100 |
@@ -236,7 +236,7 @@
 | 226 | [openfoodfacts/openfoodfacts-androidapp](./openfoodfacts-openfoodfacts-androidapp.md) | ⭐ 808 | Kotlin | 57/100 |
 | 227 | [nextcloud/ios](./nextcloud-ios.md) | ⭐ 2.5k | Swift | 57/100 |
 | 228 | [Moonfin-Client/Moonfin-Core](./moonfin-client-moonfin-core.md) | ⭐ 1k | Dart | 57/100 |
-| 229 | [shiaho777/web-to-app](./shiaho777-web-to-app.md) | ⭐ 7.2k | Kotlin | 57/100 |
+| 229 | [shiaho777/web-to-app](./shiaho777-web-to-app.md) | ⭐ 7.3k | Kotlin | 57/100 |
 | 230 | [cvs-health/ios-swiftui-accessibility-techniques](./cvs-health-ios-swiftui-accessibility-techniques.md) | ⭐ 388 | Swift | 57/100 |
 | 231 | [DicioTeam/dicio-android](./dicioteam-dicio-android.md) | ⭐ 1.5k | Kotlin | 57/100 |
 | 232 | [firebase/flutterfire](./firebase-flutterfire.md) | ⭐ 9.3k | Dart | 57/100 |
@@ -275,12 +275,12 @@
 | 265 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 266 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 267 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 268 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
-| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
+| 268 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
+| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 634 | Python | 55/100 |
-| 272 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
-| 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 272 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 273 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
 | 274 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 500 | Kotlin | 55/100 |
 | 275 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 276 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 3.3k | Kotlin | 55/100 |

@@ -209,7 +209,7 @@
 | 199 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 200 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 133 | Python | 67/100 |
 | 201 | [QuintinShaw/openasr](./quintinshaw-openasr.md) | ⭐ 302 | Rust | 67/100 |
-| 202 | [tmoroney/auto-subs](./tmoroney-auto-subs.md) | ⭐ 4.5k | TypeScript | 67/100 |
+| 202 | [tmoroney/auto-subs](./tmoroney-auto-subs.md) | ⭐ 4.6k | TypeScript | 67/100 |
 | 203 | [mpv-player/mpv](./mpv-player-mpv.md) | ⭐ 38.1k | C | 67/100 |
 | 204 | [zoriya/Kyoo](./zoriya-kyoo.md) | ⭐ 2.6k | TypeScript | 67/100 |
 | 205 | [masonmosen/muse-video-prompt-skill](./masonmosen-muse-video-prompt-skill.md) | ⭐ 11 | Python | 66/100 |
@@ -516,8 +516,8 @@
 | 506 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 507 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 50 | Kotlin | 53/100 |
 | 508 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 509 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
-| 510 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
+| 509 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
+| 510 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
 | 511 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 512 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 523 | — | 53/100 |
 | 513 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
@@ -571,8 +571,8 @@
 | 561 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 17 | — | 48/100 |
 | 562 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 563 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 3 | Python | 48/100 |
-| 564 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
-| 565 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 564 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 565 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
 | 566 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 567 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 34 | — | 48/100 |
 | 568 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ 22 | — | 48/100 |
@@ -620,7 +620,7 @@
 | 610 | [JeffreyHamilton6399/ShrinkRay](./jeffreyhamilton6399-shrinkray.md) | ⭐ 1 | — | 42/100 |
 | 611 | [wojciechowskiapp/Kaption](./wojciechowskiapp-kaption.md) | ⭐ 8 | — | 42/100 |
 | 612 | [DeegoFronk/Auto-Vod-Trimmer](./deegofronk-auto-vod-trimmer.md) | ⭐ 5 | — | 42/100 |
-| 613 | [justinseanmartin/Retake](./justinseanmartin-retake.md) | ⭐ 2 | — | 41/100 |
+| 613 | [justinseanmartin/Retake](./justinseanmartin-retake.md) | ⭐ 3 | — | 41/100 |
 | 614 | [kadirb4rut/voxadub](./kadirb4rut-voxadub.md) | ⭐ 25 | — | 41/100 |
 | 615 | [belfortlabs/blindsight-demo](./belfortlabs-blindsight-demo.md) | ⭐ — | — | 41/100 |
 | 616 | [acalejos/CinEx](./acalejos-cinex.md) | ⭐ 142 | — | 41/100 |
