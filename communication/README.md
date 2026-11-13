@@ -193,7 +193,7 @@
 | 183 | [opensource-socialnetwork/opensource-socialnetwork](./opensource-socialnetwork-opensource-socialnetwork.md) | ⭐ 1.3k | PHP | 58/100 |
 | 184 | [alainm23/planify](./alainm23-planify.md) | ⭐ 5.8k | Vala | 58/100 |
 | 185 | [neomutt/neomutt](./neomutt-neomutt.md) | ⭐ 3.9k | C | 58/100 |
-| 186 | [mattgauzza/quickMail](./mattgauzza-quickmail.md) | ⭐ — | — | 57/100 |
+| 186 | [mattgauzza/quickMail](./mattgauzza-quickmail.md) | ⭐ 2 | — | 57/100 |
 | 187 | [jhillyerd/enmime](./jhillyerd-enmime.md) | ⭐ 528 | Go | 57/100 |
 | 188 | [rufftruffles/spameater](./rufftruffles-spameater.md) | ⭐ 229 | JavaScript | 57/100 |
 | 189 | [spatie/calendar-links](./spatie-calendar-links.md) | ⭐ 1k | PHP | 57/100 |

@@ -573,8 +573,8 @@
 | 563 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 17 | — | 48/100 |
 | 564 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 565 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 3 | Python | 48/100 |
-| 566 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
-| 567 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 566 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 567 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
 | 568 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 569 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 34 | — | 48/100 |
 | 570 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ 22 | — | 48/100 |
@@ -604,7 +604,7 @@
 | 594 | [waldo-van-der-code/whatyousay-oss](./waldo-van-der-code-whatyousay-oss.md) | ⭐ 1 | — | 45/100 |
 | 595 | [wutlu/notchsub](./wutlu-notchsub.md) | ⭐ 1 | — | 45/100 |
 | 596 | [openfilm/openfilm](./openfilm-openfilm.md) | ⭐ 5.9k | — | 45/100 |
-| 597 | [iterative-computer/powermove](./iterative-computer-powermove.md) | ⭐ 387 | — | 45/100 |
+| 597 | [iterative-computer/powermove](./iterative-computer-powermove.md) | ⭐ 389 | — | 45/100 |
 | 598 | [google/ExoPlayer](./google-exoplayer.md) | ⭐ 21.9k | — | 45/100 |
 | 599 | [videojs/video.js](./videojs-video.js.md) | ⭐ 40.2k | — | 45/100 |
 | 600 | [Netflix/vmaf](./netflix-vmaf.md) | ⭐ 5.6k | — | 45/100 |
@@ -623,7 +623,7 @@
 | 613 | [wojciechowskiapp/Kaption](./wojciechowskiapp-kaption.md) | ⭐ 8 | — | 42/100 |
 | 614 | [DeegoFronk/Auto-Vod-Trimmer](./deegofronk-auto-vod-trimmer.md) | ⭐ 5 | — | 42/100 |
 | 615 | [justinseanmartin/Retake](./justinseanmartin-retake.md) | ⭐ 3 | — | 41/100 |
-| 616 | [kadirb4rut/voxadub](./kadirb4rut-voxadub.md) | ⭐ 25 | — | 41/100 |
+| 616 | [kadirb4rut/voxadub](./kadirb4rut-voxadub.md) | ⭐ 26 | — | 41/100 |
 | 617 | [belfortlabs/blindsight-demo](./belfortlabs-blindsight-demo.md) | ⭐ — | — | 41/100 |
 | 618 | [acalejos/CinEx](./acalejos-cinex.md) | ⭐ 142 | — | 41/100 |
 | 619 | [hydope/shortsmash](./hydope-shortsmash.md) | ⭐ 3 | — | 41/100 |

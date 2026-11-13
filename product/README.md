@@ -14,7 +14,7 @@
 | 4 | [lsfusion-solutions/mycompany](./lsfusion-solutions-mycompany.md) | ⭐ 378 | JavaScript | 59/100 |
 | 5 | [fastly/Viceroy](./fastly-viceroy.md) | ⭐ 178 | Rust | 54/100 |
 | 6 | [orbivort/scrumooth](./orbivort-scrumooth.md) | ⭐ 1 | TypeScript | 53/100 |
-| 7 | [iamnotstatic/vibetime](./iamnotstatic-vibetime.md) | ⭐ — | — | 45/100 |
+| 7 | [iamnotstatic/vibetime](./iamnotstatic-vibetime.md) | ⭐ 53 | — | 45/100 |
 | 8 | [agenttools/headroom](./agenttools-headroom.md) | ⭐ — | — | 45/100 |
 | 9 | [AdamTuraj/StudPrint](./adamturaj-studprint.md) | ⭐ 18 | — | 44/100 |
 | 10 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
@@ -28,7 +28,7 @@
 | 18 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ 8 | — | 41/100 |
 | 19 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ 1 | — | 41/100 |
 | 20 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ 3 | — | 41/100 |
-| 21 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ 2 | — | 41/100 |
+| 21 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ 3 | — | 41/100 |
 
 ---
 

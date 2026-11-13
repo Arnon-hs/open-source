@@ -611,7 +611,7 @@
 | 601 | [zolagonano/RawLink](./zolagonano-rawlink.md) | ⭐ 21 | — | 41/100 |
 | 602 | [mikael-titinovskii/orr](./mikael-titinovskii-orr.md) | ⭐ 6 | — | 41/100 |
 | 603 | [vandot/zlodev](./vandot-zlodev.md) | ⭐ 3 | — | 41/100 |
-| 604 | [JackKnifeAI/killa-yue](./jackknifeai-killa-yue.md) | ⭐ 11 | — | 41/100 |
+| 604 | [JackKnifeAI/killa-yue](./jackknifeai-killa-yue.md) | ⭐ 12 | — | 41/100 |
 | 605 | [pigyon/tanuki](./pigyon-tanuki.md) | ⭐ 42 | — | 41/100 |
 | 606 | [franciscocarloserra/p2p-call](./franciscocarloserra-p2p-call.md) | ⭐ 2 | — | 41/100 |
 | 607 | [legostin/wirepane](./legostin-wirepane.md) | ⭐ 4 | — | 41/100 |

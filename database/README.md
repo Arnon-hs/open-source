@@ -387,7 +387,7 @@
 | 377 | [busabase/busabase-dsh-plugin](./busabase-busabase-dsh-plugin.md) | ⭐ 11 | — | 45/100 |
 | 378 | [silo-ai/silo](./silo-ai-silo.md) | ⭐ 5 | — | 45/100 |
 | 379 | [jamalhill12321-hash/patm](./jamalhill12321-hash-patm.md) | ⭐ 4 | — | 45/100 |
-| 380 | [Helius-Finance/helius-finance-tracker](./helius-finance-helius-finance-tracker.md) | ⭐ 212 | — | 45/100 |
+| 380 | [Helius-Finance/helius-finance-tracker](./helius-finance-helius-finance-tracker.md) | ⭐ 213 | — | 45/100 |
 | 381 | [cardmagic/solid-objects-ruby](./cardmagic-solid-objects-ruby.md) | ⭐ 40 | Ruby | 45/100 |
 | 382 | [sib-project/sib](./sib-project-sib.md) | ⭐ — | — | 45/100 |
 | 383 | [lark-sh/lark](./lark-sh-lark.md) | ⭐ 20 | — | 45/100 |
@@ -407,7 +407,7 @@
 | 397 | [tastyware/streaq](./tastyware-streaq.md) | ⭐ 172 | — | 44/100 |
 | 398 | [imaradesk/doveorm](./imaradesk-doveorm.md) | ⭐ 1 | — | 44/100 |
 | 399 | [FriendsOfPHP/security-advisories](./friendsofphp-security-advisories.md) | ⭐ 2.1k | PHP | 44/100 |
-| 400 | [ismailkarsli/typesql](./ismailkarsli-typesql.md) | ⭐ 32 | — | 44/100 |
+| 400 | [ismailkarsli/typesql](./ismailkarsli-typesql.md) | ⭐ 33 | — | 44/100 |
 | 401 | [objectbox/objectbox-python](./objectbox-objectbox-python.md) | ⭐ 191 | — | 44/100 |
 | 402 | [batcoder-1/Redis-Ratekit](./batcoder-1-redis-ratekit.md) | ⭐ — | — | 44/100 |
 | 403 | [saums-1391/sqlthon](./saums-1391-sqlthon.md) | ⭐ 6 | — | 44/100 |
@@ -521,7 +521,7 @@
 | 511 | [kingroryg/turbokv](./kingroryg-turbokv.md) | ⭐ 280 | — | 38/100 |
 | 512 | [MigMarGil/sqlite-diff-log](./migmargil-sqlite-diff-log.md) | ⭐ 1 | — | 38/100 |
 | 513 | [jncastilho/luadb](./jncastilho-luadb.md) | ⭐ — | — | 38/100 |
-| 514 | [jeffhajewski/latticedb](./jeffhajewski-latticedb.md) | ⭐ 752 | — | 38/100 |
+| 514 | [jeffhajewski/latticedb](./jeffhajewski-latticedb.md) | ⭐ 753 | — | 38/100 |
 | 515 | [borborich/pgextassure](./borborich-pgextassure.md) | ⭐ 2 | — | 38/100 |
 | 516 | [p2r3/ha.mr](./p2r3-ha.mr.md) | ⭐ 1.1k | — | 38/100 |
 | 517 | [RyanRana/nibble](./ryanrana-nibble.md) | ⭐ 1 | — | 38/100 |
@@ -554,8 +554,8 @@
 | 544 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 545 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 546 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 435 | — | 38/100 |
-| 547 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
-| 548 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 547 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 548 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
 | 549 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 550 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 551 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |

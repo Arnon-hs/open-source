@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 250 |
-| 🍴 **Forks** | 76 |
+| 🍴 **Forks** | 75 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-04-02 |
@@ -54,7 +54,7 @@ actions/configure-pages：actions/configure-pages helps remove repetitive manual
 **Quality signals**
 
 - 250 GitHub stars
-- 76 forks
+- 75 forks
 - updated 2026-04-02
 - primary language: JavaScript
 

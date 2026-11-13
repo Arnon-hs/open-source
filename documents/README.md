@@ -702,7 +702,7 @@
 | 692 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
 | 693 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
 | 694 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 120 | — | 38/100 |
-| 695 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 265 | — | 38/100 |
+| 695 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 266 | — | 38/100 |
 | 696 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ 24 | — | 38/100 |
 | 697 | [asong56/rudoc](./asong56-rudoc.md) | ⭐ 39 | — | 38/100 |
 | 698 | [transformyio/html-to-pdf-libraries](./transformyio-html-to-pdf-libraries.md) | ⭐ 1 | — | 38/100 |
