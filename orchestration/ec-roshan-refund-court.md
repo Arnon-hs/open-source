@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation
+Orchestration · Automation · AI/ML · Communication
 
 ## 📝 Summary
 
 ### English
 
-EC-Roshan/refund-court: EC-Roshan/refund-court helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EC-Roshan/refund-court: EC-Roshan/refund-court helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-EC-Roshan/refund-court: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+EC-Roshan/refund-court: open-source проект в категориях Orchestration, Automation, AI/ML, Communication. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-EC-Roshan/refund-court：EC-Roshan/refund-court helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+EC-Roshan/refund-court：EC-Roshan/refund-court helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** EC-Roshan/refund-court helps remove repetitive manual operations from a workflow.
+**Value:** EC-Roshan/refund-court helps turn isolated prompts and tools into repeatable agent workflows.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -62,19 +62,19 @@ EC-Roshan/refund-court：EC-Roshan/refund-court helps remove repetitive manual o
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 44/100 |
-| integration | 30/100 |
-| production | 53/100 |
-| outlook | 59/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 88/100 |
+| outlook | 59/100 |
+| quality | 44/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 53/100 |
+| usefulness | 74/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/EC-Roshan/refund-court) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/EC-Roshan/refund-court) · [← Back to Orchestration](./README.md)</sub>

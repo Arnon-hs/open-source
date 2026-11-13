@@ -336,7 +336,7 @@
 | 326 | [tailscale/tailcat-for-minecraft](./tailscale-tailcat-for-minecraft.md) | ⭐ — | — | 41/100 |
 | 327 | [davidgiven/pet-elite](./davidgiven-pet-elite.md) | ⭐ 6 | — | 41/100 |
 | 328 | [angelotc/lol-companion](./angelotc-lol-companion.md) | ⭐ — | — | 41/100 |
-| 329 | [Sunghwan0112/spritecast](./sunghwan0112-spritecast.md) | ⭐ — | — | 41/100 |
+| 329 | [Sunghwan0112/spritecast](./sunghwan0112-spritecast.md) | ⭐ 43 | — | 41/100 |
 | 330 | [theagentd/CORTAO](./theagentd-cortao.md) | ⭐ 172 | — | 41/100 |
 | 331 | [openigi/openigi](./openigi-openigi.md) | ⭐ 158 | — | 41/100 |
 | 332 | [Open-Game-Standards/OGS-Telemetry-Standard](./open-game-standards-ogs-telemetry-standard.md) | ⭐ 8 | — | 41/100 |

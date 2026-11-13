@@ -118,8 +118,8 @@
 | 108 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.9k | PHP | 62/100 |
 | 109 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 10.3k | PHP | 62/100 |
 | 110 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 1.1k | TypeScript | 62/100 |
-| 111 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
-| 112 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
+| 111 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
+| 112 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
 | 113 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 114 | [actions/checkout](./actions-checkout.md) | ⭐ 8.8k | TypeScript | 61/100 |
 | 115 | [paid-tw/payment](./paid-tw-payment.md) | ⭐ 86 | TypeScript | 61/100 |
@@ -132,20 +132,20 @@
 | 122 | [aureuserp/aureuserp](./aureuserp-aureuserp.md) | ⭐ 12.2k | PHP | 61/100 |
 | 123 | [w3c/payment-request](./w3c-payment-request.md) | ⭐ 511 | HTML | 61/100 |
 | 124 | [stripe/stripe-ruby](./stripe-stripe-ruby.md) | ⭐ 2.2k | Ruby | 61/100 |
-| 125 | [designAtHotly/hotly-os](./designathotly-hotly-os.md) | ⭐ 16 | TypeScript | 60/100 |
-| 126 | [AgenticFinanceGraph/agentic-finance-graph-mcp](./agenticfinancegraph-agentic-finance-graph-mcp.md) | ⭐ — | JavaScript | 60/100 |
-| 127 | [flovoice53-tech/acp-sandbox](./flovoice53-tech-acp-sandbox.md) | ⭐ — | TypeScript | 60/100 |
-| 128 | [ahmadzakiyox/gopay-api-gateaway](./ahmadzakiyox-gopay-api-gateaway.md) | ⭐ 280 | JavaScript | 60/100 |
-| 129 | [eallion/uBlacklist-subscription-compilation](./eallion-ublacklist-subscription-compilation.md) | ⭐ 1.3k | Go | 60/100 |
-| 130 | [abishekmuthian/open-payment-host](./abishekmuthian-open-payment-host.md) | ⭐ 245 | Go | 60/100 |
-| 131 | [voidly-ai/voidly-pay](./voidly-ai-voidly-pay.md) | ⭐ 11 | JavaScript | 60/100 |
-| 132 | [dimthink/PriceAI](./dimthink-priceai.md) | ⭐ 5.4k | TypeScript | 60/100 |
-| 133 | [trickv/hass-claude-usage](./trickv-hass-claude-usage.md) | ⭐ 61 | Python | 60/100 |
-| 134 | [vue-stripe/vue-stripe](./vue-stripe-vue-stripe.md) | ⭐ 1.1k | Vue | 60/100 |
-| 135 | [easylist/easylist](./easylist-easylist.md) | ⭐ 3.2k | Adblock Filter List | 60/100 |
-| 136 | [QuestPDF/QuestPDF](./questpdf-questpdf.md) | ⭐ 14.2k | C# | 60/100 |
-| 137 | [stripe/stripe-dotnet](./stripe-stripe-dotnet.md) | ⭐ 1.5k | C# | 60/100 |
-| 138 | [suseendar1414/pursestring](./suseendar1414-pursestring.md) | ⭐ — | TypeScript | 60/100 |
+| 125 | [suseendar1414/pursestring](./suseendar1414-pursestring.md) | ⭐ — | TypeScript | 60/100 |
+| 126 | [designAtHotly/hotly-os](./designathotly-hotly-os.md) | ⭐ 16 | TypeScript | 60/100 |
+| 127 | [AgenticFinanceGraph/agentic-finance-graph-mcp](./agenticfinancegraph-agentic-finance-graph-mcp.md) | ⭐ — | JavaScript | 60/100 |
+| 128 | [flovoice53-tech/acp-sandbox](./flovoice53-tech-acp-sandbox.md) | ⭐ — | TypeScript | 60/100 |
+| 129 | [ahmadzakiyox/gopay-api-gateaway](./ahmadzakiyox-gopay-api-gateaway.md) | ⭐ 280 | JavaScript | 60/100 |
+| 130 | [eallion/uBlacklist-subscription-compilation](./eallion-ublacklist-subscription-compilation.md) | ⭐ 1.3k | Go | 60/100 |
+| 131 | [abishekmuthian/open-payment-host](./abishekmuthian-open-payment-host.md) | ⭐ 245 | Go | 60/100 |
+| 132 | [voidly-ai/voidly-pay](./voidly-ai-voidly-pay.md) | ⭐ 11 | JavaScript | 60/100 |
+| 133 | [dimthink/PriceAI](./dimthink-priceai.md) | ⭐ 5.4k | TypeScript | 60/100 |
+| 134 | [trickv/hass-claude-usage](./trickv-hass-claude-usage.md) | ⭐ 61 | Python | 60/100 |
+| 135 | [vue-stripe/vue-stripe](./vue-stripe-vue-stripe.md) | ⭐ 1.1k | Vue | 60/100 |
+| 136 | [easylist/easylist](./easylist-easylist.md) | ⭐ 3.2k | Adblock Filter List | 60/100 |
+| 137 | [QuestPDF/QuestPDF](./questpdf-questpdf.md) | ⭐ 14.2k | C# | 60/100 |
+| 138 | [stripe/stripe-dotnet](./stripe-stripe-dotnet.md) | ⭐ 1.5k | C# | 60/100 |
 | 139 | [lintangtimur/ovoid](./lintangtimur-ovoid.md) | ⭐ 171 | PHP | 59/100 |
 | 140 | [x402-foundation/x402](./x402-foundation-x402.md) | ⭐ 6.8k | TypeScript | 59/100 |
 | 141 | [awesomemotive/easy-digital-downloads](./awesomemotive-easy-digital-downloads.md) | ⭐ 895 | PHP | 59/100 |
@@ -281,8 +281,8 @@
 | 271 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 60 | Rust | 50/100 |
 | 272 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 50/100 |
 | 273 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 224 | Rust | 50/100 |
-| 274 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
-| 275 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
+| 274 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
+| 275 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
 | 276 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 277 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 278 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 182 | HTML | 50/100 |
@@ -399,9 +399,9 @@
 | 389 | [abhinavnayak21/BillCraft-ai-x-MLH](./abhinavnayak21-billcraft-ai-x-mlh.md) | ⭐ — | TypeScript | 37/100 |
 | 390 | [edyiaeonian/eu-einvoice-bridge](./edyiaeonian-eu-einvoice-bridge.md) | ⭐ — | XSLT | 36/100 |
 | 391 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ 919 | — | 36/100 |
-| 392 | [YashAdake/parchi](./yashadake-parchi.md) | ⭐ — | HTML | 35/100 |
-| 393 | [Godman-s/aiax](./godman-s-aiax.md) | ⭐ — | — | 34/100 |
-| 394 | [DTPlayer/payments_enot_webapps_telegram](./dtplayer-payments-enot-webapps-telegram.md) | ⭐ 2 | Python | 33/100 |
+| 392 | [Godman-s/aiax](./godman-s-aiax.md) | ⭐ — | — | 34/100 |
+| 393 | [DTPlayer/payments_enot_webapps_telegram](./dtplayer-payments-enot-webapps-telegram.md) | ⭐ 2 | Python | 33/100 |
+| 394 | [YashAdake/parchi](./yashadake-parchi.md) | ⭐ — | HTML | 32/100 |
 | 395 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 32/100 |
 | 396 | [yavonalabs/invariant](./yavonalabs-invariant.md) | ⭐ — | JavaScript | 30/100 |
 

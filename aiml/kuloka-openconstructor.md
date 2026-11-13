@@ -65,18 +65,18 @@ Kuloka/openconstructor：Kuloka/openconstructor helps add AI capability without 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 49/100 |
-| integration | 30/100 |
-| production | 55/100 |
-| outlook | 58/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 400/100 |
-| stars | 6/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

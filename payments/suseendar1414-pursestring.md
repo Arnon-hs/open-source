@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Payments
+Payments · MCP · AI/ML · Observability
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ suseendar1414/pursestring: suseendar1414/pursestring helps integrate monetizatio
 
 ### Русский
 
-suseendar1414/pursestring: open-source проект в категориях Payments. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+suseendar1414/pursestring: open-source проект в категориях Payments, MCP, AI/ML, Observability. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ suseendar1414/pursestring：suseendar1414/pursestring helps integrate monetizati
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 44/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 62/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 88/100 |
+| outlook | 62/100 |
+| quality | 44/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 

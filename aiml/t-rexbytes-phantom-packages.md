@@ -1,6 +1,6 @@
 # T-RexBytes/phantom-packages
 
-[![Stars](https://img.shields.io/github/stars/T-RexBytes/phantom-packages?style=flat-square&color=yellow)](https://github.com/T-RexBytes/phantom-packages/stargazers) [![Forks](https://img.shields.io/github/forks/T-RexBytes/phantom-packages?style=flat-square&color=blue)](https://github.com/T-RexBytes/phantom-packages/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/T-RexBytes/phantom-packages?style=flat-square&color=yellow)](https://github.com/T-RexBytes/phantom-packages/stargazers) [![Forks](https://img.shields.io/github/forks/T-RexBytes/phantom-packages?style=flat-square&color=blue)](https://github.com/T-RexBytes/phantom-packages/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-T-RexBytes/phantom-packages: T-RexBytes/phantom-packages helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+T-RexBytes/phantom-packages: T-RexBytes/phantom-packages helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-T-RexBytes/phantom-packages: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+T-RexBytes/phantom-packages: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-T-RexBytes/phantom-packages：T-RexBytes/phantom-packages helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+T-RexBytes/phantom-packages：T-RexBytes/phantom-packages helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ T-RexBytes/phantom-packages：T-RexBytes/phantom-packages helps add AI capabilit
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -57,22 +57,22 @@ T-RexBytes/phantom-packages：T-RexBytes/phantom-packages helps add AI capabilit
 - primary language: Python
 - 8 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 41/100 |
 | integration | 34/100 |
-| production | 55/100 |
-| outlook | 53/100 |
+| production | 48/100 |
+| outlook | 46/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 
