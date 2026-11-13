@@ -31,7 +31,7 @@
 | 21 | [clash-verge-rev/clash-verge-rev](./clash-verge-rev-clash-verge-rev.md) | ⭐ 158k | TypeScript | 76/100 |
 | 22 | [deven96/ahnlich](./deven96-ahnlich.md) | ⭐ 249 | Rust | 76/100 |
 | 23 | [hwdsl2/setup-ipsec-vpn](./hwdsl2-setup-ipsec-vpn.md) | ⭐ 29k | Shell | 76/100 |
-| 24 | [SecOps-7/MikroDash](./secops-7-mikrodash.md) | ⭐ 651 | JavaScript | 75/100 |
+| 24 | [SecOps-7/MikroDash](./secops-7-mikrodash.md) | ⭐ 652 | JavaScript | 75/100 |
 | 25 | [astahmer/openapi-zod-client](./astahmer-openapi-zod-client.md) | ⭐ 1.2k | TypeScript | 75/100 |
 | 26 | [imsnif/bandwhich](./imsnif-bandwhich.md) | ⭐ 12.1k | Rust | 75/100 |
 | 27 | [Orange-OpenSource/hurl](./orange-opensource-hurl.md) | ⭐ 19.3k | Rust | 75/100 |
@@ -66,11 +66,11 @@
 | 56 | [lysine-dev/okhttp](./lysine-dev-okhttp.md) | ⭐ 47.1k | Kotlin | 70/100 |
 | 57 | [telepresenceio/telepresence](./telepresenceio-telepresence.md) | ⭐ 7.3k | Go | 70/100 |
 | 58 | [square/okhttp](./square-okhttp.md) | ⭐ 47k | Kotlin | 70/100 |
-| 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 783 | Go | 70/100 |
-| 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 565 | Go | 70/100 |
+| 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 785 | Go | 70/100 |
+| 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 564 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
-| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.4k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -471,7 +471,7 @@
 | 461 | [dvcoolarun/dynamic-tool-proxy](./dvcoolarun-dynamic-tool-proxy.md) | ⭐ 1 | Python | 51/100 |
 | 462 | [TykTechnologies/tyk-identity-broker](./tyktechnologies-tyk-identity-broker.md) | ⭐ 109 | Go | 51/100 |
 | 463 | [anton48/vk-turn-proxy-ios](./anton48-vk-turn-proxy-ios.md) | ⭐ 317 | Go | 51/100 |
-| 464 | [mackee3/tizi](./mackee3-tizi.md) | ⭐ 513 | — | 51/100 |
+| 464 | [mackee3/tizi](./mackee3-tizi.md) | ⭐ 515 | — | 51/100 |
 | 465 | [femboyisp/yip](./femboyisp-yip.md) | ⭐ 130 | Rust | 51/100 |
 | 466 | [PinkD/corplink-rs](./pinkd-corplink-rs.md) | ⭐ 436 | Rust | 51/100 |
 | 467 | [X4BNet/lists_vpn](./x4bnet-lists-vpn.md) | ⭐ 931 | Shell | 51/100 |
@@ -487,7 +487,7 @@
 | 477 | [EasyTier/EasyTier](./easytier-easytier.md) | ⭐ 14.7k | Rust | 51/100 |
 | 478 | [amnezia-vpn/amneziawg-android](./amnezia-vpn-amneziawg-android.md) | ⭐ 594 | Kotlin | 50/100 |
 | 479 | [manic-systems/ncro](./manic-systems-ncro.md) | ⭐ 158 | Rust | 50/100 |
-| 480 | [Ground-Zerro/HydraRoute](./ground-zerro-hydraroute.md) | ⭐ 663 | C | 50/100 |
+| 480 | [Ground-Zerro/HydraRoute](./ground-zerro-hydraroute.md) | ⭐ 664 | C | 50/100 |
 | 481 | [paritytech/litep2p](./paritytech-litep2p.md) | ⭐ 167 | Rust | 50/100 |
 | 482 | [confeden/Antigravity](./confeden-antigravity.md) | ⭐ 1.3k | Rust | 50/100 |
 | 483 | [xutianyi1999/fubuki](./xutianyi1999-fubuki.md) | ⭐ 164 | Rust | 50/100 |
@@ -555,7 +555,7 @@
 | 545 | [qr243vbi/nekobox](./qr243vbi-nekobox.md) | ⭐ 1.5k | C++ | 46/100 |
 | 546 | [davidmhewitt/torrential](./davidmhewitt-torrential.md) | ⭐ 142 | Rust | 46/100 |
 | 547 | [dennisss/dacha](./dennisss-dacha.md) | ⭐ 398 | Rust | 46/100 |
-| 548 | [MatinGhanbari/v2ray-configs](./matinghanbari-v2ray-configs.md) | ⭐ 708 | HTML | 46/100 |
+| 548 | [MatinGhanbari/v2ray-configs](./matinghanbari-v2ray-configs.md) | ⭐ 709 | HTML | 46/100 |
 | 549 | [monosans/proxy-scraper-checker](./monosans-proxy-scraper-checker.md) | ⭐ 1.4k | Rust | 46/100 |
 | 550 | [junkurihara/rust-rpxy](./junkurihara-rust-rpxy.md) | ⭐ 793 | Rust | 46/100 |
 | 551 | [sunny9577/proxy-scraper](./sunny9577-proxy-scraper.md) | ⭐ 598 | JavaScript | 46/100 |
@@ -636,7 +636,7 @@
 | 626 | [lklynet/hypermind-swarm](./lklynet-hypermind-swarm.md) | ⭐ 85 | — | 41/100 |
 | 627 | [tmc/go-iroh](./tmc-go-iroh.md) | ⭐ 66 | — | 41/100 |
 | 628 | [SalzDevs/groxy](./salzdevs-groxy.md) | ⭐ 15 | — | 41/100 |
-| 629 | [radkesvat/WaterWall](./radkesvat-waterwall.md) | ⭐ 597 | C | 41/100 |
+| 629 | [radkesvat/WaterWall](./radkesvat-waterwall.md) | ⭐ 596 | C | 41/100 |
 | 630 | [shlima/keneetic-antifilter](./shlima-keneetic-antifilter.md) | ⭐ 508 | Batchfile | 41/100 |
 | 631 | [mmpx12/proxy-list](./mmpx12-proxy-list.md) | ⭐ 437 | — | 41/100 |
 | 632 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 120 | Rust | 41/100 |

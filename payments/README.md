@@ -156,7 +156,7 @@
 | 146 | [TentacleOpera/switchboard](./tentacleopera-switchboard.md) | ⭐ 217 | TypeScript | 59/100 |
 | 147 | [shaxzodbek-uzb/pay-uz](./shaxzodbek-uzb-pay-uz.md) | ⭐ 89 | PHP | 59/100 |
 | 148 | [physics-dimension/PriceAI](./physics-dimension-priceai.md) | ⭐ 671 | TypeScript | 59/100 |
-| 149 | [PatWie/drafft-ink](./patwie-drafft-ink.md) | ⭐ 577 | Rust | 59/100 |
+| 149 | [PatWie/drafft-ink](./patwie-drafft-ink.md) | ⭐ 579 | Rust | 59/100 |
 | 150 | [PtPrashantTripathi/linkpe](./ptprashanttripathi-linkpe.md) | ⭐ 100 | HTML | 59/100 |
 | 151 | [emmanuelerogian723-alt/stew-ai](./emmanuelerogian723-alt-stew-ai.md) | ⭐ 1 | JavaScript | 58/100 |
 | 152 | [Payum/Payum](./payum-payum.md) | ⭐ 1.9k | PHP | 58/100 |
@@ -215,10 +215,10 @@
 | 205 | [open-condo-software/condo](./open-condo-software-condo.md) | ⭐ 432 | JavaScript | 55/100 |
 | 206 | [adorsys/XS2A-Sandbox](./adorsys-xs2a-sandbox.md) | ⭐ 81 | TypeScript | 55/100 |
 | 207 | [mollie/laravel-cashier-mollie](./mollie-laravel-cashier-mollie.md) | ⭐ 180 | PHP | 55/100 |
-| 208 | [Payum/PayumBundle](./payum-payumbundle.md) | ⭐ 580 | PHP | 55/100 |
+| 208 | [Payum/PayumBundle](./payum-payumbundle.md) | ⭐ 579 | PHP | 55/100 |
 | 209 | [a-tokyo/react-native-stripe-checkout-webview](./a-tokyo-react-native-stripe-checkout-webview.md) | ⭐ 91 | JavaScript | 55/100 |
 | 210 | [zdigoo/edd-gateway-securionpay-flow](./zdigoo-edd-gateway-securionpay-flow.md) | ⭐ 114 | HTML | 55/100 |
-| 211 | [Silentely/AdBlock-Acceleration](./silentely-adblock-acceleration.md) | ⭐ 553 | Adblock Filter List | 55/100 |
+| 211 | [Silentely/AdBlock-Acceleration](./silentely-adblock-acceleration.md) | ⭐ 552 | Adblock Filter List | 55/100 |
 | 212 | [ynnoj/next-stripe](./ynnoj-next-stripe.md) | ⭐ 559 | JavaScript | 55/100 |
 | 213 | [magnussolution/magnusbilling7](./magnussolution-magnusbilling7.md) | ⭐ — | JavaScript | 55/100 |
 | 214 | [samueltuyizere/oc-go-cc](./samueltuyizere-oc-go-cc.md) | ⭐ 299 | Go | 55/100 |
@@ -234,8 +234,8 @@
 | 224 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 186 | PHP | 54/100 |
 | 225 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.8k | TypeScript | 54/100 |
 | 226 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 572 | — | 53/100 |
-| 228 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 664 | — | 53/100 |
+| 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 670 | — | 53/100 |
+| 228 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 576 | — | 53/100 |
 | 229 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 230 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 231 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 89 | Rust | 53/100 |
@@ -273,16 +273,16 @@
 | 263 | [killbill/killbill-commons](./killbill-killbill-commons.md) | ⭐ 145 | Java | 51/100 |
 | 264 | [Franlinozz/Sluice](./franlinozz-sluice.md) | ⭐ 32 | TypeScript | 51/100 |
 | 265 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 133 | PHP | 51/100 |
-| 266 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
-| 267 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
+| 266 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
+| 267 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
 | 268 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 51/100 |
 | 269 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 764 | Rust | 51/100 |
 | 270 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 504 | PHP | 51/100 |
 | 271 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 60 | Rust | 50/100 |
 | 272 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 50/100 |
 | 273 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 223 | Rust | 50/100 |
-| 274 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
-| 275 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
+| 274 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
+| 275 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
 | 276 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 277 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 278 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 182 | HTML | 50/100 |

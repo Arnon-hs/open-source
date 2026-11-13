@@ -146,7 +146,7 @@
 | 136 | [mk-runner/Awesome-Radiology-Report-Generation](./mk-runner-awesome-radiology-report-generation.md) | ⭐ 500 | — | 57/100 |
 | 137 | [aelassas/servy](./aelassas-servy.md) | ⭐ 2.1k | C# | 57/100 |
 | 138 | [theopfr/somo](./theopfr-somo.md) | ⭐ 2.6k | Rust | 57/100 |
-| 139 | [simple10/agents-observe](./simple10-agents-observe.md) | ⭐ 717 | TypeScript | 57/100 |
+| 139 | [simple10/agents-observe](./simple10-agents-observe.md) | ⭐ 719 | TypeScript | 57/100 |
 | 140 | [87owo/PYAS](./87owo-pyas.md) | ⭐ 604 | Python | 57/100 |
 | 141 | [Pouzor/homelable](./pouzor-homelable.md) | ⭐ 5k | TypeScript | 57/100 |
 | 142 | [jaegertracing/jaeger](./jaegertracing-jaeger.md) | ⭐ 23.4k | Go | 57/100 |
@@ -230,7 +230,7 @@
 | 220 | [poonesnerfect/jlf](./poonesnerfect-jlf.md) | ⭐ 34 | — | 48/100 |
 | 221 | [el10savio/obsIngest](./el10savio-obsingest.md) | ⭐ — | — | 48/100 |
 | 222 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 639 | C | 48/100 |
-| 223 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 599 | Go | 48/100 |
+| 223 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 600 | Go | 48/100 |
 | 224 | [open-telemetry/opentelemetry-go-contrib](./open-telemetry-opentelemetry-go-contrib.md) | ⭐ 1.7k | Go | 48/100 |
 | 225 | [cloudwalk/stratus](./cloudwalk-stratus.md) | ⭐ 175 | Rust | 47/100 |
 | 226 | [jonhoo/tracing-timing](./jonhoo-tracing-timing.md) | ⭐ 139 | Rust | 47/100 |

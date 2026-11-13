@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 519 |
+| ⭐ **Stars** | 520 |
 | 🍴 **Forks** | 63 |
 | 💻 **Language** | Rich Text Format |
 | 📈 **Score** | 50/100 |

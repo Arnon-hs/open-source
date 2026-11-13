@@ -57,7 +57,7 @@
 | 47 | [visioncortex/vtracer](./visioncortex-vtracer.md) | ⭐ 7.5k | Rust | 57/100 |
 | 48 | [RailsEventStore/rails_event_store](./railseventstore-rails-event-store.md) | ⭐ 1.6k | Ruby | 57/100 |
 | 49 | [CircuitVerse/CircuitVerse](./circuitverse-circuitverse.md) | ⭐ 1.3k | JavaScript | 57/100 |
-| 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 656 | TypeScript | 57/100 |
+| 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 657 | TypeScript | 57/100 |
 | 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.3k | C++ | 57/100 |
 | 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 719 | Python | 57/100 |
 | 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 15 | JavaScript | 57/100 |
@@ -96,7 +96,7 @@
 | 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 562 | Swift | 52/100 |
 | 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.2k | Handlebars | 52/100 |
 | 88 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 107 | Rust | 52/100 |
-| 89 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 628 | Rust | 52/100 |
+| 89 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 629 | Rust | 52/100 |
 | 90 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 329 | HTML | 52/100 |
 | 91 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.4k | WebAssembly | 52/100 |
 | 92 | [openhwgroup/cvw](./openhwgroup-cvw.md) | ⭐ 553 | SystemVerilog | 52/100 |
@@ -119,7 +119,7 @@
 | 109 | [victorzhang016-code/victor-design](./victorzhang016-code-victor-design.md) | ⭐ 71 | JavaScript | 48/100 |
 | 110 | [everfu/hexo-theme-solitude](./everfu-hexo-theme-solitude.md) | ⭐ 1.2k | Stylus | 48/100 |
 | 111 | [author-more/penpot-desktop](./author-more-penpot-desktop.md) | ⭐ 1.2k | JavaScript | 48/100 |
-| 112 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 594 | Python | 47/100 |
+| 112 | [lige47/lige_icon](./lige47-lige-icon.md) | ⭐ 595 | Python | 47/100 |
 | 113 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 47/100 |
 | 114 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ 25 | — | 46/100 |
 | 115 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |

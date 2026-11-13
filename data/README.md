@@ -311,7 +311,7 @@
 | 301 | [nohajc/anylinuxfs](./nohajc-anylinuxfs.md) | ⭐ 1.7k | Rust | 50/100 |
 | 302 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 540 | C | 50/100 |
 | 303 | [wavelog/wavelog](./wavelog-wavelog.md) | ⭐ 590 | PHP | 50/100 |
-| 304 | [linkml/linkml](./linkml-linkml.md) | ⭐ 700 | Python | 50/100 |
+| 304 | [linkml/linkml](./linkml-linkml.md) | ⭐ 701 | Python | 50/100 |
 | 305 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 653 | Rust | 50/100 |
 | 306 | [mdn/browser-compat-data](./mdn-browser-compat-data.md) | ⭐ 5.8k | JSON | 50/100 |
 | 307 | [odebo/planet-zoo-2-dataset](./odebo-planet-zoo-2-dataset.md) | ⭐ — | — | 49/100 |
@@ -344,7 +344,7 @@
 | 334 | [idk-arsh/data-agent-rules](./idk-arsh-data-agent-rules.md) | ⭐ 2 | — | 45/100 |
 | 335 | [GetCassis/analytics-agent-articles](./getcassis-analytics-agent-articles.md) | ⭐ 68 | — | 45/100 |
 | 336 | [trynova/nova](./trynova-nova.md) | ⭐ 2k | Rust | 45/100 |
-| 337 | [apache/tez](./apache-tez.md) | ⭐ 523 | Java | 45/100 |
+| 337 | [apache/tez](./apache-tez.md) | ⭐ 524 | Java | 45/100 |
 | 338 | [ccbogel/QualCoder](./ccbogel-qualcoder.md) | ⭐ 709 | Python | 45/100 |
 | 339 | [scigolib/matlab](./scigolib-matlab.md) | ⭐ 12 | Go | 45/100 |
 | 340 | [gregjotau/google-photos-cli](./gregjotau-google-photos-cli.md) | ⭐ — | — | 44/100 |

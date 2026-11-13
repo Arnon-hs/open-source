@@ -137,7 +137,7 @@
 | 127 | [getgrav/grav](./getgrav-grav.md) | ⭐ 15.7k | PHP | 63/100 |
 | 128 | [markedjs/marked](./markedjs-marked.md) | ⭐ 37.3k | JavaScript | 63/100 |
 | 129 | [riba2534/feishu-cli](./riba2534-feishu-cli.md) | ⭐ 1.4k | Go | 63/100 |
-| 130 | [sxzz/ast-explorer](./sxzz-ast-explorer.md) | ⭐ 577 | TypeScript | 63/100 |
+| 130 | [sxzz/ast-explorer](./sxzz-ast-explorer.md) | ⭐ 578 | TypeScript | 63/100 |
 | 131 | [code16/sharp](./code16-sharp.md) | ⭐ 803 | PHP | 63/100 |
 | 132 | [LiuYuYang01/ThriveX-Blog](./liuyuyang01-thrivex-blog.md) | ⭐ 841 | TypeScript | 63/100 |
 | 133 | [decaporg/decap-cms](./decaporg-decap-cms.md) | ⭐ 19.5k | JavaScript | 63/100 |
@@ -194,7 +194,7 @@
 | 184 | [PSPDFKit/pdf-to-markdown](./pspdfkit-pdf-to-markdown.md) | ⭐ 356 | Shell | 61/100 |
 | 185 | [zhashut/goread](./zhashut-goread.md) | ⭐ 637 | TypeScript | 61/100 |
 | 186 | [flxzt/rnote](./flxzt-rnote.md) | ⭐ 11.9k | Rust | 61/100 |
-| 187 | [yukiyokotani/office-open-xml-viewer](./yukiyokotani-office-open-xml-viewer.md) | ⭐ 878 | TypeScript | 61/100 |
+| 187 | [yukiyokotani/office-open-xml-viewer](./yukiyokotani-office-open-xml-viewer.md) | ⭐ 876 | TypeScript | 61/100 |
 | 188 | [marph91/jimmy](./marph91-jimmy.md) | ⭐ 544 | Python | 61/100 |
 | 189 | [sumatrapdfreader/sumatrapdf](./sumatrapdfreader-sumatrapdf.md) | ⭐ 18k | C | 61/100 |
 | 190 | [kruseio/hygg](./kruseio-hygg.md) | ⭐ 363 | Rust | 61/100 |
@@ -223,7 +223,7 @@
 | 213 | [snownico0722/PaperTodo](./snownico0722-papertodo.md) | ⭐ 2.8k | C# | 60/100 |
 | 214 | [zokrezyl/yetty](./zokrezyl-yetty.md) | ⭐ 96 | C | 60/100 |
 | 215 | [gnoviawan/termul](./gnoviawan-termul.md) | ⭐ 306 | TypeScript | 60/100 |
-| 216 | [readium/swift-toolkit](./readium-swift-toolkit.md) | ⭐ 578 | Swift | 60/100 |
+| 216 | [readium/swift-toolkit](./readium-swift-toolkit.md) | ⭐ 579 | Swift | 60/100 |
 | 217 | [CollaboraOnline/online](./collaboraonline-online.md) | ⭐ 3.4k | Shell | 60/100 |
 | 218 | [tenngoxars/WeMD](./tenngoxars-wemd.md) | ⭐ 994 | TypeScript | 60/100 |
 | 219 | [hadziqmtqn/erd-builder-pro](./hadziqmtqn-erd-builder-pro.md) | ⭐ 209 | TypeScript | 60/100 |
@@ -381,7 +381,7 @@
 | 371 | [erikjuhani/basalt](./erikjuhani-basalt.md) | ⭐ 1.4k | Rust | 54/100 |
 | 372 | [contao/contao](./contao-contao.md) | ⭐ 454 | PHP | 54/100 |
 | 373 | [RainyGao-GitHub/DocSys](./rainygao-github-docsys.md) | ⭐ 364 | JavaScript | 54/100 |
-| 374 | [henriklovhaug/md-tui](./henriklovhaug-md-tui.md) | ⭐ 561 | Rust | 54/100 |
+| 374 | [henriklovhaug/md-tui](./henriklovhaug-md-tui.md) | ⭐ 562 | Rust | 54/100 |
 | 375 | [lockbook/lockbook](./lockbook-lockbook.md) | ⭐ 447 | Rust | 54/100 |
 | 376 | [koodo-reader/koodo-reader](./koodo-reader-koodo-reader.md) | ⭐ 28.8k | JavaScript | 54/100 |
 | 377 | [banq/jivejdon](./banq-jivejdon.md) | ⭐ 583 | Java | 54/100 |
@@ -511,7 +511,7 @@
 | 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
 | 502 | [waka/sghtmltopdf](./waka-sghtmltopdf.md) | ⭐ 381 | Rust | 46/100 |
 | 503 | [Sigil-Ebook/Sigil](./sigil-ebook-sigil.md) | ⭐ 7k | C++ | 46/100 |
-| 504 | [fiduswriter/fiduswriter](./fiduswriter-fiduswriter.md) | ⭐ 569 | JavaScript | 46/100 |
+| 504 | [fiduswriter/fiduswriter](./fiduswriter-fiduswriter.md) | ⭐ 570 | JavaScript | 46/100 |
 | 505 | [devonmochi/byetype](./devonmochi-byetype.md) | ⭐ 314 | Rust | 46/100 |
 | 506 | [nextcloud/notes](./nextcloud-notes.md) | ⭐ 745 | JavaScript | 46/100 |
 | 507 | [zensical/zensical](./zensical-zensical.md) | ⭐ 6.2k | Rust | 46/100 |
@@ -550,7 +550,7 @@
 | 540 | [rtostudioco/vulncheck-local](./rtostudioco-vulncheck-local.md) | ⭐ — | TypeScript | 44/100 |
 | 541 | [POL0ROID/Atari7800XT](./pol0roid-atari7800xt.md) | ⭐ 3 | — | 43/100 |
 | 542 | [williamhumbwavali/bando-blog](./williamhumbwavali-bando-blog.md) | ⭐ 1 | TypeScript | 43/100 |
-| 543 | [vincent-uden/miro](./vincent-uden-miro.md) | ⭐ 561 | Rust | 43/100 |
+| 543 | [vincent-uden/miro](./vincent-uden-miro.md) | ⭐ 562 | Rust | 43/100 |
 | 544 | [theiskaa/markdown2pdf](./theiskaa-markdown2pdf.md) | ⭐ 246 | Rust | 43/100 |
 | 545 | [LaurenzV/krilla](./laurenzv-krilla.md) | ⭐ 478 | Rust | 43/100 |
 | 546 | [galkahana/PDF-Writer](./galkahana-pdf-writer.md) | ⭐ 1k | C | 43/100 |
@@ -716,8 +716,8 @@
 | 706 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
 | 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
 | 708 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
-| 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
-| 710 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 709 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 710 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 711 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |
 | 712 | [grinev/boardown](./grinev-boardown.md) | ⭐ 46 | — | 38/100 |
 | 713 | [dsbitor/technotes-releases](./dsbitor-technotes-releases.md) | ⭐ 1 | — | 38/100 |
@@ -748,8 +748,8 @@
 | 738 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ 2 | — | 38/100 |
 | 739 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 740 | [bruits/satteri](./bruits-satteri.md) | ⭐ 1.3k | — | 38/100 |
-| 741 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
-| 742 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
+| 741 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
+| 742 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
 | 743 | [JagaTheGhost/visualmark-studio](./jagatheghost-visualmark-studio.md) | ⭐ 11 | JavaScript | 37/100 |
 | 744 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 745 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |

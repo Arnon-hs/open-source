@@ -61,7 +61,7 @@
 | 51 | [phlx0/snip](./phlx0-snip.md) | ⭐ 112 | Python | 66/100 |
 | 52 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 140.9k | C | 66/100 |
 | 53 | [jaywcjlove/rightmenu-master](./jaywcjlove-rightmenu-master.md) | ⭐ 564 | Swift | 66/100 |
-| 54 | [AmineDjeghri/personal-os-setup](./aminedjeghri-personal-os-setup.md) | ⭐ 677 | Python | 66/100 |
+| 54 | [AmineDjeghri/personal-os-setup](./aminedjeghri-personal-os-setup.md) | ⭐ 679 | Python | 66/100 |
 | 55 | [espanso/espanso](./espanso-espanso.md) | ⭐ 14.8k | Rust | 66/100 |
 | 56 | [kamiyaa/joshuto](./kamiyaa-joshuto.md) | ⭐ 3.7k | Rust | 66/100 |
 | 57 | [lfnovo/open-notebook](./lfnovo-open-notebook.md) | ⭐ 41.9k | TypeScript | 66/100 |
@@ -106,7 +106,7 @@
 | 96 | [Vortrix5/sifty](./vortrix5-sifty.md) | ⭐ 126 | Python | 62/100 |
 | 97 | [ConnorSweeneyDev/.config](./connorsweeneydev-.config.md) | ⭐ 66 | Lua | 62/100 |
 | 98 | [jemishavasoya/dev-cleaner](./jemishavasoya-dev-cleaner.md) | ⭐ 360 | Shell | 62/100 |
-| 99 | [seun-novodev/android-tv-debloat-toolkit](./seun-novodev-android-tv-debloat-toolkit.md) | ⭐ 817 | Python | 62/100 |
+| 99 | [seun-novodev/android-tv-debloat-toolkit](./seun-novodev-android-tv-debloat-toolkit.md) | ⭐ 820 | Python | 62/100 |
 | 100 | [ospfranco/sol](./ospfranco-sol.md) | ⭐ 3.2k | TypeScript | 62/100 |
 | 101 | [httptoolkit/httptoolkit-desktop](./httptoolkit-httptoolkit-desktop.md) | ⭐ 741 | TypeScript | 62/100 |
 | 102 | [hywax/mafl](./hywax-mafl.md) | ⭐ 760 | TypeScript | 62/100 |
@@ -119,7 +119,7 @@
 | 109 | [doraemonkeys/WindSend](./doraemonkeys-windsend.md) | ⭐ 620 | Dart | 61/100 |
 | 110 | [volotat/Anagnorisis](./volotat-anagnorisis.md) | ⭐ 360 | Python | 61/100 |
 | 111 | [gethouston/houston](./gethouston-houston.md) | ⭐ 119 | TypeScript | 61/100 |
-| 112 | [rommapp/argosy-launcher](./rommapp-argosy-launcher.md) | ⭐ 721 | Kotlin | 60/100 |
+| 112 | [rommapp/argosy-launcher](./rommapp-argosy-launcher.md) | ⭐ 725 | Kotlin | 60/100 |
 | 113 | [gioxx/MarvellousSuspender](./gioxx-marvelloussuspender.md) | ⭐ 1.4k | JavaScript | 60/100 |
 | 114 | [cosmic-utils/clipboard-manager](./cosmic-utils-clipboard-manager.md) | ⭐ 243 | Rust | 60/100 |
 | 115 | [noahbclarkson/rgitui](./noahbclarkson-rgitui.md) | ⭐ 278 | Rust | 60/100 |
@@ -152,7 +152,7 @@
 | 142 | [bdcdo/open-turkey](./bdcdo-open-turkey.md) | ⭐ 19 | Go | 58/100 |
 | 143 | [bug-ops/helix-trainer](./bug-ops-helix-trainer.md) | ⭐ 92 | Rust | 58/100 |
 | 144 | [HMCL-dev/HMCL](./hmcl-dev-hmcl.md) | ⭐ 11k | Java | 58/100 |
-| 145 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 804 | TypeScript | 58/100 |
+| 145 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 808 | TypeScript | 58/100 |
 | 146 | [kxxt/tracexec](./kxxt-tracexec.md) | ⭐ 449 | Rust | 58/100 |
 | 147 | [LinwoodDev/Butterfly](./linwooddev-butterfly.md) | ⭐ 2.1k | Dart | 58/100 |
 | 148 | [jenius-apps/ambie](./jenius-apps-ambie.md) | ⭐ 2.2k | C# | 58/100 |
@@ -195,10 +195,10 @@
 | 185 | [openTrinity/mycontext](./opentrinity-mycontext.md) | ⭐ 5k | TypeScript | 55/100 |
 | 186 | [Rolv-Apneseth/rofi-games](./rolv-apneseth-rofi-games.md) | ⭐ 116 | Rust | 55/100 |
 | 187 | [harry0703/MangoDisk](./harry0703-mangodisk.md) | ⭐ 5.5k | Rust | 55/100 |
-| 188 | [lawrencehook/remove-youtube-suggestions](./lawrencehook-remove-youtube-suggestions.md) | ⭐ 588 | JavaScript | 55/100 |
+| 188 | [lawrencehook/remove-youtube-suggestions](./lawrencehook-remove-youtube-suggestions.md) | ⭐ 589 | JavaScript | 55/100 |
 | 189 | [vietanhdev/ThinkUtils](./vietanhdev-thinkutils.md) | ⭐ 124 | Rust | 55/100 |
 | 190 | [FreesmTeam/FreesmLauncher](./freesmteam-freesmlauncher.md) | ⭐ 931 | C++ | 55/100 |
-| 191 | [ghost-him/ZeroLaunch-rs](./ghost-him-zerolaunch-rs.md) | ⭐ 582 | Rust | 55/100 |
+| 191 | [ghost-him/ZeroLaunch-rs](./ghost-him-zerolaunch-rs.md) | ⭐ 583 | Rust | 55/100 |
 | 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 361 | Rust | 55/100 |
 | 193 | [modrinth/code](./modrinth-code.md) | ⭐ 2.5k | Rust | 55/100 |
 | 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.8k | Rust | 55/100 |
@@ -309,7 +309,7 @@
 | 299 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 829 | Shell | 45/100 |
 | 300 | [nstlaurent/DoomLauncher](./nstlaurent-doomlauncher.md) | ⭐ 335 | C# | 45/100 |
 | 301 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 475 | Kotlin | 45/100 |
-| 302 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 623 | QML | 45/100 |
+| 302 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 624 | QML | 45/100 |
 | 303 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 304 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 305 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |

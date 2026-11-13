@@ -147,7 +147,7 @@
 | 137 | [bozhouDev/video-skills-toolkit](./bozhoudev-video-skills-toolkit.md) | ⭐ 164 | JavaScript | 70/100 |
 | 138 | [Zulko/moviepy](./zulko-moviepy.md) | ⭐ 15.1k | Python | 70/100 |
 | 139 | [Megafitzkiln/video-editor-works](./megafitzkiln-video-editor-works.md) | ⭐ 23 | — | 70/100 |
-| 140 | [linzzzzzz/openclip](./linzzzzzz-openclip.md) | ⭐ 578 | Python | 70/100 |
+| 140 | [linzzzzzz/openclip](./linzzzzzz-openclip.md) | ⭐ 579 | Python | 70/100 |
 | 141 | [haidrrrry/claude-remotion-skill](./haidrrrry-claude-remotion-skill.md) | ⭐ 962 | TypeScript | 70/100 |
 | 142 | [SysAdminDoc/OpenCut](./sysadmindoc-opencut.md) | ⭐ 67 | Python | 70/100 |
 | 143 | [quietvoid/dovi_tool](./quietvoid-dovi-tool.md) | ⭐ 1k | Rust | 70/100 |
@@ -367,7 +367,7 @@
 | 357 | [YusufB5/ASCILINE](./yusufb5-asciline.md) | ⭐ 2.8k | Python | 61/100 |
 | 358 | [Lake1059/FFmpegFreeUI](./lake1059-ffmpegfreeui.md) | ⭐ 8.5k | Visual Basic .NET | 61/100 |
 | 359 | [n00bcodr/Jellyfin-Enhanced](./n00bcodr-jellyfin-enhanced.md) | ⭐ 2k | JavaScript | 61/100 |
-| 360 | [ysm-dev/cpdown](./ysm-dev-cpdown.md) | ⭐ 583 | TypeScript | 61/100 |
+| 360 | [ysm-dev/cpdown](./ysm-dev-cpdown.md) | ⭐ 584 | TypeScript | 61/100 |
 | 361 | [Zackriya-Solutions/meetily](./zackriya-solutions-meetily.md) | ⭐ 32.7k | Rust | 61/100 |
 | 362 | [eliteludoglobal-create/mpeg-video-editor](./eliteludoglobal-create-mpeg-video-editor.md) | ⭐ 102 | HTML | 60/100 |
 | 363 | [dhruvthakur11/youtube-ai-video-editing-system](./dhruvthakur11-youtube-ai-video-editing-system.md) | ⭐ 483 | HTML | 60/100 |
@@ -443,14 +443,14 @@
 | 433 | [PhiloLabs/agentic-vbench](./philolabs-agentic-vbench.md) | ⭐ 112 | Python | 58/100 |
 | 434 | [xcslys99/FootageFlow](./xcslys99-footageflow.md) | ⭐ 133 | Swift | 58/100 |
 | 435 | [jd-opensource/JoyAI-Video-Edit](./jd-opensource-joyai-video-edit.md) | ⭐ 2.1k | Python | 58/100 |
-| 436 | [Blue-B/WhisperSubTranslate](./blue-b-whispersubtranslate.md) | ⭐ 844 | JavaScript | 58/100 |
+| 436 | [Blue-B/WhisperSubTranslate](./blue-b-whispersubtranslate.md) | ⭐ 845 | JavaScript | 58/100 |
 | 437 | [AtlasCloudAI/awesome-seedance-2.5-prompts-skills](./atlascloudai-awesome-seedance-2.5-prompts-skills.md) | ⭐ 267 | TypeScript | 58/100 |
 | 438 | [Sportinger/MasterSelects](./sportinger-masterselects.md) | ⭐ 461 | TypeScript | 58/100 |
 | 439 | [nimbold/Firelink](./nimbold-firelink.md) | ⭐ 215 | Rust | 58/100 |
 | 440 | [taco-group/SparkVSR](./taco-group-sparkvsr.md) | ⭐ 750 | Python | 58/100 |
 | 441 | [yohasebe/whisper-stream](./yohasebe-whisper-stream.md) | ⭐ 131 | Shell | 58/100 |
 | 442 | [vanloctech/youwee](./vanloctech-youwee.md) | ⭐ 1.6k | TypeScript | 58/100 |
-| 443 | [bcmi/Light-A-Video](./bcmi-light-a-video.md) | ⭐ 528 | Python | 57/100 |
+| 443 | [bcmi/Light-A-Video](./bcmi-light-a-video.md) | ⭐ 529 | Python | 57/100 |
 | 444 | [SolarLanceRejuvenate/Cap-Cut-Unlock](./solarlancerejuvenate-cap-cut-unlock.md) | ⭐ 21 | — | 57/100 |
 | 445 | [SolarLanceRejuvenate/CapCut-Pro-Unlock](./solarlancerejuvenate-capcut-pro-unlock.md) | ⭐ 21 | — | 57/100 |
 | 446 | [minosdevs/cinematic-film](./minosdevs-cinematic-film.md) | ⭐ 21 | TypeScript | 57/100 |
@@ -516,8 +516,8 @@
 | 506 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 507 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 50 | Kotlin | 53/100 |
 | 508 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 509 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
-| 510 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 509 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 510 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
 | 511 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 512 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 523 | — | 53/100 |
 | 513 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
@@ -555,12 +555,12 @@
 | 545 | [gcanat/video_reader-rs](./gcanat-video-reader-rs.md) | ⭐ 127 | Rust | 50/100 |
 | 546 | [McCloudS/subgen](./mcclouds-subgen.md) | ⭐ 1.5k | Python | 50/100 |
 | 547 | [haasn/libplacebo](./haasn-libplacebo.md) | ⭐ 813 | C | 50/100 |
-| 548 | [ffplayout/ffplayout](./ffplayout-ffplayout.md) | ⭐ 600 | Rust | 50/100 |
+| 548 | [ffplayout/ffplayout](./ffplayout-ffplayout.md) | ⭐ 601 | Rust | 50/100 |
 | 549 | [vanakala/cinelerra-cve](./vanakala-cinelerra-cve.md) | ⭐ 31 | C | 49/100 |
 | 550 | [vaughnn/burned-in-subtitle-removal-benchmark](./vaughnn-burned-in-subtitle-removal-benchmark.md) | ⭐ — | — | 49/100 |
 | 551 | [adalbertobrant/animagit](./adalbertobrant-animagit.md) | ⭐ 3 | — | 49/100 |
 | 552 | [remotion-dev/github-unwrapped-2023](./remotion-dev-github-unwrapped-2023.md) | ⭐ — | — | 49/100 |
-| 553 | [PunithVT/ai-avatar-system](./punithvt-ai-avatar-system.md) | ⭐ 575 | Python | 49/100 |
+| 553 | [PunithVT/ai-avatar-system](./punithvt-ai-avatar-system.md) | ⭐ 576 | Python | 49/100 |
 | 554 | [1Step621/zerium](./1step621-zerium.md) | ⭐ 67 | Rust | 49/100 |
 | 555 | [GVCLab/EditaLive](./gvclab-editalive.md) | ⭐ 113 | — | 49/100 |
 | 556 | [cobanov/autocut](./cobanov-autocut.md) | ⭐ 76 | Rust | 49/100 |
@@ -571,8 +571,8 @@
 | 561 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 17 | — | 48/100 |
 | 562 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 563 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 3 | Python | 48/100 |
-| 564 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
-| 565 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
+| 564 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
+| 565 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
 | 566 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 567 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 34 | — | 48/100 |
 | 568 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ 22 | — | 48/100 |

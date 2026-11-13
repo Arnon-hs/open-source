@@ -13,7 +13,7 @@
 | 3 | [visgl/deck.gl](./visgl-deck.gl.md) | ⭐ 14.8k | TypeScript | 73/100 |
 | 4 | [google/filament](./google-filament.md) | ⭐ 20.7k | C++ | 71/100 |
 | 5 | [assimp/assimp](./assimp-assimp.md) | ⭐ 13.3k | C++ | 70/100 |
-| 6 | [IppClub/Dora-SSR](./ippclub-dora-ssr.md) | ⭐ 543 | C++ | 70/100 |
+| 6 | [IppClub/Dora-SSR](./ippclub-dora-ssr.md) | ⭐ 544 | C++ | 70/100 |
 | 7 | [LukasBanana/LLGL](./lukasbanana-llgl.md) | ⭐ 2.6k | C++ | 69/100 |
 | 8 | [Orama-Interactive/Pixelorama](./orama-interactive-pixelorama.md) | ⭐ 11.1k | GDScript | 69/100 |
 | 9 | [graphistry/pygraphistry](./graphistry-pygraphistry.md) | ⭐ 2.6k | Python | 69/100 |
@@ -60,7 +60,7 @@
 | 50 | [KhronosGroup/Vulkan-Hpp](./khronosgroup-vulkan-hpp.md) | ⭐ 3.8k | C++ | 63/100 |
 | 51 | [skylicht-lab/skylicht-engine](./skylicht-lab-skylicht-engine.md) | ⭐ 772 | C++ | 63/100 |
 | 52 | [fury-gl/fury](./fury-gl-fury.md) | ⭐ 304 | Python | 63/100 |
-| 53 | [sinanata/unity-ui-toolkit-design-system](./sinanata-unity-ui-toolkit-design-system.md) | ⭐ 568 | C# | 63/100 |
+| 53 | [sinanata/unity-ui-toolkit-design-system](./sinanata-unity-ui-toolkit-design-system.md) | ⭐ 569 | C# | 63/100 |
 | 54 | [Redot-Engine/redot-engine](./redot-engine-redot-engine.md) | ⭐ 6.2k | C++ | 63/100 |
 | 55 | [RPCS3/rpcs3](./rpcs3-rpcs3.md) | ⭐ 20.4k | C++ | 63/100 |
 | 56 | [doitsujin/dxvk](./doitsujin-dxvk.md) | ⭐ 18.5k | C++ | 63/100 |
@@ -168,7 +168,7 @@
 | 158 | [ddnet/ddnet](./ddnet-ddnet.md) | ⭐ 861 | C++ | 57/100 |
 | 159 | [M64GitHub/movy](./m64github-movy.md) | ⭐ 101 | Zig | 57/100 |
 | 160 | [fegennari/3DWorld](./fegennari-3dworld.md) | ⭐ 1.4k | C++ | 57/100 |
-| 161 | [playcanvas/supersplat-viewer](./playcanvas-supersplat-viewer.md) | ⭐ 618 | TypeScript | 57/100 |
+| 161 | [playcanvas/supersplat-viewer](./playcanvas-supersplat-viewer.md) | ⭐ 619 | TypeScript | 57/100 |
 | 162 | [scarsty/kys-cpp](./scarsty-kys-cpp.md) | ⭐ 3k | C++ | 57/100 |
 | 163 | [attackgoat/vk-graph](./attackgoat-vk-graph.md) | ⭐ 348 | Rust | 57/100 |
 | 164 | [castle-engine/castle-engine](./castle-engine-castle-engine.md) | ⭐ 1.3k | Pascal | 57/100 |
@@ -214,13 +214,13 @@
 | 204 | [Librelancer/Librelancer](./librelancer-librelancer.md) | ⭐ 612 | C# | 55/100 |
 | 205 | [vchelaru/FlatRedBall](./vchelaru-flatredball.md) | ⭐ 583 | C# | 55/100 |
 | 206 | [grovesNL/glow](./grovesnl-glow.md) | ⭐ 1.5k | Rust | 55/100 |
-| 207 | [bytemeadow/godot-bevy](./bytemeadow-godot-bevy.md) | ⭐ 581 | Rust | 55/100 |
+| 207 | [bytemeadow/godot-bevy](./bytemeadow-godot-bevy.md) | ⭐ 580 | Rust | 55/100 |
 | 208 | [jakubtomsu/awesome-odin](./jakubtomsu-awesome-odin.md) | ⭐ 1.1k | Odin | 55/100 |
 | 209 | [makepad/makepad](./makepad-makepad.md) | ⭐ 7.3k | Rust | 55/100 |
 | 210 | [cvet/fonline](./cvet-fonline.md) | ⭐ 344 | C++ | 55/100 |
 | 211 | [dontpanic92/OpenPAL3](./dontpanic92-openpal3.md) | ⭐ 587 | Rust | 55/100 |
 | 212 | [OpenGeoscience/geojs](./opengeoscience-geojs.md) | ⭐ 471 | JavaScript | 55/100 |
-| 213 | [kool-engine/kool](./kool-engine-kool.md) | ⭐ 597 | Kotlin | 55/100 |
+| 213 | [kool-engine/kool](./kool-engine-kool.md) | ⭐ 598 | Kotlin | 55/100 |
 | 214 | [bevyengine/bevy](./bevyengine-bevy.md) | ⭐ 49.7k | Rust | 55/100 |
 | 215 | [ProxyShard/ShardBrowser](./proxyshard-shardbrowser.md) | ⭐ 1.5k | TypeScript | 54/100 |
 | 216 | [MrDrElliot/LuminaEngine](./mrdrelliot-luminaengine.md) | ⭐ 557 | C++ | 54/100 |
@@ -243,7 +243,7 @@
 | 233 | [KDABLabs/kdabtv](./kdablabs-kdabtv.md) | ⭐ 328 | C++ | 53/100 |
 | 234 | [GlistEngine/GlistEngine](./glistengine-glistengine.md) | ⭐ 384 | C++ | 53/100 |
 | 235 | [dimforge/kiss3d](./dimforge-kiss3d.md) | ⭐ 1.8k | Rust | 53/100 |
-| 236 | [Traverse-Research/gpu-allocator](./traverse-research-gpu-allocator.md) | ⭐ 509 | Rust | 53/100 |
+| 236 | [Traverse-Research/gpu-allocator](./traverse-research-gpu-allocator.md) | ⭐ 510 | Rust | 53/100 |
 | 237 | [dimforge/parry](./dimforge-parry.md) | ⭐ 891 | Rust | 53/100 |
 | 238 | [flame-engine/flame](./flame-engine-flame.md) | ⭐ 10.8k | Dart | 53/100 |
 | 239 | [luanti-org/luanti](./luanti-org-luanti.md) | ⭐ 13.9k | C++ | 53/100 |

@@ -49,7 +49,7 @@
 | 39 | [kitwork/starter](./kitwork-starter.md) | ⭐ 40 | HTML | 80/100 |
 | 40 | [CuriousLearner/django-keel](./curiouslearner-django-keel.md) | ⭐ 382 | Jinja | 80/100 |
 | 41 | [oapi-codegen/oapi-codegen](./oapi-codegen-oapi-codegen.md) | ⭐ 8.7k | Go | 80/100 |
-| 42 | [rustmailer/rustmailer](./rustmailer-rustmailer.md) | ⭐ 519 | Rust | 80/100 |
+| 42 | [rustmailer/rustmailer](./rustmailer-rustmailer.md) | ⭐ 521 | Rust | 80/100 |
 | 43 | [iniwap/AIWriteX](./iniwap-aiwritex.md) | ⭐ 2.3k | Python | 80/100 |
 | 44 | [Quicksi-CLI/quicksiCLI](./quicksi-cli-quicksicli.md) | ⭐ 100 | TypeScript | 80/100 |
 | 45 | [AterDev/Perigon.CLI](./aterdev-perigon.cli.md) | ⭐ 54 | C# | 80/100 |
@@ -178,10 +178,10 @@
 | 168 | [spring-projects/spring-data-elasticsearch](./spring-projects-spring-data-elasticsearch.md) | ⭐ 3k | Java | 70/100 |
 | 169 | [SilentVoid13/Templater](./silentvoid13-templater.md) | ⭐ 5.4k | TypeScript | 70/100 |
 | 170 | [developer2013/bricks-mcp-open](./developer2013-bricks-mcp-open.md) | ⭐ 94 | PHP | 70/100 |
-| 171 | [nadimtuhin/claude-token-optimizer](./nadimtuhin-claude-token-optimizer.md) | ⭐ 652 | JavaScript | 70/100 |
-| 172 | [BlessedRebuS/Krawl](./blessedrebus-krawl.md) | ⭐ 839 | HTML | 70/100 |
+| 171 | [nadimtuhin/claude-token-optimizer](./nadimtuhin-claude-token-optimizer.md) | ⭐ 653 | JavaScript | 70/100 |
+| 172 | [BlessedRebuS/Krawl](./blessedrebus-krawl.md) | ⭐ 840 | HTML | 70/100 |
 | 173 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 13.3k | JavaScript | 70/100 |
-| 174 | [velobase/velobase-harness](./velobase-velobase-harness.md) | ⭐ 621 | TypeScript | 70/100 |
+| 174 | [velobase/velobase-harness](./velobase-velobase-harness.md) | ⭐ 623 | TypeScript | 70/100 |
 | 175 | [darkroomengineering/satus](./darkroomengineering-satus.md) | ⭐ 1k | TypeScript | 70/100 |
 | 176 | [traefik/traefik-helm-chart](./traefik-traefik-helm-chart.md) | ⭐ 1.4k | Go Template | 70/100 |
 | 177 | [EtienneLescot/n8n-as-code](./etiennelescot-n8n-as-code.md) | ⭐ 1.7k | TypeScript | 70/100 |
@@ -198,7 +198,7 @@
 | 188 | [BorisPolonsky/dify-helm](./borispolonsky-dify-helm.md) | ⭐ 679 | Go Template | 69/100 |
 | 189 | [davekilleen/Dex](./davekilleen-dex.md) | ⭐ 515 | Python | 69/100 |
 | 190 | [raulvidis/openclaw-multi-agent-kit](./raulvidis-openclaw-multi-agent-kit.md) | ⭐ 391 | — | 69/100 |
-| 191 | [VigoZhao/AI-Visual-Prompt-Cookbook](./vigozhao-ai-visual-prompt-cookbook.md) | ⭐ 841 | Python | 69/100 |
+| 191 | [VigoZhao/AI-Visual-Prompt-Cookbook](./vigozhao-ai-visual-prompt-cookbook.md) | ⭐ 843 | Python | 69/100 |
 | 192 | [clarity-digital-development/tworkflow](./clarity-digital-development-tworkflow.md) | ⭐ 46 | Python | 69/100 |
 | 193 | [dannote/dot-pi](./dannote-dot-pi.md) | ⭐ 58 | TypeScript | 69/100 |
 | 194 | [hoangnb24/repository-harness](./hoangnb24-repository-harness.md) | ⭐ 1.3k | Rust | 69/100 |
@@ -304,10 +304,10 @@
 | 294 | [assassinationss/awesome-china-sourcing](./assassinationss-awesome-china-sourcing.md) | ⭐ — | — | 63/100 |
 | 295 | [bullet-train-co/bullet_train](./bullet-train-co-bullet-train.md) | ⭐ 1.9k | Ruby | 63/100 |
 | 296 | [rockbenben/LearnData](./rockbenben-learndata.md) | ⭐ 532 | JavaScript | 63/100 |
-| 297 | [EveSunMaple/Frosti](./evesunmaple-frosti.md) | ⭐ 492 | Astro | 63/100 |
+| 297 | [EveSunMaple/Frosti](./evesunmaple-frosti.md) | ⭐ 493 | Astro | 63/100 |
 | 298 | [jmcollin78/versatile_thermostat](./jmcollin78-versatile-thermostat.md) | ⭐ 1.3k | Python | 63/100 |
 | 299 | [mitsuhiko/minijinja](./mitsuhiko-minijinja.md) | ⭐ 2.8k | Rust | 63/100 |
-| 300 | [KumoCorp/kumomta](./kumocorp-kumomta.md) | ⭐ 584 | Rust | 63/100 |
+| 300 | [KumoCorp/kumomta](./kumocorp-kumomta.md) | ⭐ 586 | Rust | 63/100 |
 | 301 | [kudoleh/iOS-Modular-Architecture](./kudoleh-ios-modular-architecture.md) | ⭐ 850 | Swift | 63/100 |
 | 302 | [web-infra-dev/modern.js](./web-infra-dev-modern.js.md) | ⭐ 5k | TypeScript | 63/100 |
 | 303 | [bismillahinspiringquotes-eng/claude-code-kit](./bismillahinspiringquotes-eng-claude-code-kit.md) | ⭐ 14 | — | 62/100 |

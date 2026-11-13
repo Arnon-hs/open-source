@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 540 |
+| ⭐ **Stars** | 536 |
 | 🍴 **Forks** | 81 |
 | 💻 **Language** | Smalltalk |
 | 📈 **Score** | 55/100 |

@@ -58,7 +58,7 @@
 | 48 | [jackc/pgx](./jackc-pgx.md) | ⭐ 14.4k | Go | 65/100 |
 | 49 | [miniflux/v2](./miniflux-v2.md) | ⭐ 9.9k | Go | 65/100 |
 | 50 | [kzahel/yepanywhere](./kzahel-yepanywhere.md) | ⭐ 548 | TypeScript | 65/100 |
-| 51 | [Pelski/ytzero](./pelski-ytzero.md) | ⭐ 675 | TypeScript | 64/100 |
+| 51 | [Pelski/ytzero](./pelski-ytzero.md) | ⭐ 676 | TypeScript | 64/100 |
 | 52 | [pelikan-io/pelikan](./pelikan-io-pelikan.md) | ⭐ 296 | Rust | 64/100 |
 | 53 | [krateng/maloja](./krateng-maloja.md) | ⭐ 1.9k | Python | 64/100 |
 | 54 | [planetscale/cli](./planetscale-cli.md) | ⭐ 672 | Go | 64/100 |
@@ -115,7 +115,7 @@
 | 105 | [diesel-rs/diesel](./diesel-rs-diesel.md) | ⭐ 14.2k | Rust | 61/100 |
 | 106 | [openeducat/openeducat_erp](./openeducat-openeducat-erp.md) | ⭐ 911 | HTML | 61/100 |
 | 107 | [openclaw/discrawl](./openclaw-discrawl.md) | ⭐ 862 | Go | 61/100 |
-| 108 | [s2-streamstore/s2](./s2-streamstore-s2.md) | ⭐ 818 | Rust | 61/100 |
+| 108 | [s2-streamstore/s2](./s2-streamstore-s2.md) | ⭐ 819 | Rust | 61/100 |
 | 109 | [gravitational/teleport](./gravitational-teleport.md) | ⭐ 21.1k | Go | 61/100 |
 | 110 | [mortennordbye/headroom](./mortennordbye-headroom.md) | ⭐ 11 | TypeScript | 60/100 |
 | 111 | [react-native-async-storage/async-storage](./react-native-async-storage-async-storage.md) | ⭐ 5.1k | Kotlin | 60/100 |
@@ -152,7 +152,7 @@
 | 142 | [apache/cassandra](./apache-cassandra.md) | ⭐ 10.2k | Java | 59/100 |
 | 143 | [KouShenhai/KCloud-Platform-IoT](./koushenhai-kcloud-platform-iot.md) | ⭐ 680 | Java | 59/100 |
 | 144 | [faust-streaming/faust](./faust-streaming-faust.md) | ⭐ 1.9k | Python | 59/100 |
-| 145 | [blnkfinance/blnk](./blnkfinance-blnk.md) | ⭐ 588 | Go | 59/100 |
+| 145 | [blnkfinance/blnk](./blnkfinance-blnk.md) | ⭐ 591 | Go | 59/100 |
 | 146 | [ridgepole/ridgepole](./ridgepole-ridgepole.md) | ⭐ 1.1k | Ruby | 59/100 |
 | 147 | [pandorafuture/wx-cli](./pandorafuture-wx-cli.md) | ⭐ 1k | Rust | 59/100 |
 | 148 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 1.3k | Rust | 59/100 |
@@ -230,7 +230,7 @@
 | 220 | [baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv](./baselkelziye-ytu-bilgisayar-muhendisligi-arsiv.md) | ⭐ 507 | Jupyter Notebook | 55/100 |
 | 221 | [omega8cc/boa](./omega8cc-boa.md) | ⭐ 395 | Shell | 55/100 |
 | 222 | [glommer/pgmicro](./glommer-pgmicro.md) | ⭐ 1.2k | Rust | 55/100 |
-| 223 | [f1db/f1db](./f1db-f1db.md) | ⭐ 652 | Kotlin | 55/100 |
+| 223 | [f1db/f1db](./f1db-f1db.md) | ⭐ 655 | Kotlin | 55/100 |
 | 224 | [scalikejdbc/scalikejdbc](./scalikejdbc-scalikejdbc.md) | ⭐ 1.3k | Scala | 55/100 |
 | 225 | [kenyounot123/moneypouch](./kenyounot123-moneypouch.md) | ⭐ 5 | Ruby | 54/100 |
 | 226 | [AnshMeshram/dabbaiq](./anshmeshram-dabbaiq.md) | ⭐ — | TypeScript | 54/100 |
@@ -241,7 +241,7 @@
 | 231 | [golang/vulndb](./golang-vulndb.md) | ⭐ 610 | Go | 54/100 |
 | 232 | [typedb/typeql](./typedb-typeql.md) | ⭐ 257 | Rust | 54/100 |
 | 233 | [hacan359/tonkatsu_box](./hacan359-tonkatsu-box.md) | ⭐ 606 | Dart | 54/100 |
-| 234 | [sqliteai/sqlite-sync](./sqliteai-sqlite-sync.md) | ⭐ 609 | C | 54/100 |
+| 234 | [sqliteai/sqlite-sync](./sqliteai-sqlite-sync.md) | ⭐ 612 | C | 54/100 |
 | 235 | [timescale/timescaledb-toolkit](./timescale-timescaledb-toolkit.md) | ⭐ 493 | Rust | 54/100 |
 | 236 | [theseus-rs/postgresql-embedded](./theseus-rs-postgresql-embedded.md) | ⭐ 408 | Rust | 54/100 |
 | 237 | [planetscale/database-skills](./planetscale-database-skills.md) | ⭐ 739 | HTML | 54/100 |
@@ -249,7 +249,7 @@
 | 239 | [lyric777/Book-Management-System](./lyric777-book-management-system.md) | ⭐ 400 | Python | 54/100 |
 | 240 | [Netflix/atlas](./netflix-atlas.md) | ⭐ 3.6k | Scala | 54/100 |
 | 241 | [fatkodima/online_migrations](./fatkodima-online-migrations.md) | ⭐ 758 | Ruby | 54/100 |
-| 242 | [cmu-db/dbdb.io](./cmu-db-dbdb.io.md) | ⭐ 591 | Python | 54/100 |
+| 242 | [cmu-db/dbdb.io](./cmu-db-dbdb.io.md) | ⭐ 593 | Python | 54/100 |
 | 243 | [apache/jackrabbit-oak](./apache-jackrabbit-oak.md) | ⭐ 415 | Java | 54/100 |
 | 244 | [cornucopia-rs/cornucopia](./cornucopia-rs-cornucopia.md) | ⭐ 1.2k | Rust | 54/100 |
 | 245 | [teorth/erdosproblems](./teorth-erdosproblems.md) | ⭐ 883 | Python | 54/100 |
@@ -580,8 +580,8 @@
 | 570 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 571 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 572 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 106 | — | 38/100 |
-| 573 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
-| 574 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 573 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 574 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
 | 575 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 576 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 577 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

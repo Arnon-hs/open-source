@@ -27,7 +27,7 @@
 | 17 | [angelotc/antigravity-seo](./angelotc-antigravity-seo.md) | ⭐ 2 | — | 51/100 |
 | 18 | [okou-ai/okou](./okou-ai-okou.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 19 | [lix-project/lix](./lix-project-lix.md) | ⭐ 651 | C++ | 50/100 |
-| 20 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 7.4k | — | 48/100 |
+| 20 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 7.5k | — | 48/100 |
 | 21 | [neodevpro/neodevhost](./neodevpro-neodevhost.md) | ⭐ 1.4k | Adblock Filter List | 48/100 |
 | 22 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 2.5k | JavaScript | 47/100 |
 | 23 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 745 | Adblock Filter List | 47/100 |
