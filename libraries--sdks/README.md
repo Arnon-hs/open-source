@@ -265,7 +265,7 @@
 | 255 | [Domenico-Tenace-Open-Labs/spellbook-of-skill](./domenico-tenace-open-labs-spellbook-of-skill.md) | ⭐ 2 | — | 46/100 |
 | 256 | [DouglasDwyer/Egui.NET](./douglasdwyer-egui.net.md) | ⭐ 125 | Rust | 46/100 |
 | 257 | [ros2-rust/ros2_rust](./ros2-rust-ros2-rust.md) | ⭐ 1.6k | Rust | 46/100 |
-| 258 | [jpdagostin0/amc](./jpdagostin0-amc.md) | ⭐ — | — | 45/100 |
+| 258 | [jpdagostin0/amc](./jpdagostin0-amc.md) | ⭐ 1 | — | 45/100 |
 | 259 | [necoz-oss/type-tune](./necoz-oss-type-tune.md) | ⭐ 9 | — | 45/100 |
 | 260 | [sandrpod/sandrpod](./sandrpod-sandrpod.md) | ⭐ 4 | — | 45/100 |
 | 261 | [RanjithRagavan/Noctua](./ranjithragavan-noctua.md) | ⭐ 3 | — | 45/100 |

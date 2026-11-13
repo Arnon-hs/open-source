@@ -118,8 +118,8 @@
 | 108 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.9k | PHP | 62/100 |
 | 109 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 10.3k | PHP | 62/100 |
 | 110 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 1.1k | TypeScript | 62/100 |
-| 111 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
-| 112 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 111 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 112 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
 | 113 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 114 | [actions/checkout](./actions-checkout.md) | ⭐ 8.8k | TypeScript | 61/100 |
 | 115 | [paid-tw/payment](./paid-tw-payment.md) | ⭐ 86 | TypeScript | 61/100 |
@@ -399,9 +399,9 @@
 | 389 | [edyiaeonian/eu-einvoice-bridge](./edyiaeonian-eu-einvoice-bridge.md) | ⭐ — | XSLT | 36/100 |
 | 390 | [OpenStrap/edge](./openstrap-edge.md) | ⭐ 913 | — | 36/100 |
 | 391 | [YashAdake/parchi](./yashadake-parchi.md) | ⭐ — | HTML | 35/100 |
-| 392 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 35/100 |
-| 393 | [Godman-s/aiax](./godman-s-aiax.md) | ⭐ — | — | 34/100 |
-| 394 | [DTPlayer/payments_enot_webapps_telegram](./dtplayer-payments-enot-webapps-telegram.md) | ⭐ 2 | Python | 33/100 |
+| 392 | [Godman-s/aiax](./godman-s-aiax.md) | ⭐ — | — | 34/100 |
+| 393 | [DTPlayer/payments_enot_webapps_telegram](./dtplayer-payments-enot-webapps-telegram.md) | ⭐ 2 | Python | 33/100 |
+| 394 | [624183-NITAP/VaultLedger-AI](./624183-nitap-vaultledger-ai.md) | ⭐ — | JavaScript | 32/100 |
 | 395 | [yavonalabs/invariant](./yavonalabs-invariant.md) | ⭐ — | JavaScript | 30/100 |
 
 ---

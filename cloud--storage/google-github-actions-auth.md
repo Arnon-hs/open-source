@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.4k |
-| 🍴 **Forks** | 307 |
+| 🍴 **Forks** | 308 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-11-07 |
@@ -52,8 +52,8 @@ google-github-actions/auth：google-github-actions/auth may be useful when its R
 
 **Quality signals**
 
-- 1419 GitHub stars
-- 307 forks
+- 1420 GitHub stars
+- 308 forks
 - updated 2026-11-07
 - primary language: TypeScript
 - 16 topics

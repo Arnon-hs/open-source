@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.5k |
-| 🍴 **Forks** | 414 |
+| 🍴 **Forks** | 415 |
 | 💻 **Language** | Modelica |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-05 |
