@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 49/100 |
@@ -53,7 +53,7 @@ wangguode/hardcall：wangguode/hardcall helps add AI capability without starting
 
 **Quality signals**
 
-- 1 GitHub stars
+- 2 GitHub stars
 - updated 2026-11-09
 - primary language: TypeScript
 - 7 topics
@@ -65,13 +65,13 @@ wangguode/hardcall：wangguode/hardcall helps add AI capability without starting
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 46/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 56/100 |
+| production | 57/100 |
 | outlook | 57/100 |
-| adoption | 5/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 100/100 |
-| stars | 6/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 88/100 |

@@ -89,7 +89,7 @@
 | 79 | [smartstore/Smartstore](./smartstore-smartstore.md) | ⭐ 1.7k | C# | 70/100 |
 | 80 | [glassechidna/trackiam](./glassechidna-trackiam.md) | ⭐ 307 | Go | 70/100 |
 | 81 | [Azure/azure-sdk-for-go](./azure-azure-sdk-for-go.md) | ⭐ 1.9k | Go | 70/100 |
-| 82 | [kopia/kopia](./kopia-kopia.md) | ⭐ 14.6k | Go | 70/100 |
+| 82 | [kopia/kopia](./kopia-kopia.md) | ⭐ 14.7k | Go | 70/100 |
 | 83 | [crossplane/crossplane](./crossplane-crossplane.md) | ⭐ 12.2k | Go | 69/100 |
 | 84 | [denislupookov/altersend](./denislupookov-altersend.md) | ⭐ 2.2k | TypeScript | 69/100 |
 | 85 | [scality/cloudserver](./scality-cloudserver.md) | ⭐ 2k | JavaScript | 69/100 |
@@ -341,8 +341,8 @@
 | 331 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 332 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 333 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 334 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
-| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 334 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
 | 336 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 337 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 338 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -487,7 +487,7 @@
 | 477 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 918 | Go | 52/100 |
 | 478 | [wasmCloud/wasmCloud](./wasmcloud-wasmcloud.md) | ⭐ 2.5k | Rust | 52/100 |
 | 479 | [xingpingcn/enhanced-FaaS-in-China](./xingpingcn-enhanced-faas-in-china.md) | ⭐ 3.1k | Python | 52/100 |
-| 480 | [Azure/Azure-Sentinel](./azure-azure-sentinel.md) | ⭐ 6.2k | Python | 52/100 |
+| 480 | [Azure/Azure-Sentinel](./azure-azure-sentinel.md) | ⭐ 6.3k | Python | 52/100 |
 | 481 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 447 | Go | 52/100 |
 | 482 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 483 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
@@ -546,8 +546,8 @@
 | 536 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 537 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 538 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 539 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 541 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 542 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 543 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |

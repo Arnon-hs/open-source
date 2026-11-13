@@ -246,7 +246,7 @@
 | 236 | [Traverse-Research/gpu-allocator](./traverse-research-gpu-allocator.md) | ⭐ 509 | Rust | 53/100 |
 | 237 | [dimforge/parry](./dimforge-parry.md) | ⭐ 891 | Rust | 53/100 |
 | 238 | [flame-engine/flame](./flame-engine-flame.md) | ⭐ 10.8k | Dart | 53/100 |
-| 239 | [luanti-org/luanti](./luanti-org-luanti.md) | ⭐ 13.8k | C++ | 53/100 |
+| 239 | [luanti-org/luanti](./luanti-org-luanti.md) | ⭐ 13.9k | C++ | 53/100 |
 | 240 | [mateeeeeee/Adria](./mateeeeeee-adria.md) | ⭐ 544 | C++ | 53/100 |
 | 241 | [gogpu/naga](./gogpu-naga.md) | ⭐ 58 | Go | 52/100 |
 | 242 | [mapbox/mapbox-maps-android](./mapbox-mapbox-maps-android.md) | ⭐ 582 | Kotlin | 52/100 |

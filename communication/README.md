@@ -59,7 +59,7 @@
 | 49 | [miroslavpejic85/mirotalk](./miroslavpejic85-mirotalk.md) | ⭐ 4.8k | JavaScript | 68/100 |
 | 50 | [zulip/zulip-terminal](./zulip-zulip-terminal.md) | ⭐ 881 | Python | 68/100 |
 | 51 | [aliasvault/aliasvault](./aliasvault-aliasvault.md) | ⭐ 3.5k | TypeScript | 68/100 |
-| 52 | [berty/berty](./berty-berty.md) | ⭐ 9.3k | TypeScript | 68/100 |
+| 52 | [berty/berty](./berty-berty.md) | ⭐ 9.4k | TypeScript | 68/100 |
 | 53 | [eclipse-zenoh/zenoh-c](./eclipse-zenoh-zenoh-c.md) | ⭐ 141 | Rust | 68/100 |
 | 54 | [lukevella/rallly](./lukevella-rallly.md) | ⭐ 5.4k | TypeScript | 68/100 |
 | 55 | [wavebox/waveboxapp](./wavebox-waveboxapp.md) | ⭐ 1.4k | JavaScript | 68/100 |
@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -138,7 +138,7 @@
 | 128 | [nodemailer/nodemailer](./nodemailer-nodemailer.md) | ⭐ 17.7k | TypeScript | 61/100 |
 | 129 | [Andiveli/wptui](./andiveli-wptui.md) | ⭐ 200 | Rust | 61/100 |
 | 130 | [jonhoo/rust-imap](./jonhoo-rust-imap.md) | ⭐ 584 | Rust | 61/100 |
-| 131 | [fluxerapp/fluxer](./fluxerapp-fluxer.md) | ⭐ 10.8k | TypeScript | 61/100 |
+| 131 | [fluxerapp/fluxer](./fluxerapp-fluxer.md) | ⭐ 10.9k | TypeScript | 61/100 |
 | 132 | [bigbluebutton/bigbluebutton](./bigbluebutton-bigbluebutton.md) | ⭐ 9.3k | JavaScript | 61/100 |
 | 133 | [Kozea/Radicale](./kozea-radicale.md) | ⭐ 5.2k | Python | 61/100 |
 | 134 | [jech/galene](./jech-galene.md) | ⭐ 1.4k | Go | 61/100 |
@@ -364,8 +364,8 @@
 | 354 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 355 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 356 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 357 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
-| 358 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 357 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 358 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
 | 359 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 360 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 361 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

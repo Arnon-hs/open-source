@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7 |
+| ⭐ **Stars** | 9 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Kotlin |
 | 📈 **Score** | 47/100 |
@@ -51,7 +51,7 @@ WafflingNinja/waffleboost：WafflingNinja/waffleboost may be useful when its REA
 
 **Quality signals**
 
-- 7 GitHub stars
+- 9 GitHub stars
 - updated 2026-11-10
 - primary language: Kotlin
 - 10 topics
@@ -67,9 +67,9 @@ WafflingNinja/waffleboost：WafflingNinja/waffleboost may be useful when its REA
 | integration | 30/100 |
 | production | 63/100 |
 | outlook | 64/100 |
-| adoption | 14/100 |
+| adoption | 15/100 |
 | categoryMatchCount | 200/100 |
-| stars | 19/100 |
+| stars | 21/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |

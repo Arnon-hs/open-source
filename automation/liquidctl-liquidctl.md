@@ -53,7 +53,7 @@ liquidctl/liquidctl：liquidctl/liquidctl helps remove repetitive manual operati
 
 **Quality signals**
 
-- 2706 GitHub stars
+- 2709 GitHub stars
 - 306 forks
 - updated 2026-06-16
 - primary language: Python

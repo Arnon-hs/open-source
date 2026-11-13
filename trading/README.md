@@ -21,7 +21,7 @@
 | 11 | [stefan-jansen/machine-learning-for-trading](./stefan-jansen-machine-learning-for-trading.md) | ⭐ 21.8k | Jupyter Notebook | 76/100 |
 | 12 | [YizhiSong/FriesTrader](./yizhisong-friestrader.md) | ⭐ 309 | — | 75/100 |
 | 13 | [mw00/project-maya](./mw00-project-maya.md) | ⭐ 2.8k | C++ | 74/100 |
-| 14 | [simonlin1212/a-stock-data](./simonlin1212-a-stock-data.md) | ⭐ 11.7k | — | 74/100 |
+| 14 | [simonlin1212/a-stock-data](./simonlin1212-a-stock-data.md) | ⭐ 11.8k | — | 74/100 |
 | 15 | [dgunning/edgartools](./dgunning-edgartools.md) | ⭐ 2.8k | Python | 74/100 |
 | 16 | [akfamily/akshare](./akfamily-akshare.md) | ⭐ 23.3k | Python | 74/100 |
 | 17 | [arshka/pykalshi](./arshka-pykalshi.md) | ⭐ 133 | Python | 74/100 |
@@ -95,7 +95,7 @@
 | 85 | [RyanCodrai/turbovec](./ryancodrai-turbovec.md) | ⭐ 17.5k | Rust | 63/100 |
 | 86 | [AutomatedLab/AutomatedLab](./automatedlab-automatedlab.md) | ⭐ 2.2k | PowerShell | 63/100 |
 | 87 | [vnpy/vnpy](./vnpy-vnpy.md) | ⭐ 46.4k | Python | 63/100 |
-| 88 | [Jakeschincariol/day-trader-skill](./jakeschincariol-day-trader-skill.md) | ⭐ 7.1k | Python | 63/100 |
+| 88 | [Jakeschincariol/day-trader-skill](./jakeschincariol-day-trader-skill.md) | ⭐ 7.4k | Python | 63/100 |
 | 89 | [6551Team/opennews-mcp](./6551team-opennews-mcp.md) | ⭐ 2.4k | Python | 62/100 |
 | 90 | [brndnmtthws/thetagang](./brndnmtthws-thetagang.md) | ⭐ 2.8k | Python | 62/100 |
 | 91 | [Indemos/Terminal](./indemos-terminal.md) | ⭐ 66 | C# | 62/100 |

@@ -15,7 +15,7 @@
 | 5 | [jdepoix/youtube-transcript-api](./jdepoix-youtube-transcript-api.md) | ⭐ 8.6k | Python | 86/100 |
 | 6 | [ChatCut-Inc/agent-plugin](./chatcut-inc-agent-plugin.md) | ⭐ 1k | JavaScript | 85/100 |
 | 7 | [Anil-matcha/open-genjutsu](./anil-matcha-open-genjutsu.md) | ⭐ 1k | JavaScript | 85/100 |
-| 8 | [zhouxiaoka/autoclip](./zhouxiaoka-autoclip.md) | ⭐ 10.3k | Python | 84/100 |
+| 8 | [zhouxiaoka/autoclip](./zhouxiaoka-autoclip.md) | ⭐ 10.4k | Python | 84/100 |
 | 9 | [0xsline/OpenChatCut](./0xsline-openchatcut.md) | ⭐ 3.1k | TypeScript | 84/100 |
 | 10 | [oxbshw/watch-skill](./oxbshw-watch-skill.md) | ⭐ 575 | Python | 83/100 |
 | 11 | [FavioVazquez/showtime](./faviovazquez-showtime.md) | ⭐ 327 | Python | 82/100 |
@@ -160,7 +160,7 @@
 | 150 | [BeatAPI/BeatDesign](./beatapi-beatdesign.md) | ⭐ 4 | TypeScript | 69/100 |
 | 151 | [SamurAIGPT/Text-To-Video-AI](./samuraigpt-text-to-video-ai.md) | ⭐ 6 | Jupyter Notebook | 69/100 |
 | 152 | [22kk12/mengwei-local-leads-workbench](./22kk12-mengwei-local-leads-workbench.md) | ⭐ 188 | Python | 69/100 |
-| 153 | [debpalash/VoiceStudio](./debpalash-voicestudio.md) | ⭐ 108.3k | Python | 69/100 |
+| 153 | [debpalash/VoiceStudio](./debpalash-voicestudio.md) | ⭐ 109.2k | Python | 69/100 |
 | 154 | [JimLiu/baocut](./jimliu-baocut.md) | ⭐ 1.8k | Shell | 69/100 |
 | 155 | [AcademySoftwareFoundation/OpenTimelineIO](./academysoftwarefoundation-opentimelineio.md) | ⭐ 2.1k | Python | 69/100 |
 | 156 | [AKMessi/vex](./akmessi-vex.md) | ⭐ 98 | Python | 69/100 |
@@ -203,8 +203,8 @@
 | 193 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 103 | Swift | 67/100 |
 | 194 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 226 | Python | 67/100 |
 | 195 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 308 | TypeScript | 67/100 |
-| 196 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
-| 197 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 378 | TypeScript | 67/100 |
+| 196 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 378 | TypeScript | 67/100 |
+| 197 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
 | 198 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 239 | Go | 67/100 |
 | 199 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 200 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 133 | Python | 67/100 |
@@ -236,7 +236,7 @@
 | 226 | [BasedHardware/omi](./basedhardware-omi.md) | ⭐ 14k | Dart | 66/100 |
 | 227 | [debpalash/OmniVoice-Studio](./debpalash-omnivoice-studio.md) | ⭐ 507 | Python | 66/100 |
 | 228 | [hauxir/rapidbay](./hauxir-rapidbay.md) | ⭐ 908 | Python | 66/100 |
-| 229 | [fabox-os/Picasso-Suite](./fabox-os-picasso-suite.md) | ⭐ 46 | Rust | 65/100 |
+| 229 | [fabox-os/Picasso-Suite](./fabox-os-picasso-suite.md) | ⭐ 48 | Rust | 65/100 |
 | 230 | [dthomas9819/Final-Cut-Pro-Studio](./dthomas9819-final-cut-pro-studio.md) | ⭐ 36 | — | 65/100 |
 | 231 | [sirioberati/YouTube-AI-Video-Editing-System](./sirioberati-youtube-ai-video-editing-system.md) | ⭐ 143 | HTML | 65/100 |
 | 232 | [gustavomenani/editing-gameplay-montages](./gustavomenani-editing-gameplay-montages.md) | ⭐ 77 | Python | 65/100 |
@@ -368,7 +368,7 @@
 | 358 | [Lake1059/FFmpegFreeUI](./lake1059-ffmpegfreeui.md) | ⭐ 8.5k | Visual Basic .NET | 61/100 |
 | 359 | [n00bcodr/Jellyfin-Enhanced](./n00bcodr-jellyfin-enhanced.md) | ⭐ 2k | JavaScript | 61/100 |
 | 360 | [ysm-dev/cpdown](./ysm-dev-cpdown.md) | ⭐ 583 | TypeScript | 61/100 |
-| 361 | [Zackriya-Solutions/meetily](./zackriya-solutions-meetily.md) | ⭐ 32.6k | Rust | 61/100 |
+| 361 | [Zackriya-Solutions/meetily](./zackriya-solutions-meetily.md) | ⭐ 32.7k | Rust | 61/100 |
 | 362 | [eliteludoglobal-create/mpeg-video-editor](./eliteludoglobal-create-mpeg-video-editor.md) | ⭐ 102 | HTML | 60/100 |
 | 363 | [dhruvthakur11/youtube-ai-video-editing-system](./dhruvthakur11-youtube-ai-video-editing-system.md) | ⭐ 483 | HTML | 60/100 |
 | 364 | [Li-Evan/awesome-opus-5.5-video-prompts](./li-evan-awesome-opus-5.5-video-prompts.md) | ⭐ 38 | HTML | 60/100 |
@@ -516,8 +516,8 @@
 | 506 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 507 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 50 | Kotlin | 53/100 |
 | 508 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 509 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
-| 510 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 509 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 510 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
 | 511 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 512 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 523 | — | 53/100 |
 | 513 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |

@@ -53,7 +53,7 @@ axllent/mailpit：axllent/mailpit helps make deployment and operations more repe
 
 **Quality signals**
 
-- 10911 GitHub stars
+- 10921 GitHub stars
 - 378 forks
 - updated 2026-11-09
 - primary language: Go

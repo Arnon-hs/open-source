@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 360 |
+| ⭐ **Stars** | 361 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 67/100 |
@@ -53,7 +53,7 @@ Entelligence-AI/agentplay：Entelligence-AI/agentplay helps add AI capability wi
 
 **Quality signals**
 
-- 360 GitHub stars
+- 361 GitHub stars
 - 46 forks
 - updated 2026-11-06
 - primary language: Python

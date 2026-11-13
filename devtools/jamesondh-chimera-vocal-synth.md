@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2k |
-| 🍴 **Forks** | 233 |
+| ⭐ **Stars** | 2.2k |
+| 🍴 **Forks** | 251 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-10 |
@@ -53,8 +53,8 @@ jamesondh/chimera-vocal-synth：jamesondh/chimera-vocal-synth helps engineers sa
 
 **Quality signals**
 
-- 1968 GitHub stars
-- 233 forks
+- 2152 GitHub stars
+- 251 forks
 - updated 2026-11-10
 - primary language: Rust
 
@@ -69,10 +69,10 @@ jamesondh/chimera-vocal-synth：jamesondh/chimera-vocal-synth helps engineers sa
 | integration | 30/100 |
 | production | 66/100 |
 | outlook | 67/100 |
-| adoption | 67/100 |
+| adoption | 68/100 |
 | categoryMatchCount | 100/100 |
-| stars | 70/100 |
-| forks | 59/100 |
+| stars | 71/100 |
+| forks | 60/100 |
 | recency | 100/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |

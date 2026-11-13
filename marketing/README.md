@@ -22,7 +22,7 @@
 | 12 | [Mohdasif-07/ufftool-youtube-tags-extension](./mohdasif-07-ufftool-youtube-tags-extension.md) | ⭐ — | — | 54/100 |
 | 13 | [dvygolov/YellowTDS](./dvygolov-yellowtds.md) | ⭐ 395 | JavaScript | 53/100 |
 | 14 | [Yoast/wordpress-seo](./yoast-wordpress-seo.md) | ⭐ 2k | JavaScript | 53/100 |
-| 15 | [adeptads/agent-skills](./adeptads-agent-skills.md) | ⭐ — | — | 51/100 |
+| 15 | [adeptads/agent-skills](./adeptads-agent-skills.md) | ⭐ 2 | — | 51/100 |
 | 16 | [zhangkunlv-ship-it/xuehui-shortvideo-skill](./zhangkunlv-ship-it-xuehui-shortvideo-skill.md) | ⭐ 74 | — | 51/100 |
 | 17 | [angelotc/antigravity-seo](./angelotc-antigravity-seo.md) | ⭐ 2 | — | 51/100 |
 | 18 | [okou-ai/okou](./okou-ai-okou.md) | ⭐ 1.2k | TypeScript | 50/100 |

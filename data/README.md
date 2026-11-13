@@ -29,7 +29,7 @@
 | 19 | [geoman-io/leaflet-geoman](./geoman-io-leaflet-geoman.md) | ⭐ 2.4k | JavaScript | 70/100 |
 | 20 | [apache/flink-cdc](./apache-flink-cdc.md) | ⭐ 6.5k | Java | 70/100 |
 | 21 | [mckinsey/vizro](./mckinsey-vizro.md) | ⭐ 3.8k | Python | 70/100 |
-| 22 | [data-privacy-stack/presidio](./data-privacy-stack-presidio.md) | ⭐ 11.8k | Python | 69/100 |
+| 22 | [data-privacy-stack/presidio](./data-privacy-stack-presidio.md) | ⭐ 11.9k | Python | 69/100 |
 | 23 | [ClickHouse/clickhouse-go](./clickhouse-clickhouse-go.md) | ⭐ 3.4k | Go | 69/100 |
 | 24 | [trekhleb/javascript-algorithms](./trekhleb-javascript-algorithms.md) | ⭐ 196.7k | JavaScript | 69/100 |
 | 25 | [networkx/networkx](./networkx-networkx.md) | ⭐ 17.4k | Python | 69/100 |
@@ -285,7 +285,7 @@
 | 275 | [evolve75/RubyTree](./evolve75-rubytree.md) | ⭐ 391 | Ruby | 53/100 |
 | 276 | [saschagrunert/indextree](./saschagrunert-indextree.md) | ⭐ 819 | Rust | 53/100 |
 | 277 | [serenedb/serenedb](./serenedb-serenedb.md) | ⭐ 974 | C++ | 53/100 |
-| 278 | [StarRocks/starrocks](./starrocks-starrocks.md) | ⭐ 12.2k | Java | 53/100 |
+| 278 | [StarRocks/starrocks](./starrocks-starrocks.md) | ⭐ 12.3k | Java | 53/100 |
 | 279 | [NandhaKishorM/laya](./nandhakishorm-laya.md) | ⭐ 12.3k | Python | 53/100 |
 | 280 | [ayazhafiz/xorf](./ayazhafiz-xorf.md) | ⭐ 171 | Rust | 52/100 |
 | 281 | [ShisoftResearch/bifrost](./shisoftresearch-bifrost.md) | ⭐ 174 | Rust | 52/100 |

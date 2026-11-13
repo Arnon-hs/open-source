@@ -16,7 +16,7 @@
 | 6 | [scalar/scalar](./scalar-scalar.md) | ⭐ 16.4k | TypeScript | 81/100 |
 | 7 | [line/armeria](./line-armeria.md) | ⭐ 5.2k | Java | 80/100 |
 | 8 | [goauthentik/authentik](./goauthentik-authentik.md) | ⭐ 26.3k | Python | 80/100 |
-| 9 | [lexiforest/curl_cffi](./lexiforest-curl-cffi.md) | ⭐ 6.8k | Python | 79/100 |
+| 9 | [lexiforest/curl_cffi](./lexiforest-curl-cffi.md) | ⭐ 6.9k | Python | 79/100 |
 | 10 | [bia-pain-bache/BPB-Worker-Panel](./bia-pain-bache-bpb-worker-panel.md) | ⭐ 13.9k | TypeScript | 79/100 |
 | 11 | [hoppscotch/hoppscotch](./hoppscotch-hoppscotch.md) | ⭐ 80.8k | TypeScript | 79/100 |
 | 12 | [node-fetch/node-fetch](./node-fetch-node-fetch.md) | ⭐ 8.9k | JavaScript | 78/100 |
@@ -59,7 +59,7 @@
 | 49 | [python-websockets/websockets](./python-websockets-websockets.md) | ⭐ 5.7k | Python | 71/100 |
 | 50 | [Kobii-git/rackpad](./kobii-git-rackpad.md) | ⭐ 434 | TypeScript | 71/100 |
 | 51 | [projectcontour/contour](./projectcontour-contour.md) | ⭐ 4k | HTML | 71/100 |
-| 52 | [warp-tech/warpgate](./warp-tech-warpgate.md) | ⭐ 8.2k | Rust | 71/100 |
+| 52 | [warp-tech/warpgate](./warp-tech-warpgate.md) | ⭐ 8.3k | Rust | 71/100 |
 | 53 | [http4k/http4k](./http4k-http4k.md) | ⭐ 2.8k | Kotlin | 71/100 |
 | 54 | [hwdsl2/docker-ipsec-vpn-server](./hwdsl2-docker-ipsec-vpn-server.md) | ⭐ 7.2k | Shell | 71/100 |
 | 55 | [loopbackio/loopback-next](./loopbackio-loopback-next.md) | ⭐ 5.1k | TypeScript | 71/100 |
@@ -118,7 +118,7 @@
 | 108 | [yonggekkk/Cloudflare-vless-trojan](./yonggekkk-cloudflare-vless-trojan.md) | ⭐ 16.8k | JavaScript | 67/100 |
 | 109 | [node-modules/urllib](./node-modules-urllib.md) | ⭐ 743 | TypeScript | 67/100 |
 | 110 | [InterceptSuite/ProxyBridge](./interceptsuite-proxybridge.md) | ⭐ 7.1k | C | 66/100 |
-| 111 | [jason5ng32/MyIP](./jason5ng32-myip.md) | ⭐ 12.3k | JavaScript | 66/100 |
+| 111 | [jason5ng32/MyIP](./jason5ng32-myip.md) | ⭐ 12.4k | JavaScript | 66/100 |
 | 112 | [MAIF/otoroshi](./maif-otoroshi.md) | ⭐ 324 | Scala | 66/100 |
 | 113 | [xchacha20-poly1305/husi](./xchacha20-poly1305-husi.md) | ⭐ 1.9k | Kotlin | 66/100 |
 | 114 | [rakshasa/rtorrent](./rakshasa-rtorrent.md) | ⭐ 4.9k | C++ | 66/100 |
@@ -265,7 +265,7 @@
 | 255 | [chili-chips-ba/wireguard-fpga](./chili-chips-ba-wireguard-fpga.md) | ⭐ 1.3k | Verilog | 60/100 |
 | 256 | [LOWERTOP/Shadowrocket-First](./lowertop-shadowrocket-first.md) | ⭐ 5.7k | — | 60/100 |
 | 257 | [free18/v2ray](./free18-v2ray.md) | ⭐ 5.9k | — | 60/100 |
-| 258 | [throneproj/Throne](./throneproj-throne.md) | ⭐ 7.8k | C++ | 60/100 |
+| 258 | [throneproj/Throne](./throneproj-throne.md) | ⭐ 7.9k | C++ | 60/100 |
 | 259 | [pion/ice](./pion-ice.md) | ⭐ 625 | Go | 60/100 |
 | 260 | [h44z/wg-portal](./h44z-wg-portal.md) | ⭐ 1.9k | Go | 60/100 |
 | 261 | [RaspAP/raspap-webgui](./raspap-raspap-webgui.md) | ⭐ 5.2k | PHP | 60/100 |

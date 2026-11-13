@@ -16,7 +16,7 @@
 | 6 | [orbivort/scrumooth](./orbivort-scrumooth.md) | ⭐ 1 | TypeScript | 53/100 |
 | 7 | [iamnotstatic/vibetime](./iamnotstatic-vibetime.md) | ⭐ — | — | 45/100 |
 | 8 | [agenttools/headroom](./agenttools-headroom.md) | ⭐ — | — | 45/100 |
-| 9 | [AdamTuraj/StudPrint](./adamturaj-studprint.md) | ⭐ — | — | 44/100 |
+| 9 | [AdamTuraj/StudPrint](./adamturaj-studprint.md) | ⭐ 18 | — | 44/100 |
 | 10 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
 | 11 | [simpsoka/zigzag](./simpsoka-zigzag.md) | ⭐ 58 | — | 41/100 |
 | 12 | [ckaico/backtalk](./ckaico-backtalk.md) | ⭐ 1 | — | 41/100 |

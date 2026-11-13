@@ -126,7 +126,7 @@
 | 116 | [microsoft/mssql-jdbc](./microsoft-mssql-jdbc.md) | ⭐ 1.1k | Java | 60/100 |
 | 117 | [tursodatabase/libsql](./tursodatabase-libsql.md) | ⭐ 17.3k | C | 60/100 |
 | 118 | [mongodb-js/compass](./mongodb-js-compass.md) | ⭐ 1.5k | TypeScript | 60/100 |
-| 119 | [ankane/pghero](./ankane-pghero.md) | ⭐ 8.9k | Ruby | 60/100 |
+| 119 | [ankane/pghero](./ankane-pghero.md) | ⭐ 9k | Ruby | 60/100 |
 | 120 | [dotnet/SqlClient](./dotnet-sqlclient.md) | ⭐ 1k | C# | 60/100 |
 | 121 | [jiji262/douyin-downloader](./jiji262-douyin-downloader.md) | ⭐ 12.6k | Python | 60/100 |
 | 122 | [xataio/pgstream](./xataio-pgstream.md) | ⭐ 1.2k | Go | 60/100 |
@@ -149,7 +149,7 @@
 | 139 | [skyzh/type-exercise-in-rust](./skyzh-type-exercise-in-rust.md) | ⭐ 1.5k | Rust | 59/100 |
 | 140 | [murraco/spring-boot-jwt](./murraco-spring-boot-jwt.md) | ⭐ 1.7k | Java | 59/100 |
 | 141 | [berkeleydb/libdb](./berkeleydb-libdb.md) | ⭐ 414 | C | 59/100 |
-| 142 | [apache/cassandra](./apache-cassandra.md) | ⭐ 10.1k | Java | 59/100 |
+| 142 | [apache/cassandra](./apache-cassandra.md) | ⭐ 10.2k | Java | 59/100 |
 | 143 | [KouShenhai/KCloud-Platform-IoT](./koushenhai-kcloud-platform-iot.md) | ⭐ 680 | Java | 59/100 |
 | 144 | [faust-streaming/faust](./faust-streaming-faust.md) | ⭐ 1.9k | Python | 59/100 |
 | 145 | [blnkfinance/blnk](./blnkfinance-blnk.md) | ⭐ 588 | Go | 59/100 |
@@ -444,7 +444,7 @@
 | 434 | [sseemayer/keepass-rs](./sseemayer-keepass-rs.md) | ⭐ 177 | Rust | 42/100 |
 | 435 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 341 | R | 42/100 |
 | 436 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 251 | Rust | 42/100 |
-| 437 | [swiftstream/Duck](./swiftstream-duck.md) | ⭐ — | — | 41/100 |
+| 437 | [swiftstream/Duck](./swiftstream-duck.md) | ⭐ 1 | — | 41/100 |
 | 438 | [barddoo/tsfm-pg](./barddoo-tsfm-pg.md) | ⭐ — | — | 41/100 |
 | 439 | [joao00001/pg-regression-radar](./joao00001-pg-regression-radar.md) | ⭐ 9 | — | 41/100 |
 | 440 | [Pragadeesh-19/nodusdb](./pragadeesh-19-nodusdb.md) | ⭐ 1 | — | 41/100 |
@@ -553,8 +553,8 @@
 | 543 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 544 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 545 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 435 | — | 38/100 |
-| 546 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
-| 547 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
+| 546 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
+| 547 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
 | 548 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 549 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 550 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |
@@ -579,8 +579,8 @@
 | 569 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 570 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 571 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 106 | — | 38/100 |
-| 572 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
-| 573 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
+| 572 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
+| 573 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
 | 574 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 575 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 576 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

@@ -75,7 +75,7 @@
 | 65 | [braver/programmingfonts](./braver-programmingfonts.md) | ⭐ 1.8k | CSS | 55/100 |
 | 66 | [SamToki/Sam-Toki-Mouse-Cursors](./samtoki-sam-toki-mouse-cursors.md) | ⭐ 876 | — | 55/100 |
 | 67 | [chipsalliance/Cores-VeeR-EL2](./chipsalliance-cores-veer-el2.md) | ⭐ 352 | SystemVerilog | 55/100 |
-| 68 | [emilkowalski/skills](./emilkowalski-skills.md) | ⭐ 56.1k | — | 55/100 |
+| 68 | [emilkowalski/skills](./emilkowalski-skills.md) | ⭐ 56.4k | — | 55/100 |
 | 69 | [daangn/seed-design](./daangn-seed-design.md) | ⭐ 1.2k | TypeScript | 55/100 |
 | 70 | [ZeroZ-lab/cc-design](./zeroz-lab-cc-design.md) | ⭐ 831 | JavaScript | 55/100 |
 | 71 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 831 | Shell | 55/100 |

@@ -82,7 +82,7 @@
 | 72 | [Jia-Ethan/grok-keysmith](./jia-ethan-grok-keysmith.md) | ⭐ 506 | Python | 73/100 |
 | 73 | [SecureAuthCorp/oauth2c](./secureauthcorp-oauth2c.md) | ⭐ 955 | Go | 73/100 |
 | 74 | [tqdm/shtab](./tqdm-shtab.md) | ⭐ 484 | Python | 73/100 |
-| 75 | [yonaskolb/XcodeGen](./yonaskolb-xcodegen.md) | ⭐ 8.9k | Swift | 73/100 |
+| 75 | [yonaskolb/XcodeGen](./yonaskolb-xcodegen.md) | ⭐ 9k | Swift | 73/100 |
 | 76 | [crowdin/crowdin-cli](./crowdin-crowdin-cli.md) | ⭐ 323 | Java | 73/100 |
 | 77 | [pranshuparmar/witr](./pranshuparmar-witr.md) | ⭐ 23k | Go | 73/100 |
 | 78 | [jarun/ddgr](./jarun-ddgr.md) | ⭐ 3.6k | Python | 73/100 |
@@ -109,7 +109,7 @@
 | 99 | [PabloLec/RecoverPy](./pablolec-recoverpy.md) | ⭐ 1.8k | Python | 72/100 |
 | 100 | [superstarryeyes/hys](./superstarryeyes-hys.md) | ⭐ 263 | Zig | 72/100 |
 | 101 | [frappe/bench](./frappe-bench.md) | ⭐ 1.7k | Python | 72/100 |
-| 102 | [dlvhdr/gh-dash](./dlvhdr-gh-dash.md) | ⭐ 12.7k | Go | 72/100 |
+| 102 | [dlvhdr/gh-dash](./dlvhdr-gh-dash.md) | ⭐ 12.8k | Go | 72/100 |
 | 103 | [growthbook/growthbook](./growthbook-growthbook.md) | ⭐ 8.6k | TypeScript | 72/100 |
 | 104 | [dropbox/dbxcli](./dropbox-dbxcli.md) | ⭐ 1.2k | Go | 72/100 |
 | 105 | [ahoy-cli/ahoy](./ahoy-cli-ahoy.md) | ⭐ 286 | Go | 72/100 |
@@ -117,7 +117,7 @@
 | 107 | [sherlock-project/sherlock](./sherlock-project-sherlock.md) | ⭐ 110.6k | Python | 72/100 |
 | 108 | [fastapi/typer](./fastapi-typer.md) | ⭐ 20.4k | Python | 72/100 |
 | 109 | [sharkdp/hyperfine](./sharkdp-hyperfine.md) | ⭐ 29.3k | Rust | 71/100 |
-| 110 | [anchore/grype](./anchore-grype.md) | ⭐ 13.2k | Go | 71/100 |
+| 110 | [anchore/grype](./anchore-grype.md) | ⭐ 13.3k | Go | 71/100 |
 | 111 | [trmxvibs/Tool-X](./trmxvibs-tool-x.md) | ⭐ 148 | Python | 71/100 |
 | 112 | [testcontainers/testcontainers-python](./testcontainers-testcontainers-python.md) | ⭐ 2.3k | Python | 71/100 |
 | 113 | [antfu-collective/taze](./antfu-collective-taze.md) | ⭐ 4.3k | TypeScript | 71/100 |
@@ -306,8 +306,8 @@
 | 296 | [krkn-chaos/krkn](./krkn-chaos-krkn.md) | ⭐ 520 | Python | 67/100 |
 | 297 | [jarun/imgp](./jarun-imgp.md) | ⭐ 1.1k | Python | 67/100 |
 | 298 | [wolph/python-progressbar](./wolph-python-progressbar.md) | ⭐ 881 | Python | 67/100 |
-| 299 | [all-contributors/cli](./all-contributors-cli.md) | ⭐ 425 | JavaScript | 67/100 |
-| 300 | [tuna-f1sh/cyme](./tuna-f1sh-cyme.md) | ⭐ 1.2k | Rust | 67/100 |
+| 299 | [tuna-f1sh/cyme](./tuna-f1sh-cyme.md) | ⭐ 1.2k | Rust | 67/100 |
+| 300 | [all-contributors/cli](./all-contributors-cli.md) | ⭐ 425 | JavaScript | 67/100 |
 | 301 | [hugovk/em-keyboard](./hugovk-em-keyboard.md) | ⭐ 336 | Python | 67/100 |
 | 302 | [orhun/halp](./orhun-halp.md) | ⭐ 770 | Rust | 67/100 |
 | 303 | [rosetta-rs/argparse-rosetta-rs](./rosetta-rs-argparse-rosetta-rs.md) | ⭐ 198 | Python | 67/100 |
@@ -382,8 +382,8 @@
 | 372 | [INRIA/spoon](./inria-spoon.md) | ⭐ 2k | Java | 66/100 |
 | 373 | [praetorian-inc/titus](./praetorian-inc-titus.md) | ⭐ 770 | Go | 66/100 |
 | 374 | [jcouture/nv](./jcouture-nv.md) | ⭐ 77 | Go | 66/100 |
-| 375 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 890 | Go | 66/100 |
-| 376 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 275 | Go | 66/100 |
+| 375 | [eduardofuncao/squix](./eduardofuncao-squix.md) | ⭐ 275 | Go | 66/100 |
+| 376 | [0xjuanma/golazo](./0xjuanma-golazo.md) | ⭐ 890 | Go | 66/100 |
 | 377 | [fastify/fastify-cli](./fastify-fastify-cli.md) | ⭐ 739 | JavaScript | 66/100 |
 | 378 | [justcallmekoko/ESP32Marauder](./justcallmekoko-esp32marauder.md) | ⭐ 13.1k | C++ | 66/100 |
 | 379 | [fiatjaf/nak](./fiatjaf-nak.md) | ⭐ 428 | Go | 66/100 |
@@ -449,7 +449,7 @@
 | 439 | [pvolok/dekit](./pvolok-dekit.md) | ⭐ 2.8k | Rust | 65/100 |
 | 440 | [flanksource/canary-checker](./flanksource-canary-checker.md) | ⭐ 347 | Go | 65/100 |
 | 441 | [itgalaxy/webfont](./itgalaxy-webfont.md) | ⭐ 310 | TypeScript | 65/100 |
-| 442 | [webpro-nl/knip](./webpro-nl-knip.md) | ⭐ 12.6k | TypeScript | 65/100 |
+| 442 | [webpro-nl/knip](./webpro-nl-knip.md) | ⭐ 12.7k | TypeScript | 65/100 |
 | 443 | [termcolor/termcolor](./termcolor-termcolor.md) | ⭐ 329 | Python | 65/100 |
 | 444 | [jscrambler/jscrambler](./jscrambler-jscrambler.md) | ⭐ 158 | JavaScript | 65/100 |
 | 445 | [oracle/oci-cli](./oracle-oci-cli.md) | ⭐ 687 | Python | 65/100 |
@@ -593,7 +593,7 @@
 | 583 | [pgplex/pgtui](./pgplex-pgtui.md) | ⭐ 322 | Go | 63/100 |
 | 584 | [LoLei/razer-cli](./lolei-razer-cli.md) | ⭐ 167 | Python | 63/100 |
 | 585 | [writeas/writeas-cli](./writeas-writeas-cli.md) | ⭐ 122 | Go | 63/100 |
-| 586 | [go-shiori/shiori](./go-shiori-shiori.md) | ⭐ 11.8k | Go | 63/100 |
+| 586 | [go-shiori/shiori](./go-shiori-shiori.md) | ⭐ 11.9k | Go | 63/100 |
 | 587 | [amterp/rad](./amterp-rad.md) | ⭐ 303 | Go | 63/100 |
 | 588 | [iterative/gto](./iterative-gto.md) | ⭐ 161 | Python | 63/100 |
 | 589 | [software-mansion/live-debugger](./software-mansion-live-debugger.md) | ⭐ 767 | Elixir | 63/100 |
@@ -654,8 +654,8 @@
 | 644 | [hidevopsio/hiboot](./hidevopsio-hiboot.md) | ⭐ 179 | Go | 63/100 |
 | 645 | [oneclickvirt/ecs](./oneclickvirt-ecs.md) | ⭐ 2.5k | Go | 63/100 |
 | 646 | [jkwill87/mnamer](./jkwill87-mnamer.md) | ⭐ 1.2k | Python | 63/100 |
-| 647 | [szaghi/FoBiS](./szaghi-fobis.md) | ⭐ 144 | Python | 63/100 |
-| 648 | [Raphire/Win11Debloat](./raphire-win11debloat.md) | ⭐ 62.5k | PowerShell | 63/100 |
+| 647 | [Raphire/Win11Debloat](./raphire-win11debloat.md) | ⭐ 62.5k | PowerShell | 63/100 |
+| 648 | [szaghi/FoBiS](./szaghi-fobis.md) | ⭐ 144 | Python | 63/100 |
 | 649 | [noborus/trdsql](./noborus-trdsql.md) | ⭐ 2.2k | Go | 63/100 |
 | 650 | [beetbox/beets](./beetbox-beets.md) | ⭐ 15.9k | Python | 63/100 |
 | 651 | [leo-arch/clifm](./leo-arch-clifm.md) | ⭐ 1.7k | C | 63/100 |
@@ -666,8 +666,8 @@
 | 656 | [hetznercloud/cli](./hetznercloud-cli.md) | ⭐ 1.9k | Go | 63/100 |
 | 657 | [GoogleChrome/lighthouse](./googlechrome-lighthouse.md) | ⭐ 31.1k | JavaScript | 63/100 |
 | 658 | [noborus/ov](./noborus-ov.md) | ⭐ 2k | Go | 63/100 |
-| 659 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.2k | C# | 63/100 |
-| 660 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
+| 659 | [VeryGoodOpenSource/very_good_cli](./verygoodopensource-very-good-cli.md) | ⭐ 2.4k | Dart | 63/100 |
+| 660 | [dotnet/sdk](./dotnet-sdk.md) | ⭐ 3.2k | C# | 63/100 |
 | 661 | [backstage/backstage](./backstage-backstage.md) | ⭐ 34.8k | TypeScript | 63/100 |
 | 662 | [Nutts5796/logiparity](./nutts5796-logiparity.md) | ⭐ 5 | TypeScript | 62/100 |
 | 663 | [xynorash/xynovim](./xynorash-xynovim.md) | ⭐ 4 | Lua | 62/100 |
@@ -733,8 +733,8 @@
 | 723 | [home-assistant/cli](./home-assistant-cli.md) | ⭐ 274 | Go | 62/100 |
 | 724 | [columnar-tech/databow](./columnar-tech-databow.md) | ⭐ 299 | Rust | 62/100 |
 | 725 | [techouse/sqlite3-to-mysql](./techouse-sqlite3-to-mysql.md) | ⭐ 475 | Python | 62/100 |
-| 726 | [chromaui/chromatic-cli](./chromaui-chromatic-cli.md) | ⭐ 342 | TypeScript | 62/100 |
-| 727 | [RSeidelsohn/license-checker-rseidelsohn](./rseidelsohn-license-checker-rseidelsohn.md) | ⭐ 205 | TypeScript | 62/100 |
+| 726 | [RSeidelsohn/license-checker-rseidelsohn](./rseidelsohn-license-checker-rseidelsohn.md) | ⭐ 205 | TypeScript | 62/100 |
+| 727 | [chromaui/chromatic-cli](./chromaui-chromatic-cli.md) | ⭐ 342 | TypeScript | 62/100 |
 | 728 | [ozwaldorf/lutgen-rs](./ozwaldorf-lutgen-rs.md) | ⭐ 608 | Rust | 62/100 |
 | 729 | [apricote/hcloud-upload-image](./apricote-hcloud-upload-image.md) | ⭐ 164 | Go | 62/100 |
 | 730 | [conan-io/conan-center-index](./conan-io-conan-center-index.md) | ⭐ 1.2k | Python | 62/100 |
@@ -822,8 +822,8 @@
 | 812 | [techouse/mysql-to-sqlite3](./techouse-mysql-to-sqlite3.md) | ⭐ 275 | Python | 61/100 |
 | 813 | [joknarf/pgtree](./joknarf-pgtree.md) | ⭐ 40 | Shell | 61/100 |
 | 814 | [swiftlang/swift-build](./swiftlang-swift-build.md) | ⭐ 2.3k | Swift | 61/100 |
-| 815 | [wp-cli/profile-command](./wp-cli-profile-command.md) | ⭐ 295 | PHP | 61/100 |
-| 816 | [wp-cli/entity-command](./wp-cli-entity-command.md) | ⭐ 105 | PHP | 61/100 |
+| 815 | [wp-cli/entity-command](./wp-cli-entity-command.md) | ⭐ 105 | PHP | 61/100 |
+| 816 | [wp-cli/profile-command](./wp-cli-profile-command.md) | ⭐ 295 | PHP | 61/100 |
 | 817 | [ad-si/TaskLite](./ad-si-tasklite.md) | ⭐ 291 | Elm | 61/100 |
 | 818 | [MicrosoftDocs/edge-developer](./microsoftdocs-edge-developer.md) | ⭐ 454 | JavaScript | 61/100 |
 | 819 | [alexdlaird/amazon-orders](./alexdlaird-amazon-orders.md) | ⭐ 207 | Python | 61/100 |
@@ -992,7 +992,7 @@
 | 982 | [google/keep-sorted](./google-keep-sorted.md) | ⭐ 405 | Go | 59/100 |
 | 983 | [ansible/ansible-creator](./ansible-ansible-creator.md) | ⭐ 159 | Python | 59/100 |
 | 984 | [DaltonSW/prism](./daltonsw-prism.md) | ⭐ 110 | Go | 59/100 |
-| 985 | [MuntashirAkon/AppManager](./muntashirakon-appmanager.md) | ⭐ 9.5k | Java | 59/100 |
+| 985 | [MuntashirAkon/AppManager](./muntashirakon-appmanager.md) | ⭐ 9.6k | Java | 59/100 |
 | 986 | [ayamir/nvimdots](./ayamir-nvimdots.md) | ⭐ 3.4k | Lua | 59/100 |
 | 987 | [nao1215/sqly](./nao1215-sqly.md) | ⭐ 194 | Go | 59/100 |
 | 988 | [input-output-hk/haskell.nix](./input-output-hk-haskell.nix.md) | ⭐ 627 | Nix | 59/100 |
@@ -1088,8 +1088,8 @@
 | 1078 | [chenxin-yan/crust](./chenxin-yan-crust.md) | ⭐ 416 | TypeScript | 58/100 |
 | 1079 | [AstraeLabs/VibraVid](./astraelabs-vibravid.md) | ⭐ 1.3k | Python | 58/100 |
 | 1080 | [1jehuang/mermaid-rs-renderer](./1jehuang-mermaid-rs-renderer.md) | ⭐ 1.8k | Rust | 58/100 |
-| 1081 | [dyatko/arkit](./dyatko-arkit.md) | ⭐ 973 | JavaScript | 58/100 |
-| 1082 | [patrickhoefler/dockerfilegraph](./patrickhoefler-dockerfilegraph.md) | ⭐ 277 | Go | 58/100 |
+| 1081 | [patrickhoefler/dockerfilegraph](./patrickhoefler-dockerfilegraph.md) | ⭐ 277 | Go | 58/100 |
+| 1082 | [dyatko/arkit](./dyatko-arkit.md) | ⭐ 973 | JavaScript | 58/100 |
 | 1083 | [runpod/runpodctl](./runpod-runpodctl.md) | ⭐ 465 | Go | 58/100 |
 | 1084 | [nikolaydubina/go-recipes](./nikolaydubina-go-recipes.md) | ⭐ 4.8k | Go | 58/100 |
 | 1085 | [GitoxideLabs/gitoxide](./gitoxidelabs-gitoxide.md) | ⭐ 12.1k | Rust | 58/100 |
@@ -1119,8 +1119,8 @@
 | 1109 | [Zheoni/cooklang-chef](./zheoni-cooklang-chef.md) | ⭐ 139 | Rust | 57/100 |
 | 1110 | [aspiers/git-config](./aspiers-git-config.md) | ⭐ 105 | Shell | 57/100 |
 | 1111 | [oleiade/motus](./oleiade-motus.md) | ⭐ 159 | Rust | 57/100 |
-| 1112 | [pgenie-io/pgenie](./pgenie-io-pgenie.md) | ⭐ 163 | Haskell | 57/100 |
-| 1113 | [elm/compiler](./elm-compiler.md) | ⭐ 7.9k | Haskell | 57/100 |
+| 1112 | [elm/compiler](./elm-compiler.md) | ⭐ 7.9k | Haskell | 57/100 |
+| 1113 | [pgenie-io/pgenie](./pgenie-io-pgenie.md) | ⭐ 163 | Haskell | 57/100 |
 | 1114 | [danpozmanter/gossamer](./danpozmanter-gossamer.md) | ⭐ 117 | Rust | 57/100 |
 | 1115 | [Rust-GCC/gccrs](./rust-gcc-gccrs.md) | ⭐ 3k | C++ | 57/100 |
 | 1116 | [woodruffw/toml2json](./woodruffw-toml2json.md) | ⭐ 102 | Rust | 57/100 |
@@ -1348,7 +1348,7 @@
 | 1338 | [e-m-b-a/emba](./e-m-b-a-emba.md) | ⭐ 3.8k | Shell | 54/100 |
 | 1339 | [Homebrew/brew](./homebrew-brew.md) | ⭐ 50.3k | Ruby | 54/100 |
 | 1340 | [medialab/xan](./medialab-xan.md) | ⭐ 4.6k | Rust | 54/100 |
-| 1341 | [jamesondh/chimera-vocal-synth](./jamesondh-chimera-vocal-synth.md) | ⭐ 2k | Rust | 54/100 |
+| 1341 | [jamesondh/chimera-vocal-synth](./jamesondh-chimera-vocal-synth.md) | ⭐ 2.2k | Rust | 54/100 |
 | 1342 | [alexjune1206-maker/samsung-300k-tool-4-linux](./alexjune1206-maker-samsung-300k-tool-4-linux.md) | ⭐ 1 | C | 53/100 |
 | 1343 | [thunderkhan/diff2test](./thunderkhan-diff2test.md) | ⭐ — | C++ | 53/100 |
 | 1344 | [latryee/CloakDB](./latryee-cloakdb.md) | ⭐ 1 | Python | 53/100 |
@@ -1587,8 +1587,8 @@
 | 1577 | [Bharathcoorg/interenv](./bharathcoorg-interenv.md) | ⭐ 1 | Rust | 46/100 |
 | 1578 | [aristocratos/btop](./aristocratos-btop.md) | ⭐ 35.4k | — | 46/100 |
 | 1579 | [geturbackend/urBackend](./geturbackend-urbackend.md) | ⭐ 45 | — | 46/100 |
-| 1580 | [fini-net/gh-observer](./fini-net-gh-observer.md) | ⭐ 14 | — | 46/100 |
-| 1581 | [charmbracelet/lipgloss](./charmbracelet-lipgloss.md) | ⭐ 12k | — | 46/100 |
+| 1580 | [charmbracelet/lipgloss](./charmbracelet-lipgloss.md) | ⭐ 12k | — | 46/100 |
+| 1581 | [fini-net/gh-observer](./fini-net-gh-observer.md) | ⭐ 14 | — | 46/100 |
 | 1582 | [sdiehl/typechecker-zoo](./sdiehl-typechecker-zoo.md) | ⭐ 467 | Rust | 46/100 |
 | 1583 | [coolxv/cpp-stub](./coolxv-cpp-stub.md) | ⭐ 331 | C++ | 46/100 |
 | 1584 | [trovu/trovu](./trovu-trovu.md) | ⭐ 78 | TypeScript | 46/100 |
@@ -1631,8 +1631,8 @@
 | 1621 | [mainak55512/flint](./mainak55512-flint.md) | ⭐ 32 | — | 42/100 |
 | 1622 | [coder/wush](./coder-wush.md) | ⭐ 1.5k | — | 42/100 |
 | 1623 | [berggren/tss](./berggren-tss.md) | ⭐ 4 | — | 42/100 |
-| 1624 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ 1 | — | 42/100 |
-| 1625 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ 1.9k | — | 42/100 |
+| 1624 | [erikrose/parsimonious](./erikrose-parsimonious.md) | ⭐ 1.9k | — | 42/100 |
+| 1625 | [avyuktsoni0731/rs-parsimonious](./avyuktsoni0731-rs-parsimonious.md) | ⭐ 1 | — | 42/100 |
 | 1626 | [mozilla/web-ext](./mozilla-web-ext.md) | ⭐ — | — | 42/100 |
 | 1627 | [scascino4/dither](./scascino4-dither.md) | ⭐ — | — | 42/100 |
 | 1628 | [crawshaw/yeah](./crawshaw-yeah.md) | ⭐ 8 | — | 42/100 |
@@ -1648,7 +1648,7 @@
 | 1638 | [rusty-valve/rusty-valve](./rusty-valve-rusty-valve.md) | ⭐ 3 | — | 41/100 |
 | 1639 | [debugactiveprocess/MaldocTrace](./debugactiveprocess-maldoctrace.md) | ⭐ 1 | — | 41/100 |
 | 1640 | [ShadowKingYT444/motion-debugger](./shadowkingyt444-motion-debugger.md) | ⭐ — | — | 41/100 |
-| 1641 | [jjba23/sift](./jjba23-sift.md) | ⭐ 1 | — | 41/100 |
+| 1641 | [jjba23/sift](./jjba23-sift.md) | ⭐ 13 | — | 41/100 |
 | 1642 | [MrLesk/Groma.md](./mrlesk-groma.md.md) | ⭐ 443 | — | 41/100 |
 | 1643 | [ghosthat-studio/handoffs](./ghosthat-studio-handoffs.md) | ⭐ 6 | — | 41/100 |
 | 1644 | [hakuxyz/awk](./hakuxyz-awk.md) | ⭐ 1 | — | 41/100 |

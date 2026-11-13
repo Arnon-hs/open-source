@@ -143,7 +143,7 @@
 | 133 | [decaporg/decap-cms](./decaporg-decap-cms.md) | ⭐ 19.5k | JavaScript | 63/100 |
 | 134 | [linkchecker/linkchecker](./linkchecker-linkchecker.md) | ⭐ 1.1k | Python | 63/100 |
 | 135 | [showdownjs/showdown](./showdownjs-showdown.md) | ⭐ 14.9k | JavaScript | 63/100 |
-| 136 | [withastro/starlight](./withastro-starlight.md) | ⭐ 9.5k | TypeScript | 63/100 |
+| 136 | [withastro/starlight](./withastro-starlight.md) | ⭐ 9.6k | TypeScript | 63/100 |
 | 137 | [wevm/vocs](./wevm-vocs.md) | ⭐ 1.6k | TypeScript | 63/100 |
 | 138 | [markdown-viewer/markdown-viewer-extension](./markdown-viewer-markdown-viewer-extension.md) | ⭐ 1.9k | TypeScript | 63/100 |
 | 139 | [Ray-D-Song/goread](./ray-d-song-goread.md) | ⭐ 227 | Go | 63/100 |
@@ -214,7 +214,7 @@
 | 204 | [immersive-translate/immersive-translate](./immersive-translate-immersive-translate.md) | ⭐ 19.8k | — | 60/100 |
 | 205 | [Chenruishuo/posterly](./chenruishuo-posterly.md) | ⭐ 438 | Python | 60/100 |
 | 206 | [mozilla/pdf.js](./mozilla-pdf.js.md) | ⭐ 54.1k | JavaScript | 60/100 |
-| 207 | [virgiliojr94/book-to-skill](./virgiliojr94-book-to-skill.md) | ⭐ 37.6k | Python | 60/100 |
+| 207 | [virgiliojr94/book-to-skill](./virgiliojr94-book-to-skill.md) | ⭐ 37.7k | Python | 60/100 |
 | 208 | [react-native-documents/document-picker](./react-native-documents-document-picker.md) | ⭐ 1.5k | TypeScript | 60/100 |
 | 209 | [tw93/MiaoYan](./tw93-miaoyan.md) | ⭐ 8.8k | Swift | 60/100 |
 | 210 | [kanasimi/work_crawler](./kanasimi-work-crawler.md) | ⭐ 4.4k | JavaScript | 60/100 |
@@ -232,7 +232,7 @@
 | 222 | [mermaid-js/mermaid](./mermaid-js-mermaid.md) | ⭐ 91.1k | TypeScript | 60/100 |
 | 223 | [Kareadita/Kavita](./kareadita-kavita.md) | ⭐ 12.1k | C# | 60/100 |
 | 224 | [JohannesKaufmann/html-to-markdown](./johanneskaufmann-html-to-markdown.md) | ⭐ 3.8k | Go | 60/100 |
-| 225 | [pdfminer/pdfminer.six](./pdfminer-pdfminer.six.md) | ⭐ 7k | Python | 59/100 |
+| 225 | [pdfminer/pdfminer.six](./pdfminer-pdfminer.six.md) | ⭐ 7.1k | Python | 59/100 |
 | 226 | [tc39/ecma262](./tc39-ecma262.md) | ⭐ 15.7k | HTML | 59/100 |
 | 227 | [UglyToad/PdfPig](./uglytoad-pdfpig.md) | ⭐ 2.6k | C# | 59/100 |
 | 228 | [danmolitor/forme](./danmolitor-forme.md) | ⭐ 234 | Rust | 59/100 |
@@ -699,8 +699,8 @@
 | 689 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |
 | 690 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ 12 | — | 38/100 |
 | 691 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ 36 | — | 38/100 |
-| 692 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
-| 693 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
+| 692 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
+| 693 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
 | 694 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 120 | — | 38/100 |
 | 695 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 265 | — | 38/100 |
 | 696 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ 24 | — | 38/100 |
@@ -748,8 +748,8 @@
 | 738 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ 2 | — | 38/100 |
 | 739 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 740 | [bruits/satteri](./bruits-satteri.md) | ⭐ 1.3k | — | 38/100 |
-| 741 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
-| 742 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 741 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 742 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
 | 743 | [JagaTheGhost/visualmark-studio](./jagatheghost-visualmark-studio.md) | ⭐ 11 | JavaScript | 37/100 |
 | 744 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 745 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |

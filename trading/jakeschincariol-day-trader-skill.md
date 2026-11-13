@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 7.1k |
-| 🍴 **Forks** | 1.7k |
+| ⭐ **Stars** | 7.4k |
+| 🍴 **Forks** | 1.8k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-11-09 |
@@ -53,8 +53,8 @@ Jakeschincariol/day-trader-skill：Jakeschincariol/day-trader-skill helps resear
 
 **Quality signals**
 
-- 7085 GitHub stars
-- 1704 forks
+- 7415 GitHub stars
+- 1782 forks
 - updated 2026-11-09
 - primary language: Python
 - 13 topics
@@ -68,7 +68,7 @@ Jakeschincariol/day-trader-skill：Jakeschincariol/day-trader-skill helps resear
 | usefulness | 42/100 |
 | quality | 82/100 |
 | integration | 46/100 |
-| production | 69/100 |
+| production | 70/100 |
 | outlook | 74/100 |
 | adoption | 82/100 |
 | categoryMatchCount | 200/100 |
