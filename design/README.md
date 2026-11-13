@@ -13,7 +13,7 @@
 | 3 | [harfbuzz/harfbuzz](./harfbuzz-harfbuzz.md) | ⭐ 6.2k | C++ | 72/100 |
 | 4 | [processing/p5.js](./processing-p5.js.md) | ⭐ 24.3k | JavaScript | 71/100 |
 | 5 | [Consensys/gnark](./consensys-gnark.md) | ⭐ 1.7k | Go | 69/100 |
-| 6 | [google-labs-code/design.md](./google-labs-code-design.md.md) | ⭐ 28.8k | TypeScript | 69/100 |
+| 6 | [google-labs-code/design.md](./google-labs-code-design.md.md) | ⭐ 28.9k | TypeScript | 69/100 |
 | 7 | [PapirusDevelopmentTeam/papirus-icon-theme](./papirusdevelopmentteam-papirus-icon-theme.md) | ⭐ 8.2k | Shell | 68/100 |
 | 8 | [HavenDV/H.NotifyIcon](./havendv-h.notifyicon.md) | ⭐ 771 | C# | 68/100 |
 | 9 | [partcad/partcad](./partcad-partcad.md) | ⭐ 530 | Python | 67/100 |
@@ -42,7 +42,7 @@
 | 32 | [eliheuer/img2bez](./eliheuer-img2bez.md) | ⭐ 164 | Rust | 60/100 |
 | 33 | [HMBSbige/BilibiliLiveRecordDownLoader](./hmbsbige-bilibililiverecorddownloader.md) | ⭐ 834 | C# | 60/100 |
 | 34 | [streetmix/streetmix](./streetmix-streetmix.md) | ⭐ 756 | TypeScript | 59/100 |
-| 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 109k | JavaScript | 59/100 |
+| 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 109.6k | JavaScript | 59/100 |
 | 36 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 7.1k | PHP | 59/100 |
 | 37 | [QwenLM/Qwen3-TTS](./qwenlm-qwen3-tts.md) | ⭐ 14.4k | Python | 58/100 |
 | 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 675 | Vue | 58/100 |
@@ -51,7 +51,7 @@
 | 41 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 519 | TypeScript | 58/100 |
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 610 | Python | 58/100 |
 | 43 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 26.2k | JavaScript | 58/100 |
-| 44 | [liquidslr/system-design-notes](./liquidslr-system-design-notes.md) | ⭐ 28.3k | — | 57/100 |
+| 44 | [liquidslr/system-design-notes](./liquidslr-system-design-notes.md) | ⭐ 28.4k | — | 57/100 |
 | 45 | [davgar99/arch-linux-font-improvement-guide](./davgar99-arch-linux-font-improvement-guide.md) | ⭐ 264 | — | 57/100 |
 | 46 | [YosysHQ/oss-cad-suite-build](./yosyshq-oss-cad-suite-build.md) | ⭐ 1.8k | Shell | 57/100 |
 | 47 | [visioncortex/vtracer](./visioncortex-vtracer.md) | ⭐ 7.5k | Rust | 57/100 |

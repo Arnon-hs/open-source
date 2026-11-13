@@ -1,6 +1,6 @@
 # JarvisOsorio/ambient-memory
 
-[![Stars](https://img.shields.io/github/stars/JarvisOsorio/ambient-memory?style=flat-square&color=yellow)](https://github.com/JarvisOsorio/ambient-memory/stargazers) [![Forks](https://img.shields.io/github/forks/JarvisOsorio/ambient-memory?style=flat-square&color=blue)](https://github.com/JarvisOsorio/ambient-memory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/JarvisOsorio/ambient-memory?style=flat-square&color=yellow)](https://github.com/JarvisOsorio/ambient-memory/stargazers) [![Forks](https://img.shields.io/github/forks/JarvisOsorio/ambient-memory?style=flat-square&color=blue)](https://github.com/JarvisOsorio/ambient-memory/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-config local ambient memory for AI agents — encrypted graph + MCP
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 54/100 |
+| 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-11-12 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ JarvisOsorio/ambient-memory：JarvisOsorio/ambient-memory helps connect AI assis
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-12
 - primary language: TypeScript
 
@@ -63,13 +64,13 @@ JarvisOsorio/ambient-memory：JarvisOsorio/ambient-memory helps connect AI assis
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 36/100 |
+| quality | 38/100 |
 | integration | 62/100 |
 | production | 60/100 |
-| outlook | 57/100 |
-| adoption | 0/100 |
+| outlook | 58/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 100/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 0/100 |

@@ -24,7 +24,7 @@
 | 14 | [flightlessmango/MangoHud](./flightlessmango-mangohud.md) | ⭐ 9.2k | C | 67/100 |
 | 15 | [MonoGame/MonoGame](./monogame-monogame.md) | ⭐ 14.6k | C# | 67/100 |
 | 16 | [X11Libre/xserver](./x11libre-xserver.md) | ⭐ 4.8k | C | 67/100 |
-| 17 | [mrdoob/three.js](./mrdoob-three.js.md) | ⭐ 118.2k | JavaScript | 66/100 |
+| 17 | [mrdoob/three.js](./mrdoob-three.js.md) | ⭐ 118.3k | JavaScript | 66/100 |
 | 18 | [godot-go/godot-go](./godot-go-godot-go.md) | ⭐ 764 | Go | 66/100 |
 | 19 | [antvis/G2](./antvis-g2.md) | ⭐ 12.7k | TypeScript | 66/100 |
 | 20 | [vulkano-rs/vulkano](./vulkano-rs-vulkano.md) | ⭐ 5.2k | Rust | 66/100 |
@@ -44,7 +44,7 @@
 | 34 | [erichlof/THREE.js-PathTracing-Renderer](./erichlof-three.js-pathtracing-renderer.md) | ⭐ 2.3k | GLSL | 65/100 |
 | 35 | [Shrey113/Android-Dex](./shrey113-android-dex.md) | ⭐ 3.9k | HTML | 64/100 |
 | 36 | [iShape-Rust/iOverlay](./ishape-rust-ioverlay.md) | ⭐ 219 | Rust | 64/100 |
-| 37 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 35.6k | C | 64/100 |
+| 37 | [raysan5/raylib](./raysan5-raylib.md) | ⭐ 35.7k | C | 64/100 |
 | 38 | [openglobus/openglobus](./openglobus-openglobus.md) | ⭐ 952 | TypeScript | 64/100 |
 | 39 | [mas-bandwidth/netcode](./mas-bandwidth-netcode.md) | ⭐ 2.6k | C | 64/100 |
 | 40 | [fschutt/azul](./fschutt-azul.md) | ⭐ 6.1k | Rust | 64/100 |
@@ -53,7 +53,7 @@
 | 43 | [mapbox/mapbox-gl-js](./mapbox-mapbox-gl-js.md) | ⭐ 12.5k | TypeScript | 64/100 |
 | 44 | [phase-rs/phase](./phase-rs-phase.md) | ⭐ 328 | Rust | 64/100 |
 | 45 | [dimforge/bevy_rapier](./dimforge-bevy-rapier.md) | ⭐ 1.6k | Rust | 64/100 |
-| 46 | [shadps4-emu/shadPS4](./shadps4-emu-shadps4.md) | ⭐ 34.1k | C++ | 64/100 |
+| 46 | [shadps4-emu/shadPS4](./shadps4-emu-shadps4.md) | ⭐ 34.2k | C++ | 64/100 |
 | 47 | [hexops/mach](./hexops-mach.md) | ⭐ 4.9k | Zig | 64/100 |
 | 48 | [OpenRCT2/OpenRCT2](./openrct2-openrct2.md) | ⭐ 16.6k | C++ | 63/100 |
 | 49 | [datoviz/datoviz](./datoviz-datoviz.md) | ⭐ 826 | C | 63/100 |
@@ -238,7 +238,7 @@
 | 228 | [effekseer/Effekseer](./effekseer-effekseer.md) | ⭐ 2.1k | C | 54/100 |
 | 229 | [SecondHalfGames/yakui](./secondhalfgames-yakui.md) | ⭐ 350 | Rust | 54/100 |
 | 230 | [PanosK92/SpartanEngine](./panosk92-spartanengine.md) | ⭐ 3.2k | C++ | 54/100 |
-| 231 | [emilk/egui](./emilk-egui.md) | ⭐ 32.2k | Rust | 54/100 |
+| 231 | [emilk/egui](./emilk-egui.md) | ⭐ 32.3k | Rust | 54/100 |
 | 232 | [toji/gl-matrix](./toji-gl-matrix.md) | ⭐ 5.7k | JavaScript | 53/100 |
 | 233 | [KDABLabs/kdabtv](./kdablabs-kdabtv.md) | ⭐ 328 | C++ | 53/100 |
 | 234 | [GlistEngine/GlistEngine](./glistengine-glistengine.md) | ⭐ 384 | C++ | 53/100 |
@@ -334,7 +334,7 @@
 | 324 | [NVIDIA-RTX/Whitepapers](./nvidia-rtx-whitepapers.md) | ⭐ — | — | 41/100 |
 | 325 | [matheus-aragao-cavalcante/BEA-Backport-Engineering-Anything](./matheus-aragao-cavalcante-bea-backport-engineering-anything.md) | ⭐ — | — | 41/100 |
 | 326 | [tailscale/tailcat-for-minecraft](./tailscale-tailcat-for-minecraft.md) | ⭐ — | — | 41/100 |
-| 327 | [davidgiven/pet-elite](./davidgiven-pet-elite.md) | ⭐ 6 | — | 41/100 |
+| 327 | [davidgiven/pet-elite](./davidgiven-pet-elite.md) | ⭐ 10 | — | 41/100 |
 | 328 | [angelotc/lol-companion](./angelotc-lol-companion.md) | ⭐ 5 | — | 41/100 |
 | 329 | [Sunghwan0112/spritecast](./sunghwan0112-spritecast.md) | ⭐ 43 | — | 41/100 |
 | 330 | [theagentd/CORTAO](./theagentd-cortao.md) | ⭐ 172 | — | 41/100 |

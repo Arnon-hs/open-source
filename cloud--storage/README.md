@@ -165,7 +165,7 @@
 | 155 | [kubernetes-sigs/cluster-api-provider-azure](./kubernetes-sigs-cluster-api-provider-azure.md) | ⭐ 342 | Go | 66/100 |
 | 156 | [neondatabase/neonctl](./neondatabase-neonctl.md) | ⭐ 119 | TypeScript | 66/100 |
 | 157 | [thomaspoignant/go-feature-flag](./thomaspoignant-go-feature-flag.md) | ⭐ 2.1k | Go | 66/100 |
-| 158 | [seaweedfs/seaweedfs](./seaweedfs-seaweedfs.md) | ⭐ 36k | Go | 66/100 |
+| 158 | [seaweedfs/seaweedfs](./seaweedfs-seaweedfs.md) | ⭐ 36.1k | Go | 66/100 |
 | 159 | [clastix/kamaji](./clastix-kamaji.md) | ⭐ 2.1k | Go | 65/100 |
 | 160 | [k8snetworkplumbingwg/sriov-cni](./k8snetworkplumbingwg-sriov-cni.md) | ⭐ 392 | Go | 65/100 |
 | 161 | [s3fs-fuse/s3fs-fuse](./s3fs-fuse-s3fs-fuse.md) | ⭐ 10k | C++ | 65/100 |
@@ -493,8 +493,8 @@
 | 483 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 448 | Go | 52/100 |
 | 484 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 485 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 488 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 62 | Python | 51/100 |
 | 489 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 490 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
@@ -548,8 +548,8 @@
 | 538 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 539 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 540 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
-| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
 | 543 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 544 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 545 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |

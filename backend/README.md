@@ -336,7 +336,7 @@
 | 326 | [rundeck/rundeck-cli](./rundeck-rundeck-cli.md) | ⭐ 141 | Java | 67/100 |
 | 327 | [asyncapi/cli](./asyncapi-cli.md) | ⭐ 277 | TypeScript | 67/100 |
 | 328 | [FuzzyGrim/Yamtrack](./fuzzygrim-yamtrack.md) | ⭐ 3.8k | Python | 67/100 |
-| 329 | [public-apis/public-apis](./public-apis-public-apis.md) | ⭐ 498.5k | Python | 67/100 |
+| 329 | [public-apis/public-apis](./public-apis-public-apis.md) | ⭐ 498.8k | Python | 67/100 |
 | 330 | [fern-api/fern](./fern-api-fern.md) | ⭐ 3.8k | TypeScript | 67/100 |
 | 331 | [openfoodfacts/openfoodfacts-server](./openfoodfacts-openfoodfacts-server.md) | ⭐ 1.2k | HTML | 67/100 |
 | 332 | [WeblateOrg/weblate](./weblateorg-weblate.md) | ⭐ 6.2k | Python | 67/100 |
@@ -383,7 +383,7 @@
 | 373 | [discord/discord-api-docs](./discord-discord-api-docs.md) | ⭐ 6.5k | MDX | 66/100 |
 | 374 | [PranshulGG/WeatherMaster](./pranshulgg-weathermaster.md) | ⭐ 3.2k | Kotlin | 66/100 |
 | 375 | [Minestom/Minestom](./minestom-minestom.md) | ⭐ 3.3k | Java | 66/100 |
-| 376 | [nodejs/node](./nodejs-node.md) | ⭐ 123.6k | JavaScript | 66/100 |
+| 376 | [nodejs/node](./nodejs-node.md) | ⭐ 123.7k | JavaScript | 66/100 |
 | 377 | [nestjs/typeorm](./nestjs-typeorm.md) | ⭐ 2.2k | TypeScript | 66/100 |
 | 378 | [c410-f3r/wtx](./c410-f3r-wtx.md) | ⭐ 407 | Rust | 66/100 |
 | 379 | [ErikEJ/EFCorePowerTools](./erikej-efcorepowertools.md) | ⭐ 2.5k | C# | 66/100 |
@@ -576,8 +576,8 @@
 | 566 | [GSManagerXZ/GameServerManager](./gsmanagerxz-gameservermanager.md) | ⭐ 1.1k | TypeScript | 61/100 |
 | 567 | [vehagn/homelab](./vehagn-homelab.md) | ⭐ 403 | HCL | 61/100 |
 | 568 | [mesamirh/MovieBox-Tui](./mesamirh-moviebox-tui.md) | ⭐ 2.8k | Rust | 61/100 |
-| 569 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
-| 570 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
+| 569 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
+| 570 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
 | 571 | [simonepri/sympact](./simonepri-sympact.md) | ⭐ 441 | JavaScript | 61/100 |
 | 572 | [chung-leong/zigar](./chung-leong-zigar.md) | ⭐ 443 | Zig | 61/100 |
 | 573 | [rejetto/hfs](./rejetto-hfs.md) | ⭐ 4k | TypeScript | 61/100 |
@@ -768,7 +768,7 @@
 | 758 | [ibizaman/selfhostblocks](./ibizaman-selfhostblocks.md) | ⭐ 520 | Nix | 56/100 |
 | 759 | [eclipse-iceoryx/iceoryx2](./eclipse-iceoryx-iceoryx2.md) | ⭐ 2.6k | Rust | 56/100 |
 | 760 | [mytechnotalent/Go-Hacking](./mytechnotalent-go-hacking.md) | ⭐ 384 | Go | 56/100 |
-| 761 | [faker-js/faker](./faker-js-faker.md) | ⭐ 15.5k | TypeScript | 56/100 |
+| 761 | [faker-js/faker](./faker-js-faker.md) | ⭐ 15.6k | TypeScript | 56/100 |
 | 762 | [inducer/relate](./inducer-relate.md) | ⭐ 438 | Python | 56/100 |
 | 763 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 489 | Go | 56/100 |
 | 764 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 193 | TypeScript | 56/100 |
@@ -1003,7 +1003,7 @@
 | 993 | [bavanDA/hpc-hub](./bavanda-hpc-hub.md) | ⭐ 42 | — | 41/100 |
 | 994 | [pharma2a/pharma2a](./pharma2a-pharma2a.md) | ⭐ 13 | — | 41/100 |
 | 995 | [DaleFranks/ramasite](./dalefranks-ramasite.md) | ⭐ 6 | — | 41/100 |
-| 996 | [tylertms/Stela](./tylertms-stela.md) | ⭐ 1.4k | — | 41/100 |
+| 996 | [tylertms/Stela](./tylertms-stela.md) | ⭐ 1.9k | — | 41/100 |
 | 997 | [nitrosend/nitromta](./nitrosend-nitromta.md) | ⭐ 126 | — | 41/100 |
 | 998 | [rcarmo/rexweb](./rcarmo-rexweb.md) | ⭐ — | — | 41/100 |
 | 999 | [arjaythedev/twelve-dollar-server-challenge](./arjaythedev-twelve-dollar-server-challenge.md) | ⭐ — | — | 41/100 |

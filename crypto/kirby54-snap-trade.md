@@ -1,6 +1,6 @@
 # Kirby54/Snap-Trade
 
-[![Stars](https://img.shields.io/github/stars/Kirby54/Snap-Trade?style=flat-square&color=yellow)](https://github.com/Kirby54/Snap-Trade/stargazers) [![Forks](https://img.shields.io/github/forks/Kirby54/Snap-Trade?style=flat-square&color=blue)](https://github.com/Kirby54/Snap-Trade/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-43%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Kirby54/Snap-Trade?style=flat-square&color=yellow)](https://github.com/Kirby54/Snap-Trade/stargazers) [![Forks](https://img.shields.io/github/forks/Kirby54/Snap-Trade?style=flat-square&color=blue)](https://github.com/Kirby54/Snap-Trade/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > 📸 Snap any chart, get LONG / SHORT / NO TRADE with entry, stop loss and take profit. All-in-one Claude skill for stocks, crypto, forex and futures, any timeframe.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 43/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-11-12 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ Kirby54/Snap-Trade：Kirby54/Snap-Trade helps prototype or inspect blockchain wo
 
 **Quality signals**
 
-- 1 GitHub stars
+- 2 GitHub stars
 - updated 2026-11-12
 - primary language: Python
 
@@ -64,13 +64,13 @@ Kirby54/Snap-Trade：Kirby54/Snap-Trade helps prototype or inspect blockchain wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 39/100 |
 | integration | 46/100 |
-| production | 58/100 |
+| production | 59/100 |
 | outlook | 52/100 |
-| adoption | 5/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 300/100 |
-| stars | 6/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 0/100 |

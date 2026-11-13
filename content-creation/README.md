@@ -150,7 +150,7 @@
 | 140 | [Lightricks/LTX-2.3](./lightricks-ltx-2.3.md) | ⭐ 1.8k | diffusers | 46/100 |
 | 141 | [josh99smith/youtube-scraper](./josh99smith-youtube-scraper.md) | ⭐ — | — | 45/100 |
 | 142 | [ShadowKingYT444/unglazed](./shadowkingyt444-unglazed.md) | ⭐ 1 | — | 45/100 |
-| 143 | [lettercamp/lettercamp](./lettercamp-lettercamp.md) | ⭐ 3 | — | 45/100 |
+| 143 | [lettercamp/lettercamp](./lettercamp-lettercamp.md) | ⭐ 4 | — | 45/100 |
 | 144 | [MaxonT/aisync](./maxont-aisync.md) | ⭐ 43 | — | 45/100 |
 | 145 | [GoogleChrome/modern-web-guidance](./googlechrome-modern-web-guidance.md) | ⭐ 10.4k | — | 45/100 |
 | 146 | [bquenin/qitt](./bquenin-qitt.md) | ⭐ 2 | — | 45/100 |

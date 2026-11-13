@@ -13,7 +13,7 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Communication](../communication/README.md) | 490 |
 | [Content Creation](../content-creation/README.md) | 181 |
 | [Crypto](../crypto/README.md) | 850 |
-| [Data](../data/README.md) | 376 |
+| [Data](../data/README.md) | 377 |
 | [Database](../database/README.md) | 591 |
 | [Design](../design/README.md) | 200 |
 | [DevOps/Infra](../devopsinfra/README.md) | 564 |

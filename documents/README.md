@@ -11,8 +11,8 @@
 | 1 | [strapi/strapi](./strapi-strapi.md) | ⭐ 73.5k | TypeScript | 85/100 |
 | 2 | [gotenberg/gotenberg](./gotenberg-gotenberg.md) | ⭐ 13.6k | Go | 80/100 |
 | 3 | [mediacms-io/mediacms](./mediacms-io-mediacms.md) | ⭐ 5.2k | JavaScript | 79/100 |
-| 4 | [markdown-it/markdown-it](./markdown-it-markdown-it.md) | ⭐ 22k | TypeScript | 79/100 |
-| 5 | [NiklasRosenstein/pydoc-markdown](./niklasrosenstein-pydoc-markdown.md) | ⭐ 503 | Python | 78/100 |
+| 4 | [NiklasRosenstein/pydoc-markdown](./niklasrosenstein-pydoc-markdown.md) | ⭐ 503 | Python | 78/100 |
+| 5 | [markdown-it/markdown-it](./markdown-it-markdown-it.md) | ⭐ 22k | TypeScript | 78/100 |
 | 6 | [papis/papis](./papis-papis.md) | ⭐ 1.8k | HTML | 77/100 |
 | 7 | [speakeasy-api/openapi](./speakeasy-api-openapi.md) | ⭐ 279 | Go | 76/100 |
 | 8 | [pdfcpu/pdfcpu](./pdfcpu-pdfcpu.md) | ⭐ 8.9k | Go | 76/100 |
@@ -25,7 +25,7 @@
 | 15 | [RobinTail/express-zod-api](./robintail-express-zod-api.md) | ⭐ 839 | TypeScript | 75/100 |
 | 16 | [imzbf/md-editor-v3](./imzbf-md-editor-v3.md) | ⭐ 2.6k | TypeScript | 74/100 |
 | 17 | [ebullient/ttrpg-convert-cli](./ebullient-ttrpg-convert-cli.md) | ⭐ 384 | Java | 74/100 |
-| 18 | [readest/readest](./readest-readest.md) | ⭐ 26.2k | TypeScript | 74/100 |
+| 18 | [readest/readest](./readest-readest.md) | ⭐ 26.3k | TypeScript | 74/100 |
 | 19 | [charmbracelet/glamour](./charmbracelet-glamour.md) | ⭐ 3.8k | Go | 73/100 |
 | 20 | [VirtusLab-Open-Source/strapi-plugin-navigation](./virtuslab-open-source-strapi-plugin-navigation.md) | ⭐ 364 | TypeScript | 73/100 |
 | 21 | [hougesen/mdsf](./hougesen-mdsf.md) | ⭐ 112 | Rust | 73/100 |
@@ -57,7 +57,7 @@
 | 47 | [BuilderIO/builder](./builderio-builder.md) | ⭐ 8.9k | TypeScript | 69/100 |
 | 48 | [mrusme/reader](./mrusme-reader.md) | ⭐ 420 | Go | 69/100 |
 | 49 | [microsoft/OpenAPI.NET](./microsoft-openapi.net.md) | ⭐ 1.6k | C# | 69/100 |
-| 50 | [DrewThomasson/ebook2audiobook](./drewthomasson-ebook2audiobook.md) | ⭐ 20.5k | Python | 69/100 |
+| 50 | [DrewThomasson/ebook2audiobook](./drewthomasson-ebook2audiobook.md) | ⭐ 20.6k | Python | 69/100 |
 | 51 | [drasimwagan/mdv](./drasimwagan-mdv.md) | ⭐ 514 | TypeScript | 69/100 |
 | 52 | [marp-team/marp-cli](./marp-team-marp-cli.md) | ⭐ 3.9k | TypeScript | 69/100 |
 | 53 | [hackjutsu/Lepton](./hackjutsu-lepton.md) | ⭐ 10.3k | JavaScript | 69/100 |
@@ -98,12 +98,12 @@
 | 88 | [superstarryeyes/lue](./superstarryeyes-lue.md) | ⭐ 787 | Python | 66/100 |
 | 89 | [slidevjs/slidev](./slidevjs-slidev.md) | ⭐ 49.5k | TypeScript | 66/100 |
 | 90 | [chrisguttandin/angular-prerender](./chrisguttandin-angular-prerender.md) | ⭐ 128 | JavaScript | 66/100 |
-| 91 | [obsidianmd/obsidian-releases](./obsidianmd-obsidian-releases.md) | ⭐ 23.2k | — | 66/100 |
+| 91 | [obsidianmd/obsidian-releases](./obsidianmd-obsidian-releases.md) | ⭐ 23.3k | — | 66/100 |
 | 92 | [payloadcms/payload](./payloadcms-payload.md) | ⭐ 45.8k | TypeScript | 66/100 |
 | 93 | [JimmXinu/FanFicFare](./jimmxinu-fanficfare.md) | ⭐ 1.1k | Python | 66/100 |
 | 94 | [directus/directus](./directus-directus.md) | ⭐ 38.7k | TypeScript | 66/100 |
 | 95 | [peaceiris/actions-gh-pages](./peaceiris-actions-gh-pages.md) | ⭐ 5.4k | TypeScript | 65/100 |
-| 96 | [DigitalPlatDev/FreeDomain](./digitalplatdev-freedomain.md) | ⭐ 208k | Markdown | 65/100 |
+| 96 | [DigitalPlatDev/FreeDomain](./digitalplatdev-freedomain.md) | ⭐ 208.1k | Markdown | 65/100 |
 | 97 | [vuejs/vitepress](./vuejs-vitepress.md) | ⭐ 18.5k | TypeScript | 65/100 |
 | 98 | [jackyzha0/quartz](./jackyzha0-quartz.md) | ⭐ 13.6k | TypeScript | 65/100 |
 | 99 | [lepture/mistune](./lepture-mistune.md) | ⭐ 3.1k | Python | 65/100 |
@@ -113,7 +113,7 @@
 | 103 | [mrmn2/PdfDing](./mrmn2-pdfding.md) | ⭐ 1.8k | Python | 65/100 |
 | 104 | [halo-dev/halo](./halo-dev-halo.md) | ⭐ 40.3k | Java | 65/100 |
 | 105 | [webstudio-is/webstudio](./webstudio-is-webstudio.md) | ⭐ 9.2k | TypeScript | 65/100 |
-| 106 | [marktext/marktext](./marktext-marktext.md) | ⭐ 63.9k | JavaScript | 65/100 |
+| 106 | [marktext/marktext](./marktext-marktext.md) | ⭐ 64k | JavaScript | 65/100 |
 | 107 | [jgm/pandoc](./jgm-pandoc.md) | ⭐ 46.9k | Haskell | 65/100 |
 | 108 | [papra-hq/papra](./papra-hq-papra.md) | ⭐ 5.7k | TypeScript | 65/100 |
 | 109 | [transmute-app/transmute](./transmute-app-transmute.md) | ⭐ 1.5k | Python | 65/100 |
@@ -715,10 +715,10 @@
 | 705 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
 | 706 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 707 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
-| 708 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
-| 709 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 710 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
-| 711 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 708 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 709 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
+| 710 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 711 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 712 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |
 | 713 | [grinev/boardown](./grinev-boardown.md) | ⭐ 46 | — | 38/100 |
 | 714 | [dsbitor/technotes-releases](./dsbitor-technotes-releases.md) | ⭐ 1 | — | 38/100 |

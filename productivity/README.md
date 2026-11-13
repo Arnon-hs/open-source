@@ -30,7 +30,7 @@
 | 20 | [jrnl-org/jrnl](./jrnl-org-jrnl.md) | ⭐ 7.4k | Python | 72/100 |
 | 21 | [Wox-launcher/Wox](./wox-launcher-wox.md) | ⭐ 27.6k | Go | 71/100 |
 | 22 | [sayanarijit/xplr](./sayanarijit-xplr.md) | ⭐ 4.9k | Rust | 71/100 |
-| 23 | [super-productivity/super-productivity](./super-productivity-super-productivity.md) | ⭐ 23.6k | TypeScript | 71/100 |
+| 23 | [super-productivity/super-productivity](./super-productivity-super-productivity.md) | ⭐ 23.7k | TypeScript | 71/100 |
 | 24 | [slothflowlabs/duckle](./slothflowlabs-duckle.md) | ⭐ 1.6k | Rust | 71/100 |
 | 25 | [unhappychoice/gitlogue](./unhappychoice-gitlogue.md) | ⭐ 5.3k | Rust | 71/100 |
 | 26 | [Nriver/trilium-translation](./nriver-trilium-translation.md) | ⭐ 2.9k | HTML | 70/100 |
@@ -40,7 +40,7 @@
 | 30 | [files-community/Files](./files-community-files.md) | ⭐ 46.6k | C# | 70/100 |
 | 31 | [0PandaDEV/Ziit](./0pandadev-ziit.md) | ⭐ 259 | TypeScript | 69/100 |
 | 32 | [BYTEDz/PCLink](./bytedz-pclink.md) | ⭐ 947 | Python | 69/100 |
-| 33 | [jaywcjlove/awesome-mac](./jaywcjlove-awesome-mac.md) | ⭐ 118.4k | Swift | 69/100 |
+| 33 | [jaywcjlove/awesome-mac](./jaywcjlove-awesome-mac.md) | ⭐ 118.5k | Swift | 69/100 |
 | 34 | [kriuchkov/tock](./kriuchkov-tock.md) | ⭐ 507 | Go | 69/100 |
 | 35 | [Clipy/Clipy](./clipy-clipy.md) | ⭐ 9k | Swift | 68/100 |
 | 36 | [brettcannon/python-launcher](./brettcannon-python-launcher.md) | ⭐ 632 | Rust | 68/100 |
@@ -59,7 +59,7 @@
 | 49 | [iffse/pay-respects](./iffse-pay-respects.md) | ⭐ 737 | Rust | 67/100 |
 | 50 | [laurent22/joplin](./laurent22-joplin.md) | ⭐ 57.2k | TypeScript | 67/100 |
 | 51 | [phlx0/snip](./phlx0-snip.md) | ⭐ 112 | Python | 66/100 |
-| 52 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 140.9k | C | 66/100 |
+| 52 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 141k | C | 66/100 |
 | 53 | [jaywcjlove/rightmenu-master](./jaywcjlove-rightmenu-master.md) | ⭐ 564 | Swift | 66/100 |
 | 54 | [AmineDjeghri/personal-os-setup](./aminedjeghri-personal-os-setup.md) | ⭐ 679 | Python | 66/100 |
 | 55 | [espanso/espanso](./espanso-espanso.md) | ⭐ 14.8k | Rust | 66/100 |
@@ -100,7 +100,7 @@
 | 90 | [Shopify/tophat](./shopify-tophat.md) | ⭐ 1.1k | Swift | 62/100 |
 | 91 | [Keruspe/GPaste](./keruspe-gpaste.md) | ⭐ 966 | C | 62/100 |
 | 92 | [PrismLauncher/PrismLauncher](./prismlauncher-prismlauncher.md) | ⭐ 11.1k | C++ | 62/100 |
-| 93 | [amir1376/ab-download-manager](./amir1376-ab-download-manager.md) | ⭐ 19.2k | Kotlin | 62/100 |
+| 93 | [amir1376/ab-download-manager](./amir1376-ab-download-manager.md) | ⭐ 19.3k | Kotlin | 62/100 |
 | 94 | [mrusme/zeit](./mrusme-zeit.md) | ⭐ 594 | Go | 62/100 |
 | 95 | [headlesshq/headlessmc](./headlesshq-headlessmc.md) | ⭐ 429 | Java | 62/100 |
 | 96 | [Vortrix5/sifty](./vortrix5-sifty.md) | ⭐ 126 | Python | 62/100 |
@@ -201,7 +201,7 @@
 | 191 | [ghost-him/ZeroLaunch-rs](./ghost-him-zerolaunch-rs.md) | ⭐ 583 | Rust | 55/100 |
 | 192 | [kuokuo123/otter-launcher](./kuokuo123-otter-launcher.md) | ⭐ 362 | Rust | 55/100 |
 | 193 | [modrinth/code](./modrinth-code.md) | ⭐ 2.5k | Rust | 55/100 |
-| 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.8k | Rust | 55/100 |
+| 194 | [tauri-apps/tauri](./tauri-apps-tauri.md) | ⭐ 112.9k | Rust | 55/100 |
 | 195 | [openbezal/rhema](./openbezal-rhema.md) | ⭐ 357 | TypeScript | 54/100 |
 | 196 | [FCL-Team/FoldCraftLauncher](./fcl-team-foldcraftlauncher.md) | ⭐ 5.2k | Java | 54/100 |
 | 197 | [Xoshbin/asyar](./xoshbin-asyar.md) | ⭐ 1k | Rust | 54/100 |
@@ -329,8 +329,8 @@
 | 319 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ — | — | 41/100 |
 | 320 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 321 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ 6 | — | 41/100 |
-| 322 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
-| 323 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
+| 322 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
+| 323 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
 | 324 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 2 | — | 41/100 |
 | 325 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 326 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 2 | — | 41/100 |

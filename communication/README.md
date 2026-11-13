@@ -32,7 +32,7 @@
 | 22 | [pact-foundation/pact-js](./pact-foundation-pact-js.md) | ⭐ 1.8k | TypeScript | 73/100 |
 | 23 | [slackapi/bolt-js](./slackapi-bolt-js.md) | ⭐ 3k | TypeScript | 73/100 |
 | 24 | [ovh/venom](./ovh-venom.md) | ⭐ 1.2k | Go | 72/100 |
-| 25 | [chatwoot/chatwoot](./chatwoot-chatwoot.md) | ⭐ 39.7k | Ruby | 72/100 |
+| 25 | [chatwoot/chatwoot](./chatwoot-chatwoot.md) | ⭐ 39.8k | Ruby | 72/100 |
 | 26 | [rustmailer/bichon](./rustmailer-bichon.md) | ⭐ 2.1k | TypeScript | 72/100 |
 | 27 | [muhammedaksam/waha-tui](./muhammedaksam-waha-tui.md) | ⭐ 413 | TypeScript | 72/100 |
 | 28 | [jchultarsky/mirador](./jchultarsky-mirador.md) | ⭐ 328 | Rust | 71/100 |
@@ -85,14 +85,14 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
 | 83 | [stoatchat/self-hosted](./stoatchat-self-hosted.md) | ⭐ 2.7k | JavaScript | 65/100 |
 | 84 | [domainaware/checkdmarc](./domainaware-checkdmarc.md) | ⭐ 326 | Python | 65/100 |
-| 85 | [docker-mailserver/docker-mailserver](./docker-mailserver-docker-mailserver.md) | ⭐ 19.7k | Shell | 64/100 |
+| 85 | [docker-mailserver/docker-mailserver](./docker-mailserver-docker-mailserver.md) | ⭐ 19.8k | Shell | 64/100 |
 | 86 | [baptisteArno/typebot.io](./baptistearno-typebot.io.md) | ⭐ 10.6k | TypeScript | 64/100 |
 | 87 | [cherry-game/cherry](./cherry-game-cherry.md) | ⭐ 827 | Go | 64/100 |
 | 88 | [hyvor/relay](./hyvor-relay.md) | ⭐ 923 | PHP | 64/100 |
@@ -242,7 +242,7 @@
 | 232 | [khaled-alshamaa/ar-php](./khaled-alshamaa-ar-php.md) | ⭐ 343 | PHP | 54/100 |
 | 233 | [lennart-k/rustical](./lennart-k-rustical.md) | ⭐ 576 | Rust | 54/100 |
 | 234 | [containrrr/shoutrrr](./containrrr-shoutrrr.md) | ⭐ 1.7k | Go | 54/100 |
-| 235 | [telegramdesktop/tdesktop](./telegramdesktop-tdesktop.md) | ⭐ 33.5k | C++ | 54/100 |
+| 235 | [telegramdesktop/tdesktop](./telegramdesktop-tdesktop.md) | ⭐ 33.6k | C++ | 54/100 |
 | 236 | [grloper/NoMorePwn-Password-Manager](./grloper-nomorepwn-password-manager.md) | ⭐ 1 | Python | 53/100 |
 | 237 | [DomaCKBO3H9K/chatstyle](./domackbo3h9k-chatstyle.md) | ⭐ 1 | Python | 53/100 |
 | 238 | [swiftkit-dev/website-tech-stack-detector](./swiftkit-dev-website-tech-stack-detector.md) | ⭐ — | JavaScript | 53/100 |

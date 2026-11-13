@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | — |
-| 🍴 **Forks** | 2 |
+| 🍴 **Forks** | 3 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-11-06 |
@@ -51,7 +51,7 @@ ariyoaresa/safetodelete：ariyoaresa/safetodelete may be useful when its README 
 
 **Quality signals**
 
-- 2 forks
+- 3 forks
 - updated 2026-11-06
 - primary language: TypeScript
 - 3 topics
@@ -65,12 +65,12 @@ ariyoaresa/safetodelete：ariyoaresa/safetodelete may be useful when its README 
 | usefulness | 42/100 |
 | quality | 38/100 |
 | integration | 46/100 |
-| production | 53/100 |
+| production | 54/100 |
 | outlook | 48/100 |
-| adoption | 3/100 |
+| adoption | 4/100 |
 | categoryMatchCount | 0/100 |
 | stars | 0/100 |
-| forks | 12/100 |
+| forks | 15/100 |
 | recency | 80/100 |
 | topics | 38/100 |
 | sourceTrust | 70/100 |

@@ -1,6 +1,6 @@
 # abhinavnayak21/BillCraft-ai-x-MLH
 
-[![Stars](https://img.shields.io/github/stars/abhinavnayak21/BillCraft-ai-x-MLH?style=flat-square&color=yellow)](https://github.com/abhinavnayak21/BillCraft-ai-x-MLH/stargazers) [![Forks](https://img.shields.io/github/forks/abhinavnayak21/BillCraft-ai-x-MLH?style=flat-square&color=blue)](https://github.com/abhinavnayak21/BillCraft-ai-x-MLH/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abhinavnayak21/BillCraft-ai-x-MLH?style=flat-square&color=yellow)](https://github.com/abhinavnayak21/BillCraft-ai-x-MLH/stargazers) [![Forks](https://img.shields.io/github/forks/abhinavnayak21/BillCraft-ai-x-MLH?style=flat-square&color=blue)](https://github.com/abhinavnayak21/BillCraft-ai-x-MLH/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-34%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 37/100 |
+| 📈 **Score** | 34/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ abhinavnayak21/BillCraft-ai-x-MLH：abhinavnayak21/BillCraft-ai-x-MLH helps inte
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 35/100 |
+| quality | 30/100 |
 | integration | 34/100 |
-| production | 46/100 |
-| outlook | 43/100 |
+| production | 39/100 |
+| outlook | 36/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 
