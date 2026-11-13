@@ -340,7 +340,7 @@
 | 330 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 516 | R | 46/100 |
 | 331 | [bitsinfra/gnomon](./bitsinfra-gnomon.md) | ⭐ — | — | 45/100 |
 | 332 | [angoikon/byd-trip-stats](./angoikon-byd-trip-stats.md) | ⭐ — | — | 45/100 |
-| 333 | [akkio-inc/igloo](./akkio-inc-igloo.md) | ⭐ 4 | — | 45/100 |
+| 333 | [akkio-inc/igloo](./akkio-inc-igloo.md) | ⭐ 10 | — | 45/100 |
 | 334 | [yakshjethva/jvm-inside-out](./yakshjethva-jvm-inside-out.md) | ⭐ 4 | TypeScript | 45/100 |
 | 335 | [HimanshuS073/music_visualizer](./himanshus073-music-visualizer.md) | ⭐ 2 | Lua | 45/100 |
 | 336 | [partick33/internal-links-export](./partick33-internal-links-export.md) | ⭐ — | JavaScript | 45/100 |
