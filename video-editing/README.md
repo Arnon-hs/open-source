@@ -538,7 +538,7 @@
 | 528 | [zmwangx/rust-ffmpeg-sys](./zmwangx-rust-ffmpeg-sys.md) | ⭐ 216 | Rust | 52/100 |
 | 529 | [asbplayer/asbplayer](./asbplayer-asbplayer.md) | ⭐ 1.5k | TypeScript | 52/100 |
 | 530 | [SubtitleEdit/subtitleedit](./subtitleedit-subtitleedit.md) | ⭐ 15k | C# | 52/100 |
-| 531 | [acasoq-web/BananaV](./acasoq-web-bananav.md) | ⭐ 25 | Rust | 51/100 |
+| 531 | [acasoq-web/BananaV](./acasoq-web-bananav.md) | ⭐ 26 | Rust | 51/100 |
 | 532 | [JaeSwiftxyz/DaisyCap](./jaeswiftxyz-daisycap.md) | ⭐ 13 | Rust | 51/100 |
 | 533 | [riecodes/free247editor](./riecodes-free247editor.md) | ⭐ 179 | JavaScript | 51/100 |
 | 534 | [Anil-matcha/awesome-uncensored-ai-video-models](./anil-matcha-awesome-uncensored-ai-video-models.md) | ⭐ 31 | — | 51/100 |

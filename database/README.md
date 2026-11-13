@@ -554,8 +554,8 @@
 | 544 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 545 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 546 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 435 | — | 38/100 |
-| 547 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
-| 548 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 547 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 548 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
 | 549 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 550 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 551 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |

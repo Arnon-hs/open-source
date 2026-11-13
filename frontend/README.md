@@ -486,8 +486,8 @@
 | 476 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 477 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
 | 478 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 299 | Rust | 60/100 |
-| 479 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
-| 480 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 479 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 480 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
 | 481 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.8k | TypeScript | 60/100 |
 | 482 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 366 | Go | 60/100 |
 | 483 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
@@ -518,8 +518,8 @@
 | 508 | [sveltejs/eslint-plugin-svelte](./sveltejs-eslint-plugin-svelte.md) | ⭐ 413 | TypeScript | 59/100 |
 | 509 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 893 | TypeScript | 59/100 |
 | 510 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 815 | TypeScript | 59/100 |
-| 511 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
-| 512 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 511 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
+| 512 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
 | 513 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 514 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 360 | TypeScript | 59/100 |
 | 515 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 676 | Rust | 59/100 |
