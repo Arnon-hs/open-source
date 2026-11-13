@@ -53,7 +53,7 @@
 | 43 | [AnalyseDeCircuit/oxideterm](./analysedecircuit-oxideterm.md) | ⭐ 1.8k | Rust | 71/100 |
 | 44 | [DrDBanner/inmanage](./drdbanner-inmanage.md) | ⭐ 76 | Shell | 70/100 |
 | 45 | [sums001/Windows-Copilot-API](./sums001-windows-copilot-api.md) | ⭐ 1.3k | Python | 70/100 |
-| 46 | [Dicklesworthstone/coding_agent_account_manager](./dicklesworthstone-coding-agent-account-manager.md) | ⭐ 213 | Go | 70/100 |
+| 46 | [Dicklesworthstone/coding_agent_account_manager](./dicklesworthstone-coding-agent-account-manager.md) | ⭐ 212 | Go | 70/100 |
 | 47 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 279 | JavaScript | 70/100 |
 | 48 | [bigcapitalhq/bigcapital](./bigcapitalhq-bigcapital.md) | ⭐ 4.1k | TypeScript | 70/100 |
 | 49 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.4k | Rust | 70/100 |
@@ -118,8 +118,8 @@
 | 108 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.9k | PHP | 62/100 |
 | 109 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 10.3k | PHP | 62/100 |
 | 110 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 1.1k | TypeScript | 62/100 |
-| 111 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
-| 112 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 111 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 112 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
 | 113 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 114 | [actions/checkout](./actions-checkout.md) | ⭐ 8.8k | TypeScript | 61/100 |
 | 115 | [paid-tw/payment](./paid-tw-payment.md) | ⭐ 86 | TypeScript | 61/100 |
@@ -234,8 +234,8 @@
 | 224 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 186 | PHP | 54/100 |
 | 225 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.8k | TypeScript | 54/100 |
 | 226 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 576 | — | 53/100 |
-| 228 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 670 | — | 53/100 |
+| 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 670 | — | 53/100 |
+| 228 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 576 | — | 53/100 |
 | 229 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 230 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 231 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 89 | Rust | 53/100 |
@@ -281,8 +281,8 @@
 | 271 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 60 | Rust | 50/100 |
 | 272 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 50/100 |
 | 273 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 224 | Rust | 50/100 |
-| 274 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
-| 275 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
+| 274 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
+| 275 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
 | 276 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 277 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 278 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 182 | HTML | 50/100 |
@@ -334,7 +334,7 @@
 | 324 | [al1-nasir/gatekeep402](./al1-nasir-gatekeep402.md) | ⭐ 4 | — | 45/100 |
 | 325 | [eunujwal/PaymentsAgents](./eunujwal-paymentsagents.md) | ⭐ 2 | — | 45/100 |
 | 326 | [dpro10/cookbook-meter](./dpro10-cookbook-meter.md) | ⭐ 2 | — | 45/100 |
-| 327 | [stripe/purl](./stripe-purl.md) | ⭐ 181 | Rust | 45/100 |
+| 327 | [stripe/purl](./stripe-purl.md) | ⭐ 186 | Rust | 45/100 |
 | 328 | [stripe-samples/checkout-one-time-payments](./stripe-samples-checkout-one-time-payments.md) | ⭐ 1.1k | CSS | 45/100 |
 | 329 | [shetabit/payment](./shetabit-payment.md) | ⭐ 960 | PHP | 45/100 |
 | 330 | [holistis/al-muqarin](./holistis-al-muqarin.md) | ⭐ — | JavaScript | 45/100 |

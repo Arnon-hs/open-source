@@ -43,7 +43,7 @@
 | 33 | [siri2moon/moonreel](./siri2moon-moonreel.md) | ⭐ 22 | TypeScript | 73/100 |
 | 34 | [jnMetaCode/openshorts](./jnmetacode-openshorts.md) | ⭐ 62 | JavaScript | 73/100 |
 | 35 | [OStudi/short-video-generator-AI](./ostudi-short-video-generator-ai.md) | ⭐ 1.2k | Python | 73/100 |
-| 36 | [hassancs91/claude-faceless-shorts-creator](./hassancs91-claude-faceless-shorts-creator.md) | ⭐ 357 | TypeScript | 73/100 |
+| 36 | [hassancs91/claude-faceless-shorts-creator](./hassancs91-claude-faceless-shorts-creator.md) | ⭐ 360 | TypeScript | 73/100 |
 | 37 | [social-media-skills/remotion-shorts-skill](./social-media-skills-remotion-shorts-skill.md) | ⭐ 16 | TypeScript | 72/100 |
 | 38 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 245 | JavaScript | 72/100 |
 | 39 | [SamurAIGPT/revideo](./samuraigpt-revideo.md) | ⭐ 165 | JavaScript | 72/100 |
@@ -130,7 +130,7 @@
 | 120 | [jaxxchen003/book-video-factory](./jaxxchen003-book-video-factory.md) | ⭐ 113 | Python | 58/100 |
 | 121 | [zhuixin8/meiti-ai](./zhuixin8-meiti-ai.md) | ⭐ 40 | — | 58/100 |
 | 122 | [runesleo/claude-video-kit](./runesleo-claude-video-kit.md) | ⭐ 124 | TypeScript | 58/100 |
-| 123 | [JuneYaooo/awesome-ai-media-cn](./juneyaooo-awesome-ai-media-cn.md) | ⭐ 380 | — | 58/100 |
+| 123 | [JuneYaooo/awesome-ai-media-cn](./juneyaooo-awesome-ai-media-cn.md) | ⭐ 386 | — | 58/100 |
 | 124 | [liuhaisi2026212-maker/motion-palette-15](./liuhaisi2026212-maker-motion-palette-15.md) | ⭐ 17 | JavaScript | 57/100 |
 | 125 | [Phucanh-MRT/mrtkeyword](./phucanh-mrt-mrtkeyword.md) | ⭐ 46 | TypeScript | 57/100 |
 | 126 | [colind0pe/Trendlume](./colind0pe-trendlume.md) | ⭐ 13 | Python | 57/100 |
@@ -168,8 +168,8 @@
 | 158 | [xuanyustudio/LocalMiniDrama](./xuanyustudio-localminidrama.md) | ⭐ 2.4k | JavaScript | 50/100 |
 | 159 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ 1 | — | 48/100 |
 | 160 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 45 | — | 47/100 |
-| 161 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
-| 162 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
+| 161 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
+| 162 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 25 | Python | 47/100 |
 | 163 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 38 | JavaScript | 47/100 |
 | 164 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
 | 165 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |

@@ -118,7 +118,7 @@
 | 108 | [OpsiMate/OpsiMate](./opsimate-opsimate.md) | ⭐ 294 | TypeScript | 60/100 |
 | 109 | [threathunters-io/laurel](./threathunters-io-laurel.md) | ⭐ 878 | Rust | 60/100 |
 | 110 | [namhyung/uftrace](./namhyung-uftrace.md) | ⭐ 3.5k | C | 60/100 |
-| 111 | [shm11C3/HardwareVisualizer](./shm11c3-hardwarevisualizer.md) | ⭐ 187 | Rust | 60/100 |
+| 111 | [shm11C3/HardwareVisualizer](./shm11c3-hardwarevisualizer.md) | ⭐ 188 | Rust | 60/100 |
 | 112 | [prymitive/karma](./prymitive-karma.md) | ⭐ 2.7k | TypeScript | 60/100 |
 | 113 | [cortexproject/cortex](./cortexproject-cortex.md) | ⭐ 5.9k | Go | 60/100 |
 | 114 | [DataDog/dd-trace-java](./datadog-dd-trace-java.md) | ⭐ 740 | Java | 60/100 |
@@ -156,7 +156,7 @@
 | 146 | [grafana/mimir](./grafana-mimir.md) | ⭐ 5.3k | Go | 57/100 |
 | 147 | [hedhyw/json-log-viewer](./hedhyw-json-log-viewer.md) | ⭐ 244 | Go | 56/100 |
 | 148 | [laravel/nightwatch](./laravel-nightwatch.md) | ⭐ 379 | PHP | 56/100 |
-| 149 | [OxidizeLabs/cachekit](./oxidizelabs-cachekit.md) | ⭐ 163 | Rust | 56/100 |
+| 149 | [OxidizeLabs/cachekit](./oxidizelabs-cachekit.md) | ⭐ 164 | Rust | 56/100 |
 | 150 | [TIANLI0/THRM](./tianli0-thrm.md) | ⭐ 461 | Go | 56/100 |
 | 151 | [prometheus/test-infra](./prometheus-test-infra.md) | ⭐ 166 | Go | 56/100 |
 | 152 | [Daminoup88/WattSeal](./daminoup88-wattseal.md) | ⭐ 300 | Rust | 56/100 |

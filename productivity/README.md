@@ -11,7 +11,7 @@
 | 1 | [ohmyzsh/ohmyzsh](./ohmyzsh-ohmyzsh.md) | ⭐ 190.6k | Shell | 82/100 |
 | 2 | [javinizer/javinizer-go](./javinizer-javinizer-go.md) | ⭐ 106 | Go | 78/100 |
 | 3 | [muety/wakapi](./muety-wakapi.md) | ⭐ 4.5k | Go | 78/100 |
-| 4 | [Priyanshu-byte-coder/devtrack](./priyanshu-byte-coder-devtrack.md) | ⭐ 302 | TypeScript | 77/100 |
+| 4 | [Priyanshu-byte-coder/devtrack](./priyanshu-byte-coder-devtrack.md) | ⭐ 307 | TypeScript | 77/100 |
 | 5 | [Umbrella-io/devtrack](./umbrella-io-devtrack.md) | ⭐ 141 | TypeScript | 77/100 |
 | 6 | [tach-org/tach](./tach-org-tach.md) | ⭐ 2.9k | Rust | 77/100 |
 | 7 | [tiddly-gittly/TidGi-Desktop](./tiddly-gittly-tidgi-desktop.md) | ⭐ 2k | TypeScript | 76/100 |
@@ -313,8 +313,8 @@
 | 303 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 304 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 305 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
-| 307 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 307 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
 | 308 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 309 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 310 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |
@@ -326,9 +326,9 @@
 | 316 | [eon5942/timer](./eon5942-timer.md) | ⭐ — | — | 41/100 |
 | 317 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ — | — | 41/100 |
 | 318 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
-| 319 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ — | — | 41/100 |
-| 320 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
-| 321 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
+| 319 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ 6 | — | 41/100 |
+| 320 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
+| 321 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
 | 322 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 2 | — | 41/100 |
 | 323 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 324 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 2 | — | 41/100 |

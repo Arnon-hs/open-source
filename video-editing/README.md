@@ -17,7 +17,7 @@
 | 7 | [Anil-matcha/open-genjutsu](./anil-matcha-open-genjutsu.md) | ⭐ 1k | JavaScript | 85/100 |
 | 8 | [zhouxiaoka/autoclip](./zhouxiaoka-autoclip.md) | ⭐ 10.4k | Python | 84/100 |
 | 9 | [0xsline/OpenChatCut](./0xsline-openchatcut.md) | ⭐ 3.1k | TypeScript | 84/100 |
-| 10 | [oxbshw/watch-skill](./oxbshw-watch-skill.md) | ⭐ 575 | Python | 83/100 |
+| 10 | [oxbshw/watch-skill](./oxbshw-watch-skill.md) | ⭐ 577 | Python | 83/100 |
 | 11 | [FavioVazquez/showtime](./faviovazquez-showtime.md) | ⭐ 327 | Python | 82/100 |
 | 12 | [renezander030/capcut-cli](./renezander030-capcut-cli.md) | ⭐ 1.2k | TypeScript | 82/100 |
 | 13 | [notivn/AIEVv2](./notivn-aievv2.md) | ⭐ 142 | TypeScript | 81/100 |
@@ -97,7 +97,7 @@
 | 87 | [lcy362/agnes-video-generator](./lcy362-agnes-video-generator.md) | ⭐ 701 | Python | 73/100 |
 | 88 | [VelornLabs/velorn](./velornlabs-velorn.md) | ⭐ 530 | JavaScript | 73/100 |
 | 89 | [kouhxp/yapsnap](./kouhxp-yapsnap.md) | ⭐ 436 | Python | 73/100 |
-| 90 | [Cassette-Editor/oh-my-cassette](./cassette-editor-oh-my-cassette.md) | ⭐ 218 | Python | 73/100 |
+| 90 | [Cassette-Editor/oh-my-cassette](./cassette-editor-oh-my-cassette.md) | ⭐ 220 | Python | 73/100 |
 | 91 | [pireel/pireel](./pireel-pireel.md) | ⭐ 1.4k | TypeScript | 73/100 |
 | 92 | [Lynpoint/CyberVerse](./lynpoint-cyberverse.md) | ⭐ 2k | Python | 73/100 |
 | 93 | [laylaellis20/PremierePro-Cinematic-Editor-2026](./laylaellis20-premierepro-cinematic-editor-2026.md) | ⭐ 51 | — | 72/100 |
@@ -130,7 +130,7 @@
 | 120 | [cacity/VideoHub](./cacity-videohub.md) | ⭐ 185 | Python | 71/100 |
 | 121 | [zh-plus/openlrc](./zh-plus-openlrc.md) | ⭐ 685 | Python | 71/100 |
 | 122 | [OpenShot/openshot-qt](./openshot-openshot-qt.md) | ⭐ 6.8k | Python | 71/100 |
-| 123 | [Vincentwei1021/video-shotcraft](./vincentwei1021-video-shotcraft.md) | ⭐ 18.9k | TypeScript | 71/100 |
+| 123 | [Vincentwei1021/video-shotcraft](./vincentwei1021-video-shotcraft.md) | ⭐ 19.1k | TypeScript | 71/100 |
 | 124 | [mifi/lossless-cut](./mifi-lossless-cut.md) | ⭐ 46k | TypeScript | 71/100 |
 | 125 | [mebtte/cicada](./mebtte-cicada.md) | ⭐ 1.1k | TypeScript | 71/100 |
 | 126 | [Felix3322/PotPlayer_ChatGPT_Translate](./felix3322-potplayer-chatgpt-translate.md) | ⭐ 1.1k | C++ | 71/100 |
@@ -156,7 +156,7 @@
 | 146 | [sirioberati/showhow](./sirioberati-showhow.md) | ⭐ 72 | TypeScript | 69/100 |
 | 147 | [PoetCoderJun/DraftCut](./poetcoderjun-draftcut.md) | ⭐ 13 | Python | 69/100 |
 | 148 | [Agions/dramaxis](./agions-dramaxis.md) | ⭐ 461 | TypeScript | 69/100 |
-| 149 | [TechSquidTV/Cliparr](./techsquidtv-cliparr.md) | ⭐ 226 | TypeScript | 69/100 |
+| 149 | [TechSquidTV/Cliparr](./techsquidtv-cliparr.md) | ⭐ 229 | TypeScript | 69/100 |
 | 150 | [BeatAPI/BeatDesign](./beatapi-beatdesign.md) | ⭐ 4 | TypeScript | 69/100 |
 | 151 | [SamurAIGPT/Text-To-Video-AI](./samuraigpt-text-to-video-ai.md) | ⭐ 6 | Jupyter Notebook | 69/100 |
 | 152 | [22kk12/mengwei-local-leads-workbench](./22kk12-mengwei-local-leads-workbench.md) | ⭐ 188 | Python | 69/100 |
@@ -342,7 +342,7 @@
 | 332 | [DevEmperor/DictateKeyboard](./devemperor-dictatekeyboard.md) | ⭐ 319 | Kotlin | 62/100 |
 | 333 | [DareDev256/fcpxml-mcp-server](./daredev256-fcpxml-mcp-server.md) | ⭐ 65 | Python | 62/100 |
 | 334 | [dimastatz/whisper-flow](./dimastatz-whisper-flow.md) | ⭐ 1k | Python | 62/100 |
-| 335 | [idwts/Crayotter](./idwts-crayotter.md) | ⭐ 252 | Python | 62/100 |
+| 335 | [idwts/Crayotter](./idwts-crayotter.md) | ⭐ 253 | Python | 62/100 |
 | 336 | [Agions/scene-fab](./agions-scene-fab.md) | ⭐ 308 | Python | 62/100 |
 | 337 | [staplestreamsmash/premiere-pro-for-windows](./staplestreamsmash-premiere-pro-for-windows.md) | ⭐ 86 | — | 61/100 |
 | 338 | [hormuz-labs/agentshot](./hormuz-labs-agentshot.md) | ⭐ 21 | TypeScript | 61/100 |

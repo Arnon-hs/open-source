@@ -258,7 +258,7 @@
 | 248 | [SimonSchubert/LinuxCommandLibrary](./simonschubert-linuxcommandlibrary.md) | ⭐ 2.1k | Kotlin | 56/100 |
 | 249 | [Gracker/awesome-android-ai-dev-sources](./gracker-awesome-android-ai-dev-sources.md) | ⭐ 1.9k | Python | 56/100 |
 | 250 | [slackhq/circuit](./slackhq-circuit.md) | ⭐ 1.9k | Kotlin | 56/100 |
-| 251 | [fuqiuluo/amice](./fuqiuluo-amice.md) | ⭐ 275 | Rust | 56/100 |
+| 251 | [fuqiuluo/amice](./fuqiuluo-amice.md) | ⭐ 277 | Rust | 56/100 |
 | 252 | [quran/quran_android](./quran-quran-android.md) | ⭐ 2.4k | Kotlin | 56/100 |
 | 253 | [v1tzor/TimePlanner](./v1tzor-timeplanner.md) | ⭐ 703 | Kotlin | 56/100 |
 | 254 | [Monica-Pass/Monica](./monica-pass-monica.md) | ⭐ 1.2k | Kotlin | 56/100 |
@@ -279,8 +279,8 @@
 | 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 633 | Python | 55/100 |
-| 272 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
-| 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 272 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 273 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
 | 274 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 500 | Kotlin | 55/100 |
 | 275 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 276 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 3.3k | Kotlin | 55/100 |
@@ -411,7 +411,7 @@
 | 401 | [jegly/jegly](./jegly-jegly.md) | ⭐ 3 | — | 51/100 |
 | 402 | [equeim/tremotesf-android](./equeim-tremotesf-android.md) | ⭐ 325 | Kotlin | 51/100 |
 | 403 | [confeden/Nova-Android](./confeden-nova-android.md) | ⭐ 415 | Go | 51/100 |
-| 404 | [delvinru/apk-info](./delvinru-apk-info.md) | ⭐ 146 | Rust | 51/100 |
+| 404 | [delvinru/apk-info](./delvinru-apk-info.md) | ⭐ 147 | Rust | 51/100 |
 | 405 | [jkcoxson/idevice_pair](./jkcoxson-idevice-pair.md) | ⭐ 992 | Rust | 51/100 |
 | 406 | [cfw-guide/ios.cfw.guide](./cfw-guide-ios.cfw.guide.md) | ⭐ 780 | Vue | 51/100 |
 | 407 | [xroche/coffeecatch](./xroche-coffeecatch.md) | ⭐ 694 | C | 51/100 |
@@ -436,7 +436,7 @@
 | 426 | [meshtastic/Meshtastic-Apple](./meshtastic-meshtastic-apple.md) | ⭐ 968 | Swift | 50/100 |
 | 427 | [bitwarden/android](./bitwarden-android.md) | ⭐ 9.6k | Kotlin | 50/100 |
 | 428 | [wordpress-mobile/WordPress-Android](./wordpress-mobile-wordpress-android.md) | ⭐ 3.2k | Kotlin | 50/100 |
-| 429 | [Dweep4269/sideraven](./dweep4269-sideraven.md) | ⭐ 157 | Kotlin | 49/100 |
+| 429 | [Dweep4269/sideraven](./dweep4269-sideraven.md) | ⭐ 159 | Kotlin | 49/100 |
 | 430 | [voicute/onnx-wakeword](./voicute-onnx-wakeword.md) | ⭐ 90 | C | 49/100 |
 | 431 | [latipun7/dotfiles](./latipun7-dotfiles.md) | ⭐ 41 | Shell | 49/100 |
 | 432 | [bjzhou/PhotonCamera](./bjzhou-photoncamera.md) | ⭐ 650 | Kotlin | 49/100 |

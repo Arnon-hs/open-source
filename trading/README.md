@@ -2,7 +2,7 @@
 
 > Algo trading, quant, prediction markets (incl. Polymarket), exchanges
 
-**227 projects** in this category.
+**228 projects** in this category.
 
 ## Projects
 
@@ -48,7 +48,7 @@
 | 38 | [JustinGuese/python_tradingbot_framework](./justinguese-python-tradingbot-framework.md) | ⭐ 41 | Jupyter Notebook | 69/100 |
 | 39 | [extrange/ibkr-docker](./extrange-ibkr-docker.md) | ⭐ 391 | Shell | 69/100 |
 | 40 | [HiThink-Tech/Financial-API](./hithink-tech-financial-api.md) | ⭐ 4.1k | Python | 69/100 |
-| 41 | [daniel3303/Equibles](./daniel3303-equibles.md) | ⭐ 243 | C# | 69/100 |
+| 41 | [daniel3303/Equibles](./daniel3303-equibles.md) | ⭐ 244 | C# | 69/100 |
 | 42 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 45 | Swift | 69/100 |
 | 43 | [livetennisapi/polymarket-tennis](./livetennisapi-polymarket-tennis.md) | ⭐ 257 | Python | 68/100 |
 | 44 | [OctagonAI/kalshi-trading-bot-cli](./octagonai-kalshi-trading-bot-cli.md) | ⭐ 416 | TypeScript | 68/100 |
@@ -147,7 +147,7 @@
 | 137 | [brandtnewlabs/react-native-livechart](./brandtnewlabs-react-native-livechart.md) | ⭐ 192 | TypeScript | 55/100 |
 | 138 | [mothparkzo6249/TG-Polymarket-bot](./mothparkzo6249-tg-polymarket-bot.md) | ⭐ 316 | JavaScript | 55/100 |
 | 139 | [melloworchid8rr6g/TG-Polymarket-bot](./melloworchid8rr6g-tg-polymarket-bot.md) | ⭐ 313 | JavaScript | 55/100 |
-| 140 | [deepentropy/ibx](./deepentropy-ibx.md) | ⭐ 192 | Rust | 55/100 |
+| 140 | [deepentropy/ibx](./deepentropy-ibx.md) | ⭐ 193 | Rust | 55/100 |
 | 141 | [inex/IXP-Manager](./inex-ixp-manager.md) | ⭐ 433 | PHP | 55/100 |
 | 142 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 555 | Rust | 55/100 |
 | 143 | [vincenzo-afk/OpenAgentNet](./vincenzo-afk-openagentnet.md) | ⭐ 39 | Python | 54/100 |
@@ -168,8 +168,8 @@
 | 158 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 159 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
 | 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 232 | Go | 52/100 |
-| 161 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
-| 162 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 161 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 162 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
 | 163 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 164 | [uselayer/uselayer-sdk](./uselayer-uselayer-sdk.md) | ⭐ 3 | — | 51/100 |
 | 165 | [weirdapps/etorotrade](./weirdapps-etorotrade.md) | ⭐ 39 | Python | 51/100 |
@@ -210,31 +210,32 @@
 | 200 | [PredictionMarketTrader/openthomas](./predictionmarkettrader-openthomas.md) | ⭐ 25 | — | 42/100 |
 | 201 | [bagoldbe/form4lab](./bagoldbe-form4lab.md) | ⭐ 8 | — | 42/100 |
 | 202 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ 52 | — | 42/100 |
-| 203 | [AlonDrilich/tld-renewal-prices](./alondrilich-tld-renewal-prices.md) | ⭐ 1 | — | 41/100 |
-| 204 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ 60 | — | 41/100 |
-| 205 | [aybvip/pi-fungibility](./aybvip-pi-fungibility.md) | ⭐ 2 | — | 41/100 |
-| 206 | [RayDCodes/pqc-migration-bench](./raydcodes-pqc-migration-bench.md) | ⭐ — | — | 41/100 |
-| 207 | [BubbleParticles/Planar.jl](./bubbleparticles-planar.jl.md) | ⭐ 12 | — | 41/100 |
-| 208 | [vincent212/kaspar-hft](./vincent212-kaspar-hft.md) | ⭐ 47 | — | 41/100 |
-| 209 | [strahinjastojanovic826-code/quant](./strahinjastojanovic826-code-quant.md) | ⭐ 2 | — | 41/100 |
-| 210 | [SaratAngajalaoffl/jeeva](./saratangajalaoffl-jeeva.md) | ⭐ 16 | — | 41/100 |
-| 211 | [jmelo11/quantsupport](./jmelo11-quantsupport.md) | ⭐ 29 | — | 41/100 |
-| 212 | [maddogfinance/dsh-trading](./maddogfinance-dsh-trading.md) | ⭐ 41 | — | 41/100 |
-| 213 | [rkang30/open-trade-bot](./rkang30-open-trade-bot.md) | ⭐ 2 | — | 41/100 |
-| 214 | [ayush-agrawal001/cloutCall](./ayush-agrawal001-cloutcall.md) | ⭐ 1 | TypeScript | 40/100 |
-| 215 | [advaricorp/Polymarketbot](./advaricorp-polymarketbot.md) | ⭐ 50 | Python | 39/100 |
-| 216 | [Rob-bio4/degeneretfly](./rob-bio4-degeneretfly.md) | ⭐ — | TypeScript | 39/100 |
-| 217 | [nicklaunches/builders-backlinks.com](./nicklaunches-builders-backlinks.com.md) | ⭐ 13 | — | 38/100 |
-| 218 | [cmatthwilkes-debug/trading-strategy-graveyard](./cmatthwilkes-debug-trading-strategy-graveyard.md) | ⭐ 4 | — | 38/100 |
-| 219 | [mrhustlex/TradingSpy-TradingAgentService](./mrhustlex-tradingspy-tradingagentservice.md) | ⭐ 51 | — | 38/100 |
-| 220 | [mohamadomar-ai/kairos-engine](./mohamadomar-ai-kairos-engine.md) | ⭐ 3 | — | 38/100 |
-| 221 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 38/100 |
-| 222 | [IamViditAgarwal/csgoviral](./iamviditagarwal-csgoviral.md) | ⭐ 17 | PHP | 37/100 |
-| 223 | [rohit-8a/steadytrade-ai](./rohit-8a-steadytrade-ai.md) | ⭐ — | Python | 35/100 |
-| 224 | [irfndi/prism-liquidity-agent](./irfndi-prism-liquidity-agent.md) | ⭐ 134 | — | 33/100 |
-| 225 | [jarrodwatts/jev-trader](./jarrodwatts-jev-trader.md) | ⭐ 3.1k | — | 29/100 |
-| 226 | [virattt/openbb-financialdatasets-backend](./virattt-openbb-financialdatasets-backend.md) | ⭐ — | — | 28/100 |
-| 227 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 28/100 |
+| 203 | [grfdsasdvef/awesome-hft-cpp23-internals](./grfdsasdvef-awesome-hft-cpp23-internals.md) | ⭐ — | — | 41/100 |
+| 204 | [AlonDrilich/tld-renewal-prices](./alondrilich-tld-renewal-prices.md) | ⭐ 1 | — | 41/100 |
+| 205 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ 60 | — | 41/100 |
+| 206 | [aybvip/pi-fungibility](./aybvip-pi-fungibility.md) | ⭐ 2 | — | 41/100 |
+| 207 | [RayDCodes/pqc-migration-bench](./raydcodes-pqc-migration-bench.md) | ⭐ — | — | 41/100 |
+| 208 | [BubbleParticles/Planar.jl](./bubbleparticles-planar.jl.md) | ⭐ 12 | — | 41/100 |
+| 209 | [vincent212/kaspar-hft](./vincent212-kaspar-hft.md) | ⭐ 47 | — | 41/100 |
+| 210 | [strahinjastojanovic826-code/quant](./strahinjastojanovic826-code-quant.md) | ⭐ 2 | — | 41/100 |
+| 211 | [SaratAngajalaoffl/jeeva](./saratangajalaoffl-jeeva.md) | ⭐ 16 | — | 41/100 |
+| 212 | [jmelo11/quantsupport](./jmelo11-quantsupport.md) | ⭐ 29 | — | 41/100 |
+| 213 | [maddogfinance/dsh-trading](./maddogfinance-dsh-trading.md) | ⭐ 41 | — | 41/100 |
+| 214 | [rkang30/open-trade-bot](./rkang30-open-trade-bot.md) | ⭐ 2 | — | 41/100 |
+| 215 | [ayush-agrawal001/cloutCall](./ayush-agrawal001-cloutcall.md) | ⭐ 1 | TypeScript | 40/100 |
+| 216 | [advaricorp/Polymarketbot](./advaricorp-polymarketbot.md) | ⭐ 50 | Python | 39/100 |
+| 217 | [Rob-bio4/degeneretfly](./rob-bio4-degeneretfly.md) | ⭐ — | TypeScript | 39/100 |
+| 218 | [nicklaunches/builders-backlinks.com](./nicklaunches-builders-backlinks.com.md) | ⭐ 13 | — | 38/100 |
+| 219 | [cmatthwilkes-debug/trading-strategy-graveyard](./cmatthwilkes-debug-trading-strategy-graveyard.md) | ⭐ 4 | — | 38/100 |
+| 220 | [mrhustlex/TradingSpy-TradingAgentService](./mrhustlex-tradingspy-tradingagentservice.md) | ⭐ 51 | — | 38/100 |
+| 221 | [mohamadomar-ai/kairos-engine](./mohamadomar-ai-kairos-engine.md) | ⭐ 3 | — | 38/100 |
+| 222 | [casatrick/polymarket-arbitrage-bot](./casatrick-polymarket-arbitrage-bot.md) | ⭐ — | — | 38/100 |
+| 223 | [IamViditAgarwal/csgoviral](./iamviditagarwal-csgoviral.md) | ⭐ 17 | PHP | 37/100 |
+| 224 | [rohit-8a/steadytrade-ai](./rohit-8a-steadytrade-ai.md) | ⭐ — | Python | 35/100 |
+| 225 | [irfndi/prism-liquidity-agent](./irfndi-prism-liquidity-agent.md) | ⭐ 134 | — | 33/100 |
+| 226 | [jarrodwatts/jev-trader](./jarrodwatts-jev-trader.md) | ⭐ 3.1k | — | 29/100 |
+| 227 | [virattt/openbb-financialdatasets-backend](./virattt-openbb-financialdatasets-backend.md) | ⭐ — | — | 28/100 |
+| 228 | [wes-zheng/ai_institutions](./wes-zheng-ai-institutions.md) | ⭐ — | — | 28/100 |
 
 ---
 

@@ -354,7 +354,7 @@
 | 344 | [decodeaditya/Cirqmon](./decodeaditya-cirqmon.md) | ⭐ 26 | JavaScript | 44/100 |
 | 345 | [adacahq/adaca-analytics](./adacahq-adaca-analytics.md) | ⭐ 3 | — | 44/100 |
 | 346 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 115 | Rust | 44/100 |
-| 347 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 214 | Rust | 44/100 |
+| 347 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 215 | Rust | 44/100 |
 | 348 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 140 | Rust | 43/100 |
 | 349 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 310 | Rust | 43/100 |
 | 350 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |

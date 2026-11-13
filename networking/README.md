@@ -270,7 +270,7 @@
 | 260 | [h44z/wg-portal](./h44z-wg-portal.md) | ⭐ 1.9k | Go | 60/100 |
 | 261 | [RaspAP/raspap-webgui](./raspap-raspap-webgui.md) | ⭐ 5.2k | PHP | 60/100 |
 | 262 | [Fanju6/NetProxy-Magisk](./fanju6-netproxy-magisk.md) | ⭐ 1.4k | Shell | 60/100 |
-| 263 | [wilsonglasser/oryxis](./wilsonglasser-oryxis.md) | ⭐ 486 | Rust | 60/100 |
+| 263 | [wilsonglasser/oryxis](./wilsonglasser-oryxis.md) | ⭐ 488 | Rust | 60/100 |
 | 264 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 636 | JavaScript | 60/100 |
 | 265 | [ozeranskii/httptap](./ozeranskii-httptap.md) | ⭐ 851 | Python | 60/100 |
 | 266 | [yusing/godoxy](./yusing-godoxy.md) | ⭐ 4.2k | Go | 60/100 |
@@ -419,7 +419,7 @@
 | 409 | [sigcli/sigcli](./sigcli-sigcli.md) | ⭐ 293 | TypeScript | 54/100 |
 | 410 | [emanuele-em/proxelar](./emanuele-em-proxelar.md) | ⭐ 1.1k | Rust | 54/100 |
 | 411 | [fangfufu/httpdirfs](./fangfufu-httpdirfs.md) | ⭐ 977 | C | 54/100 |
-| 412 | [getnora-io/nora](./getnora-io-nora.md) | ⭐ 379 | Rust | 54/100 |
+| 412 | [getnora-io/nora](./getnora-io-nora.md) | ⭐ 381 | Rust | 54/100 |
 | 413 | [wolfsoftwaresystemsltd/WolfStack](./wolfsoftwaresystemsltd-wolfstack.md) | ⭐ 107 | Rust | 54/100 |
 | 414 | [openthread/openthread](./openthread-openthread.md) | ⭐ 4.1k | C++ | 54/100 |
 | 415 | [peasoft/NoMoreWalls](./peasoft-nomorewalls.md) | ⭐ 3.6k | Python | 54/100 |
@@ -513,7 +513,7 @@
 | 503 | [madeye/meow-rs](./madeye-meow-rs.md) | ⭐ 307 | Rust | 49/100 |
 | 504 | [NVIDIA/infra-controller](./nvidia-infra-controller.md) | ⭐ 204 | Rust | 49/100 |
 | 505 | [juhovh/tailguard](./juhovh-tailguard.md) | ⭐ 611 | Shell | 49/100 |
-| 506 | [rustonbsd/iroh-ssh](./rustonbsd-iroh-ssh.md) | ⭐ 336 | Rust | 49/100 |
+| 506 | [rustonbsd/iroh-ssh](./rustonbsd-iroh-ssh.md) | ⭐ 337 | Rust | 49/100 |
 | 507 | [CharlesPikachu/freeproxy](./charlespikachu-freeproxy.md) | ⭐ 584 | Python | 49/100 |
 | 508 | [s4wave/spacewave](./s4wave-spacewave.md) | ⭐ 591 | Go | 49/100 |
 | 509 | [alt-f6/pg-interleave](./alt-f6-pg-interleave.md) | ⭐ 1 | Rust | 49/100 |
@@ -554,7 +554,7 @@
 | 544 | [YoulianBoshi/vpn](./youlianboshi-vpn.md) | ⭐ 5.5k | — | 46/100 |
 | 545 | [qr243vbi/nekobox](./qr243vbi-nekobox.md) | ⭐ 1.5k | C++ | 46/100 |
 | 546 | [davidmhewitt/torrential](./davidmhewitt-torrential.md) | ⭐ 142 | Rust | 46/100 |
-| 547 | [dennisss/dacha](./dennisss-dacha.md) | ⭐ 398 | Rust | 46/100 |
+| 547 | [dennisss/dacha](./dennisss-dacha.md) | ⭐ 400 | Rust | 46/100 |
 | 548 | [MatinGhanbari/v2ray-configs](./matinghanbari-v2ray-configs.md) | ⭐ 709 | HTML | 46/100 |
 | 549 | [monosans/proxy-scraper-checker](./monosans-proxy-scraper-checker.md) | ⭐ 1.4k | Rust | 46/100 |
 | 550 | [junkurihara/rust-rpxy](./junkurihara-rust-rpxy.md) | ⭐ 793 | Rust | 46/100 |
@@ -582,8 +582,8 @@
 | 572 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 573 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 655 | — | 45/100 |
 | 574 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
-| 576 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 576 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
 | 577 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 578 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 579 | [hoysengleang/wslog](./hoysengleang-wslog.md) | ⭐ 1 | TypeScript | 43/100 |

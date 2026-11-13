@@ -38,7 +38,7 @@
 | 28 | [AloisSeckar/demos-java](./aloisseckar-demos-java.md) | ⭐ 25 | Java | 48/100 |
 | 29 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 384 | Rust | 45/100 |
 | 30 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 441 | Mojo | 44/100 |
-| 31 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 262 | Rust | 44/100 |
+| 31 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 263 | Rust | 44/100 |
 | 32 | [t3spe/life-cipher](./t3spe-life-cipher.md) | ⭐ — | — | 41/100 |
 | 33 | [nodo-labs-uk/socratui](./nodo-labs-uk-socratui.md) | ⭐ — | — | 41/100 |
 | 34 | [AiFirstDevelopment/engineer-to-ai-engineer](./aifirstdevelopment-engineer-to-ai-engineer.md) | ⭐ — | — | 41/100 |

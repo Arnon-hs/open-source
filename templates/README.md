@@ -295,7 +295,7 @@
 | 285 | [lincolnloop/django-layout](./lincolnloop-django-layout.md) | ⭐ 332 | Python | 64/100 |
 | 286 | [ntorga/agent-starter-kit](./ntorga-agent-starter-kit.md) | ⭐ 148 | Shell | 64/100 |
 | 287 | [softwaremill/bootzooka](./softwaremill-bootzooka.md) | ⭐ 786 | TypeScript | 64/100 |
-| 288 | [Ethan-YS/project-brain](./ethan-ys-project-brain.md) | ⭐ 173 | Shell | 64/100 |
+| 288 | [Ethan-YS/project-brain](./ethan-ys-project-brain.md) | ⭐ 174 | Shell | 64/100 |
 | 289 | [stan-dev/math](./stan-dev-math.md) | ⭐ 846 | C++ | 64/100 |
 | 290 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 55 | Shell | 64/100 |
 | 291 | [emretasss/AI-Workflow-Hub-2000-](./emretasss-ai-workflow-hub-2000-.md) | ⭐ 323 | — | 64/100 |

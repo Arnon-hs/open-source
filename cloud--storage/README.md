@@ -215,7 +215,7 @@
 | 205 | [oxsecurity/megalinter](./oxsecurity-megalinter.md) | ⭐ 2.7k | Dockerfile | 64/100 |
 | 206 | [mxsm/rocketmq-rust](./mxsm-rocketmq-rust.md) | ⭐ 1.5k | Rust | 64/100 |
 | 207 | [firecracker-microvm/firecracker](./firecracker-microvm-firecracker.md) | ⭐ 34.2k | Rust | 64/100 |
-| 208 | [microsoft/aspire.dev](./microsoft-aspire.dev.md) | ⭐ 203 | MDX | 64/100 |
+| 208 | [microsoft/aspire.dev](./microsoft-aspire.dev.md) | ⭐ 206 | MDX | 64/100 |
 | 209 | [pnp/cli-microsoft365](./pnp-cli-microsoft365.md) | ⭐ 1.5k | TypeScript | 64/100 |
 | 210 | [kuvasz-uptime/kuvasz](./kuvasz-uptime-kuvasz.md) | ⭐ 673 | Kotlin | 64/100 |
 | 211 | [rclone/rclone](./rclone-rclone.md) | ⭐ 61k | Go | 64/100 |
@@ -235,7 +235,7 @@
 | 225 | [sqlpage/SQLPage](./sqlpage-sqlpage.md) | ⭐ 2.6k | Rust | 63/100 |
 | 226 | [alchemy-run/distilled](./alchemy-run-distilled.md) | ⭐ 527 | TypeScript | 63/100 |
 | 227 | [apache/kyuubi](./apache-kyuubi.md) | ⭐ 2.4k | Scala | 63/100 |
-| 228 | [clawscli/claws](./clawscli-claws.md) | ⭐ 166 | Go | 63/100 |
+| 228 | [clawscli/claws](./clawscli-claws.md) | ⭐ 167 | Go | 63/100 |
 | 229 | [GoogleCloudPlatform/khi](./googlecloudplatform-khi.md) | ⭐ 2.1k | Go | 63/100 |
 | 230 | [orioledb/orioledb](./orioledb-orioledb.md) | ⭐ 4.3k | C | 63/100 |
 | 231 | [aws-actions/amazon-ecr-login](./aws-actions-amazon-ecr-login.md) | ⭐ 1.1k | JavaScript | 63/100 |
@@ -492,8 +492,8 @@
 | 482 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 448 | Go | 52/100 |
 | 483 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 484 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 485 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 487 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 62 | Python | 51/100 |
 | 488 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 489 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
@@ -511,8 +511,8 @@
 | 501 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 362 | Rust | 50/100 |
 | 502 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 138 | Rust | 50/100 |
 | 503 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 366 | Java | 50/100 |
-| 504 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
-| 505 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 504 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 505 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
 | 506 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1.1k | Go | 50/100 |
 | 507 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 758 | Rust | 50/100 |
 | 508 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 670 | Python | 50/100 |
@@ -547,8 +547,8 @@
 | 537 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 538 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 539 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
-| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
 | 542 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 543 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 544 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |

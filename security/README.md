@@ -141,7 +141,7 @@
 | 131 | [zaproxy/zap-extensions](./zaproxy-zap-extensions.md) | ⭐ 954 | HTML | 58/100 |
 | 132 | [nginx/njs](./nginx-njs.md) | ⭐ 1.6k | C | 58/100 |
 | 133 | [joinfaces/joinfaces](./joinfaces-joinfaces.md) | ⭐ 438 | Java | 58/100 |
-| 134 | [thunder-id/thunderid](./thunder-id-thunderid.md) | ⭐ 613 | Go | 58/100 |
+| 134 | [thunder-id/thunderid](./thunder-id-thunderid.md) | ⭐ 614 | Go | 58/100 |
 | 135 | [demisto/content](./demisto-content.md) | ⭐ 1.3k | Python | 58/100 |
 | 136 | [thunder-id/thunder-id](./thunder-id-thunder-id.md) | ⭐ 167 | Go | 58/100 |
 | 137 | [ElikplimSunu/threatsketch](./elikplimsunu-threatsketch.md) | ⭐ 3 | Python | 57/100 |
@@ -274,8 +274,8 @@
 | 264 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 265 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
 | 266 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 267 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
-| 268 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 267 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 268 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
 | 269 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 270 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 531 | JavaScript | 50/100 |
 | 271 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.2k | TypeScript | 50/100 |
@@ -391,8 +391,8 @@
 | 381 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ 5 | — | 42/100 |
 | 382 | [barvhaim/code-security-skills](./barvhaim-code-security-skills.md) | ⭐ 1 | — | 42/100 |
 | 383 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ 6 | — | 42/100 |
-| 384 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
-| 385 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 384 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 385 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
 | 386 | [arm/metis](./arm-metis.md) | ⭐ 892 | — | 42/100 |
 | 387 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 42/100 |
 | 388 | [renton4code/propagate-cli](./renton4code-propagate-cli.md) | ⭐ 3 | — | 42/100 |
@@ -484,9 +484,9 @@
 | 474 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 38/100 |
 | 475 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ 1.6k | — | 38/100 |
 | 476 | [openai/codex-security](./openai-codex-security.md) | ⭐ 12.2k | — | 38/100 |
-| 477 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
-| 478 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
-| 479 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
+| 477 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
+| 478 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 479 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
 | 480 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ 415 | — | 38/100 |
 | 481 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
 | 482 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 38/100 |

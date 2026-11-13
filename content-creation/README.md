@@ -38,14 +38,14 @@
 | 28 | [claude-world/claude-world-studio](./claude-world-claude-world-studio.md) | ⭐ 71 | TypeScript | 73/100 |
 | 29 | [EvoLinkAI/awesome-seedance-2.5-guide](./evolinkai-awesome-seedance-2.5-guide.md) | ⭐ 392 | Shell | 73/100 |
 | 30 | [aiworkskills/wechat-article-skills](./aiworkskills-wechat-article-skills.md) | ⭐ 739 | Python | 72/100 |
-| 31 | [smixs/visual-skills](./smixs-visual-skills.md) | ⭐ 655 | — | 72/100 |
+| 31 | [smixs/visual-skills](./smixs-visual-skills.md) | ⭐ 664 | — | 72/100 |
 | 32 | [Haervwe/open-webui-tools](./haervwe-open-webui-tools.md) | ⭐ 838 | Python | 72/100 |
 | 33 | [ddalcu/mlx-serve](./ddalcu-mlx-serve.md) | ⭐ 2.4k | Zig | 72/100 |
 | 34 | [Notifuse/notifuse](./notifuse-notifuse.md) | ⭐ 2.3k | Go | 72/100 |
 | 35 | [pendpost/pendpost](./pendpost-pendpost.md) | ⭐ 21 | JavaScript | 71/100 |
 | 36 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 379 | Python | 71/100 |
 | 37 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 24 | — | 71/100 |
-| 38 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 902 | Python | 71/100 |
+| 38 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 910 | Python | 71/100 |
 | 39 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 317 | Python | 71/100 |
 | 40 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 4.1k | TypeScript | 71/100 |
 | 41 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
@@ -63,7 +63,7 @@
 | 53 | [utensils/mold](./utensils-mold.md) | ⭐ 57 | Rust | 68/100 |
 | 54 | [Kuhakucai/douyin-mcp](./kuhakucai-douyin-mcp.md) | ⭐ 90 | Python | 68/100 |
 | 55 | [backblaze-labs/genblaze](./backblaze-labs-genblaze.md) | ⭐ 549 | Python | 68/100 |
-| 56 | [Anil-matcha/Open-AI-UGC](./anil-matcha-open-ai-ugc.md) | ⭐ 430 | JavaScript | 68/100 |
+| 56 | [Anil-matcha/Open-AI-UGC](./anil-matcha-open-ai-ugc.md) | ⭐ 431 | JavaScript | 68/100 |
 | 57 | [vllm-project/vllm-omni](./vllm-project-vllm-omni.md) | ⭐ 7.7k | Python | 68/100 |
 | 58 | [ArcReel/ArcReel](./arcreel-arcreel.md) | ⭐ 6.5k | Python | 68/100 |
 | 59 | [iart-ai/motion-design-skills](./iart-ai-motion-design-skills.md) | ⭐ 227 | HTML | 67/100 |
@@ -159,8 +159,8 @@
 | 149 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
 | 150 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 151 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 152 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 358 | — | 43/100 |
-| 153 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 152 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 153 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 358 | — | 43/100 |
 | 154 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 155 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 156 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
@@ -182,8 +182,8 @@
 | 172 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 173 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 174 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 175 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
-| 176 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 175 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 176 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
 | 177 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 178 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 
