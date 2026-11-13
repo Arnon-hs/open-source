@@ -131,7 +131,7 @@
 | 121 | [qrstajalli/BranchOut](./qrstajalli-branchout.md) | ⭐ 2 | — | 45/100 |
 | 122 | [a104437ana/sakura-garden](./a104437ana-sakura-garden.md) | ⭐ 17 | — | 45/100 |
 | 123 | [Shagshag/garden-graph](./shagshag-garden-graph.md) | ⭐ 1 | — | 45/100 |
-| 124 | [potatobeanradio/circuitRF](./potatobeanradio-circuitrf.md) | ⭐ 261 | — | 45/100 |
+| 124 | [potatobeanradio/circuitRF](./potatobeanradio-circuitrf.md) | ⭐ 262 | — | 45/100 |
 | 125 | [cpc/openasip](./cpc-openasip.md) | ⭐ 199 | — | 45/100 |
 | 126 | [ctxrs/figma-server](./ctxrs-figma-server.md) | ⭐ 2 | — | 45/100 |
 | 127 | [ckcool6/GGUF_Libra](./ckcool6-gguf-libra.md) | ⭐ 2 | — | 45/100 |

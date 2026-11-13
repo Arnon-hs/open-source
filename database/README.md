@@ -469,7 +469,7 @@
 | 459 | [misaelzapata/duckonwire](./misaelzapata-duckonwire.md) | ⭐ 2 | — | 41/100 |
 | 460 | [sqliteai/sqlite-multiwriter](./sqliteai-sqlite-multiwriter.md) | ⭐ 194 | — | 41/100 |
 | 461 | [dobrinov/schema](./dobrinov-schema.md) | ⭐ 14 | — | 41/100 |
-| 462 | [samyfodil/musql](./samyfodil-musql.md) | ⭐ 128 | — | 41/100 |
+| 462 | [samyfodil/musql](./samyfodil-musql.md) | ⭐ 129 | — | 41/100 |
 | 463 | [berry-apps/berrydb-desktop](./berry-apps-berrydb-desktop.md) | ⭐ 26 | — | 41/100 |
 | 464 | [project-minigraf/minigraf](./project-minigraf-minigraf.md) | ⭐ 229 | — | 41/100 |
 | 465 | [explaindb/explaindb](./explaindb-explaindb.md) | ⭐ 188 | — | 41/100 |

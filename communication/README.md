@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -398,7 +398,7 @@
 | 388 | [cloudamqp/lavinmq-demos](./cloudamqp-lavinmq-demos.md) | ⭐ — | — | 41/100 |
 | 389 | [vercel-labs/eve-tanstack-start-template](./vercel-labs-eve-tanstack-start-template.md) | ⭐ 5 | — | 41/100 |
 | 390 | [BEX-Robotics/rezoom](./bex-robotics-rezoom.md) | ⭐ 2 | — | 41/100 |
-| 391 | [rahimnathwani/mailbox-viewer](./rahimnathwani-mailbox-viewer.md) | ⭐ 1 | — | 41/100 |
+| 391 | [rahimnathwani/mailbox-viewer](./rahimnathwani-mailbox-viewer.md) | ⭐ 2 | — | 41/100 |
 | 392 | [iljah/p2pIM](./iljah-p2pim.md) | ⭐ 1 | — | 41/100 |
 | 393 | [yanglongyun/iimos](./yanglongyun-iimos.md) | ⭐ 3 | — | 41/100 |
 | 394 | [Ruvan72/vibe-session-manager](./ruvan72-vibe-session-manager.md) | ⭐ 2 | — | 41/100 |

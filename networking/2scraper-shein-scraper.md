@@ -64,18 +64,18 @@ Networking · Observability
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 64/100 |
-| adoption | 18/100 |
-| categoryMatchCount | 200/100 |
-| stars | 22/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 22/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 54/100 |
+| recency | 80/100 |
+| adoption | 18/100 |
+| production | 61/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

@@ -524,8 +524,8 @@
 | 514 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 548 | Kotlin | 44/100 |
 | 515 | [WafflingNinja/waffleboost](./wafflingninja-waffleboost.md) | ⭐ 9 | Kotlin | 44/100 |
 | 516 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 22 | Kotlin | 43/100 |
-| 517 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 991 | — | 43/100 |
-| 518 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
+| 517 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
+| 518 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 991 | — | 43/100 |
 | 519 | [kuscholar/iDeck](./kuscholar-ideck.md) | ⭐ 403 | C | 43/100 |
 | 520 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 2 | JavaScript | 43/100 |
 | 521 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 10 | Kotlin | 43/100 |
@@ -556,7 +556,7 @@
 | 546 | [kolbicz/WQFiles](./kolbicz-wqfiles.md) | ⭐ 784 | — | 41/100 |
 | 547 | [pounceandmiss/tkabber-demo](./pounceandmiss-tkabber-demo.md) | ⭐ 1 | — | 41/100 |
 | 548 | [LuKks/webrtc-runtime](./lukks-webrtc-runtime.md) | ⭐ 1 | — | 41/100 |
-| 549 | [prototux/AARE](./prototux-aare.md) | ⭐ 545 | — | 41/100 |
+| 549 | [prototux/AARE](./prototux-aare.md) | ⭐ 563 | — | 41/100 |
 | 550 | [ssilvestri15/openfruit](./ssilvestri15-openfruit.md) | ⭐ 17 | — | 41/100 |
 | 551 | [MikeCer/DrawDock](./mikecer-drawdock.md) | ⭐ 1 | — | 41/100 |
 | 552 | [hito-dev/wand-browser](./hito-dev-wand-browser.md) | ⭐ 10 | — | 41/100 |
@@ -578,7 +578,7 @@
 | 568 | [andunieee/calltags](./andunieee-calltags.md) | ⭐ 2 | — | 41/100 |
 | 569 | [gantoine/muxer](./gantoine-muxer.md) | ⭐ 8 | — | 41/100 |
 | 570 | [trevornk/ramblr](./trevornk-ramblr.md) | ⭐ 103 | — | 41/100 |
-| 571 | [rrajath/bloom](./rrajath-bloom.md) | ⭐ 135 | — | 41/100 |
+| 571 | [rrajath/bloom](./rrajath-bloom.md) | ⭐ 138 | — | 41/100 |
 | 572 | [oosexgang/hackios-xnu-kernel](./oosexgang-hackios-xnu-kernel.md) | ⭐ — | — | 41/100 |
 | 573 | [jaguero21/Cadence](./jaguero21-cadence.md) | ⭐ 1 | — | 41/100 |
 | 574 | [al3j4ndrolm/FacilisCam](./al3j4ndrolm-faciliscam.md) | ⭐ 10 | — | 41/100 |
@@ -590,7 +590,7 @@
 | 580 | [rahimnathwani/sill-android](./rahimnathwani-sill-android.md) | ⭐ 5 | — | 41/100 |
 | 581 | [allexp1/app-store-kit](./allexp1-app-store-kit.md) | ⭐ 15 | — | 41/100 |
 | 582 | [abacusai/simless](./abacusai-simless.md) | ⭐ 52 | — | 41/100 |
-| 583 | [samhenrigold/LightTouchMac](./samhenrigold-lighttouchmac.md) | ⭐ 344 | — | 41/100 |
+| 583 | [samhenrigold/LightTouchMac](./samhenrigold-lighttouchmac.md) | ⭐ 345 | — | 41/100 |
 | 584 | [xtool-org/xtool](./xtool-org-xtool.md) | ⭐ 15.4k | — | 41/100 |
 | 585 | [lucianRME/rme-pdf-scanner](./lucianrme-rme-pdf-scanner.md) | ⭐ 8 | — | 41/100 |
 | 586 | [tortugarr/tortugarr](./tortugarr-tortugarr.md) | ⭐ 5 | — | 41/100 |
@@ -660,7 +660,7 @@
 | 650 | [scastiel/kado](./scastiel-kado.md) | ⭐ 191 | — | 38/100 |
 | 651 | [wmww/tawc](./wmww-tawc.md) | ⭐ 271 | — | 38/100 |
 | 652 | [jocmp/capyreader](./jocmp-capyreader.md) | ⭐ 1.5k | — | 38/100 |
-| 653 | [rfandango/XenDroid](./rfandango-xendroid.md) | ⭐ 526 | — | 38/100 |
+| 653 | [rfandango/XenDroid](./rfandango-xendroid.md) | ⭐ 528 | — | 38/100 |
 | 654 | [shinyquagsire23/Klepton](./shinyquagsire23-klepton.md) | ⭐ 270 | — | 38/100 |
 | 655 | [ddagunts/pwagen](./ddagunts-pwagen.md) | ⭐ 5 | — | 38/100 |
 | 656 | [z0rats/freqcast](./z0rats-freqcast.md) | ⭐ 17 | — | 38/100 |

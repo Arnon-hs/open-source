@@ -315,7 +315,7 @@
 | 305 | [aniket-work/LaneSchema](./aniket-work-laneschema.md) | ⭐ — | Python | 39/100 |
 | 306 | [lowkey-studio/quotatrace](./lowkey-studio-quotatrace.md) | ⭐ 1 | JavaScript | 39/100 |
 | 307 | [arywk40-hue/citetutor](./arywk40-hue-citetutor.md) | ⭐ — | Python | 39/100 |
-| 308 | [Rishikesh-glitch/Cloakwall-v0.1](./rishikesh-glitch-cloakwall-v0.1.md) | ⭐ 1 | — | 38/100 |
+| 308 | [Rishikesh-glitch/Cloakwall-v0.1](./rishikesh-glitch-cloakwall-v0.1.md) | ⭐ 3 | — | 38/100 |
 | 309 | [llm-measurement/otelcol-genai-sketches](./llm-measurement-otelcol-genai-sketches.md) | ⭐ 5 | — | 38/100 |
 | 310 | [ykjit/yk](./ykjit-yk.md) | ⭐ 95 | — | 38/100 |
 | 311 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ 1 | — | 38/100 |

@@ -584,8 +584,8 @@
 | 574 | [AdrienMttn/TgCloud](./adrienmttn-tgcloud.md) | ⭐ 12 | Go | 65/100 |
 | 575 | [outcrawlai/scout](./outcrawlai-scout.md) | ⭐ 744 | TypeScript | 65/100 |
 | 576 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.2k | AutoHotkey | 65/100 |
-| 577 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 826 | TypeScript | 65/100 |
-| 578 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 577 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 578 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 826 | TypeScript | 65/100 |
 | 579 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 580 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 643 | TypeScript | 65/100 |
 | 581 | [askbudi/juno-code](./askbudi-juno-code.md) | ⭐ 55 | TypeScript | 65/100 |
@@ -746,8 +746,8 @@
 | 736 | [umputun/ralphex](./umputun-ralphex.md) | ⭐ 1.5k | Go | 63/100 |
 | 737 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 380 | VBA | 63/100 |
 | 738 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 63/100 |
-| 739 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 112 | HTML | 63/100 |
-| 740 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 147 | Rust | 63/100 |
+| 739 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 147 | Rust | 63/100 |
+| 740 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 112 | HTML | 63/100 |
 | 741 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 63/100 |
 | 742 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 58 | Python | 63/100 |
 | 743 | [hustcer/deepseek-review](./hustcer-deepseek-review.md) | ⭐ 397 | Nushell | 63/100 |
@@ -833,8 +833,8 @@
 | 823 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.9k | Go | 62/100 |
 | 824 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 62 | Rust | 62/100 |
 | 825 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.4k | Rust | 62/100 |
-| 826 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 89 | Rust | 62/100 |
-| 827 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 258 | TypeScript | 62/100 |
+| 826 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 258 | TypeScript | 62/100 |
+| 827 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 89 | Rust | 62/100 |
 | 828 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 119 | Shell | 62/100 |
 | 829 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 616 | Python | 62/100 |
 | 830 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 138 | TypeScript | 62/100 |
@@ -1322,9 +1322,9 @@
 | 1312 | [linuztx/alter-zero](./linuztx-alter-zero.md) | ⭐ 158 | — | 49/100 |
 | 1313 | [VBS2004/jev-windows-agent](./vbs2004-jev-windows-agent.md) | ⭐ 8 | — | 49/100 |
 | 1314 | [Moeeryani/Vibe-Coding-Production-Kit](./moeeryani-vibe-coding-production-kit.md) | ⭐ 38 | — | 49/100 |
-| 1315 | [Sev7eNup/NodePilot](./sev7enup-nodepilot.md) | ⭐ 132 | — | 49/100 |
+| 1315 | [Sev7eNup/NodePilot](./sev7enup-nodepilot.md) | ⭐ 152 | — | 49/100 |
 | 1316 | [GaffaAI/GaffaPythonExamples](./gaffaai-gaffapythonexamples.md) | ⭐ 3 | Jupyter Notebook | 49/100 |
-| 1317 | [Quack6765/Eidon-AI](./quack6765-eidon-ai.md) | ⭐ 49 | — | 49/100 |
+| 1317 | [Quack6765/Eidon-AI](./quack6765-eidon-ai.md) | ⭐ 50 | — | 49/100 |
 | 1318 | [mustafasercansak/automation-sandbox](./mustafasercansak-automation-sandbox.md) | ⭐ — | C# | 49/100 |
 | 1319 | [Legion33shadow/legion-n8n-shield](./legion33shadow-legion-n8n-shield.md) | ⭐ — | — | 49/100 |
 | 1320 | [nahuelsoria/afk-agents](./nahuelsoria-afk-agents.md) | ⭐ 2 | — | 49/100 |
@@ -1333,8 +1333,8 @@
 | 1323 | [facebookresearch/balance](./facebookresearch-balance.md) | ⭐ 779 | Python | 49/100 |
 | 1324 | [kesslernity/awesome-microsoft-copilot-prompts](./kesslernity-awesome-microsoft-copilot-prompts.md) | ⭐ 583 | — | 49/100 |
 | 1325 | [rust-lang/triagebot](./rust-lang-triagebot.md) | ⭐ 237 | Rust | 49/100 |
-| 1326 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 515 | Go | 49/100 |
-| 1327 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1326 | [Epodonios/bulk-xray-v2ray-vless-vmess-...-configs](./epodonios-bulk-xray-v2ray-vless-vmess-...-configs.md) | ⭐ 348 | Python | 49/100 |
+| 1327 | [adhocore/gronx](./adhocore-gronx.md) | ⭐ 515 | Go | 49/100 |
 | 1328 | [CachyOS/linux-cachyos](./cachyos-linux-cachyos.md) | ⭐ 4.8k | Shell | 49/100 |
 | 1329 | [customermates/data-agent-index](./customermates-data-agent-index.md) | ⭐ — | Python | 49/100 |
 | 1330 | [p-j-code/phase-orchestrator](./p-j-code-phase-orchestrator.md) | ⭐ — | JavaScript | 49/100 |
@@ -1428,7 +1428,7 @@
 | 1418 | [CodeGameDev29/KFAutonomousAccounting](./codegamedev29-kfautonomousaccounting.md) | ⭐ 2 | — | 45/100 |
 | 1419 | [davidpoliquin30-design/Prototype-autonom-ia-OS](./davidpoliquin30-design-prototype-autonom-ia-os.md) | ⭐ — | — | 45/100 |
 | 1420 | [jbrick2070/ComfyUI-OldTimeRadio](./jbrick2070-comfyui-oldtimeradio.md) | ⭐ 16 | — | 45/100 |
-| 1421 | [regnull/openbot](./regnull-openbot.md) | ⭐ 43 | — | 45/100 |
+| 1421 | [regnull/openbot](./regnull-openbot.md) | ⭐ 44 | — | 45/100 |
 | 1422 | [cortex-protocol/cortex-protocol](./cortex-protocol-cortex-protocol.md) | ⭐ — | — | 45/100 |
 | 1423 | [unempyd/revenueos](./unempyd-revenueos.md) | ⭐ 8 | — | 45/100 |
 | 1424 | [pizza-bot-app/pizza-bot](./pizza-bot-app-pizza-bot.md) | ⭐ 559 | — | 45/100 |
@@ -1577,7 +1577,7 @@
 | 1567 | [bmartin-systems/cortex-serving-arena-preview](./bmartin-systems-cortex-serving-arena-preview.md) | ⭐ — | — | 41/100 |
 | 1568 | [narralabs/routi](./narralabs-routi.md) | ⭐ — | — | 41/100 |
 | 1569 | [agent-sh/linubot](./agent-sh-linubot.md) | ⭐ — | — | 41/100 |
-| 1570 | [QwenLM/Qwen-Drive-1.0](./qwenlm-qwen-drive-1.0.md) | ⭐ 555 | — | 41/100 |
+| 1570 | [QwenLM/Qwen-Drive-1.0](./qwenlm-qwen-drive-1.0.md) | ⭐ 556 | — | 41/100 |
 | 1571 | [lholden/job_scheduler](./lholden-job-scheduler.md) | ⭐ 209 | — | 41/100 |
 | 1572 | [junnam586/goguma](./junnam586-goguma.md) | ⭐ 35 | — | 41/100 |
 | 1573 | [agronholm/apscheduler](./agronholm-apscheduler.md) | ⭐ 7.7k | — | 41/100 |
