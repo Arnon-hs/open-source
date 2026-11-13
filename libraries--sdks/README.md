@@ -286,7 +286,7 @@
 | 276 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
 | 277 | [dtolnay/semver-trick](./dtolnay-semver-trick.md) | ⭐ — | — | 41/100 |
 | 278 | [glastor-core/hyper64](./glastor-core-hyper64.md) | ⭐ 1 | — | 41/100 |
-| 279 | [useswype/kotlin-pdfx](./useswype-kotlin-pdfx.md) | ⭐ 9 | — | 41/100 |
+| 279 | [useswype/kotlin-pdfx](./useswype-kotlin-pdfx.md) | ⭐ 10 | — | 41/100 |
 | 280 | [openvi-foundation/openvue](./openvi-foundation-openvue.md) | ⭐ 442 | — | 41/100 |
 | 281 | [dannkkie/pure-sift](./dannkkie-pure-sift.md) | ⭐ 3 | — | 41/100 |
 | 282 | [romeroej2/ContextCall](./romeroej2-contextcall.md) | ⭐ 8 | — | 41/100 |

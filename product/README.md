@@ -20,13 +20,13 @@
 | 10 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
 | 11 | [iampal/altar](./iampal-altar.md) | ⭐ — | — | 41/100 |
 | 12 | [saystreet/demo](./saystreet-demo.md) | ⭐ 1 | — | 41/100 |
-| 13 | [simpsoka/zigzag](./simpsoka-zigzag.md) | ⭐ 58 | — | 41/100 |
-| 14 | [ckaico/backtalk](./ckaico-backtalk.md) | ⭐ 1 | — | 41/100 |
+| 13 | [simpsoka/zigzag](./simpsoka-zigzag.md) | ⭐ 551 | — | 41/100 |
+| 14 | [ckaico/backtalk](./ckaico-backtalk.md) | ⭐ 3 | — | 41/100 |
 | 15 | [jessn-dev/jobDork](./jessn-dev-jobdork.md) | ⭐ 3 | — | 41/100 |
 | 16 | [FrigadeHQ/yogurt](./frigadehq-yogurt.md) | ⭐ 1.2k | — | 41/100 |
 | 17 | [SreeNaresh1/episteme-ai](./sreenaresh1-episteme-ai.md) | ⭐ — | — | 41/100 |
 | 18 | [sridharchaildn/notebook-ai](./sridharchaildn-notebook-ai.md) | ⭐ 2 | — | 41/100 |
-| 19 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ 8 | — | 41/100 |
+| 19 | [gmpetrov/brigade](./gmpetrov-brigade.md) | ⭐ 9 | — | 41/100 |
 | 20 | [malikdhadha/LoupePhotos](./malikdhadha-loupephotos.md) | ⭐ 1 | — | 41/100 |
 | 21 | [visualrecall/tracecards](./visualrecall-tracecards.md) | ⭐ 3 | — | 41/100 |
 | 22 | [hitSlop/slurp](./hitslop-slurp.md) | ⭐ 3 | — | 41/100 |

@@ -365,7 +365,7 @@
 | 355 | [Flubio/KPEI](./flubio-kpei.md) | ⭐ — | — | 41/100 |
 | 356 | [aperiodic-io/tparquet](./aperiodic-io-tparquet.md) | ⭐ 21 | — | 41/100 |
 | 357 | [vicena-labs/scientific-prediction-benchmark](./vicena-labs-scientific-prediction-benchmark.md) | ⭐ — | — | 41/100 |
-| 358 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ 84 | — | 41/100 |
+| 358 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ 86 | — | 41/100 |
 | 359 | [RedRiotTank/NativeJsonNavigator](./redriottank-nativejsonnavigator.md) | ⭐ 14 | — | 41/100 |
 | 360 | [luchtan-GIT/m4r-data](./luchtan-git-m4r-data.md) | ⭐ 1 | — | 41/100 |
 | 361 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |

@@ -64,18 +64,18 @@ jfscoertzen/AntiSlopScan：jfscoertzen/AntiSlopScan helps add AI capability with
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 45/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 59/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 200/100 |
-| stars | 10/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 10/100 |
 | topics | 75/100 |
+| outlook | 59/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 56/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

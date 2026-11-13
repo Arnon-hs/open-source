@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · Automation · AI/ML · Communication · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Burapa-J/apexsignal-b2b-mcp-suite: Burapa-J/apexsignal-b2b-mcp-suite helps conne
 
 ### Русский
 
-Burapa-J/apexsignal-b2b-mcp-suite: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Burapa-J/apexsignal-b2b-mcp-suite: open-source проект в категориях MCP, Automation, AI/ML, Communication, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ Burapa-J/apexsignal-b2b-mcp-suite：Burapa-J/apexsignal-b2b-mcp-suite helps conn
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 63/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
