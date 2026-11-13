@@ -175,7 +175,7 @@
 | 165 | [mfem/mfem](./mfem-mfem.md) | ⭐ 2.3k | C++ | 59/100 |
 | 166 | [risesoft-y9/DataFlow-Engine](./risesoft-y9-dataflow-engine.md) | ⭐ 698 | Java | 59/100 |
 | 167 | [alpha-xone/xbbg](./alpha-xone-xbbg.md) | ⭐ 710 | Rust | 59/100 |
-| 168 | [netdisco/netdisco](./netdisco-netdisco.md) | ⭐ 940 | Perl | 59/100 |
+| 168 | [netdisco/netdisco](./netdisco-netdisco.md) | ⭐ 941 | Perl | 59/100 |
 | 169 | [typeorm/typeorm](./typeorm-typeorm.md) | ⭐ 36.7k | TypeScript | 59/100 |
 | 170 | [celestiaorg/celestia-core](./celestiaorg-celestia-core.md) | ⭐ 551 | Go | 58/100 |
 | 171 | [CS-SI/eodag](./cs-si-eodag.md) | ⭐ 441 | Python | 58/100 |
@@ -279,7 +279,7 @@
 | 269 | [prestodb/presto](./prestodb-presto.md) | ⭐ 16.8k | Java | 54/100 |
 | 270 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 10 | PHP | 54/100 |
 | 271 | [tech-pw/cryo](./tech-pw-cryo.md) | ⭐ 11 | Python | 53/100 |
-| 272 | [ofrohn/d3-celestial](./ofrohn-d3-celestial.md) | ⭐ 759 | JavaScript | 53/100 |
+| 272 | [ofrohn/d3-celestial](./ofrohn-d3-celestial.md) | ⭐ 760 | JavaScript | 53/100 |
 | 273 | [alexar76/signal-hunt](./alexar76-signal-hunt.md) | ⭐ — | Python | 53/100 |
 | 274 | [aptabase/tauri-plugin-aptabase](./aptabase-tauri-plugin-aptabase.md) | ⭐ 153 | Rust | 53/100 |
 | 275 | [evolve75/RubyTree](./evolve75-rubytree.md) | ⭐ 391 | Ruby | 53/100 |

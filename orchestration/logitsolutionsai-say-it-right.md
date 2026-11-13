@@ -1,6 +1,6 @@
 # logitsolutionsai/say-it-right
 
-[![Stars](https://img.shields.io/github/stars/logitsolutionsai/say-it-right?style=flat-square&color=yellow)](https://github.com/logitsolutionsai/say-it-right/stargazers) [![Forks](https://img.shields.io/github/forks/logitsolutionsai/say-it-right?style=flat-square&color=blue)](https://github.com/logitsolutionsai/say-it-right/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/logitsolutionsai/say-it-right?style=flat-square&color=yellow)](https://github.com/logitsolutionsai/say-it-right/stargazers) [![Forks](https://img.shields.io/github/forks/logitsolutionsai/say-it-right?style=flat-square&color=blue)](https://github.com/logitsolutionsai/say-it-right/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
 
 > Make AI voice-overs say every word right, names included. A skill for Claude Code, Codex, Cursor and Copilot (and a CLI) that researches how each name is really said, with sources, writes it in your TTS engine's syntax, and listens to every recorded take to prove it before you ship.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 59/100 |
+| 📈 **Score** | 56/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ logitsolutionsai/say-it-right：logitsolutionsai/say-it-right helps turn isolate
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 62/100 |
-| production | 65/100 |
-| outlook | 67/100 |
+| production | 58/100 |
+| outlook | 60/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

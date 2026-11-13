@@ -47,7 +47,7 @@
 | 37 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 24 | — | 71/100 |
 | 38 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 902 | Python | 71/100 |
 | 39 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 317 | Python | 71/100 |
-| 40 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 3.9k | TypeScript | 71/100 |
+| 40 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 4.1k | TypeScript | 71/100 |
 | 41 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
 | 42 | [cporter202/awesome-ai-tools](./cporter202-awesome-ai-tools.md) | ⭐ 326 | — | 70/100 |
 | 43 | [claude-world/notebooklm-skill](./claude-world-notebooklm-skill.md) | ⭐ 499 | Python | 70/100 |
@@ -182,8 +182,8 @@
 | 172 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 173 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 174 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 175 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
-| 176 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 175 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 176 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
 | 177 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 178 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 

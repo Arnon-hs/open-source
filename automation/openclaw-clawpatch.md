@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 817 |
+| ⭐ **Stars** | 818 |
 | 🍴 **Forks** | 119 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 56/100 |

@@ -1,6 +1,6 @@
 # soluterminal/soluterminal
 
-[![Stars](https://img.shields.io/github/stars/soluterminal/soluterminal?style=flat-square&color=yellow)](https://github.com/soluterminal/soluterminal/stargazers) [![Forks](https://img.shields.io/github/forks/soluterminal/soluterminal?style=flat-square&color=blue)](https://github.com/soluterminal/soluterminal/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/soluterminal/soluterminal?style=flat-square&color=yellow)](https://github.com/soluterminal/soluterminal/stargazers) [![Forks](https://img.shields.io/github/forks/soluterminal/soluterminal?style=flat-square&color=blue)](https://github.com/soluterminal/soluterminal/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > A focused workspace for Claude Code and Codex on Windows: side by side in PowerShell and WSL panes, running when you close the window, with you in charge of what they can approve. Free during beta.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | 3 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ soluterminal/soluterminal：soluterminal/soluterminal helps add AI capability wi
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 68/100 |
+| production | 57/100 |
+| outlook | 61/100 |
 | adoption | 4/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 15/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

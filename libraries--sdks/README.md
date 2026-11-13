@@ -33,7 +33,7 @@
 | 23 | [remotestorage/remotestorage.js](./remotestorage-remotestorage.js.md) | ⭐ 2.4k | JavaScript | 70/100 |
 | 24 | [TencentCloud/tencentcloud-sdk-python](./tencentcloud-tencentcloud-sdk-python.md) | ⭐ 719 | Python | 70/100 |
 | 25 | [googleads/googleads-mobile-unity](./googleads-googleads-mobile-unity.md) | ⭐ 1.6k | C# | 70/100 |
-| 26 | [operator-framework/java-operator-sdk](./operator-framework-java-operator-sdk.md) | ⭐ 947 | Java | 70/100 |
+| 26 | [operator-framework/java-operator-sdk](./operator-framework-java-operator-sdk.md) | ⭐ 948 | Java | 70/100 |
 | 27 | [TencentCloud/tencentcloud-sdk-go](./tencentcloud-tencentcloud-sdk-go.md) | ⭐ 751 | Go | 70/100 |
 | 28 | [octokit/octokit.js](./octokit-octokit.js.md) | ⭐ 7.9k | TypeScript | 69/100 |
 | 29 | [meilisearch/meilisearch-php](./meilisearch-meilisearch-php.md) | ⭐ 763 | PHP | 69/100 |
@@ -138,7 +138,7 @@
 | 128 | [lazy-hq/aisdk](./lazy-hq-aisdk.md) | ⭐ 264 | Rust | 60/100 |
 | 129 | [mapbox/mapbox-navigation-android](./mapbox-mapbox-navigation-android.md) | ⭐ 653 | Kotlin | 60/100 |
 | 130 | [espressif/esp-matter](./espressif-esp-matter.md) | ⭐ 1.1k | C++ | 60/100 |
-| 131 | [duckdb/duckdb-rs](./duckdb-duckdb-rs.md) | ⭐ 988 | Rust | 60/100 |
+| 131 | [duckdb/duckdb-rs](./duckdb-duckdb-rs.md) | ⭐ 987 | Rust | 60/100 |
 | 132 | [CrankBoyHQ/crankboy-app](./crankboyhq-crankboy-app.md) | ⭐ 413 | C | 60/100 |
 | 133 | [bitwarden/sdk-sm](./bitwarden-sdk-sm.md) | ⭐ 504 | Rust | 60/100 |
 | 134 | [langfuse/langfuse-python](./langfuse-langfuse-python.md) | ⭐ 514 | Python | 60/100 |
@@ -187,7 +187,7 @@
 | 177 | [Enos2/my-sdk-work](./enos2-my-sdk-work.md) | ⭐ 1 | TypeScript | 56/100 |
 | 178 | [Convertio/convertio-php](./convertio-convertio-php.md) | ⭐ 276 | PHP | 55/100 |
 | 179 | [xbill9/devto-sanity](./xbill9-devto-sanity.md) | ⭐ — | HTML | 55/100 |
-| 180 | [frida/frida-python](./frida-frida-python.md) | ⭐ 878 | Python | 55/100 |
+| 180 | [frida/frida-python](./frida-frida-python.md) | ⭐ 879 | Python | 55/100 |
 | 181 | [gtk-rs/gtk3-rs](./gtk-rs-gtk3-rs.md) | ⭐ 509 | Rust | 55/100 |
 | 182 | [prove-rs/z3.rs](./prove-rs-z3.rs.md) | ⭐ 542 | Rust | 55/100 |
 | 183 | [y3owk1n/neru](./y3owk1n-neru.md) | ⭐ 923 | Go | 55/100 |

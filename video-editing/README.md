@@ -51,7 +51,7 @@
 | 41 | [metiutek/tube-assistant](./metiutek-tube-assistant.md) | ⭐ 39 | Python | 77/100 |
 | 42 | [Monet-AI-Editor/Monet](./monet-ai-editor-monet.md) | ⭐ 119 | TypeScript | 77/100 |
 | 43 | [heristop/leclap](./heristop-leclap.md) | ⭐ 35 | TypeScript | 77/100 |
-| 44 | [JMS1717/8mb.local](./jms1717-8mb.local.md) | ⭐ 938 | Python | 77/100 |
+| 44 | [JMS1717/8mb.local](./jms1717-8mb.local.md) | ⭐ 939 | Python | 77/100 |
 | 45 | [madiele/vod2pod-rss](./madiele-vod2pod-rss.md) | ⭐ 392 | Rust | 77/100 |
 | 46 | [Cerlancism/chatgpt-subtitle-translator](./cerlancism-chatgpt-subtitle-translator.md) | ⭐ 391 | JavaScript | 77/100 |
 | 47 | [ArchiveBox/abx-dl](./archivebox-abx-dl.md) | ⭐ 151 | Python | 77/100 |
@@ -126,7 +126,7 @@
 | 116 | [BadgeCorporal/Adobe-Tool-Premiere-Pro](./badgecorporal-adobe-tool-premiere-pro.md) | ⭐ 50 | — | 71/100 |
 | 117 | [siuserxiaowei/reference-driven-cinematic-video-skill](./siuserxiaowei-reference-driven-cinematic-video-skill.md) | ⭐ 69 | Python | 71/100 |
 | 118 | [MerlinStacks/socaliseit](./merlinstacks-socaliseit.md) | ⭐ 32 | TypeScript | 71/100 |
-| 119 | [jub0t/Concat](./jub0t-concat.md) | ⭐ 16.9k | TypeScript | 71/100 |
+| 119 | [jub0t/Concat](./jub0t-concat.md) | ⭐ 17.2k | TypeScript | 71/100 |
 | 120 | [cacity/VideoHub](./cacity-videohub.md) | ⭐ 185 | Python | 71/100 |
 | 121 | [zh-plus/openlrc](./zh-plus-openlrc.md) | ⭐ 686 | Python | 71/100 |
 | 122 | [OpenShot/openshot-qt](./openshot-openshot-qt.md) | ⭐ 6.8k | Python | 71/100 |
@@ -516,8 +516,8 @@
 | 506 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 507 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 50 | Kotlin | 53/100 |
 | 508 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 509 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
-| 510 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 509 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 510 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
 | 511 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 512 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 523 | — | 53/100 |
 | 513 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
@@ -571,8 +571,8 @@
 | 561 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 17 | — | 48/100 |
 | 562 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 563 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 3 | Python | 48/100 |
-| 564 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
-| 565 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 564 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 565 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
 | 566 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 567 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 34 | — | 48/100 |
 | 568 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ 22 | — | 48/100 |

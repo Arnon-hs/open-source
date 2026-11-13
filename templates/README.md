@@ -268,7 +268,7 @@
 | 258 | [alysonhower/tauri2-svelte5-shadcn](./alysonhower-tauri2-svelte5-shadcn.md) | ⭐ 384 | TypeScript | 65/100 |
 | 259 | [ElectricCodeGuy/SupabaseAuthWithSSR](./electriccodeguy-supabaseauthwithssr.md) | ⭐ 399 | TypeScript | 65/100 |
 | 260 | [groepl/Obsidian-Templates](./groepl-obsidian-templates.md) | ⭐ 2k | — | 65/100 |
-| 261 | [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](./lubomirgeorgiev-cloudflare-workers-nextjs-saas-template.md) | ⭐ 786 | TypeScript | 65/100 |
+| 261 | [LubomirGeorgiev/cloudflare-workers-nextjs-saas-template](./lubomirgeorgiev-cloudflare-workers-nextjs-saas-template.md) | ⭐ 787 | TypeScript | 65/100 |
 | 262 | [seungmanchoi/react-native-fsd-agent-template](./seungmanchoi-react-native-fsd-agent-template.md) | ⭐ 52 | TypeScript | 65/100 |
 | 263 | [thecodeorigin/nuxt-template](./thecodeorigin-nuxt-template.md) | ⭐ 35 | TypeScript | 65/100 |
 | 264 | [google/mug](./google-mug.md) | ⭐ 539 | Java | 65/100 |
@@ -384,7 +384,7 @@
 | 374 | [The-AppLab/ultimate-fastapi-langchain-boilerplate](./the-applab-ultimate-fastapi-langchain-boilerplate.md) | ⭐ 1 | Python | 58/100 |
 | 375 | [typed-ember/glint](./typed-ember-glint.md) | ⭐ 118 | TypeScript | 58/100 |
 | 376 | [gacabartosz/linkedin-mcp-server](./gacabartosz-linkedin-mcp-server.md) | ⭐ 5 | JavaScript | 58/100 |
-| 377 | [Tam-Taro/SEL-Filtering-and-Sorting](./tam-taro-sel-filtering-and-sorting.md) | ⭐ 890 | — | 58/100 |
+| 377 | [Tam-Taro/SEL-Filtering-and-Sorting](./tam-taro-sel-filtering-and-sorting.md) | ⭐ 891 | — | 58/100 |
 | 378 | [cfndsl/cfndsl](./cfndsl-cfndsl.md) | ⭐ 424 | Ruby | 58/100 |
 | 379 | [jdrouet/catapulte](./jdrouet-catapulte.md) | ⭐ 152 | Rust | 58/100 |
 | 380 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 157 | Rust | 58/100 |

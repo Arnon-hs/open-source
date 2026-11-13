@@ -57,7 +57,7 @@
 | 47 | [go-pkgz/auth](./go-pkgz-auth.md) | ⭐ 1.4k | Go | 68/100 |
 | 48 | [slack-go/slack](./slack-go-slack.md) | ⭐ 5k | Go | 68/100 |
 | 49 | [miroslavpejic85/mirotalk](./miroslavpejic85-mirotalk.md) | ⭐ 4.8k | JavaScript | 68/100 |
-| 50 | [zulip/zulip-terminal](./zulip-zulip-terminal.md) | ⭐ 881 | Python | 68/100 |
+| 50 | [zulip/zulip-terminal](./zulip-zulip-terminal.md) | ⭐ 883 | Python | 68/100 |
 | 51 | [aliasvault/aliasvault](./aliasvault-aliasvault.md) | ⭐ 3.5k | TypeScript | 68/100 |
 | 52 | [berty/berty](./berty-berty.md) | ⭐ 9.4k | TypeScript | 68/100 |
 | 53 | [eclipse-zenoh/zenoh-c](./eclipse-zenoh-zenoh-c.md) | ⭐ 141 | Rust | 68/100 |
@@ -78,7 +78,7 @@
 | 68 | [Oxygem/Kanmail](./oxygem-kanmail.md) | ⭐ 1.4k | Go | 66/100 |
 | 69 | [apache/rocketmq-clients](./apache-rocketmq-clients.md) | ⭐ 511 | Java | 66/100 |
 | 70 | [reduxframework/redux-framework](./reduxframework-redux-framework.md) | ⭐ 1.8k | PHP | 66/100 |
-| 71 | [bokysan/docker-postfix](./bokysan-docker-postfix.md) | ⭐ 821 | Shell | 66/100 |
+| 71 | [bokysan/docker-postfix](./bokysan-docker-postfix.md) | ⭐ 822 | Shell | 66/100 |
 | 72 | [rabbitmq/rabbitmq-server](./rabbitmq-rabbitmq-server.md) | ⭐ 14k | JavaScript | 66/100 |
 | 73 | [Baymax-armed/Voltphish](./baymax-armed-voltphish.md) | ⭐ 3 | Python | 65/100 |
 | 74 | [profanity-im/profanity](./profanity-im-profanity.md) | ⭐ 1.6k | C | 65/100 |
@@ -111,7 +111,7 @@
 | 101 | [deriv-security/MeetC2](./deriv-security-meetc2.md) | ⭐ 145 | Go | 63/100 |
 | 102 | [Obiente/nc-native](./obiente-nc-native.md) | ⭐ 225 | Kotlin | 63/100 |
 | 103 | [maathimself/mailflow](./maathimself-mailflow.md) | ⭐ 680 | JavaScript | 63/100 |
-| 104 | [meli/meli](./meli-meli.md) | ⭐ 899 | Rust | 63/100 |
+| 104 | [meli/meli](./meli-meli.md) | ⭐ 898 | Rust | 63/100 |
 | 105 | [krishn404/Git-Friend](./krishn404-git-friend.md) | ⭐ 599 | TypeScript | 63/100 |
 | 106 | [disposable-email-domains/disposable-email-domains](./disposable-email-domains-disposable-email-domains.md) | ⭐ 5.7k | Python | 63/100 |
 | 107 | [shuakami/qq-chat-exporter](./shuakami-qq-chat-exporter.md) | ⭐ 6.2k | TypeScript | 63/100 |
@@ -162,7 +162,7 @@
 | 152 | [apache/activemq](./apache-activemq.md) | ⭐ 2.5k | Java | 60/100 |
 | 153 | [owncast/owncast](./owncast-owncast.md) | ⭐ 11.7k | Go | 60/100 |
 | 154 | [hieunc229/mailflare](./hieunc229-mailflare.md) | ⭐ 2.1k | TypeScript | 59/100 |
-| 155 | [freebsd/pkg](./freebsd-pkg.md) | ⭐ 832 | C | 59/100 |
+| 155 | [freebsd/pkg](./freebsd-pkg.md) | ⭐ 833 | C | 59/100 |
 | 156 | [HQBase/hqbase](./hqbase-hqbase.md) | ⭐ 365 | TypeScript | 59/100 |
 | 157 | [permissionlesstech/bitchat](./permissionlesstech-bitchat.md) | ⭐ 37.1k | Swift | 59/100 |
 | 158 | [stefangabos/Zebra_Datepicker](./stefangabos-zebra-datepicker.md) | ⭐ 404 | JavaScript | 59/100 |
@@ -206,7 +206,7 @@
 | 196 | [deltachat/deltachat-ios](./deltachat-deltachat-ios.md) | ⭐ 462 | Swift | 57/100 |
 | 197 | [rmqtt/rmqtt](./rmqtt-rmqtt.md) | ⭐ 1.1k | Rust | 57/100 |
 | 198 | [linagora/tmail-flutter](./linagora-tmail-flutter.md) | ⭐ 666 | Dart | 57/100 |
-| 199 | [ChurchCRM/CRM](./churchcrm-crm.md) | ⭐ 992 | PHP | 57/100 |
+| 199 | [ChurchCRM/CRM](./churchcrm-crm.md) | ⭐ 993 | PHP | 57/100 |
 | 200 | [gnekt/My-Brain-Is-Full-Crew](./gnekt-my-brain-is-full-crew.md) | ⭐ 3.9k | Shell | 56/100 |
 | 201 | [timeframe/ha-addon](./timeframe-ha-addon.md) | ⭐ 880 | Ruby | 56/100 |
 | 202 | [jalaali/jalaali-js](./jalaali-jalaali-js.md) | ⭐ 368 | TypeScript | 56/100 |
@@ -224,7 +224,7 @@
 | 214 | [mautrix/slack](./mautrix-slack.md) | ⭐ 107 | Go | 55/100 |
 | 215 | [allegro/hermes](./allegro-hermes.md) | ⭐ 872 | Java | 55/100 |
 | 216 | [morgan3d/markdeep](./morgan3d-markdeep.md) | ⭐ 646 | JavaScript | 55/100 |
-| 217 | [sebbo2002/ical-generator](./sebbo2002-ical-generator.md) | ⭐ 858 | TypeScript | 55/100 |
+| 217 | [sebbo2002/ical-generator](./sebbo2002-ical-generator.md) | ⭐ 857 | TypeScript | 55/100 |
 | 218 | [Medvedev91/timeto.me](./medvedev91-timeto.me.md) | ⭐ 728 | Kotlin | 55/100 |
 | 219 | [jmhobbs/cultofthepartyparrot.com](./jmhobbs-cultofthepartyparrot.com.md) | ⭐ 1.6k | HTML | 55/100 |
 | 220 | [microsoft/LangChain4j-for-Beginners](./microsoft-langchain4j-for-beginners.md) | ⭐ 557 | Java | 55/100 |
@@ -313,7 +313,7 @@
 | 303 | [transmitly/transmitly](./transmitly-transmitly.md) | ⭐ 25 | C# | 46/100 |
 | 304 | [munimv2/federal-prize-feed](./munimv2-federal-prize-feed.md) | ⭐ — | Python | 46/100 |
 | 305 | [permissionlesstech/bitchat-android](./permissionlesstech-bitchat-android.md) | ⭐ 8k | Kotlin | 46/100 |
-| 306 | [persian-calendar/persian-calendar](./persian-calendar-persian-calendar.md) | ⭐ 995 | Kotlin | 46/100 |
+| 306 | [persian-calendar/persian-calendar](./persian-calendar-persian-calendar.md) | ⭐ 997 | Kotlin | 46/100 |
 | 307 | [clumsy-ug/agentview-chat](./clumsy-ug-agentview-chat.md) | ⭐ — | — | 45/100 |
 | 308 | [armysarge/ham-radio-tools](./armysarge-ham-radio-tools.md) | ⭐ 3 | — | 45/100 |
 | 309 | [agentisend/agent-email-guard](./agentisend-agent-email-guard.md) | ⭐ 5 | — | 45/100 |

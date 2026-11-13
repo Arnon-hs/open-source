@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 785 |
+| ⭐ **Stars** | 784 |
 | 🍴 **Forks** | 108 |
 | 💻 **Language** | Emacs Lisp |
 | 📈 **Score** | 56/100 |

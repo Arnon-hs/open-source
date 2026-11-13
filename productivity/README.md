@@ -98,7 +98,7 @@
 | 88 | [ljtn/epiq](./ljtn-epiq.md) | ⭐ 584 | TypeScript | 63/100 |
 | 89 | [brevity1swos/rgx](./brevity1swos-rgx.md) | ⭐ 244 | Rust | 63/100 |
 | 90 | [Shopify/tophat](./shopify-tophat.md) | ⭐ 1.1k | Swift | 62/100 |
-| 91 | [Keruspe/GPaste](./keruspe-gpaste.md) | ⭐ 965 | C | 62/100 |
+| 91 | [Keruspe/GPaste](./keruspe-gpaste.md) | ⭐ 966 | C | 62/100 |
 | 92 | [PrismLauncher/PrismLauncher](./prismlauncher-prismlauncher.md) | ⭐ 11.1k | C++ | 62/100 |
 | 93 | [amir1376/ab-download-manager](./amir1376-ab-download-manager.md) | ⭐ 19.2k | Kotlin | 62/100 |
 | 94 | [mrusme/zeit](./mrusme-zeit.md) | ⭐ 594 | Go | 62/100 |
@@ -124,7 +124,7 @@
 | 114 | [cosmic-utils/clipboard-manager](./cosmic-utils-clipboard-manager.md) | ⭐ 243 | Rust | 60/100 |
 | 115 | [noahbclarkson/rgitui](./noahbclarkson-rgitui.md) | ⭐ 278 | Rust | 60/100 |
 | 116 | [elvisun/newsjack](./elvisun-newsjack.md) | ⭐ 1.7k | Go | 60/100 |
-| 117 | [mudkipme/MoeMemos](./mudkipme-moememos.md) | ⭐ 922 | Swift | 60/100 |
+| 117 | [mudkipme/MoeMemos](./mudkipme-moememos.md) | ⭐ 923 | Swift | 60/100 |
 | 118 | [sathish316/opus_agents](./sathish316-opus-agents.md) | ⭐ 35 | Python | 60/100 |
 | 119 | [swiftbar/SwiftBar](./swiftbar-swiftbar.md) | ⭐ 4.8k | Swift | 60/100 |
 | 120 | [Gimanh/taskview-community](./gimanh-taskview-community.md) | ⭐ 1.4k | TypeScript | 60/100 |
@@ -143,7 +143,7 @@
 | 133 | [Ruben2776/PicView](./ruben2776-picview.md) | ⭐ 3.8k | C# | 59/100 |
 | 134 | [Y-ASLant/ElegantClipboard](./y-aslant-elegantclipboard.md) | ⭐ 488 | Rust | 59/100 |
 | 135 | [zhensherlock/intellij-platform-git-stats-plugin](./zhensherlock-intellij-platform-git-stats-plugin.md) | ⭐ 210 | Kotlin | 59/100 |
-| 136 | [kra-mo/cartridges](./kra-mo-cartridges.md) | ⭐ 824 | Python | 59/100 |
+| 136 | [kra-mo/cartridges](./kra-mo-cartridges.md) | ⭐ 822 | Python | 59/100 |
 | 137 | [timholy/Revise.jl](./timholy-revise.jl.md) | ⭐ 1.4k | Julia | 59/100 |
 | 138 | [poetaman/arttime](./poetaman-arttime.md) | ⭐ 1.4k | Shell | 59/100 |
 | 139 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 135.6k | TypeScript | 59/100 |
@@ -313,8 +313,8 @@
 | 303 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 304 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 305 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
-| 307 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 307 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
 | 308 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 309 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 310 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |
@@ -326,8 +326,8 @@
 | 316 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ — | — | 41/100 |
 | 317 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 318 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ — | — | 41/100 |
-| 319 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
-| 320 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
+| 319 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
+| 320 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
 | 321 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 2 | — | 41/100 |
 | 322 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 323 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 2 | — | 41/100 |

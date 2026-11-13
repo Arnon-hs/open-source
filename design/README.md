@@ -84,7 +84,7 @@
 | 74 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 350 | Python | 54/100 |
 | 75 | [coinbase/cds](./coinbase-cds.md) | ⭐ 510 | TypeScript | 54/100 |
 | 76 | [zeke/swiss-design-skill](./zeke-swiss-design-skill.md) | ⭐ 164 | TypeScript | 54/100 |
-| 77 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 986 | TypeScript | 54/100 |
+| 77 | [antdv-next/antdv-next](./antdv-next-antdv-next.md) | ⭐ 987 | TypeScript | 54/100 |
 | 78 | [SAP/macOS-icon-generator](./sap-macos-icon-generator.md) | ⭐ 647 | C | 53/100 |
 | 79 | [opensourcedesign/opensourcedesign.net](./opensourcedesign-opensourcedesign.net.md) | ⭐ 404 | HTML | 53/100 |
 | 80 | [carbon-design-system/gatsby-theme-carbon](./carbon-design-system-gatsby-theme-carbon.md) | ⭐ 359 | MDX | 53/100 |
@@ -150,7 +150,7 @@
 | 140 | [bitjaru/styleseed](./bitjaru-styleseed.md) | ⭐ 1k | — | 42/100 |
 | 141 | [faisalishfaq2005/loopflow](./faisalishfaq2005-loopflow.md) | ⭐ 38 | — | 42/100 |
 | 142 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 42/100 |
-| 143 | [getzipzi/zipzi-2d](./getzipzi-zipzi-2d.md) | ⭐ — | — | 41/100 |
+| 143 | [getzipzi/zipzi-2d](./getzipzi-zipzi-2d.md) | ⭐ 8 | — | 41/100 |
 | 144 | [brandrail-app/brandrail](./brandrail-app-brandrail.md) | ⭐ — | — | 41/100 |
 | 145 | [robbietilton/Compositor](./robbietilton-compositor.md) | ⭐ 18.6k | — | 41/100 |
 | 146 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ 884 | — | 41/100 |
