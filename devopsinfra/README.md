@@ -218,8 +218,8 @@
 | 208 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 32.2k | Go | 61/100 |
 | 209 | [docker/setup-buildx-action](./docker-setup-buildx-action.md) | ⭐ 1.4k | TypeScript | 60/100 |
 | 210 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 922 | Svelte | 60/100 |
-| 211 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
-| 212 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 211 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 212 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
 | 213 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 843 | JavaScript | 60/100 |
 | 214 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 32 | Nix | 60/100 |
 | 215 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 402 | Go | 60/100 |
@@ -418,7 +418,7 @@
 | 408 | [rafnixg/odoo-platform-ephemeral-environment](./rafnixg-odoo-platform-ephemeral-environment.md) | ⭐ 6 | — | 47/100 |
 | 409 | [Arnon-hs/jit-runner-kit](./arnon-hs-jit-runner-kit.md) | ⭐ 1 | Shell | 47/100 |
 | 410 | [snowflakedb/terraform-provider-snowflake](./snowflakedb-terraform-provider-snowflake.md) | ⭐ 699 | Go | 47/100 |
-| 411 | [github/gh-actions-lock](./github-gh-actions-lock.md) | ⭐ 350 | — | 46/100 |
+| 411 | [github/gh-actions-lock](./github-gh-actions-lock.md) | ⭐ 367 | — | 46/100 |
 | 412 | [GauravS13/raptor-desk](./gauravs13-raptor-desk.md) | ⭐ — | Python | 46/100 |
 | 413 | [The-DevOps-Daily/do-agent-issue-to-pr](./the-devops-daily-do-agent-issue-to-pr.md) | ⭐ — | — | 46/100 |
 | 414 | [gisiahq/gisia](./gisiahq-gisia.md) | ⭐ 167 | Ruby | 46/100 |
@@ -495,7 +495,7 @@
 | 485 | [AgentLineHQ/AgentLine](./agentlinehq-agentline.md) | ⭐ 62 | — | 42/100 |
 | 486 | [linuxserver/docker-firefox](./linuxserver-docker-firefox.md) | ⭐ 328 | Dockerfile | 42/100 |
 | 487 | [muhammadyulasfipahrizal/circle](./muhammadyulasfipahrizal-circle.md) | ⭐ — | Go | 42/100 |
-| 488 | [jthwho/bmds](./jthwho-bmds.md) | ⭐ — | — | 41/100 |
+| 488 | [jthwho/bmds](./jthwho-bmds.md) | ⭐ 30 | — | 41/100 |
 | 489 | [DocSpring/shiplist](./docspring-shiplist.md) | ⭐ — | — | 41/100 |
 | 490 | [ruiyangke/newport](./ruiyangke-newport.md) | ⭐ — | — | 41/100 |
 | 491 | [exagonx/EX_OS](./exagonx-ex-os.md) | ⭐ — | — | 41/100 |
@@ -512,7 +512,7 @@
 | 502 | [picubedllc/terraform-provider-appleads](./picubedllc-terraform-provider-appleads.md) | ⭐ 3 | — | 41/100 |
 | 503 | [TilakMaddy/hyperindex-openinfra](./tilakmaddy-hyperindex-openinfra.md) | ⭐ 2 | — | 41/100 |
 | 504 | [breezycourses/presage](./breezycourses-presage.md) | ⭐ 3 | — | 41/100 |
-| 505 | [GoogleContainerTools/distroless](./googlecontainertools-distroless.md) | ⭐ 23.2k | — | 41/100 |
+| 505 | [GoogleContainerTools/distroless](./googlecontainertools-distroless.md) | ⭐ 23.3k | — | 41/100 |
 | 506 | [cyb3ralbert/chapter-zero](./cyb3ralbert-chapter-zero.md) | ⭐ 9 | — | 41/100 |
 | 507 | [opscart/docker-security-practical-guide](./opscart-docker-security-practical-guide.md) | ⭐ 47 | — | 41/100 |
 | 508 | [k8s-security-pro/k8s-audit](./k8s-security-pro-k8s-audit.md) | ⭐ 4 | — | 41/100 |

@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-MCP
+AI/ML · Data
 
 ## 📝 Summary
 
 ### English
 
-mikhail-koviazin/actor-us-tax-county-scraper: mikhail-koviazin/actor-us-tax-county-scraper helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+mikhail-koviazin/actor-us-tax-county-scraper: mikhail-koviazin/actor-us-tax-county-scraper helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-mikhail-koviazin/actor-us-tax-county-scraper: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+mikhail-koviazin/actor-us-tax-county-scraper: open-source проект в категориях AI/ML, Data. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-mikhail-koviazin/actor-us-tax-county-scraper：mikhail-koviazin/actor-us-tax-county-scraper helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+mikhail-koviazin/actor-us-tax-county-scraper：mikhail-koviazin/actor-us-tax-county-scraper helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** mikhail-koviazin/actor-us-tax-county-scraper helps connect AI assistants to real tools and data through a standard protocol.
+**Value:** mikhail-koviazin/actor-us-tax-county-scraper helps add AI capability without starting from a blank model stack.
 
 **Best use cases**
 
-- connect AI agents to tools
-- ship Model Context Protocol servers
-- standardize integrations
+- prototype AI features
+- build RAG or agent workflows
+- evaluate model tooling
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -63,19 +63,19 @@ mikhail-koviazin/actor-us-tax-county-scraper：mikhail-koviazin/actor-us-tax-cou
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 30/100 |
-| integration | 46/100 |
-| production | 41/100 |
-| outlook | 42/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 42/100 |
+| quality | 30/100 |
+| recency | 40/100 |
+| adoption | 0/100 |
+| production | 41/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/mikhail-koviazin/actor-us-tax-county-scraper) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/mikhail-koviazin/actor-us-tax-county-scraper) · [← Back to AI/ML](./README.md)</sub>

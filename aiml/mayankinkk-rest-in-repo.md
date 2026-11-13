@@ -1,6 +1,6 @@
 # mayankinkk/rest-in-repo
 
-[![Stars](https://img.shields.io/github/stars/mayankinkk/rest-in-repo?style=flat-square&color=yellow)](https://github.com/mayankinkk/rest-in-repo/stargazers) [![Forks](https://img.shields.io/github/forks/mayankinkk/rest-in-repo?style=flat-square&color=blue)](https://github.com/mayankinkk/rest-in-repo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/mayankinkk/rest-in-repo?style=flat-square&color=yellow)](https://github.com/mayankinkk/rest-in-repo/stargazers) [![Forks](https://img.shields.io/github/forks/mayankinkk/rest-in-repo?style=flat-square&color=blue)](https://github.com/mayankinkk/rest-in-repo/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > A graveyard for dead side projects — deterministic cause-of-death classification, local Ollama eulogies, and a spooky static HTML page.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI/ML
 
 ### English
 
-mayankinkk/rest-in-repo: mayankinkk/rest-in-repo helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mayankinkk/rest-in-repo: mayankinkk/rest-in-repo helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-mayankinkk/rest-in-repo: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+mayankinkk/rest-in-repo: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-mayankinkk/rest-in-repo：mayankinkk/rest-in-repo helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+mayankinkk/rest-in-repo：mayankinkk/rest-in-repo helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ mayankinkk/rest-in-repo：mayankinkk/rest-in-repo helps add AI capability withou
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ mayankinkk/rest-in-repo：mayankinkk/rest-in-repo helps add AI capability withou
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 46/100 |
-| production | 54/100 |
-| outlook | 48/100 |
+| production | 47/100 |
+| outlook | 41/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

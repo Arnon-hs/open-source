@@ -177,7 +177,7 @@
 | 167 | [ZeroK-RTS/Zero-K](./zerok-rts-zero-k.md) | ⭐ 883 | Lua | 57/100 |
 | 168 | [timschmidt/csgrs](./timschmidt-csgrs.md) | ⭐ 265 | Rust | 57/100 |
 | 169 | [kitao/pyxel](./kitao-pyxel.md) | ⭐ 18.6k | Rust | 57/100 |
-| 170 | [piteengine/pite](./piteengine-pite.md) | ⭐ 11 | — | 56/100 |
+| 170 | [piteengine/pite](./piteengine-pite.md) | ⭐ 15 | — | 56/100 |
 | 171 | [three-types/three-ts-types](./three-types-three-ts-types.md) | ⭐ 305 | TypeScript | 56/100 |
 | 172 | [plotly/plotly_matlab](./plotly-plotly-matlab.md) | ⭐ 416 | MATLAB | 56/100 |
 | 173 | [max-baz/wluma](./max-baz-wluma.md) | ⭐ 960 | Rust | 56/100 |
@@ -288,8 +288,8 @@
 | 278 | [tangziwen/CubeMiniGame](./tangziwen-cubeminigame.md) | ⭐ 361 | C++ | 49/100 |
 | 279 | [DaemonEngine/Daemon](./daemonengine-daemon.md) | ⭐ 399 | C++ | 49/100 |
 | 280 | [makspll/bevy_mod_scripting](./makspll-bevy-mod-scripting.md) | ⭐ 664 | Rust | 49/100 |
-| 281 | [crownengine/crown](./crownengine-crown.md) | ⭐ 2.5k | C++ | 49/100 |
-| 282 | [ousnius/BodySlide-and-Outfit-Studio](./ousnius-bodyslide-and-outfit-studio.md) | ⭐ 374 | C++ | 49/100 |
+| 281 | [ousnius/BodySlide-and-Outfit-Studio](./ousnius-bodyslide-and-outfit-studio.md) | ⭐ 374 | C++ | 49/100 |
+| 282 | [crownengine/crown](./crownengine-crown.md) | ⭐ 2.5k | C++ | 49/100 |
 | 283 | [novelrt/NovelRT](./novelrt-novelrt.md) | ⭐ 218 | C++ | 49/100 |
 | 284 | [DioxusLabs/blitz](./dioxuslabs-blitz.md) | ⭐ 4.5k | Rust | 49/100 |
 | 285 | [ikemen-engine/Ikemen-GO](./ikemen-engine-ikemen-go.md) | ⭐ 1.7k | Go | 49/100 |

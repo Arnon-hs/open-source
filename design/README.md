@@ -197,7 +197,7 @@
 | 187 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ 78 | — | 38/100 |
 | 188 | [aai2k/TFStudio](./aai2k-tfstudio.md) | ⭐ 31 | — | 38/100 |
 | 189 | [kai-qu/notation](./kai-qu-notation.md) | ⭐ 1.9k | — | 38/100 |
-| 190 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ 35 | — | 38/100 |
+| 190 | [febbhav/signs-of-ai-design](./febbhav-signs-of-ai-design.md) | ⭐ 37 | — | 38/100 |
 | 191 | [CoreGrowthLabs/CoreGrowthPrompting](./coregrowthlabs-coregrowthprompting.md) | ⭐ — | — | 38/100 |
 | 192 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
 | 193 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ 2.1k | — | 38/100 |
