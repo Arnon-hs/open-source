@@ -641,7 +641,7 @@
 | 631 | [akshinmrv/Voxa](./akshinmrv-voxa.md) | ⭐ 20 | — | 38/100 |
 | 632 | [heng30/wayshot](./heng30-wayshot.md) | ⭐ 67 | — | 38/100 |
 | 633 | [rokib16x/listnr](./rokib16x-listnr.md) | ⭐ 17 | — | 38/100 |
-| 634 | [VladUZH/qwen-scribe](./vladuzh-qwen-scribe.md) | ⭐ 223 | — | 38/100 |
+| 634 | [VladUZH/qwen-scribe](./vladuzh-qwen-scribe.md) | ⭐ 224 | — | 38/100 |
 | 635 | [Relo-video/SynthCut](./relo-video-synthcut.md) | ⭐ 47 | — | 38/100 |
 | 636 | [khaledalam/avatoon](./khaledalam-avatoon.md) | ⭐ 20 | — | 38/100 |
 | 637 | [HeyMeco/MecoScribe](./heymeco-mecoscribe.md) | ⭐ — | — | 38/100 |

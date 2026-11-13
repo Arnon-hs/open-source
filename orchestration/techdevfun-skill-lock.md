@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Security
+Orchestration · AI/ML · DevTools · Security
 
 ## 📝 Summary
 
 ### English
 
-techdevfun/skill-lock: techdevfun/skill-lock helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+techdevfun/skill-lock: techdevfun/skill-lock helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-techdevfun/skill-lock: open-source проект в категориях Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+techdevfun/skill-lock: open-source проект в категориях Orchestration, AI/ML, DevTools, Security. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-techdevfun/skill-lock：techdevfun/skill-lock helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+techdevfun/skill-lock：techdevfun/skill-lock helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** techdevfun/skill-lock helps catch security and privacy issues earlier in the workflow.
+**Value:** techdevfun/skill-lock helps turn isolated prompts and tools into repeatable agent workflows.
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
-- audit risk earlier
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -63,19 +63,19 @@ techdevfun/skill-lock：techdevfun/skill-lock helps catch security and privacy i
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 45/100 |
-| integration | 62/100 |
-| production | 58/100 |
-| outlook | 63/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 58/100 |
+| usefulness | 90/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/techdevfun/skill-lock) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/techdevfun/skill-lock) · [← Back to Orchestration](./README.md)</sub>

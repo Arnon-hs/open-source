@@ -1,6 +1,6 @@
 # aligndottech/align-cli
 
-[![Stars](https://img.shields.io/github/stars/aligndottech/align-cli?style=flat-square&color=yellow)](https://github.com/aligndottech/align-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aligndottech/align-cli?style=flat-square&color=blue)](https://github.com/aligndottech/align-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-73%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aligndottech/align-cli?style=flat-square&color=yellow)](https://github.com/aligndottech/align-cli/stargazers) [![Forks](https://img.shields.io/github/forks/aligndottech/align-cli?style=flat-square&color=blue)](https://github.com/aligndottech/align-cli/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-74%2F100-brightgreen?style=flat-square)](#)
 
 > Your AI agents know the code. They don't know the company. Free, local CLI and MCP server that imports your team's decisions from Jira, Confluence, Linear, Notion, Slack, Teams, Zoom, GitHub, GitLab, git history and repo docs, and checks your coding agent's change against them before it edits.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 11 |
+| ⭐ **Stars** | 14 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 73/100 |
+| 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-11-12 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ aligndottech/align-cli：aligndottech/align-cli helps remove repetitive manual o
 
 **Quality signals**
 
-- 11 GitHub stars
+- 14 GitHub stars
 - 1 forks
 - updated 2026-11-12
 - primary language: TypeScript
@@ -66,13 +66,13 @@ aligndottech/align-cli：aligndottech/align-cli helps remove repetitive manual o
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 59/100 |
+| quality | 60/100 |
 | integration | 78/100 |
-| production | 70/100 |
+| production | 71/100 |
 | outlook | 77/100 |
-| adoption | 19/100 |
+| adoption | 20/100 |
 | categoryMatchCount | 100/100 |
-| stars | 23/100 |
+| stars | 25/100 |
 | forks | 8/100 |
 | recency | 100/100 |
 | topics | 100/100 |

@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Security
+Payments · Frontend · Database · Security
 
 ## 📝 Summary
 
 ### English
 
-Srinivas26k/Hekara: Srinivas26k/Hekara helps catch security and privacy issues earlier in the workflow.. Use it for strengthen security checks; add auth or privacy controls. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Srinivas26k/Hekara: Srinivas26k/Hekara helps integrate monetization, billing, or PSP flows faster.. Use it for integrate billing or checkout; evaluate PSP flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Srinivas26k/Hekara: open-source проект в категориях Security. Практическое применение: strengthen security checks; add auth or privacy controls. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Srinivas26k/Hekara: open-source проект в категориях Payments, Frontend, Database, Security. Практическое применение: integrate billing or checkout; evaluate PSP flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Srinivas26k/Hekara：Srinivas26k/Hekara helps catch security and privacy issues earlier in the workflow.。适合用于strengthen security checks、add auth or privacy controls。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Srinivas26k/Hekara：Srinivas26k/Hekara helps integrate monetization, billing, or PSP flows faster.。适合用于integrate billing or checkout、evaluate PSP flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Srinivas26k/Hekara helps catch security and privacy issues earlier in the workflow.
+**Value:** Srinivas26k/Hekara helps integrate monetization, billing, or PSP flows faster.
 
 **Best use cases**
 
-- strengthen security checks
-- add auth or privacy controls
-- audit risk earlier
+- integrate billing or checkout
+- evaluate PSP flows
+- automate payment operations
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -64,19 +64,19 @@ Srinivas26k/Hekara：Srinivas26k/Hekara helps catch security and privacy issues 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 58/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 58/100 |
+| quality | 48/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 57/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/Srinivas26k/Hekara) · [← Back to Security](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/Srinivas26k/Hekara) · [← Back to Payments](./README.md)</sub>

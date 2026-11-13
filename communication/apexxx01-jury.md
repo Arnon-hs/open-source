@@ -21,31 +21,29 @@
 
 ## 🎯 Categories
 
-AI/ML · Automation
+Communication
 
 ## 📝 Summary
 
 ### English
 
-apexxx01/jury: apexxx01/jury helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apexxx01/jury: apexxx01/jury may be useful when its README and activity match a concrete workflow.. Use it for Communication. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-apexxx01/jury: open-source проект в категориях AI/ML, Automation. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+apexxx01/jury: open-source проект в категориях Communication. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-apexxx01/jury：apexxx01/jury helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+apexxx01/jury：apexxx01/jury may be useful when its README and activity match a concrete workflow.。适合用于Communication。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** apexxx01/jury helps add AI capability without starting from a blank model stack.
+**Value:** apexxx01/jury may be useful when its README and activity match a concrete workflow.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- Not enough metadata yet.
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
@@ -64,19 +62,19 @@ apexxx01/jury：apexxx01/jury helps add AI capability without starting from a bl
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 38/100 |
-| integration | 46/100 |
-| production | 54/100 |
-| outlook | 48/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 38/100 |
+| outlook | 48/100 |
+| quality | 38/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 54/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/apexxx01/jury) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-06 · [View on GitHub](https://github.com/apexxx01/jury) · [← Back to Communication](./README.md)</sub>

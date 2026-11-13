@@ -279,8 +279,8 @@
 | 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 633 | Python | 55/100 |
-| 272 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
-| 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 272 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 273 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
 | 274 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 500 | Kotlin | 55/100 |
 | 275 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 276 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 3.3k | Kotlin | 55/100 |
@@ -607,11 +607,11 @@
 | 597 | [Droid-Deck/DroidDeck](./droid-deck-droiddeck.md) | ⭐ 19.8k | — | 41/100 |
 | 598 | [atgreen/evergreen](./atgreen-evergreen.md) | ⭐ 65 | — | 41/100 |
 | 599 | [AnaaySampat/jarvis](./anaaysampat-jarvis.md) | ⭐ 31 | — | 41/100 |
-| 600 | [wasi-master/wmkeyboard](./wasi-master-wmkeyboard.md) | ⭐ 926 | — | 41/100 |
+| 600 | [wasi-master/wmkeyboard](./wasi-master-wmkeyboard.md) | ⭐ 949 | — | 41/100 |
 | 601 | [axel10/vynody](./axel10-vynody.md) | ⭐ 176 | — | 41/100 |
 | 602 | [streetcomplete/StreetComplete](./streetcomplete-streetcomplete.md) | ⭐ — | — | 41/100 |
 | 603 | [opentv-mobile/opentv-mobile](./opentv-mobile-opentv-mobile.md) | ⭐ 9 | — | 41/100 |
-| 604 | [whiskerrs/whisker](./whiskerrs-whisker.md) | ⭐ 587 | — | 41/100 |
+| 604 | [whiskerrs/whisker](./whiskerrs-whisker.md) | ⭐ 600 | — | 41/100 |
 | 605 | [Mastersam07/OpenDeviceHub](./mastersam07-opendevicehub.md) | ⭐ 74 | — | 41/100 |
 | 606 | [jasonepage/Pawl](./jasonepage-pawl.md) | ⭐ 2 | — | 41/100 |
 | 607 | [LUC4N3X/Levyra-deepsound](./luc4n3x-levyra-deepsound.md) | ⭐ 1.8k | — | 41/100 |
@@ -658,7 +658,7 @@
 | 648 | [jprx/darwin-vm](./jprx-darwin-vm.md) | ⭐ 1.3k | — | 38/100 |
 | 649 | [ggcaponetto/point-bang](./ggcaponetto-point-bang.md) | ⭐ 19 | — | 38/100 |
 | 650 | [scastiel/kado](./scastiel-kado.md) | ⭐ 191 | — | 38/100 |
-| 651 | [wmww/tawc](./wmww-tawc.md) | ⭐ 271 | — | 38/100 |
+| 651 | [wmww/tawc](./wmww-tawc.md) | ⭐ 272 | — | 38/100 |
 | 652 | [jocmp/capyreader](./jocmp-capyreader.md) | ⭐ 1.5k | — | 38/100 |
 | 653 | [rfandango/XenDroid](./rfandango-xendroid.md) | ⭐ 528 | — | 38/100 |
 | 654 | [shinyquagsire23/Klepton](./shinyquagsire23-klepton.md) | ⭐ 270 | — | 38/100 |
@@ -688,8 +688,8 @@
 | 678 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 679 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ 12 | — | 38/100 |
 | 680 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 681 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
-| 682 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
+| 681 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
+| 682 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
 | 683 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ 1 | — | 38/100 |
 | 684 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ 18 | — | 38/100 |
 | 685 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ 580 | — | 38/100 |

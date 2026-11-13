@@ -129,8 +129,8 @@
 | 119 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 9k | Go | 64/100 |
 | 120 | [tborychowski/self-hosted-cookbook](./tborychowski-self-hosted-cookbook.md) | ⭐ 1.3k | — | 64/100 |
 | 121 | [open-policy-agent/gatekeeper-library](./open-policy-agent-gatekeeper-library.md) | ⭐ 705 | Open Policy Agent | 64/100 |
-| 122 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
-| 123 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 677 | Go | 64/100 |
+| 122 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 677 | Go | 64/100 |
+| 123 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
 | 124 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 64/100 |
 | 125 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 329 | Python | 64/100 |
 | 126 | [mkubaczyk/helmsman](./mkubaczyk-helmsman.md) | ⭐ 1.5k | Go | 64/100 |
@@ -463,7 +463,7 @@
 | 453 | [hivepaas/hivepaas](./hivepaas-hivepaas.md) | ⭐ 346 | — | 44/100 |
 | 454 | [ricardoborges/rcdesktop](./ricardoborges-rcdesktop.md) | ⭐ 5 | — | 44/100 |
 | 455 | [abdulsalam-create/bounty-watch](./abdulsalam-create-bounty-watch.md) | ⭐ — | Python | 44/100 |
-| 456 | [v94lere/solon](./v94lere-solon.md) | ⭐ 14 | — | 44/100 |
+| 456 | [v94lere/solon](./v94lere-solon.md) | ⭐ 17 | — | 44/100 |
 | 457 | [robgonnella/minienv](./robgonnella-minienv.md) | ⭐ 1 | — | 44/100 |
 | 458 | [ianrumac/bridgeflare](./ianrumac-bridgeflare.md) | ⭐ 4 | — | 44/100 |
 | 459 | [kobblestoneio/kobblestone](./kobblestoneio-kobblestone.md) | ⭐ 4 | — | 44/100 |
@@ -488,8 +488,8 @@
 | 478 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 479 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 480 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 481 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
-| 482 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 481 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 482 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
 | 483 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 484 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 485 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |
@@ -508,7 +508,7 @@
 | 498 | [hashicorp/vagrant](./hashicorp-vagrant.md) | ⭐ — | — | 41/100 |
 | 499 | [linsomniac/apt-cacher-ultra](./linsomniac-apt-cacher-ultra.md) | ⭐ 25 | — | 41/100 |
 | 500 | [giovantenne/nixorium](./giovantenne-nixorium.md) | ⭐ 67 | — | 41/100 |
-| 501 | [UniXNU/UniXNU](./unixnu-unixnu.md) | ⭐ 2.7k | — | 41/100 |
+| 501 | [UniXNU/UniXNU](./unixnu-unixnu.md) | ⭐ 2.8k | — | 41/100 |
 | 502 | [tanishqkancharla/tandem](./tanishqkancharla-tandem.md) | ⭐ 25 | — | 41/100 |
 | 503 | [picubedllc/terraform-provider-appleads](./picubedllc-terraform-provider-appleads.md) | ⭐ 3 | — | 41/100 |
 | 504 | [TilakMaddy/hyperindex-openinfra](./tilakmaddy-hyperindex-openinfra.md) | ⭐ 2 | — | 41/100 |
@@ -535,7 +535,7 @@
 | 525 | [SRENIX-AI/agentic-sre](./srenix-ai-agentic-sre.md) | ⭐ — | — | 41/100 |
 | 526 | [maddhruv/rasptele](./maddhruv-rasptele.md) | ⭐ — | — | 41/100 |
 | 527 | [hyturing/compose-pulse](./hyturing-compose-pulse.md) | ⭐ 9 | — | 41/100 |
-| 528 | [unihosted/unifi-os-server-docker](./unihosted-unifi-os-server-docker.md) | ⭐ 98 | — | 41/100 |
+| 528 | [unihosted/unifi-os-server-docker](./unihosted-unifi-os-server-docker.md) | ⭐ 99 | — | 41/100 |
 | 529 | [upbound/asterkube](./upbound-asterkube.md) | ⭐ — | — | 41/100 |
 | 530 | [Cloud-V-10xE/RISC-V-software](./cloud-v-10xe-risc-v-software.md) | ⭐ 3 | — | 41/100 |
 | 531 | [hrodrig/groot](./hrodrig-groot.md) | ⭐ — | — | 41/100 |

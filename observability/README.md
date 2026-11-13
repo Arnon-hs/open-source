@@ -317,7 +317,7 @@
 | 307 | [arywk40-hue/citetutor](./arywk40-hue-citetutor.md) | ⭐ — | Python | 39/100 |
 | 308 | [Rishikesh-glitch/Cloakwall-v0.1](./rishikesh-glitch-cloakwall-v0.1.md) | ⭐ 3 | — | 38/100 |
 | 309 | [llm-measurement/otelcol-genai-sketches](./llm-measurement-otelcol-genai-sketches.md) | ⭐ 5 | — | 38/100 |
-| 310 | [ykjit/yk](./ykjit-yk.md) | ⭐ 95 | — | 38/100 |
+| 310 | [ykjit/yk](./ykjit-yk.md) | ⭐ 100 | — | 38/100 |
 | 311 | [Indexxero/survivorship-demo](./indexxero-survivorship-demo.md) | ⭐ 1 | — | 38/100 |
 | 312 | [superwired-labs/Pulp](./superwired-labs-pulp.md) | ⭐ 7 | — | 38/100 |
 | 313 | [Rehanrana11/evidence-verify](./rehanrana11-evidence-verify.md) | ⭐ — | — | 38/100 |
