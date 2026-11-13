@@ -368,7 +368,7 @@
 | 358 | [redis-rs/redis-rs](./redis-rs-redis-rs.md) | ⭐ 4.3k | Rust | 46/100 |
 | 359 | [cberner/redb](./cberner-redb.md) | ⭐ 5k | Rust | 46/100 |
 | 360 | [AydenGroup/nitrobase](./aydengroup-nitrobase.md) | ⭐ 8 | TypeScript | 46/100 |
-| 361 | [relatedb/relate](./relatedb-relate.md) | ⭐ 160 | — | 45/100 |
+| 361 | [relatedb/relate](./relatedb-relate.md) | ⭐ 242 | — | 45/100 |
 | 362 | [DevLoops-ai/unified-brain](./devloops-ai-unified-brain.md) | ⭐ 34 | — | 45/100 |
 | 363 | [deedglass/deedglass](./deedglass-deedglass.md) | ⭐ 6 | — | 45/100 |
 | 364 | [objectbox/adhoc-db-benchmarks](./objectbox-adhoc-db-benchmarks.md) | ⭐ 1 | — | 45/100 |
@@ -404,7 +404,7 @@
 | 394 | [gizmodata/gizmosql](./gizmodata-gizmosql.md) | ⭐ 377 | C++ | 45/100 |
 | 395 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 45/100 |
 | 396 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.6k | — | 45/100 |
-| 397 | [tastyware/streaq](./tastyware-streaq.md) | ⭐ 172 | — | 44/100 |
+| 397 | [tastyware/streaq](./tastyware-streaq.md) | ⭐ 178 | — | 44/100 |
 | 398 | [imaradesk/doveorm](./imaradesk-doveorm.md) | ⭐ 1 | — | 44/100 |
 | 399 | [FriendsOfPHP/security-advisories](./friendsofphp-security-advisories.md) | ⭐ 2.1k | PHP | 44/100 |
 | 400 | [ismailkarsli/typesql](./ismailkarsli-typesql.md) | ⭐ 33 | — | 44/100 |
@@ -580,8 +580,8 @@
 | 570 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 571 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 572 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 107 | — | 38/100 |
-| 573 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 210 | — | 38/100 |
-| 574 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 573 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 574 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 210 | — | 38/100 |
 | 575 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 576 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 577 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

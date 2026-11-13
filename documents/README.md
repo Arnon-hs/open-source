@@ -576,7 +576,7 @@
 | 566 | [tola-rs/tola-ssg](./tola-rs-tola-ssg.md) | ⭐ 202 | Rust | 42/100 |
 | 567 | [jolars/panache](./jolars-panache.md) | ⭐ 247 | Rust | 42/100 |
 | 568 | [datalab-to/marker](./datalab-to-marker.md) | ⭐ 40.9k | — | 41/100 |
-| 569 | [szdytom/markview](./szdytom-markview.md) | ⭐ 120 | — | 41/100 |
+| 569 | [szdytom/markview](./szdytom-markview.md) | ⭐ 123 | — | 41/100 |
 | 570 | [pgrekovich/simstim](./pgrekovich-simstim.md) | ⭐ 8 | — | 41/100 |
 | 571 | [fynepdf/fynepdf-pdfa](./fynepdf-fynepdf-pdfa.md) | ⭐ 11 | — | 41/100 |
 | 572 | [hakuxyz/pdfq](./hakuxyz-pdfq.md) | ⭐ 9 | — | 41/100 |
@@ -595,7 +595,7 @@
 | 585 | [simone20a/Nook](./simone20a-nook.md) | ⭐ 27 | — | 41/100 |
 | 586 | [ConorCallanan2003/browsermd](./conorcallanan2003-browsermd.md) | ⭐ 2 | — | 41/100 |
 | 587 | [pragyaangaur/Can-It-Run-Minecraft](./pragyaangaur-can-it-run-minecraft.md) | ⭐ 4 | — | 41/100 |
-| 588 | [solancer/sarala](./solancer-sarala.md) | ⭐ 76 | — | 41/100 |
+| 588 | [solancer/sarala](./solancer-sarala.md) | ⭐ 77 | — | 41/100 |
 | 589 | [trevorah/simdown](./trevorah-simdown.md) | ⭐ 5 | — | 41/100 |
 | 590 | [armamut/md-quicklook](./armamut-md-quicklook.md) | ⭐ 14 | — | 41/100 |
 | 591 | [markdowntool/mdt](./markdowntool-mdt.md) | ⭐ 2 | — | 41/100 |
@@ -637,7 +637,7 @@
 | 627 | [Nithish-Yenaganti/shine](./nithish-yenaganti-shine.md) | ⭐ 2 | — | 41/100 |
 | 628 | [aws-samples/sample-textract-field-memory](./aws-samples-sample-textract-field-memory.md) | ⭐ 25 | — | 41/100 |
 | 629 | [FrancisMarzynski/operating-memory-public](./francismarzynski-operating-memory-public.md) | ⭐ — | — | 41/100 |
-| 630 | [skanga/mdedit](./skanga-mdedit.md) | ⭐ 7 | — | 41/100 |
+| 630 | [skanga/mdedit](./skanga-mdedit.md) | ⭐ 8 | — | 41/100 |
 | 631 | [MJrFusion/Docxion](./mjrfusion-docxion.md) | ⭐ 7 | — | 41/100 |
 | 632 | [ajithraghavan/qmd](./ajithraghavan-qmd.md) | ⭐ 7 | — | 41/100 |
 | 633 | [hahwul/hwaro](./hahwul-hwaro.md) | ⭐ 43 | — | 41/100 |
@@ -666,7 +666,7 @@
 | 656 | [cipoklean/kwota](./cipoklean-kwota.md) | ⭐ — | Python | 39/100 |
 | 657 | [shudv/easy-markdown-review-ado](./shudv-easy-markdown-review-ado.md) | ⭐ — | — | 38/100 |
 | 658 | [postnhost/postnhost](./postnhost-postnhost.md) | ⭐ 27 | — | 38/100 |
-| 659 | [tenglvjun/mktero](./tenglvjun-mktero.md) | ⭐ 92 | — | 38/100 |
+| 659 | [tenglvjun/mktero](./tenglvjun-mktero.md) | ⭐ 93 | — | 38/100 |
 | 660 | [radisvaliullin/art](./radisvaliullin-art.md) | ⭐ — | — | 38/100 |
 | 661 | [libBeresta/libBeresta](./libberesta-libberesta.md) | ⭐ 5 | — | 38/100 |
 | 662 | [mgranados/mdpreview](./mgranados-mdpreview.md) | ⭐ 5 | — | 38/100 |
@@ -714,8 +714,8 @@
 | 704 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
 | 705 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 706 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
-| 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
-| 708 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 707 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
+| 708 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
 | 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 710 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
 | 711 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |

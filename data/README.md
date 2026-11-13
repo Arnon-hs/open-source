@@ -362,7 +362,7 @@
 | 352 | [s0ck3t/uk-public-procurement-api](./s0ck3t-uk-public-procurement-api.md) | ⭐ — | — | 41/100 |
 | 353 | [bricksentry/bricksentry](./bricksentry-bricksentry.md) | ⭐ — | — | 41/100 |
 | 354 | [Flubio/KPEI](./flubio-kpei.md) | ⭐ — | — | 41/100 |
-| 355 | [aperiodic-io/tparquet](./aperiodic-io-tparquet.md) | ⭐ 4 | — | 41/100 |
+| 355 | [aperiodic-io/tparquet](./aperiodic-io-tparquet.md) | ⭐ 21 | — | 41/100 |
 | 356 | [vicena-labs/scientific-prediction-benchmark](./vicena-labs-scientific-prediction-benchmark.md) | ⭐ — | — | 41/100 |
 | 357 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ 84 | — | 41/100 |
 | 358 | [RedRiotTank/NativeJsonNavigator](./redriottank-nativejsonnavigator.md) | ⭐ 14 | — | 41/100 |

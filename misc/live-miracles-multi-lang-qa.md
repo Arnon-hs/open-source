@@ -1,6 +1,6 @@
 # live-miracles/multi-lang-qa
 
-[![Stars](https://img.shields.io/github/stars/live-miracles/multi-lang-qa?style=flat-square&color=yellow)](https://github.com/live-miracles/multi-lang-qa/stargazers) [![Forks](https://img.shields.io/github/forks/live-miracles/multi-lang-qa?style=flat-square&color=blue)](https://github.com/live-miracles/multi-lang-qa/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/live-miracles/multi-lang-qa?style=flat-square&color=yellow)](https://github.com/live-miracles/multi-lang-qa/stargazers) [![Forks](https://img.shields.io/github/forks/live-miracles/multi-lang-qa?style=flat-square&color=blue)](https://github.com/live-miracles/multi-lang-qa/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
 
 > A convenient way to take questions from multi lingual participants during a live session
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 39/100 |
+| 📈 **Score** | 40/100 |
 | 🗓️ **Last push** | 2026-11-12 |
 | 🔍 **Source** | story-link |
 
@@ -51,6 +51,7 @@ live-miracles/multi-lang-qa：live-miracles/multi-lang-qa may be useful when its
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-12
 - primary language: JavaScript
 
@@ -61,13 +62,13 @@ live-miracles/multi-lang-qa：live-miracles/multi-lang-qa may be useful when its
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 38/100 |
 | integration | 30/100 |
-| production | 55/100 |
-| outlook | 50/100 |
-| adoption | 0/100 |
+| production | 56/100 |
+| outlook | 52/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 0/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 0/100 |

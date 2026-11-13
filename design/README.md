@@ -91,7 +91,7 @@
 | 81 | [neetly/figma-agent-linux](./neetly-figma-agent-linux.md) | ⭐ 401 | Rust | 53/100 |
 | 82 | [adobe/spectrum-design-data](./adobe-spectrum-design-data.md) | ⭐ 157 | Rust | 53/100 |
 | 83 | [su2code/SU2](./su2code-su2.md) | ⭐ 1.9k | C++ | 53/100 |
-| 84 | [smokeeaasd/flawless-ui-ux](./smokeeaasd-flawless-ui-ux.md) | ⭐ 225 | — | 52/100 |
+| 84 | [smokeeaasd/flawless-ui-ux](./smokeeaasd-flawless-ui-ux.md) | ⭐ 234 | — | 52/100 |
 | 85 | [vuematerial/vue-material](./vuematerial-vue-material.md) | ⭐ 9.8k | Vue | 52/100 |
 | 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 562 | Swift | 52/100 |
 | 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.2k | Handlebars | 52/100 |
@@ -202,8 +202,8 @@
 | 192 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
 | 193 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ 2.1k | — | 38/100 |
 | 194 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ 972 | — | 38/100 |
-| 195 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ 313 | — | 38/100 |
-| 196 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ 127.2k | — | 38/100 |
+| 195 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ 314 | — | 38/100 |
+| 196 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ 127.4k | — | 38/100 |
 | 197 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ 272 | — | 38/100 |
 | 198 | [boya16573-design/Cube3.in](./boya16573-design-cube3.in.md) | ⭐ — | HTML | 36/100 |
 | 199 | [nicowilliams/4daf74a3a0c86848d3cbd9d0cdb5e26e](./nicowilliams-4daf74a3a0c86848d3cbd9d0cdb5e26e.md) | ⭐ — | — | 36/100 |

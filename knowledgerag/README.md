@@ -535,9 +535,9 @@
 | 525 | [software-mansion/react-native-executorch](./software-mansion-react-native-executorch.md) | ⭐ 1.8k | C++ | 48/100 |
 | 526 | [AjayakumarV/Qwen3Studio-LocalAI](./ajayakumarv-qwen3studio-localai.md) | ⭐ — | Python | 48/100 |
 | 527 | [dqunbp/buffera](./dqunbp-buffera.md) | ⭐ 3 | Swift | 48/100 |
-| 528 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 47/100 |
-| 529 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 47/100 |
-| 530 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 47/100 |
+| 528 | [intfloat/multilingual-e5-base](./intfloat-multilingual-e5-base.md) | ⭐ 378 | sentence-transformers | 47/100 |
+| 529 | [sentence-transformers/paraphrase-multilingual-mpnet-base-v2](./sentence-transformers-paraphrase-multilingual-mpnet-base-v2.md) | ⭐ 482 | sentence-transformers | 47/100 |
+| 530 | [nomic-ai/nomic-embed-text-v1](./nomic-ai-nomic-embed-text-v1.md) | ⭐ 579 | sentence-transformers | 47/100 |
 | 531 | [intfloat/multilingual-e5-small](./intfloat-multilingual-e5-small.md) | ⭐ 374 | sentence-transformers | 47/100 |
 | 532 | [yologdev/karpathy-llm-wiki](./yologdev-karpathy-llm-wiki.md) | ⭐ 48 | TypeScript | 47/100 |
 | 533 | [qiantongtech/qKnow](./qiantongtech-qknow.md) | ⭐ 297 | Java | 47/100 |
@@ -556,7 +556,7 @@
 | 546 | [rjcuff/woolly](./rjcuff-woolly.md) | ⭐ 8 | — | 45/100 |
 | 547 | [jshsmth/forgeframe](./jshsmth-forgeframe.md) | ⭐ 2 | TypeScript | 45/100 |
 | 548 | [ferraridavide/ragbox](./ferraridavide-ragbox.md) | ⭐ 2 | — | 45/100 |
-| 549 | [thomasunise/casecite](./thomasunise-casecite.md) | ⭐ 286 | — | 45/100 |
+| 549 | [thomasunise/casecite](./thomasunise-casecite.md) | ⭐ 289 | — | 45/100 |
 | 550 | [keylorpineda/healthycropping](./keylorpineda-healthycropping.md) | ⭐ 4 | — | 45/100 |
 | 551 | [gmaterni/ragindex](./gmaterni-ragindex.md) | ⭐ 3 | — | 45/100 |
 | 552 | [Schromeo/SledTrace](./schromeo-sledtrace.md) | ⭐ 3 | — | 45/100 |
@@ -613,7 +613,7 @@
 | 603 | [skkut/SilkStack-Image-Browser](./skkut-silkstack-image-browser.md) | ⭐ 34 | — | 41/100 |
 | 604 | [DBvdHeijden/okaeri](./dbvdheijden-okaeri.md) | ⭐ 11 | — | 41/100 |
 | 605 | [dvhar/pikeru](./dvhar-pikeru.md) | ⭐ 70 | — | 41/100 |
-| 606 | [timescale/pg_vectorsearch](./timescale-pg-vectorsearch.md) | ⭐ 437 | — | 41/100 |
+| 606 | [timescale/pg_vectorsearch](./timescale-pg-vectorsearch.md) | ⭐ 439 | — | 41/100 |
 | 607 | [miranpoor/glossdex](./miranpoor-glossdex.md) | ⭐ 6 | — | 41/100 |
 | 608 | [kuroko1t/anygrep](./kuroko1t-anygrep.md) | ⭐ 3 | — | 41/100 |
 | 609 | [karimtn/embeddingGemma2-jeff](./karimtn-embeddinggemma2-jeff.md) | ⭐ 3 | — | 41/100 |

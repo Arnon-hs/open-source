@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -370,7 +370,7 @@
 | 360 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 689 | — | 42/100 |
 | 361 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 362 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
-| 363 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |
+| 363 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 12 | — | 42/100 |
 | 364 | [2JasonP/agentpost](./2jasonp-agentpost.md) | ⭐ — | — | 42/100 |
 | 365 | [ats4321/ragit](./ats4321-ragit.md) | ⭐ 5 | — | 42/100 |
 | 366 | [Mnexa-AI/e2a](./mnexa-ai-e2a.md) | ⭐ — | — | 42/100 |
@@ -385,7 +385,7 @@
 | 375 | [VictorTaelin/uniichat](./victortaelin-uniichat.md) | ⭐ 667 | — | 41/100 |
 | 376 | [UKA-135/deepseek-long-thread-record](./uka-135-deepseek-long-thread-record.md) | ⭐ — | — | 41/100 |
 | 377 | [maelswarm/openrock](./maelswarm-openrock.md) | ⭐ 2 | — | 41/100 |
-| 378 | [sums001/OpenInbox](./sums001-openinbox.md) | ⭐ 352 | — | 41/100 |
+| 378 | [sums001/OpenInbox](./sums001-openinbox.md) | ⭐ 370 | — | 41/100 |
 | 379 | [IrondomeDev/GATES](./irondomedev-gates.md) | ⭐ 3 | — | 41/100 |
 | 380 | [HiAriesZhou/Howler](./hiarieszhou-howler.md) | ⭐ 21 | — | 41/100 |
 | 381 | [cjus/audio-chat-box](./cjus-audio-chat-box.md) | ⭐ 3 | — | 41/100 |
@@ -393,7 +393,7 @@
 | 383 | [moldandyeast/claude-computer](./moldandyeast-claude-computer.md) | ⭐ 15 | — | 41/100 |
 | 384 | [anasachouri/flowboard](./anasachouri-flowboard.md) | ⭐ 3 | — | 41/100 |
 | 385 | [lkorth/space-calendar](./lkorth-space-calendar.md) | ⭐ 12 | — | 41/100 |
-| 386 | [shuaibird/Quick-Chat](./shuaibird-quick-chat.md) | ⭐ 14 | — | 41/100 |
+| 386 | [shuaibird/Quick-Chat](./shuaibird-quick-chat.md) | ⭐ 15 | — | 41/100 |
 | 387 | [waifu-devs/fuwa](./waifu-devs-fuwa.md) | ⭐ — | — | 41/100 |
 | 388 | [cloudamqp/lavinmq-demos](./cloudamqp-lavinmq-demos.md) | ⭐ — | — | 41/100 |
 | 389 | [vercel-labs/eve-tanstack-start-template](./vercel-labs-eve-tanstack-start-template.md) | ⭐ 5 | — | 41/100 |

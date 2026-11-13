@@ -292,7 +292,7 @@
 | 282 | [snehaldutta/Dhwani](./snehaldutta-dhwani.md) | ⭐ — | — | 45/100 |
 | 283 | [AbsoluteMode/whytap](./absolutemode-whytap.md) | ⭐ 1 | — | 45/100 |
 | 284 | [Martzcode/Capricio](./martzcode-capricio.md) | ⭐ 1 | TypeScript | 45/100 |
-| 285 | [SimonSchubert/omalauncher](./simonschubert-omalauncher.md) | ⭐ 587 | — | 45/100 |
+| 285 | [SimonSchubert/omalauncher](./simonschubert-omalauncher.md) | ⭐ 593 | — | 45/100 |
 | 286 | [ntsd/pomodoro-chad](./ntsd-pomodoro-chad.md) | ⭐ — | Astro | 45/100 |
 | 287 | [dotcmdhq/dotcmd](./dotcmdhq-dotcmd.md) | ⭐ 4 | — | 45/100 |
 | 288 | [cssllcio/typeclip](./cssllcio-typeclip.md) | ⭐ 2 | — | 45/100 |
