@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15 |
+| ⭐ **Stars** | 18 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 57/100 |
@@ -52,7 +52,7 @@ manoharys/paperwall：manoharys/paperwall may be useful when its README and acti
 
 **Quality signals**
 
-- 15 GitHub stars
+- 18 GitHub stars
 - updated 2026-11-08
 - primary language: JavaScript
 - 21 topics
@@ -67,10 +67,10 @@ manoharys/paperwall：manoharys/paperwall may be useful when its README and acti
 | quality | 54/100 |
 | integration | 46/100 |
 | production | 59/100 |
-| outlook | 64/100 |
-| adoption | 18/100 |
+| outlook | 65/100 |
+| adoption | 20/100 |
 | categoryMatchCount | 200/100 |
-| stars | 26/100 |
+| stars | 27/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

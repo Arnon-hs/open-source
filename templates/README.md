@@ -494,7 +494,7 @@
 | 484 | [TrinkieYinkie/html-cv-kit](./trinkieyinkie-html-cv-kit.md) | ⭐ — | HTML | 43/100 |
 | 485 | [nunosilva-dev/letter-generator](./nunosilva-dev-letter-generator.md) | ⭐ 1 | Java | 43/100 |
 | 486 | [singap2002-code/sheetvault-free-templates](./singap2002-code-sheetvault-free-templates.md) | ⭐ — | — | 43/100 |
-| 487 | [AdityaGavit/alt-code-cheat-sheet](./adityagavit-alt-code-cheat-sheet.md) | ⭐ 4 | — | 41/100 |
+| 487 | [AdityaGavit/alt-code-cheat-sheet](./adityagavit-alt-code-cheat-sheet.md) | ⭐ 5 | — | 41/100 |
 | 488 | [let-def/texpresso](./let-def-texpresso.md) | ⭐ 817 | — | 41/100 |
 | 489 | [Staxless/staxless](./staxless-staxless.md) | ⭐ 2 | — | 41/100 |
 | 490 | [gojko/lights-on-software-factory](./gojko-lights-on-software-factory.md) | ⭐ 111 | — | 41/100 |

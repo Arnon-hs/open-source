@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 66/100 |
@@ -53,7 +53,7 @@ wiroai/Wiro-MCP：wiroai/Wiro-MCP helps connect AI assistants to real tools and 
 
 **Quality signals**
 
-- 4 GitHub stars
+- 5 GitHub stars
 - updated 2026-11-07
 - primary language: JavaScript
 - 19 topics
@@ -65,13 +65,13 @@ wiroai/Wiro-MCP：wiroai/Wiro-MCP helps connect AI assistants to real tools and 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 50/100 |
+| quality | 51/100 |
 | integration | 78/100 |
-| production | 62/100 |
+| production | 63/100 |
 | outlook | 66/100 |
-| adoption | 11/100 |
+| adoption | 12/100 |
 | categoryMatchCount | 200/100 |
-| stars | 15/100 |
+| stars | 17/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |
