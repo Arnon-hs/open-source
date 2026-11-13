@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 61 |
+| ⭐ **Stars** | 62 |
 | 🍴 **Forks** | 28 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 60/100 |
@@ -53,7 +53,7 @@ Bhala-Srinivash/nse-trading-skills：Bhala-Srinivash/nse-trading-skills helps re
 
 **Quality signals**
 
-- 61 GitHub stars
+- 62 GitHub stars
 - 28 forks
 - updated 2026-11-07
 - 26 topics
@@ -65,7 +65,7 @@ Bhala-Srinivash/nse-trading-skills：Bhala-Srinivash/nse-trading-skills helps re
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 62/100 |
+| quality | 63/100 |
 | integration | 62/100 |
 | production | 65/100 |
 | outlook | 66/100 |

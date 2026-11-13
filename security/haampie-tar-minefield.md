@@ -1,6 +1,6 @@
 # haampie/tar-minefield
 
-[![Stars](https://img.shields.io/github/stars/haampie/tar-minefield?style=flat-square&color=yellow)](https://github.com/haampie/tar-minefield/stargazers) [![Forks](https://img.shields.io/github/forks/haampie/tar-minefield?style=flat-square&color=blue)](https://github.com/haampie/tar-minefield/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haampie/tar-minefield?style=flat-square&color=yellow)](https://github.com/haampie/tar-minefield/stargazers) [![Forks](https://img.shields.io/github/forks/haampie/tar-minefield?style=flat-square&color=blue)](https://github.com/haampie/tar-minefield/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > An extensive test suite with many ambiguous tar archives
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 32 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -58,22 +58,22 @@ haampie/tar-minefield：haampie/tar-minefield helps catch security and privacy i
 - updated 2026-11-10
 - primary language: Python
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 57/100 |
+| production | 55/100 |
+| outlook | 50/100 |
 | adoption | 25/100 |
 | categoryMatchCount | 100/100 |
 | stars | 32/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

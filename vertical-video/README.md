@@ -13,7 +13,7 @@
 | 3 | [jipraks/yt-short-clipper](./jipraks-yt-short-clipper.md) | ⭐ 1.1k | TypeScript | 84/100 |
 | 4 | [IgorShadurin/app.yumcut.com](./igorshadurin-app.yumcut.com.md) | ⭐ 914 | TypeScript | 83/100 |
 | 5 | [el-frontend/video-wizard](./el-frontend-video-wizard.md) | ⭐ 18 | TypeScript | 82/100 |
-| 6 | [adityaarsharma/youtube-marketing-skills](./adityaarsharma-youtube-marketing-skills.md) | ⭐ 83 | JavaScript | 82/100 |
+| 6 | [adityaarsharma/youtube-marketing-skills](./adityaarsharma-youtube-marketing-skills.md) | ⭐ 85 | JavaScript | 82/100 |
 | 7 | [yi1108/printfilm](./yi1108-printfilm.md) | ⭐ 7.4k | Python | 82/100 |
 | 8 | [fralapo/clippyme](./fralapo-clippyme.md) | ⭐ 63 | Python | 82/100 |
 | 9 | [Hao0321/video-autopilot-kit](./hao0321-video-autopilot-kit.md) | ⭐ 2.3k | Python | 80/100 |
@@ -22,7 +22,7 @@
 | 12 | [feyzilim/clipfactory](./feyzilim-clipfactory.md) | ⭐ 106 | Python | 79/100 |
 | 13 | [xixihhhh/clipforge](./xixihhhh-clipforge.md) | ⭐ 1.3k | TypeScript | 79/100 |
 | 14 | [JeremySNR/cutawan](./jeremysnr-cutawan.md) | ⭐ 41 | TypeScript | 77/100 |
-| 15 | [openclaw-easy/ViralMint](./openclaw-easy-viralmint.md) | ⭐ 197 | Python | 77/100 |
+| 15 | [openclaw-easy/ViralMint](./openclaw-easy-viralmint.md) | ⭐ 199 | Python | 77/100 |
 | 16 | [nmbrthirteen/podcli](./nmbrthirteen-podcli.md) | ⭐ 88 | Python | 77/100 |
 | 17 | [tarai-dl/fablr](./tarai-dl-fablr.md) | ⭐ 159 | TypeScript | 76/100 |
 | 18 | [Chamanrajragu/purffle-shorts](./chamanrajragu-purffle-shorts.md) | ⭐ 74 | Python | 76/100 |
@@ -67,7 +67,7 @@
 | 57 | [sajid5669/AutoShorts-Studio](./sajid5669-autoshorts-studio.md) | ⭐ 15 | HTML | 69/100 |
 | 58 | [webkubor/reel-kit](./webkubor-reel-kit.md) | ⭐ 7 | Vue | 69/100 |
 | 59 | [outhsics/openfang-auto-clip](./outhsics-openfang-auto-clip.md) | ⭐ 38 | Python | 69/100 |
-| 60 | [krakonjac300-pixel/podcast-shorts-factory](./krakonjac300-pixel-podcast-shorts-factory.md) | ⭐ 135 | Python | 69/100 |
+| 60 | [krakonjac300-pixel/podcast-shorts-factory](./krakonjac300-pixel-podcast-shorts-factory.md) | ⭐ 137 | Python | 69/100 |
 | 61 | [orylite/lindyson-ai](./orylite-lindyson-ai.md) | ⭐ 39 | TypeScript | 68/100 |
 | 62 | [numbpill3d/ffmpeg-ai](./numbpill3d-ffmpeg-ai.md) | ⭐ 40 | Python | 68/100 |
 | 63 | [WANGLEVY9/VidForge](./wanglevy9-vidforge.md) | ⭐ 94 | TypeScript | 68/100 |
@@ -116,12 +116,12 @@
 | 106 | [ronin1770/reel-quick](./ronin1770-reel-quick.md) | ⭐ 16 | Python | 60/100 |
 | 107 | [MelonS/MelonS-Agents](./melons-melons-agents.md) | ⭐ 17 | C# | 60/100 |
 | 108 | [CharlesPikachu/videodl](./charlespikachu-videodl.md) | ⭐ 3.2k | Python | 60/100 |
-| 109 | [liuhaisi2026212-maker/taishang-laojun](./liuhaisi2026212-maker-taishang-laojun.md) | ⭐ 550 | Markdown | 59/100 |
+| 109 | [liuhaisi2026212-maker/taishang-laojun](./liuhaisi2026212-maker-taishang-laojun.md) | ⭐ 557 | Markdown | 59/100 |
 | 110 | [hanli1999/video-breakdown-skill](./hanli1999-video-breakdown-skill.md) | ⭐ 12 | — | 59/100 |
 | 111 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 5 | Python | 59/100 |
 | 112 | [kurbaitaev/ghost-editor](./kurbaitaev-ghost-editor.md) | ⭐ 433 | JavaScript | 59/100 |
 | 113 | [XshuiAi/media-publish-check](./xshuiai-media-publish-check.md) | ⭐ 73 | Python | 59/100 |
-| 114 | [SamurAIGPT/ai-clipping-generator](./samuraigpt-ai-clipping-generator.md) | ⭐ 117 | JavaScript | 59/100 |
+| 114 | [SamurAIGPT/ai-clipping-generator](./samuraigpt-ai-clipping-generator.md) | ⭐ 118 | JavaScript | 59/100 |
 | 115 | [m1ng-li/mac-thermalright-ai-monitor](./m1ng-li-mac-thermalright-ai-monitor.md) | ⭐ 61 | Swift | 59/100 |
 | 116 | [threerocks/article2media](./threerocks-article2media.md) | ⭐ 273 | JavaScript | 58/100 |
 | 117 | [DeadY2J/factreel](./deady2j-factreel.md) | ⭐ 3 | Python | 58/100 |

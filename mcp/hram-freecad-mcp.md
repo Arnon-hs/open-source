@@ -1,6 +1,6 @@
 # hram/freecad-mcp
 
-[![Stars](https://img.shields.io/github/stars/hram/freecad-mcp?style=flat-square&color=yellow)](https://github.com/hram/freecad-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/hram/freecad-mcp?style=flat-square&color=blue)](https://github.com/hram/freecad-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/hram/freecad-mcp?style=flat-square&color=yellow)](https://github.com/hram/freecad-mcp/stargazers) [![Forks](https://img.shields.io/github/forks/hram/freecad-mcp?style=flat-square&color=blue)](https://github.com/hram/freecad-mcp/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ MCP
 
 ### English
 
-hram/freecad-mcp: hram/freecad-mcp helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hram/freecad-mcp: hram/freecad-mcp helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-hram/freecad-mcp: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+hram/freecad-mcp: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-hram/freecad-mcp：hram/freecad-mcp helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+hram/freecad-mcp：hram/freecad-mcp helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ hram/freecad-mcp：hram/freecad-mcp helps connect AI assistants to real tools an
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ hram/freecad-mcp：hram/freecad-mcp helps connect AI assistants to real tools an
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 42/100 |
+| quality | 37/100 |
 | integration | 50/100 |
-| production | 55/100 |
-| outlook | 60/100 |
+| production | 49/100 |
+| outlook | 54/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

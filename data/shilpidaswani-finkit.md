@@ -1,6 +1,6 @@
 # shilpidaswani/finkit
 
-[![Stars](https://img.shields.io/github/stars/shilpidaswani/finkit?style=flat-square&color=yellow)](https://github.com/shilpidaswani/finkit/stargazers) [![Forks](https://img.shields.io/github/forks/shilpidaswani/finkit?style=flat-square&color=blue)](https://github.com/shilpidaswani/finkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/shilpidaswani/finkit?style=flat-square&color=yellow)](https://github.com/shilpidaswani/finkit/stargazers) [![Forks](https://img.shields.io/github/forks/shilpidaswani/finkit?style=flat-square&color=blue)](https://github.com/shilpidaswani/finkit/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-39%2F100-brightgreen?style=flat-square)](#)
 
 > Zero-dependency, type-safe financial math for TypeScript: time value of money, loan amortization, interest-rate conversions.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 42/100 |
+| 📈 **Score** | 39/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ shilpidaswani/finkit：shilpidaswani/finkit helps convert raw data into searchab
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 36/100 |
+| quality | 31/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 50/100 |
+| production | 51/100 |
+| outlook | 43/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

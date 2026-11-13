@@ -1,6 +1,6 @@
 # haydenschmitty/floorplan
 
-[![Stars](https://img.shields.io/github/stars/haydenschmitty/floorplan?style=flat-square&color=yellow)](https://github.com/haydenschmitty/floorplan/stargazers) [![Forks](https://img.shields.io/github/forks/haydenschmitty/floorplan?style=flat-square&color=blue)](https://github.com/haydenschmitty/floorplan/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/haydenschmitty/floorplan?style=flat-square&color=yellow)](https://github.com/haydenschmitty/floorplan/stargazers) [![Forks](https://img.shields.io/github/forks/haydenschmitty/floorplan?style=flat-square&color=blue)](https://github.com/haydenschmitty/floorplan/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-65%2F100-brightgreen?style=flat-square)](#)
 
 > See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3.9k |
 | 🍴 **Forks** | 317 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 68/100 |
+| 📈 **Score** | 65/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ haydenschmitty/floorplan：haydenschmitty/floorplan helps add AI capability with
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 83/100 |
+| quality | 78/100 |
 | integration | 46/100 |
-| production | 75/100 |
-| outlook | 82/100 |
+| production | 68/100 |
+| outlook | 75/100 |
 | adoption | 73/100 |
 | categoryMatchCount | 300/100 |
 | stars | 76/100 |
 | forks | 63/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

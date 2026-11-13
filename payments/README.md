@@ -31,7 +31,7 @@
 | 21 | [multiplex-ai/muggle-ai-works](./multiplex-ai-muggle-ai-works.md) | ⭐ 16 | TypeScript | 73/100 |
 | 22 | [VonHoltenCodes/SlowBooks-Pro-2026](./vonholtencodes-slowbooks-pro-2026.md) | ⭐ 864 | Python | 73/100 |
 | 23 | [phnx-labs/agents-cli](./phnx-labs-agents-cli.md) | ⭐ 12 | TypeScript | 73/100 |
-| 24 | [ddyy/minshop](./ddyy-minshop.md) | ⭐ 196 | TypeScript | 73/100 |
+| 24 | [ddyy/minshop](./ddyy-minshop.md) | ⭐ 197 | TypeScript | 73/100 |
 | 25 | [ivorpad/mercadona-cli](./ivorpad-mercadona-cli.md) | ⭐ 338 | Go | 73/100 |
 | 26 | [PipraPay/PipraPay](./piprapay-piprapay.md) | ⭐ 334 | PHP | 73/100 |
 | 27 | [Adyen/adyen-php-api-library](./adyen-adyen-php-api-library.md) | ⭐ 176 | PHP | 73/100 |
@@ -82,7 +82,7 @@
 | 72 | [hugoii/llm-agent-audit](./hugoii-llm-agent-audit.md) | ⭐ 62 | Python | 65/100 |
 | 73 | [zmievsa/cadwyn](./zmievsa-cadwyn.md) | ⭐ 315 | Python | 65/100 |
 | 74 | [paypal/payflow-gateway](./paypal-payflow-gateway.md) | ⭐ 98 | C# | 65/100 |
-| 75 | [own-pay/OwnPay](./own-pay-ownpay.md) | ⭐ 219 | — | 65/100 |
+| 75 | [own-pay/OwnPay](./own-pay-ownpay.md) | ⭐ 221 | — | 65/100 |
 | 76 | [dj-stripe/dj-stripe](./dj-stripe-dj-stripe.md) | ⭐ 1.8k | Python | 65/100 |
 | 77 | [elC0mpa/aws-doctor](./elc0mpa-aws-doctor.md) | ⭐ 440 | Go | 65/100 |
 | 78 | [JUk1-GH/gpt-promo-scanner](./juk1-gh-gpt-promo-scanner.md) | ⭐ 948 | Python | 65/100 |
@@ -110,7 +110,7 @@
 | 100 | [beam-community/stripity-stripe](./beam-community-stripity-stripe.md) | ⭐ 1.1k | Elixir | 63/100 |
 | 101 | [dtzp555-max/ocp](./dtzp555-max-ocp.md) | ⭐ 138 | JavaScript | 63/100 |
 | 102 | [oidsdev/agent-checkout-mcp](./oidsdev-agent-checkout-mcp.md) | ⭐ — | Python | 62/100 |
-| 103 | [epheterson/applemusic-mcp](./epheterson-applemusic-mcp.md) | ⭐ 134 | Python | 62/100 |
+| 103 | [epheterson/applemusic-mcp](./epheterson-applemusic-mcp.md) | ⭐ 135 | Python | 62/100 |
 | 104 | [spree/storefront](./spree-storefront.md) | ⭐ 74 | TypeScript | 62/100 |
 | 105 | [sub-store-org/Sub-Store](./sub-store-org-sub-store.md) | ⭐ 10.9k | JavaScript | 62/100 |
 | 106 | [capacitor-community/stripe](./capacitor-community-stripe.md) | ⭐ 248 | Kotlin | 62/100 |
@@ -135,7 +135,7 @@
 | 125 | [designAtHotly/hotly-os](./designathotly-hotly-os.md) | ⭐ 16 | TypeScript | 60/100 |
 | 126 | [AgenticFinanceGraph/agentic-finance-graph-mcp](./agenticfinancegraph-agentic-finance-graph-mcp.md) | ⭐ — | JavaScript | 60/100 |
 | 127 | [flovoice53-tech/acp-sandbox](./flovoice53-tech-acp-sandbox.md) | ⭐ — | TypeScript | 60/100 |
-| 128 | [ahmadzakiyox/gopay-api-gateaway](./ahmadzakiyox-gopay-api-gateaway.md) | ⭐ 278 | JavaScript | 60/100 |
+| 128 | [ahmadzakiyox/gopay-api-gateaway](./ahmadzakiyox-gopay-api-gateaway.md) | ⭐ 280 | JavaScript | 60/100 |
 | 129 | [eallion/uBlacklist-subscription-compilation](./eallion-ublacklist-subscription-compilation.md) | ⭐ 1.3k | Go | 60/100 |
 | 130 | [abishekmuthian/open-payment-host](./abishekmuthian-open-payment-host.md) | ⭐ 245 | Go | 60/100 |
 | 131 | [voidly-ai/voidly-pay](./voidly-ai-voidly-pay.md) | ⭐ 11 | JavaScript | 60/100 |
@@ -149,7 +149,7 @@
 | 139 | [lintangtimur/ovoid](./lintangtimur-ovoid.md) | ⭐ 171 | PHP | 59/100 |
 | 140 | [x402-foundation/x402](./x402-foundation-x402.md) | ⭐ 6.8k | TypeScript | 59/100 |
 | 141 | [awesomemotive/easy-digital-downloads](./awesomemotive-easy-digital-downloads.md) | ⭐ 895 | PHP | 59/100 |
-| 142 | [aelassas/wexcommerce](./aelassas-wexcommerce.md) | ⭐ 92 | TypeScript | 59/100 |
+| 142 | [aelassas/wexcommerce](./aelassas-wexcommerce.md) | ⭐ 93 | TypeScript | 59/100 |
 | 143 | [DEEIX-AI/DEEIX-Chat](./deeix-ai-deeix-chat.md) | ⭐ 1.6k | Go | 59/100 |
 | 144 | [juks/iso-8583-socket-queue](./juks-iso-8583-socket-queue.md) | ⭐ 217 | JavaScript | 59/100 |
 | 145 | [django-getpaid/django-getpaid](./django-getpaid-django-getpaid.md) | ⭐ 448 | Python | 59/100 |
@@ -234,8 +234,8 @@
 | 224 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 186 | PHP | 54/100 |
 | 225 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.8k | TypeScript | 54/100 |
 | 226 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 576 | — | 53/100 |
-| 228 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 670 | — | 53/100 |
+| 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 670 | — | 53/100 |
+| 228 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 576 | — | 53/100 |
 | 229 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 230 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 231 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 89 | Rust | 53/100 |
@@ -281,13 +281,13 @@
 | 271 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 60 | Rust | 50/100 |
 | 272 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 50/100 |
 | 273 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 224 | Rust | 50/100 |
-| 274 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
-| 275 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
+| 274 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
+| 275 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
 | 276 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 277 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 278 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 182 | HTML | 50/100 |
-| 279 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
-| 280 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 279 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 280 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 281 | [SirGrokkius/bot-agora](./sirgrokkius-bot-agora.md) | ⭐ — | HTML | 50/100 |
 | 282 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 283 | [FetchDoge/permit](./fetchdoge-permit.md) | ⭐ — | Python | 49/100 |

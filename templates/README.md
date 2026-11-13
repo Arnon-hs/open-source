@@ -32,7 +32,7 @@
 | 22 | [wuyoscar/GPT-Image2-Skill](./wuyoscar-gpt-image2-skill.md) | ⭐ 6.1k | Python | 82/100 |
 | 23 | [danny-avila/LibreChat](./danny-avila-librechat.md) | ⭐ 36.7k | TypeScript | 82/100 |
 | 24 | [8gears/n8n-helm-chart](./8gears-n8n-helm-chart.md) | ⭐ 709 | Go Template | 81/100 |
-| 25 | [gizmax/Sandcastle](./gizmax-sandcastle.md) | ⭐ 90 | Python | 81/100 |
+| 25 | [gizmax/Sandcastle](./gizmax-sandcastle.md) | ⭐ 91 | Python | 81/100 |
 | 26 | [KhazP/vibe-coding-prompt-template](./khazp-vibe-coding-prompt-template.md) | ⭐ 3.3k | Python | 81/100 |
 | 27 | [kangarooking/cangjie-skill](./kangarooking-cangjie-skill.md) | ⭐ 12.8k | Python | 81/100 |
 | 28 | [NextAdminHQ/nextjs-admin-dashboard](./nextadminhq-nextjs-admin-dashboard.md) | ⭐ 609 | TypeScript | 81/100 |
@@ -53,7 +53,7 @@
 | 43 | [iniwap/AIWriteX](./iniwap-aiwritex.md) | ⭐ 2.3k | Python | 80/100 |
 | 44 | [Quicksi-CLI/quicksiCLI](./quicksi-cli-quicksicli.md) | ⭐ 100 | TypeScript | 80/100 |
 | 45 | [AterDev/Perigon.CLI](./aterdev-perigon.cli.md) | ⭐ 54 | C# | 80/100 |
-| 46 | [bnomei/kirby-mcp](./bnomei-kirby-mcp.md) | ⭐ 69 | PHP | 80/100 |
+| 46 | [bnomei/kirby-mcp](./bnomei-kirby-mcp.md) | ⭐ 70 | PHP | 80/100 |
 | 47 | [syahiidkamil/Software-Engineer-AI-Agent-Atlas](./syahiidkamil-software-engineer-ai-agent-atlas.md) | ⭐ 406 | Python | 80/100 |
 | 48 | [juancarlospaco/awesome-streaming-tools](./juancarlospaco-awesome-streaming-tools.md) | ⭐ 397 | — | 80/100 |
 | 49 | [solana-foundation/create-solana-dapp](./solana-foundation-create-solana-dapp.md) | ⭐ 655 | TypeScript | 79/100 |
@@ -128,7 +128,7 @@
 | 118 | [a5chin/python-uv](./a5chin-python-uv.md) | ⭐ 373 | Python | 73/100 |
 | 119 | [Camelcade/Perl5-IDEA](./camelcade-perl5-idea.md) | ⭐ 421 | Java | 73/100 |
 | 120 | [h5bp/html5-boilerplate](./h5bp-html5-boilerplate.md) | ⭐ 57.7k | JavaScript | 73/100 |
-| 121 | [killertcell428/aigis](./killertcell428-aigis.md) | ⭐ 54 | Python | 73/100 |
+| 121 | [killertcell428/aigis](./killertcell428-aigis.md) | ⭐ 53 | Python | 73/100 |
 | 122 | [spences10/my-pi](./spences10-my-pi.md) | ⭐ 139 | TypeScript | 73/100 |
 | 123 | [AndrewAltimit/template-repo](./andrewaltimit-template-repo.md) | ⭐ 136 | Rust | 73/100 |
 | 124 | [serpro69/claude-toolbox](./serpro69-claude-toolbox.md) | ⭐ 155 | Shell | 73/100 |
@@ -204,7 +204,7 @@
 | 194 | [hoangnb24/repository-harness](./hoangnb24-repository-harness.md) | ⭐ 1.3k | Rust | 69/100 |
 | 195 | [golang-templates/seed](./golang-templates-seed.md) | ⭐ 566 | Makefile | 69/100 |
 | 196 | [pilinux/gorest](./pilinux-gorest.md) | ⭐ 508 | Go | 69/100 |
-| 197 | [ai-driven-dev/framework](./ai-driven-dev-framework.md) | ⭐ 555 | JavaScript | 69/100 |
+| 197 | [ai-driven-dev/framework](./ai-driven-dev-framework.md) | ⭐ 556 | JavaScript | 69/100 |
 | 198 | [sveltejs/svelte](./sveltejs-svelte.md) | ⭐ 88.7k | JavaScript | 69/100 |
 | 199 | [AlekseiUL/agentforge-openclaw](./alekseiul-agentforge-openclaw.md) | ⭐ 44 | — | 69/100 |
 | 200 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 977 | Go Template | 69/100 |
@@ -213,7 +213,7 @@
 | 203 | [n8n-io/self-hosted-ai-starter-kit](./n8n-io-self-hosted-ai-starter-kit.md) | ⭐ 15.4k | — | 68/100 |
 | 204 | [fabwaseem/forgekit](./fabwaseem-forgekit.md) | ⭐ — | TypeScript | 68/100 |
 | 205 | [MinaSaad1/n8n-ai-agents](./minasaad1-n8n-ai-agents.md) | ⭐ 13 | — | 68/100 |
-| 206 | [ZSeven-W/dsh-crew](./zseven-w-dsh-crew.md) | ⭐ 211 | JavaScript | 68/100 |
+| 206 | [ZSeven-W/dsh-crew](./zseven-w-dsh-crew.md) | ⭐ 212 | JavaScript | 68/100 |
 | 207 | [Naresh-Khatri/3d-portfolio](./naresh-khatri-3d-portfolio.md) | ⭐ 1.4k | TypeScript | 68/100 |
 | 208 | [egvijayanand/dotnet-maui-templates](./egvijayanand-dotnet-maui-templates.md) | ⭐ 217 | C# | 68/100 |
 | 209 | [sudara/awesome-juce](./sudara-awesome-juce.md) | ⭐ 1.4k | Ruby | 68/100 |

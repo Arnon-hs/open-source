@@ -1,6 +1,6 @@
 # openwt-vn/owlet-lens
 
-[![Stars](https://img.shields.io/github/stars/openwt-vn/owlet-lens?style=flat-square&color=yellow)](https://github.com/openwt-vn/owlet-lens/stargazers) [![Forks](https://img.shields.io/github/forks/openwt-vn/owlet-lens?style=flat-square&color=blue)](https://github.com/openwt-vn/owlet-lens/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/openwt-vn/owlet-lens?style=flat-square&color=yellow)](https://github.com/openwt-vn/owlet-lens/stargazers) [![Forks](https://img.shields.io/github/forks/openwt-vn/owlet-lens?style=flat-square&color=blue)](https://github.com/openwt-vn/owlet-lens/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
 
 > AI code review for pull requests: findings as review threads, replies understood, fixed threads closed. GitHub, GitLab, Bitbucket Cloud, Azure DevOps.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5 |
+| ⭐ **Stars** | 21 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ openwt-vn/owlet-lens：openwt-vn/owlet-lens helps add AI capability without star
 
 **Quality signals**
 
-- 5 GitHub stars
+- 21 GitHub stars
 - 1 forks
 - updated 2026-11-11
 - primary language: JavaScript
@@ -66,13 +66,13 @@ openwt-vn/owlet-lens：openwt-vn/owlet-lens helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 57/100 |
+| quality | 61/100 |
 | integration | 30/100 |
-| production | 63/100 |
-| outlook | 67/100 |
-| adoption | 14/100 |
+| production | 64/100 |
+| outlook | 69/100 |
+| adoption | 23/100 |
 | categoryMatchCount | 400/100 |
-| stars | 17/100 |
+| stars | 29/100 |
 | forks | 8/100 |
 | recency | 100/100 |
 | topics | 100/100 |

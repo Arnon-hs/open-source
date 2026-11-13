@@ -1,6 +1,6 @@
 # caivra-tech/caivra-repo-gallery
 
-[![Stars](https://img.shields.io/github/stars/caivra-tech/caivra-repo-gallery?style=flat-square&color=yellow)](https://github.com/caivra-tech/caivra-repo-gallery/stargazers) [![Forks](https://img.shields.io/github/forks/caivra-tech/caivra-repo-gallery?style=flat-square&color=blue)](https://github.com/caivra-tech/caivra-repo-gallery/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-53%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/caivra-tech/caivra-repo-gallery?style=flat-square&color=yellow)](https://github.com/caivra-tech/caivra-repo-gallery/stargazers) [![Forks](https://img.shields.io/github/forks/caivra-tech/caivra-repo-gallery?style=flat-square&color=blue)](https://github.com/caivra-tech/caivra-repo-gallery/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > Free, MIT-licensed GitHub repository gallery with public profile browsing, search, filters, sorting, and shareable links. By Caivra Tech LLC.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 53/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-10-30 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Backend · DevTools
 
 ### English
 
-caivra-tech/caivra-repo-gallery: caivra-tech/caivra-repo-gallery helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+caivra-tech/caivra-repo-gallery: caivra-tech/caivra-repo-gallery helps teams reuse service infrastructure instead of rebuilding common backend pieces.. Use it for ship API services faster; reuse backend infrastructure. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-caivra-tech/caivra-repo-gallery: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+caivra-tech/caivra-repo-gallery: open-source проект в категориях Backend, DevTools. Практическое применение: ship API services faster; reuse backend infrastructure. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-caivra-tech/caivra-repo-gallery：caivra-tech/caivra-repo-gallery helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+caivra-tech/caivra-repo-gallery：caivra-tech/caivra-repo-gallery helps teams reuse service infrastructure instead of rebuilding common backend pieces.。适合用于ship API services faster、reuse backend infrastructure。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ caivra-tech/caivra-repo-gallery：caivra-tech/caivra-repo-gallery helps teams re
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -57,22 +57,22 @@ caivra-tech/caivra-repo-gallery：caivra-tech/caivra-repo-gallery helps teams re
 - primary language: HTML
 - 11 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 45/100 |
+| quality | 41/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 60/100 |
+| production | 50/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

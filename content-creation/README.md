@@ -33,7 +33,7 @@
 | 23 | [heygen-com/heygen-cli](./heygen-com-heygen-cli.md) | ⭐ 174 | Go | 74/100 |
 | 24 | [vaaya-ai/vaaya-mcp](./vaaya-ai-vaaya-mcp.md) | ⭐ 44 | Shell | 74/100 |
 | 25 | [gongxings/ai-creator](./gongxings-ai-creator.md) | ⭐ 93 | Python | 74/100 |
-| 26 | [fendouai/ViralForge](./fendouai-viralforge.md) | ⭐ 11 | TypeScript | 73/100 |
+| 26 | [fendouai/ViralForge](./fendouai-viralforge.md) | ⭐ 70 | TypeScript | 73/100 |
 | 27 | [aman179102/podvoice](./aman179102-podvoice.md) | ⭐ 39 | Python | 73/100 |
 | 28 | [claude-world/claude-world-studio](./claude-world-claude-world-studio.md) | ⭐ 71 | TypeScript | 73/100 |
 | 29 | [EvoLinkAI/awesome-seedance-2.5-guide](./evolinkai-awesome-seedance-2.5-guide.md) | ⭐ 392 | Shell | 73/100 |
@@ -58,7 +58,7 @@
 | 48 | [social-media-skills/skills](./social-media-skills-skills.md) | ⭐ 299 | Shell | 69/100 |
 | 49 | [phpList/phplist3](./phplist-phplist3.md) | ⭐ 883 | PHP | 69/100 |
 | 50 | [zth0828/mmx-mcp-server](./zth0828-mmx-mcp-server.md) | ⭐ 30 | JavaScript | 69/100 |
-| 51 | [stabgan/openrouter-mcp-multimodal](./stabgan-openrouter-mcp-multimodal.md) | ⭐ 102 | TypeScript | 69/100 |
+| 51 | [stabgan/openrouter-mcp-multimodal](./stabgan-openrouter-mcp-multimodal.md) | ⭐ 103 | TypeScript | 69/100 |
 | 52 | [Anil-matcha/Open-Generative-AI](./anil-matcha-open-generative-ai.md) | ⭐ 34.3k | JavaScript | 69/100 |
 | 53 | [utensils/mold](./utensils-mold.md) | ⭐ 57 | Rust | 68/100 |
 | 54 | [Kuhakucai/douyin-mcp](./kuhakucai-douyin-mcp.md) | ⭐ 90 | Python | 68/100 |
@@ -102,7 +102,7 @@
 | 92 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
 | 93 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 22 | Python | 61/100 |
 | 94 | [Wan-Video/Wan2.2](./wan-video-wan2.2.md) | ⭐ 18.6k | Python | 60/100 |
-| 95 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 208 | — | 60/100 |
+| 95 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 210 | — | 60/100 |
 | 96 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 158 | Vue | 60/100 |
 | 97 | [WaveSpeedAI/mcp-server](./wavespeedai-mcp-server.md) | ⭐ 36 | TypeScript | 59/100 |
 | 98 | [rolfie-han/YoLuster-shorts](./rolfie-han-yoluster-shorts.md) | ⭐ 296 | HTML | 59/100 |
@@ -133,7 +133,7 @@
 | 123 | [worldbench/awesome-agentic-world-model](./worldbench-awesome-agentic-world-model.md) | ⭐ 68 | HTML | 53/100 |
 | 124 | [PrismPoster/creator-tools](./prismposter-creator-tools.md) | ⭐ 1 | — | 52/100 |
 | 125 | [MixItUpBot/Desktop](./mixitupbot-desktop.md) | ⭐ 38 | C# | 51/100 |
-| 126 | [SamurAIGPT/seedance-2-generator](./samuraigpt-seedance-2-generator.md) | ⭐ 103 | JavaScript | 51/100 |
+| 126 | [SamurAIGPT/seedance-2-generator](./samuraigpt-seedance-2-generator.md) | ⭐ 104 | JavaScript | 51/100 |
 | 127 | [Gleaming0427/repoweek](./gleaming0427-repoweek.md) | ⭐ 1 | JavaScript | 50/100 |
 | 128 | [contraptionco/postcard](./contraptionco-postcard.md) | ⭐ 603 | Ruby | 50/100 |
 | 129 | [voxell-tech/velyst](./voxell-tech-velyst.md) | ⭐ 272 | Rust | 50/100 |
@@ -158,7 +158,7 @@
 | 148 | [Comfy-Org/Wan_2.2_ComfyUI_Repackaged](./comfy-org-wan-2.2-comfyui-repackaged.md) | ⭐ 842 | diffusion-single-file | 45/100 |
 | 149 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
 | 150 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
-| 151 | [hci-yeo/AdaptiveAgentAvatar](./hci-yeo-adaptiveagentavatar.md) | ⭐ — | — | 44/100 |
+| 151 | [hci-yeo/AdaptiveAgentAvatar](./hci-yeo-adaptiveagentavatar.md) | ⭐ 4 | — | 44/100 |
 | 152 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
 | 153 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
 | 154 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 358 | — | 43/100 |
@@ -183,8 +183,8 @@
 | 173 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 174 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 175 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 176 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 177 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 176 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 177 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
 | 178 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 179 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 

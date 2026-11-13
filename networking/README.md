@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 785 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 564 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
-| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.4k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -180,7 +180,7 @@
 | 170 | [shopify/toxiproxy](./shopify-toxiproxy.md) | ⭐ 12.5k | Go | 63/100 |
 | 171 | [shouravx/PeekESP](./shouravx-peekesp.md) | ⭐ — | Python | 63/100 |
 | 172 | [kubernetes-sigs/apiserver-network-proxy](./kubernetes-sigs-apiserver-network-proxy.md) | ⭐ 460 | Go | 63/100 |
-| 173 | [zentinelproxy/zentinel](./zentinelproxy-zentinel.md) | ⭐ 122 | Rust | 63/100 |
+| 173 | [zentinelproxy/zentinel](./zentinelproxy-zentinel.md) | ⭐ 123 | Rust | 63/100 |
 | 174 | [nginx-proxy/docker-gen](./nginx-proxy-docker-gen.md) | ⭐ 4.6k | Go | 63/100 |
 | 175 | [NewFuture/DDNS](./newfuture-ddns.md) | ⭐ 4.7k | Python | 63/100 |
 | 176 | [SIA-IOTechnology/Kittysploit-framework](./sia-iotechnology-kittysploit-framework.md) | ⭐ 634 | Python | 63/100 |
