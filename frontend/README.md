@@ -169,7 +169,7 @@
 | 159 | [KunMoe/kun-galgame-forum](./kunmoe-kun-galgame-forum.md) | ⭐ 2.3k | Go | 67/100 |
 | 160 | [casosorg/casos](./casosorg-casos.md) | ⭐ 1.4k | JavaScript | 67/100 |
 | 161 | [israel-dryer/ttkbootstrap](./israel-dryer-ttkbootstrap.md) | ⭐ 2.7k | Python | 67/100 |
-| 162 | [vorssaint/vorssaint-utils](./vorssaint-vorssaint-utils.md) | ⭐ 34.3k | Swift | 67/100 |
+| 162 | [vorssaint/vorssaint-utils](./vorssaint-vorssaint-utils.md) | ⭐ 34.5k | Swift | 67/100 |
 | 163 | [TanStack/table](./tanstack-table.md) | ⭐ 28.6k | TypeScript | 67/100 |
 | 164 | [openMF/web-app](./openmf-web-app.md) | ⭐ 398 | TypeScript | 67/100 |
 | 165 | [TEAMMATES/teammates](./teammates-teammates.md) | ⭐ 1.9k | Java | 67/100 |
@@ -179,7 +179,7 @@
 | 169 | [denho/faved](./denho-faved.md) | ⭐ 1.4k | TypeScript | 67/100 |
 | 170 | [opf/openproject](./opf-openproject.md) | ⭐ 17.3k | Ruby | 67/100 |
 | 171 | [SAPTARSHI-coder/EaseMotion-css](./saptarshi-coder-easemotion-css.md) | ⭐ 1 | HTML | 67/100 |
-| 172 | [lingdojo/kana-dojo](./lingdojo-kana-dojo.md) | ⭐ 3.8k | TypeScript | 67/100 |
+| 172 | [lingdojo/kana-dojo](./lingdojo-kana-dojo.md) | ⭐ 3.9k | TypeScript | 67/100 |
 | 173 | [Rabithua/Rote](./rabithua-rote.md) | ⭐ 1.1k | TypeScript | 67/100 |
 | 174 | [krayin/laravel-crm](./krayin-laravel-crm.md) | ⭐ 24.1k | Blade | 67/100 |
 | 175 | [elastic/eui](./elastic-eui.md) | ⭐ 6.4k | TypeScript | 67/100 |
@@ -486,8 +486,8 @@
 | 476 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 477 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
 | 478 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 298 | Rust | 60/100 |
-| 479 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
-| 480 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 479 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 480 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
 | 481 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.8k | TypeScript | 60/100 |
 | 482 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 366 | Go | 60/100 |
 | 483 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
@@ -559,7 +559,7 @@
 | 549 | [penpot/penpot](./penpot-penpot.md) | ⭐ 62.3k | Clojure | 59/100 |
 | 550 | [oven-sh/bun](./oven-sh-bun.md) | ⭐ 96.7k | Zig | 59/100 |
 | 551 | [measure-sh/measure](./measure-sh-measure.md) | ⭐ 1.4k | TypeScript | 59/100 |
-| 552 | [aaronsuns/melarka](./aaronsuns-melarka.md) | ⭐ 13 | Go | 59/100 |
+| 552 | [aaronsuns/melarka](./aaronsuns-melarka.md) | ⭐ 19 | Go | 59/100 |
 | 553 | [amannn/next-intl](./amannn-next-intl.md) | ⭐ 4.4k | TypeScript | 58/100 |
 | 554 | [AnmolSaini16/mapcn](./anmolsaini16-mapcn.md) | ⭐ 12.4k | TypeScript | 58/100 |
 | 555 | [cartesiancs/map3d](./cartesiancs-map3d.md) | ⭐ 2.7k | TypeScript | 58/100 |

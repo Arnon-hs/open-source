@@ -18,7 +18,7 @@
 | 8 | [agenttools/headroom](./agenttools-headroom.md) | ⭐ — | — | 45/100 |
 | 9 | [AdamTuraj/StudPrint](./adamturaj-studprint.md) | ⭐ 18 | — | 44/100 |
 | 10 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
-| 11 | [saystreet/demo](./saystreet-demo.md) | ⭐ — | — | 41/100 |
+| 11 | [saystreet/demo](./saystreet-demo.md) | ⭐ 1 | — | 41/100 |
 | 12 | [simpsoka/zigzag](./simpsoka-zigzag.md) | ⭐ 58 | — | 41/100 |
 | 13 | [ckaico/backtalk](./ckaico-backtalk.md) | ⭐ 1 | — | 41/100 |
 | 14 | [jessn-dev/jobDork](./jessn-dev-jobdork.md) | ⭐ 3 | — | 41/100 |

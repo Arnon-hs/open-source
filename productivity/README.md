@@ -17,7 +17,7 @@
 | 7 | [tiddly-gittly/TidGi-Desktop](./tiddly-gittly-tidgi-desktop.md) | ⭐ 2k | TypeScript | 76/100 |
 | 8 | [ankitpokhrel/jira-cli](./ankitpokhrel-jira-cli.md) | ⭐ 6.1k | Go | 75/100 |
 | 9 | [Ketbome/minepanel](./ketbome-minepanel.md) | ⭐ 286 | TypeScript | 75/100 |
-| 10 | [AlexanderPro/SmartSystemMenu](./alexanderpro-smartsystemmenu.md) | ⭐ 3.3k | C# | 75/100 |
+| 10 | [AlexanderPro/SmartSystemMenu](./alexanderpro-smartsystemmenu.md) | ⭐ 3.4k | C# | 75/100 |
 | 11 | [awslabs/tecli](./awslabs-tecli.md) | ⭐ 219 | Go | 75/100 |
 | 12 | [jeffreytse/zsh-vi-mode](./jeffreytse-zsh-vi-mode.md) | ⭐ 4.5k | Shell | 74/100 |
 | 13 | [responsively-org/responsively-app](./responsively-org-responsively-app.md) | ⭐ 25.5k | TypeScript | 74/100 |

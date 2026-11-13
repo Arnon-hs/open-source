@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [szczyglis-dev/py-gpt](./szczyglis-dev-py-gpt.md) | ⭐ 2k | Python | 84/100 |
-| 2 | [SamurAIGPT/Generative-Media-Skills](./samuraigpt-generative-media-skills.md) | ⭐ 38 | Shell | 84/100 |
+| 2 | [SamurAIGPT/Generative-Media-Skills](./samuraigpt-generative-media-skills.md) | ⭐ 39 | Shell | 84/100 |
 | 3 | [ma2za/python-substack](./ma2za-python-substack.md) | ⭐ 184 | Python | 83/100 |
 | 4 | [kodelyx/flow-agent](./kodelyx-flow-agent.md) | ⭐ 265 | Python | 82/100 |
 | 5 | [SamurAIGPT/muapi-cli](./samuraigpt-muapi-cli.md) | ⭐ 17 | Python | 82/100 |
@@ -120,7 +120,7 @@
 | 110 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 890 | Rust | 56/100 |
 | 111 | [YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill](./youmind-openlab-nano-banana-pro-prompts-recommend-skill.md) | ⭐ 1.9k | TypeScript | 56/100 |
 | 112 | [serenakeyitan/awesome-ai-clonable-launch-videos](./serenakeyitan-awesome-ai-clonable-launch-videos.md) | ⭐ 21 | JavaScript | 55/100 |
-| 113 | [wide-trace/open-higgsfield](./wide-trace-open-higgsfield.md) | ⭐ 5.7k | TypeScript | 55/100 |
+| 113 | [wide-trace/open-higgsfield](./wide-trace-open-higgsfield.md) | ⭐ 5.8k | TypeScript | 55/100 |
 | 114 | [doka-guide/content](./doka-guide-content.md) | ⭐ 1.5k | HTML | 55/100 |
 | 115 | [chinesehuazhou/python-weekly](./chinesehuazhou-python-weekly.md) | ⭐ 1.9k | TypeScript | 55/100 |
 | 116 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 55/100 |

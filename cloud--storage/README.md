@@ -211,7 +211,7 @@
 | 201 | [Azure/aztfexport](./azure-aztfexport.md) | ⭐ 1.9k | Go | 64/100 |
 | 202 | [mogenius/renovate-operator](./mogenius-renovate-operator.md) | ⭐ 630 | Go | 64/100 |
 | 203 | [transferia/transferia](./transferia-transferia.md) | ⭐ 198 | Go | 64/100 |
-| 204 | [oxsecurity/megalinter](./oxsecurity-megalinter.md) | ⭐ 2.6k | Dockerfile | 64/100 |
+| 204 | [oxsecurity/megalinter](./oxsecurity-megalinter.md) | ⭐ 2.7k | Dockerfile | 64/100 |
 | 205 | [mxsm/rocketmq-rust](./mxsm-rocketmq-rust.md) | ⭐ 1.5k | Rust | 64/100 |
 | 206 | [firecracker-microvm/firecracker](./firecracker-microvm-firecracker.md) | ⭐ 34.2k | Rust | 64/100 |
 | 207 | [microsoft/aspire.dev](./microsoft-aspire.dev.md) | ⭐ 203 | MDX | 64/100 |
@@ -341,8 +341,8 @@
 | 331 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 332 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 333 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 334 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
-| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 334 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
 | 336 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 337 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 338 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |

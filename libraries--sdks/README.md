@@ -87,7 +87,7 @@
 | 77 | [celestiaorg/celestia-app](./celestiaorg-celestia-app.md) | ⭐ 421 | Go | 64/100 |
 | 78 | [xybp888/iOS-SDKs](./xybp888-ios-sdks.md) | ⭐ 925 | Objective-C | 64/100 |
 | 79 | [DataDog/dd-trace-rb](./datadog-dd-trace-rb.md) | ⭐ 419 | Ruby | 64/100 |
-| 80 | [TanStack/ai](./tanstack-ai.md) | ⭐ 3.3k | TypeScript | 64/100 |
+| 80 | [TanStack/ai](./tanstack-ai.md) | ⭐ 3.4k | TypeScript | 64/100 |
 | 81 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 8k | Python | 64/100 |
 | 82 | [bytecodealliance/rustix](./bytecodealliance-rustix.md) | ⭐ 2.2k | Rust | 63/100 |
 | 83 | [supabase/supabase-swift](./supabase-supabase-swift.md) | ⭐ 1.3k | Swift | 63/100 |
