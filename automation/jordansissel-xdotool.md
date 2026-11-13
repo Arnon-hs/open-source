@@ -53,7 +53,7 @@ jordansissel/xdotool：jordansissel/xdotool helps remove repetitive manual opera
 
 **Quality signals**
 
-- 3876 GitHub stars
+- 3877 GitHub stars
 - 349 forks
 - updated 2026-09-20
 - primary language: C

@@ -151,7 +151,7 @@
 | 141 | [josh99smith/youtube-scraper](./josh99smith-youtube-scraper.md) | ⭐ — | — | 45/100 |
 | 142 | [ShadowKingYT444/unglazed](./shadowkingyt444-unglazed.md) | ⭐ 1 | — | 45/100 |
 | 143 | [lettercamp/lettercamp](./lettercamp-lettercamp.md) | ⭐ 3 | — | 45/100 |
-| 144 | [MaxonT/aisync](./maxont-aisync.md) | ⭐ 38 | — | 45/100 |
+| 144 | [MaxonT/aisync](./maxont-aisync.md) | ⭐ 43 | — | 45/100 |
 | 145 | [GoogleChrome/modern-web-guidance](./googlechrome-modern-web-guidance.md) | ⭐ 10.4k | — | 45/100 |
 | 146 | [bquenin/qitt](./bquenin-qitt.md) | ⭐ 2 | — | 45/100 |
 | 147 | [Comfy-Org/Wan-2.2](./comfy-org-wan-2.2.md) | ⭐ 963 | diffusion-single-file | 45/100 |
@@ -169,7 +169,7 @@
 | 159 | [PeterPorzuczek/gifbit](./peterporzuczek-gifbit.md) | ⭐ 1 | — | 41/100 |
 | 160 | [eon-io/era](./eon-io-era.md) | ⭐ 9 | — | 41/100 |
 | 161 | [twobitapps/nvidia-headlines-ethics-2026](./twobitapps-nvidia-headlines-ethics-2026.md) | ⭐ — | — | 41/100 |
-| 162 | [peterhudson/timegrapher](./peterhudson-timegrapher.md) | ⭐ 23 | — | 41/100 |
+| 162 | [peterhudson/timegrapher](./peterhudson-timegrapher.md) | ⭐ 24 | — | 41/100 |
 | 163 | [occiderunt/netstudy-mac](./occiderunt-netstudy-mac.md) | ⭐ — | — | 41/100 |
 | 164 | [maths-oliveira/blabla-meter](./maths-oliveira-blabla-meter.md) | ⭐ — | — | 41/100 |
 | 165 | [worldlabsai/atlas-camera-studio](./worldlabsai-atlas-camera-studio.md) | ⭐ 74 | — | 41/100 |
@@ -185,8 +185,8 @@
 | 175 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 176 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 177 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 178 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 179 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 178 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 179 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
 | 180 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 181 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 
