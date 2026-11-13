@@ -429,7 +429,7 @@
 | 419 | [nwnuyhs/flatbb](./nwnuyhs-flatbb.md) | ⭐ — | PHP | 42/100 |
 | 420 | [polycore/pg-dry-run](./polycore-pg-dry-run.md) | ⭐ 11 | — | 42/100 |
 | 421 | [sovantica/engrava](./sovantica-engrava.md) | ⭐ 12 | — | 42/100 |
-| 422 | [pigontech/inkvoice](./pigontech-inkvoice.md) | ⭐ 39 | — | 42/100 |
+| 422 | [pigontech/inkvoice](./pigontech-inkvoice.md) | ⭐ 41 | — | 42/100 |
 | 423 | [Zulwatha/vardiya](./zulwatha-vardiya.md) | ⭐ 10 | — | 42/100 |
 | 424 | [asg017/sqlite-jiff](./asg017-sqlite-jiff.md) | ⭐ 107 | Rust | 42/100 |
 | 425 | [xyb/worklog](./xyb-worklog.md) | ⭐ 4 | — | 42/100 |
@@ -453,7 +453,7 @@
 | 443 | [ayeshrodz/slonbase](./ayeshrodz-slonbase.md) | ⭐ 5 | — | 41/100 |
 | 444 | [vighnesh-bheed/eski](./vighnesh-bheed-eski.md) | ⭐ 2 | — | 41/100 |
 | 445 | [sidsri14/resilient-ai-worker-kit](./sidsri14-resilient-ai-worker-kit.md) | ⭐ — | — | 41/100 |
-| 446 | [ndrean/ZeBridge](./ndrean-zebridge.md) | ⭐ 42 | — | 41/100 |
+| 446 | [ndrean/ZeBridge](./ndrean-zebridge.md) | ⭐ 43 | — | 41/100 |
 | 447 | [4yk5/GhostBase](./4yk5-ghostbase.md) | ⭐ 7 | — | 41/100 |
 | 448 | [srdzank/WinSQLite-Editor](./srdzank-winsqlite-editor.md) | ⭐ 23 | — | 41/100 |
 | 449 | [Dem1241/slotwatch](./dem1241-slotwatch.md) | ⭐ 5 | — | 41/100 |
@@ -580,8 +580,8 @@
 | 570 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 571 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 572 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 107 | — | 38/100 |
-| 573 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
-| 574 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 210 | — | 38/100 |
+| 573 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 210 | — | 38/100 |
+| 574 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
 | 575 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 576 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 577 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

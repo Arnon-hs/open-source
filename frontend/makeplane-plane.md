@@ -1,6 +1,6 @@
 # makeplane/plane
 
-[![Stars](https://img.shields.io/github/stars/makeplane/plane?style=flat-square&color=yellow)](https://github.com/makeplane/plane/stargazers) [![Forks](https://img.shields.io/github/forks/makeplane/plane?style=flat-square&color=blue)](https://github.com/makeplane/plane/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-85%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/makeplane/plane?style=flat-square&color=yellow)](https://github.com/makeplane/plane/stargazers) [![Forks](https://img.shields.io/github/forks/makeplane/plane?style=flat-square&color=blue)](https://github.com/makeplane/plane/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-82%2F100-brightgreen?style=flat-square)](#)
 
 > 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 62.4k |
 | 🍴 **Forks** | 6.4k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 85/100 |
+| 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ makeplane/plane：makeplane/plane helps ship user-facing interfaces with less cu
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 95/100 |
+| quality | 90/100 |
 | integration | 100/100 |
-| production | 86/100 |
-| outlook | 88/100 |
+| production | 80/100 |
+| outlook | 81/100 |
 | adoption | 99/100 |
 | categoryMatchCount | 500/100 |
 | stars | 100/100 |
 | forks | 95/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

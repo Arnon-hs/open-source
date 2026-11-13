@@ -570,7 +570,7 @@
 | 560 | [gladiaio/gladia-cli](./gladiaio-gladia-cli.md) | ⭐ 25 | — | 49/100 |
 | 561 | [75lb/handbrake-js](./75lb-handbrake-js.md) | ⭐ 590 | JavaScript | 49/100 |
 | 562 | [caplanmaor/ziperu](./caplanmaor-ziperu.md) | ⭐ 2 | — | 48/100 |
-| 563 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 17 | — | 48/100 |
+| 563 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 18 | — | 48/100 |
 | 564 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 565 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 3 | Python | 48/100 |
 | 566 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
@@ -603,7 +603,7 @@
 | 593 | [live-miracles/bunryu](./live-miracles-bunryu.md) | ⭐ 5 | — | 45/100 |
 | 594 | [waldo-van-der-code/whatyousay-oss](./waldo-van-der-code-whatyousay-oss.md) | ⭐ 1 | — | 45/100 |
 | 595 | [wutlu/notchsub](./wutlu-notchsub.md) | ⭐ 1 | — | 45/100 |
-| 596 | [openfilm/openfilm](./openfilm-openfilm.md) | ⭐ 5.9k | — | 45/100 |
+| 596 | [openfilm/openfilm](./openfilm-openfilm.md) | ⭐ 6.3k | — | 45/100 |
 | 597 | [iterative-computer/powermove](./iterative-computer-powermove.md) | ⭐ 389 | — | 45/100 |
 | 598 | [google/ExoPlayer](./google-exoplayer.md) | ⭐ 21.9k | — | 45/100 |
 | 599 | [videojs/video.js](./videojs-video.js.md) | ⭐ 40.2k | — | 45/100 |

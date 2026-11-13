@@ -9,11 +9,11 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [semaphoreui/semaphore](./semaphoreui-semaphore.md) | ⭐ 14.4k | Go | 85/100 |
-| 2 | [makeplane/plane](./makeplane-plane.md) | ⭐ 62.4k | TypeScript | 85/100 |
-| 3 | [marmelab/react-admin](./marmelab-react-admin.md) | ⭐ 27k | TypeScript | 84/100 |
-| 4 | [apollographql/apollo-client](./apollographql-apollo-client.md) | ⭐ 19.8k | TypeScript | 84/100 |
-| 5 | [getsentry/sentry-javascript](./getsentry-sentry-javascript.md) | ⭐ 8.8k | TypeScript | 84/100 |
-| 6 | [connorgallopo/Tracearr](./connorgallopo-tracearr.md) | ⭐ 2.7k | TypeScript | 83/100 |
+| 2 | [marmelab/react-admin](./marmelab-react-admin.md) | ⭐ 27k | TypeScript | 84/100 |
+| 3 | [apollographql/apollo-client](./apollographql-apollo-client.md) | ⭐ 19.8k | TypeScript | 84/100 |
+| 4 | [getsentry/sentry-javascript](./getsentry-sentry-javascript.md) | ⭐ 8.8k | TypeScript | 84/100 |
+| 5 | [connorgallopo/Tracearr](./connorgallopo-tracearr.md) | ⭐ 2.7k | TypeScript | 83/100 |
+| 6 | [makeplane/plane](./makeplane-plane.md) | ⭐ 62.4k | TypeScript | 82/100 |
 | 7 | [alovajs/alova](./alovajs-alova.md) | ⭐ 4k | TypeScript | 81/100 |
 | 8 | [fastapi/fastapi](./fastapi-fastapi.md) | ⭐ 104.7k | Python | 81/100 |
 | 9 | [tailwindlabs/tailwindcss](./tailwindlabs-tailwindcss.md) | ⭐ 98.6k | TypeScript | 81/100 |
@@ -263,8 +263,8 @@
 | 253 | [lynx-family/lynx-stack](./lynx-family-lynx-stack.md) | ⭐ 741 | TypeScript | 65/100 |
 | 254 | [zhenorzz/goploy](./zhenorzz-goploy.md) | ⭐ 1.3k | Go | 65/100 |
 | 255 | [ng-doc/ng-doc](./ng-doc-ng-doc.md) | ⭐ 327 | TypeScript | 65/100 |
-| 256 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
-| 257 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
+| 256 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
+| 257 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
 | 258 | [magicuidesign/magicui](./magicuidesign-magicui.md) | ⭐ 23.2k | MDX | 65/100 |
 | 259 | [mealie-recipes/mealie](./mealie-recipes-mealie.md) | ⭐ 13.9k | Python | 65/100 |
 | 260 | [marko-js/marko](./marko-js-marko.md) | ⭐ 14.5k | JavaScript | 65/100 |
@@ -930,8 +930,8 @@
 | 920 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ 43 | — | 39/100 |
 | 921 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ 4 | — | 39/100 |
 | 922 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ 16 | — | 39/100 |
-| 923 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
-| 924 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
+| 923 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
+| 924 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
 | 925 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
 | 926 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ 11 | — | 39/100 |
 | 927 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |
@@ -941,7 +941,7 @@
 | 931 | [hub-env/ng-hub-ui-paginable](./hub-env-ng-hub-ui-paginable.md) | ⭐ 2 | TypeScript | 38/100 |
 | 932 | [Shadorux/shadow-the-hedgehog-css](./shadorux-shadow-the-hedgehog-css.md) | ⭐ — | HTML | 37/100 |
 | 933 | [viditx/sketchmorphism](./viditx-sketchmorphism.md) | ⭐ 2 | HTML | 37/100 |
-| 934 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ 59 | — | 37/100 |
+| 934 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ 61 | — | 37/100 |
 | 935 | [kagrawal61/rn-bundle-swapper](./kagrawal61-rn-bundle-swapper.md) | ⭐ 19 | TypeScript | 36/100 |
 | 936 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 34/100 |
 | 937 | [ravikisha/relaxicons](./ravikisha-relaxicons.md) | ⭐ 2 | JavaScript | 33/100 |

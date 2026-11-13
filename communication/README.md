@@ -366,8 +366,8 @@
 | 356 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 357 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 358 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 359 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 689 | — | 42/100 |
-| 360 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 359 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 360 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 689 | — | 42/100 |
 | 361 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 362 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 363 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |
@@ -390,7 +390,7 @@
 | 380 | [HiAriesZhou/Howler](./hiarieszhou-howler.md) | ⭐ 21 | — | 41/100 |
 | 381 | [cjus/audio-chat-box](./cjus-audio-chat-box.md) | ⭐ 3 | — | 41/100 |
 | 382 | [skorotkiewicz/lfm3-chat](./skorotkiewicz-lfm3-chat.md) | ⭐ 1 | — | 41/100 |
-| 383 | [moldandyeast/claude-computer](./moldandyeast-claude-computer.md) | ⭐ 14 | — | 41/100 |
+| 383 | [moldandyeast/claude-computer](./moldandyeast-claude-computer.md) | ⭐ 15 | — | 41/100 |
 | 384 | [anasachouri/flowboard](./anasachouri-flowboard.md) | ⭐ 3 | — | 41/100 |
 | 385 | [lkorth/space-calendar](./lkorth-space-calendar.md) | ⭐ 12 | — | 41/100 |
 | 386 | [shuaibird/Quick-Chat](./shuaibird-quick-chat.md) | ⭐ 14 | — | 41/100 |
