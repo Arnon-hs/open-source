@@ -2,7 +2,7 @@
 
 > 
 
-**38 projects** in this category.
+**39 projects** in this category.
 
 ## Projects
 
@@ -39,13 +39,14 @@
 | 29 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 384 | Rust | 45/100 |
 | 30 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 441 | Mojo | 44/100 |
 | 31 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 263 | Rust | 44/100 |
-| 32 | [t3spe/life-cipher](./t3spe-life-cipher.md) | ⭐ — | — | 41/100 |
-| 33 | [nodo-labs-uk/socratui](./nodo-labs-uk-socratui.md) | ⭐ — | — | 41/100 |
-| 34 | [AiFirstDevelopment/engineer-to-ai-engineer](./aifirstdevelopment-engineer-to-ai-engineer.md) | ⭐ — | — | 41/100 |
-| 35 | [rapha-rodrigues/cc-esol](./rapha-rodrigues-cc-esol.md) | ⭐ 4 | — | 41/100 |
-| 36 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 40/100 |
-| 37 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 34/100 |
-| 38 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 33/100 |
+| 32 | [nodo-labs-uk/awesome-socratic-tutor](./nodo-labs-uk-awesome-socratic-tutor.md) | ⭐ — | — | 41/100 |
+| 33 | [t3spe/life-cipher](./t3spe-life-cipher.md) | ⭐ — | — | 41/100 |
+| 34 | [nodo-labs-uk/socratui](./nodo-labs-uk-socratui.md) | ⭐ — | — | 41/100 |
+| 35 | [AiFirstDevelopment/engineer-to-ai-engineer](./aifirstdevelopment-engineer-to-ai-engineer.md) | ⭐ — | — | 41/100 |
+| 36 | [rapha-rodrigues/cc-esol](./rapha-rodrigues-cc-esol.md) | ⭐ 4 | — | 41/100 |
+| 37 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 40/100 |
+| 38 | [neuralfocusai-rgb/NexusLang](./neuralfocusai-rgb-nexuslang.md) | ⭐ 1 | Python | 34/100 |
+| 39 | [Tejas-Santosh-Nalawade/Hacktoberfest-Hack-Day-ACES](./tejas-santosh-nalawade-hacktoberfest-hack-day-aces.md) | ⭐ — | JavaScript | 33/100 |
 
 ---
 

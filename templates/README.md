@@ -116,7 +116,7 @@
 | 106 | [nasirkhan/laravel-starter](./nasirkhan-laravel-starter.md) | ⭐ 1.4k | PHP | 73/100 |
 | 107 | [coreui/coreui-free-react-admin-template](./coreui-coreui-free-react-admin-template.md) | ⭐ 5k | JavaScript | 73/100 |
 | 108 | [IronTony/voltrn-cli](./irontony-voltrn-cli.md) | ⭐ 481 | JavaScript | 73/100 |
-| 109 | [northflank/skills](./northflank-skills.md) | ⭐ 40 | JavaScript | 73/100 |
+| 109 | [northflank/skills](./northflank-skills.md) | ⭐ 41 | JavaScript | 73/100 |
 | 110 | [kinngh/shopify-nextjs-prisma-app](./kinngh-shopify-nextjs-prisma-app.md) | ⭐ 516 | JavaScript | 73/100 |
 | 111 | [aws/serverless-application-model](./aws-serverless-application-model.md) | ⭐ 9.6k | Python | 73/100 |
 | 112 | [turnerlabs/fargate-create](./turnerlabs-fargate-create.md) | ⭐ 105 | Go | 73/100 |
@@ -255,7 +255,7 @@
 | 245 | [wemake-services/wemake-python-package](./wemake-services-wemake-python-package.md) | ⭐ 451 | Python | 66/100 |
 | 246 | [firebase/firebaseui-web](./firebase-firebaseui-web.md) | ⭐ 4.9k | TypeScript | 66/100 |
 | 247 | [taocpp/PEGTL](./taocpp-pegtl.md) | ⭐ 2.2k | C++ | 66/100 |
-| 248 | [entropy-cloud/attractor-guided-engineering-template](./entropy-cloud-attractor-guided-engineering-template.md) | ⭐ 80 | JavaScript | 66/100 |
+| 248 | [entropy-cloud/attractor-guided-engineering-template](./entropy-cloud-attractor-guided-engineering-template.md) | ⭐ 81 | JavaScript | 66/100 |
 | 249 | [Comfy-Org/workflow_templates](./comfy-org-workflow-templates.md) | ⭐ 1.5k | Python | 66/100 |
 | 250 | [cloudflare/agents-starter](./cloudflare-agents-starter.md) | ⭐ 1.4k | TypeScript | 66/100 |
 | 251 | [askama-rs/askama](./askama-rs-askama.md) | ⭐ 1.3k | Rust | 66/100 |
@@ -287,7 +287,7 @@
 | 277 | [grafana/k8s-monitoring-helm](./grafana-k8s-monitoring-helm.md) | ⭐ 696 | Go Template | 64/100 |
 | 278 | [naimkatiman/tradeclaw](./naimkatiman-tradeclaw.md) | ⭐ 44 | TypeScript | 64/100 |
 | 279 | [level09/readykit](./level09-readykit.md) | ⭐ 249 | CSS | 64/100 |
-| 280 | [nickvasilescu/nicks-stack](./nickvasilescu-nicks-stack.md) | ⭐ 150 | Python | 64/100 |
+| 280 | [nickvasilescu/nicks-stack](./nickvasilescu-nicks-stack.md) | ⭐ 152 | Python | 64/100 |
 | 281 | [runpod-workers/worker-vllm](./runpod-workers-worker-vllm.md) | ⭐ 474 | Python | 64/100 |
 | 282 | [taiga-family/polymorpheus](./taiga-family-polymorpheus.md) | ⭐ 429 | TypeScript | 64/100 |
 | 283 | [SlideSpeak/presentation-design-prompts](./slidespeak-presentation-design-prompts.md) | ⭐ 211 | — | 64/100 |

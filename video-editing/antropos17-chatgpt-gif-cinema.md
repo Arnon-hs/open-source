@@ -64,18 +64,18 @@ antropos17/chatgpt-gif-cinema：antropos17/chatgpt-gif-cinema helps turn media e
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 62/100 |
-| production | 60/100 |
-| outlook | 63/100 |
-| adoption | 12/100 |
-| categoryMatchCount | 500/100 |
-| stars | 17/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 17/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 51/100 |
+| recency | 80/100 |
+| adoption | 12/100 |
+| production | 60/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

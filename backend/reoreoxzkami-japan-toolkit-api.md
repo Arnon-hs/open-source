@@ -1,6 +1,6 @@
 # reoreoxzkami/japan-toolkit-api
 
-[![Stars](https://img.shields.io/github/stars/reoreoxzkami/japan-toolkit-api?style=flat-square&color=yellow)](https://github.com/reoreoxzkami/japan-toolkit-api/stargazers) [![Forks](https://img.shields.io/github/forks/reoreoxzkami/japan-toolkit-api?style=flat-square&color=blue)](https://github.com/reoreoxzkami/japan-toolkit-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-55%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/reoreoxzkami/japan-toolkit-api?style=flat-square&color=yellow)](https://github.com/reoreoxzkami/japan-toolkit-api/stargazers) [![Forks](https://img.shields.io/github/forks/reoreoxzkami/japan-toolkit-api?style=flat-square&color=blue)](https://github.com/reoreoxzkami/japan-toolkit-api/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
 
 > Free Japan Toolkit API — Japanese holidays, business days, era (wareki) conversion, kana to romaji, and fake Japanese test users. No API key, CORS enabled.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 55/100 |
+| 📈 **Score** | 52/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -58,22 +58,22 @@ reoreoxzkami/japan-toolkit-api：reoreoxzkami/japan-toolkit-api helps teams reus
 - primary language: JavaScript
 - 5 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 47/100 |
+| quality | 42/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 64/100 |
+| production | 55/100 |
+| outlook | 57/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

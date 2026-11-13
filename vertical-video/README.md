@@ -47,7 +47,7 @@
 | 37 | [social-media-skills/remotion-shorts-skill](./social-media-skills-remotion-shorts-skill.md) | ⭐ 16 | TypeScript | 72/100 |
 | 38 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 245 | JavaScript | 72/100 |
 | 39 | [SamurAIGPT/revideo](./samuraigpt-revideo.md) | ⭐ 165 | JavaScript | 72/100 |
-| 40 | [phucnguyentvp1/frameweaver](./phucnguyentvp1-frameweaver.md) | ⭐ 114 | Python | 72/100 |
+| 40 | [phucnguyentvp1/frameweaver](./phucnguyentvp1-frameweaver.md) | ⭐ 116 | Python | 72/100 |
 | 41 | [justynberk/reel-kit](./justynberk-reel-kit.md) | ⭐ 11 | Python | 72/100 |
 | 42 | [DaBaoAgent/DaobaoAI-DY](./dabaoagent-daobaoai-dy.md) | ⭐ 11 | Python | 72/100 |
 | 43 | [Agions/story-fab](./agions-story-fab.md) | ⭐ 134 | TypeScript | 72/100 |
@@ -72,7 +72,7 @@
 | 62 | [numbpill3d/ffmpeg-ai](./numbpill3d-ffmpeg-ai.md) | ⭐ 40 | Python | 68/100 |
 | 63 | [WANGLEVY9/VidForge](./wanglevy9-vidforge.md) | ⭐ 94 | TypeScript | 68/100 |
 | 64 | [rediumvex/social-media-caption-generator-claude](./rediumvex-social-media-caption-generator-claude.md) | ⭐ 151 | — | 68/100 |
-| 65 | [artemisln/edit-reel](./artemisln-edit-reel.md) | ⭐ 40 | Python | 67/100 |
+| 65 | [artemisln/edit-reel](./artemisln-edit-reel.md) | ⭐ 41 | Python | 67/100 |
 | 66 | [paulherter/sequence-studio](./paulherter-sequence-studio.md) | ⭐ 23 | Swift | 67/100 |
 | 67 | [marvtub/takes-public](./marvtub-takes-public.md) | ⭐ 38 | Swift | 67/100 |
 | 68 | [indiser/ViralContent-Factory](./indiser-viralcontent-factory.md) | ⭐ 24 | Python | 67/100 |
@@ -106,8 +106,8 @@
 | 96 | [JayWebtech/autoshorts](./jaywebtech-autoshorts.md) | ⭐ 1.5k | Rust | 63/100 |
 | 97 | [HeyChengC/wallstreet-explainer](./heychengc-wallstreet-explainer.md) | ⭐ 682 | JavaScript | 62/100 |
 | 98 | [zr9959/auto-xhs](./zr9959-auto-xhs.md) | ⭐ 17 | HTML | 62/100 |
-| 99 | [JuneYaooo/capsule-cinema](./juneyaooo-capsule-cinema.md) | ⭐ 224 | Python | 62/100 |
-| 100 | [Johnson-Jia/video-clipforge](./johnson-jia-video-clipforge.md) | ⭐ 48 | Python | 62/100 |
+| 99 | [JuneYaooo/capsule-cinema](./juneyaooo-capsule-cinema.md) | ⭐ 236 | Python | 62/100 |
+| 100 | [Johnson-Jia/video-clipforge](./johnson-jia-video-clipforge.md) | ⭐ 49 | Python | 62/100 |
 | 101 | [isaachang/motion-video-workflow](./isaachang-motion-video-workflow.md) | ⭐ 15 | JavaScript | 61/100 |
 | 102 | [xianyu110/ecommerce-video-skills](./xianyu110-ecommerce-video-skills.md) | ⭐ 138 | Python | 61/100 |
 | 103 | [SaarD00/AI-Youtube-Shorts-Generator](./saard00-ai-youtube-shorts-generator.md) | ⭐ 278 | Python | 61/100 |
@@ -143,7 +143,7 @@
 | 133 | [Mrshahidali420/youtube-shorts-automation](./mrshahidali420-youtube-shorts-automation.md) | ⭐ 12 | Python | 56/100 |
 | 134 | [mytv-android/myDV](./mytv-android-mydv.md) | ⭐ 1.7k | — | 55/100 |
 | 135 | [HeyChengC/vibe-editing-guide](./heychengc-vibe-editing-guide.md) | ⭐ 21 | HTML | 55/100 |
-| 136 | [yangbin1322/hongguo-player](./yangbin1322-hongguo-player.md) | ⭐ 3.5k | — | 55/100 |
+| 136 | [yangbin1322/hongguo-player](./yangbin1322-hongguo-player.md) | ⭐ 3.6k | — | 55/100 |
 | 137 | [tstambulsky/auto-vlog-editor](./tstambulsky-auto-vlog-editor.md) | ⭐ 11 | Python | 55/100 |
 | 138 | [Mr-funny/hbg-hanzi-chaizi-video](./mr-funny-hbg-hanzi-chaizi-video.md) | ⭐ 124 | TypeScript | 55/100 |
 | 139 | [artemiimillier/skill-multik](./artemiimillier-skill-multik.md) | ⭐ 23 | TypeScript | 54/100 |
