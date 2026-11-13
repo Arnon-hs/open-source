@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-MCP
+MCP · AI/ML · Backend
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ codie1982/chorono-editor: codie1982/chorono-editor helps connect AI assistants t
 
 ### Русский
 
-codie1982/chorono-editor: open-source проект в категориях MCP. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+codie1982/chorono-editor: open-source проект в категориях MCP, AI/ML, Backend. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,18 +64,18 @@ codie1982/chorono-editor：codie1982/chorono-editor helps connect AI assistants 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 52/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 63/100 |
-| adoption | 15/100 |
-| categoryMatchCount | 100/100 |
-| stars | 20/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 20/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 52/100 |
+| recency | 80/100 |
+| adoption | 15/100 |
+| production | 61/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

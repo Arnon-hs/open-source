@@ -108,8 +108,8 @@
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.5k | Kotlin | 61/100 |
 | 99 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 648 | Kotlin | 61/100 |
 | 100 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 264 | Kotlin | 61/100 |
-| 101 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 955 | C++ | 61/100 |
-| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
+| 101 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
+| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 955 | C++ | 61/100 |
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 922 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13.1k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.7k | Kotlin | 61/100 |
@@ -275,12 +275,12 @@
 | 265 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 266 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 267 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 268 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
-| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 268 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 633 | Python | 55/100 |
-| 272 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
-| 273 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
+| 272 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
+| 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
 | 274 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 500 | Kotlin | 55/100 |
 | 275 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 276 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 3.3k | Kotlin | 55/100 |
@@ -464,7 +464,7 @@
 | 454 | [LucasMenezeslc/flutter-dead-code-audit](./lucasmenezeslc-flutter-dead-code-audit.md) | ⭐ 2 | Python | 48/100 |
 | 455 | [iBotPeaches/Apktool](./ibotpeaches-apktool.md) | ⭐ 27.2k | — | 48/100 |
 | 456 | [thefraggle/songflip](./thefraggle-songflip.md) | ⭐ 21 | — | 48/100 |
-| 457 | [aleixrodriala/newtube](./aleixrodriala-newtube.md) | ⭐ 744 | — | 48/100 |
+| 457 | [aleixrodriala/newtube](./aleixrodriala-newtube.md) | ⭐ 766 | — | 48/100 |
 | 458 | [SoItsTime/I2PdiOS](./soitstime-i2pdios.md) | ⭐ 5 | — | 48/100 |
 | 459 | [samm-git/nocview](./samm-git-nocview.md) | ⭐ — | — | 48/100 |
 | 460 | [luizgustavo76/Linka](./luizgustavo76-linka.md) | ⭐ 26 | — | 48/100 |
@@ -490,7 +490,7 @@
 | 480 | [NativePHP/mobile-air](./nativephp-mobile-air.md) | ⭐ 1.2k | C | 46/100 |
 | 481 | [backmeupplz/absplus](./backmeupplz-absplus.md) | ⭐ — | Kotlin | 45/100 |
 | 482 | [mearnest-dev/agentation-ios](./mearnest-dev-agentation-ios.md) | ⭐ 1 | — | 45/100 |
-| 483 | [Belweave/iphone-duo-design](./belweave-iphone-duo-design.md) | ⭐ 7 | — | 45/100 |
+| 483 | [Belweave/iphone-duo-design](./belweave-iphone-duo-design.md) | ⭐ 8 | — | 45/100 |
 | 484 | [AgentVis-OS/aiphone_assistant](./agentvis-os-aiphone-assistant.md) | ⭐ 16 | — | 45/100 |
 | 485 | [dashersw/macinspector](./dashersw-macinspector.md) | ⭐ 10 | — | 45/100 |
 | 486 | [cryptrr/AutoPie](./cryptrr-autopie.md) | ⭐ 310 | — | 45/100 |
@@ -550,7 +550,7 @@
 | 540 | [rive-app/rive-ios](./rive-app-rive-ios.md) | ⭐ 861 | Swift | 42/100 |
 | 541 | [Aniruddhashirke/TerraQuest](./aniruddhashirke-terraquest.md) | ⭐ — | TypeScript | 42/100 |
 | 542 | [chocoford/ExcalidrawZ](./chocoford-excalidrawz.md) | ⭐ 1.5k | — | 41/100 |
-| 543 | [Ninnix/lokey](./ninnix-lokey.md) | ⭐ 7 | — | 41/100 |
+| 543 | [Ninnix/lokey](./ninnix-lokey.md) | ⭐ 8 | — | 41/100 |
 | 544 | [bsidio/OpenVaccum](./bsidio-openvaccum.md) | ⭐ 2 | — | 41/100 |
 | 545 | [kbr-/kotlean](./kbr--kotlean.md) | ⭐ 4 | — | 41/100 |
 | 546 | [kolbicz/WQFiles](./kolbicz-wqfiles.md) | ⭐ 704 | — | 41/100 |
@@ -566,7 +566,7 @@
 | 556 | [Gladimore/TouchSynth](./gladimore-touchsynth.md) | ⭐ 2 | — | 41/100 |
 | 557 | [akshit-bansal11/edgepad](./akshit-bansal11-edgepad.md) | ⭐ 40 | — | 41/100 |
 | 558 | [flyfishxu/Kadb](./flyfishxu-kadb.md) | ⭐ 117 | — | 41/100 |
-| 559 | [biolend83/tubehaus](./biolend83-tubehaus.md) | ⭐ 342 | — | 41/100 |
+| 559 | [biolend83/tubehaus](./biolend83-tubehaus.md) | ⭐ 358 | — | 41/100 |
 | 560 | [tripathiamritansh/adbdock](./tripathiamritansh-adbdock.md) | ⭐ 3 | — | 41/100 |
 | 561 | [BEKO2210/spyhound](./beko2210-spyhound.md) | ⭐ — | Kotlin | 41/100 |
 | 562 | [google/three-live](./google-three-live.md) | ⭐ 334 | — | 41/100 |

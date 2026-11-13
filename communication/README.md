@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -414,7 +414,7 @@
 | 404 | [achempion/tlx](./achempion-tlx.md) | ⭐ — | — | 41/100 |
 | 405 | [Inkline-Verify/ProofOfHuman](./inkline-verify-proofofhuman.md) | ⭐ 8 | — | 41/100 |
 | 406 | [Aaronmike481/BreachScanner](./aaronmike481-breachscanner.md) | ⭐ 1 | — | 41/100 |
-| 407 | [bilalyazicioglu/tincan-cli](./bilalyazicioglu-tincan-cli.md) | ⭐ 239 | — | 41/100 |
+| 407 | [bilalyazicioglu/tincan-cli](./bilalyazicioglu-tincan-cli.md) | ⭐ 240 | — | 41/100 |
 | 408 | [theletterf/comic-chat-ai](./theletterf-comic-chat-ai.md) | ⭐ — | — | 41/100 |
 | 409 | [OlegIGalkin/tendayweekcalendar](./olegigalkin-tendayweekcalendar.md) | ⭐ 1 | — | 41/100 |
 | 410 | [bwasti/serverside.chat](./bwasti-serverside.chat.md) | ⭐ — | — | 41/100 |
@@ -435,7 +435,7 @@
 | 425 | [djc/tokio-imap](./djc-tokio-imap.md) | ⭐ 132 | Rust | 41/100 |
 | 426 | [5012763083a-oss/email-list-cleaner](./5012763083a-oss-email-list-cleaner.md) | ⭐ — | JavaScript | 41/100 |
 | 427 | [ssanaullahrais/Chat-Vault](./ssanaullahrais-chat-vault.md) | ⭐ 87 | TypeScript | 40/100 |
-| 428 | [allure-framework/allure3](./allure-framework-allure3.md) | ⭐ 454 | — | 40/100 |
+| 428 | [allure-framework/allure3](./allure-framework-allure3.md) | ⭐ 456 | — | 40/100 |
 | 429 | [sebklaey/openos-momo-ai](./sebklaey-openos-momo-ai.md) | ⭐ — | JavaScript | 39/100 |
 | 430 | [RivierGrullon/mailrules](./riviergrullon-mailrules.md) | ⭐ 1 | TypeScript | 39/100 |
 | 431 | [2db2du-byte/hitchhikers-guide](./2db2du-byte-hitchhikers-guide.md) | ⭐ — | Python | 39/100 |
@@ -455,7 +455,7 @@
 | 445 | [DouglasdeMoura/chroncal](./douglasdemoura-chroncal.md) | ⭐ 243 | — | 38/100 |
 | 446 | [luoxiprovo/bearmail](./luoxiprovo-bearmail.md) | ⭐ 5 | — | 38/100 |
 | 447 | [john-abah/ABAH_CHAT](./john-abah-abah-chat.md) | ⭐ 1 | — | 38/100 |
-| 448 | [beescuit/chatflare](./beescuit-chatflare.md) | ⭐ 105 | — | 38/100 |
+| 448 | [beescuit/chatflare](./beescuit-chatflare.md) | ⭐ 106 | — | 38/100 |
 | 449 | [alejandrocora/WhatsAppMediaEnumeration](./alejandrocora-whatsappmediaenumeration.md) | ⭐ 4 | — | 38/100 |
 | 450 | [3kh0/slack-datamine](./3kh0-slack-datamine.md) | ⭐ 10 | — | 38/100 |
 | 451 | [MatrAIx-ai/MatrAIx-Persona-8B](./matraix-ai-matraix-persona-8b.md) | ⭐ 2.1k | — | 38/100 |

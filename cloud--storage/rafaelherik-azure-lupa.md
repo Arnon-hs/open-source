@@ -1,6 +1,6 @@
 # rafaelherik/azure-lupa
 
-[![Stars](https://img.shields.io/github/stars/rafaelherik/azure-lupa?style=flat-square&color=yellow)](https://github.com/rafaelherik/azure-lupa/stargazers) [![Forks](https://img.shields.io/github/forks/rafaelherik/azure-lupa?style=flat-square&color=blue)](https://github.com/rafaelherik/azure-lupa/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rafaelherik/azure-lupa?style=flat-square&color=yellow)](https://github.com/rafaelherik/azure-lupa/stargazers) [![Forks](https://img.shields.io/github/forks/rafaelherik/azure-lupa?style=flat-square&color=blue)](https://github.com/rafaelherik/azure-lupa/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-10-14 |
 | 🔍 **Source** | story-link |
 
@@ -63,15 +63,15 @@ rafaelherik/azure-lupa：rafaelherik/azure-lupa may be useful when its README an
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 37/100 |
+| quality | 32/100 |
 | integration | 50/100 |
-| production | 49/100 |
-| outlook | 47/100 |
+| production | 42/100 |
+| outlook | 40/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| recency | 40/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

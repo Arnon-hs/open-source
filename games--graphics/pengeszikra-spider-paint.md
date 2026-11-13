@@ -62,18 +62,18 @@ Pengeszikra/Spider-Paint：Pengeszikra/Spider-Paint may be useful when its READM
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 40/100 |
-| integration | 30/100 |
-| production | 52/100 |
-| outlook | 50/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 50/100 |
+| outlook | 50/100 |
+| quality | 40/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

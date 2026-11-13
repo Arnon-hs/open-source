@@ -63,18 +63,18 @@ pyusb/pyusb：pyusb/pyusb may be useful when its README and activity match a con
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 78/100 |
-| integration | 46/100 |
-| production | 68/100 |
-| outlook | 71/100 |
-| adoption | 71/100 |
-| categoryMatchCount | 0/100 |
-| stars | 72/100 |
 | forks | 71/100 |
-| recency | 80/100 |
+| stars | 72/100 |
 | topics | 100/100 |
+| outlook | 71/100 |
+| quality | 78/100 |
+| recency | 80/100 |
+| adoption | 71/100 |
+| production | 68/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

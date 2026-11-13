@@ -545,7 +545,7 @@
 | 535 | [joshmeek/otlet](./joshmeek-otlet.md) | ⭐ 3 | — | 38/100 |
 | 536 | [NikolayS/pgsimcity](./nikolays-pgsimcity.md) | ⭐ 778 | — | 38/100 |
 | 537 | [Alurith/sqlitewatch](./alurith-sqlitewatch.md) | ⭐ 3 | — | 38/100 |
-| 538 | [berabuddies/redis-poc](./berabuddies-redis-poc.md) | ⭐ 522 | — | 38/100 |
+| 538 | [berabuddies/redis-poc](./berabuddies-redis-poc.md) | ⭐ 521 | — | 38/100 |
 | 539 | [osmanahmadxai/SYNCLE](./osmanahmadxai-syncle.md) | ⭐ 53 | — | 38/100 |
 | 540 | [SynnoDB/SynnoDB](./synnodb-synnodb.md) | ⭐ 31 | — | 38/100 |
 | 541 | [cursor/minisqlite](./cursor-minisqlite.md) | ⭐ 293 | — | 38/100 |

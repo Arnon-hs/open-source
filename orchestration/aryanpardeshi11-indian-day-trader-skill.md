@@ -1,6 +1,6 @@
 # aryanpardeshi11/indian-day-trader-skill
 
-[![Stars](https://img.shields.io/github/stars/aryanpardeshi11/indian-day-trader-skill?style=flat-square&color=yellow)](https://github.com/aryanpardeshi11/indian-day-trader-skill/stargazers) [![Forks](https://img.shields.io/github/forks/aryanpardeshi11/indian-day-trader-skill?style=flat-square&color=blue)](https://github.com/aryanpardeshi11/indian-day-trader-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aryanpardeshi11/indian-day-trader-skill?style=flat-square&color=yellow)](https://github.com/aryanpardeshi11/indian-day-trader-skill/stargazers) [![Forks](https://img.shields.io/github/forks/aryanpardeshi11/indian-day-trader-skill?style=flat-square&color=blue)](https://github.com/aryanpardeshi11/indian-day-trader-skill/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
 
 > AI agent skill for Indian NSE & BSE traders: MTF technicals, 10,000-path Monte Carlo Time Machine, April 2026 Indian tax math, risk circuit breakers & 9-broker paper/live bridge. Trade at your own risk.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ aryanpardeshi11/indian-day-trader-skill：aryanpardeshi11/indian-day-trader-skil
 
 **Quality signals**
 
+- 2 GitHub stars
 - updated 2026-11-09
 - primary language: Python
 - 18 topics
@@ -64,13 +65,13 @@ aryanpardeshi11/indian-day-trader-skill：aryanpardeshi11/indian-day-trader-skil
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 57/100 |
-| adoption | 0/100 |
+| production | 57/100 |
+| outlook | 58/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 300/100 |
-| stars | 0/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

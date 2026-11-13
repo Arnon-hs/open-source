@@ -63,18 +63,18 @@ caivra-tech/caivra-repo-gallery：caivra-tech/caivra-repo-gallery helps teams re
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 41/100 |
-| integration | 46/100 |
-| production | 50/100 |
-| outlook | 53/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 200/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 53/100 |
+| quality | 41/100 |
+| recency | 60/100 |
+| adoption | 0/100 |
+| production | 50/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 
