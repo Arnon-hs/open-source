@@ -163,7 +163,7 @@
 | 153 | [itskovacs/trip](./itskovacs-trip.md) | ⭐ 2k | TypeScript | 59/100 |
 | 154 | [KnowageLabs/Knowage-Server](./knowagelabs-knowage-server.md) | ⭐ 450 | Java | 59/100 |
 | 155 | [BOINC/boinc](./boinc-boinc.md) | ⭐ 2.5k | C++ | 59/100 |
-| 156 | [ArturSepp/QuantInvestStrats](./artursepp-quantinveststrats.md) | ⭐ 653 | Python | 59/100 |
+| 156 | [ArturSepp/QuantInvestStrats](./artursepp-quantinveststrats.md) | ⭐ 660 | Python | 59/100 |
 | 157 | [ClickHouse/adsb.exposed](./clickhouse-adsb.exposed.md) | ⭐ 472 | HTML | 59/100 |
 | 158 | [inducer/loopy](./inducer-loopy.md) | ⭐ 640 | Python | 59/100 |
 | 159 | [opendatacube/datacube-core](./opendatacube-datacube-core.md) | ⭐ 596 | Python | 59/100 |

@@ -47,7 +47,7 @@
 | 37 | [QwenLM/Qwen3-TTS](./qwenlm-qwen3-tts.md) | ⭐ 14.4k | Python | 58/100 |
 | 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 675 | Vue | 58/100 |
 | 39 | [TousstNicolas/JLC2KiCad_lib](./tousstnicolas-jlc2kicad-lib.md) | ⭐ 492 | Python | 58/100 |
-| 40 | [alphagov/govuk-design-system](./alphagov-govuk-design-system.md) | ⭐ 689 | Nunjucks | 58/100 |
+| 40 | [alphagov/govuk-design-system](./alphagov-govuk-design-system.md) | ⭐ 690 | Nunjucks | 58/100 |
 | 41 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 519 | TypeScript | 58/100 |
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 610 | Python | 58/100 |
 | 43 | [simple-icons/simple-icons](./simple-icons-simple-icons.md) | ⭐ 26.2k | JavaScript | 58/100 |
@@ -100,7 +100,7 @@
 | 90 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 329 | HTML | 52/100 |
 | 91 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.4k | WebAssembly | 52/100 |
 | 92 | [openhwgroup/cvw](./openhwgroup-cvw.md) | ⭐ 553 | SystemVerilog | 52/100 |
-| 93 | [riscv/riscv-arch-test](./riscv-riscv-arch-test.md) | ⭐ 809 | Assembly | 52/100 |
+| 93 | [riscv/riscv-arch-test](./riscv-riscv-arch-test.md) | ⭐ 812 | Assembly | 52/100 |
 | 94 | [Cur10s1tyByt3/GenP](./cur10s1tybyt3-genp.md) | ⭐ 1.3k | AutoIt | 52/100 |
 | 95 | [Hostpad/Hostpad](./hostpad-hostpad.md) | ⭐ 3 | C# | 51/100 |
 | 96 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.2k | C++ | 51/100 |
@@ -123,7 +123,7 @@
 | 113 | [lige47/QuanX-icon-rule](./lige47-quanx-icon-rule.md) | ⭐ 493 | Python | 47/100 |
 | 114 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ 25 | — | 46/100 |
 | 115 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |
-| 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 678 | TypeScript | 46/100 |
+| 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 679 | TypeScript | 46/100 |
 | 117 | [klad-app/klad](./klad-app-klad.md) | ⭐ 160 | — | 45/100 |
 | 118 | [meta/astryx](./meta-astryx.md) | ⭐ 26.1k | — | 45/100 |
 | 119 | [VenoM9078/gradientdeck-skill](./venom9078-gradientdeck-skill.md) | ⭐ 46 | — | 45/100 |

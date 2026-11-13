@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 62.3k |
+| ⭐ **Stars** | 62.4k |
 | 🍴 **Forks** | 6.4k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 85/100 |
@@ -53,8 +53,8 @@ makeplane/plane：makeplane/plane helps ship user-facing interfaces with less cu
 
 **Quality signals**
 
-- 62328 GitHub stars
-- 6381 forks
+- 62380 GitHub stars
+- 6389 forks
 - updated 2026-11-10
 - primary language: TypeScript
 - 20 topics

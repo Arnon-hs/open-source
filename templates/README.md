@@ -209,7 +209,7 @@
 | 199 | [AlekseiUL/agentforge-openclaw](./alekseiul-agentforge-openclaw.md) | ⭐ 44 | — | 69/100 |
 | 200 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 977 | Go Template | 69/100 |
 | 201 | [codewithMUHILAN/Lightswind-UI-Library](./codewithmuhilan-lightswind-ui-library.md) | ⭐ 1.3k | TypeScript | 69/100 |
-| 202 | [promptdriven/pdd](./promptdriven-pdd.md) | ⭐ 935 | Python | 69/100 |
+| 202 | [promptdriven/pdd](./promptdriven-pdd.md) | ⭐ 936 | Python | 69/100 |
 | 203 | [n8n-io/self-hosted-ai-starter-kit](./n8n-io-self-hosted-ai-starter-kit.md) | ⭐ 15.4k | — | 68/100 |
 | 204 | [fabwaseem/forgekit](./fabwaseem-forgekit.md) | ⭐ — | TypeScript | 68/100 |
 | 205 | [MinaSaad1/n8n-ai-agents](./minasaad1-n8n-ai-agents.md) | ⭐ 13 | — | 68/100 |
@@ -320,7 +320,7 @@
 | 310 | [varletjs/rattail](./varletjs-rattail.md) | ⭐ 90 | TypeScript | 62/100 |
 | 311 | [rancher/charts](./rancher-charts.md) | ⭐ 430 | Go Template | 62/100 |
 | 312 | [Senpi-ai/senpi-skills](./senpi-ai-senpi-skills.md) | ⭐ 144 | Python | 62/100 |
-| 313 | [CloudPirates-io/helm-charts](./cloudpirates-io-helm-charts.md) | ⭐ 617 | Go Template | 62/100 |
+| 313 | [CloudPirates-io/helm-charts](./cloudpirates-io-helm-charts.md) | ⭐ 618 | Go Template | 62/100 |
 | 314 | [iAmCorey/coreychiu-portfolio-template](./iamcorey-coreychiu-portfolio-template.md) | ⭐ 459 | TypeScript | 62/100 |
 | 315 | [Miosa-osa/BusinessOS](./miosa-osa-businessos.md) | ⭐ 139 | Go | 62/100 |
 | 316 | [Roll20/roll20-character-sheets](./roll20-roll20-character-sheets.md) | ⭐ 1.2k | HTML | 62/100 |
@@ -366,7 +366,7 @@
 | 356 | [rust-sailfish/sailfish](./rust-sailfish-sailfish.md) | ⭐ 998 | Rust | 60/100 |
 | 357 | [emilk/eframe_template](./emilk-eframe-template.md) | ⭐ 1.2k | Rust | 60/100 |
 | 358 | [pipecat-ai/voice-ui-kit](./pipecat-ai-voice-ui-kit.md) | ⭐ 418 | TypeScript | 60/100 |
-| 359 | [ublue-os/image-template](./ublue-os-image-template.md) | ⭐ 892 | Just | 60/100 |
+| 359 | [ublue-os/image-template](./ublue-os-image-template.md) | ⭐ 894 | Just | 60/100 |
 | 360 | [shinpr/ai-coding-project-boilerplate](./shinpr-ai-coding-project-boilerplate.md) | ⭐ 238 | JavaScript | 60/100 |
 | 361 | [thought2code/mcp-annotated-java-sdk](./thought2code-mcp-annotated-java-sdk.md) | ⭐ 33 | Java | 60/100 |
 | 362 | [aimeos/pagible](./aimeos-pagible.md) | ⭐ 603 | PHP | 60/100 |

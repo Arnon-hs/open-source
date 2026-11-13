@@ -79,7 +79,7 @@
 | 69 | [DojoCodingLabs/remotion-superpowers](./dojocodinglabs-remotion-superpowers.md) | ⭐ 166 | Shell | 74/100 |
 | 70 | [Gitruck/cli](./gitruck-cli.md) | ⭐ 965 | TypeScript | 74/100 |
 | 71 | [Vanszs/tiktok-viral-factory](./vanszs-tiktok-viral-factory.md) | ⭐ 38 | Python | 74/100 |
-| 72 | [GuanYixuan/pyCapCut](./guanyixuan-pycapcut.md) | ⭐ 747 | Python | 74/100 |
+| 72 | [GuanYixuan/pyCapCut](./guanyixuan-pycapcut.md) | ⭐ 748 | Python | 74/100 |
 | 73 | [hypit-ai/hypit](./hypit-ai-hypit.md) | ⭐ 29.5k | TypeScript | 74/100 |
 | 74 | [Battam1111/omniseek](./battam1111-omniseek.md) | ⭐ 100 | Python | 74/100 |
 | 75 | [aqm857886159/Nomi](./aqm857886159-nomi.md) | ⭐ 642 | TypeScript | 74/100 |
@@ -108,7 +108,7 @@
 | 98 | [trykimu/videoeditor](./trykimu-videoeditor.md) | ⭐ 2.3k | TypeScript | 72/100 |
 | 99 | [miru-media/miru](./miru-media-miru.md) | ⭐ 50 | TypeScript | 72/100 |
 | 100 | [norahe0304-art/30x-video](./norahe0304-art-30x-video.md) | ⭐ 64 | TypeScript | 72/100 |
-| 101 | [Eyevinn/mp4ff](./eyevinn-mp4ff.md) | ⭐ 666 | Go | 72/100 |
+| 101 | [Eyevinn/mp4ff](./eyevinn-mp4ff.md) | ⭐ 667 | Go | 72/100 |
 | 102 | [itsPremkumar/Automated-Video-Generator](./itspremkumar-automated-video-generator.md) | ⭐ 128 | TypeScript | 72/100 |
 | 103 | [pixop/video-compare](./pixop-video-compare.md) | ⭐ 1.8k | C++ | 72/100 |
 | 104 | [leancoderkavy/premiere-pro-mcp](./leancoderkavy-premiere-pro-mcp.md) | ⭐ 517 | TypeScript | 72/100 |
@@ -128,7 +128,7 @@
 | 118 | [MerlinStacks/socaliseit](./merlinstacks-socaliseit.md) | ⭐ 32 | TypeScript | 71/100 |
 | 119 | [jub0t/Concat](./jub0t-concat.md) | ⭐ 17.2k | TypeScript | 71/100 |
 | 120 | [cacity/VideoHub](./cacity-videohub.md) | ⭐ 185 | Python | 71/100 |
-| 121 | [zh-plus/openlrc](./zh-plus-openlrc.md) | ⭐ 686 | Python | 71/100 |
+| 121 | [zh-plus/openlrc](./zh-plus-openlrc.md) | ⭐ 685 | Python | 71/100 |
 | 122 | [OpenShot/openshot-qt](./openshot-openshot-qt.md) | ⭐ 6.8k | Python | 71/100 |
 | 123 | [Vincentwei1021/video-shotcraft](./vincentwei1021-video-shotcraft.md) | ⭐ 18.9k | TypeScript | 71/100 |
 | 124 | [mifi/lossless-cut](./mifi-lossless-cut.md) | ⭐ 46k | TypeScript | 71/100 |
@@ -377,7 +377,7 @@
 | 367 | [Teriks/dgenerate](./teriks-dgenerate.md) | ⭐ 44 | Python | 60/100 |
 | 368 | [remotion-dev/claude-code-plugin](./remotion-dev-claude-code-plugin.md) | ⭐ 83 | JavaScript | 60/100 |
 | 369 | [remotion-dev/template-code-hike](./remotion-dev-template-code-hike.md) | ⭐ 223 | TypeScript | 60/100 |
-| 370 | [LucasHJin/vit](./lucashjin-vit.md) | ⭐ 740 | Python | 60/100 |
+| 370 | [LucasHJin/vit](./lucashjin-vit.md) | ⭐ 739 | Python | 60/100 |
 | 371 | [Vincentwei1021/video-talkcraft](./vincentwei1021-video-talkcraft.md) | ⭐ 2.3k | HTML | 60/100 |
 | 372 | [longxiang-ai/awesome-video-diffusions](./longxiang-ai-awesome-video-diffusions.md) | ⭐ 46 | Python | 60/100 |
 | 373 | [zcbacxc/movie-narrator](./zcbacxc-movie-narrator.md) | ⭐ 1.1k | Python | 60/100 |
@@ -516,8 +516,8 @@
 | 506 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 507 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 50 | Kotlin | 53/100 |
 | 508 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 509 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
-| 510 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
+| 509 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
+| 510 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
 | 511 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 512 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 523 | — | 53/100 |
 | 513 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |
@@ -579,7 +579,7 @@
 | 569 | [rtagliaviaz/video-streaming-service](./rtagliaviaz-video-streaming-service.md) | ⭐ 1 | — | 48/100 |
 | 570 | [KenjiGinjo/bun-ffmpeg](./kenjiginjo-bun-ffmpeg.md) | ⭐ 18 | — | 48/100 |
 | 571 | [rtagliaviaz/audio-track-remover](./rtagliaviaz-audio-track-remover.md) | ⭐ — | — | 48/100 |
-| 572 | [devhyper/open-video-editor](./devhyper-open-video-editor.md) | ⭐ 737 | Kotlin | 48/100 |
+| 572 | [devhyper/open-video-editor](./devhyper-open-video-editor.md) | ⭐ 738 | Kotlin | 48/100 |
 | 573 | [Salesforce/blip-image-captioning-base](./salesforce-blip-image-captioning-base.md) | ⭐ 868 | transformers | 48/100 |
 | 574 | [benwbrum/fromthepage](./benwbrum-fromthepage.md) | ⭐ 187 | Ruby | 48/100 |
 | 575 | [omanshchoudhary/briareus](./omanshchoudhary-briareus.md) | ⭐ 5 | — | 47/100 |

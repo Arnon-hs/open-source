@@ -71,7 +71,7 @@
 | 61 | [AmineDjeghri/awesome-os-setup](./aminedjeghri-awesome-os-setup.md) | ⭐ 573 | Python | 66/100 |
 | 62 | [FuzzyIdeas/Clop](./fuzzyideas-clop.md) | ⭐ 1.9k | Swift | 66/100 |
 | 63 | [danterolle/tilf](./danterolle-tilf.md) | ⭐ 473 | Python | 66/100 |
-| 64 | [Victor-IX/Blender-Launcher-V2](./victor-ix-blender-launcher-v2.md) | ⭐ 740 | Python | 66/100 |
+| 64 | [Victor-IX/Blender-Launcher-V2](./victor-ix-blender-launcher-v2.md) | ⭐ 741 | Python | 66/100 |
 | 65 | [r3bl-org/r3bl-open-core](./r3bl-org-r3bl-open-core.md) | ⭐ 487 | Rust | 66/100 |
 | 66 | [Lissy93/dashy](./lissy93-dashy.md) | ⭐ 27k | Vue | 66/100 |
 | 67 | [sxyazi/yazi](./sxyazi-yazi.md) | ⭐ 43.4k | Rust | 66/100 |
@@ -109,7 +109,7 @@
 | 99 | [seun-novodev/android-tv-debloat-toolkit](./seun-novodev-android-tv-debloat-toolkit.md) | ⭐ 817 | Python | 62/100 |
 | 100 | [ospfranco/sol](./ospfranco-sol.md) | ⭐ 3.2k | TypeScript | 62/100 |
 | 101 | [httptoolkit/httptoolkit-desktop](./httptoolkit-httptoolkit-desktop.md) | ⭐ 741 | TypeScript | 62/100 |
-| 102 | [hywax/mafl](./hywax-mafl.md) | ⭐ 761 | TypeScript | 62/100 |
+| 102 | [hywax/mafl](./hywax-mafl.md) | ⭐ 760 | TypeScript | 62/100 |
 | 103 | [kachkaev/njt](./kachkaev-njt.md) | ⭐ 318 | TypeScript | 61/100 |
 | 104 | [hongquan/CoBang](./hongquan-cobang.md) | ⭐ 354 | Python | 61/100 |
 | 105 | [mudkipme/MoeMemosAndroid](./mudkipme-moememosandroid.md) | ⭐ 1.2k | Kotlin | 61/100 |
@@ -128,7 +128,7 @@
 | 118 | [sathish316/opus_agents](./sathish316-opus-agents.md) | ⭐ 35 | Python | 60/100 |
 | 119 | [swiftbar/SwiftBar](./swiftbar-swiftbar.md) | ⭐ 4.8k | Swift | 60/100 |
 | 120 | [Gimanh/taskview-community](./gimanh-taskview-community.md) | ⭐ 1.4k | TypeScript | 60/100 |
-| 121 | [oxdc/obsidian-vertical-tabs](./oxdc-obsidian-vertical-tabs.md) | ⭐ 642 | TypeScript | 60/100 |
+| 121 | [oxdc/obsidian-vertical-tabs](./oxdc-obsidian-vertical-tabs.md) | ⭐ 645 | TypeScript | 60/100 |
 | 122 | [tanujnotes/Olauncher](./tanujnotes-olauncher.md) | ⭐ 4k | Kotlin | 60/100 |
 | 123 | [Ulauncher/Ulauncher](./ulauncher-ulauncher.md) | ⭐ 4.5k | Python | 60/100 |
 | 124 | [EbadShelby/dotfiles](./ebadshelby-dotfiles.md) | ⭐ 276 | CSS | 60/100 |
@@ -239,7 +239,7 @@
 | 229 | [redheadesign/music-island](./redheadesign-music-island.md) | ⭐ 1.2k | Rust | 50/100 |
 | 230 | [Benexl/lib-x](./benexl-lib-x.md) | ⭐ 77 | Shell | 50/100 |
 | 231 | [Mystic-Stars/Axolotl](./mystic-stars-axolotl.md) | ⭐ 107 | Rust | 50/100 |
-| 232 | [partydeck/partydeck](./partydeck-partydeck.md) | ⭐ 838 | Rust | 50/100 |
+| 232 | [partydeck/partydeck](./partydeck-partydeck.md) | ⭐ 839 | Rust | 50/100 |
 | 233 | [lucky7xz/drako](./lucky7xz-drako.md) | ⭐ 42 | Go | 50/100 |
 | 234 | [wuxiran/cc-pane](./wuxiran-cc-pane.md) | ⭐ 568 | Rust | 50/100 |
 | 235 | [Scighost/Starward](./scighost-starward.md) | ⭐ 4.6k | C# | 50/100 |
@@ -306,15 +306,15 @@
 | 296 | [NeoApplications/Neo-Launcher](./neoapplications-neo-launcher.md) | ⭐ 2.2k | Java | 45/100 |
 | 297 | [tomboy-notes/tomboy-ng](./tomboy-notes-tomboy-ng.md) | ⭐ 452 | Pascal | 45/100 |
 | 298 | [AstrBotDevs/astrbot-launcher](./astrbotdevs-astrbot-launcher.md) | ⭐ 2.7k | Rust | 45/100 |
-| 299 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 828 | Shell | 45/100 |
+| 299 | [ublue-os/aurora](./ublue-os-aurora.md) | ⭐ 829 | Shell | 45/100 |
 | 300 | [nstlaurent/DoomLauncher](./nstlaurent-doomlauncher.md) | ⭐ 335 | C# | 45/100 |
 | 301 | [GeorgeClensy/Escape-Launcher](./georgeclensy-escape-launcher.md) | ⭐ 475 | Kotlin | 45/100 |
 | 302 | [Cuperino/QPrompt-Teleprompter](./cuperino-qprompt-teleprompter.md) | ⭐ 623 | QML | 45/100 |
 | 303 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 304 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 305 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
-| 307 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 307 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
 | 308 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 309 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 310 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |
@@ -326,8 +326,8 @@
 | 316 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ — | — | 41/100 |
 | 317 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 318 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ — | — | 41/100 |
-| 319 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
-| 320 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
+| 319 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
+| 320 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
 | 321 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 2 | — | 41/100 |
 | 322 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 323 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 2 | — | 41/100 |

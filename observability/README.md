@@ -44,7 +44,7 @@
 | 34 | [iflytek/skillhub](./iflytek-skillhub.md) | ⭐ 5.4k | Java | 68/100 |
 | 35 | [0cv/herdr-mobile-relay](./0cv-herdr-mobile-relay.md) | ⭐ 377 | TypeScript | 67/100 |
 | 36 | [patman15/BMS_BLE-HA](./patman15-bms-ble-ha.md) | ⭐ 379 | Python | 67/100 |
-| 37 | [GoogleChrome/chromium-dashboard](./googlechrome-chromium-dashboard.md) | ⭐ 747 | Python | 67/100 |
+| 37 | [GoogleChrome/chromium-dashboard](./googlechrome-chromium-dashboard.md) | ⭐ 748 | Python | 67/100 |
 | 38 | [prometheus/client_golang](./prometheus-client-golang.md) | ⭐ 6k | Go | 67/100 |
 | 39 | [OneUptime/oneuptime](./oneuptime-oneuptime.md) | ⭐ 7.8k | TypeScript | 67/100 |
 | 40 | [amir20/dtop](./amir20-dtop.md) | ⭐ 1.5k | Rust | 67/100 |

@@ -114,7 +114,7 @@
 | 104 | [microsoft/retina](./microsoft-retina.md) | ⭐ 3.2k | Go | 67/100 |
 | 105 | [jkaninda/goma-gateway](./jkaninda-goma-gateway.md) | ⭐ 185 | Go | 67/100 |
 | 106 | [nginx-proxy/nginx-proxy](./nginx-proxy-nginx-proxy.md) | ⭐ 19.9k | Python | 67/100 |
-| 107 | [spr-networks/super](./spr-networks-super.md) | ⭐ 903 | JavaScript | 67/100 |
+| 107 | [spr-networks/super](./spr-networks-super.md) | ⭐ 902 | JavaScript | 67/100 |
 | 108 | [yonggekkk/Cloudflare-vless-trojan](./yonggekkk-cloudflare-vless-trojan.md) | ⭐ 16.8k | JavaScript | 67/100 |
 | 109 | [node-modules/urllib](./node-modules-urllib.md) | ⭐ 743 | TypeScript | 67/100 |
 | 110 | [InterceptSuite/ProxyBridge](./interceptsuite-proxybridge.md) | ⭐ 7.1k | C | 66/100 |
@@ -134,7 +134,7 @@
 | 124 | [zalando/skipper](./zalando-skipper.md) | ⭐ 3.3k | Go | 66/100 |
 | 125 | [syncthing/syncthing](./syncthing-syncthing.md) | ⭐ 90.4k | Go | 66/100 |
 | 126 | [wgtunnel/android](./wgtunnel-android.md) | ⭐ 3.3k | Kotlin | 66/100 |
-| 127 | [fptn-project/fptn](./fptn-project-fptn.md) | ⭐ 834 | C++ | 66/100 |
+| 127 | [fptn-project/fptn](./fptn-project-fptn.md) | ⭐ 836 | C++ | 66/100 |
 | 128 | [folbricht/routedns](./folbricht-routedns.md) | ⭐ 638 | Go | 66/100 |
 | 129 | [tailscale/tailscale](./tailscale-tailscale.md) | ⭐ 39k | Go | 66/100 |
 | 130 | [apache/syncope](./apache-syncope.md) | ⭐ 346 | Java | 66/100 |
@@ -186,7 +186,7 @@
 | 176 | [SIA-IOTechnology/Kittysploit-framework](./sia-iotechnology-kittysploit-framework.md) | ⭐ 634 | Python | 63/100 |
 | 177 | [lsongdev/node-dns](./lsongdev-node-dns.md) | ⭐ 592 | JavaScript | 63/100 |
 | 178 | [lazy-luo/smarGate](./lazy-luo-smargate.md) | ⭐ 4.4k | JavaScript | 63/100 |
-| 179 | [Juwan-Hwang/Zephyr](./juwan-hwang-zephyr.md) | ⭐ 742 | JavaScript | 63/100 |
+| 179 | [Juwan-Hwang/Zephyr](./juwan-hwang-zephyr.md) | ⭐ 745 | JavaScript | 63/100 |
 | 180 | [iximiuz/labctl](./iximiuz-labctl.md) | ⭐ 462 | Go | 63/100 |
 | 181 | [DebugSwift/DebugSwift](./debugswift-debugswift.md) | ⭐ 2.5k | Swift | 63/100 |
 | 182 | [getlantern/lantern](./getlantern-lantern.md) | ⭐ 16.8k | Dart | 63/100 |
@@ -197,7 +197,7 @@
 | 187 | [YumeYucca/YumeBox](./yumeyucca-yumebox.md) | ⭐ 1k | Kotlin | 63/100 |
 | 188 | [SagerNet/sing-box](./sagernet-sing-box.md) | ⭐ 39.9k | Go | 63/100 |
 | 189 | [threatexpert/gonc](./threatexpert-gonc.md) | ⭐ 740 | Go | 63/100 |
-| 190 | [NHAS/wag](./nhas-wag.md) | ⭐ 736 | Go | 63/100 |
+| 190 | [NHAS/wag](./nhas-wag.md) | ⭐ 737 | Go | 63/100 |
 | 191 | [antrea-io/antrea](./antrea-io-antrea.md) | ⭐ 1.8k | Go | 63/100 |
 | 192 | [elesiuta/picosnitch](./elesiuta-picosnitch.md) | ⭐ 1k | Python | 63/100 |
 | 193 | [fujiapple852/trippy](./fujiapple852-trippy.md) | ⭐ 8.2k | Rust | 63/100 |
@@ -222,7 +222,7 @@
 | 212 | [TinyActive/nginx-love](./tinyactive-nginx-love.md) | ⭐ 311 | TypeScript | 62/100 |
 | 213 | [rune/rune](./rune-rune.md) | ⭐ 433 | TypeScript | 62/100 |
 | 214 | [sagebind/isahc](./sagebind-isahc.md) | ⭐ 791 | Rust | 62/100 |
-| 215 | [mozilla-mobile/mozilla-vpn-client](./mozilla-mobile-mozilla-vpn-client.md) | ⭐ 668 | C++ | 62/100 |
+| 215 | [mozilla-mobile/mozilla-vpn-client](./mozilla-mobile-mozilla-vpn-client.md) | ⭐ 669 | C++ | 62/100 |
 | 216 | [NodePassProject/Anywhere](./nodepassproject-anywhere.md) | ⭐ 2.5k | Swift | 62/100 |
 | 217 | [encodeous/nylon](./encodeous-nylon.md) | ⭐ 530 | Go | 62/100 |
 | 218 | [Johnshall/Shadowrocket-ADBlock-Rules-Forever](./johnshall-shadowrocket-adblock-rules-forever.md) | ⭐ 32.1k | — | 62/100 |
@@ -266,7 +266,7 @@
 | 256 | [LOWERTOP/Shadowrocket-First](./lowertop-shadowrocket-first.md) | ⭐ 5.7k | — | 60/100 |
 | 257 | [free18/v2ray](./free18-v2ray.md) | ⭐ 5.9k | — | 60/100 |
 | 258 | [throneproj/Throne](./throneproj-throne.md) | ⭐ 7.9k | C++ | 60/100 |
-| 259 | [pion/ice](./pion-ice.md) | ⭐ 625 | Go | 60/100 |
+| 259 | [pion/ice](./pion-ice.md) | ⭐ 626 | Go | 60/100 |
 | 260 | [h44z/wg-portal](./h44z-wg-portal.md) | ⭐ 1.9k | Go | 60/100 |
 | 261 | [RaspAP/raspap-webgui](./raspap-raspap-webgui.md) | ⭐ 5.2k | PHP | 60/100 |
 | 262 | [Fanju6/NetProxy-Magisk](./fanju6-netproxy-magisk.md) | ⭐ 1.4k | Shell | 60/100 |
@@ -349,7 +349,7 @@
 | 339 | [smoltcp-rs/smoltcp](./smoltcp-rs-smoltcp.md) | ⭐ 4.7k | Rust | 56/100 |
 | 340 | [sakai135/wsl-vpnkit](./sakai135-wsl-vpnkit.md) | ⭐ 3k | Shell | 56/100 |
 | 341 | [AllexVeldman/pyoci](./allexveldman-pyoci.md) | ⭐ 113 | Rust | 56/100 |
-| 342 | [heiher/sockstun](./heiher-sockstun.md) | ⭐ 751 | Java | 56/100 |
+| 342 | [heiher/sockstun](./heiher-sockstun.md) | ⭐ 752 | Java | 56/100 |
 | 343 | [lucid-softworks/browser](./lucid-softworks-browser.md) | ⭐ 131 | Rust | 56/100 |
 | 344 | [NebulaServices/Nebula](./nebulaservices-nebula.md) | ⭐ 375 | Astro | 56/100 |
 | 345 | [yuhaiin/yuhaiin](./yuhaiin-yuhaiin.md) | ⭐ 169 | Go | 56/100 |
@@ -392,7 +392,7 @@
 | 382 | [RustedBytes/rsloop](./rustedbytes-rsloop.md) | ⭐ 209 | Rust | 55/100 |
 | 383 | [euzu/tuliprox](./euzu-tuliprox.md) | ⭐ 594 | Rust | 55/100 |
 | 384 | [torrust/torrust-tracker](./torrust-torrust-tracker.md) | ⭐ 537 | Rust | 55/100 |
-| 385 | [ts-sf/fly](./ts-sf-fly.md) | ⭐ 717 | — | 55/100 |
+| 385 | [ts-sf/fly](./ts-sf-fly.md) | ⭐ 718 | — | 55/100 |
 | 386 | [sinamics/ztnet](./sinamics-ztnet.md) | ⭐ 1.3k | TypeScript | 55/100 |
 | 387 | [hengyoush/kyanos](./hengyoush-kyanos.md) | ⭐ 5.1k | C | 55/100 |
 | 388 | [Pumpkin-MC/Pumpkin](./pumpkin-mc-pumpkin.md) | ⭐ 12.9k | Rust | 55/100 |
@@ -437,9 +437,9 @@
 | 427 | [ripaojiedian/freenode](./ripaojiedian-freenode.md) | ⭐ 2.4k | — | 53/100 |
 | 428 | [ALIILAPRO/v2rayNG-Config](./aliilapro-v2rayng-config.md) | ⭐ 377 | HTML | 53/100 |
 | 429 | [Tght1211/lan-proxy-gateway](./tght1211-lan-proxy-gateway.md) | ⭐ 545 | Go | 53/100 |
-| 430 | [simgine/bevy_replicon](./simgine-bevy-replicon.md) | ⭐ 661 | Rust | 53/100 |
+| 430 | [simgine/bevy_replicon](./simgine-bevy-replicon.md) | ⭐ 662 | Rust | 53/100 |
 | 431 | [free-nodes/v2rayfree](./free-nodes-v2rayfree.md) | ⭐ 15k | — | 53/100 |
-| 432 | [xinggaoya/sing-box-windows](./xinggaoya-sing-box-windows.md) | ⭐ 915 | Rust | 53/100 |
+| 432 | [xinggaoya/sing-box-windows](./xinggaoya-sing-box-windows.md) | ⭐ 916 | Rust | 53/100 |
 | 433 | [ancwrd1/snx-rs](./ancwrd1-snx-rs.md) | ⭐ 538 | Rust | 53/100 |
 | 434 | [ivpn/ios-app](./ivpn-ios-app.md) | ⭐ 577 | Swift | 53/100 |
 | 435 | [Epodonios/v2ray-configs](./epodonios-v2ray-configs.md) | ⭐ 2.9k | Python | 53/100 |
@@ -539,7 +539,7 @@
 | 529 | [aecsocket/aeronet](./aecsocket-aeronet.md) | ⭐ 140 | Rust | 47/100 |
 | 530 | [CNMan/dnscrypt-proxy-config](./cnman-dnscrypt-proxy-config.md) | ⭐ 384 | Shell | 47/100 |
 | 531 | [shayanheidari01/ShineNETVPN](./shayanheidari01-shinenetvpn.md) | ⭐ 138 | Rust | 47/100 |
-| 532 | [Happ-proxy/happ-android](./happ-proxy-happ-android.md) | ⭐ 895 | — | 47/100 |
+| 532 | [Happ-proxy/happ-android](./happ-proxy-happ-android.md) | ⭐ 900 | — | 47/100 |
 | 533 | [PuddinCat/BestClash](./puddincat-bestclash.md) | ⭐ 2.1k | — | 47/100 |
 | 534 | [ecki/net-tools](./ecki-net-tools.md) | ⭐ 312 | C | 47/100 |
 | 535 | [shaoyouvip/free](./shaoyouvip-free.md) | ⭐ 1.3k | — | 47/100 |
@@ -588,7 +588,7 @@
 | 578 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 579 | [hoysengleang/wslog](./hoysengleang-wslog.md) | ⭐ 1 | TypeScript | 43/100 |
 | 580 | [aschmelyun/docker-compose-traefik](./aschmelyun-docker-compose-traefik.md) | ⭐ 59 | PHP | 43/100 |
-| 581 | [ricott1/rebels-in-the-sky](./ricott1-rebels-in-the-sky.md) | ⭐ 760 | Rust | 43/100 |
+| 581 | [ricott1/rebels-in-the-sky](./ricott1-rebels-in-the-sky.md) | ⭐ 761 | Rust | 43/100 |
 | 582 | [monosans/proxy-list](./monosans-proxy-list.md) | ⭐ 1.6k | — | 43/100 |
 | 583 | [Xerxes-2/clewdr](./xerxes-2-clewdr.md) | ⭐ 1.3k | Rust | 43/100 |
 | 584 | [sipwise/rtpengine](./sipwise-rtpengine.md) | ⭐ 1k | C | 43/100 |

@@ -60,7 +60,7 @@
 | 50 | [cowrie/cowrie](./cowrie-cowrie.md) | ⭐ 6.7k | Python | 64/100 |
 | 51 | [Lissy93/awesome-privacy](./lissy93-awesome-privacy.md) | ⭐ 10.1k | Astro | 64/100 |
 | 52 | [google/timesketch](./google-timesketch.md) | ⭐ 3.4k | Python | 64/100 |
-| 53 | [passwordless-id/webauthn](./passwordless-id-webauthn.md) | ⭐ 618 | TypeScript | 64/100 |
+| 53 | [passwordless-id/webauthn](./passwordless-id-webauthn.md) | ⭐ 619 | TypeScript | 64/100 |
 | 54 | [gopasspw/gopass](./gopasspw-gopass.md) | ⭐ 7.3k | Go | 63/100 |
 | 55 | [flick9000/winscript](./flick9000-winscript.md) | ⭐ 3k | CSS | 63/100 |
 | 56 | [meta-llama/PurpleLlama](./meta-llama-purplellama.md) | ⭐ 4.5k | Python | 63/100 |
@@ -110,7 +110,7 @@
 | 100 | [techdevfun/skill-lock](./techdevfun-skill-lock.md) | ⭐ — | TypeScript | 60/100 |
 | 101 | [EmenstaNougat/ESP32-BlueJammer](./emenstanougat-esp32-bluejammer.md) | ⭐ 8.9k | — | 59/100 |
 | 102 | [TURROKS/CVE_Prioritizer](./turroks-cve-prioritizer.md) | ⭐ 712 | Python | 59/100 |
-| 103 | [chushuai/wscan](./chushuai-wscan.md) | ⭐ 716 | Go | 59/100 |
+| 103 | [chushuai/wscan](./chushuai-wscan.md) | ⭐ 717 | Go | 59/100 |
 | 104 | [roddhjav/apparmor.d](./roddhjav-apparmor.d.md) | ⭐ 833 | Go | 59/100 |
 | 105 | [openssh/openssh-portable](./openssh-openssh-portable.md) | ⭐ 4.1k | C | 59/100 |
 | 106 | [sourcentis/deming](./sourcentis-deming.md) | ⭐ 393 | PHP | 59/100 |
@@ -154,7 +154,7 @@
 | 144 | [microsoft/SEAL](./microsoft-seal.md) | ⭐ 4.1k | C++ | 57/100 |
 | 145 | [nix-community/lanzaboote](./nix-community-lanzaboote.md) | ⭐ 1.9k | Rust | 57/100 |
 | 146 | [biandratti/huginn-net](./biandratti-huginn-net.md) | ⭐ 220 | Rust | 57/100 |
-| 147 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 677 | Go | 57/100 |
+| 147 | [gittuf/gittuf](./gittuf-gittuf.md) | ⭐ 678 | Go | 57/100 |
 | 148 | [Roave/SecurityAdvisories](./roave-securityadvisories.md) | ⭐ 2.9k | — | 57/100 |
 | 149 | [SELinuxProject/selinux](./selinuxproject-selinux.md) | ⭐ 1.7k | C | 57/100 |
 | 150 | [discord/access](./discord-access.md) | ⭐ 489 | Python | 57/100 |
@@ -224,8 +224,8 @@
 | 214 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 360 | Java | 53/100 |
 | 215 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 581 | Nix | 53/100 |
 | 216 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 452 | TypeScript | 53/100 |
-| 217 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
-| 218 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
+| 217 | [0xdea/augur](./0xdea-augur.md) | ⭐ 123 | Rust | 53/100 |
+| 218 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
 | 219 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 220 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 596 | C | 53/100 |
 | 221 | [tkhq/qos](./tkhq-qos.md) | ⭐ 125 | Rust | 53/100 |
@@ -273,9 +273,9 @@
 | 263 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 439 | HTML | 50/100 |
 | 264 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 265 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
-| 266 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 266 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 267 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
-| 268 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 268 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
 | 269 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 270 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 530 | JavaScript | 50/100 |
 | 271 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.2k | TypeScript | 50/100 |
@@ -391,8 +391,8 @@
 | 381 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ 5 | — | 42/100 |
 | 382 | [barvhaim/code-security-skills](./barvhaim-code-security-skills.md) | ⭐ 1 | — | 42/100 |
 | 383 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ 6 | — | 42/100 |
-| 384 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
-| 385 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 384 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 385 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
 | 386 | [arm/metis](./arm-metis.md) | ⭐ 892 | — | 42/100 |
 | 387 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 42/100 |
 | 388 | [renton4code/propagate-cli](./renton4code-propagate-cli.md) | ⭐ 3 | — | 42/100 |
@@ -404,8 +404,8 @@
 | 394 | [aws/credential-daemon](./aws-credential-daemon.md) | ⭐ 7 | — | 41/100 |
 | 395 | [humanethq/sandbox-check](./humanethq-sandbox-check.md) | ⭐ 3 | — | 41/100 |
 | 396 | [notaharness/beam](./notaharness-beam.md) | ⭐ 8 | — | 41/100 |
-| 397 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
-| 398 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
+| 397 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
+| 398 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
 | 399 | [spapas/totpvault](./spapas-totpvault.md) | ⭐ — | — | 41/100 |
 | 400 | [movray/meles](./movray-meles.md) | ⭐ 3 | — | 41/100 |
 | 401 | [forcequitOS/worse_query](./forcequitos-worse-query.md) | ⭐ 584 | — | 41/100 |
@@ -501,8 +501,8 @@
 | 491 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ 43 | — | 38/100 |
 | 492 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ 4 | — | 38/100 |
 | 493 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ 289 | — | 38/100 |
-| 494 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
-| 495 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
+| 494 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
+| 495 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
 | 496 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ 23 | — | 38/100 |
 | 497 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ 11 | — | 38/100 |
 | 498 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ 2 | — | 38/100 |

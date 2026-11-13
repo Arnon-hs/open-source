@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -156,7 +156,7 @@
 | 146 | [zoidsh/meru](./zoidsh-meru.md) | ⭐ 1k | TypeScript | 60/100 |
 | 147 | [molvqingtai/WebChat](./molvqingtai-webchat.md) | ⭐ 2.6k | TypeScript | 60/100 |
 | 148 | [iamxvbaba/gramsrv](./iamxvbaba-gramsrv.md) | ⭐ 144 | Go | 60/100 |
-| 149 | [greenmail-mail-test/greenmail](./greenmail-mail-test-greenmail.md) | ⭐ 752 | Java | 60/100 |
+| 149 | [greenmail-mail-test/greenmail](./greenmail-mail-test-greenmail.md) | ⭐ 754 | Java | 60/100 |
 | 150 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 521 | JavaScript | 60/100 |
 | 151 | [zfogg/ascii-chat](./zfogg-ascii-chat.md) | ⭐ 203 | C | 60/100 |
 | 152 | [apache/activemq](./apache-activemq.md) | ⭐ 2.5k | Java | 60/100 |
@@ -170,7 +170,7 @@
 | 160 | [xushanpei/open-file-viewer](./xushanpei-open-file-viewer.md) | ⭐ 2k | TypeScript | 59/100 |
 | 161 | [circled-me/server](./circled-me-server.md) | ⭐ 211 | Go | 59/100 |
 | 162 | [onetimesecret/onetimesecret](./onetimesecret-onetimesecret.md) | ⭐ 3k | Ruby | 59/100 |
-| 163 | [hackthedev/dcts-shipping](./hackthedev-dcts-shipping.md) | ⭐ 642 | JavaScript | 59/100 |
+| 163 | [hackthedev/dcts-shipping](./hackthedev-dcts-shipping.md) | ⭐ 644 | JavaScript | 59/100 |
 | 164 | [cry-inc/dmarc-report-viewer](./cry-inc-dmarc-report-viewer.md) | ⭐ 372 | Rust | 59/100 |
 | 165 | [spacebarchat/server](./spacebarchat-server.md) | ⭐ 2.2k | TypeScript | 59/100 |
 | 166 | [scraly/developers-conferences-agenda](./scraly-developers-conferences-agenda.md) | ⭐ 2k | JavaScript | 59/100 |
@@ -225,7 +225,7 @@
 | 215 | [allegro/hermes](./allegro-hermes.md) | ⭐ 872 | Java | 55/100 |
 | 216 | [morgan3d/markdeep](./morgan3d-markdeep.md) | ⭐ 646 | JavaScript | 55/100 |
 | 217 | [sebbo2002/ical-generator](./sebbo2002-ical-generator.md) | ⭐ 857 | TypeScript | 55/100 |
-| 218 | [Medvedev91/timeto.me](./medvedev91-timeto.me.md) | ⭐ 728 | Kotlin | 55/100 |
+| 218 | [Medvedev91/timeto.me](./medvedev91-timeto.me.md) | ⭐ 732 | Kotlin | 55/100 |
 | 219 | [jmhobbs/cultofthepartyparrot.com](./jmhobbs-cultofthepartyparrot.com.md) | ⭐ 1.6k | HTML | 55/100 |
 | 220 | [microsoft/LangChain4j-for-Beginners](./microsoft-langchain4j-for-beginners.md) | ⭐ 557 | Java | 55/100 |
 | 221 | [appleboy/go-fcm](./appleboy-go-fcm.md) | ⭐ 330 | Go | 55/100 |
@@ -236,7 +236,7 @@
 | 226 | [swoosh/swoosh](./swoosh-swoosh.md) | ⭐ 1.5k | Elixir | 54/100 |
 | 227 | [Blaizzy/nativ](./blaizzy-nativ.md) | ⭐ 4 | Swift | 54/100 |
 | 228 | [tweedegolf/mailcrab](./tweedegolf-mailcrab.md) | ⭐ 1k | Rust | 54/100 |
-| 229 | [nextcloud/tasks](./nextcloud-tasks.md) | ⭐ 710 | JavaScript | 54/100 |
+| 229 | [nextcloud/tasks](./nextcloud-tasks.md) | ⭐ 711 | JavaScript | 54/100 |
 | 230 | [openmls/openmls](./openmls-openmls.md) | ⭐ 1.1k | Rust | 54/100 |
 | 231 | [ruma/ruma](./ruma-ruma.md) | ⭐ 749 | Rust | 54/100 |
 | 232 | [khaled-alshamaa/ar-php](./khaled-alshamaa-ar-php.md) | ⭐ 343 | PHP | 54/100 |
@@ -277,7 +277,7 @@
 | 267 | [thunderbird/thunderbird-android](./thunderbird-thunderbird-android.md) | ⭐ 14.2k | Kotlin | 51/100 |
 | 268 | [aeron-io/aeron](./aeron-io-aeron.md) | ⭐ 9k | Java | 51/100 |
 | 269 | [edulazaro/laragents](./edulazaro-laragents.md) | ⭐ 5 | PHP | 50/100 |
-| 270 | [inline-chat/inline](./inline-chat-inline.md) | ⭐ 909 | Rust | 50/100 |
+| 270 | [inline-chat/inline](./inline-chat-inline.md) | ⭐ 910 | Rust | 50/100 |
 | 271 | [OpenClaudia/openclaudia-skills](./openclaudia-openclaudia-skills.md) | ⭐ 738 | JavaScript | 50/100 |
 | 272 | [open-chat-labs/open-chat](./open-chat-labs-open-chat.md) | ⭐ 208 | Rust | 50/100 |
 | 273 | [7c/fakefilter](./7c-fakefilter.md) | ⭐ 359 | JavaScript | 50/100 |

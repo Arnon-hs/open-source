@@ -29,7 +29,7 @@
 | 19 | [anthropics/anthropic-sdk-typescript](./anthropics-anthropic-sdk-typescript.md) | ⭐ 2.2k | TypeScript | 70/100 |
 | 20 | [facebook/facebook-python-business-sdk](./facebook-facebook-python-business-sdk.md) | ⭐ 1.6k | Python | 70/100 |
 | 21 | [MagicStack/asyncpg](./magicstack-asyncpg.md) | ⭐ 8.1k | Python | 70/100 |
-| 22 | [adyanth/cloudflare-operator](./adyanth-cloudflare-operator.md) | ⭐ 693 | Go | 70/100 |
+| 22 | [adyanth/cloudflare-operator](./adyanth-cloudflare-operator.md) | ⭐ 694 | Go | 70/100 |
 | 23 | [remotestorage/remotestorage.js](./remotestorage-remotestorage.js.md) | ⭐ 2.4k | JavaScript | 70/100 |
 | 24 | [TencentCloud/tencentcloud-sdk-python](./tencentcloud-tencentcloud-sdk-python.md) | ⭐ 719 | Python | 70/100 |
 | 25 | [googleads/googleads-mobile-unity](./googleads-googleads-mobile-unity.md) | ⭐ 1.6k | C# | 70/100 |
@@ -145,7 +145,7 @@
 | 135 | [okunix/gollama](./okunix-gollama.md) | ⭐ 2 | — | 59/100 |
 | 136 | [sanity-io/client](./sanity-io-client.md) | ⭐ 114 | TypeScript | 59/100 |
 | 137 | [xai-org/xai-sdk-ts](./xai-org-xai-sdk-ts.md) | ⭐ 69 | — | 59/100 |
-| 138 | [sahlberg/libnfs](./sahlberg-libnfs.md) | ⭐ 609 | C | 59/100 |
+| 138 | [sahlberg/libnfs](./sahlberg-libnfs.md) | ⭐ 610 | C | 59/100 |
 | 139 | [gtk-rs/gtk-rs-core](./gtk-rs-gtk-rs-core.md) | ⭐ 382 | Rust | 59/100 |
 | 140 | [pygobject/pycairo](./pygobject-pycairo.md) | ⭐ 702 | C | 59/100 |
 | 141 | [ceph/go-ceph](./ceph-go-ceph.md) | ⭐ 695 | Go | 59/100 |
@@ -181,7 +181,7 @@
 | 171 | [jellydn/zed-101-setup](./jellydn-zed-101-setup.md) | ⭐ 1.5k | TypeScript | 56/100 |
 | 172 | [bytecodealliance/wit-bindgen](./bytecodealliance-wit-bindgen.md) | ⭐ 1.5k | Rust | 56/100 |
 | 173 | [apple/swift-temporal-sdk](./apple-swift-temporal-sdk.md) | ⭐ 321 | Swift | 56/100 |
-| 174 | [rodrigocfd/winsafe](./rodrigocfd-winsafe.md) | ⭐ 707 | Rust | 56/100 |
+| 174 | [rodrigocfd/winsafe](./rodrigocfd-winsafe.md) | ⭐ 708 | Rust | 56/100 |
 | 175 | [get-convex/convex-js](./get-convex-convex-js.md) | ⭐ 347 | TypeScript | 56/100 |
 | 176 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 322 | Rust | 56/100 |
 | 177 | [Enos2/my-sdk-work](./enos2-my-sdk-work.md) | ⭐ 1 | TypeScript | 56/100 |
@@ -238,7 +238,7 @@
 | 228 | [ruby-gnome/ruby-gnome](./ruby-gnome-ruby-gnome.md) | ⭐ 404 | Ruby | 50/100 |
 | 229 | [rust-x-bindings/rust-xcb](./rust-x-bindings-rust-xcb.md) | ⭐ 168 | Rust | 50/100 |
 | 230 | [ada-url/rust](./ada-url-rust.md) | ⭐ 123 | Rust | 50/100 |
-| 231 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 912 | Rust | 50/100 |
+| 231 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 913 | Rust | 50/100 |
 | 232 | [nrfconnect/sdk-zephyr](./nrfconnect-sdk-zephyr.md) | ⭐ 443 | C | 50/100 |
 | 233 | [gakonst/nanocodex](./gakonst-nanocodex.md) | ⭐ — | — | 49/100 |
 | 234 | [PerhapxinLab/dotdotduck](./perhapxinlab-dotdotduck.md) | ⭐ 11 | — | 49/100 |
