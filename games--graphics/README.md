@@ -20,7 +20,7 @@
 | 10 | [OGRECave/ogre](./ogrecave-ogre.md) | ⭐ 4.7k | C++ | 68/100 |
 | 11 | [selkies-project/selkies](./selkies-project-selkies.md) | ⭐ 2.5k | Python | 68/100 |
 | 12 | [RodZill4/material-maker](./rodzill4-material-maker.md) | ⭐ 6.3k | GDScript | 68/100 |
-| 13 | [milos-agathon/forge3d](./milos-agathon-forge3d.md) | ⭐ 858 | Rust | 68/100 |
+| 13 | [milos-agathon/forge3d](./milos-agathon-forge3d.md) | ⭐ 859 | Rust | 68/100 |
 | 14 | [flightlessmango/MangoHud](./flightlessmango-mangohud.md) | ⭐ 9.2k | C | 67/100 |
 | 15 | [MonoGame/MonoGame](./monogame-monogame.md) | ⭐ 14.6k | C# | 67/100 |
 | 16 | [X11Libre/xserver](./x11libre-xserver.md) | ⭐ 4.8k | C | 67/100 |
@@ -135,7 +135,7 @@
 | 125 | [DiligentGraphics/DiligentFX](./diligentgraphics-diligentfx.md) | ⭐ 462 | C++ | 59/100 |
 | 126 | [efroemling/ballistica](./efroemling-ballistica.md) | ⭐ 719 | Python | 59/100 |
 | 127 | [mas-bandwidth/reliable](./mas-bandwidth-reliable.md) | ⭐ 658 | C | 59/100 |
-| 128 | [toyota-connected/ivi-homescreen](./toyota-connected-ivi-homescreen.md) | ⭐ 403 | C++ | 59/100 |
+| 128 | [toyota-connected/ivi-homescreen](./toyota-connected-ivi-homescreen.md) | ⭐ 404 | C++ | 59/100 |
 | 129 | [luigifcruz/CyberEther](./luigifcruz-cyberether.md) | ⭐ 877 | C++ | 59/100 |
 | 130 | [HyperionGameTech/HyperionEngine](./hyperiongametech-hyperionengine.md) | ⭐ 572 | C++ | 59/100 |
 | 131 | [OpenWebGAL/WebGAL_Terre](./openwebgal-webgal-terre.md) | ⭐ 663 | TypeScript | 59/100 |
@@ -170,7 +170,7 @@
 | 160 | [fegennari/3DWorld](./fegennari-3dworld.md) | ⭐ 1.4k | C++ | 57/100 |
 | 161 | [playcanvas/supersplat-viewer](./playcanvas-supersplat-viewer.md) | ⭐ 619 | TypeScript | 57/100 |
 | 162 | [scarsty/kys-cpp](./scarsty-kys-cpp.md) | ⭐ 3k | C++ | 57/100 |
-| 163 | [attackgoat/vk-graph](./attackgoat-vk-graph.md) | ⭐ 348 | Rust | 57/100 |
+| 163 | [attackgoat/vk-graph](./attackgoat-vk-graph.md) | ⭐ 349 | Rust | 57/100 |
 | 164 | [castle-engine/castle-engine](./castle-engine-castle-engine.md) | ⭐ 1.3k | Pascal | 57/100 |
 | 165 | [Facepunch/sbox-public](./facepunch-sbox-public.md) | ⭐ 6.5k | C# | 57/100 |
 | 166 | [esengine/estella](./esengine-estella.md) | ⭐ 710 | TypeScript | 57/100 |
@@ -229,7 +229,7 @@
 | 219 | [flingengine/FlingEngine](./flingengine-flingengine.md) | ⭐ 414 | C++ | 54/100 |
 | 220 | [rednblackgames/HyperLap2D](./rednblackgames-hyperlap2d.md) | ⭐ 451 | Java | 54/100 |
 | 221 | [raylib-cs/raylib-cs](./raylib-cs-raylib-cs.md) | ⭐ 1.5k | C# | 54/100 |
-| 222 | [ZyFou/ProceduralTerrains](./zyfou-proceduralterrains.md) | ⭐ 668 | JavaScript | 54/100 |
+| 222 | [ZyFou/ProceduralTerrains](./zyfou-proceduralterrains.md) | ⭐ 669 | JavaScript | 54/100 |
 | 223 | [tesselode/kira](./tesselode-kira.md) | ⭐ 1.1k | Rust | 54/100 |
 | 224 | [Bloom-Engine/engine](./bloom-engine-engine.md) | ⭐ 142 | Rust | 54/100 |
 | 225 | [amzeratul/halley](./amzeratul-halley.md) | ⭐ 3.9k | C | 54/100 |
@@ -338,7 +338,7 @@
 | 328 | [theagentd/CORTAO](./theagentd-cortao.md) | ⭐ 80 | — | 41/100 |
 | 329 | [openigi/openigi](./openigi-openigi.md) | ⭐ 151 | — | 41/100 |
 | 330 | [Open-Game-Standards/OGS-Telemetry-Standard](./open-game-standards-ogs-telemetry-standard.md) | ⭐ — | — | 41/100 |
-| 331 | [apex-compute/ANR](./apex-compute-anr.md) | ⭐ 62 | — | 41/100 |
+| 331 | [apex-compute/ANR](./apex-compute-anr.md) | ⭐ 1.1k | — | 41/100 |
 | 332 | [Hash-7777/open-Hash-LMG](./hash-7777-open-hash-lmg.md) | ⭐ 4 | — | 41/100 |
 | 333 | [LaurentiuGabriel/retro-break](./laurentiugabriel-retro-break.md) | ⭐ 2 | — | 41/100 |
 | 334 | [leonlarsson/isometrics](./leonlarsson-isometrics.md) | ⭐ 1 | — | 41/100 |

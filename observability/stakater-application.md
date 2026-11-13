@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 397 |
-| 🍴 **Forks** | 128 |
+| 🍴 **Forks** | 129 |
 | 💻 **Language** | Mustache |
 | 📈 **Score** | 63/100 |
 | 🗓️ **Last push** | 2026-09-05 |

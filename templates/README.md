@@ -81,7 +81,7 @@
 | 71 | [mathematic-inc/earl](./mathematic-inc-earl.md) | ⭐ 114 | Rust | 77/100 |
 | 72 | [tabler/tabler](./tabler-tabler.md) | ⭐ 42.1k | Astro | 77/100 |
 | 73 | [raintree-technology/agent-starter](./raintree-technology-agent-starter.md) | ⭐ 84 | JavaScript | 77/100 |
-| 74 | [bitwize-music-studio/claude-ai-music-skills](./bitwize-music-studio-claude-ai-music-skills.md) | ⭐ 661 | Python | 77/100 |
+| 74 | [bitwize-music-studio/claude-ai-music-skills](./bitwize-music-studio-claude-ai-music-skills.md) | ⭐ 663 | Python | 77/100 |
 | 75 | [Sri-Krishna-V/awesome-adk-agents](./sri-krishna-v-awesome-adk-agents.md) | ⭐ 352 | Python | 77/100 |
 | 76 | [fabriziosalmi/lws](./fabriziosalmi-lws.md) | ⭐ 75 | Python | 77/100 |
 | 77 | [davila7/claude-code-templates](./davila7-claude-code-templates.md) | ⭐ 33.4k | Python | 77/100 |
@@ -325,7 +325,7 @@
 | 315 | [Miosa-osa/BusinessOS](./miosa-osa-businessos.md) | ⭐ 139 | Go | 62/100 |
 | 316 | [Roll20/roll20-character-sheets](./roll20-roll20-character-sheets.md) | ⭐ 1.2k | HTML | 62/100 |
 | 317 | [gaelcolas/Sampler](./gaelcolas-sampler.md) | ⭐ 245 | PowerShell | 62/100 |
-| 318 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 604 | Rust | 62/100 |
+| 318 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 607 | Rust | 62/100 |
 | 319 | [microsoft/teams-agent-accelerator-templates](./microsoft-teams-agent-accelerator-templates.md) | ⭐ 95 | TypeScript | 62/100 |
 | 320 | [pulkitxm/claude-directory](./pulkitxm-claude-directory.md) | ⭐ 674 | HTML | 62/100 |
 | 321 | [shinpr/mcp-image](./shinpr-mcp-image.md) | ⭐ 190 | TypeScript | 62/100 |

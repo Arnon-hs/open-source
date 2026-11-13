@@ -123,7 +123,7 @@
 | 113 | [dotnet/android](./dotnet-android.md) | ⭐ 2.1k | C# | 61/100 |
 | 114 | [mailgun/mailgun.js](./mailgun-mailgun.js.md) | ⭐ 552 | TypeScript | 61/100 |
 | 115 | [LottieFiles/dotlottie-rs](./lottiefiles-dotlottie-rs.md) | ⭐ 289 | Rust | 61/100 |
-| 116 | [raydium-io/raydium-sdk-V2](./raydium-io-raydium-sdk-v2.md) | ⭐ 353 | TypeScript | 61/100 |
+| 116 | [raydium-io/raydium-sdk-V2](./raydium-io-raydium-sdk-v2.md) | ⭐ 354 | TypeScript | 61/100 |
 | 117 | [open-telemetry/opentelemetry-dotnet-contrib](./open-telemetry-opentelemetry-dotnet-contrib.md) | ⭐ 680 | C# | 61/100 |
 | 118 | [madsmtm/objc2](./madsmtm-objc2.md) | ⭐ 1.1k | Rust | 61/100 |
 | 119 | [dotnet/dotnet](./dotnet-dotnet.md) | ⭐ 1.3k | C# | 61/100 |
@@ -155,7 +155,7 @@
 | 145 | [mlua-rs/mlua](./mlua-rs-mlua.md) | ⭐ 2.9k | Rust | 59/100 |
 | 146 | [fish2018/webhtv](./fish2018-webhtv.md) | ⭐ 683 | Java | 59/100 |
 | 147 | [contentauth/c2pa-rs](./contentauth-c2pa-rs.md) | ⭐ 446 | Rust | 59/100 |
-| 148 | [googleapis/java-genai](./googleapis-java-genai.md) | ⭐ 400 | Java | 59/100 |
+| 148 | [googleapis/java-genai](./googleapis-java-genai.md) | ⭐ 401 | Java | 59/100 |
 | 149 | [PyMySQL/PyMySQL](./pymysql-pymysql.md) | ⭐ 7.9k | Python | 59/100 |
 | 150 | [kreuzberg-dev/tree-sitter-language-pack](./kreuzberg-dev-tree-sitter-language-pack.md) | ⭐ 349 | Rust | 59/100 |
 | 151 | [aliyun/aliyun-oss-python-sdk](./aliyun-aliyun-oss-python-sdk.md) | ⭐ 996 | Python | 58/100 |
@@ -206,7 +206,7 @@
 | 196 | [Dario-Chang/Spark-Governance-SDK](./dario-chang-spark-governance-sdk.md) | ⭐ — | — | 53/100 |
 | 197 | [twistedfall/opencv-rust](./twistedfall-opencv-rust.md) | ⭐ 2.5k | Rust | 53/100 |
 | 198 | [beowolx/rensa](./beowolx-rensa.md) | ⭐ 318 | Rust | 53/100 |
-| 199 | [vhspace/sdl3-rs](./vhspace-sdl3-rs.md) | ⭐ 403 | Rust | 53/100 |
+| 199 | [vhspace/sdl3-rs](./vhspace-sdl3-rs.md) | ⭐ 404 | Rust | 53/100 |
 | 200 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.4k | Rust | 53/100 |
 | 201 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.5k | Kotlin | 53/100 |
 | 202 | [snowtech738-byte/auria-chain](./snowtech738-byte-auria-chain.md) | ⭐ 1 | — | 52/100 |

@@ -65,7 +65,7 @@
 | 55 | [rk0neki/OpenKatana](./rk0neki-openkatana.md) | ⭐ 72 | Python | 75/100 |
 | 56 | [shotstack/shotstack-sdk-python](./shotstack-shotstack-sdk-python.md) | ⭐ 27 | Python | 75/100 |
 | 57 | [cyancreatordive/cap-cut-Unlocker](./cyancreatordive-cap-cut-unlocker.md) | ⭐ 31 | — | 75/100 |
-| 58 | [joeseesun/qiaomu-cut-skill](./joeseesun-qiaomu-cut-skill.md) | ⭐ 382 | JavaScript | 75/100 |
+| 58 | [joeseesun/qiaomu-cut-skill](./joeseesun-qiaomu-cut-skill.md) | ⭐ 383 | JavaScript | 75/100 |
 | 59 | [crimeacs/product-demo-director](./crimeacs-product-demo-director.md) | ⭐ 38 | Python | 75/100 |
 | 60 | [neopen/video-clip-agent](./neopen-video-clip-agent.md) | ⭐ 45 | Python | 75/100 |
 | 61 | [mohyware/clip-js](./mohyware-clip-js.md) | ⭐ 773 | TypeScript | 75/100 |
@@ -181,7 +181,7 @@
 | 171 | [Bomx/super-video-maker-skill](./bomx-super-video-maker-skill.md) | ⭐ 342 | Python | 68/100 |
 | 172 | [ybouane/VideoFlow](./ybouane-videoflow.md) | ⭐ 172 | TypeScript | 68/100 |
 | 173 | [Volumetenrectify/ae-motion-compiler](./volumetenrectify-ae-motion-compiler.md) | ⭐ 111 | HTML | 68/100 |
-| 174 | [seydx/node-av](./seydx-node-av.md) | ⭐ 390 | TypeScript | 68/100 |
+| 174 | [seydx/node-av](./seydx-node-av.md) | ⭐ 391 | TypeScript | 68/100 |
 | 175 | [tvheadend/tvheadend](./tvheadend-tvheadend.md) | ⭐ 3.6k | C | 68/100 |
 | 176 | [Agents365-ai/video-podcast-maker](./agents365-ai-video-podcast-maker.md) | ⭐ 1.7k | Python | 68/100 |
 | 177 | [palmier-io/palmier-pro](./palmier-io-palmier-pro.md) | ⭐ 14.7k | Swift | 68/100 |
@@ -512,12 +512,12 @@
 | 502 | [cutbypham/awesome-davinci-resolve](./cutbypham-awesome-davinci-resolve.md) | ⭐ 70 | Lua | 54/100 |
 | 503 | [DozaVisuals/doza-assist](./dozavisuals-doza-assist.md) | ⭐ 57 | Python | 54/100 |
 | 504 | [TheAcharya/MarkersExtractor](./theacharya-markersextractor.md) | ⭐ 48 | Swift | 54/100 |
-| 505 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 808 | C++ | 54/100 |
+| 505 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 810 | C++ | 54/100 |
 | 506 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 507 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 50 | Kotlin | 53/100 |
 | 508 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 509 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
-| 510 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 509 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 510 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
 | 511 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 512 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 523 | — | 53/100 |
 | 513 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |

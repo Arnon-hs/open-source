@@ -50,7 +50,7 @@
 | 40 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 4.1k | TypeScript | 71/100 |
 | 41 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
 | 42 | [cporter202/awesome-ai-tools](./cporter202-awesome-ai-tools.md) | ⭐ 326 | — | 70/100 |
-| 43 | [claude-world/notebooklm-skill](./claude-world-notebooklm-skill.md) | ⭐ 499 | Python | 70/100 |
+| 43 | [claude-world/notebooklm-skill](./claude-world-notebooklm-skill.md) | ⭐ 500 | Python | 70/100 |
 | 44 | [ZeroLu/awesome-seedance](./zerolu-awesome-seedance.md) | ⭐ 2.8k | Shell | 70/100 |
 | 45 | [waooAI/waoowaoo](./waooai-waoowaoo.md) | ⭐ 14.8k | TypeScript | 70/100 |
 | 46 | [zJay26/douyin-skills](./zjay26-douyin-skills.md) | ⭐ 61 | Python | 69/100 |
@@ -126,7 +126,7 @@
 | 116 | [charlie947/social-media-skills](./charlie947-social-media-skills.md) | ⭐ 3.9k | Python | 55/100 |
 | 117 | [ziqihuangg/Awesome-Evaluation-of-Visual-Generation](./ziqihuangg-awesome-evaluation-of-visual-generation.md) | ⭐ 466 | — | 54/100 |
 | 118 | [ALEEEHU/World-Simulator](./aleeehu-world-simulator.md) | ⭐ 397 | — | 54/100 |
-| 119 | [AceDataCloud/Nexior](./acedatacloud-nexior.md) | ⭐ 400 | Vue | 54/100 |
+| 119 | [AceDataCloud/Nexior](./acedatacloud-nexior.md) | ⭐ 401 | Vue | 54/100 |
 | 120 | [duixcom/Duix-Avatar](./duixcom-duix-avatar.md) | ⭐ 16.3k | C | 53/100 |
 | 121 | [kaketiti/magickit](./kaketiti-magickit.md) | ⭐ — | HTML | 53/100 |
 | 122 | [Ali-Cheikh/nosey-agent](./ali-cheikh-nosey-agent.md) | ⭐ 5 | JavaScript | 53/100 |
@@ -148,7 +148,7 @@
 | 138 | [Lightricks/LTX-2.5](./lightricks-ltx-2.5.md) | ⭐ 1.6k | diffusion-single-file | 46/100 |
 | 139 | [Lightricks/LTX-2.3](./lightricks-ltx-2.3.md) | ⭐ 1.8k | diffusers | 46/100 |
 | 140 | [josh99smith/youtube-scraper](./josh99smith-youtube-scraper.md) | ⭐ — | — | 45/100 |
-| 141 | [ShadowKingYT444/unglazed](./shadowkingyt444-unglazed.md) | ⭐ — | — | 45/100 |
+| 141 | [ShadowKingYT444/unglazed](./shadowkingyt444-unglazed.md) | ⭐ 1 | — | 45/100 |
 | 142 | [lettercamp/lettercamp](./lettercamp-lettercamp.md) | ⭐ 3 | — | 45/100 |
 | 143 | [MaxonT/aisync](./maxont-aisync.md) | ⭐ 38 | — | 45/100 |
 | 144 | [GoogleChrome/modern-web-guidance](./googlechrome-modern-web-guidance.md) | ⭐ 6.8k | — | 45/100 |
@@ -159,8 +159,8 @@
 | 149 | [larryvrh/MiniMax-H3-Turbo-Lora](./larryvrh-minimax-h3-turbo-lora.md) | ⭐ 838 | minimax-h3 | 45/100 |
 | 150 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 151 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 152 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 358 | — | 43/100 |
-| 153 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 152 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 153 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 358 | — | 43/100 |
 | 154 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 155 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 156 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
@@ -182,8 +182,8 @@
 | 172 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 173 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 174 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 175 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 176 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 175 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 176 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
 | 177 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 178 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 

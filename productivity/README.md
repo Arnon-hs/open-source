@@ -111,7 +111,7 @@
 | 101 | [httptoolkit/httptoolkit-desktop](./httptoolkit-httptoolkit-desktop.md) | ⭐ 741 | TypeScript | 62/100 |
 | 102 | [hywax/mafl](./hywax-mafl.md) | ⭐ 760 | TypeScript | 62/100 |
 | 103 | [kachkaev/njt](./kachkaev-njt.md) | ⭐ 318 | TypeScript | 61/100 |
-| 104 | [hongquan/CoBang](./hongquan-cobang.md) | ⭐ 354 | Python | 61/100 |
+| 104 | [hongquan/CoBang](./hongquan-cobang.md) | ⭐ 355 | Python | 61/100 |
 | 105 | [mudkipme/MoeMemosAndroid](./mudkipme-moememosandroid.md) | ⭐ 1.2k | Kotlin | 61/100 |
 | 106 | [cybersemics/em](./cybersemics-em.md) | ⭐ 358 | TypeScript | 61/100 |
 | 107 | [Taiko2k/Tauon](./taiko2k-tauon.md) | ⭐ 3k | Python | 61/100 |
@@ -208,7 +208,7 @@
 | 198 | [Sirulex/cursor-clip](./sirulex-cursor-clip.md) | ⭐ 122 | Rust | 54/100 |
 | 199 | [l0ng-ai/papr](./l0ng-ai-papr.md) | ⭐ 592 | Rust | 54/100 |
 | 200 | [ziadshalaby00/ZS-New-Tab](./ziadshalaby00-zs-new-tab.md) | ⭐ 1 | JavaScript | 53/100 |
-| 201 | [Comfy-Org/Comfy-Desktop](./comfy-org-comfy-desktop.md) | ⭐ 700 | TypeScript | 53/100 |
+| 201 | [Comfy-Org/Comfy-Desktop](./comfy-org-comfy-desktop.md) | ⭐ 703 | TypeScript | 53/100 |
 | 202 | [fossasia/badgemagic-app](./fossasia-badgemagic-app.md) | ⭐ 2k | Dart | 53/100 |
 | 203 | [gitpod-io/memo](./gitpod-io-memo.md) | ⭐ 63 | TypeScript | 53/100 |
 | 204 | [Ruszero01/clippi](./ruszero01-clippi.md) | ⭐ 454 | Rust | 53/100 |
@@ -222,7 +222,7 @@
 | 212 | [heroku/webapp-runner](./heroku-webapp-runner.md) | ⭐ 324 | Java | 52/100 |
 | 213 | [d12frosted/vulpea](./d12frosted-vulpea.md) | ⭐ 474 | Emacs Lisp | 52/100 |
 | 214 | [goweiwen/Allium](./goweiwen-allium.md) | ⭐ 395 | Rust | 52/100 |
-| 215 | [Mjoyufull/fsel](./mjoyufull-fsel.md) | ⭐ 488 | Rust | 52/100 |
+| 215 | [Mjoyufull/fsel](./mjoyufull-fsel.md) | ⭐ 487 | Rust | 52/100 |
 | 216 | [Akhouri-Anmol-Kumar/APIC](./akhouri-anmol-kumar-apic.md) | ⭐ 1 | — | 51/100 |
 | 217 | [CCBlueX/LiquidLauncher](./ccbluex-liquidlauncher.md) | ⭐ 290 | Rust | 51/100 |
 | 218 | [veloren/airshipper](./veloren-airshipper.md) | ⭐ 290 | Rust | 51/100 |
@@ -250,7 +250,7 @@
 | 240 | [andreasserfilippi/clipbridge](./andreasserfilippi-clipbridge.md) | ⭐ 3 | — | 49/100 |
 | 241 | [MeisApps/pcbu-desktop](./meisapps-pcbu-desktop.md) | ⭐ 486 | C++ | 49/100 |
 | 242 | [pop-os/launcher](./pop-os-launcher.md) | ⭐ 287 | Rust | 49/100 |
-| 243 | [shadps4-emu/shadps4-qtlauncher](./shadps4-emu-shadps4-qtlauncher.md) | ⭐ 525 | C++ | 49/100 |
+| 243 | [shadps4-emu/shadps4-qtlauncher](./shadps4-emu-shadps4-qtlauncher.md) | ⭐ 527 | C++ | 49/100 |
 | 244 | [coderGtm/yantra-app-launcher](./codergtm-yantra-app-launcher.md) | ⭐ 146 | Kotlin | 49/100 |
 | 245 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 920 | Java | 49/100 |
 | 246 | [memospot/memospot](./memospot-memospot.md) | ⭐ 321 | Rust | 49/100 |
@@ -313,8 +313,8 @@
 | 303 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 304 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 305 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 306 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
-| 307 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 306 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 307 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
 | 308 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 309 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 310 | [dayvster/zenkai](./dayvster-zenkai.md) | ⭐ 23 | Zig | 42/100 |

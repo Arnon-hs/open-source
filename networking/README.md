@@ -226,8 +226,8 @@
 | 216 | [NodePassProject/Anywhere](./nodepassproject-anywhere.md) | ⭐ 2.5k | Swift | 62/100 |
 | 217 | [encodeous/nylon](./encodeous-nylon.md) | ⭐ 532 | Go | 62/100 |
 | 218 | [Johnshall/Shadowrocket-ADBlock-Rules-Forever](./johnshall-shadowrocket-adblock-rules-forever.md) | ⭐ 32.1k | — | 62/100 |
-| 219 | [vakhov/fresh-proxy-list](./vakhov-fresh-proxy-list.md) | ⭐ 386 | PHP | 62/100 |
-| 220 | [torrentpier/torrentpier](./torrentpier-torrentpier.md) | ⭐ 343 | PHP | 62/100 |
+| 219 | [vakhov/fresh-proxy-list](./vakhov-fresh-proxy-list.md) | ⭐ 387 | PHP | 62/100 |
+| 220 | [torrentpier/torrentpier](./torrentpier-torrentpier.md) | ⭐ 342 | PHP | 62/100 |
 | 221 | [Harry-kp/vortix](./harry-kp-vortix.md) | ⭐ 766 | Rust | 62/100 |
 | 222 | [ZXCurban/NetOrbit](./zxcurban-netorbit.md) | ⭐ 254 | Python | 62/100 |
 | 223 | [tailscale-dev/ScaleTail](./tailscale-dev-scaletail.md) | ⭐ 2.2k | Python | 62/100 |
@@ -274,7 +274,7 @@
 | 264 | [firewalla/firewalla](./firewalla-firewalla.md) | ⭐ 636 | JavaScript | 60/100 |
 | 265 | [ozeranskii/httptap](./ozeranskii-httptap.md) | ⭐ 851 | Python | 60/100 |
 | 266 | [yusing/godoxy](./yusing-godoxy.md) | ⭐ 4.2k | Go | 60/100 |
-| 267 | [getmeridian/meridian](./getmeridian-meridian.md) | ⭐ 506 | Python | 60/100 |
+| 267 | [getmeridian/meridian](./getmeridian-meridian.md) | ⭐ 507 | Python | 60/100 |
 | 268 | [jkroepke/openvpn-auth-oauth2](./jkroepke-openvpn-auth-oauth2.md) | ⭐ 531 | Go | 60/100 |
 | 269 | [2scraper/shein-scraper](./2scraper-shein-scraper.md) | ⭐ 10 | Python | 60/100 |
 | 270 | [Tecnativa/docker-socket-proxy](./tecnativa-docker-socket-proxy.md) | ⭐ 2.9k | Python | 59/100 |
@@ -351,7 +351,7 @@
 | 341 | [AllexVeldman/pyoci](./allexveldman-pyoci.md) | ⭐ 113 | Rust | 56/100 |
 | 342 | [heiher/sockstun](./heiher-sockstun.md) | ⭐ 752 | Java | 56/100 |
 | 343 | [lucid-softworks/browser](./lucid-softworks-browser.md) | ⭐ 131 | Rust | 56/100 |
-| 344 | [NebulaServices/Nebula](./nebulaservices-nebula.md) | ⭐ 375 | Astro | 56/100 |
+| 344 | [NebulaServices/Nebula](./nebulaservices-nebula.md) | ⭐ 374 | Astro | 56/100 |
 | 345 | [yuhaiin/yuhaiin](./yuhaiin-yuhaiin.md) | ⭐ 169 | Go | 56/100 |
 | 346 | [SamNet-dev/MTProxyMax](./samnet-dev-mtproxymax.md) | ⭐ 830 | Shell | 56/100 |
 | 347 | [isc-projects/kea](./isc-projects-kea.md) | ⭐ 766 | C++ | 56/100 |
@@ -495,7 +495,7 @@
 | 485 | [telemt/telemt](./telemt-telemt.md) | ⭐ 5.8k | Rust | 50/100 |
 | 486 | [paullouisageneau/libdatachannel](./paullouisageneau-libdatachannel.md) | ⭐ 2.8k | C++ | 50/100 |
 | 487 | [DevlogZz/Kivo](./devlogzz-kivo.md) | ⭐ 319 | JavaScript | 50/100 |
-| 488 | [Arcadia-Solutions/arcadia](./arcadia-solutions-arcadia.md) | ⭐ 368 | Rust | 50/100 |
+| 488 | [Arcadia-Solutions/arcadia](./arcadia-solutions-arcadia.md) | ⭐ 367 | Rust | 50/100 |
 | 489 | [hoophq/hoop](./hoophq-hoop.md) | ⭐ 856 | Go | 50/100 |
 | 490 | [igareck/vpn-configs-for-russia](./igareck-vpn-configs-for-russia.md) | ⭐ 9.6k | — | 50/100 |
 | 491 | [PabloLec/neoss](./pablolec-neoss.md) | ⭐ 234 | TypeScript | 50/100 |
@@ -577,7 +577,7 @@
 | 567 | [kotro-labs/kotro-proxy-engine](./kotro-labs-kotro-proxy-engine.md) | ⭐ 9 | — | 45/100 |
 | 568 | [s-bose/arrest](./s-bose-arrest.md) | ⭐ 174 | — | 45/100 |
 | 569 | [sleep3r/mtproto.zig](./sleep3r-mtproto.zig.md) | ⭐ 2.2k | Zig | 45/100 |
-| 570 | [Zaeem20/FREE_PROXIES_LIST](./zaeem20-free-proxies-list.md) | ⭐ 425 | — | 45/100 |
+| 570 | [Zaeem20/FREE_PROXIES_LIST](./zaeem20-free-proxies-list.md) | ⭐ 426 | — | 45/100 |
 | 571 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 266 | TypeScript | 45/100 |
 | 572 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 573 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 655 | — | 45/100 |

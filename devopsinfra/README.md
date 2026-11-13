@@ -20,7 +20,7 @@
 | 10 | [mag37/dockcheck](./mag37-dockcheck.md) | ⭐ 2.5k | Shell | 75/100 |
 | 11 | [saltyorg/Saltbox](./saltyorg-saltbox.md) | ⭐ 891 | Python | 75/100 |
 | 12 | [containerd/containerd](./containerd-containerd.md) | ⭐ 21.5k | Go | 74/100 |
-| 13 | [kubara-io/kubara](./kubara-io-kubara.md) | ⭐ 440 | Go | 74/100 |
+| 13 | [kubara-io/kubara](./kubara-io-kubara.md) | ⭐ 441 | Go | 74/100 |
 | 14 | [yeasy/docker_practice](./yeasy-docker-practice.md) | ⭐ 26.4k | Go | 74/100 |
 | 15 | [replicatedhq/kots](./replicatedhq-kots.md) | ⭐ 953 | Go | 74/100 |
 | 16 | [werf/werf](./werf-werf.md) | ⭐ 4.7k | Go | 74/100 |
@@ -156,7 +156,7 @@
 | 146 | [danm-cni/danm](./danm-cni-danm.md) | ⭐ 396 | Go | 63/100 |
 | 147 | [ceph/ceph-csi](./ceph-ceph-csi.md) | ⭐ 1.6k | Go | 63/100 |
 | 148 | [crumbhole/argocd-lovely-plugin](./crumbhole-argocd-lovely-plugin.md) | ⭐ 493 | Go | 63/100 |
-| 149 | [zammad/zammad-docker-compose](./zammad-zammad-docker-compose.md) | ⭐ 394 | — | 63/100 |
+| 149 | [zammad/zammad-docker-compose](./zammad-zammad-docker-compose.md) | ⭐ 395 | — | 63/100 |
 | 150 | [will-moss/isaiah](./will-moss-isaiah.md) | ⭐ 1.1k | Go | 63/100 |
 | 151 | [qoomon/docker-host](./qoomon-docker-host.md) | ⭐ 1.2k | Shell | 63/100 |
 | 152 | [fussybeaver/bollard](./fussybeaver-bollard.md) | ⭐ 1.4k | Rust | 63/100 |
@@ -290,13 +290,13 @@
 | 280 | [devops-works/binenv](./devops-works-binenv.md) | ⭐ 409 | Go | 57/100 |
 | 281 | [docker/model-runner](./docker-model-runner.md) | ⭐ 662 | Go | 57/100 |
 | 282 | [discourse/discourse_docker](./discourse-discourse-docker.md) | ⭐ 1.9k | Shell | 57/100 |
-| 283 | [volcano-sh/kthena](./volcano-sh-kthena.md) | ⭐ 497 | Go | 57/100 |
+| 283 | [volcano-sh/kthena](./volcano-sh-kthena.md) | ⭐ 498 | Go | 57/100 |
 | 284 | [aliyun/terraform-provider-alicloud](./aliyun-terraform-provider-alicloud.md) | ⭐ 665 | Go | 57/100 |
 | 285 | [rancher/k3k](./rancher-k3k.md) | ⭐ 921 | Go | 57/100 |
 | 286 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 459 | Dockerfile | 57/100 |
 | 287 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.4k | PHP | 57/100 |
-| 288 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
-| 289 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 288 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 289 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
 | 290 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10.4k | Go | 57/100 |
 | 291 | [tackish/pigeoneye](./tackish-pigeoneye.md) | ⭐ 95 | — | 56/100 |
 | 292 | [softcane/codex-session-operator](./softcane-codex-session-operator.md) | ⭐ 6 | — | 56/100 |
@@ -321,7 +321,7 @@
 | 311 | [acrlabs/simkube](./acrlabs-simkube.md) | ⭐ 403 | Rust | 55/100 |
 | 312 | [huaweicloud/terraform-provider-huaweicloud](./huaweicloud-terraform-provider-huaweicloud.md) | ⭐ 275 | Go | 55/100 |
 | 313 | [kubernetes-sigs/zeitgeist](./kubernetes-sigs-zeitgeist.md) | ⭐ 206 | Go | 55/100 |
-| 314 | [imran31415/kube-coder](./imran31415-kube-coder.md) | ⭐ 409 | Python | 55/100 |
+| 314 | [imran31415/kube-coder](./imran31415-kube-coder.md) | ⭐ 410 | Python | 55/100 |
 | 315 | [edgelesssys/contrast](./edgelesssys-contrast.md) | ⭐ 324 | Go | 55/100 |
 | 316 | [stackitcloud/terraform-provider-stackit](./stackitcloud-terraform-provider-stackit.md) | ⭐ 198 | Go | 55/100 |
 | 317 | [project-akri/akri](./project-akri-akri.md) | ⭐ 1.3k | Rust | 55/100 |
@@ -374,7 +374,7 @@
 | 364 | [tdk-landscape/tdk-cli-core](./tdk-landscape-tdk-cli-core.md) | ⭐ — | — | 51/100 |
 | 365 | [TiPunchLabs/ckad-dojo](./tipunchlabs-ckad-dojo.md) | ⭐ 89 | Shell | 51/100 |
 | 366 | [lockdep/stackradar-cli](./lockdep-stackradar-cli.md) | ⭐ 3 | — | 51/100 |
-| 367 | [worldcoin/orb-software](./worldcoin-orb-software.md) | ⭐ 400 | Rust | 51/100 |
+| 367 | [worldcoin/orb-software](./worldcoin-orb-software.md) | ⭐ 402 | Rust | 51/100 |
 | 368 | [kubevirt/hyperconverged-cluster-operator](./kubevirt-hyperconverged-cluster-operator.md) | ⭐ 192 | Go | 51/100 |
 | 369 | [WisdomSky/CasaOS-LinuxServer-AppStore](./wisdomsky-casaos-linuxserver-appstore.md) | ⭐ 426 | — | 51/100 |
 | 370 | [cdxgen/cdxgen](./cdxgen-cdxgen.md) | ⭐ 1.1k | JavaScript | 51/100 |
@@ -487,8 +487,8 @@
 | 477 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 478 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 479 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 480 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
-| 481 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 480 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
+| 481 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
 | 482 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 483 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 484 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |

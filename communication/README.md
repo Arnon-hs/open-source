@@ -199,7 +199,7 @@
 | 189 | [spatie/calendar-links](./spatie-calendar-links.md) | ⭐ 1k | PHP | 57/100 |
 | 190 | [happyDomain/happydeliver](./happydomain-happydeliver.md) | ⭐ 238 | Go | 57/100 |
 | 191 | [decke/smtprelay](./decke-smtprelay.md) | ⭐ 641 | Go | 57/100 |
-| 192 | [KashCal/KashCal](./kashcal-kashcal.md) | ⭐ 493 | Kotlin | 57/100 |
+| 192 | [KashCal/KashCal](./kashcal-kashcal.md) | ⭐ 494 | Kotlin | 57/100 |
 | 193 | [movim/movim](./movim-movim.md) | ⭐ 2.1k | PHP | 57/100 |
 | 194 | [foundation/inky](./foundation-inky.md) | ⭐ 711 | Rust | 57/100 |
 | 195 | [chronotope/chrono](./chronotope-chrono.md) | ⭐ 4k | Rust | 57/100 |
@@ -259,7 +259,7 @@
 | 249 | [PijarAdiluhung/mabims-hijri](./pijaradiluhung-mabims-hijri.md) | ⭐ 1 | TypeScript | 52/100 |
 | 250 | [drewmt/lineweb-social](./drewmt-lineweb-social.md) | ⭐ 14 | PHP | 52/100 |
 | 251 | [staktrace/mailparse](./staktrace-mailparse.md) | ⭐ 226 | Rust | 52/100 |
-| 252 | [ArcaneChat/android](./arcanechat-android.md) | ⭐ 404 | Java | 52/100 |
+| 252 | [ArcaneChat/android](./arcanechat-android.md) | ⭐ 405 | Java | 52/100 |
 | 253 | [sublime-security/sublime-rules](./sublime-security-sublime-rules.md) | ⭐ 381 | YAML | 52/100 |
 | 254 | [logos-messaging/logos-delivery](./logos-messaging-logos-delivery.md) | ⭐ 249 | Nim | 52/100 |
 | 255 | [LemmyNet/lemmy](./lemmynet-lemmy.md) | ⭐ 14.7k | Rust | 52/100 |

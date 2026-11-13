@@ -209,7 +209,7 @@
 | 199 | [productdevbook/etiket](./productdevbook-etiket.md) | ⭐ 495 | TypeScript | 57/100 |
 | 200 | [GeiserX/awesome-spain](./geiserx-awesome-spain.md) | ⭐ 372 | Python | 57/100 |
 | 201 | [zwicker-group/py-pde](./zwicker-group-py-pde.md) | ⭐ 471 | Python | 57/100 |
-| 202 | [nao1215/filesql](./nao1215-filesql.md) | ⭐ 385 | Go | 57/100 |
+| 202 | [nao1215/filesql](./nao1215-filesql.md) | ⭐ 386 | Go | 57/100 |
 | 203 | [Marsilea-viz/marsilea](./marsilea-viz-marsilea.md) | ⭐ 331 | Python | 57/100 |
 | 204 | [bordoni/fakerpress](./bordoni-fakerpress.md) | ⭐ 364 | PHP | 57/100 |
 | 205 | [apache/datafusion-sqlparser-rs](./apache-datafusion-sqlparser-rs.md) | ⭐ 3.5k | Rust | 57/100 |
@@ -231,10 +231,10 @@
 | 221 | [ericmjl/nxviz](./ericmjl-nxviz.md) | ⭐ 487 | Python | 56/100 |
 | 222 | [enthought/mayavi](./enthought-mayavi.md) | ⭐ 1.4k | Python | 56/100 |
 | 223 | [rokath/trice](./rokath-trice.md) | ⭐ 1k | C | 56/100 |
-| 224 | [opensearch-project/data-prepper](./opensearch-project-data-prepper.md) | ⭐ 378 | Java | 56/100 |
+| 224 | [opensearch-project/data-prepper](./opensearch-project-data-prepper.md) | ⭐ 380 | Java | 56/100 |
 | 225 | [cortex-lab/phy](./cortex-lab-phy.md) | ⭐ 438 | Python | 56/100 |
 | 226 | [the-turing-way/the-turing-way](./the-turing-way-the-turing-way.md) | ⭐ 2.2k | TeX | 56/100 |
-| 227 | [bids-standard/bids-specification](./bids-standard-bids-specification.md) | ⭐ 377 | Python | 56/100 |
+| 227 | [bids-standard/bids-specification](./bids-standard-bids-specification.md) | ⭐ 378 | Python | 56/100 |
 | 228 | [cordx56/rustowl](./cordx56-rustowl.md) | ⭐ 5.3k | Rust | 56/100 |
 | 229 | [beling/bsuccinct-rs](./beling-bsuccinct-rs.md) | ⭐ 173 | Rust | 56/100 |
 | 230 | [TheAlgorithms/Rust](./thealgorithms-rust.md) | ⭐ 26.2k | Rust | 56/100 |
@@ -331,7 +331,7 @@
 | 321 | [feldera/feldera](./feldera-feldera.md) | ⭐ 2.2k | Rust | 48/100 |
 | 322 | [supabase/etl](./supabase-etl.md) | ⭐ 2.4k | Rust | 48/100 |
 | 323 | [MMMystery/foto-documento-specs](./mmmystery-foto-documento-specs.md) | ⭐ 1 | JavaScript | 47/100 |
-| 324 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 761 | Rust | 47/100 |
+| 324 | [PentHertz/LUKSbox](./penthertz-luksbox.md) | ⭐ 763 | Rust | 47/100 |
 | 325 | [micronaut-projects/micronaut-data](./micronaut-projects-micronaut-data.md) | ⭐ 484 | Java | 47/100 |
 | 326 | [ashtonckj/Purrrfessorrr-Slothhh](./ashtonckj-purrrfessorrr-slothhh.md) | ⭐ 3 | Python | 46/100 |
 | 327 | [dmitriy-iliyov/oncebox](./dmitriy-iliyov-oncebox.md) | ⭐ 18 | Java | 46/100 |
