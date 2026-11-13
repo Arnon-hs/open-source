@@ -44,7 +44,7 @@
 | 34 | [Foundry376/Mailspring](./foundry376-mailspring.md) | ⭐ 18k | JavaScript | 70/100 |
 | 35 | [pact-foundation/pact-go](./pact-foundation-pact-go.md) | ⭐ 963 | Go | 70/100 |
 | 36 | [openclaw/slacrawl](./openclaw-slacrawl.md) | ⭐ 238 | Go | 70/100 |
-| 37 | [project-robius/robrix](./project-robius-robrix.md) | ⭐ 516 | Rust | 70/100 |
+| 37 | [project-robius/robrix](./project-robius-robrix.md) | ⭐ 518 | Rust | 70/100 |
 | 38 | [wasp-lang/wasp](./wasp-lang-wasp.md) | ⭐ 18.8k | TypeScript | 70/100 |
 | 39 | [arikchakma/maily.to](./arikchakma-maily.to.md) | ⭐ 4k | TypeScript | 69/100 |
 | 40 | [centrifugal/centrifugo](./centrifugal-centrifugo.md) | ⭐ 11k | Go | 69/100 |
@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -212,7 +212,7 @@
 | 202 | [jalaali/jalaali-js](./jalaali-jalaali-js.md) | ⭐ 368 | TypeScript | 56/100 |
 | 203 | [kenn-io/msgvault](./kenn-io-msgvault.md) | ⭐ 2.2k | Go | 56/100 |
 | 204 | [roundcube/roundcubemail](./roundcube-roundcubemail.md) | ⭐ 7.3k | PHP | 56/100 |
-| 205 | [muni-town/roomy](./muni-town-roomy.md) | ⭐ 498 | TypeScript | 56/100 |
+| 205 | [muni-town/roomy](./muni-town-roomy.md) | ⭐ 499 | TypeScript | 56/100 |
 | 206 | [analogdotnow/Analog](./analogdotnow-analog.md) | ⭐ 1.6k | TypeScript | 56/100 |
 | 207 | [markuspoerschke/iCal](./markuspoerschke-ical.md) | ⭐ 1.2k | PHP | 56/100 |
 | 208 | [RblSb/SyncTube](./rblsb-synctube.md) | ⭐ 397 | Haxe | 56/100 |
@@ -227,7 +227,7 @@
 | 217 | [sebbo2002/ical-generator](./sebbo2002-ical-generator.md) | ⭐ 857 | TypeScript | 55/100 |
 | 218 | [Medvedev91/timeto.me](./medvedev91-timeto.me.md) | ⭐ 732 | Kotlin | 55/100 |
 | 219 | [jmhobbs/cultofthepartyparrot.com](./jmhobbs-cultofthepartyparrot.com.md) | ⭐ 1.6k | HTML | 55/100 |
-| 220 | [microsoft/LangChain4j-for-Beginners](./microsoft-langchain4j-for-beginners.md) | ⭐ 557 | Java | 55/100 |
+| 220 | [microsoft/LangChain4j-for-Beginners](./microsoft-langchain4j-for-beginners.md) | ⭐ 558 | Java | 55/100 |
 | 221 | [appleboy/go-fcm](./appleboy-go-fcm.md) | ⭐ 330 | Go | 55/100 |
 | 222 | [Sharkord/sharkord](./sharkord-sharkord.md) | ⭐ 1.6k | TypeScript | 55/100 |
 | 223 | [jerryxff26-alt/dsh-delivery-board](./jerryxff26-alt-dsh-delivery-board.md) | ⭐ 4 | JavaScript | 54/100 |
@@ -240,7 +240,7 @@
 | 230 | [openmls/openmls](./openmls-openmls.md) | ⭐ 1.1k | Rust | 54/100 |
 | 231 | [ruma/ruma](./ruma-ruma.md) | ⭐ 749 | Rust | 54/100 |
 | 232 | [khaled-alshamaa/ar-php](./khaled-alshamaa-ar-php.md) | ⭐ 343 | PHP | 54/100 |
-| 233 | [lennart-k/rustical](./lennart-k-rustical.md) | ⭐ 575 | Rust | 54/100 |
+| 233 | [lennart-k/rustical](./lennart-k-rustical.md) | ⭐ 576 | Rust | 54/100 |
 | 234 | [containrrr/shoutrrr](./containrrr-shoutrrr.md) | ⭐ 1.7k | Go | 54/100 |
 | 235 | [telegramdesktop/tdesktop](./telegramdesktop-tdesktop.md) | ⭐ 33.5k | C++ | 54/100 |
 | 236 | [grloper/NoMorePwn-Password-Manager](./grloper-nomorepwn-password-manager.md) | ⭐ 1 | Python | 53/100 |
@@ -250,9 +250,9 @@
 | 240 | [stalwartlabs/mail-auth](./stalwartlabs-mail-auth.md) | ⭐ 130 | Rust | 53/100 |
 | 241 | [pydantic/ai-chat-ui](./pydantic-ai-chat-ui.md) | ⭐ 72 | TypeScript | 53/100 |
 | 242 | [hadashiA/VitalRouter](./hadashia-vitalrouter.md) | ⭐ 370 | C# | 53/100 |
-| 243 | [aree6/LiftShift](./aree6-liftshift.md) | ⭐ 529 | TypeScript | 53/100 |
+| 243 | [aree6/LiftShift](./aree6-liftshift.md) | ⭐ 530 | TypeScript | 53/100 |
 | 244 | [nextcloud/calendar](./nextcloud-calendar.md) | ⭐ 1.2k | JavaScript | 53/100 |
-| 245 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 981 | JavaScript | 53/100 |
+| 245 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 1k | JavaScript | 53/100 |
 | 246 | [resend/react-email](./resend-react-email.md) | ⭐ 19.9k | TypeScript | 53/100 |
 | 247 | [stalwartlabs/stalwart](./stalwartlabs-stalwart.md) | ⭐ 15.9k | Rust | 53/100 |
 | 248 | [Felix-Helleckes/ICQ](./felix-helleckes-icq.md) | ⭐ 9 | JavaScript | 52/100 |
@@ -286,7 +286,7 @@
 | 276 | [Expensify/App](./expensify-app.md) | ⭐ 5.1k | TypeScript | 50/100 |
 | 277 | [panda-sandeep/dearagent](./panda-sandeep-dearagent.md) | ⭐ 51 | — | 49/100 |
 | 278 | [adecubed/gigamail](./adecubed-gigamail.md) | ⭐ 19 | — | 49/100 |
-| 279 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 634 | Kotlin | 49/100 |
+| 279 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 636 | Kotlin | 49/100 |
 | 280 | [awslabs/mls-rs](./awslabs-mls-rs.md) | ⭐ 262 | Rust | 49/100 |
 | 281 | [freenet/river](./freenet-river.md) | ⭐ 315 | Rust | 49/100 |
 | 282 | [matrix-construct/tuwunel](./matrix-construct-tuwunel.md) | ⭐ 2.8k | Rust | 49/100 |
@@ -339,7 +339,7 @@
 | 329 | [matt0x6F/irc-client](./matt0x6f-irc-client.md) | ⭐ 16 | — | 45/100 |
 | 330 | [anuragmerndev/kontext-ai](./anuragmerndev-kontext-ai.md) | ⭐ 25 | — | 45/100 |
 | 331 | [3kh0/slick](./3kh0-slick.md) | ⭐ 119 | — | 45/100 |
-| 332 | [stalwartlabs/mail-parser](./stalwartlabs-mail-parser.md) | ⭐ 479 | Rust | 45/100 |
+| 332 | [stalwartlabs/mail-parser](./stalwartlabs-mail-parser.md) | ⭐ 480 | Rust | 45/100 |
 | 333 | [shellscape/jsx-email](./shellscape-jsx-email.md) | ⭐ 1.3k | TypeScript | 45/100 |
 | 334 | [continuwuity/continuwuity](./continuwuity-continuwuity.md) | ⭐ 1.2k | Rust | 45/100 |
 | 335 | [zicojiao/trick-or-take](./zicojiao-trick-or-take.md) | ⭐ — | JavaScript | 44/100 |
@@ -364,8 +364,8 @@
 | 354 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 355 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 356 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 357 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
-| 358 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 357 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
+| 358 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 690 | — | 42/100 |
 | 359 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 360 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 361 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 11 | — | 42/100 |

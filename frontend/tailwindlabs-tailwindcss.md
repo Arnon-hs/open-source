@@ -53,8 +53,8 @@ tailwindlabs/tailwindcss：tailwindlabs/tailwindcss helps ship user-facing inter
 
 **Quality signals**
 
-- 98583 GitHub stars
-- 6388 forks
+- 98587 GitHub stars
+- 6391 forks
 - updated 2026-11-11
 - primary language: TypeScript
 - 7 topics

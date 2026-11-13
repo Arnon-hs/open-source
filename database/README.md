@@ -57,7 +57,7 @@
 | 47 | [catfan/Medoo](./catfan-medoo.md) | ⭐ 4.9k | PHP | 65/100 |
 | 48 | [jackc/pgx](./jackc-pgx.md) | ⭐ 14.4k | Go | 65/100 |
 | 49 | [miniflux/v2](./miniflux-v2.md) | ⭐ 9.9k | Go | 65/100 |
-| 50 | [kzahel/yepanywhere](./kzahel-yepanywhere.md) | ⭐ 548 | TypeScript | 65/100 |
+| 50 | [kzahel/yepanywhere](./kzahel-yepanywhere.md) | ⭐ 549 | TypeScript | 65/100 |
 | 51 | [Pelski/ytzero](./pelski-ytzero.md) | ⭐ 676 | TypeScript | 64/100 |
 | 52 | [pelikan-io/pelikan](./pelikan-io-pelikan.md) | ⭐ 296 | Rust | 64/100 |
 | 53 | [krateng/maloja](./krateng-maloja.md) | ⭐ 1.9k | Python | 64/100 |
@@ -100,7 +100,7 @@
 | 90 | [cloudnative-pg/cloudnative-pg](./cloudnative-pg-cloudnative-pg.md) | ⭐ 9.6k | Go | 62/100 |
 | 91 | [grantjenks/python-diskcache](./grantjenks-python-diskcache.md) | ⭐ 2.9k | Python | 61/100 |
 | 92 | [dineug/erd-editor](./dineug-erd-editor.md) | ⭐ 1.8k | TypeScript | 61/100 |
-| 93 | [I-am-PUID-0/DUMB](./i-am-puid-0-dumb.md) | ⭐ 498 | Python | 61/100 |
+| 93 | [I-am-PUID-0/DUMB](./i-am-puid-0-dumb.md) | ⭐ 500 | Python | 61/100 |
 | 94 | [oschwald/geoip2-golang](./oschwald-geoip2-golang.md) | ⭐ 2.3k | Go | 61/100 |
 | 95 | [shaarli/Shaarli](./shaarli-shaarli.md) | ⭐ 3.9k | PHP | 61/100 |
 | 96 | [Phishing-Database/Phishing.Database](./phishing-database-phishing.database.md) | ⭐ 1.6k | — | 61/100 |
@@ -148,7 +148,7 @@
 | 138 | [Donkie/Spoolman](./donkie-spoolman.md) | ⭐ 3k | TypeScript | 59/100 |
 | 139 | [skyzh/type-exercise-in-rust](./skyzh-type-exercise-in-rust.md) | ⭐ 1.5k | Rust | 59/100 |
 | 140 | [murraco/spring-boot-jwt](./murraco-spring-boot-jwt.md) | ⭐ 1.7k | Java | 59/100 |
-| 141 | [berkeleydb/libdb](./berkeleydb-libdb.md) | ⭐ 414 | C | 59/100 |
+| 141 | [berkeleydb/libdb](./berkeleydb-libdb.md) | ⭐ 415 | C | 59/100 |
 | 142 | [apache/cassandra](./apache-cassandra.md) | ⭐ 10.2k | Java | 59/100 |
 | 143 | [KouShenhai/KCloud-Platform-IoT](./koushenhai-kcloud-platform-iot.md) | ⭐ 680 | Java | 59/100 |
 | 144 | [faust-streaming/faust](./faust-streaming-faust.md) | ⭐ 1.9k | Python | 59/100 |
@@ -157,7 +157,7 @@
 | 147 | [pandorafuture/wx-cli](./pandorafuture-wx-cli.md) | ⭐ 1k | Rust | 59/100 |
 | 148 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 1.3k | Rust | 59/100 |
 | 149 | [ctripcorp/x-pipe](./ctripcorp-x-pipe.md) | ⭐ 2.1k | Java | 59/100 |
-| 150 | [fjall-rs/lsm-tree](./fjall-rs-lsm-tree.md) | ⭐ 465 | Rust | 59/100 |
+| 150 | [fjall-rs/lsm-tree](./fjall-rs-lsm-tree.md) | ⭐ 466 | Rust | 59/100 |
 | 151 | [postgres/postgres](./postgres-postgres.md) | ⭐ 22.8k | C | 59/100 |
 | 152 | [doctrine/mongodb-odm](./doctrine-mongodb-odm.md) | ⭐ 1.1k | PHP | 59/100 |
 | 153 | [apache/druid](./apache-druid.md) | ⭐ 14.1k | Java | 59/100 |
@@ -227,7 +227,7 @@
 | 217 | [pgbouncer/pgbouncer](./pgbouncer-pgbouncer.md) | ⭐ 4.4k | C | 55/100 |
 | 218 | [BaseXdb/basex](./basexdb-basex.md) | ⭐ 769 | Java | 55/100 |
 | 219 | [riscv/riscv-unified-db](./riscv-riscv-unified-db.md) | ⭐ 230 | Ruby | 55/100 |
-| 220 | [baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv](./baselkelziye-ytu-bilgisayar-muhendisligi-arsiv.md) | ⭐ 507 | Jupyter Notebook | 55/100 |
+| 220 | [baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv](./baselkelziye-ytu-bilgisayar-muhendisligi-arsiv.md) | ⭐ 509 | Jupyter Notebook | 55/100 |
 | 221 | [omega8cc/boa](./omega8cc-boa.md) | ⭐ 395 | Shell | 55/100 |
 | 222 | [glommer/pgmicro](./glommer-pgmicro.md) | ⭐ 1.2k | Rust | 55/100 |
 | 223 | [f1db/f1db](./f1db-f1db.md) | ⭐ 655 | Kotlin | 55/100 |
@@ -275,7 +275,7 @@
 | 265 | [sqldef/sqldef](./sqldef-sqldef.md) | ⭐ 3.2k | Go | 53/100 |
 | 266 | [OneClickDBA/harry-performance-scraper](./oneclickdba-harry-performance-scraper.md) | ⭐ 5 | Go | 52/100 |
 | 267 | [drk1rd/wharf](./drk1rd-wharf.md) | ⭐ 4 | — | 52/100 |
-| 268 | [lunar-landing/rudis](./lunar-landing-rudis.md) | ⭐ 433 | Rust | 52/100 |
+| 268 | [lunar-landing/rudis](./lunar-landing-rudis.md) | ⭐ 434 | Rust | 52/100 |
 | 269 | [fcoury/tsql](./fcoury-tsql.md) | ⭐ 468 | Rust | 52/100 |
 | 270 | [svix/omniqueue-rs](./svix-omniqueue-rs.md) | ⭐ 112 | Rust | 52/100 |
 | 271 | [devrimgunduz/pagila](./devrimgunduz-pagila.md) | ⭐ 1.1k | PLpgSQL | 52/100 |
@@ -554,8 +554,8 @@
 | 544 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 545 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 546 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 435 | — | 38/100 |
-| 547 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
-| 548 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 547 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 548 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
 | 549 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 550 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 551 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |

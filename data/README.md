@@ -158,7 +158,7 @@
 | 148 | [crate/crate](./crate-crate.md) | ⭐ 4.5k | Java | 60/100 |
 | 149 | [microsoft/Qcodes](./microsoft-qcodes.md) | ⭐ 470 | Python | 60/100 |
 | 150 | [protontypes/open-sustainable-technology](./protontypes-open-sustainable-technology.md) | ⭐ 2.6k | — | 60/100 |
-| 151 | [gotempsh/temps](./gotempsh-temps.md) | ⭐ 909 | Rust | 60/100 |
+| 151 | [gotempsh/temps](./gotempsh-temps.md) | ⭐ 911 | Rust | 60/100 |
 | 152 | [apache/beam](./apache-beam.md) | ⭐ 8.7k | Java | 60/100 |
 | 153 | [itskovacs/trip](./itskovacs-trip.md) | ⭐ 2k | TypeScript | 59/100 |
 | 154 | [KnowageLabs/Knowage-Server](./knowagelabs-knowage-server.md) | ⭐ 450 | Java | 59/100 |
@@ -206,7 +206,7 @@
 | 196 | [hellobertrand/zxc](./hellobertrand-zxc.md) | ⭐ 539 | C | 57/100 |
 | 197 | [OpenSpace/OpenSpace](./openspace-openspace.md) | ⭐ 1.3k | C++ | 57/100 |
 | 198 | [JuliaPlots/Plots.jl](./juliaplots-plots.jl.md) | ⭐ 2k | Julia | 57/100 |
-| 199 | [productdevbook/etiket](./productdevbook-etiket.md) | ⭐ 494 | TypeScript | 57/100 |
+| 199 | [productdevbook/etiket](./productdevbook-etiket.md) | ⭐ 495 | TypeScript | 57/100 |
 | 200 | [GeiserX/awesome-spain](./geiserx-awesome-spain.md) | ⭐ 372 | Python | 57/100 |
 | 201 | [zwicker-group/py-pde](./zwicker-group-py-pde.md) | ⭐ 471 | Python | 57/100 |
 | 202 | [nao1215/filesql](./nao1215-filesql.md) | ⭐ 385 | Go | 57/100 |
@@ -284,7 +284,7 @@
 | 274 | [aptabase/tauri-plugin-aptabase](./aptabase-tauri-plugin-aptabase.md) | ⭐ 153 | Rust | 53/100 |
 | 275 | [evolve75/RubyTree](./evolve75-rubytree.md) | ⭐ 391 | Ruby | 53/100 |
 | 276 | [saschagrunert/indextree](./saschagrunert-indextree.md) | ⭐ 819 | Rust | 53/100 |
-| 277 | [serenedb/serenedb](./serenedb-serenedb.md) | ⭐ 974 | C++ | 53/100 |
+| 277 | [serenedb/serenedb](./serenedb-serenedb.md) | ⭐ 1.1k | C++ | 53/100 |
 | 278 | [StarRocks/starrocks](./starrocks-starrocks.md) | ⭐ 12.3k | Java | 53/100 |
 | 279 | [NandhaKishorM/laya](./nandhakishorm-laya.md) | ⭐ 12.3k | Python | 53/100 |
 | 280 | [ayazhafiz/xorf](./ayazhafiz-xorf.md) | ⭐ 171 | Rust | 52/100 |
@@ -310,7 +310,7 @@
 | 300 | [OSGeo/gdal](./osgeo-gdal.md) | ⭐ 6.2k | C++ | 50/100 |
 | 301 | [nohajc/anylinuxfs](./nohajc-anylinuxfs.md) | ⭐ 1.7k | Rust | 50/100 |
 | 302 | [visit-dav/visit](./visit-dav-visit.md) | ⭐ 540 | C | 50/100 |
-| 303 | [wavelog/wavelog](./wavelog-wavelog.md) | ⭐ 590 | PHP | 50/100 |
+| 303 | [wavelog/wavelog](./wavelog-wavelog.md) | ⭐ 591 | PHP | 50/100 |
 | 304 | [linkml/linkml](./linkml-linkml.md) | ⭐ 701 | Python | 50/100 |
 | 305 | [Pometry/Raphtory](./pometry-raphtory.md) | ⭐ 653 | Rust | 50/100 |
 | 306 | [mdn/browser-compat-data](./mdn-browser-compat-data.md) | ⭐ 5.8k | JSON | 50/100 |

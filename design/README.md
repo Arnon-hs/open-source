@@ -46,7 +46,7 @@
 | 36 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 7.1k | PHP | 59/100 |
 | 37 | [QwenLM/Qwen3-TTS](./qwenlm-qwen3-tts.md) | ⭐ 14.4k | Python | 58/100 |
 | 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 675 | Vue | 58/100 |
-| 39 | [TousstNicolas/JLC2KiCad_lib](./tousstnicolas-jlc2kicad-lib.md) | ⭐ 492 | Python | 58/100 |
+| 39 | [TousstNicolas/JLC2KiCad_lib](./tousstnicolas-jlc2kicad-lib.md) | ⭐ 493 | Python | 58/100 |
 | 40 | [alphagov/govuk-design-system](./alphagov-govuk-design-system.md) | ⭐ 690 | Nunjucks | 58/100 |
 | 41 | [hashicorp/design-system](./hashicorp-design-system.md) | ⭐ 519 | TypeScript | 58/100 |
 | 42 | [xdslproject/xdsl](./xdslproject-xdsl.md) | ⭐ 610 | Python | 58/100 |
@@ -111,7 +111,7 @@
 | 101 | [synfig/synfig](./synfig-synfig.md) | ⭐ 2.4k | C++ | 50/100 |
 | 102 | [drawcms/drawcms](./drawcms-drawcms.md) | ⭐ 45 | — | 49/100 |
 | 103 | [finix-community/finix](./finix-community-finix.md) | ⭐ 619 | Nix | 49/100 |
-| 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 539 | Shell | 49/100 |
+| 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 542 | Shell | 49/100 |
 | 105 | [kzhrknt/awesome-design-md-jp](./kzhrknt-awesome-design-md-jp.md) | ⭐ 1k | HTML | 49/100 |
 | 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 555 | Python | 49/100 |
 | 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.2k | Ruby | 49/100 |

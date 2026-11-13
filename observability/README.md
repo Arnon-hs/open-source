@@ -33,7 +33,7 @@
 | 23 | [komari-monitor/komari](./komari-monitor-komari.md) | ⭐ 7k | Go | 69/100 |
 | 24 | [cilium/tetragon](./cilium-tetragon.md) | ⭐ 5.2k | C | 69/100 |
 | 25 | [dromara/dynamic-tp](./dromara-dynamic-tp.md) | ⭐ 4.8k | Java | 69/100 |
-| 26 | [monocongo/climate_indices](./monocongo-climate-indices.md) | ⭐ 462 | Python | 69/100 |
+| 26 | [monocongo/climate_indices](./monocongo-climate-indices.md) | ⭐ 464 | Python | 69/100 |
 | 27 | [kyverno/policy-reporter](./kyverno-policy-reporter.md) | ⭐ 394 | Go | 69/100 |
 | 28 | [kdash-rs/kdash](./kdash-rs-kdash.md) | ⭐ 2.6k | Rust | 69/100 |
 | 29 | [networkupstools/nut](./networkupstools-nut.md) | ⭐ 4.5k | C | 68/100 |
@@ -224,7 +224,7 @@
 | 214 | [rotel-dev/rotel](./rotel-dev-rotel.md) | ⭐ 414 | Rust | 49/100 |
 | 215 | [gbfr-logs/gbfr-logs](./gbfr-logs-gbfr-logs.md) | ⭐ 289 | Rust | 49/100 |
 | 216 | [Hayder-Rzaigui/cybernom-community](./hayder-rzaigui-cybernom-community.md) | ⭐ 3 | — | 49/100 |
-| 217 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 441 | Rust | 49/100 |
+| 217 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 440 | Rust | 49/100 |
 | 218 | [rahhuul/auto-api-observe](./rahhuul-auto-api-observe.md) | ⭐ 3 | — | 48/100 |
 | 219 | [tallyhook/tallyhook-collector](./tallyhook-tallyhook-collector.md) | ⭐ 1 | — | 48/100 |
 | 220 | [poonesnerfect/jlf](./poonesnerfect-jlf.md) | ⭐ 34 | — | 48/100 |

@@ -41,11 +41,11 @@
 | 31 | [Skyscanner/cfripper](./skyscanner-cfripper.md) | ⭐ 415 | Python | 81/100 |
 | 32 | [pcliangx/AppGenesisForge](./pcliangx-appgenesisforge.md) | ⭐ 239 | Python | 81/100 |
 | 33 | [roninoss/create-expo-stack](./roninoss-create-expo-stack.md) | ⭐ 2.6k | TypeScript | 81/100 |
-| 34 | [Marve10s/Better-Fullstack](./marve10s-better-fullstack.md) | ⭐ 822 | TypeScript | 81/100 |
+| 34 | [Marve10s/Better-Fullstack](./marve10s-better-fullstack.md) | ⭐ 823 | TypeScript | 81/100 |
 | 35 | [ScraperNode/awesome-n8n-templates](./scrapernode-awesome-n8n-templates.md) | ⭐ 119 | Astro | 80/100 |
 | 36 | [undergroundrap/UEFN-TOOLBELT](./undergroundrap-uefn-toolbelt.md) | ⭐ 54 | Python | 80/100 |
 | 37 | [spring-projects/spring-data-mongodb](./spring-projects-spring-data-mongodb.md) | ⭐ 1.7k | Java | 80/100 |
-| 38 | [templatical/sdk](./templatical-sdk.md) | ⭐ 552 | TypeScript | 80/100 |
+| 38 | [templatical/sdk](./templatical-sdk.md) | ⭐ 553 | TypeScript | 80/100 |
 | 39 | [kitwork/starter](./kitwork-starter.md) | ⭐ 40 | HTML | 80/100 |
 | 40 | [CuriousLearner/django-keel](./curiouslearner-django-keel.md) | ⭐ 382 | Jinja | 80/100 |
 | 41 | [oapi-codegen/oapi-codegen](./oapi-codegen-oapi-codegen.md) | ⭐ 8.7k | Go | 80/100 |
@@ -94,7 +94,7 @@
 | 84 | [extension-js/extension.js](./extension-js-extension.js.md) | ⭐ 5.2k | TypeScript | 76/100 |
 | 85 | [Decodo/n8n-nodes-decodo](./decodo-n8n-nodes-decodo.md) | ⭐ 9 | TypeScript | 75/100 |
 | 86 | [salmanshahriar/Next-Elite](./salmanshahriar-next-elite.md) | ⭐ 109 | TypeScript | 75/100 |
-| 87 | [epicserve/django-base-site](./epicserve-django-base-site.md) | ⭐ 453 | Python | 75/100 |
+| 87 | [epicserve/django-base-site](./epicserve-django-base-site.md) | ⭐ 452 | Python | 75/100 |
 | 88 | [voglster/lumbergh](./voglster-lumbergh.md) | ⭐ 33 | TypeScript | 75/100 |
 | 89 | [microsoft/iq-series](./microsoft-iq-series.md) | ⭐ 409 | Jupyter Notebook | 75/100 |
 | 90 | [mattgierhart/PRD-driven-context-engineering](./mattgierhart-prd-driven-context-engineering.md) | ⭐ 179 | HTML | 75/100 |
@@ -445,7 +445,7 @@
 | 435 | [mcmah309/eros](./mcmah309-eros.md) | ⭐ 452 | Rust | 51/100 |
 | 436 | [missdeer/coredns_custom_build](./missdeer-coredns-custom-build.md) | ⭐ 330 | Go Template | 51/100 |
 | 437 | [jonringer/nix-template](./jonringer-nix-template.md) | ⭐ 227 | Rust | 51/100 |
-| 438 | [TheBevyFlock/bevy_new_2d](./thebevyflock-bevy-new-2d.md) | ⭐ 496 | Rust | 50/100 |
+| 438 | [TheBevyFlock/bevy_new_2d](./thebevyflock-bevy-new-2d.md) | ⭐ 497 | Rust | 50/100 |
 | 439 | [jamescherti/minimal-emacs.d](./jamescherti-minimal-emacs.d.md) | ⭐ 928 | Emacs Lisp | 50/100 |
 | 440 | [muhammadyulasfipahrizal/gitops](./muhammadyulasfipahrizal-gitops.md) | ⭐ — | Go Template | 50/100 |
 | 441 | [P4Software/SheetStream](./p4software-sheetstream.md) | ⭐ — | C# | 49/100 |

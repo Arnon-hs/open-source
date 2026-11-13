@@ -49,7 +49,7 @@
 | 39 | [pragma-org/amaru](./pragma-org-amaru.md) | ⭐ 119 | Rust | 68/100 |
 | 40 | [coinbase/mesh-sdk-go](./coinbase-mesh-sdk-go.md) | ⭐ 200 | Go | 68/100 |
 | 41 | [google/digitalbuildings](./google-digitalbuildings.md) | ⭐ 467 | Python | 68/100 |
-| 42 | [longbridge/openapi](./longbridge-openapi.md) | ⭐ 471 | Rust | 68/100 |
+| 42 | [longbridge/openapi](./longbridge-openapi.md) | ⭐ 472 | Rust | 68/100 |
 | 43 | [ansible/awx-operator](./ansible-awx-operator.md) | ⭐ 1.5k | Jinja | 67/100 |
 | 44 | [meilisearch/meilisearch-java](./meilisearch-meilisearch-java.md) | ⭐ 245 | Java | 67/100 |
 | 45 | [dart-lang/sdk](./dart-lang-sdk.md) | ⭐ 11.3k | Dart | 67/100 |
@@ -58,7 +58,7 @@
 | 48 | [grafana/alloy-scenarios](./grafana-alloy-scenarios.md) | ⭐ 400 | Python | 67/100 |
 | 49 | [google/play-services-plugins](./google-play-services-plugins.md) | ⭐ 527 | Kotlin | 67/100 |
 | 50 | [aliyun/openapi-sdk-php](./aliyun-openapi-sdk-php.md) | ⭐ 531 | PHP | 67/100 |
-| 51 | [venturedrake/laravel-crm](./venturedrake-laravel-crm.md) | ⭐ 473 | PHP | 67/100 |
+| 51 | [venturedrake/laravel-crm](./venturedrake-laravel-crm.md) | ⭐ 475 | PHP | 67/100 |
 | 52 | [grafana/faro-web-sdk](./grafana-faro-web-sdk.md) | ⭐ 1.2k | TypeScript | 67/100 |
 | 53 | [googleapis/python-genai](./googleapis-python-genai.md) | ⭐ 4.1k | Python | 67/100 |
 | 54 | [emscripten-core/emsdk](./emscripten-core-emsdk.md) | ⭐ 3.7k | Python | 66/100 |
@@ -71,9 +71,9 @@
 | 61 | [gophercloud/gophercloud](./gophercloud-gophercloud.md) | ⭐ 1k | Go | 65/100 |
 | 62 | [scs/substrate-api-client](./scs-substrate-api-client.md) | ⭐ 265 | Rust | 65/100 |
 | 63 | [getsentry/sentry-dart](./getsentry-sentry-dart.md) | ⭐ 877 | Dart | 65/100 |
-| 64 | [m-sec-org/BreachWeave](./m-sec-org-breachweave.md) | ⭐ 760 | TypeScript | 65/100 |
+| 64 | [m-sec-org/BreachWeave](./m-sec-org-breachweave.md) | ⭐ 763 | TypeScript | 65/100 |
 | 65 | [bnb-chain/bnbagent-sdk](./bnb-chain-bnbagent-sdk.md) | ⭐ 66 | Python | 65/100 |
-| 66 | [openai/openai-ruby](./openai-openai-ruby.md) | ⭐ 475 | Ruby | 65/100 |
+| 66 | [openai/openai-ruby](./openai-openai-ruby.md) | ⭐ 476 | Ruby | 65/100 |
 | 67 | [GitLiveApp/firebase-kotlin-sdk](./gitliveapp-firebase-kotlin-sdk.md) | ⭐ 1.7k | Kotlin | 65/100 |
 | 68 | [Goldziher/spikard](./goldziher-spikard.md) | ⭐ 123 | Rust | 65/100 |
 | 69 | [godotengine/godot-cpp](./godotengine-godot-cpp.md) | ⭐ 2.8k | C++ | 65/100 |
@@ -141,7 +141,7 @@
 | 131 | [duckdb/duckdb-rs](./duckdb-duckdb-rs.md) | ⭐ 987 | Rust | 60/100 |
 | 132 | [CrankBoyHQ/crankboy-app](./crankboyhq-crankboy-app.md) | ⭐ 413 | C | 60/100 |
 | 133 | [bitwarden/sdk-sm](./bitwarden-sdk-sm.md) | ⭐ 504 | Rust | 60/100 |
-| 134 | [langfuse/langfuse-python](./langfuse-langfuse-python.md) | ⭐ 514 | Python | 60/100 |
+| 134 | [langfuse/langfuse-python](./langfuse-langfuse-python.md) | ⭐ 515 | Python | 60/100 |
 | 135 | [okunix/gollama](./okunix-gollama.md) | ⭐ 2 | — | 59/100 |
 | 136 | [sanity-io/client](./sanity-io-client.md) | ⭐ 114 | TypeScript | 59/100 |
 | 137 | [xai-org/xai-sdk-ts](./xai-org-xai-sdk-ts.md) | ⭐ 69 | — | 59/100 |
@@ -200,7 +200,7 @@
 | 190 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 473 | Swift | 54/100 |
 | 191 | [PyO3/maturin](./pyo3-maturin.md) | ⭐ 5.9k | Rust | 54/100 |
 | 192 | [matsadler/magnus](./matsadler-magnus.md) | ⭐ 920 | Rust | 53/100 |
-| 193 | [quickwit-oss/tantivy-py](./quickwit-oss-tantivy-py.md) | ⭐ 435 | Rust | 53/100 |
+| 193 | [quickwit-oss/tantivy-py](./quickwit-oss-tantivy-py.md) | ⭐ 436 | Rust | 53/100 |
 | 194 | [dotnet/ClangSharp](./dotnet-clangsharp.md) | ⭐ 1.3k | C# | 53/100 |
 | 195 | [georust/gdal](./georust-gdal.md) | ⭐ 459 | Rust | 53/100 |
 | 196 | [Dario-Chang/Spark-Governance-SDK](./dario-chang-spark-governance-sdk.md) | ⭐ — | — | 53/100 |
@@ -239,7 +239,7 @@
 | 229 | [rust-x-bindings/rust-xcb](./rust-x-bindings-rust-xcb.md) | ⭐ 168 | Rust | 50/100 |
 | 230 | [ada-url/rust](./ada-url-rust.md) | ⭐ 123 | Rust | 50/100 |
 | 231 | [boltffi/boltffi](./boltffi-boltffi.md) | ⭐ 913 | Rust | 50/100 |
-| 232 | [nrfconnect/sdk-zephyr](./nrfconnect-sdk-zephyr.md) | ⭐ 443 | C | 50/100 |
+| 232 | [nrfconnect/sdk-zephyr](./nrfconnect-sdk-zephyr.md) | ⭐ 444 | C | 50/100 |
 | 233 | [gakonst/nanocodex](./gakonst-nanocodex.md) | ⭐ — | — | 49/100 |
 | 234 | [PerhapxinLab/dotdotduck](./perhapxinlab-dotdotduck.md) | ⭐ 11 | — | 49/100 |
 | 235 | [Ralith/openxrs](./ralith-openxrs.md) | ⭐ 342 | Rust | 49/100 |
