@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 27 |
+| ⭐ **Stars** | 28 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 65/100 |
@@ -53,7 +53,7 @@ avivgerz-hue/vibe-shield：avivgerz-hue/vibe-shield helps catch security and pri
 
 **Quality signals**
 
-- 27 GitHub stars
+- 28 GitHub stars
 - 2 forks
 - updated 2026-11-08
 - primary language: TypeScript

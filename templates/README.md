@@ -357,7 +357,7 @@
 | 347 | [Shopify/shopify-app-template-node](./shopify-shopify-app-template-node.md) | ⭐ 1k | JavaScript | 60/100 |
 | 348 | [ArcherGu/fast-vite-nestjs-electron](./archergu-fast-vite-nestjs-electron.md) | ⭐ 375 | Vue | 60/100 |
 | 349 | [json-e/json-e](./json-e-json-e.md) | ⭐ 213 | Rust | 60/100 |
-| 350 | [KevinYoung-Kw/vibe-resume-skill](./kevinyoung-kw-vibe-resume-skill.md) | ⭐ 102 | HTML | 60/100 |
+| 350 | [KevinYoung-Kw/vibe-resume-skill](./kevinyoung-kw-vibe-resume-skill.md) | ⭐ 104 | HTML | 60/100 |
 | 351 | [NikiforovAll/mcp-template-dotnet](./nikiforovall-mcp-template-dotnet.md) | ⭐ 25 | C# | 60/100 |
 | 352 | [chohra-med/expo_boilerplate](./chohra-med-expo-boilerplate.md) | ⭐ 36 | TypeScript | 60/100 |
 | 353 | [AdamMc331/AndroidAppTemplate](./adammc331-androidapptemplate.md) | ⭐ 306 | Kotlin | 60/100 |

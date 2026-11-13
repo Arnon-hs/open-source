@@ -369,7 +369,7 @@
 | 359 | [safedep/pmg](./safedep-pmg.md) | ⭐ 564 | Go | 56/100 |
 | 360 | [firezone/firezone](./firezone-firezone.md) | ⭐ 9.2k | Elixir | 56/100 |
 | 361 | [XTLS/libXray](./xtls-libxray.md) | ⭐ 236 | Go | 56/100 |
-| 362 | [glincker/levelrail](./glincker-levelrail.md) | ⭐ 203 | Go | 55/100 |
+| 362 | [glincker/levelrail](./glincker-levelrail.md) | ⭐ 207 | Go | 55/100 |
 | 363 | [OpenAyame/ayame](./openayame-ayame.md) | ⭐ 337 | Go | 55/100 |
 | 364 | [orbien-org/orbien](./orbien-org-orbien.md) | ⭐ 1.6k | Rust | 55/100 |
 | 365 | [ShadowWhisperer/BlockLists](./shadowwhisperer-blocklists.md) | ⭐ 463 | — | 55/100 |

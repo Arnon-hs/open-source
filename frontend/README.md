@@ -308,7 +308,7 @@
 | 298 | [expo/expo](./expo-expo.md) | ⭐ 53.5k | TypeScript | 64/100 |
 | 299 | [bitwarden/clients](./bitwarden-clients.md) | ⭐ 14.2k | TypeScript | 64/100 |
 | 300 | [darkroomengineering/lenis](./darkroomengineering-lenis.md) | ⭐ 17.2k | TypeScript | 63/100 |
-| 301 | [sercanvr/devsec-status](./sercanvr-devsec-status.md) | ⭐ 16 | TypeScript | 63/100 |
+| 301 | [sercanvr/devsec-status](./sercanvr-devsec-status.md) | ⭐ 17 | TypeScript | 63/100 |
 | 302 | [dydent/swagger-ui-link-spring-boot](./dydent-swagger-ui-link-spring-boot.md) | ⭐ — | Java | 63/100 |
 | 303 | [yangzongzhuan/RuoYi-Vue-Oracle](./yangzongzhuan-ruoyi-vue-oracle.md) | ⭐ 340 | Java | 63/100 |
 | 304 | [arco-design/arco-design](./arco-design-arco-design.md) | ⭐ 5.8k | TypeScript | 63/100 |
@@ -518,8 +518,8 @@
 | 508 | [sveltejs/eslint-plugin-svelte](./sveltejs-eslint-plugin-svelte.md) | ⭐ 413 | TypeScript | 59/100 |
 | 509 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 893 | TypeScript | 59/100 |
 | 510 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 815 | TypeScript | 59/100 |
-| 511 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
-| 512 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 511 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 512 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 513 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 514 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 360 | TypeScript | 59/100 |
 | 515 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 676 | Rust | 59/100 |
@@ -814,7 +814,7 @@
 | 804 | [whisper-money/whisper-money](./whisper-money-whisper-money.md) | ⭐ 1.2k | TypeScript | 52/100 |
 | 805 | [SasanLabs/VulnerableApp](./sasanlabs-vulnerableapp.md) | ⭐ 483 | Java | 52/100 |
 | 806 | [shellui-dev/shellui](./shellui-dev-shellui.md) | ⭐ 13 | C# | 52/100 |
-| 807 | [NGdev2/earful](./ngdev2-earful.md) | ⭐ 10 | JavaScript | 51/100 |
+| 807 | [NGdev2/earful](./ngdev2-earful.md) | ⭐ 12 | JavaScript | 51/100 |
 | 808 | [jnreis/briojs](./jnreis-briojs.md) | ⭐ 2 | JavaScript | 51/100 |
 | 809 | [jst-stack/jst](./jst-stack-jst.md) | ⭐ 3 | JavaScript | 51/100 |
 | 810 | [DeveloperPuneet/Devlogr](./developerpuneet-devlogr.md) | ⭐ — | JavaScript | 51/100 |
@@ -845,7 +845,7 @@
 | 835 | [vchelaru/Gum](./vchelaru-gum.md) | ⭐ 659 | C# | 50/100 |
 | 836 | [KittyCAD/modeling-app](./kittycad-modeling-app.md) | ⭐ 1.3k | TypeScript | 50/100 |
 | 837 | [sanidhyy/space-portfolio](./sanidhyy-space-portfolio.md) | ⭐ 547 | TypeScript | 50/100 |
-| 838 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 52 | TypeScript | 49/100 |
+| 838 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 53 | TypeScript | 49/100 |
 | 839 | [ShazMoghaddam/bezel-charts](./shazmoghaddam-bezel-charts.md) | ⭐ 2 | JavaScript | 49/100 |
 | 840 | [MA-Ahmad/myPortfolio](./ma-ahmad-myportfolio.md) | ⭐ 240 | — | 49/100 |
 | 841 | [shane-jacobeen/schema3d](./shane-jacobeen-schema3d.md) | ⭐ 19 | TypeScript | 49/100 |
@@ -929,8 +929,8 @@
 | 919 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ 43 | — | 39/100 |
 | 920 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ 4 | — | 39/100 |
 | 921 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ 16 | — | 39/100 |
-| 922 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
-| 923 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
+| 922 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
+| 923 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
 | 924 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
 | 925 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ 11 | — | 39/100 |
 | 926 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |

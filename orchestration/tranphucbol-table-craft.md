@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 41 |
+| ⭐ **Stars** | 42 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 70/100 |
@@ -53,7 +53,7 @@ tranphucbol/table-craft：tranphucbol/table-craft helps turn isolated prompts an
 
 **Quality signals**
 
-- 41 GitHub stars
+- 42 GitHub stars
 - 1 forks
 - updated 2026-11-08
 - primary language: TypeScript

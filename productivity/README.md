@@ -149,7 +149,7 @@
 | 139 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 135.6k | TypeScript | 59/100 |
 | 140 | [carapace-sh/carapace-bin](./carapace-sh-carapace-bin.md) | ⭐ 2k | Go | 59/100 |
 | 141 | [scalacenter/bloop](./scalacenter-bloop.md) | ⭐ 946 | Scala | 59/100 |
-| 142 | [bdcdo/open-turkey](./bdcdo-open-turkey.md) | ⭐ 19 | Go | 58/100 |
+| 142 | [bdcdo/open-turkey](./bdcdo-open-turkey.md) | ⭐ 20 | Go | 58/100 |
 | 143 | [bug-ops/helix-trainer](./bug-ops-helix-trainer.md) | ⭐ 93 | Rust | 58/100 |
 | 144 | [HMCL-dev/HMCL](./hmcl-dev-hmcl.md) | ⭐ 11k | Java | 58/100 |
 | 145 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 808 | TypeScript | 58/100 |
@@ -328,8 +328,8 @@
 | 318 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ — | — | 41/100 |
 | 319 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 320 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ 6 | — | 41/100 |
-| 321 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
-| 322 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
+| 321 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
+| 322 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
 | 323 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 2 | — | 41/100 |
 | 324 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 325 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 2 | — | 41/100 |

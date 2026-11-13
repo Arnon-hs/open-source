@@ -6,17 +6,17 @@ Only categories with at least 10 project cards have folders. The complete machin
 
 | Category | Project cards |
 | --- | ---: |
-| [AI/ML](../aiml/README.md) | 5,198 |
-| [Automation](../automation/README.md) | 1,700 |
+| [AI/ML](../aiml/README.md) | 5,200 |
+| [Automation](../automation/README.md) | 1,703 |
 | [Backend](../backend/README.md) | 1,011 |
 | [Cloud & Storage](../cloud--storage/README.md) | 640 |
 | [Communication](../communication/README.md) | 488 |
 | [Content Creation](../content-creation/README.md) | 179 |
-| [Crypto](../crypto/README.md) | 848 |
+| [Crypto](../crypto/README.md) | 849 |
 | [Data](../data/README.md) | 372 |
 | [Database](../database/README.md) | 591 |
 | [Design](../design/README.md) | 200 |
-| [DevOps/Infra](../devopsinfra/README.md) | 561 |
+| [DevOps/Infra](../devopsinfra/README.md) | 562 |
 | [DevTools](../devtools/README.md) | 1,687 |
 | [Documents](../documents/README.md) | 755 |
 | [Education](../education/README.md) | 39 |
