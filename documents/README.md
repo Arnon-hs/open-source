@@ -430,8 +430,8 @@
 | 420 | [ttu-ttu/ebook-reader](./ttu-ttu-ebook-reader.md) | ⭐ 1.1k | Svelte | 51/100 |
 | 421 | [spawnia/md-to-pdf](./spawnia-md-to-pdf.md) | ⭐ 171 | Rust | 51/100 |
 | 422 | [messense/mupdf-rs](./messense-mupdf-rs.md) | ⭐ 215 | Rust | 51/100 |
-| 423 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 182 | Rust | 51/100 |
-| 424 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
+| 423 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
+| 424 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 182 | Rust | 51/100 |
 | 425 | [CultivateLabs/storytime](./cultivatelabs-storytime.md) | ⭐ 743 | Ruby | 51/100 |
 | 426 | [clerkma/ptex-ng](./clerkma-ptex-ng.md) | ⭐ 307 | C | 51/100 |
 | 427 | [3xxx/engineercms](./3xxx-engineercms.md) | ⭐ 1.4k | Go | 51/100 |
@@ -462,7 +462,7 @@
 | 452 | [jooooock/wrx](./jooooock-wrx.md) | ⭐ 360 | JavaScript | 49/100 |
 | 453 | [Seiraiyu/md-review-plus](./seiraiyu-md-review-plus.md) | ⭐ 3 | — | 49/100 |
 | 454 | [chicagobuss/tracker](./chicagobuss-tracker.md) | ⭐ 5 | — | 49/100 |
-| 455 | [kklimuk/docx-cli](./kklimuk-docx-cli.md) | ⭐ 246 | — | 49/100 |
+| 455 | [kklimuk/docx-cli](./kklimuk-docx-cli.md) | ⭐ 248 | — | 49/100 |
 | 456 | [arto-app/Arto](./arto-app-arto.md) | ⭐ 262 | Rust | 49/100 |
 | 457 | [leonardosalasd/doc-engine-cli](./leonardosalasd-doc-engine-cli.md) | ⭐ 47 | — | 49/100 |
 | 458 | [plasma-ai/wiki](./plasma-ai-wiki.md) | ⭐ 107 | — | 49/100 |
@@ -541,7 +541,7 @@
 | 531 | [luoy16002-svg/tickmark](./luoy16002-svg-tickmark.md) | ⭐ — | TypeScript | 44/100 |
 | 532 | [jaronilan/stories](./jaronilan-stories.md) | ⭐ — | — | 44/100 |
 | 533 | [ulrischa/MarkyDown](./ulrischa-markydown.md) | ⭐ 4 | — | 44/100 |
-| 534 | [mini-software/MiniPdf](./mini-software-minipdf.md) | ⭐ 512 | — | 44/100 |
+| 534 | [mini-software/MiniPdf](./mini-software-minipdf.md) | ⭐ 511 | — | 44/100 |
 | 535 | [docuqueue/docuqueue-plugin](./docuqueue-docuqueue-plugin.md) | ⭐ — | — | 44/100 |
 | 536 | [joshka/tui-markdown](./joshka-tui-markdown.md) | ⭐ 118 | Rust | 44/100 |
 | 537 | [mdlight-dev/mdlight](./mdlight-dev-mdlight.md) | ⭐ 6 | — | 44/100 |
@@ -680,7 +680,7 @@
 | 670 | [gogainda/mdview-cli](./gogainda-mdview-cli.md) | ⭐ 4 | — | 38/100 |
 | 671 | [guisaldanha/paperditor](./guisaldanha-paperditor.md) | ⭐ 4 | — | 38/100 |
 | 672 | [HellterEnjoy/Lilo](./hellterenjoy-lilo.md) | ⭐ 26 | — | 38/100 |
-| 673 | [Mangluu/overleaf-comments-export](./mangluu-overleaf-comments-export.md) | ⭐ 39 | — | 38/100 |
+| 673 | [Mangluu/overleaf-comments-export](./mangluu-overleaf-comments-export.md) | ⭐ 40 | — | 38/100 |
 | 674 | [MinottiAlessandro/Emerald](./minottialessandro-emerald.md) | ⭐ 14 | — | 38/100 |
 | 675 | [nextblock-cms/nextblock](./nextblock-cms-nextblock.md) | ⭐ 20 | — | 38/100 |
 | 676 | [ahpxex/read-aware](./ahpxex-read-aware.md) | ⭐ 503 | — | 38/100 |
@@ -716,8 +716,8 @@
 | 706 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
 | 707 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
 | 708 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 709 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
-| 710 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 709 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 710 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 711 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |
 | 712 | [grinev/boardown](./grinev-boardown.md) | ⭐ 46 | — | 38/100 |
 | 713 | [dsbitor/technotes-releases](./dsbitor-technotes-releases.md) | ⭐ 1 | — | 38/100 |

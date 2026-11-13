@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 633 |
+| ⭐ **Stars** | 634 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
@@ -53,7 +53,7 @@ YusufCeng1z/ding：YusufCeng1z/ding helps ship user-facing interfaces with less 
 
 **Quality signals**
 
-- 633 GitHub stars
+- 634 GitHub stars
 - 16 forks
 - updated 2026-11-12
 - primary language: TypeScript

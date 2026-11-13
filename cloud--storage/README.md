@@ -342,8 +342,8 @@
 | 332 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 333 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 334 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
-| 336 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 336 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
 | 337 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 338 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 339 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -547,8 +547,8 @@
 | 537 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 538 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 539 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
-| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 540 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
 | 542 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 543 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 544 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |
@@ -578,7 +578,7 @@
 | 568 | [s3s-project/s3s](./s3s-project-s3s.md) | ⭐ 319 | Rust | 42/100 |
 | 569 | [rafaelherik/azure-lupa](./rafaelherik-azure-lupa.md) | ⭐ — | TypeScript | 42/100 |
 | 570 | [zero11-0203/s3mail](./zero11-0203-s3mail.md) | ⭐ 2 | — | 41/100 |
-| 571 | [Mattboxx/esp32-tailnet-gateway](./mattboxx-esp32-tailnet-gateway.md) | ⭐ 82 | — | 41/100 |
+| 571 | [Mattboxx/esp32-tailnet-gateway](./mattboxx-esp32-tailnet-gateway.md) | ⭐ 90 | — | 41/100 |
 | 572 | [SIENNA-IT-Solutions/s3gw](./sienna-it-solutions-s3gw.md) | ⭐ 3 | — | 41/100 |
 | 573 | [joeiko3424-svg/oikonomia-benchmarks](./joeiko3424-svg-oikonomia-benchmarks.md) | ⭐ — | — | 41/100 |
 | 574 | [ocelhq/ocel](./ocelhq-ocel.md) | ⭐ 5 | — | 41/100 |
@@ -597,7 +597,7 @@
 | 587 | [silicium369-spec/silicium-benchmarker](./silicium369-spec-silicium-benchmarker.md) | ⭐ — | — | 41/100 |
 | 588 | [ubunye-ai-ecosystems/ubunye_engine](./ubunye-ai-ecosystems-ubunye-engine.md) | ⭐ 16 | — | 41/100 |
 | 589 | [danthegoodman1/s3-accelerator](./danthegoodman1-s3-accelerator.md) | ⭐ 10 | — | 41/100 |
-| 590 | [lokutor-ai/ito](./lokutor-ai-ito.md) | ⭐ 34 | — | 41/100 |
+| 590 | [lokutor-ai/ito](./lokutor-ai-ito.md) | ⭐ 36 | — | 41/100 |
 | 591 | [omwah/esp-vim](./omwah-esp-vim.md) | ⭐ 24 | — | 41/100 |
 | 592 | [lokutor-ai/oido](./lokutor-ai-oido.md) | ⭐ 133 | — | 41/100 |
 | 593 | [therezor/cardputer-ai](./therezor-cardputer-ai.md) | ⭐ 130 | — | 41/100 |
@@ -632,7 +632,7 @@
 | 622 | [wizenink/aethers3](./wizenink-aethers3.md) | ⭐ 53 | — | 38/100 |
 | 623 | [dbsystel/cdk-sops-secrets](./dbsystel-cdk-sops-secrets.md) | ⭐ 84 | — | 38/100 |
 | 624 | [michidk/shimesu](./michidk-shimesu.md) | ⭐ 1 | — | 38/100 |
-| 625 | [mickael-kerjean/fdrive](./mickael-kerjean-fdrive.md) | ⭐ 30 | — | 38/100 |
+| 625 | [mickael-kerjean/fdrive](./mickael-kerjean-fdrive.md) | ⭐ 31 | — | 38/100 |
 | 626 | [wocdamjack/thepersonalsafe](./wocdamjack-thepersonalsafe.md) | ⭐ 3 | — | 38/100 |
 | 627 | [sonthonaxrk/demandmap](./sonthonaxrk-demandmap.md) | ⭐ 27 | — | 38/100 |
 | 628 | [Elpulgo/azdo](./elpulgo-azdo.md) | ⭐ — | — | 38/100 |

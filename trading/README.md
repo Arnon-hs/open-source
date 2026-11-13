@@ -168,8 +168,8 @@
 | 158 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 159 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
 | 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 232 | Go | 52/100 |
-| 161 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
-| 162 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 161 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 162 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
 | 163 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 164 | [uselayer/uselayer-sdk](./uselayer-uselayer-sdk.md) | ⭐ 3 | — | 51/100 |
 | 165 | [weirdapps/etorotrade](./weirdapps-etorotrade.md) | ⭐ 39 | Python | 51/100 |
@@ -212,7 +212,7 @@
 | 202 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ 53 | — | 42/100 |
 | 203 | [grfdsasdvef/awesome-hft-cpp23-internals](./grfdsasdvef-awesome-hft-cpp23-internals.md) | ⭐ — | — | 41/100 |
 | 204 | [AlonDrilich/tld-renewal-prices](./alondrilich-tld-renewal-prices.md) | ⭐ 1 | — | 41/100 |
-| 205 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ 60 | — | 41/100 |
+| 205 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ 62 | — | 41/100 |
 | 206 | [aybvip/pi-fungibility](./aybvip-pi-fungibility.md) | ⭐ 2 | — | 41/100 |
 | 207 | [RayDCodes/pqc-migration-bench](./raydcodes-pqc-migration-bench.md) | ⭐ — | — | 41/100 |
 | 208 | [BubbleParticles/Planar.jl](./bubbleparticles-planar.jl.md) | ⭐ 12 | — | 41/100 |

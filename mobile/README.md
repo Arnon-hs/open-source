@@ -108,8 +108,8 @@
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.5k | Kotlin | 61/100 |
 | 99 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 648 | Kotlin | 61/100 |
 | 100 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 264 | Kotlin | 61/100 |
-| 101 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 955 | C++ | 61/100 |
-| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
+| 101 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
+| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 955 | C++ | 61/100 |
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 922 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13.1k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.7k | Kotlin | 61/100 |
@@ -275,12 +275,12 @@
 | 265 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 266 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 267 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 268 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
-| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 268 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 633 | Python | 55/100 |
-| 272 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
-| 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 272 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 273 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
 | 274 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 500 | Kotlin | 55/100 |
 | 275 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 276 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 3.3k | Kotlin | 55/100 |
@@ -499,7 +499,7 @@
 | 489 | [switchboard-sdk/hybrid-voice-agent-sample](./switchboard-sdk-hybrid-voice-agent-sample.md) | ⭐ 2 | — | 45/100 |
 | 490 | [plu/less-paper](./plu-less-paper.md) | ⭐ 22 | — | 45/100 |
 | 491 | [sjjian/openhare](./sjjian-openhare.md) | ⭐ 820 | — | 45/100 |
-| 492 | [KonradIT/osmosis](./konradit-osmosis.md) | ⭐ 131 | — | 45/100 |
+| 492 | [KonradIT/osmosis](./konradit-osmosis.md) | ⭐ 132 | — | 45/100 |
 | 493 | [bossandboss/EdgeSync-LLM](./bossandboss-edgesync-llm.md) | ⭐ 1 | — | 45/100 |
 | 494 | [mozilla-mobile/reference-browser](./mozilla-mobile-reference-browser.md) | ⭐ 668 | Kotlin | 45/100 |
 | 495 | [CharlesWiltgen/Axiom](./charleswiltgen-axiom.md) | ⭐ 1.3k | Go | 45/100 |
@@ -553,7 +553,7 @@
 | 543 | [Ninnix/lokey](./ninnix-lokey.md) | ⭐ 8 | — | 41/100 |
 | 544 | [bsidio/OpenVaccum](./bsidio-openvaccum.md) | ⭐ 2 | — | 41/100 |
 | 545 | [kbr-/kotlean](./kbr--kotlean.md) | ⭐ 4 | — | 41/100 |
-| 546 | [kolbicz/WQFiles](./kolbicz-wqfiles.md) | ⭐ 704 | — | 41/100 |
+| 546 | [kolbicz/WQFiles](./kolbicz-wqfiles.md) | ⭐ 784 | — | 41/100 |
 | 547 | [pounceandmiss/tkabber-demo](./pounceandmiss-tkabber-demo.md) | ⭐ 1 | — | 41/100 |
 | 548 | [LuKks/webrtc-runtime](./lukks-webrtc-runtime.md) | ⭐ 1 | — | 41/100 |
 | 549 | [prototux/AARE](./prototux-aare.md) | ⭐ 545 | — | 41/100 |
@@ -614,7 +614,7 @@
 | 604 | [whiskerrs/whisker](./whiskerrs-whisker.md) | ⭐ 587 | — | 41/100 |
 | 605 | [Mastersam07/OpenDeviceHub](./mastersam07-opendevicehub.md) | ⭐ 74 | — | 41/100 |
 | 606 | [jasonepage/Pawl](./jasonepage-pawl.md) | ⭐ 2 | — | 41/100 |
-| 607 | [LUC4N3X/Levyra-deepsound](./luc4n3x-levyra-deepsound.md) | ⭐ 1.7k | — | 41/100 |
+| 607 | [LUC4N3X/Levyra-deepsound](./luc4n3x-levyra-deepsound.md) | ⭐ 1.8k | — | 41/100 |
 | 608 | [Rajmeet/jev-phone](./rajmeet-jev-phone.md) | ⭐ — | — | 41/100 |
 | 609 | [MG1937/ASC](./mg1937-asc.md) | ⭐ 2.7k | — | 41/100 |
 | 610 | [knewnothing-git/notecode-](./knewnothing-git-notecode-.md) | ⭐ 1 | — | 41/100 |
@@ -623,7 +623,7 @@
 | 613 | [Suprhimp/castla](./suprhimp-castla.md) | ⭐ — | — | 41/100 |
 | 614 | [fcavalcantirj/droidputter](./fcavalcantirj-droidputter.md) | ⭐ — | — | 41/100 |
 | 615 | [gregsramblings/ios-charging-monitor](./gregsramblings-ios-charging-monitor.md) | ⭐ 42 | — | 41/100 |
-| 616 | [mazer666/PhairPlay](./mazer666-phairplay.md) | ⭐ 219 | — | 41/100 |
+| 616 | [mazer666/PhairPlay](./mazer666-phairplay.md) | ⭐ 222 | — | 41/100 |
 | 617 | [hsandhu/mobilecode](./hsandhu-mobilecode.md) | ⭐ 244 | — | 41/100 |
 | 618 | [theghostshinobi/SMOKE](./theghostshinobi-smoke.md) | ⭐ — | — | 41/100 |
 | 619 | [rPlayAI/rplayhub-android](./rplayai-rplayhub-android.md) | ⭐ 47 | — | 41/100 |
@@ -688,8 +688,8 @@
 | 678 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 679 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ 12 | — | 38/100 |
 | 680 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 681 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
-| 682 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
+| 681 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
+| 682 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
 | 683 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ 1 | — | 38/100 |
 | 684 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ 18 | — | 38/100 |
 | 685 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ 580 | — | 38/100 |
