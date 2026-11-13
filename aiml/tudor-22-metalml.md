@@ -65,18 +65,18 @@ tudor-22/MetalML：tudor-22/MetalML helps add AI capability without starting fro
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 53/100 |
-| integration | 62/100 |
-| production | 61/100 |
-| outlook | 61/100 |
-| adoption | 17/100 |
-| categoryMatchCount | 300/100 |
-| stars | 21/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 21/100 |
 | topics | 100/100 |
+| outlook | 61/100 |
+| quality | 53/100 |
+| recency | 80/100 |
+| adoption | 17/100 |
+| production | 61/100 |
+| usefulness | 58/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
