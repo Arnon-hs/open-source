@@ -311,8 +311,8 @@
 | 301 | [mingchen666/Reviva](./mingchen666-reviva.md) | ⭐ 334 | JavaScript | 61/100 |
 | 302 | [Anush008/fastembed-rs](./anush008-fastembed-rs.md) | ⭐ 1.1k | Rust | 61/100 |
 | 303 | [zilliztech/vector-graph-rag](./zilliztech-vector-graph-rag.md) | ⭐ 326 | Python | 61/100 |
-| 304 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 200 | C# | 61/100 |
-| 305 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 151 | Jupyter Notebook | 61/100 |
+| 304 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 151 | Jupyter Notebook | 61/100 |
+| 305 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 200 | C# | 61/100 |
 | 306 | [FutureUniant/WorkShadow](./futureuniant-workshadow.md) | ⭐ 3 | TypeScript | 61/100 |
 | 307 | [abraxas914/VESTI](./abraxas914-vesti.md) | ⭐ 360 | TypeScript | 61/100 |
 | 308 | [lux-db/lux](./lux-db-lux.md) | ⭐ 289 | Rust | 61/100 |
@@ -506,7 +506,7 @@
 | 496 | [supermemoryai/smfs](./supermemoryai-smfs.md) | ⭐ 493 | Rust | 51/100 |
 | 497 | [kreuzberg-dev/html-to-markdown](./kreuzberg-dev-html-to-markdown.md) | ⭐ 699 | HTML | 51/100 |
 | 498 | [sadrmanesh/llm-search-eval](./sadrmanesh-llm-search-eval.md) | ⭐ 2 | Python | 50/100 |
-| 499 | [calmrocks/ai-engineer-notebooks](./calmrocks-ai-engineer-notebooks.md) | ⭐ 745 | — | 50/100 |
+| 499 | [calmrocks/ai-engineer-notebooks](./calmrocks-ai-engineer-notebooks.md) | ⭐ 747 | — | 50/100 |
 | 500 | [nesall/phenixcode](./nesall-phenixcode.md) | ⭐ 21 | C++ | 50/100 |
 | 501 | [BAAI/bge-m3](./baai-bge-m3.md) | ⭐ 3.3k | sentence-transformers | 50/100 |
 | 502 | [TusKANNy/seismic](./tuskanny-seismic.md) | ⭐ 142 | Rust | 50/100 |
@@ -526,9 +526,9 @@
 | 516 | [kc-2705/job-hunt-copilot](./kc-2705-job-hunt-copilot.md) | ⭐ — | JavaScript | 48/100 |
 | 517 | [torrua/loglan-bench](./torrua-loglan-bench.md) | ⭐ — | Python | 48/100 |
 | 518 | [Christopher22/charon](./christopher22-charon.md) | ⭐ 9 | — | 48/100 |
-| 519 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
+| 519 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
 | 520 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
-| 521 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 521 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
 | 522 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 792 | TypeScript | 48/100 |
 | 523 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 254 | Python | 48/100 |
 | 524 | [SeekStorm/SeekStorm](./seekstorm-seekstorm.md) | ⭐ 1.9k | Rust | 48/100 |
@@ -599,7 +599,7 @@
 | 589 | [Srivatsa03/rag-redteam](./srivatsa03-rag-redteam.md) | ⭐ 30 | — | 42/100 |
 | 590 | [Jott2121/graph-guard](./jott2121-graph-guard.md) | ⭐ 2 | — | 42/100 |
 | 591 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ 35 | — | 42/100 |
-| 592 | [busabase/busabase](./busabase-busabase.md) | ⭐ 820 | — | 42/100 |
+| 592 | [busabase/busabase](./busabase-busabase.md) | ⭐ 845 | — | 42/100 |
 | 593 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ 19 | — | 42/100 |
 | 594 | [corbenicai/merlin-community](./corbenicai-merlin-community.md) | ⭐ — | — | 42/100 |
 | 595 | [colon-md/retrievalci](./colon-md-retrievalci.md) | ⭐ 1 | — | 42/100 |

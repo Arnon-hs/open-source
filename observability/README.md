@@ -241,7 +241,7 @@
 | 231 | [mohitdebian/relay](./mohitdebian-relay.md) | ⭐ — | TypeScript | 46/100 |
 | 232 | [kontext-security/sandy](./kontext-security-sandy.md) | ⭐ 5 | — | 46/100 |
 | 233 | [Somnora/GSPOT](./somnora-gspot.md) | ⭐ 7 | — | 46/100 |
-| 234 | [CortexFlow/CortexBrain](./cortexflow-cortexbrain.md) | ⭐ 94 | — | 46/100 |
+| 234 | [CortexFlow/CortexBrain](./cortexflow-cortexbrain.md) | ⭐ 95 | — | 46/100 |
 | 235 | [SORMAS-Foundation/SORMAS-Project](./sormas-foundation-sormas-project.md) | ⭐ 334 | Java | 46/100 |
 | 236 | [mintlify/agent-traffic](./mintlify-agent-traffic.md) | ⭐ 70 | — | 45/100 |
 | 237 | [B2ZO0/netcockpit](./b2zo0-netcockpit.md) | ⭐ 3 | JavaScript | 45/100 |
@@ -280,7 +280,7 @@
 | 270 | [rbmuller/scherlok](./rbmuller-scherlok.md) | ⭐ 14 | — | 42/100 |
 | 271 | [lxyeternal/NPMAnalysis](./lxyeternal-npmanalysis.md) | ⭐ 3 | — | 42/100 |
 | 272 | [thisisvaze/Gauge](./thisisvaze-gauge.md) | ⭐ 4 | — | 41/100 |
-| 273 | [dooly6276/claude-bulkhead](./dooly6276-claude-bulkhead.md) | ⭐ 32 | — | 41/100 |
+| 273 | [dooly6276/claude-bulkhead](./dooly6276-claude-bulkhead.md) | ⭐ 34 | — | 41/100 |
 | 274 | [lagudafuadtosin/inline-logs](./lagudafuadtosin-inline-logs.md) | ⭐ 1 | — | 41/100 |
 | 275 | [jonprice0/architecture-of-failure](./jonprice0-architecture-of-failure.md) | ⭐ 1 | — | 41/100 |
 | 276 | [jjinendra3/amidumb](./jjinendra3-amidumb.md) | ⭐ 6 | — | 41/100 |

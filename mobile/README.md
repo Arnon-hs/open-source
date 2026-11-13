@@ -108,8 +108,8 @@
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.5k | Kotlin | 61/100 |
 | 99 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 648 | Kotlin | 61/100 |
 | 100 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 264 | Kotlin | 61/100 |
-| 101 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
-| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 955 | C++ | 61/100 |
+| 101 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 955 | C++ | 61/100 |
+| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 922 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13.1k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.7k | Kotlin | 61/100 |
@@ -279,8 +279,8 @@
 | 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 633 | Python | 55/100 |
-| 272 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
-| 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 272 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 273 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
 | 274 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 500 | Kotlin | 55/100 |
 | 275 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 276 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 3.3k | Kotlin | 55/100 |
@@ -594,7 +594,7 @@
 | 584 | [xtool-org/xtool](./xtool-org-xtool.md) | ⭐ 15.4k | — | 41/100 |
 | 585 | [lucianRME/rme-pdf-scanner](./lucianrme-rme-pdf-scanner.md) | ⭐ 8 | — | 41/100 |
 | 586 | [tortugarr/tortugarr](./tortugarr-tortugarr.md) | ⭐ 5 | — | 41/100 |
-| 587 | [c22dev/muguet](./c22dev-muguet.md) | ⭐ 811 | — | 41/100 |
+| 587 | [c22dev/muguet](./c22dev-muguet.md) | ⭐ 815 | — | 41/100 |
 | 588 | [LordixDemon/apple_watch_connector](./lordixdemon-apple-watch-connector.md) | ⭐ 711 | — | 41/100 |
 | 589 | [kksimp/Mac.apk-Releases](./kksimp-mac.apk-releases.md) | ⭐ — | — | 41/100 |
 | 590 | [Brianali-codes/Frapp](./brianali-codes-frapp.md) | ⭐ 40 | — | 41/100 |
@@ -604,7 +604,7 @@
 | 594 | [joshuaswarren/omarchy-apple-dev](./joshuaswarren-omarchy-apple-dev.md) | ⭐ 1.9k | — | 41/100 |
 | 595 | [bouhafara-bot/10ed249b1005d61397a621621edf4892](./bouhafara-bot-10ed249b1005d61397a621621edf4892.md) | ⭐ — | — | 41/100 |
 | 596 | [filippofinke/sideloop](./filippofinke-sideloop.md) | ⭐ 50 | — | 41/100 |
-| 597 | [Droid-Deck/DroidDeck](./droid-deck-droiddeck.md) | ⭐ 19.6k | — | 41/100 |
+| 597 | [Droid-Deck/DroidDeck](./droid-deck-droiddeck.md) | ⭐ 19.8k | — | 41/100 |
 | 598 | [atgreen/evergreen](./atgreen-evergreen.md) | ⭐ 65 | — | 41/100 |
 | 599 | [AnaaySampat/jarvis](./anaaysampat-jarvis.md) | ⭐ 31 | — | 41/100 |
 | 600 | [wasi-master/wmkeyboard](./wasi-master-wmkeyboard.md) | ⭐ 926 | — | 41/100 |

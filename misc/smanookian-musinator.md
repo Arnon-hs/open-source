@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5 |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 47/100 |
@@ -51,7 +51,7 @@ smanookian/musinator：smanookian/musinator may be useful when its README and ac
 
 **Quality signals**
 
-- 5 GitHub stars
+- 6 GitHub stars
 - updated 2026-11-11
 - primary language: Rust
 - 10 topics
@@ -66,10 +66,10 @@ smanookian/musinator：smanookian/musinator may be useful when its README and ac
 | quality | 56/100 |
 | integration | 30/100 |
 | production | 63/100 |
-| outlook | 63/100 |
-| adoption | 12/100 |
+| outlook | 64/100 |
+| adoption | 13/100 |
 | categoryMatchCount | 0/100 |
-| stars | 17/100 |
+| stars | 18/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |

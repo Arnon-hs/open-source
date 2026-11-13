@@ -175,7 +175,7 @@
 | 165 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
 | 166 | [egeozcan/glasnost](./egeozcan-glasnost.md) | ⭐ 17 | — | 41/100 |
 | 167 | [RyzovaTech/Ryzova-Kernel](./ryzovatech-ryzova-kernel.md) | ⭐ 2 | — | 41/100 |
-| 168 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 46 | — | 41/100 |
+| 168 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 50 | — | 41/100 |
 | 169 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ 3 | — | 41/100 |
 | 170 | [vinodhalaharvi/camwall](./vinodhalaharvi-camwall.md) | ⭐ 2 | — | 41/100 |
 | 171 | [yogeshdofficial/reddit2shorts](./yogeshdofficial-reddit2shorts.md) | ⭐ 36 | TypeScript | 39/100 |

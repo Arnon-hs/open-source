@@ -224,8 +224,8 @@
 | 214 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 360 | Java | 53/100 |
 | 215 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 581 | Nix | 53/100 |
 | 216 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 452 | TypeScript | 53/100 |
-| 217 | [0xdea/augur](./0xdea-augur.md) | ⭐ 124 | Rust | 53/100 |
-| 218 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
+| 217 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
+| 218 | [0xdea/augur](./0xdea-augur.md) | ⭐ 124 | Rust | 53/100 |
 | 219 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 220 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 597 | C | 53/100 |
 | 221 | [tkhq/qos](./tkhq-qos.md) | ⭐ 125 | Rust | 53/100 |
@@ -273,8 +273,8 @@
 | 263 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 439 | HTML | 50/100 |
 | 264 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 265 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
-| 266 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 267 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 266 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 267 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
 | 268 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
 | 269 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 270 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 531 | JavaScript | 50/100 |
@@ -413,7 +413,7 @@
 | 403 | [ClementG91/winsight](./clementg91-winsight.md) | ⭐ 10 | — | 41/100 |
 | 404 | [dvirby6/developer-shield](./dvirby6-developer-shield.md) | ⭐ 2 | — | 41/100 |
 | 405 | [en/code-security](./en-code-security.md) | ⭐ — | — | 41/100 |
-| 406 | [danoszz/penthera](./danoszz-penthera.md) | ⭐ 104 | — | 41/100 |
+| 406 | [danoszz/penthera](./danoszz-penthera.md) | ⭐ 107 | — | 41/100 |
 | 407 | [ankush1982/ai-secure-by-design](./ankush1982-ai-secure-by-design.md) | ⭐ 4 | — | 41/100 |
 | 408 | [xecrets/xecrets-mobile](./xecrets-xecrets-mobile.md) | ⭐ 4 | — | 41/100 |
 | 409 | [Peter19570/Spring-Boot-Authentication-Starter](./peter19570-spring-boot-authentication-starter.md) | ⭐ 3 | Java | 41/100 |
@@ -443,7 +443,7 @@
 | 433 | [emir/claude-s40](./emir-claude-s40.md) | ⭐ — | — | 41/100 |
 | 434 | [Lovejoy-Zero/BlackWire-Arduino](./lovejoy-zero-blackwire-arduino.md) | ⭐ 2 | — | 41/100 |
 | 435 | [shadcn-ui/ui](./shadcn-ui-ui.md) | ⭐ — | — | 41/100 |
-| 436 | [cloudflare/security-audit-skill](./cloudflare-security-audit-skill.md) | ⭐ 70.8k | — | 41/100 |
+| 436 | [cloudflare/security-audit-skill](./cloudflare-security-audit-skill.md) | ⭐ 71.5k | — | 41/100 |
 | 437 | [BZDevelopments/LaunchPad-Lite](./bzdevelopments-launchpad-lite.md) | ⭐ — | — | 41/100 |
 | 438 | [jedisct1/turbocrypt](./jedisct1-turbocrypt.md) | ⭐ 138 | — | 41/100 |
 | 439 | [theronic/eacl](./theronic-eacl.md) | ⭐ 98 | — | 41/100 |
@@ -502,8 +502,8 @@
 | 492 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ 43 | — | 38/100 |
 | 493 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ 4 | — | 38/100 |
 | 494 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ 289 | — | 38/100 |
-| 495 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
-| 496 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
+| 495 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
+| 496 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
 | 497 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ 23 | — | 38/100 |
 | 498 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ 11 | — | 38/100 |
 | 499 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ 2 | — | 38/100 |

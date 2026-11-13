@@ -406,7 +406,7 @@
 | 396 | [Armur-Ai/Pentest-Swarm-AI](./armur-ai-pentest-swarm-ai.md) | ⭐ 3.2k | Go | 69/100 |
 | 397 | [DaKheera47/job-ops](./dakheera47-job-ops.md) | ⭐ 4.1k | TypeScript | 69/100 |
 | 398 | [EzkielynaGroup/ezkielyna-agent](./ezkielynagroup-ezkielyna-agent.md) | ⭐ — | TypeScript | 69/100 |
-| 399 | [yorkeccak/globalhackmap](./yorkeccak-globalhackmap.md) | ⭐ 163 | TypeScript | 69/100 |
+| 399 | [yorkeccak/globalhackmap](./yorkeccak-globalhackmap.md) | ⭐ 164 | TypeScript | 69/100 |
 | 400 | [nyaomaru/changelog-bot](./nyaomaru-changelog-bot.md) | ⭐ 21 | TypeScript | 68/100 |
 | 401 | [BartolomeoRusso9/SpotiFLAC-Module-Version](./bartolomeorusso9-spotiflac-module-version.md) | ⭐ 186 | Python | 68/100 |
 | 402 | [devcodex-labs/devcodex](./devcodex-labs-devcodex.md) | ⭐ 434 | JavaScript | 68/100 |
@@ -584,8 +584,8 @@
 | 574 | [AdrienMttn/TgCloud](./adrienmttn-tgcloud.md) | ⭐ 12 | Go | 65/100 |
 | 575 | [outcrawlai/scout](./outcrawlai-scout.md) | ⭐ 744 | TypeScript | 65/100 |
 | 576 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.2k | AutoHotkey | 65/100 |
-| 577 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 826 | TypeScript | 65/100 |
-| 578 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 577 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 578 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 826 | TypeScript | 65/100 |
 | 579 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 580 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 643 | TypeScript | 65/100 |
 | 581 | [askbudi/juno-code](./askbudi-juno-code.md) | ⭐ 55 | TypeScript | 65/100 |
@@ -661,8 +661,8 @@
 | 651 | [qwen-code-dev-bot/oh-my-cli](./qwen-code-dev-bot-oh-my-cli.md) | ⭐ 844 | TypeScript | 64/100 |
 | 652 | [mworldorg/markdown-memory](./mworldorg-markdown-memory.md) | ⭐ 25 | Python | 64/100 |
 | 653 | [M507/RamiGPT](./m507-ramigpt.md) | ⭐ 887 | Python | 64/100 |
-| 654 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 509 | Ruby | 64/100 |
-| 655 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.2k | Java | 64/100 |
+| 654 | [openhab/openhab-core](./openhab-openhab-core.md) | ⭐ 1.2k | Java | 64/100 |
+| 655 | [cenit-io/cenit](./cenit-io-cenit.md) | ⭐ 509 | Ruby | 64/100 |
 | 656 | [nestjs/bull](./nestjs-bull.md) | ⭐ 709 | TypeScript | 64/100 |
 | 657 | [terrakube-io/terrakube](./terrakube-io-terrakube.md) | ⭐ 1k | Java | 64/100 |
 | 658 | [VyomKulshrestha/Heliox-OS](./vyomkulshrestha-heliox-os.md) | ⭐ 69 | Python | 64/100 |
@@ -1481,8 +1481,8 @@
 | 1471 | [AlejandroSilvaMendez/fail-closed-python-assessment](./alejandrosilvamendez-fail-closed-python-assessment.md) | ⭐ — | Python | 43/100 |
 | 1472 | [truongsontung/pr-monitor](./truongsontung-pr-monitor.md) | ⭐ — | Python | 43/100 |
 | 1473 | [aws/n8n-nodes-agentcore](./aws-n8n-nodes-agentcore.md) | ⭐ 16 | TypeScript | 43/100 |
-| 1474 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
-| 1475 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
+| 1474 | [smusman437/github-slack-report-automation](./smusman437-github-slack-report-automation.md) | ⭐ — | — | 43/100 |
+| 1475 | [user-attachments/assets](./user-attachments-assets.md) | ⭐ — | — | 43/100 |
 | 1476 | [etkecc/baibot](./etkecc-baibot.md) | ⭐ 255 | Rust | 43/100 |
 | 1477 | [kompiro/karasu](./kompiro-karasu.md) | ⭐ 1 | TypeScript | 43/100 |
 | 1478 | [Wlegend369/free-developer-tools-suite](./wlegend369-free-developer-tools-suite.md) | ⭐ — | HTML | 43/100 |
@@ -1505,7 +1505,7 @@
 | 1495 | [angeldevmobile/Orion](./angeldevmobile-orion.md) | ⭐ 8 | — | 42/100 |
 | 1496 | [runetes/maiao](./runetes-maiao.md) | ⭐ 177 | — | 42/100 |
 | 1497 | [baturyilmaz/agent-office](./baturyilmaz-agent-office.md) | ⭐ 23 | — | 42/100 |
-| 1498 | [copilotkit/openbot](./copilotkit-openbot.md) | ⭐ 11.2k | — | 42/100 |
+| 1498 | [copilotkit/openbot](./copilotkit-openbot.md) | ⭐ 12k | — | 42/100 |
 | 1499 | [vicky157/openleaf](./vicky157-openleaf.md) | ⭐ 11 | — | 42/100 |
 | 1500 | [zuke-build/zuke](./zuke-build-zuke.md) | ⭐ 48 | — | 42/100 |
 | 1501 | [birand/workcell](./birand-workcell.md) | ⭐ 1 | — | 42/100 |
@@ -1700,8 +1700,8 @@
 | 1690 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 32/100 |
 | 1691 | [RazorBlade74/Michaele-tutoring-books](./razorblade74-michaele-tutoring-books.md) | ⭐ — | JavaScript | 31/100 |
 | 1692 | [muhammad-zulqarnain-awan/n8n-on-vercel](./muhammad-zulqarnain-awan-n8n-on-vercel.md) | ⭐ 2 | JavaScript | 31/100 |
-| 1693 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
-| 1694 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ 16 | — | 30/100 |
+| 1693 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ 16 | — | 30/100 |
+| 1694 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
 | 1695 | [jaksdhflkjahsdfkjahsdfkjh/SherpaManager](./jaksdhflkjahsdfkjahsdfkjh-sherpamanager.md) | ⭐ — | C# | 30/100 |
 | 1696 | [anggadb/loop-engine](./anggadb-loop-engine.md) | ⭐ — | Rust | 30/100 |
 | 1697 | [RomanSlack/jev-drone](./romanslack-jev-drone.md) | ⭐ 300 | — | 29/100 |

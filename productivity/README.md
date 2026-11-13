@@ -297,7 +297,7 @@
 | 287 | [dotcmdhq/dotcmd](./dotcmdhq-dotcmd.md) | ⭐ 4 | — | 45/100 |
 | 288 | [cssllcio/typeclip](./cssllcio-typeclip.md) | ⭐ 2 | — | 45/100 |
 | 289 | [xvertile/SwiftPaste](./xvertile-swiftpaste.md) | ⭐ 5 | — | 45/100 |
-| 290 | [Deepender25/Edge-Drop](./deepender25-edge-drop.md) | ⭐ 787 | — | 45/100 |
+| 290 | [Deepender25/Edge-Drop](./deepender25-edge-drop.md) | ⭐ 793 | — | 45/100 |
 | 291 | [slaveofcode/goodwebtools](./slaveofcode-goodwebtools.md) | ⭐ 12 | — | 45/100 |
 | 292 | [HexCodeYT/PlainLink](./hexcodeyt-plainlink.md) | ⭐ 7 | — | 45/100 |
 | 293 | [willmeyers/coypa](./willmeyers-coypa.md) | ⭐ 4 | — | 45/100 |
@@ -329,8 +329,8 @@
 | 319 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ — | — | 41/100 |
 | 320 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 321 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ 6 | — | 41/100 |
-| 322 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
-| 323 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
+| 322 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
+| 323 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
 | 324 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 2 | — | 41/100 |
 | 325 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 326 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 2 | — | 41/100 |
@@ -371,7 +371,7 @@
 | 361 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |
 | 362 | [itsmy-bday/nudge](./itsmy-bday-nudge.md) | ⭐ 1 | — | 38/100 |
 | 363 | [pileax-ai/pileax](./pileax-ai-pileax.md) | ⭐ 40 | — | 38/100 |
-| 364 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ 115 | — | 38/100 |
+| 364 | [darkmatter/nixmac](./darkmatter-nixmac.md) | ⭐ 127 | — | 38/100 |
 | 365 | [github/app](./github-app.md) | ⭐ 2.3k | — | 38/100 |
 | 366 | [maitriii08/FlowOutside](./maitriii08-flowoutside.md) | ⭐ 1 | HTML | 37/100 |
 | 367 | [reakjra/omikuji](./reakjra-omikuji.md) | ⭐ 168 | Rust | 37/100 |

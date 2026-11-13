@@ -338,7 +338,7 @@
 | 328 | [Sunghwan0112/spritecast](./sunghwan0112-spritecast.md) | ⭐ — | — | 41/100 |
 | 329 | [theagentd/CORTAO](./theagentd-cortao.md) | ⭐ 80 | — | 41/100 |
 | 330 | [openigi/openigi](./openigi-openigi.md) | ⭐ 151 | — | 41/100 |
-| 331 | [Open-Game-Standards/OGS-Telemetry-Standard](./open-game-standards-ogs-telemetry-standard.md) | ⭐ — | — | 41/100 |
+| 331 | [Open-Game-Standards/OGS-Telemetry-Standard](./open-game-standards-ogs-telemetry-standard.md) | ⭐ 8 | — | 41/100 |
 | 332 | [apex-compute/ANR](./apex-compute-anr.md) | ⭐ 1.1k | — | 41/100 |
 | 333 | [Hash-7777/open-Hash-LMG](./hash-7777-open-hash-lmg.md) | ⭐ 4 | — | 41/100 |
 | 334 | [LaurentiuGabriel/retro-break](./laurentiugabriel-retro-break.md) | ⭐ 2 | — | 41/100 |

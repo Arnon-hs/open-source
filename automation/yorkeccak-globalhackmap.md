@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 163 |
+| ⭐ **Stars** | 164 |
 | 🍴 **Forks** | 34 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 69/100 |
@@ -53,7 +53,7 @@ yorkeccak/globalhackmap：yorkeccak/globalhackmap helps remove repetitive manual
 
 **Quality signals**
 
-- 163 GitHub stars
+- 164 GitHub stars
 - 34 forks
 - updated 2026-11-08
 - primary language: TypeScript

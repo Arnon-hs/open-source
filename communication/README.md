@@ -430,7 +430,7 @@
 | 420 | [samjoshuadud/waylandar](./samjoshuadud-waylandar.md) | ⭐ 95 | — | 41/100 |
 | 421 | [duguyue100/planning.nvim](./duguyue100-planning.nvim.md) | ⭐ 2 | — | 41/100 |
 | 422 | [MY20-PHEV/yakr](./my20-phev-yakr.md) | ⭐ 1 | — | 41/100 |
-| 423 | [chattocorp/chatto](./chattocorp-chatto.md) | ⭐ 2.9k | — | 41/100 |
+| 423 | [chattocorp/chatto](./chattocorp-chatto.md) | ⭐ 3k | — | 41/100 |
 | 424 | [rajibbora1965/WhatsAppCoding](./rajibbora1965-whatsappcoding.md) | ⭐ 1 | — | 41/100 |
 | 425 | [djc/tokio-imap](./djc-tokio-imap.md) | ⭐ 132 | Rust | 41/100 |
 | 426 | [5012763083a-oss/email-list-cleaner](./5012763083a-oss-email-list-cleaner.md) | ⭐ — | JavaScript | 41/100 |

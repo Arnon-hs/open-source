@@ -136,7 +136,7 @@
 | 126 | [ctxrs/figma-server](./ctxrs-figma-server.md) | ⭐ 2 | — | 45/100 |
 | 127 | [ckcool6/GGUF_Libra](./ckcool6-gguf-libra.md) | ⭐ 2 | — | 45/100 |
 | 128 | [kmaida/deslop-skills](./kmaida-deslop-skills.md) | ⭐ 15 | — | 45/100 |
-| 129 | [boldaxolotl/booley](./boldaxolotl-booley.md) | ⭐ 26 | — | 45/100 |
+| 129 | [boldaxolotl/booley](./boldaxolotl-booley.md) | ⭐ 27 | — | 45/100 |
 | 130 | [weizhiqiang1995/erp-pro](./weizhiqiang1995-erp-pro.md) | ⭐ 656 | Java | 45/100 |
 | 131 | [MarioGalindoQ/Modern-CPP-Design-Patterns](./mariogalindoq-modern-cpp-design-patterns.md) | ⭐ 345 | C++ | 45/100 |
 | 132 | [BeWelcome/rox](./bewelcome-rox.md) | ⭐ 221 | PHP | 45/100 |
