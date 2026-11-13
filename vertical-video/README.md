@@ -27,7 +27,7 @@
 | 17 | [tarai-dl/fablr](./tarai-dl-fablr.md) | ⭐ 159 | TypeScript | 76/100 |
 | 18 | [Chamanrajragu/purffle-shorts](./chamanrajragu-purffle-shorts.md) | ⭐ 74 | Python | 76/100 |
 | 19 | [Agions/fablr](./agions-fablr.md) | ⭐ 136 | TypeScript | 75/100 |
-| 20 | [xuliang2024/cutcli-cookbook](./xuliang2024-cutcli-cookbook.md) | ⭐ 201 | JavaScript | 75/100 |
+| 20 | [xuliang2024/cutcli-cookbook](./xuliang2024-cutcli-cookbook.md) | ⭐ 203 | JavaScript | 75/100 |
 | 21 | [leke-adewa/short-video-maker](./leke-adewa-short-video-maker.md) | ⭐ 36 | Python | 75/100 |
 | 22 | [myccarl/ai-shortVideo-pipeline](./myccarl-ai-shortvideo-pipeline.md) | ⭐ 821 | Python | 75/100 |
 | 23 | [Cuongyd196/remotion-cuongit-template](./cuongyd196-remotion-cuongit-template.md) | ⭐ 243 | TypeScript | 74/100 |
@@ -45,7 +45,7 @@
 | 35 | [OStudi/short-video-generator-AI](./ostudi-short-video-generator-ai.md) | ⭐ 1.2k | Python | 73/100 |
 | 36 | [hassancs91/claude-faceless-shorts-creator](./hassancs91-claude-faceless-shorts-creator.md) | ⭐ 357 | TypeScript | 73/100 |
 | 37 | [social-media-skills/remotion-shorts-skill](./social-media-skills-remotion-shorts-skill.md) | ⭐ 16 | TypeScript | 72/100 |
-| 38 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 242 | JavaScript | 72/100 |
+| 38 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 245 | JavaScript | 72/100 |
 | 39 | [SamurAIGPT/revideo](./samuraigpt-revideo.md) | ⭐ 165 | JavaScript | 72/100 |
 | 40 | [phucnguyentvp1/frameweaver](./phucnguyentvp1-frameweaver.md) | ⭐ 114 | Python | 72/100 |
 | 41 | [justynberk/reel-kit](./justynberk-reel-kit.md) | ⭐ 11 | Python | 72/100 |
@@ -110,7 +110,7 @@
 | 100 | [Johnson-Jia/video-clipforge](./johnson-jia-video-clipforge.md) | ⭐ 48 | Python | 62/100 |
 | 101 | [isaachang/motion-video-workflow](./isaachang-motion-video-workflow.md) | ⭐ 15 | JavaScript | 61/100 |
 | 102 | [xianyu110/ecommerce-video-skills](./xianyu110-ecommerce-video-skills.md) | ⭐ 138 | Python | 61/100 |
-| 103 | [SaarD00/AI-Youtube-Shorts-Generator](./saard00-ai-youtube-shorts-generator.md) | ⭐ 277 | Python | 61/100 |
+| 103 | [SaarD00/AI-Youtube-Shorts-Generator](./saard00-ai-youtube-shorts-generator.md) | ⭐ 278 | Python | 61/100 |
 | 104 | [fxl1209739475-fxl/ai-xunjian](./fxl1209739475-fxl-ai-xunjian.md) | ⭐ 42 | TypeScript | 61/100 |
 | 105 | [HeyChengC/bighead-collage](./heychengc-bighead-collage.md) | ⭐ 70 | Python | 60/100 |
 | 106 | [ronin1770/reel-quick](./ronin1770-reel-quick.md) | ⭐ 16 | Python | 60/100 |

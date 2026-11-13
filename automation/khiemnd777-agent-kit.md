@@ -1,6 +1,6 @@
 # khiemnd777/agent-kit
 
-[![Stars](https://img.shields.io/github/stars/khiemnd777/agent-kit?style=flat-square&color=yellow)](https://github.com/khiemnd777/agent-kit/stargazers) [![Forks](https://img.shields.io/github/forks/khiemnd777/agent-kit?style=flat-square&color=blue)](https://github.com/khiemnd777/agent-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-50%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/khiemnd777/agent-kit?style=flat-square&color=yellow)](https://github.com/khiemnd777/agent-kit/stargazers) [![Forks](https://img.shields.io/github/forks/khiemnd777/agent-kit?style=flat-square&color=blue)](https://github.com/khiemnd777/agent-kit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
 
 > Shared instructions, technical skills, and optional agents for Codex and Claude Code—with explicit planning, approval, and verification.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9 |
+| ⭐ **Stars** | 12 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 50/100 |
+| 📈 **Score** | 51/100 |
 | 🗓️ **Last push** | 2026-11-12 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ khiemnd777/agent-kit：khiemnd777/agent-kit helps remove repetitive manual opera
 
 **Quality signals**
 
-- 9 GitHub stars
+- 12 GitHub stars
 - 1 forks
 - updated 2026-11-12
 - primary language: Python
@@ -65,13 +65,13 @@ khiemnd777/agent-kit：khiemnd777/agent-kit helps remove repetitive manual opera
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 43/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 60/100 |
+| production | 61/100 |
 | outlook | 58/100 |
-| adoption | 17/100 |
+| adoption | 19/100 |
 | categoryMatchCount | 200/100 |
-| stars | 21/100 |
+| stars | 24/100 |
 | forks | 8/100 |
 | recency | 100/100 |
 | topics | 0/100 |

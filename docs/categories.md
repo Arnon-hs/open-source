@@ -12,8 +12,8 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Cloud & Storage](../cloud--storage/README.md) | 640 |
 | [Communication](../communication/README.md) | 486 |
 | [Content Creation](../content-creation/README.md) | 178 |
-| [Crypto](../crypto/README.md) | 847 |
-| [Data](../data/README.md) | 371 |
+| [Crypto](../crypto/README.md) | 848 |
+| [Data](../data/README.md) | 372 |
 | [Database](../database/README.md) | 591 |
 | [Design](../design/README.md) | 200 |
 | [DevOps/Infra](../devopsinfra/README.md) | 561 |
@@ -30,10 +30,10 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Mobile](../mobile/README.md) | 709 |
 | [Networking](../networking/README.md) | 682 |
 | [Observability](../observability/README.md) | 329 |
-| [Orchestration](../orchestration/README.md) | 2,521 |
+| [Orchestration](../orchestration/README.md) | 2,522 |
 | [Payments](../payments/README.md) | 395 |
 | [Product](../product/README.md) | 21 |
-| [Productivity](../productivity/README.md) | 378 |
+| [Productivity](../productivity/README.md) | 379 |
 | [Security](../security/README.md) | 525 |
 | [Templates](../templates/README.md) | 502 |
 | [Trading](../trading/README.md) | 227 |

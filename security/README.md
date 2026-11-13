@@ -161,7 +161,7 @@
 | 151 | [OpenIdentityPlatform/OpenAM](./openidentityplatform-openam.md) | ⭐ 903 | Java | 57/100 |
 | 152 | [Luzifer/nginx-sso](./luzifer-nginx-sso.md) | ⭐ 305 | Go | 57/100 |
 | 153 | [lesismal/nbio](./lesismal-nbio.md) | ⭐ 2.8k | Go | 57/100 |
-| 154 | [geraldohomero/best-foss-alternatives](./geraldohomero-best-foss-alternatives.md) | ⭐ 265 | — | 57/100 |
+| 154 | [geraldohomero/best-foss-alternatives](./geraldohomero-best-foss-alternatives.md) | ⭐ 266 | — | 57/100 |
 | 155 | [AthenZ/athenz](./athenz-athenz.md) | ⭐ 1k | Java | 57/100 |
 | 156 | [rizinorg/rizin](./rizinorg-rizin.md) | ⭐ 4.2k | C | 57/100 |
 | 157 | [pypa/pip-audit](./pypa-pip-audit.md) | ⭐ 1.4k | Python | 56/100 |
@@ -241,7 +241,7 @@
 | 231 | [dockndevai/mcp-core](./dockndevai-mcp-core.md) | ⭐ — | TypeScript | 53/100 |
 | 232 | [ralis-ai/weir](./ralis-ai-weir.md) | ⭐ — | — | 52/100 |
 | 233 | [nuxt/hints](./nuxt-hints.md) | ⭐ 347 | TypeScript | 52/100 |
-| 234 | [better-auth-rs/better-auth-rs](./better-auth-rs-better-auth-rs.md) | ⭐ 299 | Rust | 52/100 |
+| 234 | [better-auth-rs/better-auth-rs](./better-auth-rs-better-auth-rs.md) | ⭐ 300 | Rust | 52/100 |
 | 235 | [portier/portier-broker](./portier-portier-broker.md) | ⭐ 581 | Rust | 52/100 |
 | 236 | [SSSD/sssd](./sssd-sssd.md) | ⭐ 804 | C | 52/100 |
 | 237 | [facebookincubator/fizz](./facebookincubator-fizz.md) | ⭐ 1.2k | C++ | 52/100 |
@@ -260,7 +260,7 @@
 | 250 | [apple/swift-nio-ssl](./apple-swift-nio-ssl.md) | ⭐ 443 | Assembly | 51/100 |
 | 251 | [depado/gin-auth-example](./depado-gin-auth-example.md) | ⭐ 186 | Go | 51/100 |
 | 252 | [aaronpk/oauth.net](./aaronpk-oauth.net.md) | ⭐ 321 | HTML | 51/100 |
-| 253 | [alpha-omega-security/scrutineer](./alpha-omega-security-scrutineer.md) | ⭐ 267 | Go | 51/100 |
+| 253 | [alpha-omega-security/scrutineer](./alpha-omega-security-scrutineer.md) | ⭐ 268 | Go | 51/100 |
 | 254 | [powdr-labs/powdr](./powdr-labs-powdr.md) | ⭐ 506 | Rust | 51/100 |
 | 255 | [rustls/rustls-ffi](./rustls-rustls-ffi.md) | ⭐ 171 | Rust | 51/100 |
 | 256 | [okta/okta-signin-widget](./okta-okta-signin-widget.md) | ⭐ 403 | JavaScript | 51/100 |
@@ -274,8 +274,8 @@
 | 264 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 265 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
 | 266 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 267 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 268 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
+| 267 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
+| 268 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 269 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 270 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 531 | JavaScript | 50/100 |
 | 271 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.2k | TypeScript | 50/100 |
@@ -317,7 +317,7 @@
 | 307 | [lovixcloud/leakgoblin](./lovixcloud-leakgoblin.md) | ⭐ 2 | TypeScript | 48/100 |
 | 308 | [element-hq/matrix-authentication-service](./element-hq-matrix-authentication-service.md) | ⭐ 287 | Rust | 47/100 |
 | 309 | [iw4x/iw4x-client](./iw4x-iw4x-client.md) | ⭐ 360 | C++ | 47/100 |
-| 310 | [sbom-tool/sbom-tools](./sbom-tool-sbom-tools.md) | ⭐ 263 | Rust | 47/100 |
+| 310 | [sbom-tool/sbom-tools](./sbom-tool-sbom-tools.md) | ⭐ 264 | Rust | 47/100 |
 | 311 | [TalEliyahu/Awesome-AI-Security](./taleliyahu-awesome-ai-security.md) | ⭐ 911 | — | 47/100 |
 | 312 | [mindersec/minder](./mindersec-minder.md) | ⭐ 429 | Go | 47/100 |
 | 313 | [stamparm/ipsum](./stamparm-ipsum.md) | ⭐ 2.4k | — | 47/100 |
@@ -404,8 +404,8 @@
 | 394 | [aws/credential-daemon](./aws-credential-daemon.md) | ⭐ 7 | — | 41/100 |
 | 395 | [humanethq/sandbox-check](./humanethq-sandbox-check.md) | ⭐ 3 | — | 41/100 |
 | 396 | [notaharness/beam](./notaharness-beam.md) | ⭐ 8 | — | 41/100 |
-| 397 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
-| 398 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
+| 397 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
+| 398 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
 | 399 | [spapas/totpvault](./spapas-totpvault.md) | ⭐ — | — | 41/100 |
 | 400 | [movray/meles](./movray-meles.md) | ⭐ 3 | — | 41/100 |
 | 401 | [forcequitOS/worse_query](./forcequitos-worse-query.md) | ⭐ 584 | — | 41/100 |
@@ -457,7 +457,7 @@
 | 447 | [waipu-oss/go-ktls](./waipu-oss-go-ktls.md) | ⭐ 18 | — | 41/100 |
 | 448 | [ion-elgreco/rivers](./ion-elgreco-rivers.md) | ⭐ 107 | — | 41/100 |
 | 449 | [thecodearcher/limen](./thecodearcher-limen.md) | ⭐ 567 | — | 41/100 |
-| 450 | [mitre/heimdall2](./mitre-heimdall2.md) | ⭐ 294 | HTML | 41/100 |
+| 450 | [mitre/heimdall2](./mitre-heimdall2.md) | ⭐ 295 | HTML | 41/100 |
 | 451 | [thiagoralves/openplc](./thiagoralves-openplc.md) | ⭐ 184 | C++ | 41/100 |
 | 452 | [hahahahahahahahah6/bash-write-targets](./hahahahahahahahah6-bash-write-targets.md) | ⭐ — | Python | 41/100 |
 | 453 | [EngJoDev/neurohive](./engjodev-neurohive.md) | ⭐ 1 | Python | 41/100 |
@@ -484,9 +484,9 @@
 | 474 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 38/100 |
 | 475 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ 1.6k | — | 38/100 |
 | 476 | [openai/codex-security](./openai-codex-security.md) | ⭐ 12.2k | — | 38/100 |
-| 477 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
-| 478 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
-| 479 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 477 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 478 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 479 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
 | 480 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ 415 | — | 38/100 |
 | 481 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
 | 482 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 38/100 |

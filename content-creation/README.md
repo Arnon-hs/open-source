@@ -26,7 +26,7 @@
 | 16 | [Anil-matcha/Wan-3.0-API](./anil-matcha-wan-3.0-api.md) | ⭐ 81 | Python | 76/100 |
 | 17 | [SamurAIGPT/AI-Influencer-Generator](./samuraigpt-ai-influencer-generator.md) | ⭐ 345 | Jupyter Notebook | 76/100 |
 | 18 | [sergebulaev/linkedin-skills](./sergebulaev-linkedin-skills.md) | ⭐ 5.9k | Python | 76/100 |
-| 19 | [artokun/comfyui-mcp](./artokun-comfyui-mcp.md) | ⭐ 919 | TypeScript | 76/100 |
+| 19 | [artokun/comfyui-mcp](./artokun-comfyui-mcp.md) | ⭐ 921 | TypeScript | 76/100 |
 | 20 | [alecs5am/ralphy](./alecs5am-ralphy.md) | ⭐ 144 | TypeScript | 76/100 |
 | 21 | [dramaclaw/dramaclaw](./dramaclaw-dramaclaw.md) | ⭐ 7.7k | TypeScript | 75/100 |
 | 22 | [volcengine/ark-cli](./volcengine-ark-cli.md) | ⭐ 149 | Python | 75/100 |
@@ -43,7 +43,7 @@
 | 33 | [ddalcu/mlx-serve](./ddalcu-mlx-serve.md) | ⭐ 2.4k | Zig | 72/100 |
 | 34 | [Notifuse/notifuse](./notifuse-notifuse.md) | ⭐ 2.3k | Go | 72/100 |
 | 35 | [pendpost/pendpost](./pendpost-pendpost.md) | ⭐ 21 | JavaScript | 71/100 |
-| 36 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 374 | Python | 71/100 |
+| 36 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 379 | Python | 71/100 |
 | 37 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 24 | — | 71/100 |
 | 38 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 902 | Python | 71/100 |
 | 39 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 317 | Python | 71/100 |
@@ -89,7 +89,7 @@
 | 79 | [Mann1988/awesome-claude-skills](./mann1988-awesome-claude-skills.md) | ⭐ 58 | Python | 64/100 |
 | 80 | [Xeron2000/openOii](./xeron2000-openoii.md) | ⭐ 299 | Python | 64/100 |
 | 81 | [helloworld8661/awesome-ai-book-writing](./helloworld8661-awesome-ai-book-writing.md) | ⭐ 24 | — | 63/100 |
-| 82 | [jidouqie/redbeacon](./jidouqie-redbeacon.md) | ⭐ 254 | Shell | 63/100 |
+| 82 | [jidouqie/redbeacon](./jidouqie-redbeacon.md) | ⭐ 255 | Shell | 63/100 |
 | 83 | [RicardoGEsteves/omniscient](./ricardogesteves-omniscient.md) | ⭐ 121 | TypeScript | 63/100 |
 | 84 | [YouMind-OpenLab/awesome-seedance-2-prompts](./youmind-openlab-awesome-seedance-2-prompts.md) | ⭐ 2.2k | TypeScript | 63/100 |
 | 85 | [GraphiteEditor/Graphite](./graphiteeditor-graphite.md) | ⭐ 27.9k | Rust | 63/100 |
@@ -182,8 +182,8 @@
 | 172 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 173 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 174 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 175 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 176 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 175 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 176 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
 | 177 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 178 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 

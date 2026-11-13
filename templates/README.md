@@ -123,7 +123,7 @@
 | 113 | [HugoBlox/hugo-theme-academic-cv](./hugoblox-hugo-theme-academic-cv.md) | ⭐ 5.1k | Jupyter Notebook | 73/100 |
 | 114 | [faizkhairi/claude-code-blueprint](./faizkhairi-claude-code-blueprint.md) | ⭐ 73 | Shell | 73/100 |
 | 115 | [moshehbenavraham/Ultimate-Agent-Directory](./moshehbenavraham-ultimate-agent-directory.md) | ⭐ 72 | Python | 73/100 |
-| 116 | [viticci/remctl](./viticci-remctl.md) | ⭐ 655 | Python | 73/100 |
+| 116 | [viticci/remctl](./viticci-remctl.md) | ⭐ 657 | Python | 73/100 |
 | 117 | [InvadingOctopus/comedot](./invadingoctopus-comedot.md) | ⭐ 551 | GDScript | 73/100 |
 | 118 | [a5chin/python-uv](./a5chin-python-uv.md) | ⭐ 373 | Python | 73/100 |
 | 119 | [Camelcade/Perl5-IDEA](./camelcade-perl5-idea.md) | ⭐ 421 | Java | 73/100 |
@@ -193,7 +193,7 @@
 | 183 | [mcanouil/awesome-quarto](./mcanouil-awesome-quarto.md) | ⭐ 2.2k | — | 69/100 |
 | 184 | [HTTP-RPC/Kilo](./http-rpc-kilo.md) | ⭐ 342 | Java | 69/100 |
 | 185 | [langchain-ai/agent-auth-payments](./langchain-ai-agent-auth-payments.md) | ⭐ 200 | TypeScript | 69/100 |
-| 186 | [yanliudesign/offer-toolkit-skill](./yanliudesign-offer-toolkit-skill.md) | ⭐ 570 | HTML | 69/100 |
+| 186 | [yanliudesign/offer-toolkit-skill](./yanliudesign-offer-toolkit-skill.md) | ⭐ 572 | HTML | 69/100 |
 | 187 | [cargo-generate/cargo-generate](./cargo-generate-cargo-generate.md) | ⭐ 2.5k | Rust | 69/100 |
 | 188 | [BorisPolonsky/dify-helm](./borispolonsky-dify-helm.md) | ⭐ 679 | Go Template | 69/100 |
 | 189 | [davekilleen/Dex](./davekilleen-dex.md) | ⭐ 515 | Python | 69/100 |
@@ -298,7 +298,7 @@
 | 288 | [Ethan-YS/project-brain](./ethan-ys-project-brain.md) | ⭐ 173 | Shell | 64/100 |
 | 289 | [stan-dev/math](./stan-dev-math.md) | ⭐ 846 | C++ | 64/100 |
 | 290 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 55 | Shell | 64/100 |
-| 291 | [emretasss/AI-Workflow-Hub-2000-](./emretasss-ai-workflow-hub-2000-.md) | ⭐ 322 | — | 64/100 |
+| 291 | [emretasss/AI-Workflow-Hub-2000-](./emretasss-ai-workflow-hub-2000-.md) | ⭐ 323 | — | 64/100 |
 | 292 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 50 | Go | 63/100 |
 | 293 | [SurgePix/ai-ppt-prompts](./surgepix-ai-ppt-prompts.md) | ⭐ 14 | JavaScript | 63/100 |
 | 294 | [assassinationss/awesome-china-sourcing](./assassinationss-awesome-china-sourcing.md) | ⭐ — | — | 63/100 |
@@ -372,8 +372,8 @@
 | 362 | [aimeos/pagible](./aimeos-pagible.md) | ⭐ 603 | PHP | 60/100 |
 | 363 | [onedr0p/cluster-template](./onedr0p-cluster-template.md) | ⭐ 2.8k | YAML | 60/100 |
 | 364 | [Alchemyst-ai/awesome-saas](./alchemyst-ai-awesome-saas.md) | ⭐ 421 | TypeScript | 60/100 |
-| 365 | [chrisdoc/hevy-mcp](./chrisdoc-hevy-mcp.md) | ⭐ 538 | TypeScript | 60/100 |
-| 366 | [product-on-purpose/pm-skills](./product-on-purpose-pm-skills.md) | ⭐ 800 | PowerShell | 60/100 |
+| 365 | [chrisdoc/hevy-mcp](./chrisdoc-hevy-mcp.md) | ⭐ 539 | TypeScript | 60/100 |
+| 366 | [product-on-purpose/pm-skills](./product-on-purpose-pm-skills.md) | ⭐ 802 | PowerShell | 60/100 |
 | 367 | [trueforge-org/truecharts](./trueforge-org-truecharts.md) | ⭐ 1.4k | Go Template | 60/100 |
 | 368 | [iydon/sustechthesis](./iydon-sustechthesis.md) | ⭐ 348 | TeX | 59/100 |
 | 369 | [bearcove/dodeca](./bearcove-dodeca.md) | ⭐ 228 | Rust | 59/100 |

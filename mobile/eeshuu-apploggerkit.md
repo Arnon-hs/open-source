@@ -1,6 +1,6 @@
 # eeshuu/AppLoggerKit
 
-[![Stars](https://img.shields.io/github/stars/eeshuu/AppLoggerKit?style=flat-square&color=yellow)](https://github.com/eeshuu/AppLoggerKit/stargazers) [![Forks](https://img.shields.io/github/forks/eeshuu/AppLoggerKit?style=flat-square&color=blue)](https://github.com/eeshuu/AppLoggerKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-40%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/eeshuu/AppLoggerKit?style=flat-square&color=yellow)](https://github.com/eeshuu/AppLoggerKit/stargazers) [![Forks](https://img.shields.io/github/forks/eeshuu/AppLoggerKit?style=flat-square&color=blue)](https://github.com/eeshuu/AppLoggerKit/network) [![Language](https://img.shields.io/badge/lang-Swift-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-37%2F100-brightgreen?style=flat-square)](#)
 
 > Privacy-conscious logging and local diagnostics for Swift, SwiftUI and UIKit: OSLog, JSON Lines files, redaction, search and export. Swift Package Manager, no dependencies.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Swift |
-| 📈 **Score** | 40/100 |
+| 📈 **Score** | 37/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Mobile
 
 ### English
 
-eeshuu/AppLoggerKit: eeshuu/AppLoggerKit may be useful when its README and activity match a concrete workflow.. Use it for Mobile. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+eeshuu/AppLoggerKit: eeshuu/AppLoggerKit may be useful when its README and activity match a concrete workflow.. Use it for Mobile. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-eeshuu/AppLoggerKit: open-source проект в категориях Mobile. Практическое применение: нужна ручная оценка сценария. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+eeshuu/AppLoggerKit: open-source проект в категориях Mobile. Практическое применение: нужна ручная оценка сценария. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-eeshuu/AppLoggerKit：eeshuu/AppLoggerKit may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+eeshuu/AppLoggerKit：eeshuu/AppLoggerKit may be useful when its README and activity match a concrete workflow.。适合用于Mobile。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -47,7 +47,7 @@ eeshuu/AppLoggerKit：eeshuu/AppLoggerKit may be useful when its README and acti
 
 **Integration notes:** Needs manual inspection before adoption because integration signals are sparse in the discovered metadata.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -62,15 +62,15 @@ eeshuu/AppLoggerKit：eeshuu/AppLoggerKit may be useful when its README and acti
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 30/100 |
-| production | 56/100 |
-| outlook | 52/100 |
+| production | 50/100 |
+| outlook | 45/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 100/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

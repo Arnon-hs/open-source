@@ -12,14 +12,14 @@
 | 2 | [slackapi/node-slack-sdk](./slackapi-node-slack-sdk.md) | ⭐ 3.4k | TypeScript | 85/100 |
 | 3 | [TwiN/gatus](./twin-gatus.md) | ⭐ 12.7k | Go | 84/100 |
 | 4 | [TwiN/gatus](./twin-gatus.md) | ⭐ 11.9k | Go | 82/100 |
-| 5 | [ZL154/JellyfinSecurity](./zl154-jellyfinsecurity.md) | ⭐ 327 | C# | 78/100 |
+| 5 | [ZL154/JellyfinSecurity](./zl154-jellyfinsecurity.md) | ⭐ 329 | C# | 78/100 |
 | 6 | [frappe/frappe](./frappe-frappe.md) | ⭐ 11.1k | Python | 78/100 |
 | 7 | [GetStream/stream-chat-react-native](./getstream-stream-chat-react-native.md) | ⭐ 1.2k | TypeScript | 76/100 |
 | 8 | [8go/matrix-commander-rs](./8go-matrix-commander-rs.md) | ⭐ 250 | Rust | 76/100 |
 | 9 | [firebase/firebase-js-sdk](./firebase-firebase-js-sdk.md) | ⭐ 5.2k | TypeScript | 76/100 |
 | 10 | [reacherhq/check-if-email-exists](./reacherhq-check-if-email-exists.md) | ⭐ 10.5k | Rust | 75/100 |
 | 11 | [matrix-org/matrix-js-sdk](./matrix-org-matrix-js-sdk.md) | ⭐ 2.2k | TypeScript | 75/100 |
-| 12 | [opencoredev/email-sdk](./opencoredev-email-sdk.md) | ⭐ 518 | MDX | 75/100 |
+| 12 | [opencoredev/email-sdk](./opencoredev-email-sdk.md) | ⭐ 517 | MDX | 75/100 |
 | 13 | [jeboehm/docker-mailserver](./jeboehm-docker-mailserver.md) | ⭐ 478 | Shell | 74/100 |
 | 14 | [8go/matrix-commander](./8go-matrix-commander.md) | ⭐ 763 | Python | 74/100 |
 | 15 | [juggleim/im-server](./juggleim-im-server.md) | ⭐ 3.5k | Go | 74/100 |
@@ -105,7 +105,7 @@
 | 95 | [twisted/twisted](./twisted-twisted.md) | ⭐ 6k | Python | 64/100 |
 | 96 | [plan-player-analytics/Plan](./plan-player-analytics-plan.md) | ⭐ 1k | Java | 64/100 |
 | 97 | [42wim/matterircd](./42wim-matterircd.md) | ⭐ 309 | Go | 64/100 |
-| 98 | [kdeldycke/mail-deduplicate](./kdeldycke-mail-deduplicate.md) | ⭐ 201 | Python | 64/100 |
+| 98 | [kdeldycke/mail-deduplicate](./kdeldycke-mail-deduplicate.md) | ⭐ 202 | Python | 64/100 |
 | 99 | [strimzi/strimzi-kafka-operator](./strimzi-strimzi-kafka-operator.md) | ⭐ 6k | Java | 64/100 |
 | 100 | [monal-im/Monal](./monal-im-monal.md) | ⭐ 688 | Objective-C | 64/100 |
 | 101 | [deriv-security/MeetC2](./deriv-security-meetc2.md) | ⭐ 145 | Go | 63/100 |
@@ -163,7 +163,7 @@
 | 153 | [owncast/owncast](./owncast-owncast.md) | ⭐ 11.7k | Go | 60/100 |
 | 154 | [hieunc229/mailflare](./hieunc229-mailflare.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 155 | [freebsd/pkg](./freebsd-pkg.md) | ⭐ 833 | C | 59/100 |
-| 156 | [HQBase/hqbase](./hqbase-hqbase.md) | ⭐ 365 | TypeScript | 59/100 |
+| 156 | [HQBase/hqbase](./hqbase-hqbase.md) | ⭐ 367 | TypeScript | 59/100 |
 | 157 | [permissionlesstech/bitchat](./permissionlesstech-bitchat.md) | ⭐ 37.1k | Swift | 59/100 |
 | 158 | [stefangabos/Zebra_Datepicker](./stefangabos-zebra-datepicker.md) | ⭐ 404 | JavaScript | 59/100 |
 | 159 | [The-Osint-Toolbox/Email-Username-OSINT](./the-osint-toolbox-email-username-osint.md) | ⭐ 420 | — | 59/100 |
@@ -175,7 +175,7 @@
 | 165 | [spacebarchat/server](./spacebarchat-server.md) | ⭐ 2.2k | TypeScript | 59/100 |
 | 166 | [scraly/developers-conferences-agenda](./scraly-developers-conferences-agenda.md) | ⭐ 2k | JavaScript | 59/100 |
 | 167 | [zulip/zulip](./zulip-zulip.md) | ⭐ 26.2k | Python | 59/100 |
-| 168 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 318 | Go | 59/100 |
+| 168 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 320 | Go | 59/100 |
 | 169 | [orangecoding/fredy](./orangecoding-fredy.md) | ⭐ 1.6k | JavaScript | 59/100 |
 | 170 | [ClimbStack/climbstack-app](./climbstack-climbstack-app.md) | ⭐ 4 | TypeScript | 58/100 |
 | 171 | [apache/artemis](./apache-artemis.md) | ⭐ 1.1k | Java | 58/100 |

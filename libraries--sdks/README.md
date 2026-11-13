@@ -167,7 +167,7 @@
 | 157 | [alchemyplatform/aa-sdk](./alchemyplatform-aa-sdk.md) | ⭐ 323 | TypeScript | 58/100 |
 | 158 | [tadfisher/android-nixpkgs](./tadfisher-android-nixpkgs.md) | ⭐ 435 | Nix | 57/100 |
 | 159 | [rust-lang/rust-bindgen](./rust-lang-rust-bindgen.md) | ⭐ 5.3k | Rust | 57/100 |
-| 160 | [stellar/rs-soroban-sdk](./stellar-rs-soroban-sdk.md) | ⭐ 210 | Rust | 57/100 |
+| 160 | [stellar/rs-soroban-sdk](./stellar-rs-soroban-sdk.md) | ⭐ 211 | Rust | 57/100 |
 | 161 | [esp-rs/esp-idf-sys](./esp-rs-esp-idf-sys.md) | ⭐ 405 | Rust | 57/100 |
 | 162 | [bitwarden/sdk-internal](./bitwarden-sdk-internal.md) | ⭐ 118 | Rust | 57/100 |
 | 163 | [apache/avro-rs](./apache-avro-rs.md) | ⭐ 132 | Rust | 57/100 |
@@ -205,7 +205,7 @@
 | 195 | [georust/gdal](./georust-gdal.md) | ⭐ 459 | Rust | 53/100 |
 | 196 | [Dario-Chang/Spark-Governance-SDK](./dario-chang-spark-governance-sdk.md) | ⭐ — | — | 53/100 |
 | 197 | [twistedfall/opencv-rust](./twistedfall-opencv-rust.md) | ⭐ 2.5k | Rust | 53/100 |
-| 198 | [beowolx/rensa](./beowolx-rensa.md) | ⭐ 318 | Rust | 53/100 |
+| 198 | [beowolx/rensa](./beowolx-rensa.md) | ⭐ 320 | Rust | 53/100 |
 | 199 | [vhspace/sdl3-rs](./vhspace-sdl3-rs.md) | ⭐ 404 | Rust | 53/100 |
 | 200 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.4k | Rust | 53/100 |
 | 201 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.5k | Kotlin | 53/100 |
@@ -245,7 +245,7 @@
 | 235 | [Ralith/openxrs](./ralith-openxrs.md) | ⭐ 342 | Rust | 49/100 |
 | 236 | [jonhoo/rust-ibverbs](./jonhoo-rust-ibverbs.md) | ⭐ 235 | Rust | 49/100 |
 | 237 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 217 | JavaScript | 49/100 |
-| 238 | [CH-Abhinav/JNum](./ch-abhinav-jnum.md) | ⭐ 33 | — | 48/100 |
+| 238 | [CH-Abhinav/JNum](./ch-abhinav-jnum.md) | ⭐ 34 | — | 48/100 |
 | 239 | [apple-auth/apple-auth](./apple-auth-apple-auth.md) | ⭐ 3 | — | 48/100 |
 | 240 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ 112 | — | 48/100 |
 | 241 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |

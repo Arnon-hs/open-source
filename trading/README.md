@@ -85,8 +85,8 @@
 | 75 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 232 | Rust | 64/100 |
 | 76 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 77 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 78 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 333 | Go | 63/100 |
-| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 669 | Jupyter Notebook | 63/100 |
+| 78 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 669 | Jupyter Notebook | 63/100 |
+| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 333 | Go | 63/100 |
 | 80 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 81 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 82 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |
@@ -102,7 +102,7 @@
 | 92 | [javifalces/HFTFramework](./javifalces-hftframework.md) | ⭐ 311 | Jupyter Notebook | 62/100 |
 | 93 | [CategoricalData/CQL](./categoricaldata-cql.md) | ⭐ 367 | Java | 62/100 |
 | 94 | [hosseinmoein/DataFrame](./hosseinmoein-dataframe.md) | ⭐ 3k | C++ | 62/100 |
-| 95 | [ZhuLinsen/alphasift](./zhulinsen-alphasift.md) | ⭐ 472 | Python | 62/100 |
+| 95 | [ZhuLinsen/alphasift](./zhulinsen-alphasift.md) | ⭐ 481 | Python | 62/100 |
 | 96 | [Benjam1nCup/Polymarket-trading-bot-python-V2](./benjam1ncup-polymarket-trading-bot-python-v2.md) | ⭐ 338 | HTML | 62/100 |
 | 97 | [mvanhorn/last30days-skill](./mvanhorn-last30days-skill.md) | ⭐ 67.4k | Python | 62/100 |
 | 98 | [Krexind/quant-trading](./krexind-quant-trading.md) | ⭐ 42 | Python | 61/100 |
@@ -120,7 +120,7 @@
 | 110 | [nlethetech/nepse-quant-terminal](./nlethetech-nepse-quant-terminal.md) | ⭐ 208 | Python | 60/100 |
 | 111 | [Bhala-Srinivash/nse-trading-skills](./bhala-srinivash-nse-trading-skills.md) | ⭐ 61 | — | 60/100 |
 | 112 | [FinHackCN/finhack](./finhackcn-finhack.md) | ⭐ 1.3k | Python | 59/100 |
-| 113 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 239 | Rust | 59/100 |
+| 113 | [infinitefield/hypersdk](./infinitefield-hypersdk.md) | ⭐ 240 | Rust | 59/100 |
 | 114 | [nordic-institute/X-Road](./nordic-institute-x-road.md) | ⭐ 876 | Java | 59/100 |
 | 115 | [rolling-panda-san/notebooks](./rolling-panda-san-notebooks.md) | ⭐ 786 | Jupyter Notebook | 59/100 |
 | 116 | [kungfu-systems/kungfu](./kungfu-systems-kungfu.md) | ⭐ 4.5k | C++ | 59/100 |
@@ -167,7 +167,7 @@
 | 157 | [jacelovehaha/cagerail](./jacelovehaha-cagerail.md) | ⭐ — | Python | 52/100 |
 | 158 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 159 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
-| 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 231 | Go | 52/100 |
+| 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 232 | Go | 52/100 |
 | 161 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
 | 162 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
 | 163 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |

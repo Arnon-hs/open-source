@@ -226,7 +226,7 @@
 | 216 | [hapostgres/pg_auto_failover](./hapostgres-pg-auto-failover.md) | ⭐ 1.4k | C | 55/100 |
 | 217 | [pgbouncer/pgbouncer](./pgbouncer-pgbouncer.md) | ⭐ 4.4k | C | 55/100 |
 | 218 | [BaseXdb/basex](./basexdb-basex.md) | ⭐ 769 | Java | 55/100 |
-| 219 | [riscv/riscv-unified-db](./riscv-riscv-unified-db.md) | ⭐ 230 | Ruby | 55/100 |
+| 219 | [riscv/riscv-unified-db](./riscv-riscv-unified-db.md) | ⭐ 231 | Ruby | 55/100 |
 | 220 | [baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv](./baselkelziye-ytu-bilgisayar-muhendisligi-arsiv.md) | ⭐ 509 | Jupyter Notebook | 55/100 |
 | 221 | [omega8cc/boa](./omega8cc-boa.md) | ⭐ 395 | Shell | 55/100 |
 | 222 | [glommer/pgmicro](./glommer-pgmicro.md) | ⭐ 1.2k | Rust | 55/100 |
@@ -357,7 +357,7 @@
 | 347 | [pgdogdev/pgdog](./pgdogdev-pgdog.md) | ⭐ 5.6k | Rust | 48/100 |
 | 348 | [matrix-org/seshat](./matrix-org-seshat.md) | ⭐ 129 | Rust | 47/100 |
 | 349 | [dialog-db/dialog-db](./dialog-db-dialog-db.md) | ⭐ 188 | Rust | 47/100 |
-| 350 | [codeErrorSleep/dbpaw](./codeerrorsleep-dbpaw.md) | ⭐ 273 | Rust | 47/100 |
+| 350 | [codeErrorSleep/dbpaw](./codeerrorsleep-dbpaw.md) | ⭐ 274 | Rust | 47/100 |
 | 351 | [SteamDeckHomebrew/decky-plugin-database](./steamdeckhomebrew-decky-plugin-database.md) | ⭐ 355 | Shell | 47/100 |
 | 352 | [multigres/multigres](./multigres-multigres.md) | ⭐ 2.7k | Go | 47/100 |
 | 353 | [dbadminer/dbadminer](./dbadminer-dbadminer.md) | ⭐ 1 | Go | 46/100 |
@@ -580,8 +580,8 @@
 | 570 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 571 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 572 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 106 | — | 38/100 |
-| 573 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
-| 574 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 573 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 574 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 209 | — | 38/100 |
 | 575 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 576 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 577 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |
