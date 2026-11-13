@@ -272,8 +272,8 @@
 | 262 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 263 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
 | 264 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 265 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 266 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
+| 265 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
+| 266 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 267 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 268 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 531 | JavaScript | 50/100 |
 | 269 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.2k | TypeScript | 50/100 |
@@ -360,7 +360,7 @@
 | 350 | [dootss/shodan-dorks](./dootss-shodan-dorks.md) | ⭐ 471 | — | 45/100 |
 | 351 | [secureblue/secureblue](./secureblue-secureblue.md) | ⭐ 1.1k | Python | 45/100 |
 | 352 | [ashleyirispuppy143/poke](./ashleyirispuppy143-poke.md) | ⭐ 316 | EJS | 45/100 |
-| 353 | [haampie/tar-minefield](./haampie-tar-minefield.md) | ⭐ 32 | Python | 45/100 |
+| 353 | [haampie/tar-minefield](./haampie-tar-minefield.md) | ⭐ 33 | Python | 45/100 |
 | 354 | [i-am-jyotirmaya/haven-vault](./i-am-jyotirmaya-haven-vault.md) | ⭐ 1 | TypeScript | 45/100 |
 | 355 | [kncshw/cybergate](./kncshw-cybergate.md) | ⭐ 3 | — | 44/100 |
 | 356 | [zortos293/Lichii](./zortos293-lichii.md) | ⭐ — | — | 44/100 |
@@ -388,8 +388,8 @@
 | 378 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ 5 | — | 42/100 |
 | 379 | [barvhaim/code-security-skills](./barvhaim-code-security-skills.md) | ⭐ 1 | — | 42/100 |
 | 380 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ 6 | — | 42/100 |
-| 381 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
-| 382 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 381 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
+| 382 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
 | 383 | [arm/metis](./arm-metis.md) | ⭐ 892 | — | 42/100 |
 | 384 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 42/100 |
 | 385 | [renton4code/propagate-cli](./renton4code-propagate-cli.md) | ⭐ 3 | — | 42/100 |

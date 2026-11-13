@@ -330,14 +330,14 @@
 | 320 | [G00dS0ul/G00dS0ul](./g00ds0ul-g00ds0ul.md) | ⭐ — | — | 42/100 |
 | 321 | [vanyle/vectarine](./vanyle-vectarine.md) | ⭐ 140 | Rust | 42/100 |
 | 322 | [OpenDreamProject/OpenDream](./opendreamproject-opendream.md) | ⭐ 281 | C# | 42/100 |
-| 323 | [samhenrigold/MacPlusDancer](./samhenrigold-macplusdancer.md) | ⭐ — | — | 41/100 |
+| 323 | [samhenrigold/MacPlusDancer](./samhenrigold-macplusdancer.md) | ⭐ 60 | — | 41/100 |
 | 324 | [NVIDIA-RTX/Whitepapers](./nvidia-rtx-whitepapers.md) | ⭐ — | — | 41/100 |
 | 325 | [matheus-aragao-cavalcante/BEA-Backport-Engineering-Anything](./matheus-aragao-cavalcante-bea-backport-engineering-anything.md) | ⭐ — | — | 41/100 |
 | 326 | [tailscale/tailcat-for-minecraft](./tailscale-tailcat-for-minecraft.md) | ⭐ — | — | 41/100 |
 | 327 | [davidgiven/pet-elite](./davidgiven-pet-elite.md) | ⭐ 6 | — | 41/100 |
 | 328 | [angelotc/lol-companion](./angelotc-lol-companion.md) | ⭐ — | — | 41/100 |
 | 329 | [Sunghwan0112/spritecast](./sunghwan0112-spritecast.md) | ⭐ — | — | 41/100 |
-| 330 | [theagentd/CORTAO](./theagentd-cortao.md) | ⭐ 80 | — | 41/100 |
+| 330 | [theagentd/CORTAO](./theagentd-cortao.md) | ⭐ 172 | — | 41/100 |
 | 331 | [openigi/openigi](./openigi-openigi.md) | ⭐ 158 | — | 41/100 |
 | 332 | [Open-Game-Standards/OGS-Telemetry-Standard](./open-game-standards-ogs-telemetry-standard.md) | ⭐ 8 | — | 41/100 |
 | 333 | [apex-compute/ANR](./apex-compute-anr.md) | ⭐ 1.1k | — | 41/100 |

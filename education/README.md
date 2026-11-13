@@ -41,7 +41,7 @@
 | 31 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 263 | Rust | 44/100 |
 | 32 | [nodo-labs-uk/awesome-socratic-tutor](./nodo-labs-uk-awesome-socratic-tutor.md) | ⭐ — | — | 41/100 |
 | 33 | [t3spe/life-cipher](./t3spe-life-cipher.md) | ⭐ — | — | 41/100 |
-| 34 | [nodo-labs-uk/socratui](./nodo-labs-uk-socratui.md) | ⭐ — | — | 41/100 |
+| 34 | [nodo-labs-uk/socratui](./nodo-labs-uk-socratui.md) | ⭐ 4 | — | 41/100 |
 | 35 | [AiFirstDevelopment/engineer-to-ai-engineer](./aifirstdevelopment-engineer-to-ai-engineer.md) | ⭐ — | — | 41/100 |
 | 36 | [rapha-rodrigues/cc-esol](./rapha-rodrigues-cc-esol.md) | ⭐ 4 | — | 41/100 |
 | 37 | [Daks9h/learn-faster](./daks9h-learn-faster.md) | ⭐ — | TypeScript | 40/100 |

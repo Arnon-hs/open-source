@@ -174,7 +174,7 @@
 | 164 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 38 | JavaScript | 47/100 |
 | 165 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
 | 166 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |
-| 167 | [egeozcan/glasnost](./egeozcan-glasnost.md) | ⭐ 17 | — | 41/100 |
+| 167 | [egeozcan/glasnost](./egeozcan-glasnost.md) | ⭐ 19 | — | 41/100 |
 | 168 | [RyzovaTech/Ryzova-Kernel](./ryzovatech-ryzova-kernel.md) | ⭐ 2 | — | 41/100 |
 | 169 | [croit/ceph-rust](./croit-ceph-rust.md) | ⭐ 50 | — | 41/100 |
 | 170 | [arjavsharma91/v4q128](./arjavsharma91-v4q128.md) | ⭐ 3 | — | 41/100 |

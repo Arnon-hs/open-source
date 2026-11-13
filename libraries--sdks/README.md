@@ -284,7 +284,7 @@
 | 274 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 43/100 |
 | 275 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 160 | Rust | 43/100 |
 | 276 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
-| 277 | [thenativeweb/architecturekit-rust](./thenativeweb-architecturekit-rust.md) | ⭐ — | — | 41/100 |
+| 277 | [thenativeweb/architecturekit-rust](./thenativeweb-architecturekit-rust.md) | ⭐ 4 | — | 41/100 |
 | 278 | [trencinodin-stack/arcstone-airlock-blueprint](./trencinodin-stack-arcstone-airlock-blueprint.md) | ⭐ — | — | 41/100 |
 | 279 | [dtolnay/semver-trick](./dtolnay-semver-trick.md) | ⭐ — | — | 41/100 |
 | 280 | [glastor-core/hyper64](./glastor-core-hyper64.md) | ⭐ 1 | — | 41/100 |
