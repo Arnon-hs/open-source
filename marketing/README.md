@@ -2,7 +2,7 @@
 
 > 
 
-**42 projects** in this category.
+**43 projects** in this category.
 
 ## Projects
 
@@ -37,19 +37,20 @@
 | 27 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 42/100 |
 | 28 | [NeoZi12/dispatchseo](./neozi12-dispatchseo.md) | ⭐ 98 | — | 42/100 |
 | 29 | [dannwaneri/seo-agent](./dannwaneri-seo-agent.md) | ⭐ 58 | — | 42/100 |
-| 30 | [ashvolt/free2Genius](./ashvolt-free2genius.md) | ⭐ 2 | — | 41/100 |
-| 31 | [mRs-/Black-Friday-Deals](./mrs--black-friday-deals.md) | ⭐ 2.3k | — | 41/100 |
-| 32 | [zachbrown29/lintel-marketing-playbooks](./zachbrown29-lintel-marketing-playbooks.md) | ⭐ 2 | — | 41/100 |
-| 33 | [clicksdynastyincali/local-seo-lint](./clicksdynastyincali-local-seo-lint.md) | ⭐ — | — | 41/100 |
-| 34 | [imlotso/discourse-indexnow](./imlotso-discourse-indexnow.md) | ⭐ 2 | Ruby | 39/100 |
-| 35 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 39/100 |
-| 36 | [Illyism/seo-skills](./illyism-seo-skills.md) | ⭐ 1.2k | — | 38/100 |
-| 37 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ 75 | — | 38/100 |
-| 38 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 38/100 |
-| 39 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ 8 | — | 38/100 |
-| 40 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ 1.1k | — | 38/100 |
-| 41 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ 2 | — | 38/100 |
-| 42 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ 38 | — | 38/100 |
+| 30 | [konarkmodi/pi-doubleword](./konarkmodi-pi-doubleword.md) | ⭐ — | — | 41/100 |
+| 31 | [ashvolt/free2Genius](./ashvolt-free2genius.md) | ⭐ 2 | — | 41/100 |
+| 32 | [mRs-/Black-Friday-Deals](./mrs--black-friday-deals.md) | ⭐ 2.3k | — | 41/100 |
+| 33 | [zachbrown29/lintel-marketing-playbooks](./zachbrown29-lintel-marketing-playbooks.md) | ⭐ 2 | — | 41/100 |
+| 34 | [clicksdynastyincali/local-seo-lint](./clicksdynastyincali-local-seo-lint.md) | ⭐ — | — | 41/100 |
+| 35 | [imlotso/discourse-indexnow](./imlotso-discourse-indexnow.md) | ⭐ 2 | Ruby | 39/100 |
+| 36 | [a353551071/dividend-math](./a353551071-dividend-math.md) | ⭐ — | TypeScript | 39/100 |
+| 37 | [Illyism/seo-skills](./illyism-seo-skills.md) | ⭐ 1.2k | — | 38/100 |
+| 38 | [TraceCohenTech/ai-seo-playbook](./tracecohentech-ai-seo-playbook.md) | ⭐ 75 | — | 38/100 |
+| 39 | [houtini-ai/seo-audit-console](./houtini-ai-seo-audit-console.md) | ⭐ — | — | 38/100 |
+| 40 | [encse/adsb-tui](./encse-adsb-tui.md) | ⭐ 8 | — | 38/100 |
+| 41 | [ChatbotXIO/ChatbotX](./chatbotxio-chatbotx.md) | ⭐ 1.1k | — | 38/100 |
+| 42 | [bilalnaseer/seo-schema-markup](./bilalnaseer-seo-schema-markup.md) | ⭐ 2 | — | 38/100 |
+| 43 | [marketingtoolslist/marketing-roadmap](./marketingtoolslist-marketing-roadmap.md) | ⭐ 38 | — | 38/100 |
 
 ---
 

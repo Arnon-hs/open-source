@@ -62,18 +62,18 @@ AI-KSK/KSK-Nodes：AI-KSK/KSK-Nodes may be useful when its README and activity m
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 50/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 55/100 |
-| adoption | 18/100 |
-| categoryMatchCount | 0/100 |
-| stars | 24/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 24/100 |
 | topics | 75/100 |
+| outlook | 55/100 |
+| quality | 50/100 |
+| recency | 80/100 |
+| adoption | 18/100 |
+| production | 58/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 0/100 |
 
 ---
 

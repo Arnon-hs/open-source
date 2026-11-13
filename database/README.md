@@ -420,7 +420,7 @@
 | 410 | [el1s7/model](./el1s7-model.md) | ⭐ 7 | — | 44/100 |
 | 411 | [EhTagTranslation/Database](./ehtagtranslation-database.md) | ⭐ 1.1k | PowerShell | 44/100 |
 | 412 | [supabase/postgres](./supabase-postgres.md) | ⭐ 1.8k | Nix | 44/100 |
-| 413 | [ks-tool/tembo](./ks-tool-tembo.md) | ⭐ 1 | — | 43/100 |
+| 413 | [ks-tool/tembo](./ks-tool-tembo.md) | ⭐ 4 | — | 43/100 |
 | 414 | [FoundationDB/fdb-record-layer](./foundationdb-fdb-record-layer.md) | ⭐ 680 | Java | 43/100 |
 | 415 | [tokio-rs/toasty](./tokio-rs-toasty.md) | ⭐ 3.3k | Rust | 43/100 |
 | 416 | [CodersAcademy006/raktsetu](./codersacademy006-raktsetu.md) | ⭐ — | TypeScript | 42/100 |

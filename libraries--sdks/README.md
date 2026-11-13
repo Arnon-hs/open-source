@@ -2,7 +2,7 @@
 
 > 
 
-**297 projects** in this category.
+**298 projects** in this category.
 
 ## Projects
 
@@ -284,27 +284,28 @@
 | 274 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 43/100 |
 | 275 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 160 | Rust | 43/100 |
 | 276 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
-| 277 | [trencinodin-stack/arcstone-airlock-blueprint](./trencinodin-stack-arcstone-airlock-blueprint.md) | ⭐ — | — | 41/100 |
-| 278 | [dtolnay/semver-trick](./dtolnay-semver-trick.md) | ⭐ — | — | 41/100 |
-| 279 | [glastor-core/hyper64](./glastor-core-hyper64.md) | ⭐ 1 | — | 41/100 |
-| 280 | [useswype/kotlin-pdfx](./useswype-kotlin-pdfx.md) | ⭐ 10 | — | 41/100 |
-| 281 | [openvi-foundation/openvue](./openvi-foundation-openvue.md) | ⭐ 442 | — | 41/100 |
-| 282 | [dannkkie/pure-sift](./dannkkie-pure-sift.md) | ⭐ 3 | — | 41/100 |
-| 283 | [romeroej2/ContextCall](./romeroej2-contextcall.md) | ⭐ 8 | — | 41/100 |
-| 284 | [V0rtexLinux/ILrDOS](./v0rtexlinux-ilrdos.md) | ⭐ 1 | — | 41/100 |
-| 285 | [Eazydraft/docxtor](./eazydraft-docxtor.md) | ⭐ — | — | 41/100 |
-| 286 | [FuzzyIdeas/LimbaKit](./fuzzyideas-limbakit.md) | ⭐ 2 | — | 41/100 |
-| 287 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ 16.3k | — | 41/100 |
-| 288 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ 1 | — | 41/100 |
-| 289 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
-| 290 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 135 | Rust | 39/100 |
-| 291 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 8 | Rust | 38/100 |
-| 292 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
-| 293 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ 4 | — | 37/100 |
-| 294 | [msiskasmith/PayChangu.NET](./msiskasmith-paychangu.net.md) | ⭐ 1 | C# | 37/100 |
-| 295 | [storj-thirdparty/uplink-php](./storj-thirdparty-uplink-php.md) | ⭐ 31 | PHP | 35/100 |
-| 296 | [thisisamirv/loess-project](./thisisamirv-loess-project.md) | ⭐ 3 | Rust | 33/100 |
-| 297 | [rustwasm/wasm-bindgen](./rustwasm-wasm-bindgen.md) | ⭐ — | — | 28/100 |
+| 277 | [thenativeweb/architecturekit-rust](./thenativeweb-architecturekit-rust.md) | ⭐ — | — | 41/100 |
+| 278 | [trencinodin-stack/arcstone-airlock-blueprint](./trencinodin-stack-arcstone-airlock-blueprint.md) | ⭐ — | — | 41/100 |
+| 279 | [dtolnay/semver-trick](./dtolnay-semver-trick.md) | ⭐ — | — | 41/100 |
+| 280 | [glastor-core/hyper64](./glastor-core-hyper64.md) | ⭐ 1 | — | 41/100 |
+| 281 | [useswype/kotlin-pdfx](./useswype-kotlin-pdfx.md) | ⭐ 10 | — | 41/100 |
+| 282 | [openvi-foundation/openvue](./openvi-foundation-openvue.md) | ⭐ 442 | — | 41/100 |
+| 283 | [dannkkie/pure-sift](./dannkkie-pure-sift.md) | ⭐ 3 | — | 41/100 |
+| 284 | [romeroej2/ContextCall](./romeroej2-contextcall.md) | ⭐ 8 | — | 41/100 |
+| 285 | [V0rtexLinux/ILrDOS](./v0rtexlinux-ilrdos.md) | ⭐ 1 | — | 41/100 |
+| 286 | [Eazydraft/docxtor](./eazydraft-docxtor.md) | ⭐ — | — | 41/100 |
+| 287 | [FuzzyIdeas/LimbaKit](./fuzzyideas-limbakit.md) | ⭐ 2 | — | 41/100 |
+| 288 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ 16.3k | — | 41/100 |
+| 289 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ 1 | — | 41/100 |
+| 290 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
+| 291 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 135 | Rust | 39/100 |
+| 292 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 8 | Rust | 38/100 |
+| 293 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
+| 294 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ 4 | — | 37/100 |
+| 295 | [msiskasmith/PayChangu.NET](./msiskasmith-paychangu.net.md) | ⭐ 1 | C# | 37/100 |
+| 296 | [storj-thirdparty/uplink-php](./storj-thirdparty-uplink-php.md) | ⭐ 31 | PHP | 35/100 |
+| 297 | [thisisamirv/loess-project](./thisisamirv-loess-project.md) | ⭐ 3 | Rust | 33/100 |
+| 298 | [rustwasm/wasm-bindgen](./rustwasm-wasm-bindgen.md) | ⭐ — | — | 28/100 |
 
 ---
 
