@@ -207,14 +207,14 @@
 | 197 | [ai-driven-dev/framework](./ai-driven-dev-framework.md) | ⭐ 555 | JavaScript | 69/100 |
 | 198 | [sveltejs/svelte](./sveltejs-svelte.md) | ⭐ 88.7k | JavaScript | 69/100 |
 | 199 | [AlekseiUL/agentforge-openclaw](./alekseiul-agentforge-openclaw.md) | ⭐ 44 | — | 69/100 |
-| 200 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 976 | Go Template | 69/100 |
+| 200 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 977 | Go Template | 69/100 |
 | 201 | [codewithMUHILAN/Lightswind-UI-Library](./codewithmuhilan-lightswind-ui-library.md) | ⭐ 1.3k | TypeScript | 69/100 |
 | 202 | [promptdriven/pdd](./promptdriven-pdd.md) | ⭐ 935 | Python | 69/100 |
 | 203 | [n8n-io/self-hosted-ai-starter-kit](./n8n-io-self-hosted-ai-starter-kit.md) | ⭐ 15.4k | — | 68/100 |
 | 204 | [fabwaseem/forgekit](./fabwaseem-forgekit.md) | ⭐ — | TypeScript | 68/100 |
 | 205 | [MinaSaad1/n8n-ai-agents](./minasaad1-n8n-ai-agents.md) | ⭐ 13 | — | 68/100 |
 | 206 | [ZSeven-W/dsh-crew](./zseven-w-dsh-crew.md) | ⭐ 211 | JavaScript | 68/100 |
-| 207 | [Naresh-Khatri/3d-portfolio](./naresh-khatri-3d-portfolio.md) | ⭐ 1.3k | TypeScript | 68/100 |
+| 207 | [Naresh-Khatri/3d-portfolio](./naresh-khatri-3d-portfolio.md) | ⭐ 1.4k | TypeScript | 68/100 |
 | 208 | [egvijayanand/dotnet-maui-templates](./egvijayanand-dotnet-maui-templates.md) | ⭐ 217 | C# | 68/100 |
 | 209 | [sudara/awesome-juce](./sudara-awesome-juce.md) | ⭐ 1.4k | Ruby | 68/100 |
 | 210 | [VictoriaMetrics/helm-charts](./victoriametrics-helm-charts.md) | ⭐ 573 | Go Template | 68/100 |
@@ -363,7 +363,7 @@
 | 353 | [AdamMc331/AndroidAppTemplate](./adammc331-androidapptemplate.md) | ⭐ 306 | Kotlin | 60/100 |
 | 354 | [speedpy/speedpy](./speedpy-speedpy.md) | ⭐ 82 | Python | 60/100 |
 | 355 | [cobalt-org/liquid-rust](./cobalt-org-liquid-rust.md) | ⭐ 593 | Rust | 60/100 |
-| 356 | [rust-sailfish/sailfish](./rust-sailfish-sailfish.md) | ⭐ 997 | Rust | 60/100 |
+| 356 | [rust-sailfish/sailfish](./rust-sailfish-sailfish.md) | ⭐ 998 | Rust | 60/100 |
 | 357 | [emilk/eframe_template](./emilk-eframe-template.md) | ⭐ 1.2k | Rust | 60/100 |
 | 358 | [pipecat-ai/voice-ui-kit](./pipecat-ai-voice-ui-kit.md) | ⭐ 418 | TypeScript | 60/100 |
 | 359 | [ublue-os/image-template](./ublue-os-image-template.md) | ⭐ 892 | Just | 60/100 |

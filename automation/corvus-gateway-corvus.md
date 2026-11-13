@@ -65,18 +65,18 @@ corvus-gateway/corvus：corvus-gateway/corvus helps remove repetitive manual ope
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 54/100 |
-| integration | 78/100 |
-| production | 64/100 |
-| outlook | 64/100 |
-| adoption | 19/100 |
-| categoryMatchCount | 500/100 |
-| stars | 21/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| stars | 21/100 |
 | topics | 100/100 |
+| outlook | 64/100 |
+| quality | 54/100 |
+| recency | 80/100 |
+| adoption | 19/100 |
+| production | 64/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

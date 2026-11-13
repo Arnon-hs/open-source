@@ -55,7 +55,7 @@
 | 45 | [qbittorrent/qBittorrent](./qbittorrent-qbittorrent.md) | ⭐ 41.6k | C++ | 71/100 |
 | 46 | [msoap/shell2http](./msoap-shell2http.md) | ⭐ 1.5k | Go | 71/100 |
 | 47 | [anacrolix/torrent](./anacrolix-torrent.md) | ⭐ 6.1k | Go | 71/100 |
-| 48 | [marvinvr/docktail](./marvinvr-docktail.md) | ⭐ 1.4k | Go | 71/100 |
+| 48 | [marvinvr/docktail](./marvinvr-docktail.md) | ⭐ 1.5k | Go | 71/100 |
 | 49 | [python-websockets/websockets](./python-websockets-websockets.md) | ⭐ 5.7k | Python | 71/100 |
 | 50 | [Kobii-git/rackpad](./kobii-git-rackpad.md) | ⭐ 434 | TypeScript | 71/100 |
 | 51 | [projectcontour/contour](./projectcontour-contour.md) | ⭐ 4k | HTML | 71/100 |
@@ -582,8 +582,8 @@
 | 572 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 573 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 653 | — | 45/100 |
 | 574 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
-| 576 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
+| 576 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
 | 577 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 578 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 579 | [hoysengleang/wslog](./hoysengleang-wslog.md) | ⭐ 1 | TypeScript | 43/100 |

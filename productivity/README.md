@@ -326,8 +326,8 @@
 | 316 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ — | — | 41/100 |
 | 317 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 318 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ — | — | 41/100 |
-| 319 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
-| 320 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
+| 319 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 18 | — | 41/100 |
+| 320 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
 | 321 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 2 | — | 41/100 |
 | 322 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 323 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 2 | — | 41/100 |

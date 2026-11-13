@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 1.6k |
-| 🍴 **Forks** | 142 |
+| 🍴 **Forks** | 144 |
 | 💻 **Language** | Batchfile |
 | 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-09-05 |
