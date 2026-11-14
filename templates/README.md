@@ -152,7 +152,7 @@
 | 142 | [lbedner/aegis-stack](./lbedner-aegis-stack.md) | ⭐ 146 | Python | 72/100 |
 | 143 | [Dishant27/mcp-server-starter](./dishant27-mcp-server-starter.md) | ⭐ — | — | 71/100 |
 | 144 | [codedthemes/berry-free-react-admin-template](./codedthemes-berry-free-react-admin-template.md) | ⭐ 2.2k | JavaScript | 71/100 |
-| 145 | [dioptx/weft](./dioptx-weft.md) | ⭐ 29 | Python | 71/100 |
+| 145 | [dioptx/weft](./dioptx-weft.md) | ⭐ 30 | Python | 71/100 |
 | 146 | [AbhiVarde/syncui](./abhivarde-syncui.md) | ⭐ 126 | JavaScript | 71/100 |
 | 147 | [wingkwong/leetcode-the-hard-way](./wingkwong-leetcode-the-hard-way.md) | ⭐ 954 | MDX | 71/100 |
 | 148 | [mugnavo/tanstarter](./mugnavo-tanstarter.md) | ⭐ 1.3k | TypeScript | 71/100 |

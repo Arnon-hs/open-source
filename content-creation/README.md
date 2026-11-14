@@ -20,7 +20,7 @@
 | 10 | [neopen/story-shot-agent](./neopen-story-shot-agent.md) | ⭐ 239 | Python | 78/100 |
 | 11 | [ffroliva/gflow-cli](./ffroliva-gflow-cli.md) | ⭐ 394 | Python | 78/100 |
 | 12 | [HBAI-Ltd/Toonflow-app](./hbai-ltd-toonflow-app.md) | ⭐ 21.7k | HTML | 78/100 |
-| 13 | [SlavaSexton/ComfyUI-Agent-Kit](./slavasexton-comfyui-agent-kit.md) | ⭐ 122 | Python | 77/100 |
+| 13 | [SlavaSexton/ComfyUI-Agent-Kit](./slavasexton-comfyui-agent-kit.md) | ⭐ 123 | Python | 77/100 |
 | 14 | [gokayfem/ComfyUI-fal-API](./gokayfem-comfyui-fal-api.md) | ⭐ 227 | Python | 76/100 |
 | 15 | [promptslab/Awesome-Prompt-Engineering](./promptslab-awesome-prompt-engineering.md) | ⭐ 6.5k | TypeScript | 76/100 |
 | 16 | [Anil-matcha/Wan-3.0-API](./anil-matcha-wan-3.0-api.md) | ⭐ 81 | Python | 76/100 |
@@ -62,7 +62,7 @@
 | 52 | [stabgan/openrouter-mcp-multimodal](./stabgan-openrouter-mcp-multimodal.md) | ⭐ 103 | TypeScript | 69/100 |
 | 53 | [Anil-matcha/Open-Generative-AI](./anil-matcha-open-generative-ai.md) | ⭐ 34.5k | JavaScript | 69/100 |
 | 54 | [utensils/mold](./utensils-mold.md) | ⭐ 58 | Rust | 68/100 |
-| 55 | [Kuhakucai/douyin-mcp](./kuhakucai-douyin-mcp.md) | ⭐ 90 | Python | 68/100 |
+| 55 | [Kuhakucai/douyin-mcp](./kuhakucai-douyin-mcp.md) | ⭐ 93 | Python | 68/100 |
 | 56 | [backblaze-labs/genblaze](./backblaze-labs-genblaze.md) | ⭐ 549 | Python | 68/100 |
 | 57 | [Anil-matcha/Open-AI-UGC](./anil-matcha-open-ai-ugc.md) | ⭐ 432 | JavaScript | 68/100 |
 | 58 | [vllm-project/vllm-omni](./vllm-project-vllm-omni.md) | ⭐ 7.7k | Python | 68/100 |
@@ -98,7 +98,7 @@
 | 88 | [BlackMixture/Mix-Studio](./blackmixture-mix-studio.md) | ⭐ 304 | JavaScript | 62/100 |
 | 89 | [FurkanGozukara/Stable-Diffusion](./furkangozukara-stable-diffusion.md) | ⭐ 2.8k | HTML | 62/100 |
 | 90 | [calesthio/generative-media-skills](./calesthio-generative-media-skills.md) | ⭐ 243 | Python | 62/100 |
-| 91 | [howoneai/xiaolin-explainer-packaging](./howoneai-xiaolin-explainer-packaging.md) | ⭐ 48 | TypeScript | 61/100 |
+| 91 | [howoneai/xiaolin-explainer-packaging](./howoneai-xiaolin-explainer-packaging.md) | ⭐ 50 | TypeScript | 61/100 |
 | 92 | [frankzch/ai-news-skill](./frankzch-ai-news-skill.md) | ⭐ 24 | Python | 61/100 |
 | 93 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
 | 94 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 22 | Python | 61/100 |

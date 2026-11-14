@@ -486,8 +486,8 @@
 | 476 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 477 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
 | 478 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 299 | Rust | 60/100 |
-| 479 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
-| 480 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 479 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 480 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
 | 481 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.8k | TypeScript | 60/100 |
 | 482 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 366 | Go | 60/100 |
 | 483 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
@@ -518,8 +518,8 @@
 | 508 | [sveltejs/eslint-plugin-svelte](./sveltejs-eslint-plugin-svelte.md) | ⭐ 413 | TypeScript | 59/100 |
 | 509 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 893 | TypeScript | 59/100 |
 | 510 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 815 | TypeScript | 59/100 |
-| 511 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
-| 512 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 511 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 512 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 513 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 514 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 361 | TypeScript | 59/100 |
 | 515 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 676 | Rust | 59/100 |
@@ -816,7 +816,7 @@
 | 806 | [whisper-money/whisper-money](./whisper-money-whisper-money.md) | ⭐ 1.2k | TypeScript | 52/100 |
 | 807 | [SasanLabs/VulnerableApp](./sasanlabs-vulnerableapp.md) | ⭐ 483 | Java | 52/100 |
 | 808 | [shellui-dev/shellui](./shellui-dev-shellui.md) | ⭐ 13 | C# | 52/100 |
-| 809 | [NGdev2/earful](./ngdev2-earful.md) | ⭐ 12 | JavaScript | 51/100 |
+| 809 | [NGdev2/earful](./ngdev2-earful.md) | ⭐ 14 | JavaScript | 51/100 |
 | 810 | [jnreis/briojs](./jnreis-briojs.md) | ⭐ 2 | JavaScript | 51/100 |
 | 811 | [jst-stack/jst](./jst-stack-jst.md) | ⭐ 3 | JavaScript | 51/100 |
 | 812 | [DeveloperPuneet/Devlogr](./developerpuneet-devlogr.md) | ⭐ — | JavaScript | 51/100 |
@@ -847,7 +847,7 @@
 | 837 | [vchelaru/Gum](./vchelaru-gum.md) | ⭐ 660 | C# | 50/100 |
 | 838 | [KittyCAD/modeling-app](./kittycad-modeling-app.md) | ⭐ 1.3k | TypeScript | 50/100 |
 | 839 | [sanidhyy/space-portfolio](./sanidhyy-space-portfolio.md) | ⭐ 548 | TypeScript | 50/100 |
-| 840 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 53 | TypeScript | 49/100 |
+| 840 | [Snorlark/plop-ui](./snorlark-plop-ui.md) | ⭐ 54 | TypeScript | 49/100 |
 | 841 | [ShazMoghaddam/bezel-charts](./shazmoghaddam-bezel-charts.md) | ⭐ 2 | JavaScript | 49/100 |
 | 842 | [MA-Ahmad/myPortfolio](./ma-ahmad-myportfolio.md) | ⭐ 240 | — | 49/100 |
 | 843 | [shane-jacobeen/schema3d](./shane-jacobeen-schema3d.md) | ⭐ 19 | TypeScript | 49/100 |
@@ -931,8 +931,8 @@
 | 921 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ 43 | — | 39/100 |
 | 922 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ 4 | — | 39/100 |
 | 923 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ 16 | — | 39/100 |
-| 924 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
-| 925 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
+| 924 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
+| 925 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
 | 926 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
 | 927 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ 11 | — | 39/100 |
 | 928 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |

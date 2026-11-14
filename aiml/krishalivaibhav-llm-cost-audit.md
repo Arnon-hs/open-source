@@ -1,6 +1,6 @@
 # krishalivaibhav/llm-cost-audit
 
-[![Stars](https://img.shields.io/github/stars/krishalivaibhav/llm-cost-audit?style=flat-square&color=yellow)](https://github.com/krishalivaibhav/llm-cost-audit/stargazers) [![Forks](https://img.shields.io/github/forks/krishalivaibhav/llm-cost-audit?style=flat-square&color=blue)](https://github.com/krishalivaibhav/llm-cost-audit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-57%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/krishalivaibhav/llm-cost-audit?style=flat-square&color=yellow)](https://github.com/krishalivaibhav/llm-cost-audit/stargazers) [![Forks](https://img.shields.io/github/forks/krishalivaibhav/llm-cost-audit?style=flat-square&color=blue)](https://github.com/krishalivaibhav/llm-cost-audit/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-54%2F100-brightgreen?style=flat-square)](#)
 
 > Read LLM call logs and report where the money goes, with explainable saving estimates.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 57/100 |
+| 📈 **Score** | 54/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -57,22 +57,22 @@ krishalivaibhav/llm-cost-audit：krishalivaibhav/llm-cost-audit helps add AI cap
 - primary language: Python
 - 7 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 78/100 |
-| production | 67/100 |
-| outlook | 62/100 |
+| production | 60/100 |
+| outlook | 55/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 300/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 88/100 |
 | sourceTrust | 70/100 |
 

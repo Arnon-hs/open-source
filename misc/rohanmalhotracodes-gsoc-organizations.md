@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 46 |
-| 🍴 **Forks** | 8 |
+| ⭐ **Stars** | 48 |
+| 🍴 **Forks** | 11 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 55/100 |
 | 🗓️ **Last push** | 2026-11-08 |
@@ -51,8 +51,8 @@ rohanmalhotracodes/GSoC-Organizations：rohanmalhotracodes/GSoC-Organizations ma
 
 **Quality signals**
 
-- 46 GitHub stars
-- 8 forks
+- 48 GitHub stars
+- 11 forks
 - updated 2026-11-08
 - primary language: TypeScript
 - 21 topics
@@ -64,14 +64,14 @@ rohanmalhotracodes/GSoC-Organizations：rohanmalhotracodes/GSoC-Organizations ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 60/100 |
+| quality | 61/100 |
 | integration | 62/100 |
 | production | 64/100 |
-| outlook | 61/100 |
-| adoption | 32/100 |
+| outlook | 62/100 |
+| adoption | 33/100 |
 | categoryMatchCount | 0/100 |
 | stars | 36/100 |
-| forks | 24/100 |
+| forks | 27/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

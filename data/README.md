@@ -279,7 +279,7 @@
 | 269 | [trinodb/trino](./trinodb-trino.md) | ⭐ 13.5k | Java | 54/100 |
 | 270 | [prestodb/presto](./prestodb-presto.md) | ⭐ 16.8k | Java | 54/100 |
 | 271 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 10 | PHP | 54/100 |
-| 272 | [tech-pw/cryo](./tech-pw-cryo.md) | ⭐ 11 | Python | 53/100 |
+| 272 | [tech-pw/cryo](./tech-pw-cryo.md) | ⭐ 12 | Python | 53/100 |
 | 273 | [ofrohn/d3-celestial](./ofrohn-d3-celestial.md) | ⭐ 760 | JavaScript | 53/100 |
 | 274 | [alexar76/signal-hunt](./alexar76-signal-hunt.md) | ⭐ — | Python | 53/100 |
 | 275 | [aptabase/tauri-plugin-aptabase](./aptabase-tauri-plugin-aptabase.md) | ⭐ 153 | Rust | 53/100 |

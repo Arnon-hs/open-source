@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 9 |
+| ⭐ **Stars** | 10 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
 | 📈 **Score** | 63/100 |
@@ -53,7 +53,7 @@ emirmrkaljevic/mesh2cad：emirmrkaljevic/mesh2cad helps connect AI assistants to
 
 **Quality signals**
 
-- 9 GitHub stars
+- 10 GitHub stars
 - updated 2026-11-09
 - primary language: Python
 - 12 topics
@@ -65,13 +65,13 @@ emirmrkaljevic/mesh2cad：emirmrkaljevic/mesh2cad helps connect AI assistants to
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 52/100 |
+| quality | 53/100 |
 | integration | 78/100 |
 | production | 63/100 |
 | outlook | 64/100 |
-| adoption | 15/100 |
+| adoption | 16/100 |
 | categoryMatchCount | 300/100 |
-| stars | 21/100 |
+| stars | 22/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

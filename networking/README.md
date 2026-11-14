@@ -301,7 +301,7 @@
 | 291 | [MizuchiLabs/mantrae](./mizuchilabs-mantrae.md) | ⭐ 493 | TypeScript | 59/100 |
 | 292 | [warmcat/libwebsockets](./warmcat-libwebsockets.md) | ⭐ 5.4k | C | 59/100 |
 | 293 | [dotnet/dev-proxy](./dotnet-dev-proxy.md) | ⭐ 846 | C# | 59/100 |
-| 294 | [AppsGanin/rospanel](./appsganin-rospanel.md) | ⭐ 34 | Go | 58/100 |
+| 294 | [AppsGanin/rospanel](./appsganin-rospanel.md) | ⭐ 36 | Go | 58/100 |
 | 295 | [shadow/shadow](./shadow-shadow.md) | ⭐ 1.7k | Rust | 58/100 |
 | 296 | [heiher/hev-socks5-tunnel](./heiher-hev-socks5-tunnel.md) | ⭐ 2.1k | C | 58/100 |
 | 297 | [lupinemachines/lupine](./lupinemachines-lupine.md) | ⭐ 2.5k | C++ | 58/100 |
@@ -369,7 +369,7 @@
 | 359 | [safedep/pmg](./safedep-pmg.md) | ⭐ 564 | Go | 56/100 |
 | 360 | [firezone/firezone](./firezone-firezone.md) | ⭐ 9.2k | Elixir | 56/100 |
 | 361 | [XTLS/libXray](./xtls-libxray.md) | ⭐ 236 | Go | 56/100 |
-| 362 | [glincker/levelrail](./glincker-levelrail.md) | ⭐ 207 | Go | 55/100 |
+| 362 | [glincker/levelrail](./glincker-levelrail.md) | ⭐ 209 | Go | 55/100 |
 | 363 | [OpenAyame/ayame](./openayame-ayame.md) | ⭐ 337 | Go | 55/100 |
 | 364 | [orbien-org/orbien](./orbien-org-orbien.md) | ⭐ 1.6k | Rust | 55/100 |
 | 365 | [ShadowWhisperer/BlockLists](./shadowwhisperer-blocklists.md) | ⭐ 463 | — | 55/100 |

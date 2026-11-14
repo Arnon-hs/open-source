@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 8 |
+| ⭐ **Stars** | 9 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Jupyter Notebook |
 | 📈 **Score** | 50/100 |
@@ -53,7 +53,7 @@ lucalullo/building-ai-agent：lucalullo/building-ai-agent helps add AI capabilit
 
 **Quality signals**
 
-- 8 GitHub stars
+- 9 GitHub stars
 - 1 forks
 - updated 2026-09-29
 - primary language: Jupyter Notebook
@@ -72,7 +72,7 @@ lucalullo/building-ai-agent：lucalullo/building-ai-agent helps add AI capabilit
 | outlook | 50/100 |
 | adoption | 17/100 |
 | categoryMatchCount | 100/100 |
-| stars | 20/100 |
+| stars | 21/100 |
 | forks | 8/100 |
 | recency | 40/100 |
 | topics | 100/100 |

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21 |
+| ⭐ **Stars** | 22 |
 | 🍴 **Forks** | 20 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 73/100 |
@@ -53,7 +53,7 @@ ragleap/ragleap-core：ragleap/ragleap-core helps connect AI assistants to real 
 
 **Quality signals**
 
-- 21 GitHub stars
+- 22 GitHub stars
 - 20 forks
 - updated 2026-11-12
 - primary language: Python
@@ -69,7 +69,7 @@ ragleap/ragleap-core：ragleap/ragleap-core helps connect AI assistants to real 
 | quality | 64/100 |
 | integration | 62/100 |
 | production | 70/100 |
-| outlook | 79/100 |
+| outlook | 80/100 |
 | adoption | 30/100 |
 | categoryMatchCount | 500/100 |
 | stars | 29/100 |
