@@ -2,7 +2,7 @@
 
 > iOS, Android, cross-platform apps
 
-**709 projects** in this category.
+**710 projects** in this category.
 
 ## Projects
 
@@ -279,8 +279,8 @@
 | 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 570 | — | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 633 | Python | 55/100 |
-| 272 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
-| 273 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
+| 272 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
+| 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
 | 274 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 500 | Kotlin | 55/100 |
 | 275 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 276 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 3.3k | Kotlin | 55/100 |
@@ -688,8 +688,8 @@
 | 678 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 679 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ 12 | — | 38/100 |
 | 680 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 681 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
-| 682 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
+| 681 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
+| 682 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
 | 683 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ 1 | — | 38/100 |
 | 684 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ 18 | — | 38/100 |
 | 685 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ 579 | — | 38/100 |
@@ -710,13 +710,14 @@
 | 700 | [parth-lightning/HacktoberFest-Week-2](./parth-lightning-hacktoberfest-week-2.md) | ⭐ — | Dart | 34/100 |
 | 701 | [arshbuilds/hf26week1](./arshbuilds-hf26week1.md) | ⭐ — | TypeScript | 34/100 |
 | 702 | [phphone/phphone](./phphone-phphone.md) | ⭐ 3 | Objective-C | 34/100 |
-| 703 | [muvatec/switch-phone-aa](./muvatec-switch-phone-aa.md) | ⭐ — | Kotlin | 33/100 |
-| 704 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ 1.2k | — | 32/100 |
-| 705 | [Divyansh0208/Tuft](./divyansh0208-tuft.md) | ⭐ — | HTML | 30/100 |
-| 706 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 30/100 |
-| 707 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
-| 708 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
-| 709 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 27/100 |
+| 703 | [AbdeldjalilChougui/dio_essentials](./abdeldjalilchougui-dio-essentials.md) | ⭐ — | Dart | 33/100 |
+| 704 | [muvatec/switch-phone-aa](./muvatec-switch-phone-aa.md) | ⭐ — | Kotlin | 33/100 |
+| 705 | [iknow4x/Android-Video-Trimmer](./iknow4x-android-video-trimmer.md) | ⭐ 1.2k | — | 32/100 |
+| 706 | [Divyansh0208/Tuft](./divyansh0208-tuft.md) | ⭐ — | HTML | 30/100 |
+| 707 | [Yasaswini-ch/Nimbus-Choir](./yasaswini-ch-nimbus-choir.md) | ⭐ — | JavaScript | 30/100 |
+| 708 | [Laskco/mpvNova](./laskco-mpvnova.md) | ⭐ — | — | 28/100 |
+| 709 | [jondot/awesome-react-native](./jondot-awesome-react-native.md) | ⭐ — | — | 28/100 |
+| 710 | [mrousavy/react-native-fast-tflite](./mrousavy-react-native-fast-tflite.md) | ⭐ — | — | 27/100 |
 
 ---
 

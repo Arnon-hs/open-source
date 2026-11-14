@@ -1,6 +1,6 @@
 # opsnode-infra/solana-buy-bot
 
-[![Stars](https://img.shields.io/github/stars/opsnode-infra/solana-buy-bot?style=flat-square&color=yellow)](https://github.com/opsnode-infra/solana-buy-bot/stargazers) [![Forks](https://img.shields.io/github/forks/opsnode-infra/solana-buy-bot?style=flat-square&color=blue)](https://github.com/opsnode-infra/solana-buy-bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opsnode-infra/solana-buy-bot?style=flat-square&color=yellow)](https://github.com/opsnode-infra/solana-buy-bot/stargazers) [![Forks](https://img.shields.io/github/forks/opsnode-infra/solana-buy-bot?style=flat-square&color=blue)](https://github.com/opsnode-infra/solana-buy-bot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
 
 > Free Solana buy bot for Telegram & Discord: every buy of your token with exact amounts, straight from the blockchain. Python, self-hosted. Full version with Guardian alerts at ship.opsnode.link
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 45/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ Crypto · Automation · Database · DevOps/Infra
 
 ### English
 
-opsnode-infra/solana-buy-bot: opsnode-infra/solana-buy-bot helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+opsnode-infra/solana-buy-bot: opsnode-infra/solana-buy-bot helps prototype or inspect blockchain workflows with open implementation details.. Use it for build Web3 workflows; inspect blockchain integrations. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-opsnode-infra/solana-buy-bot: open-source проект в категориях Crypto, Automation, Database, DevOps/Infra. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+opsnode-infra/solana-buy-bot: open-source проект в категориях Crypto, Automation, Database, DevOps/Infra. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-opsnode-infra/solana-buy-bot：opsnode-infra/solana-buy-bot helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+opsnode-infra/solana-buy-bot：opsnode-infra/solana-buy-bot helps prototype or inspect blockchain workflows with open implementation details.。适合用于build Web3 workflows、inspect blockchain integrations。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ opsnode-infra/solana-buy-bot：opsnode-infra/solana-buy-bot helps prototype or i
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -57,22 +57,22 @@ opsnode-infra/solana-buy-bot：opsnode-infra/solana-buy-bot helps prototype or i
 - primary language: Python
 - 24 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 45/100 |
+| quality | 41/100 |
 | integration | 46/100 |
-| production | 56/100 |
-| outlook | 57/100 |
+| production | 50/100 |
+| outlook | 50/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 400/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

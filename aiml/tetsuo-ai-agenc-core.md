@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 133 |
+| ⭐ **Stars** | 135 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 76/100 |
@@ -53,7 +53,7 @@ tetsuo-ai/agenc-core：tetsuo-ai/agenc-core helps add AI capability without star
 
 **Quality signals**
 
-- 133 GitHub stars
+- 135 GitHub stars
 - 18 forks
 - updated 2026-11-11
 - primary language: TypeScript

@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML
+DevTools
 
 ## 📝 Summary
 
 ### English
 
-saeedallam/agentquake: saeedallam/agentquake helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+saeedallam/agentquake: saeedallam/agentquake helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-saeedallam/agentquake: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+saeedallam/agentquake: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-saeedallam/agentquake：saeedallam/agentquake helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+saeedallam/agentquake：saeedallam/agentquake helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** saeedallam/agentquake helps add AI capability without starting from a blank model stack.
+**Value:** saeedallam/agentquake helps engineers save time in daily development and review loops.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,19 +65,19 @@ saeedallam/agentquake：saeedallam/agentquake helps add AI capability without st
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 58/100 |
-| quality | 43/100 |
-| integration | 46/100 |
-| production | 55/100 |
-| outlook | 55/100 |
-| adoption | 8/100 |
-| categoryMatchCount | 100/100 |
-| stars | 6/100 |
 | forks | 12/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 63/100 |
+| outlook | 55/100 |
+| quality | 43/100 |
+| recency | 80/100 |
+| adoption | 8/100 |
+| production | 55/100 |
+| usefulness | 58/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/saeedallam/agentquake) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/saeedallam/agentquake) · [← Back to DevTools](./README.md)</sub>
