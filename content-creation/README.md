@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [szczyglis-dev/py-gpt](./szczyglis-dev-py-gpt.md) | ⭐ 2k | Python | 84/100 |
-| 2 | [SamurAIGPT/Generative-Media-Skills](./samuraigpt-generative-media-skills.md) | ⭐ 39 | Shell | 84/100 |
+| 2 | [SamurAIGPT/Generative-Media-Skills](./samuraigpt-generative-media-skills.md) | ⭐ 42 | Shell | 84/100 |
 | 3 | [ma2za/python-substack](./ma2za-python-substack.md) | ⭐ 184 | Python | 83/100 |
 | 4 | [kodelyx/flow-agent](./kodelyx-flow-agent.md) | ⭐ 268 | Python | 82/100 |
 | 5 | [SamurAIGPT/muapi-cli](./samuraigpt-muapi-cli.md) | ⭐ 17 | Python | 82/100 |
@@ -161,8 +161,8 @@
 | 151 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 152 | [hci-yeo/AdaptiveAgentAvatar](./hci-yeo-adaptiveagentavatar.md) | ⭐ 4 | — | 44/100 |
 | 153 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 154 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 361 | — | 43/100 |
-| 155 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 154 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 155 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 361 | — | 43/100 |
 | 156 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 157 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 158 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |

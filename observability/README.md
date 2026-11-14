@@ -99,7 +99,7 @@
 | 89 | [dropwizard/metrics](./dropwizard-metrics.md) | ⭐ 7.8k | Java | 62/100 |
 | 90 | [SkyAPM/SkyAPM-dotnet](./skyapm-skyapm-dotnet.md) | ⭐ 1.7k | C# | 62/100 |
 | 91 | [Yeraze/meshmonitor](./yeraze-meshmonitor.md) | ⭐ 728 | TypeScript | 62/100 |
-| 92 | [pglombardo/PasswordPusher](./pglombardo-passwordpusher.md) | ⭐ 3.2k | Ruby | 62/100 |
+| 92 | [pglombardo/PasswordPusher](./pglombardo-passwordpusher.md) | ⭐ 3.3k | Ruby | 62/100 |
 | 93 | [winsiderss/systeminformer](./winsiderss-systeminformer.md) | ⭐ 16.5k | C | 62/100 |
 | 94 | [wazuh/wazuh-dashboard-plugins](./wazuh-wazuh-dashboard-plugins.md) | ⭐ 532 | TypeScript | 62/100 |
 | 95 | [daboss2003/mooring](./daboss2003-mooring.md) | ⭐ 1 | Go | 61/100 |

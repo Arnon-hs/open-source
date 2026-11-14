@@ -222,8 +222,8 @@
 | 212 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 360 | Java | 53/100 |
 | 213 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 581 | Nix | 53/100 |
 | 214 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 452 | TypeScript | 53/100 |
-| 215 | [0xdea/augur](./0xdea-augur.md) | ⭐ 124 | Rust | 53/100 |
-| 216 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
+| 215 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
+| 216 | [0xdea/augur](./0xdea-augur.md) | ⭐ 124 | Rust | 53/100 |
 | 217 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 218 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 597 | C | 53/100 |
 | 219 | [tkhq/qos](./tkhq-qos.md) | ⭐ 125 | Rust | 53/100 |
@@ -272,8 +272,8 @@
 | 262 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 263 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
 | 264 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 265 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
-| 266 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 265 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 266 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
 | 267 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 268 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 531 | JavaScript | 50/100 |
 | 269 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.2k | TypeScript | 50/100 |
@@ -362,7 +362,7 @@
 | 352 | [ashleyirispuppy143/poke](./ashleyirispuppy143-poke.md) | ⭐ 316 | EJS | 45/100 |
 | 353 | [haampie/tar-minefield](./haampie-tar-minefield.md) | ⭐ 33 | Python | 45/100 |
 | 354 | [i-am-jyotirmaya/haven-vault](./i-am-jyotirmaya-haven-vault.md) | ⭐ 1 | TypeScript | 45/100 |
-| 355 | [kncshw/cybergate](./kncshw-cybergate.md) | ⭐ 3 | — | 44/100 |
+| 355 | [kncshw/cybergate](./kncshw-cybergate.md) | ⭐ 9 | — | 44/100 |
 | 356 | [zortos293/Lichii](./zortos293-lichii.md) | ⭐ — | — | 44/100 |
 | 357 | [kraim0vv/patchlint](./kraim0vv-patchlint.md) | ⭐ 1 | Python | 44/100 |
 | 358 | [go-dev-auth/go-dev-auth](./go-dev-auth-go-dev-auth.md) | ⭐ 48 | — | 44/100 |
@@ -500,8 +500,8 @@
 | 490 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ 44 | — | 38/100 |
 | 491 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ 4 | — | 38/100 |
 | 492 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ 289 | — | 38/100 |
-| 493 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
-| 494 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
+| 493 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
+| 494 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
 | 495 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ 24 | — | 38/100 |
 | 496 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ 11 | — | 38/100 |
 | 497 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ 2 | — | 38/100 |

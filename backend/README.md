@@ -599,7 +599,7 @@
 | 589 | [apache/tomcat](./apache-tomcat.md) | ⭐ 8.3k | Java | 61/100 |
 | 590 | [arangodb/arangojs](./arangodb-arangojs.md) | ⭐ 609 | TypeScript | 61/100 |
 | 591 | [primer/octicons](./primer-octicons.md) | ⭐ 8.8k | JavaScript | 61/100 |
-| 592 | [ddev/ddev](./ddev-ddev.md) | ⭐ 3.9k | Go | 61/100 |
+| 592 | [ddev/ddev](./ddev-ddev.md) | ⭐ 4k | Go | 61/100 |
 | 593 | [ardatan/feTS](./ardatan-fets.md) | ⭐ 724 | TypeScript | 61/100 |
 | 594 | [LargeModGames/spotatui](./largemodgames-spotatui.md) | ⭐ 1.8k | Rust | 61/100 |
 | 595 | [flutter/flutter](./flutter-flutter.md) | ⭐ 181.3k | Dart | 61/100 |
@@ -720,8 +720,8 @@
 | 710 | [mtalavi/coolify-mirror](./mtalavi-coolify-mirror.md) | ⭐ 19 | Go | 57/100 |
 | 711 | [bklaric/purescript-bklaric](./bklaric-purescript-bklaric.md) | ⭐ 1 | — | 57/100 |
 | 712 | [bklaric/team-tavern](./bklaric-team-tavern.md) | ⭐ 13 | — | 57/100 |
-| 713 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 61 | JavaScript | 57/100 |
-| 714 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 72 | JavaScript | 57/100 |
+| 713 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 72 | JavaScript | 57/100 |
+| 714 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 61 | JavaScript | 57/100 |
 | 715 | [HFQR/xitca-web](./hfqr-xitca-web.md) | ⭐ 1k | Rust | 57/100 |
 | 716 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 455 | JavaScript | 57/100 |
 | 717 | [speed-highlight/core](./speed-highlight-core.md) | ⭐ 419 | JavaScript | 57/100 |
@@ -742,7 +742,7 @@
 | 732 | [wolfsoftwaresystemsltd/WolfScale](./wolfsoftwaresystemsltd-wolfscale.md) | ⭐ 159 | Rust | 57/100 |
 | 733 | [orhun/rustypaste](./orhun-rustypaste.md) | ⭐ 1.2k | Rust | 57/100 |
 | 734 | [payara/Payara](./payara-payara.md) | ⭐ 923 | Java | 57/100 |
-| 735 | [Difegue/LANraragi](./difegue-lanraragi.md) | ⭐ 3.1k | Perl | 57/100 |
+| 735 | [Difegue/LANraragi](./difegue-lanraragi.md) | ⭐ 3.2k | Perl | 57/100 |
 | 736 | [BeryJu/gravity](./beryju-gravity.md) | ⭐ 932 | Go | 57/100 |
 | 737 | [mozilla/addons-server](./mozilla-addons-server.md) | ⭐ 904 | Python | 57/100 |
 | 738 | [httptoolkit/httptoolkit-server](./httptoolkit-httptoolkit-server.md) | ⭐ 572 | JavaScript | 57/100 |
@@ -808,11 +808,11 @@
 | 798 | [sozercan/kaset](./sozercan-kaset.md) | ⭐ 2.6k | Swift | 55/100 |
 | 799 | [ClickHouse/clickhouse-js](./clickhouse-clickhouse-js.md) | ⭐ 332 | TypeScript | 55/100 |
 | 800 | [typegoose/typegoose](./typegoose-typegoose.md) | ⭐ 2.3k | TypeScript | 55/100 |
-| 801 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 403 | Python | 55/100 |
-| 802 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
+| 801 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
+| 802 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 403 | Python | 55/100 |
 | 803 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2.2k | JavaScript | 55/100 |
-| 804 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 11.1k | Rust | 55/100 |
-| 805 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 271 | — | 55/100 |
+| 804 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 271 | — | 55/100 |
+| 805 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 11.1k | Rust | 55/100 |
 | 806 | [Suwayomi/Suwayomi-Server](./suwayomi-suwayomi-server.md) | ⭐ 8.1k | Java | 55/100 |
 | 807 | [trailbaseio/trailbase](./trailbaseio-trailbase.md) | ⭐ 5.8k | Rust | 55/100 |
 | 808 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 55/100 |

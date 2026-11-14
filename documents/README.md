@@ -411,7 +411,7 @@
 | 401 | [JeffSteinbok/reMarkableSync](./jeffsteinbok-remarkablesync.md) | ⭐ 61 | Python | 52/100 |
 | 402 | [opendocument-app/OpenDocument.droid](./opendocument-app-opendocument.droid.md) | ⭐ 497 | HTML | 52/100 |
 | 403 | [kodama-community/kodama](./kodama-community-kodama.md) | ⭐ 228 | Rust | 52/100 |
-| 404 | [wdcpclover/ai4paper](./wdcpclover-ai4paper.md) | ⭐ 4.9k | HTML | 52/100 |
+| 404 | [wdcpclover/ai4paper](./wdcpclover-ai4paper.md) | ⭐ 5.1k | HTML | 52/100 |
 | 405 | [Ranrar/Marco](./ranrar-marco.md) | ⭐ 170 | Rust | 52/100 |
 | 406 | [pluk-inc/markdown-preview](./pluk-inc-markdown-preview.md) | ⭐ 2.8k | Swift | 52/100 |
 | 407 | [guilhermeprokisch/see](./guilhermeprokisch-see.md) | ⭐ 298 | Rust | 52/100 |
@@ -700,8 +700,8 @@
 | 690 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |
 | 691 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ 12 | — | 38/100 |
 | 692 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ 36 | — | 38/100 |
-| 693 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
-| 694 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 693 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 694 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
 | 695 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 120 | — | 38/100 |
 | 696 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 266 | — | 38/100 |
 | 697 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ 24 | — | 38/100 |
@@ -717,8 +717,8 @@
 | 707 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
 | 708 | [unprovable/PDFRecover](./unprovable-pdfrecover.md) | ⭐ 14 | — | 38/100 |
 | 709 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |
-| 710 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
-| 711 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 710 | [markmatsu/pdf-batch-translator](./markmatsu-pdf-batch-translator.md) | ⭐ 1 | — | 38/100 |
+| 711 | [sashamitrovich/milepost](./sashamitrovich-milepost.md) | ⭐ 6 | — | 38/100 |
 | 712 | [shashankbhat2/noteato](./shashankbhat2-noteato.md) | ⭐ 4 | — | 38/100 |
 | 713 | [grinev/boardown](./grinev-boardown.md) | ⭐ 46 | — | 38/100 |
 | 714 | [dsbitor/technotes-releases](./dsbitor-technotes-releases.md) | ⭐ 1 | — | 38/100 |

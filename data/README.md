@@ -48,7 +48,7 @@
 | 38 | [bokeh/bokeh](./bokeh-bokeh.md) | ⭐ 20.5k | Python | 67/100 |
 | 39 | [opengeos/leafmap](./opengeos-leafmap.md) | ⭐ 3.8k | Python | 67/100 |
 | 40 | [microsoft/Data-Science-For-Beginners](./microsoft-data-science-for-beginners.md) | ⭐ 38.1k | Jupyter Notebook | 67/100 |
-| 41 | [SQLMesh/sqlmesh](./sqlmesh-sqlmesh.md) | ⭐ 3.3k | Python | 67/100 |
+| 41 | [SQLMesh/sqlmesh](./sqlmesh-sqlmesh.md) | ⭐ 3.4k | Python | 67/100 |
 | 42 | [OpenRefine/OpenRefine](./openrefine-openrefine.md) | ⭐ 12.1k | Java | 67/100 |
 | 43 | [matomo-org/matomo](./matomo-org-matomo.md) | ⭐ 22k | PHP | 67/100 |
 | 44 | [ipython/ipython](./ipython-ipython.md) | ⭐ 16.8k | Python | 67/100 |

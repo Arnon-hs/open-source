@@ -133,7 +133,7 @@
 | 123 | [fastly/pushpin](./fastly-pushpin.md) | ⭐ 3.9k | Rust | 66/100 |
 | 124 | [zalando/skipper](./zalando-skipper.md) | ⭐ 3.3k | Go | 66/100 |
 | 125 | [syncthing/syncthing](./syncthing-syncthing.md) | ⭐ 90.4k | Go | 66/100 |
-| 126 | [wgtunnel/android](./wgtunnel-android.md) | ⭐ 3.3k | Kotlin | 66/100 |
+| 126 | [wgtunnel/android](./wgtunnel-android.md) | ⭐ 3.4k | Kotlin | 66/100 |
 | 127 | [fptn-project/fptn](./fptn-project-fptn.md) | ⭐ 836 | C++ | 66/100 |
 | 128 | [folbricht/routedns](./folbricht-routedns.md) | ⭐ 638 | Go | 66/100 |
 | 129 | [tailscale/tailscale](./tailscale-tailscale.md) | ⭐ 39.1k | Go | 66/100 |
@@ -483,7 +483,7 @@
 | 473 | [StanMarek/ghost-complete](./stanmarek-ghost-complete.md) | ⭐ 343 | Rust | 51/100 |
 | 474 | [httptoolkit/httptoolkit-ui](./httptoolkit-httptoolkit-ui.md) | ⭐ 383 | TypeScript | 51/100 |
 | 475 | [proxifly/free-proxy-list](./proxifly-free-proxy-list.md) | ⭐ 7k | — | 51/100 |
-| 476 | [ntex-rs/ntex](./ntex-rs-ntex.md) | ⭐ 2.5k | Rust | 51/100 |
+| 476 | [ntex-rs/ntex](./ntex-rs-ntex.md) | ⭐ 2.6k | Rust | 51/100 |
 | 477 | [EasyTier/EasyTier](./easytier-easytier.md) | ⭐ 14.7k | Rust | 51/100 |
 | 478 | [amnezia-vpn/amneziawg-android](./amnezia-vpn-amneziawg-android.md) | ⭐ 595 | Kotlin | 50/100 |
 | 479 | [manic-systems/ncro](./manic-systems-ncro.md) | ⭐ 158 | Rust | 50/100 |

@@ -1,6 +1,6 @@
 # aaronsuns/melarka
 
-[![Stars](https://img.shields.io/github/stars/aaronsuns/melarka?style=flat-square&color=yellow)](https://github.com/aaronsuns/melarka/stargazers) [![Forks](https://img.shields.io/github/forks/aaronsuns/melarka?style=flat-square&color=blue)](https://github.com/aaronsuns/melarka/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-56%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/aaronsuns/melarka?style=flat-square&color=yellow)](https://github.com/aaronsuns/melarka/stargazers) [![Forks](https://img.shields.io/github/forks/aaronsuns/melarka?style=flat-square&color=blue)](https://github.com/aaronsuns/melarka/network) [![Language](https://img.shields.io/badge/lang-Go-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Self-hosted music server for a family, with native iPhone and Android apps: songs from YouTube or your own files, synced lyrics, car autoplay, offline favorites
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 19 |
-| 🍴 **Forks** | — |
+| ⭐ **Stars** | 46 |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Go |
-| 📈 **Score** | 56/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,8 @@ aaronsuns/melarka：aaronsuns/melarka helps ship user-facing interfaces with les
 
 **Quality signals**
 
-- 19 GitHub stars
+- 46 GitHub stars
+- 1 forks
 - updated 2026-11-10
 - primary language: Go
 - 20 topics
@@ -65,14 +66,14 @@ aaronsuns/melarka：aaronsuns/melarka helps ship user-facing interfaces with les
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 54/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 62/100 |
-| outlook | 62/100 |
-| adoption | 20/100 |
+| production | 63/100 |
+| outlook | 64/100 |
+| adoption | 28/100 |
 | categoryMatchCount | 400/100 |
-| stars | 28/100 |
-| forks | 0/100 |
+| stars | 36/100 |
+| forks | 8/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

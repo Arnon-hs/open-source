@@ -17,7 +17,7 @@
 | 7 | [myrosama/DaemonClient](./myrosama-daemonclient.md) | ⭐ 8 | TypeScript | 79/100 |
 | 8 | [parse-community/parse-server](./parse-community-parse-server.md) | ⭐ 21.4k | JavaScript | 79/100 |
 | 9 | [Tencent/APIJSON](./tencent-apijson.md) | ⭐ 18.4k | Java | 78/100 |
-| 10 | [ministackorg/ministack](./ministackorg-ministack.md) | ⭐ 5.1k | Python | 78/100 |
+| 10 | [ministackorg/ministack](./ministackorg-ministack.md) | ⭐ 5.2k | Python | 78/100 |
 | 11 | [lithops-cloud/lithops](./lithops-cloud-lithops.md) | ⭐ 372 | Python | 78/100 |
 | 12 | [googleapis/google-cloud-python](./googleapis-google-cloud-python.md) | ⭐ 5.4k | Python | 78/100 |
 | 13 | [emissary-ingress/emissary](./emissary-ingress-emissary.md) | ⭐ 4.5k | Python | 77/100 |
@@ -342,8 +342,8 @@
 | 332 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 333 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 334 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
-| 336 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 336 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
 | 337 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 338 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 339 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -488,13 +488,13 @@
 | 478 | [akirarika/milkio](./akirarika-milkio.md) | ⭐ 405 | TypeScript | 52/100 |
 | 479 | [Azure/azure-service-operator](./azure-azure-service-operator.md) | ⭐ 918 | Go | 52/100 |
 | 480 | [wasmCloud/wasmCloud](./wasmcloud-wasmcloud.md) | ⭐ 2.5k | Rust | 52/100 |
-| 481 | [xingpingcn/enhanced-FaaS-in-China](./xingpingcn-enhanced-faas-in-china.md) | ⭐ 3.1k | Python | 52/100 |
+| 481 | [xingpingcn/enhanced-FaaS-in-China](./xingpingcn-enhanced-faas-in-china.md) | ⭐ 3.2k | Python | 52/100 |
 | 482 | [Azure/Azure-Sentinel](./azure-azure-sentinel.md) | ⭐ 6.3k | Python | 52/100 |
 | 483 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 448 | Go | 52/100 |
 | 484 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 485 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 488 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 62 | Python | 51/100 |
 | 489 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 490 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
@@ -512,8 +512,8 @@
 | 502 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 362 | Rust | 50/100 |
 | 503 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 138 | Rust | 50/100 |
 | 504 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 366 | Java | 50/100 |
-| 505 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
-| 506 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 505 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 506 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
 | 507 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1.1k | Go | 50/100 |
 | 508 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 758 | Rust | 50/100 |
 | 509 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 670 | Python | 50/100 |
