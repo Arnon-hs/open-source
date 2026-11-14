@@ -445,7 +445,7 @@
 | 435 | [r-dbi/RSQLite](./r-dbi-rsqlite.md) | ⭐ 341 | R | 42/100 |
 | 436 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 251 | Rust | 42/100 |
 | 437 | [geldata/gel](./geldata-gel.md) | ⭐ 14.2k | — | 41/100 |
-| 438 | [swiftstream/Duck](./swiftstream-duck.md) | ⭐ 1 | — | 41/100 |
+| 438 | [swiftstream/Duck](./swiftstream-duck.md) | ⭐ 25 | — | 41/100 |
 | 439 | [barddoo/tsfm-pg](./barddoo-tsfm-pg.md) | ⭐ 1 | — | 41/100 |
 | 440 | [joao00001/pg-regression-radar](./joao00001-pg-regression-radar.md) | ⭐ 14 | — | 41/100 |
 | 441 | [Pragadeesh-19/nodusdb](./pragadeesh-19-nodusdb.md) | ⭐ 1 | — | 41/100 |

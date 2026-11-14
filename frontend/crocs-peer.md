@@ -1,6 +1,6 @@
 # crocs/peer
 
-[![Stars](https://img.shields.io/github/stars/crocs/peer?style=flat-square&color=yellow)](https://github.com/crocs/peer/stargazers) [![Forks](https://img.shields.io/github/forks/crocs/peer?style=flat-square&color=blue)](https://github.com/crocs/peer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/crocs/peer?style=flat-square&color=yellow)](https://github.com/crocs/peer/stargazers) [![Forks](https://img.shields.io/github/forks/crocs/peer?style=flat-square&color=blue)](https://github.com/crocs/peer/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
 
 > See which companies track a page, inspect the matching filter, and block tracking requests in Chrome, Edge, Firefox and LibreWolf.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 44/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ crocs/peer：crocs/peer helps ship user-facing interfaces with less custom UI wo
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 51/100 |
+| quality | 45/100 |
 | integration | 46/100 |
-| production | 63/100 |
-| outlook | 60/100 |
+| production | 56/100 |
+| outlook | 53/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -17,7 +17,7 @@
 | 7 | [Satvik-jain/customer-intelligence-toolkit](./satvik-jain-customer-intelligence-toolkit.md) | ⭐ — | — | 45/100 |
 | 8 | [iamnotstatic/vibetime](./iamnotstatic-vibetime.md) | ⭐ 53 | — | 45/100 |
 | 9 | [agenttools/headroom](./agenttools-headroom.md) | ⭐ — | — | 45/100 |
-| 10 | [AdamTuraj/StudPrint](./adamturaj-studprint.md) | ⭐ 18 | — | 44/100 |
+| 10 | [AdamTuraj/StudPrint](./adamturaj-studprint.md) | ⭐ 23 | — | 44/100 |
 | 11 | [mcrbilly7/fba-triage-kit](./mcrbilly7-fba-triage-kit.md) | ⭐ — | Python | 42/100 |
 | 12 | [iampal/altar](./iampal-altar.md) | ⭐ — | — | 41/100 |
 | 13 | [saystreet/demo](./saystreet-demo.md) | ⭐ 1 | — | 41/100 |

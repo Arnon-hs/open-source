@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 6.9k |
-| 🍴 **Forks** | 859 |
+| ⭐ **Stars** | 7k |
+| 🍴 **Forks** | 866 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-11-07 |
@@ -53,8 +53,8 @@ Oldcircle/geo-sleuth：Oldcircle/geo-sleuth helps add AI capability without star
 
 **Quality signals**
 
-- 6920 GitHub stars
-- 859 forks
+- 6971 GitHub stars
+- 866 forks
 - updated 2026-11-07
 - primary language: Python
 - 19 topics

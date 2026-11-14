@@ -10,7 +10,7 @@
 |---|---|---|---|---|
 | 1 | [slackapi/bolt-python](./slackapi-bolt-python.md) | ⭐ 1.3k | Python | 85/100 |
 | 2 | [slackapi/node-slack-sdk](./slackapi-node-slack-sdk.md) | ⭐ 3.4k | TypeScript | 85/100 |
-| 3 | [TwiN/gatus](./twin-gatus.md) | ⭐ 12.7k | Go | 84/100 |
+| 3 | [TwiN/gatus](./twin-gatus.md) | ⭐ 12.8k | Go | 84/100 |
 | 4 | [TwiN/gatus](./twin-gatus.md) | ⭐ 11.9k | Go | 82/100 |
 | 5 | [ZL154/JellyfinSecurity](./zl154-jellyfinsecurity.md) | ⭐ 329 | C# | 78/100 |
 | 6 | [frappe/frappe](./frappe-frappe.md) | ⭐ 11.1k | Python | 78/100 |
@@ -272,7 +272,7 @@
 | 262 | [SlimeBoyOwO/LingChat](./slimeboyowo-lingchat.md) | ⭐ 2.5k | Rust | 51/100 |
 | 263 | [themadorg/madmail](./themadorg-madmail.md) | ⭐ 209 | Rust | 51/100 |
 | 264 | [versatica/mediasoup](./versatica-mediasoup.md) | ⭐ 7.4k | C++ | 51/100 |
-| 265 | [maillab/cloud-mail](./maillab-cloud-mail.md) | ⭐ 15.6k | JavaScript | 51/100 |
+| 265 | [maillab/cloud-mail](./maillab-cloud-mail.md) | ⭐ 15.7k | JavaScript | 51/100 |
 | 266 | [mpiorowski/late-sh](./mpiorowski-late-sh.md) | ⭐ 1.5k | Rust | 51/100 |
 | 267 | [thunderbird/thunderbird-android](./thunderbird-thunderbird-android.md) | ⭐ 14.2k | Kotlin | 51/100 |
 | 268 | [aeron-io/aeron](./aeron-io-aeron.md) | ⭐ 9k | Java | 51/100 |

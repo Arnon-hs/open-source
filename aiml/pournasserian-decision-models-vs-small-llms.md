@@ -63,18 +63,18 @@ pournasserian/decision-models-vs-small-llms：pournasserian/decision-models-vs-s
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 37/100 |
-| integration | 62/100 |
-| production | 51/100 |
-| outlook | 50/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 200/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| stars | 0/100 |
 | topics | 75/100 |
+| outlook | 50/100 |
+| quality | 37/100 |
+| recency | 60/100 |
+| adoption | 0/100 |
+| production | 51/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 200/100 |
 
 ---
 

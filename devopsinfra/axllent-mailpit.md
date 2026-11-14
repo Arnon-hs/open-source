@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 10.9k |
-| 🍴 **Forks** | 378 |
+| 🍴 **Forks** | 380 |
 | 💻 **Language** | Go |
 | 📈 **Score** | 82/100 |
 | 🗓️ **Last push** | 2026-11-09 |
@@ -53,8 +53,8 @@ axllent/mailpit：axllent/mailpit helps make deployment and operations more repe
 
 **Quality signals**
 
-- 10921 GitHub stars
-- 378 forks
+- 10927 GitHub stars
+- 380 forks
 - updated 2026-11-09
 - primary language: Go
 - 12 topics
@@ -73,7 +73,7 @@ axllent/mailpit：axllent/mailpit helps make deployment and operations more repe
 | adoption | 80/100 |
 | categoryMatchCount | 200/100 |
 | stars | 86/100 |
-| forks | 64/100 |
+| forks | 65/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

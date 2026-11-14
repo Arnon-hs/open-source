@@ -22,7 +22,7 @@
 | 12 | [adonisjs/core](./adonisjs-core.md) | ⭐ 19.2k | TypeScript | 82/100 |
 | 13 | [tsedio/tsed](./tsedio-tsed.md) | ⭐ 3.1k | TypeScript | 82/100 |
 | 14 | [LonamiWebs/Telethon](./lonamiwebs-telethon.md) | ⭐ 12.1k | Python | 81/100 |
-| 15 | [bluewave-labs/Checkmate](./bluewave-labs-checkmate.md) | ⭐ 11k | TypeScript | 81/100 |
+| 15 | [bluewave-labs/Checkmate](./bluewave-labs-checkmate.md) | ⭐ 11.1k | TypeScript | 81/100 |
 | 16 | [actionhero/actionhero](./actionhero-actionhero.md) | ⭐ 2.4k | TypeScript | 81/100 |
 | 17 | [SteamClientHomebrew/Millennium](./steamclienthomebrew-millennium.md) | ⭐ 4.6k | C++ | 81/100 |
 | 18 | [googleapis/google-api-nodejs-client](./googleapis-google-api-nodejs-client.md) | ⭐ 12.3k | TypeScript | 80/100 |
@@ -368,7 +368,7 @@
 | 358 | [ory/talos](./ory-talos.md) | ⭐ 203 | Go | 66/100 |
 | 359 | [snarfed/granary](./snarfed-granary.md) | ⭐ 516 | Python | 66/100 |
 | 360 | [owncloud/ocis](./owncloud-ocis.md) | ⭐ 2.2k | Go | 66/100 |
-| 361 | [owncloud/core](./owncloud-core.md) | ⭐ 8.8k | PHP | 66/100 |
+| 361 | [owncloud/core](./owncloud-core.md) | ⭐ 8.9k | PHP | 66/100 |
 | 362 | [mrcjkb/rustaceanvim](./mrcjkb-rustaceanvim.md) | ⭐ 3.2k | Lua | 66/100 |
 | 363 | [sublimelsp/LSP](./sublimelsp-lsp.md) | ⭐ 1.8k | Python | 66/100 |
 | 364 | [ionos-cloud/cluster-api-provider-proxmox](./ionos-cloud-cluster-api-provider-proxmox.md) | ⭐ 499 | Go | 66/100 |
@@ -576,8 +576,8 @@
 | 566 | [GSManagerXZ/GameServerManager](./gsmanagerxz-gameservermanager.md) | ⭐ 1.1k | TypeScript | 61/100 |
 | 567 | [vehagn/homelab](./vehagn-homelab.md) | ⭐ 403 | HCL | 61/100 |
 | 568 | [mesamirh/MovieBox-Tui](./mesamirh-moviebox-tui.md) | ⭐ 2.8k | Rust | 61/100 |
-| 569 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
-| 570 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
+| 569 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
+| 570 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
 | 571 | [simonepri/sympact](./simonepri-sympact.md) | ⭐ 441 | JavaScript | 61/100 |
 | 572 | [chung-leong/zigar](./chung-leong-zigar.md) | ⭐ 443 | Zig | 61/100 |
 | 573 | [rejetto/hfs](./rejetto-hfs.md) | ⭐ 4k | TypeScript | 61/100 |
@@ -772,8 +772,8 @@
 | 762 | [inducer/relate](./inducer-relate.md) | ⭐ 438 | Python | 56/100 |
 | 763 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 489 | Go | 56/100 |
 | 764 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 193 | TypeScript | 56/100 |
-| 765 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 431 | Java | 56/100 |
-| 766 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 765 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
+| 766 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 431 | Java | 56/100 |
 | 767 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 705 | Rust | 56/100 |
 | 768 | [nodejs/undici](./nodejs-undici.md) | ⭐ 7.7k | JavaScript | 56/100 |
 | 769 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 357 | Go | 56/100 |
@@ -811,8 +811,8 @@
 | 801 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 403 | Python | 55/100 |
 | 802 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
 | 803 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2.2k | JavaScript | 55/100 |
-| 804 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 271 | — | 55/100 |
-| 805 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 11.1k | Rust | 55/100 |
+| 804 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 11.1k | Rust | 55/100 |
+| 805 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 271 | — | 55/100 |
 | 806 | [Suwayomi/Suwayomi-Server](./suwayomi-suwayomi-server.md) | ⭐ 8.1k | Java | 55/100 |
 | 807 | [trailbaseio/trailbase](./trailbaseio-trailbase.md) | ⭐ 5.8k | Rust | 55/100 |
 | 808 | [kawamataryo/suppress-ts-errors](./kawamataryo-suppress-ts-errors.md) | ⭐ 157 | TypeScript | 55/100 |
@@ -999,7 +999,7 @@
 | 989 | [kawamurashingo/HTTP-API-Core](./kawamurashingo-http-api-core.md) | ⭐ 1 | Perl | 44/100 |
 | 990 | [NOTAM-bobk/base31](./notam-bobk-base31.md) | ⭐ 1 | HTML | 43/100 |
 | 991 | [MR-RAHAD/rahad-all-downloader-v2](./mr-rahad-rahad-all-downloader-v2.md) | ⭐ 1 | JavaScript | 42/100 |
-| 992 | [KeremSoke/polo](./keremsoke-polo.md) | ⭐ 19 | — | 41/100 |
+| 992 | [KeremSoke/polo](./keremsoke-polo.md) | ⭐ 34 | — | 41/100 |
 | 993 | [bavanDA/hpc-hub](./bavanda-hpc-hub.md) | ⭐ 42 | — | 41/100 |
 | 994 | [pharma2a/pharma2a](./pharma2a-pharma2a.md) | ⭐ 13 | — | 41/100 |
 | 995 | [DaleFranks/ramasite](./dalefranks-ramasite.md) | ⭐ 6 | — | 41/100 |

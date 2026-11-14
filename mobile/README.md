@@ -102,7 +102,7 @@
 | 92 | [axiel7/AniHyou-android](./axiel7-anihyou-android.md) | ⭐ 635 | Kotlin | 61/100 |
 | 93 | [maxrave-dev/SimpMusic](./maxrave-dev-simpmusic.md) | ⭐ 13.3k | Kotlin | 61/100 |
 | 94 | [Provenance-Emu/Provenance](./provenance-emu-provenance.md) | ⭐ 6.4k | C | 61/100 |
-| 95 | [Universal-Debloater-Alliance/universal-android-debloater-next-generation](./universal-debloater-alliance-universal-android-debloater-next-generation.md) | ⭐ 10k | Rust | 61/100 |
+| 95 | [Universal-Debloater-Alliance/universal-android-debloater-next-generation](./universal-debloater-alliance-universal-android-debloater-next-generation.md) | ⭐ 10.1k | Rust | 61/100 |
 | 96 | [rust-windowing/winit](./rust-windowing-winit.md) | ⭐ 6.3k | Rust | 61/100 |
 | 97 | [invertase/melos](./invertase-melos.md) | ⭐ 1.5k | Dart | 61/100 |
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.5k | Kotlin | 61/100 |
@@ -145,10 +145,10 @@
 | 135 | [xlucn/oh-my-foss-android](./xlucn-oh-my-foss-android.md) | ⭐ 5.2k | — | 59/100 |
 | 136 | [HabitRPG/habitica-android](./habitrpg-habitica-android.md) | ⭐ 1.8k | Kotlin | 59/100 |
 | 137 | [fluttercommunity/chewie](./fluttercommunity-chewie.md) | ⭐ 2.1k | Dart | 59/100 |
-| 138 | [palera1n/palera1n](./palera1n-palera1n.md) | ⭐ 6.6k | C | 59/100 |
+| 138 | [palera1n/palera1n](./palera1n-palera1n.md) | ⭐ 6.7k | C | 59/100 |
 | 139 | [kodjodevf/mangayomi](./kodjodevf-mangayomi.md) | ⭐ 4.5k | Dart | 59/100 |
 | 140 | [authpass/authpass](./authpass-authpass.md) | ⭐ 2.8k | Dart | 59/100 |
-| 141 | [MorpheApp/morphe-manager](./morpheapp-morphe-manager.md) | ⭐ 10.3k | Kotlin | 59/100 |
+| 141 | [MorpheApp/morphe-manager](./morpheapp-morphe-manager.md) | ⭐ 10.4k | Kotlin | 59/100 |
 | 142 | [SwiftOldDriver/iOS-Weekly](./swiftolddriver-ios-weekly.md) | ⭐ 5k | JavaScript | 59/100 |
 | 143 | [moneymanagerex/android-money-manager-ex](./moneymanagerex-android-money-manager-ex.md) | ⭐ 725 | Java | 59/100 |
 | 144 | [owncloud/android](./owncloud-android.md) | ⭐ 4.2k | Kotlin | 59/100 |
@@ -275,8 +275,8 @@
 | 265 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 266 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 267 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 268 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
-| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 268 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 633 | Python | 55/100 |
 | 272 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
