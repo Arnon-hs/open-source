@@ -9,7 +9,7 @@
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
 | 1 | [kajisho5/ffmpeg-skill](./kajisho5-ffmpeg-skill.md) | ⭐ 5.4k | Python | 89/100 |
-| 2 | [nexu-io/openmotion](./nexu-io-openmotion.md) | ⭐ 9.8k | TypeScript | 87/100 |
+| 2 | [nexu-io/openmotion](./nexu-io-openmotion.md) | ⭐ 9.9k | TypeScript | 87/100 |
 | 3 | [OpenMontageInc/OpenMontage](./openmontageinc-openmontage.md) | ⭐ 80.3k | Python | 87/100 |
 | 4 | [modelscope/FunASR](./modelscope-funasr.md) | ⭐ 21k | Python | 86/100 |
 | 5 | [jdepoix/youtube-transcript-api](./jdepoix-youtube-transcript-api.md) | ⭐ 8.6k | Python | 86/100 |
@@ -191,7 +191,7 @@
 | 181 | [LockTheDuel/Adobe-Video-Toolkit-rpocket](./locktheduel-adobe-video-toolkit-rpocket.md) | ⭐ 40 | HTML | 67/100 |
 | 182 | [FateShadowfelltrack/Adobe-Video-Toolkit-rpocket](./fateshadowfelltrack-adobe-video-toolkit-rpocket.md) | ⭐ 19 | HTML | 67/100 |
 | 183 | [TurboAuroracomet51520/Adobe-Video-Toolkit-rpocket](./turboauroracomet51520-adobe-video-toolkit-rpocket.md) | ⭐ 21 | HTML | 67/100 |
-| 184 | [gmpetrov/agent-screenplay](./gmpetrov-agent-screenplay.md) | ⭐ 114 | TypeScript | 67/100 |
+| 184 | [gmpetrov/agent-screenplay](./gmpetrov-agent-screenplay.md) | ⭐ 116 | TypeScript | 67/100 |
 | 185 | [Yorghostwing/Adobe-Video-Toolkit-rpocket](./yorghostwing-adobe-video-toolkit-rpocket.md) | ⭐ 20 | HTML | 67/100 |
 | 186 | [sirioberati/YouTube-AI-Motion-Graphics](./sirioberati-youtube-ai-motion-graphics.md) | ⭐ 202 | HTML | 67/100 |
 | 187 | [derek-zhuolin/motion-skill](./derek-zhuolin-motion-skill.md) | ⭐ 128 | TypeScript | 67/100 |
@@ -577,8 +577,8 @@
 | 567 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 18 | — | 48/100 |
 | 568 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 569 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 3 | Python | 48/100 |
-| 570 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
-| 571 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
+| 570 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
+| 571 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
 | 572 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 573 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 34 | — | 48/100 |
 | 574 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ 22 | — | 48/100 |
@@ -590,7 +590,7 @@
 | 580 | [benwbrum/fromthepage](./benwbrum-fromthepage.md) | ⭐ 187 | Ruby | 48/100 |
 | 581 | [prometheus-maker/corpusdiff](./prometheus-maker-corpusdiff.md) | ⭐ — | Python | 47/100 |
 | 582 | [omanshchoudhary/briareus](./omanshchoudhary-briareus.md) | ⭐ 5 | — | 47/100 |
-| 583 | [sunerpy/voltip](./sunerpy-voltip.md) | ⭐ 105 | Rust | 47/100 |
+| 583 | [sunerpy/voltip](./sunerpy-voltip.md) | ⭐ 106 | Rust | 47/100 |
 | 584 | [nirmaljosephukken/pylon-player](./nirmaljosephukken-pylon-player.md) | ⭐ 66 | Python | 47/100 |
 | 585 | [Augani/openreel-video](./augani-openreel-video.md) | ⭐ 5.7k | TypeScript | 47/100 |
 | 586 | [manish7017/Whisper-FFmpeg-Transcriber-](./manish7017-whisper-ffmpeg-transcriber-.md) | ⭐ — | Python | 46/100 |
@@ -635,7 +635,7 @@
 | 625 | [effessdev/GiffyPy](./effessdev-giffypy.md) | ⭐ 5 | Python | 41/100 |
 | 626 | [ranahaani/i-hate-editing](./ranahaani-i-hate-editing.md) | ⭐ 107 | — | 41/100 |
 | 627 | [soirihiroka/shrimply](./soirihiroka-shrimply.md) | ⭐ 1.2k | — | 41/100 |
-| 628 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ 524 | — | 41/100 |
+| 628 | [AARomanov1985/Audio-Cassette-Simulation](./aaromanov1985-audio-cassette-simulation.md) | ⭐ 525 | — | 41/100 |
 | 629 | [Vanilagy/turbores](./vanilagy-turbores.md) | ⭐ 213 | — | 41/100 |
 | 630 | [lethanhvietctt5/lightshot](./lethanhvietctt5-lightshot.md) | ⭐ 1 | Swift | 40/100 |
 | 631 | [krgpi/fennec](./krgpi-fennec.md) | ⭐ 1 | Rust | 40/100 |

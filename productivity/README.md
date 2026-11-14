@@ -383,9 +383,9 @@
 | 373 | [herbertyeung/SingLilt](./herbertyeung-singlilt.md) | ⭐ — | C++ | 36/100 |
 | 374 | [balaianu/git-persona](./balaianu-git-persona.md) | ⭐ 1 | — | 36/100 |
 | 375 | [METR/Measuring-Late-2025-AI-on-OSS-Devs](./metr-measuring-late-2025-ai-on-oss-devs.md) | ⭐ 10 | — | 36/100 |
-| 376 | [Nebula-03/research-helper-pup](./nebula-03-research-helper-pup.md) | ⭐ — | TypeScript | 36/100 |
-| 377 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 41 | C | 34/100 |
-| 378 | [sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass](./sunbal822-pip-the-desktop-penguin-that-makes-you-touch-grass.md) | ⭐ — | Python | 34/100 |
+| 376 | [r4dius/AutoPuTTY](./r4dius-autoputty.md) | ⭐ 41 | C | 34/100 |
+| 377 | [sunbal822/PIP-the-desktop-penguin-that-makes-you-touch-grass](./sunbal822-pip-the-desktop-penguin-that-makes-you-touch-grass.md) | ⭐ — | Python | 34/100 |
+| 378 | [Nebula-03/research-helper-pup](./nebula-03-research-helper-pup.md) | ⭐ — | TypeScript | 33/100 |
 | 379 | [qife422/chief-of-staff](./qife422-chief-of-staff.md) | ⭐ — | HTML | 32/100 |
 | 380 | [torrua/LOD_manager](./torrua-lod-manager.md) | ⭐ — | Rust | 32/100 |
 | 381 | [KrishnaGaur12/HFDEV1](./krishnagaur12-hfdev1.md) | ⭐ — | JavaScript | 31/100 |

@@ -60,7 +60,7 @@
 | 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 657 | TypeScript | 57/100 |
 | 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.3k | C++ | 57/100 |
 | 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 720 | Python | 57/100 |
-| 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 18 | JavaScript | 57/100 |
+| 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 19 | JavaScript | 57/100 |
 | 54 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 354 | Lua | 56/100 |
 | 55 | [OpenOLAT/OpenOLAT](./openolat-openolat.md) | ⭐ 451 | Java | 56/100 |
 | 56 | [uswds/uswds-site](./uswds-uswds-site.md) | ⭐ 253 | HTML | 56/100 |

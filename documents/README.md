@@ -431,8 +431,8 @@
 | 421 | [ttu-ttu/ebook-reader](./ttu-ttu-ebook-reader.md) | ⭐ 1.1k | Svelte | 51/100 |
 | 422 | [spawnia/md-to-pdf](./spawnia-md-to-pdf.md) | ⭐ 171 | Rust | 51/100 |
 | 423 | [messense/mupdf-rs](./messense-mupdf-rs.md) | ⭐ 215 | Rust | 51/100 |
-| 424 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 183 | Rust | 51/100 |
-| 425 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
+| 424 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
+| 425 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 183 | Rust | 51/100 |
 | 426 | [CultivateLabs/storytime](./cultivatelabs-storytime.md) | ⭐ 743 | Ruby | 51/100 |
 | 427 | [clerkma/ptex-ng](./clerkma-ptex-ng.md) | ⭐ 307 | C | 51/100 |
 | 428 | [3xxx/engineercms](./3xxx-engineercms.md) | ⭐ 1.4k | Go | 51/100 |
@@ -508,8 +508,8 @@
 | 498 | [cfug/flutter.cn](./cfug-flutter.cn.md) | ⭐ 568 | Dart | 47/100 |
 | 499 | [qpdf/qpdf](./qpdf-qpdf.md) | ⭐ 5.6k | C++ | 47/100 |
 | 500 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
-| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
-| 502 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
+| 501 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
+| 502 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
 | 503 | [waka/sghtmltopdf](./waka-sghtmltopdf.md) | ⭐ 381 | Rust | 46/100 |
 | 504 | [Sigil-Ebook/Sigil](./sigil-ebook-sigil.md) | ⭐ 7.1k | C++ | 46/100 |
 | 505 | [fiduswriter/fiduswriter](./fiduswriter-fiduswriter.md) | ⭐ 570 | JavaScript | 46/100 |
@@ -700,8 +700,8 @@
 | 690 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |
 | 691 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ 12 | — | 38/100 |
 | 692 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ 36 | — | 38/100 |
-| 693 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
-| 694 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 693 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 694 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
 | 695 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 120 | — | 38/100 |
 | 696 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 266 | — | 38/100 |
 | 697 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ 24 | — | 38/100 |

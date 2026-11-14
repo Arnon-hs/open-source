@@ -1,6 +1,6 @@
 # live-miracles/folder-player
 
-[![Stars](https://img.shields.io/github/stars/live-miracles/folder-player?style=flat-square&color=yellow)](https://github.com/live-miracles/folder-player/stargazers) [![Forks](https://img.shields.io/github/forks/live-miracles/folder-player?style=flat-square&color=blue)](https://github.com/live-miracles/folder-player/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/live-miracles/folder-player?style=flat-square&color=yellow)](https://github.com/live-miracles/folder-player/stargazers) [![Forks](https://img.shields.io/github/forks/live-miracles/folder-player?style=flat-square&color=blue)](https://github.com/live-miracles/folder-player/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > Turn a folder of numbered media files into a ready-to-open vMix preset.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 48/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-13 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ live-miracles/folder-player：live-miracles/folder-player helps remove repetitiv
 
 **Quality signals**
 
-- 1 GitHub stars
+- 2 GitHub stars
 - updated 2026-11-13
 - primary language: TypeScript
 - 11 topics
@@ -65,13 +65,13 @@ live-miracles/folder-player：live-miracles/folder-player helps remove repetitiv
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 54/100 |
 | integration | 46/100 |
 | production | 64/100 |
 | outlook | 62/100 |
-| adoption | 5/100 |
+| adoption | 7/100 |
 | categoryMatchCount | 100/100 |
-| stars | 6/100 |
+| stars | 10/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |

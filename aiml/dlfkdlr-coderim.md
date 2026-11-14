@@ -1,6 +1,6 @@
 # dlfkdLR/CodeRim
 
-[![Stars](https://img.shields.io/github/stars/dlfkdLR/CodeRim?style=flat-square&color=yellow)](https://github.com/dlfkdLR/CodeRim/stargazers) [![Forks](https://img.shields.io/github/forks/dlfkdLR/CodeRim?style=flat-square&color=blue)](https://github.com/dlfkdLR/CodeRim/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/dlfkdLR/CodeRim?style=flat-square&color=yellow)](https://github.com/dlfkdLR/CodeRim/stargazers) [![Forks](https://img.shields.io/github/forks/dlfkdLR/CodeRim?style=flat-square&color=blue)](https://github.com/dlfkdLR/CodeRim/network) [![Language](https://img.shields.io/badge/lang-C%23-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-59%2F100-brightgreen?style=flat-square)](#)
 
 > CodeRim: coding-assistant usage limits, local token history, CLI and native macOS widgets
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 5 |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | C# |
-| 📈 **Score** | 58/100 |
+| 📈 **Score** | 59/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ dlfkdLR/CodeRim：dlfkdLR/CodeRim helps add AI capability without starting from 
 
 **Quality signals**
 
-- 5 GitHub stars
+- 6 GitHub stars
 - updated 2026-11-09
 - primary language: C#
 - 6 topics
@@ -65,13 +65,13 @@ dlfkdLR/CodeRim：dlfkdLR/CodeRim helps add AI capability without starting from 
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 47/100 |
+| quality | 48/100 |
 | integration | 46/100 |
 | production | 57/100 |
-| outlook | 63/100 |
-| adoption | 12/100 |
+| outlook | 64/100 |
+| adoption | 13/100 |
 | categoryMatchCount | 200/100 |
-| stars | 17/100 |
+| stars | 18/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 75/100 |

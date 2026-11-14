@@ -273,7 +273,7 @@
 | 263 | [MobilityDB/MobilityDB](./mobilitydb-mobilitydb.md) | ⭐ 635 | C | 53/100 |
 | 264 | [open-wanderer/wanderer](./open-wanderer-wanderer.md) | ⭐ 4.1k | Svelte | 53/100 |
 | 265 | [sqldef/sqldef](./sqldef-sqldef.md) | ⭐ 3.2k | Go | 53/100 |
-| 266 | [OneClickDBA/harry-performance-scraper](./oneclickdba-harry-performance-scraper.md) | ⭐ 5 | Go | 52/100 |
+| 266 | [OneClickDBA/harry-performance-scraper](./oneclickdba-harry-performance-scraper.md) | ⭐ 6 | Go | 52/100 |
 | 267 | [drk1rd/wharf](./drk1rd-wharf.md) | ⭐ 4 | — | 52/100 |
 | 268 | [lunar-landing/rudis](./lunar-landing-rudis.md) | ⭐ 434 | Rust | 52/100 |
 | 269 | [fcoury/tsql](./fcoury-tsql.md) | ⭐ 468 | Rust | 52/100 |
