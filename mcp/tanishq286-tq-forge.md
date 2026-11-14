@@ -1,6 +1,6 @@
 # tanishq286/tq-forge
 
-[![Stars](https://img.shields.io/github/stars/tanishq286/tq-forge?style=flat-square&color=yellow)](https://github.com/tanishq286/tq-forge/stargazers) [![Forks](https://img.shields.io/github/forks/tanishq286/tq-forge?style=flat-square&color=blue)](https://github.com/tanishq286/tq-forge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-70%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tanishq286/tq-forge?style=flat-square&color=yellow)](https://github.com/tanishq286/tq-forge/stargazers) [![Forks](https://img.shields.io/github/forks/tanishq286/tq-forge?style=flat-square&color=blue)](https://github.com/tanishq286/tq-forge/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-72%2F100-brightgreen?style=flat-square)](#)
 
 > 🔨 Autonomous skill + agent factory for Claude Code — forge, score, and promote slash-command skills and agents from a one-line intent.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1 |
+| ⭐ **Stars** | 6 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 70/100 |
+| 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-11-13 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ tanishq286/tq-forge：tanishq286/tq-forge helps connect AI assistants to real to
 
 **Quality signals**
 
-- 1 GitHub stars
+- 6 GitHub stars
 - updated 2026-11-13
 - primary language: Python
 - 14 topics
@@ -65,13 +65,13 @@ tanishq286/tq-forge：tanishq286/tq-forge helps connect AI assistants to real to
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 53/100 |
+| quality | 56/100 |
 | integration | 78/100 |
-| production | 68/100 |
-| outlook | 73/100 |
-| adoption | 5/100 |
+| production | 69/100 |
+| outlook | 75/100 |
+| adoption | 13/100 |
 | categoryMatchCount | 400/100 |
-| stars | 6/100 |
+| stars | 18/100 |
 | forks | 0/100 |
 | recency | 100/100 |
 | topics | 100/100 |

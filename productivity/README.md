@@ -314,8 +314,8 @@
 | 304 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 305 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 306 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 307 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
-| 308 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 307 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 308 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
 | 309 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 310 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 311 | [ankurk91/rollcopy-desktop-app](./ankurk91-rollcopy-desktop-app.md) | ⭐ — | Rust | 43/100 |
@@ -330,8 +330,8 @@
 | 320 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ 2 | — | 41/100 |
 | 321 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 322 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ 6 | — | 41/100 |
-| 323 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
-| 324 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 21 | — | 41/100 |
+| 323 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 21 | — | 41/100 |
+| 324 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
 | 325 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 2 | — | 41/100 |
 | 326 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 327 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 3 | — | 41/100 |

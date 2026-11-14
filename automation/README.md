@@ -747,8 +747,8 @@
 | 737 | [umputun/ralphex](./umputun-ralphex.md) | ⭐ 1.5k | Go | 63/100 |
 | 738 | [joyfullservice/msaccess-vcs-addin](./joyfullservice-msaccess-vcs-addin.md) | ⭐ 381 | VBA | 63/100 |
 | 739 | [Bogdanp/dramatiq](./bogdanp-dramatiq.md) | ⭐ 5.3k | Python | 63/100 |
-| 740 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 112 | HTML | 63/100 |
-| 741 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 147 | Rust | 63/100 |
+| 740 | [JungHoonGhae/openkakao-cli](./junghoonghae-openkakao-cli.md) | ⭐ 147 | Rust | 63/100 |
+| 741 | [torappinfo/uweb](./torappinfo-uweb.md) | ⭐ 112 | HTML | 63/100 |
 | 742 | [rtic-rs/rtic](./rtic-rs-rtic.md) | ⭐ 2.4k | Rust | 63/100 |
 | 743 | [kafein-technology/KAI-Flow](./kafein-technology-kai-flow.md) | ⭐ 58 | Python | 63/100 |
 | 744 | [hustcer/deepseek-review](./hustcer-deepseek-review.md) | ⭐ 396 | Nushell | 63/100 |
@@ -832,8 +832,8 @@
 | 822 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.9k | Go | 62/100 |
 | 823 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 62 | Rust | 62/100 |
 | 824 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.4k | Rust | 62/100 |
-| 825 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 89 | Rust | 62/100 |
-| 826 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 258 | TypeScript | 62/100 |
+| 825 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 258 | TypeScript | 62/100 |
+| 826 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 89 | Rust | 62/100 |
 | 827 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 119 | Shell | 62/100 |
 | 828 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 616 | Python | 62/100 |
 | 829 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 138 | TypeScript | 62/100 |
@@ -1643,8 +1643,8 @@
 | 1633 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ 8 | — | 38/100 |
 | 1634 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 38/100 |
 | 1635 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 38/100 |
-| 1636 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ 4 | — | 38/100 |
-| 1637 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1636 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
+| 1637 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ 4 | — | 38/100 |
 | 1638 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ 7 | — | 38/100 |
 | 1639 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ 3 | — | 38/100 |
 | 1640 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ 3 | — | 38/100 |
@@ -1707,8 +1707,8 @@
 | 1697 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 32/100 |
 | 1698 | [RazorBlade74/Michaele-tutoring-books](./razorblade74-michaele-tutoring-books.md) | ⭐ — | JavaScript | 31/100 |
 | 1699 | [muhammad-zulqarnain-awan/n8n-on-vercel](./muhammad-zulqarnain-awan-n8n-on-vercel.md) | ⭐ 2 | JavaScript | 31/100 |
-| 1700 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ 16 | — | 30/100 |
-| 1701 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
+| 1700 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
+| 1701 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ 16 | — | 30/100 |
 | 1702 | [hylafax/hylafax](./hylafax-hylafax.md) | ⭐ 7 | C++ | 30/100 |
 | 1703 | [saquib-shahid/vendorforge-ai](./saquib-shahid-vendorforge-ai.md) | ⭐ — | JavaScript | 30/100 |
 | 1704 | [jaksdhflkjahsdfkjahsdfkjh/SherpaManager](./jaksdhflkjahsdfkjahsdfkjh-sherpamanager.md) | ⭐ — | C# | 30/100 |

@@ -2,7 +2,7 @@
 
 > 
 
-**300 projects** in this category.
+**302 projects** in this category.
 
 ## Projects
 
@@ -285,29 +285,31 @@
 | 275 | [HexZoNetwork/htsdk](./hexzonetwork-htsdk.md) | ⭐ — | JavaScript | 43/100 |
 | 276 | [stepfunc/dnp3](./stepfunc-dnp3.md) | ⭐ 160 | Rust | 43/100 |
 | 277 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
-| 278 | [LeriderTechnologies/bright-lines](./leridertechnologies-bright-lines.md) | ⭐ — | — | 41/100 |
-| 279 | [thenativeweb/architecturekit-rust](./thenativeweb-architecturekit-rust.md) | ⭐ 4 | — | 41/100 |
-| 280 | [trencinodin-stack/arcstone-airlock-blueprint](./trencinodin-stack-arcstone-airlock-blueprint.md) | ⭐ — | — | 41/100 |
-| 281 | [dtolnay/semver-trick](./dtolnay-semver-trick.md) | ⭐ 573 | — | 41/100 |
-| 282 | [glastor-core/hyper64](./glastor-core-hyper64.md) | ⭐ 1 | — | 41/100 |
-| 283 | [useswype/kotlin-pdfx](./useswype-kotlin-pdfx.md) | ⭐ 10 | — | 41/100 |
-| 284 | [openvi-foundation/openvue](./openvi-foundation-openvue.md) | ⭐ 443 | — | 41/100 |
-| 285 | [dannkkie/pure-sift](./dannkkie-pure-sift.md) | ⭐ 5 | — | 41/100 |
-| 286 | [romeroej2/ContextCall](./romeroej2-contextcall.md) | ⭐ 8 | — | 41/100 |
-| 287 | [V0rtexLinux/ILrDOS](./v0rtexlinux-ilrdos.md) | ⭐ 1 | — | 41/100 |
-| 288 | [Eazydraft/docxtor](./eazydraft-docxtor.md) | ⭐ — | — | 41/100 |
-| 289 | [FuzzyIdeas/LimbaKit](./fuzzyideas-limbakit.md) | ⭐ 2 | — | 41/100 |
-| 290 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ 16.3k | — | 41/100 |
-| 291 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ 1 | — | 41/100 |
-| 292 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
-| 293 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 135 | Rust | 39/100 |
-| 294 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 8 | Rust | 38/100 |
-| 295 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
-| 296 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ 4 | — | 37/100 |
-| 297 | [msiskasmith/PayChangu.NET](./msiskasmith-paychangu.net.md) | ⭐ 1 | C# | 37/100 |
-| 298 | [storj-thirdparty/uplink-php](./storj-thirdparty-uplink-php.md) | ⭐ 31 | PHP | 35/100 |
-| 299 | [thisisamirv/loess-project](./thisisamirv-loess-project.md) | ⭐ 3 | Rust | 33/100 |
-| 300 | [rustwasm/wasm-bindgen](./rustwasm-wasm-bindgen.md) | ⭐ — | — | 28/100 |
+| 278 | [lmtlssss/speedrunpapi](./lmtlssss-speedrunpapi.md) | ⭐ — | — | 41/100 |
+| 279 | [lis05/blaris](./lis05-blaris.md) | ⭐ — | — | 41/100 |
+| 280 | [LeriderTechnologies/bright-lines](./leridertechnologies-bright-lines.md) | ⭐ — | — | 41/100 |
+| 281 | [thenativeweb/architecturekit-rust](./thenativeweb-architecturekit-rust.md) | ⭐ 4 | — | 41/100 |
+| 282 | [trencinodin-stack/arcstone-airlock-blueprint](./trencinodin-stack-arcstone-airlock-blueprint.md) | ⭐ — | — | 41/100 |
+| 283 | [dtolnay/semver-trick](./dtolnay-semver-trick.md) | ⭐ 573 | — | 41/100 |
+| 284 | [glastor-core/hyper64](./glastor-core-hyper64.md) | ⭐ 1 | — | 41/100 |
+| 285 | [useswype/kotlin-pdfx](./useswype-kotlin-pdfx.md) | ⭐ 10 | — | 41/100 |
+| 286 | [openvi-foundation/openvue](./openvi-foundation-openvue.md) | ⭐ 443 | — | 41/100 |
+| 287 | [dannkkie/pure-sift](./dannkkie-pure-sift.md) | ⭐ 5 | — | 41/100 |
+| 288 | [romeroej2/ContextCall](./romeroej2-contextcall.md) | ⭐ 8 | — | 41/100 |
+| 289 | [V0rtexLinux/ILrDOS](./v0rtexlinux-ilrdos.md) | ⭐ 1 | — | 41/100 |
+| 290 | [Eazydraft/docxtor](./eazydraft-docxtor.md) | ⭐ — | — | 41/100 |
+| 291 | [FuzzyIdeas/LimbaKit](./fuzzyideas-limbakit.md) | ⭐ 2 | — | 41/100 |
+| 292 | [electric-sql/pglite](./electric-sql-pglite.md) | ⭐ 16.3k | — | 41/100 |
+| 293 | [navatala-systems/navatala_gpu](./navatala-systems-navatala-gpu.md) | ⭐ 1 | — | 41/100 |
+| 294 | [pulisherij-rgb/TritonX](./pulisherij-rgb-tritonx.md) | ⭐ — | HTML | 39/100 |
+| 295 | [olxgroup-oss/libvips-rust-bindings](./olxgroup-oss-libvips-rust-bindings.md) | ⭐ 135 | Rust | 39/100 |
+| 296 | [steliaai/async-ceph](./steliaai-async-ceph.md) | ⭐ 8 | Rust | 38/100 |
+| 297 | [tsirysndr/rockboxd](./tsirysndr-rockboxd.md) | ⭐ — | — | 38/100 |
+| 298 | [tangentstorm/jlang-pascal](./tangentstorm-jlang-pascal.md) | ⭐ 4 | — | 37/100 |
+| 299 | [msiskasmith/PayChangu.NET](./msiskasmith-paychangu.net.md) | ⭐ 1 | C# | 37/100 |
+| 300 | [storj-thirdparty/uplink-php](./storj-thirdparty-uplink-php.md) | ⭐ 31 | PHP | 35/100 |
+| 301 | [thisisamirv/loess-project](./thisisamirv-loess-project.md) | ⭐ 3 | Rust | 33/100 |
+| 302 | [rustwasm/wasm-bindgen](./rustwasm-wasm-bindgen.md) | ⭐ — | — | 28/100 |
 
 ---
 

@@ -1,6 +1,6 @@
 # YOLOW92/yolowpdf
 
-[![Stars](https://img.shields.io/github/stars/YOLOW92/yolowpdf?style=flat-square&color=yellow)](https://github.com/YOLOW92/yolowpdf/stargazers) [![Forks](https://img.shields.io/github/forks/YOLOW92/yolowpdf?style=flat-square&color=blue)](https://github.com/YOLOW92/yolowpdf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-44%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YOLOW92/yolowpdf?style=flat-square&color=yellow)](https://github.com/YOLOW92/yolowpdf/stargazers) [![Forks](https://img.shields.io/github/forks/YOLOW92/yolowpdf?style=flat-square&color=blue)](https://github.com/YOLOW92/yolowpdf/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
 
 > A PDF-to-Markdown library and OCR engine in Rust — parses the format itself, no Poppler/MuPDF. Extracted from PageSift.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 44/100 |
+| 📈 **Score** | 41/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -59,22 +59,22 @@ YOLOW92/yolowpdf：YOLOW92/yolowpdf helps add AI capability without starting fro
 - primary language: Rust
 - 6 topics
 
-**Risks:** Integration path is not obvious from metadata; validate setup cost before committing.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 50/100 |
+| quality | 45/100 |
 | integration | 30/100 |
-| production | 60/100 |
-| outlook | 60/100 |
+| production | 54/100 |
+| outlook | 53/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 300/100 |
 | stars | 6/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 
