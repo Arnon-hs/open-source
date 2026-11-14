@@ -28,7 +28,7 @@
 | 18 | [Lissy93/portainer-templates](./lissy93-portainer-templates.md) | ⭐ 2.9k | Python | 83/100 |
 | 19 | [minipuft/claude-prompts-mcp](./minipuft-claude-prompts-mcp.md) | ⭐ 192 | TypeScript | 82/100 |
 | 20 | [breferrari/obsidian-mind](./breferrari-obsidian-mind.md) | ⭐ 5.5k | TypeScript | 82/100 |
-| 21 | [kadevin/ilab-conjure](./kadevin-ilab-conjure.md) | ⭐ 737 | JavaScript | 82/100 |
+| 21 | [kadevin/ilab-conjure](./kadevin-ilab-conjure.md) | ⭐ 739 | JavaScript | 82/100 |
 | 22 | [wuyoscar/GPT-Image2-Skill](./wuyoscar-gpt-image2-skill.md) | ⭐ 6.1k | Python | 82/100 |
 | 23 | [danny-avila/LibreChat](./danny-avila-librechat.md) | ⭐ 36.7k | TypeScript | 82/100 |
 | 24 | [8gears/n8n-helm-chart](./8gears-n8n-helm-chart.md) | ⭐ 709 | Go Template | 81/100 |

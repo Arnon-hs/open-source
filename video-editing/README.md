@@ -79,7 +79,7 @@
 | 69 | [DojoCodingLabs/remotion-superpowers](./dojocodinglabs-remotion-superpowers.md) | ⭐ 166 | Shell | 74/100 |
 | 70 | [Gitruck/cli](./gitruck-cli.md) | ⭐ 965 | TypeScript | 74/100 |
 | 71 | [Vanszs/tiktok-viral-factory](./vanszs-tiktok-viral-factory.md) | ⭐ 38 | Python | 74/100 |
-| 72 | [GuanYixuan/pyCapCut](./guanyixuan-pycapcut.md) | ⭐ 748 | Python | 74/100 |
+| 72 | [GuanYixuan/pyCapCut](./guanyixuan-pycapcut.md) | ⭐ 749 | Python | 74/100 |
 | 73 | [hypit-ai/hypit](./hypit-ai-hypit.md) | ⭐ 29.6k | TypeScript | 74/100 |
 | 74 | [Battam1111/omniseek](./battam1111-omniseek.md) | ⭐ 100 | Python | 74/100 |
 | 75 | [aqm857886159/Nomi](./aqm857886159-nomi.md) | ⭐ 644 | TypeScript | 74/100 |
@@ -203,8 +203,8 @@
 | 193 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 103 | Swift | 67/100 |
 | 194 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 226 | Python | 67/100 |
 | 195 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 308 | TypeScript | 67/100 |
-| 196 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
-| 197 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 379 | TypeScript | 67/100 |
+| 196 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 379 | TypeScript | 67/100 |
+| 197 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
 | 198 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 239 | Go | 67/100 |
 | 199 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 200 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 133 | Python | 67/100 |
@@ -378,7 +378,7 @@
 | 368 | [Teriks/dgenerate](./teriks-dgenerate.md) | ⭐ 44 | Python | 60/100 |
 | 369 | [remotion-dev/claude-code-plugin](./remotion-dev-claude-code-plugin.md) | ⭐ 83 | JavaScript | 60/100 |
 | 370 | [remotion-dev/template-code-hike](./remotion-dev-template-code-hike.md) | ⭐ 223 | TypeScript | 60/100 |
-| 371 | [LucasHJin/vit](./lucashjin-vit.md) | ⭐ 739 | Python | 60/100 |
+| 371 | [LucasHJin/vit](./lucashjin-vit.md) | ⭐ 740 | Python | 60/100 |
 | 372 | [Vincentwei1021/video-talkcraft](./vincentwei1021-video-talkcraft.md) | ⭐ 2.3k | HTML | 60/100 |
 | 373 | [longxiang-ai/awesome-video-diffusions](./longxiang-ai-awesome-video-diffusions.md) | ⭐ 46 | Python | 60/100 |
 | 374 | [zcbacxc/movie-narrator](./zcbacxc-movie-narrator.md) | ⭐ 1.1k | Python | 60/100 |
@@ -557,7 +557,7 @@
 | 547 | [CheshireMew/visual-multimedia](./cheshiremew-visual-multimedia.md) | ⭐ 24 | JavaScript | 50/100 |
 | 548 | [gcanat/video_reader-rs](./gcanat-video-reader-rs.md) | ⭐ 127 | Rust | 50/100 |
 | 549 | [McCloudS/subgen](./mcclouds-subgen.md) | ⭐ 1.5k | Python | 50/100 |
-| 550 | [haasn/libplacebo](./haasn-libplacebo.md) | ⭐ 813 | C | 50/100 |
+| 550 | [haasn/libplacebo](./haasn-libplacebo.md) | ⭐ 812 | C | 50/100 |
 | 551 | [ffplayout/ffplayout](./ffplayout-ffplayout.md) | ⭐ 601 | Rust | 50/100 |
 | 552 | [vanakala/cinelerra-cve](./vanakala-cinelerra-cve.md) | ⭐ 31 | C | 49/100 |
 | 553 | [vaughnn/burned-in-subtitle-removal-benchmark](./vaughnn-burned-in-subtitle-removal-benchmark.md) | ⭐ — | — | 49/100 |
@@ -582,7 +582,7 @@
 | 572 | [rtagliaviaz/video-streaming-service](./rtagliaviaz-video-streaming-service.md) | ⭐ 1 | — | 48/100 |
 | 573 | [KenjiGinjo/bun-ffmpeg](./kenjiginjo-bun-ffmpeg.md) | ⭐ 18 | — | 48/100 |
 | 574 | [rtagliaviaz/audio-track-remover](./rtagliaviaz-audio-track-remover.md) | ⭐ — | — | 48/100 |
-| 575 | [devhyper/open-video-editor](./devhyper-open-video-editor.md) | ⭐ 738 | Kotlin | 48/100 |
+| 575 | [devhyper/open-video-editor](./devhyper-open-video-editor.md) | ⭐ 739 | Kotlin | 48/100 |
 | 576 | [Salesforce/blip-image-captioning-base](./salesforce-blip-image-captioning-base.md) | ⭐ 868 | transformers | 48/100 |
 | 577 | [benwbrum/fromthepage](./benwbrum-fromthepage.md) | ⭐ 187 | Ruby | 48/100 |
 | 578 | [omanshchoudhary/briareus](./omanshchoudhary-briareus.md) | ⭐ 5 | — | 47/100 |

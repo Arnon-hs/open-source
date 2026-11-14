@@ -26,11 +26,11 @@
 | 16 | [zhangkunlv-ship-it/xuehui-shortvideo-skill](./zhangkunlv-ship-it-xuehui-shortvideo-skill.md) | ⭐ 104 | — | 51/100 |
 | 17 | [angelotc/antigravity-seo](./angelotc-antigravity-seo.md) | ⭐ 2 | — | 51/100 |
 | 18 | [okou-ai/okou](./okou-ai-okou.md) | ⭐ 1.2k | TypeScript | 50/100 |
-| 19 | [lix-project/lix](./lix-project-lix.md) | ⭐ 651 | C++ | 50/100 |
+| 19 | [lix-project/lix](./lix-project-lix.md) | ⭐ 652 | C++ | 50/100 |
 | 20 | [irinabuht12-oss/marketing-skills](./irinabuht12-oss-marketing-skills.md) | ⭐ 7.5k | — | 48/100 |
 | 21 | [neodevpro/neodevhost](./neodevpro-neodevhost.md) | ⭐ 1.4k | Adblock Filter List | 48/100 |
 | 22 | [reisxd/TizenTube](./reisxd-tizentube.md) | ⭐ 2.5k | JavaScript | 47/100 |
-| 23 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 745 | Adblock Filter List | 47/100 |
+| 23 | [MajkiIT/polish-ads-filter](./majkiit-polish-ads-filter.md) | ⭐ 746 | Adblock Filter List | 47/100 |
 | 24 | [crevas/Apple-Ads-CLI](./crevas-apple-ads-cli.md) | ⭐ 6 | — | 45/100 |
 | 25 | [adeptads-growth/google-ads-search-term-ngram-script](./adeptads-growth-google-ads-search-term-ngram-script.md) | ⭐ — | — | 44/100 |
 | 26 | [othy19904-eng/conversionguard](./othy19904-eng-conversionguard.md) | ⭐ — | Python | 42/100 |

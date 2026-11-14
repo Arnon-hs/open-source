@@ -114,7 +114,7 @@
 | 104 | [dimitri/pgloader](./dimitri-pgloader.md) | ⭐ 6.6k | Common Lisp | 61/100 |
 | 105 | [diesel-rs/diesel](./diesel-rs-diesel.md) | ⭐ 14.2k | Rust | 61/100 |
 | 106 | [openeducat/openeducat_erp](./openeducat-openeducat-erp.md) | ⭐ 912 | HTML | 61/100 |
-| 107 | [openclaw/discrawl](./openclaw-discrawl.md) | ⭐ 862 | Go | 61/100 |
+| 107 | [openclaw/discrawl](./openclaw-discrawl.md) | ⭐ 861 | Go | 61/100 |
 | 108 | [s2-streamstore/s2](./s2-streamstore-s2.md) | ⭐ 819 | Rust | 61/100 |
 | 109 | [gravitational/teleport](./gravitational-teleport.md) | ⭐ 21.1k | Go | 61/100 |
 | 110 | [mortennordbye/headroom](./mortennordbye-headroom.md) | ⭐ 11 | TypeScript | 60/100 |
@@ -207,7 +207,7 @@
 | 197 | [confluentinc/ksql](./confluentinc-ksql.md) | ⭐ 317 | Java | 56/100 |
 | 198 | [rustsec/advisory-db](./rustsec-advisory-db.md) | ⭐ 1.2k | — | 56/100 |
 | 199 | [mongodb-js/boxednode](./mongodb-js-boxednode.md) | ⭐ 658 | TypeScript | 56/100 |
-| 200 | [adysec/IP_database](./adysec-ip-database.md) | ⭐ 748 | HTML | 56/100 |
+| 200 | [adysec/IP_database](./adysec-ip-database.md) | ⭐ 749 | HTML | 56/100 |
 | 201 | [doctrine/DoctrineMongoDBBundle](./doctrine-doctrinemongodbbundle.md) | ⭐ 384 | PHP | 56/100 |
 | 202 | [rubysec/ruby-advisory-db](./rubysec-ruby-advisory-db.md) | ⭐ 1.1k | Ruby | 56/100 |
 | 203 | [pgjdbc/pgjdbc](./pgjdbc-pgjdbc.md) | ⭐ 1.7k | Java | 56/100 |
@@ -270,7 +270,7 @@
 | 260 | [Dailin521/codex-provider-sync](./dailin521-codex-provider-sync.md) | ⭐ 3.6k | C# | 53/100 |
 | 261 | [xataio/deltax](./xataio-deltax.md) | ⭐ 293 | Rust | 53/100 |
 | 262 | [VCVRack/library](./vcvrack-library.md) | ⭐ 451 | Python | 53/100 |
-| 263 | [MobilityDB/MobilityDB](./mobilitydb-mobilitydb.md) | ⭐ 634 | C | 53/100 |
+| 263 | [MobilityDB/MobilityDB](./mobilitydb-mobilitydb.md) | ⭐ 635 | C | 53/100 |
 | 264 | [open-wanderer/wanderer](./open-wanderer-wanderer.md) | ⭐ 4.1k | Svelte | 53/100 |
 | 265 | [sqldef/sqldef](./sqldef-sqldef.md) | ⭐ 3.2k | Go | 53/100 |
 | 266 | [OneClickDBA/harry-performance-scraper](./oneclickdba-harry-performance-scraper.md) | ⭐ 5 | Go | 52/100 |
@@ -321,7 +321,7 @@
 | 311 | [The-OpenROAD-Project/OpenROAD](./the-openroad-project-openroad.md) | ⭐ 3.3k | Verilog | 50/100 |
 | 312 | [mongodb/docs](./mongodb-docs.md) | ⭐ 780 | TypeScript | 50/100 |
 | 313 | [uyuni-project/uyuni](./uyuni-project-uyuni.md) | ⭐ 601 | Java | 50/100 |
-| 314 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 875 | Python | 50/100 |
+| 314 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 877 | Python | 50/100 |
 | 315 | [openresty/drizzle-nginx-module](./openresty-drizzle-nginx-module.md) | ⭐ 335 | C | 49/100 |
 | 316 | [ClickHouse/RayTracer](./clickhouse-raytracer.md) | ⭐ 110 | — | 49/100 |
 | 317 | [Syngnat/GoNavi](./syngnat-gonavi.md) | ⭐ 2.1k | TypeScript | 49/100 |
@@ -573,8 +573,8 @@
 | 563 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 564 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 565 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 566 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
-| 567 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 154 | — | 38/100 |
+| 566 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 154 | — | 38/100 |
+| 567 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
 | 568 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 569 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 570 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |

@@ -59,7 +59,7 @@
 | 49 | [upstash/redis-js](./upstash-redis-js.md) | ⭐ 986 | TypeScript | 72/100 |
 | 50 | [aws/aws-cli](./aws-aws-cli.md) | ⭐ 17.4k | Python | 72/100 |
 | 51 | [googleapis/google-cloud-php](./googleapis-google-cloud-php.md) | ⭐ 1.2k | PHP | 72/100 |
-| 52 | [Azure/azure-devops-cli-extension](./azure-azure-devops-cli-extension.md) | ⭐ 692 | Python | 72/100 |
+| 52 | [Azure/azure-devops-cli-extension](./azure-azure-devops-cli-extension.md) | ⭐ 693 | Python | 72/100 |
 | 53 | [Forceu/Gokapi](./forceu-gokapi.md) | ⭐ 3k | Go | 72/100 |
 | 54 | [googleapis/google-cloud-java](./googleapis-google-cloud-java.md) | ⭐ 2.1k | Java | 72/100 |
 | 55 | [go-to-k/cdkd](./go-to-k-cdkd.md) | ⭐ 174 | TypeScript | 71/100 |
@@ -133,7 +133,7 @@
 | 123 | [matsest/lazyazure](./matsest-lazyazure.md) | ⭐ 49 | Go | 67/100 |
 | 124 | [dotnet/orleans](./dotnet-orleans.md) | ⭐ 10.9k | C# | 67/100 |
 | 125 | [MarSeventh/CloudFlare-ImgBed](./marseventh-cloudflare-imgbed.md) | ⭐ 6.9k | JavaScript | 67/100 |
-| 126 | [Azure/static-web-apps-cli](./azure-static-web-apps-cli.md) | ⭐ 668 | TypeScript | 67/100 |
+| 126 | [Azure/static-web-apps-cli](./azure-static-web-apps-cli.md) | ⭐ 669 | TypeScript | 67/100 |
 | 127 | [fluxcd/flagger](./fluxcd-flagger.md) | ⭐ 5.4k | Go | 67/100 |
 | 128 | [buildpacks/pack](./buildpacks-pack.md) | ⭐ 3k | Go | 67/100 |
 | 129 | [aserto-dev/topaz](./aserto-dev-topaz.md) | ⭐ 1.4k | Go | 67/100 |
@@ -257,7 +257,7 @@
 | 247 | [raulcastillabravo/mistlock](./raulcastillabravo-mistlock.md) | ⭐ 488 | Python | 62/100 |
 | 248 | [canonical/microceph](./canonical-microceph.md) | ⭐ 399 | Go | 62/100 |
 | 249 | [cloudbase/garm](./cloudbase-garm.md) | ⭐ 463 | Go | 62/100 |
-| 250 | [KunMoe/kun-touchgal-next](./kunmoe-kun-touchgal-next.md) | ⭐ 850 | TypeScript | 62/100 |
+| 250 | [KunMoe/kun-touchgal-next](./kunmoe-kun-touchgal-next.md) | ⭐ 852 | TypeScript | 62/100 |
 | 251 | [artifacthub/hub](./artifacthub-hub.md) | ⭐ 2.1k | TypeScript | 62/100 |
 | 252 | [AzureAD/microsoft-identity-web](./azuread-microsoft-identity-web.md) | ⭐ 792 | C# | 62/100 |
 | 253 | [bigstack-oss/cubecos](./bigstack-oss-cubecos.md) | ⭐ 162 | Python | 62/100 |
@@ -342,8 +342,8 @@
 | 332 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 333 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 334 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
-| 336 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 336 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
 | 337 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 338 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 339 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -406,7 +406,7 @@
 | 396 | [rustfs/cli](./rustfs-cli.md) | ⭐ 179 | Rust | 56/100 |
 | 397 | [SpecterOps/AzureHound](./specterops-azurehound.md) | ⭐ 987 | Go | 56/100 |
 | 398 | [aws-amplify/amplify-flutter](./aws-amplify-amplify-flutter.md) | ⭐ 1.4k | Dart | 56/100 |
-| 399 | [21cncstudio/project_aura](./21cncstudio-project-aura.md) | ⭐ 791 | C | 56/100 |
+| 399 | [21cncstudio/project_aura](./21cncstudio-project-aura.md) | ⭐ 792 | C | 56/100 |
 | 400 | [spiffe/spike](./spiffe-spike.md) | ⭐ 180 | Go | 56/100 |
 | 401 | [cargo-lambda/cargo-lambda](./cargo-lambda-cargo-lambda.md) | ⭐ 929 | Rust | 56/100 |
 | 402 | [borgbase/vykar](./borgbase-vykar.md) | ⭐ 724 | Rust | 56/100 |
@@ -493,8 +493,8 @@
 | 483 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 448 | Go | 52/100 |
 | 484 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 485 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
-| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
 | 488 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 62 | Python | 51/100 |
 | 489 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 490 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |

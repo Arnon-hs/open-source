@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 522 |
-| 🍴 **Forks** | 55 |
+| 🍴 **Forks** | 54 |
 | 💻 **Language** | Rust |
 | 📈 **Score** | 62/100 |
 | 🗓️ **Last push** | 2026-10-25 |
@@ -54,7 +54,7 @@ DioNanos/codex-termux：DioNanos/codex-termux helps add AI capability without st
 **Quality signals**
 
 - 522 GitHub stars
-- 55 forks
+- 54 forks
 - updated 2026-10-25
 - primary language: Rust
 - 10 topics

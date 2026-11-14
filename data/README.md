@@ -106,7 +106,7 @@
 | 96 | [debezium/debezium-examples](./debezium-debezium-examples.md) | ⭐ 1.7k | JavaScript | 63/100 |
 | 97 | [duckdb/duckdb](./duckdb-duckdb.md) | ⭐ 43k | C++ | 63/100 |
 | 98 | [mljar/mercury](./mljar-mercury.md) | ⭐ 4.4k | Python | 63/100 |
-| 99 | [ConduitIO/conduit](./conduitio-conduit.md) | ⭐ 617 | Go | 63/100 |
+| 99 | [ConduitIO/conduit](./conduitio-conduit.md) | ⭐ 618 | Go | 63/100 |
 | 100 | [pydata/pandas-datareader](./pydata-pandas-datareader.md) | ⭐ 3.3k | Python | 63/100 |
 | 101 | [timescale/timescaledb](./timescale-timescaledb.md) | ⭐ 23.9k | C | 63/100 |
 | 102 | [xoolive/traffic](./xoolive-traffic.md) | ⭐ 524 | Python | 63/100 |
@@ -146,7 +146,7 @@
 | 136 | [osalvador/ReplicaDB](./osalvador-replicadb.md) | ⭐ 505 | Java | 60/100 |
 | 137 | [NVIDIA/NVFlare](./nvidia-nvflare.md) | ⭐ 1k | Python | 60/100 |
 | 138 | [firefly-iii/data-importer](./firefly-iii-data-importer.md) | ⭐ 857 | PHP | 60/100 |
-| 139 | [Axect/Peroxide](./axect-peroxide.md) | ⭐ 734 | Rust | 60/100 |
+| 139 | [Axect/Peroxide](./axect-peroxide.md) | ⭐ 735 | Rust | 60/100 |
 | 140 | [alibaba/fastjson2](./alibaba-fastjson2.md) | ⭐ 4.4k | Java | 60/100 |
 | 141 | [AtomGraph/LinkedDataHub](./atomgraph-linkeddatahub.md) | ⭐ 638 | XSLT | 60/100 |
 | 142 | [apache/calcite](./apache-calcite.md) | ⭐ 5.2k | Java | 60/100 |
@@ -275,7 +275,7 @@
 | 265 | [beava-dev/beava](./beava-dev-beava.md) | ⭐ 139 | Rust | 54/100 |
 | 266 | [rpbouman/huey](./rpbouman-huey.md) | ⭐ 636 | JavaScript | 54/100 |
 | 267 | [MAZHARMIK/Interview_DS_Algo](./mazharmik-interview-ds-algo.md) | ⭐ 5.3k | C++ | 54/100 |
-| 268 | [blaylockbk/Herbie](./blaylockbk-herbie.md) | ⭐ 800 | Python | 54/100 |
+| 268 | [blaylockbk/Herbie](./blaylockbk-herbie.md) | ⭐ 801 | Python | 54/100 |
 | 269 | [trinodb/trino](./trinodb-trino.md) | ⭐ 13.5k | Java | 54/100 |
 | 270 | [prestodb/presto](./prestodb-presto.md) | ⭐ 16.8k | Java | 54/100 |
 | 271 | [robiningelbrecht/statistics-for-strava](./robiningelbrecht-statistics-for-strava.md) | ⭐ 10 | PHP | 54/100 |

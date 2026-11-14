@@ -29,7 +29,7 @@
 | 19 | [xiangechen/chili3d](./xiangechen-chili3d.md) | ⭐ 5k | TypeScript | 63/100 |
 | 20 | [monkeytypegame/monkeytype](./monkeytypegame-monkeytype.md) | ⭐ 21k | TypeScript | 63/100 |
 | 21 | [psychopy/psychopy](./psychopy-psychopy.md) | ⭐ 2.1k | Python | 62/100 |
-| 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 701 | Python | 62/100 |
+| 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 700 | Python | 62/100 |
 | 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 552 | Python | 62/100 |
 | 24 | [MewPurPur/GodSVG](./mewpurpur-godsvg.md) | ⭐ 2.8k | GDScript | 61/100 |
 | 25 | [Lailloken/Exile-UI](./lailloken-exile-ui.md) | ⭐ 1.4k | AutoHotkey | 61/100 |
@@ -78,7 +78,7 @@
 | 68 | [emilkowalski/skills](./emilkowalski-skills.md) | ⭐ 56.7k | — | 55/100 |
 | 69 | [daangn/seed-design](./daangn-seed-design.md) | ⭐ 1.2k | TypeScript | 55/100 |
 | 70 | [ZeroZ-lab/cc-design](./zeroz-lab-cc-design.md) | ⭐ 831 | JavaScript | 55/100 |
-| 71 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 831 | Shell | 55/100 |
+| 71 | [SylEleuth/gruvbox-plus-icon-pack](./syleleuth-gruvbox-plus-icon-pack.md) | ⭐ 832 | Shell | 55/100 |
 | 72 | [AxonIQ/AxonFramework](./axoniq-axonframework.md) | ⭐ 3.6k | Java | 55/100 |
 | 73 | [amaancoderx/npxskillui](./amaancoderx-npxskillui.md) | ⭐ 2.5k | TypeScript | 54/100 |
 | 74 | [pydoe/pydoe](./pydoe-pydoe.md) | ⭐ 350 | Python | 54/100 |
@@ -100,7 +100,7 @@
 | 90 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 329 | HTML | 52/100 |
 | 91 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.4k | WebAssembly | 52/100 |
 | 92 | [openhwgroup/cvw](./openhwgroup-cvw.md) | ⭐ 553 | SystemVerilog | 52/100 |
-| 93 | [riscv/riscv-arch-test](./riscv-riscv-arch-test.md) | ⭐ 812 | Assembly | 52/100 |
+| 93 | [riscv/riscv-arch-test](./riscv-riscv-arch-test.md) | ⭐ 813 | Assembly | 52/100 |
 | 94 | [Cur10s1tyByt3/GenP](./cur10s1tybyt3-genp.md) | ⭐ 1.3k | AutoIt | 52/100 |
 | 95 | [Hostpad/Hostpad](./hostpad-hostpad.md) | ⭐ 3 | C# | 51/100 |
 | 96 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.2k | C++ | 51/100 |

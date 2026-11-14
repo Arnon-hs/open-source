@@ -147,7 +147,7 @@
 | 137 | [xai-org/xai-sdk-ts](./xai-org-xai-sdk-ts.md) | ⭐ 69 | — | 59/100 |
 | 138 | [sahlberg/libnfs](./sahlberg-libnfs.md) | ⭐ 610 | C | 59/100 |
 | 139 | [gtk-rs/gtk-rs-core](./gtk-rs-gtk-rs-core.md) | ⭐ 382 | Rust | 59/100 |
-| 140 | [pygobject/pycairo](./pygobject-pycairo.md) | ⭐ 702 | C | 59/100 |
+| 140 | [pygobject/pycairo](./pygobject-pycairo.md) | ⭐ 704 | C | 59/100 |
 | 141 | [ceph/go-ceph](./ceph-go-ceph.md) | ⭐ 695 | Go | 59/100 |
 | 142 | [mpi4py/mpi4py](./mpi4py-mpi4py.md) | ⭐ 934 | Python | 59/100 |
 | 143 | [databento/databento-rs](./databento-databento-rs.md) | ⭐ 108 | Rust | 59/100 |

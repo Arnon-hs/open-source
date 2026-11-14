@@ -90,7 +90,7 @@
 | 80 | [iTowns/itowns](./itowns-itowns.md) | ⭐ 1.3k | JavaScript | 62/100 |
 | 81 | [doriaxengine/doriax](./doriaxengine-doriax.md) | ⭐ 920 | C++ | 62/100 |
 | 82 | [mayukh4/linux-android](./mayukh4-linux-android.md) | ⭐ 3.9k | Shell | 61/100 |
-| 83 | [OpenChemistry/avogadrolibs](./openchemistry-avogadrolibs.md) | ⭐ 705 | C++ | 61/100 |
+| 83 | [OpenChemistry/avogadrolibs](./openchemistry-avogadrolibs.md) | ⭐ 706 | C++ | 61/100 |
 | 84 | [TerriaJS/terriajs](./terriajs-terriajs.md) | ⭐ 1.4k | TypeScript | 61/100 |
 | 85 | [pygame-community/pygame-ce](./pygame-community-pygame-ce.md) | ⭐ 1.7k | C | 61/100 |
 | 86 | [ManevilleF/hexx](./manevillef-hexx.md) | ⭐ 377 | Rust | 61/100 |
@@ -116,7 +116,7 @@
 | 106 | [mlightcad/cad-viewer](./mlightcad-cad-viewer.md) | ⭐ 1.3k | TypeScript | 60/100 |
 | 107 | [go-gl/glfw](./go-gl-glfw.md) | ⭐ 1.7k | C | 60/100 |
 | 108 | [SanderMertens/bake](./sandermertens-bake.md) | ⭐ 755 | C | 60/100 |
-| 109 | [SpartanJ/eepp](./spartanj-eepp.md) | ⭐ 679 | C++ | 60/100 |
+| 109 | [SpartanJ/eepp](./spartanj-eepp.md) | ⭐ 680 | C++ | 60/100 |
 | 110 | [djeedai/bevy_hanabi](./djeedai-bevy-hanabi.md) | ⭐ 1.5k | Rust | 60/100 |
 | 111 | [SaschaWillems/VulkanCapsViewer](./saschawillems-vulkancapsviewer.md) | ⭐ 448 | C++ | 59/100 |
 | 112 | [itchio/itch](./itchio-itch.md) | ⭐ 2.9k | TypeScript | 59/100 |
@@ -129,11 +129,11 @@
 | 119 | [avianphysics/avian](./avianphysics-avian.md) | ⭐ 3.3k | Rust | 59/100 |
 | 120 | [DavidHDev/canvas-ui](./davidhdev-canvas-ui.md) | ⭐ 5.4k | TypeScript | 59/100 |
 | 121 | [recp/cglm](./recp-cglm.md) | ⭐ 3k | C | 59/100 |
-| 122 | [voxelize/voxelize](./voxelize-voxelize.md) | ⭐ 695 | Rust | 59/100 |
+| 122 | [voxelize/voxelize](./voxelize-voxelize.md) | ⭐ 696 | Rust | 59/100 |
 | 123 | [HaxeFlixel/flixel](./haxeflixel-flixel.md) | ⭐ 2.2k | Haxe | 59/100 |
 | 124 | [shnewto/bevy_collider_gen](./shnewto-bevy-collider-gen.md) | ⭐ 108 | Rust | 59/100 |
 | 125 | [DiligentGraphics/DiligentFX](./diligentgraphics-diligentfx.md) | ⭐ 462 | C++ | 59/100 |
-| 126 | [efroemling/ballistica](./efroemling-ballistica.md) | ⭐ 719 | Python | 59/100 |
+| 126 | [efroemling/ballistica](./efroemling-ballistica.md) | ⭐ 720 | Python | 59/100 |
 | 127 | [mas-bandwidth/reliable](./mas-bandwidth-reliable.md) | ⭐ 658 | C | 59/100 |
 | 128 | [toyota-connected/ivi-homescreen](./toyota-connected-ivi-homescreen.md) | ⭐ 404 | C++ | 59/100 |
 | 129 | [luigifcruz/CyberEther](./luigifcruz-cyberether.md) | ⭐ 877 | C++ | 59/100 |
@@ -184,7 +184,7 @@
 | 174 | [OGRECave/ogre-next](./ogrecave-ogre-next.md) | ⭐ 1.4k | C++ | 56/100 |
 | 175 | [gdt-tools/gdt-cpus-rs](./gdt-tools-gdt-cpus-rs.md) | ⭐ 118 | Rust | 56/100 |
 | 176 | [raysan5/raylib-games](./raysan5-raylib-games.md) | ⭐ 853 | C | 56/100 |
-| 177 | [deathkiller/jazz2-native](./deathkiller-jazz2-native.md) | ⭐ 733 | C++ | 56/100 |
+| 177 | [deathkiller/jazz2-native](./deathkiller-jazz2-native.md) | ⭐ 732 | C++ | 56/100 |
 | 178 | [exult/exult](./exult-exult.md) | ⭐ 709 | C++ | 56/100 |
 | 179 | [ProwlEngine/Prowl](./prowlengine-prowl.md) | ⭐ 1.3k | C# | 56/100 |
 | 180 | [fizzyedit/fizzy](./fizzyedit-fizzy.md) | ⭐ 1.5k | Zig | 56/100 |
@@ -333,7 +333,7 @@
 | 323 | [samhenrigold/MacPlusDancer](./samhenrigold-macplusdancer.md) | ⭐ 60 | — | 41/100 |
 | 324 | [NVIDIA-RTX/Whitepapers](./nvidia-rtx-whitepapers.md) | ⭐ — | — | 41/100 |
 | 325 | [matheus-aragao-cavalcante/BEA-Backport-Engineering-Anything](./matheus-aragao-cavalcante-bea-backport-engineering-anything.md) | ⭐ — | — | 41/100 |
-| 326 | [tailscale/tailcat-for-minecraft](./tailscale-tailcat-for-minecraft.md) | ⭐ — | — | 41/100 |
+| 326 | [tailscale/tailcat-for-minecraft](./tailscale-tailcat-for-minecraft.md) | ⭐ 63 | — | 41/100 |
 | 327 | [davidgiven/pet-elite](./davidgiven-pet-elite.md) | ⭐ 10 | — | 41/100 |
 | 328 | [angelotc/lol-companion](./angelotc-lol-companion.md) | ⭐ 5 | — | 41/100 |
 | 329 | [Sunghwan0112/spritecast](./sunghwan0112-spritecast.md) | ⭐ 43 | — | 41/100 |

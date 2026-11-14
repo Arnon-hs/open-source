@@ -255,7 +255,7 @@
 | 245 | [huangjia2019/rag-in-action](./huangjia2019-rag-in-action.md) | ⭐ 859 | Jupyter Notebook | 63/100 |
 | 246 | [DevYangJC/Argus](./devyangjc-argus.md) | ⭐ 296 | Java | 63/100 |
 | 247 | [BarsatKhadka/Vinaya-Journal](./barsatkhadka-vinaya-journal.md) | ⭐ 173 | TypeScript | 63/100 |
-| 248 | [KipData/KiteSQL](./kipdata-kitesql.md) | ⭐ 761 | Rust | 63/100 |
+| 248 | [KipData/KiteSQL](./kipdata-kitesql.md) | ⭐ 762 | Rust | 63/100 |
 | 249 | [TIGER-AI-Lab/VLM2Vec](./tiger-ai-lab-vlm2vec.md) | ⭐ 704 | Python | 63/100 |
 | 250 | [lightly-ai/lightly](./lightly-ai-lightly.md) | ⭐ 3.8k | Python | 63/100 |
 | 251 | [chaitin/KoalaQA](./chaitin-koalaqa.md) | ⭐ 563 | TypeScript | 63/100 |
@@ -435,8 +435,8 @@
 | 425 | [Threekiii/Awesome-POC](./threekiii-awesome-poc.md) | ⭐ 5.3k | Java | 56/100 |
 | 426 | [sysid/bkmr](./sysid-bkmr.md) | ⭐ 268 | Rust | 56/100 |
 | 427 | [jeffreylanters/react-unity-webgl](./jeffreylanters-react-unity-webgl.md) | ⭐ 1.9k | TypeScript | 56/100 |
-| 428 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 16.1k | Python | 56/100 |
-| 429 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 7.1k | JavaScript | 56/100 |
+| 428 | [dataease/SQLBot](./dataease-sqlbot.md) | ⭐ 7.1k | JavaScript | 56/100 |
+| 429 | [modelscope/ms-swift](./modelscope-ms-swift.md) | ⭐ 16.1k | Python | 56/100 |
 | 430 | [aws-samples/generative-ai-use-cases](./aws-samples-generative-ai-use-cases.md) | ⭐ 1.4k | TypeScript | 56/100 |
 | 431 | [tetherto/qvac](./tetherto-qvac.md) | ⭐ 763 | JavaScript | 56/100 |
 | 432 | [neo4j/neo4j-graphrag-python](./neo4j-neo4j-graphrag-python.md) | ⭐ 1.3k | Python | 56/100 |
@@ -489,7 +489,7 @@
 | 479 | [JakeWharton/cite](./jakewharton-cite.md) | ⭐ 372 | Kotlin | 52/100 |
 | 480 | [tiylabs/tiygate](./tiylabs-tiygate.md) | ⭐ 148 | Rust | 52/100 |
 | 481 | [Keel-Labs/keel](./keel-labs-keel.md) | ⭐ 50 | TypeScript | 52/100 |
-| 482 | [NVIDIA-AI-Blueprints/rag](./nvidia-ai-blueprints-rag.md) | ⭐ 825 | Python | 52/100 |
+| 482 | [NVIDIA-AI-Blueprints/rag](./nvidia-ai-blueprints-rag.md) | ⭐ 823 | Python | 52/100 |
 | 483 | [Shannon-Data/ShannonBase](./shannon-data-shannonbase.md) | ⭐ 200 | C++ | 52/100 |
 | 484 | [superlinked/sie](./superlinked-sie.md) | ⭐ 3.5k | Python | 52/100 |
 | 485 | [nex-crm/wuphf](./nex-crm-wuphf.md) | ⭐ 962 | Go | 52/100 |
@@ -527,9 +527,9 @@
 | 517 | [kc-2705/job-hunt-copilot](./kc-2705-job-hunt-copilot.md) | ⭐ — | JavaScript | 48/100 |
 | 518 | [torrua/loglan-bench](./torrua-loglan-bench.md) | ⭐ — | Python | 48/100 |
 | 519 | [Christopher22/charon](./christopher22-charon.md) | ⭐ 9 | — | 48/100 |
-| 520 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
-| 521 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
-| 522 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 520 | [sentence-transformers/all-mpnet-base-v2](./sentence-transformers-all-mpnet-base-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 521 | [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](./sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md) | ⭐ 1.3k | sentence-transformers | 48/100 |
+| 522 | [nomic-ai/nomic-embed-text-v1.5](./nomic-ai-nomic-embed-text-v1.5.md) | ⭐ 878 | sentence-transformers | 48/100 |
 | 523 | [shell-nlp/gpt_server](./shell-nlp-gpt-server.md) | ⭐ 254 | Python | 48/100 |
 | 524 | [kitfunso/hippo-memory](./kitfunso-hippo-memory.md) | ⭐ 792 | TypeScript | 48/100 |
 | 525 | [SeekStorm/SeekStorm](./seekstorm-seekstorm.md) | ⭐ 1.9k | Rust | 48/100 |
@@ -578,8 +578,8 @@
 | 568 | [madebyzan/knovum](./madebyzan-knovum.md) | ⭐ 49 | Rust | 43/100 |
 | 569 | [neromtoobad/aliquot](./neromtoobad-aliquot.md) | ⭐ — | TypeScript | 43/100 |
 | 570 | [GiulioDER/RE-call](./giulioder-re-call.md) | ⭐ 7 | — | 43/100 |
-| 571 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 43/100 |
-| 572 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 43/100 |
+| 571 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 43/100 |
+| 572 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 43/100 |
 | 573 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ 3 | — | 43/100 |
 | 574 | [aryamore05/Somewhere](./aryamore05-somewhere.md) | ⭐ — | Python | 42/100 |
 | 575 | [oak-invest/kiso](./oak-invest-kiso.md) | ⭐ 58 | — | 42/100 |
