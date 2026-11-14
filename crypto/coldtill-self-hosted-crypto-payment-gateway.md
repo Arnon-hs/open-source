@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Crypto
+Crypto · Payments · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Coldtill/self-hosted-crypto-payment-gateway: Coldtill/self-hosted-crypto-payment
 
 ### Русский
 
-Coldtill/self-hosted-crypto-payment-gateway: open-source проект в категориях Crypto. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Coldtill/self-hosted-crypto-payment-gateway: open-source проект в категориях Crypto, Payments, DevOps/Infra. Практическое применение: build Web3 workflows; inspect blockchain integrations. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -65,18 +65,18 @@ Coldtill/self-hosted-crypto-payment-gateway：Coldtill/self-hosted-crypto-paymen
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 46/100 |
-| production | 58/100 |
-| outlook | 63/100 |
-| adoption | 11/100 |
-| categoryMatchCount | 100/100 |
-| stars | 13/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 13/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 51/100 |
+| recency | 80/100 |
+| adoption | 11/100 |
+| production | 58/100 |
+| usefulness | 74/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 

@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -332,7 +332,7 @@
 | 322 | [eyeguide-dev/speakvora-pack-agent](./eyeguide-dev-speakvora-pack-agent.md) | ⭐ — | — | 45/100 |
 | 323 | [cw12574/abralo-workspace](./cw12574-abralo-workspace.md) | ⭐ 6 | — | 45/100 |
 | 324 | [yoavshalev/live-video-chat](./yoavshalev-live-video-chat.md) | ⭐ 4 | — | 45/100 |
-| 325 | [alphasolutionsrepo/interakt](./alphasolutionsrepo-interakt.md) | ⭐ 23 | — | 45/100 |
+| 325 | [alphasolutionsrepo/interakt](./alphasolutionsrepo-interakt.md) | ⭐ 25 | — | 45/100 |
 | 326 | [R44VC0RP/opensend](./r44vc0rp-opensend.md) | ⭐ 170 | — | 45/100 |
 | 327 | [vilaca/cursor-chat-cleaner](./vilaca-cursor-chat-cleaner.md) | ⭐ 3 | — | 45/100 |
 | 328 | [WICG/email-verification](./wicg-email-verification.md) | ⭐ 678 | — | 45/100 |
@@ -367,8 +367,8 @@
 | 357 | [hail-hq/hail](./hail-hq-hail.md) | ⭐ 32 | — | 42/100 |
 | 358 | [brainwavesio/pi-digby](./brainwavesio-pi-digby.md) | ⭐ 4 | — | 42/100 |
 | 359 | [sixvolts/familiar](./sixvolts-familiar.md) | ⭐ 3 | — | 42/100 |
-| 360 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
-| 361 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 689 | — | 42/100 |
+| 360 | [fanux/lhttp](./fanux-lhttp.md) | ⭐ 689 | — | 42/100 |
+| 361 | [fanux/lhttp-web-demo](./fanux-lhttp-web-demo.md) | ⭐ 14 | — | 42/100 |
 | 362 | [yonidavidson/agentcomm](./yonidavidson-agentcomm.md) | ⭐ 17 | — | 42/100 |
 | 363 | [mattmireles/local-motion](./mattmireles-local-motion.md) | ⭐ 5 | — | 42/100 |
 | 364 | [skyphusion-labs/postern](./skyphusion-labs-postern.md) | ⭐ 12 | — | 42/100 |

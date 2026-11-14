@@ -342,8 +342,8 @@
 | 332 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 333 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 334 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
-| 336 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 336 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
 | 337 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 338 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 339 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -615,7 +615,7 @@
 | 605 | [oauth2-proxy/oauth2-proxy](./oauth2-proxy-oauth2-proxy.md) | ⭐ 15.4k | — | 41/100 |
 | 606 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 483 | Bicep | 41/100 |
 | 607 | [suzuki0430/kro-crossplane-eks-idp-lab](./suzuki0430-kro-crossplane-eks-idp-lab.md) | ⭐ — | Shell | 40/100 |
-| 608 | [amananandrai/system-design-explainer](./amananandrai-system-design-explainer.md) | ⭐ 101 | TypeScript | 39/100 |
+| 608 | [amananandrai/system-design-explainer](./amananandrai-system-design-explainer.md) | ⭐ 106 | TypeScript | 39/100 |
 | 609 | [rendyachmad-dev/ark](./rendyachmad-dev-ark.md) | ⭐ 8 | Shell | 39/100 |
 | 610 | [earlgreyhot1701D/madame-minou](./earlgreyhot1701d-madame-minou.md) | ⭐ — | — | 39/100 |
 | 611 | [russellromney/turbolite](./russellromney-turbolite.md) | ⭐ 495 | Rust | 39/100 |

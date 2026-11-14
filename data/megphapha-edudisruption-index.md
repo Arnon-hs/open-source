@@ -63,18 +63,18 @@ MegPhapha/EduDisruption-Index：MegPhapha/EduDisruption-Index helps convert raw 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 35/100 |
-| integration | 30/100 |
-| production | 45/100 |
-| outlook | 43/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 100/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| stars | 0/100 |
 | topics | 63/100 |
+| outlook | 43/100 |
+| quality | 35/100 |
+| recency | 60/100 |
+| adoption | 0/100 |
+| production | 45/100 |
+| usefulness | 42/100 |
+| integration | 30/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 

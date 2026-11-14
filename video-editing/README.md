@@ -454,7 +454,7 @@
 | 444 | [taco-group/SparkVSR](./taco-group-sparkvsr.md) | ⭐ 750 | Python | 58/100 |
 | 445 | [yohasebe/whisper-stream](./yohasebe-whisper-stream.md) | ⭐ 131 | Shell | 58/100 |
 | 446 | [vanloctech/youwee](./vanloctech-youwee.md) | ⭐ 1.6k | TypeScript | 58/100 |
-| 447 | [pedroxcardoso/maquina-cortes-gta](./pedroxcardoso-maquina-cortes-gta.md) | ⭐ 21 | JavaScript | 57/100 |
+| 447 | [pedroxcardoso/maquina-cortes-gta](./pedroxcardoso-maquina-cortes-gta.md) | ⭐ 30 | JavaScript | 57/100 |
 | 448 | [bcmi/Light-A-Video](./bcmi-light-a-video.md) | ⭐ 529 | Python | 57/100 |
 | 449 | [SolarLanceRejuvenate/Cap-Cut-Unlock](./solarlancerejuvenate-cap-cut-unlock.md) | ⭐ 21 | — | 57/100 |
 | 450 | [SolarLanceRejuvenate/CapCut-Pro-Unlock](./solarlancerejuvenate-capcut-pro-unlock.md) | ⭐ 21 | — | 57/100 |

@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 787 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 564 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
-| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.4k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -519,7 +519,7 @@
 | 509 | [lalmachado/steady-socket](./lalmachado-steady-socket.md) | ⭐ 2 | — | 48/100 |
 | 510 | [9seconds/mtg](./9seconds-mtg.md) | ⭐ 3.7k | Go | 48/100 |
 | 511 | [Offline-Protocol/offline-protocol-sdk](./offline-protocol-offline-protocol-sdk.md) | ⭐ 149 | — | 48/100 |
-| 512 | [aimy1/Wmimo](./aimy1-wmimo.md) | ⭐ 7 | — | 48/100 |
+| 512 | [aimy1/Wmimo](./aimy1-wmimo.md) | ⭐ 8 | — | 48/100 |
 | 513 | [ventz/wombat-wireguard-mac-app](./ventz-wombat-wireguard-mac-app.md) | ⭐ — | — | 48/100 |
 | 514 | [aminueza/Keyfence](./aminueza-keyfence.md) | ⭐ 7 | — | 48/100 |
 | 515 | [theoriclabs/leanhttp](./theoriclabs-leanhttp.md) | ⭐ 17 | — | 48/100 |
@@ -656,7 +656,7 @@
 | 646 | [shivnathtathe/UnlimitedNIM](./shivnathtathe-unlimitednim.md) | ⭐ 5 | — | 38/100 |
 | 647 | [ytkoka/impersonate-proxy](./ytkoka-impersonate-proxy.md) | ⭐ 47 | — | 38/100 |
 | 648 | [linxiv-dev/linXiv](./linxiv-dev-linxiv.md) | ⭐ 66 | — | 38/100 |
-| 649 | [aikitoria/open-gpu-kernel-modules](./aikitoria-open-gpu-kernel-modules.md) | ⭐ 723 | — | 38/100 |
+| 649 | [aikitoria/open-gpu-kernel-modules](./aikitoria-open-gpu-kernel-modules.md) | ⭐ 725 | — | 38/100 |
 | 650 | [clevotec/cleversocks](./clevotec-cleversocks.md) | ⭐ 1 | — | 38/100 |
 | 651 | [ryanzhou/dsv4-codex-proxy](./ryanzhou-dsv4-codex-proxy.md) | ⭐ 1 | — | 38/100 |
 | 652 | [chriscohnen/islandr](./chriscohnen-islandr.md) | ⭐ 43 | — | 38/100 |

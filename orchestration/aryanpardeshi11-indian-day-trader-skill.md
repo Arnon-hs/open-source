@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 2 |
-| 🍴 **Forks** | — |
+| 🍴 **Forks** | 1 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 50/100 |
 | 🗓️ **Last push** | 2026-11-09 |
@@ -54,6 +54,7 @@ aryanpardeshi11/indian-day-trader-skill：aryanpardeshi11/indian-day-trader-skil
 **Quality signals**
 
 - 2 GitHub stars
+- 1 forks
 - updated 2026-11-09
 - primary language: Python
 - 18 topics
@@ -65,14 +66,14 @@ aryanpardeshi11/indian-day-trader-skill：aryanpardeshi11/indian-day-trader-skil
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 50/100 |
 | integration | 46/100 |
-| production | 57/100 |
-| outlook | 58/100 |
-| adoption | 7/100 |
+| production | 58/100 |
+| outlook | 59/100 |
+| adoption | 9/100 |
 | categoryMatchCount | 300/100 |
 | stars | 10/100 |
-| forks | 0/100 |
+| forks | 8/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · Security
+Automation · AI/ML · Frontend · DevOps/Infra
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ letswritetw/letswrite-vuln-digest: letswritetw/letswrite-vuln-digest helps remov
 
 ### Русский
 
-letswritetw/letswrite-vuln-digest: open-source проект в категориях Automation, Security. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+letswritetw/letswrite-vuln-digest: open-source проект в категориях Automation, AI/ML, Frontend, DevOps/Infra. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -64,18 +64,18 @@ letswritetw/letswrite-vuln-digest：letswritetw/letswrite-vuln-digest helps remo
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 44/100 |
-| integration | 46/100 |
-| production | 56/100 |
-| outlook | 52/100 |
-| adoption | 5/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 75/100 |
+| outlook | 52/100 |
+| quality | 44/100 |
+| recency | 80/100 |
+| adoption | 5/100 |
+| production | 56/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
