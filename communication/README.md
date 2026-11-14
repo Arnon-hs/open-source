@@ -267,7 +267,7 @@
 | 257 | [iktakahiro/calendarpit](./iktakahiro-calendarpit.md) | ⭐ 12 | — | 51/100 |
 | 258 | [Kandeepasundaram/Grit](./kandeepasundaram-grit.md) | ⭐ 1 | Python | 51/100 |
 | 259 | [cyrusimap/cyrus-imapd](./cyrusimap-cyrus-imapd.md) | ⭐ 654 | C | 51/100 |
-| 260 | [copilotKit/channels-sdk](./copilotkit-channels-sdk.md) | ⭐ 953 | — | 51/100 |
+| 260 | [copilotKit/channels-sdk](./copilotkit-channels-sdk.md) | ⭐ 954 | — | 51/100 |
 | 261 | [roehling/postsrsd](./roehling-postsrsd.md) | ⭐ 368 | C | 51/100 |
 | 262 | [SlimeBoyOwO/LingChat](./slimeboyowo-lingchat.md) | ⭐ 2.5k | Rust | 51/100 |
 | 263 | [themadorg/madmail](./themadorg-madmail.md) | ⭐ 209 | Rust | 51/100 |
@@ -294,7 +294,7 @@
 | 284 | [aio-libs/aiosmtpd](./aio-libs-aiosmtpd.md) | ⭐ 374 | Python | 49/100 |
 | 285 | [michaelmagan/OpenHuman](./michaelmagan-openhuman.md) | ⭐ 11 | — | 48/100 |
 | 286 | [Groundmail/groundhog](./groundmail-groundhog.md) | ⭐ 2 | — | 48/100 |
-| 287 | [d99kris/nmail](./d99kris-nmail.md) | ⭐ 267 | — | 48/100 |
+| 287 | [d99kris/nmail](./d99kris-nmail.md) | ⭐ 268 | — | 48/100 |
 | 288 | [roman-16/proton-cli](./roman-16-proton-cli.md) | ⭐ 109 | — | 48/100 |
 | 289 | [joshumax/git2imap](./joshumax-git2imap.md) | ⭐ 1 | — | 48/100 |
 | 290 | [slackhq/hakana](./slackhq-hakana.md) | ⭐ 111 | Rust | 48/100 |

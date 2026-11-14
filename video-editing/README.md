@@ -203,8 +203,8 @@
 | 193 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 103 | Swift | 67/100 |
 | 194 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 226 | Python | 67/100 |
 | 195 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 308 | TypeScript | 67/100 |
-| 196 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 379 | TypeScript | 67/100 |
-| 197 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
+| 196 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
+| 197 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 379 | TypeScript | 67/100 |
 | 198 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 239 | Go | 67/100 |
 | 199 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 200 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 133 | Python | 67/100 |
@@ -642,7 +642,7 @@
 | 632 | [term7/FFmpeg-A-short-Guide](./term7-ffmpeg-a-short-guide.md) | ⭐ 31 | Shell | 38/100 |
 | 633 | [bart6114/loofah](./bart6114-loofah.md) | ⭐ 15 | — | 38/100 |
 | 634 | [karamuhammet/Open-Editor-Dika-Studio-Community](./karamuhammet-open-editor-dika-studio-community.md) | ⭐ 4 | — | 38/100 |
-| 635 | [DonkeyCut/Donkey](./donkeycut-donkey.md) | ⭐ 336 | — | 38/100 |
+| 635 | [DonkeyCut/Donkey](./donkeycut-donkey.md) | ⭐ 337 | — | 38/100 |
 | 636 | [akshinmrv/Voxa](./akshinmrv-voxa.md) | ⭐ 20 | — | 38/100 |
 | 637 | [heng30/wayshot](./heng30-wayshot.md) | ⭐ 67 | — | 38/100 |
 | 638 | [rokib16x/listnr](./rokib16x-listnr.md) | ⭐ 17 | — | 38/100 |

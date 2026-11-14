@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21 |
+| ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 2 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 61/100 |
@@ -53,7 +53,7 @@ avivgerz-hue/ghost-qa：avivgerz-hue/ghost-qa helps catch security and privacy i
 
 **Quality signals**
 
-- 21 GitHub stars
+- 23 GitHub stars
 - 2 forks
 - updated 2026-11-12
 - primary language: TypeScript
@@ -66,7 +66,7 @@ avivgerz-hue/ghost-qa：avivgerz-hue/ghost-qa helps catch security and privacy i
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 61/100 |
+| quality | 62/100 |
 | integration | 46/100 |
 | production | 67/100 |
 | outlook | 73/100 |

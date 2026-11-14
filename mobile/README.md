@@ -492,7 +492,7 @@
 | 482 | [Belweave/iphone-duo-design](./belweave-iphone-duo-design.md) | ⭐ 8 | — | 45/100 |
 | 483 | [AgentVis-OS/aiphone_assistant](./agentvis-os-aiphone-assistant.md) | ⭐ 16 | — | 45/100 |
 | 484 | [dashersw/macinspector](./dashersw-macinspector.md) | ⭐ 10 | — | 45/100 |
-| 485 | [cryptrr/AutoPie](./cryptrr-autopie.md) | ⭐ 310 | — | 45/100 |
+| 485 | [cryptrr/AutoPie](./cryptrr-autopie.md) | ⭐ 312 | — | 45/100 |
 | 486 | [verdeoc/reply-push-v2](./verdeoc-reply-push-v2.md) | ⭐ 2 | — | 45/100 |
 | 487 | [im-fahad/OwnDesk](./im-fahad-owndesk.md) | ⭐ 6 | Swift | 45/100 |
 | 488 | [nev3rfail/harness.apk](./nev3rfail-harness.apk.md) | ⭐ 3 | — | 45/100 |
@@ -524,8 +524,8 @@
 | 514 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 548 | Kotlin | 44/100 |
 | 515 | [WafflingNinja/waffleboost](./wafflingninja-waffleboost.md) | ⭐ 10 | Kotlin | 44/100 |
 | 516 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 22 | Kotlin | 43/100 |
-| 517 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 993 | — | 43/100 |
-| 518 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
+| 517 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
+| 518 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 993 | — | 43/100 |
 | 519 | [kuscholar/iDeck](./kuscholar-ideck.md) | ⭐ 415 | C | 43/100 |
 | 520 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 2 | JavaScript | 43/100 |
 | 521 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 10 | Kotlin | 43/100 |
@@ -594,7 +594,7 @@
 | 584 | [xtool-org/xtool](./xtool-org-xtool.md) | ⭐ 15.4k | — | 41/100 |
 | 585 | [lucianRME/rme-pdf-scanner](./lucianrme-rme-pdf-scanner.md) | ⭐ 8 | — | 41/100 |
 | 586 | [tortugarr/tortugarr](./tortugarr-tortugarr.md) | ⭐ 5 | — | 41/100 |
-| 587 | [c22dev/muguet](./c22dev-muguet.md) | ⭐ 815 | — | 41/100 |
+| 587 | [c22dev/muguet](./c22dev-muguet.md) | ⭐ 817 | — | 41/100 |
 | 588 | [LordixDemon/apple_watch_connector](./lordixdemon-apple-watch-connector.md) | ⭐ 711 | — | 41/100 |
 | 589 | [kksimp/Mac.apk-Releases](./kksimp-mac.apk-releases.md) | ⭐ — | — | 41/100 |
 | 590 | [Brianali-codes/Frapp](./brianali-codes-frapp.md) | ⭐ 40 | — | 41/100 |
@@ -604,7 +604,7 @@
 | 594 | [joshuaswarren/omarchy-apple-dev](./joshuaswarren-omarchy-apple-dev.md) | ⭐ 1.9k | — | 41/100 |
 | 595 | [bouhafara-bot/10ed249b1005d61397a621621edf4892](./bouhafara-bot-10ed249b1005d61397a621621edf4892.md) | ⭐ — | — | 41/100 |
 | 596 | [filippofinke/sideloop](./filippofinke-sideloop.md) | ⭐ 50 | — | 41/100 |
-| 597 | [Droid-Deck/DroidDeck](./droid-deck-droiddeck.md) | ⭐ 19.8k | — | 41/100 |
+| 597 | [Droid-Deck/DroidDeck](./droid-deck-droiddeck.md) | ⭐ 20k | — | 41/100 |
 | 598 | [atgreen/evergreen](./atgreen-evergreen.md) | ⭐ 66 | — | 41/100 |
 | 599 | [AnaaySampat/jarvis](./anaaysampat-jarvis.md) | ⭐ 32 | — | 41/100 |
 | 600 | [wasi-master/wmkeyboard](./wasi-master-wmkeyboard.md) | ⭐ 949 | — | 41/100 |

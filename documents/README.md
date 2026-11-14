@@ -702,7 +702,7 @@
 | 692 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ 36 | — | 38/100 |
 | 693 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
 | 694 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
-| 695 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 120 | — | 38/100 |
+| 695 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 122 | — | 38/100 |
 | 696 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 266 | — | 38/100 |
 | 697 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ 24 | — | 38/100 |
 | 698 | [asong56/rudoc](./asong56-rudoc.md) | ⭐ 39 | — | 38/100 |
@@ -749,8 +749,8 @@
 | 739 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ 2 | — | 38/100 |
 | 740 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 741 | [bruits/satteri](./bruits-satteri.md) | ⭐ 1.3k | — | 38/100 |
-| 742 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
-| 743 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 742 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
+| 743 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
 | 744 | [JagaTheGhost/visualmark-studio](./jagatheghost-visualmark-studio.md) | ⭐ 11 | JavaScript | 37/100 |
 | 745 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 746 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |

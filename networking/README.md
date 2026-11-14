@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 787 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 564 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
-| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
+| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
+| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.4k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -549,7 +549,7 @@
 | 539 | [red-orbita/bulwark-gateway](./red-orbita-bulwark-gateway.md) | ⭐ 8 | — | 46/100 |
 | 540 | [libp2p/py-libp2p](./libp2p-py-libp2p.md) | ⭐ 629 | — | 46/100 |
 | 541 | [valnesfjord/tg-ws-proxy-rs](./valnesfjord-tg-ws-proxy-rs.md) | ⭐ 297 | Rust | 46/100 |
-| 542 | [crp4222/PrivAiTe](./crp4222-privaite.md) | ⭐ 66 | — | 46/100 |
+| 542 | [crp4222/PrivAiTe](./crp4222-privaite.md) | ⭐ 67 | — | 46/100 |
 | 543 | [YoulianBoshi/vpn](./youlianboshi-vpn.md) | ⭐ 5.5k | — | 46/100 |
 | 544 | [qr243vbi/nekobox](./qr243vbi-nekobox.md) | ⭐ 1.5k | C++ | 46/100 |
 | 545 | [davidmhewitt/torrential](./davidmhewitt-torrential.md) | ⭐ 142 | Rust | 46/100 |
@@ -571,7 +571,7 @@
 | 561 | [aj200260/-client_vault_proxy](./aj200260--client-vault-proxy.md) | ⭐ — | — | 45/100 |
 | 562 | [ThatXliner/anvil](./thatxliner-anvil.md) | ⭐ 1 | — | 45/100 |
 | 563 | [kabirnarang39/wardline](./kabirnarang39-wardline.md) | ⭐ 17 | — | 45/100 |
-| 564 | [DerotLuna/vpn-kongtrol](./derotluna-vpn-kongtrol.md) | ⭐ 6 | — | 45/100 |
+| 564 | [DerotLuna/vpn-kongtrol](./derotluna-vpn-kongtrol.md) | ⭐ 7 | — | 45/100 |
 | 565 | [genesisdb-io/genesisdb-orchestrator](./genesisdb-io-genesisdb-orchestrator.md) | ⭐ 1 | — | 45/100 |
 | 566 | [tkngate/tkngate](./tkngate-tkngate.md) | ⭐ 21 | — | 45/100 |
 | 567 | [kotro-labs/kotro-proxy-engine](./kotro-labs-kotro-proxy-engine.md) | ⭐ 9 | — | 45/100 |
@@ -582,8 +582,8 @@
 | 572 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 573 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 655 | — | 45/100 |
 | 574 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |
-| 575 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
-| 576 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 575 | [WireGuard/wireguard-apple](./wireguard-wireguard-apple.md) | ⭐ 1.4k | Swift | 44/100 |
+| 576 | [max-moser/network-manager-wireguard](./max-moser-network-manager-wireguard.md) | ⭐ 468 | C | 44/100 |
 | 577 | [WireGuard/wireguard-go](./wireguard-wireguard-go.md) | ⭐ 4.5k | — | 44/100 |
 | 578 | [afonsofrancof/doh-proxy](./afonsofrancof-doh-proxy.md) | ⭐ 3 | — | 44/100 |
 | 579 | [hoysengleang/wslog](./hoysengleang-wslog.md) | ⭐ 1 | TypeScript | 43/100 |

@@ -218,8 +218,8 @@
 | 208 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 32.2k | Go | 61/100 |
 | 209 | [docker/setup-buildx-action](./docker-setup-buildx-action.md) | ⭐ 1.4k | TypeScript | 60/100 |
 | 210 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 922 | Svelte | 60/100 |
-| 211 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
-| 212 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 211 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 212 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
 | 213 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 843 | JavaScript | 60/100 |
 | 214 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 32 | Nix | 60/100 |
 | 215 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 402 | Go | 60/100 |
@@ -427,7 +427,7 @@
 | 417 | [docker-library/repo-info](./docker-library-repo-info.md) | ⭐ 612 | Perl | 46/100 |
 | 418 | [signadot/hotrod](./signadot-hotrod.md) | ⭐ 23 | Go | 46/100 |
 | 419 | [Flurit/applygate](./flurit-applygate.md) | ⭐ 6 | — | 45/100 |
-| 420 | [docker/sandbox-kit-spec](./docker-sandbox-kit-spec.md) | ⭐ 190 | — | 45/100 |
+| 420 | [docker/sandbox-kit-spec](./docker-sandbox-kit-spec.md) | ⭐ 191 | — | 45/100 |
 | 421 | [tara-vision/taracode](./tara-vision-taracode.md) | ⭐ 51 | — | 45/100 |
 | 422 | [boundflow/charter](./boundflow-charter.md) | ⭐ 17 | — | 45/100 |
 | 423 | [egma-ai/egma](./egma-ai-egma.md) | ⭐ 147 | — | 45/100 |
@@ -548,7 +548,7 @@
 | 538 | [IceWhaleTech/CasaOS](./icewhaletech-casaos.md) | ⭐ 37.6k | — | 41/100 |
 | 539 | [Elpulgo/polysbx](./elpulgo-polysbx.md) | ⭐ 2 | — | 41/100 |
 | 540 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ 3 | — | 41/100 |
-| 541 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ 793 | — | 41/100 |
+| 541 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ 794 | — | 41/100 |
 | 542 | [kubernetes/community](./kubernetes-community.md) | ⭐ 13.1k | — | 40/100 |
 | 543 | [The-DevOps-Daily/soc2-evidence-collector](./the-devops-daily-soc2-evidence-collector.md) | ⭐ — | — | 39/100 |
 | 544 | [reachdiff/reachdiff](./reachdiff-reachdiff.md) | ⭐ — | Python | 39/100 |

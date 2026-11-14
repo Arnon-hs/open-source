@@ -311,8 +311,8 @@
 | 301 | [mingchen666/Reviva](./mingchen666-reviva.md) | ⭐ 334 | JavaScript | 61/100 |
 | 302 | [Anush008/fastembed-rs](./anush008-fastembed-rs.md) | ⭐ 1.1k | Rust | 61/100 |
 | 303 | [zilliztech/vector-graph-rag](./zilliztech-vector-graph-rag.md) | ⭐ 327 | Python | 61/100 |
-| 304 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 200 | C# | 61/100 |
-| 305 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 151 | Jupyter Notebook | 61/100 |
+| 304 | [Intugle/data-tools](./intugle-data-tools.md) | ⭐ 151 | Jupyter Notebook | 61/100 |
+| 305 | [mobitouchOS/MaIN.NET](./mobitouchos-main.net.md) | ⭐ 200 | C# | 61/100 |
 | 306 | [FutureUniant/WorkShadow](./futureuniant-workshadow.md) | ⭐ 3 | TypeScript | 61/100 |
 | 307 | [abraxas914/VESTI](./abraxas914-vesti.md) | ⭐ 360 | TypeScript | 61/100 |
 | 308 | [lux-db/lux](./lux-db-lux.md) | ⭐ 289 | Rust | 61/100 |
@@ -506,7 +506,7 @@
 | 496 | [supermemoryai/smfs](./supermemoryai-smfs.md) | ⭐ 493 | Rust | 51/100 |
 | 497 | [kreuzberg-dev/html-to-markdown](./kreuzberg-dev-html-to-markdown.md) | ⭐ 699 | HTML | 51/100 |
 | 498 | [sadrmanesh/llm-search-eval](./sadrmanesh-llm-search-eval.md) | ⭐ 2 | Python | 50/100 |
-| 499 | [calmrocks/ai-engineer-notebooks](./calmrocks-ai-engineer-notebooks.md) | ⭐ 747 | — | 50/100 |
+| 499 | [calmrocks/ai-engineer-notebooks](./calmrocks-ai-engineer-notebooks.md) | ⭐ 748 | — | 50/100 |
 | 500 | [nesall/phenixcode](./nesall-phenixcode.md) | ⭐ 21 | C++ | 50/100 |
 | 501 | [BAAI/bge-m3](./baai-bge-m3.md) | ⭐ 3.3k | sentence-transformers | 50/100 |
 | 502 | [TusKANNy/seismic](./tuskanny-seismic.md) | ⭐ 142 | Rust | 50/100 |
@@ -578,8 +578,8 @@
 | 568 | [madebyzan/knovum](./madebyzan-knovum.md) | ⭐ 56 | Rust | 43/100 |
 | 569 | [neromtoobad/aliquot](./neromtoobad-aliquot.md) | ⭐ — | TypeScript | 43/100 |
 | 570 | [GiulioDER/RE-call](./giulioder-re-call.md) | ⭐ 7 | — | 43/100 |
-| 571 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 43/100 |
-| 572 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 43/100 |
+| 571 | [earlgreyhot1701D/perseus-clew](./earlgreyhot1701d-perseus-clew.md) | ⭐ — | — | 43/100 |
+| 572 | [earlgreyhot1701D/hermes-clew](./earlgreyhot1701d-hermes-clew.md) | ⭐ — | — | 43/100 |
 | 573 | [muzinan123/production-rag-engineering](./muzinan123-production-rag-engineering.md) | ⭐ 3 | — | 43/100 |
 | 574 | [aryamore05/Somewhere](./aryamore05-somewhere.md) | ⭐ — | Python | 42/100 |
 | 575 | [oak-invest/kiso](./oak-invest-kiso.md) | ⭐ 58 | — | 42/100 |
@@ -602,7 +602,7 @@
 | 592 | [Srivatsa03/rag-redteam](./srivatsa03-rag-redteam.md) | ⭐ 30 | — | 42/100 |
 | 593 | [Jott2121/graph-guard](./jott2121-graph-guard.md) | ⭐ 2 | — | 42/100 |
 | 594 | [juliangeymonat-jpg/mothrag](./juliangeymonat-jpg-mothrag.md) | ⭐ 35 | — | 42/100 |
-| 595 | [busabase/busabase](./busabase-busabase.md) | ⭐ 845 | — | 42/100 |
+| 595 | [busabase/busabase](./busabase-busabase.md) | ⭐ 881 | — | 42/100 |
 | 596 | [epoch8/vedana](./epoch8-vedana.md) | ⭐ 19 | — | 42/100 |
 | 597 | [corbenicai/merlin-community](./corbenicai-merlin-community.md) | ⭐ — | — | 42/100 |
 | 598 | [colon-md/retrievalci](./colon-md-retrievalci.md) | ⭐ 1 | — | 42/100 |

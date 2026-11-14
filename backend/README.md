@@ -809,8 +809,8 @@
 | 799 | [sozercan/kaset](./sozercan-kaset.md) | ⭐ 2.6k | Swift | 55/100 |
 | 800 | [ClickHouse/clickhouse-js](./clickhouse-clickhouse-js.md) | ⭐ 332 | TypeScript | 55/100 |
 | 801 | [typegoose/typegoose](./typegoose-typegoose.md) | ⭐ 2.3k | TypeScript | 55/100 |
-| 802 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 403 | Python | 55/100 |
-| 803 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
+| 802 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
+| 803 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 403 | Python | 55/100 |
 | 804 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2.2k | JavaScript | 55/100 |
 | 805 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 271 | — | 55/100 |
 | 806 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 11.1k | Rust | 55/100 |
