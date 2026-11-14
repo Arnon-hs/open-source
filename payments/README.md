@@ -76,8 +76,8 @@
 | 66 | [ethibox/ethibox](./ethibox-ethibox.md) | ⭐ 260 | JavaScript | 66/100 |
 | 67 | [samber/ro](./samber-ro.md) | ⭐ 697 | Go | 66/100 |
 | 68 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.6k | TypeScript | 66/100 |
-| 69 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
-| 70 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.6k | Python | 66/100 |
+| 69 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.6k | Python | 66/100 |
+| 70 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
 | 71 | [librae8226/nexus4cc](./librae8226-nexus4cc.md) | ⭐ 134 | TypeScript | 65/100 |
 | 72 | [hugoii/llm-agent-audit](./hugoii-llm-agent-audit.md) | ⭐ 62 | Python | 65/100 |
 | 73 | [zmievsa/cadwyn](./zmievsa-cadwyn.md) | ⭐ 315 | Python | 65/100 |
@@ -234,8 +234,8 @@
 | 224 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 186 | PHP | 54/100 |
 | 225 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.8k | TypeScript | 54/100 |
 | 226 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 701 | — | 53/100 |
-| 228 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 577 | — | 53/100 |
+| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 577 | — | 53/100 |
+| 228 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 701 | — | 53/100 |
 | 229 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 230 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 231 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 90 | Rust | 53/100 |
@@ -286,8 +286,8 @@
 | 276 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 277 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 278 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 182 | HTML | 50/100 |
-| 279 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
-| 280 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 279 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
+| 280 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
 | 281 | [SirGrokkius/bot-agora](./sirgrokkius-bot-agora.md) | ⭐ — | HTML | 50/100 |
 | 282 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 283 | [Srinivas26k/Hekara](./srinivas26k-hekara.md) | ⭐ 1 | TypeScript | 49/100 |
@@ -356,7 +356,7 @@
 | 346 | [DanielIoni-creator/MyZubsterAPP](./danielioni-creator-myzubsterapp.md) | ⭐ — | — | 42/100 |
 | 347 | [wkoverfield/quilt](./wkoverfield-quilt.md) | ⭐ 7 | — | 42/100 |
 | 348 | [subtru/subtru](./subtru-subtru.md) | ⭐ 3 | C# | 42/100 |
-| 349 | [aidenixai/bootstrapped-credits](./aidenixai-bootstrapped-credits.md) | ⭐ — | — | 41/100 |
+| 349 | [aidenixai/bootstrapped-credits](./aidenixai-bootstrapped-credits.md) | ⭐ 1 | — | 41/100 |
 | 350 | [pgquiles/opencode-muse](./pgquiles-opencode-muse.md) | ⭐ 11 | — | 41/100 |
 | 351 | [alt-f6/edtech-billing-core](./alt-f6-edtech-billing-core.md) | ⭐ 1 | — | 41/100 |
 | 352 | [mortal7520/pci-scope-lens](./mortal7520-pci-scope-lens.md) | ⭐ — | — | 41/100 |
@@ -386,7 +386,7 @@
 | 376 | [abu-124/SupplierSignal-AI](./abu-124-suppliersignal-ai.md) | ⭐ — | Python | 39/100 |
 | 377 | [ujjavala/docgrity-vscode](./ujjavala-docgrity-vscode.md) | ⭐ — | TypeScript | 39/100 |
 | 378 | [felixpg13-glitch/spendshield](./felixpg13-glitch-spendshield.md) | ⭐ 2 | — | 38/100 |
-| 379 | [k7cfo/remove-your-data](./k7cfo-remove-your-data.md) | ⭐ 66 | — | 38/100 |
+| 379 | [k7cfo/remove-your-data](./k7cfo-remove-your-data.md) | ⭐ 124 | — | 38/100 |
 | 380 | [paoloanzn/pi-black](./paoloanzn-pi-black.md) | ⭐ 200 | — | 38/100 |
 | 381 | [quyumkehinde/driftless](./quyumkehinde-driftless.md) | ⭐ 8 | — | 38/100 |
 | 382 | [palamim/usagent](./palamim-usagent.md) | ⭐ — | — | 38/100 |

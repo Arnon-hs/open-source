@@ -314,8 +314,8 @@
 | 304 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 305 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 306 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 307 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
-| 308 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 307 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
+| 308 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
 | 309 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 310 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 311 | [ankurk91/rollcopy-desktop-app](./ankurk91-rollcopy-desktop-app.md) | ⭐ — | Rust | 43/100 |
@@ -356,7 +356,7 @@
 | 346 | [NathanAB/statusline-anywhere](./nathanab-statusline-anywhere.md) | ⭐ 5 | — | 41/100 |
 | 347 | [A-Akhil/Minimalist-Focus-Launcher](./a-akhil-minimalist-focus-launcher.md) | ⭐ 4 | Kotlin | 41/100 |
 | 348 | [frostymur/aerofi](./frostymur-aerofi.md) | ⭐ 21 | — | 41/100 |
-| 349 | [hashamtanveer-41/tubemerger](./hashamtanveer-41-tubemerger.md) | ⭐ 18 | — | 41/100 |
+| 349 | [hashamtanveer-41/tubemerger](./hashamtanveer-41-tubemerger.md) | ⭐ 19 | — | 41/100 |
 | 350 | [aescle/productivity-protocols](./aescle-productivity-protocols.md) | ⭐ 1 | — | 41/100 |
 | 351 | [mgueregath/condui](./mgueregath-condui.md) | ⭐ 11 | — | 41/100 |
 | 352 | [keshav-exe/shotput](./keshav-exe-shotput.md) | ⭐ 8 | — | 40/100 |
@@ -365,8 +365,8 @@
 | 355 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 356 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 357 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 358 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
-| 359 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 358 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 359 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
 | 360 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 361 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.8k | — | 38/100 |
 | 362 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

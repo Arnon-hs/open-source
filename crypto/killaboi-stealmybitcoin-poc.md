@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 1k |
+| ⭐ **Stars** | 1.1k |
 | 🍴 **Forks** | 148 |
 | 💻 **Language** | Unknown |
 | 📈 **Score** | 41/100 |

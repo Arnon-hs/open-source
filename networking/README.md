@@ -605,7 +605,7 @@
 | 595 | [matthewmrichter/moofport](./matthewmrichter-moofport.md) | ⭐ 11 | — | 41/100 |
 | 596 | [rmediatech/propylea](./rmediatech-propylea.md) | ⭐ 4 | — | 41/100 |
 | 597 | [usetrim/trim](./usetrim-trim.md) | ⭐ 3 | — | 41/100 |
-| 598 | [hakuxyz/rustdrop](./hakuxyz-rustdrop.md) | ⭐ 14 | — | 41/100 |
+| 598 | [hakuxyz/rustdrop](./hakuxyz-rustdrop.md) | ⭐ 15 | — | 41/100 |
 | 599 | [nicorobinreal/molehill](./nicorobinreal-molehill.md) | ⭐ 4 | — | 41/100 |
 | 600 | [dex0shubham/pith](./dex0shubham-pith.md) | ⭐ 3 | — | 41/100 |
 | 601 | [Qbix/proxy](./qbix-proxy.md) | ⭐ 14 | — | 41/100 |

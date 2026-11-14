@@ -191,7 +191,7 @@
 | 181 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ 738 | — | 38/100 |
 | 182 | [adam-maj/tiny-gpu](./adam-maj-tiny-gpu.md) | ⭐ 13.2k | — | 38/100 |
 | 183 | [Xm3Ga/architecture-design](./xm3ga-architecture-design.md) | ⭐ 1 | — | 38/100 |
-| 184 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ 116 | — | 38/100 |
+| 184 | [KeplSiv/FolderForge](./keplsiv-folderforge.md) | ⭐ 117 | — | 38/100 |
 | 185 | [scroobius-pip/fudge-design-md](./scroobius-pip-fudge-design-md.md) | ⭐ — | — | 38/100 |
 | 186 | [PJHkorea/fluidic-expert-fabric](./pjhkorea-fluidic-expert-fabric.md) | ⭐ 2 | — | 38/100 |
 | 187 | [shafu0x/MicroStable](./shafu0x-microstable.md) | ⭐ 78 | — | 38/100 |

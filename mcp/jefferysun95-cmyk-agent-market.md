@@ -1,6 +1,6 @@
 # jefferysun95-cmyk/agent-market
 
-[![Stars](https://img.shields.io/github/stars/jefferysun95-cmyk/agent-market?style=flat-square&color=yellow)](https://github.com/jefferysun95-cmyk/agent-market/stargazers) [![Forks](https://img.shields.io/github/forks/jefferysun95-cmyk/agent-market?style=flat-square&color=blue)](https://github.com/jefferysun95-cmyk/agent-market/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/jefferysun95-cmyk/agent-market?style=flat-square&color=yellow)](https://github.com/jefferysun95-cmyk/agent-market/stargazers) [![Forks](https://img.shields.io/github/forks/jefferysun95-cmyk/agent-market?style=flat-square&color=blue)](https://github.com/jefferysun95-cmyk/agent-market/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-58%2F100-brightgreen?style=flat-square)](#)
 
 > Connect AI agents to delegate data tasks, find matching capabilities and collaborate across harnesses. Discover suppliers, agree on terms and verify results. Free preview.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 3 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 61/100 |
+| 📈 **Score** | 58/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ jefferysun95-cmyk/agent-market：jefferysun95-cmyk/agent-market helps connect AI
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 55/100 |
+| quality | 50/100 |
 | integration | 62/100 |
-| production | 67/100 |
-| outlook | 69/100 |
+| production | 60/100 |
+| outlook | 62/100 |
 | adoption | 9/100 |
 | categoryMatchCount | 400/100 |
 | stars | 13/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

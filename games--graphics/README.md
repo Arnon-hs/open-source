@@ -345,7 +345,7 @@
 | 335 | [LaurentiuGabriel/retro-break](./laurentiugabriel-retro-break.md) | ⭐ 2 | — | 41/100 |
 | 336 | [leonlarsson/isometrics](./leonlarsson-isometrics.md) | ⭐ 1 | — | 41/100 |
 | 337 | [akoaysigod/pocket_saturn_core](./akoaysigod-pocket-saturn-core.md) | ⭐ 19 | — | 41/100 |
-| 338 | [horizon-rust/horizon](./horizon-rust-horizon.md) | ⭐ 9.3k | — | 41/100 |
+| 338 | [horizon-rust/horizon](./horizon-rust-horizon.md) | ⭐ 9.5k | — | 41/100 |
 | 339 | [tinyBigGAMES/VindexLLM](./tinybiggames-vindexllm.md) | ⭐ 75 | — | 41/100 |
 | 340 | [oathshaper/oathshaper](./oathshaper-oathshaper.md) | ⭐ 5 | — | 41/100 |
 | 341 | [mariuz/castle-quake2](./mariuz-castle-quake2.md) | ⭐ 10 | — | 41/100 |
