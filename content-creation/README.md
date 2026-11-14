@@ -152,7 +152,7 @@
 | 142 | [josh99smith/youtube-scraper](./josh99smith-youtube-scraper.md) | ⭐ — | — | 45/100 |
 | 143 | [ShadowKingYT444/unglazed](./shadowkingyt444-unglazed.md) | ⭐ 1 | — | 45/100 |
 | 144 | [lettercamp/lettercamp](./lettercamp-lettercamp.md) | ⭐ 4 | — | 45/100 |
-| 145 | [MaxonT/aisync](./maxont-aisync.md) | ⭐ 43 | — | 45/100 |
+| 145 | [MaxonT/aisync](./maxont-aisync.md) | ⭐ 45 | — | 45/100 |
 | 146 | [GoogleChrome/modern-web-guidance](./googlechrome-modern-web-guidance.md) | ⭐ 14.2k | — | 45/100 |
 | 147 | [bquenin/qitt](./bquenin-qitt.md) | ⭐ 2 | — | 45/100 |
 | 148 | [Comfy-Org/Wan-2.2](./comfy-org-wan-2.2.md) | ⭐ 963 | diffusion-single-file | 45/100 |
@@ -162,8 +162,8 @@
 | 152 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 153 | [hci-yeo/AdaptiveAgentAvatar](./hci-yeo-adaptiveagentavatar.md) | ⭐ 4 | — | 44/100 |
 | 154 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 155 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 364 | — | 43/100 |
-| 156 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 155 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 156 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 364 | — | 43/100 |
 | 157 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 158 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 159 | [amananandrai/amananandrai](./amananandrai-amananandrai.md) | ⭐ — | — | 42/100 |
@@ -189,8 +189,8 @@
 | 179 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 180 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 181 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 182 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
-| 183 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 182 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
+| 183 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
 | 184 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 185 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 
