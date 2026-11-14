@@ -2,7 +2,7 @@
 
 > Databases, ETL, analytics, data infrastructure
 
-**380 projects** in this category.
+**381 projects** in this category.
 
 ## Projects
 
@@ -374,20 +374,21 @@
 | 364 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ 3 | — | 41/100 |
 | 365 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
 | 366 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 660 | Rust | 41/100 |
-| 367 | [MediaArea/MediaInfo](./mediaarea-mediainfo.md) | ⭐ — | — | 40/100 |
-| 368 | [caoccao/BetterMediaInfo](./caoccao-bettermediainfo.md) | ⭐ — | — | 40/100 |
+| 367 | [caoccao/BetterMediaInfo](./caoccao-bettermediainfo.md) | ⭐ — | — | 40/100 |
+| 368 | [MediaArea/MediaInfo](./mediaarea-mediainfo.md) | ⭐ — | — | 40/100 |
 | 369 | [SamiLehtinen/vcopy](./samilehtinen-vcopy.md) | ⭐ 1 | — | 40/100 |
 | 370 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 40/100 |
 | 371 | [nsijwali/WhoRuled](./nsijwali-whoruled.md) | ⭐ 1 | TypeScript | 40/100 |
 | 372 | [zhairAhmad/pakistan-address](./zhairahmad-pakistan-address.md) | ⭐ — | PHP | 40/100 |
-| 373 | [shilpidaswani/finkit](./shilpidaswani-finkit.md) | ⭐ — | TypeScript | 39/100 |
-| 374 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ 2 | Swift | 38/100 |
-| 375 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ 6 | — | 38/100 |
-| 376 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ 18 | — | 38/100 |
-| 377 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
-| 378 | [MegPhapha/EduDisruption-Index](./megphapha-edudisruption-index.md) | ⭐ — | HTML | 36/100 |
-| 379 | [Nidhi-bhai/backtestcard](./nidhi-bhai-backtestcard.md) | ⭐ — | HTML | 33/100 |
-| 380 | [vinamraa05/Recaller-Study](./vinamraa05-recaller-study.md) | ⭐ — | JavaScript | 32/100 |
+| 373 | [liulewis/supabase-audit-log-lite](./liulewis-supabase-audit-log-lite.md) | ⭐ — | PLpgSQL | 39/100 |
+| 374 | [shilpidaswani/finkit](./shilpidaswani-finkit.md) | ⭐ — | TypeScript | 39/100 |
+| 375 | [RobinWinters/fitness-event-data-pipeline](./robinwinters-fitness-event-data-pipeline.md) | ⭐ 2 | Swift | 38/100 |
+| 376 | [mljar/enrichment](./mljar-enrichment.md) | ⭐ 6 | — | 38/100 |
+| 377 | [tabulai/metal-graph](./tabulai-metal-graph.md) | ⭐ 18 | — | 38/100 |
+| 378 | [data-centt/percentify](./data-centt-percentify.md) | ⭐ — | — | 38/100 |
+| 379 | [MegPhapha/EduDisruption-Index](./megphapha-edudisruption-index.md) | ⭐ — | HTML | 36/100 |
+| 380 | [Nidhi-bhai/backtestcard](./nidhi-bhai-backtestcard.md) | ⭐ — | HTML | 33/100 |
+| 381 | [vinamraa05/Recaller-Study](./vinamraa05-recaller-study.md) | ⭐ — | JavaScript | 32/100 |
 
 ---
 

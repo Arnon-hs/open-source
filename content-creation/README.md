@@ -39,7 +39,7 @@
 | 29 | [EvoLinkAI/awesome-seedance-2.5-guide](./evolinkai-awesome-seedance-2.5-guide.md) | ⭐ 392 | Shell | 73/100 |
 | 30 | [JoaquinRuiz/miscoshorts-ai](./joaquinruiz-miscoshorts-ai.md) | ⭐ 32 | Python | 72/100 |
 | 31 | [aiworkskills/wechat-article-skills](./aiworkskills-wechat-article-skills.md) | ⭐ 742 | Python | 72/100 |
-| 32 | [smixs/visual-skills](./smixs-visual-skills.md) | ⭐ 664 | — | 72/100 |
+| 32 | [smixs/visual-skills](./smixs-visual-skills.md) | ⭐ 671 | — | 72/100 |
 | 33 | [Haervwe/open-webui-tools](./haervwe-open-webui-tools.md) | ⭐ 837 | Python | 72/100 |
 | 34 | [ddalcu/mlx-serve](./ddalcu-mlx-serve.md) | ⭐ 2.5k | Zig | 72/100 |
 | 35 | [Notifuse/notifuse](./notifuse-notifuse.md) | ⭐ 2.3k | Go | 72/100 |
@@ -47,7 +47,7 @@
 | 37 | [mrbizarro/Phosphene](./mrbizarro-phosphene.md) | ⭐ 386 | Python | 71/100 |
 | 38 | [mehdreaming/tiktok-to-pinterest](./mehdreaming-tiktok-to-pinterest.md) | ⭐ 24 | — | 71/100 |
 | 39 | [OSideMedia/higgsfield-ai-prompt-skill](./osidemedia-higgsfield-ai-prompt-skill.md) | ⭐ 918 | Python | 71/100 |
-| 40 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 318 | Python | 71/100 |
+| 40 | [guaardvark/guaardvark](./guaardvark-guaardvark.md) | ⭐ 320 | Python | 71/100 |
 | 41 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 4.2k | TypeScript | 71/100 |
 | 42 | [PurpleDoubleD/locally-uncensored](./purpledoubled-locally-uncensored.md) | ⭐ 1.1k | TypeScript | 70/100 |
 | 43 | [cporter202/awesome-ai-tools](./cporter202-awesome-ai-tools.md) | ⭐ 326 | — | 70/100 |
@@ -161,8 +161,8 @@
 | 151 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 152 | [hci-yeo/AdaptiveAgentAvatar](./hci-yeo-adaptiveagentavatar.md) | ⭐ 4 | — | 44/100 |
 | 153 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 154 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
-| 155 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 361 | — | 43/100 |
+| 154 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 361 | — | 43/100 |
+| 155 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
 | 156 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 157 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 158 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |

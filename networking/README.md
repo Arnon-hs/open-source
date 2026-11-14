@@ -486,7 +486,7 @@
 | 476 | [ntex-rs/ntex](./ntex-rs-ntex.md) | ⭐ 2.6k | Rust | 51/100 |
 | 477 | [EasyTier/EasyTier](./easytier-easytier.md) | ⭐ 14.7k | Rust | 51/100 |
 | 478 | [amnezia-vpn/amneziawg-android](./amnezia-vpn-amneziawg-android.md) | ⭐ 596 | Kotlin | 50/100 |
-| 479 | [manic-systems/ncro](./manic-systems-ncro.md) | ⭐ 158 | Rust | 50/100 |
+| 479 | [manic-systems/ncro](./manic-systems-ncro.md) | ⭐ 159 | Rust | 50/100 |
 | 480 | [Ground-Zerro/HydraRoute](./ground-zerro-hydraroute.md) | ⭐ 665 | C | 50/100 |
 | 481 | [paritytech/litep2p](./paritytech-litep2p.md) | ⭐ 168 | Rust | 50/100 |
 | 482 | [confeden/Antigravity](./confeden-antigravity.md) | ⭐ 1.3k | Rust | 50/100 |
@@ -537,7 +537,7 @@
 | 527 | [pivpn/pivpn](./pivpn-pivpn.md) | ⭐ 8.1k | Shell | 47/100 |
 | 528 | [aecsocket/aeronet](./aecsocket-aeronet.md) | ⭐ 140 | Rust | 47/100 |
 | 529 | [CNMan/dnscrypt-proxy-config](./cnman-dnscrypt-proxy-config.md) | ⭐ 384 | Shell | 47/100 |
-| 530 | [shayanheidari01/ShineNETVPN](./shayanheidari01-shinenetvpn.md) | ⭐ 138 | Rust | 47/100 |
+| 530 | [shayanheidari01/ShineNETVPN](./shayanheidari01-shinenetvpn.md) | ⭐ 139 | Rust | 47/100 |
 | 531 | [Happ-proxy/happ-android](./happ-proxy-happ-android.md) | ⭐ 907 | — | 47/100 |
 | 532 | [PuddinCat/BestClash](./puddincat-bestclash.md) | ⭐ 2.1k | — | 47/100 |
 | 533 | [ecki/net-tools](./ecki-net-tools.md) | ⭐ 312 | C | 47/100 |
@@ -548,7 +548,7 @@
 | 538 | [roosterkid/openproxylist](./roosterkid-openproxylist.md) | ⭐ 945 | — | 47/100 |
 | 539 | [red-orbita/bulwark-gateway](./red-orbita-bulwark-gateway.md) | ⭐ 8 | — | 46/100 |
 | 540 | [libp2p/py-libp2p](./libp2p-py-libp2p.md) | ⭐ 629 | — | 46/100 |
-| 541 | [valnesfjord/tg-ws-proxy-rs](./valnesfjord-tg-ws-proxy-rs.md) | ⭐ 295 | Rust | 46/100 |
+| 541 | [valnesfjord/tg-ws-proxy-rs](./valnesfjord-tg-ws-proxy-rs.md) | ⭐ 297 | Rust | 46/100 |
 | 542 | [crp4222/PrivAiTe](./crp4222-privaite.md) | ⭐ 66 | — | 46/100 |
 | 543 | [YoulianBoshi/vpn](./youlianboshi-vpn.md) | ⭐ 5.5k | — | 46/100 |
 | 544 | [qr243vbi/nekobox](./qr243vbi-nekobox.md) | ⭐ 1.5k | C++ | 46/100 |

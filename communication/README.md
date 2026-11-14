@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -155,7 +155,7 @@
 | 145 | [rafatosta/zapzap](./rafatosta-zapzap.md) | ⭐ 1.7k | Python | 60/100 |
 | 146 | [zoidsh/meru](./zoidsh-meru.md) | ⭐ 1k | TypeScript | 60/100 |
 | 147 | [molvqingtai/WebChat](./molvqingtai-webchat.md) | ⭐ 2.6k | TypeScript | 60/100 |
-| 148 | [iamxvbaba/gramsrv](./iamxvbaba-gramsrv.md) | ⭐ 143 | Go | 60/100 |
+| 148 | [iamxvbaba/gramsrv](./iamxvbaba-gramsrv.md) | ⭐ 144 | Go | 60/100 |
 | 149 | [greenmail-mail-test/greenmail](./greenmail-mail-test-greenmail.md) | ⭐ 755 | Java | 60/100 |
 | 150 | [miroslavpejic85/mirotalkc2c](./miroslavpejic85-mirotalkc2c.md) | ⭐ 521 | JavaScript | 60/100 |
 | 151 | [zfogg/ascii-chat](./zfogg-ascii-chat.md) | ⭐ 203 | C | 60/100 |
@@ -232,7 +232,7 @@
 | 222 | [Sharkord/sharkord](./sharkord-sharkord.md) | ⭐ 1.6k | TypeScript | 55/100 |
 | 223 | [jerryxff26-alt/dsh-delivery-board](./jerryxff26-alt-dsh-delivery-board.md) | ⭐ 4 | JavaScript | 54/100 |
 | 224 | [codeswithroh/baad-mein](./codeswithroh-baad-mein.md) | ⭐ — | TypeScript | 54/100 |
-| 225 | [NextOSP/comail](./nextosp-comail.md) | ⭐ 125 | Rust | 54/100 |
+| 225 | [NextOSP/comail](./nextosp-comail.md) | ⭐ 131 | Rust | 54/100 |
 | 226 | [swoosh/swoosh](./swoosh-swoosh.md) | ⭐ 1.5k | Elixir | 54/100 |
 | 227 | [Blaizzy/nativ](./blaizzy-nativ.md) | ⭐ 5 | Swift | 54/100 |
 | 228 | [tweedegolf/mailcrab](./tweedegolf-mailcrab.md) | ⭐ 1k | Rust | 54/100 |
@@ -314,7 +314,7 @@
 | 304 | [munimv2/federal-prize-feed](./munimv2-federal-prize-feed.md) | ⭐ — | Python | 46/100 |
 | 305 | [permissionlesstech/bitchat-android](./permissionlesstech-bitchat-android.md) | ⭐ 8k | Kotlin | 46/100 |
 | 306 | [persian-calendar/persian-calendar](./persian-calendar-persian-calendar.md) | ⭐ 997 | Kotlin | 46/100 |
-| 307 | [shbernal/buzon](./shbernal-buzon.md) | ⭐ — | — | 45/100 |
+| 307 | [shbernal/buzon](./shbernal-buzon.md) | ⭐ 1 | — | 45/100 |
 | 308 | [clumsy-ug/agentview-chat](./clumsy-ug-agentview-chat.md) | ⭐ — | — | 45/100 |
 | 309 | [armysarge/ham-radio-tools](./armysarge-ham-radio-tools.md) | ⭐ 3 | — | 45/100 |
 | 310 | [agentisend/agent-email-guard](./agentisend-agent-email-guard.md) | ⭐ 5 | — | 45/100 |
@@ -343,7 +343,7 @@
 | 333 | [stalwartlabs/mail-parser](./stalwartlabs-mail-parser.md) | ⭐ 481 | Rust | 45/100 |
 | 334 | [shellscape/jsx-email](./shellscape-jsx-email.md) | ⭐ 1.3k | TypeScript | 45/100 |
 | 335 | [continuwuity/continuwuity](./continuwuity-continuwuity.md) | ⭐ 1.2k | Rust | 45/100 |
-| 336 | [mautrix/gmessages](./mautrix-gmessages.md) | ⭐ — | — | 44/100 |
+| 336 | [mautrix/gmessages](./mautrix-gmessages.md) | ⭐ 204 | — | 44/100 |
 | 337 | [zicojiao/trick-or-take](./zicojiao-trick-or-take.md) | ⭐ — | JavaScript | 44/100 |
 | 338 | [mattmezza/vue-beautiful-chat](./mattmezza-vue-beautiful-chat.md) | ⭐ 1.6k | Vue | 44/100 |
 | 339 | [KnugiHK/WhatsApp-Chat-Exporter](./knugihk-whatsapp-chat-exporter.md) | ⭐ 1.3k | — | 44/100 |

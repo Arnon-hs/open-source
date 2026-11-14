@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -218,8 +218,8 @@
 | 208 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 32.2k | Go | 61/100 |
 | 209 | [docker/setup-buildx-action](./docker-setup-buildx-action.md) | ⭐ 1.4k | TypeScript | 60/100 |
 | 210 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 922 | Svelte | 60/100 |
-| 211 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
-| 212 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 211 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
+| 212 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
 | 213 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 843 | JavaScript | 60/100 |
 | 214 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 32 | Nix | 60/100 |
 | 215 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 402 | Go | 60/100 |
@@ -341,7 +341,7 @@
 | 331 | [elastic/terraform-provider-elasticstack](./elastic-terraform-provider-elasticstack.md) | ⭐ 211 | Go | 54/100 |
 | 332 | [influxdata/influxdata-docker](./influxdata-influxdata-docker.md) | ⭐ 364 | Shell | 54/100 |
 | 333 | [linuxserver/docker-qbittorrent](./linuxserver-docker-qbittorrent.md) | ⭐ 1.8k | Dockerfile | 54/100 |
-| 334 | [pando85/kaniop](./pando85-kaniop.md) | ⭐ 138 | Rust | 54/100 |
+| 334 | [pando85/kaniop](./pando85-kaniop.md) | ⭐ 139 | Rust | 54/100 |
 | 335 | [tailscale/terraform-provider-tailscale](./tailscale-terraform-provider-tailscale.md) | ⭐ 378 | Go | 54/100 |
 | 336 | [vdsm/virtual-dsm](./vdsm-virtual-dsm.md) | ⭐ 4k | Shell | 54/100 |
 | 337 | [NVIDIA/gpu-operator](./nvidia-gpu-operator.md) | ⭐ 3k | Go | 54/100 |
@@ -351,7 +351,7 @@
 | 341 | [kcp-dev/kcp](./kcp-dev-kcp.md) | ⭐ 2.9k | Go | 54/100 |
 | 342 | [Ursa-Minor-Beta/agent-factory-docker-api-ui](./ursa-minor-beta-agent-factory-docker-api-ui.md) | ⭐ 101 | — | 53/100 |
 | 343 | [adamdecaf/deadcheck](./adamdecaf-deadcheck.md) | ⭐ 334 | Go | 53/100 |
-| 344 | [gna1280072/LeePanel](./gna1280072-leepanel.md) | ⭐ 674 | Rust | 53/100 |
+| 344 | [gna1280072/LeePanel](./gna1280072-leepanel.md) | ⭐ 675 | Rust | 53/100 |
 | 345 | [linuxserver/docker-transmission](./linuxserver-docker-transmission.md) | ⭐ 742 | Dockerfile | 53/100 |
 | 346 | [VibePod/vibepod-cli](./vibepod-vibepod-cli.md) | ⭐ 193 | — | 53/100 |
 | 347 | [xunholy/k8s-gitops](./xunholy-k8s-gitops.md) | ⭐ 643 | PHP | 53/100 |
@@ -445,7 +445,7 @@
 | 435 | [openstack/openstack-helm](./openstack-openstack-helm.md) | ⭐ 580 | Shell | 45/100 |
 | 436 | [bondrenai/TriageLab](./bondrenai-triagelab.md) | ⭐ — | — | 44/100 |
 | 437 | [ChrispyBacon-dev/DockFlare](./chrispybacon-dev-dockflare.md) | ⭐ 2.5k | — | 44/100 |
-| 438 | [shakg/g-systemctl](./shakg-g-systemctl.md) | ⭐ 102 | — | 44/100 |
+| 438 | [shakg/g-systemctl](./shakg-g-systemctl.md) | ⭐ 103 | — | 44/100 |
 | 439 | [vitekube/vitekube](./vitekube-vitekube.md) | ⭐ 3 | — | 44/100 |
 | 440 | [dsx-ai-factory/nvke](./dsx-ai-factory-nvke.md) | ⭐ 1.2k | — | 44/100 |
 | 441 | [matty234/k8sman](./matty234-k8sman.md) | ⭐ 5 | — | 44/100 |
@@ -489,8 +489,8 @@
 | 479 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 480 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 481 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 482 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
-| 483 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 482 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 483 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
 | 484 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 485 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 486 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |
@@ -560,7 +560,7 @@
 | 550 | [polybar/polybar](./polybar-polybar.md) | ⭐ 15.4k | — | 39/100 |
 | 551 | [takundanashebmuchena-pixel/quantum-audit](./takundanashebmuchena-pixel-quantum-audit.md) | ⭐ — | — | 39/100 |
 | 552 | [brandonjsellam-Releone/verify-pqc](./brandonjsellam-releone-verify-pqc.md) | ⭐ — | — | 39/100 |
-| 553 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 145 | Rust | 39/100 |
+| 553 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 146 | Rust | 39/100 |
 | 554 | [weerocksllc/teamaibox](./weerocksllc-teamaibox.md) | ⭐ — | JavaScript | 39/100 |
 | 555 | [otterdeploy/otterdeploy](./otterdeploy-otterdeploy.md) | ⭐ 6 | — | 38/100 |
 | 556 | [AppsVortex/arness](./appsvortex-arness.md) | ⭐ 35 | — | 38/100 |

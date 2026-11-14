@@ -222,8 +222,8 @@
 | 212 | [xuxueli/xxl-boot](./xuxueli-xxl-boot.md) | ⭐ 360 | Java | 53/100 |
 | 213 | [cynicsketch/nix-mineral](./cynicsketch-nix-mineral.md) | ⭐ 581 | Nix | 53/100 |
 | 214 | [udecode/kitcn](./udecode-kitcn.md) | ⭐ 452 | TypeScript | 53/100 |
-| 215 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
-| 216 | [0xdea/augur](./0xdea-augur.md) | ⭐ 124 | Rust | 53/100 |
+| 215 | [0xdea/augur](./0xdea-augur.md) | ⭐ 124 | Rust | 53/100 |
+| 216 | [0xdea/haruspex](./0xdea-haruspex.md) | ⭐ 138 | Rust | 53/100 |
 | 217 | [DropsOfZut/awesome-security-weixin-official-accounts](./dropsofzut-awesome-security-weixin-official-accounts.md) | ⭐ 2.3k | — | 53/100 |
 | 218 | [polhenarejos/pico-hsm](./polhenarejos-pico-hsm.md) | ⭐ 597 | C | 53/100 |
 | 219 | [tkhq/qos](./tkhq-qos.md) | ⭐ 125 | Rust | 53/100 |
@@ -246,7 +246,7 @@
 | 236 | [CodeSentryAI/lockbud](./codesentryai-lockbud.md) | ⭐ — | Rust | 52/100 |
 | 237 | [LeChatP/RootAsRole](./lechatp-rootasrole.md) | ⭐ 334 | Rust | 52/100 |
 | 238 | [canonical/authd](./canonical-authd.md) | ⭐ 317 | Go | 52/100 |
-| 239 | [brycx/pasetors](./brycx-pasetors.md) | ⭐ 134 | Rust | 52/100 |
+| 239 | [brycx/pasetors](./brycx-pasetors.md) | ⭐ 135 | Rust | 52/100 |
 | 240 | [himmelblau-idm/himmelblau](./himmelblau-idm-himmelblau.md) | ⭐ 425 | Rust | 52/100 |
 | 241 | [ottosulin/awesome-ai-security](./ottosulin-awesome-ai-security.md) | ⭐ 1.6k | — | 52/100 |
 | 242 | [Kicksecure/security-misc](./kicksecure-security-misc.md) | ⭐ 599 | Shell | 52/100 |
@@ -271,9 +271,9 @@
 | 261 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 439 | HTML | 50/100 |
 | 262 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 263 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
-| 264 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 265 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
-| 266 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 264 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
+| 265 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 266 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
 | 267 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 268 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 531 | JavaScript | 50/100 |
 | 269 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.2k | TypeScript | 50/100 |
@@ -285,9 +285,9 @@
 | 275 | [dgenio/agentfence](./dgenio-agentfence.md) | ⭐ 6 | — | 49/100 |
 | 276 | [pmdroid/tesla-vehicle-command](./pmdroid-tesla-vehicle-command.md) | ⭐ 22 | C | 49/100 |
 | 277 | [tlepoint/fhe.rs](./tlepoint-fhe.rs.md) | ⭐ 267 | Rust | 49/100 |
-| 278 | [openai/fence](./openai-fence.md) | ⭐ 174 | Rust | 49/100 |
+| 278 | [openai/fence](./openai-fence.md) | ⭐ 175 | Rust | 49/100 |
 | 279 | [rustls/tokio-rustls](./rustls-tokio-rustls.md) | ⭐ 238 | Rust | 49/100 |
-| 280 | [GunduLabs/gaze](./gundulabs-gaze.md) | ⭐ 555 | Rust | 49/100 |
+| 280 | [GunduLabs/gaze](./gundulabs-gaze.md) | ⭐ 558 | Rust | 49/100 |
 | 281 | [FabianLars/tauri-plugin-oauth](./fabianlars-tauri-plugin-oauth.md) | ⭐ 216 | Rust | 49/100 |
 | 282 | [immunant/c2rust](./immunant-c2rust.md) | ⭐ 4.8k | Rust | 49/100 |
 | 283 | [EnergizedProtection/block](./energizedprotection-block.md) | ⭐ 2.8k | — | 49/100 |
@@ -302,7 +302,7 @@
 | 292 | [sardanioss/mitmcloak](./sardanioss-mitmcloak.md) | ⭐ 72 | — | 48/100 |
 | 293 | [faisalalidoka-stack/npm-audit-fix](./faisalalidoka-stack-npm-audit-fix.md) | ⭐ — | — | 48/100 |
 | 294 | [AliAmmar15/velonus-cli](./aliammar15-velonus-cli.md) | ⭐ 1 | — | 48/100 |
-| 295 | [automic-vault/automic-vault](./automic-vault-automic-vault.md) | ⭐ 610 | Rust | 48/100 |
+| 295 | [automic-vault/automic-vault](./automic-vault-automic-vault.md) | ⭐ 611 | Rust | 48/100 |
 | 296 | [thepartly/gatehouse](./thepartly-gatehouse.md) | ⭐ 354 | Rust | 48/100 |
 | 297 | [zuhayr-barhoumi/deadcert](./zuhayr-barhoumi-deadcert.md) | ⭐ — | — | 48/100 |
 | 298 | [TheMorpheus407/RepoLens](./themorpheus407-repolens.md) | ⭐ 304 | Shell | 48/100 |

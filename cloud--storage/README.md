@@ -82,7 +82,7 @@
 | 72 | [scality/Zenko](./scality-zenko.md) | ⭐ 675 | Gherkin | 70/100 |
 | 73 | [sameerk27/vigil365](./sameerk27-vigil365.md) | ⭐ 285 | C# | 70/100 |
 | 74 | [aboutcode-org/scancode-toolkit](./aboutcode-org-scancode-toolkit.md) | ⭐ 2.7k | Python | 70/100 |
-| 75 | [DaviReisVieira/stackport](./davireisvieira-stackport.md) | ⭐ 177 | TypeScript | 70/100 |
+| 75 | [DaviReisVieira/stackport](./davireisvieira-stackport.md) | ⭐ 178 | TypeScript | 70/100 |
 | 76 | [ory/oathkeeper](./ory-oathkeeper.md) | ⭐ 3.6k | Go | 70/100 |
 | 77 | [awslabs/mountpoint-s3](./awslabs-mountpoint-s3.md) | ⭐ 5.8k | Rust | 70/100 |
 | 78 | [juicedata/juicefs](./juicedata-juicefs.md) | ⭐ 14.7k | Go | 70/100 |
@@ -548,8 +548,8 @@
 | 538 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 539 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 540 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
-| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
 | 543 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 544 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 545 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |

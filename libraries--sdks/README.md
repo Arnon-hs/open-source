@@ -169,7 +169,7 @@
 | 159 | [rust-lang/rust-bindgen](./rust-lang-rust-bindgen.md) | ⭐ 5.3k | Rust | 57/100 |
 | 160 | [stellar/rs-soroban-sdk](./stellar-rs-soroban-sdk.md) | ⭐ 211 | Rust | 57/100 |
 | 161 | [esp-rs/esp-idf-sys](./esp-rs-esp-idf-sys.md) | ⭐ 405 | Rust | 57/100 |
-| 162 | [bitwarden/sdk-internal](./bitwarden-sdk-internal.md) | ⭐ 118 | Rust | 57/100 |
+| 162 | [bitwarden/sdk-internal](./bitwarden-sdk-internal.md) | ⭐ 119 | Rust | 57/100 |
 | 163 | [apache/avro-rs](./apache-avro-rs.md) | ⭐ 132 | Rust | 57/100 |
 | 164 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 458 | Kotlin | 57/100 |
 | 165 | [kubernetes-client/java](./kubernetes-client-java.md) | ⭐ 4k | Java | 57/100 |
@@ -286,7 +286,7 @@
 | 276 | [networkmanager-rs/nmrs](./networkmanager-rs-nmrs.md) | ⭐ 251 | Rust | 42/100 |
 | 277 | [thenativeweb/architecturekit-rust](./thenativeweb-architecturekit-rust.md) | ⭐ 4 | — | 41/100 |
 | 278 | [trencinodin-stack/arcstone-airlock-blueprint](./trencinodin-stack-arcstone-airlock-blueprint.md) | ⭐ — | — | 41/100 |
-| 279 | [dtolnay/semver-trick](./dtolnay-semver-trick.md) | ⭐ — | — | 41/100 |
+| 279 | [dtolnay/semver-trick](./dtolnay-semver-trick.md) | ⭐ 573 | — | 41/100 |
 | 280 | [glastor-core/hyper64](./glastor-core-hyper64.md) | ⭐ 1 | — | 41/100 |
 | 281 | [useswype/kotlin-pdfx](./useswype-kotlin-pdfx.md) | ⭐ 10 | — | 41/100 |
 | 282 | [openvi-foundation/openvue](./openvi-foundation-openvue.md) | ⭐ 442 | — | 41/100 |
