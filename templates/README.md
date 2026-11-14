@@ -349,7 +349,7 @@
 | 339 | [Polaris-Aeterna/loom-notes](./polaris-aeterna-loom-notes.md) | ⭐ 176 | TeX | 61/100 |
 | 340 | [patrickloeber/python-github-action-template](./patrickloeber-python-github-action-template.md) | ⭐ 337 | Python | 61/100 |
 | 341 | [djlint/djLint](./djlint-djlint.md) | ⭐ 958 | Python | 61/100 |
-| 342 | [pdfme/pdfme](./pdfme-pdfme.md) | ⭐ 5k | TypeScript | 61/100 |
+| 342 | [pdfme/pdfme](./pdfme-pdfme.md) | ⭐ 5.1k | TypeScript | 61/100 |
 | 343 | [adysec/nuclei_poc](./adysec-nuclei-poc.md) | ⭐ 2k | — | 61/100 |
 | 344 | [zhp910318/n8n-ai-automation-lab](./zhp910318-n8n-ai-automation-lab.md) | ⭐ — | — | 60/100 |
 | 345 | [feyninc/pulpie](./feyninc-pulpie.md) | ⭐ 80 | HTML | 60/100 |

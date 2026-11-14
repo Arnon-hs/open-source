@@ -477,8 +477,8 @@
 | 467 | [elastic/apm-server](./elastic-apm-server.md) | ⭐ 1.3k | Go | 63/100 |
 | 468 | [MicroPyramid/opensource-job-portal](./micropyramid-opensource-job-portal.md) | ⭐ 494 | HTML | 63/100 |
 | 469 | [joreilly/BikeShare](./joreilly-bikeshare.md) | ⭐ 828 | Jupyter Notebook | 63/100 |
-| 470 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 369 | TypeScript | 63/100 |
-| 471 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
+| 470 | [graphql-rust/graphql-client](./graphql-rust-graphql-client.md) | ⭐ 1.3k | Rust | 63/100 |
+| 471 | [artsy/metaphysics](./artsy-metaphysics.md) | ⭐ 369 | TypeScript | 63/100 |
 | 472 | [Karben233/bili-hardcore](./karben233-bili-hardcore.md) | ⭐ 2.4k | Rust | 63/100 |
 | 473 | [markitosgv/JWTRefreshTokenBundle](./markitosgv-jwtrefreshtokenbundle.md) | ⭐ 713 | PHP | 63/100 |
 | 474 | [ansible/vscode-ansible](./ansible-vscode-ansible.md) | ⭐ 492 | TypeScript | 63/100 |
@@ -615,7 +615,7 @@
 | 605 | [aload0/Cosmic-IDE](./aload0-cosmic-ide.md) | ⭐ 710 | Kotlin | 60/100 |
 | 606 | [semihalev/sdns](./semihalev-sdns.md) | ⭐ 1.1k | Go | 60/100 |
 | 607 | [gildas-lormeau/zip.js](./gildas-lormeau-zip.js.md) | ⭐ 3.9k | JavaScript | 60/100 |
-| 608 | [nodejs/corepack](./nodejs-corepack.md) | ⭐ 3.8k | TypeScript | 60/100 |
+| 608 | [nodejs/corepack](./nodejs-corepack.md) | ⭐ 3.9k | TypeScript | 60/100 |
 | 609 | [Nitrate/Nitrate](./nitrate-nitrate.md) | ⭐ 308 | Python | 60/100 |
 | 610 | [ACEmulator/ACE](./acemulator-ace.md) | ⭐ 348 | C# | 60/100 |
 | 611 | [orottier/web-audio-api-rs](./orottier-web-audio-api-rs.md) | ⭐ 393 | Rust | 60/100 |
@@ -632,7 +632,7 @@
 | 622 | [talkincode/toughradius](./talkincode-toughradius.md) | ⭐ 702 | Go | 60/100 |
 | 623 | [nartc/mapper](./nartc-mapper.md) | ⭐ 1k | TypeScript | 60/100 |
 | 624 | [SpyglassMC/Spyglass](./spyglassmc-spyglass.md) | ⭐ 479 | TypeScript | 60/100 |
-| 625 | [panva/node-oidc-provider](./panva-node-oidc-provider.md) | ⭐ 3.8k | JavaScript | 60/100 |
+| 625 | [panva/node-oidc-provider](./panva-node-oidc-provider.md) | ⭐ 3.9k | JavaScript | 60/100 |
 | 626 | [scottyzen/woonuxt](./scottyzen-woonuxt.md) | ⭐ 973 | TypeScript | 60/100 |
 | 627 | [ComunidadAylas/PackSquash](./comunidadaylas-packsquash.md) | ⭐ 872 | Rust | 60/100 |
 | 628 | [cabloy/cabloy](./cabloy-cabloy.md) | ⭐ 986 | TypeScript | 60/100 |
@@ -772,8 +772,8 @@
 | 762 | [inducer/relate](./inducer-relate.md) | ⭐ 438 | Python | 56/100 |
 | 763 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 489 | Go | 56/100 |
 | 764 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 193 | TypeScript | 56/100 |
-| 765 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
-| 766 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 431 | Java | 56/100 |
+| 765 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 431 | Java | 56/100 |
+| 766 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
 | 767 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 705 | Rust | 56/100 |
 | 768 | [nodejs/undici](./nodejs-undici.md) | ⭐ 7.7k | JavaScript | 56/100 |
 | 769 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 357 | Go | 56/100 |

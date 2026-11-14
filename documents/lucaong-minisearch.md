@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 6.2k |
-| 🍴 **Forks** | 176 |
+| 🍴 **Forks** | 177 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 72/100 |
 | 🗓️ **Last push** | 2026-11-09 |
@@ -52,8 +52,8 @@ lucaong/minisearch：lucaong/minisearch may be useful when its README and activi
 
 **Quality signals**
 
-- 6197 GitHub stars
-- 176 forks
+- 6199 GitHub stars
+- 177 forks
 - updated 2026-11-09
 - primary language: TypeScript
 - 18 topics

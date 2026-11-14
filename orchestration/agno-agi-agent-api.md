@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 344 |
+| ⭐ **Stars** | 345 |
 | 🍴 **Forks** | 67 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 53/100 |
@@ -53,7 +53,7 @@ agno-agi/agent-api：agno-agi/agent-api helps turn isolated prompts and tools in
 
 **Quality signals**
 
-- 344 GitHub stars
+- 345 GitHub stars
 - 67 forks
 - updated 2025-05-11
 - primary language: Python

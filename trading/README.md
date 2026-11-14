@@ -95,7 +95,7 @@
 | 85 | [RyanCodrai/turbovec](./ryancodrai-turbovec.md) | ⭐ 17.5k | Rust | 63/100 |
 | 86 | [AutomatedLab/AutomatedLab](./automatedlab-automatedlab.md) | ⭐ 2.2k | PowerShell | 63/100 |
 | 87 | [vnpy/vnpy](./vnpy-vnpy.md) | ⭐ 46.4k | Python | 63/100 |
-| 88 | [Jakeschincariol/day-trader-skill](./jakeschincariol-day-trader-skill.md) | ⭐ 7.4k | Python | 63/100 |
+| 88 | [Jakeschincariol/day-trader-skill](./jakeschincariol-day-trader-skill.md) | ⭐ 7.6k | Python | 63/100 |
 | 89 | [6551Team/opennews-mcp](./6551team-opennews-mcp.md) | ⭐ 2.4k | Python | 62/100 |
 | 90 | [brndnmtthws/thetagang](./brndnmtthws-thetagang.md) | ⭐ 2.8k | Python | 62/100 |
 | 91 | [Indemos/Terminal](./indemos-terminal.md) | ⭐ 66 | C# | 62/100 |
@@ -168,8 +168,8 @@
 | 158 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 159 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
 | 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 232 | Go | 52/100 |
-| 161 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
-| 162 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
+| 161 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
+| 162 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
 | 163 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 164 | [uselayer/uselayer-sdk](./uselayer-uselayer-sdk.md) | ⭐ 3 | — | 51/100 |
 | 165 | [weirdapps/etorotrade](./weirdapps-etorotrade.md) | ⭐ 39 | Python | 51/100 |

@@ -77,7 +77,7 @@
 | 67 | [kutovoys/xray-checker](./kutovoys-xray-checker.md) | ⭐ 940 | Go | 64/100 |
 | 68 | [prometheus/client_java](./prometheus-client-java.md) | ⭐ 2.3k | Java | 64/100 |
 | 69 | [grafana/grafana-operator](./grafana-grafana-operator.md) | ⭐ 1.4k | Go | 64/100 |
-| 70 | [sitespeedio/sitespeed.io](./sitespeedio-sitespeed.io.md) | ⭐ 5k | JavaScript | 64/100 |
+| 70 | [sitespeedio/sitespeed.io](./sitespeedio-sitespeed.io.md) | ⭐ 5.1k | JavaScript | 64/100 |
 | 71 | [prometheus-operator/kube-prometheus](./prometheus-operator-kube-prometheus.md) | ⭐ 7.8k | Jsonnet | 64/100 |
 | 72 | [open-telemetry/opentelemetry-operator](./open-telemetry-opentelemetry-operator.md) | ⭐ 1.8k | Go | 63/100 |
 | 73 | [emeryberger/CSrankings](./emeryberger-csrankings.md) | ⭐ 3.2k | Python | 63/100 |

@@ -1,6 +1,6 @@
 # Entelligence-AI/agentplay
 
-[![Stars](https://img.shields.io/github/stars/Entelligence-AI/agentplay?style=flat-square&color=yellow)](https://github.com/Entelligence-AI/agentplay/stargazers) [![Forks](https://img.shields.io/github/forks/Entelligence-AI/agentplay?style=flat-square&color=blue)](https://github.com/Entelligence-AI/agentplay/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-67%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Entelligence-AI/agentplay?style=flat-square&color=yellow)](https://github.com/Entelligence-AI/agentplay/stargazers) [![Forks](https://img.shields.io/github/forks/Entelligence-AI/agentplay?style=flat-square&color=blue)](https://github.com/Entelligence-AI/agentplay/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-68%2F100-brightgreen?style=flat-square)](#)
 
 > Replay your coding agent sessions as a map and a timeline
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 361 |
+| ⭐ **Stars** | 366 |
 | 🍴 **Forks** | 46 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 67/100 |
+| 📈 **Score** | 68/100 |
 | 🗓️ **Last push** | 2026-11-06 |
 | 🔍 **Source** | story-link |
 
@@ -53,7 +53,7 @@ Entelligence-AI/agentplay：Entelligence-AI/agentplay helps add AI capability wi
 
 **Quality signals**
 
-- 361 GitHub stars
+- 366 GitHub stars
 - 46 forks
 - updated 2026-11-06
 - primary language: Python
@@ -72,7 +72,7 @@ Entelligence-AI/agentplay：Entelligence-AI/agentplay helps add AI capability wi
 | outlook | 73/100 |
 | adoption | 51/100 |
 | categoryMatchCount | 100/100 |
-| stars | 54/100 |
+| stars | 55/100 |
 | forks | 42/100 |
 | recency | 80/100 |
 | topics | 100/100 |

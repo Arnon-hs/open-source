@@ -53,8 +53,8 @@ postmanlabs/newman：postmanlabs/newman helps teams reuse service infrastructure
 
 **Quality signals**
 
-- 7278 GitHub stars
-- 1231 forks
+- 7277 GitHub stars
+- 1232 forks
 - updated 2026-10-09
 - primary language: JavaScript
 - 8 topics

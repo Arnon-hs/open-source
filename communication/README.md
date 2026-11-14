@@ -202,7 +202,7 @@
 | 192 | [KashCal/KashCal](./kashcal-kashcal.md) | ⭐ 494 | Kotlin | 57/100 |
 | 193 | [movim/movim](./movim-movim.md) | ⭐ 2.1k | PHP | 57/100 |
 | 194 | [foundation/inky](./foundation-inky.md) | ⭐ 711 | Rust | 57/100 |
-| 195 | [chronotope/chrono](./chronotope-chrono.md) | ⭐ 4k | Rust | 57/100 |
+| 195 | [chronotope/chrono](./chronotope-chrono.md) | ⭐ 3.9k | Rust | 57/100 |
 | 196 | [deltachat/deltachat-ios](./deltachat-deltachat-ios.md) | ⭐ 462 | Swift | 57/100 |
 | 197 | [rmqtt/rmqtt](./rmqtt-rmqtt.md) | ⭐ 1.1k | Rust | 57/100 |
 | 198 | [linagora/tmail-flutter](./linagora-tmail-flutter.md) | ⭐ 666 | Dart | 57/100 |

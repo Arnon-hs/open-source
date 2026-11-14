@@ -326,7 +326,7 @@
 | 316 | [Moulberry/PandoraLauncher](./moulberry-pandoralauncher.md) | ⭐ 954 | Rust | 42/100 |
 | 317 | [fulsomenko/kanban](./fulsomenko-kanban.md) | ⭐ 103 | Rust | 42/100 |
 | 318 | [eon5942/timer](./eon5942-timer.md) | ⭐ — | — | 41/100 |
-| 319 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ — | — | 41/100 |
+| 319 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ 2 | — | 41/100 |
 | 320 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 321 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ 6 | — | 41/100 |
 | 322 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
