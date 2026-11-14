@@ -376,8 +376,8 @@
 | 366 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ 3 | — | 41/100 |
 | 367 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
 | 368 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 660 | Rust | 41/100 |
-| 369 | [caoccao/BetterMediaInfo](./caoccao-bettermediainfo.md) | ⭐ — | — | 40/100 |
-| 370 | [MediaArea/MediaInfo](./mediaarea-mediainfo.md) | ⭐ — | — | 40/100 |
+| 369 | [MediaArea/MediaInfo](./mediaarea-mediainfo.md) | ⭐ — | — | 40/100 |
+| 370 | [caoccao/BetterMediaInfo](./caoccao-bettermediainfo.md) | ⭐ — | — | 40/100 |
 | 371 | [SamiLehtinen/vcopy](./samilehtinen-vcopy.md) | ⭐ 1 | — | 40/100 |
 | 372 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 40/100 |
 | 373 | [nsijwali/WhoRuled](./nsijwali-whoruled.md) | ⭐ 1 | TypeScript | 40/100 |

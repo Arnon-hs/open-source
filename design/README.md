@@ -152,7 +152,7 @@
 | 142 | [swiftsellai-ssa/sticky](./swiftsellai-ssa-sticky.md) | ⭐ — | — | 42/100 |
 | 143 | [getzipzi/zipzi-2d](./getzipzi-zipzi-2d.md) | ⭐ 10 | — | 41/100 |
 | 144 | [brandrail-app/brandrail](./brandrail-app-brandrail.md) | ⭐ 1 | — | 41/100 |
-| 145 | [robbietilton/Compositor](./robbietilton-compositor.md) | ⭐ 18.6k | — | 41/100 |
+| 145 | [robbietilton/Compositor](./robbietilton-compositor.md) | ⭐ 18.7k | — | 41/100 |
 | 146 | [unicode-org/last-resort-font](./unicode-org-last-resort-font.md) | ⭐ 884 | — | 41/100 |
 | 147 | [BenchUp3D/editor](./benchup3d-editor.md) | ⭐ 806 | — | 41/100 |
 | 148 | [posterlet/amazing-posters](./posterlet-amazing-posters.md) | ⭐ 4 | — | 41/100 |

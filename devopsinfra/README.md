@@ -129,8 +129,8 @@
 | 119 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 9k | Go | 64/100 |
 | 120 | [tborychowski/self-hosted-cookbook](./tborychowski-self-hosted-cookbook.md) | ⭐ 1.3k | — | 64/100 |
 | 121 | [open-policy-agent/gatekeeper-library](./open-policy-agent-gatekeeper-library.md) | ⭐ 705 | Open Policy Agent | 64/100 |
-| 122 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 677 | Go | 64/100 |
-| 123 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
+| 122 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
+| 123 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 677 | Go | 64/100 |
 | 124 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 64/100 |
 | 125 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 331 | Python | 64/100 |
 | 126 | [mkubaczyk/helmsman](./mkubaczyk-helmsman.md) | ⭐ 1.5k | Go | 64/100 |
@@ -504,7 +504,7 @@
 | 494 | [tatsuikeda/sextant](./tatsuikeda-sextant.md) | ⭐ 1 | — | 41/100 |
 | 495 | [kelvindesman/cf-container-runners](./kelvindesman-cf-container-runners.md) | ⭐ — | — | 41/100 |
 | 496 | [greatPHPer/CloudRunner-Releases](./greatphper-cloudrunner-releases.md) | ⭐ — | — | 41/100 |
-| 497 | [aws/aws-emulator](./aws-aws-emulator.md) | ⭐ 6.8k | — | 41/100 |
+| 497 | [aws/aws-emulator](./aws-aws-emulator.md) | ⭐ 8k | — | 41/100 |
 | 498 | [hashicorp/vagrant](./hashicorp-vagrant.md) | ⭐ — | — | 41/100 |
 | 499 | [linsomniac/apt-cacher-ultra](./linsomniac-apt-cacher-ultra.md) | ⭐ 27 | — | 41/100 |
 | 500 | [giovantenne/nixorium](./giovantenne-nixorium.md) | ⭐ 67 | — | 41/100 |

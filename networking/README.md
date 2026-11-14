@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 787 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 564 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
-| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
+| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
+| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.4k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -600,7 +600,7 @@
 | 590 | [madeye/BaoLianDeng](./madeye-baoliandeng.md) | ⭐ 778 | Swift | 42/100 |
 | 591 | [naia-lib/naia](./naia-lib-naia.md) | ⭐ 1.2k | Rust | 42/100 |
 | 592 | [DennySORA/vpn-manager](./dennysora-vpn-manager.md) | ⭐ — | — | 41/100 |
-| 593 | [jkfran/stadiacast](./jkfran-stadiacast.md) | ⭐ 103 | — | 41/100 |
+| 593 | [jkfran/stadiacast](./jkfran-stadiacast.md) | ⭐ 120 | — | 41/100 |
 | 594 | [CLoaKY233/kith](./cloaky233-kith.md) | ⭐ 5 | — | 41/100 |
 | 595 | [matthewmrichter/moofport](./matthewmrichter-moofport.md) | ⭐ 11 | — | 41/100 |
 | 596 | [rmediatech/propylea](./rmediatech-propylea.md) | ⭐ 4 | — | 41/100 |
