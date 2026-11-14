@@ -24,7 +24,7 @@
 | 14 | [flightlessmango/MangoHud](./flightlessmango-mangohud.md) | ⭐ 9.2k | C | 67/100 |
 | 15 | [MonoGame/MonoGame](./monogame-monogame.md) | ⭐ 14.6k | C# | 67/100 |
 | 16 | [X11Libre/xserver](./x11libre-xserver.md) | ⭐ 4.8k | C | 67/100 |
-| 17 | [mrdoob/three.js](./mrdoob-three.js.md) | ⭐ 118.3k | JavaScript | 66/100 |
+| 17 | [mrdoob/three.js](./mrdoob-three.js.md) | ⭐ 118.4k | JavaScript | 66/100 |
 | 18 | [godot-go/godot-go](./godot-go-godot-go.md) | ⭐ 764 | Go | 66/100 |
 | 19 | [antvis/G2](./antvis-g2.md) | ⭐ 12.7k | TypeScript | 66/100 |
 | 20 | [vulkano-rs/vulkano](./vulkano-rs-vulkano.md) | ⭐ 5.2k | Rust | 66/100 |
@@ -66,7 +66,7 @@
 | 56 | [doitsujin/dxvk](./doitsujin-dxvk.md) | ⭐ 18.5k | C++ | 63/100 |
 | 57 | [bjornbytes/lovr](./bjornbytes-lovr.md) | ⭐ 2.6k | C | 63/100 |
 | 58 | [CesiumGS/cesium](./cesiumgs-cesium.md) | ⭐ 15.9k | JavaScript | 63/100 |
-| 59 | [4ian/GDevelop](./4ian-gdevelop.md) | ⭐ 28.8k | JavaScript | 63/100 |
+| 59 | [4ian/GDevelop](./4ian-gdevelop.md) | ⭐ 28.9k | JavaScript | 63/100 |
 | 60 | [visgl/luma.gl](./visgl-luma.gl.md) | ⭐ 2.5k | TypeScript | 63/100 |
 | 61 | [LunarG/gfxreconstruct](./lunarg-gfxreconstruct.md) | ⭐ 615 | C++ | 63/100 |
 | 62 | [XenolithEngine/xenolith-engine](./xenolithengine-xenolith-engine.md) | ⭐ 23 | C++ | 62/100 |
@@ -159,7 +159,7 @@
 | 149 | [ggez/ggez](./ggez-ggez.md) | ⭐ 4.7k | Rust | 58/100 |
 | 150 | [appsinacup/godot-rapier-physics](./appsinacup-godot-rapier-physics.md) | ⭐ 1k | Rust | 58/100 |
 | 151 | [KaijuEngine/kaiju](./kaijuengine-kaiju.md) | ⭐ 4.7k | Go | 58/100 |
-| 152 | [clockworklabs/SpacetimeDB](./clockworklabs-spacetimedb.md) | ⭐ 25.5k | Rust | 58/100 |
+| 152 | [clockworklabs/SpacetimeDB](./clockworklabs-spacetimedb.md) | ⭐ 25.6k | Rust | 58/100 |
 | 153 | [dodorare/crossbow](./dodorare-crossbow.md) | ⭐ 213 | Rust | 57/100 |
 | 154 | [racenis/tram-sdk](./racenis-tram-sdk.md) | ⭐ 417 | C++ | 57/100 |
 | 155 | [KytyPS5/KytyPS5](./kytyps5-kytyps5.md) | ⭐ 11.2k | C++ | 57/100 |

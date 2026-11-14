@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 40.1k |
-| 🍴 **Forks** | 8.5k |
+| ⭐ **Stars** | 40.2k |
+| 🍴 **Forks** | 8.6k |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 74/100 |
 | 🗓️ **Last push** | 2026-10-01 |

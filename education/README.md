@@ -8,7 +8,7 @@
 
 | # | Project | Stars | Language | Score |
 |---|---|---|---|---|
-| 1 | [firstcontributions/first-contributions](./firstcontributions-first-contributions.md) | ⭐ 56.8k | — | 69/100 |
+| 1 | [firstcontributions/first-contributions](./firstcontributions-first-contributions.md) | ⭐ 56.9k | — | 69/100 |
 | 2 | [mytechnotalent/Hacking-Windows](./mytechnotalent-hacking-windows.md) | ⭐ 1.6k | C | 65/100 |
 | 3 | [huangsam/ultimate-python](./huangsam-ultimate-python.md) | ⭐ 6k | Python | 64/100 |
 | 4 | [patrickmelorr-lang/Patroclito_class](./patrickmelorr-lang-patroclito-class.md) | ⭐ 1 | Python | 64/100 |

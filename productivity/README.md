@@ -20,7 +20,7 @@
 | 10 | [AlexanderPro/SmartSystemMenu](./alexanderpro-smartsystemmenu.md) | ⭐ 3.4k | C# | 75/100 |
 | 11 | [awslabs/tecli](./awslabs-tecli.md) | ⭐ 219 | Go | 75/100 |
 | 12 | [jeffreytse/zsh-vi-mode](./jeffreytse-zsh-vi-mode.md) | ⭐ 4.5k | Shell | 74/100 |
-| 13 | [responsively-org/responsively-app](./responsively-org-responsively-app.md) | ⭐ 25.5k | TypeScript | 74/100 |
+| 13 | [responsively-org/responsively-app](./responsively-org-responsively-app.md) | ⭐ 25.6k | TypeScript | 74/100 |
 | 14 | [jarun/nnn](./jarun-nnn.md) | ⭐ 22.1k | C | 74/100 |
 | 15 | [gdt050579/AppCUI-rs](./gdt050579-appcui-rs.md) | ⭐ 408 | Rust | 73/100 |
 | 16 | [Gaoyifei1011/GetStoreApp](./gaoyifei1011-getstoreapp.md) | ⭐ 1.5k | C# | 72/100 |
@@ -37,7 +37,7 @@
 | 27 | [ChurchTao/clipboard-rs](./churchtao-clipboard-rs.md) | ⭐ 181 | Rust | 70/100 |
 | 28 | [streetwriters/notesnook](./streetwriters-notesnook.md) | ⭐ 14.9k | TypeScript | 70/100 |
 | 29 | [Auto-Explore/GitComet](./auto-explore-gitcomet.md) | ⭐ 1k | Rust | 70/100 |
-| 30 | [files-community/Files](./files-community-files.md) | ⭐ 46.6k | C# | 70/100 |
+| 30 | [files-community/Files](./files-community-files.md) | ⭐ 46.7k | C# | 70/100 |
 | 31 | [0PandaDEV/Ziit](./0pandadev-ziit.md) | ⭐ 259 | TypeScript | 69/100 |
 | 32 | [BYTEDz/PCLink](./bytedz-pclink.md) | ⭐ 947 | Python | 69/100 |
 | 33 | [jaywcjlove/awesome-mac](./jaywcjlove-awesome-mac.md) | ⭐ 118.5k | Swift | 69/100 |
@@ -64,7 +64,7 @@
 | 54 | [AmineDjeghri/personal-os-setup](./aminedjeghri-personal-os-setup.md) | ⭐ 679 | Python | 66/100 |
 | 55 | [espanso/espanso](./espanso-espanso.md) | ⭐ 14.8k | Rust | 66/100 |
 | 56 | [kamiyaa/joshuto](./kamiyaa-joshuto.md) | ⭐ 3.7k | Rust | 66/100 |
-| 57 | [lfnovo/open-notebook](./lfnovo-open-notebook.md) | ⭐ 41.9k | TypeScript | 66/100 |
+| 57 | [lfnovo/open-notebook](./lfnovo-open-notebook.md) | ⭐ 42k | TypeScript | 66/100 |
 | 58 | [pycontribs/mk](./pycontribs-mk.md) | ⭐ 142 | Python | 66/100 |
 | 59 | [hydralauncher/hydra](./hydralauncher-hydra.md) | ⭐ 17.7k | TypeScript | 66/100 |
 | 60 | [rohansx/workz](./rohansx-workz.md) | ⭐ 93 | Rust | 66/100 |
@@ -146,7 +146,7 @@
 | 136 | [kra-mo/cartridges](./kra-mo-cartridges.md) | ⭐ 822 | Python | 59/100 |
 | 137 | [timholy/Revise.jl](./timholy-revise.jl.md) | ⭐ 1.4k | Julia | 59/100 |
 | 138 | [poetaman/arttime](./poetaman-arttime.md) | ⭐ 1.4k | Shell | 59/100 |
-| 139 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 135.6k | TypeScript | 59/100 |
+| 139 | [excalidraw/excalidraw](./excalidraw-excalidraw.md) | ⭐ 135.7k | TypeScript | 59/100 |
 | 140 | [carapace-sh/carapace-bin](./carapace-sh-carapace-bin.md) | ⭐ 2k | Go | 59/100 |
 | 141 | [scalacenter/bloop](./scalacenter-bloop.md) | ⭐ 946 | Scala | 59/100 |
 | 142 | [bdcdo/open-turkey](./bdcdo-open-turkey.md) | ⭐ 20 | Go | 58/100 |
@@ -330,8 +330,8 @@
 | 320 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ 2 | — | 41/100 |
 | 321 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 322 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ 6 | — | 41/100 |
-| 323 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
-| 324 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 21 | — | 41/100 |
+| 323 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 21 | — | 41/100 |
+| 324 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
 | 325 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 3 | — | 41/100 |
 | 326 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 327 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 3 | — | 41/100 |
@@ -365,8 +365,8 @@
 | 355 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 356 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 357 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 358 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
-| 359 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 358 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 359 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
 | 360 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 361 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.8k | — | 38/100 |
 | 362 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

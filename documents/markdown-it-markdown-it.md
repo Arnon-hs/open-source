@@ -1,6 +1,6 @@
 # markdown-it/markdown-it
 
-[![Stars](https://img.shields.io/github/stars/markdown-it/markdown-it?style=flat-square&color=yellow)](https://github.com/markdown-it/markdown-it/stargazers) [![Forks](https://img.shields.io/github/forks/markdown-it/markdown-it?style=flat-square&color=blue)](https://github.com/markdown-it/markdown-it/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-78%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/markdown-it/markdown-it?style=flat-square&color=yellow)](https://github.com/markdown-it/markdown-it/stargazers) [![Forks](https://img.shields.io/github/forks/markdown-it/markdown-it?style=flat-square&color=blue)](https://github.com/markdown-it/markdown-it/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
 
 > Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 22k |
 | 🍴 **Forks** | 1.8k |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 78/100 |
+| 📈 **Score** | 79/100 |
 | 🗓️ **Last push** | 2026-11-09 |
 | 🔍 **Source** | story-link |
 
@@ -52,7 +52,7 @@ markdown-it/markdown-it：markdown-it/markdown-it may be useful when its README 
 
 **Quality signals**
 
-- 22037 GitHub stars
+- 22038 GitHub stars
 - 1849 forks
 - updated 2026-11-09
 - primary language: TypeScript

@@ -30,9 +30,9 @@
 | 20 | [mangoszero/server](./mangoszero-server.md) | ⭐ 1k | C++ | 68/100 |
 | 21 | [commixproject/commix](./commixproject-commix.md) | ⭐ 5.9k | Python | 68/100 |
 | 22 | [PeculiarVentures/PKI.js](./peculiarventures-pki.js.md) | ⭐ 1.4k | TypeScript | 68/100 |
-| 23 | [danielmiessler/SecLists](./danielmiessler-seclists.md) | ⭐ 74.7k | PHP | 68/100 |
+| 23 | [danielmiessler/SecLists](./danielmiessler-seclists.md) | ⭐ 74.8k | PHP | 68/100 |
 | 24 | [giovantenne/lastsignal](./giovantenne-lastsignal.md) | ⭐ 761 | Ruby | 67/100 |
-| 25 | [AdguardTeam/AdGuardHome](./adguardteam-adguardhome.md) | ⭐ 38.4k | Go | 67/100 |
+| 25 | [AdguardTeam/AdGuardHome](./adguardteam-adguardhome.md) | ⭐ 38.5k | Go | 67/100 |
 | 26 | [OpenMage/magento-lts](./openmage-magento-lts.md) | ⭐ 938 | PHP | 66/100 |
 | 27 | [apache/casbin](./apache-casbin.md) | ⭐ 20.5k | Go | 66/100 |
 | 28 | [google/osv-scanner](./google-osv-scanner.md) | ⭐ 11.5k | Go | 66/100 |
@@ -488,9 +488,9 @@
 | 478 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 38/100 |
 | 479 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ 1.6k | — | 38/100 |
 | 480 | [openai/codex-security](./openai-codex-security.md) | ⭐ 13.5k | — | 38/100 |
-| 481 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
-| 482 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
-| 483 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 481 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 482 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
+| 483 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
 | 484 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ 415 | — | 38/100 |
 | 485 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
 | 486 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 38/100 |

@@ -1,6 +1,6 @@
 # rafaeladriano-web/aurafarming
 
-[![Stars](https://img.shields.io/github/stars/rafaeladriano-web/aurafarming?style=flat-square&color=yellow)](https://github.com/rafaeladriano-web/aurafarming/stargazers) [![Forks](https://img.shields.io/github/forks/rafaeladriano-web/aurafarming?style=flat-square&color=blue)](https://github.com/rafaeladriano-web/aurafarming/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/rafaeladriano-web/aurafarming?style=flat-square&color=yellow)](https://github.com/rafaeladriano-web/aurafarming/stargazers) [![Forks](https://img.shields.io/github/forks/rafaeladriano-web/aurafarming?style=flat-square&color=blue)](https://github.com/rafaeladriano-web/aurafarming/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -27,15 +27,15 @@ AI/ML · Backend
 
 ### English
 
-rafaeladriano-web/aurafarming: rafaeladriano-web/aurafarming helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rafaeladriano-web/aurafarming: rafaeladriano-web/aurafarming helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-rafaeladriano-web/aurafarming: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+rafaeladriano-web/aurafarming: open-source проект в категориях AI/ML, Backend. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-rafaeladriano-web/aurafarming：rafaeladriano-web/aurafarming helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+rafaeladriano-web/aurafarming：rafaeladriano-web/aurafarming helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
@@ -49,7 +49,7 @@ rafaeladriano-web/aurafarming：rafaeladriano-web/aurafarming helps add AI capab
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
-**Production readiness:** Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+**Production readiness:** Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 **Quality signals**
 
@@ -64,15 +64,15 @@ rafaeladriano-web/aurafarming：rafaeladriano-web/aurafarming helps add AI capab
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 40/100 |
+| quality | 35/100 |
 | integration | 50/100 |
-| production | 55/100 |
-| outlook | 56/100 |
+| production | 48/100 |
+| outlook | 49/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 200/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

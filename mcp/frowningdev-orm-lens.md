@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 108 |
-| 🍴 **Forks** | 30 |
+| ⭐ **Stars** | 110 |
+| 🍴 **Forks** | 38 |
 | 💻 **Language** | Python |
 | 📈 **Score** | 80/100 |
 | 🗓️ **Last push** | 2026-11-10 |
@@ -53,8 +53,8 @@ FROWNINGdev/orm-lens：FROWNINGdev/orm-lens helps connect AI assistants to real 
 
 **Quality signals**
 
-- 108 GitHub stars
-- 30 forks
+- 110 GitHub stars
+- 38 forks
 - updated 2026-11-10
 - primary language: Python
 - 20 topics
@@ -66,14 +66,14 @@ FROWNINGdev/orm-lens：FROWNINGdev/orm-lens helps connect AI assistants to real 
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 64/100 |
+| quality | 65/100 |
 | integration | 100/100 |
 | production | 71/100 |
-| outlook | 75/100 |
+| outlook | 76/100 |
 | adoption | 42/100 |
 | categoryMatchCount | 500/100 |
-| stars | 43/100 |
-| forks | 37/100 |
+| stars | 44/100 |
+| forks | 40/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

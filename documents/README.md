@@ -11,8 +11,8 @@
 | 1 | [strapi/strapi](./strapi-strapi.md) | ⭐ 73.5k | TypeScript | 85/100 |
 | 2 | [gotenberg/gotenberg](./gotenberg-gotenberg.md) | ⭐ 13.6k | Go | 80/100 |
 | 3 | [mediacms-io/mediacms](./mediacms-io-mediacms.md) | ⭐ 5.2k | JavaScript | 79/100 |
-| 4 | [NiklasRosenstein/pydoc-markdown](./niklasrosenstein-pydoc-markdown.md) | ⭐ 503 | Python | 78/100 |
-| 5 | [markdown-it/markdown-it](./markdown-it-markdown-it.md) | ⭐ 22k | TypeScript | 78/100 |
+| 4 | [markdown-it/markdown-it](./markdown-it-markdown-it.md) | ⭐ 22k | TypeScript | 79/100 |
+| 5 | [NiklasRosenstein/pydoc-markdown](./niklasrosenstein-pydoc-markdown.md) | ⭐ 503 | Python | 78/100 |
 | 6 | [papis/papis](./papis-papis.md) | ⭐ 1.8k | HTML | 77/100 |
 | 7 | [speakeasy-api/openapi](./speakeasy-api-openapi.md) | ⭐ 279 | Go | 76/100 |
 | 8 | [pdfcpu/pdfcpu](./pdfcpu-pdfcpu.md) | ⭐ 8.9k | Go | 76/100 |
@@ -44,7 +44,7 @@
 | 34 | [mdn/content](./mdn-content.md) | ⭐ 11.1k | Markdown | 71/100 |
 | 35 | [zuplo/zudoku](./zuplo-zudoku.md) | ⭐ 623 | TypeScript | 71/100 |
 | 36 | [avo-hq/avo](./avo-hq-avo.md) | ⭐ 1.8k | Ruby | 71/100 |
-| 37 | [usememos/memos](./usememos-memos.md) | ⭐ 64.4k | Go | 71/100 |
+| 37 | [usememos/memos](./usememos-memos.md) | ⭐ 64.5k | Go | 71/100 |
 | 38 | [bgreenwell/doxx](./bgreenwell-doxx.md) | ⭐ 3.8k | Rust | 70/100 |
 | 39 | [zufuliu/notepad4](./zufuliu-notepad4.md) | ⭐ 5.1k | C++ | 70/100 |
 | 40 | [itsthelore/rac-core](./itsthelore-rac-core.md) | ⭐ 94 | Python | 70/100 |
@@ -103,7 +103,7 @@
 | 93 | [JimmXinu/FanFicFare](./jimmxinu-fanficfare.md) | ⭐ 1.1k | Python | 66/100 |
 | 94 | [directus/directus](./directus-directus.md) | ⭐ 38.7k | TypeScript | 66/100 |
 | 95 | [peaceiris/actions-gh-pages](./peaceiris-actions-gh-pages.md) | ⭐ 5.4k | TypeScript | 65/100 |
-| 96 | [DigitalPlatDev/FreeDomain](./digitalplatdev-freedomain.md) | ⭐ 208.1k | Markdown | 65/100 |
+| 96 | [DigitalPlatDev/FreeDomain](./digitalplatdev-freedomain.md) | ⭐ 208.2k | Markdown | 65/100 |
 | 97 | [vuejs/vitepress](./vuejs-vitepress.md) | ⭐ 18.5k | TypeScript | 65/100 |
 | 98 | [jackyzha0/quartz](./jackyzha0-quartz.md) | ⭐ 13.6k | TypeScript | 65/100 |
 | 99 | [lepture/mistune](./lepture-mistune.md) | ⭐ 3.1k | Python | 65/100 |
@@ -701,8 +701,8 @@
 | 691 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |
 | 692 | [eigenpal/openparser](./eigenpal-openparser.md) | ⭐ 12 | — | 38/100 |
 | 693 | [DocSlicer/DocSlicer](./docslicer-docslicer.md) | ⭐ 36 | — | 38/100 |
-| 694 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
-| 695 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 694 | [MoonshotAI/Kimi-K3](./moonshotai-kimi-k3.md) | ⭐ — | — | 38/100 |
+| 695 | [fran-mora/foglio](./fran-mora-foglio.md) | ⭐ 5 | — | 38/100 |
 | 696 | [coddingtonbear/icloud-md](./coddingtonbear-icloud-md.md) | ⭐ 122 | — | 38/100 |
 | 697 | [I7T5/Edmund](./i7t5-edmund.md) | ⭐ 266 | — | 38/100 |
 | 698 | [panorama-lab/markdown](./panorama-lab-markdown.md) | ⭐ 24 | — | 38/100 |

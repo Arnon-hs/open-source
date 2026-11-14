@@ -22,7 +22,7 @@
 | 12 | [iipeace/guider](./iipeace-guider.md) | ⭐ 684 | Python | 72/100 |
 | 13 | [logtide-dev/logtide](./logtide-dev-logtide.md) | ⭐ 458 | TypeScript | 72/100 |
 | 14 | [ntop/ntopng](./ntop-ntopng.md) | ⭐ 8.3k | Lua | 72/100 |
-| 15 | [louislam/uptime-kuma](./louislam-uptime-kuma.md) | ⭐ 93.8k | JavaScript | 72/100 |
+| 15 | [louislam/uptime-kuma](./louislam-uptime-kuma.md) | ⭐ 94.2k | JavaScript | 72/100 |
 | 16 | [elastic/kibana](./elastic-kibana.md) | ⭐ 21.4k | TypeScript | 71/100 |
 | 17 | [prometheus-operator/prometheus-operator](./prometheus-operator-prometheus-operator.md) | ⭐ 10k | Go | 71/100 |
 | 18 | [inspektor-gadget/inspektor-gadget](./inspektor-gadget-inspektor-gadget.md) | ⭐ 3k | C | 71/100 |

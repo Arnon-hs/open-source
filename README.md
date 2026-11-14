@@ -38,15 +38,15 @@ Scores help shortlist candidates. They do not establish security, maintenance qu
 
 | Project | Stars at last observation | Score |
 | --- | ---: | ---: |
-| [n8n-io/n8n](./mcp/n8n-io-n8n.md) | 210,408 | 97/100 |
-| [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | 49,666 | 94/100 |
-| [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | 111,566 | 93/100 |
-| [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | 79,595 | 93/100 |
+| [n8n-io/n8n](./mcp/n8n-io-n8n.md) | 210,500 | 97/100 |
+| [sickn33/agentic-awesome-skills](./orchestration/sickn33-agentic-awesome-skills.md) | 49,712 | 94/100 |
+| [Panniantong/Agent-Reach](./mcp/panniantong-agent-reach.md) | 111,790 | 93/100 |
+| [headroomlabs-ai/headroom](./orchestration/headroomlabs-ai-headroom.md) | 79,670 | 93/100 |
 | [wasp-lang/open-saas](./templates/wasp-lang-open-saas.md) | 16,312 | 92/100 |
 | [xberg-io/xberg](./mcp/xberg-io-xberg.md) | 9,583 | 91/100 |
 | [xberg-io/kreuzberg](./mcp/xberg-io-kreuzberg.md) | 8,543 | 91/100 |
 | [diegosouzapw/OmniRoute](./mcp/diegosouzapw-omniroute.md) | 6,732 | 91/100 |
-| [langgenius/dify](./orchestration/langgenius-dify.md) | 161,117 | 91/100 |
+| [langgenius/dify](./orchestration/langgenius-dify.md) | 161,165 | 91/100 |
 | [firerpa/lamda](./mcp/firerpa-lamda.md) | 8,733 | 90/100 |
 
 ## Read the data

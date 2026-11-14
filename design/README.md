@@ -27,7 +27,7 @@
 | 17 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 910 | C# | 64/100 |
 | 18 | [kando-menu/kando](./kando-menu-kando.md) | ⭐ 6.6k | TypeScript | 63/100 |
 | 19 | [xiangechen/chili3d](./xiangechen-chili3d.md) | ⭐ 5k | TypeScript | 63/100 |
-| 20 | [monkeytypegame/monkeytype](./monkeytypegame-monkeytype.md) | ⭐ 21k | TypeScript | 63/100 |
+| 20 | [monkeytypegame/monkeytype](./monkeytypegame-monkeytype.md) | ⭐ 21.1k | TypeScript | 63/100 |
 | 21 | [psychopy/psychopy](./psychopy-psychopy.md) | ⭐ 2.1k | Python | 62/100 |
 | 22 | [xKiian/GeekedTest](./xkiian-geekedtest.md) | ⭐ 700 | Python | 62/100 |
 | 23 | [CCSH/IPTV](./ccsh-iptv.md) | ⭐ 552 | Python | 62/100 |
@@ -42,7 +42,7 @@
 | 32 | [eliheuer/img2bez](./eliheuer-img2bez.md) | ⭐ 164 | Rust | 60/100 |
 | 33 | [HMBSbige/BilibiliLiveRecordDownLoader](./hmbsbige-bilibililiverecorddownloader.md) | ⭐ 834 | C# | 60/100 |
 | 34 | [streetmix/streetmix](./streetmix-streetmix.md) | ⭐ 756 | TypeScript | 59/100 |
-| 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 109.6k | JavaScript | 59/100 |
+| 35 | [pbakaus/impeccable](./pbakaus-impeccable.md) | ⭐ 110.2k | JavaScript | 59/100 |
 | 36 | [openmediavault/openmediavault](./openmediavault-openmediavault.md) | ⭐ 7.1k | PHP | 59/100 |
 | 37 | [QwenLM/Qwen3-TTS](./qwenlm-qwen3-tts.md) | ⭐ 14.4k | Python | 58/100 |
 | 38 | [zxwk1998/vue-admin-arco](./zxwk1998-vue-admin-arco.md) | ⭐ 675 | Vue | 58/100 |

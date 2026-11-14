@@ -32,7 +32,7 @@
 | 22 | [pact-foundation/pact-js](./pact-foundation-pact-js.md) | ⭐ 1.8k | TypeScript | 73/100 |
 | 23 | [slackapi/bolt-js](./slackapi-bolt-js.md) | ⭐ 3k | TypeScript | 73/100 |
 | 24 | [ovh/venom](./ovh-venom.md) | ⭐ 1.2k | Go | 72/100 |
-| 25 | [chatwoot/chatwoot](./chatwoot-chatwoot.md) | ⭐ 39.8k | Ruby | 72/100 |
+| 25 | [chatwoot/chatwoot](./chatwoot-chatwoot.md) | ⭐ 39.9k | Ruby | 72/100 |
 | 26 | [rustmailer/bichon](./rustmailer-bichon.md) | ⭐ 2.1k | TypeScript | 72/100 |
 | 27 | [muhammedaksam/waha-tui](./muhammedaksam-waha-tui.md) | ⭐ 413 | TypeScript | 72/100 |
 | 28 | [jchultarsky/mirador](./jchultarsky-mirador.md) | ⭐ 328 | Rust | 71/100 |
@@ -86,8 +86,8 @@
 | 76 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 77 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 78 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 80 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 80 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 81 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 82 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 83 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
