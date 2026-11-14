@@ -85,8 +85,8 @@
 | 75 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 232 | Rust | 64/100 |
 | 76 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 77 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 78 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 334 | Go | 63/100 |
-| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 670 | Jupyter Notebook | 63/100 |
+| 78 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 670 | Jupyter Notebook | 63/100 |
+| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 334 | Go | 63/100 |
 | 80 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 81 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 82 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |
@@ -115,7 +115,7 @@
 | 105 | [qusong0627/QuantMind](./qusong0627-quantmind.md) | ⭐ 1.9k | Python | 60/100 |
 | 106 | [speedyapply/2027-AI-College-Jobs](./speedyapply-2027-ai-college-jobs.md) | ⭐ 6.6k | — | 60/100 |
 | 107 | [bennycode/trading-signals](./bennycode-trading-signals.md) | ⭐ 1k | TypeScript | 60/100 |
-| 108 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 87 | Python | 60/100 |
+| 108 | [valory-xyz/trader](./valory-xyz-trader.md) | ⭐ 88 | Python | 60/100 |
 | 109 | [ZhuLinsen/alphaevo](./zhulinsen-alphaevo.md) | ⭐ 221 | Python | 60/100 |
 | 110 | [nlethetech/nepse-quant-terminal](./nlethetech-nepse-quant-terminal.md) | ⭐ 208 | Python | 60/100 |
 | 111 | [Bhala-Srinivash/nse-trading-skills](./bhala-srinivash-nse-trading-skills.md) | ⭐ 62 | — | 60/100 |

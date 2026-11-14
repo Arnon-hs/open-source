@@ -108,8 +108,8 @@
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.5k | Kotlin | 61/100 |
 | 99 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 648 | Kotlin | 61/100 |
 | 100 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 264 | Kotlin | 61/100 |
-| 101 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 955 | C++ | 61/100 |
-| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
+| 101 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
+| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 955 | C++ | 61/100 |
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 923 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13.1k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.7k | Kotlin | 61/100 |
@@ -140,7 +140,7 @@
 | 130 | [material-components/material-components-android](./material-components-material-components-android.md) | ⭐ 17.5k | Java | 60/100 |
 | 131 | [soniqo/speech-swift](./soniqo-speech-swift.md) | ⭐ 1.3k | Swift | 60/100 |
 | 132 | [skiptools/skip](./skiptools-skip.md) | ⭐ 3.3k | Swift | 59/100 |
-| 133 | [moezakura/mux-pod](./moezakura-mux-pod.md) | ⭐ 119 | Dart | 59/100 |
+| 133 | [moezakura/mux-pod](./moezakura-mux-pod.md) | ⭐ 120 | Dart | 59/100 |
 | 134 | [Darkrock-Studios/hammer-editor](./darkrock-studios-hammer-editor.md) | ⭐ 816 | Kotlin | 59/100 |
 | 135 | [xlucn/oh-my-foss-android](./xlucn-oh-my-foss-android.md) | ⭐ 5.2k | — | 59/100 |
 | 136 | [HabitRPG/habitica-android](./habitrpg-habitica-android.md) | ⭐ 1.8k | Kotlin | 59/100 |
@@ -178,7 +178,7 @@
 | 168 | [termux/termux-x11](./termux-termux-x11.md) | ⭐ 5.1k | C | 58/100 |
 | 169 | [luben/zstd-jni](./luben-zstd-jni.md) | ⭐ 1.1k | C | 58/100 |
 | 170 | [migueldeicaza/SwiftTerm](./migueldeicaza-swiftterm.md) | ⭐ 1.8k | Swift | 58/100 |
-| 171 | [briqt/moke](./briqt-moke.md) | ⭐ 157 | Java | 58/100 |
+| 171 | [briqt/moke](./briqt-moke.md) | ⭐ 158 | Java | 58/100 |
 | 172 | [flutter/flutter-intellij](./flutter-flutter-intellij.md) | ⭐ 2k | Java | 58/100 |
 | 173 | [RHVoice/RHVoice](./rhvoice-rhvoice.md) | ⭐ 1.9k | C++ | 58/100 |
 | 174 | [googleads/googleads-mobile-android-examples](./googleads-googleads-mobile-android-examples.md) | ⭐ 1.9k | Java | 58/100 |
@@ -279,8 +279,8 @@
 | 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 570 | — | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 633 | Python | 55/100 |
-| 272 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
-| 273 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 272 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
+| 273 | [Dreamlinerm/Netflix-Prime-Auto-Skip](./dreamlinerm-netflix-prime-auto-skip.md) | ⭐ 623 | JavaScript | 55/100 |
 | 274 | [patzly/tack-android](./patzly-tack-android.md) | ⭐ 500 | Kotlin | 55/100 |
 | 275 | [Instawork/hyperview](./instawork-hyperview.md) | ⭐ 1.7k | TypeScript | 55/100 |
 | 276 | [andreknieriem/open-headunit](./andreknieriem-open-headunit.md) | ⭐ 3.3k | Kotlin | 55/100 |
@@ -437,7 +437,7 @@
 | 427 | [bitwarden/android](./bitwarden-android.md) | ⭐ 9.6k | Kotlin | 50/100 |
 | 428 | [wordpress-mobile/WordPress-Android](./wordpress-mobile-wordpress-android.md) | ⭐ 3.2k | Kotlin | 50/100 |
 | 429 | [Dweep4269/sideraven](./dweep4269-sideraven.md) | ⭐ 161 | Kotlin | 49/100 |
-| 430 | [voicute/onnx-wakeword](./voicute-onnx-wakeword.md) | ⭐ 90 | C | 49/100 |
+| 430 | [voicute/onnx-wakeword](./voicute-onnx-wakeword.md) | ⭐ 91 | C | 49/100 |
 | 431 | [latipun7/dotfiles](./latipun7-dotfiles.md) | ⭐ 41 | Shell | 49/100 |
 | 432 | [bjzhou/PhotonCamera](./bjzhou-photoncamera.md) | ⭐ 653 | Kotlin | 49/100 |
 | 433 | [Kindness-Kismet/only_player](./kindness-kismet-only-player.md) | ⭐ 491 | Kotlin | 49/100 |

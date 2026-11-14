@@ -146,8 +146,8 @@
 | 136 | [NiGhTTraX/ts-monorepo](./nighttrax-ts-monorepo.md) | ⭐ 1.6k | TypeScript | 72/100 |
 | 137 | [NVIDIA/cutlass](./nvidia-cutlass.md) | ⭐ 10.7k | C++ | 72/100 |
 | 138 | [wp-cli/scaffold-command](./wp-cli-scaffold-command.md) | ⭐ 173 | Gherkin | 72/100 |
-| 139 | [iPythoning/b2b-sdr-agent-template](./ipythoning-b2b-sdr-agent-template.md) | ⭐ 91 | Shell | 72/100 |
-| 140 | [fitlab-ai/agent-infra](./fitlab-ai-agent-infra.md) | ⭐ 87 | JavaScript | 72/100 |
+| 139 | [iPythoning/b2b-sdr-agent-template](./ipythoning-b2b-sdr-agent-template.md) | ⭐ 190 | Shell | 72/100 |
+| 140 | [fitlab-ai/agent-infra](./fitlab-ai-agent-infra.md) | ⭐ 88 | JavaScript | 72/100 |
 | 141 | [sammcj/agentic-coding](./sammcj-agentic-coding.md) | ⭐ 171 | Python | 72/100 |
 | 142 | [lbedner/aegis-stack](./lbedner-aegis-stack.md) | ⭐ 146 | Python | 72/100 |
 | 143 | [Dishant27/mcp-server-starter](./dishant27-mcp-server-starter.md) | ⭐ — | — | 71/100 |
@@ -177,7 +177,7 @@
 | 167 | [Railly/tinte](./railly-tinte.md) | ⭐ 630 | TypeScript | 70/100 |
 | 168 | [spring-projects/spring-data-elasticsearch](./spring-projects-spring-data-elasticsearch.md) | ⭐ 3k | Java | 70/100 |
 | 169 | [SilentVoid13/Templater](./silentvoid13-templater.md) | ⭐ 5.4k | TypeScript | 70/100 |
-| 170 | [developer2013/bricks-mcp-open](./developer2013-bricks-mcp-open.md) | ⭐ 94 | PHP | 70/100 |
+| 170 | [developer2013/bricks-mcp-open](./developer2013-bricks-mcp-open.md) | ⭐ 95 | PHP | 70/100 |
 | 171 | [nadimtuhin/claude-token-optimizer](./nadimtuhin-claude-token-optimizer.md) | ⭐ 654 | JavaScript | 70/100 |
 | 172 | [BlessedRebuS/Krawl](./blessedrebus-krawl.md) | ⭐ 840 | HTML | 70/100 |
 | 173 | [projectdiscovery/nuclei-templates](./projectdiscovery-nuclei-templates.md) | ⭐ 13.3k | JavaScript | 70/100 |
@@ -204,7 +204,7 @@
 | 194 | [hoangnb24/repository-harness](./hoangnb24-repository-harness.md) | ⭐ 1.3k | Rust | 69/100 |
 | 195 | [golang-templates/seed](./golang-templates-seed.md) | ⭐ 566 | Makefile | 69/100 |
 | 196 | [pilinux/gorest](./pilinux-gorest.md) | ⭐ 508 | Go | 69/100 |
-| 197 | [ai-driven-dev/framework](./ai-driven-dev-framework.md) | ⭐ 556 | JavaScript | 69/100 |
+| 197 | [ai-driven-dev/framework](./ai-driven-dev-framework.md) | ⭐ 557 | JavaScript | 69/100 |
 | 198 | [sveltejs/svelte](./sveltejs-svelte.md) | ⭐ 88.7k | JavaScript | 69/100 |
 | 199 | [AlekseiUL/agentforge-openclaw](./alekseiul-agentforge-openclaw.md) | ⭐ 44 | — | 69/100 |
 | 200 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 978 | Go Template | 69/100 |
@@ -213,7 +213,7 @@
 | 203 | [n8n-io/self-hosted-ai-starter-kit](./n8n-io-self-hosted-ai-starter-kit.md) | ⭐ 15.4k | — | 68/100 |
 | 204 | [fabwaseem/forgekit](./fabwaseem-forgekit.md) | ⭐ — | TypeScript | 68/100 |
 | 205 | [MinaSaad1/n8n-ai-agents](./minasaad1-n8n-ai-agents.md) | ⭐ 13 | — | 68/100 |
-| 206 | [ZSeven-W/dsh-crew](./zseven-w-dsh-crew.md) | ⭐ 212 | JavaScript | 68/100 |
+| 206 | [ZSeven-W/dsh-crew](./zseven-w-dsh-crew.md) | ⭐ 214 | JavaScript | 68/100 |
 | 207 | [Naresh-Khatri/3d-portfolio](./naresh-khatri-3d-portfolio.md) | ⭐ 1.3k | TypeScript | 68/100 |
 | 208 | [egvijayanand/dotnet-maui-templates](./egvijayanand-dotnet-maui-templates.md) | ⭐ 217 | C# | 68/100 |
 | 209 | [sudara/awesome-juce](./sudara-awesome-juce.md) | ⭐ 1.4k | Ruby | 68/100 |
@@ -322,7 +322,7 @@
 | 312 | [Senpi-ai/senpi-skills](./senpi-ai-senpi-skills.md) | ⭐ 144 | Python | 62/100 |
 | 313 | [CloudPirates-io/helm-charts](./cloudpirates-io-helm-charts.md) | ⭐ 619 | Go Template | 62/100 |
 | 314 | [iAmCorey/coreychiu-portfolio-template](./iamcorey-coreychiu-portfolio-template.md) | ⭐ 459 | TypeScript | 62/100 |
-| 315 | [Miosa-osa/BusinessOS](./miosa-osa-businessos.md) | ⭐ 139 | Go | 62/100 |
+| 315 | [Miosa-osa/BusinessOS](./miosa-osa-businessos.md) | ⭐ 140 | Go | 62/100 |
 | 316 | [Roll20/roll20-character-sheets](./roll20-roll20-character-sheets.md) | ⭐ 1.2k | HTML | 62/100 |
 | 317 | [gaelcolas/Sampler](./gaelcolas-sampler.md) | ⭐ 245 | PowerShell | 62/100 |
 | 318 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 610 | Rust | 62/100 |

@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 21 |
+| ⭐ **Stars** | 23 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | JavaScript |
 | 📈 **Score** | 50/100 |
@@ -53,7 +53,7 @@ openwt-vn/owlet-lens：openwt-vn/owlet-lens helps add AI capability without star
 
 **Quality signals**
 
-- 21 GitHub stars
+- 23 GitHub stars
 - 1 forks
 - updated 2026-11-11
 - primary language: JavaScript

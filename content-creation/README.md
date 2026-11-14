@@ -14,7 +14,7 @@
 | 4 | [kodelyx/flow-agent](./kodelyx-flow-agent.md) | ⭐ 268 | Python | 82/100 |
 | 5 | [SamurAIGPT/muapi-cli](./samuraigpt-muapi-cli.md) | ⭐ 18 | Python | 82/100 |
 | 6 | [darkzOGx/youtube-automation-agent](./darkzogx-youtube-automation-agent.md) | ⭐ 5.2k | JavaScript | 80/100 |
-| 7 | [Ratimon/openquok-monorepo](./ratimon-openquok-monorepo.md) | ⭐ 106 | TypeScript | 79/100 |
+| 7 | [Ratimon/openquok-monorepo](./ratimon-openquok-monorepo.md) | ⭐ 107 | TypeScript | 79/100 |
 | 8 | [AuraVixStudio/caelo](./auravixstudio-caelo.md) | ⭐ 26 | Python | 79/100 |
 | 9 | [modelstudioai/cli](./modelstudioai-cli.md) | ⭐ 370 | TypeScript | 79/100 |
 | 10 | [neopen/story-shot-agent](./neopen-story-shot-agent.md) | ⭐ 239 | Python | 78/100 |
@@ -33,9 +33,9 @@
 | 23 | [heygen-com/heygen-cli](./heygen-com-heygen-cli.md) | ⭐ 174 | Go | 74/100 |
 | 24 | [vaaya-ai/vaaya-mcp](./vaaya-ai-vaaya-mcp.md) | ⭐ 44 | Shell | 74/100 |
 | 25 | [gongxings/ai-creator](./gongxings-ai-creator.md) | ⭐ 93 | Python | 74/100 |
-| 26 | [fendouai/ViralForge](./fendouai-viralforge.md) | ⭐ 70 | TypeScript | 73/100 |
+| 26 | [fendouai/ViralForge](./fendouai-viralforge.md) | ⭐ 128 | TypeScript | 73/100 |
 | 27 | [aman179102/podvoice](./aman179102-podvoice.md) | ⭐ 39 | Python | 73/100 |
-| 28 | [claude-world/claude-world-studio](./claude-world-claude-world-studio.md) | ⭐ 71 | TypeScript | 73/100 |
+| 28 | [claude-world/claude-world-studio](./claude-world-claude-world-studio.md) | ⭐ 72 | TypeScript | 73/100 |
 | 29 | [EvoLinkAI/awesome-seedance-2.5-guide](./evolinkai-awesome-seedance-2.5-guide.md) | ⭐ 392 | Shell | 73/100 |
 | 30 | [JoaquinRuiz/miscoshorts-ai](./joaquinruiz-miscoshorts-ai.md) | ⭐ 32 | Python | 72/100 |
 | 31 | [aiworkskills/wechat-article-skills](./aiworkskills-wechat-article-skills.md) | ⭐ 742 | Python | 72/100 |
@@ -97,7 +97,7 @@
 | 87 | [TechMitten/Origami-AI](./techmitten-origami-ai.md) | ⭐ 11 | TypeScript | 62/100 |
 | 88 | [BlackMixture/Mix-Studio](./blackmixture-mix-studio.md) | ⭐ 304 | JavaScript | 62/100 |
 | 89 | [FurkanGozukara/Stable-Diffusion](./furkangozukara-stable-diffusion.md) | ⭐ 2.8k | HTML | 62/100 |
-| 90 | [calesthio/generative-media-skills](./calesthio-generative-media-skills.md) | ⭐ 242 | Python | 62/100 |
+| 90 | [calesthio/generative-media-skills](./calesthio-generative-media-skills.md) | ⭐ 243 | Python | 62/100 |
 | 91 | [howoneai/xiaolin-explainer-packaging](./howoneai-xiaolin-explainer-packaging.md) | ⭐ 48 | TypeScript | 61/100 |
 | 92 | [frankzch/ai-news-skill](./frankzch-ai-news-skill.md) | ⭐ 24 | Python | 61/100 |
 | 93 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
@@ -161,8 +161,8 @@
 | 151 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 152 | [hci-yeo/AdaptiveAgentAvatar](./hci-yeo-adaptiveagentavatar.md) | ⭐ 4 | — | 44/100 |
 | 153 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 154 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 361 | — | 43/100 |
-| 155 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 154 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 155 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 361 | — | 43/100 |
 | 156 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 157 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 158 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |

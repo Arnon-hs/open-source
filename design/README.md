@@ -59,13 +59,13 @@
 | 49 | [CircuitVerse/CircuitVerse](./circuitverse-circuitverse.md) | ⭐ 1.3k | JavaScript | 57/100 |
 | 50 | [ecomfe/tempad-dev](./ecomfe-tempad-dev.md) | ⭐ 657 | TypeScript | 57/100 |
 | 51 | [RobotLocomotion/drake](./robotlocomotion-drake.md) | ⭐ 4.3k | C++ | 57/100 |
-| 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 719 | Python | 57/100 |
+| 52 | [Optima-CityU/LLM4AD_Next](./optima-cityu-llm4ad-next.md) | ⭐ 720 | Python | 57/100 |
 | 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 18 | JavaScript | 57/100 |
 | 54 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 354 | Lua | 56/100 |
 | 55 | [OpenOLAT/OpenOLAT](./openolat-openolat.md) | ⭐ 451 | Java | 56/100 |
 | 56 | [uswds/uswds-site](./uswds-uswds-site.md) | ⭐ 253 | HTML | 56/100 |
 | 57 | [nuxt/icon](./nuxt-icon.md) | ⭐ 1.2k | TypeScript | 56/100 |
-| 58 | [theexperiencecompany/keyloom](./theexperiencecompany-keyloom.md) | ⭐ 90 | TypeScript | 56/100 |
+| 58 | [theexperiencecompany/keyloom](./theexperiencecompany-keyloom.md) | ⭐ 89 | TypeScript | 56/100 |
 | 59 | [iiab/iiab](./iiab-iiab.md) | ⭐ 2k | Jinja | 56/100 |
 | 60 | [chsh2/nijiGPen](./chsh2-nijigpen.md) | ⭐ 387 | Python | 55/100 |
 | 61 | [pctrade/end4-pC](./pctrade-end4-pc.md) | ⭐ 3.8k | QML | 55/100 |
@@ -95,7 +95,7 @@
 | 85 | [vuematerial/vue-material](./vuematerial-vue-material.md) | ⭐ 9.8k | Vue | 52/100 |
 | 86 | [CircuitProApp/CircuitPro](./circuitproapp-circuitpro.md) | ⭐ 562 | Swift | 52/100 |
 | 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.2k | Handlebars | 52/100 |
-| 88 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 107 | Rust | 52/100 |
+| 88 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 108 | Rust | 52/100 |
 | 89 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 632 | Rust | 52/100 |
 | 90 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 330 | HTML | 52/100 |
 | 91 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.4k | WebAssembly | 52/100 |
@@ -106,7 +106,7 @@
 | 96 | [Alan-CRL/Inkeys](./alan-crl-inkeys.md) | ⭐ 1.2k | C++ | 51/100 |
 | 97 | [gwern/gwern.net](./gwern-gwern.net.md) | ⭐ 849 | Haskell | 51/100 |
 | 98 | [PostHog/posthog.com](./posthog-posthog.com.md) | ⭐ 1.2k | TypeScript | 51/100 |
-| 99 | [ghaida/intent](./ghaida-intent.md) | ⭐ 256 | CSS | 50/100 |
+| 99 | [ghaida/intent](./ghaida-intent.md) | ⭐ 257 | CSS | 50/100 |
 | 100 | [pc2/sus-compiler](./pc2-sus-compiler.md) | ⭐ 130 | Rust | 50/100 |
 | 101 | [synfig/synfig](./synfig-synfig.md) | ⭐ 2.4k | C++ | 50/100 |
 | 102 | [drawcms/drawcms](./drawcms-drawcms.md) | ⭐ 45 | — | 49/100 |
