@@ -129,7 +129,7 @@
 | 119 | [bluenviron/mediamtx](./bluenviron-mediamtx.md) | ⭐ 20.7k | Go | 66/100 |
 | 120 | [obs-websocket-community-projects/obs-websocket-js](./obs-websocket-community-projects-obs-websocket-js.md) | ⭐ 773 | TypeScript | 66/100 |
 | 121 | [zxcloli666/SoundCloud-Desktop](./zxcloli666-soundcloud-desktop.md) | ⭐ 590 | TypeScript | 66/100 |
-| 122 | [eylandoo/openvpn_webpanel_manager](./eylandoo-openvpn-webpanel-manager.md) | ⭐ 296 | Shell | 66/100 |
+| 122 | [eylandoo/openvpn_webpanel_manager](./eylandoo-openvpn-webpanel-manager.md) | ⭐ 297 | Shell | 66/100 |
 | 123 | [fastly/pushpin](./fastly-pushpin.md) | ⭐ 3.9k | Rust | 66/100 |
 | 124 | [zalando/skipper](./zalando-skipper.md) | ⭐ 3.3k | Go | 66/100 |
 | 125 | [syncthing/syncthing](./syncthing-syncthing.md) | ⭐ 90.4k | Go | 66/100 |
@@ -209,7 +209,7 @@
 | 199 | [bogdanfinn/tls-client](./bogdanfinn-tls-client.md) | ⭐ 1.9k | Go | 62/100 |
 | 200 | [seladb/PcapPlusPlus](./seladb-pcapplusplus.md) | ⭐ 3.2k | C++ | 62/100 |
 | 201 | [666OS/ClashMac](./666os-clashmac.md) | ⭐ 6.3k | — | 62/100 |
-| 202 | [ShatakVPN/ConfigForge-V2Ray](./shatakvpn-configforge-v2ray.md) | ⭐ 383 | Python | 62/100 |
+| 202 | [ShatakVPN/ConfigForge-V2Ray](./shatakvpn-configforge-v2ray.md) | ⭐ 382 | Python | 62/100 |
 | 203 | [fjh1997/Linux.do-Accelerator](./fjh1997-linux.do-accelerator.md) | ⭐ 402 | Rust | 62/100 |
 | 204 | [uNetworking/uWebSockets](./unetworking-uwebsockets.md) | ⭐ 19k | C++ | 62/100 |
 | 205 | [NetickNetworking/NetickForUnity](./neticknetworking-netickforunity.md) | ⭐ 412 | C# | 62/100 |
@@ -507,7 +507,7 @@
 | 497 | [guyavrhm/orion](./guyavrhm-orion.md) | ⭐ 24 | — | 49/100 |
 | 498 | [airtrack/stunnel](./airtrack-stunnel.md) | ⭐ 170 | Rust | 49/100 |
 | 499 | [kdeps/turo](./kdeps-turo.md) | ⭐ 11 | — | 49/100 |
-| 500 | [BeechatNetworkSystemsLtd/Reticulum-rs](./beechatnetworksystemsltd-reticulum-rs.md) | ⭐ 362 | Rust | 49/100 |
+| 500 | [BeechatNetworkSystemsLtd/Reticulum-rs](./beechatnetworksystemsltd-reticulum-rs.md) | ⭐ 363 | Rust | 49/100 |
 | 501 | [n0tduck1e/theharbinger](./n0tduck1e-theharbinger.md) | ⭐ 9 | — | 49/100 |
 | 502 | [EthanLipnik/Loom](./ethanlipnik-loom.md) | ⭐ 357 | Swift | 49/100 |
 | 503 | [madeye/meow-rs](./madeye-meow-rs.md) | ⭐ 307 | Rust | 49/100 |

@@ -79,7 +79,7 @@
 | 69 | [thi-ng/umbrella](./thi-ng-umbrella.md) | ⭐ 3.8k | TypeScript | 62/100 |
 | 70 | [PokemonWorkshop/PokemonStudio](./pokemonworkshop-pokemonstudio.md) | ⭐ 226 | TypeScript | 62/100 |
 | 71 | [ChenlizheMe/Infernux](./chenlizheme-infernux.md) | ⭐ 2.6k | Python | 62/100 |
-| 72 | [ButterscotchRunner/Butterscotch](./butterscotchrunner-butterscotch.md) | ⭐ 414 | C | 62/100 |
+| 72 | [ButterscotchRunner/Butterscotch](./butterscotchrunner-butterscotch.md) | ⭐ 416 | C | 62/100 |
 | 73 | [jrouwe/JoltPhysics](./jrouwe-joltphysics.md) | ⭐ 12.3k | C++ | 62/100 |
 | 74 | [letoram/arcan](./letoram-arcan.md) | ⭐ 1.8k | Zig | 62/100 |
 | 75 | [thorvg/thorvg](./thorvg-thorvg.md) | ⭐ 1.9k | C++ | 62/100 |
@@ -97,7 +97,7 @@
 | 87 | [Jaysmito101/TerraForge3D](./jaysmito101-terraforge3d.md) | ⭐ 1.3k | C++ | 61/100 |
 | 88 | [gpujs/gpu.js](./gpujs-gpu.js.md) | ⭐ 15.5k | JavaScript | 61/100 |
 | 89 | [rbfx/rbfx](./rbfx-rbfx.md) | ⭐ 1.1k | C++ | 61/100 |
-| 90 | [gogpu/gogpu](./gogpu-gogpu.md) | ⭐ 442 | Go | 61/100 |
+| 90 | [gogpu/gogpu](./gogpu-gogpu.md) | ⭐ 443 | Go | 61/100 |
 | 91 | [o3de/o3de](./o3de-o3de.md) | ⭐ 9.9k | C++ | 61/100 |
 | 92 | [KilledByAPixel/LittleJS](./killedbyapixel-littlejs.md) | ⭐ 4.4k | JavaScript | 61/100 |
 | 93 | [gfx-rs/wgpu](./gfx-rs-wgpu.md) | ⭐ 18.5k | Rust | 61/100 |
@@ -107,7 +107,7 @@
 | 97 | [mitsuba-renderer/nanogui](./mitsuba-renderer-nanogui.md) | ⭐ 1.8k | C++ | 60/100 |
 | 98 | [RandyGaul/cute_framework](./randygaul-cute-framework.md) | ⭐ 855 | C | 60/100 |
 | 99 | [MovingBlocks/Terasology](./movingblocks-terasology.md) | ⭐ 3.9k | Java | 60/100 |
-| 100 | [Indra-db/Flecs-Rust](./indra-db-flecs-rust.md) | ⭐ 344 | Rust | 60/100 |
+| 100 | [Indra-db/Flecs-Rust](./indra-db-flecs-rust.md) | ⭐ 345 | Rust | 60/100 |
 | 101 | [flowkey/UIKit-cross-platform](./flowkey-uikit-cross-platform.md) | ⭐ 665 | Swift | 60/100 |
 | 102 | [ObEngine/ObEngine](./obengine-obengine.md) | ⭐ 870 | C++ | 60/100 |
 | 103 | [OpenMW/openmw](./openmw-openmw.md) | ⭐ 6.8k | C++ | 60/100 |
@@ -173,12 +173,12 @@
 | 163 | [attackgoat/vk-graph](./attackgoat-vk-graph.md) | ⭐ 349 | Rust | 57/100 |
 | 164 | [castle-engine/castle-engine](./castle-engine-castle-engine.md) | ⭐ 1.3k | Pascal | 57/100 |
 | 165 | [Facepunch/sbox-public](./facepunch-sbox-public.md) | ⭐ 6.5k | C# | 57/100 |
-| 166 | [esengine/estella](./esengine-estella.md) | ⭐ 736 | TypeScript | 57/100 |
+| 166 | [esengine/estella](./esengine-estella.md) | ⭐ 838 | TypeScript | 57/100 |
 | 167 | [ZeroK-RTS/Zero-K](./zerok-rts-zero-k.md) | ⭐ 884 | Lua | 57/100 |
 | 168 | [timschmidt/csgrs](./timschmidt-csgrs.md) | ⭐ 265 | Rust | 57/100 |
 | 169 | [kitao/pyxel](./kitao-pyxel.md) | ⭐ 18.6k | Rust | 57/100 |
 | 170 | [piteengine/pite](./piteengine-pite.md) | ⭐ 15 | — | 56/100 |
-| 171 | [three-types/three-ts-types](./three-types-three-ts-types.md) | ⭐ 305 | TypeScript | 56/100 |
+| 171 | [three-types/three-ts-types](./three-types-three-ts-types.md) | ⭐ 306 | TypeScript | 56/100 |
 | 172 | [plotly/plotly_matlab](./plotly-plotly-matlab.md) | ⭐ 416 | MATLAB | 56/100 |
 | 173 | [max-baz/wluma](./max-baz-wluma.md) | ⭐ 960 | Rust | 56/100 |
 | 174 | [OGRECave/ogre-next](./ogrecave-ogre-next.md) | ⭐ 1.4k | C++ | 56/100 |
@@ -236,7 +236,7 @@
 | 226 | [dust-engine/dust](./dust-engine-dust.md) | ⭐ 135 | Rust | 54/100 |
 | 227 | [james-j-obrien/bevy_vector_shapes](./james-j-obrien-bevy-vector-shapes.md) | ⭐ 478 | Rust | 54/100 |
 | 228 | [effekseer/Effekseer](./effekseer-effekseer.md) | ⭐ 2.1k | C | 54/100 |
-| 229 | [SecondHalfGames/yakui](./secondhalfgames-yakui.md) | ⭐ 350 | Rust | 54/100 |
+| 229 | [SecondHalfGames/yakui](./secondhalfgames-yakui.md) | ⭐ 351 | Rust | 54/100 |
 | 230 | [PanosK92/SpartanEngine](./panosk92-spartanengine.md) | ⭐ 3.2k | C++ | 54/100 |
 | 231 | [emilk/egui](./emilk-egui.md) | ⭐ 32.3k | Rust | 54/100 |
 | 232 | [toji/gl-matrix](./toji-gl-matrix.md) | ⭐ 5.7k | JavaScript | 53/100 |
@@ -322,7 +322,7 @@
 | 312 | [optozorax/portal](./optozorax-portal.md) | ⭐ 569 | Rust | 44/100 |
 | 313 | [KhronosGroup/Vulkan-ValidationLayers](./khronosgroup-vulkan-validationlayers.md) | ⭐ 1.1k | C++ | 44/100 |
 | 314 | [renzora/engine](./renzora-engine.md) | ⭐ 398 | Rust | 43/100 |
-| 315 | [Far-Beyond-Pulsar/Pulsar-Native](./far-beyond-pulsar-pulsar-native.md) | ⭐ 416 | Rust | 43/100 |
+| 315 | [Far-Beyond-Pulsar/Pulsar-Native](./far-beyond-pulsar-pulsar-native.md) | ⭐ 429 | Rust | 43/100 |
 | 316 | [AzadKshitij/manim-studio](./azadkshitij-manim-studio.md) | ⭐ 1 | Python | 43/100 |
 | 317 | [holasoymalva/pawse](./holasoymalva-pawse.md) | ⭐ — | — | 42/100 |
 | 318 | [Pengeszikra/singularity-news-ccg](./pengeszikra-singularity-news-ccg.md) | ⭐ — | — | 42/100 |

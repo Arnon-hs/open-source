@@ -88,7 +88,7 @@
 | 78 | [surajverma/homehub](./surajverma-homehub.md) | ⭐ 1.3k | HTML | 64/100 |
 | 79 | [ranger/ranger](./ranger-ranger.md) | ⭐ 17.5k | Python | 64/100 |
 | 80 | [bgreenwell/xleak](./bgreenwell-xleak.md) | ⭐ 1.5k | Rust | 64/100 |
-| 81 | [XxMinor/mykvm](./xxminor-mykvm.md) | ⭐ 736 | Rust | 64/100 |
+| 81 | [XxMinor/mykvm](./xxminor-mykvm.md) | ⭐ 738 | Rust | 64/100 |
 | 82 | [nextcloud/notes-android](./nextcloud-notes-android.md) | ⭐ 1.1k | Java | 64/100 |
 | 83 | [ViscousPot/GitSync](./viscouspot-gitsync.md) | ⭐ 2.5k | Dart | 63/100 |
 | 84 | [kbrdn1/gwm-cli](./kbrdn1-gwm-cli.md) | ⭐ 152 | Rust | 63/100 |
@@ -105,7 +105,7 @@
 | 95 | [headlesshq/headlessmc](./headlesshq-headlessmc.md) | ⭐ 429 | Java | 62/100 |
 | 96 | [Vortrix5/sifty](./vortrix5-sifty.md) | ⭐ 126 | Python | 62/100 |
 | 97 | [ConnorSweeneyDev/.config](./connorsweeneydev-.config.md) | ⭐ 66 | Lua | 62/100 |
-| 98 | [jemishavasoya/dev-cleaner](./jemishavasoya-dev-cleaner.md) | ⭐ 360 | Shell | 62/100 |
+| 98 | [jemishavasoya/dev-cleaner](./jemishavasoya-dev-cleaner.md) | ⭐ 361 | Shell | 62/100 |
 | 99 | [seun-novodev/android-tv-debloat-toolkit](./seun-novodev-android-tv-debloat-toolkit.md) | ⭐ 821 | Python | 62/100 |
 | 100 | [ospfranco/sol](./ospfranco-sol.md) | ⭐ 3.2k | TypeScript | 62/100 |
 | 101 | [httptoolkit/httptoolkit-desktop](./httptoolkit-httptoolkit-desktop.md) | ⭐ 742 | TypeScript | 62/100 |
@@ -188,7 +188,7 @@
 | 178 | [kylejckson/PaintFE](./kylejckson-paintfe.md) | ⭐ 414 | Rust | 56/100 |
 | 179 | [proginosko/LeechBlockNG](./proginosko-leechblockng.md) | ⭐ 1.1k | JavaScript | 56/100 |
 | 180 | [JayanAXHF/gitv](./jayanaxhf-gitv.md) | ⭐ 116 | Rust | 56/100 |
-| 181 | [Stewart86/hamr](./stewart86-hamr.md) | ⭐ 337 | Rust | 56/100 |
+| 181 | [Stewart86/hamr](./stewart86-hamr.md) | ⭐ 336 | Rust | 56/100 |
 | 182 | [theachoem/storypad](./theachoem-storypad.md) | ⭐ 1k | Dart | 56/100 |
 | 183 | [CrossPaste/crosspaste-desktop](./crosspaste-crosspaste-desktop.md) | ⭐ 2.7k | Kotlin | 56/100 |
 | 184 | [nickotmazgin/clipflow-pro](./nickotmazgin-clipflow-pro.md) | ⭐ 7 | JavaScript | 55/100 |

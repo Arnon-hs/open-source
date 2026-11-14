@@ -22,7 +22,7 @@
 | 12 | [WPS/egon.io](./wps-egon.io.md) | ⭐ 839 | TypeScript | 65/100 |
 | 13 | [logisim-evolution/logisim-evolution](./logisim-evolution-logisim-evolution.md) | ⭐ 7.9k | Java | 65/100 |
 | 14 | [nextcloud/server](./nextcloud-server.md) | ⭐ 37.5k | PHP | 65/100 |
-| 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 596 | Python | 64/100 |
+| 15 | [123panNextGen/123pan](./123pannextgen-123pan.md) | ⭐ 597 | Python | 64/100 |
 | 16 | [eclipse-ee4j/cargotracker](./eclipse-ee4j-cargotracker.md) | ⭐ 396 | JavaScript | 64/100 |
 | 17 | [AtomUI/AtomUI](./atomui-atomui.md) | ⭐ 910 | C# | 64/100 |
 | 18 | [kando-menu/kando](./kando-menu-kando.md) | ⭐ 6.6k | TypeScript | 63/100 |
@@ -97,7 +97,7 @@
 | 87 | [microsoft/vscode-codicons](./microsoft-vscode-codicons.md) | ⭐ 1.2k | Handlebars | 52/100 |
 | 88 | [LunCoSim/lunco-sim](./luncosim-lunco-sim.md) | ⭐ 107 | Rust | 52/100 |
 | 89 | [hummingbird-player/hummingbird](./hummingbird-player-hummingbird.md) | ⭐ 632 | Rust | 52/100 |
-| 90 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 329 | HTML | 52/100 |
+| 90 | [canonical/ubuntu.com](./canonical-ubuntu.com.md) | ⭐ 330 | HTML | 52/100 |
 | 91 | [WebAssembly/component-model](./webassembly-component-model.md) | ⭐ 1.4k | WebAssembly | 52/100 |
 | 92 | [openhwgroup/cvw](./openhwgroup-cvw.md) | ⭐ 553 | SystemVerilog | 52/100 |
 | 93 | [riscv/riscv-arch-test](./riscv-riscv-arch-test.md) | ⭐ 813 | Assembly | 52/100 |

@@ -81,7 +81,7 @@
 | 71 | [mathematic-inc/earl](./mathematic-inc-earl.md) | ⭐ 114 | Rust | 77/100 |
 | 72 | [tabler/tabler](./tabler-tabler.md) | ⭐ 42.1k | Astro | 77/100 |
 | 73 | [raintree-technology/agent-starter](./raintree-technology-agent-starter.md) | ⭐ 84 | JavaScript | 77/100 |
-| 74 | [bitwize-music-studio/claude-ai-music-skills](./bitwize-music-studio-claude-ai-music-skills.md) | ⭐ 663 | Python | 77/100 |
+| 74 | [bitwize-music-studio/claude-ai-music-skills](./bitwize-music-studio-claude-ai-music-skills.md) | ⭐ 664 | Python | 77/100 |
 | 75 | [Sri-Krishna-V/awesome-adk-agents](./sri-krishna-v-awesome-adk-agents.md) | ⭐ 352 | Python | 77/100 |
 | 76 | [fabriziosalmi/lws](./fabriziosalmi-lws.md) | ⭐ 75 | Python | 77/100 |
 | 77 | [davila7/claude-code-templates](./davila7-claude-code-templates.md) | ⭐ 33.5k | Python | 77/100 |
@@ -327,7 +327,7 @@
 | 317 | [gaelcolas/Sampler](./gaelcolas-sampler.md) | ⭐ 245 | PowerShell | 62/100 |
 | 318 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 610 | Rust | 62/100 |
 | 319 | [microsoft/teams-agent-accelerator-templates](./microsoft-teams-agent-accelerator-templates.md) | ⭐ 95 | TypeScript | 62/100 |
-| 320 | [pulkitxm/claude-directory](./pulkitxm-claude-directory.md) | ⭐ 682 | HTML | 62/100 |
+| 320 | [pulkitxm/claude-directory](./pulkitxm-claude-directory.md) | ⭐ 683 | HTML | 62/100 |
 | 321 | [shinpr/mcp-image](./shinpr-mcp-image.md) | ⭐ 190 | TypeScript | 62/100 |
 | 322 | [n8n-io/n8n-hosting](./n8n-io-n8n-hosting.md) | ⭐ 1.8k | Go Template | 62/100 |
 | 323 | [WeAreAthlon/frontend-webpack-boilerplate](./weareathlon-frontend-webpack-boilerplate.md) | ⭐ 731 | HTML | 62/100 |
@@ -440,7 +440,7 @@
 | 430 | [arabcoders/ytptube](./arabcoders-ytptube.md) | ⭐ 1.1k | Python | 53/100 |
 | 431 | [iotfinancial-code/treasury-toolkit](./iotfinancial-code-treasury-toolkit.md) | ⭐ — | — | 53/100 |
 | 432 | [vercel-labs/eve-contentful-agent-template](./vercel-labs-eve-contentful-agent-template.md) | ⭐ 1 | — | 52/100 |
-| 433 | [ndpvt-web/latex-document-skill](./ndpvt-web-latex-document-skill.md) | ⭐ 828 | TeX | 52/100 |
+| 433 | [ndpvt-web/latex-document-skill](./ndpvt-web-latex-document-skill.md) | ⭐ 829 | TeX | 52/100 |
 | 434 | [con-dog/clingon](./con-dog-clingon.md) | ⭐ — | — | 51/100 |
 | 435 | [john-claude-1337/agent-memory-files](./john-claude-1337-agent-memory-files.md) | ⭐ — | JavaScript | 51/100 |
 | 436 | [mcmah309/eros](./mcmah309-eros.md) | ⭐ 452 | Rust | 51/100 |

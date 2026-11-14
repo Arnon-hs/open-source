@@ -85,7 +85,7 @@
 | 75 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 232 | Rust | 64/100 |
 | 76 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 77 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 78 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 333 | Go | 63/100 |
+| 78 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 334 | Go | 63/100 |
 | 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 670 | Jupyter Notebook | 63/100 |
 | 80 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 81 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
@@ -137,7 +137,7 @@
 | 127 | [noahnan-max/chanlun-trading-system](./noahnan-max-chanlun-trading-system.md) | ⭐ 80 | Python | 57/100 |
 | 128 | [JokerJohn/openclaw-autotrader](./jokerjohn-openclaw-autotrader.md) | ⭐ 47 | JavaScript | 57/100 |
 | 129 | [joaquinbejar/OptionStratLib](./joaquinbejar-optionstratlib.md) | ⭐ 265 | Rust | 57/100 |
-| 130 | [saidsurucu/borsaci](./saidsurucu-borsaci.md) | ⭐ 289 | Python | 56/100 |
+| 130 | [saidsurucu/borsaci](./saidsurucu-borsaci.md) | ⭐ 290 | Python | 56/100 |
 | 131 | [warproxxx/poly-maker](./warproxxx-poly-maker.md) | ⭐ 1.5k | Python | 56/100 |
 | 132 | [Erio-Harrison/rust-trade](./erio-harrison-rust-trade.md) | ⭐ 492 | Rust | 56/100 |
 | 133 | [jasonraimondi/ts-oauth2-server](./jasonraimondi-ts-oauth2-server.md) | ⭐ 313 | TypeScript | 56/100 |
@@ -168,8 +168,8 @@
 | 158 | [85599/nifty-desk](./85599-nifty-desk.md) | ⭐ 4 | Python | 52/100 |
 | 159 | [facebook/ocamlrep](./facebook-ocamlrep.md) | ⭐ 143 | Rust | 52/100 |
 | 160 | [openpredictionmarkets/socialpredict](./openpredictionmarkets-socialpredict.md) | ⭐ 232 | Go | 52/100 |
-| 161 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
-| 162 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 161 | [hugo2046/QuantsPlaybook](./hugo2046-quantsplaybook.md) | ⭐ 6.9k | Jupyter Notebook | 52/100 |
+| 162 | [waditu/czsc](./waditu-czsc.md) | ⭐ 6.6k | Python | 52/100 |
 | 163 | [Zhiyilang/tradeguard](./zhiyilang-tradeguard.md) | ⭐ — | Python | 51/100 |
 | 164 | [uselayer/uselayer-sdk](./uselayer-uselayer-sdk.md) | ⭐ 3 | — | 51/100 |
 | 165 | [weirdapps/etorotrade](./weirdapps-etorotrade.md) | ⭐ 39 | Python | 51/100 |
@@ -179,7 +179,7 @@
 | 169 | [nftechie/stonkfly](./nftechie-stonkfly.md) | ⭐ 902 | Python | 50/100 |
 | 170 | [humzakt/psx-investor](./humzakt-psx-investor.md) | ⭐ — | Python | 50/100 |
 | 171 | [sstklen/trump-code](./sstklen-trump-code.md) | ⭐ 812 | Python | 50/100 |
-| 172 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 403 | Rust | 50/100 |
+| 172 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 404 | Rust | 50/100 |
 | 173 | [speedyapply/2026-AI-College-Jobs](./speedyapply-2026-ai-college-jobs.md) | ⭐ 5.2k | — | 50/100 |
 | 174 | [rexonelo/barbotine-arbitrage-bot](./rexonelo-barbotine-arbitrage-bot.md) | ⭐ 651 | Python | 49/100 |
 | 175 | [magicstack-llp/zim-pro](./magicstack-llp-zim-pro.md) | ⭐ 9 | Python | 49/100 |

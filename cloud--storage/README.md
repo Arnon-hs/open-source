@@ -113,7 +113,7 @@
 | 103 | [kurrier-org/kurrier](./kurrier-org-kurrier.md) | ⭐ 1.1k | TypeScript | 68/100 |
 | 104 | [fregie/pho](./fregie-pho.md) | ⭐ 1.2k | Dart | 68/100 |
 | 105 | [redis/lettuce](./redis-lettuce.md) | ⭐ 5.8k | Java | 68/100 |
-| 106 | [Skyfay/SkySend](./skyfay-skysend.md) | ⭐ 460 | TypeScript | 68/100 |
+| 106 | [Skyfay/SkySend](./skyfay-skysend.md) | ⭐ 461 | TypeScript | 68/100 |
 | 107 | [shrinerb/shrine](./shrinerb-shrine.md) | ⭐ 3.3k | Ruby | 68/100 |
 | 108 | [mariadb-operator/mariadb-operator](./mariadb-operator-mariadb-operator.md) | ⭐ 1k | Go | 68/100 |
 | 109 | [kubernetes-sigs/cluster-api-provider-aws](./kubernetes-sigs-cluster-api-provider-aws.md) | ⭐ 730 | Go | 68/100 |
@@ -140,7 +140,7 @@
 | 130 | [axelmarciano/expo-open-ota](./axelmarciano-expo-open-ota.md) | ⭐ 381 | Go | 67/100 |
 | 131 | [truenas/middleware](./truenas-middleware.md) | ⭐ 2.6k | Python | 67/100 |
 | 132 | [karlderkaefer/cdk-notifier](./karlderkaefer-cdk-notifier.md) | ⭐ 131 | Go | 67/100 |
-| 133 | [python-jsonschema/check-jsonschema](./python-jsonschema-check-jsonschema.md) | ⭐ 353 | Python | 67/100 |
+| 133 | [python-jsonschema/check-jsonschema](./python-jsonschema-check-jsonschema.md) | ⭐ 354 | Python | 67/100 |
 | 134 | [twilio-labs/serverless-toolkit](./twilio-labs-serverless-toolkit.md) | ⭐ 127 | TypeScript | 67/100 |
 | 135 | [apereo/cas](./apereo-cas.md) | ⭐ 11.4k | Java | 67/100 |
 | 136 | [Azure/azure-sdk-for-java](./azure-azure-sdk-for-java.md) | ⭐ 2.6k | Java | 67/100 |
@@ -173,7 +173,7 @@
 | 163 | [cncf/landscape](./cncf-landscape.md) | ⭐ 10k | — | 65/100 |
 | 164 | [ory/kratos](./ory-kratos.md) | ⭐ 14k | Go | 65/100 |
 | 165 | [aws/aws-sdk-java-v2](./aws-aws-sdk-java-v2.md) | ⭐ 2.6k | Java | 65/100 |
-| 166 | [project-dalec/dalec](./project-dalec-dalec.md) | ⭐ 327 | Go | 65/100 |
+| 166 | [project-dalec/dalec](./project-dalec-dalec.md) | ⭐ 328 | Go | 65/100 |
 | 167 | [OWASP/wrongsecrets](./owasp-wrongsecrets.md) | ⭐ 1.5k | Java | 65/100 |
 | 168 | [cipi-sh/cipi](./cipi-sh-cipi.md) | ⭐ 1.1k | Shell | 65/100 |
 | 169 | [terraform-google-modules/terraform-google-gcloud](./terraform-google-modules-terraform-google-gcloud.md) | ⭐ 180 | HCL | 65/100 |
@@ -253,7 +253,7 @@
 | 243 | [jamebal/jmal-cloud-server](./jamebal-jmal-cloud-server.md) | ⭐ 410 | Java | 62/100 |
 | 244 | [tursodatabase/turso-cli](./tursodatabase-turso-cli.md) | ⭐ 326 | Go | 62/100 |
 | 245 | [cf-pages/Telegraph-Image](./cf-pages-telegraph-image.md) | ⭐ 4.7k | HTML | 62/100 |
-| 246 | [NetSPI/gcpwn](./netspi-gcpwn.md) | ⭐ 319 | Python | 62/100 |
+| 246 | [NetSPI/gcpwn](./netspi-gcpwn.md) | ⭐ 320 | Python | 62/100 |
 | 247 | [raulcastillabravo/mistlock](./raulcastillabravo-mistlock.md) | ⭐ 488 | Python | 62/100 |
 | 248 | [canonical/microceph](./canonical-microceph.md) | ⭐ 399 | Go | 62/100 |
 | 249 | [cloudbase/garm](./cloudbase-garm.md) | ⭐ 464 | Go | 62/100 |
@@ -342,8 +342,8 @@
 | 332 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 333 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 334 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
-| 336 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 336 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
 | 337 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 338 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 339 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -432,7 +432,7 @@
 | 422 | [awslabs/loom](./awslabs-loom.md) | ⭐ 201 | Python | 55/100 |
 | 423 | [dwyl/learn-aws-lambda](./dwyl-learn-aws-lambda.md) | ⭐ 1k | JavaScript | 55/100 |
 | 424 | [awslabs/aws-sdk-swift](./awslabs-aws-sdk-swift.md) | ⭐ 484 | Swift | 55/100 |
-| 425 | [adamfowlerit/msportals.io](./adamfowlerit-msportals.io.md) | ⭐ 338 | HTML | 55/100 |
+| 425 | [adamfowlerit/msportals.io](./adamfowlerit-msportals.io.md) | ⭐ 339 | HTML | 55/100 |
 | 426 | [1095071913/maozi-cloud-parent](./1095071913-maozi-cloud-parent.md) | ⭐ 1.4k | PLpgSQL | 55/100 |
 | 427 | [matisiekpl/neond](./matisiekpl-neond.md) | ⭐ 143 | Rust | 55/100 |
 | 428 | [tilfinltd/aws-extend-switch-roles](./tilfinltd-aws-extend-switch-roles.md) | ⭐ 1.4k | JavaScript | 55/100 |
@@ -441,7 +441,7 @@
 | 431 | [aminueza/terraform-provider-minio](./aminueza-terraform-provider-minio.md) | ⭐ 346 | Go | 55/100 |
 | 432 | [apache/ozone](./apache-ozone.md) | ⭐ 1.3k | Java | 55/100 |
 | 433 | [envoyproxy/envoy](./envoyproxy-envoy.md) | ⭐ 29.2k | C++ | 55/100 |
-| 434 | [ByteNess/aws-vault](./byteness-aws-vault.md) | ⭐ 486 | Go | 55/100 |
+| 434 | [ByteNess/aws-vault](./byteness-aws-vault.md) | ⭐ 488 | Go | 55/100 |
 | 435 | [fluvio-community/fluvio](./fluvio-community-fluvio.md) | ⭐ 5.3k | Rust | 55/100 |
 | 436 | [Azure/azure-cli-extensions](./azure-azure-cli-extensions.md) | ⭐ 457 | Python | 55/100 |
 | 437 | [rivet-dev/rivet](./rivet-dev-rivet.md) | ⭐ 6.9k | Rust | 55/100 |
@@ -512,8 +512,8 @@
 | 502 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 362 | Rust | 50/100 |
 | 503 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 138 | Rust | 50/100 |
 | 504 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 366 | Java | 50/100 |
-| 505 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
-| 506 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 505 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
+| 506 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
 | 507 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1.1k | Go | 50/100 |
 | 508 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 759 | Rust | 50/100 |
 | 509 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 670 | Python | 50/100 |
@@ -613,7 +613,7 @@
 | 603 | [archiecobbs/s3backer](./archiecobbs-s3backer.md) | ⭐ 621 | — | 41/100 |
 | 604 | [mrhardlint/Hard-Chat](./mrhardlint-hard-chat.md) | ⭐ 12 | — | 41/100 |
 | 605 | [oauth2-proxy/oauth2-proxy](./oauth2-proxy-oauth2-proxy.md) | ⭐ 15.4k | — | 41/100 |
-| 606 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 482 | Bicep | 41/100 |
+| 606 | [microsoft-foundry/foundry-samples](./microsoft-foundry-foundry-samples.md) | ⭐ 483 | Bicep | 41/100 |
 | 607 | [suzuki0430/kro-crossplane-eks-idp-lab](./suzuki0430-kro-crossplane-eks-idp-lab.md) | ⭐ — | Shell | 40/100 |
 | 608 | [amananandrai/system-design-explainer](./amananandrai-system-design-explainer.md) | ⭐ 101 | TypeScript | 39/100 |
 | 609 | [rendyachmad-dev/ark](./rendyachmad-dev-ark.md) | ⭐ 8 | Shell | 39/100 |

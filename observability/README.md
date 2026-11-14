@@ -222,7 +222,7 @@
 | 212 | [lucafossen/who-gpu](./lucafossen-who-gpu.md) | ⭐ 1 | — | 49/100 |
 | 213 | [eliau2005/statixagent](./eliau2005-statixagent.md) | ⭐ 5 | — | 49/100 |
 | 214 | [rotel-dev/rotel](./rotel-dev-rotel.md) | ⭐ 414 | Rust | 49/100 |
-| 215 | [gbfr-logs/gbfr-logs](./gbfr-logs-gbfr-logs.md) | ⭐ 289 | Rust | 49/100 |
+| 215 | [gbfr-logs/gbfr-logs](./gbfr-logs-gbfr-logs.md) | ⭐ 288 | Rust | 49/100 |
 | 216 | [Hayder-Rzaigui/cybernom-community](./hayder-rzaigui-cybernom-community.md) | ⭐ 3 | — | 49/100 |
 | 217 | [tokio-rs/tokio-metrics](./tokio-rs-tokio-metrics.md) | ⭐ 440 | Rust | 49/100 |
 | 218 | [rahhuul/auto-api-observe](./rahhuul-auto-api-observe.md) | ⭐ 3 | — | 48/100 |

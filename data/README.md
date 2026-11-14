@@ -120,7 +120,7 @@
 | 110 | [fluent/fluent-bit](./fluent-fluent-bit.md) | ⭐ 8.2k | C | 62/100 |
 | 111 | [RDFLib/rdflib](./rdflib-rdflib.md) | ⭐ 2.6k | Python | 62/100 |
 | 112 | [colour-science/colour](./colour-science-colour.md) | ⭐ 2.7k | Python | 62/100 |
-| 113 | [rucio/rucio](./rucio-rucio.md) | ⭐ 325 | Python | 62/100 |
+| 113 | [rucio/rucio](./rucio-rucio.md) | ⭐ 326 | Python | 62/100 |
 | 114 | [MultiQC/MultiQC](./multiqc-multiqc.md) | ⭐ 1.5k | JavaScript | 62/100 |
 | 115 | [cqframework/clinical_quality_language](./cqframework-clinical-quality-language.md) | ⭐ 339 | Kotlin | 62/100 |
 | 116 | [hmdsefi/gograph](./hmdsefi-gograph.md) | ⭐ 144 | Go | 61/100 |
@@ -208,7 +208,7 @@
 | 198 | [OpenSpace/OpenSpace](./openspace-openspace.md) | ⭐ 1.3k | C++ | 57/100 |
 | 199 | [JuliaPlots/Plots.jl](./juliaplots-plots.jl.md) | ⭐ 2k | Julia | 57/100 |
 | 200 | [productdevbook/etiket](./productdevbook-etiket.md) | ⭐ 495 | TypeScript | 57/100 |
-| 201 | [GeiserX/awesome-spain](./geiserx-awesome-spain.md) | ⭐ 372 | Python | 57/100 |
+| 201 | [GeiserX/awesome-spain](./geiserx-awesome-spain.md) | ⭐ 373 | Python | 57/100 |
 | 202 | [zwicker-group/py-pde](./zwicker-group-py-pde.md) | ⭐ 471 | Python | 57/100 |
 | 203 | [nao1215/filesql](./nao1215-filesql.md) | ⭐ 386 | Go | 57/100 |
 | 204 | [Marsilea-viz/marsilea](./marsilea-viz-marsilea.md) | ⭐ 332 | Python | 57/100 |

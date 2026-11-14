@@ -1,6 +1,6 @@
 # opensource-radar/opensource-radar
 
-[![Stars](https://img.shields.io/github/stars/opensource-radar/opensource-radar?style=flat-square&color=yellow)](https://github.com/opensource-radar/opensource-radar/stargazers) [![Forks](https://img.shields.io/github/forks/opensource-radar/opensource-radar?style=flat-square&color=blue)](https://github.com/opensource-radar/opensource-radar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/opensource-radar/opensource-radar?style=flat-square&color=yellow)](https://github.com/opensource-radar/opensource-radar/stargazers) [![Forks](https://img.shields.io/github/forks/opensource-radar/opensource-radar?style=flat-square&color=blue)](https://github.com/opensource-radar/opensource-radar/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-46%2F100-brightgreen?style=flat-square)](#)
 
 > Discover beginner-friendly open-source issues on GitHub.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 4 |
 | 🍴 **Forks** | 4 |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 49/100 |
+| 📈 **Score** | 46/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ opensource-radar/opensource-radar：opensource-radar/opensource-radar helps add 
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 62/100 |
+| production | 57/100 |
+| outlook | 55/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 100/100 |
 | stars | 15/100 |
 | forks | 17/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

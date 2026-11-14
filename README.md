@@ -2,8 +2,8 @@
 
 Find an open-source way to solve a task, compare practical fit, and give your coding agent a grounded starting point. Browse project cards here, search the [AtlasRepo website](https://atlasrepo.com), or use the same catalog through MCP and agent skills.
 
-- **Complete data:** 45,757 indexed projects in a downloadable JSON snapshot.
-- **Focused browsing:** 45,039 project cards across 33 categories with 10+ entries.
+- **Complete data:** 45,760 indexed projects in a downloadable JSON snapshot.
+- **Focused browsing:** 45,041 project cards across 33 categories with 10+ entries.
 - **Practical context:** multilingual summaries, use cases, integration notes, repository signals and score breakdowns.
 - **Open metadata:** MIT-licensed catalog data. Each linked project has its own license.
 
@@ -21,7 +21,7 @@ Start with a main category, then open a project card for its summary and evidenc
 | [Orchestration](./orchestration/README.md) | 2,535 |
 | [Automation](./automation/README.md) | 1,707 |
 | [DevTools](./devtools/README.md) | 1,699 |
-| [Backend](./backend/README.md) | 1,012 |
+| [Backend](./backend/README.md) | 1,013 |
 | [Frontend](./frontend/README.md) | 944 |
 | [Crypto](./crypto/README.md) | 850 |
 | [Documents](./documents/README.md) | 756 |

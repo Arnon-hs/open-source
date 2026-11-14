@@ -24,7 +24,7 @@
 | 14 | [gokayfem/ComfyUI-fal-API](./gokayfem-comfyui-fal-api.md) | ⭐ 227 | Python | 76/100 |
 | 15 | [promptslab/Awesome-Prompt-Engineering](./promptslab-awesome-prompt-engineering.md) | ⭐ 6.5k | TypeScript | 76/100 |
 | 16 | [Anil-matcha/Wan-3.0-API](./anil-matcha-wan-3.0-api.md) | ⭐ 81 | Python | 76/100 |
-| 17 | [SamurAIGPT/AI-Influencer-Generator](./samuraigpt-ai-influencer-generator.md) | ⭐ 345 | Jupyter Notebook | 76/100 |
+| 17 | [SamurAIGPT/AI-Influencer-Generator](./samuraigpt-ai-influencer-generator.md) | ⭐ 346 | Jupyter Notebook | 76/100 |
 | 18 | [sergebulaev/linkedin-skills](./sergebulaev-linkedin-skills.md) | ⭐ 5.9k | Python | 76/100 |
 | 19 | [artokun/comfyui-mcp](./artokun-comfyui-mcp.md) | ⭐ 921 | TypeScript | 76/100 |
 | 20 | [alecs5am/ralphy](./alecs5am-ralphy.md) | ⭐ 144 | TypeScript | 76/100 |
@@ -115,7 +115,7 @@
 | 105 | [rediumvex/seo-blog-writer-claude](./rediumvex-seo-blog-writer-claude.md) | ⭐ 64 | — | 57/100 |
 | 106 | [rust-lang/this-week-in-rust](./rust-lang-this-week-in-rust.md) | ⭐ 2.7k | Rust | 57/100 |
 | 107 | [pentacent/keila](./pentacent-keila.md) | ⭐ 2.3k | Elixir | 57/100 |
-| 108 | [bborn/lewsnetter](./bborn-lewsnetter.md) | ⭐ 330 | Ruby | 57/100 |
+| 108 | [bborn/lewsnetter](./bborn-lewsnetter.md) | ⭐ 331 | Ruby | 57/100 |
 | 109 | [Eva-311/hermes-automation-examples](./eva-311-hermes-automation-examples.md) | ⭐ 3 | — | 56/100 |
 | 110 | [SandAI-org/MagiCompiler](./sandai-org-magicompiler.md) | ⭐ 337 | Python | 56/100 |
 | 111 | [rochacbruno/marmite](./rochacbruno-marmite.md) | ⭐ 890 | Rust | 56/100 |
@@ -161,8 +161,8 @@
 | 151 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 152 | [hci-yeo/AdaptiveAgentAvatar](./hci-yeo-adaptiveagentavatar.md) | ⭐ 4 | — | 44/100 |
 | 153 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 154 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 361 | — | 43/100 |
-| 155 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 154 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
+| 155 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 361 | — | 43/100 |
 | 156 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 157 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 158 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |
@@ -185,8 +185,8 @@
 | 175 | [t8star/Vdn-Minimax-H3-Comfy](./t8star-vdn-minimax-h3-comfy.md) | ⭐ 23 | minimax-h3 | 36/100 |
 | 176 | [unsloth/Wan2.2-TI2V-5B-GGUF](./unsloth-wan2.2-ti2v-5b-gguf.md) | ⭐ 17 | gguf | 36/100 |
 | 177 | [Lightricks/LTX-2.3-fp8](./lightricks-ltx-2.3-fp8.md) | ⭐ 136 | diffusers | 36/100 |
-| 178 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
-| 179 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 178 | [Wan-AI/Wan2.1-T2V-1.3B-Diffusers](./wan-ai-wan2.1-t2v-1.3b-diffusers.md) | ⭐ 149 | diffusers | 36/100 |
+| 179 | [Wan-AI/Wan2.2-TI2V-5B-Diffusers](./wan-ai-wan2.2-ti2v-5b-diffusers.md) | ⭐ 159 | diffusers | 36/100 |
 | 180 | [comfyicu/LTX-2.5](./comfyicu-ltx-2.5.md) | ⭐ 8 | diffusion-single-file | 35/100 |
 | 181 | [heyujjwal/creator-compass](./heyujjwal-creator-compass.md) | ⭐ — | Java | 30/100 |
 

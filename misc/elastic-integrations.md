@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | ⭐ **Stars** | 339 |
-| 🍴 **Forks** | 683 |
+| 🍴 **Forks** | 684 |
 | 💻 **Language** | Handlebars |
 | 📈 **Score** | 53/100 |
 | 🗓️ **Last push** | 2026-09-05 |

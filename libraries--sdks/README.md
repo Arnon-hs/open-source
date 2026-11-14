@@ -91,7 +91,7 @@
 | 81 | [Qiskit/qiskit](./qiskit-qiskit.md) | ⭐ 8k | Python | 64/100 |
 | 82 | [bytecodealliance/rustix](./bytecodealliance-rustix.md) | ⭐ 2.2k | Rust | 63/100 |
 | 83 | [supabase/supabase-swift](./supabase-supabase-swift.md) | ⭐ 1.3k | Swift | 63/100 |
-| 84 | [apache/hudi-rs](./apache-hudi-rs.md) | ⭐ 282 | Rust | 63/100 |
+| 84 | [apache/hudi-rs](./apache-hudi-rs.md) | ⭐ 283 | Rust | 63/100 |
 | 85 | [cloudevents/sdk-go](./cloudevents-sdk-go.md) | ⭐ 966 | Go | 63/100 |
 | 86 | [NVIDIA-Omniverse/PhysX](./nvidia-omniverse-physx.md) | ⭐ 4.8k | C++ | 63/100 |
 | 87 | [firebase/firebase-functions](./firebase-firebase-functions.md) | ⭐ 1.1k | TypeScript | 63/100 |
@@ -176,7 +176,7 @@
 | 166 | [dotnet/macios](./dotnet-macios.md) | ⭐ 2.9k | C# | 57/100 |
 | 167 | [opencoredev/social-sdk](./opencoredev-social-sdk.md) | ⭐ 849 | — | 56/100 |
 | 168 | [Atostek/ros2-client](./atostek-ros2-client.md) | ⭐ 131 | Rust | 56/100 |
-| 169 | [birabittoh/NocturneRecomp](./birabittoh-nocturnerecomp.md) | ⭐ 430 | C++ | 56/100 |
+| 169 | [birabittoh/NocturneRecomp](./birabittoh-nocturnerecomp.md) | ⭐ 433 | C++ | 56/100 |
 | 170 | [denoland/rusty_v8](./denoland-rusty-v8.md) | ⭐ 4k | Rust | 56/100 |
 | 171 | [jellydn/zed-101-setup](./jellydn-zed-101-setup.md) | ⭐ 1.5k | TypeScript | 56/100 |
 | 172 | [bytecodealliance/wit-bindgen](./bytecodealliance-wit-bindgen.md) | ⭐ 1.5k | Rust | 56/100 |
@@ -189,7 +189,7 @@
 | 179 | [frida/frida-python](./frida-frida-python.md) | ⭐ 879 | Python | 55/100 |
 | 180 | [gtk-rs/gtk3-rs](./gtk-rs-gtk3-rs.md) | ⭐ 509 | Rust | 55/100 |
 | 181 | [prove-rs/z3.rs](./prove-rs-z3.rs.md) | ⭐ 544 | Rust | 55/100 |
-| 182 | [y3owk1n/neru](./y3owk1n-neru.md) | ⭐ 923 | Go | 55/100 |
+| 182 | [y3owk1n/neru](./y3owk1n-neru.md) | ⭐ 926 | Go | 55/100 |
 | 183 | [rust-openssl/rust-openssl](./rust-openssl-rust-openssl.md) | ⭐ 1.7k | Rust | 54/100 |
 | 184 | [frida/frida-core](./frida-frida-core.md) | ⭐ 790 | Vala | 54/100 |
 | 185 | [sdroege/gstreamer-rs](./sdroege-gstreamer-rs.md) | ⭐ 596 | Rust | 54/100 |

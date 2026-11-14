@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Automation · AI/ML · Security
+Automation · AI/ML · Cloud & Storage · DevOps/Infra · Security
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ Mgabr90/autonomous-delivery: Mgabr90/autonomous-delivery helps remove repetitive
 
 ### Русский
 
-Mgabr90/autonomous-delivery: open-source проект в категориях Automation, AI/ML, Security. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Mgabr90/autonomous-delivery: open-source проект в категориях Automation, AI/ML, Cloud & Storage, DevOps/Infra, Security. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ Mgabr90/autonomous-delivery：Mgabr90/autonomous-delivery helps remove repetitiv
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 45/100 |
-| integration | 78/100 |
-| production | 61/100 |
-| outlook | 63/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 300/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 61/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
