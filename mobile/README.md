@@ -126,7 +126,7 @@
 | 116 | [SagerNet/sing-box-for-apple](./sagernet-sing-box-for-apple.md) | ⭐ 1.1k | Swift | 60/100 |
 | 117 | [mlm-games/flicky](./mlm-games-flicky.md) | ⭐ 478 | Kotlin | 60/100 |
 | 118 | [Lyokone/flutterlocation](./lyokone-flutterlocation.md) | ⭐ 1.2k | Dart | 60/100 |
-| 119 | [simpleble/simpleble](./simpleble-simpleble.md) | ⭐ 1.1k | C++ | 60/100 |
+| 119 | [simpleble/simpleble](./simpleble-simpleble.md) | ⭐ 1.2k | C++ | 60/100 |
 | 120 | [appium/appium-xcuitest-driver](./appium-appium-xcuitest-driver.md) | ⭐ 906 | TypeScript | 60/100 |
 | 121 | [syncfusion/maui-toolkit](./syncfusion-maui-toolkit.md) | ⭐ 751 | C# | 60/100 |
 | 122 | [pjsip/pjproject](./pjsip-pjproject.md) | ⭐ 2.7k | C | 60/100 |
@@ -275,8 +275,8 @@
 | 265 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 266 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 267 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 268 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
-| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 268 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
+| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 633 | Python | 55/100 |
 | 272 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |

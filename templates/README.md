@@ -207,14 +207,14 @@
 | 197 | [ai-driven-dev/framework](./ai-driven-dev-framework.md) | ⭐ 556 | JavaScript | 69/100 |
 | 198 | [sveltejs/svelte](./sveltejs-svelte.md) | ⭐ 88.7k | JavaScript | 69/100 |
 | 199 | [AlekseiUL/agentforge-openclaw](./alekseiul-agentforge-openclaw.md) | ⭐ 44 | — | 69/100 |
-| 200 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 977 | Go Template | 69/100 |
+| 200 | [GoogleCloudPlatform/magic-modules](./googlecloudplatform-magic-modules.md) | ⭐ 978 | Go Template | 69/100 |
 | 201 | [codewithMUHILAN/Lightswind-UI-Library](./codewithmuhilan-lightswind-ui-library.md) | ⭐ 1.3k | TypeScript | 69/100 |
 | 202 | [promptdriven/pdd](./promptdriven-pdd.md) | ⭐ 936 | Python | 69/100 |
 | 203 | [n8n-io/self-hosted-ai-starter-kit](./n8n-io-self-hosted-ai-starter-kit.md) | ⭐ 15.4k | — | 68/100 |
 | 204 | [fabwaseem/forgekit](./fabwaseem-forgekit.md) | ⭐ — | TypeScript | 68/100 |
 | 205 | [MinaSaad1/n8n-ai-agents](./minasaad1-n8n-ai-agents.md) | ⭐ 13 | — | 68/100 |
 | 206 | [ZSeven-W/dsh-crew](./zseven-w-dsh-crew.md) | ⭐ 212 | JavaScript | 68/100 |
-| 207 | [Naresh-Khatri/3d-portfolio](./naresh-khatri-3d-portfolio.md) | ⭐ 1.4k | TypeScript | 68/100 |
+| 207 | [Naresh-Khatri/3d-portfolio](./naresh-khatri-3d-portfolio.md) | ⭐ 1.3k | TypeScript | 68/100 |
 | 208 | [egvijayanand/dotnet-maui-templates](./egvijayanand-dotnet-maui-templates.md) | ⭐ 217 | C# | 68/100 |
 | 209 | [sudara/awesome-juce](./sudara-awesome-juce.md) | ⭐ 1.4k | Ruby | 68/100 |
 | 210 | [VictoriaMetrics/helm-charts](./victoriametrics-helm-charts.md) | ⭐ 573 | Go Template | 68/100 |

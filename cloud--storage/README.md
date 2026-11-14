@@ -56,7 +56,7 @@
 | 46 | [serverless/serverless](./serverless-serverless.md) | ⭐ 46.9k | JavaScript | 73/100 |
 | 47 | [metalbear-co/mirrord](./metalbear-co-mirrord.md) | ⭐ 5.4k | Rust | 73/100 |
 | 48 | [tywalch/electrodb](./tywalch-electrodb.md) | ⭐ 1.2k | TypeScript | 72/100 |
-| 49 | [upstash/redis-js](./upstash-redis-js.md) | ⭐ 985 | TypeScript | 72/100 |
+| 49 | [upstash/redis-js](./upstash-redis-js.md) | ⭐ 986 | TypeScript | 72/100 |
 | 50 | [aws/aws-cli](./aws-aws-cli.md) | ⭐ 17.4k | Python | 72/100 |
 | 51 | [googleapis/google-cloud-php](./googleapis-google-cloud-php.md) | ⭐ 1.2k | PHP | 72/100 |
 | 52 | [Azure/azure-devops-cli-extension](./azure-azure-devops-cli-extension.md) | ⭐ 692 | Python | 72/100 |

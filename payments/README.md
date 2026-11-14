@@ -140,7 +140,7 @@
 | 130 | [eallion/uBlacklist-subscription-compilation](./eallion-ublacklist-subscription-compilation.md) | ⭐ 1.3k | Go | 60/100 |
 | 131 | [abishekmuthian/open-payment-host](./abishekmuthian-open-payment-host.md) | ⭐ 245 | Go | 60/100 |
 | 132 | [voidly-ai/voidly-pay](./voidly-ai-voidly-pay.md) | ⭐ 11 | JavaScript | 60/100 |
-| 133 | [dimthink/PriceAI](./dimthink-priceai.md) | ⭐ 5.4k | TypeScript | 60/100 |
+| 133 | [dimthink/PriceAI](./dimthink-priceai.md) | ⭐ 5.5k | TypeScript | 60/100 |
 | 134 | [trickv/hass-claude-usage](./trickv-hass-claude-usage.md) | ⭐ 61 | Python | 60/100 |
 | 135 | [vue-stripe/vue-stripe](./vue-stripe-vue-stripe.md) | ⭐ 1.1k | Vue | 60/100 |
 | 136 | [easylist/easylist](./easylist-easylist.md) | ⭐ 3.2k | Adblock Filter List | 60/100 |
@@ -273,8 +273,8 @@
 | 263 | [killbill/killbill-commons](./killbill-killbill-commons.md) | ⭐ 145 | Java | 51/100 |
 | 264 | [Franlinozz/Sluice](./franlinozz-sluice.md) | ⭐ 32 | TypeScript | 51/100 |
 | 265 | [angelleye/paypal-woocommerce](./angelleye-paypal-woocommerce.md) | ⭐ 133 | PHP | 51/100 |
-| 266 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
-| 267 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
+| 266 | [braintree/braintree_java](./braintree-braintree-java.md) | ⭐ 168 | Java | 51/100 |
+| 267 | [activemerchant/payment_icons](./activemerchant-payment-icons.md) | ⭐ 183 | Ruby | 51/100 |
 | 268 | [avaly/paddle-sdk](./avaly-paddle-sdk.md) | ⭐ 100 | TypeScript | 51/100 |
 | 269 | [arlyon/async-stripe](./arlyon-async-stripe.md) | ⭐ 764 | Rust | 51/100 |
 | 270 | [Ctrlpanel-gg/panel](./ctrlpanel-gg-panel.md) | ⭐ 504 | PHP | 51/100 |

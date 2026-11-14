@@ -13,10 +13,10 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Communication](../communication/README.md) | 490 |
 | [Content Creation](../content-creation/README.md) | 181 |
 | [Crypto](../crypto/README.md) | 850 |
-| [Data](../data/README.md) | 377 |
+| [Data](../data/README.md) | 378 |
 | [Database](../database/README.md) | 591 |
 | [Design](../design/README.md) | 200 |
-| [DevOps/Infra](../devopsinfra/README.md) | 564 |
+| [DevOps/Infra](../devopsinfra/README.md) | 565 |
 | [DevTools](../devtools/README.md) | 1,698 |
 | [Documents](../documents/README.md) | 756 |
 | [Education](../education/README.md) | 39 |
@@ -38,4 +38,4 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Templates](../templates/README.md) | 503 |
 | [Trading](../trading/README.md) | 228 |
 | [Vertical Video](../vertical-video/README.md) | 172 |
-| [Video Editing](../video-editing/README.md) | 641 |
+| [Video Editing](../video-editing/README.md) | 642 |

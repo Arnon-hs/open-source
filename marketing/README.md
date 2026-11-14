@@ -15,11 +15,11 @@
 | 5 | [jasonwebb/morphogenesis-resources](./jasonwebb-morphogenesis-resources.md) | ⭐ 2.3k | — | 61/100 |
 | 6 | [nonbili/Nora](./nonbili-nora.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 7 | [openplayerjs/openplayerjs](./openplayerjs-openplayerjs.md) | ⭐ 650 | TypeScript | 59/100 |
-| 8 | [tin-computer/tin](./tin-computer-tin.md) | ⭐ 182 | Python | 57/100 |
-| 9 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 1.1k | TypeScript | 56/100 |
-| 10 | [codialab/panacus](./codialab-panacus.md) | ⭐ 141 | Rust | 55/100 |
-| 11 | [testedmedia/seo-command-center](./testedmedia-seo-command-center.md) | ⭐ 27 | — | 54/100 |
-| 12 | [Mohdasif-07/ufftool-youtube-tags-extension](./mohdasif-07-ufftool-youtube-tags-extension.md) | ⭐ — | — | 54/100 |
+| 8 | [TanStack/tanstack.com](./tanstack-tanstack.com.md) | ⭐ 1.1k | TypeScript | 56/100 |
+| 9 | [codialab/panacus](./codialab-panacus.md) | ⭐ 141 | Rust | 55/100 |
+| 10 | [testedmedia/seo-command-center](./testedmedia-seo-command-center.md) | ⭐ 27 | — | 54/100 |
+| 11 | [Mohdasif-07/ufftool-youtube-tags-extension](./mohdasif-07-ufftool-youtube-tags-extension.md) | ⭐ — | — | 54/100 |
+| 12 | [tin-computer/tin](./tin-computer-tin.md) | ⭐ 182 | Python | 54/100 |
 | 13 | [dvygolov/YellowTDS](./dvygolov-yellowtds.md) | ⭐ 395 | JavaScript | 53/100 |
 | 14 | [Yoast/wordpress-seo](./yoast-wordpress-seo.md) | ⭐ 2k | JavaScript | 53/100 |
 | 15 | [adeptads/agent-skills](./adeptads-agent-skills.md) | ⭐ 2 | — | 51/100 |

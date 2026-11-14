@@ -15,7 +15,7 @@
 | 5 | [vmware/govmomi](./vmware-govmomi.md) | ⭐ 2.6k | Go | 75/100 |
 | 6 | [auth0/auth0.net](./auth0-auth0.net.md) | ⭐ 364 | C# | 75/100 |
 | 7 | [meltano/meltano](./meltano-meltano.md) | ⭐ 2.7k | Python | 75/100 |
-| 8 | [dropbox/dropbox-sdk-python](./dropbox-dropbox-sdk-python.md) | ⭐ 986 | Python | 74/100 |
+| 8 | [dropbox/dropbox-sdk-python](./dropbox-dropbox-sdk-python.md) | ⭐ 985 | Python | 74/100 |
 | 9 | [meilisearch/meilisearch-dotnet](./meilisearch-meilisearch-dotnet.md) | ⭐ 344 | C# | 74/100 |
 | 10 | [gungraun/gungraun](./gungraun-gungraun.md) | ⭐ 342 | Rust | 73/100 |
 | 11 | [googleapis/google-api-dotnet-client](./googleapis-google-api-dotnet-client.md) | ⭐ 1.5k | C# | 72/100 |
@@ -194,7 +194,7 @@
 | 184 | [frida/frida-core](./frida-frida-core.md) | ⭐ 790 | Vala | 54/100 |
 | 185 | [sdroege/gstreamer-rs](./sdroege-gstreamer-rs.md) | ⭐ 596 | Rust | 54/100 |
 | 186 | [restsend/restsend-rs](./restsend-restsend-rs.md) | ⭐ 143 | Rust | 54/100 |
-| 187 | [google/crubit](./google-crubit.md) | ⭐ 1.1k | C++ | 54/100 |
+| 187 | [google/crubit](./google-crubit.md) | ⭐ 1.2k | C++ | 54/100 |
 | 188 | [kubernetes-client/csharp](./kubernetes-client-csharp.md) | ⭐ 1.2k | C# | 54/100 |
 | 189 | [mixpanel/mixpanel-swift](./mixpanel-mixpanel-swift.md) | ⭐ 473 | Swift | 54/100 |
 | 190 | [PyO3/maturin](./pyo3-maturin.md) | ⭐ 5.9k | Rust | 54/100 |

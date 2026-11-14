@@ -64,18 +64,18 @@ scigolib/matlab：scigolib/matlab helps convert raw data into searchable, analyz
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 52/100 |
-| outlook | 51/100 |
-| adoption | 17/100 |
-| categoryMatchCount | 100/100 |
-| stars | 24/100 |
 | forks | 0/100 |
-| recency | 60/100 |
+| stars | 24/100 |
 | topics | 100/100 |
+| outlook | 51/100 |
+| quality | 48/100 |
+| recency | 60/100 |
+| adoption | 17/100 |
+| production | 52/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
