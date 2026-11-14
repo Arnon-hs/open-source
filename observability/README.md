@@ -232,7 +232,7 @@
 | 222 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 640 | C | 48/100 |
 | 223 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 600 | Go | 48/100 |
 | 224 | [open-telemetry/opentelemetry-go-contrib](./open-telemetry-opentelemetry-go-contrib.md) | ⭐ 1.7k | Go | 48/100 |
-| 225 | [cloudwalk/stratus](./cloudwalk-stratus.md) | ⭐ 175 | Rust | 47/100 |
+| 225 | [cloudwalk/stratus](./cloudwalk-stratus.md) | ⭐ 176 | Rust | 47/100 |
 | 226 | [jonhoo/tracing-timing](./jonhoo-tracing-timing.md) | ⭐ 139 | Rust | 47/100 |
 | 227 | [villith/relink-logs](./villith-relink-logs.md) | ⭐ 157 | Rust | 47/100 |
 | 228 | [openvehicles/Open-Vehicle-Monitoring-System-3](./openvehicles-open-vehicle-monitoring-system-3.md) | ⭐ 879 | C | 47/100 |

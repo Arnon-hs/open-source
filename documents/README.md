@@ -176,7 +176,7 @@
 | 166 | [crisanlucid/vite-react-tailwind-bionic-reading](./crisanlucid-vite-react-tailwind-bionic-reading.md) | ⭐ 533 | TypeScript | 62/100 |
 | 167 | [wojtekmaj/react-pdf](./wojtekmaj-react-pdf.md) | ⭐ 11.2k | TypeScript | 62/100 |
 | 168 | [appml/neutrinote](./appml-neutrinote.md) | ⭐ 473 | Java | 62/100 |
-| 169 | [mahendrapaipuri/grafana-dashboard-reporter-app](./mahendrapaipuri-grafana-dashboard-reporter-app.md) | ⭐ 158 | Go | 62/100 |
+| 169 | [mahendrapaipuri/grafana-dashboard-reporter-app](./mahendrapaipuri-grafana-dashboard-reporter-app.md) | ⭐ 159 | Go | 62/100 |
 | 170 | [analogjs/analog](./analogjs-analog.md) | ⭐ 3.2k | TypeScript | 62/100 |
 | 171 | [intoolswetrust/jsignpdf](./intoolswetrust-jsignpdf.md) | ⭐ 491 | Java | 62/100 |
 | 172 | [naggie/dstask](./naggie-dstask.md) | ⭐ 1.2k | Go | 62/100 |
@@ -227,7 +227,7 @@
 | 217 | [CollaboraOnline/online](./collaboraonline-online.md) | ⭐ 3.4k | Shell | 60/100 |
 | 218 | [tenngoxars/WeMD](./tenngoxars-wemd.md) | ⭐ 994 | TypeScript | 60/100 |
 | 219 | [hadziqmtqn/erd-builder-pro](./hadziqmtqn-erd-builder-pro.md) | ⭐ 209 | TypeScript | 60/100 |
-| 220 | [caol64/omni-article-markdown](./caol64-omni-article-markdown.md) | ⭐ 214 | Python | 60/100 |
+| 220 | [caol64/omni-article-markdown](./caol64-omni-article-markdown.md) | ⭐ 215 | Python | 60/100 |
 | 221 | [yWorks/svg2pdf.js](./yworks-svg2pdf.js.md) | ⭐ 840 | TypeScript | 60/100 |
 | 222 | [mermaid-js/mermaid](./mermaid-js-mermaid.md) | ⭐ 91.1k | TypeScript | 60/100 |
 | 223 | [Kareadita/Kavita](./kareadita-kavita.md) | ⭐ 12.1k | C# | 60/100 |
@@ -311,7 +311,7 @@
 | 301 | [Shahedr/data-quality-detective](./shahedr-data-quality-detective.md) | ⭐ — | Python | 56/100 |
 | 302 | [erekola/markdown-parity-check](./erekola-markdown-parity-check.md) | ⭐ — | TypeScript | 56/100 |
 | 303 | [pulldown-cmark/pulldown-cmark](./pulldown-cmark-pulldown-cmark.md) | ⭐ 2.8k | Rust | 56/100 |
-| 304 | [openooxml/betteroffice](./openooxml-betteroffice.md) | ⭐ 351 | Rust | 56/100 |
+| 304 | [openooxml/betteroffice](./openooxml-betteroffice.md) | ⭐ 355 | Rust | 56/100 |
 | 305 | [ningg/Agentic-Design-Patterns-CN](./ningg-agentic-design-patterns-cn.md) | ⭐ 331 | Python | 56/100 |
 | 306 | [obsidianmd/obsidian-help](./obsidianmd-obsidian-help.md) | ⭐ 2k | JavaScript | 56/100 |
 | 307 | [channprj/markdowner](./channprj-markdowner.md) | ⭐ 29 | TypeScript | 56/100 |
@@ -431,8 +431,8 @@
 | 421 | [ttu-ttu/ebook-reader](./ttu-ttu-ebook-reader.md) | ⭐ 1.1k | Svelte | 51/100 |
 | 422 | [spawnia/md-to-pdf](./spawnia-md-to-pdf.md) | ⭐ 171 | Rust | 51/100 |
 | 423 | [messense/mupdf-rs](./messense-mupdf-rs.md) | ⭐ 215 | Rust | 51/100 |
-| 424 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
-| 425 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 182 | Rust | 51/100 |
+| 424 | [lampsitter/egui_commonmark](./lampsitter-egui-commonmark.md) | ⭐ 183 | Rust | 51/100 |
+| 425 | [jrmuizel/pdf-extract](./jrmuizel-pdf-extract.md) | ⭐ 608 | Rust | 51/100 |
 | 426 | [CultivateLabs/storytime](./cultivatelabs-storytime.md) | ⭐ 743 | Ruby | 51/100 |
 | 427 | [clerkma/ptex-ng](./clerkma-ptex-ng.md) | ⭐ 307 | C | 51/100 |
 | 428 | [3xxx/engineercms](./3xxx-engineercms.md) | ⭐ 1.4k | Go | 51/100 |
@@ -456,7 +456,7 @@
 | 446 | [portfoliablejs/portfoliable](./portfoliablejs-portfoliable.md) | ⭐ 2 | JavaScript | 50/100 |
 | 447 | [hossamTahaHussein/wordcraft-embed](./hossamtahahussein-wordcraft-embed.md) | ⭐ 1 | JavaScript | 49/100 |
 | 448 | [violintvex/ViolinNext](./violintvex-violinnext.md) | ⭐ — | — | 49/100 |
-| 449 | [outlmd/outl](./outlmd-outl.md) | ⭐ 249 | Rust | 49/100 |
+| 449 | [outlmd/outl](./outlmd-outl.md) | ⭐ 252 | Rust | 49/100 |
 | 450 | [letmutex/htmd](./letmutex-htmd.md) | ⭐ 465 | Rust | 49/100 |
 | 451 | [hougesen/kdlfmt](./hougesen-kdlfmt.md) | ⭐ 112 | Rust | 49/100 |
 | 452 | [tianclll/Ace-Translate](./tianclll-ace-translate.md) | ⭐ 354 | C++ | 49/100 |
@@ -574,7 +574,7 @@
 | 564 | [lemoine-agency/demo-facture-simple](./lemoine-agency-demo-facture-simple.md) | ⭐ 1 | — | 42/100 |
 | 565 | [samleeney/flows](./samleeney-flows.md) | ⭐ 9 | — | 42/100 |
 | 566 | [CoreBunch/Instatic](./corebunch-instatic.md) | ⭐ 9.1k | — | 42/100 |
-| 567 | [tola-rs/tola-ssg](./tola-rs-tola-ssg.md) | ⭐ 202 | Rust | 42/100 |
+| 567 | [tola-rs/tola-ssg](./tola-rs-tola-ssg.md) | ⭐ 203 | Rust | 42/100 |
 | 568 | [jolars/panache](./jolars-panache.md) | ⭐ 247 | Rust | 42/100 |
 | 569 | [datalab-to/marker](./datalab-to-marker.md) | ⭐ 40.9k | — | 41/100 |
 | 570 | [szdytom/markview](./szdytom-markview.md) | ⭐ 123 | — | 41/100 |
@@ -749,8 +749,8 @@
 | 739 | [termermc/wunphile](./termermc-wunphile.md) | ⭐ 2 | — | 38/100 |
 | 740 | [OpenSenseNova/SenseNova-U1](./opensensenova-sensenova-u1.md) | ⭐ — | — | 38/100 |
 | 741 | [bruits/satteri](./bruits-satteri.md) | ⭐ 1.3k | — | 38/100 |
-| 742 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
-| 743 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
+| 742 | [AnonymousNomad/LOREIN-Sovereign-Entity](./anonymousnomad-lorein-sovereign-entity.md) | ⭐ 1 | — | 38/100 |
+| 743 | [Lucas2944/prpack](./lucas2944-prpack.md) | ⭐ — | — | 38/100 |
 | 744 | [JagaTheGhost/visualmark-studio](./jagatheghost-visualmark-studio.md) | ⭐ 11 | JavaScript | 37/100 |
 | 745 | [ilia-sokolov/OfficeAgent.Studio](./ilia-sokolov-officeagent.studio.md) | ⭐ — | C# | 37/100 |
 | 746 | [lordmatt/MattsWebWay](./lordmatt-mattswebway.md) | ⭐ — | — | 37/100 |

@@ -132,7 +132,7 @@
 | 122 | [spences10/my-pi](./spences10-my-pi.md) | ⭐ 139 | TypeScript | 73/100 |
 | 123 | [AndrewAltimit/template-repo](./andrewaltimit-template-repo.md) | ⭐ 136 | Rust | 73/100 |
 | 124 | [serpro69/claude-toolbox](./serpro69-claude-toolbox.md) | ⭐ 155 | Shell | 73/100 |
-| 125 | [CronusL-1141/AI-company](./cronusl-1141-ai-company.md) | ⭐ 375 | Python | 73/100 |
+| 125 | [CronusL-1141/AI-company](./cronusl-1141-ai-company.md) | ⭐ 377 | Python | 73/100 |
 | 126 | [projen/projen](./projen-projen.md) | ⭐ 3k | TypeScript | 73/100 |
 | 127 | [Tukdify/LeadIQ-AI](./tukdify-leadiq-ai.md) | ⭐ 13 | JavaScript | 72/100 |
 | 128 | [mubashir-786/n8n-whatsapp-automation](./mubashir-786-n8n-whatsapp-automation.md) | ⭐ 137 | JavaScript | 72/100 |
@@ -273,7 +273,7 @@
 | 263 | [thecodeorigin/nuxt-template](./thecodeorigin-nuxt-template.md) | ⭐ 35 | TypeScript | 65/100 |
 | 264 | [google/mug](./google-mug.md) | ⭐ 540 | Java | 65/100 |
 | 265 | [Uninen/tauri-vue-template](./uninen-tauri-vue-template.md) | ⭐ 493 | TypeScript | 65/100 |
-| 266 | [cortex-tms/cortex-tms](./cortex-tms-cortex-tms.md) | ⭐ 180 | MDX | 65/100 |
+| 266 | [cortex-tms/cortex-tms](./cortex-tms-cortex-tms.md) | ⭐ 181 | MDX | 65/100 |
 | 267 | [cshum/imagor-studio](./cshum-imagor-studio.md) | ⭐ 232 | TypeScript | 65/100 |
 | 268 | [linode/apl-core](./linode-apl-core.md) | ⭐ 2.3k | Go Template | 65/100 |
 | 269 | [nholthaus/units](./nholthaus-units.md) | ⭐ 1.1k | C++ | 64/100 |

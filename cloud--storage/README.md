@@ -154,7 +154,7 @@
 | 144 | [cozystack/cozystack](./cozystack-cozystack.md) | ⭐ 2.4k | Go | 67/100 |
 | 145 | [docker/login-action](./docker-login-action.md) | ⭐ 1.5k | TypeScript | 66/100 |
 | 146 | [overmindtech/cli](./overmindtech-cli.md) | ⭐ 184 | Go | 66/100 |
-| 147 | [paolobarbolini/rusty-s3](./paolobarbolini-rusty-s3.md) | ⭐ 159 | Rust | 66/100 |
+| 147 | [paolobarbolini/rusty-s3](./paolobarbolini-rusty-s3.md) | ⭐ 158 | Rust | 66/100 |
 | 148 | [awslabs/dynein](./awslabs-dynein.md) | ⭐ 400 | Rust | 66/100 |
 | 149 | [Afilmory/afilmory](./afilmory-afilmory.md) | ⭐ 2.7k | TypeScript | 66/100 |
 | 150 | [Zarestia-Dev/rclone-manager](./zarestia-dev-rclone-manager.md) | ⭐ 1.2k | TypeScript | 66/100 |
@@ -260,7 +260,7 @@
 | 250 | [KunMoe/kun-touchgal-next](./kunmoe-kun-touchgal-next.md) | ⭐ 852 | TypeScript | 62/100 |
 | 251 | [artifacthub/hub](./artifacthub-hub.md) | ⭐ 2.1k | TypeScript | 62/100 |
 | 252 | [AzureAD/microsoft-identity-web](./azuread-microsoft-identity-web.md) | ⭐ 792 | C# | 62/100 |
-| 253 | [bigstack-oss/cubecos](./bigstack-oss-cubecos.md) | ⭐ 162 | Python | 62/100 |
+| 253 | [bigstack-oss/cubecos](./bigstack-oss-cubecos.md) | ⭐ 163 | Python | 62/100 |
 | 254 | [oss-serverless/osls](./oss-serverless-osls.md) | ⭐ 673 | JavaScript | 62/100 |
 | 255 | [TNO-S3/WuppieFuzz](./tno-s3-wuppiefuzz.md) | ⭐ 232 | Rust | 62/100 |
 | 256 | [DragonOS-Community/DragonOS](./dragonos-community-dragonos.md) | ⭐ 1.2k | Rust | 62/100 |
@@ -270,7 +270,7 @@
 | 260 | [Websoft9/websoft9](./websoft9-websoft9.md) | ⭐ 2.1k | Python | 62/100 |
 | 261 | [nats-io/nats.go](./nats-io-nats.go.md) | ⭐ 6.8k | Go | 62/100 |
 | 262 | [google-github-actions/auth](./google-github-actions-auth.md) | ⭐ 1.4k | TypeScript | 62/100 |
-| 263 | [Mi-Bee-Studio/MiBeeNvr](./mi-bee-studio-mibeenvr.md) | ⭐ 196 | Go | 61/100 |
+| 263 | [Mi-Bee-Studio/MiBeeNvr](./mi-bee-studio-mibeenvr.md) | ⭐ 198 | Go | 61/100 |
 | 264 | [chrislusf/seaweedfs](./chrislusf-seaweedfs.md) | ⭐ 45 | Go | 61/100 |
 | 265 | [aws-cloudformation/cfn-lint](./aws-cloudformation-cfn-lint.md) | ⭐ 2.6k | Python | 61/100 |
 | 266 | [pshenok/server-survival](./pshenok-server-survival.md) | ⭐ 6.5k | JavaScript | 61/100 |
@@ -291,7 +291,7 @@
 | 281 | [Azure/azure-sdk-for-js](./azure-azure-sdk-for-js.md) | ⭐ 2.3k | TypeScript | 61/100 |
 | 282 | [arcjet/arcjet-js](./arcjet-arcjet-js.md) | ⭐ 700 | TypeScript | 61/100 |
 | 283 | [nubenetes/awesome-kubernetes](./nubenetes-awesome-kubernetes.md) | ⭐ 676 | Python | 61/100 |
-| 284 | [axpdev-lab/aeroftp](./axpdev-lab-aeroftp.md) | ⭐ 281 | Rust | 61/100 |
+| 284 | [axpdev-lab/aeroftp](./axpdev-lab-aeroftp.md) | ⭐ 282 | Rust | 61/100 |
 | 285 | [wso2/product-integrator-mi](./wso2-product-integrator-mi.md) | ⭐ 290 | Java | 61/100 |
 | 286 | [Azure/azure-sdk-for-python](./azure-azure-sdk-for-python.md) | ⭐ 5.6k | Python | 61/100 |
 | 287 | [prowler-cloud/prowler](./prowler-cloud-prowler.md) | ⭐ 15.2k | Python | 61/100 |
@@ -342,8 +342,8 @@
 | 332 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 333 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 334 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
-| 336 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 336 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
 | 337 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 338 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 339 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -386,7 +386,7 @@
 | 376 | [documentdb/documentdb](./documentdb-documentdb.md) | ⭐ 3.6k | C | 57/100 |
 | 377 | [polymind-inc/acmebot](./polymind-inc-acmebot.md) | ⭐ 1.2k | C# | 57/100 |
 | 378 | [earth-mover/icechunk](./earth-mover-icechunk.md) | ⭐ 702 | Rust | 57/100 |
-| 379 | [Yamato-Security/suzaku](./yamato-security-suzaku.md) | ⭐ 242 | Rust | 57/100 |
+| 379 | [Yamato-Security/suzaku](./yamato-security-suzaku.md) | ⭐ 243 | Rust | 57/100 |
 | 380 | [kunobi-ninja/kache](./kunobi-ninja-kache.md) | ⭐ 1.4k | Rust | 57/100 |
 | 381 | [fractalbits-labs/fractalbits](./fractalbits-labs-fractalbits.md) | ⭐ 313 | Rust | 57/100 |
 | 382 | [aws-actions/configure-aws-credentials](./aws-actions-configure-aws-credentials.md) | ⭐ 3k | TypeScript | 57/100 |
@@ -429,7 +429,7 @@
 | 419 | [quickwit-oss/quickwit](./quickwit-oss-quickwit.md) | ⭐ 11.8k | Rust | 56/100 |
 | 420 | [Azure/azure-iot-sdk-c](./azure-azure-iot-sdk-c.md) | ⭐ 620 | C | 56/100 |
 | 421 | [yugabyte/yugabyte-db](./yugabyte-yugabyte-db.md) | ⭐ 10.7k | C | 56/100 |
-| 422 | [awslabs/loom](./awslabs-loom.md) | ⭐ 201 | Python | 55/100 |
+| 422 | [awslabs/loom](./awslabs-loom.md) | ⭐ 202 | Python | 55/100 |
 | 423 | [dwyl/learn-aws-lambda](./dwyl-learn-aws-lambda.md) | ⭐ 1k | JavaScript | 55/100 |
 | 424 | [awslabs/aws-sdk-swift](./awslabs-aws-sdk-swift.md) | ⭐ 484 | Swift | 55/100 |
 | 425 | [adamfowlerit/msportals.io](./adamfowlerit-msportals.io.md) | ⭐ 339 | HTML | 55/100 |
@@ -548,8 +548,8 @@
 | 538 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 539 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 540 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 543 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 544 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 545 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |

@@ -18,7 +18,7 @@
 | 8 | [CyberSource/cybersource-sdk-php](./cybersource-cybersource-sdk-php.md) | ⭐ 60 | PHP | 77/100 |
 | 9 | [martian56/epoint-sandbox](./martian56-epoint-sandbox.md) | ⭐ 24 | Python | 76/100 |
 | 10 | [cheapestinference/claude-auto-retry](./cheapestinference-claude-auto-retry.md) | ⭐ 394 | JavaScript | 76/100 |
-| 11 | [ethanhq/cc-fleet](./ethanhq-cc-fleet.md) | ⭐ 190 | Go | 76/100 |
+| 11 | [ethanhq/cc-fleet](./ethanhq-cc-fleet.md) | ⭐ 191 | Go | 76/100 |
 | 12 | [leeguooooo/chatgpt-imagegen](./leeguooooo-chatgpt-imagegen.md) | ⭐ 228 | Python | 76/100 |
 | 13 | [hexclave/hexclave](./hexclave-hexclave.md) | ⭐ 6.9k | TypeScript | 76/100 |
 | 14 | [Django-CRM/Django-CRM](./django-crm-django-crm.md) | ⭐ 2.5k | Python | 75/100 |
@@ -53,7 +53,7 @@
 | 43 | [AnalyseDeCircuit/oxideterm](./analysedecircuit-oxideterm.md) | ⭐ 1.9k | Rust | 71/100 |
 | 44 | [DrDBanner/inmanage](./drdbanner-inmanage.md) | ⭐ 76 | Shell | 70/100 |
 | 45 | [sums001/Windows-Copilot-API](./sums001-windows-copilot-api.md) | ⭐ 1.3k | Python | 70/100 |
-| 46 | [Dicklesworthstone/coding_agent_account_manager](./dicklesworthstone-coding-agent-account-manager.md) | ⭐ 212 | Go | 70/100 |
+| 46 | [Dicklesworthstone/coding_agent_account_manager](./dicklesworthstone-coding-agent-account-manager.md) | ⭐ 213 | Go | 70/100 |
 | 47 | [codespar/mcp-dev-latam](./codespar-mcp-dev-latam.md) | ⭐ 279 | JavaScript | 70/100 |
 | 48 | [bigcapitalhq/bigcapital](./bigcapitalhq-bigcapital.md) | ⭐ 4.1k | TypeScript | 70/100 |
 | 49 | [meteroid-oss/meteroid](./meteroid-oss-meteroid.md) | ⭐ 1.4k | Rust | 70/100 |
@@ -234,8 +234,8 @@
 | 224 | [nightflyza/Ubilling](./nightflyza-ubilling.md) | ⭐ 186 | PHP | 54/100 |
 | 225 | [ever-co/ever-gauzy](./ever-co-ever-gauzy.md) | ⭐ 8.8k | TypeScript | 54/100 |
 | 226 | [stripe/stripe-ios](./stripe-stripe-ios.md) | ⭐ 2.6k | Swift | 54/100 |
-| 227 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 577 | — | 53/100 |
-| 228 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 701 | — | 53/100 |
+| 227 | [NousResearch/hermes-official-plugins](./nousresearch-hermes-official-plugins.md) | ⭐ 701 | — | 53/100 |
+| 228 | [marvkr/better-design](./marvkr-better-design.md) | ⭐ 577 | — | 53/100 |
 | 229 | [princejain756/coldstart](./princejain756-coldstart.md) | ⭐ — | JavaScript | 53/100 |
 | 230 | [ytinumoc/toolkitlabs-qr](./ytinumoc-toolkitlabs-qr.md) | ⭐ — | HTML | 53/100 |
 | 231 | [ItsJazii/pane](./itsjazii-pane.md) | ⭐ 89 | Rust | 53/100 |
@@ -286,8 +286,8 @@
 | 276 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 277 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 278 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 182 | HTML | 50/100 |
-| 279 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
-| 280 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
+| 279 | [RevenueCat/react-native-purchases](./revenuecat-react-native-purchases.md) | ⭐ 1.2k | TypeScript | 50/100 |
+| 280 | [RevenueCat/purchases-flutter](./revenuecat-purchases-flutter.md) | ⭐ 720 | Dart | 50/100 |
 | 281 | [SirGrokkius/bot-agora](./sirgrokkius-bot-agora.md) | ⭐ — | HTML | 50/100 |
 | 282 | [dotsource123/invoice-ai-v1](./dotsource123-invoice-ai-v1.md) | ⭐ — | Python | 50/100 |
 | 283 | [Srinivas26k/Hekara](./srinivas26k-hekara.md) | ⭐ 1 | TypeScript | 49/100 |
@@ -334,7 +334,7 @@
 | 324 | [al1-nasir/gatekeep402](./al1-nasir-gatekeep402.md) | ⭐ 4 | — | 45/100 |
 | 325 | [eunujwal/PaymentsAgents](./eunujwal-paymentsagents.md) | ⭐ 2 | — | 45/100 |
 | 326 | [dpro10/cookbook-meter](./dpro10-cookbook-meter.md) | ⭐ 2 | — | 45/100 |
-| 327 | [stripe/purl](./stripe-purl.md) | ⭐ 186 | Rust | 45/100 |
+| 327 | [stripe/purl](./stripe-purl.md) | ⭐ 200 | Rust | 45/100 |
 | 328 | [stripe-samples/checkout-one-time-payments](./stripe-samples-checkout-one-time-payments.md) | ⭐ 1.1k | CSS | 45/100 |
 | 329 | [shetabit/payment](./shetabit-payment.md) | ⭐ 960 | PHP | 45/100 |
 | 330 | [holistis/al-muqarin](./holistis-al-muqarin.md) | ⭐ — | JavaScript | 45/100 |

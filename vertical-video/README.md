@@ -43,9 +43,9 @@
 | 33 | [siri2moon/moonreel](./siri2moon-moonreel.md) | ⭐ 22 | TypeScript | 73/100 |
 | 34 | [jnMetaCode/openshorts](./jnmetacode-openshorts.md) | ⭐ 62 | JavaScript | 73/100 |
 | 35 | [OStudi/short-video-generator-AI](./ostudi-short-video-generator-ai.md) | ⭐ 1.2k | Python | 73/100 |
-| 36 | [hassancs91/claude-faceless-shorts-creator](./hassancs91-claude-faceless-shorts-creator.md) | ⭐ 360 | TypeScript | 73/100 |
+| 36 | [hassancs91/claude-faceless-shorts-creator](./hassancs91-claude-faceless-shorts-creator.md) | ⭐ 362 | TypeScript | 73/100 |
 | 37 | [social-media-skills/remotion-shorts-skill](./social-media-skills-remotion-shorts-skill.md) | ⭐ 18 | TypeScript | 72/100 |
-| 38 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 245 | JavaScript | 72/100 |
+| 38 | [wj-sidiss/otopilot](./wj-sidiss-otopilot.md) | ⭐ 247 | JavaScript | 72/100 |
 | 39 | [SamurAIGPT/revideo](./samuraigpt-revideo.md) | ⭐ 165 | JavaScript | 72/100 |
 | 40 | [phucnguyentvp1/frameweaver](./phucnguyentvp1-frameweaver.md) | ⭐ 116 | Python | 72/100 |
 | 41 | [justynberk/reel-kit](./justynberk-reel-kit.md) | ⭐ 11 | Python | 72/100 |
@@ -130,7 +130,7 @@
 | 120 | [jaxxchen003/book-video-factory](./jaxxchen003-book-video-factory.md) | ⭐ 113 | Python | 58/100 |
 | 121 | [zhuixin8/meiti-ai](./zhuixin8-meiti-ai.md) | ⭐ 40 | — | 58/100 |
 | 122 | [runesleo/claude-video-kit](./runesleo-claude-video-kit.md) | ⭐ 124 | TypeScript | 58/100 |
-| 123 | [JuneYaooo/awesome-ai-media-cn](./juneyaooo-awesome-ai-media-cn.md) | ⭐ 386 | — | 58/100 |
+| 123 | [JuneYaooo/awesome-ai-media-cn](./juneyaooo-awesome-ai-media-cn.md) | ⭐ 389 | — | 58/100 |
 | 124 | [liuhaisi2026212-maker/motion-palette-15](./liuhaisi2026212-maker-motion-palette-15.md) | ⭐ 19 | JavaScript | 57/100 |
 | 125 | [Phucanh-MRT/mrtkeyword](./phucanh-mrt-mrtkeyword.md) | ⭐ 46 | TypeScript | 57/100 |
 | 126 | [colind0pe/Trendlume](./colind0pe-trendlume.md) | ⭐ 13 | Python | 57/100 |

@@ -136,7 +136,7 @@
 | 126 | [amqp-rs/lapin](./amqp-rs-lapin.md) | ⭐ 1.2k | Rust | 62/100 |
 | 127 | [miroslavpejic85/call-me](./miroslavpejic85-call-me.md) | ⭐ 767 | JavaScript | 62/100 |
 | 128 | [nodemailer/nodemailer](./nodemailer-nodemailer.md) | ⭐ 17.7k | TypeScript | 61/100 |
-| 129 | [Andiveli/wptui](./andiveli-wptui.md) | ⭐ 200 | Rust | 61/100 |
+| 129 | [Andiveli/wptui](./andiveli-wptui.md) | ⭐ 199 | Rust | 61/100 |
 | 130 | [jonhoo/rust-imap](./jonhoo-rust-imap.md) | ⭐ 584 | Rust | 61/100 |
 | 131 | [fluxerapp/fluxer](./fluxerapp-fluxer.md) | ⭐ 10.9k | TypeScript | 61/100 |
 | 132 | [bigbluebutton/bigbluebutton](./bigbluebutton-bigbluebutton.md) | ⭐ 9.3k | JavaScript | 61/100 |
@@ -288,7 +288,7 @@
 | 278 | [adecubed/gigamail](./adecubed-gigamail.md) | ⭐ 19 | — | 49/100 |
 | 279 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 640 | Kotlin | 49/100 |
 | 280 | [awslabs/mls-rs](./awslabs-mls-rs.md) | ⭐ 262 | Rust | 49/100 |
-| 281 | [freenet/river](./freenet-river.md) | ⭐ 314 | Rust | 49/100 |
+| 281 | [freenet/river](./freenet-river.md) | ⭐ 316 | Rust | 49/100 |
 | 282 | [matrix-construct/tuwunel](./matrix-construct-tuwunel.md) | ⭐ 2.8k | Rust | 49/100 |
 | 283 | [bloomberg/blazingmq](./bloomberg-blazingmq.md) | ⭐ 3.2k | C++ | 49/100 |
 | 284 | [aio-libs/aiosmtpd](./aio-libs-aiosmtpd.md) | ⭐ 374 | Python | 49/100 |

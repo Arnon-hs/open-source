@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML · Automation
+Orchestration · Automation · AI/ML · DevTools
 
 ## 📝 Summary
 
 ### English
 
-goshtasb/OpenCouncil: goshtasb/OpenCouncil helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+goshtasb/OpenCouncil: goshtasb/OpenCouncil helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-goshtasb/OpenCouncil: open-source проект в категориях AI/ML, Automation. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+goshtasb/OpenCouncil: open-source проект в категориях Orchestration, Automation, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-goshtasb/OpenCouncil：goshtasb/OpenCouncil helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+goshtasb/OpenCouncil：goshtasb/OpenCouncil helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** goshtasb/OpenCouncil helps add AI capability without starting from a blank model stack.
+**Value:** goshtasb/OpenCouncil helps turn isolated prompts and tools into repeatable agent workflows.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,19 +65,19 @@ goshtasb/OpenCouncil：goshtasb/OpenCouncil helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 49/100 |
-| integration | 94/100 |
-| production | 64/100 |
-| outlook | 65/100 |
-| adoption | 9/100 |
-| categoryMatchCount | 200/100 |
-| stars | 6/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 9/100 |
+| production | 64/100 |
+| usefulness | 90/100 |
+| integration | 94/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/goshtasb/OpenCouncil) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/goshtasb/OpenCouncil) · [← Back to Orchestration](./README.md)</sub>

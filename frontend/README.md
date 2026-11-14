@@ -39,7 +39,7 @@
 | 29 | [solidjs/solid-start](./solidjs-solid-start.md) | ⭐ 5.9k | TypeScript | 75/100 |
 | 30 | [react-native-community/cli](./react-native-community-cli.md) | ⭐ 2.9k | TypeScript | 75/100 |
 | 31 | [podman-desktop/podman-desktop](./podman-desktop-podman-desktop.md) | ⭐ 8.2k | TypeScript | 75/100 |
-| 32 | [sublay-io/monorepo](./sublay-io-monorepo.md) | ⭐ 182 | TypeScript | 75/100 |
+| 32 | [sublay-io/monorepo](./sublay-io-monorepo.md) | ⭐ 181 | TypeScript | 75/100 |
 | 33 | [altair-graphql/altair](./altair-graphql-altair.md) | ⭐ 5.4k | TypeScript | 75/100 |
 | 34 | [amalshaji/portr](./amalshaji-portr.md) | ⭐ 3.2k | TypeScript | 75/100 |
 | 35 | [plankanban/planka](./plankanban-planka.md) | ⭐ 12.7k | JavaScript | 74/100 |
@@ -178,7 +178,7 @@
 | 168 | [web-infra-dev/rsbuild](./web-infra-dev-rsbuild.md) | ⭐ 3.4k | TypeScript | 67/100 |
 | 169 | [denho/faved](./denho-faved.md) | ⭐ 1.4k | TypeScript | 67/100 |
 | 170 | [opf/openproject](./opf-openproject.md) | ⭐ 17.3k | Ruby | 67/100 |
-| 171 | [SAPTARSHI-coder/EaseMotion-css](./saptarshi-coder-easemotion-css.md) | ⭐ 1 | HTML | 67/100 |
+| 171 | [SAPTARSHI-coder/EaseMotion-css](./saptarshi-coder-easemotion-css.md) | ⭐ 2 | HTML | 67/100 |
 | 172 | [lingdojo/kana-dojo](./lingdojo-kana-dojo.md) | ⭐ 3.9k | TypeScript | 67/100 |
 | 173 | [Rabithua/Rote](./rabithua-rote.md) | ⭐ 1.1k | TypeScript | 67/100 |
 | 174 | [krayin/laravel-crm](./krayin-laravel-crm.md) | ⭐ 24.1k | Blade | 67/100 |
@@ -263,8 +263,8 @@
 | 253 | [lynx-family/lynx-stack](./lynx-family-lynx-stack.md) | ⭐ 742 | TypeScript | 65/100 |
 | 254 | [zhenorzz/goploy](./zhenorzz-goploy.md) | ⭐ 1.3k | Go | 65/100 |
 | 255 | [ng-doc/ng-doc](./ng-doc-ng-doc.md) | ⭐ 328 | TypeScript | 65/100 |
-| 256 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
-| 257 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
+| 256 | [erweixin/RaTeX](./erweixin-ratex.md) | ⭐ 1.6k | Rust | 65/100 |
+| 257 | [solidtime-io/solidtime](./solidtime-io-solidtime.md) | ⭐ 9.1k | PHP | 65/100 |
 | 258 | [magicuidesign/magicui](./magicuidesign-magicui.md) | ⭐ 23.3k | MDX | 65/100 |
 | 259 | [mealie-recipes/mealie](./mealie-recipes-mealie.md) | ⭐ 13.9k | Python | 65/100 |
 | 260 | [marko-js/marko](./marko-js-marko.md) | ⭐ 14.5k | JavaScript | 65/100 |
@@ -518,8 +518,8 @@
 | 508 | [sveltejs/eslint-plugin-svelte](./sveltejs-eslint-plugin-svelte.md) | ⭐ 413 | TypeScript | 59/100 |
 | 509 | [p-m-p/slider](./p-m-p-slider.md) | ⭐ 893 | TypeScript | 59/100 |
 | 510 | [featurevisor/featurevisor](./featurevisor-featurevisor.md) | ⭐ 815 | TypeScript | 59/100 |
-| 511 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
-| 512 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 511 | [phcode-dev/phoenix](./phcode-dev-phoenix.md) | ⭐ 3k | JavaScript | 59/100 |
+| 512 | [zard-ui/zardui](./zard-ui-zardui.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 513 | [TheOrcDev/8bitcn-ui](./theorcdev-8bitcn-ui.md) | ⭐ 2.1k | TypeScript | 59/100 |
 | 514 | [toss/react-simplikit](./toss-react-simplikit.md) | ⭐ 361 | TypeScript | 59/100 |
 | 515 | [lucasmerlin/hello_egui](./lucasmerlin-hello-egui.md) | ⭐ 676 | Rust | 59/100 |
@@ -543,7 +543,7 @@
 | 533 | [nusmodifications/nusmods](./nusmodifications-nusmods.md) | ⭐ 693 | JavaScript | 59/100 |
 | 534 | [dotnetcore/BootstrapBlazor](./dotnetcore-bootstrapblazor.md) | ⭐ 5k | C# | 59/100 |
 | 535 | [sveltejs/kit](./sveltejs-kit.md) | ⭐ 20.9k | JavaScript | 59/100 |
-| 536 | [jdubois/boot-ui](./jdubois-boot-ui.md) | ⭐ 334 | Java | 59/100 |
+| 536 | [jdubois/boot-ui](./jdubois-boot-ui.md) | ⭐ 335 | Java | 59/100 |
 | 537 | [inertiajs/inertia](./inertiajs-inertia.md) | ⭐ 8.1k | TypeScript | 59/100 |
 | 538 | [ubugeeei/vize](./ubugeeei-vize.md) | ⭐ 696 | Rust | 59/100 |
 | 539 | [Cordobo/angularx-qrcode](./cordobo-angularx-qrcode.md) | ⭐ 513 | TypeScript | 59/100 |
@@ -802,7 +802,7 @@
 | 792 | [vikashsparxit/the-talent-app](./vikashsparxit-the-talent-app.md) | ⭐ 4 | TypeScript | 52/100 |
 | 793 | [F0Rextasy/bigbullui](./f0rextasy-bigbullui.md) | ⭐ 9 | TypeScript | 52/100 |
 | 794 | [darkly-art/darkly](./darkly-art-darkly.md) | ⭐ 417 | Rust | 52/100 |
-| 795 | [iamnbutler/gpuikit](./iamnbutler-gpuikit.md) | ⭐ 201 | Rust | 52/100 |
+| 795 | [iamnbutler/gpuikit](./iamnbutler-gpuikit.md) | ⭐ 202 | Rust | 52/100 |
 | 796 | [jhugman/uniffi-bindgen-react-native](./jhugman-uniffi-bindgen-react-native.md) | ⭐ 569 | Rust | 52/100 |
 | 797 | [DependencyTrack/frontend](./dependencytrack-frontend.md) | ⭐ 185 | Vue | 52/100 |
 | 798 | [garden-co/jazz](./garden-co-jazz.md) | ⭐ 244 | Rust | 52/100 |
@@ -859,7 +859,7 @@
 | 849 | [shakacode/react-webpack-rails-tutorial](./shakacode-react-webpack-rails-tutorial.md) | ⭐ 1.7k | JavaScript | 49/100 |
 | 850 | [Skyscanner/backpack](./skyscanner-backpack.md) | ⭐ 544 | TypeScript | 49/100 |
 | 851 | [maplibre/maplibre-react-native](./maplibre-maplibre-react-native.md) | ⭐ 676 | TypeScript | 49/100 |
-| 852 | [DSpace/dspace-angular](./dspace-dspace-angular.md) | ⭐ 179 | TypeScript | 49/100 |
+| 852 | [DSpace/dspace-angular](./dspace-dspace-angular.md) | ⭐ 180 | TypeScript | 49/100 |
 | 853 | [kendrick-k/nuxt-cmpkit-debug](./kendrick-k-nuxt-cmpkit-debug.md) | ⭐ — | Vue | 49/100 |
 | 854 | [terrizoaguimor/aureform-ui](./terrizoaguimor-aureform-ui.md) | ⭐ 5 | TypeScript | 48/100 |
 | 855 | [NIPE-Solutions/react-data-inspector](./nipe-solutions-react-data-inspector.md) | ⭐ 2 | TypeScript | 48/100 |
@@ -870,7 +870,7 @@
 | 860 | [isographlabs/isograph](./isographlabs-isograph.md) | ⭐ 402 | Rust | 48/100 |
 | 861 | [tomblachut/svelte-intellij](./tomblachut-svelte-intellij.md) | ⭐ 529 | JavaScript | 48/100 |
 | 862 | [webview-native-ui/engine](./webview-native-ui-engine.md) | ⭐ 9 | TypeScript | 48/100 |
-| 863 | [eckz/bevy_flair](./eckz-bevy-flair.md) | ⭐ 169 | Rust | 47/100 |
+| 863 | [eckz/bevy_flair](./eckz-bevy-flair.md) | ⭐ 170 | Rust | 47/100 |
 | 864 | [AndBible/and-bible](./andbible-and-bible.md) | ⭐ 833 | Kotlin | 47/100 |
 | 865 | [composablehorizons/compose-unstyled](./composablehorizons-compose-unstyled.md) | ⭐ 1.3k | Kotlin | 47/100 |
 | 866 | [csskit/csskit](./csskit-csskit.md) | ⭐ 339 | Rust | 47/100 |
