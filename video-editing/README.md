@@ -94,7 +94,7 @@
 | 84 | [AhsanAyaz/ossclip](./ahsanayaz-ossclip.md) | ⭐ 57 | TypeScript | 73/100 |
 | 85 | [drakulavich/kesha-voice-kit](./drakulavich-kesha-voice-kit.md) | ⭐ 80 | TypeScript | 73/100 |
 | 86 | [ayushozha/AdobePremiereProMCP](./ayushozha-adobepremierepromcp.md) | ⭐ 144 | Go | 73/100 |
-| 87 | [lcy362/agnes-video-generator](./lcy362-agnes-video-generator.md) | ⭐ 701 | Python | 73/100 |
+| 87 | [lcy362/agnes-video-generator](./lcy362-agnes-video-generator.md) | ⭐ 707 | Python | 73/100 |
 | 88 | [VelornLabs/velorn](./velornlabs-velorn.md) | ⭐ 531 | JavaScript | 73/100 |
 | 89 | [kouhxp/yapsnap](./kouhxp-yapsnap.md) | ⭐ 436 | Python | 73/100 |
 | 90 | [Cassette-Editor/oh-my-cassette](./cassette-editor-oh-my-cassette.md) | ⭐ 220 | Python | 73/100 |
@@ -217,7 +217,7 @@
 | 207 | [codeverbojan/remotion-cinematic](./codeverbojan-remotion-cinematic.md) | ⭐ 25 | TypeScript | 66/100 |
 | 208 | [unclejobs-ai/motion-video-skill](./unclejobs-ai-motion-video-skill.md) | ⭐ 140 | TypeScript | 66/100 |
 | 209 | [noahgsolomon/brainrot.js](./noahgsolomon-brainrot.js.md) | ⭐ 958 | Python | 66/100 |
-| 210 | [shadcn-labs/snapcn](./shadcn-labs-snapcn.md) | ⭐ 614 | TypeScript | 66/100 |
+| 210 | [shadcn-labs/snapcn](./shadcn-labs-snapcn.md) | ⭐ 618 | TypeScript | 66/100 |
 | 211 | [liyupi/ai-promo-video-maker](./liyupi-ai-promo-video-maker.md) | ⭐ 472 | Python | 66/100 |
 | 212 | [GTKottman/mortiflix-oss](./gtkottman-mortiflix-oss.md) | ⭐ 699 | JavaScript | 66/100 |
 | 213 | [chenwr727/TextToTalk](./chenwr727-texttotalk.md) | ⭐ 17 | TypeScript | 66/100 |
@@ -340,7 +340,7 @@
 | 330 | [MediaMolder/mediamolder](./mediamolder-mediamolder.md) | ⭐ 113 | Go | 62/100 |
 | 331 | [Alisa0808/vox-director](./alisa0808-vox-director.md) | ⭐ 2.8k | Python | 62/100 |
 | 332 | [UniversalMediaServer/UniversalMediaServer](./universalmediaserver-universalmediaserver.md) | ⭐ 2.7k | Java | 62/100 |
-| 333 | [DevEmperor/DictateKeyboard](./devemperor-dictatekeyboard.md) | ⭐ 319 | Kotlin | 62/100 |
+| 333 | [DevEmperor/DictateKeyboard](./devemperor-dictatekeyboard.md) | ⭐ 320 | Kotlin | 62/100 |
 | 334 | [DareDev256/fcpxml-mcp-server](./daredev256-fcpxml-mcp-server.md) | ⭐ 65 | Python | 62/100 |
 | 335 | [dimastatz/whisper-flow](./dimastatz-whisper-flow.md) | ⭐ 1k | Python | 62/100 |
 | 336 | [idwts/Crayotter](./idwts-crayotter.md) | ⭐ 253 | Python | 62/100 |
@@ -416,7 +416,7 @@
 | 406 | [Laxcorp-Research/project-raven](./laxcorp-research-project-raven.md) | ⭐ 435 | TypeScript | 59/100 |
 | 407 | [66HEX/frame](./66hex-frame.md) | ⭐ 2.3k | Rust | 59/100 |
 | 408 | [KDE/kdenlive](./kde-kdenlive.md) | ⭐ 6.1k | C++ | 59/100 |
-| 409 | [iart-ai/motion-skills](./iart-ai-motion-skills.md) | ⭐ 1.4k | HTML | 59/100 |
+| 409 | [iart-ai/motion-skills](./iart-ai-motion-skills.md) | ⭐ 1.5k | HTML | 59/100 |
 | 410 | [b-editor/beutl](./b-editor-beutl.md) | ⭐ 1.2k | C# | 59/100 |
 | 411 | [digitalsamba/claude-code-video-toolkit](./digitalsamba-claude-code-video-toolkit.md) | ⭐ 2.6k | Python | 59/100 |
 | 412 | [xdagiz/xytz](./xdagiz-xytz.md) | ⭐ 660 | Go | 59/100 |
@@ -431,7 +431,7 @@
 | 421 | [CodeWithAmeer/MeerCut](./codewithameer-meercut.md) | ⭐ 36 | C++ | 58/100 |
 | 422 | [paullabs/edit-labs-ai](./paullabs-edit-labs-ai.md) | ⭐ 90 | Python | 58/100 |
 | 423 | [MyNiuuu/AniCrafter](./myniuuu-anicrafter.md) | ⭐ 145 | Python | 58/100 |
-| 424 | [HKUST-LongGroup/UniAVC](./hkust-longgroup-uniavc.md) | ⭐ 279 | Python | 58/100 |
+| 424 | [HKUST-LongGroup/UniAVC](./hkust-longgroup-uniavc.md) | ⭐ 282 | Python | 58/100 |
 | 425 | [appariciojunior/video-editor-skills](./appariciojunior-video-editor-skills.md) | ⭐ 445 | — | 58/100 |
 | 426 | [noamdorr/saas-product-demo-video](./noamdorr-saas-product-demo-video.md) | ⭐ 71 | TypeScript | 58/100 |
 | 427 | [apenasdouglas/ai-motion-library](./apenasdouglas-ai-motion-library.md) | ⭐ 80 | — | 58/100 |
@@ -518,7 +518,7 @@
 | 508 | [TheAcharya/MarkersExtractor](./theacharya-markersextractor.md) | ⭐ 48 | Swift | 54/100 |
 | 509 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 811 | C++ | 54/100 |
 | 510 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
-| 511 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 50 | Kotlin | 53/100 |
+| 511 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 51 | Kotlin | 53/100 |
 | 512 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
 | 513 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
 | 514 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |

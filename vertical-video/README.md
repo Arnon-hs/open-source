@@ -110,7 +110,7 @@
 | 100 | [Johnson-Jia/video-clipforge](./johnson-jia-video-clipforge.md) | ⭐ 49 | Python | 62/100 |
 | 101 | [isaachang/motion-video-workflow](./isaachang-motion-video-workflow.md) | ⭐ 16 | JavaScript | 61/100 |
 | 102 | [xianyu110/ecommerce-video-skills](./xianyu110-ecommerce-video-skills.md) | ⭐ 139 | Python | 61/100 |
-| 103 | [SaarD00/AI-Youtube-Shorts-Generator](./saard00-ai-youtube-shorts-generator.md) | ⭐ 278 | Python | 61/100 |
+| 103 | [SaarD00/AI-Youtube-Shorts-Generator](./saard00-ai-youtube-shorts-generator.md) | ⭐ 277 | Python | 61/100 |
 | 104 | [fxl1209739475-fxl/ai-xunjian](./fxl1209739475-fxl-ai-xunjian.md) | ⭐ 42 | TypeScript | 61/100 |
 | 105 | [HeyChengC/bighead-collage](./heychengc-bighead-collage.md) | ⭐ 71 | Python | 60/100 |
 | 106 | [ronin1770/reel-quick](./ronin1770-reel-quick.md) | ⭐ 16 | Python | 60/100 |

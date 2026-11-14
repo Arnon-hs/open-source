@@ -16,7 +16,7 @@
 | 6 | [green-coding-solutions/green-metrics-tool](./green-coding-solutions-green-metrics-tool.md) | ⭐ 259 | Python | 76/100 |
 | 7 | [enix/x509-certificate-exporter](./enix-x509-certificate-exporter.md) | ⭐ 965 | Go | 76/100 |
 | 8 | [nezhahq/nezha](./nezhahq-nezha.md) | ⭐ 10.4k | Go | 75/100 |
-| 9 | [CodesWhat/drydock](./codeswhat-drydock.md) | ⭐ 278 | TypeScript | 75/100 |
+| 9 | [CodesWhat/drydock](./codeswhat-drydock.md) | ⭐ 279 | TypeScript | 75/100 |
 | 10 | [kubernetes/metrics](./kubernetes-metrics.md) | ⭐ 536 | Go | 73/100 |
 | 11 | [pyrra-dev/pyrra](./pyrra-dev-pyrra.md) | ⭐ 1.5k | Go | 72/100 |
 | 12 | [iipeace/guider](./iipeace-guider.md) | ⭐ 684 | Python | 72/100 |
@@ -183,7 +183,7 @@
 | 173 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.7k | Java | 54/100 |
 | 174 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 998 | JavaScript | 54/100 |
 | 175 | [mother-of-all-self-hosting/mash-playbook](./mother-of-all-self-hosting-mash-playbook.md) | ⭐ 1.2k | Python | 54/100 |
-| 176 | [metafab/otel-gui](./metafab-otel-gui.md) | ⭐ 198 | TypeScript | 53/100 |
+| 176 | [metafab/otel-gui](./metafab-otel-gui.md) | ⭐ 199 | TypeScript | 53/100 |
 | 177 | [open-telemetry/opentelemetry-go-compile-instrumentation](./open-telemetry-opentelemetry-go-compile-instrumentation.md) | ⭐ 505 | Go | 53/100 |
 | 178 | [prometheus-community/avalanche](./prometheus-community-avalanche.md) | ⭐ 457 | Go | 53/100 |
 | 179 | [adriannovegil/awesome-observability](./adriannovegil-awesome-observability.md) | ⭐ 750 | — | 53/100 |

@@ -77,7 +77,7 @@
 | 67 | [Quenty/NevermoreEngine](./quenty-nevermoreengine.md) | ⭐ 634 | Lua | 62/100 |
 | 68 | [wolfpld/tracy](./wolfpld-tracy.md) | ⭐ 17.1k | C++ | 62/100 |
 | 69 | [thi-ng/umbrella](./thi-ng-umbrella.md) | ⭐ 3.8k | TypeScript | 62/100 |
-| 70 | [PokemonWorkshop/PokemonStudio](./pokemonworkshop-pokemonstudio.md) | ⭐ 226 | TypeScript | 62/100 |
+| 70 | [PokemonWorkshop/PokemonStudio](./pokemonworkshop-pokemonstudio.md) | ⭐ 227 | TypeScript | 62/100 |
 | 71 | [ChenlizheMe/Infernux](./chenlizheme-infernux.md) | ⭐ 2.6k | Python | 62/100 |
 | 72 | [ButterscotchRunner/Butterscotch](./butterscotchrunner-butterscotch.md) | ⭐ 416 | C | 62/100 |
 | 73 | [jrouwe/JoltPhysics](./jrouwe-joltphysics.md) | ⭐ 12.3k | C++ | 62/100 |

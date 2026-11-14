@@ -51,7 +51,7 @@
 | 41 | [google/digitalbuildings](./google-digitalbuildings.md) | ⭐ 467 | Python | 68/100 |
 | 42 | [longbridge/openapi](./longbridge-openapi.md) | ⭐ 472 | Rust | 68/100 |
 | 43 | [ansible/awx-operator](./ansible-awx-operator.md) | ⭐ 1.5k | Jinja | 67/100 |
-| 44 | [meilisearch/meilisearch-java](./meilisearch-meilisearch-java.md) | ⭐ 245 | Java | 67/100 |
+| 44 | [meilisearch/meilisearch-java](./meilisearch-meilisearch-java.md) | ⭐ 246 | Java | 67/100 |
 | 45 | [dart-lang/sdk](./dart-lang-sdk.md) | ⭐ 11.3k | Dart | 67/100 |
 | 46 | [korginc/logue-sdk](./korginc-logue-sdk.md) | ⭐ 1.1k | C | 67/100 |
 | 47 | [agentclientprotocol/rust-sdk](./agentclientprotocol-rust-sdk.md) | ⭐ 245 | Rust | 67/100 |
@@ -161,7 +161,7 @@
 | 151 | [aliyun/aliyun-oss-python-sdk](./aliyun-aliyun-oss-python-sdk.md) | ⭐ 996 | Python | 58/100 |
 | 152 | [saddam213/AmuseAI](./saddam213-amuseai.md) | ⭐ 667 | C# | 58/100 |
 | 153 | [gtk-rs/gtk4-rs](./gtk-rs-gtk4-rs.md) | ⭐ 2.4k | Rust | 58/100 |
-| 154 | [rust-nvml/nvml-wrapper](./rust-nvml-nvml-wrapper.md) | ⭐ 215 | Rust | 58/100 |
+| 154 | [rust-nvml/nvml-wrapper](./rust-nvml-nvml-wrapper.md) | ⭐ 216 | Rust | 58/100 |
 | 155 | [habedi/graphina](./habedi-graphina.md) | ⭐ 130 | Rust | 58/100 |
 | 156 | [dapr/java-sdk](./dapr-java-sdk.md) | ⭐ 302 | Java | 58/100 |
 | 157 | [alchemyplatform/aa-sdk](./alchemyplatform-aa-sdk.md) | ⭐ 323 | TypeScript | 58/100 |
@@ -183,7 +183,7 @@
 | 173 | [apple/swift-temporal-sdk](./apple-swift-temporal-sdk.md) | ⭐ 321 | Swift | 56/100 |
 | 174 | [rodrigocfd/winsafe](./rodrigocfd-winsafe.md) | ⭐ 708 | Rust | 56/100 |
 | 175 | [get-convex/convex-js](./get-convex-convex-js.md) | ⭐ 347 | TypeScript | 56/100 |
-| 176 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 322 | Rust | 56/100 |
+| 176 | [foxglove/foxglove-sdk](./foxglove-foxglove-sdk.md) | ⭐ 323 | Rust | 56/100 |
 | 177 | [Convertio/convertio-php](./convertio-convertio-php.md) | ⭐ 276 | PHP | 55/100 |
 | 178 | [xbill9/devto-sanity](./xbill9-devto-sanity.md) | ⭐ — | HTML | 55/100 |
 | 179 | [frida/frida-python](./frida-frida-python.md) | ⭐ 879 | Python | 55/100 |
@@ -219,7 +219,7 @@
 | 209 | [mlir-rs/melior](./mlir-rs-melior.md) | ⭐ 559 | Rust | 52/100 |
 | 210 | [uhop/node-re2](./uhop-node-re2.md) | ⭐ 566 | JavaScript | 52/100 |
 | 211 | [borchero/ducklake-sdk](./borchero-ducklake-sdk.md) | ⭐ 66 | — | 52/100 |
-| 212 | [yury/cidre](./yury-cidre.md) | ⭐ 225 | Rust | 52/100 |
+| 212 | [yury/cidre](./yury-cidre.md) | ⭐ 226 | Rust | 52/100 |
 | 213 | [livekit/rust-sdks](./livekit-rust-sdks.md) | ⭐ 508 | Rust | 52/100 |
 | 214 | [squirix/squirix](./squirix-squirix.md) | ⭐ 1 | C# | 51/100 |
 | 215 | [apple/apple-ads-platform-api-node](./apple-apple-ads-platform-api-node.md) | ⭐ 6 | TypeScript | 51/100 |

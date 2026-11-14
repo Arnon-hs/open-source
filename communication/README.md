@@ -175,7 +175,7 @@
 | 165 | [spacebarchat/server](./spacebarchat-server.md) | ⭐ 2.2k | TypeScript | 59/100 |
 | 166 | [scraly/developers-conferences-agenda](./scraly-developers-conferences-agenda.md) | ⭐ 2k | JavaScript | 59/100 |
 | 167 | [zulip/zulip](./zulip-zulip.md) | ⭐ 26.2k | Python | 59/100 |
-| 168 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 320 | Go | 59/100 |
+| 168 | [slackapi/slack-cli](./slackapi-slack-cli.md) | ⭐ 321 | Go | 59/100 |
 | 169 | [orangecoding/fredy](./orangecoding-fredy.md) | ⭐ 1.6k | JavaScript | 59/100 |
 | 170 | [ClimbStack/climbstack-app](./climbstack-climbstack-app.md) | ⭐ 4 | TypeScript | 58/100 |
 | 171 | [apache/artemis](./apache-artemis.md) | ⭐ 1.1k | Java | 58/100 |
@@ -258,7 +258,7 @@
 | 248 | [Felix-Helleckes/ICQ](./felix-helleckes-icq.md) | ⭐ 9 | JavaScript | 52/100 |
 | 249 | [PijarAdiluhung/mabims-hijri](./pijaradiluhung-mabims-hijri.md) | ⭐ 1 | TypeScript | 52/100 |
 | 250 | [drewmt/lineweb-social](./drewmt-lineweb-social.md) | ⭐ 14 | PHP | 52/100 |
-| 251 | [staktrace/mailparse](./staktrace-mailparse.md) | ⭐ 226 | Rust | 52/100 |
+| 251 | [staktrace/mailparse](./staktrace-mailparse.md) | ⭐ 225 | Rust | 52/100 |
 | 252 | [ArcaneChat/android](./arcanechat-android.md) | ⭐ 406 | Java | 52/100 |
 | 253 | [sublime-security/sublime-rules](./sublime-security-sublime-rules.md) | ⭐ 381 | YAML | 52/100 |
 | 254 | [logos-messaging/logos-delivery](./logos-messaging-logos-delivery.md) | ⭐ 249 | Nim | 52/100 |
@@ -299,7 +299,7 @@
 | 289 | [joshumax/git2imap](./joshumax-git2imap.md) | ⭐ 1 | — | 48/100 |
 | 290 | [slackhq/hakana](./slackhq-hakana.md) | ⭐ 111 | Rust | 48/100 |
 | 291 | [trougnouf/cfait](./trougnouf-cfait.md) | ⭐ 212 | Rust | 48/100 |
-| 292 | [agntcy/slim](./agntcy-slim.md) | ⭐ 233 | Rust | 48/100 |
+| 292 | [agntcy/slim](./agntcy-slim.md) | ⭐ 234 | Rust | 48/100 |
 | 293 | [1amageek/Toolbar](./1amageek-toolbar.md) | ⭐ 468 | Swift | 48/100 |
 | 294 | [awebai/aweb](./awebai-aweb.md) | ⭐ 129 | Go | 48/100 |
 | 295 | [nextcloud/mail](./nextcloud-mail.md) | ⭐ 1.1k | JavaScript | 48/100 |

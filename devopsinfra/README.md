@@ -144,7 +144,7 @@
 | 134 | [timothystewart6/techno-tim.github.io](./timothystewart6-techno-tim.github.io.md) | ⭐ 1.2k | Shell | 64/100 |
 | 135 | [rancher/dashboard](./rancher-dashboard.md) | ⭐ 630 | TypeScript | 64/100 |
 | 136 | [SinTan1729/chhoto-url](./sintan1729-chhoto-url.md) | ⭐ 1k | Rust | 64/100 |
-| 137 | [henriquesebastiao/downtify](./henriquesebastiao-downtify.md) | ⭐ 873 | Python | 64/100 |
+| 137 | [henriquesebastiao/downtify](./henriquesebastiao-downtify.md) | ⭐ 879 | Python | 64/100 |
 | 138 | [thomiceli/opengist](./thomiceli-opengist.md) | ⭐ 3.4k | Go | 64/100 |
 | 139 | [authelia/authelia](./authelia-authelia.md) | ⭐ 29.6k | Go | 64/100 |
 | 140 | [openshift/origin](./openshift-origin.md) | ⭐ 8.7k | Go | 64/100 |
@@ -188,13 +188,13 @@
 | 178 | [haloydev/haloy](./haloydev-haloy.md) | ⭐ 401 | Go | 62/100 |
 | 179 | [fossable/goldboot](./fossable-goldboot.md) | ⭐ 641 | Rust | 62/100 |
 | 180 | [mysticaltech/terraform-hcloud-kube-hetzner](./mysticaltech-terraform-hcloud-kube-hetzner.md) | ⭐ 3.9k | HCL | 62/100 |
-| 181 | [smp46/pingvin-share-x](./smp46-pingvin-share-x.md) | ⭐ 576 | TypeScript | 62/100 |
+| 181 | [smp46/pingvin-share-x](./smp46-pingvin-share-x.md) | ⭐ 578 | TypeScript | 62/100 |
 | 182 | [imagegenius/docker-immich](./imagegenius-docker-immich.md) | ⭐ 1.1k | Dockerfile | 62/100 |
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -295,8 +295,8 @@
 | 285 | [rancher/k3k](./rancher-k3k.md) | ⭐ 921 | Go | 57/100 |
 | 286 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 459 | Dockerfile | 57/100 |
 | 287 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.4k | PHP | 57/100 |
-| 288 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
-| 289 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 288 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 289 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
 | 290 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10.4k | Go | 57/100 |
 | 291 | [tackish/pigeoneye](./tackish-pigeoneye.md) | ⭐ 96 | — | 56/100 |
 | 292 | [softcane/codex-session-operator](./softcane-codex-session-operator.md) | ⭐ 6 | — | 56/100 |
@@ -489,8 +489,8 @@
 | 479 | [akshat-lakhera/kep-brain](./akshat-lakhera-kep-brain.md) | ⭐ — | Python | 42/100 |
 | 480 | [Nir-Bhay/antigravity-codespaces](./nir-bhay-antigravity-codespaces.md) | ⭐ 4 | — | 42/100 |
 | 481 | [RomanVolkov/agentctl](./romanvolkov-agentctl.md) | ⭐ — | — | 42/100 |
-| 482 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
-| 483 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 482 | [mario-ezquerro/scope](./mario-ezquerro-scope.md) | ⭐ 2 | — | 42/100 |
+| 483 | [weaveworks/scope](./weaveworks-scope.md) | ⭐ 5.9k | — | 42/100 |
 | 484 | [Booyaka101/ghas-free-pack](./booyaka101-ghas-free-pack.md) | ⭐ — | — | 42/100 |
 | 485 | [weirdGuy/kastor](./weirdguy-kastor.md) | ⭐ — | — | 42/100 |
 | 486 | [Cristhian465/Trabajo-en-equipo-de-investigaci-n-N-01-Herramientas-Sast-para-aplicaciones](./cristhian465-trabajo-en-equipo-de-investigaci-n-n-01-herramientas-sast-para-aplicaciones.md) | ⭐ — | — | 42/100 |

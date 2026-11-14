@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 244 |
+| ⭐ **Stars** | 245 |
 | 🍴 **Forks** | 196 |
 | 💻 **Language** | Starlark |
 | 📈 **Score** | 60/100 |

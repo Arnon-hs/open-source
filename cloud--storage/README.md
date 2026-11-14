@@ -300,7 +300,7 @@
 | 290 | [bep/s3deploy](./bep-s3deploy.md) | ⭐ 551 | Go | 60/100 |
 | 291 | [kubernetes-sigs/blob-csi-driver](./kubernetes-sigs-blob-csi-driver.md) | ⭐ 149 | Go | 60/100 |
 | 292 | [GoogleCloudPlatform/cloud-sql-proxy](./googlecloudplatform-cloud-sql-proxy.md) | ⭐ 1.4k | Go | 60/100 |
-| 293 | [aws/aperf](./aws-aperf.md) | ⭐ 244 | Rust | 60/100 |
+| 293 | [aws/aperf](./aws-aperf.md) | ⭐ 243 | Rust | 60/100 |
 | 294 | [Particular/NServiceBus](./particular-nservicebus.md) | ⭐ 2.2k | C# | 60/100 |
 | 295 | [tarmac-project/tarmac](./tarmac-project-tarmac.md) | ⭐ 346 | Go | 60/100 |
 | 296 | [spcl/serverless-benchmarks](./spcl-serverless-benchmarks.md) | ⭐ 199 | Python | 60/100 |
@@ -329,7 +329,7 @@
 | 319 | [brefphp/bref](./brefphp-bref.md) | ⭐ 3.4k | PHP | 59/100 |
 | 320 | [ScottArbeit/Grace](./scottarbeit-grace.md) | ⭐ 590 | F# | 59/100 |
 | 321 | [opengeos/GeoLibre](./opengeos-geolibre.md) | ⭐ 8.6k | TypeScript | 59/100 |
-| 322 | [Pokymon/foo.ng](./pokymon-foo.ng.md) | ⭐ 327 | — | 59/100 |
+| 322 | [Pokymon/foo.ng](./pokymon-foo.ng.md) | ⭐ 329 | — | 59/100 |
 | 323 | [hookdeck/outpost](./hookdeck-outpost.md) | ⭐ 1.1k | Go | 59/100 |
 | 324 | [MicrosoftDocs/azure-docs](./microsoftdocs-azure-docs.md) | ⭐ 11k | Markdown | 59/100 |
 | 325 | [ekristen/aws-nuke](./ekristen-aws-nuke.md) | ⭐ 1.4k | Go | 59/100 |
@@ -359,7 +359,7 @@
 | 349 | [anolilab/lunora](./anolilab-lunora.md) | ⭐ 298 | TypeScript | 58/100 |
 | 350 | [aws-beam/aws-elixir](./aws-beam-aws-elixir.md) | ⭐ 594 | Elixir | 58/100 |
 | 351 | [kubernetes/cloud-provider-aws](./kubernetes-cloud-provider-aws.md) | ⭐ 467 | Go | 58/100 |
-| 352 | [spinningfactory/kloak](./spinningfactory-kloak.md) | ⭐ 297 | C | 58/100 |
+| 352 | [spinningfactory/kloak](./spinningfactory-kloak.md) | ⭐ 298 | C | 58/100 |
 | 353 | [toss/granite](./toss-granite.md) | ⭐ 480 | TypeScript | 58/100 |
 | 354 | [aws/aws-lc-rs](./aws-aws-lc-rs.md) | ⭐ 676 | Rust | 58/100 |
 | 355 | [GoogleCloudPlatform/terraform-google-secure-cicd](./googlecloudplatform-terraform-google-secure-cicd.md) | ⭐ 140 | HCL | 58/100 |
@@ -512,8 +512,8 @@
 | 502 | [aws/efs-utils](./aws-efs-utils.md) | ⭐ 362 | Rust | 50/100 |
 | 503 | [DataDog/datadog-lambda-extension](./datadog-datadog-lambda-extension.md) | ⭐ 138 | Rust | 50/100 |
 | 504 | [aws/aws-advanced-jdbc-wrapper](./aws-aws-advanced-jdbc-wrapper.md) | ⭐ 366 | Java | 50/100 |
-| 505 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
-| 506 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
+| 505 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
+| 506 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
 | 507 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1.1k | Go | 50/100 |
 | 508 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 759 | Rust | 50/100 |
 | 509 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 670 | Python | 50/100 |

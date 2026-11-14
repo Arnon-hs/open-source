@@ -18,7 +18,7 @@
 | 8 | [gofiber/recipes](./gofiber-recipes.md) | ⭐ 3.5k | Go | 61/100 |
 | 9 | [zyronon/TypeWords](./zyronon-typewords.md) | ⭐ 11.8k | CSS | 60/100 |
 | 10 | [eunomia-bpf/bpf-developer-tutorial](./eunomia-bpf-bpf-developer-tutorial.md) | ⭐ 4.3k | C | 59/100 |
-| 11 | [INGInious/INGInious](./inginious-inginious.md) | ⭐ 243 | Python | 58/100 |
+| 11 | [INGInious/INGInious](./inginious-inginious.md) | ⭐ 242 | Python | 58/100 |
 | 12 | [pion/example-webrtc-applications](./pion-example-webrtc-applications.md) | ⭐ 1.4k | Go | 58/100 |
 | 13 | [cypress-io/cypress-example-kitchensink](./cypress-io-cypress-example-kitchensink.md) | ⭐ 1.2k | HTML | 58/100 |
 | 14 | [TheSpydog/SDL_gpu_examples](./thespydog-sdl-gpu-examples.md) | ⭐ 561 | C++ | 57/100 |

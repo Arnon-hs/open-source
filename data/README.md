@@ -300,7 +300,7 @@
 | 290 | [opensearch-project/OpenSearch](./opensearch-project-opensearch.md) | ⭐ 14k | Java | 52/100 |
 | 291 | [scigolib/hdf5](./scigolib-hdf5.md) | ⭐ 32 | Go | 51/100 |
 | 292 | [michaelsproul/rust_radix_trie](./michaelsproul-rust-radix-trie.md) | ⭐ 220 | Rust | 51/100 |
-| 293 | [explodingcamera/liwan](./explodingcamera-liwan.md) | ⭐ 227 | Rust | 51/100 |
+| 293 | [explodingcamera/liwan](./explodingcamera-liwan.md) | ⭐ 228 | Rust | 51/100 |
 | 294 | [Cydhra/vers](./cydhra-vers.md) | ⭐ 134 | Rust | 51/100 |
 | 295 | [calcit-lang/calcit](./calcit-lang-calcit.md) | ⭐ 150 | Rust | 51/100 |
 | 296 | [ipeaGIT/geobr](./ipeagit-geobr.md) | ⭐ 917 | R | 51/100 |
@@ -358,7 +358,7 @@
 | 348 | [mtantaoui/Integrate](./mtantaoui-integrate.md) | ⭐ 115 | Rust | 44/100 |
 | 349 | [apache/paimon-rust](./apache-paimon-rust.md) | ⭐ 215 | Rust | 44/100 |
 | 350 | [martinjrobins/diffsol](./martinjrobins-diffsol.md) | ⭐ 140 | Rust | 43/100 |
-| 351 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 310 | Rust | 43/100 |
+| 351 | [rocky-data/rocky](./rocky-data-rocky.md) | ⭐ 311 | Rust | 43/100 |
 | 352 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
 | 353 | [open-geocode-rs/open-geocode](./open-geocode-rs-open-geocode.md) | ⭐ — | — | 41/100 |
 | 354 | [mahdis24/iphone-backup-sync](./mahdis24-iphone-backup-sync.md) | ⭐ — | — | 41/100 |

@@ -1,6 +1,6 @@
 # modelflare-ai/AnyModelBot
 
-[![Stars](https://img.shields.io/github/stars/modelflare-ai/AnyModelBot?style=flat-square&color=yellow)](https://github.com/modelflare-ai/AnyModelBot/stargazers) [![Forks](https://img.shields.io/github/forks/modelflare-ai/AnyModelBot?style=flat-square&color=blue)](https://github.com/modelflare-ai/AnyModelBot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-63%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/modelflare-ai/AnyModelBot?style=flat-square&color=yellow)](https://github.com/modelflare-ai/AnyModelBot/stargazers) [![Forks](https://img.shields.io/github/forks/modelflare-ai/AnyModelBot?style=flat-square&color=blue)](https://github.com/modelflare-ai/AnyModelBot/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
 
 > 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 3.5k |
-| 🍴 **Forks** | 48 |
+| ⭐ **Stars** | 3.7k |
+| 🍴 **Forks** | 51 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 63/100 |
+| 📈 **Score** | 64/100 |
 | 🗓️ **Last push** | 2026-11-10 |
 | 🔍 **Source** | story-link |
 
@@ -53,8 +53,8 @@ modelflare-ai/AnyModelBot：modelflare-ai/AnyModelBot helps remove repetitive ma
 
 **Quality signals**
 
-- 3494 GitHub stars
-- 48 forks
+- 3701 GitHub stars
+- 51 forks
 - updated 2026-11-10
 - primary language: Python
 - 20 topics
@@ -66,14 +66,14 @@ modelflare-ai/AnyModelBot：modelflare-ai/AnyModelBot helps remove repetitive ma
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 75/100 |
+| quality | 76/100 |
 | integration | 46/100 |
 | production | 67/100 |
 | outlook | 73/100 |
-| adoption | 66/100 |
+| adoption | 67/100 |
 | categoryMatchCount | 300/100 |
-| stars | 75/100 |
-| forks | 42/100 |
+| stars | 76/100 |
+| forks | 43/100 |
 | recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |

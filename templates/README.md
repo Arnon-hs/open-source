@@ -123,7 +123,7 @@
 | 113 | [HugoBlox/hugo-theme-academic-cv](./hugoblox-hugo-theme-academic-cv.md) | ⭐ 5.1k | Jupyter Notebook | 73/100 |
 | 114 | [faizkhairi/claude-code-blueprint](./faizkhairi-claude-code-blueprint.md) | ⭐ 73 | Shell | 73/100 |
 | 115 | [moshehbenavraham/Ultimate-Agent-Directory](./moshehbenavraham-ultimate-agent-directory.md) | ⭐ 72 | Python | 73/100 |
-| 116 | [viticci/remctl](./viticci-remctl.md) | ⭐ 657 | Python | 73/100 |
+| 116 | [viticci/remctl](./viticci-remctl.md) | ⭐ 662 | Python | 73/100 |
 | 117 | [InvadingOctopus/comedot](./invadingoctopus-comedot.md) | ⭐ 551 | GDScript | 73/100 |
 | 118 | [a5chin/python-uv](./a5chin-python-uv.md) | ⭐ 373 | Python | 73/100 |
 | 119 | [Camelcade/Perl5-IDEA](./camelcade-perl5-idea.md) | ⭐ 421 | Java | 73/100 |
@@ -226,7 +226,7 @@
 | 216 | [KudoAI/ai-personas](./kudoai-ai-personas.md) | ⭐ 26 | Python | 68/100 |
 | 217 | [freddy-schuetz/n8n-claw](./freddy-schuetz-n8n-claw.md) | ⭐ 563 | Shell | 68/100 |
 | 218 | [wondeks/unity-mcp](./wondeks-unity-mcp.md) | ⭐ 21 | C# | 68/100 |
-| 219 | [Azure/awesome-azd](./azure-awesome-azd.md) | ⭐ 275 | TypeScript | 68/100 |
+| 219 | [Azure/awesome-azd](./azure-awesome-azd.md) | ⭐ 276 | TypeScript | 68/100 |
 | 220 | [gregjonesio/family-office-ai-skills](./gregjonesio-family-office-ai-skills.md) | ⭐ 11 | — | 67/100 |
 | 221 | [janosbreuer/react-gdoc](./janosbreuer-react-gdoc.md) | ⭐ 2 | TypeScript | 67/100 |
 | 222 | [Fmaes2/dotnet-minimal-api-starter](./fmaes2-dotnet-minimal-api-starter.md) | ⭐ — | C# | 67/100 |
@@ -373,7 +373,7 @@
 | 363 | [onedr0p/cluster-template](./onedr0p-cluster-template.md) | ⭐ 2.8k | YAML | 60/100 |
 | 364 | [Alchemyst-ai/awesome-saas](./alchemyst-ai-awesome-saas.md) | ⭐ 422 | TypeScript | 60/100 |
 | 365 | [chrisdoc/hevy-mcp](./chrisdoc-hevy-mcp.md) | ⭐ 539 | TypeScript | 60/100 |
-| 366 | [product-on-purpose/pm-skills](./product-on-purpose-pm-skills.md) | ⭐ 802 | PowerShell | 60/100 |
+| 366 | [product-on-purpose/pm-skills](./product-on-purpose-pm-skills.md) | ⭐ 804 | PowerShell | 60/100 |
 | 367 | [trueforge-org/truecharts](./trueforge-org-truecharts.md) | ⭐ 1.4k | Go Template | 60/100 |
 | 368 | [MinaSaad1/n8n-data-analyst-agent](./minasaad1-n8n-data-analyst-agent.md) | ⭐ 6 | — | 59/100 |
 | 369 | [iydon/sustechthesis](./iydon-sustechthesis.md) | ⭐ 348 | TeX | 59/100 |

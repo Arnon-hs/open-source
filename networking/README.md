@@ -57,7 +57,7 @@
 | 47 | [anacrolix/torrent](./anacrolix-torrent.md) | ⭐ 6.1k | Go | 71/100 |
 | 48 | [marvinvr/docktail](./marvinvr-docktail.md) | ⭐ 1.5k | Go | 71/100 |
 | 49 | [python-websockets/websockets](./python-websockets-websockets.md) | ⭐ 5.7k | Python | 71/100 |
-| 50 | [Kobii-git/rackpad](./kobii-git-rackpad.md) | ⭐ 435 | TypeScript | 71/100 |
+| 50 | [Kobii-git/rackpad](./kobii-git-rackpad.md) | ⭐ 436 | TypeScript | 71/100 |
 | 51 | [projectcontour/contour](./projectcontour-contour.md) | ⭐ 4k | HTML | 71/100 |
 | 52 | [warp-tech/warpgate](./warp-tech-warpgate.md) | ⭐ 8.3k | Rust | 71/100 |
 | 53 | [http4k/http4k](./http4k-http4k.md) | ⭐ 2.8k | Kotlin | 71/100 |
@@ -160,7 +160,7 @@
 | 150 | [userver-framework/userver](./userver-framework-userver.md) | ⭐ 3k | C++ | 65/100 |
 | 151 | [osociety/vernet](./osociety-vernet.md) | ⭐ 572 | Dart | 64/100 |
 | 152 | [docmirror/dev-sidecar](./docmirror-dev-sidecar.md) | ⭐ 25.1k | JavaScript | 64/100 |
-| 153 | [Hidden-Node/MasterDnsVPN-AndroidClient](./hidden-node-masterdnsvpn-androidclient.md) | ⭐ 238 | Go | 64/100 |
+| 153 | [Hidden-Node/MasterDnsVPN-AndroidClient](./hidden-node-masterdnsvpn-androidclient.md) | ⭐ 239 | Go | 64/100 |
 | 154 | [WCY-dt/EasyTransfer](./wcy-dt-easytransfer.md) | ⭐ 689 | TypeScript | 64/100 |
 | 155 | [fastify/fastify-http-proxy](./fastify-fastify-http-proxy.md) | ⭐ 394 | JavaScript | 64/100 |
 | 156 | [supabase/pg_net](./supabase-pg-net.md) | ⭐ 377 | Python | 64/100 |
@@ -240,7 +240,7 @@
 | 230 | [burghardt/easy-wg-quick](./burghardt-easy-wg-quick.md) | ⭐ 1.1k | Shell | 61/100 |
 | 231 | [haproxy/haproxy](./haproxy-haproxy.md) | ⭐ 7k | C | 61/100 |
 | 232 | [http-server-rs/http-server](./http-server-rs-http-server.md) | ⭐ 212 | Rust | 61/100 |
-| 233 | [IRNova/Nova-Server](./irnova-nova-server.md) | ⭐ 360 | Shell | 61/100 |
+| 233 | [IRNova/Nova-Server](./irnova-nova-server.md) | ⭐ 361 | Shell | 61/100 |
 | 234 | [ashvardanian/less_slow.cpp](./ashvardanian-less-slow.cpp.md) | ⭐ 1.9k | C++ | 61/100 |
 | 235 | [jsdelivr/globalping-probe](./jsdelivr-globalping-probe.md) | ⭐ 215 | TypeScript | 61/100 |
 | 236 | [erebe/wstunnel](./erebe-wstunnel.md) | ⭐ 7.2k | Rust | 61/100 |
@@ -470,12 +470,12 @@
 | 460 | [North-web-dev/impersonate-http](./north-web-dev-impersonate-http.md) | ⭐ 9 | — | 51/100 |
 | 461 | [dvcoolarun/dynamic-tool-proxy](./dvcoolarun-dynamic-tool-proxy.md) | ⭐ 1 | Python | 51/100 |
 | 462 | [TykTechnologies/tyk-identity-broker](./tyktechnologies-tyk-identity-broker.md) | ⭐ 109 | Go | 51/100 |
-| 463 | [anton48/vk-turn-proxy-ios](./anton48-vk-turn-proxy-ios.md) | ⭐ 318 | Go | 51/100 |
+| 463 | [anton48/vk-turn-proxy-ios](./anton48-vk-turn-proxy-ios.md) | ⭐ 320 | Go | 51/100 |
 | 464 | [mackee3/tizi](./mackee3-tizi.md) | ⭐ 516 | — | 51/100 |
 | 465 | [femboyisp/yip](./femboyisp-yip.md) | ⭐ 130 | Rust | 51/100 |
 | 466 | [PinkD/corplink-rs](./pinkd-corplink-rs.md) | ⭐ 435 | Rust | 51/100 |
 | 467 | [X4BNet/lists_vpn](./x4bnet-lists-vpn.md) | ⭐ 931 | Shell | 51/100 |
-| 468 | [rayfish/rayfish](./rayfish-rayfish.md) | ⭐ 797 | Rust | 51/100 |
+| 468 | [rayfish/rayfish](./rayfish-rayfish.md) | ⭐ 800 | Rust | 51/100 |
 | 469 | [lzwme/scoop-proxy-cn](./lzwme-scoop-proxy-cn.md) | ⭐ 429 | templ | 51/100 |
 | 470 | [Devolutions/devolutions-gateway](./devolutions-devolutions-gateway.md) | ⭐ 168 | Rust | 51/100 |
 | 471 | [razvandimescu/numa](./razvandimescu-numa.md) | ⭐ 2k | Rust | 51/100 |
@@ -578,7 +578,7 @@
 | 568 | [s-bose/arrest](./s-bose-arrest.md) | ⭐ 174 | — | 45/100 |
 | 569 | [sleep3r/mtproto.zig](./sleep3r-mtproto.zig.md) | ⭐ 2.2k | Zig | 45/100 |
 | 570 | [Zaeem20/FREE_PROXIES_LIST](./zaeem20-free-proxies-list.md) | ⭐ 426 | — | 45/100 |
-| 571 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 266 | TypeScript | 45/100 |
+| 571 | [finos/git-proxy](./finos-git-proxy.md) | ⭐ 267 | TypeScript | 45/100 |
 | 572 | [zloi-user/hideip.me](./zloi-user-hideip.me.md) | ⭐ 514 | — | 45/100 |
 | 573 | [hello-world-1989/cn-news](./hello-world-1989-cn-news.md) | ⭐ 655 | — | 45/100 |
 | 574 | [bitstillery/mithril](./bitstillery-mithril.md) | ⭐ 3 | — | 44/100 |

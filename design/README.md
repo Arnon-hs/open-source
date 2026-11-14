@@ -63,7 +63,7 @@
 | 53 | [manoharys/paperwall](./manoharys-paperwall.md) | ⭐ 18 | JavaScript | 57/100 |
 | 54 | [FlightControl-Master/MOOSE](./flightcontrol-master-moose.md) | ⭐ 354 | Lua | 56/100 |
 | 55 | [OpenOLAT/OpenOLAT](./openolat-openolat.md) | ⭐ 451 | Java | 56/100 |
-| 56 | [uswds/uswds-site](./uswds-uswds-site.md) | ⭐ 252 | HTML | 56/100 |
+| 56 | [uswds/uswds-site](./uswds-uswds-site.md) | ⭐ 253 | HTML | 56/100 |
 | 57 | [nuxt/icon](./nuxt-icon.md) | ⭐ 1.2k | TypeScript | 56/100 |
 | 58 | [theexperiencecompany/keyloom](./theexperiencecompany-keyloom.md) | ⭐ 90 | TypeScript | 56/100 |
 | 59 | [iiab/iiab](./iiab-iiab.md) | ⭐ 2k | Jinja | 56/100 |
