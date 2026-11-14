@@ -486,8 +486,8 @@
 | 476 | [seek-oss/playroom](./seek-oss-playroom.md) | ⭐ 4.6k | TypeScript | 60/100 |
 | 477 | [endernoke/ink-picture](./endernoke-ink-picture.md) | ⭐ 51 | TypeScript | 60/100 |
 | 478 | [Dicklesworthstone/frankentui](./dicklesworthstone-frankentui.md) | ⭐ 299 | Rust | 60/100 |
-| 479 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
-| 480 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 479 | [ant-design/ant-design-icons](./ant-design-ant-design-icons.md) | ⭐ 1.1k | TypeScript | 60/100 |
+| 480 | [raysan5/raygui](./raysan5-raygui.md) | ⭐ 5.3k | C | 60/100 |
 | 481 | [EpicenterHQ/epicenter](./epicenterhq-epicenter.md) | ⭐ 4.8k | TypeScript | 60/100 |
 | 482 | [jR4dh3y/BoxBox](./jr4dh3y-boxbox.md) | ⭐ 366 | Go | 60/100 |
 | 483 | [tortuvshin/open-apps](./tortuvshin-open-apps.md) | ⭐ 4.5k | Astro | 60/100 |
@@ -913,7 +913,7 @@
 | 903 | [webview-native-ui/cordova-plugin](./webview-native-ui-cordova-plugin.md) | ⭐ — | JavaScript | 42/100 |
 | 904 | [runvnc/tvclaude](./runvnc-tvclaude.md) | ⭐ — | — | 41/100 |
 | 905 | [graiz/kittybrowser](./graiz-kittybrowser.md) | ⭐ 11 | — | 41/100 |
-| 906 | [alentodorov/casa-browser](./alentodorov-casa-browser.md) | ⭐ 1 | — | 41/100 |
+| 906 | [alentodorov/casa-browser](./alentodorov-casa-browser.md) | ⭐ 2 | — | 41/100 |
 | 907 | [zxcfrancyz/steam-currency-converter](./zxcfrancyz-steam-currency-converter.md) | ⭐ — | JavaScript | 41/100 |
 | 908 | [Deonkar/parkease](./deonkar-parkease.md) | ⭐ — | TypeScript | 41/100 |
 | 909 | [alexusmai/vue-laravel-file-manager](./alexusmai-vue-laravel-file-manager.md) | ⭐ 372 | JavaScript | 41/100 |

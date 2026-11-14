@@ -288,7 +288,7 @@
 | 278 | [lmtlssss/speedrunpapi](./lmtlssss-speedrunpapi.md) | ⭐ — | — | 41/100 |
 | 279 | [lis05/blaris](./lis05-blaris.md) | ⭐ — | — | 41/100 |
 | 280 | [LeriderTechnologies/bright-lines](./leridertechnologies-bright-lines.md) | ⭐ — | — | 41/100 |
-| 281 | [thenativeweb/architecturekit-rust](./thenativeweb-architecturekit-rust.md) | ⭐ 4 | — | 41/100 |
+| 281 | [thenativeweb/architecturekit-rust](./thenativeweb-architecturekit-rust.md) | ⭐ 6 | — | 41/100 |
 | 282 | [trencinodin-stack/arcstone-airlock-blueprint](./trencinodin-stack-arcstone-airlock-blueprint.md) | ⭐ 1 | — | 41/100 |
 | 283 | [dtolnay/semver-trick](./dtolnay-semver-trick.md) | ⭐ 573 | — | 41/100 |
 | 284 | [glastor-core/hyper64](./glastor-core-hyper64.md) | ⭐ 1 | — | 41/100 |
