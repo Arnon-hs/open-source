@@ -336,7 +336,7 @@
 | 326 | [alphasolutionsrepo/interakt](./alphasolutionsrepo-interakt.md) | ⭐ 25 | — | 45/100 |
 | 327 | [R44VC0RP/opensend](./r44vc0rp-opensend.md) | ⭐ 170 | — | 45/100 |
 | 328 | [vilaca/cursor-chat-cleaner](./vilaca-cursor-chat-cleaner.md) | ⭐ 3 | — | 45/100 |
-| 329 | [WICG/email-verification](./wicg-email-verification.md) | ⭐ 678 | — | 45/100 |
+| 329 | [WICG/email-verification](./wicg-email-verification.md) | ⭐ 679 | — | 45/100 |
 | 330 | [initsixdev/QTC](./initsixdev-qtc.md) | ⭐ 12 | — | 45/100 |
 | 331 | [matt0x6F/irc-client](./matt0x6f-irc-client.md) | ⭐ 16 | — | 45/100 |
 | 332 | [anuragmerndev/kontext-ai](./anuragmerndev-kontext-ai.md) | ⭐ 25 | — | 45/100 |
@@ -385,7 +385,7 @@
 | 375 | [mestr-io/channelvault](./mestr-io-channelvault.md) | ⭐ 4 | — | 41/100 |
 | 376 | [adrianCX/picohive-epaper](./adriancx-picohive-epaper.md) | ⭐ 1 | — | 41/100 |
 | 377 | [azc5OQ/lemon-chat](./azc5oq-lemon-chat.md) | ⭐ 19 | — | 41/100 |
-| 378 | [VictorTaelin/uniichat](./victortaelin-uniichat.md) | ⭐ 667 | — | 41/100 |
+| 378 | [VictorTaelin/uniichat](./victortaelin-uniichat.md) | ⭐ 668 | — | 41/100 |
 | 379 | [UKA-135/deepseek-long-thread-record](./uka-135-deepseek-long-thread-record.md) | ⭐ — | — | 41/100 |
 | 380 | [maelswarm/openrock](./maelswarm-openrock.md) | ⭐ 2 | — | 41/100 |
 | 381 | [sums001/OpenInbox](./sums001-openinbox.md) | ⭐ 380 | — | 41/100 |

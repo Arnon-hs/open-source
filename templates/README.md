@@ -481,7 +481,7 @@
 | 471 | [weidsfsdwgf/ai-prototype-demo](./weidsfsdwgf-ai-prototype-demo.md) | ⭐ 6 | — | 45/100 |
 | 472 | [beint-no/thim](./beint-no-thim.md) | ⭐ 2 | — | 45/100 |
 | 473 | [Alessandro114/scala-sites](./alessandro114-scala-sites.md) | ⭐ 6 | — | 45/100 |
-| 474 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ 455 | — | 45/100 |
+| 474 | [vercel-labs/marketing-team-eve-template](./vercel-labs-marketing-team-eve-template.md) | ⭐ 456 | — | 45/100 |
 | 475 | [artob/readmer](./artob-readmer.md) | ⭐ 13 | — | 45/100 |
 | 476 | [human0-ai/template](./human0-ai-template.md) | ⭐ 3 | — | 45/100 |
 | 477 | [brescou/langgraph-agent-stack](./brescou-langgraph-agent-stack.md) | ⭐ 20 | — | 45/100 |

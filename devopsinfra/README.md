@@ -2,7 +2,7 @@
 
 > Deployment, CI/CD, cloud, ops
 
-**564 projects** in this category.
+**565 projects** in this category.
 
 ## Projects
 
@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -508,7 +508,7 @@
 | 498 | [hashicorp/vagrant](./hashicorp-vagrant.md) | ⭐ — | — | 41/100 |
 | 499 | [linsomniac/apt-cacher-ultra](./linsomniac-apt-cacher-ultra.md) | ⭐ 27 | — | 41/100 |
 | 500 | [giovantenne/nixorium](./giovantenne-nixorium.md) | ⭐ 67 | — | 41/100 |
-| 501 | [UniXNU/UniXNU](./unixnu-unixnu.md) | ⭐ 2.8k | — | 41/100 |
+| 501 | [UniXNU/UniXNU](./unixnu-unixnu.md) | ⭐ 2.9k | — | 41/100 |
 | 502 | [tanishqkancharla/tandem](./tanishqkancharla-tandem.md) | ⭐ 25 | — | 41/100 |
 | 503 | [picubedllc/terraform-provider-appleads](./picubedllc-terraform-provider-appleads.md) | ⭐ 3 | — | 41/100 |
 | 504 | [TilakMaddy/hyperindex-openinfra](./tilakmaddy-hyperindex-openinfra.md) | ⭐ 2 | — | 41/100 |
@@ -535,7 +535,7 @@
 | 525 | [SRENIX-AI/agentic-sre](./srenix-ai-agentic-sre.md) | ⭐ — | — | 41/100 |
 | 526 | [maddhruv/rasptele](./maddhruv-rasptele.md) | ⭐ — | — | 41/100 |
 | 527 | [hyturing/compose-pulse](./hyturing-compose-pulse.md) | ⭐ 9 | — | 41/100 |
-| 528 | [unihosted/unifi-os-server-docker](./unihosted-unifi-os-server-docker.md) | ⭐ 99 | — | 41/100 |
+| 528 | [unihosted/unifi-os-server-docker](./unihosted-unifi-os-server-docker.md) | ⭐ 100 | — | 41/100 |
 | 529 | [upbound/asterkube](./upbound-asterkube.md) | ⭐ — | — | 41/100 |
 | 530 | [Cloud-V-10xE/RISC-V-software](./cloud-v-10xe-risc-v-software.md) | ⭐ 3 | — | 41/100 |
 | 531 | [hrodrig/groot](./hrodrig-groot.md) | ⭐ — | — | 41/100 |
@@ -549,29 +549,30 @@
 | 539 | [Mikemiol17/bugtalk](./mikemiol17-bugtalk.md) | ⭐ 3 | — | 41/100 |
 | 540 | [calfonso/rusternetes](./calfonso-rusternetes.md) | ⭐ 794 | — | 41/100 |
 | 541 | [kubernetes/community](./kubernetes-community.md) | ⭐ 13.1k | — | 40/100 |
-| 542 | [The-DevOps-Daily/soc2-evidence-collector](./the-devops-daily-soc2-evidence-collector.md) | ⭐ — | — | 39/100 |
-| 543 | [reachdiff/reachdiff](./reachdiff-reachdiff.md) | ⭐ — | Python | 39/100 |
-| 544 | [citizen204/ghast](./citizen204-ghast.md) | ⭐ — | — | 39/100 |
-| 545 | [Booyaka101/actions-attic](./booyaka101-actions-attic.md) | ⭐ — | — | 39/100 |
-| 546 | [saharkit/windowsill](./saharkit-windowsill.md) | ⭐ — | — | 39/100 |
-| 547 | [bors-ng/bors-ng](./bors-ng-bors-ng.md) | ⭐ 1.5k | — | 39/100 |
-| 548 | [in-toto/in-toto](./in-toto-in-toto.md) | ⭐ 1.1k | — | 39/100 |
-| 549 | [polybar/polybar](./polybar-polybar.md) | ⭐ 15.4k | — | 39/100 |
-| 550 | [takundanashebmuchena-pixel/quantum-audit](./takundanashebmuchena-pixel-quantum-audit.md) | ⭐ — | — | 39/100 |
-| 551 | [brandonjsellam-Releone/verify-pqc](./brandonjsellam-releone-verify-pqc.md) | ⭐ — | — | 39/100 |
-| 552 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 146 | Rust | 39/100 |
-| 553 | [weerocksllc/teamaibox](./weerocksllc-teamaibox.md) | ⭐ — | JavaScript | 39/100 |
-| 554 | [otterdeploy/otterdeploy](./otterdeploy-otterdeploy.md) | ⭐ 6 | — | 38/100 |
-| 555 | [AppsVortex/arness](./appsvortex-arness.md) | ⭐ 35 | — | 38/100 |
-| 556 | [techpivot/terraform-module-releaser](./techpivot-terraform-module-releaser.md) | ⭐ 236 | — | 38/100 |
-| 557 | [bonushora/surgical-dev-ops](./bonushora-surgical-dev-ops.md) | ⭐ — | — | 38/100 |
-| 558 | [openai/terraform-provider-openai](./openai-terraform-provider-openai.md) | ⭐ 43 | — | 38/100 |
-| 559 | [davidecampora/Omnibaas](./davidecampora-omnibaas.md) | ⭐ 1 | — | 38/100 |
-| 560 | [omarismail/terraform-plan-tui](./omarismail-terraform-plan-tui.md) | ⭐ 121 | — | 38/100 |
-| 561 | [ilyesarf/straw](./ilyesarf-straw.md) | ⭐ — | — | 38/100 |
-| 562 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ 38 | — | 38/100 |
-| 563 | [ArmorerLabs/Armorer](./armorerlabs-armorer.md) | ⭐ — | — | 36/100 |
-| 564 | [jaequery/dockerhoster](./jaequery-dockerhoster.md) | ⭐ — | Shell | 30/100 |
+| 542 | [kjpopov/testls](./kjpopov-testls.md) | ⭐ 11 | Rust | 40/100 |
+| 543 | [The-DevOps-Daily/soc2-evidence-collector](./the-devops-daily-soc2-evidence-collector.md) | ⭐ — | — | 39/100 |
+| 544 | [reachdiff/reachdiff](./reachdiff-reachdiff.md) | ⭐ — | Python | 39/100 |
+| 545 | [citizen204/ghast](./citizen204-ghast.md) | ⭐ — | — | 39/100 |
+| 546 | [Booyaka101/actions-attic](./booyaka101-actions-attic.md) | ⭐ — | — | 39/100 |
+| 547 | [saharkit/windowsill](./saharkit-windowsill.md) | ⭐ — | — | 39/100 |
+| 548 | [bors-ng/bors-ng](./bors-ng-bors-ng.md) | ⭐ 1.5k | — | 39/100 |
+| 549 | [in-toto/in-toto](./in-toto-in-toto.md) | ⭐ 1.1k | — | 39/100 |
+| 550 | [polybar/polybar](./polybar-polybar.md) | ⭐ 15.4k | — | 39/100 |
+| 551 | [takundanashebmuchena-pixel/quantum-audit](./takundanashebmuchena-pixel-quantum-audit.md) | ⭐ — | — | 39/100 |
+| 552 | [brandonjsellam-Releone/verify-pqc](./brandonjsellam-releone-verify-pqc.md) | ⭐ — | — | 39/100 |
+| 553 | [rust-lang/rust-repos](./rust-lang-rust-repos.md) | ⭐ 146 | Rust | 39/100 |
+| 554 | [weerocksllc/teamaibox](./weerocksllc-teamaibox.md) | ⭐ — | JavaScript | 39/100 |
+| 555 | [otterdeploy/otterdeploy](./otterdeploy-otterdeploy.md) | ⭐ 6 | — | 38/100 |
+| 556 | [AppsVortex/arness](./appsvortex-arness.md) | ⭐ 35 | — | 38/100 |
+| 557 | [techpivot/terraform-module-releaser](./techpivot-terraform-module-releaser.md) | ⭐ 236 | — | 38/100 |
+| 558 | [bonushora/surgical-dev-ops](./bonushora-surgical-dev-ops.md) | ⭐ — | — | 38/100 |
+| 559 | [openai/terraform-provider-openai](./openai-terraform-provider-openai.md) | ⭐ 43 | — | 38/100 |
+| 560 | [davidecampora/Omnibaas](./davidecampora-omnibaas.md) | ⭐ 1 | — | 38/100 |
+| 561 | [omarismail/terraform-plan-tui](./omarismail-terraform-plan-tui.md) | ⭐ 121 | — | 38/100 |
+| 562 | [ilyesarf/straw](./ilyesarf-straw.md) | ⭐ — | — | 38/100 |
+| 563 | [c3xdev/c3x](./c3xdev-c3x.md) | ⭐ 38 | — | 38/100 |
+| 564 | [ArmorerLabs/Armorer](./armorerlabs-armorer.md) | ⭐ — | — | 36/100 |
+| 565 | [jaequery/dockerhoster](./jaequery-dockerhoster.md) | ⭐ — | Shell | 30/100 |
 
 ---
 

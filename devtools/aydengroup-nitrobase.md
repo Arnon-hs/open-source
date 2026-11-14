@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Database
+DevTools
 
 ## 📝 Summary
 
 ### English
 
-AydenGroup/nitrobase: AydenGroup/nitrobase helps teams persist, query, and move data with less custom plumbing.. Use it for manage persistence; speed up data access. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AydenGroup/nitrobase: AydenGroup/nitrobase helps engineers save time in daily development and review loops.. Use it for speed up developer workflows; automate local engineering tasks. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-AydenGroup/nitrobase: open-source проект в категориях Database. Практическое применение: manage persistence; speed up data access. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+AydenGroup/nitrobase: open-source проект в категориях DevTools. Практическое применение: speed up developer workflows; automate local engineering tasks. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-AydenGroup/nitrobase：AydenGroup/nitrobase helps teams persist, query, and move data with less custom plumbing.。适合用于manage persistence、speed up data access。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+AydenGroup/nitrobase：AydenGroup/nitrobase helps engineers save time in daily development and review loops.。适合用于speed up developer workflows、automate local engineering tasks。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** AydenGroup/nitrobase helps teams persist, query, and move data with less custom plumbing.
+**Value:** AydenGroup/nitrobase helps engineers save time in daily development and review loops.
 
 **Best use cases**
 
-- manage persistence
-- speed up data access
-- prototype database-backed apps
+- speed up developer workflows
+- automate local engineering tasks
+- improve CI feedback
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,19 +65,19 @@ AydenGroup/nitrobase：AydenGroup/nitrobase helps teams persist, query, and move
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 54/100 |
-| adoption | 19/100 |
-| categoryMatchCount | 100/100 |
-| stars | 20/100 |
 | forks | 15/100 |
-| recency | 80/100 |
+| stars | 20/100 |
 | topics | 63/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 80/100 |
+| adoption | 19/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/AydenGroup/nitrobase) · [← Back to Database](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/AydenGroup/nitrobase) · [← Back to DevTools](./README.md)</sub>

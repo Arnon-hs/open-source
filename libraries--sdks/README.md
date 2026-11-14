@@ -144,7 +144,7 @@
 | 134 | [langfuse/langfuse-python](./langfuse-langfuse-python.md) | ⭐ 514 | Python | 60/100 |
 | 135 | [okunix/gollama](./okunix-gollama.md) | ⭐ 2 | — | 59/100 |
 | 136 | [sanity-io/client](./sanity-io-client.md) | ⭐ 114 | TypeScript | 59/100 |
-| 137 | [xai-org/xai-sdk-ts](./xai-org-xai-sdk-ts.md) | ⭐ 69 | — | 59/100 |
+| 137 | [xai-org/xai-sdk-ts](./xai-org-xai-sdk-ts.md) | ⭐ 70 | — | 59/100 |
 | 138 | [sahlberg/libnfs](./sahlberg-libnfs.md) | ⭐ 610 | C | 59/100 |
 | 139 | [gtk-rs/gtk-rs-core](./gtk-rs-gtk-rs-core.md) | ⭐ 382 | Rust | 59/100 |
 | 140 | [pygobject/pycairo](./pygobject-pycairo.md) | ⭐ 704 | C | 59/100 |
@@ -255,7 +255,7 @@
 | 245 | [Q-ANT-GmbH/qant_native_computing_toolkit](./q-ant-gmbh-qant-native-computing-toolkit.md) | ⭐ 96 | — | 48/100 |
 | 246 | [QAInsights/typesafe-java-sdk](./qainsights-typesafe-java-sdk.md) | ⭐ 1 | — | 48/100 |
 | 247 | [ne-app-open/src](./ne-app-open-src.md) | ⭐ — | — | 48/100 |
-| 248 | [ydb-platform/ydb-go-sdk](./ydb-platform-ydb-go-sdk.md) | ⭐ 181 | — | 48/100 |
+| 248 | [ydb-platform/ydb-go-sdk](./ydb-platform-ydb-go-sdk.md) | ⭐ 182 | — | 48/100 |
 | 249 | [ChristopherDond/9router-python](./christopherdond-9router-python.md) | ⭐ — | — | 48/100 |
 | 250 | [jmisilo/imessage-sdk](./jmisilo-imessage-sdk.md) | ⭐ 7 | — | 48/100 |
 | 251 | [lyfeninja/lyfeninja_blkseal_python_sdk](./lyfeninja-lyfeninja-blkseal-python-sdk.md) | ⭐ 3 | — | 48/100 |

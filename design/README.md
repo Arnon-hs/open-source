@@ -124,7 +124,7 @@
 | 114 | [CorvinLabs/CorvinOS](./corvinlabs-corvinos.md) | ⭐ 25 | — | 46/100 |
 | 115 | [WangFan-io/SnowAdmin](./wangfan-io-snowadmin.md) | ⭐ 1k | Vue | 46/100 |
 | 116 | [OpenRailAssociation/osrd](./openrailassociation-osrd.md) | ⭐ 679 | TypeScript | 46/100 |
-| 117 | [klad-app/klad](./klad-app-klad.md) | ⭐ 179 | — | 45/100 |
+| 117 | [klad-app/klad](./klad-app-klad.md) | ⭐ 225 | — | 45/100 |
 | 118 | [meta/astryx](./meta-astryx.md) | ⭐ 27.8k | — | 45/100 |
 | 119 | [VenoM9078/gradientdeck-skill](./venom9078-gradientdeck-skill.md) | ⭐ 46 | — | 45/100 |
 | 120 | [ui-layouts/uilayouts](./ui-layouts-uilayouts.md) | ⭐ 3.9k | — | 45/100 |
@@ -201,7 +201,7 @@
 | 191 | [PJHkorea/pim-hbm-bypass](./pjhkorea-pim-hbm-bypass.md) | ⭐ — | — | 38/100 |
 | 192 | [Trystan-SA/claude-design-system-prompt](./trystan-sa-claude-design-system-prompt.md) | ⭐ 2.1k | — | 38/100 |
 | 193 | [breschio/drawbridge](./breschio-drawbridge.md) | ⭐ 972 | — | 38/100 |
-| 194 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ 314 | — | 38/100 |
+| 194 | [tommyjepsen/awesome-ux-skills](./tommyjepsen-awesome-ux-skills.md) | ⭐ 316 | — | 38/100 |
 | 195 | [VoltAgent/awesome-design-md](./voltagent-awesome-design-md.md) | ⭐ 127.5k | — | 38/100 |
 | 196 | [open-energy-transition/grid2poster](./open-energy-transition-grid2poster.md) | ⭐ 272 | — | 38/100 |
 | 197 | [boya16573-design/Cube3.in](./boya16573-design-cube3.in.md) | ⭐ — | HTML | 36/100 |

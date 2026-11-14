@@ -577,8 +577,8 @@
 | 567 | [GSManagerXZ/GameServerManager](./gsmanagerxz-gameservermanager.md) | ⭐ 1.1k | TypeScript | 61/100 |
 | 568 | [vehagn/homelab](./vehagn-homelab.md) | ⭐ 403 | HCL | 61/100 |
 | 569 | [mesamirh/MovieBox-Tui](./mesamirh-moviebox-tui.md) | ⭐ 2.8k | Rust | 61/100 |
-| 570 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
-| 571 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
+| 570 | [phusion/passenger](./phusion-passenger.md) | ⭐ 5.1k | C++ | 61/100 |
+| 571 | [clice-io/clice](./clice-io-clice.md) | ⭐ 1.4k | C++ | 61/100 |
 | 572 | [simonepri/sympact](./simonepri-sympact.md) | ⭐ 441 | JavaScript | 61/100 |
 | 573 | [chung-leong/zigar](./chung-leong-zigar.md) | ⭐ 443 | Zig | 61/100 |
 | 574 | [rejetto/hfs](./rejetto-hfs.md) | ⭐ 4k | TypeScript | 61/100 |
@@ -637,8 +637,8 @@
 | 627 | [scottyzen/woonuxt](./scottyzen-woonuxt.md) | ⭐ 973 | TypeScript | 60/100 |
 | 628 | [ComunidadAylas/PackSquash](./comunidadaylas-packsquash.md) | ⭐ 872 | Rust | 60/100 |
 | 629 | [cabloy/cabloy](./cabloy-cabloy.md) | ⭐ 986 | TypeScript | 60/100 |
-| 630 | [vas3k/vas3k.club](./vas3k-vas3k.club.md) | ⭐ 941 | Python | 60/100 |
-| 631 | [bedrock-tool/bedrocktool](./bedrock-tool-bedrocktool.md) | ⭐ 370 | Go | 60/100 |
+| 630 | [bedrock-tool/bedrocktool](./bedrock-tool-bedrocktool.md) | ⭐ 370 | Go | 60/100 |
+| 631 | [vas3k/vas3k.club](./vas3k-vas3k.club.md) | ⭐ 941 | Python | 60/100 |
 | 632 | [PowerDNS/pdns](./powerdns-pdns.md) | ⭐ 4.5k | C++ | 60/100 |
 | 633 | [FreeRADIUS/freeradius-server](./freeradius-freeradius-server.md) | ⭐ 2.6k | C | 60/100 |
 | 634 | [apollographql/apollo-rs](./apollographql-apollo-rs.md) | ⭐ 608 | Rust | 60/100 |
@@ -722,8 +722,8 @@
 | 712 | [mtalavi/coolify-mirror](./mtalavi-coolify-mirror.md) | ⭐ 19 | Go | 57/100 |
 | 713 | [bklaric/purescript-bklaric](./bklaric-purescript-bklaric.md) | ⭐ 1 | — | 57/100 |
 | 714 | [bklaric/team-tavern](./bklaric-team-tavern.md) | ⭐ 13 | — | 57/100 |
-| 715 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 72 | JavaScript | 57/100 |
-| 716 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 61 | JavaScript | 57/100 |
+| 715 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 61 | JavaScript | 57/100 |
+| 716 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 72 | JavaScript | 57/100 |
 | 717 | [HFQR/xitca-web](./hfqr-xitca-web.md) | ⭐ 1k | Rust | 57/100 |
 | 718 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 455 | JavaScript | 57/100 |
 | 719 | [speed-highlight/core](./speed-highlight-core.md) | ⭐ 419 | JavaScript | 57/100 |
@@ -988,7 +988,7 @@
 | 978 | [ScarfazeCompany/scar-script](./scarfazecompany-scar-script.md) | ⭐ 14 | — | 44/100 |
 | 979 | [ffseika0304/shanhai-gateway](./ffseika0304-shanhai-gateway.md) | ⭐ 7 | — | 44/100 |
 | 980 | [Matheus-Thurler/KubeSilicon](./matheus-thurler-kubesilicon.md) | ⭐ 4 | — | 44/100 |
-| 981 | [vinayrawat058/metermesh](./vinayrawat058-metermesh.md) | ⭐ 3 | — | 44/100 |
+| 981 | [vinayrawat058/metermesh](./vinayrawat058-metermesh.md) | ⭐ 6 | — | 44/100 |
 | 982 | [Arthur031221/Beholden](./arthur031221-beholden.md) | ⭐ — | JavaScript | 44/100 |
 | 983 | [amirhasanzadehpy/Pogo](./amirhasanzadehpy-pogo.md) | ⭐ 24 | — | 44/100 |
 | 984 | [JohnnyMorganz/luau-lsp](./johnnymorganz-luau-lsp.md) | ⭐ 565 | Luau | 44/100 |

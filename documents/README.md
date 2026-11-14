@@ -509,8 +509,8 @@
 | 499 | [cfug/flutter.cn](./cfug-flutter.cn.md) | ⭐ 568 | Dart | 47/100 |
 | 500 | [qpdf/qpdf](./qpdf-qpdf.md) | ⭐ 5.6k | C++ | 47/100 |
 | 501 | [kunlong-luo/resume-craft](./kunlong-luo-resume-craft.md) | ⭐ 2 | TypeScript | 46/100 |
-| 502 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
-| 503 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
+| 502 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 5 | TypeScript | 46/100 |
+| 503 | [zaengit/beaver](./zaengit-beaver.md) | ⭐ 9 | TypeScript | 46/100 |
 | 504 | [waka/sghtmltopdf](./waka-sghtmltopdf.md) | ⭐ 381 | Rust | 46/100 |
 | 505 | [Sigil-Ebook/Sigil](./sigil-ebook-sigil.md) | ⭐ 7.1k | C++ | 46/100 |
 | 506 | [fiduswriter/fiduswriter](./fiduswriter-fiduswriter.md) | ⭐ 570 | JavaScript | 46/100 |
@@ -518,7 +518,7 @@
 | 508 | [nextcloud/notes](./nextcloud-notes.md) | ⭐ 745 | JavaScript | 46/100 |
 | 509 | [zensical/zensical](./zensical-zensical.md) | ⭐ 6.2k | Rust | 46/100 |
 | 510 | [Seeed-Studio/wiki-documents](./seeed-studio-wiki-documents.md) | ⭐ 419 | JavaScript | 46/100 |
-| 511 | [TulipFarm/huntsman](./tulipfarm-huntsman.md) | ⭐ 12 | — | 45/100 |
+| 511 | [TulipFarm/huntsman](./tulipfarm-huntsman.md) | ⭐ 13 | — | 45/100 |
 | 512 | [cgxopen/AgentEd](./cgxopen-agented.md) | ⭐ 9 | — | 45/100 |
 | 513 | [bnlcas/pdf2epub](./bnlcas-pdf2epub.md) | ⭐ 8 | — | 45/100 |
 | 514 | [aartur/docexp](./aartur-docexp.md) | ⭐ 4 | — | 45/100 |
