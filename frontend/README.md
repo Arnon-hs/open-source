@@ -2,7 +2,7 @@
 
 > Web frameworks, UI libraries, browser tooling
 
-**944 projects** in this category.
+**945 projects** in this category.
 
 ## Projects
 
@@ -911,47 +911,48 @@
 | 901 | [dhutaryan/ngx-signal-query](./dhutaryan-ngx-signal-query.md) | ⭐ 10 | — | 42/100 |
 | 902 | [11suixing11/mindnotes-pro](./11suixing11-mindnotes-pro.md) | ⭐ 13 | — | 42/100 |
 | 903 | [webview-native-ui/cordova-plugin](./webview-native-ui-cordova-plugin.md) | ⭐ — | JavaScript | 42/100 |
-| 904 | [graiz/kittybrowser](./graiz-kittybrowser.md) | ⭐ 11 | — | 41/100 |
-| 905 | [alentodorov/casa-browser](./alentodorov-casa-browser.md) | ⭐ 1 | — | 41/100 |
-| 906 | [zxcfrancyz/steam-currency-converter](./zxcfrancyz-steam-currency-converter.md) | ⭐ — | JavaScript | 41/100 |
-| 907 | [Deonkar/parkease](./deonkar-parkease.md) | ⭐ — | TypeScript | 41/100 |
-| 908 | [alexusmai/vue-laravel-file-manager](./alexusmai-vue-laravel-file-manager.md) | ⭐ 372 | JavaScript | 41/100 |
-| 909 | [emirmrkaljevic/shrinkwatch-eu](./emirmrkaljevic-shrinkwatch-eu.md) | ⭐ — | JavaScript | 41/100 |
-| 910 | [vyshakh/react-jsonschema-ui](./vyshakh-react-jsonschema-ui.md) | ⭐ 2 | — | 41/100 |
-| 911 | [emirmrkaljevic/truediscount](./emirmrkaljevic-truediscount.md) | ⭐ — | JavaScript | 41/100 |
-| 912 | [ndop-ui/ui](./ndop-ui-ui.md) | ⭐ 11 | — | 41/100 |
-| 913 | [BernardoGiordano/srl](./bernardogiordano-srl.md) | ⭐ 6 | — | 41/100 |
-| 914 | [shader-effects-inc/shaders](./shader-effects-inc-shaders.md) | ⭐ 5.9k | — | 41/100 |
-| 915 | [hyper-serve/video-uploader](./hyper-serve-video-uploader.md) | ⭐ 3 | — | 41/100 |
-| 916 | [TiltedLunar123/clearline](./tiltedlunar123-clearline.md) | ⭐ 2 | JavaScript | 41/100 |
-| 917 | [spiritov/ds.css](./spiritov-ds.css.md) | ⭐ 612 | — | 41/100 |
-| 918 | [ui-layouts/cursify](./ui-layouts-cursify.md) | ⭐ 2.1k | — | 40/100 |
-| 919 | [sajjadcodes/baloot-neomorphic-ui](./sajjadcodes-baloot-neomorphic-ui.md) | ⭐ 1 | TypeScript | 40/100 |
-| 920 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 65 | Java | 40/100 |
-| 921 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ 43 | — | 39/100 |
-| 922 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ 4 | — | 39/100 |
-| 923 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ 16 | — | 39/100 |
-| 924 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
+| 904 | [runvnc/tvclaude](./runvnc-tvclaude.md) | ⭐ — | — | 41/100 |
+| 905 | [graiz/kittybrowser](./graiz-kittybrowser.md) | ⭐ 11 | — | 41/100 |
+| 906 | [alentodorov/casa-browser](./alentodorov-casa-browser.md) | ⭐ 1 | — | 41/100 |
+| 907 | [zxcfrancyz/steam-currency-converter](./zxcfrancyz-steam-currency-converter.md) | ⭐ — | JavaScript | 41/100 |
+| 908 | [Deonkar/parkease](./deonkar-parkease.md) | ⭐ — | TypeScript | 41/100 |
+| 909 | [alexusmai/vue-laravel-file-manager](./alexusmai-vue-laravel-file-manager.md) | ⭐ 372 | JavaScript | 41/100 |
+| 910 | [emirmrkaljevic/shrinkwatch-eu](./emirmrkaljevic-shrinkwatch-eu.md) | ⭐ — | JavaScript | 41/100 |
+| 911 | [vyshakh/react-jsonschema-ui](./vyshakh-react-jsonschema-ui.md) | ⭐ 2 | — | 41/100 |
+| 912 | [emirmrkaljevic/truediscount](./emirmrkaljevic-truediscount.md) | ⭐ — | JavaScript | 41/100 |
+| 913 | [ndop-ui/ui](./ndop-ui-ui.md) | ⭐ 11 | — | 41/100 |
+| 914 | [BernardoGiordano/srl](./bernardogiordano-srl.md) | ⭐ 6 | — | 41/100 |
+| 915 | [shader-effects-inc/shaders](./shader-effects-inc-shaders.md) | ⭐ 5.9k | — | 41/100 |
+| 916 | [hyper-serve/video-uploader](./hyper-serve-video-uploader.md) | ⭐ 3 | — | 41/100 |
+| 917 | [TiltedLunar123/clearline](./tiltedlunar123-clearline.md) | ⭐ 2 | JavaScript | 41/100 |
+| 918 | [spiritov/ds.css](./spiritov-ds.css.md) | ⭐ 612 | — | 41/100 |
+| 919 | [ui-layouts/cursify](./ui-layouts-cursify.md) | ⭐ 2.1k | — | 40/100 |
+| 920 | [sajjadcodes/baloot-neomorphic-ui](./sajjadcodes-baloot-neomorphic-ui.md) | ⭐ 1 | TypeScript | 40/100 |
+| 921 | [p32929/AndroidAppLockscreen](./p32929-androidapplockscreen.md) | ⭐ 65 | Java | 40/100 |
+| 922 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ 43 | — | 39/100 |
+| 923 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ 4 | — | 39/100 |
+| 924 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ 16 | — | 39/100 |
 | 925 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
-| 926 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
-| 927 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ 11 | — | 39/100 |
-| 928 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |
-| 929 | [Lanthanum89/dev.to-Frontend-Challenge-Comfort-Food-Edition](./lanthanum89-dev.to-frontend-challenge-comfort-food-edition.md) | ⭐ — | — | 39/100 |
-| 930 | [nobuo-miura/github-ui-translator](./nobuo-miura-github-ui-translator.md) | ⭐ 19 | — | 39/100 |
-| 931 | [paladini/aa-daily-reflections-database](./paladini-aa-daily-reflections-database.md) | ⭐ 2 | JavaScript | 39/100 |
-| 932 | [hub-env/ng-hub-ui-paginable](./hub-env-ng-hub-ui-paginable.md) | ⭐ 2 | TypeScript | 38/100 |
-| 933 | [Shadorux/shadow-the-hedgehog-css](./shadorux-shadow-the-hedgehog-css.md) | ⭐ — | HTML | 37/100 |
-| 934 | [viditx/sketchmorphism](./viditx-sketchmorphism.md) | ⭐ 2 | HTML | 37/100 |
-| 935 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ 61 | — | 37/100 |
-| 936 | [kagrawal61/rn-bundle-swapper](./kagrawal61-rn-bundle-swapper.md) | ⭐ 19 | TypeScript | 36/100 |
-| 937 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 34/100 |
-| 938 | [ravikisha/relaxicons](./ravikisha-relaxicons.md) | ⭐ 2 | JavaScript | 33/100 |
-| 939 | [Aditya8369/CampusQuest](./aditya8369-campusquest.md) | ⭐ — | CSS | 32/100 |
-| 940 | [aadifit/tdee-calc](./aadifit-tdee-calc.md) | ⭐ — | JavaScript | 31/100 |
-| 941 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ 2 | — | 30/100 |
-| 942 | [lillygrace-l/touchwood](./lillygrace-l-touchwood.md) | ⭐ — | JavaScript | 30/100 |
-| 943 | [shadcn/ui](./shadcn-ui.md) | ⭐ — | — | 27/100 |
-| 944 | [react-native-svg/react-native-svg](./react-native-svg-react-native-svg.md) | ⭐ — | — | 27/100 |
+| 926 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
+| 927 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
+| 928 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ 11 | — | 39/100 |
+| 929 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |
+| 930 | [Lanthanum89/dev.to-Frontend-Challenge-Comfort-Food-Edition](./lanthanum89-dev.to-frontend-challenge-comfort-food-edition.md) | ⭐ — | — | 39/100 |
+| 931 | [nobuo-miura/github-ui-translator](./nobuo-miura-github-ui-translator.md) | ⭐ 19 | — | 39/100 |
+| 932 | [paladini/aa-daily-reflections-database](./paladini-aa-daily-reflections-database.md) | ⭐ 2 | JavaScript | 39/100 |
+| 933 | [hub-env/ng-hub-ui-paginable](./hub-env-ng-hub-ui-paginable.md) | ⭐ 2 | TypeScript | 38/100 |
+| 934 | [Shadorux/shadow-the-hedgehog-css](./shadorux-shadow-the-hedgehog-css.md) | ⭐ — | HTML | 37/100 |
+| 935 | [viditx/sketchmorphism](./viditx-sketchmorphism.md) | ⭐ 2 | HTML | 37/100 |
+| 936 | [ovenpasta/adi2](./ovenpasta-adi2.md) | ⭐ 61 | — | 37/100 |
+| 937 | [kagrawal61/rn-bundle-swapper](./kagrawal61-rn-bundle-swapper.md) | ⭐ 19 | TypeScript | 36/100 |
+| 938 | [debba/gh-dashboard](./debba-gh-dashboard.md) | ⭐ — | — | 34/100 |
+| 939 | [ravikisha/relaxicons](./ravikisha-relaxicons.md) | ⭐ 2 | JavaScript | 33/100 |
+| 940 | [Aditya8369/CampusQuest](./aditya8369-campusquest.md) | ⭐ — | CSS | 32/100 |
+| 941 | [aadifit/tdee-calc](./aadifit-tdee-calc.md) | ⭐ — | JavaScript | 31/100 |
+| 942 | [iamovi/ghfrog](./iamovi-ghfrog.md) | ⭐ 2 | — | 30/100 |
+| 943 | [lillygrace-l/touchwood](./lillygrace-l-touchwood.md) | ⭐ — | JavaScript | 30/100 |
+| 944 | [shadcn/ui](./shadcn-ui.md) | ⭐ — | — | 27/100 |
+| 945 | [react-native-svg/react-native-svg](./react-native-svg-react-native-svg.md) | ⭐ — | — | 27/100 |
 
 ---
 

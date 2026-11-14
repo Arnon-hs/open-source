@@ -1,6 +1,6 @@
 # YOLOW92/yolow64
 
-[![Stars](https://img.shields.io/github/stars/YOLOW92/yolow64?style=flat-square&color=yellow)](https://github.com/YOLOW92/yolow64/stargazers) [![Forks](https://img.shields.io/github/forks/YOLOW92/yolow64?style=flat-square&color=blue)](https://github.com/YOLOW92/yolow64/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/YOLOW92/yolow64?style=flat-square&color=yellow)](https://github.com/YOLOW92/yolow64/stargazers) [![Forks](https://img.shields.io/github/forks/YOLOW92/yolow64?style=flat-square&color=blue)](https://github.com/YOLOW92/yolow64/network) [![Language](https://img.shields.io/badge/lang-Rust-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A fast Base64 codec for Rust — runtime-dispatched SIMD (AVX2/NEON), zero runtime dependencies, streaming and data-URL APIs.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Rust |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -58,22 +58,22 @@ YOLOW92/yolow64：YOLOW92/yolow64 helps add AI capability without starting from 
 - primary language: Rust
 - 6 topics
 
-**Risks:** No major metadata risk found, but license, security posture, and active maintainers still need final review.
+**Risks:** Quality signals are limited; verify license, maintenance, docs, issues, and release cadence before using it.
 
 ## 🧮 Score breakdown
 
 | Dimension | Score |
 |---|---:|
 | usefulness | 58/100 |
-| quality | 49/100 |
+| quality | 44/100 |
 | integration | 46/100 |
-| production | 62/100 |
-| outlook | 62/100 |
+| production | 56/100 |
+| outlook | 55/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 300/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 75/100 |
 | sourceTrust | 70/100 |
 

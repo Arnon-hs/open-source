@@ -1,6 +1,6 @@
 # abdulrehmanazizofficial/Enigma-Ray
 
-[![Stars](https://img.shields.io/github/stars/abdulrehmanazizofficial/Enigma-Ray?style=flat-square&color=yellow)](https://github.com/abdulrehmanazizofficial/Enigma-Ray/stargazers) [![Forks](https://img.shields.io/github/forks/abdulrehmanazizofficial/Enigma-Ray?style=flat-square&color=blue)](https://github.com/abdulrehmanazizofficial/Enigma-Ray/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-64%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/abdulrehmanazizofficial/Enigma-Ray?style=flat-square&color=yellow)](https://github.com/abdulrehmanazizofficial/Enigma-Ray/stargazers) [![Forks](https://img.shields.io/github/forks/abdulrehmanazizofficial/Enigma-Ray?style=flat-square&color=blue)](https://github.com/abdulrehmanazizofficial/Enigma-Ray/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-61%2F100-brightgreen?style=flat-square)](#)
 
 > Open-source AI creative suite for image & video generation, cinematic production, lip sync, audio, and node-based workflows. 600+ AI models across 17 studios, with self-hosted deployment and local GPU inference. Create. Transform. Evolve.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 64/100 |
+| 📈 **Score** | 61/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ abdulrehmanazizofficial/Enigma-Ray：abdulrehmanazizofficial/Enigma-Ray helps ad
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 54/100 |
+| quality | 49/100 |
 | integration | 46/100 |
-| production | 64/100 |
-| outlook | 74/100 |
+| production | 57/100 |
+| outlook | 67/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 100/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

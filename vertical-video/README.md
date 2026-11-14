@@ -170,8 +170,8 @@
 | 160 | [download-reels/download-reels.github.io](./download-reels-download-reels.github.io.md) | ⭐ — | HTML | 49/100 |
 | 161 | [amagilabs/amagi-clipper](./amagilabs-amagi-clipper.md) | ⭐ 1 | — | 48/100 |
 | 162 | [ShortVideo-AI/short-video-script-skill](./shortvideo-ai-short-video-script-skill.md) | ⭐ 46 | — | 47/100 |
-| 163 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
-| 164 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 26 | Python | 47/100 |
+| 163 | [tttg2010/tj-short](./tttg2010-tj-short.md) | ⭐ 26 | Python | 47/100 |
+| 164 | [Snownamida/touch-grass](./snownamida-touch-grass.md) | ⭐ 85 | Kotlin | 47/100 |
 | 165 | [ucmao/mini-parse](./ucmao-mini-parse.md) | ⭐ 38 | JavaScript | 47/100 |
 | 166 | [lllyasviel/ControlNet](./lllyasviel-controlnet.md) | ⭐ 34.2k | — | 45/100 |
 | 167 | [arbab-io/reels-kit](./arbab-io-reels-kit.md) | ⭐ 1 | TypeScript | 44/100 |

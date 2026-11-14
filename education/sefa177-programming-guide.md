@@ -1,6 +1,6 @@
 # Sefa177/Programming-Guide
 
-[![Stars](https://img.shields.io/github/stars/Sefa177/Programming-Guide?style=flat-square&color=yellow)](https://github.com/Sefa177/Programming-Guide/stargazers) [![Forks](https://img.shields.io/github/forks/Sefa177/Programming-Guide?style=flat-square&color=blue)](https://github.com/Sefa177/Programming-Guide/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-51%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sefa177/Programming-Guide?style=flat-square&color=yellow)](https://github.com/Sefa177/Programming-Guide/stargazers) [![Forks](https://img.shields.io/github/forks/Sefa177/Programming-Guide?style=flat-square&color=blue)](https://github.com/Sefa177/Programming-Guide/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > A Guide that explains how to code different programming languages
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 51/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ Sefa177/Programming-Guide：Sefa177/Programming-Guide helps learn proven impleme
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 62/100 |
+| production | 59/100 |
+| outlook | 55/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 100/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

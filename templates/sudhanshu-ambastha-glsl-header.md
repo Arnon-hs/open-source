@@ -1,6 +1,6 @@
 # Sudhanshu-Ambastha/glsl-header
 
-[![Stars](https://img.shields.io/github/stars/Sudhanshu-Ambastha/glsl-header?style=flat-square&color=yellow)](https://github.com/Sudhanshu-Ambastha/glsl-header/stargazers) [![Forks](https://img.shields.io/github/forks/Sudhanshu-Ambastha/glsl-header?style=flat-square&color=blue)](https://github.com/Sudhanshu-Ambastha/glsl-header/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-45%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/Sudhanshu-Ambastha/glsl-header?style=flat-square&color=yellow)](https://github.com/Sudhanshu-Ambastha/glsl-header/stargazers) [![Forks](https://img.shields.io/github/forks/Sudhanshu-Ambastha/glsl-header?style=flat-square&color=blue)](https://github.com/Sudhanshu-Ambastha/glsl-header/network) [![Language](https://img.shields.io/badge/lang-JavaScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-42%2F100-brightgreen?style=flat-square)](#)
 
 > A modular C-style #include preprocessor and metadata-driven uniform binder for GLSL shaders, separating CPU orchestration from GPU execution for zero-boilerplate WebGL & Three.js apps.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | JavaScript |
-| 📈 **Score** | 45/100 |
+| 📈 **Score** | 42/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -65,15 +65,15 @@ Sudhanshu-Ambastha/glsl-header：Sudhanshu-Ambastha/glsl-header helps teams reus
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 53/100 |
+| quality | 48/100 |
 | integration | 30/100 |
-| production | 61/100 |
-| outlook | 62/100 |
+| production | 55/100 |
+| outlook | 55/100 |
 | adoption | 5/100 |
 | categoryMatchCount | 300/100 |
 | stars | 6/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

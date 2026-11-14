@@ -32,10 +32,10 @@
 | 22 | [junit-team/junit-examples](./junit-team-junit-examples.md) | ⭐ 1.6k | Java | 54/100 |
 | 23 | [aio-libs/aiohttp-demos](./aio-libs-aiohttp-demos.md) | ⭐ 749 | Makefile | 54/100 |
 | 24 | [zigcc/zig-course](./zigcc-zig-course.md) | ⭐ 385 | Zig | 53/100 |
-| 25 | [Sefa177/Programming-Guide](./sefa177-programming-guide.md) | ⭐ 1 | JavaScript | 51/100 |
-| 26 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.2k | Vim Script | 50/100 |
-| 27 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 232 | Rust | 49/100 |
-| 28 | [AloisSeckar/demos-java](./aloisseckar-demos-java.md) | ⭐ 26 | Java | 48/100 |
+| 25 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.2k | Vim Script | 50/100 |
+| 26 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 232 | Rust | 49/100 |
+| 27 | [AloisSeckar/demos-java](./aloisseckar-demos-java.md) | ⭐ 26 | Java | 48/100 |
+| 28 | [Sefa177/Programming-Guide](./sefa177-programming-guide.md) | ⭐ 1 | JavaScript | 48/100 |
 | 29 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 385 | Rust | 45/100 |
 | 30 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 441 | Mojo | 44/100 |
 | 31 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 265 | Rust | 44/100 |

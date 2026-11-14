@@ -339,7 +339,7 @@
 | 329 | [dmitriy-iliyov/oncebox](./dmitriy-iliyov-oncebox.md) | ⭐ 18 | Java | 46/100 |
 | 330 | [emptiesvoid-cloud/QF_solver](./emptiesvoid-cloud-qf-solver.md) | ⭐ 13 | Python | 46/100 |
 | 331 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 517 | R | 46/100 |
-| 332 | [bitsinfra/gnomon](./bitsinfra-gnomon.md) | ⭐ — | — | 45/100 |
+| 332 | [bitsinfra/gnomon](./bitsinfra-gnomon.md) | ⭐ 31 | — | 45/100 |
 | 333 | [angoikon/byd-trip-stats](./angoikon-byd-trip-stats.md) | ⭐ 102 | — | 45/100 |
 | 334 | [akkio-inc/igloo](./akkio-inc-igloo.md) | ⭐ 10 | — | 45/100 |
 | 335 | [scigolib/matlab](./scigolib-matlab.md) | ⭐ 12 | Go | 45/100 |
@@ -369,7 +369,7 @@
 | 359 | [Flubio/KPEI](./flubio-kpei.md) | ⭐ — | — | 41/100 |
 | 360 | [aperiodic-io/tparquet](./aperiodic-io-tparquet.md) | ⭐ 30 | — | 41/100 |
 | 361 | [vicena-labs/scientific-prediction-benchmark](./vicena-labs-scientific-prediction-benchmark.md) | ⭐ — | — | 41/100 |
-| 362 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ 86 | — | 41/100 |
+| 362 | [OpenTSLM/TimeNet](./opentslm-timenet.md) | ⭐ 87 | — | 41/100 |
 | 363 | [RedRiotTank/NativeJsonNavigator](./redriottank-nativejsonnavigator.md) | ⭐ 14 | — | 41/100 |
 | 364 | [luchtan-GIT/m4r-data](./luchtan-git-m4r-data.md) | ⭐ 1 | — | 41/100 |
 | 365 | [Mascottz/Codex-Naturalis](./mascottz-codex-naturalis.md) | ⭐ — | JavaScript | 41/100 |

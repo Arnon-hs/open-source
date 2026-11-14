@@ -61,7 +61,7 @@
 | 51 | [Anil-matcha/vox-ai-motion-graphics-generator](./anil-matcha-vox-ai-motion-graphics-generator.md) | ⭐ 348 | Python | 76/100 |
 | 52 | [CarGuo/GSYVideoPlayer](./carguo-gsyvideoplayer.md) | ⭐ 21.5k | Java | 76/100 |
 | 53 | [amicalhq/amical](./amicalhq-amical.md) | ⭐ 1.6k | TypeScript | 76/100 |
-| 54 | [EditAtlas/skills](./editatlas-skills.md) | ⭐ 36 | Python | 75/100 |
+| 54 | [EditAtlas/skills](./editatlas-skills.md) | ⭐ 40 | Python | 75/100 |
 | 55 | [rk0neki/OpenKatana](./rk0neki-openkatana.md) | ⭐ 76 | Python | 75/100 |
 | 56 | [shotstack/shotstack-sdk-python](./shotstack-shotstack-sdk-python.md) | ⭐ 27 | Python | 75/100 |
 | 57 | [cyancreatordive/cap-cut-Unlocker](./cyancreatordive-cap-cut-unlocker.md) | ⭐ 31 | — | 75/100 |
