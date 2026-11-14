@@ -1,6 +1,6 @@
 # fiwon123/viral-short-videos-ai
 
-[![Stars](https://img.shields.io/github/stars/fiwon123/viral-short-videos-ai?style=flat-square&color=yellow)](https://github.com/fiwon123/viral-short-videos-ai/stargazers) [![Forks](https://img.shields.io/github/forks/fiwon123/viral-short-videos-ai?style=flat-square&color=blue)](https://github.com/fiwon123/viral-short-videos-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-47%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/fiwon123/viral-short-videos-ai?style=flat-square&color=yellow)](https://github.com/fiwon123/viral-short-videos-ai/stargazers) [![Forks](https://img.shields.io/github/forks/fiwon123/viral-short-videos-ai?style=flat-square&color=blue)](https://github.com/fiwon123/viral-short-videos-ai/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-48%2F100-brightgreen?style=flat-square)](#)
 
 > AI-assisted studio for creating original 2D, 2.5D, and 3D animated shorts for YouTube and TikTok, from channel research and scripting to MP4 export.
 
@@ -8,10 +8,10 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | — |
+| ⭐ **Stars** | 1 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 47/100 |
+| 📈 **Score** | 48/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -53,6 +53,7 @@ fiwon123/viral-short-videos-ai：fiwon123/viral-short-videos-ai helps add AI cap
 
 **Quality signals**
 
+- 1 GitHub stars
 - updated 2026-11-11
 - primary language: Python
 - 9 topics
@@ -64,13 +65,13 @@ fiwon123/viral-short-videos-ai：fiwon123/viral-short-videos-ai helps add AI cap
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 45/100 |
+| quality | 48/100 |
 | integration | 62/100 |
-| production | 58/100 |
-| outlook | 53/100 |
-| adoption | 0/100 |
+| production | 59/100 |
+| outlook | 55/100 |
+| adoption | 5/100 |
 | categoryMatchCount | 200/100 |
-| stars | 0/100 |
+| stars | 6/100 |
 | forks | 0/100 |
 | recency | 80/100 |
 | topics | 100/100 |

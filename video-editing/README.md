@@ -578,8 +578,8 @@
 | 568 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 19 | — | 48/100 |
 | 569 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 570 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 3 | Python | 48/100 |
-| 571 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
-| 572 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 571 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 572 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
 | 573 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 574 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 34 | — | 48/100 |
 | 575 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ 22 | — | 48/100 |
@@ -624,7 +624,7 @@
 | 614 | [shareefmx/minomeet](./shareefmx-minomeet.md) | ⭐ 3 | TypeScript | 44/100 |
 | 615 | [NapoleonWils0n/ffmpeg-scripts](./napoleonwils0n-ffmpeg-scripts.md) | ⭐ 276 | Shell | 43/100 |
 | 616 | [diffusionstudio/editor](./diffusionstudio-editor.md) | ⭐ 3.5k | — | 42/100 |
-| 617 | [ronak-create/FableCut](./ronak-create-fablecut.md) | ⭐ 793 | — | 42/100 |
+| 617 | [ronak-create/FableCut](./ronak-create-fablecut.md) | ⭐ 794 | — | 42/100 |
 | 618 | [JeffreyHamilton6399/ShrinkRay](./jeffreyhamilton6399-shrinkray.md) | ⭐ 1 | — | 42/100 |
 | 619 | [wojciechowskiapp/Kaption](./wojciechowskiapp-kaption.md) | ⭐ 8 | — | 42/100 |
 | 620 | [DeegoFronk/Auto-Vod-Trimmer](./deegofronk-auto-vod-trimmer.md) | ⭐ 5 | — | 42/100 |

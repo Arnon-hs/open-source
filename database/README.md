@@ -375,7 +375,7 @@
 | 365 | [claix-dev/claix-for-devs](./claix-dev-claix-for-devs.md) | ⭐ 3 | — | 45/100 |
 | 366 | [artmih24/TeleParser](./artmih24-teleparser.md) | ⭐ 153 | Python | 45/100 |
 | 367 | [vericto/vericto-proxy](./vericto-vericto-proxy.md) | ⭐ 6 | — | 45/100 |
-| 368 | [readysettech/rdst](./readysettech-rdst.md) | ⭐ 20 | — | 45/100 |
+| 368 | [readysettech/rdst](./readysettech-rdst.md) | ⭐ 21 | — | 45/100 |
 | 369 | [turbolytics/dbhealth](./turbolytics-dbhealth.md) | ⭐ 2 | — | 45/100 |
 | 370 | [bytefish/SqlFlow](./bytefish-sqlflow.md) | ⭐ 1 | — | 45/100 |
 | 371 | [abidinberkay/Redivue](./abidinberkay-redivue.md) | ⭐ 5 | — | 45/100 |
@@ -469,7 +469,7 @@
 | 459 | [misaelzapata/duckonwire](./misaelzapata-duckonwire.md) | ⭐ 2 | — | 41/100 |
 | 460 | [sqliteai/sqlite-multiwriter](./sqliteai-sqlite-multiwriter.md) | ⭐ 194 | — | 41/100 |
 | 461 | [dobrinov/schema](./dobrinov-schema.md) | ⭐ 14 | — | 41/100 |
-| 462 | [samyfodil/musql](./samyfodil-musql.md) | ⭐ 129 | — | 41/100 |
+| 462 | [samyfodil/musql](./samyfodil-musql.md) | ⭐ 130 | — | 41/100 |
 | 463 | [berry-apps/berrydb-desktop](./berry-apps-berrydb-desktop.md) | ⭐ 26 | — | 41/100 |
 | 464 | [project-minigraf/minigraf](./project-minigraf-minigraf.md) | ⭐ 229 | — | 41/100 |
 | 465 | [explaindb/explaindb](./explaindb-explaindb.md) | ⭐ 189 | — | 41/100 |
@@ -573,8 +573,8 @@
 | 563 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 564 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 565 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 566 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
-| 567 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 154 | — | 38/100 |
+| 566 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 154 | — | 38/100 |
+| 567 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
 | 568 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 569 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 298 | — | 38/100 |
 | 570 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |

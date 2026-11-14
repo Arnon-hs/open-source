@@ -342,8 +342,8 @@
 | 332 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 333 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 334 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
-| 336 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
+| 336 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
 | 337 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 338 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 339 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -549,8 +549,8 @@
 | 539 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 540 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 541 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 543 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 543 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 544 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 545 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 546 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |
@@ -580,7 +580,7 @@
 | 570 | [s3s-project/s3s](./s3s-project-s3s.md) | ⭐ 319 | Rust | 42/100 |
 | 571 | [rafaelherik/azure-lupa](./rafaelherik-azure-lupa.md) | ⭐ — | TypeScript | 42/100 |
 | 572 | [auditaz/auditaz-cli](./auditaz-auditaz-cli.md) | ⭐ — | — | 41/100 |
-| 573 | [ralphbibera/cal.flare](./ralphbibera-cal.flare.md) | ⭐ 1 | — | 41/100 |
+| 573 | [ralphbibera/cal.flare](./ralphbibera-cal.flare.md) | ⭐ 6 | — | 41/100 |
 | 574 | [zero11-0203/s3mail](./zero11-0203-s3mail.md) | ⭐ 2 | — | 41/100 |
 | 575 | [Mattboxx/esp32-tailnet-gateway](./mattboxx-esp32-tailnet-gateway.md) | ⭐ 99 | — | 41/100 |
 | 576 | [SIENNA-IT-Solutions/s3gw](./sienna-it-solutions-s3gw.md) | ⭐ 3 | — | 41/100 |

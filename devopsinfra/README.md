@@ -129,8 +129,8 @@
 | 119 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 9k | Go | 64/100 |
 | 120 | [tborychowski/self-hosted-cookbook](./tborychowski-self-hosted-cookbook.md) | ⭐ 1.3k | — | 64/100 |
 | 121 | [open-policy-agent/gatekeeper-library](./open-policy-agent-gatekeeper-library.md) | ⭐ 705 | Open Policy Agent | 64/100 |
-| 122 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 677 | Go | 64/100 |
-| 123 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
+| 122 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
+| 123 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 677 | Go | 64/100 |
 | 124 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 64/100 |
 | 125 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 331 | Python | 64/100 |
 | 126 | [mkubaczyk/helmsman](./mkubaczyk-helmsman.md) | ⭐ 1.5k | Go | 64/100 |
@@ -441,7 +441,7 @@
 | 431 | [av/mi](./av-mi.md) | ⭐ — | — | 45/100 |
 | 432 | [hwdsl2/docker-ai-stack](./hwdsl2-docker-ai-stack.md) | ⭐ — | — | 45/100 |
 | 433 | [openstack/openstack-helm](./openstack-openstack-helm.md) | ⭐ 580 | Shell | 45/100 |
-| 434 | [bondrenai/TriageLab](./bondrenai-triagelab.md) | ⭐ — | — | 44/100 |
+| 434 | [bondrenai/TriageLab](./bondrenai-triagelab.md) | ⭐ 1 | — | 44/100 |
 | 435 | [ChrispyBacon-dev/DockFlare](./chrispybacon-dev-dockflare.md) | ⭐ 2.5k | — | 44/100 |
 | 436 | [shakg/g-systemctl](./shakg-g-systemctl.md) | ⭐ 103 | — | 44/100 |
 | 437 | [vitekube/vitekube](./vitekube-vitekube.md) | ⭐ 3 | — | 44/100 |

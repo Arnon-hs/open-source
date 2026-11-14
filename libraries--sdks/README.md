@@ -252,7 +252,7 @@
 | 242 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ 10 | — | 48/100 |
 | 243 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ 2.7k | — | 48/100 |
 | 244 | [DisplayLink/displaylink-direct](./displaylink-displaylink-direct.md) | ⭐ 2 | — | 48/100 |
-| 245 | [Q-ANT-GmbH/qant_native_computing_toolkit](./q-ant-gmbh-qant-native-computing-toolkit.md) | ⭐ 95 | — | 48/100 |
+| 245 | [Q-ANT-GmbH/qant_native_computing_toolkit](./q-ant-gmbh-qant-native-computing-toolkit.md) | ⭐ 96 | — | 48/100 |
 | 246 | [QAInsights/typesafe-java-sdk](./qainsights-typesafe-java-sdk.md) | ⭐ 1 | — | 48/100 |
 | 247 | [ne-app-open/src](./ne-app-open-src.md) | ⭐ — | — | 48/100 |
 | 248 | [ydb-platform/ydb-go-sdk](./ydb-platform-ydb-go-sdk.md) | ⭐ 181 | — | 48/100 |

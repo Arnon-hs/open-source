@@ -86,8 +86,8 @@
 | 76 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 77 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 78 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
-| 80 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
+| 80 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
 | 81 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 82 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 83 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -296,7 +296,7 @@
 | 286 | [michaelmagan/OpenHuman](./michaelmagan-openhuman.md) | ⭐ 11 | — | 48/100 |
 | 287 | [Groundmail/groundhog](./groundmail-groundhog.md) | ⭐ 2 | — | 48/100 |
 | 288 | [d99kris/nmail](./d99kris-nmail.md) | ⭐ 268 | — | 48/100 |
-| 289 | [roman-16/proton-cli](./roman-16-proton-cli.md) | ⭐ 109 | — | 48/100 |
+| 289 | [roman-16/proton-cli](./roman-16-proton-cli.md) | ⭐ 110 | — | 48/100 |
 | 290 | [joshumax/git2imap](./joshumax-git2imap.md) | ⭐ 1 | — | 48/100 |
 | 291 | [slackhq/hakana](./slackhq-hakana.md) | ⭐ 111 | Rust | 48/100 |
 | 292 | [trougnouf/cfait](./trougnouf-cfait.md) | ⭐ 212 | Rust | 48/100 |
@@ -427,7 +427,7 @@
 | 417 | [ajaynyayapathi/Gmail-AI-Threat-Scanner](./ajaynyayapathi-gmail-ai-threat-scanner.md) | ⭐ 3 | — | 41/100 |
 | 418 | [Donzaaa/Noxe](./donzaaa-noxe.md) | ⭐ — | — | 41/100 |
 | 419 | [RishabhKodes/blinks](./rishabhkodes-blinks.md) | ⭐ 6 | — | 41/100 |
-| 420 | [R44VC0RP/superlocal](./r44vc0rp-superlocal.md) | ⭐ 230 | — | 41/100 |
+| 420 | [R44VC0RP/superlocal](./r44vc0rp-superlocal.md) | ⭐ 231 | — | 41/100 |
 | 421 | [taslim/calsync](./taslim-calsync.md) | ⭐ 1 | — | 41/100 |
 | 422 | [mdbug/flipdot](./mdbug-flipdot.md) | ⭐ 2 | — | 41/100 |
 | 423 | [samjoshuadud/waylandar](./samjoshuadud-waylandar.md) | ⭐ 95 | — | 41/100 |

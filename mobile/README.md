@@ -162,8 +162,8 @@
 | 152 | [jiangtian616/JHenTai](./jiangtian616-jhentai.md) | ⭐ 5.8k | Dart | 59/100 |
 | 153 | [komikku-app/komikku](./komikku-app-komikku.md) | ⭐ 5k | Kotlin | 59/100 |
 | 154 | [florisboard/florisboard](./florisboard-florisboard.md) | ⭐ 8.8k | Kotlin | 59/100 |
-| 155 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.9k | Kotlin | 59/100 |
-| 156 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 155 | [Dart-Code/Dart-Code](./dart-code-dart-code.md) | ⭐ 1.6k | TypeScript | 59/100 |
+| 156 | [keiyoushi/extensions-source](./keiyoushi-extensions-source.md) | ⭐ 4.9k | Kotlin | 59/100 |
 | 157 | [bonigarcia/mastering-junit5](./bonigarcia-mastering-junit5.md) | ⭐ 430 | Java | 59/100 |
 | 158 | [moneytoo/Player](./moneytoo-player.md) | ⭐ 2.8k | Java | 59/100 |
 | 159 | [patrykandpatrick/vico](./patrykandpatrick-vico.md) | ⭐ 3.2k | Kotlin | 59/100 |
@@ -294,8 +294,8 @@
 | 284 | [solkin/appteka-android](./solkin-appteka-android.md) | ⭐ 1.4k | Kotlin | 55/100 |
 | 285 | [tabletseeker/mobian](./tabletseeker-mobian.md) | ⭐ 276 | Shell | 55/100 |
 | 286 | [square/wire](./square-wire.md) | ⭐ 4.4k | Kotlin | 55/100 |
-| 287 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 968 | Kotlin | 55/100 |
-| 288 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 1.6k | Kotlin | 55/100 |
+| 287 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 1.6k | Kotlin | 55/100 |
+| 288 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 968 | Kotlin | 55/100 |
 | 289 | [CatimaLoyalty/Android](./catimaloyalty-android.md) | ⭐ 1.7k | Java | 55/100 |
 | 290 | [facebook/redex](./facebook-redex.md) | ⭐ 6.3k | C++ | 55/100 |
 | 291 | [OneBusAway/onebusaway-android](./onebusaway-onebusaway-android.md) | ⭐ 582 | Kotlin | 55/100 |
@@ -524,8 +524,8 @@
 | 514 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 548 | Kotlin | 44/100 |
 | 515 | [WafflingNinja/waffleboost](./wafflingninja-waffleboost.md) | ⭐ 10 | Kotlin | 44/100 |
 | 516 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 22 | Kotlin | 43/100 |
-| 517 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
-| 518 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 993 | — | 43/100 |
+| 517 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 993 | — | 43/100 |
+| 518 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
 | 519 | [kuscholar/iDeck](./kuscholar-ideck.md) | ⭐ 415 | C | 43/100 |
 | 520 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 2 | JavaScript | 43/100 |
 | 521 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 10 | Kotlin | 43/100 |
@@ -556,7 +556,7 @@
 | 546 | [kolbicz/WQFiles](./kolbicz-wqfiles.md) | ⭐ 840 | — | 41/100 |
 | 547 | [pounceandmiss/tkabber-demo](./pounceandmiss-tkabber-demo.md) | ⭐ 1 | — | 41/100 |
 | 548 | [LuKks/webrtc-runtime](./lukks-webrtc-runtime.md) | ⭐ 1 | — | 41/100 |
-| 549 | [prototux/AARE](./prototux-aare.md) | ⭐ 563 | — | 41/100 |
+| 549 | [prototux/AARE](./prototux-aare.md) | ⭐ 571 | — | 41/100 |
 | 550 | [ssilvestri15/openfruit](./ssilvestri15-openfruit.md) | ⭐ 19 | — | 41/100 |
 | 551 | [MikeCer/DrawDock](./mikecer-drawdock.md) | ⭐ 1 | — | 41/100 |
 | 552 | [hito-dev/wand-browser](./hito-dev-wand-browser.md) | ⭐ 10 | — | 41/100 |
@@ -578,7 +578,7 @@
 | 568 | [andunieee/calltags](./andunieee-calltags.md) | ⭐ 2 | — | 41/100 |
 | 569 | [gantoine/muxer](./gantoine-muxer.md) | ⭐ 8 | — | 41/100 |
 | 570 | [trevornk/ramblr](./trevornk-ramblr.md) | ⭐ 103 | — | 41/100 |
-| 571 | [rrajath/bloom](./rrajath-bloom.md) | ⭐ 138 | — | 41/100 |
+| 571 | [rrajath/bloom](./rrajath-bloom.md) | ⭐ 141 | — | 41/100 |
 | 572 | [oosexgang/hackios-xnu-kernel](./oosexgang-hackios-xnu-kernel.md) | ⭐ — | — | 41/100 |
 | 573 | [jaguero21/Cadence](./jaguero21-cadence.md) | ⭐ 1 | — | 41/100 |
 | 574 | [al3j4ndrolm/FacilisCam](./al3j4ndrolm-faciliscam.md) | ⭐ 10 | — | 41/100 |
@@ -587,10 +587,10 @@
 | 577 | [kksimp/Mac.apk](./kksimp-mac.apk.md) | ⭐ 4.2k | — | 41/100 |
 | 578 | [FedericoDiTosto/KoSend](./federicoditosto-kosend.md) | ⭐ 23 | — | 41/100 |
 | 579 | [dipa-studio/ios-sweet](./dipa-studio-ios-sweet.md) | ⭐ 1.4k | — | 41/100 |
-| 580 | [rahimnathwani/sill-android](./rahimnathwani-sill-android.md) | ⭐ 5 | — | 41/100 |
+| 580 | [rahimnathwani/sill-android](./rahimnathwani-sill-android.md) | ⭐ 6 | — | 41/100 |
 | 581 | [allexp1/app-store-kit](./allexp1-app-store-kit.md) | ⭐ 15 | — | 41/100 |
 | 582 | [abacusai/simless](./abacusai-simless.md) | ⭐ 52 | — | 41/100 |
-| 583 | [samhenrigold/LightTouchMac](./samhenrigold-lighttouchmac.md) | ⭐ 345 | — | 41/100 |
+| 583 | [samhenrigold/LightTouchMac](./samhenrigold-lighttouchmac.md) | ⭐ 349 | — | 41/100 |
 | 584 | [xtool-org/xtool](./xtool-org-xtool.md) | ⭐ 15.4k | — | 41/100 |
 | 585 | [lucianRME/rme-pdf-scanner](./lucianrme-rme-pdf-scanner.md) | ⭐ 8 | — | 41/100 |
 | 586 | [tortugarr/tortugarr](./tortugarr-tortugarr.md) | ⭐ 5 | — | 41/100 |
@@ -660,7 +660,7 @@
 | 650 | [scastiel/kado](./scastiel-kado.md) | ⭐ 191 | — | 38/100 |
 | 651 | [wmww/tawc](./wmww-tawc.md) | ⭐ 272 | — | 38/100 |
 | 652 | [jocmp/capyreader](./jocmp-capyreader.md) | ⭐ 1.5k | — | 38/100 |
-| 653 | [rfandango/XenDroid](./rfandango-xendroid.md) | ⭐ 528 | — | 38/100 |
+| 653 | [rfandango/XenDroid](./rfandango-xendroid.md) | ⭐ 529 | — | 38/100 |
 | 654 | [shinyquagsire23/Klepton](./shinyquagsire23-klepton.md) | ⭐ 270 | — | 38/100 |
 | 655 | [ddagunts/pwagen](./ddagunts-pwagen.md) | ⭐ 5 | — | 38/100 |
 | 656 | [z0rats/freqcast](./z0rats-freqcast.md) | ⭐ 17 | — | 38/100 |
@@ -688,8 +688,8 @@
 | 678 | [ebanner/apl-keyboard](./ebanner-apl-keyboard.md) | ⭐ — | — | 38/100 |
 | 679 | [dttdrv/phonecode](./dttdrv-phonecode.md) | ⭐ 12 | — | 38/100 |
 | 680 | [ernestwisniewski/aonw](./ernestwisniewski-aonw.md) | ⭐ — | — | 38/100 |
-| 681 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
-| 682 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
+| 681 | [Lore-Hex/QuillUI](./lore-hex-quillui.md) | ⭐ 23 | — | 38/100 |
+| 682 | [secondly-com/openphone](./secondly-com-openphone.md) | ⭐ — | — | 38/100 |
 | 683 | [sdubois/vlsync](./sdubois-vlsync.md) | ⭐ 1 | — | 38/100 |
 | 684 | [challenga-org/openlanguage](./challenga-org-openlanguage.md) | ⭐ 18 | — | 38/100 |
 | 685 | [kuatsu/react-native-boost](./kuatsu-react-native-boost.md) | ⭐ 579 | — | 38/100 |
