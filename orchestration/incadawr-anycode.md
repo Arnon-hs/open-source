@@ -65,18 +65,18 @@ incadawr/anycode：incadawr/anycode helps turn isolated prompts and tools into r
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 49/100 |
-| integration | 94/100 |
-| production | 64/100 |
-| outlook | 67/100 |
-| adoption | 7/100 |
-| categoryMatchCount | 500/100 |
-| stars | 6/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 6/100 |
 | topics | 100/100 |
+| outlook | 67/100 |
+| quality | 49/100 |
+| recency | 80/100 |
+| adoption | 7/100 |
+| production | 64/100 |
+| usefulness | 100/100 |
+| integration | 94/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML · Automation
+Orchestration · AI/ML · Marketing
 
 ## 📝 Summary
 
 ### English
 
-alexliyu7352/for-you-skills: alexliyu7352/for-you-skills helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+alexliyu7352/for-you-skills: alexliyu7352/for-you-skills helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-alexliyu7352/for-you-skills: open-source проект в категориях AI/ML, Automation. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+alexliyu7352/for-you-skills: open-source проект в категориях Orchestration, AI/ML, Marketing. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-alexliyu7352/for-you-skills：alexliyu7352/for-you-skills helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+alexliyu7352/for-you-skills：alexliyu7352/for-you-skills helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** alexliyu7352/for-you-skills helps add AI capability without starting from a blank model stack.
+**Value:** alexliyu7352/for-you-skills helps turn isolated prompts and tools into repeatable agent workflows.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,19 +65,19 @@ alexliyu7352/for-you-skills：alexliyu7352/for-you-skills helps add AI capabilit
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 51/100 |
-| integration | 78/100 |
-| production | 63/100 |
-| outlook | 63/100 |
-| adoption | 11/100 |
-| categoryMatchCount | 200/100 |
-| stars | 13/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 13/100 |
 | topics | 100/100 |
+| outlook | 63/100 |
+| quality | 51/100 |
+| recency | 80/100 |
+| adoption | 11/100 |
+| production | 63/100 |
+| usefulness | 74/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/alexliyu7352/for-you-skills) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/alexliyu7352/for-you-skills) · [← Back to Orchestration](./README.md)</sub>

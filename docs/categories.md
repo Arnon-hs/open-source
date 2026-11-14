@@ -6,32 +6,32 @@ Only categories with at least 10 project cards have folders. The complete machin
 
 | Category | Project cards |
 | --- | ---: |
-| [AI/ML](../aiml/README.md) | 5,232 |
+| [AI/ML](../aiml/README.md) | 5,231 |
 | [Automation](../automation/README.md) | 1,712 |
 | [Backend](../backend/README.md) | 1,015 |
 | [Cloud & Storage](../cloud--storage/README.md) | 645 |
 | [Communication](../communication/README.md) | 491 |
-| [Content Creation](../content-creation/README.md) | 185 |
+| [Content Creation](../content-creation/README.md) | 186 |
 | [Crypto](../crypto/README.md) | 850 |
 | [Data](../data/README.md) | 383 |
 | [Database](../database/README.md) | 592 |
-| [Design](../design/README.md) | 200 |
+| [Design](../design/README.md) | 201 |
 | [DevOps/Infra](../devopsinfra/README.md) | 564 |
 | [DevTools](../devtools/README.md) | 1,705 |
 | [Documents](../documents/README.md) | 757 |
 | [Education](../education/README.md) | 39 |
 | [Frontend](../frontend/README.md) | 945 |
-| [Games & Graphics](../games--graphics/README.md) | 376 |
+| [Games & Graphics](../games--graphics/README.md) | 377 |
 | [Knowledge/RAG](../knowledgerag/README.md) | 659 |
 | [Libraries & SDKs](../libraries--sdks/README.md) | 302 |
 | [Marketing](../marketing/README.md) | 43 |
 | [MCP](../mcp/README.md) | 3,023 |
-| [Misc](../misc/README.md) | 18,251 |
+| [Misc](../misc/README.md) | 18,252 |
 | [Mobile](../mobile/README.md) | 710 |
 | [Networking](../networking/README.md) | 683 |
 | [Observability](../observability/README.md) | 329 |
-| [Orchestration](../orchestration/README.md) | 2,546 |
-| [Payments](../payments/README.md) | 397 |
+| [Orchestration](../orchestration/README.md) | 2,547 |
+| [Payments](../payments/README.md) | 399 |
 | [Product](../product/README.md) | 25 |
 | [Productivity](../productivity/README.md) | 382 |
 | [Security](../security/README.md) | 529 |

@@ -341,7 +341,7 @@
 | 331 | [yrosseel/lavaan](./yrosseel-lavaan.md) | ⭐ 517 | R | 46/100 |
 | 332 | [bitsinfra/gnomon](./bitsinfra-gnomon.md) | ⭐ 31 | — | 45/100 |
 | 333 | [angoikon/byd-trip-stats](./angoikon-byd-trip-stats.md) | ⭐ 102 | — | 45/100 |
-| 334 | [akkio-inc/igloo](./akkio-inc-igloo.md) | ⭐ 10 | — | 45/100 |
+| 334 | [akkio-inc/igloo](./akkio-inc-igloo.md) | ⭐ 14 | — | 45/100 |
 | 335 | [scigolib/matlab](./scigolib-matlab.md) | ⭐ 12 | Go | 45/100 |
 | 336 | [yakshjethva/jvm-inside-out](./yakshjethva-jvm-inside-out.md) | ⭐ 4 | TypeScript | 45/100 |
 | 337 | [HimanshuS073/music_visualizer](./himanshus073-music-visualizer.md) | ⭐ 2 | Lua | 45/100 |
@@ -376,8 +376,8 @@
 | 366 | [SouravTeddy/3d-data-globe](./souravteddy-3d-data-globe.md) | ⭐ 3 | — | 41/100 |
 | 367 | [Obteohub/shopwice-woocommerce-product-import-schema](./obteohub-shopwice-woocommerce-product-import-schema.md) | ⭐ — | — | 41/100 |
 | 368 | [abstractqqq/polars_ds_extension](./abstractqqq-polars-ds-extension.md) | ⭐ 660 | Rust | 41/100 |
-| 369 | [caoccao/BetterMediaInfo](./caoccao-bettermediainfo.md) | ⭐ — | — | 40/100 |
-| 370 | [MediaArea/MediaInfo](./mediaarea-mediainfo.md) | ⭐ — | — | 40/100 |
+| 369 | [MediaArea/MediaInfo](./mediaarea-mediainfo.md) | ⭐ — | — | 40/100 |
+| 370 | [caoccao/BetterMediaInfo](./caoccao-bettermediainfo.md) | ⭐ — | — | 40/100 |
 | 371 | [SamiLehtinen/vcopy](./samilehtinen-vcopy.md) | ⭐ 1 | — | 40/100 |
 | 372 | [nithin062006/jobscam-checker](./nithin062006-jobscam-checker.md) | ⭐ — | Python | 40/100 |
 | 373 | [nsijwali/WhoRuled](./nsijwali-whoruled.md) | ⭐ 1 | TypeScript | 40/100 |
