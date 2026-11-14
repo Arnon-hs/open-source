@@ -584,8 +584,8 @@
 | 574 | [AdrienMttn/TgCloud](./adrienmttn-tgcloud.md) | ⭐ 12 | Go | 65/100 |
 | 575 | [outcrawlai/scout](./outcrawlai-scout.md) | ⭐ 744 | TypeScript | 65/100 |
 | 576 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.2k | AutoHotkey | 65/100 |
-| 577 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
-| 578 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 826 | TypeScript | 65/100 |
+| 577 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 826 | TypeScript | 65/100 |
+| 578 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
 | 579 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 580 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 643 | TypeScript | 65/100 |
 | 581 | [askbudi/juno-code](./askbudi-juno-code.md) | ⭐ 55 | TypeScript | 65/100 |
@@ -1032,7 +1032,7 @@
 | 1022 | [arxanas/git-branchless](./arxanas-git-branchless.md) | ⭐ 4.1k | Rust | 58/100 |
 | 1023 | [Mai-with-u/MaiBot](./mai-with-u-maibot.md) | ⭐ 7k | Python | 58/100 |
 | 1024 | [Tiledesk/tiledesk-dashboard](./tiledesk-tiledesk-dashboard.md) | ⭐ 17 | TypeScript | 58/100 |
-| 1025 | [n8n-io/n8n-docs](./n8n-io-n8n-docs.md) | ⭐ 1.8k | HTML | 58/100 |
+| 1025 | [n8n-io/n8n-docs](./n8n-io-n8n-docs.md) | ⭐ 1.9k | HTML | 58/100 |
 | 1026 | [liquidctl/liquidctl](./liquidctl-liquidctl.md) | ⭐ 2.7k | Python | 58/100 |
 | 1027 | [formstep/n8n-nodes-formstep](./formstep-n8n-nodes-formstep.md) | ⭐ 1 | TypeScript | 58/100 |
 | 1028 | [dk-labs-dev/flightpath](./dk-labs-dev-flightpath.md) | ⭐ 4 | TypeScript | 58/100 |
@@ -1703,8 +1703,8 @@
 | 1693 | [yanairon/claude-hookbook](./yanairon-claude-hookbook.md) | ⭐ — | TypeScript | 32/100 |
 | 1694 | [RazorBlade74/Michaele-tutoring-books](./razorblade74-michaele-tutoring-books.md) | ⭐ — | JavaScript | 31/100 |
 | 1695 | [muhammad-zulqarnain-awan/n8n-on-vercel](./muhammad-zulqarnain-awan-n8n-on-vercel.md) | ⭐ 2 | JavaScript | 31/100 |
-| 1696 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ 16 | — | 30/100 |
-| 1697 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
+| 1696 | [apps/get-out-spam](./apps-get-out-spam.md) | ⭐ — | — | 30/100 |
+| 1697 | [syi0808/pubm](./syi0808-pubm.md) | ⭐ 16 | — | 30/100 |
 | 1698 | [saquib-shahid/vendorforge-ai](./saquib-shahid-vendorforge-ai.md) | ⭐ — | JavaScript | 30/100 |
 | 1699 | [jaksdhflkjahsdfkjahsdfkjh/SherpaManager](./jaksdhflkjahsdfkjahsdfkjh-sherpamanager.md) | ⭐ — | C# | 30/100 |
 | 1700 | [anggadb/loop-engine](./anggadb-loop-engine.md) | ⭐ — | Rust | 30/100 |

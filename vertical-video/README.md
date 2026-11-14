@@ -115,7 +115,7 @@
 | 105 | [HeyChengC/bighead-collage](./heychengc-bighead-collage.md) | ⭐ 71 | Python | 60/100 |
 | 106 | [ronin1770/reel-quick](./ronin1770-reel-quick.md) | ⭐ 16 | Python | 60/100 |
 | 107 | [MelonS/MelonS-Agents](./melons-melons-agents.md) | ⭐ 17 | C# | 60/100 |
-| 108 | [CharlesPikachu/videodl](./charlespikachu-videodl.md) | ⭐ 3.2k | Python | 60/100 |
+| 108 | [CharlesPikachu/videodl](./charlespikachu-videodl.md) | ⭐ 3.3k | Python | 60/100 |
 | 109 | [liuhaisi2026212-maker/taishang-laojun](./liuhaisi2026212-maker-taishang-laojun.md) | ⭐ 557 | Markdown | 59/100 |
 | 110 | [hanli1999/video-breakdown-skill](./hanli1999-video-breakdown-skill.md) | ⭐ 12 | — | 59/100 |
 | 111 | [bodrumundenizi-beep/free-ai-video-generator](./bodrumundenizi-beep-free-ai-video-generator.md) | ⭐ 5 | Python | 59/100 |

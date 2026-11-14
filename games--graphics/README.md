@@ -117,7 +117,7 @@
 | 107 | [go-gl/glfw](./go-gl-glfw.md) | ⭐ 1.7k | C | 60/100 |
 | 108 | [SanderMertens/bake](./sandermertens-bake.md) | ⭐ 755 | C | 60/100 |
 | 109 | [SpartanJ/eepp](./spartanj-eepp.md) | ⭐ 679 | C++ | 60/100 |
-| 110 | [djeedai/bevy_hanabi](./djeedai-bevy-hanabi.md) | ⭐ 1.4k | Rust | 60/100 |
+| 110 | [djeedai/bevy_hanabi](./djeedai-bevy-hanabi.md) | ⭐ 1.5k | Rust | 60/100 |
 | 111 | [SaschaWillems/VulkanCapsViewer](./saschawillems-vulkancapsviewer.md) | ⭐ 448 | C++ | 59/100 |
 | 112 | [itchio/itch](./itchio-itch.md) | ⭐ 2.9k | TypeScript | 59/100 |
 | 113 | [Ipotrick/Daxa](./ipotrick-daxa.md) | ⭐ 622 | C++ | 59/100 |
@@ -288,8 +288,8 @@
 | 278 | [tangziwen/CubeMiniGame](./tangziwen-cubeminigame.md) | ⭐ 361 | C++ | 49/100 |
 | 279 | [DaemonEngine/Daemon](./daemonengine-daemon.md) | ⭐ 399 | C++ | 49/100 |
 | 280 | [makspll/bevy_mod_scripting](./makspll-bevy-mod-scripting.md) | ⭐ 664 | Rust | 49/100 |
-| 281 | [crownengine/crown](./crownengine-crown.md) | ⭐ 2.5k | C++ | 49/100 |
-| 282 | [ousnius/BodySlide-and-Outfit-Studio](./ousnius-bodyslide-and-outfit-studio.md) | ⭐ 374 | C++ | 49/100 |
+| 281 | [ousnius/BodySlide-and-Outfit-Studio](./ousnius-bodyslide-and-outfit-studio.md) | ⭐ 374 | C++ | 49/100 |
+| 282 | [crownengine/crown](./crownengine-crown.md) | ⭐ 2.5k | C++ | 49/100 |
 | 283 | [novelrt/NovelRT](./novelrt-novelrt.md) | ⭐ 218 | C++ | 49/100 |
 | 284 | [DioxusLabs/blitz](./dioxuslabs-blitz.md) | ⭐ 4.5k | Rust | 49/100 |
 | 285 | [ikemen-engine/Ikemen-GO](./ikemen-engine-ikemen-go.md) | ⭐ 1.7k | Go | 49/100 |

@@ -64,7 +64,7 @@
 | 54 | [localsend/localsend](./localsend-localsend.md) | ⭐ 98.9k | Dart | 63/100 |
 | 55 | [isontheline/pro.webssh.net](./isontheline-pro.webssh.net.md) | ⭐ 691 | JavaScript | 63/100 |
 | 56 | [yuliskov/SmartTube](./yuliskov-smarttube.md) | ⭐ 36.3k | Java | 63/100 |
-| 57 | [vivizzz007/vivi-music](./vivizzz007-vivi-music.md) | ⭐ 4.1k | Kotlin | 63/100 |
+| 57 | [vivizzz007/vivi-music](./vivizzz007-vivi-music.md) | ⭐ 4.2k | Kotlin | 63/100 |
 | 58 | [stefan-niedermann/nextcloud-deck](./stefan-niedermann-nextcloud-deck.md) | ⭐ 574 | Java | 63/100 |
 | 59 | [felangel/bloc](./felangel-bloc.md) | ⭐ 12.5k | Dart | 63/100 |
 | 60 | [pluwen/awesome-testflight-link](./pluwen-awesome-testflight-link.md) | ⭐ 5.7k | Python | 63/100 |
@@ -275,8 +275,8 @@
 | 265 | [meshtastic/Meshtastic-Android](./meshtastic-meshtastic-android.md) | ⭐ 1.9k | Kotlin | 56/100 |
 | 266 | [pbreault/adb-idea](./pbreault-adb-idea.md) | ⭐ 2.2k | Kotlin | 56/100 |
 | 267 | [glasgowm148/kodi-manager](./glasgowm148-kodi-manager.md) | ⭐ 5 | Python | 55/100 |
-| 268 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
-| 269 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
+| 268 | [alexeichhorn/YouTubeKit](./alexeichhorn-youtubekit.md) | ⭐ 424 | Swift | 55/100 |
+| 269 | [pantsufan/Magisk-Ad-Blocking-Module](./pantsufan-magisk-ad-blocking-module.md) | ⭐ 571 | — | 55/100 |
 | 270 | [maplibre/maplibre-compose](./maplibre-maplibre-compose.md) | ⭐ 595 | Kotlin | 55/100 |
 | 271 | [yangxiaoge/tvbox_cust](./yangxiaoge-tvbox-cust.md) | ⭐ 633 | Python | 55/100 |
 | 272 | [jaredsburrows/android-gif-search](./jaredsburrows-android-gif-search.md) | ⭐ 411 | Kotlin | 55/100 |
@@ -294,8 +294,8 @@
 | 284 | [solkin/appteka-android](./solkin-appteka-android.md) | ⭐ 1.4k | Kotlin | 55/100 |
 | 285 | [tabletseeker/mobian](./tabletseeker-mobian.md) | ⭐ 276 | Shell | 55/100 |
 | 286 | [square/wire](./square-wire.md) | ⭐ 4.4k | Kotlin | 55/100 |
-| 287 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 968 | Kotlin | 55/100 |
-| 288 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 1.6k | Kotlin | 55/100 |
+| 287 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 1.6k | Kotlin | 55/100 |
+| 288 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 968 | Kotlin | 55/100 |
 | 289 | [CatimaLoyalty/Android](./catimaloyalty-android.md) | ⭐ 1.7k | Java | 55/100 |
 | 290 | [facebook/redex](./facebook-redex.md) | ⭐ 6.3k | C++ | 55/100 |
 | 291 | [OneBusAway/onebusaway-android](./onebusaway-onebusaway-android.md) | ⭐ 582 | Kotlin | 55/100 |
@@ -309,12 +309,12 @@
 | 299 | [LawnchairLauncher/lawnicons](./lawnchairlauncher-lawnicons.md) | ⭐ 2.1k | Kotlin | 55/100 |
 | 300 | [JetBrains/android](./jetbrains-android.md) | ⭐ 1.1k | Kotlin | 55/100 |
 | 301 | [sebaslogen/resaca](./sebaslogen-resaca.md) | ⭐ 651 | Kotlin | 55/100 |
-| 302 | [sameerasw/essentials](./sameerasw-essentials.md) | ⭐ 3.8k | Kotlin | 55/100 |
+| 302 | [sameerasw/essentials](./sameerasw-essentials.md) | ⭐ 3.9k | Kotlin | 55/100 |
 | 303 | [TeamNewPipe/NewPipe](./teamnewpipe-newpipe.md) | ⭐ 40.7k | Java | 55/100 |
 | 304 | [offa/android-foss](./offa-android-foss.md) | ⭐ 11.7k | Python | 55/100 |
 | 305 | [d4rken-org/sdmaid-se](./d4rken-org-sdmaid-se.md) | ⭐ 8.1k | Kotlin | 55/100 |
 | 306 | [osmdroid/osmdroid](./osmdroid-osmdroid.md) | ⭐ 3.1k | Java | 54/100 |
-| 307 | [teamclouday/AndroidMic](./teamclouday-androidmic.md) | ⭐ 1.7k | Rust | 54/100 |
+| 307 | [teamclouday/AndroidMic](./teamclouday-androidmic.md) | ⭐ 1.8k | Rust | 54/100 |
 | 308 | [marcellogalhardo/retained](./marcellogalhardo-retained.md) | ⭐ 328 | Kotlin | 54/100 |
 | 309 | [eyalm2000/adns](./eyalm2000-adns.md) | ⭐ 761 | Kotlin | 54/100 |
 | 310 | [Futsch1/medTimer](./futsch1-medtimer.md) | ⭐ 657 | Kotlin | 54/100 |
@@ -524,8 +524,8 @@
 | 514 | [rive-app/rive-android](./rive-app-rive-android.md) | ⭐ 548 | Kotlin | 44/100 |
 | 515 | [WafflingNinja/waffleboost](./wafflingninja-waffleboost.md) | ⭐ 10 | Kotlin | 44/100 |
 | 516 | [devgalib/QuickTube](./devgalib-quicktube.md) | ⭐ 22 | Kotlin | 43/100 |
-| 517 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
-| 518 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 991 | — | 43/100 |
+| 517 | [Zfinix/eleven](./zfinix-eleven.md) | ⭐ 991 | — | 43/100 |
+| 518 | [ComputerUseAgent/AutoCua](./computeruseagent-autocua.md) | ⭐ 1.2k | — | 43/100 |
 | 519 | [kuscholar/iDeck](./kuscholar-ideck.md) | ⭐ 403 | C | 43/100 |
 | 520 | [muddassirhq/open-in-native-browser](./muddassirhq-open-in-native-browser.md) | ⭐ 2 | JavaScript | 43/100 |
 | 521 | [vasanth-kandasamy/alert-spot-android](./vasanth-kandasamy-alert-spot-android.md) | ⭐ 10 | Kotlin | 43/100 |

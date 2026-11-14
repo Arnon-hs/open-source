@@ -53,7 +53,7 @@ harveyai/harvey-labs：harveyai/harvey-labs helps turn isolated prompts and tool
 
 **Quality signals**
 
-- 1613 GitHub stars
+- 1623 GitHub stars
 - 302 forks
 - updated 2026-11-07
 - primary language: Python

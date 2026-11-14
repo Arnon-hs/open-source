@@ -203,8 +203,8 @@
 | 193 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 103 | Swift | 67/100 |
 | 194 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 226 | Python | 67/100 |
 | 195 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 308 | TypeScript | 67/100 |
-| 196 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
-| 197 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 379 | TypeScript | 67/100 |
+| 196 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 379 | TypeScript | 67/100 |
+| 197 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
 | 198 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 239 | Go | 67/100 |
 | 199 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 200 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 133 | Python | 67/100 |
@@ -276,7 +276,7 @@
 | 266 | [rockbenben/subtitle-translator](./rockbenben-subtitle-translator.md) | ⭐ 1.2k | TypeScript | 64/100 |
 | 267 | [perso-ai/perso-dubbing-plugin](./perso-ai-perso-dubbing-plugin.md) | ⭐ 40 | JavaScript | 64/100 |
 | 268 | [guimatheus92/mcp-video-analyzer](./guimatheus92-mcp-video-analyzer.md) | ⭐ 123 | TypeScript | 64/100 |
-| 269 | [CristianOlivera1/openvid](./cristianolivera1-openvid.md) | ⭐ 2.9k | TypeScript | 64/100 |
+| 269 | [CristianOlivera1/openvid](./cristianolivera1-openvid.md) | ⭐ 3k | TypeScript | 64/100 |
 | 270 | [WyattBlue/auto-editor](./wyattblue-auto-editor.md) | ⭐ 5.9k | Nim | 64/100 |
 | 271 | [FennelFetish/qapyq](./fennelfetish-qapyq.md) | ⭐ 163 | Python | 64/100 |
 | 272 | [excalimate/excalimate](./excalimate-excalimate.md) | ⭐ 100 | TypeScript | 64/100 |

@@ -549,7 +549,7 @@
 | 539 | [Cordobo/angularx-qrcode](./cordobo-angularx-qrcode.md) | ⭐ 513 | TypeScript | 59/100 |
 | 540 | [xxtomm/spell-ui](./xxtomm-spell-ui.md) | ⭐ 1.4k | TypeScript | 59/100 |
 | 541 | [Kitware/trame](./kitware-trame.md) | ⭐ 712 | Python | 59/100 |
-| 542 | [binaricat/Netcatty](./binaricat-netcatty.md) | ⭐ 7.3k | TypeScript | 59/100 |
+| 542 | [binaricat/Netcatty](./binaricat-netcatty.md) | ⭐ 7.4k | TypeScript | 59/100 |
 | 543 | [jackocnr/intl-tel-input](./jackocnr-intl-tel-input.md) | ⭐ 8.3k | TypeScript | 59/100 |
 | 544 | [Rel1cx/eslint-react](./rel1cx-eslint-react.md) | ⭐ 594 | TypeScript | 59/100 |
 | 545 | [reactjs/react-docgen](./reactjs-react-docgen.md) | ⭐ 3.8k | TypeScript | 59/100 |
@@ -757,8 +757,8 @@
 | 747 | [sanusart/react-dropdown-select](./sanusart-react-dropdown-select.md) | ⭐ 365 | JavaScript | 54/100 |
 | 748 | [blackfyre/wga](./blackfyre-wga.md) | ⭐ 192 | Go | 54/100 |
 | 749 | [IT-BAER/proxmorph](./it-baer-proxmorph.md) | ⭐ 638 | CSS | 54/100 |
-| 750 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
-| 751 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 884 | Rust | 54/100 |
+| 750 | [ZacharyL2/KeyEcho](./zacharyl2-keyecho.md) | ⭐ 884 | Rust | 54/100 |
+| 751 | [Xinrea/bili-shadowreplay](./xinrea-bili-shadowreplay.md) | ⭐ 1.1k | Rust | 54/100 |
 | 752 | [coi/coi](./coi-coi.md) | ⭐ 568 | C++ | 54/100 |
 | 753 | [lvzhenbo/115-plus-desktop](./lvzhenbo-115-plus-desktop.md) | ⭐ 384 | Rust | 54/100 |
 | 754 | [rust-ui/ui](./rust-ui-ui.md) | ⭐ 814 | Rust | 54/100 |
@@ -910,7 +910,7 @@
 | 900 | [dhutaryan/ngx-signal-query](./dhutaryan-ngx-signal-query.md) | ⭐ 10 | — | 42/100 |
 | 901 | [11suixing11/mindnotes-pro](./11suixing11-mindnotes-pro.md) | ⭐ 13 | — | 42/100 |
 | 902 | [webview-native-ui/cordova-plugin](./webview-native-ui-cordova-plugin.md) | ⭐ — | JavaScript | 42/100 |
-| 903 | [graiz/kittybrowser](./graiz-kittybrowser.md) | ⭐ — | — | 41/100 |
+| 903 | [graiz/kittybrowser](./graiz-kittybrowser.md) | ⭐ 11 | — | 41/100 |
 | 904 | [alentodorov/casa-browser](./alentodorov-casa-browser.md) | ⭐ 1 | — | 41/100 |
 | 905 | [zxcfrancyz/steam-currency-converter](./zxcfrancyz-steam-currency-converter.md) | ⭐ — | JavaScript | 41/100 |
 | 906 | [Deonkar/parkease](./deonkar-parkease.md) | ⭐ — | TypeScript | 41/100 |
@@ -930,8 +930,8 @@
 | 920 | [MayankJha0333/dovli](./mayankjha0333-dovli.md) | ⭐ 43 | — | 39/100 |
 | 921 | [smapiot/vscode-piral](./smapiot-vscode-piral.md) | ⭐ 4 | — | 39/100 |
 | 922 | [smapiot/piral-inspector](./smapiot-piral-inspector.md) | ⭐ 16 | — | 39/100 |
-| 923 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
-| 924 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
+| 923 | [bhushanpoojary/react-open-source-datagrid](./bhushanpoojary-react-open-source-datagrid.md) | ⭐ 36 | — | 39/100 |
+| 924 | [Hadil-Ben-Abdallah/space-mission-explorer](./hadil-ben-abdallah-space-mission-explorer.md) | ⭐ 13 | — | 39/100 |
 | 925 | [jayeshmepani/cssforge](./jayeshmepani-cssforge.md) | ⭐ — | — | 39/100 |
 | 926 | [FrontEndFoxes/kitchen-sune](./frontendfoxes-kitchen-sune.md) | ⭐ 11 | — | 39/100 |
 | 927 | [AnnaVi11arrea1/cssart](./annavi11arrea1-cssart.md) | ⭐ — | — | 39/100 |
