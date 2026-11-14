@@ -296,7 +296,7 @@
 | 286 | [ntorga/agent-starter-kit](./ntorga-agent-starter-kit.md) | ⭐ 148 | Shell | 64/100 |
 | 287 | [softwaremill/bootzooka](./softwaremill-bootzooka.md) | ⭐ 786 | TypeScript | 64/100 |
 | 288 | [Ethan-YS/project-brain](./ethan-ys-project-brain.md) | ⭐ 174 | Shell | 64/100 |
-| 289 | [stan-dev/math](./stan-dev-math.md) | ⭐ 846 | C++ | 64/100 |
+| 289 | [stan-dev/math](./stan-dev-math.md) | ⭐ 847 | C++ | 64/100 |
 | 290 | [pageel/para-workspace](./pageel-para-workspace.md) | ⭐ 55 | Shell | 64/100 |
 | 291 | [emretasss/AI-Workflow-Hub-2000-](./emretasss-ai-workflow-hub-2000-.md) | ⭐ 323 | — | 64/100 |
 | 292 | [sarathsp06/sparrow](./sarathsp06-sparrow.md) | ⭐ 50 | Go | 63/100 |
@@ -385,7 +385,7 @@
 | 375 | [The-AppLab/ultimate-fastapi-langchain-boilerplate](./the-applab-ultimate-fastapi-langchain-boilerplate.md) | ⭐ 1 | Python | 58/100 |
 | 376 | [typed-ember/glint](./typed-ember-glint.md) | ⭐ 118 | TypeScript | 58/100 |
 | 377 | [gacabartosz/linkedin-mcp-server](./gacabartosz-linkedin-mcp-server.md) | ⭐ 5 | JavaScript | 58/100 |
-| 378 | [Tam-Taro/SEL-Filtering-and-Sorting](./tam-taro-sel-filtering-and-sorting.md) | ⭐ 891 | — | 58/100 |
+| 378 | [Tam-Taro/SEL-Filtering-and-Sorting](./tam-taro-sel-filtering-and-sorting.md) | ⭐ 893 | — | 58/100 |
 | 379 | [cfndsl/cfndsl](./cfndsl-cfndsl.md) | ⭐ 424 | Ruby | 58/100 |
 | 380 | [jdrouet/catapulte](./jdrouet-catapulte.md) | ⭐ 152 | Rust | 58/100 |
 | 381 | [LilyFirefly/django-rusty-templates](./lilyfirefly-django-rusty-templates.md) | ⭐ 157 | Rust | 58/100 |
@@ -410,7 +410,7 @@
 | 400 | [geofffranks/spruce](./geofffranks-spruce.md) | ⭐ 453 | Go | 56/100 |
 | 401 | [getreu/tp-note](./getreu-tp-note.md) | ⭐ 145 | Rust | 56/100 |
 | 402 | [LivingFramework/LivingFramework.github.io](./livingframework-livingframework.github.io.md) | ⭐ 45 | HTML | 56/100 |
-| 403 | [CuteLeaf/Firefly](./cuteleaf-firefly.md) | ⭐ 2.4k | Astro | 56/100 |
+| 403 | [CuteLeaf/Firefly](./cuteleaf-firefly.md) | ⭐ 2.5k | Astro | 56/100 |
 | 404 | [RomainCHEN/seance](./romainchen-seance.md) | ⭐ — | HTML | 55/100 |
 | 405 | [lineagersiui-boop/apify-output-checks](./lineagersiui-boop-apify-output-checks.md) | ⭐ — | JavaScript | 55/100 |
 | 406 | [VRSEN/agency-swarm-api-railway-template](./vrsen-agency-swarm-api-railway-template.md) | ⭐ 56 | Python | 55/100 |
@@ -420,7 +420,7 @@
 | 410 | [Shopify/shopify-app-template-php](./shopify-shopify-app-template-php.md) | ⭐ 340 | PHP | 55/100 |
 | 411 | [gofiber/boilerplate](./gofiber-boilerplate.md) | ⭐ 502 | Go | 55/100 |
 | 412 | [pytorch/helion](./pytorch-helion.md) | ⭐ 981 | Python | 55/100 |
-| 413 | [marcantondahmen/automad](./marcantondahmen-automad.md) | ⭐ 962 | TypeScript | 55/100 |
+| 413 | [marcantondahmen/automad](./marcantondahmen-automad.md) | ⭐ 963 | TypeScript | 55/100 |
 | 414 | [Azure/bicep](./azure-bicep.md) | ⭐ 3.7k | Bicep | 55/100 |
 | 415 | [ArthurJZL/canpii](./arthurjzl-canpii.md) | ⭐ — | Python | 55/100 |
 | 416 | [xvdvlinux-coder/Oriented-Direct](./xvdvlinux-coder-oriented-direct.md) | ⭐ 4 | JavaScript | 54/100 |

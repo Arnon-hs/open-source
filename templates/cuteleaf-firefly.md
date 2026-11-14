@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 2.4k |
+| ⭐ **Stars** | 2.5k |
 | 🍴 **Forks** | 1.9k |
 | 💻 **Language** | Astro |
 | 📈 **Score** | 56/100 |

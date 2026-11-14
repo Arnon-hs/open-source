@@ -76,8 +76,8 @@
 | 66 | [ethibox/ethibox](./ethibox-ethibox.md) | ⭐ 260 | JavaScript | 66/100 |
 | 67 | [samber/ro](./samber-ro.md) | ⭐ 698 | Go | 66/100 |
 | 68 | [stripe/stripe-node](./stripe-stripe-node.md) | ⭐ 4.6k | TypeScript | 66/100 |
-| 69 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.6k | Python | 66/100 |
-| 70 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
+| 69 | [polarsource/polar](./polarsource-polar.md) | ⭐ 10.5k | Python | 66/100 |
+| 70 | [saleor/saleor](./saleor-saleor.md) | ⭐ 23.6k | Python | 66/100 |
 | 71 | [librae8226/nexus4cc](./librae8226-nexus4cc.md) | ⭐ 134 | TypeScript | 65/100 |
 | 72 | [hugoii/llm-agent-audit](./hugoii-llm-agent-audit.md) | ⭐ 62 | Python | 65/100 |
 | 73 | [zmievsa/cadwyn](./zmievsa-cadwyn.md) | ⭐ 315 | Python | 65/100 |
@@ -118,8 +118,8 @@
 | 108 | [Dolibarr/dolibarr](./dolibarr-dolibarr.md) | ⭐ 7.9k | PHP | 62/100 |
 | 109 | [akaunting/akaunting](./akaunting-akaunting.md) | ⭐ 10.3k | PHP | 62/100 |
 | 110 | [getpaykit/paykit](./getpaykit-paykit.md) | ⭐ 1.1k | TypeScript | 62/100 |
-| 111 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
-| 112 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 111 | [better-auth/better-auth](./better-auth-better-auth.md) | ⭐ 30.7k | TypeScript | 62/100 |
+| 112 | [yournextstore/yournextstore](./yournextstore-yournextstore.md) | ⭐ 5.5k | MDX | 62/100 |
 | 113 | [Pink-Agentic-Payments/agent-spend-edge-cases](./pink-agentic-payments-agent-spend-edge-cases.md) | ⭐ — | Python | 61/100 |
 | 114 | [actions/checkout](./actions-checkout.md) | ⭐ 8.8k | TypeScript | 61/100 |
 | 115 | [paid-tw/payment](./paid-tw-payment.md) | ⭐ 86 | TypeScript | 61/100 |
@@ -128,7 +128,7 @@
 | 118 | [stripe/stripe-terminal-react-native](./stripe-stripe-terminal-react-native.md) | ⭐ 165 | TypeScript | 61/100 |
 | 119 | [getlago/lago-api](./getlago-lago-api.md) | ⭐ 443 | Ruby | 61/100 |
 | 120 | [aelassas/movinin](./aelassas-movinin.md) | ⭐ 232 | TypeScript | 61/100 |
-| 121 | [SolidInvoice/SolidInvoice](./solidinvoice-solidinvoice.md) | ⭐ 987 | PHP | 61/100 |
+| 121 | [SolidInvoice/SolidInvoice](./solidinvoice-solidinvoice.md) | ⭐ 988 | PHP | 61/100 |
 | 122 | [aureuserp/aureuserp](./aureuserp-aureuserp.md) | ⭐ 12.2k | PHP | 61/100 |
 | 123 | [w3c/payment-request](./w3c-payment-request.md) | ⭐ 511 | HTML | 61/100 |
 | 124 | [stripe/stripe-ruby](./stripe-stripe-ruby.md) | ⭐ 2.2k | Ruby | 61/100 |
@@ -222,7 +222,7 @@
 | 212 | [ynnoj/next-stripe](./ynnoj-next-stripe.md) | ⭐ 559 | JavaScript | 55/100 |
 | 213 | [magnussolution/magnusbilling7](./magnussolution-magnusbilling7.md) | ⭐ — | JavaScript | 55/100 |
 | 214 | [samueltuyizere/oc-go-cc](./samueltuyizere-oc-go-cc.md) | ⭐ 299 | Go | 55/100 |
-| 215 | [WINBIGFOX/TimeScribe](./winbigfox-timescribe.md) | ⭐ 933 | PHP | 55/100 |
+| 215 | [WINBIGFOX/TimeScribe](./winbigfox-timescribe.md) | ⭐ 934 | PHP | 55/100 |
 | 216 | [riponcm/nextgenUp](./riponcm-nextgenup.md) | ⭐ 213 | JavaScript | 54/100 |
 | 217 | [Danialsamadi/v2go](./danialsamadi-v2go.md) | ⭐ 156 | Go | 54/100 |
 | 218 | [tempoxyz/mpp-specs](./tempoxyz-mpp-specs.md) | ⭐ 97 | Python | 54/100 |
@@ -281,8 +281,8 @@
 | 271 | [NethermindEth/stellar-private-payments](./nethermindeth-stellar-private-payments.md) | ⭐ 60 | Rust | 50/100 |
 | 272 | [maartenpaauw/filament-cashier-billing-provider](./maartenpaauw-filament-cashier-billing-provider.md) | ⭐ 103 | PHP | 50/100 |
 | 273 | [vleerapp/vleer](./vleerapp-vleer.md) | ⭐ 224 | Rust | 50/100 |
-| 274 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
-| 275 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
+| 274 | [sualeh/magnetictrackparser](./sualeh-magnetictrackparser.md) | ⭐ 91 | Java | 50/100 |
+| 275 | [sualeh/creditcardnumber](./sualeh-creditcardnumber.md) | ⭐ 87 | Java | 50/100 |
 | 276 | [killbill/killbill-cloud](./killbill-killbill-cloud.md) | ⭐ 68 | Ruby | 50/100 |
 | 277 | [killbill/killbill-admin-ui](./killbill-killbill-admin-ui.md) | ⭐ 70 | HTML | 50/100 |
 | 278 | [Akxan/ppt-agent-skill](./akxan-ppt-agent-skill.md) | ⭐ 182 | HTML | 50/100 |

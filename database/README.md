@@ -71,7 +71,7 @@
 | 61 | [dapr/components-contrib](./dapr-components-contrib.md) | ⭐ 605 | Go | 64/100 |
 | 62 | [mongodb/mongo-go-driver](./mongodb-mongo-go-driver.md) | ⭐ 8.5k | Go | 63/100 |
 | 63 | [rq/rq](./rq-rq.md) | ⭐ 10.7k | Python | 63/100 |
-| 64 | [cybertec-postgresql/pgwatch](./cybertec-postgresql-pgwatch.md) | ⭐ 905 | Go | 63/100 |
+| 64 | [cybertec-postgresql/pgwatch](./cybertec-postgresql-pgwatch.md) | ⭐ 906 | Go | 63/100 |
 | 65 | [apache/skywalking-banyandb](./apache-skywalking-banyandb.md) | ⭐ 355 | Go | 63/100 |
 | 66 | [pac4j/play-pac4j](./pac4j-play-pac4j.md) | ⭐ 414 | Java | 63/100 |
 | 67 | [JetBrains/Exposed](./jetbrains-exposed.md) | ⭐ 9.3k | Kotlin | 63/100 |
@@ -113,7 +113,7 @@
 | 103 | [itwanger/toBeBetterJavaer](./itwanger-tobebetterjavaer.md) | ⭐ 17.8k | Java | 61/100 |
 | 104 | [dimitri/pgloader](./dimitri-pgloader.md) | ⭐ 6.6k | Common Lisp | 61/100 |
 | 105 | [diesel-rs/diesel](./diesel-rs-diesel.md) | ⭐ 14.2k | Rust | 61/100 |
-| 106 | [openeducat/openeducat_erp](./openeducat-openeducat-erp.md) | ⭐ 911 | HTML | 61/100 |
+| 106 | [openeducat/openeducat_erp](./openeducat-openeducat-erp.md) | ⭐ 912 | HTML | 61/100 |
 | 107 | [openclaw/discrawl](./openclaw-discrawl.md) | ⭐ 862 | Go | 61/100 |
 | 108 | [s2-streamstore/s2](./s2-streamstore-s2.md) | ⭐ 819 | Rust | 61/100 |
 | 109 | [gravitational/teleport](./gravitational-teleport.md) | ⭐ 21.1k | Go | 61/100 |
@@ -122,7 +122,7 @@
 | 112 | [elabftw/elabftw](./elabftw-elabftw.md) | ⭐ 1.5k | PHP | 60/100 |
 | 113 | [AlaSQL/alasql](./alasql-alasql.md) | ⭐ 7.3k | JavaScript | 60/100 |
 | 114 | [cloudnative-pg/plugin-barman-cloud](./cloudnative-pg-plugin-barman-cloud.md) | ⭐ 210 | Go | 60/100 |
-| 115 | [thelia/thelia](./thelia-thelia.md) | ⭐ 884 | PHP | 60/100 |
+| 115 | [thelia/thelia](./thelia-thelia.md) | ⭐ 885 | PHP | 60/100 |
 | 116 | [microsoft/mssql-jdbc](./microsoft-mssql-jdbc.md) | ⭐ 1.1k | Java | 60/100 |
 | 117 | [tursodatabase/libsql](./tursodatabase-libsql.md) | ⭐ 17.3k | C | 60/100 |
 | 118 | [mongodb-js/compass](./mongodb-js-compass.md) | ⭐ 1.5k | TypeScript | 60/100 |
@@ -319,7 +319,7 @@
 | 309 | [LalitMaganti/syntaqlite](./lalitmaganti-syntaqlite.md) | ⭐ 829 | Rust | 50/100 |
 | 310 | [zino-rs/zino](./zino-rs-zino.md) | ⭐ 1.2k | Rust | 50/100 |
 | 311 | [The-OpenROAD-Project/OpenROAD](./the-openroad-project-openroad.md) | ⭐ 3.3k | Verilog | 50/100 |
-| 312 | [mongodb/docs](./mongodb-docs.md) | ⭐ 779 | TypeScript | 50/100 |
+| 312 | [mongodb/docs](./mongodb-docs.md) | ⭐ 780 | TypeScript | 50/100 |
 | 313 | [uyuni-project/uyuni](./uyuni-project-uyuni.md) | ⭐ 601 | Java | 50/100 |
 | 314 | [opensanctions/opensanctions](./opensanctions-opensanctions.md) | ⭐ 875 | Python | 50/100 |
 | 315 | [openresty/drizzle-nginx-module](./openresty-drizzle-nginx-module.md) | ⭐ 335 | C | 49/100 |

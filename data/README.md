@@ -250,7 +250,7 @@
 | 240 | [KDE/labplot](./kde-labplot.md) | ⭐ 491 | C++ | 55/100 |
 | 241 | [quanteda/quanteda](./quanteda-quanteda.md) | ⭐ 895 | R | 55/100 |
 | 242 | [yegor256/micromap](./yegor256-micromap.md) | ⭐ 222 | Rust | 55/100 |
-| 243 | [delta-io/delta-sharing](./delta-io-delta-sharing.md) | ⭐ 961 | Scala | 55/100 |
+| 243 | [delta-io/delta-sharing](./delta-io-delta-sharing.md) | ⭐ 962 | Scala | 55/100 |
 | 244 | [Shopify/maintenance_tasks](./shopify-maintenance-tasks.md) | ⭐ 1.3k | Ruby | 55/100 |
 | 245 | [stepchowfun/typical](./stepchowfun-typical.md) | ⭐ 768 | Rust | 55/100 |
 | 246 | [cBioPortal/cbioportal](./cbioportal-cbioportal.md) | ⭐ 1.1k | Java | 55/100 |

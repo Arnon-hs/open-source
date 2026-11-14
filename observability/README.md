@@ -26,7 +26,7 @@
 | 16 | [elastic/kibana](./elastic-kibana.md) | ⭐ 21.4k | TypeScript | 71/100 |
 | 17 | [prometheus-operator/prometheus-operator](./prometheus-operator-prometheus-operator.md) | ⭐ 10k | Go | 71/100 |
 | 18 | [inspektor-gadget/inspektor-gadget](./inspektor-gadget-inspektor-gadget.md) | ⭐ 3k | C | 71/100 |
-| 19 | [jetstack/version-checker](./jetstack-version-checker.md) | ⭐ 778 | Go | 70/100 |
+| 19 | [jetstack/version-checker](./jetstack-version-checker.md) | ⭐ 779 | Go | 70/100 |
 | 20 | [SigmaHQ/sigma](./sigmahq-sigma.md) | ⭐ 11.5k | Python | 70/100 |
 | 21 | [errbit/errbit](./errbit-errbit.md) | ⭐ 4.3k | Ruby | 70/100 |
 | 22 | [Enapiuz/awesome-monitoring](./enapiuz-awesome-monitoring.md) | ⭐ 437 | — | 69/100 |
@@ -53,7 +53,7 @@
 | 43 | [prometheus/client_python](./prometheus-client-python.md) | ⭐ 4.4k | Python | 66/100 |
 | 44 | [CtrlSpice/otel-desktop-viewer](./ctrlspice-otel-desktop-viewer.md) | ⭐ 1.3k | Go | 66/100 |
 | 45 | [Greedeks/GTweak](./greedeks-gtweak.md) | ⭐ 1.8k | C# | 66/100 |
-| 46 | [PierreGode/Ragnar](./pierregode-ragnar.md) | ⭐ 975 | Python | 66/100 |
+| 46 | [PierreGode/Ragnar](./pierregode-ragnar.md) | ⭐ 977 | Python | 66/100 |
 | 47 | [danielbrendel/hortusfox-web](./danielbrendel-hortusfox-web.md) | ⭐ 1.7k | PHP | 66/100 |
 | 48 | [bramstroker/homeassistant-powercalc](./bramstroker-homeassistant-powercalc.md) | ⭐ 1.7k | Python | 66/100 |
 | 49 | [samber/awesome-prometheus-alerts](./samber-awesome-prometheus-alerts.md) | ⭐ 8.3k | Astro | 66/100 |
@@ -74,7 +74,7 @@
 | 64 | [monitoring-plugins/monitoring-plugins](./monitoring-plugins-monitoring-plugins.md) | ⭐ 515 | C | 64/100 |
 | 65 | [minikin/cargo-crap](./minikin-cargo-crap.md) | ⭐ 434 | Rust | 64/100 |
 | 66 | [jurkovic-nikola/OpenLinkHub](./jurkovic-nikola-openlinkhub.md) | ⭐ 1.3k | Go | 64/100 |
-| 67 | [kutovoys/xray-checker](./kutovoys-xray-checker.md) | ⭐ 940 | Go | 64/100 |
+| 67 | [kutovoys/xray-checker](./kutovoys-xray-checker.md) | ⭐ 941 | Go | 64/100 |
 | 68 | [prometheus/client_java](./prometheus-client-java.md) | ⭐ 2.3k | Java | 64/100 |
 | 69 | [grafana/grafana-operator](./grafana-grafana-operator.md) | ⭐ 1.4k | Go | 64/100 |
 | 70 | [sitespeedio/sitespeed.io](./sitespeedio-sitespeed.io.md) | ⭐ 5.1k | JavaScript | 64/100 |
@@ -116,7 +116,7 @@
 | 106 | [ossf/scorecard](./ossf-scorecard.md) | ⭐ 5.8k | Go | 60/100 |
 | 107 | [elastic/apm-agent-dotnet](./elastic-apm-agent-dotnet.md) | ⭐ 593 | C# | 60/100 |
 | 108 | [OpsiMate/OpsiMate](./opsimate-opsimate.md) | ⭐ 294 | TypeScript | 60/100 |
-| 109 | [threathunters-io/laurel](./threathunters-io-laurel.md) | ⭐ 878 | Rust | 60/100 |
+| 109 | [threathunters-io/laurel](./threathunters-io-laurel.md) | ⭐ 879 | Rust | 60/100 |
 | 110 | [namhyung/uftrace](./namhyung-uftrace.md) | ⭐ 3.5k | C | 60/100 |
 | 111 | [shm11C3/HardwareVisualizer](./shm11c3-hardwarevisualizer.md) | ⭐ 188 | Rust | 60/100 |
 | 112 | [prymitive/karma](./prymitive-karma.md) | ⭐ 2.7k | TypeScript | 60/100 |
@@ -130,7 +130,7 @@
 | 120 | [UCSBarchlab/PyRTL](./ucsbarchlab-pyrtl.md) | ⭐ 308 | Python | 59/100 |
 | 121 | [esrlabs/chipmunk](./esrlabs-chipmunk.md) | ⭐ 872 | Rust | 59/100 |
 | 122 | [open-telemetry/opentelemetry-rust](./open-telemetry-opentelemetry-rust.md) | ⭐ 2.8k | Rust | 59/100 |
-| 123 | [zentralopensource/zentral](./zentralopensource-zentral.md) | ⭐ 890 | Python | 59/100 |
+| 123 | [zentralopensource/zentral](./zentralopensource-zentral.md) | ⭐ 891 | Python | 59/100 |
 | 124 | [itsDNNS/docsight](./itsdnns-docsight.md) | ⭐ 291 | Python | 59/100 |
 | 125 | [open-telemetry/opentelemetry-collector](./open-telemetry-opentelemetry-collector.md) | ⭐ 7.8k | Go | 59/100 |
 | 126 | [TX230/winproc-tui](./tx230-winproc-tui.md) | ⭐ 122 | Rust | 58/100 |
@@ -181,7 +181,7 @@
 | 171 | [vince-lam/awesome-local-llms](./vince-lam-awesome-local-llms.md) | ⭐ 813 | Python | 54/100 |
 | 172 | [metrics-rs/metrics](./metrics-rs-metrics.md) | ⭐ 1.5k | Rust | 54/100 |
 | 173 | [open-telemetry/opentelemetry-java-instrumentation](./open-telemetry-opentelemetry-java-instrumentation.md) | ⭐ 2.7k | Java | 54/100 |
-| 174 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 997 | JavaScript | 54/100 |
+| 174 | [open-telemetry/opentelemetry.io](./open-telemetry-opentelemetry.io.md) | ⭐ 998 | JavaScript | 54/100 |
 | 175 | [mother-of-all-self-hosting/mash-playbook](./mother-of-all-self-hosting-mash-playbook.md) | ⭐ 1.2k | Python | 54/100 |
 | 176 | [metafab/otel-gui](./metafab-otel-gui.md) | ⭐ 198 | TypeScript | 53/100 |
 | 177 | [open-telemetry/opentelemetry-go-compile-instrumentation](./open-telemetry-opentelemetry-go-compile-instrumentation.md) | ⭐ 505 | Go | 53/100 |
@@ -235,7 +235,7 @@
 | 225 | [cloudwalk/stratus](./cloudwalk-stratus.md) | ⭐ 175 | Rust | 47/100 |
 | 226 | [jonhoo/tracing-timing](./jonhoo-tracing-timing.md) | ⭐ 139 | Rust | 47/100 |
 | 227 | [villith/relink-logs](./villith-relink-logs.md) | ⭐ 157 | Rust | 47/100 |
-| 228 | [openvehicles/Open-Vehicle-Monitoring-System-3](./openvehicles-open-vehicle-monitoring-system-3.md) | ⭐ 878 | C | 47/100 |
+| 228 | [openvehicles/Open-Vehicle-Monitoring-System-3](./openvehicles-open-vehicle-monitoring-system-3.md) | ⭐ 879 | C | 47/100 |
 | 229 | [open-telemetry/opentelemetry-python-contrib](./open-telemetry-opentelemetry-python-contrib.md) | ⭐ 1.1k | Python | 47/100 |
 | 230 | [munimtechnologies/px4-log-health](./munimtechnologies-px4-log-health.md) | ⭐ — | Python | 46/100 |
 | 231 | [mohitdebian/relay](./mohitdebian-relay.md) | ⭐ — | TypeScript | 46/100 |

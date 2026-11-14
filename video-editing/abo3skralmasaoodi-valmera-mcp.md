@@ -21,7 +21,7 @@
 
 ## 🎯 Categories
 
-Video Editing · Automation
+Video Editing · Orchestration · MCP · Automation · AI/ML
 
 ## 📝 Summary
 
@@ -31,7 +31,7 @@ ABO3SKRALMASAOODI/valmera-mcp: ABO3SKRALMASAOODI/valmera-mcp helps turn media ed
 
 ### Русский
 
-ABO3SKRALMASAOODI/valmera-mcp: open-source проект в категориях Video Editing, Automation. Практическое применение: automate editing and rendering; generate subtitles or dubbing. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ABO3SKRALMASAOODI/valmera-mcp: open-source проект в категориях Video Editing, Orchestration, MCP, Automation, AI/ML. Практическое применение: automate editing and rendering; generate subtitles or dubbing. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
@@ -63,18 +63,18 @@ ABO3SKRALMASAOODI/valmera-mcp：ABO3SKRALMASAOODI/valmera-mcp helps turn media e
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 100/100 |
-| quality | 45/100 |
-| integration | 100/100 |
-| production | 64/100 |
-| outlook | 65/100 |
-| adoption | 0/100 |
-| categoryMatchCount | 200/100 |
-| stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 0/100 |
 | topics | 100/100 |
+| outlook | 65/100 |
+| quality | 45/100 |
+| recency | 80/100 |
+| adoption | 0/100 |
+| production | 64/100 |
+| usefulness | 100/100 |
+| integration | 100/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 

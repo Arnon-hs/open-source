@@ -52,7 +52,7 @@
 | 42 | [PsychQuant/che-ical-mcp](./psychquant-che-ical-mcp.md) | ⭐ 45 | Swift | 69/100 |
 | 43 | [livetennisapi/polymarket-tennis](./livetennisapi-polymarket-tennis.md) | ⭐ 257 | Python | 68/100 |
 | 44 | [OctagonAI/kalshi-trading-bot-cli](./octagonai-kalshi-trading-bot-cli.md) | ⭐ 416 | TypeScript | 68/100 |
-| 45 | [tylerebowers/Schwabdev](./tylerebowers-schwabdev.md) | ⭐ 900 | Python | 68/100 |
+| 45 | [tylerebowers/Schwabdev](./tylerebowers-schwabdev.md) | ⭐ 902 | Python | 68/100 |
 | 46 | [SimplifyJobs/Summer2027-Internships](./simplifyjobs-summer2027-internships.md) | ⭐ 48.4k | Python | 68/100 |
 | 47 | [tcgdex/cards-database](./tcgdex-cards-database.md) | ⭐ 1.2k | TypeScript | 68/100 |
 | 48 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 1.6k | Shell | 68/100 |
@@ -85,8 +85,8 @@
 | 75 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 232 | Rust | 64/100 |
 | 76 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 77 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 78 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 669 | Jupyter Notebook | 63/100 |
-| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 333 | Go | 63/100 |
+| 78 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 333 | Go | 63/100 |
+| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 669 | Jupyter Notebook | 63/100 |
 | 80 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 81 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 82 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |
@@ -176,7 +176,7 @@
 | 166 | [alphabench/raptorbt](./alphabench-raptorbt.md) | ⭐ 58 | Rust | 51/100 |
 | 167 | [MISP/misp-galaxy](./misp-misp-galaxy.md) | ⭐ 653 | Python | 51/100 |
 | 168 | [tradingeconomics/tradingeconomics](./tradingeconomics-tradingeconomics.md) | ⭐ 986 | JavaScript | 51/100 |
-| 169 | [nftechie/stonkfly](./nftechie-stonkfly.md) | ⭐ 901 | Python | 50/100 |
+| 169 | [nftechie/stonkfly](./nftechie-stonkfly.md) | ⭐ 902 | Python | 50/100 |
 | 170 | [humzakt/psx-investor](./humzakt-psx-investor.md) | ⭐ — | Python | 50/100 |
 | 171 | [sstklen/trump-code](./sstklen-trump-code.md) | ⭐ 812 | Python | 50/100 |
 | 172 | [wboayue/rust-ibapi](./wboayue-rust-ibapi.md) | ⭐ 403 | Rust | 50/100 |

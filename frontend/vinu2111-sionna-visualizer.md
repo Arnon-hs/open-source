@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML
+Frontend · Backend · Data · Database
 
 ## 📝 Summary
 
 ### English
 
-Vinu2111/sionna-visualizer: Vinu2111/sionna-visualizer helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Vinu2111/sionna-visualizer: Vinu2111/sionna-visualizer helps ship user-facing interfaces with less custom UI work.. Use it for build product UI faster; reuse interface components. Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ### Русский
 
-Vinu2111/sionna-visualizer: open-source проект в категориях AI/ML. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
+Vinu2111/sionna-visualizer: open-source проект в категориях Frontend, Backend, Data, Database. Практическое применение: build product UI faster; reuse interface components. Уровень готовности: скорее исследовательский кандидат, до внедрения нужно проверить документацию, релизы и поддержку.
 
 ### 中文
 
-Vinu2111/sionna-visualizer：Vinu2111/sionna-visualizer helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
+Vinu2111/sionna-visualizer：Vinu2111/sionna-visualizer helps ship user-facing interfaces with less custom UI work.。适合用于build product UI faster、reuse interface components。Early or unclear: treat as research material until maintenance, releases, docs, and issue activity are verified.
 
 ## 🧭 Practical evaluation
 
-**Value:** Vinu2111/sionna-visualizer helps add AI capability without starting from a blank model stack.
+**Value:** Vinu2111/sionna-visualizer helps ship user-facing interfaces with less custom UI work.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- build product UI faster
+- reuse interface components
+- improve frontend delivery
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -64,19 +64,19 @@ Vinu2111/sionna-visualizer：Vinu2111/sionna-visualizer helps add AI capability 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 40/100 |
-| integration | 62/100 |
-| production | 47/100 |
-| outlook | 48/100 |
-| adoption | 11/100 |
-| categoryMatchCount | 100/100 |
-| stars | 15/100 |
 | forks | 0/100 |
-| recency | 40/100 |
+| stars | 15/100 |
 | topics | 100/100 |
+| outlook | 48/100 |
+| quality | 40/100 |
+| recency | 40/100 |
+| adoption | 11/100 |
+| production | 47/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 400/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/Vinu2111/sionna-visualizer) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/Vinu2111/sionna-visualizer) · [← Back to Frontend](./README.md)</sub>

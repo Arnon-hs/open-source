@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 925 |
+| ⭐ **Stars** | 926 |
 | 🍴 **Forks** | 264 |
 | 💻 **Language** | Objective-C |
 | 📈 **Score** | 64/100 |

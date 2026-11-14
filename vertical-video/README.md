@@ -51,7 +51,7 @@
 | 41 | [justynberk/reel-kit](./justynberk-reel-kit.md) | ⭐ 11 | Python | 72/100 |
 | 42 | [DaBaoAgent/DaobaoAI-DY](./dabaoagent-daobaoai-dy.md) | ⭐ 11 | Python | 72/100 |
 | 43 | [Agions/story-fab](./agions-story-fab.md) | ⭐ 134 | TypeScript | 72/100 |
-| 44 | [Vibha-Ramprakash/claude-video-effects](./vibha-ramprakash-claude-video-effects.md) | ⭐ 911 | Python | 71/100 |
+| 44 | [Vibha-Ramprakash/claude-video-effects](./vibha-ramprakash-claude-video-effects.md) | ⭐ 930 | Python | 71/100 |
 | 45 | [JuneYaooo/rea-video](./juneyaooo-rea-video.md) | ⭐ 7.7k | Python | 71/100 |
 | 46 | [andriidrok1/autobroll](./andriidrok1-autobroll.md) | ⭐ 25 | TypeScript | 71/100 |
 | 47 | [KaanGoker/GetSubtitlesApp](./kaangoker-getsubtitlesapp.md) | ⭐ 13 | Python | 71/100 |

@@ -110,7 +110,7 @@
 | 100 | [EmenstaNougat/ESP32-BlueJammer](./emenstanougat-esp32-bluejammer.md) | ⭐ 8.9k | — | 59/100 |
 | 101 | [TURROKS/CVE_Prioritizer](./turroks-cve-prioritizer.md) | ⭐ 712 | Python | 59/100 |
 | 102 | [chushuai/wscan](./chushuai-wscan.md) | ⭐ 717 | Go | 59/100 |
-| 103 | [roddhjav/apparmor.d](./roddhjav-apparmor.d.md) | ⭐ 833 | Go | 59/100 |
+| 103 | [roddhjav/apparmor.d](./roddhjav-apparmor.d.md) | ⭐ 834 | Go | 59/100 |
 | 104 | [openssh/openssh-portable](./openssh-openssh-portable.md) | ⭐ 4.1k | C | 59/100 |
 | 105 | [sourcentis/deming](./sourcentis-deming.md) | ⭐ 393 | PHP | 59/100 |
 | 106 | [palkan/action_policy](./palkan-action-policy.md) | ⭐ 1.6k | Ruby | 59/100 |
@@ -157,7 +157,7 @@
 | 147 | [Roave/SecurityAdvisories](./roave-securityadvisories.md) | ⭐ 2.9k | — | 57/100 |
 | 148 | [SELinuxProject/selinux](./selinuxproject-selinux.md) | ⭐ 1.7k | C | 57/100 |
 | 149 | [discord/access](./discord-access.md) | ⭐ 489 | Python | 57/100 |
-| 150 | [OpenIdentityPlatform/OpenAM](./openidentityplatform-openam.md) | ⭐ 903 | Java | 57/100 |
+| 150 | [OpenIdentityPlatform/OpenAM](./openidentityplatform-openam.md) | ⭐ 904 | Java | 57/100 |
 | 151 | [Luzifer/nginx-sso](./luzifer-nginx-sso.md) | ⭐ 305 | Go | 57/100 |
 | 152 | [lesismal/nbio](./lesismal-nbio.md) | ⭐ 2.8k | Go | 57/100 |
 | 153 | [geraldohomero/best-foss-alternatives](./geraldohomero-best-foss-alternatives.md) | ⭐ 266 | — | 57/100 |
@@ -181,7 +181,7 @@
 | 171 | [jwt-dotnet/jwt](./jwt-dotnet-jwt.md) | ⭐ 2.2k | C# | 56/100 |
 | 172 | [hahwul/urx](./hahwul-urx.md) | ⭐ 194 | Rust | 56/100 |
 | 173 | [wolfSSL/wolfBoot](./wolfssl-wolfboot.md) | ⭐ 539 | C | 56/100 |
-| 174 | [wso2/product-is](./wso2-product-is.md) | ⭐ 889 | Java | 56/100 |
+| 174 | [wso2/product-is](./wso2-product-is.md) | ⭐ 890 | Java | 56/100 |
 | 175 | [nielsfaber/alarmo](./nielsfaber-alarmo.md) | ⭐ 2.4k | Python | 56/100 |
 | 176 | [pocket-id/pocket-id](./pocket-id-pocket-id.md) | ⭐ 10.3k | Go | 56/100 |
 | 177 | [zitadel/zitadel](./zitadel-zitadel.md) | ⭐ 15.6k | Go | 56/100 |
@@ -209,7 +209,7 @@
 | 199 | [unicity-astrid/book](./unicity-astrid-book.md) | ⭐ 7.5k | Perl | 54/100 |
 | 200 | [tlswg/tls13-spec](./tlswg-tls13-spec.md) | ⭐ 579 | Python | 54/100 |
 | 201 | [pengelana/blocklist](./pengelana-blocklist.md) | ⭐ 430 | AppleScript | 54/100 |
-| 202 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 884 | — | 54/100 |
+| 202 | [cisagov/vulnrichment](./cisagov-vulnrichment.md) | ⭐ 885 | — | 54/100 |
 | 203 | [dokku/dokku-letsencrypt](./dokku-dokku-letsencrypt.md) | ⭐ 1.1k | Shell | 54/100 |
 | 204 | [openfga/openfga](./openfga-openfga.md) | ⭐ 6.1k | Go | 54/100 |
 | 205 | [instantdb/instant](./instantdb-instant.md) | ⭐ 10.6k | TypeScript | 54/100 |
@@ -271,8 +271,8 @@
 | 261 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 439 | HTML | 50/100 |
 | 262 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 263 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
-| 264 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 265 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 264 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 265 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
 | 266 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
 | 267 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 268 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 531 | JavaScript | 50/100 |
@@ -402,8 +402,8 @@
 | 392 | [aws/credential-daemon](./aws-credential-daemon.md) | ⭐ 8 | — | 41/100 |
 | 393 | [humanethq/sandbox-check](./humanethq-sandbox-check.md) | ⭐ 3 | — | 41/100 |
 | 394 | [notaharness/beam](./notaharness-beam.md) | ⭐ 8 | — | 41/100 |
-| 395 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
-| 396 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
+| 395 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
+| 396 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
 | 397 | [spapas/totpvault](./spapas-totpvault.md) | ⭐ — | — | 41/100 |
 | 398 | [movray/meles](./movray-meles.md) | ⭐ 4 | — | 41/100 |
 | 399 | [forcequitOS/worse_query](./forcequitos-worse-query.md) | ⭐ 604 | — | 41/100 |
@@ -483,9 +483,9 @@
 | 473 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 38/100 |
 | 474 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ 1.6k | — | 38/100 |
 | 475 | [openai/codex-security](./openai-codex-security.md) | ⭐ 12.9k | — | 38/100 |
-| 476 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
-| 477 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
-| 478 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 476 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 477 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 478 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
 | 479 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ 415 | — | 38/100 |
 | 480 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
 | 481 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 38/100 |
@@ -500,8 +500,8 @@
 | 490 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ 44 | — | 38/100 |
 | 491 | [Asyncinnovator/hallint](./asyncinnovator-hallint.md) | ⭐ 4 | — | 38/100 |
 | 492 | [Corgea/Sighthound](./corgea-sighthound.md) | ⭐ 289 | — | 38/100 |
-| 493 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
-| 494 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
+| 493 | [juansebastianl/decypher-env](./juansebastianl-decypher-env.md) | ⭐ 3 | — | 38/100 |
+| 494 | [yuedongze/tlstat](./yuedongze-tlstat.md) | ⭐ 3 | — | 38/100 |
 | 495 | [voidnullvalue/Icsee-android](./voidnullvalue-icsee-android.md) | ⭐ 24 | — | 38/100 |
 | 496 | [qxnode/luks-deadman](./qxnode-luks-deadman.md) | ⭐ 11 | — | 38/100 |
 | 497 | [Evandsimon/three-body-problem-cipher](./evandsimon-three-body-problem-cipher.md) | ⭐ 2 | — | 38/100 |

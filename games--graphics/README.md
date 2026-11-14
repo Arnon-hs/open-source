@@ -78,7 +78,7 @@
 | 68 | [wolfpld/tracy](./wolfpld-tracy.md) | ⭐ 17.1k | C++ | 62/100 |
 | 69 | [thi-ng/umbrella](./thi-ng-umbrella.md) | ⭐ 3.8k | TypeScript | 62/100 |
 | 70 | [PokemonWorkshop/PokemonStudio](./pokemonworkshop-pokemonstudio.md) | ⭐ 226 | TypeScript | 62/100 |
-| 71 | [ChenlizheMe/Infernux](./chenlizheme-infernux.md) | ⭐ 2.5k | Python | 62/100 |
+| 71 | [ChenlizheMe/Infernux](./chenlizheme-infernux.md) | ⭐ 2.6k | Python | 62/100 |
 | 72 | [ButterscotchRunner/Butterscotch](./butterscotchrunner-butterscotch.md) | ⭐ 414 | C | 62/100 |
 | 73 | [jrouwe/JoltPhysics](./jrouwe-joltphysics.md) | ⭐ 12.3k | C++ | 62/100 |
 | 74 | [letoram/arcan](./letoram-arcan.md) | ⭐ 1.8k | Zig | 62/100 |
@@ -113,7 +113,7 @@
 | 103 | [OpenMW/openmw](./openmw-openmw.md) | ⭐ 6.8k | C++ | 60/100 |
 | 104 | [BabylonJS/Spector.js](./babylonjs-spector.js.md) | ⭐ 1.6k | TypeScript | 60/100 |
 | 105 | [space-wizards/RobustToolbox](./space-wizards-robusttoolbox.md) | ⭐ 710 | C# | 60/100 |
-| 106 | [mlightcad/cad-viewer](./mlightcad-cad-viewer.md) | ⭐ 1.2k | TypeScript | 60/100 |
+| 106 | [mlightcad/cad-viewer](./mlightcad-cad-viewer.md) | ⭐ 1.3k | TypeScript | 60/100 |
 | 107 | [go-gl/glfw](./go-gl-glfw.md) | ⭐ 1.7k | C | 60/100 |
 | 108 | [SanderMertens/bake](./sandermertens-bake.md) | ⭐ 755 | C | 60/100 |
 | 109 | [SpartanJ/eepp](./spartanj-eepp.md) | ⭐ 679 | C++ | 60/100 |
@@ -165,7 +165,7 @@
 | 155 | [KytyPS5/KytyPS5](./kytyps5-kytyps5.md) | ⭐ 11.2k | C++ | 57/100 |
 | 156 | [panxinmiao/myth](./panxinmiao-myth.md) | ⭐ 227 | Rust | 57/100 |
 | 157 | [microsoft/DirectXShaderCompiler](./microsoft-directxshadercompiler.md) | ⭐ 3.7k | C++ | 57/100 |
-| 158 | [ddnet/ddnet](./ddnet-ddnet.md) | ⭐ 861 | C++ | 57/100 |
+| 158 | [ddnet/ddnet](./ddnet-ddnet.md) | ⭐ 860 | C++ | 57/100 |
 | 159 | [M64GitHub/movy](./m64github-movy.md) | ⭐ 101 | Zig | 57/100 |
 | 160 | [fegennari/3DWorld](./fegennari-3dworld.md) | ⭐ 1.4k | C++ | 57/100 |
 | 161 | [playcanvas/supersplat-viewer](./playcanvas-supersplat-viewer.md) | ⭐ 619 | TypeScript | 57/100 |
@@ -174,7 +174,7 @@
 | 164 | [castle-engine/castle-engine](./castle-engine-castle-engine.md) | ⭐ 1.3k | Pascal | 57/100 |
 | 165 | [Facepunch/sbox-public](./facepunch-sbox-public.md) | ⭐ 6.5k | C# | 57/100 |
 | 166 | [esengine/estella](./esengine-estella.md) | ⭐ 736 | TypeScript | 57/100 |
-| 167 | [ZeroK-RTS/Zero-K](./zerok-rts-zero-k.md) | ⭐ 883 | Lua | 57/100 |
+| 167 | [ZeroK-RTS/Zero-K](./zerok-rts-zero-k.md) | ⭐ 884 | Lua | 57/100 |
 | 168 | [timschmidt/csgrs](./timschmidt-csgrs.md) | ⭐ 265 | Rust | 57/100 |
 | 169 | [kitao/pyxel](./kitao-pyxel.md) | ⭐ 18.6k | Rust | 57/100 |
 | 170 | [piteengine/pite](./piteengine-pite.md) | ⭐ 15 | — | 56/100 |
@@ -284,12 +284,12 @@
 | 274 | [jMonkeyEngine/jmonkeyengine](./jmonkeyengine-jmonkeyengine.md) | ⭐ 4.4k | Java | 50/100 |
 | 275 | [ihhub/fheroes2](./ihhub-fheroes2.md) | ⭐ 3.7k | C++ | 50/100 |
 | 276 | [OpenXRay/xray-16](./openxray-xray-16.md) | ⭐ 3.6k | C++ | 50/100 |
-| 277 | [markusmoenig/Eldiron](./markusmoenig-eldiron.md) | ⭐ 839 | Rust | 50/100 |
+| 277 | [markusmoenig/Eldiron](./markusmoenig-eldiron.md) | ⭐ 840 | Rust | 50/100 |
 | 278 | [tangziwen/CubeMiniGame](./tangziwen-cubeminigame.md) | ⭐ 361 | C++ | 49/100 |
 | 279 | [DaemonEngine/Daemon](./daemonengine-daemon.md) | ⭐ 399 | C++ | 49/100 |
 | 280 | [makspll/bevy_mod_scripting](./makspll-bevy-mod-scripting.md) | ⭐ 664 | Rust | 49/100 |
-| 281 | [crownengine/crown](./crownengine-crown.md) | ⭐ 2.5k | C++ | 49/100 |
-| 282 | [ousnius/BodySlide-and-Outfit-Studio](./ousnius-bodyslide-and-outfit-studio.md) | ⭐ 374 | C++ | 49/100 |
+| 281 | [ousnius/BodySlide-and-Outfit-Studio](./ousnius-bodyslide-and-outfit-studio.md) | ⭐ 374 | C++ | 49/100 |
+| 282 | [crownengine/crown](./crownengine-crown.md) | ⭐ 2.5k | C++ | 49/100 |
 | 283 | [novelrt/NovelRT](./novelrt-novelrt.md) | ⭐ 218 | C++ | 49/100 |
 | 284 | [DioxusLabs/blitz](./dioxuslabs-blitz.md) | ⭐ 4.5k | Rust | 49/100 |
 | 285 | [ikemen-engine/Ikemen-GO](./ikemen-engine-ikemen-go.md) | ⭐ 1.7k | Go | 49/100 |
