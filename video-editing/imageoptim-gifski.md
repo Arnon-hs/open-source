@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-Automation
+Video Editing
 
 ## 📝 Summary
 
 ### English
 
-ImageOptim/gifski: ImageOptim/gifski helps remove repetitive manual operations from a workflow.. Use it for remove manual work; connect tools into repeatable flows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ImageOptim/gifski: ImageOptim/gifski helps turn media editing, captions, rendering, and transcoding into repeatable workflows.. Use it for automate editing and rendering; generate subtitles or dubbing. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-ImageOptim/gifski: open-source проект в категориях Automation. Практическое применение: remove manual work; connect tools into repeatable flows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+ImageOptim/gifski: open-source проект в категориях Video Editing. Практическое применение: automate editing and rendering; generate subtitles or dubbing. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-ImageOptim/gifski：ImageOptim/gifski helps remove repetitive manual operations from a workflow.。适合用于remove manual work、connect tools into repeatable flows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+ImageOptim/gifski：ImageOptim/gifski helps turn media editing, captions, rendering, and transcoding into repeatable workflows.。适合用于automate editing and rendering、generate subtitles or dubbing。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** ImageOptim/gifski helps remove repetitive manual operations from a workflow.
+**Value:** ImageOptim/gifski helps turn media editing, captions, rendering, and transcoding into repeatable workflows.
 
 **Best use cases**
 
-- remove manual work
-- connect tools into repeatable flows
-- schedule operational tasks
+- automate editing and rendering
+- generate subtitles or dubbing
+- build repeatable media-processing pipelines
 
 **Integration notes:** Looks feasible to evaluate, but integration should start with a small proof of concept and README check.
 
@@ -65,19 +65,19 @@ ImageOptim/gifski：ImageOptim/gifski helps remove repetitive manual operations 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 79/100 |
-| integration | 46/100 |
-| production | 68/100 |
-| outlook | 72/100 |
-| adoption | 73/100 |
-| categoryMatchCount | 100/100 |
-| stars | 80/100 |
 | forks | 57/100 |
-| recency | 80/100 |
+| stars | 80/100 |
 | topics | 100/100 |
+| outlook | 72/100 |
+| quality | 79/100 |
+| recency | 80/100 |
+| adoption | 73/100 |
+| production | 68/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/ImageOptim/gifski) · [← Back to Automation](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/ImageOptim/gifski) · [← Back to Video-editing](./README.md)</sub>

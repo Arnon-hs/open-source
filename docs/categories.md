@@ -38,4 +38,4 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Templates](../templates/README.md) | 503 |
 | [Trading](../trading/README.md) | 228 |
 | [Vertical Video](../vertical-video/README.md) | 172 |
-| [Video Editing](../video-editing/README.md) | 644 |
+| [Video Editing](../video-editing/README.md) | 646 |
