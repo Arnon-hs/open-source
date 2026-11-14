@@ -53,8 +53,8 @@ secdev/scapy：secdev/scapy helps convert raw data into searchable, analyzable, 
 
 **Quality signals**
 
-- 12689 GitHub stars
-- 2294 forks
+- 12691 GitHub stars
+- 2295 forks
 - updated 2026-11-13
 - primary language: Python
 - 14 topics

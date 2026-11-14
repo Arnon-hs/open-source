@@ -388,7 +388,7 @@
 | 378 | [VictorTaelin/uniichat](./victortaelin-uniichat.md) | ⭐ 667 | — | 41/100 |
 | 379 | [UKA-135/deepseek-long-thread-record](./uka-135-deepseek-long-thread-record.md) | ⭐ — | — | 41/100 |
 | 380 | [maelswarm/openrock](./maelswarm-openrock.md) | ⭐ 2 | — | 41/100 |
-| 381 | [sums001/OpenInbox](./sums001-openinbox.md) | ⭐ 370 | — | 41/100 |
+| 381 | [sums001/OpenInbox](./sums001-openinbox.md) | ⭐ 380 | — | 41/100 |
 | 382 | [IrondomeDev/GATES](./irondomedev-gates.md) | ⭐ 3 | — | 41/100 |
 | 383 | [HiAriesZhou/Howler](./hiarieszhou-howler.md) | ⭐ 21 | — | 41/100 |
 | 384 | [cjus/audio-chat-box](./cjus-audio-chat-box.md) | ⭐ 3 | — | 41/100 |

@@ -272,9 +272,9 @@
 | 262 | [OWASP/www-project-ai-security-and-privacy-guide](./owasp-www-project-ai-security-and-privacy-guide.md) | ⭐ 439 | HTML | 50/100 |
 | 263 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 264 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
-| 265 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
-| 266 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 267 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 265 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
+| 266 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
+| 267 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
 | 268 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 269 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 531 | JavaScript | 50/100 |
 | 270 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.2k | TypeScript | 50/100 |
@@ -391,8 +391,8 @@
 | 381 | [madnessbrainsbl/ROOT](./madnessbrainsbl-root.md) | ⭐ 5 | — | 42/100 |
 | 382 | [barvhaim/code-security-skills](./barvhaim-code-security-skills.md) | ⭐ 1 | — | 42/100 |
 | 383 | [jvsteiner/fingerlock](./jvsteiner-fingerlock.md) | ⭐ 6 | — | 42/100 |
-| 384 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
-| 385 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
+| 384 | [KKloudTarus/synapse-ce](./kkloudtarus-synapse-ce.md) | ⭐ 67 | — | 42/100 |
+| 385 | [nghiadaulau/synapse-ci-demo](./nghiadaulau-synapse-ci-demo.md) | ⭐ — | — | 42/100 |
 | 386 | [arm/metis](./arm-metis.md) | ⭐ 892 | — | 42/100 |
 | 387 | [reflexmanofficial/LiteOne-v3](./reflexmanofficial-liteone-v3.md) | ⭐ — | — | 42/100 |
 | 388 | [renton4code/propagate-cli](./renton4code-propagate-cli.md) | ⭐ 3 | — | 42/100 |
@@ -406,8 +406,8 @@
 | 396 | [aws/credential-daemon](./aws-credential-daemon.md) | ⭐ 8 | — | 41/100 |
 | 397 | [humanethq/sandbox-check](./humanethq-sandbox-check.md) | ⭐ 3 | — | 41/100 |
 | 398 | [notaharness/beam](./notaharness-beam.md) | ⭐ 8 | — | 41/100 |
-| 399 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
-| 400 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
+| 399 | [latent-9/chainoffuzz](./latent-9-chainoffuzz.md) | ⭐ — | — | 41/100 |
+| 400 | [symtrace/canontra](./symtrace-canontra.md) | ⭐ — | — | 41/100 |
 | 401 | [spapas/totpvault](./spapas-totpvault.md) | ⭐ — | — | 41/100 |
 | 402 | [movray/meles](./movray-meles.md) | ⭐ 4 | — | 41/100 |
 | 403 | [forcequitOS/worse_query](./forcequitos-worse-query.md) | ⭐ 626 | — | 41/100 |
@@ -458,7 +458,7 @@
 | 448 | [kenjichristopherv-del/securitymaxxing](./kenjichristopherv-del-securitymaxxing.md) | ⭐ 1 | — | 41/100 |
 | 449 | [waipu-oss/go-ktls](./waipu-oss-go-ktls.md) | ⭐ 18 | — | 41/100 |
 | 450 | [ion-elgreco/rivers](./ion-elgreco-rivers.md) | ⭐ 107 | — | 41/100 |
-| 451 | [thecodearcher/limen](./thecodearcher-limen.md) | ⭐ 567 | — | 41/100 |
+| 451 | [thecodearcher/limen](./thecodearcher-limen.md) | ⭐ 568 | — | 41/100 |
 | 452 | [mitre/heimdall2](./mitre-heimdall2.md) | ⭐ 295 | HTML | 41/100 |
 | 453 | [thiagoralves/openplc](./thiagoralves-openplc.md) | ⭐ 184 | C++ | 41/100 |
 | 454 | [hahahahahahahahah6/bash-write-targets](./hahahahahahahahah6-bash-write-targets.md) | ⭐ — | Python | 41/100 |
@@ -487,9 +487,9 @@
 | 477 | [wahidmmadiha/Building-HomeScope-with-Floot-and-Perfai-Security-](./wahidmmadiha-building-homescope-with-floot-and-perfai-security-.md) | ⭐ — | — | 38/100 |
 | 478 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ 1.6k | — | 38/100 |
 | 479 | [openai/codex-security](./openai-codex-security.md) | ⭐ 13.5k | — | 38/100 |
-| 480 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
+| 480 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
 | 481 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
-| 482 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 482 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
 | 483 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ 415 | — | 38/100 |
 | 484 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
 | 485 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 38/100 |
@@ -498,7 +498,7 @@
 | 488 | [hexorcist404/apotrope](./hexorcist404-apotrope.md) | ⭐ 18 | — | 38/100 |
 | 489 | [Kritt-ai/open-kritt](./kritt-ai-open-kritt.md) | ⭐ 2.4k | — | 38/100 |
 | 490 | [own2pwn-fr/wp2shell-detect](./own2pwn-fr-wp2shell-detect.md) | ⭐ 5 | — | 38/100 |
-| 491 | [TheMaxMur/RS-Key](./themaxmur-rs-key.md) | ⭐ 688 | — | 38/100 |
+| 491 | [TheMaxMur/RS-Key](./themaxmur-rs-key.md) | ⭐ 690 | — | 38/100 |
 | 492 | [47Cid/wp2shell-lab](./47cid-wp2shell-lab.md) | ⭐ 15 | — | 38/100 |
 | 493 | [Senaraufi/Security-Log-Analyser](./senaraufi-security-log-analyser.md) | ⭐ 5 | — | 38/100 |
 | 494 | [jaurakunal/isitsecure](./jaurakunal-isitsecure.md) | ⭐ 44 | — | 38/100 |

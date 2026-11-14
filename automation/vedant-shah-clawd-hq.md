@@ -1,6 +1,6 @@
 # vedant-shah/clawd-hq
 
-[![Stars](https://img.shields.io/github/stars/vedant-shah/clawd-hq?style=flat-square&color=yellow)](https://github.com/vedant-shah/clawd-hq/stargazers) [![Forks](https://img.shields.io/github/forks/vedant-shah/clawd-hq?style=flat-square&color=blue)](https://github.com/vedant-shah/clawd-hq/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-52%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/vedant-shah/clawd-hq?style=flat-square&color=yellow)](https://github.com/vedant-shah/clawd-hq/stargazers) [![Forks](https://img.shields.io/github/forks/vedant-shah/clawd-hq?style=flat-square&color=blue)](https://github.com/vedant-shah/clawd-hq/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-49%2F100-brightgreen?style=flat-square)](#)
 
 > A chief of staff for Claude Code, with a live pixel-art office. You talk to Clawd; he hires specialists from your installed helpers and runs them in the background
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 7 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 52/100 |
+| 📈 **Score** | 49/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ vedant-shah/clawd-hq：vedant-shah/clawd-hq helps remove repetitive manual opera
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 52/100 |
+| quality | 47/100 |
 | integration | 62/100 |
-| production | 66/100 |
-| outlook | 61/100 |
+| production | 59/100 |
+| outlook | 54/100 |
 | adoption | 16/100 |
 | categoryMatchCount | 200/100 |
 | stars | 19/100 |
 | forks | 8/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 63/100 |
 | sourceTrust | 70/100 |
 

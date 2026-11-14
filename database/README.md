@@ -368,7 +368,7 @@
 | 358 | [redis-rs/redis-rs](./redis-rs-redis-rs.md) | ⭐ 4.3k | Rust | 46/100 |
 | 359 | [cberner/redb](./cberner-redb.md) | ⭐ 4.9k | Rust | 46/100 |
 | 360 | [AydenGroup/nitrobase](./aydengroup-nitrobase.md) | ⭐ 8 | TypeScript | 46/100 |
-| 361 | [relatedb/relate](./relatedb-relate.md) | ⭐ 242 | — | 45/100 |
+| 361 | [relatedb/relate](./relatedb-relate.md) | ⭐ 263 | — | 45/100 |
 | 362 | [DevLoops-ai/unified-brain](./devloops-ai-unified-brain.md) | ⭐ 34 | — | 45/100 |
 | 363 | [deedglass/deedglass](./deedglass-deedglass.md) | ⭐ 6 | — | 45/100 |
 | 364 | [objectbox/adhoc-db-benchmarks](./objectbox-adhoc-db-benchmarks.md) | ⭐ 1 | — | 45/100 |
@@ -404,7 +404,7 @@
 | 394 | [gizmodata/gizmosql](./gizmodata-gizmosql.md) | ⭐ 377 | C++ | 45/100 |
 | 395 | [joaoh82/rust_sqlite](./joaoh82-rust-sqlite.md) | ⭐ 1.1k | Rust | 45/100 |
 | 396 | [github/advisory-database](./github-advisory-database.md) | ⭐ 2.6k | — | 45/100 |
-| 397 | [tastyware/streaq](./tastyware-streaq.md) | ⭐ 178 | — | 44/100 |
+| 397 | [tastyware/streaq](./tastyware-streaq.md) | ⭐ 179 | — | 44/100 |
 | 398 | [imaradesk/doveorm](./imaradesk-doveorm.md) | ⭐ 1 | — | 44/100 |
 | 399 | [FriendsOfPHP/security-advisories](./friendsofphp-security-advisories.md) | ⭐ 2.1k | PHP | 44/100 |
 | 400 | [ismailkarsli/typesql](./ismailkarsli-typesql.md) | ⭐ 33 | — | 44/100 |
@@ -448,7 +448,7 @@
 | 438 | [swiftstream/Duck](./swiftstream-duck.md) | ⭐ 25 | — | 41/100 |
 | 439 | [barddoo/tsfm-pg](./barddoo-tsfm-pg.md) | ⭐ 1 | — | 41/100 |
 | 440 | [joao00001/pg-regression-radar](./joao00001-pg-regression-radar.md) | ⭐ 14 | — | 41/100 |
-| 441 | [Pragadeesh-19/nodusdb](./pragadeesh-19-nodusdb.md) | ⭐ 1 | — | 41/100 |
+| 441 | [Pragadeesh-19/nodusdb](./pragadeesh-19-nodusdb.md) | ⭐ 2 | — | 41/100 |
 | 442 | [mishabunte/pgxio](./mishabunte-pgxio.md) | ⭐ 4 | — | 41/100 |
 | 443 | [ayeshrodz/slonbase](./ayeshrodz-slonbase.md) | ⭐ 5 | — | 41/100 |
 | 444 | [vighnesh-bheed/eski](./vighnesh-bheed-eski.md) | ⭐ 2 | — | 41/100 |
@@ -573,8 +573,8 @@
 | 563 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 564 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 565 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 566 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 154 | — | 38/100 |
-| 567 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
+| 566 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
+| 567 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 154 | — | 38/100 |
 | 568 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 569 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 298 | — | 38/100 |
 | 570 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |

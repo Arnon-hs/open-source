@@ -247,7 +247,7 @@
 | 237 | [dapr/js-sdk](./dapr-js-sdk.md) | ⭐ 217 | JavaScript | 49/100 |
 | 238 | [CH-Abhinav/JNum](./ch-abhinav-jnum.md) | ⭐ 34 | — | 48/100 |
 | 239 | [apple-auth/apple-auth](./apple-auth-apple-auth.md) | ⭐ 3 | — | 48/100 |
-| 240 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ 122 | — | 48/100 |
+| 240 | [SkyeShade/HellForge](./skyeshade-hellforge.md) | ⭐ 127 | — | 48/100 |
 | 241 | [XaBbl4/pytonconnect](./xabbl4-pytonconnect.md) | ⭐ 68 | Python | 48/100 |
 | 242 | [theoriclabs/leanllm](./theoriclabs-leanllm.md) | ⭐ 10 | — | 48/100 |
 | 243 | [facebookincubator/muse-gadget-sdk](./facebookincubator-muse-gadget-sdk.md) | ⭐ 2.7k | — | 48/100 |
