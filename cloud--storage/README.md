@@ -492,9 +492,9 @@
 | 482 | [Azure/Azure-Sentinel](./azure-azure-sentinel.md) | ⭐ 6.3k | Python | 52/100 |
 | 483 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 448 | Go | 52/100 |
 | 484 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
-| 485 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
-| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 485 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 72 | — | 51/100 |
+| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
 | 488 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 63 | Python | 51/100 |
 | 489 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 490 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
@@ -548,8 +548,8 @@
 | 538 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 539 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 540 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 543 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 544 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 545 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |
@@ -643,7 +643,7 @@
 | 633 | [JoeyAlpha5/postgres-on-prem-aws-cloud-migration](./joeyalpha5-postgres-on-prem-aws-cloud-migration.md) | ⭐ 1 | — | 38/100 |
 | 634 | [cgopalan/s3fileviewer](./cgopalan-s3fileviewer.md) | ⭐ 7 | — | 38/100 |
 | 635 | [bolt-earth/Berg](./bolt-earth-berg.md) | ⭐ 2 | — | 38/100 |
-| 636 | [floci-io/floci](./floci-io-floci.md) | ⭐ 31.6k | — | 38/100 |
+| 636 | [floci-io/floci](./floci-io-floci.md) | ⭐ 31.7k | — | 38/100 |
 | 637 | [x-tahosin/groundstate](./x-tahosin-groundstate.md) | ⭐ — | JavaScript | 36/100 |
 | 638 | [psantus/aws-console-url](./psantus-aws-console-url.md) | ⭐ 1 | Shell | 36/100 |
 | 639 | [WalnutIcecream/Nomad](./walnuticecream-nomad.md) | ⭐ 1 | Python | 35/100 |

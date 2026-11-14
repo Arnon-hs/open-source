@@ -203,8 +203,8 @@
 | 193 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 103 | Swift | 67/100 |
 | 194 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 226 | Python | 67/100 |
 | 195 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 308 | TypeScript | 67/100 |
-| 196 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
-| 197 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 379 | TypeScript | 67/100 |
+| 196 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 379 | TypeScript | 67/100 |
+| 197 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
 | 198 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 239 | Go | 67/100 |
 | 199 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 200 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 133 | Python | 67/100 |
@@ -212,7 +212,7 @@
 | 202 | [tmoroney/auto-subs](./tmoroney-auto-subs.md) | ⭐ 4.6k | TypeScript | 67/100 |
 | 203 | [mpv-player/mpv](./mpv-player-mpv.md) | ⭐ 38.1k | C | 67/100 |
 | 204 | [zoriya/Kyoo](./zoriya-kyoo.md) | ⭐ 2.6k | TypeScript | 67/100 |
-| 205 | [masonmosen/muse-video-prompt-skill](./masonmosen-muse-video-prompt-skill.md) | ⭐ 29 | Python | 66/100 |
+| 205 | [masonmosen/muse-video-prompt-skill](./masonmosen-muse-video-prompt-skill.md) | ⭐ 35 | Python | 66/100 |
 | 206 | [beingtyrantdescribe/Wondershare-Filmora-Premium-Video-Editing-Software](./beingtyrantdescribe-wondershare-filmora-premium-video-editing-software.md) | ⭐ 100 | — | 66/100 |
 | 207 | [codeverbojan/remotion-cinematic](./codeverbojan-remotion-cinematic.md) | ⭐ 26 | TypeScript | 66/100 |
 | 208 | [unclejobs-ai/motion-video-skill](./unclejobs-ai-motion-video-skill.md) | ⭐ 140 | TypeScript | 66/100 |
@@ -521,7 +521,7 @@
 | 511 | [CrispStrobe/CrispASR](./crispstrobe-crispasr.md) | ⭐ 811 | C++ | 54/100 |
 | 512 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 513 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 51 | Kotlin | 53/100 |
-| 514 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
+| 514 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 68 | — | 53/100 |
 | 515 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
 | 516 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
 | 517 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
@@ -604,7 +604,7 @@
 | 594 | [lonthq/overtone-captions](./lonthq-overtone-captions.md) | ⭐ 62 | — | 45/100 |
 | 595 | [nefayran/stageload](./nefayran-stageload.md) | ⭐ — | — | 45/100 |
 | 596 | [nihui/realcugan-ncnn-vulkan](./nihui-realcugan-ncnn-vulkan.md) | ⭐ 932 | — | 45/100 |
-| 597 | [EduardoViniciusJ/AnyCaptions](./eduardoviniciusj-anycaptions.md) | ⭐ 17 | — | 45/100 |
+| 597 | [EduardoViniciusJ/AnyCaptions](./eduardoviniciusj-anycaptions.md) | ⭐ 18 | — | 45/100 |
 | 598 | [live-miracles/bunryu](./live-miracles-bunryu.md) | ⭐ 5 | — | 45/100 |
 | 599 | [waldo-van-der-code/whatyousay-oss](./waldo-van-der-code-whatyousay-oss.md) | ⭐ 1 | — | 45/100 |
 | 600 | [wutlu/notchsub](./wutlu-notchsub.md) | ⭐ 1 | — | 45/100 |

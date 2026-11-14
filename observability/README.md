@@ -326,7 +326,7 @@
 | 316 | [ctrlb-hq/ctrlb-decompose](./ctrlb-hq-ctrlb-decompose.md) | ⭐ 305 | — | 38/100 |
 | 317 | [swiftlogicsystems/swifttopology](./swiftlogicsystems-swifttopology.md) | ⭐ — | — | 38/100 |
 | 318 | [JustinNarracott/ShadowGlass](./justinnarracott-shadowglass.md) | ⭐ 2 | — | 38/100 |
-| 319 | [endformdev/playwright-opentelemetry](./endformdev-playwright-opentelemetry.md) | ⭐ 29 | — | 38/100 |
+| 319 | [endformdev/playwright-opentelemetry](./endformdev-playwright-opentelemetry.md) | ⭐ 30 | — | 38/100 |
 | 320 | [sanitizeai/logguardai](./sanitizeai-logguardai.md) | ⭐ 3 | — | 38/100 |
 | 321 | [skuznetsov/tokenomics-viewer](./skuznetsov-tokenomics-viewer.md) | ⭐ — | — | 38/100 |
 | 322 | [hieuha/LazyCamHUD](./hieuha-lazycamhud.md) | ⭐ 1 | — | 38/100 |

@@ -290,7 +290,7 @@
 | 280 | [dtolnay/semver-trick](./dtolnay-semver-trick.md) | ⭐ 573 | — | 41/100 |
 | 281 | [glastor-core/hyper64](./glastor-core-hyper64.md) | ⭐ 1 | — | 41/100 |
 | 282 | [useswype/kotlin-pdfx](./useswype-kotlin-pdfx.md) | ⭐ 10 | — | 41/100 |
-| 283 | [openvi-foundation/openvue](./openvi-foundation-openvue.md) | ⭐ 442 | — | 41/100 |
+| 283 | [openvi-foundation/openvue](./openvi-foundation-openvue.md) | ⭐ 443 | — | 41/100 |
 | 284 | [dannkkie/pure-sift](./dannkkie-pure-sift.md) | ⭐ 5 | — | 41/100 |
 | 285 | [romeroej2/ContextCall](./romeroej2-contextcall.md) | ⭐ 8 | — | 41/100 |
 | 286 | [V0rtexLinux/ILrDOS](./v0rtexlinux-ilrdos.md) | ⭐ 1 | — | 41/100 |

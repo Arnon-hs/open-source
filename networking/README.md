@@ -624,7 +624,7 @@
 | 614 | [dangowrt/comrade](./dangowrt-comrade.md) | ⭐ 11 | — | 41/100 |
 | 615 | [hack-tramp/ESP-MQTTunnel](./hack-tramp-esp-mqttunnel.md) | ⭐ 4 | — | 41/100 |
 | 616 | [ghuntley/preflight](./ghuntley-preflight.md) | ⭐ 128 | — | 41/100 |
-| 617 | [ghuntley/underclass](./ghuntley-underclass.md) | ⭐ 298 | — | 41/100 |
+| 617 | [ghuntley/underclass](./ghuntley-underclass.md) | ⭐ 299 | — | 41/100 |
 | 618 | [amarongrantham-dev/README.md](./amarongrantham-dev-readme.md.md) | ⭐ 1 | — | 41/100 |
 | 619 | [shellroute/shellroute-cli](./shellroute-shellroute-cli.md) | ⭐ 8 | — | 41/100 |
 | 620 | [nodemaven/proxy-benchmark](./nodemaven-proxy-benchmark.md) | ⭐ 71 | — | 41/100 |
