@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 15.6k |
+| ⭐ **Stars** | 15.7k |
 | 🍴 **Forks** | 2k |
 | 💻 **Language** | Python |
 | 📈 **Score** | 72/100 |
@@ -53,7 +53,7 @@ megadose/holehe：megadose/holehe helps remove repetitive manual operations from
 
 **Quality signals**
 
-- 15649 GitHub stars
+- 15658 GitHub stars
 - 2031 forks
 - updated 2026-11-09
 - primary language: Python

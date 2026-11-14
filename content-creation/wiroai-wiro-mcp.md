@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-MCP · AI/ML
+Content Creation · Payments · MCP · AI/ML · Backend
 
 ## 📝 Summary
 
 ### English
 
-wiroai/Wiro-MCP: wiroai/Wiro-MCP helps connect AI assistants to real tools and data through a standard protocol.. Use it for connect AI agents to tools; ship Model Context Protocol servers. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+wiroai/Wiro-MCP: wiroai/Wiro-MCP helps creators research, generate, repurpose, and publish content with less manual work.. Use it for research and produce content; repurpose assets across channels. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-wiroai/Wiro-MCP: open-source проект в категориях MCP, AI/ML. Практическое применение: connect AI agents to tools; ship Model Context Protocol servers. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+wiroai/Wiro-MCP: open-source проект в категориях Content Creation, Payments, MCP, AI/ML, Backend. Практическое применение: research and produce content; repurpose assets across channels. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-wiroai/Wiro-MCP：wiroai/Wiro-MCP helps connect AI assistants to real tools and data through a standard protocol.。适合用于connect AI agents to tools、ship Model Context Protocol servers。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+wiroai/Wiro-MCP：wiroai/Wiro-MCP helps creators research, generate, repurpose, and publish content with less manual work.。适合用于research and produce content、repurpose assets across channels。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** wiroai/Wiro-MCP helps connect AI assistants to real tools and data through a standard protocol.
+**Value:** wiroai/Wiro-MCP helps creators research, generate, repurpose, and publish content with less manual work.
 
 **Best use cases**
 
-- connect AI agents to tools
-- ship Model Context Protocol servers
-- standardize integrations
+- research and produce content
+- repurpose assets across channels
+- automate a creator production pipeline
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -64,19 +64,19 @@ wiroai/Wiro-MCP：wiroai/Wiro-MCP helps connect AI assistants to real tools and 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 90/100 |
-| quality | 51/100 |
-| integration | 78/100 |
-| production | 63/100 |
-| outlook | 66/100 |
-| adoption | 12/100 |
-| categoryMatchCount | 200/100 |
-| stars | 17/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| stars | 17/100 |
 | topics | 100/100 |
+| outlook | 66/100 |
+| quality | 51/100 |
+| recency | 80/100 |
+| adoption | 12/100 |
+| production | 63/100 |
+| usefulness | 90/100 |
+| integration | 78/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 500/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/wiroai/Wiro-MCP) · [← Back to Mcp](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/wiroai/Wiro-MCP) · [← Back to Content-creation](./README.md)</sub>

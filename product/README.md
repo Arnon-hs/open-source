@@ -14,7 +14,7 @@
 | 4 | [lsfusion-solutions/mycompany](./lsfusion-solutions-mycompany.md) | ⭐ 380 | JavaScript | 59/100 |
 | 5 | [fastly/Viceroy](./fastly-viceroy.md) | ⭐ 178 | Rust | 54/100 |
 | 6 | [orbivort/scrumooth](./orbivort-scrumooth.md) | ⭐ 1 | TypeScript | 53/100 |
-| 7 | [Satvik-jain/customer-intelligence-toolkit](./satvik-jain-customer-intelligence-toolkit.md) | ⭐ — | — | 45/100 |
+| 7 | [Satvik-jain/customer-intelligence-toolkit](./satvik-jain-customer-intelligence-toolkit.md) | ⭐ 1 | — | 45/100 |
 | 8 | [iamnotstatic/vibetime](./iamnotstatic-vibetime.md) | ⭐ 53 | — | 45/100 |
 | 9 | [agenttools/headroom](./agenttools-headroom.md) | ⭐ — | — | 45/100 |
 | 10 | [AdamTuraj/StudPrint](./adamturaj-studprint.md) | ⭐ 23 | — | 44/100 |

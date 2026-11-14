@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 4 |
+| ⭐ **Stars** | 5 |
 | 🍴 **Forks** | 1 |
 | 💻 **Language** | TypeScript |
 | 📈 **Score** | 59/100 |
@@ -53,7 +53,7 @@ three-feathers/agent-durbar：three-feathers/agent-durbar helps add AI capabilit
 
 **Quality signals**
 
-- 4 GitHub stars
+- 5 GitHub stars
 - 1 forks
 - updated 2026-11-12
 - primary language: TypeScript
@@ -66,13 +66,13 @@ three-feathers/agent-durbar：three-feathers/agent-durbar helps add AI capabilit
 | Dimension | Score |
 |---|---:|
 | usefulness | 74/100 |
-| quality | 56/100 |
+| quality | 57/100 |
 | integration | 46/100 |
 | production | 65/100 |
 | outlook | 70/100 |
-| adoption | 13/100 |
+| adoption | 14/100 |
 | categoryMatchCount | 200/100 |
-| stars | 15/100 |
+| stars | 17/100 |
 | forks | 8/100 |
 | recency | 100/100 |
 | topics | 100/100 |
