@@ -194,7 +194,7 @@
 | 184 | [dgkanatsios/CKAD-exercises](./dgkanatsios-ckad-exercises.md) | ⭐ 10.2k | — | 64/100 |
 | 185 | [devld/go-drive](./devld-go-drive.md) | ⭐ 806 | Go | 64/100 |
 | 186 | [rivet-dev/actors](./rivet-dev-actors.md) | ⭐ 6k | Rust | 64/100 |
-| 187 | [EdiWang/Moonglade](./ediwang-moonglade.md) | ⭐ 537 | C# | 64/100 |
+| 187 | [EdiWang/Moonglade](./ediwang-moonglade.md) | ⭐ 536 | C# | 64/100 |
 | 188 | [aws/aws-sdk-cpp](./aws-aws-sdk-cpp.md) | ⭐ 2.2k | C++ | 64/100 |
 | 189 | [JetBrains/qodana-action](./jetbrains-qodana-action.md) | ⭐ 315 | JavaScript | 64/100 |
 | 190 | [nats-io/nats.rs](./nats-io-nats.rs.md) | ⭐ 1.6k | Rust | 64/100 |
@@ -203,7 +203,7 @@
 | 193 | [pulumi/examples](./pulumi-examples.md) | ⭐ 2.6k | TypeScript | 64/100 |
 | 194 | [Azure/azqr](./azure-azqr.md) | ⭐ 802 | Go | 64/100 |
 | 195 | [micronaut-projects/micronaut-core](./micronaut-projects-micronaut-core.md) | ⭐ 6.4k | Java | 64/100 |
-| 196 | [microsoft/go-sqlcmd](./microsoft-go-sqlcmd.md) | ⭐ 619 | Go | 64/100 |
+| 196 | [microsoft/go-sqlcmd](./microsoft-go-sqlcmd.md) | ⭐ 618 | Go | 64/100 |
 | 197 | [Azure/azure-functions-host](./azure-azure-functions-host.md) | ⭐ 2k | C# | 64/100 |
 | 198 | [infracost/vscode-infracost](./infracost-vscode-infracost.md) | ⭐ 1.8k | TypeScript | 64/100 |
 | 199 | [cifertech/ESP32-DIV](./cifertech-esp32-div.md) | ⭐ 4.3k | C++ | 64/100 |
@@ -217,7 +217,7 @@
 | 207 | [firecracker-microvm/firecracker](./firecracker-microvm-firecracker.md) | ⭐ 34.2k | Rust | 64/100 |
 | 208 | [microsoft/aspire.dev](./microsoft-aspire.dev.md) | ⭐ 206 | MDX | 64/100 |
 | 209 | [pnp/cli-microsoft365](./pnp-cli-microsoft365.md) | ⭐ 1.5k | TypeScript | 64/100 |
-| 210 | [kuvasz-uptime/kuvasz](./kuvasz-uptime-kuvasz.md) | ⭐ 673 | Kotlin | 64/100 |
+| 210 | [kuvasz-uptime/kuvasz](./kuvasz-uptime-kuvasz.md) | ⭐ 674 | Kotlin | 64/100 |
 | 211 | [rclone/rclone](./rclone-rclone.md) | ⭐ 61k | Go | 64/100 |
 | 212 | [openyurtio/openyurt](./openyurtio-openyurt.md) | ⭐ 2k | Go | 63/100 |
 | 213 | [GoogleCloudPlatform/golang-samples](./googlecloudplatform-golang-samples.md) | ⭐ 4.7k | Go | 63/100 |
@@ -493,8 +493,8 @@
 | 483 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 448 | Go | 52/100 |
 | 484 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 485 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 71 | — | 51/100 |
-| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 488 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 62 | Python | 51/100 |
 | 489 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 490 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
@@ -515,7 +515,7 @@
 | 505 | [dan-v/cloudshell-store](./dan-v-cloudshell-store.md) | ⭐ 59 | — | 50/100 |
 | 506 | [guyon-it-consulting/cloudshell-boto3](./guyon-it-consulting-cloudshell-boto3.md) | ⭐ 5 | — | 50/100 |
 | 507 | [GoogleCloudPlatform/k8s-config-connector](./googlecloudplatform-k8s-config-connector.md) | ⭐ 1.1k | Go | 50/100 |
-| 508 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 758 | Rust | 50/100 |
+| 508 | [ferriskey/ferriskey](./ferriskey-ferriskey.md) | ⭐ 759 | Rust | 50/100 |
 | 509 | [opengeos/geospatial-data-catalogs](./opengeos-geospatial-data-catalogs.md) | ⭐ 670 | Python | 50/100 |
 | 510 | [cloudflare/workers-rs](./cloudflare-workers-rs.md) | ⭐ 3.8k | Rust | 50/100 |
 | 511 | [rmarable/ParallelClusterMaker](./rmarable-parallelclustermaker.md) | ⭐ 6 | — | 49/100 |

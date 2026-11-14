@@ -229,7 +229,7 @@
 | 219 | [tallyhook/tallyhook-collector](./tallyhook-tallyhook-collector.md) | ⭐ 1 | — | 48/100 |
 | 220 | [poonesnerfect/jlf](./poonesnerfect-jlf.md) | ⭐ 34 | — | 48/100 |
 | 221 | [el10savio/obsIngest](./el10savio-obsingest.md) | ⭐ — | — | 48/100 |
-| 222 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 639 | C | 48/100 |
+| 222 | [open-telemetry/opentelemetry-ebpf-instrumentation](./open-telemetry-opentelemetry-ebpf-instrumentation.md) | ⭐ 640 | C | 48/100 |
 | 223 | [VictoriaMetrics/operator](./victoriametrics-operator.md) | ⭐ 600 | Go | 48/100 |
 | 224 | [open-telemetry/opentelemetry-go-contrib](./open-telemetry-opentelemetry-go-contrib.md) | ⭐ 1.7k | Go | 48/100 |
 | 225 | [cloudwalk/stratus](./cloudwalk-stratus.md) | ⭐ 175 | Rust | 47/100 |

@@ -38,7 +38,7 @@
 | 28 | [transact-rs/sqlx](./transact-rs-sqlx.md) | ⭐ 17.7k | Rust | 67/100 |
 | 29 | [pgsty/pigsty](./pgsty-pigsty.md) | ⭐ 5.9k | Shell | 67/100 |
 | 30 | [geotools/geotools](./geotools-geotools.md) | ⭐ 1.9k | Java | 67/100 |
-| 31 | [dbfixtures/pytest-postgresql](./dbfixtures-pytest-postgresql.md) | ⭐ 533 | Python | 67/100 |
+| 31 | [dbfixtures/pytest-postgresql](./dbfixtures-pytest-postgresql.md) | ⭐ 534 | Python | 67/100 |
 | 32 | [grandnode/grandnode2](./grandnode-grandnode2.md) | ⭐ 1.3k | C# | 66/100 |
 | 33 | [l1xnan/duckling](./l1xnan-duckling.md) | ⭐ 586 | TypeScript | 66/100 |
 | 34 | [hibernate/hibernate-orm](./hibernate-hibernate-orm.md) | ⭐ 6.5k | Java | 66/100 |
@@ -152,7 +152,7 @@
 | 142 | [apache/cassandra](./apache-cassandra.md) | ⭐ 10.2k | Java | 59/100 |
 | 143 | [KouShenhai/KCloud-Platform-IoT](./koushenhai-kcloud-platform-iot.md) | ⭐ 680 | Java | 59/100 |
 | 144 | [faust-streaming/faust](./faust-streaming-faust.md) | ⭐ 1.9k | Python | 59/100 |
-| 145 | [blnkfinance/blnk](./blnkfinance-blnk.md) | ⭐ 591 | Go | 59/100 |
+| 145 | [blnkfinance/blnk](./blnkfinance-blnk.md) | ⭐ 592 | Go | 59/100 |
 | 146 | [ridgepole/ridgepole](./ridgepole-ridgepole.md) | ⭐ 1.1k | Ruby | 59/100 |
 | 147 | [pandorafuture/wx-cli](./pandorafuture-wx-cli.md) | ⭐ 1.1k | Rust | 59/100 |
 | 148 | [mongodb/kingfisher](./mongodb-kingfisher.md) | ⭐ 1.3k | Rust | 59/100 |
@@ -230,7 +230,7 @@
 | 220 | [baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv](./baselkelziye-ytu-bilgisayar-muhendisligi-arsiv.md) | ⭐ 509 | Jupyter Notebook | 55/100 |
 | 221 | [omega8cc/boa](./omega8cc-boa.md) | ⭐ 395 | Shell | 55/100 |
 | 222 | [glommer/pgmicro](./glommer-pgmicro.md) | ⭐ 1.2k | Rust | 55/100 |
-| 223 | [f1db/f1db](./f1db-f1db.md) | ⭐ 655 | Kotlin | 55/100 |
+| 223 | [f1db/f1db](./f1db-f1db.md) | ⭐ 657 | Kotlin | 55/100 |
 | 224 | [scalikejdbc/scalikejdbc](./scalikejdbc-scalikejdbc.md) | ⭐ 1.3k | Scala | 55/100 |
 | 225 | [kenyounot123/moneypouch](./kenyounot123-moneypouch.md) | ⭐ 5 | Ruby | 54/100 |
 | 226 | [AnshMeshram/dabbaiq](./anshmeshram-dabbaiq.md) | ⭐ — | TypeScript | 54/100 |
@@ -244,7 +244,7 @@
 | 234 | [sqliteai/sqlite-sync](./sqliteai-sqlite-sync.md) | ⭐ 612 | C | 54/100 |
 | 235 | [timescale/timescaledb-toolkit](./timescale-timescaledb-toolkit.md) | ⭐ 493 | Rust | 54/100 |
 | 236 | [theseus-rs/postgresql-embedded](./theseus-rs-postgresql-embedded.md) | ⭐ 408 | Rust | 54/100 |
-| 237 | [planetscale/database-skills](./planetscale-database-skills.md) | ⭐ 739 | HTML | 54/100 |
+| 237 | [planetscale/database-skills](./planetscale-database-skills.md) | ⭐ 740 | HTML | 54/100 |
 | 238 | [postgres-ai/postgresai](./postgres-ai-postgresai.md) | ⭐ 140 | Python | 54/100 |
 | 239 | [lyric777/Book-Management-System](./lyric777-book-management-system.md) | ⭐ 400 | Python | 54/100 |
 | 240 | [Netflix/atlas](./netflix-atlas.md) | ⭐ 3.6k | Scala | 54/100 |
@@ -554,8 +554,8 @@
 | 544 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 545 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 546 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 435 | — | 38/100 |
-| 547 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
-| 548 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 547 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 548 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
 | 549 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 550 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 551 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |

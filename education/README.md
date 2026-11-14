@@ -21,7 +21,7 @@
 | 11 | [INGInious/INGInious](./inginious-inginious.md) | ⭐ 243 | Python | 58/100 |
 | 12 | [pion/example-webrtc-applications](./pion-example-webrtc-applications.md) | ⭐ 1.4k | Go | 58/100 |
 | 13 | [cypress-io/cypress-example-kitchensink](./cypress-io-cypress-example-kitchensink.md) | ⭐ 1.2k | HTML | 58/100 |
-| 14 | [TheSpydog/SDL_gpu_examples](./thespydog-sdl-gpu-examples.md) | ⭐ 560 | C++ | 57/100 |
+| 14 | [TheSpydog/SDL_gpu_examples](./thespydog-sdl-gpu-examples.md) | ⭐ 561 | C++ | 57/100 |
 | 15 | [actix/examples](./actix-examples.md) | ⭐ 4k | Rust | 57/100 |
 | 16 | [galaxyproject/training-material](./galaxyproject-training-material.md) | ⭐ 368 | HTML | 57/100 |
 | 17 | [luxonis/oak-examples](./luxonis-oak-examples.md) | ⭐ 983 | Python | 56/100 |

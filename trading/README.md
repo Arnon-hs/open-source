@@ -78,15 +78,15 @@
 | 68 | [merovinh/best-of-algorithmic-trading](./merovinh-best-of-algorithmic-trading.md) | ⭐ 1k | — | 65/100 |
 | 69 | [arhancanli/canlicapital](./arhancanli-canlicapital.md) | ⭐ 6 | HTML | 64/100 |
 | 70 | [HKUDS/AI-Trader](./hkuds-ai-trader.md) | ⭐ 23.3k | Python | 64/100 |
-| 71 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.7k | — | 64/100 |
-| 72 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 101 | Python | 64/100 |
+| 71 | [gammagrid/gammagrid](./gammagrid-gammagrid.md) | ⭐ 101 | Python | 64/100 |
+| 72 | [thuquant/awesome-quant](./thuquant-awesome-quant.md) | ⭐ 5.7k | — | 64/100 |
 | 73 | [HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](./harrieronchain-prediction-markets-trading-bot-toolkits.md) | ⭐ 354 | Rust | 64/100 |
 | 74 | [Travisun/Opptrix](./travisun-opptrix.md) | ⭐ 32 | TypeScript | 64/100 |
 | 75 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 232 | Rust | 64/100 |
 | 76 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 77 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
 | 78 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 333 | Go | 63/100 |
-| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 669 | Jupyter Notebook | 63/100 |
+| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 670 | Jupyter Notebook | 63/100 |
 | 80 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 81 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 82 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |
@@ -108,7 +108,7 @@
 | 98 | [Krexind/quant-trading](./krexind-quant-trading.md) | ⭐ 42 | Python | 61/100 |
 | 99 | [MISP/MISP](./misp-misp.md) | ⭐ 6.7k | PHP | 61/100 |
 | 100 | [rafae-ops/polymarket-trading-bot](./rafae-ops-polymarket-trading-bot.md) | ⭐ 391 | — | 61/100 |
-| 101 | [quant-king299/EasyXT](./quant-king299-easyxt.md) | ⭐ 756 | Python | 61/100 |
+| 101 | [quant-king299/EasyXT](./quant-king299-easyxt.md) | ⭐ 757 | Python | 61/100 |
 | 102 | [endless-sky/endless-sky](./endless-sky-endless-sky.md) | ⭐ 7.7k | C++ | 61/100 |
 | 103 | [shinnytech/tqsdk-python](./shinnytech-tqsdk-python.md) | ⭐ 5.1k | Python | 61/100 |
 | 104 | [QuantConnect/Lean](./quantconnect-lean.md) | ⭐ 22.5k | C# | 61/100 |
@@ -149,7 +149,7 @@
 | 139 | [melloworchid8rr6g/TG-Polymarket-bot](./melloworchid8rr6g-tg-polymarket-bot.md) | ⭐ 313 | JavaScript | 55/100 |
 | 140 | [deepentropy/ibx](./deepentropy-ibx.md) | ⭐ 193 | Rust | 55/100 |
 | 141 | [inex/IXP-Manager](./inex-ixp-manager.md) | ⭐ 433 | PHP | 55/100 |
-| 142 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 555 | Rust | 55/100 |
+| 142 | [joaquinbejar/OrderBook-rs](./joaquinbejar-orderbook-rs.md) | ⭐ 557 | Rust | 55/100 |
 | 143 | [vincenzo-afk/OpenAgentNet](./vincenzo-afk-openagentnet.md) | ⭐ 39 | Python | 54/100 |
 | 144 | [rreichel3/US-Stock-Symbols](./rreichel3-us-stock-symbols.md) | ⭐ 578 | — | 54/100 |
 | 145 | [pnnx/pnnx](./pnnx-pnnx.md) | ⭐ 714 | Python | 54/100 |

@@ -60,7 +60,7 @@
 | 50 | [laurent22/joplin](./laurent22-joplin.md) | ⭐ 57.2k | TypeScript | 67/100 |
 | 51 | [phlx0/snip](./phlx0-snip.md) | ⭐ 112 | Python | 66/100 |
 | 52 | [microsoft/PowerToys](./microsoft-powertoys.md) | ⭐ 141k | C | 66/100 |
-| 53 | [jaywcjlove/rightmenu-master](./jaywcjlove-rightmenu-master.md) | ⭐ 564 | Swift | 66/100 |
+| 53 | [jaywcjlove/rightmenu-master](./jaywcjlove-rightmenu-master.md) | ⭐ 565 | Swift | 66/100 |
 | 54 | [AmineDjeghri/personal-os-setup](./aminedjeghri-personal-os-setup.md) | ⭐ 679 | Python | 66/100 |
 | 55 | [espanso/espanso](./espanso-espanso.md) | ⭐ 14.8k | Rust | 66/100 |
 | 56 | [kamiyaa/joshuto](./kamiyaa-joshuto.md) | ⭐ 3.7k | Rust | 66/100 |
@@ -106,7 +106,7 @@
 | 96 | [Vortrix5/sifty](./vortrix5-sifty.md) | ⭐ 126 | Python | 62/100 |
 | 97 | [ConnorSweeneyDev/.config](./connorsweeneydev-.config.md) | ⭐ 66 | Lua | 62/100 |
 | 98 | [jemishavasoya/dev-cleaner](./jemishavasoya-dev-cleaner.md) | ⭐ 360 | Shell | 62/100 |
-| 99 | [seun-novodev/android-tv-debloat-toolkit](./seun-novodev-android-tv-debloat-toolkit.md) | ⭐ 820 | Python | 62/100 |
+| 99 | [seun-novodev/android-tv-debloat-toolkit](./seun-novodev-android-tv-debloat-toolkit.md) | ⭐ 821 | Python | 62/100 |
 | 100 | [ospfranco/sol](./ospfranco-sol.md) | ⭐ 3.2k | TypeScript | 62/100 |
 | 101 | [httptoolkit/httptoolkit-desktop](./httptoolkit-httptoolkit-desktop.md) | ⭐ 742 | TypeScript | 62/100 |
 | 102 | [hywax/mafl](./hywax-mafl.md) | ⭐ 760 | TypeScript | 62/100 |
@@ -119,7 +119,7 @@
 | 109 | [doraemonkeys/WindSend](./doraemonkeys-windsend.md) | ⭐ 620 | Dart | 61/100 |
 | 110 | [volotat/Anagnorisis](./volotat-anagnorisis.md) | ⭐ 360 | Python | 61/100 |
 | 111 | [gethouston/houston](./gethouston-houston.md) | ⭐ 119 | TypeScript | 61/100 |
-| 112 | [rommapp/argosy-launcher](./rommapp-argosy-launcher.md) | ⭐ 725 | Kotlin | 60/100 |
+| 112 | [rommapp/argosy-launcher](./rommapp-argosy-launcher.md) | ⭐ 730 | Kotlin | 60/100 |
 | 113 | [gioxx/MarvellousSuspender](./gioxx-marvelloussuspender.md) | ⭐ 1.4k | JavaScript | 60/100 |
 | 114 | [cosmic-utils/clipboard-manager](./cosmic-utils-clipboard-manager.md) | ⭐ 243 | Rust | 60/100 |
 | 115 | [noahbclarkson/rgitui](./noahbclarkson-rgitui.md) | ⭐ 280 | Rust | 60/100 |
@@ -152,7 +152,7 @@
 | 142 | [bdcdo/open-turkey](./bdcdo-open-turkey.md) | ⭐ 20 | Go | 58/100 |
 | 143 | [bug-ops/helix-trainer](./bug-ops-helix-trainer.md) | ⭐ 93 | Rust | 58/100 |
 | 144 | [HMCL-dev/HMCL](./hmcl-dev-hmcl.md) | ⭐ 11k | Java | 58/100 |
-| 145 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 808 | TypeScript | 58/100 |
+| 145 | [UNIkeEN/SJMCL](./unikeen-sjmcl.md) | ⭐ 809 | TypeScript | 58/100 |
 | 146 | [kxxt/tracexec](./kxxt-tracexec.md) | ⭐ 448 | Rust | 58/100 |
 | 147 | [LinwoodDev/Butterfly](./linwooddev-butterfly.md) | ⭐ 2.1k | Dart | 58/100 |
 | 148 | [jenius-apps/ambie](./jenius-apps-ambie.md) | ⭐ 2.2k | C# | 58/100 |
@@ -271,7 +271,7 @@
 | 261 | [perstarkse/minne](./perstarkse-minne.md) | ⭐ 268 | Rust | 48/100 |
 | 262 | [Mekotofeuka/MTPROTO_FIX_By_MEKO](./mekotofeuka-mtproto-fix-by-meko.md) | ⭐ 1.6k | Shell | 48/100 |
 | 263 | [rainmakerv3/BB_Launcher](./rainmakerv3-bb-launcher.md) | ⭐ 545 | C++ | 48/100 |
-| 264 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 618 | Rust | 48/100 |
+| 264 | [xrelkd/clipcat](./xrelkd-clipcat.md) | ⭐ 619 | Rust | 48/100 |
 | 265 | [beyluta/WinWidgets](./beyluta-winwidgets.md) | ⭐ 167 | C | 48/100 |
 | 266 | [StudentWeis/ropy](./studentweis-ropy.md) | ⭐ 206 | Rust | 48/100 |
 | 267 | [beyondtranslate/beyondtranslate](./beyondtranslate-beyondtranslate.md) | ⭐ 1.4k | Dart | 48/100 |
@@ -314,8 +314,8 @@
 | 304 | [Samearth17/slothflow.ai](./samearth17-slothflow.ai.md) | ⭐ — | Python | 44/100 |
 | 305 | [hahahahahahahahah6/decision-log](./hahahahahahahahah6-decision-log.md) | ⭐ — | Python | 44/100 |
 | 306 | [mamt104/gta6-discord-status-simulator](./mamt104-gta6-discord-status-simulator.md) | ⭐ 6 | C# | 43/100 |
-| 307 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
-| 308 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 307 | [ekzhang/sshx](./ekzhang-sshx.md) | ⭐ 7.7k | — | 43/100 |
+| 308 | [cs01/termpair](./cs01-termpair.md) | ⭐ 1.8k | — | 43/100 |
 | 309 | [RAKKUNN/Repo-rter](./rakkunn-repo-rter.md) | ⭐ 3 | — | 43/100 |
 | 310 | [Mrmayman/quantumlauncher](./mrmayman-quantumlauncher.md) | ⭐ 196 | Rust | 43/100 |
 | 311 | [ankurk91/rollcopy-desktop-app](./ankurk91-rollcopy-desktop-app.md) | ⭐ — | Rust | 43/100 |
@@ -330,8 +330,8 @@
 | 320 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ 2 | — | 41/100 |
 | 321 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 322 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ 6 | — | 41/100 |
-| 323 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 21 | — | 41/100 |
-| 324 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
+| 323 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
+| 324 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 21 | — | 41/100 |
 | 325 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 2 | — | 41/100 |
 | 326 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 327 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 2 | — | 41/100 |
@@ -365,8 +365,8 @@
 | 355 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 356 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 357 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 358 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
-| 359 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 358 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
+| 359 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
 | 360 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 361 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.8k | — | 38/100 |
 | 362 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

@@ -159,7 +159,7 @@
 | 149 | [PyMySQL/PyMySQL](./pymysql-pymysql.md) | ⭐ 7.9k | Python | 59/100 |
 | 150 | [kreuzberg-dev/tree-sitter-language-pack](./kreuzberg-dev-tree-sitter-language-pack.md) | ⭐ 349 | Rust | 59/100 |
 | 151 | [aliyun/aliyun-oss-python-sdk](./aliyun-aliyun-oss-python-sdk.md) | ⭐ 996 | Python | 58/100 |
-| 152 | [saddam213/AmuseAI](./saddam213-amuseai.md) | ⭐ 666 | C# | 58/100 |
+| 152 | [saddam213/AmuseAI](./saddam213-amuseai.md) | ⭐ 667 | C# | 58/100 |
 | 153 | [gtk-rs/gtk4-rs](./gtk-rs-gtk4-rs.md) | ⭐ 2.4k | Rust | 58/100 |
 | 154 | [rust-nvml/nvml-wrapper](./rust-nvml-nvml-wrapper.md) | ⭐ 215 | Rust | 58/100 |
 | 155 | [habedi/graphina](./habedi-graphina.md) | ⭐ 130 | Rust | 58/100 |
