@@ -1,6 +1,6 @@
 # harshith7002/truthlint
 
-[![Stars](https://img.shields.io/github/stars/harshith7002/truthlint?style=flat-square&color=yellow)](https://github.com/harshith7002/truthlint/stargazers) [![Forks](https://img.shields.io/github/forks/harshith7002/truthlint?style=flat-square&color=blue)](https://github.com/harshith7002/truthlint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-41%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/harshith7002/truthlint?style=flat-square&color=yellow)](https://github.com/harshith7002/truthlint/stargazers) [![Forks](https://img.shields.io/github/forks/harshith7002/truthlint?style=flat-square&color=blue)](https://github.com/harshith7002/truthlint/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-38%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 2 |
 | 🍴 **Forks** | — |
 | 💻 **Language** | Python |
-| 📈 **Score** | 41/100 |
+| 📈 **Score** | 38/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ harshith7002/truthlint：harshith7002/truthlint helps engineers save time in dai
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 39/100 |
+| quality | 34/100 |
 | integration | 34/100 |
-| production | 57/100 |
-| outlook | 52/100 |
+| production | 50/100 |
+| outlook | 45/100 |
 | adoption | 7/100 |
 | categoryMatchCount | 200/100 |
 | stars | 10/100 |
 | forks | 0/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 0/100 |
 | sourceTrust | 70/100 |
 

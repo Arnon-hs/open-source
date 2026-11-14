@@ -162,8 +162,8 @@
 | 152 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 153 | [hci-yeo/AdaptiveAgentAvatar](./hci-yeo-adaptiveagentavatar.md) | ⭐ 4 | — | 44/100 |
 | 154 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 155 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
-| 156 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 364 | — | 43/100 |
+| 155 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 364 | — | 43/100 |
+| 156 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
 | 157 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 158 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 159 | [amananandrai/amananandrai](./amananandrai-amananandrai.md) | ⭐ — | — | 42/100 |

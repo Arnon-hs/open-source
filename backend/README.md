@@ -257,8 +257,8 @@
 | 247 | [BenLorantfy/nestjs-zod](./benlorantfy-nestjs-zod.md) | ⭐ 1.1k | TypeScript | 68/100 |
 | 248 | [DeepL/deepl-python](./deepl-deepl-python.md) | ⭐ 1.3k | Python | 68/100 |
 | 249 | [nwjs/nw.js](./nwjs-nw.js.md) | ⭐ 41.1k | JavaScript | 68/100 |
-| 250 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2.1k | Go | 68/100 |
-| 251 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 68/100 |
+| 250 | [kubermatic/kubermatic](./kubermatic-kubermatic.md) | ⭐ 1.3k | Go | 68/100 |
+| 251 | [authorizerdev/authorizer](./authorizerdev-authorizer.md) | ⭐ 2.1k | Go | 68/100 |
 | 252 | [DnsChanger/dnsChanger-desktop](./dnschanger-dnschanger-desktop.md) | ⭐ 1.4k | TypeScript | 68/100 |
 | 253 | [launchdarkly/rust-eventsource-client](./launchdarkly-rust-eventsource-client.md) | ⭐ 113 | Rust | 68/100 |
 | 254 | [sequelize/sequelize](./sequelize-sequelize.md) | ⭐ 30.3k | TypeScript | 68/100 |
@@ -637,8 +637,8 @@
 | 627 | [scottyzen/woonuxt](./scottyzen-woonuxt.md) | ⭐ 973 | TypeScript | 60/100 |
 | 628 | [ComunidadAylas/PackSquash](./comunidadaylas-packsquash.md) | ⭐ 872 | Rust | 60/100 |
 | 629 | [cabloy/cabloy](./cabloy-cabloy.md) | ⭐ 986 | TypeScript | 60/100 |
-| 630 | [bedrock-tool/bedrocktool](./bedrock-tool-bedrocktool.md) | ⭐ 370 | Go | 60/100 |
-| 631 | [vas3k/vas3k.club](./vas3k-vas3k.club.md) | ⭐ 941 | Python | 60/100 |
+| 630 | [vas3k/vas3k.club](./vas3k-vas3k.club.md) | ⭐ 941 | Python | 60/100 |
+| 631 | [bedrock-tool/bedrocktool](./bedrock-tool-bedrocktool.md) | ⭐ 370 | Go | 60/100 |
 | 632 | [PowerDNS/pdns](./powerdns-pdns.md) | ⭐ 4.5k | C++ | 60/100 |
 | 633 | [FreeRADIUS/freeradius-server](./freeradius-freeradius-server.md) | ⭐ 2.6k | C | 60/100 |
 | 634 | [apollographql/apollo-rs](./apollographql-apollo-rs.md) | ⭐ 608 | Rust | 60/100 |
@@ -722,8 +722,8 @@
 | 712 | [mtalavi/coolify-mirror](./mtalavi-coolify-mirror.md) | ⭐ 19 | Go | 57/100 |
 | 713 | [bklaric/purescript-bklaric](./bklaric-purescript-bklaric.md) | ⭐ 1 | — | 57/100 |
 | 714 | [bklaric/team-tavern](./bklaric-team-tavern.md) | ⭐ 13 | — | 57/100 |
-| 715 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 61 | JavaScript | 57/100 |
-| 716 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 72 | JavaScript | 57/100 |
+| 715 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 72 | JavaScript | 57/100 |
+| 716 | [nodejs/doc-kit](./nodejs-doc-kit.md) | ⭐ 61 | JavaScript | 57/100 |
 | 717 | [HFQR/xitca-web](./hfqr-xitca-web.md) | ⭐ 1k | Rust | 57/100 |
 | 718 | [poolifier/poolifier](./poolifier-poolifier.md) | ⭐ 455 | JavaScript | 57/100 |
 | 719 | [speed-highlight/core](./speed-highlight-core.md) | ⭐ 419 | JavaScript | 57/100 |
@@ -774,8 +774,8 @@
 | 764 | [inducer/relate](./inducer-relate.md) | ⭐ 437 | Python | 56/100 |
 | 765 | [mjpclab/go-http-file-server](./mjpclab-go-http-file-server.md) | ⭐ 489 | Go | 56/100 |
 | 766 | [sumup-oss/foundry](./sumup-oss-foundry.md) | ⭐ 193 | TypeScript | 56/100 |
-| 767 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
-| 768 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 431 | Java | 56/100 |
+| 767 | [NichtStudioCode/InvUI](./nichtstudiocode-invui.md) | ⭐ 431 | Java | 56/100 |
+| 768 | [justoneapi/data-api](./justoneapi-data-api.md) | ⭐ 448 | JavaScript | 56/100 |
 | 769 | [kakoune-lsp/kakoune-lsp](./kakoune-lsp-kakoune-lsp.md) | ⭐ 705 | Rust | 56/100 |
 | 770 | [nodejs/undici](./nodejs-undici.md) | ⭐ 7.7k | JavaScript | 56/100 |
 | 771 | [syntaqx/serve](./syntaqx-serve.md) | ⭐ 357 | Go | 56/100 |
@@ -810,8 +810,8 @@
 | 800 | [sozercan/kaset](./sozercan-kaset.md) | ⭐ 2.6k | Swift | 55/100 |
 | 801 | [ClickHouse/clickhouse-js](./clickhouse-clickhouse-js.md) | ⭐ 332 | TypeScript | 55/100 |
 | 802 | [typegoose/typegoose](./typegoose-typegoose.md) | ⭐ 2.3k | TypeScript | 55/100 |
-| 803 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 403 | Python | 55/100 |
-| 804 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
+| 803 | [apache/incubator-seata](./apache-incubator-seata.md) | ⭐ 26k | Java | 55/100 |
+| 804 | [nextcloud/appstore](./nextcloud-appstore.md) | ⭐ 403 | Python | 55/100 |
 | 805 | [platformatic/platformatic](./platformatic-platformatic.md) | ⭐ 2.2k | JavaScript | 55/100 |
 | 806 | [jentic/jentic-public-apis](./jentic-jentic-public-apis.md) | ⭐ 271 | — | 55/100 |
 | 807 | [sigoden/dufs](./sigoden-dufs.md) | ⭐ 11.1k | Rust | 55/100 |
@@ -973,7 +973,7 @@
 | 963 | [greenbone/gvmd](./greenbone-gvmd.md) | ⭐ 380 | C | 46/100 |
 | 964 | [lgponlylove/reqX](./lgponlylove-reqx.md) | ⭐ 1 | TypeScript | 46/100 |
 | 965 | [rakeshrkrk56-sketch/stackmatrix](./rakeshrkrk56-sketch-stackmatrix.md) | ⭐ — | HTML | 46/100 |
-| 966 | [michaelmagan/spared](./michaelmagan-spared.md) | ⭐ 42 | — | 45/100 |
+| 966 | [michaelmagan/spared](./michaelmagan-spared.md) | ⭐ 44 | — | 45/100 |
 | 967 | [vaultbase-sh/vaultbase](./vaultbase-sh-vaultbase.md) | ⭐ 11 | — | 45/100 |
 | 968 | [caiderek/LogCarver](./caiderek-logcarver.md) | ⭐ 2 | C# | 45/100 |
 | 969 | [On13uka/sanctions-screener-api](./on13uka-sanctions-screener-api.md) | ⭐ — | Python | 45/100 |
@@ -1003,7 +1003,7 @@
 | 993 | [MR-RAHAD/rahad-all-downloader-v2](./mr-rahad-rahad-all-downloader-v2.md) | ⭐ 1 | JavaScript | 42/100 |
 | 994 | [KeremSoke/polo](./keremsoke-polo.md) | ⭐ 34 | — | 41/100 |
 | 995 | [bavanDA/hpc-hub](./bavanda-hpc-hub.md) | ⭐ 42 | — | 41/100 |
-| 996 | [pharma2a/pharma2a](./pharma2a-pharma2a.md) | ⭐ 13 | — | 41/100 |
+| 996 | [pharma2a/pharma2a](./pharma2a-pharma2a.md) | ⭐ 14 | — | 41/100 |
 | 997 | [DaleFranks/ramasite](./dalefranks-ramasite.md) | ⭐ 7 | — | 41/100 |
 | 998 | [tylertms/Stela](./tylertms-stela.md) | ⭐ 1.9k | — | 41/100 |
 | 999 | [nitrosend/nitromta](./nitrosend-nitromta.md) | ⭐ 126 | — | 41/100 |

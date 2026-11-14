@@ -273,8 +273,8 @@
 | 263 | [IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research](./iamalch3mist-awesome-embedded-systems-vulnerability-research.md) | ⭐ 522 | — | 50/100 |
 | 264 | [hahwul/smugglex](./hahwul-smugglex.md) | ⭐ 137 | Rust | 50/100 |
 | 265 | [login/oauth](./login-oauth.md) | ⭐ — | — | 50/100 |
-| 266 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
-| 267 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
+| 266 | [berat/releasehub](./berat-releasehub.md) | ⭐ 3 | — | 50/100 |
+| 267 | [login/device](./login-device.md) | ⭐ — | — | 50/100 |
 | 268 | [cackle-rs/cackle](./cackle-rs-cackle.md) | ⭐ 294 | Rust | 50/100 |
 | 269 | [mixbytes/audits_public](./mixbytes-audits-public.md) | ⭐ 531 | JavaScript | 50/100 |
 | 270 | [AzureAD/microsoft-authentication-library-for-js](./azuread-microsoft-authentication-library-for-js.md) | ⭐ 4.2k | TypeScript | 50/100 |
@@ -488,8 +488,8 @@
 | 478 | [zimengxiong/tinytouch](./zimengxiong-tinytouch.md) | ⭐ 1.6k | — | 38/100 |
 | 479 | [openai/codex-security](./openai-codex-security.md) | ⭐ 13.5k | — | 38/100 |
 | 480 | [Kjos/VideoTomb](./kjos-videotomb.md) | ⭐ 7 | — | 38/100 |
-| 481 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
-| 482 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 481 | [wahidmmadiha/Homescope](./wahidmmadiha-homescope.md) | ⭐ — | — | 38/100 |
+| 482 | [KrazyKulsum/trip-together-planner-21](./krazykulsum-trip-together-planner-21.md) | ⭐ — | — | 38/100 |
 | 483 | [titarenko/OAuth2](./titarenko-oauth2.md) | ⭐ 415 | — | 38/100 |
 | 484 | [8NobleTruths/sabba](./8nobletruths-sabba.md) | ⭐ — | — | 38/100 |
 | 485 | [Schummlerr/steam-dlc-protection-sdk-](./schummlerr-steam-dlc-protection-sdk-.md) | ⭐ — | — | 38/100 |
@@ -520,8 +520,8 @@
 | 510 | [sa-tokens/sa-token-rust](./sa-tokens-sa-token-rust.md) | ⭐ 167 | Rust | 38/100 |
 | 511 | [SertaCanbey/IDSignal](./sertacanbey-idsignal.md) | ⭐ 1 | JavaScript | 37/100 |
 | 512 | [TemujinCalidius/FediHome](./temujincalidius-fedihome.md) | ⭐ 10 | — | 37/100 |
-| 513 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
-| 514 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
+| 513 | [kevinveenbirkenbach/hetzner-arch-luks](./kevinveenbirkenbach-hetzner-arch-luks.md) | ⭐ 14 | — | 37/100 |
+| 514 | [kevinveenbirkenbach/linux-image-manager](./kevinveenbirkenbach-linux-image-manager.md) | ⭐ — | — | 37/100 |
 | 515 | [jaredhanson/passport](./jaredhanson-passport.md) | ⭐ 23.5k | — | 37/100 |
 | 516 | [wrium/password-strength](./wrium-password-strength.md) | ⭐ — | JavaScript | 37/100 |
 | 517 | [IWEBai/railo-action](./iwebai-railo-action.md) | ⭐ — | — | 36/100 |

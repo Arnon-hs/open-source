@@ -17,12 +17,12 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Database](../database/README.md) | 591 |
 | [Design](../design/README.md) | 200 |
 | [DevOps/Infra](../devopsinfra/README.md) | 565 |
-| [DevTools](../devtools/README.md) | 1,703 |
+| [DevTools](../devtools/README.md) | 1,704 |
 | [Documents](../documents/README.md) | 757 |
 | [Education](../education/README.md) | 39 |
 | [Frontend](../frontend/README.md) | 945 |
 | [Games & Graphics](../games--graphics/README.md) | 376 |
-| [Knowledge/RAG](../knowledgerag/README.md) | 658 |
+| [Knowledge/RAG](../knowledgerag/README.md) | 659 |
 | [Libraries & SDKs](../libraries--sdks/README.md) | 302 |
 | [Marketing](../marketing/README.md) | 43 |
 | [MCP](../mcp/README.md) | 3,022 |
@@ -30,7 +30,7 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Mobile](../mobile/README.md) | 709 |
 | [Networking](../networking/README.md) | 683 |
 | [Observability](../observability/README.md) | 329 |
-| [Orchestration](../orchestration/README.md) | 2,544 |
+| [Orchestration](../orchestration/README.md) | 2,545 |
 | [Payments](../payments/README.md) | 397 |
 | [Product](../product/README.md) | 25 |
 | [Productivity](../productivity/README.md) | 382 |

@@ -494,8 +494,8 @@
 | 484 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 448 | Go | 52/100 |
 | 485 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 486 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 72 | — | 51/100 |
-| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
-| 488 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
+| 488 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
 | 489 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 63 | Python | 51/100 |
 | 490 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 491 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
