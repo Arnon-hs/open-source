@@ -493,8 +493,8 @@
 | 483 | [mondoohq/cnspec](./mondoohq-cnspec.md) | ⭐ 448 | Go | 52/100 |
 | 484 | [Ace7-coder/aws-finops-auditor](./ace7-coder-aws-finops-auditor.md) | ⭐ — | — | 51/100 |
 | 485 | [googleapis/google-cloud-swift](./googleapis-google-cloud-swift.md) | ⭐ 72 | — | 51/100 |
-| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
-| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 486 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 82 | TypeScript | 51/100 |
+| 487 | [a-r-d/PureJsImage](./a-r-d-purejsimage.md) | ⭐ 45 | TypeScript | 51/100 |
 | 488 | [vals-ai/Valkyrie](./vals-ai-valkyrie.md) | ⭐ 63 | Python | 51/100 |
 | 489 | [aws-samples/amazon-textract-textractor](./aws-samples-amazon-textract-textractor.md) | ⭐ 491 | Jupyter Notebook | 51/100 |
 | 490 | [microsoft/azure-pipelines-extensions](./microsoft-azure-pipelines-extensions.md) | ⭐ 313 | PowerShell | 51/100 |
@@ -548,8 +548,8 @@
 | 538 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 539 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 540 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 543 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 544 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 545 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |
@@ -581,12 +581,12 @@
 | 571 | [auditaz/auditaz-cli](./auditaz-auditaz-cli.md) | ⭐ — | — | 41/100 |
 | 572 | [ralphbibera/cal.flare](./ralphbibera-cal.flare.md) | ⭐ 1 | — | 41/100 |
 | 573 | [zero11-0203/s3mail](./zero11-0203-s3mail.md) | ⭐ 2 | — | 41/100 |
-| 574 | [Mattboxx/esp32-tailnet-gateway](./mattboxx-esp32-tailnet-gateway.md) | ⭐ 90 | — | 41/100 |
+| 574 | [Mattboxx/esp32-tailnet-gateway](./mattboxx-esp32-tailnet-gateway.md) | ⭐ 99 | — | 41/100 |
 | 575 | [SIENNA-IT-Solutions/s3gw](./sienna-it-solutions-s3gw.md) | ⭐ 3 | — | 41/100 |
 | 576 | [joeiko3424-svg/oikonomia-benchmarks](./joeiko3424-svg-oikonomia-benchmarks.md) | ⭐ — | — | 41/100 |
 | 577 | [ocelhq/ocel](./ocelhq-ocel.md) | ⭐ 5 | — | 41/100 |
 | 578 | [bompus/sigflint](./bompus-sigflint.md) | ⭐ 3 | — | 41/100 |
-| 579 | [Millillion/lasm](./millillion-lasm.md) | ⭐ 105 | — | 41/100 |
+| 579 | [Millillion/lasm](./millillion-lasm.md) | ⭐ 106 | — | 41/100 |
 | 580 | [amazonlinux/amazon-linux-2023](./amazonlinux-amazon-linux-2023.md) | ⭐ — | — | 41/100 |
 | 581 | [genbs/reactive-leds](./genbs-reactive-leds.md) | ⭐ 13 | — | 41/100 |
 | 582 | [Whospr/Whospair](./whospr-whospair.md) | ⭐ 1 | — | 41/100 |
@@ -600,9 +600,9 @@
 | 590 | [silicium369-spec/silicium-benchmarker](./silicium369-spec-silicium-benchmarker.md) | ⭐ — | — | 41/100 |
 | 591 | [ubunye-ai-ecosystems/ubunye_engine](./ubunye-ai-ecosystems-ubunye-engine.md) | ⭐ 16 | — | 41/100 |
 | 592 | [danthegoodman1/s3-accelerator](./danthegoodman1-s3-accelerator.md) | ⭐ 10 | — | 41/100 |
-| 593 | [lokutor-ai/ito](./lokutor-ai-ito.md) | ⭐ 36 | — | 41/100 |
+| 593 | [lokutor-ai/ito](./lokutor-ai-ito.md) | ⭐ 38 | — | 41/100 |
 | 594 | [omwah/esp-vim](./omwah-esp-vim.md) | ⭐ 24 | — | 41/100 |
-| 595 | [lokutor-ai/oido](./lokutor-ai-oido.md) | ⭐ 133 | — | 41/100 |
+| 595 | [lokutor-ai/oido](./lokutor-ai-oido.md) | ⭐ 134 | — | 41/100 |
 | 596 | [therezor/cardputer-ai](./therezor-cardputer-ai.md) | ⭐ 130 | — | 41/100 |
 | 597 | [sbalmt/ez4](./sbalmt-ez4.md) | ⭐ 11 | — | 41/100 |
 | 598 | [HQarroum/laymbda](./hqarroum-laymbda.md) | ⭐ 7 | — | 41/100 |

@@ -1,6 +1,6 @@
 # 07Tanvi/ghoststory-ai-tanvi26
 
-[![Stars](https://img.shields.io/github/stars/07Tanvi/ghoststory-ai-tanvi26?style=flat-square&color=yellow)](https://github.com/07Tanvi/ghoststory-ai-tanvi26/stargazers) [![Forks](https://img.shields.io/github/forks/07Tanvi/ghoststory-ai-tanvi26?style=flat-square&color=blue)](https://github.com/07Tanvi/ghoststory-ai-tanvi26/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-36%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/07Tanvi/ghoststory-ai-tanvi26?style=flat-square&color=yellow)](https://github.com/07Tanvi/ghoststory-ai-tanvi26/stargazers) [![Forks](https://img.shields.io/github/forks/07Tanvi/ghoststory-ai-tanvi26?style=flat-square&color=blue)](https://github.com/07Tanvi/ghoststory-ai-tanvi26/network) [![Language](https://img.shields.io/badge/lang-HTML-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-33%2F100-brightgreen?style=flat-square)](#)
 
 > _No description provided._
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | — |
 | 🍴 **Forks** | — |
 | 💻 **Language** | HTML |
-| 📈 **Score** | 36/100 |
+| 📈 **Score** | 33/100 |
 | 🗓️ **Last push** | 2026-10-31 |
 | 🔍 **Source** | story-link |
 
@@ -64,15 +64,15 @@ AI/ML
 | Dimension | Score |
 |---|---:|
 | usefulness | 42/100 |
-| quality | 38/100 |
+| quality | 33/100 |
 | integration | 18/100 |
-| production | 50/100 |
-| outlook | 48/100 |
+| production | 43/100 |
+| outlook | 41/100 |
 | adoption | 0/100 |
 | categoryMatchCount | 100/100 |
 | stars | 0/100 |
 | forks | 0/100 |
-| recency | 80/100 |
+| recency | 60/100 |
 | topics | 50/100 |
 | sourceTrust | 70/100 |
 

@@ -212,7 +212,7 @@
 | 202 | [achaljhawar/1rok](./achaljhawar-1rok.md) | ⭐ 53 | — | 42/100 |
 | 203 | [grfdsasdvef/awesome-hft-cpp23-internals](./grfdsasdvef-awesome-hft-cpp23-internals.md) | ⭐ 3 | — | 41/100 |
 | 204 | [AlonDrilich/tld-renewal-prices](./alondrilich-tld-renewal-prices.md) | ⭐ 1 | — | 41/100 |
-| 205 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ 62 | — | 41/100 |
+| 205 | [Kmic-68/llama.cpp](./kmic-68-llama.cpp.md) | ⭐ 64 | — | 41/100 |
 | 206 | [aybvip/pi-fungibility](./aybvip-pi-fungibility.md) | ⭐ 2 | — | 41/100 |
 | 207 | [RayDCodes/pqc-migration-bench](./raydcodes-pqc-migration-bench.md) | ⭐ — | — | 41/100 |
 | 208 | [BubbleParticles/Planar.jl](./bubbleparticles-planar.jl.md) | ⭐ 12 | — | 41/100 |

@@ -561,7 +561,7 @@
 | 551 | [gnu4cn/ccna60d](./gnu4cn-ccna60d.md) | ⭐ 510 | Handlebars | 46/100 |
 | 552 | [actix/actix-net](./actix-actix-net.md) | ⭐ 778 | Rust | 46/100 |
 | 553 | [alt-f6/pg-interleave](./alt-f6-pg-interleave.md) | ⭐ 1 | Rust | 46/100 |
-| 554 | [lastreload/mnemonic-proxy](./lastreload-mnemonic-proxy.md) | ⭐ 69 | — | 45/100 |
+| 554 | [lastreload/mnemonic-proxy](./lastreload-mnemonic-proxy.md) | ⭐ 71 | — | 45/100 |
 | 555 | [koldakov/proxium](./koldakov-proxium.md) | ⭐ 5 | — | 45/100 |
 | 556 | [personalagentproxy/proxy](./personalagentproxy-proxy.md) | ⭐ 164 | — | 45/100 |
 | 557 | [roozjalali/ariodb](./roozjalali-ariodb.md) | ⭐ — | — | 45/100 |
@@ -634,7 +634,7 @@
 | 624 | [Geod24/wireguard](./geod24-wireguard.md) | ⭐ — | — | 41/100 |
 | 625 | [lordraw77/llmproxy](./lordraw77-llmproxy.md) | ⭐ 2 | — | 41/100 |
 | 626 | [marketplace/actions](./marketplace-actions.md) | ⭐ — | — | 41/100 |
-| 627 | [lklynet/hypermind-swarm](./lklynet-hypermind-swarm.md) | ⭐ 86 | — | 41/100 |
+| 627 | [lklynet/hypermind-swarm](./lklynet-hypermind-swarm.md) | ⭐ 87 | — | 41/100 |
 | 628 | [tmc/go-iroh](./tmc-go-iroh.md) | ⭐ 67 | — | 41/100 |
 | 629 | [SalzDevs/groxy](./salzdevs-groxy.md) | ⭐ 15 | — | 41/100 |
 | 630 | [radkesvat/WaterWall](./radkesvat-waterwall.md) | ⭐ 596 | C | 41/100 |

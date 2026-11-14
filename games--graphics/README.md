@@ -348,12 +348,12 @@
 | 338 | [horizon-rust/horizon](./horizon-rust-horizon.md) | ⭐ 9.5k | — | 41/100 |
 | 339 | [tinyBigGAMES/VindexLLM](./tinybiggames-vindexllm.md) | ⭐ 75 | — | 41/100 |
 | 340 | [oathshaper/oathshaper](./oathshaper-oathshaper.md) | ⭐ 5 | — | 41/100 |
-| 341 | [mariuz/castle-quake2](./mariuz-castle-quake2.md) | ⭐ 10 | — | 41/100 |
+| 341 | [mariuz/castle-quake2](./mariuz-castle-quake2.md) | ⭐ 11 | — | 41/100 |
 | 342 | [KhronosGroup/MoltenVK](./khronosgroup-moltenvk.md) | ⭐ 5.9k | — | 41/100 |
 | 343 | [fishfolk/bones](./fishfolk-bones.md) | ⭐ 323 | — | 41/100 |
 | 344 | [LarzP123/terminal-3d-graphics](./larzp123-terminal-3d-graphics.md) | ⭐ 12 | — | 41/100 |
 | 345 | [antonioprosperi2-svg/BeeEngine-V2.5.0](./antonioprosperi2-svg-beeengine-v2.5.0.md) | ⭐ 2 | JavaScript | 41/100 |
-| 346 | [mariuz/castle-doom](./mariuz-castle-doom.md) | ⭐ 8 | — | 41/100 |
+| 346 | [mariuz/castle-doom](./mariuz-castle-doom.md) | ⭐ 9 | — | 41/100 |
 | 347 | [oriaj-nocrala/rust_so_kernel](./oriaj-nocrala-rust-so-kernel.md) | ⭐ — | — | 41/100 |
 | 348 | [FlowComputeClient/flowcompute](./flowcomputeclient-flowcompute.md) | ⭐ 10 | — | 41/100 |
 | 349 | [enkiruntime/enki](./enkiruntime-enki.md) | ⭐ 15 | — | 41/100 |
