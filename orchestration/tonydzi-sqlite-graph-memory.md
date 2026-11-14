@@ -1,6 +1,6 @@
 # tonydzi/sqlite-graph-memory
 
-[![Stars](https://img.shields.io/github/stars/tonydzi/sqlite-graph-memory?style=flat-square&color=yellow)](https://github.com/tonydzi/sqlite-graph-memory/stargazers) [![Forks](https://img.shields.io/github/forks/tonydzi/sqlite-graph-memory?style=flat-square&color=blue)](https://github.com/tonydzi/sqlite-graph-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-69%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tonydzi/sqlite-graph-memory?style=flat-square&color=yellow)](https://github.com/tonydzi/sqlite-graph-memory/stargazers) [![Forks](https://img.shields.io/github/forks/tonydzi/sqlite-graph-memory?style=flat-square&color=blue)](https://github.com/tonydzi/sqlite-graph-memory/network) [![Language](https://img.shields.io/badge/lang-Python-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-66%2F100-brightgreen?style=flat-square)](#)
 
 > Agent memory for Claude Code, Cursor, Codex: MCP server + Graph RAG over your Obsidian or markdown notes, a search layer for a Karpathy-style LLM Wiki. Wikilinks are the graph, SQLite the only store.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 15 |
 | 🍴 **Forks** | 16 |
 | 💻 **Language** | Python |
-| 📈 **Score** | 69/100 |
+| 📈 **Score** | 66/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ tonydzi/sqlite-graph-memory：tonydzi/sqlite-graph-memory helps turn isolated pr
 | Dimension | Score |
 |---|---:|
 | usefulness | 90/100 |
-| quality | 63/100 |
+| quality | 58/100 |
 | integration | 62/100 |
-| production | 69/100 |
-| outlook | 77/100 |
+| production | 63/100 |
+| outlook | 70/100 |
 | adoption | 27/100 |
 | categoryMatchCount | 500/100 |
 | stars | 26/100 |
 | forks | 31/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

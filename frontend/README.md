@@ -386,7 +386,7 @@
 | 376 | [vprix21/neonblade-ui](./vprix21-neonblade-ui.md) | ⭐ 144 | TypeScript | 62/100 |
 | 377 | [nextcloud/talk-desktop](./nextcloud-talk-desktop.md) | ⭐ 532 | JavaScript | 62/100 |
 | 378 | [meshtastic/web-flasher](./meshtastic-web-flasher.md) | ⭐ 374 | TypeScript | 62/100 |
-| 379 | [themesberg/flowbite-react](./themesberg-flowbite-react.md) | ⭐ 2.2k | TypeScript | 62/100 |
+| 379 | [themesberg/flowbite-react](./themesberg-flowbite-react.md) | ⭐ 2.1k | TypeScript | 62/100 |
 | 380 | [clerk/javascript](./clerk-javascript.md) | ⭐ 1.8k | TypeScript | 62/100 |
 | 381 | [max-rh/sshelf](./max-rh-sshelf.md) | ⭐ 82 | Rust | 62/100 |
 | 382 | [knockout/tko](./knockout-tko.md) | ⭐ 317 | TypeScript | 62/100 |

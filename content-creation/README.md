@@ -68,7 +68,7 @@
 | 58 | [vllm-project/vllm-omni](./vllm-project-vllm-omni.md) | ⭐ 7.7k | Python | 68/100 |
 | 59 | [ArcReel/ArcReel](./arcreel-arcreel.md) | ⭐ 6.5k | Python | 68/100 |
 | 60 | [iart-ai/motion-design-skills](./iart-ai-motion-design-skills.md) | ⭐ 230 | HTML | 67/100 |
-| 61 | [Anil-matcha/ai-creator-academy](./anil-matcha-ai-creator-academy.md) | ⭐ 27 | — | 67/100 |
+| 61 | [Anil-matcha/ai-creator-academy](./anil-matcha-ai-creator-academy.md) | ⭐ 28 | — | 67/100 |
 | 62 | [runapi-ai/mcp](./runapi-ai-mcp.md) | ⭐ 56 | TypeScript | 67/100 |
 | 63 | [yaojingang/GEOFlow](./yaojingang-geoflow.md) | ⭐ 4.1k | PHP | 67/100 |
 | 64 | [limecloud/lime](./limecloud-lime.md) | ⭐ 1.5k | Rust | 67/100 |
@@ -161,8 +161,8 @@
 | 151 | [mkiser/WTFJHT](./mkiser-wtfjht.md) | ⭐ 697 | HTML | 45/100 |
 | 152 | [hci-yeo/AdaptiveAgentAvatar](./hci-yeo-adaptiveagentavatar.md) | ⭐ 4 | — | 44/100 |
 | 153 | [mirkobozzetto/bunflared](./mirkobozzetto-bunflared.md) | ⭐ 56 | — | 43/100 |
-| 154 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
-| 155 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 361 | — | 43/100 |
+| 154 | [hyprlab/hylki](./hyprlab-hylki.md) | ⭐ 361 | — | 43/100 |
+| 155 | [devnullvoid/pvetui](./devnullvoid-pvetui.md) | ⭐ 765 | — | 43/100 |
 | 156 | [drbaph/MiniMax-H3-Turbo-Lora-ComfyUI](./drbaph-minimax-h3-turbo-lora-comfyui.md) | ⭐ 349 | minimax-h3 | 43/100 |
 | 157 | [SulphurAI/Sulphur-2-base](./sulphurai-sulphur-2-base.md) | ⭐ 2k | diffusers | 43/100 |
 | 158 | [Abiray/MiniMax-H3-GGUF](./abiray-minimax-h3-gguf.md) | ⭐ 121 | — | 42/100 |

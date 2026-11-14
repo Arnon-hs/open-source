@@ -584,8 +584,8 @@
 | 574 | [AdrienMttn/TgCloud](./adrienmttn-tgcloud.md) | ⭐ 12 | Go | 65/100 |
 | 575 | [outcrawlai/scout](./outcrawlai-scout.md) | ⭐ 744 | TypeScript | 65/100 |
 | 576 | [zclucas/RMT](./zclucas-rmt.md) | ⭐ 1.2k | AutoHotkey | 65/100 |
-| 577 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 826 | TypeScript | 65/100 |
-| 578 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 577 | [nornir-automation/nornir](./nornir-automation-nornir.md) | ⭐ 1.6k | Python | 65/100 |
+| 578 | [juspay/xyne-spaces](./juspay-xyne-spaces.md) | ⭐ 826 | TypeScript | 65/100 |
 | 579 | [xlwings/xlwings](./xlwings-xlwings.md) | ⭐ 3.4k | Python | 65/100 |
 | 580 | [KitionAI/kition](./kitionai-kition.md) | ⭐ 643 | TypeScript | 65/100 |
 | 581 | [askbudi/juno-code](./askbudi-juno-code.md) | ⭐ 55 | TypeScript | 65/100 |
@@ -833,8 +833,8 @@
 | 823 | [nikoksr/notify](./nikoksr-notify.md) | ⭐ 3.9k | Go | 62/100 |
 | 824 | [can1357/llm-git](./can1357-llm-git.md) | ⭐ 62 | Rust | 62/100 |
 | 825 | [spacedriveapp/spacebot](./spacedriveapp-spacebot.md) | ⭐ 2.4k | Rust | 62/100 |
-| 826 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 89 | Rust | 62/100 |
-| 827 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 258 | TypeScript | 62/100 |
+| 826 | [agent-messenger/agent-messenger](./agent-messenger-agent-messenger.md) | ⭐ 258 | TypeScript | 62/100 |
+| 827 | [mpiton/tauri-pilot](./mpiton-tauri-pilot.md) | ⭐ 89 | Rust | 62/100 |
 | 828 | [OthmaneBlial/awesome-openclaw-examples](./othmaneblial-awesome-openclaw-examples.md) | ⭐ 119 | Shell | 62/100 |
 | 829 | [ChocoMeow/Vocard](./chocomeow-vocard.md) | ⭐ 616 | Python | 62/100 |
 | 830 | [IgniteUI/igniteui-cli](./igniteui-igniteui-cli.md) | ⭐ 138 | TypeScript | 62/100 |
@@ -1639,8 +1639,8 @@
 | 1629 | [hrodrig/pgwd](./hrodrig-pgwd.md) | ⭐ 8 | — | 38/100 |
 | 1630 | [narko4u/aci-spec](./narko4u-aci-spec.md) | ⭐ — | — | 38/100 |
 | 1631 | [jay403894-bit/JLib-Scheduler](./jay403894-bit-jlib-scheduler.md) | ⭐ — | — | 38/100 |
-| 1632 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
-| 1633 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ 4 | — | 38/100 |
+| 1632 | [BechsteinDigital/claude-shiploop](./bechsteindigital-claude-shiploop.md) | ⭐ 4 | — | 38/100 |
+| 1633 | [rassvetteam/Amethyst-Post-Bot](./rassvetteam-amethyst-post-bot.md) | ⭐ — | — | 38/100 |
 | 1634 | [slow4cyl/prometheus](./slow4cyl-prometheus.md) | ⭐ 7 | — | 38/100 |
 | 1635 | [wonsukchoi/crondex](./wonsukchoi-crondex.md) | ⭐ 3 | — | 38/100 |
 | 1636 | [ElAlehYT/Windows-Shutdown-Scheduler](./elalehyt-windows-shutdown-scheduler.md) | ⭐ 3 | — | 38/100 |
