@@ -43,7 +43,7 @@
 | 33 | [nirholas/cryptocurrency.cv](./nirholas-cryptocurrency.cv.md) | ⭐ 242 | TypeScript | 83/100 |
 | 34 | [ykdojo/claude-code-tips](./ykdojo-claude-code-tips.md) | ⭐ 10.3k | HTML | 83/100 |
 | 35 | [langfuse/langfuse](./langfuse-langfuse.md) | ⭐ 37.4k | TypeScript | 83/100 |
-| 36 | [ZaxbyHub/opencode-swarm](./zaxbyhub-opencode-swarm.md) | ⭐ 527 | TypeScript | 83/100 |
+| 36 | [ZaxbyHub/opencode-swarm](./zaxbyhub-opencode-swarm.md) | ⭐ 528 | TypeScript | 83/100 |
 | 37 | [kubewall/kubewall](./kubewall-kubewall.md) | ⭐ 1.9k | TypeScript | 83/100 |
 | 38 | [Upsonic/Upsonic](./upsonic-upsonic.md) | ⭐ 8k | Python | 83/100 |
 | 39 | [VoltAgent/voltagent](./voltagent-voltagent.md) | ⭐ 11k | TypeScript | 83/100 |
@@ -83,13 +83,13 @@
 | 73 | [career-ops-hq/career-ops](./career-ops-hq-career-ops.md) | ⭐ 82.4k | JavaScript | 80/100 |
 | 74 | [serradura/okf](./serradura-okf.md) | ⭐ 187 | Ruby | 80/100 |
 | 75 | [Kyros-494/kyros-ai](./kyros-494-kyros-ai.md) | ⭐ 58 | Python | 80/100 |
-| 76 | [GoogleCloudPlatform/cymbal-air-toolbox-demo](./googlecloudplatform-cymbal-air-toolbox-demo.md) | ⭐ 351 | Python | 80/100 |
+| 76 | [GoogleCloudPlatform/cymbal-air-toolbox-demo](./googlecloudplatform-cymbal-air-toolbox-demo.md) | ⭐ 352 | Python | 80/100 |
 | 77 | [dtyq/magic](./dtyq-magic.md) | ⭐ 5.1k | TypeScript | 80/100 |
 | 78 | [youdotcom-oss/agent-skills](./youdotcom-oss-agent-skills.md) | ⭐ 104 | TypeScript | 80/100 |
 | 79 | [PrefectHQ/prefect](./prefecthq-prefect.md) | ⭐ 24.2k | Python | 80/100 |
 | 80 | [zapier/connectors](./zapier-connectors.md) | ⭐ 185 | TypeScript | 80/100 |
 | 81 | [CodeAlive-AI/ai-driven-development](./codealive-ai-ai-driven-development.md) | ⭐ 178 | Python | 80/100 |
-| 82 | [ruvnet/metaharness](./ruvnet-metaharness.md) | ⭐ 745 | TypeScript | 80/100 |
+| 82 | [ruvnet/metaharness](./ruvnet-metaharness.md) | ⭐ 746 | TypeScript | 80/100 |
 | 83 | [hesreallyhim/awesome-claude-code](./hesreallyhim-awesome-claude-code.md) | ⭐ 57.9k | Python | 80/100 |
 | 84 | [kevin333353/jobsmith](./kevin333353-jobsmith.md) | ⭐ 158 | Python | 80/100 |
 | 85 | [bergside/typeui](./bergside-typeui.md) | ⭐ 2.2k | TypeScript | 80/100 |
@@ -127,7 +127,7 @@
 | 117 | [JasonColapietro/suede-creator-skills](./jasoncolapietro-suede-creator-skills.md) | ⭐ 124 | Python | 79/100 |
 | 118 | [test-zeus-ai/testzeus-hercules](./test-zeus-ai-testzeus-hercules.md) | ⭐ 1.2k | Python | 79/100 |
 | 119 | [promptise-com/Foundry](./promptise-com-foundry.md) | ⭐ 897 | Python | 79/100 |
-| 120 | [wesammustafa/opencode-primer](./wesammustafa-opencode-primer.md) | ⭐ 412 | JavaScript | 79/100 |
+| 120 | [wesammustafa/opencode-primer](./wesammustafa-opencode-primer.md) | ⭐ 413 | JavaScript | 79/100 |
 | 121 | [weam-ai/weam](./weam-ai-weam.md) | ⭐ 225 | TypeScript | 79/100 |
 | 122 | [K-Dense-AI/scientific-agent-skills](./k-dense-ai-scientific-agent-skills.md) | ⭐ 57.1k | Python | 79/100 |
 | 123 | [w8123/EnterpriseAgentFramework](./w8123-enterpriseagentframework.md) | ⭐ 1k | Java | 79/100 |
@@ -192,8 +192,8 @@
 | 182 | [cwinvestments/memstack](./cwinvestments-memstack.md) | ⭐ 433 | Python | 77/100 |
 | 183 | [apache/maka](./apache-maka.md) | ⭐ 6k | TypeScript | 77/100 |
 | 184 | [traccia-ai/traccia-py](./traccia-ai-traccia-py.md) | ⭐ 134 | Python | 77/100 |
-| 185 | [IHUI-INF-AI/IHUI-AI](./ihui-inf-ai-ihui-ai.md) | ⭐ 32 | TypeScript | 77/100 |
-| 186 | [anthony-chaudhary/dos-kernel](./anthony-chaudhary-dos-kernel.md) | ⭐ 22 | Python | 77/100 |
+| 185 | [anthony-chaudhary/dos-kernel](./anthony-chaudhary-dos-kernel.md) | ⭐ 22 | Python | 77/100 |
+| 186 | [IHUI-INF-AI/IHUI-AI](./ihui-inf-ai-ihui-ai.md) | ⭐ 32 | TypeScript | 77/100 |
 | 187 | [hybroai/a2a-adapter](./hybroai-a2a-adapter.md) | ⭐ 105 | Python | 77/100 |
 | 188 | [skynetcmd/m3-memory](./skynetcmd-m3-memory.md) | ⭐ 31 | Python | 77/100 |
 | 189 | [PCIRCLE-AI/memesh](./pcircle-ai-memesh.md) | ⭐ 16 | TypeScript | 77/100 |
@@ -245,7 +245,7 @@
 | 235 | [dragon1086/prism-insight](./dragon1086-prism-insight.md) | ⭐ 808 | Python | 77/100 |
 | 236 | [semantica-agi/semantica](./semantica-agi-semantica.md) | ⭐ 14.6k | Python | 77/100 |
 | 237 | [code-yeongyu/lazycodex](./code-yeongyu-lazycodex.md) | ⭐ 3.9k | TypeScript | 77/100 |
-| 238 | [pacifio/cersei](./pacifio-cersei.md) | ⭐ 466 | Rust | 77/100 |
+| 238 | [pacifio/cersei](./pacifio-cersei.md) | ⭐ 467 | Rust | 77/100 |
 | 239 | [bagidea/bagidea-office](./bagidea-bagidea-office.md) | ⭐ 264 | JavaScript | 77/100 |
 | 240 | [seuros/action_mcp](./seuros-action-mcp.md) | ⭐ 125 | Ruby | 77/100 |
 | 241 | [fdueblab/Micro-Agent](./fdueblab-micro-agent.md) | ⭐ 100 | Python | 77/100 |
@@ -255,8 +255,8 @@
 | 245 | [hatchet-dev/hatchet](./hatchet-dev-hatchet.md) | ⭐ 8.3k | Go | 77/100 |
 | 246 | [Budibase/budibase](./budibase-budibase.md) | ⭐ 28.4k | TypeScript | 77/100 |
 | 247 | [MemTensor/MemOS](./memtensor-memos.md) | ⭐ 12.4k | TypeScript | 77/100 |
-| 248 | [HKUDS/DeepTutor](./hkuds-deeptutor.md) | ⭐ 58.9k | Python | 77/100 |
-| 249 | [labring/FastGPT](./labring-fastgpt.md) | ⭐ 30k | TypeScript | 77/100 |
+| 248 | [labring/FastGPT](./labring-fastgpt.md) | ⭐ 30k | TypeScript | 77/100 |
+| 249 | [HKUDS/DeepTutor](./hkuds-deeptutor.md) | ⭐ 58.9k | Python | 77/100 |
 | 250 | [backnotprop/pstack](./backnotprop-pstack.md) | ⭐ 4.1k | TypeScript | 76/100 |
 | 251 | [AreevAI/areev](./areevai-areev.md) | ⭐ 27 | Rust | 76/100 |
 | 252 | [oll4com/spaceapp](./oll4com-spaceapp.md) | ⭐ 19 | TypeScript | 76/100 |
@@ -335,7 +335,7 @@
 | 325 | [ggui-ai/ggui](./ggui-ai-ggui.md) | ⭐ 44 | TypeScript | 75/100 |
 | 326 | [KKKKhazix/khazix-skills](./kkkkhazix-khazix-skills.md) | ⭐ 22.2k | Python | 75/100 |
 | 327 | [taichuy/1flowbase](./taichuy-1flowbase.md) | ⭐ 292 | Rust | 75/100 |
-| 328 | [erpipe-org/mcp-odoo](./erpipe-org-mcp-odoo.md) | ⭐ 433 | Python | 75/100 |
+| 328 | [erpipe-org/mcp-odoo](./erpipe-org-mcp-odoo.md) | ⭐ 434 | Python | 75/100 |
 | 329 | [superbasedapp/observer](./superbasedapp-observer.md) | ⭐ 59 | Go | 75/100 |
 | 330 | [razzant/claudexor](./razzant-claudexor.md) | ⭐ 524 | TypeScript | 75/100 |
 | 331 | [gabelul/stitch-kit](./gabelul-stitch-kit.md) | ⭐ 49 | JavaScript | 75/100 |
@@ -434,7 +434,7 @@
 | 424 | [agentlas-ai/Agentlas-OS](./agentlas-ai-agentlas-os.md) | ⭐ 1.5k | Python | 74/100 |
 | 425 | [dongshuyan/compass-skills](./dongshuyan-compass-skills.md) | ⭐ 769 | Python | 74/100 |
 | 426 | [Adancurusul/serial-mcp-server](./adancurusul-serial-mcp-server.md) | ⭐ 97 | Rust | 74/100 |
-| 427 | [Annyfee/agent-craft](./annyfee-agent-craft.md) | ⭐ 536 | Python | 74/100 |
+| 427 | [Annyfee/agent-craft](./annyfee-agent-craft.md) | ⭐ 535 | Python | 74/100 |
 | 428 | [Snowflake-Labs/cocoplus](./snowflake-labs-cocoplus.md) | ⭐ 729 | JavaScript | 74/100 |
 | 429 | [tao12345666333/amcp](./tao12345666333-amcp.md) | ⭐ 24 | Python | 74/100 |
 | 430 | [iliaal/whetstone](./iliaal-whetstone.md) | ⭐ 36 | Python | 74/100 |
@@ -477,7 +477,7 @@
 | 467 | [Enderfga/claw-orchestrator](./enderfga-claw-orchestrator.md) | ⭐ 606 | TypeScript | 74/100 |
 | 468 | [chopratejas/headroom](./chopratejas-headroom.md) | ⭐ 1.7k | Python | 74/100 |
 | 469 | [doobidoo/mcp-memory-service](./doobidoo-mcp-memory-service.md) | ⭐ 2.1k | Python | 74/100 |
-| 470 | [labsai/EDDI](./labsai-eddi.md) | ⭐ 392 | Java | 74/100 |
+| 470 | [labsai/EDDI](./labsai-eddi.md) | ⭐ 393 | Java | 74/100 |
 | 471 | [kyegomez/swarms](./kyegomez-swarms.md) | ⭐ 7.4k | Python | 74/100 |
 | 472 | [flyteorg/flyte](./flyteorg-flyte.md) | ⭐ 7.8k | Go | 74/100 |
 | 473 | [strands-agents/sdk-python](./strands-agents-sdk-python.md) | ⭐ 5.8k | Python | 74/100 |
@@ -634,8 +634,8 @@
 | 624 | [rowboatlabs/rowboat](./rowboatlabs-rowboat.md) | ⭐ 18.2k | TypeScript | 72/100 |
 | 625 | [bytechefhq/bytechef](./bytechefhq-bytechef.md) | ⭐ 1.1k | Java | 72/100 |
 | 626 | [run-llama/llama_index](./run-llama-llama-index.md) | ⭐ 52.9k | Python | 72/100 |
-| 627 | [GH05TCREW/pentestagent](./gh05tcrew-pentestagent.md) | ⭐ 3.3k | Python | 72/100 |
-| 628 | [dagucloud/dagu](./dagucloud-dagu.md) | ⭐ 4.6k | Go | 72/100 |
+| 627 | [dagucloud/dagu](./dagucloud-dagu.md) | ⭐ 4.6k | Go | 72/100 |
+| 628 | [GH05TCREW/pentestagent](./gh05tcrew-pentestagent.md) | ⭐ 3.3k | Python | 72/100 |
 | 629 | [dataelement/bisheng](./dataelement-bisheng.md) | ⭐ 12.3k | TypeScript | 72/100 |
 | 630 | [lobehub/lobehub](./lobehub-lobehub.md) | ⭐ 85.4k | TypeScript | 72/100 |
 | 631 | [daytonaio/daytona](./daytonaio-daytona.md) | ⭐ 71.3k | TypeScript | 72/100 |
@@ -647,8 +647,8 @@
 | 637 | [islomkhon/CerebrumKit](./islomkhon-cerebrumkit.md) | ⭐ 5 | Vue | 71/100 |
 | 638 | [soit-ai/soit](./soit-ai-soit.md) | ⭐ 1 | Python | 71/100 |
 | 639 | [ziatdinovmax/SciLink](./ziatdinovmax-scilink.md) | ⭐ 99 | Python | 71/100 |
-| 640 | [Aryan-Pardeshi/DeepResearch_AI](./aryan-pardeshi-deepresearch-ai.md) | ⭐ 32 | Python | 71/100 |
-| 641 | [martian56/redcell](./martian56-redcell.md) | ⭐ 362 | Python | 71/100 |
+| 640 | [martian56/redcell](./martian56-redcell.md) | ⭐ 362 | Python | 71/100 |
+| 641 | [Aryan-Pardeshi/DeepResearch_AI](./aryan-pardeshi-deepresearch-ai.md) | ⭐ 32 | Python | 71/100 |
 | 642 | [scszcoder/eCan.ai](./scszcoder-ecan.ai.md) | ⭐ 22 | Python | 71/100 |
 | 643 | [cosyncing/cosyncing](./cosyncing-cosyncing.md) | ⭐ 65 | TypeScript | 71/100 |
 | 644 | [lucaGazzola/forgeo](./lucagazzola-forgeo.md) | ⭐ 35 | Python | 71/100 |
@@ -812,7 +812,7 @@
 | 802 | [msoedov/agentic_security](./msoedov-agentic-security.md) | ⭐ 2k | Python | 70/100 |
 | 803 | [neuron-core/neuron-laravel](./neuron-core-neuron-laravel.md) | ⭐ 123 | PHP | 70/100 |
 | 804 | [aipoch/medical-research-skills](./aipoch-medical-research-skills.md) | ⭐ 2.1k | Python | 70/100 |
-| 805 | [open-gitagent/gitagent](./open-gitagent-gitagent.md) | ⭐ 751 | TypeScript | 70/100 |
+| 805 | [open-gitagent/gitagent](./open-gitagent-gitagent.md) | ⭐ 752 | TypeScript | 70/100 |
 | 806 | [nowledge-co/community](./nowledge-co-community.md) | ⭐ 204 | Python | 70/100 |
 | 807 | [2389-research/claude-plugins](./2389-research-claude-plugins.md) | ⭐ 102 | JavaScript | 70/100 |
 | 808 | [Railly/agentfiles](./railly-agentfiles.md) | ⭐ 863 | TypeScript | 70/100 |
@@ -1012,8 +1012,8 @@
 | 1002 | [flc1125/skills](./flc1125-skills.md) | ⭐ 39 | JavaScript | 68/100 |
 | 1003 | [Forward-Future/loop-library](./forward-future-loop-library.md) | ⭐ 1.1k | JavaScript | 68/100 |
 | 1004 | [gossipcat-ai/gossipcat-ai](./gossipcat-ai-gossipcat-ai.md) | ⭐ 40 | TypeScript | 68/100 |
-| 1005 | [KarmaDevplacer/Mythos-Claude-Orchestrator](./karmadevplacer-mythos-claude-orchestrator.md) | ⭐ 51 | HTML | 68/100 |
-| 1006 | [project-nomos/nomos](./project-nomos-nomos.md) | ⭐ 22 | TypeScript | 68/100 |
+| 1005 | [project-nomos/nomos](./project-nomos-nomos.md) | ⭐ 22 | TypeScript | 68/100 |
+| 1006 | [KarmaDevplacer/Mythos-Claude-Orchestrator](./karmadevplacer-mythos-claude-orchestrator.md) | ⭐ 51 | HTML | 68/100 |
 | 1007 | [camunda/camunda](./camunda-camunda.md) | ⭐ 4.4k | Java | 68/100 |
 | 1008 | [postrv/forgemax](./postrv-forgemax.md) | ⭐ 158 | Rust | 68/100 |
 | 1009 | [letta-ai/letta](./letta-ai-letta.md) | ⭐ 25.4k | Python | 68/100 |
@@ -1081,8 +1081,8 @@
 | 1071 | [416rehman/DeepZero](./416rehman-deepzero.md) | ⭐ 776 | Python | 67/100 |
 | 1072 | [pouriamrt/claude-mesh](./pouriamrt-claude-mesh.md) | ⭐ 23 | TypeScript | 67/100 |
 | 1073 | [VRSEN/agency-swarm](./vrsen-agency-swarm.md) | ⭐ 4.6k | Python | 67/100 |
-| 1074 | [goruck/home-generative-agent](./goruck-home-generative-agent.md) | ⭐ 377 | Python | 67/100 |
-| 1075 | [emarco177/langgraph-course](./emarco177-langgraph-course.md) | ⭐ 749 | — | 67/100 |
+| 1074 | [emarco177/langgraph-course](./emarco177-langgraph-course.md) | ⭐ 749 | — | 67/100 |
+| 1075 | [goruck/home-generative-agent](./goruck-home-generative-agent.md) | ⭐ 377 | Python | 67/100 |
 | 1076 | [dustland/agentok](./dustland-agentok.md) | ⭐ 415 | TypeScript | 67/100 |
 | 1077 | [sinanuozdemir/oreilly-ai-agents](./sinanuozdemir-oreilly-ai-agents.md) | ⭐ 326 | Jupyter Notebook | 67/100 |
 | 1078 | [nullclaw/nullhub](./nullclaw-nullhub.md) | ⭐ 1.8k | Zig | 67/100 |
@@ -1122,7 +1122,7 @@
 | 1112 | [jia-gao/leanctx](./jia-gao-leanctx.md) | ⭐ 321 | Python | 67/100 |
 | 1113 | [Unstructured-IO/unstructured](./unstructured-io-unstructured.md) | ⭐ 15.7k | HTML | 67/100 |
 | 1114 | [srl-labs/containerlab](./srl-labs-containerlab.md) | ⭐ 3k | Go | 67/100 |
-| 1115 | [minhnv0807/ai-business-skills](./minhnv0807-ai-business-skills.md) | ⭐ 669 | PowerShell | 67/100 |
+| 1115 | [minhnv0807/ai-business-skills](./minhnv0807-ai-business-skills.md) | ⭐ 675 | PowerShell | 67/100 |
 | 1116 | [andyrewlee/awesome-agent-orchestrators](./andyrewlee-awesome-agent-orchestrators.md) | ⭐ 2.4k | — | 67/100 |
 | 1117 | [GarethManning/education-agent-skills](./garethmanning-education-agent-skills.md) | ⭐ 977 | TypeScript | 67/100 |
 | 1118 | [GarethManning/claude-education-skills](./garethmanning-claude-education-skills.md) | ⭐ 213 | TypeScript | 67/100 |
@@ -1150,7 +1150,7 @@
 | 1140 | [ValueCell-ai/ClawX](./valuecell-ai-clawx.md) | ⭐ 7.6k | TypeScript | 67/100 |
 | 1141 | [iLearn-Lab/NovelClaw](./ilearn-lab-novelclaw.md) | ⭐ 375 | Python | 67/100 |
 | 1142 | [ComposioHQ/agent-orchestrator](./composiohq-agent-orchestrator.md) | ⭐ 6.9k | TypeScript | 67/100 |
-| 1143 | [astronomer/agents](./astronomer-agents.md) | ⭐ 461 | Python | 67/100 |
+| 1143 | [astronomer/agents](./astronomer-agents.md) | ⭐ 462 | Python | 67/100 |
 | 1144 | [777genius/claude_agent_teams_ui](./777genius-claude-agent-teams-ui.md) | ⭐ 868 | TypeScript | 67/100 |
 | 1145 | [Yeachan-Heo/oh-my-claudecode](./yeachan-heo-oh-my-claudecode.md) | ⭐ 40.8k | TypeScript | 67/100 |
 | 1146 | [rllm-org/rllm](./rllm-org-rllm.md) | ⭐ 5.9k | Python | 67/100 |
@@ -1167,8 +1167,8 @@
 | 1157 | [bartosz-kuc/skanfirmy-mcp](./bartosz-kuc-skanfirmy-mcp.md) | ⭐ — | — | 66/100 |
 | 1158 | [sapuyou45-bit/oraclebone](./sapuyou45-bit-oraclebone.md) | ⭐ 4 | Python | 66/100 |
 | 1159 | [sapuyou45-bit/oraclebone](./sapuyou45-bit-oraclebone.md) | ⭐ 6 | Python | 66/100 |
-| 1160 | [ahundt/autorun](./ahundt-autorun.md) | ⭐ 13 | Python | 66/100 |
-| 1161 | [star-ga/mind-mem](./star-ga-mind-mem.md) | ⭐ 22 | Python | 66/100 |
+| 1160 | [star-ga/mind-mem](./star-ga-mind-mem.md) | ⭐ 22 | Python | 66/100 |
+| 1161 | [ahundt/autorun](./ahundt-autorun.md) | ⭐ 13 | Python | 66/100 |
 | 1162 | [OpenCoven/coven-cave](./opencoven-coven-cave.md) | ⭐ 32 | TypeScript | 66/100 |
 | 1163 | [ttguy0707/CyberClaw](./ttguy0707-cyberclaw.md) | ⭐ 346 | Python | 66/100 |
 | 1164 | [vkorost/claude-certified-architect-guide](./vkorost-claude-certified-architect-guide.md) | ⭐ 43 | — | 66/100 |
@@ -1412,7 +1412,7 @@
 | 1402 | [belialberu4-oss/exo-harness-ai-pipeline](./belialberu4-oss-exo-harness-ai-pipeline.md) | ⭐ 115 | HTML | 64/100 |
 | 1403 | [aufamubarak/plan-execute-verify-claude-code](./aufamubarak-plan-execute-verify-claude-code.md) | ⭐ 114 | HTML | 64/100 |
 | 1404 | [mverab/eGEOagents](./mverab-egeoagents.md) | ⭐ 218 | Python | 64/100 |
-| 1405 | [Dicklesworthstone/cass_memory_system](./dicklesworthstone-cass-memory-system.md) | ⭐ 461 | TypeScript | 64/100 |
+| 1405 | [Dicklesworthstone/cass_memory_system](./dicklesworthstone-cass-memory-system.md) | ⭐ 465 | TypeScript | 64/100 |
 | 1406 | [ViryaZheng/promptly-prompt](./viryazheng-promptly-prompt.md) | ⭐ 38 | Python | 64/100 |
 | 1407 | [gaasher/Agent-Loop-Skills](./gaasher-agent-loop-skills.md) | ⭐ 181 | Python | 64/100 |
 | 1408 | [Ganador1/FenixAI_tradingBot](./ganador1-fenixai-tradingbot.md) | ⭐ 158 | Python | 64/100 |
@@ -1444,7 +1444,7 @@
 | 1434 | [andresharpe/dotbot](./andresharpe-dotbot.md) | ⭐ 56 | PowerShell | 64/100 |
 | 1435 | [THU-MAIC/OpenMAIC](./thu-maic-openmaic.md) | ⭐ 43.5k | TypeScript | 64/100 |
 | 1436 | [zhikunqingtao/zhikuncode](./zhikunqingtao-zhikuncode.md) | ⭐ 543 | Java | 64/100 |
-| 1437 | [mco-org/mco](./mco-org-mco.md) | ⭐ 554 | Python | 64/100 |
+| 1437 | [mco-org/mco](./mco-org-mco.md) | ⭐ 556 | Python | 64/100 |
 | 1438 | [OMARVII/claude-alloy](./omarvii-claude-alloy.md) | ⭐ 106 | Shell | 64/100 |
 | 1439 | [jd-opensource/JoySafeter](./jd-opensource-joysafeter.md) | ⭐ 318 | Python | 64/100 |
 | 1440 | [mezmo/aura](./mezmo-aura.md) | ⭐ 412 | Rust | 64/100 |
@@ -1492,7 +1492,7 @@
 | 1482 | [alibaba/skill-up](./alibaba-skill-up.md) | ⭐ 1.5k | Go | 63/100 |
 | 1483 | [yschimke/compose-ai-tools](./yschimke-compose-ai-tools.md) | ⭐ 127 | Kotlin | 63/100 |
 | 1484 | [MCERQUA/OpenVoiceUI](./mcerqua-openvoiceui.md) | ⭐ 83 | HTML | 63/100 |
-| 1485 | [evolsb/claude-legal-skill](./evolsb-claude-legal-skill.md) | ⭐ 505 | — | 63/100 |
+| 1485 | [evolsb/claude-legal-skill](./evolsb-claude-legal-skill.md) | ⭐ 506 | — | 63/100 |
 | 1486 | [DavidZWZ/Awesome-RAG-Reasoning](./davidzwz-awesome-rag-reasoning.md) | ⭐ 460 | — | 63/100 |
 | 1487 | [hashicorp/serf](./hashicorp-serf.md) | ⭐ 6.1k | Go | 63/100 |
 | 1488 | [eugenelim/agent-ready-repo](./eugenelim-agent-ready-repo.md) | ⭐ 29 | Python | 63/100 |
@@ -2054,8 +2054,8 @@
 | 2044 | [Dicklesworthstone/frankenterm](./dicklesworthstone-frankenterm.md) | ⭐ 128 | Rust | 56/100 |
 | 2045 | [JimLiu/baoyu-skills](./jimliu-baoyu-skills.md) | ⭐ 27.5k | TypeScript | 56/100 |
 | 2046 | [awslabs/agent-plugins](./awslabs-agent-plugins.md) | ⭐ 941 | Python | 56/100 |
-| 2047 | [fallow-rs/fallow-skills](./fallow-rs-fallow-skills.md) | ⭐ 137 | — | 56/100 |
-| 2048 | [utensils/claudette](./utensils-claudette.md) | ⭐ 87 | Rust | 56/100 |
+| 2047 | [utensils/claudette](./utensils-claudette.md) | ⭐ 87 | Rust | 56/100 |
+| 2048 | [fallow-rs/fallow-skills](./fallow-rs-fallow-skills.md) | ⭐ 137 | — | 56/100 |
 | 2049 | [withastro/flue](./withastro-flue.md) | ⭐ 8.7k | TypeScript | 56/100 |
 | 2050 | [langchain-ai/langchainjs](./langchain-ai-langchainjs.md) | ⭐ 18.3k | TypeScript | 56/100 |
 | 2051 | [OpenMind/OM1](./openmind-om1.md) | ⭐ 3k | Python | 56/100 |
@@ -2176,7 +2176,7 @@
 | 2166 | [EvoMap/awesome-agent-swarm](./evomap-awesome-agent-swarm.md) | ⭐ 74 | JavaScript | 53/100 |
 | 2167 | [LeonardNJU/code-humanizer](./leonardnju-code-humanizer.md) | ⭐ 95 | — | 53/100 |
 | 2168 | [h5i-dev/h5i-python](./h5i-dev-h5i-python.md) | ⭐ — | — | 53/100 |
-| 2169 | [Boom5426/Nature-Paper-Skills](./boom5426-nature-paper-skills.md) | ⭐ 671 | TeX | 53/100 |
+| 2169 | [Boom5426/Nature-Paper-Skills](./boom5426-nature-paper-skills.md) | ⭐ 672 | TeX | 53/100 |
 | 2170 | [ktao732084-arch/openclaw_memory_supersystem-v1.0](./ktao732084-arch-openclaw-memory-supersystem-v1.0.md) | ⭐ 69 | Python | 53/100 |
 | 2171 | [smithersai/smithers](./smithersai-smithers.md) | ⭐ 449 | JavaScript | 53/100 |
 | 2172 | [Nanako0129/pilotfish](./nanako0129-pilotfish.md) | ⭐ 718 | — | 53/100 |
@@ -2321,8 +2321,8 @@
 | 2311 | [dbreunig/dspy-monty-interpreter](./dbreunig-dspy-monty-interpreter.md) | ⭐ 58 | Python | 48/100 |
 | 2312 | [michalzubkowicz/nixos-management-skill](./michalzubkowicz-nixos-management-skill.md) | ⭐ 68 | — | 48/100 |
 | 2313 | [LF-Decentralized-Trust-labs/gitmesh](./lf-decentralized-trust-labs-gitmesh.md) | ⭐ 145 | TypeScript | 48/100 |
-| 2314 | [NeverSight/learn-skills.dev](./neversight-learn-skills.dev.md) | ⭐ 221 | — | 48/100 |
-| 2315 | [agentculture/culture](./agentculture-culture.md) | ⭐ 116 | Python | 48/100 |
+| 2314 | [agentculture/culture](./agentculture-culture.md) | ⭐ 116 | Python | 48/100 |
+| 2315 | [NeverSight/learn-skills.dev](./neversight-learn-skills.dev.md) | ⭐ 221 | — | 48/100 |
 | 2316 | [DotHarness/dotcraft](./dotharness-dotcraft.md) | ⭐ 403 | C# | 48/100 |
 | 2317 | [dotnet/skills](./dotnet-skills.md) | ⭐ 6.1k | C# | 48/100 |
 | 2318 | [AidanKR/wp-move](./aidankr-wp-move.md) | ⭐ 1 | Python | 47/100 |

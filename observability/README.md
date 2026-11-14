@@ -42,8 +42,8 @@
 | 32 | [stamparm/maltrail](./stamparm-maltrail.md) | ⭐ 8.7k | Python | 68/100 |
 | 33 | [perses/perses](./perses-perses.md) | ⭐ 2.5k | Go | 68/100 |
 | 34 | [iflytek/skillhub](./iflytek-skillhub.md) | ⭐ 5.4k | Java | 68/100 |
-| 35 | [0cv/herdr-mobile-relay](./0cv-herdr-mobile-relay.md) | ⭐ 378 | TypeScript | 67/100 |
-| 36 | [patman15/BMS_BLE-HA](./patman15-bms-ble-ha.md) | ⭐ 379 | Python | 67/100 |
+| 35 | [0cv/herdr-mobile-relay](./0cv-herdr-mobile-relay.md) | ⭐ 380 | TypeScript | 67/100 |
+| 36 | [patman15/BMS_BLE-HA](./patman15-bms-ble-ha.md) | ⭐ 380 | Python | 67/100 |
 | 37 | [GoogleChrome/chromium-dashboard](./googlechrome-chromium-dashboard.md) | ⭐ 748 | Python | 67/100 |
 | 38 | [prometheus/client_golang](./prometheus-client-golang.md) | ⭐ 6k | Go | 67/100 |
 | 39 | [OneUptime/oneuptime](./oneuptime-oneuptime.md) | ⭐ 7.8k | TypeScript | 67/100 |
@@ -155,9 +155,9 @@
 | 145 | [grafana/loki](./grafana-loki.md) | ⭐ 29.2k | Go | 57/100 |
 | 146 | [grafana/mimir](./grafana-mimir.md) | ⭐ 5.3k | Go | 57/100 |
 | 147 | [hedhyw/json-log-viewer](./hedhyw-json-log-viewer.md) | ⭐ 244 | Go | 56/100 |
-| 148 | [laravel/nightwatch](./laravel-nightwatch.md) | ⭐ 379 | PHP | 56/100 |
+| 148 | [laravel/nightwatch](./laravel-nightwatch.md) | ⭐ 380 | PHP | 56/100 |
 | 149 | [OxidizeLabs/cachekit](./oxidizelabs-cachekit.md) | ⭐ 164 | Rust | 56/100 |
-| 150 | [TIANLI0/THRM](./tianli0-thrm.md) | ⭐ 461 | Go | 56/100 |
+| 150 | [TIANLI0/THRM](./tianli0-thrm.md) | ⭐ 463 | Go | 56/100 |
 | 151 | [prometheus/test-infra](./prometheus-test-infra.md) | ⭐ 166 | Go | 56/100 |
 | 152 | [Daminoup88/WattSeal](./daminoup88-wattseal.md) | ⭐ 305 | Rust | 56/100 |
 | 153 | [open-telemetry/opentelemetry-js-contrib](./open-telemetry-opentelemetry-js-contrib.md) | ⭐ 946 | TypeScript | 56/100 |
@@ -305,7 +305,7 @@
 | 295 | [Jeffy123-zhu/logspecter](./jeffy123-zhu-logspecter.md) | ⭐ 5 | — | 41/100 |
 | 296 | [ariusxi/artie-lens](./ariusxi-artie-lens.md) | ⭐ 7 | — | 41/100 |
 | 297 | [Your-Net-Tech/Go-K8SDeploy](./your-net-tech-go-k8sdeploy.md) | ⭐ 1 | — | 41/100 |
-| 298 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 455 | Rust | 41/100 |
+| 298 | [open-telemetry/otel-arrow](./open-telemetry-otel-arrow.md) | ⭐ 456 | Rust | 41/100 |
 | 299 | [Claven07/dsh-plugin-agent-insights](./claven07-dsh-plugin-agent-insights.md) | ⭐ — | TypeScript | 41/100 |
 | 300 | [Pager-dot/AeroVision](./pager-dot-aerovision.md) | ⭐ — | HTML | 40/100 |
 | 301 | [nixys/nxs-anomaly](./nixys-nxs-anomaly.md) | ⭐ 14 | — | 40/100 |

@@ -44,7 +44,7 @@
 | 34 | [kriuchkov/tock](./kriuchkov-tock.md) | ⭐ 507 | Go | 69/100 |
 | 35 | [Clipy/Clipy](./clipy-clipy.md) | ⭐ 9k | Swift | 68/100 |
 | 36 | [brettcannon/python-launcher](./brettcannon-python-launcher.md) | ⭐ 632 | Rust | 68/100 |
-| 37 | [Giammarco-Ferranti/deja](./giammarco-ferranti-deja.md) | ⭐ 935 | Go | 68/100 |
+| 37 | [Giammarco-Ferranti/deja](./giammarco-ferranti-deja.md) | ⭐ 936 | Go | 68/100 |
 | 38 | [wmariuss/awesome-devops](./wmariuss-awesome-devops.md) | ⭐ 4.5k | Python | 68/100 |
 | 39 | [rayenghanmi/RyTuneX](./rayenghanmi-rytunex.md) | ⭐ 5.6k | C# | 68/100 |
 | 40 | [SoCkEt7/Livediff](./socket7-livediff.md) | ⭐ 237 | Rust | 68/100 |
@@ -79,7 +79,7 @@
 | 69 | [ctrlaltvikas/Awesome-Bash-Aliases](./ctrlaltvikas-awesome-bash-aliases.md) | ⭐ 270 | — | 65/100 |
 | 70 | [ctrlaltvikas/awesome-bash-alias](./ctrlaltvikas-awesome-bash-alias.md) | ⭐ 246 | — | 65/100 |
 | 71 | [Pixeval/Pixeval](./pixeval-pixeval.md) | ⭐ 3.2k | C# | 65/100 |
-| 72 | [replydev/cotp](./replydev-cotp.md) | ⭐ 395 | Rust | 65/100 |
+| 72 | [replydev/cotp](./replydev-cotp.md) | ⭐ 396 | Rust | 65/100 |
 | 73 | [reekta92/clin-rs](./reekta92-clin-rs.md) | ⭐ 589 | Rust | 65/100 |
 | 74 | [altstackHQ/altstack-data](./altstackhq-altstack-data.md) | ⭐ 324 | Shell | 65/100 |
 | 75 | [journiv/journiv-app](./journiv-journiv-app.md) | ⭐ 1.3k | JavaScript | 65/100 |
@@ -208,7 +208,7 @@
 | 198 | [Sirulex/cursor-clip](./sirulex-cursor-clip.md) | ⭐ 122 | Rust | 54/100 |
 | 199 | [l0ng-ai/papr](./l0ng-ai-papr.md) | ⭐ 593 | Rust | 54/100 |
 | 200 | [ziadshalaby00/ZS-New-Tab](./ziadshalaby00-zs-new-tab.md) | ⭐ 1 | JavaScript | 53/100 |
-| 201 | [Comfy-Org/Comfy-Desktop](./comfy-org-comfy-desktop.md) | ⭐ 703 | TypeScript | 53/100 |
+| 201 | [Comfy-Org/Comfy-Desktop](./comfy-org-comfy-desktop.md) | ⭐ 707 | TypeScript | 53/100 |
 | 202 | [fossasia/badgemagic-app](./fossasia-badgemagic-app.md) | ⭐ 2k | Dart | 53/100 |
 | 203 | [gitpod-io/memo](./gitpod-io-memo.md) | ⭐ 63 | TypeScript | 53/100 |
 | 204 | [Ruszero01/clippi](./ruszero01-clippi.md) | ⭐ 454 | Rust | 53/100 |
@@ -222,7 +222,7 @@
 | 212 | [heroku/webapp-runner](./heroku-webapp-runner.md) | ⭐ 324 | Java | 52/100 |
 | 213 | [d12frosted/vulpea](./d12frosted-vulpea.md) | ⭐ 474 | Emacs Lisp | 52/100 |
 | 214 | [goweiwen/Allium](./goweiwen-allium.md) | ⭐ 396 | Rust | 52/100 |
-| 215 | [Mjoyufull/fsel](./mjoyufull-fsel.md) | ⭐ 487 | Rust | 52/100 |
+| 215 | [Mjoyufull/fsel](./mjoyufull-fsel.md) | ⭐ 489 | Rust | 52/100 |
 | 216 | [Akhouri-Anmol-Kumar/APIC](./akhouri-anmol-kumar-apic.md) | ⭐ 1 | — | 51/100 |
 | 217 | [CCBlueX/LiquidLauncher](./ccbluex-liquidlauncher.md) | ⭐ 290 | Rust | 51/100 |
 | 218 | [veloren/airshipper](./veloren-airshipper.md) | ⭐ 289 | Rust | 51/100 |
@@ -250,7 +250,7 @@
 | 240 | [andreasserfilippi/clipbridge](./andreasserfilippi-clipbridge.md) | ⭐ 3 | — | 49/100 |
 | 241 | [MeisApps/pcbu-desktop](./meisapps-pcbu-desktop.md) | ⭐ 486 | C++ | 49/100 |
 | 242 | [pop-os/launcher](./pop-os-launcher.md) | ⭐ 287 | Rust | 49/100 |
-| 243 | [shadps4-emu/shadps4-qtlauncher](./shadps4-emu-shadps4-qtlauncher.md) | ⭐ 527 | C++ | 49/100 |
+| 243 | [shadps4-emu/shadps4-qtlauncher](./shadps4-emu-shadps4-qtlauncher.md) | ⭐ 529 | C++ | 49/100 |
 | 244 | [coderGtm/yantra-app-launcher](./codergtm-yantra-app-launcher.md) | ⭐ 146 | Kotlin | 49/100 |
 | 245 | [petoncle/mousemaster](./petoncle-mousemaster.md) | ⭐ 920 | Java | 49/100 |
 | 246 | [memospot/memospot](./memospot-memospot.md) | ⭐ 321 | Rust | 49/100 |

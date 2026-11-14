@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| ⭐ **Stars** | 391 |
+| ⭐ **Stars** | 392 |
 | 🍴 **Forks** | 89 |
 | 💻 **Language** | Rocq Prover |
 | 📈 **Score** | 52/100 |

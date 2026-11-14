@@ -232,10 +232,10 @@
 | 222 | [ericmjl/nxviz](./ericmjl-nxviz.md) | ⭐ 487 | Python | 56/100 |
 | 223 | [enthought/mayavi](./enthought-mayavi.md) | ⭐ 1.4k | Python | 56/100 |
 | 224 | [rokath/trice](./rokath-trice.md) | ⭐ 1k | C | 56/100 |
-| 225 | [opensearch-project/data-prepper](./opensearch-project-data-prepper.md) | ⭐ 380 | Java | 56/100 |
+| 225 | [opensearch-project/data-prepper](./opensearch-project-data-prepper.md) | ⭐ 381 | Java | 56/100 |
 | 226 | [cortex-lab/phy](./cortex-lab-phy.md) | ⭐ 438 | Python | 56/100 |
 | 227 | [the-turing-way/the-turing-way](./the-turing-way-the-turing-way.md) | ⭐ 2.2k | TeX | 56/100 |
-| 228 | [bids-standard/bids-specification](./bids-standard-bids-specification.md) | ⭐ 378 | Python | 56/100 |
+| 228 | [bids-standard/bids-specification](./bids-standard-bids-specification.md) | ⭐ 379 | Python | 56/100 |
 | 229 | [cordx56/rustowl](./cordx56-rustowl.md) | ⭐ 5.3k | Rust | 56/100 |
 | 230 | [beling/bsuccinct-rs](./beling-bsuccinct-rs.md) | ⭐ 173 | Rust | 56/100 |
 | 231 | [TheAlgorithms/Rust](./thealgorithms-rust.md) | ⭐ 26.2k | Rust | 56/100 |

@@ -325,7 +325,7 @@
 | 315 | [Miosa-osa/BusinessOS](./miosa-osa-businessos.md) | ⭐ 139 | Go | 62/100 |
 | 316 | [Roll20/roll20-character-sheets](./roll20-roll20-character-sheets.md) | ⭐ 1.2k | HTML | 62/100 |
 | 317 | [gaelcolas/Sampler](./gaelcolas-sampler.md) | ⭐ 245 | PowerShell | 62/100 |
-| 318 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 607 | Rust | 62/100 |
+| 318 | [Tools-cx-app/meta-magic_mount-rs](./tools-cx-app-meta-magic-mount-rs.md) | ⭐ 610 | Rust | 62/100 |
 | 319 | [microsoft/teams-agent-accelerator-templates](./microsoft-teams-agent-accelerator-templates.md) | ⭐ 95 | TypeScript | 62/100 |
 | 320 | [pulkitxm/claude-directory](./pulkitxm-claude-directory.md) | ⭐ 682 | HTML | 62/100 |
 | 321 | [shinpr/mcp-image](./shinpr-mcp-image.md) | ⭐ 190 | TypeScript | 62/100 |

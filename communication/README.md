@@ -126,7 +126,7 @@
 | 116 | [simple-login/app](./simple-login-app.md) | ⭐ 7.1k | Python | 62/100 |
 | 117 | [kcsujeet/ilamy-calendar](./kcsujeet-ilamy-calendar.md) | ⭐ 356 | TypeScript | 62/100 |
 | 118 | [mjl-/mox](./mjl--mox.md) | ⭐ 5.9k | Go | 62/100 |
-| 119 | [zoff99/ToxAndroidRefImpl](./zoff99-toxandroidrefimpl.md) | ⭐ 350 | C | 62/100 |
+| 119 | [zoff99/ToxAndroidRefImpl](./zoff99-toxandroidrefimpl.md) | ⭐ 351 | C | 62/100 |
 | 120 | [BurntSushi/jiff](./burntsushi-jiff.md) | ⭐ 3k | Rust | 62/100 |
 | 121 | [discord-php/DiscordPHP](./discord-php-discordphp.md) | ⭐ 1.1k | PHP | 62/100 |
 | 122 | [apache/pulsar](./apache-pulsar.md) | ⭐ 15.4k | Java | 62/100 |
@@ -199,7 +199,7 @@
 | 189 | [spatie/calendar-links](./spatie-calendar-links.md) | ⭐ 1k | PHP | 57/100 |
 | 190 | [happyDomain/happydeliver](./happydomain-happydeliver.md) | ⭐ 238 | Go | 57/100 |
 | 191 | [decke/smtprelay](./decke-smtprelay.md) | ⭐ 641 | Go | 57/100 |
-| 192 | [KashCal/KashCal](./kashcal-kashcal.md) | ⭐ 494 | Kotlin | 57/100 |
+| 192 | [KashCal/KashCal](./kashcal-kashcal.md) | ⭐ 495 | Kotlin | 57/100 |
 | 193 | [movim/movim](./movim-movim.md) | ⭐ 2.1k | PHP | 57/100 |
 | 194 | [foundation/inky](./foundation-inky.md) | ⭐ 712 | Rust | 57/100 |
 | 195 | [chronotope/chrono](./chronotope-chrono.md) | ⭐ 3.9k | Rust | 57/100 |
@@ -215,7 +215,7 @@
 | 205 | [muni-town/roomy](./muni-town-roomy.md) | ⭐ 499 | TypeScript | 56/100 |
 | 206 | [analogdotnow/Analog](./analogdotnow-analog.md) | ⭐ 1.6k | TypeScript | 56/100 |
 | 207 | [markuspoerschke/iCal](./markuspoerschke-ical.md) | ⭐ 1.2k | PHP | 56/100 |
-| 208 | [RblSb/SyncTube](./rblsb-synctube.md) | ⭐ 397 | Haxe | 56/100 |
+| 208 | [RblSb/SyncTube](./rblsb-synctube.md) | ⭐ 398 | Haxe | 56/100 |
 | 209 | [shivammathur/homebrew-extensions](./shivammathur-homebrew-extensions.md) | ⭐ 824 | Ruby | 56/100 |
 | 210 | [torlando-tech/columba](./torlando-tech-columba.md) | ⭐ 1.3k | Kotlin | 56/100 |
 | 211 | [dbt-labs/dbt-core](./dbt-labs-dbt-core.md) | ⭐ 12.7k | Python | 56/100 |
@@ -227,7 +227,7 @@
 | 217 | [sebbo2002/ical-generator](./sebbo2002-ical-generator.md) | ⭐ 857 | TypeScript | 55/100 |
 | 218 | [Medvedev91/timeto.me](./medvedev91-timeto.me.md) | ⭐ 733 | Kotlin | 55/100 |
 | 219 | [jmhobbs/cultofthepartyparrot.com](./jmhobbs-cultofthepartyparrot.com.md) | ⭐ 1.6k | HTML | 55/100 |
-| 220 | [microsoft/LangChain4j-for-Beginners](./microsoft-langchain4j-for-beginners.md) | ⭐ 558 | Java | 55/100 |
+| 220 | [microsoft/LangChain4j-for-Beginners](./microsoft-langchain4j-for-beginners.md) | ⭐ 559 | Java | 55/100 |
 | 221 | [appleboy/go-fcm](./appleboy-go-fcm.md) | ⭐ 331 | Go | 55/100 |
 | 222 | [Sharkord/sharkord](./sharkord-sharkord.md) | ⭐ 1.6k | TypeScript | 55/100 |
 | 223 | [jerryxff26-alt/dsh-delivery-board](./jerryxff26-alt-dsh-delivery-board.md) | ⭐ 4 | JavaScript | 54/100 |
@@ -259,7 +259,7 @@
 | 249 | [PijarAdiluhung/mabims-hijri](./pijaradiluhung-mabims-hijri.md) | ⭐ 1 | TypeScript | 52/100 |
 | 250 | [drewmt/lineweb-social](./drewmt-lineweb-social.md) | ⭐ 14 | PHP | 52/100 |
 | 251 | [staktrace/mailparse](./staktrace-mailparse.md) | ⭐ 226 | Rust | 52/100 |
-| 252 | [ArcaneChat/android](./arcanechat-android.md) | ⭐ 405 | Java | 52/100 |
+| 252 | [ArcaneChat/android](./arcanechat-android.md) | ⭐ 406 | Java | 52/100 |
 | 253 | [sublime-security/sublime-rules](./sublime-security-sublime-rules.md) | ⭐ 381 | YAML | 52/100 |
 | 254 | [logos-messaging/logos-delivery](./logos-messaging-logos-delivery.md) | ⭐ 249 | Nim | 52/100 |
 | 255 | [LemmyNet/lemmy](./lemmynet-lemmy.md) | ⭐ 14.7k | Rust | 52/100 |
@@ -268,7 +268,7 @@
 | 258 | [Kandeepasundaram/Grit](./kandeepasundaram-grit.md) | ⭐ 1 | Python | 51/100 |
 | 259 | [cyrusimap/cyrus-imapd](./cyrusimap-cyrus-imapd.md) | ⭐ 654 | C | 51/100 |
 | 260 | [copilotKit/channels-sdk](./copilotkit-channels-sdk.md) | ⭐ 953 | — | 51/100 |
-| 261 | [roehling/postsrsd](./roehling-postsrsd.md) | ⭐ 366 | C | 51/100 |
+| 261 | [roehling/postsrsd](./roehling-postsrsd.md) | ⭐ 368 | C | 51/100 |
 | 262 | [SlimeBoyOwO/LingChat](./slimeboyowo-lingchat.md) | ⭐ 2.5k | Rust | 51/100 |
 | 263 | [themadorg/madmail](./themadorg-madmail.md) | ⭐ 209 | Rust | 51/100 |
 | 264 | [versatica/mediasoup](./versatica-mediasoup.md) | ⭐ 7.4k | C++ | 51/100 |
@@ -280,7 +280,7 @@
 | 270 | [inline-chat/inline](./inline-chat-inline.md) | ⭐ 910 | Rust | 50/100 |
 | 271 | [OpenClaudia/openclaudia-skills](./openclaudia-openclaudia-skills.md) | ⭐ 739 | JavaScript | 50/100 |
 | 272 | [open-chat-labs/open-chat](./open-chat-labs-open-chat.md) | ⭐ 208 | Rust | 50/100 |
-| 273 | [7c/fakefilter](./7c-fakefilter.md) | ⭐ 359 | JavaScript | 50/100 |
+| 273 | [7c/fakefilter](./7c-fakefilter.md) | ⭐ 360 | JavaScript | 50/100 |
 | 274 | [apache/iggy](./apache-iggy.md) | ⭐ 5.3k | Rust | 50/100 |
 | 275 | [nextcloud/spreed](./nextcloud-spreed.md) | ⭐ 2.2k | JavaScript | 50/100 |
 | 276 | [Expensify/App](./expensify-app.md) | ⭐ 5.1k | TypeScript | 50/100 |

@@ -26,9 +26,9 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Libraries & SDKs](../libraries--sdks/README.md) | 298 |
 | [Marketing](../marketing/README.md) | 43 |
 | [MCP](../mcp/README.md) | 3,020 |
-| [Misc](../misc/README.md) | 18,245 |
+| [Misc](../misc/README.md) | 18,246 |
 | [Mobile](../mobile/README.md) | 709 |
-| [Networking](../networking/README.md) | 682 |
+| [Networking](../networking/README.md) | 683 |
 | [Observability](../observability/README.md) | 329 |
 | [Orchestration](../orchestration/README.md) | 2,535 |
 | [Payments](../payments/README.md) | 396 |

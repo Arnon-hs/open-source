@@ -67,7 +67,7 @@
 | 57 | [nuxt/icon](./nuxt-icon.md) | ⭐ 1.2k | TypeScript | 56/100 |
 | 58 | [theexperiencecompany/keyloom](./theexperiencecompany-keyloom.md) | ⭐ 90 | TypeScript | 56/100 |
 | 59 | [iiab/iiab](./iiab-iiab.md) | ⭐ 2k | Jinja | 56/100 |
-| 60 | [chsh2/nijiGPen](./chsh2-nijigpen.md) | ⭐ 386 | Python | 55/100 |
+| 60 | [chsh2/nijiGPen](./chsh2-nijigpen.md) | ⭐ 387 | Python | 55/100 |
 | 61 | [pctrade/end4-pC](./pctrade-end4-pc.md) | ⭐ 3.8k | QML | 55/100 |
 | 62 | [337547038/vue-form-design](./337547038-vue-form-design.md) | ⭐ 384 | JavaScript | 55/100 |
 | 63 | [seek-oss/capsize](./seek-oss-capsize.md) | ⭐ 1.7k | TypeScript | 55/100 |

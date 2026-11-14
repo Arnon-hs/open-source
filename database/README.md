@@ -65,7 +65,7 @@
 | 55 | [nfrastack/container-db-backup](./nfrastack-container-db-backup.md) | ⭐ 1.5k | Dockerfile | 64/100 |
 | 56 | [skyzh/mini-lsm](./skyzh-mini-lsm.md) | ⭐ 4.2k | Rust | 64/100 |
 | 57 | [liweiyi88/onedump](./liweiyi88-onedump.md) | ⭐ 1k | Go | 64/100 |
-| 58 | [dragonflydb/dragonfly-operator](./dragonflydb-dragonfly-operator.md) | ⭐ 363 | Go | 64/100 |
+| 58 | [dragonflydb/dragonfly-operator](./dragonflydb-dragonfly-operator.md) | ⭐ 364 | Go | 64/100 |
 | 59 | [tarantool/tarantool](./tarantool-tarantool.md) | ⭐ 3.7k | Lua | 64/100 |
 | 60 | [VictoriaMetrics/VictoriaLogs](./victoriametrics-victorialogs.md) | ⭐ 2.5k | Go | 64/100 |
 | 61 | [dapr/components-contrib](./dapr-components-contrib.md) | ⭐ 605 | Go | 64/100 |
@@ -573,8 +573,8 @@
 | 563 | [lucasolopes/haruspex](./lucasolopes-haruspex.md) | ⭐ — | — | 38/100 |
 | 564 | [commandprompt/PL-php](./commandprompt-pl-php.md) | ⭐ — | — | 38/100 |
 | 565 | [Query-Doctor/sqlite-trace](./query-doctor-sqlite-trace.md) | ⭐ 4 | — | 38/100 |
-| 566 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 154 | — | 38/100 |
-| 567 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
+| 566 | [GuglielmoCerri/khazad](./guglielmocerri-khazad.md) | ⭐ 34 | — | 38/100 |
+| 567 | [vmxdev/xenoeye](./vmxdev-xenoeye.md) | ⭐ 154 | — | 38/100 |
 | 568 | [zentrix-innovative-labs/galaxdb](./zentrix-innovative-labs-galaxdb.md) | ⭐ 11 | — | 38/100 |
 | 569 | [duckdb/duckdb-sqlite](./duckdb-duckdb-sqlite.md) | ⭐ 297 | — | 38/100 |
 | 570 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |

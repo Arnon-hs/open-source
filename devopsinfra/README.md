@@ -20,7 +20,7 @@
 | 10 | [mag37/dockcheck](./mag37-dockcheck.md) | ⭐ 2.5k | Shell | 75/100 |
 | 11 | [saltyorg/Saltbox](./saltyorg-saltbox.md) | ⭐ 891 | Python | 75/100 |
 | 12 | [containerd/containerd](./containerd-containerd.md) | ⭐ 21.5k | Go | 74/100 |
-| 13 | [kubara-io/kubara](./kubara-io-kubara.md) | ⭐ 441 | Go | 74/100 |
+| 13 | [kubara-io/kubara](./kubara-io-kubara.md) | ⭐ 443 | Go | 74/100 |
 | 14 | [yeasy/docker_practice](./yeasy-docker-practice.md) | ⭐ 26.4k | Go | 74/100 |
 | 15 | [replicatedhq/kots](./replicatedhq-kots.md) | ⭐ 953 | Go | 74/100 |
 | 16 | [werf/werf](./werf-werf.md) | ⭐ 4.7k | Go | 74/100 |
@@ -61,7 +61,7 @@
 | 51 | [projectcapsule/capsule](./projectcapsule-capsule.md) | ⭐ 2.2k | Go | 69/100 |
 | 52 | [dannymcc/may](./dannymcc-may.md) | ⭐ 273 | HTML | 69/100 |
 | 53 | [jupyter/docker-stacks](./jupyter-docker-stacks.md) | ⭐ 8.5k | Python | 69/100 |
-| 54 | [oneclickvirt/oneclickvirt](./oneclickvirt-oneclickvirt.md) | ⭐ 382 | Go | 69/100 |
+| 54 | [oneclickvirt/oneclickvirt](./oneclickvirt-oneclickvirt.md) | ⭐ 381 | Go | 69/100 |
 | 55 | [tdeverx/contained-app](./tdeverx-contained-app.md) | ⭐ 866 | Swift | 69/100 |
 | 56 | [cisagov/thorium](./cisagov-thorium.md) | ⭐ 1k | Rust | 69/100 |
 | 57 | [geek-cookbook/geek-cookbook](./geek-cookbook-geek-cookbook.md) | ⭐ 2.1k | HTML | 68/100 |
@@ -129,8 +129,8 @@
 | 119 | [kubernetes/autoscaler](./kubernetes-autoscaler.md) | ⭐ 9k | Go | 64/100 |
 | 120 | [tborychowski/self-hosted-cookbook](./tborychowski-self-hosted-cookbook.md) | ⭐ 1.3k | — | 64/100 |
 | 121 | [open-policy-agent/gatekeeper-library](./open-policy-agent-gatekeeper-library.md) | ⭐ 705 | Open Policy Agent | 64/100 |
-| 122 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
-| 123 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 677 | Go | 64/100 |
+| 122 | [kubernetes-csi/csi-driver-smb](./kubernetes-csi-csi-driver-smb.md) | ⭐ 677 | Go | 64/100 |
+| 123 | [kubernetes-sigs/sig-storage-local-static-provisioner](./kubernetes-sigs-sig-storage-local-static-provisioner.md) | ⭐ 1.2k | Go | 64/100 |
 | 124 | [astronomer/astronomer](./astronomer-astronomer.md) | ⭐ 490 | Python | 64/100 |
 | 125 | [bifrost0x/webssh](./bifrost0x-webssh.md) | ⭐ 329 | Python | 64/100 |
 | 126 | [mkubaczyk/helmsman](./mkubaczyk-helmsman.md) | ⭐ 1.5k | Go | 64/100 |
@@ -170,7 +170,7 @@
 | 160 | [pi-hole/docker-pi-hole](./pi-hole-docker-pi-hole.md) | ⭐ 11.8k | Shell | 63/100 |
 | 161 | [wodby/docker4drupal](./wodby-docker4drupal.md) | ⭐ 1.3k | Shell | 63/100 |
 | 162 | [Jagalite/superseedr](./jagalite-superseedr.md) | ⭐ 681 | Rust | 63/100 |
-| 163 | [suzuki-shunsuke/tfaction](./suzuki-shunsuke-tfaction.md) | ⭐ 406 | TypeScript | 63/100 |
+| 163 | [suzuki-shunsuke/tfaction](./suzuki-shunsuke-tfaction.md) | ⭐ 408 | TypeScript | 63/100 |
 | 164 | [quay/quay](./quay-quay.md) | ⭐ 2.8k | Python | 63/100 |
 | 165 | [piomin/sample-spring-microservices-kubernetes](./piomin-sample-spring-microservices-kubernetes.md) | ⭐ 538 | Java | 63/100 |
 | 166 | [google/gvisor](./google-gvisor.md) | ⭐ 20k | Go | 63/100 |
@@ -193,8 +193,8 @@
 | 183 | [k0sproject/k0s](./k0sproject-k0s.md) | ⭐ 6.6k | Go | 62/100 |
 | 184 | [notaryproject/ratify](./notaryproject-ratify.md) | ⭐ 306 | Go | 62/100 |
 | 185 | [flux-iac/tofu-controller](./flux-iac-tofu-controller.md) | ⭐ 1.7k | Go | 62/100 |
-| 186 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
-| 187 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 186 | [hashicorp/terraform-provider-helm](./hashicorp-terraform-provider-helm.md) | ⭐ 1.1k | Go | 62/100 |
+| 187 | [hashicorp/terraform-provider-kubernetes](./hashicorp-terraform-provider-kubernetes.md) | ⭐ 1.7k | Go | 62/100 |
 | 188 | [sablierapp/sablier](./sablierapp-sablier.md) | ⭐ 3.1k | Go | 62/100 |
 | 189 | [CISOfy/lynis](./cisofy-lynis.md) | ⭐ 16.7k | Shell | 62/100 |
 | 190 | [bonigarcia/webdrivermanager](./bonigarcia-webdrivermanager.md) | ⭐ 2.7k | Java | 61/100 |
@@ -218,8 +218,8 @@
 | 208 | [kubernetes/minikube](./kubernetes-minikube.md) | ⭐ 32.2k | Go | 61/100 |
 | 209 | [docker/setup-buildx-action](./docker-setup-buildx-action.md) | ⭐ 1.4k | TypeScript | 60/100 |
 | 210 | [RaidOwl/homelab-hub](./raidowl-homelab-hub.md) | ⭐ 922 | Svelte | 60/100 |
-| 211 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
-| 212 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
+| 211 | [crossplane-contrib/provider-helm](./crossplane-contrib-provider-helm.md) | ⭐ 143 | Go | 60/100 |
+| 212 | [data-catering/insta-infra](./data-catering-insta-infra.md) | ⭐ 169 | Go | 60/100 |
 | 213 | [ruudmens/LazyAdmin](./ruudmens-lazyadmin.md) | ⭐ 843 | JavaScript | 60/100 |
 | 214 | [timfewi/tentaflake](./timfewi-tentaflake.md) | ⭐ 32 | Nix | 60/100 |
 | 215 | [scylladb/scylla-operator](./scylladb-scylla-operator.md) | ⭐ 402 | Go | 60/100 |
@@ -245,7 +245,7 @@
 | 235 | [web-infra-dev/rsdoctor](./web-infra-dev-rsdoctor.md) | ⭐ 1.2k | TypeScript | 59/100 |
 | 236 | [kubernetes/perf-tests](./kubernetes-perf-tests.md) | ⭐ 992 | Go | 59/100 |
 | 237 | [spinnaker/spinnaker](./spinnaker-spinnaker.md) | ⭐ 9.8k | Java | 59/100 |
-| 238 | [DataDog/datadog-operator](./datadog-datadog-operator.md) | ⭐ 389 | Go | 59/100 |
+| 238 | [DataDog/datadog-operator](./datadog-datadog-operator.md) | ⭐ 388 | Go | 59/100 |
 | 239 | [metacontroller/metacontroller](./metacontroller-metacontroller.md) | ⭐ 1k | Go | 59/100 |
 | 240 | [unilabsim/UniLab](./unilabsim-unilab.md) | ⭐ 824 | Python | 59/100 |
 | 241 | [armadaproject/armada](./armadaproject-armada.md) | ⭐ 647 | Go | 59/100 |
@@ -290,13 +290,13 @@
 | 280 | [devops-works/binenv](./devops-works-binenv.md) | ⭐ 409 | Go | 57/100 |
 | 281 | [docker/model-runner](./docker-model-runner.md) | ⭐ 662 | Go | 57/100 |
 | 282 | [discourse/discourse_docker](./discourse-discourse-docker.md) | ⭐ 1.9k | Shell | 57/100 |
-| 283 | [volcano-sh/kthena](./volcano-sh-kthena.md) | ⭐ 498 | Go | 57/100 |
+| 283 | [volcano-sh/kthena](./volcano-sh-kthena.md) | ⭐ 499 | Go | 57/100 |
 | 284 | [aliyun/terraform-provider-alicloud](./aliyun-terraform-provider-alicloud.md) | ⭐ 666 | Go | 57/100 |
 | 285 | [rancher/k3k](./rancher-k3k.md) | ⭐ 921 | Go | 57/100 |
 | 286 | [jim60105/docker-whisperX](./jim60105-docker-whisperx.md) | ⭐ 459 | Dockerfile | 57/100 |
 | 287 | [Kovah/LinkAce](./kovah-linkace.md) | ⭐ 3.4k | PHP | 57/100 |
-| 288 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
-| 289 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 288 | [runtipi/runtipi-appstore](./runtipi-runtipi-appstore.md) | ⭐ 503 | JavaScript | 57/100 |
+| 289 | [gabehf/Koito](./gabehf-koito.md) | ⭐ 1.1k | Go | 57/100 |
 | 290 | [velero-io/velero](./velero-io-velero.md) | ⭐ 10.4k | Go | 57/100 |
 | 291 | [tackish/pigeoneye](./tackish-pigeoneye.md) | ⭐ 96 | — | 56/100 |
 | 292 | [softcane/codex-session-operator](./softcane-codex-session-operator.md) | ⭐ 6 | — | 56/100 |
@@ -321,7 +321,7 @@
 | 311 | [acrlabs/simkube](./acrlabs-simkube.md) | ⭐ 403 | Rust | 55/100 |
 | 312 | [huaweicloud/terraform-provider-huaweicloud](./huaweicloud-terraform-provider-huaweicloud.md) | ⭐ 275 | Go | 55/100 |
 | 313 | [kubernetes-sigs/zeitgeist](./kubernetes-sigs-zeitgeist.md) | ⭐ 206 | Go | 55/100 |
-| 314 | [imran31415/kube-coder](./imran31415-kube-coder.md) | ⭐ 410 | Python | 55/100 |
+| 314 | [imran31415/kube-coder](./imran31415-kube-coder.md) | ⭐ 411 | Python | 55/100 |
 | 315 | [edgelesssys/contrast](./edgelesssys-contrast.md) | ⭐ 324 | Go | 55/100 |
 | 316 | [stackitcloud/terraform-provider-stackit](./stackitcloud-terraform-provider-stackit.md) | ⭐ 198 | Go | 55/100 |
 | 317 | [project-akri/akri](./project-akri-akri.md) | ⭐ 1.3k | Rust | 55/100 |
@@ -387,7 +387,7 @@
 | 377 | [AzBuildDev/nas-device-flow](./azbuilddev-nas-device-flow.md) | ⭐ 2 | Python | 50/100 |
 | 378 | [edgestorage/task-handoff](./edgestorage-task-handoff.md) | ⭐ 6 | TypeScript | 50/100 |
 | 379 | [nuonco/nuon](./nuonco-nuon.md) | ⭐ 125 | Go | 50/100 |
-| 380 | [NixOS/infra](./nixos-infra.md) | ⭐ 388 | Nix | 50/100 |
+| 380 | [NixOS/infra](./nixos-infra.md) | ⭐ 389 | Nix | 50/100 |
 | 381 | [ricardomaraschini/oomhero](./ricardomaraschini-oomhero.md) | ⭐ 116 | Rust | 50/100 |
 | 382 | [bpg/terraform-provider-proxmox](./bpg-terraform-provider-proxmox.md) | ⭐ 2.3k | Go | 50/100 |
 | 383 | [kubie-org/kubie](./kubie-org-kubie.md) | ⭐ 2.7k | Rust | 50/100 |
@@ -424,7 +424,7 @@
 | 414 | [The-DevOps-Daily/do-agent-issue-to-pr](./the-devops-daily-do-agent-issue-to-pr.md) | ⭐ — | — | 46/100 |
 | 415 | [gisiahq/gisia](./gisiahq-gisia.md) | ⭐ 167 | Ruby | 46/100 |
 | 416 | [anway-dev/anway](./anway-dev-anway.md) | ⭐ 8 | — | 46/100 |
-| 417 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 398 | Go | 46/100 |
+| 417 | [jianyuan/terraform-provider-sentry](./jianyuan-terraform-provider-sentry.md) | ⭐ 399 | Go | 46/100 |
 | 418 | [docker-library/repo-info](./docker-library-repo-info.md) | ⭐ 612 | Perl | 46/100 |
 | 419 | [signadot/hotrod](./signadot-hotrod.md) | ⭐ 23 | Go | 46/100 |
 | 420 | [Flurit/applygate](./flurit-applygate.md) | ⭐ 6 | — | 45/100 |

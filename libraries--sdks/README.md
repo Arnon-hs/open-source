@@ -77,7 +77,7 @@
 | 67 | [GitLiveApp/firebase-kotlin-sdk](./gitliveapp-firebase-kotlin-sdk.md) | ⭐ 1.7k | Kotlin | 65/100 |
 | 68 | [Goldziher/spikard](./goldziher-spikard.md) | ⭐ 123 | Rust | 65/100 |
 | 69 | [godotengine/godot-cpp](./godotengine-godot-cpp.md) | ⭐ 2.8k | C++ | 65/100 |
-| 70 | [BitGo/BitGoJS](./bitgo-bitgojs.md) | ⭐ 397 | TypeScript | 65/100 |
+| 70 | [BitGo/BitGoJS](./bitgo-bitgojs.md) | ⭐ 398 | TypeScript | 65/100 |
 | 71 | [nix-rust/nix](./nix-rust-nix.md) | ⭐ 3.1k | Rust | 65/100 |
 | 72 | [apache/teaclave-trustzone-sdk](./apache-teaclave-trustzone-sdk.md) | ⭐ 287 | Rust | 64/100 |
 | 73 | [parse-community/Parse-SDK-JS](./parse-community-parse-sdk-js.md) | ⭐ 1.3k | JavaScript | 64/100 |
@@ -171,7 +171,7 @@
 | 161 | [esp-rs/esp-idf-sys](./esp-rs-esp-idf-sys.md) | ⭐ 405 | Rust | 57/100 |
 | 162 | [bitwarden/sdk-internal](./bitwarden-sdk-internal.md) | ⭐ 118 | Rust | 57/100 |
 | 163 | [apache/avro-rs](./apache-avro-rs.md) | ⭐ 132 | Rust | 57/100 |
-| 164 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 457 | Kotlin | 57/100 |
+| 164 | [stadiamaps/ferrostar](./stadiamaps-ferrostar.md) | ⭐ 458 | Kotlin | 57/100 |
 | 165 | [kubernetes-client/java](./kubernetes-client-java.md) | ⭐ 4k | Java | 57/100 |
 | 166 | [dotnet/macios](./dotnet-macios.md) | ⭐ 2.9k | C# | 57/100 |
 | 167 | [opencoredev/social-sdk](./opencoredev-social-sdk.md) | ⭐ 849 | — | 56/100 |
@@ -205,7 +205,7 @@
 | 195 | [Dario-Chang/Spark-Governance-SDK](./dario-chang-spark-governance-sdk.md) | ⭐ — | — | 53/100 |
 | 196 | [twistedfall/opencv-rust](./twistedfall-opencv-rust.md) | ⭐ 2.5k | Rust | 53/100 |
 | 197 | [beowolx/rensa](./beowolx-rensa.md) | ⭐ 320 | Rust | 53/100 |
-| 198 | [vhspace/sdl3-rs](./vhspace-sdl3-rs.md) | ⭐ 404 | Rust | 53/100 |
+| 198 | [vhspace/sdl3-rs](./vhspace-sdl3-rs.md) | ⭐ 405 | Rust | 53/100 |
 | 199 | [delta-io/delta-rs](./delta-io-delta-rs.md) | ⭐ 3.4k | Rust | 53/100 |
 | 200 | [element-hq/element-x-android](./element-hq-element-x-android.md) | ⭐ 2.5k | Kotlin | 53/100 |
 | 201 | [Enos2/my-sdk-work](./enos2-my-sdk-work.md) | ⭐ 1 | TypeScript | 53/100 |

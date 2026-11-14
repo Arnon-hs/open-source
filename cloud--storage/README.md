@@ -210,7 +210,7 @@
 | 200 | [versity/versitygw](./versity-versitygw.md) | ⭐ 3.1k | Go | 64/100 |
 | 201 | [k8gb-io/k8gb](./k8gb-io-k8gb.md) | ⭐ 1.4k | Go | 64/100 |
 | 202 | [Azure/aztfexport](./azure-aztfexport.md) | ⭐ 1.9k | Go | 64/100 |
-| 203 | [mogenius/renovate-operator](./mogenius-renovate-operator.md) | ⭐ 633 | Go | 64/100 |
+| 203 | [mogenius/renovate-operator](./mogenius-renovate-operator.md) | ⭐ 634 | Go | 64/100 |
 | 204 | [transferia/transferia](./transferia-transferia.md) | ⭐ 198 | Go | 64/100 |
 | 205 | [oxsecurity/megalinter](./oxsecurity-megalinter.md) | ⭐ 2.7k | Dockerfile | 64/100 |
 | 206 | [mxsm/rocketmq-rust](./mxsm-rocketmq-rust.md) | ⭐ 1.5k | Rust | 64/100 |
@@ -256,7 +256,7 @@
 | 246 | [NetSPI/gcpwn](./netspi-gcpwn.md) | ⭐ 319 | Python | 62/100 |
 | 247 | [raulcastillabravo/mistlock](./raulcastillabravo-mistlock.md) | ⭐ 488 | Python | 62/100 |
 | 248 | [canonical/microceph](./canonical-microceph.md) | ⭐ 399 | Go | 62/100 |
-| 249 | [cloudbase/garm](./cloudbase-garm.md) | ⭐ 463 | Go | 62/100 |
+| 249 | [cloudbase/garm](./cloudbase-garm.md) | ⭐ 464 | Go | 62/100 |
 | 250 | [KunMoe/kun-touchgal-next](./kunmoe-kun-touchgal-next.md) | ⭐ 852 | TypeScript | 62/100 |
 | 251 | [artifacthub/hub](./artifacthub-hub.md) | ⭐ 2.1k | TypeScript | 62/100 |
 | 252 | [AzureAD/microsoft-identity-web](./azuread-microsoft-identity-web.md) | ⭐ 792 | C# | 62/100 |
@@ -342,8 +342,8 @@
 | 332 | [siderolabs/talos](./siderolabs-talos.md) | ⭐ 11.5k | Go | 59/100 |
 | 333 | [taosdata/TDengine](./taosdata-tdengine.md) | ⭐ 25.2k | C | 59/100 |
 | 334 | [nats-io/nats.js](./nats-io-nats.js.md) | ⭐ 454 | TypeScript | 58/100 |
-| 335 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
-| 336 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 335 | [kubernetes-sigs/azurefile-csi-driver](./kubernetes-sigs-azurefile-csi-driver.md) | ⭐ 180 | Go | 58/100 |
+| 336 | [kubernetes-sigs/azuredisk-csi-driver](./kubernetes-sigs-azuredisk-csi-driver.md) | ⭐ 169 | Go | 58/100 |
 | 337 | [AzureAD/microsoft-authentication-library-for-dotnet](./azuread-microsoft-authentication-library-for-dotnet.md) | ⭐ 1.5k | C# | 58/100 |
 | 338 | [cloudlena/s3manager](./cloudlena-s3manager.md) | ⭐ 1.1k | Go | 58/100 |
 | 339 | [LerianStudio/midaz](./lerianstudio-midaz.md) | ⭐ 425 | Go | 58/100 |
@@ -453,7 +453,7 @@
 | 443 | [94fzb/zrlog](./94fzb-zrlog.md) | ⭐ 408 | Java | 54/100 |
 | 444 | [mitchmac/ServerlessWP](./mitchmac-serverlesswp.md) | ⭐ 692 | PHP | 54/100 |
 | 445 | [aws/aws-cdk-rfcs](./aws-aws-cdk-rfcs.md) | ⭐ 572 | JavaScript | 54/100 |
-| 446 | [s60sc/ESP32_AdBlocker](./s60sc-esp32-adblocker.md) | ⭐ 589 | C++ | 54/100 |
+| 446 | [s60sc/ESP32_AdBlocker](./s60sc-esp32-adblocker.md) | ⭐ 591 | C++ | 54/100 |
 | 447 | [objectify/objectify](./objectify-objectify.md) | ⭐ 728 | Java | 54/100 |
 | 448 | [terraform-aws-modules/terraform-aws-rds-aurora](./terraform-aws-modules-terraform-aws-rds-aurora.md) | ⭐ 421 | HCL | 54/100 |
 | 449 | [Azure/karpenter-provider-azure](./azure-karpenter-provider-azure.md) | ⭐ 558 | Go | 54/100 |
@@ -548,8 +548,8 @@
 | 538 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 539 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 540 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
-| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
+| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
 | 543 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 544 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 545 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |

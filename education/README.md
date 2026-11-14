@@ -36,7 +36,7 @@
 | 26 | [jbranchaud/til](./jbranchaud-til.md) | ⭐ 14.2k | Vim Script | 50/100 |
 | 27 | [alloy-rs/examples](./alloy-rs-examples.md) | ⭐ 232 | Rust | 49/100 |
 | 28 | [AloisSeckar/demos-java](./aloisseckar-demos-java.md) | ⭐ 26 | Java | 48/100 |
-| 29 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 384 | Rust | 45/100 |
+| 29 | [endbasic/endbasic](./endbasic-endbasic.md) | ⭐ 385 | Rust | 45/100 |
 | 30 | [modular/mojo-gpu-puzzles](./modular-mojo-gpu-puzzles.md) | ⭐ 441 | Mojo | 44/100 |
 | 31 | [ZOXEXIVO/open-football](./zoxexivo-open-football.md) | ⭐ 263 | Rust | 44/100 |
 | 32 | [nodo-labs-uk/awesome-socratic-tutor](./nodo-labs-uk-awesome-socratic-tutor.md) | ⭐ — | — | 41/100 |
