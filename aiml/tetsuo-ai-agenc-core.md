@@ -1,6 +1,6 @@
 # tetsuo-ai/agenc-core
 
-[![Stars](https://img.shields.io/github/stars/tetsuo-ai/agenc-core?style=flat-square&color=yellow)](https://github.com/tetsuo-ai/agenc-core/stargazers) [![Forks](https://img.shields.io/github/forks/tetsuo-ai/agenc-core?style=flat-square&color=blue)](https://github.com/tetsuo-ai/agenc-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-79%2F100-brightgreen?style=flat-square)](#)
+[![Stars](https://img.shields.io/github/stars/tetsuo-ai/agenc-core?style=flat-square&color=yellow)](https://github.com/tetsuo-ai/agenc-core/stargazers) [![Forks](https://img.shields.io/github/forks/tetsuo-ai/agenc-core?style=flat-square&color=blue)](https://github.com/tetsuo-ai/agenc-core/network) [![Language](https://img.shields.io/badge/lang-TypeScript-informational?style=flat-square)](#) [![Score](https://img.shields.io/badge/score-76%2F100-brightgreen?style=flat-square)](#)
 
 > Our goal is to multiply model capability per dollar of inference. AgenC is an open source framework that improves how any model plans, uses tools and checks its work.
 
@@ -11,7 +11,7 @@
 | ⭐ **Stars** | 133 |
 | 🍴 **Forks** | 18 |
 | 💻 **Language** | TypeScript |
-| 📈 **Score** | 79/100 |
+| 📈 **Score** | 76/100 |
 | 🗓️ **Last push** | 2026-11-11 |
 | 🔍 **Source** | story-link |
 
@@ -66,15 +66,15 @@ tetsuo-ai/agenc-core：tetsuo-ai/agenc-core helps add AI capability without star
 | Dimension | Score |
 |---|---:|
 | usefulness | 100/100 |
-| quality | 69/100 |
+| quality | 64/100 |
 | integration | 78/100 |
-| production | 74/100 |
-| outlook | 82/100 |
+| production | 67/100 |
+| outlook | 75/100 |
 | adoption | 42/100 |
 | categoryMatchCount | 200/100 |
 | stars | 45/100 |
 | forks | 32/100 |
-| recency | 100/100 |
+| recency | 80/100 |
 | topics | 100/100 |
 | sourceTrust | 70/100 |
 

@@ -483,7 +483,7 @@
 | 473 | [alphanumericentity/pdfairlock](./alphanumericentity-pdfairlock.md) | ⭐ — | TypeScript | 48/100 |
 | 474 | [marksmayo/Blazepdf](./marksmayo-blazepdf.md) | ⭐ 3 | — | 48/100 |
 | 475 | [Can-Ozan/DevToolbox](./can-ozan-devtoolbox.md) | ⭐ — | TypeScript | 48/100 |
-| 476 | [paper-instruments/paper-docx](./paper-instruments-paper-docx.md) | ⭐ 136 | — | 48/100 |
+| 476 | [paper-instruments/paper-docx](./paper-instruments-paper-docx.md) | ⭐ 137 | — | 48/100 |
 | 477 | [larrylot/citeguard](./larrylot-citeguard.md) | ⭐ 2 | — | 48/100 |
 | 478 | [CodeCreatorManMike/Kit-Bin](./codecreatormanmike-kit-bin.md) | ⭐ — | Astro | 48/100 |
 | 479 | [avelino/outl](./avelino-outl.md) | ⭐ 112 | Rust | 48/100 |
@@ -695,7 +695,7 @@
 | 685 | [jsvine/pdfplumber](./jsvine-pdfplumber.md) | ⭐ 10.9k | — | 38/100 |
 | 686 | [callosium/callosium](./callosium-callosium.md) | ⭐ 11 | — | 38/100 |
 | 687 | [genspark-ai/genoffice](./genspark-ai-genoffice.md) | ⭐ 12.3k | — | 38/100 |
-| 688 | [opendatalab/mineru](./opendatalab-mineru.md) | ⭐ 83.6k | — | 38/100 |
+| 688 | [opendatalab/mineru](./opendatalab-mineru.md) | ⭐ 83.7k | — | 38/100 |
 | 689 | [ramblingenzyme/ebookfs](./ramblingenzyme-ebookfs.md) | ⭐ 3 | — | 38/100 |
 | 690 | [xatuke/markdowngg](./xatuke-markdowngg.md) | ⭐ 11 | — | 38/100 |
 | 691 | [stevenjjobson/marvelous](./stevenjjobson-marvelous.md) | ⭐ 4 | — | 38/100 |
@@ -713,7 +713,7 @@
 | 703 | [gettalong/kramdown](./gettalong-kramdown.md) | ⭐ 1.8k | — | 38/100 |
 | 704 | [elipcs/grading-is-easy-feedback-is-hard](./elipcs-grading-is-easy-feedback-is-hard.md) | ⭐ — | — | 38/100 |
 | 705 | [futurepress/epub.js](./futurepress-epub.js.md) | ⭐ 7k | — | 38/100 |
-| 706 | [newptcai/repy](./newptcai-repy.md) | ⭐ 22 | — | 38/100 |
+| 706 | [newptcai/repy](./newptcai-repy.md) | ⭐ 23 | — | 38/100 |
 | 707 | [SignalPilot-Labs/AutoFyn](./signalpilot-labs-autofyn.md) | ⭐ — | — | 38/100 |
 | 708 | [stoilms/odyssey-ebook-michael-caine-elevenlabs-narration](./stoilms-odyssey-ebook-michael-caine-elevenlabs-narration.md) | ⭐ 3 | — | 38/100 |
 | 709 | [rekal-dev/rekal-cli](./rekal-dev-rekal-cli.md) | ⭐ — | — | 38/100 |

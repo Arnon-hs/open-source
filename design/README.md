@@ -185,7 +185,7 @@
 | 175 | [carsten-riedel/Coree.Analyzers](./carsten-riedel-coree.analyzers.md) | ⭐ 1 | C# | 39/100 |
 | 176 | [smakwana2/classifieds](./smakwana2-classifieds.md) | ⭐ — | Python | 39/100 |
 | 177 | [xevrion/breakscale](./xevrion-breakscale.md) | ⭐ — | — | 38/100 |
-| 178 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ 39 | — | 38/100 |
+| 178 | [MonkeyUI-dev/vibe-to-ui](./monkeyui-dev-vibe-to-ui.md) | ⭐ 40 | — | 38/100 |
 | 179 | [blentz/spec-forge](./blentz-spec-forge.md) | ⭐ — | — | 38/100 |
 | 180 | [usetrmnl/trmnl-framework](./usetrmnl-trmnl-framework.md) | ⭐ 120 | — | 38/100 |
 | 181 | [0xnyn/airship](./0xnyn-airship.md) | ⭐ 738 | — | 38/100 |

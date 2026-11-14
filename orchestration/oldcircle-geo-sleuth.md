@@ -21,31 +21,31 @@
 
 ## 🎯 Categories
 
-AI/ML · Automation
+Orchestration · AI/ML · DevTools
 
 ## 📝 Summary
 
 ### English
 
-Oldcircle/geo-sleuth: Oldcircle/geo-sleuth helps add AI capability without starting from a blank model stack.. Use it for prototype AI features; build RAG or agent workflows. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Oldcircle/geo-sleuth: Oldcircle/geo-sleuth helps turn isolated prompts and tools into repeatable agent workflows.. Use it for coordinate multi-agent workflows; add tool-use pipelines. Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ### Русский
 
-Oldcircle/geo-sleuth: open-source проект в категориях AI/ML, Automation. Практическое применение: prototype AI features; build RAG or agent workflows. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
+Oldcircle/geo-sleuth: open-source проект в категориях Orchestration, AI/ML, DevTools. Практическое применение: coordinate multi-agent workflows; add tool-use pipelines. Уровень готовности: подходит для прототипа или внутреннего workflow, перед production нужна ручная проверка.
 
 ### 中文
 
-Oldcircle/geo-sleuth：Oldcircle/geo-sleuth helps add AI capability without starting from a blank model stack.。适合用于prototype AI features、build RAG or agent workflows。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
+Oldcircle/geo-sleuth：Oldcircle/geo-sleuth helps turn isolated prompts and tools into repeatable agent workflows.。适合用于coordinate multi-agent workflows、add tool-use pipelines。Medium: useful for prototypes or internal workflows, with dependency and maintenance checks before production.
 
 ## 🧭 Practical evaluation
 
-**Value:** Oldcircle/geo-sleuth helps add AI capability without starting from a blank model stack.
+**Value:** Oldcircle/geo-sleuth helps turn isolated prompts and tools into repeatable agent workflows.
 
 **Best use cases**
 
-- prototype AI features
-- build RAG or agent workflows
-- evaluate model tooling
+- coordinate multi-agent workflows
+- add tool-use pipelines
+- standardize agent memory
 
 **Integration notes:** Looks straightforward to evaluate: it exposes implementation signals such as API/SDK/CLI, language metadata, or focused topics.
 
@@ -65,19 +65,19 @@ Oldcircle/geo-sleuth：Oldcircle/geo-sleuth helps add AI capability without star
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 74/100 |
-| quality | 81/100 |
-| integration | 62/100 |
-| production | 71/100 |
-| outlook | 80/100 |
-| adoption | 79/100 |
-| categoryMatchCount | 200/100 |
-| stars | 82/100 |
 | forks | 73/100 |
-| recency | 80/100 |
+| stars | 82/100 |
 | topics | 100/100 |
+| outlook | 80/100 |
+| quality | 81/100 |
+| recency | 80/100 |
+| adoption | 79/100 |
+| production | 71/100 |
+| usefulness | 74/100 |
+| integration | 62/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 300/100 |
 
 ---
 
-<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/Oldcircle/geo-sleuth) · [← Back to AI/ML](./README.md)</sub>
+<sub>🔭 Discovered 2026-11-07 · [View on GitHub](https://github.com/Oldcircle/geo-sleuth) · [← Back to Orchestration](./README.md)</sub>

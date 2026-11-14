@@ -65,18 +65,18 @@ Inlaylab/Opaline：Inlaylab/Opaline helps ship user-facing interfaces with less 
 
 | Dimension | Score |
 |---|---:|
-| usefulness | 42/100 |
-| quality | 48/100 |
-| integration | 46/100 |
-| production | 57/100 |
-| outlook | 54/100 |
-| adoption | 21/100 |
-| categoryMatchCount | 100/100 |
-| stars | 27/100 |
 | forks | 8/100 |
-| recency | 80/100 |
+| stars | 27/100 |
 | topics | 50/100 |
+| outlook | 54/100 |
+| quality | 48/100 |
+| recency | 80/100 |
+| adoption | 21/100 |
+| production | 57/100 |
+| usefulness | 42/100 |
+| integration | 46/100 |
 | sourceTrust | 70/100 |
+| categoryMatchCount | 100/100 |
 
 ---
 
