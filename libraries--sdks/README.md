@@ -71,7 +71,7 @@
 | 61 | [gophercloud/gophercloud](./gophercloud-gophercloud.md) | ⭐ 1k | Go | 65/100 |
 | 62 | [scs/substrate-api-client](./scs-substrate-api-client.md) | ⭐ 265 | Rust | 65/100 |
 | 63 | [getsentry/sentry-dart](./getsentry-sentry-dart.md) | ⭐ 877 | Dart | 65/100 |
-| 64 | [m-sec-org/BreachWeave](./m-sec-org-breachweave.md) | ⭐ 763 | TypeScript | 65/100 |
+| 64 | [m-sec-org/BreachWeave](./m-sec-org-breachweave.md) | ⭐ 765 | TypeScript | 65/100 |
 | 65 | [bnb-chain/bnbagent-sdk](./bnb-chain-bnbagent-sdk.md) | ⭐ 66 | Python | 65/100 |
 | 66 | [openai/openai-ruby](./openai-openai-ruby.md) | ⭐ 476 | Ruby | 65/100 |
 | 67 | [GitLiveApp/firebase-kotlin-sdk](./gitliveapp-firebase-kotlin-sdk.md) | ⭐ 1.7k | Kotlin | 65/100 |
@@ -104,7 +104,7 @@
 | 94 | [DataDog/dd-trace-dotnet](./datadog-dd-trace-dotnet.md) | ⭐ 573 | C# | 62/100 |
 | 95 | [qntx/ra2a](./qntx-ra2a.md) | ⭐ 167 | Rust | 62/100 |
 | 96 | [solariumphp/solarium](./solariumphp-solarium.md) | ⭐ 933 | PHP | 62/100 |
-| 97 | [temporalio/samples-typescript](./temporalio-samples-typescript.md) | ⭐ 472 | TypeScript | 62/100 |
+| 97 | [temporalio/samples-typescript](./temporalio-samples-typescript.md) | ⭐ 473 | TypeScript | 62/100 |
 | 98 | [auth0/lock](./auth0-lock.md) | ⭐ 1.1k | JavaScript | 62/100 |
 | 99 | [rust-lang/libc](./rust-lang-libc.md) | ⭐ 2.6k | Rust | 62/100 |
 | 100 | [bifrost-io/bifrost](./bifrost-io-bifrost.md) | ⭐ 489 | Rust | 62/100 |
@@ -141,7 +141,7 @@
 | 131 | [duckdb/duckdb-rs](./duckdb-duckdb-rs.md) | ⭐ 987 | Rust | 60/100 |
 | 132 | [CrankBoyHQ/crankboy-app](./crankboyhq-crankboy-app.md) | ⭐ 413 | C | 60/100 |
 | 133 | [bitwarden/sdk-sm](./bitwarden-sdk-sm.md) | ⭐ 504 | Rust | 60/100 |
-| 134 | [langfuse/langfuse-python](./langfuse-langfuse-python.md) | ⭐ 515 | Python | 60/100 |
+| 134 | [langfuse/langfuse-python](./langfuse-langfuse-python.md) | ⭐ 514 | Python | 60/100 |
 | 135 | [okunix/gollama](./okunix-gollama.md) | ⭐ 2 | — | 59/100 |
 | 136 | [sanity-io/client](./sanity-io-client.md) | ⭐ 114 | TypeScript | 59/100 |
 | 137 | [xai-org/xai-sdk-ts](./xai-org-xai-sdk-ts.md) | ⭐ 69 | — | 59/100 |
@@ -275,7 +275,7 @@
 | 265 | [s2-streamstore/nfs-crust](./s2-streamstore-nfs-crust.md) | ⭐ 9 | — | 45/100 |
 | 266 | [steel-experiments/atlas-demo](./steel-experiments-atlas-demo.md) | ⭐ 2 | — | 45/100 |
 | 267 | [Enclave-Social/enclave-mls-sdk](./enclave-social-enclave-mls-sdk.md) | ⭐ — | — | 45/100 |
-| 268 | [salva/jsqlite](./salva-jsqlite.md) | ⭐ — | — | 44/100 |
+| 268 | [salva/jsqlite](./salva-jsqlite.md) | ⭐ 1 | — | 44/100 |
 | 269 | [cattlecloud/litesql](./cattlecloud-litesql.md) | ⭐ 24 | — | 44/100 |
 | 270 | [deepdroptoronto/aperture](./deepdroptoronto-aperture.md) | ⭐ — | — | 44/100 |
 | 271 | [tpkarras/BasicOboe](./tpkarras-basicoboe.md) | ⭐ 2 | — | 44/100 |

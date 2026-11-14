@@ -57,7 +57,7 @@
 | 47 | [catfan/Medoo](./catfan-medoo.md) | ⭐ 4.9k | PHP | 65/100 |
 | 48 | [jackc/pgx](./jackc-pgx.md) | ⭐ 14.4k | Go | 65/100 |
 | 49 | [miniflux/v2](./miniflux-v2.md) | ⭐ 9.9k | Go | 65/100 |
-| 50 | [kzahel/yepanywhere](./kzahel-yepanywhere.md) | ⭐ 549 | TypeScript | 65/100 |
+| 50 | [kzahel/yepanywhere](./kzahel-yepanywhere.md) | ⭐ 551 | TypeScript | 65/100 |
 | 51 | [Pelski/ytzero](./pelski-ytzero.md) | ⭐ 676 | TypeScript | 64/100 |
 | 52 | [pelikan-io/pelikan](./pelikan-io-pelikan.md) | ⭐ 296 | Rust | 64/100 |
 | 53 | [krateng/maloja](./krateng-maloja.md) | ⭐ 1.9k | Python | 64/100 |
@@ -100,7 +100,7 @@
 | 90 | [cloudnative-pg/cloudnative-pg](./cloudnative-pg-cloudnative-pg.md) | ⭐ 9.6k | Go | 62/100 |
 | 91 | [grantjenks/python-diskcache](./grantjenks-python-diskcache.md) | ⭐ 2.9k | Python | 61/100 |
 | 92 | [dineug/erd-editor](./dineug-erd-editor.md) | ⭐ 1.8k | TypeScript | 61/100 |
-| 93 | [I-am-PUID-0/DUMB](./i-am-puid-0-dumb.md) | ⭐ 500 | Python | 61/100 |
+| 93 | [I-am-PUID-0/DUMB](./i-am-puid-0-dumb.md) | ⭐ 502 | Python | 61/100 |
 | 94 | [oschwald/geoip2-golang](./oschwald-geoip2-golang.md) | ⭐ 2.3k | Go | 61/100 |
 | 95 | [shaarli/Shaarli](./shaarli-shaarli.md) | ⭐ 3.9k | PHP | 61/100 |
 | 96 | [Phishing-Database/Phishing.Database](./phishing-database-phishing.database.md) | ⭐ 1.6k | — | 61/100 |
@@ -166,7 +166,7 @@
 | 156 | [procrastinate-org/procrastinate](./procrastinate-org-procrastinate.md) | ⭐ 1.4k | Python | 58/100 |
 | 157 | [evergreen-ci/evergreen](./evergreen-ci-evergreen.md) | ⭐ 450 | Go | 58/100 |
 | 158 | [mongodb-labs/flask-pymongo](./mongodb-labs-flask-pymongo.md) | ⭐ 723 | Python | 58/100 |
-| 159 | [googol-apps/Audiofy](./googol-apps-audiofy.md) | ⭐ 431 | Kotlin | 58/100 |
+| 159 | [googol-apps/Audiofy](./googol-apps-audiofy.md) | ⭐ 432 | Kotlin | 58/100 |
 | 160 | [EC-CUBE/ec-cube](./ec-cube-ec-cube.md) | ⭐ 792 | PHP | 58/100 |
 | 161 | [ebean-orm/ebean](./ebean-orm-ebean.md) | ⭐ 1.5k | Java | 58/100 |
 | 162 | [Part-DB/Part-DB-server](./part-db-part-db-server.md) | ⭐ 1.8k | PHP | 58/100 |
@@ -250,7 +250,7 @@
 | 240 | [Netflix/atlas](./netflix-atlas.md) | ⭐ 3.6k | Scala | 54/100 |
 | 241 | [fatkodima/online_migrations](./fatkodima-online-migrations.md) | ⭐ 758 | Ruby | 54/100 |
 | 242 | [cmu-db/dbdb.io](./cmu-db-dbdb.io.md) | ⭐ 593 | Python | 54/100 |
-| 243 | [apache/jackrabbit-oak](./apache-jackrabbit-oak.md) | ⭐ 415 | Java | 54/100 |
+| 243 | [apache/jackrabbit-oak](./apache-jackrabbit-oak.md) | ⭐ 416 | Java | 54/100 |
 | 244 | [cornucopia-rs/cornucopia](./cornucopia-rs-cornucopia.md) | ⭐ 1.2k | Rust | 54/100 |
 | 245 | [teorth/erdosproblems](./teorth-erdosproblems.md) | ⭐ 883 | Python | 54/100 |
 | 246 | [nikita-volkov/hasql](./nikita-volkov-hasql.md) | ⭐ 554 | Haskell | 54/100 |
@@ -554,8 +554,8 @@
 | 544 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 545 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 546 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 435 | — | 38/100 |
-| 547 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
-| 548 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
+| 547 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
+| 548 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
 | 549 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 550 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 551 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |
@@ -580,8 +580,8 @@
 | 570 | [JustVugg/loomabase](./justvugg-loomabase.md) | ⭐ 90 | — | 38/100 |
 | 571 | [yeet-src/redissnoop](./yeet-src-redissnoop.md) | ⭐ 26 | — | 38/100 |
 | 572 | [Egoist-Machines/LodeDB](./egoist-machines-lodedb.md) | ⭐ 107 | — | 38/100 |
-| 573 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 210 | — | 38/100 |
-| 574 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 573 | [cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb](./cpursley-c8fb81fe8a7e5df038158bdfe0f06dbb.md) | ⭐ — | — | 38/100 |
+| 574 | [dbos-inc/dbosify-py](./dbos-inc-dbosify-py.md) | ⭐ 210 | — | 38/100 |
 | 575 | [Crossdeckhq/buckets-oss](./crossdeckhq-buckets-oss.md) | ⭐ — | — | 38/100 |
 | 576 | [ayoubnabil/aiondb](./ayoubnabil-aiondb.md) | ⭐ 51 | — | 38/100 |
 | 577 | [taktekhq/petri](./taktekhq-petri.md) | ⭐ 4 | — | 38/100 |

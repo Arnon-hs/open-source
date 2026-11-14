@@ -101,7 +101,7 @@
 | 91 | [ashvardanian/StringWars](./ashvardanian-stringwars.md) | ⭐ 160 | Rust | 63/100 |
 | 92 | [fleetbase/fleetbase](./fleetbase-fleetbase.md) | ⭐ 4.6k | JavaScript | 63/100 |
 | 93 | [pyvista/pyvista](./pyvista-pyvista.md) | ⭐ 3.9k | Python | 63/100 |
-| 94 | [carina-studio/PixelViewer](./carina-studio-pixelviewer.md) | ⭐ 416 | C# | 63/100 |
+| 94 | [carina-studio/PixelViewer](./carina-studio-pixelviewer.md) | ⭐ 417 | C# | 63/100 |
 | 95 | [NASA-AMMOS/3DTilesRendererJS](./nasa-ammos-3dtilesrendererjs.md) | ⭐ 2.5k | JavaScript | 63/100 |
 | 96 | [debezium/debezium-examples](./debezium-debezium-examples.md) | ⭐ 1.7k | JavaScript | 63/100 |
 | 97 | [duckdb/duckdb](./duckdb-duckdb.md) | ⭐ 43k | C++ | 63/100 |
@@ -114,7 +114,7 @@
 | 104 | [ARM-DOE/pyart](./arm-doe-pyart.md) | ⭐ 611 | Python | 62/100 |
 | 105 | [ChartGPU/ChartGPU](./chartgpu-chartgpu.md) | ⭐ 3.3k | TypeScript | 62/100 |
 | 106 | [lf-edge/ekuiper](./lf-edge-ekuiper.md) | ⭐ 1.8k | Go | 62/100 |
-| 107 | [eclipse-rdf4j/rdf4j](./eclipse-rdf4j-rdf4j.md) | ⭐ 425 | Java | 62/100 |
+| 107 | [eclipse-rdf4j/rdf4j](./eclipse-rdf4j-rdf4j.md) | ⭐ 426 | Java | 62/100 |
 | 108 | [git-cola/git-cola](./git-cola-git-cola.md) | ⭐ 2.6k | Python | 62/100 |
 | 109 | [sindresorhus/p-queue](./sindresorhus-p-queue.md) | ⭐ 4.3k | TypeScript | 62/100 |
 | 110 | [fluent/fluent-bit](./fluent-fluent-bit.md) | ⭐ 8.2k | C | 62/100 |
@@ -159,7 +159,7 @@
 | 149 | [crate/crate](./crate-crate.md) | ⭐ 4.5k | Java | 60/100 |
 | 150 | [microsoft/Qcodes](./microsoft-qcodes.md) | ⭐ 470 | Python | 60/100 |
 | 151 | [protontypes/open-sustainable-technology](./protontypes-open-sustainable-technology.md) | ⭐ 2.6k | — | 60/100 |
-| 152 | [gotempsh/temps](./gotempsh-temps.md) | ⭐ 911 | Rust | 60/100 |
+| 152 | [gotempsh/temps](./gotempsh-temps.md) | ⭐ 915 | Rust | 60/100 |
 | 153 | [apache/beam](./apache-beam.md) | ⭐ 8.7k | Java | 60/100 |
 | 154 | [itskovacs/trip](./itskovacs-trip.md) | ⭐ 2k | TypeScript | 59/100 |
 | 155 | [KnowageLabs/Knowage-Server](./knowagelabs-knowage-server.md) | ⭐ 450 | Java | 59/100 |

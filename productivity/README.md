@@ -136,12 +136,12 @@
 | 126 | [tuist/tuist](./tuist-tuist.md) | ⭐ 5.9k | Swift | 60/100 |
 | 127 | [WLDKK/snippet-fidelity](./wldkk-snippet-fidelity.md) | ⭐ 5 | TypeScript | 59/100 |
 | 128 | [KING-UPE/DevDeck](./king-upe-devdeck.md) | ⭐ 2 | JavaScript | 59/100 |
-| 129 | [samirpatil2000/Buffer](./samirpatil2000-buffer.md) | ⭐ 480 | Swift | 59/100 |
+| 129 | [samirpatil2000/Buffer](./samirpatil2000-buffer.md) | ⭐ 479 | Swift | 59/100 |
 | 130 | [ever-co/ever-teams](./ever-co-ever-teams.md) | ⭐ 606 | TypeScript | 59/100 |
 | 131 | [tim-hub/obsidian-bible-reference](./tim-hub-obsidian-bible-reference.md) | ⭐ 348 | TypeScript | 59/100 |
 | 132 | [codewiththiha/OpenSlides](./codewiththiha-openslides.md) | ⭐ 243 | TypeScript | 59/100 |
 | 133 | [Ruben2776/PicView](./ruben2776-picview.md) | ⭐ 3.8k | C# | 59/100 |
-| 134 | [Y-ASLant/ElegantClipboard](./y-aslant-elegantclipboard.md) | ⭐ 489 | Rust | 59/100 |
+| 134 | [Y-ASLant/ElegantClipboard](./y-aslant-elegantclipboard.md) | ⭐ 491 | Rust | 59/100 |
 | 135 | [zhensherlock/intellij-platform-git-stats-plugin](./zhensherlock-intellij-platform-git-stats-plugin.md) | ⭐ 210 | Kotlin | 59/100 |
 | 136 | [kra-mo/cartridges](./kra-mo-cartridges.md) | ⭐ 822 | Python | 59/100 |
 | 137 | [timholy/Revise.jl](./timholy-revise.jl.md) | ⭐ 1.4k | Julia | 59/100 |
@@ -172,7 +172,7 @@
 | 162 | [NVIDIA/cuda-python](./nvidia-cuda-python.md) | ⭐ 3.4k | Cython | 57/100 |
 | 163 | [kushalpandya/Petrichor](./kushalpandya-petrichor.md) | ⭐ 1.8k | Swift | 57/100 |
 | 164 | [JackEblan/YagniLauncher](./jackeblan-yagnilauncher.md) | ⭐ 565 | Kotlin | 57/100 |
-| 165 | [an-anime-team/anime-games-launcher](./an-anime-team-anime-games-launcher.md) | ⭐ 490 | Rust | 57/100 |
+| 165 | [an-anime-team/anime-games-launcher](./an-anime-team-anime-games-launcher.md) | ⭐ 489 | Rust | 57/100 |
 | 166 | [Nitrolaunch/nitrolaunch](./nitrolaunch-nitrolaunch.md) | ⭐ 173 | Rust | 57/100 |
 | 167 | [ZalithLauncher/ZalithLauncher2](./zalithlauncher-zalithlauncher2.md) | ⭐ 2.2k | Kotlin | 57/100 |
 | 168 | [morapelker/hive](./morapelker-hive.md) | ⭐ 476 | TypeScript | 57/100 |
@@ -206,7 +206,7 @@
 | 196 | [FCL-Team/FoldCraftLauncher](./fcl-team-foldcraftlauncher.md) | ⭐ 5.2k | Java | 54/100 |
 | 197 | [Xoshbin/asyar](./xoshbin-asyar.md) | ⭐ 1k | Rust | 54/100 |
 | 198 | [Sirulex/cursor-clip](./sirulex-cursor-clip.md) | ⭐ 122 | Rust | 54/100 |
-| 199 | [l0ng-ai/papr](./l0ng-ai-papr.md) | ⭐ 592 | Rust | 54/100 |
+| 199 | [l0ng-ai/papr](./l0ng-ai-papr.md) | ⭐ 593 | Rust | 54/100 |
 | 200 | [ziadshalaby00/ZS-New-Tab](./ziadshalaby00-zs-new-tab.md) | ⭐ 1 | JavaScript | 53/100 |
 | 201 | [Comfy-Org/Comfy-Desktop](./comfy-org-comfy-desktop.md) | ⭐ 703 | TypeScript | 53/100 |
 | 202 | [fossasia/badgemagic-app](./fossasia-badgemagic-app.md) | ⭐ 2k | Dart | 53/100 |
@@ -241,7 +241,7 @@
 | 231 | [Mystic-Stars/Axolotl](./mystic-stars-axolotl.md) | ⭐ 107 | Rust | 50/100 |
 | 232 | [partydeck/partydeck](./partydeck-partydeck.md) | ⭐ 839 | Rust | 50/100 |
 | 233 | [lucky7xz/drako](./lucky7xz-drako.md) | ⭐ 42 | Go | 50/100 |
-| 234 | [wuxiran/cc-pane](./wuxiran-cc-pane.md) | ⭐ 568 | Rust | 50/100 |
+| 234 | [wuxiran/cc-pane](./wuxiran-cc-pane.md) | ⭐ 569 | Rust | 50/100 |
 | 235 | [Scighost/Starward](./scighost-starward.md) | ⭐ 4.6k | C# | 50/100 |
 | 236 | [saber-notes/saber](./saber-notes-saber.md) | ⭐ 5k | Dart | 50/100 |
 | 237 | [linearmouse/linearmouse](./linearmouse-linearmouse.md) | ⭐ 7.2k | Swift | 50/100 |
@@ -330,8 +330,8 @@
 | 320 | [micha42-dot/uxzView](./micha42-dot-uxzview.md) | ⭐ 2 | — | 41/100 |
 | 321 | [ramonmazinga/claude-code-multi-account-bridge](./ramonmazinga-claude-code-multi-account-bridge.md) | ⭐ — | — | 41/100 |
 | 322 | [jjba23/orpheus.el](./jjba23-orpheus.el.md) | ⭐ 6 | — | 41/100 |
-| 323 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
-| 324 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 21 | — | 41/100 |
+| 323 | [nicholas-ochoa/Procopticon](./nicholas-ochoa-procopticon.md) | ⭐ 21 | — | 41/100 |
+| 324 | [trthomps/claude-usage-widget](./trthomps-claude-usage-widget.md) | ⭐ 1 | — | 41/100 |
 | 325 | [LibreTranslate/PoLibre](./libretranslate-polibre.md) | ⭐ 2 | — | 41/100 |
 | 326 | [osigurdson/mib](./osigurdson-mib.md) | ⭐ 4 | — | 41/100 |
 | 327 | [Graham-04/filetree.app](./graham-04-filetree.app.md) | ⭐ 2 | — | 41/100 |
@@ -365,8 +365,8 @@
 | 355 | [AppsGanin/WashMyMac](./appsganin-washmymac.md) | ⭐ 1 | Swift | 39/100 |
 | 356 | [lovestaco/peektea](./lovestaco-peektea.md) | ⭐ 21 | — | 39/100 |
 | 357 | [OWNER/REPOSITORY](./owner-repository.md) | ⭐ — | — | 39/100 |
-| 358 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
-| 359 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 358 | [Phantas0s/devdash](./phantas0s-devdash.md) | ⭐ 1.6k | — | 39/100 |
+| 359 | [lovestaco/devto_devdash](./lovestaco-devto-devdash.md) | ⭐ 1 | — | 39/100 |
 | 360 | [lovestaco/semantic-search](./lovestaco-semantic-search.md) | ⭐ — | — | 39/100 |
 | 361 | [cloudflare/cloudflare-os](./cloudflare-cloudflare-os.md) | ⭐ 11.8k | — | 38/100 |
 | 362 | [tsirysndr/bsdkrun](./tsirysndr-bsdkrun.md) | ⭐ 42 | — | 38/100 |

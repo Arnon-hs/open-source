@@ -111,7 +111,7 @@
 | 101 | [synfig/synfig](./synfig-synfig.md) | ⭐ 2.4k | C++ | 50/100 |
 | 102 | [drawcms/drawcms](./drawcms-drawcms.md) | ⭐ 45 | — | 49/100 |
 | 103 | [finix-community/finix](./finix-community-finix.md) | ⭐ 619 | Nix | 49/100 |
-| 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 542 | Shell | 49/100 |
+| 104 | [vinceliuice/MacTahoe-icon-theme](./vinceliuice-mactahoe-icon-theme.md) | ⭐ 541 | Shell | 49/100 |
 | 105 | [kzhrknt/awesome-design-md-jp](./kzhrknt-awesome-design-md-jp.md) | ⭐ 1k | HTML | 49/100 |
 | 106 | [chemosim-lab/ProLIF](./chemosim-lab-prolif.md) | ⭐ 555 | Python | 49/100 |
 | 107 | [syxanash/awesome-web-desktops](./syxanash-awesome-web-desktops.md) | ⭐ 2.2k | Ruby | 49/100 |

@@ -44,7 +44,7 @@
 | 34 | [Foundry376/Mailspring](./foundry376-mailspring.md) | ⭐ 18k | JavaScript | 70/100 |
 | 35 | [pact-foundation/pact-go](./pact-foundation-pact-go.md) | ⭐ 963 | Go | 70/100 |
 | 36 | [openclaw/slacrawl](./openclaw-slacrawl.md) | ⭐ 238 | Go | 70/100 |
-| 37 | [project-robius/robrix](./project-robius-robrix.md) | ⭐ 518 | Rust | 70/100 |
+| 37 | [project-robius/robrix](./project-robius-robrix.md) | ⭐ 520 | Rust | 70/100 |
 | 38 | [wasp-lang/wasp](./wasp-lang-wasp.md) | ⭐ 18.8k | TypeScript | 70/100 |
 | 39 | [arikchakma/maily.to](./arikchakma-maily.to.md) | ⭐ 4k | TypeScript | 69/100 |
 | 40 | [centrifugal/centrifugo](./centrifugal-centrifugo.md) | ⭐ 11k | Go | 69/100 |
@@ -85,8 +85,8 @@
 | 75 | [suitenumerique/meet](./suitenumerique-meet.md) | ⭐ 2.5k | Python | 65/100 |
 | 76 | [d99kris/nchat](./d99kris-nchat.md) | ⭐ 2k | C++ | 65/100 |
 | 77 | [Chatterino/chatterino2](./chatterino-chatterino2.md) | ⭐ 2.6k | C++ | 65/100 |
-| 78 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
-| 79 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 78 | [mrusme/addrb](./mrusme-addrb.md) | ⭐ 38 | Go | 65/100 |
+| 79 | [mrusme/caldr](./mrusme-caldr.md) | ⭐ 54 | Go | 65/100 |
 | 80 | [stoatchat/for-web](./stoatchat-for-web.md) | ⭐ 779 | TypeScript | 65/100 |
 | 81 | [logto-io/logto](./logto-io-logto.md) | ⭐ 14.9k | TypeScript | 65/100 |
 | 82 | [natelindev/tsdav](./natelindev-tsdav.md) | ⭐ 362 | TypeScript | 65/100 |
@@ -240,7 +240,7 @@
 | 230 | [openmls/openmls](./openmls-openmls.md) | ⭐ 1.1k | Rust | 54/100 |
 | 231 | [ruma/ruma](./ruma-ruma.md) | ⭐ 749 | Rust | 54/100 |
 | 232 | [khaled-alshamaa/ar-php](./khaled-alshamaa-ar-php.md) | ⭐ 343 | PHP | 54/100 |
-| 233 | [lennart-k/rustical](./lennart-k-rustical.md) | ⭐ 576 | Rust | 54/100 |
+| 233 | [lennart-k/rustical](./lennart-k-rustical.md) | ⭐ 578 | Rust | 54/100 |
 | 234 | [containrrr/shoutrrr](./containrrr-shoutrrr.md) | ⭐ 1.7k | Go | 54/100 |
 | 235 | [telegramdesktop/tdesktop](./telegramdesktop-tdesktop.md) | ⭐ 33.6k | C++ | 54/100 |
 | 236 | [grloper/NoMorePwn-Password-Manager](./grloper-nomorepwn-password-manager.md) | ⭐ 1 | Python | 53/100 |
@@ -250,7 +250,7 @@
 | 240 | [stalwartlabs/mail-auth](./stalwartlabs-mail-auth.md) | ⭐ 130 | Rust | 53/100 |
 | 241 | [pydantic/ai-chat-ui](./pydantic-ai-chat-ui.md) | ⭐ 72 | TypeScript | 53/100 |
 | 242 | [hadashiA/VitalRouter](./hadashia-vitalrouter.md) | ⭐ 370 | C# | 53/100 |
-| 243 | [aree6/LiftShift](./aree6-liftshift.md) | ⭐ 530 | TypeScript | 53/100 |
+| 243 | [aree6/LiftShift](./aree6-liftshift.md) | ⭐ 531 | TypeScript | 53/100 |
 | 244 | [nextcloud/calendar](./nextcloud-calendar.md) | ⭐ 1.2k | JavaScript | 53/100 |
 | 245 | [ancsemi/Haven](./ancsemi-haven.md) | ⭐ 1k | JavaScript | 53/100 |
 | 246 | [resend/react-email](./resend-react-email.md) | ⭐ 19.9k | TypeScript | 53/100 |
@@ -286,7 +286,7 @@
 | 276 | [Expensify/App](./expensify-app.md) | ⭐ 5.1k | TypeScript | 50/100 |
 | 277 | [panda-sandeep/dearagent](./panda-sandeep-dearagent.md) | ⭐ 51 | — | 49/100 |
 | 278 | [adecubed/gigamail](./adecubed-gigamail.md) | ⭐ 19 | — | 49/100 |
-| 279 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 636 | Kotlin | 49/100 |
+| 279 | [teja2495/quick-search](./teja2495-quick-search.md) | ⭐ 640 | Kotlin | 49/100 |
 | 280 | [awslabs/mls-rs](./awslabs-mls-rs.md) | ⭐ 262 | Rust | 49/100 |
 | 281 | [freenet/river](./freenet-river.md) | ⭐ 314 | Rust | 49/100 |
 | 282 | [matrix-construct/tuwunel](./matrix-construct-tuwunel.md) | ⭐ 2.8k | Rust | 49/100 |
@@ -340,7 +340,7 @@
 | 330 | [matt0x6F/irc-client](./matt0x6f-irc-client.md) | ⭐ 16 | — | 45/100 |
 | 331 | [anuragmerndev/kontext-ai](./anuragmerndev-kontext-ai.md) | ⭐ 25 | — | 45/100 |
 | 332 | [3kh0/slick](./3kh0-slick.md) | ⭐ 119 | — | 45/100 |
-| 333 | [stalwartlabs/mail-parser](./stalwartlabs-mail-parser.md) | ⭐ 480 | Rust | 45/100 |
+| 333 | [stalwartlabs/mail-parser](./stalwartlabs-mail-parser.md) | ⭐ 481 | Rust | 45/100 |
 | 334 | [shellscape/jsx-email](./shellscape-jsx-email.md) | ⭐ 1.3k | TypeScript | 45/100 |
 | 335 | [continuwuity/continuwuity](./continuwuity-continuwuity.md) | ⭐ 1.2k | Rust | 45/100 |
 | 336 | [mautrix/gmessages](./mautrix-gmessages.md) | ⭐ — | — | 44/100 |

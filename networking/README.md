@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 787 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 564 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
-| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.4k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -236,7 +236,7 @@
 | 226 | [angeldevmobile/Flux-Post](./angeldevmobile-flux-post.md) | ⭐ 3 | TypeScript | 62/100 |
 | 227 | [nestthub/v2hub-api](./nestthub-v2hub-api.md) | ⭐ 2 | Python | 61/100 |
 | 228 | [murat-dogan/node-datachannel](./murat-dogan-node-datachannel.md) | ⭐ 423 | C++ | 61/100 |
-| 229 | [Leadaxe/LxBox](./leadaxe-lxbox.md) | ⭐ 749 | Dart | 61/100 |
+| 229 | [Leadaxe/LxBox](./leadaxe-lxbox.md) | ⭐ 751 | Dart | 61/100 |
 | 230 | [burghardt/easy-wg-quick](./burghardt-easy-wg-quick.md) | ⭐ 1.1k | Shell | 61/100 |
 | 231 | [haproxy/haproxy](./haproxy-haproxy.md) | ⭐ 7k | C | 61/100 |
 | 232 | [http-server-rs/http-server](./http-server-rs-http-server.md) | ⭐ 212 | Rust | 61/100 |
@@ -320,7 +320,7 @@
 | 310 | [ngtcp2/ngtcp2](./ngtcp2-ngtcp2.md) | ⭐ 1.5k | C | 58/100 |
 | 311 | [smol-rs/smol](./smol-rs-smol.md) | ⭐ 5.1k | Rust | 58/100 |
 | 312 | [DefGuard/defguard](./defguard-defguard.md) | ⭐ 2.9k | Rust | 58/100 |
-| 313 | [lalinsky/zio](./lalinsky-zio.md) | ⭐ 700 | Zig | 58/100 |
+| 313 | [lalinsky/zio](./lalinsky-zio.md) | ⭐ 701 | Zig | 58/100 |
 | 314 | [apache/cayenne](./apache-cayenne.md) | ⭐ 349 | Java | 58/100 |
 | 315 | [0x676e67/wreq](./0x676e67-wreq.md) | ⭐ 1.1k | Rust | 58/100 |
 | 316 | [mullvad/mullvadvpn-app](./mullvad-mullvadvpn-app.md) | ⭐ 7.8k | Rust | 58/100 |
@@ -409,12 +409,12 @@
 | 399 | [DefGuard/wireguard-rs](./defguard-wireguard-rs.md) | ⭐ 342 | Rust | 54/100 |
 | 400 | [chatgpt-helper-tech/airport-access](./chatgpt-helper-tech-airport-access.md) | ⭐ 817 | — | 54/100 |
 | 401 | [tonarino/innernet](./tonarino-innernet.md) | ⭐ 5.6k | Rust | 54/100 |
-| 402 | [okhsunrog/vpnhide](./okhsunrog-vpnhide.md) | ⭐ 687 | Kotlin | 54/100 |
+| 402 | [okhsunrog/vpnhide](./okhsunrog-vpnhide.md) | ⭐ 689 | Kotlin | 54/100 |
 | 403 | [lazytiger/trojan-rs](./lazytiger-trojan-rs.md) | ⭐ 223 | Rust | 54/100 |
 | 404 | [tolinkshare2/tolinkshare2.github.io](./tolinkshare2-tolinkshare2.github.io.md) | ⭐ 540 | — | 54/100 |
 | 405 | [AlchemillaHQ/Sylve](./alchemillahq-sylve.md) | ⭐ 1.2k | Go | 54/100 |
 | 406 | [GrapheneOS/grapheneos.org](./grapheneos-grapheneos.org.md) | ⭐ 794 | HTML | 54/100 |
-| 407 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 594 | Rust | 54/100 |
+| 407 | [p2panda/p2panda](./p2panda-p2panda.md) | ⭐ 596 | Rust | 54/100 |
 | 408 | [aa-proxy/aa-proxy-rs](./aa-proxy-aa-proxy-rs.md) | ⭐ 520 | Rust | 54/100 |
 | 409 | [agronholm/anyio](./agronholm-anyio.md) | ⭐ 2.6k | Python | 54/100 |
 | 410 | [sigcli/sigcli](./sigcli-sigcli.md) | ⭐ 293 | TypeScript | 54/100 |
@@ -432,7 +432,7 @@
 | 422 | [vacp2p/nim-libp2p](./vacp2p-nim-libp2p.md) | ⭐ 316 | Nim | 53/100 |
 | 423 | [ipverse/country-ip-blocks](./ipverse-country-ip-blocks.md) | ⭐ 491 | — | 53/100 |
 | 424 | [ldoubil/astral](./ldoubil-astral.md) | ⭐ 1.2k | Dart | 53/100 |
-| 425 | [ClusterM/open-bamboo-networking](./clusterm-open-bamboo-networking.md) | ⭐ 605 | C++ | 53/100 |
+| 425 | [ClusterM/open-bamboo-networking](./clusterm-open-bamboo-networking.md) | ⭐ 606 | C++ | 53/100 |
 | 426 | [RingsNetwork/rings](./ringsnetwork-rings.md) | ⭐ 221 | Rust | 53/100 |
 | 427 | [ripaojiedian/freenode](./ripaojiedian-freenode.md) | ⭐ 2.4k | — | 53/100 |
 | 428 | [ALIILAPRO/v2rayNG-Config](./aliilapro-v2rayng-config.md) | ⭐ 377 | HTML | 53/100 |
@@ -485,7 +485,7 @@
 | 475 | [proxifly/free-proxy-list](./proxifly-free-proxy-list.md) | ⭐ 7k | — | 51/100 |
 | 476 | [ntex-rs/ntex](./ntex-rs-ntex.md) | ⭐ 2.6k | Rust | 51/100 |
 | 477 | [EasyTier/EasyTier](./easytier-easytier.md) | ⭐ 14.7k | Rust | 51/100 |
-| 478 | [amnezia-vpn/amneziawg-android](./amnezia-vpn-amneziawg-android.md) | ⭐ 595 | Kotlin | 50/100 |
+| 478 | [amnezia-vpn/amneziawg-android](./amnezia-vpn-amneziawg-android.md) | ⭐ 596 | Kotlin | 50/100 |
 | 479 | [manic-systems/ncro](./manic-systems-ncro.md) | ⭐ 158 | Rust | 50/100 |
 | 480 | [Ground-Zerro/HydraRoute](./ground-zerro-hydraroute.md) | ⭐ 665 | C | 50/100 |
 | 481 | [paritytech/litep2p](./paritytech-litep2p.md) | ⭐ 167 | Rust | 50/100 |
@@ -514,7 +514,7 @@
 | 504 | [NVIDIA/infra-controller](./nvidia-infra-controller.md) | ⭐ 204 | Rust | 49/100 |
 | 505 | [juhovh/tailguard](./juhovh-tailguard.md) | ⭐ 611 | Shell | 49/100 |
 | 506 | [rustonbsd/iroh-ssh](./rustonbsd-iroh-ssh.md) | ⭐ 337 | Rust | 49/100 |
-| 507 | [CharlesPikachu/freeproxy](./charlespikachu-freeproxy.md) | ⭐ 584 | Python | 49/100 |
+| 507 | [CharlesPikachu/freeproxy](./charlespikachu-freeproxy.md) | ⭐ 585 | Python | 49/100 |
 | 508 | [s4wave/spacewave](./s4wave-spacewave.md) | ⭐ 591 | Go | 49/100 |
 | 509 | [lalmachado/steady-socket](./lalmachado-steady-socket.md) | ⭐ 2 | — | 48/100 |
 | 510 | [9seconds/mtg](./9seconds-mtg.md) | ⭐ 3.7k | Go | 48/100 |
@@ -638,7 +638,7 @@
 | 628 | [SalzDevs/groxy](./salzdevs-groxy.md) | ⭐ 15 | — | 41/100 |
 | 629 | [radkesvat/WaterWall](./radkesvat-waterwall.md) | ⭐ 596 | C | 41/100 |
 | 630 | [shlima/keneetic-antifilter](./shlima-keneetic-antifilter.md) | ⭐ 508 | Batchfile | 41/100 |
-| 631 | [mmpx12/proxy-list](./mmpx12-proxy-list.md) | ⭐ 436 | — | 41/100 |
+| 631 | [mmpx12/proxy-list](./mmpx12-proxy-list.md) | ⭐ 437 | — | 41/100 |
 | 632 | [arcuru/eidetica](./arcuru-eidetica.md) | ⭐ 120 | Rust | 41/100 |
 | 633 | [sanskarIN/SpeedPulse](./sanskarin-speedpulse.md) | ⭐ 1 | HTML | 39/100 |
 | 634 | [Mrtracker-new/NetPlus](./mrtracker-new-netplus.md) | ⭐ — | — | 39/100 |

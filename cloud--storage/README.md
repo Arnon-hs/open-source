@@ -224,7 +224,7 @@
 | 214 | [minio/minio-rs](./minio-minio-rs.md) | ⭐ 370 | Rust | 63/100 |
 | 215 | [one2nc/cloudlens](./one2nc-cloudlens.md) | ⭐ 596 | Go | 63/100 |
 | 216 | [netr0m/az-pim-cli](./netr0m-az-pim-cli.md) | ⭐ 119 | Go | 63/100 |
-| 217 | [Ivy-Interactive/Ivy-Framework](./ivy-interactive-ivy-framework.md) | ⭐ 437 | C# | 63/100 |
+| 217 | [Ivy-Interactive/Ivy-Framework](./ivy-interactive-ivy-framework.md) | ⭐ 438 | C# | 63/100 |
 | 218 | [getmoto/moto](./getmoto-moto.md) | ⭐ 8.7k | Python | 63/100 |
 | 219 | [salesforce/cloudsplaining](./salesforce-cloudsplaining.md) | ⭐ 2.3k | JavaScript | 63/100 |
 | 220 | [kube-logging/logging-operator](./kube-logging-logging-operator.md) | ⭐ 1.7k | Go | 63/100 |
@@ -239,7 +239,7 @@
 | 229 | [GoogleCloudPlatform/khi](./googlecloudplatform-khi.md) | ⭐ 2.1k | Go | 63/100 |
 | 230 | [orioledb/orioledb](./orioledb-orioledb.md) | ⭐ 4.3k | C | 63/100 |
 | 231 | [aws-actions/amazon-ecr-login](./aws-actions-amazon-ecr-login.md) | ⭐ 1.1k | JavaScript | 63/100 |
-| 232 | [plutonhq/pluton](./plutonhq-pluton.md) | ⭐ 883 | TypeScript | 63/100 |
+| 232 | [plutonhq/pluton](./plutonhq-pluton.md) | ⭐ 884 | TypeScript | 63/100 |
 | 233 | [openebs/openebs](./openebs-openebs.md) | ⭐ 9.8k | — | 63/100 |
 | 234 | [noobaa/noobaa-operator](./noobaa-noobaa-operator.md) | ⭐ 145 | Go | 63/100 |
 | 235 | [HeyPuter/puter](./heyputer-puter.md) | ⭐ 44.2k | JavaScript | 63/100 |
@@ -443,7 +443,7 @@
 | 433 | [envoyproxy/envoy](./envoyproxy-envoy.md) | ⭐ 29.2k | C++ | 55/100 |
 | 434 | [ByteNess/aws-vault](./byteness-aws-vault.md) | ⭐ 486 | Go | 55/100 |
 | 435 | [fluvio-community/fluvio](./fluvio-community-fluvio.md) | ⭐ 5.3k | Rust | 55/100 |
-| 436 | [Azure/azure-cli-extensions](./azure-azure-cli-extensions.md) | ⭐ 456 | Python | 55/100 |
+| 436 | [Azure/azure-cli-extensions](./azure-azure-cli-extensions.md) | ⭐ 457 | Python | 55/100 |
 | 437 | [rivet-dev/rivet](./rivet-dev-rivet.md) | ⭐ 6.9k | Rust | 55/100 |
 | 438 | [deuxfleurs-org/garage](./deuxfleurs-org-garage.md) | ⭐ 4.9k | Rust | 55/100 |
 | 439 | [apache/opendal](./apache-opendal.md) | ⭐ 5.5k | Rust | 55/100 |
@@ -521,7 +521,7 @@
 | 511 | [rmarable/ParallelClusterMaker](./rmarable-parallelclustermaker.md) | ⭐ 6 | — | 49/100 |
 | 512 | [coregit-inc/coregit-api](./coregit-inc-coregit-api.md) | ⭐ 34 | TypeScript | 49/100 |
 | 513 | [apache/pekko](./apache-pekko.md) | ⭐ 1.7k | Scala | 49/100 |
-| 514 | [openabdev/openab](./openabdev-openab.md) | ⭐ 836 | Rust | 49/100 |
+| 514 | [openabdev/openab](./openabdev-openab.md) | ⭐ 837 | Rust | 49/100 |
 | 515 | [Azure/azure-functions-core-tools](./azure-azure-functions-core-tools.md) | ⭐ 1.5k | C# | 49/100 |
 | 516 | [alekseev04051988-blip/ai-cost-calculator](./alekseev04051988-blip-ai-cost-calculator.md) | ⭐ 1 | — | 48/100 |
 | 517 | [datareceipts/data-receipts](./datareceipts-data-receipts.md) | ⭐ — | — | 48/100 |
@@ -548,8 +548,8 @@
 | 538 | [ClickHouse/pg_chdb](./clickhouse-pg-chdb.md) | ⭐ 25 | — | 45/100 |
 | 539 | [tigrisdata/objgit](./tigrisdata-objgit.md) | ⭐ 151 | — | 45/100 |
 | 540 | [vasinov/ridge-core](./vasinov-ridge-core.md) | ⭐ — | — | 45/100 |
-| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
-| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 541 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 10 | Python | 45/100 |
+| 542 | [plexavo/Plexavo](./plexavo-plexavo.md) | ⭐ 2 | Python | 45/100 |
 | 543 | [elleVas/cloudrift](./ellevas-cloudrift.md) | ⭐ 14 | — | 45/100 |
 | 544 | [0hardik1/awsmux](./0hardik1-awsmux.md) | ⭐ 29 | — | 45/100 |
 | 545 | [rockwotj/chorus](./rockwotj-chorus.md) | ⭐ 51 | — | 45/100 |

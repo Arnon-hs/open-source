@@ -28,7 +28,7 @@
 | 18 | [AISEO-VirtualabDigital/mcp-video-editor](./aiseo-virtualabdigital-mcp-video-editor.md) | ⭐ 80 | TypeScript | 80/100 |
 | 19 | [Shaitrish/37studio](./shaitrish-37studio.md) | ⭐ 163 | Go | 80/100 |
 | 20 | [krillinai/OpenCreator](./krillinai-opencreator.md) | ⭐ 14.3k | TypeScript | 80/100 |
-| 21 | [hetpatel-11/Adobe_Premiere_Pro_MCP](./hetpatel-11-adobe-premiere-pro-mcp.md) | ⭐ 865 | TypeScript | 80/100 |
+| 21 | [hetpatel-11/Adobe_Premiere_Pro_MCP](./hetpatel-11-adobe-premiere-pro-mcp.md) | ⭐ 870 | TypeScript | 80/100 |
 | 22 | [KyaniteLabs/kinocut](./kyanitelabs-kinocut.md) | ⭐ 268 | Python | 80/100 |
 | 23 | [Orkas-AI/Orkas-VideoStudio](./orkas-ai-orkas-videostudio.md) | ⭐ 348 | TypeScript | 80/100 |
 | 24 | [Rich627/whatsapp-claude-plugin](./rich627-whatsapp-claude-plugin.md) | ⭐ 119 | TypeScript | 80/100 |
@@ -203,8 +203,8 @@
 | 193 | [Banuba/ve-sdk-ios-integration-sample](./banuba-ve-sdk-ios-integration-sample.md) | ⭐ 103 | Swift | 67/100 |
 | 194 | [UditAkhourii/cdaf](./uditakhourii-cdaf.md) | ⭐ 226 | Python | 67/100 |
 | 195 | [remotion-dev/template-tiktok](./remotion-dev-template-tiktok.md) | ⭐ 308 | TypeScript | 67/100 |
-| 196 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 379 | TypeScript | 67/100 |
-| 197 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
+| 196 | [cyberlesterr/paper-collage-video](./cyberlesterr-paper-collage-video.md) | ⭐ 255 | JavaScript | 67/100 |
+| 197 | [hassancs91/claude-youtube-editor](./hassancs91-claude-youtube-editor.md) | ⭐ 379 | TypeScript | 67/100 |
 | 198 | [cropflre/nowen-video](./cropflre-nowen-video.md) | ⭐ 239 | Go | 67/100 |
 | 199 | [buxuku/SmartSub](./buxuku-smartsub.md) | ⭐ 6k | TypeScript | 67/100 |
 | 200 | [lgy1027/matrix-live-diarizer](./lgy1027-matrix-live-diarizer.md) | ⭐ 133 | Python | 67/100 |
@@ -323,7 +323,7 @@
 | 313 | [0xS4N4TG/papercut-explainer](./0xs4n4tg-papercut-explainer.md) | ⭐ 207 | TypeScript | 62/100 |
 | 314 | [AK-DREAM/DIRECT-Claw](./ak-dream-direct-claw.md) | ⭐ 28 | Python | 62/100 |
 | 315 | [ffmpegwasm/ffmpeg.wasm](./ffmpegwasm-ffmpeg.wasm.md) | ⭐ 18k | C | 62/100 |
-| 316 | [yuxino/kiri](./yuxino-kiri.md) | ⭐ 563 | Rust | 62/100 |
+| 316 | [yuxino/kiri](./yuxino-kiri.md) | ⭐ 564 | Rust | 62/100 |
 | 317 | [degueba/onda](./degueba-onda.md) | ⭐ 31 | TypeScript | 62/100 |
 | 318 | [SysAdminDoc/VideoSubtitleRemover](./sysadmindoc-videosubtitleremover.md) | ⭐ 112 | Python | 62/100 |
 | 319 | [blixvip/MotionClone](./blixvip-motionclone.md) | ⭐ 108 | Python | 62/100 |
@@ -503,10 +503,10 @@
 | 493 | [darkgrade/darkgrade](./darkgrade-darkgrade.md) | ⭐ 35 | TypeScript | 55/100 |
 | 494 | [TheAcharya/OpenFCPXMLKit](./theacharya-openfcpxmlkit.md) | ⭐ 29 | Swift | 55/100 |
 | 495 | [VectorInstitute/vector-inference](./vectorinstitute-vector-inference.md) | ⭐ 111 | Python | 55/100 |
-| 496 | [VoylinsGamedevJourney/gozen](./voylinsgamedevjourney-gozen.md) | ⭐ 469 | GDScript | 55/100 |
+| 496 | [VoylinsGamedevJourney/gozen](./voylinsgamedevjourney-gozen.md) | ⭐ 468 | GDScript | 55/100 |
 | 497 | [OpenMOSS/MOSS-Transcribe-Diarize](./openmoss-moss-transcribe-diarize.md) | ⭐ 2.3k | Python | 55/100 |
 | 498 | [Kobaayyy/Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2026-ECCV2024-AIGC](./kobaayyy-awesome-cvpr2026-cvpr2025-iccv2025-cvpr2024-eccv2026-eccv2024-aigc.md) | ⭐ 676 | — | 55/100 |
-| 499 | [moona3k/macparakeet](./moona3k-macparakeet.md) | ⭐ 786 | Swift | 55/100 |
+| 499 | [moona3k/macparakeet](./moona3k-macparakeet.md) | ⭐ 787 | Swift | 55/100 |
 | 500 | [Arthur031221/Spokecut](./arthur031221-spokecut.md) | ⭐ — | Python | 55/100 |
 | 501 | [Isaias53838/movavi-screen-capture-studio](./isaias53838-movavi-screen-capture-studio.md) | ⭐ 102 | TypeScript | 54/100 |
 | 502 | [Mar56677/hitpaw-video-compressor](./mar56677-hitpaw-video-compressor.md) | ⭐ 102 | TypeScript | 54/100 |
@@ -520,8 +520,8 @@
 | 510 | [stemdeckapp/stemdeck](./stemdeckapp-stemdeck.md) | ⭐ 4.4k | JavaScript | 54/100 |
 | 511 | [zhaohuaxs/DyLike](./zhaohuaxs-dylike.md) | ⭐ 50 | Kotlin | 53/100 |
 | 512 | [Forgemind-git/ForgeChat](./forgemind-git-forgechat.md) | ⭐ 67 | — | 53/100 |
-| 513 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
-| 514 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 513 | [philippprimisser-max/faster-whisper-gap-check](./philippprimisser-max-faster-whisper-gap-check.md) | ⭐ — | — | 53/100 |
+| 514 | [libass/libass](./libass-libass.md) | ⭐ 1.2k | — | 53/100 |
 | 515 | [philippprimisser-max/whisper-word-captions](./philippprimisser-max-whisper-word-captions.md) | ⭐ — | — | 53/100 |
 | 516 | [shengshu-ai/Vidu-S](./shengshu-ai-vidu-s.md) | ⭐ 524 | — | 53/100 |
 | 517 | [fraunhoferhhi/vvenc](./fraunhoferhhi-vvenc.md) | ⭐ — | — | 53/100 |

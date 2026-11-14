@@ -58,7 +58,7 @@
 | 48 | [cookiy-ai/user-research-skill](./cookiy-ai-user-research-skill.md) | ⭐ 1.6k | Shell | 68/100 |
 | 49 | [twjackysu/TWSEMCPServer](./twjackysu-twsemcpserver.md) | ⭐ 186 | Python | 68/100 |
 | 50 | [ZhuLinsen/daily_stock_analysis](./zhulinsen-daily-stock-analysis.md) | ⭐ 71.6k | Python | 68/100 |
-| 51 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 917 | Python | 68/100 |
+| 51 | [jjang-ai/vmlx](./jjang-ai-vmlx.md) | ⭐ 918 | Python | 68/100 |
 | 52 | [rburkholder/trade-frame](./rburkholder-trade-frame.md) | ⭐ 687 | C++ | 67/100 |
 | 53 | [hugodemenez/deltalytix](./hugodemenez-deltalytix.md) | ⭐ 163 | TypeScript | 67/100 |
 | 54 | [highflame-ai/zeroid](./highflame-ai-zeroid.md) | ⭐ 213 | Go | 67/100 |
@@ -85,8 +85,8 @@
 | 75 | [wingfoil-io/wingfoil](./wingfoil-io-wingfoil.md) | ⭐ 232 | Rust | 64/100 |
 | 76 | [PMTraderAdam/500-per-day-trading-bot](./pmtraderadam-500-per-day-trading-bot.md) | ⭐ 348 | TypeScript | 64/100 |
 | 77 | [Forsy-AI/agent-apprenticeship](./forsy-ai-agent-apprenticeship.md) | ⭐ 802 | — | 64/100 |
-| 78 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 333 | Go | 63/100 |
-| 79 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 670 | Jupyter Notebook | 63/100 |
+| 78 | [leoncuhk/awesome-quant-ai](./leoncuhk-awesome-quant-ai.md) | ⭐ 670 | Jupyter Notebook | 63/100 |
+| 79 | [bensema/gotdx](./bensema-gotdx.md) | ⭐ 333 | Go | 63/100 |
 | 80 | [akfamily/akquant](./akfamily-akquant.md) | ⭐ 2.6k | Python | 63/100 |
 | 81 | [BoboTiG/py-candlestick-chart](./bobotig-py-candlestick-chart.md) | ⭐ 129 | Python | 63/100 |
 | 82 | [klinecharts/KLineChart](./klinecharts-klinechart.md) | ⭐ 4.3k | TypeScript | 63/100 |

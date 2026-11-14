@@ -196,7 +196,7 @@
 | 186 | [yanliudesign/offer-toolkit-skill](./yanliudesign-offer-toolkit-skill.md) | ⭐ 572 | HTML | 69/100 |
 | 187 | [cargo-generate/cargo-generate](./cargo-generate-cargo-generate.md) | ⭐ 2.5k | Rust | 69/100 |
 | 188 | [BorisPolonsky/dify-helm](./borispolonsky-dify-helm.md) | ⭐ 679 | Go Template | 69/100 |
-| 189 | [davekilleen/Dex](./davekilleen-dex.md) | ⭐ 515 | Python | 69/100 |
+| 189 | [davekilleen/Dex](./davekilleen-dex.md) | ⭐ 516 | Python | 69/100 |
 | 190 | [raulvidis/openclaw-multi-agent-kit](./raulvidis-openclaw-multi-agent-kit.md) | ⭐ 391 | — | 69/100 |
 | 191 | [VigoZhao/AI-Visual-Prompt-Cookbook](./vigozhao-ai-visual-prompt-cookbook.md) | ⭐ 845 | Python | 69/100 |
 | 192 | [clarity-digital-development/tworkflow](./clarity-digital-development-tworkflow.md) | ⭐ 46 | Python | 69/100 |
@@ -371,7 +371,7 @@
 | 361 | [thought2code/mcp-annotated-java-sdk](./thought2code-mcp-annotated-java-sdk.md) | ⭐ 33 | Java | 60/100 |
 | 362 | [aimeos/pagible](./aimeos-pagible.md) | ⭐ 604 | PHP | 60/100 |
 | 363 | [onedr0p/cluster-template](./onedr0p-cluster-template.md) | ⭐ 2.8k | YAML | 60/100 |
-| 364 | [Alchemyst-ai/awesome-saas](./alchemyst-ai-awesome-saas.md) | ⭐ 421 | TypeScript | 60/100 |
+| 364 | [Alchemyst-ai/awesome-saas](./alchemyst-ai-awesome-saas.md) | ⭐ 422 | TypeScript | 60/100 |
 | 365 | [chrisdoc/hevy-mcp](./chrisdoc-hevy-mcp.md) | ⭐ 539 | TypeScript | 60/100 |
 | 366 | [product-on-purpose/pm-skills](./product-on-purpose-pm-skills.md) | ⭐ 802 | PowerShell | 60/100 |
 | 367 | [trueforge-org/truecharts](./trueforge-org-truecharts.md) | ⭐ 1.4k | Go Template | 60/100 |
@@ -446,7 +446,7 @@
 | 436 | [mcmah309/eros](./mcmah309-eros.md) | ⭐ 452 | Rust | 51/100 |
 | 437 | [missdeer/coredns_custom_build](./missdeer-coredns-custom-build.md) | ⭐ 330 | Go Template | 51/100 |
 | 438 | [jonringer/nix-template](./jonringer-nix-template.md) | ⭐ 227 | Rust | 51/100 |
-| 439 | [TheBevyFlock/bevy_new_2d](./thebevyflock-bevy-new-2d.md) | ⭐ 497 | Rust | 50/100 |
+| 439 | [TheBevyFlock/bevy_new_2d](./thebevyflock-bevy-new-2d.md) | ⭐ 498 | Rust | 50/100 |
 | 440 | [jamescherti/minimal-emacs.d](./jamescherti-minimal-emacs.d.md) | ⭐ 928 | Emacs Lisp | 50/100 |
 | 441 | [muhammadyulasfipahrizal/gitops](./muhammadyulasfipahrizal-gitops.md) | ⭐ — | Go Template | 50/100 |
 | 442 | [P4Software/SheetStream](./p4software-sheetstream.md) | ⭐ — | C# | 49/100 |
