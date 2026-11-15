@@ -43,7 +43,7 @@
 | 33 | [l1xnan/duckling](./l1xnan-duckling.md) | ⭐ 586 | TypeScript | 66/100 |
 | 34 | [hibernate/hibernate-orm](./hibernate-hibernate-orm.md) | ⭐ 6.5k | Java | 66/100 |
 | 35 | [dj-nitehawk/MongoDB.Entities](./dj-nitehawk-mongodb.entities.md) | ⭐ 565 | C# | 66/100 |
-| 36 | [rqlite/rqlite](./rqlite-rqlite.md) | ⭐ 17.9k | Go | 66/100 |
+| 36 | [rqlite/rqlite](./rqlite-rqlite.md) | ⭐ 18k | Go | 66/100 |
 | 37 | [ron190/jsql-injection](./ron190-jsql-injection.md) | ⭐ 1.8k | Java | 66/100 |
 | 38 | [scylladb/scylladb](./scylladb-scylladb.md) | ⭐ 15.8k | C++ | 66/100 |
 | 39 | [alisaifee/limits](./alisaifee-limits.md) | ⭐ 655 | Python | 66/100 |
@@ -446,7 +446,7 @@
 | 436 | [Dicklesworthstone/frankensqlite](./dicklesworthstone-frankensqlite.md) | ⭐ 251 | Rust | 42/100 |
 | 437 | [merkhet-io/morletdb](./merkhet-io-morletdb.md) | ⭐ — | — | 41/100 |
 | 438 | [geldata/gel](./geldata-gel.md) | ⭐ 14.2k | — | 41/100 |
-| 439 | [swiftstream/Duck](./swiftstream-duck.md) | ⭐ 25 | — | 41/100 |
+| 439 | [swiftstream/Duck](./swiftstream-duck.md) | ⭐ 28 | — | 41/100 |
 | 440 | [barddoo/tsfm-pg](./barddoo-tsfm-pg.md) | ⭐ 1 | — | 41/100 |
 | 441 | [joao00001/pg-regression-radar](./joao00001-pg-regression-radar.md) | ⭐ 14 | — | 41/100 |
 | 442 | [Pragadeesh-19/nodusdb](./pragadeesh-19-nodusdb.md) | ⭐ 2 | — | 41/100 |
@@ -555,8 +555,8 @@
 | 545 | [a24films/puffgres](./a24films-puffgres.md) | ⭐ 52 | — | 38/100 |
 | 546 | [el10savio/duckWatch](./el10savio-duckwatch.md) | ⭐ 1 | — | 38/100 |
 | 547 | [ClouGence/open-cdm](./clougence-open-cdm.md) | ⭐ 435 | — | 38/100 |
-| 548 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
-| 549 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 548 | [aaemnnosttv/wp-sqlite-db](./aaemnnosttv-wp-sqlite-db.md) | ⭐ 585 | — | 38/100 |
+| 549 | [dbtrail/dbtrail](./dbtrail-dbtrail.md) | ⭐ 71 | — | 38/100 |
 | 550 | [Apakottur/pgmig](./apakottur-pgmig.md) | ⭐ 12 | — | 38/100 |
 | 551 | [JetBrains/youtrackdb](./jetbrains-youtrackdb.md) | ⭐ 443 | — | 38/100 |
 | 552 | [mnesimiyilmaz/sql4json](./mnesimiyilmaz-sql4json.md) | ⭐ 18 | — | 38/100 |

@@ -15,7 +15,7 @@
 | 5 | [jdepoix/youtube-transcript-api](./jdepoix-youtube-transcript-api.md) | ⭐ 8.6k | Python | 86/100 |
 | 6 | [ChatCut-Inc/agent-plugin](./chatcut-inc-agent-plugin.md) | ⭐ 1k | JavaScript | 85/100 |
 | 7 | [Anil-matcha/open-genjutsu](./anil-matcha-open-genjutsu.md) | ⭐ 1k | JavaScript | 85/100 |
-| 8 | [zhouxiaoka/autoclip](./zhouxiaoka-autoclip.md) | ⭐ 10.4k | Python | 84/100 |
+| 8 | [zhouxiaoka/autoclip](./zhouxiaoka-autoclip.md) | ⭐ 10.5k | Python | 84/100 |
 | 9 | [0xsline/OpenChatCut](./0xsline-openchatcut.md) | ⭐ 3.1k | TypeScript | 84/100 |
 | 10 | [oxbshw/watch-skill](./oxbshw-watch-skill.md) | ⭐ 578 | Python | 83/100 |
 | 11 | [FavioVazquez/showtime](./faviovazquez-showtime.md) | ⭐ 331 | Python | 82/100 |
@@ -27,7 +27,7 @@
 | 17 | [calesthio/OpenMontage](./calesthio-openmontage.md) | ⭐ 15.6k | Python | 81/100 |
 | 18 | [AISEO-VirtualabDigital/mcp-video-editor](./aiseo-virtualabdigital-mcp-video-editor.md) | ⭐ 80 | TypeScript | 80/100 |
 | 19 | [Shaitrish/37studio](./shaitrish-37studio.md) | ⭐ 164 | Go | 80/100 |
-| 20 | [krillinai/OpenCreator](./krillinai-opencreator.md) | ⭐ 14.3k | TypeScript | 80/100 |
+| 20 | [krillinai/OpenCreator](./krillinai-opencreator.md) | ⭐ 14.4k | TypeScript | 80/100 |
 | 21 | [hetpatel-11/Adobe_Premiere_Pro_MCP](./hetpatel-11-adobe-premiere-pro-mcp.md) | ⭐ 870 | TypeScript | 80/100 |
 | 22 | [KyaniteLabs/kinocut](./kyanitelabs-kinocut.md) | ⭐ 268 | Python | 80/100 |
 | 23 | [Orkas-AI/Orkas-VideoStudio](./orkas-ai-orkas-videostudio.md) | ⭐ 349 | TypeScript | 80/100 |
@@ -41,7 +41,7 @@
 | 31 | [6v17/VideoSeek](./6v17-videoseek.md) | ⭐ 120 | Python | 79/100 |
 | 32 | [rendobar/cli](./rendobar-cli.md) | ⭐ 27 | TypeScript | 79/100 |
 | 33 | [krillinai/KrillinAI](./krillinai-krillinai.md) | ⭐ 10.5k | Go | 79/100 |
-| 34 | [heygen-com/hyperframes](./heygen-com-hyperframes.md) | ⭐ 83.9k | TypeScript | 79/100 |
+| 34 | [heygen-com/hyperframes](./heygen-com-hyperframes.md) | ⭐ 84.3k | TypeScript | 79/100 |
 | 35 | [shotstack/shotstack-sdk-node](./shotstack-shotstack-sdk-node.md) | ⭐ 38 | JavaScript | 78/100 |
 | 36 | [WeftCut/WeftCut](./weftcut-weftcut.md) | ⭐ 335 | TypeScript | 78/100 |
 | 37 | [vargHQ/skills](./varghq-skills.md) | ⭐ 32 | Python | 77/100 |
@@ -145,7 +145,7 @@
 | 135 | [EverythingAI-Pro/ai-video-editor](./everythingai-pro-ai-video-editor.md) | ⭐ 30 | Python | 70/100 |
 | 136 | [getcoherence/studio](./getcoherence-studio.md) | ⭐ 80 | TypeScript | 70/100 |
 | 137 | [bozhouDev/video-skills-toolkit](./bozhoudev-video-skills-toolkit.md) | ⭐ 165 | JavaScript | 70/100 |
-| 138 | [Zulko/moviepy](./zulko-moviepy.md) | ⭐ 15.1k | Python | 70/100 |
+| 138 | [Zulko/moviepy](./zulko-moviepy.md) | ⭐ 15.2k | Python | 70/100 |
 | 139 | [Megafitzkiln/video-editor-works](./megafitzkiln-video-editor-works.md) | ⭐ 23 | — | 70/100 |
 | 140 | [linzzzzzz/openclip](./linzzzzzz-openclip.md) | ⭐ 580 | Python | 70/100 |
 | 141 | [haidrrrry/claude-remotion-skill](./haidrrrry-claude-remotion-skill.md) | ⭐ 996 | TypeScript | 70/100 |
@@ -160,7 +160,7 @@
 | 150 | [BeatAPI/BeatDesign](./beatapi-beatdesign.md) | ⭐ 4 | TypeScript | 69/100 |
 | 151 | [SamurAIGPT/Text-To-Video-AI](./samuraigpt-text-to-video-ai.md) | ⭐ 6 | Jupyter Notebook | 69/100 |
 | 152 | [22kk12/mengwei-local-leads-workbench](./22kk12-mengwei-local-leads-workbench.md) | ⭐ 188 | Python | 69/100 |
-| 153 | [debpalash/VoiceStudio](./debpalash-voicestudio.md) | ⭐ 110k | Python | 69/100 |
+| 153 | [debpalash/VoiceStudio](./debpalash-voicestudio.md) | ⭐ 110.7k | Python | 69/100 |
 | 154 | [JimLiu/baocut](./jimliu-baocut.md) | ⭐ 1.8k | Shell | 69/100 |
 | 155 | [AcademySoftwareFoundation/OpenTimelineIO](./academysoftwarefoundation-opentimelineio.md) | ⭐ 2.1k | Python | 69/100 |
 | 156 | [AKMessi/vex](./akmessi-vex.md) | ⭐ 100 | Python | 69/100 |
@@ -184,7 +184,7 @@
 | 174 | [seydx/node-av](./seydx-node-av.md) | ⭐ 392 | TypeScript | 68/100 |
 | 175 | [tvheadend/tvheadend](./tvheadend-tvheadend.md) | ⭐ 3.6k | C | 68/100 |
 | 176 | [Agents365-ai/video-podcast-maker](./agents365-ai-video-podcast-maker.md) | ⭐ 1.7k | Python | 68/100 |
-| 177 | [palmier-io/palmier-pro](./palmier-io-palmier-pro.md) | ⭐ 14.7k | Swift | 68/100 |
+| 177 | [palmier-io/palmier-pro](./palmier-io-palmier-pro.md) | ⭐ 14.8k | Swift | 68/100 |
 | 178 | [Ajatt-Tools/kitsunekko-mirror](./ajatt-tools-kitsunekko-mirror.md) | ⭐ 383 | SRecode Template | 68/100 |
 | 179 | [XimilalaXiang/DeLive](./ximilalaxiang-delive.md) | ⭐ 261 | TypeScript | 68/100 |
 | 180 | [hydropix/TranslateBooksWithLLMs](./hydropix-translatebookswithllms.md) | ⭐ 2.6k | Python | 68/100 |
@@ -579,8 +579,8 @@
 | 569 | [ozanvos/monoprint](./ozanvos-monoprint.md) | ⭐ 19 | — | 48/100 |
 | 570 | [sb-dor/Extracter](./sb-dor-extracter.md) | ⭐ 1 | Dart | 48/100 |
 | 571 | [AlperSrgn/VideoDownloader](./alpersrgn-videodownloader.md) | ⭐ 3 | Python | 48/100 |
-| 572 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
-| 573 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 572 | [takahiro-saeki/game-jam-lab](./takahiro-saeki-game-jam-lab.md) | ⭐ 1 | — | 48/100 |
+| 573 | [takahiro-saeki/articles](./takahiro-saeki-articles.md) | ⭐ 1 | — | 48/100 |
 | 574 | [pikadexofc/export-capcut-pro-video-free](./pikadexofc-export-capcut-pro-video-free.md) | ⭐ 1 | Python | 48/100 |
 | 575 | [geneva-render/geneva](./geneva-render-geneva.md) | ⭐ 34 | — | 48/100 |
 | 576 | [summitsingh/ai-video-factory](./summitsingh-ai-video-factory.md) | ⭐ 22 | — | 48/100 |

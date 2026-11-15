@@ -16,7 +16,7 @@
 | 6 | [github/opensource.guide](./github-opensource.guide.md) | ⭐ 15.8k | HTML | 63/100 |
 | 7 | [ysig/GraKeL](./ysig-grakel.md) | ⭐ 647 | Python | 62/100 |
 | 8 | [gofiber/recipes](./gofiber-recipes.md) | ⭐ 3.5k | Go | 61/100 |
-| 9 | [zyronon/TypeWords](./zyronon-typewords.md) | ⭐ 11.8k | CSS | 60/100 |
+| 9 | [zyronon/TypeWords](./zyronon-typewords.md) | ⭐ 11.9k | CSS | 60/100 |
 | 10 | [eunomia-bpf/bpf-developer-tutorial](./eunomia-bpf-bpf-developer-tutorial.md) | ⭐ 4.3k | C | 59/100 |
 | 11 | [INGInious/INGInious](./inginious-inginious.md) | ⭐ 242 | Python | 58/100 |
 | 12 | [pion/example-webrtc-applications](./pion-example-webrtc-applications.md) | ⭐ 1.4k | Go | 58/100 |

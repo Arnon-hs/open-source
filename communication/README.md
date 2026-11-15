@@ -273,7 +273,7 @@
 | 263 | [SlimeBoyOwO/LingChat](./slimeboyowo-lingchat.md) | ⭐ 2.5k | Rust | 51/100 |
 | 264 | [themadorg/madmail](./themadorg-madmail.md) | ⭐ 209 | Rust | 51/100 |
 | 265 | [versatica/mediasoup](./versatica-mediasoup.md) | ⭐ 7.4k | C++ | 51/100 |
-| 266 | [maillab/cloud-mail](./maillab-cloud-mail.md) | ⭐ 15.7k | JavaScript | 51/100 |
+| 266 | [maillab/cloud-mail](./maillab-cloud-mail.md) | ⭐ 15.9k | JavaScript | 51/100 |
 | 267 | [mpiorowski/late-sh](./mpiorowski-late-sh.md) | ⭐ 1.5k | Rust | 51/100 |
 | 268 | [thunderbird/thunderbird-android](./thunderbird-thunderbird-android.md) | ⭐ 14.2k | Kotlin | 51/100 |
 | 269 | [aeron-io/aeron](./aeron-io-aeron.md) | ⭐ 9k | Java | 51/100 |

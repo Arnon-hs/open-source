@@ -69,8 +69,8 @@
 | 59 | [anywherelan/awl](./anywherelan-awl.md) | ⭐ 787 | Go | 70/100 |
 | 60 | [blob42/gosuki](./blob42-gosuki.md) | ⭐ 564 | Go | 70/100 |
 | 61 | [apache/thrift](./apache-thrift.md) | ⭐ 11k | C++ | 70/100 |
-| 62 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
-| 63 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 62 | [hwdsl2/openvpn-install](./hwdsl2-openvpn-install.md) | ⭐ 1.8k | Shell | 70/100 |
+| 63 | [hwdsl2/wireguard-install](./hwdsl2-wireguard-install.md) | ⭐ 3.3k | Shell | 70/100 |
 | 64 | [encode/httpx](./encode-httpx.md) | ⭐ 15.8k | Python | 69/100 |
 | 65 | [axios/axios](./axios-axios.md) | ⭐ 109.4k | JavaScript | 69/100 |
 | 66 | [websockets/ws](./websockets-ws.md) | ⭐ 22.8k | JavaScript | 69/100 |
@@ -101,7 +101,7 @@
 | 91 | [plabayo/rama](./plabayo-rama.md) | ⭐ 1.3k | Rust | 68/100 |
 | 92 | [0xERR0R/blocky](./0xerr0r-blocky.md) | ⭐ 7.1k | Go | 68/100 |
 | 93 | [voidauth/voidauth](./voidauth-voidauth.md) | ⭐ 2.9k | TypeScript | 67/100 |
-| 94 | [daijro/camoufox](./daijro-camoufox.md) | ⭐ 13.2k | C++ | 67/100 |
+| 94 | [daijro/camoufox](./daijro-camoufox.md) | ⭐ 13.3k | C++ | 67/100 |
 | 95 | [juanfont/headscale](./juanfont-headscale.md) | ⭐ 45.7k | Go | 67/100 |
 | 96 | [NginxProxyManager/nginx-proxy-manager](./nginxproxymanager-nginx-proxy-manager.md) | ⭐ 34.7k | TypeScript | 67/100 |
 | 97 | [PurpleI2P/i2pd](./purplei2p-i2pd.md) | ⭐ 4.3k | C++ | 67/100 |
@@ -438,7 +438,7 @@
 | 428 | [ALIILAPRO/v2rayNG-Config](./aliilapro-v2rayng-config.md) | ⭐ 377 | HTML | 53/100 |
 | 429 | [Tght1211/lan-proxy-gateway](./tght1211-lan-proxy-gateway.md) | ⭐ 545 | Go | 53/100 |
 | 430 | [simgine/bevy_replicon](./simgine-bevy-replicon.md) | ⭐ 662 | Rust | 53/100 |
-| 431 | [free-nodes/v2rayfree](./free-nodes-v2rayfree.md) | ⭐ 15k | — | 53/100 |
+| 431 | [free-nodes/v2rayfree](./free-nodes-v2rayfree.md) | ⭐ 15.1k | — | 53/100 |
 | 432 | [xinggaoya/sing-box-windows](./xinggaoya-sing-box-windows.md) | ⭐ 914 | Rust | 53/100 |
 | 433 | [ancwrd1/snx-rs](./ancwrd1-snx-rs.md) | ⭐ 542 | Rust | 53/100 |
 | 434 | [ivpn/ios-app](./ivpn-ios-app.md) | ⭐ 577 | Swift | 53/100 |
@@ -484,7 +484,7 @@
 | 474 | [httptoolkit/httptoolkit-ui](./httptoolkit-httptoolkit-ui.md) | ⭐ 383 | TypeScript | 51/100 |
 | 475 | [proxifly/free-proxy-list](./proxifly-free-proxy-list.md) | ⭐ 7k | — | 51/100 |
 | 476 | [ntex-rs/ntex](./ntex-rs-ntex.md) | ⭐ 2.6k | Rust | 51/100 |
-| 477 | [EasyTier/EasyTier](./easytier-easytier.md) | ⭐ 14.7k | Rust | 51/100 |
+| 477 | [EasyTier/EasyTier](./easytier-easytier.md) | ⭐ 14.8k | Rust | 51/100 |
 | 478 | [amnezia-vpn/amneziawg-android](./amnezia-vpn-amneziawg-android.md) | ⭐ 596 | Kotlin | 50/100 |
 | 479 | [manic-systems/ncro](./manic-systems-ncro.md) | ⭐ 159 | Rust | 50/100 |
 | 480 | [Ground-Zerro/HydraRoute](./ground-zerro-hydraroute.md) | ⭐ 665 | C | 50/100 |

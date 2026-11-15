@@ -87,7 +87,7 @@
 | 77 | [nateherkai/hyperframes-student-kit](./nateherkai-hyperframes-student-kit.md) | ⭐ 616 | HTML | 66/100 |
 | 78 | [getcurate/reel-studio](./getcurate-reel-studio.md) | ⭐ 83 | TypeScript | 65/100 |
 | 79 | [hey-yx/allparse](./hey-yx-allparse.md) | ⭐ 106 | TypeScript | 65/100 |
-| 80 | [mutonby/openshorts](./mutonby-openshorts.md) | ⭐ 8k | Python | 65/100 |
+| 80 | [mutonby/openshorts](./mutonby-openshorts.md) | ⭐ 8.3k | Python | 65/100 |
 | 81 | [hey-yx/short-video-extractor](./hey-yx-short-video-extractor.md) | ⭐ 103 | TypeScript | 65/100 |
 | 82 | [JuneYaooo/cheap-claude-video](./juneyaooo-cheap-claude-video.md) | ⭐ 53 | Python | 65/100 |
 | 83 | [chyiiiiiiiiiiii/yiibu](./chyiiiiiiiiiiii-yiibu.md) | ⭐ 27 | HTML | 65/100 |

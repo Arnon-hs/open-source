@@ -30,7 +30,7 @@
 | 20 | [danielpaulus/go-ios](./danielpaulus-go-ios.md) | ⭐ 2.3k | Go | 66/100 |
 | 21 | [utkarshdalal/GameNative](./utkarshdalal-gamenative.md) | ⭐ 11.8k | Kotlin | 66/100 |
 | 22 | [Cap-go/capacitor-updater](./cap-go-capacitor-updater.md) | ⭐ 887 | Java | 66/100 |
-| 23 | [Droid-ify/client](./droid-ify-client.md) | ⭐ 7.7k | Kotlin | 66/100 |
+| 23 | [Droid-ify/client](./droid-ify-client.md) | ⭐ 7.8k | Kotlin | 66/100 |
 | 24 | [poingstudios/godot-admob-plugin](./poingstudios-godot-admob-plugin.md) | ⭐ 652 | GDScript | 66/100 |
 | 25 | [music-assistant/mobile-app](./music-assistant-mobile-app.md) | ⭐ 730 | Kotlin | 66/100 |
 | 26 | [gojue/ecapture](./gojue-ecapture.md) | ⭐ 15.5k | C | 66/100 |
@@ -41,7 +41,7 @@
 | 31 | [TGX-Android/Telegram-X](./tgx-android-telegram-x.md) | ⭐ 6.2k | Java | 65/100 |
 | 32 | [Docile-Alligator/Infinity-For-Reddit](./docile-alligator-infinity-for-reddit.md) | ⭐ 5.5k | Java | 65/100 |
 | 33 | [jellyfin/Swiftfin](./jellyfin-swiftfin.md) | ⭐ 4.3k | Swift | 65/100 |
-| 34 | [JingMatrix/Vector](./jingmatrix-vector.md) | ⭐ 13.1k | Kotlin | 64/100 |
+| 34 | [JingMatrix/Vector](./jingmatrix-vector.md) | ⭐ 13.2k | Kotlin | 64/100 |
 | 35 | [square/leakcanary](./square-leakcanary.md) | ⭐ 30k | Kotlin | 64/100 |
 | 36 | [lautarovculic/ioscpy](./lautarovculic-ioscpy.md) | ⭐ 231 | Rust | 64/100 |
 | 37 | [flutter-webrtc/flutter-webrtc](./flutter-webrtc-flutter-webrtc.md) | ⭐ 4.5k | C++ | 64/100 |
@@ -98,9 +98,9 @@
 | 88 | [axkr/symja_android_library](./axkr-symja-android-library.md) | ⭐ 469 | Java | 62/100 |
 | 89 | [brave/brave-browser](./brave-brave-browser.md) | ⭐ 24.2k | — | 62/100 |
 | 90 | [FreeRDP/FreeRDP](./freerdp-freerdp.md) | ⭐ 14k | C | 62/100 |
-| 91 | [tiann/KernelSU](./tiann-kernelsu.md) | ⭐ 20.5k | Kotlin | 61/100 |
+| 91 | [tiann/KernelSU](./tiann-kernelsu.md) | ⭐ 20.6k | Kotlin | 61/100 |
 | 92 | [axiel7/AniHyou-android](./axiel7-anihyou-android.md) | ⭐ 635 | Kotlin | 61/100 |
-| 93 | [maxrave-dev/SimpMusic](./maxrave-dev-simpmusic.md) | ⭐ 13.3k | Kotlin | 61/100 |
+| 93 | [maxrave-dev/SimpMusic](./maxrave-dev-simpmusic.md) | ⭐ 13.4k | Kotlin | 61/100 |
 | 94 | [Provenance-Emu/Provenance](./provenance-emu-provenance.md) | ⭐ 6.4k | C | 61/100 |
 | 95 | [Universal-Debloater-Alliance/universal-android-debloater-next-generation](./universal-debloater-alliance-universal-android-debloater-next-generation.md) | ⭐ 10.1k | Rust | 61/100 |
 | 96 | [rust-windowing/winit](./rust-windowing-winit.md) | ⭐ 6.3k | Rust | 61/100 |
@@ -108,8 +108,8 @@
 | 98 | [markusfisch/BinaryEye](./markusfisch-binaryeye.md) | ⭐ 2.5k | Kotlin | 61/100 |
 | 99 | [LivingWithHippos/unchained-android](./livingwithhippos-unchained-android.md) | ⭐ 648 | Kotlin | 61/100 |
 | 100 | [pachli/pachli-android](./pachli-pachli-android.md) | ⭐ 264 | Kotlin | 61/100 |
-| 101 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
-| 102 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 955 | C++ | 61/100 |
+| 101 | [mariuszgromada/MathParser.org-mXparser](./mariuszgromada-mathparser.org-mxparser.md) | ⭐ 955 | C++ | 61/100 |
+| 102 | [victrme/Bonjourr](./victrme-bonjourr.md) | ⭐ 2.2k | TypeScript | 61/100 |
 | 103 | [Geocld/XStreaming](./geocld-xstreaming.md) | ⭐ 923 | JavaScript | 61/100 |
 | 104 | [mozilla-mobile/firefox-ios](./mozilla-mobile-firefox-ios.md) | ⭐ 13.1k | Swift | 61/100 |
 | 105 | [nextcloud/android](./nextcloud-android.md) | ⭐ 5.7k | Kotlin | 61/100 |
@@ -294,8 +294,8 @@
 | 284 | [solkin/appteka-android](./solkin-appteka-android.md) | ⭐ 1.4k | Kotlin | 55/100 |
 | 285 | [tabletseeker/mobian](./tabletseeker-mobian.md) | ⭐ 276 | Shell | 55/100 |
 | 286 | [square/wire](./square-wire.md) | ⭐ 4.4k | Kotlin | 55/100 |
-| 287 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 1.6k | Kotlin | 55/100 |
-| 288 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 968 | Kotlin | 55/100 |
+| 287 | [jordond/MaterialKolor](./jordond-materialkolor.md) | ⭐ 968 | Kotlin | 55/100 |
+| 288 | [rawnaldclark/Stash](./rawnaldclark-stash.md) | ⭐ 1.6k | Kotlin | 55/100 |
 | 289 | [CatimaLoyalty/Android](./catimaloyalty-android.md) | ⭐ 1.7k | Java | 55/100 |
 | 290 | [facebook/redex](./facebook-redex.md) | ⭐ 6.3k | C++ | 55/100 |
 | 291 | [OneBusAway/onebusaway-android](./onebusaway-onebusaway-android.md) | ⭐ 582 | Kotlin | 55/100 |

@@ -19,7 +19,7 @@
 | 9 | [modelstudioai/cli](./modelstudioai-cli.md) | ⭐ 370 | TypeScript | 79/100 |
 | 10 | [neopen/story-shot-agent](./neopen-story-shot-agent.md) | ⭐ 239 | Python | 78/100 |
 | 11 | [ffroliva/gflow-cli](./ffroliva-gflow-cli.md) | ⭐ 394 | Python | 78/100 |
-| 12 | [HBAI-Ltd/Toonflow-app](./hbai-ltd-toonflow-app.md) | ⭐ 21.7k | HTML | 78/100 |
+| 12 | [HBAI-Ltd/Toonflow-app](./hbai-ltd-toonflow-app.md) | ⭐ 21.8k | HTML | 78/100 |
 | 13 | [SlavaSexton/ComfyUI-Agent-Kit](./slavasexton-comfyui-agent-kit.md) | ⭐ 123 | Python | 77/100 |
 | 14 | [gokayfem/ComfyUI-fal-API](./gokayfem-comfyui-fal-api.md) | ⭐ 227 | Python | 76/100 |
 | 15 | [promptslab/Awesome-Prompt-Engineering](./promptslab-awesome-prompt-engineering.md) | ⭐ 6.5k | TypeScript | 76/100 |
@@ -60,7 +60,7 @@
 | 50 | [phpList/phplist3](./phplist-phplist3.md) | ⭐ 883 | PHP | 69/100 |
 | 51 | [zth0828/mmx-mcp-server](./zth0828-mmx-mcp-server.md) | ⭐ 30 | JavaScript | 69/100 |
 | 52 | [stabgan/openrouter-mcp-multimodal](./stabgan-openrouter-mcp-multimodal.md) | ⭐ 103 | TypeScript | 69/100 |
-| 53 | [Anil-matcha/Open-Generative-AI](./anil-matcha-open-generative-ai.md) | ⭐ 34.5k | JavaScript | 69/100 |
+| 53 | [Anil-matcha/Open-Generative-AI](./anil-matcha-open-generative-ai.md) | ⭐ 34.7k | JavaScript | 69/100 |
 | 54 | [utensils/mold](./utensils-mold.md) | ⭐ 58 | Rust | 68/100 |
 | 55 | [Kuhakucai/douyin-mcp](./kuhakucai-douyin-mcp.md) | ⭐ 93 | Python | 68/100 |
 | 56 | [backblaze-labs/genblaze](./backblaze-labs-genblaze.md) | ⭐ 549 | Python | 68/100 |
@@ -104,7 +104,7 @@
 | 94 | [frankzch/ai-news-skill](./frankzch-ai-news-skill.md) | ⭐ 24 | Python | 61/100 |
 | 95 | [Misar-AI/misarblog-mcp](./misar-ai-misarblog-mcp.md) | ⭐ 1 | TypeScript | 61/100 |
 | 96 | [Yifannnnnnnnw/ai-dispatch](./yifannnnnnnnw-ai-dispatch.md) | ⭐ 22 | Python | 61/100 |
-| 97 | [Wan-Video/Wan2.2](./wan-video-wan2.2.md) | ⭐ 18.6k | Python | 60/100 |
+| 97 | [Wan-Video/Wan2.2](./wan-video-wan2.2.md) | ⭐ 18.7k | Python | 60/100 |
 | 98 | [smixs/humanizer-ru](./smixs-humanizer-ru.md) | ⭐ 210 | — | 60/100 |
 | 99 | [visresearch/WordAgent](./visresearch-wordagent.md) | ⭐ 158 | Vue | 60/100 |
 | 100 | [WaveSpeedAI/mcp-server](./wavespeedai-mcp-server.md) | ⭐ 37 | TypeScript | 59/100 |

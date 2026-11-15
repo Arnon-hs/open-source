@@ -364,7 +364,7 @@
 | 354 | [pedronokia/skinvault](./pedronokia-skinvault.md) | ⭐ — | Python | 42/100 |
 | 355 | [nuthatch-org/burrmill](./nuthatch-org-burrmill.md) | ⭐ — | — | 41/100 |
 | 356 | [open-geocode-rs/open-geocode](./open-geocode-rs-open-geocode.md) | ⭐ — | — | 41/100 |
-| 357 | [mahdis24/iphone-backup-sync](./mahdis24-iphone-backup-sync.md) | ⭐ — | — | 41/100 |
+| 357 | [mahdis24/iphone-backup-sync](./mahdis24-iphone-backup-sync.md) | ⭐ 4 | — | 41/100 |
 | 358 | [s0ck3t/uk-public-procurement-api](./s0ck3t-uk-public-procurement-api.md) | ⭐ — | — | 41/100 |
 | 359 | [bricksentry/bricksentry](./bricksentry-bricksentry.md) | ⭐ 1 | — | 41/100 |
 | 360 | [Flubio/KPEI](./flubio-kpei.md) | ⭐ — | — | 41/100 |

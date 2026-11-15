@@ -32,9 +32,9 @@ Only categories with at least 10 project cards have folders. The complete machin
 | [Observability](../observability/README.md) | 329 |
 | [Orchestration](../orchestration/README.md) | 2,547 |
 | [Payments](../payments/README.md) | 399 |
-| [Product](../product/README.md) | 25 |
+| [Product](../product/README.md) | 26 |
 | [Productivity](../productivity/README.md) | 382 |
-| [Security](../security/README.md) | 529 |
+| [Security](../security/README.md) | 532 |
 | [Templates](../templates/README.md) | 503 |
 | [Trading](../trading/README.md) | 228 |
 | [Vertical Video](../vertical-video/README.md) | 173 |
